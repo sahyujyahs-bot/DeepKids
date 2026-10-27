@@ -1,0 +1,1348 @@
+{
+ "key": "combined|sci|2|rocks-and-soil",
+ "board": "combined",
+ "subj": "sci",
+ "level": 2,
+ "n": "rocks-and-soil",
+ "title": "Rocks and soil: what the ground under us is made of",
+ "source": "DeepKids Combined. Covers Cambridge Stage 2 Unit 1.4 'Rocks and the environment' (rocks around us and how we use them, properties of rocks, testing hardness and whether rocks absorb water, digging rocks from quarries, mines and river beds, and how this changes habitats). No textbook needed.",
+ "summary": "The soil in a flowerpot was once solid rock. Your child hunts for rock around the home, then tests rocks the way geologists do: which ones scratch, and which ones soak up water. They shake chalk in a bottle to see how rivers make pebbles and sand, look closely at soil, and let a jar of muddy water settle into layers. They grow salt crystals, press a fossil into dough, and meet Mary Anning and Charles Darwin. They end by thinking about what we gain and what we lose when we dig rocks out of the ground.",
+ "builds_on": "This is the first rocks-and-soil rung. From Class 1 your child already knows that things are made of different materials, and that stone is hard. In Class 5 this topic comes back with soil and crops: the main types of soil, how farmers prepare a field, sow, add manure, water and harvest, and which crops grow in which season.",
+ "goals": [
+  "By the end your child can find rock in and around the home, and say which things are natural rock and which are made by people from rock or soil.",
+  "By the end your child can test rocks for hardness with a fingernail and a steel key, and say which rocks are hard and which are soft.",
+  "By the end your child can test whether a rock absorbs water or is waterproof, and use this to choose a rock for a job.",
+  "By the end your child can explain weathering: how rain, roots, heat and rubbing slowly break rock into pebbles, sand and clay.",
+  "By the end your child can say what soil is made of and show the layers in a settled soil jar.",
+  "By the end your child can say what a crystal and a fossil are, and tell the story of Mary Anning.",
+  "By the end your child can say how we dig rocks out of quarries, mines and river beds, and name one thing gained and one thing lost."
+ ],
+ "words": [
+  [
+   "rock",
+   "the hard, natural material that the outside of the Earth is made of, like granite or chalk"
+  ],
+  [
+   "crust",
+   "the outer layer of rock that covers the whole Earth, under the soil and under the sea"
+  ],
+  [
+   "property",
+   "what a material is like, such as hard, soft, rough or waterproof"
+  ],
+  [
+   "hard",
+   "difficult to scratch or break, like granite"
+  ],
+  [
+   "absorb",
+   "to soak up water, the way chalk or a sponge does"
+  ],
+  [
+   "waterproof",
+   "does not let water soak in, like slate or a polished granite floor"
+  ],
+  [
+   "weathering",
+   "rock slowly breaking into smaller pieces because of rain, roots, heat and cold"
+  ],
+  [
+   "soil",
+   "the loose top layer of the ground, made of tiny bits of rock mixed with rotted plants, water, air and living things"
+  ],
+  [
+   "humus",
+   "the dark part of soil made from dead leaves and animals that have rotted"
+  ],
+  [
+   "mineral",
+   "a natural solid that rocks are made of, like the salt in rock salt or the shiny specks in granite"
+  ],
+  [
+   "crystal",
+   "a solid whose tiny particles fit together in a pattern that repeats, so it grows in neat shapes"
+  ],
+  [
+   "fossil",
+   "the shape or remains of a plant or animal from long ago, kept in rock"
+  ],
+  [
+   "quarry",
+   "a big open hole where people dig rock out at the Earth's surface"
+  ],
+  [
+   "mine",
+   "a deep hole with tunnels where people dig rock, like coal, from far underground"
+  ]
+ ],
+ "subconcepts": [
+  "the Earth's crust is made of rock",
+  "natural rocks and things made from rock or soil (brick, cement, glass)",
+  "hardness and the scratch test",
+  "rocks that absorb water and rocks that are waterproof",
+  "the right rock for the job: granite, marble, slate, chalk, sandstone, laterite, coal",
+  "weathering: rain, roots, heat and rubbing break rock",
+  "how pebbles, sand and clay are made",
+  "what soil is made of: rock grains, humus, water, air and living things",
+  "soil layers: gravel, sand, silt and clay",
+  "earthworms and tiny living things make soil",
+  "soils of India: red, black, alluvial, laterite and desert sand",
+  "minerals and crystals",
+  "fossils: old life kept in rock",
+  "quarries, mines and river beds, and how digging changes habitats"
+ ],
+ "day_mins": 35,
+ "days": [
+  {
+   "n": 1,
+   "title": "Rock is all around us",
+   "goal": "Find rock in the home, meet the story, and learn that the whole Earth is wrapped in rock.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Rock hunt at home",
+     "mins": 8,
+     "do": "Say: 'Let's find every piece of rock in our home.' Walk round together. Look at the kitchen counter (often granite), the floor (marble, granite or Kota stone), the grinding stone (ammikal or sil-batta), the steps, and any pebbles in a plant pot. For each one ask: 'Why do you think people used rock here?' Good answers: it is strong, it lasts a long time, it does not burn, it is easy to wash. Keep a list. Start a box for small rock pieces: you will need them all week."
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Corner of the Hill",
+     "mins": 12,
+     "do": "Read the story aloud. It is told by a piece of granite that breaks off a hill near the Kaveri river. Don't explain it. Ask two story questions: 'Why was the stone afraid?' and 'What did Appa show Selvi in the field?' Write down your child's answers. You will come back to them on Day 4."
+    },
+    {
+     "kind": "talk",
+     "title": "What is under the soil?",
+     "mins": 5,
+     "do": "Ask: 'If we dug straight down under our building, through all the soil, what would we hit?' Wait for a guess and a reason. Then say: 'We would hit rock. Under every field, every city and every sea there is rock. This outer skin of rock round the whole Earth is called the crust. It is tens of kilometres thick.' Ask: 'So where did the soil on top come from?' Let them guess. Don't answer yet. The week will answer it."
+    },
+    {
+     "kind": "act",
+     "title": "Natural or made?",
+     "mins": 10,
+     "do": "Do Activity a1. Put out a pebble, a piece of chalk, a piece of brick, a tile, a glass bottle, a spoon of cement or sand if you have it, a steel spoon and a spoon of salt. Ask your child to sort them into two groups: 'natural rock' and 'made by people'. Then tell them: brick is baked clay, which is soil. Glass is melted sand. Cement is made by heating limestone, a rock. Steel is made from iron ore, a rock dug from the ground. Ask: 'Is anything here not from the ground in the end?' Most things are.",
+     "ref": "a1"
+    }
+   ],
+   "need": [
+    "a box for rock pieces",
+    "a pebble, chalk, brick, a tile, a glass bottle, a steel spoon, salt",
+    "the story"
+   ],
+   "prep": [
+    {
+     "task": "Ask a tile or stone shop for small broken offcuts of granite and marble. They usually give them free.",
+     "when": "before Day 2"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Hard rock, soft rock",
+   "goal": "Test rocks for hardness and find out why we use each rock where we do.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Remember the rock hunt",
+     "mins": 4,
+     "do": "Look at yesterday's list of rocks in the home. Ask: 'Which rock do you think is the hardest? Which is the softest? How could we find out without breaking anything?' Listen. Then say: 'Geologists, the scientists who study rocks, test them by scratching. Let's do that.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The scratch test",
+     "mins": 15,
+     "do": "Do Experiment e1. Put out four to six samples: chalk, a pebble, a granite piece, a marble piece, a brick piece. First your child looks closely at each one, with a magnifying glass or a phone camera zoomed in, and says what it looks like: colour, shiny or dull, big grains or small. Then ask for a guess: 'Which ones will scratch?' Your child scratches each one with a fingernail. Then a grown-up holds the rock still while your child scratches it with an old steel key. Fill in the table: 'nail scratches it', 'key scratches it', 'nothing scratches it'. Say: 'A hard rock is one that is difficult to scratch.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "The right rock for the job",
+     "mins": 10,
+     "do": "Say: 'People choose a rock because of its properties. A property is what a material is like.' Tell your child these real examples and ask 'Why this rock?' after each: The Brihadeeswara temple in Thanjavur is built of granite, which is very hard, so it has stood for over 1000 years. The Taj Mahal is built of white marble from Makrana in Rajasthan, which is smooth and can be carved. Chalk is soft, so it leaves a mark on a board. Old houses in the Himachal hills have roofs of slate, which splits into flat sheets. Many old houses in Kerala are built of laterite, a red rock that can be cut into blocks. Coal is a black rock that burns. Ask: 'Why wouldn't we build a temple out of chalk?' (It is too soft and would wear away.)"
+    },
+    {
+     "kind": "act",
+     "title": "Singing stones",
+     "mins": 6,
+     "do": "Do Activity a6. Tap gently with a steel spoon on a granite counter, a marble piece, a brick, a piece of chalk and a pebble. Listen. Hard, solid rock rings. Soft or crumbly rock makes a dull thud. Tell your child: 'At the Vittala temple in Hampi there are granite pillars that ring with musical notes when tapped.' Clap a slow rhythm together with two pebbles, then a fast one.",
+     "ref": "a6"
+    }
+   ],
+   "need": [
+    "rock samples: chalk, a pebble, granite and marble offcuts, a brick piece",
+    "an old steel key",
+    "a magnifying glass or a phone camera",
+    "a steel spoon",
+    "paper for the table"
+   ],
+   "prep": []
+  },
+  {
+   "n": 3,
+   "title": "Soak it up or keep it out",
+   "goal": "Test which rocks absorb water, and use what we know to choose rocks for jobs.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Hard and soft",
+     "mins": 4,
+     "do": "Ask: 'Which rock did your fingernail scratch? Which one did even the steel key not scratch?' (Chalk scratched with a nail. Granite and most pebbles did not scratch even with the key.) Ask: 'Which would last longer as a step outside the door? Why?'"
+    },
+    {
+     "kind": "exp",
+     "title": "The drip test",
+     "mins": 12,
+     "do": "Do Experiment e2. Use the same samples. Ask first: 'Which rocks will drink the water? Which will keep it out?' Write a yes or no guess for each. Then your child drips three drops of water from a spoon onto each rock and watches for one minute. Does the drop sink in and leave a dark wet patch? Or does it sit on top like a little ball? Fill in the result. Say: 'A rock that soaks up water absorbs it. A rock that keeps water out is waterproof.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Which rock for a roof?",
+     "mins": 5,
+     "do": "Ask: 'You are building a roof in the hills where it rains a lot. Would you use chalk or slate? Why?' (Slate, because it is waterproof and splits into flat sheets. Chalk would soak up the rain and crumble.) Ask: 'Which rock would be best for a bathroom floor?' (Granite, because it is hard and waterproof.)"
+    },
+    {
+     "kind": "game",
+     "title": "Play Rock for the Job",
+     "mins": 14,
+     "do": "Play Game g1. Put the job cards face up. Take turns to pick a rock card, put it under a job it could do, and say why using a property word: hard, soft, waterproof, absorbs water, can be carved, burns. If everyone agrees, keep the card. Some rocks can do two jobs: any good reason counts.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "the rock samples",
+    "a cup of water and a spoon",
+    "the printed game cards and scissors"
+   ],
+   "prep": []
+  },
+  {
+   "n": 4,
+   "title": "How rock breaks into sand",
+   "goal": "See how rubbing wears rock down, and learn the word weathering.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "How did the pebble get round?",
+     "mins": 4,
+     "do": "Give your child a smooth, round pebble to hold. Ask: 'Rock breaks with sharp corners. So how did this pebble get so smooth and round?' Wait for a guess and a reason. Write it down."
+    },
+    {
+     "kind": "exp",
+     "title": "Shake the chalk",
+     "mins": 14,
+     "do": "Do Experiment e3. Put three pieces of chalk and half a glass of water into a plastic bottle. Close the lid tightly. Take turns to shake it hard, 100 shakes in all. Keep one piece of chalk outside as a 'before' piece. Pour out the water into a steel bowl and put the chalk pieces next to the 'before' piece. Ask: 'What changed?' (The corners are rounded, the pieces are smaller, and the water is milky with chalk powder.) Now put one pebble in the bottle and shake it 100 times. Ask: 'Why didn't the pebble change?' (It is much harder. It would take years in a river.)",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Rain, roots, heat and rubbing",
+     "mins": 9,
+     "do": "Say: 'Rocks slowly break into smaller pieces. Scientists call this weathering.' Tell four ways, and ask your child for an example of each from what they have seen. 1. Rubbing: rivers roll stones against each other, like our bottle. That is how pebbles become round and sand is made. 2. Roots: look for a peepal or banyan plant growing out of a crack in an old wall. As its roots grow, they push the crack wider. 3. Water: rain gets into cracks and slowly dissolves and loosens the grains. 4. Heat: hot days and cool nights make rock swell and shrink a tiny bit, again and again, until it cracks. Go back to the story: 'Why did the stone keep getting smaller?' (Weathering. The river rolled it and wore bits off.)"
+    },
+    {
+     "kind": "act",
+     "title": "From hill to sand",
+     "mins": 8,
+     "do": "Do Activity a2. Your child stands in Mountain Pose: feet together, arms by the sides, tall and still, breathing slowly for five breaths. You are the weather. Say 'roots!' and they crack apart and curl into a ball, a boulder. Say 'river!' and they roll slowly across the floor, a pebble. Say 'rubbing!' and they wriggle their fingers as they shrink, sand grains. Say 'rain on the field!' and they lie flat and still, soil. Ask: 'How long do you think that takes for a real hill?' (Thousands to millions of years.)",
+     "ref": "a2"
+    }
+   ],
+   "need": [
+    "a smooth pebble",
+    "3 pieces of chalk",
+    "a plastic bottle with a lid",
+    "a steel bowl",
+    "water"
+   ],
+   "prep": [
+    {
+     "task": "Get a cupful of soil: from a potted plant, or a bag of garden soil from a plant nursery.",
+     "when": "before Day 5"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "What is soil made of?",
+   "goal": "Look closely at soil, set up a soil jar, and meet the earthworm's scientist.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Milky water",
+     "mins": 4,
+     "do": "Ask: 'Remember the milky water from the chalk bottle? What made it milky?' (Tiny bits of chalk.) Say: 'Very tiny bits of rock like this are part of soil. Today we find out what else is in it.'"
+    },
+    {
+     "kind": "act",
+     "title": "Soil detective",
+     "mins": 13,
+     "do": "Do Activity a3. Spread two spoons of soil on a white paper. Your child looks with a magnifying glass or a phone camera zoomed in. Ask them to find and point to: grains of sand, bigger bits of stone, bits of dead leaf or root, white threads (these are often fungus), and any tiny creature. Rub a pinch between finger and thumb: gritty means sand, smooth and sticky when wet means clay. Say: 'Soil is tiny bits of rock, mixed with rotted plants and animals called humus, plus water, air and many living things. One spoon of healthy soil holds millions of living things too small to see.' Put the soil and any creature back in the pot. Wash hands.",
+     "ref": "a3"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the soil jar",
+     "mins": 10,
+     "do": "Do Experiment e4. Fill a clear bottle or jar one-third with soil. Add water until it is nearly full. Close it and shake hard for one minute. Put it where nobody will move it. Ask: 'What do you think it will look like tomorrow? Will everything mix, or will it make layers?' Your child draws their guess.",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "Darwin and the earthworms",
+     "mins": 8,
+     "do": "Tell the story in Voice v1. Say: 'Charles Darwin, the scientist famous for evolution, studied earthworms, on and off, for about forty years.' He showed that worms swallow soil and dead leaves and leave crumbly soil on top, called castings. Over many years this slowly buries stones. Ask the voice's question. If you have a garden or a park nearby, look under a wet flowerpot or a pile of leaves for worm castings.",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "a cupful of soil",
+    "white paper",
+    "a magnifying glass or a phone camera",
+    "a clear bottle or jar with a lid",
+    "water"
+   ],
+   "prep": []
+  },
+  {
+   "n": 6,
+   "title": "Soil layers and soils of India",
+   "goal": "Read the soil jar, meet India's main soils, and start growing crystals.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Read the soil jar",
+     "mins": 7,
+     "do": "Look at Experiment e4 without shaking it. Compare it with yesterday's guess. Ask your child to point to each layer from the bottom: small stones and gravel, then sand, then a fine smooth layer called silt, then clay at the top (the water may still be cloudy, as clay settles very slowly). Bits of leaf and root float on top: that is humus. Ask: 'Why are the stones at the bottom?' (They are the biggest and heaviest, so they sink first.)",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "Soils of India",
+     "mins": 7,
+     "do": "Say: 'Soil is not the same everywhere, because the rock underneath and the weather are different.' Tell your child: Red soil is common in Tamil Nadu and Karnataka. It is red because of iron in it, the same iron that makes rust red. Black soil covers much of the Deccan, in Maharashtra and nearby. It holds water well and is good for cotton. Alluvial soil is laid down by rivers, in the Ganga plains and the Kaveri delta. It is soft and good for rice and wheat. Laterite soil is found in Kerala and along the west coast. The Thar desert in Rajasthan is mostly sand. Ask: 'What colour is the soil in our pot? What does that tell us?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Start growing salt crystals",
+     "mins": 8,
+     "do": "Set up Experiment e5. A grown-up pours half a cup of hot water. Your child stirs in salt one spoon at a time until no more dissolves. Pour a thin layer into a dark steel plate. Put it on a sunny windowsill where nobody will touch it. Ask: 'Salt is a mineral that comes from rock and the sea. What do you think we will see in two days?'",
+     "ref": "e5"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 13,
+     "do": "Do Worksheet ws1. It asks about scratching, dripping, weathering and soil. Read each question aloud if needed. For the two written questions, ask your child to say the answer first, then write it.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "the soil jar",
+    "salt",
+    "hot water (grown-up)",
+    "a dark steel plate",
+    "worksheet ws1"
+   ],
+   "prep": [
+    {
+     "task": "Make a small ball of atta dough (or use clay) and find a leaf, a shell or a bone from cooking for the fossil print.",
+     "when": "before Day 7"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "What rocks remember: fossils",
+   "goal": "Learn how fossils form, meet Mary Anning, and make a fossil print.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Mary Anning, the fossil hunter",
+     "mins": 10,
+     "do": "Tell the story in Voice v2. Say: 'Mary Anning was a poor girl who lived by the sea cliffs at Lyme Regis in England, more than 200 years ago.' Her family sold fossils to tourists to buy food. When she was about 12, she dug out the skeleton of a huge sea reptile, after her brother Joseph found its skull. Say: 'A fossil is the shape or remains of a plant or animal from long ago, kept in rock.' Ask: 'Why do you think scientists bought her fossils but did not let her join their society?' Ask the voice's question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "act",
+     "title": "Make a fossil print",
+     "mins": 6,
+     "do": "Do Activity a5. Your child flattens a ball of atta dough. They press a leaf, a shell or a clean bone firmly into it, then lift it out carefully. The print stays. Say: 'Real fossils form when a living thing is buried in mud or sand. Over a very long time the mud turns to rock, and the shape stays.' Ask: 'Which parts of an animal would most likely become a fossil, the soft parts or the hard parts? Why?' (The hard parts, like bones, shells and teeth, because soft parts rot away first.)",
+     "ref": "a5"
+    },
+    {
+     "kind": "act",
+     "title": "Crystal dance",
+     "mins": 7,
+     "do": "Do Activity a4. Say: 'In a crystal, tiny particles line up in a pattern that repeats.' With two or more people, hold hands to make a square. Then add another square next to it, sharing hands, to show the pattern growing. With one child, use cushions or steel tumblers in a square grid on the floor and let the child 'grow' the pattern. Ask: 'What if one cushion is out of place?' (The pattern has a mistake. Real crystals have mistakes too.)",
+     "ref": "a4"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 12,
+     "do": "Do Worksheet ws2. It asks about the soil jar, roots, crystals, fossils and soils of India. Let your child look at the soil jar and their notes while they work.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "atta dough or clay",
+    "a leaf, a shell or a clean bone",
+    "cushions or tumblers",
+    "worksheet ws2"
+   ],
+   "prep": []
+  },
+  {
+   "n": 8,
+   "title": "Digging rocks out of the ground",
+   "goal": "Look at the salt crystals, think about how crystals and life might be linked, and learn what digging does to the land.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Look at the salt crystals",
+     "mins": 6,
+     "do": "Look at Experiment e5 with a magnifying glass or a zoomed phone camera. Ask: 'What shapes can you see?' (Tiny squares. Each one is a little cube.) Say: 'Salt particles always fit together in the same box-shaped pattern, so salt crystals grow as cubes. The shiny specks in granite are crystals of other minerals.' If there are no crystals yet, leave the plate in the sun one more day.",
+     "ref": "e5"
+    },
+    {
+     "kind": "talk",
+     "title": "Could clay crystals have helped life begin?",
+     "mins": 6,
+     "do": "Tell Voice v3. Say: 'Nobody knows how the first living things began. Graham Cairns-Smith, a chemist in Scotland, had an unusual idea.' Clay is made of tiny crystals that grow and copy their pattern. He thought the very first steps towards life might have used clay crystals as a pattern. Most scientists think other ideas are more likely. Ask: 'Why might it be hard to find out what happened four billion years ago?'",
+     "ref": "v3"
+    },
+    {
+     "kind": "talk",
+     "title": "Quarries, mines and river beds",
+     "mins": 9,
+     "do": "Say: 'Where does the granite for our kitchen come from?' Wait for a guess. Then tell: rock near the surface is dug from a quarry, a big open hole, sometimes broken with explosives. Granite comes from quarries in Karnataka and Tamil Nadu. Makrana marble comes from quarries in Rajasthan. Coal is dug from deep mines with tunnels, many of them in Jharkhand. Sand is dug from river beds. Ask: 'What was on that land before the quarry?' (Often a forest or a hill, the home of many plants and animals.) 'What happens to them?' (They lose their home.) Ask: 'Why do miners wear helmets with lamps?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 14,
+     "do": "Do Worksheet ws3. The last question has no single right answer. Listen to your child's reasons for and against digging, and ask 'What else could they do?'",
+     "ref": "ws3"
+    }
+   ],
+   "need": [
+    "the salt crystal plate",
+    "a magnifying glass or a phone camera",
+    "worksheet ws3"
+   ],
+   "prep": []
+  },
+  {
+   "n": 9,
+   "title": "Our home rock museum",
+   "goal": "Finish the rock and soil museum, think about the big questions, and teach it back.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Make the rock museum",
+     "mins": 15,
+     "do": "Do the project. Lay out the rock box on a tray or in an egg carton. Your child writes a small label for each sample: its name, where it came from, hard or soft, absorbs water or waterproof. Add the soil jar, the salt crystal plate and the fossil print. Ask: 'Which sample would you give to a scientist? Why?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Other eyes on rocks",
+     "mins": 7,
+     "do": "Read two of the perspectives aloud: the stone carver of Mahabalipuram and the earthworm. Then ask one big question: 'The rice you eat grew in soil, and soil was once rock. Are you partly made of rock?' (The minerals in our bones, like calcium, came from rock through soil and food.) Listen. There is no single right answer."
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 6,
+     "do": "Ask the check questions aloud. Let your child use the museum to show the answers."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 7,
+     "do": "Your child gives a tour of the museum to the family. They explain how a hill becomes soil, one hard rock and one soft rock, one rock that absorbs water and one that is waterproof, and what a fossil is. The family asks one question each."
+    }
+   ],
+   "need": [
+    "the rock box, soil jar, salt plate and fossil print",
+    "a tray or egg carton",
+    "small paper labels"
+   ],
+   "prep": []
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Hard, soft, wet and dry",
+   "day": 6,
+   "sections": [
+    [
+     "A. Testing rocks",
+     [
+      {
+       "t": "mcq",
+       "p": "Kavya scratches a piece of chalk with her fingernail. What happens?",
+       "opts": [
+        "Her nail makes a mark in the chalk.",
+        "Nothing happens.",
+        "The chalk scratches her nail."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Arjun drips water on a granite tile. The drop sits on top like a little ball. So granite is…",
+       "opts": [
+        "waterproof",
+        "soft",
+        "made of soil"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Chalk soaks up water. We say chalk ____ water.",
+       "a": [
+        "absorbs",
+        "soaks up"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each rock to how we use it.",
+       "pairs": [
+        [
+         "granite",
+         "temple walls and kitchen counters"
+        ],
+        [
+         "marble",
+         "the Taj Mahal"
+        ],
+        [
+         "slate",
+         "roofs in rainy hills"
+        ],
+        [
+         "chalk",
+         "writing on a board"
+        ],
+        [
+         "coal",
+         "burning to make heat"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort these into natural rock and things people make from rock or soil.",
+       "items": [
+        "a river pebble",
+        "a granite slab",
+        "a lump of coal",
+        "rock salt",
+        "a brick",
+        "a glass bottle",
+        "cement"
+       ],
+       "cats": [
+        "natural rock",
+        "made by people from rock or soil"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Weathering and soil",
+     [
+      {
+       "t": "fill",
+       "p": "When rock slowly breaks into smaller and smaller pieces, we call it ____.",
+       "a": [
+        "weathering"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "What is soil made of?",
+       "opts": [
+        "tiny bits of rock, rotted plants, water, air and living things",
+        "only mud",
+        "only dead leaves"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "We shook chalk in a bottle of water. Why are pebbles in a river round and smooth?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Lakshmi is choosing a floor for her bathroom. Should she choose chalk or granite? Give two reasons.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Layers, roots, crystals and fossils",
+   "day": 7,
+   "sections": [
+    [
+     "A. Soil and weathering",
+     [
+      {
+       "t": "mcq",
+       "p": "Meenakshi shakes soil and water in a jar and leaves it overnight. Which layer is at the very bottom?",
+       "opts": [
+        "small stones and gravel",
+        "clay",
+        "bits of leaf"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A peepal seed starts to grow in a crack in an old wall. Years later the wall breaks. What broke it?",
+       "opts": [
+        "The roots grew and pushed the crack wider.",
+        "The leaves were too heavy.",
+        "The seed was very hot."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Charles Darwin studied earthworms for many years. What did he find?",
+       "opts": [
+        "Worms mix the soil and slowly bury stones.",
+        "Worms eat rocks.",
+        "Worms harm all plants."
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each soil to what it is like.",
+       "pairs": [
+        [
+         "red soil",
+         "red because of iron in it"
+        ],
+        [
+         "black soil",
+         "holds water well, good for cotton"
+        ],
+        [
+         "sandy soil",
+         "water drains through it fast"
+        ],
+        [
+         "soil with lots of humus",
+         "dark, made from rotted leaves"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort these into things that break rock down and things that don't.",
+       "items": [
+        "rain getting into cracks",
+        "roots growing",
+        "a river rolling stones",
+        "hot days and cool nights",
+        "a rock kept in a glass case"
+       ],
+       "cats": [
+        "breaks rock down",
+        "does not break rock down"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Crystals and fossils",
+     [
+      {
+       "t": "fill",
+       "p": "The shape of a plant or animal from long ago, kept in rock, is called a ____.",
+       "a": [
+        "fossil"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Salt crystals are shaped like tiny ____.",
+       "a": [
+        "cubes",
+        "cube",
+        "boxes",
+        "squares"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Farhan's soil jar has a thick sand layer and almost no clay. Will rain drain through his soil fast or slowly? Why?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Mary Anning found many famous fossils, but she was not allowed to join the scientists' society. Why do you think her name was left out of many books?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Digging, keeping and losing",
+   "day": 8,
+   "sections": [
+    [
+     "A. Slow changes",
+     [
+      {
+       "t": "mcq",
+       "p": "Granite is much harder than chalk. Over millions of years, what happens to a granite hill?",
+       "opts": [
+        "It wears down too, but much more slowly.",
+        "It never changes at all.",
+        "It turns into chalk."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Heavy rain falls on a farm. What helps most to stop the soil washing away?",
+       "opts": [
+        "plants and roots covering the ground",
+        "bare ground with no plants",
+        "digging the soil loose"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Digging rocks",
+     [
+      {
+       "t": "fill",
+       "p": "A big open hole where people dig rock out at the Earth's surface is called a ____.",
+       "a": [
+        "quarry"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A deep hole with tunnels, where people dig out coal far underground, is called a ____.",
+       "a": [
+        "mine",
+        "coal mine"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each rock to a place in India where it is dug out.",
+       "pairs": [
+        [
+         "marble",
+         "Makrana in Rajasthan"
+        ],
+        [
+         "coal",
+         "mines in Jharkhand"
+        ],
+        [
+         "sand",
+         "river beds"
+        ],
+        [
+         "granite",
+         "quarries in Karnataka and Tamil Nadu"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "A new quarry is dug into a forest hill. Sort these into what people get and what may be lost.",
+       "items": [
+        "stone for houses",
+        "jobs for workers",
+        "homes of birds and monkeys",
+        "old trees",
+        "money from selling stone",
+        "the soil on the hill"
+       ],
+       "cats": [
+        "what people get",
+        "what may be lost"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "A layer of soil as deep as your finger is wide can take hundreds of years to form. A builder scrapes away a field's soil in one day. What does this mean for that field?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Imagine people find gold under your school playground. Should they dig it out? Give one reason for and one reason against.",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The scratch test",
+   "day": 2,
+   "question": "Which rocks are hard and which are soft?",
+   "need": [
+    "4 to 6 samples: a piece of chalk, a pebble, a granite offcut, a marble offcut, a piece of brick",
+    "an old steel key",
+    "a magnifying glass or a phone camera",
+    "paper for a table"
+   ],
+   "steps": [
+    "Look closely at each sample and say what it looks like.",
+    "Guess which ones will scratch.",
+    "Scratch each one with a fingernail.",
+    "A grown-up holds the rock flat on the table. Scratch it firmly with the tip of the steel key, away from your body.",
+    "Rub the mark with a finger: is it a real groove, or only a line of metal that rubs off?",
+    "Fill in the table: nail scratches it, key scratches it, or nothing scratches it."
+   ],
+   "predict": "Ask: 'Which rock do you think is hardest? Why?'",
+   "observe": "A fingernail scratches chalk. The steel key scratches marble and brick, but not the fingernail. Granite and most pebbles are not scratched even by the key: the key only leaves a grey line of metal that rubs off.",
+   "why": "Rocks are made of minerals, and some minerals are harder than others. Chalk is very soft. Marble is harder than a fingernail but softer than steel. Granite and most river pebbles contain a mineral called quartz, which is harder than steel. That is why granite makes good steps and kitchen counters.",
+   "safety": "A grown-up holds the rock. Scratch away from the body. Wash hands after handling rocks.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "The drip test",
+   "day": 3,
+   "question": "Which rocks absorb water, and which are waterproof?",
+   "need": [
+    "the rock samples from the scratch test",
+    "a cup of water and a spoon",
+    "a magnifying glass if you have one"
+   ],
+   "steps": [
+    "Write a yes or no guess for each rock: will it absorb water?",
+    "Drip three drops of water onto each rock.",
+    "Watch each one for one minute.",
+    "Does the drop sink in and leave a dark wet patch, or sit on top?",
+    "Write the result next to the guess."
+   ],
+   "predict": "Ask: 'Which rocks will drink the water? How can you tell by looking?'",
+   "observe": "The drops vanish into chalk and brick at once and leave a dark patch. On a polished granite or marble tile and on a smooth pebble the drops sit on top as round beads.",
+   "why": "Chalk and brick have many tiny holes and gaps between their grains, so water creeps into them. Granite and polished marble have grains packed tightly together, with almost no gaps, so the water stays on top. A rock that soaks up water absorbs it. One that keeps water out is waterproof.",
+   "safety": "",
+   "time": "10 min"
+  },
+  {
+   "id": "e3",
+   "title": "Shake the chalk",
+   "day": 4,
+   "question": "How do rocks become round pebbles and sand?",
+   "need": [
+    "4 pieces of chalk",
+    "a plastic bottle with a lid",
+    "half a glass of water",
+    "a steel bowl",
+    "a pebble"
+   ],
+   "steps": [
+    "Keep one piece of chalk aside as the 'before' piece.",
+    "Put three pieces of chalk and the water into the bottle and close it tightly.",
+    "Take turns to shake it hard, 100 shakes in all.",
+    "Pour the water into the bowl and put the chalk next to the 'before' piece.",
+    "Now shake one pebble in the bottle 100 times and look at it."
+   ],
+   "predict": "Ask: 'What will happen to the chalk? What will happen to the pebble?'",
+   "observe": "The shaken chalk has rounded corners and is smaller, and the water is milky with chalk powder. The pebble looks the same.",
+   "why": "When pieces of rock knock and rub against each other, small bits break off. The corners go first, so the pieces become round. This is one kind of weathering. Rivers roll stones against each other in the same way, for years. That is how river pebbles become smooth and how sand is made. Hard rock like a pebble wears away far more slowly than soft chalk.",
+   "safety": "Close the lid tightly. Wipe up spills so the floor is not slippery.",
+   "time": "12 min"
+  },
+  {
+   "id": "e4",
+   "title": "Soil jar",
+   "day": 5,
+   "question": "What is soil made of, and does it sort itself into layers?",
+   "need": [
+    "a cupful of soil from a potted plant or a nursery bag of garden soil",
+    "a clear plastic bottle or glass jar with a lid",
+    "water"
+   ],
+   "steps": [
+    "Fill the jar one-third with soil.",
+    "Add water until it is nearly full.",
+    "Close it and shake hard for one minute.",
+    "Put it where nobody will move it.",
+    "Look the next day, without shaking it, and draw the layers."
+   ],
+   "predict": "Ask: 'Will the soil and water stay mixed, or will they make layers? Which bits will sink first?'",
+   "observe": "Small stones settle at the bottom, then sand, then a fine smooth layer of silt, then clay at the top. The water above may stay cloudy for a day or more. Bits of leaf and root float. Potting soil from a nursery often has a lot of floating material, because it is mixed with compost or coconut fibre.",
+   "why": "The heaviest, biggest grains sink fastest, so they end up at the bottom. Clay grains are so tiny that they take a long time to settle. The floating bits are humus, from dead plants. So soil is broken rock of many sizes, mixed with rotted living things.",
+   "safety": "If you use a glass jar, carry it with two hands.",
+   "time": "10 min to set up, look the next day"
+  },
+  {
+   "id": "e5",
+   "title": "Grow salt crystals",
+   "day": 6,
+   "question": "What shape do salt crystals grow in?",
+   "need": [
+    "half a cup of hot water",
+    "salt",
+    "a spoon",
+    "a dark steel plate or a dark plastic lid",
+    "a sunny windowsill",
+    "a magnifying glass or a phone camera"
+   ],
+   "steps": [
+    "A grown-up pours the hot water into a cup.",
+    "Stir in salt one spoon at a time until no more dissolves.",
+    "Pour a thin layer into the plate.",
+    "Leave it in the sun, without touching it, for two or three days.",
+    "Look at what is left with a magnifier or a zoomed phone camera."
+   ],
+   "predict": "Ask: 'When the water dries up, what will be left? What shape will it be?'",
+   "observe": "As the water evaporates, tiny white square crystals appear. Under the magnifier many look like little cubes, some joined together.",
+   "why": "Salt is a mineral. Its tiny particles always fit together in the same box-shaped pattern, so salt crystals grow as cubes. Most rocks are made of mineral crystals. The shiny specks you can see in granite are crystals of minerals too.",
+   "safety": "A grown-up handles the hot water. Don't taste the crystals after they have sat out.",
+   "time": "8 min to set up, look after 2 to 3 days"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Natural or made?",
+   "day": 1,
+   "mins": 10,
+   "need": [
+    "a pebble, chalk, a piece of brick, a tile, a glass bottle, a spoon of cement or sand, a steel spoon, a spoon of salt"
+   ],
+   "steps": [
+    "Put all the things on the floor.",
+    "Your child sorts them into 'natural rock' and 'made by people'.",
+    "The grown-up tells where each made thing came from: brick from clay, glass from sand, cement from limestone, steel from iron ore.",
+    "Ask which things did not come from the ground in the end."
+   ],
+   "outcome": "Your child sees that most things around us, even made ones, began as rock or soil."
+  },
+  {
+   "id": "a2",
+   "title": "From hill to sand",
+   "day": 4,
+   "mins": 8,
+   "need": [
+    "a clear space on the floor"
+   ],
+   "steps": [
+    "Stand in Mountain Pose: feet together, arms by the sides, tall and still, for five slow breaths.",
+    "On 'roots!', crack apart and curl into a boulder.",
+    "On 'river!', roll slowly across the floor as a pebble.",
+    "On 'rubbing!', wriggle the fingers and shrink into sand grains.",
+    "On 'rain on the field!', lie flat and still as soil."
+   ],
+   "outcome": "Your child acts out the whole journey from rock to soil and remembers the order."
+  },
+  {
+   "id": "a3",
+   "title": "Soil detective",
+   "day": 5,
+   "mins": 13,
+   "need": [
+    "two spoons of soil",
+    "white paper",
+    "a magnifying glass or a phone camera"
+   ],
+   "steps": [
+    "Spread the soil thinly on the white paper.",
+    "Find sand grains, bigger stones, bits of leaf and root, white threads and any tiny creature.",
+    "Rub a pinch between finger and thumb, dry and then wet: gritty is sand, sticky is clay.",
+    "Draw three things you found.",
+    "Put the soil and any creature back in the pot, and wash hands."
+   ],
+   "outcome": "A drawing of what is really in soil: rock grains, rotted plant bits and living things."
+  },
+  {
+   "id": "a4",
+   "title": "Crystal dance",
+   "day": 7,
+   "mins": 7,
+   "need": [
+    "two or more people, or cushions or steel tumblers"
+   ],
+   "steps": [
+    "Hold hands to make a square.",
+    "Add another square next to it, sharing hands.",
+    "Keep adding squares so the pattern grows in every direction.",
+    "With one child, lay cushions or tumblers in a square grid instead.",
+    "Put one out of place and ask what changes."
+   ],
+   "outcome": "Your child feels what 'a pattern that repeats' means in a crystal."
+  },
+  {
+   "id": "a5",
+   "title": "Fossil print",
+   "day": 7,
+   "mins": 6,
+   "need": [
+    "a ball of atta dough or clay",
+    "a leaf, a shell or a clean bone from cooking"
+   ],
+   "steps": [
+    "Flatten the dough into a thick round.",
+    "Press the leaf, shell or bone in firmly.",
+    "Lift it out carefully.",
+    "Leave the print to dry for the rock museum."
+   ],
+   "outcome": "A fossil-like print and an idea of how a shape can be kept for a very long time."
+  },
+  {
+   "id": "a6",
+   "title": "Singing stones",
+   "day": 2,
+   "mins": 6,
+   "need": [
+    "a steel spoon",
+    "granite, marble, brick, chalk and a pebble",
+    "two pebbles"
+   ],
+   "steps": [
+    "Tap each rock gently with the spoon.",
+    "Listen: does it ring or thud?",
+    "Clap a slow rhythm with two pebbles, then a fast one."
+   ],
+   "outcome": "Your child hears that hard, solid rock rings and soft, crumbly rock thuds."
+  }
+ ],
+ "project": {
+  "title": "Our home rock and soil museum",
+  "days": [
+   8,
+   9
+  ],
+  "steps": [
+   "Collect all the samples used this week in one box: chalk, pebble, granite, marble, brick, and coal or rock salt if you have them.",
+   "Lay them out on a tray or in an egg carton.",
+   "Write a label for each: its name, where it came from, hard or soft, absorbs water or waterproof, and one thing people use it for.",
+   "Add the soil jar, the salt crystal plate and the fossil print, each with a label.",
+   "Give a tour of the museum to the family."
+  ],
+  "outcome": "A small labelled museum that shows how rocks differ and how rock becomes soil."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Rock for the Job",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed page of cards",
+   "scissors"
+  ],
+  "rules": [
+   "Cut out the cards. Put the six JOB cards face up in a row. Shuffle the ROCK cards and put them face down in a pile.",
+   "On your turn, take a rock card and read it aloud.",
+   "Put it under a job it could do, and say why using a property word: hard, soft, waterproof, absorbs water, can be carved, burns.",
+   "If the other players agree, keep the card. If not, put it at the bottom of the pile.",
+   "Some rocks can do two jobs. Any good reason counts.",
+   "When the pile is empty, the player with the most cards wins."
+  ],
+  "cards": [
+   {
+    "job": true,
+    "front": "JOB: a temple that lasts 1000 years"
+   },
+   {
+    "job": true,
+    "front": "JOB: a roof in the rainy hills"
+   },
+   {
+    "job": true,
+    "front": "JOB: writing on a board"
+   },
+   {
+    "job": true,
+    "front": "JOB: carving a statue"
+   },
+   {
+    "job": true,
+    "front": "JOB: heat for cooking"
+   },
+   {
+    "job": true,
+    "front": "JOB: a bathroom floor"
+   },
+   {
+    "front": "granite: very hard, waterproof",
+    "back": "a temple, a bathroom floor"
+   },
+   {
+    "front": "marble: smooth, can be carved",
+    "back": "carving a statue, a floor"
+   },
+   {
+    "front": "slate: waterproof, splits into flat sheets",
+    "back": "a roof in the rainy hills"
+   },
+   {
+    "front": "chalk: very soft, rubs off",
+    "back": "writing on a board"
+   },
+   {
+    "front": "coal: black, burns",
+    "back": "heat for cooking"
+   },
+   {
+    "front": "sandstone: can be cut and carved, like the Red Fort",
+    "back": "a temple, carving"
+   },
+   {
+    "front": "laterite: red, cut into blocks, like old Kerala houses",
+    "back": "walls of a building"
+   },
+   {
+    "front": "Kota stone: hard, flat slabs",
+    "back": "a floor"
+   },
+   {
+    "front": "river pebbles: hard and round",
+    "back": "a garden path"
+   },
+   {
+    "front": "soapstone: very soft, carves easily",
+    "back": "carving small statues and pots"
+   },
+   {
+    "front": "clay: soft when wet, hard when baked",
+    "back": "bricks and pots"
+   },
+   {
+    "front": "sand: tiny hard grains",
+    "back": "melted into glass, mixed into cement"
+   }
+  ]
+ },
+ "big": [
+  "Who owns the rock under your home: your family, the government, or nobody?",
+  "If a hill is dug away to build a city, what is gained and what is lost? Who decides?",
+  "Is soil alive, or is it just full of living things?",
+  "The rice you eat grew in soil that was once rock. Are you partly made of rock?",
+  "A rock looks still, but its tiny particles never stop shaking. Does a rock feel anything? How could we ever find out?"
+ ],
+ "challenge": [
+  {
+   "q": "'Rocks never change. That's why we say solid as a rock.'",
+   "hint": "Rocks do change, but very slowly. Our chalk bottle shows rubbing wears rock away. Rivers, roots, rain and heat break even granite hills into sand over millions of years, and new rock forms deep underground. In the 1700s a Scottish farmer and thinker, James Hutton, argued that the Earth must be very old for this to happen. Ask: what changes in your life too slowly to notice?"
+  },
+  {
+   "q": "'Blackboard chalk is a rock dug out of the ground.'",
+   "hint": "Usually not. Most classroom chalk is made in factories, often from a soft mineral called gypsum. Real chalk is a soft white rock made from the shells of tiny sea creatures, like the white cliffs of Dover in England. Both are soft and both absorb water. Ask: how could you find out what your chalk is made of?"
+  },
+  {
+   "q": "'Mary Anning found her famous sea reptile skeleton all by herself when she was 12.'",
+   "hint": "Her brother Joseph found the skull in 1811. Mary found the rest of the skeleton about a year later, when she was about 12 or 13, and dug it out with workmen. It was her later finds, made on her own over many years, that made her famous among scientists. Ask: why do we like stories with one hero?"
+  },
+  {
+   "q": "'Soil is just dirt.'",
+   "hint": "Soil is broken rock mixed with humus, water, air, worms, fungi and millions of tiny living things in every spoonful. It can take hundreds of years to make a layer as deep as a finger is wide. Ask: why do we use the word 'dirt' for something that grows all our food?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A stone carver in Mahabalipuram, Tamil Nadu",
+   "view": "Carvers in Mahabalipuram still shape granite by hand, as people there did when the shore temples were carved over 1200 years ago. A carver knows each stone has a grain, and if you strike against it, it may crack. Ask: how might the carver know things about granite that a book doesn't say?"
+  },
+  {
+   "who": "An earthworm",
+   "view": "To a worm, soil is food, home and a road. It eats its way through, and leaves soil looser and richer behind it. Ask: if worms could vote, what would they say about cement floors?"
+  },
+  {
+   "who": "People who walk around Arunachala hill in Tiruvannamalai",
+   "view": "Many people in Tiruvannamalai treat the hill as Shiva himself, and walk barefoot around it in respect. To them, a hill is not just rock to be used. Ask: does it change how you treat a hill if you see it as sacred?"
+  },
+  {
+   "who": "A farmer in the Deccan with black soil",
+   "view": "A farmer can tell a lot by holding soil: black soil gets very sticky in the rains, and cracks deeply in summer, but it holds water for a long time, which is good for cotton. Ask: what could you learn about soil just by touching it?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Charles Darwin (1809–1882), scientist, England, and Gilbert White (1720–1793), a country priest, England",
+   "idea": "In his last book, in 1881, Darwin showed that earthworms swallow soil and dead leaves and leave fine soil on the surface as castings. He measured how stones in his own field slowly sank as worms buried them over many years. Long before him, Gilbert White, a village priest who watched nature closely, wrote in 1770 that worms were small but very important for the soil.",
+   "then": "Many gardeners and farmers thought worms were pests that harmed plants. Most scientists thought animals so small could not change the land.",
+   "now": "Accepted. Earthworms are among the most important soil makers. They mix the soil and make tunnels that let in air and water.",
+   "status": "accepted",
+   "ask": "Darwin was a famous scientist, and Gilbert White was a village priest. Whose idea do you think people listened to? Why?",
+   "day": 5
+  },
+  {
+   "id": "v2",
+   "who": "Mary Anning (1799–1847), fossil hunter, Lyme Regis, England",
+   "idea": "Mary Anning was poor and had little schooling. She dug fossils from the sea cliffs to sell. With her brother Joseph she found the first complete skeleton of an ichthyosaur, a huge sea reptile, to be studied by scientists. Later she found the first complete plesiosaur. Her finds showed that animals very different from any alive today once lived and then died out.",
+   "then": "Many people believed that no kind of animal had ever died out completely. Scientists bought her fossils and wrote about them, often without her name. As a woman, she was not allowed to join the Geological Society of London.",
+   "now": "Accepted. Fossils show that many kinds of living things have died out, and the Earth is very old. Mary Anning is now seen as one of the great fossil hunters.",
+   "status": "accepted",
+   "ask": "Mary Anning found the fossils, but others wrote the papers. Who do you think deserves the credit?",
+   "day": 7
+  },
+  {
+   "id": "v3",
+   "who": "Graham Cairns-Smith (1931–2016), chemist, Glasgow, Scotland",
+   "idea": "In the 1960s and later, in his book 'Seven Clues to the Origin of Life' (1985), Cairns-Smith suggested that the first steps towards life might have used clay. Clay is made of tiny crystals, and crystals grow and copy their pattern. He thought clay crystals could have held a pattern before living things had genes.",
+   "then": "Most scientists were looking for the start of life only in special chemicals in water.",
+   "now": "Minority. Few scientists think clay crystals were the first 'life'. But many agree that rock and clay surfaces may have helped the first chemicals of life join up. Nobody knows yet how life began.",
+   "status": "minority",
+   "ask": "Nobody saw life begin. How could scientists ever test an idea like this?",
+   "day": 8
+  }
+ ],
+ "story": {
+  "title": "The Corner of the Hill",
+  "text": [
+   "I am a stone. Today I am small enough to sit in a child's palm. But I was once a corner of a hill.",
+   "The hill stood above the Kaveri river, not far from Srirangapatna. It was granite, grey and pink, with shiny black specks. I was its corner, and I faced the morning sun. For a very long time, longer than anyone can count, nothing happened to me. Rain fell on me. Sun baked me. At night I cooled. Lizards ran over me and goats rested in my shade.",
+   "Then a fig seed landed in a crack beside me. A bird had dropped it. It sprouted in the dust in the crack, and its root went down, thin as a thread. Every year the root grew a little fatter. Every year it pushed. I did not notice at first. Then one monsoon night, with a crack like thunder, I broke away from the hill and rolled down the slope, into the stream.",
+   "I was afraid. I had been part of something huge, and now I was alone.",
+   "The stream carried me only in the rains. Each monsoon it rose brown and fast. It rolled me over and over, and knocked me against other stones. Every time we knocked, tiny pieces of me broke off. My sharp corners went first. I got rounder. I got smaller. Each year I was a little less of myself.",
+   "Some of the bits that broke off me were tiny grains of quartz, clear and hard. Some were flakes of black mica, which glitter. The pink part of me was softer. The water slowly changed it into something new, a fine smooth mud called clay. All of these went away from me down the stream. I did not know where.",
+   "I thought: one day there will be nothing left of me at all.",
+   "After a long time, the stream left me on the edge of a rice field. Green rice stood in the water. A girl came walking along the mud bank with her father. Her name was Selvi. She had a red ribbon in her hair and mud up to her ankles.",
+   "She saw me and picked me up. 'Appa, look. This one is so smooth.'",
+   "Her father took me and turned me in his fingers. 'Granite,' he said. 'From the hill, I think. It has come a long way.'",
+   "'How did it get so round?'",
+   "'The water rolled it. For hundreds of years, maybe thousands. Every bump knocks a bit off.'",
+   "Selvi frowned. 'Then where did the bits go?'",
+   "Her father smiled. He bent down and scooped up a handful of the wet field. He held it out to her. 'Look closely.'",
+   "She looked, and I looked too. In his hand was dark soil. There were bits of old rice stalk in it, rotted almost black. There was a pink worm, curling. A thin white rice root was wrapped around it all. And in the soil, everywhere, there were tiny clear grains, and little flakes that glittered black in the sun.",
+   "I knew those grains. I knew those flakes. They were mine.",
+   "'This field is made of the hill,' said her father. 'The water broke the hill into sand and clay and brought it down here. The old leaves and the worms mixed in. That is soil. Your rice grows in it.'",
+   "Selvi looked up at the hill, far away and blue. Then at the soil in her father's hand. Then at me.",
+   "'So the hill is in the rice,' she said slowly. 'And the rice is in me.'",
+   "Her father laughed and wiped his hand on his veshti. 'Something like that.'",
+   "Selvi put me in her pocket. Now I sit on her windowsill, next to a pot of tulsi. Every evening the sun shines through the window onto me, the way it did on the hill. I am still getting smaller, very slowly. I am not afraid any more. I have seen where the pieces go."
+  ],
+  "epiphany": "The stone is afraid because weathering keeps breaking it into smaller and smaller pieces, and it thinks those pieces are simply lost. The turn comes when Selvi's father shows her the soil of the rice field: the grains of quartz and flakes of mica in it came from the same granite hill, mixed with rotted plants and worms. The idea hidden in the story: soil is broken rock mixed with once-living things, made very slowly, and our food grows in it.",
+  "ask": [
+   "Why was the stone afraid?",
+   "What broke the stone off the hill in the first place?",
+   "How did the stone get round and smooth?",
+   "What did Selvi see in her father's handful of soil? Where had it come from?",
+   "What did Selvi mean when she said 'the hill is in the rice'?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Every soil was once rock.",
+   "more": "Rain, roots, heat and rubbing break rock into pebbles, sand and clay. Dead plants and animals rot and mix in as humus. The chalk bottle and the soil jar show both parts."
+  },
+  {
+   "idea": "We choose a rock for its properties.",
+   "more": "Hard, waterproof granite makes floors and temples. Soft chalk makes marks. Slate splits into roof sheets. The scratch and drip tests show how scientists find out."
+  },
+  {
+   "idea": "Rocks change, but very slowly.",
+   "more": "A pebble in a bottle hardly changes in 100 shakes, but a river rolls it for thousands of years. The ground under us is always being worn down and made again."
+  },
+  {
+   "idea": "Soil is alive and slow to make.",
+   "more": "One spoon of healthy soil holds millions of tiny living things, and worms keep mixing it. A finger-deep layer can take hundreds of years to form, so a field scraped bare is not quickly replaced."
+  }
+ ],
+ "unknowns": [
+  "Most of the tiny living things in soil have never been named or studied. Scientists can find their traces, but many have never been grown in a lab, so nobody knows what most of them do.",
+  "Nobody has ever drilled through the Earth's crust. The deepest hole ever dug, in Russia, reached about 12 kilometres and stopped because the rock was too hot. What lies deeper is known only from how earthquake waves travel.",
+  "Nobody knows how life first began. Some scientists think it started near hot springs or vents in rock, some think clay or rock surfaces helped, and the question is still open."
+ ],
+ "books": [
+  {
+   "title": "A Rock Is Lively",
+   "author": "Dianna Hutts Aston (illustrated by Sylvia Long)",
+   "for": "read together",
+   "age": "5–9",
+   "why": "Beautiful paintings of real rocks and minerals, with simple facts about how they form and change."
+  },
+  {
+   "title": "If You Find a Rock",
+   "author": "Peggy Christian (photographs by Barbara Hirsch Lember)",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A quiet book about skipping rocks, wishing rocks and fossil rocks, which fits the rock hunt and the museum."
+  },
+  {
+   "title": "Diary of a Worm",
+   "author": "Doreen Cronin (illustrated by Harry Bliss)",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A funny diary of an earthworm's life in the soil, good after the Darwin and worms talk."
+  },
+  {
+   "title": "Stone Girl, Bone Girl: The Story of Mary Anning",
+   "author": "Laurence Anholt (illustrated by Sheila Moxley)",
+   "for": "read together",
+   "age": "5–9",
+   "why": "Mary Anning's life as a picture book, to read after Day 7."
+  }
+ ],
+ "check": [
+  {
+   "q": "Name one hard rock and one soft rock. How did we test them?",
+   "a": "Granite is hard and chalk is soft. We scratched them with a fingernail and a steel key. The nail scratched chalk, but even the key didn't scratch granite."
+  },
+  {
+   "q": "What does waterproof mean? Name a rock that is waterproof.",
+   "a": "It does not let water soak in. Slate and polished granite are waterproof: the drops stayed on top."
+  },
+  {
+   "q": "How do sharp rocks become round pebbles and sand?",
+   "a": "Water rolls them against each other and bits break off, corners first. This is weathering, like the chalk in the shaken bottle."
+  },
+  {
+   "q": "What is soil made of?",
+   "a": "Tiny bits of rock of many sizes (gravel, sand, silt and clay), humus from rotted plants and animals, water, air and living things."
+  },
+  {
+   "q": "Why were the small stones at the bottom of the soil jar?",
+   "a": "They are the biggest and heaviest pieces, so they sank first."
+  },
+  {
+   "q": "What is a fossil, and who was Mary Anning?",
+   "a": "A fossil is the shape or remains of a living thing from long ago, kept in rock. Mary Anning was a poor girl in England who found famous fossils of sea reptiles."
+  },
+  {
+   "q": "Name one thing we get and one thing we may lose when a quarry is dug.",
+   "a": "We get stone for buildings. We may lose a forest or hill that was home to plants and animals."
+  }
+ ]
+}

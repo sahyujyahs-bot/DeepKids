@@ -1,0 +1,1374 @@
+{
+ "key": "combined|sci|5|how-life-began",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "how-life-began",
+ "title": "How life began: the experiments and the evidence",
+ "source": "DeepKids Combined, a DeepKids-only topic that no board covers. Class 5: life comes only from life (Redi and Pasteur), the primordial soup and Miller's spark experiment, catalysts and the RNA world, the step from RNA to DNA, the shared genetic code and LUCA, membranes and protocells, where life began, partner cells (endosymbiosis), and the search for life on other worlds. No textbook needed.",
+ "summary": "Today every living thing comes from another living thing. So where did the first one come from? Your child repeats Pasteur's test with boiled dal water, builds an amino acid from atta-dough atoms the way Stanley Miller's sparks did, watches an enzyme in a raw potato make oxygen foam, and pulls DNA out of a banana. They learn why scientists think RNA came before DNA, why every living thing reads the same genetic code, and how a bacterium that was swallowed but not digested became the mitochondria in every cell of their body. They weigh two live debates: did life begin at deep-sea vents or in hot pools on land, and has a gas made by life been found on a planet called K2-18b? Nobody knows yet how life began, and your child will finish knowing what the evidence says and where it runs out.",
+ "subconcepts": [
+  "today life comes only from life: Redi's meat jars and Pasteur's flasks ended the idea of spontaneous generation",
+  "a working definition of life: a chemical system that keeps itself going, makes copies and can evolve",
+  "the primordial soup idea of Oparin and Haldane",
+  "Miller's spark experiment made amino acids from simple gases",
+  "catalysts and enzymes speed up reactions, and heat ruins an enzyme's shape",
+  "ribozymes: RNA that works as a catalyst, and the RNA world idea",
+  "the working core of the ribosome, which builds proteins, is made of RNA",
+  "from RNA to DNA: a sturdier store of instructions",
+  "the genetic code: three letters stand for one amino acid, and almost all life uses the same code",
+  "LUCA, the last universal common ancestor",
+  "membranes decide what goes in and out (osmosis), and protocells that grow and divide",
+  "single cells sense, remember for a few seconds and choose",
+  "where life began: deep-sea vents or hot pools on land",
+  "endosymbiosis: mitochondria and chloroplasts were once free-living bacteria",
+  "the search for life on other worlds, and biosignatures"
+ ],
+ "builds_on": "Class 3 'How life began on Earth': deep time, the fiery young Earth, RNA copying itself (A with U, C with G), the fatty skin of the first cell, stromatolites and the oxygen made by cyanobacteria. Class 5 asks how we know, and goes into the real experiments: Pasteur, Miller, ribozymes, the ribosome, DNA, the shared genetic code, protocells, the vents-or-pools debate, the partner cells that became mitochondria, and the search for life beyond Earth. Evolution and the tree of life follow what happened after the first cells.",
+ "goals": [
+  "By the end your child can describe Redi's and Pasteur's experiments and explain why they showed that life today comes only from life.",
+  "By the end your child can describe Miller's spark experiment, say what it made, and say why it did not make life.",
+  "By the end your child can explain what a catalyst is, and why RNA that is both a store of instructions and a catalyst helps solve the puzzle of which came first.",
+  "By the end your child can explain how the genetic code works, three letters for one amino acid, and why a shared code means all life is related.",
+  "By the end your child can explain endosymbiosis and give two pieces of evidence that mitochondria were once bacteria.",
+  "By the end your child can give the evidence on both sides of one open debate about life's origin, and say what a biosignature is."
+ ],
+ "words": [
+  [
+   "spontaneous generation",
+   "the old idea that living things can appear by themselves from non-living things, like maggots from meat"
+  ],
+  [
+   "amino acid",
+   "a small molecule that is a building block of proteins. Living things use 20 main kinds."
+  ],
+  [
+   "catalyst",
+   "something that makes a chemical reaction go much faster without being used up"
+  ],
+  [
+   "enzyme",
+   "a catalyst made by a living thing. Most enzymes are proteins."
+  ],
+  [
+   "ribozyme",
+   "a piece of RNA that works as a catalyst, like an enzyme"
+  ],
+  [
+   "ribosome",
+   "the tiny machine in every cell that reads RNA instructions and joins amino acids into proteins"
+  ],
+  [
+   "genetic code",
+   "the rule that turns each group of three RNA letters into one amino acid"
+  ],
+  [
+   "LUCA",
+   "the last universal common ancestor: the early population of cells that every living thing today comes from"
+  ],
+  [
+   "osmosis",
+   "water moving through a membrane towards the side where more things are dissolved in it"
+  ],
+  [
+   "endosymbiosis",
+   "one living thing living inside another, with both doing better together"
+  ],
+  [
+   "mitochondrion",
+   "a tiny part inside your cells that uses oxygen to release energy from food. More than one are called mitochondria."
+  ],
+  [
+   "biosignature",
+   "a clue, such as a gas or a shape in a rock, that could have been made by living things"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Can life start by itself?",
+   "goal": "Recall Class 3, and repeat the experiment that showed life today comes only from life.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember Class 3",
+     "mins": 7,
+     "do": "Ask these and wait for answers. 'How old is the Earth?' (About 4.5 billion years.) 'What were the first living things like?' (Single cells, too small to see, living in water.) 'What could RNA do?' (Copy itself, because A pairs with U and C pairs with G.) 'Who made the oxygen in the air?' (Cyanobacteria, tiny green microbes.) Then ask: 'Where does a new living thing always come from today?' (From a living parent: a puppy from a dog, a seedling from a seed.) Take a big sheet and write at the top: 'How did the first life begin?' Write down every idea your child has, without correcting. Keep the sheet for the last day."
+    },
+    {
+     "kind": "talk",
+     "title": "Maggots from meat?",
+     "mins": 10,
+     "do": "Say: 'For more than 2,000 years, many people believed that living things could appear by themselves. Maggots from rotting meat. Mice from old grain. This idea is called spontaneous generation.' Then say: 'In 1668, an Italian doctor called Francesco Redi tested it. He put meat in jars. Some jars he left open. Some he covered with fine cloth, so air got in but flies could not.' Ask: 'What do you think he saw? Why?' Wait for a guess and a reason. Then say: 'Maggots grew only in the open jars. Flies landed on the meat and laid eggs. The maggots came from the eggs, not from the meat.' Ask: 'What about tiny microbes, too small to see? Could they appear by themselves?' Say: 'Scientists argued about that for 200 more years. Today we test it ourselves.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Boiled dal water: open or covered?",
+     "mins": 20,
+     "do": "Do Experiment e1 together. First ask your child to predict: 'Which jar will go cloudy and smelly first: the open one or the covered one? Why?' Write the prediction on a label. A grown-up boils the dal water and pours it. Your child labels the jars 'A: open' and 'B: covered', and draws them with today's date. Put them side by side out of the sun.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Pasteur's flask, and the big puzzle",
+     "mins": 8,
+     "do": "Draw a round flask with a long neck bent down like a swan's neck. Say: 'Around 1860, the French scientist Louis Pasteur boiled broth in flasks like this. Air could get in through the open neck, but dust and microbes got stuck in the bend. The broth stayed clear. When he broke the neck off, the broth went cloudy with microbes within days.' Ask: 'So where did the microbes come from?' (From the air and dust, not from the broth.) Say: 'Pasteur showed that life today comes only from life.' Then ask the big puzzle: 'But if life only comes from life, how did the very first life begin?' Say: 'Many scientists use this working definition: life is a chemical system that keeps itself going and can evolve. That means it takes in food and energy, makes copies of itself, and the copies slowly change over many generations. This lesson is about how chemicals could have started doing that.'"
+    }
+   ],
+   "need": [
+    "a big sheet of paper",
+    "a cup of water in which dal or rice was boiled (or a spoon of cooked dal stirred into a cup of water)",
+    "2 clean glass jars or clear glasses",
+    "aluminium foil or a clean steel plate",
+    "a pan",
+    "labels and a pen"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "A soup and a spark",
+   "goal": "Meet the primordial soup idea and Miller's experiment, and build an amino acid from simple molecules.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Look at the jars",
+     "mins": 5,
+     "do": "Look at jars A and B from Experiment e1 without opening B. Is either one cloudy? Is there a skin or spots on top? Wave your hand over the open jar to sniff gently. Your child draws both jars and writes 'Day 2' and what they see.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "A soup and a spark",
+     "mins": 12,
+     "do": "Say: 'In 1924, the Russian scientist Alexander Oparin had an idea. In 1929, the British scientist J. B. S. Haldane had the same idea on his own. The young Earth had no oxygen in its air. Lightning and the Sun's ultraviolet light could join simple gases into the chemicals of life. These would collect in the sea. Haldane called it a hot dilute soup.' Add: 'Haldane later moved to India in 1957, worked in Kolkata and Bhubaneswar, and became an Indian citizen.' Then say: 'In 1952, a young student in America, Stanley Miller, tested it. With his teacher Harold Urey, he sealed four gases in glass flasks: methane, ammonia, hydrogen and water vapour. He boiled the water and made electric sparks, like small lightning, for a week.' Ask: 'What do you think he found in the water? Why?' Wait. Then say: 'The water turned pink, then brown. In it were amino acids, the building blocks of proteins. Urey took his name off the paper, so that the young student would get the credit.' Ask: 'Why might a famous scientist do that?'"
+    },
+    {
+     "kind": "act",
+     "title": "Build an amino acid",
+     "mins": 20,
+     "do": "Do Activity a1. Your child builds methane, ammonia and water from dough atoms, then takes them apart and rebuilds them into glycine, the simplest amino acid. Ask: 'Did we add any new atoms?' (No. We only rearranged them.) 'What was left over?' (Hydrogen.) Say: 'Miller's sparks did this rearranging. Nobody had to place the atoms by hand.'",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Bricks, but no house",
+     "mins": 8,
+     "do": "Say: 'Today most scientists think the young Earth's air was mostly carbon dioxide and nitrogen, not methane and ammonia. In air like that, sparks make fewer amino acids. But Miller kept his old samples. In 2008, after his death, scientists tested a set from a version of his experiment that copied a steaming volcano. They found more than 20 different amino acids.' Remind your child of Class 3: amino acids were also found in the Murchison meteorite that fell in Australia in 1969. Ask: 'Miller made building blocks. Did he make life?' (No. Building blocks are like bricks. A pile of bricks is not a house. Nobody has yet turned the building blocks into a living cell.)"
+    }
+   ],
+   "need": [
+    "play dough or atta dough in four colours (use haldi, beetroot juice and spinach juice to colour atta), or plain dough balls with paper letter-flags",
+    "toothpicks",
+    "a pen and paper"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Which came first?",
+   "goal": "See an enzyme at work, and understand why RNA may have come before DNA and proteins.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Last look at the jars",
+     "mins": 3,
+     "do": "Look at jars A and B one last time. Your child draws them, writes 'Day 3' and says which went cloudy first. Ask: 'Did life appear in the covered jar?' A grown-up pours both down the drain and washes the jars with soap.",
+     "ref": "e1"
+    },
+    {
+     "kind": "exp",
+     "title": "A potato that makes foam",
+     "mins": 15,
+     "do": "Do Experiment e2. First ask: 'What will happen when we pour hydrogen peroxide on raw potato? And on boiled potato? Why?' After the test, say: 'Raw potato cells contain an enzyme called catalase. An enzyme is a catalyst made by a living thing. A catalyst makes a reaction go much faster and is not used up. Catalase splits hydrogen peroxide into water and oxygen gas. The foam is oxygen.' Ask: 'Why did boiled potato hardly foam?' (Heat changes the enzyme's shape, and an enzyme only works when it has the right shape.)",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "The chicken and the egg",
+     "mins": 12,
+     "do": "Say: 'In your cells, DNA stores the instructions. Proteins, such as enzymes, do the work. One of their jobs is copying DNA. But proteins are built from DNA's instructions.' Ask: 'So which came first: DNA or proteins? Each one needs the other.' Let your child think. Then say: 'In 1982, the American scientist Thomas Cech found a piece of RNA, in a tiny pond creature, that could cut and join itself with no protein helping. Sidney Altman found another RNA that works as a catalyst. These are called ribozymes, RNA enzymes. The two shared a Nobel Prize in 1989.' Say: 'RNA can store instructions, like DNA, and it can do work, like a protein. So the first life may have used RNA for both jobs. In 1986, Walter Gilbert called this the RNA world.'"
+    },
+    {
+     "kind": "act",
+     "title": "Fold an RNA strip",
+     "mins": 8,
+     "do": "Do Activity a2. Your child folds a paper RNA strip so that matching letters meet. Ask: 'What decides the shape?' (The order of the letters.) Then change one letter and fold again. Ask: 'What happened to the shape?' (One pair no longer matches, so the fold is weaker.) Say: 'For RNA and proteins, shape decides the job. Change the letters, and the shape and the job can change.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "Voice v2: the machine made of RNA",
+     "mins": 7,
+     "do": "Tell your child about voice v2, Ada Yonath and Venki Ramakrishnan, who worked out the shape of the ribosome, the machine that builds proteins in every cell. Its working core, where amino acids are joined, is made of RNA. Ask the voice's question.",
+     "ref": "v2"
+    }
+   ],
+   "need": [
+    "a small bottle of 3% hydrogen peroxide from a chemist",
+    "a raw potato and a piece of boiled potato",
+    "2 small glasses or steel katoris",
+    "a grater or knife (a grown-up uses it)",
+    "a paper strip about 30 cm long, a pen"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "From RNA to DNA, and one code for all",
+   "goal": "See real DNA, learn why life switched to it, and read the genetic code that all life shares.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "DNA from a banana",
+     "mins": 20,
+     "do": "Do Experiment e3. First ask: 'Every cell in a banana holds DNA. If we break open millions of cells, will we see it?' After the test, say: 'That white, stringy cloud is DNA from millions of banana cells, clumped together. One strand alone is far too thin to see.' Ask: 'Why did we add soap?' (To break the oily membranes around the cells and their nuclei.)",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Why switch to DNA?",
+     "mins": 10,
+     "do": "Say: 'RNA was good at many jobs, but it has a problem. It breaks easily. DNA is a sturdier copy of the same kind of chain. Its sugar has one oxygen atom fewer, which is what deoxyribose means, and that makes it last longer. It uses the letter T where RNA uses U. And it has two strands, so if one is damaged, the cell can repair it using the other.' Ask: 'If you had to keep an important recipe for a thousand years, would you write it on a paper napkin or carve it in stone?' Say: 'Scientists think life moved its instructions into DNA, and RNA became the messenger and the worker. Some viruses still keep their instructions in RNA, such as the flu virus.'"
+    },
+    {
+     "kind": "game",
+     "title": "Read the code",
+     "mins": 10,
+     "do": "Do the code game on a sheet. Write the DNA letters: TAC CCG AAA CGA ACC ATT. Your child writes the RNA partner under each letter. The pairs are A to U, T to A, C to G and G to C. They should get AUG GGC UUU GCU UGG UAA. Say: 'A ribosome reads RNA three letters at a time. Each group of three stands for one amino acid. This rule is called the genetic code.' Give this table: AUG = methionine (start), GGC = glycine, UUU = phenylalanine, GCU = alanine, UGG = tryptophan, UAA = stop. Your child reads the message: methionine, glycine, phenylalanine, alanine, tryptophan, stop. That is a tiny protein of 5 amino acids. Ask: 'There are 4 letters, read in threes. How many different groups of three can you make?' (4 × 4 × 4 = 64.) 'But living things use only 20 main amino acids. What do you think the extra groups do?' (Several groups stand for the same amino acid, and three mean stop.)"
+    },
+    {
+     "kind": "talk",
+     "title": "One code, one family",
+     "mins": 5,
+     "do": "Say: 'A mango tree, an ant, a mushroom, the bacteria in curd and you all read this same code. AUG means start in almost every living thing. A code like this could have been different, so the best explanation is that all life inherited it from one shared ancestor. Scientists call it LUCA, the last universal common ancestor. A 2024 study estimated it lived about 4.2 billion years ago. Others think that is too early. Nobody knows for sure.' Ask: 'Did LUCA live alone?' (Probably not. It was likely one population among many kinds of early cells. Only its descendants survived.)"
+    }
+   ],
+   "need": [
+    "half a ripe banana",
+    "1 teaspoon salt",
+    "2 teaspoons dishwashing liquid",
+    "half a cup of warm water",
+    "a bowl and a spoon or a zip bag",
+    "a tea strainer lined with a thin cotton handkerchief",
+    "a tall clear glass",
+    "surgical spirit or isopropyl rubbing alcohol from a chemist, chilled in the freezer",
+    "a toothpick",
+    "paper and pencil"
+   ],
+   "prep": [
+    {
+     "task": "Put the closed bottle of surgical spirit or rubbing alcohol in the freezer, away from food",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Skins and the first cells",
+   "goal": "See a membrane decide what moves in and out, and meet the first cells that sensed and chose.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Set up: potato strips in salt water",
+     "mins": 7,
+     "do": "Set up Experiment e4. A grown-up cuts four potato or cucumber strips the same size. Your child bends each one gently and feels how stiff it is. Two go into plain water and two into very salty water. First ask: 'Which strips will be floppy in 30 minutes? Why?' Write the guess down.",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "A skin for the chain",
+     "mins": 12,
+     "do": "Say: 'Remember the soap bubbles from Class 3? A chain of RNA floating in the open sea has a problem. Its pieces and helpers drift away, and nothing keeps them close. A thin, fatty skin around it solves this. It keeps the chain and its helpers together. This skin is called a membrane.' Then say: 'In the lab, the American scientist Jack Szostak and his team made tiny bubbles from fatty acids, the kind of fat that could form on the young Earth. When they fed them more fatty acid, the bubbles grew. They stretched into long threads, and gentle shaking split them into smaller bubbles. Clay helped the bubbles form, and RNA could stick to the clay and end up inside.' Ask: 'Which signs of life did these bubbles show?' (They grew and divided. But they did not make copies of their own instructions, so they were not alive.) Say: 'Scientists call bubbles like this protocells, first cells. A membrane also makes an inside and an outside: the first self, and everything else.'"
+    },
+    {
+     "kind": "talk",
+     "title": "A cell that chooses",
+     "mins": 8,
+     "do": "Say: 'A single bacterium like E. coli, which lives in your gut, has no brain. But it senses, remembers and chooses. It has sensors on its membrane for food and poison. It swims by spinning thin tails called flagella. Every second or so it checks: is there more food now than a few seconds ago? If yes, it keeps swimming straight. If no, it tumbles and tries a new direction. So it remembers a few seconds back, and chooses.' Say: 'Every cell is aware of its world in its own way. Some scientists prefer to call this a chemical response, not a mind.' Ask: 'Is choosing without a brain still choosing? What do you think?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "do": "Your child does Worksheet ws1 (core). Let them say the written answers aloud first, then write.",
+     "ref": "ws1"
+    },
+    {
+     "kind": "exp",
+     "title": "Check the potato strips",
+     "mins": 8,
+     "do": "Take the strips out of Experiment e4 and bend each one. Ask: 'Which are floppy? Was your guess right?' After they answer, say: 'Water moves through a membrane towards the side where more things are dissolved. This is called osmosis. The salt water outside pulled water out of the potato cells, so they went limp. Every cell's membrane is always deciding what passes in and out.'",
+     "ref": "e4"
+    }
+   ],
+   "need": [
+    "a potato or a cucumber",
+    "a knife (a grown-up uses it)",
+    "2 glasses of water",
+    "3 tablespoons of salt",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Where did life begin?",
+   "goal": "Weigh the evidence for deep-sea vents and for hot pools on land, and meet the three kinds of cells.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Set up: drying drops",
+     "mins": 4,
+     "do": "Start Activity a3. Your child puts drops of salty turmeric water on a steel plate and sets it in the sun. Ask: 'What will be left when the water dries? Where will the yellow go?'",
+     "ref": "a3"
+    },
+    {
+     "kind": "talk",
+     "title": "Voice v3: vents or pools?",
+     "mins": 12,
+     "do": "Tell your child about voice v3, the two leading ideas of where life began. Show photos (search 'black smoker hydrothermal vent', 'Lost City hydrothermal field' and 'hot springs pools'). Say: 'At the vents, hot water full of chemicals meets cold sea water through thin rock walls. That gives a steady supply of energy. In hot pools on land, water dries and comes back again and again. Drying pushes small pieces together into chains.' Ask the voice's question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "act",
+     "title": "Debate: vents or pools?",
+     "mins": 12,
+     "do": "Your child argues for deep-sea vents for 2 minutes, giving reasons from the talk. You argue for hot pools on land. Then swap sides. Good points for vents: steady heat and energy, chemicals rising from the rock, shelter from the Sun's harmful ultraviolet light and from space rocks. Good points for pools: drying joins pieces into chains, fatty bubbles form well in fresh water, sunlight and lightning are there. A weak point for vents: in the open sea, water keeps breaking chains apart. A weak point for pools: harsh ultraviolet light and few pools on a young Earth with little land. Ask: 'Which side has stronger evidence? What new evidence would change your mind?' Say: 'Scientists have not decided. Some think life might have needed both.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Three kinds of cells",
+     "mins": 10,
+     "do": "Say: 'In 1977, the American scientist Carl Woese compared the RNA inside the ribosomes of many microbes. He found that some microbes everyone had called bacteria were a separate kind of life. He named them archaea. Many live in hot springs, salty lakes or places with no oxygen.' Draw three boxes: bacteria, archaea, eukaryotes. Say: 'Bacteria and archaea are single cells with no nucleus. They are called prokaryotes. Eukaryotes have a nucleus that holds their DNA. Plants, animals, fungi and you are eukaryotes. Eukaryotes came much later, and tomorrow we will find out how.' Ask: 'Other scientists had looked at these microbes before. Why did Woese see something they missed?' (He compared their RNA, not just how they looked.)"
+    },
+    {
+     "kind": "review",
+     "title": "Look at the plate",
+     "mins": 7,
+     "do": "Look at the plate from Activity a3. If the drops have dried, look closely, with a magnifying glass if you have one. Ask: 'Where did the yellow and the salt end up?' (At the edges, packed close together.) Say: 'As water dries, what is dissolved in it gets crowded together. In a hot pool that dries and fills again, small molecules would be pushed close, again and again, and could join into chains.' If the drops are still wet, look again in the evening."
+    }
+   ],
+   "need": [
+    "a steel plate",
+    "a pinch of salt and a pinch of turmeric in half a cup of water",
+    "a spoon",
+    "a sunny window or balcony",
+    "photos on a phone",
+    "a magnifying glass, if you have one"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The guest who stayed",
+   "goal": "Learn how two kinds of cells joined to make the cells of plants and animals, and see yeast cells use food.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Set up: yeast and a balloon",
+     "mins": 5,
+     "do": "Set up Experiment e5. First ask: 'Yeast is a living thing made of single cells. Which balloon will fill: the bottle with sugar or the one without? Why?'",
+     "ref": "e5"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Guest Who Stayed",
+     "mins": 12,
+     "do": "Read the story aloud (Story tab). It is told by a mitochondrion in the leg of Kavya, a girl in Class 5 in Chennai, during a school race. Then ask the story's questions. Listen for two ideas: a bacterium was taken inside another cell and not digested, and all of Kavya's mitochondria came from her mother."
+    },
+    {
+     "kind": "talk",
+     "title": "Voice v1: the scientist they kept rejecting",
+     "mins": 10,
+     "do": "Tell your child about voice v1, Lynn Margulis, whose paper on cells joining was rejected by about 15 journals. Then give the evidence, one point at a time. Mitochondria have their own small ring of DNA, like bacteria. They make new mitochondria by splitting in two, like bacteria. They have two membranes, as you would expect if one cell wrapped around another. Their ribosomes are like bacterial ribosomes. Chloroplasts in leaves show the same signs, and their DNA is most like that of cyanobacteria. Ask the voice's question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "act",
+     "title": "Act it out: the guest who stayed",
+     "mins": 10,
+     "do": "Do Activity a4, a short play. Your child is the big host cell, holding a dupatta in a ring around them as the membrane. You are the small bacterium, holding paper energy coins. Act out the steps: meeting, being taken inside, not being digested, sharing coins for shelter, and both splitting in two. Ask: 'What did each one get from the other?' (The guest got shelter and food. The host got much more energy.)",
+     "ref": "a4"
+    },
+    {
+     "kind": "exp",
+     "title": "Check the balloons, and breathe",
+     "mins": 8,
+     "do": "Look at the balloons from Experiment e5. Ask: 'Which one stood up? What filled it?' (Carbon dioxide gas, given out by yeast cells using the sugar for energy.) Say: 'Yeast cells are eukaryotes, like ours. They have mitochondria too.' Then sit cross-legged together. Breathe in slowly for four counts: 'Oxygen goes to my mitochondria.' Breathe out for four: 'Carbon dioxide comes back out.' Do it five times. Ask: 'Whose guests are working in you right now?'",
+     "ref": "e5"
+    }
+   ],
+   "need": [
+    "2 small plastic bottles",
+    "2 balloons",
+    "2 teaspoons of instant dry yeast (sold for baking), or a glass of fresh idli or dosa batter",
+    "1 teaspoon of sugar",
+    "warm water",
+    "a dupatta or a long cloth",
+    "10 paper coins"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Life on other worlds?",
+   "goal": "Learn where scientists look for life beyond Earth and how they judge a clue.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Where would life live?",
+     "mins": 10,
+     "do": "Ask: 'What did the first life on Earth need?' (Liquid water, a supply of energy and the right chemicals.) Say: 'Some microbes on Earth live in water hotter than boiling, deep inside rocks, or in very salty lakes. So life may be tougher than we think. Scientists look for life on Mars, which once had rivers and lakes. They look at Europa, a moon of Jupiter, and Enceladus, a moon of Saturn. Both have oceans hidden under ice. Water shoots out of Enceladus in jets, and a spacecraft called Cassini flew through them.' Then say: 'On Mars, NASA's Perseverance rover found a rock in 2024 with small spots like a leopard's. Such spots can be made by microbes, or by chemistry without life. Scientists are still studying it.' Ask: 'How could a rover tell the difference?'"
+    },
+    {
+     "kind": "act",
+     "title": "Biosignature detectives",
+     "mins": 15,
+     "do": "Do Activity a5, sorting clues. Say: 'A biosignature is a clue that could have been made by life. A good detective asks: could anything else have made it?' Ask your child to sort each clue card into 'strong clue' or 'weak clue: chemistry could make it too', and say why.",
+     "ref": "a5"
+    },
+    {
+     "kind": "talk",
+     "title": "Voice v4: a gas on a far planet",
+     "mins": 8,
+     "do": "Tell your child about voice v4, Nikku Madhusudhan and the planet K2-18b, where his team reported signs of a gas that on Earth is made by living things. Other scientists are not convinced. Ask the voice's question.",
+     "ref": "v4"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 12,
+     "do": "Your child does Worksheet ws2 (stretch). Let them answer the written items aloud first, then write.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "the clue cards from Activity a5",
+    "photos of Mars, Europa and Enceladus on a phone",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Evidence and teach it back",
+   "goal": "Play the evidence game, try the challenge worksheet, finish the evidence wall and teach it.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Origin Detectives",
+     "mins": 15,
+     "do": "Play the card game g1. Players match each claim to the evidence that supports it, and explain the match.",
+     "ref": "g1"
+    },
+    {
+     "kind": "think",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Do Worksheet ws3 (challenge) together. Write down the long answers as your child says them. The last items have no single right answer.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "do",
+     "title": "Finish the evidence wall",
+     "mins": 10,
+     "do": "Finish the project. Your child puts the day cards in order along a wall, from 'Life only from life' to 'Life on other worlds?'. They mark each card: a tick for what experiments have shown, and a question mark for what nobody knows yet. Ask: 'Where is the biggest question mark?' (The step from chemicals to the first living cell.)"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 8,
+     "do": "Take out the Day 1 sheet, 'How did the first life begin?'. Ask: 'What would you change or add now?' Your child walks the family along the evidence wall and teaches it, ending with what is still unknown. Then ask the check questions."
+    }
+   ],
+   "need": [
+    "the printed cards for the game",
+    "worksheet ws3",
+    "the day cards for the evidence wall",
+    "tape",
+    "the Day 1 sheet"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Life from life, and the RNA world",
+   "day": 5,
+   "sections": [
+    [
+     "A. Experiments",
+     [
+      {
+       "t": "mcq",
+       "p": "Francesco Redi put meat in open jars and in jars covered with cloth. Where did maggots grow?",
+       "opts": [
+        "only in the open jars",
+        "only in the covered jars",
+        "in all the jars"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Pasteur's swan-neck flask let air in but trapped dust in the bend. What happened to the boiled broth?",
+       "opts": [
+        "it went cloudy at once",
+        "it stayed clear",
+        "it turned into maggots"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Stanley Miller made sparks in a flask of gases and found ____ acids, the building blocks of proteins.",
+       "a": [
+        "amino"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A raw potato made lots of foam with hydrogen peroxide. A boiled potato made almost none. Why?",
+       "opts": [
+        "boiling changed the shape of the enzyme",
+        "boiled potato has no water",
+        "the peroxide was used up"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Words",
+     [
+      {
+       "t": "match",
+       "p": "Match each word to its meaning.",
+       "pairs": [
+        [
+         "catalyst",
+         "makes a reaction go faster without being used up"
+        ],
+        [
+         "ribozyme",
+         "RNA that works as a catalyst"
+        ],
+        [
+         "ribosome",
+         "the machine that joins amino acids into proteins"
+        ],
+        [
+         "membrane",
+         "the thin skin around a cell"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "In RNA, A pairs with U and C pairs with ____.",
+       "a": [
+        "G"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A potato strip sat in very salty water for 30 minutes. How did it feel after?",
+       "opts": [
+        "floppy, because water moved out of its cells",
+        "stiffer, because salt moved in",
+        "exactly the same"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "In your cells, DNA is needed to make proteins, and proteins are needed to copy DNA. Why does RNA help solve this puzzle?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Miller made amino acids from gases and sparks. Why does that not mean he made life?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Codes, cells and partners",
+   "day": 8,
+   "sections": [
+    [
+     "A. The genetic code",
+     [
+      {
+       "t": "fill",
+       "p": "A ribosome reads RNA ____ letters at a time.",
+       "a": [
+        "three",
+        "3"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Here is a code table: AUG = start, GGC = glycine, UUU = phenylalanine, UAA = stop. What does the RNA message AUG UUU GGC UAA make?",
+       "opts": [
+        "start, phenylalanine, glycine, stop",
+        "start, glycine, phenylalanine, stop",
+        "glycine, glycine, stop"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A DNA strand reads TAC. Using the pairs A to U, T to A, C to G and G to C, what RNA is made from it?",
+       "opts": [
+        "AUG",
+        "ATG",
+        "UAC"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A mango tree, a mushroom and a person all read the same genetic code. What is the best explanation?",
+       "opts": [
+        "they all come from one shared ancestor",
+        "they copied each other",
+        "it is pure chance"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Cells",
+     [
+      {
+       "t": "sort",
+       "p": "Sort these living things: prokaryote (no nucleus) or eukaryote (has a nucleus)?",
+       "items": [
+        "the bacteria in curd",
+        "yeast",
+        "a neem tree",
+        "archaea in a hot spring",
+        "a crow",
+        "a mushroom"
+       ],
+       "cats": [
+        "prokaryote",
+        "eukaryote"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Which of these are evidence that mitochondria were once bacteria?",
+       "items": [
+        "they have their own ring of DNA",
+        "they split in two like bacteria",
+        "they have two membranes",
+        "they are found in muscle",
+        "their ribosomes are like bacterial ones",
+        "they are very small"
+       ],
+       "cats": [
+        "evidence",
+        "not evidence"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Kavya's mitochondria came from which parent?",
+       "opts": [
+        "her mother",
+        "her father",
+        "half from each"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Give one reason some scientists think life began at deep-sea vents, and one reason others think it began in hot pools on land.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Why did RNA stop being the main store of instructions? Give two ways DNA is sturdier.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking like an origin scientist",
+   "day": 9,
+   "sections": [
+    [
+     "A. Reason it out",
+     [
+      {
+       "t": "mcq",
+       "p": "In Miller's experiment, 2 methane, 1 ammonia and 2 water molecules can be rearranged into 1 glycine and some leftover gas. Methane is CH4, ammonia NH3, water H2O and glycine C2H5NO2. How many hydrogen atoms are left over?",
+       "opts": [
+        "5",
+        "10",
+        "15"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "RNA uses 4 letters, read in groups of 3. How many different groups of 3 are possible?",
+       "opts": [
+        "12",
+        "20",
+        "64"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "p": "Farhan's boiled dal water in a covered jar still went cloudy. What is the most likely reason?",
+       "opts": [
+        "some microbes make tough spores that survive boiling",
+        "the dal water made life by itself",
+        "foil makes microbes"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A planet's air has a gas that living things make on Earth. What should scientists ask first?",
+       "opts": [
+        "could chemistry without life make it too?",
+        "what do the aliens look like?",
+        "how far away is it?"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Sort: what experiments have shown, and what nobody knows yet.",
+       "items": [
+        "amino acids can form from gases and sparks",
+        "RNA can work as a catalyst",
+        "fatty bubbles can grow and divide",
+        "exactly how the first cell began",
+        "whether life exists anywhere else",
+        "mitochondria were once bacteria"
+       ],
+       "cats": [
+        "shown by evidence",
+        "not known yet"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Big questions",
+     [
+      {
+       "t": "write",
+       "p": "The first eukaryote cell began when one cell took in another and both did better. People often say nature is all about competition. What does this story add?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Imagine you could build a robot that grows, copies itself, and whose copies slowly change. Would it be alive? Use the working definition of life in your answer.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Pasteur showed that life today comes only from life. Yet the first life must have come from non-living chemicals. How can both be true?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Boiled dal water: open or covered?",
+   "day": 1,
+   "question": "Can microbes appear by themselves in boiled food, or do they come from outside?",
+   "need": [
+    "a cup of water in which dal or rice was boiled",
+    "a pan",
+    "2 clean glass jars or clear glasses",
+    "aluminium foil or a clean steel plate to cover one jar",
+    "labels and a pen"
+   ],
+   "steps": [
+    "A grown-up boils the dal water in a pan for 10 minutes.",
+    "A grown-up rinses both jars with just-boiled water from the kettle or pan, to kill microbes on the glass.",
+    "A grown-up pours the hot dal water into both jars, about half full.",
+    "Cover jar B at once with foil pressed tightly round the rim, or a clean steel plate. Leave jar A open.",
+    "Label them 'A: open' and 'B: covered'. Keep them side by side at room temperature, out of direct sun.",
+    "Look at both jars once a day for 3 days. Draw them. Do not open jar B until the last day."
+   ],
+   "predict": "Ask: 'Which jar will go cloudy and smelly first? Why?'",
+   "observe": "In warm weather the open jar usually goes cloudy within 1 or 2 days. It may grow a skin or spots on top and smell sour. The covered jar usually stays clear for longer.",
+   "why": "Microbes are everywhere: in the air, in dust and on our hands. Boiling kills most of the microbes in the dal water. In the open jar, new microbes land from the air, feed on the dal water and multiply until the water goes cloudy. The cover keeps them out, so nothing grows for a while. Nothing alive appears from the dal water itself. If the covered jar also goes cloudy, a few microbes probably survived. Some make tough spores that can survive boiling, and a gap in the cover can let microbes in. Hospitals kill spores with steam under pressure, which is hotter than boiling, like a pressure cooker.",
+   "safety": "A grown-up handles the boiling liquid. Never taste the jars. Sniff only by waving the air towards your nose. Pour them down the drain at the end and wash the jars and your hands with soap.",
+   "time": "20 min + 2 min a day for 3 days"
+  },
+  {
+   "id": "e2",
+   "title": "A potato that makes foam",
+   "day": 3,
+   "question": "Can a substance from living cells make a reaction go faster, and what does heat do to it?",
+   "need": [
+    "a small bottle of 3% hydrogen peroxide from a chemist",
+    "a spoonful of grated or finely chopped raw potato",
+    "a spoonful of boiled potato",
+    "2 small glasses or steel katoris",
+    "a tablespoon"
+   ],
+   "steps": [
+    "Put the raw potato in glass A and the boiled potato in glass B.",
+    "A grown-up pours 2 tablespoons of hydrogen peroxide into each glass.",
+    "Watch both for one minute.",
+    "Hold a hand above each glass. Do you feel or hear anything?"
+   ],
+   "predict": "Ask: 'What will happen in each glass? Will they be the same? Why?'",
+   "observe": "The raw potato fizzes and makes a thick white foam within seconds. The boiled potato makes few or no bubbles.",
+   "why": "Hydrogen peroxide slowly breaks down into water and oxygen gas on its own. Raw potato cells contain an enzyme called catalase, which makes this happen thousands of times faster. The bubbles in the foam are oxygen. Catalase protects cells, because hydrogen peroxide forms inside them and would damage them. An enzyme is a catalyst made by a living thing. It works only when it has the right shape. Boiling changes the shape of catalase, so the boiled potato hardly reacts. Most enzymes are proteins, but some catalysts in cells are made of RNA, called ribozymes.",
+   "safety": "A grown-up pours the hydrogen peroxide. Keep it away from eyes, and rinse with water if it splashes on skin. Do not drink it or eat the potato afterwards. Pour everything down the drain when you finish.",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "DNA from a banana",
+   "day": 4,
+   "question": "Can we see DNA, the store of instructions inside every cell?",
+   "need": [
+    "half a ripe banana",
+    "1 teaspoon of salt",
+    "2 teaspoons of dishwashing liquid",
+    "half a cup of warm water",
+    "a bowl and a spoon, or a zip bag",
+    "a tea strainer lined with a thin cotton handkerchief",
+    "a tall clear glass",
+    "about half a cup of surgical spirit or isopropyl rubbing alcohol from a chemist, chilled in the freezer for at least an hour",
+    "a toothpick"
+   ],
+   "steps": [
+    "Mix the warm water, salt and dishwashing liquid in the bowl. Stir gently so it does not foam too much.",
+    "Add the banana and mash it into the mixture for 2 minutes, until there are no lumps.",
+    "Pour the mash through the lined strainer into the glass, until the glass has about 3 cm of liquid. Squeeze the cloth gently.",
+    "A grown-up tilts the glass and pours the ice-cold alcohol very slowly down the side, so it floats on top in a layer about as deep as the banana liquid. Do not stir.",
+    "Wait 2 to 3 minutes and watch where the two layers meet.",
+    "Dip the toothpick into the white cloud and twist it slowly to wind some up."
+   ],
+   "predict": "Ask: 'Will we be able to see DNA? What colour will it be?'",
+   "observe": "A white, cloudy, stringy layer rises into the alcohol, often with tiny bubbles in it. Some of it winds round the toothpick like wet cotton thread.",
+   "why": "Each banana cell has a membrane around it, and its DNA is inside a nucleus with another membrane. Membranes are made of fatty molecules, so soap breaks them open, just as it breaks up grease on a plate. The DNA comes out into the water. Salt helps the DNA strands clump together. DNA does not dissolve in cold alcohol, so it comes out of the liquid as a white cloud where the layers meet. What you see is millions of DNA strands tangled together, from millions of cells. One strand alone is far too thin to see with any home lens.",
+   "safety": "A grown-up handles the alcohol. It catches fire easily, so keep it far from any flame or gas stove. It is poisonous: never drink it or let it touch eyes. Surgical spirit can contain methanol, which is very poisonous. Wash hands afterwards and pour the liquid away down a drain with lots of water.",
+   "time": "20 min + 1 hour in the freezer beforehand"
+  },
+  {
+   "id": "e4",
+   "title": "Potato strips in salt water",
+   "day": 5,
+   "question": "Does a cell's membrane let water in and out?",
+   "need": [
+    "a potato or a cucumber",
+    "a knife (a grown-up uses it)",
+    "2 glasses of water",
+    "3 tablespoons of salt",
+    "a spoon"
+   ],
+   "steps": [
+    "A grown-up cuts 4 strips of potato or cucumber, each about as long and thick as a finger.",
+    "Your child gently bends each strip to feel how stiff it is.",
+    "Stir the salt into one glass of water until most of it dissolves. Leave the other glass plain.",
+    "Put 2 strips in the plain water and 2 in the salty water. Make sure they are covered.",
+    "Wait 30 minutes.",
+    "Take the strips out, dry them on a cloth, and bend each one again. Compare."
+   ],
+   "predict": "Ask: 'Which strips will be floppy in 30 minutes? Why do you think so?'",
+   "observe": "The strips from the salty water are soft and bend easily. The strips from the plain water stay stiff and crisp, or get a little stiffer.",
+   "why": "Each potato cell has a membrane that lets water pass through easily, but not salt. Water moves through a membrane towards the side where more is dissolved in it. This is called osmosis. The salty water outside has more dissolved in it than the cells do, so water moves out of the cells and they go limp. In plain water, a little water moves in, and the cells stay full and firm. This is why salted cucumber gives out water. A membrane is what lets a cell keep its own inside different from the outside.",
+   "safety": "A grown-up cuts the strips. Don't eat the strips afterwards.",
+   "time": "7 min + 30 min wait + 8 min"
+  },
+  {
+   "id": "e5",
+   "title": "Yeast and a balloon",
+   "day": 7,
+   "question": "Do living yeast cells use food and give out a gas?",
+   "need": [
+    "2 small clean plastic bottles",
+    "2 balloons",
+    "2 teaspoons of instant dry yeast (sold in small packets for baking)",
+    "1 teaspoon of sugar",
+    "warm water, about as warm as a warm bath",
+    "a funnel or a rolled paper cone"
+   ],
+   "steps": [
+    "Fill each bottle about a quarter full with warm water. It should feel warm, not hot, on your wrist.",
+    "Add 1 teaspoon of yeast to each bottle.",
+    "Add the sugar to one bottle only. Label it 'sugar'.",
+    "Put the lids on, shake gently, then take the lids off.",
+    "Stretch a balloon over the neck of each bottle.",
+    "Leave both in a warm place for 30 to 40 minutes, and look at the balloons."
+   ],
+   "predict": "Ask: 'Which balloon will fill? Why?'",
+   "observe": "The balloon on the sugar bottle slowly stands up and starts to fill. The water froths. The balloon on the bottle without sugar stays almost flat.",
+   "why": "Dry yeast is made of millions of living single cells, resting. Warm water wakes them up. They take in the sugar and use it for energy, and give out carbon dioxide gas, which fills the balloon. Without sugar, they have little food, so they make little gas. Yeast cells are eukaryotes, like the cells in your body, and they have mitochondria. With oxygen, yeast uses its mitochondria to get energy from sugar. When the oxygen in the bottle runs out, it switches to another way, called fermentation. This is how yeast makes bread dough rise. If you have no yeast, mark the level of a glass of fresh idli or dosa batter with tape and look the next morning: microbes in the batter also give out gas and make it rise.",
+   "safety": "Use warm water, never hot. Don't drink the mixture. Pour it away at the end and rinse the bottles.",
+   "time": "5 min + 30 to 40 min wait + 8 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Build an amino acid",
+   "day": 2,
+   "mins": 20,
+   "need": [
+    "play dough or atta dough in four colours: 2 balls of one colour for carbon, 15 small balls of another for hydrogen, 1 ball of a third colour for nitrogen, 2 balls of a fourth colour for oxygen",
+    "toothpicks",
+    "paper and pen"
+   ],
+   "steps": [
+    "Make a key on paper: which colour is carbon (C), hydrogen (H), nitrogen (N) and oxygen (O). Hydrogen balls are smaller.",
+    "Build 2 methane molecules: each is 1 carbon with 4 hydrogens stuck round it on toothpicks.",
+    "Build 1 ammonia molecule: 1 nitrogen with 3 hydrogens.",
+    "Build 2 water molecules: each is 1 oxygen with 2 hydrogens.",
+    "Count all the atoms: 2 carbon, 15 hydrogen, 1 nitrogen, 2 oxygen. Write it down.",
+    "Take every molecule apart. Now build glycine: a nitrogen with 2 hydrogens, joined to a carbon with 2 hydrogens, joined to a second carbon. That second carbon joins an oxygen with two toothpicks, and another oxygen with one toothpick. That last oxygen holds 1 hydrogen.",
+    "Count what is left over: 10 hydrogens. Pair them up into 5 hydrogen molecules.",
+    "Write the sum: 2 methane + 1 ammonia + 2 water makes 1 glycine + 5 hydrogen. Check that the number of each kind of atom is the same on both sides."
+   ],
+   "outcome": "A dough model of glycine, and a child who has seen that the building blocks of life can be made by rearranging the atoms of simple gases, with no atoms added or lost."
+  },
+  {
+   "id": "a2",
+   "title": "Fold an RNA strip",
+   "day": 3,
+   "mins": 8,
+   "need": [
+    "a paper strip about 30 cm long and 3 cm wide",
+    "a pen"
+   ],
+   "steps": [
+    "Write these 14 letters along the strip, evenly spaced: G G C A U U U C G A U G C C.",
+    "Fold the strip in the middle, between the 7th and 8th letters, so the two ends lie side by side, with the middle letters (U U C G) making a small loop at the bend.",
+    "Check each pair across the fold: G faces C, G faces C, C faces G, A faces U, U faces A. Every pair matches. This folded shape is called a hairpin.",
+    "Now change the second G to an A and fold again. Which pair no longer matches?",
+    "Talk about it: one changed letter makes one pair fail, so the fold is weaker and the shape can change."
+   ],
+   "outcome": "A child who has seen that the order of letters in an RNA chain decides its shape, and that a change in one letter can change the shape."
+  },
+  {
+   "id": "a3",
+   "title": "Drying drops",
+   "day": 6,
+   "mins": 11,
+   "need": [
+    "a steel plate",
+    "half a cup of water with a pinch of salt and a pinch of turmeric stirred in",
+    "a spoon",
+    "a sunny window or balcony",
+    "a magnifying glass, if you have one"
+   ],
+   "steps": [
+    "Put 5 or 6 small drops of the yellow salty water on the plate, well apart.",
+    "Put the plate in strong sun.",
+    "After about 30 minutes, or when the drops are dry, look closely at what is left.",
+    "Draw one dried drop and mark where the yellow and the salt are."
+   ],
+   "outcome": "Dried drops with yellow, salty rings at their edges, showing that drying packs dissolved things close together, as it would in a hot pool on the young Earth."
+  },
+  {
+   "id": "a4",
+   "title": "Act it out: the guest who stayed",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "a dupatta or long cloth",
+    "10 paper coins marked 'energy'"
+   ],
+   "steps": [
+    "Your child is the host, an archaeon. They hold the dupatta in a ring around themselves. That is the membrane.",
+    "A grown-up or sibling is the small bacterium, holding the energy coins. They can use oxygen to get energy from food.",
+    "Scene 1: the two cells live side by side and swap food.",
+    "Scene 2: the host wraps the dupatta round the bacterium too. It is now inside.",
+    "Scene 3: the host tries to digest the guest, but it stays whole.",
+    "Scene 4: the guest hands over energy coins. The host gives shelter and food. Both are better off.",
+    "Scene 5: the host splits into two (open the dupatta into two smaller rings), and the guest splits too, one in each.",
+    "End by asking: 'Can they live apart now?' (Not any more. Over a very long time each came to depend on the other.)"
+   ],
+   "outcome": "A child who has acted out endosymbiosis and can say what the host and the guest each gained."
+  },
+  {
+   "id": "a5",
+   "title": "Biosignature detectives",
+   "day": 8,
+   "mins": 15,
+   "need": [
+    "10 paper cards",
+    "a pen"
+   ],
+   "steps": [
+    "Write one clue on each card: 'liquid water', 'oxygen gas in the air', 'oxygen and methane gas together in the same air', 'a rock with round spots', 'tiny tube shapes in a rock', 'a moving thing that grows and splits', 'carbon-containing molecules', 'a gas made on Earth only by living things', 'amino acids', 'the same chemicals found again and again in layers'.",
+    "Make two headings: 'strong clue' and 'weak clue: chemistry could make it too'.",
+    "Your child sorts each card and says why. There is no fixed answer for every card. The reasons matter.",
+    "Talk about it. Strong: a thing that grows and splits; oxygen and methane together, because they react and destroy each other, so something must keep making both. Weak alone: water, carbon molecules and amino acids, which form in space too; round spots and tube shapes, which minerals can also make.",
+    "Finish by asking: 'What would you need to see before you said: life, for sure?'"
+   ],
+   "outcome": "A sorted set of clues, and a child who asks of every claim: could anything else have made this?"
+  }
+ ],
+ "project": {
+  "title": "The evidence wall: how could life begin?",
+  "days": [
+   1,
+   9
+  ],
+  "steps": [
+   "Each day, your child makes one card from an A5 sheet with three parts: 'What we know', 'How we know' (the experiment) and 'What we don't know yet'.",
+   "Day 1: life comes only from life (Redi, Pasteur, the dal jars). Day 2: building blocks from gases (Miller, the dough glycine). Day 3: RNA that does work (ribozymes, the ribosome). Day 4: DNA and one shared code (LUCA). Day 5: membranes and protocells. Day 6: vents or pools. Day 7: partner cells (mitochondria). Day 8: life on other worlds.",
+   "Add a drawing to each card: the swan-neck flask, the glycine model, the RNA hairpin, the banana DNA, the potato strips, a vent and a pool, the guest inside the host, a moon with ice jets.",
+   "Day 9: stick the cards along a wall in order. Mark each 'What we don't know yet' box with a big question mark.",
+   "Leave a gap between the Day 4 and Day 5 cards, labelled 'Nobody knows how chemicals became the first living cell'."
+  ],
+  "outcome": "A wall of evidence from chemicals to partner cells, made by your child, showing clearly what experiments have shown and where the big unknowns are."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Origin Detectives",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed page of cards",
+   "scissors"
+  ],
+  "rules": [
+   "Cut out the cards. Lay the EVIDENCE cards (in capital letters) face up in a row.",
+   "Shuffle the CLAIM cards and put them face down in a pile.",
+   "On your turn, take a claim card, read it aloud, and put it next to the evidence that supports it.",
+   "Say in one sentence how that evidence shows the claim. If the other players agree, keep the card. The answer is on the back.",
+   "If you are wrong, put the card at the bottom of the pile.",
+   "When the pile is empty, the player with the most cards wins. Then everyone picks one claim that still has no evidence at all, such as 'This is exactly how the first cell began.'"
+  ],
+  "cards": [
+   {
+    "job": true,
+    "front": "EVIDENCE: PASTEUR'S FLASK"
+   },
+   {
+    "job": true,
+    "front": "EVIDENCE: REDI'S JARS"
+   },
+   {
+    "job": true,
+    "front": "EVIDENCE: MILLER'S SPARK"
+   },
+   {
+    "job": true,
+    "front": "EVIDENCE: MURCHISON METEORITE"
+   },
+   {
+    "job": true,
+    "front": "EVIDENCE: CECH'S RIBOZYME"
+   },
+   {
+    "job": true,
+    "front": "EVIDENCE: THE RIBOSOME"
+   },
+   {
+    "job": true,
+    "front": "EVIDENCE: ONE GENETIC CODE"
+   },
+   {
+    "job": true,
+    "front": "EVIDENCE: MITOCHONDRIAL DNA"
+   },
+   {
+    "job": true,
+    "front": "EVIDENCE: SZOSTAK'S BUBBLES"
+   },
+   {
+    "job": true,
+    "front": "EVIDENCE: BOILED POTATO"
+   },
+   {
+    "front": "Life today comes only from life.",
+    "back": "PASTEUR'S FLASK"
+   },
+   {
+    "front": "Maggots come from flies' eggs, not from meat.",
+    "back": "REDI'S JARS"
+   },
+   {
+    "front": "Amino acids can form from simple gases and sparks.",
+    "back": "MILLER'S SPARK"
+   },
+   {
+    "front": "Some building blocks of life formed in space.",
+    "back": "MURCHISON METEORITE"
+   },
+   {
+    "front": "RNA can work as a catalyst, like an enzyme.",
+    "back": "CECH'S RIBOZYME"
+   },
+   {
+    "front": "The machine that builds proteins works with RNA at its core.",
+    "back": "THE RIBOSOME"
+   },
+   {
+    "front": "All living things come from one shared ancestor.",
+    "back": "ONE GENETIC CODE"
+   },
+   {
+    "front": "Mitochondria were once free-living bacteria.",
+    "back": "MITOCHONDRIAL DNA"
+   },
+   {
+    "front": "Fatty bubbles can grow and divide without being alive.",
+    "back": "SZOSTAK'S BUBBLES"
+   },
+   {
+    "front": "Enzymes only work when they have the right shape.",
+    "back": "BOILED POTATO"
+   },
+   {
+    "front": "Microbes are carried in air and dust.",
+    "back": "PASTEUR'S FLASK"
+   },
+   {
+    "front": "AUG means start in almost every living thing.",
+    "back": "ONE GENETIC CODE"
+   },
+   {
+    "front": "Chloroplasts were once cyanobacteria.",
+    "back": "MITOCHONDRIAL DNA"
+   },
+   {
+    "front": "Amino acids have been found inside a meteorite.",
+    "back": "MURCHISON METEORITE"
+   },
+   {
+    "front": "Proteins are built in every cell by a machine made of RNA and protein.",
+    "back": "THE RIBOSOME"
+   },
+   {
+    "front": "A piece of RNA in a pond microbe could cut and join itself.",
+    "back": "CECH'S RIBOZYME"
+   }
+  ]
+ },
+ "big": [
+  "Pasteur showed that life today comes only from life. So how did the first life begin from non-living chemicals?",
+  "If a robot could grow, copy itself and slowly change, would it be alive?",
+  "Every plant and animal cell began when one cell took in another and both did better. Is nature mostly competition, mostly cooperation, or both?",
+  "Every cell senses and chooses without a brain. Does a choice need a brain?",
+  "If we found life on another world, would it be our cousin or a stranger? How could we tell?"
+ ],
+ "challenge": [
+  {
+   "q": "'In 1996, scientists found fossils of microbes in a rock from Mars.' Is that true?",
+   "hint": "In 1996, a NASA team led by David McKay reported tiny worm-like shapes and chemicals in a Mars meteorite called ALH84001, found in Antarctica. It was huge news. Since then, most scientists have concluded that minerals and chemistry without life can make the same shapes and chemicals, and the shapes are smaller than any known cell. The claim is not accepted. What would you need to see to be sure a shape was once alive?"
+  },
+  {
+   "q": "'Stanley Miller made life in a flask.' True?",
+   "hint": "No. He made amino acids, which are building blocks of proteins. Nobody has yet made a living cell from non-living chemicals. Scientists can now make RNA that copies short pieces of RNA, and fatty bubbles that grow and divide, but no one has joined these into something that keeps itself going and evolves. Which step do you think is hardest?"
+  },
+  {
+   "q": "'Survival of the fittest means nature is all about competition.' Says who?",
+   "hint": "The phrase was coined by the philosopher Herbert Spencer in 1864, and Darwin later used it. 'Fittest' means best suited to its surroundings, not strongest. Competition is real, but so is cooperation: every cell in plants, animals and fungi exists because of a partnership between two microbes. Lichens, coral and the bacteria in your gut are partnerships too. Why might the story of competition be told more often?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "Families who set curd every day",
+   "view": "To make curd, you add a spoon of old curd to warm milk. Without it, milk spoils in another way. Indian kitchens have kept living cultures going like this, passing them between homes, for many generations. They practised 'life comes from life' long before anyone had seen a microbe. Ask: whose knowledge counts as science, and who writes it down?"
+  },
+  {
+   "who": "A microbe in a hot spring",
+   "view": "'You think boiling water is deadly. For me it is home. My kind has lived without oxygen for billions of years. To me, your air is poison.' Some archaea grow in water hotter than 100 °C, deep in the sea where pressure stops it from boiling. Ask: why do we call places 'extreme' when they are normal for the beings that live there?"
+  },
+  {
+   "who": "India's Mars mission team",
+   "view": "India's Mars Orbiter Mission, Mangalyaan, reached Mars in 2014 on its first try. It carried an instrument meant to look for methane in Mars's air, a gas that on Earth is made mostly by living things, though rocks can make it too. Whether Mars has methane, and where it comes from, is still argued. Ask: if you designed a mission to look for life, what would you take?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Lynn Margulis (1938–2011), United States",
+   "idea": "In 1967 Margulis argued that mitochondria and chloroplasts were once free-living bacteria that came to live inside other cells and stayed. This is endosymbiosis. Earlier scientists, such as Konstantin Mereschkowski in Russia in 1905, had suggested it for chloroplasts, but they were ignored. Margulis gathered the evidence from cell biology and argued for it for decades.",
+   "then": "Her paper was rejected by about 15 journals before it was published. Many biologists thought the idea was far-fetched, and she was often treated as an outsider.",
+   "now": "Accepted. Mitochondria and chloroplasts have their own DNA, divide like bacteria, have two membranes and bacteria-like ribosomes. Their DNA matches that of certain bacteria. Some of her other ideas, for example about the tails of cells, are not accepted, and late in life she backed some views that the evidence went against.",
+   "status": "accepted",
+   "ask": "Margulis was rejected about 15 times and was right about mitochondria. She was also wrong about other things. How should scientists decide whether a strange new idea deserves a fair hearing?",
+   "day": 7
+  },
+  {
+   "id": "v2",
+   "who": "Ada Yonath (born 1939), Israel, and Venki Ramakrishnan (born 1952), India and Britain",
+   "idea": "From around 1980, Yonath tried to grow crystals of ribosomes, so that X-rays could show their shape. Ribosomes are huge and floppy, and many experts said it could not be done. She kept going for about 20 years. Ramakrishnan, born in Chidambaram in Tamil Nadu, studied physics in Vadodara before switching to biology. In 2000, his team, Yonath's team and Thomas Steitz's team showed the ribosome's shape atom by atom.",
+   "then": "In the early years Yonath was called a dreamer, and some scientists laughed at her plan. Once the structures came out, they showed that the part of the ribosome that joins amino acids is made of RNA, not protein. The ribosome is a ribozyme.",
+   "now": "Accepted. The three shared the Nobel Prize in Chemistry in 2009. Yonath was the first woman from Israel to win a Nobel Prize in science. The RNA core of the ribosome is one of the strongest clues that life once ran on RNA.",
+   "status": "accepted",
+   "ask": "Every cell still builds its proteins with a machine whose working heart is RNA. Why is that a clue that RNA came first? What would you need to see to be more sure?",
+   "day": 3
+  },
+  {
+   "id": "v3",
+   "who": "The vents-or-pools debate: Michael Russell and Nick Lane, and David Deamer and Bruce Damer",
+   "idea": "Michael Russell, a British geochemist, and Nick Lane, a British biochemist, argue that life began at hot vents on the deep seafloor. There, warm alkaline water seeps through thin mineral walls into more acidic sea water, giving a natural supply of energy, a bit like a battery. David Deamer and Bruce Damer, in the United States, argue for hot pools on volcanic land. There, water dries and returns again and again, which joins small pieces into chains and wraps them in fatty skins.",
+   "then": "Hot vents full of life were first seen in 1977, by the submarine Alvin near the Galápagos Islands. A field of alkaline vents called the Lost City was found in 2000. Darwin, in a letter in 1871, had wondered about a 'warm little pond'.",
+   "now": "Debated. In the lab, drying and wetting can join pieces into chains, which supports pools. Vents have steady energy and minerals that speed up reactions, which supports vents. But in open sea water, chains tend to break apart, and the young Earth had little dry land. Nobody has shown either path all the way to a living cell.",
+   "status": "debated",
+   "ask": "Each side has some evidence and a weak point. What experiment would you design to help decide?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "Nikku Madhusudhan, an astrophysicist at the University of Cambridge who studied at IIT (BHU) Varanasi",
+   "idea": "Madhusudhan's team uses the James Webb Space Telescope to study the air of K2-18b, a planet about 124 light years away, bigger than Earth and smaller than Neptune. As the planet passes in front of its star, starlight shines through its air and shows which gases are there. His team found methane and carbon dioxide. In 2025 they reported signs of dimethyl sulphide, a gas that on Earth is made mostly by tiny sea algae. They suggest the planet may have a warm ocean.",
+   "then": "The claim made news around the world. Many astronomers said the signal is too weak to be sure, that other teams analysing the same data found little or no sign of the gas, and that chemistry without life might make it.",
+   "now": "Debated. The team itself says it is not proof of life, and more telescope time is planned. Scientists do not even agree on whether K2-18b has an ocean.",
+   "status": "debated",
+   "ask": "A gas that life makes on Earth has been reported on a far planet. What else would you need to know before you believed there is life there?",
+   "day": 8
+  }
+ ],
+ "story": {
+  "title": "The Guest Who Stayed",
+  "text": [
+   "The whistle blew, and Kavya ran.",
+   "I felt it at once. I live inside Kavya, in a muscle cell at the back of her left leg. I am a mitochondrion, one of hundreds in that one cell. I am far too small to see. Hundreds of us lined up would just about cross the full stop at the end of this sentence.",
+   "The race was the 400 metres, once round the school ground in Chennai. It was only nine in the morning, and the sun was already hot on the red dust. Kavya's best friend, Meenakshi, was in the next lane. Meenakshi was fast.",
+   "My job is simple to say. Kavya breathes in air. Her blood carries the oxygen down to me. Her breakfast reaches me too, idli and sambar broken into small pieces of sugar and fat. I put the oxygen and the food together, slowly, in many small steps, and I catch the energy that comes out. I pack it into tiny molecules called ATP, and the muscle uses them to pull. Every step Kavya took, we paid for.",
+   "Halfway round, Kavya was breathing hard. Her heart was thumping. Meenakshi was two steps ahead, then three. The muscle wanted more energy, and more, and more. We worked as fast as we could.",
+   "While we work, let me tell you where I come from. I am not quite Kavya. I am a guest.",
+   "About two billion years ago, there were no animals and no plants. There was nothing you could see. The sea was full of single cells. Two of them matter to my story. One was a kind of microbe called an archaeon. The other was a small bacterium that had learned a new trick. It could use oxygen to break down its food and get a great deal of energy from it.",
+   "Nobody saw what happened next. Scientists think the archaeon took the bacterium inside itself. Perhaps it meant to eat it. Perhaps the two had lived pressed together for a long time, swapping food, and the bigger one slowly wrapped itself around the smaller. But the bacterium was not digested. It lived on, inside.",
+   "Usually, a cell inside another cell is a meal or a disease. This time, both did better. The guest got shelter and a steady supply of food. The host got energy, far more than it had ever made alone. When the host split into two, the guests inside split too, and went with each daughter.",
+   "Over a very long time, the guest handed most of its genes to the host, to be kept in its nucleus. It kept only a small ring of DNA of its own. I still have mine. It holds just 37 genes. Kavya's nucleus holds about 20,000.",
+   "That partnership became the ancestor of every animal, every plant and every fungus. Later, one of its descendants took in a green cyanobacterium that made food from sunlight, and that guest stayed too. Its children are the chloroplasts in every leaf. The neem tree at the edge of the school ground carries both kinds of guest in its leaves.",
+   "Kavya came round the last bend. Her legs burned. She pushed and pushed, but Meenakshi crossed the line first. Kavya came second, one long step behind.",
+   "She sat down on the dry grass and put her face on her knees. 'I lost,' she said. Her mother came across the ground with a steel water bottle and sat down beside her. Kavya drank, and breathed, and breathed.",
+   "I can tell you something Kavya does not know yet. Every one of us inside her came from her mother. When Kavya was a single cell, an egg, that egg carried more than a hundred thousand of us from her mother's body. Her father's mitochondria did not come with her. Every mitochondrion in Kavya, in her legs, her heart and her brain, comes from those.",
+   "Her mother's came from her mother's egg, and those from the egg before that. If you follow that line back, mother to mother, it does not stop at people. It goes back through every animal mother there has ever been, all the way to that one sea, and that one guest who was not eaten.",
+   "Meenakshi came over, still panting, and sat down on Kavya's other side. 'You nearly caught me,' she said. She held out her hand. Kavya looked at it for a moment. Then she took it.",
+   "Their hearts slowed. Their breathing slowed. Inside both of them, billions of us went on working quietly, as we have for two billion years: guests who were taken in, and never left.",
+   "Kavya leaned on her mother's shoulder. 'Amma,' she said, 'I'm so tired.'",
+   "'You ran,' said her mother. 'Of course you're tired.'",
+   "Kavya breathed in. Far down in her leg, I took the oxygen, and put it to work."
+  ],
+  "epiphany": "The cells of every plant, animal and fungus began with a partnership: a bacterium taken inside an archaeon and not digested, which became the mitochondria. Every mitochondrion in Kavya came from her mother, and that line goes back to the first partnership. The turn is when Kavya, who has just lost a race, takes Meenakshi's hand: the competition is real, but every cell of both girls runs on an ancient cooperation. The story is honest that nobody saw it happen ('Scientists think').",
+  "ask": [
+   "What does the mitochondrion do for Kavya?",
+   "What did the guest and the host each get from living together?",
+   "Why does the mitochondrion say 'I am not quite Kavya'?",
+   "Where did all of Kavya's mitochondria come from?",
+   "Kavya lost the race. Was the race all competition? What else was going on?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Life today comes only from life, but the first life came from chemistry.",
+   "more": "Pasteur's flasks and your dal jars show that living things do not appear from boiled food. Yet the first cells had no parents. Scientists think the step from chemicals to life happened once, very slowly, under conditions very different from today, and that modern microbes would now eat any new beginnings before they got far."
+  },
+  {
+   "idea": "RNA may have come first because it can do two jobs.",
+   "more": "It can store instructions like DNA and work as a catalyst like a protein. Every cell still builds its proteins in a ribosome whose working core is RNA, like a fossil of that older way of life."
+  },
+  {
+   "idea": "All life reads one code, so all life is one family.",
+   "more": "AUG means start in the bacteria in curd, in a neem tree and in your child. The genetic code could have been different, so a shared code points to one shared ancestor, LUCA."
+  },
+  {
+   "idea": "Complex cells began with a partnership.",
+   "more": "Mitochondria and chloroplasts were once free-living bacteria. Cooperation, not only competition, built every plant and animal cell."
+  }
+ ],
+ "unknowns": [
+  "How exactly did non-living chemicals become the first living cell? Scientists have made the building blocks, RNA that does some jobs, and bubbles that grow and divide. Nobody has joined these into something alive.",
+  "Did life begin at deep-sea vents, in hot pools on land, or somewhere else? There is evidence for more than one place, and nobody knows.",
+  "Did something simpler come before RNA? Many scientists think RNA is too complicated to have formed first, and they are searching for an earlier step.",
+  "Is there life anywhere else? Mars, Europa, Enceladus and far planets like K2-18b are being studied, but no life beyond Earth has been confirmed."
+ ],
+ "books": [
+  {
+   "title": "The Story of Life: A First Book about Evolution",
+   "author": "Catherine Barr and Steve Williams, illustrated by Amy Husband",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A clear picture book from the first cells to today, good for walking along the evidence wall."
+  },
+  {
+   "title": "Tiny Creatures: The World of Microbes",
+   "author": "Nicola Davies, illustrated by Emily Sutton",
+   "for": "read together",
+   "age": "5–9",
+   "why": "Shows how many microbes there are and how they divide and change the world, which helps with Pasteur's jars and the guest who stayed."
+  },
+  {
+   "title": "Life Ascending: The Ten Great Inventions of Evolution",
+   "author": "Nick Lane",
+   "for": "parent reads",
+   "age": "adult (share parts aloud)",
+   "why": "Clear chapters on the origin of life at deep-sea vents, DNA and the complex cell, from one of the scientists in the vents debate."
+  },
+  {
+   "title": "Symbiotic Planet: A New Look at Evolution",
+   "author": "Lynn Margulis",
+   "for": "parent reads",
+   "age": "adult (share parts aloud)",
+   "why": "Margulis's own short account of how cells joined up, and of her long fight to be heard."
+  }
+ ],
+ "check": [
+  {
+   "q": "What did Pasteur's swan-neck flask show?",
+   "a": "Boiled broth stayed clear when dust and microbes were trapped in the bent neck, and went cloudy when the neck was broken. So microbes come from the air and dust, and life today comes only from life."
+  },
+  {
+   "q": "What did Stanley Miller's experiment make, and from what?",
+   "a": "Amino acids, the building blocks of proteins, from methane, ammonia, hydrogen and water vapour, using electric sparks like lightning. It did not make life."
+  },
+  {
+   "q": "What is a catalyst, and why did the raw potato foam but not the boiled one?",
+   "a": "A catalyst makes a reaction go faster without being used up. Raw potato has the enzyme catalase, which splits hydrogen peroxide into water and oxygen. Boiling changes the enzyme's shape, so it stops working."
+  },
+  {
+   "q": "Why do many scientists think RNA came before DNA and proteins?",
+   "a": "RNA can store instructions and also work as a catalyst (a ribozyme), so it could have done both jobs. The working core of the ribosome is still RNA."
+  },
+  {
+   "q": "How does the genetic code work, and what does a shared code tell us?",
+   "a": "A ribosome reads RNA three letters at a time, and each group of three stands for one amino acid, such as AUG for start. Almost all life uses the same code, so all life comes from one shared ancestor, LUCA."
+  },
+  {
+   "q": "Give two pieces of evidence that mitochondria were once bacteria.",
+   "a": "Any two: they have their own ring of DNA, they divide by splitting like bacteria, they have two membranes, their ribosomes are like bacterial ones, and their DNA matches certain bacteria."
+  },
+  {
+   "q": "Name one place where life might have begun, and one reason for it.",
+   "a": "Deep-sea vents, because hot chemical-rich water meets cold sea water and gives a steady supply of energy. Or hot pools on land, because drying and wetting joins small pieces into chains."
+  },
+  {
+   "q": "What is a biosignature, and why must scientists be careful with one?",
+   "a": "A clue that could have been made by living things, such as a gas or a shape in a rock. Scientists must check whether chemistry without life could have made it too, as with the Mars rock ALH84001 or the gas on K2-18b."
+  }
+ ]
+}

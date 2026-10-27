@@ -1,0 +1,1337 @@
+{
+ "key": "combined|sci|4|making-things",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "making-things",
+ "title": "Paper: how it is made, and how to waste less of it",
+ "source": "DeepKids Combined. Covers NCERT Class 4 'How Things are Made' (making handmade paper from pulp, how paper is made, the 5Rs of waste: refuse, reduce, reuse, repurpose, recycle). No textbook needed.",
+ "summary": "A sheet of paper has no glue in it. It is millions of tiny plant fibres that hold on to each other as they dry, and water makes them let go again. Your child makes paper by hand from old newspaper, and tests why wet paper tears, why newspaper tears straight one way and turns yellow in the sun, and why ink spreads on tissue but not on a notebook page. They meet the paper wasp, which made paper from wood long before people did, follow a tree through a paper mill, and write on a leaf like a palm-leaf scribe. They weigh their family's paper waste, learn the 5Rs in order of what each one saves, and bind a notebook from reused paper.",
+ "builds_on": "In Class 3 your child made clay pots, found that baking clay cannot be undone, built a staggered brick wall, and wove a mat from paper strips. This rung goes inside a single sheet of paper: what it is made of, how its fibres hold together, how it is made by hand and in a mill, and how to waste less of it. In Class 5 the making-things rung follows cotton into thread, cloth and clothes.",
+ "goals": [
+  "By the end your child can explain that paper is a mat of plant fibres made of cellulose, and that each fibre is one plant cell.",
+  "By the end your child can make paper by hand from old newspaper, and say what tearing, soaking, pulping, lifting on a mesh, pressing and drying each do.",
+  "By the end your child can explain why paper holds together without glue, why water makes it weak, and why making paper can be undone while baking clay cannot.",
+  "By the end your child can show the grain of machine-made paper, explain why newspaper turns yellow in sunlight, and show what starch sizing does to ink.",
+  "By the end your child can describe how a paper mill makes paper from wood or bagasse, how a paper wasp makes paper, and what people in India wrote on before paper.",
+  "By the end your child can name the 5Rs in order, say why refusing saves the most and recycling the least, and plan one real action for each at home."
+ ],
+ "words": [
+  [
+   "fibre",
+   "a very thin thread. Paper is a flat mat of millions of tiny plant fibres."
+  ],
+  [
+   "cell",
+   "the tiny living unit that plants and animals are built from. Each paper fibre was once one plant cell."
+  ],
+  [
+   "cellulose",
+   "the tough material that plant cell walls are made of. Plants make it from sugar. Paper, cotton and wood are mostly cellulose."
+  ],
+  [
+   "lignin",
+   "a substance in wood that glues its fibres together and makes trees stiff. Sunlight turns it yellow."
+  ],
+  [
+   "pulp",
+   "a soft, wet mush of loose fibres, made by soaking and mashing wood or old paper"
+  ],
+  [
+   "mould",
+   "for paper: a frame with a fine mesh, dipped into pulp and lifted out so a thin layer of fibres stays on it"
+  ],
+  [
+   "hydrogen bond",
+   "a very weak link that forms where two fibres touch as paper dries. Millions of them hold a sheet together. Water breaks them."
+  ],
+  [
+   "grain",
+   "the direction most fibres lie in a machine-made paper. Paper tears straighter along the grain."
+  ],
+  [
+   "sizing",
+   "a coat of starch or a similar material that fills the gaps between fibres, so ink does not spread"
+  ],
+  [
+   "bagasse",
+   "the dry, crushed sugarcane stalks left after the juice is squeezed out. Some mills make paper from it."
+  ],
+  [
+   "refuse",
+   "to say no to something you do not need, so it never becomes waste"
+  ],
+  [
+   "reduce",
+   "to use less, for example by writing on both sides of a page"
+  ],
+  [
+   "reuse",
+   "to use a thing again for the same job, like a gift bag for another gift"
+  ],
+  [
+   "repurpose",
+   "to use an old thing for a new job, like an old calendar page folded into an envelope"
+  ],
+  [
+   "recycle",
+   "to break a used thing down into its material and make something new from it, like old newspaper into new paper"
+  ]
+ ],
+ "subconcepts": [
+  "paper is a flat mat of plant fibres",
+  "each fibre is one plant cell, with walls of cellulose",
+  "fibres hold together without glue: hydrogen bonds form as paper dries",
+  "water breaks those bonds, so wet paper is weak and paper can go back to pulp",
+  "making paper by hand: tear, soak, pulp, lift on a mesh, press, dry",
+  "the grain of machine-made paper",
+  "sizing: starch fills the gaps so ink does not spread",
+  "how a paper mill makes paper from wood, bamboo or bagasse",
+  "lignin, and why newspaper turns yellow in sunlight",
+  "long fibres make strong paper, and recycling makes fibres shorter",
+  "before paper: palm leaves and birch bark",
+  "the paper wasp makes paper from chewed wood to solve its own problem",
+  "the 5Rs in order: refuse, reduce, reuse, repurpose, recycle",
+  "swapping one material for another is not the same as making less waste",
+  "who gets the credit for an invention"
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "What a sheet of paper is",
+   "goal": "Find the fibres in paper, discover the grain of a newspaper, and start the sunlight test and the paper-waste box.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember clay and the paper mat",
+     "mins": 6,
+     "do": "Say: 'In Class 3 you made clay pots. What happened when we put dry clay in water, and when we put a baked diya in water?' Good answer: 'The dry clay turned back to mud. The diya stayed hard, because baking cannot be undone.' Ask: 'You also wove a mat from paper strips. What held it together?' Good answer: 'The strips crossed over and under each other.' Say: 'This week we look inside one sheet of paper. It is a kind of mat too. We will make some, and find out how to waste less of it.' If your child did not do the Class 3 lessons, ask only what they think paper is made of, and write the answer down."
+    },
+    {
+     "kind": "do",
+     "title": "Paper hunt and torn edges",
+     "mins": 10,
+     "do": "Give your child 3 minutes to bring every kind of paper they can find: newspaper, a notebook page, tissue, a piece of a cardboard box, a paper bag, an egg tray, a calendar page. Ask: 'What do you think all of these are made from?' Write the guess down. Then tear a strip of newspaper slowly. Hold the torn edge against a bright window, or look at it with a phone camera zoomed in. Ask: 'What do you see along the edge?' (Tiny hairs sticking out.) Say: 'These are fibres. A fibre is a very thin thread. Paper is a flat mat of millions of plant fibres. In most paper, the fibres came from wood.' Tear the tissue and the cardboard too, and compare the edges."
+    },
+    {
+     "kind": "talk",
+     "title": "A fibre is one plant cell",
+     "mins": 7,
+     "do": "Pull a single thread out of a cotton ball and lay it on a dark cloth. Next to it, rub the torn newspaper edge between your fingers so a little fluff falls on the cloth. Ask: 'Which fibres are longer?' (The cotton fibre, by far.) Say: 'Each fibre is one plant cell. A cell is the tiny living unit that plants and animals are built from. A cotton fibre is one cell, about 2 to 3 centimetres long. Most wood fibres are only 1 to 4 millimetres long. The walls of these cells are made of cellulose, a tough material that plants make from sugar.' Ask: 'This newspaper was once a living tree. Where in the tree were its cells?' (In the wood of the trunk and branches.)"
+    },
+    {
+     "kind": "exp",
+     "title": "Which way does paper tear?",
+     "mins": 12,
+     "ref": "e1",
+     "do": "Do Experiment e1. Ask first: 'If you tear a newspaper from top to bottom, and then from side to side, will both tears look the same? Why do you think so?' Wait for a guess and a reason. Your child tears one page both ways and lays the two torn edges side by side. Then they cut two strips 2 cm wide and 15 cm long, one in each direction, and hold each one flat out by one end. Ask: 'Which tear was straighter? Which strip drooped less?' Then say: 'A paper machine pours wet pulp onto a fast-moving belt of mesh. Most fibres end up lying the way the belt moves. This is called the grain. A tear along the grain slips between the fibres. A tear across it has to break them.' Try a notebook page the same way."
+    },
+    {
+     "kind": "exp",
+     "title": "Start the sunlight test",
+     "mins": 6,
+     "ref": "e2",
+     "do": "Set up Experiment e2. Tape a half sheet of newspaper and a half notebook page side by side where direct sun falls for a few hours a day, such as a balcony ledge or a sunny windowsill. Cover the left half of each with a piece of cardboard, taped down at the edges. Ask: 'In five days, will the open half look different from the covered half? Which paper will change more?' Write both guesses on a slip and stick it nearby."
+    },
+    {
+     "kind": "act",
+     "title": "Start the paper-waste box",
+     "mins": 4,
+     "ref": "a2",
+     "do": "Start Activity a2. Label an empty cardboard box 'Paper we threw away' and put it beside the dustbin. Tell the family: for the next 6 days, every piece of clean waste paper goes in this box instead of the bin. Used tissues and oily paper still go in the bin, but each one gets a tally mark on the box lid. Ask: 'How much paper do you think our family throws away in a week?' Write the guess on the box."
+    }
+   ],
+   "need": [
+    "different kinds of paper from around the home",
+    "a cotton ball",
+    "a dark cloth",
+    "old newspaper",
+    "a notebook page",
+    "scissors and a ruler",
+    "tape and a piece of cardboard",
+    "an empty cardboard box",
+    "a phone camera, if you have one"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Making paper by hand",
+   "goal": "Turn soaked newspaper into pulp, lift it into sheets on a mesh, press them, and read the story.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What happened in the bucket?",
+     "mins": 4,
+     "ref": "e3",
+     "do": "Look into the bucket of newspaper that has soaked overnight for Experiment e3. Your child picks out a piece and pulls it gently. Ask: 'How does it feel now? Does it tear more easily than dry paper, or less?' (It is soft and floppy, and falls apart with a gentle pull.) Don't explain why yet. Say: 'Remember this. On Day 3 we will find out why.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Pulp, lift and press",
+     "mins": 28,
+     "ref": "e3",
+     "do": "Do Experiment e3. First, a grown-up blends the soaked paper with plenty of its water in a mixie, in small batches of about 20 seconds, until it looks like thin porridge. Without a mixie, your child squeezes and mashes it by hand or with a potato masher for 10 minutes. Pour the pulp into a wide tub half full of water and stir. Your child slides the net frame into the tub under the pulp, holds it flat and lifts it straight up. Water drains away and a layer of pulp stays on the net. It should be thin enough that you can just see the net through it. Turn the frame over onto a cotton cloth and press the back of the net so the sheet comes off. Cover it with a second cloth. Ask: 'Why do you think we will squeeze the water out?' Wait for the answer. Then your child rolls a rolling pin over it hard, five times. Make 6 sheets this way. Leave them on their cloths in a shady, airy place to dry for 1 to 2 days."
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Wasp on the Fourth Floor",
+     "mins": 13,
+     "do": "Read the story aloud, slowly. Don't explain it. Ask one question: 'Kavya's first sheet broke and her second one did not. What did she change, and where did she get the idea?' Write your child's answer down. On Day 3 you will test why her change worked."
+    }
+   ],
+   "need": [
+    "the bucket of soaked newspaper",
+    "a mixie (grown-up only) or a potato masher",
+    "a wide tub or basin",
+    "a frame with mosquito net or an old dupatta stretched tight over it, or a flat steel sieve",
+    "6 or more old cotton cloths or old dupatta pieces",
+    "a rolling pin",
+    "old newspaper to work on"
+   ],
+   "prep": [
+    {
+     "task": "With your child, tear 4 double sheets of old newspaper into pieces the size of a postage stamp. Put them in a bucket, cover with water and leave overnight. Tearing opens up the fibres better than cutting.",
+     "when": "evening of Day 1"
+    },
+    {
+     "task": "Make the frame: stretch mosquito net or a thin old dupatta tightly over an old photo frame with the glass removed, and tie or staple it at the back. A flat steel sieve or a splatter screen also works, and makes round sheets.",
+     "when": "before Day 2"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "What holds paper together",
+   "goal": "Peel the new sheets, test what water does to paper, and find out how fibres hold on without glue.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Peel the sheets",
+     "mins": 6,
+     "ref": "e3",
+     "do": "Check the sheets from Experiment e3. If they are dry, peel one slowly off its cloth. If they are still damp, wait and do this step at the start of Day 4. Ask your child to compare it with a notebook page: 'Which is thicker? Which is rougher? Can you see bits of print in ours?' Then tear one corner of it in two directions. Ask: 'Does our paper have a grain, like the newspaper did?' (No. It tears raggedly both ways. Our fibres settled in every direction, because no moving belt lined them up.)"
+    },
+    {
+     "kind": "exp",
+     "title": "Does water undo paper?",
+     "mins": 14,
+     "ref": "e4",
+     "do": "Do Experiment e4. Ask first: 'Here are a dry strip and a wet strip of the same newspaper. Which will be harder to pull apart? Why?' Your child holds a dry strip 2 cm wide by both ends and pulls it straight apart, as hard as they can. Then they dip a second strip in water for 1 minute and pull it gently the same way. Look at the torn wet ends with a phone camera zoomed in. Ask: 'What do the ends look like?' (Fuzzy, with whole fibres pulled out instead of snapped.) Then soak a small piece of your handmade paper for 5 minutes, and rub it between finger and thumb until it is pulp again. If you have toilet paper and kitchen towel, swish a square of each in water for 10 seconds and lift them out."
+    },
+    {
+     "kind": "talk",
+     "title": "Fibres that stick without glue",
+     "mins": 9,
+     "do": "Ask: 'We put no glue in our paper. So what is holding the fibres together?' Let your child guess. Then say: 'As a wet sheet dries, the last of the water pulls the fibres tight against each other. Where two fibres touch, they form tiny links called hydrogen bonds. Each link is very weak, but a sheet has millions of them. Water gets between the fibres and breaks the links. That is why wet paper tears so easily, and why paper can go back to pulp.' Ask: 'In Class 3, baked clay could never become soft clay again. Can paper become pulp again?' (Yes. Making paper can be undone. Baking clay cannot.) Say: 'Toilet paper is made to fall apart in water, so it does not block the pipes. Kitchen towel has a resin added, so it stays strong when wet.' Ask: 'Now, why did pressing make Kavya's sheet strong?' (Pressing pushed the fibres close, so more of them touched and bonded.)"
+    },
+    {
+     "kind": "think",
+     "title": "Who made the first paper?",
+     "mins": 9,
+     "ref": "v1",
+     "do": "Tell the story in Voice v1 in your own words. For nearly 2,000 years, people said that Cai Lun, an official at the Chinese emperor's court, invented paper in the year 105. He made it from tree bark, old rags and worn-out fishing nets. Then archaeologists dug up pieces of paper in China that are older than Cai Lun. Ask the voice question. Good answers notice that new evidence changed the story, and that Cai Lun is still remembered for making paper cheap and common, from waste."
+    },
+    {
+     "kind": "exp",
+     "title": "Starch on half a sheet",
+     "mins": 6,
+     "ref": "e5",
+     "do": "Start Experiment e5. Your child dips a clean paintbrush or a cotton ball in cooled rice water or thin cornflour paste, and brushes it thinly over half of one dry handmade sheet. Mark that half with a pencil 'S'. Leave it to dry flat overnight. Say: 'Tomorrow we will find out what the starch does.' Don't explain yet. If no sheet is dry, do this first thing on Day 4 and dry it under a fan for an hour."
+    }
+   ],
+   "need": [
+    "the handmade sheets",
+    "a notebook page",
+    "2 strips of newspaper, each 2 cm by 20 cm",
+    "a bowl of water",
+    "toilet paper and kitchen towel, if you have them",
+    "a clean paintbrush or cotton ball",
+    "cooled rice water (the starchy water drained from cooking rice), or 1 teaspoon of cornflour cooked in 1 cup of water until clear, then cooled"
+   ],
+   "prep": [
+    {
+     "task": "Keep back half a cup of the starchy water when you next cook rice, or cook a thin cornflour paste and let it cool",
+     "when": "morning of Day 3"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Ink, starch and palm leaves",
+   "goal": "Test how ink spreads on different papers, find out what people in India wrote on before paper, and write on a leaf.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "The ink-spread test",
+     "mins": 14,
+     "ref": "e5",
+     "do": "Do Experiment e5. Lay out five papers: tissue, newspaper, a notebook page, the plain half of the handmade sheet and its starched half. Ask: 'On which paper will a dot of ink spread most? On which least? Why?' Your child holds the tip of the same sketch pen still on each paper while counting slowly to three. After 1 minute, they measure the width of each dot in millimetres and write it in a table. Ask: 'Which spread most? What did the starch do?' Then say: 'Paper is full of tiny gaps between its fibres. Ink creeps along the gaps, the way water creeps up a cloth dipped in a glass. Starch fills the gaps and coats the fibres, so the ink stays where the pen put it. This is called sizing. Writing paper is sized. Tissue is not, because its job is to soak things up.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Before paper, in India",
+     "mins": 9,
+     "do": "Ask: 'Paper reached India many hundreds of years after it was first made in China. What do you think people here wrote on before that?' Then say: 'In Tamil Nadu, Kerala and much of India, people wrote on dried palm leaves. The leaves were dried, boiled and rubbed smooth. A writer scratched the letters with a pointed iron pen, called an ezhuthani in Tamil and Malayalam. Then the leaf was rubbed with soot and oil, and the black stayed in the scratches. In Kashmir, people wrote on the thin bark of the birch tree, called bhojpatra.' Say: 'Palm leaves slowly crumble, and insects eat them. So every few generations, people copied old books onto fresh leaves. In the late 1800s a Tamil scholar, U. V. Swaminatha Iyer, went from village to village looking for old palm-leaf books. He saved many ancient Tamil poems that would otherwise have crumbled away.'"
+    },
+    {
+     "kind": "act",
+     "title": "Write like a palm-leaf scribe",
+     "mins": 14,
+     "ref": "a1",
+     "do": "Do Activity a1. Your child lays a strip of banana leaf on a folded towel and scratches their name and one short line into it with a toothpick. They press firmly enough to scratch the shiny surface but not cut through. Mix a pinch of soot or charcoal powder with 3 drops of oil, and rub it over the whole leaf with a tissue. Then wipe the leaf clean. Ask: 'Why does the black stay only in the letters?' (The smooth, waxy leaf wipes clean, but the black gets caught in the scratches.) Ask: 'What would be harder about writing a whole book this way?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 8,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1 (core). Read each item aloud if needed. For any wrong answer, go back to the thing you tested: the torn newspaper, the wet strip, the pulp, or the ink dots. Let your child look again and correct it."
+    }
+   ],
+   "need": [
+    "tissue, newspaper, a notebook page and the half-starched handmade sheet",
+    "one water-based sketch pen",
+    "a ruler with millimetres",
+    "a strip of banana leaf about 20 cm long, or a thick leaf from a potted plant",
+    "a toothpick",
+    "a pinch of soot from a lamp, or charcoal powder, or the black from a soft pencil scraped onto paper",
+    "a few drops of coconut oil or cooking oil",
+    "tissues and a folded towel",
+    "Worksheet ws1"
+   ],
+   "prep": [
+    {
+     "task": "Buy a small piece of banana leaf at a vegetable shop, or pick a thick leaf from a potted plant such as a rubber plant",
+     "when": "day before"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Paper from wood: the wasp and the mill",
+   "goal": "Find out how the paper wasp makes paper, read the sunlight test, and follow a tree through a paper mill.",
+   "steps": [
+    {
+     "kind": "think",
+     "title": "The paper wasp's problem",
+     "mins": 12,
+     "ref": "v2",
+     "do": "Ask: 'A wasp mother must keep her eggs and grubs dry, and safe from ants, while she flies off to hunt. If you were her, what would you build, and from what?' Let your child think and answer. Then say: 'Paper wasps solve it with paper. In India they often build under sunshades and balcony ledges. The wasp scrapes fibres from dry wood or plant stems, chews them with her spit into a wet ball, and spreads it in thin strips that dry into paper. Paper is light, so the whole nest can hang from one thin stalk. Ants have only that one narrow way in, which is easy to guard.' Then tell Voice v2: in 1719 a French scientist, Réaumur, watched wasps and said people could make paper from wood too. Nobody did it on a big scale for over 120 years. Ask the voice question. If you see a wasp nest, watch from at least two metres away and never touch it."
+    },
+    {
+     "kind": "exp",
+     "title": "Read the sunlight test",
+     "mins": 8,
+     "ref": "e2",
+     "do": "Lift the cardboard in Experiment e2. Ask: 'What changed?' (The open half of the newspaper is yellower than the covered half. The notebook page changed little or not at all.) Ask: 'Why do you think the newspaper changed and the notebook page did not?' Wait for a guess. Then say: 'Wood has a substance called lignin. It glues wood fibres together and keeps a tree stiff enough to stand tall. To make newspaper, wood is mostly ground up whole, so the lignin stays in. Sunlight changes lignin and turns it yellow. To make notebook paper, the wood is cooked with chemicals that take the lignin out, and the pulp is bleached white.' If the week was cloudy and you see little change, leave it one more week."
+    },
+    {
+     "kind": "talk",
+     "title": "Inside a paper mill",
+     "mins": 10,
+     "do": "Say: 'We made 6 sheets in half an hour. A paper mill makes one sheet several metres wide that never stops, and winds it into huge rolls.' Then tell the steps. Trees, often eucalyptus, subabul or bamboo grown on farms, are cut. The bark is stripped and the logs are cut into chips. The chips are cooked with chemicals to free the fibres and remove the lignin. The pulp is washed, often bleached, and mixed with a lot of water. It sprays onto a fast-moving belt of fine mesh. The water drains, rollers press the sheet, and hot rollers dry it. Ask: 'Which of these steps did we do at home?' (Making pulp, spreading it on a mesh, pressing and drying.) Say: 'Some Indian mills use bagasse instead of wood. Bagasse is the dry, crushed sugarcane stalks left after the juice is squeezed out. A big mill at Karur in Tamil Nadu makes paper from it.'"
+    },
+    {
+     "kind": "act",
+     "title": "Put the mill in order",
+     "mins": 8,
+     "ref": "a4",
+     "do": "Do Activity a4. Shuffle the eight step slips and give them to your child. They lay them out in order, from tree to paper roll. Then give them the extra slip, 'old paper is soaked, pulped and the ink is washed out', and ask: 'Where does recycled paper join the line?' (At the pulp, before the mesh.) Ask: 'Which step do you think uses the most water?' Accept a reasoned answer: cooking, washing and mixing the pulp all need a lot of water."
+    },
+    {
+     "kind": "think",
+     "title": "The man who made paper endless",
+     "mins": 7,
+     "ref": "v3",
+     "do": "Tell Voice v3 in your own words. In 1798 Nicolas-Louis Robert, who worked at a paper mill in France, built the first machine that made paper in one long sheet on a moving belt of mesh, instead of one sheet at a time. Two English brothers called Fourdrinier paid to improve it, and the machine is still called after them. Ask the voice question."
+    }
+   ],
+   "need": [
+    "the sunlight test from Day 1",
+    "8 step slips for the paper mill, plus 1 slip for recycled paper (written the night before)"
+   ],
+   "prep": [
+    {
+     "task": "Write the 9 slips listed in Activity a4 on small pieces of paper",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Long fibres, short fibres",
+   "goal": "Compare the strength of three papers, find out why recycling shortens fibres, and play the board game.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "Which paper is strongest?",
+     "mins": 10,
+     "do": "Cut a strip 2 cm wide and 15 cm long from a notebook page, a newspaper and your handmade paper. Ask: 'Which will be hardest to tear? Why do you think so?' Your child holds each strip by both ends and pulls it apart, then ranks the three. (Usually the notebook page is strongest, the newspaper next, and the handmade paper weakest.) Say: 'Long, whole fibres touch in many places and make many bonds. Notebook paper is made from fresh wood fibres with the lignin taken out, so the fibres bond well. Newspaper fibres are shorter and more broken. Our paper was made from newspaper fibres, mashed again, so they are shorter still.' Ask: 'What happens to the fibres every time paper is recycled?' (They get a little shorter and weaker.) Say: 'Paper fibres can be recycled only about 5 to 7 times. After that they are too short to hold together.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Paper from many plants",
+     "mins": 8,
+     "do": "Remind your child of the cotton fibre from Day 1. Say: 'Any plant with good fibres can make paper. In Sanganer, near Jaipur, families have made paper by hand for generations, mostly from old cotton rags. Cotton fibres are long, so the paper is strong and lasts. Indian mills also use bamboo, and bagasse from sugarcane. Jute and banana stems can make paper too.' Ask: 'A recycling mill often adds some fresh, long fibres to the old ones. Why do you think it does that?' (The long fibres make the weak, short-fibred pulp strong enough.) Ask: 'Which would you rather make paper from: a tree, sugarcane waste or old cloth? Why?'"
+    },
+    {
+     "kind": "game",
+     "title": "Play Tree to Page and Back",
+     "mins": 17,
+     "ref": "g1",
+     "do": "Play game g1 on the printed board. Each player is a paper fibre that starts in a tree. On every square, the player reads it aloud and says why before moving: for example, 'Back 3, because oily paper cannot be recycled.' Play for about 15 minutes. If someone gives a wrong reason, the others can explain and the player still moves. Afterwards ask: 'Which square sent you back the most? What would stop that happening to real paper?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "ref": "ws2",
+     "do": "Do Worksheet ws2 (stretch). It uses the tear test, the sunlight test, the wasp and the paper mill on new examples. Your child can check any answer with a quick test, such as tearing a strip or dripping water on it."
+    }
+   ],
+   "need": [
+    "a notebook page, newspaper and handmade paper",
+    "scissors and a ruler",
+    "the printed game board",
+    "a die",
+    "a counter for each player (a button, bead or seed)",
+    "Worksheet ws2"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The 5Rs, in the right order",
+   "goal": "Weigh the family's paper waste, learn the 5Rs and why their order matters, and start a pulp bowl.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Weigh the paper-waste box",
+     "mins": 10,
+     "ref": "a2",
+     "do": "Finish Activity a2. Weigh the paper in the box on a kitchen scale. Ask: 'Was your guess from Day 1 close?' Then your child works out how much that would be in a year. For example: '400 grams a week, times 52 weeks, is 20,800 grams. That is about 21 kilograms.' Count the tally marks too. Then your child sorts the paper into four piles: could have been refused, clean on one side, can be recycled, cannot be recycled (oily, wet or coated with plastic). Keep the 'clean on one side' pile for the project on Day 8."
+    },
+    {
+     "kind": "talk",
+     "title": "Five Rs, and why the order",
+     "mins": 12,
+     "do": "Ask: 'Which do you think saves more: recycling a paper cup, or never taking one?' Let your child answer and give a reason. Then go through the 5Rs in order. For each one, your child gives a home example. Refuse: say no to things you don't need, like a free flyer or a paper cup. Reduce: use less, like writing on both sides of a page. Reuse: use a thing again for the same job, like a gift bag. Repurpose: use an old thing for a new job, like a calendar page folded into an envelope. Recycle: break it down and make it again, like our newspaper pulp. Say: 'The order matters. Refusing needs nothing at all. Recycling still needs trucks, water and energy, and makes the fibres shorter. So the higher up the list, the more it saves.' Say: 'In India, most paper is recycled because kabadiwalas and waste pickers collect it, sort it and sell it to mills.'"
+    },
+    {
+     "kind": "think",
+     "title": "Paper bag or plastic bag?",
+     "mins": 10,
+     "ref": "v4",
+     "do": "Tell Voice v4. Ask first: 'Which is better for the planet, a paper bag or a thin plastic bag?' Let your child answer with a reason. Then say: 'A study for the UK government in 2011 looked at the gases that heat up the planet. It found that making a paper bag gives off more of them than making a thin plastic bag. A paper bag had to be used about 3 times to be as good as a plastic bag used once. A cotton bag had to be used more than 100 times. But a plastic bag that ends up in a drain or a cow's stomach stays there for years, and a paper bag rots.' Ask the voice question. Good answers notice that using any bag many times beats swapping one material for another."
+    },
+    {
+     "kind": "act",
+     "title": "Start a pulp bowl",
+     "mins": 13,
+     "ref": "a3",
+     "do": "Do Activity a3. Say: 'An egg tray is recycled paper, pressed into a shaped mould. We will repurpose one.' Your child squeezes the soaked egg tray pieces and mashes them into pulp. Turn a small steel bowl upside down and cover it with a thin plastic bag. Your child presses the pulp over it in a layer about 1 cm thick, then presses it with a dry cloth to squeeze out water. Put it in a sunny, airy place to dry for 3 to 5 days, then lift it off. Ask: 'Which of the 5Rs is this?' (Repurpose and recycle: old paper made into a new thing.)"
+    }
+   ],
+   "need": [
+    "the paper-waste box",
+    "a kitchen scale",
+    "1 paper egg tray, torn up and soaked overnight in water",
+    "a small steel bowl",
+    "a thin plastic bag",
+    "a dry cloth"
+   ],
+   "prep": [
+    {
+     "task": "Tear a paper egg tray into small pieces and leave it soaking in a bowl of water",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "A notebook from reused paper, and teach it back",
+   "goal": "Bind a notebook from reused paper with a handmade cover, do the challenge worksheet, and teach the topic back.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Bind a notebook",
+     "mins": 15,
+     "do": "Do the project. Your child takes 8 sheets from the 'clean on one side' pile and cuts them to the same size. They fold each sheet in half with the printed side inside, so both outer faces are blank. Stack them with all the folds on the right. Make a cover from a cereal box or sweet box, a little bigger than the pages, and glue a handmade sheet onto its front. A grown-up makes 3 holes through the cover and pages, 1.5 cm in from the left edge, with a thick needle or a nail. Your child sews through the holes with thick thread, in and out, and ties it. On the first page they write one real action for each of the 5Rs. Ask: 'Which Rs did we use to make this notebook?' (Reuse for the pages, repurpose for the box, recycle for the handmade cover.)"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "ref": "ws3",
+     "do": "Do Worksheet ws3 (challenge). It asks harder questions about the 5Rs, bags and trees. Your child can answer the written items aloud while you write them down. There is no single right answer for the last section, so praise reasons that use what you tested, such as 'because wet paper is weak' or 'because fibres get shorter'."
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time, and let your child answer without help. Tick the ones answered well. For any missed answer, repeat the test that shows it: tear a newspaper both ways, wet a strip, put a dot of ink on tissue and on the starched paper. Then ask the question again."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 8,
+     "do": "Your child is the teacher now. You, a grandparent or a sibling are the student. Using the things they made (a handmade sheet, the wet strip, the ink dots, the leaf, the notebook), they teach in 5 minutes: what paper is made of, how to make it, why it holds together and why water undoes it, and the 5Rs in order. The student asks one 'why' question that your child must answer."
+    }
+   ],
+   "need": [
+    "8 sheets of paper clean on one side",
+    "scissors and a ruler",
+    "a cereal box or sweet box",
+    "one handmade sheet",
+    "glue",
+    "a thick needle or nail (grown-up)",
+    "thick thread or wool",
+    "Worksheet ws3",
+    "the things made this week"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "How paper is made, and why it holds",
+   "day": 4,
+   "sections": [
+    [
+     "A. What paper is",
+     [
+      {
+       "t": "mcq",
+       "p": "Meenakshi tears a strip of newspaper and looks at the edge with a magnifying glass. What does she see?",
+       "opts": [
+        "tiny hairs, called fibres",
+        "tiny drops of glue",
+        "tiny grains of sand"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Paper is a flat mat of plant ____.",
+       "a": [
+        "fibres",
+        "fibre",
+        "fibers"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The tough material that plant fibres are made of is called ____.",
+       "a": [
+        "cellulose"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Each paper fibre was once part of a living plant. What was it?",
+       "opts": [
+        "one plant cell",
+        "one whole leaf",
+        "one seed"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Making paper",
+     [
+      {
+       "t": "match",
+       "p": "Match each step of making paper to why it is done.",
+       "pairs": [
+        [
+         "tear the newspaper into small pieces",
+         "so water reaches every part"
+        ],
+        [
+         "soak it overnight",
+         "so the fibres loosen"
+        ],
+        [
+         "mash it into pulp",
+         "to pull the fibres apart"
+        ],
+        [
+         "press it with a rolling pin",
+         "to squeeze out water and push the fibres close"
+        ],
+        [
+         "let it dry",
+         "so the fibres bond to each other"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Arjun dips a strip of newspaper in water for a minute, then pulls it. What happens?",
+       "opts": [
+        "It tears with a gentle pull.",
+        "It is stronger than a dry strip.",
+        "It stretches like rubber."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Kavya puts a dot of ink on tissue paper and on a notebook page. Why does the ink spread only on the tissue?",
+       "opts": [
+        "The notebook page is sized: starch fills the gaps between its fibres.",
+        "Tissue paper is made of plastic.",
+        "The ink on the notebook page dried before it could move."
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Sort these changes: can they be undone, or not?",
+       "items": [
+        "paper soaked back into pulp",
+        "a clay diya baked in a kiln",
+        "a wet sheet of paper dried again",
+        "paper burnt to ash",
+        "an idli steamed"
+       ],
+       "cats": [
+        "can be undone",
+        "cannot be undone"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Before paper was common, what did people in Tamil Nadu and Kerala write on?",
+       "opts": [
+        "dried palm leaves",
+        "sheets of glass",
+        "plastic sheets"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Your handmade paper tears raggedly in every direction. A newspaper tears straight one way. Why?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Why do we press the wet sheet with a rolling pin? What would happen if we did not?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Wood, wasps and fibres",
+   "day": 6,
+   "sections": [
+    [
+     "A. Wood and sunlight",
+     [
+      {
+       "t": "mcq",
+       "p": "Farhan leaves a newspaper and a notebook page in the sun for a week. Only the newspaper turns yellow. Why?",
+       "opts": [
+        "The newspaper still has lignin from the wood, and sunlight turns it yellow.",
+        "The newspaper ink melts in the sun.",
+        "The notebook page is thicker."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The substance that keeps wood stiff, and turns yellow in sunlight, is called ____.",
+       "a": [
+        "lignin"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "In a paper mill, wet pulp sprays onto a fast-moving belt of fine ____.",
+       "a": [
+        "mesh",
+        "wire mesh",
+        "wire"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Farhan cuts two strips from a newspaper, one in each direction, and holds each one flat out. Which strip droops less?",
+       "opts": [
+        "the strip cut along the direction that tears straight",
+        "the strip cut across it",
+        "both droop the same"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Fibres",
+     [
+      {
+       "t": "mcq",
+       "p": "A paper wasp makes her nest from what?",
+       "opts": [
+        "wood fibres chewed with her spit",
+        "mud from a puddle",
+        "wax from her own body"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which of these is the longest fibre?",
+       "opts": [
+        "a cotton fibre",
+        "a fibre from a newspaper",
+        "a fibre from an egg tray"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each paper material to where it comes from.",
+       "pairs": [
+        [
+         "bagasse",
+         "sugarcane stalks after the juice is squeezed out"
+        ],
+        [
+         "cotton rags",
+         "old cotton cloth"
+        ],
+        [
+         "wood pulp",
+         "eucalyptus or bamboo"
+        ],
+        [
+         "recycled pulp",
+         "old newspapers and boxes"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Paper fibres can be recycled only about 5 to 7 times. Why?",
+       "opts": [
+        "Each time, the fibres get shorter, until they are too short to hold together.",
+        "The ink gets heavier each time.",
+        "The paper turns into plastic."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Toilet paper falls apart in water. Kitchen towel does not. Why would the makers want each one to behave that way?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "In 1719 Réaumur saw that wasps make paper from wood. People did not do it on a big scale for over 120 years. Give one reason why that might be.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "The 5Rs and hard choices",
+   "day": 8,
+   "sections": [
+    [
+     "A. Which R?",
+     [
+      {
+       "t": "sort",
+       "p": "Sort each action into the R it shows.",
+       "items": [
+        "saying no to a free paper flyer",
+        "writing on both sides of a page",
+        "using a gift bag again for another gift",
+        "folding an old calendar page into an envelope",
+        "selling old newspapers to the kabadiwala"
+       ],
+       "cats": [
+        "refuse",
+        "reduce",
+        "reuse",
+        "repurpose",
+        "recycle"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which R saves the most water and energy?",
+       "opts": [
+        "Refuse, because the thing is never made",
+        "Recycle, because the thing is made again",
+        "They all save the same"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Using an old thing for a new job, like a jam jar as a pen stand, is called ____.",
+       "a": [
+        "repurpose",
+        "repurposing"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which of these papers can NOT go for recycling?",
+       "opts": [
+        "a tissue used to wipe oily hands",
+        "an old newspaper",
+        "a dry cardboard box"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Numbers and puzzles",
+     [
+      {
+       "t": "fill",
+       "p": "Lakshmi's family throws away 400 grams of paper each week. How many kilograms is that in a year of 52 weeks? (Round to the nearest kilogram.)",
+       "a": [
+        "21",
+        "21 kg",
+        "21 kilograms"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A paper cup has a thin layer of plastic inside. Why is it hard to recycle?",
+       "opts": [
+        "The plastic layer has to be separated from the paper fibres first.",
+        "Paper cups are too small to recycle.",
+        "Tea stains stop the fibres bonding."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A 2011 study found that a paper bag must be used about 3 times to be as good for the climate as a thin plastic bag used once. What does this tell us?",
+       "opts": [
+        "Swapping plastic for paper is not enough. Using any bag many times helps most.",
+        "Paper bags are always the best choice.",
+        "Plastic bags never cause harm."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Your view",
+     [
+      {
+       "t": "write",
+       "p": "Your school wants to stop using paper cups. Write two things it could do instead, and say which R each one is.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Is cutting trees for paper always bad? Think about trees grown on farms for paper mills, and trees in an old forest. Give your view and your reasons.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Paper can be made back into pulp, but baked clay can never be made back into soft clay. What is different about the two changes?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Which way does paper tear?",
+   "day": 1,
+   "question": "Does a newspaper tear the same way in every direction?",
+   "need": [
+    "a full page of old newspaper",
+    "a notebook page",
+    "scissors and a ruler"
+   ],
+   "steps": [
+    "Hold the newspaper page upright. Start a tear at the top edge and tear slowly down to the bottom.",
+    "Turn the page sideways and tear it slowly from one side to the other.",
+    "Lay the two torn edges side by side and compare them.",
+    "Cut two strips 2 cm wide and 15 cm long, one in each direction.",
+    "Hold each strip by one end, flat out over the table edge, and see which droops more.",
+    "Do the same with a notebook page."
+   ],
+   "predict": "Ask your child to guess first: 'If you tear a newspaper top to bottom and then side to side, will both tears look the same? Why do you think so?'",
+   "observe": "One way, the newspaper tears in a fairly straight line. The other way, the tear wanders and zigzags. The strip cut along the straight-tearing direction droops less. A notebook page shows the same thing, often less strongly.",
+   "why": "In a paper machine, wet pulp flows onto a belt of mesh that moves very fast. Most fibres are pulled round to lie the same way, the way the belt moves. This direction is called the grain. A tear along the grain runs between the fibres, so it is easy and straight. A tear across the grain has to break fibres, so it wanders. A strip cut along the grain has its fibres lying along its length, so it is stiffer. Handmade paper has no grain, because its fibres settle in every direction.",
+   "safety": "Use round-tipped scissors.",
+   "time": "12 min"
+  },
+  {
+   "id": "e2",
+   "title": "The sunlight test",
+   "day": 1,
+   "question": "Does sunlight change newspaper and notebook paper in the same way?",
+   "need": [
+    "half a sheet of newspaper",
+    "half a notebook page, plain and white",
+    "2 pieces of cardboard",
+    "tape",
+    "a place with direct sun for a few hours a day"
+   ],
+   "steps": [
+    "Tape the newspaper and the notebook page side by side where direct sun falls, such as a balcony ledge or a sunny windowsill.",
+    "Cover the left half of each with cardboard, and tape the cardboard down at its edges.",
+    "Leave them for 5 sunny days. In cloudy weather, leave them for 2 weeks.",
+    "Lift the cardboard and compare the covered half with the open half of each paper."
+   ],
+   "predict": "Ask: 'In five days, will the open half look different from the covered half? Which paper will change more? Why do you think so?'",
+   "observe": "The open half of the newspaper turns yellower and darker than the covered half, with a clear line between them. The notebook page changes very little.",
+   "why": "Wood contains lignin, a substance that glues its fibres together and keeps a tree stiff. Newspaper is made mostly from wood that has been ground up whole, or from recycled newspaper, so it still has lignin in it. Sunlight changes lignin and turns it yellow. Notebook paper is made from wood cooked with chemicals that remove the lignin, and then bleached, so it stays white for much longer.",
+   "safety": "If the papers are outside, weigh down the edges so they cannot blow away.",
+   "time": "6 min to set up + 8 min to read on Day 5"
+  },
+  {
+   "id": "e3",
+   "title": "Make paper by hand",
+   "day": 2,
+   "question": "Can we make new paper from old newspaper without any glue?",
+   "need": [
+    "4 double sheets of old newspaper",
+    "a bucket of water",
+    "a mixie (grown-up only) or a potato masher",
+    "a wide tub or basin",
+    "a frame with mosquito net or a thin dupatta stretched over it, or a flat steel sieve",
+    "6 or more old cotton cloths",
+    "a rolling pin"
+   ],
+   "steps": [
+    "Tear the newspaper into pieces the size of a postage stamp. Soak them in a bucket of water overnight.",
+    "A grown-up blends the soaked paper with plenty of water in a mixie, in batches of about 20 seconds, until it looks like thin porridge. Or mash it by hand for 10 minutes.",
+    "Pour the pulp into a wide tub half full of water and stir.",
+    "Slide the frame under the pulp, hold it flat and lift it straight up, so a thin layer of pulp stays on the net.",
+    "Turn the frame over onto a cotton cloth and press the back of the net so the sheet comes off.",
+    "Cover the sheet with a second cloth and roll a rolling pin over it hard, five times.",
+    "Make 6 sheets. Dry them on their cloths in a shady, airy place for 1 to 2 days, then peel them off."
+   ],
+   "predict": "Ask: 'What will the soaked paper feel like tomorrow? Will our new paper be smoother or rougher than newspaper? Will it hold together with no glue?'",
+   "observe": "Overnight the paper turns soft and floppy. The dried sheets are thicker, rougher and greyer than newspaper, with flecks of print. They hold together, but tear more easily than a notebook page, and they tear raggedly in every direction.",
+   "why": "Soaking lets water get between the fibres and loosen them. Mashing pulls them apart into pulp. On the mesh, the water drains away and the fibres settle criss-cross on top of each other. Pressing pushes them close together. As the sheet dries, the fibres form millions of weak links where they touch, called hydrogen bonds, and these hold the sheet together. Our fibres have been pulped at least twice, so they are short and the paper is weaker than notebook paper.",
+   "safety": "Only a grown-up runs the mixie, in small batches with plenty of water. Wash the jar well afterwards. Wipe up spilt water so nobody slips.",
+   "time": "10 min to tear and soak + 28 min to make sheets + 1 to 2 days to dry"
+  },
+  {
+   "id": "e4",
+   "title": "Does water undo paper?",
+   "day": 3,
+   "question": "What does water do to the fibres in paper?",
+   "need": [
+    "2 strips of newspaper, each 2 cm by 20 cm",
+    "a bowl of water",
+    "a small piece of handmade paper",
+    "a square of toilet paper and a square of kitchen towel, if you have them",
+    "a phone camera, if you have one"
+   ],
+   "steps": [
+    "Hold a dry strip by both ends and pull it straight apart, as hard as you can.",
+    "Dip the second strip in water for 1 minute. Pull it gently the same way.",
+    "Look at the torn ends of the wet strip, with a phone camera zoomed in if you can.",
+    "Soak the handmade paper for 5 minutes, then rub it between finger and thumb.",
+    "If you have them, swish the toilet paper and the kitchen towel in water for 10 seconds each, and lift them out."
+   ],
+   "predict": "Ask: 'Which will be harder to pull apart, the dry strip or the wet strip? Why do you think so?'",
+   "observe": "The dry strip is very hard to pull apart. The wet strip comes apart with a gentle pull, and its torn ends are fuzzy, with whole fibres pulled out. The handmade paper rubs back into pulp. Toilet paper falls apart in water, but kitchen towel stays in one piece.",
+   "why": "Paper is held together by millions of weak links, called hydrogen bonds, between fibres that touch. Water gets in between the fibres and breaks these links, so the fibres slide apart instead of snapping. Dry the paper again and new links form. This is why making paper can be undone. Toilet paper is made to fall apart, so it does not block pipes. Kitchen towel has a resin added that holds its fibres together even when wet.",
+   "safety": "",
+   "time": "14 min"
+  },
+  {
+   "id": "e5",
+   "title": "The ink-spread test",
+   "day": 3,
+   "question": "Why does ink spread on some papers and not on others, and can starch stop it?",
+   "need": [
+    "one dry handmade sheet",
+    "cooled rice water, or 1 teaspoon cornflour cooked in 1 cup of water until clear, then cooled",
+    "a clean paintbrush or cotton ball",
+    "tissue, newspaper and a notebook page",
+    "one water-based sketch pen",
+    "a ruler with millimetres"
+   ],
+   "steps": [
+    "Brush the starch thinly over half of the handmade sheet. Mark that half 'S' in pencil. Let it dry flat overnight.",
+    "Next day, lay out the five papers: tissue, newspaper, notebook page, plain handmade and starched handmade.",
+    "On each paper, hold the tip of the same sketch pen still while you count slowly to three.",
+    "Wait 1 minute. Measure the width of each dot in millimetres.",
+    "Write the results in a table, from the widest dot to the smallest."
+   ],
+   "predict": "Ask: 'On which paper will a dot of ink spread most, and on which least? Why? What will the starch do?'",
+   "observe": "The ink spreads into a wide, fuzzy blot on tissue and on the plain handmade paper. It spreads a little on newspaper. On the notebook page and the starched half, the dot stays small and sharp. If the starched half looks no different, brush on a second thin coat, let it dry and test again.",
+   "why": "Paper is full of tiny gaps between its fibres. Watery ink creeps along these gaps, the way water creeps up a cloth dipped in a glass. Starch fills the gaps and coats the fibres, so the ink stays where the pen put it. This is called sizing. Writing paper is sized in the factory. Tissue is not sized, because its job is to soak things up. Makers of handmade paper in India, Persia and China often sized their sheets with starch.",
+   "safety": "A grown-up cooks the cornflour paste and lets it cool before your child uses it.",
+   "time": "6 min on Day 3 + 14 min on Day 4"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Write like a palm-leaf scribe",
+   "day": 4,
+   "mins": 14,
+   "need": [
+    "a strip of banana leaf about 20 cm long, or a thick leaf from a potted plant",
+    "a toothpick",
+    "a pinch of soot from a lamp, charcoal powder, or the black from a soft pencil scraped onto paper",
+    "3 drops of coconut oil or cooking oil",
+    "tissues",
+    "a folded towel"
+   ],
+   "steps": [
+    "Wipe the leaf clean and lay it on the folded towel.",
+    "Scratch your name and one short line into the leaf with the toothpick. Press hard enough to scratch the shiny surface, but do not cut through.",
+    "Mix the soot or pencil black with the oil on a small plate.",
+    "Rub the black over the whole leaf with a tissue.",
+    "Wipe the leaf with a clean tissue. The black stays only in the scratches. If it does not, scratch the letters a little deeper and try again."
+   ],
+   "outcome": "A leaf with your name written in black, made the way palm-leaf books were written in South India for hundreds of years."
+  },
+  {
+   "id": "a2",
+   "title": "The paper-waste box",
+   "day": 1,
+   "mins": 14,
+   "need": [
+    "an empty cardboard box",
+    "a marker",
+    "a kitchen scale"
+   ],
+   "steps": [
+    "Label the box 'Paper we threw away' and put it beside the dustbin.",
+    "For 6 days, the whole family puts clean waste paper in the box instead of the bin. Used tissues and oily paper still go in the bin, with a tally mark on the box lid for each one.",
+    "On Day 7, weigh all the paper in the box.",
+    "Work out about how much that would be in a year: multiply the weight by 52.",
+    "Sort the paper into four piles: could have been refused, clean on one side, can be recycled, cannot be recycled.",
+    "Keep the 'clean on one side' pile for the notebook project. Give the rest to the kabadiwala or put it in the dry-waste bin."
+   ],
+   "outcome": "The real weight of your family's paper waste in a week, an estimate for a year, and a pile of reusable paper for the notebook."
+  },
+  {
+   "id": "a3",
+   "title": "A pulp bowl from an egg tray",
+   "day": 7,
+   "mins": 13,
+   "need": [
+    "1 paper egg tray, torn up and soaked overnight",
+    "a small steel bowl",
+    "a thin plastic bag",
+    "a dry cloth"
+   ],
+   "steps": [
+    "Squeeze the water out of the soaked egg tray pieces and mash them into pulp with your fingers.",
+    "Turn the steel bowl upside down and cover it with the plastic bag, so the pulp will not stick.",
+    "Press the pulp over the bowl in a layer about 1 cm thick.",
+    "Press it all over with a dry cloth to squeeze out water.",
+    "Dry it in a sunny, airy place for 3 to 5 days, then lift it off the bowl and pull out the plastic."
+   ],
+   "outcome": "A small bowl for pencils or hair clips, made from paper that has now been recycled at least twice."
+  },
+  {
+   "id": "a4",
+   "title": "Put the paper mill in order",
+   "day": 5,
+   "mins": 8,
+   "need": [
+    "9 small slips of paper",
+    "a pencil"
+   ],
+   "steps": [
+    "Write one step on each of 8 slips: 'trees are grown on farms', 'trees are cut and the bark is stripped', 'logs are cut into chips', 'chips are cooked with chemicals to free the fibres', 'the pulp is washed and bleached', 'the pulp sprays onto a moving mesh belt', 'rollers press out water and hot rollers dry the sheet', 'the paper is wound into huge rolls and cut'.",
+    "Write on the ninth slip: 'old paper is soaked, pulped and the ink is washed out'.",
+    "Shuffle the 8 slips. Your child lays them in order from tree to roll.",
+    "Then your child places the ninth slip where recycled paper joins the line.",
+    "Your child points to each step we also did at home."
+   ],
+   "outcome": "The steps of making paper in a mill, in order, and where recycled paper joins them."
+  }
+ ],
+ "project": {
+  "title": "A notebook from reused paper",
+  "days": [
+   7,
+   8
+  ],
+  "steps": [
+   "On Day 7, keep the 'clean on one side' pile from the paper-waste box.",
+   "Choose 8 sheets and cut them to the same size.",
+   "Fold each sheet in half with the printed side inside, so both outer faces are blank.",
+   "Stack the folded sheets with all the folds on the right.",
+   "Cut a cover from a cereal box or sweet box, a little bigger than the pages, and glue a handmade sheet onto the front.",
+   "A grown-up makes 3 holes through the cover and pages, 1.5 cm in from the left edge, with a thick needle or a nail.",
+   "Sew through the holes with thick thread, in and out, and tie the ends.",
+   "On the first page, write one real action your family will take for each of the 5Rs."
+  ],
+  "outcome": "A notebook made only from paper the family had thrown away, with your child's own 5R plan on its first page."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Tree to Page and Back",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "one counter per player (a button, bead or seed)"
+  ],
+  "rules": [
+   "Each player is a paper fibre. Everyone starts at START, in a tree on a farm.",
+   "Take turns to roll the die and move your counter.",
+   "Read the square aloud and do what it says. Before you move, say why. For example: 'Back 3, because oily paper cannot be recycled.'",
+   "The first player to reach HOME wins.",
+   "Playing alone? Play against the die: roll for a pretend second player and try to reach HOME first."
+  ],
+  "squares": [
+   "START: you are a fibre in a eucalyptus tree on a farm",
+   "The log is cut into chips: forward 1",
+   "The lignin is left in your pulp, so your paper will turn yellow in the sun: back 1",
+   "You are cooked and washed, and the lignin is gone: forward 2",
+   "You spray onto the moving mesh and line up with the grain: forward 1",
+   "Hot rollers dry you into paper: forward 2",
+   "You become a notebook page, but someone writes on only one side: back 2",
+   "Someone writes on both sides of you. That is Reduce: forward 2",
+   "Rain soaks the school bag. Your hydrogen bonds break: miss a turn",
+   "A paper wasp scrapes fibres from the window frame. Rest here one turn and watch her",
+   "You are thrown in a bin with wet food waste and get oily: back 3",
+   "You are kept dry and sold to the kabadiwala: forward 3",
+   "You are soaked and pulped at a recycling mill: forward 1",
+   "You have been recycled 6 times and your fibres are very short: back 2",
+   "Long cotton fibres are mixed in with you, and the paper is strong again: forward 2",
+   "Someone says no to a paper cup lined with plastic. That is Refuse: forward 2",
+   "You are folded into an envelope from an old calendar. That is Repurpose: forward 1",
+   "You are pressed into an egg tray: forward 1",
+   "Starch is brushed on you, and ink no longer spreads: forward 1",
+   "HOME: you are a fresh sheet of paper again"
+  ]
+ },
+ "big": [
+  "Paper wasps were making paper long before any person did. Did people invent paper, or find it again?",
+  "If an old book is pulped and made into a new book, is it the same paper or new paper?",
+  "A eucalyptus grown on a farm for a paper mill, and an old tree in a forest: is cutting each one the same?",
+  "Why do we say one person invented paper, or the paper machine, when many people made it work?",
+  "If every book and notebook were on screens instead of paper, what would we gain, and what would we lose?"
+ ],
+ "challenge": [
+  {
+   "q": "'Cai Lun invented paper in the year 105.'",
+   "hint": "Chinese records say Cai Lun showed the emperor a way to make paper from bark, rags and old fishing nets in 105. But archaeologists have since found pieces of paper in China that are older than that. Most historians now say he improved paper and made it cheap and common, rather than inventing it. Ask: if older paper exists, why did the story about Cai Lun last so long?"
+  },
+  {
+   "q": "'Paper bags are always better for the planet than plastic bags.'",
+   "hint": "A paper bag rots, and a plastic bag can last for years in a drain or a cow's stomach. But making a paper bag uses more energy and water, and a 2011 study for the UK government found it had to be used about 3 times to be as good for the climate as a thin plastic bag used once. Ask: what matters more, what a bag is made of, or how many times it is used?"
+  },
+  {
+   "q": "'Recycled paper can be recycled for ever.'",
+   "hint": "Every time paper is pulped, its fibres get a little shorter and more broken. After about 5 to 7 times they are too short to bond into a sheet, so mills add fresh fibres. The worn-out fibres can still rot into compost. Ask: if recycling has a limit, which of the 5Rs should come first?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A kagzi family making paper by hand in Sanganer, near Jaipur",
+   "view": "They make paper from old cotton rags, which have long fibres, so the sheets are thick, strong and last for a long time. Each sheet is lifted from a tub by hand. Ask: handmade paper costs more than notebook paper. What are you paying for?"
+  },
+  {
+   "who": "A kabadiwala who buys old newspapers",
+   "view": "He buys newspapers and cardboard by the kilogram and sells them on to paper mills. Paper that is wet, oily or mixed with food waste is worth nothing to him. Ask: what can your family do so that your waste paper reaches him in good shape?"
+  },
+  {
+   "who": "A farmer who grows eucalyptus for a paper mill",
+   "view": "In many Indian states, farmers grow eucalyptus, subabul or casuarina trees on their land and sell them to paper mills after a few years. This gives them money, and the mill does not cut a forest. But a field of one kind of tree in rows has far fewer birds, insects and plants than a forest. Ask: is a paper farm a forest?"
+  },
+  {
+   "who": "A blind reader",
+   "view": "Braille is writing made of raised dots that blind people read with their fingertips. Braille paper must be thick and strong, so the dots keep their shape under many fingers. Ask: which paper from your hunt on Day 1 would make the best Braille paper, and why?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Cai Lun (died 121), an official at the court of the Han emperor, China",
+   "idea": "In the year 105, Cai Lun showed the emperor a way to make paper from the inner bark of trees, hemp, old rags and worn-out fishing nets, beaten into pulp, spread on a screen and dried. For nearly 2,000 years, histories called him the inventor of paper.",
+   "then": "His paper was praised at court and the method spread across China. Over many centuries, paper-making travelled west and south, and reached India far later.",
+   "now": "Archaeologists have found pieces of paper in north-western China that are older than Cai Lun, some by more than 100 years. So most historians now say he did not invent paper but improved it and made it practical, using cheap waste materials.",
+   "status": "accepted",
+   "ask": "Old books said Cai Lun invented paper. Then older paper was dug up. What kind of evidence changed the story? Should we still remember him? Why?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "René-Antoine Ferchault de Réaumur (1683–1757), France; then Friedrich Gottlob Keller, Germany, and Charles Fenerty, Canada, in the 1840s",
+   "idea": "In 1719 Réaumur, a French scientist, told the French Academy of Sciences that wasps make their paper nests from wood fibres. He suggested that people could make paper from wood too. At the time, paper in Europe was made from old cotton and linen rags.",
+   "then": "There were never enough rags, but for more than 120 years nobody made paper from wood on a large scale. Then, in the 1840s, two men far apart did it. Keller, a weaver in Germany, ground wood into pulp and patented the method in 1845. Fenerty, in Nova Scotia, showed a sheet of paper made from spruce wood in 1844, but never patented it.",
+   "now": "Historians agree that both men made wood-pulp paper at about the same time. Germany remembers Keller, and Canada remembers Fenerty. Neither grew rich from it, while the mills that used wood pulp did. Today most of the world's paper is made from wood.",
+   "status": "debated",
+   "ask": "Réaumur learned from wasps. Keller and Fenerty found the same thing at the same time. Who do you think should get the credit for paper from wood, and why?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Nicolas-Louis Robert (1761–1828), France, and the Fourdrinier brothers, England",
+   "idea": "Robert worked at a paper mill in France, where every sheet was lifted from a tub by hand, one at a time. In 1798 he built a machine that made paper in one long sheet on a moving loop of wire mesh, and he patented it in 1799.",
+   "then": "Robert had no money to build the machine at full size. His idea was taken to England, where the brothers Henry and Sealy Fourdrinier paid the engineer Bryan Donkin to improve it.",
+   "now": "Most paper is still made on machines that work the same way, and they are called Fourdrinier machines, after the men who paid for them. Robert earned little from his invention, and few people know his name.",
+   "status": "accepted",
+   "ask": "The machine is named after the brothers who paid for it, not the man who thought of it. Is that fair? Who else helped make it work?",
+   "day": 5
+  },
+  {
+   "id": "v4",
+   "who": "Today's debate: paper bag or plastic bag? (for example, the 2011 study of shopping bags for the Environment Agency of England and Wales)",
+   "idea": "The study added up the gases that heat the planet from making, carrying and throwing away each kind of shopping bag. It found that a paper bag had to be used about 3 times, and a cotton bag more than 100 times, to be as good for the climate as a thin plastic bag used once.",
+   "then": "Many people, and many shops in India, switched from plastic to paper bags, believing paper is always better.",
+   "now": "Scientists agree that thin plastic bags make far more lasting litter. They harm animals and block drains, and paper rots. They also agree that the bag used most times is the best bag. People still argue about which matters more: the climate cost of making a bag, or the litter it leaves.",
+   "status": "debated",
+   "ask": "If you had to choose one bag for your family's shopping, which would you choose, and how would you make sure it is used many times?",
+   "day": 7
+  }
+ ],
+ "story": {
+  "title": "The Wasp on the Fourth Floor",
+  "text": [
+   "I am a paper wasp. This spring I built my nest under the sunshade of a window, on the fourth floor of a block of flats in Bengaluru. I chose that place because the rain could not reach it, and the morning sun warmed it early.",
+   "A nest begins with a stalk. I flew to the terrace, where an old wooden door had dried grey in the sun. I scraped a strand of fibre from it with my jaws and chewed it with my spit until it was a soft, wet ball. I pressed it to the concrete and pulled it out into a stalk, thin as a hair. On the end of the stalk I built my first cell, a little six-sided cup. In it I laid my first egg.",
+   "My grubs need a home that is dry and hard for ants to reach. Mud is heavy. Paper is light, so a whole nest can hang from one thin stalk, and an ant must climb that stalk to reach it. I can guard one narrow way in.",
+   "On the other side of the glass lives a girl. Her grandmother calls her Kavya. The week my second cell was finished, Kavya was making paper too.",
+   "I watched her tear old newspaper into small pieces and drop them in a bucket. The next day the grandmother whirred the soaked paper in a loud machine until it was a grey soup. Kavya poured it into a tub, dipped a frame covered in net, and lifted up a great wet heap of it. She tipped the heap onto a cloth and left it on the windowsill, right below my nest.",
+   "It took three days to dry. It was thick and lumpy, like a pancake. When Kavya picked it up, it bent, cracked and broke in two in her hands. She stood with the halves for a long time.",
+   "The grandmother came to shut the window. She saw me. 'Kavya, there is a wasp nest here,' she said. 'We will knock it down before it gets bigger.'",
+   "'Wait,' said Kavya. She put her face close to the glass, and she watched me.",
+   "I was adding to the rim of a cell. I do it the way my mother did, and hers before her. I hold the wet ball of fibre in my jaws and set it on the edge. Then I walk slowly backwards, chewing and pressing it into a strip thinner than a leaf. I press every part of it flat. I never add a thick lump, because a thick lump stays wet inside and sags. A thin strip, pressed hard, dries stiff and holds.",
+   "Kavya watched me for a long time. Then she went away.",
+   "That evening the lights were on in the room, and I could see her at the tub. This time she lifted only a thin layer of pulp, so thin I could see the net through it. She turned it out onto a cloth, laid another cloth on top, and rolled the rolling pin over it, pressing and pressing, until water ran out of the cloth onto the floor. She did it six times.",
+   "In the morning the sheets were grey and thin, with flecks of black print in them. Kavya picked one up and bent it, and it did not break. She held it up to the window, to the light. I think she was showing me.",
+   "The grandmother looked at the nest for a while. 'Wasps sting,' she said.",
+   "'Only if we bother them,' said Kavya. So they left the window shut, and they left me alone.",
+   "Then she did something I did not expect. She took the two broken halves of her first sheet and dropped them in the bucket of water. The next day they were soft again. She squeezed them, mashed them, and made them into a new sheet. Nothing of the first one was wasted.",
+   "My daughters have hatched now. They scrape fibre from the terrace door, as I did, and build beside me. The nest has thirty cells. Kavya has a notebook. Its pages are grey and a little rough, and its cover is a sheet she made herself. On the cover she has drawn a wasp. It has six legs, which is right, and a smile, which is not. I do not mind."
+  ],
+  "epiphany": "For the parent: this is an imagined story. What the wasp does is real: paper wasps scrape fibres from dry wood, chew them with their spit and press them into thin strips that dry into paper, and their nests hang from one thin stalk. The turn is when Kavya copies the wasp: a thin layer of pulp, pressed hard, so the fibres lie close and the water leaves. Close fibres make many bonds, so the sheet holds. Her last act, pulping the broken sheet again, shows that making paper can be undone. Let your child find out why pressing works with the tests on Day 3 before you explain it.",
+  "ask": [
+   "Kavya's first sheet broke and her second one did not. What did she change?",
+   "Why does the wasp never add a thick lump to her nest?",
+   "Why did the wasp build her nest from paper and not from mud?",
+   "Why did the grandmother change her mind about the nest?",
+   "Kavya put her broken sheet back in the water. Could a potter do that with a baked pot? Why not?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Paper is a mat of fibres that hold themselves together.",
+   "more": "There is no glue in a sheet of paper. As it dries, the fibres form millions of weak links where they touch. Pressing brings more fibres into touch, so the sheet is stronger. Long fibres, like cotton, touch in more places than short ones."
+  },
+  {
+   "idea": "Water undoes paper, so paper can be made again.",
+   "more": "Water breaks the links between fibres. That is why wet paper tears and why old paper can be pulped into new paper. Baked clay is different: heat changes it for ever. But each time paper is pulped its fibres get shorter, so even paper cannot be recycled for ever."
+  },
+  {
+   "idea": "The best waste is the waste never made.",
+   "more": "The 5Rs go in order of what they save. Refusing needs nothing. Recycling still needs trucks, water and energy. Swapping plastic for paper helps less than using one bag many times. The paper-waste box shows how much a family can save at the top of the list."
+  }
+ ],
+ "unknowns": [
+  "Nobody knows exactly when and where paper was first made. Pieces older than Cai Lun keep turning up in China, and scientists still argue about whether the oldest ones are true paper.",
+  "Scientists studying the common Indian paper wasp found that when a nest's queen is taken away, one worker becomes the new queen, and the others seem to know in advance which one it will be. How they choose her is still not understood.",
+  "Engineers are still looking for paper packaging that keeps out water and grease as well as plastic does, and still rots or recycles easily. Paper cups today need a plastic lining, which makes them hard to recycle."
+ ],
+ "books": [
+  {
+   "title": "One Plastic Bag: Isatou Ceesay and the Recycling Women of the Gambia",
+   "author": "Miranda Paul (illustrated by Elizabeth Zunon)",
+   "for": "read together",
+   "age": "5–9",
+   "why": "The true story of women in the Gambia who turned plastic-bag litter into purses. Pairs with Repurpose and the paper-waste box."
+  },
+  {
+   "title": "Joseph Had a Little Overcoat",
+   "author": "Simms Taback",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A worn-out coat becomes a jacket, a vest, a scarf and smaller things again. A picture book about reusing and repurposing."
+  },
+  {
+   "title": "Paper: Paging Through History",
+   "author": "Mark Kurlansky",
+   "for": "parent reads",
+   "age": "adult; read short parts aloud",
+   "why": "The history of paper from China to today, including Cai Lun, rag paper and the move to wood pulp."
+  },
+  {
+   "title": "Survival Strategies: Cooperation and Conflict in Animal Societies",
+   "author": "Raghavendra Gadagkar",
+   "for": "parent reads",
+   "age": "adult; share the wasp parts",
+   "why": "By the Bengaluru scientist who has studied the common Indian paper wasp for decades. Explains how wasp colonies live and work together."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is paper made of?",
+   "a": "A flat mat of plant fibres. Each fibre was once one plant cell, with walls of cellulose. Most paper comes from wood, and some from cotton rags, bamboo or bagasse."
+  },
+  {
+   "q": "Say the steps of making paper by hand, and why each one is done.",
+   "a": "Tear the paper small so water reaches it all, soak it to loosen the fibres, mash it into pulp to pull the fibres apart, lift a thin layer on a mesh, press it to squeeze out water and push the fibres close, and dry it so the fibres bond."
+  },
+  {
+   "q": "There is no glue in paper. What holds it together?",
+   "a": "As paper dries, the fibres form millions of very weak links, called hydrogen bonds, where they touch. Together they hold the sheet."
+  },
+  {
+   "q": "Why does wet paper tear so easily?",
+   "a": "Water gets between the fibres and breaks the links between them, so the fibres slide apart. This is also why paper can be pulped and made again."
+  },
+  {
+   "q": "Why does a newspaper tear straight one way and zigzag the other way?",
+   "a": "In a paper machine, most fibres line up the way the mesh belt moves. This is the grain. A tear along the grain slips between the fibres. A tear across it must break them."
+  },
+  {
+   "q": "Why does newspaper turn yellow in the sun, while notebook paper stays white?",
+   "a": "Newspaper still has lignin from the wood in it, and sunlight turns lignin yellow. Notebook paper has had its lignin removed by cooking with chemicals, and is bleached."
+  },
+  {
+   "q": "What does sizing do?",
+   "a": "Starch or a similar coating fills the gaps between the fibres, so ink cannot creep along them. The ink stays where the pen put it."
+  },
+  {
+   "q": "How does a paper wasp make her nest, and why paper?",
+   "a": "She scrapes fibres from dry wood, chews them with her spit and presses them into thin strips that dry into paper. Paper is light, so the nest can hang from one thin stalk that ants find hard to get past."
+  },
+  {
+   "q": "Name the 5Rs in order. Why does refuse come first and recycle last?",
+   "a": "Refuse, reduce, reuse, repurpose, recycle. Refusing means the thing is never made, so it needs no material, water or energy. Recycling still needs trucks, water and energy, and the fibres get shorter each time."
+  }
+ ]
+}

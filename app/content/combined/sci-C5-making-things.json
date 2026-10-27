@@ -1,0 +1,1492 @@
+{
+ "key": "combined|sci|5|making-things",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "making-things",
+ "title": "Making cloth: from fibre to thread to clothes",
+ "source": "DeepKids Combined. Covers NCERT Class 5 Chapter 8, Clothes: How Things are Made (birds that weave and stitch, spinning, weaving, stitching, handloom and embroidery, reuse and recycling), plus natural and synthetic fibres, knitting and felt, natural dyes, the Jacquard loom and punched cards, and plastic microfibres. No textbook needed.",
+ "summary": "A cotton shirt is made of fibres so thin you can hardly see one, and there is no glue holding them together. Your child pulls a thread apart to find the fibres, spins cotton wool into yarn and tests why twisting makes it strong, and weaves on a cardboard loom in plain weave and twill. They write a weaving pattern as a code of holes, the idea behind the Jacquard loom and the first computers. They follow silk from a caterpillar and polyester from oil, test which cloth keeps ice from melting and which dries first, stitch a seam, dye cloth with haldi, and make a bag from an old T-shirt. They meet India's handloom weavers, the tailorbird, Ada Lovelace, and the tiny plastic threads that wash out of our clothes.",
+ "builds_on": "Class 3 made clay pots and bricks, wove a paper mat, met the baya weaver and found that arrangement and shape make things strong. Class 4 made paper by hand and found that paper is a mat of plant fibres that hold on to each other as they dry, and let go in water. This Class 5 rung follows cloth: fibres, spinning, weaving, knitting and felt, natural and synthetic fibres, stitching, dyeing, India's handlooms, weaving patterns as code, and what happens to clothes when we are done with them. Later classes study the chemistry of polymers, and how materials are made and recycled in industry.",
+ "subconcepts": [
+  "a fibre is a long, thin, bendy strand, and cloth begins as fibres",
+  "plant fibres: cotton from the seed, jute and linen from the stem, coir from the coconut husk",
+  "animal fibres: wool is hair, and silk is spun by a caterpillar",
+  "the silk moth's life cycle: egg, caterpillar, cocoon, moth",
+  "spinning: twisting fibres into yarn makes friction hold them together",
+  "weaving: warp and weft threads crossing over and under on a loom",
+  "plain weave and twill",
+  "knitting makes cloth from loops of one yarn, and felt is fibres matted together",
+  "a weaving pattern is a code: the Jacquard loom's punched cards led to computers",
+  "synthetic fibres such as nylon and polyester are made from petroleum",
+  "fibres suit their uses: soaking up water, drying fast, trapping air to keep warm",
+  "stitching joins cloth: running stitch and backstitch, and the tailorbird",
+  "natural dyes and mordants: haldi, indigo and alum",
+  "India's handloom and embroidery traditions",
+  "reuse and recycling of cloth, and plastic microfibres from washing"
+ ],
+ "goals": [
+  "By the end your child can explain what a fibre is, name plant and animal fibres and where each comes from, and say what the living thing used that part for.",
+  "By the end your child can explain why twisted yarn is stronger than loose fibres, using the word friction.",
+  "By the end your child can weave plain weave and twill on a cardboard loom and name the warp and the weft.",
+  "By the end your child can write a weaving pattern as a code of 1s and 0s and explain how punched cards control a Jacquard loom.",
+  "By the end your child can compare cotton, wool and polyester in fair tests and choose the right cloth for a job, giving a reason.",
+  "By the end your child can sew a running stitch and a backstitch, and explain two ways to reuse old cloth and why microfibres are a problem."
+ ],
+ "words": [
+  [
+   "fibre",
+   "a long, thin, bendy strand, like one strand of cotton or one hair of wool"
+  ],
+  [
+   "yarn",
+   "a long thread made by twisting fibres together"
+  ],
+  [
+   "spinning",
+   "pulling out fibres and twisting them into yarn"
+  ],
+  [
+   "friction",
+   "the grip between two surfaces that rub, which stops them sliding easily"
+  ],
+  [
+   "loom",
+   "a frame that holds threads tight so they can be woven"
+  ],
+  [
+   "warp",
+   "the threads stretched tight along the loom, before weaving starts"
+  ],
+  [
+   "weft",
+   "the thread that goes across, over and under the warp"
+  ],
+  [
+   "twill",
+   "a weave that goes over two and under two, shifting one step each row, which makes diagonal lines, as in jeans"
+  ],
+  [
+   "knitting",
+   "making cloth from loops of one long yarn, as in a T-shirt or sweater"
+  ],
+  [
+   "synthetic fibre",
+   "a fibre made in a factory from chemicals, mostly from petroleum, such as nylon and polyester"
+  ],
+  [
+   "insulator",
+   "a material that slows heat moving through it"
+  ],
+  [
+   "mordant",
+   "a substance, such as alum, that helps a dye stick to cloth"
+  ],
+  [
+   "microfibre",
+   "a tiny piece of fibre, too small to see easily, that breaks off cloth"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "What is cloth made of?",
+   "goal": "Recall Class 3, then find the fibres inside thread and cloth.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember paper",
+     "mins": 6,
+     "do": "Ask: 'In Class 4 you made paper from old newspaper. What is a sheet of paper made of, and what holds it together?' Good answer: a flat mat of tiny plant fibres, each one a plant cell, which stick to each other as the paper dries, with no glue. Ask: 'What happened when the paper got wet?' Good answer: water made the fibres let go, so wet paper tore easily. Ask: 'In Class 3, how did the paper strips of your woven mat hold together?' Good answer: each strip went over and under the others, so they locked in place. Say: 'This week we make cloth. Cloth is also made of fibres with no glue. But a wet cotton towel does not fall apart like wet paper. We will find out why.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Card That Fell",
+     "mins": 12,
+     "do": "Read the story aloud. Do not explain the puzzle. Ask: 'How did Meenakshi know which way round the fallen cards went?' Write your child's answer on a slip and keep it for Day 4, when they will make their own punched pattern."
+    },
+    {
+     "kind": "do",
+     "title": "Pull a thread apart",
+     "mins": 15,
+     "do": "Cut 10 cm of ordinary cotton sewing thread. Ask your child to roll one end between finger and thumb the opposite way to its twist, until it opens. Ask: 'What is a thread made of?' Good answer: many thinner threads, and inside those, very fine hairs. Say: 'Each fine hair is a fibre. A fibre is a long, thin, bendy strand.' Now look at 4 things with the zoom on a phone camera or a magnifying glass: a cotton handkerchief, a T-shirt, a torn edge of newspaper and a woollen sweater or sock. Your child draws each one in a box. Ask: 'Which have threads crossing over and under? Which have loops? Which are just fibres jumbled together?' Good answers: the handkerchief is woven (crossing threads). The T-shirt and sweater are knitted (loops). The newspaper edge shows jumbled fibres, because paper is a mat of plant fibres pressed together."
+    },
+    {
+     "kind": "talk",
+     "title": "Cotton is the hair on a seed",
+     "mins": 12,
+     "do": "Show a piece of cotton wool. Say: 'Cotton grows on a plant. When a cotton fruit, called a boll, splits open, the seeds inside are covered in fluff. Each fibre of the fluff is one long cell that grew out of the seed's skin.' Ask: 'Why would a plant grow hair on its seeds? What problem might that solve for the plant?' Wait for ideas. Say: 'Scientists think the fluff may help the seeds float on wind or water to new places, or hold water when they start to grow. Nobody is fully sure.' Then make a two-column table in the notebook, 'From plants' and 'From animals', and fill it together: cotton (hair on the seed), jute and linen (long fibres from the stem; jute grows mostly in West Bengal and Assam, linen comes from flax), coir (fibres from the coconut husk, made into doormats and ropes in Kerala), wool (hair of sheep, goats or camels), silk (spun by a caterpillar). Say: 'Every one of these fibres was part of a living thing first, doing a job for it.'"
+    }
+   ],
+   "need": [
+    "cotton sewing thread",
+    "scissors",
+    "a phone with a camera or a magnifying glass",
+    "a cotton handkerchief, a T-shirt, a woollen sock or sweater, a sheet of newspaper",
+    "cotton wool",
+    "notebook and pencil"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Spinning: why twisting makes yarn strong",
+   "goal": "Test loose and twisted cotton, and spin yarn on a home-made spindle.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Loose or twisted?",
+     "mins": 15,
+     "do": "Do Experiment e1. Ask first: 'Two strands have the same amount of cotton. One is loose, one is twisted. Which will hold more coins? Why do you think so?' Wait for a guess and a reason. Then test. Count the coins each holds before it breaks. After the test ask: 'The cotton was the same. What was different?' Good answer: only the twist. Say: 'Twisting squeezes the fibres against each other. Friction is the grip between surfaces that rub. Squeezed fibres have more friction, so they cannot slide apart.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "act",
+     "title": "Make a spindle and spin",
+     "mins": 18,
+     "do": "Do Activity a1. Your child makes a spindle from a pencil and a cardboard circle, then spins cotton wool into yarn. Tell them it will break many times at first, and that this is normal. Ask after 10 minutes: 'When did your yarn break?' Good answer: where it was too thin, or where there was not enough twist. Say: 'Spinners learn to feed the fibres evenly. It takes months to get good at it.' Wind the yarn round a piece of card and keep it for the project.",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "The charkha and khadi",
+     "mins": 12,
+     "do": "Say: 'In India, people spun cotton for thousands of years, first on hand spindles like yours and later on a spinning wheel called a charkha. About a hundred years ago, most cloth sold in India was made in British factories, often from cotton grown in India, and many Indian spinners and weavers lost their work. In the 1920s Mahatma Gandhi asked people to spin on the charkha and wear khadi. Khadi is cloth that is hand-spun and hand-woven.' Ask: 'Why would spinning your own thread be a way to protest?' Good answer: money stays with Indian spinners and weavers instead of going to faraway factories. Ask: 'Gandhi did not invent the charkha. Who do you think built and used the first ones?' (Nobody knows their names. Spinning wheels were used in India for centuries before Gandhi.)"
+    }
+   ],
+   "need": [
+    "cotton wool",
+    "2 paper clips",
+    "2 small plastic bags or paper cups",
+    "about 20 coins of the same kind",
+    "a pencil",
+    "a piece of cardboard about 6 cm across",
+    "a small lump of clay, or a coin and tape",
+    "a piece of card"
+   ],
+   "prep": [
+    {
+     "task": "Cut a cardboard circle about 6 cm across and make a hole in the middle that fits a pencil tightly",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Weaving: warp and weft",
+   "goal": "Set up a cardboard loom, weave plain weave and twill, and find twill in jeans.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Set up the loom and weave",
+     "mins": 22,
+     "do": "Do Activity a2, steps 1 to 5. Your child winds the warp and weaves 8 rows of plain weave: over one, under one, then the opposite on the next row. Teach the words: 'The threads stretched tight on the loom are the warp. The thread going across is the weft.' Ask: 'What happens if two rows go the same way?' Good answer: the weft just sits on top and slides out, because nothing locks it.",
+     "ref": "a2"
+    },
+    {
+     "kind": "do",
+     "title": "Find the twill",
+     "mins": 8,
+     "do": "Look closely at a pair of jeans or a school uniform pant and a cotton handkerchief with the phone zoom. Ask: 'What is different?' Good answer: the jeans have little diagonal lines. Say: 'That is twill. The weft goes over two and under two, and each row moves one step along. That makes a staircase, which you see as diagonal lines. Twill is thick and strong, which is why it is used for jeans.' Then weave 6 rows of twill on the loom (step 6 of Activity a2) and watch the diagonal appear.",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "Why cloth does not fall apart",
+     "mins": 5,
+     "do": "Hold up the loom. Ask: 'There is no glue. What holds the weft in place?' Good answer: the warp threads press on it from above and below, and friction stops it sliding. Say: 'Woven cloth is held by friction, like the twisted yarn. Remember paper: its fibres let go in water. Twisting and weaving hold cotton fibres in place even when they are wet, so a wet towel stays whole. Pull the cloth along a thread and it hardly stretches. Pull it from corner to corner and it stretches. Try it with the handkerchief.' Let your child try."
+    },
+    {
+     "kind": "think",
+     "title": "The oldest cotton in the world",
+     "mins": 10,
+     "do": "Share Voice v1 in your own words. Say: 'Cloth rots, so very old cloth is rare.' Ask: 'How could anyone find cotton 8,000 years old?' Let your child guess. Then tell the story of the copper bead at Mehrgarh, where the copper salts preserved the thread inside the bead. Ask the question in v1 and talk about it.",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "stiff cardboard about 12 cm by 15 cm",
+    "a ruler and scissors",
+    "wool or thick cotton thread in 2 colours",
+    "sticky tape",
+    "an ice-cream stick or a blunt large-eyed needle",
+    "a comb or fork",
+    "a pair of jeans",
+    "a cotton handkerchief"
+   ],
+   "prep": [
+    {
+     "task": "Cut the cardboard for the loom and mark 11 notches 1 cm apart along each short end",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Patterns are code",
+   "goal": "Write a weave as 1s and 0s, and learn how punched cards linked looms to computers.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Holes that weave",
+     "mins": 12,
+     "do": "Remind your child of the story: the cards in Amma's loom each had a row of holes. Say: 'Each card is one row of the weave. Where there is a hole, a hook goes through and lifts that warp thread. Where there is no hole, the thread stays down. Around 1804 Joseph Marie Jacquard, in France, made a loom that read a chain of cards like this, so one weaver could weave a detailed picture without a helper lifting threads by hand.' Then share Voice v3 in your own words: about 40 years later, Charles Babbage designed a calculating machine that would read punched cards, and Ada Lovelace wrote how it could follow a long list of instructions. Ask the question in v3.",
+     "ref": "v3"
+    },
+    {
+     "kind": "act",
+     "title": "Weave a code",
+     "mins": 16,
+     "do": "Do Activity a3. Your child draws a 6 by 6 grid on squared paper and fills it with 1s and 0s: 1 means the weft goes under (the warp shows), 0 means the weft goes over. First they write plain weave (101010, then 010101). Then they design their own small pattern, for example a diamond. They weave 6 rows of it on the loom by reading the grid, one row at a time. Ask: 'If I gave your grid to a cousin in Madurai, could they weave the same pattern without seeing yours?' Good answer: yes, the code holds the whole pattern.",
+     "ref": "a3"
+    },
+    {
+     "kind": "talk",
+     "title": "Weavers of India",
+     "mins": 9,
+     "do": "Say: 'Indian weavers stored designs long before Jacquard. In Varanasi, a pattern is tied into a frame of threads called a naksha, which lifts the right warp threads for each row.' Show these on a map of India and say one fact for each: Kanchipuram silk sarees (Tamil Nadu), heavy silk with a contrasting border. Pochampally ikat (Telangana): the threads are tied and dyed before weaving, so the pattern appears as they are woven. Kasavu (Kerala): off-white cotton with a gold border. Ilkal sarees (Karnataka). Muga silk (Assam), a golden silk from a moth reared on trees outdoors. Patola (Gujarat), where both warp and weft are tied and dyed. Ask: 'Which cloth is famous where we live, or where our family comes from?' Look in the cupboard for a saree, veshti or dupatta and read its border."
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 8,
+     "do": "Give Worksheet ws1 (core). Your child reads each question aloud and answers. Check together. For any wrong answer, go back to the thread, the loom or the coins and test it again.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "the loom from Day 3",
+    "squared paper or a notebook with squares",
+    "a pencil",
+    "a map of India (a printed one or on a phone)",
+    "a saree, veshti or dupatta from home",
+    "Worksheet ws1"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Fibres from animals: silk and wool",
+   "goal": "Follow silk from the silk moth, and test whether wool makes heat or keeps it in.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "The silk moth's problem",
+     "mins": 10,
+     "do": "Say: 'The silk moth's caterpillar, called a silkworm, eats only mulberry leaves and grows very fast. Then it has a problem. It must change into a moth, and while it changes it cannot move or run from danger. So it makes a case round itself, called a cocoon. It pushes out liquid silk from glands near its mouth, and the silk hardens in the air into one long thread. It swings its head in a figure of eight for two or three days. One cocoon is often a single thread 600 metres long or more.' Draw the life cycle with your child: egg, caterpillar, cocoon, moth. Say: 'Silk is a protein, like your hair. Wool is a protein too. Cotton, jute and linen are made of cellulose, the material of plant cell walls.' Add: 'The silk moth has lived with people for so long that the adult moth can no longer fly. It needs us, and we need it.'"
+    },
+    {
+     "kind": "think",
+     "title": "Can silk be made without killing the moth?",
+     "mins": 8,
+     "do": "Say: 'To unwind one long, smooth thread, silk makers usually boil or steam the cocoon before the moth comes out. The pupa inside dies. Some silk is made another way. In Assam, eri silk moths make a cocoon with an opening, so the moth can leave first. The broken threads are then spun like cotton. This is sometimes called ahimsa silk, which means silk without harm.' Ask: 'A silkworm senses touch, smell and its own body. Scientists still argue about whether insects feel pain the way we do. If we are not sure, what should we do?' Let your child give reasons on both sides. Many families depend on ordinary silk for their work, and ahimsa silk costs more."
+    },
+    {
+     "kind": "exp",
+     "title": "Does wool make heat?",
+     "mins": 20,
+     "do": "Do Experiment e2. Ask first: 'A sweater makes you feel warm. If we wrap an ice cube in a woollen sock, will it melt faster or slower than a bare ice cube? Why?' Many children say faster, because wool is warm. Write the guess down. Set up the three ice cubes. Check every 10 minutes, and keep checking after the lesson until the bare cube has melted.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Why wool keeps you warm",
+     "mins": 7,
+     "do": "Look at the ice cubes again. Ask: 'Which is melting slowest?' Then ask: 'So does wool make heat?' Good answer: no. If wool made heat, the wrapped ice would melt fastest. Say: 'Wool fibres are curly, so they trap lots of still air between them. Still air is a good insulator. An insulator slows heat moving through it. Your body makes the heat. The sweater keeps it in. Around the ice, the sock keeps the warmth of the room out.' Ask: 'A sheep has the same problem in the cold. How does its fleece help it?'"
+    }
+   ],
+   "need": [
+    "3 ice cubes of the same size",
+    "3 small steel plates or bowls",
+    "a woollen sock",
+    "a thin cotton handkerchief",
+    "a clock or phone timer",
+    "notebook"
+   ],
+   "prep": [
+    {
+     "task": "Freeze 3 ice cubes in the same tray",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Fibres from oil, and the right cloth for the job",
+   "goal": "Find out what synthetic fibres are, test which cloth dries first, and learn why cotton is safer near a flame.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Cloth made from oil",
+     "mins": 8,
+     "do": "Say: 'In the 1930s, chemists at the DuPont company in America, led by Wallace Carothers, made the first fully synthetic fibre, nylon. A synthetic fibre is made in a factory from chemicals. Most come from petroleum, the crude oil that petrol is made from. Polyester is made in the same way, and it is the same plastic as many drinking-water bottles.' Ask: 'Petroleum formed underground over millions of years from the remains of tiny living things in ancient seas. So where did polyester really come from?' Good answer: from living things too, very long ago."
+    },
+    {
+     "kind": "act",
+     "title": "Label hunt",
+     "mins": 10,
+     "do": "Do Activity a4. Your child reads the labels on 6 to 8 clothes and household things and fills the table. Ask: 'Which are blends?' (A blend mixes two fibres, for example 65% polyester and 35% cotton.) 'Why would anyone mix them?' Good answer: cotton feels nice and soaks up sweat, polyester is strong and dries fast.",
+     "ref": "a4"
+    },
+    {
+     "kind": "exp",
+     "title": "Which cloth dries first?",
+     "mins": 20,
+     "do": "Do Experiment e3. Ask first: 'Which cloth will dry first: cotton, wool or polyester? Why?' Set up the drop test and the drying line, then check every 10 minutes. Talk about the results: cotton soaks up a lot of water and dries slowly. Polyester holds little water and dries fast. Ask: 'Which cloth would you choose for a towel? For a cricket jersey on a hot day? For a raincoat?'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Cloth and fire",
+     "mins": 7,
+     "do": "Do not do a burning test at home. Say: 'If cotton catches fire, it burns and leaves ash. If polyester or nylon catches fire, it melts into hot, sticky drops that stick to skin and cause very bad burns.' Ask: 'What should you wear when you light diyas at Deepavali, or help at the gas stove?' Good answer: cotton, with sleeves that are not loose. Ask: 'What should you do if your clothes catch fire?' Good answer: stop, drop to the ground, cover your face and roll, and shout for a grown-up."
+    }
+   ],
+   "need": [
+    "6 to 8 clothes and household cloth items with labels",
+    "squares about 10 cm wide of cotton, wool and polyester (an old handkerchief, an old woollen sock, an old sports T-shirt or a lining)",
+    "a steel plate",
+    "a spoon",
+    "water",
+    "a bowl",
+    "3 clothes pegs or clips and a string or hanger",
+    "a clock or phone timer"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Stitching and colour",
+   "goal": "Meet the tailorbird, sew a running stitch and a backstitch, and dye cloth with haldi.",
+   "steps": [
+    {
+     "kind": "think",
+     "title": "The tailorbird's problem",
+     "mins": 8,
+     "do": "Say: 'The common tailorbird is a small green bird found in gardens all over India, even in cities. It has a problem: its eggs and chicks are easy food for crows, snakes and cats. So it hides its nest inside leaves. It pokes small holes along the edges of one or two big leaves with its sharp beak. It pulls plant fibre or spider silk through the holes, and the threads swell into little knots that hold the edges together. This makes a pocket of leaves, and the nest goes inside.' Ask: 'What does the tailorbird use as a needle? As thread?' Good answer: its beak, and plant fibre or spider silk. Ask: 'Why is a green leaf pocket a good hiding place?' Good answer: from outside it looks just like the rest of the plant."
+    },
+    {
+     "kind": "act",
+     "title": "Running stitch and backstitch",
+     "mins": 20,
+     "do": "Do Activity a5. Go through the needle rules first. Your child joins two pieces of cloth with a running stitch, and another two with a backstitch. Then test: cut one stitch in the middle of each seam and pull gently. Ask: 'Which seam comes undone more?' Good answer: the running stitch, because one long thread runs through it and slides out. In backstitch each stitch overlaps the last, so friction holds it better. Say: 'Tailors use backstitch where a seam must be strong.'",
+     "ref": "a5"
+    },
+    {
+     "kind": "exp",
+     "title": "Dye with haldi",
+     "mins": 17,
+     "do": "Do Experiment e4, steps 1 to 5. Ask first: 'Will the tied parts take the colour?' After dyeing, put one drop of soap water on a corner of a dyed strip. Ask: 'What happened to the colour?' Good answer: the yellow turned red-brown. Say: 'Haldi changes colour in soapy water. That is why a haldi stain on a kurta turns red when you wash it with soap.' Hang the strips to dry. Tomorrow you start the sunlight test.",
+     "ref": "e4"
+    }
+   ],
+   "need": [
+    "a large-eyed needle",
+    "thick cotton thread",
+    "a bar of soap or a pincushion",
+    "4 pieces of old cloth about 10 cm by 10 cm",
+    "scissors",
+    "2 teaspoons haldi",
+    "an old steel pan",
+    "water",
+    "a stove (grown-up only)",
+    "3 strips of white cotton cloth",
+    "thread or rubber bands",
+    "a pinch of alum (phitkari), if you have it",
+    "soap water in a small cup"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "When we are done with clothes",
+   "goal": "Find out how old cloth is reused, what microfibres are, and make a bag from an old T-shirt.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Nothing wasted",
+     "mins": 8,
+     "do": "Say: 'In many Indian homes, a saree is worn for years, then becomes a dupatta, a quilt, a cradle or a cleaning cloth. In West Bengal, women stitch layers of old sarees together with running stitch to make kantha quilts. In Maharashtra a quilt like this is called a godhadi. In Karnataka, Siddi women make patchwork quilts called kawandi.' Ask: 'What happens to old clothes in our home?' Make a list together: handed down, given away, made into dusters, sold to a kabadiwala. Ask: 'Which of these keeps the cloth in use longest?'"
+    },
+    {
+     "kind": "think",
+     "title": "Tiny plastic threads",
+     "mins": 10,
+     "do": "Share Voice v2 in your own words. Show a fluffy old fleece or polyester T-shirt, and the lint from a washing machine filter if you have one. Say: 'Every time synthetic clothes are washed, tiny fibres break off. They are called microfibres. Most are too small to catch at the water treatment plant, so many flow into rivers and the sea.' Ask the question in v2. Then ask: 'Cotton fibres break off too. What is different about them?' Good answer: microbes can break cotton down, because it is made of cellulose. Polyester can last for a very long time.",
+     "ref": "v2"
+    },
+    {
+     "kind": "act",
+     "title": "A bag from an old T-shirt",
+     "mins": 15,
+     "do": "Do Activity a6. Your child turns an old T-shirt into a shopping bag with no sewing. Ask: 'Why does the cut edge not fray into loose threads?' Good answer: a T-shirt is knitted from loops, so it does not unravel like woven cloth when cut. Use it for the next trip to the vegetable shop.",
+     "ref": "a6"
+    },
+    {
+     "kind": "exp",
+     "title": "Start the sunlight test",
+     "mins": 5,
+     "do": "Do step 6 of Experiment e4. Cover half of one dry haldi strip with thick card or folded newspaper, clip it, and put it in a sunny window. Put the other strip in a drawer. Check them on Day 9.",
+     "ref": "e4"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 7,
+     "do": "Give Worksheet ws2 (stretch). Your child works alone for 5 minutes, then you check it together. Ask them to explain aloud why they chose each cloth in Section A.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "an old T-shirt",
+    "sharp scissors",
+    "an old fleece or polyester T-shirt",
+    "lint from a washing machine filter, if you have one",
+    "the dyed strips from Day 7",
+    "thick card or newspaper and a clip",
+    "Worksheet ws2"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Play, check and teach it back",
+   "goal": "Read the sunlight test, play the fibre game, check what your child knows and finish the project.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Read the sunlight test",
+     "mins": 5,
+     "do": "Do step 7 of Experiment e4. Unclip the card. Ask: 'Which half is paler?' Good answer: the half that was in the sun. Compare it with the strip from the drawer. Say: 'Sunlight breaks down the colour in haldi. Indigo and madder last much longer, which is why they were used for clothes worn for years.'",
+     "ref": "e4"
+    },
+    {
+     "kind": "game",
+     "title": "Play Fibre Trail",
+     "mins": 12,
+     "do": "Play the game g1 with the printed cards. Play at least one full round. When a card is argued about, test it with the fabric squares from Day 6 if you can.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws3 (challenge) together. Talk through each puzzle before writing. Section C has no single right answer. Ask your child to give a reason for each choice.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 8,
+     "do": "Ask the check questions aloud, one at a time. Tick the ones answered well. For any missed one, go back to the thing you made or tested and try it again, then ask in different words."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back with the cloth passport",
+     "mins": 10,
+     "do": "Finish the project. Your child shows the family the woven piece and its cloth passport, and explains three things in their own words: why twisted yarn holds together, how a punched card tells a loom what to do, and why wool keeps you warm. Ask a grown-up to ask one question your child has not heard before."
+    }
+   ],
+   "need": [
+    "the haldi strips",
+    "the printed Fibre Trail cards",
+    "the fabric squares from Day 6",
+    "Worksheet ws3",
+    "the loom piece and the cloth passport card"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Fibres, yarn and weaving",
+   "day": 4,
+   "sections": [
+    [
+     "A. Where fibres come from",
+     [
+      {
+       "t": "sort",
+       "p": "Sort the fibres by where they come from.",
+       "items": [
+        "cotton",
+        "wool",
+        "jute",
+        "silk",
+        "coir",
+        "polyester",
+        "linen",
+        "nylon"
+       ],
+       "cats": [
+        "from a plant",
+        "from an animal",
+        "made in a factory from petroleum"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each fibre to the part it comes from.",
+       "pairs": [
+        [
+         "cotton",
+         "hair on the seed"
+        ],
+        [
+         "jute",
+         "the stem"
+        ],
+        [
+         "coir",
+         "the coconut husk"
+        ],
+        [
+         "wool",
+         "a sheep's hair"
+        ],
+        [
+         "silk",
+         "a caterpillar's cocoon"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Arjun pulls a cotton thread apart. What does he find inside?",
+       "opts": [
+        "tiny pieces of plastic",
+        "many thin fibres twisted together",
+        "one solid strand"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Spinning and weaving",
+     [
+      {
+       "t": "fill",
+       "p": "Twisting fibres into a long thread is called ____.",
+       "a": [
+        "spinning"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The threads stretched tight on a loom are called the ____.",
+       "a": [
+        "warp"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The thread that goes across, over and under, is called the ____.",
+       "a": [
+        "weft"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Kavya twists one cotton strand and leaves another loose. The twisted one holds more coins. Why?",
+       "opts": [
+        "twisting adds more cotton",
+        "twisting presses the fibres together, so friction holds them",
+        "twisting makes the cotton wet"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Jeans have small diagonal lines. Which weave makes them?",
+       "opts": [
+        "plain weave",
+        "twill",
+        "knitting"
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Is it woven, knitted or felt?",
+       "items": [
+        "a cotton handkerchief",
+        "a T-shirt",
+        "a woollen sweater",
+        "a jute sack",
+        "a namda rug made by pressing wool",
+        "paper"
+       ],
+       "cats": [
+        "woven",
+        "knitted",
+        "fibres matted together"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "There is no glue in a woven cloth. Explain what holds the weft in place.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A cotton plant grows fluff on its seeds. Give one idea for how the fluff might help the plant.",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "The right cloth for the job",
+   "day": 8,
+   "sections": [
+    [
+     "A. Choose the cloth",
+     [
+      {
+       "t": "mcq",
+       "p": "Lakshmi needs a towel that soaks up water well. Which cloth should she choose?",
+       "opts": [
+        "polyester",
+        "cotton",
+        "nylon"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Farhan wants a cricket jersey that dries fast after sweating. Which is best?",
+       "opts": [
+        "polyester",
+        "wool",
+        "thick cotton"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Meenakshi will help light diyas at Deepavali. Which is safest to wear?",
+       "opts": [
+        "a nylon frock",
+        "a cotton frock with fitted sleeves",
+        "a polyester dupatta"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "In the ice test, Arjun wrapped one ice cube in a woollen sock. What happened?",
+       "opts": [
+        "it melted fastest, because wool is warm",
+        "it melted slowest, because the trapped air slowed the heat",
+        "it did not melt at all"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match the word to its meaning.",
+       "pairs": [
+        [
+         "insulator",
+         "slows heat moving through it"
+        ],
+        [
+         "mordant",
+         "helps a dye stick to cloth"
+        ],
+        [
+         "synthetic fibre",
+         "made from chemicals in a factory"
+        ],
+        [
+         "blend",
+         "a mix of two fibres"
+        ],
+        [
+         "microfibre",
+         "a tiny piece that breaks off cloth"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Code and stitches",
+     [
+      {
+       "t": "mcq",
+       "p": "In a punched card for a loom, what does a hole do?",
+       "opts": [
+        "it lets a hook lift that warp thread",
+        "it lets water through",
+        "it cuts the thread"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Plain weave written as code is 101010 on the first row and ____ on the second row.",
+       "a": [
+        "010101"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Kavya cuts one stitch in a running-stitch seam and one in a backstitch seam. Which comes undone more?",
+       "opts": [
+        "the running stitch",
+        "the backstitch",
+        "neither, both hold"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Put the silk moth's life cycle in order.",
+       "items": [
+        "egg",
+        "caterpillar",
+        "cocoon",
+        "moth"
+       ],
+       "cats": [
+        "1st",
+        "2nd",
+        "3rd",
+        "4th"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "A sheep and a person in a sweater both stay warm in winter. Explain how, using the words 'air' and 'insulator'.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Why does a cut T-shirt not fray, while a cut cotton handkerchief does?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking like a weaver and a scientist",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "A diamond pattern is the same at the top and the bottom. Its 7 cards are 1, 2, 3, 4, 3, 2, 1. Card 6 is lost. Which card is the same as card 6?",
+       "opts": [
+        "card 2",
+        "card 4",
+        "card 5"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A loom has 8 warp threads. How many holes or blanks does each card need?",
+       "opts": [
+        "4",
+        "8",
+        "16"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Polyester is made from petroleum. Petroleum formed from the remains of tiny living things in ancient seas. Which is true?",
+       "opts": [
+        "polyester has nothing to do with living things",
+        "polyester was made from materials that were once part of living things",
+        "polyester is alive"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Old cloth found at Mehrgarh lasted 8,000 years inside a copper bead. What preserved it?",
+       "opts": [
+        "copper salts soaked into the thread",
+        "the bead was kept in a fridge",
+        "cotton never rots"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A haldi-dyed strip is half covered and left in the sun. The open half goes pale. What does this show?",
+       "opts": [
+        "sunlight breaks down haldi's colour",
+        "the card added colour",
+        "haldi gets darker in light"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. How would you test it?",
+     [
+      {
+       "t": "write",
+       "p": "Lakshmi says a thick cotton shawl keeps you as warm as a woollen one of the same thickness. How could you test her idea with ice cubes? Say what you keep the same.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Farhan says twisting cotton more and more always makes it stronger. How could you test this? What might happen if you twist too much?",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "C. Weigh it up",
+     [
+      {
+       "t": "write",
+       "p": "A handloom saree takes a weaver many days. A machine-made saree takes minutes. Give one reason to buy each.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Ada Lovelace is often called the first computer programmer. Some historians say Charles Babbage wrote programs first. What would you want to read before you decided?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Should people stop wearing polyester because of microfibres? Give one reason for and one against.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Loose cotton or twisted cotton?",
+   "day": 2,
+   "question": "Does twisting the same amount of cotton make it stronger?",
+   "need": [
+    "cotton wool",
+    "2 paper clips bent into hooks",
+    "2 small plastic bags or paper cups with handles made of thread",
+    "about 20 coins of the same kind",
+    "a ruler",
+    "the back of a chair"
+   ],
+   "steps": [
+    "Pull 2 strands of cotton wool, each about 20 cm long and as equal in thickness as you can.",
+    "Leave strand A loose. Twist strand B tightly along its whole length, about 40 turns.",
+    "Tie the top of each strand to the back of a chair.",
+    "Tie a paper-clip hook to the bottom of each strand and hang a bag on each hook.",
+    "Add coins to bag A one at a time, gently, until the strand breaks. Write down how many it held.",
+    "Do the same with bag B.",
+    "Repeat with two new strands, because one try can be a fluke."
+   ],
+   "predict": "Ask: 'Which strand will hold more coins? Why do you think so?'",
+   "observe": "The loose strand usually pulls apart with only 1 or 2 coins, or even with the empty bag. The twisted strand usually holds several coins, often more than 5. Watch where the loose strand breaks: the fibres slide apart rather than snap.",
+   "why": "Each cotton fibre is only 2 to 3 cm long, so no single fibre runs the whole length of the strand. In the loose strand, fibres only touch lightly and slide past each other. Twisting squeezes them together. The more tightly fibres press on each other, the more friction there is between them, so they cannot slide. The strand holds until fibres actually break. This is why every thread and rope is twisted.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "Does wool make heat?",
+   "day": 5,
+   "question": "Will an ice cube wrapped in wool melt faster or slower than a bare one?",
+   "need": [
+    "3 ice cubes of the same size from the same tray",
+    "3 small steel plates or bowls",
+    "a woollen sock",
+    "a thin cotton handkerchief",
+    "a clock or phone timer"
+   ],
+   "steps": [
+    "Put one ice cube on each plate. Keep the plates side by side, out of the sun.",
+    "Wrap ice cube A loosely in the woollen sock, with the sock folded twice round it.",
+    "Wrap ice cube B in the cotton handkerchief, folded to about the same size.",
+    "Leave ice cube C bare.",
+    "Every 10 minutes, look at C, then unwrap A and B quickly, look and wrap them again.",
+    "Write down which is smallest each time, and when C has fully melted."
+   ],
+   "predict": "Ask: 'Which ice cube will melt first, and which last? Why?'",
+   "observe": "The bare ice cube melts first. The one in the handkerchief melts more slowly. The one in the woollen sock usually lasts longest, often still clearly there when the bare one is a puddle.",
+   "why": "Ice melts when heat from the warmer room moves into it. Wool fibres are curly and springy, so a sock holds lots of still air between the fibres. Still air is an insulator: it slows heat moving through it. So the sock slows heat getting into the ice. Wool does not make heat. A sweater keeps you warm because it slows the heat your own body makes from leaving. It works the same way in both directions.",
+   "safety": "",
+   "time": "20 min + checks every 10 min for about an hour"
+  },
+  {
+   "id": "e3",
+   "title": "Which cloth dries first?",
+   "day": 6,
+   "question": "How do cotton, wool and polyester differ in soaking up water and drying?",
+   "need": [
+    "squares about 10 cm wide of cotton, wool and polyester",
+    "a steel plate",
+    "a spoon",
+    "a bowl of water",
+    "3 clothes pegs or clips",
+    "a string or hanger",
+    "a clock or phone timer"
+   ],
+   "steps": [
+    "Drop test: lay the three squares on a dry steel plate. Put one spoonful of water on each. Watch for 1 minute. Does the water soak in, spread or sit on top?",
+    "Put all three squares in the bowl of water for 1 minute.",
+    "Lift each one out and let it drip for 10 seconds. Do not squeeze.",
+    "Peg them side by side on a string or hanger indoors, away from a fan.",
+    "Every 10 minutes, feel each one. Write down which is dry first, second and third.",
+    "If they are still wet at the end of the lesson, check again in the evening."
+   ],
+   "predict": "Ask: 'Which cloth will dry first? Which will stay wet longest? Why?'",
+   "observe": "Cotton soaks up water quickly and feels heavy and wet. It usually dries last. Polyester holds much less water and usually dries first. In the drop test, water often sits on top of wool for a while before it soaks in. Results depend on how thick each piece is, so try to use pieces of similar thickness.",
+   "why": "Cotton fibres are made of cellulose, which attracts water, and water also fills the spaces between fibres. That is why cotton makes good towels and feels cool in sweaty weather: it soaks up sweat. Polyester fibres attract very little water, so water only sits in the gaps and dries off quickly. Wool fibres have a waxy, scaly outside, so drops can sit on top, but wool can still soak up a lot of water inside its fibres.",
+   "safety": "",
+   "time": "20 min + checks over the day"
+  },
+  {
+   "id": "e4",
+   "title": "Dyeing with haldi",
+   "day": 7,
+   "question": "Can we dye cloth with haldi, make patterns by tying it, and does the colour last in sunlight?",
+   "need": [
+    "2 teaspoons haldi",
+    "an old steel pan",
+    "2 cups of water",
+    "a stove (grown-up only)",
+    "tongs or a spoon",
+    "3 strips of white cotton cloth about 10 cm by 30 cm",
+    "thread or rubber bands",
+    "a pinch of alum (phitkari), if you have it",
+    "soap water in a small cup",
+    "thick card or folded newspaper and a clip"
+   ],
+   "steps": [
+    "A grown-up boils the haldi in 2 cups of water for 5 minutes, then turns off the stove. Stir in a pinch of alum if you have it.",
+    "While it heats, your child pinches up small bits of two strips and ties thread or a rubber band tightly round each pinch. This is how bandhani patterns are made.",
+    "Wet all three strips with plain water and squeeze them.",
+    "When the dye has cooled enough to be safe, a grown-up dips the strips in with tongs. Leave them for 10 minutes, then lift them out and rinse in cold water.",
+    "Untie the threads. Put a drop of soap water on one corner. Hang the strips to dry.",
+    "The next day, cover half of one strip with card and clip it. Put it in a sunny window. Keep another strip in a drawer.",
+    "After a day or more of sunlight, remove the card and compare the two halves, and the strip from the drawer."
+   ],
+   "predict": "Ask: 'Will the tied parts be yellow or white? What will soap do to the colour? What will sunlight do?'",
+   "observe": "The strips turn bright yellow, with pale or white patterns where they were tied. The soap water turns the yellow red-brown. After a day or two in a sunny window, the uncovered half is clearly paler than the covered half.",
+   "why": "The yellow colour in haldi is a chemical called curcumin. It soaks into the cotton fibres, but the tied places are squeezed so tightly that the dye cannot reach them. Curcumin turns red-brown in soapy water because soap is an alkali, the opposite of an acid. Sunlight breaks curcumin down, so the colour fades. A mordant such as alum helps many dyes hold on to fibres. Indian dyers used alum with madder for reds, and indigo for blues, because those colours last much longer than haldi.",
+   "safety": "A grown-up does all the boiling and handles the hot pan. Let the dye cool before small hands go near it. Haldi stains hands, steel and counters, so cover the table with newspaper and wear old clothes.",
+   "time": "17 min + 1 to 2 days in the sun"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Spin yarn on a pencil spindle",
+   "day": 2,
+   "mins": 18,
+   "need": [
+    "a pencil",
+    "a cardboard circle about 6 cm across with a tight hole in the middle",
+    "a small lump of clay, or a coin taped on the circle",
+    "cotton wool",
+    "a 30 cm piece of ordinary thread"
+   ],
+   "steps": [
+    "Push the pencil through the cardboard circle, about 3 cm from the bottom. Tape a coin on the card, or press clay round it, so it is heavier and spins longer. This is the whorl.",
+    "Tie the 30 cm thread to the pencil just above the whorl, wind it round twice, and leave the end free. This is the leader.",
+    "Pull a thin wisp of cotton from the cotton wool and lay it against the end of the leader.",
+    "Twirl the pencil with your fingers like a top, letting it hang. The twist runs up the leader into the cotton.",
+    "With your other hand, slowly draw out more cotton from the cotton wool, letting the twist run into it.",
+    "When the yarn is about 30 cm long, wind it round the pencil and start again.",
+    "When it breaks, overlap a new wisp of cotton on the broken end and twirl again."
+   ],
+   "outcome": "A short length of your own hand-spun cotton yarn, and the feel of how twist turns fluff into thread."
+  },
+  {
+   "id": "a2",
+   "title": "Cardboard loom: plain weave and twill",
+   "day": 3,
+   "mins": 22,
+   "need": [
+    "stiff cardboard about 12 cm by 15 cm",
+    "a ruler and scissors",
+    "wool or thick cotton thread in 2 colours",
+    "sticky tape",
+    "an ice-cream stick with a hole, or a blunt large-eyed needle",
+    "a comb or fork"
+   ],
+   "steps": [
+    "Cut 11 small notches 1 cm apart along both short ends of the card.",
+    "Tape one end of the first colour at the back. Wind it down through the first notch at the bottom, back up through the first notch at the top, then the next notch, keeping it tight like a veena string. Tape the end at the back. These 11 threads are the warp.",
+    "Thread the second colour onto the ice-cream stick or needle. Row 1: go over the first warp thread, under the next, over, under, all the way across.",
+    "Row 2: come back the other way, going under where you went over before.",
+    "Push each row down with the comb. Leave the weft a little loose at the edges so the cloth does not get narrow in the middle. Weave 8 rows.",
+    "Now try twill: row 1 over two, under two. Each new row starts one thread further along. Weave 6 rows and look for the diagonal line.",
+    "Keep adding rows on later days. When the card is nearly full, slip the loops off the notches, cut them in pairs and knot each pair so the weaving cannot slide off."
+   ],
+   "outcome": "A small woven piece with a band of plain weave and a band of twill, used later for the code pattern and the project."
+  },
+  {
+   "id": "a3",
+   "title": "Weave a code",
+   "day": 4,
+   "mins": 16,
+   "need": [
+    "squared paper",
+    "a pencil",
+    "the loom from Day 3"
+   ],
+   "steps": [
+    "Draw a grid 6 squares wide and 6 rows high. Each column is one warp thread. Each row is one row of weaving.",
+    "Write the code key at the top: 1 means the weft goes under, so the warp shows. 0 means the weft goes over.",
+    "Write plain weave in the first two rows: 101010 and 010101.",
+    "Now design your own 6-row pattern with 1s and 0s, for example a small diamond. Shade every 1 so you can see the picture.",
+    "Weave the 6 rows on your loom, reading one row of the grid at a time.",
+    "Compare the woven rows with the shaded grid. Fix any square that does not match."
+   ],
+   "outcome": "A pattern written as a code and the same pattern woven into cloth, showing that the code holds all the information the loom needs."
+  },
+  {
+   "id": "a4",
+   "title": "Label hunt",
+   "day": 6,
+   "mins": 10,
+   "need": [
+    "6 to 8 clothes and household cloth items with labels: school uniform, a sports T-shirt, a sweater, a bedsheet, a towel, socks, a school bag",
+    "notebook"
+   ],
+   "steps": [
+    "Draw a table: Item, Fibres on the label, Natural, Synthetic or Blend, Why it might be made of this.",
+    "Find the label inside each item and read the fibres. Labels may say 'cotton', 'polyester', 'viscose', 'nylon', 'elastane' or 'wool'.",
+    "Write each one in the table.",
+    "Count how many are natural, synthetic and blends.",
+    "For each item, write one reason the maker might have chosen that fibre."
+   ],
+   "outcome": "A table of what your family's clothes are made of. Most families find many blends and a lot of polyester."
+  },
+  {
+   "id": "a5",
+   "title": "Running stitch and backstitch",
+   "day": 7,
+   "mins": 20,
+   "need": [
+    "a large-eyed needle",
+    "thick cotton thread",
+    "a bar of soap or a pincushion",
+    "4 pieces of old cloth about 10 cm by 10 cm",
+    "a pencil and ruler",
+    "scissors"
+   ],
+   "steps": [
+    "Needle rules: sit at a table, push the needle into the soap when you are not using it, never put it in your mouth, and count it back at the end.",
+    "A grown-up threads the needle with about 50 cm of thread and ties a knot at the end.",
+    "Lay two pieces of cloth on top of each other. Draw a line 1 cm from one edge, with dots every 1 cm.",
+    "Running stitch: come up at the first dot, go down at the second, up at the third, and so on. Tie a knot at the back at the end.",
+    "Join the other two pieces with backstitch: come up at the second dot, go back down at the first, come up at the third, go back down at the second. Each stitch overlaps the last.",
+    "Cut one stitch in the middle of each seam and gently pull the two cloths apart. Compare."
+   ],
+   "outcome": "Two seams, and the finding that backstitch holds better than running stitch when one stitch breaks."
+  },
+  {
+   "id": "a6",
+   "title": "No-sew T-shirt bag",
+   "day": 8,
+   "mins": 15,
+   "need": [
+    "an old T-shirt",
+    "sharp scissors (a grown-up helps)",
+    "a ruler"
+   ],
+   "steps": [
+    "Lay the T-shirt flat. Cut off both sleeves, just inside the seam.",
+    "Cut a big curve round the neck to make the bag's opening. The shoulders become the handles.",
+    "Turn the T-shirt inside out. Cut strips 2 cm wide and 8 cm long up from the bottom edge, through both layers, to make a fringe.",
+    "Tie each front strip to the back strip behind it with a double knot.",
+    "Then tie each knotted pair to the pair next to it, to close the gaps.",
+    "Turn the bag right side out and test it with a few vegetables."
+   ],
+   "outcome": "A strong shopping bag made from a T-shirt that was going to be thrown away."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Christophe Moulherat and colleagues (2002), on the oldest known cotton, from Mehrgarh",
+   "idea": "Mehrgarh is the site of an ancient farming village in Balochistan, in today's Pakistan. Around 6000 BCE, about 8,000 years ago, a person was buried there with copper beads. In 2002 a French team led by Christophe Moulherat looked inside one bead under a microscope. Copper salts had soaked into the thread inside and kept its shape. They found it was cotton fibre. Later, at Mohenjo-daro, about 4,500 years old, a scrap of woven cotton cloth was found stuck to a silver vase.",
+   "then": "Cloth rots quickly, so archaeologists had very little direct evidence of early cotton. Many thought cotton came into use later.",
+   "now": "Accepted. The Mehrgarh bead is the oldest known evidence of cotton use anywhere. The people of South Asia were among the first to grow cotton and spin it. Their names were never written down.",
+   "status": "accepted",
+   "ask": "The cotton survived only because it was inside a copper bead. What does that tell us about how much of the past we will never find?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Mark Anthony Browne and colleagues (2011), on plastic microfibres from washing clothes",
+   "idea": "Browne, an ecologist, collected sand from 18 beaches on six continents. Every sample had tiny pieces of plastic, and most were fibres of polyester and acrylic, the same materials as many clothes. His team then tested washing machines and found that washing one synthetic garment could release more than 1,900 fibres. The paper was published in 2011.",
+   "then": "Before this, most people thought plastic pollution in the sea came mainly from bags and bottles breaking up.",
+   "now": "Debated. That washing releases microfibres is accepted, and many later studies found them in rivers, seas, fish and even salt. How many come from clothes, and how much harm they do to living things, is still being studied. Washing full loads in cold water, using clothes for longer and buying fewer synthetic clothes all reduce the shedding.",
+   "status": "debated",
+   "ask": "Microfibres are too small to see. How would you find out if they are in the water near you? What would you need to measure?",
+   "day": 8
+  },
+  {
+   "id": "v3",
+   "who": "Ada Lovelace (1815–1852), England, and the Jacquard loom",
+   "idea": "Charles Babbage designed a machine, the Analytical Engine, that would read instructions from punched cards like those of a Jacquard loom. It was never finished. In 1843 Ada Lovelace translated an article about it and added long notes of her own. Her notes set out, step by step, how the machine could calculate a series of numbers called Bernoulli numbers. She wrote that the engine 'weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves'. She also wrote that such a machine might work with music and symbols, not only numbers.",
+   "then": "Few people read her notes, and the machine was never built. For a long time she was remembered mainly as the daughter of the poet Lord Byron.",
+   "now": "Debated. Her notes are often called the first published computer program. Some historians point out that Babbage had written programs for his machine in his own unpublished papers a few years earlier. Most agree that her idea that a machine could handle any kind of symbol, not just numbers, was ahead of its time.",
+   "status": "debated",
+   "ask": "Babbage wrote programs in private papers. Lovelace published hers with her ideas about what machines could do. Who should get credit, and why?",
+   "day": 4
+  }
+ ],
+ "project": {
+  "title": "A cloth passport",
+  "days": [
+   3,
+   9
+  ],
+  "steps": [
+   "Day 3: start the woven piece on the cardboard loom (Activity a2).",
+   "Day 4: weave your own code pattern into it, and stick the code grid on a card.",
+   "Day 5 to 8: weave a few rows each day. Weave one row with your own hand-spun yarn from Day 2. Add a strip of haldi-dyed cloth if you like.",
+   "Day 8: finish the edges and knot the warp ends.",
+   "On an A5 card, make the cloth passport: Fibres used and where they came from (plant, animal or petroleum). How they were made into yarn. Which weaves are in it. The code for your pattern. How it could be reused when it wears out.",
+   "Day 9: show the piece and the passport to the family, and explain it."
+  ],
+  "outcome": "A small piece of cloth your child made from fibre to finished edge, with a card that tells its whole story, from the living thing to the reuse."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Fibre Trail",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards",
+   "scissors",
+   "the fabric squares from Day 6, if you have them"
+  ],
+  "rules": [
+   "Cut out the cards. Put the four category cards face up in a row: PLANT, ANIMAL, PETROLEUM, MAKING.",
+   "Shuffle the question cards and put them face down.",
+   "On your turn, take the top card, read the front aloud and give your answer. Say which category it belongs to.",
+   "Turn the card over. If you were right, keep it under that category. If you were wrong, put it at the bottom of the pile.",
+   "If players disagree, test it with the fabric squares, a thread or the loom if you can.",
+   "When the pile is finished, the player with the most cards wins. Any player who has a card in all four categories gets 2 extra points."
+  ],
+  "cards": [
+   {
+    "job": true,
+    "front": "PLANT"
+   },
+   {
+    "job": true,
+    "front": "ANIMAL"
+   },
+   {
+    "job": true,
+    "front": "PETROLEUM"
+   },
+   {
+    "job": true,
+    "front": "MAKING"
+   },
+   {
+    "front": "I am the fluffy hair on a seed. What fibre am I?",
+    "back": "Cotton (PLANT)"
+   },
+   {
+    "front": "I come from the stem of a plant grown in West Bengal. Gunny sacks are made of me.",
+    "back": "Jute (PLANT)"
+   },
+   {
+    "front": "I come from the husk of a coconut. Doormats in Kerala are made of me.",
+    "back": "Coir (PLANT)"
+   },
+   {
+    "front": "I come from the stem of the flax plant. What fibre am I?",
+    "back": "Linen (PLANT)"
+   },
+   {
+    "front": "What material are cotton, jute and linen fibres made of?",
+    "back": "Cellulose, the material of plant cell walls (PLANT)"
+   },
+   {
+    "front": "I am the hair of a sheep. My curls trap air. What am I?",
+    "back": "Wool (ANIMAL)"
+   },
+   {
+    "front": "A caterpillar makes me to protect itself while it changes. What am I?",
+    "back": "A silk cocoon (ANIMAL)"
+   },
+   {
+    "front": "What does the silkworm eat?",
+    "back": "Mulberry leaves (ANIMAL)"
+   },
+   {
+    "front": "Name the four stages of the silk moth's life cycle.",
+    "back": "Egg, caterpillar, cocoon, moth (ANIMAL)"
+   },
+   {
+    "front": "This Assam silk moth leaves its cocoon before the silk is used.",
+    "back": "The eri silk moth (ANIMAL)"
+   },
+   {
+    "front": "This small green bird sews leaves together to hide its nest.",
+    "back": "The tailorbird (ANIMAL)"
+   },
+   {
+    "front": "I was the first fully synthetic fibre, made in the 1930s.",
+    "back": "Nylon (PETROLEUM)"
+   },
+   {
+    "front": "I am the same plastic as many water bottles. Old bottles are recycled into me.",
+    "back": "Polyester (PETROLEUM)"
+   },
+   {
+    "front": "Why should you not wear nylon near a diya?",
+    "back": "It melts into hot, sticky drops that burn the skin (PETROLEUM)"
+   },
+   {
+    "front": "Tiny plastic threads that wash out of clothes are called what?",
+    "back": "Microfibres (PETROLEUM)"
+   },
+   {
+    "front": "Which dries faster after washing: a polyester jersey or a cotton towel?",
+    "back": "The polyester jersey (PETROLEUM)"
+   },
+   {
+    "front": "Twisting fibres into yarn is called what?",
+    "back": "Spinning (MAKING)"
+   },
+   {
+    "front": "Why does twisting make yarn strong?",
+    "back": "It presses the fibres together, so friction stops them sliding (MAKING)"
+   },
+   {
+    "front": "The threads stretched tight on a loom are called what?",
+    "back": "The warp (MAKING)"
+   },
+   {
+    "front": "Over two, under two, shifting one step each row. Which weave?",
+    "back": "Twill (MAKING)"
+   },
+   {
+    "front": "In a Jacquard card, what does a hole do?",
+    "back": "It lets a hook lift that warp thread (MAKING)"
+   },
+   {
+    "front": "Write plain weave as code for two rows.",
+    "back": "101010 and 010101 (MAKING)"
+   },
+   {
+    "front": "A T-shirt is made of loops of one yarn. What is this called?",
+    "back": "Knitting (MAKING)"
+   },
+   {
+    "front": "Cloth that is hand-spun and hand-woven is called what?",
+    "back": "Khadi (MAKING)"
+   },
+   {
+    "front": "Threads are tied and dyed before weaving in Pochampally, Telangana. What is this cloth called?",
+    "back": "Ikat (MAKING)"
+   },
+   {
+    "front": "What is alum (phitkari) used for when dyeing?",
+    "back": "It is a mordant: it helps dye stick to cloth (MAKING)"
+   },
+   {
+    "front": "Old sarees stitched in layers with running stitch make what quilt in West Bengal?",
+    "back": "Kantha (MAKING)"
+   },
+   {
+    "front": "Which stitch holds better if one stitch breaks: running stitch or backstitch?",
+    "back": "Backstitch (MAKING)"
+   }
+  ]
+ },
+ "big": [
+  "A cotton fibre was part of a living plant, then part of your shirt. Is it still part of the plant in any way?",
+  "If a weaving pattern can be written as 1s and 0s, is a pattern a kind of thought? Where is the pattern when it is not being woven?",
+  "Is a hand-made thing worth more than a machine-made one that looks the same? What makes something valuable?",
+  "Most of the clothes we wear were made by people we will never meet. What do we owe them?",
+  "Is it right to use another living being's body, like a sheep's hair or a silkworm's cocoon, to make our clothes? When is it fair?"
+ ],
+ "challenge": [
+  {
+   "q": "'Silk was first made in China, and nobody else knew it for thousands of years.' Is that true?",
+   "hint": "People in China were the first to farm the silk moth, many thousands of years ago, and they kept the method secret for a long time. But silk was also known elsewhere. In 2009, Irene Good, Jonathan Mark Kenoyer and Richard Meadow reported silk fibres from Harappa and Chanhu-daro in the Indus Valley, about 4,500 years old. They came from wild silk moths, not farmed ones. What different questions do 'Who first used silk?' and 'Who first farmed silkworms?' ask?"
+  },
+  {
+   "q": "'A woollen blanket is warm, so it gives off heat.' Is that true?",
+   "hint": "No. Your ice test showed that wool slows heat moving in either direction. A blanket feels warm because it keeps in the heat your body makes. That is why a woollen-wrapped ice cube lasts longer than a bare one. Can you think of another place where people use wool or straw to keep something cold?"
+  },
+  {
+   "q": "'Recycling plastic bottles into polyester T-shirts solves the plastic problem.' Is that true?",
+   "hint": "It helps, because the bottle is used again. But the fibre is hard to recycle a second time, so the T-shirt usually ends up in a dump or a fire. It can also shed microfibres when it is washed. Using things for longer, and using fewer, often helps more. What would a T-shirt need, to be recycled again and again?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A handloom weaver in Kanchipuram",
+   "view": "A silk saree with a rich border can take a weaver many days or weeks, and the weaver holds the whole design in mind and hands. Power looms make cloth much faster and cheaper, and many weaving families have lost work. Ask: when we choose cheaper cloth, who pays the difference?"
+  },
+  {
+   "who": "A silkworm",
+   "view": "It eats mulberry leaves, spins for days to protect its own body, and the cocoon was meant for its own change into a moth. Ask: how would the story of a silk saree sound if the silkworm told it?"
+  },
+  {
+   "who": "A sheep in the hills",
+   "view": "Its fleece solves its own problem: staying warm in the cold. Farmed sheep grow much more wool than wild sheep and need shearing every year, or they get too hot. Ask: do we and the sheep both gain from shearing, or only us?"
+  },
+  {
+   "who": "A kabadiwala and the people who sort old clothes",
+   "view": "They buy, sort and sell old clothes and rags, so they can be worn again, cut into dusters or shredded for stuffing. Their work keeps tonnes of cloth out of the dump, but it is rarely called science or engineering. Ask: whose work counts as caring for the environment?"
+  },
+  {
+   "who": "Indigo farmers in Champaran, Bihar, in 1917",
+   "view": "Many farmers were forced by British planters to grow indigo for dye on part of their land, even when it hurt them. Gandhi came to Champaran to support them, and this became his first big protest in India. Ask: a blue dye can be beautiful. Who should decide what a farmer grows?"
+  }
+ ],
+ "story": {
+  "title": "The Card That Fell",
+  "text": [
+   "The loom in Meenakshi's house stood over a pit in the floor. When her amma wove, she sat on the edge of the pit with her feet down inside it, pressing the wooden pedals. The shuttle flew from her right hand to her left and back, clack, clack, and every few seconds the long wooden bar thudded the new thread into place.",
+   "Above the loom hung a chain of cards. There were hundreds of them, each the length of a ruler, each laced to the next with string, and each full of small round holes. Every time Amma pressed a pedal, the chain moved on by one card, and a row of hooks rose or stayed down. Meenakshi had grown up under that clatter. She had never wondered about the cards. They were part of the ceiling, like the fan.",
+   "This week Amma was weaving a wedding saree for a girl in Vellore. It was deep green silk, and the border was a row of rudraksham, small round beads in gold zari, each one shaped like a diamond with soft corners. The wedding was on Sunday. It was Wednesday.",
+   "On Wednesday evening the string holding the cards snapped.",
+   "Meenakshi heard it from the next room: a sigh of paper, then a slap, as two dozen cards slid off the chain and spread across the floor like a dropped pack. Amma did not shout. She sat very still on the edge of the pit and looked at them.",
+   "'The numbers,' she said at last. Each card had a number pencilled in its corner. But the monsoon had come through the roof two weeks ago, and a corner of the chain had been wet. On seven of the fallen cards, the numbers had run into grey smudges.",
+   "'Can't Selvam anna fix it?' Meenakshi asked. Selvam was the man who punched the cards for the whole street.",
+   "'Selvam is in Chennai until next week.'",
+   "Meenakshi knelt and began picking up cards. They were stiff and slightly greasy from years of hands. She held one up to the tube light. A row of holes, then a gap, then holes, then a long gap. She held up another. Different holes. She thought of her cousin Arul, who did coding classes on his phone and talked about ones and zeros as if they were people he knew.",
+   "'Amma,' she said slowly, 'what does a hole do?'",
+   "Amma was tired, but she answered. 'A hook goes through a hole. The hook lifts one warp thread. No hole, the thread stays down. The shuttle goes under the lifted ones and over the rest.'",
+   "'So one card is one line of the border.'",
+   "'One line. One pass of the shuttle.'",
+   "Meenakshi looked at the half-finished border on the loom, where the woven rudraksham sat in a gold row. She looked at the cards in her hands. If one card was one line, then the cards together were the bead, written in holes instead of thread. She could not read a bead from a single card. But maybe she could read it from all of them.",
+   "She laid the numbered cards on the floor in order, one under another, so that the holes made columns. At first it was just a mess of dots. Then she half-closed her eyes, the way she did when she looked for shapes in clouds, and there it was. The holes made a diamond. The top card had only two holes in the middle. The next had four. Then six, then eight. Then the cards with smudged numbers would have to come, and after them the numbered ones started again: eight, six, four, two.",
+   "'Amma, the bead is the same at the top and the bottom.'",
+   "Amma came and crouched beside her. She looked at the floor for a long time.",
+   "Meenakshi picked up a smudged card and laid it beside the numbered ones until she found a card whose holes matched it exactly. 'This one is the same as card twelve. So it must be its twin on the other side.' One by one, she matched each smudged card to its twin. Six of them found a partner. The seventh had the most holes of all, and no twin. 'This is the middle,' she said. 'The widest line. It only comes once.'",
+   "Amma took a pencil from behind her ear and wrote new numbers on the seven cards, very small, checking each one against Meenakshi's row on the floor. Then she laced the chain together again with new string, her fingers quick and sure. She did not say anything. She lowered herself onto the edge of the pit, pressed a pedal, and sent the shuttle across.",
+   "Meenakshi stood behind her and watched the next bead grow. The first line of gold. The second, a little wider. She held her breath through the middle line and let it out on the other side.",
+   "The bead was whole.",
+   "Later, when the house was dark and the loom was quiet, Meenakshi lay on her mat and looked up at the chain of cards hanging in the window light. Hundreds of them. Every bead, every gold line, every corner of that green saree was up there already, waiting in the holes. Amma's feet would carry it down into the silk, one card at a time. Meenakshi fell asleep counting holes, two, four, six, eight."
+  ],
+  "epiphany": "A weaving pattern is information. Each punched card is one row, and a hole or no hole decides whether a warp thread rises, like a 1 or a 0. The turn comes when Meenakshi lays the cards in order and sees the bead drawn in holes, then uses the bead's symmetry to put the smudged cards back in place. The story also shows that a handloom weaver's home holds real engineering, long before the child calls it 'coding'.",
+  "ask": [
+   "What did one punched card do in Amma's loom?",
+   "How did Meenakshi know where the smudged cards belonged?",
+   "Why did the seventh card have no twin?",
+   "Arul talks about ones and zeros. How are the holes like ones and zeros?",
+   "Amma did not say anything when the bead came out right. What do you think she felt?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Cloth is held together by friction and arrangement, not glue.",
+   "more": "Short fibres become strong yarn only when twisting presses them together. Yarn becomes cloth when warp and weft cross over and under and press on each other. The coin test and the loom both show it: the same cotton is weak or strong depending on how it is arranged."
+  },
+  {
+   "idea": "A weaving pattern is a code.",
+   "more": "Every row of a weave can be written as 1s and 0s: thread up, thread down. Jacquard's loom read the code from punched cards, and those cards gave Babbage and Lovelace the idea for a machine that follows instructions. Your child wrote a code on squared paper and wove it, and anyone with the same grid could weave the same picture."
+  },
+  {
+   "idea": "Every fibre began in a living thing.",
+   "more": "Cotton is the hair on a seed, jute is a plant's stem, wool is a sheep's coat and silk is a caterpillar's shelter. Each did a job for that living thing before it did a job for us. Even polyester is made from petroleum, which formed from the remains of tiny living things in ancient seas millions of years ago."
+  },
+  {
+   "idea": "Clothes do not disappear when we are done with them.",
+   "more": "Cloth can be handed down, stitched into quilts and turned into bags and dusters. Cotton is broken down by microbes in the end. Polyester can last for a very long time, and tiny pieces of it wash out into rivers and the sea."
+  }
+ ],
+ "unknowns": [
+  "Why did cotton plants evolve fluff on their seeds? Scientists think it may help the seeds spread on wind or water, or hold water when they start to grow, but nobody is sure.",
+  "When did people first twist fibres into string? The oldest known twisted fibres are tens of thousands of years old, and string may be much older, but string rots, so we may never know.",
+  "How much harm do microfibres do to fish, birds and people? They are found almost everywhere, but scientists are still measuring what they do inside living bodies.",
+  "Do silkworms and other insects feel pain? Insects sense injury and react to it, but scientists still argue about what they feel."
+ ],
+ "books": [
+  {
+   "title": "Charlie Needs a Cloak",
+   "author": "Tomie dePaola",
+   "for": "read together",
+   "age": "4–7",
+   "why": "A shepherd shears his sheep, cards, spins, weaves, dyes and sews his own cloak: every step from fibre to clothes in one short picture book."
+  },
+  {
+   "title": "Pelle's New Suit",
+   "author": "Elsa Beskow",
+   "for": "read together",
+   "age": "4–7",
+   "why": "A boy in Sweden follows the wool from his own lamb to a new suit, helping each person along the way. A gentle picture of how many hands make one piece of clothing."
+  },
+  {
+   "title": "Ada Byron Lovelace and the Thinking Machine",
+   "author": "Laurie Wallmark, illustrated by April Chu",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A picture-book life of Ada Lovelace, including the Jacquard loom and her notes on Babbage's engine."
+  },
+  {
+   "title": "The Fabric of Civilization: How Textiles Made the World",
+   "author": "Virginia Postrel",
+   "for": "parent reads",
+   "age": "adult; read parts aloud",
+   "why": "A clear history of fibre, spinning, weaving, dyeing and trade, with good chapters on Indian cotton and on looms and computers."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is a fibre? Name two plant fibres and two animal fibres.",
+   "a": "A fibre is a long, thin, bendy strand. Plant fibres: cotton (hair on the seed), jute or linen (from the stem), coir (from the coconut husk). Animal fibres: wool (hair of sheep or goats) and silk (spun by the silk moth's caterpillar)."
+  },
+  {
+   "q": "Why is twisted yarn stronger than loose cotton wool?",
+   "a": "Twisting squeezes the short fibres against each other. The harder they press, the more friction there is between them, so they cannot slide apart. In the coin test, the twisted strand held many more coins."
+  },
+  {
+   "q": "What are the warp and the weft? How is twill different from plain weave?",
+   "a": "The warp is the threads stretched tight on the loom. The weft goes across, over and under them. In plain weave the weft goes over one, under one. In twill it goes over two, under two, and shifts one step each row, which makes diagonal lines, as in jeans."
+  },
+  {
+   "q": "How does a punched card tell a Jacquard loom what to weave?",
+   "a": "Each card is one row. Where there is a hole, a hook passes through and lifts that warp thread. Where there is no hole, the thread stays down. A chain of cards holds the whole pattern, like a code of 1s and 0s."
+  },
+  {
+   "q": "Does a woollen sweater make heat? How do you know?",
+   "a": "No. The ice cube wrapped in a woollen sock melted slowest. If wool made heat, it would have melted fastest. Wool traps still air, which is an insulator, so it slows heat moving. A sweater keeps in the heat your body makes."
+  },
+  {
+   "q": "Where do polyester and nylon come from, and why should you not wear them near a flame?",
+   "a": "They are synthetic fibres, made in factories from chemicals that mostly come from petroleum. If they catch fire they melt into hot, sticky drops that stick to skin and burn badly. Cotton burns but does not melt."
+  },
+  {
+   "q": "How does the silk moth's caterpillar make silk, and why?",
+   "a": "It pushes out liquid silk from glands near its mouth, and it hardens into one long thread. It winds the thread round itself to make a cocoon, which protects it while it changes into a moth."
+  },
+  {
+   "q": "Give two ways to keep old clothes in use, and say what microfibres are.",
+   "a": "Hand them down, or make them into quilts like kantha, bags or dusters. Microfibres are tiny pieces that break off clothes when they are washed. Those from synthetic clothes are plastic and can end up in rivers and the sea."
+  }
+ ]
+}
