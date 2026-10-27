@@ -141,7 +141,7 @@
    "examples": [
     "House crows call loudly at first light, and fly to a big tree together at sunset.",
     "A street dog often sleeps in the same shady corner every afternoon.",
-    "Ants walking to food follow the same line, because each ant leaves a smell trail that the others follow."
+    "Ants walking to food follow the same line. Ants that have found food leave a smell trail on the way back, and the others follow it."
    ],
    "perspectives": [],
    "art": "A crow shown at three times on a clock face: calling at dawn, panting in the noon shade, flying to a big tree at sunset.",
@@ -165,7 +165,7 @@
    "concept": "Body clocks",
    "status": "defined",
    "definition": "A body clock is a timer inside a living thing that keeps a roughly 24-hour rhythm of waking and sleeping.",
-   "description": "Shut a fruit fly in a dark box, and it still wakes and rests at about the same times each day. This is because tiny parts inside its cells switch on and off in a cycle that takes about one day. Three scientists, Jeffrey Hall, Michael Rosbash and Michael Young, worked out how the genes that run this clock work in fruit flies. They won a Nobel Prize for it in 2017. Sunlight resets the clock each morning, the way you set a watch. You have a body clock too. It is one reason you feel sleepy at night.",
+   "description": "Shut a fruit fly in a dark box, and it still wakes and rests at about the same times each day. This is because some of its genes, the instructions inside each cell, switch on and off in a cycle that takes about one day. Three scientists, Jeffrey Hall, Michael Rosbash and Michael Young, worked out how the genes that run this clock work in fruit flies. They won a Nobel Prize for it in 2017. Sunlight resets the clock each morning, the way you set a watch. You have a body clock too. It is one reason you feel sleepy at night.",
    "examples": [
     "A rooster crows before sunrise, even before the sky gets light.",
     "When people fly to a far country, their body clock is still on home time. They feel sleepy in the middle of the day.",
@@ -208,7 +208,7 @@
    "status": "idea",
    "description": "In south India the termite Odontotermes obesus builds mounds taller than a child. For years, books said these mounds work like air coolers, with the termites' own warmth pushing air up a chimney. Then in 2015 a team of scientists measured air inside real mounds near Bengaluru. They found the mound breathes with the day. In the day, the thin outer walls warm up faster than the middle, and air moves one way. At night the walls cool faster, and air moves the other way. So the daily change from hot day to cool night moves the air through the termites' home. Scientists are still studying how this works in mounds of other kinds.",
    "examples": [
-    "A mound in hot sun stays much cooler deep inside than the ground outside.",
+    "Deep inside a mound, the temperature changes much less between day and night than it does outside.",
     "Termites grow a fungus garden inside the mound, which needs steady warmth and damp air.",
     "Some architects copy termite mounds to design buildings that need less air conditioning."
    ],
@@ -262,7 +262,7 @@
   {
    "concept": "Why some animals travel far: migration",
    "status": "debated",
-   "description": "Some animals live in two homes, far apart. Each winter, bar-headed geese fly from Central Asia over the Himalayas to Indian lakes. Amur falcons stop in Nagaland on their way from East Asia to southern Africa. Scientists agree that they travel to find food and good weather. How they find the way is less clear. Birds seem to use the Sun, the stars, smells, landmarks and Earth's magnetism. How they sense magnetism is still argued about.",
+   "description": "Some animals live in two homes, far apart. Each winter, bar-headed geese fly from Tibet, Mongolia and Central Asia over the Himalayas to Indian lakes. Amur falcons stop in Nagaland on their way from East Asia to southern Africa. Scientists agree that they travel to find food and good weather. How they find the way is less clear. Birds seem to use the Sun, the stars, smells, landmarks and Earth's magnetism. How they sense magnetism is still argued about.",
    "examples": [
     "Bar-headed geese fly over some of the highest mountains on Earth.",
     "Lakhs of Amur falcons rest near the Doyang reservoir in Nagaland every October and November.",
@@ -289,7 +289,7 @@
    "examples": [
     "Use binoculars, or sit at a window, to watch a nest.",
     "Never feed wild monkeys. It teaches them to grab food from people.",
-    "After the ant trail test, wipe up the sugar, so the ants go back to their usual food."
+    "After the ant trail test, wipe up the sugar and wipe the floor with a damp cloth, so the ants stop coming to that spot."
    ],
    "perspectives": [],
    "art": "A child watching a nest through binoculars from far away, with a dotted line showing the safe distance.",
@@ -328,7 +328,7 @@
   },
   {
    "text": "Watching animals quietly over a long time teaches us things that a quick look cannot.",
-   "evidence": "Jane Goodall's years of watching showed that chimpanzees make tools. Nobody had seen it on short visits."
+   "evidence": "Jane Goodall watched the same wild chimpanzees for months before she saw them make tools from twigs and grass stems. Until then, most scientists thought only humans made tools."
   }
  ],
  "challenging": [
@@ -393,7 +393,7 @@
    "hint": "Ants build cities too. Is an anthill natural?"
   },
   {
-   "q": "How does a bat know it is evening, deep inside a dark tree?",
+   "q": "How does a bat know it is evening, deep inside a dark cave?",
    "kind": "deep",
    "hint": "Think about the clock inside every body."
   },
@@ -590,7 +590,7 @@
      "say": "Your turn. Turn over two cards. If they match, tell us what the home is for. Eggs? Hiding? Keeping cool?",
      "kid": "Your turn. Turn two cards. If they match, say what the home is for.",
      "context": "This is the main part of Who Lives Here?, the animal homes memory game.",
-     "parent": "Good answers: the termite mound keeps the air cool and damp. The web is a trap and a resting place. The hornbill's sealed hole keeps the mother and chicks safe from snakes and monkeys."
+     "parent": "Good answers: the termite mound shelters the termites from heat and keeps the air inside damp and fresh. The web is a trap and a resting place. The hornbill's sealed hole keeps the mother and chicks safe from snakes and monkeys."
     },
     {
      "id": "s4",
@@ -726,14 +726,14 @@
      "say": "Next animal: fruit bat! Run! Now, who can tell me why bats come out in the evening?",
      "kid": "Listen to the next animal. Run to its shift. Then say why.",
      "context": "This is the main part of Day Shift, Night Shift, the game about when animals are busy.",
-     "parent": "Answers: day for crow, squirrel, butterfly, pigeon, honey bee, myna, kingfisher, rooster, bulbul. Night for owl, fruit bat, gecko, firefly, cockroach, jackal, moth, rat, night heron, earthworm (it comes up at night when the ground is damp). Dawn and dusk for mosquito, frog (many call at dusk), deer, tiger and leopard (they hunt at night and at dawn and dusk too, so both MOON and the line can be right). Accept good reasons."
+     "parent": "Answers: day for crow, squirrel, butterfly, pigeon, honey bee, myna, kingfisher, rooster and bulbul. Night for owl, fruit bat, gecko, firefly, cockroach, jackal, moth, rat, night heron and frog (most frogs call after dark). Earthworms are night animals too: they come up when the ground is cool and damp. Dawn and dusk for mosquito and deer. Tigers and leopards hunt at night and at dawn and dusk, so both MOON and the line can be right. Accept good reasons."
     },
     {
      "id": "s4",
      "mins": 2,
      "do": "Stop and ask the big question.",
-     "say": "Why would an animal choose the night? Think of food, heat and enemies.",
-     "kid": "Why would an animal work at night? Tap the best reason.",
+     "say": "Many animals rest at noon and are busy at dawn and dusk. Why do you think that is? Think of heat, light and enemies.",
+     "kid": "Why are many animals busy at dawn and dusk? Tap the best reason.",
      "context": "This step of Day Shift, Night Shift asks why animals choose a time to be busy.",
      "check": {
       "t": "mcq",
@@ -744,7 +744,7 @@
        "They are scared of the Sun."
       ],
       "a": 0,
-      "why": "In India the noon sun is fierce. Running around then wastes water and energy. Dawn and dusk are cooler, and there is still a little light to see by. Picking 'cannot see in daylight' is true only for a few animals. Most dawn-and-dusk animals see well in the day."
+      "why": "In India the noon sun is fierce. Moving about in that heat makes an animal lose water and tire quickly. Dawn and dusk are cooler, and there is still a little light to see by. Picking 'cannot see in daylight' is true only for a few animals. Most dawn-and-dusk animals see well in the day."
      }
     }
    ]
@@ -934,7 +934,7 @@
      "qty": 1
     },
     {
-     "item": "soil in the sun and soil in the shade: two big flower pots work, one on a sunny balcony and one in the shade, or a garden bed if you have one",
+     "item": "soil in the sun and soil in the shade: the two biggest flower pots you have work, one on a sunny balcony and one in the shade, or a garden bed if you have one",
      "qty": 1
     },
     {
@@ -999,7 +999,7 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "In the sunny soil, dig a small hole about as deep as your hand is long. Push the thermometer inside. Cover the opening loosely with a leaf. Wait 5 minutes, then read it.",
+     "do": "In the sunny pot or soil, dig a small hole about as deep as your hand is long. Push the thermometer inside. Cover the opening loosely with a leaf. Wait 5 minutes, then read it.",
      "say": "This hole is like a little burrow. Let's see how warm it is inside.",
      "kid": "Dig a small hole, a hand deep. Put the thermometer in. Wait 5 minutes. Read it.",
      "context": "This step of the Cool Home Test measures the temperature inside a small hole, like an animal's burrow.",
@@ -1042,7 +1042,7 @@
    ],
    "materials": [
     {
-     "item": "a pinch of sugar or a crumb of jaggery",
+     "item": "a pinch of sugar, or a drop of honey",
      "qty": 1
     },
     {
@@ -1062,7 +1062,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use small black or brown house ants. Keep away from big red ants, because they bite. Wash your hands after rubbing the floor.",
+   "safety": "Use small black or brown house ants. Do not use red ants, big or small, because they bite or sting. Wash your hands after rubbing the floor.",
    "schedule": [
     {
      "day": 1,
@@ -1094,12 +1094,12 @@
      "say": "Look, the ants walk in a line, one behind another. How do you think they all know the way to the sugar?",
      "kid": "Look at the line of ants. How do they all know the way?",
      "context": "This is the first step of the Ant Trail Test. You set out sugar and wait for a line of ants.",
-     "parent": "Ants usually find sugar within an hour in Indian homes, often much sooner. Kitchen floors, window sills and balconies are good places. If no ants come, leave the sugar out overnight, or try the stairs or the bottom of an outside wall. Fast, long-legged ants that run about wildly follow trails less closely. Small, slow black ants walking in a neat line work best."
+     "parent": "Ants usually find sugar within an hour, often much sooner, but only where ants already come. So first look for ants: on the kitchen floor, along counter edges, on window sills, the balcony or the stairs. Ants are slower in cold weather, so try on a warm afternoon. If no ants come, leave the sugar out overnight and look in the morning. You can also try the stairs or the bottom of an outside wall of your building. Fast, long-legged ants that run about wildly follow trails loosely. Small black or brown ants walking in a neat line work best."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Choose one spot on the trail, about a hand away from the sugar. Count the ants that walk past it in 1 minute. Write the number.",
+     "do": "Choose one spot where the ants walk in a neat, thin line, at least a hand away from the sugar. Count the ants that walk past it in 1 minute. Write the number.",
      "say": "Let's count how many ants walk past this spot in one minute. Then we will know what the trail is like before we change anything.",
      "kid": "Pick one spot on the trail. Count the ants that pass it in 1 minute.",
      "context": "This step of the Ant Trail Test counts the ants on the trail before anything is changed.",
@@ -1117,7 +1117,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Hold one finger just above the trail at the spot, without touching the floor, for 10 seconds. Then count the ants passing the spot for 1 minute.",
+     "do": "Hold one finger just above the trail at the spot, without touching the floor, for 10 seconds. Keep it still, and do not breathe on the ants. Then count the ants passing the spot for 1 minute.",
      "say": "First I hold my finger just above the trail, without touching. Do the ants stop? Let's count them for one minute.",
      "kid": "Hold your finger just above the ants. Do not touch. Count them for 1 minute.",
      "context": "This step of the Ant Trail Test checks whether a hand above the trail, and its shadow, change what the ants do.",
@@ -1126,11 +1126,11 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Rub one finger firmly across the trail at the spot, making a strip about two fingers wide. Watch the strip closely. Count the ants crossing it in the first minute, and again in the third minute.",
+     "do": "Rub one finger firmly back and forth across the trail at the spot, three or four times. Make a strip about two fingers wide. Watch the strip from the moment you lift your finger. Count the ants crossing it in the first minute, and again in the third minute.",
      "say": "Now I rub my finger across the floor where the ants walk. Watch the strip closely. What do the ants do when they reach it?",
      "kid": "Rub your finger across the trail. Watch the ants at that spot. What do they do?",
      "context": "This step of the Ant Trail Test is the real test. You rub away a short piece of the ants' path and watch what happens.",
-     "parent": "Expect the ants to stop at the strip, wave their feelers, turn back or wander in circles. Within a few minutes a few ants cross, and soon the line forms again. If you have time, try once more with a clean dry tissue instead of your finger. If the ants stop then too, your finger's own smell was not the reason.",
+     "parent": "Watch closely in the first few seconds, because the pause can be short. Expect the ants to stop at the strip, wave their feelers, turn back or wander in circles. Within a minute or two a few ants cross, and soon the line forms again. If the ants hardly pause, rub harder, make the strip about four fingers wide, and try again. If you have time, try once more with a clean dry tissue instead of your finger. If the ants stop then too, your finger's own smell was not the reason.",
      "check": {
       "t": "mcq",
       "q": "Before rubbing, 12 ants crossed the spot in one minute. With a hand above, 11 crossed. In the first minute after rubbing, only 2 crossed. What is the best explanation?",
@@ -1150,7 +1150,7 @@
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think the ants did that?",
      "kid": "Say three things. What I think. What I saw. Why. Then wipe up the sugar.",
      "context": "This is the last step of the Ant Trail Test. You say your claim, your evidence and your reasoning, then tidy up.",
-     "parent": "A good answer: What I think: ants find their way by following a smell on the floor. What I saw: the ants walked on when my hand was above them, but stopped and wandered where I rubbed the floor. After a few minutes the line came back. Why: rubbing wiped away their smell trail, and new ants laid it again. This is why ants use the same path day after day. Wipe up the sugar afterwards so the ants go back to their usual food."
+     "parent": "A good answer: What I think: ants find their way by following a smell on the floor. What I saw: the ants walked on when my hand was above them, but stopped and wandered where I rubbed the floor. After a few minutes the line came back. Why: rubbing wiped away their smell trail, and new ants laid it again. This is how a whole line of ants keeps to one path. Afterwards, wipe up the sugar and wipe the floor with a damp cloth, so the ants stop coming to that spot."
     }
    ]
   }
@@ -1418,7 +1418,7 @@
      "qty": 1
     },
     {
-     "item": "a small ball or a pebble, as the egg",
+     "item": "a marble, a small lemon or a small ball, as the egg",
      "qty": 1
     }
    ],
@@ -1467,7 +1467,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Put the pebble egg in. Tip the bowl gently.",
+     "do": "Put the egg in. Tip the bowl gently.",
      "say": "Let's test it. Put the egg in, and tip the nest a little, like a branch in the wind.",
      "kid": "Put your egg in. Tip the nest gently. Does the egg stay in?",
      "context": "This is the testing step of Build a Nest with a Beak.",
@@ -1480,7 +1480,7 @@
        "Wire keeps the eggs warm."
       ],
       "a": 0,
-      "why": "Birds build with what they find nearby. In cities there is plenty of wire, and it bends round a branch and stays put. Picking 'prefer metal' goes too far. Crows in villages use twigs. Picking 'keeps eggs warm' is not right, because wire does not hold warmth well. Soft lining does that."
+      "why": "Birds build with what they find nearby. In cities there is plenty of wire, and it bends round a branch and stays put. Picking 'prefer metal' goes too far. Crows in villages use twigs. Picking 'keeps eggs warm' is not right, because wire does not keep heat in. Soft lining does that."
      }
     },
     {
@@ -2018,7 +2018,7 @@
      "a": [
       "burrow"
      ],
-     "why": "Rats, porcupines, crabs and many snakes use burrows. They stay cool in the day."
+     "why": "Rats, porcupines, crabs and many snakes use burrows. Burrows stay cool in the day."
     },
     {
      "t": "match",
@@ -2250,7 +2250,7 @@
       ],
       [
        "Rat",
-       "food and dry drains"
+       "food scraps, and shelter in drains"
       ]
      ],
      "a": "pairs as given",
@@ -2295,10 +2295,10 @@
       "A fan the termites build",
       "The walls warming in the day and cooling at night",
       "Rain only",
-      "The termites blowing"
+      "The termites' own body warmth"
      ],
      "a": 1,
-     "why": "Scientists found that the mound's outer walls warm and cool faster than its middle as day turns to night. That moves the air. Picking 'termites blowing' is an older idea, that their own heat moves the air."
+     "why": "Scientists found that the mound's outer walls warm up and cool down faster than its middle, as day turns to night. That moves the air. Picking 'body warmth' is the older idea, which the measurements did not support for these mounds."
     },
     {
      "t": "truefalse",
@@ -2356,7 +2356,7 @@
      "t": "mcq",
      "p": "Why might city birds sing higher notes than birds in quiet woods?",
      "opts": [
-      "So their songs can be heard over low traffic noise",
+      "So their songs can be heard over the low rumble of traffic",
       "Because city air is thinner",
       "Because they are smaller",
       "Because cities have more trees"
@@ -2903,8 +2903,8 @@
    "a": "It liked the tunnel vision."
   },
   {
-   "j": "What do you call a sleeping tiger?",
-   "a": "A purr-fect reason to walk quietly."
+   "j": "Why does a tiger never need a house key?",
+   "a": "It has no fixed home. It naps wherever it likes."
   },
   {
    "j": "Why did the hornbill seal her door with mud?",
@@ -3284,13 +3284,13 @@
  "roots": {
   "context": "We have been watching the animals around us: when they are busy, where they live, and how ants keep to one path. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "An ant that has never been to the sugar can still find it. It follows the scent that other ants left on the floor, and adds its own. Rub the scent away and the path is lost until ants lay it again. So part of what the ants know is kept on the floor they share, not only inside each ant.",
+   "truth": "An ant that has never been to the sugar can still find it. It follows the scent that other ants left on the floor. Rub the scent away and the path is lost until ants lay it again. So part of what the ants know is kept on the floor they share, not only inside each ant.",
    "habit": "We think whatever an animal knows must be stored inside its own head. An ant trail shows a colony keeping its way to food outside any one body, on the ground, where every ant can follow it and add to it.",
    "evidence": "In the Ant Trail Test, ants walked on under a hand held above the trail, but stopped and wandered where the floor was rubbed. A few minutes later the line formed again."
   },
   "three": {
    "who_am_i": "You are an animal too. You have habits, a home and a body clock, like the crow outside.",
-   "what_is_life": "Life keeps making homes from whatever is near: twigs, mud, wax, silk, and even our lost hair clips.",
+   "what_is_life": "Living things make homes from what is near, like twigs and mud, and from what their bodies make, like wax and silk. City crows even use our lost hair clips.",
    "what_is_this_world": "The world is one big shared home. Every wall, tree and drain is somebody's house."
   },
   "thread": "The crows' nest in the story was made of a neem tree, a family's lost wire and two crows' work. An ant trail is made by hundreds of ants, each adding a little scent. Neither belongs to one maker. DeepKids believes one awareness runs through the whole world and shows itself in countless separate lives. A nest or a trail is a small, real picture of that: many lives making one thing together.",
@@ -3323,7 +3323,7 @@
   ],
   "other_view": {
    "who": "René Descartes, a French philosopher, and many scientists today",
-   "view": "Descartes wrote in 1637 that animals work like machines, without thought. Many scientists today would say an ant trail is only chemistry: each ant reacts to a smell, and nothing in the trail knows anything. This is an honest view held by many thoughtful people."
+   "view": "Descartes wrote in 1637 that animals work like machines, without thought. Many scientists today would say an ant trail is only chemistry: each ant reacts to a smell, and nothing in the trail knows anything."
   },
   "practice": {
    "title": "Count the neighbours",
