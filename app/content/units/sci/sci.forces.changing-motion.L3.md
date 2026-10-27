@@ -504,7 +504,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **safety:** Only a grown-up holds the laser. Never point it at anyone's eyes, and never look into the beam or its reflection. Use a toy-strength laser pointer.
 - **record:** Draw the table, the mirror, the beam and the dot on the wall. Mark how far the dot moved.
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. Lay the mirror flat in the middle of a table that is at least 2 metres from a wall. 2. A grown-up props the laser on books on a chair beside the table, not on the table, so pressing the table cannot move it. 3. Aim it at the mirror and find the red dot on the wall. 4. Stick a strip of tape on the wall, with its edge exactly at the dot.  
+  *Parent does:* 1. Lay the mirror flat in the middle of a table that is at least 2 metres from a wall. 2. A grown-up props the laser on books on a chair beside the table. Keep it off the table, so pressing the table cannot move it. 3. Aim it at the mirror and find the red dot on the wall. 4. Stick a strip of tape on the wall, with its edge exactly at the dot.  
   *Parent says:* Does a solid table change shape when you press it? We can't see it. Let's use a beam of light to find out.  
   *Child mode:* Does a hard table change shape when you press it? Ask a grown-up to set up the laser. Find the dot on the wall.
   - Note: No laser pointer at home? They are cheap at stationery and electronics shops. If you don't have one, skip this activity. The wet ball prints test shows a hidden squash too.
