@@ -4,9 +4,9 @@
  "subj": "sci",
  "level": 3,
  "n": "the-universe-sun-moon-stars-and-planets",
- "title": "Our star, our Moon and the wanderers",
+ "title": "The Sun, the Moon, the stars and the planets",
  "source": "DeepKids Combined. Covers NIOS Class 3, Lesson 6 'Sun-Moon-Stars, Day-Night and Seasons' (Sun, Moon and stars; stars and planets; the Sun and its planets; day and night; seasons). No textbook needed.",
- "summary": "Your child finds out that the Sun is a star and the stars are suns, so far away that they look like pinpricks. They walk a scale model of the Sun's family of eight planets, make the Moon's phases with a ball and a lamp, find the Saptarishi and the Pole Star, and use a ball, a torch and a slanted pencil to see where day and night, years and seasons really come from.",
+ "summary": "The Sun is a star, and every star you see at night is a sun, so far away that it looks like a dot. Your child walks a scale model of the Sun and its eight planets, makes the Moon's phases with a ball and a lamp, and finds the Saptarishi and the Pole Star. With a ball, a torch and a tilted pencil, they see what really causes day and night, the year and the seasons.",
  "builds_on": "In Class 2 (Day, night and rhythms of nature) your child tracked the Sun's walk across the sky and learned that the Earth turns. Next, in Class 4, they will keep a month-long Moon diary, read shadows like a clock and learn how the Sun lights up planets, moons and comets. In Class 5 they will draw latitude and longitude, explain time zones and learn about satellites.",
  "goals": [
   "By the end your child can explain that the Sun is a star, and why the other stars look so small.",
@@ -93,25 +93,25 @@
      "kind": "warmup",
      "title": "The Sun's walk, remembered",
      "mins": 7,
-     "do": "Ask: 'In Class 2 we watched the Sun walk across the sky. Where does it rise? Where does it set? Does it really move?' Good answers: 'east', 'west', 'no, the Earth turns'. If your child did not do the Class 2 rung, spin on the spot in front of a lamp for one minute to show sunrise and sunset."
+     "do": "Ask: 'In Class 2 we watched the Sun move across the sky. Where does it rise? Where does it set? Does it really move?' Good answers: 'in the east', 'in the west', 'no, the Earth turns'. If your child did not do the Class 2 rung, they turn slowly on the spot in front of a lamp to see the lamp 'rise' and 'set'."
     },
     {
      "kind": "talk",
      "title": "Everything in the sky",
      "mins": 8,
-     "do": "Ask your child to list everything they have ever seen in the sky, day or night. Write each on a slip of paper: Sun, Moon, stars, clouds, birds, aeroplanes, lightning, rainbow, a 'bright star' that doesn't twinkle (often a planet). Sort them together into 'in our air' and 'out in space'. Ask: 'Which of the space things make their own light?' Leave the answer open."
+     "do": "Ask your child to name everything they have ever seen in the sky, by day or night. Write each on a slip of paper: Sun, Moon, stars, clouds, birds, aeroplanes, lightning, rainbow, a bright dot that does not twinkle (often a planet). Sort the slips together into 'in our air' and 'out in space'. Ask: 'Which of the space things make their own light? Why do you think so?' Leave the answer open for now."
     },
     {
      "kind": "read",
      "title": "Story: The Firefly Who Wanted to Be a Star",
      "mins": 12,
-     "do": "Read the story aloud slowly. Stop after Tara the firefly gets tired at the top of the jamun tree and ask: 'Why do you think she could not reach the stars?' Finish and ask the story questions."
+     "do": "Read the story aloud. Stop when Tara the firefly reaches the top of the jamun tree and ask: 'Why do you think she came no closer to the stars?' Finish the story and ask the story questions."
     },
     {
      "kind": "outdoor",
      "title": "Dusk sky watch",
      "mins": 10,
-     "do": "At dusk, go to a roof, balcony or field away from bright lights. Look west where the Sun set. Ask: 'What is the first bright dot you see?' Often it is a planet (Venus or Jupiter): it shines steadily while stars twinkle. Count stars as they appear for 5 minutes. Note what you see on the first page of the project sky book."
+     "do": "At dusk, go to a terrace, balcony or open ground away from bright lights. Look west, where the Sun set. Ask: 'What is the first bright dot you see?' Often it is a planet, Venus or Jupiter. A planet shines steadily, while stars twinkle. Count the stars as they appear for 5 minutes. Write what you saw on the first page of the sky book."
     },
     {
      "kind": "review",
@@ -135,7 +135,7 @@
      "kind": "warmup",
      "title": "Last night's sky",
      "mins": 5,
-     "do": "Look at last night's notes. Ask: 'Did all the dots twinkle? Did any shine steadily?' Say: 'Stars twinkle because their tiny point of light is shaken about by our moving air. Planets look like tiny discs, so they wobble less.'"
+     "do": "Look at last night's notes. Ask: 'Did all the dots twinkle? Did any shine steadily?' Say: 'A star is so far away that its light comes from a single tiny point. Our moving air shakes that point about, so it twinkles. A planet is nearer and looks like a tiny disc, so it twinkles less.'"
     },
     {
      "kind": "exp",
@@ -148,32 +148,32 @@
      "kind": "talk",
      "title": "How big is the Sun?",
      "mins": 9,
-     "do": "Tell your child: 'The Sun is so big that about 109 Earths would fit across it, and more than a million Earths could fit inside it. It looks small only because it is about 15 crore kilometres away. A car going at 100 km an hour, never stopping, would take about 170 years to get there.' Show this: put a mustard seed (the Earth) next to a big pumpkin or a football (the Sun). Ask: 'If the Sun is a star, what are the stars?' Good answer: 'Suns, very far away.'"
+     "do": "Say: 'About 109 Earths would fit across the Sun, and more than a million Earths would fit inside it. It looks small only because it is about 15 crore kilometres away. A car going at 100 kilometres an hour without stopping would take about 170 years to get there.' Put a mustard seed (the Earth) next to a football (the Sun) to show the sizes. Ask: 'If the Sun is a star, what are the stars?' Good answer: 'suns, very far away'."
     },
     {
      "kind": "do",
      "title": "Light makers and light bouncers",
      "mins": 6,
-     "do": "In a dark room, shine a torch on a steel plate, a mirror and a dull cloth. Ask: 'Is the plate making light or bouncing it?' Say: 'The Sun and the stars make their own light. The Moon and the planets are like the steel plate: they shine only because sunlight bounces off them.' Add both to the sky book."
+     "do": "In a dark room, shine a torch on a steel plate, a mirror and a dull cloth. Ask: 'Is the plate making light, or is the light bouncing off it?' Say: 'The Sun and the stars make their own light. The Moon and the planets are like the steel plate. They shine only because sunlight bounces off them. This is called reflecting light.' Add both to the sky book."
     },
     {
      "kind": "talk",
      "title": "Stars come in colours",
      "mins": 6,
-     "do": "Tell your child about Voice v4, Annie Jump Cannon, who sorted hundreds of thousands of stars by their light. Say: 'Stars are not all white. Blue-white stars are the hottest, our yellow Sun is in the middle, and orange-red stars are the coolest.' On a clear night look for orange Betelgeuse and blue-white Rigel in Orion (winter evenings). Ask the voice question.",
+     "do": "Tell your child about voice v4, Annie Jump Cannon, who sorted hundreds of thousands of stars by their light. Say: 'Stars are not all white. Blue-white stars are the hottest, yellow stars like our Sun are in the middle, and orange-red stars are the coolest.' On a clear winter evening, look for orange Betelgeuse and blue-white Rigel in the star pattern called Orion. Ask the voice question.",
      "ref": "v4"
     },
     {
      "kind": "review",
      "title": "Never look at the Sun",
      "mins": 2,
-     "do": "Ask your child to say the safety rule from Class 2: never look straight at the Sun, not even with sunglasses or a telescope."
+     "do": "Ask your child to say the safety rule: never look straight at the Sun, not even with sunglasses, binoculars or a telescope."
     }
    ],
    "need": [
     "two identical torches",
     "a helper",
-    "a mustard seed and a football or pumpkin",
+    "a mustard seed and a football",
     "a steel plate, a mirror and a cloth"
    ]
   },
@@ -186,39 +186,39 @@
      "kind": "warmup",
      "title": "Planet names",
      "mins": 5,
-     "do": "Teach the order with this line: 'My Very Educated Mother Just Served Us Noodles' for Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Say it together three times."
+     "do": "Teach the order of the planets with this line: 'My Very Educated Mother Just Served Us Noodles'. The first letters stand for Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Say it together three times."
     },
     {
      "kind": "act",
      "title": "The planet walk",
      "mins": 20,
-     "do": "Do Activity a1, the scale walk, outdoors or along a long corridor.",
+     "do": "Do Activity a1, the planet walk, on a terrace, in a ground or along a quiet road. In a flat, use the smaller version in the activity.",
      "ref": "a1"
     },
     {
      "kind": "talk",
      "title": "Rocky and giant",
      "mins": 5,
-     "do": "Ask: 'Which planets were tiny and close together near the Sun?' (Mercury, Venus, Earth, Mars.) Say: 'These four are rocky, with hard ground. The next four are giants made mostly of gas and ice, with no ground to stand on. Jupiter is so big that about 1,300 Earths would fit inside.'"
+     "do": "Ask: 'Which planets were tiny and close together near the Sun?' (Mercury, Venus, Earth, Mars). Say: 'These four are rocky, with hard ground. The next four are giants, made mostly of gas and ice, with no ground to stand on. About 1,300 Earths would fit inside Jupiter.'"
     },
     {
      "kind": "talk",
      "title": "Is Pluto a planet?",
      "mins": 8,
-     "do": "Read Voice v1 together. Lay out the evidence: Pluto is smaller than our Moon, and many similar icy worlds have been found beyond Neptune. Ask the voice question and let your child vote with a reason.",
+     "do": "Read voice v1 together. Lay out the facts: Pluto is smaller than our Moon, and many similar icy worlds have been found beyond Neptune. Ask the voice question and let your child vote, with a reason.",
      "ref": "v1"
     },
     {
      "kind": "act",
      "title": "Planet music",
      "mins": 4,
-     "do": "Play two short pieces from Gustav Holst's orchestra suite The Planets (1914–1916): 'Mars, the Bringer of War' and 'Jupiter, the Bringer of Jollity'. Ask: 'Which one sounds like a giant? Why do you think Holst made Mars sound like that?' (Mars is red, the colour of war in old stories.) Holst wrote no piece for the Earth. Ask: 'What would the Earth's music sound like?'"
+     "do": "Play two short pieces from The Planets, written for orchestra by Gustav Holst between 1914 and 1916: 'Mars, the Bringer of War' and 'Jupiter, the Bringer of Jollity'. Ask: 'Which one sounds like a giant? Why do you think so?' Say: 'Mars is named after the Roman god of war, perhaps because of its blood-red colour.' Holst wrote no piece for the Earth. Ask: 'What would the Earth's music sound like?'"
     }
    ],
    "need": [
     "a measuring tape or long rope",
     "9 paper labels for the Sun and the planets",
-    "a mustard seed, peppercorns, a chana, a small lemon, a lime, two marbles"
+    "rava grains, two mustard seeds, two marbles, two chana and a football"
    ]
   },
   {
@@ -236,20 +236,20 @@
      "kind": "exp",
      "title": "Ball-and-lamp Moon",
      "mins": 18,
-     "do": "Say: 'The Moon is Earth's satellite: it goes round us about once a month.' Then do Experiment e2 in a dark room. Your child turns with the ball and names each shape they see; draw the four main shapes in the sky book.",
+     "do": "Say: 'The Moon is the Earth's satellite. That means it goes round the Earth, about once a month.' Then do Experiment e2 in a dark room. Your child turns with the ball and names each shape they see. Draw the four main shapes in the sky book.",
      "ref": "e2"
     },
     {
      "kind": "talk",
      "title": "Shukla Paksha and Krishna Paksha",
      "mins": 7,
-     "do": "Say: 'Indian calendars have counted the Moon for thousands of years. The bright half, Shukla Paksha, is the 15 days when the lit part grows from Amavasya (new Moon) to Purnima (full Moon). The dark half, Krishna Paksha, is when it shrinks again.' Ask: 'Which festivals fall on a full Moon or a new Moon?' (Diwali on Amavasya; Guru Purnima, Buddha Purnima and Holi on a full Moon; Eid begins when the new crescent is seen.)"
+     "do": "Say: 'Indian calendars have followed the Moon for thousands of years. Shukla Paksha, the bright half, is the 15 days when the lit part grows, from Amavasya (new Moon) to Purnima (full Moon). Krishna Paksha, the dark half, is the 15 days when it shrinks again.' Ask: 'Which festivals fall on a full Moon or a new Moon?' (Karthigai Deepam, Chitra Pournami, Buddha Purnima and Holi fall on a full Moon. The main night of Diwali, Lakshmi Puja, is on Amavasya. Eid begins when the first thin crescent is seen.)"
     },
     {
      "kind": "talk",
      "title": "Galileo looks up",
      "mins": 8,
-     "do": "Tell your child about Voice v2, Galileo, who pointed a telescope at the Moon and Jupiter in 1609–1610. Ask the voice question.",
+     "do": "Tell your child about voice v2, Galileo, who pointed a telescope at the Moon and Jupiter in 1609 and 1610. Ask the voice question.",
      "ref": "v2"
     },
     {
@@ -274,39 +274,39 @@
      "kind": "warmup",
      "title": "Join the dots",
      "mins": 4,
-     "do": "Scatter dots on a page and ask your child to join some into a picture. Say: 'People everywhere have done this with stars. The pictures are ours; the stars don't know they are in them.'"
+     "do": "Scatter dots on a page and ask your child to join some into a picture. Say: 'People everywhere have done this with the stars. The stars in a pattern only look close together from Earth. Many are at very different distances. The pictures were made by people, not by the stars.'"
     },
     {
      "kind": "talk",
      "title": "What are stars made of?",
      "mins": 9,
-     "do": "Tell your child about Voice v3, Cecilia Payne, who found in 1925 that stars are made mostly of hydrogen and helium. Ask the voice question.",
+     "do": "Tell your child about voice v3, Cecilia Payne, who found in 1925 that stars are made mostly of hydrogen and helium. Ask the voice question.",
      "ref": "v3"
     },
     {
      "kind": "act",
      "title": "Star-pattern viewer",
      "mins": 8,
-     "do": "Do Activity a2: make a star viewer of the Saptarishi with a paper cup and a pin. Shine a torch through it onto the ceiling.",
+     "do": "Do Activity a2: make a Saptarishi star viewer with a paper cup and a pin. Shine a torch through it onto the ceiling.",
      "ref": "a2"
     },
     {
      "kind": "outdoor",
      "title": "Find the Saptarishi and Dhruva Tara",
      "mins": 10,
-     "do": "After dark, ideally between February and June, look north. Find the seven bright stars of the Saptarishi shaped like a ladle (the Big Dipper). The two stars at the end of the ladle point to Dhruva Tara, the Pole Star, which stays almost still all night while other stars wheel round it. If you live in a city, count how many stars you can see in the ladle's bowl. Say: 'Bright lights on Earth hide the stars. More than a third of people on Earth can no longer see the Milky Way from home.'"
+     "do": "After dark, best between February and June, look north. Find the seven bright stars of the Saptarishi, shaped like a ladle (also called the Big Dipper). The two stars at the front of the ladle's bowl point to Dhruva Tara, the Pole Star. It stays almost still all night while the other stars move round it. In South India it sits low, just above the northern horizon, so you need a clear view north. Say: 'Bright lights on Earth hide the stars. More than a third of people on Earth can no longer see the Milky Way from home.'"
     },
     {
      "kind": "review",
      "title": "A star-stuff thought",
      "mins": 3,
-     "do": "Say: 'Stars make new materials inside them. Some of the iron in your blood was made inside stars that exploded before the Sun was born.' Ask: 'What do you feel when you hear that?'"
+     "do": "Say: 'Stars make new materials inside them. Some of the iron in your blood was made inside stars that exploded before the Sun was born.' Ask: 'What do you think about that?'"
     },
     {
      "kind": "act",
      "title": "Paint the cities of stars",
      "mins": 5,
-     "do": "Say: 'The Milky Way is our galaxy, a city of more than a hundred billion stars. There are billions of other galaxies, and they come in shapes: spirals like pinwheels (ours is one), smooth round or egg-shaped ellipticals, and messy irregular ones.' Your child paints or draws one of each on black paper with white and blue paint or chalk, with a tiny dot in the spiral's arm labelled 'we are here'."
+     "do": "Say: 'The Milky Way is our galaxy, a huge group of more than a hundred billion stars. There are billions of other galaxies. Some are spirals like pinwheels (ours is one). Some are smooth and round or egg-shaped. Some are irregular, with no clear shape.' Your child draws one of each on black paper with white chalk, and puts a tiny dot in an arm of the spiral labelled 'we are here'."
     }
    ],
    "need": [
@@ -325,26 +325,26 @@
      "kind": "warmup",
      "title": "Spin or journey?",
      "mins": 5,
-     "do": "Stand up. Spin on the spot once: 'rotation'. Walk once round a chair: 'revolution'. Ask your child to do each and say its name."
+     "do": "Stand up. Spin on the spot once and say 'rotation'. Walk once round a chair and say 'revolution'. Your child does each and says its name."
     },
     {
      "kind": "exp",
      "title": "A tiny India on a ball",
      "mins": 17,
-     "do": "Do Experiment e3. Stick a tiny paper India on a ball, shine the lamp, and spin the ball anticlockwise (seen from above). Ask your child to call out sunrise, noon, sunset and midnight for India. Then ask: 'Where is it night when it is day in India?' (The other side of the ball, like the USA.)",
+     "do": "Do Experiment e3. Stick a tiny paper India on a ball, shine the lamp on it, and spin the ball anticlockwise as seen from the top. Your child calls out sunrise, noon, sunset and midnight for India. Ask: 'When it is day in India, where is it night?' (on the other side of the ball, for example in the USA).",
      "ref": "e3"
     },
     {
      "kind": "act",
      "title": "Walk the orbit",
      "mins": 10,
-     "do": "Put the lamp in the middle of the room. Your child holds the ball and walks slowly round the lamp in a big circle, spinning the ball as they go. Say: 'The Earth spins about 365 times while it goes round once. That is why a year has 365 days.' Ask: 'How old are you? Then how many times have you gone round the Sun?'"
+     "do": "Put the lamp in the middle of the room. Your child holds the ball and walks slowly round the lamp in a big circle, spinning the ball as they go. Say: 'The Earth spins about 365 times while it goes round the Sun once. That is why a year has 365 days.' Ask: 'How old are you? So how many times have you gone round the Sun?'"
     },
     {
      "kind": "ws",
      "title": "Core worksheet",
      "mins": 8,
-     "do": "Your child does the core worksheet ws1. Help with reading; let them reason the 'why' items aloud before writing.",
+     "do": "Your child does the core worksheet ws1. Help with reading. For the 'why' questions, they explain aloud before writing.",
      "ref": "ws1"
     }
    ],
@@ -365,13 +365,13 @@
      "kind": "warmup",
      "title": "Hot and cold",
      "mins": 4,
-     "do": "Ask: 'Why do you think May is hotter than January in North India?' Most people say 'because we are nearer the Sun'. Write down your child's idea. Say: 'Let's test it.'"
+     "do": "Ask: 'Why do you think May is hotter than January in Chennai?' Many people say 'because the Earth is nearer the Sun'. Write down your child's idea and their reason. Say: 'Let's test it.'"
     },
     {
      "kind": "act",
      "title": "Season dance",
      "mins": 5,
-     "do": "Your child is the Earth, holding a pencil tilted towards one wall of the room as their axis. Walk round a lamp in four steps. At each step, play music and your child dances that season: spring (slowly growing, arms rising), summer (big, bright, wide), the monsoon (swaying, pattering fingers), winter (small, still, curled). Ask: 'Did the pencil change which way it leaned?' (No: it always leans the same way. That is the secret of seasons.)"
+     "do": "Your child is the Earth. They hold a pencil, tilted towards one wall of the room, as their axis (the line the Earth spins around). They walk round a lamp in four steps. At each step, play music and your child dances that season: spring (arms slowly rising), summer (big and wide), monsoon (swaying, fingers pattering like rain), winter (small and curled). Ask: 'Did the pencil change which way it leaned?' (no, it always leaned towards the same wall). Say: 'Keep that in mind. It is why we have seasons, and the next test shows how.'"
     },
     {
      "kind": "exp",
@@ -384,13 +384,13 @@
      "kind": "talk",
      "title": "The tilted Earth",
      "mins": 10,
-     "do": "Push a pencil through the ball at a slant and walk it round the lamp, keeping the pencil always leaning the same way (towards one wall of the room). Ask your child to watch the top half. Ask: 'When is the top half leaning towards the lamp? When away?' Say: 'When our half leans towards the Sun, sunlight hits us more straight on and the days are longer: summer. When it leans away: winter. The Earth is actually nearest the Sun in early January, during our winter!'"
+     "do": "Push a pencil through the ball at a slant. Walk it round the lamp, keeping the pencil always leaning towards the same wall. Your child watches the top half of the ball. Ask: 'When is the top half leaning towards the lamp? When is it leaning away?' Say: 'When our half of the Earth leans towards the Sun, sunlight hits us more directly and the days are longer. That is summer. When it leans away, it is winter. In fact the Earth is nearest the Sun in early January, during our winter.'"
     },
     {
      "kind": "ws",
      "title": "Stretch worksheet",
      "mins": 7,
-     "do": "Your child does the stretch worksheet ws2. Read the questions aloud; for the two written items, let them explain out loud first, then write.",
+     "do": "Your child does the stretch worksheet ws2. Read the questions aloud. For the two written questions, they explain aloud first, then write.",
      "ref": "ws2"
     }
    ],
@@ -411,14 +411,14 @@
      "kind": "game",
      "title": "Star, Planet or Moon?",
      "mins": 10,
-     "do": "Play the card game g1 together. Insist on a reason with each answer: 'It is a planet because it does not make its own light.'",
+     "do": "Play the card game g1 together. Each answer needs a reason, for example: 'It is a planet, because it does not make its own light.'",
      "ref": "g1"
     },
     {
      "kind": "ws",
      "title": "Challenge worksheet",
      "mins": 10,
-     "do": "Your child tries the challenge worksheet ws3. Talk through the puzzles; praise good reasons even when the answer is not right.",
+     "do": "Your child tries the challenge worksheet ws3. Talk through the puzzles. Praise a good reason even when the answer is wrong.",
      "ref": "ws3"
     },
     {
@@ -431,7 +431,7 @@
      "kind": "review",
      "title": "Teach it back with the sky book",
      "mins": 12,
-     "do": "Your child finishes the project sky book and uses it, with the ball and lamp, to teach a family member: the Sun is a star; the planets and the Moon reflect its light; the spin makes day and night; the journey makes a year; the tilt makes seasons. The listener asks one 'why' question."
+     "do": "Your child finishes the sky book. With the book, the ball and the lamp, they teach a family member: the Sun is a star, the planets and the Moon reflect its light, the Earth's spin makes day and night, its journey round the Sun makes a year, and its tilt makes the seasons. The listener asks one 'why' question."
     }
    ],
    "need": [
@@ -454,7 +454,7 @@
      [
       {
        "t": "sort",
-       "p": "Sort them.",
+       "p": "Does each one make its own light, or shine by reflecting light?",
        "items": [
         "the Sun",
         "the Moon",
@@ -502,7 +502,7 @@
       },
       {
        "t": "sort",
-       "p": "Rocky or giant?",
+       "p": "Is each planet rocky or a giant?",
        "items": [
         "Mercury",
         "Venus",
@@ -520,7 +520,7 @@
       },
       {
        "t": "match",
-       "p": "Match.",
+       "p": "Match each name to what it is.",
        "pairs": [
         [
          "the Moon",
@@ -547,7 +547,7 @@
      [
       {
        "t": "fill",
-       "p": "One spin of the Earth takes about ____ hours.",
+       "p": "One full spin of the Earth takes about ____ hours.",
        "a": [
         "24",
         "twenty-four"
@@ -600,7 +600,7 @@
       },
       {
        "t": "mcq",
-       "p": "When India has daytime, the USA, on the other side of the Earth, has...",
+       "p": "The USA is on the other side of the Earth from India. When India has daytime, what does the USA have?",
        "opts": [
         "daytime too",
         "night",
@@ -610,11 +610,11 @@
       },
       {
        "t": "mcq",
-       "p": "Sunlight that hits the ground at a slant...",
+       "p": "What happens to sunlight that hits the ground at a slant?",
        "opts": [
         "is spread out, so it warms less",
-        "is stronger",
-        "is the same as straight light"
+        "it is stronger",
+        "it is the same as straight light"
        ],
        "a": 0
       },
@@ -643,22 +643,22 @@
       },
       {
        "t": "mcq",
-       "p": "On Amavasya the Moon is...",
+       "p": "Amavasya is the new Moon night, when we cannot see the Moon. Where is the Moon then?",
        "opts": [
         "behind the Earth",
         "between the Earth and the Sun, with its lit side away from us",
-        "switched off"
+        "it has stopped shining"
        ],
        "a": 1
       },
       {
        "t": "write",
-       "p": "Your friend says it is hot in summer because the Earth is nearer the Sun. What would you tell them, and what is your evidence?",
+       "p": "Meenakshi says it is hot in summer because the Earth is nearer the Sun. What would you tell her, and what is your evidence?",
        "lines": 3
       },
       {
        "t": "write",
-       "p": "You are 8 years old. How many times have you travelled round the Sun? Explain.",
+       "p": "Karthik is 8 years old. How many times has he travelled round the Sun? Explain.",
        "lines": 2
       }
      ]
@@ -686,7 +686,7 @@
       },
       {
        "t": "mcq",
-       "p": "A bright dot in the west after sunset is not twinkling. It is most likely...",
+       "p": "After sunset you see a bright dot in the west. It is not twinkling. What is it most likely to be?",
        "opts": [
         "a star",
         "a planet",
@@ -696,7 +696,7 @@
       },
       {
        "t": "mcq",
-       "p": "Australia is on the bottom half of the Earth. When it is winter in Delhi, Australia has...",
+       "p": "Australia is in the bottom half of the Earth. In December it is winter in India. What season does Australia have in December?",
        "opts": [
         "winter too",
         "summer",
@@ -728,7 +728,7 @@
       },
       {
        "t": "sort",
-       "p": "Who would say 'night' is the busy time?",
+       "p": "Is each animal busy at night or in the day?",
        "items": [
         "owl",
         "firefly",
@@ -744,7 +744,7 @@
       },
       {
        "t": "write",
-       "p": "A dung beetle in Africa steers by the Milky Way. If city lights hide the Milky Way, what might happen to the beetle? Who decides how bright our nights should be?",
+       "p": "A dung beetle in Africa steers by the Milky Way at night. If city lights hide the Milky Way, what might happen to the beetle? Who should decide how bright our nights are?",
        "lines": 3
       }
      ]
@@ -764,14 +764,14 @@
     "a long corridor, terrace or field at dusk"
    ],
    "steps": [
-    "Switch both torches on. Your child holds one and you hold the other, side by side. Compare: the same.",
+    "Switch both torches on. You and your child each hold one, side by side. Compare them: they look the same.",
     "You walk 5 big steps away and point your torch at your child. Compare again.",
     "Walk 20 steps, then as far as you can.",
     "Each time, ask: 'Which looks bigger? Which looks brighter?'"
    ],
    "predict": "Ask: 'When I walk away, will my torch change? Will it look different?'",
    "observe": "The far torch looks smaller and dimmer, even though it is just as bright as the near one.",
-   "why": "The further away a light is, the more its light spreads out before it reaches your eye, so it looks fainter and smaller. The Sun is our nearest star; the next nearest is so far that its light takes more than four years to reach us. That is why stars, which are suns, look like tiny dots.",
+   "why": "The further away a light is, the more its light spreads out before it reaches your eye. So it looks fainter and smaller. The Sun is our nearest star. The next nearest star is so far away that its light takes more than four years to reach us. That is why stars, which are suns, look like tiny dots.",
    "safety": "Don't shine a torch straight into anyone's eyes from close up.",
    "time": "15 min"
   },
@@ -792,8 +792,8 @@
     "Stop at four places: ball towards the lamp, ball to the left, ball away from the lamp, ball to the right. Each time, ask: 'How much of the lit side can you see?'"
    ],
    "predict": "Ask: 'Will the ball always look the same? What will we see when it is between you and the lamp?'",
-   "observe": "Towards the lamp: the lit side faces away, the ball looks dark (new Moon). Side: half lit (half Moon). Away from the lamp: fully lit (full Moon). In between: crescents and gibbous shapes.",
-   "why": "Half of the Moon is always lit by the Sun, just as half the ball is always lit by the lamp. As the Moon goes round the Earth, about once every 29 and a half days, we see more or less of that lit half. The Moon is not being covered by the Earth's shadow; that happens only in an eclipse.",
+   "observe": "Ball towards the lamp: the lit side faces away and the ball looks dark (new Moon). Ball to one side: half lit (half Moon). Ball away from the lamp: fully lit (full Moon). In between, you see thin crescents and nearly full shapes.",
+   "why": "Half of the Moon is always lit by the Sun, just as half the ball is always lit by the lamp. The Moon goes round the Earth about once every 29 and a half days. As it goes, we see more or less of its lit half. The Earth's shadow does not cause the phases. It falls on the Moon only in an eclipse.",
    "safety": "Keep the lamp cord out of the way. Don't touch a hot bulb.",
    "time": "15 min"
   },
@@ -816,7 +816,7 @@
    ],
    "predict": "Ask: 'When will India have midday? When will it be midnight?'",
    "observe": "Half the ball is always lit (day) and half dark (night). As it spins, India moves into the light (sunrise), faces the lamp (noon), moves into the dark (sunset) and is opposite the lamp (midnight).",
-   "why": "The Earth spins once in about 24 hours. Only the half facing the Sun has day. The Sun does not move round us; we turn to face it and away again. This spin is called rotation.",
+   "why": "The Earth spins once in about 24 hours. Only the half facing the Sun has day. The Sun does not go round us. We turn to face it, and then away again. This spin is called rotation.",
    "safety": "Don't touch the hot bulb.",
    "time": "15 min"
   },
@@ -837,8 +837,8 @@
    ],
    "predict": "Ask: 'Will the slanting light make a bigger or smaller patch? Brighter or dimmer?'",
    "observe": "The straight beam makes a small, bright circle. The slanting beam makes a bigger, dimmer oval covering more squares.",
-   "why": "The same amount of light spread over more squares means less light, and less warmth, for each square. When our half of the Earth leans towards the Sun, sunlight hits us more straight on and days are longer, so it is summer. When we lean away, the light comes in at a slant and the days are short: winter. Distance from the Sun is not the cause.",
-   "safety": "",
+   "why": "The same amount of light spread over more squares gives less light, and less warmth, to each square. When our half of the Earth leans towards the Sun, sunlight hits us more directly and the days are longer, so it is summer. When it leans away, the light comes at a slant and the days are shorter: winter. Distance from the Sun is not the cause.",
+   "safety": "Do not shine the torch into anyone's eyes.",
    "time": "15 min"
   }
  ],
@@ -849,17 +849,17 @@
    "day": 3,
    "mins": 20,
    "need": [
-    "a measuring tape or counting big steps",
+    "big steps (each about 1 metre), or a measuring tape",
     "9 paper labels",
-    "a football (Sun), mustard seed (Mercury), peppercorn (Venus), peppercorn (Earth), a smaller seed (Mars), a lime (Jupiter), a smaller lime (Saturn), two chana or marbles (Uranus, Neptune)"
+    "a football (Sun), a rava grain (Mercury), a mustard seed (Venus), a mustard seed (Earth), a rava grain (Mars), a marble (Jupiter), a slightly smaller marble (Saturn), two chana (Uranus, Neptune)"
    ],
    "steps": [
-    "Put the football 'Sun' at the start.",
-    "Walk and place each planet at these big steps from the Sun: Mercury 10, Venus 19, Earth 26, Mars 40, Jupiter 135, Saturn 250, Uranus 500, Neptune 780. (If you run out of space, stop at Jupiter and point to how far the others would be: Neptune would be more than half a kilometre away.)",
-    "At each planet, say one thing about it: Venus is the hottest; Mars is red with rust; Saturn has rings; Neptune is windy and blue.",
-    "Stand at Earth and look back at the football. Ask: 'Is space crowded or empty?'"
+    "Put the football 'Sun' at the start. Put each planet on a paper label so it does not get lost.",
+    "Walk and place each planet this many big steps from the Sun: Mercury 10, Venus 19, Earth 26, Mars 40, Jupiter 135, Saturn 250, Uranus 500, Neptune 780. If you run out of space, stop at Jupiter. Point out that Neptune would be more than half a kilometre away.",
+    "In a flat, make it ten times smaller. A small lime is the Sun, and each planet is a speck of dust. Then Earth is 2 and a half big steps from the Sun, Mars 4, Jupiter 14 (try the building corridor) and Neptune about 80.",
+    "At each planet, say one fact: Venus is the hottest planet. Mars is red with rusty dust. Saturn has rings. Neptune is blue and very windy. Then stand at Earth and look back at the Sun. Ask: 'Is space crowded or empty?'"
    ],
-   "outcome": "Your child feels that the planets are tiny and the solar system is almost all empty space, with the rocky planets huddled near the Sun and the giants far away."
+   "outcome": "Your child sees that the planets are tiny and the solar system is almost all empty space. The rocky planets are close to the Sun and the giants are far away."
   },
   {
    "id": "a2",
@@ -876,7 +876,7 @@
     "Copy the seven stars of the Saptarishi (a ladle of four stars and a handle of three) onto the bottom of the cup.",
     "With help, poke a pinhole at each star.",
     "In a dark room, put the torch inside the cup and shine it on the ceiling.",
-    "Add Dhruva Tara as a separate hole beyond the two 'pointer' stars."
+    "Add Dhruva Tara as a separate hole, beyond the two 'pointer' stars at the front of the ladle's bowl."
    ],
    "outcome": "A ceiling star pattern that helps your child find the real Saptarishi and the Pole Star."
   }
@@ -892,12 +892,12 @@
   ],
   "steps": [
    "Fold three A4 sheets into a little book.",
-   "Page 1: what I saw at dusk (Day 1).",
-   "Page 2: light makers and light bouncers (Day 2).",
-   "Page 3: the planets in order, with a drawing of the planet walk (Day 3).",
-   "Page 4: Moon drawings with dates, and the four phases from the lamp test (Day 4).",
-   "Page 5: the Saptarishi and Dhruva Tara (Day 5).",
-   "Page 6: spin, journey and tilt diagrams (Days 6 and 7)."
+   "Page 1: what I saw in the sky at dusk.",
+   "Page 2: things that make light and things that reflect it.",
+   "Page 3: the planets in order, with a drawing of the planet walk.",
+   "Page 4: Moon drawings with dates, and the four shapes from the ball-and-lamp test.",
+   "Page 5: the Saptarishi and Dhruva Tara.",
+   "Page 6: drawings of the Earth's spin, its journey round the Sun, and its tilt."
   ],
   "outcome": "A home-made sky book your child uses to teach the family what is in the sky and why."
  },
@@ -974,7 +974,7 @@
     "back": "star"
    },
    {
-    "front": "I am the third rock from the Sun and I have life.",
+    "front": "I am the third planet from the Sun, and I have life.",
     "back": "planet: Earth"
    },
    {
@@ -1016,7 +1016,7 @@
  "challenge": [
   {
    "q": "'It is hot in summer because the Earth is closer to the Sun.' Is it?",
-   "hint": "No. The Earth is actually closest to the Sun in early January, when it is winter in India. Seasons come from the Earth's tilt: when our half leans towards the Sun, sunlight is more direct and days are longer. If distance were the reason, what would be strange about Australia having summer in December?"
+   "hint": "No. The Earth is closest to the Sun in early January, when it is winter in India. Seasons come from the Earth's tilt. When our half leans towards the Sun, sunlight is more direct and days are longer. Ask: if distance were the reason, why would Australia have summer in December?"
   },
   {
    "q": "'The Moon only comes out at night.' Does it?",
@@ -1024,21 +1024,21 @@
   },
   {
    "q": "'Stars twinkle because they flicker on and off.' Do they?",
-   "hint": "Stars shine steadily. They twinkle because their light passes through our moving, wobbly air on the way to us. Astronauts in space see them shining without a twinkle. What would you predict about stars seen through very still, dry mountain air?"
+   "hint": "Stars shine steadily. They twinkle because their light passes through our moving air on the way to us. Astronauts in space see stars shining without a twinkle. Ask: would stars twinkle more or less above a high mountain, where the air is still and thin?"
   }
  ],
  "perspectives": [
   {
    "who": "A dung beetle",
-   "view": "In 2013 scientists in South Africa showed that dung beetles roll their dung balls in straight lines by steering with the glowing band of the Milky Way. Ask: who else might need a dark sky that we never think about?"
+   "view": "A dung beetle rolls a ball of dung to eat, and must roll it away quickly in a straight line before other beetles steal it. In 2013 scientists in South Africa showed that at night some dung beetles keep their line straight by steering with the glowing band of the Milky Way. Ask: who else might need a dark sky that we never think about?"
   },
   {
    "who": "Kerala farmers and the Njattuvela calendar",
-   "view": "Farmers in Kerala traditionally time sowing and planting by Njattuvela, periods named after the star groups (nakshatras) the Sun passes through, like Thiruvathira. Ask: why might farmers watch the sky as carefully as scientists?"
+   "view": "Farmers in Kerala have long timed their sowing and planting by Njattuvela. These are periods of about two weeks, each named after the star group (nakshatra) the Sun is passing through, like Thiruvathira. Ask: why might farmers watch the sky as carefully as scientists?"
   },
   {
    "who": "Pacific Island navigators",
-   "view": "Navigators from islands like Hawaii and Tahiti crossed thousands of kilometres of open ocean by reading the rising and setting points of stars, without maps or compasses. In 1976 the canoe Hōkūleʻa sailed from Hawaii to Tahiti this way, guided by Mau Piailug. Ask: whose knowledge of the sky gets written in school books, and whose does not?"
+   "view": "Navigators from Pacific islands crossed thousands of kilometres of open ocean by watching where stars rise and set, without maps or compasses. In 1976 the canoe Hōkūleʻa sailed from Hawaii to Tahiti this way, guided by Mau Piailug, a navigator from the island of Satawal. Ask: whose knowledge of the sky gets written in school books, and whose does not?"
   }
  ],
  "voices": [
@@ -1055,8 +1055,8 @@
   {
    "id": "v2",
    "who": "Galileo Galilei (1564–1642), Italy",
-   "idea": "Pointing his home-made telescope at the sky in 1609–1610, he saw mountains and craters on the Moon and four moons going round Jupiter. This showed that not everything goes round the Earth.",
-   "then": "Many scholars and church leaders disagreed with his ideas about the Earth moving round the Sun; in 1633 he was put on trial and kept under house arrest for the rest of his life.",
+   "idea": "In 1609 and 1610 he pointed a telescope he had made himself at the sky. He saw mountains and craters on the Moon, and four moons going round Jupiter. This showed that not everything goes round the Earth.",
+   "then": "Many scholars and church leaders disagreed with his idea that the Earth moves round the Sun. In 1633 he was put on trial and kept under house arrest for the rest of his life.",
    "now": "Everything Galileo saw is accepted. The four moons he found are called the Galilean moons: Io, Europa, Ganymede and Callisto.",
    "status": "accepted",
    "ask": "Galileo said, in effect, 'Look through my telescope and see for yourself.' Why is 'see for yourself' such a powerful kind of evidence? Can it ever trick you?",
@@ -1150,7 +1150,7 @@
  "story": {
   "title": "The Firefly Who Wanted to Be a Star",
   "text": [
-   "In the hills above the village of Purushwadi, where the forest smells of wet earth and wild mango just before the rains, there lived a young firefly called Tara. She had hatched only a few nights before, and everything was new to her: the cool leaves, the croak of frogs, the soft light that pulsed in her own belly whenever she felt happy.",
+   "In the hills above the village of Purushwadi, where the forest smells of wet earth and wild mango just before the rains, there lived a young firefly called Tara. She had grown her wings only a few nights before, and everything was new to her: the cool leaves, the croak of frogs, the soft light that pulsed in her own belly whenever she felt happy.",
    "On her first night out, she flew to the top of a fern and looked up. And there, across the whole black sky, were thousands and thousands of lights.",
    "\"Oh,\" said Tara. \"Look at all the fireflies!\"",
    "They were much smaller than the fireflies around her, and they did not blink the way fireflies blink, on and off, on and off. They shone steadily, only trembling a little, as if they were shy. \"They must be the oldest fireflies,\" Tara decided, \"the ones who have flown highest of all. One day I will fly up there and join them.\"",
@@ -1165,15 +1165,15 @@
    "Tara sat very still on her leaf. The torch had been a tiny dot on the far hill. Up close, it had been a great blazing sun. It was the same torch. Only the distance had changed.",
    "She looked up at the high ones again, and for the first time she felt a shiver that was not from the cold. If the torch had looked so small from so far away, how far away must the high ones be? And how big, really, and how bright?",
    "\"Amma,\" whispered the girl below, \"are stars like fireflies?\"",
-   "\"In a way,\" said her mother. \"They make their own light, like fireflies. But each star is a sun. A huge fire, much bigger than the whole Earth. They're just very, very far away. Our Sun is a star too. It's just the one we live next to.\"",
+   "\"In a way,\" said her mother. \"They make their own light, like fireflies. But each star is a sun, a huge ball of glowing gas, much bigger than the whole Earth. They're just very, very far away. Our Sun is a star too. It's just the one we live next to.\"",
    "\"So somewhere far away,\" said the girl, \"someone could be looking at our Sun, and it looks like a tiny dot to them.\"",
    "\"Maybe,\" said her mother. \"Nobody knows yet.\"",
-   "Tara did not understand all the words. But she understood the torch. The high ones were not fireflies who had flown far. They were fires bigger than the world, so far away that even the tallest tree was no nearer to them than the ground. And the great hot light that came up every morning and sent the fireflies to sleep under the leaves, that too was one of them. The nearest one.",
+   "Tara did not understand all the words. But she understood the torch. The high ones were not fireflies who had flown far. They were suns bigger than the world, so far away that even the tallest tree was no nearer to them than the ground. And the great hot light that came up every morning and sent the fireflies to sleep under the leaves, that too was one of them. The nearest one.",
    "She could never reach them. She knew that now. It should have made her sad, but it didn't. It made her feel small in a way that was somehow wonderful, like being a tiny boat on a very big sea.",
    "Down in the valley, the other fireflies had started their blinking again, all together, on and off, on and off, a whole forest of tiny lights calling to each other in the dark. Tara let go of the leaf. She drifted down, down through the cool air, down past the girl and her mother, who gasped and pointed, down into the bright, pulsing crowd of her own people.",
    "And there, with her small near light, among all the other small near lights, she began to blink."
   ],
-  "epiphany": "Stars are suns, and they look tiny only because they are unimaginably far away; the Sun is just the nearest star. The turn is the torch: a pinprick on the far hill, a blazing sun up close, the same light at a different distance. Tara also learns that stars make their own light, like fireflies, and finds her place: being small in a huge universe is not sad but wonderful.",
+  "epiphany": "Stars are suns. They look tiny only because they are very far away, and the Sun is simply the nearest star. The turn is the torch: a pinprick on the far hill and a blazing light up close, the same torch at a different distance. Tara also learns that stars make their own light, like fireflies, and she finds her place among her own kind.",
   "ask": [
    "Why did the 'high ones' look no bigger when Tara reached the top of the tree?",
    "What did the torch teach Tara?",
@@ -1185,15 +1185,15 @@
  "ideas": [
   {
    "idea": "The Sun is a star, and every star is a sun.",
-   "more": "The near torch and far torch show it: the same light looks tiny when far away. The nearest star after the Sun is so far that its light takes over four years to reach us."
+   "more": "The near torch and the far torch show it: the same light looks tiny when it is far away. The nearest star after the Sun is so far that its light takes over four years to reach us."
   },
   {
    "idea": "Space is mostly empty, and we are very small in it.",
-   "more": "In the planet walk, the Earth is a peppercorn and Neptune is more than half a kilometre away. Between them is almost nothing."
+   "more": "In the planet walk, the Sun is a football, the Earth is a mustard seed 26 big steps away, and Neptune is more than half a kilometre away. Between them is almost nothing."
   },
   {
-   "idea": "Three movements explain much of our lives.",
-   "more": "The Earth's spin gives day and night, its journey round the Sun gives the year, and its tilt gives the seasons. The Moon's journey round us gives the month, the word itself coming from 'Moon'."
+   "idea": "Three movements of the Earth give us day, year and seasons.",
+   "more": "The Earth's spin gives day and night. Its journey round the Sun gives the year. Its tilt gives the seasons. The Moon's journey round us gives the month, and the word 'month' comes from 'Moon'."
   }
  ],
  "unknowns": [

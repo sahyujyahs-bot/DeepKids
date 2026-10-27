@@ -4,9 +4,9 @@
  "subj": "sci",
  "level": 3,
  "n": "water",
- "title": "Water: where it comes from, where it hides, and who it belongs to",
+ "title": "Water: where rain goes, and where our tap water comes from",
  "source": "DeepKids Combined. Covers NCERT Class 3 'Water — A Precious Gift' (rain, storing and cleaning water, using it at home, problems of water quality and quantity, saving water). No textbook needed.",
- "summary": "Your child becomes a water detective: measuring rain, watching it soak in, run off and vanish into the air, finding the hidden water under the ground, and tracing the water in their own tap back to its source. They count how much water the family really uses, test why a matka keeps water cool, clean muddy water and learn why clear is not the same as clean, and end by sharing water with the birds and people around them. The big idea: rain never disappears, it only hides, and the water we use is shared with every living thing.",
+ "summary": "When rain lands, it soaks into the ground, runs off, or evaporates into the air. Your child measures rain with a home-made gauge, sees water soak in or run off, and builds a well in a jar to see groundwater. They trace their tap water back to its source and count how many litres the family uses in a day. They test why a clay pot keeps water cool, and clean muddy water to find that clear water can still carry germs. They end by setting out water for birds and making a family plan to save water.",
  "builds_on": "This is the first water rung. Your child already knows, from Class 1 and 2 science, that plants and animals need water. In Class 5 the water rung goes much further: the full water cycle with condensation and transpiration, how little of Earth's water is fresh, how rivers carve the land, freshwater habitats and food chains, and how villages and cities can catch and share rain.",
  "goals": [
   "By the end your child can measure rain with a home-made rain gauge and keep a sky diary.",
@@ -14,7 +14,7 @@
   "By the end your child can explain groundwater and how a well or borewell gets its water.",
   "By the end your child can trace the water in their home back to its source and estimate how many litres the family uses in a day.",
   "By the end your child can show three ways of cleaning water and explain why water that looks clear may still carry germs.",
-  "By the end your child can suggest ways to reuse and save water, and say why water is shared by everyone, not just people."
+  "By the end your child can suggest ways to reuse and save water, and say why water is shared by every living thing, not only people."
  ],
  "subconcepts": [
   "measuring rain with a rain gauge",
@@ -23,8 +23,8 @@
   "reading the land for hidden water (plants, termite mounds)",
   "sources of our home water",
   "how much water a home uses (a water audit)",
-  "storing water then and now: matka, tanka, stepwell, overhead tank",
-  "a matka cools water by evaporation",
+  "storing water then and now: clay pot, tanka, stepwell, temple tank and eri, overhead tank",
+  "a clay pot cools water by evaporation",
   "cleaning water: settling, filtering, boiling",
   "clear is not the same as clean: germs and dissolved salts",
   "too little water: over-pumping and shortages",
@@ -50,7 +50,7 @@
   ],
   [
    "groundwater",
-   "water stored under the ground in the gaps between bits of soil, sand and rock"
+   "water stored under the ground in the gaps between grains of soil, sand and rock"
   ],
   [
    "borewell",
@@ -62,7 +62,7 @@
   ],
   [
    "filter",
-   "something that lets water through but catches bits of dirt"
+   "something that lets water through but catches dirt"
   ],
   [
    "germs",
@@ -85,33 +85,33 @@
  "days": [
   {
    "n": 1,
-   "title": "What comes down but never goes up?",
+   "title": "Where does our water come from?",
    "goal": "Hook your child with the rain, meet the story, and start measuring and watching water.",
    "steps": [
     {
      "kind": "warmup",
-     "title": "The riddle and my water morning",
+     "title": "My water morning",
      "mins": 8,
-     "do": "Ask the riddle: 'What comes down but never goes up?' (Rain! Though by Day 2 you'll find out that it does go up again, as invisible vapour.) Then ask your child to list every time they touched or used water since waking up: brushing, the toilet, washing hands, drinking, the water in their tea or milk, the water that cooked the rice. Count them on fingers. Say: 'Every one of those drops came from somewhere. This week we find out where.'"
+     "do": "Ask your child to list every time they used water since waking up: brushing, the toilet, washing hands, drinking, the water in their coffee or milk, the water that cooked the rice or steamed the idli. Count them on your fingers. Say: 'Every drop of that water came from somewhere. This week we find out where.'"
     },
     {
      "kind": "read",
      "title": "Story: The Frog Who Looked Up",
      "mins": 12,
-     "do": "Read the story aloud slowly. Don't explain it. Ask two of the story questions: 'Where did the frog think water came from?' and 'Where did the water really come from in the end?' Accept any answer for now, and write down what your child says. You'll come back to it on Day 2 when you build a well in a jar."
+     "do": "Read the story aloud slowly. It is about a frog living in a dry well in Rajasthan. Don't explain it. Ask two of the story questions: 'Where did the frog think water came from?' and 'Where did the water really come from in the end?' Write down what your child says. You will come back to it on Day 2."
     },
     {
      "kind": "act",
      "title": "Make a rain gauge and sky diary",
      "mins": 12,
-     "do": "Do Activity a1. Cut the top off a clear plastic bottle, turn the top upside down into the bottom as a funnel, and stick a paper ruler on the side, with 0 at the flat bottom level (put a few pebbles inside and fill water to the 0 mark so the curved base doesn't fool you). Put it in an open place away from roofs and trees. Start the sky diary: draw today's sky (sun, clouds, rain), write the date and the gauge reading. Explain: 'Weather scientists all over India do exactly this, every morning at the same time.'",
+     "do": "Do Activity a1. A grown-up cuts the top off a clear plastic bottle. Put a few pebbles in the bottom and add water up to a line. Mark that line 0, so the curved base doesn't spoil the reading. Stick a paper ruler on the side, starting at 0. Turn the cut top upside down into the bottle, as a funnel. Put it on an open terrace or balcony ledge, away from walls, roofs and trees. Start the sky diary: draw today's sky, and write the date and the gauge reading. Say: 'Weather scientists all over India read rain gauges like this every morning.'",
      "ref": "a1"
     },
     {
      "kind": "exp",
      "title": "Sun or shade: set up the vanishing water",
      "mins": 8,
-     "do": "Set up Experiment e1: pour exactly two spoons of water on each of two steel plates, and hang two equally wet hankies. Put one plate and one hanky in the sun, one of each in the shade. Ask your child to predict which will dry first and where the water will go. Write the predictions on the sky diary page.",
+     "do": "Set up Experiment e1. Pour exactly two spoons of water on each of two steel plates, and wet two hankies the same amount. Put one plate and one hanky in the sun, and the others in the shade. Ask your child which will dry first, and where the water will go. Write the guesses in the sky diary.",
      "ref": "e1"
     }
    ],
@@ -134,41 +134,41 @@
      "kind": "review",
      "title": "Sun and shade results",
      "mins": 5,
-     "do": "Look at Experiment e1. Ask: 'Which plate dried first? Where did the water go? Did it fall through the plate?' (No. It turned into water vapour, an invisible gas, and went into the air. That is called evaporation. The sun's heat makes it go faster.) Read the rain gauge and fill the sky diary.",
+     "do": "Look at Experiment e1. Ask: 'Which plate dried first? Where did the water go? Did it go through the plate?' (No. It turned into water vapour, an invisible gas, and went into the air. This is called evaporation. The sun's heat makes it faster.) Read the rain gauge and fill in the sky diary.",
      "ref": "e1"
     },
     {
      "kind": "exp",
      "title": "Rain on four surfaces",
      "mins": 13,
-     "do": "Do Experiment e2. Go outside with a mug of water. Pour one slow mug on each of four places: bare soil, grass, sand and a cement or tiled floor. For each one, ask: 'Did the water soak in, run away, or stay in a puddle?' Your child fills the table in the sky diary. Ask: 'In a city with roads and roofs everywhere, where does the rain go?' (Most runs off into drains, and very little soaks in.)",
+     "do": "Do Experiment e2. Pour half a mug of water slowly on each surface: the soil in a big potted plant, a tray of sand, and the bathroom floor tiles. If there is a park nearby, also try bare soil, grass and a cement path. For each one, ask: 'Did the water soak in, run off, or make a puddle?' Your child fills in the table in the sky diary. Ask: 'In a city with roads and roofs everywhere, where does the rain go?' (Most of it runs off into drains. Very little soaks in.)",
      "ref": "e2"
     },
     {
      "kind": "exp",
      "title": "A well in a jar",
      "mins": 12,
-     "do": "Do Experiment e3: fill a clear jar or bottle with gravel, then sand, then soil, with a straw pushed down the side to the bottom before you fill it. 'Rain' on top with a cup of water. Watch it disappear into the soil and then collect in the gaps at the bottom. Say: 'This is groundwater. It isn't an underground lake. It sits in the tiny gaps between grains, like water in a sponge.' Then let your child slowly suck on the straw (a well!) or squeeze a dropper down it and see the water level at the bottom drop.",
+     "do": "Do Experiment e3. Stand a straw against the inside of a clear jar, touching the bottom. Fill the jar with small stones, then sand, then soil. Pour a cup of water on top, like rain. Watch it sink into the soil and collect in the gaps at the bottom. Say: 'This is groundwater. It is not an underground lake. It sits in the tiny gaps between grains, like water in a sponge.' Then your child sucks gently on the straw, like a well pump, and watches the water level at the bottom drop.",
      "ref": "e3"
     },
     {
      "kind": "act",
      "title": "Make a rainstorm with your hands",
      "mins": 5,
-     "do": "Sit in a circle (even two of you is enough). The leader starts and everyone copies: rub palms together (a breeze), click fingers (first drops), pat thighs (heavy rain), stamp feet with thigh pats (a downpour), then go back down the same steps to silence. Ask: 'Where did all that rain go after the storm?' (Some soaked in, some ran off, some will go back up as vapour.) Make a rainstorm again whenever it rains on the sky diary."
+     "do": "Sit in a circle (two people is enough). The leader starts and everyone copies: rub palms together (a breeze), click fingers (first drops), pat thighs (heavy rain), stamp feet and pat thighs (a downpour). Then go back down the same steps to silence. Ask: 'Where did all that rain go after the storm?' (Some soaked in, some ran off, and some will evaporate.)"
     },
     {
      "kind": "talk",
      "title": "Back to the frog",
      "mins": 5,
-     "do": "Ask again: 'Where did the water in the frog's well really come from?' Good answer: from rain that soaked into the ground nearby and seeped into the well from the sides and bottom. Ask: 'Why did the well fill only after Kesar's mother built the bank of earth?' (It slowed the rain down so it had time to soak in, instead of running away.)"
+     "do": "Ask again: 'Where did the water in the frog's well really come from?' (From rain that soaked into the ground nearby and seeped into the well from the sides and the bottom.) Ask: 'Why did the well fill only after the women of the village rebuilt the johad, the bank of earth?' (It slowed the rain down, so it had time to soak in instead of running away.)"
     }
    ],
    "need": [
     "the rain gauge and sky diary",
-    "a mug of water",
+    "a mug of water, a potted plant and a tray of sand",
     "a clear jar or cut bottle",
-    "gravel, sand and soil",
+    "small stones, sand and soil",
     "a straw"
    ]
   },
@@ -181,26 +181,26 @@
      "kind": "review",
      "title": "Sky diary",
      "mins": 5,
-     "do": "Read the rain gauge and fill the sky diary. If it hasn't rained, ask: 'Where else could we look for rain today?' (Look at the weather report in the newspaper or on the radio: it says how many millimetres fell in your city.)"
+     "do": "Read the rain gauge and fill in the sky diary. If it hasn't rained, look at the weather report in the newspaper or on a phone. It says how many millimetres of rain fell in your city."
     },
     {
      "kind": "act",
      "title": "The great pipe trail",
      "mins": 17,
-     "do": "Do Activity a2. Start at the kitchen tap and follow the pipe as far as you can see it: through the wall, to the overhead tank, down to the sump or the municipal pipe, or to the borewell or the handpump. Your child draws the trail as a map with arrows. Then ask: 'And where does the water get into that pipe?' Help them finish the map: a river, lake or dam far away; or groundwater pulled up by a borewell; or a tanker. If you don't know, phone your building's caretaker, plumber or the panchayat office together and ask.",
+     "do": "Do Activity a2. Start at the kitchen tap and follow the pipe as far as you can see it: through the wall, to the overhead tank, down to the sump, the borewell or the city pipe. Your child draws the trail as a map with arrows. Ask: 'And where does the water get into that pipe?' Help them finish the map: a river, lake or dam far away, groundwater pumped up by a borewell, or a tanker. Chennai, for example, gets much of its water from lakes like Chembarambakkam and Puzhal. If you don't know, phone your building's caretaker or plumber together and ask.",
      "ref": "a2"
     },
     {
      "kind": "talk",
      "title": "Who brings the water?",
      "mins": 10,
-     "do": "Ask: 'In our home, who makes sure there is water? Who fills the bottles, switches on the motor, calls the tanker?' Then say: 'In many villages in India, people still walk to a well, a pond or a handpump every day and carry water home on their heads. Most of that carrying is done by women and girls, sometimes for hours.' Ask: 'How would your day change if you had to fetch all the water you used this morning?' Listen. Don't push an answer."
+     "do": "Ask: 'In our home, who makes sure there is water? Who fills the bottles, switches on the motor, calls the tanker?' Then say: 'In many villages in India, people still walk to a well, a pond or a handpump every day and carry water home. Most of this carrying is done by women and girls, sometimes for hours.' Ask: 'How would your day change if you had to fetch all the water you used this morning?' Listen. Don't push an answer."
     },
     {
      "kind": "think",
      "title": "Reading the land for hidden water",
      "mins": 8,
-     "do": "Talk about voice v4, Varahamihira, who wrote about how plants, termite mounds and the colour of soil can show where water hides underground. Ask the voice question. Then tell your child: 'Some places in India get huge rain: Mawsynram and Cherrapunji in Meghalaya get more than ten metres of rain in a year, taller than a three-storey house. Some parts of the Thar desert in Rajasthan get less than the height of your hand.' Ask: 'If you lived in the desert, how would you make sure you had water all year?' Good answers: catch every drop when it rains, store it, use it very carefully. Tell them you'll see how people did that on Day 5.",
+     "do": "Tell voice v4, about Varahamihira, who wrote how plants, termite mounds and the colour of soil can show where water is underground. Ask the voice question. Then say: 'Mawsynram and Cherrapunji in Meghalaya get more than ten metres of rain in a year. Chennai gets about one and a half metres, most of it from October to December. Parts of the Thar desert in Rajasthan get less than the height of your hand.' Ask: 'If you lived in the desert, how would you make sure you had water all year?' (Catch every drop when it rains, store it, and use it carefully.) You'll see how people did this on Day 5.",
      "ref": "v4"
     }
    ],
@@ -218,20 +218,20 @@
      "kind": "warmup",
      "title": "Guess the litres",
      "mins": 5,
-     "do": "Show a 1-litre bottle. Ask: 'How many of these bottles do you think our whole family uses in one day?' Write the guess big on a paper and keep it. Most children guess about 10 or 20."
+     "do": "Show a 1-litre bottle. Ask: 'How many of these bottles do you think our whole family uses in one day?' Write the guess in big numbers and keep it. Most children guess 10 or 20."
     },
     {
      "kind": "act",
      "title": "Start the water audit",
      "mins": 15,
-     "do": "Do Activity a3. First, measure with your child how many litres your mug, bucket and the toilet flush hold (fill them from the 1-litre bottle; a flush tank usually says its size, often 6 to 10 litres). Then make the audit chart: rows for brushing, bathing, toilet, cooking, drinking, washing dishes, washing clothes, cleaning the floor; columns for times and litres. Give the chart to the whole family for the next 24 hours: each time someone uses water, they add a tally. Your child is the auditor.",
+     "do": "Do Activity a3. First, measure how many litres your mug and bucket hold, by filling them from the 1-litre bottle. A flush tank often has its size marked, usually 6 to 10 litres. Then make the audit chart. Write one row for each job: brushing, bathing, toilet, cooking, drinking, washing dishes, washing clothes, mopping the floor. For the next 24 hours, each time someone uses water, they add a tally mark in that row. Your child is the auditor.",
      "ref": "a3"
     },
     {
      "kind": "exp",
      "title": "Drop detective",
      "mins": 10,
-     "do": "Do the drip test in Activity a3: open a tap so it just drips. Put a cup under it for exactly 10 minutes (use a timer). Measure the water with a spoon or a measuring cup. Work out together: 6 lots of 10 minutes is an hour, so multiply by 6; then 24 hours in a day. Ask: 'How much would one dripping tap waste in a day? In a year?' (Often many litres a day.)",
+     "do": "Do the drip test in Activity a3. Open a tap so it just drips. Put a cup under it for exactly 10 minutes. Measure the water with a spoon or a measuring cup. There are six lots of 10 minutes in an hour, so multiply by 6. Then multiply by 24 for a whole day. Ask: 'How much would one dripping tap waste in a day? In a year?' (Often several litres a day.)",
      "ref": "a3"
     },
     {
@@ -253,52 +253,52 @@
   {
    "n": 5,
    "title": "Storing water: then and now",
-   "goal": "Total the audit, test the matka, and meet the people who built India's water stores.",
+   "goal": "Total the audit, test the clay pot, and meet the people who built India's water stores.",
    "steps": [
     {
      "kind": "review",
      "title": "Audit total",
      "mins": 8,
-     "do": "Add up the family's audit together: times × litres for each row, then the grand total. Compare with the guess from Day 4. (A city family often uses well over 100 litres per person per day; many families in dry villages manage on 20 to 40.) Ask: 'Which job used the most water? Which one could we easily use less for?'"
+     "do": "Add up the family's audit together. For each row, multiply the tally marks by the litres, then add all the rows. Compare the total with the guess from Day 4. Say: 'Water planners in Indian cities allow 135 litres per person each day. Many families in dry villages manage on 40 litres or less.' Ask: 'Which job used the most water? Which one could we easily use less for?'"
     },
     {
      "kind": "exp",
-     "title": "Why is matka water cool?",
+     "title": "Why is water in a clay pot cool?",
      "mins": 12,
-     "do": "Do Experiment e4. Fill a clay matka (or a small clay pot) and a steel or plastic bottle with water from the same tap at the same time, and leave both in the same shady, airy place. After a few hours (or at the start of the step if you set it up in the morning), let your child dip a finger in each, or use a thermometer if you have one. Then wrap a wet cloth around the steel bottle and check again an hour later. Ask: 'Why is the matka cooler?' (Water seeps through the tiny holes in the clay and evaporates from the outside. Evaporating water carries heat away with it, the same reason you feel cold when you come out of a bath.)",
+     "do": "Do Experiment e4. In the morning, fill a clay pot (a matka, or a mann panai as it is called in Tamil Nadu) and a steel bottle from the same tap. Keep them side by side in a shady, airy place. After a few hours, your child dips a finger in each, or uses a thermometer if you have one. Then wrap a wet cloth around the steel bottle and check again an hour later. If you have no clay pot, use two steel bottles and wrap one in a wet cloth from the start. Ask: 'Why is the clay pot cooler?' (Water seeps through tiny holes in the clay and evaporates from the outside. Evaporating water takes heat away with it. That is why you feel cold when you come out of a bath.)",
      "ref": "e4"
     },
     {
      "kind": "talk",
-     "title": "The queen's stepwell",
+     "title": "Stepwells, tanks and temple tanks",
      "mins": 12,
-     "do": "Talk about voice v3. Show a picture of Rani ki Vav on the back of a ₹100 note (the lavender one) if you have one. Explain: a stepwell is a deep well with stairs going down, so people could reach the water even when the level fell in summer. Then tell your child about the tanka: in the Thar desert, families build a covered underground tank, and the clean courtyard around it slopes so every drop of rain runs in. Ask the voice question.",
+     "do": "Tell voice v3. If you have a lavender ₹100 note, show Rani ki Vav on the back. Say: 'A stepwell is a deep well with stairs going down, so people could reach the water even when the level fell in summer.' Then tell your child about two more ways of storing rain. In the Thar desert, families build a tanka, a covered underground tank, with a clean courtyard sloping into it. In Tamil Nadu, villages store rain in big tanks called eris, and many temples have huge stepped tanks, like the Teppakulam in Madurai. Ask the voice question.",
      "ref": "v3"
     },
     {
      "kind": "think",
      "title": "Then and now",
      "mins": 5,
-     "do": "Ask: 'How did people store water in the past? How do we store it now?' Make a two-column list: matka, tanka, stepwell, village pond, kund; and overhead tank, sump, steel drum, plastic bottle. Ask: 'Which ones need electricity? Which ones keep working if the power goes?'"
+     "do": "Ask: 'How did people store water in the past? How do we store it now?' Make a two-column list. Then: clay pot, tanka, stepwell, eri, temple tank, village pond. Now: overhead tank, sump, steel drum, plastic bottle. Ask: 'Which ones need electricity? Which ones keep working if the power goes off?'"
     },
     {
      "kind": "act",
-     "title": "Sheetali: the matka breath",
+     "title": "Sheetali: a cooling breath",
      "mins": 3,
-     "do": "Show your child sheetali, a cooling breath from yoga: curl the tongue into a tube (or, if they can't, breathe in through teeth held lightly together), breathe in slowly through it, then close the mouth and breathe out through the nose. Do it five times. Ask: 'Does your tongue feel cool? Why?' (Air moving over the wet tongue makes water evaporate, which takes heat away, just like the matka.)"
+     "do": "Show your child sheetali, a cooling breath from yoga. Curl the tongue into a tube, or, if they can't, hold the teeth lightly together. Breathe in slowly through the mouth, then close it and breathe out through the nose. Do it five times. Ask: 'Does your tongue feel cool? Why?' (Air moving over the wet tongue makes water evaporate, which takes heat away, just like the clay pot.)"
     }
    ],
    "need": [
     "the audit chart",
-    "a clay matka or pot",
-    "a steel or plastic bottle",
+    "a clay pot, or a second steel bottle",
+    "a steel bottle",
     "a cloth",
     "a thermometer (optional)",
     "a ₹100 note (optional)"
    ],
    "prep": [
     {
-     "task": "Fill the matka and the bottle from the same tap and keep them side by side",
+     "task": "Fill the clay pot and the steel bottle from the same tap and keep them side by side",
      "when": "morning"
     }
    ]
@@ -312,21 +312,21 @@
      "kind": "exp",
      "title": "Settle, filter, boil",
      "mins": 18,
-     "do": "Do Experiment e5. Stir two spoons of soil into a glass of water. Leave it for 10 minutes and watch the mud settle at the bottom (settling). Pour the top water gently into the bottle filter you build from a cut bottle with cloth, sand, small gravel and (if you have it) crushed charcoal from a cold chulha or an aquarium shop. Compare the water before and after. Ask: 'Is it safe to drink now?' The answer is NO. Explain: 'The filter caught the mud, but it can't catch germs, which are far too small to see. To kill germs we boil the water for a few minutes, or use a proper water purifier.' Never let your child drink the filtered water.",
+     "do": "Do Experiment e5. Stir two spoons of soil into a glass of water. Leave it for 10 minutes and watch the mud settle at the bottom. This is called settling. Build a filter from a cut bottle with cloth, sand and small stones. Pour the top water gently through it. Compare the water before and after. Ask: 'Is it safe to drink now?' The answer is no. Say: 'The filter caught the mud, but it can't catch germs. They are far too small to see. To kill germs, we boil the water, or use a proper water purifier.' Never let your child drink the filtered water.",
      "ref": "e5"
     },
     {
      "kind": "talk",
      "title": "The doctor and the pump",
      "mins": 12,
-     "do": "Talk about voice v1, John Snow and Henry Whitehead. Draw a quick street map with a pump in the middle and dots for houses where people fell ill, clustered round the pump. Ask: 'If you were the doctor, what would you think was making people ill?' Then ask the voice question.",
+     "do": "Tell voice v1, about John Snow and Henry Whitehead. Draw a quick street map with a pump in the middle, and dots for the houses where people fell ill, crowded round the pump. Ask: 'If you were the doctor, what would you think was making people ill?' Then ask the voice question.",
      "ref": "v1"
     },
     {
      "kind": "ws",
      "title": "Stretch worksheet",
      "mins": 10,
-     "do": "Do Worksheet ws2. It asks your child to use the week's ideas in new places: a city with no soil, a desert home, a dripping tap in a school.",
+     "do": "Do Worksheet ws2. It asks your child to use the week's ideas in new places: a desert home, a dripping tap at school, a clay pot.",
      "ref": "ws2"
     }
    ],
@@ -334,7 +334,7 @@
     "a glass, soil and a spoon",
     "a cut plastic bottle",
     "a clean cloth or cotton wool",
-    "clean sand, small gravel, crushed charcoal (optional)",
+    "clean sand and small stones, and activated charcoal from an aquarium shop (optional)",
     "worksheet ws2"
    ]
   },
@@ -347,27 +347,27 @@
      "kind": "do",
      "title": "Reuse sort at the sink",
      "mins": 10,
-     "do": "At the kitchen sink, show your child four kinds of used water: water from washing rice or vegetables, water from washing hands with soap, the last rinse of the clothes, and dirty floor-mopping water. For each, ask: 'Could this be used again? For what?' Good answers: rice and vegetable water can water plants; the last clothes rinse can mop the floor or flush the toilet; soapy or very dirty water should go down the drain. Choose one reuse your family will really do this week."
+     "do": "At the kitchen sink, show your child four kinds of used water: water from washing rice or vegetables, water from washing hands with soap, the last rinse of the clothes, and dirty mopping water. For each one, ask: 'Could this be used again? For what?' (Rice and vegetable water can water plants. The last rinse of the clothes can mop the floor or flush the toilet. Soapy or very dirty water goes down the drain.) Choose one reuse your family will really do this week."
     },
     {
      "kind": "talk",
      "title": "The ponds are still standing",
      "mins": 10,
-     "do": "Talk about voice v2, Anupam Mishra. Ask: 'Who do you think built the old ponds in our town or village? Who looked after them?' (Ordinary people: farmers, masons, the whole village together.) Then ask the voice question.",
+     "do": "Tell voice v2, about Anupam Mishra. Ask: 'Who do you think built the old ponds and tanks in our town or village? Who looked after them?' (Ordinary people: farmers, masons and the whole village together.) Then ask the voice question.",
      "ref": "v2"
     },
     {
      "kind": "game",
      "title": "Drop's Journey",
      "mins": 15,
-     "do": "Play the board game g1. Each player is a raindrop trying to reach the well. Read every square aloud as you land, and ask your child to explain why that square sends the drop forward or back (cement means run-off, a forest means soaking in).",
+     "do": "Play the board game g1. Each player is a raindrop trying to reach the well. Read every square aloud. Your child explains why it sends the drop forward or back, for example: cement makes rain run off, a forest lets it soak in.",
      "ref": "g1"
     },
     {
      "kind": "act",
      "title": "Start the water-sharing project",
      "mins": 5,
-     "do": "Begin the project: choose a shady spot for a bird bath and find a shallow clay dish or the base of a broken pot. Fill it today and note in the sky diary which visitors come in the next few days."
+     "do": "Begin the project. Choose a shady spot on a balcony, window ledge or terrace for a bird bath. Use a shallow clay dish or the base of a broken pot. Fill it today. Write in the sky diary which visitors come over the next few days."
     }
    ],
    "need": [
@@ -384,13 +384,13 @@
      "kind": "act",
      "title": "Bird bath report and our water plan",
      "mins": 10,
-     "do": "Look at the bird bath: who came? (Sparrows, mynas, crows, squirrels, bees, a dog?) Then finish the project: your child writes the family's three-point water plan from the audit (for example: close the tap while brushing, fix the drip, use rice water for plants) and sticks it near the sink."
+     "do": "Look at the bird bath list: who came? (Crows, mynas, pigeons, sparrows, squirrels, bees?) Then finish the project. Your child writes a three-point family water plan from the audit, for example: close the tap while brushing, fix the drip, use rice water for plants. Stick it near the sink."
     },
     {
      "kind": "ws",
      "title": "Challenge worksheet",
      "mins": 12,
-     "do": "Do Worksheet ws3. It has harder 'what if' questions and asks your child to weigh up who should get water first. There are no single right answers to the last section: listen to the reasons.",
+     "do": "Do Worksheet ws3. It has harder 'what if' questions, and asks your child to decide who should get water first. The last section has no single right answer, so listen to the reasons.",
      "ref": "ws3"
     },
     {
@@ -403,7 +403,7 @@
      "kind": "check",
      "title": "Teach it back",
      "mins": 10,
-     "do": "First, your child writes or says a short poem in the voice of one raindrop: where it fell, where it hid, where it went next. Then your child teaches the family in five minutes, using the jar well: where rain goes, where our tap water comes from, why clear isn't always clean, and one way we will save water. Then ask them: 'Who does the rain belong to?'"
+     "do": "Your child teaches the family for five minutes, using the jar well. They explain where rain goes, where your tap water comes from, why clear water is not always clean, and one way the family will save water. Then ask: 'Who does the rain belong to?'"
     }
    ],
    "need": [
@@ -514,7 +514,7 @@
      [
       {
        "t": "write",
-       "p": "Your rain gauge was empty after a day of light rain, but the soil was wet. Where did the rain go? Give two places.",
+       "p": "Arjun lives in Chennai. After a day of light rain, his rain gauge showed only 2 mm, and the soil in his potted plant was wet. Where did the rest of the rain that fell around him go? Give two places.",
        "lines": 3
       },
       {
@@ -557,7 +557,7 @@
       },
       {
        "t": "fill",
-       "p": "A clay matka keeps water cool because water seeps out and ____ from its outside, taking heat away.",
+       "p": "A clay pot keeps water cool because water seeps out and ____ from its outside, taking heat away.",
        "a": [
         "evaporates",
         "evaporate",
@@ -586,23 +586,27 @@
      [
       {
        "t": "match",
-       "p": "Match the store to where it is used.",
+       "p": "Match each way of storing water to what it is.",
        "pairs": [
         [
          "tanka",
-         "covered underground tank in the Thar desert"
+         "a covered underground tank in the Thar desert"
         ],
         [
          "stepwell",
          "a deep well with stairs down to the water"
         ],
         [
-         "matka",
-         "clay pot that keeps drinking water cool"
+         "clay pot",
+         "a pot that keeps drinking water cool"
+        ],
+        [
+         "eri",
+         "a big village tank in Tamil Nadu that stores rain"
         ],
         [
          "overhead tank",
-         "tank on a roof that sends water down the pipes"
+         "a tank on a roof that sends water down the pipes"
         ]
        ]
       },
@@ -625,7 +629,7 @@
       },
       {
        "t": "write",
-       "p": "A school tap drips all weekend. Who should fix it, and why might nobody do it?",
+       "p": "At Farhan's school in Hyderabad, a tap drips all weekend. Who should fix it, and why might nobody do it?",
        "lines": 3
       }
      ]
@@ -653,17 +657,17 @@
       },
       {
        "t": "mcq",
-       "p": "Two neighbours share the same groundwater. One digs a much deeper borewell and pumps all day. What might happen?",
+       "p": "Lakshmi and Joseph are neighbours near Bengaluru. Their wells take water from the same groundwater. Joseph digs a much deeper borewell and pumps all day. What might happen?",
        "opts": [
-        "Nothing, groundwater never runs out",
-        "The neighbour's shallower well may go dry",
+        "Nothing, because groundwater never runs out",
+        "Lakshmi's shallower well may go dry",
         "It will rain more"
        ],
        "a": 1
       },
       {
        "t": "fill",
-       "p": "In Rani ki Vav, people walked down ____ to reach the water when the level fell.",
+       "p": "Rani ki Vav is a stepwell in Gujarat. When the water level fell, people walked down ____ to reach the water.",
        "a": [
         "stairs",
         "steps"
@@ -671,7 +675,7 @@
       },
       {
        "t": "mcq",
-       "p": "John Snow showed that cholera was spread by…",
+       "p": "John Snow was a doctor in London in 1854. He showed that cholera, a deadly illness, was spread by…",
        "opts": [
         "bad smells in the air",
         "dirty water from a pump",
@@ -718,7 +722,7 @@
       },
       {
        "t": "write",
-       "p": "How could you test whether a matka cools water better in the sun or in the shade? What will you keep the same?",
+       "p": "How could you test whether a clay pot cools water better in the sun or in the shade? What will you keep the same?",
        "lines": 4
       }
      ]
@@ -758,16 +762,16 @@
    "question": "Where does rain go when it lands on different ground?",
    "need": [
     "a mug of water",
-    "four places: bare soil, grass, sand, cement or tiles"
+    "a big potted plant, a tray of sand, and a tiled floor (and bare soil, grass and cement in a park, if you have one nearby)"
    ],
    "steps": [
-    "Pour one mug slowly on each surface from the same height.",
+    "Pour half a mug slowly on each surface, from the same height.",
     "Watch for 1 minute each.",
     "Record: soaked in, ran off, or made a puddle.",
     "Look again after 30 minutes."
    ],
    "predict": "Ask: 'Which surface will drink the water fastest? Which will let it run away?'",
-   "observe": "Soil, grass and sand soak water in; cement and tiles make it run off or puddle and later dry up.",
+   "observe": "The soil and sand soak the water in. The tiles make it run off or puddle, and later it dries up.",
    "why": "Soil and sand have tiny gaps between their grains that water can trickle into. Grass roots make even more channels. Cement and tiles have no gaps, so water runs off into drains or evaporates. That is why paved cities lose most of their rain and flood easily, while forests and fields store it underground.",
    "safety": "Watch out for slippery wet tiles.",
    "time": "15 min"
@@ -779,32 +783,32 @@
    "question": "How is water stored under the ground, and how does a well get it?",
    "need": [
     "a clear jar or cut-off bottle",
-    "gravel, sand and soil",
-    "a straw or a dropper",
+    "small stones, sand and soil (an aquarium shop sells clean gravel and sand)",
+    "a straw",
     "a cup of water"
    ],
    "steps": [
     "Stand the straw against the side of the jar, reaching the bottom.",
-    "Fill with a layer of gravel, then sand, then soil on top.",
+    "Fill with a layer of small stones, then sand, then soil on top.",
     "Pour a cup of water slowly on top like rain.",
-    "Watch it sink and collect between the gravel at the bottom.",
-    "Suck gently on the straw or use a dropper to pull water up from the bottom, and watch the water level fall.",
+    "Watch it sink and collect between the stones at the bottom.",
+    "Suck gently on the straw to pull water up from the bottom, and watch the water level fall.",
     "Pour more 'rain' and watch the level rise again."
    ],
    "predict": "Ask: 'Where will the water go? Will we be able to see it?'",
-   "observe": "The water disappears from the top and appears as a wet layer at the bottom, filling the gaps between stones. Pumping lowers it; more rain raises it.",
-   "why": "Groundwater is not usually a big underground lake: it fills the tiny spaces between grains of soil, sand and rock, like water in a sponge. A well or borewell is a hole that reaches down into this wet layer. If we pump faster than rain soaks in to refill it, the level falls and wells dry up.",
-   "safety": "Use clean sand and gravel; don't drink the water.",
+   "observe": "The water disappears from the top and appears as a wet layer at the bottom, filling the gaps between the stones. Sucking it out lowers it, and more rain raises it.",
+   "why": "Groundwater is not usually a big underground lake. It fills the tiny spaces between grains of soil, sand and rock, like water in a sponge. A well or borewell is a hole that reaches down into this wet layer. If we pump faster than rain soaks in to refill it, the level falls and wells dry up.",
+   "safety": "Use clean sand and stones. Don't drink the water.",
    "time": "15 min"
   },
   {
    "id": "e4",
-   "title": "Why is matka water cool?",
+   "title": "Why does a clay pot keep water cool?",
    "day": 5,
-   "question": "Does water stay cooler in a clay pot than in a steel or plastic bottle?",
+   "question": "Does water stay cooler in a clay pot than in a steel bottle?",
    "need": [
-    "a clay matka or small clay pot",
-    "a steel or plastic bottle",
+    "a clay pot (a matka or a mann panai), or a second steel bottle",
+    "a steel bottle",
     "a cloth",
     "a thermometer (optional)"
    ],
@@ -812,11 +816,11 @@
     "In the morning, fill both from the same tap.",
     "Keep them side by side in a shady, airy spot.",
     "After a few hours, feel the water in each (or measure).",
-    "Feel the outside of the matka: is it damp?",
-    "Wrap a wet cloth round the bottle and test again after an hour."
+    "Feel the outside of the clay pot: is it damp?",
+    "Wrap a wet cloth round the steel bottle and test again after an hour. If you have no clay pot, compare two steel bottles, one wrapped in a wet cloth."
    ],
    "predict": "Ask: 'Which will be cooler? Why might that be?'",
-   "observe": "The matka water is cooler and its outside is damp. The bottle with a wet cloth also becomes cooler.",
+   "observe": "The water in the clay pot is cooler, and the outside of the pot is damp. The bottle with a wet cloth also gets cooler.",
    "why": "Clay has tiny holes. A little water seeps through and evaporates from the outside. To evaporate, water needs heat, and it takes that heat from the pot and the water inside, so they cool down. The wet cloth does the same. Your skin works like this too: sweat evaporates and cools you.",
    "safety": "",
    "time": "15 min + a few hours of waiting"
@@ -831,19 +835,19 @@
     "soil",
     "a cut plastic bottle with its cap pierced",
     "a clean cloth or cotton wool",
-    "clean sand, small gravel, crushed charcoal (optional)"
+    "clean sand and small stones, and activated charcoal from an aquarium shop (optional)"
    ],
    "steps": [
     "Stir two spoons of soil into a glass of water.",
     "Leave it for 10 minutes and watch the mud settle.",
-    "Build the filter in the upside-down bottle: cloth at the neck, then charcoal, then sand, then gravel on top.",
+    "Build the filter in the upside-down bottle: cloth at the neck, then charcoal if you have it, then sand, then small stones on top.",
     "Pour the top water gently through the filter into a clean glass.",
     "Compare the water before and after.",
     "Talk about why we still don't drink it."
    ],
    "predict": "Ask: 'Will the water come out clear? Will it be safe to drink?'",
-   "observe": "Settling makes the top water clearer; the filter makes it clearer still.",
-   "why": "Settling lets heavy bits of soil sink. A filter catches bits too big to fit between its grains. But germs (bacteria and viruses) are so tiny that millions could sit on a full stop, and many slip through a home filter. Boiling for a few minutes kills them. Water can also carry invisible dissolved things, such as too much salt, fluoride or arsenic in some groundwater, which only testing can find.",
+   "observe": "Settling makes the top water clearer. The filter makes it clearer still.",
+   "why": "Settling lets heavy bits of soil sink. A filter catches bits too big to fit between its grains. But germs, like bacteria and viruses, are so tiny that thousands could fit on a full stop, and many slip through a home filter. Boiling kills them. Water can also carry things dissolved in it that you can't see, like too much fluoride or arsenic in some groundwater. Only a test can find these.",
    "safety": "Never drink the filtered water. Wash hands after handling soil and dirty water.",
    "time": "20 min"
   }
@@ -864,10 +868,10 @@
    ],
    "steps": [
     "A grown-up cuts the top third off the bottle.",
-    "Put pebbles in the bottom and add water up to a line; mark that line 0.",
+    "Put pebbles in the bottom and add water up to a line. Mark that line 0.",
     "Tape the scale on the side starting at 0.",
     "Turn the top upside down into the bottle as a funnel.",
-    "Place it in the open, away from trees and roofs.",
+    "Place it on an open terrace or balcony ledge, away from walls, trees and roofs.",
     "Every morning, read the level, write it in millimetres, draw the sky, then tip the extra water back to 0."
    ],
    "outcome": "A working rain gauge and a week of rain readings and sky drawings."
@@ -898,7 +902,7 @@
    "mins": 25,
    "need": [
     "a 1-litre bottle",
-    "a mug, a bucket",
+    "a mug and a bucket",
     "paper",
     "a cup",
     "a timer"
@@ -927,7 +931,7 @@
   {
    "id": "v2",
    "who": "Anupam Mishra (1948–2016), writer and environmentalist, India",
-   "idea": "In his book 'Aaj Bhi Khare Hain Talab' (1993; the title means 'The Ponds Are Still Standing') Mishra recorded how ordinary communities across India built and looked after ponds, tanks and stepwells for centuries: who chose the spot, how the banks were shaped, how the whole village cleaned out the silt together each year. He wrote that this knowledge belonged to masons, farmers and villagers, not to engineers with degrees.",
+   "idea": "In his book 'Aaj Bhi Khare Hain Talab' (1993), which means 'The Ponds Are Still Standing', Mishra recorded how ordinary communities across India built and looked after ponds, tanks and stepwells for centuries. He wrote down who chose the spot, how the banks were shaped, and how the whole village cleared the silt together each year. He showed that this knowledge belonged to masons, farmers and villagers, not to engineers with degrees.",
    "then": "Many town planners in the 20th century saw old ponds as dirty and old-fashioned and expected piped water and borewells to replace them. Many tanks were filled in and built over.",
    "now": "Debated. Many towns and villages have revived old tanks and ponds, and they help refill groundwater. But big cities of millions also need dams, pipes and treatment plants. Most experts now say we need both old and new ways working together.",
    "status": "debated",
@@ -939,7 +943,7 @@
    "who": "Queen Udayamati and Rani ki Vav, Patan, Gujarat (11th century)",
    "idea": "Rani ki Vav, 'the Queen's stepwell', was built under Queen Udayamati in memory of her husband, King Bhima I of the Chaulukya kings. It goes down seven levels of stone stairs to the water, and its walls carry hundreds of carved figures. Stepwells let people reach water even when it fell far below the ground in the dry season.",
    "then": "Over the centuries floods filled it with silt and it lay buried and almost forgotten. Archaeologists dug it out and restored it in the 20th century.",
-   "now": "Accepted. In 2014 it became a UNESCO World Heritage Site, and it is shown on India's ₹100 note. Thousands of stepwells were built across western India, and many were paid for by women.",
+   "now": "Accepted. In 2014 it became a UNESCO World Heritage Site, and it is shown on India's ₹100 note. Thousands of stepwells were built across western India, and many of them were paid for by women.",
    "status": "accepted",
    "ask": "The queen's name is on the stepwell. But who cut the stone, carried it and carved the figures? How could we find out?",
    "day": 5
@@ -949,7 +953,7 @@
    "who": "Varahamihira (about 505–587 CE), Ujjain, India",
    "idea": "In his great book the Brihat Samhita, Varahamihira wrote a whole chapter on finding water under the ground (dakargala). He listed signs to look for: certain trees growing in a dry place, a termite mound near a particular tree, the colour and smell of the soil, plants that stay green when others dry up. Each sign told the well-digger how deep the water might be.",
    "then": "For centuries, well-diggers and farmers in India used signs like these, along with their own experience, passed down by word of mouth.",
-   "now": "Debated. The basic idea is sound: deep-rooted trees that stay green in a dry place, and termites, which need damp soil for their mounds, often do point to water nearby. Some Indian geologists have tested a few of his signs and reported that they often worked; others say the tests were too small to be sure, and that the exact depths in the book can't be trusted everywhere. Today scientists use rocks, maps and instruments as well.",
+   "now": "Debated. The basic idea is sound. Deep-rooted trees that stay green in a dry place often do point to water nearby, and so can termite mounds, because termites need damp soil. Some Indian geologists have tested a few of his signs and reported that they often worked. Others say the tests were too small to be sure, and that the depths in the book can't be trusted everywhere. Today scientists also use rocks, maps and instruments.",
    "status": "debated",
    "ask": "If a green tree grows in a dry field, is it a sign of water, or could there be another reason? How could you test one of Varahamihira's signs fairly?",
    "day": 3
@@ -1004,7 +1008,7 @@
    "You seep sideways through the rock",
    "A tiled courtyard: run off, go back 2",
    "A village pond: sink in slowly, go forward 1",
-   "A neem tree's shade keeps you cool",
+   "A rooftop pipe takes you to a recharge pit: soak in, go forward 2",
    "Someone leaves a tap running: back to START",
    "A tanka catches you: go forward 2",
    "You join the groundwater",
@@ -1032,7 +1036,7 @@
    "'Amma!' I heard Kesar shout. 'There's a frog in it!'",
    "She tipped me gently back into the water, and I sank down, and looked up at her face in the circle of sky. Then I looked at the walls, and the wet stones, and the dark earth beyond them. I am still a frog in a well. But I know now that my well is not a hole in the ground. It is a window."
   ],
-  "epiphany": "The frog believes water comes straight down from the sky into the well, so it keeps looking up. The turn comes when the well fills not from above but from the sides and below: rain that the johad held back has soaked into the ground and travelled through it as groundwater. The concept hidden in the story: rain that soaks in is not lost, it is stored underground and refills wells; slowing rain down lets it soak in. The last line, 'a window', is the idea that a well only lets us see water that is already in the ground all around.",
+  "epiphany": "The frog believes water comes straight down from the sky into the well, so it keeps looking up. The turn comes when the well fills from the sides and below. The johad held the rain back, so it soaked into the ground and travelled through it as groundwater. The idea hidden in the story: rain that soaks in is not lost. It is stored underground and refills wells, and slowing rain down lets it soak in.",
   "ask": [
    "Where did the frog think water came from? Where did it really come from in the end?",
    "Why didn't the heavy rain on the bare hills fill the well?",
@@ -1043,20 +1047,20 @@
  },
  "ideas": [
   {
-   "idea": "Rain never disappears. It hides.",
-   "more": "When rain lands it does three things: it soaks into the ground, it runs off to drains, rivers and the sea, or it evaporates into the air as invisible vapour. Use the sun-and-shade plates, the four surfaces and the jar well to show each one."
+   "idea": "Rain does one of three things when it lands.",
+   "more": "It soaks into the ground, it runs off to drains, rivers and the sea, or it evaporates into the air as invisible water vapour. The sun-and-shade plates, the surfaces test and the jar well each show one of these."
   },
   {
-   "idea": "The ground under our feet is a giant hidden water tank.",
-   "more": "Groundwater fills the tiny spaces in soil and rock. Wells and borewells are holes into it. It refills slowly from rain that soaks in, so paving over soil and cutting forests can dry up wells even when the rain is good."
+   "idea": "The ground stores water in the gaps between grains of soil and rock.",
+   "more": "This is groundwater. Wells and borewells are holes into it. It refills slowly from rain that soaks in, so paving over soil and cutting forests can dry up wells even when the rain is good. That is why Tamil Nadu has made every new building catch its rainwater and send it into the ground."
   },
   {
    "idea": "Clear is not the same as clean.",
-   "more": "Water can look perfect and still carry germs or dissolved salts. That is why John Snow's map mattered: people trusted the Broad Street pump because its water tasted good."
+   "more": "Water can look clear and still carry germs or dissolved salts. That is why John Snow's map mattered. People trusted the Broad Street pump because its water tasted good."
   },
   {
    "idea": "Water is shared by everything alive.",
-   "more": "The same groundwater feeds neighbours' wells, tree roots, ponds and frogs. When one person pumps too much, others go dry. Ask: is water something one person can own?"
+   "more": "The same groundwater feeds neighbours' wells, tree roots, ponds and frogs. When one person pumps too much, others go dry. Ask: can one person own water?"
   }
  ],
  "unknowns": [
@@ -1095,8 +1099,8 @@
    "view": "They keep the courtyard around their underground tank swept and clean, because every drop of rain that falls on it runs into the tank and will be drunk for months. Ask: what would you do differently if your roof was your drinking-water source?"
   },
   {
-   "who": "A sparrow in the summer",
-   "view": "In the hottest months, birds and squirrels in towns struggle to find any water, because ponds have been filled in and drains are covered. Ask: if the sparrow could talk, what would it say about how we use water?"
+   "who": "A crow on a city balcony in May",
+   "view": "In the hottest months, birds and squirrels in cities struggle to find water, because ponds have been filled in and drains are covered. Ask: if the crow could talk, what would it say about how we use water?"
   },
   {
    "who": "A plumber",
@@ -1109,7 +1113,7 @@
    "author": "Miranda Paul (illustrated by Jason Chin)",
    "for": "read together",
    "age": "4–8",
-   "why": "A beautiful, simple walk through rain, steam, fog, ice and back again: a gentle first look at the water cycle you'll meet properly in Class 5."
+   "why": "A simple walk through rain, steam, fog, ice and back again. A gentle first look at the water cycle, which comes properly in Class 5."
   },
   {
    "title": "The Water Princess",
@@ -1123,7 +1127,7 @@
    "author": "Barbara Shaw McKinney",
    "for": "read together",
    "age": "5–9",
-   "why": "Follows one drop of water through clouds, rivers, plants and animals across the world, including India."
+   "why": "Follows one drop of water through clouds, rivers, plants and animals around the world."
   },
   {
    "title": "One Well: The Story of Water on Earth",
@@ -1147,7 +1151,7 @@
    "a": "Your child names your real source from the pipe trail: a river, lake or dam, a borewell, or a tanker."
   },
   {
-   "q": "Why does a matka keep water cool?",
+   "q": "Why does a clay pot keep water cool?",
    "a": "Water seeps through the clay and evaporates from the outside, which takes heat away."
   },
   {

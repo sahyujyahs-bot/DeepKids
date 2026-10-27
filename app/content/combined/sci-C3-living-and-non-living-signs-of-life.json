@@ -4,10 +4,10 @@
  "subj": "sci",
  "level": 3,
  "n": "living-and-non-living-signs-of-life",
- "title": "The seven signs of life, and the cases that break them",
+ "title": "The seven signs of life, and the tricky cases",
  "source": "DeepKids Combined. Covers Cambridge Stage 3 Biology Units 3.1 'Living and non-living', 3.2 'Growth and nutrition' and 3.3 'Movement and reproduction', and NIOS Level A Lesson 4 'The Environment' (what environment means; physical and biological parts; plants and animals; natural and human-made non-living things). No textbook needed.",
- "summary": "Your child learns the seven life processes scientists use to decide whether something is alive (MRS GREN), then puts them on trial against tricky cases: fire, crystals, robots, sleeping seeds and viruses. Along the way they follow growth in stages, find out how plants make food from air, water and light, watch a seedling hunt for light, meet nests, eggs and seeds, and see cells for themselves. They find that no single sign is enough, that the line between alive and not-alive is still argued about, and that living and non-living things are woven together into one environment.",
- "builds_on": "Class 1: alive, once alive and never alive; seeds sleep; yeast is tiny life. This rung adds the seven life processes, cells, growth, nutrition, movement and reproduction, the environment, and the hard cases. Later: microorganisms (Class 5), how life began (Classes 3 and 5), genes and inheriting features, and the web of life.",
+ "summary": "Fire moves, grows, feeds and needs air, yet it is not alive. Your child learns the seven life processes scientists use to decide whether something is alive (MRS GREN). Then they test them on tricky cases: fire, crystals, robots, sleeping seeds and viruses. They follow growth in stages, find out how plants make food from air, water and light, watch seedlings bend towards light, and see cells for themselves. They find that no single sign is enough, that scientists still argue about where life begins, and that the living and non-living parts of an environment depend on each other.",
+ "builds_on": "Class 1: alive, once alive and never alive. Seeds sleep, and yeast is tiny life. This rung adds the seven life processes, cells, growth, nutrition, movement and reproduction, the environment, and the hard cases. Later: microorganisms (Class 5), how life began (Classes 3 and 5), genes and inheriting features, and the web of life.",
  "goals": [
   "By the end your child can name and explain the seven life processes (movement, respiration, sensitivity, growth, reproduction, excretion, nutrition).",
   "By the end your child can test each sign against a tricky case and show why one sign alone isn't enough.",
@@ -81,19 +81,19 @@
      "kind": "warmup",
      "title": "Remember",
      "mins": 6,
-     "do": "Ask: 'What's alive, once alive and never alive in this room?' Then: 'Remember the seed that slept for 2,000 years? Was it alive while it slept?' (Yes, dormant.) 'So how do you know something is alive?' Write every idea on a big sheet."
+     "do": "Ask: 'What is alive, once alive and never alive in this room?' Then: 'Remember the date-palm seed that slept for 2,000 years and then grew into a tree? Was it alive while it slept?' (Yes. It was dormant, which means alive but resting.) 'So how do you know something is alive?' Write every idea on a big sheet."
     },
     {
      "kind": "do",
      "title": "Mrs Gren",
      "mins": 18,
-     "do": "Teach the seven life processes with the memory name MRS GREN: Movement, Respiration (getting energy from food, using air), Sensitivity (noticing and responding), Growth, Reproduction (making young), Excretion (getting rid of waste), Nutrition (getting food). For each, your child acts it out and finds it in a human, a dog and a tulsi plant. Tricky ones for plants: they move slowly (leaves turn to the light, a touch-me-not folds), they take in air through tiny holes in their leaves, they get rid of waste gases and water and drop old leaves. Ask: 'Does a living thing have to do all seven at every moment?' (No: a sleeping seed does almost none, until it wakes.) Then play 'MRS GREN in motion': you call a letter, your child does the movement (M: walk like an elephant; R: big slow breaths; S: freeze and listen like a deer; G: grow from a crouch to tall; R: rock a baby; E: pretend to sneeze; N: munch like a goat)."
+     "do": "Teach the seven life processes with the memory name MRS GREN. Movement. Respiration: getting energy from food, using air. Sensitivity: noticing and responding to the world. Growth. Reproduction: making young. Excretion: getting rid of waste. Nutrition: getting food. For each one, your child acts it out and finds it in a human, a dog and a tulsi plant. The plant is the tricky one. It moves slowly: leaves turn to the light, and a touch-me-not folds when touched. It takes in air through tiny holes in its leaves. It gets rid of waste gases and water, and drops old leaves. Ask: 'Does a living thing have to do all seven every moment?' (No. A dry seed does almost none until it wakes.) Then play 'MRS GREN in motion'. You call a letter and your child acts it. M: walk like an elephant. R: take big slow breaths. S: freeze and listen like a deer. G: grow from a crouch to tall. R: rock a baby. E: wipe sweat off your forehead. N: munch like a goat."
     },
     {
      "kind": "read",
      "title": "Story: Is Fire Alive?",
      "mins": 16,
-     "do": "Read the story aloud (Story tab). Ask the questions. Don't settle the answer; that's this week's job. Write 'Is fire alive?' at the top of the big sheet."
+     "do": "Read the story aloud (Story tab). Ask the questions. Don't settle the answer yet, because that is this week's job. Write 'Is fire alive?' at the top of the big sheet."
     }
    ],
    "need": [
@@ -116,7 +116,7 @@
      "kind": "exp",
      "title": "Crystal garden",
      "mins": 12,
-     "do": "Start Experiment e1: grow salt or sugar crystals on a string. Ask: 'Crystals grow. Will that make them alive?' Your child writes a prediction.",
+     "do": "Start Experiment e1: grow salt crystals on a string. Ask: 'Crystals grow. Will that make them alive?' Your child writes a prediction.",
      "ref": "e1"
     },
     {
@@ -130,11 +130,11 @@
      "kind": "think",
      "title": "The trials",
      "mins": 16,
-     "do": "For each sign, your child finds something non-living that shows it. Moving: a car, a river. Growing: a crystal, a snowball, a city. Feeding: fire 'eats' wood. Respiration: fire needs oxygen. Making more: fire's sparks start new fires. Waste: fire makes smoke and ash. Sensing: an automatic door senses you. Then: a robot dog moves, senses and needs 'food' (charging). Ask: 'So is any one sign enough?' (No.) 'How many signs would you want before you said yes?'"
+     "do": "For each sign, your child finds something non-living that shows it. Moving: a car, a river. Growing: a crystal, a sand dune, a city. Feeding: fire burns up wood. Respiration: fire needs oxygen. Making more: sparks from a fire start new fires. Waste: fire makes smoke and ash. Sensing: an automatic door opens when you come near. Then think about a robot dog. It moves, senses you and needs charging, a bit like food. Ask: 'So is any one sign enough?' (No.) 'How many signs would you want before you said yes?'"
     }
    ],
    "need": [
-    "salt or sugar",
+    "salt",
     "a glass jar",
     "hot water (a grown-up pours)",
     "string and a pencil",
@@ -161,20 +161,20 @@
      "kind": "warmup",
      "title": "Building blocks",
      "mins": 5,
-     "do": "Show a brick wall or a Lego model. Ask: 'What is it made of?' (Small blocks.) 'What do you think living things are made of?' Peek at the crystal string: anything yet?"
+     "do": "Show a brick wall or a Lego model. Ask: 'What is it made of?' (Small blocks.) 'What do you think living things are made of?' Then check the crystal string. Has anything grown yet?"
     },
     {
      "kind": "exp",
      "title": "Onion skin cells",
      "mins": 18,
-     "do": "Do Experiment e2: peel the thin skin from inside an onion layer and look at it with a strong hand lens or a phone camera zoomed in through a magnifying glass. If you have a toy microscope, even better. Your child draws the pattern.",
+     "do": "Do Experiment e2. Peel the thin skin from the inside of an onion layer. Look at it with a strong hand lens, or zoom in with a phone camera held behind a magnifying glass. A toy microscope is even better. Your child draws the pattern they see.",
      "ref": "e2"
     },
     {
      "kind": "talk",
      "title": "The deeper test",
      "mins": 17,
-     "do": "Say: 'Every living thing we know is made of cells. You are made of about 30 trillion. And when a living thing makes young, it passes on a set of instructions (genes) inside its cells, so a mango seed grows into a mango tree, not a cat. Over very many generations the instructions slowly change, and that is how new kinds of living things come about.' Ask: 'Does a fire pass on instructions? Does a crystal?' Add: 'Inside every cell are tiny machines called ribosomes that read the instructions and build what the cell needs. An Indian-born scientist from Chidambaram, Venkatraman Ramakrishnan, spent decades mapping the shape of the ribosome atom by atom and shared the Nobel Prize in 2009; his map shows how some medicines stop germs by jamming their ribosomes.' Then talk about voice v1, van Leeuwenhoek and his tiny animals, and ask its question.",
+     "do": "Say: 'Every living thing we know is made of cells. You are made of about 30 trillion. When a living thing makes young, it passes on a set of instructions, called genes, inside its cells. That is why a mango seed grows into a mango tree, not a cat. Over very many generations the instructions slowly change. That is how new kinds of living things come about.' Ask: 'Does a fire pass on instructions? Does a crystal?' Add: 'Inside every cell are tiny machines called ribosomes. They read the instructions and build what the cell needs. Venkatraman Ramakrishnan, a scientist born in Chidambaram in Tamil Nadu, spent years working out the exact shape of the ribosome. He shared the Nobel Prize in Chemistry in 2009. His work shows how some medicines stop harmful bacteria by jamming their ribosomes.' Then talk about voice v1, van Leeuwenhoek, and ask its question.",
      "ref": "v1"
     }
    ],
@@ -193,7 +193,7 @@
      "kind": "warmup",
      "title": "Crystal and light-box check",
      "mins": 5,
-     "do": "Look at the crystal string. Has it grown? Ask: 'Does it grow the way a plant grows, from inside, using food? Or does it just stick more salt on the outside?' (Crystals grow only by adding on the outside; living things grow from within, by turning food into new cells.) Peek quickly into the light box and close it."
+     "do": "Look at the crystal string. Has it grown? Ask: 'Does it grow the way a plant grows, from inside, using food? Or does more salt just stick on the outside?' (A crystal grows only by adding salt on the outside. Living things grow from inside, by turning food into new cells.) Peek quickly into the light box and close it again."
     },
     {
      "kind": "do",
@@ -205,14 +205,14 @@
      "kind": "do",
      "title": "What do they eat?",
      "mins": 13,
-     "do": "Do Activity a1: a food survey of living things around the house. Explain photosynthesis first: 'Green plants make their own food, a sugar, from sunlight, the air (carbon dioxide) and water, in their green leaves, and they give out oxygen.' Then sort: makes its own food (plants), eats plants (cow, goat), eats animals (spider, lizard), eats both (crow, human), eats dead things (mushrooms, earthworms, some bacteria). Ask: 'What would happen if nothing ate dead things?' (Dead leaves and bodies would pile up forever; nothing would turn back into soil.)",
+     "do": "Do Activity a1, a survey of what living things around the house eat. First ask: 'Where does a plant get its food?' Listen to the guess. Then explain photosynthesis: 'Green plants make their own food, a sugar, in their leaves. They make it from sunlight, water and carbon dioxide, a gas in the air. They give out oxygen.' Then sort: makes its own food (plants), eats plants (cow, goat), eats animals (spider, lizard), eats both (crow, human), eats dead things (mushrooms, earthworms, some bacteria). Ask: 'What would happen if nothing ate dead things?' (Dead leaves and bodies would pile up, and nothing would turn back into soil.)",
      "ref": "a1"
     },
     {
      "kind": "game",
      "title": "Alive Detective card game",
      "mins": 10,
-     "do": "Play the card game (g1): each card is a mystery thing with clues; players decide alive, not alive or argued, and give a reason.",
+     "do": "Play the card game g1. Each card describes a mystery thing with clues. Players decide alive, not alive or argued, and give a reason.",
      "ref": "g1"
     }
    ],
@@ -232,20 +232,20 @@
      "kind": "exp",
      "title": "Light-box results",
      "mins": 12,
-     "do": "Open the light box from Experiment e3. The seedlings have bent towards the hole. Ask: 'How did they move without legs?' (By growing more on the shady side, so they bend towards light. They sensed the light: sensitivity!) Compare animals: they move their whole body to find food, escape and find mates. Then talk about voice v4, J.C. Bose, and ask its question.",
+     "do": "Open the light box from Experiment e3 and compare the two cups. Ask: 'What happened to the seedlings in the box? How did they move without legs?' (They grew more on the shady side, so they bent towards the light. They sensed the light, which is sensitivity.) Then compare animals: they move their whole body to find food, escape danger and find mates. Then talk about voice v4, J.C. Bose, and ask its question.",
      "ref": "v4"
     },
     {
      "kind": "talk",
      "title": "Eggs, seeds and babies",
      "mins": 14,
-     "do": "Say: 'Every kind of living thing reproduces, or it would die out.' Sort examples aloud: seeds (mango, rajma, dandelion), eggs (hen, crocodile, butterfly, frog spawn), live young (cow, human, dog). Then shelters: the baya weaver weaves a hanging grass nest; a tailorbird stitches leaves together; a sparrow tucks a nest behind an AC unit; a crocodile mother guards her nest and carries her hatchlings to the water in her mouth; a spider wraps her eggs in a silk sac. Ask: 'Why do some animals lay hundreds of eggs and others have just one baby?' (Lots of eggs, little care, many get eaten; one baby, lots of care.) Seeds are a plant's young, travelling to new homes by wind, water and animals."
+     "do": "Say: 'Every kind of living thing reproduces, or it would die out.' Sort examples aloud: seeds (mango, rajma, coconut), eggs (hen, crocodile, butterfly, frog), live young (cow, human, dog). Then talk about keeping eggs and young safe, because many animals eat them. The baya weaver hangs its woven grass nest from a thin branch, often over water, where snakes find it hard to reach. The tailorbird stitches leaves together around its nest, so the nest is hidden. A sparrow tucks its nest into a gap behind an AC unit. A mugger crocodile mother guards her nest, then carries her hatchlings to the water in her mouth, so birds can't snatch them on the way. A spider wraps her eggs in a silk sac. Ask: 'Why do some animals lay hundreds of eggs and others have just one baby?' (Many eggs get little care, and many get eaten. One baby gets lots of care.) Seeds are a plant's young. They travel to new places by wind, water and animals. A coconut can float across the sea."
     },
     {
      "kind": "ws",
      "title": "Core worksheet",
      "mins": 14,
-     "do": "Your child does Worksheet ws1 (core) on the seven signs, growth, food, movement and young. Check it together; for each slip, ask 'Which life process is that? What's your evidence?'",
+     "do": "Your child does Worksheet ws1 (core) on the seven signs, growth, food, movement and young. Check it together. For each mistake, ask: 'Which life process is that? What is your evidence?'",
      "ref": "ws1"
     }
    ],
@@ -263,7 +263,7 @@
      "kind": "read",
      "title": "What is a virus?",
      "mins": 10,
-     "do": "Explain: 'A virus is far smaller than a cell. On its own it does nothing: it doesn't eat, breathe or grow. But when it gets inside a living cell, it takes over the cell's machinery and makes thousands of copies of itself. Colds and flu are caused by viruses.' Then add a tardigrade: 'This tiny animal can dry up for years, doing nothing at all, then wake when wet.' Ask: 'Which is more alive, a dried tardigrade or a virus?'"
+     "do": "Explain: 'A virus is far smaller than a cell. On its own it does nothing. It doesn't eat, breathe or grow. But when it gets inside a living cell, it takes over the cell and makes thousands of copies of itself. Colds and flu are caused by viruses.' Then tell your child about the tardigrade: 'This tiny animal, about the size of a full stop, can dry up for years, then wake up when it gets wet.' Ask: 'Which is more alive, a dried tardigrade or a virus?'"
     },
     {
      "kind": "think",
@@ -276,7 +276,7 @@
      "kind": "talk",
      "title": "NASA's definition",
      "mins": 15,
-     "do": "Talk about voice v3: NASA needed a definition of life to know what to look for on Mars. Read it slowly: 'a self-sustaining chemical system capable of Darwinian evolution', and explain: something that keeps itself going using energy and materials around it, and whose young can change slowly over many generations. Ask: 'Does fire pass that test? Does a virus? Does a sleeping seed?' Then a last puzzle: 'A single bacterium has no brain, yet it swims towards food and away from poison, and it changes what it does as conditions change. Is it deciding? Does thinking need a brain?' Scientists genuinely argue about whether to call this 'thinking' (some call it basal cognition). Let your child argue both ways.",
+     "do": "Talk about voice v3. NASA needed a definition of life so it would know what to look for on Mars. Read it slowly: 'a self-sustaining chemical system capable of Darwinian evolution'. Explain it: something that keeps itself going using energy and materials from around it, and whose young can slowly change over many generations. Ask: 'Does fire pass that test? Does a virus? Does a sleeping seed?' Then one last puzzle: 'A single bacterium has no brain. Yet it swims towards food and away from poison. Is it deciding? Does thinking need a brain?' Let your child answer. Then say: 'A bacterium senses, remembers for a few seconds and chooses where to go. That is a simple kind of mind, and scientists call it basal cognition. Some scientists say the word thinking should be kept for animals with brains.'",
      "ref": "v3"
     }
    ],
@@ -293,26 +293,26 @@
      "kind": "outdoor",
      "title": "Environment map",
      "mins": 18,
-     "do": "Do Activity a2 in a park, a garden or a lane: your child maps one small patch (2 big steps square). Label everything as biological (living: grass, ants, a tree, a bird, moss) or physical (non-living: soil, stones, water, air, sunlight, warmth, a wall). Then draw arrows: what does each living thing need from the non-living things? (Plants need sunlight, water, air, soil; ants need soil for their nest.)",
+     "do": "Do Activity a2. Your child maps one small patch. Use a park, a garden or a lane if one is near. In a flat, use a balcony or window ledge with a potted plant. Label everything as biological, meaning living (grass, ants, a plant, a bird, moss), or physical, meaning non-living (soil, stones, water, air, sunlight, warmth, a wall). Then draw arrows: what does each living thing need from the non-living things? (Plants need sunlight, water, air and soil. Ants need soil or cracks for their nest.)",
      "ref": "a2"
     },
     {
      "kind": "ws",
      "title": "Natural or human-made?",
      "mins": 12,
-     "do": "Say: 'Non-living things can be natural, made by nature (a river, a stone, the Moon), or human-made (a dam, a bus, a road).' Ask: 'Who made the river? Who made the dam?' Then your child does Worksheet ws2 (stretch). Ask about the tricky one: 'Is a brick natural or human-made?' (Made by people, from natural clay.)",
+     "do": "Say: 'Non-living things can be natural, made by nature, like a river, a stone or the Moon. Or they can be human-made, like a dam, a bus or a road.' Ask: 'Who made the river? Who made the dam?' Then your child does Worksheet ws2 (stretch). Ask about the tricky one: 'Is a brick natural or human-made?' (Made by people, from natural clay.)",
      "ref": "ws2"
     },
     {
      "kind": "review",
-     "title": "The atoms that travel",
+     "title": "From air to plant to you",
      "mins": 10,
-     "do": "Say: 'The water in your body was once rain, and before that sea, and maybe once inside a dinosaur. The carbon in you was once in the air, then in a plant, then in your food.' Ask: 'Could the soil be the same with no living things?' (No: worms, fungi and dead leaves make it.) 'So where does non-living stop and living begin?'"
+     "do": "Say: 'The water in your body was once rain, and before that it was in the sea. Some of it may once have been inside a dinosaur. The carbon in your body was once in the air. A plant took it in, and then you ate the plant.' Ask: 'Could soil be the same with no living things?' (No. Worms, fungi and dead leaves help make it.) 'So where does non-living stop and living begin?'"
     }
    ],
    "need": [
     "paper, pencil, clipboard",
-    "string to mark a square",
+    "string to mark a square (not needed on a balcony)",
     "worksheet ws2"
    ]
   },
@@ -366,7 +366,7 @@
        "pairs": [
         [
          "Movement",
-         "a sunflower turning to the sun"
+         "a young sunflower turning to follow the sun"
         ],
         [
          "Respiration",
@@ -404,7 +404,7 @@
       },
       {
        "t": "mcq",
-       "p": "How does a plant 'move'?",
+       "p": "How does a plant move?",
        "opts": [
         "it walks",
         "its leaves and stems grow towards light",
@@ -535,7 +535,7 @@
        "p": "How is a crystal's growing different from a plant's?",
        "opts": [
         "the crystal grows faster",
-        "the crystal only adds on the outside; the plant turns food into new cells inside",
+        "the crystal only adds on the outside, but the plant turns food into new cells inside",
         "there is no difference"
        ],
        "a": 1
@@ -605,7 +605,7 @@
      [
       {
        "t": "write",
-       "p": "A robot dog walks, barks when it sees you and needs charging. Which signs of life does it show? Which does it lack?",
+       "p": "Farhan has a robot dog. It walks, barks when it sees him and needs charging. Which signs of life does it show? Which does it lack?",
        "lines": 3
       },
       {
@@ -718,20 +718,20 @@
    "day": 2,
    "question": "Crystals grow. Does that make them alive?",
    "need": [
-    "salt or sugar",
+    "salt (sugar works too, but much more slowly)",
     "a jar",
     "hot water",
     "string tied to a pencil"
    ],
    "steps": [
     "A grown-up pours hot water into the jar.",
-    "Stir in salt (or sugar) a spoon at a time until no more dissolves.",
+    "Stir in salt, one spoon at a time, until no more dissolves.",
     "Hang the string from a pencil laid across the jar so it dips into the water.",
-    "Leave it somewhere still for several days and check daily."
+    "Leave it somewhere still for 3 to 7 days, and check it every day."
    ],
    "predict": "Ask: 'Will anything grow? Will it be alive?'",
    "observe": "Crystals forming on the string and getting bigger.",
-   "why": "As water evaporates, the salt can't stay dissolved and its particles line up into crystals on the string. The crystal grows by adding on the outside. Living things grow from inside by turning food into new cells, and they pass on instructions; crystals don't.",
+   "why": "As the water evaporates, the salt can't all stay dissolved, so its particles line up into crystals on the string. The crystal grows by adding on the outside. Living things grow from inside by turning food into new cells, and they pass on instructions. Crystals don't.",
    "safety": "A grown-up handles the hot water.",
    "time": "15 min + several days"
   },
@@ -749,18 +749,18 @@
    "steps": [
     "Break an onion layer and peel off the very thin, see-through skin on the inside.",
     "Lay it flat on clear plastic with a drop of water.",
-    "Look through the strongest magnifier you have, or zoom with a phone camera through a hand lens.",
+    "Look through the strongest magnifier you have, or zoom in with a phone camera through a hand lens.",
     "Draw what you see."
    ],
    "predict": "Ask: 'What will the skin look like up close?'",
-   "observe": "A pattern of tiny boxes, like bricks.",
-   "why": "Those boxes are cells, the building blocks of every living thing. An onion skin is one layer of cells thick, which is why you can see them. You are made of about 30 trillion cells!",
-   "safety": "",
+   "observe": "A pattern of tiny boxes, like bricks in a wall. With only a hand lens they are faint, so look for thin lines. A toy microscope shows them clearly.",
+   "why": "Those boxes are cells, the building blocks of every living thing. An onion skin is only one layer of cells thick, which is why you can see them. You are made of about 30 trillion cells.",
+   "safety": "Peel the onion by hand. If it needs cutting, a grown-up cuts it.",
    "time": "20 min"
   },
   {
    "id": "e3",
-   "title": "The seedling that hunts for light",
+   "title": "Do seedlings bend towards light?",
    "day": 2,
    "question": "Can a plant move? Can it sense light?",
    "need": [
@@ -777,8 +777,8 @@
     "After 3 days, open the box and compare."
    ],
    "predict": "Ask: 'What will the seedlings in the box do? Will they look like the ones outside?'",
-   "observe": "The box seedlings bend sharply towards the hole and may be pale and long; the room seedlings lean only a little towards the window.",
-   "why": "Plants move by growing. The tip of the shoot senses which side the light comes from, and a growth substance (auxin) builds up on the shaded side, making those cells grow longer, so the stem bends towards the light. Moving, sensing and growing are three of the seven life processes, all happening in one silent seedling.",
+   "observe": "The seedlings in the box bend sharply towards the hole, and may be pale and long. The seedlings in the room lean only a little towards the window.",
+   "why": "Plants move by growing. The tip of the shoot senses which side the light comes from. A growth substance called auxin builds up on the shaded side and makes those cells grow longer, so the stem bends towards the light. Moving, sensing and growing are three of the seven life processes, all in one seedling.",
    "safety": "A grown-up uses the scissors.",
    "time": "8 min + 3 days"
   }
@@ -812,7 +812,7 @@
     "string to mark a 2-step square"
    ],
    "steps": [
-    "Mark a square of ground with string, 2 big steps on each side.",
+    "Mark a square of ground with string, 2 big steps on each side. In a flat, use a balcony or window ledge with a potted plant.",
     "Draw a map of everything in it.",
     "Colour living (biological) things green and non-living (physical) things brown.",
     "Draw arrows from each non-living thing to the living things that need it.",
@@ -920,7 +920,7 @@
  "challenge": [
   {
    "q": "Textbooks often give a neat list of signs of life, as if the question were settled. Is it?",
-   "hint": "No. Fire shows many signs and isn't alive; a sleeping seed shows almost none and is. Scientists still argue about viruses, and NASA's definition is a 'working' one. A list is a tool, not the truth."
+   "hint": "No. Fire shows many signs and isn't alive. A sleeping seed shows almost none, and it is alive. Scientists still argue about viruses, and NASA's definition is only a 'working' one. A list is a useful tool, but it is not the final answer."
   },
   {
    "q": "'Living things move, non-living things don't.' True?",
@@ -938,11 +938,11 @@
   },
   {
    "who": "The Ganga, and the people who call it Mother",
-   "view": "For many people the Ganga is a living goddess. In 2017 an Indian court briefly declared the Ganga and Yamuna 'living entities' with legal rights (a higher court later set this aside). Ask: what changes if we treat a river as alive?"
+   "view": "For many people the Ganga is a living goddess. In 2017 the Uttarakhand High Court declared the Ganga and Yamuna 'living entities' with legal rights. The Supreme Court put this on hold a few months later. Ask: what changes if we treat a river as alive?"
   },
   {
    "who": "Lynn Margulis (1938–2011), a biologist",
-   "view": "Margulis showed that the energy-making parts of our cells (mitochondria) and the green parts of plant cells (chloroplasts) were once free-living bacteria that moved in with bigger cells. Fifteen journals rejected her 1967 paper; DNA evidence later proved her right. Life, she said, grows by joining up as well as by competing. Ask: is a cell one living thing, or a partnership?"
+   "view": "Margulis showed that the energy-making parts of our cells (mitochondria) and the green parts of plant cells (chloroplasts) were once free-living bacteria that moved in with bigger cells. About fifteen journals rejected her 1967 paper. DNA evidence later showed she was right. Life, she said, grows by joining up as well as by competing. Ask: is a cell one living thing, or a partnership?"
   }
  ],
  "voices": [
@@ -961,7 +961,7 @@
    "who": "Didier Raoult and colleagues (2003), France, and their critics",
    "idea": "They described the mimivirus, a 'giant virus' so big it was first mistaken for a bacterium, with far more genes than any virus known, including genes for jobs viruses aren't supposed to do. Some of them argued that giant viruses deserve their own branch on the tree of life.",
    "then": "Many virologists disagreed: giant or not, these viruses still can't copy themselves without a host cell.",
-   "now": "There's no agreement. Some scientists say viruses are alive only inside a cell; others say they're not alive at all; others say the question is the wrong one.",
+   "now": "There's no agreement. Some scientists say viruses are alive only inside a cell. Others say they are not alive at all. Others say the question itself is the wrong one.",
    "status": "debated",
    "ask": "Should the word 'alive' have a sharp edge, or can some things be 'partly alive'?",
    "day": 6
@@ -990,59 +990,59 @@
  "story": {
   "title": "Is Fire Alive?",
   "text": [
-   "On the night before Holi, the whole lane gathered around the bonfire. The men had piled up wood and dry branches and cow-dung cakes all week, and when the priest lit it, the fire leapt up so fast and so high that the children screamed and stepped back.",
-   "Zoya stood next to her Aaji, holding her hand, and watched the flames. Aaji had been a botanist before she retired, and she still couldn't walk past a plant without telling you its name.",
-   "\"Aaji,\" said Zoya, \"is fire alive?\"",
-   "Aaji smiled the smile she kept for very good questions. \"What do you think?\"",
-   "Zoya had learned about the signs of life at school, Mrs Gren and her seven signs. She counted on her fingers.",
-   "\"It moves,\" she said. The flames were dancing. \"It breathes, because if you cover it, it goes out; it needs air. It eats, because it eats the wood. It grows, look how big it's got. It makes waste: smoke and ash. And it has babies!\" A spark had flown out and landed on a heap of dry leaves, and a small new fire was starting. A man stamped it out. \"That was its baby,\" said Zoya. \"Six signs. It even senses things: when the wind blows, it leans away.\"",
-   "\"Seven signs,\" said Aaji. \"So it's alive?\"",
-   "Zoya frowned. It didn't feel right. The fire didn't feel like the neem tree, or the goat tied by the temple, or the baby asleep on her aunty's shoulder.",
+   "Early on the morning of Bhogi, the day before Pongal, the whole street gathered around the bonfire. All week people had piled up old mats, broken baskets, dry palm leaves and dead branches. When Kavya's uncle lit it, the fire leapt up so fast and so high that the children screamed and stepped back.",
+   "Kavya stood next to her Paati, her grandmother, holding her hand, and watched the flames. Paati had been a botanist before she retired, and she still couldn't walk past a plant without telling you its name.",
+   "\"Paati,\" said Kavya, \"is fire alive?\"",
+   "Paati smiled the smile she kept for very good questions. \"What do you think?\"",
+   "Kavya had learned about the signs of life at school, Mrs Gren and her seven signs. She counted on her fingers.",
+   "\"It moves,\" she said. The flames were dancing. \"It breathes, because if you cover it, it goes out. It needs air. It eats, because it eats the wood. It grows, look how big it's got. It makes waste: smoke and ash. And it has babies!\" A spark had flown out and landed on a heap of dry leaves, and a small new fire was starting. A man stamped it out. \"That was its baby,\" said Kavya. \"Six signs. It even senses things: when the wind blows, it leans away.\"",
+   "\"Seven signs,\" said Paati. \"So it's alive?\"",
+   "Kavya frowned. It didn't feel right. The fire didn't feel like the neem tree, or the goat tied by the temple, or the baby asleep on her aunty's shoulder.",
    "\"Then it's alive,\" she said, slowly. \"But it isn't.\"",
-   "Aaji laughed. \"Good,\" she said. \"Now you're doing science. When the list says yes and your gut says no, one of them is wrong. Let's find out which.\"",
-   "They walked a little way from the heat, to the old mango tree at the end of the lane. Aaji picked up a fallen mango from the ground and broke it open, and showed Zoya the big seed in the middle.",
-   "\"When this seed grows,\" Aaji said, \"what will it become?\"",
+   "Paati laughed. \"Good,\" she said. \"Now you're doing science. When the list says yes and your gut says no, one of them is wrong. Let's find out which.\"",
+   "They walked a little way from the heat, to the old mango tree at the end of the street. Paati picked up a fallen mango from the ground and broke it open, and showed Kavya the big seed in the middle.",
+   "\"When this seed grows,\" Paati said, \"what will it become?\"",
    "\"A mango tree.\"",
    "\"Not a coconut tree? Not a goat?\"",
-   "Zoya giggled. \"No! A mango tree.\"",
+   "Kavya giggled. \"No! A mango tree.\"",
    "\"Why?\"",
-   "Zoya thought. \"Because it came from a mango tree. It's got mango-ness inside it.\"",
-   "\"Exactly,\" said Aaji. \"Inside every seed, inside every living cell, there's a set of instructions, passed down from parent to child, all the way back. Mango trees make mango trees. And very, very slowly, over thousands of generations, the instructions change a little, so that living things can become new kinds of living things. That's what life does. It remembers, and it changes.\"",
+   "Kavya thought. \"Because it came from a mango tree. It's got mango-ness inside it.\"",
+   "\"Exactly,\" said Paati. \"Inside every seed, inside every living cell, there's a set of instructions, passed down from parent to child, all the way back. Mango trees make mango trees. And very, very slowly, over thousands of generations, the instructions change a little, so that living things can become new kinds of living things. That's what life does. It remembers, and it changes.\"",
    "She pointed back at the bonfire. \"Now, the fire's baby. That little fire on the leaves. Was it a copy of its mother?\"",
-   "Zoya thought about it. The little fire hadn't looked like the big fire at all. It was just fire, eating whatever it landed on. If it had landed on paper, it would have been a paper fire; on wood, a wood fire. It didn't have instructions. It didn't remember anything. Nothing was passed down.",
+   "Kavya thought about it. The little fire hadn't looked like the big fire at all. It was just fire, eating whatever it landed on. If it had landed on paper, it would have been a paper fire. On wood, it would have been a wood fire. It didn't have instructions. It didn't remember anything. Nothing was passed down.",
    "\"No,\" she said. \"It doesn't remember. Every fire just starts again from nothing.\"",
-   "\"So,\" said Aaji, \"is fire alive?\"",
-   "Zoya looked at the flames for a long time. \"It's not alive,\" she said finally. \"It just behaves a bit like it. It's like... a copycat.\"",
-   "Aaji squeezed her hand. \"Some scientists would agree with you. And some would say the line between alive and not-alive is blurrier than we think. There are viruses that sit right on the line, and scientists still argue about them. Nobody has the final answer.\"",
-   "Zoya liked that. Nobody had the final answer. That meant there was still something left for her to find out.",
-   "The fire was burning lower now, and the people were singing. Zoya held the mango seed in her hand, warm from the bonfire, carrying its long, long memory of mango trees, all the way back to the very first one."
+   "\"So,\" said Paati, \"is fire alive?\"",
+   "Kavya looked at the flames for a long time. \"It's not alive,\" she said finally. \"It just behaves a bit like it. It's like... a copycat.\"",
+   "Paati squeezed her hand. \"Some scientists would agree with you. And some would say the line between alive and not-alive is blurrier than we think. There are viruses that sit right on the line, and scientists still argue about them. Nobody has the final answer.\"",
+   "Kavya liked that. Nobody had the final answer. That meant there was still something left for her to find out.",
+   "The fire was burning lower now, the sky was getting light, and someone had started beating a drum. Kavya held the mango seed in her hand, warm from the bonfire, carrying its long, long memory of mango trees, all the way back to the very first one."
   ],
-  "epiphany": "The seven signs of life are a useful checklist, but fire passes most of them and isn't alive; the deeper mark of life is passing on inherited instructions (genes) that can slowly change over generations (evolution), which fire lacks. The turn is Zoya realising the little fire 'doesn't remember'. Underneath: a grandmother scientist, trusting both evidence and intuition, and the honest message that the question is still open.",
+  "epiphany": "The seven signs of life are a useful checklist, but fire passes most of them and isn't alive. The deeper mark of life is passing on inherited instructions (genes) that can slowly change over generations (evolution), which fire lacks. The turn is Kavya realising the little fire 'doesn't remember'. Underneath: a grandmother scientist, trusting both evidence and intuition, and the honest message that the question is still open.",
   "ask": [
    "Which signs of life did the fire show?",
-   "Why did Zoya feel it wasn't alive?",
+   "Why did Kavya feel it wasn't alive?",
    "What does the mango seed have that the fire doesn't?",
-   "What did Aaji mean when she said life 'remembers, and it changes'?",
-   "Why did Zoya like that nobody has the final answer?"
+   "What did Paati mean when she said life 'remembers, and it changes'?",
+   "Why did Kavya like that nobody has the final answer?"
   ]
  },
  "ideas": [
   {
    "idea": "No single sign proves life.",
-   "more": "Fire, crystals and robots each show some signs; sleeping seeds show almost none. Scientists use many signs together."
+   "more": "Fire, crystals and robots each show some signs, and sleeping seeds show almost none. Scientists use many signs together."
   },
   {
    "idea": "Life passes on instructions that slowly change.",
-   "more": "Every living thing is made of cells carrying instructions (genes) from its parents. Over many generations, those instructions change: that's evolution."
+   "more": "Every living thing is made of cells carrying instructions (genes) from its parents. Over many generations, those instructions change. That is evolution."
   },
   {
-   "idea": "Living and non-living are woven together.",
-   "more": "Water, air, soil and sunlight make life possible, and living things make soil, oxygen and even rock (chalk and coral). Physical and biological parts together make one environment."
+   "idea": "Living and non-living things depend on each other.",
+   "more": "Water, air, soil and sunlight make life possible. Living things in turn make soil, oxygen and even rock, such as chalk and coral reefs. Together, the physical and biological parts make up one environment."
   }
  ],
  "unknowns": [
   "Are viruses alive? Scientists are still divided.",
-  "How did the first living thing come from non-living chemicals? Nobody knows for sure; it's one of the biggest open questions in science.",
+  "How did the first living thing come from non-living chemicals? Nobody knows for sure. It is one of the biggest open questions in science.",
   "If life exists on another planet, will it be made the same way as ours? We have only one example of life, ours, to go on."
  ],
  "books": [
@@ -1075,11 +1075,11 @@
   },
   {
    "q": "Fire shows many signs. Why do scientists say it isn't alive?",
-   "a": "It has no cells and doesn't pass on instructions; every fire starts from scratch."
+   "a": "It has no cells and doesn't pass on instructions. Every fire starts from scratch."
   },
   {
    "q": "How is a growing crystal different from a growing plant?",
-   "a": "A crystal only adds on the outside; a plant grows from inside by turning food into new cells."
+   "a": "A crystal only adds on the outside. A plant grows from inside by turning food into new cells."
   },
   {
    "q": "How do green plants get their food?",
@@ -1099,7 +1099,7 @@
   },
   {
    "q": "Name a physical and a biological part of your environment that depend on each other.",
-   "a": "e.g. a tree needs sunlight, water and soil; soil is made partly by worms and dead leaves."
+   "a": "For example, a tree needs sunlight, water and soil, and soil is made partly by worms and dead leaves."
   }
  ],
  "subconcepts": [
@@ -1109,14 +1109,14 @@
   "cells: the building blocks of every living thing",
   "inherited instructions (genes) that slowly change over generations",
   "growth in stages: life cycles of humans and plants",
-  "living things grow from inside; crystals add on outside",
-  "nutrition: plants make food from light, air and water (photosynthesis); animals eat; decomposers recycle",
+  "living things grow from inside, but crystals add on the outside",
+  "nutrition: plants make food from light, air and water (photosynthesis), animals eat food, and decomposers break down dead things",
   "movement: animals move about, plants move by growing (towards light)",
   "reproduction: seeds, eggs and live young, and the shelters made for them",
   "viruses: on the edge of life",
   "a working definition of life (NASA)",
   "the environment: physical and biological parts",
   "natural and human-made non-living things",
-  "living and non-living are woven together (matter cycles through both)"
+  "living and non-living things depend on each other (water and carbon move through both)"
  ]
 }

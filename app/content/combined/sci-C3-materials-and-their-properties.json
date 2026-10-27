@@ -4,10 +4,10 @@
  "subj": "sci",
  "level": 3,
  "n": "materials-and-their-properties",
- "title": "This world of things: properties, keys, magnets and twenty skins",
+ "title": "Materials: what they are like, and why we test them",
  "source": "DeepKids Combined. Covers NCERT Class 3 'This World of Things' (what things are made of, where they come from, natural and made by people, properties of materials) and Cambridge Stage 3 Chemistry: Unit 5.1 'Properties of materials', Unit 5.2 'Sorting materials', Unit 5.3 'Uses of materials' and Unit 5.4 'Testing materials'. No textbook needed.",
- "summary": "Your child already sorts natural and made materials and runs fair tests. Now they go further: transparent, translucent and opaque; what makes a metal a metal, and the surprise that not all metals (not even all steel) are magnetic; alloys; solids, liquids and gases; branching keys that sort like a scientist's database; measured tests repeated for reliable results; and how the best designs combine many materials, each doing one job, like the twenty-odd layers of the suit that walked on the Moon. They also make a flake of graphene's parent with a pencil and sticky tape, and bust the myth that old glass flows.",
- "builds_on": "Class 1: object and material, simple property words, simple tests. Class 2: natural and made materials and their journeys, rigid, flexible, absorbent, waterproof, transparent, fair tests with tables and block graphs, biodegradable. Next: Changing materials (Class 4) and Matter and particles (Class 4) explain WHY materials have their properties; Making things (Classes 3–5) uses them.",
+ "summary": "A steel spoon sticks to a magnet, but many steel tumblers do not. Your child learns to test materials instead of guessing. They sort things as transparent, translucent or opaque, find out what metals have in common and which ones are magnetic, and tell solids, liquids and gases apart. They build a branching key, repeat a measured test to see if it is reliable, and peel pencil graphite thinner and thinner with sticky tape. They find out why the moon suit needed about twenty layers, and why old glass does not flow.",
+ "builds_on": "Class 1: object and material, simple property words, simple tests. Class 2: natural and made materials and their journeys, rigid, flexible, absorbent, waterproof, transparent, fair tests with tables and block graphs, biodegradable. Next: Changing materials (Class 4) and Matter and particles (Class 4) explain why materials have their properties. Making things (Classes 3 to 5) uses them.",
  "subconcepts": [
   "transparent, translucent and opaque",
   "metals: shiny, ring when struck, carry heat, often strong",
@@ -27,7 +27,7 @@
  "goals": [
   "By the end your child can sort materials as transparent, translucent or opaque, and explain why each is used where it is.",
   "By the end your child can list properties of metals, test which materials are magnetic, and explain that not all metals are.",
-  "By the end your child can sort objects with a branching key and make their own key with yes/no questions.",
+  "By the end your child can sort objects with a branching key and make their own key with yes-or-no questions.",
   "By the end your child can tell a solid from a liquid and a gas, including tricky cases like sand and rice.",
   "By the end your child can carry out a measured test three times and say whether the results are reliable.",
   "By the end your child can explain why a good design often uses several materials, each for a different property."
@@ -51,7 +51,7 @@
   ],
   [
    "magnetic",
-   "pulled by a magnet; iron, steel (most kinds), nickel and cobalt are magnetic"
+   "attracted by a magnet. Iron, most kinds of steel, nickel and cobalt are magnetic."
   ],
   [
    "alloy",
@@ -71,7 +71,7 @@
   ],
   [
    "branching key",
-   "a chart of yes/no questions that sorts things step by step"
+   "a chart of yes-or-no questions that sorts things step by step"
   ],
   [
    "reliable",
@@ -91,22 +91,22 @@
    "steps": [
     {
      "kind": "warmup",
-     "title": "The cloudy liquid, remembered",
+     "title": "Remember Class 2",
      "mins": 8,
-     "do": "Ask: 'What is the difference between a natural and a made material? Give one journey.' (sand melted into glass; clay baked into brick). 'How do you make a test fair?' (change one thing, keep the rest the same, measure). 'What did Stephanie Kwolek's cloudy liquid teach us?' (you can't tell what a material can do by looking; you test it). Say: 'This year we become material detectives with harder tools.'"
+     "do": "Ask: 'What is the difference between a natural and a made material? Tell me how one made material is made.' (Glass is made by melting sand. Brick is made by baking clay.) 'How do you make a test fair?' (Change one thing, keep the rest the same, and measure.) 'Remember Stephanie Kwolek, the chemist whose cloudy liquid became Kevlar? What did she teach us?' (You can't tell what a material can do by looking at it. You have to test it.) Say: 'This year we test materials in harder ways.'"
     },
     {
      "kind": "act",
      "title": "Material map of my room",
      "mins": 22,
-     "do": "Do Activity a1. Your child draws a simple map of their bedroom (or the room they sleep in) from above and labels every object they can. Then they make a tally: how many things are wood, metal, plastic, glass, cloth, paper, stone or tile, and 'mixed' (more than one material). Ask: 'Which material is used most in your room? Why do you think that is?' (often plastic or cloth: cheap, light, easy to shape; or wood in older homes). 'Which things came from far away? Which from nearby?'",
+     "do": "Do Activity a1. Your child draws a simple map of the room they sleep in, seen from above, and labels every object they can. Then they tally the materials: wood, metal, plastic, glass, cloth, paper, stone or tile, and 'mixed' (more than one material). Ask: 'Which material is used most in your room? Why do you think that is?' (Often plastic or cloth, because they are cheap, light and easy to shape. In older homes, often wood.) 'Which things came from far away? Which came from nearby?'",
      "ref": "a1"
     },
     {
      "kind": "talk",
      "title": "Where did it come from?",
      "mins": 10,
-     "do": "Pick three things from the map and trace each back as far as you can together: a steel almirah (iron ore dug from mines, perhaps in Odisha or Jharkhand, melted with coal in a blast furnace), a cotton bedsheet (cotton fields, spinning mills, a weaver or a factory), a plastic bucket (oil from under the ground or sea, a chemical factory). Ask: 'Who are all the people in this object's journey?'"
+     "do": "Pick three things from the map and trace each one back together, as far as you can. A steel almirah: iron ore dug from hills in Karnataka, Odisha or Jharkhand, then melted with coal in a blast furnace. A cotton bedsheet: cotton fields, a spinning mill, then a weaver or a factory. A plastic bucket: oil from under the ground or the sea, then a chemical factory. Ask: 'Who are all the people in this object's journey?'"
     }
    ],
    "need": [
@@ -123,20 +123,20 @@
      "kind": "exp",
      "title": "How many layers to darkness?",
      "mins": 20,
-     "do": "Do Experiment e1. First sort the materials: hold each up to a window or torch and say transparent (see clearly), translucent (light but blurred) or opaque (no light). Then the measuring part: stack sheets of butter paper one at a time in front of the torch and count how many sheets until no light shows on the wall. Do the same with tissue paper and thin cotton cloth. Ask: 'Is translucent a fixed property, or does it depend on how thick the material is?' (it depends on thickness: one sheet is translucent, many sheets are opaque).",
+     "do": "Do Experiment e1. First sort the materials. Hold each one between the torch and the wall. Your child says transparent (you see clearly through it), translucent (light comes through, but blurred) or opaque (no light comes through). Then measure. Hold one sheet of butter paper in front of the torch, then add sheets one at a time. Count how many sheets it takes until no light shows on the wall. Do the same with tissue paper and thin cotton cloth. Ask: 'Is translucent a fixed property, or does it depend on how thick the material is?' (It depends on thickness. One sheet is translucent, but many sheets together are opaque.)",
      "ref": "e1"
     },
     {
      "kind": "think",
      "title": "Why here?",
      "mins": 8,
-     "do": "Ask: 'Why is bathroom window glass often frosted?' (translucent: lets light in but people can't see in). 'Why are headlights transparent? Why is a pressure cooker opaque, and does it matter?' (it doesn't need to be see-through; it needs to be strong and carry heat). 'Why might an Indian village house have a jaali, a stone screen with holes?' (light and air come in, but it stays private and cool)."
+     "do": "Ask: 'Why is bathroom window glass often frosted?' (It is translucent. Light comes in, but people outside can't see in.) 'Why are headlights transparent? Why is a pressure cooker opaque, and does it matter?' (It doesn't need to be see-through. It needs to be strong and carry heat to the food.) 'Why do some old houses, forts and temples have a jaali, a stone screen full of holes?' (Light and air come in, but the room stays private and cool.)"
     },
     {
      "kind": "talk",
      "title": "Does old glass flow?",
      "mins": 12,
-     "do": "Tell voice v2. Many people believe church windows in Europe are thicker at the bottom because glass is a very slow liquid that has dripped down over centuries. Ask your child to suggest ways to check. Then tell what scientists found. Ask: 'Why do you think a wrong idea can last so long?' Good answers: it sounds clever; people repeat it without checking; the thick bottoms seemed to prove it.",
+     "do": "Tell voice v2. Many people believe that old church windows in Europe are thicker at the bottom because glass is a very slow liquid that has dripped down over hundreds of years. Ask your child how they could check this. Then tell what scientists found. Ask: 'Why do you think a wrong idea can last so long?' Good answers: it sounds clever, people repeat it without checking, and the thick bottoms seemed to prove it.",
      "ref": "v2"
     }
    ],
@@ -157,26 +157,26 @@
      "kind": "act",
      "title": "Shadow play",
      "mins": 15,
-     "do": "Do Activity a3. Hang an old white bedsheet or a dupatta across a doorway and put a torch or lamp behind it. Your child makes shadow animals and acts a short story (a crow stealing a bangle works well) behind the screen while you watch from the front. Ask: 'Why can I see your shadow but not your face?' (the sheet is translucent: it lets light through but scatters it; your body is opaque and blocks the light). Swap: try a transparent plastic sheet as the screen (no shadow picture, just a clear view) and a thick blanket (nothing at all). Ask: 'Which material makes the best shadow-puppet screen, and why?'",
+     "do": "Do Activity a3. Hang an old white bedsheet or veshti across a doorway and put a torch or lamp behind it. Your child makes shadow animals and acts a short story behind the screen while you watch from the front. A crow stealing a bangle works well. Ask: 'Why can I see your shadow but not your face?' (The sheet is translucent. It lets light through but scatters it. Your body is opaque and blocks the light.) Then change the screen. A clear plastic sheet gives no shadow picture, just a clear view. A thick blanket shows nothing at all. Ask: 'Which material makes the best shadow-puppet screen, and why?' Tell your child that in Kerala, tholpavakoothu shadow-puppet shows use a thin white cloth screen with oil lamps behind it.",
      "ref": "a3"
     },
     {
      "kind": "act",
-     "title": "Dance of three veils",
+     "title": "Clear, mist, hide: a dance",
      "mins": 10,
-     "do": "Give your child three props: a thin chiffon dupatta or clear plastic sheet (transparent), a cotton dupatta or butter paper (translucent), and a tray or cardboard (opaque). Play music. When you call 'CLEAR', they dance looking at you through the transparent veil; 'MIST', they dance behind the translucent one so you see only a blurred shape; 'HIDE', they vanish behind the opaque one. Then let them call it and you dance. Ask afterwards: 'Was fog in the morning transparent, translucent or opaque?' (translucent when thin, almost opaque when thick)."
+     "do": "Give your child three things to dance with: a thin chiffon dupatta or a clear plastic sheet (transparent), butter paper or a thin cotton towel (translucent), and a tray or a piece of cardboard (opaque). Play music. When you call 'CLEAR', they dance and look at you through the transparent one. When you call 'MIST', they dance behind the translucent one, so you see only a blurred shape. When you call 'HIDE', they hide behind the opaque one. Then they call and you dance. Afterwards ask: 'Is morning fog transparent, translucent or opaque?' (Translucent when it is thin, almost opaque when it is thick.)"
     },
     {
      "kind": "talk",
-     "title": "Raman's light, and the woman he turned away",
+     "title": "Raman's light, and Kamala Sohonie",
      "mins": 15,
-     "do": "Tell voice v4. In 1928 C.V. Raman, working in Calcutta, found that when light passes through a transparent liquid, a tiny bit of it comes out a slightly different colour, and that change is a fingerprint of the material. He became the first Asian to win the Nobel Prize in Physics. Then tell how, a few years later, a young chemist named Kamala Sohonie applied to his institute and was refused because she was a woman, and how she refused to accept that. Ask the voice's question. Then ask: 'Can a person be a great scientist and also be unfair? Can someone who was unfair change?' Let your child think; there's no neat answer.",
+     "do": "Tell voice v4. C.V. Raman was born near Tiruchirappalli in Tamil Nadu. In 1928, working in Calcutta, he found that when light passes through a transparent liquid, a tiny part of it comes out a slightly different colour. That change is different for each material, like a fingerprint. In 1930 he became the first Asian to win the Nobel Prize in Physics. A few years later, a young chemist named Kamala Sohonie applied to his institute in Bangalore. He refused her because she was a woman, and she would not accept that. Ask the voice's question. Then ask: 'Can a person be a great scientist and also be unfair? Can someone who was unfair change?' Let your child think. There is no neat answer.",
      "ref": "v4"
     }
    ],
    "need": [
-    "an old white bedsheet or dupatta, a torch or lamp",
-    "a chiffon dupatta or clear plastic sheet, a cotton dupatta, a tray",
+    "an old white bedsheet or veshti, and a torch or lamp",
+    "a chiffon dupatta or clear plastic sheet, butter paper or a thin cotton towel, and a tray",
     "music"
    ]
   },
@@ -189,20 +189,20 @@
      "kind": "do",
      "title": "Knock, shine and touch",
      "mins": 12,
-     "do": "Collect: a steel spoon, a brass or copper diya or vessel, an aluminium foil ball, an iron nail, a wooden spoon, a plastic spoon, a stone. Your child taps each gently with a steel spoon and listens: metals ring (they are sonorous), wood and plastic thud. They rub each to see if it shines. Then they touch each with a fingertip after the things have sat in a cool place: metals feel colder because they carry heat away from your finger quickly. Say: 'Metals are usually shiny, ring when struck, and carry heat and electricity well. That's why a kadhai is metal and its handle is wood or plastic.'"
+     "do": "Collect a steel spoon, a brass or copper vessel (a brass lamp or a copper tumbler), a ball of aluminium foil, an iron nail, a wooden spoon, a plastic spoon and a stone. Your child taps each one gently with a second steel spoon and listens. Metals ring, and we say they are sonorous. Wood and plastic thud. Next they rub each one to see if it shines. Last, leave everything in a cool place for a few minutes, then touch each with a fingertip. The metals feel colder, because they carry heat away from your finger quickly. Say: 'Metals are usually shiny, ring when struck, and carry heat and electricity well. That's why a pressure cooker is metal, and its handle is plastic.'"
     },
     {
      "kind": "exp",
      "title": "Which materials are magnetic?",
      "mins": 20,
-     "do": "Do Experiment e2. Your child predicts first, then tests each object with a fridge magnet and sorts it: magnetic or not. Be ready for the big surprise: many steel kitchen tumblers and plates are NOT magnetic, because there are different kinds of stainless steel. Ask: 'Is it true that all metals are magnetic?' (no: aluminium, copper, brass, gold and silver are not; iron, most steels, nickel and cobalt are). Then say the word alloy: steel is iron mixed with a little carbon (and stainless steel also has chromium, and sometimes nickel); brass is copper mixed with zinc. Mixing changes the properties.",
+     "do": "Do Experiment e2. First your child predicts, for each object, whether a fridge magnet will attract it. To attract means to pull something towards itself. Then they test each object and sort it: magnetic or not magnetic. Be ready for a surprise. Many steel tumblers and plates are not magnetic, because there are different kinds of stainless steel. Ask: 'Is it true that all metals are magnetic?' (No. Aluminium, copper, brass, gold and silver are not. Iron, most steels, nickel and cobalt are.) Then teach the word alloy: a metal mixed with other metals or with carbon. Steel is iron with a little carbon. Stainless steel also has chromium, and sometimes nickel. Brass is copper mixed with zinc. Mixing changes the properties.",
      "ref": "e2"
     },
     {
      "kind": "review",
      "title": "Sort the scrap",
      "mins": 8,
-     "do": "Ask: 'A kabadiwala gets a huge pile of mixed scrap metal. How could a magnet help him?' (it pulls out the iron and steel; what's left is aluminium, copper and brass, which are worth more). Tell your child that scrap yards really do use giant electromagnets on cranes."
+     "do": "Ask: 'A scrap dealer gets a huge pile of mixed scrap metal. How could a magnet help?' (The magnet pulls out the iron and steel. What is left is aluminium, copper and brass, which sell for more.) Tell your child that scrap yards really do use giant electromagnets on cranes."
     }
    ],
    "need": [
@@ -219,14 +219,14 @@
      "kind": "exp",
      "title": "Does it flow?",
      "mins": 12,
-     "do": "Do Experiment e4. Pour water from a glass into a bowl and a bottle: it flows and takes the shape of each, but the amount stays the same (a liquid). Hold a stone: it keeps its shape (a solid). Now pour rice or sand: it flows! Ask: 'Is rice a liquid?' Let your child look at one grain: each grain is a tiny solid that keeps its shape; the pile flows because the grains roll over each other. Then push an upside-down glass with a tissue stuck in its bottom straight down into a bucket of water and lift it out: the tissue is dry. Ask why (the glass was full of air, a gas, which takes up space and kept the water out).",
+     "do": "Do Experiment e4. Pour water from a glass into a bowl, then into a bottle. It flows and takes the shape of each, but the amount stays the same. That makes it a liquid. Hold a stone. It keeps its shape, so it is a solid. Now pour rice or sand. It flows too! Ask: 'Is rice a liquid?' Let your child look at one grain. Each grain is a tiny solid that keeps its shape. The pile flows because the grains roll over each other. Then stuff a tissue into the bottom of a dry glass, turn the glass upside down and push it straight down into a bucket of water. Lift it straight out. The tissue is dry. Ask why. (The glass was full of air. Air is a gas. It takes up space, so it kept the water out.)",
      "ref": "e4"
     },
     {
      "kind": "act",
      "title": "Branching key",
      "mins": 18,
-     "do": "Do Activity a2. Put 8 objects on the table: a steel spoon, a glass marble, a wooden block, a plastic ruler, a cotton hanky, a rubber band, an aluminium foil ball, a paper sheet. Your child asks a yes/no question that splits them into two groups, for example 'Is it magnetic?' Then a new question for each group ('Is it transparent?', 'Is it flexible?'), until each object is alone at the end of a branch. Draw it as a tree on a big sheet. Say: 'This is how scientists and computers sort huge numbers of things: one yes-or-no question at a time.' Then hide one object and have them use the key to find it.",
+     "do": "Do Activity a2. Put 8 objects on the table: a steel spoon, a glass marble, a wooden block, a plastic ruler, a cotton hanky, a rubber band, a ball of aluminium foil and a sheet of paper. Your child asks a yes-or-no question that splits them into two groups, for example 'Is it magnetic?' Then they ask a new question for each group, such as 'Is it transparent?' or 'Is it flexible?' They keep going until each object is alone at the end of a branch. Draw it as a tree on a big sheet. Say: 'This is how scientists and computers sort huge numbers of things, one yes-or-no question at a time.' Then you secretly choose one object, and your child finds which one it is by asking the key's questions.",
      "ref": "a2"
     },
     {
@@ -255,20 +255,20 @@
      "kind": "exp",
      "title": "Which paper drinks fastest?",
      "mins": 25,
-     "do": "Do Experiment e3. Cut strips of the same size from four materials: paper towel, newspaper, printer paper and cotton cloth. Draw a line 1 cm from the bottom of each with a felt pen (washable). Hang the strips from a pencil over a tray of water so the bottoms just touch the water. After 5 minutes, your child measures in centimetres how far the water (and the ink colour) has climbed. Write it in the table. Do it three times with fresh strips if you have time, or set up three strips of each at once.",
+     "do": "Do Experiment e3. Cut strips 2 cm wide and 15 cm long from four materials: paper towel, newspaper, printer paper and cotton cloth. Cut three strips of each, so you can test each material three times at once. Draw a line across each strip, 1 cm from the bottom, with a washable felt pen. Clip the strips to pencils laid across a tray of water, so the bottoms just touch the water. After 5 minutes, your child measures in centimetres how far the water has climbed, and writes it in the table.",
      "ref": "e3"
     },
     {
      "kind": "think",
      "title": "Are the results reliable?",
      "mins": 10,
-     "do": "Look at the three numbers for each material. Ask: 'Are they close together or far apart?' Close means reliable. If one is very different, ask: 'What might have gone wrong?' (the strip didn't touch the water, or touched the side). Then ask: 'Which material climbed highest? Which would make the best wick for a diya? The best kitchen towel?' Explain wicking: water creeps up the tiny gaps between fibres, pulling itself along, the same way water climbs from a plant's roots."
+     "do": "Look at the three numbers for each material. Ask: 'Are they close together or far apart?' If they are close, the result is reliable: you would get nearly the same answer again. If one is very different, ask: 'What might have gone wrong?' (The strip didn't touch the water, or it touched the side of the tray.) Then ask: 'Which material climbed highest? Which would make the best wick for an oil lamp? Which would make the best kitchen towel?' Explain wicking: water sticks to the fibres, so it creeps up the tiny gaps between them, even against gravity."
     },
     {
      "kind": "talk",
      "title": "The colours separate",
      "mins": 5,
-     "do": "Look closely at the felt-pen line: has the ink spread into different colours as the water climbed? Ask: 'What does that tell us about the ink?' (it was a mixture of colours, and the water carried some further than others). Say: 'Scientists use this trick, called chromatography, to find what's in a mixture.'"
+     "do": "Look closely at the felt-pen line. Has the ink spread into different colours as the water climbed? Ask: 'What does that tell us about the ink?' (It was a mixture of colours, and the water carried some colours further than others.) Say: 'Scientists use this trick, called chromatography, to find what is in a mixture.'"
     }
    ],
    "need": [
@@ -281,14 +281,14 @@
   },
   {
    "n": 7,
-   "title": "The twenty skins",
+   "title": "Why a moon suit has many layers",
    "goal": "Understand why the best designs combine materials, each with a job.",
    "steps": [
     {
      "kind": "read",
      "title": "Story: The Twenty Skins",
      "mins": 14,
-     "do": "Read the story aloud. Don't explain. Ask: 'Why couldn't the suit be made of just one material?' Good answer: each layer had one job: one held in air, one reflected the Sun's heat, one would not burn, one was tough against sharp rocks. 'Who did the TV show? Who didn't it show?'"
+     "do": "Read the story aloud. Don't explain it. Ask: 'Why couldn't the suit be made of just one material?' Good answer: each layer had one job. One held the air in, one reflected the Sun's heat, one would not burn, and one was tough against sharp moon dust. Then ask: 'Whom did the TV show? Whom didn't it show?'"
     },
     {
      "kind": "talk",
@@ -301,7 +301,7 @@
      "kind": "act",
      "title": "Design a superhero suit",
      "mins": 12,
-     "do": "Your child designs, in layers, a suit for a superhero who must visit four places: the Moon (no air at all, so nothing presses on the body; boiling hot in sunlight, freezing in shadow), the deep sea near the bottom of the Indian Ocean (dark, cold, and the weight of the water above presses so hard it would crush a car), the rim of a volcano (fierce heat, sharp rock) and the top of Kangchenjunga (thin air, icy wind). For each place they write what the suit must survive (pressure, heat, cold, sharp things) and which layer and material would do it: an airtight inner layer that holds air in on the Moon, a rigid shell for deep-sea pressure, shiny reflective layers for heat, wool or down for cold, a tough outer layer for rocks. Let them draw it with labels. Ask: 'Which two jobs fight each other?' (a rigid shell resists the deep sea's squeeze but makes it hard to move; thick warm layers are heavy). 'Would you make one suit or four?'"
+     "do": "Your child designs a suit, in layers, for a superhero who must visit four places. The Moon has no air, and is boiling hot in sunlight and freezing at night. The bottom of the Indian Ocean is dark and cold, and the water above presses hard enough to crush a car. The rim of a volcano has fierce heat and sharp rock. The top of Kangchenjunga has thin air and icy wind. For each place, your child writes what the suit must survive and which layer would do it. For example: an airtight inner layer holds air in on the Moon, a rigid shell resists the deep sea, shiny layers reflect heat, wool keeps out cold, and a tough outer layer stops sharp rock. They draw the suit with labels. Ask: 'Which two jobs fight each other?' (A rigid shell resists the squeeze of the deep sea but makes it hard to move. Thick warm layers are heavy.) 'Would you make one suit or four?'"
     },
     {
      "kind": "ws",
@@ -325,7 +325,7 @@
      "kind": "exp",
      "title": "Pencil and sticky tape",
      "mins": 12,
-     "do": "Do Experiment e5. Your child scribbles a dark square with a soft pencil (2B or darker) on paper, presses clear sticky tape on it, peels it off and sticks it on white paper. Repeat by pressing a fresh tape onto the first tape and peeling. Look with a magnifying glass. Say: 'Pencil lead is graphite: layers of carbon stacked like pages in a book. Each time you peel, you split the book into thinner pages.' Then tell voice v1: scientists did exactly this, again and again, until they got a layer just one atom thick, called graphene.",
+     "do": "Do Experiment e5. Your child scribbles a dark square on paper with a soft pencil (2B or darker), presses clear sticky tape on it, peels it off and sticks it on white paper. Then they press a fresh piece of tape onto the first tape and peel it apart, again and again. Look with a magnifying glass. Say: 'Pencil lead is graphite. It is made of layers of carbon stacked like the pages of a book. Each time you peel, you split the book into thinner pages.' Then tell voice v1: scientists did exactly this, many times over, until they got a layer just one atom thick. They called it graphene.",
      "ref": "e5"
     },
     {
@@ -339,7 +339,7 @@
      "kind": "game",
      "title": "Material Trumps",
      "mins": 14,
-     "do": "Play the card game g1. Each card is a material with scores for strength, flexibility, transparency, absorbency and whether it's magnetic. Before each round, the chooser must say which property they are choosing and why it is high or low for their material.",
+     "do": "Play the card game g1. Each card is a material with scores for strength, bend (flexibility), see-through (transparency) and soaks (absorbency), and whether it is magnetic. When a player chooses a property, they must say why their material scores high or low on it.",
      "ref": "g1"
     },
     {
@@ -372,14 +372,14 @@
      "kind": "ws",
      "title": "Challenge worksheet",
      "mins": 12,
-     "do": "Do Worksheet ws3. The last items have no single answer; ask your child to defend their view with evidence.",
+     "do": "Do Worksheet ws3. The last items have no single answer. Ask your child to defend their view with evidence.",
      "ref": "ws3"
     },
     {
      "kind": "check",
      "title": "Teach it back",
      "mins": 14,
-     "do": "Your child presents the building survey to the family, then explains: transparent, translucent and opaque; which materials are magnetic (and the steel tumbler surprise); how a branching key works; why the moon suit had many layers; and why old glass doesn't flow. Ask the check questions."
+     "do": "Your child presents the building survey to the family. Then they explain five things: transparent, translucent and opaque, which materials are magnetic (and the steel tumbler surprise), how a branching key works, why the moon suit had many layers, and why old glass doesn't flow. Ask the check questions."
     }
    ],
    "need": [
@@ -432,7 +432,7 @@
      [
       {
        "t": "mcq",
-       "p": "Which of these is pulled by a magnet?",
+       "p": "Which of these does a magnet attract?",
        "opts": [
         "aluminium foil",
         "an iron nail",
@@ -497,7 +497,7 @@
       },
       {
        "t": "write",
-       "p": "Why is a kadhai made of metal but its handle made of wood or plastic?",
+       "p": "Why is a pressure cooker made of metal, but its handle made of plastic?",
        "lines": 2
       }
      ]
@@ -535,7 +535,7 @@
       },
       {
        "t": "draw",
-       "p": "Draw a branching key with yes/no questions for: a cotton hanky, an iron nail, a plastic ruler, a glass bangle."
+       "p": "Draw a branching key with yes-or-no questions for: a cotton hanky, an iron nail, a plastic ruler, a glass bangle."
       }
      ]
     ],
@@ -605,12 +605,12 @@
       },
       {
        "t": "write",
-       "p": "Why is one material almost never enough for something like a space suit or a raincoat?",
+       "p": "Why is one material almost never enough for something like a space suit or a pressure cooker?",
        "lines": 3
       },
       {
        "t": "write",
-       "p": "One paper strip in your test climbed much less than the other two. Give two reasons why that might have happened.",
+       "p": "In your climbing water test, one strip climbed much less than the other two strips of the same material. Give two reasons why that might have happened.",
        "lines": 3
       }
      ]
@@ -628,7 +628,7 @@
      [
       {
        "t": "mcq",
-       "p": "Your steel tumbler doesn't stick to a magnet, but your steel spoon does. Why?",
+       "p": "Lakshmi's steel tumbler does not stick to a magnet, but her steel spoon does. Why?",
        "opts": [
         "The tumbler is not really metal.",
         "They are different kinds of steel with different things mixed in.",
@@ -668,7 +668,7 @@
        "p": "Which property matters most for each job?",
        "items": [
         "spectacles",
-        "a frying pan",
+        "a dosa tawa",
         "a mop",
         "a crane rope",
         "a fridge door seal"
@@ -710,17 +710,17 @@
      [
       {
        "t": "write",
-       "p": "Scientists once believed old glass flows. What evidence would you need to see to believe it? What evidence made them change their minds?",
+       "p": "Many people once believed old glass flows. What evidence would you need to see to believe it? What evidence showed it was wrong?",
        "lines": 3
       },
       {
        "t": "write",
-       "p": "The TV showed the astronaut, not the seamstresses. Think of something you use every day. Who made it, and who gets the credit?",
+       "p": "In the story The Twenty Skins, the TV showed the astronaut, not the women who sewed his suit. Think of something you use every day. Who made it, and who gets the credit?",
        "lines": 3
       },
       {
        "t": "write",
-       "p": "Invent a new material for an Indian summer school uniform. List three properties it must have, and how you would test each one.",
+       "p": "Invent a new material for a school uniform for a hot Chennai summer. List three properties it must have, and how you would test each one.",
        "lines": 4
       }
      ]
@@ -751,8 +751,8 @@
     "Record the number of layers for each."
    ],
    "predict": "Ask: 'How many sheets of butter paper will it take before the light disappears?'",
-   "observe": "Transparent things make a bright spot; translucent things make a blurry glow; opaque things make a shadow. Each added layer dims the glow until it vanishes.",
-   "why": "Light is scattered and absorbed a little by each layer of fibres. One thin layer lets much of it through, scattered (translucent); enough layers stop it all (opaque). So 'translucent' depends partly on thickness, not only on what the material is.",
+   "observe": "Transparent things make a bright spot. Translucent things make a blurry glow. Opaque things make a shadow. Each added layer dims the glow. If light still shows after 15 sheets, write '15 or more'.",
+   "why": "Each layer of fibres scatters and absorbs a little light. One thin layer lets much of it through, scattered, so it is translucent. Enough layers stop it all, so the stack is opaque. So whether something is translucent depends partly on how thick it is, not only on what it is made of.",
    "safety": "Don't shine the torch into eyes.",
    "time": "20 min"
   },
@@ -795,12 +795,12 @@
     "Clip the strips to pencils laid across the tray, so each bottom just touches the water.",
     "Start the timer. After 5 minutes, take the strips out.",
     "Measure how far the water climbed, in centimetres.",
-    "Repeat twice more with fresh strips.",
+    "Test three strips of each material, either all at once or one after another.",
     "Write all results in a table and compare."
    ],
    "predict": "Ask your child to rank the four materials from 'climbs highest' to 'climbs least'.",
-   "observe": "The height of water on each strip, and how close the three tries are. Paper towel and cotton usually climb highest; printer paper least.",
-   "why": "Water molecules stick to the fibres and to each other. In the narrow gaps between fibres, this pulls water upwards, against gravity: wicking, or capillary action. Loose, fluffy materials with many fine gaps wick best. Repeating three times shows whether the results are reliable.",
+   "observe": "The height of water on each strip, and how close the three tries are. Paper towel and cotton usually climb highest. Printer paper climbs least.",
+   "why": "Water sticks to the fibres and to itself. In the narrow gaps between fibres, this draws water upwards against gravity. This is called wicking, or capillary action. Soft, fluffy materials with many fine gaps wick best. Testing three times shows whether the results are reliable.",
    "safety": "",
    "time": "25 min"
   },
@@ -820,12 +820,12 @@
     "Pour the water into the bowl, then into the bottle. Notice the shape changes but the amount stays the same.",
     "Hold the stone. Try to make it change shape.",
     "Pour the rice. Then look at one grain with a magnifier.",
-    "Push a tissue into the bottom of a dry glass. Turn the glass upside down and push it straight down into the bucket. Lift it straight out.",
+    "Stuff a tissue into the bottom of a dry glass. Turn the glass upside down and push it straight down into the bucket. Lift it straight out.",
     "Feel the tissue."
    ],
    "predict": "Ask: 'Will the tissue get wet?'",
-   "observe": "Water takes the shape of each container; the stone keeps its shape; rice flows but each grain is a hard solid; the tissue stays dry.",
-   "why": "Solids keep their shape. Liquids flow and take the shape of their container but keep their volume. Gases spread to fill any space. Rice and sand flow because they are many small solids rolling past each other. The upside-down glass was full of air; air is a gas that takes up space, so the water could not get in.",
+   "observe": "Water takes the shape of each container. The stone keeps its shape. Rice flows, but each grain is a hard solid. The tissue stays dry.",
+   "why": "Solids keep their shape. Liquids flow and take the shape of their container, but keep their volume. Gases spread out to fill any space. Rice and sand flow because they are many small solids rolling past each other. The upside-down glass was full of air. Air is a gas that takes up space, so the water could not get in.",
    "safety": "Wipe up spills.",
    "time": "12 min"
   },
@@ -882,7 +882,7 @@
     "a big sheet of paper"
    ],
    "steps": [
-    "Ask one yes/no question that splits the objects into two groups.",
+    "Ask one yes-or-no question that splits the objects into two groups.",
     "Ask a new question for each group.",
     "Keep going until each object is alone.",
     "Draw it as a tree.",
@@ -896,7 +896,7 @@
    "day": 3,
    "mins": 15,
    "need": [
-    "a white bedsheet",
+    "a white bedsheet or veshti",
     "a torch or lamp"
    ],
    "steps": [
@@ -905,7 +905,7 @@
     "Try a transparent sheet and a thick blanket instead.",
     "Decide which makes the best screen."
    ],
-   "outcome": "A shadow play, and a felt understanding of transparent, translucent and opaque."
+   "outcome": "A shadow play, and a clear sense of transparent, translucent and opaque."
   }
  ],
  "project": {
@@ -933,11 +933,11 @@
    "scissors"
   ],
   "rules": [
-   "Cut out the cards. Each shows a material and its scores out of 5 for strength, bendiness, see-through and soaks water, and whether it is magnetic.",
+   "Cut out the cards. Each shows a material and its scores out of 5 for strength, bend (flexibility), see-through (transparency) and soaks (absorbency), and whether it is magnetic.",
    "Deal all the cards. Hold yours face up in a pile so you only see the top card.",
    "The first player chooses one property from their top card, says it aloud, and must say WHY their material scores high or low ('Steel, strength 5, because it holds up bridges').",
    "Everyone reads that property from their top card. The highest score wins all the top cards. For 'magnetic', a yes beats a no.",
-   "If two cards tie, put them in the middle; the next winner takes them.",
+   "If two cards tie, put them in the middle. The next winner takes them too.",
    "The player with all the cards, or the most after 15 minutes, wins."
   ],
   "cards": [
@@ -967,7 +967,7 @@
    },
    {
     "front": "Cotton cloth: strength 2, bend 5, see-through 1, soaks 5, magnetic no",
-    "back": "kurtas, towels, bedsheets"
+    "back": "shirts, veshtis, towels, bedsheets"
    },
    {
     "front": "Wool: strength 2, bend 5, see-through 0, soaks 4, magnetic no",
@@ -975,7 +975,7 @@
    },
    {
     "front": "Silk: strength 3, bend 5, see-through 1, soaks 3, magnetic no",
-    "back": "saris"
+    "back": "saris, such as Kanchipuram and Banarasi silk"
    },
    {
     "front": "Paper: strength 1, bend 4, see-through 1, soaks 4, magnetic no",
@@ -1003,11 +1003,11 @@
    },
    {
     "front": "Clay pot (terracotta): strength 2, bend 0, see-through 0, soaks 3, magnetic no",
-    "back": "matkas that keep water cool"
+    "back": "water pots that keep water cool"
    },
    {
     "front": "Iron: strength 5, bend 1, see-through 0, soaks 0, magnetic yes",
-    "back": "kadhais, nails, grills"
+    "back": "dosa tawas, nails, window grills"
    },
    {
     "front": "Kevlar: strength 5, bend 4, see-through 0, soaks 1, magnetic no",
@@ -1037,7 +1037,7 @@
   },
   {
    "q": "Old church windows are thicker at the bottom, so glass must be a slow liquid. True?",
-   "hint": "No. Calculations (for example by Edgar Zanotto in 1998) show that window glass at room temperature would take far longer than the age of the universe to flow visibly. Old glass was made by spinning or blowing, which made uneven sheets, and builders often put the thicker edge at the bottom; some old windows are thicker at the top or sides. Ask: what would you have needed to check, to catch this myth earlier?"
+   "hint": "No. Calculations (for example by Edgar Zanotto in 1998) show that window glass at room temperature would take far longer than the age of the universe to flow visibly. Old glass was made by spinning or blowing, which made uneven sheets, and builders often put the thicker edge at the bottom. Some old windows are thicker at the top or sides. Ask: what would you have needed to check, to catch this myth earlier?"
   },
   {
    "q": "Graphene was discovered with sticky tape on a Friday night. Do great discoveries need expensive equipment?",
@@ -1067,8 +1067,8 @@
    "id": "v1",
    "who": "Andre Geim and Konstantin Novoselov, University of Manchester, UK (2004)",
    "idea": "During playful 'Friday night experiments', Geim's group used sticky tape to peel flakes of graphite thinner and thinner, until they found flakes just one atom thick: graphene. They showed it was a real, stable material with astonishing properties: very strong, flexible, almost transparent, and an excellent conductor.",
-   "then": "Many scientists had believed a sheet one atom thick could not exist on its own; it would curl up or fall apart. Their first paper was at first rejected by a leading journal.",
-   "now": "Geim and Novoselov won the 2010 Nobel Prize in Physics. Graphene is now studied all over the world; scientists still argue about how soon it will be used in everyday things.",
+   "then": "Many scientists had believed a sheet one atom thick could not exist on its own. They thought it would curl up or fall apart. Their first paper was rejected by a leading journal.",
+   "now": "Geim and Novoselov won the 2010 Nobel Prize in Physics. Graphene is now studied all over the world. Scientists still argue about how soon it will be used in everyday things.",
    "status": "accepted",
    "ask": "Experts said a one-atom-thick sheet couldn't exist. What finally changed their minds: an argument or evidence?",
    "day": 8
@@ -1086,8 +1086,8 @@
   {
    "id": "v3",
    "who": "The seamstresses of the International Latex Corporation (ILC), Dover, Delaware, USA (1960s)",
-   "idea": "The company, until then best known for making bras and girdles, won the job of making the Apollo moon suits. Its seamstresses, mostly women, sewed many layers of different materials, each with a job, to extraordinarily exact measurements; even pins were banned in case one pierced the airtight layer.",
-   "then": "Few people outside the factory knew their names; the suits were credited to the company and the engineers, and the astronauts became famous.",
+   "idea": "The company, until then best known for making bras and girdles, won the job of making the Apollo moon suits. Its seamstresses, mostly women, sewed many layers of different materials, each with a job, to extremely exact measurements. Even pins were banned in case one pierced the airtight layer.",
+   "then": "Few people outside the factory knew their names. The suits were credited to the company and the engineers, and the astronauts became famous.",
    "now": "Historians, for example Nicholas de Monchaux in his book 'Spacesuit: Fashioning Apollo', have written about how much the suits depended on the seamstresses' skill. Every suit that walked on the Moon worked.",
    "status": "accepted",
    "ask": "Why do you think the skill of sewing was not seen as 'science'? What would have happened to the astronauts without it?",
@@ -1097,7 +1097,7 @@
    "id": "v4",
    "who": "C.V. Raman (1888–1970) and Kamala Sohonie (1911–1998), India",
    "idea": "In 1928, at the Indian Association for the Cultivation of Science in Calcutta, Raman (with K.S. Krishnan) found that when light passes through a transparent material, a tiny part of it is scattered with a slightly changed colour, and the change is different for each substance: a fingerprint. This is the Raman effect. He won the 1930 Nobel Prize in Physics.",
-   "then": "Raman was celebrated as proof that world-class science could be done in India, with modest equipment. Yet in 1933, as director of the Indian Institute of Science in Bangalore, he refused to admit Kamala Sohonie as a research student because she was a woman. She protested and would not leave; he let her in on strict conditions. She did outstanding work, was later admitted to Cambridge, and in 1939 became one of the first Indian women to earn a PhD in a science.",
+   "then": "Raman was celebrated as proof that world-class science could be done in India, with modest equipment. Yet in 1933, as director of the Indian Institute of Science in Bangalore, he refused to admit Kamala Sohonie as a research student because she was a woman. She protested and would not leave. He let her in, but on strict conditions. She did outstanding work, was later admitted to Cambridge, and in 1939 became one of the first Indian women to earn a PhD in a science.",
    "now": "Raman spectroscopy is used everywhere today, from testing medicines to studying rocks on Mars. Sohonie's success is said to have helped open IISc to women in later years. Raman's colleague K.S. Krishnan, who did much of the experimental work, is less often remembered.",
    "status": "accepted",
    "ask": "Raman showed that light reveals what a material really is. What did Kamala Sohonie reveal about Raman and his institute? Why do you think her name and Krishnan's are less known than his?",
@@ -1112,7 +1112,7 @@
    "Before that, I sewed girdles and bras. That's what our factory in Dover, Delaware, had always made. Then the space agency wanted a suit for walking on the Moon, and our company said: we know how to make soft things that hold a body tight and still let it move. Nobody laughed for long, because we were right.",
    "On my first day in the space room, the supervisor gave me a pile of materials and said, 'Learn them like you'd learn people's faces.'",
    "There was the rubber-coated cloth for the inside, smooth and a little sticky. That was the one that held the air in. On the Moon there is no air at all, and without that layer a man's blood would boil and his lungs would empty. It was the most important layer, and the weakest. A single pinprick would let the air out. That's why pins were forbidden in our room. We held layers together with our fingers and our patience.",
-   "Then there were the shiny layers, thin as a sweet wrapper, silver on one side. On the Moon, in sunlight, the ground can be hotter than boiling water. In shadow it is colder than anywhere on Earth. The shiny layers reflected the fierce sunlight away, and between them were thin gauzy layers to keep them from touching, because a gap of nothing at all is the best blanket there is.",
+   "Then there were the shiny layers, thin as a sweet wrapper, silver on one side. On the Moon, in sunlight, the ground can be hotter than boiling water. At night it is colder than anywhere on Earth. The shiny layers reflected the fierce sunlight away, and between them were thin gauzy layers to keep them from touching, because a gap of nothing at all is the best blanket there is.",
    "There was a layer of tough cloth to stop sharp grains of moon dust from cutting through. And on the outside was the cloth they called Beta cloth, white and stiff, woven from threads of glass coated with something slippery. It would not burn.",
    "That layer had come because of a fire. In January 1967, three astronauts had died on the launch pad when a fire broke out inside their capsule during a test. Afterwards, everything that could burn was changed. So the outermost skin was made of glass, woven so fine it felt like canvas. When I first held it I thought of my grandmother's glass bangles, and I could not believe that something so hard could become something so soft.",
    "Altogether there were around twenty layers. I learned them all. Each was good at one thing and bad at others. The rubber held air but would melt in a fire. The shiny layers reflected heat but tore easily. The Beta cloth would not burn but cracked if folded too sharply. Not one material could do the whole job. Together, stitched in the right order, they could keep a man alive in a place that wanted him dead.",
@@ -1122,7 +1122,7 @@
    "But I sat there in the dark and I thought: inside that suit there is rubber that came from a tree, and glass that came from sand, and plastic that came from oil under the ground, and nylon thread that a woman's hands pulled through, stitch by stitch. He is standing on the Moon wrapped in the whole Earth, and in us.",
    "I watched him take a step. I watched the white knee bend, and I knew exactly which seam was bending, and who had sewn it."
   ],
-  "epiphany": "No single material can do every job; the best designs combine materials, each chosen for one property (holding air, reflecting heat, not burning, resisting cuts). The turn is Ruth's realisation that 'not one material could do the whole job', and at the end that the suit is 'the whole Earth' in layers. Underneath: the skilled women whose work made it possible but whose names were not on the television. Based on real history: ILC's seamstresses sewed the Apollo suits, pins were banned, and the fireproof Beta cloth came after the Apollo 1 fire. Ruth and Dot are imagined characters.",
+  "epiphany": "No single material can do every job. The best designs combine materials, each chosen for one property (holding air, reflecting heat, not burning, resisting cuts). The turn is Ruth's realisation that 'not one material could do the whole job', and at the end that the suit is 'the whole Earth' in layers. Underneath: the skilled women whose work made it possible but whose names were not on the television. Based on real history: ILC's seamstresses sewed the Apollo suits, pins were banned, and the fireproof Beta cloth came after the Apollo 1 fire. Ruth and Dot are imagined characters.",
   "ask": [
    "Name three layers of the suit and the job each one did.",
    "Why were pins not allowed in the sewing room?",
@@ -1133,21 +1133,21 @@
  },
  "ideas": [
   {
-   "idea": "Good designs are teams of materials.",
-   "more": "A suit, a raincoat, a house, a kadhai with a wooden handle: each part is a different material with a different property. Engineers ask 'what does each part need to do?'"
+   "idea": "Good designs combine several materials.",
+   "more": "A suit, a house, a pressure cooker with a plastic handle: each part is a different material with a different property. Engineers ask what each part needs to do."
   },
   {
    "idea": "Properties can be surprising, so we test instead of assuming.",
-   "more": "Not all metals are magnetic; a steel tumbler may not stick; glass is a solid; rice flows. Every 'everyone knows' can be checked."
+   "more": "Not all metals are magnetic. A steel tumbler may not stick to a magnet. Glass is a solid. Rice flows. Anything that 'everyone knows' can be tested."
   },
   {
    "idea": "Every material connects us to a place and to people.",
-   "more": "Iron from hills in Jharkhand, cotton from fields in Gujarat or Maharashtra, oil from under the sea. Every object in your room is a map of the Earth and of many hands."
+   "more": "Iron from hills in Karnataka or Jharkhand, cotton from fields in Telangana or Gujarat, rubber from Kerala, oil from under the sea. Every object in your room came from somewhere on Earth and passed through many people's hands."
   }
  ],
  "unknowns": [
   "What exactly is glass? Its particles are jumbled like a liquid's but stuck like a solid's, and physicists still argue about how best to explain why liquids become glass when they cool. Some call it one of the deepest unsolved problems in the physics of solids.",
-  "Will graphene change everyday life, as some predicted, or stay mostly in laboratories? Nobody knows yet; making it cheaply in large, perfect sheets is still hard.",
+  "Will graphene change everyday life, as some predicted, or stay mostly in laboratories? Nobody knows yet. Making it cheaply in large, perfect sheets is still hard.",
   "Why are only a few metals, like iron, nickel and cobalt, strongly magnetic? Scientists can explain it with the physics of electrons, but predicting exactly which new alloys will be magnetic is still difficult."
  ],
  "books": [
@@ -1176,11 +1176,11 @@
  "check": [
   {
    "q": "What is the difference between transparent, translucent and opaque? Give an example of each.",
-   "a": "Transparent lets light through clearly (window glass); translucent lets blurred light through (butter paper, frosted glass); opaque lets none through (steel, cardboard)."
+   "a": "Transparent lets light through clearly, like window glass. Translucent lets blurred light through, like butter paper or frosted glass. Opaque lets no light through, like steel or cardboard."
   },
   {
    "q": "Are all metals magnetic? Give examples.",
-   "a": "No. Iron, most steel, nickel and cobalt are; aluminium, copper, brass, gold, silver and some stainless steels are not."
+   "a": "No. Iron, most steel, nickel and cobalt are magnetic. Aluminium, copper, brass, gold, silver and some stainless steels are not."
   },
   {
    "q": "What is an alloy? Name one.",
@@ -1188,11 +1188,11 @@
   },
   {
    "q": "Rice can be poured. Is it a liquid?",
-   "a": "No. Each grain is a solid that keeps its shape; the pile flows because the grains roll over each other."
+   "a": "No. Each grain is a solid that keeps its shape. The pile flows because the grains roll over each other."
   },
   {
    "q": "How does a branching key work?",
-   "a": "You ask yes/no questions about properties, one at a time, splitting the group until each object is on its own."
+   "a": "You ask yes-or-no questions about properties, one at a time, splitting the group until each object is on its own."
   },
   {
    "q": "How did we know our climbing water results were reliable?",
@@ -1204,7 +1204,7 @@
   },
   {
    "q": "Is glass a slow liquid?",
-   "a": "No. It is an amorphous solid; old windows are uneven because of how the glass was made."
+   "a": "No. It is an amorphous solid, which means its particles are jumbled but locked in place. Old windows are uneven because of how the glass was made."
   }
  ]
 }
