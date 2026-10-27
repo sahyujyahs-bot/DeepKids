@@ -300,7 +300,7 @@
   {
    "concept": "What plants make their food from",
    "status": "defined",
-   "definition": "Green plants make their food from air, water and sunlight. Their leaves take in a gas from the air called carbon dioxide. Their roots drink water. Sunlight gives the energy to join them into sugar. This is called photosynthesis.",
+   "definition": "Green plants make their food from air, water and sunlight. Their leaves take in a gas from the air called carbon dioxide. Their roots take in water. Sunlight gives the energy to join them into sugar. This is called photosynthesis.",
    "description": "Most people guess that plants eat soil. About 380 years ago, a scientist named Jan Baptist van Helmont, in what is now Belgium, tested this. He weighed some dry soil and put it in a pot. He planted a small willow tree in it and only gave it rainwater. Five years later, the tree had grown about 30 times heavier. But the soil had lost only a tiny pinch of weight. So the tree had not eaten the soil. Van Helmont thought it was made of water. Scientists later found that most of the tree's dry wood was built from carbon dioxide, a gas in the air. A wheat grain, a mango and a grain of rice are mostly built out of air and water, joined together by sunlight. The soil gives only small amounts of minerals.",
    "examples": [
     "A tall coconut tree is built mostly from air and water.",
@@ -1866,7 +1866,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Count out 20 dry moong seeds. 2. Lay them on a dry cloth on a plate. 3. Keep the plate in the kitchen, away from water.",
-     "say": "These 20 seeds get no water at all. They are our comparison. We will see if they wake up by themselves.",
+     "say": "These 20 seeds get no water at all. They are our comparison. We will see if they sprout without water.",
      "kid": "Count 20 dry seeds. Lay them on a dry cloth. They get no water.",
      "wait": "Leave the soaked moong and the dry plate until tomorrow."
     },
@@ -1880,7 +1880,7 @@
       "t": "mcq",
       "q": "50 grams of dry moong was soaked overnight. Now it weighs about 100 grams. Where did the extra weight come from?",
       "options": [
-       "The seeds drank water",
+       "The seeds took in water",
        "The seeds grew new seeds",
        "The bowl got heavier"
       ],
@@ -1893,7 +1893,7 @@
      "id": "s4",
      "mins": 8,
      "do": "1. On days 2 and 3, count how many seeds have a tiny white root on each plate. 2. On day 3, measure the longest root with a ruler. 3. Write the numbers in the table.",
-     "say": "Count the seeds that have woken up. You can tell by the little white root poking out.",
+     "say": "Count the seeds that have sprouted. You can tell by the little white root poking out.",
      "kid": "Count the seeds with a white root on each plate. Write the numbers. Measure the longest root.",
      "chart": {
       "type": "table",
@@ -1921,7 +1921,7 @@
      },
      "check": {
       "t": "mcq",
-      "q": "On day 3, 18 seeds sprouted on the wet cloth and 0 on the dry cloth. What do the seeds need to wake up?",
+      "q": "On day 3, 18 seeds sprouted on the wet cloth and 0 on the dry cloth. What do the seeds need to sprout?",
       "options": [
        "Water",
        "Light",
@@ -1945,7 +1945,7 @@
      "do": "Ask your child to say or write three short sentences: what I think, what I saw, why.",
      "say": "Now tell me three things. What do you think now? What did you see? Why?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: seeds need water to wake up. What I saw: 18 out of 20 wet seeds sprouted, but none of the dry ones did. The soaked seeds got twice as heavy. Why: the seeds took in water, and the water let the baby plant start growing, using its stored food."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: seeds need water to sprout. What I saw: 18 out of 20 wet seeds sprouted, but none of the dry ones did. The soaked seeds got twice as heavy. Why: the seeds took in water, and the water let the baby plant start growing, using its stored food."
     }
    ],
    "context": "This is the sprouting test. You give some moong seeds water and keep others dry, to find out what a dry seed needs to start growing.",
@@ -2703,7 +2703,7 @@
        "q": "Did the seeds in the dark sprout too?",
        "good": [
         "Yes, because seeds use their own packed food to start.",
-        "Yes, they don't need light to wake up."
+        "Yes, they don't need light to sprout."
        ]
       }
      ]
@@ -2860,7 +2860,7 @@
       "t": "mcq",
       "q": "Why do damp seeds start to sprout in a store?",
       "options": [
-       "Water wakes up the baby plant inside",
+       "Water starts the baby plant inside growing",
        "The dark makes them grow",
        "Seeds sprout after exactly one week"
       ],
@@ -3277,7 +3277,7 @@
    "why_open": "Scientists have only begun to study them in detail. They know the microbes matter, but not yet all the ways."
   },
   {
-   "q": "How long can a seed stay alive while it sleeps?",
+   "q": "How long can a dry, dormant seed stay alive?",
    "why_open": "Some seeds sprout after hundreds of years, but most do not. Seed banks are still learning how long each kind of seed lasts."
   },
   {

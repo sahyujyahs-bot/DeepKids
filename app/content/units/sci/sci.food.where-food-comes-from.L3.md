@@ -1,9 +1,9 @@
-# Where food comes from: plants, animals, tiny living things and the Earth
+# Where food comes from: tracing a meal back to plants and the Sun
 `sci.food.where-food-comes-from.L3`
 
-**Summary.** This unit is about where our food comes from. Almost every food comes from something alive. Most comes from plants: their roots, stems, leaves, flowers, fruits and seeds. Some comes from animals, like milk, eggs, honey and fish. Some is made by tiny living things, like the bacteria that turn milk into curd. Salt and water are different: they come from the Earth itself. Follow any food back far enough and you reach a plant, and then the Sun. Families in India have also kept old knowledge about food, like the six tastes and eating with the seasons. Scientists agree with some of it and still argue about some of it.
+**Summary.** Almost every food on your plate was made by something alive. Most comes from plants, some from animals that ate plants, and some is made by tiny living things, like the bacteria that turn milk into curd. Only salt and water come from the non-living Earth. Follow almost any food back far enough and you reach a plant using sunlight. Indian families have also kept old knowledge about food, like the six tastes, and science agrees with some of it.
 
-**Intro.** *Look at your plate at your next meal. Pick one thing on it. Now ask: where was this a year ago? Was it alive? Was it in the air, in the soil, or in the sea?* Most children say food comes from the shop. That is true, but it is only the last step. Before the shop there was a farm, a cow, a tree or a boat. Before the farm there was a seed. And before the seed? This unit follows food back, step by step, until we reach the place where all food begins. On the way we meet a seed that is really a baby plant with a packed lunch. We meet bacteria that cook without fire. And we meet deep-sea creatures that eat without any sunlight at all.
+**Intro.** *Look at your plate at your next meal. Pick one thing on it. Now ask: where was this a year ago? Was it alive? Was it in the air, in the soil, or in the sea?* Most children say food comes from the shop. That is true, but it is only the last step. Before the shop there was a farm, a dairy, a tree or a fishing boat. Before the farm there was a seed. This unit follows food back, step by step, to where it begins. On the way, you split open a seed and find a tiny plant inside. You watch bacteria turn milk into curd overnight. And you meet deep-sea animals whose food chain starts with no sunlight at all.
 
 ## Learning outcomes
 0. I can trace a food back to where it came from: a plant, an animal, a fungus or tiny living thing, or the Earth itself.
@@ -16,22 +16,22 @@
 
 ## Terms
 - **Food**: Anything a living thing takes in to get energy and to build its body. *e.g.* Rice gives you energy to run. Dal helps build your muscles.
-- **Plant**: A living thing that makes its own food from sunlight, air and water. It cannot walk about. *e.g.* A rice plant, a mango tree and a tulsi plant.
-- **Root**: The part of a plant that grows under the ground. It holds the plant in place and drinks water. *e.g.* Carrot, radish (mooli) and beetroot are roots we eat.
+- **Plant**: A living thing that makes its own food from sunlight, air and water. It grows rooted in one place. *e.g.* A rice plant, a mango tree and a tulsi plant.
+- **Root**: The part of a plant that grows under the ground. It holds the plant in place and takes in water from the soil. *e.g.* Carrot, radish (mooli) and beetroot are roots we eat.
 - **Stem**: The part of a plant that holds it up and carries water and food. Some stems grow under the ground. *e.g.* Sugarcane is a stem. A potato is a fat underground stem.
 - **Leaf**: The flat green part of a plant that catches sunlight and makes food. *e.g.* Palak, methi, cabbage and curry leaves are leaves we eat.
 - **Flower**: The part of a plant that makes seeds. Some flowers and flower buds are food. *e.g.* Cauliflower and banana flower are flowers. A clove is a dried flower bud.
 - **Fruit**: The part of a plant that grows from a flower and holds the seeds. *e.g.* Mango, guava and banana are fruits. So are tomato, bhindi and brinjal.
-- **Seed**: A baby plant, curled up inside a coat, with its own store of food packed around it. *e.g.* Rice, wheat, moong, peanuts and jeera are all seeds.
+- **Seed**: A baby plant inside a tough coat, with a store of food beside it. A dry seed is dormant: it rests until it gets water. *e.g.* Rice, wheat, moong, peanuts and jeera are all seeds.
 - **Grain**: The seed of a grass plant that we eat. *e.g.* Rice, wheat, ragi, jowar, bajra and maize are grains.
 - **Pulses**: The dried seeds of bean and pea plants. We cook them as dal. *e.g.* Moong, toor, masoor, chana and rajma are pulses.
 - **Fungus (more than one: fungi)**: A living thing that is not a plant and not an animal. It cannot make food from sunlight. It feeds on dead or living things around it. *e.g.* Mushrooms are fungi. So is the yeast that makes bread rise.
 - **Microbe**: A living thing far too small to see without a microscope. Some microbes make us ill. Many help us. *e.g.* Tiny microbes turn milk into curd and make idli batter rise.
-- **Bacteria**: One kind of microbe. Each one is a single living cell. They are the smallest living things you can find almost everywhere. *e.g.* Bacteria called lactobacillus turn milk into curd.
+- **Bacteria**: One kind of microbe. Each one is a single living cell. Bacteria live almost everywhere: in soil, water, air and inside our bodies. *e.g.* Bacteria called lactobacillus turn milk into curd.
 - **Fermentation**: When microbes slowly change a food by feeding on it. The food often turns sour, bubbly or thick. *e.g.* Idli batter left overnight rises and smells sour. That is fermentation.
-- **Mineral**: A non-living material that comes from rocks, soil or the sea. Our bodies need small amounts of some minerals. *e.g.* Salt is a mineral. So is the iron in your blood, which first came from soil.
-- **Photosynthesis**: How a green plant makes food. Its leaves use sunlight to turn air and water into sugar. *e.g.* A mango leaf in the sun is making food right now.
-- **Food chain**: A list of who eats whom, starting from a plant. *e.g.* Grass is eaten by a cow. The cow's milk is drunk by you. Grass to cow to you.
+- **Mineral**: A non-living material that comes from rocks, soil or the sea, such as salt. Our bodies need small amounts of some minerals, like iron and calcium. *e.g.* Salt is a mineral. Plants take up iron and calcium from the soil, and we get them by eating the plants.
+- **Photosynthesis**: How a green plant makes food. Its leaves use the energy of sunlight to join carbon dioxide from the air with water, making sugar. *e.g.* A mango leaf in the sun is making food right now.
+- **Food chain**: A list of who eats whom, starting from a plant. *e.g.* A cow eats grass. You drink the cow's milk. So the chain is grass, then cow, then you.
 - **Starch**: A kind of food that plants make and store, mostly in seeds, roots and underground stems. It gives us energy. *e.g.* Rice, potato, roti and ragi are full of starch.
 - **Crop**: A plant that farmers grow in large amounts. *e.g.* Rice, wheat, sugarcane and cotton are crops.
 - **Seasonal food**: Food that grows and is fresh at a certain time of year. *e.g.* Mangoes in summer. Carrots, peas and sarson in winter.
@@ -39,7 +39,7 @@
 - **Nectar**: A sweet juice made inside flowers. Bees drink it and turn it into honey. *e.g.* A bee sipping from a mustard flower is collecting nectar.
 - **Farming**: Growing plants and keeping animals for food, instead of only finding them in the wild. People began farming about 11,000 years ago. *e.g.* Before farming, people gathered fruit, roots and seeds, and hunted animals.
 - **Seed bank**: A safe store where seeds of many kinds of crop are kept, so they are never lost. *e.g.* The Svalbard Global Seed Vault in Norway keeps more than a million packets of seeds deep inside a frozen mountain.
-- **Hydrothermal vent**: A crack in the deep sea floor where very hot, mineral-rich water gushes out. Strange animals live around it without any sunlight. *e.g.* Giant tube worms live beside vents, more than 2 kilometres under the sea.
+- **Hydrothermal vent**: A crack in the deep sea floor where very hot, mineral-rich water gushes out. Strange animals live around it without any sunlight. *e.g.* Giant tube worms live beside vents about 2.5 kilometres under the Pacific Ocean.
 - **Atom**: The tiny building block that everything is made of, far too small to see. *e.g.* The atoms in your dal will become part of your body.
 - **Energy**: What it takes to move, grow, keep warm or change. Food carries energy that first came from the Sun. *e.g.* The energy in a banana lets you run and jump.
 
@@ -54,7 +54,7 @@ Look at any meal and sort it. Rice, dal, sabzi, fruit and spices come from plant
 ### Which part of the plant are we eating? · *defined*
 **Definition:** We eat every part of a plant: roots, stems, leaves, flowers, fruits and seeds. Different plants give us different parts.
 
-A plant is one living thing doing many jobs. The root drinks water and often stores food. The stem holds the plant up and carries water. Leaves make food from sunlight. Flowers make seeds. Fruits hold the seeds. Seeds are baby plants with food packed around them. People found out long ago which parts of which plants are good to eat. Some surprises: a potato is not a root. It is a fat underground stem, and its 'eyes' are buds that can grow shoots. Ginger and haldi are underground stems too. Cinnamon is the bark of a tree. A clove is a dried flower bud. Saffron is the thread-like middle part of a crocus flower.
+A plant is one living thing doing many jobs. The root takes in water and often stores food. The stem holds the plant up and carries water. Leaves make food from sunlight. Flowers make seeds. Fruits hold the seeds. Seeds are baby plants with food packed around them. People found out long ago which parts of which plants are good to eat. Some surprises: a potato is not a root. It is a fat underground stem, and its 'eyes' are buds that can grow shoots. Ginger and haldi are underground stems too. Cinnamon is the bark of a tree. A clove is a dried flower bud. Saffron is the thread-like middle part of a crocus flower.
 - e.g. Roots: carrot, radish, beetroot, sweet potato.
 - e.g. Stems: sugarcane, potato, ginger, haldi, lotus stem (kamal kakdi).
 - e.g. Leaves: palak, methi, cabbage, curry leaves, tea leaves.
@@ -62,56 +62,56 @@ A plant is one living thing doing many jobs. The root drinks water and often sto
 - e.g. Fruits: mango, banana, tomato, bhindi, brinjal, chilli, pepper.
 - e.g. Seeds: rice, wheat, all dals, peanuts, jeera, mustard, coffee beans.
 ### Is a tomato a fruit or a vegetable? · *debated*
-This sounds like a silly question, but people really argue about it. The answer depends on who you ask, because 'fruit' and 'vegetable' mean different things to different people. Nature does not sort plants into fruits and vegetables. People do.
+This sounds like a silly question, but people really argue about it. The answer depends on who is doing the sorting. Botanists have a clear meaning for 'fruit'. 'Vegetable' is a cooking word, not a science word.
 - e.g. Bhindi, brinjal, cucumber, pumpkin, chilli and tomato all grow from flowers and hold seeds.
 - e.g. Nobody puts brinjal in a fruit salad, even though a botanist calls it a fruit.
 - **Botanists, the scientists who study plants:** A fruit is the part that grows from a flower and holds the seeds. So tomato, bhindi and brinjal are fruits. 'Vegetable' is not a science word at all. It just means any other plant part we eat.
 - **Cooks:** A fruit is sweet and eaten raw or as a dessert. A vegetable is cooked in a sabzi or a curry. So a tomato is a vegetable.
-- **Judges of the United States Supreme Court, in 1893:** A tomato seller argued that tomatoes were fruits, so he should not pay the tax on vegetables. The judges agreed that botanists call it a fruit. But they ruled that in everyday life it is a vegetable, so he had to pay.
+- **Judges of the United States Supreme Court, in 1893:** A family of tomato importers argued that tomatoes were fruits, so they should not pay the tax on imported vegetables. The judges agreed that botanists call tomatoes fruits. But they ruled that in everyday speech a tomato is a vegetable, so the tax had to be paid.
 ### Food from animals, and what the animals ate · *defined*
 **Definition:** Some of our food comes from animals: milk and everything made from it, eggs, honey, meat and fish. Every one of those animals got its own food from plants, or from animals that ate plants.
 
-Milk comes from cows, buffaloes and goats. From milk we make curd, paneer, butter, ghee and khoa. Hens lay eggs. Fish, prawns and crabs come from rivers and the sea. Honey is made by honeybees. They drink sweet nectar from flowers and store it in wax rooms in their hive. They fan it with their wings until most of the water dries off. One worker bee makes only about a twelfth of a teaspoon of honey in her whole life. So every spoon of honey is the work of many bees and many thousands of flowers. Now ask what each animal ate. A cow eats grass and fodder. A hen eats grain. A bee drinks nectar. A fish eats tiny water plants and smaller animals. So animal food is really plant food that has passed through an animal first.
+Milk comes from cows, buffaloes and goats. From milk we make curd, paneer, butter, ghee and khoa. Hens lay eggs. Fish, prawns and crabs come from rivers and the sea. Honey is made by honeybees. They drink sweet nectar from flowers and store it in little wax cells in their hive. They fan it with their wings until most of the water evaporates, which means it turns into vapour and goes into the air. One worker bee makes only about a twelfth of a teaspoon of honey in her whole life. So every spoon of honey is the work of many bees and many thousands of flowers. Now ask what each animal ate. A cow eats grass and fodder. A hen eats grain. A bee drinks nectar. A fish eats algae, tiny water creatures or smaller fish. So animal food is really plant food that has passed through an animal first.
 - e.g. Ghee comes from butter, which comes from milk, which came from a cow, which ate grass.
 - e.g. Honey comes from bees, which drank nectar from flowers.
 - e.g. Some families eat no animal food at all. Some eat milk but no eggs or meat. Families make different choices for health, belief and kindness.
 ### Food made by fungi and microbes · *defined*
 **Definition:** Fungi and microbes are living things that are not plants and not animals. Mushrooms are fungi we eat. Many microbes help make our food, by fermenting it.
 
-A mushroom is not a plant. It has no green leaves and cannot make food from sunlight. It feeds on dead leaves, wood or soil. Scientists have found that fungi are actually more closely related to animals than to plants. Microbes are even smaller living things. Put a spoon of curd into warm milk and leave it overnight. Bacteria from the old curd feed on the sugar in the milk. They make an acid, which turns the milk thick and sour. By morning there are billions of them, and the milk has become curd. Idli and dosa batter rise and turn sour for the same reason. Bacteria and yeasts feed on the soaked rice and urad dal. Yeasts are another kind of fungus. People in India have used microbes to make curd, idli, dhokla, kanji and appam for many hundreds of years. They did it long before anyone knew microbes existed.
+A mushroom is not a plant. It has no green leaves and cannot make food from sunlight. It feeds on dead leaves, wood or soil. Scientists have found that fungi are actually more closely related to animals than to plants. Microbes are even smaller living things. Put a spoon of curd into warm milk and leave it overnight. Bacteria from the old curd feed on the sugar in the milk. They make lactic acid, which turns the milk thick and sour. By morning there are billions of them, and the milk has become curd. Idli and dosa batter rise and turn sour for the same reason. Bacteria and yeasts feed on the soaked rice and urad dal. Yeasts are tiny fungi, each just one cell. People in India have used microbes to make curd, idli, dhokla, kanji and appam for many hundreds of years. They did it long before anyone knew microbes existed.
 - e.g. Curd is milk changed by bacteria.
 - e.g. Bread and bhatura rise because yeast makes tiny bubbles of gas.
 - e.g. Idli batter left overnight rises and smells sour.
 ### Salt and water: food that was never alive · *defined*
 **Definition:** Salt and water are the two common foods that do not come from plants, animals or microbes. They come from the non-living Earth.
 
-Water falls as rain, flows in rivers and sits under the ground. Our bodies are more than half water, and we lose some every day in sweat, breath and urine. Salt is a mineral. Most of India's salt comes from Gujarat. There, people let sea water into shallow fields called salt pans. The Sun dries the water away and leaves white salt crystals behind. Rock salt, sendha namak, is dug out of the ground. It is the salt from seas that dried up millions of years ago. Our bodies also need tiny amounts of other minerals, like iron and calcium. Plants pull them up from the soil, and we get them by eating the plants.
+Water falls as rain, flows in rivers and sits under the ground. Our bodies are more than half water, and we lose some every day in sweat, breath and urine. Salt is a mineral. Most of India's salt comes from Gujarat. There, people let sea water into shallow fields called salt pans. The Sun dries the water away and leaves white salt crystals behind. Rock salt, sendha namak, is dug out of the ground. It is the salt from seas that dried up millions of years ago. Our bodies also need tiny amounts of other minerals, like iron and calcium. Plants take them up from the soil, and we get them by eating the plants.
 - e.g. Salt pans in the Rann of Kutch in Gujarat, and the Sambhar salt lake in Rajasthan.
 - e.g. A cucumber is about 95 parts water out of every 100. So even plant food is mostly water from the Earth.
 ### Every food chain begins with a plant, and every plant begins with the Sun · *defined*
 **Definition:** A food chain is a list of who eats whom. On land, every food chain starts with a plant, and in water most start with tiny algae. Plants and algae make food using the energy of sunlight. So almost all food is sunlight, stored.
 
-Follow your curd back. Curd came from milk. Milk came from a cow. The cow ate grass. The grass made itself out of sunlight, air and water. Follow fish curry back. The fish ate smaller fish. The smaller fish ate tiny floating algae. The algae made food from sunlight. Every chain on land and in the sunlit sea ends at a plant or an alga, and then at the Sun. There is a rough rule too. When a cow eats grass, only about a tenth of the grass's energy ends up in the cow's body. The rest is used for moving, keeping warm and living. So it takes many fields of grass to feed one cow, and much less land to feed people on plants directly.
+Follow your curd back. Curd came from milk. Milk came from a cow. The cow ate grass. The grass made itself out of sunlight, air and water. Follow fish curry back. The fish ate smaller fish. The smaller fish ate tiny floating algae. The algae made food from sunlight. Every chain on land and in the sunlit sea ends at a plant or an alga, and then at the Sun. There is a rough rule too. When a cow eats grass, only about a tenth of the grass's energy ends up in the cow's body. The rest is used for moving, keeping warm and living. So it takes a lot of grass to feed one cow. Feeding people on plants directly needs much less land.
 - e.g. Sun, then grass, then cow, then milk, then you.
 - e.g. Sun, then algae in the sea, then small fish, then big fish, then fish curry.
 - e.g. Sun, then mustard flower, then bee, then honey, then you.
 ### What plants make their food from · *defined*
-**Definition:** Green plants make their food from air, water and sunlight. Their leaves take in a gas from the air called carbon dioxide. Their roots drink water. Sunlight gives the energy to join them into sugar. This is called photosynthesis.
+**Definition:** Green plants make their food from air, water and sunlight. Their leaves take in a gas from the air called carbon dioxide. Their roots take in water. Sunlight gives the energy to join them into sugar. This is called photosynthesis.
 
-Most people guess that plants eat soil. About 380 years ago, a scientist in Belgium named Jan Baptist van Helmont tested this. He weighed some dry soil and put it in a pot. He planted a small willow tree in it and only gave it rainwater. Five years later, the tree had grown about 30 times heavier. But the soil had lost only a tiny pinch of weight. So the tree had not eaten the soil. Van Helmont thought it was made of water. Scientists later found that most of it was built from air. A wheat grain, a mango and a grain of rice are mostly built out of air and water, joined together by sunlight. The soil gives only small amounts of minerals.
+Most people guess that plants eat soil. About 380 years ago, a scientist named Jan Baptist van Helmont, in what is now Belgium, tested this. He weighed some dry soil and put it in a pot. He planted a small willow tree in it and only gave it rainwater. Five years later, the tree had grown about 30 times heavier. But the soil had lost only a tiny pinch of weight. So the tree had not eaten the soil. Van Helmont thought it was made of water. Scientists later found that most of the tree's dry wood was built from carbon dioxide, a gas in the air. A wheat grain, a mango and a grain of rice are mostly built out of air and water, joined together by sunlight. The soil gives only small amounts of minerals.
 - e.g. A tall coconut tree is built mostly from air and water.
 - e.g. Rice in your plate was, a few months ago, carbon dioxide gas in the air over a paddy field.
-### A seed is a baby plant with a packed lunch · *defined*
-**Definition:** A seed is a baby plant curled inside a tough coat, with a store of food packed around it. When we eat grains, dal and nuts, we are eating the food the mother plant packed for its baby.
+### What is inside a seed · *defined*
+**Definition:** A seed is a baby plant inside a tough coat, with a store of food beside it. When we eat grains, dal and nuts, we are eating that stored food.
 
-Soak a chana or a peanut overnight and gently split it in two. You will find two fat halves and, at one end, a tiny curled baby plant. The fat halves are its lunchbox. They are full of starch, protein and oil that the mother plant packed for it. The baby plant can sleep inside the seed for months, or even years, as long as it stays dry and cool. When it gets water and warmth, it wakes up and uses its lunch to grow a root and a shoot. That is why seeds are such good food for us. They are small, they keep for a long time, and they are packed with energy. Rice, wheat, ragi, bajra, all the dals, peanuts, and even jeera and mustard are seeds.
+Soak a chana or a peanut overnight and gently split it in two. You will find two fat halves and, at one end, a tiny curled baby plant. The fat halves are its food store. They are full of starch, protein and oil that the mother plant packed for it. A dry seed is dormant, which means resting. It can stay that way for months, or even years, as long as it is dry and cool. When it gets water and warmth, it starts to grow, using its food store to make a root and a shoot. That is why seeds are such good food for us. They are small, they keep for a long time, and they are packed with energy. Rice, wheat, ragi, bajra, all the dals, peanuts, and even jeera and mustard are seeds.
 - e.g. Soaked moong grows a little white root in a day or two.
-- e.g. A grain of rice has a tiny baby plant at one end and its food store in the rest.
+- e.g. A whole grain of brown rice has a tiny baby plant at one end. Polishing white rice rubs most of it off.
 - e.g. People have stored seeds for months between harvests since farming began.
 ### You are built out of your food · *defined*
 **Definition:** Your body is made of atoms. Almost all of them came from the food you ate, and the water and air you took in. Your body keeps replacing its old parts with new parts built from food.
 
-When you eat, your body breaks food down into tiny pieces. It uses some for energy, like fuel. It uses the rest as building blocks. The lining of your gut is rebuilt every few days. Each red blood cell lasts only about 120 days, about four months, and is then replaced with a new one. So the blood in you now was built from food you ate in the last few months. The carbon atoms in today's rice were carbon dioxide in the air over a paddy field last season. Before that, they may have been in a tree, a dinosaur, or the breath of someone long ago. Atoms do not wear out. They just move from one living thing to the next. And most of those atoms were first made inside stars that burned out before the Sun was born.
+When you eat, your body breaks food down into tiny pieces. It uses some for energy, like fuel. It uses the rest as building blocks. The lining of your gut is rebuilt every few days. Each red blood cell lasts only about 120 days, about four months, and is then replaced with a new one. So the blood in you now was built from food you ate in the last few months. The carbon atoms in today's rice were carbon dioxide in the air over a paddy field last season. Before that, they may have been in a tree, a dinosaur, or the breath of someone long ago. Atoms do not wear out. They just move from one living thing to the next. And apart from hydrogen, most of those atoms were first made inside stars that burned out before the Sun was born.
 - e.g. The dal you eat this week helps build the muscles you use next month.
 - e.g. A carbon atom in your fingernail may once have been in a mango, a cow and the air.
 ### Life with no sunlight: food at the bottom of the sea · *defined*
@@ -121,7 +121,7 @@ In 1977, scientists dived more than 2 kilometres down to the floor of the Pacifi
 - e.g. Giant tube worms near vents can grow taller than a grown-up.
 - e.g. Some microbes in soil and in deep rocks also make food from chemicals, without sunlight.
 ### Six tastes or five? Old Indian knowledge meets today's science · *debated*
-About 2,000 years ago, the Charaka Samhita, one of the oldest books of Ayurveda, India's traditional medicine, named six tastes, or rasas. They are madhura (sweet), amla (sour), lavana (salty), katu (pungent or spicy), tikta (bitter) and kashaya (astringent, the dry puckery feel of raw banana or strong tea). It taught that a good meal should have all six in balance. A festive thali often still does. Today's scientists study taste with microscopes and tests of the tongue. They agree on some of the old list and explain other parts differently.
+About 2,000 years ago, the Charaka Samhita, one of the oldest books of Ayurveda, India's traditional medicine, named six tastes, or rasas. They are madhura (sweet), amla (sour), lavana (salty), katu (pungent or spicy), tikta (bitter) and kashaya (astringent, the dry puckery feel of raw banana or strong tea). It taught that a good meal should have all six in balance. A festive thali often still does. Today, scientists study the taste cells on the tongue. They agree with some of the old list and explain other parts differently.
 - e.g. A thali with sweet kheer, sour lemon pickle, salty papad, spicy chutney, bitter karela and astringent raw banana sabzi has all six rasas.
 - e.g. When you bite a chilli, your mouth feels hot, even though the chilli is cold.
 - **The Charaka Samhita, an Ayurveda book about 2,000 years old:** There are six tastes. Each one has its own effect on the body. A healthy meal balances all six.
@@ -138,7 +138,7 @@ In every part of India, people have long eaten what grows nearby, at that time o
 ### How people started farming, and how our kitchen travelled the world · *defined*
 **Definition:** For most of human history, people found their food in the wild. Farming began about 11,000 years ago, separately in several parts of the world. Since then, crops have travelled across the world with traders.
 
-Before farming, people gathered fruit, roots, seeds and honey, and they hunted and fished. Then, in a few places, people began to sow seeds and keep animals. One of the earliest farming villages in South Asia is Mehrgarh, in what is now Pakistan. People there grew barley and wheat and kept cattle about 9,000 years ago. Later, crops travelled. Ragi first grew in East Africa and reached India about 4,000 years ago. Chilli, potato, tomato, peanut and maize all came from the Americas. They reached India only about 500 years ago, on Portuguese ships. Before that, Indian food got its heat from black pepper and long pepper. Black pepper grows wild in the forests of Kerala, and traders took it all the way to ancient Rome. People in India were also among the first to turn sugarcane juice into sugar crystals. The English word 'sugar' comes, through Arabic and Persian, from the Sanskrit word 'sharkara'.
+Before farming, people gathered fruit, roots, seeds and honey, and they hunted and fished. Then, in a few places, people began to sow seeds and keep animals. One of the earliest farming villages in South Asia is Mehrgarh, in what is now Pakistan. People there grew barley and wheat and kept cattle about 9,000 years ago. Later, crops travelled. Ragi first grew in East Africa and reached India about 4,000 years ago. Chilli, potato, tomato, peanut and maize all came from the Americas. They reached India only about 400 to 500 years ago, many of them on Portuguese ships. Before that, Indian food got its heat from black pepper and long pepper. Black pepper grows wild in the forests of Kerala, and traders took it all the way to ancient Rome. People in India were also among the first to turn sugarcane juice into sugar crystals. The English word 'sugar' comes, through Persian and Arabic, from the Sanskrit word 'sharkara'.
 - e.g. Aloo, tamatar and mirchi are in almost every Indian kitchen, but none of them grew in India 600 years ago.
 - e.g. Black pepper from Kerala was once so valuable that it was called black gold.
 ### How will everyone be fed in the future? · *debated*
@@ -147,7 +147,7 @@ There are more than 8 billion people on Earth. In the 1960s, India did not grow 
 - e.g. Millets like ragi, jowar and bajra need much less water than rice. The United Nations named 2023 the International Year of Millets, after India proposed it.
 - e.g. Seed banks, like the one in Svalbard in Norway, store seeds of many crops in case any are lost.
 - **Supporters of the Green Revolution:** New high-yield seeds and fertiliser saved millions of people from hunger. Science must keep making better crops.
-- **Critics, like the Indian scientist Vandana Shiva:** The Green Revolution harmed soil and water, and pushed out India's many old local crops. Farming should go back to many crops, local seeds and fewer chemicals.
+- **Critics, like the Indian writer and activist Vandana Shiva:** The Green Revolution harmed soil and water, and pushed out India's many old local crops. Farming should go back to many crops, local seeds and fewer chemicals.
 - **M. S. Swaminathan himself, later in life:** He called for an 'Evergreen Revolution': growing more food while caring for the soil, water and small farmers.
 - **Other scientists:** Some try new foods: meat grown from animal cells, insects (about 2 billion people already eat them), or seaweed and algae. Whether these will become common is still open.
 
@@ -158,6 +158,10 @@ There are more than 8 billion people on Earth. In the 1960s, India did not grow 
 - Seeds hold a baby plant and a store of food, mostly starch, protein and oil. *How we know:* Split a soaked seed and you can see the baby plant. A drop of iodine turns the food store blue-black, which shows starch is there.
 - Microbes turn milk into curd and make batters rise. *How we know:* Warm milk with a spoon of curd sets by morning. Boiled milk with no curd added does not. Under a microscope, curd is full of bacteria.
 - Some living things at deep-sea vents get their food from chemicals, not sunlight. *How we know:* Scientists in the submarine Alvin first saw these communities in 1977. Since then, hundreds of vent sites have been studied.
+
+## How we found out
+**Louis Pasteur, Justus von Liebig and Eduard Buchner, 1857 to 1897.** For thousands of years, people made curd, bread and idli without knowing why the food changed. In the 1830s, a few scientists looked at fermenting liquids under microscopes and saw tiny yeast cells. But the famous German chemist Justus von Liebig said fermentation was only a chemical breakdown, like rotting. The yeast cells, he said, were not doing the work. In 1857, the French scientist Louis Pasteur studied liquids that were turning sour, like souring milk. Under his microscope he found living cells far smaller than yeast. When he added a few of them to a fresh sugary liquid, they multiplied, and the liquid turned sour. Without them, it stayed fresh. He showed that each kind of fermentation is done by its own kind of living microbe. In 1897, Eduard Buchner found that juice squeezed out of yeast, with no living cells in it, could also ferment sugar. It held enzymes, chemicals the yeast makes. So both sides were partly right: living microbes do the work, using chemicals they make.  
+*What people believed before:* Fermentation is only a chemical breakdown, like rotting, and the tiny living cells in it play no part.
 
 ## Challenging perspectives
 - **Food comes from the shop.** (Many young children, and many grown-ups in cities who never see a farm; *rejected*)  
@@ -171,7 +175,7 @@ There are more than 8 billion people on Earth. In the 1960s, India did not grow 
   Against: Mushrooms have no green leaves and cannot make food from sunlight. They feed on dead things like wood and leaves. Studies of their cells show fungi are more closely related to animals than to plants.
 - **Spicy food and worry cause stomach ulcers, painful sores inside the stomach.** (Most doctors, until the 1980s; *rejected*)  
   For: People with ulcers often felt worse after spicy food or a worrying day.  
-  Against: In 1982, two doctors in Australia, Robin Warren and Barry Marshall, found that most ulcers are caused by a bacterium. Other doctors did not believe them. So Marshall drank a cup of the bacteria himself, fell ill, and then cured himself with medicine. They won a Nobel Prize in 2005. Spicy food can still upset some stomachs, but it is not the main cause of ulcers.
+  Against: In 1982, two doctors in Australia, Robin Warren and Barry Marshall, found that most ulcers are caused by a bacterium. Other doctors did not believe them. So in 1984 Marshall drank a cup of the bacteria himself. His stomach became sore and swollen, and medicine that kills bacteria cured him. They won a Nobel Prize in 2005. Spicy food can still upset some stomachs, but it is not the main cause of ulcers.
 - **Old food traditions are just superstition, and only modern science knows about food.** (Some people today; *debated*)  
   For: Some old rules have no evidence behind them, and a few are wrong.  
   Against: Many traditions came from careful watching over hundreds of years. People made curd and idli with microbes long before microbes were discovered. Eating millets in dry places and watery foods in summer makes good sense. The fair way is to test each old idea, not to accept or reject them all.
@@ -185,31 +189,31 @@ There are more than 8 billion people on Earth. In the 1960s, India did not grow 
 ## Roots
 We have been following food back to where it comes from: plants, animals, tiny living things, the Earth and the Sun. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** You are not separate from your food. Eating is the world becoming you, for a while.  
-*Habit it breaks:* We think of 'me' in here and 'food' out there, and of plants, animals, microbes and the Earth as separate boxes. But the rice on your plate was air and sunlight last season, and it becomes your blood this month. The line between eater and eaten is a moment in a chain, not a wall.  
-*Evidence:* Trace any food back and you reach a plant, air, water and the Sun. Your red blood cells are rebuilt from food about every four months.
+**Deep truth.** Sort any meal, and almost every food on it was made by something alive. Plants made the rice and dal, a cow made the milk, and bacteria made the curd. Only the salt and the water were never made by a living thing. So even when we cook, the food itself was made by other living beings, not by us.  
+*Habit it breaks:* We say 'I made dinner', or that food comes from the shop. Cooking and buying are real work, but they only change or move food that plants, animals and microbes made.  
+*Evidence:* In Kitchen Detective, everything except salt and water went on a plate for a living thing. In the curd test, milk set into curd only where living bacteria from old curd were added and kept warm.
 
 - *who am i:* You are built out of what you ate: rice, dal, milk and fruit, rebuilt into you.
-- *what is life:* Life is a chain of passing on. A seed packs lunch for its baby, a cow turns grass into milk, and you turn both into you.
+- *what is life:* Life is passing food on. A plant stores food in its seed, a cow turns grass into milk, and your body turns both into you.
 - *what is this world:* A world where sunlight becomes grass, grass becomes milk, and milk becomes a child who can wonder about it all.
 
-DeepKids believes one source becomes the many. In this unit you can almost watch it happen. One sunlight becomes wheat, mango, grass, cow, bee, fish and you. Then it moves on, into the air, the soil and new seeds. Nothing in the chain owns that energy. Each living thing holds it for a while and passes it on. The many foods on your plate are one gift wearing many shapes.
+Most food starts as sunlight caught by a leaf. A wheat plant uses that energy to build its grain. A cow uses grass to build milk, and curd bacteria use milk to build more bacteria. Your body uses all of these to build you. Each living thing takes what another made and builds itself from it, so every meal links many lives into one chain.
 
-- **Taittiriya Upanishad 3.2.1 and 3.10.6 (the Bhrigu Valli):** The young Bhrigu asks his father what is truly real. His father tells him to find out for himself, by looking deeply. The first thing Bhrigu understands is that food is the great reality. From food all beings are born. By food they live. Into food they return. At the end of the teaching, the one who understands sings: 'I am food, I am food, I am food. I am the eater of food.' (Your curd was milk, the milk was grass, and you will one day return to the soil that feeds new plants. The eater and the eaten are one chain.)
+- **Taittiriya Upanishad 3.2.1 and 3.10.6 (the Bhrigu Valli):** The young Bhrigu asks his father what is truly real. His father tells him to find out for himself, by looking deeply. The first thing Bhrigu understands is that food is the great reality. From food all beings are born. By food they live. Into food they return. At the end of the teaching, the one who understands sings: 'I am food, I am food, I am food. I am the eater of food.' (In this unit, curd came from milk, milk from grass, and grass from sunlight, air and water. Bhrigu's teaching says the same: every eater is made of food, and in the end becomes food for others.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988), the sheet of paper:** Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. He called this 'interbeing': nothing exists by itself alone. (Look deeply at a roti and you see the Sun, the rain, the wheat field, the farmer and the miller. The roti is made of things that are not roti.)
-- **Robin Wall Kimmerer, Braiding Sweetgrass (2013), the chapter 'The Honorable Harvest':** A Potawatomi botanist shares the Native American teaching of the Honourable Harvest. Take only what you need. Never take the first or the last. Share what you take, and give thanks for it. (The seed keepers of Leningrad did not eat the last seeds. Farmers everywhere save some of their harvest, so that the chain of life can go on.)
+- **Robin Wall Kimmerer, Braiding Sweetgrass (2013), the chapter 'The Honorable Harvest':** Robin Wall Kimmerer, a Potawatomi botanist, shares the Indigenous teaching she calls the Honourable Harvest. Take only what you need. Never take the first or the last. Share what you take, and give thanks for it. (In the story, the seed keepers did not eat the seeds, so the crops could be grown again. Farmers everywhere save part of each harvest as seed for the next sowing.)
 - Science (settled): Almost every food chain begins with sunlight caught by plants or algae. The atoms in your body came from your food, water and air, and they are always being replaced.
 - Science (idea): Some scientists think the very first life may have begun at deep-sea vents, feeding on chemicals, before any plant existed.
-- Other view, Many biologists, and the Charvaka thinkers of ancient India: Eating is chemistry: food is broken into small pieces and rebuilt into a body, and nothing more is going on. A tiger and the deer it eats are not one: one lives and one dies. The Charvaka thinkers taught that the body is only matter and ends when it dies. Seeing the chain clearly does not prove that everything is one. That is an honest view.
+- Other view, Many biologists, and the Charvaka thinkers of ancient India: Many biologists say eating is chemistry: food is broken into small pieces and rebuilt into a body. On this view, the chain from the Sun to your plate is energy and atoms moving, and there is nothing more to it. The Charvaka thinkers also taught that only matter is real, and that the self ends when the body dies.
 - Practice, The Slow Bite (3 min): Take one small piece of roti, a raisin or a slice of fruit. Hold it in your palm and just look at it for a moment. Close your eyes. Think of the Sun that shone on it. Think of the rain, the soil and the farmer. Now put it in your mouth, but don't chew yet. Feel it on your tongue. Chew very slowly, and swallow. This food is now becoming you. Sit quietly for three breaths.
 - Ask: Where does your food stop and you begin?
-- Ask: Who or what gave something up so that you could eat today?
+- Ask: Can you find any food on your plate today that no living thing helped to make?
 - Ask: If your body is always being rebuilt from food, what part of you stays the same?
 
 ## Deep and big questions
 - *deep:* A plant is our food. So what is a plant's food? (hint: A huge tree grew in a pot, but the soil in the pot hardly changed. Where did the tree come from?)
 - *deep:* If you follow any food back far enough, where do you always end up? (hint: Try your curd, your roti and your fish. What is at the very start of each chain?)
-- *deep:* When you eat a grain of rice, are you eating something alive? (hint: A raw rice grain can still grow. Does cooking change that?)
+- *deep:* When you eat a grain of rice, are you eating something alive? (hint: Whole moong and unpolished rice can still sprout. Does cooking change that?)
 - *big:* Your blood is rebuilt every few months from food. So are you the same person you were last year? (hint: Think of a river. The water is always new, but it is still the same river.)
 - *deep:* Is there any food that is not, in some way, sunlight? (hint: Think of salt, water, and the tube worms at deep-sea vents.)
 - *big:* Who brought your lunch to you today? Count every person you can think of. (hint: Start with whoever cooked it. Then the shopkeeper, the driver, the miller, the farmer. Who else?)
@@ -262,9 +266,9 @@ The siege lasted two more winters. Some of the people in the seed library did no
 
 But the seeds survived. After the war, they went out from St Isaac's Square to farms across the country, packet by packet. They were sown in spring soil. They woke up and ate their lunch and pushed out roots and shoots, and grew, and made more seeds, and those seeds made more.
 
-Somewhere, a great-great-great-grandchild of one of those forty-seven peas is climbing a stick in a garden right now. It does not know about the winter. It only knows about the Sun.
+Somewhere, a great-great-great-grandchild of one of those forty-seven peas is climbing a stick in a garden right now. It grew from seeds that lived through that winter. Now it turns its leaves to the Sun.
 
-**For the parent:** For the parent: Nina's turn comes when she sees that a seed is not only food. It is a living baby plant with its lunch packed around it, waiting to grow. Eaten, it is one mouthful. Planted, it becomes a plant that makes many more seeds. Most of our food is seeds or other plant parts. Every bit of it comes from living things that keep making more of themselves. That is why farmers have always kept back their best seeds, even in hungry years. The story also quietly asks about saving for the future. It remembers people whose sacrifice was never written in the history books.
+**For the parent:** For the parent: Nina's turn comes when she sees that a seed is not only food. It is a living baby plant with a store of food, waiting to grow. Eaten, it is one mouthful. Planted, it becomes a plant that makes many more seeds. Most of our food is seeds or other plant parts. Every bit of it comes from living things that keep making more of themselves. That is why farmers have always kept back their best seeds, even in hungry years. The story also quietly asks about saving for the future. It remembers people whose sacrifice was never written in the history books.
 
 - Ask: Why did the scientists in the story not cook the seeds, even though they were starving?
 - Ask: What did Nina remember about the inside of a pea? What were the two fat halves for?
@@ -280,8 +284,8 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
 - **Printable score sheet: Sunlight score sheet:** Player; Chains built; Links in each chain; Bonus points; Total
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the five-space mat on the floor. 2. Shuffle the cards and deal 6 each. 3. Put the rest in a pile.  
-  *Parent says:* In this game, you pass sunlight from card to card until it lands on your plate. Every chain must start with the Sun.  
-  *Child mode:* Every chain starts with the SUN. Pass the sunlight from card to card. End on a plate!
+  *Parent says:* In this game, you build food chains. Each chain shows how energy from the Sun passes from one living thing to the next, until it reaches your plate. Every chain must start with the Sun.  
+  *Child mode:* Every chain starts with the SUN. Each card passes the energy on. End on a plate!
 - **s2 (4 min)**  
   *Parent does:* Build one practice chain together: SUN, Mustard flower, Honeybee, Honey.  
   *Parent says:* Let's build one together. The Sun feeds the mustard flower. The bee drinks its nectar. The bee makes honey. Four cards, four points.  
@@ -319,9 +323,9 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
   - Think: Good scientists ask questions that cut the answers in half. Which of your questions did that?
 
 ## Experiments
-### e1 · Milk to Curd: what do the tiny helpers need? (25 min, 2 days)
+### e1 · Milk to Curd: what do curd bacteria need? (25 min, 2 days)
 - **question:** Milk turns into curd because of tiny living things called bacteria. Do they need a spoon of old curd to start, and do they need warmth?
-- **predict:** Before you start, look at the three katoris. Guess which ones will be thick curd by morning, and which will still be runny milk.
+- **predict:** Before you start, look at the three katoris. Guess which ones will be thick curd by morning, and which will still be runny milk. Why do you think so?
 - **fair test:** To make it fair, use the same milk, the same amount in each katori, and the same size katoris. Change only one thing at a time: whether we add curd, or where we keep it.
 - **safety:** A grown-up boils the milk and pours it. Let it cool until it is just warm. Eat only the curd from katori A. Throw away katori B after the test, because milk left out without curd can go bad.
 - **record:** Fill in the table for all three katoris. Then draw a bar for each katori, as tall as its tilt score.
@@ -341,6 +345,7 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
   *Parent does:* 1. Stir 1 teaspoon of curd into A. 2. Add nothing to B. 3. Stir 1 teaspoon of curd into C. 4. Put A and B in a warm corner. Put C in the fridge.  
   *Parent says:* A gets curd and stays warm. B gets no curd and stays warm. C gets curd but goes in the cold fridge.  
   *Child mode:* Put a spoon of curd in A and C. Put nothing in B. A and B stay warm. C goes in the fridge.
+  - Note: In cold weather, wrap katoris A and B in a thick towel, or keep them in a closed casserole, so they stay warm all night. Curd sets in about 6 to 8 hours when it is warm, and much more slowly when it is cold.
   - Check: Katoris A and B both stay warm. What is the only difference between them? → **A has curd added, B does not**
   - Wait: Leave the katoris overnight, about 8 hours.
 - **s4 (5 min)**  
@@ -355,26 +360,26 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
   - Check: Katori A, with curd in a warm place, set into curd. Katori C, with curd in the fridge, did not. What does that tell us? → **The curd bacteria need warmth to work**
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like scientists. What do you think now? What did you see? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say three things. What I think. What I saw. Why.
+  *Parent says:* Now tell me three things. What do you think now? What did you see? And why do you think it happened?  
+  *Child mode:* Say three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: tiny living things in curd turn milk into curd, and they need warmth. What I saw: A set hard, but B and C stayed runny. Why: A had the bacteria and warmth. B had no bacteria. C had bacteria, but the cold slowed them down.
-### e2 · Wake the Sleeping Seeds: do seeds need water to grow? (30 min, 3 days)
-- **question:** A dry moong seed is a sleeping baby plant. Does it need water to wake up and grow? And how much water does it drink?
-- **predict:** Guess first. Will the seeds on the dry cloth sprout? Will soaked seeds weigh more, less or the same as dry seeds?
-- **fair test:** To make it fair, use the same kind of seed, the same number of seeds and the same place. Change only one thing: wet cloth or dry cloth. Count 20 seeds on each, because a few seeds may be duds.
+### e2 · Sprouting Moong: do seeds need water to grow? (30 min, 3 days)
+- **question:** A dry moong seed holds a baby plant that is resting. Does it need water to start growing? And how much water does it take in?
+- **predict:** Guess first. Will the seeds on the dry cloth sprout? Will soaked seeds weigh more, less or the same as dry seeds? Why do you think so?
+- **fair test:** To make it fair, use the same kind of seed, the same number of seeds and the same place. Change only one thing: wet cloth or dry cloth. Count 20 seeds on each, because a few seeds may not sprout at all.
 - **safety:** Wash hands before and after. Steam or boil sprouts before eating them, because raw sprouts can carry germs.
 - **record:** Write the dry weight and the soaked weight. Fill in the sprout table for each day. Draw one dry seed and one sprout, the size they really are.
 - **results table:** Day | Wet cloth: seeds sprouted (out of 20) | Dry cloth: seeds sprouted (out of 20) | Longest root on the wet cloth (in mm)
 - **schedule:** day 1: Weigh 50 grams of dry moong and soak it overnight. Put 20 dry seeds on a dry cloth. (12 min); day 2: Weigh the soaked moong. Put 20 soaked seeds on a wet cloth. Count sprouts on both plates. (10 min); day 3: Count sprouts on both plates again. Measure the longest root. Say what you think, what you saw and why. (8 min)
 - **s1 (6 min)**  
   *Parent does:* 1. Put a bowl on the kitchen scale and press zero. 2. Pour in moong until it shows 50 grams. 3. Write 50 grams in the table. 4. Cover the moong with three times as much water and leave it overnight.  
-  *Parent says:* A dry seed is a baby plant that is fast asleep. Let's weigh some, then give them water and see what happens.  
+  *Parent says:* A dry seed has a baby plant inside, resting. Let's weigh some, then give them water and see what happens.  
   *Child mode:* Weigh 50 grams of dry moong. Write it down. Cover it with lots of water. Leave it overnight.
-  - Ask: Will the soaked moong weigh more, less or the same tomorrow? (good: More, because the seeds will drink water.; The same, because it is the same seeds.)
-  - Note: Both guesses are fine. Write down what your child guesses, so you can look back at it tomorrow.
+  - Ask: Will the soaked moong weigh more, less or the same tomorrow? (good: More, because the seeds will take in water.; The same, because it is the same seeds.)
+  - Note: Both guesses are fine. Write down what your child guesses, so you can look back at it tomorrow. No kitchen scale? Fill a small steel tumbler level with dry moong instead. Tomorrow, count how many tumblers the soaked moong fills.
 - **s2 (6 min)**  
   *Parent does:* 1. Count out 20 dry moong seeds. 2. Lay them on a dry cloth on a plate. 3. Keep the plate in the kitchen, away from water.  
-  *Parent says:* These 20 seeds get no water at all. They are our comparison. We will see if they wake up by themselves.  
+  *Parent says:* These 20 seeds get no water at all. They are our comparison. We will see if they sprout without water.  
   *Child mode:* Count 20 dry seeds. Lay them on a dry cloth. They get no water.
   - Wait: Leave the soaked moong and the dry plate until tomorrow.
 - **s3 (10 min)**  
@@ -382,25 +387,25 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
   *Parent says:* Let's weigh the seeds again. Then 20 of them go on a wet cloth, right next to the dry plate.  
   *Child mode:* Weigh the soaked moong. Is it heavier? Put 20 soaked seeds on a wet cloth.
   - Note: A typical result is that the moong roughly doubles, from 50 grams to about 100 grams. There will also be less water left in the bowl.
-  - Check: 50 grams of dry moong was soaked overnight. Now it weighs about 100 grams. Where did the extra weight come from? → **The seeds drank water**
+  - Check: 50 grams of dry moong was soaked overnight. Now it weighs about 100 grams. Where did the extra weight come from? → **The seeds took in water**
 - **s4 (8 min)**  
   *Parent does:* 1. On days 2 and 3, count how many seeds have a tiny white root on each plate. 2. On day 3, measure the longest root with a ruler. 3. Write the numbers in the table.  
-  *Parent says:* Count the seeds that have woken up. You can tell by the little white root poking out.  
+  *Parent says:* Count the seeds that have sprouted. You can tell by the little white root poking out.  
   *Child mode:* Count the seeds with a white root on each plate. Write the numbers. Measure the longest root.
-  - Check: On day 3, 18 seeds sprouted on the wet cloth and 0 on the dry cloth. What do the seeds need to wake up? → **Water**
+  - Check: On day 3, 18 seeds sprouted on the wet cloth and 0 on the dry cloth. What do the seeds need to sprout? → **Water**
 - **s5 (4 min)**  
   *Parent does:* Split one sprouted seed gently with a fingernail. Look at the baby plant and its two food halves, with a magnifying glass if you have one.  
-  *Parent says:* Let's peep inside. Can you find the baby plant? And the lunch it is eating?  
+  *Parent says:* Let's look inside. Can you find the baby plant? And the food store it is using?  
   *Child mode:* Split one sprout gently. Find the tiny baby plant. Find its two fat halves of food.
   - Note: The two fat halves are called cotyledons, the seed leaves. They hold the stored food. The root and the tiny shoot are the baby plant. Over the next days the halves shrink as the baby plant uses them up.
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences: what I think, what I saw, why.  
-  *Parent says:* Finish like a scientist. What do you think now? What did you see? Why?  
+  *Parent says:* Now tell me three things. What do you think now? What did you see? Why?  
   *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: seeds need water to wake up. What I saw: 18 out of 20 wet seeds sprouted, but none of the dry ones did. The soaked seeds got twice as heavy. Why: the seeds drank water, and water woke the baby plant so it could eat its packed food and grow.
-### e3 · The Iodine Test: which foods are a seed's stored lunch? (25 min)
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: seeds need water to sprout. What I saw: 18 out of 20 wet seeds sprouted, but none of the dry ones did. The soaked seeds got twice as heavy. Why: the seeds took in water, and the water let the baby plant start growing, using its stored food.
+### e3 · The Iodine Test: which foods have starch? (25 min)
 - **question:** Plants pack food called starch into their seeds, roots and underground stems. Which of our foods have starch in them? Do foods from animals have any?
-- **predict:** Before testing, sort the food pieces into two groups: the ones you think have starch, and the ones you think do not.
+- **predict:** Before testing, sort the food pieces into two groups: the ones you think have starch, and the ones you think do not. Say why for each one.
 - **fair test:** To make it fair, use pieces of about the same size and put the same number of drops on each one. Test every food the same way.
 - **safety:** Only a grown-up handles the iodine. Never eat any food that has iodine on it. Throw all the tested pieces away and wash the plate. Iodine stains, so wear old clothes.
 - **record:** Fill in the table. Then make a picture list of the foods that turned blue-black, and say which part of a plant each came from.
@@ -419,7 +424,7 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
   *Parent does:* 1. A grown-up puts 2 drops on each of the other food pieces. 2. Wait half a minute. 3. Your child writes blue-black or brown-orange in the table for each one.  
   *Parent says:* Same number of drops on each one. That keeps it fair. Now let's write down what each one did.  
   *Child mode:* Two drops on each food. Wait. Write down the colour for each one.
-  - Note: Expected results: potato, rice, roti, raw banana and besan or ragi turn blue-black. Cucumber shows little or none. Paneer, sugar and salt stay brown-orange. Sugar is a surprise: it comes from a plant but is not starch. Salt never came from a living thing.
+  - Note: Expected results: potato, rice, roti, raw banana and besan or ragi turn blue-black. Cucumber shows little or none. Paneer, sugar and salt stay brown-orange. Sugar is a surprise: it comes from a plant but is not starch. Salt never came from a living thing. If the paneer turns blue-black, some starch may have been added to it when it was made. Some shop paneer has starch added, so that is a real finding, not a mistake.
   - Check: The paneer stayed brown-orange. What does that tell us? → **Paneer has no starch**
 - **s4 (4 min)**  
   *Parent does:* Sort the tested foods into two groups: blue-black and not. Ask which part of a plant each blue-black food came from.  
@@ -429,9 +434,9 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
   - Think: A ripe banana tastes sweeter than a raw one. Where did its starch go?
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write: what I think, what I saw, why.  
-  *Parent says:* Finish like a scientist. What do you think, what did you see, and why?  
+  *Parent says:* Now tell me three things. What do you think, what did you see, and why?  
   *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: plants store starch in their seeds and underground parts, but animal foods do not have starch. What I saw: rice, roti, besan and potato turned blue-black, but paneer did not. Why: plants pack starch as a lunch for their babies, and paneer comes from milk.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: plants store starch in their seeds and underground parts, but animal foods do not have starch. What I saw: rice, roti, besan and potato turned blue-black, but paneer did not. Why: plants store starch as food for their baby plants, and paneer comes from milk.
 
 ## Activities
 ### a1 · Kitchen Detective: plant, animal, tiny life or Earth? (15 min)
@@ -458,7 +463,7 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
 - **record:** Draw the thali with the six foods, labelled with the plant part. Write how many seeds were in your pod.
 - **s1 (3 min)**  
   *Parent does:* Show the six spots on the thali. Name each plant part and what it does.  
-  *Parent says:* A plant has six main parts. Roots drink. Stems hold it up. Leaves make food. Flowers make seeds. Fruits hold seeds. Seeds are baby plants. We eat all six!  
+  *Parent says:* A plant has six main parts. Roots take in water. Stems hold it up. Leaves make food. Flowers make seeds. Fruits hold seeds. Seeds hold baby plants. We eat all six!  
   *Child mode:* Plants have six parts. Root, stem, leaf, flower, fruit, seed. We eat all of them. Can you find one of each?
 - **s2 (10 min)**  
   *Parent does:* 1. Your child searches the vegetable basket and the masala box. 2. They put one food on each spot. 3. Help with the tricky ones.  
@@ -481,7 +486,7 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
 - **record:** Four chains of pictures and arrows, each ending at the Sun. A count of the people on all the chains.
 - **s1 (3 min)**  
   *Parent does:* 1. Ask what is for dinner tonight. 2. Choose four foods, including one from an animal. 3. Draw each one on the right side of the page.  
-  *Parent says:* Let's be time travellers. We'll follow each food backwards, all the way to where it began.  
+  *Parent says:* Let's follow each food backwards, one step at a time, all the way to where it began.  
   *Child mode:* Pick four foods from dinner. Draw them on the right side of the page.
 - **s2 (10 min)**  
   *Parent does:* 1. For each food, draw arrows going left, one step at a time. 2. Roti came from atta. Atta came from a mill. The mill got wheat from a farm. The wheat grew from a seed, in sunlight. 3. Draw a little person at each step who did the work.  
@@ -491,7 +496,7 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
   - Check: Curd came from milk. Milk came from a cow. What comes next, going backwards? → **The grass the cow ate**
 - **s3 (4 min)**  
   *Parent does:* Look at the far left end of every chain.  
-  *Parent says:* Look at where every chain ends. What do you notice?  
+  *Parent says:* Look at the far left end of every chain. What do you notice?  
   *Child mode:* Look at the start of every chain. What is there?
   - Ask: What is at the start of every chain? (good: The Sun.; A plant, and then the Sun.; Except salt and water, which come from the Earth.)
 - **s4 (3 min)**  
@@ -547,7 +552,7 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
   *Parent does:* 1. Read the ingredient list together. 2. For each one, decide: did it first grow in India, or did it come from far away? 3. Mark it with a small symbol.  
   *Parent says:* Some of these foods have always grown in India. Some came on ships from the other side of the world. Let's find out which.  
   *Child mode:* Look at each ingredient. Did it first grow in India, or far away? Mark it.
-  - Note: First grew in or near India: black pepper, cardamom, haldi, ginger, mango, moong and urad dal. Rice was tamed early both in India and in China. From the Americas, about 500 years ago: chilli, potato, tomato, peanut, maize and cashew. From Africa long ago: ragi, and probably bhindi. From West Asia: wheat and barley.
+  - Note: First grew in or near India: black pepper, cardamom, haldi, ginger, mango, moong and urad dal. Rice was first farmed early both in India and in China. From the Americas, about 500 years ago: chilli, potato, tomato, peanut, maize and cashew. From Africa long ago: ragi, and probably bhindi. From West Asia: wheat and barley.
   - Check: Which of these did NOT grow in India 600 years ago? → **Chilli**
 - **s3 (5 min)**  
   *Parent does:* Look at how many ingredients came from far away.  
@@ -556,7 +561,7 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
   - Think: If a dish uses chilli from the Americas, is it still an Indian dish? What makes a food belong to a place?
 
 ## Projects
-### p1 · The Windowsill Farm: grow food from light (60 min, 10 days)
+### p1 · The Windowsill Farm: greens grown in light and in the dark (60 min, 10 days)
 - **safety:** Wash hands after touching soil. Wash the greens before eating, and eat only the ones from the sunny tray that look fresh and green.
 - **record:** A table of heights for both trays on days 5, 7 and 10, and a colour note for each. A drawing of one seedling from each tray.
 - **schedule:** day 1: Fill two trays with soil. Sow the same number of seeds in each. Put one on a sunny windowsill and one in a dark cupboard. (15 min); day 3: Water both trays the same. Count the seedlings in each tray. (5 min); day 5: Water both. Measure the tallest seedling in each tray. Note the colour. (5 min); day 7: Water both. Measure again. Draw one seedling from each tray. (5 min); day 10: Measure and compare. Harvest the sunny tray's greens with scissors and add them to a meal. Say what you think, what you saw and why. (30 min)
@@ -566,9 +571,9 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
   *Child mode:* Fill two trays with soil. Sow the same seeds in each. One goes in the sun. One goes in a dark cupboard.
 - **s2 (5 min)**  
   *Parent does:* Water both trays with the same amount. Count the seedlings.  
-  *Parent says:* Same water for both trays. Have the seeds woken up?  
+  *Parent says:* Same water for both trays. Have the seeds sprouted?  
   *Child mode:* Give both trays the same water. Count the seedlings in each.
-  - Ask: Did the seeds in the dark sprout too? (good: Yes, because seeds use their own packed food to start.; Yes, they don't need light to wake up.)
+  - Ask: Did the seeds in the dark sprout too? (good: Yes, because seeds use their own packed food to start.; Yes, they don't need light to sprout.)
   - Wait: Come back on day 3.
 - **s3 (10 min)**  
   *Parent does:* On days 5 and 7, water both trays and measure the tallest seedling in each. Note the colour.  
@@ -583,16 +588,16 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
   *Child mode:* Measure both trays. Snip the sunny greens. Wash them. Add them to your dinner!
 - **s5 (10 min)**  
   *Parent does:* Ask your child to say or write: what I think, what I saw, why.  
-  *Parent says:* Finish like a scientist. Which tray made food? How do you know?  
+  *Parent says:* Which tray made food? What did you see? Why do you think so?  
   *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: plants need light to make food. What I saw: the dark seedlings grew tall but pale and floppy, and the sunny ones were green and strong. Why: in the dark, the seedlings only used up their seed's lunch. In the sun, the leaves made new food from light, air and water.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: plants need light to make food. What I saw: the dark seedlings grew tall but pale and floppy, and the sunny ones were green and strong. Why: in the dark, the seedlings only used up the food stored in their seeds. In the sun, the leaves made new food from light, air and water.
 
 ## Challenges
 ### c1 · The Seed Safe (30 min)
 - **problem:** Farmers must keep seeds safe for months, until the next sowing season. Damp makes seeds sprout or go mouldy. Insects eat them. Design a seed safe that keeps 50 moong seeds dry and whole for one week, in the dampest place in your home.
 - **your turn:** Now invent your own seed safe. Draw it, build it, and test it beside the open plate for a week. Count how many seeds stayed dry and whole.
 - **constraints:** No fridge.; Use only things you can find at home.; It must stay in the bathroom or another damp place for one week.
-- **general:** Dry the seeds well in the sun first. Dry seeds stay asleep.; Use an airtight steel dabba or glass jar with a tight lid, so damp air cannot get in.; Keep it off the floor, away from water.
+- **general:** Dry the seeds well in the sun first. Dry seeds stay dormant.; Use an airtight steel dabba or glass jar with a tight lid, so damp air cannot get in.; Keep it off the floor, away from water.
 - **creative:** Many Indian farmers mix dried neem leaves into stored grain and dal. Neem helps keep insects away.; Some families keep a few dried red chillies in the rice tin for the same reason.; In parts of India, seeds were stored in clay pots sealed with cow dung and mud, or mixed with wood ash.
 - **s1 (5 min)**  
   *Parent does:* Explain the problem. Put 50 seeds on an open plate in the bathroom as the comparison.  
@@ -609,9 +614,10 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
   - Wait: Leave them for one week.
 - **s4 (8 min)**  
   *Parent does:* After a week, open each one. Count the seeds that sprouted, went mouldy, or stayed dry and whole.  
-  *Parent says:* Let's count. Which seed safe kept the most seeds asleep and whole?  
+  *Parent says:* Let's count. Which seed safe kept the most seeds dry and whole?  
   *Child mode:* Open each seed safe. Count the dry, whole seeds. Which design won?
-  - Check: Why do damp seeds start to sprout in a store? → **Water wakes up the baby plant inside**
+  - Note: In dry weather, the open seeds may look the same after a week. Then press them: damp seeds feel softer and may smell musty. To copy a monsoon week, sprinkle a few drops of water near the open plate each day.
+  - Check: Why do damp seeds start to sprout in a store? → **Water starts the baby plant inside growing**
   - Think: Seed banks keep seeds very dry and very cold, deep inside a frozen mountain. Why both?
 ### c2 · Dinner on Mars (25 min)
 - **problem:** Four astronauts will live on Mars for two years. Mars has no farms, no cows, no sea and very weak sunlight. Plan where every food on their menu will come from.
@@ -677,9 +683,9 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
    **Answer:** True. *Why:* True. Dals are the dried seeds of pulse plants. Soak whole moong and it will sprout a root.
 15. (mcq) In the sprouting test, the seeds on the wet cloth sprouted. The seeds on the dry cloth did not. What did the seeds need?  
    Options: Water / Soil / Sugar / Darkness  
-   **Answer:** Water. *Why:* The only difference was water, and only the wet seeds sprouted. Picking 'soil' is a common guess. But neither plate had soil, and the wet seeds still grew, using their own packed food.
+   **Answer:** Water. *Why:* The only difference was water, and only the wet seeds sprouted. Picking 'soil' is a common guess. But neither plate had soil, and the wet seeds still grew, using the food stored inside them.
 16. (draw) Draw a seed split open. Label the baby plant and the food store.  
-   **Answer:** A drawing of a split seed showing a small curled baby plant at one edge, and two big halves labelled 'food store' or 'lunch'.. *Why:* A seed is a baby plant with a packed lunch. The big halves hold the food that the baby plant uses when it starts to grow.
+   **Answer:** A drawing of a split seed showing a small curled baby plant at one edge, and two big halves labelled 'food store'.. *Why:* A seed holds a baby plant and a store of food. The big halves hold the food the baby plant uses when it starts to grow.
 ### Food Journeys (stretch) (stretch, 15 questions)
 1. (mcq) Which of these foods is a dried flower bud?  
    Options: Clove / Jeera / Cinnamon / Haldi  
@@ -695,12 +701,12 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
    Options: Cooked rice / Paneer / Salt / Sugar  
    **Answer:** Cooked rice. *Why:* Rice is a seed, full of the starch the plant packed for its baby. Iodine turns blue-black on starch. Paneer comes from milk, salt from the Earth, and sugar is not starch. Picking sugar is a clever trap: sugar comes from a plant, but it is a different kind of food from starch.
 6. (truefalse) Animals store their food as starch, just like plants.  
-   **Answer:** False. *Why:* False. Starch is a plant's way of packing food. That is why paneer and egg did not turn blue-black in the iodine test. Animals store food mostly as fat, and a little as another sugar store.
+   **Answer:** False. *Why:* False. Starch is how plants store food. That is why paneer did not turn blue-black in the iodine test. Animals store food mostly as fat, and a little as glycogen, a starch-like store in the liver and muscles.
 7. (fill) Making food with the help of microbes, like curd and idli batter, is called ____.  
    **Answer:** ['fermentation']. *Why:* In fermentation, microbes feed on a food and slowly change it. The food often turns sour, bubbly or thick.
 8. (mcq) Which of these came to India from the Americas only about 500 years ago?  
    Options: Chilli / Black pepper / Haldi / Moong  
-   **Answer:** Chilli. *Why:* Chilli, potato, tomato and peanut all came from the Americas on Portuguese ships. Black pepper grows wild in Kerala and is one of India's oldest spices. Picking pepper often means both feel spicy, so they seem like the same thing.
+   **Answer:** Chilli. *Why:* Chilli, potato, tomato and peanut all came from the Americas, many of them on Portuguese ships. Black pepper grows wild in Kerala and is one of India's oldest spices. Picking pepper often means both feel spicy, so they seem like the same thing.
 9. (mcq) Why are watermelon, cucumber and tender coconut good summer foods?  
    Options: They are full of water, which we lose in sweat / They are spicy and warm us up / They have the most starch / They keep for a whole year  
    **Answer:** They are full of water, which we lose in sweat. *Why:* On hot days we lose water in sweat. Watery foods help replace it. Picking 'keep for a whole year' mixes them up with grains and dals, which are dry and keep for months.
@@ -716,7 +722,7 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
    **Answer:** Katori C had the curd bacteria in it, just like katori A. But it was cold in the fridge, and the cold slowed the bacteria down. So the bacteria need warmth to turn milk into curd.. *Why:* Comparing A and C changes only one thing, the warmth. So warmth must be what made the difference.
 14. (mcq) In the Windowsill Farm, the seedlings in the dark cupboard grew tall, thin and pale yellow. What were they living on?  
    Options: The food packed in their seeds / Food they made from light / The soil / Food from the dark  
-   **Answer:** The food packed in their seeds. *Why:* In the dark, a seedling cannot make new food. It lives on the lunch packed in its seed, stretching to look for light. Picking 'the soil' is the old idea that plants eat soil, which van Helmont's willow tree showed was wrong.
+   **Answer:** The food packed in their seeds. *Why:* In the dark, a seedling cannot make new food. It lives on the food stored in its seed, stretching to look for light. Picking 'the soil' is the old idea that plants eat soil, which van Helmont's willow tree showed was wrong.
 15. (draw) Label the parts of this plant that we eat: root, stem, leaf, flower, fruit, seed.  
    **Answer:** Root at the bottom under the soil. Stem going up from the root. Leaves on the sides. A flower near the top. A fruit hanging below the flower. Seeds inside the fruit.. *Why:* Every part of a plant can be food: roots, stems, leaves, flowers, fruits and seeds.
 ### From the Sun to the Sea Floor (challenge) (challenge, 16 questions)
@@ -798,7 +804,7 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
    **Answer:** So we know which change made the difference. *Why:* If only one thing changes, that one thing must have caused the difference. That is a fair test. Picking 'looks neater' misses the reason. A test can be messy and still fair, or neat and still unfair.
 11. (mcq) Look at the bar chart from the sprouting test. Which plate had more sprouted seeds?  
    Options: The wet cloth / The dry cloth / They were the same  
-   **Answer:** The wet cloth. *Why:* The wet cloth's bar is much taller: 18 seeds sprouted, and none on the dry cloth. Water wakes up a sleeping seed. Picking 'the same' might mean the chart was not read. The dry bar is at zero.
+   **Answer:** The wet cloth. *Why:* The wet cloth's bar is much taller: 18 seeds sprouted, and none on the dry cloth. Seeds need water to sprout. Picking 'the same' might mean the chart was not read. The dry bar is at zero.
 12. (mcq) Old Indian books named six tastes, or rasas. Which one of these is in that list?  
    Options: Astringent, the dry puckery feel of raw banana / Crunchy / Cold / Colourful  
    **Answer:** Astringent, the dry puckery feel of raw banana. *Why:* The six rasas are sweet, sour, salty, pungent, bitter and astringent. Astringent is the dry feeling from raw banana or strong tea. Crunchy and cold are about texture and temperature, not taste.
@@ -807,10 +813,10 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
    **Answer:** They help replace the water we lose in sweat. *Why:* On hot days we sweat a lot, and watery foods help replace that water. This is old knowledge that science agrees with. Picking 'make us sweat more' turns the idea upside down.
 14. (mcq) What did scientists find at deep-sea vents in 1977?  
    Options: Animals living without sunlight, fed by microbes that use chemicals / Plants growing in the dark / Nothing alive at all  
-   **Answer:** Animals living without sunlight, fed by microbes that use chemicals. *Why:* At the vents, microbes make food from chemicals in the hot water, and whole communities of animals depend on them. Before 1977, most scientists thought all life needed sunlight. Picking 'plants growing in the dark' means forgetting that plants need light.
+   **Answer:** Animals living without sunlight, fed by microbes that use chemicals. *Why:* At the vents, microbes make food from chemicals in the hot water, and whole communities of animals depend on them. Before 1977, most scientists thought every community of animals depended on sunlight. Picking 'plants growing in the dark' means forgetting that plants need light.
 15. (mcq) Why do seed banks, like the one in Svalbard in Norway, keep seeds very dry and very cold?  
-   Options: So the baby plants stay asleep for many years / To make the seeds taste better / To kill the seeds  
-   **Answer:** So the baby plants stay asleep for many years. *Why:* Water and warmth wake up a seed. Kept dry and cold, the baby plant inside stays asleep and alive for a very long time. Picking 'to kill the seeds' is the opposite of the plan. A dead seed can never be grown again.
+   Options: So the baby plants stay dormant and alive for many years / To make the seeds taste better / To kill the seeds  
+   **Answer:** So the baby plants stay dormant and alive for many years. *Why:* Water and warmth start a seed growing. Kept dry and cold, the baby plant inside stays dormant and alive for a very long time. Picking 'to kill the seeds' is the opposite of the plan. A dead seed can never be grown again.
 
 ## Applications
 - Farming: knowing which part of a plant we eat tells farmers what to grow, when to harvest, and which seeds to save.
@@ -823,7 +829,7 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
 - Doctors and nutrition scientists use what we know about food to plan meals for schools, like India's midday meals.
 - Space agencies grow plants under lamps, so astronauts can one day grow their own food on long journeys.
 - Kitchen gardens, terrace farms and windowsill microgreens let city families grow some of their own food.
-- Scientists studying deep-sea vents have found microbes with heat-proof enzymes, used in laboratories all over the world.
+- Scientists studying hot springs and deep-sea vents have found microbes with heat-proof enzymes, now used in laboratories all over the world.
 - Composting returns peels and leftovers to the soil, which feeds the next plants.
 
 ## Spotted around us
@@ -842,7 +848,7 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
 - **How can we grow enough food for everyone without harming the soil, water and air?** Scientists, farmers and governments disagree about the best mix of new seeds, old seeds, chemicals, millets and new foods.
 - **Which old food traditions are good for health, and which are not?** Many traditional rules have never been tested carefully. Testing them fairly takes many years and many people.
 - **Exactly how do the trillions of microbes in our gut help us use our food?** Scientists have only begun to study them in detail. They know the microbes matter, but not yet all the ways.
-- **How long can a seed stay alive while it sleeps?** Some seeds sprout after hundreds of years, but most do not. Seed banks are still learning how long each kind of seed lasts.
+- **How long can a dry, dormant seed stay alive?** Some seeds sprout after hundreds of years, but most do not. Seed banks are still learning how long each kind of seed lasts.
 - **Will meat grown from cells, insects or algae ever become everyday food?** These foods already exist, but nobody yet knows if they will become cheap, safe and popular enough.
 - **Is there life in the dark oceans under the ice of moons like Europa, feeding on chemicals like vent life does?** Some moons of Jupiter and Saturn have hidden oceans, and maybe vents. Space missions are being sent to look, but nobody knows yet.
 
@@ -863,7 +869,7 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
 - Why did the tomato blush? *It found out it was a fruit all along.*
 - What did the moong say to the water? *Wake me up when it's time to grow!*
 - Why did the potato go to the eye doctor? *It had too many eyes to look after.*
-- Why are bees so good at maths? *They always make honey from many flowers, one by one.*
+- Why do bees have sticky hair? *Because they use honeycombs.*
 - What do you call a mushroom that tells good jokes? *A fun-gi.*
 - Why did the milk go to bed early? *It wanted to wake up as curd.*
 - What did the cow say to the grass? *Thanks for lunch. I'll pass it on.*
@@ -872,18 +878,18 @@ Somewhere, a great-great-great-grandchild of one of those forty-seven peas is cl
 - Why was the salt so proud? *It was the only one at dinner that had never been alive.*
 - What did the Sun say to the mango? *I'm in every bite of you.*
 - Why don't dals ever get lost? *They always stick together in the pot.*
-- What do you call a sleepy seed? *A bed-time story waiting to sprout.*
+- Why did the seed stay in bed all winter? *It was waiting for water and warmth before getting up.*
 - Why did the cauliflower get a prize? *It was the best flower in the vegetable shop.*
 - What did the idli batter say in the morning? *I feel so much better after a good rise.*
 - Why did the carrot get a medal? *It was outstanding in its field.*
 - What did the peanut say to the ground? *Don't tell anyone, but I'm a seed, not a root.*
 - Why did the honeybee go to school? *To get a little more buzz-ness sense.*
 - What did the tube worm say when asked about sunshine? *Never heard of it. I eat chemicals.*
-- Why was the masala box so good at stories? *It had something from every part of the plant.*
+- Why did the clove feel so young? *It was picked while it was still a bud.*
 - What did the rice say to the roti? *We're both just seeds having a good day.*
 
 ## Connected maths
-- In the sprouting test, 50 grams of dry moong was soaked overnight. In the morning it weighed 100 grams. How many grams of water did the seeds drink? How many times heavier were they? **The seeds drank 50 grams of water. They were 2 times as heavy.**. The seeds started at 50 grams. They ended at 100 grams. 100 take away 50 is 50, so they took in 50 grams of water. And 50 + 50 = 100, so the soaked seeds weighed 2 times as much as the dry seeds. (queues `math.weight-capacity.weight.L3`)
+- In the sprouting test, 50 grams of dry moong was soaked overnight. In the morning it weighed 100 grams. How many grams of water did the seeds take in? How many times heavier were they? **The seeds took in 50 grams of water. They were 2 times as heavy.**. The seeds started at 50 grams. They ended at 100 grams. 100 take away 50 is 50, so they took in 50 grams of water. And 50 + 50 = 100, so the soaked seeds weighed 2 times as much as the dry seeds. (queues `math.weight-capacity.weight.L3`)
 - In the sprouting test, a child counted the sprouted seeds on the wet cloth each day: day 1, 3 seeds. Day 2, 12 seeds. Day 3, 18 seeds. Draw a bar chart. On which day did the most new seeds sprout? **Day 2. 9 new seeds sprouted that day. Here is the bar chart.**. Draw one bar for each day, as tall as its count. To find the new seeds each day, subtract the day before. Day 2: 12 take away 3 is 9 new seeds. Day 3: 18 take away 12 is 6 new seeds. 9 is more than 6 and more than 3, so day 2 had the most new sprouts. (queues `math.data.bar-charts.L3`)
 - In Kitchen Detective, a family sorted 20 kitchen things. 13 were from plants, 3 from animals, 2 from fungi and microbes, and 2 from the Earth. Make a pictograph where one 🌿 stands for 1 thing. Is more than half of their food from plants? **Yes. 13 out of 20 is more than half, because half of 20 is 10.**. Draw 13 symbols in the plant row, 3 in the animal row, 2 in the fungi and microbes row and 2 in the Earth row. Check: 13 + 3 + 2 + 2 = 20. Half of 20 is 10. 13 is more than 10, so more than half of the food came from plants. (queues `math.data.pictographs.L3`)
 - In the Plant-Part Thali, a child opened a pea pod and counted 6 peas. Suppose one pea plant grows 5 pods like it. How many peas is that? If every one of those peas were planted and grew the same, how many pea plants would there be next year? **30 peas, and so 30 pea plants next year.**. 5 pods with 6 peas in each is 5 groups of 6. 6 + 6 + 6 + 6 + 6 = 30. So one plant makes 30 peas. Each pea is a baby plant, so planting all 30 could give 30 new pea plants. This is the sum Nina did in the story. (queues `math.multiplication.equal-groups.L3`)
@@ -922,7 +928,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - Name a food that was never alive. → Salt, or water.
 - Who makes honey, and from what? → Honeybees, from the nectar of flowers.
 - What is at the start of almost every food chain? → A plant, using sunlight.
-- What is inside a seed? → A baby plant and its packed lunch.
+- What is inside a seed? → A baby plant and its store of food.
 - Which came to India from the Americas: chilli or black pepper? → Chilli. Black pepper grows wild in Kerala.
 - What lives at deep-sea vents without any sunlight? → Microbes that make food from chemicals, and the tube worms, crabs and clams that depend on them.
 
