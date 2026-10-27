@@ -1,0 +1,1411 @@
+{
+ "key": "combined|sci|3|food-and-a-balanced-diet",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "food-and-a-balanced-diet",
+ "title": "Food: what your body needs from it, and why one food is never enough",
+ "source": "DeepKids Combined. Covers NCERT Class 3 Chapter 8 'Food We Eat' (why food matters for health, foods from many sources, nutrients, traditional knowledge of healthy eating), Cambridge Stage 3 Units 2.1 'Food groups', 2.2 'A healthy diet' and 2.3 'An unhealthy diet', and NIOS Level B Lesson 8 'Food' (why we eat, the parts of food and their jobs, balanced food, food safety). No textbook needed.",
+ "summary": "In 1747, twelve sailors with scurvy ate plenty of food, and only the two given oranges and a lemon got better fast. You can feel full and still be missing something your body needs. Your child tests real foods at home for starch, fat and vitamin C, sorts them by the job each does, builds a balanced plate, reads the sugar on a packet, and tastes the six tastes of old Indian cooking. They find out which nutrients the body needs, why too much sugar and salt harm it, and how to keep food safe.",
+ "builds_on": "In Class 1 your child sorted foods into everyday foods and treats, and learned that water is the best drink. This rung names the nutrients, tests foods for them, and explains a balanced diet, deficiency illnesses, sugar, salt and food safety. In Class 4 your child comes back to energy-giving, body-building and protective foods and traditional foods. In Class 5 they study deficiency diseases more closely, cheap nutritious foods, storing food, and digestion.",
+ "goals": [
+  "By the end your child can say the three jobs food does: giving energy, building and mending the body, and keeping it working well.",
+  "By the end your child can name the nutrients (carbohydrates, proteins, fats, vitamins and minerals), plus fibre and water, and give a food rich in each.",
+  "By the end your child can test a food for starch with iodine and for fat with paper, and explain the result.",
+  "By the end your child can plan a balanced plate from their own family's food.",
+  "By the end your child can explain how missing one nutrient causes an illness, using scurvy as the example.",
+  "By the end your child can read the sugar on a packet, explain why too much sugar and salt harm the body, and follow simple rules for safe food."
+ ],
+ "words": [
+  [
+   "nutrient",
+   "a part of food that the body uses to live, grow and stay well, such as protein in dal or calcium in milk"
+  ],
+  [
+   "carbohydrate",
+   "a nutrient made of sugars. Starch in rice and sugar in jaggery are carbohydrates. They give most of our energy"
+  ],
+  [
+   "starch",
+   "a long chain of sugars joined together. Plants store their food as starch in seeds, roots and underground stems"
+  ],
+  [
+   "protein",
+   "a nutrient the body uses to build and mend itself. Dal, milk, eggs, paneer and peanuts have lots of it"
+  ],
+  [
+   "fat",
+   "an oily nutrient that holds a lot of energy. Ghee, oil, peanuts and coconut have fat"
+  ],
+  [
+   "vitamin",
+   "a nutrient the body needs in very small amounts to work properly, such as vitamin C in amla"
+  ],
+  [
+   "mineral",
+   "a nutrient that comes from rocks and soil, through plants and animals into us, such as calcium and iron"
+  ],
+  [
+   "fibre",
+   "the part of plant food that the body cannot break down. It keeps food moving through the gut"
+  ],
+  [
+   "balanced diet",
+   "eating many kinds of food, in about the right amounts, over a day or a week"
+  ],
+  [
+   "deficiency disease",
+   "an illness caused by missing one nutrient for a long time, such as scurvy from too little vitamin C"
+  ],
+  [
+   "dehydrated",
+   "when the body has too little water. You feel thirsty and tired and may get a headache"
+  ],
+  [
+   "food safety",
+   "keeping food clean and fresh so that germs in it do not make us ill"
+  ]
+ ],
+ "subconcepts": [
+  "why we eat: energy, growing and mending, and staying well",
+  "foods come from plants, animals and microbes, while salt and water come from the Earth",
+  "a seed or a mother makes food for its own young: starch in grains, fat in peanuts, milk for a calf",
+  "the nutrients: carbohydrates, proteins, fats, vitamins and minerals",
+  "fibre and water are needed too",
+  "testing foods for starch with iodine, and for fat with paper",
+  "food groups: energy, body-building and protective foods (go, grow and glow)",
+  "a balanced diet and the balanced plate",
+  "deficiency diseases: scurvy, beriberi, anaemia and goitre",
+  "testing juices for vitamin C, and why people must eat it",
+  "too much sugar, salt and fat, sugar and tooth decay, and reading a food label",
+  "the six tastes of old Indian cooking, and the five tastes scientists name today",
+  "seasonal and regional foods, and millets",
+  "food safety: clean hands, covered food, fresh food and safe water"
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "Full, but still missing something",
+   "goal": "Hear the sailors' story, and find the three jobs food does by looking at yesterday's food.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember Class 1",
+     "mins": 5,
+     "do": "Ask: 'Which foods do you eat every day, and which are treats?' Then ask: 'What is the best drink when you are thirsty?' Good answers: 'Rice, roti, dal, fruit every day. Sweets and chips are treats. Water is the best drink.' Say: 'This week we find out what is inside food, and what your body does with it.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: Two Oranges and a Lemon",
+     "mins": 12,
+     "do": "Read the story aloud. Then ask one question: 'All twelve sailors ate the same food, and plenty of it. Why do you think only two got better quickly?' Write your child's answer on the first page of a notebook called 'Food notebook'. Don't give the answer. You will test it on Day 5."
+    },
+    {
+     "kind": "act",
+     "title": "Yesterday's plate",
+     "mins": 15,
+     "ref": "a1",
+     "do": "Do Activity a1. Your child lists everything they ate and drank yesterday and puts coloured dots next to each food. Don't comment on any food. Ask: 'Which colour has the most dots? Which has the fewest?' Most children have lots of yellow and few green. Say: 'That is common. We will find out what each colour does.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Three jobs, and one cold plate",
+     "mins": 8,
+     "do": "Say: 'Food does three jobs. It gives you energy to move, think and keep warm. It gives you the stuff to grow and to mend cuts. And it keeps every part of you working well.' Then put a steel plate in the fridge for 5 minutes. Your child breathes on it. Ask: 'What is the mist?' Good answer: 'Water from my breath.' Say: 'You lose water every time you breathe, sweat or go to the toilet. So water is part of your food too.'"
+    }
+   ],
+   "need": [
+    "a notebook for the Food notebook",
+    "paper and crayons in yellow, red, green and blue",
+    "a steel plate"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Who made this food? The starch test",
+   "goal": "Find where foods come from, name the nutrients, and test foods for starch.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The ship's food",
+     "mins": 3,
+     "do": "Ask: 'What did the sailors in the story eat every day?' Good answer: 'Hard biscuit, salt beef, pease pudding and oatmeal.' Ask: 'Was any of it fresh fruit or vegetables?' (No.) Write this in the Food notebook."
+    },
+    {
+     "kind": "act",
+     "title": "Kitchen sort",
+     "mins": 10,
+     "ref": "a2",
+     "do": "Do Activity a2. Your child puts about 15 kitchen foods on four plates: a plant made it, an animal made it, tiny living things made it, or the Earth (never alive). Ask: 'Which plate has the most?' Good answer: 'The plant plate.' Say: 'Only salt and water never came from a living thing.'"
+    },
+    {
+     "kind": "talk",
+     "title": "What is inside food",
+     "mins": 6,
+     "do": "Say: 'The useful parts of food are called nutrients. There are five main kinds. Carbohydrates, like the starch in rice, give energy. Proteins, like in dal, build and mend you. Fats, like in ghee, hold lots of energy. Vitamins and minerals keep you working well. You also need fibre and water.' Your child writes the five names in the Food notebook."
+    },
+    {
+     "kind": "exp",
+     "title": "The starch test",
+     "mins": 15,
+     "ref": "e1",
+     "do": "Do Experiment e1. Your child guesses first, for each food, and says why. A grown-up puts the iodine drops. Ask: 'Which foods turned blue-black?' Good answer: 'Potato, rice, roti and besan. Paneer, sugar and salt stayed brown.' Say: 'Iodine turns blue-black when it touches starch.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Why does a rice grain hold starch?",
+     "mins": 3,
+     "do": "Ask: 'A rice grain is a seed. When it sprouts in the soil, it has no leaves yet. How does the baby plant get food?' Good answer: 'From the starch stored in the grain.' Say: 'The rice plant made that starch for its own baby. We eat it. A potato is a store of starch for the next potato plant.'"
+    },
+    {
+     "kind": "act",
+     "title": "Start the food week chart",
+     "mins": 3,
+     "ref": "a1",
+     "do": "Start the project, Our food week. Draw a table with 7 rows, one for each day, and 4 columns: yellow (go), red (grow), green (glow) and blue (glasses of water). Each evening this week your child puts one dot for each food eaten that day, as in Activity a1."
+    }
+   ],
+   "need": [
+    "4 plates and about 15 foods from the kitchen (see Activity a2)",
+    "the things for the starch test (see Experiment e1)",
+    "the Food notebook"
+   ],
+   "prep": [
+    {
+     "task": "Buy a small bottle of povidone-iodine antiseptic liquid from a chemist, if you don't have one in the medicine box. You will use it today and on Day 5.",
+     "when": "1 week before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Fat, protein and fibre",
+   "goal": "Test foods for fat, and find out what protein and fibre do.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Blue-black",
+     "mins": 3,
+     "do": "Ask: 'Which foods turned blue-black yesterday, and what does that tell us?' Good answer: 'Rice, roti and potato. They have starch.' Ask: 'Did paneer have starch?' (No. Paneer comes from milk, and animals don't store starch.)"
+    },
+    {
+     "kind": "exp",
+     "title": "The paper window test: set it up",
+     "mins": 8,
+     "ref": "e2",
+     "do": "Do steps 1 to 4 of Experiment e2. Your child guesses first which foods will leave a see-through spot, and why. They rub each food 10 times on its own square. Leave the squares flat for 15 minutes so any water can dry."
+    },
+    {
+     "kind": "talk",
+     "title": "Protein builds you",
+     "mins": 10,
+     "do": "While the paper dries, say: 'Protein is what your body builds itself with. Your muscles, skin, hair and blood are made with protein.' Pull out one of your own hairs and show it. Say: 'This hair is made of a protein called keratin.' Ask: 'Which foods have lots of protein?' Good answers: 'Dal, chana, rajma, milk, curd, paneer, eggs, fish, meat, peanuts.' Ask: 'Why does a cow make milk?' Good answer: 'To feed her calf, so it can grow.' Say: 'Milk is made for a growing baby, so it is full of protein, fat and calcium.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The paper window test: look at the spots",
+     "mins": 7,
+     "ref": "e2",
+     "do": "Do step 5 of Experiment e2. Your child holds each square up to a window. Ask: 'The water spot has gone. Which spots are still there?' Good answer: 'Oil, peanut and coconut, and a bit for paneer and chips.' Say: 'Fat does not dry away, so it leaves a window in the paper.' Ask: 'Why does a peanut hold so much fat?' Good answer: 'It is a seed. It stores fat as food for its baby plant.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Fibre and your gut microbes",
+     "mins": 7,
+     "do": "Show the skin of a whole moong or an apple. Say: 'This is fibre. Your body cannot break it down. It keeps food moving through your gut. Trillions of tiny living things called microbes live in your gut. They do break fibre down, and they live on it.' Ask: 'Which foods have fibre?' Good answers: 'Vegetables, fruit, whole dal, atta roti, millets.' Ask: 'Do meat, milk and eggs have fibre?' (No. Fibre comes only from plants.)"
+    },
+    {
+     "kind": "review",
+     "title": "Write it down",
+     "mins": 5,
+     "do": "Your child writes three sentences in the Food notebook. First, what I think. Second, what I saw. Third, why it matters. A good answer: 'I think peanuts and coconut have fat. I saw big see-through spots for them and none for apple. Fat gives energy and builds the thin skin around each cell, so we need a little every day.'"
+    }
+   ],
+   "need": [
+    "the things for the paper window test (see Experiment e2)",
+    "a whole moong or an apple",
+    "the Food notebook"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Go, grow, glow: the balanced plate",
+   "goal": "Sort foods into three groups, build a balanced plate, and meet C. Gopalan.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Go, grow, glow moves",
+     "mins": 3,
+     "do": "Say a food. Your child runs on the spot for an energy food (go), stretches up tall for a body-building food (grow), or makes a shield with both arms for a protective food (glow). Try rice, dal, guava, roti, egg, palak, banana, paneer, carrot. Some foods can be two moves: peanuts are go and grow."
+    },
+    {
+     "kind": "talk",
+     "title": "The balanced plate",
+     "mins": 8,
+     "do": "Draw a big circle. Say: 'Scientists at India's National Institute of Nutrition in Hyderabad suggest a plate like this. About half is vegetables and fruit. About a quarter is grains or millets, like rice, roti or ragi. About a quarter is dal, milk, curd, eggs, fish, meat or nuts. Water is the drink. A little oil or ghee is used in cooking.' Your child colours the plate green, yellow and red. Ask: 'Is our lunch usually like this?' Say: 'This is a guide, not a rule. What matters is the mix over the whole day and the whole week.'"
+    },
+    {
+     "kind": "act",
+     "title": "Build a balanced thali",
+     "mins": 15,
+     "ref": "a3",
+     "do": "Do Activity a3 at lunch or dinner. If today's lesson is not at a mealtime, your child plans the plate on paper now and serves it at the next meal. Ask: 'Is any colour missing? What could we add from the kitchen?' Never call any family dish wrong. The aim is to notice and add."
+    },
+    {
+     "kind": "talk",
+     "title": "C. Gopalan and the protein foods",
+     "mins": 6,
+     "ref": "v2",
+     "do": "Tell your child about C. Gopalan (voice v2). Ask the voice's question: 'Experts from rich countries said Indian children needed special protein foods. Gopalan measured what children really ate. Why is measuring better than guessing?' Good answer: 'Because the guess can be wrong. He found most children needed more of their usual food.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 8,
+     "ref": "ws1",
+     "do": "Your child does Worksheet ws1 (core). Read each question aloud if needed. For the two writing questions, your child says the answer first, then writes it. Check the answers together, and go back to the plate drawing for any sort item they got wrong."
+    }
+   ],
+   "need": [
+    "a big sheet of paper and crayons",
+    "today's lunch or dinner, a thali and a few katoris",
+    "Worksheet ws1"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "What the oranges had: vitamin C",
+   "goal": "Find out how a missing vitamin causes illness, and test juices for vitamin C.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Back to the ship",
+     "mins": 3,
+     "do": "Read your child's answer from Day 1 in the Food notebook: why did only two sailors get better quickly? Ask: 'Do you still think that? What do you think now?' Say: 'Today we test fruit for the thing the oranges had.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Illnesses from something missing",
+     "mins": 8,
+     "ref": "v1",
+     "do": "Say: 'The surgeon in the story was a real man, James Lind. His test showed that oranges and lemons cured scurvy. Today we know they have vitamin C. The body needs it to make the strong threads that hold skin, gums and scars together.' Then tell your child about Eijkman and Grijns (voice v1), and ask its question. Say: 'Missing one nutrient for a long time causes its own illness. Too little vitamin C causes scurvy. Too little vitamin B1 causes beriberi. Too little iron causes anaemia. Too little iodine causes goitre, a swelling in the neck. That is why our salt has iodine added.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The vanishing blue",
+     "mins": 22,
+     "ref": "e3",
+     "do": "Do Experiment e3. Your child writes their guess first: which juice has the most vitamin C? Count the drops together for each juice. Ask: 'Which juice made the blue go with the fewest drops?' Good answer: 'Amla.' Ask: 'Which never made it go?' Good answer: 'Water.' Say: 'Vitamin C takes away the blue. So the fewer drops, the more vitamin C.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Why a goat doesn't need oranges",
+     "mins": 7,
+     "do": "Say: 'Plants make vitamin C to protect their own cells, for example from damage in strong sunlight. Most animals, like goats, dogs and cats, also make their own vitamin C inside their bodies. People, monkeys, apes and guinea pigs cannot. So we must eat it, in fruit and vegetables.' Then say: 'Vitamin C also helps your body take in iron from dal and leaves. That is one reason why squeezing lemon on dal is a good habit.' Ask: 'What fruit or vegetable with vitamin C could you eat today?'"
+    }
+   ],
+   "need": [
+    "the things for the vanishing blue test (see Experiment e3)",
+    "the Food notebook"
+   ],
+   "prep": [
+    {
+     "task": "When you cook rice, pour off half a cup of the cloudy water and keep it in the fridge for the vitamin C test.",
+     "when": "night before"
+    },
+    {
+     "task": "Buy or keep aside 1 amla, 1 guava, 1 lemon and 1 mosambi or orange, and one packet fruit drink if you have one.",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Water, sugar and salt",
+   "goal": "Find out why the body needs water every day, and how much sugar is hidden in packet drinks.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Fewest drops",
+     "mins": 3,
+     "do": "Ask: 'In the blue test, what did it mean if a juice took very few drops?' Good answer: 'It had lots of vitamin C.' Ask: 'Why can't we make our own vitamin C?' (Our bodies lost the ability long ago, like monkeys and apes.)"
+    },
+    {
+     "kind": "talk",
+     "title": "You are more than half water",
+     "mins": 6,
+     "do": "Say: 'More than half of your body's weight is water. Your blood is mostly water. It carries food to every part of you. Sweat is water that cools you as it dries.' Ask: 'What happens when you play in the sun and don't drink?' Good answer: 'I feel thirsty and tired, and my head might hurt.' Say: 'That is being dehydrated. Dark yellow pee is another sign. Plain water is the best drink.' Your child fills in today's water glasses on the food week chart."
+    },
+    {
+     "kind": "act",
+     "title": "How many spoons?",
+     "mins": 18,
+     "ref": "a4",
+     "do": "Do Activity a4. Your child finds 'Total sugars' on each packet, works out the spoons with you, and spoons out the sugar on a saucer. Ask: 'Which surprised you most?' Say: 'The World Health Organization says added sugar should be less than a tenth of all our food, and less than a twentieth is better. For a child your age, that is at most about 10 level teaspoons in a whole day, and about 5 is better.' Then pour the sugar back into the jar."
+    },
+    {
+     "kind": "talk",
+     "title": "Sugar and teeth",
+     "mins": 6,
+     "do": "Say: 'Tiny bacteria live on your teeth. When you eat sugar, they eat it too, and they make acid. The acid slowly makes holes in your teeth.' Ask: 'Which is worse for teeth: one sweet after lunch, or sipping a sweet drink all afternoon?' Good answer: 'Sipping all afternoon, because the bacteria make acid the whole time.' Say: 'How often you eat sugar matters more than how much at one time. Salt is the same in one way: a little is needed, too much is not. Grown-ups should have less than one teaspoon of salt a day, children even less.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Fat or sugar? A long argument",
+     "mins": 7,
+     "ref": "v3",
+     "do": "Tell your child about Ancel Keys and John Yudkin (voice v3). Ask the voice's question. Say: 'Today most scientists think both matter: the kind of fat, and how much added sugar we eat. Scientists still argue about the details.'"
+    }
+   ],
+   "need": [
+    "2 to 4 food packets or drink bottles with a nutrition label (see Activity a4)",
+    "a teaspoon, a bowl of sugar and a saucer for each packet",
+    "the food week chart"
+   ],
+   "prep": [
+    {
+     "task": "Keep aside 2 to 4 empty or full packets with a nutrition label: a juice box, a flavoured milk, a soft drink or a biscuit packet.",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Six tastes, many places, and safe food",
+   "goal": "Taste the six tastes of old Indian cooking, find out about seasonal foods, and learn how to keep food safe.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Spoons of sugar",
+     "mins": 3,
+     "do": "Ask: 'Which packet yesterday had the most spoons of sugar?' Ask: 'Why does sipping a sweet drink slowly harm teeth more than eating it quickly?' Good answer: 'The bacteria keep making acid all the time.'"
+    },
+    {
+     "kind": "act",
+     "title": "The six-taste plate",
+     "mins": 12,
+     "ref": "a5",
+     "do": "Do Activity a5. Your child tastes each one with a sip of water in between and names it. Say: 'About 2,000 years ago, the Charaka Samhita, an old Indian book of medicine, named six tastes: sweet, sour, salty, pungent, bitter and astringent. It said a good meal has all six.' Ask: 'Did the pepper taste of anything, or did it feel hot?' Say: 'Scientists today say the hot feeling of pepper and chilli comes from heat and pain nerves, not taste cells. They name five basic tastes: sweet, sour, salty, bitter and umami, the savoury taste of tomato and dal.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Food changes with season and place",
+     "mins": 5,
+     "do": "Ask: 'Which fruits do we eat in summer? Which in winter?' Good answers: 'Mango and watermelon in summer. Oranges, carrots and peas in winter.' Say: 'Families in hot places drink buttermilk and eat cooling foods. In the Thar desert, people eat bajra, which grows with little water. In the south, many families eat ragi, which has lots of calcium. Ragi, bajra and jowar are called millets. Your great-grandparents ate them often.'"
+    },
+    {
+     "kind": "act",
+     "title": "Haldi hands",
+     "mins": 12,
+     "ref": "a6",
+     "do": "Do Activity a6. Ask first: 'Will water alone wash the haldi and oil off? Why do you think so?' After the test, say: 'Germs sit in the oily dirt on our hands. Water slides over oil. Soap grabs the oil and lets water wash it away.' Then go round the kitchen together and find the four rules: wash hands with soap before cooking and eating, cover food, put cooked food in the fridge or eat it within about 2 hours, and drink boiled or filtered water."
+    },
+    {
+     "kind": "talk",
+     "title": "Barry Marshall drinks the germs",
+     "mins": 8,
+     "ref": "v4",
+     "do": "Tell your child about Barry Marshall and Robin Warren (voice v4). Ask the voice's question. Say: 'Many people still say spicy food causes stomach ulcers. The evidence says most ulcers come from a germ.'"
+    }
+   ],
+   "need": [
+    "the six tastes (see Activity a5)",
+    "a glass of water",
+    "cooking oil, haldi and soap (see Activity a6)"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Thali Rummy and the stretch worksheet",
+   "goal": "Play the game, use everything learned on new cases, and argue about 'bad' foods.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Four kitchen rules",
+     "mins": 3,
+     "do": "Ask: 'What were the four kitchen rules for safe food?' Good answer: 'Wash hands with soap, cover food, eat cooked food soon or put it in the fridge, drink clean water.'"
+    },
+    {
+     "kind": "game",
+     "title": "Thali Rummy",
+     "mins": 15,
+     "ref": "g1",
+     "do": "Play Thali Rummy (game g1). Play one practice round with open cards first. Each time someone calls 'Thali!', they must say what each card gives the body. Ask: 'Which cards were most useful?' Good answer: 'Cards like dal or poha with peanuts, which do more than one job.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 12,
+     "ref": "ws2",
+     "do": "Your child does Worksheet ws2 (stretch). For the sugar sums, they may use the sugar spoons from Day 6 to help. Check the answers together. For the jalebi question, any answer with a good reason is fine."
+    },
+    {
+     "kind": "think",
+     "title": "Is any food bad?",
+     "mins": 10,
+     "do": "Ask: 'Is jalebi a bad food?' Let your child argue both sides. Then say: 'Nutrition scientists look at the whole diet, not one food. A jalebi at a wedding does no harm in a balanced diet. But a diet of only jalebi would make you ill. And so would a diet of only palak.' Ask: 'Who in your family eats first, and who eats last? Does everyone get enough?' Listen. Say: 'In many Indian homes, women and girls eat last. Surveys find that many Indian women and girls have too little iron in their blood.'"
+    }
+   ],
+   "need": [
+    "the Thali Rummy cards, cut out",
+    "Worksheet ws2",
+    "the food week chart"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Our food week, and teach it back",
+   "goal": "Look back at the food week chart, try the challenge worksheet, and teach someone what you learned.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Our food week",
+     "mins": 12,
+     "ref": "a1",
+     "do": "Finish the project, Our food week. Count the dots of each colour for the whole week. Ask: 'Which colour has the fewest dots? What could the family add next week?' Good answers: 'More green. A guava after school, or cucumber with lunch.' Your child draws the change on a small poster and puts it on the fridge."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "ref": "ws3",
+     "do": "Your child does Worksheet ws3 (challenge). Read each question aloud. Your child says the long answers and you write them down. Ask about the ship question: 'Which of your foods would still have vitamin C after six weeks without a fridge?'"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 16,
+     "do": "Ask the check questions. Then your child teaches a grown-up or a sibling, using the Food notebook. They must explain three things. What the five nutrients do. Why the two sailors with oranges and a lemon got better. How to build a balanced plate. Let them do one test again (starch or fat) to show it."
+    }
+   ],
+   "need": [
+    "the food week chart",
+    "Worksheet ws3",
+    "the Food notebook",
+    "iodine or paper squares, to repeat one test"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Food and its jobs",
+   "day": 4,
+   "sections": [
+    [
+     "A. What nutrients do",
+     [
+      {
+       "t": "match",
+       "p": "Match each part of food to its job.",
+       "pairs": [
+        [
+         "carbohydrate",
+         "gives most of our energy"
+        ],
+        [
+         "protein",
+         "builds and mends the body"
+        ],
+        [
+         "fat",
+         "holds lots of energy and builds the skin of every cell"
+        ],
+        [
+         "vitamins and minerals",
+         "keep every part working well"
+        ],
+        [
+         "fibre",
+         "keeps food moving through the gut"
+        ],
+        [
+         "water",
+         "carries food round the body and cools us as sweat"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort these foods by their main job.",
+       "items": [
+        "rice",
+        "ragi roti",
+        "potato",
+        "dal",
+        "egg",
+        "paneer",
+        "palak",
+        "guava",
+        "carrot",
+        "rajma"
+       ],
+       "cats": [
+        "energy food (go)",
+        "body-building food (grow)",
+        "protective food (glow)"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Meera's lunch is rice, dal and bhindi sabzi. Which kind of food is the dal?",
+       "opts": [
+        "an energy food",
+        "a body-building food",
+        "a protective food"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Our tests",
+     [
+      {
+       "t": "fill",
+       "p": "Iodine turns ____ when it touches starch.",
+       "a": [
+        "blue-black",
+        "blue black",
+        "black",
+        "dark blue",
+        "blue"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Arjun rubs a peanut on paper. After 15 minutes a see-through spot is still there. What does the peanut have?",
+       "opts": [
+        "fat",
+        "water",
+        "starch"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Why does a rice grain hold so much starch?",
+       "opts": [
+        "to feed the baby rice plant until it grows leaves",
+        "to taste nice",
+        "to keep insects away"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Salt and water are the only common foods that never came from a ____ thing.",
+       "a": [
+        "living"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Ravi eats only rice and pickle for lunch every day. He feels full. Why might his body still be short of something?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "In the paper test, why did we wait 15 minutes before looking at the spots?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Balanced or not?",
+   "day": 8,
+   "sections": [
+    [
+     "A. Plates and packets",
+     [
+      {
+       "t": "mcq",
+       "p": "Which plate is closest to a balanced plate?",
+       "opts": [
+        "three rotis and potato curry",
+        "rice, dal, cabbage sabzi, cucumber and curd",
+        "two bowls of kheer"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Asha, a girl in Class 3, has a drink with 24 grams of sugar. One level teaspoon of sugar is about 4 grams. How many teaspoons of sugar is in her drink?",
+       "opts": [
+        "4",
+        "6",
+        "8"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which harms teeth more?",
+       "opts": [
+        "eating one sweet after lunch",
+        "sipping a sweet drink slowly all afternoon"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. What is missing?",
+     [
+      {
+       "t": "mcq",
+       "p": "In the blue test, lemon juice needed 18 drops to make the blue go. Amla juice needed 3 drops. Which has more vitamin C?",
+       "opts": [
+        "lemon",
+        "amla",
+        "they have the same"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each illness to the nutrient that was missing.",
+       "pairs": [
+        [
+         "scurvy",
+         "vitamin C"
+        ],
+        [
+         "beriberi",
+         "vitamin B1"
+        ],
+        [
+         "goitre",
+         "iodine"
+        ],
+        [
+         "anaemia",
+         "iron"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Who made this food?",
+       "items": [
+        "rice",
+        "jaggery",
+        "egg",
+        "milk",
+        "honey",
+        "curd",
+        "salt",
+        "water"
+       ],
+       "cats": [
+        "a plant",
+        "an animal",
+        "bacteria",
+        "the Earth (never alive)"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Most animals make their own vitamin C. People cannot, so we must get it from ____.",
+       "a": [
+        "food",
+        "fruit",
+        "fruits",
+        "fruit and vegetables",
+        "fruits and vegetables",
+        "our food"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Why might squeezing lemon on dal help your body?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Zoya says, 'Jalebi is a bad food.' Do you agree? Use what you learned about a balanced diet.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Tests, ships and arguments",
+   "day": 9,
+   "sections": [
+    [
+     "A. How scientists found out",
+     [
+      {
+       "t": "mcq",
+       "p": "James Lind gave all twelve sailors the same food, and only one extra thing was different for each pair. Why?",
+       "opts": [
+        "so that only one thing changed, and he could tell what made a sailor better",
+        "because the ship had only one kind of food",
+        "to save money"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Eijkman's chickens got ill on white rice and got better on rice with its outer layer. What did Grijns say?",
+       "opts": [
+        "White rice has a poison in it.",
+        "The outer layer has something the body needs.",
+        "The chickens caught a germ."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "In the 1960s, many experts said poor children in India needed special protein foods. What did C. Gopalan find most of them needed?",
+       "opts": [
+        "more of their usual food, because they did not get enough food overall",
+        "only milk powder",
+        "less rice"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Barry Marshall showed that most stomach ulcers are caused by a ____, not by spicy food.",
+       "a": [
+        "bacterium",
+        "germ",
+        "bacteria",
+        "microbe"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Use what you know",
+     [
+      {
+       "t": "mcq",
+       "p": "Rohan's bottle of soft drink holds 300 millilitres. The label says 'Total sugars 10 g per 100 ml'. How much sugar is in the whole bottle?",
+       "opts": [
+        "10 grams",
+        "30 grams",
+        "300 grams"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Charaka named six tastes. Scientists say the 'hot' of chilli is not a taste. What is it?",
+       "opts": [
+        "a feeling from heat and pain nerves in the mouth",
+        "a kind of sweetness",
+        "a smell"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each kitchen rule to why it keeps food safe.",
+       "pairs": [
+        [
+         "wash hands with soap",
+         "soap lifts off the oily dirt where germs sit"
+        ],
+        [
+         "cover cooked food",
+         "keeps flies and dust off"
+        ],
+        [
+         "eat cooked food within about 2 hours, or put it in the fridge",
+         "germs multiply fast in warm food"
+        ],
+        [
+         "drink boiled or filtered water",
+         "kills or removes germs in water"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "In 1747 sailors ate biscuit and salt meat for months, with no fridge. Plan food for a long voyage that would stop scurvy. Explain your choice.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "In the 1960s, a sugar industry group paid scientists to write about heart disease. Why does it matter who pays for a study?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The starch test",
+   "day": 2,
+   "question": "Which of our foods have starch in them? Do foods from animals have any?",
+   "need": [
+    "povidone-iodine antiseptic liquid, the brown liquid sold at any chemist",
+    "a small cup, a spoon and a toothpick or dropper",
+    "a steel plate",
+    "small pieces of: raw potato, cooked rice, roti, cucumber, paneer or boiled egg white, and a pinch each of sugar, salt and besan or atta"
+   ],
+   "steps": [
+    "Lay the food pieces in a row on the plate, a little apart.",
+    "Your child guesses which will have starch and writes the guesses down.",
+    "A grown-up mixes 5 drops of iodine with 2 spoons of water in the cup.",
+    "Put one drop on the raw potato first, to see what blue-black looks like.",
+    "Put one drop on each of the other foods. Wait half a minute.",
+    "Write blue-black or brown next to each food.",
+    "Throw away the tested food."
+   ],
+   "predict": "Ask your child to guess first: 'Which of these foods have starch? Will paneer or egg have any? Why do you think so?'",
+   "observe": "Potato, rice, roti and besan or atta turn blue-black within seconds. Cucumber shows little or none. Paneer, egg white, sugar and salt stay brown. If shop paneer turns blue-black, starch may have been added when it was made. That is a real finding, not a mistake.",
+   "why": "Iodine turns blue-black when it touches starch. Plants make sugar in their leaves and store it as starch in seeds, roots and underground stems. A rice grain or a wheat grain is a seed, and its starch feeds the baby plant until it has leaves. A potato is an underground stem that stores starch for the next plant. Animals do not store starch, so paneer and egg have none. Sugar comes from a plant but is not starch. Salt never came from a living thing.",
+   "safety": "A grown-up handles the iodine. Never eat or drink it. Throw away all tested food. Iodine stains cloth, so cover the table with newspaper.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "The paper window test: which foods have fat?",
+   "day": 3,
+   "question": "Which everyday foods have fat in them?",
+   "need": [
+    "a brown paper bag or plain white paper, cut into 8 squares about the size of your palm",
+    "small pieces of: a peanut, fresh or dry coconut, paneer, a potato chip or some namkeen, plain roti made without ghee, and apple",
+    "2 drops of cooking oil and 2 drops of water",
+    "a pencil and a spoon"
+   ],
+   "steps": [
+    "Write one food name on each square in pencil.",
+    "Squash the peanut and coconut with the back of a spoon.",
+    "Rub each food on its own square, 10 firm rubs.",
+    "Put 2 drops of oil on one square and 2 drops of water on another.",
+    "Leave the squares flat for 15 minutes. Then hold each one up to a window or a torch and look for a see-through spot."
+   ],
+   "predict": "Ask your child to guess first: 'Which foods will leave a see-through spot that stays? Which will leave nothing? Why?'",
+   "observe": "Oil, peanut and coconut leave big see-through spots. Paneer and chips leave smaller ones. Plain roti and apple leave nothing once dry. The water spot dries and disappears. If a spot still looks wet, wait 10 minutes more.",
+   "why": "Water dries away into the air, but fat does not. Fat soaks into paper and lets light through, like a little window. A peanut is a seed, and it stores much of its food as fat for its baby plant. Fat holds more than twice as much energy as the same weight of starch. Your body uses fat for energy, to build the thin skin around every cell, and to take in some vitamins, like vitamin A from carrots.",
+   "safety": "Use small pieces only. Don't eat the pieces that were rubbed on paper. Ask about nut allergies before using peanuts.",
+   "time": "8 min, then 15 min of waiting, then 7 min"
+  },
+  {
+   "id": "e3",
+   "title": "The vanishing blue: which juice has the most vitamin C?",
+   "day": 5,
+   "question": "Which juice has the most vitamin C: amla, guava, lemon, mosambi or a packet fruit drink?",
+   "need": [
+    "half a cup of cooled rice water, the cloudy water from cooking rice, or 1 pinch of cornflour boiled in half a cup of water and cooled",
+    "povidone-iodine liquid",
+    "6 small steel bowls, a jug and a tablespoon",
+    "a dropper, or a drinking straw (dip it in, put your thumb on top, and lift)",
+    "about 1 tablespoon each of juice from amla, guava, lemon and mosambi or orange, and a packet fruit drink if you have one. Grate the amla and squeeze it in a clean cloth. Mash the guava with a spoon and squeeze it the same way",
+    "plain water, to compare",
+    "a sheet of white paper"
+   ],
+   "steps": [
+    "In the jug, mix 1 cup of water with 2 tablespoons of rice water.",
+    "Add iodine one drop at a time and stir, until the water is dark blue like fountain-pen ink. This takes about 5 to 10 drops.",
+    "Pour 2 tablespoons of the blue water into each of the 6 bowls. Stand the bowls on the white paper.",
+    "Add amla juice to the first bowl one drop at a time. Swirl after each drop and count.",
+    "Stop when the blue has gone. Write down the number of drops.",
+    "Rinse the dropper. Do the same for each juice and for water. Stop at 40 drops and write '40 or more'."
+   ],
+   "predict": "Ask your child to put the juices in order first, from most vitamin C to least, and say why.",
+   "observe": "Amla usually clears the blue in a few drops. Guava is usually next. Lemon and mosambi need many more drops. Water never clears it. A packet drink often needs many drops, unless vitamin C was added to it. Read the packet to check. Coloured juices tint the water, so look for the blue going, not for clear water.",
+   "why": "Starch turns iodine blue. Vitamin C changes iodine so that it can no longer turn starch blue. So the fewer drops a juice needs, the more vitamin C it has. Amla also has other substances that clear the blue, so its result is a little bigger than its vitamin C alone. Plants make vitamin C to protect their own cells. Most animals make their own too, but people cannot, so we must eat it. Long boiling destroys some vitamin C, so raw fruit gives the most.",
+   "safety": "A grown-up handles the iodine and grates the amla. Do not drink any of the test water. Throw it away afterwards.",
+   "time": "22 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Yesterday's plate",
+   "day": 1,
+   "mins": 15,
+   "need": [
+    "a sheet of paper and a pencil",
+    "crayons in yellow, red, green and blue"
+   ],
+   "steps": [
+    "Your child tells you everything they ate and drank yesterday, from waking up to bedtime. Write one food on each line. Include snacks and drinks.",
+    "Put a coloured dot next to each food. Yellow for energy foods (go) like rice, roti and potato. Red for body-building foods (grow) like dal, milk and eggs. Green for vegetables and fruit (glow). Blue for water and drinks.",
+    "Some foods get two dots. Milk is red and blue. Poha with peanuts and peas is yellow, red and green.",
+    "Count the dots of each colour. Your child says one thing they notice and one thing they wonder."
+   ],
+   "outcome": "A list of yesterday's food with coloured dots, and one 'I notice' and one 'I wonder' sentence. This is noticing, never marking."
+  },
+  {
+   "id": "a2",
+   "title": "Kitchen sort: who made this food?",
+   "day": 2,
+   "mins": 10,
+   "need": [
+    "4 plates with a drawing on each: a leaf (plant), a cow (animal), a tiny dot under a magnifier (bacteria and fungi), and a water drop with salt (the Earth)",
+    "about 15 things from the kitchen, such as rice, dal, an onion, a potato, a lemon, haldi, tea leaves, jaggery, a spoon of curd, ghee, an egg, honey, salt and a cup of water"
+   ],
+   "steps": [
+    "Explain what each plate stands for.",
+    "Your child puts each food on a plate and says why.",
+    "If they are not sure, ask: 'Was it ever alive? Did it grow?'",
+    "Count the foods on each plate."
+   ],
+   "outcome": "Most foods end on the plant plate. Jaggery comes from the sugarcane stem. Honey was made by bees from flower nectar. Curd is milk changed by bacteria, so it can go on two plates. Only salt and water go on the Earth plate."
+  },
+  {
+   "id": "a3",
+   "title": "Build a balanced thali",
+   "day": 4,
+   "mins": 15,
+   "need": [
+    "a thali and a few katoris",
+    "the food cooked for lunch or dinner today",
+    "some quick extras in case a colour is missing: a cucumber, a tomato, a banana, a handful of peanuts, a lemon, a bowl of curd"
+   ],
+   "steps": [
+    "Look at what has been cooked today. Your child names each dish and says go, grow or glow.",
+    "Your child serves the cool foods into the right parts of the plate. A grown-up serves the hot food where the child points.",
+    "Check: is about half the plate vegetables and fruit? Is there a grow food? Is there water?",
+    "If a colour is missing, add a quick extra from the kitchen.",
+    "Eat the meal. Afterwards your child draws the plate in the Food notebook and labels each part."
+   ],
+   "outcome": "A real balanced plate, a drawing of it, and a child who can say what each part does. One-pot meals count: khichdi with vegetables and curd is balanced."
+  },
+  {
+   "id": "a4",
+   "title": "How many spoons?",
+   "day": 6,
+   "mins": 18,
+   "need": [
+    "2 to 4 packets or bottles with a nutrition label: a juice box, a flavoured milk, a soft drink, a biscuit packet",
+    "a teaspoon, a bowl of sugar and a saucer for each packet",
+    "a whole orange, mosambi or banana to compare",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Find the box called 'Nutrition information' on each packet, and the line 'Total sugars'.",
+    "Check whether the number is for 100 millilitres, 100 grams or the whole pack. If the pack holds 200 millilitres and the label is per 100, double the number.",
+    "Divide the grams of sugar in the whole pack by 4. A level teaspoon of sugar weighs about 4 grams.",
+    "Spoon that many level teaspoons of sugar onto a saucer in front of each packet.",
+    "Put the whole fruit at the end. Say: 'Fruit has sugar too, but it is held inside fibre and water, so it reaches your blood slowly.'",
+    "Pour the sugar back into the jar."
+   ],
+   "outcome": "A row of saucers showing the sugar hidden in each packet, and a child who can read a food label."
+  },
+  {
+   "id": "a5",
+   "title": "The six-taste plate",
+   "day": 7,
+   "mins": 12,
+   "need": [
+    "tiny tastes on a steel plate: a crumb of jaggery (sweet), a drop of lemon (sour), a few grains of salt (salty), one crushed black peppercorn (pungent), a thin slice of karela or one methi seed (bitter), and a slice of raw banana or a sip of strong black tea (astringent)",
+    "a glass of water"
+   ],
+   "steps": [
+    "Lay the six tastes in a circle on the plate.",
+    "Your child tastes one at a time, with a sip of water in between.",
+    "For each one, they say the taste and how it feels in the mouth.",
+    "Ask: 'Which tastes are in today's lunch?'"
+   ],
+   "outcome": "A child who has tasted all six rasas and noticed that pepper feels hot and raw banana feels dry and puckery, which are touch feelings rather than tastes."
+  },
+  {
+   "id": "a6",
+   "title": "Haldi hands",
+   "day": 7,
+   "mins": 12,
+   "need": [
+    "half a teaspoon of cooking oil",
+    "a pinch of haldi",
+    "soap and a tap or a bucket and mug"
+   ],
+   "steps": [
+    "Mix the oil and haldi in your palm. Your child rubs it over both hands. The haldi stands for germs.",
+    "Your child washes with water only for 10 seconds. Look at the hands.",
+    "Now wash with soap for 20 seconds, rubbing the backs of the hands, between the fingers and under the nails. Look again.",
+    "Talk about the difference."
+   ],
+   "outcome": "Water alone leaves the hands oily and yellow. Soap lifts off most of the oil and haldi. Haldi can leave a faint yellow tint on skin even after soap, so look at the oily, gritty layer, which soap removes and water does not."
+  }
+ ],
+ "project": {
+  "title": "Our food week",
+  "days": [
+   2,
+   9
+  ],
+  "steps": [
+   "On Day 2, draw a table with 7 rows, one for each day, and 4 columns: yellow (go), red (grow), green (glow) and blue (glasses of water).",
+   "Each evening, your child puts one dot in the right column for each food eaten that day, and one blue dot for each glass of water.",
+   "On Day 9, count the dots in each column for the whole week.",
+   "Find the column with the fewest dots. Choose one small change the family can make next week, such as a guava after school or cucumber with lunch.",
+   "Draw the change on a small poster and put it on the fridge."
+  ],
+  "outcome": "A week's chart of the family's food, and one change chosen by the child, without blaming anyone's cooking."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Thali Rummy",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards, cut out",
+   "a drawn thali for each player, with parts marked GO, GROW, GLOW, GLOW and WATER"
+  ],
+  "rules": [
+   "Put the four job cards (GO, GROW, GLOW, WATER) in the middle, face up, as a reminder.",
+   "Shuffle the food cards. Deal 5 to each player. Put the rest face down as a pile.",
+   "On your turn, take the top card from the pile or the top card thrown away by the last player. Then throw away one card, face up.",
+   "You need a balanced thali: one GO card, one GROW card, two GLOW cards and one WATER card.",
+   "Some cards can count as either of two jobs, as written on the back. TREAT cards fill no part, so throw them away when you can.",
+   "When you have a balanced thali, call 'Thali!' and say what each card gives your body. If you are right, you win the round.",
+   "Play three rounds. Playing alone? Count how many turns it takes you to build a thali, and try to beat it."
+  ],
+  "cards": [
+   {
+    "job": true,
+    "front": "GO"
+   },
+   {
+    "job": true,
+    "front": "GROW"
+   },
+   {
+    "job": true,
+    "front": "GLOW"
+   },
+   {
+    "job": true,
+    "front": "WATER"
+   },
+   {
+    "front": "Rice",
+    "back": "GO. Starch for energy."
+   },
+   {
+    "front": "Roti",
+    "back": "GO. Starch for energy, and some fibre."
+   },
+   {
+    "front": "Ragi mudde",
+    "back": "GO. Energy, and lots of calcium for bones."
+   },
+   {
+    "front": "Potato",
+    "back": "GO. Starch, stored by the potato plant."
+   },
+   {
+    "front": "Banana",
+    "back": "GO or GLOW. Energy, and vitamins."
+   },
+   {
+    "front": "Poha with peanuts",
+    "back": "GO or GROW. Energy, and protein from the peanuts."
+   },
+   {
+    "front": "Dal",
+    "back": "GROW. Protein, and iron."
+   },
+   {
+    "front": "Rajma",
+    "back": "GROW. Protein and fibre."
+   },
+   {
+    "front": "Egg",
+    "back": "GROW. Protein, fat and vitamin A."
+   },
+   {
+    "front": "Paneer",
+    "back": "GROW. Protein, fat and calcium."
+   },
+   {
+    "front": "Curd",
+    "back": "GROW. Protein and calcium, made by bacteria from milk."
+   },
+   {
+    "front": "Sprouted moong",
+    "back": "GROW. Protein, and some vitamin C."
+   },
+   {
+    "front": "Fish curry",
+    "back": "GROW. Protein and fat."
+   },
+   {
+    "front": "Palak",
+    "back": "GLOW. Vitamins, iron and fibre."
+   },
+   {
+    "front": "Carrot",
+    "back": "GLOW. Vitamin A for your eyes."
+   },
+   {
+    "front": "Guava",
+    "back": "GLOW. Lots of vitamin C."
+   },
+   {
+    "front": "Amla",
+    "back": "GLOW. Even more vitamin C."
+   },
+   {
+    "front": "Tomato",
+    "back": "GLOW. Vitamin C."
+   },
+   {
+    "front": "Bhindi sabzi",
+    "back": "GLOW. Vitamins and fibre."
+   },
+   {
+    "front": "Cucumber",
+    "back": "GLOW. Mostly water, and some fibre."
+   },
+   {
+    "front": "Glass of water",
+    "back": "WATER. The best drink."
+   },
+   {
+    "front": "Glass of buttermilk",
+    "back": "WATER or GROW. Water, protein and calcium."
+   },
+   {
+    "front": "Jalebi",
+    "back": "TREAT. Sugar and fat. Fine at a wedding, but it fills no part of the thali."
+   },
+   {
+    "front": "Packet of chips",
+    "back": "TREAT. Fat and salt. Fine sometimes, but it fills no part of the thali."
+   },
+   {
+    "front": "Cola",
+    "back": "TREAT. Often about 8 teaspoons of sugar in a 300 ml bottle. It is not a water card."
+   },
+   {
+    "front": "Ghee on rice",
+    "back": "GO. A little fat for energy. Counts only with another GO card."
+   }
+  ]
+ },
+ "big": [
+  "Your body is built from the food you eat. So were you once rice, dal and milk?",
+  "A rice plant made its starch for its own seedling, and a cow made her milk for her calf. Is it fair that we eat them? What could we give back?",
+  "A goat makes its own vitamin C and we cannot. In what other ways do other animals do better than us?",
+  "Is there one best diet for everyone, or does it depend on where and how you live?",
+  "Some children in India do not get enough food. Is that because there is too little food, or because it is not shared well?"
+ ],
+ "challenge": [
+  {
+   "q": "Many people say spicy food or worry causes stomach ulcers. Is that true?",
+   "hint": "In the 1980s, Robin Warren and Barry Marshall showed that most stomach ulcers are caused by a bacterium called Helicobacter pylori. Ulcers are cured with medicines that kill it. Some painkillers can also cause ulcers. Spicy food can make a sore stomach feel worse, but it is not the cause. Ask: why did doctors believe the old idea for so long?"
+  },
+  {
+   "q": "People often say sugar makes children wild and over-excited. Is it true?",
+   "hint": "In careful tests, some children were given sugar and others a sweetener, and nobody knew who got which. The children behaved the same. A 1995 review of these tests found no effect. Parents who thought their child had sugar often saw wild behaviour anyway. Sugar does harm teeth. Ask: why might children at a birthday party be excited, if not from sugar?"
+  },
+  {
+   "q": "Some foods are good and some foods are bad. Is that how scientists see it?",
+   "hint": "Nutrition scientists look at the whole diet over days and weeks. A laddoo at Diwali does no harm in a balanced diet. A diet of only palak would make you ill, even though palak is a fine food. Ask: what would be a better word than 'bad' for jalebi?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A rice plant",
+   "view": "A rice grain is a seed. Its starch is the packed lunch for the baby plant, which has no leaves yet to make food. Farmers keep the best seeds to sow next year. Ask: when we eat rice, whose lunch are we eating?"
+  },
+  {
+   "who": "A mother goat",
+   "view": "A goat makes her own vitamin C, so she never gets scurvy, even with no fruit at all. She makes milk to feed her kid, full of protein, fat and calcium. Ask: what does it mean that milk is made for a baby, not for us?"
+  },
+  {
+   "who": "M. S. Swaminathan (1925–2023), plant scientist, India",
+   "view": "In the 1960s, India did not grow enough grain and had to bring wheat from abroad. Swaminathan worked with the American scientist Norman Borlaug to adapt new high-yield wheat for Indian fields. Within a few years India grew much more wheat. Later he warned that too many chemicals and too much water were harming the soil, and he called for an 'evergreen revolution' that keeps the land healthy. Ask: is growing more food always enough to end hunger?"
+  },
+  {
+   "who": "Women and girls in many Indian homes",
+   "view": "In many homes, women and girls cook, serve everyone else and eat last. Surveys find that many Indian women and girls have too little iron in their blood. Ask: in your home, who eats first and who eats last? Does everyone get the dal and the vegetables?"
+  },
+  {
+   "who": "The bacteria in your gut",
+   "view": "Trillions of bacteria live in your gut, mostly in the large intestine. They eat the fibre that you cannot break down, and they make substances that feed the cells of your gut wall. Ask: when you eat a bowl of dal, how many living things are you feeding?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Christiaan Eijkman (1858–1930) and Gerrit Grijns (1865–1944), Dutch doctors working in Java (now in Indonesia)",
+   "idea": "In the 1880s and 1890s many soldiers and prisoners in Java fell ill with beriberi, which makes the legs weak and numb. Eijkman was sent to find the germ that caused it. He noticed that his laboratory chickens fell ill when they were fed white, polished rice, and got better when they were fed rice with its outer layer. Eijkman thought white rice had a poison, and the outer layer cured it. In 1901 Grijns said the opposite: the outer layer had something the body needs, and white rice simply lacked it.",
+   "then": "Most doctors were sure that diseases were caused by germs or poisons, so the idea of an illness caused by something missing was new and slow to be accepted.",
+   "now": "Grijns was right. The missing nutrient is vitamin B1, also called thiamine. Eijkman shared the 1929 Nobel Prize, but Grijns, who explained the result correctly, got no prize.",
+   "status": "accepted",
+   "ask": "Eijkman saw the result first, but Grijns explained it correctly. Who do you think deserved the prize, and why?",
+   "day": 5
+  },
+  {
+   "id": "v2",
+   "who": "Coluthur Gopalan (1918–2019), India",
+   "idea": "Gopalan led the National Institute of Nutrition in Hyderabad. With his colleagues he measured the nutrients in hundreds of Indian foods, published in the book 'Nutritive Value of Indian Foods'. In the 1960s, many experts from rich countries said that hungry children in poor countries mainly lacked protein, and planned special protein foods. Gopalan and others studied what Indian children really ate. They found that most undernourished children were not getting enough food overall. With enough of the usual rice or roti with dal, most would get enough protein too.",
+   "then": "International bodies spent years and money on special protein foods. Some experts resisted the idea that the real gap was simply not enough food.",
+   "now": "By the 1970s most nutrition scientists agreed that the 'protein gap' had been overstated, and that most hungry children needed more food overall. Gopalan's food tables are still used in India today.",
+   "status": "accepted",
+   "ask": "Experts far away guessed what Indian children needed. Gopalan measured it. Why is measuring better than guessing, and who should be asked?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "Ancel Keys (1904–2004), USA, and John Yudkin (1910–1995), Britain",
+   "idea": "Keys led a large study of heart disease in seven countries, begun in 1958, and argued that eating a lot of saturated fat, like the fat in butter, ghee and fatty meat, causes heart disease. Yudkin argued that sugar was the bigger danger, in his 1972 book 'Pure, White and Deadly'.",
+   "then": "Keys's view won. Many food guides told people to eat less fat, and Yudkin was mocked. In 2016, researchers found papers showing that a sugar industry group had paid scientists at Harvard in the 1960s to play down sugar's part in heart disease.",
+   "now": "Most scientists today think both matter: the kind of fat matters more than the amount, and added sugar matters too. The details are still argued about.",
+   "status": "debated",
+   "ask": "A sugar industry group paid scientists to write about sugar. What questions should we ask about any study before we believe it?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "Barry Marshall (born 1951) and Robin Warren (1937–2024), Australia",
+   "idea": "Warren, a pathologist, saw curved bacteria in the stomachs of people with stomach ulcers. Marshall, a young doctor, worked with him and grew the bacteria, now called Helicobacter pylori. They said the bacteria cause most stomach ulcers. In 1984, when others would not believe them, Marshall drank a mixture of the bacteria himself. He got stomach inflammation, and then cured it with medicine that kills bacteria.",
+   "then": "Most doctors believed that ulcers came from stress, worry and spicy food, and that no bacterium could live in strong stomach acid. Many laughed at the idea.",
+   "now": "Accepted. Marshall and Warren won the Nobel Prize in 2005. Most ulcers are now cured with medicines that kill the bacteria.",
+   "status": "accepted",
+   "ask": "Marshall tested his idea on his own body. What evidence would you need before you believed something that every doctor said was wrong?",
+   "day": 7
+  }
+ ],
+ "story": {
+  "title": "Two Oranges and a Lemon",
+  "text": [
+   "I was eleven in the spring of 1747, the youngest boy on the ship Salisbury. My job was to carry the food tubs down from the galley and the empty ones back up. So I knew what we ate better than anyone.",
+   "Ship's biscuit, hard as a roof tile. Salt beef from the barrel. Pease pudding. Oatmeal boiled thin, with sugar on a good day. Nobody on the Salisbury went hungry.",
+   "But after many weeks at sea, the men began to fall ill. It started with Ned, who had taught me to tie a bowline. He said his legs felt like wet rope. His gums swelled up purple and bled when he chewed. One evening he showed me his hand. Across the knuckles there was an old scar, from a fight in Plymouth years before. It had opened again, all by itself.",
+   "'The scurvy,' said the old hands, and looked away. They said it came on every long voyage, and killed more sailors than battles did.",
+   "Every man had his own cure. The bosun said Ned should sweat it out under blankets. The cook said it was the damp sea air. The chaplain said we should pray. Ned grew weaker every day, and so did the others.",
+   "Our surgeon was a quiet Scotsman called Mr Lind. He did not argue with anyone. He went down into the forehold, where the sick men lay in their hammocks, and he stayed there a long time, looking.",
+   "One morning in May he called me over. 'Will,' he said, 'I need a boy with a good memory.'",
+   "He had chosen twelve sick men, as alike as he could find. Ned was one. Mr Lind put them all in the same part of the ship, in pairs. 'Every one of them will eat exactly the same food,' he said. 'The same gruel in the morning, the same broth at noon, the same pudding at night. Each pair will get one extra thing, and each pair gets something different.'",
+   "He counted them off. One pair would drink cider every day. One pair would take drops of a sour acid. One pair, spoonfuls of vinegar. One pair, a cup of sea water. One pair, a paste of garlic and mustard seed and other spices. And the last pair, Ned and a man called Jacob, would eat two oranges and a lemon every day.",
+   "My job was to carry each man his extra, and to remember who had what.",
+   "I thought the oranges were the silliest cure of all. The sea water at least tasted like medicine. The spice paste made your eyes run. An orange was only a sweet thing, the kind of treat you begged for at a market stall. How could a treat beat the scurvy?",
+   "On the second day, nothing changed. On the fourth day, Ned sat up in his hammock and asked for more broth. On the sixth day, Jacob climbed the ladder to the deck by himself and stood in the wind. He was still pale and spotty, but Mr Lind wrote that he was fit for work. Ned was not far behind him. The cider men were a little better. The others were as sick as before, or worse.",
+   "Then the fruit ran out. There had only been enough for six days.",
+   "That night I lay in my hammock and went over it, the way I went over the food tubs. All twelve men had eaten the same biscuit, the same broth and the same pudding. All twelve had full bellies. So the scurvy had not come from too little food. The only thing that had been different for Ned and Jacob was the fruit. Something was in an orange that was not in a barrel of salt beef, and the men had been starving for it with their bellies full.",
+   "In the morning I looked at Ned's hand. The scar was closing again.",
+   "Mr Lind made Ned the nurse for the other ten. He was not strong enough yet to climb the rigging, but he could carry broth. I watched him go down the row of hammocks with the bowl, stopping at every one.",
+   "When we came into port at last, I spent my only penny on two oranges. I ate one on the dock, peel and all, and it was sour and wonderful. The other I kept in my pocket until we were far out at sea again. Then I gave it to the cook's new boy, who was younger than me and had never been on a long voyage."
+  ],
+  "epiphany": "For the parent: all twelve sailors ate the same food and plenty of it, yet only the two given oranges and a lemon got better quickly. The turn comes when Will realises that every man had a full belly, so the illness came from something missing from the food, not from too little food. That missing thing is vitamin C, which the body needs to make the strong threads that hold gums, skin and scars together. That is why Ned's old scar opened and then closed. Let your child work this out with the blue test on Day 5 before you name it. James Lind and his 1747 test are real. Will, Ned and Jacob are made up.",
+  "ask": [
+   "What did the sailors eat every day? What was missing from it?",
+   "Why did Mr Lind give all twelve men exactly the same food?",
+   "Why do you think Ned's old scar opened again, and then closed?",
+   "Will thought an orange was only a treat. What did he find out?",
+   "Why did Will give his last orange to the cook's new boy?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "You can feel full and still be missing a nutrient.",
+   "more": "The sailors had full bellies of biscuit and salt beef, but no vitamin C, so they got scurvy. A balanced diet means many kinds of food, because no single food has every nutrient in the right amount."
+  },
+  {
+   "idea": "Your body is built from your food.",
+   "more": "The protein in dal is broken into small pieces inside you and rebuilt into your own muscle, skin and hair. The calcium in milk and ragi becomes your bones. Each kind of food builds a different part of you."
+  },
+  {
+   "idea": "Almost every food was made by a living thing for its own life.",
+   "more": "A rice grain stores starch for its seedling, a peanut stores fat for its seedling, a cow makes milk for her calf, and bees make honey to feed their hive. Only salt and water come from the non-living Earth."
+  }
+ ],
+ "unknowns": [
+  "Is there one best diet for everyone? Very different traditional diets have kept people healthy, and scientists still argue about whether general rules or personal plans are best.",
+  "How much do the microbes in our gut affect our mood and our health? Some studies show links, but nobody yet knows how much is cause and how much is chance.",
+  "Why do people eat more of ready-made packet foods than of home-cooked food? A careful test in 2019 found that they do, but nobody knows exactly why yet.",
+  "Are there substances in fruit and vegetables that help us, which we have not discovered yet? Plants contain thousands of substances, and scientists are still finding out what many of them do."
+ ],
+ "books": [
+  {
+   "title": "Gregory, the Terrible Eater",
+   "author": "Mitchell Sharmat",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A funny picture book about a young goat who wants fruit and vegetables while his parents want him to eat tin cans. Good for talking about a balanced diet."
+  },
+  {
+   "title": "Good Enough to Eat: A Kid's Guide to Food and Nutrition",
+   "author": "Lizzy Rockwell",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A clear picture book about nutrients, what each does in the body, and how food is digested."
+  },
+  {
+   "title": "Oliver's Vegetables",
+   "author": "Vivian French",
+   "for": "read together",
+   "age": "4–7",
+   "why": "A boy who only eats chips finds vegetables in his grandfather's garden, one each day of the week."
+  },
+  {
+   "title": "The Omnivore's Dilemma: Young Readers Edition",
+   "author": "Michael Pollan",
+   "for": "parent reads",
+   "age": "10 and up. A parent can read parts aloud",
+   "why": "Follows meals back to the farms and factories that made them. Helps a parent explain where packet food comes from."
+  }
+ ],
+ "check": [
+  {
+   "q": "What three jobs does food do for your body?",
+   "a": "It gives energy to move, think and keep warm. It gives what the body needs to grow and mend. It keeps every part working well."
+  },
+  {
+   "q": "Name the five main kinds of nutrient, and one food rich in each.",
+   "a": "Carbohydrates, such as rice. Proteins, such as dal. Fats, such as ghee or peanuts. Vitamins, such as vitamin C in amla. Minerals, such as calcium in milk or ragi."
+  },
+  {
+   "q": "How did we test foods for starch, and what did we find?",
+   "a": "We put a drop of iodine on each food. Rice, roti and potato turned blue-black, so they have starch. Paneer, sugar and salt stayed brown."
+  },
+  {
+   "q": "Why does a peanut have so much fat?",
+   "a": "A peanut is a seed. It stores fat as food for its baby plant. The paper test showed a big see-through spot for it."
+  },
+  {
+   "q": "Why did the two sailors with oranges and a lemon get better?",
+   "a": "Oranges and lemons have vitamin C, and the sailors' food had none. Missing vitamin C for a long time causes scurvy."
+  },
+  {
+   "q": "What does a balanced plate look like?",
+   "a": "About half vegetables and fruit, about a quarter grains or millets, and about a quarter dal, milk, eggs, fish, meat or nuts, with water to drink."
+  },
+  {
+   "q": "Why does sipping a sweet drink all afternoon harm teeth?",
+   "a": "Bacteria on the teeth eat the sugar and make acid. Sipping all afternoon keeps the acid on the teeth for a long time, and the acid makes holes."
+  },
+  {
+   "q": "Name two ways to keep food safe at home.",
+   "a": "Wash hands with soap before cooking and eating. Cover cooked food, and eat it within about 2 hours or put it in the fridge. Drink boiled or filtered water."
+  }
+ ]
+}

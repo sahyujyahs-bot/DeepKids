@@ -1,0 +1,1161 @@
+{
+ "key": "combined|sci|3|me-and-others",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "me-and-others",
+ "title": "Me and others: how people are alike and different",
+ "source": "DeepKids Combined. Covers Cambridge Stage 3 Biology Unit 3.4 'Sorting humans' (we are similar and different, fingerprints, collecting data about people in a tally chart, differences we are born with). Adds seeing from another person's point of view, friendship and living together with differences. No textbook needed.",
+ "summary": "No two people have the same fingerprints, yet any two people share about 99.9% of their genes. Your child takes fingerprints and solves a fingerprint case, surveys the people around them, and finds that the same people fall into new groups every time the question changes. They learn why skin comes in many shades, test whether they can see the world from a teddy's seat, and meet crows that can tell human faces apart.",
+ "builds_on": "Class 1: we all have the same body parts, but we look different and like different things. Class 2 genes rung: some features are passed on in families, and identical twins still have different fingerprints. Later: Class 4 looks at human nature, and Class 5 at how the brain builds a sense of 'me'.",
+ "subconcepts": [
+  "humans are similar: the same body parts and the same needs",
+  "variation: no two people are exactly alike, not even identical twins",
+  "fingerprint patterns: loop, whorl and arch, formed before birth",
+  "sorting fingerprints so that one card can be found among thousands",
+  "collecting data about people: a survey, a tally chart and the most common answer",
+  "features we are born with, features that change, and features that are both",
+  "one person belongs to many groups: the groups depend on the question",
+  "any two people share about 99.9% of their DNA, and most differences lie inside every group",
+  "skin colour comes from melanin, which protects the body from strong sunlight",
+  "we tell apart best the faces we see often, and crows can tell human faces apart",
+  "seeing from another person's point of view: what they see and what they know",
+  "everyone has feelings, but different things set them off",
+  "friendship: close friends help people and other animals live well"
+ ],
+ "goals": [
+  "By the end your child can name ways all people are similar and ways each person is different.",
+  "By the end your child can take a fingerprint, name its pattern and match a print to its owner.",
+  "By the end your child can collect data from at least 8 people, make a tally chart and say which answer is most common.",
+  "By the end your child can sort the same people in different ways and explain why no one group says who a person is.",
+  "By the end your child can explain how melanin in the skin protects us from strong sunlight.",
+  "By the end your child can describe what someone else sees or knows, even when it differs from what they see or know."
+ ],
+ "words": [
+  [
+   "similar",
+   "alike in some way. You and your friend both have ten fingers."
+  ],
+  [
+   "different",
+   "not the same. Your friend may be taller than you."
+  ],
+  [
+   "variation",
+   "the differences between members of the same kind of living thing, like the different heights of children in a class"
+  ],
+  [
+   "fingerprint",
+   "the pattern of tiny ridges on the tip of a finger, or the mark it leaves"
+  ],
+  [
+   "survey",
+   "asking many people the same questions and writing down their answers"
+  ],
+  [
+   "data",
+   "facts and numbers we collect to answer a question"
+  ],
+  [
+   "tally",
+   "a quick way to count: one line for each answer, with the fifth line drawn across the other four"
+  ],
+  [
+   "melanin",
+   "a dark brown colouring in skin, hair and eyes. More melanin makes skin darker."
+  ],
+  [
+   "pigment",
+   "something that gives colour to a thing. Melanin is a pigment."
+  ],
+  [
+   "point of view",
+   "what a person sees, knows and feels from where they are"
+  ],
+  [
+   "unique",
+   "the only one of its kind"
+  ]
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "Me in the mirror",
+   "goal": "Recall Class 1, draw a self-portrait, list how we are alike and different, and hear the story.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What do you remember?",
+     "mins": 5,
+     "do": "Say: 'In Class 1 you found that people are alike in some ways and different in others. Tell me one way you are like me, and one way you are different.' Good answers: we both have two eyes and a nose. You are taller, and my hair is curly."
+    },
+    {
+     "kind": "act",
+     "title": "Self-portrait and the meaning of my name",
+     "mins": 15,
+     "do": "Your child sits in front of a mirror with paper and pencils and draws their own face. Ask them to look closely at eye colour, eyebrows, ears and hair. Under the drawing they write their name and what it means. Tell them if you know, or look it up together. Ask: 'Who chose your name? Did you choose your face?' (No. Others chose the name, and the face grew.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Alike and different",
+     "mins": 8,
+     "do": "Stand beside your child at the mirror. Say: 'Let us find three ways we are alike and three ways we are different.' Write two lists. Then say: 'The differences between people are called variation.' Ask: 'Is there anyone in the world who is exactly like you?' Let them guess. Keep the answer for Day 2."
+    },
+    {
+     "kind": "read",
+     "title": "Story: Which Crow Is Which?",
+     "mins": 12,
+     "do": "Read the story aloud. Do not explain it. Ask the story questions. Ask: 'At first, did Stanzin think the crows looked the same? What changed?' (He looked at them every day, so he learned to tell them apart.)"
+    }
+   ],
+   "need": [
+    "a mirror",
+    "paper and coloured pencils"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "The fingerprint case",
+   "goal": "Take everyone's fingerprints, name the patterns, and match a mystery print to its owner.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Who touched the tumbler?",
+     "mins": 20,
+     "do": "Do experiment e1. While your child waits outside the room, one person at home presses a thumb on a clean steel tumbler. Your child then takes everyone's thumbprints with pencil and tape, and matches them to the print on the tumbler. Ask first: 'Will any two thumbprints be exactly the same?'",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Loop, whorl and arch",
+     "mins": 8,
+     "do": "Look at the prints together. Say: 'A loop has lines that come in from one side, curve round and go back out the same side. A whorl has circles or a spiral. An arch has lines that go from one side to the other with a hump.' Make a tally of the family's patterns. Say: 'In most groups of people, loops are the most common. Arches are the rarest.' Ask: 'Is that true for our family?'"
+    },
+    {
+     "kind": "think",
+     "title": "How do you find one card among thousands?",
+     "mins": 12,
+     "do": "Tell the story in voice v1 in your own words. Then ask: 'Imagine a police office with one lakh fingerprint cards. A print is found at a crime. How would you sort the cards so you could find the match quickly?' Good answer: put them in groups first, by the pattern on each finger. Then ask the voice question.",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "a clean steel tumbler",
+    "a soft dark pencil (2B or darker)",
+    "clear sticky tape",
+    "white paper",
+    "talcum powder or cocoa powder",
+    "a soft brush or a cotton ball",
+    "a magnifying glass or a phone camera"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Asking people: a survey",
+   "goal": "Collect data from at least 8 people, tally it, and reason about the numbers.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "The people survey",
+     "mins": 20,
+     "do": "Do activity a1. Your child asks at least 8 people the same questions: family, neighbours, the watchman, cousins on a video call. They fill one row of the table for each person, and measure heights against a wall. Before they start, ask: 'Which eye colour do you think will be most common?'",
+     "ref": "a1"
+    },
+    {
+     "kind": "review",
+     "title": "Tally and the most common answer",
+     "mins": 8,
+     "do": "Your child makes a tally for eye colour and for which hand each person writes with. Show them how to draw four lines and cross them with the fifth. Ask: 'Which eye colour is most common? Is that true in the whole world?' (Yes. Brown is the most common eye colour in India and in the world.) Ask: 'Who is tallest? Is the tallest person also the oldest?'"
+    },
+    {
+     "kind": "think",
+     "title": "Thinking with the numbers",
+     "mins": 7,
+     "do": "Say: 'About 1 person in 10 in the world writes with the left hand.' Ask: 'Our building has 60 people. About how many might be left-handed?' (About 6, because 60 is 6 tens.) Then ask: 'In our survey, did we get about 1 in 10? If not, why might a small survey be different?' (With only 8 people, luck can change the result a lot.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Born with it, or changes?",
+     "mins": 5,
+     "do": "Your child sorts the features from the survey into three groups: born with it (fingerprints, eye colour), changes or is learned (hair length, first language, favourite food), and both (height, because genes and good food both matter). Ask: 'Which group was hardest to decide?'"
+    }
+   ],
+   "need": [
+    "the survey table from activity a1",
+    "a measuring tape",
+    "a pencil",
+    "a hard book to write on"
+   ],
+   "prep": [
+    {
+     "task": "Ask a few neighbours or relatives if your child may ask them five quick questions, in person or on a call.",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "One person, many groups",
+   "goal": "Sort the same people in different ways, and learn how alike all humans are inside.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Sort the name cards",
+     "mins": 12,
+     "do": "Do activity a2. Your child writes each surveyed person's name on a small card. Then they sort the cards by eye colour, then by which hand they write with, then by first language. Ask: 'Did the same people stay together each time?' (No. The groups changed every time the question changed.)",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "99.9% the same",
+     "mins": 12,
+     "do": "Tell voice v2 in your own words. Say: 'Inside your cells are instructions called DNA. Any two people in the world share about 99.9% of them.' Then ask the voice question. Ask: 'If you sorted the whole world by eye colour, would the brown-eyed group be all alike?' (No. It would hold people of every height, language and kind of hair.)",
+     "ref": "v2"
+    },
+    {
+     "kind": "talk",
+     "title": "They all look the same?",
+     "mins": 6,
+     "do": "Ask: 'In the story, why did the crows all look the same to the children?' (They had not looked closely.) Say: 'People are best at telling apart the kinds of faces they grew up seeing. So when someone says that people from another place all look the same, it tells us what they are used to seeing, not about the people.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "do": "Your child does worksheet ws1. Help with reading only. Check the answers together. For each mistake, ask: 'What did we find on Day 2 or Day 3 that helps here?'",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "the survey table",
+    "small paper cards and a pen",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Why skin comes in many shades",
+   "goal": "Learn the problem that sunlight causes, how melanin helps, and why skin colours differ.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "The problem: strong sunlight",
+     "mins": 8,
+     "do": "Ask: 'What happens to your skin if you stay in strong sun for too long?' (It can burn and hurt.) Say: 'Sunlight carries an invisible kind of light called ultraviolet, or UV. Too much UV harms skin. Your skin protects itself with a dark brown pigment called melanin. A pigment is something that gives colour. Melanin soaks up UV before it does harm.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Find the tan line",
+     "mins": 10,
+     "do": "Do experiment e2. Your child compares skin that the sun reaches every day with skin that the sun hardly ever reaches. Ask first: 'Which patch will be darker? Why do you think so?'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Where our ancestors lived",
+     "mins": 10,
+     "do": "Tell voice v3 in your own words. Show a globe or a world map on a phone, and point to the equator. Ask the voice question. Say: 'So your skin colour is your body's answer to the sunlight where your ancestors lived for a very long time. Every shade is the right answer for some place.'",
+     "ref": "v3"
+    },
+    {
+     "kind": "act",
+     "title": "Mix your own skin colour",
+     "mins": 12,
+     "do": "Do activity a3. Your child mixes paints to match their own skin, and then the skin of two other people at home. Ask: 'Did anyone have exactly the same colour? Which colours did every mix need?' (Every mix needed brown, in different amounts, because melanin is brown.)",
+     "ref": "a3"
+    }
+   ],
+   "need": [
+    "a world map or globe (a phone picture is fine)",
+    "poster paints: brown, white, yellow, red",
+    "a steel plate for mixing",
+    "a brush and paper"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "From where you stand",
+   "goal": "Test what someone else sees and what someone else knows, and meet crows that remember faces.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "What does Teddy see?",
+     "mins": 15,
+     "do": "Do experiment e3. Put a soft toy on the far side of a table with three objects between you. Your child draws what the toy would see, then goes round to check. Ask first: 'Will Teddy's picture look the same as yours?'",
+     "ref": "e3"
+    },
+    {
+     "kind": "act",
+     "title": "The marble that moved",
+     "mins": 12,
+     "do": "Use two steel katoris, a marble or a small ball, and two dolls or two spoons with faces drawn on. Act this out: Doll A puts the marble under katori 1 and leaves. Doll B moves it under katori 2. Doll A comes back. Ask: 'Where will Doll A look first?' (Under katori 1, because she did not see it move.) Say: 'To answer, you had to think about what Doll A knows, not what you know. Most children can do this by the age of four or five.' If a younger child is at home, your child can try it on them and see what they say."
+    },
+    {
+     "kind": "talk",
+     "title": "Crows know your face",
+     "mins": 13,
+     "do": "Tell voice v4 in your own words, and ask the voice question. Then go to a window. Ask: 'Can you tell one crow from another? What would you need to look at?' (A grey patch, a bent toe, size, the way it walks.) Say: 'To us, crows look alike. To a crow, every human face is different. It depends on who is looking.'",
+     "ref": "v4"
+    }
+   ],
+   "need": [
+    "a soft toy",
+    "a ball, a book and a steel tumbler",
+    "paper and pencil",
+    "two steel katoris and a marble or small ball",
+    "two dolls, or two spoons with faces drawn on them"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Feelings and friends",
+   "goal": "Name many feelings, play someone else in a short drama, and think about friendship.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "How many feelings?",
+     "mins": 10,
+     "do": "Ask: 'How many feelings can you name?' Write them all down. Good answers include happy, sad, angry, scared, surprised, proud, shy, jealous, lonely, excited, bored and calm. Your child draws a small face for five of them. Then each person at home says one thing that makes them feel scared. Ask: 'Did we all feel fear? Did the same thing scare all of us?' (Everyone feels fear, but different things set it off.)"
+    },
+    {
+     "kind": "act",
+     "title": "Become the other",
+     "mins": 15,
+     "do": "Do activity a4, a short drama in which your child plays someone else and then swaps back.",
+     "ref": "a4"
+    },
+    {
+     "kind": "talk",
+     "title": "What a friend does",
+     "mins": 8,
+     "do": "Say: 'Joan Silk and her team watched wild baboons in Kenya for many years. Female baboons with close friends raised more babies that survived, and lived longer.' Ask: 'Why might friends help a baboon live well?' (They groom each other, stay close for safety and help in fights.) Ask: 'Who is your close friend? Are they like you, or different from you? In what ways?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 7,
+     "do": "Your child does worksheet ws2 alone. Then they read one written answer aloud, and you ask: 'What made you think that?'",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "paper and crayons",
+    "a shawl, a cap or a dupatta for the drama",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Guess who I am, and teach it back",
+   "goal": "Play the guessing game, finish the challenge sheet and the project, and teach the family.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Guess Who I Am",
+     "mins": 14,
+     "do": "Play the card game g1. Before you start, read the rules aloud. After each round, read the back of the secret card aloud. Ask: 'Could any question about looks have found this out?' (No. You only learn it by asking the person and listening.)",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Your child does worksheet ws3. There may be more than one good answer. Ask them to say their reason aloud before they write.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 14,
+     "do": "Your child shows the People of Our Building poster from the project, and explains to the family: fingerprint patterns, the survey, why groups change, what melanin does, and Teddy's view. Then ask the check questions. Last, ask everyone: 'What is one thing about someone here that you did not know a week ago?'"
+    }
+   ],
+   "need": [
+    "the printed game cards",
+    "worksheet ws3",
+    "the project poster"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Alike, different and counted",
+   "day": 4,
+   "sections": [
+    [
+     "A. Alike and different",
+     [
+      {
+       "t": "sort",
+       "p": "Is this true of every person, or does it differ from person to person?",
+       "items": [
+        "has a heart",
+        "eye colour",
+        "needs water",
+        "fingerprint pattern",
+        "height",
+        "has bones",
+        "first language",
+        "breathes air"
+       ],
+       "cats": [
+        "true of every person",
+        "differs between people"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The differences between people of the same kind are called ____.",
+       "a": [
+        "variation"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Identical twins have the same genes. Do they have the same fingerprints?",
+       "opts": [
+        "Yes, exactly the same",
+        "No, every print is different",
+        "Twins have no fingerprints"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Fingerprints and tallies",
+     [
+      {
+       "t": "match",
+       "p": "Match each fingerprint pattern to what its lines do.",
+       "pairs": [
+        [
+         "loop",
+         "come in from one side and go back out the same side"
+        ],
+        [
+         "whorl",
+         "go round in circles or a spiral"
+        ],
+        [
+         "arch",
+         "go from one side to the other with a hump"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Riya counts eye colours in her building. She draws 4 lines and 1 line across them. How many is that?",
+       "opts": [
+        "4",
+        "5",
+        "6"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which is the most common eye colour in the world?",
+       "opts": [
+        "blue",
+        "green",
+        "brown"
+       ],
+       "a": 2
+      },
+      {
+       "t": "fill",
+       "p": "Asking many people the same questions and writing down their answers is called a ____.",
+       "a": [
+        "survey"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Name one feature you were born with and one you learned. How do you know which is which?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Aman sorted his family by eye colour, then by which hand they write with. The groups were different each time. Why?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "New cases",
+   "day": 7,
+   "sections": [
+    [
+     "A. Skin and sun",
+     [
+      {
+       "t": "fill",
+       "p": "The dark brown pigment that gives colour to skin is called ____.",
+       "a": [
+        "melanin"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Meera's hand is darker than the skin under her sleeve. Why?",
+       "opts": [
+        "Her hand gets more sun, so it makes more melanin",
+        "Her hand is dirtier",
+        "Sleeves add colour to skin"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "People whose ancestors lived for a long time near the equator usually have darker skin. Why?",
+       "opts": [
+        "The sunlight there is strong, and more melanin protects the skin",
+        "It is always cloudy there",
+        "They eat darker food"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Groups and numbers",
+     [
+      {
+       "t": "mcq",
+       "p": "About 1 person in 10 writes with the left hand. A school has 300 children. About how many are left-handed?",
+       "opts": [
+        "3",
+        "30",
+        "100"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Kabir asked only 5 people. 2 of them were left-handed. What should he think?",
+       "opts": [
+        "2 in 5 people in the world are left-handed",
+        "5 people is too few to be sure; he should ask more",
+        "Left-handed people live near Kabir"
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Sort these features.",
+       "items": [
+        "fingerprints",
+        "favourite food",
+        "height",
+        "languages spoken",
+        "eye colour",
+        "how fast you run"
+       ],
+       "cats": [
+        "born with",
+        "learned or changes",
+        "both"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Other points of view",
+     [
+      {
+       "t": "mcq",
+       "p": "Doll A puts a marble under a red katori and leaves. Doll B moves it under a blue katori. Where will Doll A look first?",
+       "opts": [
+        "under the red katori",
+        "under the blue katori",
+        "in Doll B's pocket"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "You sit on one side of a table with a tumbler in front of a ball. Your friend sits on the other side. Will your friend see the ball? Why?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A crow can tell your face from your neighbour's face. Why might that be useful to the crow?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Harder thinking",
+   "day": 8,
+   "sections": [
+    [
+     "A. Sorting people",
+     [
+      {
+       "t": "mcq",
+       "p": "Any two people in the world share about how much of their DNA?",
+       "opts": [
+        "about half",
+        "about 99.9%",
+        "none"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Richard Lewontin compared people from different parts of the world. Where did he find most of the differences between people?",
+       "opts": [
+        "inside each group of people",
+        "only between countries",
+        "only between boys and girls"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Your neighbour says, 'People from that place all look the same.' Using what you learned about crows and faces, what would you say to them?",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "B. Credit",
+     [
+      {
+       "t": "fill",
+       "p": "The fingerprint sorting system is named after Edward Henry, but much of the work was done by Azizul Haque and Hem Chandra ____.",
+       "a": [
+        "Bose"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Why do you think the system was named after Henry and not after Haque and Bose? What could be done now?",
+       "lines": 4
+      }
+     ]
+    ],
+    [
+     "C. What if",
+     [
+      {
+       "t": "mcq",
+       "p": "If everyone in the world had the same fingerprint, what would stop working?",
+       "opts": [
+        "finding who touched something",
+        "holding a pencil",
+        "growing taller"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Strong sunlight harms skin. Which person in a sunny place needs sunscreen most?",
+       "opts": [
+        "a person with very light skin",
+        "a person with very dark skin",
+        "both need exactly the same"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Can you ever know exactly what it is like to be another person? Give one reason yes and one reason no.",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Who touched the tumbler?",
+   "day": 2,
+   "question": "Can a fingerprint tell us who touched something?",
+   "need": [
+    "a clean, dry steel tumbler",
+    "a soft dark pencil (2B or darker)",
+    "clear sticky tape",
+    "white paper",
+    "a pinch of talcum powder or cocoa powder",
+    "a soft brush or a cotton ball",
+    "a magnifying glass or a phone camera"
+   ],
+   "steps": [
+    "Your child waits outside the room. One person rubs a thumb on the side of their nose, to pick up a little oil, and presses it firmly on the tumbler.",
+    "Your child comes back. Sprinkle a pinch of powder on the spot and brush it very gently. A print appears. Cocoa shows up on a light tumbler, talcum on a dark one.",
+    "Press clear tape on the print, peel it off and stick it on white paper. Label it 'mystery print'.",
+    "Now take everyone's thumbprint. Rub the pencil hard on scrap paper to make a dark patch. Rub a thumb on it. Press tape on the thumb, peel it off and stick it on the paper with the person's name.",
+    "Look at each print with the magnifying glass, or zoom in with a phone camera. Name the pattern: loop, whorl or arch.",
+    "Compare the mystery print with each thumbprint. First find the ones with the same pattern. Then look for small details, such as a line that splits in two or a line that stops."
+   ],
+   "predict": "Ask: 'Will any two thumbprints be exactly the same? How will you find the right person?'",
+   "observe": "Every thumbprint is different. Your child should rule out most people by the pattern alone, then find the match by small details.",
+   "why": "Fingertips have ridges. Sweat comes out of tiny holes along them, and fingers pick up oil from the face, so a touch leaves a copy of the ridges. The ridges form in the womb, months before birth. The type of pattern tends to run in families, but the fine details also depend on the baby's position and growth in the womb. That is why no two people, not even identical twins, have been found with the same prints. The pattern stays the same for life. Scientists still argue about what the ridges are for: some think they help us grip, and others think they help us feel fine textures.",
+   "safety": "Wash hands after using the pencil and powder. Do not breathe in the powder.",
+   "time": "20 min"
+  },
+  {
+   "id": "e2",
+   "title": "Find the tan line",
+   "day": 5,
+   "question": "Does skin change its colour when it gets sun?",
+   "need": [
+    "your child's own skin",
+    "a mirror",
+    "a parent's watch or chappal, if they wear one every day"
+   ],
+   "steps": [
+    "Your child holds the back of their hand next to the inside of their upper arm, which a sleeve usually covers.",
+    "Look in good daylight. Ask: 'Which is darker?'",
+    "If a parent wears a watch or chappals with straps every day, look at the skin under the strap. Compare it with the skin next to it.",
+    "Your child draws the two patches and colours them."
+   ],
+   "predict": "Ask: 'Which skin will be darker, the skin the sun reaches or the skin it doesn't? Why do you think so?'",
+   "observe": "Skin that gets more sun is usually a little darker. Under a watch or chappal strap there is often a pale line.",
+   "why": "When UV light from the sun reaches the skin, the skin makes more melanin. This is a tan. The extra melanin soaks up more UV and protects the skin underneath. Skin that stays covered makes less, so it stays lighter. A tan is the body's own sunscreen, but it does not protect fully, so strong sun can still burn.",
+   "safety": "Do not go into strong sun to test this. Look only at skin as it is today.",
+   "time": "10 min"
+  },
+  {
+   "id": "e3",
+   "title": "What does Teddy see?",
+   "day": 6,
+   "question": "Can you work out what someone else sees from where they sit?",
+   "need": [
+    "a table",
+    "a soft toy",
+    "a ball, a thick book and a steel tumbler",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Your child sits on one side of the table. Put the soft toy on a chair on the other side, facing your child.",
+    "In the middle, put the book standing up, the tumbler in front of it on your child's side, and the ball behind it on Teddy's side.",
+    "Without moving, your child draws what Teddy sees: which things, and which is in front.",
+    "Your child walks round, crouches behind Teddy and looks. Was the drawing right?",
+    "Swap the toy to the side of the table and try again."
+   ],
+   "predict": "Ask: 'Will Teddy's picture look the same as yours? What will Teddy see that you can't?'",
+   "observe": "From Teddy's seat, the ball is in front and the tumbler is hidden behind the book, the opposite of your child's view.",
+   "why": "Each person sees from the place where they are. To know what someone else sees, you must imagine yourself in their place. The scientist Jean Piaget thought children under about seven could not do this. Later, the psychologist Martin Hughes gave young children a version that made sense to them, hiding a doll from toy policemen. Most four-year-olds solved it. Seeing from another point of view grows early, and we can keep getting better at it.",
+   "safety": "",
+   "time": "15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The people survey",
+   "day": 3,
+   "mins": 20,
+   "need": [
+    "a table drawn on paper with 6 columns",
+    "a measuring tape",
+    "a pencil",
+    "a hard book to write on",
+    "at least 8 people, in person or on a video call"
+   ],
+   "steps": [
+    "Draw a table with these columns: name, eye colour, hair colour, which hand they write with, first language, height.",
+    "Ask each person the questions and fill one row. Look at eye colour in good light.",
+    "Measure heights for the people at home. Each person stands against a wall without chappals. Put a book flat on their head, mark the wall, and measure from the floor to the mark.",
+    "Write heights in metres and centimetres. For example, 1 metre 21 centimetres is 1.21 m.",
+    "Keep the table safe. You need it on Day 4 and for the project."
+   ],
+   "outcome": "A table of data about at least 8 people."
+  },
+  {
+   "id": "a2",
+   "title": "Sort the name cards",
+   "day": 4,
+   "mins": 12,
+   "need": [
+    "the survey table",
+    "small paper cards",
+    "a pen"
+   ],
+   "steps": [
+    "Write each surveyed person's name on a card.",
+    "Sort the cards into groups by eye colour. Count each group.",
+    "Mix them. Sort again by which hand they write with.",
+    "Mix them. Sort again by first language.",
+    "Pick one person. Say all the groups they were in: 'Nani is brown-eyed, right-handed and a Marathi speaker.'"
+   ],
+   "outcome": "Your child sees that the same people fall into different groups for each question, and each person is in many groups at once."
+  },
+  {
+   "id": "a3",
+   "title": "Mix your own skin colour",
+   "day": 5,
+   "mins": 12,
+   "need": [
+    "poster paints: brown, white, yellow and red",
+    "a steel plate",
+    "a brush",
+    "paper",
+    "a cup of water"
+   ],
+   "steps": [
+    "Put a little brown paint on the plate.",
+    "Add white, yellow or red a drop at a time. Mix, and paint a small patch on paper.",
+    "Hold the paper next to the inside of your wrist. Keep adjusting until the colour matches.",
+    "Paint a patch for two other people at home, and write each name under their patch."
+   ],
+   "outcome": "A strip of real skin colours, each one different, and each one made with brown."
+  },
+  {
+   "id": "a4",
+   "title": "Become the other",
+   "day": 7,
+   "mins": 15,
+   "need": [
+    "a shawl, a cap or a dupatta to dress up"
+   ],
+   "steps": [
+    "Read this short scene: a child is scared of a big boy in the building who has a loud voice and never smiles. One day the big boy finds the child's lost cricket ball and brings it back.",
+    "Your child plays the big boy. You play the scared child. Act it for three minutes.",
+    "Swap roles and act it again.",
+    "Ask your child: 'When you were the big boy, what did you feel? What did the little child not know about you?'",
+    "Ask: 'Is a loud voice the same as being unkind?' (No. How someone looks or sounds does not tell you what they will do.)"
+   ],
+   "outcome": "Your child has felt the same scene from two sides."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Azizul Haque and Hem Chandra Bose, officers of the Bengal Police, Kolkata, India, in the 1890s",
+   "idea": "In the 1890s, the two officers worked for Edward Henry, the head of the Bengal Police, on a way to sort fingerprint cards. Haque worked out much of the counting that splits the cards into groups by the pattern on each finger. Bose added ways to sort them further. With their method, one card could be found quickly among many thousands.",
+   "then": "The method was taken up across British India in 1897 and by Scotland Yard in London in 1901. It was named the Henry system, after their boss. For many years, the usual story left out Haque and Bose.",
+   "now": "Historians now agree that Haque and Bose did key parts of the work. Some people now call it the Henry, Haque and Bose system.",
+   "status": "accepted",
+   "ask": "Who usually gets the credit: the person who does the work, or the person in charge? How could we find out who really did the work?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "Richard Lewontin (1929–2021), USA, geneticist",
+   "idea": "In 1972 Lewontin measured how much people differ in some of their genes. He compared people from the same group with people from different parts of the world. He found that about 85% of the differences were between people of the same group. Only a small share was between groups.",
+   "then": "Many people had thought humans could be sorted into a few separate groups by skin colour, like boxes. Lewontin's result showed the boxes do not match the genes.",
+   "now": "Many later studies with much more data found the same pattern. The scientist A. W. F. Edwards pointed out in 2003 that, if you look at many genes together, you can often tell where a person's ancestors came from. Both are true: features change gradually across the world, and two people from one place can differ more than two people from far apart.",
+   "status": "accepted",
+   "ask": "Two children from the same city, and two children from different countries. Which two will differ more? How could you test it?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "Nina Jablonski and George Chaplin, USA, scientists who study human evolution",
+   "idea": "In 2000 Jablonski and Chaplin compared skin colour with the amount of UV sunlight in each part of the world. Skin is darker where UV is strongest, near the equator, and lighter where it is weak. Their explanation: melanin protects the body from strong UV. But skin also needs some UV to make vitamin D, which keeps bones strong. So where sunlight is weak, lighter skin helps.",
+   "then": "Earlier scientists had noticed the link with sunlight, but Jablonski and Chaplin measured it across the world and explained both sides of the balance.",
+   "now": "Most scientists accept that sunlight shaped skin colour. Details are still studied, such as how food rich in vitamin D, like fish, changed things for some people in the far north.",
+   "status": "accepted",
+   "ask": "Your skin colour came from where your ancestors lived for thousands of years. Does it tell you anything about what you are like inside?",
+   "day": 5
+  },
+  {
+   "id": "v4",
+   "who": "John Marzluff, University of Washington, USA, crow scientist",
+   "idea": "In 2006 Marzluff and his students wore a rubber caveman mask while they caught and ringed a few crows, then let them go unharmed. Afterwards, whenever anyone walked through that place in the mask, crows dived and cawed at them. People in other masks were left alone. Crows that had never been caught, and young crows born later, joined in.",
+   "then": "Many people thought birds could not tell one human from another.",
+   "now": "The study was published in 2010. Crows kept scolding the mask for years. Crows recognise individual human faces, and they learn from each other which faces are dangerous.",
+   "status": "accepted",
+   "ask": "Crows tell us apart, but most of us cannot tell crows apart. What does that say about who is clever?",
+   "day": 6
+  }
+ ],
+ "project": {
+  "title": "People of Our Building poster",
+  "days": [
+   3,
+   8
+  ],
+  "steps": [
+   "Use the survey from Day 3. Draw a bar chart of eye colours: one bar for each colour, as tall as the number of people.",
+   "Draw a second bar chart for which hand people write with.",
+   "Add each person's thumbprint from Day 2 if they agree, and name its pattern.",
+   "Paint the strip of skin colours from Day 5 along the bottom.",
+   "Write one sentence at the top that says what you found. For example: 'Everyone we asked is different, and everyone has the same body parts.'"
+  ],
+  "outcome": "A poster of real data about the people around your child, ready for teaching it back on Day 8."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Guess Who I Am",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the 16 cards printed and cut out",
+   "a pencil and paper"
+  ],
+  "rules": [
+   "Lay all 16 cards face up on the floor, with the front showing.",
+   "One player, the Chooser, secretly picks a card in their head and writes its name on paper.",
+   "The other players take turns asking yes-or-no questions about what they can see on the cards. For example: 'Does your person wear glasses?' The Chooser answers truthfully.",
+   "After each answer, turn over the cards that no longer fit.",
+   "When you think you know, say 'You are Meera!' A right guess wins the round. A wrong guess means you miss your next turn.",
+   "At the end of each round, read the back of the secret card aloud. That is something no question about looks could find.",
+   "Take turns being the Chooser. Fewest questions to a right guess wins."
+  ],
+  "cards": [
+   {
+    "front": "Meera: brown eyes, long black hair, glasses, left-handed",
+    "back": "Meera is scared of thunder."
+   },
+   {
+    "front": "Kabir: brown eyes, short curly hair, right-handed, speaks Hindi",
+    "back": "Kabir wants to be a vet."
+   },
+   {
+    "front": "Anu: brown eyes, two plaits, right-handed, speaks Malayalam",
+    "back": "Anu has a pet tortoise."
+   },
+   {
+    "front": "Stanzin: brown eyes, straight black hair, right-handed, speaks Ladakhi",
+    "back": "Stanzin can name seven crows."
+   },
+   {
+    "front": "Farah: hazel eyes, hair in a bun, glasses, right-handed",
+    "back": "Farah's best friend lives in Dubai."
+   },
+   {
+    "front": "Joseph: brown eyes, short hair, uses a wheelchair, left-handed",
+    "back": "Joseph plays the tabla."
+   },
+   {
+    "front": "Diya: brown eyes, short hair, right-handed, speaks Gujarati",
+    "back": "Diya feels shy at birthday parties."
+   },
+   {
+    "front": "Arjun: brown eyes, curly hair, glasses, right-handed",
+    "back": "Arjun cried when his fish died."
+   },
+   {
+    "front": "Lhamo: brown eyes, long straight hair, right-handed, speaks Hindi and Tibetan",
+    "back": "Lhamo wants to climb a mountain."
+   },
+   {
+    "front": "Ravi: brown eyes, no hair (shaved head), right-handed",
+    "back": "Ravi is learning to swim."
+   },
+   {
+    "front": "Sana: grey eyes, curly hair, left-handed, speaks Urdu",
+    "back": "Sana loves maths puzzles."
+   },
+   {
+    "front": "Tenzin: brown eyes, short hair, right-handed, uses a hearing aid",
+    "back": "Tenzin tells the best jokes."
+   },
+   {
+    "front": "Priya: brown eyes, long hair, right-handed, freckles",
+    "back": "Priya is scared of dogs."
+   },
+   {
+    "front": "Dev: green eyes, short hair, right-handed, speaks Kannada",
+    "back": "Dev misses his grandmother."
+   },
+   {
+    "front": "Leela: brown eyes, white hair, glasses, right-handed, 70 years old",
+    "back": "Leela learned to read at 60."
+   },
+   {
+    "front": "Imran: brown eyes, curly hair, left-handed, very tall",
+    "back": "Imran is afraid of the dark."
+   }
+  ]
+ },
+ "big": [
+  "If the groups change every time we sort people in a new way, which way of sorting is the real one?",
+  "Can you ever know exactly what it is like to be someone else?",
+  "Is the way you look part of who you are?",
+  "Which matters more: the ways we are all alike, or the ways each of us is different?",
+  "A crow sees the world from a crow's point of view. Is our human point of view the right one?"
+ ],
+ "challenge": [
+  {
+   "q": "Many people say humans can be sorted into a few separate races by skin colour. Is that right?",
+   "hint": "Skin colour changes gradually across the world, following the strength of sunlight. Any two people share about 99.9% of their DNA, and most differences lie inside every group, as Lewontin found. Skin colour tells us about the sunlight where someone's ancestors lived. Ask: what would you need to find, to show that people really come in separate boxes?"
+  },
+  {
+   "q": "People say identical twins are exactly the same. Are they?",
+   "hint": "They start with the same genes, but their fingerprints are different, because the ridges also depend on each baby's place in the womb. As they grow, their likes, skills and even health become more different. Ask: if two people had the same genes and the same home, would they still be different?"
+  },
+  {
+   "q": "The famous scientist Jean Piaget said children under seven cannot see things from another person's point of view. Was he right?",
+   "hint": "In his test, children had to pick a picture of model mountains seen from a doll's seat, and many young children got it wrong. Martin Hughes later gave children a hiding game with a doll and toy policemen, which made sense to them, and most four-year-olds solved it. Ask: when a test is confusing, does a wrong answer show that the child cannot think it, or only that the test was hard to understand?"
+  },
+  {
+   "q": "In many Indian homes, children who write with the left hand were made to switch to the right. Does that help?",
+   "hint": "About 1 person in 10 is left-handed, in every part of the world. Which hand a child prefers shows up very early and seems to come partly from genes and partly from before birth. Doctors and teachers now advise letting a child write with the hand they prefer. Ask: why might people once have thought the left hand was wrong?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A crow on your window ledge",
+   "view": "To a crow, every human face is different, and it remembers the people who feed it and the people who chase it. Ask: what would a crow write in a survey about the people in your building?"
+  },
+  {
+   "who": "A person who is blind",
+   "view": "Many blind people know others by their voice, their footsteps and their touch, not their face. Ask: which of your survey questions would a blind person not need? Which new questions might they ask?"
+  },
+  {
+   "who": "A fingerprint expert in a police lab",
+   "view": "To this expert, every finger is a little map, and they look for tiny details like a ridge that splits in two. Ask: why must the expert be very careful before saying two prints match?"
+  },
+  {
+   "who": "A new child in your building from another state",
+   "view": "They may speak another language at home and eat different food. To them, your ways look new and different. Ask: what is one thing you would want them to know about you, and one thing you would ask them?"
+  }
+ ],
+ "story": {
+  "title": "Which Crow Is Which?",
+  "text": [
+   "I am a crow. I live on the water tank on top of Building C, in a housing society in Pune. From up there I can see eleven balconies, two neem trees and the corner where the bread man stops his cycle.",
+   "Humans think all crows look the same. We do not think all humans look the same. I know the old man in 3B, who throws chapati crusts at seven every morning. I know the woman in 5A, who waves a broom when I sit on her railing. I know them by their faces, the way they walk and the sound of their slippers. A crow who cannot tell faces apart does not eat for long. A crow who forgets a cruel face does not live for long.",
+   "That summer a new family came to 2C. They had a boy called Stanzin, with a round face and straight black hair cut short. He sat on the steps by the wall and watched the other children play cricket in the parking lot.",
+   "On the third day, a boy called Rohan walked over, swinging his bat. \"Are you from Nepal?\" he asked.",
+   "\"From Leh,\" said Stanzin. \"In Ladakh. It's in India.\"",
+   "\"Oh,\" said Rohan. He went back to the game. Nobody asked Stanzin to play.",
+   "So Stanzin watched us instead.",
+   "He came every evening with a notebook. At first I did not like it. A crow who is watched closely becomes careful. But he never threw anything and never shouted. On the fourth evening he put a steel katori of water on the wall. On the fifth, a few grains of cooked rice beside it. He sat very still while we drank.",
+   "He drew us. I saw his pages when the wind turned them. There was a crow with a grey patch on her left wing. That was me. There was a crow with one toe bent sideways, from a kite string long ago. That was my mate. There was a young one who still opened his beak and begged, though he was big enough to find his own food. That was our son. Under each drawing Stanzin wrote a name. He called me Grey-wing.",
+   "By the end of the month he had seven drawings and seven names. That was every crow who lived on Building C.",
+   "One evening the cricket ball rolled to the steps. A girl called Diya came to fetch it. She saw the notebook.",
+   "\"What are you drawing?\"",
+   "\"The crows,\" said Stanzin. \"There are seven who live here.\"",
+   "Rohan laughed from the pitch. \"Seven? It's the same two crows every day. All crows look the same!\"",
+   "Stanzin did not argue. He opened the notebook and waited.",
+   "My mate landed on the wall. Stanzin pointed at the drawing with the bent toe, then at my mate's foot. Diya bent down and looked. The toe was bent sideways, just like the drawing.",
+   "Then I came down. Stanzin turned the page to Grey-wing. Diya looked at my wing, and at the page, and at my wing again.",
+   "\"How can you tell?\" she asked.",
+   "\"I looked at them every day,\" said Stanzin. \"At first they all looked the same to me too.\"",
+   "Diya did not say anything for a while. She looked at the crows. Then she looked at Stanzin, as if she was seeing him properly for the first time. Then she looked at her shoes.",
+   "\"Can I try?\" she said at last.",
+   "The next evening she came back with her own notebook. The evening after, Rohan came too, though he pretended he was only there to sit down. Stanzin showed them how to look: at the shape of the beak, the patches on the wings, the way each of us walks. Rohan was bad at it. Diya was good at it. Stanzin was best.",
+   "\"That one,\" Rohan said one evening, pointing at my son. \"Bent-toe.\"",
+   "\"No,\" said Diya. \"Look at his feet.\"",
+   "Rohan looked for a long time. \"Oh,\" he said. \"He's the one who begs.\" And then, after a moment, \"Stanzin, are you batting tomorrow? We need one more.\"",
+   "The next morning, before the old man in 3B and before the bread man, I flew down to the wall by the steps. Three faces were waiting there, with a katori of water. I knew all three."
+  ],
+  "epiphany": "For the parent: the story turns when Diya sees that the crows only looked the same because nobody had looked closely, and then she looks at Stanzin 'properly for the first time'. The children had treated him as 'different' without knowing him. The idea is that we tell apart best the faces we see often, and that crows can tell human faces apart. Let your child find the link to Stanzin themselves.",
+  "ask": [
+   "How did the crow know the people in the building?",
+   "How did Stanzin learn to tell the crows apart?",
+   "Why did Rohan think there were only two crows?",
+   "Why do you think Diya looked at her shoes?",
+   "What changed for Stanzin by the end? What made it change?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Every person is unique, and every person is almost the same.",
+   "more": "No two people have been found with the same fingerprints. Yet any two people share about 99.9% of their DNA. Show your child two thumbprints side by side: the same kind of ridges, a different pattern."
+  },
+  {
+   "idea": "The groups depend on the question you ask.",
+   "more": "Sort the same people by eye colour, then by handedness, then by language. The groups change each time. Each person belongs to many groups at once, so no single group says who they are."
+  },
+  {
+   "idea": "Skin colour is the body's answer to sunlight.",
+   "more": "Melanin soaks up harmful UV light. People whose ancestors lived where the sun is strong usually have more melanin. A tan line shows the same thing happening in one body."
+  },
+  {
+   "idea": "Seeing from another place is a skill.",
+   "more": "Teddy sees the ball where you see the tumbler. Doll A looks where she last saw the marble. To understand someone, you imagine yourself where they are and what they know."
+  }
+ ],
+ "unknowns": [
+  "What are fingertip ridges for? Some scientists think they help us grip wet or rough things. Others think they help us feel fine textures. Nobody knows for sure.",
+  "Do other animals understand what someone else knows? Some studies suggest apes and crows can, and others disagree. Scientists are still testing it.",
+  "How does the brain imagine what another person is thinking? Scientists have found brain areas that are busy when we do it, but nobody knows exactly how it works."
+ ],
+ "books": [
+  {
+   "title": "The Colors of Us",
+   "author": "Karen Katz",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A girl who wants to paint herself finds that every skin is its own shade of brown. Read it before or after the paint-mixing activity."
+  },
+  {
+   "title": "Same, Same But Different",
+   "author": "Jenny Sue Kostecki-Shaw",
+   "for": "read together",
+   "age": "4–8",
+   "why": "Pen pals in the USA and India find how alike and how different their lives are."
+  },
+  {
+   "title": "Whoever You Are",
+   "author": "Mem Fox",
+   "for": "read together",
+   "age": "3–7",
+   "why": "Children all over the world look and live differently, but feel the same joys and hurts."
+  },
+  {
+   "title": "Wonder",
+   "author": "R. J. Palacio",
+   "for": "parent reads",
+   "age": "8 and up",
+   "why": "A boy with a different face starts school. Read a few chapters aloud and talk about seeing from each character's side."
+  },
+  {
+   "title": "Gifts of the Crow",
+   "author": "John Marzluff and Tony Angell",
+   "for": "parent reads",
+   "age": "adult; read parts aloud",
+   "why": "The crow scientist from voice v4 tells what crows know, including how they remember faces."
+  }
+ ],
+ "check": [
+  {
+   "q": "Name two ways all people are similar and two ways people differ.",
+   "a": "Similar: we all have the same body parts and need food, water and air. Different: height, eye colour, fingerprints and the languages we speak."
+  },
+  {
+   "q": "What are the three fingerprint patterns, and which is most common?",
+   "a": "Loop, whorl and arch. Loops are the most common in most groups of people. Arches are the rarest."
+  },
+  {
+   "q": "Why do identical twins have different fingerprints?",
+   "a": "The ridges form in the womb, and the fine details depend on each baby's position and growth there, not only on genes."
+  },
+  {
+   "q": "How do you count with a tally?",
+   "a": "One line for each answer. The fifth line goes across the other four, so you can count in fives."
+  },
+  {
+   "q": "We sorted the same people three ways and got different groups each time. What does that show?",
+   "a": "The groups depend on the question we ask. Each person belongs to many groups at once, so one group cannot say who someone is."
+  },
+  {
+   "q": "What does melanin do, and why do some people have more?",
+   "a": "Melanin is a brown pigment that soaks up harmful UV sunlight. People whose ancestors lived where sunlight is strong usually have more of it."
+  },
+  {
+   "q": "In the Teddy test, why did Teddy see the ball in front, when you saw the tumbler in front?",
+   "a": "Teddy sat on the other side of the table. Each person sees from the place where they are."
+  },
+  {
+   "q": "What did John Marzluff find out about crows?",
+   "a": "Crows recognise individual human faces. They scolded the mask worn by people who had caught them, and other crows learned to do the same."
+  }
+ ]
+}
