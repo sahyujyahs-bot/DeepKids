@@ -34,7 +34,8 @@ const bar = (a: P, b: P, w: number) => limb([a, b], [w, w], 2).poly;
 
 // wake: 0 asleep .. 1 awake (eyes open at .35, the smile at .5, the head lifts from .5); later: the clock at 11:05, the phone lit
 export type Wake = { wake: number; later: boolean; phone: number };
-export const buildNap = (o: { breath?: number; w?: Wake } = {}): Plate => {
+// clock: seconds after 10:00:00 on the wall clock (10:10 when she falls asleep, 11:05 when she wakes)
+export const buildNap = (o: { breath?: number; w?: Wake; clock?: number } = {}): Plate => {
   const { S, L, D, ...pl } = plate(), r = rng(1038), br = o.breath ?? 0, wk = o.w?.wake ?? 0, later = o.w?.later ?? false, lift = clamp((wk - 0.5) / 0.5);
   // ---------------- the room behind her
   S([[-10, -10], [W + 10, -10], [W + 10, 1000], [-10, 1000]], C.wall);
@@ -166,7 +167,9 @@ export const buildNap = (o: { breath?: number; w?: Wake } = {}): Plate => {
   L(ra.a.slice(Math.round(ra.a.length * 0.3), Math.round(ra.a.length * 0.95)), 1.5); L(ra.b.slice(Math.round(ra.b.length * 0.55)), 1.5); L([[150, 1206], [140, 1232], [156, 1258]], 1.4);   // the elbow
   // saree folds, the pallu edge, the clock, the drawing
   Lf([[380, 930], [400, 962], [404, 998]], 1.3); Lf([[760, 890], [800, 940], [820, 1000]], 1.3); Lf([[560, 760], [620, 800], [700, 830]], 1.2); Lf([[470, 820], [440, 900], [430, 990]], 1.3);
-  L(ell(214, 300, 92, 92, 0, 40), 1.6, C.ink, true); if (later) { L([[214, 300], [240, 244]], 3); L([[214, 300], [168, 262]], 3); } else { L([[214, 300], [214, 238]], 3); L([[214, 300], [266, 274]], 3); }
+  L(ell(214, 300, 92, 92, 0, 40), 1.6, C.ink, true); { const sec = 36000 + (o.clock ?? (later ? 3900 : 600)), hand = (a: number, len: number): P => [214 + Math.sin(a) * len, 300 - Math.cos(a) * len];
+    L([[214, 300], hand(((sec / 3600) % 12) / 12 * Math.PI * 2, 44)], 3.4); L([[214, 300], hand(((sec / 60) % 60) / 60 * Math.PI * 2, 64)], 2.6);
+    L([hand((Math.floor(sec) % 60) / 60 * Math.PI * 2 + Math.PI, 14), hand((Math.floor(sec) % 60) / 60 * Math.PI * 2, 70)], 1.2, C.tomato); }
   for (let i = 0; i < 12; i++) { const a = (i / 12) * Math.PI * 2; L([[214 + Math.cos(a) * 66, 300 + Math.sin(a) * 66], [214 + Math.cos(a) * 74, 300 + Math.sin(a) * 74]], 1.6); }
   L([[300, 120], [462, 112], [470, 330], [306, 336]], 1.2, C.ink, true);
   L([[498, 46], [498, 808]], 1.6); L([[540, 88], [540, 762]], 1.4);
@@ -188,11 +191,11 @@ const sunLayer = (env: Env, later: boolean) => {
   env.cache.set(k, L); return L;
 };
 
-export const drawNap = (ctx: Ctx, f: number, env: Env, o: { cam?: Cam; dream?: number; w?: Wake } = {}) => {
+export const drawNap = (ctx: Ctx, f: number, env: Env, o: { cam?: Cam; dream?: number; w?: Wake; clock?: number } = {}) => {
   const breath = (Math.sin((f / 30) * Math.PI * 2 * 0.22) + 1) / 2, bq = Math.round(breath * 8) / 8, w = o.w, later = w?.later ?? false;
-  const key = `nap:plate:${bq}:${w ? [w.wake.toFixed(2), later, w.phone.toFixed(2)].join(",") : "s"}`;
+  const key = `nap:plate:${bq}:${o.clock ?? ""}:${w ? [w.wake.toFixed(2), later, w.phone.toFixed(2)].join(",") : "s"}`;
   let pl = (o.dream ?? 0) > 0 || w ? undefined : (env.cache.get(key) as Plate | undefined);
-  if (!pl) { pl = buildNap({ breath: bq, w }); if (!((o.dream ?? 0) > 0 || w)) env.cache.set(key, pl); }
+  if (!pl) { pl = buildNap({ breath: bq, w, clock: o.clock }); if (!((o.dream ?? 0) > 0 || w)) env.cache.set(key, pl); }
   const cam = o.cam ?? { x: 0, y: 0, s: 1 };
   drawPlate(ctx, env, pl, key + ":e", {
     f, cam, dream: o.dream, between: () => {
