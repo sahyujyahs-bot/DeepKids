@@ -2352,7 +2352,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Put one bowl in the fridge, not the freezer. 2. Put one bowl in a cupboard in a room. 3. Put one bowl in a warm spot, such as a cupboard in the warmest room, or the top of the fridge near the back. 4. If you have a thermometer, leave it in each place for 5 minutes and read it.",
+     "do": "1. Put one bowl in the fridge, not the freezer. 2. Put one bowl in a cupboard in a room. 3. Put one bowl in a warm spot, like a cupboard in the warmest room or the top of the fridge. 4. If you have a thermometer, leave it in each place for 5 minutes and read it.",
      "say": "Let's read the temperature in each place. The fridge is about 5 degrees. A room in India is often between 20 and 32 degrees.",
      "kid": "Put one bowl in the fridge. Put one in a cupboard. Put one somewhere warm. Read the thermometer in each place.",
      "adult": true,
@@ -2472,7 +2472,7 @@
    "mins": 35,
    "days": 7,
    "question": "Do seedlings grow differently under red, blue, green or clear see-through covers?",
-   "predict": "Guess first. Which colour of light will grow the greenest, strongest seedlings? Which will grow the weakest? Plants are green. Do you think they like green light best?",
+   "predict": "Guess first. Which colour of light will grow the greenest, strongest seedlings? Which will grow the weakest? Plants are green. Do you think they like green light best? Why do you think so?",
    "fair_test": "Change only the colour of the cover. Use 4 cups of seedlings sown on the same day, the same soil and the same water. Make 4 cone-shaped covers of the same size, from clear, red, blue and green cellophane. Stand the cups side by side in the same bright place.",
    "results_table": [
     "Cover colour",
@@ -3056,7 +3056,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Visit 6 places: next to a sunny window, the middle of a room, a corridor, a bathroom, the balcony, and an open window in full daylight. In each place, use the light-meter app. Or hold a pencil over white paper and see how dark and sharp its shadow is.",
+     "do": "Visit 6 places: a sunny window, the middle of a room, a corridor, a bathroom, the balcony and an open window. In each place, use the light-meter app. Or hold a pencil over white paper and see how dark and sharp its shadow is.",
      "say": "Our eyes are tricky. They adjust, so a room feels bright even when it is much dimmer than outside. A light meter tells the truth.",
      "kid": "Go to 6 places. Measure the light with the app. Or look at a pencil's shadow. A dark, sharp shadow means bright light.",
      "ask": [
