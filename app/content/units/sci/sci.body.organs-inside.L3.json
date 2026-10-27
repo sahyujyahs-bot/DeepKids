@@ -476,7 +476,7 @@
   {
    "q": "Your brain floats in a liquid inside your skull. Why is a hard skull alone not enough to keep it safe?",
    "kind": "deep",
-   "hint": "Remember the egg test: something soft in an empty box, and something soft in a box full of water."
+   "hint": "Remember the egg test: something soft in an empty jar, and something soft in a jar full of water."
   },
   {
    "q": "A sponge has no organs, but it is alive. What is the smallest thing that can still be alive?",
@@ -1003,9 +1003,9 @@
     },
     {
      "t": "truefalse",
-     "p": "In the egg in the box test, the egg (or banana) in water was safer than the one in the empty box.",
+     "p": "In the egg in the jar test, the egg (or banana) in water was safer than the one in the empty jar.",
      "a": true,
-     "why": "True. The water filled the box, so the egg moved with the box and did not crash into its sides. The liquid around your brain does the same job.",
+     "why": "True. The water filled the jar, so the egg moved with the jar and did not crash into its sides. The liquid around your brain does the same job.",
      "how": "e1"
     },
     {
@@ -1160,7 +1160,7 @@
       "liquid",
       "fluid"
      ],
-     "why": "Like the water around the egg in the box, the liquid stops the brain banging on the skull.",
+     "why": "Like the water around the egg in the jar, the liquid stops the brain banging on the skull.",
      "how": "e1"
     },
     {
@@ -1198,9 +1198,9 @@
     },
     {
      "t": "write",
-     "p": "In the egg in the box test, what did the egg stand for? What did the box stand for? What did the water stand for?",
+     "p": "In the egg in the jar test, what did the egg stand for? What did the jar stand for? What did the water stand for?",
      "lines": 3,
-     "a": "The egg stood for the brain. The box stood for the skull. The water stood for the liquid that cushions the brain.",
+     "a": "The egg stood for the brain. The jar stood for the skull. The water stood for the liquid that cushions the brain.",
      "why": "A model stands for the real thing, so we can test an idea safely.",
      "how": "e1"
     },
@@ -1375,16 +1375,16 @@
  "experiments": [
   {
    "id": "e1",
-   "title": "The Egg in the Box: how liquid protects the brain",
+   "title": "The Egg in the Jar: how liquid protects the brain",
    "mins": 25,
    "days": 1,
    "question": "Does liquid around a brain help protect it when you move?",
-   "predict": "Before you test, guess. Will a raw egg crack first in an empty box, or in a box filled to the top with water? Why do you think so?",
-   "fair_test": "To make it fair, use two eggs of the same size and two boxes of the same size. Shake both the same way, the same number of times. Only the water changes.",
+   "predict": "Before you test, guess. Will a raw egg crack first in an empty jar, or in a jar filled to the top with water? Why do you think so?",
+   "fair_test": "To make it fair, use two eggs of the same size and two jars of the same size. Shake both the same way, the same number of times. Only the water changes.",
    "results_table": [
-    "Box",
-    "Egg after 5 shakes",
-    "Egg after 10 shakes",
+    "Jar",
+    "Egg or banana after 5 shakes",
+    "After 10 shakes",
     "What I noticed"
    ],
    "materials": [
@@ -1397,7 +1397,7 @@
      "qty": 2
     },
     {
-     "item": "water to fill one box",
+     "item": "water to fill one jar",
      "qty": 1
     },
     {
@@ -1414,7 +1414,7 @@
     }
    ],
    "record": "Fill in the table. Draw the two eggs, or the two banana pieces, after the test.",
-   "context": "This is the egg in the box test. A raw egg stands for your soft brain. A jar stands for your skull. You test whether water around the egg protects it, like the liquid around your brain. No eggs? A piece of ripe banana works too.",
+   "context": "This is the egg in the jar test. A raw egg stands for your soft brain. A jar stands for your skull. You test whether water around the egg protects it, like the liquid around your brain. No eggs? A piece of ripe banana works too.",
    "setup": [
     {
      "art": "Two clear plastic jars with screw lids side by side, one empty with a raw egg inside, one filled to the top with water and an egg inside.",
@@ -1446,7 +1446,7 @@
        ]
       }
      ],
-     "context": "This is the first step of the egg in the box test, about how your brain is protected inside your skull."
+     "context": "This is the first step of the egg in the jar test, about how your brain is protected inside your skull."
     },
     {
      "id": "s2",
@@ -1472,7 +1472,7 @@
      "kid": "Open the jars. Look closely. Is either egg cracked? Write it in the table.",
      "check": {
       "t": "mcq",
-      "q": "In the egg in the box test, which egg is usually safer?",
+      "q": "In the egg in the jar test, which egg is usually safer?",
       "options": [
        "The egg in the empty jar",
        "The egg in the jar full of water",
@@ -1530,11 +1530,11 @@
      "qty": 2
     },
     {
-     "item": "2 plain biscuits of the same kind, like Marie biscuits",
+     "item": "2 plain biscuits of the same kind, like Marie or glucose biscuits",
      "qty": 2
     },
     {
-     "item": "water, half a small cup for each bag",
+     "item": "water, about 4 tablespoons for each bag",
      "qty": 1
     },
     {
@@ -1652,11 +1652,11 @@
    ],
    "materials": [
     {
-     "item": "4 lumps of mishri (rock sugar), each about the size of your thumbnail and as alike as you can find. Or 4 sugar cubes, or 4 small pieces of jaggery the same size.",
+     "item": "4 lumps of mishri (rock sugar), each about the size of your thumbnail and as alike as you can find. Or 4 sugar cubes.",
      "qty": 4
     },
     {
-     "item": "2 steel tumblers or glasses the same size, each half full of water from the same jug",
+     "item": "2 clear glasses the same size, each half full of water from the same jug. Steel tumblers work too, if you look down into them from above.",
      "qty": 2
     },
     {
@@ -1703,15 +1703,15 @@
    },
    "setup": [
     {
-     "art": "Two lumps of mishri the same size beside two steel tumblers half full of water, with a folded cloth and a rolling pin.",
+     "art": "Two lumps of mishri the same size beside two clear glasses half full of water, with a folded cloth and a rolling pin.",
      "caption": "1. Choose two lumps the same size. Crush one inside a cloth."
     },
     {
-     "art": "A child and a grown-up each stirring a tumbler, one with a whole lump and one with crushed sugar, a clock beside them.",
-     "caption": "2. Tip each into its own tumbler. Stir both the same way."
+     "art": "A child and a grown-up each stirring a glass, one with a whole lump and one with crushed sugar, a clock beside them.",
+     "caption": "2. Tip each into its own glass. Stir both the same way."
     },
     {
-     "art": "Two tumblers: one with clear water and no sugar left, the other with a small lump still sitting at the bottom.",
+     "art": "Two glasses: one with clear water and no sugar left, the other with a small lump still sitting at the bottom.",
      "caption": "3. Time how long each takes to disappear."
     }
    ],
@@ -1721,7 +1721,7 @@
      "mins": 3,
      "do": "Show your child a lump of mishri. Ask what they notice about its outside.",
      "say": "Look at this lump of mishri. Only its outside touches anything around it. Your lungs have hundreds of millions of tiny air bags, not one big bag. Why might that be? Keep your idea in mind.",
-     "kid": "Look at the mishri lump. Only its outside touches the air. Your lungs have lots of tiny air bags. Why? Keep your idea.",
+     "kid": "Look at the mishri lump. Only its outside can touch the water. Your lungs have lots of tiny air bags. Why? Keep your idea.",
      "context": "This is the first step of the lump or bits test, about why your lungs have so many tiny air bags."
     },
     {
@@ -1735,7 +1735,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Tip the whole lump into one tumbler and the crushed bits into the other, at the same moment. 2. You stir one and your child stirs the other, about one stir each second. 3. Write down how many minutes each takes until you can see no sugar. 4. Do it again with the other two lumps, swapping who stirs which.",
+     "do": "1. Tip the whole lump into one glass and the crushed bits into the other, at the same moment. 2. You stir one and your child stirs the other, about one stir each second. 3. Write down how many minutes each takes until you can see no sugar. 4. Do it again with the other two lumps, swapping who stirs which.",
      "say": "Ready? Tip them in together. Stir gently, one stir each second. Tell me when you can see no sugar at all. Then we do it again, because one try can be a fluke.",
      "kid": "Tip both in at the same time. Stir, one stir each second. Watch the clock. When is the sugar gone? Do it twice.",
      "parent": "The crushed bits usually vanish in a minute or two. The whole lump takes several minutes, often much longer. If it is still there after 10 minutes, write '10 minutes and still there'. Swapping who stirs keeps the test fair."
@@ -1804,7 +1804,7 @@
      "qty": 1
     },
     {
-     "item": "optional: a toy or simple stethoscope",
+     "item": "optional: a simple stethoscope, or a tube of rolled-up paper to put against the chest and listen through",
      "qty": 1,
      "buy": "b-stethoscope"
     }
@@ -2500,7 +2500,7 @@
     "The egg must be easy to take out and check."
    ],
    "materials": [
-    "raw eggs",
+    "raw eggs. No eggs at home? Use a very ripe tomato, and look for splits and soft squashed spots.",
     "paper, cotton wool, cloth, a plastic cup, rubber bands and tape",
     "a tray or newspaper on the floor"
    ],
@@ -2534,7 +2534,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Remind your child of the egg in the box test.",
+     "do": "Read the problem together. Remind your child of the egg in the jar test.",
      "say": "Your skull is hard on the outside. Inside, your brain is cushioned by liquid. How could we copy that for an egg?",
      "kid": "Your skull is hard outside. Liquid cushions your brain inside. How can you copy that?",
      "context": "This is the first step of the Helmet for an Egg Brain challenge. You design a helmet to protect an egg in a fall."
@@ -2579,19 +2579,19 @@
    "id": "c2",
    "title": "Pack the Chest",
    "mins": 25,
-   "problem": "Fit a model heart and two model lungs inside a small box rib cage, so they fill the space without squashing each other.",
+   "problem": "Fit a model heart and two model lungs inside a shallow box lid, so they fill the space without squashing each other.",
    "constraints": [
     "Use playdough or atta dough for the organs.",
-    "Use a shoe box or a small box as the chest.",
-    "The heart must be the size of your fist, and the lungs must fill the rest."
+    "Use the lid of a shoe box or a mithai box as the chest. It is shallow, so the model is flat.",
+    "The heart must be as wide as your fist, and the lungs must fill the rest."
    ],
    "materials": [
-    "playdough or atta dough in two colours",
-    "a small box, like a shoe box",
+    "playdough, or dough made from about 2 cups of atta, in two colours (add a little haldi to one half)",
+    "the lid of a shoe box or a mithai box",
     "paper strips for ribs, and tape"
    ],
    "general": [
-    "Make the heart first, as big as your fist, and put it in the middle.",
+    "Make the heart first, as wide as your fist and about one finger thick, and put it in the middle.",
     "Mould the lungs around it, one on each side.",
     "Leave a dent in the left lung so the heart fits."
    ],
@@ -2604,8 +2604,8 @@
    "context": "This is a design challenge. You fit a model heart and two lungs into a box, to see why your left lung is smaller and how your ribs guard them.",
    "setup": [
     {
-     "art": "A shoe box, two colours of playdough and a child's fist next to a red dough heart.",
-     "caption": "1. Make a heart the size of your fist."
+     "art": "A shoe box lid, two colours of dough and a child's fist next to a flat red dough heart.",
+     "caption": "1. Make a flat heart as wide as your fist."
     },
     {
      "art": "Two pink dough lungs moulded around the red heart inside the box, the left one with a dent.",
@@ -2620,17 +2620,17 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Make a red dough heart the size of your child's fist. Put it in the middle of the box, tipped a little to the left.",
-     "say": "Your heart is the size of your fist. Put it in the middle of the chest, tipped a little left.",
-     "kid": "Make a red heart the size of your fist. Put it in the middle, tipped left.",
+     "do": "Make a dough heart as wide as your child's fist and about one finger thick. Put it in the middle of the lid, tipped a little to the left.",
+     "say": "Your heart is about as big as your fist. Put it in the middle of the chest, tipped a little left.",
+     "kid": "Make a flat heart as wide as your fist. Put it in the middle, tipped left.",
      "context": "This is the first step of the Pack the Chest challenge. You fit a heart and two lungs into a model chest."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Mould the two lungs around the heart until the box is full.",
+     "do": "Press the two lungs flat, about one finger thick, around the heart until the lid is full.",
      "say": "Now fill all the rest of the space with lungs. What do you have to do to the left lung?",
-     "kid": "Fill the rest of the box with two lungs. What happens to the left lung?",
+     "kid": "Fill the rest of the lid with two flat lungs. What happens to the left lung?",
      "check": {
       "t": "mcq",
       "q": "Why is your left lung a little smaller than your right lung?",
@@ -2811,7 +2811,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the egg in the box test, what did the water stand for?",
+   "p": "In the egg in the jar test, what did the water stand for?",
    "opts": [
     "The skull",
     "The liquid that cushions the brain",
@@ -2819,7 +2819,7 @@
     "The stomach"
    ],
    "a": 1,
-   "why": "The water around the egg stood for the clear liquid around the brain. The box stood for the skull.",
+   "why": "The water around the egg stood for the clear liquid around the brain. The jar stood for the skull.",
    "outcome": 5,
    "how": "e1"
   },
@@ -2890,7 +2890,7 @@
   "Mini-organs grown in labs help scientists test new medicines.",
   "Seat belts and airbags in cars protect the chest and head in a crash.",
   "First aid teaches people how to help someone who is choking, by clearing the windpipe.",
-  "Animal doctors use the same knowledge to treat cows, dogs and cats, which have the same organs as us."
+  "Animal doctors use the same knowledge to treat cows, dogs and cats, which have most of the same organs as us."
  ],
  "spotted": [
   {
@@ -2976,7 +2976,7 @@
   },
   {
    "j": "What did the left lung say to the right lung?",
-   "a": "We should stick together. Let's share a breath."
+   "a": "Take a deep breath. We're in this together."
   },
   {
    "j": "Why was the stomach so good at school?",
@@ -3011,7 +3011,7 @@
    "a": "It heard there was a lot of popcorn."
   },
   {
-   "j": "Why did the egg love its box of water?",
+   "j": "Why did the egg love its jar of water?",
    "a": "It never cracked under pressure."
   },
   {
@@ -3031,8 +3031,8 @@
    "a": "It could never decide what to have for lunch."
   },
   {
-   "j": "Why did the food pipe always hurry?",
-   "a": "It had to swallow its pride."
+   "j": "What did the food pipe say to the laddoo?",
+   "a": "Down you go!"
   },
   {
    "j": "What did the doctor say to the lungs?",
@@ -3114,7 +3114,7 @@
    "context": "This is about the kitchen organ weigh-in, where you held a 1-litre bottle to feel how much a full stomach holds."
   },
   {
-   "problem": "In the lump or bits test, the whole lump of mishri took 8 minutes to disappear. The crushed lump took 2 minutes. How many times as long did the whole lump take?",
+   "problem": "Say that in the lump or bits test, the whole lump of mishri took 8 minutes to disappear and the crushed lump took 2 minutes. How many times as long did the whole lump take?",
    "answer": "4 times as long.",
    "explain": "The whole lump took 8 minutes. The crushed lump took 2 minutes. 8 divided by 2 is 4. You can check: 2 plus 2 plus 2 plus 2 is 8. So the whole lump took 4 times as long.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -3141,7 +3141,7 @@
    }
   },
   {
-   "problem": "On your life-size organ map, your child's heart was 1 fist wide and their brain was 2 fists wide. If one fist is 7 centimetres, how wide was the brain?",
+   "problem": "On the life-size organ map, the heart was 1 fist wide and the brain was 2 fists wide. If one fist is 7 centimetres, how wide was the brain?",
    "answer": "14 centimetres.",
    "explain": "The brain was 2 fists wide. Each fist is 7 centimetres. 7 plus 7 is 14. So the brain was about 14 centimetres wide.",
    "math_unit": "math.length.standard-units-length.L3",
@@ -3246,9 +3246,9 @@
   },
   {
    "id": "b-stethoscope",
-   "item": "Toy or simple real stethoscope",
+   "item": "Simple real stethoscope (toy ones are usually too weak to hear a heartbeat)",
    "kind": "tool",
-   "why": "To listen to the heart and lungs while learning where they are.",
+   "why": "To listen to the heart and lungs while learning where they are. A rolled-up paper tube held to the chest also works.",
    "url": "https://www.amazon.in/s?k=stethoscope+for+kids",
    "used_in": [
     "a1"
@@ -3405,16 +3405,16 @@
  "roots": {
   "context": "We have been learning where the heart, lungs, stomach and brain are, and what they do. Now we ask what these organs tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A raw egg shaken in an empty box cracked, but in a box full of water it stayed whole. The water carried the egg along, so it never banged into the hard wall. Your brain floats in a liquid inside your skull in the same way. So a soft liquid keeps your brain safe, together with the hard bone around it.",
-   "habit": "We often think that keeping something safe means making it hard, like armour. But a soft thing inside a hard box can still bang against the walls and break. Your body keeps its softest organ safe with liquid as well as bone.",
-   "evidence": "In the egg in the box test, the egg in the empty box cracked first, and the egg in the box full of water stayed whole. Inside your skull, your brain floats in a clear liquid in the same way. A cricket helmet copies the idea, with a hard shell outside and soft foam inside."
+   "truth": "Shake a raw egg or a ripe banana piece in an empty jar, and it cracks or squashes. In a jar filled to the top with water, it stays whole. Your brain floats in liquid inside your skull, and that liquid protects it the same way. Hard bone alone would not keep a soft brain safe.",
+   "habit": "We often think that keeping something safe means making it hard, like armour. But a soft thing inside a hard case can still crash into the walls and break. Your body keeps its softest organ safe with liquid as well as bone.",
+   "evidence": "In the egg in the jar test, the egg in the empty jar cracked first, and the egg in the jar full of water stayed whole. Inside your skull, your brain floats in a clear liquid in the same way. A cricket helmet copies the idea, with a hard shell outside and soft foam inside."
   },
   "three": {
    "who_am_i": "You are a team of organs, from your brain to your stomach, and every one of them is made of living cells.",
    "what_is_life": "A living body keeps going because its organs pass blood, food, air and messages to each other all the time.",
    "what_is_this_world": "A fish, a cow and you each have a brain in a skull, a heart and a gut, because all animals with backbones share one ancestor."
   },
-  "thread": "Long ago, every living thing was a single cell that did every job by itself. Over a very long time, cells joined into bodies and shared out the work. Some became heart cells that squeeze, some became lung cells that swap gases, and some became nerve cells that carry messages. So one way of living became many kinds of organ, and those many organs still keep one body alive together.",
+  "thread": "Long ago, every living thing was a single cell that did every job by itself. Over a very long time, some cells began to live together as one body and share out the work. Some became heart cells that squeeze, some became lung cells that swap gases, and some became nerve cells that carry messages. The jobs one cell once did alone are now shared among many organs. Those many organs still keep one body alive together.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 5.1",
@@ -3429,7 +3429,7 @@
    {
     "source": "Tao Te Ching 76",
     "teaching": "A newborn baby is soft and bendy, and a dead body is hard and stiff. Green plants bend, and dry dead ones snap. So the hard and stiff go with death, and the soft and bending go with life.",
-    "link": "Your brain is one of the softest parts of you. In the egg test, the soft water around the egg did what the hard box could not do alone."
+    "link": "Your brain is one of the softest parts of you. In the egg test, the soft water around the egg protected it better than the hard jar alone."
    }
   ],
   "science": [
@@ -3444,7 +3444,7 @@
   ],
   "other_view": {
    "who": "Most brain scientists, and the old Indian Charvaka school",
-   "view": "You are your brain and body, and nothing more. When the body stops, the self stops too. The teamwork of organs is amazing, but it needs no One behind it. That is an honest view, and many thoughtful people hold it."
+   "view": "You are your brain and body, and nothing more. When the body stops, the self stops too. The teamwork of organs is amazing, but nothing beyond the body is needed to explain it. That is an honest view, and many thoughtful people hold it."
   },
   "practice": {
    "title": "Listening to the team",
@@ -3461,7 +3461,7 @@
   "art": "A child sitting cross-legged with eyes closed, a soft glow showing a heart, two lungs, a stomach and a brain inside, joined by gentle golden threads into one shape."
  },
  "how_we_found_out": {
-  "story": "About 2,350 years ago, the Greek thinker Aristotle taught that the heart does our thinking and feeling. He thought the brain was there to cool the blood. Many people agreed, because the heart races when we are scared or excited. Some Greek doctors disagreed. In Alexandria, about 2,300 years ago, Herophilus cut open bodies and traced nerves back to the brain. About 1,850 years ago, the Greek doctor Galen, working in Rome, showed it in public. He cut two thin nerves in the neck of a squealing pig. The pig went silent, though its heart kept beating and it kept breathing. Galen showed that these nerves came from the brain, not the heart. So the brain, he said, controls the voice and the body. As a doctor to gladiators, he also saw that injuries to the brain and spine changed how a person could move. Today we have even stronger proof. People living with a machine that pumps their blood still think, laugh and remember.",
+  "story": "About 2,350 years ago, the Greek thinker Aristotle taught that the heart does our thinking and feeling. He thought the brain was there to cool the blood. Many people agreed, because the heart races when we are scared or excited. Some Greek doctors disagreed. In Alexandria, about 2,300 years ago, Herophilus cut open human bodies and traced the nerves back to the brain. About 1,850 years ago, the Greek doctor Galen, working in Rome, tested the idea in front of an audience. He cut two thin nerves in the neck of a squealing pig. The pig went silent, though its heart kept beating and it kept breathing. Galen showed that these nerves came from the brain, not the heart. So the brain, he said, controls the voice. He also cut the spinal cord of animals at different places, and showed which parts of the body could no longer move. Today we have even stronger proof. People living with a machine that pumps their blood still think, laugh and remember.",
   "who": "Aristotle, Herophilus and Galen",
   "when": "About 350 BCE (Aristotle), about 300 BCE (Herophilus) and about 160 CE (Galen's pig experiment)",
   "wrong_idea": "Aristotle taught that the heart does the thinking and the brain only cools the blood. Galen cut the nerves that control a pig's voice, and showed that they come from the brain. The pig fell silent while its heart kept beating."
