@@ -21,6 +21,25 @@ def truths(path):
         try: out.append((os.path.basename(f), json.load(open(f))["roots"]["deep_truth"]["truth"]))
         except Exception: pass
     return out
+# WRITING.md rules 2 and 10: short sentences (child 12 words, parent 20), plain punctuation
+def plain(u, P):
+    long_ = []
+    def walk(x, key=""):
+        if isinstance(x, dict):
+            for k, v in x.items(): walk(v, k)
+        elif isinstance(x, list):
+            for v in x: walk(v, key)
+        elif isinstance(x, str) and key in ("kid", "say", "do"):
+            lim = 12 if key == "kid" else 20
+            for sen in re.split(r"(?<=[.!?])\s+", x):
+                n = len(re.findall(r"[\w'’-]+", re.sub(r"\([^)]*\)", "", sen)))
+                if n > lim + 2: long_.append(f"{key}: {n} words: {sen[:60]}…")
+            if ";" in x: P(f"no semicolons (WRITING.md rule 10): {x[:60]}…")
+            if re.search(r"\be\.g\.|\betc\.|\bi\.e\.", x): P(f"write 'for example', not e.g./etc./i.e. (rule 10): {x[:60]}…")
+    for k in ("games", "experiments", "activities", "projects", "challenges"):
+        walk(u.get(k, []))
+    walk(u.get("roots", {}).get("practice", {}))
+    if long_: P(f"{len(long_)} sentences too long for who reads them (child 12 words, parent 20; WRITING.md rule 2), for example " + " | ".join(long_[:3]))
 def check(path):
     e = []; P = lambda m: e.append(m)
     try: u = json.load(open(path))
@@ -156,6 +175,7 @@ def check(path):
         if not mth.get("math_unit", "").startswith("math."): P("maths problems need a math_unit id")
         if not mth.get("why_maths"): P("maths problems need `why_maths`: one plain sentence on why this maths helps with this science")
     if not u["plan"].get("start_options") or not u["plan"].get("default_order"): P("plan needs start_options and default_order")
+    plain(u, P)
     if len(u["warmup"]) < 5: P("warmup: 5+ quick questions")
     return e, mins, days
 
