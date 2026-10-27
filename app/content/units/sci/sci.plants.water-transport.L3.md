@@ -1,9 +1,9 @@
 # How water climbs a plant, from the roots to the leaves
 `sci.plants.water-transport.L3`
 
-**Summary.** A tree has no heart and no pump, yet water reaches its highest leaves. Water enters a plant through its roots and climbs the stem in tiny tubes called xylem. Most of it then evaporates out of tiny holes in the leaves. As water leaves the top, it pulls up the water below it, because water molecules attract each other. The Sun's heat makes the water evaporate, so the energy for the lift comes from the Sun. Your child stands a white flower in coloured water and finds the colour in its petals the next morning. They also meet Jagadish Chandra Bose, who thought living cells pumped the water up, and the tests that showed otherwise.
+**Summary.** A tree has no heart and no pump, yet water reaches its highest leaves. Water enters a plant through its roots and climbs the stem in tiny tubes called xylem. Most of it then evaporates out of tiny holes in the leaves. As water leaves the top, it pulls up the water below it, because water molecules attract each other. The Sun's heat makes the water evaporate, so the energy for the lift comes from the Sun. Your child stands a pale cabbage leaf or a white flower in coloured water, and within a day finds the colour in its veins. They also meet Jagadish Chandra Bose, who thought living cells pumped the water up, and the evidence that it is pulled instead.
 
-**Intro.** *Look at a tall coconut palm or a neem tree. Its top leaves need water, but the water is in the soil, far below. Nobody carries it up, and a tree has no heart and no pump. So how does the water get to the top?* Try this tonight. Stir lots of food colour into a glass of water. Stand a white flower in it, such as a rajnigandha stalk. In the morning, look at the petals. If thin coloured lines have appeared, the coloured water has climbed up the stem while you slept. Water makes this journey in every plant, from the roots to the very top leaf.
+**Intro.** *Look at a tall coconut palm or a neem tree. Its top leaves need water, but the water is in the soil, far below. Nobody carries it up, and a tree has no heart and no pump. So how does the water get to the top?* Try this today. Stir lots of food colour into half a glass of water. Stand a pale inner leaf of a cabbage in it, thick white rib down, or a white carnation. Look again after a few hours, and the next day. If thin coloured lines appear in the leaf or the petals, the coloured water has climbed up inside. Water makes this journey in every plant, from the roots to the very top leaf.
 
 ## Learning outcomes
 0. I can trace the path of water through a plant: into the roots, up the stem, and out to the leaves and flowers.
@@ -41,7 +41,7 @@
 ### The path of water: root, stem, leaf, air · *defined*
 **Definition:** Water enters a plant through its roots. It travels up the stem in tiny tubes. It spreads through the veins to every leaf and flower. Most of it then leaves through tiny holes in the leaves, as invisible vapour.
 
-The path starts in the soil, where root hairs soak up water. The water moves into the root and then up the stem, inside bundles of very fine tubes. In each leaf, the tubes branch out along the veins. Next to the veins are tiny holes, and the water evaporates out of them into the air. Some water stays behind, to keep the plant firm and to help the leaves make food. The unit 'Food from light: photosynthesis' tells that part of the story.
+The path starts in the soil, where root hairs soak up water. The water moves into the root and then up the stem, inside bundles of very fine tubes. In each leaf, the tubes branch out along the veins. From the veins, water soaks into the leaf's cells. It evaporates into tiny air spaces inside the leaf, and the vapour escapes through tiny holes in the leaf's skin. Some water stays behind, to keep the plant firm and to help the leaves make food. The photosynthesis unit tells that part of the story.
 - e.g. Water a tulsi pot. The water goes into the roots, not the leaves.
 - e.g. A banana leaf's veins run from its thick middle rib out to the edges, carrying water across the leaf.
 - e.g. On a hot day a neem tree sends water from deep soil to leaves higher than a house.
@@ -51,7 +51,7 @@ The path starts in the soil, where root hairs soak up water. The water moves int
 A stem is not a solid stick. Inside, it is packed with bundles of tubes. Most of them are thinner than a hair. Each tube is made of cells that have died and lost their insides. Their end walls opened up, so the cells join into long hollow pipes, like cups with no bottoms stacked one on top of another. When you stand a white flower or a cabbage leaf in coloured water and then cut it across, each coloured dot is one bundle of tubes. In a tree, the xylem is the wood itself. In places with a cold or a dry season, the tree adds a new ring of water tubes every year.
 - e.g. The tough strings in a stick of sugarcane or a banana stem are bundles of tubes.
 - e.g. The rings in a cut tree trunk are layers of old water tubes, one for each year.
-- e.g. The lines on a white rose petal fill with colour when its stem stands in coloured water.
+- e.g. The lines on a white carnation's petals fill with colour when its stem stands in coloured water for a day.
 ### Leaves let water out: transpiration · *defined*
 **Definition:** Transpiration is water leaving a plant through tiny holes in its leaves, called stomata, as invisible water vapour.
 
@@ -67,7 +67,7 @@ Imagine a long line of children holding hands, standing up a staircase. The chil
 - e.g. Trees drink most in the hot, sunny middle of the day, when their leaves lose the most water.
 - e.g. Drinking through a straw looks similar, but there the air outside pushes the drink up. In a tree, the water really is pulled from the top.
 ### An old argument: push, pump or pull? · *debated*
-For about two hundred years, scientists argued about how water reaches the top of a tree. Some thought the roots pushed it. Some thought living cells pumped it. Some thought the leaves pulled it. Today, almost all plant scientists agree that the pull from the leaves does most of the work. Sometimes the roots give a small push too. The argument was settled by experiments, not by who was most famous.
+For more than 150 years, scientists argued about how water reaches the top of a tree. Some thought the roots pushed it. Some thought living cells pumped it. Some thought the leaves pulled it. Today, almost all plant scientists agree that the pull from the leaves does most of the work. Sometimes the roots give a small push too. The argument was settled by experiments, not by who was most famous.
 - e.g. Cut a grapevine stem in spring and sap drips out of the stump. That drip is a push from the roots.
 - e.g. Coloured water still climbs up a stem whose living cells have been killed. So living pumps are not needed.
 - **Stephen Hales, an English clergyman and scientist, in his book Vegetable Staticks, 1727:** He weighed potted plants and measured how much water they lost through their leaves each day. He also fixed glass tubes to cut vine stems and saw sap pushed up the tubes. He showed that roots can push, and that leaves lose a lot of water.
@@ -77,7 +77,7 @@ For about two hundred years, scientists argued about how water reaches the top o
 ### Why plants wilt, and spring back · *defined*
 **Definition:** A plant wilts when it loses water from its leaves faster than its roots can take water in. Its cells go soft, like half-empty water balloons, and the plant droops.
 
-Every plant cell has a stretchy bag inside, called a vacuole, that fills with water. When all the cells are full, they press hard against each other and against their walls. That pressing makes leaves and soft stems stand up firm. When water runs short, the cells go soft and floppy. Then the stem bends and the leaves hang down. Give a wilted plant water soon, and the cells fill up again. In an hour it can stand tall. But if it stays dry too long, the cells are damaged and it may not recover.
+Most living plant cells have a stretchy bag inside, called a vacuole, that fills with water. When all the cells are full, they press hard against each other and against their walls. That pressing makes leaves and soft stems stand up firm. When water runs short, the cells go soft and floppy. Then the stem bends and the leaves hang down. Give a wilted plant water soon, and the cells fill up again. In an hour it can stand tall. But if it stays dry too long, the cells are damaged and it may not recover.
 - e.g. Wilted coriander stood in a glass of water perks up within an hour or two.
 - e.g. Garden plants often droop in the hot afternoon, then stand up again in the cool evening.
 - e.g. A plant pulled up roughly wilts, because its root hairs are torn off and it cannot drink.
@@ -89,9 +89,9 @@ Think about drying clothes. They dry fastest on a hot, sunny, windy day, and slo
 - e.g. Desert plants like cactus have few leaves, or none, so they lose less water.
 - e.g. Farmers in hot places often water in the early morning or evening, when less is lost to the air.
 ### Why water holds together: cohesion · *defined*
-**Definition:** Water molecules pull on each other. This is called cohesion. They also cling to the walls of thin tubes. This is called adhesion. Both come from tiny electric pulls between molecules.
+**Definition:** Water molecules attract each other. This is called cohesion. They also cling to the walls of thin tubes. This is called adhesion. Both come from tiny electric forces between molecules.
 
-A water molecule is one oxygen atom with two hydrogen atoms stuck on. It looks a bit like a head with two ears. The oxygen end has a tiny bit of negative electric charge. The hydrogen ends have a tiny bit of positive charge. Opposite charges pull on each other. So the hydrogen end of one molecule tugs on the oxygen end of the next. Each molecule holds a few neighbours like this, again and again, all through the water. Scientists call these hydrogen bonds. They are why a drop is round, and why a water strider can walk on a pond. They are also why a thread of water in a tree can be pulled up without snapping.
+A water molecule is one oxygen atom with two hydrogen atoms stuck on. It looks a bit like a head with two ears. The oxygen end has a tiny bit of negative electric charge. The hydrogen ends have a tiny bit of positive charge. Opposite charges attract. So the hydrogen end of one molecule attracts the oxygen end of the next. Each molecule holds a few neighbours like this, again and again, all through the water. Scientists call these hydrogen bonds. They are why a drop is round, and why a water strider can walk on a pond. They are also why a thread of water in a tree can be pulled up without snapping.
 - e.g. A paperclip laid gently on still water can float, held up by the water's skin.
 - e.g. Fill a steel tumbler to the brim, then add drops one by one. The water bulges above the rim before it spills.
 - e.g. Water creeps up a tissue because it clings to the paper and to itself.
@@ -108,7 +108,7 @@ Sucking does not really pull the drink. It takes air out of the straw. Then the 
 - e.g. A simple hand pump at the top of a well can lift water from only about 7 or 8 metres down. Deeper wells need a pump down at the water.
 - e.g. A coconut palm can be 25 metres tall. That is already more than twice the straw limit.
 ### Bubbles in the tubes, and plants that click · *debated*
-The water threads in a tree are stretched tight. If the plant gets very thirsty, a thread can snap and a tiny air bubble can form in the tube. Scientists call this an embolism. A tube with a bubble cannot carry water. Flower sellers know about this. They cut flower stems again under water, so no air gets into the fresh tube ends. Snapping threads also make tiny clicks. In 1966, John Milburn and Robert Johnson listened to thirsty castor plants with sensitive sound detectors and heard the clicks. In 2023, a team at Tel Aviv University in Israel, led by Lilach Hadany, recorded thirsty tomato and tobacco plants clicking. The sounds were too high for people to hear, but could be picked up from about 10 centimetres away.
+The water threads in a tree are stretched tight. If the plant gets very thirsty, a thread can snap and a tiny air bubble can form in the tube. Scientists call this an embolism. A tube with a bubble cannot carry water. Flower sellers know about this. They cut flower stems again under water, so no air gets into the fresh tube ends. Snapping threads also make tiny clicks. In 1966, John Milburn and Robert Johnson listened to thirsty castor plants with sensitive sound detectors and heard the clicks. In 2023, a team at Tel Aviv University in Israel, led by Lilach Hadany, recorded thirsty tomato and tobacco plants clicking. The sounds were too high for people to hear. The team recorded them with microphones 10 centimetres from the plants.
 - e.g. Cut roses last longer when their stems are trimmed under water.
 - e.g. A thirsty tomato plant in the Tel Aviv study clicked dozens of times an hour. A well-watered one hardly clicked at all.
 - **Most plant scientists:** The clicks most likely come from water threads snapping and bubbles forming in thirsty tubes.
@@ -116,7 +116,7 @@ The water threads in a tree are stretched tight. If the plant gets very thirsty,
 - **Other scientists:** The clicks are most likely a side effect of bubbles forming, like the creak of a floor, and not a message. The question is still open.
 ### Pipes let plants grow tall · *idea*
 The first plants on land were small and flat, like mosses today. They had no stiff, strong water tubes. So they had to stay low, close to damp ground, and soak water up through their whole body. Fossils show that by about 430 million years ago some small plants had simple water tubes. Later, plants used a tough material called lignin to make their tubes and stems stiff. Lignin is what makes wood hard. With strong pipes, plants could grow upwards and reach the light above their neighbours. By about 385 million years ago, the first forests of tall trees had grown. Scientists agree on this broad story from the fossils. The exact dates and order keep changing as new fossils are found.
-- e.g. Moss on a wall in the monsoon stays only a few millimetres tall.
+- e.g. Moss on a wall in the monsoon grows only a few centimetres tall.
 - e.g. A fern has water tubes, and grows much taller than moss.
 - e.g. A banyan tree's hanging roots grow down to the soil and become new pillars that carry water too.
 ### Forests make rain · *debated*
@@ -133,7 +133,7 @@ The higher water has to climb, the harder the pull on the thread. And the harder
 ### Plants and bodies: a pull, not a pump · *defined*
 **Definition:** Your blood is pushed round your body in a loop by your heart. A plant's water goes one way, from root to leaf, pulled from the top by evaporation. Most of the water tubes are dead cells.
 
-You and a plant both need to move water to every part. Your body uses a living pump, your heart, and living pipes, your blood vessels. The blood goes round and round. A plant uses dead, hollow tubes and the pull of the Sun. The water goes one way only, up and out. A plant does have a second set of living tubes, the phloem, that carry sugary food both up and down. Both of you cool off in the same way, though. You sweat. A leaf lets water evaporate.
+You and a plant both need to move water to every part. Your body uses a living pump, your heart, and living pipes, your blood vessels. The blood goes round and round. A plant uses dead, hollow tubes, and the pull of water evaporating in the Sun. The water goes one way only, up and out. A plant does have a second set of living tubes, the phloem, that carry sugary food both up and down. Both of you cool off in the same way, though. You sweat. A leaf lets water evaporate.
 - e.g. When you run, your heart beats faster to push more blood. On a hot day, a plant pulls more water.
 - e.g. Blood keeps going round your body. Water in a plant leaves it, and goes into the sky.
 ### Plants in space, and the water's long journey · *defined*
@@ -148,7 +148,7 @@ On Earth, gravity pulls water down into the soil and around the roots. On the sp
 - Most of the water a plant takes up leaves through tiny holes in its leaves, as vapour. *How we know:* A bag tied over a leafy branch fills with mist and drops. Stephen Hales weighed potted plants in 1727 and found they lost a lot of water each day. Plant scientists estimate that more than 90 out of every 100 drops a plant takes up go back into the air.
 - Water is pulled up from the top, as it evaporates from the leaves. Water molecules hold together in unbroken threads as they rise. *How we know:* Dixon and Joly proposed this in 1894. Since then, scientists have measured the stretching pull inside the water tubes of many plants. Leafy stems pull water up faster than bare ones.
 - A plant wilts when it loses water faster than it can take it in. *How we know:* A wilted plant given water stands up again within hours. Plants droop most on hot, dry afternoons.
-- Sun, warmth, wind and dry air make plants lose water faster. *How we know:* In tests like the sun and shade bag test, the branch in the sun gives off more water. Farmers and gardeners have known this for thousands of years.
+- Sun, warmth, wind and dry air make plants lose water faster. *How we know:* In the Sweating Branch test, the branch in the sun gives off more water than the one in the shade. Gardeners see it every summer: plants in hot sun and wind need watering more often.
 
 ## How we found out
 **Stephen Hales, an English clergyman; Eduard Strasburger, a German botanist; Henry Dixon and John Joly, scientists in Dublin, 1727 (Hales), 1891 (Strasburger) and 1894 (Dixon and Joly).** For a long time, people thought water must be pushed up a plant from below. In 1727, Stephen Hales, an English clergyman, showed that roots really can push. He fixed a tall glass tube to a cut grapevine stump, and sap rose up the tube. Many scientists then thought the roots, or living cells in the stem working like tiny pumps, did all the lifting. In 1891, Eduard Strasburger, a German botanist, tested the pump idea. He stood long cut stems in poison, which climbed up them and killed their living cells. Then he stood the dead stems in coloured liquid. The colour still climbed. So no living pump was needed. In 1894, Henry Dixon and John Joly, in Dublin, explained what does the lifting. Water evaporating from the leaves pulls on the water below it, and the water holds together as one unbroken thread. Root pressure is real, but it is far too weak to lift water to the top of a tall tree.  
@@ -157,7 +157,7 @@ On Earth, gravity pulls water down into the soil and around the roots. On the sp
 ## Challenging perspectives
 - **Plants drink mainly through their leaves, so we should pour water over the leaves.** (A common idea, especially when people water plants from above; *rejected*)  
   For: Leaves do get wet in the rain, and a very little water can soak in through leaves.  
-  Against: Almost all the water a plant uses comes in through its roots. Water poured on the leaves mostly runs off or evaporates. Wet leaves in hot sun or at night can even help some plant diseases. Water the soil, near the roots.
+  Against: Almost all the water a plant uses comes in through its roots. Water poured on the leaves mostly runs off or evaporates. Leaves that stay wet overnight can even help some plant diseases spread. Water the soil, near the roots.
 - **Living cells in the stem pump water up, like tiny hearts.** (Jagadish Chandra Bose, the great Indian scientist, in 1923; *rejected*)  
   For: Bose's very sensitive instruments recorded tiny rhythmic electrical pulses in the living cells of stems. He believed these pulses were the pump.  
   Against: In 1891, Eduard Strasburger killed the living cells in long stems, and liquid still climbed up them. The main water tubes are dead cells anyway. Today almost all plant scientists accept the pulling idea of Dixon and Joly instead. Bose was wrong about this, but right about many other things, like plants sensing touch and injury.
@@ -177,11 +177,11 @@ On Earth, gravity pulls water down into the soil and around the roots. On the sp
 ## Roots
 We have been following one drop of water from a plant's root to its leaf, and into the air. Now we ask what that journey tells us about ourselves and the world.
 
-**Deep truth.** A cut flower has no roots and no pump, yet it lifts coloured water up to its petals. The water is pulled from the top, as the Sun's heat makes it evaporate from the leaves and petals. So the energy for the lift comes from the Sun, not from the plant's food. The plant's work is to keep its water tubes unbroken and to open or close its leaf holes.  
+**Deep truth.** A cut flower has no roots and no pump, yet coloured water still climbs to its petals. Water evaporating from its petals and leaves pulls up the water below, because water molecules attract each other. The energy for this lift comes from the Sun's warmth, not from the plant's food. So the plant does not power the lift, but controls it by opening and closing its leaf holes.  
 *Habit it breaks:* We say a plant 'drinks', as if it sucked water up the way we sip through a straw. But a plant spends none of its food on lifting water. The Sun supplies the energy, and the plant keeps the path open and controls the flow.  
 *Evidence:* In the Blue Climb, a cut stem with no roots carried coloured water up to its petals overnight. In Leafy or Bare, the stem with leaves used much more water than the bare one. In the Sweating Branch, the plant in the sun gave off more water than the plant in the shade.
 
-- *who am i:* You lose water all day in your sweat and your breath, and it cools you. A leaf does the same.
+- *who am i:* Sweat cools you as it evaporates from your skin. A leaf is cooled the same way, as water evaporates from it.
 - *what is life:* A tree has no heart. It uses the Sun's heat to lift its water, and it controls the flow with its leaf holes.
 - *what is this world:* The water a tree lets out joins the air, and can fall as rain on a farm far away.
 
@@ -206,7 +206,7 @@ A drop of water climbs a tree, leaves as vapour, joins a cloud and falls as rain
 - *deep:* You cannot see water climbing inside a stem. So how can you be sure it does? (hint: What did the coloured water show you? What is evidence?)
 - *big:* Thirsty plants make clicks too high for us to hear. What else might be happening around us that our senses miss? (hint: Think of sounds dogs hear, colours bees see, and smells ants follow.)
 - *big:* If all the trees in a forest are cut, the rain can change far away. Who should decide whether a forest is cut? (hint: Think of the farmers who live where the rain falls, and the people who want the wood.)
-- *deep:* Why can moss only grow a few millimetres tall, while a tree can grow taller than a 30-storey building? (hint: What does a tree have inside it that moss does not?)
+- *deep:* Why can moss grow only a few centimetres tall, while a tree can grow taller than a 30-storey building? (hint: What does a tree have inside it that moss does not?)
 - *deep:* Your heart uses energy from your food to push your blood. A tree uses the Sun's heat to lift its water. Where did the energy in your food come from in the first place? (hint: Think about where rice, dal and fruit come from, and what plants need to grow.)
 - *deep:* A banyan tree can live for hundreds of years, drinking every day. How many buckets of water do you think it has lifted in its life? (hint: Think of hundreds of litres a day, for every day of hundreds of years.)
 
@@ -308,7 +308,7 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
   - Think: The drop went back into the soil as rain. Could it go through the same plant again? Could it go through you?
 ### g2 · Open or Close? (15 min)
 - **rules:** Each leaf player puts their two hands together, palms touching. The hands are the two guard cells around a leaf hole.; Open the hole by bending your hands apart into a round shape. Close it by pressing them together.; The caller reads a card. Each leaf decides fast: open or close? Show it with your hands.; The caller asks one leaf to say why. A good reason wins a point.; Open holes let air in for making food, but let water out. Closed holes save water, but let no air in. Think about both.; After 12 cards, the leaf with the most points wins.
-- **Printable cards: 16 condition cards for the caller:** Bright morning sun, soil is wet; Midnight, dark and cool; Hot afternoon, soil is very dry; Gentle sun after rain; A heatwave and no water for a week; Cloudy, damp morning; Night in the desert (you are a cactus); Day in the desert (you are a cactus); Spring morning, a farmer has just watered; Strong dry wind, soil is drying fast; Early evening, cooling down; Bright light in a greenhouse, soil wet; SPECIAL: the roots are torn, the plant cannot drink; SPECIAL: the plant is in a bag, the air inside is full of water; SPECIAL: you are a rice plant standing in a wet field at noon; SPECIAL: you are a cut flower in a vase
+- **Printable cards: 16 condition cards for the caller:** Bright morning sun, soil is wet; Midnight, dark and cool; Hot afternoon, soil is very dry; Gentle sun after rain; A heatwave and no water for a week; Cloudy, damp morning; Night in the desert (you are a cactus); Day in the desert (you are a cactus); Cool morning, a farmer has just watered; Strong dry wind, soil is drying fast; Early evening, cooling down; Bright light in a greenhouse, soil wet; SPECIAL: the roots are torn, the plant cannot drink; SPECIAL: the plant is in a bag, the air inside is full of water; SPECIAL: you are a rice plant standing in a wet field at noon; SPECIAL: you are a cut flower in a vase
 - **Printable score sheet: Leaf score sheet:** Card; Open or close?; Why?; Point
 - **s1 (3 min)**  
   *Parent does:* Show your child how to make a leaf hole with two hands. Bend the hands apart to open, press them together to close.  
@@ -332,21 +332,21 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
 
 ## Experiments
 ### e1 · The Blue Climb: coloured water up a stem (35 min, 2 days)
-- **question:** Does water really travel up a stem to the petals? Where does it go, and how long does it take?
+- **question:** Does water really travel up a stem to the leaves and petals? Where does it go, and how long does it take?
 - **predict:** Before you start, guess. Will the colour go up the stem? Will it reach the petals? How long will it take? Draw your guess, and say why you think so.
-- **fair test:** Stand one flower in coloured water and one in plain water. Use the same kind of flower, cut the same way, in the same place. Only the colour of the water is different. Check both at the same times.
+- **fair test:** Stand one leaf or flower in coloured water and one in plain water. Use the same kind, cut the same way, in the same place. Only the colour of the water is different. Check both at the same times.
 - **safety:** A grown-up does all the cutting. Food colour stains clothes and hands, so put newspaper down.
 - **record:** Fill in the table at each check. Draw the petals or leaf, and the cut end of the stem.
 - **results table:** Time since you started | Where can you see colour? | What the petals or leaf look like | Plain-water flower
-- **schedule:** day 1: Guess, set up the two glasses, and look after 2 hours and before bed. (20 min); day 2: Look in the morning. A grown-up cuts the stem across. Look for coloured dots. Draw and finish. (15 min)
+- **schedule:** day 1: Guess, set up the two glasses, and look after 2 hours and before bed. (20 min); day 2: Look the next day. A grown-up cuts the stem across. Look for coloured dots. Draw and finish. (15 min)
 - **s1 (4 min)**  
-  *Parent does:* 1. Fill both glasses halfway with water. 2. Stir about half a teaspoon of food colour into one glass, until it is dark. 3. Ask your child to guess what will happen, and why, and to draw the guess.  
-  *Parent says:* This glass has coloured water and this one has plain water. We'll stand a white flower in each. What will happen to the flower in the coloured water? Why do you think so? Draw your guess.  
-  *Child mode:* Put water in two glasses. Add lots of colour to one. What will happen to a white flower in it? Why? Draw your guess.
+  *Parent does:* 1. Fill both glasses halfway with water. 2. Stir food colour into one glass until it is as dark as ink. Use about 1 teaspoon of liquid colour, or 2 big pinches of powder. 3. Ask your child to guess what will happen, and why, and to draw the guess.  
+  *Parent says:* This glass has coloured water and this one has plain water. We'll stand a pale leaf or a white flower in each. What will happen to the one in the coloured water? Why do you think so? Draw your guess.  
+  *Child mode:* Put water in two glasses. Add lots of colour to one. What will happen to a pale leaf or white flower in it? Why? Draw your guess.
   - Ask: Where do you think the colour will go? (good: Up the stem.; Into the petals.; It will stay in the glass.)
   - Note: Any guess is fine. A child who says 'it will stay in the glass' has a clear idea that we can test. Do not correct it yet. Use plenty of colour, because pale water gives a result too faint to see.
 - **s2 (4 min) · grown-up needed**  
-  *Parent does:* 1. Hold the bottom of each stem under water in a bowl. Cut about 2 cm off it at a slant, under the water. 2. Stand one stem in each glass straight away. 3. Write down the time. 4. Put both glasses in a bright, airy place out of direct sun, such as near an open window or a fan.  
+  *Parent does:* 1. Hold the bottom of each stem under water in a bowl. Cut about 1 to 2 cm off it at a slant, under the water. 2. Stand one stem in each glass straight away. 3. Write down the time. 4. Put both glasses in a bright, airy place out of direct sun, such as near an open window or a fan.  
   *Parent says:* I'm cutting the stems under water, so no air gets into the tubes inside. Air bubbles would block them. Now let's write down the time.  
   *Child mode:* Ask a grown-up to cut the stems under water. Stand one in each glass. Write down the time.
   - Note: Cutting under water is what flower sellers do. A stem cut in the air can take in a little air, which blocks some tubes. Moving air helps the petals lose water, and that pulls the coloured water up faster.
@@ -355,14 +355,14 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
   *Parent says:* Let's look. Can you see colour anywhere yet? Where is it?  
   *Child mode:* After two hours, look closely. Can you see colour? Where is it? Write it down.
   - Ask: Has the plain-water flower changed? (good: No, it is still white.; No. So the colour came from the water.)
-  - Note: In flowers, colour usually shows first as thin lines and at the petal edges, after a few hours. It is often clearest the next morning. In a see-through balsam stem you can watch a coloured line rise. In a cabbage leaf, look at the veins near its top edge. If you see nothing at bedtime, that is normal.
+  - Note: Colour usually shows first as thin lines in the veins and at the petal edges. In a carnation this can take a few hours. In a cabbage leaf, look at the veins near its top edge. It may take most of a day. In a see-through balsam stem you can watch a coloured line rise. If you see nothing at bedtime, that is normal.
 - **s4 (6 min)**  
-  *Parent does:* In the morning, look at the petals or leaves with the magnifying glass. Draw what you see.  
-  *Parent says:* Look at the petals now. Where is the colour darkest? What do the lines look like?  
-  *Child mode:* Good morning! Look at the petals or leaves. Where is the colour darkest? Draw the lines you see.
-  - Note: If there is still no colour, cut 2 cm off each stem under water again and add more colour. Put the glass near a fan or an open window, and look again in the evening. Fresh flowers work best, because old, tired ones drink slowly.
-  - Check: In the Blue Climb, the white petals now have coloured lines and edges. What does that show? → **Water climbed up the stem and spread through tiny tubes into the petals**
-  - Wait: Leave the stems overnight, at least 12 hours.
+  *Parent does:* The next day, look at the petals or the leaf with the magnifying glass. Draw what you see.  
+  *Parent says:* Look at it now. Where is the colour darkest? What do the lines look like?  
+  *Child mode:* Look at the petals or the leaf. Where is the colour darkest? Draw the lines you see.
+  - Note: If there is still no colour after a day, cut 2 cm off each stem under water again and add more colour. Move the glass near a fan or an open window, and look again that evening. Fresh leaves and flowers work best, because old, tired ones drink slowly. Rajnigandha stalks often take up colour too slowly to see at home.
+  - Check: In the Blue Climb, the pale leaf or white petals now have coloured lines. What does that show? → **Water climbed up the stem and spread through tiny tubes into the petals**
+  - Wait: Leave them for a day: at least 12 hours, and up to 24.
 - **s5 (6 min) · grown-up needed**  
   *Parent does:* 1. Cut across the coloured stem about halfway up. For a cabbage leaf, cut across its thick white middle rib. 2. Let your child look at the cut end with the magnifying glass.  
   *Parent says:* Look at the cut end. What do you see? Why do you think the colour is in dots, and not everywhere?  
@@ -371,14 +371,14 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
   - Note: In a flower stem the dots sit in a ring. In a cabbage rib they sit in a row. They are bundles of xylem, the water tubes, and the coloured water climbed only through them. A flower stem is thin, so use the magnifying glass. A cabbage rib shows the dots most clearly.
 - **s6 (3 min)**  
   *Parent does:* Look at the table together. Work out how long the colour took to reach the petals.  
-  *Parent says:* We started at this time. We first saw colour in the petals at this time. How many hours did the water take to climb up to them?  
+  *Parent says:* We started at this time. We first saw colour in the petals or the leaf at this time. How many hours did the water take to climb up?  
   *Child mode:* Look at your table. When did you first see colour? How many hours was that?
   - Think: A neem tree has no glass of coloured water. Its water tubes are hidden in its wood. How could you find out how fast water climbs in a tree?
 - **s7 (6 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water climbs up a stem through tiny tubes and goes into the petals. What I saw: by morning the petals had blue lines and blue edges, and the cut stem had a ring of blue dots. The plain flower stayed white. Why: the water carried the colour with it up the tubes, to the petals, where the water leaves into the air.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water climbs up a stem through tiny tubes and goes into the petals. What I saw: the next day the petals had blue lines and blue edges, and the cut stem had a ring of blue dots. The plain flower stayed white. Why: the water carried the colour with it up the tubes, to the petals, where the water leaves into the air.
 ### e2 · Leafy or Bare? Which stem drinks more? (30 min, 3 days)
 - **question:** Do the leaves help to pull water up a stem? Does a leafy stem drink more than a bare one?
 - **predict:** Guess first. Will a stem with leaves drink more, less, or the same as a stem with its leaves taken off? Why do you think so?
@@ -392,10 +392,10 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
   *Parent says:* We'll put two stems in water. One keeps its leaves. One has its leaves taken off. Which one will drink more water? Why?  
   *Child mode:* Two stems in water. One has leaves. One has none. Which will drink more? Write your guess.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* 1. Cut two similar stems, each about 20 cm long, under water. 2. Pinch all the leaves off one stem. 3. Fill both bottles with the same amount of water. 4. Put one stem in each. 5. Pour a thin layer of oil on the water in each bottle. 6. Mark the water level on each bottle with the marker.  
+  *Parent does:* 1. Cut two similar stems, each about 20 cm long, under water. 2. Pinch all the leaves off one stem. 3. Fill both bottles with the same amount of water, up into the narrow neck. 4. Put one stem in each. 5. Pour a thin layer of oil on the water in each bottle. 6. Mark the water level on each bottle with the marker.  
   *Parent says:* The oil is a lid. It stops water drying straight out of the bottle. So any water that goes must go through the stem.  
   *Child mode:* Ask a grown-up to cut two stems. Pinch the leaves off one. Put each in a bottle. Add a little oil on top. Mark the water level.
-  - Note: Use the narrowest bottles you have. In a wide glass, the same amount of water makes only a tiny drop in the level.
+  - Note: Keep the water level in the narrow neck of the bottle. In a wide part, the same amount of water makes only a tiny drop in the level.
   - Check: In the Leafy or Bare test, why do we pour oil on top of the water? → **So water can't evaporate from the bottle itself, only through the stem**
 - **s3 (5 min)**  
   *Parent does:* 1. The next day, mark the new water level on each bottle. 2. Measure the drop from the first mark, in millimetres. 3. Write it in the table.  
@@ -455,24 +455,24 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: leaves let out more water in the sun. What I saw: the sunny bag had about 2 teaspoons of water. The shady bag had less than half a teaspoon. Why: the sun warms the leaves and makes the water evaporate faster, so more water leaves through the leaf holes.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: leaves let out more water in the sun. What I saw: the sunny bag had about a teaspoon of water. The shady bag had only a few drops. Why: the sun warms the leaves and makes the water evaporate faster, so more water leaves through the leaf holes.
 
 ## Activities
 ### a1 · The Two-Colour Flower (20 min, 2 days)
 - **safety:** Only a grown-up uses the knife. Split the stem slowly, on a chopping board.
 - **record:** Draw the flower before and after. Colour in where each colour went.
-- **schedule:** day 1: Split the stem, stand each half in a different colour, and guess. (12 min); day 2: Look at the flower in the morning, and draw it. (8 min)
+- **schedule:** day 1: Split the stem, stand each half in a different colour, and guess. (12 min); day 2: Look at the flower the next day, and draw it. (8 min)
 - **s1 (6 min) · grown-up needed**  
-  *Parent does:* 1. Cut the bottom of the stem under water. 2. On a chopping board, split the stem lengthways into two halves. Start at the cut end and stop about halfway up. 3. Wrap a bit of sticky tape round the stem just above the split, so it does not split further.  
+  *Parent does:* 1. On a chopping board, split the bottom of the stem lengthways into two halves. Start at the cut end and stop about 8 cm up. 2. Wrap a bit of sticky tape round the stem just above the split, so it does not split further.  
   *Parent says:* I'm splitting the stem into two legs. One leg will stand in blue water, and the other in red.  
   *Child mode:* Ask a grown-up to split the stem into two legs. Put tape above the split so it stops there.
-- **s2 (6 min)**  
-  *Parent does:* 1. Put the two glasses side by side, one blue and one red. 2. Stand one leg of the stem in each glass. 3. Ask your child to guess what the flower will look like in the morning.  
+- **s2 (6 min) · grown-up needed**  
+  *Parent does:* 1. Put the two glasses side by side, one blue and one red. 2. Stand one leg of the stem in each glass. 3. Under the water, snip a little off the end of each leg with the scissors, so no air gets into the tubes. 4. Ask your child to guess what the flower will look like tomorrow.  
   *Parent says:* One leg drinks blue and one drinks red. What will the flower look like tomorrow? Will it go purple? Half and half? Draw your guess.  
-  *Child mode:* Stand one leg in blue water. Stand one in red water. What will the flower look like tomorrow? Draw it.
-  - Wait: Leave overnight.
+  *Child mode:* Stand one leg in blue water and one in red water. Ask a grown-up to snip each end under the water. What will the flower look like tomorrow? Draw it.
+  - Wait: Leave for a day.
 - **s3 (8 min)**  
-  *Parent does:* In the morning, look at the flower closely and compare it with the guess.  
+  *Parent does:* The next day, look at the flower closely and compare it with the guess.  
   *Parent says:* Look! Which side is blue, and which side is red? Did the colours mix?  
   *Child mode:* Look at your flower. Is it purple? Or is one side blue and one side red?
   - Check: A white flower's stem was split, and each half stood in a different colour. The flower came out half blue and half red. What does that show? → **The tubes from each half of the stem go to their own part of the flower**
@@ -481,12 +481,12 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
 - **safety:** Walk slowly on the stairs and hold the railing. Do not pull hard on anyone's arms.
 - **record:** Draw the chain of water people on the stairs, with the top one floating off as vapour.
 - **s1 (4 min)**  
-  *Parent does:* Everyone stands in a line up the stairs, holding hands. The bottom person is in the soil. The top person is at the leaf hole.  
+  *Parent does:* Everyone stands in a line up the stairs, holding hands. The bottom person is at the root. The top person is at the leaf hole.  
   *Parent says:* We are water molecules inside one tiny tube in a stem. We hold hands, because water sticks to itself. The bottom of the stairs is the root. The top is a leaf.  
   *Child mode:* Stand in a line up the stairs. Hold hands. You are water inside a stem. The top of the stairs is the leaf.
 - **s2 (5 min)**  
   *Parent does:* 1. The top person lets go and walks away, waving: they have evaporated into the air. 2. Everyone steps up one stair. 3. A new person, or a toy, joins at the bottom. 4. Repeat a few times.  
-  *Parent says:* The sun warms the leaf. The top drop evaporates and floats away. Everyone steps up. A new drop comes in at the roots. That's how water climbs!  
+  *Parent says:* The sun warms the leaf. The top molecule evaporates and floats away. Everyone steps up. A new molecule comes in at the root. That's how water climbs!  
   *Child mode:* The top person waves and floats away. Everyone steps up one stair. Someone new joins at the bottom. Again!
   - Ask: Who pulled everyone up? (good: The one who left at the top.; The sun, by making the top one evaporate.)
   - Note: This is the cohesion-tension idea. Evaporation at the leaf pulls on the whole chain. The chain holds because water molecules cling to each other.
@@ -507,7 +507,7 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
   *Parent does:* Leave a small bunch of coriander out of the fridge for a few hours until it wilts. Feel it with your child.  
   *Parent says:* Feel these leaves. They are soft and floppy. Why do you think they have gone like this?  
   *Child mode:* Touch the floppy coriander. Is it soft or crisp? Why do you think it drooped?
-  - Ask: Why has it wilted? (good: It lost water.; It has no roots to drink with.; The water left through the leaves.)
+  - Ask: Why has it wilted? (good: It lost water.; It is out of the soil, so it cannot drink.; The water left through the leaves.)
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. Hold the stems under water in the bowl. 2. Snip about 1 cm off the bottoms, under the water. 3. Stand the bunch in the glass of cool water straight away.  
   *Parent says:* We cut under water, so no air bubbles get into the tubes. Now the leaves can pull water up again.  
@@ -516,7 +516,7 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
 - **s3 (5 min)**  
   *Parent does:* After an hour, feel and look at the bunch again. Compare with the drawing.  
   *Parent says:* Feel it now. What changed? Where did the stiffness come from?  
-  *Child mode:* After one hour, touch it again. Is it crisp now? Where did the water go?
+  *Child mode:* After one hour, touch it again. Is it crisp now? How did the water get into the leaves?
   - Check: The wilted coriander stood in water for an hour and became crisp again. Why? → **Water went up the stems and filled the cells, so they pushed against each other and stood firm**
 - **s4 (3 min)**  
   *Parent does:* Talk about how flower and vegetable sellers keep things fresh.  
@@ -534,7 +534,7 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
   - Note: Tiny silver bubbles should appear within a minute, mostly on the underside. If you see very few, try a thicker leaf, or hotter water.
 - **s2 (4 min)**  
   *Parent does:* 1. Turn the leaf over and compare the two sides. 2. Count the bubbles on each side for one minute.  
-  *Parent says:* The hot water makes the air inside the leaf swell and come out through the tiny holes. Which side has more holes?  
+  *Parent says:* Turn the leaf over. Which side has more bubbles? Where do you think this air was hiding?  
   *Child mode:* Count the bubbles on each side for one minute. Which side has more?
   - Check: A leaf held under hot water gives off tiny bubbles, mostly from its underside. Why? → **Air inside the leaf swells in the hot water and escapes through tiny holes, which are mostly on the underside**
 - **s3 (6 min) · grown-up needed**  
@@ -551,7 +551,7 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
   *Child mode:* Dip the end of a paper strip into coloured water. Watch it climb! Measure how high it goes in 10 minutes.
   - Ask: Did it keep climbing for ever? (good: No, it slowed down and stopped.; It only went a few centimetres.)
 - **s2 (8 min)**  
-  *Parent does:* 1. Drink a little water through one straw. 2. Tape two straws end to end, and try again. 3. Keep adding straws, and taping the joins tightly, until it gets very hard.  
+  *Parent does:* 1. Put the glass of water on the floor. 2. Drink a little through one straw, held straight up. 3. Tape two straws end to end, and try again. 4. Keep adding straws, and taping the joins tightly, until it gets very hard.  
   *Parent says:* Sucking takes air out of the straw. Then the air outside pushes the water up. Let's see how long a straw you can still drink from.  
   *Child mode:* Drink through one straw. Now tape two straws together and try. Then three. When does it get too hard?
   - Note: Tape every join well, because leaks of air make it fail early. Many children manage 3 to 5 straws. Even a perfect pump could only lift water about 10 metres this way.
@@ -674,7 +674,7 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
    **Answer:** The roots. *Why:* Roots, and especially their tiny root hairs, soak up water from the soil. Picking 'leaves' usually comes from seeing people water plants from above. Leaves let water out. They do not take much in.
 3. (fill) The tiny water tubes inside a stem are called ____.  
    **Answer:** ['xylem']. *Why:* Xylem tubes carry water from the roots up to the leaves and flowers.
-4. (mcq) A white flower stood in blue water overnight. In the morning its petals had blue edges. What does this show?  
+4. (mcq) A white flower stood in blue water for a day. Then its petals had blue edges. What does this show?  
    Options: The flower made blue paint / Water travelled up the stem into the petals / The blue soaked through the air / The flower was ill  
    **Answer:** Water travelled up the stem into the petals. *Why:* The colour can only reach the petals by travelling with the water, up the stem. Picking 'soaked through the air' usually means not noticing that the petals never touched the blue water.
 5. (truefalse) Most of the water a plant takes in leaves again through tiny holes in its leaves.  
@@ -737,7 +737,7 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
 12. (mcq) In the Water Chain play, one person in the middle let go of hands. Why did the people below them stop moving up?  
    Options: They were tired / Nothing was pulling them any more, like a broken thread of water / The roots stopped pushing / The sun went down  
    **Answer:** Nothing was pulling them any more, like a broken thread of water. *Why:* The pull from the top only travels along joined hands. An air bubble breaks a real water thread in the same way. Picking 'the roots stopped pushing' means thinking roots do the main work.
-13. (truefalse) Mosses are small partly because they have no proper water tubes.  
+13. (truefalse) Mosses stay small partly because they have no stiff, strong water tubes like a tree's.  
    **Answer:** True. *Why:* True. Without strong tubes to carry water up, mosses stay low, close to damp ground.
 14. (write) Why does a plant need its leaf holes open, even though water escapes through them?  
    **Answer:** The plant needs air to come in through the holes, so the leaves can make food. When the holes open, water vapour escapes too. The escaping water also pulls more water up and cools the leaf.. *Why:* A good answer says the holes let air in for making food, and water escapes at the same time.
@@ -752,10 +752,10 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
    **Answer:** He was a great scientist who was wrong about one idea, as all scientists sometimes are. *Why:* Being wrong about one idea is a normal part of science. Bose made great discoveries about how plants sense and respond, and about radio waves. Picking 'bad scientist' means thinking good scientists are never wrong. Science moves forward by testing ideas, including great people's ideas.
 3. (mcq) A suction pump can lift water about 10 metres. The tallest tree, Hyperion, is about 116 metres. About how many times taller is the tree than the suction limit?  
    Options: About 2 times / About 12 times / About 100 times / About 1,000 times  
-   **Answer:** About 12 times. *Why:* 116 divided by 10 is 11.6, which is nearly 12. So the tree is about 12 times taller than the suction limit. Picking 100 times usually comes from adding the zero of 10 to the answer by mistake.
+   **Answer:** About 12 times. *Why:* 116 divided by 10 is 11.6, which is nearly 12. So the tree is about 12 times taller than the suction limit. Picking 100 times would need a tree about 1,000 metres tall.
 4. (mcq) In 2023, scientists recorded thirsty tomato plants making tiny clicks. What do most scientists think causes the clicks?  
    Options: The plant is crying for help on purpose / Water threads snapping and air bubbles forming in the tubes / Insects inside the stem / Wind  
-   **Answer:** Water threads snapping and air bubbles forming in the tubes. *Why:* When a plant is very thirsty, its water threads are stretched very hard. Some snap, and a tiny air bubble forms with a click. Picking 'crying for help on purpose' is a big question nobody has answered. Whether the plant means something by it is still open.
+   **Answer:** Water threads snapping and air bubbles forming in the tubes. *Why:* When a plant is very thirsty, its water threads are stretched very hard. Some snap, and a tiny air bubble forms with a click. Picking 'crying for help on purpose' goes further than the evidence. Nobody knows yet whether the plant means anything by the clicks.
 5. (truefalse) Scientists all agree on exactly how much of the rain over land comes from water that plants send up.  
    **Answer:** False. *Why:* False. One study in 2013 said plants send up about 80 to 90 out of every 100 drops rising from land. Later studies said about 60. They agree it is a big share, but not on the exact amount.
 6. (mcq) A redwood's leaves at the very top are much smaller than its lower leaves. What might that tell scientists?  
@@ -776,7 +776,7 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
 12. (mcq) Why is the air under a big neem tree cooler than in a sunny car park, even apart from the shade?  
    Options: Water evaporating from the leaves takes heat away, like sweat drying on skin / Trees are made of ice / Leaves blow cold air like a fan / Neem is a cold plant  
    **Answer:** Water evaporating from the leaves takes heat away, like sweat drying on skin. *Why:* Turning water into vapour takes heat energy. The leaves give it up, so they and the air around them cool down. Picking 'blow like a fan' is close, because moving leaves do stir the air, but the main cooling is evaporation.
-13. (mcq) In Be Stephen Hales, a plant weighed 480 grams on Tuesday and 466 grams on Wednesday, a cloudy day. On Monday to Tuesday, a sunny day, it lost 32 grams. Which day did it lose more, and why?  
+13. (mcq) In Be Stephen Hales, a plant lost 32 grams from Monday to Tuesday, a sunny day. It weighed 480 grams on Tuesday and 466 grams on Wednesday, a cloudy day. On which day did it lose more water, and why?  
    Options: The sunny day, because water evaporates faster in sun / The cloudy day, because clouds pull water / Both the same / The cloudy day, because it was 14 grams  
    **Answer:** The sunny day, because water evaporates faster in sun. *Why:* 480 take away 466 is 14 grams on the cloudy day, less than 32 grams on the sunny day. Sun makes leaves lose water faster. Picking 'the cloudy day, because it was 14 grams' means finding the right number but comparing it the wrong way.
 14. (write) The water in your glass may once have been inside a dinosaur, a cloud and a tree. Explain how the same water could have been in all three.  
@@ -891,14 +891,14 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
 ## Jokes
 - Why did the white flower go to the party in blue? *It was feeling a bit off-colour.*
 - What did the root say to the leaf? *I'll get the water. You keep it moving!*
-- Why are trees never lonely? *They always have a lot of water threads holding hands.*
+- Why did the white rose look sad after a night in blue water? *It was feeling blue.*
 - Why did the plant open its leaf holes? *It wanted to let off some steam.*
 - What is a tree's favourite drink? *Root beer, of course.*
 - Why did the wilted coriander feel better after a drink? *It was finally back on its feet.*
 - What did the water drop say at the top of the tree? *What a climb! I'm out of here.*
 - Why did the flower seller cut stems under water? *She didn't want any bubble trouble.*
 - How do trees get on the internet? *They log in.*
-- What do you call a sad plant? *A wilt-ing violet.*
+- Why did the plant droop on a hot afternoon? *It just couldn't stand the heat.*
 - Why was the bare stem so quiet? *It had nothing to leaf out.*
 - Why did the leaf go to the doctor? *It was feeling a little transpired.*
 - What did the cactus say to the neem tree on a hot day? *Keep your holes shut, it's a scorcher!*
@@ -916,7 +916,7 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
 
 ## Connected maths
 - In the Blue Climb, the colour climbed 3 cm up a balsam stem in the first hour. If it kept climbing at the same speed, how high would it be after 4 hours? Look at the line chart. **12 cm.**. Each hour adds 3 cm. After 4 hours that is 4 lots of 3 cm. 3 + 3 + 3 + 3 = 12, or 4 × 3 = 12. So the colour would be 12 cm up the stem. Real stems may speed up or slow down, which is why we measure instead of only working it out. (queues `math.multiplication.equal-groups.L3`)
-- In the Leafy or Bare test, the leafy stem's water was at 95 mm on the ruler at the start. Two days later it was at 77 mm. The bare stem's went from 95 mm to 92 mm. How much did each one drop? How much more did the leafy stem drink? **The leafy stem's water dropped 18 mm and the bare stem's 3 mm. The leafy stem drank 15 mm more.**. For the leafy stem, 95 take away 77 is 18 mm. For the bare stem, 95 take away 92 is 3 mm. Then 18 take away 3 is 15. So the leafy stem drank 15 mm more of water. 18 divided by 3 is 6, so it drank 6 times as much. (queues `math.addition-subtraction.written-methods.L3`)
+- In the Leafy or Bare test, the leafy stem's water was at 95 mm on the ruler at the start. Two days later it was at 77 mm. The bare stem's went from 95 mm to 92 mm. How much did each one drop? How much more did the leafy stem drink? **The leafy stem's water dropped 18 mm and the bare stem's 3 mm. The leafy stem drank 15 mm more.**. For the leafy stem, 95 take away 77 is 18 mm. For the bare stem, 95 take away 92 is 3 mm. Then 18 take away 3 is 15. So the leafy stem's water went down 15 mm more. 18 divided by 3 is 6, so it drank 6 times as much. (queues `math.addition-subtraction.written-methods.L3`)
 - Look at the ruler in the picture. It measures the water level in the Leafy or Bare bottle. The big numbers are centimetres. The small marks between them are millimetres. What is the reading, in millimetres? **77 millimetres, which is 7 centimetres and 7 millimetres.**. The water is past the 7 cm mark, and 7 small marks further on. Each centimetre has 10 millimetres, so 7 cm is 70 mm. 70 + 7 = 77 mm. (queues `math.measurement-basics.reading-scales.L3`)
 - In Be Stephen Hales, a plant was weighed each day. It weighed 512 g on Monday, 480 g on Tuesday, 466 g on Wednesday and 428 g on Thursday. How much water did it let out each day? Draw a bar chart. Which day did it lose the most? **32 g, then 14 g, then 38 g. It lost the most from Wednesday to Thursday.**. Take each day's weight from the day before. 512 take away 480 is 32. 480 take away 466 is 14. 466 take away 428 is 38. Draw a bar for each. The tallest bar, 38 g, is Wednesday to Thursday. In the made-up example, that was the windy day. (queues `math.data.bar-charts.L3`)
 - A big tree lets out about 200 litres of water on a hot day. A bucket holds 10 litres. How many buckets is that? How many buckets in one week of hot days? **20 buckets in a day, and 140 buckets in a week.**. 200 divided by 10 is 20, so 20 buckets in a day. A week has 7 days. 20 × 7 = 140. So 140 buckets in a week, all lifted by the Sun, with no pump and no heart. (queues `math.division.sharing-and-grouping.L3`)
@@ -949,7 +949,7 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 ## Warm-up
 - Which part of a plant soaks up water? → The roots, with their tiny root hairs.
 - What are the water tubes in a stem called? → Xylem.
-- A white flower stands in blue water overnight. What happens? → Its petals get blue edges and lines, because the water climbs up the stem.
+- A white flower stands in blue water for a day. What happens? → Its petals get blue edges and lines, because the water climbs up the stem.
 - Water leaving the leaves as vapour is called ____. → Transpiration.
 - Does a leafy stem or a bare stem drink more? → The leafy stem.
 - Sun or shade: where does a branch give off more water? → In the sun.

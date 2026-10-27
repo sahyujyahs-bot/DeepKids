@@ -1,4 +1,4 @@
-# Properties of materials: how to describe, compare and measure them
+# Properties of materials: what a material is like, and how to test it
 `sci.materials.properties.L3`
 
 **Summary.** A steel spoon feels colder than a wooden spoon, yet a thermometer shows they are at the same temperature. So touching is a start, but testing tells you more. A property is what a material is like, such as hard, flexible, shiny or waterproof. You find a property by looking, touching, listening and testing, and you can measure many of them as a number. Every material has many properties, and the job decides which ones matter. Some properties change with the conditions: damp paper is much weaker than dry paper. Properties come from a material's atoms and how they are joined.
@@ -103,7 +103,7 @@ Cotton, paper and sponge are full of tiny gaps between fibres. Water is pulled i
 
 Look at a drop on a leaf. Its surface holds together like a thin skin. That is why a needle can float on still water, and why a pond insect can walk on it. About 135 years ago, a woman called Agnes Pockels, who lived in Germany, measured this skin in her kitchen. Women in Germany were not allowed to study at university then. She used a tin tray, a balance and a small button. She found that a drop of oil or soap on the water changes its skin. In 1891 she wrote to Lord Rayleigh, a famous British physicist. He helped her get her work printed in the journal Nature. Later, the American scientist Irving Langmuir built on her kind of tray, and he won a Nobel Prize in 1932. She did not. The unit Testing materials tells more of her story.
 - e.g. A water strider insect stands on a pond without sinking.
-- e.g. A drop of dish soap makes the skin weaker, so a floating pepper pinch runs away from it.
+- e.g. A drop of dish soap makes the skin weaker, so pepper sprinkled on the water rushes away from it.
 - e.g. Soap lets water soak into cloth, because it weakens the skin.
 ### Conductors and insulators of heat · *defined*
 **Definition:** A conductor of heat lets heat flow through quickly. An insulator lets it flow slowly.
@@ -137,13 +137,13 @@ A diamond and the black lead of a pencil are both made only of carbon atoms. Yet
 **Definition:** A rubber band is made of very long, tangled chains of atoms. They uncoil when pulled and tangle up again when let go.
 
 Rubber comes from the milky sap of the rubber tree. The sap is made of very long chains of atoms, like a bowl of cooked noodles. When you pull the band, the noodles straighten out. When you let go, they tangle up again, because a tangle is the more likely arrangement. Here is a strange fact. Stretch a thick rubber band fast, then touch it to your lip. It feels warm. Let it go quickly and it feels cool. Stretching and tangling change how the atoms jiggle, and that changes the heat.
-- e.g. Rubber tyres, chappals and balloons are all stretchy.
+- e.g. Rubber bands, balloons and the straps of rubber chappals are all elastic.
 - e.g. A hair tie stretches and springs back many times, until the chains wear out.
 - e.g. A balloon feels slightly warm just after you stretch it, if you hold it to your lip.
 ### Properties change: thickness, wetness and heat · *defined*
 **Definition:** A property is not always the same. It can change when the thickness, the wetness or the temperature changes.
 
-One sheet of butter paper is translucent. A tall stack is opaque. A strip of toilet paper can hold several cups of water when dry, but almost none when damp. A cotton thread, in the same test, gets a little stronger when damp. Warm wax is soft and cold wax is hard. A blacksmith heats iron until it glows, and then it is soft enough to hammer. This is why a good scientist always writes down how the test was done. 'This thread held 11 shells' means little. 'This thread, as long as my forearm, in the damp morning air, held 11 shells' means a lot.
+One sheet of butter paper is translucent. A tall stack is opaque. A strip of toilet paper can hold up a bag with a few cups of water in it. When its middle is damp, the same strip tears with almost no water in the bag. A cotton thread does not get weaker when damp. Careful tests show it gets a little stronger. Warm wax is soft and cold wax is hard. A blacksmith heats iron until it glows, and then it is soft enough to hammer. This is why a good scientist always writes down how the test was done. 'This thread held 11 shells' means little. 'This thread, as long as my forearm, in the damp morning air, held 11 shells' means a lot.
 - e.g. Wet paper is much weaker than dry paper.
 - e.g. Chocolate is hard in the fridge and soft in your hand.
 - e.g. Glass is hard and brittle at room temperature, but a glassblower shapes it when it glows.
@@ -201,15 +201,15 @@ Your bones are a material your body builds and repairs. Bone is made of a hard m
 ## Roots
 We have been testing what materials are like, and found that some properties change with water and heat. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** A dry strip of toilet paper can hold up a bag with several cups of water in it. Damp its middle with a wet finger, and it tears with almost no water in the bag. Cotton thread gets a little stronger when damp. So 'strong' is never a fixed fact about a material, only a fact about it in certain conditions.  
-*Habit it breaks:* We say 'paper is strong enough' or 'cotton is strong' as if strength were part of the material's name. But the same strip goes from strong to weak with a few drops of water, so every property needs a 'when' and a 'where'.  
-*Evidence:* In the Dry or Damp test, a toilet paper strip held cups of water when dry and almost nothing when damp, while cotton thread held as much or more. In the story, threads held more shells in the damp dawn than at dry noon.
+**Deep truth.** A dry strip of toilet paper can hold up a bag with water in it. Wet its middle with a fingertip, and the same strip tears with almost no water in the bag. Damp cotton thread does not get weaker, and often gets a little stronger. So how strong a material is depends on its surroundings, not only on what it is made of.  
+*Habit it breaks:* We say 'paper is strong enough' or 'cotton is strong' as if strength were part of the material's name. But the same strip goes from strong to weak with a few drops of water, so a property needs a 'when' and a 'where'.  
+*Evidence:* In the Dry or Damp test, a dry toilet paper strip held a bag with one or more cups of water, and a damp one tore with almost none. Cotton thread held about as much, or a little more, when damp. In the story, threads held more shells in the damp dawn than at dry noon.
 
-- *who am i:* Your body is made of materials too. Your skin bends and stretches when it is damp, and can crack when it is very dry.
+- *who am i:* Your body is made of materials too. Your skin stretches easily when it is damp, and can crack when it is very dry.
 - *what is life:* Life makes its own materials. Your body grows bone, hair and the clear lens of your eye, and mends them.
 - *what is this world:* The world is full of materials whose properties change with heat, cold and water. A path that is firm today can be mud after rain.
 
-DeepKids believes that one source shows up as everything there is. In materials you can see a small part of how this works. Diamond and pencil lead are both only carbon atoms, joined in two different patterns. Paper and cotton are both made of the same plant fibre, called cellulose, yet water weakens one and not the other. The many different materials around us are a few kinds of atom, arranged and joined in many ways.
+DeepKids believes that one source shows up as everything there is. In materials you can see a small part of how this works. Diamond and pencil lead are both only carbon atoms, joined in two different patterns. Paper and cotton thread are both made mostly of cellulose, the substance of plant fibres. Yet water weakens paper and not thread, because their fibres are held together in different ways. The many materials around us are a few kinds of atom, arranged and joined in many ways.
 
 - **Chandogya Upanishad 6.13:** Uddalaka gives his son Shvetaketu a lump of salt and tells him to put it in water. In the morning the salt cannot be seen. But when Shvetaketu tastes the water from the top, the middle or the bottom, it is salty everywhere. Uddalaka says the finest part of everything is like this: unseen, yet everywhere. (You cannot see the atoms in a steel spoon or a strip of paper. But every property you tested, hard, shiny or strong, comes from them and how they are joined.)
 - **Nagarjuna, Mulamadhyamakakarika, chapter 24, verse 18:** Nagarjuna, a Buddhist teacher of about the 2nd century CE, taught that nothing exists all alone. Everything is what it is because of other things. (The strength you measured depended on other things: the thread on the damp air, the paper on whether it was dry. Hard means harder than something else.)
@@ -410,10 +410,10 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What you think, what you saw, and why.
   - Note: A good answer sounds like this. What I think: the corrugated card is the most rigid and the cloth is the most flexible. What I saw: the card dropped 1 centimetre and the cloth hung straight down at 10. Why: thick card has many layers of fibres pressed together, and cloth threads can slide and fold.
-### e3 · Dry or Damp? Does water change how strong it is? (35 min)
+### e3 · Dry or Damp? Does water change how strong it is? (40 min)
 - **question:** When paper or cotton thread gets damp, does it get stronger, weaker or stay the same?
 - **predict:** For each of the three materials, guess: will the damp one hold more cups of water than the dry one, fewer, or the same? And why do you think so?
-- **fair test:** To make it fair, cut each kind of strip to the same size every time. Hang it the same way. Pour in the same small cup of water, one cup at a time. Make every damp strip damp in the same way, by touching its middle with a wet fingertip. Test each one twice.
+- **fair test:** To make it fair, cut each kind of strip to the same size every time, and cut the newspaper strips in the same direction. Hang every strip the same way. Pour with the same cup, one cupful at a time. Make every damp strip damp in the same way, right across its middle with a wet fingertip. Test each one twice.
 - **safety:** Stand the bucket under the bag, so the water falls into it. Wipe up any spills at once, so no one slips. Keep the bag away from babies and toddlers.
 - **record:** Fill in the table. In the last column, write weaker, stronger or about the same.
 - **results table:** Material | Dry: cups held | Damp: cups held | What changed?
@@ -426,28 +426,28 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent does:* 1. Put two chairs back to back, a little apart. Lay the broom handle across their backs. 2. Wrap the top of a dry toilet paper strip once round the handle, and tape it to itself. 3. Wrap the bottom end round the pencil and tape it. 4. Hang the bag's two handles on the two ends of the pencil. 5. Stand the bucket under the bag.  
   *Parent says:* The bag hangs from the strip. We pour in water one cup at a time. The more cups it holds before it tears, the stronger the strip.  
   *Child mode:* Hang the strip from the stick. Hang the bag from the pencil. Put the bucket below.
-  - Note: For the thread, tie one end to the broom handle and the other end to the middle of the pencil. If the tape slips instead of the strip tearing, do not count that try. Tape it more firmly and start again.
+  - Note: For the thread, fold one piece in half. Put the pencil through the loop at the bottom. Tie the two loose ends round the broom handle with a double knot. Two strands make the thread strong enough to hold at least a cup. If the tape slips instead of the strip tearing, do not count that try. Tape it more firmly and start again.
 - **s3 (12 min)**  
   *Parent does:* 1. Fill the cup to the brim and pour it gently into the bag. Count out loud. 2. Keep adding one cup at a time. 3. When the strip tears, write down how many cups were in the bag. 4. Empty the bag and test the second dry strip. 5. Then test the dry newspaper and the dry thread the same way, twice each.  
   *Parent says:* Pour gently, so the bag does not swing. Count each cup out loud. When the strip tears, write down the number.  
   *Child mode:* Pour one cup at a time and count. Write the number when it tears.
-  - Note: If the thread holds 10 cups and is still there, write 'more than 10' and stop, because the bag may get too full. Pouring with a jerk can tear a strip early. Pour slowly, every time.
-- **s4 (8 min)**  
-  *Parent does:* 1. Hang a new dry strip with the empty bag, as before. 2. Dip a fingertip in the bowl of water. 3. Touch the middle of the strip until about 3 centimetres of it looks dark and damp. For the thread, run a wet finger along it. 4. Wait one minute. 5. Pour in water, one cup at a time, and write the number when it tears. 6. Do each material twice.  
+  - Note: If a strip or thread holds 10 cups and is still there, write 'more than 10' and stop, because the bag may get too full. Pouring with a jerk can tear a strip early. Pour slowly, every time.
+- **s4 (10 min)**  
+  *Parent does:* 1. Hang a new dry strip with the empty bag, as before. 2. Dip a fingertip in the bowl of water. 3. Dab the middle of the strip, right across from edge to edge. Stop when a band about 3 centimetres tall looks dark and damp. For the thread, run a wet finger along the middle of both strands. 4. Wait one minute. 5. Pour in water, one cup at a time, and write the number when it tears. 6. Do each material twice.  
   *Parent says:* Now we make the middle of each strip damp, not dripping. Then we pour, just like before. Watch what happens.  
   *Child mode:* Wet your fingertip. Touch the middle of the strip. Then pour and count.
-  - Note: If a damp toilet paper strip tears before any water goes in, write 0. That is a real result. We hang the strip first and dampen it after, because a damp strip is hard to hang without tearing.
+  - Note: Make the damp band go right across the strip. If one edge stays dry, the dry part still holds the bag. If a damp toilet paper strip tears before any water goes in, write 0. That is a real result. We hang the strip first and dampen it after, because a damp strip is hard to hang without tearing.
 - **s5 (4 min)**  
   *Parent does:* Help your child fill in the last column, then compare the changes.  
   *Parent says:* For each material, look at dry and damp. Write weaker, stronger or about the same. Which one changed the most?  
   *Child mode:* Look at dry and damp for each one. Write weaker, stronger or the same.
-  - Note: Toilet paper and newspaper lose most of their strength when damp, because water loosens the joins between their fibres. The thread may hold the same or a little more when damp. Textile scientists find damp cotton is about one tenth to one fifth stronger. A change that small may not show up when you count whole cups. That is an honest result.
+  - Note: Your numbers depend on your paper, your thread and your cup, so they will not match anyone else's. With a cup of about 200 millilitres, expect roughly this. Dry toilet paper holds about 1 to 6 cups, and dry newspaper about 2 to 10. Both damp papers usually tear before the second cup, often before the first. Paper is held together by joins where its fibres touch, and water loosens these joins. The doubled thread usually holds about 2 to 7 cups, dry or damp. Textile scientists find damp cotton is about one tenth to one fifth stronger. A change that small may not show when you count whole cups, so 'about the same' is an honest result.
   - Check: A newspaper strip held 6 cups of water when dry and 1 cup when damp. What can you say? → **Water made the newspaper much weaker**
 - **s6 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What you think, what you saw, and why.
-  - Note: A good answer sounds like this. What I think: water makes paper much weaker, but not cotton thread. What I saw: the dry toilet paper held 4 cups, and the damp one tore with none. The thread held 5 cups dry and 5 damp. Why: water gets between the paper fibres and loosens them. Cotton fibres are long and twisted, and water does not loosen them.
+  - Note: A good answer sounds like this. What I think: water makes paper much weaker, but not cotton thread. What I saw: the dry toilet paper held 4 cups, and the damp one tore with none. The thread held 5 cups dry and 5 damp. Why: paper is held together where its fibres touch, and water loosens those joins. Thread is held together by its twist. Damp cotton fibres swell a little and grip each other harder, so the thread does not get weaker.
   - Think: Damp cotton thread did not get weaker. Why might this matter to someone who spins very fine cotton thread?
 ### e4 · The Vanishing Drop: how fast does it soak in? (25 min)
 - **question:** How many seconds does one drop of water take to vanish on each surface? Which surfaces never let it in?
@@ -502,6 +502,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent says:* Add one sheet at a time and watch the glow. Count the sheets. Stop when the light spot is just gone.  
   *Child mode:* Add one sheet at a time. Count them. Stop when the light is gone.
   - Ask: What do you notice as you add more layers? (good: The light gets dimmer.; The glow gets smaller.; It goes from translucent to opaque.)
+  - Note: If you use up all your sheets and a glow still shows, write 'more than' and the number of sheets. That is a real result. A bright torch may need many sheets.
 - **s3 (6 min)**  
   *Parent does:* Repeat with tissue paper, thin cloth and newspaper. Write down the number of layers for each.  
   *Parent says:* Now do the same with tissue paper, cloth and newspaper. Which one blocks the light with the fewest layers?  
@@ -728,7 +729,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **your turn:** Now invent your own cover. Draw it, make it and test it. How much light did it let in? How well did it hide the person?
 - **constraints:** Most of the light must still come through.; A person standing on the other side must not be seen clearly.; You can only use materials from home.; You must test your cover, not guess.
 - **general:** Stick butter paper or tracing paper over the hole. It is translucent, so it lets in light but blurs the picture.; Layer thin tissue paper, a sheet at a time, until the person is just a shape.; Hang a net or a thin cotton curtain over the window.
-- **creative:** Cut a pattern of small holes, like an Indian jaali screen. Light and air come through, but eyes cannot see a clear picture.; Make a bamboo blind, with thin slats close together. People call these chick blinds in many Indian homes.; Hang a khus tatti, a mat of woven grass. In summer, people sprinkle it with water, and it cools the air that comes through.; Stick thin coloured tissue paper in a pattern, like stained glass, and see what the light does.
+- **creative:** Cut a pattern of small holes, like an Indian jaali screen. Light and air come through, but eyes cannot see a clear picture.; Make a bamboo blind, with thin slats close together. Many Indian homes call these chik blinds.; Hang a khus tatti, a mat of woven grass. In summer, people sprinkle it with water, and it cools the air that comes through.; Stick thin coloured tissue paper in a pattern, like stained glass, and see what the light does.
 - **s1 (5 min)**  
   *Parent does:* 1. Make the cardboard frame with a square hole. 2. Ask your friend to stand on the other side and hold up a picture or a face. 3. Look through the empty frame. Everything is clear.  
   *Parent says:* This is our window. Look through the empty frame. You can see everything. How can we hide the person but keep the light?  
@@ -842,7 +843,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 4. (write) Invent a test for a property we have not tested, such as how sticky a tape is. Say what you would measure, what you would keep the same, and the unit.  
    **Answer:** For stickiness: stick the same length of tape to the same smooth table. Hang a small bag from the free end. Pour in water one spoon at a time until the tape peels off. Keep the tape length, the table and the way I press it the same. The unit is spoons of water.. *Why:* A good test measures one thing, keeps everything else the same, and gives a number with a unit. This is what the testing-materials unit is all about.
 5. (sort) Which property matters most for each job?  
-   **Answer:** A bus window → See-through; A rope for lifting a bucket from a well → Strong; A cloth for wiping a spill → Absorbent; A tea cosy → Insulator of heat; A rubber band → Flexible. *Why:* The job decides the property. The window must let you see out. The rope must not snap. The cloth must soak up water. The tea cosy must keep heat in. The band must stretch.
+   **Answer:** A bus window → See-through; A rope for lifting a bucket from a well → Strong; A cloth for wiping a spill → Absorbent; A tea cosy → Insulator of heat; A rubber band → Elastic. *Why:* The job decides the property. The window must let you see out. The rope must not snap. The cloth must soak up water. The tea cosy must keep heat in. The band must stretch and spring back.
 6. (sort) What happens to each material when it gets damp?  
    **Answer:** Newspaper → Weaker; Toilet paper → Weaker; Plastic carry bag → About the same; Cotton thread → A little stronger. *Why:* Paper loses strength because water loosens the joins between its fibres. Plastic does not take in water, so it stays about the same. Cotton fibres hold together a little better when damp, so cotton gets a little stronger. That is why the spinners in the story worked in the damp morning air.
 7. (write) Long ago, traders in different towns used different weights for a 'kilogram'. Why does science use the same units everywhere?  
@@ -892,13 +893,13 @@ That kind of muslin is no longer made. The last masters grew old, the special co
    **Answer:** Strip B. *Why:* A big drop means the strip bent a lot, so B is more flexible. A drooped only a little, so it is more rigid. Picking A is the common mistake of thinking a smaller number means more flexible.
 5. (mcq) In the dry or damp test, a dry toilet paper strip held 2 cups of water and a dry newspaper strip held 6. How many times as much did the newspaper hold?  
    Options: 3 times / 4 times / 6 times / 2 times  
-   **Answer:** 3 times. *Why:* 6 divided by 2 is 3. So the newspaper held 3 times as much. Picking 2 times or 4 times is a guess. 'How many times' needs division: 2 + 2 + 2 = 6.
+   **Answer:** 3 times. *Why:* 6 divided by 2 is 3. So the newspaper held 3 times as much. 'How many times as much' asks how many 2s make 6. 2 + 2 + 2 = 6, so the answer is 3. Picking 2 times or 4 times is a guess without working it out.
 6. (mcq) Glass is the right material for a window and the wrong one for a bridge. Why?  
    Options: The job decides which properties matter / Glass is a bad material / Bridges are not made of anything / Glass is too hard  
    **Answer:** The job decides which properties matter. *Why:* A window needs to be transparent. A bridge needs to be strong. Glass is transparent but brittle. No property is good or bad by itself. Picking 'glass is a bad material' misses that glass is perfect for its own job.
 7. (mcq) In the story, cotton thread held 14 shells in the damp dawn and 11 at noon. What did Shefali find out?  
    Options: Cotton thread is stronger when it is damp / The shells were heavier at noon / The thread was tired / The river was angry  
-   **Answer:** Cotton thread is stronger when it is damp. *Why:* She kept the thread, the length and the shells the same. Only the dampness changed. A noon thread made damp held 14. So damp makes cotton stronger. Picking 'angry river' or 'tired thread' are guesses with no test behind them.
+   **Answer:** Cotton thread is stronger when it is damp. *Why:* She kept the thread, the length and the shells the same. Only the dampness changed. A noon thread made damp held 14. So damp makes cotton a little stronger. 'Angry river' and 'tired thread' are guesses with no test behind them.
 8. (mcq) A glass bangle is hard to scratch but breaks when dropped. It is…  
    Options: Hard and brittle / Soft and strong / Soft and brittle / Hard and flexible  
    **Answer:** Hard and brittle. *Why:* Hard is about scratching. Brittle is about snapping. Glass is both hard and brittle. Picking 'strong' mixes up hard and strong.
@@ -933,7 +934,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - Cricket bats are made of willow wood, which is strong but a little springy and does not split.
 - Wires are copper or aluminium, because metals carry electricity and heat well. Their covering is plastic, which does not.
 - Jewellers use a heat probe to tell a diamond from glass, because a diamond carries heat much faster.
-- Builders in dry places use clay or stone for thick walls. These are poor conductors of heat, so rooms stay cool.
+- Builders in hot, dry places make thick walls of clay or stone. Heat takes many hours to pass through them, so rooms stay cool in the day.
 - Engineers choose bamboo for scaffolding in India because it is strong and flexible and cheap.
 - Mattresses and pillows use foam or cotton, because soft, springy materials are comfortable.
 - Safety helmets and shoes use hard shells and soft padding, because each material does a different job.
@@ -953,7 +954,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - A cotton towel, a rubber chappal, a steel tumbler and a plastic bucket in one bathroom. Four materials, four jobs.
 
 ## Open questions
-- **What exactly is glass? Is it a solid, a very slow liquid, or something else?** Glass has atoms jumbled like a liquid's but stuck in place like a solid's. In 1995 the physicist Philip Anderson wrote that glass may be the deepest unsolved problem in solid physics. Scientists still argue about why a liquid turns into glass when it cools. And old windows are not flowing.
+- **What exactly is glass? Is it a solid, a very slow liquid, or something else?** Glass has atoms jumbled like a liquid's but stuck in place like a solid's. In 1995 the physicist Philip Anderson wrote that glass may be the deepest unsolved problem in solid physics. Scientists still argue about why a liquid turns into glass when it cools. One old idea is wrong, though: glass does not slowly flow at room temperature. Old windows that are thicker at the bottom were made that way.
 - **Can we work out a material's properties before we make it?** In 2023, a computer program from Google DeepMind predicted 2.2 million new crystals, and 380,000 looked stable. Some chemists said many were not really new or useful. Nobody knows yet how many will turn out to be good materials.
 - **Is there a material harder than diamond?** Computer models say a rare form of diamond with a different atom pattern, called lonsdaleite, could be harder. It is named after Kathleen Lonsdale. In 2014 other scientists said that natural samples are not a separate material. Whether a pure one can be made is still argued.
 - **How does a spider spin silk so tough, from water and a fly's meal, at room temperature?** Scientists have copied the chemical recipe. But nobody has made fibre as good as the real thing in large amounts without a spider.
@@ -972,7 +973,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - What is the most see-through thing you have seen? What is the least?
 - Why is a steel ship able to float when a steel spoon sinks?
 - Which material in your home would you choose to hold up a very heavy shelf? Why?
-- Who first decided that a gold ring should be gold, and not iron? What properties matter for a ring?
+- Why are rings often made of gold, and not iron? Which properties matter for a ring?
 
 ## Jokes
 - Why was the rubber band such a good friend? *It always stretched to help.*
@@ -1006,7 +1007,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 ## Connected maths
 - In the droop test, a thin card strip dropped 3 centimetres. A paper strip dropped 9 centimetres. How many times as far did the paper drop? **3 times.**. The card dropped 3 centimetres and the paper dropped 9. 9 divided by 3 is 3. So the paper dropped 3 times as far. You can check: 3 + 3 + 3 = 9. (queues `math.division.sharing-and-grouping.L3`)
 - In the vanishing drop test, one drop took 2 seconds on paper towel and 6 on cotton cloth. It took 25 on newspaper and 70 on printer paper. Draw a bar chart. Then say which surface is the third most absorbent. **Newspaper is the third most absorbent. Here is the bar chart.**. Draw one bar for each, as tall as its number of seconds. A shorter time means a more absorbent surface. Put the times in order, from shortest to longest: 2, 6, 25, 70. The shortest is the paper towel. The next is the cotton. The third is the newspaper, at 25 seconds. (queues `math.data.bar-charts.L3`)
-- In the dry or damp test, a dry newspaper strip held 8 cups of water. When it was damp, it held only a quarter as much. How many cups did the damp strip hold? **2 cups.**. A quarter of 8 is 8 divided by 4, which is 2. You can check: 2 + 2 + 2 + 2 = 8. So the damp strip held 2 cups, which is 6 fewer than the dry strip. (queues `math.fractions.halves-and-quarters.L3`)
+- In the dry or damp test, a dry newspaper strip held 8 cups of water. A damp strip of the same newspaper held only 1 cup. Is 1 cup more or less than a quarter of 8 cups? **Less than a quarter. A quarter of 8 cups is 2 cups, and the damp strip held only 1.**. A quarter of 8 is 8 divided by 4, which is 2. You can check: 2 + 2 + 2 + 2 = 8. The damp strip held 1 cup, which is less than 2. In fact 1 cup is half of a quarter, or one eighth, of 8 cups. So the damp strip held 7 cups fewer than the dry strip. (queues `math.fractions.halves-and-quarters.L3`)
 - Aarav tested 12 things in the Kitchen Float Lab. 7 floated. How many sank? Of the 7 that floated, 3 were wooden. How many floaters were not wooden? **5 sank, and 4 floaters were not wooden.**. 12 things in all, and 7 floated. 12 take away 7 leaves 5 that sank. Of the 7 floaters, 3 were wooden. 7 take away 3 leaves 4 floaters that were not wooden. You can check: 7 + 5 = 12, and 3 + 4 = 7. (queues `math.data.sorting-and-tallies.L3`)
 - Look at the ruler in the picture. It shows how far a paper strip dropped in the droop test. Each small mark is one centimetre. What is the reading? **7 centimetres.**. The tip of the strip reaches the mark after 6 and before 8. It sits on the mark between them, which is 7. So the strip dropped 7 centimetres. (queues `math.measurement-basics.reading-scales.L3`)
 - In the Property Trumps project, the most flexible strip dropped 10 centimetres. The paper strip dropped 8 centimetres. The best one gets a score of 5. What flexible score out of 5 does the paper get? **4.**. Multiply the paper's drop by 5. 8 times 5 is 40. Then divide by the biggest drop: 40 divided by 10 is 4. So the paper scores 4 out of 5. You can check: 10 times 5 ÷ 10 is 5 for the best strip. (queues `math.division.division-facts.L3`)
@@ -1044,7 +1045,7 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 - Name a material that is absorbent and one that is waterproof. → Absorbent: cotton or sponge. Waterproof: plastic or rubber.
 - Diamond and pencil lead are made of the same atoms. What is the difference? → The atoms are joined in a different pattern.
 - To compare strength fairly, what must you keep the same? → The size and shape of the strip, and the way you test it.
-- Does a thread get stronger or weaker when it is damp? → Cotton thread gets stronger.
+- Does a thread get stronger or weaker when it is damp? → Cotton thread gets a little stronger. Paper gets much weaker.
 - In our story, what did Shefali drop into the cup to test the thread? → Cowrie shells, one at a time.
 - What do we call a material that snaps or shatters instead of bending? → Brittle.
 - Which scale puts minerals in order of hardness? → The Mohs scale.

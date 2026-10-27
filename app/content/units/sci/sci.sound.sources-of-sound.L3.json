@@ -146,7 +146,7 @@
   },
   {
    "term": "Energy",
-   "meaning": "What it takes to make something move, warm up or change. A vibration carries energy. When a sound fades, its energy becomes a tiny bit of warmth.",
+   "meaning": "What it takes to make something move, warm up or change. A vibration carries energy. When a sound fades, its energy becomes a tiny amount of warmth.",
    "example": "A ringing bell slowly goes quiet. Its vibration spreads out into the air as a tiny amount of warmth.",
    "art": "A bell's ring fading into faint warm orange dots in the air."
   }
@@ -189,10 +189,10 @@
    "examples": [
     "A line of coins on a table: flick one coin into the end, and the last coin shoots off. The middle coins hardly move.",
     "A stadium wave: the wave goes all the way round, but every person stays in their seat.",
-    "A candle flame near a loud drum flickers. The air shakes it, but the drum does not blow it out."
+    "A candle flame near a loud drum flickers. The vibrating air makes it flicker, but the drum does not blow it out."
    ],
    "perspectives": [],
-   "art": "A zoom in three steps: a tabla; the air in front of it with dots bunched in bands and spread out in between; one single molecule moving a tiny bit back and forth while the pattern races ahead.",
+   "art": "A zoom in three steps: a tabla; the air in front of it with dots bunched in bands and spread out in between; one single molecule moving a tiny distance back and forth while the pattern races ahead.",
    "context": "Your ear is across the room from the drum. So how does the drum's vibration get to you? This card zooms in to the tiny molecules of air."
   },
   {
@@ -313,7 +313,7 @@
   {
    "concept": "Where does a sound go when it fades?",
    "status": "defined",
-   "definition": "A sound spreads out and gets weaker as it travels. In the end, its energy turns into a tiny bit of warmth in the air and in the things it hits.",
+   "definition": "A sound spreads out and gets weaker as it travels. In the end, its energy turns into a tiny amount of warmth in the air and in the things it hits.",
    "description": "A sound wave carries energy, the power to make things move. As it spreads out from the source, the same energy is shared over a bigger and bigger space. So the sound gets quieter the further away you are. Soft things like cushions, curtains and clothes soak it up quickly. Every push between molecules also loses a little of the neat pattern. The bumping becomes the messy jiggling of molecules, which is heat. The heat from a sound is far too tiny to feel. But the energy never disappears. It only changes from one kind into another.",
    "examples": [
     "A ringing bell slowly goes quiet. Its vibration has spread out into the air and into the bell's own metal.",
@@ -389,7 +389,7 @@
    "claim": "Sound is a thing that flies out of a drum and into your ear.",
    "who": "Many children and grown-ups, without noticing",
    "for": "It feels as if the sound comes towards you from the drum.",
-   "against": "No air travels from the drum to you. Only a pattern of pushes travels. The molecules near your ear were there all along, and only jiggled a tiny bit.",
+   "against": "No air travels from the drum to you. Only a pattern of pushes travels. The molecules near your ear were there all along, and only moved back and forth a tiny distance.",
    "status": "rejected",
    "context": "This card looks at a common way of picturing sound, and why it is not quite right."
   },
@@ -566,7 +566,7 @@
       "A sitar (back: STRING)",
       "A ghatam clay pot drum (back: SOLID, and the air inside)",
       "A mosquito whining (back: BODY, its wings)",
-      "A shehnai (back: AIR, shaken by a reed)",
+      "A shehnai (back: AIR, made to vibrate by a reed)",
       "A guitar (back: STRING)",
       "A damru (back: SKIN)",
       "A dog barking (back: BODY, vocal folds)",
@@ -856,7 +856,7 @@
      "t": "truefalse",
      "p": "When a sound travels across a room, air flies from the drum to your ear.",
      "a": false,
-     "why": "False. The air stays where it is. Each molecule only jiggles a tiny bit and pushes the next. Only the pattern of pushes travels to you."
+     "why": "False. The air stays where it is. Each molecule only moves back and forth a tiny distance and pushes the next. Only the pattern of pushes travels to you."
     },
     {
      "t": "mcq",
@@ -1167,7 +1167,7 @@
      "t": "mcq",
      "p": "Air molecules zoom about at around 500 metres a second. Sound travels at about 343 metres a second. Why can't sound go faster than the molecules?",
      "opts": [
-      "Because sound is passed along by the molecules bumping each other",
+      "Because sound is passed along by the molecules pushing on each other",
       "Because sound is lazy",
       "Because sound is heavier than air"
      ],
@@ -1253,7 +1253,7 @@
      "p": "A sound fades away. Where does its energy go?",
      "opts": [
       "It vanishes",
-      "It spreads out and turns into a tiny bit of warmth",
+      "It spreads out and turns into a tiny amount of warmth",
       "It goes back into the drum"
      ],
      "a": 1,
@@ -1747,7 +1747,7 @@
        "No change at all"
       ],
       "a": 1,
-      "why": "The heavy dough slows the skin's vibration. Slower vibration sounds lower. That is why the mridangam's left skin, with its dough, gives a deep boom. Picking 'higher' often means thinking more stuff makes more sound, but here it makes slower vibration."
+      "why": "The heavy dough slows the skin's vibration. Slower vibration sounds lower. That is why the mridangam's left skin, with its dough, gives a deep boom. Picking 'higher' often means thinking a heavier skin makes a higher sound, but here the extra weight makes the vibration slower."
      }
     },
     {
@@ -2712,7 +2712,7 @@
     "Tiny pieces of the drum"
    ],
    "a": 1,
-   "why": "No air flies across the room. Each molecule jiggles a tiny bit and pushes the next. Only the pattern travels to you. Picking 'air flying across' is the most common mistake about sound.",
+   "why": "No air flies across the room. Each molecule moves back and forth a tiny distance and pushes the next. Only the pattern travels to you. Picking 'air flying across' is the most common mistake about sound.",
    "outcome": 3
   },
   {

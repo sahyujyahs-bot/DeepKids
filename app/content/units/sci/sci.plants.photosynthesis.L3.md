@@ -17,7 +17,7 @@
 ## Terms
 - **Photosynthesis**: How green plants make their own food. They use the energy of light to join carbon dioxide and water into sugar. The word means 'putting together with light'. *e.g.* Every green leaf on a tulsi plant is doing photosynthesis while the sun shines on it.
 - **Leaf**: The flat, usually green part of a plant. Most of a plant's food is made inside its leaves. *e.g.* A banana leaf, a neem leaf and a blade of grass are all leaves.
-- **Carbon dioxide**: A gas in the air. You cannot see it or smell it. You breathe it out every time you breathe. Plants take it in through their leaves. *e.g.* When you blow on a cold mirror, your breath carries carbon dioxide out of your body.
+- **Carbon dioxide**: A gas in the air. You cannot see it or smell it. You breathe it out every time you breathe. Plants take it in through their leaves. *e.g.* Every time you breathe out, you send carbon dioxide into the air. A leaf nearby can take it in.
 - **Oxygen**: A gas in the air that people and animals need to breathe. Leaves give it out while they make food. *e.g.* Water plants in a pond give off tiny bubbles of oxygen on a sunny day.
 - **Sugar**: The food a leaf makes. One sugar that leaves make is called glucose. The sugar in your kitchen is another sugar made by plants, in sugarcane. All sugars store energy. *e.g.* Sugarcane stores so much of its sugar in its stem that we squeeze it out as juice.
 - **Starch**: A store of food that plants make by joining lots of sugars together, like beads on a long string. Rice, potatoes and wheat are full of it. *e.g.* When you cook rice, the soft white part is mostly starch made by the rice plant's leaves.
@@ -29,19 +29,19 @@
 - **Molecule**: A few atoms joined together. Atoms join to make molecules, the way letters join to make words. *e.g.* A molecule of water is two hydrogen atoms joined to one oxygen atom.
 - **Carbon**: A kind of atom. It is the main building block of every living thing. The black of charcoal is nearly pure carbon. *e.g.* When a roti burns black on the tawa, the black is carbon left behind.
 - **Energy**: What it takes to make something move, warm up, grow or change. Energy never disappears. It only changes from one kind into another. *e.g.* Sunlight's energy becomes food energy in a mango. When you eat it, it becomes the energy that lets you run.
-- **Photon**: A tiny packet of light. Light comes in these packets, far too small to see one at a time. *e.g.* Each second, a leaf in sunshine is hit by more photons than there are grains of sand on a beach.
+- **Photon**: A tiny packet of light. Light comes in these packets, far too small to see one at a time. *e.g.* Each second, a leaf in full sunshine is hit by billions of billions of photons.
 - **Respiration**: How living things get energy out of their food. They use oxygen to break sugar down, and give out carbon dioxide. Plants do it all day and all night, just like us. *e.g.* A sprouting seed is using its stored food by respiration. It even warms up a tiny bit.
 - **Cellulose**: The tough material that a plant's cell walls are made of. It is made by joining sugars together in a strong, stiff way. Wood, cotton and paper are mostly cellulose. *e.g.* Your cotton kurta was once sugar inside a cotton plant's leaves.
 - **Food chain**: A list of who eats whom, starting from a plant. Energy passes along it, from one living thing to the next. *e.g.* Grass is eaten by a goat, and the goat is eaten by a leopard. The leopard's energy began as sunlight on the grass.
 - **Algae**: Plant-like living things that live in water and make food from sunlight. Some are as big as trees. Most are far too small to see. *e.g.* The green slime on a pond, and seaweed on a beach, are algae.
-- **Cyanobacteria**: Tiny living things, each just one cell, that make food from sunlight. They were the first to make oxygen, billions of years ago. *e.g.* Some of the blue-green scum on a still pond is cyanobacteria.
+- **Cyanobacteria**: Tiny living things, each just one cell, that make food from sunlight. They were the first living things to make oxygen by photosynthesis, billions of years ago. *e.g.* Some of the blue-green scum on a still pond is cyanobacteria.
 - **Minerals**: Substances in the soil, such as nitrates and iron, that roots take in dissolved in water. A plant needs only small amounts. It uses them to make things like proteins and chlorophyll. *e.g.* Farmers add manure or fertiliser so the soil has enough minerals.
 
 ## Explanations
 ### What photosynthesis is · *defined*
 **Definition:** Photosynthesis is how green plants make food. Using the energy of light, a leaf joins carbon dioxide and water into sugar. Oxygen is left over and goes out into the air.
 
-A leaf needs two ingredients and a supply of energy. The first ingredient is carbon dioxide, a gas that comes in from the air through tiny holes in the leaf. The second is water, which travels up from the roots. The energy comes from sunlight. It is caught by chlorophyll, the green colouring in the leaf. With that energy, the leaf breaks the water and carbon dioxide apart and builds their atoms into sugar. The spare oxygen goes out into the air. The sugar is the plant's food. Scientists write it in a short way: carbon dioxide plus water, with light, gives sugar plus oxygen.
+A leaf needs two ingredients and a supply of energy. The first ingredient is carbon dioxide, a gas that comes in from the air through tiny holes in the leaf. The second is water, which travels up from the roots. The energy comes from sunlight. It is caught by chlorophyll, the green colouring in the leaf. With that energy, the leaf splits water apart. It joins the hydrogen from the water to carbon dioxide, and builds sugar. The oxygen from the water is left over and goes out into the air. The sugar is the plant's food. Scientists write it in a short way: carbon dioxide plus water, with light, gives sugar plus oxygen.
 - e.g. A tulsi leaf on a sunny windowsill is making sugar right now.
 - e.g. Grass on a cricket ground makes food all day, and makes none at night.
 - e.g. A cactus has no proper leaves. Its green stem does the photosynthesis instead.
@@ -61,7 +61,7 @@ A leaf looks solid, but its skin has many tiny holes called stomata. Each stoma 
 ### From sugar to everything: starch, wood, fruit and you · *defined*
 **Definition:** A plant turns the sugar it makes into everything else it needs. It joins sugars into starch to store food, and into cellulose to build its walls. It also makes oils, proteins and many other things from sugar and minerals.
 
-Sugar is the plant's building material and its fuel. Some sugar is burned straight away for energy, the way you use breakfast. Some is joined into long chains called starch, a store for later. A leaf stores some starch during the day. At night it turns that starch back into sugar and sends it to the rest of the plant. Rice grains, potatoes and wheat are packed with stored starch. Some sugar is joined in a different, stiffer way into cellulose. Cellulose makes wood, cotton, jute and the strings in a banana stem. With minerals from the soil, the plant also turns sugar into oils, like coconut oil, and proteins, like those in dal. So your plate, your clothes and your notebook all began as sugar in a leaf.
+Sugar is the plant's building material and its fuel. Some sugar is used straight away for energy, the way you use your breakfast. Some is joined into long chains called starch, a store for later. A leaf stores some starch during the day. At night it turns that starch back into sugar and sends it to the rest of the plant. Rice grains, potatoes and wheat are packed with stored starch. Some sugar is joined in a different, stiffer way into cellulose. Cellulose makes wood, cotton, jute and the strings in a banana stem. With minerals from the soil, the plant also turns sugar into oils, like coconut oil, and proteins, like those in dal. So your plate, your clothes and your notebook all began as sugar in a leaf.
 - e.g. A drop of iodine on a potato turns blue-black, because the potato is full of starch.
 - e.g. Your notebook's paper is made of cellulose from trees.
 - e.g. Groundnut oil was once sugar made in a groundnut plant's leaves.
@@ -75,19 +75,19 @@ Most people are surprised by this. Take a log of wood and dry out all the water.
 ### Where the oxygen comes from · *defined*
 **Definition:** The oxygen a plant gives out comes from water, not from carbon dioxide. Light's energy is used to split water apart. The plant keeps the hydrogen and lets the oxygen go.
 
-You might guess that a leaf takes carbon dioxide, keeps the carbon and lets the oxygen go. That was a sensible guess, and many scientists believed it. But in the 1930s, a Dutch-American scientist called Cornelis van Niel studied tiny living things that make food from light. They make no oxygen. He suggested that plants split water, not carbon dioxide. In 1941, scientists in California tested this. They gave plants water made with a special, heavier kind of oxygen, which they could follow. The oxygen bubbling out of the plants was the heavy kind. So it came from the water. Splitting water is very hard. A leaf does it using a tiny cluster of metal atoms, a bit like a minute machine. Chemists still cannot copy it well.
+You might guess that a leaf takes carbon dioxide, keeps the carbon and lets the oxygen go. That was a sensible guess, and many scientists believed it. But in the 1930s, a Dutch-American scientist called Cornelis van Niel studied tiny living things that make food from light. They make no oxygen. He suggested that plants split water, not carbon dioxide. In 1941, scientists in California tested this. They gave plants water made with a special, heavier kind of oxygen, which they could follow. The oxygen bubbling out of the plants was the heavy kind. So it came from the water. Splitting water is very hard. A leaf does it with a tiny cluster of manganese and calcium atoms, held in place inside the chloroplast. Chemists still cannot copy it well.
 - e.g. The bubbles rising from a water plant in sunlight are oxygen that was once part of water.
-- e.g. The oxygen you are breathing was split out of water. A plant or a tiny sea creature did it.
+- e.g. The oxygen you are breathing was split out of water. A plant, or a tiny living thing in the sea, did it.
 ### Light is energy that comes in packets · *defined*
 **Definition:** Light carries energy from the Sun. It arrives in tiny packets called photons. Chlorophyll catches photons and uses their energy to make sugar.
 
-The Sun is a giant ball of hot gas. Deep inside it, the tiniest atoms, hydrogen, crash together and join into helium. This joining gives off huge amounts of energy. Some of it leaves the Sun as light. The light crosses space and reaches Earth about eight minutes later. When a photon hits a chlorophyll molecule, its energy jumps into it. The leaf passes that energy along, and uses it to split water and build sugar. So the energy in your roti is sunlight, caught by a wheat leaf and stored. When you run, you are using energy that reached a wheat field from the Sun a few months ago. A leaf is not very efficient. A field of crops stores only about 2 out of every 100 parts, often less, of the sunlight that falls on it. The rest bounces away or warms the leaf.
+The Sun is a giant ball of hot gas. Deep inside it, the smallest atoms, hydrogen, crash together and join into helium. This joining gives off huge amounts of energy. Some of it leaves the Sun as light. The light crosses space and reaches Earth about eight minutes later. When a photon hits a chlorophyll molecule, its energy jumps into it. The leaf passes that energy along, and uses it to split water and build sugar. So the energy in your roti is sunlight, caught by a wheat leaf and stored. When you run, you are using energy that reached a wheat field from the Sun a few months ago. A leaf is not very efficient. A field of crops stores only about 2 out of every 100 parts, often less, of the sunlight that falls on it. The rest bounces away or warms the leaf.
 - e.g. Solar panels on a roof also catch photons, but they turn the energy into electricity instead of sugar.
 - e.g. The energy in a banana you eat today reached the banana plant from the Sun.
 ### Plants respire too, all day and all night · *defined*
 **Definition:** Plants use their own sugar for energy by respiration. They take in oxygen and give out carbon dioxide, day and night, just as we do. In daylight they make much more oxygen than they use, so overall they give it out.
 
-A plant needs energy to grow, to build flowers and to mend itself. It gets that energy by breaking down its own sugar, using oxygen. This is respiration, and every living cell does it, in plants and in people. Roots need oxygen from the air in the soil too. That is one reason plants in soggy, waterlogged soil droop. In the day, photosynthesis is much faster than respiration. So a leaf in sunlight gives out far more oxygen than it uses. At night there is no photosynthesis. The plant only breathes, so it takes in a little oxygen and gives out a little carbon dioxide. An Indian scientist, Kamala Sohonie, helped show how alike plants and animals are inside. She worked in Cambridge in the late 1930s. She found that cytochrome c, a substance animals use in respiration, is in plants too.
+A plant needs energy to grow, to build flowers and to mend itself. It gets that energy by breaking down its own sugar, using oxygen. This is respiration, and every living cell does it, in plants and in people. Roots need oxygen from the air in the soil too. That is one reason plants in soggy, waterlogged soil droop. In the day, photosynthesis is much faster than respiration. So a leaf in sunlight gives out far more oxygen than it uses. At night there is no photosynthesis. The plant only respires, so it takes in a little oxygen and gives out a little carbon dioxide. An Indian scientist, Kamala Sohonie, helped show how alike plants and animals are inside. She worked in Cambridge in the late 1930s. She found that cytochrome c, a substance animals use in respiration, is in plants too.
 - e.g. A pile of fresh grass clippings gets warm inside, because the grass cells, and tiny microbes in the pile, are respiring.
 - e.g. A potato in a dark cupboard is respiring slowly. It slowly uses up some of its stored food, and goes soft.
 ### Nearly every food chain starts with a leaf · *defined*
@@ -100,13 +100,13 @@ Think of your lunch. The rice and dal came from plants. The milk came from a cow
 ### Who made the air we breathe · *defined*
 **Definition:** There was almost no oxygen in Earth's air for the first two billion years. Tiny living things called cyanobacteria made it, by photosynthesis, very slowly over hundreds of millions of years.
 
-Young Earth's air had nitrogen and carbon dioxide, but hardly any oxygen. Then cyanobacteria appeared in the sea. They were the first to split water with light. Their spare oxygen bubbled out. About 2.4 billion years ago, enough had built up to change the air for ever. Scientists call it the Great Oxidation Event. Later, a bigger cell swallowed a cyanobacterium but did not digest it. The two lived on together. The swallowed one became the chloroplast, and its family became the plants. An American scientist, Lynn Margulis, argued for this idea in 1967. Many scientists thought she was wrong, and her paper was rejected many times. Today the evidence shows she was right. Chloroplasts even have their own small set of genes, like a bacterium.
+Young Earth's air had nitrogen and carbon dioxide, but hardly any oxygen. Then cyanobacteria appeared in the sea. They were the first to split water with light. Their spare oxygen bubbled out. About 2.4 billion years ago, enough had built up to change the air for ever. Scientists call it the Great Oxidation Event. Later, a bigger cell swallowed a cyanobacterium but did not digest it. The two lived on together. The swallowed one became the chloroplast. The cells that carried it on became algae, and later plants. An American scientist, Lynn Margulis, argued for this idea in 1967. Many scientists thought she was wrong, and her paper was rejected many times. Today the evidence shows she was right. Chloroplasts even have their own small set of genes, like a bacterium.
 - e.g. Every chloroplast in a leaf is descended from a cyanobacterium that once lived on its own.
 - e.g. In some places, like Shark Bay in Australia, cyanobacteria still build rocky mounds called stromatolites, as they did billions of years ago.
 ### Half of the photosynthesis happens in the sea · *defined*
 **Definition:** Tiny floating living things in the oceans, called phytoplankton, do about half of all the photosynthesis on Earth. Land plants do the other half.
 
-Phytoplankton are algae and cyanobacteria so small that thousands fit in a drop of seawater. But there are so many of them that together they make about as much food and oxygen as all the forests and fields. One of them, called Prochlorococcus, is probably the most common living thing that does photosynthesis on Earth. Nobody knew it existed until 1988. That year, an American scientist, Sallie (Penny) Chisholm, and her colleagues found it in seawater samples. Scientists can even see phytoplankton from space. Satellites measure the green colour of the sea, which comes from their chlorophyll.
+Phytoplankton are algae and cyanobacteria so small that thousands fit in a drop of seawater. But there are so many of them that together they make about as much food and oxygen as all the forests and fields. One of them, called Prochlorococcus, is probably the most common living thing that does photosynthesis on Earth. Nobody knew it existed until 1988. That year, an American scientist, Penny Chisholm, and her colleagues found it in seawater samples. Scientists can even see phytoplankton from space. Satellites measure the green colour of the sea, which comes from their chlorophyll.
 - e.g. A satellite map of the Bay of Bengal shows greener water where phytoplankton are thick.
 - e.g. About half of the oxygen made on Earth each year is made by tiny living things in the sea.
 ### Is there a quantum trick inside a leaf? · *debated*
@@ -121,7 +121,7 @@ Here is a puzzle. Sunlight is strongest in the green and yellow part of the rain
 - e.g. Some red seaweeds that live deep in the sea do catch green light, using extra colourings.
 - e.g. Solar panels are dark, almost black, because they are built to soak up every colour.
 - **Shiladitya DasSarma, a scientist in the United States, and others:** Perhaps the first living things to use light were purple microbes that soaked up green light. Plants came later and used the colours left over. This is called the Purple Earth idea.
-- **Nathaniel Gabor and colleagues, in 2020:** Catching red and blue, and skipping green, may keep the energy coming in smooth and steady. It is like a calm river instead of a flood.
+- **Nathaniel Gabor and colleagues, in 2020:** Catching red and blue, and skipping green, may keep the energy coming in at a steady rate. Then a passing cloud or a gust that moves the leaf does not cause sudden jumps the leaf cannot handle.
 - **Other scientists:** Too much light can damage a leaf. Bouncing some away may protect it. On a sunny day, leaves often already get more light than they can use.
 ### Life without sunlight · *defined*
 **Definition:** A few living things make food without any light. They use energy from chemicals that seep out of hot cracks in the deep-sea floor. This is called chemosynthesis.
@@ -164,7 +164,7 @@ In the first half of the 1600s, Jan Baptist van Helmont showed that a tree is no
   Against: The forest's animals, fungi and microbes use up almost all of that oxygen again, by breathing and rotting. So the forest adds very little extra. The oxygen in our air built up over millions of years, much of it from the sea. The Amazon still matters hugely, as a store of carbon and a home for millions of kinds of living things.
 - **Joseph Priestley discovered that plants make oxygen.** (Many books, especially in England; *debated*)  
   For: In 1771, Priestley showed that a mint plant could 'restore' air in which a candle had burned out. He is also famous for discovering oxygen in 1774, though Carl Scheele in Sweden had found it a little earlier.  
-  Against: Priestley's tests did not always work, and he did not know why. In 1779, Jan Ingenhousz showed that plants restore air only in light, and only with their green parts. Without Ingenhousz, Priestley's discovery made no sense. Ingenhousz is much less famous.
+  Against: Priestley's tests did not always work, and he did not know why. In 1779, Jan Ingenhousz found the reason: plants restore air only in light, and only with their green parts. Ingenhousz explained what Priestley had seen, but he is much less famous.
 - **The way plants build sugar, the Calvin cycle, was discovered by Melvin Calvin.** (Many textbooks, which call it the Calvin cycle; *debated*)  
   For: Melvin Calvin led the team in California, and he won the Nobel Prize in Chemistry for it in 1961.  
   Against: Andrew Benson and James Bassham did much of the work alongside him. Benson had to leave the lab, and was left out of the prize. Many scientists now call it the Calvin-Benson-Bassham cycle, to share the credit fairly.
@@ -207,9 +207,9 @@ The carbon in a mango was carbon dioxide in the air a few months before. Some of
 - *deep:* The energy in your breakfast came from the Sun. So are you, in a way, running on sunshine? (hint: Follow your roti back: wheat, leaf, sunlight. Where did the Sun get its energy?)
 - *deep:* When a tree burns, where does it go? (hint: Look at how little ash is left. The rest went back to where it came from.)
 - *big:* You breathe out carbon dioxide, and a tree takes it in. The tree gives out oxygen, and you breathe it in. Where does the air stop and you begin? (hint: Some of the carbon in your body was once in a leaf. Some of it may be in a leaf next year.)
-- *big:* Who owns a mango: the person who owns the land, or everyone whose breath and rain and sunlight it was built from? (hint: Think about what the mango is made of. Which of those things can anyone buy?)
+- *big:* A mango is built from air that everyone breathes out, from rain and from sunlight. So who owns it: the person who owns the land, or everyone? (hint: Think about what the mango is made of. Which of those things can anyone buy?)
 - *big:* Plants feed almost every animal and made most of the oxygen in the air. Why do people so often notice animals and walk past plants? (hint: Think about how slowly plants move, and how quietly they work. Is quiet the same as unimportant?)
-- *deep:* A leaf uses only about 2 out of every 100 parts of the sunlight that hits it. Is that wasteful, or is it wise? (hint: What might happen to a leaf that tried to soak up all the light?)
+- *deep:* A field of crops stores only about 2 out of every 100 parts of the sunlight that falls on it. Is that wasteful, or is it wise? (hint: What might happen to a leaf that tried to soak up all the light?)
 - *big:* Tiny sea living things do about half of the photosynthesis on Earth. Nobody had even seen one of the commonest until 1988. What else might be all around us that nobody has noticed yet? (hint: Think of things too small, too slow or too ordinary to notice.)
 - *big:* Ingenhousz, Benson and Karpilov did important work but are not famous. Why do some names get remembered and others forgotten? (hint: Think about who was in charge, who spoke the most common language and who was in the right place.)
 - *deep:* If people one day live on Mars, could plants make their food and air? What would those plants need? (hint: Mars has sunlight, a thin air full of carbon dioxide, and ice. What is missing?)
@@ -232,7 +232,7 @@ Tara was nine, and she did not like the word PRIVATE. She liked the word made ev
 
 At school, Kamla Didi had once drawn a leaf on the blackboard with arrows going in and out. 'Leaves make food,' she had said, 'from sunlight, water and air.' Everybody had copied it into their notebooks. Nobody had believed it, least of all Tara. Air was nothing. You could not build a mango out of nothing.
 
-That evening, Tara watered the tulsi in the clay pot by their door. Her mother had planted it the year Tara was born, from a seed smaller than a mustard seed. Now it was a bush as tall as Tara's waist. Every winter her mother cut it back and gave bunches of it to the whole lane, and every spring it grew again.
+That evening, Tara watered the tulsi in the clay pot by their door. Her mother had planted it the year Tara was born, from a seed no bigger than a mustard seed. Now it was a bush as tall as Tara's waist. Every winter her mother cut it back and gave bunches of it to the whole lane, and every spring it grew again.
 
 On the inside of the pot, just above the soil, there was a scratch. Her mother had made it with a nail on the first day, so she would know when the soil sank and needed more.
 
@@ -256,7 +256,7 @@ People leaned forward. Somebody held up a lantern. The soil sat exactly on the s
 
 'Air!' Seth Govardhan threw up his hands. 'Air is nothing! You cannot build a tree out of nothing.'
 
-Tara had thought about this all night. 'When your cook burns a big log in the chulha, Sethji, where does it go? There is only a handful of ash in the morning. The rest goes up the chimney into the air. It goes back where it came from.' She took a breath. 'The ash is the soil part. Only a handful.'
+Tara had thought about this all night. 'When your cook burns a big log in the chulha, Sethji, where does it go? There is only a handful of ash in the morning. The rest goes up in the smoke, into the air. It goes back where it came from.' She took a breath. 'The ash is the soil part. Only a handful.'
 
 Nobody laughed now. Old Ramdin, who had burned wood in his kiln for fifty years, slowly nodded.
 
@@ -294,7 +294,7 @@ Next summer, she thought, a little bit of me will be a mango.
 ### g1 · Leaf Kitchen (25 min)
 - **rules:** Each player starts with a plant mat, 1 LEAF tile and 2 of each ingredient card.; On your turn, first take one weather and life card and do what it says.; Then take 1 SUNLIGHT, 1 WATER and 1 CARBON DIOXIDE card from the piles.; Leaf Kitchen: for each LEAF you have, you may trade 1 SUNLIGHT, 1 WATER and 1 CARBON DIOXIDE for 1 SUGAR. Each time, put 1 OXYGEN bubble into the middle of the table, for the air.; Spend SUGAR to build tiles on your plant mat. More leaves let you make more sugar.; The first plant to build at least 1 root, 1 stem, 3 leaves, 1 flower and 1 seed wins. Then count the oxygen bubbles together. That is the air your plants made for everyone.
 - **Printable cards: 48 ingredient cards to cut out:** 16 SUNLIGHT cards ☀️; 16 WATER cards 💧; 16 CARBON DIOXIDE cards 💨
-- **Printable cards: 20 weather and life cards to cut out:** NIGHT FALLS: no SUNLIGHT cards can be used this turn. Pay 1 SUGAR to breathe.; CLOUDY DAY: you may use only 1 SUNLIGHT card this turn.; BRIGHT SUNNY DAY: take 2 extra SUNLIGHT cards.; RAIN: take 2 extra WATER cards.; DRY SPELL: your stomata close to save water. Take no CARBON DIOXIDE this turn.; A FAMILY WALKS PAST AND BREATHES OUT: take 2 extra CARBON DIOXIDE cards.; A GOAT NIBBLES YOU: lose 1 LEAF, if you have one.; A CATERPILLAR EATS A LEAF: lose 1 LEAF, but a bird gets a meal.; GROWING TAKES ENERGY: pay 1 SUGAR to breathe.; GROWING TAKES ENERGY: pay 1 SUGAR to breathe.; A NEW LEAF OPENS: if you have 2 SUGAR, you may build a LEAF now.; TOO MUCH WATER: your roots cannot breathe. Lose 1 SUGAR.; A BEE VISITS YOUR FLOWER: if you have a FLOWER, take 1 SEED for free.; FALLEN LEAVES ROT: everyone takes 1 CARBON DIOXIDE.; SMOKE FROM A FIRE: everyone takes 1 CARBON DIOXIDE, but loses 1 SUNLIGHT.; SHADE FROM A BIG TREE: lose 1 SUNLIGHT.; NIGHT FALLS: no SUNLIGHT cards can be used this turn. Pay 1 SUGAR to breathe.; QUESTION: say where the oxygen from your leaf goes. Right answer: take 1 SUGAR.; QUESTION: say what the soil gives you. Right answer: take 1 SUGAR.; QUESTION: say why leaves are green. Right answer: take 1 SUGAR.
+- **Printable cards: 20 weather and life cards to cut out:** NIGHT FALLS: no SUNLIGHT cards can be used this turn. Pay 1 SUGAR, because your plant still respires: it uses food for energy.; CLOUDY DAY: you may use only 1 SUNLIGHT card this turn.; BRIGHT SUNNY DAY: take 2 extra SUNLIGHT cards.; RAIN: take 2 extra WATER cards.; DRY SPELL: your stomata close to save water. Take no CARBON DIOXIDE this turn.; A FAMILY WALKS PAST AND BREATHES OUT: take 2 extra CARBON DIOXIDE cards.; A GOAT NIBBLES YOU: lose 1 LEAF, if you have one.; A CATERPILLAR EATS A LEAF: lose 1 LEAF, but a bird gets a meal.; GROWING TAKES ENERGY: pay 1 SUGAR for respiration.; GROWING TAKES ENERGY: pay 1 SUGAR for respiration.; A NEW LEAF OPENS: if you have 2 SUGAR, you may build a LEAF now.; TOO MUCH WATER: your roots cannot get oxygen. Lose 1 SUGAR.; A BEE VISITS YOUR FLOWER: if you have a FLOWER, take 1 SEED for free.; FALLEN LEAVES ROT: everyone takes 1 CARBON DIOXIDE.; SMOKE FROM A FIRE: everyone takes 1 CARBON DIOXIDE, but loses 1 SUNLIGHT.; SHADE FROM A BIG TREE: lose 1 SUNLIGHT.; NIGHT FALLS: no SUNLIGHT cards can be used this turn. Pay 1 SUGAR, because your plant still respires: it uses food for energy.; QUESTION: say where the oxygen from your leaf goes. Right answer: take 1 SUGAR.; QUESTION: say what the soil gives you. Right answer: take 1 SUGAR.; QUESTION: say why leaves are green. Right answer: take 1 SUGAR.
 - **Printable tokens: Sugar cubes, oxygen bubbles and building tiles:** 30 SUGAR tokens (sugar cubes, or paper squares); 30 OXYGEN bubble tokens (small blue circles); Building tiles: LEAF costs 2 SUGAR, STEM costs 2 SUGAR, ROOT costs 2 SUGAR, FLOWER costs 3 SUGAR, SEED costs 4 SUGAR
 - **Printable board: A plant mat for each player:** A pot with an empty plant outline: spaces for roots, stem, leaves, flowers and seeds; A small 'Leaf Kitchen' box where you trade ingredients for sugar
 - **s1 (3 min)**  
@@ -308,8 +308,8 @@ Next summer, she thought, a little bit of me will be a mango.
   - Check: In the Leaf Kitchen, what comes out besides the sugar? → **Oxygen**
 - **s3 (14 min)**  
   *Parent does:* 1. Take turns. Draw a weather and life card, then collect 3 ingredient cards. 2. Trade ingredients for sugar in the Leaf Kitchen. 3. Build tiles. 4. Read the QUESTION cards aloud and answer them together.  
-  *Parent says:* Watch what happens on a NIGHT card. You can't make sugar, but you still have to pay sugar to breathe. Plants use up food all the time.  
-  *Child mode:* Take turns. Draw a card and do what it says. Make sugar. Build your plant. On a NIGHT card, you still pay sugar to breathe!
+  *Parent says:* Watch what happens on a NIGHT card. You can't make sugar, but you still have to pay sugar. Plants respire all the time: they use up food for energy, day and night.  
+  *Child mode:* Take turns. Draw a card and do what it says. Make sugar. Build your plant. On a NIGHT card, you still pay sugar. Plants use food all night!
   - Ask: Why is building more leaves a good plan? (good: More leaves make more sugar.; Each leaf is a kitchen, so two leaves can cook twice as much.)
   - Ask: What did the DRY SPELL card do, and why? (good: The leaf closed its stomata to save water.; So no carbon dioxide could get in, and it couldn't make sugar.)
   - Note: Good answers to the question cards. Oxygen goes out into the air, for animals and people to breathe. The soil gives water and a few minerals, not food. Leaves are green because chlorophyll bounces green light back. If a child runs out of sugar, let them carry on. Real plants also struggle on long cloudy spells.
@@ -324,7 +324,7 @@ Next summer, she thought, a little bit of me will be a mango.
   *Child mode:* Look at your finished plant. What was it built from? Was any of it soil?
   - Check: In the game, your plant was built from sugar. Where did the sugar come from? → **Sunlight, water and carbon dioxide**
 ### g2 · Photon Relay (20 min)
-- **rules:** The SUN stands at one end. The LEAVES stand in the middle, next to a basket of black carbon balls, which is the 'air'.; The SUN runs light batons to a LEAF, one baton on each trip. Only a leaf can take light.; When a LEAF holds 3 light batons, it picks up one carbon ball. The ball with its 3 batons is now one sugar.; The CATERPILLAR may take a sugar from a leaf. The BIRD may take it from the caterpillar. The MONGOOSE may take it from the bird.; At each handover, the giver drops one baton into a 'warmth' bucket and passes on the ball and the batons that are left. This is the energy used up for living.; The FUNGUS collects carbon balls from anyone who 'dies' (sits down) and throws them back into the air basket.; The CLOUD may stand between the SUN and a LEAF and block it for 10 seconds.
+- **rules:** The SUN stands at one end. The LEAVES stand in the middle, next to a basket of black carbon balls, which is the 'air'.; The SUN runs light batons to a LEAF, one baton on each trip. Only a leaf can take light.; When a LEAF holds 3 light batons, it picks up one carbon ball. The ball with its 3 batons is now one sugar.; The CATERPILLAR may take a sugar from a leaf. The BIRD may take it from the caterpillar. The MONGOOSE may take it from the bird.; At each handover, the giver drops one baton into a 'warmth' bucket and passes on the ball and the batons that are left. This is the energy used up for living.; Anyone holding a carbon ball with no batons left has no energy left. They sit down. The FUNGUS takes their carbon ball and throws it back into the air basket.; The CLOUD may stand between the SUN and a LEAF and block it for 10 seconds.
 - **Printable cards: Role cards to hang round your neck:** SUN ☀️; LEAF 🌿; LEAF 🌿; CATERPILLAR 🐛; BIRD 🐦; MONGOOSE; FUNGUS (the rotter) 🍄; CLOUD ☁️
 - **Printable tokens: Light batons and atom balls:** 15 yellow 'light batons' (rolled yellow paper); 10 black 'carbon' balls (crumpled black paper or socks)
 - **Printable score sheet: Energy chain sheet:** Who got the light first?; How many hands did the energy pass through?; Where did the carbon balls end up?; What did the cloud do?
@@ -351,7 +351,7 @@ Next summer, she thought, a little bit of me will be a mango.
   - Think: The carbon in your body has been in leaves, animals and air many times before. Who might it have belonged to?
 
 ## Experiments
-### e1 · The Rising Leaf Discs (45 min)
+### e1 · The Rising Leaf Discs (50 min)
 - **question:** Does a leaf need light and carbon dioxide to make oxygen?
 - **predict:** Before you start, guess. Which discs will float up first: the ones in the light, the ones in the dark, or the ones in plain water? Will some not float at all? Why do you think so?
 - **fair test:** Keep everything the same except one thing. Use discs from the same leaves, the same number of discs, the same cups and the same amount of liquid. Cup A and cup B both have baking soda water. Only the light changes. Cup A and cup C are both in the light. Only the baking soda changes.
@@ -360,15 +360,15 @@ Next summer, she thought, a little bit of me will be a mango.
 - **results table:** Minutes | Cup A: light, baking soda (discs floating) | Cup B: dark, baking soda (discs floating) | Cup C: light, plain water (discs floating)
 - **s1 (5 min)**  
   *Parent does:* 1. Stir a quarter teaspoon of baking soda into one glass of water, about 300 ml. Add one drop of washing-up liquid. 2. Take the glass of boiled and cooled water. Add one drop of washing-up liquid. 3. Label three cups A, B and C.  
-  *Parent says:* Baking soda water gives off a little carbon dioxide, the gas leaves use to make food. Boiling drives the carbon dioxide out of water, so the boiled water has very little. That is the only difference.  
+  *Parent says:* Baking soda puts carbon dioxide into the water, in a form that leaves can use to make food. Boiling drives the carbon dioxide out of water, so the boiled water has very little. That is the only difference.  
   *Child mode:* Stir baking soda into one glass of water. The other glass has boiled water, now cool. Add one drop of soap to each. Label three cups A, B and C.
-  - Note: The soap helps the liquid soak into the leaf. Baking soda in water gives off carbon dioxide, which the leaf can use. Tap water often holds some carbon dioxide, which is why cup C uses water that was boiled and left to cool.
+  - Note: The soap helps the liquid soak into the leaf. Baking soda water holds carbon dioxide that the leaf can use. Tap water often holds some carbon dioxide, which is why cup C uses water that was boiled and left to cool.
 - **s2 (5 min)**  
   *Parent does:* 1. Press the end of a straw onto a spinach leaf, between the big veins. Twist to cut out a disc. 2. Cut 30 discs. 3. Keep them in two piles of 20 and 10.  
   *Parent says:* Cut between the big veins. The veins are like stiff pipes and they get in the way.  
   *Child mode:* Press the straw onto the leaf and twist. Out pops a little green circle. Cut 30 circles. Avoid the thick veins.
 - **s3 (10 min) · grown-up needed**  
-  *Parent does:* 1. Take the plunger out of the syringe. Drop in 10 discs. 2. Push the plunger back in, nearly to the discs. 3. Suck up 5 ml of baking soda water. 4. Put a finger tightly over the tip. Pull the plunger back hard and hold for 10 seconds. 5. Let go and tap. Repeat until the discs sink. 6. Do this twice more: once more with baking soda water, then with plain water.  
+  *Parent does:* 1. Take the plunger out of the syringe. Drop in 10 discs. 2. Push the plunger back in, nearly to the discs. 3. Suck up 5 ml of baking soda water. 4. Put a finger tightly over the tip. Pull the plunger back hard and hold for 10 seconds. 5. Let go and tap. Repeat until the discs sink. 6. Do this twice more: once more with baking soda water, then, after rinsing the syringe, with the boiled water.  
   *Parent says:* Pulling the plunger sucks the air out of the leaf. The liquid rushes in, and the discs get heavy and sink. Now they're empty of air, ready to start.  
   *Child mode:* Put 10 circles in the syringe. Suck up a little baking soda water. Finger over the tip. Pull back hard. Let go. Repeat until they sink.
   - Note: It can take 3 or 4 pulls before the discs sink. If some still float, leave them out. You need 10 sunk discs for each cup.
@@ -376,12 +376,12 @@ Next summer, she thought, a little bit of me will be a mango.
   *Parent does:* 1. Tip the discs sunk in baking soda water into cups A and B, with baking soda water. 2. Tip the boiled-water discs into cup C, with boiled water. 3. Put A and C in bright sun, or 10 cm under a bright lamp. 4. Put B under a box in the same place.  
   *Parent says:* A and C get light. B is in the dark. Now we count. Every 3 minutes, we write down how many discs are floating in each cup.  
   *Child mode:* Cups A and C go in the bright light. Cup B goes under a box. Every 3 minutes, count the floating circles.
-- **s5 (20 min)**  
-  *Parent does:* 1. Every 3 minutes, count the floating discs in each cup and write the numbers in the table. 2. Lift the box off cup B quickly to look, then put it back. 3. Stop when all the discs in cup A float, or after 30 minutes.  
+- **s5 (25 min)**  
+  *Parent does:* 1. Every 3 minutes, count the floating discs in each cup and write the numbers in the table. 2. Lift the box off cup B quickly to look, then put it back. 3. Stop when all the discs in cup A float, or after 25 minutes.  
   *Parent says:* Look closely at the discs in cup A. Can you see tiny bubbles on them? Where do you think the bubbles came from?  
   *Child mode:* Count every 3 minutes. Write it in the table. Look closely at cup A. Can you see tiny bubbles? What could they be?
   - Ask: Why do you think the discs float up? (good: The leaf makes a gas, and the bubbles lift it.; Gas inside the disc makes it lighter than water.)
-  - Note: The bubbles are oxygen, made by the leaf from water as it makes food. Let your child guess before you say so. In strong sun, the discs in cup A usually float within 10 to 20 minutes. Under a lamp it can take 20 to 30 minutes. If a few discs in cup C rise late, the water still held a little carbon dioxide.
+  - Note: The bubbles are oxygen, made by the leaf from water as it makes food. Let your child guess before you say so. In strong sun, the discs in cup A usually float within 10 to 20 minutes. Under a lamp it can take 20 to 30 minutes, so keep counting a little longer if you need to. If a few discs in cup C rise late, the water still held a little carbon dioxide. If nothing floats in cup A after 25 minutes, the light was too weak or the leaves were old. Try again with fresh leaves in direct sun.
 - **s6 (3 min)**  
   *Parent does:* Compare the three cups at the end. Help your child draw one bar for each cup.  
   *Parent says:* Which cup floated? Which cups stayed sunk? What was different about them?  
@@ -421,7 +421,7 @@ Next summer, she thought, a little bit of me will be a mango.
   *Parent does:* 1. Rinse the pale leaf in warm water and spread it flat on the white plate. 2. Cover it with the diluted iodine. 3. Wait 2 minutes, then rinse gently and look.  
   *Parent says:* A picture has appeared. Where is it blue-black, and where is it pale?  
   *Child mode:* Spread the pale leaf on the plate. Cover it with iodine. Wait 2 minutes. What picture appears?
-  - Note: Starch shows as dark blue, dark purple or almost black. Leaf with no starch stays yellow-brown. If the whole leaf stays brown, the plant did not get enough sun. Try again on a sunnier spot.
+  - Note: Starch shows as dark blue, dark purple or almost black. Leaf with no starch stays yellow-brown. If the whole leaf stays brown, the plant did not get enough sun, or this plant stores little starch in its leaves. Try again in a sunnier spot, or with a leaf from another plant. If the star is only a little paler than the rest, leave the shape on for one more sunny day next time.
   - Check: After the iodine test, the leaf is blue-black everywhere except the star shape. What does that show? → **The leaf made starch only where light fell on it**
 - **s6 (3 min)**  
   *Parent does:* Lay the tested leaf next to your drawing from before. Compare them.  
@@ -501,7 +501,7 @@ Next summer, she thought, a little bit of me will be a mango.
   *Parent does:* Talk about where the carbon dioxide in your breath goes next.  
   *Parent says:* A grown-up breathes out about a kilogram of carbon dioxide every day. A child breathes out about half that. Some of it drifts to a leaf. The leaf takes it in and builds it into sugar, and then into wood or fruit.  
   *Child mode:* Every breath sends out carbon dioxide. A leaf can take it in. It can turn it into sugar, wood or a mango!
-  - Note: Your breath's carbon dioxide came from your food. Your body burned that food for energy using oxygen. So the carbon in your breath was once in a plant, and may soon be in a plant again.
+  - Note: Your breath's carbon dioxide came from your food. Your body used that food for energy, by respiration, with the help of oxygen. So the carbon in your breath was once in a plant, and may soon be in a plant again.
 - **s4 (4 min)**  
   *Parent does:* Sit facing a pot plant or a tree. Breathe out slowly towards it. Then breathe in slowly.  
   *Parent says:* Breathe out to the plant. It can take in your carbon dioxide. Breathe in. Some of the oxygen you take in was made by leaves. Let's do it five times, slowly.  
@@ -615,7 +615,7 @@ Next summer, she thought, a little bit of me will be a mango.
   *Parent does:* 1. Weigh the dried plants. 2. Weigh the dried soil in the same pot. 3. Compare the numbers.  
   *Parent says:* Our dry seeds weighed only a few grams. Now weigh the dry plants and the dry soil. What do you notice? So where did the plants come from?  
   *Child mode:* Weigh the dry plants. Weigh the dry soil. Did the soil get lighter? Did the plants get heavier? Where did they come from?
-  - Note: If the dry plants weigh less than the dry seeds, they did not get enough sun to make more food than they used. Try again in a sunnier place.
+  - Note: If the dry plants weigh less than the dry seeds, they did not get enough sun to make more food than they used. Try again in a sunnier place. The clearest result is the plants: they got only water, yet their dry weight grew. Dry the soil the same way both times, so its weight is as fair as possible.
   - Check: The dry plants weighed more than the dry seeds. The soil weighed almost the same as at the start. Where did most of the plants come from? → **The air, as carbon dioxide**
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -731,8 +731,8 @@ Next summer, she thought, a little bit of me will be a mango.
 5. (truefalse) Plants use oxygen too, all day and all night.  
    **Answer:** True. *Why:* True. Every plant cell respires, using oxygen to get energy from sugar. In daylight, plants make far more oxygen than they use.
 6. (mcq) At night, what does a plant do?  
-   Options: Makes lots of oxygen / Only breathes, taking in a little oxygen / Stops being alive / Makes sugar from moonlight  
-   **Answer:** Only breathes, taking in a little oxygen. *Why:* With no light, there is no photosynthesis. The plant only respires, like us. Picking 'sugar from moonlight' is a fair guess. Moonlight is sunlight bounced off the Moon, but it is far too dim to make much food.
+   Options: Makes lots of oxygen / Only respires, taking in a little oxygen / Stops being alive / Makes sugar from moonlight  
+   **Answer:** Only respires, taking in a little oxygen. *Why:* With no light, there is no photosynthesis. The plant only respires, like us. Picking 'sugar from moonlight' is a fair guess. Moonlight is sunlight bounced off the Moon, but it is far too dim to make much food.
 7. (sort) Sort these into things that MAKE their own food from light, and things that must EAT.  
    **Answer:** grass → Makes food from light; seaweed → Makes food from light; cyanobacteria in a pond → Makes food from light; goat → Must eat; mushroom → Must eat; person → Must eat. *Why:* Plants, algae like seaweed and cyanobacteria make their own food from light. Animals and fungi like mushrooms must take food from others. A mushroom is not a plant.
 8. (order) Put this food chain in order, starting with where the energy comes from: goat, Sun, leopard, grass.  
@@ -856,7 +856,7 @@ Next summer, she thought, a little bit of me will be a mango.
 - Fishponds and aquariums use water plants to add oxygen to the water.
 - Foresters measure how much carbon a forest stores by measuring its trees.
 - Satellites measure the green of land and sea to check on crops, forests and ocean life.
-- Plant breeders, like Janaki Ammal with sugarcane, choose plants that turn sunlight into more food.
+- Plant breeders choose plants that give more food. In the 1930s, the Indian scientist Janaki Ammal helped breed sweeter sugarcane for India.
 - Scientists are trying to give rice the sugarcane way of catching carbon dioxide, so it grows more grain.
 - Artificial leaves are being built to use sunlight to make clean fuels.
 - Coal, oil and gas are the remains of plants and tiny sea living things from millions of years ago. Burning them releases ancient stored sunlight and carbon.
@@ -889,7 +889,7 @@ Next summer, she thought, a little bit of me will be a mango.
 - If the soil does not feed the tree, what does the soil do?
 - Is a leaf working right now, at night? What is it doing instead?
 - What is this wooden chair really made of?
-- Which do you think made more of your breath today: a tree or a tiny sea creature?
+- Which do you think made more of the oxygen you breathed today: the trees on land, or the tiny living things in the sea?
 - Where did the energy for your run today come from, all the way back?
 - Why are the leaves at the top of a tree often smaller and thicker than the ones in the shade below?
 - If you could see carbon dioxide, what would the air in this room look like?
@@ -953,7 +953,7 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 ## Things to buy
 - [Plastic syringes with no needle, 10 or 20 ml (often sold as oral or feeding syringes)](https://www.amazon.in/s?k=oral+syringe+without+needle+20ml) (tool): To suck the air out of leaf discs so they sink, in the leaf disc experiment and The Fastest Float challenge. Used in e1, c2. 
 - [Povidone-iodine solution, the brown antiseptic sold by chemists](https://www.amazon.in/s?k=povidone+iodine+solution) (material): Mixed with a little water, it turns blue-black on starch, in the starch picture experiment. Used in e2. 
-- [Surgical spirit or isopropyl rubbing alcohol (small bottle)](https://www.amazon.in/s?k=isopropyl+alcohol+rubbing) (material): Washes the green out of a leaf before the starch test, and separates leaf colours on chalk. Nail polish remover also works. A grown-up keeps both away from flames. Used in e2, a3. 
+- [Surgical spirit or isopropyl rubbing alcohol (small bottle)](https://www.amazon.in/s?k=isopropyl+alcohol+rubbing) (material): Washes the green out of a leaf before the starch test, and separates leaf colours on chalk. A liquid hand sanitiser that is mostly alcohol also works. A grown-up keeps both away from flames. Used in e2, a3. 
 - [Hydrilla or another aquarium water plant](https://www.amazon.in/s?k=hydrilla+aquarium+plant) (material): Gives off bubbles of oxygen you can count, in the bubble count. Used in e3. Aquarium shops in most Indian towns sell it cheaply. Keep it in a jar of water on a windowsill afterwards. It is a good home pond plant.
 - [Chuna, edible lime paste (from a paan shop or grocery)](https://www.amazon.in/s?k=chuna+lime+paste) (material): Makes limewater, which turns milky with carbon dioxide, in The Breath a Tree Eats. Used in a2. 
 - [Digital kitchen scale that weighs in grams](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Weighs soil, seeds and plants in Van Helmont's Willow, and twigs and ash in Burn It Back to Air. Used in p1, a5. Many homes already have one. It is used again in weight units in maths and in Forces units.
@@ -965,7 +965,7 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - What colour does iodine turn on starch? → Blue-black.
 - Most of a tree's wood comes from the soil, the water or the air? → The air. Carbon dioxide from the air.
 - What is the green colouring in leaves called? → Chlorophyll.
-- Do plants breathe oxygen too? → Yes, all the time. In daylight they make more than they use.
+- Do plants use oxygen too? → Yes, all the time. In daylight they make more than they use.
 - What turns milky when you breathe into it? → Limewater.
 - Who made the first oxygen in Earth's air? → Tiny cyanobacteria in the sea, billions of years ago.
 - About how much of the world's photosynthesis happens in the sea? → About half.

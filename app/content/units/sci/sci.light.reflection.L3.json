@@ -1,22 +1,22 @@
 {
  "id": "sci.light.reflection.L3",
- "title": "Reflection: how mirrors send light back",
+ "title": "Reflection: how mirrors reflect light and make images",
  "level": 3,
  "summary": {
-  "text": "This unit is about reflection. Reflection is light bouncing off something. A mirror is a very smooth, shiny surface that sends light back in neat order, so you see a picture in it. The light bounces off a mirror at the same slant it came in, like a ball off a wall. A mirror turns things round from front to back, so writing looks backwards in it. Mirror writing is writing done backwards on purpose, so it reads properly in a mirror. Deep down, the tiny electrons in a mirror's metal catch light and send it back out. Mirrors help us cook, drive safely, look at stars and even measure the distance to the Moon. Some questions are still open, like why so few animals know their own face in a mirror.",
+  "text": "Your face shows in a mirror but not in a white wall, even though both reflect light. Reflection is light bouncing off a surface. A mirror is so smooth that the light rays stay in order, so it makes an image of you. Light leaves a flat mirror at the same angle it arrives, and you can test this with a torch. A mirror also turns things front to back, which is why AMBULANCE is written backwards on the front of an ambulance.",
   "art": "A child holding a hand mirror that bounces a bright spot of sunlight onto a wall, while backwards writing on a card reads properly in the mirror."
  },
  "intro": {
   "hook": "Pick up a steel spoon. Look at your face in the inside of the bowl. Now turn the spoon over and look at the back. What happened to your face?",
-  "text": "On the inside of the spoon, your face is upside down. On the back, it is the right way up, but tiny with a big nose. The spoon has no light of its own. So where is your face coming from? It is your own light, sent back to you. This unit is about how shiny things send light back. Scientists call it reflection.",
+  "text": "Inside the spoon, your face is upside down. On the back, it is the right way up, but small. The spoon makes no light of its own. Light from the room falls on your face, goes to the spoon and comes back into your eyes. This is called reflection. The two sides of the spoon curve in opposite ways, so they send the light back differently.",
   "art": "A child's surprised face shown twice: upside down in the hollow of a steel spoon, and right way up and small on the back of the spoon."
  },
  "outcomes": [
-  "I can say what reflection is: light bouncing off something.",
-  "I can show with a torch and a mirror that light bounces off a mirror at the same slant it came in.",
-  "I can explain why a mirror shows a picture but a white wall does not.",
+  "I can say what reflection is: light bouncing off a surface.",
+  "I can show with a torch and a mirror that light leaves a mirror at the same angle it arrives.",
+  "I can explain why a mirror shows an image but a white wall does not.",
   "I can read and write mirror writing, and say why a mirror makes writing look backwards.",
-  "I can count the pictures made by two mirrors, and find shapes that look the same in a mirror.",
+  "I can count the images made by two mirrors, and find shapes that look the same in a mirror.",
   "I can give examples of how people use mirrors, from car mirrors to telescopes and Moon lasers.",
   "I can say what scientists agree about mirrors, and what is still open, like why only some animals know their own reflection."
  ],
@@ -30,55 +30,55 @@
   },
   {
    "term": "Reflection",
-   "meaning": "Light bouncing off something. Every thing you see is sending some light back to your eyes.",
-   "example": "Your face in a mirror is light bouncing off you, then off the mirror, into your eyes.",
-   "art": "A light ray arrow hitting a mirror and bouncing off at the same slant."
+   "meaning": "Light bouncing off a surface. You see a book or a friend because light reflects off them into your eyes.",
+   "example": "Your face in a mirror is light that reflected off you, then off the mirror, into your eyes.",
+   "art": "A light ray arrow hitting a mirror and bouncing off at the same angle."
   },
   {
    "term": "Reflect",
-   "meaning": "To bounce light back. A mirror reflects light very well.",
+   "meaning": "To send light back from a surface. A mirror reflects light very well.",
    "example": "A steel plate reflects the light of the kitchen bulb.",
    "art": "A shiny steel thali with the bulb's bright spot in it."
   },
   {
    "term": "Mirror",
-   "meaning": "A very smooth, shiny surface that reflects light in neat order. That is why you see a picture in it.",
-   "example": "The bathroom mirror, a car's side mirror and a still pond are all mirrors.",
+   "meaning": "A very smooth, shiny surface that reflects light rays without mixing them up. That is why you see an image in it.",
+   "example": "The bathroom mirror, a car's side mirror and a still pond all work as mirrors.",
    "art": "A round hand mirror showing a child's smiling face."
   },
   {
    "term": "Image",
-   "meaning": "The picture you see in a mirror. It looks like a real thing behind the glass, but nothing is there.",
-   "example": "Your image in the mirror seems to stand behind the wall.",
+   "meaning": "The copy of a thing that you see in a mirror. It seems to be behind the glass, but nothing is there.",
+   "example": "Your image in the mirror seems to stand behind the glass.",
    "art": "A child at a mirror, with a faint dotted copy of the child standing behind the glass."
   },
   {
    "term": "Light source",
    "meaning": "Something that makes its own light.",
-   "example": "The Sun and a diya are light sources. A mirror is not. It only bounces light.",
+   "example": "The Sun and a diya are light sources. A mirror is not. It only reflects light.",
    "art": "A lit diya beside a mirror in a dark room, the mirror shining only where the diya's light hits it."
   },
   {
-   "term": "Ray",
-   "meaning": "A thin, straight line of light. We draw it as a line with an arrow.",
-   "example": "A sunbeam through a gap in the curtains is a bundle of rays.",
+   "term": "Light ray",
+   "meaning": "A thin, straight line of light. In drawings we show it as a line with an arrow.",
+   "example": "A sunbeam through a gap in the curtains is many light rays side by side.",
    "art": "A narrow beam of sunlight crossing a dusty room."
   },
   {
-   "term": "Slant",
-   "meaning": "How tilted a line is. Scientists call it the angle.",
-   "example": "Light that hits a mirror at a steep slant leaves at the same steep slant.",
-   "art": "Two arrows meeting a mirror like a V, both at the same tilt."
+   "term": "Angle",
+   "meaning": "How far one line is turned away from another. For a mirror, we measure it from a line that stands straight out from the mirror.",
+   "example": "Light that hits a mirror at a big angle leaves at the same big angle, on the other side.",
+   "art": "Two arrows meeting a mirror like a V, with a dotted line standing straight out from the mirror and two equal angles marked."
   },
   {
    "term": "Mirror writing",
    "meaning": "Writing done backwards, from right to left with every letter turned round. It reads properly in a mirror.",
-   "example": "The word AMBULANCE is written backwards on the front of an ambulance.",
+   "example": "The word AMBULANCE is written backwards on the front of many ambulances.",
    "art": "The word AMBULANCE written backwards on an ambulance's bonnet, reading properly in a car's rear-view mirror."
   },
   {
    "term": "Symmetry",
-   "meaning": "When one half of a shape is the mirror picture of the other half.",
+   "meaning": "A shape has symmetry when one half is the mirror image of the other half.",
    "example": "A butterfly, a leaf and the letter A are symmetrical.",
    "art": "A butterfly with a dotted line down its middle."
   },
@@ -90,13 +90,13 @@
   },
   {
    "term": "Electron",
-   "meaning": "A tiny bit inside every atom. In metals, some electrons can move about freely.",
-   "example": "The thin silver or aluminium behind mirror glass is full of free electrons. They catch light and send it back.",
+   "meaning": "A tiny particle inside every atom. In metals, some electrons can move about freely.",
+   "example": "The thin silver or aluminium layer behind mirror glass is full of free electrons. Light shakes them, and they send light back out.",
    "art": "A zoomed-in circle on a mirror showing tiny dots jiggling and sending out wiggly light."
   },
   {
    "term": "Kaleidoscope",
-   "meaning": "A tube with mirrors inside. The mirrors make many copies of a few beads, in a pattern.",
+   "meaning": "A tube with two or three mirrors inside. The mirrors make many images of a few beads, in a pattern.",
    "example": "Turn a kaleidoscope and the bead flower changes shape.",
    "art": "The view inside a kaleidoscope: a six-sided flower of coloured beads."
   },
@@ -112,10 +112,10 @@
    "concept": "What reflection is",
    "status": "defined",
    "definition": "Reflection is light bouncing off a surface and travelling away again.",
-   "description": "Light travels out from a light source, like the Sun or a bulb. When it hits something, some of it bounces off. That bounce is reflection. Almost everything reflects some light. That is how you see a book, a cup or a friend. A mirror is special. It reflects nearly all the light, and it keeps the light in neat order.",
+   "description": "Light travels out from a light source, like the Sun or a bulb. When it hits something, some of it bounces off. That is reflection. Almost everything reflects some light, and that is how you see a book, a cup or a friend. A mirror is special in two ways. It reflects nearly all the light that hits it. And it is so smooth that the light rays stay in the same order.",
    "examples": [
     "A steel tumbler in the sun throws a bright spot on the wall.",
-    "A still pond shows the trees upside down above it.",
+    "A still pond shows the trees upside down in the water.",
     "The Moon makes no light. It shines because it reflects sunlight."
    ],
    "perspectives": [],
@@ -123,38 +123,38 @@
    "context": "This card explains the main idea of the whole unit: what reflection is."
   },
   {
-   "concept": "Light bounces at the same slant",
+   "concept": "Light leaves a mirror at the same angle it arrives",
    "status": "defined",
-   "definition": "When light hits a mirror, it leaves at the same slant that it came in. Scientists say the angle in equals the angle out.",
-   "description": "Throw a ball at a wall at a slant. It bounces away at the same slant on the other side. Light does the same thing off a mirror. Shine a torch straight at a mirror, and the light comes straight back. Shine it in from the left at a slant, and it leaves to the right at the same slant. This rule lets you aim light, like aiming a ball.",
+   "definition": "Light leaves a flat mirror at the same angle that it arrives. Scientists say the angle in equals the angle out. Both angles are measured from a line standing straight out from the mirror.",
+   "description": "Throw a ball at a wall at an angle, and it bounces away at the same angle on the other side. Light does the same off a mirror. Shine a torch straight at a mirror, and the light comes straight back. Shine it from the left at an angle, and it leaves to the right at the same angle. This rule lets you aim light, the way you aim a ball.",
    "examples": [
     "Shine a torch at a mirror from the left. The bright spot lands on the right.",
     "Stand straight in front of a mirror and you see your own eyes. Stand to one side and you see the far side of the room.",
-    "Carrom players use the same rule. The striker bounces off the edge at the same slant it hit."
+    "Carrom players use nearly the same rule. The striker leaves the edge of the board at about the same angle it hit."
    ],
    "perspectives": [],
    "art": "A torch beam hitting a mirror and bouncing off like a V, with two equal angles marked by curved arcs.",
-   "context": "This card explains the rule for how light bounces off a mirror. You test it in the Catch the Bouncing Beam experiment."
+   "context": "This card explains the rule for how light reflects off a mirror. You test it in the Catch the Beam experiment."
   },
   {
-   "concept": "Why a mirror shows a picture and a wall does not",
+   "concept": "Why a mirror shows an image and a wall does not",
    "status": "defined",
-   "definition": "A smooth surface sends all the light back in the same neat order. A rough surface scatters the light every which way.",
-   "description": "A white wall reflects a lot of light. So why can't you see your face in it? Zoom in, and the wall is bumpy, like a ploughed field. Each bump sends light off in a different direction. The light gets mixed up, so there is no picture. A mirror is so smooth that every bit of light bounces the same way. The light stays in order, so your eyes see a clear picture.",
+   "definition": "A smooth surface reflects all the light rays the same way, so they stay in order. A rough surface scatters them in every direction.",
+   "description": "A white wall reflects a lot of light. So why can't you see your face in it? Under a magnifying glass, the wall is covered in tiny bumps. Each bump reflects light in a different direction. The rays get mixed up, so no image forms. A mirror is so smooth that all the rays reflect the same way. They stay in order, so your eyes see a clear image.",
    "examples": [
     "A new steel plate shows your face. A scratched old one only shows a blur.",
-    "Calm water shows the trees clearly. When the wind makes ripples, the picture breaks up.",
+    "Calm water shows the trees clearly. When the wind makes ripples, the image breaks up.",
     "Polished marble floors in a temple show the lamps. A rough stone floor does not."
    ],
    "perspectives": [],
    "art": "Two zoomed-in surfaces side by side: a flat mirror with rays bouncing back in neat parallel lines, and bumpy paper with rays scattering every way.",
-   "context": "This card explains why a mirror shows a picture of you, but a white wall does not, even though both reflect light."
+   "context": "This card explains why a mirror shows an image of you, but a white wall does not, even though both reflect light."
   },
   {
-   "concept": "Where the mirror picture seems to be",
+   "concept": "Where the mirror image seems to be",
    "status": "defined",
    "definition": "Your image seems to stand behind the mirror, exactly as far behind it as you are in front of it.",
-   "description": "Look into a mirror and the room seems to carry on behind the glass. Nothing is really there. The light bounces off the mirror and into your eyes. Your eyes and brain think light travels in straight lines. So they guess the light came from behind the glass. Step back one step, and your image steps back one step too. Your image is also the same size as you.",
+   "description": "Look into a mirror and the room seems to carry on behind the glass. Nothing is really there. Light from you reflects off the mirror and into your eyes. Your brain expects light to travel in straight lines. So it traces the light back in a straight line, to a place behind the glass. Step back one step, and your image steps back one step too. Your image is also the same size as you.",
    "examples": [
     "Stand one big step from a mirror. Your image looks two big steps away from you.",
     "A small mirror can still show a whole big room behind you.",
@@ -162,15 +162,15 @@
    ],
    "perspectives": [],
    "art": "A child one step in front of a mirror, and a dotted mirror-child one step behind the glass, with footprints marking equal distances.",
-   "context": "This card explains where the picture in a mirror seems to be, and why it is not really there."
+   "context": "This card explains where the image in a mirror seems to be, and why it is not really there."
   },
   {
    "concept": "Does a mirror swap left and right?",
    "status": "debated",
-   "description": "Raise your right hand in front of a mirror. The mirror person raises the hand on the same side as yours. Yet we say they raised their left hand. So what does a mirror really swap? Scientists agree on what the light does. People still argue about why it feels like left and right.",
+   "description": "Raise your right hand in front of a mirror. The image raises the hand on the same side of the room as yours. Yet we say it raised its left hand. So what does a mirror really swap? Scientists agree on what the light does. People still argue about why it feels like left and right.",
    "examples": [
-    "Your watch on your left wrist appears on the mirror person's right wrist.",
-    "A mirror does not turn you upside down, even though it could seem to.",
+    "Wear a watch on your left wrist. The image's watch is on the same side of the room, but the image looks like a person wearing it on the right wrist.",
+    "A flat mirror does not turn you upside down. Your head stays at the top of the image.",
     "Writing held up to a mirror reads from right to left."
    ],
    "perspectives": [
@@ -194,7 +194,7 @@
    "concept": "Mirror writing",
    "status": "defined",
    "definition": "Mirror writing is writing that runs backwards, from right to left, with every letter turned round. Held up to a mirror, it reads normally.",
-   "description": "A mirror turns things round from front to back. So writing seen in a mirror runs backwards. If you write backwards on purpose, the mirror turns it round the right way again. That is why ambulances have their name written backwards on the front. A driver in front sees it in the rear-view mirror and reads AMBULANCE. Writing seen through the back of a window, or through thin paper, also looks like mirror writing.",
+   "description": "A mirror turns things round from front to back. So writing seen in a mirror runs backwards. If you write backwards on purpose, the mirror turns it the right way round again. That is why many ambulances have their name written backwards on the front. A driver in front sees it in the rear-view mirror and reads AMBULANCE. Writing seen from the back of a window, or through thin paper, also looks like mirror writing.",
    "examples": [
     "The great Italian artist Leonardo da Vinci, about 500 years ago, filled his notebooks with mirror writing. He was left-handed.",
     "In the 1871 book Through the Looking-Glass, Alice finds a poem printed backwards. She holds it up to a mirror to read it.",
@@ -208,7 +208,7 @@
    "concept": "What mirrors are made of",
    "status": "defined",
    "definition": "Most mirrors are a sheet of glass with a very thin layer of shiny metal, like silver or aluminium, on the back.",
-   "description": "The first mirrors were still water. About 8,000 years ago, people in Anatolia, in today's Turkey, polished a black volcanic glass called obsidian into mirrors. Later people polished bronze and copper. In Kerala, craftspeople in Aranmula still make mirrors of polished metal by hand, called Aranmula kannadi. In 1835 a German chemist, Justus von Liebig, found a way to coat glass with a thin layer of silver. That made bright mirrors cheap. Today most mirrors use aluminium.",
+   "description": "The first mirrors were probably still water. About 8,000 years ago, people in Anatolia, in today's Turkey, polished a black volcanic glass called obsidian into mirrors. Later, people polished bronze and copper. In Aranmula, in Kerala, craftspeople still make mirrors of polished metal by hand, called Aranmula kannadi. In 1835 a German chemist, Justus von Liebig, found a way to coat glass with a thin layer of silver. That made bright mirrors cheap. Today most mirrors are glass coated with silver or aluminium.",
    "examples": [
     "A still bucket of water is a mirror.",
     "A polished steel tumbler or thali is a mirror made of metal.",
@@ -221,36 +221,36 @@
   {
    "concept": "Deep down: electrons send the light back",
    "status": "defined",
-   "definition": "In a metal, free electrons are shaken by the light that hits them. As they shake, they send out new light, which is the reflected light.",
-   "description": "Zoom into the thin metal layer of a mirror. It is made of atoms. Some of their electrons are free to move about. Light is a quick wobble of electric and magnetic push. When light hits the metal, it shakes those free electrons. Shaking electrons send out light of their own. That new light goes back out from the mirror. So a reflection is not light that never touched anything. It is light passed on by trillions of tiny electrons.",
+   "definition": "In a metal, the light that arrives shakes the free electrons. As they shake, they send out new light. That new light is the reflection.",
+   "description": "Zoom into the thin metal layer of a mirror. It is made of atoms. In a metal, some of the electrons are free to move about. Light is a fast wave of electric and magnetic force. When light hits the metal, it shakes those free electrons. Electrons that shake send out light of their own. That new light leaves the mirror, and it is the reflection you see. So a reflection is light passed on by huge numbers of tiny electrons.",
    "examples": [
-    "Metals are shiny because they have free electrons. Wood and cloth do not, so they are not shiny.",
+    "Metals are shiny because they have free electrons. Wood and cloth do not, so they never shine like metal.",
     "Silver reflects about 95 out of every 100 parts of the light that hits it.",
-    "The force that makes a mirror shine is the same electric force that makes friction and holds atoms together."
+    "The force that makes a mirror shine is the electric force. The same force holds atoms together and causes friction."
    ],
    "perspectives": [],
    "art": "A huge zoom into a mirror's silver layer: wobbly light arriving, tiny electrons jiggling, and new wobbly light leaving.",
    "context": "This card zooms right in to the atoms in a mirror, to see what reflection really is."
   },
   {
-   "concept": "Two mirrors make many pictures",
+   "concept": "Two mirrors make many images",
    "status": "defined",
-   "definition": "When two mirrors face each other, light can bounce from one to the other again and again. Each bounce makes another picture.",
-   "description": "Stand two mirrors like an open book. Put a toy between them. Light from the toy bounces once to make some pictures. It bounces twice, three times and more to make others. The smaller the gap between the mirrors, the more pictures you see. With two mirrors facing each other, the pictures seem to go on for ever. But each bounce loses a little light. So the far pictures get darker and a little greenish, and then fade away.",
+   "definition": "When two mirrors face each other, light can reflect from one to the other again and again. Each reflection makes another image.",
+   "description": "Stand two mirrors like an open book, and put a toy between them. Some light from the toy reflects once and makes some of the images. Some reflects twice, three times or more, and makes the others. The smaller the angle between the mirrors, the more images you see. With two mirrors facing each other, the images seem to go on for ever. But each reflection loses a little light. So the far images get darker and a little greenish, and then fade away.",
    "examples": [
-    "Two mirrors at a right angle, like the corner of a book, make 3 pictures of a toy.",
-    "A kaleidoscope uses three mirrors to turn a few beads into a whole flower.",
+    "Two mirrors at a right angle, like the corner of a box, make 3 images of a toy.",
+    "A kaleidoscope uses two or three mirrors to turn a few beads into a whole flower.",
     "In a lift or a salon with mirrors on facing walls, you see a long tunnel of yourself."
    ],
    "perspectives": [],
-   "art": "A toy elephant between two mirrors standing like an open book, with five copies of the elephant arranged in a circle.",
-   "context": "This card explains why two mirrors make many pictures of one thing."
+   "art": "A toy elephant between two mirrors joined at a right angle, with three images of the elephant, so four elephants stand in a ring.",
+   "context": "This card explains why two mirrors make many images of one thing."
   },
   {
    "concept": "Mirrors in living things",
    "status": "defined",
    "definition": "Some animals have mirrors built into their bodies. They are made of tiny stacked crystals or layers that reflect light.",
-   "description": "A cat's eyes shine in torchlight. A layer at the back of each eye works like a mirror. It sends light back through the eye a second time, so the cat sees better in dim light. Many silvery fish have mirror scales. A scallop, a kind of shellfish, has up to 200 tiny eyes. Each eye uses a curved mirror made of square crystals, found in 2017. A deep-sea spookfish uses mirrors in its eyes too.",
+   "description": "A cat's eyes shine in torchlight. A layer at the back of each eye works like a mirror. It sends light back through the eye a second time, so the cat sees better in dim light. Many silvery fish have mirror scales. A scallop, a kind of shellfish, has up to 200 tiny eyes. Each eye has a curved mirror made of tiny square crystals. Scientists described it in 2017. A deep-sea fish called the spookfish uses mirrors in its eyes too.",
    "examples": [
     "Cows, dogs and cats have eyes that shine in headlights. Human eyes do not.",
     "Silvery fish like the sardine are hard to see in water, because their sides reflect the water around them.",
@@ -289,7 +289,7 @@
   {
    "concept": "Is nature the same in a mirror?",
    "status": "idea",
-   "description": "Your two hands are mirror pictures of each other. Many tiny molecules come in two mirror forms too, like a left and a right glove. Living things almost always use only one of the two forms. Nobody knows for sure why. Some scientists think it happened by chance when life began. Others think something in nature tipped the balance.",
+   "description": "Your two hands are mirror images of each other. Many tiny molecules come in two mirror forms too, like a left and a right glove. Living things almost always use only one of the two forms. Nobody knows for sure why. Some scientists think it happened by chance when life began. Others think something in nature tipped the balance.",
    "examples": [
     "In 1848 the French scientist Louis Pasteur found that some crystals come in left-handed and right-handed forms.",
     "The building blocks of the proteins in your body are nearly all the left-handed kind.",
@@ -302,12 +302,12 @@
   {
    "concept": "Mirrors that look at the sky",
    "status": "defined",
-   "definition": "Big telescopes use curved mirrors to collect faint light from stars and bring it together into a picture.",
+   "definition": "Big telescopes use curved mirrors to collect faint light from stars and bring it together into an image.",
    "description": "A curved mirror can gather lots of light into one small spot. In 1668 Isaac Newton built a telescope with a mirror instead of a glass lens. Today the biggest telescopes all use mirrors. The James Webb Space Telescope, launched in 2021, has 18 six-sided mirrors coated in a thin layer of gold. Together they are 6.5 metres wide. In India, at Devasthal near Nainital, a telescope uses a spinning pool of liquid metal as its mirror.",
    "examples": [
     "A torch has a curved mirror behind the bulb to send its light forward.",
     "Astronauts on Apollo 11 left a set of mirrors on the Moon in 1969. Scientists still bounce laser light off them.",
-    "Rows of mirrors can bounce sunlight onto one spot to make heat for cooking."
+    "Rows of curved mirrors can reflect sunlight onto one spot to make heat for cooking."
    ],
    "perspectives": [],
    "art": "The gold honeycomb mirror of the James Webb Space Telescope floating in space with a starry background.",
@@ -316,24 +316,24 @@
  ],
  "agreed": [
   {
-   "text": "Light bounces off a flat mirror at the same slant that it came in.",
-   "evidence": "Hero of Alexandria wrote about mirrors about 2,000 years ago. Ibn al-Haytham tested it carefully about 1,000 years ago, in his Book of Optics. Children test it with a torch and a mirror every day."
+   "text": "Light reflects off a flat mirror at the same angle that it came in.",
+   "evidence": "Hero of Alexandria wrote about this about 2,000 years ago. Ibn al-Haytham tested it carefully about 1,000 years ago, in his Book of Optics. You can test it yourself with a torch and a mirror."
   },
   {
-   "text": "A smooth, shiny surface shows a clear picture. A rough surface scatters the light, so it shows no picture.",
-   "evidence": "Ripples on a pond break up the picture of the trees. When the water goes still, the picture comes back."
+   "text": "A smooth, shiny surface shows a clear image. A rough surface scatters the light, so it shows no image.",
+   "evidence": "Ripples on a pond break up the image of the trees. When the water goes still, the image comes back."
   },
   {
    "text": "A flat mirror's image is the same size as the thing, and as far behind the mirror as the thing is in front.",
-   "evidence": "You can measure it. Put a candle in front of a sheet of glass. Its image lines up with a second candle placed the same distance behind."
+   "evidence": "You can measure it. Stand a candle in front of a sheet of clear glass. Its image lines up with a second candle placed the same distance behind the glass."
   },
   {
    "text": "Mirrors reflect because of free electrons in their metal layer.",
-   "evidence": "Metals, which have free electrons, are shiny. Wood, cloth and stone are not. Scientists can predict how shiny a metal will be from its electrons."
+   "evidence": "Metals, which have free electrons, are shiny. Wood and cloth are not. Scientists can work out how well a metal reflects from how its electrons move."
   },
   {
    "text": "No mirror reflects all the light. A little is always lost.",
-   "evidence": "In two mirrors facing each other, the far pictures get darker. Even the best mirrors scientists make lose a tiny bit at every bounce."
+   "evidence": "In two mirrors facing each other, the far images get darker. Even the best mirrors scientists make lose a tiny bit at every bounce."
   }
  ],
  "challenging": [
@@ -341,14 +341,14 @@
    "claim": "A mirror shows you exactly as you are.",
    "who": "A common belief. People say 'the mirror never lies'.",
    "for": "A flat mirror shows your real size and shape, with every hair in place.",
-   "against": "A mirror shows you turned round, front to back. Your friends see you the other way round. A curved mirror at a mela stretches you tall or squashes you short. And a mirror loses a little light, so you look a tiny bit darker.",
+   "against": "A mirror shows you turned front to back, so your friends see you the other way round. A curved mirror at a mela stretches you tall or squashes you short. And a mirror loses a little light, so your image is a tiny bit darker than you.",
    "status": "rejected",
    "context": "This card is about the saying that a mirror shows us exactly as we are."
   },
   {
    "claim": "Archimedes set Roman ships on fire with mirrors.",
    "who": "A story told about the Greek thinker Archimedes, written down hundreds of years after he lived",
-   "for": "Mirrors really can focus sunlight to make fire. In 2005, students at a university in America lit a still wooden model of a ship using 127 mirrors.",
+   "for": "Mirrors really can focus sunlight to start a fire. In 2005, students at MIT, a university in America, set fire to a still wooden model of a ship using 127 mirrors.",
    "against": "No writer from his own time tells the story. Real ships move, and on a cloudy day it would fail. Most historians think it is a legend.",
    "status": "debated",
    "context": "This card is about a famous old story of mirrors used as a weapon. Is it true?"
@@ -357,7 +357,7 @@
    "claim": "A mirror swaps left and right.",
    "who": "What almost everyone says",
    "for": "Writing looks backwards, and a right hand seems to become a left hand.",
-   "against": "A mirror really swaps front and back. Your raised hand stays on the same side. The left-right feeling comes from imagining turning round.",
+   "against": "A mirror really swaps front and back. Your raised hand stays on the same side of the room. The left-right feeling may come from imagining yourself turned round to stand where the image is.",
    "status": "debated",
    "context": "This card is about the common saying that mirrors swap left and right."
   },
@@ -365,7 +365,7 @@
    "claim": "Writing backwards means a child is doing something wrong.",
    "who": "An old way of thinking in many schools",
    "for": "Backwards letters are harder for others to read.",
-   "against": "Many children reverse letters while learning. Most grow out of it by about age 7. Leonardo da Vinci wrote backwards all his life and was one of the greatest thinkers ever. Mirror writing is a real skill.",
+   "against": "Many children reverse letters while learning. Most grow out of it by about age 7 or 8. Leonardo da Vinci wrote backwards all his life and was one of the greatest thinkers ever. Mirror writing is a real skill.",
    "status": "rejected",
    "context": "This card is about how people used to think about children who write backwards."
   },
@@ -378,6 +378,12 @@
    "context": "This card is about a new and argued-about idea: that our brains mirror other people."
   }
  ],
+ "how_we_found_out": {
+  "story": "For more than a thousand years, many thinkers believed we see by sending rays out of our eyes. The Greek mathematician Euclid wrote about seeing this way, around 300 BCE. About 2,000 years ago, Hero of Alexandria used the same idea to explain mirrors. He showed that a ray leaves a mirror at the same angle it arrives. But he thought the ray came from the eye. About 1,000 years ago, in Cairo, Ibn al-Haytham asked new questions. Why does looking at the Sun hurt your eyes? Why do you still see a bright patch after you look at a lamp? If rays only went out of the eye, light could not do this to it. So he said light travels from things into our eyes. He tested reflection with polished metal mirrors and narrow tubes that let through only a thin beam of light. He found the same rule: the angle in equals the angle out. He wrote it all in his Book of Optics, finished around 1021. Scholars in Europe translated it into Latin and studied it for hundreds of years.",
+  "who": "Ibn al-Haytham, after Euclid and Hero of Alexandria",
+  "when": "About 300 BCE to about 1021 CE",
+  "wrong_idea": "We see by sending rays out of our eyes. Ibn al-Haytham pointed out that bright light hurts the eyes and leaves a bright patch behind, which makes sense only if light comes into the eye."
+ },
  "big_questions": [
   {
    "q": "Is the face in the mirror really you?",
@@ -390,9 +396,9 @@
    "hint": "Think of mirrors, photos, water and what other people tell you."
   },
   {
-   "q": "If you put two perfect mirrors face to face, would the pictures go on for ever?",
+   "q": "If you put two perfect mirrors face to face, would the images go on for ever?",
    "kind": "deep",
-   "hint": "Each bounce loses a little light. Can anything in the world be perfect?"
+   "hint": "Each reflection loses a little light. What would happen to the far images?"
   },
   {
    "q": "Why can you see yourself in a steel plate but not in a wooden one?",
@@ -415,14 +421,14 @@
    "hint": "What comes back to you when you think about what you did today?"
   },
   {
-   "q": "Is it fair that some children were scolded for writing backwards?",
-   "kind": "big",
-   "hint": "Leonardo da Vinci wrote backwards. Is different the same as wrong?"
+   "q": "A mirror swaps front and back. So why does almost everyone say it swaps left and right?",
+   "kind": "deep",
+   "hint": "Play Mirror Twins. Which hand does your twin raise, and which side of the room is it on?"
   },
   {
-   "q": "Indra's net is an old picture of jewels that each reflect all the others. Are people a bit like that?",
+   "q": "One lamp in a hall of tiny mirrors looks like hundreds of lights. How many lights are really there?",
    "kind": "big",
-   "hint": "Think of how you smile when someone smiles at you."
+   "hint": "Think of two mirrors and one toy. What is one, and what is many?"
   }
  ],
  "story": {
@@ -572,7 +578,7 @@
        "Nothing"
       ],
       "a": 0,
-      "why": "Game moment: the letter A has a line of symmetry straight down its middle. Its left half is the mirror picture of its right half. So the mirror shows the same A. Letters like B and R have no up-and-down line of symmetry, so they turn round."
+      "why": "Game moment: the letter A has a line of symmetry straight down its middle. Its left half is the mirror image of its right half. So the mirror shows the same A. Letters like B and R have no line of symmetry down the middle, so they turn round."
      }
     },
     {
@@ -640,7 +646,7 @@
     "Stick the target on a wall in a dim room. Put the torch on a pile of books, aimed away from the target.",
     "Each player holds one mirror.",
     "Round 1: one player must bounce the torch beam onto the target with their mirror.",
-    "Round 2: two players. The light must bounce off both mirrors before it reaches the target.",
+    "Round 2: two players. The light must reflect off both mirrors before it reaches the target.",
     "Round 3: three players, three bounces.",
     "Score the ring the light lands in. More bounces means harder, so double the points from round 3.",
     "Never let the beam shine into anyone's eyes. If it does, that round scores zero."
@@ -677,13 +683,13 @@
       "t": "mcq",
       "q": "The beam lands too far to the left of the target. What should you do?",
       "options": [
-       "Tilt the mirror a little, so the light leaves at a new slant",
+       "Tilt the mirror a little, so the light leaves at a new angle",
        "Shake the torch",
        "Hold the mirror further from the light",
        "Close your eyes"
       ],
       "a": 0,
-      "why": "Game moment: the light leaves the mirror at the same slant it arrives. Tilt the mirror, and you change the slant, so the spot moves. Small tilts make big moves on a far wall."
+      "why": "Game moment: the light leaves the mirror at the same angle it arrives. Tilt the mirror, and you change the angle, so the spot moves. Small tilts make big moves on a far wall."
      }
     },
     {
@@ -746,28 +752,27 @@
     },
     {
      "t": "fill",
-     "p": "When light hits a mirror, it bounces off at the same ____ that it came in.",
+     "p": "When light hits a mirror, it reflects off at the same ____ that it came in.",
      "a": [
-      "slant",
       "angle"
      ],
-     "why": "Light leaves a mirror at the same slant it arrived, on the other side, like a ball bouncing off a wall."
+     "why": "Light leaves a mirror at the same angle it arrived, on the other side, like a ball bouncing off a wall."
     },
     {
      "t": "sort",
-     "p": "Sort these. Does each one show a clear picture of your face, or only shine?",
+     "p": "Sort these. Does each one show a clear image of your face, or only shine?",
      "cats": [
-      "Shows a clear picture",
+      "Shows a clear image",
       "Only shines or shows nothing"
      ],
      "items": [
       [
        "a new steel spoon",
-       "Shows a clear picture"
+       "Shows a clear image"
       ],
       [
        "a still bucket of water",
-       "Shows a clear picture"
+       "Shows a clear image"
       ],
       [
        "crumpled foil",
@@ -779,7 +784,7 @@
       ],
       [
        "a phone screen that is switched off",
-       "Shows a clear picture"
+       "Shows a clear image"
       ],
       [
        "a cotton towel",
@@ -787,13 +792,13 @@
       ]
      ],
      "a": "see items",
-     "why": "Smooth, shiny surfaces send light back in neat order, so they show a picture. Rough surfaces scatter light every way, so there is no picture."
+     "why": "Smooth, shiny surfaces send light back in neat order, so they show an image. Rough surfaces scatter light every way, so there is no image."
     },
     {
      "t": "truefalse",
      "p": "A white wall reflects light.",
      "a": true,
-     "why": "True. A white wall reflects a lot of light. That is why a white room looks bright. But the wall is rough, so the light scatters and there is no picture."
+     "why": "True. A white wall reflects a lot of light. That is why a white room looks bright. But the wall is rough, so the light scatters and there is no image."
     },
     {
      "t": "mcq",
@@ -805,7 +810,7 @@
       "The wall is too far away"
      ],
      "a": 0,
-     "why": "Both reflect light. But the wall's tiny bumps send light every which way, and the picture gets mixed up. Picking 'the mirror is a light source' is a common mix-up. Neither of them makes light."
+     "why": "Both reflect light. But the wall's tiny bumps send light every which way, and the image gets mixed up. Picking 'the mirror is a light source' is a common mix-up. Neither of them makes light."
     },
     {
      "t": "match",
@@ -866,7 +871,7 @@
     },
     {
      "t": "order",
-     "p": "Put the steps of the bouncing-beam test in order.",
+     "p": "Put the steps of the torch-and-mirror test in order.",
      "items": [
       "Make a thin beam with a slit card on the torch",
       "Stand the mirror on the top edge of the paper",
@@ -879,15 +884,15 @@
     },
     {
      "t": "truefalse",
-     "p": "A mirror makes things look upside down.",
+     "p": "A flat mirror makes things look upside down.",
      "a": false,
-     "why": "False. A flat mirror keeps up as up. Only a curved mirror, like the inside of a spoon, can flip a picture upside down."
+     "why": "False. A flat mirror keeps up as up. Only a curved mirror, like the inside of a spoon, can flip an image upside down."
     },
     {
      "t": "draw",
      "p": "Draw a torch, a flat mirror and an eye. Draw the path of the light from the torch to the mirror, then to the eye. Use a ruler.",
-     "a": "Two straight lines with arrows. One goes from the torch to the mirror. The other goes from the mirror to the eye, at the same slant on the other side.",
-     "why": "Light travels in straight lines and bounces off at the same slant it came in.",
+     "a": "Two straight lines with arrows. One goes from the torch to the mirror. The other goes from the mirror to the eye, at the same angle on the other side.",
+     "why": "Light travels in straight lines and reflects off at the same angle it came in.",
      "art": "A blank page with a torch on the left, a mirror at the top and an eye on the right."
     },
     {
@@ -900,7 +905,7 @@
       "F"
      ],
      "a": 0,
-     "why": "The letter A has a line of symmetry straight down its middle, so its mirror picture is the same. B, R and F have no such line, so they turn round. Picking B often means noticing B's top and bottom match. That is a different line of symmetry, side to side.",
+     "why": "The letter A has a line of symmetry straight down its middle, so its mirror image is the same. B, R and F have no such line, so they turn round. Picking B often means noticing that the top half of B matches the bottom half. That is a line of symmetry across the middle, so B stays the same only when the mirror lies under it.",
      "how": "a4"
     },
     {
@@ -912,9 +917,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Two mirrors standing like an open book make more than one picture of a toy.",
+     "p": "Two mirrors standing like an open book make more than one image of a toy.",
      "a": true,
-     "why": "True. Light bounces between the two mirrors, and each bounce makes another picture. At a quarter-circle gap you see 3 pictures.",
+     "why": "True. Light reflects between the two mirrors, and each reflection makes another image. At a right angle, a quarter of a circle, you see 3 images.",
      "how": "e3"
     }
    ]
@@ -935,7 +940,7 @@
       "On the middle line"
      ],
      "a": 0,
-     "why": "Light leaves at the same slant on the other side. So 8 cm left goes to about 8 cm right. Picking 16 cm often means adding the two sides together.",
+     "why": "Light leaves at the same angle on the other side. So 8 cm left goes to about 8 cm right. Picking 16 cm often means adding the two sides together.",
      "how": "e1"
     },
     {
@@ -948,7 +953,7 @@
       "It stops"
      ],
      "a": 0,
-     "why": "Head on in means head on out. With no slant, the light comes straight back. Picking left or right usually means remembering the V shape, which only happens when light comes in at a slant."
+     "why": "Head on in means head on out. With no angle, the light comes straight back. Picking left or right usually means remembering the V shape, which only happens when light comes in at an angle."
     },
     {
      "t": "truefalse",
@@ -959,22 +964,22 @@
     },
     {
      "t": "fill",
-     "p": "Two mirrors at a quarter-circle gap make 3 pictures. At a sixth gap they make ____ pictures.",
+     "p": "Two mirrors opened to a quarter of a circle make 3 images. Opened to a sixth of a circle, they make ____ images.",
      "a": [
       "5",
       "five"
      ],
-     "why": "The number of slices that fit in a whole circle, take away 1. 6 slices take away 1 is 5.",
+     "why": "Count how many of these gaps fit in a whole circle, then take away 1. 6 take away 1 is 5.",
      "how": "e3"
     },
     {
      "t": "mcq",
-     "p": "In two mirrors facing each other, why do the far pictures fade?",
+     "p": "In two mirrors facing each other, why do the far images fade?",
      "opts": [
       "Each bounce loses a little light",
       "The mirrors get tired",
       "Light slows down and stops",
-      "The pictures move away too fast"
+      "The images move away too fast"
      ],
      "a": 0,
      "why": "No mirror sends back every bit of light. After many bounces, very little is left. Picking 'light slows down' is a common idea. Light does not slow down when it bounces, but some of it is kept by the mirror each time.",
@@ -1080,9 +1085,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw two mirrors standing like an open book, with a toy between them. Draw all the pictures of the toy you would see at a quarter gap.",
-     "a": "Two mirrors at a right angle, one real toy and 3 pictures of the toy, arranged in a ring.",
-     "why": "At a quarter-circle gap, two mirrors make 3 pictures.",
+     "p": "Draw two mirrors standing like an open book at a right angle, with a toy between them. Draw all the images of the toy you would see.",
+     "a": "Two mirrors at a right angle, one real toy and 3 images of the toy, arranged in a ring.",
+     "why": "At a right angle, two mirrors make 3 images.",
      "how": "e3"
     },
     {
@@ -1184,7 +1189,7 @@
     },
     {
      "t": "mcq",
-     "p": "Two mirrors are at an eighth-of-a-circle gap. How many pictures of a toy between them?",
+     "p": "Two mirrors are opened to an eighth of a circle. How many images of a toy between them will you see?",
      "opts": [
       "7",
       "8",
@@ -1192,7 +1197,7 @@
       "4"
      ],
      "a": 0,
-     "why": "8 slices fit in a whole circle. Take away 1 for the real toy's slice. 8 minus 1 is 7. Picking 8 means counting the real toy as a picture.",
+     "why": "8 of these gaps fit in a whole circle. Take away 1 for the real toy. 8 minus 1 is 7. Picking 8 means counting the real toy as an image.",
      "how": "e3"
     },
     {
@@ -1217,7 +1222,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "All of them use the same rule: a mirror sends light off at the same slant it came in. Curved mirrors can bring lots of light together into one spot."
+     "why": "All of them use the same rule: a mirror sends light off at the same angle it came in. Curved mirrors can bring lots of light together into one spot."
     },
     {
      "t": "truefalse",
@@ -1228,14 +1233,14 @@
     },
     {
      "t": "write",
-     "p": "Your hands are mirror pictures of each other. Many tiny molecules in living things also come in two mirror forms. What is strange about which form life uses?",
+     "p": "Your hands are mirror images of each other. Many tiny molecules in living things also come in two mirror forms. What is strange about which form life uses?",
      "lines": 3,
      "a": "Life almost always uses only one of the two forms. For example, the building blocks of our proteins are nearly all the left-handed kind. Nobody knows for sure why.",
      "why": "This is an open question in science. Scientists have ideas, but nobody knows the answer yet."
     },
     {
      "t": "mcq",
-     "p": "Why do the far pictures in two facing mirrors look a little green?",
+     "p": "Why do the far images in two facing mirrors look a little green?",
      "opts": [
       "The glass soaks up a little more of the other colours",
       "Mirrors are painted green",
@@ -1248,7 +1253,7 @@
     {
      "t": "draw",
      "p": "Design a road sign that a driver can read in the rear-view mirror. Draw the sign as it must be painted.",
-     "a": "The word or picture is painted backwards, from right to left, with every letter turned round.",
+     "a": "The word or image is painted backwards, from right to left, with every letter turned round.",
      "why": "The mirror turns the sign round, so it must be painted the mirror's way to read correctly."
     },
     {
@@ -1269,7 +1274,7 @@
      "t": "write",
      "p": "Is the face in the mirror really you? Give a reason for your answer.",
      "lines": 3,
-     "a": "Any honest answer with a reason is good. For example: 'Yes, because it moves when I move.' Or: 'No, it is only light that bounced off me.'",
+     "a": "Any honest answer with a reason is good. For example: 'Yes, because it moves when I move.' Or: 'No, it is only light that reflected off me.'",
      "why": "This is a big question with no single right answer. A good answer gives a reason."
     }
    ]
@@ -1278,17 +1283,17 @@
  "experiments": [
   {
    "id": "e1",
-   "title": "Catch the Bouncing Beam: does light bounce like a ball?",
+   "title": "Catch the Beam: where does light go after it hits a mirror?",
    "mins": 25,
    "days": 1,
-   "question": "When a thin beam of light hits a mirror at a slant, where does it go?",
-   "predict": "Before you switch on the torch, point to where you think the bounced beam will land. Will it come straight back, go to the same side, or go to the other side?",
+   "question": "When a thin beam of light hits a mirror at an angle, where does it go?",
+   "predict": "Before you switch on the torch, point to where you think the reflected beam will land. Will it come straight back, go to the same side, or go to the other side? Why do you think so?",
    "fair_test": "To make it fair, always aim at the same spot on the mirror, the middle mark. Change only one thing: how far to the left the torch starts. Try each start point twice, because one try can be a fluke.",
    "results_table": [
     "Where the torch started (cm left of the middle line)",
-    "Try 1: where the bounced beam reached the bottom edge (cm right of the middle line)",
+    "Try 1: where the reflected beam reached the bottom edge (cm right of the middle line)",
     "Try 2 (cm right)",
-    "Middle value (cm right)"
+    "Halfway between the two tries (cm right)"
    ],
    "materials": [
     {
@@ -1310,7 +1315,7 @@
      "qty": 1
     },
     {
-     "item": "a large sheet of paper, a pencil and a ruler",
+     "item": "a large sheet of paper at least 40 cm wide (chart paper, or two A4 sheets taped side by side), a pencil and a ruler",
      "qty": 1,
      "buy": "b-ruler"
     },
@@ -1319,7 +1324,7 @@
      "qty": 1
     }
    ],
-   "safety": "Never shine the torch into anyone's eyes, either straight or bounced off the mirror. A grown-up cuts the slit in the card. If the mirror is glass, hold it by its edges and keep it in its frame.",
+   "safety": "Never shine the torch into anyone's eyes, either straight or reflected off the mirror. A grown-up cuts the slit in the card. If the mirror is glass, hold it by its edges and keep it in its frame.",
    "schedule": [
     {
      "day": 1,
@@ -1328,7 +1333,7 @@
     }
    ],
    "record": "Fill in the table. Then draw each beam with a ruler: one line in to the mirror, one line out. Fold the paper along the middle line and see if the lines match.",
-   "context": "This is the bouncing-beam experiment. You shine a thin beam of torchlight at a mirror from the side, and mark where it bounces to.",
+   "context": "This is the torch-and-mirror experiment. You shine a thin beam of torchlight at a mirror from the side, and mark where the reflected beam goes.",
    "setup": [
     {
      "art": "A torch lying on a table with a piece of card taped over its glass, the card having one thin slit, making a thin line of light on the paper.",
@@ -1339,15 +1344,15 @@
      "caption": "2. Stand the mirror on the top edge of the paper. Draw a middle line straight down from it."
     },
     {
-     "art": "A thin beam starting 10 cm left of the middle line, hitting the middle of the mirror and bouncing back down to a pencil mark 10 cm right of the line, making a V.",
-     "caption": "3. Aim at the middle of the mirror from the left. Mark where the bounce lands on the right."
+     "art": "A thin beam starting 10 cm left of the middle line, hitting the middle of the mirror and reflecting down to a pencil mark 10 cm right of the line, making a V.",
+     "caption": "3. Aim at the middle of the mirror from the left. Mark where the reflected beam lands on the right."
     }
    ],
    "example_chart": {
     "type": "bar",
-    "title": "Made-up example results: where the bounced beam landed",
+    "title": "Made-up example results: where the reflected beam landed",
     "x": "Torch started this far left of the middle line",
-    "y": "Bounced beam landed this far right (cm)",
+    "y": "Reflected beam landed this far right (cm)",
     "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be a little different.",
     "data": [
      {
@@ -1376,7 +1381,7 @@
      "kid": "Tape the card with the slit over your torch. Close the curtains. Lay the torch flat on the paper. Switch it on. See the thin line of light?",
      "adult": true,
      "parent": "A grown-up cuts the slit with scissors: about 2 mm wide and 3 cm long. A comb also works. It makes several thin beams.",
-     "context": "This is the first step of the bouncing-beam experiment. Here you make a thin beam of light so you can follow it."
+     "context": "This is the first step of the torch-and-mirror experiment. Here you make a thin beam of light so you can follow it."
     },
     {
      "id": "s2",
@@ -1384,17 +1389,17 @@
      "do": "1. Stand the mirror upright on the top edge of the paper, using plasticine or books. 2. Mark the middle of the mirror's bottom edge. 3. Draw a line with the ruler from that mark straight down to the bottom of the paper. 4. On the bottom edge, mark 5 cm, 10 cm and 15 cm to the left of the line.",
      "say": "This middle line is our guide. We will start the torch on the left marks, and see where the light lands.",
      "kid": "Stand the mirror up at the top of the paper. Draw a straight line down from its middle. Mark 5, 10 and 15 cm to the left of it.",
-     "context": "In the bouncing-beam experiment, a mirror stands at the top of a sheet of paper. Here you draw the guide line and the start marks."
+     "context": "In the torch-and-mirror experiment, a mirror stands at the top of a sheet of paper. Here you draw the guide line and the start marks."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Ask your child to guess where the bounced beam will land if the torch starts at the 10 cm mark. Write the guess down.",
-     "say": "Before we try it, guess. If the torch starts 10 centimetres to the left, where will the light bounce to?",
-     "kid": "Guess first! If the torch starts 10 cm left, where will the light go?",
+     "say": "Before we try it, guess. If the torch starts 10 centimetres to the left, where will the light go after the mirror? Why do you think so?",
+     "kid": "Guess first! The torch starts 10 cm left. Where will the light go? Why?",
      "check": {
       "t": "mcq",
-      "q": "The torch starts 10 cm to the left of the middle line. It aims at the middle of the mirror. Where will the bounced beam go?",
+      "q": "The torch starts 10 cm to the left of the middle line. It aims at the middle of the mirror. Where will the reflected beam go?",
       "options": [
        "Straight back to the torch",
        "To the right side",
@@ -1402,16 +1407,16 @@
        "It will spread all over the room"
       ],
       "a": 1,
-      "why": "It goes to the right, because light leaves a mirror at the same slant it came in, on the other side. Picking 'straight back' usually means thinking a mirror always sends light back where it came from. That only happens when you shine straight at it. Picking 'all over the room' mixes a mirror up with a white wall, which scatters light. This is only a guess. Now test it."
+      "why": "It goes to the right, because light leaves a mirror at the same angle it came in, on the other side. Picking 'straight back' usually means thinking a mirror always sends light back where it came from. That only happens when you shine straight at it. Picking 'all over the room' mixes a mirror up with a white wall, which scatters light. This is only a guess. Now test it."
      },
-     "context": "In the bouncing-beam experiment, a torch beam hits a mirror at a slant. Here you guess where the light will bounce."
+     "context": "In the torch-and-mirror experiment, a torch beam hits a mirror at an angle. Here you guess where the reflected light will go."
     },
     {
      "id": "s4",
      "mins": 8,
-     "do": "1. Put the back of the torch on the 5 cm mark and aim its beam at the middle mark on the mirror. 2. Find where the bounced beam reaches the bottom edge. Make a mark there. 3. Measure how far right of the middle line it is. 4. Do the same from 10 cm and 15 cm. 5. Do each one twice.",
+     "do": "1. Lay the torch on the 5 cm mark, pointing at the middle mark on the mirror. 2. Find where the reflected beam reaches the bottom edge. Make a mark there. 3. Measure how far right of the middle line it is. 4. Do the same from 10 cm and 15 cm. 5. Do each one twice.",
      "say": "Let's test each start mark twice. Measure from the middle line to where the light lands.",
-     "kid": "Start at 5 cm. Aim at the middle of the mirror. Where does the light land? Mark it. Measure it. Now try 10 and 15.",
+     "kid": "Start at 5 cm. Aim at the middle of the mirror. Where does the light land? Mark it and measure it. Now try 10 and 15.",
      "ask": [
       {
        "q": "What do you notice about your numbers?",
@@ -1422,37 +1427,37 @@
       }
      ],
      "parent": "Expect the landing marks to be close to 5, 10 and 15 cm right of the line. If they are a few centimetres off, that is normal. The torch beam is a bit wide, and the mirror may not stand quite straight.",
-     "context": "In the bouncing-beam experiment, you start a torch at different marks on the left and aim at the middle of a mirror. Here you measure where each bounce lands."
+     "context": "In the torch-and-mirror experiment, you start a torch at different marks on the left and aim at the middle of a mirror. Here you measure where each reflected beam lands."
     },
     {
      "id": "s5",
      "mins": 3,
-     "do": "1. With a ruler, draw each beam: a line from the start mark to the mirror, and a line from the mirror to the landing mark. 2. Fold the paper along the middle line.",
+     "do": "1. With a ruler, draw each beam as two lines. One line goes from the start mark to the mirror. The other goes from the mirror to the landing mark. 2. Fold the paper along the middle line.",
      "say": "Each beam makes a V shape. Fold the paper on the middle line. Do the two sides of the V lie on top of each other?",
      "kid": "Draw each beam as a V. Now fold the paper on the middle line. Do the two sides match?",
      "check": {
       "t": "mcq",
       "q": "When you fold the paper, the in-line and the out-line lie on top of each other. What does that show?",
       "options": [
-       "Light leaves the mirror at the same slant it came in",
+       "Light leaves the mirror at the same angle it came in",
        "Light gets slower after it bounces",
        "The mirror made new light",
        "The paper was folded wrong"
       ],
       "a": 0,
-      "why": "The two lines match because they have the same slant. The light came in at one slant and left at the same slant, on the other side. Scientists say the angle in equals the angle out. Picking 'the mirror made new light' usually means thinking a mirror is a light source. It is not. It only sends back the light that reaches it."
+      "why": "The two lines match because they have the same angle. The light came in at one angle and left at the same angle, on the other side. Scientists say the angle in equals the angle out. Picking 'the mirror made new light' usually means thinking a mirror is a light source. It is not. It only sends back the light that reaches it."
      },
-     "context": "In the bouncing-beam experiment, each beam makes a V on the paper. Here you fold the paper to compare the two sides of the V."
+     "context": "In the torch-and-mirror experiment, each beam makes a V on the paper. Here you fold the paper to compare the two sides of the V."
     },
     {
      "id": "s6",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: light bounces off a mirror like a ball off a wall. What I saw: when the torch started 10 cm left, the light landed about 10 cm right, and the folded lines matched. Why: the mirror is smooth, so it sends the light off at the same slant it came in.",
-     "think": "Carrom players bounce the striker off the edge. Is that the same rule?",
-     "context": "This is the last step of the bouncing-beam experiment. You say what you found out, what showed it, and why."
+     "say": "Now tell me what you found. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: light leaves a mirror at the same angle it arrives, like a ball bouncing off a wall. What I saw: when the torch started 10 cm left, the light landed about 10 cm right, and the folded lines matched. Why: the mirror is flat and smooth, so every ray leaves at the same angle it came in.",
+     "think": "Carrom players bounce the striker off the edge of the board. Is that nearly the same rule?",
+     "context": "This is the last step of the torch-and-mirror experiment. You say what you found out, what showed it, and why."
     }
    ]
   },
@@ -1462,7 +1467,7 @@
    "mins": 15,
    "days": 1,
    "question": "Is it hard to draw when you can only see your hand in a mirror? Does it get easier with practice?",
-   "predict": "Guess how many times your pencil will slip outside the lines on your first try. Then guess for your third try.",
+   "predict": "Guess how many times your pencil will slip outside the lines on your first try. Then guess for your third try. Why do you think it will change, or stay the same?",
    "fair_test": "Use the same star shape each time, and the same mirror in the same place. Only the number of the try changes. Count every time the pencil goes outside the lines.",
    "results_table": [
     "Try",
@@ -1536,7 +1541,7 @@
        ]
       }
      ],
-     "parent": "Most people find moving towards and away from themselves hardest. That is the direction the mirror turns round. In 1962 the Canadian brain scientist Brenda Milner tested a famous patient with this star task. He got better each day, even though he could not remember practising. His hand learned without his memory.",
+     "parent": "Most people find moving towards and away from themselves hardest. That is the direction the mirror turns round. In 1962 the brain scientist Brenda Milner, working in Canada, tested a famous patient with this star task. He got better each day, even though he could not remember practising. His hand learned without his memory.",
      "context": "In the mirror drawing race, you trace a star looking only in a mirror. Here you time three tries and count your slips."
     },
     {
@@ -1575,17 +1580,17 @@
    "title": "How Many of Me? Two mirrors and a toy",
    "mins": 20,
    "days": 1,
-   "question": "When two mirrors stand like an open book, how does the gap between them change the number of pictures?",
-   "predict": "Guess: when you close the mirrors up to a smaller gap, will you see more pictures of the toy, fewer, or the same?",
-   "fair_test": "Use the same toy in the same place, right in the middle between the mirrors. Change only the gap. Count each picture of the toy, but not the real toy.",
+   "question": "When two mirrors stand like an open book, how does the gap between them change the number of images?",
+   "predict": "Guess: when you close the mirrors up to a smaller gap, will you see more images of the toy, fewer, or the same? Why do you think so?",
+   "fair_test": "Use the same toy in the same place, right in the middle between the mirrors. Change only the gap. Count each image of the toy, but not the real toy.",
    "results_table": [
     "Gap between the mirrors",
-    "Pictures of the toy I counted",
-    "Slices of the circle that fit in the gap"
+    "Images of the toy I counted",
+    "How many of these gaps fit in a whole circle"
    ],
    "materials": [
     {
-     "item": "2 square mirrors or mirror tiles of the same size",
+     "item": "2 square acrylic mirror tiles, or 2 small frameless mirrors of the same size",
      "qty": 2,
      "buy": "b-mirror-tiles"
     },
@@ -1598,7 +1603,7 @@
      "qty": 1
     },
     {
-     "item": "the printed gap guide: a circle cut into 2, 4, 6 and 8 equal slices",
+     "item": "the printed gap guide: a circle cut into 2, 4, 6 and 8 equal slices (the app prints it)",
      "qty": 1
     }
    ],
@@ -1607,16 +1612,16 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Tape two mirrors like a book. Stand them on the gap guide. Count the pictures of a toy at 4 gaps."
+     "what": "Tape two mirrors like a book. Stand them on the gap guide. Count the images of a toy at 4 gaps."
     }
    ],
-   "record": "Fill in the table. Look for a pattern between the slices and the pictures.",
-   "context": "In this experiment you tape two mirrors together like a book and stand a toy between them. You count how many pictures of the toy you see as you close the gap.",
+   "record": "Fill in the table. Look for a pattern between the slices and the images.",
+   "context": "In this experiment you tape two mirrors together like a book and stand a toy between them. You count how many images of the toy you see as you close the gap.",
    "example_chart": {
     "type": "bar",
-    "title": "Pictures of one toy between two mirrors",
+    "title": "Images of one toy between two mirrors",
     "x": "Gap between the mirrors",
-    "y": "Pictures counted (not the real toy)",
+    "y": "Images counted (not the real toy)",
     "note": "These are the numbers you should get if the mirrors stand exactly on the guide lines.",
     "data": [
      {
@@ -1651,8 +1656,8 @@
      "caption": "2. Stand them on the gap guide. Put the toy in the middle."
     },
     {
-     "art": "Looking into the two mirrors at a quarter gap, the toy elephant appears four times in a ring, the real one and three pictures.",
-     "caption": "3. Count the pictures. Then close the gap and count again."
+     "art": "Looking into the two mirrors at a right angle, the toy elephant appears four times in a ring: the real one and three images.",
+     "caption": "3. Count the images. Then close the gap and count again."
     }
    ],
    "flow": [
@@ -1668,31 +1673,31 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Stand the mirror book on the gap guide, opened to a quarter slice. 2. Put the toy in the middle of the slice. 3. Look in from the open side and count the pictures of the toy.",
-     "say": "How many elephants can you see? Count only the pictures, not the real one.",
-     "kid": "Open the mirrors to fit one quarter slice. Put your toy in the middle. Count the pictures. Don't count the real toy.",
-     "parent": "At a quarter gap you should count 3 pictures. Some children count the real toy too, and say 4. That is fine, as long as they say which they mean.",
-     "context": "In the two-mirrors experiment, two mirrors stand like an open book with a toy between them. Here you count the pictures at a quarter gap."
+     "do": "1. Stand the mirror book on the gap guide, opened to a quarter slice. 2. Put the toy in the middle of the slice. 3. Look in from the open side and count the images of the toy.",
+     "say": "How many elephants can you see? Count only the images, not the real one.",
+     "kid": "Open the mirrors to fit one quarter slice. Put your toy in the middle. Count the images. Don't count the real toy.",
+     "parent": "At a right angle you should count 3 images. Some children count the real toy too, and say 4. That is fine, as long as they say which they mean.",
+     "context": "In the two-mirrors experiment, two mirrors stand like an open book with a toy between them. Here you count the images at a right angle."
     },
     {
      "id": "s3",
      "mins": 6,
      "do": "1. Close the mirrors to a sixth slice and count. 2. Then an eighth slice and count. 3. Then open them flat, to half the circle, and count. 4. Write each number in the table.",
-     "say": "Now let's make the gap smaller. What happens to the number of pictures?",
+     "say": "Now let's make the gap smaller. What happens to the number of images?",
      "kid": "Close the gap to a sixth slice. Count. Then an eighth. Count. Then open them flat. Count.",
      "check": {
       "t": "mcq",
-      "q": "At a quarter gap you saw 3 pictures. At a sixth gap you saw 5. What will happen at an eighth gap?",
+      "q": "With the mirrors opened to a quarter of a circle you saw 3 images. At a sixth of a circle you saw 5. What will happen at an eighth of a circle?",
       "options": [
-       "More pictures, about 7",
-       "Fewer pictures, about 1",
-       "The same, 3 pictures",
-       "No pictures at all"
+       "More images, about 7",
+       "Fewer images, about 1",
+       "The same, 3 images",
+       "No images at all"
       ],
       "a": 0,
-      "why": "Smaller gap means more pictures, because the light can bounce back and forth more times before it escapes. Picking 'fewer' usually means thinking a small gap squeezes the pictures out. Notice the pattern: the number of slices that fit in a whole circle, take away one. 8 slices, take away 1, is 7."
+      "why": "A smaller gap means more images, because the light can reflect back and forth more times before it escapes. Picking 'fewer' usually means thinking a small gap squeezes the images out. Notice the pattern: count how many of these gaps fit in a whole circle, then take away one. 8 take away 1 is 7."
      },
-     "context": "In the two-mirrors experiment, you count pictures of a toy as you close the gap between two mirrors."
+     "context": "In the two-mirrors experiment, you count images of a toy as you close the gap between two mirrors."
     },
     {
      "id": "s4",
@@ -1700,8 +1705,8 @@
      "do": "Ask your child for claim, evidence and reasoning.",
      "say": "What do you think now? What did you see? Why does it happen?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: a smaller gap makes more pictures. What I saw: a quarter gap made 3 pictures, and an eighth made 7. Why: light bounces from one mirror to the other and back. In a small gap it bounces more times, and every bounce makes a picture.",
-     "think": "A kaleidoscope has three mirrors in a narrow triangle. How many pictures might it make?",
+     "parent": "A good answer sounds like this. What I think: a smaller gap makes more images. What I saw: a quarter of a circle made 3 images, and an eighth made 7. Why: light reflects from one mirror to the other and back. In a small gap it reflects more times, and every reflection makes an image.",
+     "think": "A kaleidoscope has three mirrors in a narrow triangle. How many images might it make?",
      "context": "This is the last step of the two-mirrors experiment. You say what you found, what showed it, and why."
     }
    ]
@@ -1731,7 +1736,7 @@
      "what": "Spoon Faces and the Mirror Hunt"
     }
    ],
-   "record": "Draw your face in the inside and the back of the spoon. List your 5 things under 'Shows a picture' or 'Only shines'.",
+   "record": "Draw your face in the inside and the back of the spoon. List your 5 things under 'Shows an image' or 'Only shines'.",
    "context": "This is a short noticing activity. You look at your face in a spoon, then hunt for other things at home that show your face.",
    "setup": [
     {
@@ -1760,16 +1765,16 @@
        ]
       }
      ],
-     "parent": "Don't explain yet. Just collect what your child notices and wonders. The curved spoon bends the picture. We come back to flat mirrors next.",
+     "parent": "Don't explain yet. Just collect what your child notices and wonders. The curved spoon bends the image. We come back to flat mirrors next.",
      "context": "This is the first step of a noticing activity. You look at your face in a steel spoon."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Put the 5 things on a tray. 2. Your child looks for their face in each one. 3. They sort them into two piles: 'Shows a picture' and 'Only shines'.",
-     "say": "Which of these show your face? Which only shine a bit, with no picture?",
-     "kid": "Look for your face in each thing. Make two piles. 'Shows a picture'. 'Only shines'.",
-     "parent": "Smooth things, like the tumbler, still water and the dark phone, show a picture. Crumpled foil only shines. The wooden block shows nothing. Ask why the smooth ones are different."
+     "do": "1. Put the 5 things on a tray. 2. Your child looks for their face in each one. 3. They sort them into two piles: 'Shows an image' and 'Only shines'.",
+     "say": "Which of these show your face? Which only shine a bit, with no image?",
+     "kid": "Look for your face in each thing. Make two piles. 'Shows an image'. 'Only shines'.",
+     "parent": "Smooth things, like the tumbler, still water and the dark phone, show an image. Crumpled foil only shines. The wooden block shows nothing. Ask why the smooth ones are different."
     },
     {
      "id": "s3",
@@ -1779,7 +1784,7 @@
      "kid": "Tap your answer.",
      "check": {
       "t": "mcq",
-      "q": "Crumpled foil is shiny, but it shows no clear picture of your face. Why?",
+      "q": "Crumpled foil is shiny, but it shows no clear image of your face. Why?",
       "options": [
        "Its bumps send light off in all directions",
        "Foil makes its own light",
@@ -1787,7 +1792,7 @@
        "Foil only works in sunlight"
       ],
       "a": 0,
-      "why": "Each tiny bump in crumpled foil faces a different way, so the light bounces off every which way and the picture gets mixed up. A smooth mirror sends all the light back in neat order. Picking 'foil makes its own light' mixes up shining with making light. Foil is not a light source. In a dark cupboard it does not shine at all."
+      "why": "Each tiny bump in crumpled foil faces a different way, so the light reflects off every which way and the image gets mixed up. A smooth mirror sends all the light back in neat order. Picking 'foil makes its own light' mixes up shining with making light. Foil is not a light source. In a dark cupboard it does not shine at all."
      }
     }
    ]
@@ -2043,7 +2048,7 @@
      "qty": 1
     },
     {
-     "item": "a sunny window or courtyard",
+     "item": "a window or balcony where the sun shines in",
      "qty": 1
     }
    ],
@@ -2097,13 +2102,13 @@
       "t": "mcq",
       "q": "You tilt the mirror a little, and the bright spot on the wall jumps across. Why?",
       "options": [
-       "The light leaves at a new slant, so it lands in a new place",
+       "The light leaves at a new angle, so it lands in a new place",
        "The Sun moved",
        "The mirror made more light",
        "The wall moved"
       ],
       "a": 0,
-      "why": "When you tilt the mirror, the light hits it at a new slant, so it leaves at a new slant too. A small tilt makes a big jump on a faraway wall. Picking 'the Sun moved' is a fair idea, because the Sun does move slowly across the sky. But it cannot jump in one second."
+      "why": "When you tilt the mirror, the light hits it at a new angle, so it leaves at a new angle too. A small tilt makes a big jump on a faraway wall. Picking 'the Sun moved' is a fair idea, because the Sun does move slowly across the sky. But it cannot jump in one second."
      }
     }
    ]
@@ -2147,7 +2152,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Your child stands close to the mirror. 2. You stick a note where the top of their head appears in the mirror, and one where their chin appears, as they tell you. 3. Measure the gap between the notes. 4. Measure their real face from head to chin.",
+     "do": "1. Your child stands close to the mirror. 2. Your child tells you where the top of their head appears in the mirror. Stick a note there. 3. Do the same for their chin. 4. Measure the gap between the notes. 5. Measure their real face from head to chin.",
      "say": "Let's mark where your face is in the mirror. Then we'll measure the gap.",
      "kid": "Stand close to the mirror. Tell your grown-up where to stick the notes. One at your head, one at your chin. Measure the gap. Now measure your real face.",
      "parent": "The gap on the mirror is about half your child's real face. A 20 cm face fits in about 10 cm of mirror.",
@@ -2169,7 +2174,7 @@
        "You need a bigger mirror when you are further away"
       ],
       "a": 0,
-      "why": "The picture of your face looks smaller as you step back, but the patch of mirror it uses stays the same. You always need a mirror half as tall as you to see all of you. Picking 'you need a bigger mirror' is what most grown-ups guess. Your test shows it is not true."
+      "why": "The image of your face looks smaller as you step back, but the patch of mirror it uses stays the same. You always need a mirror half as tall as you to see all of you. Picking 'you need a bigger mirror' is what most grown-ups guess. Your test shows it is not true."
      },
      "parent": "This surprises most grown-ups. To see your whole body, you need a mirror only half your height, at any distance."
     },
@@ -2205,8 +2210,8 @@
      "what": "The Endless Corridor"
     }
    ],
-   "record": "Write the biggest number of pictures you could count. Draw how the far ones looked.",
-   "context": "In the Endless Corridor you hold two mirrors face to face and look at the pictures going on and on. It comes from the founder's Zero and Infinity game.",
+   "record": "Write the biggest number of images you could count. Draw how the far ones looked.",
+   "context": "In the Endless Corridor you hold two mirrors face to face and look at the images going on and on. It comes from the founder's Zero and Infinity game.",
    "setup": [
     {
      "art": "A child holding a hand mirror facing a wall mirror, with a long tunnel of smaller and smaller copies of the mirror stretching away.",
@@ -2222,28 +2227,28 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Hold a hand mirror facing the wall mirror, a little apart. 2. Put a small toy or a lit torch between them. 3. Your child peeks over the edge and counts the copies.",
-     "say": "Count the pictures. Keep going as far as you can. The longer you count, the better!",
-     "kid": "Hold a mirror facing the big mirror. Peek over the top. Count the pictures. How far can you go?",
+     "say": "Count the images. Keep going as far as you can. The longer you count, the better!",
+     "kid": "Hold a mirror facing the big mirror. Peek over the top. Count the images. How far can you go?",
      "parent": "This is the founder's 'infinite reflections' game. Make it a race: who can count the most?",
-     "context": "This is the first step of the Endless Corridor. You hold two mirrors face to face and count the pictures."
+     "context": "This is the first step of the Endless Corridor. You hold two mirrors face to face and count the images."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Look closely at the farthest pictures.",
-     "say": "Are the far pictures as bright as the near ones? What colour are they?",
-     "kid": "Look at the far pictures. Are they bright or dark? Do they look a bit green?",
+     "do": "Look closely at the farthest images.",
+     "say": "Are the far images as bright as the near ones? What colour are they?",
+     "kid": "Look at the far images. Are they bright or dark? Do they look a bit green?",
      "check": {
       "t": "mcq",
-      "q": "In two facing mirrors, the far pictures get darker and then disappear. Why?",
+      "q": "In two facing mirrors, the far images get darker and then disappear. Why?",
       "options": [
        "Each bounce loses a little light",
        "The mirrors run out of glass",
-       "The pictures are too shy",
+       "The images are too shy",
        "Light gets tired and stops"
       ],
       "a": 0,
-      "why": "Every time light bounces, the mirror keeps a little of it. After many bounces, so little light is left that the pictures fade. The glass also soaks up a little red light, so the far pictures look greenish. Picking 'light gets tired' is close in spirit. Light does not slow down, but it does lose a bit at each bounce."
+      "why": "Every time light bounces, the mirror keeps a little of it. After many bounces, so little light is left that the images fade. The glass also soaks up a little red light, so the far images look greenish. Picking 'light gets tired' is close in spirit. Light does not slow down, but it does lose a bit at each bounce."
      },
      "think": "If a mirror lost no light at all, would the corridor really go on for ever?"
     }
@@ -2256,7 +2261,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a paper plate covered in foil, or a hand mirror",
+     "item": "a hand mirror, or a shiny steel plate",
      "qty": 1
     },
     {
@@ -2290,7 +2295,7 @@
      "mins": 3,
      "do": "Your child looks at their face in the mirror for one quiet minute.",
      "say": "Look at your face for one minute. Just look. You have never seen your own face without a mirror or a photo.",
-     "kid": "Look at your face in the mirror. Just look, for one minute. Your face is light, bouncing back to you.",
+     "kid": "Look at your face in the mirror. Just look, for one minute. Light from your face is coming back to your eyes.",
      "context": "This is the first step of an art activity. You look quietly at your face in a mirror before you draw."
     },
     {
@@ -2328,32 +2333,32 @@
     }
    ],
    "record": "Draw the path of the ball, and the path of a child acting as light, as V shapes.",
-   "context": "In this act-it-out activity, children pretend to be light and bounce off a wall like a mirror. It comes from the founder's idea of miming light bouncing between mirrors.",
+   "context": "In this act-it-out activity, children pretend to be light and reflect off a wall like a mirror. It comes from the founder's idea of miming light bouncing between mirrors.",
    "setup": [
     {
-     "art": "A child rolling a soft ball at a slant towards a wall, and the ball bouncing away at the same slant.",
-     "caption": "1. Roll a ball at a slant to the wall. Watch where it goes."
+     "art": "A child rolling a soft ball at an angle towards a wall, and the ball bouncing away at the same angle.",
+     "caption": "1. Roll a ball at an angle to the wall. Watch where it goes."
     },
     {
-     "art": "A child walking at a slant towards a wall, touching it with both hands, then walking away at the same slant like light.",
-     "caption": "2. Now you are the light. Walk in, bounce, walk out at the same slant."
+     "art": "A child walking at an angle towards a wall, touching it with both hands, then walking away at the same angle like light.",
+     "caption": "2. Now you are the light. Walk in, bounce, walk out at the same angle."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Stick a strip of tape on the floor, straight out from the wall. 2. Roll the ball at a slant so it hits the wall where the tape meets it. 3. Watch where it rolls away.",
-     "say": "Light bounces like this ball. It comes in at a slant and leaves at the same slant.",
-     "kid": "Roll the ball at a slant. Hit the wall where the tape is. Where does it go?",
+     "do": "1. Stick a strip of tape on the floor, straight out from the wall. 2. Roll the ball at an angle so it hits the wall where the tape meets it. 3. Watch where it rolls away.",
+     "say": "Light reflects off a mirror the way this ball bounces off the wall. It comes in at an angle and leaves at the same angle.",
+     "kid": "Roll the ball at an angle. Hit the wall where the tape is. Where does it go?",
      "context": "This is the first step of Be the Light. You roll a ball at a wall to see how things bounce."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Your child walks at a slant to the tape mark, touches the wall and walks away at the same slant. 2. Another family member acts as an eye, and stands where the light should go.",
-     "say": "You are a beam of light! Walk in at a slant. Bounce off the mirror wall. Walk out at the same slant, straight to the eye.",
-     "kid": "You are light! Walk in at a slant. Touch the wall. Walk out at the same slant. Can you reach the person being the eye?",
+     "do": "1. Your child walks at an angle to the tape mark, touches the wall and walks away at the same angle. 2. Another family member acts as an eye, and stands where the light should go.",
+     "say": "You are a beam of light! Walk in at an angle. Bounce off the mirror wall. Walk out at the same angle, straight to the eye.",
+     "kid": "You are light! Walk in at an angle. Touch the wall. Walk out at the same angle. Can you reach the person being the eye?",
      "check": {
       "t": "mcq",
       "q": "A light beam hits a mirror coming in steeply. How does it leave?",
@@ -2364,7 +2369,7 @@
        "It stops at the mirror"
       ],
       "a": 0,
-      "why": "Light always leaves a flat mirror at the same slant it came in. Steep in means steep out. Picking 'straight back' only happens when light hits the mirror head on. Picking 'it stops' mixes a mirror up with a black cloth, which soaks up light."
+      "why": "Light always leaves a flat mirror at the same angle it came in. Steep in means steep out. Picking 'straight back' only happens when light hits the mirror head on. Picking 'it stops' mixes a mirror up with a black cloth, which soaks up light."
      }
     }
    ]
@@ -2448,7 +2453,7 @@
      "do": "1. Fold the taped strips into a triangle tube, shiny sides in. 2. Tape the last edge. 3. Slide the triangle into the cardboard tube.",
      "say": "Look down the triangle. What do you see already?",
      "kid": "Fold the strips into a triangle. Shiny sides in. Tape it. Slide it into the tube. Peek in!",
-     "wait": "Leave the tube overnight so the tape sets. Day 2 makes the bead end."
+     "wait": "Stop here for today. On day 2 you make the bead end."
     },
     {
      "id": "s3",
@@ -2466,7 +2471,7 @@
        "Your eyes are tired"
       ],
       "a": 0,
-      "why": "Light from the beads bounces from mirror to mirror. Each bounce makes another picture of the beads. So a few real beads make a whole flower of pictures. Picking 'the beads break' usually means thinking each picture must be a real thing. Like your image in a mirror, the pictures are made only of light."
+      "why": "Light from the beads bounces from mirror to mirror. Each bounce makes another image of the beads. So a few real beads make a whole flower of images. Picking 'the beads break' usually means thinking each image must be a real thing. Like your image in a mirror, the images are made only of light."
      }
     },
     {
@@ -2506,7 +2511,7 @@
    "creative": [
     "Use the shiny side of a steel plate or a piece of smooth foil as an extra mirror.",
     "Bounce the light off the ceiling, if your ceiling is white. It will be dim, but it may reach.",
-    "Two mirrors at the right angle can send light back exactly the way it came. Bicycle reflectors work like this."
+    "Two mirrors at a right angle send light back the way it came. Bicycle reflectors use the same idea, with many tiny mirror corners."
    ],
    "your_turn": "Now invent your own way. Draw the path of the light, try it, and count the mirrors. Can you do it with fewer?",
    "context": "This is a design challenge. A toy hides behind a box, and a torch cannot be moved. You must steer the light round the box using mirrors.",
@@ -2539,13 +2544,13 @@
       "t": "mcq",
       "q": "Your mirror sends the light past the toy, too far to the right. What will fix it?",
       "options": [
-       "Tilt the mirror a little to change the slant",
+       "Tilt the mirror a little to change the angle",
        "Use a brighter torch",
        "Move the toy",
        "Wait for the light to come back"
       ],
       "a": 0,
-      "why": "The light leaves at the same slant it arrives. Tilt the mirror, and the slant changes, so the spot moves. Picking 'move the toy' breaks the rules of the challenge. Engineers must solve the problem as it is."
+      "why": "The light leaves at the same angle it arrives. Tilt the mirror, and the angle changes, so the spot moves. Picking 'move the toy' breaks the rules of the challenge. Engineers must solve the problem as it is."
      }
     },
     {
@@ -2558,9 +2563,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Your child explains their best design, using the words slant and bounce.",
+     "do": "Your child explains their best design, using the words reflect and angle.",
      "say": "Tell me how your light got to the toy.",
-     "kid": "Explain your best design. Use the words bounce and slant."
+     "kid": "Explain your best design. Use the words reflect and angle."
     }
    ]
   },
@@ -2583,7 +2588,7 @@
    ],
    "creative": [
     "Tailors' shops have three mirrors in a fold, so you can see your back and sides at once.",
-    "Try a steel tumbler as the second mirror. How clear is the picture?",
+    "Try a steel tumbler as the second mirror. How clear is the image?",
     "With two mirrors, writing comes out the right way round again. Hold up a word and see."
    ],
    "your_turn": "Can you see your own left ear? Your own feet from behind? Invent a way, and draw the path of the light.",
@@ -2638,27 +2643,27 @@
  ],
  "videos": [
   {
-   "title": "Mirrors and reflection for children (a short explainer)",
-   "channel": "SciShow Kids, or a similar trusted channel",
+   "title": "Mirrors and Reflections (Elementary Science Class 6: Light, Shadows and Reflections)",
+   "channel": "Ethos Academy - Ethospedia",
    "youtube": "znIkwlvnte0",
    "mins": 5,
-   "why": "A clear first look at how light bounces off mirrors, with a torch-and-mirror demonstration like the bouncing-beam experiment.",
+   "why": "A first look at how mirrors reflect light. Watch it yourself first, to check it suits your child.",
    "check": "Found by YouTube search: \"Mirrors and Reflections (Elementary Science Class 6: Light, Shadows and Reflections)\" by Ethos Academy - Ethospedia. Title checked automatically; a parent may still preview it."
   },
   {
-   "title": "Why do mirrors flip left and right but not up and down?",
-   "channel": "a science explainer channel, such as Veritasium or MinutePhysics",
+   "title": "Why Do Mirrors Flip Left & Right (but not up & down)?",
+   "channel": "minutephysics",
    "youtube": "1t4dOPxKgrY",
    "mins": 6,
    "why": "For the parent and curious older children: the front-to-back flip, told well.",
    "check": "Found by YouTube search: \"Why Do Mirrors Flip Left & Right (but not up & down)?\" by minutephysics. Title checked automatically; a parent may still preview it."
   },
   {
-   "title": "The mirror test: which animals know themselves?",
-   "channel": "a nature or science channel",
+   "title": "Which Animals Recognize Themselves In Mirrors?",
+   "channel": "Seeker",
    "youtube": "cKs_iW0QVNY",
    "mins": 5,
-   "why": "Shows real animals, like chimpanzees, elephants or magpies, with the mark test, and links to the open question of what it means.",
+   "why": "About the mirror test with real animals, and the argument about what passing it means.",
    "check": "Found by YouTube search: \"Which Animals Recognize Themselves In Mirrors?\" by Seeker. Title checked automatically; a parent may still preview it."
   }
  ],
@@ -2691,21 +2696,21 @@
   },
   {
    "t": "mcq",
-   "p": "A torch shines at a mirror from the left, at a slant. Where does the light go?",
+   "p": "A torch shines at a mirror from the left, at an angle. Where does the light go?",
    "opts": [
-    "Off to the right, at the same slant",
+    "Off to the right, at the same angle",
     "Straight back to the torch",
     "Off to the left",
     "Nowhere"
    ],
    "a": 0,
-   "why": "Light leaves a mirror at the same slant it came in, on the other side. Picking 'straight back' only happens when you shine head on.",
+   "why": "Light leaves a mirror at the same angle it came in, on the other side. Picking 'straight back' only happens when you shine head on.",
    "how": "e1",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "When you fold the bouncing-beam paper on the middle line, the in-line and out-line match. What does this show?",
+   "p": "When you fold the torch-and-mirror paper on the middle line, the in-line and out-line match. What does this show?",
    "opts": [
     "The angle in equals the angle out",
     "The mirror made the light",
@@ -2713,13 +2718,13 @@
     "The paper is magic"
    ],
    "a": 0,
-   "why": "Matching lines have the same slant. That is the rule for mirrors. Picking 'light bends in the air' mixes reflection up with a different idea.",
+   "why": "Matching lines have the same angle. That is the rule for mirrors. Picking 'light bends in the air' mixes reflection up with a different idea.",
    "how": "e1",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "Why does a white wall show no picture of you?",
+   "p": "Why does a white wall show no image of you?",
    "opts": [
     "Its tiny bumps scatter the light every way",
     "It reflects no light",
@@ -2759,7 +2764,7 @@
   },
   {
    "t": "mcq",
-   "p": "Two mirrors stand like an open book at a quarter gap. How many pictures of a toy do you see?",
+   "p": "Two mirrors stand like an open book at a right angle, a quarter of a circle. How many images of a toy do you see?",
    "opts": [
     "3",
     "1",
@@ -2767,7 +2772,7 @@
     "2"
    ],
    "a": 0,
-   "why": "4 slices fit in a circle. Take away 1 for the real toy. That leaves 3 pictures. Picking 4 means counting the real toy too.",
+   "why": "4 quarters fit in a circle. Take away 1 for the real toy. That leaves 3 images. Picking 4 means counting the real toy too.",
    "how": "e3",
    "outcome": 4
   },
@@ -2802,7 +2807,7 @@
    "t": "mcq",
    "p": "Why do big telescopes use curved mirrors?",
    "opts": [
-    "To gather faint starlight into one bright picture",
+    "To gather faint starlight into one bright image",
     "To keep the stars warm",
     "Because glass is too cheap",
     "To make the telescope lighter"
@@ -2826,11 +2831,11 @@
   },
   {
    "t": "mcq",
-   "p": "Why do far pictures fade in two facing mirrors?",
+   "p": "Why do far images fade in two facing mirrors?",
    "opts": [
     "Each bounce loses a little light",
     "Light gets slower",
-    "The mirror runs out of pictures",
+    "The mirror runs out of images",
     "Your eyes close"
    ],
    "a": 0,
@@ -2849,7 +2854,7 @@
   "Scientists bounce lasers off mirrors left on the Moon to measure its distance.",
   "Bicycle reflectors and the cat's eyes on highways send headlight beams straight back to drivers.",
   "Solar kitchens use rows of curved mirrors to bounce sunlight onto one spot and make steam for cooking. A famous temple kitchen in Shirdi, Maharashtra, does this.",
-  "Long ago, armies sent messages over many kilometres by flashing sunlight with mirrors.",
+  "In the 1800s and early 1900s, armies sent messages over many kilometres by flashing sunlight with mirrors. The tool was called a heliograph.",
   "Kaleidoscopes, mirror mazes and mirror-work embroidery use mirrors to make beautiful patterns.",
   "Shops and small flats use wall mirrors to look bigger and brighter.",
   "Barbers and tailors use two or three mirrors so you can see the back of your head."
@@ -2865,7 +2870,7 @@
   },
   {
    "text": "The Taj Mahal, reflected upside down in its long water pool.",
-   "art": "The Taj Mahal with its mirror picture in a still pool in front."
+   "art": "The Taj Mahal with its upside-down image in a still pool in front."
   },
   {
    "text": "The backwards word AMBULANCE on the front of an ambulance.",
@@ -2933,7 +2938,7 @@
   "Can you write tomorrow's shopping list in mirror writing?",
   "Have you ever seen your own face without a mirror or a photo?",
   "Why are the cat's eyes shining in the torchlight?",
-  "If you smile at the mirror, what does it do? If you smile at a friend, what do they do?"
+  "Raise your right hand at the mirror. Is the image's hand on the same side of the room as yours?"
  ],
  "jokes": [
   {
@@ -3023,11 +3028,11 @@
  ],
  "maths": [
   {
-   "problem": "In the bouncing-beam test, Riya started the torch 5 cm, 10 cm and 15 cm to the left of the middle line. Her bounced beams landed 5 cm, 10 cm and 14 cm to the right. Which one did not match exactly, and by how much?",
+   "problem": "In the torch-and-mirror test, Riya started the torch 5 cm, 10 cm and 15 cm to the left of the middle line. Her bounced beams landed 5 cm, 10 cm and 14 cm to the right. Which one did not match exactly, and by how much?",
    "answer": "The 15 cm one. It landed at 14 cm, which is 1 cm short.",
    "explain": "5 matches 5. 10 matches 10. 15 and 14 do not match. 15 take away 14 is 1. So it was 1 cm short. A small gap like this happens when the beam is a bit wide or the mirror leans.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
-   "context": "This is about the bouncing-beam test. You aim a thin torch beam at a mirror from marks on the left, and measure where the bounce lands on the right.",
+   "context": "This is about the torch-and-mirror test. You aim a thin torch beam at a mirror from marks on the left, and measure where the bounce lands on the right.",
    "how": "e1",
    "chart": {
     "type": "bar",
@@ -3055,17 +3060,17 @@
    "why_maths": "Taking away tells us how close a result came to what the rule says. A small difference means the rule held, and our test was a little bumpy."
   },
   {
-   "problem": "Two mirrors make 3 pictures at a quarter gap, 5 at a sixth gap and 7 at an eighth gap. How many pictures will they make at a tenth gap?",
-   "answer": "9 pictures.",
-   "explain": "Look at the pattern. 4 slices gives 3. 6 slices gives 5. 8 slices gives 7. Each time, the pictures are one less than the slices. 10 slices take away 1 is 9.",
+   "problem": "Two mirrors make 3 images of a toy when opened to a quarter of a circle, 5 at a sixth and 7 at an eighth. How many images will they make at a tenth of a circle?",
+   "answer": "9 images.",
+   "explain": "Look at the pattern. 4 quarters fit in a circle, and there are 3 images. 6 sixths fit, and there are 5. 8 eighths fit, and there are 7. The images are always one less. 10 tenths fit, and 10 take away 1 is 9.",
    "math_unit": "math.patterns.number-patterns.L3",
-   "context": "This is about the two-mirrors experiment. You tape two mirrors like a book, put a toy between them, and count the pictures as you close the gap.",
+   "context": "This is about the two-mirrors experiment. You tape two mirrors like a book, put a toy between them, and count the images as you close the gap.",
    "how": "e3",
    "chart": {
     "type": "bar",
-    "title": "Pictures of one toy between two mirrors",
-    "x": "Slices that fit in a circle",
-    "y": "Pictures counted",
+    "title": "Images of one toy between two mirrors",
+    "x": "How many of the gaps fit in a circle",
+    "y": "Images counted",
     "data": [
      {
       "label": "4",
@@ -3238,7 +3243,7 @@
    "id": "b-torch",
    "item": "A small LED torch",
    "kind": "tool",
-   "why": "Makes the thin beam in the bouncing-beam test and the Bounce Relay game.",
+   "why": "Makes the thin beam in the torch-and-mirror test and the Bounce Relay game.",
    "url": "https://www.amazon.in/s?k=small+led+torch",
    "used_in": [
     "e1",
@@ -3255,17 +3260,6 @@
    "used_in": [
     "e1"
    ]
-  },
-  {
-   "id": "b-kaleido",
-   "item": "A ready-made kaleidoscope",
-   "kind": "game",
-   "why": "To compare with the one you build, and to count the copies of the beads.",
-   "url": "https://www.amazon.in/s?k=kaleidoscope+for+kids",
-   "used_in": [
-    "p1"
-   ],
-   "plan": "Use it on Day 2 of the kaleidoscope project, side by side with the homemade one."
   },
   {
    "id": "b-book-mirror",
@@ -3286,7 +3280,7 @@
   },
   {
    "q": "Light leaves a mirror at the same ____ it came in.",
-   "a": "Slant, or angle."
+   "a": "Angle."
   },
   {
    "q": "What is written backwards on the front of an ambulance?",
@@ -3294,10 +3288,10 @@
   },
   {
    "q": "Does a white wall reflect light?",
-   "a": "Yes, but it scatters it, so there is no picture."
+   "a": "Yes, but it scatters it, so there is no image."
   },
   {
-   "q": "Two mirrors at a quarter gap make how many pictures of a toy?",
+   "q": "Two mirrors at a right angle make how many images of a toy?",
    "a": "3."
   },
   {
@@ -3408,38 +3402,38 @@
   ]
  },
  "roots": {
-  "context": "We have been learning how mirrors send light back. Now we ask what mirrors tell us about ourselves and the world.",
+  "context": "We have been learning how mirrors reflect light. Now we ask what mirrors tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "You have never seen your own face. You know it only from light the world sends back to you.",
-   "habit": "We think we know ourselves from the inside, all by ourselves. But even our own face reaches us only by bouncing off something else: a mirror, water, a photo, a friend's eyes. Knowing yourself happens in a meeting with the world, not alone.",
-   "evidence": "Without a mirror or water, you cannot see your own face at all. Babies only learn the face in the mirror is them at about 18 months."
+   "truth": "Raise your right hand at a mirror, and the image raises the hand on the same side. The mirror has turned front and back, not left and right. A real person facing you would call that hand their left. So left and right are not fixed in the world, but depend on which way a body faces.",
+   "habit": "We treat left and right like up and down, as if they were fixed in the world. Up and down are set by the Earth's pull. Left and right change every time you turn round.",
+   "evidence": "At the mirror and in Mirror Twins, the raised hand and its image are on the same side of the room. Only front and back are swapped: the image faces you."
   },
   "three": {
-   "who_am_i": "Your face in the mirror is your own light, coming back to you. You are known through what you give out.",
-   "what_is_life": "Living things carry mirrors too: a cat's eye, a fish's scales, a scallop's tiny eyes. Life uses light that bounces back.",
-   "what_is_this_world": "Almost everything you see is reflected light. The world is always passing light back and forth."
+   "who_am_i": "You have never seen your own face directly. You know it from mirrors, photos and what other people tell you.",
+   "what_is_life": "Living things use reflection too. A cat has a mirror layer at the back of its eyes that helps it see in dim light.",
+   "what_is_this_world": "Almost everything you see is reflected light. A book or a tree makes no light of its own, yet you see it."
   },
-  "thread": "One Sun sends out light. That light bounces off the Moon, the sea, a leaf, your face and a mirror, and becomes millions of different pictures. Two mirrors facing each other turn one toy into a whole crowd. DeepKids believes this is the One showing up as the many. The light is the same light, only bounced and shared. Each of us is like a mirror, showing the same light in our own way.",
+  "thread": "One lamp in the Sheesh Mahal shows up as hundreds of sparkles. Two mirrors turn one toy into many images. Nothing new is made: it is light from one source, sent different ways. DeepKids believes the whole world is like this: one source, showing up in many forms. A mirror is a small, real example you can hold in your hand.",
   "teachings": [
    {
     "source": "Avatamsaka Sutra, the image of Indra's net",
     "teaching": "Picture a huge net with a shining jewel at every knot. Each jewel reflects every other jewel, and every reflection holds all the others too, on and on.",
-    "link": "Two facing mirrors do the same. Each mirror holds a picture of the other, which holds a picture of the first, again and again."
+    "link": "Two facing mirrors do the same. Each mirror holds an image of the other, which holds an image of the first, again and again."
    },
    {
     "source": "Zhuangzi, chapter 7",
     "teaching": "The wise person uses their mind like a mirror. It does not chase things or hold on to them. It shows whatever comes, and keeps nothing.",
-    "link": "A mirror shows whatever stands in front of it, then lets it go. It does not store the picture after you walk away."
+    "link": "A mirror shows whatever stands in front of it, then lets it go. It does not store the image after you walk away."
    },
    {
     "source": "The Platform Sutra of Huineng, chapter 1",
-    "teaching": "One monk wrote that the mind is like a mirror that must be wiped clean every day. Huineng, a kitchen worker who could not read, answered that the bright mirror was clean all along. There was nowhere for dust to land.",
-    "link": "A mirror is useful only when it is smooth and clear. These teachers asked: is our mind clear already, or must we polish it?"
+    "teaching": "One monk wrote that the mind is like a bright mirror, which must be wiped every day so no dust gathers. Huineng, a kitchen worker who could not read, answered that there is no mirror and no stand at all. So where could dust land?",
+    "link": "A mirror shows a clear image only when its surface is smooth and clean, because dust scatters the light. The two monks argued about whether the mind is like that."
    }
   ],
   "science": [
    {
-    "text": "Every mirror image is light passed on by trillions of electrons in the mirror's metal. They catch the light and send it back out.",
+    "text": "Every mirror image is light passed on by huge numbers of electrons in the mirror's metal. The light shakes them, and they send light back out.",
     "status": "settled"
    },
    {
@@ -3449,18 +3443,18 @@
   ],
   "other_view": {
    "who": "Many brain scientists",
-   "view": "Knowing yourself in a mirror is a skill the brain learns, step by step, around 18 months old. It is a clever brain trick. They see no need for a deeper One behind it, and that is an honest view."
+   "view": "Knowing your own face is a skill the brain learns at about 18 months. Left and right are useful words people agreed on. Many brain scientists see no need for a deeper source behind any of this, and that is an honest view."
   },
   "practice": {
    "title": "The quiet mirror",
    "mins": 3,
-   "say": "Let's sit in front of a mirror together. Look at your eyes in the mirror for a slow count of ten. Breathe in and out slowly. Now smile. Watch the mirror smile back. Close your eyes. Can you still feel your face, without seeing it? Open them. Which is you: the one feeling, or the one in the glass?",
-   "kid": "Sit in front of a mirror. Look at your eyes. Breathe slowly for ten counts. Smile, and watch it smile back. Close your eyes. Can you still feel your face?"
+   "say": "Let's sit in front of a mirror together. Look at your eyes in the mirror for a slow count of ten. Breathe in and out slowly. Now raise your right hand. Look at which side of the room the image's hand is on. Close your eyes. Can you still feel your face, without seeing it? Open them. Which is you: the one feeling, or the one in the glass?",
+   "kid": "Sit in front of a mirror. Look at your eyes. Breathe slowly for ten counts. Raise your right hand. Which side is the image's hand on? Close your eyes. Can you still feel your face?"
   },
   "ask": [
-   "Is the face in the mirror you, or only your light?",
-   "If nobody and nothing ever reflected you, would you still know who you are?",
-   "When you smile at someone and they smile back, are they a bit like a mirror?"
+   "Is the face in the mirror you, or light that came from you?",
+   "If nobody and nothing ever reflected you, would you still know what you look like?",
+   "If left and right depend on which way you face, what other words change when you turn round?"
   ],
   "art": "A child and their reflection looking at each other, with a faint net of tiny glowing jewels around them, each jewel holding a tiny picture of the child."
  }
