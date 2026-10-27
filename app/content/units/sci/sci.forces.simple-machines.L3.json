@@ -3,7 +3,7 @@
  "title": "Simple machines: how a small push moves a big load",
  "level": 3,
  "summary": {
-  "text": "A light child can lift a heavy grown-up on a see-saw, just by sitting further from the middle. A see-saw is a lever, one of the simple machines. The six simple machines are the lever, the inclined plane (a ramp), the wheel and axle, the pulley, the wedge and the screw. Each one lets a small force move a heavy load, or makes a force easier to use. But no machine gives something for nothing: a smaller push always has to travel a longer way. The same lever rule works in your elbow, inside your muscles, and between the Earth and the Moon.",
+  "text": "A light child can lift a heavy grown-up on a see-saw, just by sitting further from the middle. A see-saw is a lever, one of the simple machines. The six simple machines are the lever, the inclined plane (a ramp), the wheel and axle, the pulley, the wedge and the screw. Each one makes a push or a pull easier, for example by letting a small force move a heavy load. But no machine gives something for nothing: a smaller push always has to travel a longer way. The same lever rule works in your elbow, inside your muscles, and between the Earth and the Moon.",
   "art": "A child sitting at the far end of a see-saw, holding a grown-up up in the air who sits close to the middle, with faint drawings of a ramp, a wheel and a bottle opener."
  },
  "intro": {
@@ -72,7 +72,7 @@
   },
   {
    "term": "Balance",
-   "meaning": "When the turning on one side of a fulcrum is just as strong as the turning on the other side, so nothing tips.",
+   "meaning": "When the turning effect on one side of a fulcrum is just as strong as on the other side, so nothing tips.",
    "example": "A sabzi seller's weighing scale balances when the vegetables weigh the same as the weights.",
    "art": "A two-pan tarazu scale level, tomatoes on one pan and a weight on the other."
   },
@@ -132,7 +132,7 @@
   },
   {
    "term": "Work (in science)",
-   "meaning": "In science, work means a force moving something along a distance. Push times distance. Machines can make the push smaller, but then the distance gets longer.",
+   "meaning": "In science, work means a force moving something through a distance. You find it by multiplying the push by the distance moved. A machine can make the push smaller, but then the distance gets longer.",
    "example": "Carrying a bag up a long ramp takes a small push for a long way. Lifting it straight up takes a big push for a short way.",
    "art": "Two pictures: a big arrow over a short distance, and a small arrow over a long distance."
   },
@@ -174,21 +174,21 @@
    "concept": "The lever: fulcrum, load and effort",
    "status": "defined",
    "definition": "A lever is a stiff bar that turns on a point called the fulcrum. You give a push, the effort, at one place. The lever moves the load at another place.",
-   "description": "Think of a spoon opening a tin of ghee. The rim of the tin is the fulcrum. The lid is the load. Your hand on the far end of the spoon is the effort. Your hand moves a long way down. The tip of the spoon moves only a tiny way up. But it pushes up much harder than you pushed down. That is the lever's trick. The further your hand is from the fulcrum, compared with the load, the stronger the push on the load.",
+   "description": "Think of a spoon opening a tin of ghee. The rim of the tin is the fulcrum. The lid is the load. Your hand on the far end of the spoon is the effort. Your hand moves a long way down. The tip of the spoon moves only a tiny way up. But it pushes up much harder than you pushed down. That is the lever's trick. The further your hand is from the fulcrum, compared with the lid, the harder the spoon pushes on the lid.",
    "examples": [
     "A spoon prying a lid off a tin.",
     "A hand pump on a village borewell. You push the long handle down, and the short end lifts the water rod.",
     "A crowbar lifting a heavy stone."
    ],
    "perspectives": [],
-   "art": "A spoon opening a tin lid, with labels: pivot at the rim, load at the lid, effort at the hand.",
+   "art": "A spoon opening a tin lid, with labels: fulcrum at the rim, load at the lid, effort at the hand.",
    "context": "Levers are the most common simple machine. This card names their three parts: fulcrum, load and effort."
   },
   {
    "concept": "See-saw balance: weight and distance",
    "status": "defined",
    "definition": "A see-saw or lever balances when the weight on one side, times its distance from the fulcrum, equals the weight on the other side, times its distance.",
-   "description": "On a see-saw, the heavier person does not always go down. Distance matters too. A weight far from the fulcrum turns the plank more than the same weight close in. So a child can balance a grown-up twice as heavy. The child sits twice as far from the middle. Look at the chart. Two coins sit 5 cm from the pencil, and 2 times 5 is 10. One coin sits 10 cm away, and 1 times 10 is 10. Both sides make 10, so the ruler balances. Archimedes wrote this rule down about 2,200 years ago.",
+   "description": "On a see-saw, the heavier person does not always go down. Distance matters too. A weight far from the fulcrum turns the plank more than the same weight close in. So a child can balance a grown-up who is twice as heavy, by sitting twice as far from the middle. Look at the chart. Two coins sit 5 cm from the pencil, and 2 times 5 is 10. One coin sits 10 cm away, and 1 times 10 is 10. Both sides make 10, so the ruler balances. Archimedes wrote this rule down about 2,200 years ago.",
    "examples": [
     "A heavy grown-up sits close to the middle of a see-saw. A small child sits at the far end. They balance.",
     "A sabzi seller's tarazu has two pans the same distance from the middle. So it balances when both pans weigh the same.",
@@ -272,14 +272,14 @@
     "Effort in the middle: chimta tongs, a broom, your own forearm."
    ],
    "perspectives": [],
-   "art": "Three rows: a see-saw, a wheelbarrow and a pair of chimta tongs, each with pivot, load and effort marked in three colours.",
+   "art": "Three rows: a see-saw, a wheelbarrow and a pair of chimta tongs, each with fulcrum, load and effort marked in three colours.",
    "context": "Not every lever looks like a see-saw. This card sorts levers into three families by what sits in the middle."
   },
   {
    "concept": "The inclined plane: a gentle slope instead of a big lift",
    "status": "defined",
    "definition": "An inclined plane, or ramp, is a sloping surface that joins a low place to a high place. The longer and gentler the ramp, the smaller the push needed to move a load up it.",
-   "description": "Lifting a heavy box straight up onto a step takes a big push. Pushing it up a ramp takes a smaller push. But you push it a longer way. Look at the chart. To raise a bag 1 metre, you can lift it straight up with 12 newtons. A newton is the unit scientists use to measure a push or pull. Up a ramp 2 metres long, you need only about 6 newtons. Up a ramp 4 metres long, about 3. Every time, push times distance is 12. Real ramps also have friction, so the push is a bit bigger. Mountain roads that zigzag up the ghats are ramps too. They are long, so trucks can climb without needing a huge push.",
+   "description": "Lifting a heavy box straight up onto a step takes a big push. Pushing it up a ramp takes a smaller push. But you push it a longer way. Look at the chart. A newton is the unit scientists use to measure a push or a pull. To raise a bag 1 metre, you can lift it straight up with a push of 12 newtons. Up a ramp 2 metres long, you need only about 6 newtons. Up a ramp 4 metres long, about 3. Every time, push times distance is 12. Real ramps also have friction, so the push is a bit bigger. Mountain roads that zigzag up the ghats are ramps too. Because they are long and gentle, a truck needs a smaller push from its engine to climb them.",
    "examples": [
     "Ramps at railway stations, for wheelchairs, trolleys and suitcases.",
     "The zigzag roads that climb the ghats to hill stations.",
@@ -336,7 +336,7 @@
    "concept": "Wedges and screws: inclined planes in disguise",
    "status": "defined",
    "definition": "A wedge is two inclined planes back to back. A screw is an inclined plane wrapped round a rod.",
-   "description": "When an axe hits a log, its thin edge goes in a little. Its sloping sides push the wood apart, much harder and sideways. A screw is a long ramp wound round and round a rod. Turning it many times moves it in only a little, but very strongly. That is the trade-off again: a small push over a long way. You can see it for yourself. Cut a paper triangle and wrap it round a pencil, starting from one of the short sides. Its sloping edge makes a spiral, just like a screw thread.",
+   "description": "When an axe hits a log, its thin edge goes in a little. Its sloping sides push the two halves of the wood apart sideways, with a much bigger force than the blow. A screw is a long ramp wound round and round a rod. Turning it many times moves it in only a little, but very strongly. That is the trade-off again: a small push over a long way. You can see it for yourself. Cut a triangle from paper, with one square corner. Lay its shortest side along a pencil, and roll the paper round the pencil. The sloping edge winds round in a spiral, just like a screw thread.",
    "examples": [
     "A knife, an axe and a nail's point are wedges.",
     "Your front teeth are wedges, for biting. Your back teeth are flatter, for grinding.",
@@ -357,7 +357,7 @@
     "Nodding your head: the joint at the top of your spine is the fulcrum. Your head rocks on it like a see-saw."
    ],
    "perspectives": [],
-   "art": "An arm holding a water bottle, the elbow marked as pivot, the biceps pulling near it, and the hand far out, with 5 cm and 35 cm marked.",
+   "art": "An arm holding a water bottle, the elbow marked as the fulcrum, the biceps pulling near it, and the hand far out, with 5 cm and 35 cm marked.",
    "context": "You carry levers with you everywhere. This card shows where they are in your own body, and why they are built for speed.",
    "chart": {
     "type": "table",
@@ -386,7 +386,7 @@
    "concept": "Tiny levers inside your muscles",
    "status": "defined",
    "definition": "Inside every muscle are billions of tiny molecules called myosin. Each one has a small arm that swings like a lever, pulling on a thread and making the muscle shorter.",
-   "description": "In 1954, two teams found out how muscles shorten. Hugh Huxley and Jean Hanson were one team. Andrew Huxley and Rolf Niedergerke were the other. Muscles are made of two kinds of thin threads that slide past each other. Later, scientists found what does the pulling. Myosin is a tiny molecule with a head and a stiff neck. The head grabs a thread. A small change near the head is made bigger by the stiff neck, which swings like a lever. In 1993, Ivan Rayment and his team first saw the shape of a myosin head and its lever arm. Each swing moves the thread only a few millionths of a millimetre. But billions of swings together lift your arm. So the lever rule works far below what any eye can see. Scientists still study exactly how each step is timed.",
+   "description": "In 1954, two teams found out how muscles shorten. Hugh Huxley and Jean Hanson were one team. Andrew Huxley and Rolf Niedergerke were the other. Muscles are made of two kinds of thin threads that slide past each other. Later, scientists found what does the pulling. Myosin is a tiny molecule with a head and a stiff neck. The head grabs the other kind of thread. A small change near the head is made bigger by the stiff neck, which swings like a lever. In 1993, Ivan Rayment and his team first saw the shape of a myosin head and its lever arm. Each swing moves the thread only a few millionths of a millimetre. But billions of swings together lift your arm. So the lever rule works far below what any eye can see. Scientists still study exactly how each step is timed.",
    "examples": [
     "Every time you blink, millions of myosin levers swing.",
     "Your heart beats because myosin levers in its muscle pull, again and again, all your life."
@@ -405,7 +405,7 @@
     "Astronomers find planets round other stars by watching the stars wobble."
    ],
    "perspectives": [],
-   "art": "The Earth and the Moon on the ends of a cosmic see-saw, its pivot drawn inside the Earth, a dotted circle showing the Earth's wobble.",
+   "art": "The Earth and the Moon on the ends of a cosmic see-saw, its balance point drawn inside the Earth, a dotted circle showing the Earth's wobble.",
    "context": "The see-saw rule works in space too. This card shows the balance point of the Earth and the Moon, and how it helps astronomers find new planets.",
    "chart": {
     "type": "bar",
@@ -438,7 +438,7 @@
    ],
    "perspectives": [
     {
-     "who": "Archimedes, a Greek thinker in Syracuse, who lived from about 287 to 212 years before the Common Era",
+     "who": "Archimedes, a Greek thinker in Syracuse, who lived about 2,200 years ago",
      "explanation": "He did not invent the lever. But he was the first we know of to prove its rule with geometry: weight times distance must match on both sides."
     },
     {
@@ -447,7 +447,7 @@
     },
     {
      "who": "Al-Jazari, an engineer in what is now Turkey, who finished his Book of Knowledge of Ingenious Mechanical Devices in 1206",
-     "explanation": "He drew and explained dozens of machines: water-lifting machines with wheels, cranks and levers, and clocks with moving figures. One of his water pumps turned round-and-round movement into back-and-forth movement, an idea used in many engines today. His name is missing from many textbooks."
+     "explanation": "He drew and explained dozens of machines: water-lifting machines with wheels, cranks and levers, and clocks with moving figures. One of his water pumps turned round-and-round movement into back-and-forth movement, an idea still used in many machines today. His name is missing from many textbooks."
     },
     {
      "who": "Farmers, builders and women working at home, whose names were never written down",
@@ -523,17 +523,17 @@
     "data": [
      {
       "label": "Lifted straight up",
-      "value": 12,
+      "value": 9,
       "emoji": "⬆️"
      },
      {
       "label": "Short, steep ramp",
-      "value": 8,
+      "value": 4,
       "emoji": "📐"
      },
      {
       "label": "Long, gentle ramp",
-      "value": 5,
+      "value": 2,
       "emoji": "🛝"
      }
     ],
@@ -570,7 +570,7 @@
   {
    "claim": "A clever enough wheel could keep turning for ever by itself, giving free energy.",
    "who": "Bhaskara II, a great Indian mathematician, described such a wheel in about 1150. Many inventors in Europe and elsewhere tried for centuries after him.",
-   "for": "His wheel had curved spokes partly filled with mercury, a heavy liquid metal. The idea was that one side would always be heavier, so it would always keep turning.",
+   "for": "His wheel carried mercury, a heavy liquid metal, sealed inside tubes. The idea was that the mercury would always make one side heavier, so the wheel would keep turning.",
    "against": "No such wheel has ever worked. The weights shift, but the turning effects on both sides always end up balanced, and friction slowly stops the wheel. Energy cannot come from nothing. Bhaskara II was a brilliant mathematician, and this one idea did not work. Even great thinkers can be wrong.",
    "status": "rejected",
    "context": "For hundreds of years, people dreamed of a machine that never stops. This card is about one of the oldest designs, from India."
@@ -596,7 +596,7 @@
    "who": "A boast that the writer Pappus says Archimedes made",
    "for": "The lever rule has no limit. In theory, a long enough lever turns any small push into any big push.",
    "against": "The lever would have to be unimaginably long, and much stiffer than any material. He would need a place to stand outside the Earth. And to lift the Earth by even 1 centimetre, his hand would have to travel so far that it would take longer than the age of the universe. The rule is right, but the job is impossible.",
-   "status": "debated",
+   "status": "rejected",
    "context": "Archimedes is said to have boasted: 'Give me a place to stand, and I will move the Earth.' This card asks whether he could have done it."
   }
  ],
@@ -617,9 +617,9 @@
    "hint": "Think of the Earth and the Moon sitting on the two ends of a see-saw."
   },
   {
-   "q": "On a see-saw, a light child can balance a heavy grown-up by sitting further out. Is fair always the same as equal?",
+   "q": "The Moon does not simply go round the Earth. Both swing round a shared balance point. Is anything in space really standing still while other things go round it?",
    "kind": "big",
-   "hint": "Do both people need the same seat to make the see-saw level? What does each one need?"
+   "hint": "Think of spinning round while holding hands with a grown-up. Which of you stays still?"
   },
   {
    "q": "Ramps help people in wheelchairs, parents with prams and grandparents with sore knees. Who decides whether a building has a ramp, and who is left out when it doesn't?",
@@ -767,7 +767,7 @@
     }
    ],
    "rules": [
-    "Glue the printed strip on a 30 cm ruler. Lay the ruler across a round pencil, at the middle, so it can rock.",
+    "Glue the printed strip on a 30 cm ruler. Tape a round pencil to the table so it cannot roll. Lay the ruler across it, at the middle, so it can rock.",
     "Shuffle the order cards. Start with the Level 1 cards. Move up a level when you get two right in a row.",
     "On your turn, read a card out loud. Before you touch any coins, say your plan out loud.",
     "Then place the coins. If it balances on your first try, you win 2 points. If it balances on your second try, you win 1 point.",
@@ -779,7 +779,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Glue the strip onto a ruler, or write the peg numbers on it with a pen. 2. Lay the ruler across a round pencil, exactly at the middle. 3. Check it balances empty. If it doesn't, slide it a little until it does.",
+     "do": "1. Glue the strip onto a ruler, or write the peg numbers on it with a pen. 2. Lay a round pencil on the table and stick each end down with tape, so it cannot roll. 3. Lay the ruler across the pencil, exactly at the middle. 4. Check it balances empty. If it doesn't, slide it a little until it does.",
      "say": "This ruler is a see-saw. The pencil is its fulcrum, the point it turns on. Let's check it balances when it is empty.",
      "kid": "Put the ruler across a round pencil. The pencil is the fulcrum. Slide the ruler until it balances with nothing on it.",
      "context": "This is the first step of Balance Bazaar. It is a see-saw puzzle game played on a ruler balanced on a pencil, with coins as weights. It is based on the Balancing Act game from PhET, a free science website."
@@ -817,7 +817,7 @@
      "do": "1. Take turns with the cards. 2. Each player says a plan before placing coins. 3. Move up to Level 2 and Level 3 as players get two right in a row.",
      "say": "Now the coins on each side are different. Can fewer coins balance more coins? Where would they have to sit?",
      "kid": "Take turns. Read a card. Say your plan out loud first. Can fewer coins balance more coins? Where should they sit?",
-     "parent": "The rule is coins times peg number must match on both sides. For example, 2 coins on peg 2 makes 2 times 2, which is 4. 1 coin on peg 4 makes 1 times 4, which is also 4. Let your child find this by trying. Only say the rule after they have spotted a pattern. Real coins and rulers are not perfect, so 'nearly level' counts as balanced.",
+     "parent": "The rule is coins times peg number must match on both sides. For example, 2 coins on peg 2 makes 2 times 2, which is 4. 1 coin on peg 4 makes 1 times 4, which is also 4. Let your child find this by trying. Only say the rule after they have spotted a pattern. The ruler will not always sit perfectly level. If it rocks, or stays up when you let go, it is balanced. If one end drops to the table and stays there, it has tipped.",
      "ask": [
       {
        "q": "1 coin balanced 2 coins. Where was the 1 coin?",
@@ -865,7 +865,7 @@
    "context": "This is a see-saw puzzle game. A ruler on a pencil is the see-saw, and coins are the weights. Players balance orders from the bazaar, moving up four levels, like the PhET Balancing Act game.",
    "setup": [
     {
-     "art": "A 30 cm ruler with a printed strip of numbered pegs, 4 3 2 1 pivot 1 2 3 4, lying level across a round pencil.",
+     "art": "A 30 cm ruler with a printed strip of numbered pegs, 4 3 2 1, the fulcrum mark, 1 2 3 4, lying level across a round pencil.",
      "caption": "1. Glue the peg strip on a ruler. Balance it on a round pencil."
     },
     {
@@ -960,7 +960,7 @@
      "do": "1. Take turns drawing a card and placing it. 2. For levers, the player shows the fulcrum, with a real object if you have one. 3. Give tokens for each good reason.",
      "say": "Where does this one turn? Where do you push, and where does it push back?",
      "kid": "Draw a card. Put it on a mat. If it's a lever, show where it turns. Say where you push.",
-     "parent": "Tricky ones: scissors are two levers joined at one fulcrum. A wheelbarrow is a lever (the wheel is the fulcrum) and also has a wheel. A knife and an axe are wedges, which are ramps in disguise. A jar lid and a spiral staircase are screws, which are ramps wrapped round. A doorknob, a tap and a screwdriver are wheel and axles. Your forearm's fulcrum is the elbow. Your jaw's fulcrum is just in front of your ear. A cricket bat held in two hands is a lever too: the top hand is the fulcrum, and the bottom hand pushes.",
+     "parent": "Tricky ones: scissors are two levers joined at one fulcrum. A wheelbarrow is a lever (the wheel is the fulcrum) and also has a wheel. A knife and an axe are wedges, which are ramps in disguise. A jar lid and a spiral staircase are screws, which are ramps wrapped round. A doorknob, a tap and a screwdriver are each a wheel and axle. Your forearm's fulcrum is the elbow. Your jaw's fulcrum is just in front of your ear. A cricket bat held in two hands is a lever too: the top hand is the fulcrum, and the bottom hand pushes.",
      "ask": [
       {
        "q": "Where is the fulcrum of a nutcracker?",
@@ -1025,7 +1025,7 @@
       "Something that makes energy"
      ],
      "a": 1,
-     "why": "A simple machine has few parts and makes a push or pull easier. Picking 'a motor' is very common, because many machines we see have one. But a spoon opening a tin is a machine with no motor. Picking 'makes energy' means machines are thought to give extra. They never do."
+     "why": "A simple machine has few parts and makes a push or pull easier. Picking 'a motor' is very common, because many machines we see have one. But a spoon opening a tin is a machine with no motor. A child who picks 'makes energy' thinks machines give out extra. They never do."
     },
     {
      "t": "fill",
@@ -1079,7 +1079,7 @@
       "On the child's side"
      ],
      "a": 1,
-     "why": "Weight close to the fulcrum turns the plank less. So the heavy grown-up moves in, and the light child stays far out. Picking 'never balance' means the heavier person is thought to always go down. Distance matters too.",
+     "why": "Weight close to the fulcrum turns the plank less. So the heavy grown-up moves in, and the light child stays far out. A child who picks 'never balance' thinks the heavier person always goes down. Distance matters too.",
      "art": "A see-saw with a grown-up and a child.",
      "how": "a2"
     },
@@ -1148,7 +1148,7 @@
       "They are the same"
      ],
      "a": 1,
-     "why": "Rollers touch the floor at only a few small spots, so there is much less rubbing, or friction. Picking 'the same' means the box's weight is thought to be all that matters. How it touches the floor matters too."
+     "why": "Rollers touch the floor at only a few small spots, so there is much less rubbing, or friction. A child who picks 'the same' thinks only the box's weight matters. How it touches the floor matters too."
     },
     {
      "t": "fill",
@@ -1232,7 +1232,7 @@
       "It can't balance"
      ],
      "a": 1,
-     "why": "2 coins times 5 cm is 10. 1 coin times 10 cm is also 10. So the one coin goes 10 cm away. Picking 5 cm means only the place is matched, not the weight. Picking 'can't balance' means fewer coins are thought to always lose.",
+     "why": "2 coins times 5 cm is 10. 1 coin times 10 cm is also 10. So the one coin goes 10 cm away. Picking 5 cm means only the place is matched, not the weight. A child who picks 'can't balance' thinks fewer coins always lose.",
      "chart": {
       "type": "bar",
       "title": "Ruler see-saw: where one coin balances two coins (made-up example)",
@@ -1399,7 +1399,7 @@
       "The bell's sound"
      ],
      "a": 1,
-     "why": "The brake handle turns on a fulcrum. A small squeeze of your fingers becomes a strong pull on the brake cable. Picking the tyre means wheels and levers got mixed up. The tyre is part of a wheel."
+     "why": "The brake handle turns on a fulcrum. A small squeeze of your fingers becomes a strong pull on the brake cable. A child who picks the tyre is mixing up wheels and levers. The tyre is part of a wheel."
     },
     {
      "t": "match",
@@ -1435,7 +1435,7 @@
       "About 35 times"
      ],
      "a": 0,
-     "why": "35 divided by 5 is 7. The muscle is 7 times closer to the fulcrum, so it must pull about 7 times as hard. Picking 'about the same' means the arm is thought of as a straight pull. It is a lever, built for speed.",
+     "why": "35 divided by 5 is 7. The muscle is 7 times closer to the fulcrum, so it must pull about 7 times as hard. A child who picks 'about the same' thinks the muscle pulls the load straight up. But the arm is a lever, built for speed.",
      "chart": {
       "type": "table",
       "title": "Your arm as a lever (typical grown-up numbers)",
@@ -1577,7 +1577,7 @@
       "It needs to be bigger"
      ],
      "a": 1,
-     "why": "Every design ever tried has failed. Energy cannot come from nothing. Picking 'nobody has tried hard enough' is a hopeful guess. In fact people have tried for over 800 years, since Bhaskara II drew one in about 1150.",
+     "why": "Every design ever tried has failed. Energy cannot come from nothing. Picking 'nobody has tried hard enough' is a hopeful guess. In fact people have tried for over 800 years, since Bhaskara II described one in about 1150.",
      "context": "For hundreds of years, inventors dreamed of a wheel that turns for ever by itself, with no push."
     },
     {
@@ -1723,10 +1723,10 @@
     },
     {
      "t": "write",
-     "p": "Is a see-saw fair if the two people are different weights? How can it be made fair?",
+     "p": "A see-saw is level. A 30 kg child sits on one side, and a 15 kg child sits on the other. Where could each one be sitting? Give one answer and explain it.",
      "lines": 3,
-     "a": "It can be made fair by moving the heavier person closer to the middle. Then both turn the plank equally. Fair does not have to mean the same seat for both.",
-     "why": "This links the science to fairness. A thoughtful answer explains that the balance comes from weight and distance together."
+     "a": "The 15 kg child sits twice as far from the middle as the 30 kg child. For example, the 30 kg child sits 1 metre from the middle and the 15 kg child sits 2 metres away. 30 times 1 is 30, and 15 times 2 is 30.",
+     "why": "Any answer where the lighter child is twice as far out is right. A good answer shows that weight times distance is the same on both sides."
     },
     {
      "t": "draw",
@@ -1818,7 +1818,7 @@
      "do": "1. Now put 2 coins in a pile, 6 cm to the left. 2. Your child guesses where 1 coin must go on the right, then tests. 3. Write the result in the table. 4. Try 3 coins at 4 cm on the left, balanced by 1 coin.",
      "say": "Here's the big question. Can one coin balance two? Guess first, then slide it until the ruler is level.",
      "kid": "Put 2 coins on the left, 6 cm away. Can 1 coin balance them? Slide it out slowly. Where does it balance? Write it down.",
-     "parent": "2 coins at 6 cm balance 1 coin at about 12 cm. 3 coins at 4 cm also balance 1 coin at about 12 cm. Measure to the middle of each coin. Real rulers and coins are not perfect, so a centimetre out is fine. Do not tell the rule yet. Let your child look for it.",
+     "parent": "2 coins at 6 cm balance 1 coin at about 12 cm. 3 coins at 4 cm also balance 1 coin at about 12 cm. Measure to the middle of each coin. The ruler rarely stays perfectly level. Slide the coin out slowly. At first the 2-coin side stays down. Then, at one spot, the ruler tips over to the 1-coin side. The balance point is just there. Real rulers and coins are not perfect, so a centimetre out is fine. Do not tell the rule yet. Let your child look for it.",
      "chart": {
       "type": "table",
       "title": "Made-up example results: where one coin balances",
@@ -1904,9 +1904,9 @@
     {
      "id": "s5b",
      "mins": 5,
-     "do": "1. Put a small book on one end of the ruler, with the pencil close under the book. 2. Your child pushes down the far end with one finger. 3. Move the pencil away from the book, towards the middle, and push again.",
+     "do": "1. Put a small book on one end of the ruler. 2. Slide the ruler along until the pencil is about 3 cm from the book. 3. Your child pushes down the far end with one finger. 4. Slide the ruler back until the pencil is under its middle, and push again.",
      "say": "Now let's lift something heavy with our lever. Where should the pencil be to make it easy? And how far does your finger have to go?",
-     "kid": "Put a small book on one end. Put the pencil close to the book. Push the far end down with one finger. Now move the pencil to the middle. Which is easier?",
+     "kid": "Put a small book on one end of the ruler. Slide the ruler so the pencil is close to the book. Push the far end down with one finger. Now slide the ruler so the pencil is in the middle. Which is easier?",
      "ask": [
       {
        "q": "When the fulcrum was close to the book, what did your finger have to do?",
@@ -1960,7 +1960,7 @@
      "caption": "3. Slide 1 coin out on the right until the ruler is level. Measure its distance."
     },
     {
-     "art": "A heavy book on one end of the ruler with the pencil close under it, a finger pressing the far end down.",
+     "art": "A small, thin book on one end of the ruler with the pencil close to it, a finger pressing the far end down.",
      "caption": "4. Lift a small book: pencil close to the book, push the far end."
     }
    ]
@@ -1972,7 +1972,7 @@
    "days": 1,
    "question": "Does a longer ramp make it easier to pull a load up to the same height?",
    "predict": "Guess first. Will it be easiest to lift the toy truck straight up, pull it up a short steep ramp, or pull it up a long gentle ramp? Why do you think so?",
-   "fair_test": "Keep everything the same except the ramp's length. Use the same truck with the same load, and the same height of book pile. Pull slowly and steadily, the same way each time. Measure how far the rubber band stretches while the truck is moving. Do each test 3 times.",
+   "fair_test": "Keep everything the same except the ramp's length. Use the same truck with the same load, and the same height of book pile. Pull slowly and steadily, the same way each time, along the line of the ramp. Measure how far the rubber band stretches while the truck is moving. Do each test 3 times.",
    "results_table": [
     "How the truck went up",
     "Ramp length (cm)",
@@ -1983,7 +1983,7 @@
    ],
    "materials": [
     {
-     "item": "a toy truck or car with free-turning wheels, carrying about 200 grams, such as a small packet of dal or salt taped on top",
+     "item": "a toy truck or car with free-turning wheels, loaded as heavily as it can carry, up to about 500 grams, such as a packet of dal or salt taped on top. With no toy car, a packet dragged on a steel plate works too, but friction makes the differences smaller.",
      "qty": 1,
      "buy": "b-truck"
     },
@@ -2019,10 +2019,10 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Make a pile of books about 10 cm high. 2. Tie the string to the front of the truck. 3. Tie the rubber band to the other end of the string. 4. Hold the rubber band by its free end. 5. Measure the band before you pull, and write down its length.",
+     "do": "1. Make a pile of books about 10 cm high. 2. Tie the string to the front of the truck. 3. Loop the other end of the string through the rubber band and tie it. 4. Hold the rubber band by its free end. 5. Measure the band before you pull, and write down its length.",
      "say": "We'll use the rubber band to measure how hard we pull. A bigger pull stretches it further.",
      "kid": "Tie string to the truck. Tie a rubber band to the string. Measure the band before you pull. A bigger pull stretches it more.",
-     "parent": "The stretch is how much longer the band gets when you pull. Take the length before pulling away from the length while pulling. If you have a forcemeter from the Measuring forces unit, use it instead, and read the pull in newtons. A forcemeter is a spring tool that measures pulls.",
+     "parent": "The stretch is how much longer the band gets when you pull. Take the length before pulling away from the length while pulling. Work as a pair: your child pulls, and you hold the ruler beside the band and read its length. If you have a forcemeter from the Measuring forces unit, use it instead, and read the pull in newtons. A forcemeter is a spring tool that measures pulls.",
      "context": "This is the first step of the ramp test. You pull a loaded toy truck up to the top of a pile of books, in three different ways, and measure how hard you pull."
     },
     {
@@ -2047,7 +2047,7 @@
        ]
       }
      ],
-     "parent": "The long ramp should need the least pull. The difference can be small if the truck's wheels are stiff, because friction adds a little to every pull. If the band hardly stretches, use a thinner band or a heavier load. If the results are muddled, add more weight to the truck.",
+     "parent": "The long ramp should need the least pull. The difference can be small if the truck's wheels are stiff, because friction adds a little to every pull. If the band hardly stretches on the ramps, use a thinner band or a heavier load. If the results are muddled, add more weight to the truck. Lifting straight up should always stretch the band the most, by far.",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: rubber band stretch when pulling a loaded toy truck up to the same height",
@@ -2056,17 +2056,17 @@
       "data": [
        {
         "label": "Lifted straight up",
-        "value": 12,
+        "value": 9,
         "emoji": "⬆️"
        },
        {
         "label": "Short, steep ramp",
-        "value": 8,
+        "value": 4,
         "emoji": "📐"
        },
        {
         "label": "Long, gentle ramp",
-        "value": 5,
+        "value": 2,
         "emoji": "🛝"
        }
       ],
@@ -2105,17 +2105,17 @@
       "data": [
        {
         "label": "Lifted straight up",
-        "value": 12,
+        "value": 9,
         "emoji": "⬆️"
        },
        {
         "label": "Short, steep ramp",
-        "value": 8,
+        "value": 4,
         "emoji": "📐"
        },
        {
         "label": "Long, gentle ramp",
-        "value": 5,
+        "value": 2,
         "emoji": "🛝"
        }
       ],
@@ -2129,7 +2129,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me what you found out, in three parts. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a longer ramp makes it easier to pull a load up. What I saw: lifting straight up stretched the band 12 cm, the short ramp 8 cm and the long ramp 5 cm. Why: the long ramp spreads the job out over a longer way, so each bit needs a smaller pull."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a longer ramp makes it easier to pull a load up. What I saw: lifting straight up stretched the band 9 cm, the short ramp 4 cm and the long ramp 2 cm. Why: the long ramp spreads the job out over a longer way, so each bit needs a smaller pull."
     }
    ],
    "context": "In this experiment, you pull a loaded toy truck up to the top of a pile of books, straight up and then on ramps of two lengths. A rubber band shows how hard you pull.",
@@ -2141,17 +2141,17 @@
     "data": [
      {
       "label": "Lifted straight up",
-      "value": 12,
+      "value": 9,
       "emoji": "⬆️"
      },
      {
       "label": "Short, steep ramp",
-      "value": 8,
+      "value": 4,
       "emoji": "📐"
      },
      {
       "label": "Long, gentle ramp",
-      "value": 5,
+      "value": 2,
       "emoji": "🛝"
      }
     ],
@@ -2159,7 +2159,7 @@
    },
    "setup": [
     {
-     "art": "A toy truck with coins taped in it, a string from its front to a long rubber band held by a child's hand.",
+     "art": "A toy truck with a packet of dal taped on top, a string from its front to a long rubber band held by a child's hand.",
      "caption": "1. Tie a string and a rubber band to the loaded truck."
     },
     {
@@ -2184,21 +2184,21 @@
   },
   {
    "id": "e3",
-   "title": "The Well Winch: a wheel and axle in a shoebox",
+   "title": "The Well Winch: a wheel and axle on a small box",
    "mins": 35,
    "days": 1,
    "question": "Does a bigger handle make it easier to wind up a load?",
-   "predict": "Guess first. Will it be easiest to wind up the cup by turning a bare pencil, a small handle, or a big handle? Why do you think so?",
-   "fair_test": "Keep the load and the pencil the same. Change only the size of the handle you turn. Count how many turns it takes to lift the cup 20 cm, and say how hard each one felt.",
+   "predict": "Guess first. Will it be easiest to wind up the bottle by turning a bare pencil, a small handle, or a big handle? Why do you think so?",
+   "fair_test": "Keep the load and the pencil the same. Change only the size of the handle you turn. Count how many turns it takes to lift the bottle 20 cm, and say how hard each one felt.",
    "results_table": [
     "What you turned",
     "How hard it felt: easy, medium or hard",
-    "Turns to lift the cup 20 cm",
+    "Turns to lift the bottle 20 cm",
     "How far your hand travelled: short, medium or long"
    ],
    "materials": [
     {
-     "item": "a shoebox, or any small cardboard box at least 4 cm narrower than your pencil is long",
+     "item": "a small, strong carton, such as a tea or biscuit box, at least 4 cm narrower than your pencil is long. A shoebox is usually too wide.",
      "qty": 1
     },
     {
@@ -2210,7 +2210,7 @@
      "qty": 1
     },
     {
-     "item": "a paper cup with a string handle, filled with dal or coins, about 200 grams",
+     "item": "a small plastic bottle with about 300 ml of water in it, with the string tied round its neck",
      "qty": 1
     },
     {
@@ -2218,16 +2218,16 @@
      "qty": 2
     },
     {
-     "item": "tape and a pair of scissors",
+     "item": "tape, a pair of scissors and a heavy book",
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes the holes in the shoebox with the point of a pair of scissors.",
+   "safety": "A grown-up makes the holes in the box with the point of a pair of scissors.",
    "schedule": [
     {
      "day": 1,
      "mins": 35,
-     "what": "Build the winch. Lift the cup by turning the bare pencil, then a small handle, then a big handle."
+     "what": "Build the winch. Lift the bottle by turning the bare pencil, then a small handle, then a big handle."
     }
    ],
    "record": "Fill in the table. Draw your winch and label the wheel, or handle, and the axle.",
@@ -2235,24 +2235,24 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. A grown-up makes a hole in each long side of the box, near the top. Put both holes about 3 cm from one short end. 2. Push the pencil through both holes, so it can turn. Leave about 3 cm sticking out on one side. 3. Tape one end of the string to the middle of the pencil. 4. Put the box on a table, with that short end right at the table's edge. 5. Run the string over the short end and down past the table's edge. 6. Tie the cup to it.",
-     "say": "This is a model of a well winch. The pencil is the axle. Winding it will pull the bucket up.",
-     "kid": "A grown-up makes two holes in the box. Push a pencil through. Tape string to the pencil. Hang the cup over the table's edge.",
+     "do": "1. A grown-up makes a hole in each long side of the box, near the top. Put both holes about 3 cm from one short end. 2. Push the pencil through both holes, so it can turn. Leave about 3 cm sticking out on one side. 3. Tape one end of the string to the middle of the pencil. 4. Put the box on a table, with that short end right at the table's edge. Put a heavy book in or on the far end of the box, so it cannot tip. 5. Run the string over the short end and down past the table's edge. 6. Tie the bottle to it.",
+     "say": "This is a model of a well winch. The pencil is the axle. Winding it will pull the bottle up, the way a real winch pulls up a bucket.",
+     "kid": "A grown-up makes two holes in the box. Push a pencil through. Tape string to the pencil. Hang the bottle over the table's edge.",
      "adult": true,
-     "context": "This is the first step of the well winch experiment. You build a model of the winding machine on a village well, from a shoebox and a pencil."
+     "context": "This is the first step of the well winch experiment. You build a model of the winding machine on a village well, from a small box and a pencil."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Turn the bare pencil with your fingertips to wind up the string. 2. Count the turns to lift the cup 20 cm. 3. Notice how hard it is.",
+     "do": "1. Turn the bare pencil with your fingertips to wind up the string. 2. Count the turns to lift the bottle 20 cm. 3. Notice how hard it is.",
      "say": "Wind it up by twisting the bare pencil. How does it feel?",
-     "kid": "Twist the bare pencil with your fingers. Lift the cup. Is it easy or hard? Count the turns.",
-     "parent": "With a full cup, turning the bare pencil takes a firm grip, and fingers may slip. That is the point. If it feels easy, add more dal."
+     "kid": "Twist the bare pencil with your fingers. Lift the bottle. Is it easy or hard? Count the turns.",
+     "parent": "Turning the bare pencil takes a firm grip, and fingers may slip. That is the point. If it feels easy, add more water to the bottle."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Tape the small card handle firmly to the end of the pencil that sticks out, so it points sideways like a crank. 2. Wind the cup up by turning the handle's tip. 3. Then do the same with the big handle. 4. Count turns and note how hard each felt.",
+     "do": "1. Tape the small card handle firmly to the end of the pencil that sticks out, so it points sideways like a crank. 2. Wind the bottle up by turning the handle's tip. 3. Then do the same with the big handle. 4. Count turns and note how hard each felt.",
      "say": "Now a small handle, then a big one. Turn it from the very tip. What changes?",
      "kid": "Tape the small handle on the pencil. Turn it by its tip. Now try the big handle. Which is easiest?",
      "ask": [
@@ -2269,8 +2269,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Compare how far your hand travelled with each handle, for the same lift.",
-     "say": "The cup went up the same 20 cm each time. Did your hand travel the same distance?",
-     "kid": "The cup went up 20 cm each time. With the big handle, did your hand travel further?",
+     "say": "The bottle went up the same 20 cm each time. Did your hand travel the same distance?",
+     "kid": "The bottle went up 20 cm each time. With the big handle, did your hand travel further?",
      "check": {
       "t": "mcq",
       "q": "With the big handle, the winding was easier. What did your hand do?",
@@ -2300,7 +2300,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a bigger handle makes winding easier. What I saw: turning the bare pencil was hard, the small handle was medium and the big handle was easy. My hand went round a much bigger circle with the big handle. Why: my push was further from the axle, so a small push made a strong twist."
     }
    ],
-   "context": "In this experiment you build a model well winch from a shoebox and a pencil. You find out whether a bigger handle makes it easier to lift a cup of coins.",
+   "context": "In this experiment you build a model well winch from a small box and a pencil. You find out whether a bigger handle makes it easier to lift a bottle of water.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -2329,16 +2329,16 @@
    },
    "setup": [
     {
-     "art": "A grown-up making a hole near the top of a shoebox's long side with the point of a pair of scissors.",
+     "art": "A grown-up making a hole near the top of a small carton's long side with the point of a pair of scissors.",
      "caption": "1. A grown-up makes a hole in each long side of the box."
     },
     {
-     "art": "A pencil pushed through both holes across the top of the shoebox, a string taped to its middle, a paper cup of coins hanging below.",
-     "caption": "2. Push a pencil through. Tape on a string. Hang the cup of coins."
+     "art": "A pencil pushed through both holes across the top of a small carton at the table's edge, a book holding the box down, a string taped to the pencil and a small water bottle hanging below.",
+     "caption": "2. Push a pencil through. Tape on a string. Hang the bottle."
     },
     {
-     "art": "Fingers twisting the bare end of the pencil, the cup rising slightly.",
-     "caption": "3. Wind the cup up by twisting the bare pencil."
+     "art": "Fingers twisting the bare end of the pencil, the bottle rising slightly.",
+     "caption": "3. Wind the bottle up by twisting the bare pencil."
     },
     {
      "art": "A long card handle taped to the pencil end like a crank, a hand turning it from the tip in a big circle.",
@@ -2424,7 +2424,7 @@
      "caption": "2. Write LEVER, RAMP or WHEEL beside each find."
     },
     {
-     "art": "A child bending an arm, standing on tiptoe and nodding, with pivots marked as dots at elbow, ball of foot and neck.",
+     "art": "A child bending an arm, standing on tiptoe and nodding, with fulcrums marked as dots at elbow, ball of foot and neck.",
      "caption": "3. Find the levers in your body: elbow, tiptoe, nod."
     }
    ]
@@ -2484,7 +2484,7 @@
        "Standing up"
       ],
       "a": 1,
-      "why": "The heavy grown-up sits closer to the middle, so their weight turns the see-saw less. Picking 'at the very end' means the heavier person is thought to need more room. That makes the tipping worse."
+      "why": "The heavy grown-up sits closer to the middle, so their weight turns the see-saw less. A child who picks 'at the very end' thinks the heavier person needs more room. That makes the tipping worse."
      }
     },
     {
@@ -2494,7 +2494,7 @@
      "say": "It's the same rule as our ruler and coins. Heavy close in, light far out.",
      "kid": "Try with a friend. Who sits where? It's the same rule as the ruler and coins!",
      "adult": true,
-     "think": "When two friends of different sizes play on a see-saw, can it still be fair? How?"
+     "think": "Could two small children at one end lift a grown-up sitting at the other end? Where would everyone have to sit?"
     }
    ],
    "context": "If you have a park nearby: in this activity, a child lifts a grown-up on a park see-saw. They find that where you sit matters as much as how heavy you are.",
@@ -2889,7 +2889,7 @@
      "caption": "2. Push again near the handle."
     },
     {
-     "art": "A paper cup of coins hanging from a string over a chair back, tied to the edge of a half-open door.",
+     "art": "A paper cup of coins hanging from a string over a chair back, taped to the face of a half-open door.",
      "caption": "3. Hang a cup of coins at different places. Count coins until the door moves."
     }
    ]
@@ -2903,11 +2903,11 @@
    "days": 3,
    "materials": [
     {
-     "item": "a long stick, such as a broom handle or a 1-metre piece of bamboo, for the beam",
+     "item": "a long stick about 1 metre long, such as the handle of a floor mop or wiper, or a piece of bamboo, for the beam",
      "qty": 1
     },
     {
-     "item": "two sticks and string, or a sturdy chair back, for the post",
+     "item": "a sturdy chair, whose back is the post",
      "qty": 1
     },
     {
@@ -2958,7 +2958,7 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "1. Tie two sticks into an X shape and stand it up, or use the back of a sturdy chair, as the post. 2. Tie the beam onto the top of the post, about one third of the way from one end, so it can rock. 3. Check it rocks up and down freely.",
+     "do": "1. Use the top of a sturdy chair back as the post. 2. Tie the beam onto the top of the post, about one third of the way from one end. Tie it loosely, so it can rock. 3. Check it rocks up and down freely.",
      "say": "This tie is the fulcrum. Where should it go? Let's try a third of the way along.",
      "kid": "Make a post. Tie the long stick on top. It should rock like a see-saw. The tie is the fulcrum.",
      "adult": true
@@ -3028,7 +3028,7 @@
    "context": "In this 3-day project, you build a model shaduf. It is a lever with a bucket on one end and a heavy stone on the other, used for 4,000 years to lift water.",
    "setup": [
     {
-     "art": "Two sticks tied in an X shape standing in the garden, a long bamboo pole tied on top about a third of the way along.",
+     "art": "A long mop handle tied loosely on top of a chair back, about a third of the way along, on a balcony beside a bucket of water.",
      "caption": "1. Build the post. Tie the pole on so it can rock."
     },
     {
@@ -3036,7 +3036,7 @@
      "caption": "2. Hang the cup on the long end and dip it."
     },
     {
-     "art": "A cloth bag of stones hanging from the short end of the pole, the full cup rising out of the bucket.",
+     "art": "An old sock filled with rice hanging from the short end of the pole, the full cup rising out of the bucket.",
      "caption": "3. Hang the counterweight on the short end. Find a weight that lifts the full cup."
     },
     {
@@ -3061,15 +3061,15 @@
     "a 1 kg bag of rice in a cloth bag",
     "a thick rubber band and string, or a forcemeter",
     "a ruler",
-    "boards, books, a broom handle and string"
+    "boards, books, a mop or wiper handle and string"
    ],
    "general": [
     "Make a ramp from a board, from the floor to the chair, and pull the bag up it.",
-    "Use a broom handle as a lever over a pile of books, with the bag near the fulcrum. It lifts the bag only a little way, so lift it in stages, adding a book under the bag each time.",
+    "Use a mop handle as a lever over a pile of books, with the bag near the fulcrum. It lifts the bag only a little way, so lift it in stages, adding a book under the bag each time.",
     "Pass the string over the top of the chair back and pull down. Like a pulley, this changes the direction of your pull. Friction on the chair makes the pull a little bigger, not smaller."
    ],
    "creative": [
-    "Put the bag on a toy truck and pull it up the ramp, so it rolls instead of slides.",
+    "Put the bag on a strong toy truck and pull it up the ramp, so it rolls instead of sliding.",
     "Use a shaduf-style counterweight on the other end of a lever.",
     "Make a zigzag ramp, like a ghat road, from two boards."
    ],
@@ -3097,7 +3097,7 @@
      "say": "Try one idea at a time. Measure the pull. Which works best?",
      "kid": "Try each idea. Measure the pull every time. Which is best?",
      "adult": true,
-     "parent": "A long ramp with the bag on a toy truck usually needs the smallest pull. A lever needs the bag close to the fulcrum and your pull far out. Watch that boards and broom handles don't slip."
+     "parent": "A long ramp with the bag on a toy truck usually needs the smallest pull. A lever needs the bag close to the fulcrum and your pull far out. Watch that boards and handles don't slip."
     },
     {
      "id": "s4",
@@ -3126,7 +3126,7 @@
      "caption": "1. Measure the pull to lift the bag straight up."
     },
     {
-     "art": "A child drawing three machine ideas on paper: a ramp, a broom lever and a shoebox winch.",
+     "art": "A child drawing three machine ideas on paper: a ramp, a broom lever and a box winch.",
      "caption": "2. Draw three ideas first."
     },
     {
@@ -3175,7 +3175,7 @@
      "id": "s2",
      "mins": 7,
      "do": "Work out how long a ramp should be, using the rule of 12 times the height.",
-     "say": "Ramp guides say a ramp should be about 12 times as long as it is high. Our step is 15 cm. How long should the ramp be?",
+     "say": "Ramp guides say a ramp should be about 12 times as long as it is high. Suppose our step is 15 cm high. How long should the ramp be?",
      "kid": "Make the ramp 12 times longer than the step is high. Multiply the height by 12. How long is that?",
      "check": {
       "t": "mcq",
@@ -3259,7 +3259,7 @@
     "Only works with a motor"
    ],
    "a": 1,
-   "why": "A simple machine makes a push or pull easier. Picking 'makes energy' means machines are thought to give extra. They never do. Picking 'a motor' is common, but a see-saw has no motor.",
+   "why": "A simple machine makes a push or pull easier. A child who picks 'makes energy' thinks machines give out extra. They never do. Picking 'a motor' is common, but a see-saw has no motor.",
    "outcome": 0
   },
   {
@@ -3353,7 +3353,7 @@
     "They need the same push"
    ],
    "a": 1,
-   "why": "A longer, gentler ramp needs a smaller push, but over a longer way. Picking 'the same' means the box's weight is thought to be all that matters.",
+   "why": "A longer, gentler ramp needs a smaller push, but over a longer way. A child who picks 'the same' thinks only the box's weight matters.",
    "outcome": 3
   },
   {
@@ -3365,7 +3365,7 @@
     "There is no catch"
    ],
    "a": 1,
-   "why": "Machines trade a smaller push for a longer distance. Picking 'no catch' means machines are thought to give something for nothing.",
+   "why": "Machines trade a smaller push for a longer distance. A child who picks 'no catch' thinks machines give something for nothing.",
    "outcome": 3
   },
   {
@@ -3425,17 +3425,17 @@
     "data": [
      {
       "label": "Lifted straight up",
-      "value": 12,
+      "value": 9,
       "emoji": "⬆️"
      },
      {
       "label": "Short, steep ramp",
-      "value": 8,
+      "value": 4,
       "emoji": "📐"
      },
      {
       "label": "Long, gentle ramp",
-      "value": 5,
+      "value": 2,
       "emoji": "🛝"
      }
     ],
@@ -3510,7 +3510,7 @@
   "Loading planks let workers roll heavy drums and gas cylinders into trucks.",
   "Taps, doorknobs, screwdrivers and steering wheels are wheels and axles.",
   "Bicycles combine levers (brake handles), wheels and axles (wheels and pedals) and a chain.",
-  "Wheelbarrows and the hand carts of vegetable sellers combine a lever and a wheel.",
+  "Wheelbarrows and two-wheeled hand carts combine a lever and a wheel.",
   "Cranes on building sites use levers, pulleys and counterweights.",
   "Knives, axes, ploughs and chisels are wedges.",
   "Jar lids, bottle caps, screws and spiral staircases are screws, ramps wrapped round.",
@@ -3873,9 +3873,9 @@
    "how": "a2"
   },
   {
-   "problem": "In the ramp test, the rubber band stretched 12 cm when the truck was lifted straight up, 8 cm on the short ramp and 5 cm on the long ramp. Draw a bar chart. How much less did it stretch on the long ramp than straight up?",
+   "problem": "In the ramp test, the rubber band stretched 9 cm when the truck was lifted straight up, 4 cm on the short ramp and 2 cm on the long ramp. Draw a bar chart. How much less did it stretch on the long ramp than straight up?",
    "answer": "7 cm less. Here is the bar chart.",
-   "explain": "Draw one bar for each way, as tall as its stretch. Then 12 take away 5 is 7. So the band stretched 7 cm less on the long ramp.",
+   "explain": "Draw one bar for each way, as tall as its stretch. Then 9 take away 2 is 7. So the band stretched 7 cm less on the long ramp.",
    "math_unit": "math.data.bar-charts.L3",
    "context": "In the ramp test, a rubber band shows how hard you pull a toy truck up to the same height. A longer stretch means a bigger pull.",
    "answer_chart": {
@@ -3886,17 +3886,17 @@
     "data": [
      {
       "label": "Lifted straight up",
-      "value": 12,
+      "value": 9,
       "emoji": "⬆️"
      },
      {
       "label": "Short, steep ramp",
-      "value": 8,
+      "value": 4,
       "emoji": "📐"
      },
      {
       "label": "Long, gentle ramp",
-      "value": 5,
+      "value": 2,
       "emoji": "🛝"
      }
     ],
@@ -3916,13 +3916,13 @@
    "title": "PhET Balancing Act",
    "url": "https://phet.colorado.edu/en/simulations/balancing-act",
    "kind": "simulation",
-   "why": "The founder's lever game. A free see-saw simulation: place bricks and people, balance the plank, then play four game levels and find mystery masses."
+   "why": "The free online see-saw game used in the PhET activity. Place bricks and people, balance the plank, then play four game levels and find mystery masses."
   },
   {
    "title": "PhET Energy Skate Park: Basics",
    "url": "https://phet.colorado.edu/en/simulations/energy-skate-park-basics",
    "kind": "simulation",
-   "why": "Build ramps for a skateboarder and watch energy change. Good for older children who want to see why ramps trade height for distance."
+   "why": "Build ramps for a skateboarder and watch its energy change between height and speed. Good for older children who are curious about energy."
   },
   {
    "title": "Arvind Gupta Toys",
@@ -4217,7 +4217,7 @@
    "what_is_life": "Every movement you make comes from billions of tiny myosin molecules swinging like levers inside your muscles.",
    "what_is_this_world": "No machine anywhere has ever given out more work than was put in. A smaller push always has to travel further."
   },
-  "thread": "A lever, an inclined plane, a wheel and axle, a pulley, a wedge and a screw look like six different tools. Underneath, they all make the same trade: a smaller force over a longer distance. The push times the distance stays the same, so nothing is made and nothing is lost, only shared out differently. DeepKids believes the world is full of things that look separate but follow one pattern underneath. Six machines sharing one rule is a small, clear example, and a child can test it with a ruler and some coins.",
+  "thread": "A lever, an inclined plane, a wheel and axle, a pulley, a wedge and a screw look like six different tools. Underneath, they all make the same trade: a smaller force over a longer distance. The push times the distance stays the same, so nothing is made and nothing is lost. It is only shared out differently. Physics keeps finding this: things that look separate follow one rule underneath. Six machines sharing one rule is a small, clear example, and a child can test it with a ruler and some coins.",
   "teachings": [
    {
     "source": "Zhuangzi, chapter 3, the story of Cook Ding",
@@ -4259,7 +4259,7 @@
   "art": "A see-saw in a park, a long lever lifting a stone, and a bullock cart wheel, all drawn with the same balance point glowing."
  },
  "how_we_found_out": {
-  "story": "For hundreds of years, many inventors believed a clever machine could give out more than you put in. In about 1150, the Indian mathematician Bhaskara II described a wheel with curved spokes, partly filled with mercury. He thought it would turn for ever by itself. Inventors in Europe tried wheels like it for centuries. None of them worked. In 1586, a Flemish engineer called Simon Stevin used this failure to work out how ramps work. He imagined a loop of beads, like a necklace, hung over a triangle with one long, gentle slope and one short, steep slope. More beads lie on the long slope. Will they pull the loop round? If they did, the loop would keep turning for ever, and that never happens. So the loop must stay still. That means a few beads on a steep slope pull as hard as many beads on a gentle one. So a load needs a smaller pull up a longer, gentler slope. Stevin was so pleased that he put the picture of the beads on the title page of his book. In 1775, the French Academy of Sciences decided to stop checking machines that claimed to run for ever.",
+  "story": "For hundreds of years, many inventors believed a clever machine could give out more than you put in. In about 1150, the Indian mathematician Bhaskara II described a wheel that carried mercury, a heavy liquid metal, sealed inside tubes. He thought it would turn for ever by itself. Inventors in Europe tried wheels like it for centuries. None of them worked. In 1586, a Flemish engineer called Simon Stevin used this failure to work out how ramps work. He imagined a loop of beads, like a necklace, hung over a triangle with one long, gentle slope and one short, steep slope. More beads lie on the long slope. Will they pull the loop round? If they did, the loop would keep turning for ever, and that never happens. So the loop must stay still. That means a few beads on a steep slope pull as hard as many beads on a gentle one. So a load needs a smaller pull up a longer, gentler slope. Stevin was so pleased that he put the picture of the beads on the title page of his book. In 1775, the French Academy of Sciences decided to stop checking machines that claimed to run for ever.",
   "who": "Simon Stevin, a Flemish engineer, after centuries of failed self-turning wheels",
   "when": "About 1150 to 1775, and Stevin's book in 1586",
   "wrong_idea": "Many inventors believed a clever machine could give out more than you put in, and keep turning for ever. Stevin used the fact that this never happens to work out how ramps work."

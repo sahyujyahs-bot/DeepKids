@@ -1,9 +1,9 @@
 # A balanced diet: why your body needs many kinds of food
 `sci.food.balanced-diet.L3`
 
-**Summary.** A plate of rice can fill your stomach and still leave your body short of protein, iron and vitamins. A balanced diet means eating many kinds of food, in about the right amounts, over a day or a week. Inside you, food is broken into tiny pieces, and your blood carries them to about 30 trillion cells. Some pieces give energy, some build and mend you, and some help everything work. About as many microbes live in your gut, and they eat the fibre you cannot digest. No single food is good or bad on its own. What matters is the mix over many meals. Scientists agree on a lot, but they still argue about some foods, and about how much gut microbes change us.
+**Summary.** A plate of rice can fill your stomach and still leave your body short of protein, iron and vitamins. A balanced diet means eating many kinds of food, in about the right amounts, over a day or a week. Inside you, food is broken down into tiny building blocks, and your blood carries them to about 30 trillion cells. Your cells burn some of them for energy and use the rest to grow and mend. About as many microbes live in your gut, and they eat the fibre you cannot digest. No single food is good or bad on its own, because what matters is the mix over many meals.
 
-**Intro.** *Breathe out slowly onto your hand. Feel how warm it is. Part of that breath is the roti or rice you ate yesterday. How did your food get into your breath?* All our food starts as plants growing in sunlight. Now we follow it forwards, into you. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Some of it is burned for energy, and you breathe it out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?
+**Intro.** *Breathe out slowly onto your hand. Feel how warm it is. Part of that breath is the roti or rice you ate yesterday. How did your food get into your breath?* Almost all our food starts as plants growing in sunlight. Here we follow it after you swallow it. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Some of it is burned for energy, and you breathe it out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?
 
 ## Learning outcomes
 0. I can say what a balanced diet is: many kinds of food, in about the right amounts, over a day or a week.
@@ -27,18 +27,18 @@
 - **Glucose**: The simple sugar that your cells use for energy. Starch is broken into glucose inside you. *e.g.* Your blood carries glucose to your brain all day and all night.
 - **Protein**: A long chain made of building blocks called amino acids. Your muscles, hair, skin and blood are built with proteins. *e.g.* Your hair and nails are made mostly of a protein called keratin.
 - **Amino acids**: The building blocks of proteins. There are about 20 kinds. Your body joins them in new orders to make its own proteins. *e.g.* The amino acids in dal are joined again inside you to make your own muscle.
-- **Fat**: An oily nutrient. It carries a lot of energy. It also builds the thin walls around every cell, and helps the body take in some vitamins. *e.g.* Ghee, oil, butter, coconut and peanuts all have fat.
+- **Fat**: An oily nutrient. It carries a lot of energy. It also builds the thin skin around every cell, called the cell membrane, and helps the body take in some vitamins. *e.g.* Ghee, oil, butter, coconut and peanuts all have fat.
 - **Vitamin**: A nutrient the body needs in very small amounts to work properly. Each vitamin has its own jobs. *e.g.* Vitamin C in amla and guava helps your body mend cuts.
 - **Mineral**: A nutrient that comes from rocks and soil, through plants and animals into us. Calcium and iron are minerals. *e.g.* Calcium from milk, ragi and til builds your bones.
 - **Iron**: A mineral that the blood uses to carry oxygen around the body. *e.g.* Dal, palak, rajma, bajra, eggs and meat all have iron.
 - **Calcium**: A mineral that makes bones and teeth hard. It also helps muscles and nerves work. *e.g.* Milk, curd, paneer, ragi, til and green leaves have calcium.
-- **Fibre**: A kind of carbohydrate in plant foods that your body cannot break down. It keeps food moving through your gut and feeds your gut microbes. *e.g.* The skin of an apple, the husk on whole dal and the stringy bits in a vegetable are fibre.
+- **Fibre**: A kind of carbohydrate in plant foods that your body cannot break down. It keeps food moving through your gut and feeds your gut microbes. *e.g.* The skin of an apple, the green skin on whole moong and the strings in beans and bhindi are fibre.
 - **Digestion**: Breaking food into pieces small enough to pass into the blood. *e.g.* Digestion starts in your mouth when you chew, and goes on in your stomach and intestines.
 - **Enzyme**: A kind of protein that cuts big pieces of food into smaller ones, very fast. It works like tiny scissors. *e.g.* An enzyme in your spit cuts starch into sugar.
 - **Cell**: The tiny living unit that every living thing is made of. Your body has about 30 trillion cells. *e.g.* Skin cells, muscle cells, blood cells and brain cells are all cells, each with its own job.
 - **Mitochondria**: Tiny parts inside your cells that burn food with oxygen to release energy. *e.g.* Your muscle cells are full of mitochondria. That is why they can work so hard.
 - **Gut microbes**: The trillions of tiny living things, mostly bacteria, that live in your gut, most of all in the large intestine. *e.g.* Gut microbes eat the fibre from your dal and sabzi, which you cannot digest yourself.
-- **Kilocalorie (kcal)**: A unit for measuring the energy in food. Food labels write it as kcal. People often just say 'calories'. *e.g.* A banana gives roughly 100 kcal. A child of eight uses very roughly 1,500 to 2,000 kcal in a day.
+- **Kilocalorie (kcal)**: A unit for measuring the energy in food. One kilocalorie is the energy needed to warm 1 litre of water by 1 degree Celsius. Food labels write it as kcal. People often just say 'calories'. *e.g.* A banana gives roughly 100 kcal. A child of eight uses very roughly 1,500 to 2,000 kcal in a day.
 - **Deficiency**: When the body is not getting enough of one nutrient for a long time. It can make people ill. *e.g.* Too little vitamin C for many weeks causes an illness called scurvy.
 
 ## Explanations
@@ -59,7 +59,7 @@ An easy way to plan a meal is to think of three jobs. Go foods are rice, roti, m
 ### The balanced plate: how much of each · *defined*
 **Definition:** About half of a balanced plate is vegetables and fruits. About a quarter is grains or millets. The last quarter is dal, milk foods, eggs, fish, meat or nuts. Water is the drink.
 
-Nutrition scientists in many countries draw a healthy meal as a plate. In 2024, India's National Institute of Nutrition in Hyderabad shared one called 'My Plate for the Day'. Like many others, it gives about half the plate to vegetables and fruits. The rest is shared between grains and millets, and pulses, milk foods, eggs, fish, meat and nuts. Fats and oils come in small amounts. Many Indian homes already eat this way. A thali has small bowls of dal, sabzi, curd and chutney around rice or roti. A banana-leaf meal in the south puts many small heaps of vegetables around the rice. One-pot foods count too. Khichdi with vegetables, or a biryani with raita and salad, can be balanced.
+Nutrition scientists in many countries draw a healthy meal as a plate. India's National Institute of Nutrition in Hyderabad uses one called 'My Plate for the Day' in its 2024 food guide. Like many others, it gives about half the plate to vegetables and fruits. Grains and millets take about a quarter. Pulses, milk foods, eggs, fish, meat and nuts take the rest. Fats and oils come in small amounts. Many Indian homes already eat this way. A thali has small bowls of dal, sabzi, curd and chutney around rice or roti. A banana-leaf meal in the south puts many small heaps of vegetables around the rice. One-pot foods count too. Khichdi with vegetables, or a biryani with raita and salad, can be balanced.
 - e.g. A thali with a big helping of sabzi and salad, one roti and some rice, a bowl of dal and a bowl of curd.
 - e.g. A Kerala sadya on a banana leaf has many vegetable dishes like avial, thoran and olan around the rice.
 - e.g. Vegetable khichdi with a spoon of ghee and a bowl of curd is a balanced one-pot meal.
@@ -87,21 +87,21 @@ Your cells need energy for everything: moving, growing, thinking and keeping war
 ### Why the body needs carbohydrates · *defined*
 **Definition:** Carbohydrates, like starch and sugar, are the body's main fuel. They are broken into glucose, which every cell can burn for energy.
 
-Rice, roti, ragi, jowar, bajra, poha, potatoes and bananas are mostly starch. Starch is a long chain of glucose pieces. Your body cuts the chain and sends the glucose into the blood. Whole grains and millets are cut slowly, so the glucose comes in a gentle stream. Sugar and sweets need very little cutting, so their glucose arrives in a rush. Your body can handle that sometimes. But lots of added sugar every day feeds the mouth bacteria that make holes in teeth. Over many years, it may harm the body too. Any extra glucose that is not needed is stored, first in the liver and muscles, then as fat.
-- e.g. A bowl of ragi porridge gives a slow, steady stream of energy all morning.
+Rice, roti, ragi, jowar, bajra, poha, potatoes and bananas are mostly starch. Starch is a long chain of glucose pieces. Your body cuts the chain and sends the glucose into the blood. Whole grains are cut more slowly than white rice or maida, especially when you eat them with dal and vegetables. Then the glucose comes in a gentle stream. Sugar and sweets need very little cutting, so their glucose arrives in a rush. Your body can handle that sometimes. But lots of added sugar every day feeds the mouth bacteria that make holes in teeth. Over many years, eating a lot of added sugar is also linked to illnesses such as diabetes. Any extra glucose that is not needed is stored, first in the liver and muscles, then as fat.
+- e.g. Roti made from whole atta, eaten with dal and sabzi, gives a steady stream of energy through the afternoon.
 - e.g. A glass of sugary sharbat gives a quick rush of energy.
 - e.g. Chew a piece of roti thirty times. It starts to taste sweet as your spit cuts starch into sugar.
 ### Why the body needs protein, and why dal and rice go together · *defined*
 **Definition:** Proteins are long chains of about 20 kinds of building blocks called amino acids. The body breaks food proteins into amino acids, then joins them in new orders to build its own proteins.
 
-Your muscles, skin, hair, nails, blood and enzymes are made of proteins. They wear out and are rebuilt all the time, and children are also growing. So you need protein every day. Your body can make some amino acids itself. But about nine kinds it cannot make. They must come from food. Eggs, milk, fish and meat have all nine in good amounts. Grains like rice and wheat are a little low in one, called lysine. Dals and beans are a little low in another, called methionine. Eaten over the same day, they fill each other's gaps. That is one reason dal-chawal, rajma-chawal, idli-sambar and roti-chana are such good pairs.
-- e.g. Idli is made from rice and urad dal ground together. It gives both halves of the protein puzzle.
+Your muscles, skin, hair, nails, blood and enzymes are made of proteins. They wear out and are rebuilt all the time, and children are also growing. So you need protein every day. Your body can make some amino acids itself. But there are nine kinds it cannot make. They must come from food. Eggs, milk, fish and meat have all nine in good amounts. Grains like rice and wheat are a little low in one, called lysine. Dals and beans are a little low in another, called methionine. Eaten over the same day, they fill each other's gaps. That is one reason dal-chawal, rajma-chawal, idli-sambar and roti-chana are such good pairs.
+- e.g. Idli is made from rice and urad dal ground together. So every idli has grain protein and dal protein, and they fill each other's gaps.
 - e.g. A vegetarian family can get all the protein a child needs from dals, beans, milk, curd, paneer, nuts and grains.
 - e.g. Your hair is mostly a protein called keratin. When you grow it longer, you are using protein from your food.
 ### Why the body needs fat · *defined*
-**Definition:** Fat carries the most energy of any nutrient. It also builds the thin wall around every cell. And it helps the body take in vitamins A, D, E and K.
+**Definition:** Fat carries the most energy of any nutrient. It also builds the thin skin around every cell, called the cell membrane. And it helps the body take in vitamins A, D, E and K.
 
-Fat is often talked about as if it were only a problem. But the body cannot live without it. Every one of your 30 trillion cells is wrapped in a thin skin made mostly of fat. A large part of your brain is made of fat. Carrots and palak have beta-carotene, which your body turns into vitamin A. Beta-carotene and vitamin A dissolve in fat. That is why a little oil or ghee in the cooking helps you take in more of them. Fat in the body also stores energy and keeps you warm. Scientists do argue about which fats are best, and how much of each. You will meet that argument on another card.
+Fat is often talked about as if it were only a problem. But the body cannot live without it. Every one of your 30 trillion cells is wrapped in a thin skin made largely of fats. A large part of your brain is made of fat. Carrots and palak have beta-carotene, which your body turns into vitamin A. Beta-carotene and vitamin A dissolve in fat. That is why a little oil or ghee in the cooking helps you take in more of them. Fat in the body also stores energy and keeps you warm. Scientists do argue about which fats are best, and how much of each. You will meet that argument on another card.
 - e.g. Peanuts, til, coconut, ghee and mustard oil all carry fat.
 - e.g. Carrots cooked with a little oil give your body more beta-carotene, and so more vitamin A, than raw carrots with no fat at all.
 - e.g. Fish from the sea, walnuts and flax seeds have a kind of fat called omega-3 that the brain uses.
@@ -116,13 +116,13 @@ You need only a pinch of each vitamin and mineral, but you need them every week.
 **Definition:** Fibre is the part of plant food that your body cannot digest. In the large intestine, trillions of gut microbes eat it. They make substances that help feed the cells of your gut.
 
 Your large intestine is home to roughly as many bacteria as there are cells in your whole body. That is tens of trillions. There are hundreds of different kinds. They are living things with their own lives, not just helpers. They live in a warm, dark tube with food arriving several times a day. Their favourite food is the fibre you cannot break down, from dal husks, whole grains, vegetables and fruit. As they eat it, they make gas, which is why rajma and chana can make you fart. They also make small acids. One, called butyrate, is the main food of the cells lining your large intestine. So you feed them, and they feed you back. People who eat many kinds of plants tend to have more kinds of gut microbes. Scientists are still finding out what that means for health.
-- e.g. Rajma, chana and whole moong make a lot of gas. That is your microbes having a feast.
+- e.g. Rajma and chana can make a lot of gas. Your gut microbes make that gas as they eat the fibre.
 - e.g. The Hadza people of Tanzania hunt and gather their food. Their gut microbes change with the seasons, as their food changes.
 - e.g. Curd contains living microbes. Most of them pass through, but some may help while they are inside you.
 ### Water: the nutrient we forget · *defined*
 **Definition:** Water is a nutrient. It makes up more than half of your body weight. Blood, spit, digestive juices and the inside of every cell are mostly water.
 
-You lose water all day, in your breath, sweat and urine. So you need to drink it back, as plain water, milk, buttermilk, dal and the water in fruit and vegetables. Without water, blood thickens, digestion slows and you feel tired and get headaches. Children playing in Indian summers can lose a lot in sweat. A simple check is the colour of your urine. Pale yellow usually means you are drinking enough. Dark yellow means drink more. A person can live only a few days without water, but weeks without food.
+You lose water all day, in your breath, sweat and urine. So you need to drink it back, as plain water, milk, buttermilk, dal and the water in fruit and vegetables. When you do not drink enough, you feel tired and can get headaches. Children playing in Indian summers can lose a lot in sweat. A simple check is the colour of your urine. Pale yellow usually means you are drinking enough. Dark yellow means drink more. A person can live only a few days without water, but weeks without food.
 - e.g. A glass of buttermilk on a hot day gives water, protein and calcium together.
 - e.g. A watermelon is about nine-tenths water.
 - e.g. After a cricket match in May, your shirt is wet with sweat. That water must be drunk back.
@@ -135,7 +135,7 @@ Scientists agree on a lot. Diets with plenty of vegetables, fruits, pulses, whol
 - **Carlos Monteiro and colleagues in Brazil, from 2009:** The problem is not one nutrient but how food is made. 'Ultra-processed' packet foods, made in factories from many added ingredients, may cause people to eat more than they need. In a careful 2019 test in the United States, people ate about 500 kcal more each day on such foods. Others say the label is too broad, because it puts very different foods together.
 - **People studying traditional diets:** Healthy diets come in very different shapes. Some traditional diets have kept people well with lots of fish and fat, others with lots of rice and vegetables, and others with lots of milk. So we should be careful about one rule for everyone.
 ### Different bodies, different plates · *debated*
-A balanced diet is not one fixed menu. A baby, a growing child, a pregnant mother, a farmer and an old grandparent need different amounts. Some bodies also digest foods differently. Most people in the world digest milk sugar less well once they grow up. Some get tummy aches from milk. In India, this is more common in the south and east than in the north-west. Some people cannot eat wheat, or peanuts. Families also choose foods because of their beliefs, such as being vegetarian, Jain or eating no beef or pork. A balanced diet can be built inside all of these. Scientists are now asking a newer question. Why does the same food raise one person's blood sugar a lot, and another's only a little?
+A balanced diet is not one fixed menu. A baby, a growing child, a pregnant mother, a farmer and an old grandparent need different amounts. Some bodies also digest foods differently. Most people in the world digest milk sugar less well once they grow up. Some get tummy aches from milk. In India, this is more common in the south and east than in the north-west. Some people cannot eat wheat, or peanuts. Families also choose foods because of their beliefs. Some eat no meat, Jain families eat no root vegetables, and some eat no beef or pork. A balanced diet can be built inside all of these. Scientists are now asking a newer question. Why does the same food raise one person's blood sugar a lot, and another's only a little?
 - e.g. A Jain family eats no root vegetables like onion and potato. They can still balance their plate with dals, milk foods, grains, leafy greens and fruit.
 - e.g. A cousin who gets tummy aches from milk can have curd, which has less milk sugar, or ragi and til for calcium.
 - e.g. A grandmother and a growing ten-year-old may eat the same dal, but need different amounts.
@@ -162,7 +162,7 @@ A balanced diet is not one fixed menu. A baby, a growing child, a pregnant mothe
   Against: The British scientist John Yudkin argued that sugar was a bigger problem, in his 1972 book 'Pure, White and Deadly'. He was mocked at the time. In 2016, researchers found papers showing that a sugar industry group had paid Harvard scientists in the 1960s to play down sugar's role. Today most scientists think the kind of fat matters more than the amount, and that added sugar also matters.
 - **Vegetarians must eat dal and rice in the same meal to get complete protein.** (Frances Moore Lappé, in her famous 1971 book 'Diet for a Small Planet'; *rejected*)  
   For: Grains and pulses each lack enough of one amino acid. Together they make up the full set.  
-  Against: Lappé herself said in the 1981 edition that strict combining at every meal was not needed. The body keeps a pool of amino acids, so eating grains and pulses over the same day is enough. She changed her mind when the evidence changed, which is what good scientists do.
+  Against: Lappé herself said in the 1981 edition that strict combining at every meal was not needed. The body keeps a pool of amino acids, so eating grains and pulses over the same day is enough. She changed her mind when the evidence changed, which is what careful thinkers do.
 - **Eating curd, or taking 'good bacteria' pills, makes you healthy and helps you live longer.** (The Russian scientist Ilya Mechnikov, in his 1907 book 'The Prolongation of Life', and many adverts today; *debated*)  
   For: Mechnikov noticed that some villagers in Bulgaria who drank soured milk lived long lives. Some trials show certain microbes can help with some kinds of diarrhoea.  
   Against: Most microbes in curd or pills pass through the gut and do not stay. The long-lived villagers may have been healthy for many other reasons. Many claims on packets go far beyond the evidence. Curd is a good food, but not a magic one.
@@ -176,24 +176,24 @@ A balanced diet is not one fixed menu. A baby, a growing child, a pregnant mothe
 ## Roots
 We have been learning what happens to food inside us, and why the body needs so many kinds. Now we ask what a balanced diet tells us about food, about ourselves and about the world.
 
-**Deep truth.** Rice is a little short of one building block of protein, and dal of another. Eaten on the same day, each fills the other's gap. The vitamin C in lemon helps your body take in the iron in dal. So what a food gives you depends on what you eat it with.  
-*Habit it breaks:* We call foods good or bad, as if each food's worth were sealed inside it. But the body takes in more from some foods when certain other foods come with them, so 'good' belongs to the whole meal.  
-*Evidence:* Rice is low in the amino acid lysine and dal is low in methionine. Eaten over the same day, they give the body the full set. Vitamin C from lemon or amla helps the gut take in iron from dal and palak. And fat, which you found in peanuts and coconut in the Paper Window Test, helps the body take in beta-carotene from carrots.
+**Deep truth.** On your paper, the water spot dried away but the oil spot stayed. In the tumbler, oil floated on the water and would not mix. Because fat does not mix with water, it can wrap each watery cell in a thin skin. So the fat you eat is not only fuel, and some of it becomes the skin of your cells.  
+*Habit it breaks:* We think of food as fuel, like petrol for a scooter, and of fat as something to avoid. But a scooter is not built from its petrol, and you are built from your food, fat included.  
+*Evidence:* In the Paper Window Test, the water spot dried away, while oil, peanut and coconut left see-through spots that stayed. Two drops of oil in a tumbler of water floated and did not mix. Every cell membrane is made largely of fats that line up in two layers, because they do not mix with water.
 
 - *who am i:* Your muscles are built from amino acids that came from many foods. Some came from the rice and some from the dal.
-- *what is life:* A living body takes in many different things every day. Each one helps it use the others.
+- *what is life:* A living body is always rebuilding itself. The lining of your gut is made new every few days, from the food you eat.
 - *what is this world:* The world comes into you at every meal, as soil, sunlight, rain, plants, animals and other people's work.
 
-Rice alone and dal alone each leave a gap. Together, over a day, they give the body every amino acid it needs. The same happens all through a meal: lemon with dal, oil with carrots, curd with rice. So a meal works as one whole, and no food carries its worth alone. The cells and microbes the meal feeds also depend on each other, so many parts make one living body.
+Food does not stay food inside you. The fat in a peanut becomes the skin of your cells. The amino acids in dal become your muscle, and the calcium in ragi becomes your bone. So you are built, piece by piece, from many different foods, and each kind builds a different part. That is why one food, however good, can never be enough.
 
 - **Bhagavad Gita 6.16 to 6.17:** Yoga is not for someone who eats too much, nor for someone who does not eat at all. It is for someone who is balanced in eating, sleeping, waking and work. (Science also finds that health comes from balance, not from too much or too little of any one food.)
 - **The Buddha's first teaching, the Dhammacakkappavattana Sutta (Samyutta Nikaya 56.11):** The Buddha taught a middle way between living only for pleasure and harming the body by going without. Buddhist tradition says he took this path after a young woman, Sujata, gave him a bowl of rice cooked in milk, when he had almost starved himself. (A balanced diet is a middle way too. Neither feasting every day nor going without keeps the body well.)
-- **Thich Nhat Hanh, The Heart of Understanding (1988):** Look closely at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing can be by itself alone. It must 'inter-be' with everything else. (Rice and dal are a small case you can measure. Each gives the body more when the other is there.)
-- Science (settled): Grains are low in the amino acid lysine, and pulses in methionine. Eaten over the same day, they give the body the full set of amino acids it needs.
-- Science (settled): Vitamin C eaten in the same meal helps the gut take in iron from plant foods like dal, palak and bajra.
-- Other view, Many nutrition scientists: A food does have a value of its own. Its nutrients can be measured in a laboratory, as in the book 'Nutritive Value of Indian Foods'. Amla is rich in vitamin C whatever you eat with it. On this view, it is fair to call a food rich or poor in a nutrient. Eating foods together only changes how much the body takes in.
-- Practice, The thank-you bite (4 min): Let's take one small piece of roti or a spoon of rice. Don't swallow it yet. Close your eyes and chew it slowly, thirty times. Notice how it starts to taste a little sweet. That is the enzyme in your spit cutting starch into sugar. Now swallow. Put your hand on your tummy. In a few hours, this bite will be glucose in your blood and food for your brain. Its fibre will feed the microbes in your gut. Breathe out slowly onto your other hand. Feel the warmth. Let's sit for three breaths. Think of what the rest of the meal adds to this bite, and of everyone who grew and cooked it.
-- Ask: Rice and dal each give your body more when they are eaten together. Can you find other pairs in your kitchen that do this?
+- **Taittiriya Upanishad 2.2:** From food all creatures are born. By food they live, and into food they return. The Upanishad calls the body the layer of a person made of food, and says breath, mind, understanding and joy are deeper layers. (Science agrees about the body: your cells are built from what you eat. Whether a person is more than this body made of food is a question science cannot settle.)
+- Science (settled): Every cell membrane is made largely of fats. They line up in two layers because they do not mix with water.
+- Science (settled): The body rebuilds itself from food all the time. The gut lining is replaced every few days, and red blood cells about every four months.
+- Other view, Many nutrition scientists: The body can make most of the fats it needs from sugar and starch. Only a few kinds of fat, called essential fatty acids, must come from food. On this view, the fat on our plate matters mostly as energy, and a small amount is plenty.
+- Practice, The thank-you bite (4 min): Let's take one small piece of roti or a spoon of rice. Don't swallow it yet. Close your eyes and chew it slowly, thirty times. Notice how it starts to taste a little sweet. That is the enzyme in your spit cutting starch into sugar. Now swallow. Put your hand on your tummy. In a few hours, this bite will be glucose in your blood and food for your brain. Its fibre will feed the microbes in your gut. Breathe out slowly onto your other hand. Feel the warmth. Let's sit for three breaths. Think of the people who grew this food and the person who cooked it.
+- Ask: The fat in a peanut can become the skin of your cells. When does the peanut stop being a peanut and start being you?
 - Ask: If what a food gives you depends on what you eat it with, can a food be good or bad on its own?
 - Ask: Your gut microbes eat the fibre that you cannot. Is that fibre food for you, or food for them?
 
@@ -342,16 +342,16 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Child mode:* Rub each food on its own square. Count ten rubs. Put oil and water on the last two squares.
   - Note: Use roti made without ghee, or the test will find the ghee. Squash hard foods so that their insides touch the paper.
 - **s3 (15 min)**  
-  *Parent does:* 1. Leave the squares flat for 15 minutes so the water can dry. 2. Meanwhile, read the card on why the body needs fat. 3. Then hold each square up to a window or a torch.  
+  *Parent does:* 1. Leave the squares flat for 15 minutes so the water can dry. 2. Meanwhile, put 2 drops of oil into a tumbler of water and look from the top. 3. Read the card on why the body needs fat. 4. After 15 minutes, hold each square up to a window or a torch.  
   *Parent says:* Water dries away. Fat does not. After 15 minutes, any spot still see-through is fat. Let's look.  
-  *Child mode:* Wait 15 minutes. Then hold each square up to the light. Is there a see-through spot?
-  - Note: Expect big spots from oil, peanut and coconut, and medium ones from paneer and chips. Plain roti and apple usually leave nothing once dry. If a spot still looks wet, wait 10 minutes more, because water spots can take time to dry. If the paper is very thin, use two layers.
+  *Child mode:* Wait 15 minutes. Meanwhile, drop 2 drops of oil into a tumbler of water. Does it mix? Then hold each square up to the light.
+  - Note: Expect big spots from oil, peanut and coconut, and medium ones from paneer and chips. Plain roti and apple usually leave nothing once dry. If a spot still looks wet, wait 10 minutes more, because water spots can take time to dry. If the paper is very thin, use two layers. The oil in the tumbler floats as round drops and does not mix, even if you stir. Apple can leave a faint sticky mark from its sugar, but a fat spot is much clearer.
   - Check: The water spot dried and disappeared. The oil spot stayed see-through. What does a spot that stays tell you? → **The food carries fat**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why it matters.  
   *Parent says:* Now tell me three things. What do you think now? What did you see? And why does the body need foods like these?  
   *Child mode:* Now say three things. What I think. What I saw. Why it matters.
-  - Note: A good answer sounds like this. What I think: peanuts, coconut and paneer carry fat, and apple and plain roti carry almost none. What I saw: big see-through spots for peanut and coconut, and no spot for apple. Why: fat builds the walls of every cell and helps us take in vitamin A from carrots and palak. So a little fat is part of a balanced diet. Do not let the talk turn into 'fat is bad'. Peanuts and coconut are nourishing foods.
+  - Note: A good answer sounds like this. What I think: peanuts, coconut and paneer carry fat, and apple and plain roti carry almost none. What I saw: big see-through spots for peanut and coconut, and no spot for apple. Why: fat builds the thin skin around every cell and helps us take in vitamin A from carrots and palak. So a little fat is part of a balanced diet. Do not let the talk turn into 'fat is bad'. Peanuts and coconut are nourishing foods.
 ### e2 · The Vanishing Blue: which fruit has the most vitamin C? (35 min)
 - **question:** Which juice has the most vitamin C: amla, guava, lemon, mosambi or a packet fruit drink?
 - **predict:** Before you start, guess. Put the juices in order, from the most vitamin C to the least. Write your order down, and say why you think so.
@@ -373,7 +373,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Parent does:* 1. Add amla juice to the first bowl, one drop at a time. 2. Swirl after every drop and count. 3. Stop when the blue has gone, and write the number. 4. Rinse the dropper. 5. Do the same for each juice, and for water.  
   *Parent says:* One drop, swirl, look. One drop, swirl, look. Stop the moment the blue is gone.  
   *Child mode:* Add one drop. Swirl. Look. Count each drop. Stop when the blue is gone.
-  - Note: Amla usually clears the blue in just a few drops. Guava is usually next. Lemon and mosambi need many more drops, often about the same number. Packet drinks often need many drops, unless vitamin C has been added, which is a real result too. Read the packet to check. Water never clears it. Stop any juice at 40 drops and write '40 or more'. Orange-coloured juices tint the liquid, so look for the blue going, not for it turning clear.
+  - Note: Amla usually clears the blue in just a few drops. Guava is usually next. Lemon and mosambi need many more drops, often about the same number. Packet drinks often need many drops, unless vitamin C has been added, which is a real result too. Read the packet to check. Water never clears it. Stop any juice at 40 drops and write '40 or more'. Orange-coloured juices tint the liquid, so look for the blue going, not for it turning clear. Amla also has other substances, called tannins, that clear the blue too. So the test measures vitamin C together with some similar substances, not vitamin C alone.
   - Check: Amla cleared the blue in 3 drops. Lemon needed 18 drops. Which has more vitamin C? → **Amla**
 - **s4 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -382,9 +382,9 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Note: A good answer sounds like this. What I think: amla has the most vitamin C, and the packet drink had very little. What I saw: amla cleared the blue in 3 drops, lemon in 18, and the packet drink was still blue at 40. Why: vitamin C reacts with the iodine and takes away its blue. So the fewer drops, the more vitamin C. Extra: vitamin C is also lost when food is boiled a long time or cut and left open. Try a squeezed lemon juice left out overnight, if you are curious. The change may be small.
 - **s5 (4 min)**  
   *Parent does:* Talk about the iron partners. Squeeze lemon on a bowl of dal at the next meal, or eat a guava with your lunch.  
-  *Parent says:* Vitamin C has a secret job. It helps your body take in the iron from dal, palak and bajra. That is one reason lemon on dal is such an old habit.  
+  *Parent says:* Vitamin C has another job. It helps your body take in the iron from dal, palak and bajra. So the old habit of squeezing lemon on dal also helps your body.  
   *Child mode:* Vitamin C helps your body take iron from dal. Squeeze lemon on your dal at dinner.
-  - Think: Old recipes put lemon on dal and amla in chutney. Who worked that out, long before anyone knew about vitamins?
+  - Think: Old recipes put lemon on dal and amla in chutney, long before anyone knew about vitamins. Why do you think these habits lasted?
 ### e3 · Balloon Bellies: what do microbes like to eat? (50 min)
 - **question:** Do tiny living things make more gas when they are fed sugar, flour or nothing at all?
 - **predict:** Before you start, guess. Which balloon will grow biggest: the sugar bottle, the atta bottle or the plain water bottle? Will any stay flat? Why do you think so?
@@ -405,7 +405,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Parent does:* 1. Put the bottles in a warm spot, out of the fan. 2. Every 15 minutes, wrap a string round the fattest part of each balloon, then measure the string on a ruler. 3. Write the numbers. 4. In between, play Cell Delivery or read the story.  
   *Parent says:* Let's measure each balloon with the string. Which one is growing fastest?  
   *Child mode:* Every 15 minutes, measure each balloon with a string. Write down the numbers.
-  - Note: The sugar balloon usually starts to stand up within 15 to 20 minutes, and fills more by 45. The atta balloon grows slowly, because the yeast must wait for the starch to be cut into sugar. The water balloon stays almost flat. If the balloons are still small at 45 minutes, keep going to 60 minutes. Sometimes nothing happens at all after 20 minutes. Then the water was too hot or too cold, or the yeast was old. Test the yeast: a spoon of it in warm sugar water should froth within 10 minutes. In cold months, stand the bottles in a bowl of warm water.
+  - Note: The sugar balloon usually starts to stand up within 15 to 20 minutes, and fills more by 45. The atta balloon grows slowly, because enzymes in the flour must first cut its starch into sugar for the yeast. The water balloon stays almost flat. If the balloons are still small at 45 minutes, keep going to 60 minutes. Sometimes nothing happens at all after 20 minutes. Then the water was too hot or too cold, or the yeast was old. Test the yeast: a spoon of it in warm sugar water should froth within 10 minutes. In cold months, stand the bottles in a bowl of warm water.
   - Check: The sugar balloon grew big. The water balloon stayed flat. What does that show? → **Yeast makes gas only when it has food to eat**
   - Wait: Check every 15 minutes, three times.
 - **s4 (4 min)**  
@@ -474,9 +474,10 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Parent says:* Starch is a long chain of glucose, all the same kind of piece. Protein is a chain of amino acids, in many kinds. Here they are as paper clips.  
   *Child mode:* Make a long chain of same-colour clips. That is starch from roti. Make a mixed-colour chain. That is protein from dal.
 - **s2 (4 min)**  
-  *Parent does:* Stand the card up. Ask your child to push a whole chain through the slot. It will not fit.  
+  *Parent does:* Stand the card up. Ask your child to hold a whole chain bunched up in one hand and push the bunch through the slot. It will not fit.  
   *Parent says:* This card is the wall of your small intestine. On the other side is your blood. Can the whole chain get through?  
   *Child mode:* The card is your gut wall. Blood is on the other side. Try to push a whole chain through the slot.
+  - Note: If your child threads the chain through one clip at a time, say that this is like cutting it: the real gut wall takes in only single pieces, one at a time, never a whole chain.
   - Check: Why won't the whole chain fit through the gut wall? → **It is too big. It must be cut into single pieces first.**
 - **s3 (5 min)**  
   *Parent does:* 1. Your child is now the enzymes. They unhook the clips one at a time. 2. Push each single clip through the slot into the 'blood' side. 3. Try to unhook the ball of wool. It cannot be cut up.  
@@ -485,10 +486,10 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Note: The ball of wool is fibre. Our enzymes cannot cut it, so it cannot pass through the wall. It travels on to the large intestine, where the gut microbes eat it. Put it in the Gut microbes bowl.
 - **s4 (5 min)**  
   *Parent does:* 1. On the blood side, take the single clips to the cell bowls. 2. In the Muscle cell bowl, join the mixed clips into a new chain in a new order. 3. Put the same-colour clips in the Brain cell bowl, where they are burned for energy.  
-  *Parent says:* Your muscle cells take the amino acids and join them in a new order, to make your own muscle protein. Your brain cells burn the glucose for energy. Nothing is wasted.  
+  *Parent says:* Your muscle cells take the amino acids and join them in a new order, to make your own muscle protein. Your brain cells burn the glucose for energy.  
   *Child mode:* Take the clips to the cells. Join the mixed clips in a new order. That is new muscle. Put the plain clips in the brain bowl.
   - Check: The protein from dal is cut up and rebuilt in your muscle. Whose protein is it now? → **Yours**
-  - Think: If your muscle is built from dal, and the dal was built from soil, air and sunlight, where do you begin?
+  - Think: Your muscle is built from dal, and the dal plant was built from air, water, soil and sunlight. So where does the dal end and you begin?
 - **s5 (2 min)**  
   *Parent does:* Ask your child to draw the journey in four pictures.  
   *Parent says:* Draw the four steps: the chain, the cutting, the slot and the cells.  
@@ -498,7 +499,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - **record:** A table with each packet, its grams of sugar, and its teaspoons, plus a photo or drawing of the saucers.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Find the Nutrition Information box on each packet. 2. Find the line 'Sugars' or 'Total sugars'. 3. Check whether the number is for 100 millilitres or for the whole pack.  
-  *Parent says:* Every packet in India has a small table called Nutrition Information. Let's find the line that says sugars.  
+  *Parent says:* Most food packets in India have a small table called Nutrition Information. Let's find the line that says sugars.  
   *Child mode:* Find the Nutrition Information box. Find the word 'Sugars'. Read the number.
   - Note: Many labels give sugar per 100 millilitres or per 100 grams. If the pack is 200 millilitres, double the number. Some labels also show 'added sugars', which is sugar put in during making.
 - **s2 (5 min)**  
@@ -763,8 +764,8 @@ When the first leaves came, small and round and green, I picked a handful. I was
    Options: Helps the blood carry oxygen / Makes bones hard / Makes food taste sweet  
    **Answer:** Helps the blood carry oxygen. *Why:* Iron is part of the red part of blood that carries oxygen. Calcium makes bones hard. Picking 'makes bones hard' is a common mix-up between the two minerals.
 8. (mcq) Why does the body need some fat?  
-   Options: It builds cell walls and helps us take in some vitamins / It is never needed / It makes bones grow  
-   **Answer:** It builds cell walls and helps us take in some vitamins. *Why:* Every cell is wrapped in a thin wall made mostly of fat. Fat also carries vitamins A, D, E and K. Picking 'it is never needed' is a common idea, but the body cannot live without some fat.
+   Options: It builds the thin skin around every cell, and helps us take in some vitamins / It is never needed / It makes bones grow  
+   **Answer:** It builds the thin skin around every cell, and helps us take in some vitamins. *Why:* Every cell is wrapped in a thin skin, the cell membrane, made largely of fats. Fat also carries vitamins A, D, E and K. Picking 'it is never needed' is a common idea, but the body cannot live without some fat.
 9. (mcq) In the Vanishing Blue test, which result means the most vitamin C?  
    Options: The juice needing the fewest drops / The juice needing the most drops / The juice with the brightest colour  
    **Answer:** The juice needing the fewest drops. *Why:* Vitamin C takes away the blue. If a few drops are enough, each drop holds a lot of vitamin C. Picking 'most drops' reads the test backwards.
@@ -792,7 +793,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - Folic acid tablets given to pregnant mothers, which come from Lucy Wills's discovery in Bombay.
 - Hospital diets planned by dietitians for people who are ill, recovering or have diabetes.
 - Food for astronauts, soldiers at high altitude and mountaineers, planned to give a lot of energy in a light pack.
-- Food labels with a Nutrition Information table, which every packet in India must carry.
+- Food labels with a Nutrition Information table, which most food packets in India must carry.
 - Oral rehydration solution (ORS), a simple mix of water, salt and sugar that saves many children with diarrhoea.
 - Plans for feeding cattle, poultry and pets, which use the same ideas of balanced nutrients.
 - Sports nutrition for athletes, who need more energy and protein.
@@ -834,7 +835,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - What did the dal say to the rice? *We make a great pair, we complete each other!*
 - Why did the carrot win a prize? *It was outstanding in its field.*
 - Why was the gut microbe never lonely? *It lived with trillions of roommates.*
-- What do you call a cell that loves sweets? *A glucose-ip.*
+- Why did the roti taste sweet after thirty chews? *Your spit had been busy cutting its starch into sugar.*
 - Why did the banana go to the doctor? *It wasn't peeling well.*
 - What is a mitochondrion's favourite game? *Burning rubber. No, burning glucose!*
 - Why did the amla sit alone at the party? *It was too sour to mix, but everyone needed its vitamin C.*
@@ -842,11 +843,11 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - What did the stomach say to the samosa? *I'll break you down, but nicely.*
 - Why did the glass of water join the thali? *Because every plate needs a little support.*
 - Why do skeletons never eat too much? *They don't have the stomach for it.*
-- What did the fibre say to the gut microbe? *You can't digest me without you.*
+- What did the gut microbe say to the fibre? *You are too tough for the human, but you are my favourite meal.*
 - Why did the iron go to the lemon party? *It wanted to be absorbed into the group.*
 - Why was the egg so good at football? *It knew how to scramble.*
 - Why did the balloon on the sugar bottle look so pleased? *It was full of itself.*
-- What is a cell's favourite kind of music? *Anything with a good membrane.*
+- Why was the cell so famous? *It was a real cell-ebrity.*
 - Why did the ragi mudde roll out of the kitchen? *It was having a ball.*
 - What did the tooth say to the jalebi? *Please visit, but don't stay long.*
 - Why did the idli feel so light? *Its batter had microbes making bubbles all night.*
@@ -856,8 +857,8 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - A juice box says 'Sugars: 12 grams per 100 millilitres'. The box holds 200 millilitres. A level teaspoon of sugar weighs about 4 grams. How many teaspoons of sugar are in the whole box? **6 teaspoons.**. The box is 200 millilitres, which is 2 lots of 100. So the sugar is 12 + 12 = 24 grams. Each teaspoon is 4 grams. 24 divided by 4 is 6. So there are 6 teaspoons of sugar in the box. (queues `math.division.sharing-and-grouping.L3`)
 - Your thali has 8 equal spaces. About half the plate should be vegetables and fruit. A quarter should be grains. A quarter should be dal, curd or eggs. How many spaces does each get? **Vegetables and fruit 4 spaces, grains 2 spaces, dal, curd or eggs 2 spaces.**. Half of 8 is 8 divided by 2, which is 4. A quarter of 8 is 8 divided by 4, which is 2. Check: 4 + 2 + 2 = 8. All the spaces are used. (queues `math.fractions.fractions-of-a-whole.L3`)
 - In the 30-Plant Week, one leaf stands for 2 new plants. On Monday you found 10 new plants, on Tuesday 6, on Wednesday 5 and on Thursday 3. How many leaves do you draw for each day? How many plants is that so far? **Monday 5 leaves, Tuesday 3 leaves, Wednesday 2 and a half leaves, Thursday 1 and a half leaves. That is 24 plants so far.**. Divide each day's plants by 2. 10 divided by 2 is 5. 6 divided by 2 is 3. 5 divided by 2 is 2 with 1 left over, so 2 and a half leaves. 3 divided by 2 is 1 with 1 left over, so 1 and a half leaves. Total plants: 10 + 6 + 5 + 3 = 24. (queues `math.data.pictographs.L3`)
-- In the Vanishing Blue test, amla cleared the blue in 3 drops. Lemon needed 18 drops. About how many times more vitamin C is in a drop of amla than a drop of lemon? **About 6 times more.**. The same amount of blue needs the same amount of vitamin C. Amla did it in 3 drops and lemon in 18. 18 divided by 3 is 6. So one drop of amla carries about as much vitamin C as 6 drops of lemon. (queues `math.division.division-facts.L3`)
-- In Balloon Bellies, the sugar balloon was 12 cm round at 15 minutes, 22 cm at 30 minutes and 28 cm at 45 minutes. How much did it grow in each 15 minutes? Was it growing faster at the start or at the end? **It grew 12 cm, then 10 cm, then 6 cm. It grew fastest at the start.**. From 0 to 12 is 12 cm. From 12 to 22 is 22 − 12 = 10 cm. From 22 to 28 is 28 − 22 = 6 cm. The growth got smaller each time, so it was fastest at the start. The yeast was using up its sugar. (queues `math.addition-subtraction.word-problems.L3`)
+- In the Vanishing Blue test, amla cleared the blue in 3 drops. Lemon needed 18 drops. About how many times more vitamin C is in a drop of amla than a drop of lemon? **About 6 times as much.**. The same amount of blue needs the same amount of vitamin C. Amla did it in 3 drops and lemon in 18. 18 divided by 3 is 6. So one drop of amla carries about as much vitamin C as 6 drops of lemon. (queues `math.division.division-facts.L3`)
+- In Balloon Bellies, the sugar balloon was 8 cm round at 15 minutes, 17 cm at 30 minutes and 28 cm at 45 minutes. How much did it grow in each 15 minutes? Was it growing faster at the start or at the end? **It grew 8 cm, then 9 cm, then 11 cm. It grew fastest at the end.**. From 0 to 8 is 8 cm. From 8 to 17 is 17 − 8 = 9 cm. From 17 to 28 is 28 − 17 = 11 cm. The growth got bigger each time, so it was fastest at the end. Dry yeast takes a while to wake up in warm water. As more of it starts eating, the gas comes faster. (queues `math.addition-subtraction.word-problems.L3`)
 
 ## Song
 Sunlight on My Plate (sci.food.L3): Topic-level song

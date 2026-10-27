@@ -1,23 +1,23 @@
 {
  "id": "sci.the-very-small.atoms.L3",
- "title": "Atoms: how small is small?",
+ "title": "Atoms: how small they are and what is inside them",
  "level": 3,
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: the paper strip is now 24 cm long and cut across its width, so there is always a long edge to hold, and a grown-up does the cuts below 1 cm with sharp scissors. The hidden-object marble test now names a smooth floor, card raised on four steel tumblers and a battery standing up, because marbles stop on carpet and a flat coin lets them roll over it. The colour test uses hot water from a kettle, not a hot tap, which many Indian homes do not have, and it gives food colour, ink or instant coffee as choices. The salt-flame test needs a gas stove, so it gives a street-light and video alternative for homes with induction cooktops. Rubbed balloons often fail in humid or monsoon weather, so magnets are the first choice. Parents should know: the smell race is mostly carried by moving air, not by the molecules wandering alone, and the unit says so. Timings were checked step by step. The spine fits about 85 to 90 minutes. Catch the Electron and the size ladder both work for one child alone.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: the paper strip is now 24 cm long and cut across its width, so there is always a long edge to hold, and a grown-up does the cuts below 1 cm with sharp scissors. The hidden-object marble test now names a smooth floor, card raised on four steel tumblers and a battery standing up, because marbles stop on carpet and a flat coin lets them roll over it. The colour test uses hot water from a kettle, not a hot tap, which many Indian homes do not have, and it gives food colour, ink or instant coffee as choices. The salt-flame test needs a gas stove, so it gives a street-light and video alternative for homes with induction cooktops. The battery in the marble test is pressed into a small ball of atta dough, so a marble cannot knock it over. Rubbed balloons often fail in humid or monsoon weather, so magnets are the first choice. Parents should know: the smell race is mostly carried by moving air, not by the molecules wandering alone, and the unit says so. Timings were checked step by step. The spine fits about 85 to 90 minutes. Catch the Electron and the size ladder both work for one child alone.",
  "summary": {
-  "text": "This unit is about atoms, the tiny bits that everything is made of. Your chair, your hand, the air and the stars are all made of atoms. Atoms are so small that you could cut a strip of paper in half about 31 times before a piece was as small as one atom. Every atom has a tiny, heavy centre, called the nucleus, and electrons far around it. So an atom is almost entirely empty space. Electrons are not little balls on tracks. Scientists can only say where an electron is likely to be found, so they draw it as a cloud. The very small does not behave like the things we see, and nobody fully understands why.",
+  "text": "Cut a strip of paper in half again and again, and your scissors stop after about 8 cuts. To reach the size of one atom, you would need about 31. Everything you can touch is made of atoms, and an atom is almost all empty space. At its centre is a tiny, heavy nucleus, made of protons and neutrons. Electrons are found around it, not on tracks but in a cloud of places where they are likely to be.",
   "art": "A zoom in five circles: a child's hand on a wooden table, the wood's fibres, a cluster of molecules, one atom drawn as a soft glowing cloud, and a tiny bright dot at its centre."
  },
  "intro": {
   "hook": "Take a piece of paper. Tear it in half. Tear one half in half again. Keep going. Can you go on for ever? Or will you reach a piece so small it cannot be cut?",
-  "text": "About 2,500 years ago, a thinker in India asked this same question. His name was Kanada. A story says he lived on the tiny grains of rice left behind in fields after the harvest. His name may even mean 'grain-eater'. Kanada taught that everything is made of tiny bits far too small to see. He called them paramanu. Far away in Greece, a thinker called Democritus had a similar idea. He called the bits atoms. Neither of them had a microscope. Were they right? This unit finds out.",
+  "text": "More than 2,000 years ago, a thinker in India asked this same question. His name was Kanada. A story says he lived on the grains of rice left behind in fields after the harvest. His name may even mean 'grain-eater'. Kanada taught that everything is made of tiny particles, far too small to see. He called them paramanu. Far away in Greece, a thinker called Democritus had a similar idea. He called them atoms. Neither of them had a microscope. They worked it out by thinking. In this unit you test their idea yourself, with a strip of paper and a pair of scissors.",
   "art": "A thinker in simple cotton clothes kneeling in a harvested rice field at sunset, holding a single grain of rice up to his eye."
  },
  "outcomes": [
-  "I can say that everything is made of atoms, tiny bits far too small to see, even with a magnifying glass.",
+  "I can say that everything I can touch is made of atoms, far too small to see, even with a magnifying glass.",
   "I can show how small atoms are, by cutting paper in half again and again, and by putting things in order of size.",
   "I can name the parts of an atom: a tiny centre called the nucleus, made of protons and neutrons, and electrons around it.",
-  "I can explain that an atom is almost all empty space, and how scientists found out by firing tiny bits at metal.",
-  "I can explain that electrons are not little balls going round on tracks. Scientists can only say where an electron is likely to be, so they draw it as a cloud of maybe.",
+  "I can explain that an atom is almost all empty space, and how scientists found out by firing alpha particles at thin gold.",
+  "I can explain that electrons are not little balls going round on tracks. Scientists can only say where an electron is likely to be found, so they draw it as a cloud.",
   "I can say that the very small does not behave like the things we see. I can also say that in physics an 'observer' is anything that measures, not only a person.",
   "I can say how we know atoms are real without seeing them, and name things scientists still do not know."
  ],
@@ -31,27 +31,27 @@
   },
   {
    "term": "Particle",
-   "meaning": "A tiny piece of matter, far too small to see.",
-   "example": "Sugar dissolved in water breaks into particles too small to see. You can still taste them.",
+   "meaning": "A very small piece of matter, too small to see. Atoms and molecules are particles. So are the protons, neutrons and electrons inside atoms.",
+   "example": "Sugar stirred into water breaks up into particles too small to see. You can still taste them.",
    "art": "A spoon of sugar stirred into a glass, with a zoomed circle showing tiny dots spread through the water."
   },
   {
    "term": "Atom",
-   "meaning": "The tiny building block that all matter is made of. About 5 million atoms side by side would stretch across just 1 millimetre.",
+   "meaning": "The tiny particle that everything you can touch is built from. An atom has a nucleus at its centre, with electrons around it. About 5 million atoms in a row would be just 1 millimetre long.",
    "example": "Your hand, the floor and the air are all made of atoms.",
    "art": "A ruler's 1 millimetre gap, with a zoomed circle showing a long row of tiny glowing atoms squeezed into it."
   },
   {
    "term": "Element",
-   "meaning": "A substance made of only one kind of atom. There are about 90 kinds found in nature.",
-   "example": "Gold, iron, oxygen and carbon are elements. The graphite in a pencil is nearly all carbon atoms.",
+   "meaning": "A substance whose atoms are all of one kind. Atoms are the same kind when they have the same number of protons. About 90 elements are found in nature.",
+   "example": "Gold, iron, oxygen and carbon are elements. The graphite in a pencil is made only of carbon atoms.",
    "art": "A gold earring, an iron nail, a pencil tip and a puff of air, each with a small label."
   },
   {
    "term": "Molecule",
-   "meaning": "Two or more atoms joined together.",
+   "meaning": "Two or more atoms joined together into one particle.",
    "example": "A water molecule is two hydrogen atoms joined to one oxygen atom.",
-   "art": "One big ball and two small balls stuck together like a little Mickey Mouse head, labelled water."
+   "art": "One big ball with two smaller balls joined to it at an angle, labelled water."
   },
   {
    "term": "Nucleus",
@@ -61,37 +61,37 @@
   },
   {
    "term": "Proton",
-   "meaning": "One of the bits in the nucleus. A proton has a plus electric charge. The number of protons decides which element an atom is.",
+   "meaning": "One of the two kinds of particle in the nucleus. A proton has a positive electric charge, shown as plus. The number of protons decides which element an atom is.",
    "example": "Every carbon atom has 6 protons. Every gold atom has 79.",
    "art": "A small cluster of red balls, labelled protons, with a plus sign on each."
   },
   {
    "term": "Neutron",
-   "meaning": "The other kind of bit in the nucleus. A neutron has no electric charge.",
+   "meaning": "The other kind of particle in the nucleus. A neutron has no electric charge. It weighs about the same as a proton.",
    "example": "A carbon atom usually has 6 neutrons next to its 6 protons.",
    "art": "A cluster of red and grey balls packed together, the grey ones labelled neutrons."
   },
   {
    "term": "Electron",
-   "meaning": "A very light bit with a minus electric charge, found around the nucleus. Electrons are what touch, push and join when atoms meet.",
+   "meaning": "A very light particle with a negative electric charge, shown as minus. Electrons are found around the nucleus. When atoms meet, it is their electrons that push on each other or join the atoms together.",
    "example": "When you rub a balloon on dry hair, some electrons move from your hair onto the balloon.",
    "art": "A fuzzy cloud around a tiny dot, with the cloud labelled electron."
   },
   {
    "term": "Quark",
-   "meaning": "An even tinier bit inside every proton and neutron. Each proton and neutron is made mainly of three quarks.",
+   "meaning": "An even smaller particle. Each proton and each neutron is made mainly of three quarks.",
    "example": "A proton is made of two 'up' quarks and one 'down' quark.",
    "art": "A proton opened up like a fruit, showing three small coloured dots inside."
   },
   {
    "term": "Electric charge",
-   "meaning": "A property of tiny bits that makes them push or pull each other. Plus and minus pull together. Two pluses, or two minuses, push apart.",
-   "example": "Two rubbed balloons hanging side by side push each other away.",
+   "meaning": "A property of some particles that makes them attract or repel each other. Attract means pull together. Repel means push apart. A plus and a minus attract. Two pluses, or two minuses, repel.",
+   "example": "Two balloons rubbed on dry hair both get extra electrons, so they repel each other.",
    "art": "Two balloons on threads leaning away from each other, small minus signs on both."
   },
   {
    "term": "Empty space",
-   "meaning": "Space with no atoms in it. Most of every atom is empty space, between the nucleus and its electrons.",
+   "meaning": "Space with no matter in it. Most of an atom is empty space. Its nucleus is tiny, and its electrons are tiny too, spread out as a cloud.",
    "example": "Nearly all of your body is empty space, because nearly all of every atom is.",
    "art": "A child's outline filled with a starry darkness and a few tiny dots."
   },
@@ -115,13 +115,13 @@
   },
   {
    "term": "Observer (in physics)",
-   "meaning": "Anything that measures, such as a detector, a screen or even a single bit of light. It does not have to be a person.",
+   "meaning": "Anything that measures, such as a detector, a screen or even a single particle of light. It does not have to be a person.",
    "example": "A camera chip or a speck of dust can 'observe' an electron by being hit by it.",
    "art": "A detector box, a speck of dust and a person's eye, all with the same small flash beside them, showing they all count."
   },
   {
    "term": "Probability",
-   "meaning": "How likely something is to happen. It is the maths of maybe.",
+   "meaning": "How likely something is to happen. It is the maths of chance.",
    "example": "With two dice, a total of 7 is more likely than a total of 12.",
    "art": "Two dice showing 3 and 4, with a big 7 and a small 12 beside them."
   },
@@ -145,7 +145,7 @@
   },
   {
    "term": "Paramanu",
-   "meaning": "The word used by Kanada, a thinker in ancient India, for the smallest bits that everything is made of.",
+   "meaning": "The word used by Kanada, a thinker in ancient India, for the smallest particles that everything is made of.",
    "example": "Kanada taught that paramanu join in pairs and threes to build bigger things.",
    "art": "An old palm-leaf page with dots drawn in pairs and threes."
   }
@@ -154,21 +154,21 @@
   {
    "concept": "Everything is made of atoms",
    "status": "defined",
-   "definition": "All matter is made of tiny building blocks called atoms. There are about 90 kinds in nature, and they join in different ways to make everything.",
-   "description": "Look around you. A steel tumbler, a mango, your skin and the air look nothing alike. But zoom in far enough and they are all made of atoms. Different things are made of different kinds of atoms, joined in different patterns. It is a bit like Lego. A small box of blocks can build a house, a dog or a rocket. A few kinds of atoms build a stone, a tree and you.",
+   "definition": "Everything you can touch is made of tiny particles called atoms. About 90 kinds of atom are found in nature, and they join in different ways to make everything.",
+   "description": "Look around you. A steel tumbler, a mango, your skin and the air look nothing alike. But zoom in far enough and they are all made of atoms. Different things are made of different kinds of atom, joined in different patterns. It is a bit like the alphabet. Just 26 letters make every word in English. About 90 kinds of atom make a stone, a tree and you.",
    "examples": [
     "Water is made of hydrogen and oxygen atoms, joined in little groups called molecules.",
-    "A pencil's grey tip is made almost entirely of carbon atoms. So is a diamond. The atoms are only arranged differently.",
+    "The grey tip of a pencil is mostly graphite, which is made only of carbon atoms. A diamond is made only of carbon atoms too. The atoms are just arranged differently.",
     "Your body is made mostly of four kinds of atom: oxygen, carbon, hydrogen and nitrogen."
    ],
    "perspectives": [],
-   "art": "Three Lego-like scenes built from the same few coloured beads: a little house, a tree and a child.",
+   "art": "Three small models built from the same few kinds of coloured beads: a little house, a tree and a child.",
    "context": "This card explains the main idea of the whole unit: what everything is made of."
   },
   {
    "concept": "How small is an atom?",
    "status": "defined",
-   "definition": "An atom is about one ten-millionth of a millimetre across. That is far too small to see with any ordinary microscope.",
+   "definition": "The smallest atom, hydrogen, is about one ten-millionth of a millimetre across. Most atoms are two or three times wider. That is still far too small to see with any ordinary microscope.",
    "description": "Small numbers are hard to imagine, so try halving. Take a strip of paper 24 centimetres long and cut it in half. Then cut one half in half. Keep going. With home scissors, most people can make about 8 cuts. The piece is then about 1 millimetre long. To reach the size of one atom, you would need about 31 cuts. To reach an atom's centre, about 45. The chart shows how far each thing is down this halving ladder.",
    "examples": [
     "About 5 million atoms side by side would fit across the 1 millimetre gap between two lines on a ruler.",
@@ -227,7 +227,7 @@
   {
    "concept": "How we know atoms are real",
    "status": "defined",
-   "definition": "We know atoms are real because of what they do. They jiggle tiny specks, spread colour through water and can now be pictured one by one with special microscopes.",
+   "definition": "We know atoms are real because of what they do. Moving molecules bump tiny specks in water and make them jiggle. Special microscopes can now make pictures of single atoms.",
    "description": "For more than 2,000 years, atoms were only an idea. Some famous scientists, as late as the year 1900, said atoms were just a handy way of thinking. Then came proof. In 1827, Robert Brown saw tiny specks from pollen jiggling in water, never still. In 1905, Albert Einstein showed that invisible water molecules bumping the specks would make exactly that jiggle. In 1908, Jean Perrin in France measured it carefully, and Einstein was right. In 1981, Gerd Binnig and Heinrich Rohrer built the scanning tunnelling microscope. Its needle tip feels a surface like a finger reading bumps. At last we could make pictures of single atoms.",
    "examples": [
     "A drop of food colour spreads through still water by itself. Water molecules keep bumping it.",
@@ -241,15 +241,15 @@
   {
    "concept": "Who first thought of atoms?",
    "status": "debated",
-   "description": "Long before experiments, thinkers in India and in Greece imagined that everything is made of tiny bits. They had no microscopes. They worked it out by thinking and arguing. Who was first is not known for sure.",
+   "description": "Long before experiments, thinkers in India and in Greece imagined that everything is made of tiny particles. They had no microscopes. They worked it out by thinking and arguing. Who was first is not known for sure.",
    "examples": [
-    "Kanada called the tiny bits paramanu. Democritus called them atomos, which means 'uncuttable'.",
+    "Kanada called the tiny particles paramanu. Democritus called them atomos, which means 'uncuttable'.",
     "In 1808, John Dalton in England gave the first evidence from chemistry: elements always join in fixed amounts."
    ],
    "perspectives": [
     {
      "who": "Kanada, founder of the Vaisheshika school of thought in ancient India",
-     "explanation": "Everything is made of paramanu: tiny, invisible bits that last for ever. They join in pairs and threes to build bigger things. Scholars do not know when Kanada lived. Guesses range from about 600 to 200 years before the Common Era."
+     "explanation": "Everything is made of paramanu: tiny, invisible particles that last for ever. They join in pairs and threes to build bigger things. Scholars do not know when Kanada lived. Guesses range from about 600 to 200 years before the Common Era."
     },
     {
      "who": "Democritus, a thinker in ancient Greece, about 2,400 years ago, with his teacher Leucippus",
@@ -266,8 +266,8 @@
   {
    "concept": "What an atom is made of",
    "status": "defined",
-   "definition": "An atom has a tiny centre, called the nucleus, made of protons and neutrons. Electrons are found around it. Protons and neutrons are made of even smaller bits called quarks.",
-   "description": "The number of protons decides what an atom is. One proton makes hydrogen. Six make carbon. Seventy-nine make gold. Protons have a plus electric charge. Electrons have a minus charge, and plus and minus pull together. That pull keeps the electrons near the nucleus. Neutrons have no charge. Each proton and neutron is made mainly of three quarks. As far as anyone knows, electrons and quarks are not made of anything smaller. But nobody can be sure.",
+   "definition": "An atom has a tiny centre, the nucleus, made of protons and neutrons. Electrons are found around it. Protons and neutrons are made of even smaller particles called quarks.",
+   "description": "The number of protons decides what an atom is. One proton makes hydrogen. Six make carbon. Seventy-nine make gold. Protons are positive and electrons are negative, so they attract each other. That attraction keeps the electrons around the nucleus. Neutrons have no charge. As far as anyone knows, electrons and quarks are not made of anything smaller. But nobody can be sure.",
    "examples": [
     "J.J. Thomson found the electron in 1897, in England.",
     "James Chadwick found the neutron in 1932.",
@@ -280,10 +280,10 @@
   {
    "concept": "An atom is almost all empty space",
    "status": "defined",
-   "definition": "Nearly all of an atom is empty space. The nucleus is about 50,000 times smaller across than the whole atom, yet it holds nearly all the weight.",
-   "description": "In 1909, in Manchester in England, Hans Geiger and a 20-year-old student, Ernest Marsden, fired tiny fast bits called alpha particles at very thin metal foil. The alpha particles came from radium, the element found by Marie and Pierre Curie. Almost every alpha particle went straight through the metal. But about 1 in every 8,000 bounced back. In 1911, Ernest Rutherford explained why. Each atom has a tiny, heavy centre with a strong plus charge. The rest is almost empty. Most alpha particles miss the centre. The rare one that comes close is pushed hard and bounces back. If an atom were a cricket ground, the nucleus would be a mustard seed on the middle stump.",
+   "definition": "Nearly all of an atom is empty space. The nucleus is tens of thousands of times smaller across than the whole atom, yet it holds nearly all the weight.",
+   "description": "In 1909, in Manchester in England, Hans Geiger and a 20-year-old student, Ernest Marsden, fired alpha particles at very thin metal foil. Alpha particles are tiny, fast particles shot out by radium, the element found by Marie and Pierre Curie. Almost every alpha particle went straight through the metal. But about 1 in every 8,000 bounced back. In 1911, Ernest Rutherford explained why. Each atom has a tiny, heavy centre with a strong positive charge. The rest is almost empty. Most alpha particles miss the centre. The rare one that comes close is repelled hard and bounces back.",
    "examples": [
-    "If a room were one atom, its nucleus would be a speck in the middle, thinner than a hair.",
+    "If a room were one atom, its nucleus would be a speck in the middle, about as wide as a hair.",
     "If all the empty space were squeezed out of every person on Earth, all of us together would fit into about one sugar cube."
    ],
    "perspectives": [],
@@ -294,17 +294,17 @@
    "concept": "Why things feel solid",
    "status": "defined",
    "definition": "Things feel solid because the electrons of one thing push away the electrons of another. A quantum rule also stops electrons from crowding into the same place.",
-   "description": "If atoms are nearly empty, why doesn't your hand sink into the table? Two reasons. First, electrons all have a minus charge, and two minuses push apart. When your hand comes near the table, its electrons push back on the table's electrons, very strongly, long before any nuclei meet. Second, quantum physics has a rule, found by Wolfgang Pauli in 1925. Two electrons can never be in exactly the same state. So electrons cannot squeeze together, and atoms keep their size. Solidness is not stuff packed tight. It is a push you feel.",
+   "description": "If atoms are nearly empty, why doesn't your hand sink into the table? Two reasons. First, all electrons are negative, and two negative charges repel. When your hand comes near the table, its electrons repel the table's electrons very strongly, long before any nuclei meet. Second, quantum physics has a rule, found by Wolfgang Pauli in 1925. Two electrons can never be in exactly the same state. So electrons cannot squeeze together, and atoms keep their size. What you feel as solid is not atoms packed with no gaps. It is electrons repelling electrons.",
    "examples": [
     "Hold two magnets with the same ends facing. You feel them push apart before they touch.",
-    "Two rubbed balloons on threads lean away from each other. Their electrons push apart."
+    "Two rubbed balloons on threads lean away from each other. Their extra electrons repel."
    ],
    "perspectives": [],
    "art": "A hand resting on a table, with a zoomed circle showing the electron clouds of the hand and table pressing on each other with a thin gap between them.",
    "context": "If atoms are almost all empty space, why can you lean on a wall? This card explains."
   },
   {
-   "concept": "Electrons are clouds of maybe, not little balls",
+   "concept": "Electrons are found in clouds, not on tracks",
    "status": "defined",
    "definition": "An electron in an atom does not go round the nucleus on a track. Quantum physics can only say how likely it is to be found in each place. Scientists draw this as a cloud: thick where the electron is likely to be, thin where it is not.",
    "description": "Many books draw atoms like tiny solar systems, with electrons going round like planets. That picture came from Niels Bohr in 1913. It was a useful step, but it is not right. In 1926, Erwin Schrödinger found the maths that describes electrons. It does not give a track. It gives a cloud of chances. Each time scientists measure an electron, they find it at one spot. Do this many times, and the spots make a cloud, like your pencil dots around the target. Between measurements, the maths does not say the electron is at any one spot.",
@@ -319,7 +319,7 @@
   {
    "concept": "The very small does not behave like the things we see",
    "status": "defined",
-   "definition": "Atoms, electrons and light follow the rules of quantum physics. Their energy comes in fixed steps, and they can spread out like waves, even though they are always found as single bits.",
+   "definition": "Atoms, electrons and light follow the rules of quantum physics. Their energy comes in fixed steps, and they can spread out like waves, even though they are always found as single particles.",
    "description": "A ball can roll at any speed you like. An electron in an atom cannot have any energy it likes. It can only sit on certain energy levels, like the steps of a staircase. When it drops down one step, the atom gives out light of one exact colour. That is why salt sprinkled on a gas flame flashes yellow. Electrons can also spread like ripples on water. In 1989, Akira Tonomura's team in Japan sent electrons one at a time past a very thin wire that split their path in two. Each electron landed as a single dot. But thousands of dots built up a pattern of stripes, the pattern ripples make. Nobody knows how to picture this. Scientists only know the maths works, every time it is tested.",
    "examples": [
     "Old orange street lights glow one exact colour of yellow-orange, from sodium atoms.",
@@ -334,7 +334,7 @@
    "concept": "Looking means bumping: what 'observer' means",
    "status": "defined",
    "definition": "To measure something tiny, you must let it bump into something, like light or a detector. The bump changes it. In physics, the 'observer' is whatever does the measuring. It does not need to be a person.",
-   "description": "When you look at a cricket ball, light bounces off it into your eyes. The light is far too weak to move the ball. But an electron is so tiny that one bit of light can knock it away. So you cannot find an electron without changing it. Quantum physics goes further. In 1927, Werner Heisenberg showed a rule. Nobody can know exactly where an electron is and exactly how fast it is going, both at the same moment. This is not because our tools are poor. It is how nature works. Some people say quantum physics shows that our minds make the world real. It does not. A detector, a screen or a speck of dust counts as an observer.",
+   "description": "When you look at a cricket ball, light bounces off it into your eyes. The light is far too weak to move the ball. But an electron is so tiny that one particle of light can knock it away. So you cannot find an electron without changing it. Quantum physics goes further. In 1927, Werner Heisenberg showed a rule. Nobody can know exactly where an electron is and exactly how fast it is going, both at the same moment. This is not because our tools are poor. It is how nature works. Some people say quantum physics shows that a person's mind makes the world real. Physics does not show that. A detector, a screen or a speck of dust counts as an observer.",
    "examples": [
     "In the Catch the Electron game, a torch beam or a paper ball counts as a measurement, not only a person.",
     "Air molecules bumping an electron count as measuring it. That is one reason big things never look fuzzy."
@@ -375,21 +375,21 @@
   {
    "concept": "Every electron is exactly the same",
    "status": "defined",
-   "definition": "Every electron in the universe is exactly the same as every other electron. The same is true of every proton, and of every bit of light. There is no way at all to tell two of them apart.",
-   "description": "Two mangoes from the same tree always differ a little, if you look closely enough. Two electrons never do. In 1924, Satyendra Nath Bose, a young teacher at Dacca University, now in Bangladesh, worked out how to count bits of light that are perfectly identical. A journal turned his paper down. He sent it to Albert Einstein, who translated it and had it published. Einstein then took the idea further. Today a whole family of tiny particles is called bosons, after Bose.",
+   "definition": "Every electron in the universe is exactly the same as every other electron. The same is true of every proton, and of every neutron. There is no way at all to tell two of them apart.",
+   "description": "Two mangoes from the same tree always differ a little, if you look closely enough. Two electrons never do. In 1924, Satyendra Nath Bose, a young teacher at Dacca University, now in Bangladesh, worked out how to count bits of light that are perfectly identical. A journal did not accept his paper. He sent it to Albert Einstein, who translated it and had it published. Einstein then took the idea further. Today a whole family of tiny particles is called bosons, after Bose.",
    "examples": [
     "An electron in your fingertip and an electron in a faraway star are exactly alike.",
     "The particles of light are bosons, named after Satyendra Nath Bose."
    ],
    "perspectives": [],
    "art": "Two identical glowing dots, one labelled 'in your finger' and one labelled 'in a star', with an equals sign between them.",
-   "context": "No two leaves or mangoes are exactly alike. This card is about tiny bits that are perfectly alike, and the Indian scientist who counted them."
+   "context": "No two leaves or mangoes are exactly alike. This card is about particles that are perfectly alike, and the Indian scientist who counted them."
   },
   {
    "concept": "Your atoms are very old, and on loan",
    "status": "defined",
    "definition": "Most of the hydrogen in you was made soon after the Big Bang. Nearly all your other atoms were made inside stars. Atoms last for billions of years and keep moving from one thing to another.",
-   "description": "The carbon in your fingernails and the oxygen in your blood were made inside stars that lived and died before the Sun was born. In 1957, Margaret Burbidge, Geoffrey Burbidge, William Fowler and Fred Hoyle showed how stars build atoms. Atoms do not wear out. Every breath you take holds more molecules than there are grains of sand on all the world's beaches. Some of those molecules were breathed before by other people and animals, long ago. Your body is made of about 7 followed by 27 zeros atoms. You are always swapping some of them with the world around you.",
+   "description": "The carbon in your fingernails and the oxygen in your blood were made inside stars that lived and died before the Sun was born. In 1957, Margaret Burbidge, Geoffrey Burbidge, William Fowler and Fred Hoyle showed how stars build atoms. Atoms do not wear out. Every breath you take holds more molecules than there are grains of sand on all the world's beaches. Some of those molecules were breathed before by other people and animals, long ago. A grown-up's body is made of about 7 followed by 27 zeros atoms. You are always swapping some of them with the world around you.",
    "examples": [
     "The iron in your blood was made inside stars.",
     "The water you drink has fallen as rain many times before."
@@ -399,22 +399,22 @@
    "context": "This card follows atoms out into the cosmos and back: where the atoms in your body came from."
   },
   {
-   "concept": "Tiny bits from space pass through you",
+   "concept": "Particles from space pass through you",
    "status": "defined",
-   "definition": "Tiny fast bits from space, called cosmic rays, hit the air all the time. They make showers of other tiny bits, and some pass right through your body.",
-   "description": "Most of these bits are harmless and far too small to feel. About one or two pass through your hand every second. Scientists catch their tracks with special detectors. In India, Bibha Chowdhuri and D.M. Bose of the Bose Institute in Calcutta, now Kolkata, carried photographic plates up mountains near Darjeeling. Between 1939 and 1942, the plates recorded tracks of a kind of particle they called mesons. They published in the journal Nature. Later, a team in England used better plates to find one of these mesons, the pion, and won the Nobel Prize in 1950. Today, a star is named Bibha after her.",
+   "definition": "Fast particles from space, called cosmic rays, hit the air all the time. They make showers of other particles, and some of these pass right through your body.",
+   "description": "These particles are far too small to feel. About one or two pass through your hand every second. Scientists catch their tracks with special detectors. In India, Bibha Chowdhuri and D.M. Bose of the Bose Institute in Calcutta, now Kolkata, carried photographic plates up mountains near Darjeeling. Between 1939 and 1942, the plates recorded tracks of a kind of particle called a meson. They published their work in the journal Nature. Later, a team in England led by Cecil Powell used better plates to find one kind of meson, the pion. Powell won the Nobel Prize in 1950. Today, a star is named Bibha after her.",
    "examples": [
-    "A home-made cloud chamber, made with very cold dry ice, shows thin trails of mist where these bits pass.",
+    "A cloud chamber, made with very cold dry ice and alcohol, shows thin trails of mist where these particles pass.",
     "Big detectors under mountains count particles that pass through the whole Earth."
    ],
    "perspectives": [],
    "art": "A young woman scientist on a misty Darjeeling hillside setting down a wooden box of photographic plates, faint particle tracks drawn in the sky above.",
-   "context": "Not all tiny bits stay inside atoms. This card is about tiny bits that rain down from space, and an Indian scientist who caught their tracks."
+   "context": "Not all particles stay inside atoms. This card is about particles that rain down from space, and an Indian scientist who caught their tracks."
   },
   {
    "concept": "Is there a smallest thing?",
    "status": "idea",
-   "description": "Nobody knows. As far as anyone can tell, electrons and quarks have no size at all. Many physicists now think the tiny bits are not really little things. They may be ripples in invisible 'fields' that fill all of space, like ripples on a pond. Others wonder if space itself is made of tiny bits. Some think there may be tiny vibrating strings deeper down. This is called string theory. No experiment has tested it yet.",
+   "description": "Nobody knows. As far as anyone can tell, electrons and quarks have no size at all. Many physicists now think particles are not really little balls. They may be ripples in invisible 'fields' that fill all of space, like ripples on a pond. Others wonder if space itself is made of tiny separate pieces. Some think there may be tiny vibrating strings deeper down. This is called string theory. No experiment has tested it yet.",
    "examples": [
     "Space that looks empty is never quite empty. It fizzes with tiny flickers of energy, which scientists have measured.",
     "A ripple on a pond is not a thing you can pick up. It is the pond moving."
@@ -422,11 +422,11 @@
    "perspectives": [
     {
      "who": "Many physicists today",
-     "explanation": "Particles are ripples in fields. The fields are the real stuff of the world."
+     "explanation": "Particles are ripples in fields. The fields are what the world is really made of."
     },
     {
      "who": "String theorists, such as Ashoke Sen, an Indian physicist",
-     "explanation": "Deep down, the tiny bits may be vibrating strings. This is an idea that experiments have not tested yet."
+     "explanation": "Deep down, particles may be tiny vibrating strings. Experiments have not tested this idea yet."
     },
     {
      "who": "Other physicists",
@@ -439,7 +439,7 @@
  ],
  "agreed": [
   {
-   "text": "All matter is made of atoms, and there are about 90 kinds found in nature.",
+   "text": "Everything we can touch is made of atoms, and about 90 kinds are found in nature.",
    "evidence": "Chemists have weighed elements joining since John Dalton in 1808. Brownian motion, measured by Jean Perrin in 1908, proved atoms are real. Today special microscopes make pictures of single atoms."
   },
   {
@@ -495,7 +495,7 @@
   {
    "claim": "Kanada discovered the atom long before anyone else.",
    "who": "Some books and speakers in India",
-   "for": "Kanada really did teach that everything is made of tiny invisible bits, paramanu, that join to make bigger things. It was a deep and careful idea.",
+   "for": "Kanada really did teach that everything is made of tiny invisible particles, paramanu, that join to make bigger things. It was a deep and careful idea.",
    "against": "Nobody knows when Kanada lived. Democritus in Greece had a similar idea at about the same time. Neither tested it with experiments. Proof came only in the 1900s.",
    "status": "debated",
    "context": "This card is about the credit for the first idea of atoms."
@@ -559,7 +559,7 @@
    "hint": "Think of two coins, two leaves, two twins. Are they exactly the same?"
   },
   {
-   "q": "If big things are made of tiny things that follow strange 'maybe' rules, why do big things seem so sure and solid?",
+   "q": "If big things are made of tiny things that follow rules of chance, why do big things seem so sure and solid?",
    "kind": "deep",
    "hint": "One dice roll is a surprise. What about the total of a million rolls?"
   },
@@ -581,9 +581,9 @@
   "note": "Real: Ernest Marsden was 20 and a student in Manchester in 1909. He and Hans Geiger counted tiny flashes made by alpha particles from radium, in a darkened room, through a microscope. They found that a few bounced back from metal foil, about 1 in 8,000 for platinum. Rutherford explained it in 1911 with the tiny nucleus. Rutherford's words about the shell and the tissue paper are from a lecture he gave much later. Marsden later moved to New Zealand. Imagined: Marsden's thoughts, the rain, the exact words of the conversations, and the last scene of Marsden in his old age.",
   "text": [
    "In the spring of 1909, in the city of Manchester in England, a young man sat alone in a dark room and waited for his eyes to change. His name was Ernest Marsden. He was twenty years old, still a student, and he was fairly sure he had been given the most boring job in the building.",
-   "The job came from Professor Ernest Rutherford, a big, loud man from New Zealand, whose laugh shook the windows. Rutherford studied the tiniest things there are. In his laboratory he kept a little tube of radium, the strange element that Marie and Pierre Curie had discovered. Radium shoots out tiny bits, far too small to see. Rutherford called them alpha particles. They fly thousands of times faster than a bullet.",
+   "The job came from Professor Ernest Rutherford, a big, loud man from New Zealand, whose laugh shook the windows. Rutherford studied the tiniest things there are. In his laboratory he kept a little tube of radium, the strange element that Marie and Pierre Curie had discovered. Radium shoots out tiny particles, far too small to see. Rutherford called them alpha particles. They fly thousands of times faster than a bullet.",
    "You cannot see an alpha particle. But if one hits a screen coated with a special powder, the powder gives one tiny flash of green light, gone in a moment, like a firefly very far away. To see the flashes, you must first sit in the dark until your eyes are ready. Then you look through a microscope at the screen, and you count.",
-   "Marsden's job was to fire alpha particles at metal. Not a thick slab. A sheet of gold beaten so thin that light shone through it, soft and green. Hans Geiger, Rutherford's patient German assistant, had shown him how. Almost every alpha particle went straight through the gold, as if it were not there. A few were nudged a little to one side. That was what everyone expected. In those days, scientists pictured an atom as a soft ball of electric stuff, like a pudding with raisins in it. A pudding cannot stop a bullet.",
+   "Marsden's job was to fire alpha particles at metal. Not a thick slab. A sheet of gold beaten so thin that light shone through it, soft and green. Hans Geiger, Rutherford's patient German assistant, had shown him how. Almost every alpha particle went straight through the gold, as if it were not there. A few were nudged a little to one side. That was what everyone expected. In those days, scientists pictured an atom as a soft ball of positive charge, with electrons dotted through it like raisins in a pudding. A pudding cannot stop a bullet.",
    "'Now,' Rutherford had said, rubbing his big hands together, 'put your screen on the same side as the radium. See if any of them bounce back.'",
    "'Will they?' Marsden had asked.",
    "'Almost certainly not,' said Rutherford cheerfully. 'But look anyway.'",
@@ -594,11 +594,11 @@
    "Marsden held his breath. Tired eyes play tricks, he told himself. He waited. The minutes crawled. Another flash. Then, a long time later, another. They were rare, very rare. But they were there.",
    "For days, Marsden and Geiger counted. They tried gold, then platinum and other metals. They counted until their eyes swam with green ghosts. Nearly all the alpha particles went straight through the metal. But about one in every eight thousand came flying back, as if it had hit a wall.",
    "Marsden went to Rutherford and told him. Rutherford did not laugh. He went very quiet. Years later he said it was the most incredible thing that had ever happened to him. It was as if you fired a giant cannon shell at a sheet of tissue paper, and it came back and hit you.",
-   "Rutherford thought about it for almost two years. Then he understood. If nearly all the alpha particles went straight through, the gold must be nearly all empty space. If a few bounced back hard, there must be something hiding in that emptiness. Something tiny, and heavy, and full of electric push, at the very centre of every atom. He called it the nucleus. Each gold atom was not a pudding at all. It was a vast, empty space, with a speck in the middle and a few electrons far out at the edges. If the atom were a cricket ground, the speck would be a mustard seed on the middle stump. Most alpha particles simply flew past the seed. Only the rare one that came very close was thrown back.",
+   "Rutherford thought about it for almost two years. Then he understood. If nearly all the alpha particles went straight through, the gold must be nearly all empty space. If a few bounced back hard, there must be something hiding in that emptiness. Something tiny, and heavy, and full of electric push, at the very centre of every atom. He called it the nucleus. Each gold atom was not a pudding at all. It was a vast, empty space, with a speck in the middle and its electrons spread thinly around it. If the atom were a cricket ground, the speck would be a mustard seed on the middle stump. Most alpha particles simply flew past the seed. Only the rare one that came very close was thrown back.",
    "The idea became famous, and it was named after Rutherford. Marsden grew up, crossed the world to New Zealand, and became a scientist there. Few people remember the student who sat in the dark and kept looking at the place where nothing was supposed to happen.",
    "But on rainy evenings, in his old age, Marsden would sometimes sit in a dark room on purpose, just for a moment. He would put his hand flat on a table and press. The table pressed back, firm and solid, as tables do. And he would smile, because he knew what the table really was. Almost nothing at all, with a tiny speck in the middle of every atom, pushing back."
   ],
-  "epiphany": "For the parent: the story turns on the idea that atoms are almost entirely empty space. Most alpha particles pass straight through the gold because there is almost nothing there to hit. The rare ones that bounce back have met the tiny, heavy nucleus. Solidness is not packed stuff. It is a push. The story also asks who gets the credit, and why patience in the 'boring' places matters. The last scene with the table is imagined.",
+  "epiphany": "For the parent: the story turns on the idea that atoms are almost entirely empty space. Most alpha particles pass straight through the gold because there is almost nothing there to hit. The rare ones that bounce back have met the tiny, heavy nucleus. What feels solid is not atoms packed with no gaps. It is electrons repelling electrons. The story also asks who gets the credit, and why patience in the 'boring' places matters. The last scene with the table is imagined.",
   "ask": [
    "Why did Rutherford think no alpha particles would bounce back?",
    "Most alpha particles went straight through the gold. What did that tell Rutherford about atoms?",
@@ -882,7 +882,7 @@
      "t": "mcq",
      "p": "What is everything around you made of, deep down?",
      "opts": [
-      "Tiny bits called atoms",
+      "Tiny particles called atoms",
       "Only the things you can see",
       "Air",
       "Nothing at all"
@@ -899,7 +899,7 @@
     },
     {
      "t": "fill",
-     "p": "The tiny bits that everything is made of are called ____.",
+     "p": "The tiny particles that everything you can touch is made of are called ____.",
      "a": [
       "atoms",
       "atom"
@@ -987,7 +987,7 @@
      "t": "truefalse",
      "p": "An atom is almost all empty space.",
      "a": true,
-     "why": "True. The nucleus is tens of thousands of times smaller across than the atom, and the electrons are far out. Almost everything in between is empty."
+     "why": "True. The nucleus is tens of thousands of times smaller across than the atom. The electrons are tiny too, spread out as a cloud. So almost all of the atom is empty space."
     },
     {
      "t": "mcq",
@@ -1065,13 +1065,13 @@
       "Only a camera"
      ],
      "a": 0,
-     "why": "In physics, an observer is anything that measures, so anything that a tiny bit bumps into. Picking 'only a person' is the most common mix-up. Experiments work the same way with no person watching."
+     "why": "In physics, an observer is anything that measures, so anything that a particle bumps into. Picking 'only a person' is the most common mix-up. Experiments work the same way with no person watching."
     },
     {
      "t": "write",
      "p": "Your friend says, 'Air is nothing.' What would you tell them? Give one way to prove it.",
      "lines": 3,
-     "a": "Air is made of tiny bits called molecules, too small to see. One proof: push a dry tissue into a glass, turn it upside down and push it into water. The tissue stays dry, because air fills the glass.",
+     "a": "Air is made of tiny particles called molecules, too small to see. One proof: push a dry tissue into a glass, turn it upside down and push it into water. The tissue stays dry, because air fills the glass.",
      "why": "Any correct test that shows air takes up space, pushes or carries smells is a good answer."
     },
     {
@@ -1128,7 +1128,7 @@
     },
     {
      "t": "mcq",
-     "p": "In 1909, Geiger and Marsden fired tiny bits at thin metal. What surprised everyone?",
+     "p": "In 1909, Geiger and Marsden fired alpha particles at thin metal. What surprised everyone?",
      "opts": [
       "A few bounced straight back",
       "They all went straight through",
@@ -1136,7 +1136,7 @@
       "None went through at all"
      ],
      "a": 0,
-     "why": "Everyone expected them all to go through, because atoms were pictured as soft puddings. About 1 in 8,000 bounced back. So each atom must have a tiny, hard centre. Picking 'they all went straight through' is what scientists expected, but not what they saw."
+     "why": "Everyone expected them all to go through, because atoms were pictured as soft puddings. About 1 in 8,000 bounced back. So each atom must have a tiny, heavy centre. Picking 'they all went straight through' is what scientists expected, but not what they saw."
     },
     {
      "t": "fill",
@@ -1150,7 +1150,7 @@
      "t": "mcq",
      "p": "In the colour test, which glass did the colour spread through faster, and why?",
      "opts": [
-      "The hot one, because its tiny bits move faster",
+      "The hot one, because its molecules move faster",
       "The cold one, because cold water is heavier",
       "Both the same, because it is the same colour",
       "Neither, colour only spreads if you stir"
@@ -1172,7 +1172,7 @@
      "t": "mcq",
      "p": "A grown-up squeezes an orange peel at one end of a room. Soon you smell it at the other end. What reached your nose?",
      "opts": [
-      "Tiny bits of the orange, too small to see",
+      "Molecules from the orange, too small to see",
       "Nothing, a smell is just an idea",
       "Light from the orange",
       "The sound of squeezing"
@@ -1230,7 +1230,7 @@
       ],
       [
        "Hans Geiger and Ernest Marsden, 1909",
-       "saw tiny bits bounce back from metal foil"
+       "saw alpha particles bounce back from metal foil"
       ],
       [
        "Ernest Rutherford, 1911",
@@ -1306,7 +1306,7 @@
     },
     {
      "t": "write",
-     "p": "Kanada in India and Democritus in Greece both thought everything is made of tiny bits. Neither had a microscope. How might they have come up with the idea?",
+     "p": "Kanada in India and Democritus in Greece both thought everything is made of tiny particles. Neither had a microscope. How might they have come up with the idea?",
      "lines": 3,
      "a": "For example: they might have noticed that sugar disappears in water but can still be tasted, or that stone steps wear away bit by bit. They thought about cutting things smaller and smaller, and decided there must be a smallest piece.",
      "why": "Any answer that uses everyday clues and careful thinking is good. They worked by reasoning, not by experiments.",
@@ -1424,7 +1424,7 @@
       "Exactly the same size"
      ],
      "a": 0,
-     "why": "Nearly all of an atom is empty, and nearly all its weight is in the tiny nucleus. Squeeze out the emptiness, and the whole human race would fit in a sugar cube, though it would weigh as much as a mountain. Picking 'a house' is already a huge squeeze, but not nearly enough."
+     "why": "Nearly all of an atom is empty, and nearly all its weight is in the tiny nucleus. Squeeze out the emptiness, and the whole human race would fit in a sugar cube. It would still weigh about 500 million tonnes. Picking 'a house' is already a huge squeeze, but not nearly enough."
     },
     {
      "t": "mcq",
@@ -1440,7 +1440,7 @@
     },
     {
      "t": "fill",
-     "p": "Protons and neutrons are each made mainly of three even smaller bits called ____.",
+     "p": "Protons and neutrons are each made mainly of three even smaller particles called ____.",
      "a": [
       "quarks",
       "quark"
@@ -1465,7 +1465,7 @@
      "opts": [
       "Scientists still argue about this",
       "Going round on a track",
-      "Sleeping",
+      "Sitting still on the nucleus",
       "It disappears and is made again"
      ],
      "a": 0,
@@ -1509,7 +1509,7 @@
      ],
      "a": 0,
      "why": "High mountains get more of these particles, because there is less air above to stop them. Their work, from 1939 to 1942, was an early step in finding mesons. Picking 'the Moon' is fun, but nobody went there until 1969.",
-     "context": "Cosmic rays are tiny fast bits from space that hit the air and make showers of other tiny bits."
+     "context": "Cosmic rays are fast particles from space that hit the air and make showers of other particles."
     },
     {
      "t": "write",
@@ -1564,7 +1564,7 @@
    "days": 1,
    "context": "In this experiment you cut a strip of paper in half, then cut one half in half, again and again. You count the cuts and measure each piece. It shows how small things can get, and how far away atoms still are.",
    "question": "How many times can you cut a strip of paper in half?",
-   "predict": "Before you start, guess. How many times do you think you can cut the strip in half before the piece is too small to cut? Write your guess down.",
+   "predict": "Before you start, guess. How many times do you think you can cut the strip in half before the piece is too small to cut? Why do you think so? Write your guess and your reason down.",
    "fair_test": "Always cut the piece exactly in half, across its width, and measure it with a ruler. Always keep one half and cut that one next. Count every cut. If you try again, use the same kind of paper and the same scissors.",
    "results_table": [
     "Cut number",
@@ -1577,9 +1577,8 @@
      "qty": 1
     },
     {
-     "item": "child-safe scissors, and sharp scissors for the grown-up",
-     "qty": 1,
-     "buy": "b-scissors"
+     "item": "scissors for the child, and sharp scissors for the grown-up",
+     "qty": 1
     },
     {
      "item": "a ruler",
@@ -1707,9 +1706,9 @@
      "id": "s5",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write what you think, what you saw, and why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: paper is made of tiny bits, much too small to cut with scissors. What I saw: I cut it 8 times, and the last piece was about 1 millimetre. Under the magnifier I saw tiny threads. Why: even the threads are made of smaller bits, down to atoms. An atom is still about 23 cuts away."
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What do you think? What did you see? Why did it happen?",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: paper is made of particles much too small to cut with scissors. What I saw: I cut it 8 times, and the last piece was about 1 millimetre. Under the magnifier I saw tiny threads. Why: the threads are made of molecules, and molecules are made of atoms. An atom is still about 23 cuts away."
     }
    ],
    "setup": [
@@ -1732,9 +1731,9 @@
    "title": "The Hidden Centre: roll marbles like Rutherford",
    "mins": 30,
    "days": 1,
-   "context": "Scientists found the tiny centre of the atom without seeing it, by firing tiny bits at gold and watching which came back. In this experiment you do the same with marbles. You roll them under a card and work out what is hidden there, without looking.",
+   "context": "Scientists found the tiny centre of the atom without seeing it, by firing alpha particles at gold and watching which came back. In this experiment you do the same with marbles. You roll them under a card and work out what is hidden there, without looking.",
    "question": "Can you find out the size of a hidden thing just by rolling marbles at it?",
-   "predict": "Before you start, guess. If the hidden thing is very small, how many of 20 marbles will come back? If it is big, how many?",
+   "predict": "Before you start, guess. If the hidden thing is very small, how many of 20 marbles will come back? If it is big, how many? Why do you think so?",
    "fair_test": "Roll every marble the same way: from the same edge, at the same gentle speed, at a different spot along the edge each time. Roll 20 marbles each time. Only the hidden thing changes.",
    "results_table": [
     "Hidden thing",
@@ -1758,7 +1757,7 @@
      "buy": "b-marbles"
     },
     {
-     "item": "things to hide: a big steel katori turned upside down, and one AA battery standing on its end",
+     "item": "things to hide: a big steel katori turned upside down, and one AA battery standing on its end in a small ball of atta dough, so it cannot fall over",
      "qty": 2
     },
     {
@@ -1789,9 +1788,9 @@
      [
       "A big steel katori",
       "20",
-      "11",
-      "6",
-      "3"
+      "13",
+      "5",
+      "2"
      ],
      [
       "One battery standing up",
@@ -1830,7 +1829,7 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "1. While your child looks away, swap the katori for one AA battery standing on its end. 2. Put the card back. 3. Roll 20 marbles again and tally.",
+     "do": "1. While your child looks away, swap the katori for one AA battery. 2. Press its bottom end into a small ball of atta dough, so it stands up firmly. 3. Put the card back. 4. Roll 20 marbles again and tally.",
      "say": "Now something much smaller is hidden. Roll 20 marbles again. What happens this time?",
      "kid": "Now something smaller is hidden. Roll 20 marbles again. How many come back now?",
      "check": {
@@ -1842,7 +1841,7 @@
        "They stopped under the card"
       ],
       "a": 0,
-      "why": "Most of the space under the card was empty, so most marbles missed the battery. Only one or two hit it and turned or bounced back. This is what happened in 1909, when tiny bits were fired at gold. Most went straight through, and very few came back. So each atom must be mostly empty, with a tiny hard centre. Picking 'they all came back' usually means picturing the hidden thing as a wall, the way scientists pictured atoms before 1909."
+      "why": "Most of the space under the card was empty, so most marbles missed the battery. Only one or two hit it and turned or bounced back. This is what happened in 1909, when alpha particles were fired at gold. Most went straight through, and very few came back. So each atom must be mostly empty, with a tiny, heavy centre. Picking 'they all came back' usually means picturing the hidden thing as a wall, the way scientists pictured atoms before 1909."
      },
      "chart": {
       "type": "bar",
@@ -1872,7 +1871,7 @@
      "id": "s5",
      "mins": 4,
      "do": "Tell your child how the real experiment worked, using the 'An atom is almost all empty space' card.",
-     "say": "In 1909, scientists fired tiny bits at very thin gold. Almost all went straight through. About 1 in 8,000 came back. What does that tell us about atoms?",
+     "say": "In 1909, scientists fired alpha particles at very thin gold. Almost all went straight through. About 1 in 8,000 came back. What does that tell us about atoms?",
      "kid": "Scientists did this with gold in 1909. Almost everything went straight through. Only 1 in 8,000 bounced back. What does that tell you?",
      "think": "Your battery was hit by about 1 marble in 20. The real nucleus was hit by about 1 in 8,000. Which is emptier, your card or a gold atom?"
     }
@@ -1887,7 +1886,7 @@
      "caption": "2. Roll 20 marbles under the card. Watch where each comes out."
     },
     {
-     "art": "A view from above with the card see-through: arrows of marble paths, most straight, one bouncing back off a single standing battery.",
+     "art": "A view from above with the card see-through: arrows of marble paths, most straight, one bouncing back off a single battery standing in a small ball of dough.",
      "caption": "3. Swap in a tiny battery. Most marbles now go straight through."
     }
    ]
@@ -1897,9 +1896,9 @@
    "title": "Colour Spreads by Itself",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you put one drop of food colour into hot water and into cold water, without stirring. You watch the colour spread by itself. It shows that water is made of tiny bits that never stop moving.",
+   "context": "In this experiment you put one drop of food colour into hot water and into cold water, without stirring. You watch the colour spread by itself. It shows that water is made of molecules that never stop moving.",
    "question": "Does colour spread through still water by itself? Does it spread faster in hot water or in cold water?",
-   "predict": "Guess first. Will the colour spread if nobody stirs it? In which glass will it spread faster: the hot one or the cold one?",
+   "predict": "Guess first. Will the colour spread if nobody stirs it? In which glass will it spread faster: the hot one or the cold one? Why do you think so?",
    "fair_test": "Use two glasses of the same size, with the same amount of water. Wait one minute so both are still. Add one drop to each at the same moment, from the same height. Do not stir or bump the table. Only the water's warmth changes.",
    "results_table": [
     "Glass",
@@ -1988,28 +1987,28 @@
        "q": "Nobody is stirring. So what is moving the colour?",
        "good": [
         "The water is moving it.",
-        "Tiny bits of water are bumping it."
+        "Water molecules are bumping it."
        ]
       }
      ],
-     "parent": "In the hot glass, the colour usually swirls through most of the water within 2 or 3 minutes. In the cold glass, it sinks in a thin stream and is still patchy after 5 minutes. Some of the hot glass's swirling comes from warm water rising, as well as from the tiny bits bumping."
+     "parent": "In the hot glass, the colour usually swirls through most of the water within 2 or 3 minutes. In the cold glass, it sinks in a thin stream and is still patchy after 5 minutes. Some of the hot glass's swirling comes from warm water rising, as well as from the molecules bumping."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "Talk about what made the colour spread, using the 'How we know atoms are real' card.",
-     "say": "Water is made of tiny bits called molecules. They are always moving and bumping. They bump the colour and spread it out. In hot water, they move faster.",
-     "kid": "Water is made of tiny bits. They never stop moving. They bump the colour and spread it. Hot bits move faster!",
+     "say": "Water is made of molecules. They are always moving and bumping. They bump the colour and spread it out. In hot water, they move faster.",
+     "kid": "Water is made of molecules. They never stop moving. They bump the colour and spread it. Hot molecules move faster!",
      "check": {
       "t": "mcq",
       "q": "Why did the colour spread faster in the hot water?",
       "options": [
-       "The tiny bits of water move faster when they are hot",
+       "The water molecules move faster when they are hot",
        "Hot water is thinner",
-       "The colour likes heat"
+       "The drop fell harder into the hot glass"
       ],
       "a": 0,
-      "why": "Heat is the jiggling of tiny bits. In hot water, the water molecules move faster, so they bump the colour around faster. Picking 'hot water is thinner' is a sensible guess, because hot water does flow a little more easily. But the main reason is faster-moving molecules."
+      "why": "In hot water, the molecules move faster, so they bump the colour around faster. Warm water also rises and swirls, which helps to mix it. Picking 'hot water is thinner' is a sensible guess, because hot water does flow a little more easily. Picking 'the drop fell harder' misses that both drops fell from the same height."
      },
      "chart": {
       "type": "table",
@@ -2040,9 +2039,9 @@
      "id": "s4",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write what you think, what you saw, and why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water is made of tiny moving bits, and they move faster when hot. What I saw: nobody stirred, but the colour spread. In the hot glass it spread in about 3 minutes. In the cold glass it was still patchy after 5 minutes. Why: the tiny bits of water bump the colour and spread it, and hot bits bump faster."
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What do you think? What did you see? Why did it happen?",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water is made of moving molecules, and they move faster when hot. What I saw: nobody stirred, but the colour spread. In the hot glass it spread in about 3 minutes. In the cold glass it was still patchy after 5 minutes. Why: the water molecules bump the colour and spread it, and hot molecules bump faster."
     }
    ],
    "setup": [
@@ -2064,7 +2063,7 @@
  "activities": [
   {
    "id": "a1",
-   "title": "Clouds of Maybe (pencil dots)",
+   "title": "Pencil Dots: draw an electron cloud",
    "mins": 15,
    "days": 1,
    "context": "In this activity you close your eyes and try to hit a target with a pencil, 50 times. The dots make a cloud. It is a picture of how scientists draw where an electron is likely to be found.",
@@ -2098,7 +2097,7 @@
      "do": "1. Put the paper flat on a table, with the target in the middle. 2. Show your child how to lift the pencil to their ear, close their eyes, and dot.",
      "say": "Look at the target. Lift the pencil up to your ear. Close your eyes. Now bring it down and make a dot where you think the target is.",
      "kid": "Look at the target dot. Lift your pencil up to your ear. Close your eyes. Bring the pencil down to make a dot!",
-     "context": "This is the first step of Clouds of Maybe. You make pencil dots with your eyes closed, to build a picture like an electron cloud."
+     "context": "This is the first step of Pencil Dots. You make pencil dots with your eyes closed, to build a picture like an electron cloud."
     },
     {
      "id": "s2",
@@ -2142,7 +2141,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Explain the link to electrons, using the 'Electrons are clouds of maybe' card.",
+     "do": "Explain the link to electrons, using the 'Electrons are found in clouds, not on tracks' card.",
      "say": "Each dot is like one measurement of an electron. One measurement finds it at one spot. Many measurements make a cloud, thick in the middle. Scientists draw atoms just like this.",
      "kid": "Each dot is like finding an electron once. Many dots make a cloud. That is how scientists draw electrons!",
      "check": {
@@ -2156,7 +2155,7 @@
       "a": 1,
       "why": "You could say the dot would probably be near the target, but not exactly where. That is how scientists treat an electron. They know the chances of each place, never the next spot for sure. Picking 'anywhere with the same chance' misses that the dots were thickest near the target."
      },
-     "think": "Your dots were spread out because your hand wobbled. An electron's cloud is not caused by wobbling. Scientists think the 'maybe' is part of nature itself. Does that seem strange to you?"
+     "think": "Your dots were spread out because your hand wobbled. An electron's cloud is not caused by wobbling. In quantum physics, the chance is part of nature itself. Does that seem strange to you?"
     }
    ],
    "setup": [
@@ -2176,7 +2175,7 @@
   },
   {
    "id": "a2",
-   "title": "A Mustard-Seed Atom (outdoors)",
+   "title": "A Mustard-Seed Atom (if you have a park or a long corridor)",
    "mins": 20,
    "days": 1,
    "context": "In this activity you make a giant model of an atom outdoors. A mustard seed is the nucleus. You walk out to find where the atom's edge would be. It shows how empty an atom is.",
@@ -2220,7 +2219,7 @@
      "say": "Let's walk out to the edge of our atom. Count your steps. We need to go about as far as one and a half cricket pitches.",
      "kid": "Walk away from the seed in a straight line. Count your steps. Keep going! Stop at about 50 or 60 steps.",
      "adult": true,
-     "parent": "Different atoms have different sizes, so these numbers are rough. For a mustard seed nucleus, the atom would reach roughly 30 metres in every direction. If you only have a corridor, walk to the end and say the atom goes even further.",
+     "parent": "Different atoms have different sizes, so these numbers are rough. For a mustard seed nucleus, the atom would reach roughly 25 to 30 metres in every direction. If you only have a corridor, walk to the end and say the atom goes even further.",
      "ask": [
       {
        "q": "Turn around. Can you still see the seed?",
@@ -2235,8 +2234,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Stand at the edge and look back. Talk about what is in between.",
-     "say": "The electrons are out here, somewhere around this edge, as a cloud. Between us and the seed, there are no atoms at all. That is empty space.",
-     "kid": "The electrons are out here, like a cloud. Between you and the seed is nothing at all. That is empty space!",
+     "say": "The electron cloud spreads through all this space, from the seed out to here. But electrons are tiny, so there is almost nothing in it. That is empty space.",
+     "kid": "The electrons are spread through all this space. They are tiny. So it is almost all empty space!",
      "check": {
       "t": "mcq",
       "q": "In your park-sized atom, how much is empty space?",
@@ -2246,7 +2245,7 @@
        "None. It's packed full"
       ],
       "a": 0,
-      "why": "The seed is tiny and the electrons are far out at the edge. Everything in between is empty. A real atom is the same, only far smaller. Picking 'packed full' is the old idea that atoms are solid balls. Experiments in 1909 showed they are not."
+      "why": "The seed is tiny, and the electrons are tiny too, spread thinly through the space. So almost all of it is empty. A real atom is the same, only far smaller. Picking 'packed full' is the old idea that atoms are solid balls. Experiments in 1909 showed they are not."
      }
     },
     {
@@ -2278,7 +2277,7 @@
    "title": "Dots Make Pictures",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you look very closely at a newspaper photo and a phone screen, and find that pictures are made of tiny dots. Then you make your own dot picture. It shows how many tiny bits can make one whole thing.",
+   "context": "In this activity you look very closely at a newspaper photo and a phone screen, and find that pictures are made of tiny dots. Then you make your own dot picture. It shows how many tiny dots can make one whole picture.",
    "materials": [
     {
      "item": "a newspaper with a colour photo",
@@ -2353,7 +2352,7 @@
      "do": "Your child makes a picture using only dots. A mango, a face or a tree all work. Then stand back two metres and look.",
      "say": "Make a picture using only dots, no lines. Then let's stand back. Up close it's dots. From far away it's a picture.",
      "kid": "Make a picture with only dots. No lines! Then stand far back. What do you see?",
-     "think": "The world is made of tiny bits too small to see, like your dots. Is the picture in the dots, or in how they are arranged?"
+     "think": "Everything is made of atoms too small to see, a little like your dots. Is the picture in the dots, or in how they are arranged?"
     }
    ],
    "setup": [
@@ -2410,7 +2409,7 @@
      "id": "s2",
      "mins": 3,
      "do": "1. If you have no magnets, or want more: blow up two balloons and tie a thread to each. 2. Rub both on dry hair. 3. Hold them up by their threads, side by side.",
-     "say": "Both balloons now have extra electrons. Electrons push each other away. Watch the balloons lean apart.",
+     "say": "Both balloons now have extra electrons. Electrons repel each other: they push each other away. Watch the balloons lean apart.",
      "kid": "Rub two balloons on dry hair. Hang them side by side. Do they lean apart?",
      "parent": "Balloons work best on a dry day. In humid or monsoon weather they may not push much, so use magnets."
     },
@@ -2429,7 +2428,7 @@
        "Gravity holds your hand up"
       ],
       "a": 0,
-      "why": "Electrons all have a minus charge, and minus pushes minus away. So your hand's electrons and the table's electrons push apart, very strongly. A quantum rule also stops electrons squeezing together. Picking 'packed solid' is the old idea of atoms as hard balls. Picking 'gravity' mixes things up, because gravity pulls your hand down, not up."
+      "why": "Electrons all have a minus charge, and two minus charges repel. So your hand's electrons and the table's electrons push apart, very strongly. A quantum rule also stops electrons squeezing together. Picking 'packed solid' is the old idea of atoms as hard balls. Picking 'gravity' mixes things up, because gravity pulls your hand down, not up."
      }
     }
    ],
@@ -2453,7 +2452,7 @@
    "title": "The Smell Race",
    "mins": 15,
    "days": 1,
-   "context": "In this activity a grown-up opens something with a strong smell at one end of a room, and everyone waits to smell it. It shows that tiny bits travel through the air to your nose, even though you cannot see them.",
+   "context": "In this activity a grown-up opens something with a strong smell at one end of a room, and everyone waits to smell it. It shows that molecules travel through the air to your nose, even though you cannot see them.",
    "materials": [
     {
      "item": "something with a strong smell: a cut orange peel, a crushed clove of garlic, or a few drops of rose water",
@@ -2492,26 +2491,26 @@
      "do": "1. A grown-up in the corner squeezes the orange peel, or opens the rose water, and starts the timer. 2. Note the time each hand goes up.",
      "say": "I'm starting the timer now. Hands up when you smell it.",
      "kid": "Wait with your eyes closed. Can you smell it yet? Hand up when you do!",
-     "parent": "Times vary a lot, from a few seconds to a couple of minutes. The nearest person usually smells it first. Most of the travelling is done by small air currents, which carry the tiny bits along."
+     "parent": "Times vary a lot, from a few seconds to a couple of minutes. The nearest person usually smells it first. Most of the travelling is done by small air currents, which carry the molecules along."
     },
     {
      "id": "s3",
      "mins": 6,
      "do": "Talk about what reached your nose.",
-     "say": "Nothing you could see crossed the room. But tiny bits of the orange did. They are called molecules. Your nose caught some of them.",
-     "kid": "Nothing you could see crossed the room. But tiny bits of orange did! Your nose caught them.",
+     "say": "Nothing you could see crossed the room. But molecules from the orange peel did. Your nose caught some of them.",
+     "kid": "Nothing you could see crossed the room. But molecules from the orange did! Your nose caught them.",
      "check": {
       "t": "mcq",
       "q": "What reached your nose?",
       "options": [
-       "Tiny bits of the orange, too small to see",
+       "Molecules from the orange, too small to see",
        "Nothing, a smell is not a thing",
        "Light from the orange"
       ],
       "a": 0,
       "why": "A smell is tiny molecules that float off the orange into the air. When some reach your nose, you smell them. Picking 'nothing' is a common idea, because a smell is invisible. But you can only smell something when its molecules arrive. Moving air carried most of them to you."
      },
-     "think": "Right now, tiny bits of everything around you are floating in the air. What else might you be breathing in?"
+     "think": "Right now, molecules from many things around you are floating in the air. What else might you be breathing in?"
     }
    ],
    "setup": [
@@ -2575,7 +2574,7 @@
      "do": "1. Go to a staircase. 2. The child stands on the bottom step. That is the electron's usual place. 3. When you say 'Heat!', they jump up one step. 4. When you say 'Let go!', they jump down and call out 'Yellow!'. 5. Ask them to try standing halfway between two steps.",
      "say": "You're an electron in a sodium atom. The flame's heat lifts you up one step. When you jump down, you give out a flash of yellow light. Can you stand between two steps?",
      "kid": "You are an electron! 'Heat!' Jump up one step. 'Let go!' Jump down and shout 'Yellow!' Can you stand between steps?",
-     "parent": "Electrons in an atom can only have certain amounts of energy, like standing on steps, never in between. Each drop down a step gives out light of one exact colour. Sodium's favourite drop gives yellow. A ball rolling down a ramp can stop anywhere. This is one way the very small does not behave like the things we see."
+     "parent": "Electrons in an atom can only have certain amounts of energy, like standing on steps, never in between. Each drop down a step gives out light of one exact colour. Sodium's brightest light is yellow. A ball rolling down a ramp can stop anywhere. This is one way the very small does not behave like the things we see."
     },
     {
      "id": "s3",
@@ -2705,7 +2704,7 @@
      "do": "1. Label the parts. 2. Ask your child to say what the model gets wrong. 3. Your child explains the model to someone else in the family.",
      "say": "Every model is wrong somewhere. If our nucleus were this size, how big would the real cloud be?",
      "kid": "Label your model. Then think: what does it get wrong? Explain your atom to someone at home.",
-     "parent": "Good answers: the nucleus is far too big for the cloud. At this size, the real cloud would be about as big as a cricket ground. Real atoms have no colours. The electrons are not cotton.",
+     "parent": "Good answers: the nucleus is far too big for the cloud. If this bean nucleus were real, its electron cloud would be about a kilometre across. Real atoms have no colours. The electrons are not cotton.",
      "think": "Scientists use models they know are not quite right. Why might a wrong model still be useful?"
     }
    ],
@@ -2730,7 +2729,7 @@
    "id": "c1",
    "title": "Prove the Invisible",
    "mins": 25,
-   "problem": "Your friend says, 'Air is nothing. You can't see it, so it isn't there.' Prove to them that air is made of real stuff, tiny bits too small to see, using only things from home.",
+   "problem": "Your friend says, 'Air is nothing. You can't see it, so it isn't there.' Prove to them that air is real matter, made of molecules too small to see, using only things from home.",
    "constraints": [
     "You may not just say 'my teacher told me'.",
     "You must use at least two different tests.",
@@ -2748,9 +2747,9 @@
     "Squeeze an empty plastic bottle with the cap on. The air inside pushes back."
    ],
    "creative": [
-    "Do the smell race. Tiny bits of orange travel through the air to your nose.",
+    "Do the smell race. Molecules from an orange peel travel through the air to your nose.",
     "Wave a big piece of cardboard fast. You can feel the air push against it. Something that pushes must be there.",
-    "Put a blown-up balloon in the fridge for an hour. It shrinks, because the cold air bits move slower and push less."
+    "Put a blown-up balloon in the fridge for an hour. It shrinks a little, because the cold air molecules move more slowly and push less on the rubber."
    ],
    "your_turn": "Now invent your own test that proves air is there. Try it, and see if your friend is convinced.",
    "flow": [
@@ -2760,7 +2759,7 @@
      "do": "Read the problem together. Ask your child to say what the friend believes, and why it seems true.",
      "say": "Your friend says air is nothing, because you can't see it. Why might someone think that? How could we prove them wrong?",
      "kid": "Your friend says air is nothing. Why might they think so? How could you prove them wrong?",
-     "context": "This is the first step of Prove the Invisible. It is a challenge to prove that air is real stuff, made of tiny bits too small to see."
+     "context": "This is the first step of Prove the Invisible. It is a challenge to prove that air is real matter, made of molecules too small to see."
     },
     {
      "id": "s2",
@@ -2777,7 +2776,7 @@
        "The water was too cold"
       ],
       "a": 0,
-      "why": "Air is made of tiny bits that take up space. They filled the glass, so there was no room for the water. Picking 'the tissue is waterproof' is easy to test: dip the tissue in water and it gets wet at once."
+      "why": "Air is made of molecules, and they take up space. They filled the glass, so there was no room for the water. Picking 'the tissue is waterproof' is easy to test: dip the tissue in water and it gets wet at once."
      }
     },
     {
@@ -2908,7 +2907,7 @@
    "channel": "The Royal Institution",
    "youtube": "A9tKncAdlHQ",
    "mins": 9,
-   "why": "For the parent and curious older children: a physicist explains how tiny bits spread like waves but land as dots. Watch with the 'observer' card in mind. In physics, 'looking' means measuring with a detector, not only with a person's eyes.",
+   "why": "For the parent and curious older children: a physicist explains how electrons and light spread like waves but land as dots. Watch with the 'observer' card in mind. In physics, 'looking' means measuring with a detector, not only with a person's eyes.",
    "check": "Found by YouTube search in this session: title 'Why reality changes when you look at it | The Double Slit Experiment | with Jim Al-Khalili' by The Royal Institution, 9 minutes 8 seconds. Not watched from here. Its title sounds like a person looking matters, so a parent should preview it and check that it says a detector is enough."
   }
  ],
@@ -2990,15 +2989,15 @@
   },
   {
    "t": "mcq",
-   "p": "Scientists fired tiny bits at thin metal. Almost all went straight through. What did that show?",
+   "p": "Scientists fired alpha particles at thin metal. Almost all went straight through. What did that show?",
    "opts": [
     "Atoms are almost all empty space",
     "Metal is soft",
-    "The bits were too small to matter"
+    "The alpha particles were too small to matter"
    ],
    "a": 0,
    "outcome": 3,
-   "why": "If almost everything passes through, there is almost nothing there to hit. The rare bounce showed a tiny, heavy centre. Picking 'metal is soft' misses why a few bits came flying back."
+   "why": "If almost everything passes through, there is almost nothing there to hit. The rare bounce showed a tiny, heavy centre. Picking 'metal is soft' misses why a few alpha particles came flying back."
   },
   {
    "t": "mcq",
@@ -3050,7 +3049,7 @@
    ],
    "a": 0,
    "outcome": 5,
-   "why": "Anything that a tiny bit bumps into can measure it. No person is needed. Picking 'only a person' comes from the everyday meaning of the word. Experiments work the same with no person in the room."
+   "why": "Anything that a particle bumps into can measure it. No person is needed. Picking 'only a person' comes from the everyday meaning of the word. Experiments work the same with no person in the room."
   },
   {
    "t": "mcq",
@@ -3058,7 +3057,7 @@
    "opts": [
     "No, it does not",
     "Yes, it does",
-    "Yes, but only on Sundays"
+    "Only for big things like tables"
    ],
    "a": 0,
    "outcome": 5,
@@ -3105,11 +3104,11 @@
  ],
  "spotted": [
   {
-   "text": "The dots in a newspaper photo, and the tiny coloured lights in a phone screen. Many small bits make one picture.",
+   "text": "The dots in a newspaper photo, and the tiny coloured lights in a phone screen. Many small dots make one picture.",
    "art": "A magnified newspaper photo showing coloured dots."
   },
   {
-   "text": "Silver vark on a barfi. It is beaten so thin that it is only a few thousand atoms thick.",
+   "text": "Silver vark on a barfi. It is beaten so thin that it is only around a thousand atoms thick.",
    "art": "A piece of barfi with shiny silver vark on top."
   },
   {
@@ -3133,7 +3132,7 @@
    "art": "Red, green and yellow fireworks over rooftops."
   },
   {
-   "text": "A pencil line on paper: a trail of carbon atoms, millions of layers of them rubbed off the tip.",
+   "text": "A pencil line on paper: a thin smear of graphite, which is flat layers of carbon atoms rubbed off the tip.",
    "art": "A pencil drawing a line, with a zoom showing stacked layers of atoms."
   }
  ],
@@ -3148,11 +3147,11 @@
   },
   {
    "q": "Are particles really little things, or ripples in invisible fields?",
-   "why_open": "Many physicists think fields are the real stuff of the world. What the fields themselves are, nobody knows."
+   "why_open": "Many physicists think fields are what the world is really made of. What the fields themselves are, nobody knows."
   },
   {
    "q": "Is string theory right?",
-   "why_open": "It is a beautiful idea that the tiniest bits are vibrating strings. No experiment has been able to test it yet."
+   "why_open": "It is the idea that the smallest particles are tiny vibrating strings. No experiment has been able to test it yet."
   },
   {
    "q": "Why does the universe have more matter than antimatter?",
@@ -3163,8 +3162,8 @@
    "why_open": "All the atoms we know make up only about a sixth of the matter in the universe. The rest, called dark matter, has never been seen directly."
   },
   {
-   "q": "Why do big things look so sure and solid, when tiny things follow 'maybe' rules?",
-   "why_open": "Scientists understand a lot of this: bumps with the world wash out the 'maybe'. But exactly where the tiny world ends and the everyday world begins is still studied."
+   "q": "Why do big things look so sure and solid, when tiny things follow rules of chance?",
+   "why_open": "Scientists understand a lot of this: bumps with the world around them hide the chance in big things. But exactly where the tiny world ends and the everyday world begins is still studied."
   },
   {
    "q": "When did Kanada live, and what exactly did he teach?",
@@ -3214,7 +3213,7 @@
    "a": "It was always somewhere in its cloud."
   },
   {
-   "j": "What do you call a tiny bit that loves dancing?",
+   "j": "What do you call a particle that loves dancing?",
    "a": "A partic-ballet."
   },
   {
@@ -3227,7 +3226,7 @@
   },
   {
    "j": "What did the salt grain say to the sugar grain?",
-   "a": "We look alike, but we're made of different stuff."
+   "a": "We look alike, but we're made of different atoms."
   },
   {
    "j": "Why did the neutron get free entry to the show?",
@@ -3242,8 +3241,8 @@
    "a": "It had a head start up everyone's nose."
   },
   {
-   "j": "Why did the quark refuse to go out alone?",
-   "a": "It only goes out in threes."
+   "j": "Why are quarks never seen on their own?",
+   "a": "They always stick together with other quarks."
   },
   {
    "j": "What did the yellow flame say to the salt?",
@@ -3251,7 +3250,7 @@
   },
   {
    "j": "Why did the atom go to school?",
-   "a": "To build its character, one bit at a time."
+   "a": "To learn how to bond."
   },
   {
    "j": "What's a proton's favourite drink?",
@@ -3542,16 +3541,6 @@
    ]
   },
   {
-   "id": "b-scissors",
-   "item": "Child-safe scissors",
-   "kind": "tool",
-   "why": "For the first cuts of the paper-cutting experiment.",
-   "url": "https://www.amazon.in/s?k=kids+safety+scissors",
-   "used_in": [
-    "e1"
-   ]
-  },
-  {
    "id": "b-marbles",
    "item": "Glass marbles",
    "kind": "material",
@@ -3575,7 +3564,7 @@
    "id": "b-magnets",
    "item": "Bar magnets (a pair)",
    "kind": "tool",
-   "why": "To feel two things push apart without touching, like electrons.",
+   "why": "To feel two magnets repel each other without touching, like electrons do.",
    "url": "https://www.amazon.in/s?k=bar+magnet+pair+school",
    "used_in": [
     "a4"
@@ -3596,7 +3585,7 @@
    "id": "b-book-shrew",
    "item": "What's Smaller Than a Pygmy Shrew?, by Robert E. Wells",
    "kind": "book",
-   "why": "A picture book that zooms down from tiny animals to cells, molecules, atoms and the bits inside them. Ages 5 to 9.",
+   "why": "A picture book that zooms down from tiny animals to cells, molecules, atoms and the particles inside them. Ages 5 to 9.",
    "url": "https://www.amazon.in/s?k=What%27s+Smaller+Than+a+Pygmy+Shrew+Robert+Wells",
    "used_in": [
     "g1"
@@ -3628,7 +3617,7 @@
  ],
  "warmup": [
   {
-   "q": "Everything is made of tiny bits called ____.",
+   "q": "Everything you can touch is made of tiny particles called ____.",
    "a": "atoms"
   },
   {
@@ -3751,39 +3740,41 @@
    "Dyson & Lenard, Journal of Mathematical Physics 1967 (the stability of matter needs Pauli's rule)"
   ]
  },
+ "how_we_found_out": {
+  "context": "How did scientists become sure that atoms are real, when nobody could see one? This card tells how people found out.",
+  "who": "Robert Brown, a Scottish botanist, Albert Einstein, a German-born physicist, and Jean Perrin, a French physicist",
+  "when": "1827 to 1909",
+  "wrong_idea": "Atoms are not real. They are only a handy way of thinking about chemistry.",
+  "story": "In 1827, Robert Brown, a Scottish botanist, looked at pollen grains in water under a microscope. Tiny specks from inside the grains jiggled about and never stopped. At first he wondered if they were alive. Then he saw specks of crushed glass and rock jiggle in the same way. Nobody could explain it. By 1900, many chemists used atoms to explain how elements join. But some famous scientists, such as Ernst Mach and Wilhelm Ostwald, said atoms were not real. Nobody had seen one, so they called atoms only a handy way of thinking. In 1905, Albert Einstein worked out what would happen if water really were made of moving molecules. Each speck would be bumped a little more on one side than the other, again and again, so it would jiggle. His maths said how far a speck should wander in a given time. In 1908, Jean Perrin in Paris watched specks under a microscope and measured how far they moved. The numbers matched Einstein's maths. From them, Perrin even worked out how big molecules are. Ostwald changed his mind and accepted that atoms are real. Perrin won the Nobel Prize in 1926."
+ },
  "roots": {
-  "context": "We have been learning that everything is made of atoms, and that atoms are almost all empty space with clouds of maybe. Now we ask what that tells us about ourselves and the world.",
+  "context": "We have been learning that everything you can touch is made of atoms, and what atoms are made of. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "The solid world is almost entirely empty space. What feels solid is a push, not packed stuff.",
-   "habit": "We think 'solid' and 'empty' are opposites. Inside every atom, a tiny speck sits in a huge emptiness, and its electrons are clouds of maybe. So a solid wall and empty air are made of the same kind of thing, arranged differently.",
-   "evidence": "In 1909, almost every tiny bit fired at gold went straight through it. Only about 1 in 8,000 bounced back."
+   "truth": "Cut paper in half again and again, and each piece is still paper, for a while. After about 31 halvings, you reach single atoms of carbon, oxygen and hydrogen. None of them is paper, and the same kinds of atom are in sugar and in you. So paper is not made of smaller paper, but of things that are not paper at all.",
+   "habit": "We think a small piece of a thing is just a smaller copy of it, so a crumb of roti is still roti. That is true only down to a point. Below it, the pieces are atoms, and a carbon atom is not roti or paper.",
+   "evidence": "In the paper-cutting experiment, the last sliver was still paper, and the magnifier showed its plant fibres. The halving chart shows that an atom is still about 23 halvings further down. Paper is mostly cellulose, which is built from carbon, hydrogen and oxygen atoms. Sugar is built from the same three kinds of atom."
   },
   "three": {
-   "who_am_i": "You are made of about 7 followed by 27 zeros atoms, almost all empty space. Many of your atoms were made in stars.",
-   "what_is_life": "Life is made of the same atoms as stones and stars. What makes it alive is how the atoms are arranged and kept moving.",
-   "what_is_this_world": "A world where tiny things follow 'maybe' rules, and solid things are mostly empty. Yet it holds together."
+   "who_am_i": "You are made mostly of atoms of oxygen, carbon, hydrogen and nitrogen, the same kinds as in air and food. None of those atoms is 'you' by itself.",
+   "what_is_life": "A living thing is built from the same kinds of atom as a stone or a star. Its atoms keep coming and going as it eats and breathes, yet it stays itself.",
+   "what_is_this_world": "A world where about 90 kinds of atom, built from three kinds of particle, make everything you can touch."
   },
-  "thread": "About 90 kinds of atom build everything there is. Those 90 are built from just three parts: protons, neutrons and electrons. Look deeper and even those may be ripples in fields that fill all of space. DeepKids believes this is the One showing up as the many: a few simple things, arranged in countless ways, becoming stars, rivers, mangoes and you. The emptiness inside atoms is not nothing. It is where the clouds of maybe live.",
+  "thread": "About 90 kinds of atom build everything you can touch. Each atom is built from only three kinds of particle: protons, neutrons and electrons. The same few particles become stars, rivers, mangoes and you, joined in different ways. Consciousness runs through all of it, down to every particle. So a mind is not something that appears only when atoms build a brain.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a banyan fruit, then one of its tiny seeds. 'What do you see?' 'Nothing at all.' Uddalaka says that from this finest part, which you cannot see, the great banyan tree grows.",
-    "link": "When you cut the paper smaller and smaller, you soon could not see the pieces. Yet everything big is built from these unseen bits."
+    "link": "When you cut the paper smaller and smaller, the pieces soon became too small to see. Yet everything big is built from far smaller particles, which nobody can see with their eyes."
    },
    {
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet at the hub of a wheel. It is the empty hole in the middle that makes the wheel useful. A pot is shaped from clay, but it is the empty space inside that holds things.",
-    "link": "An atom is almost all empty space, and that space is where its electrons are found. The emptiness is part of what makes the atom work."
-   },
-   {
-    "source": "The Heart Sutra (Prajnaparamita Hridaya)",
-    "teaching": "Form is emptiness, and emptiness is form. In Buddhism this means nothing exists all by itself. Everything depends on other things.",
-    "link": "This Buddhist emptiness is not the same as the empty space in atoms. But they rhyme: an electron is only ever found through what it bumps into."
+    "link": "An atom is almost all empty space, and that space gives the atom its size. Because the electrons spread out around the nucleus, atoms take up room, so the things built from them do too."
    }
   ],
   "science": [
    {
-    "text": "Atoms are almost all empty space, and nearly all their weight is in the tiny nucleus. What feels solid is electrons pushing on electrons.",
+    "text": "Everything we can touch is made of about 90 kinds of atom, and every atom is built from protons, neutrons and electrons.",
     "status": "settled"
    },
    {
@@ -3792,20 +3783,20 @@
    }
   ],
   "other_view": {
-   "who": "The Charvaka school in ancient India, and many physicists today",
-   "view": "Only matter is real. Atoms and their rules explain everything, and there is no need for any One behind them. Many careful thinkers hold this view, and it deserves respect."
+   "who": "The Charvaka school in ancient India, and most physicists and brain scientists today",
+   "view": "Only matter is real. Particles follow the rules of physics, but they have no experience of their own. Awareness appears only when matter is built into a living brain. Many careful thinkers hold this view."
   },
   "practice": {
-   "title": "Feel the push",
+   "title": "One grain of salt",
    "mins": 3,
-   "say": "Hold your hand just above the table, not touching. Slowly, slowly lower it, until you just feel the table. Stop there. Breathe in, and breathe out. Your hand is almost all empty space. So is the table. What you feel is a push between them. Close your eyes and just notice that push. What is it that is feeling it?",
-   "kid": "Hold your hand above the table. Lower it slowly until it just touches. Breathe slowly. Your hand and the table are almost all empty. What do you feel?"
+   "say": "Put one grain of salt on your fingertip. Look at it closely. It holds about a million million million atoms. Breathe in slowly, and breathe out. The sodium and chlorine atoms in this grain are also in the sea and in your tears. Close your eyes and feel your fingertip. What is it in you that is noticing?",
+   "kid": "Put one grain of salt on your finger. Look at it closely. It holds more atoms than you could ever count. Breathe slowly three times. What is it in you that notices?"
   },
   "ask": [
-   "If you are almost all empty space, what is it that makes you you?",
-   "Is the emptiness inside atoms nothing, or something?",
+   "Your scissors stopped after about 8 cuts. If you could go on, at which cut would the paper stop being paper?",
+   "Is paper in its atoms, or in the way its atoms are joined?",
    "Your atoms were once in stars and will one day be somewhere else. Are they yours, or only borrowed?"
   ],
-  "art": "A child's hand resting on a table, with a zoomed circle showing a vast dark space with a tiny bright speck in the middle and soft clouds of electrons pushing gently against each other."
+  "art": "A paper strip shrinking along a line of halvings, ending in a few glowing atoms, with the same atoms shown again inside a sugar cube and a child's hand."
  }
 }
