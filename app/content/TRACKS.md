@@ -25,3 +25,10 @@ Every board chapter and every DeepKids unit carries all of these:
 - **Roots:** the philosophical and spiritual context of the idea, tied to the three questions every pursuit is really asking (see `PHILOSOPHY.md`).
 
 The rules for all of it are in `SPEC.md` ("The DeepKids way"), `WRITING.md` and `PHILOSOPHY.md`.
+
+## Who can see what
+Everything is open to every family, whichever track they chose:
+- **DeepKids track:** every topic, every class, every unit.
+- **Board track:** every board (NCERT, Cambridge, NIOS, Waldorf), every class and every chapter, each with its DeepKids add-ons (the units and lessons linked to that chapter's topic). Any of them can be added to the plan.
+
+A family's track and pace only decide what the planner suggests by itself, never what they can open or add.
