@@ -1388,12 +1388,12 @@
      "t": "mcq",
      "p": "Which idea is the deep truth of this unit?",
      "opts": [
-      "Looking feels like sending something out, but seeing is really receiving light",
-      "Seeing is reaching out to grab the world",
+      "Part of what you see is filled in by your brain, not brought by light",
+      "Your eyes show you exactly what is there, like a photo",
       "Seeing happens only in the eyes"
      ],
      "a": 0,
-     "why": "Looking feels like reaching out, but in the dark box, open eyes saw nothing until light came in. The eye catches the light and the brain makes sense of it. Picking 'reaching out' is the old eye-rays idea. Picking 'only in the eyes' forgets the brain's big part."
+     "why": "In the blind-spot test, the dot vanished, but you saw no hole. Your brain filled the gap with the paper's colour. Picking 'like a photo' is the habit this unit questions. Picking 'only in the eyes' forgets the brain's big part."
     },
     {
      "t": "write",
@@ -3423,6 +3423,7 @@
   "spine": [
    "intro",
    "e1",
+   "a2",
    "story",
    "a1",
    "explanations",
@@ -3453,16 +3454,16 @@
  "roots": {
   "context": "We have been learning how we see: light bounces off things and comes into our eyes. Now we ask what seeing tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Looking feels like reaching out from our eyes, like a torch beam. Yet in the closed dark box, wide-open eyes saw nothing. The white paper appeared only when light got in and bounced off it into the eye. So looking feels like sending something out, but seeing is receiving.",
-   "habit": "It questions the habit of trusting how something feels as a picture of how it works. Looking feels like something we send out, and that feeling is why people believed in eye-rays for more than a thousand years.",
-   "evidence": "In the dark box, open eyes saw nothing until the lid let light in. In the lamps activity, covering one torch put out only its own spot."
+   "truth": "Each eye has one spot with no light-catching cells, where the nerve leaves the eye. In the blind-spot test, the dot vanished there, but you saw no hole. The paper's colour filled the gap. So part of what you see is filled in by your brain, not brought by light.",
+   "habit": "It questions the habit of thinking our eyes show us exactly what is there, like a photo. Our eyes send signals, and the brain builds the picture from them, filling in gaps without telling us.",
+   "evidence": "In the blind-spot test, with one eye covered, the dot vanished when the card was about 25 cm away, because its light landed on the blind spot. Yet there was no hole: you saw plain card where the dot had been."
   },
   "three": {
    "who_am_i": "You are a light catcher. Light that touched the mango a moment ago is now inside your eye.",
    "what_is_life": "Many living things, from a money plant on a windowsill to an owl, sense light and live by it.",
    "what_is_this_world": "Light is always reflecting from object to object, whether anyone is looking or not."
   },
-  "thread": "By day, one Sun lights almost everything we see. The mango, the road and your friend's face are all lit by that same light. Each object reflects it in its own way, and that is why they look different. So when you look around, you are catching one light that has touched everything in front of you. DeepKids believes this is a small, real picture of oneness: many things, joined by the one light that passes between them and into us.",
+  "thread": "By day, one Sun lights almost everything we see. The mango, the road and your friend's face are all lit by that same light. Each object reflects it in its own way, and that is why they look different. So when you look around, you are catching one light that has touched everything in front of you. This is a small, real picture of oneness: many things, joined by the one light that passes between them and into us.",
   "teachings": [
    {
     "source": "Brihadaranyaka Upanishad 4.3.2 to 4.3.6",

@@ -604,7 +604,7 @@
    "hint": "Is it easy to doubt something that every teacher and every book says?"
   },
   {
-   "q": "Few people listened when John Philoponus disagreed with Aristotle. Should we believe an idea because a famous person said it, or because of evidence?",
+   "q": "Few people listened when John Philoponus disagreed with Aristotle. Should we trust an idea because a famous person said it, or because of evidence?",
    "kind": "big",
    "hint": "What would you do if everyone in your class believed something you had tested and found wrong?"
   },
@@ -631,7 +631,7 @@
   {
    "q": "A plant in the dark still knows which way is down. What might it be like to feel down without ears or eyes?",
    "kind": "deep",
-   "hint": "Its root cells have heavy grains that settle to the bottom. DeepKids believes plants feel what they sense."
+   "hint": "Its root cells have heavy grains that settle to the bottom. Plants feel what they sense."
   },
   {
    "q": "The word guru means heavy. Why might a wise person be called heavy? What gives a person weight with others?",
@@ -676,7 +676,7 @@
    "I thought of the single clang. 'Neither,' I said. 'They fell together. Only the air is unfair to feathers.'",
    "My father looked at me for a long moment, the way he looked at a sack of wheat whose weight surprised him. Then he nodded, and wrote nothing down, and closed the box."
   ],
-  "epiphany": "For the parent: the story turns on the single clang. Heavy and light weights, dropped together, land together. The feather is slower not because it is light, but because the air pushes on it. Thekla's tied-weights puzzle is Galileo's real argument: if heavy things fell faster, a heavy and a light weight tied together would have to fall both slower and faster at once, which is impossible. The story also asks a quieter question. Should we believe an idea because a great person said it, or because we tested it? And who gets remembered: the famous philosopher, the mocked grammarian, or the girl who listened?",
+  "epiphany": "For the parent: the story turns on the single clang. Heavy and light weights, dropped together, land together. The feather is slower not because it is light, but because the air pushes on it. Thekla's tied-weights puzzle is Galileo's real argument: if heavy things fell faster, a heavy and a light weight tied together would have to fall both slower and faster at once, which is impossible. The story also asks a quieter question. Should we trust an idea because a great person said it, or because we tested it? And who gets remembered: the famous philosopher, the mocked grammarian, or the girl who listened?",
   "ask": [
    "What did Thekla expect to hear when she let go of the two weights? What did she really hear?",
    "Why did the feather land long after the small weight? Was it because the feather is light?",
@@ -4355,7 +4355,7 @@
    "what_is_life": "A seed planted upside down still sends its root down. Living things sense gravity and grow with it.",
    "what_is_this_world": "Without air, a hammer and a feather fall in exactly the same way. Gravity gives everything the same fall."
   },
-  "thread": "Gravity does not sort the world into heavy and light. In the same place, a hammer, a feather, a mango and a planet all fall in exactly the same way. Einstein took this seriously. Because every thing falls alike, he said the fall belongs to the shape of space and time, not to the thing that falls. DeepKids believes this is a sign that the world is one whole, with one shape that everything in it shares.",
+  "thread": "Gravity does not sort the world into heavy and light. In the same place, a hammer, a feather, a mango and a planet all fall in exactly the same way. Einstein took this seriously. Because every thing falls alike, he said the fall belongs to the shape of space and time, not to the thing that falls. This is a sign that the world is one whole, with one shape that everything in it shares.",
   "teachings": [
    {
     "source": "Brihadaranyaka Upanishad 3.8.9",
