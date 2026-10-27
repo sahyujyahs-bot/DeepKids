@@ -57,14 +57,18 @@ export const dryBrush = (c: Ctx, d: Dry, q = 1) => {
   c.stroke(); c.globalAlpha = 1;
 };
 // draw a plate: flats in order, dry brush, then the line plate off register (and adrift in a dream)
-export const drawPlate = (ctx: Ctx, env: Env, pl: Plate, key: string, o: { f?: number; dream?: number; reg?: P; between?: () => void } = {}) => {
-  const f = o.f ?? 0, dream = o.dream ?? 0;
-  let edges = env.cache.get(key) as P[][] | undefined; if (!edges) { edges = pl.shapes.map((s, i) => edge(s.pts, i)); env.cache.set(key, edges); }
-  const E = dream > 0 ? pl.shapes.map((s, i) => edge(s.pts, i, dream, f)) : edges;
+export type Cam = { x: number; y: number; s: number }; // page = (x, y) + p * s
+export const camSet = (ctx: Ctx, env: Env, c: Cam) => ctx.setTransform(env.scale * c.s, 0, 0, env.scale * c.s, env.scale * c.x, env.scale * c.y);
+export const drawPlate = (ctx: Ctx, env: Env, pl: Plate, key: string, o: { f?: number; dream?: number; reg?: P; between?: () => void; cam?: Cam } = {}) => {
+  const f = o.f ?? 0, dream = o.dream ?? 0, cam = o.cam ?? { x: 0, y: 0, s: 1 };
+  camSet(ctx, env, cam);
+  let E: P[][];
+  if (dream > 0) E = pl.shapes.map((s, i) => edge(s.pts, i, dream, f));
+  else { let c = env.cache.get(key) as P[][] | undefined; if (!c) { c = pl.shapes.map((s, i) => edge(s.pts, i)); env.cache.set(key, c); } E = c; }
   let si = 0, di = 0;
   pl.ops.forEach((op) => { if (op === "s") { const i = si++; ctx.fillStyle = pl.shapes[i].col; trace(ctx, E[i]); ctx.fill(); } else dryBrush(ctx, pl.dry[di++]); });
-  o.between?.();
+  o.between?.(); camSet(ctx, env, cam);
   const reg = o.reg ?? [5, -4], slip = dream * 14, sx = reg[0] + Math.sin(f * 0.07) * slip, sy = reg[1] + Math.cos(f * 0.053) * slip * 0.7;
   const g = new Gfx(ctx, env, Math.round(f * dream), BRUSH);
-  g.push(sx, sy, 1); g.group("plain", () => pl.lines.forEach((l) => g.pen(l.pts, { w: l.w, color: l.col, seed: l.seed, wobble: 0.9 + dream * 2.5, boil: dream > 0 ? dream * 1.6 : 0, opacity: 0.92 }))); g.pop();
+  g.push(cam.x, cam.y, cam.s); g.push(sx, sy, 1); g.group("plain", () => pl.lines.forEach((l) => g.pen(l.pts, { w: l.w, color: l.col, seed: l.seed, wobble: 0.9 + dream * 2.5, boil: dream > 0 ? dream * 1.6 : 0, opacity: 0.92 }))); g.pop(); g.pop();
 };

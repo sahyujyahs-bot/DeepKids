@@ -1,7 +1,7 @@
 import { rng, type Ctx, type Env, type P } from "./core";
 import type { Film } from "./film";
 import { clamp, mix } from "./gallery";
-import { drawPlate, ell, frame, lerpP, limb, plate, sm, type Plate } from "./gouache";
+import { camSet, drawPlate, ell, frame, lerpP, limb, plate, sm, type Cam, type Plate } from "./gouache";
 
 // THE NAP · DeepKids Gurukul launch film, the opening (look still), in Mid-century gouache.
 //
@@ -32,8 +32,10 @@ const C = {
 };
 const bar = (a: P, b: P, w: number) => limb([a, b], [w, w], 2).poly;
 
-export const buildNap = (o: { breath?: number } = {}): Plate => {
-  const { S, L, D, ...pl } = plate(), r = rng(1038), br = o.breath ?? 0;
+// wake: 0 asleep .. 1 awake (eyes open at .35, the smile at .5, the head lifts from .5); later: the clock at 11:05, the phone lit
+export type Wake = { wake: number; later: boolean; phone: number };
+export const buildNap = (o: { breath?: number; w?: Wake } = {}): Plate => {
+  const { S, L, D, ...pl } = plate(), r = rng(1038), br = o.breath ?? 0, wk = o.w?.wake ?? 0, later = o.w?.later ?? false, lift = clamp((wk - 0.5) / 0.5);
   // ---------------- the room behind her
   S([[-10, -10], [W + 10, -10], [W + 10, 1000], [-10, 1000]], C.wall);
   S([[-10, 760], [W + 10, 740], [W + 10, 1000], [-10, 1000]], C.wallD);                        // the wall falls into shade toward the table
@@ -95,7 +97,7 @@ export const buildNap = (o: { breath?: number } = {}): Plate => {
   // bangles: thin gold at the wrist
   [[-14, 0], [-24, 0]].forEach(([u]) => S(bar(Hd(u, -33), Hd(u + 6, 34), 2.6), C.gold));
   // ---------------- the head on the forearm, face to us, crown up and right
-  const F = frame([606, 948], 1.12);
+  const F = frame([606 + 26 * lift, 948 - 70 * lift], 1.12 - 0.42 * lift);
   // hair behind the head: the bun coming loose, spilling over the arm
   S(sm([F(-70, -96), F(-20, -150), F(50, -178), F(110, -150), F(130, -80), F(118, 10), F(96, 60), F(80, -40)]), C.hair);
   S(ell(...F(44, -168), 58, 50, 1.12 + 0.3), C.hair);
@@ -111,13 +113,18 @@ export const buildNap = (o: { breath?: number } = {}): Plate => {
   // the hairline: hair over the forehead and the up-side temple
   S(sm([F(-92, -64), F(-96, -110), F(-30, -134), F(60, -128), F(104, -90), F(90, -66), F(50, -86), F(10, -92), F(-40, -88), F(-80, -70)]), C.hair);
   S(sm([F(-68, -36), F(-44, -46), F(-18, -42), F(-20, -36), F(-44, -38), F(-66, -30)], true, 3), C.hair); S(sm([F(16, -42), F(40, -46), F(64, -36), F(62, -30), F(40, -38), F(18, -36)], true, 3), C.hair);
-  // the open mouth: lips and the dark of it
-  const m = F(4, 80);
-  S(ell(m[0], m[1], 20, 13, 1.12), C.lip); S(ell(...F(5, 81), 14, 8, 1.12), C.mouth); S(sm([F(-6, 75), F(14, 76), F(12, 78), F(-4, 77)]), "#efe6d6");
-  // the drool: a thread from the low corner of the mouth to her forearm, a bead where it lands
-  const dc = F(22, 84), dl: P = [dc[0] + 6, 1050];
-  S(sm([dc, [dc[0] + 3, dc[1] + 10], [dl[0] + 1.2, dl[1] - 6], [dl[0] - 1.2, dl[1] - 6], [dc[0] + 0.5, dc[1] + 10]], true, 3), "#d9e4e6");
-  S(ell(dl[0], dl[1], 7, 4.5), "#dbe6e8");
+  // the open mouth and the drool while she sleeps; awake, a closed smile
+  if (wk < 0.5) {
+    const m = F(4, 80);
+    S(ell(m[0], m[1], 20, 13, 1.12), C.lip); S(ell(...F(5, 81), 14, 8, 1.12), C.mouth); S(sm([F(-6, 75), F(14, 76), F(12, 78), F(-4, 77)]), "#efe6d6");
+    if (wk < 0.3) { const dc = F(22, 84), dl: P = [dc[0] + 6, 1050]; S(sm([dc, [dc[0] + 3, dc[1] + 10], [dl[0] + 1.2, dl[1] - 6], [dl[0] - 1.2, dl[1] - 6], [dc[0] + 0.5, dc[1] + 10]], true, 3), "#d9e4e6"); S(ell(dl[0], dl[1], 7, 4.5), "#dbe6e8"); }
+  } else { S(sm([F(-18, 74), F(4, 80), F(26, 72), F(24, 78), F(4, 88), F(-16, 80)], true, 3), C.lip); }
+  // open eyes when she wakes: whites, dark irises looking toward the phone
+  if (wk >= 0.35) [[-42, -8], [38, -6]].forEach(([u, v]) => { const e = F(u, v); S(ell(e[0], e[1], 15, 9, 1.12 - 0.42 * lift), "#f4efe2"); S(ell(...F(u + 4, v + 1), 7, 7.5), C.ink); });
+  // the phone on the table, face up; it lights when she wakes
+  const ph = o.w?.phone ?? 0;
+  S([[790, 1122], [960, 1110], [968, 1204], [796, 1216]], "#24212b"); S([[800, 1128], [950, 1118], [957, 1196], [806, 1207]], ph > 0 ? mix("#2b2f3d", "#1E1436", ph) : "#2b2f3d");
+  if (ph > 0.3) { S([[808, 1134], [944, 1125], [946, 1150], [810, 1159]], mix("#1E1436", "#3a2c6e", ph)); S([[810, 1160], [946, 1151], [951, 1192], [812, 1200]], mix("#2b2f3d", "#FCFCF8", ph)); }
   S(ell(...F(0, -52), 5.5, 5.5), C.bindi);
   // ---------------- the things on the table
   // a stack of books
@@ -144,11 +151,11 @@ export const buildNap = (o: { breath?: number } = {}): Plate => {
   // ---------------- the line, off register: face first, then hands, hair, the rest
   const Lf = (pts: P[], w = 1.8) => L(pts, w);
   Lf([F(-84, -50), F(-90, 0), F(-82, 50), F(-60, 90), F(-28, 114), F(0, 120), F(26, 116), F(60, 92)], 2);
-  Lf([F(-64, -12), F(-50, -4), F(-34, -4), F(-20, -10)], 2); Lf([F(-58, -9), F(-62, 0)], 1.2); Lf([F(-46, -4), F(-48, 4)], 1.1); Lf([F(-34, -4), F(-34, 4)], 1.1);      // a closed eye, its lashes
-  Lf([F(18, -10), F(32, -4), F(48, -4), F(60, -12)], 2); Lf([F(32, -4), F(32, 3)], 1.1); Lf([F(46, -4), F(47, 3)], 1.1);
+  if (wk < 0.35) Lf([F(-64, -12), F(-50, -4), F(-34, -4), F(-20, -10)], 2); if (wk < 0.35) { Lf([F(-58, -9), F(-62, 0)], 1.2); Lf([F(-46, -4), F(-48, 4)], 1.1); Lf([F(-34, -4), F(-34, 4)], 1.1); }      // a closed eye, its lashes
+  if (wk < 0.35) { Lf([F(18, -10), F(32, -4), F(48, -4), F(60, -12)], 2); Lf([F(32, -4), F(32, 3)], 1.1); Lf([F(46, -4), F(47, 3)], 1.1); }
   Lf([F(-66, -34), F(-44, -42), F(-20, -38)], 2.2); Lf([F(16, -38), F(40, -42), F(62, -32)], 2.2);
   Lf([F(-4, 8), F(-8, 30), F(-12, 42), F(-6, 49)], 1.6); Lf([F(-4, 48), F(4, 46), F(12, 49)], 1.4); Lf([F(16, 40), F(18, 47), F(14, 51)], 1.3);
-  Lf([F(-14, 78), F(4, 73), F(22, 79)], 1.4); Lf([F(-12, 84), F(4, 92), F(20, 86)], 1.2);
+  if (wk < 0.5) { Lf([F(-14, 78), F(4, 73), F(22, 79)], 1.4); Lf([F(-12, 84), F(4, 92), F(20, 86)], 1.2); }
   Lf([F(-98, -6), F(-104, 10), F(-98, 26)], 1.3);
   // loose strands of hair over the forehead and the arm
   [[-70, -82, -84, -50, -96, -20], [-20, -94, -40, -74, -58, -62]].forEach(([a, b, c, d, e, f]) => L(sm([F(a, b), F(c, d), F(e, f)], false, 6), 1.3, C.hair));
@@ -159,7 +166,7 @@ export const buildNap = (o: { breath?: number } = {}): Plate => {
   L(ra.a.slice(Math.round(ra.a.length * 0.3), Math.round(ra.a.length * 0.95)), 1.5); L(ra.b.slice(Math.round(ra.b.length * 0.55)), 1.5); L([[150, 1206], [140, 1232], [156, 1258]], 1.4);   // the elbow
   // saree folds, the pallu edge, the clock, the drawing
   Lf([[380, 930], [400, 962], [404, 998]], 1.3); Lf([[760, 890], [800, 940], [820, 1000]], 1.3); Lf([[560, 760], [620, 800], [700, 830]], 1.2); Lf([[470, 820], [440, 900], [430, 990]], 1.3);
-  L(ell(214, 300, 92, 92, 0, 40), 1.6, C.ink, true); L([[214, 300], [214, 238]], 3); L([[214, 300], [266, 274]], 3);
+  L(ell(214, 300, 92, 92, 0, 40), 1.6, C.ink, true); if (later) { L([[214, 300], [240, 244]], 3); L([[214, 300], [168, 262]], 3); } else { L([[214, 300], [214, 238]], 3); L([[214, 300], [266, 274]], 3); }
   for (let i = 0; i < 12; i++) { const a = (i / 12) * Math.PI * 2; L([[214 + Math.cos(a) * 66, 300 + Math.sin(a) * 66], [214 + Math.cos(a) * 74, 300 + Math.sin(a) * 74]], 1.6); }
   L([[300, 120], [462, 112], [470, 330], [306, 336]], 1.2, C.ink, true);
   L([[498, 46], [498, 808]], 1.6); L([[540, 88], [540, 762]], 1.4);
@@ -167,11 +174,11 @@ export const buildNap = (o: { breath?: number } = {}): Plate => {
 };
 
 // the morning sun through the grille: hard lit patches on the table, the arm and the notebook
-const sunLayer = (env: Env) => {
-  const k = `nap:sun:${env.scale}`; let L = env.cache.get(k) as ReturnType<Env["canvas"]> | undefined; if (L) return L;
+const sunLayer = (env: Env, later: boolean) => {
+  const k = `nap:sun:${env.scale}:${later}`; let L = env.cache.get(k) as ReturnType<Env["canvas"]> | undefined; if (L) return L;
   L = env.canvas(Math.round(W * env.scale), Math.round(H * env.scale)); const c = L.ctx; c.setTransform(env.scale, 0, 0, env.scale, 0, 0);
   // the window's light, thrown down and left onto the table: a skewed copy of the grille
-  const P0: P = [300, 1090], ux: P = [0.82, -0.05], uy: P = [-0.34, 0.86], map = (x: number, y: number): P => [P0[0] + ux[0] * x + uy[0] * y, P0[1] + ux[1] * x + uy[1] * y];
+  const P0: P = later ? [470, 1050] : [300, 1090], ux: P = [0.82, -0.05], uy: P = [-0.34, 0.86], map = (x: number, y: number): P => [P0[0] + ux[0] * x + uy[0] * y, P0[1] + ux[1] * x + uy[1] * y];
   c.fillStyle = "#ffd98c"; c.beginPath(); const q = [map(0, 0), map(560, 0), map(560, 660), map(0, 660)]; q.forEach(([x, y], i) => (i ? c.lineTo(x, y) : c.moveTo(x, y))); c.fill();
   c.globalCompositeOperation = "destination-out"; c.strokeStyle = "#000"; c.lineCap = "butt";
   const st = (a: P, b: P, w: number) => { c.lineWidth = w; c.beginPath(); c.moveTo(...a); c.lineTo(...b); c.stroke(); };
@@ -181,17 +188,17 @@ const sunLayer = (env: Env) => {
   env.cache.set(k, L); return L;
 };
 
-export const drawNap = (ctx: Ctx, f: number, env: Env) => {
-  const breath = (Math.sin((f / 30) * Math.PI * 2 * 0.22) + 1) / 2;
-  const key = `nap:plate:${Math.round(breath * 8)}`; let pl = env.cache.get(key) as Plate | undefined; if (!pl) { pl = buildNap({ breath: Math.round(breath * 8) / 8 }); env.cache.set(key, pl); }
-  ctx.setTransform(env.scale, 0, 0, env.scale, 0, 0);
+export const drawNap = (ctx: Ctx, f: number, env: Env, o: { cam?: Cam; dream?: number; w?: Wake } = {}) => {
+  const breath = (Math.sin((f / 30) * Math.PI * 2 * 0.22) + 1) / 2, bq = Math.round(breath * 8) / 8, w = o.w, later = w?.later ?? false;
+  const key = `nap:plate:${bq}:${w ? [w.wake.toFixed(2), later, w.phone.toFixed(2)].join(",") : "s"}`;
+  let pl = (o.dream ?? 0) > 0 || w ? undefined : (env.cache.get(key) as Plate | undefined);
+  if (!pl) { pl = buildNap({ breath: bq, w }); if (!((o.dream ?? 0) > 0 || w)) env.cache.set(key, pl); }
+  const cam = o.cam ?? { x: 0, y: 0, s: 1 };
   drawPlate(ctx, env, pl, key + ":e", {
-    f, between: () => {
-      const L = sunLayer(env); ctx.save(); ctx.setTransform(1, 0, 0, 1, 0, 0); ctx.globalCompositeOperation = "soft-light"; ctx.globalAlpha = 1; ctx.drawImage(L.canvas as CanvasImageSource, 0, 0); ctx.globalCompositeOperation = "screen"; ctx.globalAlpha = 0.16; ctx.drawImage(L.canvas as CanvasImageSource, 0, 0); ctx.restore();
-      ctx.setTransform(env.scale, 0, 0, env.scale, 0, 0);
+    f, cam, dream: o.dream, between: () => {
+      const L = sunLayer(env, later); ctx.save(); camSet(ctx, env, cam); ctx.scale(1 / env.scale, 1 / env.scale); ctx.globalCompositeOperation = "soft-light"; ctx.globalAlpha = 1; ctx.drawImage(L.canvas as CanvasImageSource, 0, 0); ctx.globalCompositeOperation = "screen"; ctx.globalAlpha = 0.16; ctx.drawImage(L.canvas as CanvasImageSource, 0, 0); ctx.restore();
     },
   });
-  void clamp;
 };
 
 export const nap: Film = {
