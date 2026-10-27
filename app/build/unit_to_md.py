@@ -26,7 +26,19 @@ for x in u["explanations"]:
     w(x.get("description", "")); [w(f"- e.g. {e}") for e in x["examples"]]
     [w(f"- **{p['who']}:** {p['explanation']}") for p in x.get("perspectives", [])]
 w("\n## Mostly agreed"); [w(f"- {a['text']} *How we know:* {a['evidence']}") for a in u["agreed"]]
+h = u.get("how_we_found_out")
+if h: w(f"\n## How we found out\n**{h['who']}, {h['when']}.** {h['story']}  \n*What people believed before:* {h['wrong_idea']}")
 w("\n## Challenging perspectives"); [w(f"- **{c['claim']}** ({c['who']}; *{c['status']}*)  \n  For: {c['for']}  \n  Against: {c['against']}") for c in u["challenging"]]
+r = u.get("roots")
+if r:
+    d = r["deep_truth"]
+    w(f"\n## Roots\n{r['context']}\n\n**Deep truth.** {d['truth']}  \n*Habit it breaks:* {d['habit']}  \n*Evidence:* {d['evidence']}\n")
+    for k, v in r["three"].items(): w(f"- *{k.replace('_', ' ')}:* {v}")
+    w(f"\n{r['thread']}\n"); [w(f"- **{t['source']}:** {t['teaching']} ({t['link']})") for t in r["teachings"]]
+    [w(f"- Science ({x['status']}): {x['text']}") for x in r["science"]]
+    w(f"- Other view, {r['other_view']['who']}: {r['other_view']['view']}")
+    p_ = r["practice"]; w(f"- Practice, {p_['title']} ({p_['mins']} min): {p_['say']}")
+    [w(f"- Ask: {q}") for q in r["ask"]]
 w("\n## Deep and big questions"); [w(f"- *{q['kind']}:* {q['q']} (hint: {q['hint']})") for q in u["big_questions"]]
 s = u["story"]; w(f"\n## Story: {s['title']}\n*{s.get('note','')}*\n"); [w(p + "\n") for p in s["text"]]
 w(f"**For the parent:** {s['epiphany']}\n"); [w(f"- Ask: {q}") for q in s["ask"]]

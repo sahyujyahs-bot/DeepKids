@@ -158,6 +158,10 @@ A heavy forcemeter adds its own pull to what it measures. A cold thermometer coo
 - The same thing has a smaller weight on the Moon, but the same mass. *How we know:* Astronauts on the Moon in 1969 to 1972 bounced along with heavy packs that would have been hard to carry on Earth. Their packs still held the same stuff.
 - Scales and forcemeters must be checked against agreed standards to be fair. *How we know:* In India, Legal Metrology officers test shop scales with standard weights and seal the honest ones. Scientists check their own tools against national standards, like the kilogram copy kept in New Delhi.
 
+## How we found out
+**French scientists in the 1790s, the countries of the Metre Convention, and Bryan Kibble, 1795 to 2019.** For most of history, every town had its own weights. A ser in one market was not a ser in the next. In 1795, France tried something new. It defined the gram as the mass of a little cube of water, 1 centimetre on each side. Water is the same everywhere, so anyone could check it. In 1889, countries went further. They made one cylinder of platinum and iridium, locked it in a vault near Paris, and agreed that it was the kilogram. Copies went to many countries. People believed a guarded lump of metal would never change. But when the copies were brought back and compared with it, around 1950 and again around 1990, they no longer agreed. They had drifted apart by about 50 millionths of a gram, and nobody could tell which had changed. In 1975, Bryan Kibble in England invented a balance that weighs things against the push of a magnet on an electric current. It let the kilogram be tied to the Planck constant, a number nature never changes. In 2018 the countries voted. Since 20 May 2019, the kilogram is fixed by nature, not by a lump of metal.  
+*What people believed before:* People believed that a carefully guarded lump of metal would stay exactly the same for ever. So it could be the kilogram for ever. When its copies were compared with it, they had drifted apart, and nobody could tell which had changed.
+
 ## Challenging perspectives
 - **Things need a push to keep moving.** (Aristotle, about 2,350 years ago, and most people without thinking about it; *rejected*)  
   For: A cart stops when the bullock stops pulling. A ball stops rolling. Everything we see seems to need a push to keep going.  
@@ -180,6 +184,30 @@ A heavy forcemeter adds its own pull to what it measures. A cold thermometer coo
 - **Gravity is a force, just like a pull on a rope.** (Newton's way of seeing it, still used in most science books; *debated*)  
   For: It works for nearly everything, from dropping mangoes to sending rockets to the Moon.  
   Against: Albert Einstein showed in 1915 that gravity can be seen as bent space and time. A forcemeter falling freely reads zero. His view explains some things Newton's can't, like a slow wobble in the orbit of the planet Mercury.
+
+## Roots
+We have been inventing units of pull, counting coins and water, and meeting the newton. Now we ask what a number like '5 newtons' really is, and what that says about us and the world.
+
+**Deep truth.** A pull has no number of its own. '5 newtons' only means 'five times a pull that people agreed to share'. The newton is not found in nature. It is a promise between people, and since 2019 that promise is tied to a number nature never changes.  
+*Habit it breaks:* We think a number belongs to a thing, the way its colour does. But one notebook's pull was 6 big coins, 12 small coins and about half a newton. The pull stayed the same. Only the agreement changed. A measurement is always a comparison with something shared, never a fact about one thing alone.  
+*Evidence:* In the coin-pull test, two careful people got different numbers for the same notebook, and both were right. And from 1889 to 2019, the kilogram was whatever one metal cylinder near Paris weighed. Over those years, its copies drifted away from it by about 50 millionths of a gram.
+
+- *who am i:* You can feel a pull, but you cannot give it a number on your own. Your number means something only when someone shares your unit.
+- *what is life:* A crow feels the wind and a root senses which way is down, with no numbers at all. People add numbers so they can share what they sense.
+- *what is this world:* The Earth pulled on mangoes long before anyone had a unit. The pull belongs to the world. The number belongs to the people who agreed on it.
+
+Before any unit, there is only the pull itself, with no number on it. Then people choose one small pull and call it One: one coin, one ratti seed, one newton. From that One come all the numbers, from a molecule's tug to the pull between the Earth and the Moon. DeepKids sees in this a small picture of the One becoming the many. Every number is counted from one shared One, and it means something only because the One is shared.
+
+- **Rig Veda 1.164.46:** Truth is one. The wise call it by many names. (One notebook's pull was called 6 big coins, 12 small coins and half a newton. The names changed with the unit. The pull itself stayed one.)
+- **Quran 55:7–9:** The heavens were raised, and a balance was set. So do not cheat the balance. Weigh fairly, and do not make the balance short. (A balance is a promise between people. In the story Ten Packets of Salt, one wrong pointer cheated every porter, until a shared standard showed it.)
+- Science (settled): Since 20 May 2019, the kilogram, and so the newton, is fixed by the Planck constant, a number from nature. A Kibble balance can turn that number into a real kilogram anywhere in the world.
+- Science (debated): Every unit is chosen by people. Philosophers of science still argue about the laws of nature. Are they simply found, or partly shaped by how we choose to describe and count things?
+- Other view, Protagoras, a Greek thinker of about 2,400 years ago, as Plato reports in the Theaetetus: Protagoras said that each person is the measure of all things. What feels heavy to you is heavy for you. On this view, the feeling in your own hand is the truest measure. A shared unit only hides how differently each of us meets the world.
+- Practice, The coin you can't feel (3 min): Close your eyes and hold out one open hand, palm up. I will put coins on it, one at a time, very gently. Say 'now' each time you feel the pull grow. Breathe slowly while you wait. After a while, one more coin may feel like no change at all. Open your eyes. Your hand felt the pull, but could it count it? What would it need?
+- Ask: If everyone forgot the newton tomorrow, would the notebook still need the same pull? Then what would we have lost?
+- Ask: Before 2019, the kilogram was one metal cylinder. If a speck of dust landed on it, did the cylinder get heavier, or did everything else in the world get a little lighter?
+- Ask: Is a number something you find in the world, or something you bring to it?
+- Ask: Your hand could feel the coins but not count them. Is a pull you feel the same thing as a pull you count?
 
 ## Deep and big questions
 - *big:* You and a grown-up got different numbers for one notebook's pull. Can two different numbers both be true? (hint: Think about 6 big coins and 12 small coins. What stayed the same?)
