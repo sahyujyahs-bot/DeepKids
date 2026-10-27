@@ -269,7 +269,7 @@
   {
    "concept": "Can a single cell think?",
    "status": "debated",
-   "description": "A single cell has no brain and no nerves. Yet scientists have watched single cells do things that look like thinking. A bacterium called E. coli swims towards sugar. It does this by remembering, for a few seconds, how much sugar it smelled before. If there is more now, it keeps swimming. If there is less, it tumbles and tries a new direction. A trumpet-shaped single cell called Stentor, about one millimetre long, was poked with tiny specks in an experiment. It tried one way to escape, then another, and then swam away. A yellow slime mould, which is one giant cell, found the shortest path through a maze. Scientists agree on what these cells do. They argue about whether to call it thinking.",
+   "description": "A single cell has no brain and no nerves. Yet scientists have watched single cells sense, choose and remember. A bacterium called E. coli swims towards sugar. It does this by remembering, for a few seconds, how much sugar it smelled before. If there is more now, it keeps swimming. If there is less, it tumbles and tries a new direction. A trumpet-shaped single cell called Stentor, about one millimetre long, was poked with tiny specks in an experiment. It tried one way to escape, then another, and then swam away. A yellow slime mould, which is one giant cell, found the shortest path through a maze. Scientists agree on what these cells do. They argue about whether to call it thinking.",
    "examples": [
     "E. coli bacteria swim towards food by comparing now with a few seconds ago.",
     "Stentor tried bending away, then closing up, then swimming off when specks kept landing on it.",
@@ -421,7 +421,7 @@
    "hint": "What did he do to show others he was right?"
   },
   {
-   "q": "If cells in a slime mould can 'remember', where is a memory kept when there is no brain?",
+   "q": "If cells in a slime mould can remember, where is a memory kept when there is no brain?",
    "kind": "deep",
    "hint": "The slime mould leaves a trail behind it. Could the trail be a kind of memory?"
   },
@@ -1928,7 +1928,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Your child explains their best design, then draws their own map of six towns.",
-     "say": "How did you decide which strings to keep? How do you think the slime mould 'decided'?",
+     "say": "How did you decide which strings to keep? How do you think the slime mould decided?",
      "kid": "Explain your best design. Then draw six towns you know and join them.",
      "think": "The slime mould has no brain. How could it still choose the best tubes?"
     }
@@ -2413,7 +2413,7 @@
      "t": "truefalse",
      "p": "Scientists agree that a bacterium thinks in the same way you do.",
      "a": false,
-     "why": "False. Scientists agree on what bacteria do: sense, choose and remember for a few seconds. They argue about whether to call it thinking, and nobody knows if a bacterium feels anything."
+     "why": "False. Scientists agree on what bacteria do: sense, choose and remember for a few seconds. They argue about whether to call it thinking, and nobody knows yet what a bacterium feels."
     },
     {
      "t": "write",
@@ -2779,7 +2779,7 @@
    "why_open": "Scientists agree cells sense, choose and remember a little. They disagree about where to draw the line for the word 'thinking'."
   },
   {
-   "q": "How does a slime mould, with no brain, 'decide' which tubes to keep?",
+   "q": "How does a slime mould, with no brain, decide which tubes to keep?",
    "why_open": "Scientists have good models, about tubes that carry more food growing thicker. But the full story of how one cell coordinates itself is still being studied."
   },
   {

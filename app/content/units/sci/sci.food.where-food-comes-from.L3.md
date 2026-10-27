@@ -182,6 +182,30 @@ There are more than 8 billion people on Earth. In the 1960s, India did not grow 
   For: Swaminathan led the work that brought high-yield wheat and rice to Indian farms. He won the first World Food Prize, in 1987.  
   Against: Millions of farmers, many of them women, took the risk of growing the new seeds and did the work. Earlier scientists helped too. E. K. Janaki Ammal, one of India's first women botanists, bred sweeter sugarcane in Coimbatore in the 1930s. Credit belongs to many hands.
 
+## Roots
+We have been following food back to where it comes from: plants, animals, tiny living things, the Earth and the Sun. Now we ask what that tells us about ourselves and the world.
+
+**Deep truth.** You are not separate from your food. Eating is the world becoming you, for a while.  
+*Habit it breaks:* We think of 'me' in here and 'food' out there, and of plants, animals, microbes and the Earth as separate boxes. But the rice on your plate was air and sunlight last season, and it becomes your blood this month. The line between eater and eaten is a moment in a chain, not a wall.  
+*Evidence:* Trace any food back and you reach a plant, air, water and the Sun. Your red blood cells are rebuilt from food about every four months.
+
+- *who am i:* You are built out of what you ate: rice, dal, milk and fruit, rebuilt into you.
+- *what is life:* Life is a chain of passing on. A seed packs lunch for its baby, a cow turns grass into milk, and you turn both into you.
+- *what is this world:* A world where sunlight becomes grass, grass becomes milk, and milk becomes a child who can wonder about it all.
+
+DeepKids believes one source becomes the many. In this unit you can almost watch it happen. One sunlight becomes wheat, mango, grass, cow, bee, fish and you. Then it moves on, into the air, the soil and new seeds. Nothing in the chain owns that energy. Each living thing holds it for a while and passes it on. The many foods on your plate are one gift wearing many shapes.
+
+- **Taittiriya Upanishad 3.2.1 and 3.10.6 (the Bhrigu Valli):** The young Bhrigu asks his father what is truly real. His father tells him to find out for himself, by looking deeply. The first thing Bhrigu understands is that food is the great reality. From food all beings are born. By food they live. Into food they return. At the end of the teaching, the one who understands sings: 'I am food, I am food, I am food. I am the eater of food.' (Your curd was milk, the milk was grass, and you will one day return to the soil that feeds new plants. The eater and the eaten are one chain.)
+- **Thich Nhat Hanh, The Heart of Understanding (1988), the sheet of paper:** Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. He called this 'interbeing': nothing exists by itself alone. (Look deeply at a roti and you see the Sun, the rain, the wheat field, the farmer and the miller. The roti is made of things that are not roti.)
+- **Robin Wall Kimmerer, Braiding Sweetgrass (2013), the chapter 'The Honorable Harvest':** A Potawatomi botanist shares the Native American teaching of the Honourable Harvest. Take only what you need. Never take the first or the last. Share what you take, and give thanks for it. (The seed keepers of Leningrad did not eat the last seeds. Farmers everywhere save some of their harvest, so that the chain of life can go on.)
+- Science (settled): Almost every food chain begins with sunlight caught by plants or algae. The atoms in your body came from your food, water and air, and they are always being replaced.
+- Science (idea): Some scientists think the very first life may have begun at deep-sea vents, feeding on chemicals, before any plant existed.
+- Other view, Many biologists, and the Charvaka thinkers of ancient India: Eating is chemistry: food is broken into small pieces and rebuilt into a body, and nothing more is going on. A tiger and the deer it eats are not one: one lives and one dies. The Charvaka thinkers taught that the body is only matter and ends when it dies. Seeing the chain clearly does not prove that everything is one. That is an honest view.
+- Practice, The Slow Bite (3 min): Take one small piece of roti, a raisin or a slice of fruit. Hold it in your palm and just look at it for a moment. Close your eyes. Think of the Sun that shone on it. Think of the rain, the soil and the farmer. Now put it in your mouth, but don't chew yet. Feel it on your tongue. Chew very slowly, and swallow. This food is now becoming you. Sit quietly for three breaths.
+- Ask: Where does your food stop and you begin?
+- Ask: Who or what gave something up so that you could eat today?
+- Ask: If your body is always being rebuilt from food, what part of you stays the same?
+
 ## Deep and big questions
 - *deep:* A plant is our food. So what is a plant's food? (hint: A huge tree grew in a pot, but the soil in the pot hardly changed. Where did the tree come from?)
 - *deep:* If you follow any food back far enough, where do you always end up? (hint: Try your curd, your roti and your fish. What is at the very start of each chain?)

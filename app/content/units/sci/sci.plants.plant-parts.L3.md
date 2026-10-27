@@ -180,6 +180,29 @@ If there are plants on planets around other stars, what would they look like? Th
   For: Leaves are so good at catching light, so their colour must be the best one.  
   Against: A leaf looks green because it throws away much of the green light, and catches mostly red and blue. Black would catch more light. Why leaves throw away green is still being studied.
 
+## Roots
+We have been learning how roots, stems and leaves are each shaped for their job. Now we ask what a plant's shape tells us about ourselves and the world.
+
+**Deep truth.** A plant is not a thing with parts. It is one life doing many jobs.  
+*Habit it breaks:* We cut a plant into roots, stem and leaves. But no part lives alone; each one is the whole plant reaching for something.  
+*Evidence:* A leaf dies when cut off, and roots cannot live without leaves.
+
+- *who am i:* Your hand is shaped for gripping. A root is shaped for holding soil.
+- *what is life:* Each part of a plant does its own job. Together they make one living thing that senses and chooses.
+- *what is this world:* A hard place, like a desert, shapes the plants that live there.
+
+A tiny seed holds no visible root, stem or leaf. Yet from it a whole plant grows, with each part shaped for its job. DeepKids believes this is the One becoming the many: one seed, many parts, one life. Roots, stems and leaves look different, but they are one plant. Your hands, eyes and ears are one you.
+
+- **Chandogya Upanishad 6.12:** Uddalaka asks his son to split a banyan seed. 'What do you see?' 'Nothing.' From that unseen nothing, a great banyan tree grows. (A carrot seed holds the plan for a root, a stem and leaves. You cannot see them inside, yet they are there.)
+- **Johann Wolfgang von Goethe, The Metamorphosis of Plants (1790):** Goethe, a German poet, believed every part of a flower is a changed leaf. One basic form takes many shapes. (Petals, tendrils and some spines really are changed leaves. One plan, shaped many ways for many jobs.)
+- Science (settled): All living things, plants and people too, share one ancestor from long ago.
+- Science (debated): Why leaves are green and not black is still argued about. Black would catch more light.
+- Other view, Many plant scientists: In 2019, a group of plant scientists wrote that plants sense touch and light, but do not feel anything. They have no brain, so there is nobody inside to feel.
+- Practice, One plant, many parts (3 min): Let's find a small plant, maybe a weed we can pull gently. Close your eyes and hold it. Touch the roots with one finger. Feel how thin and many they are. Move up to the stem. Then the leaf. Breathe slowly as you go. Open your eyes. Many parts, and all one plant.
+- Ask: Are the roots, stem and leaves one thing, or many?
+- Ask: Who decides whether a potato is a root or a stem?
+- Ask: Does a tendril feel it when it touches something?
+
 ## Deep and big questions
 - *big:* A carrot stores food for its own future. What do you store for your future? (hint: Think of a piggy bank, a seed jar, a skill you are practising, or a friendship.)
 - *big:* A climber leans on other plants to reach the light. Is leaning on others a weakness or a clever plan? (hint: Who do you lean on? Who leans on you?)
@@ -311,7 +334,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   *Parent does:* Talk about whose plants survived and why. Then look for a real plant that matches each design.  
   *Parent says:* Did any of your inventions already exist? Which real plants look like them?  
   *Child mode:* Does a real plant look like yours? Can you name it?
-  - Think: Real plants did not choose their parts. How did they end up with parts that fit their place so well?
+  - Think: Real plants shaped their parts over many, many generations. How did they end up with parts that fit their place so well?
 
 ## Experiments
 ### e1 · Wake the Store: can a stored food part grow with no soil? (35 min, 8 days)

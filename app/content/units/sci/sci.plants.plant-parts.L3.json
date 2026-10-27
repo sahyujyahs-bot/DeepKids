@@ -918,7 +918,7 @@
      "do": "Talk about whose plants survived and why. Then look for a real plant that matches each design.",
      "say": "Did any of your inventions already exist? Which real plants look like them?",
      "kid": "Does a real plant look like yours? Can you name it?",
-     "think": "Real plants did not choose their parts. How did they end up with parts that fit their place so well?"
+     "think": "Real plants shaped their parts over many, many generations. How did they end up with parts that fit their place so well?"
     }
    ],
    "context": "This is a design game. Players build an imaginary plant for a hard place, like a desert or a muddy pond, by choosing its root, stem and leaf. Then trouble comes.",
@@ -4115,7 +4115,7 @@
   },
   "three": {
    "who_am_i": "Your hand is shaped for gripping. A root is shaped for holding soil.",
-   "what_is_life": "Each part of a plant does its own job. Together they make one living thing.",
+   "what_is_life": "Each part of a plant does its own job. Together they make one living thing that senses and chooses.",
    "what_is_this_world": "A hard place, like a desert, shapes the plants that live there."
   },
   "thread": "A tiny seed holds no visible root, stem or leaf. Yet from it a whole plant grows, with each part shaped for its job. DeepKids believes this is the One becoming the many: one seed, many parts, one life. Roots, stems and leaves look different, but they are one plant. Your hands, eyes and ears are one you.",

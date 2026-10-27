@@ -63,7 +63,7 @@ You cannot feel it, but you are shedding skin all the time. Tiny flakes fall off
 ### Hair and nails: dead, yet growing · *defined*
 **Definition:** Hair and nails are made of keratin, a tough material made by living cells. The part you can see is dead. Only the root, under the skin, is alive.
 
-Why does a haircut not hurt? Because the hair you can see has no feeling. Living cells at the root, under the skin, keep making new hair and push the old hair out. Hair grows about 1 centimetre a month. Fingernails grow about 3 millimetres a month. Toenails grow about half as fast. Hair keeps your head warm and shades it from the sun. Eyebrows stop sweat dripping into your eyes. Nails protect your fingertips and help you pick up small things. To care for them, wash and comb your hair. Cut nails short and straight, and keep them clean, because dirt and germs hide under long nails.
+Why does a haircut not hurt? Because the hair you can see has no nerves. Living cells at the root, under the skin, keep making new hair and push the old hair out. Hair grows about 1 centimetre a month. Fingernails grow about 3 millimetres a month. Toenails grow about half as fast. Hair keeps your head warm and shades it from the sun. Eyebrows stop sweat dripping into your eyes. Nails protect your fingertips and help you pick up small things. To care for them, wash and comb your hair. Cut nails short and straight, and keep them clean, because dirt and germs hide under long nails.
 - e.g. Your hair grows back after a haircut, but the cut never hurts.
 - e.g. A cut fingernail grows long again in a few weeks.
 - e.g. Biting nails puts the germs from under them straight into your mouth.
@@ -164,6 +164,31 @@ Washing hands with soap stops many illnesses. Everyone agrees on that. But milli
 - **Old Indian ways of cleaning teeth, with neem twigs and a tongue scraper, are just old habits.** (Some people think only toothpaste and brushes work.; *debated*)  
   For: Toothpaste with fluoride is very well tested for protecting teeth.  
   Against: Ancient books like the Charaka Samhita describe cleaning teeth with twigs and scraping the tongue. Some studies found neem twigs do reduce mouth germs. Many dentists say a twig used well cleans, but fluoride toothpaste protects enamel best.
+
+## Roots
+We have been learning about the outside of the body: skin, hair, nails, eyes, ears, nose, mouth, hands and feet. Now we ask what our outside tells us about ourselves and the world.
+
+**Deep truth.** Your edge is a doorway, not a wall.  
+*Habit it breaks:* We think of the skin as the place where 'me' stops and 'the world' starts. But your outer skin is always flaking off and growing back, you leave fingerprints on everything you touch, and air, light and sound come in through your eyes, ears and nose all day. The edge of you is always busy, always changing and always sharing.  
+*Evidence:* In the sticky tape test, flakes of your skin came off on the tape. Your outer skin is replaced about every month or two, and some house dust is old skin.
+
+- *who am i:* You are not the same skin you were two months ago. Something in you stays the same while your outside keeps changing.
+- *what is life:* Living things keep renewing themselves. Your hair, nails and skin grow out, wear away and grow again.
+- *what is this world:* The world keeps coming into you, as air, light and sound, and you keep leaving bits of yourself in it.
+
+DeepKids believes everything rises from one ground, and the many things we see are that One taking shape. Your skin looks like a line that splits you from the world. Look closely, and it is more like a river bank, where water and land keep swapping places. Your fingerprints on a cup, your old skin in the dust, the air you breathe in and out: the One is passing through you, and you through it.
+
+- **Plato, Cratylus 402a, reporting Heraclitus:** Heraclitus, a Greek thinker, said you cannot step into the same river twice. The water is always new, yet it is still the river. (Your skin, hair and nails are always being replaced, yet you are still you. Like the river, you are a flow that keeps its shape.)
+- **Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing':** Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing exists all by itself. (Look deeply at your skin and you can see the food you ate, the water you drank and the sunlight that helped make vitamin D. Your outside is made of the world.)
+- **Chandogya Upanishad 6.13:** Uddalaka asks his son to put salt in water and leave it overnight. In the morning the salt cannot be seen, yet every sip tastes salty. The unseen is present everywhere. (Germs and your own skin flakes are too small to see, yet they are on everything. The bread test made the unseen show itself.)
+- Science (settled): The top layer of skin is made of dead cells that flake off, while new cells grow underneath. The outer skin is replaced about every month or two.
+- Science (settled): Millions of tiny living things live on your skin, and many of them help keep harmful germs away. So your outside is shared with other life.
+- Other view, Many biologists: The skin is a real boundary, and a very important one. It is what keeps an organism alive and separate, and it controls what comes in and goes out. They would say the boundary is exactly what makes you a 'you', and needs no deeper oneness to explain it. That is an honest view.
+- Practice, Feel your edges (3 min): Sit still and close your eyes. Feel the air on your face and hands. Is it warm or cool? Now breathe in slowly through your nose, and feel the cool air come in. Breathe out, and feel the warm air leave. Rest your hands on your knees. Can you feel exactly where your hand stops and your knee begins? Stay with it for three breaths. Then open your eyes.
+- Ask: Where do you end and the world begin?
+- Ask: If all your skin is new every few months, what part of you stays the same?
+- Ask: Is the fingerprint you left on a cup still a part of you?
+- Ask: Your hair is dead, but it is yours. What makes something 'you'?
 
 ## Deep and big questions
 - *deep:* Your hair and nails are dead, but they are part of you. Is a part of you still 'you' if it is not alive? (hint: Think about a haircut. Is the hair on the floor still yours?)
@@ -691,7 +716,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** Any real people the child knows and sees often, with a reason, such as 'Amma, because she always listens'.. *Why:* Children need more than one trusted adult, in case one does not listen.
 ### Thinking Further (challenge) (challenge, 15 questions)
 1. (write) Hair and nails are dead, but they are part of you. Are they alive? Explain your answer.  
-   **Answer:** A thoughtful answer, for example: the part I see is dead, because it has no feeling. But it was made by living cells, and it is still growing out from a living root. So it is part of a living body, even if it is not alive itself.. *Why:* There is no single right answer. The line between living and non-living is not always clear.
+   **Answer:** A thoughtful answer, for example: the part I see is dead, because it has no nerves. But it was made by living cells, and it is still growing out from a living root. So it is part of a living body, even if it is not alive itself.. *Why:* There is no single right answer. The line between living and non-living is not always clear.
 2. (mcq) Fingerprints form before birth. Identical twins have the same genes. Why do twins still have different fingerprints?  
    Options: Their fingerprints form in slightly different ways in the womb, with tiny differences in how each one grows and touches / Twins have different genes after all / Fingerprints change every year / One twin always has whorls and the other loops  
    **Answer:** Their fingerprints form in slightly different ways in the womb, with tiny differences in how each one grows and touches. *Why:* Genes give the general pattern, but small differences in the womb, such as each baby's position and how its fingers grow, shape the exact ridges. Picking 'change every year' is wrong. Your fingerprints keep their shape all your life.

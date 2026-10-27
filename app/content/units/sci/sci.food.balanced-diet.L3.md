@@ -169,6 +169,30 @@ A balanced diet is not one fixed menu. A baby, a growing child, a pregnant mothe
   For: Many children who eat breakfast pay attention better in the morning. School breakfast and lunch schemes help children who would otherwise be hungry.  
   Against: In studies of adults, skipping breakfast has not clearly made people less healthy. What matters most is the whole day's food. The saying was spread partly by companies selling breakfast cereal. For growing children, eating regular meals still matters.
 
+## Roots
+We have been learning what happens to food inside us, and why the body needs so many kinds. Now we ask what a balanced diet tells us about who we are.
+
+**Deep truth.** You are not one thing that eats. You are a crowd of about 30 trillion cells and about as many microbes, all fed by one plate, and health is the balance among them.  
+*Habit it breaks:* We think of 'me' as one single thing, and of each food as good or bad for that thing. But inside, every cell needs something different, and the microbes in your gut are living beings with needs of their own. No food is good or bad by itself. What keeps the crowd well is the balance of the whole.  
+*Evidence:* Your gut holds about 38 trillion bacteria, roughly as many as your own cells. They eat the fibre you cannot digest, and make butyrate, the main food of the cells lining your large intestine. Your bone cells need calcium, your blood-making cells need iron and folate, and your brain needs glucose, all from the same meal.
+
+- *who am i:* You are a crowd that eats together: trillions of your own cells and trillions of microbes, rebuilt every month from your food.
+- *what is life:* Life is balance kept up every day. Too little of one thing, and part of the crowd suffers.
+- *what is this world:* The world comes into you at every meal, as soil, sunlight, rain, plants, animals and other people's work.
+
+DeepKids believes that the One shows up as the many. A meal shows this up close. One plate of dal-chawal becomes glucose for the brain, amino acids for the muscles, iron for the blood and fibre for the microbes. Many beings are fed by one meal, and one body is made of many beings. When they are in balance, we call it health. The many are held together as one.
+
+- **Bhagavad Gita 6.16 to 6.17:** Yoga is not for someone who eats too much, nor for someone who does not eat at all. It is for someone who is balanced in eating, sleeping, waking and work. (Science also finds that health comes from balance, not from too much or too little of any one food.)
+- **The Buddha's first teaching, the Dhammacakkappavattana Sutta (Samyutta Nikaya 56.11):** The Buddha taught a middle way between living only for pleasure and harming the body by going without. Buddhist tradition says he took this path after a young woman, Sujata, gave him a bowl of rice cooked in milk, when he had almost starved himself. (A balanced diet is a middle way too. Neither feasting every day nor going without keeps the body well.)
+- **Walt Whitman, Song of Myself, section 51 (1855):** 'I am large, I contain multitudes.' Whitman meant that one person holds many different sides. (Science found that this is true in a way Whitman never knew. Each of us holds trillions of living microbes, as well as our own cells.)
+- Science (settled): The human body holds roughly as many bacterial cells as human cells. Many of them depend on us, and we depend on them.
+- Science (debated): Gut microbes may affect mood, behaviour and illnesses far from the gut. Some links are found in mice and some in people, but how much this matters is not yet known.
+- Other view, Many biologists and doctors: Gut microbes are not part of you. They are other living things that live on you, each looking after itself. Some help and some cause disease. Your immune system works hard to keep the line between 'self' and 'not self'. On this view, there is a clear 'me', and the microbes are guests. That is an honest view, and it fits a lot of the evidence too.
+- Practice, The thank-you bite (4 min): Let's take one small piece of roti or a spoon of rice. Don't swallow it yet. Close your eyes and chew it slowly, thirty times. Notice how it starts to taste a little sweet. That is the enzyme in your spit cutting starch into sugar. Now swallow. Put your hand on your tummy. In a few hours, this bite will be glucose in your blood and food for your brain. Its fibre will feed the microbes in your gut. Breathe out slowly onto your other hand. Feel the warmth. Let's sit for three breaths and think of everyone this bite will feed, and everyone who grew and cooked it.
+- Ask: If your gut microbes could talk, what do you think they would ask you to eat?
+- Ask: If you are a crowd of trillions, who decides what you do?
+- Ask: Is the food on your plate still 'food' once it becomes you? When does it stop being food and start being you?
+
 ## Deep and big questions
 - *deep:* If your body is rebuilt from your food, are you the same person you were a year ago? (hint: Your red blood cells last about four months. Your gut lining lasts a few days. But you still remember last year.)
 - *deep:* Your gut microbes eat the fibre you cannot digest, and feed your gut cells in return. Are they part of you, or guests? (hint: They have their own lives and their own genes. But you could not be healthy without them.)

@@ -160,6 +160,30 @@ Scientists agree that birds and mammals both make their own heat. Most think the
   For: Bird lungs with their air sacs are very special, and air flows through them in one direction.  
   Against: In 2010, C.G. Farmer and Kent Sanders showed that air also flows one way through the lungs of alligators. This may be a very old trick, shared by birds and crocodiles.
 
+## Roots
+We have been learning how fish, amphibians, reptiles, birds and mammals breathe, keep warm and have young. Now we ask what their warmth tells us about ourselves and the world.
+
+**Deep truth.** No body owns its warmth. Every warm animal is holding sunlight for a while, then passing it on.  
+*Habit it breaks:* We split animals into 'warm-blooded' and 'cold-blooded', and we think of 'my heat' as mine. But the lizard and the sparrow are warmed by the same sun, by two different paths. And our heat is always flowing out into the air around us.  
+*Evidence:* A lizard warms up straight from sunlight on a wall. A sparrow warms up from grain, which grew by catching sunlight. In the fur coat test, even the best coat only slowed the heat leaving. It never stopped it.
+
+- *who am i:* You are a warm body, about 37 degrees, made warm by sunlight that reached you through your food.
+- *what is life:* Life keeps catching warmth and passing it on: from sun to plant, plant to animal, parent to egg.
+- *what is this world:* A world where one sun warms the lizard, the frog, the sparrow and you, each in its own way.
+
+Long ago there was only one kind of animal with a backbone: a small fish in the sea. From that one beginning came many, fish and frogs, crocodiles and sparrows, cows and you. They found different ways to breathe, to keep warm and to have young. But underneath they share one backbone plan and one sun. DeepKids believes this is the One becoming the many: one source of warmth, flowing through many bodies, never owned by any of them.
+
+- **Rig Veda 1.115.1:** The Sun is called the self of everything that moves and everything that stays still. (Every warm body, the basking lizard and the sparrow burning its grain, is warmed by the sun's energy.)
+- **Taittiriya Upanishad 3.2 (Bhrigu Valli):** Bhrigu learns that food is the ground of life. From food beings are born, by food they live, and into food they return. (Birds and mammals make their warmth by burning food. The food, in turn, is made from sunlight.)
+- **Thich Nhat Hanh, The Sun My Heart (1988):** Thich Nhat Hanh wrote that the sun is a second heart beating outside our bodies. Without it, our own heart could not beat. (In the story, Dadi's question about the bajra points to the same thing. The sparrow's warmth came from the sun.)
+- Science (settled): Nearly all the energy that warms and moves animals on Earth comes from sunlight, caught first by plants and other green living things. A few living communities, around hot springs deep in the sea, run on chemical energy from the Earth instead.
+- Science (settled): Every body that is warmer than its surroundings is always losing heat to them. Fur, feathers and fat only slow this down.
+- Other view, Many biologists, and the Charvaka school of ancient India: Body heat is simply chemistry and physics: food burning in cells, and heat moving from warm to cool. Nothing more is needed to explain it. This is an honest view, and it fits all the measurements.
+- Practice, Holding warmth (3 min): Let's sit quietly. Cup your hands together in front of your mouth. Breathe out slowly into them, three times. Feel the warmth of your breath in your hands. Now open your hands a little, and feel the warmth slip away into the room. Sit still for a moment. Your warmth is going out into the air, where the lizard, the bird and the trees are. Where did that warmth come from this morning? Where is it going now?
+- Ask: Is your warmth yours, or are you just holding it for a while?
+- Ask: The lizard waits for the sun. You carry the sun inside you as food. Which feels more like being part of the world?
+- Ask: If all five groups came from one small fish, are they five things or one family?
+
 ## Deep and big questions
 - *deep:* Is a lizard on a sunny wall really 'cold-blooded'? What would be a better word? (hint: Think about where its heat comes from, not how warm it is.)
 - *deep:* Why do you think frogs need water to lay eggs, but crocodiles do not? (hint: What happens to a jelly sweet left out in the sun?)

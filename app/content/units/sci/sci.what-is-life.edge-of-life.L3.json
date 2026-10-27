@@ -453,7 +453,7 @@
    "claim": "Plants feel pain and emotions, the way animals do.",
    "who": "Some popular books, going further than J.C. Bose's own measurements.",
    "for": "Plants send electrical signals when they are hurt, and they respond to touch, light and chemicals.",
-   "against": "Plants have no brains or nerves like ours. A signal is not the same as a feeling. Scientists do not know whether plants feel anything at all.",
+   "against": "Plants have no brains or nerves like ours. Many scientists say a signal is not the same as a feeling. Nobody has a test yet for what a plant feels.",
    "status": "debated",
    "context": "This card is about a claim that plants have feelings, and what the evidence really shows."
   }
@@ -2335,7 +2335,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Your child wears the paper cap and holds the note. Ask them to try to do the signs of life alone: eat, grow, move by themselves.",
-     "say": "You are a virus now. You are just a note of instructions in a coat. Outside a cell, a virus cannot eat, grow, or move by itself. So stand perfectly still. The wind carries you.",
+     "say": "You are a virus now. You are a tiny packet of instructions in a coat. Outside a cell, a virus does not eat or grow. So stand very still. The wind carries you, until you meet a cell.",
      "kid": "You are a virus. You are only a note in a coat. Alone, you can't eat or grow. Stand still. The wind carries you.",
      "context": "This is the start of the virus drama. Your child plays a virus floating outside a cell."
     },
@@ -2343,9 +2343,9 @@
      "id": "s2",
      "mins": 3,
      "do": "The parent is the cell, sitting by the box full of blocks. Your child drifts to the box and pushes the note through the door.",
-     "say": "Now you bump into a living cell. You slip your instructions inside. The cell reads them, without knowing what they are.",
+     "say": "Now you bump into a living cell. You slip your instructions inside. The cell reads them, just as it reads its own.",
      "kid": "You drift to the cell. Push your note through the door. The cell reads it.",
-     "parent": "Read the note aloud in a robot voice: 'Make more of me.'"
+     "parent": "Read the note aloud, slowly and clearly: 'Make more of me.'"
     },
     {
      "id": "s3",
@@ -3060,7 +3060,7 @@
   },
   {
    "q": "Do plants feel anything?",
-   "why_open": "Plants respond and send electrical signals, as J.C. Bose showed. But nobody knows whether there is any feeling behind it."
+   "why_open": "Plants respond and send electrical signals, as J.C. Bose showed. But nobody yet knows what plants feel, or how to test it."
   }
  ],
  "ask_kids": [

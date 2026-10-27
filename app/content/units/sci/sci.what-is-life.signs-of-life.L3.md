@@ -158,6 +158,31 @@ The oldest signs of life on Earth are more than 3,500 million years old. Before 
   For: At first the plants folded their leaves each time. After many drops, they stopped folding. Weeks later, they still did not fold when dropped. But they still folded when shaken in a new way. That looks like learning that the drop was safe.  
   Against: Other scientists say this may just be the plant getting used to the drop, and that words like learning and memory should be kept for animals with brains. They want more tests.
 
+## Roots
+We have been learning the seven signs that tell us something is alive. Now we ask what those signs tell us about ourselves and the world.
+
+**Deep truth.** The line between living and non-living is drawn by us, not by nature.  
+*Habit it breaks:* We sort the world into two boxes, alive and not alive, as if nature came labelled. But every sign of life, taken alone, also turns up in non-living things. And your living body is built of the same atoms as air, water and rock, borrowed from them and given back all the time.  
+*Evidence:* A cloud grows. A car drinks fuel and puffs out smoke. J.C. Bose found that a metal wire 'tires' when tapped, much like a plant. Only all seven signs together mark life, and scientists still argue about the edges.
+
+- *who am i:* You are alive because you do all seven signs, right now, without trying. Even while you sleep, you breathe, grow and mend.
+- *what is life:* Life is not a thing you hold in your hand. It is something a body keeps doing: taking in, changing, giving out, sensing and making more.
+- *what is this world:* The world is not split cleanly into alive and not alive. The air you breathe out goes into a tree, and the tree's mango becomes you.
+
+Every atom in your body was once part of something non-living: air, water, soil and, long before that, a star. Arranged one way, those atoms lie still as a stone. Arranged another way, they eat, grow, sense and make more of themselves. DeepKids believes this is the One showing up as the many, so that the same stuff can be a pebble, a cloud, a moong seed and a child. The seven signs are how we notice where that stuff has woken up into life. Exactly where the waking begins, nobody can say.
+
+- **Chandogya Upanishad 6.11:** Uddalaka tells his son Shvetaketu: if someone cuts this great tree at its root, or its middle, or its top, sap flows, but it lives. Full of life, it stands drinking in water. But if life leaves one branch, that branch dries up. The body dies when life leaves it. Life itself does not die. (Uddalaka noticed the same signs we test: the tree drinks, heals and grows, and a dead branch stops doing them. He asked what life itself is, beyond the signs.)
+- **Acharanga Sutra, Book 1, Lecture 1 (Jain):** Jain teachings name six kinds of living beings: beings of earth, water, fire and air, plants, and beings that move about. All of them can be harmed, so we should harm none of them. (Jain thinkers drew the line of life far wider than science does. It shows that where we draw the line is partly our choice, and the choice changes how we treat the world.)
+- **J.C. Bose, Friday Evening Discourse at the Royal Institution, London, 10 May 1901:** At the end of his talk, Bose said that his records of metals, plants and animals showed him one 'pervading unity' running through all things. He said that thinkers on the banks of the Ganga had taught this about three thousand years before. (Bose was a scientist who measured carefully. His measurements made him wonder whether living and non-living are two worlds, or one.)
+- Science (settled): All living things on Earth share one family tree and one chemical code, DNA. Their bodies are made of the same kinds of atoms found in air, water and rock.
+- Science (open): How non-living chemicals first became living things, about 4,000 million years ago, is still unknown.
+- Other view, Most biologists today: The line between living and non-living is real for almost everything we meet. Living things have cells, take in energy and pass on instructions to their young. Only a few odd cases, like viruses, are hard. They would say Bose's tired metal is only a lookalike, not a sign of life, and that is an honest view.
+- Practice, Seven signs, sitting still (3 min): Let's sit very still together for one minute. Even now, you are doing the signs of life. Put a hand on your tummy and feel the breath going in and out. Now put two fingers on the side of your neck and feel your heartbeat. Listen for three sounds. That is sensing. Somewhere inside you, a hair is growing and a scratch is healing. You are not making any of it happen. It is just happening. Who is doing it?
+- Ask: If your breath goes into a tree, and the tree's mango becomes you, where do you stop and the tree begin?
+- Ask: Is a dry seed alive, asleep, or something in between?
+- Ask: Who decides what counts as alive: nature, or us?
+- Ask: Could something be a little bit alive?
+
 ## Deep and big questions
 - *deep:* Is a dry seed in a packet alive right now, or only alive later? (hint: Think about what happens when you boil it. A boiled seed never wakes up. So what was in the dry seed that the boiled seed lost?)
 - *deep:* Why does a car need a factory, but a hen does not need a factory to make a chick? (hint: Where are the instructions for making a chick kept? Where are the instructions for a car kept?)
@@ -789,7 +814,7 @@ Nitai took the feather. Before he began, he touched the shy plant, very gently, 
 - **How did the very first living thing come from non-living chemicals?** It happened about 4,000 million years ago and left no clear traces. Scientists test ideas in labs, but nobody has made life from plain chemicals yet.
 - **Is there life anywhere else in the universe?** We have only ever found life on Earth. Scientists are searching on Mars and planning missions to icy moons like Europa and Enceladus, which have hidden oceans.
 - **Is there a sharp line between living and non-living, or a gentle slope?** Most things are easy to sort, but some, like viruses and dormant seeds, are not. Scientists do not agree on one definition of life.
-- **Does a plant feel anything when it senses touch?** Plants clearly sense and respond. But whether there is any feeling, as you feel a touch, is something nobody knows how to measure.
+- **Does a plant feel anything when it senses touch?** Plants clearly sense and respond. But nobody yet knows how to measure what a plant feels.
 - **Can plants really learn and remember?** Some experiments, like the dropped touch-me-not plants, seem to show it. Other scientists say the results can be explained more simply. More tests are under way.
 - **Could people one day build a living cell from scratch?** Scientists have built a full set of instructions, DNA, and put it into a bacterium, where it worked. But building a whole living cell from non-living parts has not been done.
 - **Why does all life on Earth use the same code?** It points to one shared ancestor. But why this code, and not another, is still not understood.

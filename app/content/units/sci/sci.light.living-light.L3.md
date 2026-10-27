@@ -165,6 +165,29 @@ Your body makes a very, very faint light. It is about a thousand times too weak 
   For: On land, only a few animals glow, like fireflies and some worms.  
   Against: Scientists now think living light began separately at least 94 times. In the open sea and deep sea, most animals can glow. It may be the most common way of talking on Earth.
 
+## Roots
+We have been learning about living light: fireflies, mushrooms and sea animals that make their own glow. Now we ask what that tells us about ourselves and the world.
+
+**Deep truth.** Life is not only lit by light. Life can turn into light.  
+*Habit it breaks:* We split the world into things that shine, like the Sun and lamps, and things that are only lit, like us. But a firefly turns its dinner into light, and so, very faintly, do you. The line between a light source and a living body is drawn by us.  
+*Evidence:* Raphael Dubois mixed two juices from a glowing beetle in a tube, and they glowed. The energy in a firefly's food, which first came from sunlight, comes out again as light.
+
+- *who am i:* You are made of the same kind of chemistry that lights a firefly. Your body even glows, too faintly to see.
+- *what is life:* Life takes in sunlight, as food, and sometimes gives it back as light, to call a friend or light a path.
+- *what is this world:* Even the darkest place on Earth, the deep sea, is full of small living lights.
+
+The Sun pours out light. Plants catch it and turn it into food. A firefly eats, and turns that same energy into a flash. A mushroom, a jellyfish and a tiny plankton do it in their own ways. DeepKids believes this is the One showing up as many: one energy moving through many bodies, sometimes hidden, sometimes shining. Light that seemed to belong only to the Sun turns out to run through all of life.
+
+- **Katha Upanishad 2.2.15 (also Mundaka Upanishad 2.2.10):** There the Sun does not shine, nor the Moon and stars, nor lightning, let alone this fire. When That shines, everything shines after it. By its light, all this is lit. (The Upanishad points to a light behind every light. In science, the firefly's flash is the Sun's energy, passed on through plants and food, shining again in a new form.)
+- **The Buddha's last teaching, in the Mahaparinibbana Sutta (Digha Nikaya 16):** Be a lamp for yourselves. Be a refuge for yourselves. The Pali word 'dipa' can mean both lamp and island, and scholars translate it both ways. (A firefly or a glowing mushroom does not wait for the Sun. In the darkest places, life makes its own light.)
+- Science (settled): Living light comes from a chemical reaction of luciferin with oxygen. The energy in the food that powers it first came from sunlight caught by plants.
+- Science (idea): Living light began separately at least 94 times in the history of life, as if life keeps finding its way to light again and again.
+- Other view, Many biologists, and the old Indian Charvaka school, who said only what we can sense and measure is real: A firefly's glow is chemistry that helped fireflies survive and have young. It needs no deeper meaning. There is no One behind it, only molecules and evolution. That is an honest and careful view.
+- Practice, Sit with a small light (3 min): Let's sit in the dark with one glow stick between us. Breathe in slowly while I count to four. Breathe out while I count to four. Look softly at the glow. Now close your eyes. Can you still see a little light behind your eyelids? Sit quietly for a few breaths. Where do you think that light came from?
+- Ask: The energy in your breakfast came from the Sun. Is some of the Sun inside you now?
+- Ask: If a firefly turns food into light, what do you turn your food into?
+- Ask: The mushrooms glowed all along, but nobody saw them in daylight. What might be shining around us that we do not notice?
+
 ## Deep and big questions
 - *deep:* A firefly eats food, and later makes light. How can food turn into light? (hint: Food holds energy. Where did the energy in the food come from first?)
 - *deep:* Why does a firefly's light not burn it? (hint: Think of the glow stick on your cheek.)

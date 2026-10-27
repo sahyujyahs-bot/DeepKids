@@ -147,6 +147,31 @@ We can test what animals do. It is much harder to test what they feel inside. Th
   For: Their brains are very different from ours, and much smaller.  
   Against: Fish rub a sore lip and avoid a place where they were hurt. Bees and crabs also act in pain-like ways in some tests. Many scientists now say we should be careful and kind.
 
+## Roots
+We have been learning that animals play, learn, remember and read faces. Now we ask what that tells us about minds, about ourselves and about the world.
+
+**Deep truth.** Minds are not only inside human heads. Learning, remembering and feeling run all through the animal world, in many different shapes.  
+*Habit it breaks:* We draw a line: humans think, and animals just follow instinct. We also call only minds like ours 'clever'. But a crow with a walnut-sized brain bends a hook, a horse reads faces better than the people watching it, and a bee rolls a ball for fun.  
+*Evidence:* In careful tests, crows made tools, rooks raised water with stones, dogs read happy and angry faces, and jays remembered where and when they hid food.
+
+- *who am i:* You are one of many minds on Earth. A crow, a dog and you all learn and remember.
+- *what is life:* Living things notice, learn and remember. Minds grow out of life, in feathers, fur and eight arms.
+- *what is this world:* The world is full of minds watching it, each seeing it in its own way.
+
+DeepKids believes one awareness shows up in many forms. A crow's mind, a dog's mind and your mind look very different from outside. Inside, all of them are tiny neurons passing tiny sparks, made of the same atoms from the same stars. Clever minds grew up separately in crows, octopuses and apes, as if life keeps finding its way to awareness. To DeepKids, that looks like the One becoming the many, and the many looking back at each other.
+
+- **Bhagavad Gita 5.18:** The wise see with an equal eye a learned person, a cow, an elephant, a dog, and a person whom society looks down on. (Dogs read our faces and elephants remember their friends. The Gita asks us to see the same worth looking out of every one of them.)
+- **Zhuangzi, chapter 17 (Autumn Floods), the fish of the Hao river:** Zhuangzi and his friend Huizi stood on a bridge. Zhuangzi said, 'See how the fish swim about. That is their joy.' Huizi said, 'You are not a fish. How do you know what fish enjoy?' Zhuangzi said, 'You are not me. How do you know I don't know?' (This is the hardest question in this unit. We can test what animals do, but how can we know what they feel?)
+- **Isha Upanishad, verse 6:** One who sees all beings in their own self, and their own self in all beings, does not hate anyone. (When we see that a crow learns and a dog feels, we start to see ourselves in them, and them in us.)
+- Science (settled): Many animals learn, remember, play and solve problems. This has been tested many times.
+- Science (open): Whether fish, octopuses and insects have feelings, and what it is like to be them, is still unknown.
+- Other view, Many careful scientists, following Conwy Lloyd Morgan, and the philosopher Rene Descartes before them: We should not read human feelings into animals. A crow bending a hook may be following simple learned rules, with nothing it is like inside. Descartes went further and said animals feel nothing at all. Most scientists today disagree with Descartes, but many still warn against seeing a mind like ours in every animal. That is an honest and careful view.
+- Practice, Be a quiet watcher (3 min): Let's sit by the window, or near a pet, and be very still. Pick one animal, a crow, a pigeon, a dog or even an ant. Breathe in slowly, and out slowly. Just watch it for one minute without talking. Now imagine looking out through its eyes. What does it see? What might it want? Then come back to your own eyes, and breathe once more.
+- Ask: When you watched the animal, did it feel like someone was in there looking back?
+- Ask: Is a crow's way of knowing the world less real than yours?
+- Ask: If you cannot see inside another being, how do you decide how to treat it?
+- Ask: Where do you think your own mind is?
+
 ## Deep and big questions
 - *big:* If you can never see inside another being's mind, how do you know your friend has feelings? (hint: What does your friend do that tells you how they feel?)
 - *deep:* Is a crow that makes a hook clever, even though it cannot read or count? (hint: Are there different ways to be clever? What is a crow clever at that you are not?)

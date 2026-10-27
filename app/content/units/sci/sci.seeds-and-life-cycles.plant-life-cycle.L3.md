@@ -165,6 +165,30 @@ In space, there is no 'down' to guide the roots, so astronauts and scientists mu
   For: His owner, Ferréol Bellier-Beaumont, wrote letters saying Edmond had found it. Farmers still use his method of a thin stick and a thumb.  
   Against: A French botanist, Jean Michel Claude Richard, later claimed that he had taught Edmond. And a Belgian botanist, Charles Morren, had made vanilla flowers fruit in a greenhouse a few years earlier, in the 1830s. But Morren's way was slow and was not used on farms.
 
+## Roots
+We have been learning how a plant goes round from seed to flower to fruit and back to seed. Now we ask what that circle tells us about ourselves and the world.
+
+**Deep truth.** A plant is not a thing but a happening. Seed, seedling, flower and fruit are one life changing shape.  
+*Habit it breaks:* We give each stage its own name, so we think a seed, a flower and a fruit are different things. But the fruit is the flower's base grown big, and the seed inside it is the next plant. The names are like photos of one moving life, the way photos show a person at 1, 10 and 80.  
+*Evidence:* The green star on a tomato is its flower, still there. A tagged bhindi flower becomes a pod in five days. And a plant's body is built from air and water, which go back to the air and soil when it dies.
+
+- *who am i:* You were once smaller than a full stop on this page, and you are changing right now. Are you a thing, or a happening?
+- *what is life:* Life goes round: seed, plant, flower, fruit, seed. In a life cycle, every ending is also a beginning.
+- *what is this world:* The air you breathe out can become part of a leaf. Plants, people and soil are built from the same atoms, passed round and round.
+
+A seed looks like one small thing. But its life pours out into roots, leaves, flowers and fruits, and then into hundreds of new seeds. One becomes many, and each of the many carries the whole plant inside it. When the plant dies, its atoms go back to the soil and the air, and new plants are built from them. DeepKids believes this is the One showing up as the many, going round and round with no gap in between.
+
+- **Katha Upanishad 1.1.6:** The boy Nachiketa says to his father: look at those who came before us, and those who are here now. Like grain, a person ripens and falls. Like grain, a person is born again. (Long ago, teachers in India looked at grain in the field and saw a circle: ripening, falling and sprouting again. You can watch the same circle in a pot of moong.)
+- **Heraclitus, a Greek thinker, as quoted by Plato in the Cratylus, 402a:** Everything moves on, and nothing stays still. You cannot step into the same river twice. (A river is never the same water, yet we call it one river. A plant is never the same from one day to the next, yet we call it one plant. Both are happenings, not fixed things.)
+- **Ecclesiastes 3:1-2, in the Hebrew Bible:** For everything there is a season. There is a time to be born and a time to die, a time to plant and a time to pull up what is planted. (Plants keep to their seasons. Many flower only when the nights are the right length, and annuals die once their seeds are ready.)
+- Science (settled): A plant builds its body mostly from carbon dioxide in the air and water, using the energy of sunlight. Very little of it comes from the soil.
+- Science (settled): When living things die, decomposers break them down, and their atoms go back into the air and soil to be used by new life. The same atoms go round for billions of years.
+- Other view, The Charvaka school of ancient India: Only what we can see and touch is real. A plant is just its body. When it dies, that plant is gone for ever, and the seedling is a new and separate thing. The 'circle' is a pattern we draw, not one life going round. That is an honest view, and many people today agree with it.
+- Practice, Breathe with a plant (3 min): Let's sit beside a plant, close enough to touch a leaf. Breathe in slowly through your nose. Now breathe out gently towards the leaves. The air you breathe out has carbon dioxide in it. That is what leaves build themselves from. Some of your breath might become part of a new leaf. Breathe in again. Some of the oxygen you are breathing was made by plants. Do this five times, slowly. Where does your breath end, and the plant begin?
+- Ask: Are you the same person you were as a baby? What stayed the same?
+- Ask: When a moong plant dies after making seeds, has it ended, or carried on?
+- Ask: Is a flower a thing, or something that is happening?
+
 ## Deep and big questions
 - *deep:* A life cycle is a circle. So where does it begin: with the seed, or with the flower that made the seed? (hint: Try starting your drawing at a different stage each time. Does it change the story?)
 - *deep:* A tree weighs as much as a truck, but the soil under it hardly gets less. Where did the tree come from? (hint: Breathe out onto your hand. What is in your breath that a leaf might want?)

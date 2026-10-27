@@ -130,10 +130,10 @@ All animals share one ancestor, which lived in the sea long ago. Scientists agre
 - **Sponges first (many scientists):** Sponges are the simplest animals. They have no nerves or muscles. So it makes sense that they branched off first, before nerves and muscles appeared. Some studies of genes agree.
 - **Comb jellies first (other scientists):** Several large studies of genes put comb jellies at the very bottom of the tree. If they are right, then nerves and muscles may have appeared twice, or sponges lost theirs.
 ### Can small animals feel pain? · *debated*
-People used to think that small animals without backbones felt nothing. Today scientists are less sure. An animal can pull away from something sharp without feeling anything, just as a plant can bend towards light. Feeling pain is something more. Scientists look for signs, like an animal guarding a hurt part, or giving up food to avoid a place where it was hurt. Some invertebrates show these signs. In 2022, the United Kingdom's law began counting crabs, lobsters, octopuses and squid as animals that can feel. Nobody knows for sure yet about insects, worms or jellyfish.
+People used to think that small animals without backbones felt nothing. Today scientists are less sure. Pulling away from something sharp can be a quick reflex. Feeling pain is something more. Scientists look for signs, like an animal guarding a hurt part, or giving up food to avoid a place where it was hurt. Some invertebrates show these signs. In 2022, the United Kingdom's law began counting crabs, lobsters, octopuses and squid as animals that can feel. Nobody knows for sure yet about insects, worms or jellyfish.
 - e.g. In experiments, hermit crabs given a small electric shock in their shell were later more likely to leave that shell for a new one. This suggests something more than a reflex.
 - e.g. An octopus that is hurt will guard and clean the hurt place.
-- e.g. We do not know what, if anything, it is like to be an ant. That is one of the hardest questions in science.
+- e.g. We do not know what it is like to be an ant. That is one of the hardest questions in science.
 - **Many scientists who study crabs and octopuses:** Crabs and octopuses act as if they feel pain. They learn to avoid places where they were hurt, and they guard hurt parts. So we should treat them as if they can feel.
 - **Other scientists:** These animals may just have clever reflexes and learning, with no feeling at all. Feeling may need a brain built like ours. We cannot yet tell from the outside.
 
@@ -163,6 +163,31 @@ People used to think that small animals without backbones felt nothing. Today sc
 - **There may be several million kinds of animal still not discovered, nearly all of them invertebrates.** (Several groups of scientists who study how many species there are.; *debated*)  
   For: New insects, worms and sea animals are named every year, thousands of them. Whole places, like the deep sea floor, are hardly explored.  
   Against: Other scientists think the number is smaller, perhaps a few million. Estimates differ a lot, because we are guessing about animals nobody has seen.
+
+## Roots
+We have been learning about animals without backbones: worms, snails, crabs, spiders, insects, starfish and jellyfish. Now we ask what they tell us about ourselves and the world.
+
+**Deep truth.** 'Animals without backbones' is not a kind of animal. It is nearly every animal, named by the one thing it lacks compared to us.  
+*Habit it breaks:* We sort the world into 'us' and 'the rest', with ourselves at the centre. The word 'invertebrate' names 95 out of 100 kinds of animal by what they are not. Look closer and 'the rest' is many families, and some of them, like the starfish, are our own close cousins.  
+*Evidence:* In the Backbone Census, most of the animals you found had no backbone. And on the family tree, a starfish sits on our branch, closer to you than to a snail.
+
+- *who am i:* You are one of the rare animals with a backbone. Your nearest boneless cousin lives in the sea and has five arms.
+- *what is life:* Life holds itself up in many ways. Bones inside, armour outside, a shell, or just water held tight.
+- *what is this world:* Most of the animals on Earth are small, boneless and busy, under your feet and in the sea.
+
+Long ago, all animals came from one small, soft animal in the sea. From that one came the many: worms, snails, spiders, ants, starfish, fish and you. Some found water to hold them up, some built shells, some wore armour, and one branch grew bones inside. DeepKids believes this is the One showing up as the many, each trying a different way to stand up in the world. The worm, the crab and you are not separate kinds of life. You are different answers to the same question.
+
+- **Acaranga Sutra, Book 1, Lecture 2, Lesson 3 (a Jain scripture, in Hermann Jacobi's translation):** All beings are fond of life. They like pleasure and dislike pain. To all, life is dear. This is why Jain monks walk softly and sweep the ground ahead of them, so as not to step on tiny creatures. (The smallest animals, the ants and worms and woodlice, are most of the animals there are. Caring for life means caring mostly for them.)
+- **Zhuangzi, chapter 2, the butterfly dream (a Chinese Taoist book):** Zhuangzi dreamed he was a butterfly, happily flying about. When he woke up, he wondered: was he a man who had dreamed he was a butterfly, or a butterfly now dreaming it was a man? (We look at a butterfly from outside, as a different kind of animal. Zhuangzi asks whether the line between 'me' and 'that small creature' is as fixed as it seems.)
+- **Avatamsaka Sutra, the image of Indra's net (a Buddhist scripture):** Picture a huge net with a shining jewel at every knot. Each jewel reflects every other jewel. (A dewy spider web in the morning looks just like this. Every animal in the garden, from the worm to the bird, holds up every other.)
+- Science (settled): All animals share one ancestor. Starfish, sea urchins and vertebrates are on one big branch of the family tree, so a starfish is a closer cousin of ours than a snail is.
+- Science (settled): About 95 out of every 100 named kinds of animal have no backbone, and millions more may be waiting to be found.
+- Other view, Many biologists, and the old Charvaka school in India: Being related is a fact about history, like a family tree. It does not mean we are one being. A starfish is a starfish and you are you. Nothing more is needed to explain it. That is an honest view, and many careful people hold it.
+- Practice, Backbone, then jellyfish (3 min): Sit up tall. Put one hand on the back of your neck and slowly walk your fingers down your back, bump by bump. Each bump is a small bone holding you up. Now let your whole body go soft, like a jellyfish floating in the sea. Let your arms hang like tentacles. Breathe in slowly, and out slowly, three times. Feel what is holding you now: the chair, the floor, the air. Now sit up tall again. Which felt more like you?
+- Ask: If an ant named all the animals, what do you think it would call us?
+- Ask: Is a worm less important than a tiger? Who decides?
+- Ask: A starfish is your cousin. What would you like to ask it?
+- Ask: When you went soft like a jellyfish, where did you end and the floor begin?
 
 ## Deep and big questions
 - *big:* If an ant could name all the animals, would it call us 'the animals with no armour'? Who decides what is normal? (hint: We named animals by comparing them to ourselves. What would an ant compare us to?)

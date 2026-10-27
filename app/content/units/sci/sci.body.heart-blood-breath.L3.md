@@ -158,6 +158,31 @@ We say 'heartbroken', 'kind-hearted' and 'learn by heart'. For thousands of year
   For: You feel the beat most strongly on the left, because the bottom tip of the heart points left and taps the chest wall there.  
   Against: The heart sits almost in the middle, behind the breastbone, tipped a little to the left. In about one person in 10,000, the heart and other organs are flipped, like a mirror picture.
 
+## Roots
+We have been learning how the heart pumps blood round and round, and how the lungs swap air with the world. Now we ask what this tells us about ourselves and the world.
+
+**Deep truth.** You are not a still thing. You are a flow that the world keeps passing through.  
+*Habit it breaks:* We think of 'me' as a fixed thing with a clear edge, and the air and other people as outside. But air comes into you, becomes part of your blood and cells, and goes out again to trees and other people. Even your blood is replaced every few months. The edge between you and the world is a doorway, not a wall.  
+*Evidence:* Every breath swaps air with the room. Every minute, all your blood goes round once. Your red blood cells are all new in about four months. And the carbon dioxide you breathe out becomes part of a plant.
+
+- *who am i:* You are a heart that never stops and a breath that is always moving. The air you are made of was the world's a moment ago.
+- *what is life:* Living things keep taking in and giving out. A heartbeat and a breath are life saying 'still going'.
+- *what is this world:* It is a world where trees breathe out what you breathe in, and you breathe out what trees breathe in.
+
+Before you breathe in, the air belongs to the whole world. Inside you, it becomes your blood, your warmth and your thinking. When you breathe out, it belongs to the world again. The same oxygen, made long ago in stars, has passed through trees, tigers, grandmothers and you. DeepKids believes this is the One showing up as many bodies, all sharing one breath. Your heart and lungs are where the many meet the one shared air.
+
+- **Chandogya Upanishad 5.1:** The senses argued about which of them was the greatest. Speech left the body for a year, and the body lived on, unable to speak. The eye left, and the ear left, and the mind left, and still the body lived. Then breath began to leave, and all the others were pulled along with it, like pegs torn up by a horse. They agreed that breath was the greatest of them all. (Science agrees that breath and heartbeat keep every other part going. Without oxygen carried by blood, the eyes, ears and brain soon stop working.)
+- **Kabir, Songs of Kabir, poem I, translated by Rabindranath Tagore (1915):** Kabir says the one people search for in temples and mosques is right beside them. He ends: God is the breath of all breath. (The breath we share with every living thing is the closest thing to us. Kabir pointed there, not far away.)
+- **Thich Nhat Hanh, Being Peace (1987):** A Vietnamese Buddhist teacher taught a simple practice. Breathing in, I calm my body. Breathing out, I smile. Paying gentle attention to the breath brings us back to the present moment. (Slow breathing really does calm the heart, as you can feel with your own pulse.)
+- Science (settled): Most oxygen atoms in the air and in you were made inside stars long ago. Plants and algae put oxygen into the air, and the carbon dioxide you breathe out is taken in by plants.
+- Science (idea): Air mixes all round the Earth over the years. Some scientists have worked out that each breath you take probably holds a few of the same molecules that any one person breathed out long ago. This is a rough calculation, not a measurement.
+- Other view, The Charvaka thinkers of ancient India, and many scientists today: Breath is air moving in and out of a body, and blood is a liquid pumped by a muscle. That fully explains it. There is no need for any One behind it. When the body stops, the breath and the person stop too. This is an honest view held by many thoughtful people.
+- Practice, The Breath Gift (3 min): Let's sit near a plant, like a tulsi or a money plant. Put one hand on your chest and feel your heart. Now breathe in slowly through your nose. Think: this breath was the plant's, and now it is mine. Breathe out slowly towards the plant. Think: this breath is mine, and now it is the plant's. Let's do this five times, quietly. Then sit still for a moment and feel your heart again.
+- Ask: Where does your breath stop being yours?
+- Ask: If your blood is new every few months, what stays the same about you?
+- Ask: Who might have breathed this same air before you?
+- Ask: Is the plant you breathed with part of you, or separate?
+
 ## Deep and big questions
 - *deep:* Your heart has beaten every second since before you were born. What would it be like if you had to remember to make it beat? (hint: Think about sleeping. Who would make it beat then?)
 - *deep:* The blood that leaves your heart now will be back in about a minute. Is it the same blood, or is it now different blood? (hint: What has it picked up and dropped off on the way?)

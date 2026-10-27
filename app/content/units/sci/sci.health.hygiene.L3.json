@@ -668,7 +668,7 @@
        "Germs can swim away from the water"
       ],
       "a": 0,
-      "why": "Skin has a thin natural oil. Many germs stick in it. Water does not hold on to oil, so it runs over the top. Soap holds oil and water both, so it lifts the germs off. Picking 'water feeds them' usually means mixing up washing with leaving things damp. Germs cannot swim away on purpose."
+      "why": "Skin has a thin natural oil. Many germs stick in it. Water does not hold on to oil, so it runs over the top. Soap holds oil and water both, so it lifts the germs off. Picking 'water feeds them' usually means mixing up washing with leaving things damp. Picking 'swim away' misses that the germs are stuck in the oil."
      }
     },
     {
@@ -1073,7 +1073,7 @@
       "The pepper dissolves"
      ],
      "a": 1,
-     "why": "Water's surface acts like a stretched skin. Soap weakens it in the middle, so the rest of the surface pulls away, carrying the pepper. Picking 'scared of soap' is a common story people tell. But pepper has no feelings, and real germs do not run from soap. Soap has to touch them and lift them off.",
+     "why": "Water's surface acts like a stretched skin. Soap weakens it in the middle, so the rest of the surface pulls away, carrying the pepper. Picking 'scared of soap' is a common story people tell. But the pepper is pulled by the water's surface, and real germs do not run from soap. Soap has to touch them and lift them off.",
      "context": "In the pepper test, you sprinkle black pepper on a plate of water. Then you touch the middle with a clean finger, and then with a soapy finger.",
      "how": "e2"
     },

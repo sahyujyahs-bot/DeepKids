@@ -150,7 +150,32 @@ Jagadish Chandra Bose was a scientist in Kolkata. He built instruments so sensit
   Against: No one has shown clay crystals passing on patterns that change and improve over generations. Most scientists prefer other ideas, such as the RNA idea.
 - **Plants feel pain and emotions, the way animals do.** (Some popular books, going further than J.C. Bose's own measurements.; *debated*)  
   For: Plants send electrical signals when they are hurt, and they respond to touch, light and chemicals.  
-  Against: Plants have no brains or nerves like ours. A signal is not the same as a feeling. Scientists do not know whether plants feel anything at all.
+  Against: Plants have no brains or nerves like ours. Many scientists say a signal is not the same as a feeling. Nobody has a test yet for what a plant feels.
+
+## Roots
+We have been putting tricky cases on trial: fire, crystals, robots, sleeping seeds, water bears and viruses. Now we ask what these puzzles tell us about ourselves and the world.
+
+**Deep truth.** Life does not begin where we draw the line. The edge between alive and not alive is drawn by us, not by nature.  
+*Habit it breaks:* We sort the world into two boxes, alive and not alive, as if nature made the boxes. But a dry seed, a tun and a virus sit between them. The boxes are our words, and the world is smoother than our words.  
+*Evidence:* A dry seed shows no signs of life and is alive. A flame shows many signs and is not. A virus is lifeless outside a cell and busy inside one.
+
+- *who am i:* You are made of the same atoms as rocks, air and stars. About 8 out of every 100 parts of your instructions came from viruses long ago.
+- *what is life:* Life is not a special stuff. It is ordinary atoms, arranged and kept busy, like a flame that knows how to keep itself going.
+- *what is this world:* The world is not split cleanly into living and non-living. There are sleepers, waiters and in-betweens everywhere.
+
+Everything in a seed, a flame and you is made of the same few kinds of atoms. DeepKids believes this is the One showing up as many things. Some of those things are arranged to stay busy, repair themselves and pass on instructions, and we call them alive. Others rest, like a seed, and some only borrow life, like a virus. The many look sharply different, but underneath they shade into each other.
+
+- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing at all.' The father says: from this nothing that you cannot see, the whole great banyan tree grows. (A dry seed looks like nothing is happening inside it. Yet a whole living tree waits there, resting.)
+- **Heraclitus, fragment 30 (Diels-Kranz numbering):** The Greek thinker Heraclitus said the world is like an ever-living fire, always burning and always changing, yet keeping its pattern. (A flame and a living body both keep their shape while new stuff flows through them. That is why fire is such a tricky case, and why life is so hard to define.)
+- **Rig Veda 10.129, the Nasadiya Sukta:** The hymn of creation asks how everything began, and ends with an honest question: perhaps even the one who watches from the highest heaven does not know. (Scientists still do not know how the first life came from non-living things. Saying 'we do not know' is part of being honest.)
+- Science (settled): Living things are made of the same kinds of atoms as non-living things, and most of those atoms were made in stars.
+- Science (open): How the very first life came from non-living chemicals is not known. There are ideas, like the RNA idea, and experiments, but no answer yet.
+- Other view, Many biologists: The line is not just our words. Cells and inherited instructions are a real difference in nature. Fire and crystals really lack them. A few in-between cases do not mean there is no line, just as dusk does not mean day and night are the same.
+- Practice, The sleeping seed (3 min): Let's be a seed. Curl up small on the floor, and hold one dry seed in your hand. Breathe in slowly. Breathe out slowly. Make your breath so small and quiet that you almost cannot feel it, like a resting seed. Stay very still while I count to twenty. Now imagine warm rain falling on you. Slowly, slowly, uncurl. Stretch one arm up like a shoot. Open your eyes. Were you alive the whole time you were still?
+- Ask: When you are fast asleep, how do you know you are still alive?
+- Ask: Is there anything in the world that is completely not alive? How could you be sure?
+- Ask: If the line between alive and not alive is drawn by people, who should get to draw it?
+- Ask: Part of you came from viruses long ago. Where do you end and the rest of the world begin?
 
 ## Deep and big questions
 - *deep:* If a seed can sleep for 1,300 years and still wake up, was it alive all that time? (hint: What would have to be inside it, all those years, for it to wake?)
@@ -453,13 +478,13 @@ In the morning my father found me standing at the window.
 - **record:** Draw a comic in three boxes: the virus drifting, the virus getting in, and the cell making copies.
 - **s1 (3 min)**  
   *Parent does:* Your child wears the paper cap and holds the note. Ask them to try to do the signs of life alone: eat, grow, move by themselves.  
-  *Parent says:* You are a virus now. You are just a note of instructions in a coat. Outside a cell, a virus cannot eat, grow, or move by itself. So stand perfectly still. The wind carries you.  
+  *Parent says:* You are a virus now. You are a tiny packet of instructions in a coat. Outside a cell, a virus does not eat or grow. So stand very still. The wind carries you, until you meet a cell.  
   *Child mode:* You are a virus. You are only a note in a coat. Alone, you can't eat or grow. Stand still. The wind carries you.
 - **s2 (3 min)**  
   *Parent does:* The parent is the cell, sitting by the box full of blocks. Your child drifts to the box and pushes the note through the door.  
-  *Parent says:* Now you bump into a living cell. You slip your instructions inside. The cell reads them, without knowing what they are.  
+  *Parent says:* Now you bump into a living cell. You slip your instructions inside. The cell reads them, just as it reads its own.  
   *Child mode:* You drift to the cell. Push your note through the door. The cell reads it.
-  - Note: Read the note aloud in a robot voice: 'Make more of me.'
+  - Note: Read the note aloud, slowly and clearly: 'Make more of me.'
 - **s3 (5 min)**  
   *Parent does:* The parent uses the blocks to build as many small 'virus' shapes as possible in one minute, then pushes them out of the door.  
   *Parent says:* Look. The cell is using its own building parts and its own energy to make copies of you. You did not do any of the work. Now the new viruses burst out to find more cells.  
@@ -760,7 +785,7 @@ In the morning my father found me standing at the window.
 - **Is there life on other planets or moons, like Mars, Europa or Enceladus?** We have only one example of life, on Earth. Missions are searching, but nothing has been found for sure yet.
 - **Could a machine or a computer program ever be alive?** Some programs copy themselves and change, and some machines can repair themselves. Whether that counts as life depends on whether life must be made of cells and chemistry.
 - **How long can a seed stay dormant and still wake?** Seeds of about 1,300 years old have grown. Nobody knows the true limit, and different seeds are very different.
-- **Do plants feel anything?** Plants respond and send electrical signals, as J.C. Bose showed. But nobody knows whether there is any feeling behind it.
+- **Do plants feel anything?** Plants respond and send electrical signals, as J.C. Bose showed. But nobody yet knows what plants feel, or how to test it.
 
 ## Questions to ask kids
 - Is this cup of tea alive? Is the steam? Why not?

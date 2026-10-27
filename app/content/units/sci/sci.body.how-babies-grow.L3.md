@@ -153,6 +153,31 @@ Human babies are born less ready than many animal babies. Scientists argue about
   For: Mothers read a story aloud many times before birth. After birth, their babies sucked in a way that showed they preferred that story to a new one.  
   Against: Some scientists say this is a simple getting-used-to a sound, not real remembering. How much a baby learns before birth is still argued about.
 
+## Roots
+We have been learning how a baby grows from one cell into a whole person. Now we ask what that tells us about ourselves and the world.
+
+**Deep truth.** You were never a separate thing that arrived. You grew out of another person, and out of the whole world, one cell at a time.  
+*Habit it breaks:* We think of 'me' and 'my mother' or 'me' and 'the world' as two different things with a clear line between them. But for nine months your blood fed on hers, her food became your bones, and you began as a cell from each of two people. There was no moment when a finished 'you' was added from outside.  
+*Evidence:* Every cell in you came from one first cell, built from food your mother ate, and a few of your cells may still live in her body.
+
+- *who am i:* You are a trillion cells that all came from one. You are one thing that became many.
+- *what is life:* Life is passed on, never started from nothing. Every living thing came from another living thing.
+- *what is this world:* The rice, dal and sunlight your mother took in became you. The world is not around you. It is in you.
+
+Before you, there was one cell. Before that, two cells from two people, each made from food, water, air and sunlight. DeepKids believes this is the One becoming the many: a single cell turns into skin, eyes, a beating heart and a mind that can wonder about it. Every one of your trillions of cells carries the same instructions, the same one, read in many ways. Nobody stops being part of the whole when they are born. They just begin to see it.
+
+- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to split a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that nothing you cannot see, this huge banyan tree grows. That is you.' (You began as one cell too small to see. Everything you are now grew out of it.)
+- **Thich Nhat Hanh, the idea of 'interbeing':** Look deeply at a sheet of paper and you can see the cloud, the rain and the tree inside it. Nothing exists all by itself. (Look deeply at a baby and you can see its mother's meals, the farmer's rice, the rain and the sun. A baby is made of everything.)
+- **Tao Te Ching 42:** The Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things. (One cell becomes two, two become four, and on and on, until there is a whole person.)
+- Science (settled): Every cell in your body came from one first cell, and almost every one has the same DNA.
+- Science (open): A few cells from a baby can live on in the mother's body for decades. What they do is not yet known.
+- Other view, Many biologists, and the Charvaka thinkers of ancient India: A baby is a wonderful result of cells, chemistry and food. There is no deeper One inside it, and nothing more is needed to explain it. That is an honest and respectful view.
+- Practice, Listen to the first drum (3 min): Let's sit quietly. Put one hand flat on your chest. Feel your heartbeat. Before you were born, you heard a heartbeat like this all day long, from the person who carried you. Breathe slowly with me, three times. Now put your other hand on your belly button. This is where you were once joined. Close your eyes. Who fed you before you had a name? Who feeds you now?
+- Ask: Where did the first cell of you come from, and where did that come from?
+- Ask: When you were inside the womb, were you one person or two?
+- Ask: If your body is made from food and sunlight, where do you end and the world begin?
+- Ask: Is there anything in you that did not come from somewhere else?
+
 ## Deep and big questions
 - *big:* You started as one cell. Are you still the same person as that cell? (hint: Almost nothing of that first cell is left. But you grew from it without ever stopping.)
 - *deep:* Every cell in your body has the same instructions. So why is an eye cell so different from a toe cell? (hint: Think of a cookbook. Two cooks with the same book can make different dishes.)
@@ -190,7 +215,7 @@ Tara did, and frowned down at her own tummy. Nani pressed one finger, very gentl
 
 "My belly button."
 
-"It is a mark," said Nani. "Before you were born, you lived inside a woman's womb. That is a stretchy bag of muscle in her tummy. You floated in warm water, curled up like a prawn. You could not eat. You could not breathe air. So she fed you. Her blood carried food and air to you, every minute of every day, for nine months. It came through a soft cord, joined to you right here. When you were born, the cord was cut. It does not hurt, because a cord has no feeling in it. This little mark is what is left. It says, somebody carried me. Somebody fed me before I had a name."
+"It is a mark," said Nani. "Before you were born, you lived inside a woman's womb. That is a stretchy bag of muscle in her tummy. You floated in warm water, curled up like a prawn. You could not eat. You could not breathe air. So she fed you. Her blood carried food and air to you, every minute of every day, for nine months. It came through a soft cord, joined to you right here. When you were born, the cord was cut. It does not hurt, because a cord has no nerves in it. This little mark is what is left. It says, somebody carried me. Somebody fed me before I had a name."
 
 Tara looked at her belly button as if she had never seen it before.
 
@@ -578,7 +603,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Tara
 12. (fill) When the cord is cut and the stump falls off, it leaves the ____.  
    **Answer:** ['belly button', 'navel']. *Why:* Your belly button is where your cord once joined you to the placenta.
 13. (truefalse) Cutting the umbilical cord hurts the baby.  
-   **Answer:** False. *Why:* False. The cord has no nerves, so the baby cannot feel it being cut.
+   **Answer:** False. *Why:* False. The cord has no nerves, so cutting it does not hurt the baby.
 14. (sort) Sort these. Can a baby do this before it is born, or only after?  
    **Answer:** kick → Before birth too; suck its thumb → Before birth too; get hiccups → Before birth too; breathe air → Only after birth; drink milk → Only after birth; hear sounds → Before birth too. *Why:* Babies in the womb move, suck, hiccup and hear. They cannot breathe air or drink milk until they are born.
 15. (truefalse) Every family is made the same way.  
@@ -637,7 +662,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Tara
 5. (write) Every cell has the same DNA. How do you think a cell knows whether to become a toe or an eye?  
    **Answer:** A good answer: the cells send each other chemical messages. A cell can tell where it is from how strong a message is around it. Then it reads the right part of its instructions.. *Why:* This is still being worked out by scientists. Any thoughtful answer that mentions messages between cells, or where the cell is, shows good thinking.
 6. (write) Is a person the same person as the cell they began as? Give a reason for yes and a reason for no.  
-   **Answer:** Yes: you grew from that cell without stopping, so it was the start of you. No: that cell had no thoughts, no memories and no body, so it was very different from you now.. *Why:* There is no single right answer. A good answer gives a reason on each side.
+   **Answer:** Yes: you grew from that cell without stopping, so it was the start of you. No: that cell had none of your memories and no body like yours, so it was very different from you now.. *Why:* There is no single right answer. A good answer gives a reason on each side.
 7. (mcq) Before about 1950, nobody could see a baby inside the womb. Which invention changed that?  
    Options: Ultrasound / The telescope / The X-ray of a hand / The thermometer  
    **Answer:** Ultrasound. *Why:* Ultrasound uses sounds too high to hear. They bounce off the baby and make a picture. Ian Donald, a Scottish doctor, published the first use of it for pregnancy in 1958.

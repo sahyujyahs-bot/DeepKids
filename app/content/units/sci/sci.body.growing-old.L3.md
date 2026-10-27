@@ -169,6 +169,31 @@ Some living things barely seem to age. Scientists study them to learn how ageing
   For: Some elders need a lot of care, especially when they are ill.  
   Against: Elders care for grandchildren, cook, teach, keep family memories and give advice. The grandmother idea says long-lived grandmothers helped human children survive. In killer whales, old grandmothers lead their families to food.
 
+## Roots
+We have been learning how a body changes over a whole life, from baby to elder. Now we ask what that tells us about ourselves and the world.
+
+**Deep truth.** Young and old are not two kinds of people. They are one life, seen at different times.  
+*Habit it breaks:* We sort people into 'children' and 'old people' as if they were different kinds of being. We also think of a body as one fixed thing. But every elder was a baby, every child is an elder on the way, and the body is rebuilt all the time while the person carries on.  
+*Evidence:* Your body makes about 4 million new cells every second, yet some cells, like those in the middle of your eye lens, have been with you since before you were born.
+
+- *who am i:* You are not your size, your skin or your hair. Those all change. Something in you stays and watches them change.
+- *what is life:* Life is a flow, not a thing. A body is always being taken apart and rebuilt, from birth to its end.
+- *what is this world:* In this world, everything has stages: seeds, mountains, stars and people. Nothing stays exactly the same.
+
+A body seems like one solid thing. But it is more like a river. New cells flow in and old ones flow out, every second, all your life. Babies become elders, and elders' atoms return to the soil to become plants and new life. DeepKids believes this is the One showing up as many: many stages, many faces, many lives, all one flowing life. The grandmother and the grandchild are that one life meeting itself.
+
+- **Bhagavad Gita 2.13:** The one who lives in this body passes through childhood, youth and old age. The wise are not confused by these changes. (The body changes at every stage, but the Gita says something in us stays the same through all of them. Science shows the body really does change, cell by cell.)
+- **Heraclitus, the Greek thinker, as quoted in Plato's Cratylus 402a:** You cannot step into the same river twice. The water is always new, yet we still call it the same river. (Your body is like the river. Its cells are always being replaced, but we still call it you.)
+- **Ecclesiastes 3:1–2, in the Hebrew Bible:** There is a time for everything. A time to be born and a time to die. A time to plant and a time to harvest. (Every life has its stages, in order. Each stage has its own work and its own beauty.)
+- Science (settled): Your body makes millions of new cells every second, mostly blood cells. Yet most brain cells and the cells at the centre of your eye lens stay with you all your life.
+- Science (settled): When a body dies, its atoms are not lost. They return to the soil, water and air, and become part of other living things.
+- Other view, The Buddha, and many neuroscientists today: The Buddha taught anatta, that there is no fixed self going through the stages. There is only the changing itself, moment to moment. Many neuroscientists also think 'you' is a pattern your brain makes, which changes as the brain changes. Both are honest views worth thinking about.
+- Practice, Hands across time (3 min): Let's put our hands flat on the table, side by side. Look at your hand. Now look at mine. Close your eyes and breathe in slowly. Picture your hand as a tiny baby's hand, curled up. Breathe out. Now picture it as an old person's hand, with soft lines and spots. Breathe in. It is the same hand. Open your eyes. Who is looking out through your eyes, at all these hands?
+- Ask: If all your cells change, what is it that stays 'you'?
+- Ask: Is the baby in your old photo you, or someone else?
+- Ask: What do you think you will know when you are 80, that you do not know now?
+- Ask: When an old tree falls and becomes soil for new trees, has it ended, or changed?
+
 ## Deep and big questions
 - *big:* Your grandparent was once a baby. Is the baby and the grandparent the same person? What stayed the same? (hint: Think about what changed: size, skin, hair, cells. Now think about what might not have changed.)
 - *deep:* If most of your cells are replaced, why do you still remember things from when you were four? (hint: Most cells in the thinking part of your brain stay with you all your life.)

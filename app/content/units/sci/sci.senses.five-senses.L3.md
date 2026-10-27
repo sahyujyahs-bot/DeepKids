@@ -189,6 +189,31 @@ Scientists can follow a sense all the way from a ripe mango to electric signals 
   For: Carrots have a substance the body turns into vitamin A. Without enough vitamin A, people really do get night blindness.  
   Against: Extra carrots do not give a healthy person better night vision than normal. The story was spread partly to hide the fact that British pilots were using radar.
 
+## Roots
+We have been learning how each sense catches the world and turns it into signals for the brain. Now we ask what that tells us about ourselves and the world.
+
+**Deep truth.** Every sense is the world touching you, and every touch becomes the same tiny electric signal.  
+*Habit it breaks:* We count five separate senses, and we think we look at the world from outside it, through windows. But light touches a molecule in your eye, air pushes the hairs in your ear, and spice molecules grip receptors in your nose. Seeing, hearing and smelling are all kinds of being touched. Five windows turn out to be one meeting between you and the world.  
+*Evidence:* A rod cell starts its signal when one particle of light changes the shape of one molecule. A hair cell starts its signal when its tuft is pushed. A smell cell starts its signal when a molecule fits its receptor. All three send the brain the same kind of electric pulse.
+
+- *who am i:* You are not looking at the world from behind your eyes. The world is touching you all the time, through every sense, and you are made of the same stuff as what touches you.
+- *what is life:* Every living thing senses something. A bacterium senses sugar, a bee senses ultraviolet, and you sense a mango. Being alive means meeting the world and answering it.
+- *what is this world:* The world is far bigger than any animal can sense. Each creature catches only a small part of it, and builds its own world from that.
+
+The air, the light and the mango seem to be out there, and you seem to be in here. But follow any sense down far enough and the line goes blurry. Light becomes a molecule changing shape inside you. A smell is part of the mango, travelling inside your nose. DeepKids believes that one awareness shows up as many senses, in many creatures, each catching its own part of the One. A bee, a bat and a child are three ways the world feels itself.
+
+- **Samyutta Nikaya 35.23, the Sabba Sutta (the Buddha's teaching on 'the All'):** The Buddha was asked, 'What is the All?' He named six pairs. The eye and what it sees. The ear and sounds. The nose and smells. The tongue and tastes. The body and touches. The mind and thoughts. That, he said, is the All. (The Buddha counted six senses, including the mind. Every world we know is made of a sense meeting what it senses. That is what this unit found: a receptor meeting light, air or a molecule.)
+- **Katha Upanishad 1.3.3 to 1.3.4:** The body is like a chariot. The senses are the horses, and the things they sense are the roads. The mind is the reins, and understanding is the driver. The Self, the one who experiences, rides in the chariot. (Senses carry signals in from the world, like horses running along roads. But the Upanishad asks: who is riding? Science can follow the signals into the brain, but it has not yet found the one who experiences them.)
+- **Tao Te Ching 12:** The five colours can blind the eye. The five notes can deafen the ear. The five flavours can dull the tongue. (In the Fading Coin activity, your skin stopped noticing a coin that stayed still. Senses tire of too much of the same. Quiet and stillness let them notice again.)
+- Science (settled): Every sense works by receptor cells catching something from the world and turning it into electric signals for the brain.
+- Science (open): Nobody knows how electric signals in the brain become experiences, like the taste of mango. This is sometimes called the hard problem of consciousness.
+- Other view, The Charvaka school of ancient India, and many brain scientists today: The Charvaka thinkers taught that what the senses perceive is the only sure way of knowing, and that awareness ends when the body ends. Many brain scientists today agree in their own way: awareness is something the brain does, and there is no One behind it. These are honest views, held by thoughtful people.
+- Practice, Circles of listening (3 min): Let's sit still and close our eyes. First, listen for the furthest sound you can hear. Maybe a horn, or a bird far away. Now listen for something nearer, inside the house. Now nearer still: the sound of your own breath. Now just stay still for a few breaths. All those sounds came to you, without you doing anything. Who is it that is hearing them?
+- Ask: When you hear a bird, is the sound out there in the tree, or in here inside you? Or both?
+- Ask: A bee, a bat and you all sense the same garden. Whose garden is the real one?
+- Ask: Your brain gets only electric signals. So who, or what, is tasting the mango?
+- Ask: If every sense is a kind of touch, is anything ever really far away from you?
+
 ## Deep and big questions
 - *big:* Your brain sits in the dark, and only gets electric signals. So where is the colour of a mango? In the mango, in your eye, or in your brain? (hint: Think about a bee. It sees ultraviolet patterns on flowers that you cannot. Which flower is the real one?)
 - *deep:* If every sense sends the same kind of electric signal, why does seeing feel so different from hearing? (hint: Think about where each signal goes in the brain. Is that enough to explain it?)
@@ -814,7 +839,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 ## Open questions
 - **How do electric signals in the brain become experiences, like the colour of a mango or the smell of rain?** Scientists can follow the signals into the brain, but nobody knows why they feel like anything at all. This is sometimes called the hard problem.
 - **Is the red you see the same as the red your friend sees?** You both call it red and point at the same things. But there is no way, so far, to compare the experiences themselves.
-- **What is it like to be a bat, or a bee, or a fish?** We can measure what their senses catch, but not what it feels like to them, or even whether it feels like anything.
+- **What is it like to be a bat, or a bee, or a fish?** We can measure what their senses catch, but not what it feels like to them.
 - **How many smells can people tell apart?** One team estimated at least a trillion. Others showed that the answer depends on the maths used. Nobody can test every mixture.
 - **Why can birds grow new hair cells in their ears, but people cannot?** Scientists are studying the genes that switch this on in birds, hoping one day to help people with hearing loss.
 - **Is there a sixth basic taste, such as fat?** Some tests suggest people can taste fat on its own. Scientists are still arguing about whether it counts as a basic taste.

@@ -529,7 +529,7 @@
   {
    "q": "Do the microbes in curd know they are living in milk?",
    "kind": "deep",
-   "hint": "What does it mean for a living thing to fit its habitat without knowing anything about it?"
+   "hint": "How might a tiny living thing know its home, without eyes or words?"
   }
  ],
  "story": {
@@ -1003,7 +1003,7 @@
        "Woodlice like the left side of a tray"
       ],
       "a": 0,
-      "why": "Most woodlice ended on the damp side, so they seem to choose damp places. That fits where we find them, under damp stones and pots. Picking 'by chance' would fit if they had spread out evenly, about 5 and 5. Picking 'the left side' is a good worry. That is why scientists swap the damp side and test again."
+      "why": "Most woodlice ended on the damp side, so they chose damp places. That fits where we find them, under damp stones and pots. Picking 'by chance' would fit if they had spread out evenly, about 5 and 5. Picking 'the left side' is a good worry. That is why scientists swap the damp side and test again."
      },
      "chart": {
       "type": "bar",

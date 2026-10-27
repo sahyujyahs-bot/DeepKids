@@ -363,7 +363,7 @@
    "status": "idea",
    "description": "A plant has no eyes and no skin like ours. But it has special molecules called photoreceptors that notice light. One family of them is called phytochrome. It works like a tiny switch. Red light flips it one way. Darkness, and the deep red light that filters through other leaves, slowly flips it back. So a seedling can tell if it is in the light, in the dark, or in the shade of other plants. In 2016, two teams of scientists found something surprising. Phytochrome flips back faster when it is warm. So the same molecule is a light sensor and a thermometer. Scientists think plants have other warmth sensors too. How they all work together is still being worked out.",
    "examples": [
-    "A seedling under a brick 'knows' it is dark and grows tall to escape.",
+    "A seedling under a brick knows it is dark and grows tall to escape.",
     "A plant in the shade of taller plants senses the changed light, and stretches up to get out of their shade."
    ],
    "perspectives": [
@@ -439,7 +439,7 @@
     },
     {
      "who": "Heidi Appel and Rex Cocroft, two scientists in the USA, in 2014",
-     "explanation": "Plants do respond to some vibrations. Thale cress plants that 'heard' a recording of caterpillars chewing made more of their bitter defence chemicals afterwards. So plants can sense some sounds, but this is not the same as liking music."
+     "explanation": "Plants do respond to some vibrations. Thale cress plants that heard a recording of caterpillars chewing made more of their bitter defence chemicals afterwards. So plants can sense some sounds, but this is not the same as liking music."
     }
    ],
    "art": "A child singing to a tulsi plant, with small question marks floating above: music? care? water? breath?",
@@ -1549,7 +1549,7 @@
     },
     {
      "t": "mcq",
-     "p": "A seedling under a brick 'knows' it is dark. What does it use to sense light?",
+     "p": "A seedling under a brick knows it is dark. What does it use to sense light?",
      "opts": [
       "Its eyes",
       "Special light-sensing molecules called photoreceptors, such as phytochrome",

@@ -170,6 +170,30 @@ On Earth, gravity pulls water down into the soil and around the roots. On the sp
   For: The clicks are real and were recorded from about 10 centimetres away. Some moths and mice hear sounds this high.  
   Against: Nobody has yet shown any animal or plant listening to these clicks or acting on them. They may just be a side effect of air bubbles forming.
 
+## Roots
+We have been following one drop of water from a plant's root to its leaf, and into the air. Now we ask what that journey tells us about ourselves and the world.
+
+**Deep truth.** Plants sense and respond without a brain. Thinking is older than neurons.  
+*Habit it breaks:* We say brain for thinking, like saying Xerox for every photocopier. A plant senses light, water and touch, and sends signals along its body.  
+*Evidence:* A plant turns towards light and lifts water to its top leaves with no pump.
+
+- *who am i:* The water in your body was once in clouds, rivers and trees.
+- *what is life:* A tree has no heart. The Sun's warmth lifts its water.
+- *what is this world:* The same water has gone round the world for billions of years.
+
+One drop of water climbs a tree, leaves as vapour, becomes a cloud and falls as rain. Then it climbs another tree, or flows into you. DeepKids believes this is the One moving through many shapes. The drop is never really separate. It is always part of one great water, passing through.
+
+- **Chandogya Upanishad 6.10:** Rivers flow east and west and reach the sea. In the sea, no river can say, 'I am this river.' They are all the sea. (The water in a leaf, a cloud and your glass is one water, moving on. It never stays one drop for long.)
+- **Tao Te Ching 8:** The best way is like water. Water helps all living things and does not fight. It flows to low places others avoid. (Water climbs every plant quietly, giving life, then lets go into the air.)
+- **Rumi, Masnavi, book 1, opening:** Listen to the reed flute. It was cut from the reed bed, and now it sings of wanting to return. (A reed is a hollow stem, like the tubes that carry water up a plant. Its song is air and emptiness.)
+- Science (settled): Water is pulled up a plant from the top. It sticks to itself like a chain of hands. As it leaves the leaves, it pulls more up behind it.
+- Science (open): How the tallest trees stop their water chains from snapping is still being worked out.
+- Other view, The Buddha: The Buddha taught that nothing has a fixed, lasting self. Many Buddhists would say there is no great water underneath, only changing drops, moment by moment.
+- Practice, Follow one sip (2 min): Let's pour a little water into a steel tumbler. Hold it and look at it for a moment. Now take one slow sip. Close your eyes and feel it go down. Breathe slowly. Where was this water before? A cloud? A river? A mango tree? Where will it go next?
+- Ask: Who does water really belong to?
+- Ask: A plant lets almost all its water go. Is letting go always a loss?
+- Ask: Is a drop of rain still itself when it reaches the sea?
+
 ## Deep and big questions
 - *deep:* A tree has no heart and no pump. How can it lift water higher than a house, every single day? (hint: Think about the line of children holding hands up the stairs. Who is doing the pulling?)
 - *deep:* Why does a thread of water not snap when it is pulled up a tall tree? (hint: Try floating a paperclip on water, or filling a tumbler until the water bulges over the top.)
@@ -722,7 +746,7 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
    **Answer:** About 11 times. *Why:* 116 divided by 10 is about 11.6, so about 11 times. Picking 100 times usually comes from adding the zero of 10 to the answer by mistake.
 4. (mcq) In 2023, scientists recorded thirsty tomato plants making tiny clicks. What do most scientists think causes the clicks?  
    Options: The plant is crying for help on purpose / Water threads snapping and air bubbles forming in the tubes / Insects inside the stem / Wind  
-   **Answer:** Water threads snapping and air bubbles forming in the tubes. *Why:* When a plant is very thirsty, its water threads are stretched very hard. Some snap, and a tiny air bubble forms with a click. Picking 'crying for help on purpose' is a big question nobody has answered. There is no evidence the plant means anything by it.
+   **Answer:** Water threads snapping and air bubbles forming in the tubes. *Why:* When a plant is very thirsty, its water threads are stretched very hard. Some snap, and a tiny air bubble forms with a click. Picking 'crying for help on purpose' is a big question nobody has answered. Whether the plant means something by it is still open.
 5. (truefalse) Scientists all agree on exactly how much of the rain over land comes from water that plants send up.  
    **Answer:** False. *Why:* False. One study in 2013 said plants send up about 80 to 90 out of every 100 drops rising from land. Later studies said about 60. They agree it is a big share, but not on the exact amount.
 6. (mcq) A redwood's leaves at the very top are much smaller than its lower leaves. What might that tell scientists?  

@@ -160,6 +160,31 @@ Scientists have learnt a huge amount about the immune system. But some big puzzl
   For: Colds are more common in the cold months. Some studies suggest that cold noses may fight viruses a little less well.  
   Against: A cold is caused by a virus. Without the virus, you cannot catch a cold however cold you get. In winter people also crowd indoors, which helps viruses spread.
 
+## Roots
+We have been learning how the body keeps germs out and fights the ones that get in. Now we ask what that tells us about who we are, and where 'me' ends.
+
+**Deep truth.** 'Me' is not a fixed thing behind a wall. The body decides, cell by cell and moment by moment, what belongs.  
+*Habit it breaks:* We think of me as everything inside my skin, and of germs as enemies outside. But about as many microbes live on and in you as your own cells, and many of them guard you. Your food comes from outside and becomes you. The immune system's real job is not to kill everything foreign. It is to keep deciding what belongs.  
+*Evidence:* White blood cells leave your friendly microbes, your food and your own cells alone, and attack germs. Even a single bacterium can tell its own self from a virus.
+
+- *who am i:* You are your own cells, and also trillions of tiny friends who help guard you.
+- *what is life:* Every living thing, from a bacterium to a neem tree to you, keeps an inside and an outside, and looks after the line between them.
+- *what is this world:* The world is not just 'out there'. It comes in with every breath and every bite, and the body welcomes most of it.
+
+DeepKids believes that everything is the One showing up as many. A living thing is a place where the many draws a line and says 'here is me'. But the line is never a solid wall. Air, food, water and microbes pass through it all the time and become part of us. The immune system is the body gently and constantly answering the question 'what is me?'. Its answer keeps changing.
+
+- **Isha Upanishad, verse 6:** One who sees all beings in the self, and the self in all beings, no longer turns away from anything in fear or dislike. (Your body does not attack everything from outside. It welcomes food, air and friendly microbes, and makes them part of you. It fights only what does harm.)
+- **Thich Nhat Hanh, 'interbeing', in his book The Heart of Understanding (1988):** Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing exists all by itself. (Look deeply at your body and you can see the curd you ate, the air you breathed and the microbes on your skin. You are made of what is not you.)
+- **Jain anekantavada, the story of the blind men and the elephant:** Each blind man touched one part of the elephant and was sure he knew the whole. Each was partly right. (Metchnikoff said cells fight germs. Ehrlich said chemicals do. They argued for twenty-five years, and they were both partly right.)
+- Science (settled): About as many bacteria live on and in a person as the person's own cells, and most of them are harmless or helpful.
+- Science (debated): How the immune system finally decides what is 'self' and what to attack, by learning self early or by listening for danger, is still argued about.
+- Other view, Many immunologists, and the Charvaka school of old India: The immune system is chemistry: shapes fitting shapes. 'Self' is just the set of shapes your body learnt not to attack. There is no deeper One behind it. Charvaka thinkers said only what we can perceive is real, and the self is the body. This is an honest view, and many careful people hold it.
+- Practice, Breathe the world in (3 min): Let's sit still and close our eyes. Breathe in slowly through your nose. Feel the cool air come in. That air was outside a moment ago. Now it is inside you. Breathe out slowly. Part of you is going back out into the room. Do it three more times. Each time, ask yourself quietly: where does the outside end, and where do I begin?
+- Ask: If the food you ate this morning is now part of you, when did it stop being 'not you'?
+- Ask: Are the friendly microbes on your skin part of you, or your guests?
+- Ask: Your body fights only what harms it, and welcomes the rest. Could people do that too?
+- Ask: Who decides what belongs: in a body, in a family, in a country?
+
 ## Deep and big questions
 - *big:* If about half the living cells on and in you are microbes, which part is really 'you'? (hint: Your friendly microbes help guard you and digest your food. Are they visitors, or part of you?)
 - *deep:* Your white blood cells fight for you every second, but you never feel them. What else is your body doing right now without asking you? (hint: Think about your heart, your breathing and your blinking.)

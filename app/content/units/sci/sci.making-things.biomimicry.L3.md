@@ -163,13 +163,37 @@ Biomimicry is still young. Scientists are trying many new ideas, and most are no
   For: The boxfish is a small reef fish that looks like a box. The car copied its shape, and in tests it slipped through the air very easily.  
   Against: Later, scientists studied real boxfish. They found the boxfish's shape helps it turn quickly, more than it helps it swim straight with little drag. The car never went on sale. Copying a living thing needs a careful look at what its shape is really for.
 
+## Roots
+We have been learning how people copy tricks from burrs, lotus leaves, kingfishers, geckos and termites. Now we ask what that tells us about ourselves and the world.
+
+**Deep truth.** What we call 'man-made' is nature too: the same rules of air, water and atoms shape the kingfisher, the dolphin and the bullet train.  
+*Habit it breaks:* We split the world into natural things and man-made things. But a train's nose and a kingfisher's beak are the same answer to the same push of water and air. And the person who copied the beak is a living thing too, shaped by the same billions of years of testing.  
+*Evidence:* Sharks, dolphins, kingfishers and ancient sea reptiles are not close relatives, yet they all grew the same pointed, smooth shape. Engineers testing train noses arrived at it too.
+
+- *who am i:* Your hands and your clever brain were shaped by nature, over billions of years. When you invent, a part of nature is inventing.
+- *what is life:* Life is like a huge workshop. Every plant and animal alive today is a design that has been tested for millions of years.
+- *what is this world:* The world runs on the same rules everywhere. That is why a bird's beak can teach a train.
+
+Before there was any life, there were only atoms and the rules they follow. From those few rules came countless shapes: hooks, waxy bumps, hairy toes, earth towers and pointed beaks. DeepKids believes this is the One showing up as the many. When a person looks closely at a burr and understands it, one part of the world is recognising another part. The idea passes from plant to person, the way one lamp lights another.
+
+- **Bhagavad Gita 5.10:** A person who works without clinging, offering the work to something greater, is not stained by wrong, just as a lotus leaf is not wetted by water. (The Gita used the lotus leaf as its picture about two thousand years before microscopes showed why water rolls off it. The leaf lives in the muddy pond, yet the mud does not cling.)
+- **Tao Te Ching 25:** People follow the ways of the Earth. The Earth follows the ways of Heaven. Heaven follows the Tao, the Way. The Way follows what is natural. (Biomimicry is people learning from the ways of the Earth, quite literally: an engineer watching a kingfisher to learn how to build a train.)
+- **Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing':** Look deeply at a sheet of paper and you can see the cloud, the rain and the tree inside it. Nothing exists all by itself. (Look deeply at a Velcro strap and you can see the burr, the dog, the mountain walk and the weaver who helped. The invention is made of all of them.)
+- Science (settled): Life on Earth has been changing for about 3.8 billion years. Every living design today comes from a long line of living things that survived. This is evolution.
+- Science (settled): Animals that are not related often evolve the same shape when they face the same problem. Scientists call this convergent evolution.
+- Other view, Many biologists and engineers: Evolution has no plan and no goal. A burr did not 'invent' anything. The seeds with better hooks just travelled further. People plan, imagine and choose. So human invention is something new and different, not nature inventing again. That is an honest view.
+- Practice, Watch one drop (3 min): Let's take a lotus or arbi leaf, or the sooty spoon, or a candle-waxed paper. I'll put one drop of water on it. Hold it very still. Breathe in slowly. Now tilt it, just a little, and breathe out slowly as the drop rolls. Watch it go all the way. Look at the leaf. Is it wet? Let's do it once more, in silence.
+- Ask: Is a bullet train natural or man-made? Where would you draw the line?
+- Ask: If a burr gave us Velcro, who should get the credit: the burr, the dog or the engineer?
+- Ask: Can a person be like a lotus leaf, living in the world without its mud sticking to them? What would that look like?
+
 ## Deep and big questions
 - *big:* A burr's hooks gave us Velcro. Should the burr get any credit? Who should own an idea that came from nature? (hint: Think about George de Mestral's ten years of work. Then think about the plant's millions of years.)
 - *big:* Is a bullet train natural or man-made? Where exactly would you draw the line? (hint: The train is made by people. People are made by nature. The nose was copied from a bird.)
 - *deep:* Why does a lotus leaf stay clean, when a shiny steel plate does not? (hint: Look at a lotus or arbi leaf with a magnifying glass. Is it really smooth?)
 - *deep:* Sharks, dolphins and kingfishers are not close relatives. Why do they share the same pointed shape? (hint: What problem do they all have to solve?)
 - *deep:* How can something as tiny as the pull between atoms hold up a whole gecko? (hint: Think about one strand of thread, and then a thick rope made of millions of strands.)
-- *big:* If nature has been testing designs for 3.8 billion years, does that make nature wise? (hint: Can something be clever without thinking? Can a river be clever when it finds the easiest way downhill?)
+- *big:* If nature has been testing designs for 3.8 billion years, does that make nature wise? (hint: Is cleverness only the kind that happens in a head? What kind of cleverness does a river have when it finds the easiest way downhill?)
 - *big:* Plants and animals are dying out faster than ever because of people. What designs might we lose before we even see them? (hint: Scientists have named less than a quarter of the kinds of living things on Earth, by many estimates.)
 - *big:* Is it fair to copy a living thing's trick and not give anything back to it? (hint: What could people do for lotus ponds, geckos and termites, in return?)
 - *big:* The Bhagavad Gita says a wise person is like a lotus leaf in water. What could that mean? (hint: The leaf lives in the muddy pond, yet the mud does not stick to it.)

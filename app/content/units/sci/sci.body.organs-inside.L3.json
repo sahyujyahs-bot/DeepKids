@@ -358,7 +358,7 @@
    "examples": [
     "Mini-guts grown from a sick child's cells can be used to test which medicine works best for that child.",
     "Scientists have built machines that pump blood for people waiting for a new heart.",
-    "Mini-brains in a dish do not think. They are far too small and simple."
+    "Mini-brains in a dish are far too small and simple to work like a whole brain."
    ],
    "perspectives": [],
    "art": "A small round lab dish holding a few tiny pink blobs, with a scientist looking at them through a microscope.",
@@ -1295,7 +1295,7 @@
      "t": "write",
      "p": "Some scientists call the gut 'the second brain'. Give one reason for this name, and one reason some scientists do not like it.",
      "lines": 4,
-     "a": "For: the gut has about 500 million nerve cells, and it can run its own squeezing without the brain. Against: the gut's nerves do not think or plan, so calling them a brain can confuse people.",
+     "a": "For: the gut has about 500 million nerve cells, and it can run its own squeezing without the brain. Against: some scientists say the gut's nerves do not think or plan, so the name confuses people.",
      "why": "This is a debated idea. A good answer gives both sides."
     },
     {
@@ -3046,7 +3046,7 @@
   },
   {
    "j": "Why did the sponge feel calm?",
-   "a": "It had no brain to worry with."
+   "a": "It just soaked everything up."
   },
   {
    "j": "Why did the stomach write a diary?",

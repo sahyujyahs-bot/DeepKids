@@ -145,6 +145,31 @@ Animals that live in cities face noise, bright lights and new foods. Some seem t
   For: Feeding can help animals in hard times, like a hot summer or a flood.  
   Against: Feeding monkeys teaches them to grab food from people. Bread and sweets can make birds and animals ill. Clean water in summer is usually safer and kinder than food.
 
+## Roots
+We have been learning about the animals that live around us, their habits and their homes. Now we ask what they tell us about ourselves and the world.
+
+**Deep truth.** There is no line where nature ends and our home begins.  
+*Habit it breaks:* We split the world into 'the wild', far away in forests, and 'our town', where people live. But crows build with our wire, a koel grows up in a crow's nest, and leopards walk through Mumbai at night. Our home is one of many homes, all built from the same world.  
+*Evidence:* In ten minutes at one window, most children find many wild animals living in and on their own building.
+
+- *who am i:* You are an animal too. You have habits, a home and a body clock, like the crow outside.
+- *what is life:* Life keeps making homes from whatever is near: twigs, mud, wax, silk, and even our lost hair clips.
+- *what is this world:* The world is one big shared home. Every wall, tree and drain is somebody's house.
+
+A neem tree, a family's lost wire, two crows' work and a koel's egg became one nest. Nothing in it belonged to only one owner. DeepKids believes this is the One showing up as many: one world, taking the shape of countless homes and countless lives. When we watch a crow quietly for a week, we are the world watching another part of itself. The more closely we look, the harder it is to say where one home ends and another begins.
+
+- **Isha Upanishad, verse 1:** Everything in this moving world is filled with the one Lord. So enjoy it by sharing, and do not grab what belongs to others. (Our building is also the pigeons' cliff and the gecko's hunting ground. If all of it is one, sharing the space is the natural way to live.)
+- **Acaranga Sutra, Book 1, Lecture 2, Lesson 3 (Jain teaching):** All beings love their lives. They like comfort and dislike pain. They want to live. To every being, its life is dear. (This is why we watch kindly. The crow guarding her chicks wants them to live, just as a parent does.)
+- **Thich Nhat Hanh, The Heart of Understanding (1988), on interbeing:** Look deeply at a sheet of paper and you can see a cloud, the rain and the tree in it. Nothing exists all by itself. (Look deeply at a crow's nest and you see the neem tree, the city's wires and a family's lost things. A home is made of everything around it.)
+- Science (settled): People and all other animals share one family tree. We are animals, related to the crow and the ant.
+- Science (idea): Cities are habitats too. Many wild animals have lived alongside people for thousands of years, and some may be slowly changing as they adapt to city life.
+- Other view, René Descartes, a French philosopher, and many people today: Humans are truly different from other animals. We have language, reason and laws, and animals do not. So it is right for people to keep towns for people, and wild animals in forests, for the safety of both. This is an honest view held by many thoughtful people.
+- Practice, Count the neighbours (3 min): Let's sit very still and close our eyes. For one minute, just listen. Each time you hear an animal, quietly lift one finger. Now open your eyes and count your fingers. Now listen once more, to your own breath going in and out. You are one more animal, breathing in this place. Who else is breathing here with us?
+- Ask: Where does your home end and the crow's home begin?
+- Ask: If a koel can grow up in a crow's nest, what makes a family?
+- Ask: Who was living here before your building was built?
+- Ask: Are you watching the animals, or are they also watching you?
+
 ## Deep and big questions
 - *big:* If a crow builds its nest with wire from your house, whose home is the nest? (hint: Think of the tree, the wire, the crow's work and the chicks.)
 - *big:* Is a city a natural place, or not? (hint: Ants build cities too. Is an anthill natural?)

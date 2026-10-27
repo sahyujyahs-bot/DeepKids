@@ -2063,7 +2063,7 @@
        "Your skin's colour"
       ],
       "a": 0,
-      "why": "The hypothalamus compares your warmth with 'just right' and decides what to do. Sweat glands are the actors: they do what the brain decides. Picking sweat glands is close, because they are part of the loop. But they act, they do not decide."
+      "why": "The hypothalamus compares your warmth with 'just right' and decides what to do. Sweat glands are the actors: they do what the brain decides. Picking sweat glands is close, because they are part of the loop. Their job in this loop is to act on the brain's message."
      },
      "context": "This is the last step of the Thermostat Hunt. You draw a feedback loop for a machine and for your body."
     }
@@ -2633,7 +2633,7 @@
     "Your hair"
    ],
    "a": 0,
-   "why": "The hypothalamus compares your warmth with the set point and decides. Sweat glands act, but they do not decide.",
+   "why": "The hypothalamus compares your warmth with the set point and decides. Sweat glands act on the brain's message.",
    "outcome": 3
   },
   {

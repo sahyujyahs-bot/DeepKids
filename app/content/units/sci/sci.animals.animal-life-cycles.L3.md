@@ -92,7 +92,7 @@ Scientists sort life cycles into three kinds. In the first kind, the baby looks 
 - e.g. Egg, nymph, adult: grasshopper, cockroach, dragonfly.
 - e.g. Egg, larva, pupa, adult: butterfly, silkworm moth, mosquito, ladybird, honeybee.
 ### Why change at all? Two lives in one · *idea*
-Why would an animal go to all the trouble of rebuilding its body? Scientists have some good ideas. One idea is that each stage does a different job. A caterpillar is an eating machine. A butterfly is a flying machine for finding mates and new plants. Another idea is that the young and the adults do not compete for food. Tadpoles eat slime in water. Frogs eat insects on land. So they do not take food from each other. A third idea is that it helps the family spread out. Caterpillars cannot travel far, but butterflies can fly to new places. These ideas fit what we see. But nobody can go back in time to watch how it began.
+Why would an animal go to all the trouble of rebuilding its body? Scientists have some good ideas. One idea is that each stage does a different job. A caterpillar's job is eating. A butterfly's job is flying to find mates and new plants. Another idea is that the young and the adults do not compete for food. Tadpoles eat slime in water. Frogs eat insects on land. So they do not take food from each other. A third idea is that it helps the family spread out. Caterpillars cannot travel far, but butterflies can fly to new places. These ideas fit what we see. But nobody can go back in time to watch how it began.
 - e.g. A caterpillar eats leaves. A butterfly drinks nectar. They never fight over food.
 - e.g. Tadpoles live in water and frogs on land, so they use two different homes.
 - e.g. Mosquito wrigglers eat tiny bits in water. Adult mosquitoes fly and drink plant juices, and females also drink blood to make eggs.
@@ -124,7 +124,7 @@ A life cycle is a circle of animals. But the material in them goes round in a bi
 - e.g. The calcium in an eggshell came from the hen's food, and before that from rocks.
 - e.g. Scientists agree that the carbon and oxygen in your body were made in stars.
 ### What nobody knows yet · *idea*
-There is still a lot to find out about life cycles. Scientists are not sure how complete metamorphosis first began, more than 300 million years ago. One idea is that the caterpillar is like a baby that hatched very early and grew outside the egg. We do not know exactly how waiting cells inside a caterpillar know which part to become. We are not sure how much a butterfly remembers of being a caterpillar. And we cannot know what, if anything, being a chrysalis feels like.
+There is still a lot to find out about life cycles. Scientists are not sure how complete metamorphosis first began, more than 300 million years ago. One idea is that the caterpillar is like a baby that hatched very early and grew outside the egg. We do not know exactly how waiting cells inside a caterpillar know which part to become. We are not sure how much a butterfly remembers of being a caterpillar. And we do not yet know what being a chrysalis feels like.
 - e.g. Fossils show insects with pupae lived more than 300 million years ago.
 - e.g. Scientists are still testing which memories survive in moths and beetles.
 - e.g. Some frogs skip the tadpole stage, and scientists study why.
@@ -156,6 +156,31 @@ There is still a lot to find out about life cycles. Scientists are not sure how 
 - **If you touch a tadpole or a caterpillar, it will die.** (Something many children are told.; *rejected*)  
   For: It is true that soft young animals are easily hurt. Tadpoles need wet skin, and squeezing a caterpillar can harm it.  
   Against: A gentle touch with a wet hand or a soft brush does not usually kill them. But it does stress them, so look, don't handle. Soap, sunscreen or salt on your hands can harm a tadpole's skin.
+
+## Roots
+We have been learning how a tadpole becomes a frog and a caterpillar becomes a butterfly. Now we ask what that change tells us about ourselves and the world.
+
+**Deep truth.** A living body is not a fixed thing. It is a pattern that keeps rebuilding itself out of the world.  
+*Habit it breaks:* We think 'the same' means 'not changed', and we think a caterpillar and a butterfly are two different things. But the butterfly is built out of the caterpillar, which was built out of leaves. What stays the same is the life, not the stuff.  
+*Evidence:* A tadpole's tail is broken down and used to build its legs and lungs. A caterpillar and its butterfly have exactly the same genes, but two completely different bodies.
+
+- *who am i:* You were once a single cell. Almost every bit of you has been built since, from food. You are still you.
+- *what is life:* Life is something that keeps taking itself apart and building itself again, like a tadpole using its own tail.
+- *what is this world:* The world lends its atoms to a leaf, a caterpillar, a butterfly and the soil, and takes them back, round and round.
+
+A caterpillar seems to end, and a butterfly seems to begin. But nothing ends. The same life, with the same genes, simply takes a new shape. Leaves become caterpillar, caterpillar becomes butterfly, butterfly becomes soil, and soil becomes leaves. DeepKids believes this is the One showing up as the many, one life wearing many bodies, the way one sea makes many waves.
+
+- **Zhuangzi, chapter 2 (Discussion on Making All Things Equal), the butterfly dream:** Zhuangzi, a Chinese thinker, dreamed he was a butterfly, happily fluttering. He woke up and was Zhuangzi again. Then he wondered: was he a man who had dreamed he was a butterfly, or a butterfly now dreaming he was a man? He said this is called 'the changing of things'. (A caterpillar becomes a butterfly and is still one living thing. Zhuangzi asks whether 'me' is as fixed as it feels.)
+- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing, sir.' Uddalaka says that from this fine, unseen thing the whole great banyan tree grows. 'That is the truth. You are that.' (A wing begins as a tiny patch of waiting cells you cannot see in a caterpillar. Something too small to see holds a whole new shape.)
+- **Heraclitus, quoted by Plato in Cratylus 402a:** Heraclitus, a Greek thinker, said that everything flows. You cannot step into the same river twice, because new water is always flowing in. (A body is like a river. The water changes, but the river goes on. A tadpole's material changes, and the frog goes on.)
+- Science (settled): A caterpillar and the butterfly it becomes have exactly the same genes. Hormones switch on different instructions at different times.
+- Science (settled): Your own body rebuilds itself all the time. Your red blood cells last about four months and are then replaced.
+- Other view, Many biologists, and the Charvaka thinkers of ancient India: Metamorphosis is just genes and hormones doing chemistry, step by step. It is wonderful, but it needs no One behind it. Charvaka thinkers said only matter is real. This is an honest view held by many careful people.
+- Practice, Chrysalis breath (3 min): Let's curl up small on the floor, like a chrysalis. Close your eyes. Breathe in slowly, and out slowly, five times. Be very still. On the outside, nothing is happening. But inside you, your heart is beating, and your blood is carrying food to build you. Now, very slowly, uncurl. Stretch your arms out wide, like new wings. Are you the same you who curled up?
+- Ask: If almost every bit of you is new since you were a baby, what makes you still you?
+- Ask: Is a butterfly the end of a caterpillar, or the caterpillar carrying on?
+- Ask: Where were the atoms of your hand before they were in you?
+- Ask: When a butterfly dies and becomes soil, has its life ended or changed shape?
 
 ## Deep and big questions
 - *deep:* Where does a tadpole's tail go? (hint: It does not fall off. Look again at the card on metamorphosis. What is the tail used for?)
@@ -560,7 +585,7 @@ She thought that she should write to Farida about it. She thought that when she 
   *Child mode:* With a grown-up, find an egg or a tiny caterpillar. Put it with fresh leaves in a cage. You are borrowing it.
 - **s2 (5 min)**  
   *Parent does:* Every day: 1. Put in a fresh sprig. 2. Shake out the droppings. 3. Hold a ruler beside the caterpillar without touching it. 4. Write its length and one thing you noticed.  
-  *Parent says:* A caterpillar is an eating machine. Let's see how much it grows. Measure it every day, without touching.  
+  *Parent says:* A caterpillar spends its days eating. Let's see how much it grows. Measure it every day, without touching.  
   *Child mode:* Every day: fresh leaves, clean the cage, measure the caterpillar. Write one line in your diary.
   - Wait: Do this every day for about 18 days
 - **s3 (5 min)**  

@@ -201,7 +201,7 @@
   {
    "concept": "Hair and nails: dead, yet growing",
    "status": "defined",
-   "description": "Why does a haircut not hurt? Because the hair you can see has no feeling. Living cells at the root, under the skin, keep making new hair and push the old hair out. Hair grows about 1 centimetre a month. Fingernails grow about 3 millimetres a month. Toenails grow about half as fast. Hair keeps your head warm and shades it from the sun. Eyebrows stop sweat dripping into your eyes. Nails protect your fingertips and help you pick up small things. To care for them, wash and comb your hair. Cut nails short and straight, and keep them clean, because dirt and germs hide under long nails.",
+   "description": "Why does a haircut not hurt? Because the hair you can see has no nerves. Living cells at the root, under the skin, keep making new hair and push the old hair out. Hair grows about 1 centimetre a month. Fingernails grow about 3 millimetres a month. Toenails grow about half as fast. Hair keeps your head warm and shades it from the sun. Eyebrows stop sweat dripping into your eyes. Nails protect your fingertips and help you pick up small things. To care for them, wash and comb your hair. Cut nails short and straight, and keep them clean, because dirt and germs hide under long nails.",
    "examples": [
     "Your hair grows back after a haircut, but the cut never hurts.",
     "A cut fingernail grows long again in a few weeks.",
@@ -1188,7 +1188,7 @@
      "t": "write",
      "p": "Hair and nails are dead, but they are part of you. Are they alive? Explain your answer.",
      "lines": 4,
-     "a": "A thoughtful answer, for example: the part I see is dead, because it has no feeling. But it was made by living cells, and it is still growing out from a living root. So it is part of a living body, even if it is not alive itself.",
+     "a": "A thoughtful answer, for example: the part I see is dead, because it has no nerves. But it was made by living cells, and it is still growing out from a living root. So it is part of a living body, even if it is not alive itself.",
      "why": "There is no single right answer. The line between living and non-living is not always clear."
     },
     {
@@ -2402,7 +2402,7 @@
        "Because you cut it quickly"
       ],
       "a": 0,
-      "why": "The nail you see is made of dead cells packed with keratin. Living cells at the root, under the skin, make new nail and push it out. So the cut part has no feeling. Picking 'no cells at all' is close, but nails are made of cells, just dead ones. Picking 'quickly' misses why: speed does not stop pain."
+      "why": "The nail you see is made of dead cells packed with keratin. Living cells at the root, under the skin, make new nail and push it out. The cut part has no nerves, so cutting it does not hurt. Picking 'no cells at all' is close, but nails are made of cells, just dead ones. Picking 'quickly' misses why: speed does not stop pain."
      },
      "how": "p1",
      "parent": "Children's nails usually grow a little faster than older grown-ups'. Expect about 1 to 2 millimetres in two weeks. Fingernails grow about 3 millimetres a month on average."

@@ -188,6 +188,31 @@ Scientists know about 390,000 species of plants. About 2,000 new ones are named 
   For: In 1997, Simard and her team showed that some carbon passed between trees through fungi joined to their roots.  
   Against: In 2023, other scientists looked again at the studies. They said the evidence that trees really help each other this way is weaker than the popular story says.
 
+## Roots
+We have been learning to sort plants into trees, shrubs, herbs, climbers and creepers. Now we ask what these kinds tell us about ourselves and the world.
+
+**Deep truth.** Tree, shrub, herb and climber are names for ways of growing. Nature draws no walls between them.  
+*Habit it breaks:* We think our names are real boxes, and that every plant lives inside one. We also sort plants into useful and useless. But a banana has no wood, bamboo is a grass as tall as a tree, and wood appeared again and again in plant families that are not related. The boxes are ours. The plant is one life finding its own way to the light.  
+*Evidence:* Tulsi starts as a soft herb and becomes a woody shrub. A banana plant looks like a tree but is a giant herb. Trees grew from many separate plant families, and a banyan with a thousand trunks is still one plant.
+
+- *who am i:* Like a plant, you are not one fixed box. You change shape as you grow, and you lean on others to reach the light.
+- *what is life:* Life finds many ways to reach the same sun: standing tall, spreading wide or climbing on a friend.
+- *what is this world:* A world where everything leans on something. Your food, clothes, chair and shade all came from plants.
+
+All plants come from one shared ancestor that lived long ago. From that one beginning came grasses and giant trees, soft herbs and climbing vines. They are the many forms of one life, all reaching for one sun. DeepKids believes this is the One showing up as the many. When we name a tree or a shrub, we are drawing a line around one shape of that one life.
+
+- **Chandogya Upanishad 6.12:** A father, Uddalaka, asks his son to break open a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that nothing you cannot see, this great banyan tree grows. That is you.' (A whole banyan, with its thousand trunks, comes from one tiny seed. The many trunks are one tree, and the tree is in the seed.)
+- **Thich Nhat Hanh, The Heart of Understanding (1988), on a sheet of paper:** Look deeply at a sheet of paper. You can see the tree it came from, the rain that fed the tree, and the sunshine. Without them, there would be no paper. (Everything in your home made from plants still holds the tree, the soil, the rain and the sun inside it.)
+- **Jain teaching of anekantavada, many-sidedness, and the story of the blind men and the elephant:** Each blind man touches one part of an elephant and says it is a rope, a wall or a tree trunk. Each is partly right. No one sees the whole. (A gardener sees a weed, a cook sees a herb, a bee sees food, a botanist sees a species. Each view is part of the same plant.)
+- Science (settled): All plants alive today, and all animals including us, share one ancestor that lived more than a billion years ago.
+- Science (settled): Being a tree is a way of growing, not one family. Plants from many unrelated families became trees on their own.
+- Other view, Many botanists: The kinds are not just our names. A tree's trunk really is a different way of living from a herb's soft stem, and these ways really evolved. Saying the boxes are 'ours' can hide that they point at something true. And there is no need for any One behind it all. Plants share an ancestor, and that fully explains why they are related.
+- Practice, Lean on something (3 min): Let's stand up straight, with our feet together and our eyes closed. Notice how your body sways a little, all by itself. Now open your eyes and gently lean one hand on a wall. Feel how still you become. Breathe in slowly, and breathe out. A climber leans on a tree like this. Now think of one thing that holds you up today. It could be the floor, your food, or someone who loves you.
+- Ask: Is a banana plant a tree, a herb, or just a banana plant?
+- Ask: What do you lean on, the way a pepper vine leans on a tree?
+- Ask: Is any plant useless? Useless to whom?
+- Ask: If all plants came from one ancestor, are the neem and the tulsi a kind of family?
+
 ## Deep and big questions
 - *deep:* Is a banana plant a tree? Who decides what counts as a tree? (hint: Think about what a tree's trunk is made of. Then think about who made up the word 'tree'.)
 - *deep:* Why doesn't every plant grow into a big tree, if trees get the most light? (hint: Wood costs a plant a lot of food. What could a plant do with that food instead?)
@@ -196,7 +221,7 @@ Scientists know about 390,000 species of plants. About 2,000 new ones are named 
 - *big:* Could people live on Earth without plants? Could plants live without people? (hint: Think about food, air, clothes and shade. Then think about what plants needed before people existed.)
 - *big:* Who decides whether a plant is a weed? (hint: Is it the plant, the bee that visits it, or the person who owns the garden?)
 - *big:* Healers in villages knew about medicine plants long before scientists tested them. Who should get the credit, and who should get paid, when a medicine is made? (hint: Think of the healer, the scientist who tested it and the company that sells it.)
-- *big:* If a plant could choose, would it want to be useful to us? (hint: Some plants, like mango, grew tastier because people chose the best ones for thousands of years.)
+- *big:* If you could ask a plant, would it want to be useful to us? (hint: Some plants, like mango, grew tastier because people chose the best ones for thousands of years.)
 - *big:* Why do so many cultures think certain trees are special, like the peepal, the banyan or the khejri? (hint: Think of how old these trees can be, how big, and what they give to people and animals.)
 - *deep:* How many kinds of plants exist that nobody has ever seen? (hint: Where on Earth do few people go? What might grow there?)
 - *deep:* Wood stores the energy of sunlight for years. When we burn wood, where does that energy go? (hint: Hold your hands near a fire. What do you feel? Where did that warmth start?)

@@ -160,6 +160,30 @@ People have long said that nature has a balance: if nothing disturbs it, every a
   For: Only about a tenth of the energy passes up each step. So plants eaten by people feed about ten times more people than the same plants fed to animals first.  
   Against: Some land, like steep hills and dry grassland, cannot grow crops, but goats, sheep and cattle can graze it. Animal foods also give some nutrients that are harder to get from plants alone. So the exact numbers depend on the place.
 
+## Roots
+We have been learning who eats whom, and how food passes from plant to animal to animal. Now we ask what that passing tells us about ourselves and the world.
+
+**Deep truth.** There is no top of the food chain. Every eater is fed by others, and in the end feeds others.  
+*Habit it breaks:* We draw food chains as ladders, with the 'weakest' at the bottom and a 'king' at the top. But the tiger needs the grass far more than the grass needs the tiger. And when the tiger dies, beetles, fungi and in the end the grass eat it. The ladder is really a circle.  
+*Evidence:* Only about a tenth of the food passes up each step. So one tiger needs about 500 prey animals, and they need whole meadows of grass. When India's vultures disappeared, the food they ate went to dogs instead, and people paid the price.
+
+- *who am i:* You are built from things that ate other things, all the way back to sunlight on a leaf.
+- *what is life:* Life is food being passed along. Every living thing is fed by others, and feeds others in the end.
+- *what is this world:* The world is a web. Pull one thread, and threads far away move too.
+
+At the start there is one stream of sunlight. Plants catch it, and it splits into the many: grass and grasshopper, frog and snake, deer and tiger. Each looks separate. But the same energy runs through them all, and the same atoms are passed from body to body and back to the soil. DeepKids believes this is the One becoming the many, and the many returning to the One. A food web is what that flow looks like up close.
+
+- **Bhagavad Gita 3.14 to 3.16:** Living beings grow from food. Food grows from rain. Rain comes from giving. The Gita calls this a wheel that has been set turning, and says that whoever takes from it without giving back lives in vain. (A food web is a wheel of giving and taking. Every eater takes from the web, and every body is given back to it in the end.)
+- **The Lakota phrase Mitákuye Oyás'iŋ, 'all my relatives', from the Lakota people of North America:** Lakota people say these words to mean that every living thing, the animals, plants, rivers and stones, is a relative. (In a food web, the grass, the deer and the tiger are joined so closely that harming one harms the others, like a family.)
+- **Tao Te Ching 77:** The way of heaven takes from what has too much and gives to what has too little. (When deer are many, tigers eat well. When deer are few, tigers go hungry and the deer recover. Scientists argue about whether nature truly balances, but many people have seen it this way.)
+- Science (settled): The atoms in living things are used again and again by plants, animals and decomposers. The energy passes through only once, and leaves as heat.
+- Science (debated): Places with more kinds of living things, and more links between them, often recover better after a drought or a disease. Scientists still argue about when this is true.
+- Other view, Daniel Botkin, an American ecologist, and many ecologists today: There is no plan or balance in nature. Food webs are made by chance, hunger and change, and they shift all the time. Eating is just eating. You do not need any idea of oneness to explain it. That is an honest view.
+- Practice, The breath you share (3 min): Let's sit still and close our eyes. Breathe in slowly. Now breathe out slowly onto your palm and feel it, warm. In that breath are tiny bits of carbon from the food you ate today. A tree outside may take some of them in this afternoon. Breathe in again. Some of what you breathe in was breathed out by a tree. Let's do three more slow breaths, giving and taking.
+- Ask: If a tiger eats a deer, and the deer ate grass, whose atoms are in the tiger?
+- Ask: Is there anything that is never, in the end, someone else's food?
+- Ask: If you were taken out of the web, who would notice?
+
 ## Deep and big questions
 - *deep:* If a tiger eats a deer, and the deer ate grass, is the tiger partly made of grass? (hint: Think about where the tiger's atoms came from. Did any of them come from the tiger itself?)
 - *deep:* Where does the energy go when a frog hops? Can it ever come back? (hint: Run on the spot for one minute. Where does your warmth go afterwards?)

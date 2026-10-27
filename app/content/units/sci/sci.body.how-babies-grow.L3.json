@@ -472,7 +472,7 @@
    "Tara did, and frowned down at her own tummy. Nani pressed one finger, very gently, on her belly button.",
    "\"Do you know what this is?\"",
    "\"My belly button.\"",
-   "\"It is a mark,\" said Nani. \"Before you were born, you lived inside a woman's womb. That is a stretchy bag of muscle in her tummy. You floated in warm water, curled up like a prawn. You could not eat. You could not breathe air. So she fed you. Her blood carried food and air to you, every minute of every day, for nine months. It came through a soft cord, joined to you right here. When you were born, the cord was cut. It does not hurt, because a cord has no feeling in it. This little mark is what is left. It says, somebody carried me. Somebody fed me before I had a name.\"",
+   "\"It is a mark,\" said Nani. \"Before you were born, you lived inside a woman's womb. That is a stretchy bag of muscle in her tummy. You floated in warm water, curled up like a prawn. You could not eat. You could not breathe air. So she fed you. Her blood carried food and air to you, every minute of every day, for nine months. It came through a soft cord, joined to you right here. When you were born, the cord was cut. It does not hurt, because a cord has no nerves in it. This little mark is what is left. It says, somebody carried me. Somebody fed me before I had a name.\"",
    "Tara looked at her belly button as if she had never seen it before.",
    "\"Now give me your hand,\" said Nani. She turned Tara's palm up, under the kitchen light. \"Look at the tips of your fingers. Look very closely.\"",
    "Tara looked. There were tiny lines, curving and looping, like the rings in a cut tree, or ripples in a pond.",
@@ -2128,7 +2128,7 @@
      "t": "truefalse",
      "p": "Cutting the umbilical cord hurts the baby.",
      "a": false,
-     "why": "False. The cord has no nerves, so the baby cannot feel it being cut."
+     "why": "False. The cord has no nerves, so cutting it does not hurt the baby."
     },
     {
      "t": "sort",
@@ -2433,7 +2433,7 @@
      "t": "write",
      "p": "Is a person the same person as the cell they began as? Give a reason for yes and a reason for no.",
      "lines": 4,
-     "a": "Yes: you grew from that cell without stopping, so it was the start of you. No: that cell had no thoughts, no memories and no body, so it was very different from you now.",
+     "a": "Yes: you grew from that cell without stopping, so it was the start of you. No: that cell had none of your memories and no body like yours, so it was very different from you now.",
      "why": "There is no single right answer. A good answer gives a reason on each side."
     },
     {

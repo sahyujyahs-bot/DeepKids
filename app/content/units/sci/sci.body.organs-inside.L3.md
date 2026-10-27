@@ -135,7 +135,7 @@ For thousands of years, nobody could see inside a living body. The ancient Egypt
 Scientists can now grow tiny bits of organs in a dish, from a person's own cells. They are called organoids. In 2013, Madeline Lancaster and her team grew tiny 'mini-brains' the size of a lentil. Others have grown mini-stomachs and mini-guts. These help scientists test medicines and understand illnesses. Nobody can yet grow a full working heart, lung, stomach or brain to put into a person. Scientists hope this may happen one day, but nobody knows when.
 - e.g. Mini-guts grown from a sick child's cells can be used to test which medicine works best for that child.
 - e.g. Scientists have built machines that pump blood for people waiting for a new heart.
-- e.g. Mini-brains in a dish do not think. They are far too small and simple.
+- e.g. Mini-brains in a dish are far too small and simple to work like a whole brain.
 
 ## Mostly agreed
 - The heart is in the middle of the chest, tipped a little to the left, and it pumps blood around the body. *How we know:* Doctors can see it beating with ultrasound. In 1628, William Harvey measured how much blood the heart pushes out and showed that blood goes round and round.
@@ -163,6 +163,31 @@ Scientists can now grow tiny bits of organs in a dish, from a person's own cells
 - **We have found all the organs in the body.** (Many people, and older textbooks; *debated*)  
   For: People have studied bodies closely for hundreds of years.  
   Against: In 2016, a surgeon called J. Calvin Coffey argued the mesentery, a folded sheet holding the intestines, should count as one organ. In 2018, scientists argued that a web of fluid-filled spaces, the interstitium, could be one too. Others say these are new names, not new organs.
+
+## Roots
+We have been learning where the heart, lungs, stomach and brain are, and what they do. Now we ask what these organs tell us about ourselves and the world.
+
+**Deep truth.** No organ lives alone. Each organ is a team of cells, and every cell still does a little of every organ's job.  
+*Habit it breaks:* We think of the body as separate parts, like a machine, with the brain as the boss. But the heart starts its own beat, the gut has its own net of nerve cells, and every single cell breathes, eats and senses. The lines between organs are drawn by us. The body is one living whole that shares out its jobs.  
+*Evidence:* Heart cells in a dish beat by themselves. A sponge has no organs at all, yet every cell in it breathes and eats. And no organ in you can last more than a few minutes without the others.
+
+- *who am i:* You are not just your brain. You are a heart, two lungs, a stomach, a brain and trillions of cells, all working as one.
+- *what is life:* Life is cells sharing out jobs, and still each doing a little of everything.
+- *what is this world:* Fish, cows, octopuses and you share the same plan inside, because all animals come from the same beginning.
+
+Long ago, life was single cells, and each cell did every job alone. Over a very long time, cells joined into bodies and shared out the work. Some became squeezing heart cells, some became spongy lung cells, some became message-carrying nerve cells. DeepKids believes this is the One becoming the many: one life showing up as many organs, and many organs still acting as one. Your organs never argue about who is most important. Each one simply does its part for the whole.
+
+- **Chandogya Upanishad 5.1:** The senses and breath once argued about which of them was the greatest. Speech, sight, hearing and mind each left the body in turn, and the body carried on. When breath, prana, began to leave, all the others were pulled up with it. They agreed breath was the one they all depended on. (Like the organs in this unit, each part matters, but none can live alone. The story asks what holds them all together.)
+- **Saint Paul, First Letter to the Corinthians 12:12–26:** The body is one, though it has many parts. The eye cannot say to the hand, 'I don't need you.' If one part suffers, every part suffers with it. (Scientists see the same thing. When the heart stops, the brain is hurt within minutes. When the lungs struggle, every organ struggles.)
+- **Thich Nhat Hanh, the idea of interbeing:** Look deeply at one thing and you find everything else inside it. A sheet of paper holds the cloud, the rain and the tree. (Look deeply at your heart and you find the oxygen from your lungs, the food from your stomach and the messages from your brain, all inside it.)
+- Science (settled): All animals with backbones share an ancient ancestor. That is why a fish and a child have a brain in a skull, a heart in front and a gut below, and why lungs and swim bladders began as one thing.
+- Science (open): Nobody knows how a brain makes the feeling of being someone. Scientists and philosophers call this the hard problem.
+- Other view, Most brain scientists, and the old Indian Charvaka school: You are your brain and body, and nothing more. When the body stops, the self stops too. The teamwork of organs is amazing, but it needs no One behind it. That is an honest view, and many thoughtful people hold it.
+- Practice, Listening to the team (3 min): Let's sit very still and close our eyes. Put one hand on your chest. Feel your heart. Nobody is telling it to beat. Now feel your breath going in and out. Now feel your tummy, quiet and warm. Notice that your brain is noticing all of this. Stay with them all for five slow breaths. Is there one of you in there, or many?
+- Ask: Who is beating your heart? Is it you?
+- Ask: If you are made of many organs, are you one thing or many things?
+- Ask: When you breathe in air that a tree breathed out, where do you end and the tree begin?
+- Ask: Which part of you is noticing all your other parts?
 
 ## Deep and big questions
 - *deep:* Your heart has beaten every second since before you were born. Who is making it beat? Is it you? (hint: Can you stop your heart just by deciding to? Can you hold your breath? What is the difference?)
@@ -745,7 +770,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 7. (odd) Which is the odd one out, and why? Heart, lungs, stomach, gills.  
    **Answer:** Gills. *Why:* We have hearts, lungs and stomachs. Gills belong to fish. They are the fish's breathing organs, doing the job our lungs do.
 8. (write) Some scientists call the gut 'the second brain'. Give one reason for this name, and one reason some scientists do not like it.  
-   **Answer:** For: the gut has about 500 million nerve cells, and it can run its own squeezing without the brain. Against: the gut's nerves do not think or plan, so calling them a brain can confuse people.. *Why:* This is a debated idea. A good answer gives both sides.
+   **Answer:** For: the gut has about 500 million nerve cells, and it can run its own squeezing without the brain. Against: some scientists say the gut's nerves do not think or plan, so the name confuses people.. *Why:* This is a debated idea. A good answer gives both sides.
 9. (write) Every cell in your toe uses oxygen. So why do you need lungs at all?  
    **Answer:** My toe is far from the air. Oxygen cannot reach it by itself. The lungs take oxygen into the blood, and the heart pumps the blood all the way to my toe.. *Why:* Big bodies need organs to share out jobs. A tiny sponge cell can get oxygen straight from water.
 10. (write) Aristotle thought the heart did our thinking. What evidence shows that the brain does?  
@@ -880,7 +905,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - What did the doctor say to the lungs? *Take a deep breath. You're doing great.*
 - Why was the brain so tired? *It had been thinking all night, even in its sleep.*
 - What did one heart cell say to the other? *Let's beat it, together.*
-- Why did the sponge feel calm? *It had no brain to worry with.*
+- Why did the sponge feel calm? *It just soaked everything up.*
 - Why did the stomach write a diary? *It wanted to keep track of everything that went down.*
 - What's a brain's favourite game? *Mind-reading.*
 - Why did the X-ray machine see right through the joke? *It was too thin.*

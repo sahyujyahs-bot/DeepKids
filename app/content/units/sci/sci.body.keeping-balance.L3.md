@@ -166,6 +166,31 @@ In 1868, a German doctor called Carl Wunderlich said normal body temperature is 
   For: Like homeostasis, it says health is balance, and it pays close attention to heat, cold, food, water and sleep.  
   Against: Scientists have not found doshas as things that can be measured in the body. Science measures temperature, water, salt and sugar instead. Treatments must be tested carefully either way.
 
+## Roots
+We have been learning how the body keeps itself just right, by sweating, shivering and feeling thirsty. Now we ask what this steady balance tells us about ourselves and the world.
+
+**Deep truth.** Staying the same is something you do, not something you are.  
+*Habit it breaks:* We think of a body as a fixed thing, like a stone. But a body is more like a flame or a river. Heat, water and atoms flow through it all the time, and it stays 'you' only because it keeps balancing that flow.  
+*Evidence:* A cup of chai cools to the room, but you stay near 37 degrees. You do it by making heat, letting heat and water go, and drinking more, every minute of the day.
+
+- *who am i:* You are not a still thing. You are a balance, kept up every second, like a flame that stays the same shape.
+- *what is life:* Life is staying just right while the world keeps pushing. A cell, a bee hive and a lotus all do it.
+- *what is this world:* The world is full of flows: sun to skin, skin to air, rain to sea. You are one steady swirl inside them.
+
+From far away, a river looks like one still thing. Up close, it is always new water. Your body is like that. The same heat that warms the sun warms your food, then you, then the air around you. DeepKids believes this is the One showing up as many swirls, each keeping its own balance for a while, none ever cut off from the rest. Your sweat drying into the air is you and the world trading places, a little at a time.
+
+- **Bhagavad Gita 2.14:** Krishna says that cold and heat, pleasure and pain, come from the senses touching the world. They come and go. They do not last. Learn to bear them steadily. (Outside, heat and cold come and go. Inside, your body keeps you steady at about 37 degrees. The Gita asks if something in us can be steady like that too.)
+- **Anguttara Nikaya 6.55, the Buddha's teaching to Sona:** Sona, a monk who used to play the vina, was trying far too hard. The Buddha asked him: if the strings are too tight, does the vina play well? If they are too loose? Only strings tuned just right make music. Balance your effort the same way. (Your body does not aim for as hot as possible or as cold as possible. It aims for just right, and keeps tuning, like a vina.)
+- **Heraclitus, in Plato's Cratylus 402a:** Heraclitus, a Greek thinker, said you cannot step into the same river twice, because new water is always flowing. (Your body is always swapping water, heat and atoms with the world. Yet it stays you, because it keeps its balance.)
+- Science (settled): Even sitting still, your body gives off about as much heat as an old 100 watt bulb. You stay steady only by constantly making heat and letting it go.
+- Science (settled): Living things stay ordered and different from their surroundings by taking in energy and giving out heat. Erwin Schrödinger wrote about this in 1944.
+- Other view, Many biologists, and Charvaka thinkers in old India: Homeostasis is just chemistry and feedback loops. A thermostat keeps balance too, and nobody thinks it is wise. Walter Cannon called his book The Wisdom of the Body, but that was a figure of speech. There is no need for any One behind it. This is an honest view.
+- Practice, Cooling breath (3 min): Let's sit tall and still. Curl your tongue into a little tube, or if you can't, just open your lips a little. Breathe in slowly through your mouth. Feel how cool the air is on your tongue. Now close your mouth and breathe out slowly through your nose. Let's do that five times. Your tongue felt cool because the air was drying it, like sweat on skin. Now just sit and notice. Is your body hot, cold or just right? You didn't have to do anything to stay just right. Who is doing it?
+- Ask: If the water, heat and atoms in you keep changing, what stays the same?
+- Ask: Who keeps you just right while you sleep?
+- Ask: When your sweat dries into the air, is it still part of you?
+- Ask: Can you be steady inside when things around you are too hot or too cold?
+
 ## Deep and big questions
 - *deep:* Sweat comes out as warm as you are. So how can it cool you down? (hint: Think about wet clothes drying on a line. Where does the water go, and what does it take with it?)
 - *deep:* Why do you shiver even when you don't want to? (hint: Who decides to shiver? Is it you, or a part of you that works without asking?)
@@ -664,7 +689,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
    **Answer:** It checks again, and stops when things are just right. *Why:* A feedback loop checks again. If you kept sweating for ever, you would get too cold and lose too much water.
 8. (mcq) Which part of you is the 'decider' for sweating and shivering?  
    Options: The hypothalamus in your brain / Your sweat glands / Your stomach / Your hair  
-   **Answer:** The hypothalamus in your brain. *Why:* The hypothalamus compares your warmth with the set point and decides. Sweat glands act, but they do not decide.
+   **Answer:** The hypothalamus in your brain. *Why:* The hypothalamus compares your warmth with the set point and decides. Sweat glands act on the brain's message.
 9. (mcq) Remember the sweaty tumbler test, with a wet cloth and a dry cloth on two tumblers of warm water by a fan? Why did we use the same tumblers and the same water?  
    Options: To make it a fair test, so only the wet cloth was different / To save washing up / Because the fan needs it / So the water would boil  
    **Answer:** To make it a fair test, so only the wet cloth was different. *Why:* In a fair test, you change only one thing. Then you know that thing caused the difference. Here, it was the wet cloth.

@@ -174,6 +174,29 @@ In the early 1600s, Jan Baptist van Helmont showed that a tree is not made of so
   For: Trees are built from carbon dioxide. Growing forests do take carbon out of the air and lock it in wood for a long time.  
   Against: People now put carbon dioxide into the air far faster than new trees could take it up. Trees also burn or rot one day, and give their carbon back. Most scientists say planting trees helps, but we must also burn much less coal, oil and gas.
 
+## Roots
+We have been learning how a leaf makes food from air, water and sunlight. Now we ask what that tells us about ourselves and the world.
+
+**Deep truth.** You are made of sunlight and air.  
+*Habit it breaks:* We think food comes from the shop or the farm. But almost every bite began as sunlight caught by a leaf and air turned into sugar.  
+*Evidence:* Most of a tree's weight comes from carbon dioxide in the air, not from the soil.
+
+- *who am i:* The energy in your breakfast came from sunlight caught by a leaf.
+- *what is life:* Almost all life runs on sunlight that leaves have turned into food.
+- *what is this world:* A giant tree is built mostly from air, held together by sunlight.
+
+You breathe out, and a tree breathes in. The tree breathes out, and you breathe in. Sunlight, air and water become a leaf, then a mango, then you. DeepKids believes this is the One flowing through many forms. A tree and a child are not two strangers. They are one breath, passed back and forth.
+
+- **Taittiriya Upanishad 3.2:** The boy Bhrigu searches for what everything comes from. First he finds: food. From food all beings are born, by food they live, and into food they return. (Almost all food begins as sugar made in a leaf. Food links the Sun, the plant and you in one chain.)
+- **Tattvartha Sutra 5.21:** This Jain teaching says that living beings support one another. (Plants give us oxygen and food. We give them carbon dioxide to build with. We keep each other alive.)
+- Science (settled): A tree's wood is made mostly from carbon dioxide taken from the air, not from the soil.
+- Science (debated): Some scientists think leaves use a quantum trick to move light energy very fast. Others doubt it. Either way, a leaf is very skilled at catching light.
+- Other view, Many biologists: Many biologists say a leaf is wonderful chemistry, and nothing more. Life works through atoms and energy. They see no need for a One behind it.
+- Practice, Breathe with a plant (3 min): Let's sit near a plant, a tulsi or any green leaf. Look at one leaf closely. Breathe out slowly towards it. The leaf can use what you breathe out. Breathe in slowly. Some of the oxygen you breathe in was made by leaves. Breathe like this five times, in and out, with the plant.
+- Ask: Are you and a tree really separate?
+- Ask: Are you, in a way, running on sunshine?
+- Ask: Who owns a mango: the land owner, or the sun and rain?
+
 ## Deep and big questions
 - *deep:* If a tree is made mostly of air, why can't you see it being built? (hint: Can you see the carbon dioxide you breathe out? Things can be real and still invisible.)
 - *deep:* The energy in your breakfast came from the Sun. So are you, in a way, running on sunshine? (hint: Follow your roti back: wheat, leaf, sunlight. Where did the Sun get its energy?)

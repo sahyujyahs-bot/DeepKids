@@ -163,6 +163,31 @@ To protect a habitat, should we keep people out of it, or should we let the peop
   For: Almost all food chains on Earth start with plants, which need sunlight to make food.  
   Against: At deep sea vents, and deep inside rocks, bacteria make food from chemicals, with no sunlight at all. Whole communities live on them.
 
+## Roots
+We have been learning about habitats, the places that give living things what they need. Now we ask what habitats tell us about ourselves and the world.
+
+**Deep truth.** There is no line where a living thing ends and its habitat begins.  
+*Habit it breaks:* We say an animal lives 'in' a habitat, as if the habitat were a box and the animal a separate thing inside it. But the air, water and food of the habitat pass through the animal every minute, the animal changes the place, and the animal is itself a habitat for smaller lives.  
+*Evidence:* Your body is home to about as many bacteria as it has human cells. A forest's leaves give the air the water that falls back as its rain. A bare sandbar became a forest because plants and animals changed it.
+
+- *who am i:* You are a living thing with a habitat, and you are a habitat yourself, for trillions of tiny lives.
+- *what is life:* Life is always taking from a place and giving back to it: breathing in, breathing out, eating, making soil.
+- *what is this world:* The world is not a stage with living things on it. It is one huge habitat, and the living things are part of how it works.
+
+Water falls as rain, flows through a river, is pulled up by a tree and breathed out by its leaves, and falls again. The same water passes through the pond, the frog, the forest and you. DeepKids believes this is the One showing up as many: many habitats and many living things, made of one shared flow of water, air and sunlight. Each one looks separate. Look closer, and each is a meeting place of all the others.
+
+- **Isha Upanishad, verse 1:** Everything in this moving world is filled with the One. So enjoy the world by not grabbing it. Do not covet what belongs to others. (A habitat is shared by everyone who lives in it. When one living thing takes too much, as people do when they cut a whole forest, everyone in that habitat loses.)
+- **Thich Nhat Hanh, The Heart of Understanding (1988), on a sheet of paper:** Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. The paper is made of things that are not paper. (A forest is made of things that are not forest: river water, sunlight, ants, bird droppings, elephants. A habitat is made of everything in it.)
+- **Aldo Leopold, A Sand County Almanac (1949), 'The Land Ethic':** We should see ourselves not as conquerors of the land, but as plain members and citizens of the community of soil, water, plants and animals. (People are members of habitats, not owners of them. That is why habitat loss harms us too.)
+- Science (settled): Trillions of bacteria live in and on the human body, about as many as our own cells. Many help us digest food and fight germs.
+- Science (settled): Forests give water to the air through their leaves. Over big forests like the Amazon, a large share of the rain comes from the forest itself.
+- Other view, Many ecologists and scientists: An animal and its habitat are different things, and keeping them apart helps us study them clearly. Saying they are 'one' is a feeling, not something we measure. Water and air passing through us does not make us the same as the river or the sky.
+- Practice, What passes through me (3 min): Let's sit still and close our eyes. Breathe in slowly. That air was breathed out by trees and by tiny sea plants. Breathe out. Now some of you goes into the air, for a tree to use. Take a sip of water. That water was once rain, and a river, and maybe a cloud over a forest. Now press your feet on the floor. Feel the ground hold you. For one more breath, just notice: where do you end, and where does your habitat begin?
+- Ask: Where do you end, and where does your habitat begin?
+- Ask: If you are a habitat for tiny lives, are they part of you?
+- Ask: Does a forest belong to the people, the animals, or no one?
+- Ask: What do you give back to the places that give you what you need?
+
 ## Deep and big questions
 - *deep:* Is there any place on Earth where nothing at all lives? (hint: Scientists keep finding life in very hot springs, deep rock and Antarctic ice. What would a place need to lack for nothing to live there?)
 - *big:* If your body is a habitat for trillions of microbes, are they part of you, or are they guests? (hint: Some of them help you digest food. You could not live well without them.)
@@ -174,7 +199,7 @@ To protect a habitat, should we keep people out of it, or should we let the peop
 - *deep:* Could there be living things in the ocean under the ice of Enceladus, a moon of Saturn? (hint: Remember the deep sea vents, where life lives with no sunlight.)
 - *big:* Is a city a habitat? For whom? (hint: Think of crows, pigeons, rats, geckos and the microbes in drains.)
 - *big:* When a habitat is destroyed, where do its animals go? (hint: Some move. Some cannot. What happens when there is nowhere left to move to?)
-- *deep:* Do the microbes in curd know they are living in milk? (hint: What does it mean for a living thing to fit its habitat without knowing anything about it?)
+- *deep:* Do the microbes in curd know they are living in milk? (hint: How might a tiny living thing know its home, without eyes or words?)
 
 ## Story: What the Sandbar Learned to Give
 *Jadav Payeng is real. He began planting on a bare sandbar of the Brahmaputra in 1979, when he was about sixteen, after a flood. The dead snakes on the shadeless sandbar, the bamboo, the red ants he carried from his village, and the elephants, deer, rhinos and tigers that came later are all from his own accounts and from news reports. The forest is now called the Molai forest, after his nickname. The river's voice, the old man's words, what Jadav said and the small details of each day are imagined.*

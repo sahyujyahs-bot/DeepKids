@@ -149,6 +149,29 @@ After heavy rain, you often see earthworms lying on paths and roads. Earthworms 
   For: The tiny energy parts inside our cells, called mitochondria, use oxygen just like some bacteria do. They even have their own little bit of DNA, like bacteria.  
   Against: At first, most biologists thought the idea was strange and unlikely. But DNA tests later showed that mitochondria really did come from bacteria that moved into bigger cells long ago.
 
+## Roots
+We have been learning how animals breathe and find food. Now we ask what breathing tells us about ourselves and the world.
+
+**Deep truth.** Breathing is not something only lungs do. Every cell breathes, and every breath is a swap with the whole living world.  
+*Habit it breaks:* We say 'lungs' or 'gills' for breathing, and we think the air outside is separate from the body inside. But lungs, gills and skin are only doors. The breathing happens in every cell, and the air in you a moment ago is now outside, on its way to a tree.  
+*Evidence:* An earthworm has no lungs and breathes through its skin. A fish breathes through gills. They all do the same thing: let oxygen through a thin, damp wall to every cell. And the oxygen itself was breathed out by plants and tiny sea algae.
+
+- *who am i:* You are millions of millions of breathing cells, working together. Some of their tiny parts were once free-living bacteria.
+- *what is life:* Life is a constant swap. Animals take in oxygen and give out carbon dioxide. Plants take in carbon dioxide and give out oxygen.
+- *what is this world:* The air is shared by everything that breathes. The same air has been in fish, frogs, trees and people.
+
+DeepKids believes that the One shows up as the many. Breathing shows it plainly. There is one need, for oxygen, and it shows up as many doors: lungs, gills, damp skin, tiny air pipes. Behind every door, the same thing happens in every cell. And the air itself is one air, passed from plant to animal to plant, around the whole Earth.
+
+- **Chandogya Upanishad 5.1:** Speech, sight, hearing and mind once argued about which of them was the greatest. Each one left the body for a year, and the body carried on. Then breath, prana, began to leave, and all the others were pulled along with it. They agreed that breath was the greatest. (Every animal, whatever its doors, depends on breath first. Without oxygen reaching its cells, no sense and no thought can work.)
+- **Kabir, in Robert Bly's version, The Kabir Book (1977):** Kabir asks: what is God? And he answers: the breath inside the breath. (Inside each breath is a breath we never feel: oxygen passing into every cell. Kabir points at something even deeper, inside that.)
+- Science (settled): Almost all the oxygen in the air was made by living things that use sunlight: tiny ocean living things first, more than two billion years ago, then plants. Today, roughly half still comes from algae in the sea.
+- Science (settled): The tiny energy parts inside our cells, mitochondria, which use the oxygen we breathe, came from bacteria that started living inside bigger cells long ago.
+- Other view, The Charvaka school of ancient India, and many scientists today: Breathing is chemistry: gases passing through walls. It is wonderful, but it needs no One behind it. Body and air are simply different bits of matter meeting. That is an honest view, and it explains breathing well.
+- Practice, Ocean breath (3 min): Let's sit tall and close our eyes. Breathe in slowly through your nose while I count to four. Now breathe out slowly while I count to six, like a soft wave. Again. As you breathe out, imagine your breath going out of the window, to a tree. As you breathe in, imagine the tree's breath coming back to you. Let's do five breaths together. Now open your eyes. Where is your breath now?
+- Ask: Where does your breath stop being yours?
+- Ask: If the same air has been in fish, trees and people, are we all sharing one breath?
+- Ask: An earthworm has no lungs, but it breathes. What does it mean to breathe?
+
 ## Deep and big questions
 - *deep:* If a fish has gills that take oxygen from water, why does it die in air, which has much more oxygen? (hint: Think of a wet paintbrush taken out of water. What happens to its soft hairs?)
 - *deep:* Where was the oxygen in your last breath a week ago? (hint: Who puts oxygen into the air? Think of trees, grass and the green stuff in ponds and seas.)

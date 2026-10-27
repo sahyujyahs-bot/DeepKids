@@ -117,7 +117,7 @@ The parent plant's leaves took in carbon dioxide from the air and water from the
 - e.g. Sprout seeds in the dark for a week, then dry them in the sun. They weigh less than the same number of dry seeds that were never sprouted.
 - e.g. The energy in the chana you eat also came from sunlight, stored by the chana plant.
 ### How a seed knows when to wake · *idea*
-Some seeds wake as soon as they are wet. Others wait for a sign that the time is right. Some wait for a long cold winter. Some wait until a fire has passed. In 2004, Gavin Flematti and his team in Australia found the chemical in smoke that wakes many such seeds. Some seeds have a coat so hard that it must be scratched, or pass through a bird's belly, before water can get in. Scientists understand parts of how seeds sense these signs. How a seed 'decides', using many signs at once, is still being worked out.
+Some seeds wake as soon as they are wet. Others wait for a sign that the time is right. Some wait for a long cold winter. Some wait until a fire has passed. In 2004, Gavin Flematti and his team in Australia found the chemical in smoke that wakes many such seeds. Some seeds have a coat so hard that it must be scratched, or pass through a bird's belly, before water can get in. Scientists understand parts of how seeds sense these signs. How a seed decides, using many signs at once, is still being worked out.
 - e.g. Many Himalayan wildflower seeds sprout only after they have been through a cold winter.
 - e.g. Some plants of Australia and South Africa sprout in great numbers after a bush fire.
 - e.g. Gardeners rub very hard seeds with sandpaper, or nick them, so that water can get in.
@@ -156,6 +156,30 @@ In 1971, an astronaut called Stuart Roosa carried about 500 tree seeds around th
 - **Seeds sprout better if you sow them at the right phase of the Moon.** (Some farmers and gardeners around the world, following old planting calendars; *minority*)  
   For: The custom is very old. Some people believe the Moon pulls water in the soil, like it pulls the sea.  
   Against: The Moon's pull on a little patch of soil is far too tiny to move its water. Careful tests have not found a clear effect. Many farmers still follow such calendars, and they may help in other ways, like keeping planting on time.
+
+## Roots
+We have been learning how a seed wakes up when water, warmth and air reach it. Now we ask what a seed tells us about ourselves and the world.
+
+**Deep truth.** Life does not start from nothing. A seed is old life, paused and passed on.  
+*Habit it breaks:* We sort things into alive and dead, and say a life 'begins' when a seed sprouts. But a dry seed is already alive, breathing very slowly. Its baby plant was built by its parent and packed with its parent's food. Sprouting is a waking, not a beginning.  
+*Evidence:* A dry moong seed seems as dead as a pebble. Give it water, warmth and air, and in a day it breathes fast enough to warm a flask. A boiled seed never does.
+
+- *who am i:* You also grew from something tiny, made and fed by those before you. Your life is a carrying on, too.
+- *what is life:* Life can wait. A seed can sleep for years, then wake when water, warmth and air arrive.
+- *what is this world:* Nothing grows alone. A sprout is a seed meeting water, warmth, air and the Sun's old energy in its lunch.
+
+Inside a tiny seed is a whole plant, folded small, waiting. The parent plant packed it with sunlight stored as food. When water, warmth and air reach it, the One life that was resting in it unfolds into roots, shoots and leaves. DeepKids believes this is the One becoming the many, again and again. One seed becomes a tree, the tree makes a thousand seeds, and the same life carries on through all of them.
+
+- **Chandogya Upanishad 6.12:** A father, Uddalaka, asks his son Shvetaketu to split a banyan seed. 'What do you see?' 'Nothing at all.' The father says: from this finest thing that you cannot see, the great banyan tree grows. That fine essence is in everything. And you are that. (When you split a bean, the baby plant is so small you can hardly see it. Yet a whole plant grows from it. The Upanishad uses a seed to point at what is hidden in everything, including you.)
+- **Salistamba Sutra (the Rice Seedling Sutra), on outer dependent arising:** A sprout does not come from the seed alone. It comes when the seed meets earth, water, warmth, air, space and the right season. The seed does not think 'I make the sprout', and yet the sprout comes. (This old Buddhist teaching names almost exactly what the five-cup test found. Take away water, warmth or air, and no sprout comes. A sprout is a meeting of many things.)
+- **Mencius, Book 2A, chapter 2:** A farmer from the state of Song was worried his young plants were growing too slowly. So he pulled on each one to help it grow. When his son ran to look, the plants had all withered. (You cannot make a seed sprout by pushing it. You can only give it water, warmth and air, and wait. Growing has its own time.)
+- Science (settled): All living things alive today come from earlier living things, in an unbroken line going back billions of years. No seed, plant or animal has been seen to start from non-living matter.
+- Science (open): A dry seed's cells are not dead. They are still whole, with their repair tools ready, and breathe at a tiny rate. Exactly how close to 'stopped' life can get, and still restart, is being studied.
+- Other view, Many biologists: A seed is a brand new plant, not old life carrying on. It has its own new mix of genes from two parents, so it is a different individual. They see no need for a One life flowing through it, and that is an honest view.
+- Practice, Be a waiting seed (3 min): Let's sit and curl up small, like a dry seed. Close your eyes. Breathe so slowly and softly that nobody could tell. Feel how still you are, but alive inside. Now imagine warm rain soaking in. Take one big, slow breath, and let your body uncurl a little. Where did your breath come from? Who gave you your very first food?
+- Ask: When did your life begin? Is there a clear start?
+- Ask: A seed waits, sometimes for years, until the rain comes. What are you waiting for?
+- Ask: Is a sprout the same plant as the seed it came from, or a new one?
 
 ## Deep and big questions
 - *deep:* A dry seed sits in a jar for a year, doing nothing. Is it alive the whole time? How could you prove it? (hint: What happens to a boiled seed when you soak it? What happens to an unboiled one?)
@@ -768,7 +792,7 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 
 ## Open questions
 - **How long can a seed stay alive?** Some have sprouted after 2,000 years. Nobody knows the real limit, and it is different for every kind of seed. Experiments like Beal's bottles take centuries.
-- **How does a seed 'decide' when to wake?** Seeds sense water, warmth, light and some chemicals. How they add all these signals together is still being worked out.
+- **How does a seed decide when to wake?** Seeds sense water, warmth, light and some chemicals. How they add all these signals together is still being worked out.
 - **Why do some seeds of the same plant wake at once, and others wait for years?** Scientists think it spreads the risk, like not putting all your eggs in one basket. How each seed is set to wait is not fully known.
 - **How do seeds repair the damage of getting old while they sleep?** Seeds have repair tools for their cells. Scientists are still finding out how they work, and why some seeds are so much better at it.
 - **Can we store seeds that do not like being dried, like mango, jackfruit and many rainforest seeds?** These seeds die if dried or frozen, so normal seed banks cannot keep them. Scientists are testing new ways, such as freezing just the baby plant in liquid nitrogen.

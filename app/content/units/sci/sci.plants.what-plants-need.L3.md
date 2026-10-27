@@ -104,7 +104,7 @@ Everything is made of tiny pieces called molecules, far too small to see. They a
 - e.g. An egg white turns solid and white when cooked, because heat unfolds its molecules. It never turns back.
 ### How does a plant know it is in the dark, or the warm? · *idea*
 A plant has no eyes and no skin like ours. But it has special molecules called photoreceptors that notice light. One family of them is called phytochrome. It works like a tiny switch. Red light flips it one way. Darkness, and the deep red light that filters through other leaves, slowly flips it back. So a seedling can tell if it is in the light, in the dark, or in the shade of other plants. In 2016, two teams of scientists found something surprising. Phytochrome flips back faster when it is warm. So the same molecule is a light sensor and a thermometer. Scientists think plants have other warmth sensors too. How they all work together is still being worked out.
-- e.g. A seedling under a brick 'knows' it is dark and grows tall to escape.
+- e.g. A seedling under a brick knows it is dark and grows tall to escape.
 - e.g. A plant in the shade of taller plants senses the changed light, and stretches up to get out of their shade.
 - **Two teams of plant scientists in 2016. One was led by Philip Wigge in Cambridge, England. One was led by Jorge Casal in Buenos Aires, Argentina.:** They found that phytochrome B, a light-sensing molecule, also changes faster when it is warm. So it helps the plant feel temperature.
 - **Other scientists since then:** They have found more molecules in plants that change when it gets warm. Plants seem to use several sensors together. Which ones matter most, in which plants, is still open.
@@ -134,7 +134,7 @@ Many people say their plants grow better when they talk or sing to them. Some bo
 - e.g. A plant that is talked to every day probably also gets watered and checked every day.
 - **Some gardeners and a few popular books, such as The Sound of Music and Plants by Dorothy Retallack, in 1973:** Plants grow better with gentle music and worse with loud rock music.
 - **Most plant scientists:** Those tests were small and not fair enough. Other things changed too. Careful tests have not shown that music makes plants grow better.
-- **Heidi Appel and Rex Cocroft, two scientists in the USA, in 2014:** Plants do respond to some vibrations. Thale cress plants that 'heard' a recording of caterpillars chewing made more of their bitter defence chemicals afterwards. So plants can sense some sounds, but this is not the same as liking music.
+- **Heidi Appel and Rex Cocroft, two scientists in the USA, in 2014:** Plants do respond to some vibrations. Thale cress plants that heard a recording of caterpillars chewing made more of their bitter defence chemicals afterwards. So plants can sense some sounds, but this is not the same as liking music.
 
 ## Mostly agreed
 - Plants need light, water, air, suitable warmth and minerals to grow well. *How we know:* Farmers and gardeners have seen this for thousands of years. Scientists have tested each need with fair tests, taking it away and keeping everything else the same.
@@ -162,6 +162,29 @@ Many people say their plants grow better when they talk or sing to them. Some bo
 - **Plants grow better if you talk or sing to them.** (Many gardeners, and some popular books; *minority*)  
   For: Many people say their talked-to plants do well.  
   Against: Talking usually comes with more care, more watering and more checking, so the test is not fair. Careful fair tests have not shown that music helps growth, though plants can sense some vibrations.
+
+## Roots
+We have been learning what a plant needs, using fair tests of light, water and warmth. Now we ask what a plant's needs tell us about ourselves and the world.
+
+**Deep truth.** No living thing is self-made. Each one is held up by sun, water, air and soil.  
+*Habit it breaks:* We call a plant independent because it makes its own food. But it needs light from a star 150 million kilometres away.  
+*Evidence:* A seedling in the dark grows pale and weak.
+
+- *who am i:* Like a plant, you need light, water, air and warmth to grow.
+- *what is life:* Too little is bad, and too much is bad too. Life needs just enough.
+- *what is this world:* The light that grows your food left the Sun eight minutes before.
+
+A moong seedling needs light from a star, water from clouds, air shared by everyone and minerals from old rocks. It cannot grow from any one thing alone. DeepKids believes the One shows up in this: every living thing is held by the whole world. A plant is the Sun, the rain and the soil, gathered into one.
+
+- **Samyutta Nikaya 56.11, the Buddha's first teaching:** The Buddha taught a middle path. Not too much, and not too little. (A plant needs water, light and warmth in the right amount. Too much water drowns its roots. Too little dries it.)
+- **Taittiriya Upanishad 2.1:** From space came air. From air came fire, and from fire, water. From water came earth, and from earth, plants. (A plant gathers air, warmth, water and earth into one living thing. It needs all of them.)
+- Science (settled): A plant's growth is held back by whatever it has least of. This is a useful rule, though real plants are more complicated.
+- Science (settled): Sunlight takes about eight minutes to travel from the Sun to a leaf.
+- Other view, The Jain tradition: Jains teach that each plant has its own soul, separate from every other soul. On this view, the world is many separate living beings, not one.
+- Practice, Sun and shade (3 min): Let's stand in a patch of sunlight for one minute. Close your eyes and feel the warmth on your face and arms. Then step into the shade and stand still for one minute. Breathe slowly. What changed on your skin? A plant feels this difference too, in its own way.
+- Ask: What do you need to grow, that nobody can see?
+- Ask: Is more always better? Can you love a plant too much?
+- Ask: How can we listen to something that cannot speak?
 
 ## Deep and big questions
 - *deep:* A seedling in the dark grows tall instead of green. Is that a mistake, or a clever plan? (hint: Imagine you are in a dark tunnel with your last packed lunch. You see a crack of light far above. What would you do?)
@@ -780,7 +803,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 4. (mcq) Who first published the idea that a plant grows only as well as its scarcest need allows?  
    Options: Justus von Liebig, in about 1840 / Carl Sprengel, in 1828 / Jagadish Chandra Bose, in 1920  
    **Answer:** Carl Sprengel, in 1828. *Why:* Carl Sprengel published it in 1828. Liebig made it famous later, so it was often called Liebig's law. Picking Liebig is what many old textbooks say.
-5. (mcq) A seedling under a brick 'knows' it is dark. What does it use to sense light?  
+5. (mcq) A seedling under a brick knows it is dark. What does it use to sense light?  
    Options: Its eyes / Special light-sensing molecules called photoreceptors, such as phytochrome / It can't sense light at all  
    **Answer:** Special light-sensing molecules called photoreceptors, such as phytochrome. *Why:* Plants have no eyes, but special molecules flip like switches in light. Picking 'can't sense light' misses that seedlings clearly change how they grow in the dark.
 6. (truefalse) Scientists have found that one light-sensing molecule in plants, phytochrome B, also changes faster when it is warm.  

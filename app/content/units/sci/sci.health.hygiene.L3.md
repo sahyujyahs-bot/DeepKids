@@ -151,6 +151,31 @@ In 1896, a British scientist working in India, Ernest Hanbury Hankin, tested wat
   For: Allergies rose as homes got cleaner. Farm children with animals have fewer allergies.  
   Against: Washing hands and cleaning kitchens has not been shown to cause allergies. Many scientists now think the real change is less time outdoors, fewer animals, and less contact with harmless soil microbes.
 
+## Roots
+We have been learning how soap, water and clean habits keep germs away. Now we ask what being clean tells us about ourselves and the world.
+
+**Deep truth.** Clean does not mean empty of life. It means the right life in the right place.  
+*Habit it breaks:* We sort the world into clean and dirty, and microbes into enemies. But your skin is home to millions of friendly microbes, and soil is lovely in a garden but not on a plate. Dirt is not a kind of thing. It is something in the wrong place.  
+*Evidence:* Soap washes away the visitor microbes from things you touch, but your resident skin microbes stay. And soap breaks a virus's coat only because that coat is built from the same kind of molecules as your own cells.
+
+- *who am i:* You are not only you. Millions of microbes live on your skin, and your cell walls are built like soap.
+- *what is life:* Life is always moving from one place to another, on hands, in water and through the air.
+- *what is this world:* A world where cats, crows, bees and people all keep clean, each in their own way, for their own reasons.
+
+A soap molecule is one thing with two sides. One side loves water, the other loves oil, and because it holds both, it can bring them together. Your cells are wrapped in the same kind of two-sided molecule. So are the coats of some viruses. The microbes on your skin and the cells of your body share one home. DeepKids believes this is the One showing up as many: soap, cell, microbe and child are made of the same stuff, arranged in different ways. Hygiene is not a war against life. It is caring for where each part of it belongs.
+
+- **Chandogya Upanishad 6.13:** Uddalaka asks his son to put salt in water overnight. In the morning the salt cannot be seen, but every sip tastes salty. What is unseen can still be everywhere. (Germs and soap molecules are far too small to see. Like the salt, we know they are there by what they do: mould on bread, a fever in a ward, pepper rushing to the edge of a plate.)
+- **Patanjali, Yoga Sutras 2.32:** Among the five personal practices, the niyamas, the first is shaucha: cleanliness of the body and clarity of the mind. (In this teaching, washing is not only about germs. It is also a way of paying attention, of beginning again, fresh.)
+- **Thich Nhat Hanh, The Heart of Understanding (1988), on interbeing:** Look deeply at a sheet of paper and you can see the cloud, the rain, the tree and the logger in it. Everything is made of things that are not itself. (Look deeply at your hand and you find skin, oil, water and millions of microbes. You are made of many lives that are not only 'you'.)
+- Science (settled): Every cell is wrapped in a membrane of molecules with water-loving heads and oil-loving tails, built much like soap.
+- Science (settled): About as many bacteria live on and in a person as there are human cells in their body.
+- Science (idea): The first cells may have begun when soap-like molecules folded into tiny bubbles in water, billions of years ago.
+- Other view, Many doctors and microbiologists: Some germs kill, and treating them as enemies has saved millions of lives. The microbes on our skin are simply living where there is food and space. That is chemistry and evolution, not oneness. This is an honest view, and the science in it is true.
+- Practice, A slow wash (3 min): Let's wash our hands very slowly, and notice everything. Feel the water. Is it cool or warm? Rub on the soap and watch the foam grow. Listen to it. Rub every part of each finger, counting to twenty very slowly. Rinse, and watch the foam slide away down the drain. Now hold your wet hands still in the air. Feel them cool as they dry. Where is that water going now? Who will it meet next?
+- Ask: Where do 'you' end, if millions of microbes live on your skin?
+- Ask: Is anything really dirty, or only in the wrong place?
+- Ask: When soapy water goes down the drain, where does it go, and who meets it next?
+
 ## Deep and big questions
 - *deep:* If you cannot see germs, how can you know they are there? (hint: Think of the mould on the bread slices, and of how Semmelweis used numbers.)
 - *deep:* Why does a molecule with two different ends clean better than one that loves only water? (hint: Think about what water does with oil, and what soap does with both.)
@@ -613,7 +638,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
    **Answer:** To make it a fair test. *Why:* If you used more haldi one time, you would not know whether the washing or the amount caused the difference. Picking 'it does not matter' means missing the idea of a fair test: change only one thing.
 3. (mcq) In the pepper test, black pepper floats on water. A soapy finger touches the middle, and the pepper rushes to the edges. Why?  
    Options: The pepper is scared of soap / Soap weakens the pull between water molecules in the middle, so the stronger pull at the edges drags the pepper outwards / The soap pushes the pepper with a wave / The pepper dissolves  
-   **Answer:** Soap weakens the pull between water molecules in the middle, so the stronger pull at the edges drags the pepper outwards. *Why:* Water's surface acts like a stretched skin. Soap weakens it in the middle, so the rest of the surface pulls away, carrying the pepper. Picking 'scared of soap' is a common story people tell. But pepper has no feelings, and real germs do not run from soap. Soap has to touch them and lift them off.
+   **Answer:** Soap weakens the pull between water molecules in the middle, so the stronger pull at the edges drags the pepper outwards. *Why:* Water's surface acts like a stretched skin. Soap weakens it in the middle, so the rest of the surface pulls away, carrying the pepper. Picking 'scared of soap' is a common story people tell. But the pepper is pulled by the water's surface, and real germs do not run from soap. Soap has to touch them and lift them off.
 4. (truefalse) The pepper test shows that soap scares germs away from your hands.  
    **Answer:** False. *Why:* False. The pepper moves because soap changes the water's surface. Real soap cleans by wrapping oil and germs and letting water carry them away. That needs rubbing and rinsing.
 5. (mcq) In the jar test, a jar of oil and water is shaken. Within a minute, the oil floats back to the top. A second jar has soap added, and it stays cloudy for many minutes. Why?  
