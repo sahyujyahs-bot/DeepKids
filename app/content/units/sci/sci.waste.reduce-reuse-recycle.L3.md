@@ -1,14 +1,14 @@
-# Reduce, reuse, recycle: where does 'away' go?
+# Reduce, reuse, recycle: why a peel rots and plastic stays
 `sci.waste.reduce-reuse-recycle.L3`
 
-**Summary.** This unit is about waste, and the three big ways to make less of it: reduce, reuse and recycle. Reduce means making less waste in the first place. Reuse means using a thing again, or mending it. Recycle means breaking a used thing down into material for something new. You will bury peels, paper, cloth and plastic in a jar and watch what tiny living things do to them. Peels rot because microbes have the right tools to take them apart. Plastic stays, because its molecules are too new and too strange for most microbes. You will follow a bottle from your dustbin to a kabadiwala and a factory, mend something, and make new things from old. Nothing we throw out ever leaves the world. Scientists are still finding microbes and worms that can slowly eat plastic, and still arguing about what to do.
+**Summary.** A banana peel left on soil is gone in a few weeks. A plastic packet left in the same place is still there years later. The peel rots because soil microbes feed on it, using enzymes that fit its molecules. Almost no microbe has an enzyme that fits plastic yet. So the best plan is to make less waste in the first place. Next comes using things again and mending them, and recycling comes last. You will bury four things in jars of soil, act out a bottle's journey, and mend something at home.
 
-**Intro.** *Hold a banana peel in one hand and a plastic wrapper in the other. Imagine burying both in the garden today. Which one will still be there when you are as old as your grandparents?* Every day, almost every home in India throws things 'away'. Peels, packets, bottles, paper, an old toothbrush. A van or a cart takes them, and we never see them again. But where is 'away'? Is it a real place? A banana peel can turn into soil in a few weeks. A plastic toothbrush made when your grandparents were children may still be lying somewhere today. Why does one thing vanish and the other stay? And what can we do about it? This unit follows our waste all the way out: into the soil, to the city dump, to the kabadiwala, and down to the tiny molecules that things are made of.
+**Intro.** *Hold a banana peel in one hand and an empty milk packet in the other. If you buried both in a pot of soil today, which one would still be there when you are grown up?* Every day, Indian homes throw out peels, packets, bottles and paper. A van or a cart takes them, and we never see them again. But they have not left the world. They have only moved somewhere else. A banana peel can turn into soil in a few weeks. A plastic toothbrush made when your grandparents were young may still be lying somewhere today. Why does one disappear and the other stay? The rot jar test will show you, and the science will explain it.
 
 ## Learning outcomes
 0. I can say what reduce, reuse, repair and recycle mean, and why reducing comes first.
 1. I can run a fair test to find out which things rot in soil and which do not, and record what I see over two weeks.
-2. I can explain that peels and paper rot because microbes break their molecules apart, and that most plastic does not rot because microbes have no tools for it.
+2. I can explain that peels and paper rot because microbes cut their molecules apart with enzymes, and that most plastic does not rot because almost no microbe has an enzyme that fits it.
 3. I can describe where waste goes in an Indian city: the dump, the compost yard, the waste picker, the kabadiwala and the recycling factory.
 4. I can mend something, and make something new and useful from waste.
 5. I can compare results in a table and a bar chart, and use them to decide which bag or material is best.
@@ -21,7 +21,7 @@
 - **Repair**: To mend a broken thing so it works again. *e.g.* Sewing a button back on a shirt. Fixing a bicycle puncture.
 - **Recycle**: To break a used thing down into its material, and make something new from that material. *e.g.* Old newspapers are soaked and mashed into pulp, and made into new paper.
 - **Refuse**: To say no to something you don't need, so it never becomes waste. *e.g.* Saying 'No straw, please' when you buy a juice.
-- **Rot (decompose)**: When tiny living things break a dead plant or animal down into simpler stuff, which becomes soil. Scientists call it decomposing. *e.g.* A fallen mango left under a tree turns soft, brown and then disappears into the soil.
+- **Rot (decompose)**: When tiny living things feed on a dead plant or animal and break it down. What is left becomes part of the soil. Scientists call it decomposing. *e.g.* A fallen mango left under a tree turns soft, brown and then disappears into the soil.
 - **Biodegradable**: Able to be rotted by tiny living things. Things that were once alive are usually biodegradable. *e.g.* Banana peels, cotton cloth and paper are biodegradable. Most plastic is not.
 - **Microbe**: A living thing far too small to see without a microscope. Bacteria and many fungi are microbes. *e.g.* One pinch of garden soil holds many millions of microbes.
 - **Decomposer**: A living thing that feeds on dead plants and animals and breaks them down. Fungi, bacteria and earthworms are decomposers. *e.g.* The white fluffy mould on an old piece of bread is a fungus decomposing it.
@@ -34,7 +34,7 @@
 - **Methane**: A gas made when wet waste rots without air, such as deep inside a dump. It can catch fire, and it warms the planet. *e.g.* Fires that smoulder for days in dumping grounds are often fed by methane.
 - **Kabadiwala**: A person who buys old newspapers, bottles, metal and some plastic from homes, and sells them on to be recycled. *e.g.* The kabadiwala weighs your old newspapers on his scale and pays you for them.
 - **Waste picker**: A person who collects and sorts things others have thrown out, and sells them for recycling. In Indian cities, many waste pickers are women. *e.g.* In Pune, waste pickers collect sorted waste from lakhs of homes, door to door.
-- **Compost**: Dark, crumbly soil made when peels, leaves and other once-living things rot. It is food for plants. *e.g.* A pot of peels and dry leaves turns into compost in about two months.
+- **Compost**: Dark, crumbly soil made when peels, leaves and other once-living things rot. It is food for plants. *e.g.* A pot of peels and dry leaves turns into compost in about two to three months.
 - **Upcycle**: To turn waste into something more useful or more beautiful than it was. *e.g.* Old saris stitched together into a warm kantha quilt.
 - **Downcycle**: To recycle a thing into something of lower quality, which often cannot be recycled again. *e.g.* A plastic bottle is often recycled into polyester thread for a T-shirt. The T-shirt is hard to recycle again.
 
@@ -42,7 +42,7 @@
 ### What waste is, and why nature has almost none · *defined*
 **Definition:** Waste is anything we have stopped using and throw out. In nature, almost nothing is wasted, because one living thing's leftovers are another living thing's food.
 
-A fallen leaf is not waste to an earthworm. It is lunch. Dung is not waste to a dung beetle. It is a home and food for its young. Fungi, bacteria and worms take dead things apart, and the pieces feed new plants. So in a forest, everything goes round and round. People make waste in a different way. We make things that nothing else can eat, like plastic. And we mix things up, so that even useful things get spoiled. Waste is a problem people made. That also means people can change it.
+In a forest, the leftovers of one living thing are food for another. Earthworms eat fallen leaves. Dung beetles feed their young on dung. Fungi and bacteria break dead things down, and what is left feeds new plants. So the same materials are used again and again. People make waste in two ways a forest does not. We make materials, like plastic, that almost nothing can eat. And we mix things together, so even useful things get spoiled. Because people make this waste, people can also make less of it.
 - e.g. A fallen leaf feeds earthworms, which turn it into soil for the tree.
 - e.g. A banana peel thrown on soil disappears in a few weeks.
 - e.g. A plastic wrapper thrown on the same soil is still there years later.
@@ -57,21 +57,21 @@ Making anything uses up materials, water and energy. A plastic bag needs oil, a 
 ### Why peels rot: microbes and their enzymes · *defined*
 **Definition:** A peel rots because microbes, such as bacteria and fungi, feed on it. They use enzymes, tiny cutting tools, to cut its long molecules into small pieces they can eat.
 
-A banana peel is made of long chain molecules, such as cellulose and starch. Microbes in the soil are hungry for them. But a microbe has no mouth. So it pours out enzymes around itself. Each enzyme is shaped to fit one kind of chain, like a key fits a lock. It snips the chain into small pieces. The microbe soaks the pieces in as food. What is left over becomes part of the soil. Microbes have been doing this to plants and animals for billions of years. So for almost everything that was once alive, some microbe somewhere has the right enzyme. Warmth, water and air help them work faster. That is why peels rot quickly in a warm, damp pot, and slowly in a dry desert.
+A banana peel is made of long chain molecules, such as cellulose and starch. Microbes in the soil feed on them. But a microbe has no mouth, and it cannot swallow a whole chain. So it pours out enzymes around itself. Each enzyme is shaped to fit one kind of chain, like a key fits a lock. It snips the chain into small pieces. The microbe soaks the pieces in as food. What is left over becomes part of the soil. Microbes have been feeding on dead plants and animals for hundreds of millions of years. So for almost everything that was once alive, some microbe somewhere has the right enzyme. Warmth, water and air help them work faster. That is why peels rot quickly in a warm, damp pot, and slowly in a dry desert.
 - e.g. Bread left in a damp box grows white and green fluffy mould. That mould is a fungus eating the bread.
 - e.g. Leaves under a tree turn into dark soil in the monsoon.
 - e.g. Chew a piece of chapati for a long time and it starts to taste sweet. An enzyme in your spit is cutting starch into sugar.
 ### Why most plastic does not rot · *defined*
-**Definition:** Most plastics do not rot because microbes have almost no enzymes that fit their molecules. Plastic molecules are very long chains that were invented by people only about a hundred years ago.
+**Definition:** Most plastics do not rot because microbes have almost no enzymes that fit their molecules. Plastic molecules are a new kind of long chain. Most plastic has been made only in the last 75 years.
 
-A plastic bag is made of very long chain molecules, mostly of carbon and hydrogen atoms. They are joined very tightly, and they are packed close together, and they repel water. Microbes have had billions of years to evolve enzymes for leaves, wood and bones. They have had less than a hundred years to meet plastic. Most have no key for this lock. So a plastic bag in the soil just sits there. Sunlight and heat do slowly crack it into smaller and smaller pieces. But tiny pieces are still plastic. Nobody has watched a bag for hundreds of years. So the times you see on posters, like '450 years for a bottle', are rough guesses from tests.
+A plastic bag is made of very long chain molecules, mostly of carbon and hydrogen atoms. Their atoms hold on to each other very strongly. The chains pack tightly, and water cannot soak in. Microbes have had hundreds of millions of years to evolve enzymes for leaves, wood and bones. Most plastic has existed for less than 75 years. Almost no microbe has an enzyme that fits it. So a plastic bag in the soil just sits there. Sunlight and heat slowly crack it into smaller and smaller pieces. But tiny pieces are still plastic. Nobody has watched a bag for hundreds of years. So times on posters, like '450 years for a bottle', are rough guesses from tests.
 - e.g. A milk packet in the jar test looks the same after two weeks.
 - e.g. Old plastic buckets left in the sun go pale and brittle and crack. They do not turn into soil.
-- e.g. Leo Baekeland made one of the first fully factory-made plastics, Bakelite, in 1907. Plastic bags and packets spread across India mostly from the 1980s onwards.
+- e.g. Leo Baekeland made Bakelite, one of the first plastics made entirely from chemicals, in 1907. Most of the plastic in the world has been made since 1950.
 ### Plastic breaks into microplastics, which travel everywhere · *defined*
 **Definition:** Microplastics are pieces of plastic smaller than a grain of rice. Big plastic things break into them slowly, in sunlight, heat and rubbing.
 
-In 2004, the British scientist Richard Thompson and his team gave these tiny pieces a name: microplastics. Since then, scientists have looked for them almost everywhere, and found them. They are in the deepest parts of the ocean. In 2019, a team including the British scientist Imogen Napper climbed Mount Everest to collect snow. They found microplastics even near the top. They are carried by wind, rivers and rain. Fish, birds, turtles and the tiny animals of the sea swallow them. They mistake them for food. Scientists have also found them inside people. What they do inside bodies is still being studied.
+In 2004, the British scientist Richard Thompson and his team gave these tiny pieces a name: microplastics. Since then, scientists have looked for them almost everywhere, and found them. They are in the deepest parts of the ocean. In 2019, climbers on Mount Everest collected snow on the way up. The British scientist Imogen Napper and her team tested it. They found microplastics as high as about 8,400 metres, close to the top. Wind, rivers and rain carry them. Fish, birds, turtles and tiny sea animals swallow them by mistake, along with their food. Scientists have also found them inside people. What they do inside bodies is still being studied.
 - e.g. A polyester T-shirt sheds tiny plastic threads every time it is washed.
 - e.g. Car tyres wear away into tiny rubber and plastic bits on the road.
 - e.g. Seabirds have been found with stomachs full of plastic pieces.
@@ -104,7 +104,7 @@ In Bengal, old saris were layered and stitched with tiny running stitches into k
 - e.g. Old cotton dhotis become dusters, then wicks, then compost.
 - e.g. A cracked plate mended with gold lines, in the Japanese way.
 ### Plastic-eating microbes and worms · *debated*
-In 2016, a team of Japanese scientists led by Shosuke Yoshida and Kohei Oda made a surprise discovery. Near a bottle recycling plant in the city of Sakai, they found a bacterium living on PET plastic, the plastic of drinking bottles. They named it Ideonella sakaiensis. It makes two enzymes that cut PET into small pieces, which it eats. It is slow. It took about six weeks to eat a thin film of plastic. Scientists have since changed these enzymes to make them faster. And in 2017, the Spanish scientist Federica Bertocchini noticed that wax worms, the young of a moth, chewed holes in a plastic bag. She and her colleagues found that they seem to break down polyethylene, the plastic of most bags. How much they truly digest is still argued about.
+In 2016, a team of Japanese scientists led by Shosuke Yoshida and Kohei Oda made a surprise discovery. Near a bottle recycling plant in the city of Sakai, they found a bacterium living on PET plastic, the plastic of drinking bottles. They named it Ideonella sakaiensis. It makes two enzymes that cut PET into small pieces, which it eats. It is slow. It took about six weeks to eat a thin film of plastic. Scientists have since changed these enzymes to make them faster. And in 2017, Federica Bertocchini, an Italian scientist working in Spain, noticed that wax worms, the young of a moth, chewed holes in a plastic bag. She and her colleagues found that they seem to break down polyethylene, the plastic of most bags. How much they truly digest is still argued about.
 - e.g. A bacterium found near a Japanese recycling plant feeds on bottle plastic.
 - e.g. Wax worms, which normally eat beeswax in beehives, chew through plastic bags.
 - **Many scientists working on enzymes:** Life is already finding ways to eat plastic, in less than a hundred years. Improved enzymes can turn old bottles back into the building blocks of new plastic. In France, a company called Carbios has already tested this in a small factory.
@@ -132,11 +132,15 @@ A broken bangle is waste to the girl who broke it. It is precious to an artist w
 - **People who handle dangerous waste:** Some waste really is harmful wherever you put it, like old batteries, tube lights with mercury and hospital needles. Calling it a label does not make it safe.
 
 ## Mostly agreed
-- Things that were once alive, like peels, paper and cotton, are rotted by microbes. Most plastics are not. *How we know:* Bury tests, done by scientists and by children, always show peels and paper breaking down while plastic stays the same. Microbiologists can see the enzymes that do the cutting.
+- Things that were once alive, like peels, paper and cotton, are rotted by microbes. Most plastics are not. *How we know:* Bury tests, done by scientists and by children, show peels and paper breaking down while plastic stays the same. Scientists have found and studied the enzymes that microbes use to do the cutting.
 - Reducing waste is better than recycling it. *How we know:* Studies that add up all the energy, water and materials used show that a thing never made saves the most. Recycling saves a lot too, but collecting, washing and melting need energy, and some material is lost.
 - Sorting waste at home makes it far easier to compost and recycle. *How we know:* Cities that sort, such as Indore, send far less waste to dumps. Mixed waste spoils paper and hides recyclable things under food.
 - Burning plastic and garbage harms health. *How we know:* Smoke from burning plastic has tiny soot particles and poisonous gases. Doctors link this kind of smoke to lung and heart illness.
 - Only a small share of all plastic ever thrown out has been recycled. *How we know:* In 2017, three American scientists added up all the plastic made in the world up to 2015. They were Roland Geyer, Jenna Jambeck and Kara Lavender Law. Of all the plastic that had become waste, about 9 out of every 100 parts had been recycled. About 12 had been burned. About 79 were in dumps, or loose in nature.
+
+## How we found out
+**Imogen Napper and Richard Thompson, University of Plymouth, England, Published in 2019, after a three-year test.** For years, shops sold plastic bags labelled 'biodegradable'. Many people believed these bags would soon rot away after they were thrown out. Imogen Napper, a young scientist at the University of Plymouth in England, decided to test the labels. With Richard Thompson, the scientist guiding her work, she took five kinds of shopping bag. One was ordinary plastic. The others were sold as biodegradable or compostable. They left pieces of each bag in three places: buried in soil, out in the open air, and under the sea. Then they checked them for three years. In the open air, sunlight crumbled every kind of bag into small pieces within a year. But in the soil and the sea, most bags were still whole. After three years, several 'biodegradable' bags could still carry a full load of shopping. The compostable bag disappeared in the sea within three months. In the soil, it was still there after more than two years, though too weak to carry shopping. Their results, published in 2019, showed that a label is a promise, not evidence. Only a test can show what really happens.  
+*What people believed before:* Bags labelled 'biodegradable' rot away soon after they are thrown out. After three years in soil and in the sea, most of them were still whole, and some could still carry shopping.
 
 ## Challenging perspectives
 - **Burning garbage makes it go away.** (Many people who burn leaves and garbage on the roadside; *rejected*)  
@@ -164,45 +168,45 @@ A broken bangle is waste to the girl who broke it. It is precious to an artist w
 ## Roots
 We have been learning where waste goes, and why some things rot and others don't. Now we ask what waste tells us about ourselves and the world.
 
-**Deep truth.** Nothing is ever thrown away. It only goes somewhere else, and becomes something else.  
-*Habit it breaks:* We sort the world into 'useful' and 'waste', and into 'here' and 'away'. But atoms are never lost, and the Earth has no away. Waste is a name for a thing in the wrong place, or a thing we stopped caring for. It is not a kind of thing.  
-*Evidence:* In the rot jar test, the peel did not vanish. Microbes turned it into soil, water, air and more microbes. The plastic stayed exactly as it was. Neither one left the world.
+**Deep truth.** In the same damp soil, the peel rotted and the plastic stayed the same. Soil microbes have fed on dead plants for millions of years, so they have enzymes that fit them. Plastic is new, and almost no microbe has an enzyme for it yet. So whether a thing rots depends on the living things around it as much as on the thing itself.  
+*Habit it breaks:* We say a peel is 'biodegradable' and plastic is not, as if rotting were hidden inside the material. But rotting is something living things do when they feed. A material rots only once some living thing has the tools to eat it.  
+*Evidence:* In the rot jar test, the peel went black and soft and grew white threads of fungus, while the milk packet looked new after 14 days. Long ago, wood may have piled up as coal partly because few fungi could rot it. In 2016, a bacterium was found that feeds on bottle plastic.
 
-- *who am i:* Your body is made of atoms that were once peels, rain, rice and air. You are made of things the world passed on to you.
-- *what is life:* Life is a circle of eating and being eaten. A fungus eating a log is alive for its own sake, and it keeps the circle turning.
-- *what is this world:* A world with no away. Everything we make stays here with us, with the cows, the fish and the microbes.
+- *who am i:* Your food grew in soil that microbes made from old leaves and peels. So part of you was once something that rotted.
+- *what is life:* Almost every living thing becomes food for others when it dies. Microbes take it apart, and new plants grow from what is left.
+- *what is this world:* A world where leaves, peels and bodies are taken apart and used again. Plastic is one of the few things it cannot yet take apart.
 
-In a forest, nothing is waste. A leaf becomes a worm's lunch, the worm's droppings become soil, and the soil becomes a tree. DeepKids believes this is the One showing up as the many, and the many flowing back into one another. The same atoms take turn after turn as leaf, worm, soil and child. When we make something that nothing can eat, we step out of that circle for a while. Reducing, reusing and repairing are ways of stepping back in.
+In a forest, a fallen leaf feeds fungi and worms. What is left becomes soil, and the soil feeds a tree. The same atoms take turns as leaf, worm, soil and tree. Plastic stays out of this circle for now, because almost nothing can take it apart.
 
-- **Isha Upanishad, verse 1:** Everything in this changing world is filled with the one Lord. Enjoy it by letting go. Do not grab, for whose is all this wealth? (Reduce means taking only what we need. Nothing we own was ever only ours: its atoms belonged to the Earth before us, and will after.)
+- **Isha Upanishad, verse 1:** Everything in this changing world is filled with the one Lord. Enjoy it by letting go. Do not grab, for whose is all this wealth? (Reducing means taking only what we need. The atoms in everything we own were part of the Earth before us, and will be after us.)
 - **Thich Nhat Hanh, The Heart of Understanding, 1988:** Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud, no rain. Without rain, no tree. Without the tree, no paper. He called this 'interbeing': nothing exists on its own. (Your recycled paper has the same cloud, rain and tree in it, and the work of the people who collected it.)
 - **Tattvartha Sutra 7.1 (Jain):** One of the five great vows of Jainism is aparigraha, not holding on to more things than we need. (Fewer things means less waste, and less harm to the many living beings that waste reaches.)
 - Science (settled): Matter is never created or destroyed, only rearranged. Antoine and Marie-Anne Lavoisier's careful weighing in the 1780s helped show this.
 - Science (settled): Microbes have been breaking down and recycling the materials of dead living things for billions of years. Without them, the Earth would be buried in dead leaves and bodies.
 - Other view, Many engineers and economists: Waste is a practical problem of materials, money and rules. Better recycling, fair pay for waste pickers and smart laws can solve it. There is no need to bring in oneness or the self. That is an honest view, and much of the work it calls for is the same.
 - Practice, Look deeply at one thing (3 min): Pick up one thing near you: a steel tumbler, a pencil or a piece of paper. Hold it in both hands. Close your eyes and breathe slowly three times. Now picture where it came from: the mine, the tree, the factory, the hands that made it and carried it. Breathe again. Now picture where it will go when you are finished with it. Open your eyes. Look at it as if for the first time.
+- Ask: If one day a microbe evolves an enzyme that fits plastic, will plastic become biodegradable?
 - Ask: If nothing ever really goes away, what does 'throwing away' mean?
+- Ask: Does a fungus rotting a log matter for itself, or only for the soil it makes for us?
 - Ask: Is anything truly yours, if its atoms were here before you and will stay after you?
-- Ask: Does a fungus, a cow or a fish have a say in where our waste goes?
-- Ask: When you mend something, what changes: the thing, or you?
 
 ## Deep and big questions
 - *big:* When we throw something away, where is 'away'? (hint: Follow one wrapper in your mind. Where is it tomorrow? In ten years?)
 - *deep:* Why can a microbe eat a peel but not a plastic packet? (hint: Think of keys and locks. What happens when someone invents a brand-new lock?)
 - *deep:* If atoms are never destroyed, can anything really be thrown out? (hint: Where do the atoms of a burnt leaf go?)
-- *deep:* Life once took a long time to learn to eat wood. Will life learn to eat plastic? Should we wait for it? (hint: A bacterium that eats bottle plastic was found in 2016. How fast do you think it works?)
+- *deep:* Long ago, wood may have piled up because few living things could rot it. Will life learn to eat plastic? Should we wait for it? (hint: A bacterium that eats bottle plastic was found in 2016. How fast do you think it works?)
 - *big:* Is a broken thing finished? Who decides when a thing becomes waste? (hint: Think of a cracked cup, a torn sari and a broken bangle. What could each become?)
 - *big:* The people who clean up after us are often paid the least. Is that fair? (hint: Who cleans your lane? Do you know their name?)
-- *big:* A cow eats plastic, a turtle swallows a bag, a bird feeds plastic to its chicks. Do animals have a right to a clean world, even if they can't ask for it? (hint: Who speaks for those who cannot speak?)
+- *big:* A cow eats plastic, a turtle swallows a bag, a bird feeds plastic to its chicks. Do animals have a right to a clean world, even though they cannot make our laws? (hint: Animals cannot vote or write rules. Who should think of them when people make rules about waste?)
 - *big:* Your grandparents made less waste than we do. Were they poorer or richer than us, in ways that matter? (hint: Ask them what they owned, what they mended, and what they threw out.)
 - *deep:* Is it better to buy something new and recycle the old one, or to keep the old one for longer? (hint: What did making the new one use up?)
-- *big:* Can you love a thing so much that you mend it? Can you love the planet that way? (hint: Think of a toy or a cloth you would never throw out. Why?)
+- *deep:* A peel feeds microbes, then worms, then a plant. What does a plastic packet feed? (hint: Think of your rot jars. Did anything grow on the plastic?)
 - *big:* If everyone in the world lived like your family, how much waste would there be? (hint: Weigh one day's dustbin. Now imagine 800 crore people doing the same.)
 
 ## Story: The Garden of Broken Things
 *Nek Chand is real. He was a road inspector in Chandigarh who, from the late 1950s, secretly built a garden of sculptures from broken waste in a patch of forest. Government officials found it in 1975. It was on land where building was not allowed, but the city chose to keep it, and it opened to the public in 1976 as the Rock Garden. Kamla, her mother Bimla, the officer and what they say are made up.*
 
-In the city of Chandigarh, in the year 1975, there lived a girl called Kamla who could hear what things were made of.
+In the city of Chandigarh, in the year 1975, there lived a girl called Kamla. She could tell what a thing was made of just by tapping it.
 
 She had learned it from her mother. Bimla collected and sorted the city's waste for a living. Every evening she tipped her sack onto the floor of their one-room house and sorted it in the lamplight. She tapped a bottle with her fingernail. Glass went tink. Plastic went tuk. She dropped a lid on the floor. Tin rang. Steel rang longer. She rubbed a scrap of cloth between her fingers. 'Cotton,' she said. 'This one will go back to the earth. This shiny one never will.'
 
@@ -212,7 +216,7 @@ Bimla stopped sorting. 'Nothing in this sack is dirty,' she said. 'It is only mi
 
 Kamla had no answer.
 
-A few weeks later, at Diwali, Kamla broke her favourite bangles. They were thin green glass, and she had saved for them for months. She slipped on the step, and they snapped into a little heap of green moons. She cried and swept them into her hand to throw out.
+A few weeks later, at Diwali, Kamla broke her favourite bangles. They were thin green glass, and she had saved for them for months. She slipped on the step, and they snapped into a little heap of curved green pieces. She cried and swept them into her hand to throw out.
 
 'Wait,' said her mother. 'Take them to the thin man with the bicycle.'
 
@@ -220,13 +224,13 @@ Everyone in their part of the city had seen the thin man. He rode a bicycle with
 
 Kamla found him at the edge of the forest near the lake, and held out her hand. He looked at the green pieces for a long time. Then he said, 'Can you keep a secret?'
 
-He led her down a narrow path between the trees, and Kamla stopped breathing for a moment.
+He led her down a narrow path between the trees. Kamla stood still and stared.
 
-Inside the forest there were people. Hundreds of them, standing in rows, and none of them were alive. There were dancers with skirts made of broken bangles. There were soldiers with faces of broken cups. There were monkeys made of pieces of pipe, and a whole crowd of women carrying pots on their heads, their bodies shining with chips of tile. A grey langur sat on a statue's head and scratched itself. Lizards ran over the mosaic walls. Birds had nested in a doorway made of an old sink.
+Among the trees stood hundreds of statues of people, in rows. There were dancers with skirts made of broken bangles. There were soldiers with faces of broken cups. There were monkeys made of pieces of pipe, and a whole crowd of women carrying pots on their heads, their bodies shining with chips of tile. A grey langur sat on a statue's head and scratched itself. Lizards ran over the mosaic walls. Birds had nested in a doorway made of an old sink.
 
 'All of this was thrown away,' said Nek Chand. 'When they built this new city, they knocked down the villages that were here before. I brought the villages here.'
 
-Kamla came back every evening after that. She sorted the pieces the way her mother had taught her. She noticed that Nek Chand never used peels or leaves or paper. 'The rain eats those,' he said. 'I only use things that do not rot. That is why the garden will last.' Kamla pressed her green bangle pieces into the skirt of a dancer, one by one.
+Kamla came back every evening after that. She sorted the pieces the way her mother had taught her. She noticed that Nek Chand never used peels or leaves or paper. 'Those rot in the rain,' he said. 'I only use things that do not rot. That is why the garden will last.' Kamla pressed her green bangle pieces into the skirt of a dancer, one by one.
 
 Then one morning, men in uniforms came through the trees with notebooks and long measuring tapes. They looked at the statues the way people look at a pile of rubbish.
 
@@ -246,9 +250,9 @@ The officer walked slowly along the rows of statues. He stopped in front of the 
 
 Word spread. People came from all over Chandigarh to see the secret garden in the forest. They found their old villages in it, and their broken cups, and their children's bangles. Some argued that rules were rules. Many more said the garden must stay. In the end, the city decided to keep it. In 1976, it opened to everyone.
 
-Nek Chand kept building for the rest of his long life. Today millions of people have walked through his garden. Most of them never notice one dancer in a far corner, whose skirt is made of thin green moons.
+Nek Chand kept building for the rest of his long life. Today millions of people have walked through his garden. Most of them never notice one dancer in a far corner, whose skirt is made of pieces of green bangles.
 
-Kamla noticed. She noticed for the rest of her life. And every evening she helped her mother sort the city's sacks, tink and tuk, cotton and shiny, until there was no such thing as away.
+Kamla noticed. And every evening she helped her mother sort the city's sacks, tink and tuk, cotton and shiny, so that less of it went to the dump.
 
 **For the parent:** For the parent: the turn comes when Kamla asks 'cleared away where?'. Glass, tile and ceramic do not rot, so there is no away for them. They can only become a dump or become something else. The same property that makes some waste a problem, that it lasts, is what makes it perfect for a garden that lasts. Bimla's lesson is the other half: waste is mostly things mixed up and in the wrong place. Sorted, they are useful again. The story also asks quietly who the real experts on waste are, and whose work we look down on.
 
@@ -279,7 +283,7 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
   *Parent does:* 1. Take turns. Each player draws a card, reads it out and places it. 2. They say why. 3. Others may challenge. 4. Give leaf tokens for the points.  
   *Parent says:* Remember, the higher up the line, the more points. But you must be able to say why.  
   *Child mode:* Take turns. Read your card. Put it on a mat and say why. Can someone find a better place?
-  - Note: Good answers. Banana peel, tea leaves, eggshells, dry leaves and the garland go to COMPOST. The jam jar and shoebox are REUSE. The steel tumbler, chappal strap, cycle tube and toy car are REPAIR. Newspaper, a rinsed milk packet, the plastic bottle and the drinks can go to the KABADIWALA. The straw, the thin carry bag and the shiny gift wrap are best on REDUCE: we should not have taken them. The chips packet usually ends on DUMP, because almost nobody recycles it, so REDUCE is the better answer. The pizza box splits: the clean lid goes to the kabadiwala and the cheesy part to compost. The battery and the tube light are hazards. They need a special collection point, because they hold harmful metals such as mercury in tube lights.
+  - Note: Good answers. Banana peel, tea leaves, eggshells, dry leaves and the garland go to COMPOST. The jam jar and shoebox are REUSE. The steel tumbler, chappal strap, cycle tube and toy car are REPAIR. Newspaper, a rinsed milk packet, the plastic bottle and the drinks can go to the KABADIWALA. The notebook with empty pages and the small T-shirt are REUSE: use the pages, or give the shirt to a younger child. The broken bangle can be REUSE in a mosaic, as Nek Chand did. Otherwise wrap it in paper so nobody is cut. The straw, the thin carry bag and the shiny gift wrap are best on REDUCE: we should not have taken them. The chips packet usually ends on DUMP, because almost nobody recycles it, so REDUCE is the better answer. The pizza box splits: the clean lid goes to the kabadiwala and the cheesy part to compost. The battery and the tube light are hazards. They need a special collection point, because they hold harmful metals such as mercury in tube lights.
 - **s4 (3 min)**  
   *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first.  
   *Parent says:* Before we test it, everyone guess. Then let's try it.  
@@ -296,7 +300,7 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
 - **rules:** Everyone puts a bottle-cap counter on square 1.; On your turn, roll the dice and move that many squares.; If you land at the foot of a ladder, read its sentence. Answer its 'why' card out loud, then climb up.; If you land on a snake's head, read its sentence. Say what should have happened instead, then slide down.; The first player to reach or pass square 30 wins.; Playing alone: play with two counters, a red one for yourself and a blue one for 'the city'. Roll for each in turn. Try to get yours home first, and answer every card.
 - **Printable board: A 30-square board (5 rows of 6), to draw or print:** Square 1: START, your dustbin; Ladder 3 to 11: You carried a cloth bag to the market. Reduce!; Ladder 6 to 14: You sewed a button back on. Repair!; Ladder 9 to 19: You rinsed the milk packets and sold them to the kabadiwala. Recycle!; Ladder 15 to 23: You started a compost pot with peels and dry leaves.; Ladder 20 to 28: You gave your old books to a younger child. Reuse!; Snake 13 to 4: You threw a chips packet out of the bus window.; Snake 17 to 7: You burned a pile of plastic. The smoke hurt everyone's lungs.; Snake 22 to 12: You mixed peels with newspaper, and the newspaper was spoiled.; Snake 26 to 16: You threw a plastic bag with food in it on the road. A cow ate it.; Snake 29 to 18: You bought a new toy and threw out one that just needed a wheel fixed.; Square 30: HOME, a clean, green lane
 - **Printable tokens: One counter for each player, and one dice:** a bottle cap for each player; 1 dice
-- **Printable cards: 12 'why' cards, one for each ladder and snake:** Why is a cloth bag better than a new plastic bag each time?; Why is repairing better than buying new?; Why must milk packets be rinsed before selling?; What do microbes need to turn peels into compost?; Why does reusing a book save trees?; Where does a chips packet go after the window?; What does burning turn plastic into?; Why does a wet peel spoil paper?; Why can't a cow digest a plastic bag?; What did making the new toy use up?; What is a kabadiwala?; Name one thing that rots and one that doesn't.
+- **Printable cards: 12 'why' cards, to read at the ladders and snakes:** Why is a cloth bag better than a new plastic bag each time?; Why is repairing better than buying new?; Why must milk packets be rinsed before selling?; What do microbes need to turn peels into compost?; Why does reusing a book save trees?; Where does a chips packet go after the window?; What does burning turn plastic into?; Why does a wet peel spoil paper?; Why can't a cow digest a plastic bag?; What did making the new toy use up?; What is a kabadiwala?; Name one thing that rots and one that doesn't.
 - **s1 (5 min)**  
   *Parent does:* 1. Draw a 5 by 6 grid on a big sheet, numbered 1 to 30 from the bottom. 2. Draw the five ladders and five snakes from the list. 3. Write each sentence beside its ladder or snake.  
   *Parent says:* Snakes and ladders was first played in India, long ago. Ladders were good deeds and snakes were harmful ones. Let's make a waste version.  
@@ -315,23 +319,23 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
 
 ## Experiments
 ### e1 · The Rot Jar Test: what rots, and what doesn't? (40 min, 14 days)
-- **question:** Which of these rots in damp soil: a banana peel, newspaper, cotton cloth or a plastic bag?
-- **predict:** Before you bury anything, put the four things in a line. Put the one you think will rot fastest first, and the one you think will last longest at the end.
+- **question:** Which of these rots in damp soil: a banana peel, newspaper, cotton cloth or a piece of a milk packet? And why?
+- **predict:** Before you bury anything, put the four things in a line. Put the one you think will rot fastest first, and the one you think will last longest at the end. Then say why you chose that order.
 - **fair test:** To make it fair, give each thing its own jar, with the same soil, the same water and the same place. Then only the material is different. Cut each piece about the size of a matchbox, so none has a head start.
 - **safety:** Wear gloves or use a spoon when you look closely. Do not sniff the mouldy peel closely, and do not open jars near your face. Wash hands with soap afterwards. A grown-up cuts any plastic bottles.
 - **record:** Fill in the table on days 4, 8 and 14. Draw each jar on day 14. Then draw a bar chart with one bar for each thing, as tall as how much was left.
 - **results table:** Thing buried | My guess (fastest 1 to slowest 4) | Day 4: how much is left (0 to 5) | Day 8: how much is left (0 to 5) | Day 14: how much is left (0 to 5) | What it looked like on day 14
 - **schedule:** day 1: Make your guesses. Fill four jars with damp soil. Push one thing against the glass in each jar, so you can see it from outside. Cover and label them. (20 min); day 4: Look through the glass. Score how much of each thing is left, from 5 to 0. Add a spoon of water if the soil looks dry. (5 min); day 8: Look and score again. Draw what you see. (5 min); day 14: Score a last time, then tip each jar onto newspaper and look closely. Fill in the table, draw a bar chart and say what you found. (10 min)
 - **s1 (3 min)**  
-  *Parent does:* 1. Put the peel, newspaper, cloth and plastic on a plate. 2. Ask your child to line them up, fastest to rot first.  
+  *Parent does:* 1. Put the peel, newspaper, cloth and milk packet on a plate. 2. Ask your child to line them up, fastest to rot first.  
   *Parent says:* We're going to bury these four things and watch them for two weeks. Which do you think will rot first? Put them in a line.  
   *Child mode:* Look at the four things. Which will rot first? Put them in a line, fastest first.
-  - Ask: Why did you put that one first? (good: It is soft and wet.; It came from a plant.; Insects and mould like fruit.)
+  - Ask: Why did you put that one first? (good: It is soft and wet.; It came from a plant.; Insects and mould like fruit.; The milk packet is plastic, and plastic lasts.)
 - **s2 (8 min)**  
-  *Parent does:* 1. Mix the soil with water until it feels like a squeezed sponge: damp, but no water drips out. 2. Fill each jar three-quarters full. 3. Push one thing down against the glass, about 3 cm below the top of the soil, so you can see it from outside. 4. Cover it with soil.  
+  *Parent does:* 1. Mix the soil with water until it feels like a squeezed sponge: damp, but no water drips out. 2. Fill each jar three-quarters full. 3. Push one thing down against the glass, so you can see it from outside. Keep its top about 3 cm below the soil. 4. Cover it with soil.  
   *Parent says:* Soil is full of living things too small to see. They need water and air to work. Damp is good. Soggy is bad, because then they can't breathe.  
   *Child mode:* Make the soil damp like a squeezed sponge. Fill each jar. Push one thing against the glass. Cover it with soil.
-  - Note: Use garden soil, or soil from an old plant pot. It is full of microbes. Packaged potting mix and cocopeat have far fewer, so things rot much more slowly. If your soil is very dry and dusty, mix in a spoon of old compost or soil from under a tree.
+  - Note: Use soil from an old plant pot, or from under a tree. It is full of microbes. New packaged potting mix and cocopeat have far fewer, so things rot much more slowly. If your soil is very dry and dusty, mix in a spoon of old compost.
 - **s3 (4 min)**  
   *Parent does:* 1. Cover each jar with a cloth or a paper held by a rubber band. 2. Label each jar. 3. Put all four jars together in a warm, shady place, out of direct sun.  
   *Parent says:* We keep them all together so they are all just as warm. That keeps the test fair.  
@@ -339,31 +343,31 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
   - Note: In a warm month, the peel shows big changes within a week. In a cold north Indian winter, below about 15 degrees, everything is slower. Keep the jars indoors in the warmest room, and leave them for three or four weeks instead of two.
 - **s4 (10 min)**  
   *Parent does:* On day 4 and day 8, look through the glass with a magnifying glass. Score how much of each thing is left: 5 means all of it, 0 means none. Add a spoon of water to any jar that looks dry.  
-  *Parent says:* What has changed? Can you see any white threads or fluffy spots? Those are fungi, eating.  
+  *Parent says:* What has changed? Can you see any white threads or fluffy spots? Those are fungi. They are feeding on the peel.  
   *Child mode:* Look through the glass. What has changed? Look for white threads. Score how much is left, from 5 down to 0.
-  - Note: Expect the peel to go brown and then black, with white or green mould. The newspaper goes soft and grey. The cloth looks stained. The plastic looks just the same. If a jar smells bad, it is too wet. Open the cover for a day to let it dry a little.
+  - Note: Expect the peel to go brown and then black, with white or green mould. The newspaper goes soft and grey. The cloth looks stained. The milk packet looks just the same. If a jar smells bad, it is too wet. Take the cover off for a day to let it dry a little.
   - Wait: Look again on day 4 and day 8.
 - **s5 (10 min)**  
   *Parent does:* 1. On day 14, score each jar one last time. 2. Tip each jar onto old newspaper, wearing gloves. 3. Find each thing and look closely. 4. Fill in the table and draw a bar chart.  
   *Parent says:* Let's see what's left. Gently, so we don't break anything.  
   *Child mode:* Wear gloves. Tip out each jar. Find your four things. What do they look like now? Draw a bar for each.
-  - Check: In the rot jar test, the plastic bag looked exactly the same after 14 days. Why? → **Soil microbes have almost no enzymes that can cut plastic molecules**
+  - Check: In the rot jar test, the strip of milk packet looked exactly the same after 14 days. Why? → **Soil microbes have almost no enzymes that can cut plastic molecules**
   - Wait: Do this on day 14.
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: things that were once alive rot, and plastic doesn't. What I saw: the peel was black and half gone, and the plastic looked new. Why: tiny living things in the soil eat peel, but they can't eat plastic. Put the peel, paper and cloth back into soil or a compost pot, and leave them a month. They will mostly disappear. Put the plastic in the dry waste.
+  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why it happened.
+  - Note: A good answer sounds like this. What I think: things that were once alive rot, and plastic doesn't. What I saw: the peel was black and half gone, and the milk packet looked new. Why: tiny living things in the soil feed on peel, but they have no tools for plastic. Put the peel, paper and cloth back into soil or a compost pot for a month. They will mostly disappear. Put the milk packet in the dry waste.
   - Think: If you buried the same plastic and came back when you were grown up, what would you find?
 ### e2 · Melt and Remake: new crayons from broken ones (40 min)
 - **question:** Can broken wax crayons be melted and made into new crayons that still draw? What happens when we mix the colours?
-- **predict:** Before you melt anything, guess. Will the new crayon draw as well as the old one? What colour will you get if you melt red, blue and yellow together?
+- **predict:** Before you melt anything, guess. Will the new crayon draw as well as the old one? What colour will you get if you melt red, blue and yellow together? Say why you think so.
 - **fair test:** To compare fairly, draw ten strokes with an old crayon and ten with your new one, on the same paper, pressing the same way. Keep one mould for a single colour and one for mixed colours, so you can see what mixing does.
 - **safety:** Only a grown-up handles the hot water and the hot bowls. The melted wax is hot enough to burn. Let it cool fully before touching. Never melt crayons directly on a flame, because wax can catch fire.
 - **record:** Fill in the table. Stick a strip of paper with ten strokes from an old crayon and ten from a new one in your notebook.
 - **results table:** Mould | Colours put in | Colour that came out | Did it draw well? (yes, a bit, no) | Did it break easily?
 - **s1 (8 min)**  
-  *Parent does:* 1. Soak the broken crayons in water for 10 minutes, so the paper peels off easily. 2. Peel off all the paper. 3. Break the crayons into pieces about the size of a fingernail. 4. Sort them into two piles: one single colour, and one mix of colours.  
+  *Parent does:* 1. Soak the broken crayons in water for 10 minutes, so the paper peels off easily. 2. Peel off all the paper, and dry the crayons on a cloth. 3. Break the crayons into pieces about the size of a fingernail. 4. Sort them into two piles: one single colour, and one mix of colours.  
   *Parent says:* These crayons are broken. Most people throw them out. We're going to recycle them, the way a factory recycles metal or plastic.  
   *Child mode:* Peel the paper off the broken crayons. Break them into small bits. Make two piles: one colour, and a mix.
 - **s2 (12 min) · grown-up needed**  
@@ -384,34 +388,34 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
 - **s5 (7 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see? And why?  
-  *Child mode:* Finish like a scientist. What I think. What I saw. Why.
+  *Child mode:* Say or write three things. What I think. What I saw. Why it happened.
   - Note: A good answer sounds like this. What I think: wax can be recycled by melting, but colours should be sorted first. What I saw: the single-colour crayon drew well, and the mix came out brown. Why: melting lets the wax take a new shape, but it can't un-mix colours. Many plastics are like this too. Each kind melts differently, and mixed kinds make a weak material.
 ### e3 · The Bag Test: which bag carries most? (35 min)
-- **question:** Which carries the most: a newspaper bag, an old T-shirt bag, a cloth bag or a thin plastic carry bag?
-- **predict:** Before testing, line up the four bags. Put the one you think will carry most first, and the one you think will tear first at the end.
-- **fair test:** To make it fair, load every bag the same way: one full 500 ml water bottle at a time. Lift each bag by its handles the same height, about a hand's width, and hold it for 10 seconds.
-- **safety:** Test over a cushion, so falling bottles don't crack the floor or hurt toes. Keep feet out from under the bag. A grown-up lifts any bag holding more than 6 bottles, which is 3 kg.
-- **record:** Fill in the table. Draw a bar chart with one bar for each bag, as tall as the number of bottles it held.
-- **results table:** Bag | My guess (1 to 4) | Bottles it held for 10 seconds | What broke first: handle, bottom or side? | How many times could we use it again?
+- **question:** Which carries the most weight before it tears: a newspaper bag, an old T-shirt bag, a cloth bag or a thin plastic carry bag?
+- **predict:** Before testing, line up the four bags. Put the one you think will carry most first, and the one you think will tear first at the end. Say why you chose that order.
+- **fair test:** To make it fair, load every bag the same way: one 1-kilogram weight at a time. Lift each bag by its handles the same height, about a hand's width, and hold it for 10 seconds.
+- **safety:** Test over a cushion, so falling weights don't crack the floor or hurt toes. Keep feet out from under the bag. A grown-up lifts any bag holding more than 3 kilograms.
+- **record:** Fill in the table. Draw a bar chart with one bar for each bag, as tall as the kilograms it held.
+- **results table:** Bag | My guess (1 to 4) | Kilograms it held for 10 seconds | What broke first: handle, bottom or side? | How many times could we use it again?
 - **s1 (3 min)**  
   *Parent does:* 1. Put the four bags in a row. 2. Ask your child to line them up, strongest first.  
   *Parent says:* Which bag do you think will carry the most? Put them in a line, strongest first.  
   *Child mode:* Look at the four bags. Which is strongest? Put them in a line.
 - **s2 (20 min) · grown-up needed**  
-  *Parent does:* 1. Put the cushion on the floor. 2. Hold the first bag open over it. 3. Add one bottle. 4. Lift the bag by its handles a hand's width up and hold for 10 seconds. 5. If it holds, add another bottle and lift again. 6. When it tears, write down the last number of bottles it held. 7. Stop at 20 bottles, and write '20 or more'.  
-  *Parent says:* One bottle at a time. Lift slowly, count to ten, then add another. The number we write is the last one it held safely.  
-  *Child mode:* Add one bottle. Lift the bag. Count to ten. Did it hold? Add one more. When it tears, write the last number.
-  - Note: A grown-up does the lifting after 6 bottles. A newspaper bag usually tears at the handles or the glued bottom after a few bottles. A thin plastic carry bag is often surprisingly strong for its weight, and may hold 6 to 10 bottles. That is an honest result, and a good thing to talk about.
+  *Parent does:* 1. Put the cushion on the floor. 2. Hold the first bag open over it. 3. Add one 1-kilogram weight. 4. Lift the bag by its handles a hand's width up and hold for 10 seconds. 5. If it holds, add another weight and lift again. 6. When it tears, write down the last number of kilograms it held. 7. Stop at 10 kilograms, and write '10 or more'.  
+  *Parent says:* One weight at a time. Lift slowly, count to ten, then add another. The number we write is the last one it held safely.  
+  *Child mode:* Add one weight. Lift the bag. Count to ten. Did it hold? Add one more. When it tears, write the last number.
+  - Note: A grown-up does the lifting after 3 kilograms. A newspaper bag usually tears first, often at the handles or the pasted bottom. A thin plastic carry bag is often stronger than children expect. That is an honest result, and a good thing to talk about.
 - **s3 (6 min)**  
   *Parent does:* Draw a bar chart with one bar for each bag.  
   *Parent says:* Let's turn the numbers into a picture. A taller bar means the bag carried more.  
-  *Child mode:* Draw one bar for each bag. Make it as tall as the bottles it held.
-  - Check: In the bag test, the thin plastic bag held 8 bottles but the newspaper bag held only 3. Does that mean the plastic bag is the best bag? → **Not by itself: we must also think how many times it is used, and where it ends up**
+  *Child mode:* Draw one bar for each bag. Make it as tall as the kilograms it held.
+  - Check: In the made-up bag test results, the thin plastic bag held 5 kilograms and the newspaper bag held only 2. Does that mean the plastic bag is the best bag? → **Not by itself: we must also think how many times it is used, and where it ends up**
 - **s4 (6 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* What do you think is the best bag now? What did you see? And why?  
-  *Child mode:* Finish like a scientist. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: the cloth bag is best for shopping. What I saw: it held 20 bottles and didn't tear, and the plastic bag held 8. Why: cloth is strong, and we can use it again and again, so we don't need new bags. Any honest answer with all three parts is good.
+  *Child mode:* Say or write three things. What I think. What I saw. Why it happened.
+  - Note: A good answer sounds like this. What I think: the cloth bag is best for shopping. What I saw: it held 10 kilograms and didn't tear, and the plastic bag held 5. Why: cloth is strong, and we can use it again and again, so we don't need new bags. Any honest answer with all three parts is good.
   - Think: Which bag in your home has been used the most times? Can you count?
 
 ## Activities
@@ -419,14 +423,14 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
 - **safety:** Nobody needs to touch the waste. You only make a mark each time something is thrown out.
 - **record:** Count the marks in each column. Draw a bar chart with four bars. Circle the column you could make smaller.
 - **s1 (4 min)**  
-  *Parent does:* 1. Draw four columns on a sheet. Call them ROTS, KABADIWALA, COULD BE REUSED and NOTHING ELSE. Peels go under ROTS. Paper, bottles and cans go under KABADIWALA. Wrappers and packets go under NOTHING ELSE. 2. Stick it beside the dustbin. 3. Tell the whole family to make one mark for each thing they throw out today.  
+  *Parent does:* 1. Draw four columns on a sheet. Call them ROTS, KABADIWALA, COULD BE REUSED and NOTHING ELSE. Peels go under ROTS. Paper, bottles and cans go under KABADIWALA. Jars, boxes and old clothes go under COULD BE REUSED. Wrappers and packets go under NOTHING ELSE. 2. Stick it beside the dustbin. 3. Tell the whole family to make one mark for each thing they throw out today.  
   *Parent says:* Today we are waste detectives. Every time anyone throws something out, they make a mark. Tonight we'll see what our home throws out.  
   *Child mode:* Make a sheet with four columns. Stick it by the dustbin. Each time someone throws something out, make a mark.
 - **s2 (6 min)**  
   *Parent does:* In the evening, count the marks in each column and draw a bar chart.  
   *Parent says:* Let's count. Which column has the most marks? Is that what you expected?  
   *Child mode:* Count the marks in each column. Draw a bar for each one.
-  - Note: In many Indian homes, the ROTS column and the NOTHING ELSE column are the biggest. Peels and leftovers are heavy. Wrappers and packets are many. Any result is fine, because it is your home's own data.
+  - Note: In many Indian homes, the ROTS column and the NOTHING ELSE column are the biggest. Peels and leftovers come from every meal. Wrappers and packets come with almost everything we buy. Any result is fine, because it is your home's own data.
 - **s3 (5 min)**  
   *Parent does:* Look at the NOTHING ELSE column together and choose one thing to reduce this week.  
   *Parent says:* These things had nowhere good to go. Which one could we stop bringing home?  
@@ -660,8 +664,8 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
    **Answer:** Taking a torn chappal to the cobbler. *Why:* The cobbler mends the chappal so it works again. The blue bin is recycling, not repair.
 14. (write) Name two things in your home that are being reused. Say what each one was before.  
    **Answer:** An old T-shirt is now a duster. It was a shirt before. A biscuit tin now holds buttons. It held biscuits before.. *Why:* Many Indian homes reuse tins, jars, cloth and bottles. Any two real examples are right.
-15. (draw) Draw what you saw in your jar after two weeks: the peel, the paper and the plastic.  
-   **Answer:** A drawing showing the peel dark and soft or partly gone, the paper soft or torn, and the plastic unchanged.. *Why:* Drawing what you really saw is how scientists record. Yours may look different, and that is fine.
+15. (draw) Draw what you saw in your jars after two weeks: the peel, the paper, the cloth and the milk packet.  
+   **Answer:** A drawing showing the peel dark and soft or partly gone, the paper soft or torn, the cloth stained, and the milk packet unchanged.. *Why:* Drawing what you really saw is how scientists record. Yours may look different, and that is fine.
 16. (write) Why is reducing better than recycling? Use the word 'energy' or 'materials' in your answer.  
    **Answer:** Reducing means the thing is never made, so no materials or energy are used. Recycling still needs trucks, washing and melting, which use energy.. *Why:* Any answer that says reducing avoids making the thing at all is right.
 ### Following Our Waste (stretch) (stretch, 15 questions)
@@ -669,7 +673,7 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
    Options: To make them look nice / So the only difference is the thing buried, and we know it caused what we saw / Because we had only one kind of soil / So the plastic would rot  
    **Answer:** So the only difference is the thing buried, and we know it caused what we saw. *Why:* This is a fair test. If one jar were warmer or wetter, we would not know whether the material or the warmth made it rot faster. Picking 'only one kind of soil' gives a reason that happens to be true at home, but it is not why scientists do it.
 2. (mcq) Look at the made-up jar results. Which rotted fastest?  
-   Options: Plastic / Cotton cloth / Banana peel / Newspaper  
+   Options: Milk packet / Cotton cloth / Banana peel / Newspaper  
    **Answer:** Banana peel. *Why:* The peel had the least left by day 14. Soft, juicy things that were alive recently rot fastest. Picking newspaper is a good second guess. Paper rots, but more slowly, because its fibres are tough.
 3. (mcq) What is an enzyme?  
    Options: A kind of plastic / A tiny tool in living things that cuts molecules apart or joins them / A type of soil / A machine in a recycling factory  
@@ -677,8 +681,8 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
 4. (fill) A very long molecule made of many small pieces joined in a chain is called a ____.  
    **Answer:** ['polymer']. *Why:* Plastic, starch and cellulose are all polymers.
 5. (mcq) Why have microbes had trouble learning to eat plastic?  
-   Options: Plastic is poisonous to all life / Plastic has existed for only about a hundred years, too short for most microbes to evolve the right enzymes / Microbes don't like the colour / Plastic is too hard to see  
-   **Answer:** Plastic has existed for only about a hundred years, too short for most microbes to evolve the right enzymes. *Why:* Microbes evolved enzymes for leaves, wood and bones over billions of years. Plastic is very new. In 2016, scientists found one bacterium that eats bottle plastic, so life is starting to find ways. Picking 'poisonous' is a common belief, but microbes can live on plastic surfaces without eating them.
+   Options: Plastic is poisonous to all life / Most plastic has existed for less than 75 years, too short for most microbes to evolve the right enzymes / Microbes don't like the colour / Plastic is too hard to see  
+   **Answer:** Most plastic has existed for less than 75 years, too short for most microbes to evolve the right enzymes. *Why:* Microbes evolved enzymes for leaves, wood and bones over hundreds of millions of years. Plastic is very new. In 2016, scientists found one bacterium that eats bottle plastic, so life is starting to find ways. Picking 'poisonous' is a common belief, but microbes can live on plastic surfaces without eating them.
 6. (mcq) In many Indian cities, what usually happens to waste that is all mixed in one bag?  
    Options: It is sorted by robots / It mostly goes to a dumping ground / It all becomes compost / It is sent to space  
    **Answer:** It mostly goes to a dumping ground. *Why:* Mixed waste is hard to sort, so most goes to a dump. Sorted waste can be composted or recycled.
@@ -699,14 +703,14 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
 13. (write) Your family's dry waste bag is full of chips packets and thin wrappers. The kabadiwala won't buy them. What could your family do?  
    **Answer:** Buy fewer packaged snacks, and eat fruit, roasted chana or home-made snacks instead. Buy loose things in our own containers. That reduces the packets in the first place.. *Why:* When something can't be recycled, the answer is to reduce it.
 14. (write) Write a claim, the evidence and your reasoning about plastic and soil, from the rot jar test.  
-   **Answer:** Claim: plastic does not rot in soil. Evidence: after 14 days, the plastic strip looked exactly the same, but the peel was dark, soft and half gone. Reasoning: soil microbes have enzymes for peels but not for plastic.. *Why:* A good scientific answer has all three parts: what I think, what I saw, and why.
+   **Answer:** Claim: plastic does not rot in soil. Evidence: after 14 days, the milk packet strip looked exactly the same, but the peel was dark, soft and half gone. Reasoning: soil microbes have enzymes for peels but not for plastic.. *Why:* A good scientific answer has all three parts: what I think, what I saw, and why.
 15. (mcq) Atoms are never destroyed. So when a banana peel rots, where do its atoms go?  
    Options: Nowhere: they vanish / Into the microbes, the soil, water and air / Into the plastic / To the Moon  
    **Answer:** Into the microbes, the soil, water and air. *Why:* The peel's atoms become part of microbes, soil, water and the air. Nothing vanishes. Picking 'vanish' is natural, because we can't see where they go. But careful weighing, since Antoine and Marie-Anne Lavoisier's time, shows matter is never lost.
 ### No Such Place as Away (challenge) (challenge, 17 questions)
-1. (mcq) Microbes evolved for billions of years with leaves and wood. Which explains best why they can eat leaves but rarely plastic?  
+1. (mcq) Microbes have fed on leaves and wood for hundreds of millions of years. Which explains best why they can eat leaves but rarely plastic?  
    Options: Leaves taste better / Enzymes evolve to fit molecules that microbes have met for a long time. Plastic molecules are new and strange. / Plastic is too heavy / Microbes are lazy  
-   **Answer:** Enzymes evolve to fit molecules that microbes have met for a long time. Plastic molecules are new and strange.. *Why:* Evolution shapes enzymes that fit common food molecules. Plastic has existed for only about a century. Picking 'taste' misses the main reason. Microbes can only eat what their enzymes fit.
+   **Answer:** Enzymes evolve to fit molecules that microbes have met for a long time. Plastic molecules are new and strange.. *Why:* Evolution shapes enzymes that fit common food molecules. Most plastic has existed for less than 75 years. Picking 'taste' misses the main reason. Microbes can only eat what their enzymes fit.
 2. (mcq) Long ago, many fallen trees didn't rot and became coal. One idea is that wood-rotting fungi had not evolved yet. What does that idea have in common with plastic today?  
    Options: Both are made by people / Both are new materials that few living things could yet break down / Both are found only in India / Nothing  
    **Answer:** Both are new materials that few living things could yet break down. *Why:* In both cases, a tough material piled up because few decomposers could eat it. This is one idea, and other scientists think swamps burying wood quickly mattered more. Picking 'made by people' is true for plastic, but wood is made by trees.
@@ -737,9 +741,9 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
    Options: Nothing / Recognition as workers, identity cards, and door-to-door collection work with the city / Their own factory on the Moon / The right to burn waste  
    **Answer:** Recognition as workers, identity cards, and door-to-door collection work with the city. *Why:* By organising from 1993, they won identity cards from the city and the right to collect waste door to door through their cooperative, SWaCH. Their work is still hard, and many still fight for fair pay.
 13. (truefalse) Nobody has watched a plastic bottle for 450 years, so '450 years to break down' is an estimate.  
-   **Answer:** True. *Why:* True. Plastic has existed for only about a century. Times like this are worked out from tests that speed things up, and they are rough guesses.
+   **Answer:** True. *Why:* True. Most plastic has existed for less than 75 years. Times like this are worked out from tests that speed things up, and they are rough guesses.
 14. (write) A fungus is busy rotting a fallen log. Does it matter for itself, or only because it makes soil for us? Write what you think and why.  
-   **Answer:** I think it matters for itself, because it is alive and feeding, like we are. It also helps the forest, and that helps us too.. *Why:* There is no single right answer. DeepKids believes every living thing matters for itself, not only for what it gives us. Some people think differently.
+   **Answer:** I think it matters for itself, because it is alive and feeding, like we are. It also helps the forest, and that helps us too.. *Why:* There is no single right answer. Every living thing matters for itself, not only for what it gives us. Some people think a living thing matters mainly for what it does for people.
 15. (write) Design a better chips packet. It must keep chips crisp, and it must not end up in the dump. Describe or draw it.  
    **Answer:** A refillable steel or glass jar that the shop fills from a big tin. Or a paper packet lined with a thin coat that compost microbes can eat.. *Why:* Real engineers are working on this problem. Any idea that keeps chips dry and can be reused, recycled or composted is a good answer.
 16. (write) Waste is sometimes called 'matter out of place'. Give one example of something that is waste in one place and useful in another.  
@@ -757,25 +761,25 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
 1. (mcq) Which of these comes first, and saves the most?  
    Options: Recycle / Reduce / Throw it in the dump / Burn it  
    **Answer:** Reduce. *Why:* Reducing means the waste is never made, so nothing has to be collected, melted or dumped. Picking 'recycle' is the most common answer, because recycling is talked about most. But it still uses energy and trucks.
-2. (mcq) A shirt has lost a button. Which R is the best?  
-   Options: Recycle it / Repair it / Compost it / Throw it out  
-   **Answer:** Repair it. *Why:* Sewing on a button takes minutes, and the shirt keeps working for years. Picking 'recycle' skips a step: mending comes before breaking a thing down.
+2. (mcq) Arjun, a boy in Class 3, finds that his school shirt has lost a button. What is the best thing to do?  
+   Options: Send it to be recycled / Sew the button back on / Put it in the compost / Throw it out  
+   **Answer:** Sew the button back on. *Why:* Sewing on a button takes minutes, and the shirt keeps working for years. Picking 'recycle' skips a step: mending comes before breaking a thing down.
 3. (mcq) In the rot jar test, why does each thing get its own jar, with the same soil, water and place?  
    Options: So it looks tidy / So only the material is different, and we know it caused the result / So the plastic rots too / Because jars are cheap  
    **Answer:** So only the material is different, and we know it caused the result. *Why:* This is a fair test: change only one thing. Picking 'so the plastic rots too' means expecting a result instead of testing for it.
 4. (mcq) Look at the made-up jar results. Which thing was left almost unchanged?  
-   Options: Banana peel / Newspaper / Cotton cloth / Plastic bag  
-   **Answer:** Plastic bag. *Why:* The plastic bag scored 5, meaning all of it was left. Picking the cloth is a fair second guess, because cotton rots slowly. But it does rot, and plastic does not.
+   Options: Banana peel / Newspaper / Cotton cloth / Milk packet  
+   **Answer:** Milk packet. *Why:* The milk packet scored 5, meaning all of it was left. Picking the cloth is a fair second guess, because cotton rots slowly. But it does rot, and plastic does not.
 5. (mcq) Why does a banana peel rot in soil?  
    Options: The sun melts it / Microbes feed on it, using enzymes that cut its molecules / Rain washes it away / It dissolves like sugar  
    **Answer:** Microbes feed on it, using enzymes that cut its molecules. *Why:* Bacteria and fungi pour out enzymes that cut the peel's long molecules into food. Picking 'rain washes it away' means thinking the peel just moves. In a covered jar it still rots, so living things must be doing it.
 6. (mcq) Why does most plastic not rot?  
-   Options: It is too shiny / Microbes have almost no enzymes that fit plastic molecules, because plastic is so new / It is buried too deep / It is too light  
-   **Answer:** Microbes have almost no enzymes that fit plastic molecules, because plastic is so new. *Why:* Microbes evolved enzymes for leaves and wood over billions of years. Plastic has existed for only about a hundred. Picking 'too deep' is a common idea, but plastic on the surface does not rot either. It only cracks.
+   Options: It is too shiny / Almost no microbe has an enzyme that fits plastic molecules, because plastic is so new / It is buried too deep / It is too light  
+   **Answer:** Almost no microbe has an enzyme that fits plastic molecules, because plastic is so new. *Why:* Microbes evolved enzymes for leaves and wood over hundreds of millions of years. Most plastic has existed for less than 75 years. Picking 'too deep' is a common idea, but plastic on the surface does not rot either. It only cracks.
 7. (mcq) A plastic bottle cracks into tiny pieces in the sun. What are the tiny pieces called?  
    Options: Compost / Microplastics / Microbes / Methane  
    **Answer:** Microplastics. *Why:* Tiny pieces of plastic are still plastic, and are called microplastics. Picking 'microbes' mixes up two words that sound alike. Microbes are alive, and microplastics are not.
-8. (mcq) In many Indian cities, waste that is all mixed together in one bag usually goes…  
+8. (mcq) In many Indian cities, where does waste that is all mixed together in one bag usually go?  
    Options: Straight to a recycling factory / To a dumping ground on the edge of the city / Into space / Back to the shop  
    **Answer:** To a dumping ground on the edge of the city. *Why:* Mixed waste is very hard to sort, so most of it ends up in dumping grounds like Ghazipur in Delhi. Sorted waste can be composted or sold to kabadiwalas.
 9. (mcq) Who does a large part of the recycling in India?  
@@ -784,12 +788,12 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
 10. (mcq) Inside a big dump, wet waste rots without air. What does it make that can catch fire?  
    Options: Oxygen / Methane gas / Water / Gold  
    **Answer:** Methane gas. *Why:* Methane is made when wet waste rots with no air. Dump fires and warming of the planet are linked to it. Composting peels at home stops this.
-11. (mcq) Turning an old T-shirt into a shopping bag is an example of…  
+11. (mcq) Riya, a girl in Class 3, cuts up an old T-shirt and ties it into a shopping bag. What is this called?  
    Options: Upcycling / Burning / Downcycling / Composting  
    **Answer:** Upcycling. *Why:* Upcycling makes waste into something more useful. Downcycling makes it into something of lower quality.
-12. (mcq) In the bag test, a newspaper bag held 3 bottles and a cloth bag held 15. How many times as many did the cloth bag hold?  
-   Options: 3 times / 5 times / 12 times / 15 times  
-   **Answer:** 5 times. *Why:* 15 divided by 3 is 5. So the cloth bag held 5 times as many bottles. Picking 12 means subtracting, 15 take away 3. That tells how many more, not how many times as many.
+12. (mcq) In the bag test, a newspaper bag held 2 kilograms and a cloth bag held 10 kilograms. How many times as much did the cloth bag hold?  
+   Options: 2 times / 5 times / 8 times / 10 times  
+   **Answer:** 5 times. *Why:* 10 divided by 2 is 5. So the cloth bag held 5 times as much. Picking 8 means subtracting, 10 take away 2. That tells how much more, not how many times as much.
 13. (mcq) In 2016, scientists found a bacterium that eats PET bottle plastic. What do most scientists say about it?  
    Options: It has already cleaned up the oceans / It is real and exciting, but slow, and works mainly on one kind of plastic / It does not exist / It eats all plastic quickly  
    **Answer:** It is real and exciting, but slow, and works mainly on one kind of plastic. *Why:* Ideonella sakaiensis is real, but it took weeks to eat a thin film, and only PET. Scientists are still debating how much such microbes can help. Picking 'cleaned up the oceans' trusts a hopeful headline more than the evidence.
@@ -826,7 +830,7 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
 - The number inside a triangle of arrows on the bottom of plastic bottles and boxes.
 
 ## Open questions
-- **How long does plastic really last?** Plastic has existed for only about a hundred years. Times like '450 years' come from speeded-up tests and are rough guesses. Different plastics, and different places, give very different answers.
+- **How long does plastic really last?** Most plastic has existed for less than 75 years. Times like '450 years' come from speeded-up tests and are rough guesses. Different plastics, and different places, give very different answers.
 - **What do microplastics do inside animals and people?** They have been found in fish, birds, soil animals and human bodies. Scientists are still studying whether, and how, they cause harm.
 - **Will microbes in nature evolve to eat plastic?** A few bacteria and fungi have been found that break down some plastics slowly. Nobody knows how fast this will spread, or whether it will reach the plastics that matter most.
 - **Do wax worms truly digest plastic bags?** Some experiments say yes, and enzymes have been found in their saliva. Other scientists question how much plastic is really broken down, rather than just chewed.
@@ -860,7 +864,7 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
 - Why was the compost pot so warm? *Millions of tiny friends were having a party inside.*
 - What do you call a broken crayon that gets melted down? *A crayon with a bright future.*
 - Why did the T-shirt become a bag? *It wanted to carry on.*
-- What did the earthworm say to the dry leaf? *I'm dying to have you for lunch.*
+- Why does the earthworm love the time when leaves fall? *Lunch keeps dropping from the trees.*
 - Why are tin cans so brave? *They've been through the fire and come back again.*
 - Why did the paper go back to the mixer? *It wanted to make a fresh start.*
 - Where does a plastic bottle go on holiday? *Everywhere. For hundreds of years.*
@@ -877,8 +881,8 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
 - What did the microbe say to the plastic? *Sorry, I don't have the key.*
 
 ## Connected maths
-- In the bag test, the newspaper bag held 3 bottles. The cloth bag held 15 bottles. How many times as many bottles did the cloth bag hold? **5 times.**. The cloth bag held 15 bottles. The newspaper bag held 3. 15 divided by 3 is 5. You can check: 3 + 3 + 3 + 3 + 3 = 15. So the cloth bag held 5 times as many. (queues `math.division.sharing-and-grouping.L3`)
-- Each bottle in the bag test holds 500 ml of water, which weighs half a kilogram. The T-shirt bag held 14 bottles. How many kilograms was that? **7 kilograms.**. Each bottle weighs half a kilogram. Two bottles make 1 kilogram. 14 bottles make 14 divided by 2, which is 7. So the bag carried 7 kilograms. (queues `math.weight-capacity.weight.L3`)
+- In the bag test, the newspaper bag held 2 kilograms. The cloth bag held 10 kilograms. How many times as much did the cloth bag hold? **5 times.**. The cloth bag held 10 kilograms. The newspaper bag held 2. 10 divided by 2 is 5. You can check: 2 + 2 + 2 + 2 + 2 = 10. So the cloth bag held 5 times as much. (queues `math.division.sharing-and-grouping.L3`)
+- In the bag test, the T-shirt bag held 7 kilograms. At the market, you buy 2 kilograms of potatoes, 1 kilogram of onions, 1 kilogram of tomatoes and half a kilogram of peas. Can the T-shirt bag carry it all? How much room is left? **Yes. The vegetables weigh 4 and a half kilograms, so there are 2 and a half kilograms to spare.**. Add the vegetables: 2 + 1 + 1 = 4 kilograms, and the peas make it 4 and a half. The bag held 7 kilograms. 7 take away 4 and a half is 2 and a half. So the bag can carry it all, with 2 and a half kilograms to spare. (queues `math.weight-capacity.weight.L3`)
 - In Dustbin Detective, a family made these marks in one day. ROTS: 12. KABADIWALA: 7. COULD BE REUSED: 3. NOTHING ELSE: 9. Draw a bar chart. Which column was biggest, and how many marks were there in all? **ROTS was biggest, with 12 marks. There were 31 marks in all. Here is the bar chart.**. Draw one bar for each column, as tall as its number. The tallest bar is ROTS, at 12. To find the total, add them: 12 + 7 = 19. 19 + 3 = 22. 22 + 9 = 31. (queues `math.data.bar-charts.L3`)
 - Scientists estimated that out of every 100 parts of plastic waste ever made, 9 were recycled and 12 were burned. How many out of 100 were neither recycled nor burned? **79 out of 100.**. Recycled and burned together make 9 + 12 = 21. Take 21 away from 100. 100 minus 21 is 79. So 79 out of every 100 parts are in dumps or loose in nature. (queues `math.addition-subtraction.word-problems.L3`)
 - A family puts out about 2 kilograms of wet waste every day. How much is that in one week? If they compost it all, how much less goes to the dump in a week? **14 kilograms in a week. Composting would keep all 14 kilograms out of the dump.**. There are 7 days in a week. 2 kilograms each day for 7 days is 7 times 2, which is 14. If all of it goes to the compost pot, 14 kilograms less goes to the dump. (queues `math.multiplication.equal-groups.L3`)

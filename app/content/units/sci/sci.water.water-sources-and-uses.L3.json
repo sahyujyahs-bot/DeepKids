@@ -1,14 +1,14 @@
 {
  "id": "sci.water.water-sources-and-uses.L3",
- "title": "Water at home: where it comes from, how we store it, and when it is safe",
+ "title": "Where our water comes from, and when it is safe to drink",
  "level": 3,
  "summary": {
-  "text": "This unit is about the water we use every day. Almost all of it starts as rain. Some rain runs into rivers and lakes. Some soaks into the ground and hides between grains of soil and rock. That hidden water is called groundwater. Wells and borewells pull it up. People store water in matkas, tanks, ponds and stepwells, and clean it before they drink it. Clear water is not always clean, because germs and dissolved salts are invisible. Some places have too little water, and some water is unsafe. Deep down, no water is new. The water in your glass has been rain, river, sea and other living things before you.",
+  "text": "Almost all the water we use starts as rain. Some rain flows into rivers and lakes. Some soaks into the ground and fills the tiny gaps between grains of soil and rock. That is groundwater. Wells and borewells reach down to it. People store water in matkas, tanks, ponds and stepwells, and clean it before they drink it. Water that looks clear can still carry germs and dissolved salts, because both are too small to see.",
   "art": "A cut-away picture: rain falling on a village and a city, water soaking into the ground between pebbles, a borewell pipe reaching down, a river flowing to a tank, and a child at a kitchen tap holding a glass of water."
  },
  "intro": {
-  "hook": "Turn on a tap and fill a glass. Hold it up to the light. Where was this exact water one week ago? One year ago? Before you were born?",
-  "text": "Most children say the water comes from the tap. But a tap is only a door. Behind it is a pipe. Behind the pipe is a tank, a well or a river. Behind those is the sky. In this unit you will follow your water all the way back. You will find water hiding under the ground, test why a clay pot keeps water cool, and find out why water that looks perfectly clear can still make people ill.",
+  "hook": "Fill a glass from the tap and hold it up to the light. It looks like nothing but water. Where was this water last week? And is there anything else in it?",
+  "text": "Most children say the water comes from the tap. But a tap makes no water. It only lets out water that is already in the pipe. The pipe brings it from a tank, a well or a river, and those were filled by rain. In this unit you follow your water back to where it started. You also dry spoonfuls of clear water on a plate, to see what was hiding in them.",
   "art": "A glass of water on a kitchen counter, with a dotted trail behind it going back through a pipe, a tank on the roof, a borewell, and up to a rain cloud."
  },
  "outcomes": [
@@ -19,7 +19,7 @@
   "I can explain why clear water is not always clean, and name ways to make water safe: settling, filtering, boiling and chlorine.",
   "I can measure how much water my family uses in litres, and show it in a table and a bar chart.",
   "I can explain the problems of too little water and of dirty water, and say who they hurt most.",
-  "I can explain that the water we use is very old and goes round and round. I can give big examples: satellites that weigh groundwater, and water found on the Moon."
+  "I can explain that the water we use is very old and goes round and round. I can describe how satellites weigh groundwater, and how water was found on the Moon."
  ],
  "cards_mins": 20,
  "terms": [
@@ -153,7 +153,7 @@
    "term": "Molecule",
    "meaning": "The tiniest bit of something that is still that thing. A water molecule is two hydrogen atoms joined to one oxygen atom. Scientists write it H2O.",
    "example": "One drop of water has more molecules than there are grains of sand on all of Earth's beaches.",
-   "art": "A big ball (oxygen) with two smaller balls (hydrogen) stuck on like Mickey Mouse ears."
+   "art": "A big ball (oxygen) with two smaller balls (hydrogen) stuck on its top, like two ears on a head."
   },
   {
    "term": "Litre",
@@ -223,7 +223,7 @@
    "concept": "Storing water, then and now",
    "status": "defined",
    "definition": "Storing water means keeping it safely for later. People store rain and groundwater in pots, tanks, ponds, wells and lakes behind dams.",
-   "description": "Rain in most of India comes mainly in about four months of monsoon. People need water all twelve months. So for thousands of years, people have stored it. About 4,500 years ago, the Harappan city of Dholavira in Gujarat had huge stone reservoirs to hold rainwater. Mohenjo-daro had hundreds of brick wells. Villages built ponds and tanks, and cleaned out the mud together every year. In the Thar desert, families built tankas, covered underground tanks. In western India, people built stepwells, so they could walk down to the water as it fell lower in summer. Many stepwells were paid for by women, including Rani ki Vav in Patan, built under Queen Udayamati about 900 years ago. Today we also use overhead tanks, sumps, steel drums and giant reservoirs behind dams.",
+   "description": "Rain in most of India comes mainly in about four months of monsoon. People need water all twelve months. So for thousands of years, people have stored it. About 4,500 years ago, the Harappan city of Dholavira in Gujarat had huge stone reservoirs to hold rainwater. Mohenjo-daro had hundreds of brick wells. Villages built ponds and tanks, and cleaned out the mud together every year. In the Thar desert, families built tankas, covered underground tanks. In western India, people built stepwells, so they could walk down to the water as it fell lower in summer. Women paid for some of the grandest stepwells. Rani ki Vav in Patan was built by Queen Udayamati nearly 1,000 years ago. Today we also use overhead tanks, sumps, steel drums and giant reservoirs behind dams.",
    "examples": [
     "A matka keeps a family's drinking water for the day.",
     "Rani ki Vav is so beautiful that it is printed on India's 100 rupee note.",
@@ -252,7 +252,7 @@
    "concept": "Clear is not the same as clean",
    "status": "defined",
    "definition": "Water that looks clear can still carry germs and dissolved substances that we cannot see. Clear water is not always safe water.",
-   "description": "Water can carry three kinds of things. The first kind is bits you can see, like mud, leaves and sand. These make water cloudy. The second kind is germs, such as bacteria and viruses. They are far too small to see. Thousands could fit across the full stop at the end of this sentence. The third kind is dissolved things, such as salt, or harmful substances like arsenic and too much fluoride. They mix in completely and vanish from sight. So a glass of water can look perfect, smell fine and taste sweet, and still make you ill. The only way to know is to test it, or to make it safe before drinking.",
+   "description": "Water can carry three kinds of things. The first kind is bits you can see, like mud, leaves and sand. These make water cloudy. The second kind is germs, such as bacteria and viruses. They are far too small to see. Hundreds of bacteria could sit side by side across the full stop at the end of this sentence. The third kind is dissolved things, such as salt, or harmful substances like arsenic and too much fluoride. They mix in completely and vanish from sight. So a glass of water can look perfect, smell fine and taste sweet, and still make you ill. The only way to know is to test it, or to make it safe before drinking.",
    "examples": [
     "Sea water looks clear, but it is full of dissolved salt.",
     "In 1854 in London, people loved the clear, cold water from one pump. It was spreading cholera.",
@@ -266,7 +266,7 @@
    "concept": "Making water safe to drink",
    "status": "defined",
    "definition": "Settling and filtering remove bits you can see. Boiling, chlorine and strong sunlight kill germs. Special filters are needed to remove dissolved substances like salt or arsenic.",
-   "description": "Different dirt needs different cleaning. Settling means leaving water still, so heavy bits sink to the bottom. Filtering means passing water through cloth, sand or a filter that catches bits. Neither of these reliably removes germs. Boiling water until big bubbles roll, and keeping it boiling for a minute or more, kills germs. Chlorine kills germs too. Even strong sunlight can kill many germs in a clear bottle left in full sun for about six hours. Scientists in Switzerland tested this, and the World Health Organization accepts it. But here is a surprise. Boiling does not remove salt, arsenic or fluoride. To take those out, people need special filters, or a purifier called reverse osmosis, RO for short. Many RO machines also throw away a lot of water as they work.",
+   "description": "Different dirt needs different cleaning. Settling means leaving water still, so heavy bits sink to the bottom. Filtering means passing water through cloth, sand or a filter that catches bits. Neither of these reliably removes germs. Boiling water until big bubbles roll, and keeping it boiling for a minute or more, kills germs. Chlorine kills germs too. Even strong sunlight can kill many germs in a clear bottle left in full sun for about six hours. Scientists in Switzerland tested this, and the World Health Organization accepts it. Boiling does not remove salt, arsenic or fluoride. To take those out, people need special filters, or a purifier called reverse osmosis, RO for short. Many RO machines also throw away a lot of water as they work.",
    "examples": [
     "Many Indian families boil their drinking water, or use a filter or purifier.",
     "City treatment plants settle, filter and add chlorine.",
@@ -274,7 +274,7 @@
    ],
    "perspectives": [],
    "art": "Four panels: a jug of muddy water settling, a cloth filter over a glass, a pot boiling with big bubbles, and a clear bottle lying in the sun on a tin roof.",
-   "context": "There are many ways to clean water. This card explains which way removes which kind of dirt, and one big surprise about boiling."
+   "context": "There are many ways to clean water. This card explains which way removes which kind of dirt, and what boiling cannot remove."
   },
   {
    "concept": "How much water a home uses",
@@ -392,7 +392,7 @@
    "description": "In the early 1980s, doctors in Kolkata saw patients with dark spots and hard patches on their skin. A skin doctor, K. C. Saha, traced the cause to arsenic, a poison, in their tubewell water. Since then, arsenic has been found in groundwater in West Bengal, Bangladesh, Bihar, Uttar Pradesh, Assam and other places. Dipankar Chakraborti, a scientist at Jadavpur University in Kolkata, spent decades testing tens of thousands of wells. Scientists agree the arsenic was not poured in by people. It comes naturally from mud washed down from the Himalayas long ago. The harder question is why it gets into the water, and whether pumping makes it worse.",
    "examples": [
     "Arsenic has no colour, taste or smell. Only a test can find it.",
-    "Some families now paint arsenic-free tubewells green and unsafe ones red, after testing."
+    "After testing, many tubewells are painted green if the water is safe and red if it is not."
    ],
    "perspectives": [
     {
@@ -415,7 +415,7 @@
    "concept": "What a water molecule is, and why water dissolves so much",
    "status": "defined",
    "definition": "A water molecule is two hydrogen atoms joined to one oxygen atom. Its ends carry tiny electric charges, so it pulls many other substances apart and dissolves them.",
-   "description": "Zoom in to a drop of water, far past any microscope, and you reach molecules. Each one is one oxygen atom with two hydrogen atoms stuck on, like a head with two ears. Scientists write it H2O. The oxygen end has a tiny bit of negative electric charge. The hydrogen ends have a tiny bit of positive charge. So water molecules are like tiny magnets. They tug on salt, sugar and many other things, and pull them apart into single bits. Those bits spread between the water molecules and vanish from sight. This is why water dissolves so many things. It is also why water is so hard to keep clean.",
+   "description": "Zoom in to a drop of water, far past any microscope, and you reach molecules. Each one is one oxygen atom with two hydrogen atoms stuck on, like a head with two ears. Scientists write it H2O. The oxygen end has a tiny negative electric charge. The hydrogen ends have a tiny positive charge. Opposite charges attract. So water molecules attract the tiny charged parts of salt, sugar and many other things, and pull them apart. Those parts spread out between the water molecules and can no longer be seen. This is why water dissolves so many things. It is also why water is so hard to keep clean.",
    "examples": [
     "Stir salt into water. Water molecules pull the salt apart, and it disappears.",
     "Oil does not dissolve in water, because oil molecules have no charged ends for water to pull on."
@@ -487,11 +487,11 @@
    "concept": "Water inside living bodies",
    "status": "defined",
    "definition": "More than half of the human body is water. The kidneys clean the body's fluids every day.",
-   "description": "Every living thing needs water. More than half of your body weight is water. A newborn baby is about three-quarters water. Your blood is mostly water. It carries food and oxygen to every part of you. You lose water every day when you breathe out, sweat and go to the toilet. So you must drink to replace it. Your two kidneys are your body's own water-cleaning plant. Each day an adult's kidneys clean about 180 litres of fluid. That is more than a family's buckets for a day. They keep most of it, and send out the waste as urine.",
+   "description": "Every living thing needs water. More than half of your body weight is water. A newborn baby is about three-quarters water. Your blood is mostly water. It carries food and oxygen to every part of you. You lose water every day when you breathe out, sweat and go to the toilet. So you must drink to replace it. Your two kidneys are your body's own water-cleaning plant. Each day an adult's kidneys clean about 180 litres of fluid. That is about 12 buckets of 15 litres. They keep most of it, and send out the waste as urine.",
    "examples": [
     "Breathe onto a cold steel plate. The mist is water from inside you.",
     "When you are thirsty, your body is telling you it needs water back.",
-    "A cactus stores water in its thick stem for dry months."
+    "A cactus lives where rain may not come for months. It stores water in its thick, fleshy stem, so it can keep living through the dry months."
    ],
    "perspectives": [],
    "art": "A child's outline filled mostly with blue water, with two bean-shaped kidneys glowing like tiny cleaning plants.",
@@ -612,7 +612,7 @@
   {
    "q": "If rain soaks into the ground so slowly, how long has the water in a deep borewell been waiting there?",
    "kind": "deep",
-   "hint": "Some groundwater fell as rain before the first kings of India."
+   "hint": "Some water in deep borewells fell as rain thousands of years ago."
   },
   {
    "q": "How did people find water under the ground before there were machines and maps?",
@@ -651,7 +651,7 @@
    "On Saturday, the curtains of the house were closed. Mr Pike took off his hat and spoke to the maid. When he climbed back onto the cart, his face was grey. 'Cholera,' he said quietly. 'Both of them. The old lady, and the niece.'",
    "Tom could not understand it. All the way down the hill, he kept thinking. The bad air of Soho could not have floated all the way up here. The wind had been blowing the other way all week. Nobody else on the hill was ill. What had travelled from Broad Street to that house with the roses?",
    "Then he looked down at his feet. In the straw of the cart sat the empty stone bottle, the one he had filled on Thursday.",
-   "It felt like the ground had tipped. He had carried it himself. He had carried it every day.",
+   "Tom felt sick. He had carried that bottle himself, every single day.",
    "That afternoon, Tom saw a thin, serious man walking slowly along Broad Street. He had a notebook. He was knocking on doors, and at every door he asked the same strange question. 'Where did this family get its water?' People said he was Dr Snow, and that he was a bit odd. Everybody knew it was the air.",
    "Tom ran after him. His words came out in a tumble: the bottle, the cart, the hill, the roses, the old lady, the niece with the glass at the window.",
    "Dr Snow stopped writing. He looked at Tom for a long moment. 'Hampstead,' he said. 'Fresh air, and no cholera. And the only thing from Broad Street in that house was the water.' He wrote it down very carefully. 'Do you know the brewery on this street?' he asked. 'Seventy men work there. Not one has fallen ill. They drink beer, and the brewery has its own well. The workhouse round the corner has hundreds of people and its own well too. Hardly any of them are sick.'",
@@ -710,10 +710,10 @@
       "15 A borewell pumps too fast. Go back 2.",
       "16 You slide sideways through an aquifer, a wet rock layer. Go forward 2.",
       "17 A tanka catches you from a clean roof. Go forward 2.",
-      "18 You meet a tiny germ. Roll again. Odd: back 1. Even: forward 1.",
+      "18 You seep past a leaking sewer pipe and pick up germs. Go back 1.",
       "19 Someone leaves a tap running. Back to START.",
       "20 You join the groundwater.",
-      "21 A neem tree's shade keeps you cool.",
+      "21 You move only a few centimetres today. Groundwater is slow.",
       "22 A farmer floods a field all afternoon. Go back 3.",
       "23 You pick up some dissolved salt from the rock.",
       "24 You trickle towards a deep stepwell.",
@@ -800,7 +800,7 @@
        ]
       }
      ],
-     "parent": "Squares 6, 19 and 22 send drops back. These are evaporation and waste. Squares 2, 7 and 9 help, because water soaks in. Square 15 shows over-pumping. Square 23 shows how water picks up dissolved salts from rock."
+     "parent": "Squares 3, 8 and 12 send drops back, because rain runs off hard ground. Squares 6, 19 and 22 send drops back through evaporation and waste. Squares 2, 7 and 9 help, because water soaks in. Square 15 shows over-pumping. Square 23 shows how water picks up dissolved salts from rock."
     },
     {
      "id": "s4",
@@ -926,7 +926,7 @@
        ]
       }
      ],
-     "parent": "Good placements. DRINK IT: the sealed bottle, the working purifier, the boiled and covered water, and the matka filled with boiled water. MAKE IT SAFE FIRST: the stream, the untested handpump and the hotel tap. Also the settled river water, the rainwater left out, the street ice and the stepwell. NEVER: the puddle, the sea water, the arsenic well, the fluoride borewell, the fish tank and the bucket with the insect. Boiling does not remove salt, arsenic or fluoride. City tap water depends on your city. Many families boil or purify it to be sure. The sunny bottle is tricky. Sunlight can kill many germs. But it needs a clean, clear bottle in strong sun for about six hours."
+     "parent": "Good placements. DRINK IT: the sealed bottle, the working purifier, the boiled and covered water, and the matka filled with boiled water. MAKE IT SAFE FIRST: the stream, the untested handpump and the hotel tap. Also the settled river water, the rainwater left out, the street ice and the stepwell. NEVER: the puddle, the sea water, the arsenic well, the fluoride borewell, the fish tank the bucket with the insect and the garden hose. Old water sits in a hose and in a fish tank, and germs grow in it. Boiling does not remove salt, arsenic or fluoride. City tap water depends on your city. Many families boil or purify it to be sure. The sunny bottle is tricky. Sunlight can kill many germs. But it needs a clean, clear bottle in strong sun for about six hours."
     },
     {
      "id": "s4",
@@ -1057,7 +1057,7 @@
      "t": "truefalse",
      "p": "A tap makes water.",
      "a": false,
-     "why": "False. A tap is only a door at the end of a pipe. The water comes from a tank, a river, a lake or the ground."
+     "why": "False. A tap only lets out water that is already in the pipe. The water comes from a tank, a river, a lake or the ground."
     },
     {
      "t": "fill",
@@ -1510,7 +1510,7 @@
       "Salt is smaller than oil"
      ],
      "a": 0,
-     "why": "Water molecules are like tiny magnets. They pull salt apart into single bits. Oil molecules have no charged ends, so water cannot pull them apart. Picking 'oil is heavier' is wrong. Oil is lighter, which is why it floats."
+     "why": "Water molecules have tiny electric charges at their ends, and opposite charges attract. So they pull salt apart into tiny pieces. Oil molecules have no charged ends, so water cannot grip them. Picking 'oil is heavier' is wrong. Oil is lighter than water, which is why it floats."
     },
     {
      "t": "truefalse",
@@ -1543,7 +1543,7 @@
     },
     {
      "t": "mcq",
-     "p": "John Snow learned that a widow in Hampstead, where nobody else had cholera, drank water carried from the Broad Street pump, and died of cholera. Why was this such strong evidence?",
+     "p": "John Snow was a doctor in London in 1854. He learned that a widow in Hampstead drank water carried from the Broad Street pump, and died of cholera. Nobody else near her had cholera. Why was this strong evidence?",
      "opts": [
       "She shared none of Soho's air, only its water, so the water must carry the illness",
       "She was old",
@@ -1609,7 +1609,7 @@
    "mins": 25,
    "days": 1,
    "question": "When rain falls on different ground, where does it go?",
-   "predict": "Before you pour, guess. Put the four grounds in order, from the one that will drink the water fastest to the one that will let it run away.",
+   "predict": "Before you pour, guess. Put the four grounds in order, from the one that will soak up the water fastest to the one that will let it run away. Why do you think so?",
    "fair_test": "To make it fair, change only the ground. Use the same mug, filled to the same line. Pour from the same height, at the same slow speed. Time each one the same way.",
    "results_table": [
     "Ground",
@@ -1627,7 +1627,7 @@
      "qty": 1
     },
     {
-     "item": "four places outdoors: bare soil, grass, sand and cement or tiles",
+     "item": "four grounds: bare soil, grass, sand and cement or tiles. In a flat, use the soil of a big plant pot, a tray of sand, and a tile or steel plate, and skip the grass.",
      "qty": 4
     },
     {
@@ -1636,7 +1636,7 @@
      "buy": "b-timer"
     }
    ],
-   "safety": "Do this outside with a grown-up. Wet tiles are slippery, so walk carefully.",
+   "safety": "Do this outside, on a balcony or in the bathroom, with a grown-up. Wet tiles are slippery, so walk carefully.",
    "schedule": [
     {
      "day": 1,
@@ -1650,7 +1650,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Find four places close together: bare soil, grass, sand and a cement or tiled floor. 2. Ask your child to guess which will drink the water fastest.",
+     "do": "1. Find four places close together: bare soil, grass, sand and a cement or tiled floor. In a flat, use a big plant pot's soil, a tray of sand and a tile. Do it on the balcony or in the bathroom. 2. Ask your child to guess which will soak up the water fastest, and why.",
      "say": "Rain is about to fall on these four places. Which one do you think will drink it up fastest? Which one will let it run away?",
      "kid": "Find four grounds: soil, grass, sand and cement. Guess! Which one drinks water fastest? Which one lets it run away?",
      "adult": true,
@@ -1734,8 +1734,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: soft ground like sand and soil drinks rain, but cement makes it run off. What I saw: the sand puddle was gone in 10 seconds, but the cement puddle lasted more than 5 minutes. Why: sand and soil have tiny gaps for water to trickle into, and cement has none."
     }
    ],
@@ -1791,7 +1791,7 @@
    "mins": 25,
    "days": 1,
    "question": "How is water stored under the ground, and what happens to a well when we pump too fast?",
-   "predict": "Guess first. When you pour 'rain' on top of the soil in the jar, will you be able to see where it goes? What will happen to the water at the bottom when you pump it out?",
+   "predict": "Guess first. When you pour 'rain' on top of the soil, where will it go? What will happen to the water at the bottom when you pump some out? Why do you think so?",
    "fair_test": "Pour the same amount of 'rain' each time. Pump the same number of times each time. Mark the water level after every change, so you can compare.",
    "results_table": [
     "What we did",
@@ -1803,15 +1803,15 @@
      "qty": 1
     },
     {
-     "item": "small gravel or pebbles, clean sand and soil",
+     "item": "small pebbles or gravel (from a plant shop or a building site), clean sand (plant shops sell both), and soil from a plant pot",
      "qty": 1
     },
     {
-     "item": "a drinking straw or a thin tube, and a medicine dropper or a syringe without a needle",
+     "item": "a drinking straw, and a 10 ml syringe without a needle (any chemist sells one for a few rupees)",
      "qty": 1
     },
     {
-     "item": "a cup of water",
+     "item": "a jug of water and a cup",
      "qty": 1
     },
     {
@@ -1820,7 +1820,7 @@
      "buy": "b-ruler"
     }
    ],
-   "safety": "A grown-up cuts the bottle. Do not drink any of the water.",
+   "safety": "A grown-up cuts the bottle. Do not drink any of the water. Wash your hands after touching the soil.",
    "schedule": [
     {
      "day": 1,
@@ -1843,9 +1843,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Slowly pour a cup of water onto the soil, like rain. 2. Watch through the side. 3. When the water stops moving, mark the water level at the bottom with the marker.",
+     "do": "1. Pour water slowly onto the soil, one cup at a time, like rain. 2. Watch through the side. Dry soil soaks up a lot first, so keep going. 3. Stop when water has collected between the pebbles at the bottom, about 3 to 4 cm deep. 4. Wait 2 minutes, then mark the water level with the marker. Write down how many cups it took.",
      "say": "Watch closely. Where does the rain go? Can you see it in the gaps between the stones?",
-     "kid": "Pour the cup of water on top, slowly, like rain. Watch through the side. Mark where the water stops.",
+     "kid": "Pour water on top, one cup at a time, like rain. Watch through the side. Stop when water fills the pebbles at the bottom. Mark the level.",
      "ask": [
       {
        "q": "Is the groundwater a lake or a pool?",
@@ -1859,9 +1859,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Push the dropper down the straw. 2. Pull water up ten times, squirting it into a cup each time. 3. Mark the new water level.",
+     "do": "1. Push the tip of the syringe into the top of the straw. Squeeze the straw tight round it with your fingers, so no air gets in. 2. Pull the plunger to suck water up, then squirt it into a cup. 3. Do this 10 times. 4. Mark the new water level.",
      "say": "Now the village is pumping water from its well. Ten pumps. What happens to the water level?",
-     "kid": "Put the dropper down the straw. Pull water up 10 times. Squirt it into a cup. Mark the new level.",
+     "kid": "Push the syringe onto the top of the straw. Pull to suck water up. Squirt it into a cup. Do it 10 times. Mark the new level.",
      "check": {
       "t": "mcq",
       "q": "In the jar well, the water level dropped after pumping. What would refill it?",
@@ -1872,12 +1872,13 @@
       ],
       "a": 0,
       "why": "Groundwater only comes back when rain soaks down through the soil to refill the gaps. Pumping faster makes the level drop more. Covering the soil with plastic, like covering land with cement, stops rain soaking in. Picking 'pumping faster' usually means thinking a well makes its own water. It doesn't. It only collects water that soaked in."
-     }
+     },
+     "parent": "Ten full syringes take out about 100 millilitres. In a jar about 10 cm across, that lowers the level by 2 to 4 cm, enough to see. With a small medicine dropper the change is too small, so use a syringe."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Pour half a cup of rain on top. 2. Mark the level again. 3. Now cover the soil with a plastic bag, and pour another half cup on top of the plastic.",
+     "do": "1. Pour half a cup of water on top. 2. Wait 5 minutes, then mark the level again. 3. Now cover the soil with a plastic bag, and pour another half cup on top of the plastic. 4. Wait 5 minutes and look at the level.",
      "say": "First, a little rain. Then, what if the land were covered in cement? The plastic is our cement.",
      "kid": "Pour half a cup of rain. Mark the level. Now cover the soil with plastic. Pour again. Does the well fill?",
      "think": "In the real ground, rain can take months or years to reach a deep borewell. What happens if people pump faster than that?",
@@ -1890,7 +1891,7 @@
       ],
       "rows": [
        [
-        "After one cup of rain",
+        "After the first rain",
         "4"
        ],
        [
@@ -1912,8 +1913,8 @@
      "id": "s5",
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a well only stays full if rain soaks in to refill the ground. What I saw: the level fell from 4 cm to 2 cm after pumping. It came back to 3 cm after rain. It did not rise when the soil was covered. Why: groundwater sits in the gaps between stones, and only rain soaking down can refill those gaps."
     }
    ],
@@ -1926,7 +1927,7 @@
     ],
     "rows": [
      [
-      "After one cup of rain",
+      "After the first rain",
       "4"
      ],
      [
@@ -1953,7 +1954,7 @@
      "caption": "2. Pour 'rain' on top. Mark the water level at the bottom."
     },
     {
-     "art": "A dropper pulling water up through the straw, and two marker lines on the jar showing the level has dropped.",
+     "art": "A syringe on top of the straw pulling water up through the straw, and two marker lines on the jar showing the level has dropped.",
      "caption": "3. Pump water up the straw. Mark how far the level falls."
     }
    ]
@@ -1964,7 +1965,7 @@
    "mins": 25,
    "days": 1,
    "question": "Does water stay cooler in a clay matka than in a steel or plastic bottle? Why?",
-   "predict": "Guess first. After four hours in the same place, which will be coolest: the matka, the steel bottle, or the steel bottle wrapped in a wet cloth?",
+   "predict": "Guess first. After four hours in the same place, which will be coolest: the matka, the steel bottle, or the steel bottle wrapped in a wet cloth? Why do you think so?",
    "fair_test": "To make it fair, fill all three from the same tap at the same time. Keep them side by side in the same shady, airy place. Measure them all at the same time, with the same thermometer.",
    "results_table": [
     "Container",
@@ -2014,7 +2015,7 @@
      "do": "1. In the morning, fill the matka and the two bottles from the same tap. 2. Wet the cloth, squeeze it a little, and wrap it round one bottle. 3. Put all three side by side in a shady, airy place. 4. Measure the water in each with the thermometer, and write it down.",
      "say": "These three start the same. Same water, same tap, same place. Which do you think will be coolest by lunchtime?",
      "kid": "Fill the matka and both bottles from the same tap. Wrap one bottle in a wet cloth. Put them side by side. Measure each one.",
-     "parent": "Wait about one minute before reading the thermometer, so it settles. If you have no thermometer, your child can dip a finger in each and put them in order from coolest to warmest.",
+     "parent": "Wait about one minute before reading the thermometer, so it settles. If you have no thermometer, your child can dip a finger in each and put them in order from coolest to warmest. A small clay pot gives the fairest test, because a big matka holds more water and cools more slowly. A new matka works best after soaking it in water for a few hours. If the wrapped bottle ends up coolest, that is fine too: both cool by evaporation.",
      "context": "This is the first step of the Cool Matka Test. You fill a matka and two bottles with the same water, so you can compare them later."
     },
     {
@@ -2088,8 +2089,8 @@
      "id": "s5",
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the matka keeps water coolest because water evaporates from its outside. What I saw: after four hours the matka was 24 °C, the wrapped bottle 26 °C and the steel bottle 29 °C. The matka felt damp outside. Why: evaporating water takes heat away with it."
     }
    ],
@@ -2138,7 +2139,7 @@
    "mins": 25,
    "days": 1,
    "question": "Can two glasses of water look exactly the same, but have different things hidden in them?",
-   "predict": "Guess first. Two glasses of water look exactly the same. If you dry a spoonful of each on a dark plate, will they leave the same marks?",
+   "predict": "Guess first. Two glasses of water look exactly the same. If you dry a spoonful of each on a plate, will they leave the same marks? And will plain tap water leave anything at all? Why do you think so?",
    "fair_test": "Use the same amount of water from each glass, the same plate and the same sunny spot. Only the water changes.",
    "results_table": [
     "Water",
@@ -2159,11 +2160,11 @@
      "qty": 1
     },
     {
-     "item": "a dark steel plate, or a black plastic lid",
+     "item": "a dark plate or a black plastic lid (a steel plate also works, but the ring is harder to see)",
      "qty": 1
     },
     {
-     "item": "a sunny windowsill or terrace",
+     "item": "a sunny windowsill, or a place under a fan",
      "qty": 1
     }
    ],
@@ -2186,9 +2187,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Fill all three glasses with drinking water. 2. Stir one big spoon of salt into glass B until it vanishes. 3. Stir one spoon of soil into glass C.",
+     "do": "1. Fill all three glasses with water from the kitchen tap. 2. Stir one big spoon of salt into glass B until it vanishes. 3. Stir one spoon of soil into glass C.",
      "say": "Glass A is plain water. Glass B has salt in it. Can you still see the salt? Glass C has soil.",
-     "kid": "Fill three glasses with water. Stir salt into glass B. Stir soil into glass C. Can you still see the salt?",
+     "kid": "Fill three glasses from the kitchen tap. Stir salt into glass B. Stir soil into glass C. Can you still see the salt?",
      "ask": [
       {
        "q": "Where did the salt go?",
@@ -2210,9 +2211,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "wait": "Leave the plate in the sun for 2 to 3 hours.",
-     "do": "1. Put one spoon of water from A on the dark plate. 2. Put one spoon from B a little way off. 3. Gently take one spoon from the clear top of C, and put it on too. 4. Leave the plate in strong sun until the spots are dry.",
-     "say": "Now the sun will take the water away. Whatever was hiding in the water will be left behind.",
+     "wait": "Leave the plate in the sun for 2 to 3 hours, or under a fan for about 4 hours.",
+     "do": "1. Put one spoon of water from A on the plate. 2. Put one spoon from B a little way off. 3. Gently take one spoon from the clear top of C, and put it on too. 4. Leave the plate in strong sun, or under a fan, until the spots are dry.",
+     "say": "Now the water will evaporate. Whatever was hiding in it will be left behind.",
      "kid": "Put a spoon from each glass on the dark plate. Keep the spots apart. Leave them in the sun to dry."
     },
     {
@@ -2230,16 +2231,16 @@
        "Salt turns into water"
       ],
       "a": 0,
-      "why": "The salt dissolved, so it hid between the water molecules. When the water evaporated, the salt was left behind as a white ring. So clear water can carry things you cannot see. Plain drinking water often leaves a very faint ring too, from minerals dissolved from rocks. Germs and poisons like arsenic are invisible in the same way. Picking 'salt turns into water' means thinking the salt was gone. It wasn't."
+      "why": "The salt dissolved, so it spread out between the water molecules where you could not see it. When the water evaporated, the salt was left behind as a white ring. Plain tap water often leaves a very faint ring too. That ring is minerals the water dissolved from rock and soil on its way to you. Germs and poisons like arsenic are invisible in the same way. Picking 'salt turns into water' means thinking the salt was gone. It wasn't."
      },
-     "parent": "Plain water from a tap or borewell often leaves a faint white ring, from dissolved minerals. That is normal. Water from an RO purifier leaves almost nothing. The muddy water's top leaves a faint brown mark, because a little fine mud stays floating even after settling."
+     "parent": "Plain water from a tap or borewell often leaves a faint white ring. These are minerals, such as calcium, that the water dissolved from rock and soil. That is normal. If your tap gives RO water, it leaves almost nothing, because RO takes most minerals out. The muddy water's top leaves a faint brown mark, because a little fine mud stays floating even after settling. If the plain water leaves nothing you can see, look with a magnifying glass, or try a spoon of borewell or bottled mineral water."
     },
     {
      "id": "s5",
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water that looks clear can still have things hidden in it. What I saw: glasses A and B looked the same. But B left a thick white ring of salt, and A left only a faint mark. Why: the salt dissolved, so I could not see it until the water evaporated."
     }
    ],
@@ -2316,8 +2317,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Stand at the kitchen tap with your child. Turn it on and fill a glass.",
-     "say": "Where does this water come from? Not the tap. The tap is just a door. Let's find out what is behind it.",
-     "kid": "Fill a glass at the kitchen tap. Where did this water come from? The tap is only a door. Let's follow it back!",
+     "say": "Where does this water come from? The tap does not make it. It only lets out water that is already in the pipe. Let's find out what is behind the pipe.",
+     "kid": "Fill a glass at the kitchen tap. Where did this water come from? The tap does not make water. Let's follow the pipe back!",
      "ask": [
       {
        "q": "Where do you think the water was this morning?",
@@ -2459,7 +2460,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Put the gauge in an open place, away from roofs and trees. Weigh it down with stones around it so it does not blow over.",
+     "do": "Put the gauge in an open place with nothing above it. A terrace or a garden works. So does the outer edge of a balcony with no ledge over it. Weigh it down with stones, or tape it in place, so it does not blow over.",
      "say": "Where should it go? Not under a tree or a roof, because they would block the rain or drip extra water in.",
      "kid": "Put your rain gauge in an open place. Not under a tree. Not under a roof. Put stones around it."
     },
@@ -2542,7 +2543,7 @@
      "caption": "1. A grown-up cuts the bottle. Turn the top upside down as a funnel."
     },
     {
-     "art": "A rain gauge with a ruler taped on its side, standing in an open garden, away from trees, with stones around it.",
+     "art": "A rain gauge with a ruler taped on its side, standing on an open terrace, away from walls and trees, with stones around it.",
      "caption": "2. Put it in the open, away from roofs and trees."
     },
     {
@@ -2672,7 +2673,7 @@
        "The toilet"
       ],
       "a": 1,
-      "why": "Drinking has the shortest bar, only 10 litres for the whole family. Bathing and the toilet use far more. Picking bathing usually means reading the shortest word, not the shortest bar. Most of a home's water is for washing and flushing, not for drinking."
+      "why": "Drinking has the shortest bar, only 10 litres for the whole family. Bathing and the toilet use far more. Picking bathing means reading the tallest bar instead of the shortest. Most of a home's water is for washing and flushing, not for drinking."
      }
     },
     {
@@ -2804,7 +2805,7 @@
     }
    ],
    "record": "Draw a map of your walk. Mark every sign of hidden water you found, and say why you think it is a sign.",
-   "context": "About 1,500 years ago, the scholar Varahamihira of Ujjain wrote about signs on the land that show where water hides underground. On this walk you look for signs like his.",
+   "context": "If you have a park, a field or a garden nearby, try this walk. About 1,500 years ago, the scholar Varahamihira of Ujjain wrote about signs on the land that show where water hides underground. On this walk you look for signs like his.",
    "flow": [
     {
      "id": "s1",
@@ -2821,7 +2822,7 @@
      "say": "Why would one tree be green when all the grass around it is brown? What might its roots have found?",
      "kid": "Look for green plants in dry places. Look for damp soil and moss. Look for termite mounds. Mark each one on your map.",
      "adult": true,
-     "parent": "Deep-rooted trees such as neem, jamun and banyan often stay green in dry months because their roots reach water. Termites need damp soil to build. Moss and dark soil mean water is near the surface. None of these signs is certain. Water could also come from a leaking pipe or a garden hose.",
+     "parent": "In the dry months the top soil dries out, and a shallow-rooted plant cannot reach water and turns brown. Trees such as neem, jamun and banyan send roots deep, down to damp soil, so they can keep their leaves green. Termites dry out easily, so they live where they can reach damp soil, and they build mounds from wet soil. Moss and dark soil mean water is near the surface. None of these signs is certain. Water could also come from a leaking pipe or a garden hose.",
      "ask": [
       {
        "q": "Could a green plant in a dry place have another reason to be green?",
@@ -2845,10 +2846,10 @@
       "options": [
        "Check many green trees and many dry places, and see where water is really found",
        "Believe it, because an old book says so",
-       "Ask the tree"
+       "Dig a hole under that one tree"
       ],
       "a": 0,
-      "why": "One example can be a fluke. A fair test checks many trees and many places, and compares them. Scientists who tested some of Varahamihira's signs did this kind of checking. Picking 'an old book says so' means trusting who said it instead of checking. Even great scholars can be partly right."
+      "why": "One example can be a fluke. A fair test checks many trees and many places, and compares them. Digging under one tree tells you about one tree only. Picking 'an old book says so' means trusting who said it instead of checking. Even great scholars can be partly right."
      }
     }
    ],
@@ -3580,7 +3581,7 @@
    "art": "A wall with a green damp patch below a pipe."
   },
   {
-   "text": "A steel bottle sweating on the outside on a sticky day. That water came from the air, not from inside.",
+   "text": "A cold steel bottle from the fridge, wet on the outside on a sticky day. That water came from the air, not from inside.",
    "art": "A cold steel bottle with drops on the outside."
   }
  ],
@@ -3634,8 +3635,8 @@
    "a": "Nothing. It just waved."
   },
   {
-   "j": "Why did the cloud bring an umbrella?",
-   "a": "It was feeling a bit under the weather."
+   "j": "What do clouds do when they get too heavy?",
+   "a": "They let it all out, as rain."
   },
   {
    "j": "What comes down but never goes up?",
@@ -3666,8 +3667,8 @@
    "a": "It just pumps into you."
   },
   {
-   "j": "What did one raindrop say to the other?",
-   "a": "Two's company, three's a cloud."
+   "j": "Why did the borewell feel low?",
+   "a": "Everyone kept pumping it for more."
   },
   {
    "j": "Why did the overhead tank feel important?",
@@ -3855,7 +3856,7 @@
    "why_maths": "A thermometer only helps if you can read its small marks. Then subtracting tells you how much the matka really cooled the water."
   },
   {
-   "problem": "In Rain on Four Grounds, you poured 8 cups of water onto bare soil, one cup at a time. 6 cups soaked in. 2 cups ran off. What fraction of the water ran off?",
+   "problem": "Riya, a girl in Class 3, did Rain on Four Grounds with more water. She poured 8 cups of water onto bare soil, one cup at a time. 6 cups soaked in. 2 cups ran off. What fraction of the water ran off?",
    "answer": "2 out of 8, which is the same as 1 quarter.",
    "explain": "2 cups out of 8 ran off. That is 2 eighths. Put the 8 cups into 4 equal groups of 2. One group ran off. So 2 eighths is the same as 1 quarter. The other 3 quarters soaked in.",
    "math_unit": "math.fractions.fractions-of-a-whole.L3",
@@ -3940,7 +3941,7 @@
    "url": "https://whc.unesco.org",
    "kind": "place",
    "where": "Patan, Gujarat",
-   "why": "A stepwell built about 900 years ago under Queen Udayamati, with seven levels of carved stone. It is a UNESCO World Heritage Site. Search the UNESCO site for Rani-ki-Vav."
+   "why": "A stepwell built nearly 1,000 years ago under Queen Udayamati, with seven levels of carved stone. It is a UNESCO World Heritage Site. Search the UNESCO site for Rani-ki-Vav."
   },
   {
    "title": "Chand Baori stepwell",
@@ -4171,10 +4172,9 @@
   "spine": [
    "intro",
    "a1",
-   "story",
+   "e4",
    "explanations",
    "roots",
-   "big_questions",
    "quiz"
   ]
  },
@@ -4200,23 +4200,23 @@
   ]
  },
  "roots": {
-  "context": "We have been learning where our water comes from, how we store it and when it is safe. Now we ask what water tells us about ourselves and the world.",
+  "context": "We have been learning where our water comes from, how we store it and when it is safe. Now we ask what the water in our glass tells us about the world it came through.",
   "deep_truth": {
-   "truth": "No water is new. The water in you has been rain, river, sea and other living things, and it will be again.",
-   "habit": "We name water by where we catch it: tap water, well water, rainwater, my water. Those are names for one moment in a single long journey. The label sticks to the container and hides the water, the way people say 'Xerox' for every photocopier.",
-   "evidence": "In the jar well, the 'well water' was only the 'rain' you had poured on top. The puddle on cement did not vanish. It went into the air, to fall again somewhere else."
+   "truth": "Plain tap water left a faint white ring when it dried. That ring is minerals, dissolved by the water from rock and soil on its way to you. Water picks up a little of every place it passes through. So each glass of water carries a trace of where it has been.",
+   "habit": "We say 'plain water' or 'just water', as if water were empty. But almost no water on Earth is only water. It carries a little of the ground, the rock and the air it has passed through.",
+   "evidence": "In the Invisible Ring, glass A and glass B looked the same, but B left a thick salt ring and plain tap water left a faint ring of minerals. Arsenic in Bengal tubewells came the same way, dissolved from the mud under the ground."
   },
   "three": {
-   "who_am_i": "More than half of you is water, borrowed from the clouds and rivers. You give it back with every breath and every drop of sweat.",
-   "what_is_life": "Every living thing we know needs water. Life is water, moving through bodies for a while.",
-   "what_is_this_world": "A world where the same water keeps going round, through sky, ground, seas and creatures, for billions of years."
+   "who_am_i": "More than half of you is water. Your blood carries salts and food to every part of you, the way groundwater carries minerals from rock.",
+   "what_is_life": "Every living thing we know needs water. Water carries food into a plant's roots and into every one of your cells.",
+   "what_is_this_world": "Rain soaks through soil and rock, takes a little of them with it, and flows on to wells, rivers and the sea."
   },
-  "thread": "There is one water on Earth, going round and round. We see it as many things: a cloud, a monsoon, a well, a matka, a tear, a river. When we drink, the outside water becomes us. When we breathe out, we become a little bit of the sky. DeepKids believes this is the One showing up as many: one water, wearing many names.",
+  "thread": "Rain is almost pure when it falls. As it soaks through soil and rock, it dissolves tiny amounts of them. Rivers carry these dissolved minerals to the sea, and over millions of years this helped make the sea salty. So the water in your glass, a well and the sea are joined by one journey, and each carries traces of the land it crossed.",
   "teachings": [
    {
-    "source": "Chandogya Upanishad 6.10",
-    "teaching": "Uddalaka tells his son Shvetaketu about rivers. They flow east and west, and all reach the sea. In the sea they no longer say 'I am this river' or 'I am that river'. They are the sea.",
-    "link": "Rain, well water and tap water are names for one water at different moments. When they meet, the names fall away."
+    "source": "Chandogya Upanishad 6.13",
+    "teaching": "Uddalaka asks his son Shvetaketu to put salt in water overnight. In the morning the salt cannot be seen. But when Shvetaketu sips from the top, the middle and the bottom, the water tastes salty everywhere.",
+    "link": "In the Invisible Ring, the salt in glass B could not be seen either. Drying the water showed that it was still there, spread all through the glass."
    },
    {
     "source": "Tao Te Ching 8",
@@ -4226,34 +4226,40 @@
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing'",
     "teaching": "Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud there is no rain, no tree, and no paper.",
-    "link": "Look deeply at a glass of water and you can see the monsoon, the river, the pipe and the people who brought it."
+    "link": "Look closely at a glass of water and you can find the rain, the rock it soaked through and the river or well it came from. The faint ring it leaves when it dries is part of that story."
    }
   ],
   "science": [
    {
-    "text": "Water goes round and round on Earth. It is moved and changed, but not used up.",
+    "text": "Rivers carry minerals dissolved from rocks into the sea. Over millions of years, this is one main reason the sea is salty.",
     "status": "settled"
    },
    {
-    "text": "Up to half of the water on Earth may be older than the Sun, made as ice in space before our solar system formed.",
-    "status": "idea"
+    "text": "Scientists can often tell which rocks groundwater has passed through by testing the minerals dissolved in it.",
+    "status": "settled"
    }
   ],
   "other_view": {
-   "who": "Many scientists and philosophers",
-   "view": "Water going round is just physics. Sharing the same molecules does not make us one being, any more than sharing the same air makes two strangers into one person. It is a beautiful fact, but it does not prove any oneness. That is an honest view."
+   "who": "Many chemists",
+   "view": "Water itself is only H2O, two hydrogen atoms and one oxygen atom. The minerals are other substances mixed into it, not part of the water. On this view, water carries things, but water itself keeps no record of where it has been."
   },
   "practice": {
-   "title": "Trace the sip",
+   "title": "Taste the journey",
    "mins": 3,
-   "say": "Pour a little water into a glass. Take one small sip, and hold it in your mouth. Close your eyes. Before it was in your mouth, it was in the glass. Before that, the tap. Before that, a tank, a pipe, maybe a river or a well. Before that, rain. Before that, a cloud over the sea. Now swallow it slowly. Feel it become part of you.",
-   "kid": "Take one small sip of water. Hold it in your mouth. Close your eyes. Think back: tap, pipe, river, rain, cloud. Now swallow slowly."
+   "say": "Pour a little of your drinking water into a steel glass. Take one small sip, and hold it in your mouth. Close your eyes. Does it taste of anything at all? Any taste comes from minerals it picked up from the ground. Think back along its journey: the tap, the pipe, the tank, a river or a well, the soil, and the rain. Now swallow slowly.",
+   "kid": "Take one small sip of water. Hold it in your mouth. Close your eyes. Does it taste of anything? Think back: tap, pipe, river or well, soil, rain. Now swallow slowly."
   },
   "ask": [
-   "Is the water inside you yours, or are you borrowing it?",
-   "When rain falls on your roof, whose rain is it?",
-   "If water can hide in the ground, in the air and in you, where does 'water' end and 'you' begin?"
+   "Is water with minerals in it still 'just water'?",
+   "If your glass of water carries traces of where it has been, what could it tell a scientist about your city?",
+   "Rivers carried salt from the rocks into the sea. Is part of the sea made of mountains?"
   ],
-  "art": "A child sipping from a steel glass, with a faint ribbon of water flowing from the glass back through a tap, a river, a cloud and the sea, and forward into the child's body."
+  "art": "A glass of tap water drying on a dark plate into a faint white ring, with a dotted trail behind it going back through a pipe, a borewell, layers of rock and soil, and up to a rain cloud."
+ },
+ "how_we_found_out": {
+  "story": "In the 1970s, many children in West Bengal and Bangladesh fell ill from germs in pond and river water. So governments and UNICEF, a United Nations group that helps children, paid for millions of tubewells. A tubewell is a narrow pipe pushed deep into the ground, with a handpump on top. Its water came from under the ground, away from the germs, and it was clear and cool. Fewer children got ill from germs. Nobody tested the water for anything else. In 1983, a skin doctor in Kolkata, K. C. Saha, saw patients with dark spots and hard, rough patches on their hands and feet. He traced the cause to arsenic, a poison, in their tubewell water. The arsenic had dissolved from the mud under the ground. Later, Dipankar Chakraborti and his team at Jadavpur University tested tens of thousands of wells. Today, wells in many villages are tested and painted green if safe and red if not.",
+  "who": "K. C. Saha, a skin doctor in Kolkata, and Dipankar Chakraborti of Jadavpur University",
+  "when": "1983, and the years of testing after it",
+  "wrong_idea": "Clear water from under the ground, away from the germs, must be safe to drink. Patients' skin, and then tests on the wells, showed that it can carry arsenic dissolved from the rocks."
  }
 }

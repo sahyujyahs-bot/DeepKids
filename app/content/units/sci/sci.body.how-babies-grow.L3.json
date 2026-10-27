@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Look at your hand. Spread your fingers wide. Once, all of you, your hands, eyes, bones and brain, was one single cell. It was smaller than the full stop at the end of this sentence. Where did all the rest of you come from?",
-  "text": "Put a grain of salt on a dark plate and look at it closely. You began even smaller than that, as one cell. A cell is the smallest living building block of a body. Now you are made of about 30 trillion cells. Every one of them came from that first cell. This unit follows the journey from one cell, through nine months in the womb, to the day you were born.",
+  "text": "Put a grain of salt on a dark plate and look at it closely. You began even smaller than that, as one cell. A cell is the smallest living building block of a body. Now you are made of about 30 trillion cells. Every one of them came from that first cell.",
   "art": "A child's open hand next to a dark plate with a single grain of salt on it, and a glowing circle showing one round cell even smaller than the grain."
  },
  "outcomes": [
@@ -149,7 +149,7 @@
    "concept": "Everyone begins as one cell",
    "status": "defined",
    "definition": "Every person begins as one single cell. It is made when a cell from the mother and a cell from the father join together.",
-   "description": "A cell is the smallest living building block of a body. The first cell of a baby is about as wide as a hair. You could not see it without a microscope. Inside it is a mix of instructions from both parents. This is why children often look a little like both of their birth parents. That one cell holds everything needed to start building a whole person.",
+   "description": "A cell is the smallest living building block of a body. The first cell of a baby is about as wide as a hair. It is hard to see without a microscope. Inside it is a mix of instructions from both parents. This is why children often look a little like both of their birth parents. That one cell holds everything needed to start building a whole person.",
    "examples": [
     "You, your parents, your grandparents and your friends all began as one cell.",
     "An elephant and a mouse also each began as one cell.",
@@ -181,7 +181,7 @@
    "examples": [
     "Heart cells beat by themselves, even in a dish in a laboratory.",
     "Nerve cells grow long thin arms to carry messages.",
-    "Red blood cells are shaped like tiny flat sweets, to carry oxygen."
+    "Red blood cells are flat discs, thinner in the middle. This shape helps them carry oxygen and squeeze through tiny tubes."
    ],
    "perspectives": [],
    "art": "One plain round cell in the middle, with arrows to a beating heart cell, a long thin nerve cell, a flat red blood cell and a square skin cell.",
@@ -233,7 +233,7 @@
    "concept": "Nine months of growing",
    "status": "defined",
    "definition": "A human baby usually grows in the womb for about 40 weeks, which is about nine months. Doctors split this time into three parts of about three months each.",
-   "description": "In the first three months, the body parts form. By about six weeks a tiny heart is beating. By twelve weeks the baby is about as long as your finger and has tiny fingers and toes. In the middle three months, the baby grows and moves. Fingerprints form, and the baby starts to hear sounds. In the last three months, the baby gets much bigger and fatter. Its lungs get ready to breathe air. By birth, a baby is usually about 50 centimetres long and weighs about 3 kilograms.",
+   "description": "In the first three months, the body parts form. By about six weeks a tiny heart is beating. By twelve weeks the baby is about as long as your finger and has tiny fingers and toes. In the middle three months, the baby grows and moves. Fingerprints form, and the baby starts to hear sounds. In the last three months, the baby gets much bigger and fatter. Its lungs get ready to breathe air. By birth, a baby is usually about 50 centimetres long and weighs about 3 kilograms. Doctors count the 40 weeks from about two weeks before the first cell is made, so the baby itself grows for about 38 weeks.",
    "examples": [
     "At 8 weeks: about the size of a raspberry.",
     "At 20 weeks, halfway: about as long as a banana, from head to bottom.",
@@ -422,7 +422,7 @@
   {
    "q": "When did you start being you? When you were one cell, when your heart started, or when you were born?",
    "kind": "big",
-   "hint": "There is no line on the calendar. People in different families and religions answer this differently."
+   "hint": "Scientists cannot point to one exact moment. People in different families and religions answer this differently."
   },
   {
    "q": "Nobody has a memory of being born. So how do you know it happened to you?",
@@ -472,7 +472,7 @@
    "Tara did, and frowned down at her own tummy. Nani pressed one finger, very gently, on her belly button.",
    "\"Do you know what this is?\"",
    "\"My belly button.\"",
-   "\"It is a mark,\" said Nani. \"Before you were born, you lived inside a woman's womb. That is a stretchy bag of muscle in her tummy. You floated in warm water, curled up like a prawn. You could not eat. You could not breathe air. So she fed you. Her blood carried food and air to you, every minute of every day, for nine months. It came through a soft cord, joined to you right here. When you were born, the cord was cut. It does not hurt, because a cord has no nerves in it. This little mark is what is left. It says, somebody carried me. Somebody fed me before I had a name.\"",
+   "\"It is a mark,\" said Nani. \"Before you were born, you lived inside a woman's womb. That is a stretchy bag of muscle in her tummy. You floated in warm water, curled up like a prawn. You could not eat. You could not breathe air. So she fed you. Her blood carried food and oxygen to you, every minute of every day, for nine months. It came through a soft cord, joined to you right here. When you were born, the cord was cut. It does not hurt, because a cord has no nerves in it. This little mark is what is left. It says, somebody carried me. Somebody fed me before I had a name.\"",
    "Tara looked at her belly button as if she had never seen it before.",
    "\"Now give me your hand,\" said Nani. She turned Tara's palm up, under the kitchen light. \"Look at the tips of your fingers. Look very closely.\"",
    "Tara looked. There were tiny lines, curving and looping, like the rings in a cut tree, or ripples in a pond.",
@@ -643,7 +643,7 @@
      "id": "s4",
      "mins": 4,
      "do": "When a player reaches square 40, everyone takes a big breath with them. Finish the game. Count heart tokens.",
-     "say": "Square 40 is birth. Before birth, the baby's lungs were full of water. Now, for the first time, air rushes in. Let's all take that first breath together.",
+     "say": "Square 40 is birth. Before birth, the baby's lungs were full of fluid. Now, for the first time, air rushes in. Let's all take that first breath together.",
      "kid": "You reached square 40. You are born! Take a big first breath. Shout 'Hello, world!'",
      "think": "What do you think the very first breath felt like?",
      "check": {
@@ -1123,7 +1123,7 @@
        "They all cool the same"
       ],
       "a": 0,
-      "why": "A person's body stays warm, at about 37 degrees, so it keeps adding heat to the bottle. The cloth holds the heat in. Picking the bottle alone often means thinking the air keeps it warm. But air carries heat away. This is why kangaroo care helps tiny babies."
+      "why": "Inside, a person's body stays at about 37 degrees, so the chest keeps giving heat to the bottle. The cloth holds the heat in. Picking the bottle alone often means thinking the air keeps it warm. But air carries heat away. This is why kangaroo care helps tiny babies."
      },
      "context": "This is the last step of Keep the Baby Warm. Three bottles of warm water were kept alone, wrapped, or on a chest, and checked after 20 minutes."
     }
@@ -1303,7 +1303,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Measure from 0 and mark each length. Write the week beside it: 8 weeks, 2 cm. 12 weeks, 6 cm. 20 weeks, 25 cm. 30 weeks, 40 cm. 40 weeks, 50 cm. These are lengths from head to heel, rounded.",
-     "say": "At 8 weeks, a baby is about as long as a grape. Halfway, at 20 weeks, about as long as a ruler. At birth, about as long as this strip.",
+     "say": "At 8 weeks, a baby is about as long as a grape. Halfway, at 20 weeks, a little shorter than a 30 centimetre ruler. At birth, about as long as this strip.",
      "kid": "Measure and mark each week. 8 weeks is 2 centimetres. 40 weeks is 50 centimetres. Put a fruit by each mark.",
      "parent": "These lengths are rounded and vary from baby to baby. They are close enough to show the pattern. Most of the growing in length happens in the middle and the last months.",
      "context": "This is the measuring step of How Big Was I?. You mark how long a baby is at 8, 12, 20, 30 and 40 weeks."
@@ -1391,7 +1391,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Each person presses a thumb on the ink pad, then on paper. 2. Write their name under it.",
+     "do": "1. Each person presses a thumb on the ink pad, then on paper. No ink pad? Scribble hard with a soft pencil on paper. Rub the thumb on it. Press clear tape on the thumb, then stick the tape on white paper. 2. Write their name under it.",
      "say": "Your fingerprints were made before you were born. At about four months in the womb, the skin on your fingertips folded into these lines.",
      "kid": "Press your thumb on the ink. Then press it on the paper. Write your name under it.",
      "context": "This is the first step of Prints From Before You Were Born. You make fingerprints of everyone at home."
@@ -1583,7 +1583,7 @@
      "kid": "Tie the string to the toy. Tie the other end to the red circle. Put them in the bag. Fill it with water.",
      "adult": true,
      "parent": "Close the bag tightly and hold it over a sink. A balloon looks more like a womb, but it is hard to push a toy inside.",
-     "context": "This is the building step of Womb in a Bottle. You put a toy baby, a string cord and a cloth placenta inside a water balloon."
+     "context": "This is the building step of Womb in a Bottle. You put a toy baby, a string cord and a cloth placenta inside a bag of water."
     },
     {
      "id": "s3",
@@ -1602,7 +1602,7 @@
       "a": 0,
       "why": "The string stands for the umbilical cord. It joins the baby to the placenta, and carries food and oxygen to the baby. Picking 'a rope to pull it out' mixes it up with birth. At birth, the womb squeezes the baby out. The cord does not pull."
      },
-     "context": "This is the labelling step of Womb in a Bottle. A toy baby floats in a water balloon, tied by a string to a red cloth circle."
+     "context": "This is the labelling step of Womb in a Bottle. A toy baby floats in a bag of water, tied by a string to a red cloth circle."
     }
    ]
   },
@@ -1613,7 +1613,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a sheet of butter paper or tracing paper",
+     "item": "a clear polythene bag, folded flat into two layers (or a sheet of butter paper)",
      "qty": 1
     },
     {
@@ -1625,20 +1625,20 @@
      "qty": 1
     }
    ],
-   "safety": "Do not cover the nose or mouth with the plastic. Hold it only in front of the eyes.",
+   "safety": "Never put the bag over anyone's head. Hold it only in front of the eyes, away from the nose and mouth.",
    "schedule": [
     {
      "day": 1,
      "mins": 10,
-     "what": "Look through butter paper at a face near and far. Find the distance where it looks clearest."
+     "what": "Look through a folded clear bag at a face near and far. Find the distance where it looks clearest."
     }
    ],
    "record": "Draw the face as it looked near, and as it looked far.",
-   "context": "A newborn sees the world blurry, and best at about 20 to 30 centimetres. This activity uses butter paper to give you a newborn's blurry view.",
+   "context": "A newborn sees the world blurry, and best at about 20 to 30 centimetres. This activity uses a folded clear plastic bag to give you a blurry view like a newborn's.",
    "setup": [
     {
-     "art": "A child holding a sheet of butter paper in front of her eyes, looking at her mother's face.",
-     "caption": "1. Hold butter paper in front of your eyes."
+     "art": "A child holding a folded clear plastic bag flat in front of her eyes, looking at her mother's face.",
+     "caption": "1. Hold the folded bag flat in front of your eyes."
     },
     {
      "art": "A ruler between a child's face and a grown-up's face, showing about 25 centimetres.",
@@ -1649,10 +1649,11 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Your child holds the butter paper in front of their eyes. 2. You hold your face about 25 centimetres away, about one ruler. 3. Then step back across the room.",
-     "say": "A newborn baby sees blurry, a bit like through this paper. Can you see my face better close up or far away?",
-     "kid": "Hold the paper in front of your eyes. Look at a face close up. Then far away.",
-     "context": "This is the first step of Newborn Eyes. You look through butter paper to see the world blurry, the way a newborn does."
+     "do": "1. Your child holds the folded bag flat in front of their eyes. 2. You hold your face about 25 centimetres away, about one ruler. 3. Then step back across the room.",
+     "say": "A newborn baby sees blurry, a bit like through this bag. Can you see my face better close up or far away?",
+     "kid": "Hold the bag in front of your eyes. Look at a face close up. Then far away.",
+     "context": "This is the first step of Newborn Eyes. You look through a folded clear bag to see the world blurry, the way a newborn does.",
+     "parent": "Things close to the bag look clearer than things far away, so your face should look clearer close up. If everything looks like fog, use one layer instead of two."
     },
     {
      "id": "s2",
@@ -1671,7 +1672,7 @@
       "a": 0,
       "why": "A newborn's eyes see best at about 20 to 30 centimetres. That is just the distance to the face of a grown-up holding the baby. Picking 'across the room' often means thinking babies see like grown-ups. Their eyes take months to sharpen."
      },
-     "context": "This is the checking step of Newborn Eyes. You looked through butter paper at a face close up and far away."
+     "context": "This is the checking step of Newborn Eyes. You looked through a folded clear bag at a face close up and far away."
     },
     {
      "id": "s3",
@@ -1814,13 +1815,13 @@
    ],
    "materials": [
     "a raw egg",
-    "small boxes, cups or bottles",
+    "small boxes, cups or wide-mouthed jars",
     "cotton, cloth, water, rice or newspaper",
     "tape and string"
    ],
    "general": [
     "Pad the egg all round with cotton or cloth, so it cannot bang the sides.",
-    "Fill a small bottle with water and float the egg inside it, like a baby in the womb.",
+    "Put the egg in a small wide-mouthed jar or dabba filled to the top with water, like a baby in the womb.",
     "Wrap the carrier in a cloth to keep the warmth in."
    ],
    "creative": [
@@ -1836,7 +1837,7 @@
      "caption": "1. Collect your materials and a raw egg."
     },
     {
-     "art": "A child holding a small bottle of water with an egg floating in it, wrapped in a cloth.",
+     "art": "A child holding a small wide-mouthed jar filled with water, an egg resting inside, the jar wrapped in a cloth.",
      "caption": "2. Build a carrier that cushions and warms the egg."
     },
     {
@@ -2205,12 +2206,12 @@
     },
     {
      "t": "mcq",
-     "p": "The mother's blood and the baby's blood...",
+     "p": "What is true about the mother's blood and the baby's blood?",
      "opts": [
-      "stay mostly apart, with a thin wall between them",
-      "mix together freely",
-      "are always the same blood group",
-      "never come near each other"
+      "They stay mostly apart, with a thin wall between them",
+      "They mix together freely",
+      "They are always the same blood group",
+      "They never come near each other"
      ],
      "a": 0,
      "why": "In the placenta, the two bloods come very close, with a thin wall between them. Food and oxygen pass through the wall. Picking 'mix freely' is common, but the bloods stay mostly apart. Babies can even have a different blood group."
@@ -2691,7 +2692,7 @@
   },
   {
    "t": "mcq",
-   "p": "A baby in the womb hears which sounds best?",
+   "p": "Which sounds does a baby in the womb hear best?",
    "opts": [
     "Low sounds, like voices and the heartbeat",
     "High whistles",
@@ -3248,7 +3249,7 @@
    "what_is_life": "Life is passed on. Every living thing came from another living thing, as you came from your parents' cells.",
    "what_is_this_world": "Your body was built from the rice, dal, water and air your mother took in. Those came from fields, rivers and sunlight."
   },
-  "thread": "You began as one cell, made from a cell of each parent. That one cell became trillions of cells of many kinds: skin, bone, heart and brain. All of them were built from food your mother ate, and that food came from plants, soil, rain and sunlight. So each new person is one life that grew out of many others.",
+  "thread": "You began as one cell, made from a cell of each parent. That one cell became trillions of cells of many kinds: skin, bone, heart and brain. All of them were built from food your mother ate, and that food came from plants, soil, rain and sunlight. So each new person is built from many other lives: the plants, the farmers who grew them, and the mother who carried the baby.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.12",

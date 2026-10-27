@@ -3,7 +3,7 @@
 
 **Summary.** A tadpole has a tail and gills, yet it grows into a frog with legs and lungs. Every animal's life goes through stages, from egg or baby to adult, and the adults make new young. This circle of stages is called a life cycle. A chick looks like a small hen and simply grows. But a tadpole and a caterpillar rebuild their whole bodies into a new shape. This big change is called metamorphosis, and it is switched on by chemical messages called hormones.
 
-**Intro.** *Here is a puzzle. A small animal lives in water. It breathes with gills, like a fish. It has a long tail and no legs. It eats green slime off stones. A few weeks later, the very same animal breathes air, has four legs and no tail, and eats insects. Nobody swapped it. What happened?* The animal is a tadpole, and it became a frog. In the monsoon, many ponds and puddles in India fill with tadpoles. In this unit you will open a hen's egg and find every part a chick needs. You will test whether air can pass through an eggshell. And you will find out where a tadpole's tail goes. It does not fall off.
+**Intro.** *Here is a puzzle. A small animal lives in water. It breathes with gills, like a fish. It has a long tail and no legs. It scrapes algae off stones. Algae are tiny water plants that make a green, slimy coat. A few weeks later, the very same animal breathes air, has four legs and no tail, and eats insects. Nobody swapped it. What happened?* The animal is a tadpole, and it became a frog. In the monsoon, many ponds and puddles in India fill with tadpoles. In this unit you will open a hen's egg and find every part a chick needs. You will test whether air can pass through an eggshell. And you will find out where a tadpole's tail goes. It does not fall off.
 
 ## Learning outcomes
 0. I can put the stages of a frog, a butterfly and a hen in order, and name each stage.
@@ -25,14 +25,14 @@
 - **Metamorphosis**: A big change in body shape as a young animal grows up. The body rebuilds itself into a new form. *e.g.* A caterpillar becomes a butterfly. A tadpole becomes a frog.
 - **Frogspawn**: A clump of frog eggs, each one inside a ball of clear jelly. It floats in water. *e.g.* In the monsoon, you may see frogspawn in a pond or a paddy field.
 - **Tadpole**: The young of a frog or a toad. It lives in water, swims with a tail and breathes with gills. *e.g.* Tadpoles wriggle in rain puddles after the first monsoon showers.
-- **Gills**: Feathery body parts that take oxygen from water, so an animal can breathe underwater. *e.g.* Fish have gills. Very young tadpoles have gills too.
+- **Gills**: Thin, frilly body parts that take oxygen from water, so an animal can breathe underwater. *e.g.* Fish have gills. Very young tadpoles have gills too.
 - **Lungs**: Two soft bags inside the body that take oxygen from air. *e.g.* You breathe with lungs. A frog grows lungs as it grows up.
 - **Froglet**: A young frog that has legs but still has a stub of a tail. *e.g.* A froglet climbs out of the water onto a stone.
 - **Larva**: The young stage of an insect that looks very different from the adult. Two or more are called larvae. *e.g.* A caterpillar is the larva of a butterfly. A wriggler is the larva of a mosquito.
 - **Caterpillar**: The larva of a butterfly or a moth. Its main job is to eat and grow. *e.g.* Lime butterfly caterpillars eat curry leaves and lemon leaves.
 - **Moult**: To shed an old skin that has grown too tight, after growing a new, bigger one underneath. *e.g.* A caterpillar moults four or five times. A snake also moults.
 - **Pupa**: The resting stage of an insect, between larva and adult. Inside, the body is rebuilt. Two or more are called pupae. *e.g.* A butterfly's pupa is called a chrysalis.
-- **Chrysalis**: The hard case of a butterfly pupa. It is not a nest. It is the pupa's own skin. *e.g.* A lime butterfly chrysalis can be green or brown, like the twig it hangs on.
+- **Chrysalis**: The hard case of a butterfly pupa. It is the pupa's own skin, not something it builds. *e.g.* A lime butterfly chrysalis can be green or brown, like the twig it hangs on.
 - **Cocoon**: A case of silk that a moth caterpillar spins around itself before it becomes a pupa. *e.g.* A silkworm spins a cocoon. Silk saris are made from cocoon threads.
 - **Yolk**: The yellow part of an egg. It is food for the growing chick. *e.g.* When you crack an egg, the round yellow ball is the yolk.
 - **Embryo**: A living thing in its very first stage, while it is still growing inside an egg or inside its mother. *e.g.* A chick embryo grows inside the egg for 21 days.
@@ -67,7 +67,7 @@ A chick growing in an egg has three problems. It needs food for three weeks, it 
 ### The frog: from tadpole to frog · *defined*
 **Definition:** A frog's life cycle has four main stages: frogspawn, tadpole, froglet and adult frog. The tadpole changes its whole body to become a frog. This is metamorphosis.
 
-In the monsoon, a female frog lays hundreds of eggs in water. Each egg sits in a ball of jelly. A male frog fertilises them. After a few days, tiny tadpoles wriggle out. At first they breathe with feathery gills, and they eat green slime and soft plants. Then the change begins. Back legs grow first. Then the front legs pop out. Lungs grow inside, so the young frog can breathe air. Its mouth gets wider and its gut gets shorter, ready to eat insects. Its tail gets shorter every day. Now it is a froglet. Soon the tail is gone, and the frog hops onto land. In many Indian frogs, all this takes one to three months.
+In the monsoon, a female frog lays hundreds or thousands of eggs in water. Each egg sits in a ball of jelly. A male frog fertilises them. After a few days, tiny tadpoles wriggle out. At first they breathe with feathery gills, and they eat green slime and soft plants. Then the change begins. Back legs grow first. Then the front legs pop out. Lungs grow inside, so the young frog can breathe air. Its mouth gets wider and its gut gets shorter, ready to eat insects. Its tail gets shorter every day. Now it is a froglet. Soon the tail is gone, and the frog hops onto land. In many Indian frogs, all this takes one to three months.
 - e.g. Indian bullfrogs and common toads breed in rain puddles and ponds after the first monsoon showers.
 - e.g. A tadpole has gills like a fish. A frog has lungs, and can also breathe through its wet skin.
 - e.g. Some frogs in the Western Ghats skip the tadpole stage. Tiny froglets hatch straight out of their eggs on land.
@@ -108,7 +108,7 @@ How does a tadpole know when to become a frog? A small part of its neck, called 
 A caterpillar is broken down and rebuilt into a butterfly. So is the butterfly the same animal as the caterpillar? People have argued about questions like this for thousands of years. Scientists have found one clue: some memories may survive the change.
 - e.g. The butterfly has the same genes as the caterpillar.
 - e.g. Much of the caterpillar's body is broken down, but parts of its nerves are kept and rebuilt.
-- e.g. Your body is not made of the same material it was made of when you were a baby. Are you still the same person?
+- e.g. Most of your body is made of different material from when you were a baby. Are you still the same person?
 - **Biologists:** Yes, it is the same animal. It is one living thing all the way through, with one set of genes. It just has two very different bodies at two times of its life.
 - **Douglas Blackiston, Elena Silva Casey and Martha Weiss, scientists in the USA, in 2008:** They taught caterpillars of a moth to stay away from one smell. After metamorphosis, many of the adult moths still stayed away from it. So some memory may pass through the chrysalis. Other scientists want more tests before they are sure.
 - **Philosophers:** Some philosophers say an animal stays the same one because its life goes on without a break, even while its material and its shape change. Others say there is no simple answer, and it depends on what you mean by 'the same'.
@@ -150,7 +150,7 @@ Scientists are not sure how complete metamorphosis first began, more than 300 mi
   Against: Not everything becomes soup. The small groups of waiting cells stay whole and grow into wings, legs and eyes. Parts of the nerves and breathing tubes are kept and rebuilt.
 - **A butterfly comes out of a cocoon.** (A very common mistake, even in some famous picture books.; *rejected*)  
   For: Moths do come out of cocoons. Both are cases that hold a pupa, so people mix them up.  
-  Against: A cocoon is a silk case that a moth caterpillar spins around itself. A butterfly pupa makes no silk case. Its own hard skin is the chrysalis.
+  Against: A cocoon is a silk case that a moth caterpillar spins around itself. Most butterfly caterpillars spin no silk case. Its own hard skin is the chrysalis.
 - **Caterpillars began when an ancient insect mated with a worm-like animal, and their two life cycles joined.** (Donald Williamson, a British scientist, from the 1990s to the 2000s.; *rejected*)  
   For: It would explain why a larva and an adult look like two different animals.  
   Against: Gene studies show that a caterpillar's genes come from its insect parents, like all its other genes. No sign of another animal's genes has been found. Most scientists reject the idea.
@@ -175,7 +175,7 @@ We have been learning how a chick grows inside an egg and how a tadpole becomes 
 A chick, a frog and a butterfly each build a new body out of material that is already there. The chick uses the yolk and white. The tadpole uses its own tail. The butterfly is built from the broken-down caterpillar. All of that material came from food, which came from plants, which were built from air, water and sunlight. So the same material passes from body to body, and takes a new shape each time.
 
 - **Zhuangzi, chapter 2 (Discussion on Making All Things Equal), the butterfly dream:** Zhuangzi, a Chinese thinker, dreamed he was a butterfly, happily fluttering. He woke up and was Zhuangzi again. Then he wondered: was he a man who had dreamed he was a butterfly, or a butterfly now dreaming he was a man? He said this is called 'the changing of things'. (A caterpillar becomes a butterfly and is still one living thing. Zhuangzi asks whether 'me' is as fixed as it feels.)
-- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing, sir.' Uddalaka says that from this fine, unseen thing the whole great banyan tree grows. 'That is the truth. You are that.' (An egg starts with a tiny white spot and no chick that you can see. In 21 days that spot grows into a whole chick. Uddalaka's seed and the egg's spot both hold a whole new life too small to see at the start.)
+- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing, sir.' Uddalaka says that from this fine, unseen thing the whole great banyan tree grows. 'That is the truth. You are that.' (Shvetaketu could see nothing inside the seed, yet a whole tree grows from it. The egg's tiny spot is the same: no chick is there to see, yet a chick grows from it.)
 - **Heraclitus, quoted by Plato in Cratylus 402a:** Heraclitus, a Greek thinker, said that everything flows. You cannot step into the same river twice, because new water is always flowing in. (A body is like a river. Its material keeps changing, but the animal goes on. A tadpole's tail becomes part of the frog, and the frog goes on.)
 - Science (settled): A growing chick takes calcium from the inside of its shell to build its bones. The shell gets thinner, which makes hatching easier.
 - Science (settled): Your own body rebuilds itself all the time. Your red blood cells last about four months and are then replaced.
@@ -358,7 +358,7 @@ She thought that she should write to Farida about it. She thought that when she 
   *Parent does:* 1. Lower one egg gently into each empty glass with a spoon. 2. Pour cold tap water over one egg until it is covered. 3. A grown-up pours the very hot water over the other egg until it is covered.  
   *Parent says:* Now we watch very closely. Don't touch the glasses. Just look at the shell.  
   *Child mode:* Watch the shells. Don't touch the glasses. What do you see?
-  - Note: In very hot water, thin trails of tiny bubbles rise from the shell within a few seconds. There are usually more at the fat, round end, where the air pocket is. In cold water there are usually none. If you see only a few bubbles, the water was not hot enough. Try again with hotter water.
+  - Note: In very hot water, thin trails of tiny bubbles rise from the shell within a few seconds. There are usually more at the fat, round end, where the air pocket is. In cold water there are usually none. If you see only a few bubbles, the water was not hot enough. Try again with hotter water. If a shell cracks and white leaks out, use another egg.
 - **s4 (5 min)**  
   *Parent does:* 1. On the hot egg, count the trails of bubbles from the round half for one minute. 2. Then count the trails from the pointed half. 3. Look at the cold egg. 4. Write the numbers in the table.  
   *Parent says:* Let's count the thin lines of bubbles. Each line is coming out of one tiny hole, or a few. Make a tally mark for each line.  
@@ -574,7 +574,7 @@ She thought that she should write to Farida about it. She thought that when she 
   - Check: In the Wriggler Check, why do wrigglers hang at the top of the water? → **They breathe air through a little tube**
 - **s3 (5 min) · grown-up needed**  
   *Parent does:* Tip the water out onto dry ground or into a pot of soil, never into a drain. Scrub the container. Turn buckets upside down.  
-  *Parent says:* With no still water, mosquito eggs cannot grow into adults. That is how families and towns fight dengue and malaria. In 1897, in Secunderabad, a doctor named Ronald Ross showed that mosquitoes carry malaria.  
+  *Parent says:* With no still water, mosquito eggs cannot grow into adults. That is how families and towns fight dengue and malaria. In 1897, in Secunderabad, a doctor named Ronald Ross found the malaria germ living inside mosquitoes.  
   *Child mode:* Tip the water onto soil. Scrub the pot. Turn buckets upside down. You stopped a life cycle!
   - Note: Doing this every week stops most home mosquito breeding, because the cycle from egg to adult takes about a week in warm weather. Scrubbing matters, because Aedes mosquito eggs stick to container walls and can survive drying.
 
@@ -704,13 +704,13 @@ She thought that she should write to Farida about it. She thought that when she 
 ### Inside the Change (stretch) (stretch, 15 questions)
 1. (mcq) A grasshopper's babies look like small grasshoppers without wings. Which kind of life cycle is this?  
    Options: Egg, nymph, adult, with no pupa / Egg, larva, pupa, adult / Just grows, like a hen  
-   **Answer:** Egg, nymph, adult, with no pupa. *Why:* A young grasshopper is a nymph. It looks like a small adult, and its wings grow a bit more each time it moults. It has no pupa. Picking 'just grows' is close, but a hen chick does not moult its skin or grow wings slowly.
+   **Answer:** Egg, nymph, adult, with no pupa. *Why:* A young grasshopper is a nymph. It looks like a small adult, and its wings grow a bit more each time it moults. It has no pupa. Picking 'just grows' is close. But a grasshopper sheds its whole skin to grow, and its wings appear bit by bit. A chick hatches with its wings already there.
 2. (mcq) Why does a caterpillar moult?  
    Options: Its skin is too tight because it has grown / It is cold / It is turning into a frog / It wants a new colour  
    **Answer:** Its skin is too tight because it has grown. *Why:* A caterpillar's skin can't stretch much. It grows a new, bigger skin underneath, and wriggles out of the old one. Picking 'a new colour' is a fair guess, because a lime caterpillar does change colour after a moult. But the reason it moults is to grow.
 3. (mcq) Which part of a hen's egg gives the chick its first breath of air before hatching?  
    Options: The air pocket at the round end / The yolk / The twisted cords / The white  
-   **Answer:** The air pocket at the round end. *Why:* Two skins under the shell come apart at the round end, making an air pocket. Just before hatching, the chick pokes its beak in and starts breathing with its lungs. Picking 'the white' usually means thinking the white is air. It is mostly water.
+   **Answer:** The air pocket at the round end. *Why:* Two skins under the shell come apart at the round end, making an air pocket. Just before hatching, the chick pokes its beak in and starts breathing with its lungs. Picking 'the white' is a natural guess, because the white is clear. But the white is mostly water, not air.
 4. (mcq) In Tadpole Watch, the tadpoles stopped eating while their tails got shorter. Why?  
    Options: They were living on the material from their own tails / They were sick / They didn't like the spinach any more  
    **Answer:** They were living on the material from their own tails. *Why:* The tail is broken down and its material is used to build the frog. Meanwhile, the mouth and gut are being rebuilt for eating insects. Picking 'sick' is a natural worry. But sick tadpoles don't grow new legs and lungs.
@@ -752,7 +752,7 @@ She thought that she should write to Farida about it. She thought that when she 
    **Answer:** Some memory may survive metamorphosis. *Why:* It suggests that some part of what the caterpillar learned passes through the pupa. Other scientists want more tests before they are sure. Picking 'the caterpillars never changed' can't be right, because they became moths with wings.
 5. (mcq) Which came first, the chicken or the egg?  
    Options: The egg. Animals laid eggs for hundreds of millions of years before there were chickens. / The chicken, because something must lay the egg / Nobody could ever have any idea  
-   **Answer:** The egg. Animals laid eggs for hundreds of millions of years before there were chickens.. *Why:* Fish, early amphibians and reptiles laid eggs long before chickens existed. Chickens come from red junglefowl, which also lay eggs. So eggs came first. Picking 'the chicken' works only if you mean 'a chicken egg'. Then it becomes a puzzle about where you draw the line between junglefowl and chicken.
+   **Answer:** The egg. Animals laid eggs for hundreds of millions of years before there were chickens.. *Why:* Fish, early amphibians and reptiles laid eggs long before chickens existed. Chickens come from red junglefowl, which also lay eggs. So eggs came first. Picking 'the chicken' makes sense only if you mean a chicken's egg. Even then, the first chicken hatched from an egg laid by a bird that was almost a chicken.
 6. (mcq) Look at this caterpillar diary chart. About how many times longer was the caterpillar on day 16 than on day 2?  
    Options: About 10 times / About 2 times / About 36 times / It got shorter  
    **Answer:** About 10 times. *Why:* On day 2 it was 4 millimetres. On day 16 it was 40 millimetres. 40 divided by 4 is 10. Picking 36 means subtracting, 40 minus 4, which tells you how much it grew, not how many times longer it is.
@@ -770,7 +770,7 @@ She thought that she should write to Farida about it. She thought that when she 
    Options: butterfly / mosquito / honeybee / grasshopper  
    **Answer:** 3. *Why:* The grasshopper is the odd one out. It has no pupa. Its nymphs look like small adults. The other three have four stages: egg, larva, pupa and adult.
 13. (write) A frog lays hundreds of eggs, but only a few become frogs. A hen lays fewer eggs and looks after her chicks. Give one good thing about each way.  
-   **Answer:** Lots of eggs: even if most are eaten, a few will survive, and the parent doesn't need to stay. Fewer eggs with care: each chick has a much better chance, because the hen keeps it warm and safe.. *Why:* Both ways work, in different lives. Scientists study the trade-off between many young with no care and few young with lots of care.
+   **Answer:** Lots of eggs: even if most are eaten, a few will survive, and the parent doesn't need to stay. Fewer eggs with care: each chick has a much better chance, because the hen keeps it warm and safe.. *Why:* Both ways work, in different lives. Scientists compare these two ways: many young with no care, or a few young with lots of care.
 14. (write) Silk is made from silkworm cocoons. Usually the pupa inside is killed so the thread stays in one long piece. Some people make 'peace silk', where the moth comes out first. What do you think, and why?  
    **Answer:** Any honest, thought-out answer is good. For example: I think peace silk is kinder, because the moth gets to finish its life cycle, even if the thread is shorter.. *Why:* This is a question about fairness, not a fact. The best answers say what they think and give a reason.
 15. (write) In the story 'Where the Tails Go', Tanvi thought her tadpoles were sick. Her friend Farida's notebook showed something else. Why are written records useful in science?  
@@ -851,7 +851,7 @@ She thought that she should write to Farida about it. She thought that when she 
 - Wrigglers in the tray of a desert cooler or a forgotten bucket.
 - Silk cocoons and silk saris in markets in Mysuru, Kanchipuram and Bhagalpur.
 - Empty cicada nymph skins clinging to tree bark after the monsoon.
-- Frogs calling at night after heavy rain, like a hundred scooters starting.
+- Frogs calling loudly at night after heavy rain. The males call so that females can find them in the dark.
 
 ## Open questions
 - **How did complete metamorphosis, with a pupa stage, first begin?** It started more than 300 million years ago. Fossils of soft larvae and pupae are rare, so scientists rely on genes and living insects, and they still disagree.
@@ -867,7 +867,7 @@ She thought that she should write to Farida about it. She thought that when she 
 - If you could have one stage of a butterfly's life, which would you choose, and why?
 - Is there still water anywhere around our home? Could mosquito babies be living there?
 - If we see tadpoles in a puddle, where do you think they will be next month?
-- This shop egg almost surely could never have become a chick. Do you know why?
+- A shop egg almost never becomes a chick, however long you keep it warm. Do you know why?
 - What has changed about you since last year? What has stayed the same?
 - Who looked after you when you were a baby? Who looks after a baby butterfly?
 - If a caterpillar remembers being a caterpillar, what do you think it remembers?

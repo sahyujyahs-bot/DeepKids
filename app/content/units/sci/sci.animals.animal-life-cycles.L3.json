@@ -8,7 +8,7 @@
   "context": "This card sums up the whole unit on animal life cycles in a few lines."
  },
  "intro": {
-  "hook": "Here is a puzzle. A small animal lives in water. It breathes with gills, like a fish. It has a long tail and no legs. It eats green slime off stones. A few weeks later, the very same animal breathes air, has four legs and no tail, and eats insects. Nobody swapped it. What happened?",
+  "hook": "Here is a puzzle. A small animal lives in water. It breathes with gills, like a fish. It has a long tail and no legs. It scrapes algae off stones. Algae are tiny water plants that make a green, slimy coat. A few weeks later, the very same animal breathes air, has four legs and no tail, and eats insects. Nobody swapped it. What happened?",
   "text": "The animal is a tadpole, and it became a frog. In the monsoon, many ponds and puddles in India fill with tadpoles. In this unit you will open a hen's egg and find every part a chick needs. You will test whether air can pass through an eggshell. And you will find out where a tadpole's tail goes. It does not fall off.",
   "art": "A monsoon puddle with black tadpoles wriggling in it, and on a stone at the edge, a tiny froglet with a stub of a tail.",
   "context": "This is the way into the unit: a puzzle about an animal that changes its whole body."
@@ -90,7 +90,7 @@
   },
   {
    "term": "Gills",
-   "meaning": "Feathery body parts that take oxygen from water, so an animal can breathe underwater.",
+   "meaning": "Thin, frilly body parts that take oxygen from water, so an animal can breathe underwater.",
    "example": "Fish have gills. Very young tadpoles have gills too.",
    "art": "A tiny tadpole with feathery gills sticking out behind its head.",
    "context": "This is a word card from the unit on animal life cycles."
@@ -139,7 +139,7 @@
   },
   {
    "term": "Chrysalis",
-   "meaning": "The hard case of a butterfly pupa. It is not a nest. It is the pupa's own skin.",
+   "meaning": "The hard case of a butterfly pupa. It is the pupa's own skin, not something it builds.",
    "example": "A lime butterfly chrysalis can be green or brown, like the twig it hangs on.",
    "art": "A green chrysalis held to a stem by a thin silk belt.",
    "context": "This is a word card from the unit on animal life cycles."
@@ -242,7 +242,7 @@
    "concept": "The frog: from tadpole to frog",
    "status": "defined",
    "definition": "A frog's life cycle has four main stages: frogspawn, tadpole, froglet and adult frog. The tadpole changes its whole body to become a frog. This is metamorphosis.",
-   "description": "In the monsoon, a female frog lays hundreds of eggs in water. Each egg sits in a ball of jelly. A male frog fertilises them. After a few days, tiny tadpoles wriggle out. At first they breathe with feathery gills, and they eat green slime and soft plants. Then the change begins. Back legs grow first. Then the front legs pop out. Lungs grow inside, so the young frog can breathe air. Its mouth gets wider and its gut gets shorter, ready to eat insects. Its tail gets shorter every day. Now it is a froglet. Soon the tail is gone, and the frog hops onto land. In many Indian frogs, all this takes one to three months.",
+   "description": "In the monsoon, a female frog lays hundreds or thousands of eggs in water. Each egg sits in a ball of jelly. A male frog fertilises them. After a few days, tiny tadpoles wriggle out. At first they breathe with feathery gills, and they eat green slime and soft plants. Then the change begins. Back legs grow first. Then the front legs pop out. Lungs grow inside, so the young frog can breathe air. Its mouth gets wider and its gut gets shorter, ready to eat insects. Its tail gets shorter every day. Now it is a froglet. Soon the tail is gone, and the frog hops onto land. In many Indian frogs, all this takes one to three months.",
    "examples": [
     "Indian bullfrogs and common toads breed in rain puddles and ponds after the first monsoon showers.",
     "A tadpole has gills like a fish. A frog has lungs, and can also breathe through its wet skin.",
@@ -328,7 +328,7 @@
    "examples": [
     "The butterfly has the same genes as the caterpillar.",
     "Much of the caterpillar's body is broken down, but parts of its nerves are kept and rebuilt.",
-    "Your body is not made of the same material it was made of when you were a baby. Are you still the same person?"
+    "Most of your body is made of different material from when you were a baby. Are you still the same person?"
    ],
    "perspectives": [
     {
@@ -440,7 +440,7 @@
    "claim": "A butterfly comes out of a cocoon.",
    "who": "A very common mistake, even in some famous picture books.",
    "for": "Moths do come out of cocoons. Both are cases that hold a pupa, so people mix them up.",
-   "against": "A cocoon is a silk case that a moth caterpillar spins around itself. A butterfly pupa makes no silk case. Its own hard skin is the chrysalis.",
+   "against": "A cocoon is a silk case that a moth caterpillar spins around itself. Most butterfly caterpillars spin no silk case. Its own hard skin is the chrysalis.",
    "status": "rejected",
    "context": "This card is about the difference between a cocoon and a chrysalis."
   },
@@ -1060,7 +1060,7 @@
       "Just grows, like a hen"
      ],
      "a": 0,
-     "why": "A young grasshopper is a nymph. It looks like a small adult, and its wings grow a bit more each time it moults. It has no pupa. Picking 'just grows' is close, but a hen chick does not moult its skin or grow wings slowly."
+     "why": "A young grasshopper is a nymph. It looks like a small adult, and its wings grow a bit more each time it moults. It has no pupa. Picking 'just grows' is close. But a grasshopper sheds its whole skin to grow, and its wings appear bit by bit. A chick hatches with its wings already there."
     },
     {
      "t": "mcq",
@@ -1084,7 +1084,7 @@
       "The white"
      ],
      "a": 0,
-     "why": "Two skins under the shell come apart at the round end, making an air pocket. Just before hatching, the chick pokes its beak in and starts breathing with its lungs. Picking 'the white' usually means thinking the white is air. It is mostly water.",
+     "why": "Two skins under the shell come apart at the round end, making an air pocket. Just before hatching, the chick pokes its beak in and starts breathing with its lungs. Picking 'the white' is a natural guess, because the white is clear. But the white is mostly water, not air.",
      "how": "a1",
      "context": "In Open an Egg like a Scientist, you cracked an egg and found all its parts."
     },
@@ -1334,7 +1334,7 @@
       "Nobody could ever have any idea"
      ],
      "a": 0,
-     "why": "Fish, early amphibians and reptiles laid eggs long before chickens existed. Chickens come from red junglefowl, which also lay eggs. So eggs came first. Picking 'the chicken' works only if you mean 'a chicken egg'. Then it becomes a puzzle about where you draw the line between junglefowl and chicken."
+     "why": "Fish, early amphibians and reptiles laid eggs long before chickens existed. Chickens come from red junglefowl, which also lay eggs. So eggs came first. Picking 'the chicken' makes sense only if you mean a chicken's egg. Even then, the first chicken hatched from an egg laid by a bird that was almost a chicken."
     },
     {
      "t": "mcq",
@@ -1424,7 +1424,7 @@
      "p": "A frog lays hundreds of eggs, but only a few become frogs. A hen lays fewer eggs and looks after her chicks. Give one good thing about each way.",
      "lines": 3,
      "a": "Lots of eggs: even if most are eaten, a few will survive, and the parent doesn't need to stay. Fewer eggs with care: each chick has a much better chance, because the hen keeps it warm and safe.",
-     "why": "Both ways work, in different lives. Scientists study the trade-off between many young with no care and few young with lots of care."
+     "why": "Both ways work, in different lives. Scientists compare these two ways: many young with no care, or a few young with lots of care."
     },
     {
      "t": "write",
@@ -1599,7 +1599,7 @@
      "say": "Now we watch very closely. Don't touch the glasses. Just look at the shell.",
      "kid": "Watch the shells. Don't touch the glasses. What do you see?",
      "adult": true,
-     "parent": "In very hot water, thin trails of tiny bubbles rise from the shell within a few seconds. There are usually more at the fat, round end, where the air pocket is. In cold water there are usually none. If you see only a few bubbles, the water was not hot enough. Try again with hotter water."
+     "parent": "In very hot water, thin trails of tiny bubbles rise from the shell within a few seconds. There are usually more at the fat, round end, where the air pocket is. In cold water there are usually none. If you see only a few bubbles, the water was not hot enough. Try again with hotter water. If a shell cracks and white leaks out, use another egg."
     },
     {
      "id": "s4",
@@ -2603,7 +2603,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Tip the water out onto dry ground or into a pot of soil, never into a drain. Scrub the container. Turn buckets upside down.",
-     "say": "With no still water, mosquito eggs cannot grow into adults. That is how families and towns fight dengue and malaria. In 1897, in Secunderabad, a doctor named Ronald Ross showed that mosquitoes carry malaria.",
+     "say": "With no still water, mosquito eggs cannot grow into adults. That is how families and towns fight dengue and malaria. In 1897, in Secunderabad, a doctor named Ronald Ross found the malaria germ living inside mosquitoes.",
      "kid": "Tip the water onto soil. Scrub the pot. Turn buckets upside down. You stopped a life cycle!",
      "adult": true,
      "parent": "Doing this every week stops most home mosquito breeding, because the cycle from egg to adult takes about a week in warm weather. Scrubbing matters, because Aedes mosquito eggs stick to container walls and can survive drying."
@@ -3226,7 +3226,7 @@
    "art": "A brown, empty, split insect skin clinging to the bark of a neem tree."
   },
   {
-   "text": "Frogs calling at night after heavy rain, like a hundred scooters starting.",
+   "text": "Frogs calling loudly at night after heavy rain. The males call so that females can find them in the dark.",
    "art": "A frog with its throat puffed out like a balloon, calling beside a puddle at night."
   }
  ],
@@ -3265,7 +3265,7 @@
   "If you could have one stage of a butterfly's life, which would you choose, and why?",
   "Is there still water anywhere around our home? Could mosquito babies be living there?",
   "If we see tadpoles in a puddle, where do you think they will be next month?",
-  "This shop egg almost surely could never have become a chick. Do you know why?",
+  "A shop egg almost never becomes a chick, however long you keep it warm. Do you know why?",
   "What has changed about you since last year? What has stayed the same?",
   "Who looked after you when you were a baby? Who looks after a baby butterfly?",
   "If a caterpillar remembers being a caterpillar, what do you think it remembers?",
@@ -3727,7 +3727,7 @@
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing, sir.' Uddalaka says that from this fine, unseen thing the whole great banyan tree grows. 'That is the truth. You are that.'",
-    "link": "An egg starts with a tiny white spot and no chick that you can see. In 21 days that spot grows into a whole chick. Uddalaka's seed and the egg's spot both hold a whole new life too small to see at the start."
+    "link": "Shvetaketu could see nothing inside the seed, yet a whole tree grows from it. The egg's tiny spot is the same: no chick is there to see, yet a chick grows from it."
    },
    {
     "source": "Heraclitus, quoted by Plato in Cratylus 402a",

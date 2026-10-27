@@ -141,7 +141,7 @@
    "definition": "A baby's body is not a small adult body. It has different proportions, softer bones and it grows faster than at any other time of life.",
    "description": "A newborn is about 50 centimetres long. By its first birthday it is about 75 centimetres. That is the fastest growing a person ever does. A baby's head is about one quarter of its whole length. In an adult, the head is only about one eighth. A baby's skull has soft spots, where the bones have not joined yet. This lets the skull grow with the brain. A baby is born with about 300 bones and soft parts that will become bone. Many of them join together as the child grows. An adult has 206 bones.",
    "examples": [
-    "A baby's arms are so short it cannot touch the top of its own head.",
+    "A baby's legs are short compared to its body. In an adult, the legs are about half of the whole height.",
     "Baby teeth are already hiding inside a baby's gums at birth.",
     "A newborn's soft spot on top of the head closes by about age two."
    ],
@@ -195,7 +195,7 @@
    "concept": "Why skin wrinkles",
    "status": "defined",
    "definition": "Skin wrinkles because, over many years, it gets thinner, drier and less springy.",
-   "description": "Inside your skin are stretchy threads called collagen and elastin. They work like the springs in a mattress. They make skin bounce back when you pinch it. Most elastin is made while you are young, and the body makes very little later. So many of the springy threads in an elder's skin are as old as the elder. As people get older, the body also makes less collagen. Skin makes less oil, so it gets drier. Strong sunlight over many years breaks the threads faster. So older skin folds and springs back slowly. The lines often form where we smile and frown the most.",
+   "description": "Inside your skin are stretchy threads called collagen and elastin. They work like the springs in a mattress. They make skin bounce back when you pinch it. Most elastin is made while you are young, and the body makes very little later. So many of the springy threads in an elder's skin were made when the elder was young. As people get older, the body also makes less collagen. Skin makes less oil, so it gets drier. Strong sunlight over many years breaks the threads faster. So older skin folds and springs back slowly. The lines often form where we smile and frown the most.",
    "examples": [
     "Skin on the back of a young child's hand snaps back fast when pinched. An elder's skin flattens slowly.",
     "Farmers who work in strong sun often get wrinkles earlier.",
@@ -223,7 +223,7 @@
    "concept": "Ears, bones, muscles and joints",
    "status": "defined",
    "definition": "As years pass, ears hear high sounds less well, bones get thinner, muscles get smaller and joints get stiffer. Using the body slows these changes down.",
-   "description": "Deep inside the ear are tiny hair cells that pick up sounds. The ones for very high sounds wear out first. So many older people hear high voices and whistles less well. Bones slowly lose some of their hard minerals, so they break more easily in a fall. Muscles get smaller if they are not used. Joints, like knees, can get stiff and sore. But here is the good news. Muscles can grow stronger at any age. In 1990, scientists in Boston gave strength exercises to people aged about 90. In eight weeks, their muscles got much stronger.",
+   "description": "Deep inside the ear are tiny hair cells that pick up sounds. The ones for very high sounds wear out first. So many older people hear high voices and whistles less well. Bones slowly lose some of their hard minerals, so they break more easily in a fall. Muscles get smaller if they are not used. Joints, like knees, can get stiff and sore. Muscles can grow stronger at any age. In 1990, scientists in Boston gave strength exercises to people aged about 90. In eight weeks, their muscles got much stronger.",
    "examples": [
     "A grandparent may ask you to repeat what you said, especially in a noisy room.",
     "Older people often walk carefully on wet floors, because a fall can break a bone.",
@@ -274,9 +274,9 @@
    "status": "debated",
    "description": "Scientists know a lot about how bodies age. They still argue about why. Here are the main ideas. Many scientists think more than one of them is true at once.",
    "examples": [
-    "Most of your cells can only split to make new cells a certain number of times. In 1961, Leonard Hayflick and Paul Moorhead found human cells in a dish stopped after about 40 to 60 splits.",
+    "Many of your cells can only split to make new cells a certain number of times. In 1961, Leonard Hayflick and Paul Moorhead found human cells in a dish stopped after about 40 to 60 splits.",
     "Elizabeth Blackburn and Carol Greider found telomerase, a substance that rebuilds the caps on the ends of genes. They shared a Nobel Prize in 2009 with Jack Szostak.",
-    "A mouse lives about 2 years. A human can live 80 or more. Their cells are very alike, so the timetable must be set partly by genes."
+    "A mouse lives about 2 years. A human can live 80 or more. Their cells are very alike, so scientists think the timetable is set partly by genes."
    ],
    "perspectives": [
     {
@@ -310,9 +310,9 @@
    "context": "This card talks gently about the end of a life, the last stage of every life cycle. A grown-up may want to read it with the child."
   },
   {
-   "concept": "Why do humans live long after having children? The grandmother idea",
+   "concept": "Why do humans live long after they stop having babies? The grandmother idea",
    "status": "debated",
-   "description": "Most animals die soon after they stop having babies. Humans, and a few kinds of whales, often live for many years after. Why? Scientists argue about this.",
+   "description": "Most female animals can have babies until near the end of their lives. Women stop having babies at about 50, and then often live for 20 or 30 more years. A few kinds of whales do the same. Why? Scientists argue about this.",
    "examples": [
     "The Hadza people in Tanzania are hunters and gatherers. Grandmothers there dig up many tubers, a kind of root, to feed their grandchildren.",
     "Killer whales are big dolphins. Old grandmother killer whales often lead their family to salmon, especially when food is hard to find.",
@@ -329,7 +329,7 @@
     }
    ],
    "art": "A grandmother killer whale leading a small family of whales through blue water towards a shoal of silver salmon.",
-   "context": "This card is about a big question: why humans live for so many years after they stop having babies."
+   "context": "This card is about a big question: why women live for so many years after they stop having babies."
   },
   {
    "concept": "People are living longer than ever before",
@@ -446,7 +446,7 @@
  ],
  "big_questions": [
   {
-   "q": "Your grandparent was once a baby. Is the baby and the grandparent the same person? What stayed the same?",
+   "q": "Your grandparent was once a baby. Are the baby and the grandparent the same person? What stayed the same?",
    "kind": "big",
    "hint": "Think about what changed: size, skin, hair, cells. Now think about what might not have changed."
   },
@@ -681,7 +681,7 @@
      "do": "When the cards run out, count stars. Then look at the whole mat together.",
      "say": "Look at the whole line. You will move along it too. Which stage are you at now? Which stage am I at? Which is the one you are most curious about?",
      "kid": "Count your stars. Look at the whole line. Find where you are now. Where will you be one day?",
-     "think": "Every elder on this mat was once a baby. Is a baby and an elder the same person?",
+     "think": "Every elder on this mat was once a baby. Are the baby and the elder the same person?",
      "context": "This is the last step of the Life Stage Game. You count stars and look at the whole life line."
     }
    ]
@@ -1626,7 +1626,7 @@
      "do": "1. The person holds the card at arm's length. 2. They bring it slowly towards their face. 3. When the letters blur, they move it back a little until it is just sharp. 4. Measure from cheekbone to card. 5. Repeat 3 times for each person.",
      "say": "Bring it closer, slowly. Tell me the moment the letters go fuzzy. Now move it back just until they are sharp. Hold still while I measure.",
      "kid": "Hold the card far away. Bring it closer slowly. Stop when the letters go fuzzy. Move it back until sharp. Measure.",
-     "parent": "Children often reach 7 to 10 centimetres. People over 45 without reading glasses often need 30 centimetres or more. If an elder cannot see the print sharply even at arm's length, write 'more than arm's length'. A short-sighted person without their glasses can read very close at any age. That is why they keep their glasses on.",
+     "parent": "Children often reach 7 to 10 centimetres. People over 45 without reading glasses often need 30 centimetres or more. If an elder cannot see the print sharply even at arm's length, write 'more than arm's length'. A short-sighted person without their glasses can read very close at any age. That is why they keep their glasses on. If nobody at home is over 40, ask a grandparent, a relative or a neighbour to be tested.",
      "context": "This is the main step of the near point test. You measure how close each person can hold tiny print and still read it."
     },
     {
@@ -1662,7 +1662,7 @@
   },
   {
    "id": "e3",
-   "title": "The Mosquito Sound",
+   "title": "The High Sound Test",
    "mins": 20,
    "days": 1,
    "question": "Can younger people hear higher sounds than older people?",
@@ -1916,7 +1916,7 @@
      "id": "s1",
      "mins": 4,
      "do": "Choose five questions together from this list. What games did you play at 8? What could your body do then that it cannot now? What can you do now that you could not do then? When did you get your first grey hair? What is the best thing about being older?",
-     "say": "Elders are living libraries. They remember things nobody else does. Let's pick five questions to ask.",
+     "say": "Elders remember things that nobody else in the family remembers. Let's pick five questions to ask.",
      "kid": "Elders remember a lot. Pick five questions to ask an elder.",
      "context": "This is the first step of Interview an Elder. You choose your questions."
     },
@@ -2024,7 +2024,7 @@
   },
   {
    "id": "a4",
-   "title": "In Their Shoes: Gloves and Buttons",
+   "title": "Socks on Your Hands: Trying Tasks Like an Elder",
    "mins": 15,
    "days": 1,
    "materials": [
@@ -2054,7 +2054,7 @@
     }
    ],
    "record": "Write which task was hardest, and one idea to make it easier for an elder.",
-   "context": "This is an empathy activity. You wear thick socks on your hands and smeared glasses to feel a little of what stiff fingers and older eyes can be like, then think of ways to help.",
+   "context": "This activity helps you understand elders. You wear thick socks on your hands and smeared glasses to feel a little of what stiff fingers and older eyes can be like, then think of ways to help.",
    "setup": [
     {
      "art": "A child sitting at a table wearing thick socks on both hands, trying to pick up a coin.",
@@ -2076,7 +2076,7 @@
      "do": "1. Time how long it takes to pick up 5 coins with bare hands, then with socks on your hands. 2. Try to do up 3 buttons with the socks on. 3. Sitting down, try to read small print through the smeared glasses.",
      "say": "As people get older, fingers can get stiff, and touch can feel less sharp. Eyes can get blurry for close things. This is a small taste of that. It is not a game to laugh at elders. It is a way to understand them.",
      "kid": "Pick up coins with bare hands. Then with socks on your hands. Try buttons with socks on. Sit down and look through the smeared glasses.",
-     "context": "This is the first step of In Their Shoes. You try tasks in thick gloves and smeared glasses."
+     "context": "This is the first step of Socks on Your Hands. You try tasks with thick socks on your hands and smeared glasses."
     },
     {
      "id": "s2",
@@ -2106,7 +2106,7 @@
       "why": "The socks made your fingers clumsy and less able to feel, a bit like stiff joints and duller touch in some elders' hands. They are not a model of height or hearing. The smeared glasses were the model of older eyes."
      },
      "parent": "Gently point out that many elders are proud and capable. Good help means asking first, 'Would you like help?'",
-     "context": "This is the last step of In Their Shoes. You think of ways to help elders."
+     "context": "This is the last step of Socks on Your Hands. You think of ways to help elders."
     }
    ]
   },
@@ -2827,7 +2827,7 @@
    "art": "A black and white photo of a young girl in plaits, held by a wrinkled hand."
   },
   {
-   "text": "Mehendi, hair oil and henna used by many elders to colour grey hair.",
+   "text": "Henna (mehendi) and hair dye, which many elders use to colour grey hair.",
    "art": "A grandmother oiling her white-streaked hair in the sun."
   },
   {
@@ -3111,11 +3111,10 @@
    "id": "b-tape",
    "item": "A soft measuring tape in centimetres",
    "kind": "tool",
-   "why": "Used to measure the near point in the near point test, and heights for the life line. A school ruler and a piece of string also work.",
+   "why": "Used to measure the near point in the near point test. A school ruler and a piece of string also work.",
    "url": "https://www.amazon.in/s?k=measuring+tape+tailor+cm",
    "used_in": [
-    "e2",
-    "a6"
+    "e2"
    ],
    "plan": "Used again in Body Parts L3 and in maths units on length."
   },
@@ -3277,8 +3276,8 @@
   "teachings": [
    {
     "source": "Bhagavad Gita 2.13",
-    "teaching": "The one who lives in this body passes through childhood, youth and old age. The wise are not confused by these changes.",
-    "link": "The body changes at every stage, but the Gita says something in us stays the same through all of them. Science shows the body really does change, cell by cell."
+    "teaching": "The one who lives in the body passes through childhood, youth and old age. In the same way, it passes on to another body. The wise are not confused by this.",
+    "link": "The Gita says the body changes at every stage, but the one living in it stays the same. Science shows the body really does change, cell by cell."
    },
    {
     "source": "Heraclitus, the Greek thinker, as quoted in Plato's Cratylus 402a",
@@ -3303,7 +3302,7 @@
   ],
   "other_view": {
    "who": "The Buddha, and many neuroscientists today",
-   "view": "The Buddha taught anatta, that there is no fixed self going through the stages. There is only the changing itself, moment to moment. Many neuroscientists also think 'you' is a pattern your brain makes, which changes as the brain changes. Both are honest views worth thinking about."
+   "view": "The Buddha taught anatta, that there is no fixed self going through the stages. There is only the changing itself, moment to moment. Many neuroscientists also think 'you' is a pattern your brain makes, which changes as the brain changes."
   },
   "practice": {
    "title": "Hands across time",
@@ -3320,7 +3319,7 @@
   "art": "A child's hand and a grandmother's hand resting side by side, with a zoomed-in circle showing the layers of an eye lens, like the rings of an onion."
  },
  "how_we_found_out": {
-  "story": "In 1912, the French surgeon Alexis Carrel began growing cells from a chicken embryo's heart in a glass dish. He fed them a juice made from crushed chicken embryos. He said the cells kept splitting and growing for more than 30 years, longer than a chicken lives. So most scientists came to believe that cells, kept in a dish, could live for ever. Ageing, they thought, came from the body around the cells, not from the cells. In 1961, Leonard Hayflick and Paul Moorhead in Philadelphia grew human cells. Their cells always slowed and stopped after about 40 to 60 splits. Many scientists thought they had made a mistake. So they mixed old cells from a man with young cells from a woman, in the same dish. The old male cells stopped first, while the young female cells kept splitting. So the dish was not to blame. The cells were counting their own splits. Many scientists now think fresh living cells came into Carrel's dishes with the embryo juice.",
+  "story": "In 1912, the French surgeon Alexis Carrel began growing cells from a chicken embryo's heart in a glass dish. He fed them a juice made from crushed chicken embryos. His lab said the cells kept splitting and growing for 34 years, longer than a chicken lives. So most scientists came to believe that cells, kept in a dish, could live for ever. Ageing, they thought, came from the body around the cells, not from the cells. In 1961, Leonard Hayflick and Paul Moorhead in Philadelphia grew human cells. Their cells always slowed and stopped after about 40 to 60 splits. Many scientists thought they had made a mistake. So they mixed old cells from a man with young cells from a woman, in the same dish. The old male cells stopped first, while the young female cells kept splitting. So the dish was not to blame. The cells were counting their own splits. Many scientists now think fresh living cells came into Carrel's dishes with the embryo juice.",
   "who": "Alexis Carrel, a French surgeon, and Leonard Hayflick and Paul Moorhead, two American scientists",
   "when": "1912 to 1961",
   "wrong_idea": "Cells kept in a dish can split for ever, so ageing comes only from the body around them. Hayflick and Moorhead showed that human cells stop after about 40 to 60 splits, even in a dish."

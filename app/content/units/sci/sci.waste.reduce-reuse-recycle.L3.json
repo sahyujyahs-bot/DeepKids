@@ -1,21 +1,21 @@
 {
  "id": "sci.waste.reduce-reuse-recycle.L3",
- "title": "Reduce, reuse, recycle: where does 'away' go?",
+ "title": "Reduce, reuse, recycle: why a peel rots and plastic stays",
  "level": 3,
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home today, with the materials listed. Fixes made. The rot jar test now gives each thing its own clear jar, pressed against the glass, so a child sees changes without digging. It needs real garden soil, because packaged potting mix and cocopeat hold few microbes. The soil must be damp like a squeezed sponge, not soggy, or the jar smells. The peel shows big changes within a week in warm months, but in a cold winter the test should run three to four weeks indoors. Cotton and paper change only a little in two weeks, which is a real result, so the table scores 'how much is left' from 5 to 0 instead of 'rotted or not'. The crayon test works only with wax crayons, not plastic crayons or oil pastels, and is heated in a bowl over hot water by a grown-up, never on a flame. The bag test uses 500 ml water bottles as equal weights, stops at 20 bottles, and has a grown-up lift once a bag holds more than 3 kg. A thin plastic bag is often stronger than children expect, and the unit treats that honestly. The newspaper bag's bottom fold is hard, so a simpler fold is given. The T-shirt bag needs a grown-up for the thick cuts. Recycled paper needs 1 to 3 days to dry, and works without a mixer by hand-mashing. Both games were checked to finish: Loops and Ladders has no ladder ending on a snake's head, and lasts about 10 turns each. Both games have rules for a child alone. Parents should know that the rot jar test runs for two weeks, so start it on day 1.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home today, in a city flat, with the materials listed. The rot jar test gives each thing its own clear jar, pressed against the glass, so a child sees changes without digging. It uses soil from a plant pot that has had a plant in it for some months, or two handfuls from under a tree outside, because new packaged potting mix and cocopeat hold few microbes. The plastic is a strip of an empty milk packet, which every home has, instead of a thin carry bag. The cloth must be pure cotton, because polyester is a plastic. The soil must be damp like a squeezed sponge, not soggy, or the jar smells. The peel shows big changes within a week in warm months. In a cold winter, run the test for three to four weeks indoors. Cotton and paper change only a little in two weeks, which is a real result, so the table scores 'how much is left' from 5 to 0 instead of 'rotted or not'. The crayon test works only with wax crayons, and is heated in a bowl over hot water by a grown-up, never on a flame. The bag test uses 1-kilogram weights that most kitchens have (full 1-litre water bottles, or sealed 1 kg packets of atta, rice or dal), stops at 10 kilograms, and has a grown-up lift once a bag holds more than 3 kilograms. A thin plastic bag is often stronger than children expect, and the unit treats that honestly. The newspaper bag's bottom fold is hard, so a simpler fold is given. The T-shirt bag needs a grown-up for the thick cuts. Recycled paper needs 1 to 3 days to dry, and works without a mixer by hand-mashing. Both games were checked to finish. Start the rot jar test on day 1, because it runs for two weeks.",
  "summary": {
-  "text": "This unit is about waste, and the three big ways to make less of it: reduce, reuse and recycle. Reduce means making less waste in the first place. Reuse means using a thing again, or mending it. Recycle means breaking a used thing down into material for something new. You will bury peels, paper, cloth and plastic in a jar and watch what tiny living things do to them. Peels rot because microbes have the right tools to take them apart. Plastic stays, because its molecules are too new and too strange for most microbes. You will follow a bottle from your dustbin to a kabadiwala and a factory, mend something, and make new things from old. Nothing we throw out ever leaves the world. Scientists are still finding microbes and worms that can slowly eat plastic, and still arguing about what to do.",
-  "art": "A child holding an empty plastic bottle, with a dotted path behind it winding past a kabadiwala's cart, a sorting shed, a factory and a T-shirt, and a second path going to a smoking dump. Above, a clear glass jar of soil with a blackened banana peel and an unchanged plastic strip pressed against the glass."
+  "text": "A banana peel left on soil is gone in a few weeks. A plastic packet left in the same place is still there years later. The peel rots because soil microbes feed on it, using enzymes that fit its molecules. Almost no microbe has an enzyme that fits plastic yet. So the best plan is to make less waste in the first place. Next comes using things again and mending them, and recycling comes last. You will bury four things in jars of soil, act out a bottle's journey, and mend something at home.",
+  "art": "A child holding an empty plastic bottle, with a dotted path behind it winding past a kabadiwala's cart, a sorting shed, a factory and a T-shirt, and a second path going to a smoking dump. Above, a clear glass jar of soil with a blackened banana peel and an unchanged strip of milk packet pressed against the glass."
  },
  "intro": {
-  "hook": "Hold a banana peel in one hand and a plastic wrapper in the other. Imagine burying both in the garden today. Which one will still be there when you are as old as your grandparents?",
-  "text": "Every day, almost every home in India throws things 'away'. Peels, packets, bottles, paper, an old toothbrush. A van or a cart takes them, and we never see them again. But where is 'away'? Is it a real place? A banana peel can turn into soil in a few weeks. A plastic toothbrush made when your grandparents were children may still be lying somewhere today. Why does one thing vanish and the other stay? And what can we do about it? This unit follows our waste all the way out: into the soil, to the city dump, to the kabadiwala, and down to the tiny molecules that things are made of.",
-  "art": "A child at a doorstep holding up a banana peel and a plastic wrapper side by side, a garbage cart disappearing round the corner of an Indian lane, and a question mark floating above the cart."
+  "hook": "Hold a banana peel in one hand and an empty milk packet in the other. If you buried both in a pot of soil today, which one would still be there when you are grown up?",
+  "text": "Every day, Indian homes throw out peels, packets, bottles and paper. A van or a cart takes them, and we never see them again. But they have not left the world. They have only moved somewhere else. A banana peel can turn into soil in a few weeks. A plastic toothbrush made when your grandparents were young may still be lying somewhere today. Why does one disappear and the other stay? The rot jar test will show you, and the science will explain it.",
+  "art": "A child at a doorstep holding up a banana peel and an empty milk packet side by side, a garbage cart disappearing round the corner of an Indian lane, and a question mark floating above the cart."
  },
  "outcomes": [
   "I can say what reduce, reuse, repair and recycle mean, and why reducing comes first.",
   "I can run a fair test to find out which things rot in soil and which do not, and record what I see over two weeks.",
-  "I can explain that peels and paper rot because microbes break their molecules apart, and that most plastic does not rot because microbes have no tools for it.",
+  "I can explain that peels and paper rot because microbes cut their molecules apart with enzymes, and that most plastic does not rot because almost no microbe has an enzyme that fits it.",
   "I can describe where waste goes in an Indian city: the dump, the compost yard, the waste picker, the kabadiwala and the recycling factory.",
   "I can mend something, and make something new and useful from waste.",
   "I can compare results in a table and a bar chart, and use them to decide which bag or material is best.",
@@ -61,7 +61,7 @@
   },
   {
    "term": "Rot (decompose)",
-   "meaning": "When tiny living things break a dead plant or animal down into simpler stuff, which becomes soil. Scientists call it decomposing.",
+   "meaning": "When tiny living things feed on a dead plant or animal and break it down. What is left becomes part of the soil. Scientists call it decomposing.",
    "example": "A fallen mango left under a tree turns soft, brown and then disappears into the soil.",
    "art": "A fallen mango shown four times, each softer and browner, until only a dark patch of soil is left."
   },
@@ -140,7 +140,7 @@
   {
    "term": "Compost",
    "meaning": "Dark, crumbly soil made when peels, leaves and other once-living things rot. It is food for plants.",
-   "example": "A pot of peels and dry leaves turns into compost in about two months.",
+   "example": "A pot of peels and dry leaves turns into compost in about two to three months.",
    "art": "A hand holding dark crumbly compost with a tiny seedling growing from it."
   },
   {
@@ -161,7 +161,7 @@
    "concept": "What waste is, and why nature has almost none",
    "status": "defined",
    "definition": "Waste is anything we have stopped using and throw out. In nature, almost nothing is wasted, because one living thing's leftovers are another living thing's food.",
-   "description": "A fallen leaf is not waste to an earthworm. It is lunch. Dung is not waste to a dung beetle. It is a home and food for its young. Fungi, bacteria and worms take dead things apart, and the pieces feed new plants. So in a forest, everything goes round and round. People make waste in a different way. We make things that nothing else can eat, like plastic. And we mix things up, so that even useful things get spoiled. Waste is a problem people made. That also means people can change it.",
+   "description": "In a forest, the leftovers of one living thing are food for another. Earthworms eat fallen leaves. Dung beetles feed their young on dung. Fungi and bacteria break dead things down, and what is left feeds new plants. So the same materials are used again and again. People make waste in two ways a forest does not. We make materials, like plastic, that almost nothing can eat. And we mix things together, so even useful things get spoiled. Because people make this waste, people can also make less of it.",
    "examples": [
     "A fallen leaf feeds earthworms, which turn it into soil for the tree.",
     "A banana peel thrown on soil disappears in a few weeks.",
@@ -190,7 +190,7 @@
    "concept": "Why peels rot: microbes and their enzymes",
    "status": "defined",
    "definition": "A peel rots because microbes, such as bacteria and fungi, feed on it. They use enzymes, tiny cutting tools, to cut its long molecules into small pieces they can eat.",
-   "description": "A banana peel is made of long chain molecules, such as cellulose and starch. Microbes in the soil are hungry for them. But a microbe has no mouth. So it pours out enzymes around itself. Each enzyme is shaped to fit one kind of chain, like a key fits a lock. It snips the chain into small pieces. The microbe soaks the pieces in as food. What is left over becomes part of the soil. Microbes have been doing this to plants and animals for billions of years. So for almost everything that was once alive, some microbe somewhere has the right enzyme. Warmth, water and air help them work faster. That is why peels rot quickly in a warm, damp pot, and slowly in a dry desert.",
+   "description": "A banana peel is made of long chain molecules, such as cellulose and starch. Microbes in the soil feed on them. But a microbe has no mouth, and it cannot swallow a whole chain. So it pours out enzymes around itself. Each enzyme is shaped to fit one kind of chain, like a key fits a lock. It snips the chain into small pieces. The microbe soaks the pieces in as food. What is left over becomes part of the soil. Microbes have been feeding on dead plants and animals for hundreds of millions of years. So for almost everything that was once alive, some microbe somewhere has the right enzyme. Warmth, water and air help them work faster. That is why peels rot quickly in a warm, damp pot, and slowly in a dry desert.",
    "examples": [
     "Bread left in a damp box grows white and green fluffy mould. That mould is a fungus eating the bread.",
     "Leaves under a tree turn into dark soil in the monsoon.",
@@ -203,12 +203,12 @@
   {
    "concept": "Why most plastic does not rot",
    "status": "defined",
-   "definition": "Most plastics do not rot because microbes have almost no enzymes that fit their molecules. Plastic molecules are very long chains that were invented by people only about a hundred years ago.",
-   "description": "A plastic bag is made of very long chain molecules, mostly of carbon and hydrogen atoms. They are joined very tightly, and they are packed close together, and they repel water. Microbes have had billions of years to evolve enzymes for leaves, wood and bones. They have had less than a hundred years to meet plastic. Most have no key for this lock. So a plastic bag in the soil just sits there. Sunlight and heat do slowly crack it into smaller and smaller pieces. But tiny pieces are still plastic. Nobody has watched a bag for hundreds of years. So the times you see on posters, like '450 years for a bottle', are rough guesses from tests.",
+   "definition": "Most plastics do not rot because microbes have almost no enzymes that fit their molecules. Plastic molecules are a new kind of long chain. Most plastic has been made only in the last 75 years.",
+   "description": "A plastic bag is made of very long chain molecules, mostly of carbon and hydrogen atoms. Their atoms hold on to each other very strongly. The chains pack tightly, and water cannot soak in. Microbes have had hundreds of millions of years to evolve enzymes for leaves, wood and bones. Most plastic has existed for less than 75 years. Almost no microbe has an enzyme that fits it. So a plastic bag in the soil just sits there. Sunlight and heat slowly crack it into smaller and smaller pieces. But tiny pieces are still plastic. Nobody has watched a bag for hundreds of years. So times on posters, like '450 years for a bottle', are rough guesses from tests.",
    "examples": [
     "A milk packet in the jar test looks the same after two weeks.",
     "Old plastic buckets left in the sun go pale and brittle and crack. They do not turn into soil.",
-    "Leo Baekeland made one of the first fully factory-made plastics, Bakelite, in 1907. Plastic bags and packets spread across India mostly from the 1980s onwards."
+    "Leo Baekeland made Bakelite, one of the first plastics made entirely from chemicals, in 1907. Most of the plastic in the world has been made since 1950."
    ],
    "perspectives": [],
    "art": "Two chains side by side under a magnifier: a peel chain with keyhole-shaped gaps that enzyme keys fit into, and a smooth plastic chain with no keyholes and an enzyme key bouncing off.",
@@ -218,7 +218,7 @@
    "concept": "Plastic breaks into microplastics, which travel everywhere",
    "status": "defined",
    "definition": "Microplastics are pieces of plastic smaller than a grain of rice. Big plastic things break into them slowly, in sunlight, heat and rubbing.",
-   "description": "In 2004, the British scientist Richard Thompson and his team gave these tiny pieces a name: microplastics. Since then, scientists have looked for them almost everywhere, and found them. They are in the deepest parts of the ocean. In 2019, a team including the British scientist Imogen Napper climbed Mount Everest to collect snow. They found microplastics even near the top. They are carried by wind, rivers and rain. Fish, birds, turtles and the tiny animals of the sea swallow them. They mistake them for food. Scientists have also found them inside people. What they do inside bodies is still being studied.",
+   "description": "In 2004, the British scientist Richard Thompson and his team gave these tiny pieces a name: microplastics. Since then, scientists have looked for them almost everywhere, and found them. They are in the deepest parts of the ocean. In 2019, climbers on Mount Everest collected snow on the way up. The British scientist Imogen Napper and her team tested it. They found microplastics as high as about 8,400 metres, close to the top. Wind, rivers and rain carry them. Fish, birds, turtles and tiny sea animals swallow them by mistake, along with their food. Scientists have also found them inside people. What they do inside bodies is still being studied.",
    "examples": [
     "A polyester T-shirt sheds tiny plastic threads every time it is washed.",
     "Car tyres wear away into tiny rubber and plastic bits on the road.",
@@ -287,7 +287,7 @@
   {
    "concept": "Plastic-eating microbes and worms",
    "status": "debated",
-   "description": "In 2016, a team of Japanese scientists led by Shosuke Yoshida and Kohei Oda made a surprise discovery. Near a bottle recycling plant in the city of Sakai, they found a bacterium living on PET plastic, the plastic of drinking bottles. They named it Ideonella sakaiensis. It makes two enzymes that cut PET into small pieces, which it eats. It is slow. It took about six weeks to eat a thin film of plastic. Scientists have since changed these enzymes to make them faster. And in 2017, the Spanish scientist Federica Bertocchini noticed that wax worms, the young of a moth, chewed holes in a plastic bag. She and her colleagues found that they seem to break down polyethylene, the plastic of most bags. How much they truly digest is still argued about.",
+   "description": "In 2016, a team of Japanese scientists led by Shosuke Yoshida and Kohei Oda made a surprise discovery. Near a bottle recycling plant in the city of Sakai, they found a bacterium living on PET plastic, the plastic of drinking bottles. They named it Ideonella sakaiensis. It makes two enzymes that cut PET into small pieces, which it eats. It is slow. It took about six weeks to eat a thin film of plastic. Scientists have since changed these enzymes to make them faster. And in 2017, Federica Bertocchini, an Italian scientist working in Spain, noticed that wax worms, the young of a moth, chewed holes in a plastic bag. She and her colleagues found that they seem to break down polyethylene, the plastic of most bags. How much they truly digest is still argued about.",
    "examples": [
     "A bacterium found near a Japanese recycling plant feeds on bottle plastic.",
     "Wax worms, which normally eat beeswax in beehives, chew through plastic bags."
@@ -376,7 +376,7 @@
  "agreed": [
   {
    "text": "Things that were once alive, like peels, paper and cotton, are rotted by microbes. Most plastics are not.",
-   "evidence": "Bury tests, done by scientists and by children, always show peels and paper breaking down while plastic stays the same. Microbiologists can see the enzymes that do the cutting."
+   "evidence": "Bury tests, done by scientists and by children, show peels and paper breaking down while plastic stays the same. Scientists have found and studied the enzymes that microbes use to do the cutting."
   },
   {
    "text": "Reducing waste is better than recycling it.",
@@ -489,7 +489,7 @@
    "hint": "Where do the atoms of a burnt leaf go?"
   },
   {
-   "q": "Life once took a long time to learn to eat wood. Will life learn to eat plastic? Should we wait for it?",
+   "q": "Long ago, wood may have piled up because few living things could rot it. Will life learn to eat plastic? Should we wait for it?",
    "kind": "deep",
    "hint": "A bacterium that eats bottle plastic was found in 2016. How fast do you think it works?"
   },
@@ -504,9 +504,9 @@
    "hint": "Who cleans your lane? Do you know their name?"
   },
   {
-   "q": "A cow eats plastic, a turtle swallows a bag, a bird feeds plastic to its chicks. Do animals have a right to a clean world, even if they can't ask for it?",
+   "q": "A cow eats plastic, a turtle swallows a bag, a bird feeds plastic to its chicks. Do animals have a right to a clean world, even though they cannot make our laws?",
    "kind": "big",
-   "hint": "Who speaks for those who cannot speak?"
+   "hint": "Animals cannot vote or write rules. Who should think of them when people make rules about waste?"
   },
   {
    "q": "Your grandparents made less waste than we do. Were they poorer or richer than us, in ways that matter?",
@@ -519,9 +519,9 @@
    "hint": "What did making the new one use up?"
   },
   {
-   "q": "Can you love a thing so much that you mend it? Can you love the planet that way?",
-   "kind": "big",
-   "hint": "Think of a toy or a cloth you would never throw out. Why?"
+   "q": "A peel feeds microbes, then worms, then a plant. What does a plastic packet feed?",
+   "kind": "deep",
+   "hint": "Think of your rot jars. Did anything grow on the plastic?"
   },
   {
    "q": "If everyone in the world lived like your family, how much waste would there be?",
@@ -535,19 +535,19 @@
   "read_aloud": true,
   "note": "Nek Chand is real. He was a road inspector in Chandigarh who, from the late 1950s, secretly built a garden of sculptures from broken waste in a patch of forest. Government officials found it in 1975. It was on land where building was not allowed, but the city chose to keep it, and it opened to the public in 1976 as the Rock Garden. Kamla, her mother Bimla, the officer and what they say are made up.",
   "text": [
-   "In the city of Chandigarh, in the year 1975, there lived a girl called Kamla who could hear what things were made of.",
+   "In the city of Chandigarh, in the year 1975, there lived a girl called Kamla. She could tell what a thing was made of just by tapping it.",
    "She had learned it from her mother. Bimla collected and sorted the city's waste for a living. Every evening she tipped her sack onto the floor of their one-room house and sorted it in the lamplight. She tapped a bottle with her fingernail. Glass went tink. Plastic went tuk. She dropped a lid on the floor. Tin rang. Steel rang longer. She rubbed a scrap of cloth between her fingers. 'Cotton,' she said. 'This one will go back to the earth. This shiny one never will.'",
    "At school, a boy called Kamla 'kooda-wali', garbage girl, and the others laughed. That evening Kamla asked her mother why she didn't do clean work instead.",
    "Bimla stopped sorting. 'Nothing in this sack is dirty,' she said. 'It is only mixed up. A peel next to a newspaper spoils the newspaper. Put the peel in the earth and the paper in a bundle, and both are useful again.' She held up a cracked cup. 'People say they throw things away. Show me where away is, Kamla, and I will stop working.'",
    "Kamla had no answer.",
-   "A few weeks later, at Diwali, Kamla broke her favourite bangles. They were thin green glass, and she had saved for them for months. She slipped on the step, and they snapped into a little heap of green moons. She cried and swept them into her hand to throw out.",
+   "A few weeks later, at Diwali, Kamla broke her favourite bangles. They were thin green glass, and she had saved for them for months. She slipped on the step, and they snapped into a little heap of curved green pieces. She cried and swept them into her hand to throw out.",
    "'Wait,' said her mother. 'Take them to the thin man with the bicycle.'",
    "Everyone in their part of the city had seen the thin man. He rode a bicycle with sacks tied to the back, and he picked broken things off rubbish heaps. Tiles, bits of sinks, bottle bottoms, smashed cups, broken bangles. Bimla often saved her broken glass for him. People said he was mad. His name was Nek Chand.",
    "Kamla found him at the edge of the forest near the lake, and held out her hand. He looked at the green pieces for a long time. Then he said, 'Can you keep a secret?'",
-   "He led her down a narrow path between the trees, and Kamla stopped breathing for a moment.",
-   "Inside the forest there were people. Hundreds of them, standing in rows, and none of them were alive. There were dancers with skirts made of broken bangles. There were soldiers with faces of broken cups. There were monkeys made of pieces of pipe, and a whole crowd of women carrying pots on their heads, their bodies shining with chips of tile. A grey langur sat on a statue's head and scratched itself. Lizards ran over the mosaic walls. Birds had nested in a doorway made of an old sink.",
+   "He led her down a narrow path between the trees. Kamla stood still and stared.",
+   "Among the trees stood hundreds of statues of people, in rows. There were dancers with skirts made of broken bangles. There were soldiers with faces of broken cups. There were monkeys made of pieces of pipe, and a whole crowd of women carrying pots on their heads, their bodies shining with chips of tile. A grey langur sat on a statue's head and scratched itself. Lizards ran over the mosaic walls. Birds had nested in a doorway made of an old sink.",
    "'All of this was thrown away,' said Nek Chand. 'When they built this new city, they knocked down the villages that were here before. I brought the villages here.'",
-   "Kamla came back every evening after that. She sorted the pieces the way her mother had taught her. She noticed that Nek Chand never used peels or leaves or paper. 'The rain eats those,' he said. 'I only use things that do not rot. That is why the garden will last.' Kamla pressed her green bangle pieces into the skirt of a dancer, one by one.",
+   "Kamla came back every evening after that. She sorted the pieces the way her mother had taught her. She noticed that Nek Chand never used peels or leaves or paper. 'Those rot in the rain,' he said. 'I only use things that do not rot. That is why the garden will last.' Kamla pressed her green bangle pieces into the skirt of a dancer, one by one.",
    "Then one morning, men in uniforms came through the trees with notebooks and long measuring tapes. They looked at the statues the way people look at a pile of rubbish.",
    "'This is government land,' said the officer in charge. 'Nobody is allowed to build here. This is all waste. It must be cleared away.'",
    "Nek Chand said nothing. His face had gone grey. Kamla felt her own face grow hot. She was only ten, and nobody had asked her anything. But she heard her mother's voice in her head.",
@@ -557,8 +557,8 @@
    "Nobody spoke. A bird called from the sink doorway.",
    "The officer walked slowly along the rows of statues. He stopped in front of the women carrying pots. He bent down and touched a broken tile with a blue pattern. 'My mother had a floor like this,' he said quietly, 'in our village. Before the city came.'",
    "Word spread. People came from all over Chandigarh to see the secret garden in the forest. They found their old villages in it, and their broken cups, and their children's bangles. Some argued that rules were rules. Many more said the garden must stay. In the end, the city decided to keep it. In 1976, it opened to everyone.",
-   "Nek Chand kept building for the rest of his long life. Today millions of people have walked through his garden. Most of them never notice one dancer in a far corner, whose skirt is made of thin green moons.",
-   "Kamla noticed. She noticed for the rest of her life. And every evening she helped her mother sort the city's sacks, tink and tuk, cotton and shiny, until there was no such thing as away."
+   "Nek Chand kept building for the rest of his long life. Today millions of people have walked through his garden. Most of them never notice one dancer in a far corner, whose skirt is made of pieces of green bangles.",
+   "Kamla noticed. And every evening she helped her mother sort the city's sacks, tink and tuk, cotton and shiny, so that less of it went to the dump."
   ],
   "epiphany": "For the parent: the turn comes when Kamla asks 'cleared away where?'. Glass, tile and ceramic do not rot, so there is no away for them. They can only become a dump or become something else. The same property that makes some waste a problem, that it lasts, is what makes it perfect for a garden that lasts. Bimla's lesson is the other half: waste is mostly things mixed up and in the wrong place. Sorted, they are useful again. The story also asks quietly who the real experts on waste are, and whose work we look down on.",
   "ask": [
@@ -708,7 +708,7 @@
      "do": "1. Take turns. Each player draws a card, reads it out and places it. 2. They say why. 3. Others may challenge. 4. Give leaf tokens for the points.",
      "say": "Remember, the higher up the line, the more points. But you must be able to say why.",
      "kid": "Take turns. Read your card. Put it on a mat and say why. Can someone find a better place?",
-     "parent": "Good answers. Banana peel, tea leaves, eggshells, dry leaves and the garland go to COMPOST. The jam jar and shoebox are REUSE. The steel tumbler, chappal strap, cycle tube and toy car are REPAIR. Newspaper, a rinsed milk packet, the plastic bottle and the drinks can go to the KABADIWALA. The straw, the thin carry bag and the shiny gift wrap are best on REDUCE: we should not have taken them. The chips packet usually ends on DUMP, because almost nobody recycles it, so REDUCE is the better answer. The pizza box splits: the clean lid goes to the kabadiwala and the cheesy part to compost. The battery and the tube light are hazards. They need a special collection point, because they hold harmful metals such as mercury in tube lights."
+     "parent": "Good answers. Banana peel, tea leaves, eggshells, dry leaves and the garland go to COMPOST. The jam jar and shoebox are REUSE. The steel tumbler, chappal strap, cycle tube and toy car are REPAIR. Newspaper, a rinsed milk packet, the plastic bottle and the drinks can go to the KABADIWALA. The notebook with empty pages and the small T-shirt are REUSE: use the pages, or give the shirt to a younger child. The broken bangle can be REUSE in a mosaic, as Nek Chand did. Otherwise wrap it in paper so nobody is cut. The straw, the thin carry bag and the shiny gift wrap are best on REDUCE: we should not have taken them. The chips packet usually ends on DUMP, because almost nobody recycles it, so REDUCE is the better answer. The pizza box splits: the clean lid goes to the kabadiwala and the cheesy part to compost. The battery and the tube light are hazards. They need a special collection point, because they hold harmful metals such as mercury in tube lights."
     },
     {
      "id": "s4",
@@ -791,7 +791,7 @@
     },
     {
      "kind": "cards",
-     "title": "12 'why' cards, one for each ladder and snake",
+     "title": "12 'why' cards, to read at the ladders and snakes",
      "items": [
       "Why is a cloth bag better than a new plastic bag each time?",
       "Why is repairing better than buying new?",
@@ -1062,11 +1062,11 @@
     },
     {
      "t": "draw",
-     "p": "Draw what you saw in your jar after two weeks: the peel, the paper and the plastic.",
-     "a": "A drawing showing the peel dark and soft or partly gone, the paper soft or torn, and the plastic unchanged.",
+     "p": "Draw what you saw in your jars after two weeks: the peel, the paper, the cloth and the milk packet.",
+     "a": "A drawing showing the peel dark and soft or partly gone, the paper soft or torn, the cloth stained, and the milk packet unchanged.",
      "why": "Drawing what you really saw is how scientists record. Yours may look different, and that is fine.",
      "how": "e1",
-     "context": "In the rot jar test, you buried a peel, paper, cloth and plastic in damp soil in a clear jar, against the glass."
+     "context": "In the rot jar test, you buried a peel, paper, cloth and a strip of milk packet in damp soil in clear jars, against the glass."
     },
     {
      "t": "write",
@@ -1095,13 +1095,13 @@
      "a": 1,
      "why": "This is a fair test. If one jar were warmer or wetter, we would not know whether the material or the warmth made it rot faster. Picking 'only one kind of soil' gives a reason that happens to be true at home, but it is not why scientists do it.",
      "how": "e1",
-     "context": "In the rot jar test, you buried a peel, paper, cloth and plastic in damp soil in clear jars."
+     "context": "In the rot jar test, you buried a peel, paper, cloth and a strip of milk packet in damp soil in clear jars."
     },
     {
      "t": "mcq",
      "p": "Look at the made-up jar results. Which rotted fastest?",
      "opts": [
-      "Plastic",
+      "Milk packet",
       "Cotton cloth",
       "Banana peel",
       "Newspaper"
@@ -1132,7 +1132,7 @@
         "emoji": "🧵"
        },
        {
-        "label": "Plastic bag",
+        "label": "Milk packet",
         "value": 5,
         "emoji": "🛍️"
        }
@@ -1164,12 +1164,12 @@
      "p": "Why have microbes had trouble learning to eat plastic?",
      "opts": [
       "Plastic is poisonous to all life",
-      "Plastic has existed for only about a hundred years, too short for most microbes to evolve the right enzymes",
+      "Most plastic has existed for less than 75 years, too short for most microbes to evolve the right enzymes",
       "Microbes don't like the colour",
       "Plastic is too hard to see"
      ],
      "a": 1,
-     "why": "Microbes evolved enzymes for leaves, wood and bones over billions of years. Plastic is very new. In 2016, scientists found one bacterium that eats bottle plastic, so life is starting to find ways. Picking 'poisonous' is a common belief, but microbes can live on plastic surfaces without eating them."
+     "why": "Microbes evolved enzymes for leaves, wood and bones over hundreds of millions of years. Plastic is very new. In 2016, scientists found one bacterium that eats bottle plastic, so life is starting to find ways. Picking 'poisonous' is a common belief, but microbes can live on plastic surfaces without eating them."
     },
     {
      "t": "mcq",
@@ -1273,10 +1273,10 @@
      "t": "write",
      "p": "Write a claim, the evidence and your reasoning about plastic and soil, from the rot jar test.",
      "lines": 4,
-     "a": "Claim: plastic does not rot in soil. Evidence: after 14 days, the plastic strip looked exactly the same, but the peel was dark, soft and half gone. Reasoning: soil microbes have enzymes for peels but not for plastic.",
+     "a": "Claim: plastic does not rot in soil. Evidence: after 14 days, the milk packet strip looked exactly the same, but the peel was dark, soft and half gone. Reasoning: soil microbes have enzymes for peels but not for plastic.",
      "why": "A good scientific answer has all three parts: what I think, what I saw, and why.",
      "how": "e1",
-     "context": "In the rot jar test, you buried a peel, paper, cloth and plastic in damp soil in clear jars and watched for 14 days."
+     "context": "In the rot jar test, you buried a peel, paper, cloth and a strip of milk packet in damp soil in clear jars and watched for 14 days."
     },
     {
      "t": "mcq",
@@ -1300,7 +1300,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Microbes evolved for billions of years with leaves and wood. Which explains best why they can eat leaves but rarely plastic?",
+     "p": "Microbes have fed on leaves and wood for hundreds of millions of years. Which explains best why they can eat leaves but rarely plastic?",
      "opts": [
       "Leaves taste better",
       "Enzymes evolve to fit molecules that microbes have met for a long time. Plastic molecules are new and strange.",
@@ -1308,7 +1308,7 @@
       "Microbes are lazy"
      ],
      "a": 1,
-     "why": "Evolution shapes enzymes that fit common food molecules. Plastic has existed for only about a century. Picking 'taste' misses the main reason. Microbes can only eat what their enzymes fit."
+     "why": "Evolution shapes enzymes that fit common food molecules. Most plastic has existed for less than 75 years. Picking 'taste' misses the main reason. Microbes can only eat what their enzymes fit."
     },
     {
      "t": "mcq",
@@ -1429,14 +1429,14 @@
      "t": "truefalse",
      "p": "Nobody has watched a plastic bottle for 450 years, so '450 years to break down' is an estimate.",
      "a": true,
-     "why": "True. Plastic has existed for only about a century. Times like this are worked out from tests that speed things up, and they are rough guesses."
+     "why": "True. Most plastic has existed for less than 75 years. Times like this are worked out from tests that speed things up, and they are rough guesses."
     },
     {
      "t": "write",
      "p": "A fungus is busy rotting a fallen log. Does it matter for itself, or only because it makes soil for us? Write what you think and why.",
      "lines": 3,
      "a": "I think it matters for itself, because it is alive and feeding, like we are. It also helps the forest, and that helps us too.",
-     "why": "There is no single right answer. DeepKids believes every living thing matters for itself, not only for what it gives us. Some people think differently."
+     "why": "There is no single right answer. Every living thing matters for itself, not only for what it gives us. Some people think a living thing matters mainly for what it does for people."
     },
     {
      "t": "write",
@@ -1473,8 +1473,8 @@
    "title": "The Rot Jar Test: what rots, and what doesn't?",
    "mins": 40,
    "days": 14,
-   "question": "Which of these rots in damp soil: a banana peel, newspaper, cotton cloth or a plastic bag?",
-   "predict": "Before you bury anything, put the four things in a line. Put the one you think will rot fastest first, and the one you think will last longest at the end.",
+   "question": "Which of these rots in damp soil: a banana peel, newspaper, cotton cloth or a piece of a milk packet? And why?",
+   "predict": "Before you bury anything, put the four things in a line. Put the one you think will rot fastest first, and the one you think will last longest at the end. Then say why you chose that order.",
    "fair_test": "To make it fair, give each thing its own jar, with the same soil, the same water and the same place. Then only the material is different. Cut each piece about the size of a matchbox, so none has a head start.",
    "results_table": [
     "Thing buried",
@@ -1491,11 +1491,11 @@
      "buy": "b-jars"
     },
     {
-     "item": "garden soil from under a tree or a plant pot, not packaged potting mix",
+     "item": "soil from a plant pot that has had a plant in it for some months, or two handfuls from under a tree outside. Not new packaged potting mix or cocopeat.",
      "qty": 1
     },
     {
-     "item": "a piece of banana peel, a strip of newspaper, a scrap of old cotton cloth and a piece of thin plastic bag, each about the size of a matchbox",
+     "item": "a piece of banana peel, a strip of newspaper, a scrap of old pure cotton cloth (a handkerchief or an old banian, not polyester) and a strip cut from an empty, rinsed milk packet, each about the size of a matchbox",
      "qty": 4
     },
     {
@@ -1536,7 +1536,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Put the peel, newspaper, cloth and plastic on a plate. 2. Ask your child to line them up, fastest to rot first.",
+     "do": "1. Put the peel, newspaper, cloth and milk packet on a plate. 2. Ask your child to line them up, fastest to rot first.",
      "say": "We're going to bury these four things and watch them for two weeks. Which do you think will rot first? Put them in a line.",
      "kid": "Look at the four things. Which will rot first? Put them in a line, fastest first.",
      "ask": [
@@ -1545,19 +1545,20 @@
        "good": [
         "It is soft and wet.",
         "It came from a plant.",
-        "Insects and mould like fruit."
+        "Insects and mould like fruit.",
+        "The milk packet is plastic, and plastic lasts."
        ]
       }
      ],
-     "context": "This is the first step of the Rot Jar Test. You bury a peel, paper, cloth and plastic in clear jars of soil, and watch what tiny living things do to them."
+     "context": "This is the first step of the Rot Jar Test. You bury a peel, paper, cloth and a strip of milk packet in clear jars of soil, and watch what tiny living things do to them."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Mix the soil with water until it feels like a squeezed sponge: damp, but no water drips out. 2. Fill each jar three-quarters full. 3. Push one thing down against the glass, about 3 cm below the top of the soil, so you can see it from outside. 4. Cover it with soil.",
+     "do": "1. Mix the soil with water until it feels like a squeezed sponge: damp, but no water drips out. 2. Fill each jar three-quarters full. 3. Push one thing down against the glass, so you can see it from outside. Keep its top about 3 cm below the soil. 4. Cover it with soil.",
      "say": "Soil is full of living things too small to see. They need water and air to work. Damp is good. Soggy is bad, because then they can't breathe.",
      "kid": "Make the soil damp like a squeezed sponge. Fill each jar. Push one thing against the glass. Cover it with soil.",
-     "parent": "Use garden soil, or soil from an old plant pot. It is full of microbes. Packaged potting mix and cocopeat have far fewer, so things rot much more slowly. If your soil is very dry and dusty, mix in a spoon of old compost or soil from under a tree."
+     "parent": "Use soil from an old plant pot, or from under a tree. It is full of microbes. New packaged potting mix and cocopeat have far fewer, so things rot much more slowly. If your soil is very dry and dusty, mix in a spoon of old compost."
     },
     {
      "id": "s3",
@@ -1571,10 +1572,10 @@
      "id": "s4",
      "mins": 10,
      "do": "On day 4 and day 8, look through the glass with a magnifying glass. Score how much of each thing is left: 5 means all of it, 0 means none. Add a spoon of water to any jar that looks dry.",
-     "say": "What has changed? Can you see any white threads or fluffy spots? Those are fungi, eating.",
+     "say": "What has changed? Can you see any white threads or fluffy spots? Those are fungi. They are feeding on the peel.",
      "kid": "Look through the glass. What has changed? Look for white threads. Score how much is left, from 5 down to 0.",
      "wait": "Look again on day 4 and day 8.",
-     "parent": "Expect the peel to go brown and then black, with white or green mould. The newspaper goes soft and grey. The cloth looks stained. The plastic looks just the same. If a jar smells bad, it is too wet. Open the cover for a day to let it dry a little."
+     "parent": "Expect the peel to go brown and then black, with white or green mould. The newspaper goes soft and grey. The cloth looks stained. The milk packet looks just the same. If a jar smells bad, it is too wet. Take the cover off for a day to let it dry a little."
     },
     {
      "id": "s5",
@@ -1586,7 +1587,7 @@
      "wait": "Do this on day 14.",
      "check": {
       "t": "mcq",
-      "q": "In the rot jar test, the plastic bag looked exactly the same after 14 days. Why?",
+      "q": "In the rot jar test, the strip of milk packet looked exactly the same after 14 days. Why?",
       "options": [
        "It was buried too deep",
        "Soil microbes have almost no enzymes that can cut plastic molecules",
@@ -1619,7 +1620,7 @@
         "emoji": "🧵"
        },
        {
-        "label": "Plastic bag",
+        "label": "Milk packet",
         "value": 5,
         "emoji": "🛍️"
        }
@@ -1630,13 +1631,13 @@
      "id": "s6",
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: things that were once alive rot, and plastic doesn't. What I saw: the peel was black and half gone, and the plastic looked new. Why: tiny living things in the soil eat peel, but they can't eat plastic. Put the peel, paper and cloth back into soil or a compost pot, and leave them a month. They will mostly disappear. Put the plastic in the dry waste.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why it happened.",
+     "parent": "A good answer sounds like this. What I think: things that were once alive rot, and plastic doesn't. What I saw: the peel was black and half gone, and the milk packet looked new. Why: tiny living things in the soil feed on peel, but they have no tools for plastic. Put the peel, paper and cloth back into soil or a compost pot for a month. They will mostly disappear. Put the milk packet in the dry waste.",
      "think": "If you buried the same plastic and came back when you were grown up, what would you find?"
     }
    ],
-   "context": "This is the rot jar test. You bury a banana peel, newspaper, cotton cloth and plastic in damp soil in clear jars, pressed against the glass. Then you watch for two weeks to see which ones tiny living things eat.",
+   "context": "This is the rot jar test. You bury a banana peel, newspaper, cotton cloth and a strip of milk packet in damp soil in clear jars, pressed against the glass. Then you watch for two weeks to see which ones tiny living things eat.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example: how much was left on day 14 (5 means all of it, 0 means none)",
@@ -1660,7 +1661,7 @@
       "emoji": "🧵"
      },
      {
-      "label": "Plastic bag",
+      "label": "Milk packet",
       "value": 5,
       "emoji": "🛍️"
      }
@@ -1668,7 +1669,7 @@
    },
    "setup": [
     {
-     "art": "Four clear glass jars of brown soil on a table, labelled with drawings of a banana peel, a newspaper, a cotton rag and a plastic bag.",
+     "art": "Four clear glass jars of brown soil on a table, labelled with drawings of a banana peel, a newspaper, a cotton rag and a milk packet.",
      "caption": "1. Fill four clear jars with damp soil."
     },
     {
@@ -1687,7 +1688,7 @@
    "mins": 40,
    "days": 1,
    "question": "Can broken wax crayons be melted and made into new crayons that still draw? What happens when we mix the colours?",
-   "predict": "Before you melt anything, guess. Will the new crayon draw as well as the old one? What colour will you get if you melt red, blue and yellow together?",
+   "predict": "Before you melt anything, guess. Will the new crayon draw as well as the old one? What colour will you get if you melt red, blue and yellow together? Say why you think so.",
    "fair_test": "To compare fairly, draw ten strokes with an old crayon and ten with your new one, on the same paper, pressing the same way. Keep one mould for a single colour and one for mixed colours, so you can see what mixing does.",
    "results_table": [
     "Mould",
@@ -1728,7 +1729,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Soak the broken crayons in water for 10 minutes, so the paper peels off easily. 2. Peel off all the paper. 3. Break the crayons into pieces about the size of a fingernail. 4. Sort them into two piles: one single colour, and one mix of colours.",
+     "do": "1. Soak the broken crayons in water for 10 minutes, so the paper peels off easily. 2. Peel off all the paper, and dry the crayons on a cloth. 3. Break the crayons into pieces about the size of a fingernail. 4. Sort them into two piles: one single colour, and one mix of colours.",
      "say": "These crayons are broken. Most people throw them out. We're going to recycle them, the way a factory recycles metal or plastic.",
      "kid": "Peel the paper off the broken crayons. Break them into small bits. Make two piles: one colour, and a mix.",
      "context": "This is the first step of Melt and Remake. You melt broken wax crayons and pour them into moulds, to see how recycling by melting works."
@@ -1775,7 +1776,7 @@
      "mins": 7,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see? And why?",
-     "kid": "Finish like a scientist. What I think. What I saw. Why.",
+     "kid": "Say or write three things. What I think. What I saw. Why it happened.",
      "parent": "A good answer sounds like this. What I think: wax can be recycled by melting, but colours should be sorted first. What I saw: the single-colour crayon drew well, and the mix came out brown. Why: melting lets the wax take a new shape, but it can't un-mix colours. Many plastics are like this too. Each kind melts differently, and mixed kinds make a weak material."
     }
    ],
@@ -1800,13 +1801,13 @@
    "title": "The Bag Test: which bag carries most?",
    "mins": 35,
    "days": 1,
-   "question": "Which carries the most: a newspaper bag, an old T-shirt bag, a cloth bag or a thin plastic carry bag?",
-   "predict": "Before testing, line up the four bags. Put the one you think will carry most first, and the one you think will tear first at the end.",
-   "fair_test": "To make it fair, load every bag the same way: one full 500 ml water bottle at a time. Lift each bag by its handles the same height, about a hand's width, and hold it for 10 seconds.",
+   "question": "Which carries the most weight before it tears: a newspaper bag, an old T-shirt bag, a cloth bag or a thin plastic carry bag?",
+   "predict": "Before testing, line up the four bags. Put the one you think will carry most first, and the one you think will tear first at the end. Say why you chose that order.",
+   "fair_test": "To make it fair, load every bag the same way: one 1-kilogram weight at a time. Lift each bag by its handles the same height, about a hand's width, and hold it for 10 seconds.",
    "results_table": [
     "Bag",
     "My guess (1 to 4)",
-    "Bottles it held for 10 seconds",
+    "Kilograms it held for 10 seconds",
     "What broke first: handle, bottom or side?",
     "How many times could we use it again?"
    ],
@@ -1820,23 +1821,23 @@
      "qty": 2
     },
     {
-     "item": "up to 20 plastic or steel bottles, each filled with 500 ml of water and closed tightly",
-     "qty": 20
+     "item": "10 weights of 1 kilogram each: closed 1-litre bottles full of water, or strong sealed 1 kg packets of atta, rice, dal, salt or sugar",
+     "qty": 10
     },
     {
      "item": "a cushion or folded blanket on the floor, and a pencil and the results table",
      "qty": 1
     }
    ],
-   "safety": "Test over a cushion, so falling bottles don't crack the floor or hurt toes. Keep feet out from under the bag. A grown-up lifts any bag holding more than 6 bottles, which is 3 kg.",
+   "safety": "Test over a cushion, so falling weights don't crack the floor or hurt toes. Keep feet out from under the bag. A grown-up lifts any bag holding more than 3 kilograms.",
    "schedule": [
     {
      "day": 1,
      "mins": 35,
-     "what": "Guess. Test each bag by adding one bottle at a time. Write the results. Draw a bar chart and talk about what 'best' means."
+     "what": "Guess. Test each bag by adding one 1-kilogram weight at a time. Write the results. Draw a bar chart and talk about what 'best' means."
     }
    ],
-   "record": "Fill in the table. Draw a bar chart with one bar for each bag, as tall as the number of bottles it held.",
+   "record": "Fill in the table. Draw a bar chart with one bar for each bag, as tall as the kilograms it held.",
    "flow": [
     {
      "id": "s1",
@@ -1844,15 +1845,15 @@
      "do": "1. Put the four bags in a row. 2. Ask your child to line them up, strongest first.",
      "say": "Which bag do you think will carry the most? Put them in a line, strongest first.",
      "kid": "Look at the four bags. Which is strongest? Put them in a line.",
-     "context": "This is the first step of the bag test. You fill four bags with water bottles, one at a time, to see which carries most."
+     "context": "This is the first step of the bag test. You put 1-kilogram weights into four bags, one at a time, to see which carries most."
     },
     {
      "id": "s2",
      "mins": 20,
-     "do": "1. Put the cushion on the floor. 2. Hold the first bag open over it. 3. Add one bottle. 4. Lift the bag by its handles a hand's width up and hold for 10 seconds. 5. If it holds, add another bottle and lift again. 6. When it tears, write down the last number of bottles it held. 7. Stop at 20 bottles, and write '20 or more'.",
-     "say": "One bottle at a time. Lift slowly, count to ten, then add another. The number we write is the last one it held safely.",
-     "kid": "Add one bottle. Lift the bag. Count to ten. Did it hold? Add one more. When it tears, write the last number.",
-     "parent": "A grown-up does the lifting after 6 bottles. A newspaper bag usually tears at the handles or the glued bottom after a few bottles. A thin plastic carry bag is often surprisingly strong for its weight, and may hold 6 to 10 bottles. That is an honest result, and a good thing to talk about.",
+     "do": "1. Put the cushion on the floor. 2. Hold the first bag open over it. 3. Add one 1-kilogram weight. 4. Lift the bag by its handles a hand's width up and hold for 10 seconds. 5. If it holds, add another weight and lift again. 6. When it tears, write down the last number of kilograms it held. 7. Stop at 10 kilograms, and write '10 or more'.",
+     "say": "One weight at a time. Lift slowly, count to ten, then add another. The number we write is the last one it held safely.",
+     "kid": "Add one weight. Lift the bag. Count to ten. Did it hold? Add one more. When it tears, write the last number.",
+     "parent": "A grown-up does the lifting after 3 kilograms. A newspaper bag usually tears first, often at the handles or the pasted bottom. A thin plastic carry bag is often stronger than children expect. That is an honest result, and a good thing to talk about.",
      "adult": true
     },
     {
@@ -1860,39 +1861,39 @@
      "mins": 6,
      "do": "Draw a bar chart with one bar for each bag.",
      "say": "Let's turn the numbers into a picture. A taller bar means the bag carried more.",
-     "kid": "Draw one bar for each bag. Make it as tall as the bottles it held.",
+     "kid": "Draw one bar for each bag. Make it as tall as the kilograms it held.",
      "chart": {
       "type": "bar",
-      "title": "Made-up example: how many 500 ml bottles each bag held",
+      "title": "Made-up example: how many kilograms each bag held",
       "x": "Bag",
-      "y": "Bottles held for 10 seconds",
+      "y": "Kilograms held for 10 seconds",
       "note": "These numbers are made up. Your bags will be different.",
       "data": [
        {
         "label": "Newspaper bag",
-        "value": 3,
+        "value": 2,
         "emoji": "📰"
        },
        {
         "label": "Thin plastic bag",
-        "value": 8,
+        "value": 5,
         "emoji": "🛍️"
        },
        {
         "label": "T-shirt bag",
-        "value": 14,
+        "value": 7,
         "emoji": "👕"
        },
        {
         "label": "Cloth bag",
-        "value": 20,
+        "value": 10,
         "emoji": "👜"
        }
       ]
      },
      "check": {
       "t": "mcq",
-      "q": "In the bag test, the thin plastic bag held 8 bottles but the newspaper bag held only 3. Does that mean the plastic bag is the best bag?",
+      "q": "In the made-up bag test results, the thin plastic bag held 5 kilograms and the newspaper bag held only 2. Does that mean the plastic bag is the best bag?",
       "options": [
        "Yes, strongest is always best",
        "Not by itself: we must also think how many times it is used, and where it ends up",
@@ -1908,53 +1909,53 @@
      "mins": 6,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think is the best bag now? What did you see? And why?",
-     "kid": "Finish like a scientist. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: the cloth bag is best for shopping. What I saw: it held 20 bottles and didn't tear, and the plastic bag held 8. Why: cloth is strong, and we can use it again and again, so we don't need new bags. Any honest answer with all three parts is good.",
+     "kid": "Say or write three things. What I think. What I saw. Why it happened.",
+     "parent": "A good answer sounds like this. What I think: the cloth bag is best for shopping. What I saw: it held 10 kilograms and didn't tear, and the plastic bag held 5. Why: cloth is strong, and we can use it again and again, so we don't need new bags. Any honest answer with all three parts is good.",
      "think": "Which bag in your home has been used the most times? Can you count?"
     }
    ],
-   "context": "This is the bag test. You add full water bottles, one at a time, to four different bags and lift them, to see which carries the most before it tears.",
+   "context": "This is the bag test. You add 1-kilogram weights, such as full 1-litre water bottles, one at a time to four different bags and lift them, to see which carries the most before it tears.",
    "example_chart": {
     "type": "bar",
-    "title": "Made-up example: how many 500 ml bottles each bag held",
+    "title": "Made-up example: how many kilograms each bag held",
     "x": "Bag",
-    "y": "Bottles held for 10 seconds",
+    "y": "Kilograms held for 10 seconds",
     "note": "These numbers are made up. Your bags will be different.",
     "data": [
      {
       "label": "Newspaper bag",
-      "value": 3,
+      "value": 2,
       "emoji": "📰"
      },
      {
       "label": "Thin plastic bag",
-      "value": 8,
+      "value": 5,
       "emoji": "🛍️"
      },
      {
       "label": "T-shirt bag",
-      "value": 14,
+      "value": 7,
       "emoji": "👕"
      },
      {
       "label": "Cloth bag",
-      "value": 20,
+      "value": 10,
       "emoji": "👜"
      }
     ]
    },
    "setup": [
     {
-     "art": "Four bags in a row on a floor: a folded newspaper bag, a thin plastic carry bag, a bag made from a striped T-shirt and a cloth jhola, with a row of filled water bottles beside them.",
-     "caption": "1. Line up four bags and some full water bottles."
+     "art": "Four bags in a row on a floor: a folded newspaper bag, a thin plastic carry bag, a bag made from a striped T-shirt and a cloth jhola, with full 1-litre water bottles and 1 kg atta and rice packets beside them.",
+     "caption": "1. Line up four bags and ten 1-kilogram weights."
     },
     {
-     "art": "A child placing one water bottle into a newspaper bag held over a cushion.",
-     "caption": "2. Add one bottle at a time."
+     "art": "A child placing one full 1-litre water bottle into a newspaper bag held over a cushion.",
+     "caption": "2. Add one weight at a time."
     },
     {
-     "art": "A grown-up lifting a T-shirt bag full of bottles a hand's width above a cushion, the child counting on fingers.",
-     "caption": "3. Lift for 10 seconds. Write down the last number it held."
+     "art": "A grown-up lifting a T-shirt bag full of bottles and packets a hand's width above a cushion, the child counting on fingers.",
+     "caption": "3. Lift for 10 seconds. Write down the last number of kilograms it held."
     }
    ]
   }
@@ -1988,7 +1989,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Draw four columns on a sheet. Call them ROTS, KABADIWALA, COULD BE REUSED and NOTHING ELSE. Peels go under ROTS. Paper, bottles and cans go under KABADIWALA. Wrappers and packets go under NOTHING ELSE. 2. Stick it beside the dustbin. 3. Tell the whole family to make one mark for each thing they throw out today.",
+     "do": "1. Draw four columns on a sheet. Call them ROTS, KABADIWALA, COULD BE REUSED and NOTHING ELSE. Peels go under ROTS. Paper, bottles and cans go under KABADIWALA. Jars, boxes and old clothes go under COULD BE REUSED. Wrappers and packets go under NOTHING ELSE. 2. Stick it beside the dustbin. 3. Tell the whole family to make one mark for each thing they throw out today.",
      "say": "Today we are waste detectives. Every time anyone throws something out, they make a mark. Tonight we'll see what our home throws out.",
      "kid": "Make a sheet with four columns. Stick it by the dustbin. Each time someone throws something out, make a mark.",
      "context": "This is the first step of Dustbin Detective. For one day, your family makes a mark every time something is thrown out, to see what kinds of waste your home makes."
@@ -1999,7 +2000,7 @@
      "do": "In the evening, count the marks in each column and draw a bar chart.",
      "say": "Let's count. Which column has the most marks? Is that what you expected?",
      "kid": "Count the marks in each column. Draw a bar for each one.",
-     "parent": "In many Indian homes, the ROTS column and the NOTHING ELSE column are the biggest. Peels and leftovers are heavy. Wrappers and packets are many. Any result is fine, because it is your home's own data."
+     "parent": "In many Indian homes, the ROTS column and the NOTHING ELSE column are the biggest. Peels and leftovers come from every meal. Wrappers and packets come with almost everything we buy. Any result is fine, because it is your home's own data."
     },
     {
      "id": "s3",
@@ -2816,11 +2817,11 @@
   },
   {
    "t": "mcq",
-   "p": "A shirt has lost a button. Which R is the best?",
+   "p": "Arjun, a boy in Class 3, finds that his school shirt has lost a button. What is the best thing to do?",
    "opts": [
-    "Recycle it",
-    "Repair it",
-    "Compost it",
+    "Send it to be recycled",
+    "Sew the button back on",
+    "Put it in the compost",
     "Throw it out"
    ],
    "a": 1,
@@ -2840,7 +2841,7 @@
    "why": "This is a fair test: change only one thing. Picking 'so the plastic rots too' means expecting a result instead of testing for it.",
    "outcome": 1,
    "how": "e1",
-   "context": "In the rot jar test, you bury a banana peel, newspaper, cotton cloth and plastic in damp soil in clear jars, and watch for two weeks."
+   "context": "In the rot jar test, you bury a banana peel, newspaper, cotton cloth and a strip of milk packet in damp soil in clear jars, and watch for two weeks."
   },
   {
    "t": "mcq",
@@ -2849,13 +2850,13 @@
     "Banana peel",
     "Newspaper",
     "Cotton cloth",
-    "Plastic bag"
+    "Milk packet"
    ],
    "a": 3,
-   "why": "The plastic bag scored 5, meaning all of it was left. Picking the cloth is a fair second guess, because cotton rots slowly. But it does rot, and plastic does not.",
+   "why": "The milk packet scored 5, meaning all of it was left. Picking the cloth is a fair second guess, because cotton rots slowly. But it does rot, and plastic does not.",
    "outcome": 1,
    "how": "e1",
-   "context": "In the rot jar test, you bury a banana peel, newspaper, cotton cloth and plastic in damp soil in clear jars, and watch for two weeks.",
+   "context": "In the rot jar test, you bury a banana peel, newspaper, cotton cloth and a strip of milk packet in damp soil in clear jars, and watch for two weeks.",
    "chart": {
     "type": "bar",
     "title": "Made-up results: how much was left on day 14 (5 means all of it, 0 means none)",
@@ -2878,7 +2879,7 @@
       "emoji": "🧵"
      },
      {
-      "label": "Plastic bag",
+      "label": "Milk packet",
       "value": 5,
       "emoji": "🛍️"
      }
@@ -2903,12 +2904,12 @@
    "p": "Why does most plastic not rot?",
    "opts": [
     "It is too shiny",
-    "Microbes have almost no enzymes that fit plastic molecules, because plastic is so new",
+    "Almost no microbe has an enzyme that fits plastic molecules, because plastic is so new",
     "It is buried too deep",
     "It is too light"
    ],
    "a": 1,
-   "why": "Microbes evolved enzymes for leaves and wood over billions of years. Plastic has existed for only about a hundred. Picking 'too deep' is a common idea, but plastic on the surface does not rot either. It only cracks.",
+   "why": "Microbes evolved enzymes for leaves and wood over hundreds of millions of years. Most plastic has existed for less than 75 years. Picking 'too deep' is a common idea, but plastic on the surface does not rot either. It only cracks.",
    "outcome": 2
   },
   {
@@ -2926,7 +2927,7 @@
   },
   {
    "t": "mcq",
-   "p": "In many Indian cities, waste that is all mixed together in one bag usually goes…",
+   "p": "In many Indian cities, where does waste that is all mixed together in one bag usually go?",
    "opts": [
     "Straight to a recycling factory",
     "To a dumping ground on the edge of the city",
@@ -2965,7 +2966,7 @@
   },
   {
    "t": "mcq",
-   "p": "Turning an old T-shirt into a shopping bag is an example of…",
+   "p": "Riya, a girl in Class 3, cuts up an old T-shirt and ties it into a shopping bag. What is this called?",
    "opts": [
     "Upcycling",
     "Burning",
@@ -2978,32 +2979,32 @@
   },
   {
    "t": "mcq",
-   "p": "In the bag test, a newspaper bag held 3 bottles and a cloth bag held 15. How many times as many did the cloth bag hold?",
+   "p": "In the bag test, a newspaper bag held 2 kilograms and a cloth bag held 10 kilograms. How many times as much did the cloth bag hold?",
    "opts": [
-    "3 times",
+    "2 times",
     "5 times",
-    "12 times",
-    "15 times"
+    "8 times",
+    "10 times"
    ],
    "a": 1,
-   "why": "15 divided by 3 is 5. So the cloth bag held 5 times as many bottles. Picking 12 means subtracting, 15 take away 3. That tells how many more, not how many times as many.",
+   "why": "10 divided by 2 is 5. So the cloth bag held 5 times as much. Picking 8 means subtracting, 10 take away 2. That tells how much more, not how many times as much.",
    "outcome": 5,
    "how": "e3",
-   "context": "In the bag test, you add full 500 ml water bottles to a bag one at a time, and count how many it holds before it tears.",
+   "context": "In the bag test, you add 1-kilogram weights to a bag one at a time, and count how many kilograms it holds before it tears.",
    "chart": {
     "type": "bar",
-    "title": "Bottles held before tearing",
+    "title": "Kilograms held before tearing",
     "x": "Bag",
-    "y": "Bottles held",
+    "y": "Kilograms held",
     "data": [
      {
       "label": "Newspaper bag",
-      "value": 3,
+      "value": 2,
       "emoji": "📰"
      },
      {
       "label": "Cloth bag",
-      "value": 15,
+      "value": 10,
       "emoji": "👜"
      }
     ]
@@ -3104,7 +3105,7 @@
  "open_questions": [
   {
    "q": "How long does plastic really last?",
-   "why_open": "Plastic has existed for only about a hundred years. Times like '450 years' come from speeded-up tests and are rough guesses. Different plastics, and different places, give very different answers."
+   "why_open": "Most plastic has existed for less than 75 years. Times like '450 years' come from speeded-up tests and are rough guesses. Different plastics, and different places, give very different answers."
   },
   {
    "q": "What do microplastics do inside animals and people?",
@@ -3194,8 +3195,8 @@
    "a": "It wanted to carry on."
   },
   {
-   "j": "What did the earthworm say to the dry leaf?",
-   "a": "I'm dying to have you for lunch."
+   "j": "Why does the earthworm love the time when leaves fall?",
+   "a": "Lunch keeps dropping from the trees."
   },
   {
    "j": "Why are tin cans so brave?",
@@ -3256,26 +3257,26 @@
  ],
  "maths": [
   {
-   "problem": "In the bag test, the newspaper bag held 3 bottles. The cloth bag held 15 bottles. How many times as many bottles did the cloth bag hold?",
+   "problem": "In the bag test, the newspaper bag held 2 kilograms. The cloth bag held 10 kilograms. How many times as much did the cloth bag hold?",
    "answer": "5 times.",
-   "explain": "The cloth bag held 15 bottles. The newspaper bag held 3. 15 divided by 3 is 5. You can check: 3 + 3 + 3 + 3 + 3 = 15. So the cloth bag held 5 times as many.",
+   "explain": "The cloth bag held 10 kilograms. The newspaper bag held 2. 10 divided by 2 is 5. You can check: 2 + 2 + 2 + 2 + 2 = 10. So the cloth bag held 5 times as much.",
    "math_unit": "math.division.sharing-and-grouping.L3",
-   "context": "In the bag test, you put full 500 ml water bottles into a bag one at a time, lift it, and count how many it holds before it tears.",
+   "context": "In the bag test, you put 1-kilogram weights into a bag one at a time, lift it, and count how many kilograms it holds before it tears.",
    "how": "e3",
    "chart": {
     "type": "bar",
-    "title": "Bottles held before tearing",
+    "title": "Kilograms held before tearing",
     "x": "Bag",
-    "y": "Bottles held",
+    "y": "Kilograms held",
     "data": [
      {
       "label": "Newspaper bag",
-      "value": 3,
+      "value": 2,
       "emoji": "📰"
      },
      {
       "label": "Cloth bag",
-      "value": 15,
+      "value": 10,
       "emoji": "👜"
      }
     ]
@@ -3283,13 +3284,13 @@
    "why_maths": "Saying 'the cloth bag is stronger' is a start. Dividing tells us how much stronger: five times."
   },
   {
-   "problem": "Each bottle in the bag test holds 500 ml of water, which weighs half a kilogram. The T-shirt bag held 14 bottles. How many kilograms was that?",
-   "answer": "7 kilograms.",
-   "explain": "Each bottle weighs half a kilogram. Two bottles make 1 kilogram. 14 bottles make 14 divided by 2, which is 7. So the bag carried 7 kilograms.",
+   "problem": "In the bag test, the T-shirt bag held 7 kilograms. At the market, you buy 2 kilograms of potatoes, 1 kilogram of onions, 1 kilogram of tomatoes and half a kilogram of peas. Can the T-shirt bag carry it all? How much room is left?",
+   "answer": "Yes. The vegetables weigh 4 and a half kilograms, so there are 2 and a half kilograms to spare.",
+   "explain": "Add the vegetables: 2 + 1 + 1 = 4 kilograms, and the peas make it 4 and a half. The bag held 7 kilograms. 7 take away 4 and a half is 2 and a half. So the bag can carry it all, with 2 and a half kilograms to spare.",
    "math_unit": "math.weight-capacity.weight.L3",
-   "context": "In the bag test, you load each bag with full 500 ml water bottles, one at a time. A full 500 ml bottle of water weighs about half a kilogram.",
+   "context": "In the bag test, you load each bag with 1-kilogram weights, such as full 1-litre water bottles, one at a time. One litre of water weighs about 1 kilogram.",
    "how": "e3",
-   "why_maths": "Counting bottles is easy, but shops sell things by the kilogram. Turning bottles into kilograms tells you if the bag can carry a real load of vegetables."
+   "why_maths": "The test tells you what a bag can hold. Adding up a real shopping list tells you whether it is strong enough for your family's market trip."
   },
   {
    "problem": "In Dustbin Detective, a family made these marks in one day. ROTS: 12. KABADIWALA: 7. COULD BE REUSED: 3. NOTHING ELSE: 9. Draw a bar chart. Which column was biggest, and how many marks were there in all?",
@@ -3625,21 +3626,21 @@
  "roots": {
   "context": "We have been learning where waste goes, and why some things rot and others don't. Now we ask what waste tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Nothing is ever thrown away. It only goes somewhere else, and becomes something else.",
-   "habit": "We sort the world into 'useful' and 'waste', and into 'here' and 'away'. But atoms are never lost, and the Earth has no away. Waste is a name for a thing in the wrong place, or a thing we stopped caring for. It is not a kind of thing.",
-   "evidence": "In the rot jar test, the peel did not vanish. Microbes turned it into soil, water, air and more microbes. The plastic stayed exactly as it was. Neither one left the world."
+   "truth": "In the same damp soil, the peel rotted and the plastic stayed the same. Soil microbes have fed on dead plants for millions of years, so they have enzymes that fit them. Plastic is new, and almost no microbe has an enzyme for it yet. So whether a thing rots depends on the living things around it as much as on the thing itself.",
+   "habit": "We say a peel is 'biodegradable' and plastic is not, as if rotting were hidden inside the material. But rotting is something living things do when they feed. A material rots only once some living thing has the tools to eat it.",
+   "evidence": "In the rot jar test, the peel went black and soft and grew white threads of fungus, while the milk packet looked new after 14 days. Long ago, wood may have piled up as coal partly because few fungi could rot it. In 2016, a bacterium was found that feeds on bottle plastic."
   },
   "three": {
-   "who_am_i": "Your body is made of atoms that were once peels, rain, rice and air. You are made of things the world passed on to you.",
-   "what_is_life": "Life is a circle of eating and being eaten. A fungus eating a log is alive for its own sake, and it keeps the circle turning.",
-   "what_is_this_world": "A world with no away. Everything we make stays here with us, with the cows, the fish and the microbes."
+   "who_am_i": "Your food grew in soil that microbes made from old leaves and peels. So part of you was once something that rotted.",
+   "what_is_life": "Almost every living thing becomes food for others when it dies. Microbes take it apart, and new plants grow from what is left.",
+   "what_is_this_world": "A world where leaves, peels and bodies are taken apart and used again. Plastic is one of the few things it cannot yet take apart."
   },
-  "thread": "In a forest, nothing is waste. A leaf becomes a worm's lunch, the worm's droppings become soil, and the soil becomes a tree. DeepKids believes this is the One showing up as the many, and the many flowing back into one another. The same atoms take turn after turn as leaf, worm, soil and child. When we make something that nothing can eat, we step out of that circle for a while. Reducing, reusing and repairing are ways of stepping back in.",
+  "thread": "In a forest, a fallen leaf feeds fungi and worms. What is left becomes soil, and the soil feeds a tree. The same atoms take turns as leaf, worm, soil and tree. Plastic stays out of this circle for now, because almost nothing can take it apart.",
   "teachings": [
    {
     "source": "Isha Upanishad, verse 1",
     "teaching": "Everything in this changing world is filled with the one Lord. Enjoy it by letting go. Do not grab, for whose is all this wealth?",
-    "link": "Reduce means taking only what we need. Nothing we own was ever only ours: its atoms belonged to the Earth before us, and will after."
+    "link": "Reducing means taking only what we need. The atoms in everything we own were part of the Earth before us, and will be after us."
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding, 1988",
@@ -3673,11 +3674,17 @@
    "kid": "Hold one thing in both hands. Close your eyes. Breathe slowly three times. Where did it come from? Where will it go? Open your eyes and look at it again."
   },
   "ask": [
+   "If one day a microbe evolves an enzyme that fits plastic, will plastic become biodegradable?",
    "If nothing ever really goes away, what does 'throwing away' mean?",
-   "Is anything truly yours, if its atoms were here before you and will stay after you?",
-   "Does a fungus, a cow or a fish have a say in where our waste goes?",
-   "When you mend something, what changes: the thing, or you?"
+   "Does a fungus rotting a log matter for itself, or only for the soil it makes for us?",
+   "Is anything truly yours, if its atoms were here before you and will stay after you?"
   ],
   "art": "A child sitting cross-legged holding a steel tumbler in both hands, eyes closed, with a faint circle around them showing a cloud, a tree, a mine, a kabadiwala's cart, a factory and a compost pot, all joined by one flowing line."
+ },
+ "how_we_found_out": {
+  "story": "For years, shops sold plastic bags labelled 'biodegradable'. Many people believed these bags would soon rot away after they were thrown out. Imogen Napper, a young scientist at the University of Plymouth in England, decided to test the labels. With Richard Thompson, the scientist guiding her work, she took five kinds of shopping bag. One was ordinary plastic. The others were sold as biodegradable or compostable. They left pieces of each bag in three places: buried in soil, out in the open air, and under the sea. Then they checked them for three years. In the open air, sunlight crumbled every kind of bag into small pieces within a year. But in the soil and the sea, most bags were still whole. After three years, several 'biodegradable' bags could still carry a full load of shopping. The compostable bag disappeared in the sea within three months. In the soil, it was still there after more than two years, though too weak to carry shopping. Their results, published in 2019, showed that a label is a promise, not evidence. Only a test can show what really happens.",
+  "who": "Imogen Napper and Richard Thompson, University of Plymouth, England",
+  "when": "Published in 2019, after a three-year test",
+  "wrong_idea": "Bags labelled 'biodegradable' rot away soon after they are thrown out. After three years in soil and in the sea, most of them were still whole, and some could still carry shopping."
  }
 }

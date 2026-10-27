@@ -3,7 +3,7 @@
 
 **Summary.** Every person began as one cell, smaller than a grain of salt. It was made when a cell from each parent joined. That cell split into two, then four, then eight, and on and on. For about nine months the baby grew in its mother's womb, a stretchy bag of muscle. It floated in warm water and got food and oxygen from her blood, through a cord. At birth it took its first breath, and the cord left a belly button. Scientists still do not fully know how each cell knows what to become.
 
-**Intro.** *Look at your hand. Spread your fingers wide. Once, all of you, your hands, eyes, bones and brain, was one single cell. It was smaller than the full stop at the end of this sentence. Where did all the rest of you come from?* Put a grain of salt on a dark plate and look at it closely. You began even smaller than that, as one cell. A cell is the smallest living building block of a body. Now you are made of about 30 trillion cells. Every one of them came from that first cell. This unit follows the journey from one cell, through nine months in the womb, to the day you were born.
+**Intro.** *Look at your hand. Spread your fingers wide. Once, all of you, your hands, eyes, bones and brain, was one single cell. It was smaller than the full stop at the end of this sentence. Where did all the rest of you come from?* Put a grain of salt on a dark plate and look at it closely. You began even smaller than that, as one cell. A cell is the smallest living building block of a body. Now you are made of about 30 trillion cells. Every one of them came from that first cell.
 
 ## Learning outcomes
 0. I can say that every person began as one tiny cell, made when a cell from each parent joined.
@@ -41,7 +41,7 @@
 ### Everyone begins as one cell · *defined*
 **Definition:** Every person begins as one single cell. It is made when a cell from the mother and a cell from the father join together.
 
-A cell is the smallest living building block of a body. The first cell of a baby is about as wide as a hair. You could not see it without a microscope. Inside it is a mix of instructions from both parents. This is why children often look a little like both of their birth parents. That one cell holds everything needed to start building a whole person.
+A cell is the smallest living building block of a body. The first cell of a baby is about as wide as a hair. It is hard to see without a microscope. Inside it is a mix of instructions from both parents. This is why children often look a little like both of their birth parents. That one cell holds everything needed to start building a whole person.
 - e.g. You, your parents, your grandparents and your friends all began as one cell.
 - e.g. An elephant and a mouse also each began as one cell.
 - e.g. A mango tree began as one cell too, inside the flower that became the seed.
@@ -58,7 +58,7 @@ About a day after it is made, the first cell splits into two. Two become four, a
 At first, all the cells look the same. Then they begin to change. Each cell has the same instruction book, called DNA. But each one reads different pages of it. A cell that reads the 'heart' pages becomes a heart cell and starts to beat. A cell that reads the 'skin' pages becomes skin. Scientists understand a lot about this. But they are still finding out exactly how each cell knows where it is and what to become.
 - e.g. Heart cells beat by themselves, even in a dish in a laboratory.
 - e.g. Nerve cells grow long thin arms to carry messages.
-- e.g. Red blood cells are shaped like tiny flat sweets, to carry oxygen.
+- e.g. Red blood cells are flat discs, thinner in the middle. This shape helps them carry oxygen and squeeze through tiny tubes.
 ### The womb: the baby's first home · *defined*
 **Definition:** The womb is a stretchy bag of strong muscle inside the mother's tummy, below her stomach. The baby grows inside it for about nine months.
 
@@ -83,7 +83,7 @@ A growing baby is soft, and its mother walks, bends and sometimes bumps into thi
 ### Nine months of growing · *defined*
 **Definition:** A human baby usually grows in the womb for about 40 weeks, which is about nine months. Doctors split this time into three parts of about three months each.
 
-In the first three months, the body parts form. By about six weeks a tiny heart is beating. By twelve weeks the baby is about as long as your finger and has tiny fingers and toes. In the middle three months, the baby grows and moves. Fingerprints form, and the baby starts to hear sounds. In the last three months, the baby gets much bigger and fatter. Its lungs get ready to breathe air. By birth, a baby is usually about 50 centimetres long and weighs about 3 kilograms.
+In the first three months, the body parts form. By about six weeks a tiny heart is beating. By twelve weeks the baby is about as long as your finger and has tiny fingers and toes. In the middle three months, the baby grows and moves. Fingerprints form, and the baby starts to hear sounds. In the last three months, the baby gets much bigger and fatter. Its lungs get ready to breathe air. By birth, a baby is usually about 50 centimetres long and weighs about 3 kilograms. Doctors count the 40 weeks from about two weeks before the first cell is made, so the baby itself grows for about 38 weeks.
 - e.g. At 8 weeks: about the size of a raspberry.
 - e.g. At 20 weeks, halfway: about as long as a banana, from head to bottom.
 - e.g. At 40 weeks: about as heavy as a small watermelon.
@@ -168,7 +168,7 @@ We have been learning how a baby grows from one cell into a whole person. Now we
 - *what is life:* Life is passed on. Every living thing came from another living thing, as you came from your parents' cells.
 - *what is this world:* Your body was built from the rice, dal, water and air your mother took in. Those came from fields, rivers and sunlight.
 
-You began as one cell, made from a cell of each parent. That one cell became trillions of cells of many kinds: skin, bone, heart and brain. All of them were built from food your mother ate, and that food came from plants, soil, rain and sunlight. So each new person is one life that grew out of many others.
+You began as one cell, made from a cell of each parent. That one cell became trillions of cells of many kinds: skin, bone, heart and brain. All of them were built from food your mother ate, and that food came from plants, soil, rain and sunlight. So each new person is built from many other lives: the plants, the farmers who grew them, and the mother who carried the baby.
 
 - **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to split a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that tiny thing you cannot see, this huge banyan tree grows.' (You began as one cell, too small to see. Everything you are now grew out of it.)
 - **Thich Nhat Hanh, the idea of 'interbeing':** Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing exists all by itself. (A baby is built from its mother's meals. In them are the farmer's rice, the rain and the sun.)
@@ -185,7 +185,7 @@ You began as one cell, made from a cell of each parent. That one cell became tri
 - *big:* You started as one cell. Are you still the same person as that cell? (hint: Almost nothing of that first cell is left. But you grew from it without ever stopping.)
 - *deep:* Every cell in your body has the same instructions. So why is an eye cell so different from a toe cell? (hint: Think of a cookbook. Two cooks with the same book can make different dishes.)
 - *deep:* The food your mother ate became part of you. Where did that food come from before that? (hint: Follow a grain of rice back: to the plant, the soil, the rain and the sunlight.)
-- *big:* When did you start being you? When you were one cell, when your heart started, or when you were born? (hint: There is no line on the calendar. People in different families and religions answer this differently.)
+- *big:* When did you start being you? When you were one cell, when your heart started, or when you were born? (hint: Scientists cannot point to one exact moment. People in different families and religions answer this differently.)
 - *big:* Nobody has a memory of being born. So how do you know it happened to you? (hint: Think of your belly button, photos and the stories people tell you.)
 - *deep:* Why do human babies need looking after for so many years, when a calf walks in an hour? (hint: What does a human child need to learn that a calf does not?)
 - *big:* Is a family made by birth, by love, or by both? (hint: Think of adopted children, grandparents who raise children, and friends who feel like family.)
@@ -218,7 +218,7 @@ Tara did, and frowned down at her own tummy. Nani pressed one finger, very gentl
 
 "My belly button."
 
-"It is a mark," said Nani. "Before you were born, you lived inside a woman's womb. That is a stretchy bag of muscle in her tummy. You floated in warm water, curled up like a prawn. You could not eat. You could not breathe air. So she fed you. Her blood carried food and air to you, every minute of every day, for nine months. It came through a soft cord, joined to you right here. When you were born, the cord was cut. It does not hurt, because a cord has no nerves in it. This little mark is what is left. It says, somebody carried me. Somebody fed me before I had a name."
+"It is a mark," said Nani. "Before you were born, you lived inside a woman's womb. That is a stretchy bag of muscle in her tummy. You floated in warm water, curled up like a prawn. You could not eat. You could not breathe air. So she fed you. Her blood carried food and oxygen to you, every minute of every day, for nine months. It came through a soft cord, joined to you right here. When you were born, the cord was cut. It does not hurt, because a cord has no nerves in it. This little mark is what is left. It says, somebody carried me. Somebody fed me before I had a name."
 
 Tara looked at her belly button as if she had never seen it before.
 
@@ -281,7 +281,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Tara
   - Ask: Why does the GROW card say 'move forward' when the mother eats well? (good: Her food goes to the baby through the cord.; The baby needs food to grow.)
 - **s4 (4 min)**  
   *Parent does:* When a player reaches square 40, everyone takes a big breath with them. Finish the game. Count heart tokens.  
-  *Parent says:* Square 40 is birth. Before birth, the baby's lungs were full of water. Now, for the first time, air rushes in. Let's all take that first breath together.  
+  *Parent says:* Square 40 is birth. Before birth, the baby's lungs were full of fluid. Now, for the first time, air rushes in. Let's all take that first breath together.  
   *Child mode:* You reached square 40. You are born! Take a big first breath. Shout 'Hello, world!'
   - Check: Game moment: you are born on square 40. What does the baby do first? → **Breathes air for the first time**
   - Think: What do you think the very first breath felt like?
@@ -426,7 +426,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Tara
   *Child mode:* Put the strip on the floor. Mark 0 at one end. That is you as one cell.
 - **s2 (8 min)**  
   *Parent does:* Measure from 0 and mark each length. Write the week beside it: 8 weeks, 2 cm. 12 weeks, 6 cm. 20 weeks, 25 cm. 30 weeks, 40 cm. 40 weeks, 50 cm. These are lengths from head to heel, rounded.  
-  *Parent says:* At 8 weeks, a baby is about as long as a grape. Halfway, at 20 weeks, about as long as a ruler. At birth, about as long as this strip.  
+  *Parent says:* At 8 weeks, a baby is about as long as a grape. Halfway, at 20 weeks, a little shorter than a 30 centimetre ruler. At birth, about as long as this strip.  
   *Child mode:* Measure and mark each week. 8 weeks is 2 centimetres. 40 weeks is 50 centimetres. Put a fruit by each mark.
   - Note: These lengths are rounded and vary from baby to baby. They are close enough to show the pattern. Most of the growing in length happens in the middle and the last months.
 - **s3 (4 min)**  
@@ -443,7 +443,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Tara
 - **safety:** Use washable ink. Wash hands afterwards.
 - **record:** A page of family fingerprints, each labelled with the person's name and the pattern type.
 - **s1 (5 min)**  
-  *Parent does:* 1. Each person presses a thumb on the ink pad, then on paper. 2. Write their name under it.  
+  *Parent does:* 1. Each person presses a thumb on the ink pad, then on paper. No ink pad? Scribble hard with a soft pencil on paper. Rub the thumb on it. Press clear tape on the thumb, then stick the tape on white paper. 2. Write their name under it.  
   *Parent says:* Your fingerprints were made before you were born. At about four months in the womb, the skin on your fingertips folded into these lines.  
   *Child mode:* Press your thumb on the ink. Then press it on the paper. Write your name under it.
 - **s2 (5 min)**  
@@ -493,12 +493,13 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Tara
   *Child mode:* Put the bag in the bottle. Label the womb, water, baby, cord and placenta.
   - Check: In the Womb in a Bottle model, what does the string stand for? → **The umbilical cord, which carries food and oxygen**
 ### a6 · Newborn Eyes: what a baby sees (10 min)
-- **safety:** Do not cover the nose or mouth with the plastic. Hold it only in front of the eyes.
+- **safety:** Never put the bag over anyone's head. Hold it only in front of the eyes, away from the nose and mouth.
 - **record:** Draw the face as it looked near, and as it looked far.
 - **s1 (4 min)**  
-  *Parent does:* 1. Your child holds the butter paper in front of their eyes. 2. You hold your face about 25 centimetres away, about one ruler. 3. Then step back across the room.  
-  *Parent says:* A newborn baby sees blurry, a bit like through this paper. Can you see my face better close up or far away?  
-  *Child mode:* Hold the paper in front of your eyes. Look at a face close up. Then far away.
+  *Parent does:* 1. Your child holds the folded bag flat in front of their eyes. 2. You hold your face about 25 centimetres away, about one ruler. 3. Then step back across the room.  
+  *Parent says:* A newborn baby sees blurry, a bit like through this bag. Can you see my face better close up or far away?  
+  *Child mode:* Hold the bag in front of your eyes. Look at a face close up. Then far away.
+  - Note: Things close to the bag look clearer than things far away, so your face should look clearer close up. If everything looks like fog, use one layer instead of two.
 - **s2 (3 min)**  
   *Parent does:* Ask which was clearer.  
   *Parent says:* When was my face clearer, close or far?  
@@ -537,7 +538,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Tara
 - **problem:** Design a carrier that keeps a raw egg 'baby' safe and warm while you walk up and down the stairs twice.
 - **your turn:** Now design your own carrier. Draw it first. Then build it, test it on the stairs, and check the egg. What would you change?
 - **constraints:** You can only use things from home.; The carrier must be small enough to hold in one hand.; You must be able to look at the egg without taking it out.
-- **general:** Pad the egg all round with cotton or cloth, so it cannot bang the sides.; Fill a small bottle with water and float the egg inside it, like a baby in the womb.; Wrap the carrier in a cloth to keep the warmth in.
+- **general:** Pad the egg all round with cotton or cloth, so it cannot bang the sides.; Put the egg in a small wide-mouthed jar or dabba filled to the top with water, like a baby in the womb.; Wrap the carrier in a cloth to keep the warmth in.
 - **creative:** Make a bag within a bag, like the womb inside the mother's tummy.; Hang the egg in the middle of a box on stretchy rubber bands, so it bounces gently.; Use a ball of soft dough around the egg, like a thick cushion.
 - **s1 (5 min)**  
   *Parent does:* Talk about how the womb keeps a baby safe.  
@@ -618,9 +619,9 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Tara
 1. (mcq) Every cell in your body has the same DNA, the same instruction book. Why are skin cells and heart cells so different?  
    Options: Each kind of cell reads different pages of the instructions / They have different DNA / Heart cells are older / Skin cells are dead  
    **Answer:** Each kind of cell reads different pages of the instructions. *Why:* Every cell has the same instructions, but each kind uses different parts of them. Picking 'different DNA' is a very common idea. But almost every cell in your body has the same DNA.
-2. (mcq) The mother's blood and the baby's blood...  
-   Options: stay mostly apart, with a thin wall between them / mix together freely / are always the same blood group / never come near each other  
-   **Answer:** stay mostly apart, with a thin wall between them. *Why:* In the placenta, the two bloods come very close, with a thin wall between them. Food and oxygen pass through the wall. Picking 'mix freely' is common, but the bloods stay mostly apart. Babies can even have a different blood group.
+2. (mcq) What is true about the mother's blood and the baby's blood?  
+   Options: They stay mostly apart, with a thin wall between them / They mix together freely / They are always the same blood group / They never come near each other  
+   **Answer:** They stay mostly apart, with a thin wall between them. *Why:* In the placenta, the two bloods come very close, with a thin wall between them. Food and oxygen pass through the wall. Picking 'mix freely' is common, but the bloods stay mostly apart. Babies can even have a different blood group.
 3. (mcq) Why does a baby in the womb hear low sounds best?  
    Options: Low sounds travel through water and bodies better than high sounds / Babies have no ears yet / High sounds are too quiet / The baby can see the sounds  
    **Answer:** Low sounds travel through water and bodies better than high sounds. *Why:* Low sounds pass through water and the body well. High sounds get muffled. You may have found this in the Hearing Through Water test.
@@ -732,7 +733,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Tara
 12. (mcq) What do scientists still NOT fully know?  
    Options: How each cell knows exactly what to become / That babies grow in the womb / That a baby needs food  
    **Answer:** How each cell knows exactly what to become. *Why:* Scientists know a lot, but how millions of cells organise themselves into a body is still being worked out.
-13. (mcq) A baby in the womb hears which sounds best?  
+13. (mcq) Which sounds does a baby in the womb hear best?  
    Options: Low sounds, like voices and the heartbeat / High whistles / No sounds at all  
    **Answer:** Low sounds, like voices and the heartbeat. *Why:* Low sounds travel through water and the body best. You can test this with a bag of water at your ear.
 

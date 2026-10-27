@@ -45,7 +45,7 @@ Nobody skips a stage. Everybody you know is in one of them right now. The stages
 **Definition:** A baby's body is not a small adult body. It has different proportions, softer bones and it grows faster than at any other time of life.
 
 A newborn is about 50 centimetres long. By its first birthday it is about 75 centimetres. That is the fastest growing a person ever does. A baby's head is about one quarter of its whole length. In an adult, the head is only about one eighth. A baby's skull has soft spots, where the bones have not joined yet. This lets the skull grow with the brain. A baby is born with about 300 bones and soft parts that will become bone. Many of them join together as the child grows. An adult has 206 bones.
-- e.g. A baby's arms are so short it cannot touch the top of its own head.
+- e.g. A baby's legs are short compared to its body. In an adult, the legs are about half of the whole height.
 - e.g. Baby teeth are already hiding inside a baby's gums at birth.
 - e.g. A newborn's soft spot on top of the head closes by about age two.
 ### Childhood and the teenage growth spurt · *defined*
@@ -72,7 +72,7 @@ Each hair grows from a tiny pocket in the skin. In that pocket are pigment cells
 ### Why skin wrinkles · *defined*
 **Definition:** Skin wrinkles because, over many years, it gets thinner, drier and less springy.
 
-Inside your skin are stretchy threads called collagen and elastin. They work like the springs in a mattress. They make skin bounce back when you pinch it. Most elastin is made while you are young, and the body makes very little later. So many of the springy threads in an elder's skin are as old as the elder. As people get older, the body also makes less collagen. Skin makes less oil, so it gets drier. Strong sunlight over many years breaks the threads faster. So older skin folds and springs back slowly. The lines often form where we smile and frown the most.
+Inside your skin are stretchy threads called collagen and elastin. They work like the springs in a mattress. They make skin bounce back when you pinch it. Most elastin is made while you are young, and the body makes very little later. So many of the springy threads in an elder's skin were made when the elder was young. As people get older, the body also makes less collagen. Skin makes less oil, so it gets drier. Strong sunlight over many years breaks the threads faster. So older skin folds and springs back slowly. The lines often form where we smile and frown the most.
 - e.g. Skin on the back of a young child's hand snaps back fast when pinched. An elder's skin flattens slowly.
 - e.g. Farmers who work in strong sun often get wrinkles earlier.
 - e.g. The lines at the corners of a grandmother's eyes show where she has laughed most.
@@ -86,7 +86,7 @@ To see something close, a tiny muscle lets the lens in your eye get fatter and r
 ### Ears, bones, muscles and joints · *defined*
 **Definition:** As years pass, ears hear high sounds less well, bones get thinner, muscles get smaller and joints get stiffer. Using the body slows these changes down.
 
-Deep inside the ear are tiny hair cells that pick up sounds. The ones for very high sounds wear out first. So many older people hear high voices and whistles less well. Bones slowly lose some of their hard minerals, so they break more easily in a fall. Muscles get smaller if they are not used. Joints, like knees, can get stiff and sore. But here is the good news. Muscles can grow stronger at any age. In 1990, scientists in Boston gave strength exercises to people aged about 90. In eight weeks, their muscles got much stronger.
+Deep inside the ear are tiny hair cells that pick up sounds. The ones for very high sounds wear out first. So many older people hear high voices and whistles less well. Bones slowly lose some of their hard minerals, so they break more easily in a fall. Muscles get smaller if they are not used. Joints, like knees, can get stiff and sore. Muscles can grow stronger at any age. In 1990, scientists in Boston gave strength exercises to people aged about 90. In eight weeks, their muscles got much stronger.
 - e.g. A grandparent may ask you to repeat what you said, especially in a noisy room.
 - e.g. Older people often walk carefully on wet floors, because a fall can break a bone.
 - e.g. Many elders in Indian parks do yoga and walk every morning to keep strong.
@@ -106,9 +106,9 @@ Scientists estimate your body makes about 4 million new cells every second. Most
 - e.g. Scientists found how old brain cells are by measuring a kind of carbon left in the air by bomb tests in the 1950s and 1960s.
 ### Why do bodies age at all? · *debated*
 Scientists know a lot about how bodies age. They still argue about why. Here are the main ideas. Many scientists think more than one of them is true at once.
-- e.g. Most of your cells can only split to make new cells a certain number of times. In 1961, Leonard Hayflick and Paul Moorhead found human cells in a dish stopped after about 40 to 60 splits.
+- e.g. Many of your cells can only split to make new cells a certain number of times. In 1961, Leonard Hayflick and Paul Moorhead found human cells in a dish stopped after about 40 to 60 splits.
 - e.g. Elizabeth Blackburn and Carol Greider found telomerase, a substance that rebuilds the caps on the ends of genes. They shared a Nobel Prize in 2009 with Jack Szostak.
-- e.g. A mouse lives about 2 years. A human can live 80 or more. Their cells are very alike, so the timetable must be set partly by genes.
+- e.g. A mouse lives about 2 years. A human can live 80 or more. Their cells are very alike, so scientists think the timetable is set partly by genes.
 - **Wear and repair:** Every day, tiny bits of damage happen inside cells. The body repairs most of it. Over many years, a little damage builds up faster than it is fixed.
 - **The tiny caps:** Your genes are stored on long threads. Each thread has a cap at each end, like the plastic tip on a shoelace. In many cells the caps get a little shorter every time the cell splits. When they get too short, the cell stops splitting.
 - **Nature's timetable:** Some scientists, like Peter Medawar in 1952 and George Williams in 1957, argued this. Nature mostly shapes how well bodies work while they are young and can have children. So little pushes bodies to stay young for ever.
@@ -119,8 +119,8 @@ Most people die when they are very old, after a long life. A very old body becom
 - e.g. Dry leaves fall from a tree and turn into soil that feeds new plants.
 - e.g. Many Indian families remember their elders on special days, by cooking their favourite food.
 - e.g. The atoms in a body that has died go back into the soil and air, and become part of new living things.
-### Why do humans live long after having children? The grandmother idea · *debated*
-Most animals die soon after they stop having babies. Humans, and a few kinds of whales, often live for many years after. Why? Scientists argue about this.
+### Why do humans live long after they stop having babies? The grandmother idea · *debated*
+Most female animals can have babies until near the end of their lives. Women stop having babies at about 50, and then often live for 20 or 30 more years. A few kinds of whales do the same. Why? Scientists argue about this.
 - e.g. The Hadza people in Tanzania are hunters and gatherers. Grandmothers there dig up many tubers, a kind of root, to feed their grandchildren.
 - e.g. Killer whales are big dolphins. Old grandmother killer whales often lead their family to salmon, especially when food is hard to find.
 - e.g. In many Indian homes, grandparents cook, tell stories and look after children while parents work.
@@ -150,7 +150,7 @@ Some living things barely seem to age. Scientists study them to learn how ageing
 - People in India and the world live much longer now than 100 years ago. *How we know:* Birth and death records show life expectancy in India rose from about 32 years in 1951 to about 70 years today.
 
 ## How we found out
-**Alexis Carrel, a French surgeon, and Leonard Hayflick and Paul Moorhead, two American scientists, 1912 to 1961.** In 1912, the French surgeon Alexis Carrel began growing cells from a chicken embryo's heart in a glass dish. He fed them a juice made from crushed chicken embryos. He said the cells kept splitting and growing for more than 30 years, longer than a chicken lives. So most scientists came to believe that cells, kept in a dish, could live for ever. Ageing, they thought, came from the body around the cells, not from the cells. In 1961, Leonard Hayflick and Paul Moorhead in Philadelphia grew human cells. Their cells always slowed and stopped after about 40 to 60 splits. Many scientists thought they had made a mistake. So they mixed old cells from a man with young cells from a woman, in the same dish. The old male cells stopped first, while the young female cells kept splitting. So the dish was not to blame. The cells were counting their own splits. Many scientists now think fresh living cells came into Carrel's dishes with the embryo juice.  
+**Alexis Carrel, a French surgeon, and Leonard Hayflick and Paul Moorhead, two American scientists, 1912 to 1961.** In 1912, the French surgeon Alexis Carrel began growing cells from a chicken embryo's heart in a glass dish. He fed them a juice made from crushed chicken embryos. His lab said the cells kept splitting and growing for 34 years, longer than a chicken lives. So most scientists came to believe that cells, kept in a dish, could live for ever. Ageing, they thought, came from the body around the cells, not from the cells. In 1961, Leonard Hayflick and Paul Moorhead in Philadelphia grew human cells. Their cells always slowed and stopped after about 40 to 60 splits. Many scientists thought they had made a mistake. So they mixed old cells from a man with young cells from a woman, in the same dish. The old male cells stopped first, while the young female cells kept splitting. So the dish was not to blame. The cells were counting their own splits. Many scientists now think fresh living cells came into Carrel's dishes with the embryo juice.  
 *What people believed before:* Cells kept in a dish can split for ever, so ageing comes only from the body around them. Hayflick and Moorhead showed that human cells stop after about 40 to 60 splits, even in a dish.
 
 ## Challenging perspectives
@@ -186,12 +186,12 @@ We have been learning how a body changes over a whole life, from baby to elder. 
 
 A body is always being taken apart and built again. Food brings in new atoms, and old cells are broken down and carried away. Skin, blood and gut are renewed again and again, while the eye lens and most brain cells stay. When a body dies, its atoms return to the soil and air and become part of plants and other living things. So the atoms in a grandmother and in her grandchild came from the same soil, water and air, and will go back to them.
 
-- **Bhagavad Gita 2.13:** The one who lives in this body passes through childhood, youth and old age. The wise are not confused by these changes. (The body changes at every stage, but the Gita says something in us stays the same through all of them. Science shows the body really does change, cell by cell.)
+- **Bhagavad Gita 2.13:** The one who lives in the body passes through childhood, youth and old age. In the same way, it passes on to another body. The wise are not confused by this. (The Gita says the body changes at every stage, but the one living in it stays the same. Science shows the body really does change, cell by cell.)
 - **Heraclitus, the Greek thinker, as quoted in Plato's Cratylus 402a:** You cannot step into the same river twice. The water is always new, yet we still call it the same river. (Your body is like the river. Its cells are always being replaced, but we still call it you.)
 - **Ecclesiastes 3:1–2, in the Hebrew Bible:** There is a time for everything. A time to be born and a time to die. A time to plant and a time to harvest. (Every life has its stages, in order, and each stage has its own work: babies learn to walk, elders teach and remember.)
 - Science (settled): Your body makes millions of new cells every second, mostly blood cells. Yet most brain cells and the cells at the centre of your eye lens stay with you all your life.
 - Science (settled): When a body dies, its atoms are not lost. They return to the soil, water and air, and become part of other living things.
-- Other view, The Buddha, and many neuroscientists today: The Buddha taught anatta, that there is no fixed self going through the stages. There is only the changing itself, moment to moment. Many neuroscientists also think 'you' is a pattern your brain makes, which changes as the brain changes. Both are honest views worth thinking about.
+- Other view, The Buddha, and many neuroscientists today: The Buddha taught anatta, that there is no fixed self going through the stages. There is only the changing itself, moment to moment. Many neuroscientists also think 'you' is a pattern your brain makes, which changes as the brain changes.
 - Practice, Hands across time (3 min): Let's put our hands flat on the table, side by side. Look at your hand. Now look at mine. Close your eyes and breathe in slowly. Picture your hand as a tiny baby's hand, curled up. Breathe out. Now picture it as an old person's hand, with soft lines and spots. Breathe in. It is the same hand. Open your eyes. Your hand will change for the rest of your life. Will the one looking at it change too?
 - Ask: If all your cells change, what is it that stays 'you'?
 - Ask: Is the baby in your old photo you, or someone else?
@@ -199,7 +199,7 @@ A body is always being taken apart and built again. Food brings in new atoms, an
 - Ask: When an old tree falls and becomes soil for new trees, has it ended, or changed?
 
 ## Deep and big questions
-- *big:* Your grandparent was once a baby. Is the baby and the grandparent the same person? What stayed the same? (hint: Think about what changed: size, skin, hair, cells. Now think about what might not have changed.)
+- *big:* Your grandparent was once a baby. Are the baby and the grandparent the same person? What stayed the same? (hint: Think about what changed: size, skin, hair, cells. Now think about what might not have changed.)
 - *deep:* If most of your cells are replaced, why do you still remember things from when you were four? (hint: Most cells in the thinking part of your brain stay with you all your life.)
 - *big:* Would you want to live for ever? What would be good about it, and what might be hard? (hint: Think about friends, the Earth, new babies being born, and what makes days special.)
 - *deep:* Why does a mouse live about 2 years, and a human about 80? (hint: Their cells are very alike. So what might be different? Think about genes, size and danger.)
@@ -292,7 +292,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
   *Parent does:* When the cards run out, count stars. Then look at the whole mat together.  
   *Parent says:* Look at the whole line. You will move along it too. Which stage are you at now? Which stage am I at? Which is the one you are most curious about?  
   *Child mode:* Count your stars. Look at the whole line. Find where you are now. Where will you be one day?
-  - Think: Every elder on this mat was once a baby. Is a baby and an elder the same person?
+  - Think: Every elder on this mat was once a baby. Are the baby and the elder the same person?
 ### g2 · Journey to 100 (25 min)
 - **rules:** Each player puts a counter before square 1.; Roll the dice and move that many squares. Each square is one year of your life.; If you land at the bottom of a ladder, read it out and climb up.; If you land on the top of a slide, read it out and slide down.; When you land on a square ending in 0, like 10, 20 or 30, take a life card and do what it says.; Everyone who reaches 100 wins. There is no loser. The first one to arrive tells a story about their 'life'.
 - **Printable board: A 10 by 10 board with squares numbered 1 to 100, each row a decade of life:** Squares 1 to 12: the childhood row, drawn with toys and school bags; Squares 13 to 19: the teenage squares, drawn with a growing door-frame; Squares 20 to 59: the adult rows, drawn with work and family; Squares 60 to 100: the elder rows, drawn with grandchildren, walking sticks and books; Ladder from 8 to 24: You play outside every day. Strong bones for life!; Ladder from 27 to 45: You walk or cycle to work.; Ladder from 38 to 57: You keep learning new things.; Ladder from 52 to 71: You stay close to friends and family.; Ladder from 63 to 84: You do strength exercises, even at 63.; Ladder from 76 to 92: You teach your grandchildren a skill.; Slide from 33 to 14: You start smoking.; Slide from 49 to 30: You sit all day and never move.; Slide from 67 to 46: You feel lonely and stop seeing people.; Slide from 87 to 68: You trip on a slippery floor with no mat.
@@ -361,7 +361,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
   *Parent does:* 1. The person holds the card at arm's length. 2. They bring it slowly towards their face. 3. When the letters blur, they move it back a little until it is just sharp. 4. Measure from cheekbone to card. 5. Repeat 3 times for each person.  
   *Parent says:* Bring it closer, slowly. Tell me the moment the letters go fuzzy. Now move it back just until they are sharp. Hold still while I measure.  
   *Child mode:* Hold the card far away. Bring it closer slowly. Stop when the letters go fuzzy. Move it back until sharp. Measure.
-  - Note: Children often reach 7 to 10 centimetres. People over 45 without reading glasses often need 30 centimetres or more. If an elder cannot see the print sharply even at arm's length, write 'more than arm's length'. A short-sighted person without their glasses can read very close at any age. That is why they keep their glasses on.
+  - Note: Children often reach 7 to 10 centimetres. People over 45 without reading glasses often need 30 centimetres or more. If an elder cannot see the print sharply even at arm's length, write 'more than arm's length'. A short-sighted person without their glasses can read very close at any age. That is why they keep their glasses on. If nobody at home is over 40, ask a grandparent, a relative or a neighbour to be tested.
 - **s3 (3 min)**  
   *Parent does:* Look at the bars together.  
   *Parent says:* Look at the bars. What happens to the distance as people get older?  
@@ -372,7 +372,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
   *Parent says:* Now tell me three things. What do you think now? What did you see? Why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: A good answer sounds like this. What I think: older people need to hold small print further away. What I saw: I could read at 8 centimetres, but Dadaji needed 60 centimetres. Why: the lens in his eye has got stiff, so it cannot focus up close.
-### e3 · The Mosquito Sound (20 min)
+### e3 · The High Sound Test (20 min)
 - **question:** Can younger people hear higher sounds than older people?
 - **predict:** Before you start, guess. Who will hear the highest sound? Will anyone hear sounds the others cannot? Why do you think so?
 - **fair test:** To make it fair, play every sound from the same speaker, at the same quiet volume, from the same distance. Everyone sits in the same quiet room. Each person raises a hand when they hear a sound, without looking at the screen.
@@ -421,7 +421,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
 - **record:** Write or draw three of the elder's answers. Add one thing that surprised you.
 - **s1 (4 min)**  
   *Parent does:* Choose five questions together from this list. What games did you play at 8? What could your body do then that it cannot now? What can you do now that you could not do then? When did you get your first grey hair? What is the best thing about being older?  
-  *Parent says:* Elders are living libraries. They remember things nobody else does. Let's pick five questions to ask.  
+  *Parent says:* Elders remember things that nobody else in the family remembers. Let's pick five questions to ask.  
   *Child mode:* Elders remember a lot. Pick five questions to ask an elder.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* Ask the questions, one at a time. Let the elder talk. Write short notes.  
@@ -447,7 +447,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
   *Child mode:* Why do elders walk carefully? What could happen if they fell?
   - Check: In the parade, you walked carefully like an elder. Why do many elders walk carefully on wet floors? → **Their bones are thinner, so a fall can break one more easily**
   - Think: What could you change at home to make floors safer for an elder?
-### a4 · In Their Shoes: Gloves and Buttons (15 min)
+### a4 · Socks on Your Hands: Trying Tasks Like an Elder (15 min)
 - **safety:** Never walk around while wearing the smeared glasses. Sit down for every task.
 - **record:** Write which task was hardest, and one idea to make it easier for an elder.
 - **s1 (8 min)**  
@@ -745,7 +745,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
 - Handrails and ramps at railway stations and temples.
 - A height chart on the wall of a health centre or school.
 - Old family photos in black and white, showing grandparents as children.
-- Mehendi, hair oil and henna used by many elders to colour grey hair.
+- Henna (mehendi) and hair dye, which many elders use to colour grey hair.
 - An old banyan tree with hanging roots, still growing after hundreds of years.
 
 ## Open questions
@@ -813,7 +813,7 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A science museum with hands-on galleries. Check what is showing about the body and health before you go.
 
 ## Things to buy
-- [A soft measuring tape in centimetres](https://www.amazon.in/s?k=measuring+tape+tailor+cm) (tool): Used to measure the near point in the near point test, and heights for the life line. A school ruler and a piece of string also work. Used in e2, a6. Used again in Body Parts L3 and in maths units on length.
+- [A soft measuring tape in centimetres](https://www.amazon.in/s?k=measuring+tape+tailor+cm) (tool): Used to measure the near point in the near point test. A school ruler and a piece of string also work. Used in e2. Used again in Body Parts L3 and in maths units on length.
 - [Wilfrid Gordon McDonald Partridge, by Mem Fox (picture book)](https://www.amazon.in/s?k=Wilfrid+Gordon+McDonald+Partridge+Mem+Fox) (book): A gentle story of a small boy who helps a very old friend find her memories. Used in a2, p1. Read it before the Interview an Elder activity or the Then and Now Book.
 
 ## Warm-up
