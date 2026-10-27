@@ -1,12 +1,26 @@
 """Check a subtopic-level unit against app/content/units/SPEC_UNIT.md.
 Usage: python3 app/build/validate_unit.py app/content/units/sci/sci.forces.friction.L3.json [more files]
 Prints OK, or the problems. Also prints the unit's total minutes and the number of days at the class's daily minutes."""
-import json, sys, re
+import json, sys, re, os, glob
 DAY_MINS = {1: 30, 2: 35, 3: 40, 4: 45, 5: 45}
 ITEM_T = {"mcq", "fill", "match", "sort", "truefalse", "order", "write", "draw", "label", "forces", "count", "odd"}
 FLOW = ("games", "projects", "experiments", "activities", "challenges")
 
 W = []
+# lines that read as filler: say what actually happens instead (WRITING.md rule 18)
+STOCK = ("let's finish like real scientists", "let’s finish like real scientists")
+# slogans that fit any unit, so they say nothing about this one (PHILOSOPHY.md)
+GENERIC = ("no line between", "everything is connected", "we are all one", "all is one", "you are the world", "doorway, not a wall")
+SMALL = set("a an the and or but of to in on at is are was be it its this that these those as with for from by not no we you your they their our one".split())
+words = lambda t: {w for w in re.findall(r"[a-z]+", t.lower()) if w not in SMALL and len(w) > 2}
+def truths(path):
+    """the deep truths of the other units in the same folder"""
+    out = []
+    for f in glob.glob(os.path.join(os.path.dirname(path) or ".", "*.json")):
+        if os.path.abspath(f) == os.path.abspath(path): continue
+        try: out.append((os.path.basename(f), json.load(open(f))["roots"]["deep_truth"]["truth"]))
+        except Exception: pass
+    return out
 def check(path):
     e = []; P = lambda m: e.append(m)
     try: u = json.load(open(path))
@@ -16,7 +30,7 @@ def check(path):
     level = int(m.group(2)) if m else 3
     need = ["summary", "intro", "outcomes", "terms", "explanations", "agreed", "challenging", "big_questions", "story", "games", "worksheets",
             "experiments", "activities", "videos", "quiz", "applications", "spotted", "open_questions", "ask_kids", "jokes", "maths", "song",
-            "challenges", "links", "buy", "warmup", "plan", "roots"]
+            "challenges", "links", "buy", "warmup", "plan", "roots", "how_we_found_out"]
     for k in need:
         if k not in u: P(f"missing element: {k}")
     if e: return e, 0, 0
@@ -39,13 +53,28 @@ def check(path):
         fl = {x["id"]: x for k in FLOW + ("worksheets",) for x in u.get(k, [])}
         need_sp = {"explanations", "roots", "quiz"}
         if not need_sp <= set(sp): P("plan.spine must include explanations, roots and quiz")
-        if not any(i in fl and fl[i] in u.get("experiments", []) + u.get("activities", []) for i in sp): P("plan.spine needs one hands-on experiment or activity")
+        if not any(i in fl and fl[i] in u.get("experiments", []) and fl[i].get("mins", 0) >= 20 for i in sp): P("plan.spine needs one real investigation: an experiment of 20+ minutes (a demonstration or act-out does not count)")
         bad = [i for i in sp if i not in fl and i not in u]
         if bad: P(f"plan.spine has unknown ids: {bad}")
+    h = u["how_we_found_out"]
+    if not all(h.get(k) for k in ("story", "who", "when", "wrong_idea")): P("how_we_found_out needs story, who, when, wrong_idea")
+    elif not 80 <= len(h["story"].split()) <= 220: P(f"how_we_found_out story is {len(h['story'].split())} words (80-200)")
+    # WRITING.md rules 17-18: no stock openers or lines
+    if re.match(r"\s*this unit is about", u["summary"].get("text", ""), re.I): P("summary must not open 'This unit is about': lead with the puzzle (WRITING.md rule 18)")
+    for line in STOCK:
+        if line in json.dumps(u, ensure_ascii=False).lower(): P(f"stock line '{line}': say what actually happens (WRITING.md rule 18)")
     r = u["roots"]   # app/content/PHILOSOPHY.md
     for k in ("context", "deep_truth", "three", "thread", "teachings", "science", "other_view", "practice", "ask", "art"):
         if not r.get(k): P(f"roots needs {k} (see PHILOSOPHY.md)")
     if r.get("deep_truth") and not all(r["deep_truth"].get(k) for k in ("truth", "habit", "evidence")): P("roots.deep_truth needs truth, habit, evidence")
+    elif r.get("deep_truth"):  # PHILOSOPHY.md "A deep truth is an interpretation, not a slogan"
+        t = r["deep_truth"]["truth"]
+        for g in GENERIC:
+            if g in t.lower(): P(f"roots.deep_truth is generic ('{g}'): say what this unit's science shows (PHILOSOPHY.md)")
+        mine = words(t)
+        for other, ot in truths(path):
+            if len(mine & words(ot)) >= max(4, 0.5 * min(len(mine), len(words(ot)))):
+                P(f"roots.deep_truth repeats {other}: '{ot[:70]}'")
     if r.get("three") and not all(r["three"].get(k) for k in ("who_am_i", "what_is_life", "what_is_this_world")): P("roots.three needs who_am_i, what_is_life, what_is_this_world")
     if not 2 <= len(r.get("teachings", [])) <= 3 or not all(t.get("source") and t.get("teaching") and t.get("link") for t in r.get("teachings", [])): P("roots.teachings: 2-3, each with source, teaching, link")
     if not all(x.get("status") in ("settled", "idea", "debated", "open") for x in r.get("science", [])): P("roots.science status must be settled/idea/debated/open")
@@ -80,6 +109,8 @@ def check(path):
             if k == "experiments":
                 for f_ in ("question", "predict", "fair_test", "results_table"):
                     if not x.get(f_): P(f"experiment {x.get('id')}: needs {f_}")
+                if x.get("predict") and not re.search(r"\bwhy\b|because|reason", json.dumps(x["predict"]), re.I):
+                    P(f"experiment {x.get('id')}: predict must ask for the reason too ('…and why do you think so?')")
     # visuals follow the reader's need (WRITING.md "Visuals"): every hands-on flow shows how it's done
     for k in FLOW:
         for x in u.get(k, []):

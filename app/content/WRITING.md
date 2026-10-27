@@ -25,6 +25,10 @@ If either of them has to stop and work out what we meant, we have failed. Depth 
 14. **Every card carries its own context.** People scroll, skip and come back days later. Each card opens with one plain line saying what this is and why it is here: "Remember the slope test, where you lifted a board until the shoe slid? Here are some made-up results." Never rely on the card before it.
 15. **Show it, don't describe it.** If an answer is a chart, a table or a picture, the app shows the chart, the table or the picture.
 16. **No poetry where understanding is needed.** Titles, summaries and explanations say literally what happens. Not "leaning on the air" but "wings push air down, and the air pushes them up". A picture-phrase is allowed only in the story, and only after the plain idea is clear.
+17. **The child thinks first.** Before any explanation, the parent asks for a guess and a reason ("What do you think will happen? Why do you think so?"), waits for both, and lets the test answer it. The parent's `say` never gives the explanation before the child has said what they think and what they saw.
+18. **No stock lines.** A summary never opens "This unit is about…": lead with the puzzle or the surprise. Don't reuse ready-made lines such as "Let's finish like real scientists". Say what actually happens next.
+19. **Meaning comes from the science, not from morals.** A question about life grows out of what the child found ("If every creature senses a different world, which one is the real one?"), never a moral lesson stuck on ("Are you more like glass or rubber when life is hard?").
+20. **Not only measuring.** Science is the philosophy of nature, not a science of measurements. Measuring is a tool for answering a question. At most half of a unit's maths problems are reading or adding up measurements; the rest reason with the numbers: compare, predict, spot a pattern, explain an odd result.
 
 ## Parent words and child words
 

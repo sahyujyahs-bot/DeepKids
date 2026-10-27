@@ -41,6 +41,18 @@ A deep truth usually **breaks a habit of thinking**: a label we have confused wi
 
 Say deep truths literally, not poetically: the child must understand them, not just like the sound of them. Every unit's Roots starts with one deep truth that grows out of that unit's science, and names the habit it breaks. Scriptures and philosophers then come in as voices that saw the same thing, not as the proof of it.
 
+**A deep truth is an interpretation, not a slogan.** In the founder's words: deep truths must not repeat and must not be generic or random, but an actual interpretation, a perspective, of the science. Write it as what this particular science shows about how things really are, seen from first principles. Check every one against these tests:
+1. **It needs this unit's science.** Could you write the sentence without knowing what this unit teaches? Then it is generic. Rewrite it until it could only come from this unit.
+2. **It does not repeat.** No two units share a deep truth or its theme. "There is no line between you and the world" can be said once, in the unit where the science shows it most clearly. Every other unit finds what is particular to its own science. `validate_unit.py` compares each deep truth with every other unit's.
+3. **It is true, plainly.** Literally true, or clearly marked as an interpretation. Things are not given feelings ("springs long to return" is not true).
+4. **The other fields are specific too.** `habit` names the exact label or split it questions, and why. `evidence` names the finding from this unit that points to it.
+
+| Unit | Generic or wrong | An interpretation of the science |
+|---|---|---|
+| How water climbs a plant | "Thinking is older than neurons." (another unit's truth) | "A tree does not lift its own water. The sun pulls it up from the leaves, one water particle tugging the next. What looks like the plant's work is the sky working through it." |
+| Stretching springs | "Things remember their shape and long to return to it." | "A solid's shape is a balance of pulls between its atoms. Stretch a little and they pull it back. Stretch too far and they hold on to new neighbours, and the old shape is gone." |
+| Measuring forces | "Your edge is a doorway, not a wall." (a picture-phrase, and from another topic) | "A number means something only because people agreed on the unit. A newton is not found in nature. It is a promise between people, so that a push in Pune and a push in Paris can be compared." |
+
 ## How we teach it honestly
 
 We are rooted in this view. We never hide it, and we never pass it off as science. Three kinds of statement are kept apart, and the child always knows which kind they are hearing:

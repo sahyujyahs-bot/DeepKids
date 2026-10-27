@@ -21,7 +21,11 @@ You are writing one DeepKids unit for Indian homeschooling families with childre
 - `why_maths` on every maths problem; maths must grow out of something the child did in this unit.
 - `context` on every card that could be read cold.
 - `roots` with all its parts (PHILOSOPHY.md), led by a `deep_truth` that grows out of this unit's science and names the habit of thinking it breaks (see the founder's SCI Cards, `ideas/scientists.json`, field `fundamental_truth_what_it_whispers`): exact sources, one honest other view, a practice, open questions never answered for the child.
-- `plan.spine`: the default core path, about 2 sessions (Class 3: 80–90 minutes), chosen by our method, not the textbook: intro or a short notice activity, one hands-on flow, explanations, roots, quiz (SPEC_UNIT.md, "The spine").
+- `plan.spine`: the default core path, about 2 sessions (Class 3: 80–90 minutes), chosen by our method, not the textbook: intro or a short notice activity, **one real investigation** (an experiment of 20+ minutes whose result the child doesn't know beforehand; a demonstration or act-out does not count), explanations, roots, quiz (SPEC_UNIT.md, "The spine").
+- Every experiment's `predict` asks for a guess **and the reason for it**. The parent's `say` never explains before the child has said what they think and what they saw (WRITING.md rule 17).
+- `how_we_found_out`: the real discovery story, 80–200 words, with an idea people once held that turned out wrong, and how it was shown wrong.
+- No stock lines: the summary leads with the puzzle, never "This unit is about…"; no "Let's finish like real scientists" (WRITING.md rule 18). Questions about meaning come from the science, not from morals (rule 19). At most half the maths problems are just reading or adding measurements (rule 20).
+- **The deep truth is an interpretation of this unit's science, not a slogan** (PHILOSOPHY.md, "A deep truth is an interpretation"). First run `python3 app/build/deep_truths.py` and read every other unit's deep truth: yours must say something none of them says, and must be impossible to write without this unit's science.
 - Song `topic_level` is the curriculum's topic-level id (e.g. `sci.gravity.L3`).
 
 ## The bar

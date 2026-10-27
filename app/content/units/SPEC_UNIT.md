@@ -95,13 +95,15 @@ and may have `art`.
 | 24 | `links` | `[{title, url, kind, where, why}]` | `kind`: simulation, interactive, place (a museum, planetarium, park or science centre in India; `where` is the city) |
 | 25 | `buy` | `[{item, kind, why, url, used_in[], plan}]` | `kind`: tool, material, book, game. `used_in` lists the element ids that use it; `plan` says how a bought book or game joins the lesson plan |
 | 26 | `roots` | the philosophical and spiritual context: the three questions, the One becoming the many, 2–3 exact teachings, where science meets them, an honest other view, a short practice, open questions | format and rules in `app/content/PHILOSOPHY.md` |
+| – | `how_we_found_out` | `{story, who, when, wrong_idea}`: how people really found this out, 80–200 words, including an idea people once held that turned out wrong and how it was shown wrong | card; real people and dates only |
 | – | `warmup` | `[{q, a}]`: 5–10 quick questions for the cross-unit daily game series | the day starts with jokes, the song and this game |
 | – | `plan` | `{start_options[], default_order[], core[], spine[]}` | see below |
 
 ## The spine (core path) and going deeper
 A Class 3 year has about 135 hours of science and about 146 units, so the planner teaches each unit's **spine** by default and offers the rest as **Go deeper**.
 - `plan.spine` lists the part ids taught by default, in order. It fits **2 sessions** of the class's daily minutes (Class 3: about 80–90 minutes in total).
-- The spine is chosen by the DeepKids method, never by the textbook. It always holds: something to notice or do first (`intro` or a short activity), **one hands-on** experiment or activity, the key explanation (`explanations`), `roots` (with its deep truth), and a short check (`quiz`). Add the story only if it fits.
+- The spine is chosen by the DeepKids method, never by the textbook. It always holds: something to notice or do first (`intro` or a short activity), **one real investigation** (an experiment of at least 20 minutes whose result the child does not know beforehand; a demonstration or act-out does not count), the key explanation (`explanations`), `roots` (with its deep truth), and a short check (`quiz`). Add the story only if it fits.
+- Every experiment's `predict` asks for a guess and the reason for it ("…and why do you think so?"). The explanation comes after the child's claim and evidence (WRITING.md rule 17).
 - Board coverage is handled by which units are in the year, not by the spine. Everything not in the spine is still fully written and offered when the child is curious, when there is time, or as weekend projects.
 
 ## How the app runs a unit

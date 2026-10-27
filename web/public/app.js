@@ -6239,6 +6239,7 @@ const FXE = {
   terms: "🔤",
   explanations: "💡",
   agreed: "🤝",
+  how_we_found_out: "🕰️",
   challenging: "⚖️",
   big_questions: "🌌",
   roots: "🪷",
@@ -6581,6 +6582,11 @@ function fxCards(u) {
     const j = order.indexOf("big_questions");
     order.splice(j < 0 ? order.length : j + 1, 0, "roots");
   }
+  // the real discovery story comes after what scientists agree on (or after the explanations)
+  if (u.how_we_found_out && !order.includes("how_we_found_out")) {
+    const j = order.findIndex((k) => k === "agreed" || k === "explanations");
+    order.splice(j < 0 ? order.length : j + 1, 0, "how_we_found_out");
+  }
   for (const k of ["videos", "jokes", "maths", "applications", "photos", "spotted", "ask_kids", "song", "links", "buy"])
     if (!order.includes(k)) order.splice(k === "videos" ? order.length : order.length, 0, k);
   const all = {};
@@ -6681,6 +6687,15 @@ function fxCards(u) {
           u.agreed.map((a) => a.text).join(" "),
         );
         break;
+      case "how_we_found_out": {
+        const h = u.how_we_found_out;
+        add(
+          "how_we_found_out",
+          `<div class="fxtxt"><span class="fxeb">🕰️ How we found out · ${esc(h.who)} · ${esc(h.when)}</span><p>${esc(h.story)}</p><p class="fxsm"><b>What people believed before:</b> ${esc(h.wrong_idea)}</p></div>`,
+          h.story,
+        );
+        break;
+      }
       case "challenging":
         u.challenging.forEach((c, i) =>
           add(
@@ -6849,6 +6864,7 @@ const FXS = {
     "Now we go deep: from your shoe, down to atoms, out to the Moon. Some answers are agreed; some scientists still argue about.",
   ],
   agreed: ["What we know for sure", "🤝", "The things nearly every scientist agrees on, and how they know."],
+  how_we_found_out: ["How we found out", "🕰️", "Who worked this out, when, and the wrong idea people believed before."],
   challenging: [
     "Is this true?",
     "⚖️",

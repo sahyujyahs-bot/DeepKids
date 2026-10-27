@@ -60,7 +60,7 @@ data['units'] = {}
 import re, importlib.util as _iu
 _sp = _iu.spec_from_file_location('c3d', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'c3_daily.py')); _m = _iu.module_from_spec(_sp); _sp.loader.exec_module(_m); C3D = _m.X   # NCERT Class 3 chapter extras (jokes and more)
 FLOWK = ("games", "experiments", "activities", "projects", "challenges")
-PLAB = {"intro": "Before we begin", "story": "The story", "terms": "Flashcards", "explanations": "How it really works", "agreed": "What we know for sure",
+PLAB = {"intro": "Before we begin", "story": "The story", "terms": "Flashcards", "explanations": "How it really works", "agreed": "What we know for sure", "how_we_found_out": "How we found out",
         "challenging": "Is this true?", "big_questions": "Big questions", "roots": "Roots", "videos": "Watch", "quiz": "Quiz", "open_questions": "Nobody knows yet",
         "jokes": "Jokes", "maths": "Maths", "applications": "Where people use it", "photos": "Real pictures", "spotted": "Spot it around you",
         "ask_kids": "Ask during the day", "song": "Song", "links": "Try these and go see", "buy": "Things that help"}
@@ -75,6 +75,9 @@ def unit_parts(u):
     order = list(u['plan']['default_order'])
     if u.get('roots') and 'roots' not in order:
         order.insert(order.index('big_questions') + 1 if 'big_questions' in order else len(order), 'roots')
+    if u.get('how_we_found_out') and 'how_we_found_out' not in order:
+        j = next((i + 1 for i, k in enumerate(order) if k in ('agreed', 'explanations')), len(order))
+        order.insert(j, 'how_we_found_out')
     for k in ("videos", "jokes", "maths", "applications", "photos", "spotted", "ask_kids", "song", "links", "buy"):
         if k not in order: order.append(k)
     ents = {x['id']: (k, x) for k in FLOWK for x in u.get(k, [])}
