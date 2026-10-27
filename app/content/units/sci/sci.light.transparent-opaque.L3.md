@@ -1,7 +1,7 @@
-# Transparent, translucent and opaque: how much light gets through
+# Transparent, translucent and opaque: which things we can see through
 `sci.light.transparent-opaque.L3`
 
-**Summary.** A frosted bathroom window lets daylight in, yet nobody can see through it. Materials meet light in three ways. A transparent material, like window glass, lets light straight through, so you see a clear picture. A translucent material, like butter paper, lets light through but scatters it, so you see a glow but no picture. An opaque material, like a steel plate, lets no light through and makes a dark shadow. Which group a thing belongs to can change: oil makes paper clearer, crushing makes clear ice white, and a hand lets red light through.
+**Summary.** A frosted bathroom window lets daylight in, yet nobody can see through it. Materials meet light in three ways. A transparent material, like window glass, lets light straight through, so you see a clear picture. A translucent material, like butter paper, lets light through but scatters it, so you see a glow but no picture. An opaque material, like a steel plate, lets no light through and makes a dark shadow. A thing can change group. A drop of oil makes paper clearer, and crushing turns clear ice white.
 
 **Intro.** *A frosted bathroom window lets plenty of daylight into the bathroom. Yet you cannot see the tree outside through it. How can light get through when the picture does not?* Light gets through frosted glass, but the picture of the tree is lost on the way. In this unit you will test materials from your home with a torch and a card of big letters. You will sort them into three groups: transparent, translucent and opaque. By the end you will know where the picture goes, and why a few drops of oil can bring it back.
 
@@ -12,7 +12,7 @@
 3. I can choose the right material for a job, like windows, curtains, sunglasses, lanterns and food containers, and say why.
 4. I can explain that being see-through is not fixed. It depends on the thickness, the kind of light and which side is brighter.
 5. I can say what scientists agree about see-through materials, and what they still do not know, like what glass really is.
-6. I can give big examples: my glowing hand, see-through glass frogs, light that takes thousands of years to escape the Sun, and the universe that was once a fog.
+6. I can describe some surprising examples: my glowing hand, see-through glass frogs, light that takes thousands of years to leave the Sun, and the early universe that light could not cross.
 
 ## Terms
 - **Light**: Light is what lets us see. It comes from things like the Sun, a bulb or a flame, and travels out from them. *e.g.* Sunlight comes in through the window in the morning.
@@ -49,7 +49,7 @@ Look out of a clean window. The light from the tree outside comes through the gl
 ### Translucent: light gets through, but scattered · *defined*
 **Definition:** A translucent material lets light through but scatters it on the way, so you see a glow or blurry shapes but no clear picture.
 
-Inside butter paper there are millions of tiny paper threads with air between them. Each time light goes from air into a thread, or back out, some of it changes direction. After thousands of these little turns, the light comes out in every direction. The light still gets through, but the picture is lost. Here is a surprise. If the paper touches a page of writing, you can read it. Lift the paper a little and the words blur away. The light from each letter spreads out more, the further it has to travel after the paper.
+Inside butter paper there are millions of tiny paper threads with air between them. Each time light goes from air into a thread, or back out, some of it changes direction. After thousands of these little turns, the light comes out in every direction. The light still gets through, but the picture is lost. Here is a surprise. If the paper touches a page of writing, you can read it. Lift the paper a little and the words blur away. The further the light travels after leaving the paper, the more the light from each letter spreads out.
 - e.g. A frosted bathroom window lets light in but hides you.
 - e.g. A thin cotton dupatta lets light through, so a room behind it glows.
 - e.g. A paper lantern glows all over, but you cannot see the bulb inside.
@@ -77,7 +77,7 @@ Every atom has electrons, tiny parts that move around its middle. An electron ca
 ### See-through depends on the kind of light · *defined*
 **Definition:** A material can be transparent to one kind of light and opaque to another.
 
-Our eyes see only some kinds of light. There are other kinds we cannot see. Window glass lets the light we see through, but blocks much of the ultraviolet light that gives sunburn. Your hand stops most light, but lets red light through, which is why your fingers glow red over a torch. A brick wall is opaque to light, yet radio signals and Wi-Fi go through it. So 'transparent' always means transparent to some kind of light.
+Our eyes see only some kinds of light. There are other kinds we cannot see. Window glass lets the light we see through, but blocks much of the ultraviolet light that gives sunburn. Your hand stops most light, but lets red light through, which is why your fingers glow red over a torch. A brick wall is opaque to the light we see, yet radio waves and Wi-Fi signals, which are kinds of light we cannot see, go through it. So 'transparent' always means transparent to some kind of light.
 - e.g. Your fingertips glow red over a torch, because red light gets through skin and blood best.
 - e.g. A phone gets signals inside a brick house.
 - e.g. Doctors use X-rays, another invisible light, to see bones through skin.
@@ -92,7 +92,7 @@ A thin curtain lets a little light through each way. In the daytime the street i
 **Definition:** People choose transparent, translucent or opaque materials depending on whether they want to see through, to let light in privately, or to block light.
 
 Windows are transparent, so we can see out and let sunlight in. Bathroom windows are often translucent, so light comes in but nobody can see in. Thin curtains soften bright light. Thick curtains are opaque, so a baby can sleep in the afternoon. Sunglasses are tinted. They let only part of the light through, so bright sunshine is less dazzling. Good sunglasses also block ultraviolet light. Never look at the Sun, even with sunglasses. They do not make it safe.
-- e.g. Milk and medicine often come in opaque or dark bottles, because light can spoil them.
+- e.g. Milk often comes in opaque packets, and medicine in brown bottles,, because light can spoil them.
 - e.g. A paper lantern, called a kandil, makes a bulb's light soft and spread out.
 - e.g. A stone jaali lets light and air in but keeps a room private and cool.
 ### See-through animals · *defined*
@@ -103,7 +103,7 @@ Being see-through is a clever way to hide. Many jellyfish are almost all water, 
 - e.g. A glass frog's heart can sometimes be seen beating through its skin.
 - e.g. Some tiny shrimps and baby fish are almost transparent.
 ### Light that takes thousands of years to leave the Sun · *debated*
-The inside of the Sun is not transparent. It is so packed with hot particles that light cannot travel straight. A packet of light made in the Sun's middle bumps into a particle, bounces off somewhere new, bumps again, and again, millions and millions of times. So it takes a very long time to wander out to the surface. Once it is out, it reaches Earth in about eight minutes. Scientists agree on the wandering. They give different answers for how long it takes, because it is hard to work out.
+The inside of the Sun is not transparent. It is so packed with hot particles that light cannot travel straight. A packet of light made in the Sun's middle bumps into a particle, bounces off somewhere new, bumps again, and again, more times than anyone could count. So it takes a very long time to wander out to the surface. Once it is out, it reaches Earth in about eight minutes. Scientists agree on the wandering. They give different answers for how long it takes, because it is hard to work out.
 - e.g. Some of the sunlight on your face today may have started its journey in the Sun before people built the first cities.
 - e.g. A crowded railway platform is like the Sun's inside: you cannot walk straight across, you keep bumping and turning.
 - **Some scientists' estimates:** About 10,000 years or a little more.
@@ -161,23 +161,23 @@ Even the clearest glass is not perfect. At night, in a lit room, you can see a f
 ## Roots
 We have been learning how light goes straight through some things, is scattered by others, and is stopped by the rest. Now we ask what this tells us about seeing, and about the world.
 
-**Deep truth.** Butter paper lets plenty of light through, yet the word under it vanishes when you lift the paper. The light still gets through, but the paper scatters it in every direction. Light from each letter gets mixed with light from every other letter. So a clear view needs light that travels straight, not just plenty of light.  
+**Deep truth.** Butter paper lying on a word lets you read it. Lift it 2 cm, and the paper still glows, but the word is gone. The paper scatters light from each letter in every direction, so it mixes with light from the other letters. So a clear view needs the light from each spot kept apart, not just plenty of light.  
 *Habit it breaks:* We think we can see through something whenever light gets through it. A frosted bathroom window is bright, yet it shows no view, so light alone is not enough.  
 *Evidence:* In the gap test, butter paper lying on the card let you read the word. Lifted 2 cm, it still glowed with light, but the word was gone.
 
 - *who am i:* Your hand looks opaque, yet red light passes through your fingers. Even you are a little translucent.
-- *what is life:* Some animals hide by being almost transparent. A sleeping glass frog even packs its red blood into its liver.
+- *what is life:* Some animals hide by being almost transparent. A sleeping glass frog even packs most of its red blood cells into its liver while it sleeps.
 - *what is this world:* The whole universe was once like a thick fog. Then it cleared, and light could travel. We still see that first clear light today.
 
-DeepKids believes everything comes from one source. In this unit, the same light met many materials. Glass let it pass, butter paper scattered it, and a steel plate sent it back or absorbed it. The light was the same each time. Transparent, translucent and opaque are names for how light and one material meet.
+Everything comes from one source and is connected. In this unit, the same torch light met glass, butter paper and a steel plate. Glass let it pass, butter paper scattered it, and steel sent it back or absorbed it. The light did not change, and neither did the materials. Transparent, translucent and opaque name what happens when the two meet.
 
 - **Chandogya Upanishad 6.13:** A father, Uddalaka, asks his son to put salt in water overnight. In the morning the son cannot see the salt. But every sip tastes salty. The father says: in the same way, what is finest is everywhere, unseen. 'You are that.' (Sugar stirred into water becomes clear and invisible, but it is still there in every sip. Not seeing something does not mean it is not there.)
 - **Isha Upanishad 15:** The face of truth is covered by a golden lid. The seeker asks for the lid to be taken away, so the truth can be seen. (A golden lid is opaque. Gold sends light back, so it hides what is under it, however beautiful it looks. The verse asks what might be covering what is true.)
-- **The Bible, 1 Corinthians 13:12:** 'For now we see through a glass, darkly.' The Greek word Paul used means a mirror. Mirrors then were polished metal, and showed only a dim, blurry picture. Paul says what we know now is like that picture, and one day we may see clearly. (In this unit, a blurry picture came from light being scattered on its way. Paul uses that blur to say that what we know now is not yet the clear view.)
-- Science (settled): Whether a material is see-through depends on its thickness, its tiny edges and the kind of light. Nothing is see-through or blocking for every kind of light.
+- **The Bible, 1 Corinthians 13:12:** 'For now we see through a glass, darkly.' The Greek word Paul used means a mirror. Mirrors then were polished metal, and showed only a dim, blurry picture. Paul says what we know now is like that picture, and one day we may see clearly. (In this unit, a blurry picture came from light being scattered on its way. An old metal mirror blurred for a similar reason: its surface was never perfectly smooth. Paul uses that blur to say that what we know now is not yet the clear view.)
+- Science (settled): Whether a material is see-through depends on its thickness, its tiny edges and the kind of light. Glass passes the light we see but stops much ultraviolet light. A brick wall stops the light we see but lets radio waves through.
 - Science (settled): For about 380,000 years, the young universe was opaque, like fog. Then it became transparent, and that first light still reaches us.
 - Other view, The Charvaka thinkers of ancient India, and many scientists today: Transparency is just atoms and light, and nothing more. There is no one source behind it. Light passes through glass because of electrons and energy, and that is the whole story. This is an honest view, and many careful people hold it.
-- Practice, Look at, then look through (3 min): Let's stand at a window together. First, look at the glass. Can you find a speck of dust, or a smudge? Now let your eyes go through the glass, to the farthest thing you can see. Breathe slowly three times. Did you stop noticing the glass? It was there the whole time. Now hold your hand up to the light. Can you see light glowing red at the edges of your fingers?
+- Practice, Look at, then look through (3 min): Let's stand at a window together. First, look at the glass. Can you find a speck of dust, or a smudge? Now let your eyes go through the glass, to the farthest thing you can see. Breathe slowly three times. Did you stop noticing the glass? It was there the whole time. Now hold your fingers together up to the bright sky, never towards the Sun. Can you see a thin red glow between them?
 - Ask: Butter paper let the light through, but not the word. Where did the picture of the word go?
 - Ask: When you look through clean glass, are you seeing the glass, or only what is behind it?
 - Ask: Is the sugar in the water still sugar, if you can't see it?
@@ -193,7 +193,7 @@ DeepKids believes everything comes from one source. In this unit, the same light
 - *big:* Mica is a mineral that splits into thin, see-through sheets. Ground up, it makes the sparkle in some paints and make-up. Much of it is dug in Jharkhand, sometimes by children. Should we ask where our shiny things come from? (hint: Behind a shiny thing there are often hands we never see. Is it fair not to know?)
 - *big:* The universe was once a fog that light could not cross. What is still hidden from us today, like a fog? (hint: Think of dark matter, which no light shows us.)
 - *big:* A glass frog hides its blood to become see-through. If you could be see-through for a day, would you want to be? (hint: Would you feel safer, or more alone?)
-- *big:* Ammi's stitched flowers could only be seen properly with light behind them, from outside. Is there work in your home that is hard to see? (hint: Who does a quiet job that you only notice when it is not done?)
+- *big:* In the story, Meenu's mother stitched white flowers on a curtain. Nobody saw how beautiful they were until a light shone behind them at night. Is there work in your home that is hard to see? (hint: Who does a quiet job that you only notice when it is not done?)
 
 ## Story: The Flowers That Bloomed at Night
 *Lucknow's chikan embroidery on fine cotton muslin is real, and so is the way a thin curtain hides the dim side and shows the bright side. Meenu, her family and the lane are made up.*
@@ -218,7 +218,7 @@ That afternoon she tested it again. She went down into the lane, stood by the ja
 
 That evening she tried it the other way round. She put Faiz in her room with the lamp lit, and told him to dance. Then she ran down the stairs, out into the lane, and looked up.
 
-There was Faiz. Not his face, but all of him, a dark dancing shape, as clear as a puppet at a puppet show. She could see his elbows. She could see the lamp flame, bright as a seed, and the cupboard behind him. And across the whole curtain, Ammi's white flowers had turned dark. They stood out like a painted garden, every petal and every leaf, black against the glowing cloth.
+There was Faiz. Not his face, but all of him, a dark dancing shape, as clear as a puppet at a puppet show. She could see his elbows. She could see the bright lamp on the desk, and the cupboard behind him. And across the whole curtain, Ammi's white flowers had turned dark. They stood out like a painted garden, every petal and every leaf, black against the glowing cloth.
 
 Meenu stood in the lane for a long time. Ammi came out to buy coriander and found her there. "What are you staring at?"
 
@@ -367,7 +367,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   *Parent says:* Look again. Which spot changed? Why do you think the water spot went back to white?  
   *Child mode:* Score each circle again. Which one changed? Why?
   - Ask: Why did the water spot go back to white? (good: The water dried up.; Air came back into the gaps.)
-  - Note: The water spot usually goes back to white as it dries, because air fills the gaps again. The oil spot stays see-through, because oil does not dry away. Long ago, before glass was cheap, many people used oiled paper in their windows. Butter paper is pressed so its threads pack tightly with few air gaps. That is why it is more translucent than ordinary paper.
+  - Note: The water spot usually goes back to white as it dries, because air fills the gaps again. The oil spot stays see-through, because oil does not dry away. Long ago, before glass was cheap, many people used oiled paper in their windows. Butter paper is made from pulp beaten very fine and pressed hard, so its threads pack tightly with few air gaps. That is why it is more translucent than ordinary paper.
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write: what I think, what I saw, and why.  
   *Parent says:* What do you think now? What did you see that shows it? And why?  
@@ -381,14 +381,14 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 - **record:** Write the number of the smallest row you could read, each time.
 - **results table:** Place | Smallest row I can read without sunglasses | Smallest row I can read with sunglasses
 - **s1 (5 min)**  
-  *Parent does:* 1. On white paper, write six rows of letters with a dark pen. 2. Make row 1 about 3 cm tall, then 2 cm, 1 cm, 7 mm, 5 mm and 3 mm. 3. Number the rows 1 to 6.  
+  *Parent does:* 1. On white paper, write six rows of letters with a dark pen. 2. Make row 1 about 2 cm tall, then 1 cm, 7 mm, 5 mm, 3 mm and 2 mm. Use a fine pen for the small rows. 3. Number the rows 1 to 6.  
   *Parent says:* We'll make an eye chart. Each row has smaller letters. We'll see which is the smallest row you can read.  
   *Child mode:* Write six rows of letters. Make each row smaller. Number them 1 to 6.
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* 1. Go to a bright balcony, terrace or courtyard in the late morning. 2. Hold the chart where the sunlight falls on it. 3. Your child stands 3 big steps away, with their back to the Sun. 4. They read the smallest row they can, without sunglasses, then with.  
   *Parent says:* Keep your back to the Sun. Never look at it. Read me the smallest row you can. Now put on the sunglasses and try again.  
   *Child mode:* Turn your back to the Sun. Never look at it. Read the smallest row. Now try with sunglasses.
-  - Note: White paper in sunshine causes glare. Many children read one row smaller with sunglasses, but some see no difference. Both are honest results.
+  - Note: White paper in sunshine causes glare. Some children read one row smaller with sunglasses. Others see no difference outside. Both are honest results.
 - **s3 (6 min)**  
   *Parent does:* 1. Go into a dim room, with the curtains closed and one small light on. 2. Hold the chart 3 big steps away. 3. Your child reads it without sunglasses, then with.  
   *Parent says:* Now we're inside, where it's dim. Read the smallest row. Now with the sunglasses.  
@@ -410,13 +410,13 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 - **safety:** Never shine a torch into anyone's eyes. Only touch things you are allowed to carry.
 - **record:** Draw your glowing hand. Then list four things you found for each group.
 - **s1 (4 min)**  
-  *Parent does:* 1. Make a room as dark as you can. 2. Your child presses the torch glass against the tips of their fingers and switches it on. 3. Ask what they notice.  
+  *Parent does:* 1. Make a room as dark as you can. 2. Your child presses the front of the torch against the tips of their fingers and switches it on. 3. Ask what they notice.  
   *Parent says:* Look at your fingers. What do you notice? What do you wonder?  
   *Child mode:* Make the room dark. Press the torch under your fingertips. Switch it on. What do you see?
   - Ask: What do you notice? (good: My fingers glow red.; Light comes through my hand.; I can see darker lines inside.)
   - Note: The red glow is light passing through skin and blood. Red light gets through best. Don't explain much yet. Let the child wonder.
 - **s2 (9 min)**  
-  *Parent does:* 1. Put out the three labelled trays. 2. Your child collects things from around the house. 3. They hold each one up to a window or the torch. 4. They put it on the CLEAR, CLOUDY or BLOCKED tray.  
+  *Parent does:* 1. Put out the three labelled trays. 2. Your child collects things from around the house. 3. They hold each one up to a window or the torch. 4. They put it on the TRANSPARENT, TRANSLUCENT or OPAQUE tray.  
   *Parent says:* Find things around the house. Hold each one up to the light. Can you see clearly through it? Then it is transparent. Does light get through, but no clear picture? Then it is translucent. No light at all? Then it is opaque.  
   *Child mode:* Find things in the house. Hold each to the light. See clearly through it? Transparent. Light but no picture? Translucent. No light? Opaque.
   - Check: You hold a plastic carry bag up to the window. Light comes through, but the tree outside looks blurry. Which tray? → **TRANSLUCENT**
@@ -426,14 +426,14 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   *Child mode:* Look at your trays. Which thing was hardest to sort? Where does your hand go?
   - Think: Is your hand translucent or opaque? Does it depend on the light?
 ### a2 · Where Did the Sugar Go? (10 min)
-- **safety:** Use warm water from the tap, not boiling water.
+- **safety:** This is safe. Plain tap water works. The sugar needs a minute or two of stirring to dissolve.
 - **record:** Draw the sugar before, during and after stirring. Draw the tiny pieces you can't see, too.
 - **s1 (3 min)**  
   *Parent does:* 1. Put a little pile of sugar on the dark plate. 2. Look at one grain closely. 3. Then look at the whole pile.  
   *Parent says:* Look at one grain of sugar. It's almost clear, like a tiny bit of glass. So why is the pile white?  
   *Child mode:* Look at one sugar grain. It is almost clear. But the pile is white. Why?
 - **s2 (4 min)**  
-  *Parent does:* 1. Tip the sugar into the warm water. 2. Stir slowly. 3. Watch until the water is clear.  
+  *Parent does:* 1. Tip the sugar into the water. 2. Stir slowly. 3. Watch until the water is clear.  
   *Parent says:* Watch the water while you stir. What happens to the white?  
   *Child mode:* Tip the sugar in. Stir slowly. Watch the white disappear.
   - Check: Why does a pile of sugar look white, when each grain is almost clear? → **Light bounces off the edges of every grain**
@@ -509,7 +509,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 ### p1 · The Three-Light Lantern (60 min, 2 days)
 - **safety:** Use only a battery LED light inside the lantern, never a real flame or diya, because paper burns. A grown-up helps with cutting the windows.
 - **record:** Draw what each side of the lantern shows on the wall. Label it transparent, translucent or opaque with holes.
-- **schedule:** day 1: Cut a box shape from card with four windows. Cover one window with clear plastic and two with butter paper. Leave one open with a jaali pattern cut in card. (35 min); day 2: Let the glue dry. Put the LED light inside in a dark room. Compare the light from each side on the wall. (25 min)
+- **schedule:** day 1: Cut a box shape from card with four windows. Cover one window with clear plastic and two with butter paper. Cover the last one with card that has small holes in it, like a jaali. (35 min); day 2: Let the glue dry. Put the LED light inside in a dark room. Compare the light from each side on the wall. (25 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. Draw four 10 cm squares in a row on the card. 2. Add one more 10 cm square below the second square, for the bottom. 3. Cut out the shape. 4. A grown-up cuts a 6 cm window in each of the four side squares.  
   *Parent says:* This will fold into a box. Each side will get a different material, so we can compare them.  
@@ -559,7 +559,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 - **problem:** A little cousin is scared of the dark, but a bare torch is too bright and hurts their eyes. Make a shade for an LED light that lights the whole room softly, with no bright spot you can see.
 - **your turn:** Now invent your own shade. Test it from across the room in the dark. Can you see the bright point? Can you see the door?
 - **constraints:** Use only an LED tealight or a torch, never a flame.; From across the room, nobody should see the bright point of the light.; The light should still be bright enough to see the door.
-- **general:** Put a white plastic cup or a butter-paper tube over the light. It scatters the light, so the bright point disappears.; Use more than one layer if the bright point still shows.; Point the light at a white wall and let the wall glow.
+- **general:** Wrap a white plastic carry bag round the light, or stand a butter-paper tube over it. It scatters the light, so the bright point disappears.; Use more than one layer if the bright point still shows.; Point the light at a white wall and let the wall glow.
 - **creative:** Put the light inside a steel tumbler pointing up, with butter paper over the top. The tumbler sends light up and the paper spreads it.; Cut star holes in dark card wrapped around a butter-paper tube, for a night sky on the ceiling.; Stand the light behind a water-filled clear bottle with a little milk stirred in. The milk drops scatter the light into a soft glow.
 - **s1 (5 min)**  
   *Parent does:* In a dark room, put the bare LED on a shelf. Stand across the room and look.  
@@ -603,7 +603,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
    **Answer:** A shop window to show sweets → transparent; A bathroom window → translucent; A curtain for an afternoon nap → opaque; A lampshade for soft light → translucent. *Why:* We need to see through a shop window. A bathroom needs light without a view in. A nap needs darkness. A lampshade spreads light softly.
 9. (mcq) In the gap test, you lift a material off a card of big letters. The cling film could be lifted 30 cm and the tissue only 1 cm before the word blurred. Which is more see-through?  
    Options: The tissue / The cling film / We can't tell  
-   **Answer:** The cling film. *Why:* The cling film let the word stay clear much further away, so it scatters light less. Picking the tissue usually means reading the number as 'how much blur' instead of 'how far the picture survived'.
+   **Answer:** The cling film. *Why:* The cling film let the word stay clear much further away, so it scatters light less. Picking the tissue usually means reading the number as 'how much blur' instead of 'how high you could still read the word'.
 10. (mcq) In the gap test, why did we rest our chin on a stack of books?  
    Options: To keep our eyes at the same height every time / To see better in the dark / To make the letters bigger  
    **Answer:** To keep our eyes at the same height every time. *Why:* Resting the chin keeps the eyes at the same height, so only the material changes. That makes it a fair test. If our eyes moved, the results would change for a reason that has nothing to do with the material.
@@ -666,7 +666,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 2. (mcq) Window glass lets the light we see through. What does it block much of?  
    Options: Red light / Ultraviolet light from the Sun / All light at night  
    **Answer:** Ultraviolet light from the Sun. *Why:* Window glass stops much of the Sun's ultraviolet light, the kind that causes sunburn. That is why you rarely get sunburnt through a closed window.
-3. (mcq) A brick wall is opaque to light. What can still go through it?  
+3. (mcq) A brick wall is opaque to the light we see. What can still go through it?  
    Options: Nothing at all / Radio waves and Wi-Fi signals / Sunlight  
    **Answer:** Radio waves and Wi-Fi signals. *Why:* Radio waves are a kind of light we cannot see. They pass through brick. That is why your phone works indoors. So 'opaque' depends on the kind of light.
 4. (mcq) A sleeping glass frog becomes more see-through. How?  
@@ -780,7 +780,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 - **How does a glass frog keep its blood from clotting when it packs it into its liver?** In people, packed blood would clot dangerously. The frog does this every night and wakes up fine. Scientists are still studying how.
 - **When a packet of light reaches a window, what decides whether it goes through or bounces back?** Only the share can be predicted. Most physicists say each packet is pure chance. Some think hidden details might decide. Experiments have not settled what this chance really is.
 - **Exactly how long does light take to escape from the middle of the Sun?** Estimates range from about 10,000 to 170,000 years, because it depends on details of the Sun's inside that we cannot measure directly.
-- **Could we make walls, cars or even bones that are see-through, but strong?** Scientists have made see-through wood and see-through ceramics. Making them cheap and strong enough for everyday use is still being worked on.
+- **Could we make walls or cars that are see-through, but strong?** Scientists have made see-through wood and see-through ceramics. Making them cheap and strong enough for everyday use is still being worked on.
 
 ## Questions to ask kids
 - Which windows in our home are clear, and which are cloudy? Why do you think so?
@@ -822,7 +822,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 - In the gap test, the handkerchief's three tries were 4 cm, 2 cm and 3 cm. What is the middle value? **3 cm.**. Put the three numbers in order: 2, 3, 4. The middle one is 3. So the middle value is 3 cm. (queues `math.number-sense.comparing-ordering.L3`)
 - In the oil spot experiment, each spot gets a score from 0 to 3. The dry spot scored 1, the water spot scored 2, and the oil spot scored 3. After one hour, the water spot scored 1. By how much did the water spot's score drop? **By 1.**. The water spot first scored 2. After an hour it scored 1. 2 take away 1 is 1. So it dropped by 1, back to the same as the dry spot. (queues `math.addition-subtraction.mental-strategies.L3`)
 - The Three-Light Lantern has 4 side windows. One is clear plastic, two are butter paper, and one is a card jaali. What fraction of the windows are butter paper? **Two quarters, which is the same as one half.**. There are 4 windows. 2 of them are butter paper. So 2 out of 4 are butter paper. That is two quarters. Two quarters is the same as one half. (queues `math.fractions.halves-and-quarters.L3`)
-- Dark sunglasses let through about 1 out of every 5 parts of the light that hits them. If 100 parts of light hit the lenses, about how many get through? **About 20.**. 1 out of every 5 parts gets through. 100 is 20 groups of 5. One from each group is 20. So about 20 parts of light get through, and about 80 are stopped. (queues `math.division.sharing-and-grouping.L3`)
+- Dark sunglasses let through about 1 out of every 10 parts of the light that hits them. If 100 parts of light hit the lenses, about how many get through? **About 10.**. 1 out of every 10 parts gets through. 100 is 10 groups of 10. One from each group is 10. So about 10 parts of light get through, and about 90 are stopped. (queues `math.division.sharing-and-grouping.L3`)
 
 ## Song
 Follow the Light (sci.light.L3): Topic-level song

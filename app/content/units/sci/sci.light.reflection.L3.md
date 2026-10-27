@@ -162,7 +162,7 @@ We have been learning how mirrors reflect light. Now we ask what mirrors tell us
 - *what is life:* Living things use reflection too. A cat has a mirror layer at the back of its eyes that helps it see in dim light.
 - *what is this world:* Almost everything you see is reflected light. A book or a tree makes no light of its own, yet you see it.
 
-One lamp in the Sheesh Mahal shows up as hundreds of sparkles. Two mirrors turn one toy into many images. Nothing new is made: it is light from one source, sent different ways. DeepKids believes the whole world is like this: one source, showing up in many forms. A mirror is a small, real example you can hold in your hand.
+One lamp in the Sheesh Mahal shows up as hundreds of sparkles. Two mirrors turn one toy into many images. Nothing new is made: it is light from one source, sent different ways. The whole world is like this: one source, showing up in many forms. A mirror is a small, real example you can hold in your hand.
 
 - **Avatamsaka Sutra, the image of Indra's net:** Picture a huge net with a shining jewel at every knot. Each jewel reflects every other jewel, and every reflection holds all the others too, on and on. (Two facing mirrors do the same. Each mirror holds an image of the other, which holds an image of the first, again and again.)
 - **Zhuangzi, chapter 7:** The wise person uses their mind like a mirror. It does not chase things or hold on to them. It shows whatever comes, and keeps nothing. (A mirror shows whatever stands in front of it, then lets it go. It does not store the image after you walk away.)
