@@ -1,47 +1,48 @@
-# Things fall: why a feather and a hammer land together
+# Falling: why heavy and light things land together
 `sci.gravity.falling.L3`
 
-**Summary.** This unit is about falling. Gravity is the pull that makes things fall. On Earth, everything falls towards the middle of the Earth. Here is the big surprise. A heavy thing and a light thing, dropped together, land together. Only the air slows light, spread-out things like feathers and paper. People believed the opposite for about two thousand years, until Galileo asked a simple question and tested it. Then we go further out. Everything pulls everything, even you and the Moon. Einstein said nobody is really pulling at all. Heavy things bend space and time, and other things fall along the bend. Even light falls, and clocks tick slower lower down. What gravity really is, deep down, nobody knows yet.
+**Summary.** Drop a full bottle and an empty bottle together, and they land with one thud. Gravity, the force that makes things fall, pulls harder on the full bottle. But the full bottle is also harder to get moving, so both fall in the same way. Only air resistance, the push of the air, slows light, spread-out things like feathers and flat paper. People believed heavy things fall faster for about two thousand years, until careful tests showed they do not. Further out, everything with mass attracts everything else, gravity bends light and slows clocks, and nobody yet knows what gravity is deep down.
 
-**Intro.** *Hold a heavy steel spoon in one hand and a light plastic spoon in the other. Hold them at the same height. If you let go together, which will hit the floor first? Make your guess now, before you try.* In 1971, an astronaut called David Scott stood on the Moon. He held a hammer in one hand and a falcon feather in the other. A camera was filming. Millions of people on Earth were watching. He let go of both at the same moment. On Earth, the feather would float down slowly and the hammer would thud down. On the Moon, there is no air. What do you think happened?
+**Intro.** *Hold a heavy steel spoon in one hand and a light plastic spoon in the other. Hold them at the same height. If you let go together, which will hit the floor first? Make your guess, and say why, before you try.* In 1971, an astronaut called David Scott stood on the Moon. He held a hammer in one hand and a falcon feather in the other. A camera was filming. Millions of people on Earth were watching. He let go of both at the same moment. On Earth, the feather would float down slowly and the hammer would thud down. On the Moon, there is no air. What do you think happened?
 
 ## Learning outcomes
-0. I can say what gravity is: the pull that makes things fall towards the middle of the Earth. I can explain that 'down' means towards the middle of the Earth, wherever you stand.
+0. I can say what gravity is: the force that pulls things towards the middle of the Earth. I can explain that 'down' means towards the middle of the Earth, wherever you stand.
 1. I can run a fair test to show that heavy and light things fall together. This works when the air does not get in the way.
 2. I can explain that air slows light, spread-out things, and show it with flat and crumpled paper and a parachute.
 3. I can tell the story of Galileo's question. I can say who claimed heavy things fall faster, who tested it, and how we know.
-4. I can explain that everything pulls everything. I can use the space blanket to show that nobody is really pulling. I can say one way the blanket is not like real space.
+4. I can explain that everything with mass attracts everything else. I can use the space blanket as a model of Einstein's idea, and say one way it is not like real space.
 5. I can explain that things falling together feel weightless, and that astronauts float because they are falling, not because gravity has gone.
 6. I can give big examples of gravity: light bending, and clocks running slower lower down. I can say how plants and my ears know which way is down. I can say what nobody knows yet about gravity.
 
 ## Terms
-- **Gravity**: The pull that makes things fall. Everything that has mass pulls on everything else. The Earth is so big that its pull is the one we feel. *e.g.* A mango falls from the tree to the ground. Gravity pulled it down.
+- **Force**: A push or a pull. A force can start something moving, stop it, speed it up or change its direction. *e.g.* Kicking a football is a force. Gravity pulling a mango down from a tree is a force too.
+- **Gravity**: The force that attracts every thing that has mass towards every other thing. The Earth has so much mass that its gravity is the one we feel. *e.g.* A mango falls from the tree to the ground. Gravity pulled it down.
 - **Fall**: To move down towards the Earth because nothing is holding you up. *e.g.* When you let go of a ball, it falls.
 - **Down**: Towards the middle of the Earth. It is not the bottom of a page. For people on the other side of the Earth, down points the other way from ours. *e.g.* In Delhi and in Buenos Aires, a dropped ball falls towards the middle of the Earth.
-- **Mass**: How much stuff something is made of. A steel tumbler has more mass than a paper cup of the same size. *e.g.* An elephant has more mass than a cat. A brick has more mass than a sponge.
-- **Heavy and light**: Heavy things have a lot of mass, so the Earth pulls them hard. Light things have little mass, so the Earth pulls them gently. *e.g.* A full water bottle is heavy. An empty one is light.
-- **Air resistance**: The push of the air on something moving through it. It slows down things that are light and spread out. *e.g.* A flat sheet of paper floats down slowly. The same sheet, crumpled into a ball, drops fast.
+- **Mass**: The amount of matter in something, which means how much material it is made of. A steel tumbler has more mass than a paper cup of the same size. *e.g.* An elephant has more mass than a cat. A brick has more mass than a sponge.
+- **Weight**: The force of gravity on something. A thing with more mass has more weight, because the Earth pulls it harder. *e.g.* A full water bottle has more weight than an empty one. You feel the difference when you hold them.
+- **Air resistance**: The push of the air on something moving through it. It is a force, and it slows light, spread-out things the most. *e.g.* A flat sheet of paper floats down slowly. The same sheet, crumpled into a ball, drops fast.
 - **Vacuum**: A space with no air in it at all. In a vacuum there is no air resistance. *e.g.* Space between the planets is almost a vacuum. Scientists can also pump the air out of a big chamber.
 - **Speed up**: To go faster and faster. A falling thing speeds up every moment it falls. *e.g.* A ball dropped from a balcony is going much faster at the bottom than at the top.
 - **Fair test**: A test where you change only one thing and keep everything else the same. Then you know what made the difference. *e.g.* Drop two bottles from the same height, at the same moment, onto the same floor. Only the water inside is different.
 - **Parachute**: A big, light sheet that catches the air. The air pushes up on it and slows the fall. *e.g.* Soldiers and skydivers jump from planes with parachutes. A plastic bag with a toy tied under it is a small parachute.
-- **Free fall**: Falling with nothing holding you up and almost no air in the way. Things in free fall feel weightless. *e.g.* For a moment at the top of a jump, you feel light. Astronauts in the space station are in free fall all the time.
-- **Weightless**: Feeling no weight at all, because nothing is pushing up on you. Gravity can still be pulling. *e.g.* Astronauts float in the space station. Gravity still pulls them, but they are falling, so the floor does not push on them.
+- **Free fall**: Falling with only gravity acting on you: nothing holding you up and almost no air in the way. Things in free fall feel weightless. *e.g.* For a moment at the top of a jump, you feel light. Astronauts in the space station are in free fall all the time.
+- **Weightless**: Feeling no weight, because nothing is pushing up on you. Gravity is still pulling. *e.g.* Astronauts float in the space station. Gravity still pulls them, but they are falling, so the floor does not push on them.
 - **Model**: A simple thing we make or draw to help us think about something real. A model always gets some things right and some things wrong. *e.g.* A globe is a model of the Earth. A stretched dupatta with a ball on it is a model of bent space.
-- **Space-time**: Space all around us, joined with time. Einstein showed that heavy things bend it, a little like a heavy ball bends a stretched sheet. *e.g.* The Sun bends the space-time near it. The Earth moves along that bend, round and round the Sun.
-- **Orbit**: The path of something that keeps falling round another thing and keeps missing it. *e.g.* The Moon orbits the Earth. The space station orbits the Earth about 16 times a day.
-- **Lagrange point**: A special still place between two big pulling things, where the pulls balance. *e.g.* India's Aditya-L1 spacecraft watches the Sun from a Lagrange point, about 15 lakh kilometres from Earth.
-- **Escape speed**: How fast something must go to get away from a planet's pull and never fall back. *e.g.* To escape the Earth, a rocket must reach about 11 kilometres every second. Your best jump is less than 5 metres a second.
-- **Atom**: The tiny building block that everything is made of. Atoms are far too small to see. Every atom has mass, so every atom pulls on every other atom. *e.g.* You, the Earth and the Moon are all made of atoms.
+- **Space-time**: Space and time, joined together. Einstein showed that mass bends space-time, a little like a heavy ball dents a stretched cloth. *e.g.* The Sun bends the space-time near it. The Earth moves along that bend, round and round the Sun.
+- **Orbit**: The curved path of something that keeps falling round another thing and keeps missing it. *e.g.* The Moon orbits the Earth. The space station orbits the Earth about 16 times a day.
+- **Lagrange point**: A place in space where a spacecraft can stay in step with two big bodies, such as the Sun and the Earth, as they move. *e.g.* India's Aditya-L1 spacecraft watches the Sun from near a Lagrange point, about 15 lakh kilometres from Earth.
+- **Escape speed**: How fast something must go to get away from a planet's pull and never fall back. *e.g.* To escape the Earth, a rocket must reach about 11 kilometres every second. Your best jump leaves the ground at only 2 or 3 metres a second.
+- **Atom**: The tiny building block that everything is made of. Atoms are far too small to see. Every atom has mass, so every atom attracts every other atom. *e.g.* You, the Earth and the Moon are all made of atoms.
 - **Energy**: What it takes to make something move, warm up or change. Energy never disappears. It only changes from one kind into another. *e.g.* A stone held up high has stored height energy. As it falls, that energy turns into movement.
-- **Light**: What our eyes see. Light is made of tiny bits of energy called photons. Gravity bends its path too. *e.g.* Light from far stars bends a tiny bit as it passes close to the Sun.
-- **Graviton**: A tiny bit of gravity that some scientists think might exist. Nobody has ever found one. *e.g.* Light comes in tiny bits called photons. Maybe gravity comes in tiny bits called gravitons. We don't know yet.
+- **Light**: What our eyes see. Light is made of tiny packets of energy called photons. Gravity bends its path too. *e.g.* Light from far stars bends a tiny bit as it passes close to the Sun.
+- **Graviton**: A tiny particle of gravity that some scientists think might exist. Nobody has ever found one. *e.g.* Light comes in tiny packets called photons. Maybe gravity comes in tiny packets called gravitons. We don't know yet.
 
 ## Explanations
 ### What gravity is · *defined*
-**Definition:** Gravity is a pull between things that have mass. On Earth, it pulls everything towards the middle of the Earth.
+**Definition:** Gravity is the force that attracts things with mass towards each other. On Earth, it pulls everything towards the middle of the Earth.
 
-Let go of anything, and it falls. A mango, a pencil, a raindrop, you after a jump. Nothing has to touch it. The pull reaches across the air, and even across empty space. Gravity never switches off. It pulls on you while you sleep, while you swim and while you fly in a plane. You only notice it when something is not holding you up. How hard gravity pulls on you is called your weight. The unit on Weight and mass explores that.
+Let go of anything, and it falls: a mango, a pencil, a raindrop, or you after a jump. Nothing has to touch it. Gravity acts across the air, and even across empty space. It never switches off. It pulls on you while you sleep, while you swim and while you fly in a plane. You only notice it when nothing is holding you up. The force of gravity on you is called your weight. The unit on Weight and mass explores that.
 - e.g. A ball you throw up always comes back down.
 - e.g. Water in a river flows downhill, towards the sea.
 - e.g. Rain falls from clouds to the ground.
@@ -54,15 +55,15 @@ The Earth is a huge ball. People live all over it, on every side. A child in Arg
 ### Heavy and light fall together · *defined*
 **Definition:** If there is no air in the way, all things fall in the same way. Heavy and light things, dropped together from the same height, land together.
 
-This is the great surprise of falling. Most people guess that a heavy thing falls faster. Try it with a full bottle and an empty bottle. They land together. Here is why. The Earth pulls the heavy bottle harder. But a heavy thing is also harder to get moving. Think of pushing a full trolley and an empty trolley. The two effects balance exactly. So every thing speeds up in just the same way as it falls. Only the air spoils this, for things that are very light and spread out.
+This is the great surprise of falling. Most people guess that a heavy thing falls faster. Try it with a full bottle and an empty bottle, and they land together. Here is why. The Earth pulls the full bottle harder, because it has more mass. But more mass also makes a thing harder to get moving. Think of pushing a full trolley and an empty trolley. The two effects grow together and cancel exactly. So everything speeds up in the same way as it falls. Only the air spoils this, for things that are very light and spread out.
 - e.g. A full and an empty water bottle, dropped together, hit the floor together.
 - e.g. A cricket ball and a tennis ball, dropped together from a balcony, land together.
 - e.g. On the Moon, with no air, a hammer and a feather land together.
 ### Air slows some falling things · *defined*
 **Definition:** Air resistance is the push of the air on something moving through it. It slows light, spread-out things much more than heavy, compact things.
 
-Air is made of tiny bits, far too small to see. A falling thing has to push them out of the way. They push back. That push is air resistance. A heavy, small thing, like a stone, hardly notices it. A light, spread-out thing, like a feather or a flat sheet of paper, is slowed a lot. Crumple the paper into a ball and it falls fast, though it is the same paper. As a thing falls faster, the air pushes harder. In the end the push of the air can balance the pull of gravity. Then the thing stops speeding up. It falls at a steady speed. Scientists call this its terminal speed.
-- e.g. A big raindrop falls at about 30 kilometres an hour, about as fast as a bicycle going downhill. Without air it would hit like a pebble.
+Air is made of tiny particles, far too small to see. A falling thing has to push them out of the way, and they push back. That push is air resistance. A heavy, compact thing, like a stone, is hardly slowed by it. A light, spread-out thing, like a feather or a flat sheet of paper, is slowed a lot. Crumple the paper into a ball and it falls fast, though it is the same paper. The faster a thing falls, the harder the air pushes. In the end, the push of the air can become as big as the pull of gravity. Then the thing stops speeding up and falls at a steady speed. Scientists call this its terminal speed.
+- e.g. A big raindrop falls at about 30 kilometres an hour, about as fast as a bicycle going downhill. Without air, a drop from a high cloud would hit the ground far harder.
 - e.g. Seeds of the semal tree, the silk-cotton tree, float on fluff and can drift far.
 - e.g. A skydiver falls at about 200 kilometres an hour, until the parachute opens and slows her to a gentle drift.
 ### Who first found that heavy and light fall together? · *debated*
@@ -76,97 +77,101 @@ Everyone now agrees on the answer. But who should get the credit? Many people fo
 ### Galileo's tied-together stones · *defined*
 **Definition:** A thought experiment is an experiment you do only in your mind, by careful reasoning. Galileo used one to show that heavy and light things must fall together.
 
-Galileo showed Aristotle was wrong without dropping anything at all. Imagine a heavy stone and a light stone. Aristotle says the heavy one falls fast and the light one falls slowly. Now tie them together with a string. The slow light stone should hold the heavy one back. So the pair should fall slower than the heavy stone alone. But the pair is heavier than the heavy stone alone. So, by Aristotle's rule, it should fall faster. It cannot be both slower and faster. So the rule must be wrong. Galileo wrote this in a book in 1638. An experiment you do only in your head is called a thought experiment.
+Galileo showed Aristotle was wrong without dropping anything at all. Imagine a heavy stone and a light stone. Aristotle says the heavy one falls fast and the light one falls slowly. Now tie them together with a string. The slow light stone should hold the heavy one back. So the pair should fall slower than the heavy stone alone. But the pair is heavier than the heavy stone alone. So, by Aristotle's rule, it should fall faster. It cannot be both slower and faster. So the rule must be wrong. Galileo wrote this in a book in 1638.
 - e.g. Tie a heavy stone and a light stone together. Do they fall faster, slower, or the same?
 - e.g. Einstein also loved thought experiments. He imagined riding on a beam of light.
 ### Falling things speed up · *defined*
 **Definition:** A falling thing speeds up as it falls. Without air, it gains about 10 metres a second of speed every second.
 
-A dropped ball does not fall at one steady speed. Every second, it goes faster. After 1 second, it falls about 5 metres and is moving fast. After 2 seconds, it has fallen about 20 metres. After 3 seconds, about 45 metres. Galileo found this pattern. Falling was too fast to measure, so he slowed it down. He rolled balls down a long, gentle ramp. He timed them with a water clock, by weighing the water that ran out. The distances went up as 1, 4, 9, 16, the square numbers. Where does the speed come from? Height. A thing held up high has stored energy. As it falls, the height energy turns into movement energy.
+A dropped ball does not fall at one steady speed. Every second, it goes faster. After 1 second, it has fallen about 5 metres. After 2 seconds, about 20 metres. After 3 seconds, about 45 metres. Galileo found this pattern. Falling was too fast to measure, so he slowed it down. He rolled balls down a long, gentle ramp. He timed them with a water clock, by weighing the water that ran out. The distances from the start went up as 1, 4, 9, 16, the square numbers. The speed comes from height. A thing held up high has stored energy. As it falls, that stored energy turns into movement energy.
 - e.g. Drop a ball from a step, then from a balcony. It hits much harder from higher up.
 - e.g. Water falling over a high waterfall, like Jog Falls in Karnataka, hits the pool below with a roar.
 ### Everything pulls everything · *defined*
-**Definition:** Every thing that has mass pulls on every other thing that has mass. Bigger masses pull harder, and the pull gets weaker with distance.
+**Definition:** Every thing that has mass attracts every other thing that has mass. Bigger masses attract more strongly, and the force gets weaker with distance.
 
-The Earth pulls you. But you also pull the Earth, just as hard. When you jump, the Earth moves up towards you a tiny bit. It is far too little to notice, because the Earth has so much more mass than you. You pull the Moon. Your pencil pulls your eraser. Every atom in the universe pulls on every other atom. Bigger things pull harder. Things further away pull less. Isaac Newton wrote this law in a book in 1687. He showed that the pull that drops an apple is the same pull that holds the Moon in the sky. In 1798, Henry Cavendish measured the tiny pull between big lead balls in a shed in London. Gravity is very weak. A small fridge magnet can lift a paper clip, against the pull of the whole Earth.
+The Earth pulls you, and you pull the Earth just as hard. When you jump, the Earth moves up towards you a tiny bit. It is far too little to notice, because the Earth has so much more mass than you. You also attract the Moon, and your pencil attracts your eraser. Every atom in the universe attracts every other atom. Isaac Newton wrote this law in a book in 1687. He showed that the force that drops an apple is the same force that keeps the Moon going round the Earth. In 1798, Henry Cavendish measured the tiny force between big lead balls and small ones, in a building at his home in London. Gravity is a very weak force. A small fridge magnet can lift a paper clip against the gravity of the whole Earth.
 - e.g. The Moon pulls on the sea and makes the tides.
 - e.g. Two people sitting next to each other pull on each other, but far too weakly to feel.
 - e.g. A fridge magnet holds up a paper clip, beating the gravity of the whole Earth.
 ### Gurutva: old Indian ideas about falling · *debated*
 Long before Newton, thinkers in India asked why things fall. Their words still live in our languages. Guru means heavy in Sanskrit. A guru is a teacher with 'weight'. Gurutva means heaviness. Gurutvakarshan, the attraction of heaviness, is the Hindi word for gravity today. How much did these thinkers really know? Historians argue about it.
 - e.g. Gurutvakarshan is the Hindi word for gravity.
-- e.g. The English words gravity and grave come from the Latin gravis, which also means heavy.
+- e.g. The English word gravity comes from the Latin gravis, which means heavy. So does grave, when it means serious.
 - **Kanada, a thinker of the Vaisheshika school, more than 2,000 years ago:** Things fall because they have gurutva, heaviness, when nothing holds them up.
 - **Brahmagupta, an astronomer, in 628 CE:** Bodies fall towards the Earth because it is the Earth's nature to attract them. In the same way, it is water's nature to flow.
 - **Bhaskara II, an astronomer, in the 1100s:** The Earth has a power of attraction, and pulls heavy things to itself.
 - **Most historians today:** These thinkers clearly said the Earth attracts things. But they did not say how strong the pull is, or show that the same pull holds the Moon. That was Newton's step. Some modern claims go further than the old books say.
-### Nobody is really pulling: the space-time blanket · *defined*
-**Definition:** Einstein's idea, called general relativity: mass and energy bend space and time together. Things move along the bends, and that is what we feel as falling.
+### Einstein's picture: mass bends space and time · *defined*
+**Definition:** General relativity is Einstein's theory of gravity. Mass and energy bend space and time together, and a falling thing moves along the straightest path it can through that bent space-time.
 
-Pull a friend in a tug of war. Your arms get tired. You use up energy. The Earth has held the Moon for more than four billion years. It is not tired. It uses up no energy at all. So gravity is not like a pull with arms. In 1915, Albert Einstein gave a new picture. Space and time are joined together, like one big blanket. Scientists call it space-time. Heavy things bend it, like a heavy ball bends a stretched dupatta. Other things simply move along the bend. That is falling. Nobody is pulling. Things just follow the shape of space-time. The blanket is only a model. Real space is not flat like a sheet. It bends in every direction at once, towards the middle of the Earth. And the dupatta only dents because the Earth's gravity pulls the ball down. So the model uses gravity to explain gravity.
+Newton described gravity as a force: the Earth pulls the Moon, and the Moon pulls the Earth. In 1915, Albert Einstein gave a different picture, called general relativity. Space and time are joined together, and scientists call them space-time. Mass bends space-time. In Einstein's picture, a falling thing is not being pushed or pulled at all. It moves along the straightest path it can, through bent space-time. That would explain why everything falls in the same way, heavy or light: the path belongs to the place, not to the thing. A heavy ball on a stretched cloth is a model of this. Like every model, it is wrong in places. The ball only dents the cloth because the Earth's gravity pulls it down, so the model uses gravity to explain gravity. And real space-time bends in every direction at once, not just downwards like a cloth.
 - e.g. Put a heavy ball on a stretched dupatta. A marble rolled past it curves in towards the dent.
 - e.g. The Earth goes round the Sun along the bend the Sun makes in space-time.
-- **Isaac Newton, 1687:** Gravity is a pull between masses. His law works so well that engineers still use it to send spacecraft to the Moon and Mars.
-- **Albert Einstein, 1915:** Gravity is the bending of space and time. This explains things Newton's law cannot, like light bending and clocks slowing near heavy things.
+- **Isaac Newton, 1687:** Gravity is a force that attracts masses towards each other. His law works so well that engineers still use it to send spacecraft to the Moon and Mars.
+- **Albert Einstein, 1915:** Gravity is the bending of space and time. This explains things Newton's law cannot, like the exact bending of light and clocks slowing near heavy things. For everyday falling, both give the same answers.
 ### Falling together feels like floating · *defined*
 **Definition:** Things that fall together do not push on each other. So anything in free fall feels weightless, even though gravity is still pulling it.
 
-Fill a bottle with water and make small holes near the bottom. Water squirts out. Now drop the bottle. While it falls, the squirting stops. The water and the bottle are falling together, so the water no longer presses on the holes. In 1907, Einstein imagined a person falling off a roof. While falling, he would feel no weight at all. Einstein called this the happiest thought of his life. Astronauts in the space station feel this all the time. Gravity up there is still about 9 tenths as strong as on the ground. But the station and the astronauts are falling round the Earth together. So nothing pushes on their feet, and they float. The unit on Weight and mass goes deeper into this, with the falling bottle.
+Ask a grown-up to make small holes near the bottom of a plastic bottle, and fill it with water. Water squirts out. Now drop the bottle. While it falls, the squirting stops. The water and the bottle are falling together, so the water no longer presses on the holes. In 1907, Einstein imagined a person falling off a roof. While falling, he would feel no weight at all. Einstein called this the happiest thought of his life. Astronauts in the space station feel this all the time. Gravity up there is still about 9 tenths as strong as on the ground. But the station and the astronauts are falling round the Earth together. So nothing pushes on their feet, and they float. The unit on Weight and mass goes deeper into this, with the falling bottle.
 - e.g. Water stops squirting from a falling bottle.
 - e.g. Your tummy feels funny on a swing or a giant wheel as it starts to drop.
 - e.g. Astronauts float in the space station, about 400 kilometres up, though gravity is still strong there.
 ### Can you jump into space? Escape speed · *defined*
 **Definition:** Escape speed is how fast something must start out to get away from a planet's pull for ever. For the Earth, it is about 11 kilometres a second.
 
-Jump as high as you can. You go up, slow down, stop and fall back. Jump faster, and you go higher before falling back. Could you ever jump so fast that you never come back? Yes, in theory. You would need to leave the ground at about 11 kilometres every second. That is far faster than a bullet. Scientists call it the escape speed. A good jump starts at only about 3 metres a second. Rockets reach escape speed by burning fuel for many minutes. A small world has a small escape speed. On the Moon it is about 2.4 kilometres a second. A black hole is so heavy and so squeezed that its escape speed is faster than light. So even light cannot get out.
+Jump as high as you can. You go up, slow down, stop and fall back. Jump faster, and you go higher before falling back. Could you ever jump so fast that you never come back? Yes, in theory. You would need to leave the ground at about 11 kilometres every second. That is far faster than a bullet. Scientists call it the escape speed. A child's good jump leaves the ground at only 2 or 3 metres a second. Rockets reach escape speed by burning fuel for many minutes. A small world has a small escape speed. On the Moon it is about 2.4 kilometres a second. A black hole has so much mass squeezed into so small a space that, close to it, the escape speed is faster than light. So even light cannot get out.
 - e.g. India's Chandrayaan and Mangalyaan spacecraft had to be pushed fast enough to escape the Earth's pull.
 - e.g. On a tiny asteroid, a hard jump could send you off into space.
-### Still points: Lagrange points · *defined*
-**Definition:** A Lagrange point is a special place near two big bodies, like the Sun and the Earth. There, their pulls balance, so a spacecraft can stay in step with them.
+### Places that stay in step: Lagrange points · *defined*
+**Definition:** A Lagrange point is a place near two big bodies, like the Sun and the Earth, where a spacecraft can stay in step with them as they move.
 
-Imagine two friends pulling you, one from each side, just as hard as each other. You stay still. If one pulls harder, the still place moves closer to the weaker friend. In space, the Sun and the Earth both pull. Between them is a special place where the pulls balance in just the right way. A spacecraft there stays lined up with the Earth as both go round the Sun. It is called a Lagrange point, after the mathematician Joseph-Louis Lagrange, who studied these points in 1772. Leonhard Euler had found some of them a few years before him. India's Aditya-L1 was launched in September 2023 to watch the Sun from the first Lagrange point. It is about 15 lakh kilometres from Earth. The James Webb Space Telescope sits at another one, on the far side of the Earth.
+Things closer to the Sun than the Earth normally go round the Sun faster than the Earth does. But about 15 lakh kilometres from the Earth, towards the Sun, there is a special place. There, the Earth's gravity pulls back on a spacecraft by just the right amount. The spacecraft goes round the Sun in exactly one year, the same as the Earth. So it stays between the Earth and the Sun all the time. This place is called the first Lagrange point. The Sun and the Earth have five such points. They are named after the mathematician Joseph-Louis Lagrange, who described them in 1772. Leonhard Euler had found three of them a few years earlier. India's Aditya-L1 was launched in September 2023 to watch the Sun from near the first Lagrange point. The James Webb Space Telescope works near the second one, on the far side of the Earth from the Sun. Spacecraft there still need small pushes from their engines now and then to stay in place.
 - e.g. Aditya-L1, India's Sun-watching spacecraft, sits near the first Lagrange point.
-- e.g. The James Webb Space Telescope works from the second Lagrange point.
+- e.g. The James Webb Space Telescope works near the second Lagrange point.
 ### Light falls too · *defined*
 **Definition:** Gravity bends the path of light. Heavy things like the Sun and galaxies bend the light passing near them.
 
-Light has no mass at all. You might think gravity cannot touch it. But Einstein said light follows the bends in space-time too. So starlight passing close to the Sun should bend a little. In 1919, there was a total eclipse of the Sun. Astronomers led by Arthur Eddington and Frank Dyson photographed stars near the dark Sun. The stars seemed shifted, by about the amount Einstein predicted. Today, telescopes see whole galaxies bending the light of galaxies behind them. The far galaxies look stretched into arcs and rings. This is called gravitational lensing. The Indian-born astronomer Priyamvada Natarajan uses it to map dark matter, invisible stuff we know only by its pull.
+Light has no mass at all. You might think gravity cannot touch it. But Einstein said light follows the bends in space-time too. So starlight passing close to the Sun should bend a little. In 1919, there was a total eclipse of the Sun. Astronomers led by Arthur Eddington and Frank Dyson photographed stars near the dark Sun. The stars seemed shifted, by about the amount Einstein predicted. Today, telescopes see whole galaxies bending the light of galaxies behind them. The far galaxies look stretched into arcs and rings. This is called gravitational lensing. The Indian-born astronomer Priyamvada Natarajan uses it to map dark matter, invisible matter we know only by its gravity.
 - e.g. Starlight bends near the Sun, as photographed in 1919.
 - e.g. Giant galaxies bend light like a lens, making rings and arcs in telescope pictures.
 ### Clocks tick slower lower down · *defined*
 **Definition:** Time runs slower closer to a big mass. Scientists call this gravitational time dilation.
 
-This is one of the strangest facts in science. Time itself runs a little slower closer to a heavy thing. A clock on the ground floor ticks very slightly slower than a clock on the roof. The difference is far too small to feel. Over a whole lifetime, it adds up to much less than a second. But today's best clocks can measure it. In 2010, scientists in the USA lifted one very precise clock just 33 centimetres higher than another. The higher clock ran faster, by exactly the tiny amount Einstein's idea predicts. GPS satellites, which help maps on phones, fly very high. Their clocks run fast compared with ours. Engineers must correct them every day, or phone maps would be wrong by kilometres.
-- e.g. GPS satellite clocks are corrected for gravity every day.
+This is one of the strangest facts in science. Time itself runs a little slower closer to a big mass. A clock on the ground floor ticks very slightly slower than a clock on the roof. The difference is far too small to feel. Over a whole lifetime, it adds up to much less than a second. But today's best clocks can measure it. In 2010, scientists in the USA lifted one very precise clock just 33 centimetres higher than another. The higher clock ran faster, by the tiny amount Einstein's theory predicts. GPS satellites, which help maps on phones, fly about 20,000 kilometres up. Their clocks run fast compared with clocks on the ground. Engineers allow for this, or phone maps would drift off by kilometres every day.
+- e.g. GPS satellite clocks are set to allow for the effect of gravity on time.
 - e.g. Someone living on a mountain ages a tiny bit faster than someone by the sea. Over a lifetime, it is far less than a second.
 ### How living things know which way is down · *debated*
-Living things feel gravity all the time. Inside your ears are tiny stones, made of the same stuff as chalk. They rest on tiny hairs. When you tip your head, the stones roll and bend the hairs, and your brain knows which way is down. Plants feel gravity too. A seed planted upside down still sends its root down and its shoot up. Charles Darwin and his son Francis studied this in 1880. How plants sense down is still being studied. The unit on Weight and mass has a project where you watch a root find down.
+Living things feel gravity all the time. Inside your ears are tiny stones, made of the same material as chalk. They rest on tiny hairs. When you tip your head, the stones slide and bend the hairs, and your brain knows which way is down. Plants feel gravity too. A seed planted upside down still sends its root down and its shoot up. Charles Darwin and his son Francis studied this in 1880. How plants sense down is still being studied. The unit on Weight and mass has a project where you watch a root find down.
 - e.g. Tilt your head and you know at once that you tilted. Your ear stones told you.
 - e.g. A potted plant tipped on its side bends its shoot back up within a day or two.
 - e.g. A falling cat twists round to land on its feet.
 - **The starch-grain idea, most plant scientists:** Root tip cells contain heavy grains of starch. They sink to the lowest side of each cell, like sand in a bottle. The plant feels where they settle and grows that way.
 - **Other plant scientists:** Some plants with almost no starch grains still find down. So maybe the whole cell feels the weight of its own insides pressing down. Both ways may work together.
 ### What is gravity, deep down? Gravitons and the big unknown · *idea*
-Scientists know how gravity behaves very, very well. They can land spacecraft on the Moon with it. But they do not know what gravity is, deep down. The other forces, like electricity and magnetism, come in tiny bits. Light comes in tiny bits called photons. So maybe gravity comes in tiny bits too. Scientists call them gravitons. Nobody has ever found one. They may be far too weak to catch. Einstein's bent space-time works beautifully for planets and stars. Quantum physics, the science of the very tiniest things, works beautifully for atoms. But the two do not fit together. Inside a black hole, and at the very start of the universe, both are needed. That is one of the biggest puzzles in science.
+Scientists know how gravity behaves very, very well. They can land spacecraft on the Moon with it. But they do not know what gravity is, deep down. The force of electricity and magnetism is carried by tiny particles called photons, the particles of light. So maybe gravity is carried by tiny particles too. Scientists call them gravitons. Nobody has ever found one. They may be far too weak to catch. Einstein's bent space-time works beautifully for planets and stars. Quantum physics, the science of the very tiniest things, works beautifully for atoms. But the two do not fit together. Inside a black hole, and at the very start of the universe, both are needed. That is one of the biggest puzzles in science.
 - e.g. In 2015, the LIGO detectors in the USA caught ripples in space-time from two black holes crashing together. These gravitational waves were a ripple of the whole blanket, not single gravitons.
 - e.g. Some physicists think gravity is not a basic force at all. It might come out of something deeper, the way warmth comes out of jiggling atoms.
-- **Many physicists:** Gravity, like the other forces, comes in tiny bits called gravitons. Nobody knows how to catch one.
+- **Many physicists:** Gravity, like the other forces, is carried by tiny particles called gravitons. Nobody knows how to catch one.
 - **Some other physicists:** Space and time themselves may be made of something smaller. Gravity might grow out of that. These ideas have not been tested yet.
 
 ## Mostly agreed
 - On Earth, everything falls towards the middle of the Earth. *How we know:* A plumb line, a weight on a string, hangs straight down everywhere on Earth. In the 1800s, the Great Trigonometrical Survey measured plumb lines all across India. They pointed towards the middle of the Earth, with tiny tugs sideways towards the heavy Himalayas.
 - Without air, heavy and light things fall in exactly the same way. *How we know:* In 1971, astronaut David Scott dropped a hammer and a feather on the Moon, and they landed together. In 2014, a BBC team dropped a bowling ball and feathers in NASA's huge vacuum chamber in Ohio. They landed together. A French satellite called MICROSCOPE tested this in space from 2016 to 2018. Two metal cylinders fell the same way to about 1 part in a million billion.
 - Falling things speed up, and air slows light, spread-out things. *How we know:* Galileo measured the speeding up with balls on ramps. You can see air resistance yourself: a flat sheet of paper falls slowly, but the same sheet crumpled falls fast.
-- Everything with mass pulls on everything else. *How we know:* In 1798, Henry Cavendish measured the pull between big lead balls and small ones in his shed in London. Scientists still repeat this experiment today.
+- Everything with mass pulls on everything else. *How we know:* In 1798, Henry Cavendish measured the pull between big lead balls and small ones in a building at his home in London. Scientists still repeat this experiment today.
 - Gravity bends light and slows clocks. *How we know:* Starlight was seen bending near the Sun during the 1919 eclipse. Very precise clocks run slower when they are lower down, and GPS satellites must be corrected for it every day.
 - Astronauts float because they are falling, not because there is no gravity. *How we know:* The space station is about 400 kilometres up. Gravity there is still about 9 tenths as strong as on the ground. Scientists work this out from Newton's law, and the station's orbit matches it exactly.
+
+## How we found out
+**Aristotle (the old idea), John Philoponus, Simon Stevin with Jan Cornets de Groot, Galileo Galilei, and the astronaut David Scott, The 300s BCE (Aristotle), the 500s CE (Philoponus), 1586 (Stevin), 1638 (Galileo's book) and 1971 (the Moon drop).** For about two thousand years, most people believed what the Greek thinker Aristotle taught: a heavy thing falls faster than a light one, in proportion to its weight. It seemed obvious, because a stone does beat a leaf. About 1,500 years ago, John Philoponus, a scholar in Alexandria, dropped two weights from the same height, one many times heavier than the other. He wrote that the difference in time was very small. Few people took notice. In 1586, Simon Stevin and Jan Cornets de Groot dropped two lead balls, one ten times heavier, from a church tower in Delft, about 10 metres up. The two thuds on a board below sounded as one. Then Galileo Galilei slowed falling down by rolling balls along gentle ramps, so that he could measure it. In 1638 he wrote that, without air, all things would fall at the same speed. A leaf lags behind because the air slows it, not because it is light. In 1971, the astronaut David Scott dropped a hammer and a feather on the airless Moon, and they landed together.  
+*What people believed before:* Aristotle taught that heavier things fall faster, in proportion to their weight. Drops from the same height showed that heavy and light weights land almost together, and Galileo showed that the air, not lightness, slows things like leaves.
 
 ## Challenging perspectives
 - **Heavy things fall faster than light things.** (Aristotle, a Greek thinker who lived about 2,350 years ago. Most children and many grown-ups still guess this.; *rejected*)  
   For: A stone does fall faster than a leaf or a feather. That is what we see every day.  
   Against: The leaf is slowed by the air, not by being light. Crumple a paper into a ball and it falls almost as fast as a stone. Without air, on the Moon, a hammer and a feather land together.
 - **Galileo dropped two balls from the Leaning Tower of Pisa, and proved Aristotle wrong in front of a crowd.** (Many storybooks and textbooks; *debated*)  
-  For: Vincenzo Viviani, Galileo's student, wrote this story down when Galileo was an old man.  
+  For: Vincenzo Viviani, who worked with Galileo in his last years, wrote this story down about twelve years after Galileo died.  
   Against: Galileo never wrote about it himself, and nobody else at the time mentioned it. Many historians think it is a legend. We know for sure that Simon Stevin dropped lead balls from a church tower in Delft in 1586.
 - **Isaac Newton discovered gravity when an apple fell on his head.** (A very popular story; *rejected*)  
   For: Newton himself told a friend, William Stukeley, that watching an apple fall in his garden set him thinking about gravity.  
@@ -177,9 +182,9 @@ Scientists know how gravity behaves very, very well. They can land spacecraft on
 - **Indian astronomers discovered gravity long before Newton.** (Some modern writers and websites; *debated*)  
   For: Brahmagupta wrote, in 628 CE, that the Earth attracts bodies the way water flows. Bhaskara II wrote of the Earth's power of attraction in the 1100s. These were real and clear ideas.  
   Against: They did not give a law for how strong the pull is. They did not show that the same pull keeps the Moon going round. Some claims online go further than what the old books really say.
-- **Gravity is a force that pulls things together.** (Isaac Newton, and most everyday science; *debated*)  
-  For: It works wonderfully. Engineers use Newton's law of pulls to send spacecraft to the Moon and Mars.  
-  Against: Einstein showed that gravity can be explained without any pull at all. Heavy things bend space and time, and other things just follow the bends. This also explains light bending and clocks slowing, which Newton's pull cannot.
+- **Gravity is a force, like a push or a pull.** (Isaac Newton, and most everyday science; *debated*)  
+  For: It works wonderfully. Engineers use Newton's law of gravity to send spacecraft to the Moon and Mars.  
+  Against: In Einstein's theory, gravity is not a force at all. Mass bends space and time, and falling things move along the straightest paths through that bent space-time. This also explains the exact bending of light and the slowing of clocks, which Newton's law cannot. Physicists use both pictures, and Einstein's has passed every test so far.
 - **In a vacuum, things float, because there is no air to hold them down.** (A common mix-up; *rejected*)  
   For: Films often show things floating around in empty space.  
   Against: Air does not hold things down. Air actually pushes up a little. In a vacuum chamber on Earth, a feather drops like a stone. Things only float in space because they are falling freely.
@@ -187,39 +192,39 @@ Scientists know how gravity behaves very, very well. They can land spacecraft on
 ## Roots
 We have been learning why things fall, and why heavy and light things land together. Now we ask what falling tells us about ourselves and the world.
 
-**Deep truth.** Everything is pulled towards everything else. Nothing in the universe is alone.  
-*Habit it breaks:* We think falling is something only heavy things do, and only down. In truth every bit of matter pulls on every other bit, even you on the Earth.  
-*Evidence:* A feather and a stone fall together where there is no air.
+**Deep truth.** A full bottle feels much heavier than an empty one, yet dropped together they land with one thud. The Earth pulls the full one harder, but it is harder to get moving by the same amount. So gravity on its own gives everything the same fall, heavy or light. When a feather lags behind, the air is slowing it, not its lightness.  
+*Habit it breaks:* We sort things into heavy and light, and expect heavy things to fall faster, because heaviness is what our hands feel most. Falling ignores that difference. Only the air treats things differently, and it cares about shape as much as weight.  
+*Evidence:* In the Drop Race, a full and an empty bottle gave one thud, and so did ten coins and one coin. In Paper That Falls Like a Stone, a crumpled sheet beat a flat sheet of the same weight, and a flat sheet lying on a book fell with the book.
 
-- *who am i:* You pull the Earth, the Moon and every star, a tiny bit.
-- *what is life:* Even a plant in the dark knows which way is down.
-- *what is this world:* A feather and a hammer fall the same way, without air. One rule holds for all.
+- *who am i:* The Earth pulls on every part of you, and you pull on the Earth just as hard.
+- *what is life:* A seed planted upside down still sends its root down. Living things sense gravity and grow with it.
+- *what is this world:* Without air, a hammer and a feather fall in exactly the same way. Gravity gives everything the same fall.
 
-A mango, a moon and a ray of light all fall along the same bend in space and time. Heavy and light are treated exactly the same. DeepKids believes this is a sign of the One under the many: everything belongs to one web of pulls. You are never truly outside it. When you fall, the whole world is falling with you.
+Gravity does not sort the world into heavy and light. In the same place, a hammer, a feather, a mango and a planet all fall in exactly the same way. Einstein took this seriously. Because every thing falls alike, he said the fall belongs to the shape of space and time, not to the thing that falls. DeepKids believes this is a sign that the world is one whole, with one shape that everything in it shares.
 
-- **Brihadaranyaka Upanishad 3.8.9:** The thinker Gargi asks what holds everything. Yajnavalkya answers: one unchanging reality. By it, the Sun and Moon are held in their places. (Gravity holds the Moon around the Earth, and the Earth around the Sun. Something holds everything, and nobody fully knows what.)
-- **Vaisheshika Sutra 5.1.7:** Kanada, an Indian thinker, said that when nothing holds a thing up, it falls because of gurutva, its heaviness. (Long before Newton, Indian thinkers gave falling a name and a cause. Guru, a teacher, means 'heavy' too.)
-- Science (settled): Without air, a heavy thing and a light thing fall together. An astronaut dropped a hammer and a feather on the Moon in 1971. They landed together.
-- Science (open): Einstein's idea, that heavy things bend space and time, works very well. But what gravity is deep down, nobody knows yet.
-- Other view, The Nyaya and Vaisheshika schools: The same Indian school that named gurutva taught that the world is many separate eternal atoms and many separate selves. On this view, there is no single One.
-- Practice, Feel yourself fall still (3 min): Let's sit on the floor with our eyes closed. Breathe out slowly and let your body grow heavy. Feel the floor holding you up. Gravity is pulling you down right now. Breathe in and out three more times. Feel how the whole Earth is pulling on you, and you on it.
-- Ask: If everything pulls everything, is anything truly alone?
-- Ask: Why should heavy and light be treated exactly the same?
-- Ask: What is the pull, if nobody is really pulling?
+- **Brihadaranyaka Upanishad 3.8.9:** The thinker Gargi asks what holds everything. Yajnavalkya answers that one unchanging reality holds the Sun and the Moon in their places. (Science names gravity as what keeps the Moon going round the Earth, and the Earth round the Sun. It still does not know what gravity is, deep down. The Upanishad does not describe gravity, but it wondered about the same holding.)
+- **Vaisheshika Sutra 5.1.7:** Kanada, an Indian thinker, said that when nothing holds a thing up, it falls because of gurutva, its heaviness. (In the Drop Race, the bottles fell the moment the book was pulled away, with nothing pushing them. Kanada named that cause gurutva. Guru, a teacher, also means 'heavy'.)
+- Science (settled): Without air, a heavy thing and a light thing fall together. An astronaut dropped a hammer and a feather on the Moon in 1971, and they landed together. A satellite called MICROSCOPE found metals fall the same way to about 1 part in a million billion.
+- Science (open): Einstein's idea, that mass bends space and time, has passed every test so far. But what gravity is deep down, and how it fits with quantum physics, nobody knows yet.
+- Other view, Aristotle, the Greek thinker: Aristotle taught that heavy and light are two different natures. Earth and water move down towards their natural place, and fire and air move up. On his view, falling shows how things differ, not what they share.
+- Practice, Heavy hand, light hand (3 min): Sit on the floor with a cushion in front of you. Hold a steel spoon in one hand and a crumpled paper ball in the other. Close your eyes and feel which hand is heavier. Now hold both over the cushion and open your hands together. Listen for the soft landings. Then put your hands in your lap and breathe slowly three times. Feel your heavy bones and your light hair, all held down by the same gravity.
+- Ask: Gravity gives a hammer and a feather the same fall. Why do you think it does not treat them differently?
+- Ask: If everything falls the same way, is the fall something the thing does, or something the place does?
+- Ask: Your hands feel heavy and light at once, but falling does not. What else might feel different to us, yet be the same underneath?
 
 ## Deep and big questions
 - *deep:* If you dropped a ball down a tunnel right through the Earth, where would it stop? (hint: It speeds up all the way to the middle. Then what? Gravity pulls towards the middle from every side.)
 - *deep:* Why does a heavy thing not fall faster, when the Earth pulls it harder? (hint: Think of pushing a full trolley and an empty one. Which is harder to get moving?)
-- *deep:* The Earth has held the Moon for billions of years and never got tired. So is gravity really a pull? (hint: Remember the marble rolling along the dent in the dupatta. Was anyone pulling it?)
+- *deep:* Everything falls in the same way, heavy or light. Is the fall something the thing does, or something the place does? (hint: Einstein thought it belongs to the place. On the space blanket, big and small marbles followed the same dent.)
 - *big:* People believed heavy things fall faster for about 1,900 years. Why did nobody just test it? (hint: Is it easy to doubt something that every teacher and every book says?)
-- *big:* John Philoponus was laughed at for disagreeing with Aristotle. Should we believe an idea because a famous person said it, or because of evidence? (hint: What would you do if everyone in your class believed something you had tested and found wrong?)
-- *big:* You pull the Earth, and the Moon, and every star. Is anything in the universe truly alone? (hint: Every atom in you pulls on every atom everywhere, however far away.)
+- *big:* Few people listened when John Philoponus disagreed with Aristotle. Should we believe an idea because a famous person said it, or because of evidence? (hint: What would you do if everyone in your class believed something you had tested and found wrong?)
+- *big:* You attract the Earth, the Moon and every star. Is anything in the universe truly alone? (hint: Every atom in you attracts every atom everywhere, however far away.)
 - *big:* Time runs a tiny bit slower downstairs than upstairs. So is there one true time for everyone? (hint: Two very precise clocks, one on a shelf and one on the floor, will slowly disagree.)
 - *big:* Is gravity good or bad? It keeps us on the ground and holds the air on Earth. It also makes us fall and get hurt. (hint: The founder's gravity song asks the same thing. What would the world be like with no gravity at all?)
 - *deep:* If light has no mass, why does gravity bend it? (hint: Maybe it is not the light that is pulled. Maybe the path through space is bent.)
-- *deep:* A plant in the dark still knows which way is down. Does a plant 'feel' anything? (hint: Its root cells have heavy grains that settle. Is noticing something the same as feeling it?)
+- *deep:* A plant in the dark still knows which way is down. What might it be like to feel down without ears or eyes? (hint: Its root cells have heavy grains that settle to the bottom. DeepKids believes plants feel what they sense.)
 - *big:* The word guru means heavy. Why might a wise person be called heavy? What gives a person weight with others? (hint: Think of someone whose words you always listen to. What makes their words weigh more?)
-- *big:* Most of the stuff in the universe is invisible. We only know it is there by its pull. How can we be sure something exists if we can never see it? (hint: You cannot see the wind, but you can see the leaves move.)
+- *big:* Most of the matter in the universe is invisible. We only know it is there by its gravity. How can we be sure something exists if we can never see it? (hint: You cannot see the wind, but you can see the leaves move.)
 
 ## Story: The Weigher's Daughter
 *John Philoponus was a real scholar in Alexandria, about 1,500 years ago. He really wrote that two weights, one many times heavier, dropped from the same height, land with only a very small difference in time. Galileo really read his books, a thousand years later. Thekla, her father, the roof and the students are made up. Thekla's argument about tying the weights together was really written by Galileo, in 1638. The story gives it to her.*
@@ -228,7 +233,7 @@ My father weighed things for a living. In the great market of Alexandria, near t
 
 I was eleven, and I knew every weight in the box by feel. The biggest was as heavy as a full water jar, and so cold in the mornings that it made my fingers ache. The smallest was as light as a date stone. Between them they made ten of the smallest, then a hundred, then the big one, which was worth ten of the middle one.
 
-Most evenings, a thin man in a dusty cloak came and sat on the step beside our stall. His name was John. The students from the lecture halls called him Philoponus, the Lover of Work, and they did not mean it kindly. He was a teacher of grammar, of words and sentences, not a famous philosopher. And he had very bad manners. He argued with Aristotle.
+Most evenings, a thin man in a dusty cloak came and sat on the step beside our stall. His name was John. The students from the lecture halls called him Philoponus, which means the Lover of Work. He was a teacher of grammar, of words and sentences, not a famous philosopher. And he had very bad manners. He argued with Aristotle.
 
 Aristotle had been dead for more than eight hundred years, and he was the greatest mind there had ever been. Everyone said so. Aristotle taught that heavy things fall faster than light things. A weight ten times heavier falls ten times faster. Everyone knew that. I knew it. I had seen a stone beat a leaf a thousand times.
 
@@ -254,7 +259,7 @@ A pigeon feather lay on the roof by my foot. I picked it up and dropped it with 
 
 'There,' I said. 'The light thing is slower.'
 
-'The feather is slower,' said John. 'Is it because it is light, or because it is wide and soft, and the air leans on it? Try this.' He pulled a thread from his cloak and handed it to me. 'Aristotle says the small weight is slow. Tie it to the big one. What will it do?'
+'The feather is slower,' said John. 'Is it because it is light, or because it is wide and soft, and the air pushes up on it? Try this.' He pulled a thread from his cloak and handed it to me. 'Aristotle says the small weight is slow. Tie it to the big one. What will it do?'
 
 I tied them together. I thought about it, with the evening wind in my ears. The slow small weight should pull back on the big one, like a small brother dragging on your hand. So the pair should fall slower than the big weight alone. But the pair was heavier than the big weight alone. So, by Aristotle, it should fall faster.
 
@@ -284,10 +289,10 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 
 ## Games
 ### g1 · Drop Race: Guess the Landing (20 min)
-- **rules:** Cut out the 24 cards. Shuffle them and put them face down in a pile.; Each player has three tokens: HEAVY FIRST, TOGETHER and LIGHT FIRST.; One player turns over the top card and reads it out loud.; Everyone secretly picks a token and puts it face down. Then everyone shows their token at once.; Check the answer together. A right guess scores 1 point. A good reason, about the air or about the pulls, scores 1 more point.; If a TEST IT card comes up, everyone guesses first, then you do the test together.; When the cards run out, the player with the most points wins.
+- **rules:** Cut out the 24 cards. Shuffle them and put them face down in a pile.; Each player has three tokens: HEAVY FIRST, TOGETHER and LIGHT FIRST.; One player turns over the top card and reads it out loud.; Everyone secretly picks a token and puts it face down. Then everyone shows their token at once.; Check the answer together. A right guess scores 1 point. A good reason, about the air or about gravity, scores 1 more point.; If a TEST IT card comes up, everyone guesses first, then you do the test together.; When the cards run out, the player with the most points wins.
 - **Printable cards: 24 drop cards to cut out:** A full water bottle and an empty one, from a table; A steel spoon and a plastic spoon, from your shoulder; A cricket ball and a tennis ball, from a balcony; A flat sheet of paper and a coin; A crumpled paper ball and a coin; A feather and a hammer, on the Moon; A feather and a bowling ball, in a giant chamber with all the air pumped out; A big stone and a small stone, from a bridge into a river; A mango and a lemon, falling from the same branch; A big ball of clay and a small ball of clay, from a step; A flat leaf and the same leaf rolled into a tight ball; A parachute with a toy, and the same toy with no parachute; A heavy brass lota and a light steel tumbler of the same shape; An elephant and a mouse, dropped together on an airless world; Two marbles, one dropped from a chair and one from a table; A fluffy semal seed and a fruit stone; A big book and a small book, lying flat; Two weights tied together, and one weight on its own; TEST IT: drop a full bottle and an empty bottle from a book. One thud or two?; TEST IT: drop a flat paper and a crumpled paper. Which lands first?; TEST IT: lay a paper on a book and drop the book. Does the paper float off?; TEST IT: drop two different coins together onto a steel plate. One clink or two?; TEST IT: drop a feather and a crumpled paper ball. Which lands first?; TEST IT: jump up and land. Did the Earth pull you, or did you pull the Earth?
 - **Printable tokens: Three guess tokens for each player:** HEAVY FIRST; TOGETHER; LIGHT FIRST
-- **Printable score sheet: Score sheet:** Player name; Right guesses; Good reasons (about air or about pulls); Total points
+- **Printable score sheet: Score sheet:** Player name; Right guesses; Good reasons (about air or about gravity); Total points
 - **s1 (2 min)**  
   *Parent does:* 1. Shuffle the 24 drop cards and put them face down. 2. Give each player three tokens: HEAVY FIRST, TOGETHER and LIGHT FIRST.  
   *Parent says:* Each card shows two things dropped at the same moment. Guess which lands first. Then we check.  
@@ -299,9 +304,9 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   - Check: A full water bottle and an empty one fall from a table together. Which lands first? → **TOGETHER**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns turning over a card and reading it out. 2. Everyone shows a token. 3. Check the answer and give points. 4. On a TEST IT card, do the test together.  
-  *Parent says:* Remember the two big questions. Does the air get in the way? If not, they land together.  
+  *Parent says:* Before you guess, ask one question. Is the air slowing one of them? If not, they land together.  
   *Child mode:* Take turns. Read a card. Show your token. Then ask: does the air get in the way? If not, they land together!
-  - Note: Answers. Answers that land TOGETHER: the bottles, spoons, balls and stones. Also the mango and lemon, the clay balls, the lota and tumbler, and the two books. Also the elephant and mouse with no air, the tied weights, and the hammer and feather. HEAVY FIRST happens only when air slows the light one. So the coin beats the flat paper, and the fruit stone beats the semal seed. The toy beats the parachute, and the rolled leaf beats the flat leaf. The crumpled paper and coin land almost together. The marble from the table lands later, because it starts higher, not because of its weight.
+  - Note: Answers. Answers that land TOGETHER: the bottles, spoons, balls and stones. Also the mango and lemon, the clay balls, the lota and tumbler, and the two books. Also the elephant and mouse with no air, the tied weights, and the hammer and feather. HEAVY FIRST happens only when air slows the light one. So the coin beats the flat paper, and the fruit stone beats the semal seed. The toy beats the parachute, and the rolled leaf beats the flat leaf. The crumpled paper and coin land almost together. The marble from the table lands later, because it starts higher, not because of its weight. On the jump card, the answer is both: you pull the Earth as hard as it pulls you.
 - **s4 (3 min)**  
   *Parent does:* Look out for the card about two weights tied together. When it comes up, stop and talk about Galileo's puzzle.  
   *Parent says:* Aristotle said heavy things fall faster. So would the tied pair fall faster, because it is heavier? Or slower, because the light one holds it back? It cannot be both!  
@@ -317,7 +322,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 - **rules:** Cut out the DO, QUESTION and ANSWER cards. Keep them in three piles, face down.; Shuffle the DO cards. On your turn, draw one and do what it says.; Then find the QUESTION card with the same number. Read it out and answer it.; Now turn over the ANSWER card with the same number and check. A good answer scores 1 point. A good reason scores 1 more.; Anyone can challenge an answer card if they think it is wrong. Then you test it again together.; When the DO cards run out, the player with the most points wins.
 - **Printable cards: 12 numbered DO cards:** 1 DO: Drop a pen and a pencil together from your shoulder.; 2 DO: Drop a tissue and a coin together.; 3 DO: Crumple the tissue into a ball. Drop it and the coin together.; 4 DO: Walk up the stairs, then walk down.; 5 DO: Jump as high as you can, 3 times.; 6 DO: Make a ball float in the air all by itself, using nothing else.; 7 DO: Pick up a paper clip with a magnet.; 8 DO: Toss a ball straight up and catch it.; 9 DO: Drop a sheet of paper lying on top of a book.; 10 DO: Hang a key on a thread and let it go still.; 11 DO: Blow a feather or a tissue to keep it up in the air.; 12 DO: Drop a spoon from a chair, then from a table. Listen to the sound.
 - **Printable cards: 12 numbered QUESTION cards, one for each DO card:** 1 Which landed first? Why?; 2 Which landed first? Was it because the tissue is light, or because of the air?; 3 What changed when you crumpled the tissue?; 4 Which was harder, up or down? Why?; 5 What brought you back down every time? Could anyone jump into space?; 6 Why is it impossible? How do birds and balloons stay up?; 7 The whole Earth pulls the clip down. Why did the magnet win?; 8 At the very top, for a moment, the ball stops. Is gravity still pulling it?; 9 Why didn't the paper float away?; 10 Which way does the thread point? Is it the same in Argentina?; 11 What were you doing to fight gravity? What happens when you stop?; 12 Which drop made a louder sound? Why?
-- **Printable cards: 12 numbered ANSWER cards, to check with:** 1 They landed together. Heavy and light things fall the same way.; 2 The coin. The air pushes up on the spread-out tissue and slows it.; 3 It landed almost with the coin. Same tissue, same weight, but less air pushing on it.; 4 Up. Going up, you work against gravity. Going down, gravity helps.; 5 Gravity. You would need about 11 kilometres every second to escape the Earth.; 6 Nothing holds it up, so gravity always wins. Birds and balloons push on the air.; 7 Gravity is very weak. A tiny magnet beats the pull of the whole Earth.; 8 Yes. Gravity never stops. It slowed the ball to a stop, then pulled it back.; 9 The book pushed the air out of the way, so no air pushed up on the paper.; 10 Straight down, towards the middle of the Earth. Yes, down is always towards the middle.; 11 Pushing air up with your breath. When you stop, gravity pulls it down.; 12 From the table. It fell further, so it sped up more and hit harder.
+- **Printable cards: 12 numbered ANSWER cards, to check with:** 1 They landed together. Heavy and light things fall the same way.; 2 The coin. The air pushes up on the spread-out tissue and slows it.; 3 It landed almost with the coin. Same tissue, same weight, but less air pushing on it.; 4 Up. Going up, you work against gravity. Going down, gravity helps.; 5 Gravity. You would need about 11 kilometres every second to escape the Earth.; 6 Nothing holds it up, so gravity always wins. A bird pushes air down with its wings. A gas balloon floats because the air around it pushes it up.; 7 Gravity is a very weak force. A tiny magnet beats the gravity of the whole Earth.; 8 Yes. Gravity never stops. It slowed the ball to a stop, then pulled it back.; 9 The book pushed the air out of the way, so no air pushed up on the paper.; 10 Straight down, towards the middle of the Earth. Yes, down is always towards the middle.; 11 Your breath pushed the air up against it. When you stop, gravity pulls it down.; 12 From the table. It fell further, so it sped up more and hit harder.
 - **Printable score sheet: Score sheet:** Player name; Cards done; Good answers; Total points
 - **s1 (3 min)**  
   *Parent does:* 1. Make three piles: DO, QUESTION and ANSWER cards, face down. 2. Shuffle only the DO cards.  
@@ -328,7 +333,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   *Parent says:* Do it first. Then answer. Then check the answer card. Did you get it?  
   *Child mode:* Draw a DO card. Do it! Read the question with the same number. Answer it. Then check the answer card.
   - Ask: Card 8: at the very top of the toss, is gravity still pulling the ball? (good: Yes, gravity never stops pulling.; Yes, that's why it comes back down.)
-  - Note: Card 6 comes from the founder's cards: 'Make a ball float with nothing else.' Let your child try for a minute. Then read the answer. The point is that nothing escapes gravity without something pushing back, like air or a hand.
+  - Note: Card 6 comes from the founder's cards: 'Make a ball float with nothing else.' Let your child try for a minute. Then read the answer. The point is that nothing stays up unless something pushes it up, like the air or a hand.
 - **s3 (4 min)**  
   *Parent does:* When card 2 comes up, stop and talk about it.  
   *Parent says:* The coin beat the tissue. Was that because the tissue is light? Try card 3 straight after, and see.  
@@ -343,24 +348,24 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 ## Experiments
 ### e1 · The Drop Race: one thud or two? (25 min)
 - **question:** Do heavy things fall faster than light things?
-- **predict:** Before you drop anything, look at each pair. Guess which one will land first: the heavy one, the light one, or both together. Write your guess in the table.
+- **predict:** Before you drop anything, hold each pair. Guess which one will land first: the heavy one, the light one, or both together. Say why you think so. Write your guess in the table.
 - **fair test:** To make it fair, both things must start at the same height and at the same moment. Put both on a flat hardback book and pull the book away fast. Drop them onto the same hard floor. Only the thing you drop changes. Try each pair 3 times, because one try can be a fluke.
 - **safety:** Drop things only onto a clear floor, away from feet and toes. Use plastic bottles, never glass.
 - **record:** Fill in the table. Count how many tries gave one thud, and how many gave two.
 - **results table:** Pair of things | My guess | Try 1: one thud or two? | Try 2: one thud or two? | Try 3: one thud or two?
 - **s1 (4 min)**  
-  *Parent does:* 1. Put the pairs on the table: the full and empty bottles, the two spoons and the two balls. 2. Let your child hold each pair, one in each hand, and feel which is heavier. 3. Ask them to guess which will land first, and write the guesses down.  
+  *Parent does:* 1. Put the three pairs on the table. They are the two bottles, the two spoons, and the ten coins with the one coin. 2. Let your child hold each pair, one in each hand, and feel which is heavier. 3. Ask them to guess which will land first, and write the guesses down.  
   *Parent says:* Hold one in each hand. Which is heavier? If we drop them together, which one will land first?  
   *Child mode:* Hold the full bottle and the empty bottle, one in each hand. Which is heavier? Guess: which lands first? Write it down.
   - Ask: Why do you think that one will land first? (good: It is heavier, so gravity pulls it harder.; I think they will land together.; I am not sure, so I want to test it.)
   - Note: Most children, and most grown-ups, guess the heavy one lands first. That is a very good guess to start with. Do not correct it yet. The test will.
 - **s2 (4 min)**  
-  *Parent does:* 1. Put the steel thali on the floor. 2. Hold the hardback book flat, at about the height of your chin. 3. Put the full and the empty bottle lying on the book, side by side. 4. Pull the book away quickly towards you, so both bottles start falling at the same moment.  
+  *Parent does:* 1. Put the steel thali on the floor. 2. Hold the hardback book flat, at about the height of your chin. 3. Lay the full and the empty bottle across the book, side by side. 4. Pull the book away quickly towards you, so both bottles start falling at the same moment.  
   *Parent says:* Watch and listen. If you hear one thud, they landed together. If you hear two, one was faster.  
   *Child mode:* Put both bottles on the book. Pull the book away fast. Listen! One thud, or two?
   - Note: Pulling the book away is the secret of a fair start. Hands almost never let go at exactly the same moment, but a book pulled away does. If you have a phone, film it in slow motion.
 - **s3 (9 min)**  
-  *Parent does:* 1. Drop each pair 3 times, using the book. 2. After each drop, write 'one thud' or 'two thuds' in the table. 3. If it is hard to tell, film it in slow motion and watch it back.  
+  *Parent does:* 1. Drop each pair 3 times, using the book. The coins lie flat on the book, so they do not roll off. 2. After each drop, write 'one thud' or 'two thuds' in the table. 3. If it is hard to tell, film it in slow motion and watch it back.  
   *Parent says:* Let's do each pair three times. Listen carefully each time. One thud or two?  
   *Child mode:* Drop each pair 3 times. After each drop, write one thud or two thuds.
   - Check: You dropped a full bottle and an empty bottle together from the same height. What happened? → **They landed together**
@@ -369,22 +374,22 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   *Parent says:* Look at the table. Were your guesses right? What did nearly every drop show?  
   *Child mode:* Look at your table. How many drops gave one thud? Was your guess right?
   - Ask: Did the heavy thing ever land first? (good: No. They landed together almost every time.; Once, but I think the book tipped.)
-  - Think: People believed heavy things fall faster for about two thousand years. Why do you think nobody tested it like this?
+  - Think: People believed heavy things fall faster for about two thousand years. Why do you think so few people tested it like this?
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: heavy and light things fall together. What I saw: the full and empty bottles gave one thud all three times. The spoons gave one thud twice. Why: the Earth pulls the heavy one harder. But it is also harder to get moving, so they speed up the same.
+  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: heavy and light things fall together. What I saw: the full and empty bottles gave one thud all three times. The spoons gave one thud twice. Why: the Earth pulls the heavy one harder. But it is also harder to get moving, so they speed up in the same way.
 ### e2 · Paper That Falls Like a Stone (15 min)
 - **question:** Why does a sheet of paper fall slowly? Is it because it is light?
-- **predict:** Guess first. A flat sheet of paper and a crumpled sheet weigh exactly the same. Will they fall together? And what will a flat sheet do if you lay it on top of a book and drop them?
+- **predict:** Guess first. A flat sheet of paper and a crumpled sheet weigh exactly the same. Will they fall together? What will a flat sheet do if you lay it on top of a book and drop them? Say why you think so.
 - **fair test:** Use two sheets of the same paper, the same size. Change only their shape: one flat and one crumpled. Drop them from the same height at the same moment. Do each drop 3 times.
 - **safety:** Nothing in this test is dangerous. Keep the book drop low, and away from toes.
 - **record:** Fill in the table. Draw the flat sheet falling, and the arrows of the air pushing up on it.
 - **results table:** What we dropped | My guess | What happened
 - **s1 (3 min)**  
   *Parent does:* 1. Hold a flat sheet of paper in one hand and a coin in the other, at the same height. 2. Let go of both together.  
-  *Parent says:* The coin dropped fast. The paper floated down. So is light stuff slower? Let's find out.  
+  *Parent says:* The coin dropped fast and the paper floated down. Is that because the paper is light? Let's find out.  
   *Child mode:* Hold a flat paper and a coin up high. Let go of both. Which lands first?
 - **s2 (4 min)**  
   *Parent does:* 1. Crumple one sheet into a tight ball. 2. Hold the crumpled ball and a flat sheet at the same height. 3. Drop them together. Do it 3 times.  
@@ -398,14 +403,14 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   - Check: A flat sheet of paper lying on top of a book falls with the book. Why? → **The book pushes the air out of the way, so no air pushes on the paper**
 - **s4 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: paper falls slowly because the air pushes on it, not because it is light. What I saw: the crumpled paper fell much faster than the flat paper, though they weigh the same. Paper on a book fell with the book. Why: the flat paper has to push a lot of air, and the air pushes back.
 ### e3 · The Parachute Test (35 min)
 - **question:** Does a bigger parachute fall more slowly?
-- **predict:** Guess first. You will make three parachutes, small, medium and large, all carrying the same load. Which will take longest to reach the ground?
+- **predict:** Guess first. You will make three parachutes, small, medium and large, all carrying the same load. Which will take longest to reach the ground, and why do you think so?
 - **fair test:** Keep everything the same except the size of the parachute. Use the same plastic, the same strings, the same load and the same drop height. Time each parachute 3 times, because one drop can be a fluke.
-- **safety:** A grown-up does the cutting with scissors. Drop from a staircase or a first-floor balcony only with a grown-up holding the parachute, and with nobody standing below. Keep plastic bags away from small children's faces.
+- **safety:** A grown-up does the cutting with scissors. Drop the parachutes down a stairwell, or from a balcony with a grown-up holding them, and only when nobody is below. Your child stays back from the railing. Keep plastic bags away from small children's faces.
 - **record:** Fill in the table. Draw a bar for each parachute, as tall as its middle time.
 - **results table:** Parachute size | Try 1 (seconds) | Try 2 (seconds) | Try 3 (seconds) | Middle time (seconds)
 - **s1 (10 min) · grown-up needed**  
@@ -417,7 +422,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   *Parent says:* Which one will take the longest to come down? Put them in order, slowest first.  
   *Child mode:* Which parachute will fall most slowly? Put them in order. Slowest first.
 - **s3 (14 min) · grown-up needed**  
-  *Parent does:* 1. The grown-up stands at the top of the stairs or on a balcony. They hold a parachute out, open, with the peg hanging down. 2. Your child says 'Go!' and starts the stopwatch as it is let go. 3. Stop the stopwatch when the peg touches the ground. 4. Write the time. 5. Do each parachute 3 times.  
+  *Parent does:* 1. The grown-up stands at the top of the stairs or on a balcony. They hold a parachute out, open, with the peg hanging down. 2. Your child says 'Go!' and starts the stopwatch as it is let go. 3. Stop the stopwatch when the peg touches the ground. 4. Write the time. 5. Do each parachute 3 times. If you have no safe stairwell or balcony, stand on a sturdy bed and hold the parachute up high. The times will be shorter.  
   *Parent says:* Ready? Start the stopwatch when I let go. Stop it the moment the peg touches the ground.  
   *Child mode:* Say Go! Start the stopwatch. Stop it when the peg lands. Write the time. Do each parachute 3 times.
   - Note: To find the middle time, put the three times in order and take the middle one. If one parachute gets tangled, that drop does not count. Drop it again.
@@ -428,12 +433,12 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   - Check: In the Parachute Test, which parachute fell most slowly? → **The largest**
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a bigger parachute falls more slowly. What I saw: the large one took 5 seconds, but the small one took only 2. Why: the big one catches more air, and the air pushes up on it harder.
 ### e4 · The Falling Ruler: catch it if you can (20 min)
 - **question:** How far does a falling ruler drop before you can catch it? Is your writing hand quicker than your other hand?
-- **predict:** Guess first. When someone lets go of a ruler between your fingers, how many centimetres will it fall before you catch it? Which hand will catch it sooner?
+- **predict:** Guess first. When someone lets go of a ruler between your fingers, how many centimetres will it fall before you catch it? Which hand will catch it sooner, and why do you think so?
 - **fair test:** Use the same ruler every time, with the 0 mark level with the top of your thumb. The helper lets go without warning. Change only one thing: the hand you catch with. Do 3 tries with each hand, because one try can be a fluke.
 - **safety:** Nothing in this test is dangerous. Use a plastic or wooden ruler, not a metal one with sharp edges.
 - **record:** Fill in the table. Use the chart in the last step to turn each distance into a time.
@@ -459,8 +464,8 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   - Note: Your eyes see the ruler move. A message runs along nerves to your brain. Your brain sends a message to your fingers. All of that takes time. That time is called reaction time.
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: my writing hand is a little quicker. What I saw: the ruler fell 15 cm with my writing hand and 19 cm with my other hand. Why: the ruler always falls the same way, so a shorter fall means I caught it sooner.
 
 ## Activities
@@ -483,8 +488,8 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   - Ask: Why is going up harder than going down? (good: Going up, you work against gravity.; Going down, gravity helps you.)
 - **s4 (6 min)**  
   *Parent does:* Talk about escape speed. Could anyone ever jump off the Earth?  
-  *Parent says:* To leave the Earth for ever, you would have to jump off at about 11 kilometres every second. A good jump starts at only about 3 metres a second. Rockets get that fast by burning fuel for many minutes.  
-  *Child mode:* To leave the Earth, you would need 11 kilometres every second! Your jump is only about 3 metres a second. Rockets burn fuel to go that fast.
+  *Parent says:* To leave the Earth for ever, you would have to jump off at about 11 kilometres every second. Your jump leaves the ground at only 2 or 3 metres a second. Rockets get that fast by burning fuel for many minutes.  
+  *Child mode:* To leave the Earth, you would need 11 kilometres every second! Your jump is only 2 or 3 metres a second. Rockets burn fuel to go that fast.
   - Check: Could you jump so high that you never came back down? → **Only if I went faster than about 11 kilometres every second, which no person can**
   - Think: On the Moon, the escape speed is less than a quarter of the Earth's. Why do you think it is smaller there?
 ### a2 · The Space Blanket (25 min)
@@ -499,46 +504,47 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   *Parent says:* The heavy ball bends the sheet. Watch the marbles. Which ones curve in?  
   *Child mode:* Put the heavy ball in the middle. See the dent? Roll marbles past it. Which ones curve in?
   - Ask: Which marbles fell into the dent? (good: The ones that came close.; The far ones only bent a little.)
-  - Note: This shows two things. Bigger masses make deeper dents. And the pull gets weaker further away, so far marbles hardly bend.
+  - Note: This shows two things. A heavier ball makes a deeper dent. And marbles that pass far away hardly bend, just as gravity gets weaker further away.
 - **s3 (5 min)**  
   *Parent does:* 1. Add the lighter ball near the heavy one. 2. Then try two balls of the same size, a little apart. 3. Last, roll a marble fast and sideways round the heavy ball.  
   *Parent says:* Which dent is deeper? Do the two same balls roll together? Can you make a marble go round the big ball?  
   *Child mode:* Add a light ball. Whose dent is deeper? Try two same balls. Do they roll together? Roll a marble fast round the big ball!
   - Ask: What happened when you rolled a marble fast and sideways? (good: It went round the ball once or twice before falling in.; It was like the Moon going round the Earth.)
 - **s4 (6 min)**  
-  *Parent does:* Talk about Einstein's idea, and about the tug of war.  
-  *Parent says:* Einstein said heavy things bend space and time, like the ball bends the sheet. Things move along the bend. That is falling. Was anybody pulling the marble?  
-  *Child mode:* Einstein said heavy things bend space. Other things roll along the bend. Was anyone pulling the marble? No! It just followed the dent.
-  - Check: In the space blanket, why did the marble roll towards the heavy ball? → **It rolled along the dent the heavy ball made**
+  *Parent does:* Talk about Einstein's idea.  
+  *Parent says:* The dent changed the path of the marble. Einstein said mass changes the shape of space and time in a similar way. Falling things follow that shape.  
+  *Child mode:* Einstein said heavy things bend space and time. Falling things follow the bend, like the marble followed the dent.
+  - Check: In the space blanket, why did the marble roll towards the heavy ball? → **It rolled down into the dent the heavy ball made**
 - **s5 (4 min)**  
   *Parent does:* Ask what the model gets wrong.  
   *Parent says:* Every model is wrong somewhere. What made the ball sink into the sheet in the first place? And is real space flat like a sheet?  
   *Child mode:* Every model gets something wrong. What made the ball sink into the sheet? Is real space flat like a sheet?
   - Note: Good answers: the Earth's gravity pulled the ball into the sheet, so the model uses gravity to explain gravity. Real space is all around us, in every direction. So the real 'dent' goes inwards from every side, towards the middle of the Earth. The founder's notes say this too: the blanket helps us imagine, but space is not really like a blanket.
   - Think: Can you think of a better model of bent space? What would it need?
-### a3 · Tug of War and the Still Point (20 min)
-- **safety:** Pull gently and slowly. Never yank. Tie the dupattas loosely so they slip off easily. Play on a soft floor.
-- **record:** Draw the still point for equal pulls, and for one strong and one weak pull. Mark which side the still point moved to.
-- **s1 (5 min) · grown-up needed**  
-  *Parent does:* Play a slow, gentle tug of war with a dupatta for one full minute.  
-  *Parent says:* Pull steadily for a whole minute. Are your arms tired?  
-  *Child mode:* Play tug of war for one whole minute. Pull steadily. Are your arms tired now?
-  - Ask: Did pulling use up your energy? (good: Yes, my arms are tired.; Yes, I feel hot and puffed.)
-- **s2 (4 min)**  
-  *Parent does:* Talk about the Earth and the Moon.  
-  *Parent says:* The Earth has held the Moon for more than four billion years. Is the Earth tired? Is it using up energy? No. So gravity is not a pull like yours. Remember the space blanket: nobody was pulling the marble.  
-  *Child mode:* The Earth has held the Moon for billions of years. It never gets tired! Gravity is not like your pull. Nobody is really pulling.
-  - Think: If gravity uses no energy, could it go on for ever?
-- **s3 (7 min) · grown-up needed**  
-  *Parent does:* 1. Your child stands between two grown-ups, with a dupatta looped loosely round each wrist. 2. Both grown-ups pull gently and equally. 3. Your child shuffles to the spot where they feel no pull either way. Mark it. 4. Now one grown-up pulls a little harder. Find and mark the new still point.  
-  *Parent says:* Find the spot where you don't get pulled either way. Now one planet pulls harder. Where is the still spot now?  
-  *Child mode:* Stand between two grown-ups. Each holds a dupatta round your wrist. Find the spot where nobody wins. Now one pulls harder. Where is the still spot now?
-  - Check: One side pulls harder than the other. Where is the new still point? → **Nearer the weaker side**
+### a3 · A Force That Never Gets Tired (15 min)
+- **safety:** Pull gently and steadily. Never yank. Close the door before you tie the dupatta to its handle, so it cannot swing.
+- **record:** Draw your arm holding the bag, and the door handle holding the bag. Write which one got tired, and why.
+- **s1 (4 min)**  
+  *Parent does:* 1. Your child holds the bag of water bottles out at arm's length, keeping it still. 2. Count to 60 together.  
+  *Parent says:* Hold the bag out straight, and keep it still. Is it getting harder?  
+  *Child mode:* Hold the bag out straight. Keep it still while you count to 60. Is it getting harder?
+  - Ask: The bag did not move. So why did your arm get tired? (good: My muscles had to keep working to hold it up.; Holding it still was still hard work for my arm.)
+  - Note: Muscles use energy all the time just to stay tight, even when the bag does not move. That is why the arm gets tired.
+- **s2 (3 min)**  
+  *Parent does:* Hang the same bag on a door handle. Leave it there while you do the next steps.  
+  *Parent says:* The door handle is holding up the same bag, with the same force as your arm. Will the handle get tired?  
+  *Child mode:* Hang the bag on a door handle. Will the handle get tired?
+- **s3 (4 min) · grown-up needed**  
+  *Parent does:* 1. Close the door and tie the dupatta to its handle. 2. Your child pulls the dupatta gently and steadily, without moving. 3. Then untie it. You hold one end, your child holds the other, and you both pull equally, so nobody moves.  
+  *Parent says:* The door pulls back just as hard as you pull. So do I, when we pull equally. Which of us gets tired?  
+  *Child mode:* Pull the dupatta tied to the door. Then pull against a grown-up. Who gets tired?
+  - Check: You pull a dupatta tied to a door, and nothing moves. The door pulls back just as hard. Does the door use up energy? → **No. Holding still needs a force, but it does not use up energy**
 - **s4 (4 min)**  
-  *Parent does:* Talk about Lagrange points and Aditya-L1.  
-  *Parent says:* In space, the Sun and the Earth both pull. There is a balancing point between them, much nearer the Earth. India's Aditya-L1 spacecraft sits there and watches the Sun all day and all night.  
-  *Child mode:* Space has still points too! India's Aditya-L1 sits at one, between the Sun and the Earth. From there it watches the Sun all the time.
-  - Note: Real Lagrange points are a balance of two pulls and of moving round the Sun in step with the Earth. Our dupatta game shows only the balance of pulls. A spacecraft there needs small nudges to stay, just as your child drifts with the slightest push.
+  *Parent does:* Talk about the Earth and the Moon.  
+  *Parent says:* The Earth's gravity has kept the Moon going round it for more than four billion years. Like the door handle, gravity does not get tired.  
+  *Child mode:* The Earth has kept the Moon going round it for billions of years. Gravity never gets tired, like the door handle.
+  - Note: Holding something still, or swinging it steadily round in a circle, takes a force but uses up no energy. That is why the Earth's gravity can keep the Moon going round without running down.
+  - Think: Look at the bag on the door handle. Could the handle hold it for a whole year?
 ### a4 · Which Way Is Down? (20 min)
 - **safety:** A grown-up helps with the scissors.
 - **record:** Draw the round Earth with four people standing on it. Draw an arrow from each person to show which way is down.
@@ -559,15 +565,15 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   *Parent does:* Ask the tunnel question.  
   *Parent says:* Imagine a tunnel straight through the Earth. If you dropped a ball in, where would it go?  
   *Child mode:* Imagine a tunnel right through the Earth. You drop a ball in. Where does it go?
-  - Note: The ball would speed up all the way to the middle. Then it would shoot past and slow down, nearly to the other side. Then it would fall back. Without air, it would swing to and fro for ever, like a pendulum. Nobody could build such a tunnel. The inside of the Earth is far too hot.
+  - Note: The ball would speed up all the way to the middle. Then it would shoot past and slow down, stopping just as it reached the other side. Then it would fall back. Without air, it would swing to and fro for ever, like a pendulum. Nobody could build such a tunnel. The inside of the Earth is far too hot.
   - Think: At the very middle of the Earth, which way would down be?
 ### a5 · The Four Sisters' Clocks (act it out) (15 min)
 - **safety:** The 'mountain' sister stands on a low step, not on a wobbly chair.
 - **record:** Draw the four sisters at their heights, with a clock beside each. Write which clock is fastest and which is slowest.
 - **s1 (4 min)**  
   *Parent does:* 1. Give each player a sister and a place. The mine sister sits on the floor. The sea sister stands. The mountain sister stands on a step. The satellite sister stands on the top stair. 2. Each holds a paper clock.  
-  *Parent says:* Four sisters were born on the same day. One lives deep in a mine. One lives by the sea. One lives on a mountain. One works on a satellite, far above the Earth.  
-  *Child mode:* You are four sisters, born on the same day. One lives in a deep mine. One lives by the sea. One lives on a mountain. One lives on a satellite, high up!
+  *Parent says:* Four sisters were born on the same day. One lives deep in a mine. One lives by the sea. One lives on a mountain. One works on a GPS satellite, very high above the Earth.  
+  *Child mode:* You are four sisters, born on the same day. One lives in a deep mine. One lives by the sea. One lives on a mountain. One works on a satellite, very high up!
 - **s2 (5 min)**  
   *Parent does:* Each sister claps once for every 'tick' of her clock while you count to 20. The mine sister claps slowest, then the sea sister, then the mountain sister. The satellite sister claps fastest.  
   *Parent says:* Higher up, time runs a tiny bit faster. Lower down, closer to the middle of the Earth, it runs slower. Let's clap our clocks.  
@@ -583,11 +589,11 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   *Parent says:* If clocks upstairs and downstairs slowly disagree, which one shows the true time?  
   *Child mode:* Clocks upstairs and downstairs slowly disagree. Which one shows the true time?
   - Think: Is there one time for the whole universe, or does every place have its own?
-### a6 · The Falling Seeds Walk (25 min)
+### a6 · The Falling Seeds Walk (if you have a park nearby) (25 min)
 - **safety:** Go outside only with a grown-up. Collect only things that have already fallen. Wash your hands afterwards.
 - **record:** Draw your slowest faller and your fastest. Write what shape helps the slow one.
 - **s1 (10 min) · grown-up needed**  
-  *Parent does:* Walk in a park or a garden. Collect things that have already fallen: leaves, flowers, pods, winged seeds, fluffy seeds, a small stone or a fruit stone.  
+  *Parent does:* If you have a park or a garden nearby, walk there. Collect things that have already fallen: leaves, flowers, pods, winged seeds, fluffy seeds, a small stone or a fruit stone.  
   *Parent says:* Let's collect things that trees and plants drop. Look for seeds with wings or fluff.  
   *Child mode:* Go on a walk with a grown-up. Collect fallen leaves, flowers and seeds. Look for seeds with wings or fluff!
   - Note: Good finds in India are the spinning winged seeds of the sal tree or hiptage. Look too for the fluffy seeds of semal, the silk-cotton tree, and of aak, the milkweed plant. Also flat leaves, heavy fruit stones, and small dry pods.
@@ -611,7 +617,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   *Child mode:* A very old idea is on trial! Heavy things fall faster: true or false? Choose your role. Judge, Aristotle, Philoponus, Galileo or Jury.
 - **s2 (5 min)**  
   *Parent does:* Aristotle makes his case. He drops a stone and a flat sheet of paper together.  
-  *Parent says:* Aristotle says: 'Look! The stone beats the paper. Heavy things fall faster. Everyone has seen it, for two thousand years.'  
+  *Parent says:* Aristotle says: 'Look! The stone beats the paper. Heavy things fall faster. Everyone has seen it.'  
   *Child mode:* Aristotle, drop a stone and a flat paper. Say: 'See? Heavy things fall faster!' Jury, are you convinced?
   - Ask: Jury, is this good evidence? Is anything unfair about it? (good: The paper is flat, so the air slows it.; Two things changed: the weight and the shape.)
 - **s3 (8 min)**  
@@ -626,8 +632,8 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   - Check: What is the best reason to decide that heavy things do not fall faster? → **Fair tests, changing only one thing, show heavy and light things land together**
 - **s5 (4 min)**  
   *Parent does:* Talk about the trial afterwards.  
-  *Parent says:* People believed Aristotle for about 1,900 years. Philoponus was laughed at. Is it hard to disagree with someone everyone admires? When should you?  
-  *Child mode:* People believed Aristotle for a very long time. Philoponus was laughed at. Is it hard to disagree with someone famous? When should you?
+  *Parent says:* People believed Aristotle for about 1,900 years. Few people listened to Philoponus. Is it hard to disagree with someone everyone admires? When should you?  
+  *Child mode:* People believed Aristotle for a very long time. Few people listened to Philoponus. Is it hard to disagree with someone famous? When should you?
   - Think: Aristotle was right about many other things. Can a great thinker be wrong about one thing and still be great?
 ### a8 · A Magnet Beats the Whole Earth (8 min)
 - **safety:** Keep magnets away from phones, bank cards and small children's mouths.
@@ -669,8 +675,8 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   - Check: On Galileo's ramp, how far does the marble go in each beat? → **Further every beat, because it speeds up**
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a rolling or falling ball speeds up. What I saw: after 1 beat it had gone 10 cm. After 2 beats it was 40 cm, and after 3 beats 90 cm. Why: gravity keeps pulling, so the ball goes a little faster every moment.
 
 ## Challenges
@@ -727,8 +733,8 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 ## Worksheets
 ### Falling Detective (core) (core, 17 questions)
 1. (mcq) What is gravity?  
-   Options: A pull between things that have mass / A push from the air / Something that only happens on Earth / The wind blowing things down  
-   **Answer:** A pull between things that have mass. *Why:* Gravity is a pull between things that have mass. The Earth's pull is the one we feel most. Picking 'a push from the air' mixes gravity up with air resistance, which actually pushes up on falling things. Picking 'only on Earth' misses that the Moon, the Sun and the stars pull too.
+   Options: A force that attracts things with mass towards each other / A push from the air / Something that only happens on Earth / The wind blowing things down  
+   **Answer:** A force that attracts things with mass towards each other. *Why:* Gravity is the force that attracts things with mass towards each other. The Earth's gravity is the one we feel most. Picking 'a push from the air' mixes gravity up with air resistance, which actually pushes up on falling things. Picking 'only on Earth' misses that the Moon, the Sun and the stars have gravity too.
 2. (mcq) A girl stands in Argentina, on the other side of the Earth from India. Which way is down for her?  
    Options: Towards the middle of the Earth / Towards India / Towards the bottom of space  
    **Answer:** Towards the middle of the Earth. *Why:* Down always means towards the middle of the Earth. For her, that points the opposite way from ours. Picking 'the bottom of space' means picturing space with a floor, like a page. Space has no bottom.
@@ -792,21 +798,21 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
    **Answer:** False. *Why:* False. Gravity there is still about 9 tenths as strong as on the ground. The astronauts float because they are falling round the Earth with the station.
 9. (mcq) In the space blanket, you tried a heavy ball and a light ball. Which ball made the deepest dent?  
    Options: The heaviest ball / The lightest ball / They all made the same dent  
-   **Answer:** The heaviest ball. *Why:* The heaviest ball made the deepest dent. In Einstein's picture, more mass bends space-time more, and so pulls harder. Picking 'the same dent' would mean all things pull equally. But big masses pull much harder.
+   **Answer:** The heaviest ball. *Why:* The heaviest ball made the deepest dent. In Einstein's picture, more mass bends space-time more, so its gravity is stronger. Picking 'the same dent' would mean all masses have the same gravity. But bigger masses have much stronger gravity.
 10. (mcq) In the space blanket, you rolled a marble fast and sideways round the heavy ball. It went round a few times before falling in. What is this like in space?  
    Options: The Moon orbiting the Earth / A stone dropping into a well / A balloon floating away  
    **Answer:** The Moon orbiting the Earth. *Why:* The Moon is moving sideways very fast. As it falls towards the Earth, it keeps missing. That is an orbit. The marble on the blanket slows down and falls in, because the sheet rubs it. In space there is nothing to rub, so the Moon keeps going.
 11. (match) Match each word to its meaning.  
    **Answer:** vacuum → a space with no air in it; free fall → falling with nothing holding you up; orbit → falling round something and always missing; escape speed → how fast you must go to leave a planet for ever. *Why:* These are four key words from this unit.
-12. (mcq) Two friends pull you with dupattas, one from each side. One pulls harder. Where is the still point now?  
-   Options: Nearer the stronger friend / Nearer the weaker friend / Exactly in the middle  
-   **Answer:** Nearer the weaker friend. *Why:* You must be closer to the weak pull for it to match the strong one. So the still point moves towards the weaker side. Between the Sun and the Earth, the still point is much nearer the Earth. Picking 'nearer the stronger' is a very natural first guess.
+12. (mcq) You pulled a dupatta tied to a closed door, and nothing moved. The door pulled back just as hard as you did. Who got tired?  
+   Options: Only you. The door held the force without using up energy / Only the door / You and the door, just the same  
+   **Answer:** Only you. The door held the force without using up energy. *Why:* Holding something still takes a force, but it does not use up energy. Your muscles use energy just to stay tight, so you get tired. Picking 'you and the door' is a fair guess, because the forces were equal. But the energy was used inside your muscles, not by the force itself. The Earth's gravity keeps hold of the Moon in the same tireless way.
 13. (sort) Sort these. Is it a TRUE fact about gravity, or a MYTH?  
    **Answer:** Heavy and light things fall together without air → True fact; There is no gravity in space → Myth; An apple hit Newton on the head → Myth; You pull the Earth as hard as it pulls you → True fact; Heavy things fall faster in a vacuum → Myth; Gravity bends light → True fact. *Why:* The myths are very common, even in some books. The facts have been tested.
 14. (write) Your friend says, 'Heavy things fall faster. I dropped a stone and a leaf, and the stone won.' What test would you show your friend? Explain what it proves.  
    **Answer:** I would drop a flat paper and a crumpled paper, which weigh the same. The crumpled one wins. So it is the shape and the air, not the weight. Then I would drop a full and an empty bottle together. They land together.. *Why:* A good answer changes only one thing at a time. It shows that the air, not the weight, slowed the leaf.
 15. (write) Why do you think people believed Aristotle for about 1,900 years without testing his idea?  
-   **Answer:** Any thoughtful answer. For example: he was very famous and clever, so people trusted him. Also, a stone really does beat a leaf, so the idea looked right. Nobody thought to change only one thing at a time.. *Why:* There is no single right answer. What counts is a reason.
+   **Answer:** Any thoughtful answer. For example: he was very famous and clever, so people trusted him. Also, a stone really does beat a leaf, so the idea looked right. Few people thought to test it by changing only one thing at a time.. *Why:* There is no single right answer. What counts is a reason.
 16. (forces) A small parachute with a toy is falling slowly at a steady speed. Show the forces on it.  
    Options: gravity / air resistance / push / floor pushes up  
    **Answer:** gravity down, air resistance up. *Why:* Gravity pulls the parachute down. The air pushes up on it. When it falls at a steady speed, the two forces are equal and balanced.
@@ -833,21 +839,21 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
    **Answer:** Gravity is a very weak force. *Why:* Gravity is far weaker than magnetism. It only feels strong because the Earth is so huge. Why gravity is so weak is an unsolved mystery. Picking 'magnets block gravity' is a fair guess. But the clip still has weight while the magnet holds it.
 8. (write) The space blanket used the Earth's gravity to make the dent. Why is that a problem, if we are using it to explain gravity?  
    **Answer:** The model uses gravity to explain gravity, so it cannot explain where gravity comes from. Real space also bends in every direction at once, not just downwards like a sheet.. *Why:* Every model gets some things wrong. Spotting where is real scientific thinking.
-9. (write) The Earth has held the Moon for billions of years and never got tired. What does this tell you about gravity?  
-   **Answer:** Gravity is not like a pull with arms. It uses up no energy. Einstein said heavy things bend space-time and other things just follow the bend, so nobody is really pulling.. *Why:* A good answer links 'never tired' to the idea that nobody is really pulling.
+9. (write) Your arm got tired holding a bag still. A door handle held the same bag for an hour and never got tired. What does this tell you about forces, and about the Earth and the Moon?  
+   **Answer:** Holding something still needs a force, but it does not use up energy. My arm got tired because my muscles use energy just to stay tight. The Earth's gravity has kept the Moon going round it for billions of years without running down, like the door handle.. *Why:* A good answer says that holding needs a force but not energy, and links this to the Earth and the Moon.
 10. (mcq) A bean is planted upside down in a jar. Which way does its root grow?  
    Options: Down, towards gravity / Up, the way it was pointing / Sideways  
-   **Answer:** Down, towards gravity. *Why:* Roots grow towards gravity, wherever the seed points. Heavy grains of starch settle in the root tip and show it which way is down. Picking 'up' means expecting the root to follow the seed's direction. Roots follow gravity instead.
+   **Answer:** Down, towards gravity. *Why:* Roots grow towards gravity, wherever the seed points. Most plant scientists think heavy grains of starch settle in the root tip and show it which way is down. Picking 'up' means expecting the root to follow the seed's direction. Roots follow gravity instead.
 11. (match) Match each person to what they found.  
    **Answer:** Brahmagupta, 628 CE → wrote that the Earth attracts bodies; Isaac Newton, 1687 → showed the same pull drops apples and holds the Moon; Henry Cavendish, 1798 → measured the pull between lead balls; Albert Einstein, 1915 → said heavy things bend space and time. *Why:* These people each found a piece of the gravity story.
-12. (mcq) Some physicists think gravity comes in tiny bits, like light comes in photons. What are these tiny bits called?  
+12. (mcq) Some physicists think gravity is carried by tiny particles, as light is carried by photons. What are these tiny particles called?  
    Options: Gravitons / Electrons / Atoms  
    **Answer:** Gravitons. *Why:* They are called gravitons. Nobody has ever found one, so we don't know if they exist. Picking 'electrons' or 'atoms' mixes them up with the building blocks of matter.
 13. (truefalse) Scientists know exactly what gravity is, deep down.  
    **Answer:** False. *Why:* False. Scientists know how gravity behaves extremely well. But they do not know what it is deep down. They also do not know how it fits with quantum physics, the science of the very tiny.
 14. (mcq) A ball is dropped down an imaginary tunnel right through the Earth, with no air. What happens?  
-   Options: It stops at the middle and stays there / It speeds up to the middle, shoots past, and nearly reaches the other side, then falls back / It falls out of the other side into space  
-   **Answer:** It speeds up to the middle, shoots past, and nearly reaches the other side, then falls back. *Why:* The ball speeds up all the way to the middle. Then it is moving so fast that it shoots past. After the middle, gravity pulls it back, so it slows down. It swings to and fro like a pendulum. Picking 'stops at the middle' forgets how fast it is going when it gets there.
+   Options: It stops at the middle and stays there / It speeds up to the middle, shoots past, and just reaches the other side, then falls back / It falls out of the other side into space  
+   **Answer:** It speeds up to the middle, shoots past, and just reaches the other side, then falls back. *Why:* The ball speeds up all the way to the middle. Then it is moving so fast that it shoots past. After the middle, gravity pulls it back, so it slows down and stops just as it reaches the other side. Then it falls back, and swings to and fro like a pendulum. Picking 'stops at the middle' forgets how fast it is going when it gets there.
 15. (write) Vera Rubin found that galaxies spin too fast for what we can see. Scientists think there is invisible 'dark matter', known only by its pull. How can we know something is there if we can never see it?  
    **Answer:** Any thoughtful answer. For example: we can see what it does. It pulls on stars, the way you can't see the wind but can see leaves move.. *Why:* There is no single right answer. Scientists still argue about dark matter.
 16. (write) Is gravity good or bad? Give one reason for each side.  
@@ -867,9 +873,9 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 2. (mcq) Which pulls on a feather?  
    Options: Gravity / Nothing, it is too light / Only the wind  
    **Answer:** Gravity. *Why:* Gravity pulls on everything with mass, even a feather. Picking 'too light' means thinking light things escape gravity. The feather still falls, so gravity is pulling it.
-3. (mcq) You drop a cricket ball and a tennis ball together from a balcony. What happens?  
-   Options: They land together / The cricket ball lands long before / The tennis ball lands first  
-   **Answer:** They land together. *Why:* They land together, or almost. Both are compact enough that the air hardly slows them. Picking 'the cricket ball long before' is Aristotle's old idea.
+3. (mcq) In the Drop Race, you drop a stack of ten coins and one coin together from a book. What happens?  
+   Options: They land together / The ten coins land long before / The one coin lands first  
+   **Answer:** They land together. *Why:* They land together, with one clink. Both are compact, so the air hardly slows them. Picking 'the ten coins long before' is Aristotle's old idea, that a thing ten times heavier falls ten times faster.
 4. (mcq) In a fair test of falling, what should you change?  
    Options: Only the thing you drop / The thing and the height / Everything  
    **Answer:** Only the thing you drop. *Why:* Change only one thing, here the thing you drop. Keep the height and the start the same. Picking 'the thing and the height' means you could not tell which change made the difference.
@@ -892,8 +898,8 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
    Options: True: everything pulls everything / False: only the Earth pulls / False: only big things pull  
    **Answer:** True: everything pulls everything. *Why:* Everything with mass pulls on everything else. You pull the Earth as hard as it pulls you. The Earth just hardly moves. Picking 'only big things pull' misses that small things pull too, only weakly.
 11. (mcq) In the space blanket, why did marbles roll towards the heavy ball?  
-   Options: They followed the dent it made in the sheet / The ball pulled them with a rope / The marbles were magnetic  
-   **Answer:** They followed the dent it made in the sheet. *Why:* Nobody pulled them. They just followed the bend. Einstein said gravity is like this: heavy things bend space-time. Picking 'a rope' is how Newton pictured gravity, as a pull.
+   Options: They rolled down into the dent it made in the sheet / The ball pulled them with a rope / The marbles were magnetic  
+   **Answer:** They rolled down into the dent it made in the sheet. *Why:* They rolled down into the dent the ball made in the sheet. Einstein said gravity works a little like this: mass bends space-time, and falling things follow the bend. Picking 'a rope' is close to Newton's picture of a force acting across space.
 12. (mcq) Why do astronauts float in the space station?  
    Options: They are falling round the Earth with the station / There is no gravity up there / They are lighter than air  
    **Answer:** They are falling round the Earth with the station. *Why:* Gravity is still about 9 tenths as strong there. They float because they fall together with the station. Picking 'no gravity' is the most common mistake about space.
@@ -905,7 +911,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
    **Answer:** Starlight bending as it passed the Sun. *Why:* Starlight bent near the Sun, as Einstein predicted. Gravity bends light, even though light has no mass. Picking 'stars falling' mixes this up with shooting stars, which are tiny rocks burning in the air.
 15. (mcq) How does a bean root know which way to grow?  
    Options: It senses gravity, using heavy grains in its tip / It grows towards light / It follows the shape of the jar  
-   **Answer:** It senses gravity, using heavy grains in its tip. *Why:* Roots feel gravity. Heavy starch grains settle in the root tip. Picking 'towards light' mixes roots up with shoots, which grow towards light and away from gravity.
+   **Answer:** It senses gravity, using heavy grains in its tip. *Why:* Roots sense gravity. Most plant scientists think heavy starch grains settling in the root tip show it which way is down. Picking 'towards light' mixes roots up with shoots, which grow towards light and away from gravity.
 16. (mcq) Do scientists know what gravity is, deep down?  
    Options: No, it is still a mystery / Yes, it is made of gravitons / Yes, it is air pressing down  
    **Answer:** No, it is still a mystery. *Why:* Scientists know how gravity behaves, but not what it is deep down. Gravitons are only an idea, never found. Picking 'air pressing down' is a common mix-up. Gravity works in empty space too.
@@ -916,9 +922,9 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 - Hydroelectric dams, like Bhakra Nangal, use falling water to make electricity.
 - Parachutes slow down skydivers, soldiers, supply drops and even spacecraft returning to Earth.
 - Pendulum clocks keep time because gravity swings the pendulum at a steady beat.
-- GPS satellites must correct their clocks every day for gravity's effect on time, or phone maps would be wrong by kilometres.
+- GPS satellite clocks are set to allow for gravity's effect on time, or phone maps would drift off by kilometres each day.
 - ISRO launches rockets from Sriharikota, burning fuel to fight gravity and reach orbit.
-- India's Aditya-L1 spacecraft studies the Sun from a Lagrange point, where pulls balance.
+- India's Aditya-L1 spacecraft studies the Sun from near a Lagrange point, where it stays in step with the Earth.
 - Spacecraft use the pull of planets to speed up and change direction for free. This is called a gravity assist, or slingshot.
 - Engineers test helmets, phone cases and car parts by dropping them from measured heights.
 - Plants use air resistance to spread their seeds. Engineers copy winged seeds to design drones.
@@ -939,10 +945,10 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 
 ## Open questions
 - **What is gravity, deep down?** Scientists can predict exactly how gravity behaves. But nobody knows what it is made of, or why mass bends space and time at all.
-- **Do gravitons exist?** Some physicists think gravity comes in tiny bits called gravitons. They would be so weak that no machine we can build could catch one.
+- **Do gravitons exist?** Some physicists think gravity is carried by tiny particles called gravitons. They would be so weak that no machine we can build could catch one.
 - **How do gravity and quantum physics fit together?** Einstein's theory works for planets and stars. Quantum physics works for atoms. Inside black holes, and at the very start of the universe, they disagree. Nobody has a theory that joins them.
 - **Why is gravity so much weaker than the other forces?** A small magnet beats the whole Earth's pull on a paper clip. Nobody knows why gravity is so weak.
-- **What is dark matter?** Galaxies spin as if there is much more stuff in them than we can see. We know it only by its pull. Nobody has caught a particle of it, and a few scientists think our law of gravity is what needs changing.
+- **What is dark matter?** Galaxies spin as if there is much more matter in them than we can see. We know it only by its pull. Nobody has caught a particle of it, and a few scientists think our law of gravity is what needs changing.
 - **Does gravity travel instantly, or does it take time?** Scientists now think gravity's changes travel at the speed of light. In 2017, gravitational waves and light from the same crash of two dead stars arrived almost together. But how gravity really 'travels' is still not fully understood.
 - **Is anything ever completely free of gravity?** The pull of every star and galaxy reaches everywhere, getting weaker with distance but never quite zero. Even the emptiest parts of space feel a tiny pull.
 - **Exactly how do plants sense which way is down?** Heavy starch grains in root tips play a big part. But plants with almost no starch grains can still find down, so scientists think there is more to it.
@@ -953,7 +959,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 - Why does a leaf take so long to fall, but a mango drops fast?
 - Is gravity pulling on you right now? Can you feel it? What tells you?
 - Are you pulling on the Earth right now?
-- Is the Earth tired from holding the Moon for billions of years?
+- Your arm gets tired holding a bag. Why does the Earth's gravity never get tired of holding on to the Moon?
 - If you jumped on the Moon, would you go higher or lower than here? Why?
 - Which way do roots grow, and how do they know?
 - If the clock upstairs ticks a tiny bit faster, which clock is right?
@@ -971,7 +977,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 - Why was the crumpled paper so fast? *It finally pulled itself together.*
 - What did the hammer say to the feather on the Moon? *See? We're equal here!*
 - Why did Galileo carry two stones everywhere? *He liked to drop a hint.*
-- Why did the student take a ladder to science class? *To get to a higher level of gravity.*
+- Why did the student bring a ladder to the lesson on falling? *She wanted to see if it would go over her head.*
 - How does the Moon cut its hair? *Eclipse it.*
 - Why is a plumb line never confused? *It always knows which way is down.*
 - What kind of music do planets like? *Neptunes.*
@@ -979,11 +985,11 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 - What's an astronaut's favourite part of a computer? *The space bar.*
 - Why did the mango fall from the tree? *It was a little too attached to the Earth.*
 - Why don't black holes ever go to parties? *They suck all the fun out.*
-- What did one Lagrange point say to the other? *Let's just stay balanced.*
+- What did one Lagrange point say to the other? *Let's stay in step.*
 - Why was the fluffy seed so calm? *It never rushed down for anything.*
 - Why did the clock go upstairs? *It wanted to run a tiny bit faster.*
 - What do you call an apple that never falls? *An a-peel to gravity.*
-- How do you know the Earth is a good friend? *It never lets you down. Well, it always pulls you down.*
+- How do you know gravity is a good friend? *It always keeps you grounded.*
 - Why did the egg join the Egg Lander club? *It wanted to drop in.*
 - Why was the satellite always calm? *It knew how to fall without hitting the ground.*
 - Why did Aristotle's idea fall flat? *Nobody gave it a fair test, until someone did.*
@@ -997,7 +1003,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 - On Galileo's Ramp, the marble had gone 10 cm after 1 beat, 40 cm after 2 beats and 90 cm after 3 beats. Look at the chart. Spot the pattern. How far will it have gone after 4 beats? **160 cm.**. Divide each distance by 10: 1, 4, 9. These are 1 × 1, 2 × 2 and 3 × 3. They are called square numbers. The next one is 4 × 4 = 16. Then multiply back by 10: 16 × 10 = 160 cm. Another way: the gaps are 10, 30, 50. Each gap is 20 more than the last. So the next gap is 70. 90 + 70 = 160. (queues `math.patterns.number-patterns.L3`)
 - Riya jumped three times. Her jumps were 22 cm, 27 cm and 25 cm high. Look at the chart. What was her best jump? How much higher was it than her lowest jump? **Her best jump was 27 cm. It was 5 cm higher than her lowest jump.**. Put the jumps in order: 22, 25, 27. The biggest is 27 cm. The smallest is 22 cm. 27 take away 22 is 5. So the best jump was 5 cm higher. (queues `math.length.standard-units-length.L3`)
 - In the Drop Race, a family did 12 drops. They heard one thud 10 times and two thuds 2 times. Make a tally chart. Then answer: what does the result tell you? **One thud: 10. Two thuds: 2. Most drops landed together, so heavy and light things fall together. The few two-thud drops were probably uneven starts.**. Draw tally marks in groups of five. One thud: two groups of five, so 10. Two thuds: two marks, so 2. 10 + 2 = 12, so every drop is counted. 10 out of 12 is most of them. (queues `math.data.sorting-and-tallies.L3`)
-- In the still-point game, the friend on the left pulls with a pull of 4. To keep you exactly still, how big must the right friend's pull be? Then the left friend pulls 6. What must the right friend pull now? **4, and then 6.**. You stay still only when the two pulls are equal and opposite. So 4 on the left needs 4 on the right: 4 = 4. When the left pull grows to 6, the right pull must also be 6. If the right friend pulled only 4, you would slide 2 towards the left, because 6 take away 4 is 2. (queues `math.algebra.balance-and-missing-numbers.L3`)
+- In A Force That Never Gets Tired, you and a grown-up pull a dupatta, and nobody moves. You pull with a force of 4. How big must the grown-up's force be? Then you pull with a force of 6. What must the grown-up's force be now, to keep everything still? **4, and then 6.**. Everything stays still only when the two forces are equal and opposite. So your force of 4 needs a force of 4 from the grown-up: 4 = 4. When your force grows to 6, the grown-up's must also be 6. If the grown-up kept pulling with only 4, the dupatta would slide 2 towards your side, because 6 take away 4 is 2. (queues `math.algebra.balance-and-missing-numbers.L3`)
 
 ## Song
 Gravity (sci.gravity.L3): The founder's Gravity song
@@ -1016,13 +1022,9 @@ Gravity (sci.gravity.L3): The founder's Gravity song
 - [A tall staircase, a balcony or a waterfall near you]() · place · anywhere: Every height is a gravity lab. With a grown-up, drop paper, seeds and parachutes, and watch water fall at a waterfall.
 
 ## Things to buy
-- [Digital stopwatch (or a phone stopwatch)](https://www.amazon.in/s?k=digital+stopwatch+for+kids) (tool): Times parachutes and falling seeds. A phone works just as well. Used in e3, a6, c2. 
-- [Measuring tape (1.5 metre)](https://www.amazon.in/s?k=measuring+tape+1.5+m) (tool): Measures jump heights and the marks on Galileo's Ramp. Used in a1, p1. 
 - [Glass marbles](https://www.amazon.in/s?k=glass+marbles+kids) (material): Roll along the space blanket and down Galileo's Ramp. Used in a2, p1. 
 - [A metre of stretchy lycra fabric](https://www.amazon.in/s?k=lycra+fabric+metre) (material): Makes a better space blanket than a bedsheet, because it dents deeply under a heavy ball. Used in a2. 
 - [Small strong magnets](https://www.amazon.in/s?k=small+magnets+for+kids+science) (tool): Lift a paper clip against the whole Earth's pull, to show how weak gravity is. Used in a8. 
-- [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): For the Falling Ruler test, and for measuring jumps. Used in e4, a1. 
-- [Steel thali or plate](https://www.amazon.in/s?k=steel+thali) (tool): Something hard and ringing to land on, so you can hear one clang or two in the Drop Race. Most homes already have one. Used in e1. 
 - [Gravity, by Jason Chin](https://www.amazon.in/s?k=Gravity+Jason+Chin) (book): A beautiful picture book. It asks what would happen if gravity stopped, and shows everything it holds together. Used in a2. If bought, read it on the first day after the story, before the space blanket.
 - [Starry Messenger, by Peter Sís](https://www.amazon.in/s?k=Starry+Messenger+Peter+Sis) (book): A picture-book life of Galileo. He asked the falling question, and was punished for his ideas about the sky. Used in e1, p1. If bought, read it before Galileo's Ramp. Its pages about Galileo replace the 'Who first found' card.
 
@@ -1037,7 +1039,7 @@ Gravity (sci.gravity.L3): The founder's Gravity song
 - Do you pull on the Earth? → Yes. Everything pulls everything.
 - Does gravity bend light? → Yes. Starlight bends as it passes near the Sun.
 - Which ticks slower: a clock upstairs or a clock downstairs? → The clock downstairs, by a tiny amount.
-- What are the tiny bits of gravity that nobody has found yet called? → Gravitons.
+- What are the tiny particles of gravity, which nobody has found yet, called? → Gravitons.
 
 ## Plan
 - Start options: story, e1, a2, big_questions, cards, g1, a1
@@ -1045,7 +1047,7 @@ Gravity (sci.gravity.L3): The founder's Gravity song
 - Core: e1, e2, e3, e4, a1, a2, a3, a4, a7, g1, p1, ws-core
 
 ## Sources
-- Founder's Gravity chapter, app/content/ideas/by_topic/gravity.md and gravity_points.json: the space-time blanket with big, small and equal balls (a2); 'everything pulls everything, the heavier ones succeed'; 'no one is actually pulling, no energy expended' with the tug of war (a3); 'Lagrange point: two pull you from either side' (a3); 'How high can you jump? Climb stairs, climb slide. Can you jump into the sky?' and escape velocity (a1); 'make an object float with no other material used'; 'drop crumpled and normal paper and one over other: air resistance vs gravity' (e2); 'paper parachute' force card (e3, g2); the ISS: weightless because nothing pushes, not because gravity is zero (explanations; the falling bottle itself is in the sibling Weight and mass unit); time dilation and the 'Time Dilation Story of 4 Sisters' (a5); 'Is gravity a quantum force? Gravitons?'; light bending and photons with energy; gurutva and gravitas; 'pick paper clip with magnet' (a8)
+- Founder's Gravity chapter, app/content/ideas/by_topic/gravity.md and gravity_points.json: the space-time blanket with big, small and equal balls (a2); 'everything pulls everything, the heavier ones succeed'; 'no one is actually pulling, no energy expended' with the tug of war (reworked in a3: a force that holds something still uses no energy); 'Lagrange point: two pull you from either side' (explained on the Lagrange card; the dupatta version was dropped, because two dupatta pulls do not weaken with distance); 'How high can you jump? Climb stairs, climb slide. Can you jump into the sky?' and escape velocity (a1); 'make an object float with no other material used'; 'drop crumpled and normal paper and one over other: air resistance vs gravity' (e2); 'paper parachute' force card (e3, g2); the ISS: weightless because nothing pushes, not because gravity is zero (explanations; the falling bottle itself is in the sibling Weight and mass unit); time dilation and the 'Time Dilation Story of 4 Sisters' (a5); 'Is gravity a quantum force? Gravitons?'; light bending and photons with energy; gurutva and gravitas; 'pick paper clip with magnet' (a8)
 - Founder's game packaging 'Set 3: Draw, Do, Answer, Verify (Do, Question and Answer cards, numbered)' and the sheets' 'Shuffle and Draw, perform as per cue' game, built as g2. The founder's Escape Gravity board game is played in the sibling unit Weight and mass; its force-card challenges (paper parachute, magnet and paper clip, feather in the air) appear here as DO cards
 - Founder's sheets: 'Judge and Jury' role-play game type, used for Aristotle on Trial (a7); drama ideas such as 'astronomers proving Einstein right in 1919'
 - Founder's gravity voices (gravity_voices.json): Kanada, Brahmagupta, Bhaskara II, Aristotle, John Philoponus, Simon Stevin, Galileo, Newton, Einstein, checked against ideas/ACCURACY.md (Rig Veda readings left out as debated)

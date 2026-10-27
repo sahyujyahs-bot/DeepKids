@@ -30,8 +30,8 @@
 - **Durable**: Lasts a long time, even when used again and again. *e.g.* A steel thali can be used every day for years. A paper plate is used once.
 - **Porous**: Full of tiny holes, called pores, that water or air can move through. *e.g.* A clay matka is porous. Water slowly seeps through it to the outside.
 - **Evaporation**: When a liquid slowly turns into a gas and goes into the air. Evaporation takes heat away, so it cools things down. *e.g.* Wet clothes dry on the line because the water evaporates. Your wet skin feels cool in a breeze.
-- **Composite**: A material made by joining two or more materials, so it has the good properties of both. *e.g.* Plywood is thin sheets of wood glued together. Bone is a natural composite of a bendy part and a hard part.
-- **Plastic**: A material made by people, mostly from oil and gas. It is made of very long chains of tiny particles. Plastics can be shaped into almost anything. *e.g.* Buckets, toothbrushes and pen bodies are usually plastic.
+- **Composite**: A material made by joining two or more materials, so it has good properties of each. *e.g.* Plywood is thin sheets of wood glued together. Bone is a natural composite of a bendy part and a hard part.
+- **Plastic**: A material made by people, mostly from oil and gas. It is made of very long chains of atoms joined together. Plastics can be shaped into almost anything. *e.g.* Buckets, toothbrushes and pen bodies are usually plastic.
 - **Atom**: The tiny building block that every material is made of. Atoms are far too small to see, even with an ordinary microscope. *e.g.* Your steel spoon is mostly iron atoms, packed together very tightly.
 - **Electron**: An even tinier particle on the outside of every atom. In metals, some electrons are free to move about, which is why metals carry heat and electricity so well. *e.g.* When one end of a steel spoon gets hot, its free electrons carry the heat along to the other end.
 - **Engineer**: A person who designs and builds things to solve problems. Choosing materials is a big part of an engineer's job. *e.g.* An engineer chooses steel and concrete for a bridge, and rubber for its joints.
@@ -69,7 +69,7 @@ Silly objects are a good way to think. A chocolate teapot would melt, because ch
 ### Pans and handles: conductors and insulators · *defined*
 **Definition:** A conductor of heat lets heat pass through it quickly. An insulator lets heat pass through only slowly. Most metals are good conductors. Wood, plastic, cloth, cork and air are good insulators.
 
-A kadhai must carry heat from the flame to the food, fast and evenly. So it is made of a metal, like iron, steel or aluminium. But the handle must keep heat away from your hand. So it is made of wood or a special hard plastic, which are insulators. The Hot Spoon Race in this unit shows the difference. Blobs of butter on a steel spoon in hot water melt fast. Blobs on a wooden spoon stay solid. Many pressure cookers have metal bodies and plastic handles for exactly this reason.
+A kadhai must carry heat from the flame to the food, fast and evenly. So it is made of a metal, like iron, steel or aluminium. But the handle must keep heat away from your hand. So it is made of wood or a special hard plastic, which are insulators. The Hot Spoon Race in this unit shows the difference. Butter stuck on the handle of a steel spoon standing in hot water melts within a few minutes. Butter on a wooden spoon stays solid. Many pressure cookers have metal bodies and plastic handles for exactly this reason.
 - e.g. A tawa is iron. Its handle is often wood.
 - e.g. A steel tumbler of hot chai is too hot to hold. A clay kulhad of the same chai is easy to hold.
 - e.g. Oven gloves are thick cloth with air trapped inside, which is a good insulator.
@@ -77,20 +77,20 @@ A kadhai must carry heat from the flame to the food, fast and evenly. So it is m
 **Definition:** Wool, cotton wool and feathers keep things warm because they trap lots of still air. Still air is a very good insulator. They do not make any heat themselves. They only slow heat down as it tries to escape.
 
 Your body makes heat all the time. Without a sweater, that heat leaks away into the cold air. A sweater is full of tiny pockets of air between its curly fibres. The trapped air cannot move about, so heat passes through it very slowly. So your own heat stays near you. Here is the surprise. Wrap an ice cube in a woollen sock and it melts more slowly than an ice cube left in the open. The sock keeps the room's heat out, just as it keeps your body's heat in. Insulators slow heat down in both directions.
-- e.g. A woollen sock keeps an ice cube frozen for longer than a bare plate does.
+- e.g. An ice cube inside a woollen sock stays frozen longer than one on a bare plate.
 - e.g. A quilt, a razai, is thick with cotton and air, so it keeps you warm on winter nights.
 - e.g. Birds fluff up their feathers on cold mornings, to trap more air.
 ### Why a clay matka keeps water cool · *defined*
 **Definition:** A clay matka is porous. Water seeps slowly through its tiny holes to the outside. There it evaporates, and evaporation takes heat away from the pot and the water inside.
 
 When a liquid evaporates, it needs heat to turn into a gas. It takes that heat from whatever it is touching. That is why you feel cool when you come out of a bath and stand in a breeze. A matka works the same way. Its outside is always a little damp. As that water evaporates, it takes heat from the pot. So the water inside stays cooler than the air. It works best in dry, breezy weather. In very damp, sticky weather, water evaporates slowly, so the matka cools less. A plastic or steel bottle has no pores, so this cannot happen.
-- e.g. In north Indian summers, families have kept drinking water in clay matkas and surahis for thousands of years.
+- e.g. In hot Indian summers, families have kept drinking water in clay matkas and surahis for thousands of years.
 - e.g. A wet cloth wrapped round a steel bottle in a breeze makes the water cooler, because the cloth's water evaporates.
 - e.g. Mansukhbhai Prajapati, a potter from Wankaner in Gujarat, used the same idea to make a whole clay fridge that needs no electricity. He called it Mitticool.
 ### Most objects are made of several materials · *defined*
 **Definition:** Most objects are made of several materials. Each material does the job its properties suit best.
 
-No single material can do everything, so designers put materials together. An umbrella has waterproof cloth to keep off rain. It has springy steel ribs to hold the cloth open. It has a plastic or wooden handle that is comfortable to hold. A pencil has soft graphite to leave a mark, wood to hold it and protect it, and paint so the wood does not get dirty. Sometimes two materials are joined so closely that they become a new material, called a composite. In 1823, a Scottish chemist, Charles Macintosh, made waterproof cloth by gluing two layers of cloth together with rubber in the middle. The cloth made it soft. The rubber made it waterproof. Raincoats are still called macintoshes in Britain.
+No single material can do everything, so designers put materials together. An umbrella has waterproof cloth to keep off rain. It has springy steel ribs to hold the cloth open. It has a plastic or wooden handle that is comfortable to hold. A pencil has soft graphite to leave a mark, wood to hold it and protect it, and paint so the wood does not get dirty. Sometimes two materials are joined so closely that they become a new material, called a composite. In 1823, a Scottish chemist, Charles Macintosh, made waterproof cloth by gluing two layers of cloth together with rubber in the middle. The cloth made it soft. The rubber made it waterproof. In Britain, a raincoat is still sometimes called a mackintosh, or a mac.
 - e.g. A bicycle uses steel for the frame, rubber for the tyres, leather or plastic for the seat, and oil to help the chain move.
 - e.g. A kurta button can be plastic, wood, coconut shell or metal, sewn on with cotton thread.
 - e.g. A school bag uses strong cloth, plastic zips, foam padding for your back and a waterproof lining.
@@ -104,7 +104,7 @@ Zoom into a steel spoon until you see its atoms. They are packed in neat rows. S
 ### Nature's clever materials · *defined*
 **Definition:** Living things make materials with amazing properties, at ordinary temperatures, from simple things like water, sugar and minerals. Copying them is called biomimicry.
 
-Bone is a composite. It mixes a bendy material called collagen with a hard mineral. The mineral alone would be brittle like chalk. The collagen alone would be floppy like jelly. Together, they make bone hard and tough. A lotus leaf stays clean in muddy ponds. Its surface is covered in tiny waxy bumps, so water rolls off in balls and carries the dirt away. In 1997, two German botanists, Wilhelm Barthlott and Christoph Neinhuis, explained this and called it the lotus effect. Now some paints and glass use the same trick. Spider silk is light, stretchy and very tough. Scientists have tried for years to make it in factories, using bacteria, yeast and even goats.
+Bone is a composite. It mixes a bendy material called collagen with a hard mineral. The mineral alone would be brittle like chalk. The collagen alone would bend like rubber. Together, they make bone hard and tough. A lotus leaf stays clean in muddy ponds. Its surface is covered in tiny waxy bumps, so water rolls off in balls and carries the dirt away. In 1997, two German botanists, Wilhelm Barthlott and Christoph Neinhuis, explained this and called it the lotus effect. Now some paints and glass use the same trick. Spider silk is light, stretchy and very tough. Scientists have tried for years to make it in factories, using bacteria, yeast and even goats.
 - e.g. The shiny inside of a seashell, called mother-of-pearl, is made of tiny flat tiles of mineral glued with a bendy material, like bricks and cement.
 - e.g. Your tooth enamel is the hardest material in your body.
 - e.g. Velcro was invented after a Swiss engineer, George de Mestral, looked closely at burrs stuck to his dog's fur.
@@ -114,7 +114,7 @@ Bone is a composite. It mixes a bendy material called collagen with a hard miner
 Many spacecraft are wrapped in a shiny gold or silver blanket. It is many thin layers of plastic coated with metal, with gaps between them. The shiny layers reflect the Sun's heat. The gaps stop heat from passing through. India's Chandrayaan-3 lander, which landed near the Moon's south pole in 2023, wore a blanket like this. The James Webb Space Telescope, launched in 2021, has mirrors made of a light metal called beryllium. Beryllium keeps its shape even when it is extremely cold. The mirrors are coated with a layer of gold far thinner than a hair, because gold reflects the kind of light the telescope looks for. Some spacecraft also use aerogel, a solid so light it is mostly air. It is one of the best insulators ever made.
 - e.g. A NASA spacecraft called Stardust used aerogel to catch tiny grains of comet dust and bring them back to Earth in 2006.
 - e.g. Space suits have many layers. One holds air in, some reflect heat, and the outer layer stops sharp dust from cutting through.
-- e.g. Rocket nozzles are made of materials that do not melt even when fiercely hot gas rushes through them.
+- e.g. Rocket nozzles are made of materials that can stand fiercely hot gas rushing through them without melting.
 ### Plastic: wonder material or problem? · *debated*
 Plastic is cheap, light, waterproof and can be shaped into anything. That is why it is everywhere. But it is also durable, and that is the problem. Most plastics take a very long time to break down. So thrown-away plastic piles up in fields, rivers and the sea. People disagree about what to do.
 - e.g. Plastic drips, gloves and syringes in hospitals keep medicines clean and stop germs spreading.
@@ -127,7 +127,7 @@ Every material on Earth is made of atoms. Where did the atoms come from? Scienti
 - e.g. The iron in your blood and in your steel tumbler was once inside a star.
 - e.g. The calcium in your bones was made in stars too.
 - **Many astronomers, for a long time:** Gold was made mainly when giant stars exploded. These explosions are called supernovas.
-- **Many astronomers today:** In 2017, telescopes watched two dead, super-heavy stars, called neutron stars, crash together. The crash seemed to make heavy atoms like gold. So much of the gold on Earth may come from crashes like this.
+- **Many astronomers today:** In 2017, telescopes watched two neutron stars crash together. A neutron star is the small, very heavy core left after a giant star explodes. The crash seemed to make heavy atoms like gold. So much of the gold on Earth may come from crashes like this.
 - **Other scientists:** Both kinds of event probably make some gold. How much comes from each is still being worked out.
 ### Materials that are still being invented · *idea*
 Some jobs still need materials nobody has made well yet. Scientists have many ideas, and some are working in laboratories. Nobody knows yet which ones will reach our homes.
@@ -171,11 +171,11 @@ Some jobs still need materials nobody has made well yet. Scientists have many id
 ## Roots
 We have been learning why we choose each material for its job. Now we ask what materials tell us about ourselves and the world.
 
-**Deep truth.** A woollen sock squeezed in your fist shrinks to a small lump, because most of it is air. That still air, caught between the fibres, does most of the work of slowing heat. A matka cools water because water seeps out through tiny holes in its clay and evaporates. So the gaps in a material often do its most important job.  
+**Deep truth.** A woollen sock squeezed in your fist shrinks to a small lump, because most of it is air. That still air, caught between the fibres, does most of the work of slowing heat. A matka cools water only because its clay has tiny holes that let water seep out and evaporate. So the gaps in a material often do its most important job.  
 *Habit it breaks:* We think a material works because of what it is made of, so we call wool warm and clay cool. But much of the work is done by its gaps, such as the still air between wool's fibres and the tiny holes in baked clay.  
 *Evidence:* In the sweater test, the ice cube inside a woollen sock lasted about twice as long as a bare one, though wool makes no heat. Squeezed, the same sock shrinks to a small lump, which shows it is mostly air. In the Matka Mystery, the outside of the clay pot is damp, because water seeps out through its pores.
 
-- *who am i:* Your bones are full of tiny spaces too. The spaces make bone lighter without making it weak.
+- *who am i:* Your bones are full of tiny spaces too. The spaces make bone lighter, and it stays strong.
 - *what is life:* Birds fluff up their feathers on cold mornings to hold more still air. Living things used the trapped-air trick long before people did.
 - *what is this world:* The iron in your spoon was made in stars, long before the Earth formed.
 
@@ -214,7 +214,7 @@ Our teacher was Stanzin Sir. He was new, and young, and he came from Leh, where 
 
 My mother's kitchen was different. It was the warmest room I knew. Its walls were thick mud bricks, as thick as my arm is long. In the afternoon the sun came through the small window and lay across the wall like a sleeping cat. In the evening, after the sun had gone, I would lean my back on that wall. It was still warm. 'How does the wall remember the sun?' I asked my mother. She laughed and said, 'Mud is slow. It takes the heat slowly and gives it back slowly.'
 
-On the school bus to the market in Leh, I noticed something else. The windows were shut and the sun poured in. My gloves came off. My cap came off. Outside, the wind was sharp as a knife. Inside the bus, behind the glass, it was almost like summer.
+On the bus to the market in Leh, I noticed something else. The windows were shut and the sun poured in. My gloves came off. My cap came off. Outside, the wind was sharp as a knife. Inside the bus, behind the glass, it was almost like summer.
 
 I told Stanzin Sir. I told him about the mud wall that remembered the sun, and about the warm bus. He listened with his head on one side. Then he said, 'Let's test it.' We took two of my mother's steel cups and filled them with the same cold water. We put both on a dark flat stone in the sun. Over one cup, we put an upside-down glass jar. After the morning, the water under the jar was much warmer. The water in the open cup was barely warmer at all. 'The glass lets the sunlight in,' said Stanzin Sir, 'and stops the warm air from blowing away.'
 
@@ -296,25 +296,25 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 ### e1 · The Hot Spoon Race (30 min)
 - **question:** Which spoon carries heat up to your hand fastest: steel, plastic or wood?
 - **predict:** Before you start, line up the three spoons. Put the one you think will melt its butter first at the front, and the one you think will melt it last at the back. Then say why you put them in that order.
-- **fair test:** To make it fair, change only the spoon's material. Use the same size of butter blob on each spoon, at the same height above the water. Stand all three spoons in the same tumbler of hot water at the same moment. Time them with the same clock.
-- **safety:** A grown-up pours the hot water and keeps the jug steady. Do not touch the spoons in the water. Use water that is hot, not boiling, and stand the jug on a flat, steady surface.
+- **fair test:** To make it fair, change only the spoon's material. Use the same size of butter blob on each spoon, at the same height, one finger-width above the rim of the mug. Stand all three spoons in the same mug of hot water at the same moment. Time them with the same clock.
+- **safety:** A grown-up pours the hot water and keeps the mug steady. Do not touch the spoons in the water. Use water that is hot, not boiling, and stand the mug on a flat, steady surface.
 - **record:** Fill in the table. Then draw a bar for each spoon, as tall as the minutes it took. If a blob never melted, draw the bar to the top and write 'did not melt'.
 - **results table:** Spoon | Minutes until the butter melted and slid | How the top of the spoon felt after 10 minutes
-- **s1 (4 min)**  
+- **s1 (3 min)**  
   *Parent does:* 1. Put the three spoons on the table. 2. Ask your child to hold each one and say how it feels. 3. Ask them to line up the spoons, from 'will melt its butter first' to 'will melt it last'.  
   *Parent says:* We are going to race these spoons. Not with legs. With heat. Which spoon do you think will carry heat up to its top fastest?  
   *Child mode:* Look at the steel, plastic and wooden spoons. Hold each one. Which will get hot fastest at the top? Line them up.
   - Ask: Why did you put that spoon first? (good: It is metal, and metal pans get hot.; Steel tumblers get hot with hot chai in them.)
-- **s2 (5 min)**  
-  *Parent does:* 1. Stand the three spoons in the empty tumbler, handles up. 2. Put a pea-sized blob of cold butter on each handle, two finger-widths above where the water will come. 3. Press a dried pea or a bead into each blob. 4. Put one more blob on a plate beside the tumbler. 5. Check all the blobs are the same size and the same height.  
+- **s2 (4 min)**  
+  *Parent does:* 1. Stand the three spoons in the empty mug, handles up. 2. Put a pea-sized blob of cold butter on each handle, one finger-width above the rim of the mug. 3. Press a dried pea or a bead into each blob. 4. Put one more blob on a plate beside the mug. 5. Check all the blobs are the same size and the same height.  
   *Parent says:* The pea will fall off when the butter melts. That is our finish line. The blobs must match, so the race is fair. The blob on the plate tells us if the room alone is warm enough to melt butter.  
-  *Child mode:* Put a little blob of butter on each spoon handle. Push a pea into each blob. Make all the blobs the same size and height. Put one more blob on a plate.
-  - Note: If the blobs are different sizes, a small blob melts first anyway, and the test stops being fair. Cold butter from the fridge sticks best. On a very hot day, butter softens even on a plate. If the plate blob melts within 15 minutes, do the race in the coolest room, or in the early morning.
-- **s3 (12 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up lifts the spoons out. 2. The grown-up pours hot water into the tumbler until it is about two-thirds full. 3. Stand all three spoons back in at the same moment. 4. Start the timer. 5. Write down the time each pea falls.  
+  *Child mode:* Stand the spoons in the empty mug. Put a little butter on each handle, just above the rim. Push a pea into each blob. Make them all the same. Put one more blob on a plate.
+  - Note: If the blobs are different sizes, a small blob melts first anyway, and the test stops being fair. Cold butter from the fridge sticks best. Keeping the blobs above the rim keeps them out of the steam. On a very hot day, butter softens even on a plate. If the plate blob melts within 15 minutes, do the race in the coolest room, or in the early morning.
+- **s3 (15 min) · grown-up needed**  
+  *Parent does:* 1. A grown-up lifts the spoons out. 2. The grown-up pours hot water into the mug until it is one finger-width below the rim. 3. Stand all three spoons back in at the same moment. 4. Start the timer. 5. Write down the time each pea falls.  
   *Parent says:* Go! Now we watch. Call out the moment a pea drops.  
   *Child mode:* Ask a grown-up to pour the hot water. Stand the spoons in it. Start the timer. Shout when a pea falls! Write down the time.
-  - Note: Steel usually wins in 3 to 6 minutes. Plastic and wood both carry heat slowly. Often neither of their blobs melts before 15 minutes. Sometimes one melts late, softened by steam rising from the water. Stop after 15 minutes. Then let the spoons cool a little and feel the handles: the steel is warm, the wood is cool.
+  - Note: Steel usually wins in 2 to 6 minutes. Plastic and wood both carry heat slowly. Often neither of their blobs melts before 15 minutes. Sometimes one melts late, softened by steam rising from the water. Stop after 15 minutes. Then let the spoons cool a little and feel the handles: the steel is warm, the wood is cool. If even the steel blob has not melted after 8 minutes, the water was not hot enough or the spoon is very thin. Try again with hotter water.
 - **s4 (4 min)**  
   *Parent does:* Help your child draw a bar chart, one bar for each spoon.  
   *Parent says:* Let's turn our times into a picture. A taller bar means a longer wait.  
@@ -325,7 +325,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Parent says:* Now look at our kadhai. Which part should be like the steel spoon? Which part should be like the wooden one?  
   *Child mode:* Look at a pan in your kitchen. Which part is like the steel spoon? Which part is like the wooden spoon? Why?
   - Think: Why are a chef's spoons for stirring hot dal often wooden?
-- **s6 (3 min)**  
+- **s6 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. What do you think now about steel, plastic and wood? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
@@ -341,17 +341,17 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Parent does:* 1. Ask your child to put on a sweater or wrap a shawl around their arm. 2. Ask: why does it feel warm? 3. Write down their answer.  
   *Parent says:* Put on your sweater. Does it feel warm? Where does the warmth come from? Is the sweater making heat?  
   *Child mode:* Put on a sweater. Do you feel warm? Where does that warmth come from? Does the sweater make it?
-  - Ask: Where does the warmth come from? (good: From the sweater.; From me.; The sweater keeps it in.)
+  - Ask: Where does the warmth come from? (good: From my body.; The sweater keeps my own heat in.; Any guess is fine here, if the child gives a reason. The test will check it.)
 - **s2 (5 min)**  
   *Parent does:* 1. Squeeze the dry woollen sock in your fist, then let it go. 2. Put one ice cube on a bare saucer. 3. Wrap one in foil. 4. Put one inside the steel tumbler on a saucer. 5. Push one deep inside the woollen sock and lay it on a saucer. 6. Note the time.  
   *Parent says:* Squeeze the sock. See how small it gets? Most of a sock is air, caught between the wool fibres. Now, if the sock makes heat, it should melt its ice cube fastest. Let's find out.  
   *Child mode:* Squeeze the sock in your fist. How small does it get? Most of it is air! Put one ice cube on a plate. Wrap one in foil. Put one in the tumbler. Hide one in the sock. Note the time!
   - Note: Children nearly always predict the sock will melt the ice fastest. Do not correct them. Let the test do it.
 - **s3 (10 min)**  
-  *Parent does:* 1. Every 10 minutes, look at each ice cube. 2. For the sock, gently peep inside. 3. Write down when each one has fully melted. Keep checking until all four have melted. This can take over an hour.  
+  *Parent does:* 1. Every 10 minutes, look at each ice cube. 2. For the sock, gently peep inside. 3. Write down when each one has fully melted. Keep checking until all four have melted. The sock's ice can take one to two hours.  
   *Parent says:* Let's check. Which ice cube is smallest now? Which is biggest?  
   *Child mode:* Every 10 minutes, check each ice cube. Peep inside the sock. Which one is melting fastest? Which is still big?
-  - Note: Usually the bare cube melts first and the sock cube lasts much longer, often twice as long. Foil sometimes helps a little, because it is shiny.
+  - Note: Usually the bare cube melts first and the sock cube lasts much longer, often twice as long. Foil sometimes helps a little, because it is shiny. If you used a towel instead of wool, the result is the same: the towel cube lasts longer, because a thick towel also traps air.
 - **s4 (4 min)**  
   *Parent does:* Draw a bar chart of how long each ice cube lasted.  
   *Parent says:* Let's draw a bar for each wrapping. The tallest bar lasted longest.  
@@ -658,7 +658,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 12. (write) Charles Macintosh made the first rubber raincoat cloth in 1823. He put rubber between two layers of cloth. Why not just use rubber on its own, or cloth on its own?  
    **Answer:** Cloth on its own soaks up rain, so you get wet. Rubber on its own is waterproof but sticky, and uncomfortable on skin. Together, the rubber keeps the water out and the cloth makes it soft and strong.. *Why:* A good answer gives one weak point of each material, and says how joining them fixes both.
 13. (write) Your friend says 'Plastic is the best material, because it is waterproof and cheap.' Give two jobs where plastic would be a bad choice, and say why.  
-   **Answer:** For example: the bottom of a cooking pot, because plastic would melt on the gas. A woollen blanket's job, because plastic does not trap air well and feels sweaty. A wedding plate in a field, because plastic does not rot away.. *Why:* Any two jobs where a property of plastic causes a problem are right.
+   **Answer:** For example: the bottom of a cooking pot, because plastic would melt on the gas. A winter blanket, because a plastic sheet traps no air and does not let sweat out. A wedding plate in a field, because plastic does not rot away.. *Why:* Any two jobs where a property of plastic causes a problem are right.
 14. (order) Put these in order, from the best conductor of heat to the worst: wood, copper, wool, steel.  
    **Answer:** order shown. *Why:* Copper carries heat best of the four. Steel is a good conductor too, but not as good as copper. Wood is an insulator. Fluffy wool, with its trapped air, is an even better insulator.
 15. (draw) Design a lunch box that keeps food warm until lunchtime. Label at least three materials, and say what each one does.  
@@ -679,7 +679,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
    Options: The shiny layers reflect the Sun's heat, and the gaps stop heat passing through / It makes the lander heavier, so it does not float away / It is only for decoration / It makes heat to keep the lander warm  
    **Answer:** The shiny layers reflect the Sun's heat, and the gaps stop heat passing through. *Why:* Shiny surfaces bounce heat away. The empty gaps between layers slow heat down, a bit like the trapped air in a sweater. Picking 'makes heat' is the same mix-up as the sweater idea. The blanket makes no heat. It slows heat down.
 5. (truefalse) Bone is a natural composite: a bendy material and a hard mineral working together.  
-   **Answer:** True. *Why:* True. The mineral alone would be brittle, like chalk. The bendy collagen alone would be floppy. Together they make bone hard and tough.
+   **Answer:** True. *Why:* True. The mineral alone would be brittle, like chalk. The bendy collagen alone would bend like rubber. Together they make bone hard and tough.
 6. (mcq) Water rolls off a lotus leaf in balls and carries dirt away. What is the leaf's secret?  
    Options: Tiny waxy bumps on its surface / The leaf is made of plastic / The leaf is always hot / The leaf is magnetic  
    **Answer:** Tiny waxy bumps on its surface. *Why:* The leaf is covered in tiny waxy bumps. Water touches only the tips of the bumps, so it cannot spread out. It beads up and rolls away. Scientists copied this to make self-cleaning paint. Picking 'plastic' is a fair guess because plastic is waterproof. But the secret is the bumpy waxy surface.
@@ -771,7 +771,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 ## Applications
 - Cooking pots, tawas and pressure cookers are metal, because metal carries heat to the food.
 - Pan handles, oven gloves and tea cosies use insulators, like wood, plastic, thick cloth and wool.
-- Clay matkas, surahis and kulhads keep water and chai cool or easy to hold, because clay is porous and an insulator.
+- Clay matkas and surahis keep water cool, because clay is porous. A clay kulhad is easy to hold with hot chai inside, because clay carries heat slowly.
 - Electric wires have copper inside to carry electricity, and plastic outside to keep it from reaching your hand.
 - Windows, spectacles and phone screens use transparent glass or plastic.
 - Raincoats, umbrellas and tarpaulins use waterproof materials, often cloth coated with plastic or rubber.
@@ -792,7 +792,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - Banana leaves used as plates at a feast or a temple meal.
 - Coir doormats and coir ropes, made from rough, strong coconut husk fibre.
 - Bamboo scaffolding around a building being built, strong, light and bendy.
-- A woollen pheran or shawl in winter, trapping warm air.
+- A woollen pheran or shawl in winter, trapping still air.
 - Shiny steel tiffins carried in cloth bags by Mumbai's dabbawalas.
 
 ## Open questions
@@ -866,9 +866,8 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 - [ISRO](https://www.isro.gov.in) · interactive: India's space agency. Look at photographs of Chandrayaan-3 and spot the shiny gold-coloured blanket wrapped around the lander.
 
 ## Things to buy
-- [A kitchen or bath thermometer (0 to 100 degrees)](https://www.amazon.in/s?k=kitchen+thermometer+for+kids) (tool): Measures water temperature fairly, because your hand can be fooled. Used in the Matka Mystery, the Clay Pot Cooler and Keep the Chai Hot. Used in e3, p1, c1. Used again in the Heat and States of Matter units.
+- [A kitchen or bath thermometer (0 to 100 degrees)](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): Measures water temperature fairly, because your hand can be fooled. Used in the Matka Mystery, the Clay Pot Cooler and Keep the Chai Hot. Used in e3, p1, c1. Used again in the Heat and States of Matter units.
 - [Small unglazed clay pots (one that fits inside another)](https://www.amazon.in/s?k=small+clay+pot+unglazed) (material): For the Matka Mystery and the Clay Pot Cooler. A local potter or a pot seller at the market often has them cheaply. Used in e3, p1. 
-- [A simple kitchen timer or stopwatch](https://www.amazon.in/s?k=kitchen+timer+digital) (tool): Times the Hot Spoon Race, the melting ice cubes and Be the Atoms. A phone timer works too. Used in e1, e2, a6. 
 - [Rosie Revere, Engineer, by Andrea Beaty](https://www.amazon.in/s?k=Rosie+Revere+Engineer+Andrea+Beaty) (book): A picture book about a girl who builds inventions from odds and ends, and learns that a failed design is a step forward. Ages 5 to 9. Used in c1, c2. If bought, read it before the first design challenge, Keep the Chai Hot.
 - [The Most Magnificent Thing, by Ashley Spires](https://www.amazon.in/s?k=The+Most+Magnificent+Thing+Ashley+Spires) (book): A picture book about a girl who tries again and again to make something from materials, until it works. Ages 4 to 8. Used in a3. If bought, read it on the day of Take It Apart.
 - [Stuff Matters, by Mark Miodownik](https://www.amazon.in/s?k=Stuff+Matters+Mark+Miodownik) (book): For the parent. A materials scientist explains steel, paper, glass, plastic and more, with true stories. Read parts aloud. Used in g1. If bought, the parent reads the chapters on steel and plastic before playing Hire a Material.

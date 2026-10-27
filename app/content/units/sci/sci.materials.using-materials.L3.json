@@ -122,13 +122,13 @@
   },
   {
    "term": "Composite",
-   "meaning": "A material made by joining two or more materials, so it has the good properties of both.",
+   "meaning": "A material made by joining two or more materials, so it has good properties of each.",
    "example": "Plywood is thin sheets of wood glued together. Bone is a natural composite of a bendy part and a hard part.",
    "art": "A piece of plywood showing its layers, beside a bone cut open."
   },
   {
    "term": "Plastic",
-   "meaning": "A material made by people, mostly from oil and gas. It is made of very long chains of tiny particles. Plastics can be shaped into almost anything.",
+   "meaning": "A material made by people, mostly from oil and gas. It is made of very long chains of atoms joined together. Plastics can be shaped into almost anything.",
    "example": "Buckets, toothbrushes and pen bodies are usually plastic.",
    "art": "A bucket, a toothbrush and a pen, and a zoom showing long tangled chains like noodles."
   },
@@ -218,7 +218,7 @@
    "concept": "Pans and handles: conductors and insulators",
    "status": "defined",
    "definition": "A conductor of heat lets heat pass through it quickly. An insulator lets heat pass through only slowly. Most metals are good conductors. Wood, plastic, cloth, cork and air are good insulators.",
-   "description": "A kadhai must carry heat from the flame to the food, fast and evenly. So it is made of a metal, like iron, steel or aluminium. But the handle must keep heat away from your hand. So it is made of wood or a special hard plastic, which are insulators. The Hot Spoon Race in this unit shows the difference. Blobs of butter on a steel spoon in hot water melt fast. Blobs on a wooden spoon stay solid. Many pressure cookers have metal bodies and plastic handles for exactly this reason.",
+   "description": "A kadhai must carry heat from the flame to the food, fast and evenly. So it is made of a metal, like iron, steel or aluminium. But the handle must keep heat away from your hand. So it is made of wood or a special hard plastic, which are insulators. The Hot Spoon Race in this unit shows the difference. Butter stuck on the handle of a steel spoon standing in hot water melts within a few minutes. Butter on a wooden spoon stays solid. Many pressure cookers have metal bodies and plastic handles for exactly this reason.",
    "examples": [
     "A tawa is iron. Its handle is often wood.",
     "A steel tumbler of hot chai is too hot to hold. A clay kulhad of the same chai is easy to hold.",
@@ -235,7 +235,7 @@
    "definition": "Wool, cotton wool and feathers keep things warm because they trap lots of still air. Still air is a very good insulator. They do not make any heat themselves. They only slow heat down as it tries to escape.",
    "description": "Your body makes heat all the time. Without a sweater, that heat leaks away into the cold air. A sweater is full of tiny pockets of air between its curly fibres. The trapped air cannot move about, so heat passes through it very slowly. So your own heat stays near you. Here is the surprise. Wrap an ice cube in a woollen sock and it melts more slowly than an ice cube left in the open. The sock keeps the room's heat out, just as it keeps your body's heat in. Insulators slow heat down in both directions.",
    "examples": [
-    "A woollen sock keeps an ice cube frozen for longer than a bare plate does.",
+    "An ice cube inside a woollen sock stays frozen longer than one on a bare plate.",
     "A quilt, a razai, is thick with cotton and air, so it keeps you warm on winter nights.",
     "Birds fluff up their feathers on cold mornings, to trap more air."
    ],
@@ -250,7 +250,7 @@
    "definition": "A clay matka is porous. Water seeps slowly through its tiny holes to the outside. There it evaporates, and evaporation takes heat away from the pot and the water inside.",
    "description": "When a liquid evaporates, it needs heat to turn into a gas. It takes that heat from whatever it is touching. That is why you feel cool when you come out of a bath and stand in a breeze. A matka works the same way. Its outside is always a little damp. As that water evaporates, it takes heat from the pot. So the water inside stays cooler than the air. It works best in dry, breezy weather. In very damp, sticky weather, water evaporates slowly, so the matka cools less. A plastic or steel bottle has no pores, so this cannot happen.",
    "examples": [
-    "In north Indian summers, families have kept drinking water in clay matkas and surahis for thousands of years.",
+    "In hot Indian summers, families have kept drinking water in clay matkas and surahis for thousands of years.",
     "A wet cloth wrapped round a steel bottle in a breeze makes the water cooler, because the cloth's water evaporates.",
     "Mansukhbhai Prajapati, a potter from Wankaner in Gujarat, used the same idea to make a whole clay fridge that needs no electricity. He called it Mitticool."
    ],
@@ -263,7 +263,7 @@
    "concept": "Most objects are made of several materials",
    "status": "defined",
    "definition": "Most objects are made of several materials. Each material does the job its properties suit best.",
-   "description": "No single material can do everything, so designers put materials together. An umbrella has waterproof cloth to keep off rain. It has springy steel ribs to hold the cloth open. It has a plastic or wooden handle that is comfortable to hold. A pencil has soft graphite to leave a mark, wood to hold it and protect it, and paint so the wood does not get dirty. Sometimes two materials are joined so closely that they become a new material, called a composite. In 1823, a Scottish chemist, Charles Macintosh, made waterproof cloth by gluing two layers of cloth together with rubber in the middle. The cloth made it soft. The rubber made it waterproof. Raincoats are still called macintoshes in Britain.",
+   "description": "No single material can do everything, so designers put materials together. An umbrella has waterproof cloth to keep off rain. It has springy steel ribs to hold the cloth open. It has a plastic or wooden handle that is comfortable to hold. A pencil has soft graphite to leave a mark, wood to hold it and protect it, and paint so the wood does not get dirty. Sometimes two materials are joined so closely that they become a new material, called a composite. In 1823, a Scottish chemist, Charles Macintosh, made waterproof cloth by gluing two layers of cloth together with rubber in the middle. The cloth made it soft. The rubber made it waterproof. In Britain, a raincoat is still sometimes called a mackintosh, or a mac.",
    "examples": [
     "A bicycle uses steel for the frame, rubber for the tyres, leather or plastic for the seat, and oil to help the chain move.",
     "A kurta button can be plastic, wood, coconut shell or metal, sewn on with cotton thread.",
@@ -291,7 +291,7 @@
    "concept": "Nature's clever materials",
    "status": "defined",
    "definition": "Living things make materials with amazing properties, at ordinary temperatures, from simple things like water, sugar and minerals. Copying them is called biomimicry.",
-   "description": "Bone is a composite. It mixes a bendy material called collagen with a hard mineral. The mineral alone would be brittle like chalk. The collagen alone would be floppy like jelly. Together, they make bone hard and tough. A lotus leaf stays clean in muddy ponds. Its surface is covered in tiny waxy bumps, so water rolls off in balls and carries the dirt away. In 1997, two German botanists, Wilhelm Barthlott and Christoph Neinhuis, explained this and called it the lotus effect. Now some paints and glass use the same trick. Spider silk is light, stretchy and very tough. Scientists have tried for years to make it in factories, using bacteria, yeast and even goats.",
+   "description": "Bone is a composite. It mixes a bendy material called collagen with a hard mineral. The mineral alone would be brittle like chalk. The collagen alone would bend like rubber. Together, they make bone hard and tough. A lotus leaf stays clean in muddy ponds. Its surface is covered in tiny waxy bumps, so water rolls off in balls and carries the dirt away. In 1997, two German botanists, Wilhelm Barthlott and Christoph Neinhuis, explained this and called it the lotus effect. Now some paints and glass use the same trick. Spider silk is light, stretchy and very tough. Scientists have tried for years to make it in factories, using bacteria, yeast and even goats.",
    "examples": [
     "The shiny inside of a seashell, called mother-of-pearl, is made of tiny flat tiles of mineral glued with a bendy material, like bricks and cement.",
     "Your tooth enamel is the hardest material in your body.",
@@ -309,7 +309,7 @@
    "examples": [
     "A NASA spacecraft called Stardust used aerogel to catch tiny grains of comet dust and bring them back to Earth in 2006.",
     "Space suits have many layers. One holds air in, some reflect heat, and the outer layer stops sharp dust from cutting through.",
-    "Rocket nozzles are made of materials that do not melt even when fiercely hot gas rushes through them."
+    "Rocket nozzles are made of materials that can stand fiercely hot gas rushing through them without melting."
    ],
    "perspectives": [],
    "art": "A Moon lander wrapped in a crinkly gold blanket, and a giant telescope with gold hexagon mirrors floating in space.",
@@ -355,7 +355,7 @@
     },
     {
      "who": "Many astronomers today",
-     "explanation": "In 2017, telescopes watched two dead, super-heavy stars, called neutron stars, crash together. The crash seemed to make heavy atoms like gold. So much of the gold on Earth may come from crashes like this."
+     "explanation": "In 2017, telescopes watched two neutron stars crash together. A neutron star is the small, very heavy core left after a giant star explodes. The crash seemed to make heavy atoms like gold. So much of the gold on Earth may come from crashes like this."
     },
     {
      "who": "Other scientists",
@@ -541,7 +541,7 @@
    "Our school was one room with concrete walls and a tin roof. The concrete was always cold, like a stone pulled out of the river. The tin roof was the worst. When I touched the nail heads on the ceiling beam, they bit my fingers with cold. We kept on our caps, our gloves, two sweaters each and our long woollen gonchas, and still our noses ran.",
    "Our teacher was Stanzin Sir. He was new, and young, and he came from Leh, where people have heaters. He lit the kerosene stove each morning. It filled the room with smoke and made a small warm circle around itself. The children nearest the stove coughed. The children by the window shivered. Nobody learned anything except how to be cold.",
    "My mother's kitchen was different. It was the warmest room I knew. Its walls were thick mud bricks, as thick as my arm is long. In the afternoon the sun came through the small window and lay across the wall like a sleeping cat. In the evening, after the sun had gone, I would lean my back on that wall. It was still warm. 'How does the wall remember the sun?' I asked my mother. She laughed and said, 'Mud is slow. It takes the heat slowly and gives it back slowly.'",
-   "On the school bus to the market in Leh, I noticed something else. The windows were shut and the sun poured in. My gloves came off. My cap came off. Outside, the wind was sharp as a knife. Inside the bus, behind the glass, it was almost like summer.",
+   "On the bus to the market in Leh, I noticed something else. The windows were shut and the sun poured in. My gloves came off. My cap came off. Outside, the wind was sharp as a knife. Inside the bus, behind the glass, it was almost like summer.",
    "I told Stanzin Sir. I told him about the mud wall that remembered the sun, and about the warm bus. He listened with his head on one side. Then he said, 'Let's test it.' We took two of my mother's steel cups and filled them with the same cold water. We put both on a dark flat stone in the sun. Over one cup, we put an upside-down glass jar. After the morning, the water under the jar was much warmer. The water in the open cup was barely warmer at all. 'The glass lets the sunlight in,' said Stanzin Sir, 'and stops the warm air from blowing away.'",
    "So we made a plan. It was the biggest plan our village had ever made for a classroom. On the sunny south wall, we would put a big window of glass. Behind it, a thick mud wall, painted dark, to drink the sunlight and store its heat, like my mother's kitchen. And under the tin roof, a deep layer of straw and sawdust.",
    "Old Abi-le, who had lived through seventy winters, shook her head. 'Glass is cold,' she said. 'Touch a window in January. It burns your hand like ice.' She was right. I touched the bus window that week and it was freezing. But the sunlight still came through it. Glass is cold to touch, but it is clear. That was the job we needed it for.",
@@ -864,7 +864,7 @@
      "a": 1,
      "why": "The plastic used for handles is an insulator of heat. It stops the heat of the pot from reaching your hand. Picking 'melts easily' is a sensible worry. That is why handles use special hard plastics that can stand some heat.",
      "how": "e1",
-     "context": "In the Hot Spoon Race, you stand a steel spoon, a wooden spoon and a plastic spoon in hot water, and see which one gets hot fastest."
+     "context": "In the Hot Spoon Race, you stand a steel spoon, a wooden spoon and a plastic spoon in hot water, and see which one carries heat up its handle fastest."
     },
     {
      "t": "sort",
@@ -1044,7 +1044,7 @@
      ],
      "a": 0,
      "why": "The butter on the steel spoon melted first, after only 4 minutes. So steel carried heat up the spoon fastest. Steel is a metal, and metals are good conductors. Picking 'wooden' usually means the tallest bar was read as fastest. Here a taller bar means a longer wait, so the tallest bar is the slowest.",
-     "context": "In the Hot Spoon Race, you stick a blob of butter near the top of each spoon and stand the spoons in hot water. You time how long each blob takes to melt and slide.",
+     "context": "In the Hot Spoon Race, you stick a blob of butter on the handle of each spoon, just above the rim of the mug and stand the spoons in hot water. You time how long each blob takes to melt and slide.",
      "how": "e1",
      "chart": {
       "type": "bar",
@@ -1083,7 +1083,7 @@
      "a": 0,
      "why": "In a fair test, you change only one thing, here the material. A bigger blob, or one lower down, would melt at a different time, even on the same spoon. Picking 'it does not matter' means the test could not tell us which material really carries heat best.",
      "how": "e1",
-     "context": "In the Hot Spoon Race, you stick a blob of butter near the top of each spoon and stand the spoons in hot water."
+     "context": "In the Hot Spoon Race, you stick a blob of butter on the handle of each spoon, just above the rim of the mug and stand the spoons in hot water."
     },
     {
      "t": "truefalse",
@@ -1261,13 +1261,13 @@
      "lines": 4,
      "a": "Cloth on its own soaks up rain, so you get wet. Rubber on its own is waterproof but sticky, and uncomfortable on skin. Together, the rubber keeps the water out and the cloth makes it soft and strong.",
      "why": "A good answer gives one weak point of each material, and says how joining them fixes both.",
-     "context": "Raincoats are still called macintoshes in Britain, after the Scottish chemist who made the first waterproof cloth."
+     "context": "In Britain, a raincoat is still sometimes called a mackintosh, after Charles Macintosh, the Scottish chemist who made the first rubber waterproof cloth."
     },
     {
      "t": "write",
      "p": "Your friend says 'Plastic is the best material, because it is waterproof and cheap.' Give two jobs where plastic would be a bad choice, and say why.",
      "lines": 4,
-     "a": "For example: the bottom of a cooking pot, because plastic would melt on the gas. A woollen blanket's job, because plastic does not trap air well and feels sweaty. A wedding plate in a field, because plastic does not rot away.",
+     "a": "For example: the bottom of a cooking pot, because plastic would melt on the gas. A winter blanket, because a plastic sheet traps no air and does not let sweat out. A wedding plate in a field, because plastic does not rot away.",
      "why": "Any two jobs where a property of plastic causes a problem are right."
     },
     {
@@ -1361,7 +1361,7 @@
      "t": "truefalse",
      "p": "Bone is a natural composite: a bendy material and a hard mineral working together.",
      "a": true,
-     "why": "True. The mineral alone would be brittle, like chalk. The bendy collagen alone would be floppy. Together they make bone hard and tough."
+     "why": "True. The mineral alone would be brittle, like chalk. The bendy collagen alone would bend like rubber. Together they make bone hard and tough."
     },
     {
      "t": "mcq",
@@ -1506,10 +1506,10 @@
    "title": "The Hot Spoon Race",
    "mins": 30,
    "days": 1,
-   "context": "This is the Hot Spoon Race. You stick a small blob of butter near the top of a steel spoon, a plastic spoon and a wooden spoon. Then you stand them in hot water and time which blob melts first. It shows which material carries heat best.",
+   "context": "This is the Hot Spoon Race. You stick a small blob of butter on the handle of a steel spoon, a plastic spoon and a wooden spoon. Then you stand them in a mug of hot water and time which blob melts first. It shows which material carries heat best.",
    "question": "Which spoon carries heat up to your hand fastest: steel, plastic or wood?",
    "predict": "Before you start, line up the three spoons. Put the one you think will melt its butter first at the front, and the one you think will melt it last at the back. Then say why you put them in that order.",
-   "fair_test": "To make it fair, change only the spoon's material. Use the same size of butter blob on each spoon, at the same height above the water. Stand all three spoons in the same tumbler of hot water at the same moment. Time them with the same clock.",
+   "fair_test": "To make it fair, change only the spoon's material. Use the same size of butter blob on each spoon, at the same height, one finger-width above the rim of the mug. Stand all three spoons in the same mug of hot water at the same moment. Time them with the same clock.",
    "results_table": [
     "Spoon",
     "Minutes until the butter melted and slid",
@@ -1517,7 +1517,7 @@
    ],
    "materials": [
     {
-     "item": "a steel spoon, a sturdy plastic spoon and a wooden spoon, about the same length (a thin throwaway plastic spoon may bend in hot water)",
+     "item": "a steel spoon, a sturdy plastic spoon (a serving spoon or a baby's feeding spoon) and a wooden spoon, each long enough to stick out above the rim of the mug (a thin throwaway plastic spoon may bend in hot water)",
      "qty": 3
     },
     {
@@ -1529,20 +1529,19 @@
      "qty": 3
     },
     {
-     "item": "a tall steel tumbler or a heatproof jug",
+     "item": "a steel mug, a jug or a deep bowl that will not tip over when three spoons lean in it",
      "qty": 1
     },
     {
-     "item": "hot water from a kettle, poured by a grown-up",
+     "item": "hot water, about as hot as fresh chai, from a kettle or heated in a pan, poured by a grown-up",
      "qty": 1
     },
     {
      "item": "a clock, phone timer or stopwatch",
-     "qty": 1,
-     "buy": "b-timer"
+     "qty": 1
     }
    ],
-   "safety": "A grown-up pours the hot water and keeps the jug steady. Do not touch the spoons in the water. Use water that is hot, not boiling, and stand the jug on a flat, steady surface.",
+   "safety": "A grown-up pours the hot water and keeps the mug steady. Do not touch the spoons in the water. Use water that is hot, not boiling, and stand the mug on a flat, steady surface.",
    "schedule": [
     {
      "day": 1,
@@ -1554,7 +1553,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Put the three spoons on the table. 2. Ask your child to hold each one and say how it feels. 3. Ask them to line up the spoons, from 'will melt its butter first' to 'will melt it last'.",
      "say": "We are going to race these spoons. Not with legs. With heat. Which spoon do you think will carry heat up to its top fastest?",
      "kid": "Look at the steel, plastic and wooden spoons. Hold each one. Which will get hot fastest at the top? Line them up.",
@@ -1571,20 +1570,20 @@
     },
     {
      "id": "s2",
-     "mins": 5,
-     "do": "1. Stand the three spoons in the empty tumbler, handles up. 2. Put a pea-sized blob of cold butter on each handle, two finger-widths above where the water will come. 3. Press a dried pea or a bead into each blob. 4. Put one more blob on a plate beside the tumbler. 5. Check all the blobs are the same size and the same height.",
+     "mins": 4,
+     "do": "1. Stand the three spoons in the empty mug, handles up. 2. Put a pea-sized blob of cold butter on each handle, one finger-width above the rim of the mug. 3. Press a dried pea or a bead into each blob. 4. Put one more blob on a plate beside the mug. 5. Check all the blobs are the same size and the same height.",
      "say": "The pea will fall off when the butter melts. That is our finish line. The blobs must match, so the race is fair. The blob on the plate tells us if the room alone is warm enough to melt butter.",
-     "kid": "Put a little blob of butter on each spoon handle. Push a pea into each blob. Make all the blobs the same size and height. Put one more blob on a plate.",
-     "parent": "If the blobs are different sizes, a small blob melts first anyway, and the test stops being fair. Cold butter from the fridge sticks best. On a very hot day, butter softens even on a plate. If the plate blob melts within 15 minutes, do the race in the coolest room, or in the early morning."
+     "kid": "Stand the spoons in the empty mug. Put a little butter on each handle, just above the rim. Push a pea into each blob. Make them all the same. Put one more blob on a plate.",
+     "parent": "If the blobs are different sizes, a small blob melts first anyway, and the test stops being fair. Cold butter from the fridge sticks best. Keeping the blobs above the rim keeps them out of the steam. On a very hot day, butter softens even on a plate. If the plate blob melts within 15 minutes, do the race in the coolest room, or in the early morning."
     },
     {
      "id": "s3",
-     "mins": 12,
-     "do": "1. A grown-up lifts the spoons out. 2. The grown-up pours hot water into the tumbler until it is about two-thirds full. 3. Stand all three spoons back in at the same moment. 4. Start the timer. 5. Write down the time each pea falls.",
+     "mins": 15,
+     "do": "1. A grown-up lifts the spoons out. 2. The grown-up pours hot water into the mug until it is one finger-width below the rim. 3. Stand all three spoons back in at the same moment. 4. Start the timer. 5. Write down the time each pea falls.",
      "say": "Go! Now we watch. Call out the moment a pea drops.",
      "kid": "Ask a grown-up to pour the hot water. Stand the spoons in it. Start the timer. Shout when a pea falls! Write down the time.",
      "adult": true,
-     "parent": "Steel usually wins in 3 to 6 minutes. Plastic and wood both carry heat slowly. Often neither of their blobs melts before 15 minutes. Sometimes one melts late, softened by steam rising from the water. Stop after 15 minutes. Then let the spoons cool a little and feel the handles: the steel is warm, the wood is cool."
+     "parent": "Steel usually wins in 2 to 6 minutes. Plastic and wood both carry heat slowly. Often neither of their blobs melts before 15 minutes. Sometimes one melts late, softened by steam rising from the water. Stop after 15 minutes. Then let the spoons cool a little and feel the handles: the steel is warm, the wood is cool. If even the steel blob has not melted after 8 minutes, the water was not hot enough or the spoon is very thin. Try again with hotter water."
     },
     {
      "id": "s4",
@@ -1638,7 +1637,7 @@
     },
     {
      "id": "s6",
-     "mins": 3,
+     "mins": 2,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now about steel, plastic and wood? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
@@ -1671,15 +1670,15 @@
    },
    "setup": [
     {
-     "art": "A steel spoon, a plastic spoon and a wooden spoon lying side by side, each with a small blob of butter and a dried pea near the top of the handle.",
-     "caption": "1. Put a pea-sized blob of butter near the top of each spoon. Press a pea into each."
+     "art": "A steel spoon, a plastic spoon and a wooden spoon lying side by side, each with a small blob of butter and a dried pea on the handle.",
+     "caption": "1. Put a pea-sized blob of butter on the handle of each spoon. Press a pea into each."
     },
     {
-     "art": "A grown-up's hand pouring hot water from a kettle into a steel jug, the three spoons standing up in it with their butter ends in the air.",
+     "art": "A grown-up's hand pouring hot water from a kettle into a steel mug, the three spoons leaning in it with their butter blobs just above the rim.",
      "caption": "2. A grown-up pours hot water. Stand all three spoons in it at once."
     },
     {
-     "art": "The tumbler of spoons with the pea sliding off the steel spoon, a phone timer showing 4 minutes, the other peas still in place.",
+     "art": "The mug of spoons with the pea sliding off the steel spoon, a phone timer showing 4 minutes, the other peas still in place.",
      "caption": "3. Time how long each pea takes to fall."
     }
    ]
@@ -1704,7 +1703,7 @@
      "qty": 4
     },
     {
-     "item": "a dry woollen sock or a small piece of an old sweater",
+     "item": "a dry woollen sock or a small piece of an old sweater. If you have no wool, use a thick towel folded into a pocket, and say so when you record it.",
      "qty": 1
     },
     {
@@ -1721,8 +1720,7 @@
     },
     {
      "item": "a clock or phone timer",
-     "qty": 1,
-     "buy": "b-timer"
+     "qty": 1
     }
    ],
    "safety": "Wipe up melted water so nobody slips.",
@@ -1730,7 +1728,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Wrap the ice cubes, guess, and check them every 10 minutes until all have melted, which can take over an hour. Read the explanation cards or do the Lotus Leaf activity while you wait."
+     "what": "Wrap the ice cubes, guess, and check them every 10 minutes until all have melted, which can take one to two hours. Read the explanation cards or do the Lotus Leaf activity while you wait."
     }
    ],
    "record": "Fill in the table. Draw a bar for each wrapping, as tall as the minutes its ice lasted.",
@@ -1745,9 +1743,9 @@
       {
        "q": "Where does the warmth come from?",
        "good": [
-        "From the sweater.",
-        "From me.",
-        "The sweater keeps it in."
+        "From my body.",
+        "The sweater keeps my own heat in.",
+        "Any guess is fine here, if the child gives a reason. The test will check it."
        ]
       }
      ],
@@ -1764,10 +1762,10 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Every 10 minutes, look at each ice cube. 2. For the sock, gently peep inside. 3. Write down when each one has fully melted. Keep checking until all four have melted. This can take over an hour.",
+     "do": "1. Every 10 minutes, look at each ice cube. 2. For the sock, gently peep inside. 3. Write down when each one has fully melted. Keep checking until all four have melted. The sock's ice can take one to two hours.",
      "say": "Let's check. Which ice cube is smallest now? Which is biggest?",
      "kid": "Every 10 minutes, check each ice cube. Peep inside the sock. Which one is melting fastest? Which is still big?",
-     "parent": "Usually the bare cube melts first and the sock cube lasts much longer, often twice as long. Foil sometimes helps a little, because it is shiny."
+     "parent": "Usually the bare cube melts first and the sock cube lasts much longer, often twice as long. Foil sometimes helps a little, because it is shiny. If you used a towel instead of wool, the result is the same: the towel cube lasts longer, because a thick towel also traps air."
     },
     {
      "id": "s4",
@@ -1896,11 +1894,11 @@
      "qty": 2
     },
     {
-     "item": "a jug of tap water",
+     "item": "a jug of tap water, filled an hour before, so it is the same temperature as the room",
      "qty": 1
     },
     {
-     "item": "a kitchen or bath thermometer. Without one, dip a finger in each container: a difference of a few degrees can be felt.",
+     "item": "a kitchen or bath thermometer. Without one, dip a finger in one container, then quickly in the next: a difference of a few degrees can be felt.",
      "qty": 1,
      "buy": "b-thermometer"
     },
@@ -2478,8 +2476,7 @@
     },
     {
      "item": "a clock or phone timer",
-     "qty": 1,
-     "buy": "b-timer"
+     "qty": 1
     },
     {
      "item": "3 or more players, or teddies and cushions to make up the line",
@@ -2561,7 +2558,7 @@
      "buy": "b-claypot"
     },
     {
-     "item": "clean sand, enough to fill the gap",
+     "item": "clean sand, enough to fill the gap (a plant nursery sells it). Without sand, pack the gap tightly with an old wet towel.",
      "qty": 1
     },
     {
@@ -2976,7 +2973,7 @@
    "why": "Steel is a metal, and metals carry heat quickly up the handle. Picking 'wooden' usually means the result was not yet linked to conductors. The wooden spoon's butter often never melts at all.",
    "outcome": 1,
    "how": "e1",
-   "context": "In the Hot Spoon Race, you put butter near the top of a steel, a plastic and a wooden spoon, and stand them in hot water."
+   "context": "In the Hot Spoon Race, you put butter on the handle of a steel, a plastic and a wooden spoon, and stand them in hot water."
   },
   {
    "t": "mcq",
@@ -3101,7 +3098,7 @@
    "why": "In a fair test, you change only one thing. A smaller blob would melt sooner, even on the same spoon. Picking 'it does not matter' means the result could not be trusted.",
    "outcome": 5,
    "how": "e1",
-   "context": "In the Hot Spoon Race, you put butter near the top of three spoons and stand them in hot water."
+   "context": "In the Hot Spoon Race, you put butter on the handle of three spoons and stand them in hot water."
   },
   {
    "t": "mcq",
@@ -3189,7 +3186,7 @@
  "applications": [
   "Cooking pots, tawas and pressure cookers are metal, because metal carries heat to the food.",
   "Pan handles, oven gloves and tea cosies use insulators, like wood, plastic, thick cloth and wool.",
-  "Clay matkas, surahis and kulhads keep water and chai cool or easy to hold, because clay is porous and an insulator.",
+  "Clay matkas and surahis keep water cool, because clay is porous. A clay kulhad is easy to hold with hot chai inside, because clay carries heat slowly.",
   "Electric wires have copper inside to carry electricity, and plastic outside to keep it from reaching your hand.",
   "Windows, spectacles and phone screens use transparent glass or plastic.",
   "Raincoats, umbrellas and tarpaulins use waterproof materials, often cloth coated with plastic or rubber.",
@@ -3229,7 +3226,7 @@
    "art": "Bamboo scaffolding tied together around a building."
   },
   {
-   "text": "A woollen pheran or shawl in winter, trapping warm air.",
+   "text": "A woollen pheran or shawl in winter, trapping still air.",
    "art": "A person in a woollen pheran in snow."
   },
   {
@@ -3384,7 +3381,7 @@
    "answer": "The plastic spoon took 10 minutes longer. The wooden spoon took at least 11 minutes longer than the steel one, and maybe much more.",
    "explain": "The plastic spoon took 14 minutes and the steel spoon took 4. 14 take away 4 is 10. The wooden spoon's butter had not melted at 15 minutes. 15 take away 4 is 11. So the wood took at least 11 minutes longer. We cannot say exactly how much longer, because we stopped watching.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
-   "context": "In the Hot Spoon Race, you stick butter near the top of a steel, a plastic and a wooden spoon, stand them in hot water, and time how long each blob takes to melt.",
+   "context": "In the Hot Spoon Race, you stick butter on the handle of a steel, a plastic and a wooden spoon, stand them in hot water, and time how long each blob takes to melt.",
    "chart": {
     "type": "bar",
     "title": "Minutes until the butter blob melted (made-up results)",
@@ -3643,7 +3640,7 @@
    "item": "A kitchen or bath thermometer (0 to 100 degrees)",
    "kind": "tool",
    "why": "Measures water temperature fairly, because your hand can be fooled. Used in the Matka Mystery, the Clay Pot Cooler and Keep the Chai Hot.",
-   "url": "https://www.amazon.in/s?k=kitchen+thermometer+for+kids",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+thermometer",
    "used_in": [
     "e3",
     "p1",
@@ -3660,18 +3657,6 @@
    "used_in": [
     "e3",
     "p1"
-   ]
-  },
-  {
-   "id": "b-timer",
-   "item": "A simple kitchen timer or stopwatch",
-   "kind": "tool",
-   "why": "Times the Hot Spoon Race, the melting ice cubes and Be the Atoms. A phone timer works too.",
-   "url": "https://www.amazon.in/s?k=kitchen+timer+digital",
-   "used_in": [
-    "e1",
-    "e2",
-    "a6"
    ]
   },
   {
@@ -3838,12 +3823,12 @@
  "roots": {
   "context": "We have been learning why we choose each material for its job. Now we ask what materials tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A woollen sock squeezed in your fist shrinks to a small lump, because most of it is air. That still air, caught between the fibres, does most of the work of slowing heat. A matka cools water because water seeps out through tiny holes in its clay and evaporates. So the gaps in a material often do its most important job.",
+   "truth": "A woollen sock squeezed in your fist shrinks to a small lump, because most of it is air. That still air, caught between the fibres, does most of the work of slowing heat. A matka cools water only because its clay has tiny holes that let water seep out and evaporate. So the gaps in a material often do its most important job.",
    "habit": "We think a material works because of what it is made of, so we call wool warm and clay cool. But much of the work is done by its gaps, such as the still air between wool's fibres and the tiny holes in baked clay.",
    "evidence": "In the sweater test, the ice cube inside a woollen sock lasted about twice as long as a bare one, though wool makes no heat. Squeezed, the same sock shrinks to a small lump, which shows it is mostly air. In the Matka Mystery, the outside of the clay pot is damp, because water seeps out through its pores."
   },
   "three": {
-   "who_am_i": "Your bones are full of tiny spaces too. The spaces make bone lighter without making it weak.",
+   "who_am_i": "Your bones are full of tiny spaces too. The spaces make bone lighter, and it stays strong.",
    "what_is_life": "Birds fluff up their feathers on cold mornings to hold more still air. Living things used the trapped-air trick long before people did.",
    "what_is_this_world": "The iron in your spoon was made in stars, long before the Earth formed."
   },
