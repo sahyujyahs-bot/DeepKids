@@ -4,23 +4,23 @@
  "level": 3,
  "playtest": "Checked at home in thought, step by step. The coin pull works on a wooden or laminate table with thin school notebooks: one notebook usually needs 5 to 10 five-rupee coins, and a stack of two needs about twice as many. If one notebook needs more than 12 coins, use thinner notebooks or a smoother table. If it slides with no coins, the cup is too heavy. A cushion under the cup stops coins rolling away. Counts vary by a coin or two between tries, which is why each test is done 3 times. The water version needs a medicine cup or jug with millilitre marks. A real forcemeter is needed only for the Go deeper parts.",
  "summary": {
-  "text": "How many coins does it take to pull a notebook across a table? You and your cousin can both count carefully and still get different numbers. Both of you can be right. That puzzle is why the whole world agreed to share one unit of force, the newton. You will invent your own unit, meet the forcemeter, and follow pulls from a molecule in your body to the Moon.",
+  "text": "How many coins does it take to pull a notebook across a table? You and your cousin can both count carefully and still get different numbers. Both of you can be right. That puzzle is why the whole world agreed to share one unit of force, the newton. You will invent your own unit and meet the forcemeter. Then you will follow pulls from a molecule in your body to the Moon.",
   "art": "A child holding a spring forcemeter with an apple hanging from its hook, the pointer on 1 N. Behind her is a ladder of pictures from a feather up to a rocket."
  },
  "intro": {
-  "hook": "Close your eyes. Hold a 100 gram packet in one hand and a 1 kilogram packet of atta in the other. How many times harder does the big one pull? Now, how could you tell a friend in another city exactly how hard it pulls, so she could feel the same pull?",
+  "hook": "Close your eyes. Hold a 100 gram packet in one hand and a 1 kilogram packet of atta in the other. How many times harder does the big one pull? Now, how could you tell a friend in another city exactly how hard it pulls?",
   "text": "Words like 'heavy' and 'light' don't travel well. Your 'heavy' may be your grandmother's 'light'. A shopkeeper selling rice, a builder hanging a bridge and a doctor testing your grip all need something better. They need a number that means the same thing to everyone. Where does such a number come from? Nature does not print numbers on things. You will start by making up your own unit of pull. Then you will find out what goes wrong when other people make up theirs.",
   "art": "A child with eyes closed holding a small packet in one hand and a big atta packet in the other, a big question mark above."
  },
  "outcomes": [
-  "I can invent my own unit of pull, such as 'how many coins it takes', and use it to compare pulls.",
-  "I can explain why two careful people can get different numbers for the same pull, and why everyone needs one agreed unit.",
-  "I can say that forces are counted in newtons, and that one newton is about the pull of a small apple. I can explain that the newton is an agreement between people.",
+  "I can invent my own unit of pull, such as 'one coin', and use it to compare pulls.",
+  "I can explain why two careful people can get different numbers for one pull. I can say why we need one agreed unit.",
+  "I can say that forces are counted in newtons. One newton is about the pull of a small apple. I can explain that the newton is an agreement between people.",
   "I can use a forcemeter properly. I check the zero, pull steadily, read the scale at eye level and write the unit.",
   "I can explain how a forcemeter works: a spring stretches more when the pull is bigger.",
-  "I can make a guess with a reason, test it fairly, and say what I think, what I saw and why.",
+  "I can make a guess with a reason and test it fairly. I can say what I think, what I saw and why.",
   "I can explain that weight is a force, so the same bag would give a smaller number on the Moon.",
-  "I can say what a force does, what a push is underneath, and what scientists still do not know about forces."
+  "I can say what a force does and what a push is underneath. I can name something scientists still do not know about forces."
  ],
  "cards_mins": 20,
  "terms": [
@@ -105,7 +105,7 @@
   {
    "term": "Calibrate",
    "meaning": "To put the marks on a tool by testing it with things you already know.",
-   "example": "You hang a 100 gram packet on your homemade forcemeter and mark that place '1 N', because 100 grams pulls with about 1 newton.",
+   "example": "You hang a 100 gram packet on your homemade forcemeter. You mark that place '1 N', because 100 grams pulls with about 1 newton.",
    "art": "A rubber band forcemeter with a packet hanging and a hand drawing the 1 N mark."
   },
   {
@@ -162,11 +162,11 @@
    "concept": "A unit is one small pull, counted again and again",
    "status": "defined",
    "definition": "To put a number on a pull, choose one small pull that never changes. Then count how many of them match the big pull. That small pull is your unit.",
-   "description": "In the coin-pull test, each coin of one kind pulls down on the cup by the same amount. So 'six coins' means 'six of the same small pull'. That is all a unit is. You can choose almost anything, as long as it stays the same every time. Coins of one kind work. A mix of coins and buttons does not, because a button pulls less than a coin. People have always done this. Indian goldsmiths used the bright red seed of the gunja plant as a tiny unit of weight, called a ratti. One ratti is about a tenth of a gram. Some jewellers still say 'ratti' today.",
+   "description": "In the coin-pull test, each coin of one kind pulls down on the cup by the same amount. So 'six coins' means 'six of the same small pull'. That is all a unit is. You can choose almost anything, as long as it stays the same every time. Coins of one kind work. A mix of coins and buttons does not, because a button pulls less than a coin. People have always done this. Indian goldsmiths used the bright red seed of the gunja plant as a tiny unit of weight, called a ratti. One ratti is a little more than a tenth of a gram. Some jewellers still say 'ratti' today. Gunja seeds are poisonous if chewed, so never put one in your mouth.",
    "examples": [
     "Six five-rupee coins started the notebook sliding. The unit was 'one five-rupee coin'.",
     "Counting your steps across a room uses 'one of my steps' as a unit of length.",
-    "A ratti seed was a unit of weight for gold, because the seeds are all about the same size."
+    "A ratti seed was a unit of weight for gold. People chose these seeds because they look very alike."
    ],
    "perspectives": [],
    "art": "A row of bright red gunja seeds beside a row of identical coins, and a notebook pulled by a cup of coins.",
@@ -190,7 +190,7 @@
    "concept": "The newton: one unit the whole world shares",
    "status": "defined",
    "definition": "Scientists everywhere count force in newtons. The short way to write newtons is N. One newton is about the pull of a small apple on your hand.",
-   "description": "The newton is named after Isaac Newton, an English scientist who explained how forces change movement in a book of 1687. Countries agreed to call the unit 'the newton' in 1948. One newton is a small force. A small apple, or a 100 gram packet of tea, pulls on your hand with about 1 newton. So does 100 millilitres of water. A 1 litre bottle of water pulls with about 10 newtons. The newton is not something you can dig up or find in nature. It is an agreement. Because everyone keeps the same agreement, a pull in Pune and a pull in Paris can be compared.",
+   "description": "The newton is named after Isaac Newton, an English scientist. In a book of 1687, he explained how forces change movement. Countries agreed to call the unit 'the newton' in 1948. One newton is a small force. A small apple, or a 100 gram packet of tea, pulls on your hand with about 1 newton. So does 100 millilitres of water. A 1 litre bottle of water pulls with about 10 newtons. The newton is not something you can dig up or find in nature. It is an agreement. Because everyone keeps the same agreement, a pull in Pune and a pull in Paris can be compared.",
    "examples": [
     "A 100 gram packet of biscuits pulls down with about 1 newton.",
     "A 1 litre bottle of water pulls down with about 10 newtons.",
@@ -233,7 +233,7 @@
    "concept": "What does a force do?",
    "status": "defined",
    "definition": "A force changes how something moves, or changes its shape. A force is not needed to keep something moving.",
-   "description": "About 2,350 years ago, the Greek thinker Aristotle taught that things need a push to keep moving. Stop pushing a cart, and it stops. For about 2,000 years, most people agreed. Then Galileo Galilei, in Italy in the early 1600s, rolled balls down a slope and onto a smooth floor. The smoother the floor, the further the ball rolled. He reasoned that on a perfectly smooth floor it would roll for ever. The cart stops because friction pulls back on it, not because the push runs out. In 1687, Isaac Newton wrote this down as a rule. A force changes movement. This gave a deep way to say how big a force is. One newton is the push that makes a 1 kilogram thing speed up by 1 metre per second, every second. This works only if nothing rubs or pulls back.",
+   "description": "About 2,350 years ago, the Greek thinker Aristotle taught that things need a push to keep moving. Stop pushing a cart, and it stops. For about 2,000 years, most people agreed. Then Galileo Galilei, in Italy in the early 1600s, rolled balls down a slope and onto a smooth floor. The smoother the floor, the further the ball rolled. He reasoned that on a perfectly smooth floor it would roll for ever. The cart stops because friction pulls back on it, not because the push runs out. In 1687, Isaac Newton wrote this down as a rule. A force changes movement. This gave a way to say exactly how big a force is. One newton is the push that makes a 1 kilogram thing speed up by 1 metre per second, every second. This works only if nothing rubs or pulls back.",
    "examples": [
     "A bigger kick makes the same football speed up faster.",
     "The same push makes an empty trolley speed up much more than a full one.",
@@ -246,7 +246,7 @@
   {
    "concept": "How a forcemeter works",
    "status": "defined",
-   "definition": "A forcemeter is a spring with a hook and a scale. The bigger the pull on the hook, the further the spring stretches, and the further the pointer moves along the scale.",
+   "definition": "A forcemeter is a spring with a hook and a scale. The bigger the pull on the hook, the further the spring stretches. The pointer moves further along the scale.",
    "description": "Look inside a forcemeter and you find a spring. The top of the spring is fixed. The hook hangs from the bottom. When something pulls on the hook, the spring stretches, and a pointer fixed to it slides down the scale. Twice the pull gives twice the stretch. That is why the marks on a forcemeter are evenly spaced. An English scientist, Robert Hooke, published this rule in 1678. The marks are put on by hanging things whose pull is already agreed, such as 100 gram packets. So every forcemeter carries the shared unit inside it. A spring only follows the rule if you don't pull too hard. Pull past its range and it stays stretched, and the forcemeter is spoiled.",
    "examples": [
     "A luggage scale at the airport is a forcemeter for heavy bags.",
@@ -260,11 +260,11 @@
   {
    "concept": "Reading a forcemeter properly",
    "status": "defined",
-   "definition": "To read a forcemeter well: check the zero, hold it straight, pull steadily, read at eye level, count the small marks and write the unit.",
+   "definition": "To read a forcemeter well, check the zero and hold it straight. Pull steadily and read at eye level. Count the small marks and write the unit.",
    "description": "A forcemeter gives a true number only if you use it well. First, check the zero. With nothing on the hook, the pointer must be exactly on 0. If it isn't, turn the little screw at the top until it is. Second, hold it straight and still. A swinging bag gives a wobbly reading. Third, pull slowly and steadily. A sudden jerk makes the pointer jump too high. Fourth, look at the pointer with your eyes level with it, not from above or below. Fifth, count the small marks between the big numbers. Last, write the number with its unit, for example '3 newtons'.",
    "examples": [
     "If the pointer starts at 1 with nothing on it, every reading will be 1 newton too big.",
-    "Reading from above can make 3 newtons look like 3 and a half.",
+    "Reading from above or below can make the pointer seem to sit on the wrong mark.",
     "A 0 to 10 newton forcemeter with 20 small marks has one mark for every half newton."
    ],
    "perspectives": [],
@@ -327,10 +327,10 @@
    "concept": "Putting a number on a push",
    "status": "defined",
    "definition": "Weighing scales put a number on pushes. A spring or a bending metal block inside turns the push into a number.",
-   "description": "A forcemeter shows pulls. So how do we put a number on a push? A bathroom scale is one answer. When you stand on it, you push down on it. Inside an old scale is a spring that gets squashed. Inside a digital scale is a load cell. That is a small block of metal that bends a tiny bit when pressed. A chip turns the bend into a number. Scales in India show kilograms, not newtons. To change kilograms of push into newtons, multiply by 10. You can also see pushes without numbers. A balloon, a sponge or a ball of foam squashes more when the push is bigger.",
+   "description": "A forcemeter shows pulls. So how do we put a number on a push? A bathroom scale is one answer. When you stand on it, you push down on it. Inside an old scale is a spring that gets squashed. Inside a digital scale is a load cell. That is a small block of metal that bends a tiny bit when pressed. A chip turns the bend into a number. Scales in India show kilograms, not newtons. To turn the kilograms on a scale into newtons of push, multiply by 10. You can also see pushes without numbers. A balloon, a sponge or a ball of foam squashes more when the push is bigger.",
    "examples": [
     "Pressing a bathroom scale with one finger might show 2 kilograms. That is a push of about 20 newtons.",
-    "The cricket ball machine at a stadium shows how hard a bowler's ball hits a pad.",
+    "A punching game at a fair shows how hard a punch hits its pad.",
     "Car makers crash cars into walls fitted with sensors, to find how big the push is and make cars safer."
    ],
    "perspectives": [],
@@ -341,7 +341,7 @@
    "concept": "What is a push, underneath?",
    "status": "defined",
    "definition": "When you push something, the electrons on the outside of your atoms push the electrons of its atoms away. Almost every push and pull you feel is this one electric force.",
-   "description": "Zoom in on your finger pressing a table. Your skin and the table are both made of atoms. Each atom has electrons on its outside. Electrons push other electrons away. So your finger never quite touches the table. The electrons push apart, and that push is what you feel. A string pulling a cup is the same force. The atoms of the string hold on to each other, so a pull at one end reaches the other. A spring, the grip of friction and the push of the wind are this force too. Only the pull of gravity is different. So when you count coins or read a forcemeter, you are counting the pushes of trillions of electrons.",
+   "description": "Zoom in on your finger pressing a table. Your skin and the table are both made of atoms. Each atom has electrons on its outside. Electrons push other electrons away. So your finger never quite touches the table. The electrons push apart, and that push is what you feel. A string pulling a cup is the same force. The atoms of the string hold on to each other, so a pull at one end reaches the other. A spring, the grip of friction and the push of the wind are this force too. Even a forcemeter's spring works this way: its atoms pull back on their neighbours when you stretch it. In everyday life, only the pull of gravity is different. So the grip you measured in the coin test is the push and pull of trillions of electrons.",
    "examples": [
     "Press your palm on a table. The push you feel is electrons pushing electrons.",
     "The string in the coin test pulls because its atoms hold on to their neighbours.",
@@ -419,7 +419,7 @@
    "concept": "The tiniest forces, inside living things",
    "status": "defined",
    "definition": "Scientists can detect forces far smaller than a newton, using light beams and tiny bending needles.",
-   "description": "Inside every cell in your body, tiny molecules walk along threads, carrying loads. They are like porters on a mountain path. One kind is called kinesin. How hard can one kinesin molecule pull? To find out, scientists used light as a pair of tweezers. A focused laser beam can hold a tiny bead and show how hard something tugs on it. These are called optical tweezers. Arthur Ashkin invented them, and won a Nobel Prize for them in 2018. That same year, Donna Strickland shared a Nobel Prize for her work on lasers. She was only the third woman ever to win the Nobel Prize in Physics. With optical tweezers, scientists found that one kinesin molecule pulls with about 6 piconewtons. That is about 6 millionths of a millionth of a newton. Other scientists use a tiny needle that bends, called an atomic force microscope. It feels the push of single atoms.",
+   "description": "Inside every cell in your body, tiny molecules walk along threads, carrying loads. They are like porters on a mountain path. One kind is called kinesin. How hard can one kinesin molecule pull? To find out, scientists used light as a pair of tweezers. A focused laser beam can hold a tiny bead and show how hard something tugs on it. These are called optical tweezers. Arthur Ashkin invented them, and won a Nobel Prize for them in 2018. He shared that prize with Gérard Mourou and Donna Strickland, who found how to make very short, strong laser flashes. Strickland was only the third woman ever to win the Nobel Prize in Physics. With optical tweezers, scientists found that one kinesin molecule pulls with about 6 piconewtons. That is about 6 millionths of a millionth of a newton. Other scientists use a tiny needle that bends, called an atomic force microscope. It feels the push of single atoms.",
    "examples": [
     "Your muscles work because millions of molecules each give a tiny pull at the same time.",
     "An atomic force microscope can feel the bumps of single atoms on a surface.",
@@ -433,7 +433,7 @@
    "concept": "Weighing the Earth with a twisting wire",
    "status": "defined",
    "definition": "Cavendish measured the tiny gravity pull between lead balls with a twisting wire, in 1798. It let scientists work out the mass of the Earth.",
-   "description": "Everything pulls on everything else with gravity. Even two balls on a table pull each other. But that pull is so tiny that nobody could feel it. In 1798, an English scientist, Henry Cavendish, measured it. He hung a rod with two small lead balls from a thin wire. He put two big lead balls nearby. The big balls pulled the small ones, and the wire twisted a tiny bit. The twisting wire worked like a very gentle forcemeter. The pull was smaller than the weight of a grain of sand. Cavendish watched through a telescope from outside the room, so even the warmth of his body would not spoil it. From this, scientists could work out how heavy the whole Earth is. The idea and the first apparatus came from another scientist, John Michell. He died in 1793, before he could use it.",
+   "description": "Everything pulls on everything else with gravity. Even two balls on a table pull each other. But that pull is so tiny that nobody could feel it. In 1798, an English scientist, Henry Cavendish, measured it. He hung a rod with two small lead balls from a thin wire. He put two big lead balls nearby. The big balls pulled the small ones, and the wire twisted a tiny bit. The twisting wire worked like a very gentle forcemeter. The pull was tiny, about the weight of one fine grain of sand. Cavendish watched through a telescope from outside the room, so even the warmth of his body would not spoil it. From this, scientists could work out how heavy the whole Earth is. The idea and the first apparatus came from another scientist, John Michell. He died in 1793, before he could use it.",
    "examples": [
     "A twisting wire can show forces far too small for a spring.",
     "Cavendish's measurement let people work out the mass of the Earth for the first time."
@@ -446,10 +446,10 @@
    "concept": "Who decides how big a unit is?",
    "status": "defined",
    "definition": "Since 2019, the kilogram, and so the newton, is fixed by numbers from nature, not by one metal object.",
-   "description": "A newton depends on the kilogram, the metre and the second. So who decides how big a kilogram is? From 1889 to 2019, the kilogram was one real metal cylinder, made of platinum and iridium. It was kept locked in a vault near Paris, under three glass covers. People called it Le Grand K. By agreement, it was exactly 1 kilogram, whatever happened to it. Countries had copies. India's copy is kept at the National Physical Laboratory in New Delhi. But the copies and the original slowly drifted apart, by about 50 millionths of a gram. Nobody could say which had changed. So in 2018, at a meeting in Versailles in France, countries voted to change the rule. Since 20 May 2019, the kilogram is fixed by a number from nature, called the Planck constant. A machine called a Kibble balance can turn that number into a real kilogram. It balances a weight against the push of a magnet on an electric current. Bryan Kibble, a British scientist, invented it in 1975.",
+   "description": "A newton depends on the kilogram, the metre and the second. So who decides how big a kilogram is? From 1889 to 2019, the kilogram was one real metal cylinder, made of platinum and iridium. It was kept locked in a vault near Paris, under three glass covers. People called it Le Grand K. By agreement, it was exactly 1 kilogram, whatever happened to it. Countries had copies. India's copy is kept at the National Physical Laboratory in New Delhi. But over about 100 years, the copies and the original slowly drifted apart, by about 50 millionths of a gram. Nobody could say which had changed. So in 2018, at a meeting in Versailles in France, countries voted to change the rule. Since 20 May 2019, the kilogram is fixed by a constant of nature, called the Planck constant. Even here there is an agreement. People chose the exact number for it, so the new kilogram matched the old one. A machine called a Kibble balance can turn that number into a real kilogram. It balances a weight against the push of a magnet on an electric current. Bryan Kibble, a British scientist, invented it in 1975.",
    "examples": [
     "The metre is now fixed by the speed of light, not by a metal bar.",
-    "Any country with a Kibble balance can now make its own perfect kilogram."
+    "A country with a Kibble balance can now make its own kilogram, without visiting Paris."
    ],
    "perspectives": [],
    "art": "A shiny metal cylinder under three glass bell jars, and beside it a tall modern machine with a magnet and a pan.",
@@ -459,7 +459,7 @@
    "concept": "Fair weights in India's history",
    "status": "defined",
    "definition": "Fair trade needs weights everyone agrees on. India has used standard weights since the Indus Valley cities, about 4,500 years ago.",
-   "description": "People have needed fair weights for thousands of years. In the cities of the Indus Valley, about 4,500 years ago, traders used carefully cut stone weights, shaped like little cubes. The sizes followed a pattern: 1, 2, 4, 8, 16, 32 and 64, and then bigger steps. The same sizes were used in cities hundreds of kilometres apart. Much later, the Arthashastra, an old Indian book about running a kingdom, described an officer who checked the scales and weights in markets. For a long time, India used units like the tola, the ser and the maund. They were not the same everywhere. In 1958, India began to change to grams and kilograms. Today, Legal Metrology officers still check shop scales and put a seal on honest ones.",
+   "description": "People have needed fair weights for thousands of years. About 4,500 years ago, traders in the Indus Valley cities used stone weights. They were carefully cut into little cubes. The sizes followed a pattern: 1, 2, 4, 8, 16, 32 and 64, and then bigger steps. The same sizes were used in cities hundreds of kilometres apart. Much later came the Arthashastra, an old Indian book about running a kingdom. It describes an officer who checked the scales and weights in markets. For a long time, India used units like the tola, the ser and the maund. They were not the same everywhere. In 1958, India began to change to grams and kilograms. Today, Legal Metrology officers still check shop scales and put a seal on honest ones.",
    "examples": [
     "Indus Valley stone weights have been found at Harappa, Mohenjo-daro and Lothal.",
     "Some grandparents still say 'one ser of milk' or 'one tola of gold'.",
@@ -539,7 +539,7 @@
   },
   {
    "text": "The same thing has a smaller weight on the Moon, but the same mass.",
-   "evidence": "Astronauts on the Moon in 1969 to 1972 bounced along with heavy packs that would have been hard to carry on Earth. Their packs still held the same stuff.",
+   "evidence": "From 1969 to 1972, astronauts on the Moon bounced along with heavy packs. On Earth those packs would have been hard to carry. Their packs still held the same stuff.",
    "context": "This card is about why weight, a force, depends on where you are.",
    "chart": {
     "type": "bar",
@@ -573,7 +573,7 @@
    "for": "A cart stops when the bullock stops pulling. A ball stops rolling. Everything we see seems to need a push to keep going.",
    "against": "Galileo saw that a ball rolls further on a smoother floor. Things stop because friction and air pull back on them. In space, where nothing rubs, a spacecraft keeps moving for years with its engines off.",
    "status": "rejected",
-   "context": "This card is about an idea people believed for about 2,000 years: that a force is needed to keep things moving."
+   "context": "For about 2,000 years, people believed that a force is needed to keep things moving. This card looks at that idea."
   },
   {
    "claim": "A number tells you the true size of a thing, all by itself.",
@@ -587,7 +587,7 @@
    "claim": "If nothing moves, there is no force.",
    "who": "Many children, and many grown-ups without noticing",
    "for": "We usually notice forces when something starts moving.",
-   "against": "Push hard on a wall through a balloon. The wall doesn't move, but the balloon squashes flat. A book lying on a table is pulled down by the Earth and pushed up by the table, all the time. Put a bathroom scale under it and you can see the push as a number.",
+   "against": "Push hard on a wall through a balloon. The wall doesn't move, but the balloon squashes flat. A book lying on a table is pulled down by the Earth. At the same time, the table pushes it up. Put a bathroom scale under it and you can see the push as a number.",
    "status": "rejected",
    "context": "This card is about a common idea: that a force only exists when something moves."
   },
@@ -641,7 +641,7 @@
    "hint": "Where did your number for the notebook come from: the notebook, the coins, or you?"
   },
   {
-   "q": "Before 2019, the kilogram was one lump of metal. If a speck of dust landed on it, did the lump get heavier, or did everything else get a little lighter?",
+   "q": "Before 2019, the kilogram was one lump of metal. If a speck of dust landed on it, did the lump get heavier? Or did everything else get a little lighter?",
    "kind": "deep",
    "hint": "By the rule of that time, the lump was always exactly 1 kilogram, whatever happened to it."
   },
@@ -668,7 +668,7 @@
   {
    "q": "Is there a smallest possible force? Is there a biggest?",
    "kind": "deep",
-   "hint": "Scientists have shown a force of 42 yoctonewtons. And the pull near a black hole is beyond anything on our ladder."
+   "hint": "Scientists have measured a force of 42 yoctonewtons. And the pull near a black hole is beyond anything on our ladder."
   },
   {
    "q": "On the Moon you would weigh much less but still be all of you. So what is the real 'you': your weight, or something else?",
@@ -680,7 +680,7 @@
   "title": "Ten Packets of Salt",
   "mins": 10,
   "read_aloud": true,
-  "note": "Made up. The village, Pushpa, Basanti, Mohan Lal, Diwan and Kamla Didi are imagined. Porters really do carry loads on mountain treks in Uttarakhand, often paid by the load, and spring balances really have a zero screw that can be set wrongly. Sealed packets must by law weigh what they say, and Legal Metrology officers check scales.",
+  "note": "Made up. The village, Pushpa, Basanti, Mohan Lal, Diwan and Kamla Didi are imagined. Porters really do carry loads on mountain treks in Uttarakhand, often paid by the load. Spring balances really have a zero screw that can be set wrongly. Sealed packets must by law weigh what they say, and Legal Metrology officers check scales.",
   "text": [
    "In the mountains of Uttarakhand, a stony path climbs from a small village all the way to a glacier, a river of ice. Every spring, trekkers came from the cities to walk it. They brought tents and cooking pots, sacks of rice and tins of ghee. They did not carry these things themselves. The porters of the village did.",
    "Pushpa was nine. Her mother, Basanti, was a porter. Each morning, before the sun climbed over the ridge, Pushpa walked with her to the walnut tree at the edge of the village. There the contractor, Mohan Lal, weighed the loads. He had a brass spring balance as long as his forearm. Inside it was a coiled spring. When a basket hung from its hook, the spring stretched, and a little pointer slid down a row of numbers.",
@@ -712,7 +712,7 @@
    "'Nineteen,' he said quietly.",
    "That season, every porter put a few rupees into a tin. At the end of the summer, they bought their own spring balance from the town. They hung it on a nail on the walnut tree. And every morning after that, before the first basket went on the hook, somebody would call out across the cold air: 'Pushpa! Check the zero!' And Pushpa would look, and nod, and the weighing would begin."
   ],
-  "epiphany": "For the parent: a spring balance is a forcemeter. It turns a pull into a number by stretching a spring. But the number is only fair if the balance agrees with something everyone already trusts. Pushpa does what scientists call calibrating. She tests the balance with ten packets whose weight everybody has agreed on, and a second, different balance agrees with them. Her mother's tired back could not prove anything, because a feeling belongs to one person. Ten sealed packets belonged to everyone. That is the whole idea of a unit: a number means something only because people share what it counts. The story also quietly asks who is believed, and who carries the load.",
+  "epiphany": "A spring balance is a forcemeter. It turns a pull into a number by stretching a spring. But the number is only fair if the balance agrees with something everyone already trusts. Pushpa does what scientists call calibrating. She tests the balance with ten packets whose weight everybody has agreed on. Then a second, different balance agrees with them. Her mother's tired back could not prove anything, because a feeling belongs to one person. Ten sealed packets belonged to everyone. That is the whole idea of a unit: a number means something only because people share what it counts. The story also quietly asks who is believed, and who carries the load.",
   "ask": [
    "Basanti said her basket felt like twenty-five kilos. Why couldn't her feeling prove that the balance was wrong?",
    "What was wrong with Mohan Lal's balance before anything was hung on it?",
@@ -850,7 +850,7 @@
      "do": "When the mystery bag comes up, a grown-up fills a bag secretly. Players guess without looking inside, then hang it on the forcemeter.",
      "say": "This one is a mystery bag. You can feel it, but you can't look inside. What do you think it pulls with?",
      "kid": "Mystery bag! Don't peek. Lift it and guess the newtons. Then check it.",
-     "context": "This step of Guess the Newtons uses a mystery bag. It is the founder's mystery bag weighing game.",
+     "context": "This step of Guess the Newtons uses a mystery bag, filled in secret.",
      "think": "Did the mystery bag feel heavier or lighter than it really was? Why might that happen?",
      "parent": "Try putting something small and heavy in the bag, like a steel tumbler of coins. Small heavy things often feel heavier than they are."
     },
@@ -894,7 +894,7 @@
      "title": "24 force cards to cut out",
      "items": [
       "One molecule walking inside your cell: about 6 millionths of a millionth of a newton",
-      "The gravity pull between two lead balls in Cavendish's experiment: much less than a grain of sand's weight",
+      "The gravity pull between the lead balls in Cavendish's experiment: about the weight of a fine grain of sand",
       "A mosquito landing on your arm: far less than 1 newton",
       "A sheet of paper resting on your hand: about one twentieth of a newton",
       "A one-rupee coin resting on your hand: about three hundredths of a newton",
@@ -990,7 +990,7 @@
      "id": "s4",
      "mins": 5,
      "do": "When all the cards are placed, put each rung's cards in order from smallest to biggest. Read the whole ladder from bottom to top.",
-     "say": "Now let's read the whole ladder from the bottom to the top, slowly. How many times bigger is the top than the bottom?",
+     "say": "Now let's read the whole ladder from the bottom to the top, slowly. Which force surprised you most? Why?",
      "kid": "Put each rung in order. Read the ladder from bottom to top. Which force amazes you most?",
      "context": "This is the last step of Climb the Force Ladder. You read all the forces in order, from tiny to huge.",
      "think": "Which matters more to you today: the tiny pulls inside your cells, or the huge pull of the Moon?"
@@ -1020,7 +1020,7 @@
    "days": 1,
    "context": "This is the coin-pull investigation, the main experiment of this unit. A notebook on a table is tied to a paper cup hanging over the edge. You drop coins into the cup until the notebook starts to slide. Your unit of pull is one coin. Then you test two and three notebooks, and see what happens when a grown-up uses different coins.",
    "question": "How many coins does it take to start a notebook sliding? How does the number change for two or three notebooks? And will someone using different coins get the same number?",
-   "predict": "Before you start, make three guesses, and give a reason for each one. How many coins will one notebook need, and why? Will two stacked notebooks need the same number, a few more, or twice as many, and why do you think so? Will a grown-up using a different kind of coin get the same number as you? Why or why not?",
+   "predict": "Before you start, make three guesses, and give a reason for each one. How many coins will one notebook need, and why? Will two stacked notebooks need the same number, a few more, or twice as many? Why do you think so? Will a grown-up using a different kind of coin get the same number as you? Why or why not?",
    "fair_test": "Change only one thing at a time. Use the same table, string and cup every time. In your own tests, use coins of only one kind. Put the notebook in the same place, the same way round. Drop each coin in gently, so a bump doesn't start the slide. Do every test 3 times and use the middle number, because one try can be a fluke.",
    "results_table": [
     "What the cup pulled",
@@ -1036,11 +1036,11 @@
      "qty": 3
     },
     {
-     "item": "about 30 coins of one kind, for example five-rupee coins",
+     "item": "about 30 coins of one kind, your heaviest kind, for example five-rupee or ten-rupee coins",
      "qty": 30
     },
     {
-     "item": "about 20 coins of a different, lighter kind, for example one-rupee coins, for the grown-up's test",
+     "item": "about 20 coins of a lighter kind, for example one-rupee coins, for the grown-up's test. Only one kind of coin at home? The grown-up tapes coins in pairs and counts each pair as one.",
      "qty": 20
     },
     {
@@ -1177,8 +1177,8 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "1. Before you start, ask your child to guess, with a reason, whether you will get the same number. 2. Test one notebook 3 times with the lighter coins. 3. Your child counts. 4. Write your middle number next to theirs.",
-     "say": "I'm going to test one notebook with these smaller coins. Will I get the same number as you? Why do you think so? Now count for me.",
+     "do": "1. Before you start, ask your child to guess, with a reason, whether you will get the same number. 2. Test one notebook 3 times with your different coins. 3. Your child counts. 4. Write your middle number next to theirs.",
+     "say": "I'm going to test one notebook with these different coins. Will I get the same number as you? Why do you think so? Now count for me.",
      "kid": "Now a grown-up tests one notebook with different coins. Guess: will they get your number? Why? Then count their coins.",
      "how": "e4",
      "ask": [
@@ -1203,7 +1203,7 @@
       "a": 2,
       "why": "It was the same notebook on the same table, so it needed the same pull. The numbers differ because the coins differ. Each big coin pulls harder than a small one, so fewer were needed. Picking 'a bigger pull' means trusting a number without its unit. Picking 'a mistake' is a fair thing to check, but both counts can be right."
      },
-     "parent": "Five-rupee coins are heavier than one-rupee coins, so you will need more coins. To check, balance coins on the two ends of a ruler resting on a round pencil. Count how many small coins balance one big coin. Coins from different years weigh different amounts, so your answer may not be a whole number.",
+     "parent": "Lighter coins mean more coins for the same pull. To compare the two units, rest a ruler on a round pencil. Put one big coin on one end. Add small coins to the other end until it balances. Coins from different years weigh different amounts, so the answer may not be a whole number.",
      "context": "This step of the coin-pull investigation compares your number with a grown-up's, using different coins."
     },
     {
@@ -1491,9 +1491,9 @@
    "title": "Does the Scale Weigh You, or Your Push?",
    "mins": 20,
    "days": 1,
-   "context": "This is the bathroom scale experiment. You stand on a bathroom scale and change how hard you press down, without changing how much of you there is. You watch what the number does.",
+   "context": "This is the bathroom scale experiment. You stand on a bathroom scale and change how hard you press down. How much of you there is stays the same. You watch what the number does.",
    "question": "Does a bathroom scale show how much of you there is, or how hard you push on it?",
-   "predict": "Before you start, guess. If you press down on a table beside you, will the number on the scale go up, go down or stay the same? Why do you think so?",
+   "predict": "Before you start, guess. You stand on the scale and press down on a table beside you. Will the number go up, go down or stay the same? Why do you think so?",
    "fair_test": "Stand in the same place on the scale each time, with both feet. Change only one thing at a time: pressing down on the table, pulling up on it, or bending your knees. Read the number each time when it settles, except for the knee test.",
    "results_table": [
     "What I did",
@@ -1561,7 +1561,7 @@
      "say": "Guess first. If you press down on the table, will the number go up, down, or stay the same? Why? Now try it.",
      "kid": "Guess first, and say why. Then press down hard on the table. What does the number do?",
      "adult": true,
-     "context": "This step of the bathroom scale experiment tests what happens when you press on a table while standing on the scale.",
+     "context": "In this step of the bathroom scale experiment, you stand on the scale and press on a table.",
      "check": {
       "t": "mcq",
       "q": "You stand on a bathroom scale and press down hard on a table beside you. What happens to the number?",
@@ -1906,7 +1906,7 @@
     }
    ],
    "record": "Draw your one newton kit. Write '1 N' beside each thing that pulls with about 1 newton.",
-   "context": "This is the one newton activity. You hold things that pull with 1 newton, 5 newtons and 10 newtons, so your hands learn the size of a newton.",
+   "context": "This is the one newton activity. You hold things that pull with 1 newton and 10 newtons. Your hands learn the size of a newton.",
    "setup": [
     {
      "art": "A child's open palm holding a 100 gram tea packet, labelled 1 N.",
@@ -2099,10 +2099,10 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Check both forcemeters read zero. 2. Hook them together, hook to hook. 3. Each person holds one by its top ring.",
-     "say": "Two forcemeters, hooked together. When we pull, do you think both will show the same number, or will the stronger person's show more?",
-     "kid": "Hook the two forcemeters together. Hold yours. Guess: will both show the same number?",
+     "say": "Two forcemeters, hooked together. When we pull, will both show the same number, or will the stronger person's show more? Why do you think so?",
+     "kid": "Hook the two forcemeters together. Hold yours. Will both show the same number? Why?",
      "context": "This is the first step of the forcemeter tug of war. You hook two forcemeters together and guess what they will show.",
-     "parent": "This is the founder's tug of war, 'Neutral Pull', with numbers. Most children guess that the grown-up's forcemeter will show more."
+     "parent": "Most children guess that the grown-up's forcemeter will show more. Wait for the guess and the reason before anyone pulls."
     },
     {
      "id": "s2",
@@ -2174,7 +2174,7 @@
     }
    ],
    "record": "Write the pull on Earth, the Moon and Jupiter. Draw the three tiffins.",
-   "context": "This is the Moon tiffin activity. You change the rice in a tiffin box so your hand can feel how much your lunch would pull on the Moon and on Jupiter.",
+   "context": "This is the Moon tiffin activity. You change the rice in a tiffin box. Your hand feels how hard your lunch would pull on the Moon and on Jupiter.",
    "setup": [
     {
      "art": "A tiffin box of rice on a kitchen scale reading 600 g.",
@@ -2194,7 +2194,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Weigh 600 grams of rice into the tiffin. 2. Your child holds it. 3. Say that on Earth it pulls with about 6 newtons.",
-     "say": "Hold your lunch. On Earth it pulls your hand down with about 6 newtons. The Moon pulls things down about one sixth as hard. How do you think your lunch would feel there?",
+     "say": "Hold your lunch. On Earth it pulls your hand down with about 6 newtons. The Moon pulls things down about one sixth as hard. How do you think your lunch would feel there? Why?",
      "kid": "Hold the tiffin. It pulls about 6 newtons here on Earth. The Moon pulls six times less. How would it feel there?",
      "context": "This is the first step of the Moon tiffin activity. You feel your lunch's pull on Earth."
     },
@@ -2274,7 +2274,7 @@
     }
    ],
    "record": "Draw three different scales you saw. Write what each one weighs or shows, and whether you found a seal.",
-   "context": "This is a visit to a market or shop. You look at the scales, find the seals that show they were checked, and ask the shopkeeper how they keep weighing fair.",
+   "context": "This is a visit to a market or shop. You look at shop scales and find the seals that show they were checked. Then you ask how the shopkeeper keeps weighing fair.",
    "setup": [
     {
      "art": "A busy vegetable market with a digital scale, a hanging spring balance and a two-pan balance on three stalls.",
@@ -2640,7 +2640,7 @@
    ],
    "creative": [
     "Tape a long straw to the end of the bending ruler as a pointer. A small bend at the ruler becomes a bigger movement at the tip.",
-    "Henry Cavendish measured a force smaller than a grain of sand's weight with a twisting wire. Can you use a twisting thread?",
+    "Henry Cavendish measured a force about as big as a sand grain's weight, with a twisting wire. Can you use a twisting thread?",
     "Scientists feel the push of single atoms with a tiny bending needle. Your bending ruler is a giant model of it."
    ],
    "your_turn": "Now invent your own tiny-force meter. Draw it, build it, and test it with 1, 2 and 3 sheets of paper. Can it tell them apart every time?",
@@ -2701,7 +2701,7 @@
    "id": "c2",
    "title": "A Fair Check for Every Scale",
    "mins": 30,
-   "context": "This is a fairness challenge. A village has no shop that sells standard weights. Your job is to design a way for anyone to check whether a scale is honest, using only water and things at home.",
+   "context": "This is a fairness challenge. A village has no shop that sells standard weights. Your job is to design a way for anyone to check whether a scale is honest. You may use only water and things at home.",
    "problem": "A village market has five scales, and people think some are wrong. There are no standard iron weights. Design a fair way for anyone to check every scale, using water.",
    "constraints": [
     "You may use water, bottles, a measuring jug and things from the kitchen.",
@@ -2720,7 +2720,7 @@
     "Write the results on a chart and stick it near the scale."
    ],
    "creative": [
-    "The gram was first defined, in 1795, as the mass of one cubic centimetre of water. That is one millilitre. So water was the first standard. You are doing what the inventors of the gram did.",
+    "The gram was first defined, in 1795, as the mass of one cubic centimetre of water. That is one millilitre. So water was the first standard for the gram. You are doing what the inventors of the gram did.",
     "Weigh the empty bottle first, and take it away from every reading. That makes your check more exact.",
     "Make a check-kit: one 100 millilitre bottle, one 500 millilitre bottle and one 1 litre bottle, each sealed and labelled."
    ],
@@ -2796,7 +2796,7 @@
       "It makes the notebook slide faster"
      ],
      "a": 0,
-     "why": "A unit must be the same every time. One kind of coin gives the same small pull again and again. Picking 'mixed coins are heavier' misses the point: mixed coins pull by different amounts, so a count of them means nothing.",
+     "why": "A unit must be the same every time. One kind of coin gives the same small pull again and again. Picking 'mixed coins are heavier' misses the point. Mixed coins pull by different amounts, so a count of them means nothing.",
      "how": "e4"
     },
     {
@@ -3013,7 +3013,7 @@
     {
      "t": "draw",
      "p": "Draw a forcemeter. Label the spring, the hook, the pointer and the scale.",
-     "a": "The drawing shows a spring inside a tube, a hook at the bottom, a pointer fixed to the spring and a scale of numbers beside it.",
+     "a": "The drawing shows a spring inside a tube, with a hook at the bottom. A pointer is fixed to the spring, with a scale of numbers beside it.",
      "why": "These four parts work together. The pull on the hook stretches the spring, and the pointer moves along the scale."
     },
     {
@@ -3030,7 +3030,7 @@
      "how": "e1"
     }
    ],
-   "context": "This core worksheet checks the main ideas: your own coin unit, why we share the newton, and how to read a forcemeter."
+   "context": "This core worksheet checks the main ideas. They are your own coin unit, why we share the newton, and how to read a forcemeter."
   },
   {
    "id": "ws-stretch",
@@ -3175,7 +3175,7 @@
       "a crocodile's bite"
      ],
      "a": "order shown",
-     "why": "Paper is about one twentieth of a newton, the bottle about 10, a grown-up about 600 and a big crocodile's bite about 16,000 newtons."
+     "why": "Paper is about one twentieth of a newton. The bottle is about 10. A grown-up is about 600. A big crocodile's bite is about 16,000 newtons."
     },
     {
      "t": "write",
@@ -3300,7 +3300,7 @@
       "People wanted a round kilogram"
      ],
      "a": 1,
-     "why": "Metal can slowly change. The copies and the original drifted apart by tiny amounts. So now the kilogram is fixed by a number from nature, the Planck constant, which never changes."
+     "why": "Metal can slowly change. The copies and the original drifted apart by tiny amounts. So now the kilogram is fixed by the Planck constant, a constant of nature. As far as anyone can measure, it never changes."
     },
     {
      "t": "mcq",
@@ -3389,7 +3389,7 @@
     {
      "t": "draw",
      "p": "Design a forcemeter that could show the pull of a single sheet of paper. Draw it and label how it works.",
-     "a": "For example, a long plastic ruler taped to a table edge, sticking out, with the paper hanging from the far end and a straw pointer to show the bend.",
+     "a": "For example, a long plastic ruler taped to a table edge, sticking out. The paper hangs from the far end, and a straw pointer shows the bend.",
      "why": "A good design is sensitive: a small pull makes a big, easy-to-see movement.",
      "how": "c1"
     },
@@ -3406,7 +3406,7 @@
      "why": "On Earth, 1 kilogram pulls down with about 9.8 newtons. It even changes a tiny bit from place to place. 10 is close enough for most everyday sums."
     }
    ],
-   "context": "This challenge worksheet follows forces from the tiniest ever found to the pull of the Moon, and asks what a force really is."
+   "context": "This challenge worksheet follows forces from the tiniest ever found to the pull of the Moon. It also asks what a force really is."
   }
  ],
  "quiz": [
@@ -3420,7 +3420,7 @@
     "Any mix of coins and buttons works just as well"
    ],
    "a": 0,
-   "why": "A unit must be the same every time, and coins of one kind are. Picking 'any mix works' misses that a button pulls less than a coin, so a count of mixed things means nothing.",
+   "why": "A unit must be the same every time, and coins of one kind are. Picking 'any mix works' misses something. A button pulls less than a coin, so a count of mixed things means nothing.",
    "how": "e4",
    "outcome": 0
   },
@@ -3635,11 +3635,11 @@
  "applications": [
   "Shops use weighing scales and spring balances to sell rice, dal and vegetables fairly.",
   "Airports use luggage scales to check that bags are not too heavy for the plane.",
-  "Doctors check how hard you can squeeze with a grip meter, to check how strong your hands are after an illness.",
+  "Doctors use a grip meter to find how hard you can squeeze. It shows how strong your hands are after an illness.",
   "Engineers test ropes, cables and climbing gear by pulling them with huge force meters until they break.",
   "Car makers crash cars into walls fitted with force sensors, to make seatbelts and airbags safer.",
   "Cranes have load sensors that stop them lifting more than is safe.",
-  "Bridge builders check the pull on every cable of a bridge, like the Bandra-Worli Sea Link in Mumbai.",
+  "Engineers check the pull in the cables that hold up bridges like the Bandra-Worli Sea Link in Mumbai.",
   "Rocket scientists at Sriharikota test the push of rocket engines while they are tied down on the ground.",
   "Digital kitchen scales and phone touch screens use tiny sensors that feel pushes.",
   "Sports scientists find out how hard a footballer kicks or a cricketer hits, to improve training.",
@@ -3709,11 +3709,11 @@
   },
   {
    "q": "Is the strength of gravity the same everywhere in the universe, and at every time?",
-   "why_open": "As far as we can tell, yes. But scientists keep testing it, because if it changed even a little, our ideas about the universe would have to change."
+   "why_open": "As far as we can tell, yes. But scientists keep testing it. If it changed even a little, our ideas about the universe would have to change."
   },
   {
    "q": "Why does the pull needed to slide something grow so evenly with its weight?",
-   "why_open": "The rule was written down by Guillaume Amontons in 1699, and it works well. But why it works, at the size of atoms, is still being studied. It seems to depend on how many tiny bumps really touch."
+   "why_open": "Leonardo da Vinci noticed this rule around 1500, and Guillaume Amontons wrote it down in 1699. It works well. But why it works, at the size of atoms, is still being studied. It seems to depend on how many tiny bumps really touch."
   }
  ],
  "ask_kids": [
@@ -3888,7 +3888,7 @@
    "explain": "One five-rupee coin pulls as hard as 2 one-rupee coins. So 6 five-rupee coins pull as hard as 6 lots of 2 one-rupee coins. 6 times 2 is 12. Meera's father needed 12. The numbers were different, but the pull was the same. Only the unit was different.",
    "math_unit": "math.multiplication.equal-groups.L3",
    "why_maths": "Two numbers can only be compared in the same unit. Multiplying turns one unit into the other, the way you change rupees into paise.",
-   "context": "In the coin-pull investigation, you dropped coins into a cup hanging over the table edge until a notebook started to slide. These numbers are made up.",
+   "context": "In the coin-pull investigation, you dropped coins into a hanging cup until a notebook started to slide. These numbers are made up.",
    "how": "e4"
   },
   {
@@ -3896,7 +3896,7 @@
    "answer": "About 23 coins, because each extra notebook needs about 6 more coins.",
    "explain": "From 1 notebook to 2, the coins went up by 6. From 2 to 3, they went up by 5. So each notebook adds about 5 or 6 coins. 17 add 6 is 23. Real results are never perfectly even, so 22, 23 or 24 are all good predictions. If you have a fourth notebook, test your prediction.",
    "math_unit": "math.patterns.number-patterns.L3",
-   "why_maths": "Spotting how the numbers grow lets you predict a test before you do it, and then check whether you were right.",
+   "why_maths": "Spotting how the numbers grow lets you predict a test before you do it. Then you can check whether you were right.",
    "context": "In the coin-pull investigation, you counted the coins it took to start one, two and three stacked notebooks sliding.",
    "how": "e4",
    "chart": {
@@ -3945,7 +3945,7 @@
    "explain": "One sixth means sharing into 6 equal parts and taking one part. 6 newtons shared into 6 parts is 1 newton each. So on the Moon the tiffin pulls with about 1 newton, like a small apple on Earth.",
    "math_unit": "math.division.division-facts.L3",
    "why_maths": "Sharing a force into equal parts shows how much weaker the Moon's pull is than the Earth's.",
-   "context": "In the Moon tiffin activity, you poured rice out of a tiffin to feel how light your lunch would be on the Moon.",
+   "context": "In the Moon tiffin activity, you poured out rice to feel how light your lunch would be on the Moon.",
    "how": "a5"
   },
   {
@@ -4024,7 +4024,7 @@
    "title": "The Physics Aviary",
    "url": "https://www.thephysicsaviary.com/",
    "kind": "simulation",
-   "why": "Free physics games, including spring and force labs. It is on the founder's list of STEM websites."
+   "why": "Free physics games, including spring and force labs."
   },
   {
    "title": "Exploratorium: Science Snacks",
@@ -4165,7 +4165,7 @@
    "id": "b-book",
    "item": "Newton and Me, by Lynne Mayer",
    "kind": "book",
-   "why": "A picture book in rhyme about a boy and his dog discovering forces, for ages 5 to 9. It is on the founder's reading list.",
+   "why": "A picture book in rhyme about a boy and his dog discovering forces, for ages 5 to 9.",
    "url": "https://www.amazon.in/s?k=Newton+and+Me+Lynne+Mayer",
    "used_in": [
     "g1"
@@ -4318,13 +4318,13 @@
  "how_we_found_out": {
   "who": "French scientists in the 1790s, the countries of the Metre Convention, and Bryan Kibble",
   "when": "1795 to 2019",
-  "story": "For most of history, every town had its own weights. A ser in one market was not a ser in the next. In 1795, France tried something new. It defined the gram as the mass of a little cube of water, 1 centimetre on each side. Water is the same everywhere, so anyone could check it. In 1889, countries went further. They made one cylinder of platinum and iridium, locked it in a vault near Paris, and agreed that it was the kilogram. Copies went to many countries. People believed a guarded lump of metal would never change. But when the copies were brought back and compared with it, around 1950 and again around 1990, they no longer agreed. They had drifted apart by about 50 millionths of a gram, and nobody could tell which had changed. In 1975, Bryan Kibble in England invented a balance that weighs things against the push of a magnet on an electric current. It let the kilogram be tied to the Planck constant, a number nature never changes. In 2018 the countries voted. Since 20 May 2019, the kilogram is fixed by nature, not by a lump of metal.",
+  "story": "For most of history, every town had its own weights. A ser in one market was not a ser in the next. In 1795, France tried something new. It defined the gram as the mass of a little cube of water, 1 centimetre on each side. Water is the same everywhere, so anyone could check it. In 1889, countries went further. They agreed that one cylinder of platinum and iridium was the kilogram. It was locked in a vault near Paris. Copies went to many countries. People believed a guarded lump of metal would never change. Around 1950 and again around 1990, the copies were brought back and compared with it. They no longer agreed. They had drifted apart by about 50 millionths of a gram, and nobody could tell which had changed. In 1975, Bryan Kibble in England invented a new balance. It weighs things against the push of a magnet on an electric current. Years later, it let the kilogram be tied to the Planck constant, a constant of nature. In 2018 the countries voted. Since 20 May 2019, the kilogram is fixed by nature, not by a lump of metal.",
   "wrong_idea": "People believed that a carefully guarded lump of metal would stay exactly the same for ever. So it could be the kilogram for ever. When its copies were compared with it, they had drifted apart, and nobody could tell which had changed."
  },
  "roots": {
   "context": "We have been inventing units of pull, counting coins and water, and meeting the newton. Now we ask what a number like '5 newtons' really is, and what that says about us and the world.",
   "deep_truth": {
-   "truth": "A pull has no number of its own. '5 newtons' only means 'five times a pull that people agreed to share'. The newton is not found in nature. It is a promise between people, and since 2019 that promise is tied to a number nature never changes.",
+   "truth": "A pull has no number of its own. Every measurement is a comparison: '5 newtons' means 'five times a pull that people agreed to share'. The pull belongs to nature. The number belongs to the agreement.",
    "habit": "We think a number belongs to a thing, the way its colour does. But one notebook's pull was 6 big coins, 12 small coins and about half a newton. The pull stayed the same. Only the agreement changed. A measurement is always a comparison with something shared, never a fact about one thing alone.",
    "evidence": "In the coin-pull test, two careful people got different numbers for the same notebook, and both were right. And from 1889 to 2019, the kilogram was whatever one metal cylinder near Paris weighed. Over those years, its copies drifted away from it by about 50 millionths of a gram."
   },
@@ -4348,7 +4348,7 @@
   ],
   "science": [
    {
-    "text": "Since 20 May 2019, the kilogram, and so the newton, is fixed by the Planck constant, a number from nature. A Kibble balance can turn that number into a real kilogram anywhere in the world.",
+    "text": "Since 20 May 2019, the kilogram, and so the newton, is fixed by the Planck constant, a constant of nature. People still chose the exact number it is given, so the new kilogram matched the old one. A Kibble balance can turn that number into a real kilogram anywhere.",
     "status": "settled"
    },
    {
@@ -4368,7 +4368,7 @@
   },
   "ask": [
    "If everyone forgot the newton tomorrow, would the notebook still need the same pull? Then what would we have lost?",
-   "Before 2019, the kilogram was one metal cylinder. If a speck of dust landed on it, did the cylinder get heavier, or did everything else in the world get a little lighter?",
+   "Before 2019, the kilogram was one metal cylinder. If a speck of dust landed on it, did the cylinder get heavier? Or did everything else get a little lighter?",
    "Is a number something you find in the world, or something you bring to it?",
    "Your hand could feel the coins but not count them. Is a pull you feel the same thing as a pull you count?"
   ],
