@@ -1,0 +1,1314 @@
+{
+ "key": "combined|sci|3|waste",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "waste",
+ "title": "Waste: where it goes, and how to make less of it",
+ "source": "DeepKids Combined. Covers NCERT Class 3 'Taking Charge of Waste' (throwing and sorting waste correctly, reuse and recycling, clean and safe homes and neighbourhoods). No textbook needed.",
+ "summary": "A banana peel buried in damp soil turns soft and black in a week. A piece of milk packet buried beside it looks exactly the same. Your child finds out why: tiny living things eat the peel, and almost nothing can eat plastic. They sort a day of their family's waste, start a compost pot, make new paper from old, and check their home for mosquito breeding spots. They learn why reducing comes before recycling, and meet the waste pickers who do much of India's recycling.",
+ "builds_on": "This is the first rung on waste. If your child did the Class 3 lessons on caring for the environment, they have already met decomposers in a food web. This rung starts from the family's own dustbin and follows waste out of the home. In Class 5 the waste rung goes further into organic and inorganic waste, dumping grounds and how cities deal with what they throw out.",
+ "goals": [
+  "By the end your child can say how everyday life at home makes waste, and sort it into wet, dry and hazardous waste.",
+  "By the end your child can show from their own rot jars that peels, paper and cotton rot in damp soil and plastic does not, and say why.",
+  "By the end your child can explain why we reduce first, then reuse and repair, and recycle last.",
+  "By the end your child can make compost and recycled paper, and explain what happens in each.",
+  "By the end your child can name the harm done by garbage piles, burning and standing water, and the people who keep our places clean."
+ ],
+ "words": [
+  [
+   "waste",
+   "anything we have stopped using and throw out, like peels, wrappers, old clothes and bottles"
+  ],
+  [
+   "decompose",
+   "to rot. Tiny living things feed on something that was once alive and break it down until it becomes part of the soil."
+  ],
+  [
+   "decomposer",
+   "a living thing that feeds on dead plants and animals and breaks them down. Bacteria, fungi and earthworms are decomposers."
+  ],
+  [
+   "microbe",
+   "a living thing far too small to see without a microscope. Bacteria are microbes."
+  ],
+  [
+   "biodegradable",
+   "able to be rotted by decomposers. Peels, paper and cotton are biodegradable. Most plastic is not."
+  ],
+  [
+   "compost",
+   "dark, crumbly soil made when peels and dry leaves rot. It is food for plants."
+  ],
+  [
+   "microplastic",
+   "a piece of plastic smaller than a grain of rice. Big plastic slowly cracks into microplastics, but it does not rot."
+  ],
+  [
+   "segregate",
+   "to sort waste into kinds before throwing it out: wet waste, dry waste and hazardous waste"
+  ],
+  [
+   "hazardous waste",
+   "waste that can hurt people or animals, like old batteries, tube lights, medicines and broken glass"
+  ],
+  [
+   "reduce",
+   "to make less waste in the first place, for example by carrying a cloth bag to the market"
+  ],
+  [
+   "reuse",
+   "to use a thing again, for the same job or a new one, like keeping dal in an old jam jar"
+  ],
+  [
+   "recycle",
+   "to break a used thing down into its material and make something new from it, like new paper from old newspaper"
+  ],
+  [
+   "kabadiwala",
+   "a person who buys old newspapers, bottles and metal from homes and sells them on to be recycled"
+  ],
+  [
+   "waste picker",
+   "a person who collects and sorts things others have thrown out, and sells them for recycling"
+  ]
+ ],
+ "subconcepts": [
+  "what waste is, and how a family's day makes it",
+  "in nature, one living thing's leftovers are another's food",
+  "decomposers: bacteria, fungi and earthworms rot things that were once alive",
+  "decomposers need water, air and warmth",
+  "biodegradable and not biodegradable",
+  "most plastic does not rot, and cracks into microplastics",
+  "burning does not make waste disappear: it becomes smoke, gases and ash",
+  "sorting waste: wet, dry and hazardous, green bin and blue bin",
+  "mixing spoils waste that could be used",
+  "making compost from kitchen waste",
+  "reduce first, then reuse and repair, then recycle",
+  "how recycling works for paper, metal, glass and plastic",
+  "harm from unmanaged waste: garbage piles, animals eating plastic, standing water and mosquitoes",
+  "keeping homes and neighbourhoods clean, and germs we cannot see",
+  "the people who handle waste: waste pickers, kabadiwalas and sanitation workers"
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "Where does our waste come from?",
+   "goal": "See how one day at home makes waste, start collecting a day's waste, set up the rot jars and read the story.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Guess the dustbin",
+     "mins": 5,
+     "do": "Stand by the kitchen dustbin with your child. Before anyone looks, ask: 'Can you guess five things inside?' Then lift the lid and look, without touching. Ask: 'Where will these things be next week?' Accept any answer and don't correct it. Say: 'This week we will find out where waste really goes.'"
+    },
+    {
+     "kind": "talk",
+     "title": "How my day makes waste",
+     "mins": 8,
+     "do": "Draw two columns in the notebook: 'What I did' and 'Waste it made'. Go through the day together: brushing teeth, breakfast, school, shopping, cooking, a birthday party. Good answers: an empty toothpaste tube, a milk packet, peels, a biscuit wrapper, pencil shavings, a plastic bag, paper plates. Say: 'Anything we have stopped using and throw out is called waste.' Then start Activity a1: put out two buckets for the next 24 hours.",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the rot jars",
+     "mins": 15,
+     "do": "Do Experiment e1. First ask: 'Which of these will rot first: a banana peel, newspaper, cotton cloth or a milk packet? Which will not rot at all? Why do you think so?' Write the guesses down. Then fill the jars together. Jar 5 gets a peel in dry soil. Ask: 'Why do you think we made one jar dry?' Don't answer yet. We will find out.",
+     "ref": "e1"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Thing Nobody Ate",
+     "mins": 12,
+     "do": "Read the story aloud slowly. Don't explain it. Ask one question: 'Everything else in the worm's pot was eaten. Why was the little triangle still the same?' Write down your child's answer. You will come back to it on Day 4, when the rot jars have changed."
+    }
+   ],
+   "need": [
+    "5 clear glass jars, or plastic bottles with the tops cut off",
+    "soil from an old plant pot",
+    "a banana peel",
+    "a piece of newspaper",
+    "a piece of old cotton cloth",
+    "a piece of an empty milk packet",
+    "5 pieces of cloth and rubber bands",
+    "2 buckets or big bags",
+    "notebook and pencil"
+   ],
+   "prep": [
+    {
+     "task": "Collect 5 clear jars or bottles, and soil from an old plant pot or under a tree. Packaged potting mix and cocopeat will not work well.",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Wet, dry and hazardous",
+   "goal": "Sort one day's waste, learn the three kinds and the bins, and see why mixing spoils waste.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Sort one day's waste",
+     "mins": 14,
+     "do": "Finish Activity a1. Wear gloves. Tip the dry bucket onto old newspaper. Sort it into heaps: paper, plastic, metal, glass, cloth, and anything dangerous. Count the things in each heap, or weigh them on a kitchen scale. Write a table. Ask: 'Which heap is biggest? Is that what you guessed?' In many homes, the wet bucket and the plastic heap are the biggest.",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Green bin, blue bin, and the box kept apart",
+     "mins": 8,
+     "do": "Say: 'In 2016, India made a rule that every home should sort its waste into three kinds. Sorting waste is called segregating it.' Show each kind with something from the heaps. Wet waste is peels, leftover food and tea leaves. It goes in the green bin. Dry waste is paper, plastic, metal, glass and cloth. It goes in the blue bin. Hazardous waste can hurt someone: old batteries, tube lights, old medicines and broken glass. It is kept apart. Ask: 'Why is broken glass wrapped in newspaper first?' Good answer: 'So the person who picks it up doesn't get cut.'"
+    },
+    {
+     "kind": "do",
+     "title": "What mixing does",
+     "mins": 6,
+     "do": "Put a dry sheet of newspaper in a bowl with a handful of wet peels and a spoon of leftover dal. Leave it for 2 minutes. Then lift the paper out. Ask: 'Would a kabadiwala buy this paper now?' Good answer: 'No. It is soggy, dirty and smelly.' Say: 'A clean, dry milk packet can be sold and recycled. The same packet full of sour milk usually ends up in a dump. Mixing turns useful things into waste.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Does a forest make waste?",
+     "mins": 6,
+     "do": "Ask: 'A forest drops tonnes of leaves every year. Why isn't it buried in them?' Let your child guess. Then say: 'In a forest, the leftovers of one living thing are food for another. Earthworms eat fallen leaves. Dung beetles feed their young on dung. Fungi and bacteria break down dead things, and new plants grow from what is left. So almost nothing is wasted.' Ask: 'What in our dustbin would a forest have no use for?' Good answer: 'The plastic.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Peek at the jars",
+     "mins": 2,
+     "do": "Look at the rot jars through the glass without opening them. Ask: 'Has anything changed yet?' It is fine if nothing has. Add a spoon of water to jars 1 to 4 if the soil looks pale and dry.",
+     "ref": "e1"
+    },
+    {
+     "kind": "think",
+     "title": "Choose two changes",
+     "mins": 4,
+     "do": "Start the project 'Our waste-cut week'. Look at the biggest heap from today. Ask: 'What two things could our family do this week to make this heap smaller?' Write both on a paper and stick it on the fridge. For example: carry a cloth bag, refuse straws, rinse and sell milk packets, compost peels."
+    }
+   ],
+   "need": [
+    "the two buckets from Day 1",
+    "gloves",
+    "old newspapers",
+    "a kitchen scale, if you have one",
+    "a bowl, a few wet peels and a spoon of leftover dal"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Who eats a peel?",
+   "goal": "Meet the decomposers, find out what they need, and start a compost pot.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "What changed in the jars?",
+     "mins": 5,
+     "do": "Look at the rot jars. Ask: 'Which jar changed the most? Can you see any white threads or fluffy spots?' Say: 'Those threads are fungi. They are feeding on the peel.' Ask your child to score each thing from 5 (all there) to 0 (all gone) and write the scores. Compare jar 1, the peel in damp soil, with jar 5, the peel in dry soil.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "The decomposers",
+     "mins": 10,
+     "do": "Say: 'Living things that feed on dead plants and animals and break them down are called decomposers. Most are microbes, living things too small to see, like bacteria. Fungi are decomposers too.' Say: 'A fungus has no mouth. It pours special juices onto its food. These juices are called enzymes. They break the food into tiny pieces, which the fungus soaks in.' Then talk about the earthworm. Say: 'An earthworm has no eyes, but its skin can feel light. It has no lungs. It breathes through its skin, and only damp skin can take in air. So a worm stays in dark, damp soil, where it is safe and can breathe.' Say: 'It swallows soil and rotting leaves. What comes out is rich, crumbly soil that helps plants grow.' Ask: 'Why do worms come up onto the road after heavy rain?' Say: 'Scientists are not sure. One idea is that very wet soil makes breathing hard.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Start a compost pot",
+     "mins": 20,
+     "do": "Do Experiment e2. Ask first: 'Can we turn our peels into soil for the tulsi? What do the decomposers need to do it?' Build the layers together: dry leaves or shredded newspaper, then peels, then a handful of old soil, then dry leaves again. Sprinkle water until it feels like a squeezed sponge. Say: 'Peels are wet and bring food. Dry leaves let air in. The soil brings the decomposers.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "think",
+     "title": "What do decomposers need?",
+     "mins": 5,
+     "do": "Ask: 'In which jar did the peel rot faster, the damp one or the dry one? Why?' Good answer: 'The damp one, because decomposers need water.' Ask: 'Why do we keep the compost damp but not soggy?' Good answer: 'They need air too. Soggy soil has no air in it, and it starts to smell.' Say: 'Decomposers need water, air and warmth. That is why peels rot fast in the monsoon and slowly in a cold winter.'"
+    }
+   ],
+   "need": [
+    "the rot jars",
+    "a bucket or earthen pot with holes, and a tray or 2 bricks",
+    "dry leaves or shredded newspaper",
+    "raw peels from today",
+    "2 handfuls of soil from an old plant pot",
+    "water",
+    "a lid or old sack"
+   ],
+   "prep": [
+    {
+     "task": "Make 8 to 10 small holes in the sides and bottom of an old bucket. A grown-up does this with a drill or a screwdriver.",
+     "when": "night before"
+    },
+    {
+     "task": "Keep today's raw peels in a bowl, without oil or cooked food.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The thing nobody eats",
+   "goal": "Find out why plastic stays, where it goes, and why burning does not make it disappear.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Check the milk packet",
+     "mins": 4,
+     "do": "Look at the rot jars and score them again. Ask: 'What has happened to the milk packet?' It will look the same. Go back to the question from the story: 'Why was the little triangle still the same?' Let your child answer again, using the jars.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Why plastic stays",
+     "mins": 10,
+     "do": "Say: 'Plastic is made in factories, mostly from oil and gas. Almost all the plastic in the world has been made since 1950.' Say: 'Decomposers have had millions of years to find ways to eat leaves, wood and bones. Plastic is new. Almost no microbe has an enzyme that can break it down. So it does not rot.' Say: 'Things that decomposers can rot are called biodegradable. Peels, paper and cotton are biodegradable. Most plastic is not.' Say: 'Sunlight and heat slowly crack plastic into tiny pieces, smaller than a grain of rice. These are called microplastics. They are still plastic. Scientists have found them in the deepest sea and in snow near the top of Mount Everest.' Ask: 'Your T-shirt may be made of polyester, which is a plastic. What might come off it in the washing machine?' Good answer: 'Tiny plastic threads.'"
+    },
+    {
+     "kind": "act",
+     "title": "Follow the bottle",
+     "mins": 14,
+     "do": "Do Activity a2. Your child carries a plastic bottle along two roads. On Road 1 it goes into the dry waste and gets recycled. On Road 2 it goes into a mixed bag and ends in the dump, a drain and the sea. At each sign, ask: 'What happens to the bottle here?' At the end ask: 'What small thing at home decided which road it took?' Good answer: 'Whether we sorted it.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "think",
+     "title": "Does burning make it go away?",
+     "mins": 5,
+     "do": "Ask: 'People sometimes burn garbage on the road. After burning, the heap is small. Has the waste gone?' Let your child think. Say: 'Nothing is ever destroyed. Its tiny parts, called atoms, only move somewhere else. Burnt plastic becomes smoke, harmful gases and ash. The smoke goes into our lungs, and into the lungs of birds and dogs nearby.' Ask: 'So where is away?'"
+    },
+    {
+     "kind": "talk",
+     "title": "A bacterium that eats bottles",
+     "mins": 7,
+     "do": "Read Voice v3 aloud. Then ask its question: 'Should we wait for microbes to eat our plastic? Why or why not?' Good answers: 'No, because it is very slow.' 'It only eats one kind of plastic.' 'We should make less plastic now.' Any answer with a reason is good.",
+     "ref": "v3"
+    }
+   ],
+   "need": [
+    "the rot jars",
+    "a clean empty plastic bottle",
+    "7 sheets of paper for signs",
+    "a marker"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Reduce first",
+   "goal": "Find out why reducing comes first, mend or make something, and play the sorting game.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Which R comes first?",
+     "mins": 8,
+     "do": "Hold up a thin plastic carry bag. Ask: 'What did it take to make this bag?' Good answers: oil from deep underground, a factory, electricity, a truck to bring it. Say: 'If we carry a cloth bag, this bag is never made. Nothing is used up and nothing is thrown out. Making less waste in the first place is called reducing. It comes first.' Say: 'Next comes reusing: using a thing again, like a jam jar for dal. Repairing means mending a broken thing so it works again. Recycling comes last, because it needs collecting, washing, melting and trucks.' Say: 'Some people add refuse: saying no to things we don't need, like a straw.' Ask: 'Name one thing in our home that was reused or repaired.'"
+    },
+    {
+     "kind": "act",
+     "title": "Mend it or make it",
+     "mins": 14,
+     "do": "Do Activity a3. Your child chooses one broken thing to mend: a shirt with a missing button, a torn book, a chappal with a loose strap. Or they make something new from clean cloth scraps, bottle caps and dried flowers from a pooja. Ask: 'What would have happened to this if we had not mended it?'",
+     "ref": "a3"
+    },
+    {
+     "kind": "game",
+     "title": "Where does it go?",
+     "mins": 12,
+     "do": "Play Game g1. Lay the five category cards in a row. Take turns to draw a waste card, place it, and say why. Then turn it over and read the back. Point out that the chips packet and the straw are best on REDUCE, because almost nobody recycles them.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 8,
+     "do": "Do Worksheet ws1 together. Read each question aloud. For the written questions, your child says the answer first and then writes one or two sentences. Ask them to use what they saw in the rot jars.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a thin plastic carry bag",
+    "one broken thing to mend, with needle and thread or tape",
+    "clean cloth scraps, bottle caps or dried flowers",
+    "glue",
+    "the printed game cards"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "How recycling works",
+   "goal": "Make recycled paper, learn how different materials are recycled, and meet the people who do it.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Make recycled paper",
+     "mins": 22,
+     "do": "Do Experiment e3. First ask: 'If we mash old newspaper with water and dry it flat, will we get new paper? Will it be as good as the old?' Write the guess. While the sheet drips, say: 'Paper is made of tiny threads from wood, called fibres. Water loosens them. When the pulp dries, they tangle together again into a sheet.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Paper, metal, glass and plastic",
+     "mins": 8,
+     "do": "Say: 'Each time paper is recycled, its fibres get shorter. After about five to seven times, they are too short to hold together.' Say: 'Metal and glass are different. A steel tiffin or a glass bottle can be melted and made new again and again. Making a can from old cans uses only about a twentieth of the energy of making it from rock.' Say: 'Plastic is hardest. There are many kinds, and they cannot be melted together. A chips packet is made of layers of plastic and metal, so almost nobody recycles it. Many old bottles become polyester thread for cloth, which is hard to recycle again.' Ask: 'Which of our things can be recycled again and again?' Good answer: 'Steel, glass and metal cans.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The people who really recycle",
+     "mins": 10,
+     "do": "Read Voice v1 aloud. Then ask its question. Ask: 'Who takes our dry waste? Do we know their name?' Say: 'In India, much of the recycling is done by waste pickers and kabadiwalas. Many waste pickers are women.' If a waste picker or the building's sweeper comes to your home, help your child think of one question to ask them, and say thank you by name.",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "2 sheets of newspaper, torn and soaked overnight",
+    "a mixer (grown-up only) or a whisk",
+    "a wide tub of water",
+    "an old photo frame with mosquito net stretched over it, or a flat steel sieve",
+    "2 old cotton cloths",
+    "a rolling pin"
+   ],
+   "prep": [
+    {
+     "task": "Tear 2 sheets of newspaper into stamp-sized pieces and soak them in a bowl of water.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Clean and safe homes and lanes",
+   "goal": "See the harm unmanaged waste does, check the home for mosquito breeding spots, and meet the doctor who said 'Wash your hands'.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Peel the new paper",
+     "mins": 3,
+     "do": "Peel the recycled paper off the cloth. Ask: 'How is it different from the newspaper we started with?' Good answers: 'It is thicker, rougher and grey.' 'It tears more easily.' Write the date on it with a sketch pen.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "When waste is not managed",
+     "mins": 8,
+     "do": "Ask: 'Have you seen a pile of garbage by a road? What lives there?' Good answers: flies, rats, crows, stray dogs, cows. Say: 'Flies sit on garbage and then on our food, carrying germs. A cow on the road smells food inside a plastic bag and eats the bag too. Its stomach cannot break the plastic down, and many bags can make the cow very ill.' Say: 'Plastic bags block drains, so streets flood in the rain. Burning garbage makes smoke that harms everyone's lungs.' Ask: 'Which of these could a sorted dustbin stop?'"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Mosquito check",
+     "mins": 12,
+     "do": "Do Activity a4. Walk through your home and balcony with a torch. Look in every place water stands: the cooler, flowerpot trays, buckets, the fridge's drip tray, old tins and tyres. Ask: 'Can you see tiny wriggling things in the water?' Say: 'Those are young mosquitoes, called larvae. The mosquito that spreads dengue lays its eggs on the sides of pots of clean, still water.'",
+     "ref": "a4"
+    },
+    {
+     "kind": "talk",
+     "title": "The doctor who said 'Wash your hands'",
+     "mins": 9,
+     "do": "Read Voice v2 aloud. Ask: 'Why do you think the doctors were angry with Semmelweis?' Good answer: 'Because he said they were making mothers ill, and they could not see the germs.' Then ask its question. Say: 'Germs are too small to see. That is why we wash our hands with soap after handling waste, even when they look clean.'",
+     "ref": "v2"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 8,
+     "do": "Do Worksheet ws2. Read each question aloud. Let your child answer on their own first, then check together. For the written questions, ask them to give a reason.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "the recycled paper",
+    "a torch",
+    "soap"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Dig up the jars, and teach it back",
+   "goal": "See the final rot jar results, compare the waste-cut week, and teach what you learned.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Tip out the rot jars",
+     "mins": 10,
+     "do": "Finish Experiment e1. Wear gloves. Tip each jar onto old newspaper and look closely. Score each thing one last time and fill in the table. Ask your child to say three things: 'What I think now. What I saw. Why it happened.' Good answer: 'Things that were once alive rot, and plastic doesn't. The peel was black and soft, and the milk packet looked new. Decomposers can eat peels, but they have almost no way to eat plastic.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "review",
+     "title": "Our waste-cut week",
+     "mins": 6,
+     "do": "Look at the fridge paper from Day 2. Ask: 'Did we do our two changes? Was it easy or hard?' If you collected a second day's waste, compare the heaps with Day 2. Ask: 'Which change will we keep?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws3. These questions are harder. Read them aloud and let your child think aloud. There may be more than one good answer to the written ones.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 8,
+     "do": "Ask the check questions aloud, one at a time. Let your child answer in full sentences. If they are stuck, remind them of the jar, the compost pot or the paper, and ask again."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 6,
+     "do": "Your child teaches a grown-up who was not part of the lessons. They show the rot jar results and the recycled paper, and explain the three bins. The grown-up asks: 'Why can't we just burn plastic?' and 'Why does reducing come first?'"
+    }
+   ],
+   "need": [
+    "the rot jars",
+    "gloves",
+    "old newspaper",
+    "the recycled paper",
+    "the fridge paper from Day 2"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "What rots, what stays, which bin",
+   "day": 5,
+   "sections": [
+    [
+     "A. Rot or stay",
+     [
+      {
+       "t": "mcq",
+       "p": "Meena buries a banana peel and a piece of milk packet in damp soil. After a week, which one has changed most?",
+       "opts": [
+        "the banana peel",
+        "the milk packet",
+        "both the same"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Living things that feed on dead plants and animals and break them down are called ____.",
+       "a": [
+        "decomposers",
+        "decomposer"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why does a banana peel rot in damp soil?",
+       "opts": [
+        "Bacteria and fungi feed on it",
+        "The soil melts it",
+        "The dark makes it disappear"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Sort these into things that rot in damp soil and things that do not.",
+       "items": [
+        "banana peel",
+        "newspaper",
+        "cotton cloth",
+        "plastic bottle",
+        "tea leaves",
+        "chips packet",
+        "dry leaf",
+        "plastic straw"
+       ],
+       "cats": [
+        "rots",
+        "does not rot"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Which bin?",
+     [
+      {
+       "t": "match",
+       "p": "Match each thing to where it should go.",
+       "pairs": [
+        [
+         "tea leaves",
+         "green bin: wet waste"
+        ],
+        [
+         "empty glass jar",
+         "blue bin: dry waste"
+        ],
+        [
+         "old battery",
+         "kept apart: hazardous waste"
+        ],
+        [
+         "shirt with a missing button",
+         "mend it"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why should a milk packet be rinsed before it goes in the dry waste?",
+       "opts": [
+        "So sour milk does not spoil it, and it can be recycled",
+        "So it looks shiny",
+        "So it rots faster"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which of these is reducing waste?",
+       "opts": [
+        "carrying a cloth bag to the market",
+        "putting a bag in the blue bin",
+        "burning old leaves"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Keeping dal in an old jam jar is called ____.",
+       "a": [
+        "reuse",
+        "reusing"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "In the rot jars, the peel in damp soil rotted faster than the peel in dry soil. Why do you think that happened?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Your friend says, 'I threw the wrapper away, so it's gone.' What would you tell your friend?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Waste around us",
+   "day": 7,
+   "sections": [
+    [
+     "A. Harm and safety",
+     [
+      {
+       "t": "mcq",
+       "p": "Tara sees water standing in a flowerpot tray for a week. Why should she empty it?",
+       "opts": [
+        "Mosquitoes can lay eggs in it",
+        "The tray will melt",
+        "The water will turn into plastic"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A cow on the road eats a plastic bag with food inside. Why is this harmful?",
+       "opts": [
+        "Its stomach cannot break the plastic down",
+        "The bag makes it run too fast",
+        "Cows cannot eat food from bags"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Neighbours burn a pile of plastic. What happens to the plastic?",
+       "opts": [
+        "It turns into smoke, harmful gases and ash",
+        "It disappears completely",
+        "It turns back into oil"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Pieces of plastic smaller than a grain of rice are called ____.",
+       "a": [
+        "microplastics",
+        "microplastic"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Recycling and people",
+     [
+      {
+       "t": "sort",
+       "p": "Which can be recycled again and again, and which gets weaker each time?",
+       "items": [
+        "steel spoon",
+        "glass bottle",
+        "metal can",
+        "newspaper",
+        "notebook paper",
+        "plastic bottle"
+       ],
+       "cats": [
+        "again and again",
+        "weaker each time"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each one to what it does.",
+       "pairs": [
+        [
+         "kabadiwala",
+         "buys old paper, metal and bottles from homes"
+        ],
+        [
+         "waste picker",
+         "collects and sorts things others threw out"
+        ],
+        [
+         "sanitation worker",
+         "sweeps streets and clears drains"
+        ],
+        [
+         "earthworm",
+         "eats rotting leaves and makes soil rich"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which way of dealing with waste saves the most?",
+       "opts": [
+        "reduce",
+        "recycle",
+        "dump"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Ravi says, 'Recycling is the best way to deal with plastic.' Do you agree? Give one reason.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Why do you think paper can be recycled only a few times?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Think it through",
+   "day": 8,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "In 2016, scientists in Japan found a bacterium that feeds on bottle plastic. It took about six weeks to eat a thin film. What does this tell us?",
+       "opts": [
+        "Some life can eat some plastic, but slowly",
+        "All plastic will rot soon",
+        "Plastic is good food for everything"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Two scientists left bags labelled 'biodegradable' in soil and in the sea for three years. What did they find?",
+       "opts": [
+        "Some bags could still carry shopping",
+        "All the bags rotted in a week",
+        "All the bags turned into soil"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Atoms are never destroyed. Where do the atoms of a burnt leaf go?",
+       "opts": [
+        "into smoke, gases and ash",
+        "nowhere, they vanish",
+        "back into the tree at once"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Wet waste rotting deep inside a dump, with no air, makes a gas that can catch fire. It is called ____.",
+       "a": [
+        "methane"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why does almost no microbe have a way to eat plastic?",
+       "opts": [
+        "Plastic is new, so microbes have had little time to evolve a way",
+        "Plastic is too heavy",
+        "Microbes do not like its colour"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A family cuts off the small corner of one milk packet every day. How many corners is that in a year?",
+       "opts": [
+        "365",
+        "30",
+        "12"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Your view",
+     [
+      {
+       "t": "write",
+       "p": "A peel feeds microbes, then worms, then a plant. What does a plastic packet feed? What does that tell you?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Waste pickers do much of India's recycling, but are often paid very little. Is that fair? Why?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Plan a fair test: does a peel rot faster in a warm place or a cold place? What would you keep the same?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The rot jars",
+   "day": 1,
+   "question": "Which things rot in damp soil: a banana peel, newspaper, cotton cloth or a milk packet? And does a peel rot in dry soil?",
+   "need": [
+    "5 clear glass jars, or plastic bottles with the tops cut off by a grown-up",
+    "soil from an old plant pot or from under a tree",
+    "2 pieces of banana peel, each about the size of a matchbox",
+    "a piece of newspaper, cotton cloth and milk packet, each the same size",
+    "water",
+    "5 pieces of cloth and rubber bands",
+    "a marker for labels"
+   ],
+   "steps": [
+    "Mix most of the soil with water until it feels like a squeezed sponge: damp, but no water drips out.",
+    "Fill jars 1 to 4 three-quarters full with the damp soil. Fill jar 5 with dry soil.",
+    "Push one thing down against the glass in each jar, so you can see it from outside, about 3 cm below the top of the soil. Jar 1: peel. Jar 2: newspaper. Jar 3: cotton. Jar 4: milk packet. Jar 5: the second peel.",
+    "Cover each jar with cloth and a rubber band. Label it.",
+    "Keep all five jars together in a warm, shady place indoors.",
+    "Look every two or three days. Score each thing from 5 (all there) to 0 (all gone). Add a spoon of water to jars 1 to 4 if they look dry.",
+    "After at least a week, tip each jar onto newspaper, wearing gloves, and look closely."
+   ],
+   "predict": "Ask your child to guess first: 'Put the five jars in order, from the one that will rot fastest to the one that will not rot at all. Why did you choose that order?'",
+   "observe": "In warm weather, the peel in damp soil goes brown, then black and soft, often with white or green fluffy mould, within a week. The newspaper goes soft and grey. The cotton gets stained and weak, more slowly. The milk packet looks the same. The peel in dry soil changes much less, and often dries brown and leathery.",
+   "why": "Soil is full of decomposers: bacteria, fungi and tiny animals. They feed on things that were once alive, like the peel, the paper made from wood and the cotton from a plant. Fungi pour out enzymes that break the food down. Decomposers need water, so the peel in dry soil rots far more slowly. The milk packet is plastic. Almost no microbe has an enzyme that can break plastic down, so it stays.",
+   "safety": "Do not sniff the mouldy jars closely or open them near your face. Wear gloves or use a spoon when you look closely. Wash hands with soap afterwards. A grown-up cuts any plastic bottles. Put the peel, paper and cotton in the compost pot afterwards, and the milk packet in the dry waste.",
+   "time": "15 min + a short look every few days for 1 to 2 weeks"
+  },
+  {
+   "id": "e2",
+   "title": "The compost pot",
+   "day": 3,
+   "question": "Can kitchen peels and dry leaves turn into soil for plants, and what do they need to do it?",
+   "need": [
+    "an old bucket or earthen pot with 8 to 10 small holes, made by a grown-up",
+    "a tray or 2 bricks to stand it on",
+    "dry leaves, or shredded newspaper and cardboard",
+    "raw vegetable and fruit peels",
+    "2 handfuls of soil from an old plant pot",
+    "water",
+    "a lid or an old sack",
+    "a stick for stirring"
+   ],
+   "steps": [
+    "Stand the pot on the tray or bricks on the balcony, so air can get in underneath.",
+    "Put a layer of dry leaves or shredded paper at the bottom, about a hand deep.",
+    "Add a layer of chopped peels. Then a handful of soil. Then dry leaves again.",
+    "Sprinkle water until it feels like a squeezed sponge. Cover it.",
+    "Every day, add that day's raw peels and about the same amount of dry leaves or paper on top.",
+    "Stir it every three or four days.",
+    "Use only raw peels, tea leaves and crushed eggshells. Never add cooked food, oil, milk or meat, because they smell and bring rats and flies."
+   ],
+   "predict": "Ask your child to guess first: 'Will these peels turn into soil? How long do you think it will take?'",
+   "observe": "In a few days the middle may feel warm. The peels go soft and dark. After about two to three months, most of the pot is dark, crumbly compost that smells like soil after rain. If it smells bad, it is too wet: add dry leaves. If nothing changes, it is too dry: add water.",
+   "why": "The soil brings decomposers. Peels give them food and water. Dry leaves and paper keep gaps for air, which the decomposers also need. As they feed, they give off a little heat, which is why the middle gets warm. What is left is compost, food for plants.",
+   "safety": "Wash hands with soap after touching the compost. A grown-up makes the holes in the pot.",
+   "time": "20 min to set up + 2 minutes a day + ready in about 2 to 3 months"
+  },
+  {
+   "id": "e3",
+   "title": "New paper from old",
+   "day": 6,
+   "question": "Can old newspaper be turned into new paper, and will it be as good as the old?",
+   "need": [
+    "2 sheets of newspaper, torn into stamp-sized pieces and soaked overnight",
+    "a mixer (grown-up only), or a whisk",
+    "a wide tub of water",
+    "an old photo frame with mosquito net stretched tight over it, or a flat steel sieve",
+    "2 old cotton cloths",
+    "a rolling pin or a sponge"
+   ],
+   "steps": [
+    "A grown-up blends the soaked paper with plenty of water for a few seconds, to make a thin pulp. Without a mixer, squeeze and whisk it by hand for 10 minutes.",
+    "Pour the pulp into the tub of water and stir.",
+    "Slide the frame into the tub, under the pulp, and lift it out flat. A thin, even layer of pulp should sit on the net.",
+    "Let it drip for a minute. Then turn it over onto a cotton cloth and lift the frame off.",
+    "Cover with the second cloth. Press with the rolling pin to squeeze out water.",
+    "Leave it flat under a fan overnight. Peel it off the next day."
+   ],
+   "predict": "Ask your child to guess first: 'Will we get paper we can write on? Will it be stronger or weaker than the newspaper? Why?'",
+   "observe": "The new sheet is grey from the ink, thicker and rougher than newspaper, and tears more easily. You can write and draw on it.",
+   "why": "Paper is made of tiny fibres from wood. Water loosens them from each other. On the net, they settle in a tangle, and as the water dries they hold together again as a sheet. Each time paper is recycled, the fibres get shorter, so recycled paper is weaker. After about five to seven times, they are too short to make paper.",
+   "safety": "Only a grown-up uses the mixer. Wash the mixer jar well afterwards.",
+   "time": "22 min + dry overnight"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "One day's waste",
+   "day": 1,
+   "mins": 20,
+   "need": [
+    "2 buckets or big bags",
+    "paper for signs",
+    "gloves",
+    "old newspapers",
+    "a kitchen scale, if you have one",
+    "notebook"
+   ],
+   "steps": [
+    "Label one bucket 'Wet' and one 'Everything else'. Tell the whole family.",
+    "For 24 hours, every bit of home waste goes into one of the two buckets.",
+    "Ask your child to guess how many things the family will throw out in one day.",
+    "Next day, wear gloves. Tip the 'Everything else' bucket onto newspaper.",
+    "Sort it into heaps: paper, plastic, metal, glass, cloth, and anything dangerous.",
+    "Count the things in each heap, or weigh each heap. Write a table.",
+    "Put each heap in the right bin and wash hands with soap."
+   ],
+   "outcome": "A table of one real day of your family's waste, sorted by kind, and the start of the waste-cut week."
+  },
+  {
+   "id": "a2",
+   "title": "Follow the bottle (act it out)",
+   "day": 4,
+   "mins": 14,
+   "need": [
+    "a clean empty plastic bottle",
+    "7 sheets of paper",
+    "a marker"
+   ],
+   "steps": [
+    "Write signs and put them in different rooms. Road 1: DRY WASTE BAG, WASTE PICKER, SCRAP DEALER, FACTORY, NEW T-SHIRT. Road 2: MIXED BAG, DUMP OR DRAIN, SEA.",
+    "Your child carries the bottle along Road 1. At each sign, they say what happens there and act it out.",
+    "Good answers: the waste picker collects it and sells it. The scrap dealer sorts thousands of bottles. The factory washes, shreds and melts them and spins them into polyester thread. The thread becomes cloth.",
+    "Then carry the bottle along Road 2. At each sign, say what happens.",
+    "Good answers: the mixed bag goes to the dump. Rain washes the bottle into a drain, then a river, then the sea. Sunlight cracks it into microplastics, which fish and birds swallow.",
+    "Draw the two roads in the notebook and mark where the bottle ends up on each."
+   ],
+   "outcome": "Two drawn journeys of one bottle, and the idea that a choice at home decides which road it takes."
+  },
+  {
+   "id": "a3",
+   "title": "Mend it or make it",
+   "day": 5,
+   "mins": 14,
+   "need": [
+    "one broken thing: a shirt with a missing button, a torn book or a chappal with a loose strap",
+    "needle and thread, tape or glue",
+    "or clean cloth scraps, bottle caps and dried pooja flowers",
+    "a sheet of cardboard"
+   ],
+   "steps": [
+    "Choose one thing to mend, or choose to make something new from waste.",
+    "To sew a button: a grown-up threads the needle. Push it up through a hole in the button and down through the next, six times. Tie a knot at the back.",
+    "To mend a book: lay clear tape along the tear on both sides.",
+    "To make something: arrange cloth scraps, caps and dried flowers on the cardboard into a picture, a bookmark or a coaster. Glue them down.",
+    "Draw the thing in your notebook. Write what it was before and what it is now."
+   ],
+   "outcome": "One thing mended or made from waste, kept in use instead of thrown out."
+  },
+  {
+   "id": "a4",
+   "title": "Mosquito check",
+   "day": 7,
+   "mins": 12,
+   "need": [
+    "a torch",
+    "an old toothbrush or scrubber",
+    "gloves"
+   ],
+   "steps": [
+    "Walk through your home and balcony with a grown-up and a torch.",
+    "Look in every place water stands still: the cooler, flowerpot trays, buckets, the fridge's drip tray, old tins, coconut shells and tyres.",
+    "Shine the torch in. Look for tiny wriggling larvae.",
+    "Tip out the water onto soil or into a drain. Scrub the sides, because mosquito eggs stick there.",
+    "Turn empty buckets and pots upside down so they cannot fill with rain.",
+    "Make a list of the places you checked. Check them again every week."
+   ],
+   "outcome": "A home with no standing water where mosquitoes can breed, and a weekly checklist."
+  }
+ ],
+ "project": {
+  "title": "Our waste-cut week",
+  "days": [
+   2,
+   8
+  ],
+  "steps": [
+   "Day 2: look at the biggest heap from the one-day waste sort.",
+   "Choose two changes the family will make this week, for example carrying a cloth bag, refusing straws, composting peels, or rinsing milk packets and leaving their corner on.",
+   "Write the two changes on a paper on the fridge. Tick each day you do them.",
+   "The day before Day 8, collect one day's waste again in the two buckets.",
+   "On Day 8, sort and count it again. Compare it with the first day in a table.",
+   "Write one change that worked, and one that was hard."
+  ],
+  "outcome": "Two tables of your family's waste, before and after, and one change the family keeps."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Where Does It Go?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards, cut out",
+   "a pencil and paper for scores"
+  ],
+  "rules": [
+   "Lay the five category cards face up in a row: REDUCE, REUSE OR REPAIR, COMPOST, RECYCLE, KEEP APART.",
+   "Shuffle the waste cards and put them face down.",
+   "On your turn, take the top card, read it aloud and put it on the category you think is best. Say why in one sentence.",
+   "Turn the card over and read the answer. If you matched it and said why, score 1 point.",
+   "If another player gives a better reason everyone agrees with, they score 1 point too.",
+   "When the cards run out, the player with the most points wins.",
+   "Playing alone? Set a timer for 8 minutes, place every card, then check the backs and try to beat your score next time."
+  ],
+  "cards": [
+   {
+    "job": true,
+    "front": "REDUCE: we should not have brought it home"
+   },
+   {
+    "job": true,
+    "front": "REUSE OR REPAIR: use it again or mend it"
+   },
+   {
+    "job": true,
+    "front": "COMPOST: green bin, let it rot"
+   },
+   {
+    "job": true,
+    "front": "RECYCLE: blue bin, for the kabadiwala"
+   },
+   {
+    "job": true,
+    "front": "KEEP APART: hazardous waste"
+   },
+   {
+    "front": "A banana peel",
+    "back": "COMPOST. Decomposers eat it and make soil."
+   },
+   {
+    "front": "Tea leaves after making chai",
+    "back": "COMPOST. They rot quickly."
+   },
+   {
+    "front": "Crushed eggshells",
+    "back": "COMPOST. They break down slowly."
+   },
+   {
+    "front": "Dry fallen leaves",
+    "back": "COMPOST. They keep air in the pot."
+   },
+   {
+    "front": "A pooja flower garland",
+    "back": "COMPOST, after taking out any thread or plastic."
+   },
+   {
+    "front": "Yesterday's newspaper",
+    "back": "RECYCLE. It becomes new paper or egg trays."
+   },
+   {
+    "front": "A rinsed, dry milk packet",
+    "back": "RECYCLE. Clean ones can be sold."
+   },
+   {
+    "front": "A plastic water bottle",
+    "back": "RECYCLE. It is often made into polyester thread."
+   },
+   {
+    "front": "A steel spoon that is bent",
+    "back": "REUSE OR REPAIR. Bend it back. Old steel can be recycled for ever."
+   },
+   {
+    "front": "An empty glass jam jar",
+    "back": "REUSE OR REPAIR. Keep dal or pencils in it."
+   },
+   {
+    "front": "A shirt with a missing button",
+    "back": "REUSE OR REPAIR. Sew a new button on."
+   },
+   {
+    "front": "A T-shirt that is too small",
+    "back": "REUSE OR REPAIR. Give it to a younger child, or make a duster."
+   },
+   {
+    "front": "A torn chappal strap",
+    "back": "REUSE OR REPAIR. The cobbler can stitch it."
+   },
+   {
+    "front": "A notebook with empty pages at the back",
+    "back": "REUSE OR REPAIR. Use the empty pages."
+   },
+   {
+    "front": "A cardboard shoebox",
+    "back": "REUSE OR REPAIR. Store things in it. Recycle it when it is worn out."
+   },
+   {
+    "front": "A plastic straw",
+    "back": "REDUCE. Say no to it. Most straws are never recycled."
+   },
+   {
+    "front": "A shiny chips packet",
+    "back": "REDUCE. It is plastic and metal in layers, so almost nobody recycles it."
+   },
+   {
+    "front": "A thin plastic carry bag",
+    "back": "REDUCE. Carry a cloth bag instead."
+   },
+   {
+    "front": "Shiny gift wrapping paper",
+    "back": "REDUCE. Wrap gifts in old newspaper or cloth."
+   },
+   {
+    "front": "An old battery",
+    "back": "KEEP APART. It holds harmful metals."
+   },
+   {
+    "front": "A used tube light",
+    "back": "KEEP APART. It holds a little mercury, which is poisonous."
+   },
+   {
+    "front": "Old medicine tablets",
+    "back": "KEEP APART. They can harm animals and water."
+   },
+   {
+    "front": "A broken glass bangle",
+    "back": "KEEP APART. Wrap it in paper so nobody is cut."
+   }
+  ]
+ },
+ "big": [
+  "When we throw something away, where is 'away'?",
+  "Is a peel waste? It is waste in the kitchen and food in the compost pot. Who decides what is waste?",
+  "The people who clean up after us are often paid the least. Is that fair?",
+  "A cow, a turtle and a crow cannot make rules about plastic. Who should speak for them?",
+  "Your grandparents probably threw out much less than we do. Were they poorer, or richer in some ways?"
+ ],
+ "challenge": [
+  {
+   "q": "Many people believe that bags labelled 'biodegradable' rot away soon after they are thrown out.",
+   "hint": "In 2019, two British scientists, Imogen Napper and Richard Thompson, tested this. They left pieces of different shopping bags in soil, in the sea and in the open air for three years. Several bags sold as biodegradable were still whole in the soil and the sea, and some could still carry a full load of shopping. Ask: what should we trust more, a label or a test?"
+  },
+  {
+   "q": "'Burning garbage gets rid of it.'",
+   "hint": "After burning, the heap is smaller, so it looks gone. But atoms are never destroyed. Burning turns waste into smoke, harmful gases and ash. Burnt plastic makes especially harmful smoke, and doctors link this kind of smoke to lung and heart illness. Ask: where does the smoke go?"
+  },
+  {
+   "q": "'Recycling will solve the plastic problem.'",
+   "hint": "In 2017, three American scientists, Roland Geyer, Jenna Jambeck and Kara Lavender Law, added up all the plastic made in the world up to 2015. Of all the plastic that had become waste, only about 9 parts in every 100 had been recycled. Many kinds, like chips packets, are hardly recycled at all. Ask: if most plastic is not recycled, what else must we do?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "An earthworm in a compost pot",
+   "view": "An earthworm has no eyes and breathes through its damp skin, so it lives in dark, damp soil. It eats rotting leaves and peels, and leaves behind rich soil. We call a peel waste. To the worm, it is dinner. Ask: is anything waste to a worm?"
+  },
+  {
+   "who": "A cow on a city street",
+   "view": "A cow smells food inside a plastic bag and eats the whole bag, because she cannot open it. Her stomach can break down grass, but not plastic. Vets in India have found many plastic bags inside the stomachs of street cows. Ask: whose mistake is it when a cow eats plastic?"
+  },
+  {
+   "who": "A waste picker",
+   "view": "She can tell many kinds of plastic apart by touch and sound, and she knows which ones sell. A rinsed milk packet earns her money. A packet full of sour milk is useless to her. Ask: who is the real expert on waste in your city?"
+  },
+  {
+   "who": "A family from your grandparents' time",
+   "view": "Many families used steel tiffins, cloth bags and leaf plates, mended clothes and passed them on, and sold old newspapers to the kabadiwala. Ask an elder: what did your family throw out when you were a child?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "The waste pickers of Pune and their union, the Kagad Kach Patra Kashtakari Panchayat (formed 1993), India",
+   "idea": "Waste pickers walk the streets and dumps, collect paper, plastic, glass and metal that others threw out, sort it by hand and sell it for recycling. Many of them are women. In 1993, waste pickers in Pune formed a union and said their work was a service to the city, which should be respected and paid. Later they set up a cooperative called SWaCH, whose members collect sorted waste door to door from homes in Pune.",
+   "then": "Waste pickers were often treated as dirty, chased away from bins and dumps, and not counted as workers at all.",
+   "now": "It is widely accepted that waste pickers and kabadiwalas do a large share of India's recycling. India's 2016 waste rules say cities should include waste pickers in their waste work. Their work is still often unsafe and poorly paid.",
+   "status": "accepted",
+   "ask": "If waste pickers stopped working for one month, what would happen to our city? What does that tell you about how important their work is?",
+   "day": 6
+  },
+  {
+   "id": "v2",
+   "who": "Ignaz Semmelweis (1818–1865), doctor, Hungary and Austria",
+   "idea": "In 1847, at a big hospital in Vienna, many mothers were dying of a fever soon after giving birth. Semmelweis saw that doctors often came straight from cutting open dead bodies to help mothers give birth. He made the doctors wash their hands in a chlorine solution first. Far fewer mothers died.",
+   "then": "Many doctors were offended at the idea that their own hands were making mothers ill. Germs had not yet been discovered, and he could not explain what was being carried. He lost his job in Vienna. He died in 1865, in an asylum, of an infected wound.",
+   "now": "In the years after he died, scientists such as Louis Pasteur and Robert Koch showed that germs cause disease. Semmelweis was right. Handwashing is now one of the most important ways to stop illness.",
+   "status": "accepted",
+   "ask": "Semmelweis had good results, but he could not see or show the thing that was harming people. What would you need to see before you believed in something invisible?",
+   "day": 7
+  },
+  {
+   "id": "v3",
+   "who": "Shosuke Yoshida, Kohei Oda and their team (2016, Japan), and Federica Bertocchini (2017, Spain)",
+   "idea": "Near a bottle recycling plant in Sakai, Japan, the team found a bacterium living on PET, the plastic of drinking bottles. They named it Ideonella sakaiensis. It makes enzymes that break PET into small pieces, which it eats. It took about six weeks to eat a thin film of plastic. In 2017, Federica Bertocchini noticed that wax worms, the young of a moth, chewed holes in plastic bags, and she and her colleagues reported that they seem to break down the plastic.",
+   "then": "Most scientists had thought that no living thing could break down these plastics.",
+   "now": "The bacterium is real, and scientists have made its enzymes faster to help recycle bottles. But it works on only one kind of plastic, and slowly. How much plastic the wax worms truly digest is still argued about. Most scientists say these discoveries may help recycling, but they cannot clean up plastic spread through the sea and soil.",
+   "status": "debated",
+   "ask": "Should we wait for microbes to eat our plastic? Why or why not?",
+   "day": 4
+  }
+ ],
+ "story": {
+  "title": "The Thing Nobody Ate",
+  "text": [
+   "I am a worm. I live in a clay pot on a balcony, four floors up, in the city of Pune. I have no eyes, but my skin can tell light from dark. When light touches me, I go down. Down is where the good things are. It is dark there, and damp, and full of food.",
+   "I have no lungs either. I breathe through my skin, and only damp skin can breathe. So I like my pot the way the girl keeps it, as damp as a squeezed sponge. The girl's name is Ira. I know her by the way the pot shakes when she comes near. Her steps are quick and light. Her father's steps are slow, and he always says 'Chee!' when he lifts the lid.",
+   "Every evening Ira tips in the day's food. Onion skins. Tea leaves, still warm. The green tops of carrots. Mango skins in summer. Eggshells, crushed small. Then a layer of dry leaves from the tree by the gate, so the pot does not go soggy and sour.",
+   "I do not eat alone. Nobody in this pot eats alone. First come the ones too small for anyone to see, the bacteria. They are on every peel and in every crumb of soil. Then come the fungi, whose white threads spread through a soft tomato like roots. They pour out juices that make the food soft. Then I come, and I swallow the soft food with grains of soil. What comes out of my other end is dark and crumbly. Ira's mother calls it black gold.",
+   "On the first day of the pot, something else fell in with the peels. It was small, about the size of my head. It was a little triangle, smooth, with sharp edges. It had no smell at all. I had never met anything with no smell.",
+   "I pushed against it. It did not give. The bacteria crowded over it and found nothing to eat. The fungi sent a thread across it and drew the thread back. Then the dry leaves came down, and the next day's peels, and the triangle was buried. I forgot about it.",
+   "Many weeks went by. The rains came, and the pot stayed damp. The onion skins went first. The tea leaves turned to soil. The mango skins took longer, and the eggshells longest of all, but even they went soft and broke into white flecks. New worms hatched in the pot. The pot grew heavy with black gold.",
+   "Then one bright morning the lid came off and did not go back. Ira's hands came down into the pot. 'Gently,' said her mother. 'It's ready. Let's fill the tulsi pot.' I went down as fast as I could, away from the light. Ira's fingers sifted the soil around me. Then they stopped.",
+   "'Amma,' she said. 'Look.'",
+   "She was holding the triangle. After all those weeks, after all that eating, it had the same sharp corners. It was still white, with a blue stripe.",
+   "'That's just the corner of a milk packet,' said her father from the door. 'Throw it out.'",
+   "'But it was in here the whole time,' said Ira. 'Everything else got eaten. The peels, the leaves, even the eggshells. Nobody ate this.'",
+   "'Nothing in there can eat plastic,' said her mother. 'Not the worms, and not the tiny ones either.'",
+   "Ira turned the triangle over in her fingers. 'We cut one every morning,' she said slowly. 'One every single day. Where do all the others go?'",
+   "Nobody answered. Her father came out onto the balcony and looked at the little thing in her hand. For once, he did not say 'Chee.'",
+   "Ira did not throw the triangle out. She put it in a jar on the shelf. Then she spread the black gold into the tulsi pot, and put me and my family back in our own pot. She laid fresh peels over us, and dry leaves on top, and closed the lid. Down in the dark, I went back to eating.",
+   "The next morning, the pot shook with quick, light steps. Then, just above me, I felt the snip of scissors on a milk packet. One snip. Only one. Ira had cut the packet open, but not all the way across. The little corner stayed hanging on, part of the packet, going wherever the packet went.",
+   "I do not know where that is. Down here, everything that falls becomes food for someone. I have never been to the place where the packets go."
+  ],
+  "epiphany": "For the parent: the turn comes when Ira holds up the milk packet corner. Everything in the pot that was once alive had something to eat it: bacteria, fungi and worms. The plastic had nothing, so after weeks it was exactly the same. Her question 'Where do all the others go?' is the question of this whole rung. The next morning she leaves the corner attached, because a tiny loose corner is easily lost into drains and dumps, while a whole clean packet can be collected and recycled. Let your child find this out from the rot jars on Day 4 before you name it.",
+  "ask": [
+   "Everything else in the pot was eaten. Why was the little triangle still the same?",
+   "The worm has no eyes and no lungs. How does it stay safe and breathe?",
+   "Why did Ira put the triangle in a jar instead of throwing it out?",
+   "What did Ira change the next morning? Why do you think she did it?",
+   "The worm says it has never been to the place where the packets go. Where do you think that is?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "In nature, one living thing's leftovers are another's food.",
+   "more": "Fallen leaves feed earthworms and fungi, and what is left feeds new plants. Show it with the compost pot: the family's peels become soil for the tulsi."
+  },
+  {
+   "idea": "Things that were once alive rot. Most plastic does not, because almost nothing can eat it.",
+   "more": "Decomposers have had millions of years to find ways to eat leaves and wood. Almost all plastic has been made in the last 75 years. The milk packet in the rot jar shows it."
+  },
+  {
+   "idea": "Nothing really goes away. It only moves somewhere else.",
+   "more": "Atoms are never destroyed. A packet thrown out goes to a dump, a drain or the sea. A burnt packet becomes smoke and ash. Use the Follow the Bottle drama and the burning question on Day 4."
+  }
+ ],
+ "unknowns": [
+  "Nobody knows exactly how long a plastic bottle lasts in nature. Nobody has watched one for hundreds of years, so numbers like '450 years' are rough guesses from tests.",
+  "Scientists are still finding out what microplastics do inside the bodies of fish, birds and people.",
+  "Scientists argue about whether wax worms really digest plastic bags, and whether microbes can ever be made to eat plastic fast enough to help."
+ ],
+ "books": [
+  {
+   "title": "One Plastic Bag: Isatou Ceesay and the Recycling Women of the Gambia",
+   "author": "Miranda Paul (illustrated by Elizabeth Zunon)",
+   "for": "read together",
+   "age": "5–9",
+   "why": "The true story of a woman who, with other women in her village, turned plastic bags littering the ground into purses that they sold."
+  },
+  {
+   "title": "Compost Stew: An A to Z Recipe for the Earth",
+   "author": "Mary McKenna Siddals (illustrated by Ashley Wolff)",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A rhyming list of what can go into a compost pot, from apple cores to zucchini peels. Pairs with the compost pot."
+  },
+  {
+   "title": "Wiggling Worms at Work",
+   "author": "Wendy Pfeffer (illustrated by Steve Jenkins)",
+   "for": "read together",
+   "age": "4–8",
+   "why": "How earthworms move, breathe through their skin and turn dead leaves into rich soil."
+  },
+  {
+   "title": "Joseph Had a Little Overcoat",
+   "author": "Simms Taback",
+   "for": "read together",
+   "age": "3–7",
+   "why": "A man turns his worn coat into a jacket, a vest, a scarf and smaller and smaller things. A picture book about reuse."
+  }
+ ],
+ "check": [
+  {
+   "q": "In the rot jars, what happened to the banana peel and to the milk packet? Why?",
+   "a": "The peel went black and soft and began to disappear, because decomposers like bacteria and fungi fed on it. The milk packet looked the same, because almost no microbe can break down plastic."
+  },
+  {
+   "q": "Why did the peel in dry soil rot more slowly than the peel in damp soil?",
+   "a": "Decomposers need water to live and feed. In dry soil they can hardly work, so the peel rots slowly."
+  },
+  {
+   "q": "Name the three kinds of waste and where each one goes.",
+   "a": "Wet waste, like peels, goes in the green bin. Dry waste, like paper and plastic, goes in the blue bin. Hazardous waste, like batteries and broken glass, is kept apart."
+  },
+  {
+   "q": "Why does reducing come before recycling?",
+   "a": "If we reduce, the thing is never made, so nothing is used up and nothing is thrown out. Recycling needs collecting, washing, melting and trucks, and some material is lost."
+  },
+  {
+   "q": "What happens to plastic when it is burned?",
+   "a": "It does not disappear. It turns into smoke, harmful gases and ash. The smoke harms the lungs of people and animals."
+  },
+  {
+   "q": "Why should we empty standing water from coolers and flowerpot trays every week?",
+   "a": "Mosquitoes, including the one that spreads dengue, lay eggs in still water. Emptying and scrubbing it stops new mosquitoes growing."
+  },
+  {
+   "q": "Who does much of the recycling in India?",
+   "a": "Waste pickers and kabadiwalas. They collect, sort and sell paper, plastic, metal and glass. Many waste pickers are women."
+  }
+ ]
+}

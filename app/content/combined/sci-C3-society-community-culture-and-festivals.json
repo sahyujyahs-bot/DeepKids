@@ -1,0 +1,1278 @@
+{
+ "key": "combined|sci|3|society-community-culture-and-festivals",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "society-community-culture-and-festivals",
+ "title": "Community and festivals: why people live and celebrate together",
+ "source": "DeepKids Combined. Covers NCERT Class 3 'Going to the Mela' (near and far family at the mela, how families in a community help each other) and 'Celebrating Festivals' (food, dress and customs, all ages celebrating together). It also covers NIOS Class 3 Lesson 2 'Our Social Environment' (professions and respect for them, public services, family, neighbourhood and community), Lesson 3 'Our Festivals' (festivals of many regions and religions, national festivals), Lesson 11 'National Identity' (flag, national days, anthem and song, national symbols) and Lesson 12 'Our Social and Economic Environment' (globalisation, Right to Education, Right to Information, MGNREGA). Also animal societies, culture as learned behaviour, and Sun and Moon calendars. No textbook needed.",
+ "summary": "Count everyone who helped make your breakfast and you run out of fingers. No person or family lives alone. Your child tests why people split work into steps, maps the helpers and shared places around home, watches ants follow a smell trail and dances the honeybee's waggle dance. They find out that culture is what people learn from each other, and that some monkeys have it too. They discover why Christmas stays on one date while Eid moves, design a festival of their own, make an exact Tricolour and learn three rights Indian law gives every person.",
+ "builds_on": "This is the first rung on society and community. It builds on the Class 3 family rung (who raises a child, sharing work at home). In Class 4 the rung looks at living together in a neighbourhood: shared spaces, transport, banks and maps. In Class 5 it looks at India's many cultures, heritage, freedom struggle and how communities are run.",
+ "subconcepts": [
+  "community and society: people who live near each other and depend on each other",
+  "professions and the division of labour, and respect for every kind of work",
+  "public services and how taxes pay for them",
+  "shared things (commons) and the fair rules that protect them",
+  "the mela: crowds, near and far family, and what to do if you are lost",
+  "animal societies: ant and bee colonies that work without a boss",
+  "how animals in a colony share news: pheromone trails and the waggle dance",
+  "culture: what people learn from each other and pass on, changing as it goes",
+  "culture in other animals: the Koshima macaques",
+  "festivals of many regions and religions: food, dress and all ages together",
+  "solar, lunar and lunisolar calendars: why some festivals move",
+  "national identity: the flag, emblem, anthem, song, symbols and national days",
+  "globalisation: goods and people moving between countries",
+  "rights in Indian law: Right to Education, Right to Information and MGNREGA"
+ ],
+ "goals": [
+  "By the end your child can trace a meal back through the many people who helped make it.",
+  "By the end your child can explain the division of labour using their own paper-bag test.",
+  "By the end your child can name public services near home, say who pays for them, and say what to do if lost in a crowd.",
+  "By the end your child can explain how ants and bees share news, and what culture is.",
+  "By the end your child can explain why Christmas stays on one date while Eid moves about 11 days each year.",
+  "By the end your child can name India's national symbols and days, and three rights Indian law gives every person."
+ ],
+ "words": [
+  [
+   "community",
+   "people who live near each other, help each other and share things"
+  ],
+  [
+   "society",
+   "all the communities of a town or a country, living by shared rules"
+  ],
+  [
+   "profession",
+   "the work a person does to earn a living, such as tailoring, farming or nursing"
+  ],
+  [
+   "division of labour",
+   "splitting a job into steps, with each person doing one step"
+  ],
+  [
+   "public service",
+   "a service set up for everyone, such as a government school, hospital or post office"
+  ],
+  [
+   "tax",
+   "money everyone pays to the government to run public services"
+  ],
+  [
+   "commons",
+   "something shared by a whole community, such as a pond, a park or a water tank"
+  ],
+  [
+   "colony",
+   "a big group of insects, such as ants or bees, that live and work together"
+  ],
+  [
+   "pheromone",
+   "a smell an animal makes with its body to send a message to others of its kind"
+  ],
+  [
+   "culture",
+   "everything people learn from each other and pass on, such as language, food, songs and festivals"
+  ],
+  [
+   "lunar calendar",
+   "a calendar whose months follow the Moon, each starting with a new Moon"
+  ],
+  [
+   "globalisation",
+   "countries linked closely by trade, travel and communication"
+  ],
+  [
+   "right",
+   "something the law says every person must have, which no one may take away"
+  ]
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "Who made your breakfast?",
+   "goal": "See that no family lives alone: every meal and every day is made by many people.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The breakfast chain",
+     "mins": 8,
+     "do": "Sit with today's breakfast, or a roti and a glass of milk. Ask: 'Who helped make this?' Wait for a guess. Then keep asking 'And who helped them?' Write each answer on a slip of paper: the cook, the shopkeeper, the farmer, the miller who ground the wheat, the truck driver, the dairy worker, the cow. Lay the slips in a long line. Ask: 'How many people do you think helped you eat today?' (More than anyone can count.)"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Girl Who Washed Her Potato",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Ask only: 'Why did the baby monkeys wash their potatoes, when they had never met Imo?' Write down your child's answer. You will come back to it on Day 5."
+    },
+    {
+     "kind": "talk",
+     "title": "Neighbourhood, community, society",
+     "mins": 10,
+     "do": "Say: 'People who live near each other are neighbours. When neighbours help each other and share things, they make a community. A society is all the communities of a town or a country, living by shared rules.' Ask: 'Who are our neighbours? Which of them has helped us?' Good answers: someone who kept a key, lent sugar, carried a parcel, came when someone was ill. Ask: 'Which shops, workers and offices does our community need?'"
+    },
+    {
+     "kind": "act",
+     "title": "Start the community map",
+     "mins": 10,
+     "do": "Start the project. On a big sheet, your child draws your home in the middle, then the building or lane, the nearest shops, the gate and the main road. Use a phone map if you need to. Leave space around the edges. Say: 'Over the next days we will add the people who help us and the places everyone shares.'"
+    }
+   ],
+   "need": [
+    "today's breakfast, or a roti and a glass of milk",
+    "10 to 15 paper slips and a pencil",
+    "a large sheet of paper",
+    "sketch pens"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Many hands: work and why we share it out",
+   "goal": "Test why people split work into steps, and meet a worker who helps the family.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "The paper-bag test",
+     "mins": 15,
+     "do": "Do Experiment e1 with at least two people. Ask first: 'Will each of us make more bags working alone, or working as a line where each person does one step? Why do you think so?' Write the guess. Do Round 1 (each person alone, 5 minutes) and Round 2 (a line, 5 minutes). Count the bags. Ask: 'Why do you think the line made more, or fewer?' Good answer: 'Each person did one step again and again, got quick at it, and didn't waste time switching.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Every job is needed",
+     "mins": 8,
+     "do": "Say: 'A town works like our line of bag makers. Each person does one kind of work, called a profession, and everyone depends on the others.' Ask: 'What would happen if nobody collected the garbage for a week? If no truck brought vegetables?' Then ask: 'Whose work in our building do we hardly see?' (The night guard, the sweeper, the person who cleans the water tank.) Say: 'Every one of these jobs keeps us safe and well. That is why we speak to every worker politely, by name.'"
+    },
+    {
+     "kind": "act",
+     "title": "Meet a helper",
+     "mins": 12,
+     "do": "Do Activity a1. Your child asks one worker three questions: 'What is your work called? Who taught you? What is the hardest part?' Choose the building guard, the presswala, the vegetable seller or a relative on the phone. Afterwards, your child draws the worker and their main tool on the community map.",
+     "ref": "a1"
+    },
+    {
+     "kind": "think",
+     "title": "Boring or skilled?",
+     "mins": 5,
+     "do": "Ask: 'In Round 2, who had the most boring job? Would you like to do only gluing every day for a year?' Then ask: 'A tailor makes a whole shirt herself. What is good about doing the whole job?' Good answers: she learns every step, she can be proud of the shirt, she can fix any part. Say: 'Splitting work makes things faster. Doing the whole job keeps more skill. People need both.'"
+    }
+   ],
+   "need": [
+    "10 sheets of newspaper cut in half",
+    "a glue stick",
+    "a timer or phone",
+    "the community map"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Public services, shared things and the mela",
+   "goal": "Learn what public services do and who pays for them, how people look after shared things, and how to stay safe in a crowd.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Services for everyone",
+     "mins": 10,
+     "do": "Say: 'Some services are set up for everyone, rich or poor. They are called public services: government schools, hospitals and health centres, the post office, the police, fire engines, the water supply and street lights.' Ask: 'Who do you think pays for them?' Then say: 'All of us do. When we buy things or earn money, a small part goes to the government as tax. Tax pays for these services.' Say: 'In an emergency anywhere in India, call 112 for police, fire or ambulance.' Your child adds the nearest school, health centre, post office and police station to the community map."
+    },
+    {
+     "kind": "think",
+     "title": "Elinor Ostrom and the shared pond",
+     "mins": 10,
+     "do": "Tell Voice v1. Say: 'Many people thought that anything everyone shares, like a pond or a field, will always be spoiled, because each person takes too much. Elinor Ostrom went and looked at real villages.' Ask: 'What do you think she found?' Then tell what she found. Ask the voice question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "act",
+     "title": "Rules for a shared place",
+     "mins": 12,
+     "do": "Ask: 'What do the people in our building or lane share?' (The stairs, the lift, the terrace, the water tank, the park, the street.) Your child picks one and writes three fair rules for it, and who will check them. Ask: 'What happens if one family breaks a rule? What would be fair?' Mark each shared place on the map with a star."
+    },
+    {
+     "kind": "talk",
+     "title": "Lost at the mela",
+     "mins": 8,
+     "do": "Say: 'A mela is a big fair, with stalls, rides and crowds. Many families go together, near and far relatives and neighbours.' Ask: 'If you got lost in a crowd, what would you do?' Agree on the plan: stand still, then go to a police officer, a Lost and Found booth or a woman with children, and say your parent's phone number. Your child says the number aloud until they know it. Say: 'Scientists who study real crowds found that in emergencies most people help strangers.'"
+    }
+   ],
+   "need": [
+    "the community map",
+    "a pencil and paper"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Ants and bees live in societies too",
+   "goal": "Watch how ants share news through smell, and act out how bees share news through a dance.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "The ant trail test",
+     "mins": 15,
+     "do": "Do Experiment e2. In the morning you put a drop of sugar water where ants come. Now look together at the line of ants. Ask: 'How do the ants know the way?' Write the guess. An adult wipes one firm line across the trail with a damp cloth. Watch for 2 minutes. Ask: 'What did the ants do at the wiped line?' (They stopped, turned and wandered, then found the path again.) Then explain the scent trail from the experiment's 'why'.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Who is the boss of an ant nest?",
+     "mins": 5,
+     "do": "Ask: 'Who tells each ant what to do?' Many children say the queen. Say: 'The queen lays all the eggs, but she gives no orders. Each worker reacts to the ants and smells it meets. A colony works without a boss.' Ask: 'Could a school or a building work without a boss? What would it need?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Karl von Frisch and the dancing bees",
+     "mins": 10,
+     "do": "Tell Voice v2. Say: 'Honeybees live in colonies of thousands. When a bee finds flowers, she flies home and does a dance on the comb. The dance tells other bees which way to fly and how far.' Then tell how other scientists argued it was only smell, and how radar settled it. Ask the voice question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "act",
+     "title": "Dance the waggle dance",
+     "mins": 10,
+     "do": "Put a chappal on the floor for the hive and a lamp or window as the Sun. Hide a spoon of sugar (the flowers) somewhere in the room. Your child is the scout bee. They walk a straight line from the chappal, wiggling their hips, pointing towards the sugar. Then they loop back and do it again. Say: 'A longer wiggle means the food is farther.' The parent watches the dance and tries to find the sugar. Swap roles."
+    }
+   ],
+   "need": [
+    "the ant trail from the morning",
+    "a damp cloth",
+    "a magnifying glass if you have one",
+    "a chappal",
+    "a spoon of sugar on a small plate"
+   ],
+   "prep": [
+    {
+     "task": "Put a drop of sugar water on a small piece of card near where ants usually come (a window sill or a kitchen corner), and check that a trail has formed.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Culture: what we learn from each other",
+   "goal": "Find out that culture is learned and passed on, that it changes as it passes, and that some animals have it too.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Born knowing or learned?",
+     "mins": 5,
+     "do": "Ask: 'Which things could you do as a baby, and which did someone teach you?' Make two lists. Born able to: cry, suck, sneeze, grip a finger. Learned: speaking your language, eating with your fingers or a spoon, folding hands for namaste, the songs you sing at festivals. Say: 'Everything people learn from each other and pass on is called culture: language, food, dress, songs, games and festivals.'"
+    },
+    {
+     "kind": "act",
+     "title": "The pass-it-on drawing",
+     "mins": 10,
+     "do": "Do Activity a2. Your child draws a simple picture in 20 seconds. The next person looks at it for 10 seconds, then draws it from memory on a new slip. Pass it on 6 times. Lay the drawings in order. Ask: 'What changed? What stayed the same?' Say: 'Culture changes like this as it passes from person to person. A grandmother's recipe or a festival song is never quite the same two generations later.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "think",
+     "title": "The macaques of Koshima",
+     "mins": 12,
+     "do": "Go back to the story and to your child's answer from Day 1. Then tell Voice v3: the real monkeys on Koshima island, the young female Imo, and how the potato washing spread. Ask: 'Were the monkeys born knowing how to wash potatoes?' (No. They learned by watching.) 'So do monkeys have culture?' Then ask the voice question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 13,
+     "do": "Do Worksheet ws1. Read each question aloud if needed. For the two 'write' items, your child can answer aloud while you write. Look at the sorting item again: ask why speaking Tamil is learned, though a baby can cry without being taught.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "6 paper slips and pencils",
+    "a timer",
+    "Worksheet ws1"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Festivals keep time with the Sun and the Moon",
+   "goal": "Meet festivals of many religions and regions, and find out why some come on the same date each year and some move.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Festivals all over India",
+     "mins": 10,
+     "do": "Ask: 'Which festivals does our family celebrate? Which do our neighbours celebrate?' Then say: 'Harvest festivals thank the land when crops are cut: Pongal in Tamil Nadu, Lohri in Punjab, Bihu in Assam, Onam in Kerala. Religious festivals remember a teacher or a story: Eid-ul-Fitr ends the fasting month of Ramzan, Christmas remembers the birth of Jesus, Guru Nanak Jayanti and Buddha Purnima remember great teachers, Diwali is the festival of lamps.' Ask: 'What is the same about most festivals?' Good answers: special food, new or best clothes, visiting people, lights, sharing."
+    },
+    {
+     "kind": "exp",
+     "title": "Calendar detective",
+     "mins": 15,
+     "do": "Do Experiment e3. Before looking, ask: 'Will Eid, Diwali, Christmas and Makar Sankranti fall on the same date every year? Why do you think so?' Find the dates in a calendar or on a phone for three years. Fill the table. Ask: 'Which festival stays still? Which moves earlier each year?' Then explain the Moon month from the experiment's 'why'.",
+     "ref": "e3"
+    },
+    {
+     "kind": "act",
+     "title": "The festival calendar wheel",
+     "mins": 10,
+     "do": "Draw a big circle on a sheet and cut it into 12 slices like a roti, one for each month, January at the top. Your child writes each festival from today in its month, with a small drawing: a kite, a diya, a star, a crescent Moon, a pot of pongal. Add the family's birthdays. Mark with a Moon the festivals that move and with a Sun the ones that stay. Stick it beside the community map."
+    },
+    {
+     "kind": "think",
+     "title": "Plan the elder call",
+     "mins": 5,
+     "do": "Say: 'Tomorrow we will call a grandparent or an older neighbour and ask how they celebrated a festival when they were your age.' Your child writes three questions. For example: 'What did you eat? What did you wear? Who came to your home?'"
+    }
+   ],
+   "need": [
+    "a printed calendar or a phone",
+    "a large sheet of paper",
+    "sketch pens"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Food, dress and everyone together",
+   "goal": "Hear how festivals have changed, design a festival of our own, and play the festival game.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "A festival, then and now",
+     "mins": 8,
+     "do": "Call the grandparent or elder. Your child asks their three questions and writes short notes. Afterwards ask: 'What has changed since they were young? What is still the same?' Say: 'This is culture changing as it passes on, like the drawings on Day 5.' If no elder can talk today, ask the parent's own memories."
+    },
+    {
+     "kind": "act",
+     "title": "A festival of our own",
+     "mins": 15,
+     "do": "Do Activity a3. Your child invents a festival for something real in nature or in the community: the first rain, the full Moon, a plant's first flower, or a day to thank the building's workers. Together decide its name, its day, one food, one thing to wear, one song or dance, and how to include a neighbour who has never been to your home. Your child dances or sings the festival's opening.",
+     "ref": "a3"
+    },
+    {
+     "kind": "game",
+     "title": "The Festival Year board game",
+     "mins": 17,
+     "do": "Play Game g1 on the printed board. Before each move, the player says why the square sends them forward or back. Play until someone reaches HOME, or for 15 minutes.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "a phone to call an elder",
+    "paper and colours",
+    "the printed game board, a die and counters"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "One country, many people",
+   "goal": "Learn the national symbols and days, make an exact Tricolour, and find out where the things at home were made.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Symbols we share",
+     "mins": 10,
+     "do": "Say: 'A country is millions of people who speak many languages and celebrate many festivals. Shared symbols remind them that they belong together.' Show a coin or note for the Lion Capital and the words Satyamev Jayate, 'truth alone wins'. Name the national anthem, Jana Gana Mana by Rabindranath Tagore, and the national song, Vande Mataram by Bankim Chandra Chattopadhyay. Name the tiger, peacock, lotus and banyan tree. Name the national days: Republic Day on 26 January, Independence Day on 15 August, Gandhi Jayanti on 2 October. Ask: 'Is hockey our national game?' Then tell the answer from the challenge."
+    },
+    {
+     "kind": "act",
+     "title": "An exact Tricolour",
+     "mins": 10,
+     "do": "Do Activity a4. Your child measures and draws the flag 15 cm long and 10 cm high, with three equal bands and the Ashoka Chakra in the middle. Ask: 'Why do you think the flag has fixed sizes and colours?' (So that every flag in the country is the same flag.)",
+     "ref": "a4"
+    },
+    {
+     "kind": "exp",
+     "title": "Made where?",
+     "mins": 15,
+     "do": "Do Experiment e4. Ask first: 'Of 15 things in our home, how many do you think were made in India?' Write the guess. Read the labels and fill the table. Count. Say: 'When countries buy and sell so much from each other, and people travel and talk across the world, we call it globalisation.'",
+     "ref": "e4"
+    },
+    {
+     "kind": "think",
+     "title": "Who made it, so far away?",
+     "mins": 5,
+     "do": "Pick one thing made in another country. Ask: 'Who might have made it? Do they have festivals too? What might they eat today?' Say: 'Our breakfast chain on Day 1 had many people. This chain goes around the whole world.'"
+    }
+   ],
+   "need": [
+    "a coin or a currency note",
+    "a ruler, a pencil, a round lid about 3 cm wide",
+    "saffron, green and blue colours",
+    "15 things from around the home with labels"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Rights, review and teach it back",
+   "goal": "Learn three rights that Indian law gives every person, finish the worksheets and teach the family.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Rights in law, and Savitribai Phule",
+     "mins": 10,
+     "do": "Tell Voice v4 first. Then say: 'A right is something the law says every person must have. In India, the Right to Education means every child aged 6 to 14 can go to school for free. The Right to Information means anyone can ask the government how public money was spent, and must get an answer within 30 days. MGNREGA means a village family can ask for up to 100 days of paid work a year.' Ask: 'Which of these would have helped the girls Savitribai taught?' Ask the voice question.",
+     "ref": "v4"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws2. Use the calendar wheel and the Calendar detective table for the festival questions.",
+     "ref": "ws2"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 8,
+     "do": "Do as much of Worksheet ws3 as time allows. In the 'write' items there is no single right answer: listen for reasons that use what your child tested or heard this week.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 6,
+     "do": "Ask the check questions aloud, one at a time. Let your child point to the community map and the calendar wheel to answer."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 6,
+     "do": "Your child shows the family the community map and the calendar wheel. They explain three things: why every job matters, what culture is, and why Eid moves but Christmas does not. Then ask: 'Who are all the people who made today happen for you?'"
+    }
+   ],
+   "need": [
+    "Worksheets ws2 and ws3",
+    "the community map",
+    "the calendar wheel"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Community, work and culture",
+   "day": 5,
+   "sections": [
+    [
+     "A. Many hands",
+     [
+      {
+       "t": "mcq",
+       "p": "Riya, a girl in Class 3, eats a roti. Who helped make it?",
+       "opts": [
+        "only her mother",
+        "the farmer, the miller, the shopkeeper and the cook",
+        "nobody"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each worker to their work.",
+       "pairs": [
+        [
+         "postman",
+         "brings letters and parcels"
+        ],
+        [
+         "nurse",
+         "cares for sick people"
+        ],
+        [
+         "sanitation worker",
+         "collects and clears waste"
+        ],
+        [
+         "farmer",
+         "grows grain and vegetables"
+        ],
+        [
+         "electrician",
+         "fixes wires and lights"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Neighbours who help each other and share things make a ____.",
+       "a": [
+        "community"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In the paper-bag test, why does a line of workers usually make more bags?",
+       "opts": [
+        "They have more paper.",
+        "Each person does one step and gets quick at it.",
+        "Their bags are smaller."
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Shared things and services",
+     [
+      {
+       "t": "sort",
+       "p": "Is it shared by many people, or does it belong to one person or family?",
+       "items": [
+        "the building lift",
+        "the park",
+        "my bicycle",
+        "a street light",
+        "my toothbrush",
+        "the public library"
+       ],
+       "cats": [
+        "shared by many people",
+        "belongs to one person or family"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Who pays for government schools, hospitals and roads?",
+       "opts": [
+        "only rich people",
+        "all of us, through taxes",
+        "nobody, because they cost nothing to make"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "In an emergency in India, call ____ for police, fire or ambulance.",
+       "a": [
+        "112"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Animals and culture",
+     [
+      {
+       "t": "mcq",
+       "p": "How do ants find the way to food?",
+       "opts": [
+        "They follow a smell left by other ants.",
+        "The queen tells them.",
+        "They see the food from far away."
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Could a baby do it without being taught, or was it learned from others?",
+       "items": [
+        "crying when hungry",
+        "speaking Tamil",
+        "sneezing",
+        "folding hands for namaste",
+        "playing kho-kho",
+        "gripping a finger"
+       ],
+       "cats": [
+        "born able to do it",
+        "learned from others"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Choose one job in your community. What would happen if nobody did it for a week?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "In the ant test, what did the ants do after the path was wiped? Why?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Festivals, culture and our country",
+   "day": 9,
+   "sections": [
+    [
+     "A. Sun and Moon calendars",
+     [
+      {
+       "t": "mcq",
+       "p": "Makar Sankranti comes on 14 or 15 January every year. Why?",
+       "opts": [
+        "It follows the Sun.",
+        "It follows the Moon.",
+        "The date is picked by lottery."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Eid-ul-Fitr comes about 11 days earlier each year. Why?",
+       "opts": [
+        "Its calendar follows the Moon, and 12 Moon months make only 354 days.",
+        "People forget the date.",
+        "It follows the Sun."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Eid was on 30 March one year. The next year it will be on about ____ March.",
+       "a": [
+        "19",
+        "18",
+        "20"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A Moon month is about 29 and a half days. Twelve Moon months make about ____ days.",
+       "a": [
+        "354"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Does this day follow the Sun or the Moon?",
+       "items": [
+        "Christmas",
+        "Eid-ul-Fitr",
+        "Makar Sankranti",
+        "Muharram",
+        "Republic Day",
+        "Baisakhi"
+       ],
+       "cats": [
+        "follows the Sun",
+        "follows the Moon"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Festivals and symbols",
+     [
+      {
+       "t": "match",
+       "p": "Match the festival to what it celebrates.",
+       "pairs": [
+        [
+         "Pongal",
+         "the rice harvest in Tamil Nadu"
+        ],
+        [
+         "Onam",
+         "the harvest in Kerala"
+        ],
+        [
+         "Christmas",
+         "the birth of Jesus"
+        ],
+        [
+         "Guru Nanak Jayanti",
+         "the birth of Guru Nanak"
+        ],
+        [
+         "Eid-ul-Fitr",
+         "the end of the fasting month of Ramzan"
+        ]
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each national symbol of India.",
+       "pairs": [
+        [
+         "national animal",
+         "tiger"
+        ],
+        [
+         "national bird",
+         "peacock"
+        ],
+        [
+         "national flower",
+         "lotus"
+        ],
+        [
+         "national tree",
+         "banyan"
+        ],
+        [
+         "national anthem",
+         "Jana Gana Mana"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Monkeys on Koshima island washed their sweet potatoes. How did they come to do it?",
+       "opts": [
+        "They were born knowing how.",
+        "They learned it by watching Imo and each other.",
+        "The scientists taught them."
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "In the pass-it-on game, the drawing changed as it passed. How is that like a festival recipe passed from a grandmother to her grandchild?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Mitali moves from Assam to Chennai. How could she enjoy her new neighbours' festivals and share her own?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking harder about living together",
+   "day": 9,
+   "sections": [
+    [
+     "A. Evidence",
+     [
+      {
+       "t": "mcq",
+       "p": "In an ant colony, who decides what each ant does?",
+       "opts": [
+        "The queen gives orders.",
+        "No single ant. Each one reacts to the ants and smells around it.",
+        "The biggest worker."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A famous story says that once 100 monkeys had learned to wash potatoes, monkeys on other islands suddenly knew it too. What do the scientists' records show?",
+       "opts": [
+        "The story is true.",
+        "The records do not show it. The habit spread slowly, by watching.",
+        "No monkey ever washed potatoes."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Elinor Ostrom studied villages that share ponds, forests and fields. What did she find?",
+       "opts": [
+        "Shared things are always spoiled.",
+        "Many villages make fair rules and look after shared things for hundreds of years.",
+        "Only governments can protect shared things."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Some scientists said bees find food only by smell, not from the dance. How was the waggle dance finally tested?",
+       "opts": [
+        "Radar followed bees after they watched a dance.",
+        "Someone asked the bees.",
+        "It was never tested."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Is hockey India's official national game?",
+       "opts": [
+        "Yes, by law.",
+        "No. The government has not declared any national game.",
+        "No, cricket is."
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Rights",
+     [
+      {
+       "t": "sort",
+       "p": "Which law helps each person?",
+       "items": [
+        "A girl of 8 gets a free place in a school.",
+        "A man asks how much was spent on his village road.",
+        "A woman in a village is paid for digging a pond.",
+        "A boy of 12 cannot be kept out of school.",
+        "A family asks why the ration shop was shut all month.",
+        "A farmer earns wages repairing a village canal."
+       ],
+       "cats": [
+        "Right to Education",
+        "Right to Information",
+        "MGNREGA"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. What do you think?",
+     [
+      {
+       "t": "write",
+       "p": "Bees, ants and people all share out work. What is one way an ant colony is different from a town?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Some people say festivals waste money and make too much noise. Others say festivals hold people together. Give one reason for each side. What do you think?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Who might be left out of a festival in your building or lane? How could you include them?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The paper-bag test",
+   "day": 2,
+   "question": "Do people make more when each does one step, or when each does the whole job?",
+   "need": [
+    "at least 2 people",
+    "10 sheets of newspaper, each cut in half",
+    "a glue stick",
+    "a timer or phone"
+   ],
+   "steps": [
+    "Show everyone the four steps: fold a half-sheet in half, glue the open side, fold up the bottom 5 cm, glue the bottom shut.",
+    "Round 1: each person makes bags alone for 5 minutes. Count the finished bags.",
+    "Round 2: sit in a line. The first person only folds. The next only glues the side. The last folds and glues the bottom. Work for 5 minutes and count again.",
+    "Write both totals side by side."
+   ],
+   "predict": "Ask your child to guess first: 'Will we make more bags alone or in a line? Why?'",
+   "observe": "Compare the two totals. With 3 or more people the line usually makes more. With only 2 people the difference may be small.",
+   "why": "When a person does one step again and again, their hands get quick at it and no time is lost putting down the glue and picking up the next sheet. This is called the division of labour. Towns work the same way: farmers grow food, tailors sew, drivers carry goods, and each depends on the others. The cost is that one step all day can be dull, and the worker may never learn the whole craft.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "The ant trail test",
+   "day": 4,
+   "question": "How do ants find the way to food and back?",
+   "need": [
+    "a drop of sugar water (half a spoon of sugar in 2 spoons of water)",
+    "a small piece of card",
+    "a damp cloth",
+    "a magnifying glass if you have one"
+   ],
+   "steps": [
+    "In the morning, put a drop of sugar water on the card, near where ants usually come.",
+    "Check after 1 to 3 hours. When a line of ants is walking to the sugar and back, call your child.",
+    "Watch the line for 2 minutes. Do the ants walk anywhere, or along one path?",
+    "An adult wipes one firm line across the path with the damp cloth, about 10 cm from the card.",
+    "Watch the ants at the wiped line for 2 minutes and note what they do.",
+    "Afterwards, wipe away the sugar so the ants do not stay."
+   ],
+   "predict": "Ask your child to guess first: 'If I wipe across their path, what will the ants do? Why?'",
+   "observe": "Ants reaching the wiped line stop, wave their antennae and wander. After a little while a few cross, and soon the line forms again.",
+   "why": "An ant that finds food lays a trail of a chemical with its body on the way home. This chemical is called a pheromone. Other ants smell it with their antennae and follow it. Each ant that finds food adds more, so a good trail grows strong. Wiping removes the smell, so the ants lose the way until some cross and lay it again. No ant is in charge. The trail is made by many ants together.",
+   "safety": "Do not touch the ants: some kinds bite or sting. Clean the sugar away afterwards. If no ants come by the afternoon, try again near a window sill another day, or watch a video of an ant trail.",
+   "time": "5 min to set up in the morning + 15 min later"
+  },
+  {
+   "id": "e3",
+   "title": "Calendar detective",
+   "day": 6,
+   "question": "Why do some festivals come on the same date every year while others move?",
+   "need": [
+    "a calendar or a phone",
+    "a pencil and paper"
+   ],
+   "steps": [
+    "Draw a table with four rows: Makar Sankranti, Christmas, Eid-ul-Fitr, Diwali. Make columns for last year, this year and next year.",
+    "Find each festival's date in a calendar or on a phone and write it in.",
+    "Circle the festivals whose date stays almost the same.",
+    "For Eid-ul-Fitr, count how many days earlier it came each year.",
+    "Work it out: a Moon month is about 29 and a half days. Twelve of them make about 354 days. A Sun year is 365 days. 365 minus 354 is 11."
+   ],
+   "predict": "Ask your child to guess first: 'Will every festival fall on the same date next year? Why do you think so?'",
+   "observe": "Christmas stays on 25 December. Makar Sankranti stays on 14 or 15 January. Eid-ul-Fitr comes about 11 days earlier each year. Diwali moves around inside October and November.",
+   "why": "Christmas follows a solar calendar, which follows the Sun and has 365 days. Makar Sankranti is fixed by the Sun's position among the stars, so it also stays still. The Islamic calendar is lunar: each month starts with the new crescent Moon, and its year of 12 Moon months is about 11 days shorter than a Sun year. Diwali falls on a new Moon night, but Hindu calendars add an extra month about every three years to catch up with the Sun. That keeps Diwali in autumn.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e4",
+   "title": "Made where?",
+   "day": 8,
+   "question": "How many of the things in our home were made in India?",
+   "need": [
+    "15 things with labels, such as a toy, a phone charger, a packet of food, a T-shirt, a steel tumbler, a pencil, a box of tea"
+   ],
+   "steps": [
+    "Draw a table with two columns: Thing, Made in.",
+    "Guess how many of the 15 things were made in India and write the guess.",
+    "Find the 'Made in' or 'Country of origin' line on each label and write the country. If there is none, write 'no label'.",
+    "Count the totals for each country.",
+    "Compare the count with your guess."
+   ],
+   "predict": "Ask your child to guess first: 'How many of these 15 things were made in India?'",
+   "observe": "Many things say Made in India. Some, often electronics and toys, come from other countries. Food packets may say where they were packed, not where the food grew.",
+   "why": "Countries buy goods from each other (imports) and sell their goods abroad (exports). Ships, planes, phones and the internet now link the whole world, so a family in Pune can use a charger made thousands of kilometres away. This close linking of countries is called globalisation. It brings cheaper and more varied goods, but it can also put local makers out of work.",
+   "safety": "Only use things with labels you can read. Leave anything sharp or electric to an adult.",
+   "time": "15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Meet a helper",
+   "day": 2,
+   "mins": 12,
+   "need": [
+    "a worker near home, or a relative on the phone",
+    "a notebook"
+   ],
+   "steps": [
+    "Choose one worker: the building guard, the presswala, the vegetable seller, a shopkeeper, or a relative who works.",
+    "Practise three questions: What is your work called? Who taught you? What is the hardest part?",
+    "Greet them, ask the questions and thank them.",
+    "Write two things you learned.",
+    "Draw the worker and their main tool on the community map."
+   ],
+   "outcome": "A short interview and a drawing of one helper on the community map."
+  },
+  {
+   "id": "a2",
+   "title": "The pass-it-on drawing",
+   "day": 5,
+   "mins": 10,
+   "need": [
+    "6 paper slips",
+    "a pencil",
+    "a timer",
+    "2 or more people"
+   ],
+   "steps": [
+    "Your child draws a simple picture in 20 seconds, such as a house, a face or a fish.",
+    "The next person looks at it for 10 seconds. Then the picture is turned over and they draw it from memory on a new slip.",
+    "The next person copies only the newest drawing, the same way. With 2 people, take turns.",
+    "Do this 6 times.",
+    "Lay all the drawings in a row, first to last, and compare."
+   ],
+   "outcome": "A row of drawings that shows how something passed from person to person keeps some parts and changes others."
+  },
+  {
+   "id": "a3",
+   "title": "A festival of our own",
+   "day": 7,
+   "mins": 15,
+   "need": [
+    "paper and colours",
+    "anything to make music: a steel plate and spoon, a bell, clapping hands"
+   ],
+   "steps": [
+    "Choose what the festival celebrates: the first rain, the full Moon, a plant's first flower, or the workers of the building.",
+    "Give it a name and a day, and draw its symbol.",
+    "Choose one food to share, one thing to wear and one decoration made from things at home.",
+    "Make up a short song or a dance for it.",
+    "Decide how to invite a neighbour who has never been to your home.",
+    "Perform the song or dance for the family."
+   ],
+   "outcome": "A drawn plan for a new family festival, with its own food, song and dance."
+  },
+  {
+   "id": "a4",
+   "title": "An exact Tricolour",
+   "day": 8,
+   "mins": 10,
+   "need": [
+    "white paper",
+    "a ruler and pencil",
+    "a round lid about 3 cm wide",
+    "saffron, green and navy blue colours"
+   ],
+   "steps": [
+    "Draw a rectangle 15 cm long and 10 cm high. This is a ratio of 3 to 2, the flag's official shape.",
+    "Mark the height into three equal bands, each about 3.3 cm high.",
+    "Colour the top band saffron and the bottom band green. Leave the middle white.",
+    "In the centre of the white band, trace round the lid in navy blue.",
+    "Draw 12 lines through the centre of the circle, spaced evenly like cutting a roti, to make 24 spokes."
+   ],
+   "outcome": "A paper Tricolour in the right shape and colours, with a 24-spoke Ashoka Chakra."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Elinor Ostrom (1933–2012), USA",
+   "idea": "In 1968 Garrett Hardin wrote a famous essay called 'The Tragedy of the Commons'. It said that anything shared by everyone, like a pasture or a fishing ground, will be ruined, because each person takes too much. Ostrom studied real communities: farmers sharing irrigation canals in Nepal, villagers sharing mountain meadows in Switzerland, fishing villages and forests. She found that many communities make their own fair rules, check each other and look after shared things for hundreds of years.",
+   "then": "Many economists believed shared things must be owned privately or run by the government to be protected.",
+   "now": "In 2009 she became the first woman to win the Nobel Prize in Economics. Her findings are accepted. Shared things can be protected by the people who use them, if the rules are fair and everyone can take part in making them.",
+   "status": "accepted",
+   "ask": "Our building shares a water tank. What would we need, so that no family wastes the water?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Karl von Frisch (1886–1982), Austria, and Adrian Wenner, USA",
+   "idea": "Von Frisch studied honeybees for decades. He found that a bee that finds food does a 'waggle dance' on the comb. The angle of her straight wiggling run shows the direction of the food compared with the Sun. The length of the wiggle shows how far it is.",
+   "then": "Von Frisch shared the Nobel Prize in 1973. But in the 1960s Adrian Wenner and his colleagues argued that bees find food mainly by smell, and that the dance might not carry any message. The argument went on for years.",
+   "now": "In 2005, scientists fixed tiny radar tags to bees that had just watched a dance. The bees flew straight in the direction the dance showed. Most scientists now accept that the dance carries the message, and that smell helps too. Wenner's doubt made the test better.",
+   "status": "accepted",
+   "ask": "Wenner was proved mostly wrong. Was it still useful that he doubted? Why?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "Kinji Imanishi (1902–1992) and the Koshima monkey watchers, Japan",
+   "idea": "Imanishi and his students at Kyoto University watched wild Japanese macaques for many years. He argued that animals can have culture: habits learned from each other, not born in them. In 1953 on Koshima island, a young female they named Imo began washing sweet potatoes in water. Satsue Mito, a local woman who helped the scientists watch the monkeys, was among the first to record it. Her mother and playmates copied her, and the habit spread through the group over years. Old males were slowest to learn.",
+   "then": "Many scientists in Europe and America said culture belonged to humans only, and that the Japanese scientists were too ready to see minds in animals.",
+   "now": "Today many scientists agree that some animals have traditions passed on by learning: chimpanzees cracking nuts with stones, whales singing songs, macaques washing food. How alike these are to human culture is still argued about.",
+   "status": "debated",
+   "ask": "What would you need to see to be sure a habit was learned by watching, and not born in the animal?",
+   "day": 5
+  },
+  {
+   "id": "v4",
+   "who": "Savitribai Phule (1831–1897), Maharashtra, India",
+   "idea": "Savitribai learned to read from her husband, Jyotirao Phule, when most girls were kept out of school. In 1848 in Pune they started a school for girls, and she became its teacher. They went on to open more schools, including for children from castes then kept out of schools. She said that all girls and all children could learn.",
+   "then": "Many people in Pune were angry. People threw mud and dung at her on the way to school. She carried a spare sari to change into when she reached it.",
+   "now": "She is honoured as one of India's first women teachers. Today the Right to Education Act (2009) says every child aged 6 to 14 has the right to free schooling. Scientists find no difference between girls and boys in the ability to learn.",
+   "status": "accepted",
+   "ask": "Why do you think people were so angry about girls going to school? What changed their minds?",
+   "day": 9
+  }
+ ],
+ "project": {
+  "title": "Our community map and festival wheel",
+  "days": [
+   1,
+   2,
+   3,
+   6,
+   9
+  ],
+  "steps": [
+   "Day 1: draw home, the building or lane, the shops and the main road on a big sheet.",
+   "Day 2: add the helper you met and their main tool.",
+   "Day 3: add the public services near home, and a star on every shared place.",
+   "Day 6: make the festival calendar wheel and stick it beside the map.",
+   "Day 9: show the map and the wheel to the family and explain them."
+  ],
+  "outcome": "A wall map of the people and places your family depends on, with a calendar wheel of the year's festivals."
+ },
+ "game": {
+  "id": "g1",
+  "title": "The Festival Year",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "one counter per player (a button, bead or seed)"
+  ],
+  "rules": [
+   "Everyone starts at START.",
+   "Take turns to roll the die and move your counter.",
+   "Read the square aloud and do what it says. Before you move, say why. For example: 'Back 2, because without the sweeper the street gets dirty.'",
+   "The first player to reach HOME wins.",
+   "Playing alone? Roll for a pretend second player and try to reach HOME first."
+  ],
+  "squares": [
+   "START: New Year's morning",
+   "You help a neighbour carry heavy bags: forward 2",
+   "Makar Sankranti: you fly a kite on the terrace and share til laddoos: forward 1",
+   "The sweeper is ill and nobody cleans the stairs for a week: back 2",
+   "You and your friends clean the shared terrace together: forward 3",
+   "You leave the building tap running: back 2",
+   "Holi with natural colours made from haldi and beetroot: forward 1",
+   "Eid comes 11 days earlier than last year. Say why to move forward 2",
+   "You get lost at the mela but go to the Lost and Found booth: forward 2",
+   "You run around the mela looking for your family: miss a turn",
+   "Baisakhi, the harvest in Punjab: forward 1",
+   "Ants find your sugar by following a smell trail. Name the smell to move forward 2",
+   "You throw garbage in the shared park: back 3",
+   "Onam: you help make a flower rangoli, a pookalam: forward 1",
+   "Independence Day: say the colours of the flag in order to move forward 2",
+   "A power cut. The electrician fixes the wires: forward 1",
+   "Navratri: you dance garba with the whole building: forward 2",
+   "Diwali: you burst loud crackers that scare the street dogs: back 2",
+   "Diwali: you light diyas and share sweets with the guard: forward 2",
+   "Guru Nanak Jayanti: you eat langar, sitting on the floor with everyone: forward 1",
+   "You forget to thank the vegetable seller: back 1",
+   "Christmas: you sing carols with neighbours: forward 2",
+   "You ask an elder how they celebrated as a child: forward 2",
+   "HOME: the whole year, celebrated together"
+  ]
+ },
+ "big": [
+  "Could a person live completely alone, needing nobody? What would they have to give up?",
+  "Is the work of a sweeper worth less than the work of a doctor? Who decides?",
+  "If monkeys can have culture, what else might animals pass on that we have not noticed?",
+  "Which things should belong to everyone, and which should belong to one person?",
+  "Why do you think people everywhere, in every age, have had festivals?"
+ ],
+ "challenge": [
+  {
+   "q": "A famous story, 'the hundredth monkey', says that once about 100 monkeys on Koshima learned to wash potatoes, monkeys on other islands suddenly started doing it too, without seeing it.",
+   "hint": "The story spread through popular books in the late 1970s. When people checked the scientists' own records, they found nothing like it. The habit spread slowly over years, by young monkeys watching their mothers and friends, and some old monkeys never learned. Ask: why do you think people liked the made-up story more than the true one?"
+  },
+  {
+   "q": "People often say an ant colony is ruled by its queen, who gives the orders.",
+   "hint": "The queen's job is to lay eggs. She does not give orders. Scientists such as Deborah Gordon, who studied harvester ants in the USA for decades, found that each ant decides what to do from the ants and smells it meets. The colony works without a boss. Ask: can you think of anything people do together that also works without a boss?"
+  },
+  {
+   "q": "Many books and quizzes say hockey is India's national game.",
+   "hint": "In 2012 a schoolgirl from Lucknow used the Right to Information Act to ask the government. The reply said that no game has been declared India's national game. Hockey is loved, and India won many Olympic gold medals in it, but it is not official. Ask: how could you check a 'fact' you read in a quiz book?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "An ant on the trail",
+   "view": "An ant cannot see the whole colony. She follows a smell, adds her own and carries a crumb. Yet thousands of ants together build nests, raise young and find food. Ask: does any one person in a city know how the whole city works?"
+  },
+  {
+   "who": "A sanitation worker",
+   "view": "She starts work before the building wakes, and most people never learn her name. Without her, disease would spread in days. Ask: why are the most needed jobs sometimes the least thanked?"
+  },
+  {
+   "who": "Gagandeep Kang, doctor and scientist (born 1962), Vellore, Tamil Nadu",
+   "view": "She studied why some vaccines worked less well in Indian children, and helped test Rotavac, a vaccine made in India against a germ that causes severe diarrhoea. Since 2016 it has been given free at government health centres. In 2019 she became the first Indian woman scientist elected to the Royal Society. Ask: why is it important that a free vaccine reaches every child, not only those who can pay?"
+  },
+  {
+   "who": "Prafulla Chandra Ray, chemist (1861–1944), Kolkata",
+   "view": "At a time when most medicines in India came from Britain, he set up Bengal Chemical and Pharmaceutical Works in Kolkata to make them in India. He also wrote a history of chemistry in ancient India. Ask: what is good about making things near home? What is good about buying from far away?"
+  },
+  {
+   "who": "A child in a family that has just moved to a new city",
+   "view": "She does not know anyone, and the festivals here are different from the ones at home. Ask: what could a neighbour do on her first festival day to make her feel she belongs?"
+  }
+ ],
+ "story": {
+  "title": "The Girl Who Washed Her Potato",
+  "text": [
+   "I am an old monkey now, and the fur around my mouth has gone grey. I live on a small island called Koshima, off the coast of Japan. A forest climbs steeply up from the sea, and below it lies a strip of soft, pale sand.",
+   "When I was young, people started coming to our island in a boat. They carried notebooks. They left sweet potatoes on the sand for us, so that we would come down from the trees and they could watch us closely. They gave each of us a name and wrote down everything we did.",
+   "Sweet potatoes are delicious. Sand is not. Every potato came out of the beach coated in it, and every bite crunched between our teeth. We brushed the potatoes with our hands and picked at them. Then we ate them gritty anyway. That is how our mothers ate them, and how their mothers ate them. It did not occur to anyone to do it differently.",
+   "Imo was younger than me, a small girl monkey with quick hands. She was always poking at things: shells, sticks, the wet line where the waves stopped. The older monkeys found her a nuisance.",
+   "One morning she picked up her potato and carried it to the little stream that runs across the beach into the sea. I thought she was going to drink. Instead she dipped the potato into the water. She rubbed it with her other hand, dipped it again and turned it over. The sand came away. She bit into it. No crunch. She looked at the potato for a long moment. Then she dipped it again.",
+   "I made the noise we make when something is silly. Who puts food in water? But the next day she did it again, and the day after that.",
+   "Her mother was the first to copy her. She sat beside Imo at the stream, watching, and one day she dipped her own potato. Then Imo's playmates began. Then I tried it, mostly to show it was silly. The potato was clean and cold and sweet. I never ate a sandy one again if I could help it.",
+   "It spread slowly, over years, the way water soaks into dry ground. The young ones learned first, and the mothers who sat near them. Their babies, riding on their backs, watched the washing every day, and when they were big enough they did it too. The old males were different. They sat at the top of the beach, chewing their gritty potatoes and staring at us. Some of them never learned at all.",
+   "The people with notebooks got very excited. They wrote down who washed and who did not, who sat next to whom, who learned first. They seemed to think it mattered which of us had watched which.",
+   "After a while, some of us stopped using the stream and walked into the sea instead. The sea water was salty, and the potatoes tasted better. Some monkeys dipped them again between bites.",
+   "A few years later, Imo did it again. The people began throwing wheat grains on the beach. Picking wheat out of sand, one grain at a time, is slow and tiresome work. Imo scooped up a handful of wheat and sand together, walked to the sea and threw it in. The sand sank. The wheat floated. She scooped the clean grains off the water and ate them. I remember the old males watching her, astonished. Before long, the young ones were throwing their wheat into the sea too.",
+   "Imo is gone now. She died a long time ago. The babies born this spring never saw her. They do not know her name.",
+   "But every one of them, as soon as it can hold a potato, carries it to the water. Nobody makes them. They have watched their mothers do it, and their mothers watched their mothers, and somewhere at the start of that long line, a small girl with quick hands knelt by a stream.",
+   "Last week my granddaughter sat beside me on the sand, holding a potato, and asked me, 'Why do we wash them?'",
+   "I thought about telling her about Imo. Instead I said, 'Because your mother does.' She looked at me, and then at the sea. Then she got up and walked down to the edge of the water, the way all of us do now."
+  ],
+  "epiphany": "For the parent: the story is told by an imagined old monkey, but the events are real. In 1953, on Koshima island in Japan, a young female macaque the scientists named Imo began washing sweet potatoes, and later sorted wheat from sand by throwing it into the sea. The habits spread by watching, young ones and mothers first, and some old males never learned. The turn is the end: the babies wash their potatoes though they never met Imo, and the grandmother answers 'Because your mother does.' That answer is what culture is: something learned and passed on, not born in the body. Let your child find this on Day 5 before you name it.",
+  "ask": [
+   "Why did the monkeys eat sandy potatoes for so long?",
+   "Why do you think the young monkeys learned first, and some old ones never learned?",
+   "The babies never met Imo. So how did they learn to wash potatoes?",
+   "Why did the grandmother say 'Because your mother does' instead of telling the story of Imo?",
+   "What is something your family does because your grandparents did it?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "No person or family lives alone. Every meal is made by many hands.",
+   "more": "Trace a roti back through the cook, the shopkeeper, the miller, the truck driver and the farmer. Every one of them depends on others too. Show it with the breakfast chain of paper slips."
+  },
+  {
+   "idea": "Culture is what we learn from each other and pass on. It is not in our genes, and it changes as it passes.",
+   "more": "Language, food, dress, songs and festivals all pass from person to person. Some animals do this too, like the macaques of Koshima. Show it with the pass-it-on drawing."
+  },
+  {
+   "idea": "Many festivals keep time with the Sun and the Moon.",
+   "more": "A Sun year has 365 days. Twelve Moon months make about 354. So festivals on a Moon calendar, like Eid, move about 11 days earlier each year, while Sun festivals like Christmas and Makar Sankranti stay still. Show it with the calendar detective table."
+  }
+ ],
+ "unknowns": [
+  "Why did people first start holding festivals, and when? At Göbekli Tepe in Turkey, people met to build huge stone circles more than 11,000 years ago, and some archaeologists think they feasted there. What those gatherings were for is still argued about.",
+  "How many people can one person really know as friends? The scientist Robin Dunbar suggested about 150. Other scientists say the number varies too much to name. Nobody knows for sure.",
+  "Bees and ants have minds of their own and work together in huge numbers. What it is like to be one bee in a colony of thousands, nobody knows yet."
+ ],
+ "books": [
+  {
+   "title": "Stone Soup",
+   "author": "Jon J Muth",
+   "for": "read together",
+   "age": "4–8",
+   "why": "Three monks help a frightened village discover that when everyone adds a little, there is a feast for all."
+  },
+  {
+   "title": "Last Stop on Market Street",
+   "author": "Matt de la Peña",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A boy rides the bus across his city with his grandmother and learns to notice the people and beauty around him."
+  },
+  {
+   "title": "Same, Same But Different",
+   "author": "Jenny Sue Kostecki-Shaw",
+   "for": "read together",
+   "age": "4–8",
+   "why": "Two pen pals, one in America and one in India, find that their lives, families and festivals are different and alike."
+  },
+  {
+   "title": "Hey, Little Ant",
+   "author": "Phillip and Hannah Hoose",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A boy about to squash an ant hears the ant's side of the story. Good for thinking about how an ant sees its colony."
+  },
+  {
+   "title": "The Secret of Our Success",
+   "author": "Joseph Henrich",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "A scientist explains how culture, passed on by learning, made humans what we are. Read aloud a few of its true stories."
+  }
+ ],
+ "check": [
+  {
+   "q": "Name four people who helped make your breakfast.",
+   "a": "For example: the cook, the shopkeeper, the farmer and the truck driver. Also the miller and the dairy worker."
+  },
+  {
+   "q": "What did the paper-bag test show?",
+   "a": "When each person does one step, the group usually makes more, because each person gets quick at their step. This is the division of labour."
+  },
+  {
+   "q": "What are public services, and who pays for them?",
+   "a": "Services for everyone, such as government schools, hospitals, the post office and the police. All of us pay through taxes."
+  },
+  {
+   "q": "What should you do if you get lost at a mela?",
+   "a": "Stand still, then go to a police officer, the Lost and Found booth or a woman with children, and say your parent's phone number."
+  },
+  {
+   "q": "How do ants find the way to food?",
+   "a": "They follow a smell trail, called a pheromone, left by other ants. When the trail was wiped, they lost the way for a while."
+  },
+  {
+   "q": "What is culture? Give one example from people and one from animals.",
+   "a": "What we learn from each other and pass on. For example, speaking Marathi or making pongal, and the Koshima monkeys washing potatoes."
+  },
+  {
+   "q": "Why does Eid come about 11 days earlier each year, while Christmas does not?",
+   "a": "Eid follows a Moon calendar. Twelve Moon months make about 354 days, 11 fewer than a Sun year. Christmas follows the Sun calendar of 365 days."
+  },
+  {
+   "q": "Name India's national animal, bird and flower, and one right the law gives every child.",
+   "a": "The tiger, the peacock and the lotus. Every child aged 6 to 14 has the right to free schooling."
+  }
+ ]
+}

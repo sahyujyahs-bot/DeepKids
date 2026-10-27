@@ -1,0 +1,1315 @@
+{
+ "key": "combined|sci|3|transport-and-communication",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "transport-and-communication",
+ "title": "Transport and communication: how things and messages travel",
+ "source": "DeepKids Combined. Covers NIOS Level A Lesson 10 'Transport and Communication' (how transport and communication developed, their kinds and benefits, road signs, and their effect on the environment). No textbook needed.",
+ "summary": "Almost everything in your kitchen travelled to you, by truck, train or ship, and every journey needed messages too. Your child tests why rolling beats dragging, floats a foil boat, reads road signs by their shapes, and catches road dust on oily cards. Then they follow messages from drums, runners and pigeons to the PIN code, Morse code, radio and the internet. They time a message inside their own body, follow an ant trail and dance like a honeybee, and find that a message can travel on sound, light, smell or hands, as long as both sides share the code.",
+ "builds_on": "This is the first rung of this topic. It uses what your child may already know about pushes, friction and sound: that rubbing makes things harder to move, and that sound is a vibration passed along. In Class 4 the topic comes back as 'Transport and communication then and now', looking closer at how they have changed lives and places.",
+ "goals": [
+  "By the end your child can explain the difference between transport and communication, and trace how a packet in the kitchen reached home.",
+  "By the end your child can show with a box, rollers and wheels why rolling needs much less force than dragging.",
+  "By the end your child can name the five kinds of transport, say what each is best for, and explain why a steel ship floats.",
+  "By the end your child can read road signs by their shape and colour, explain traffic lights and cross a road safely.",
+  "By the end your child can describe how transport affects the air, our ears and wild animals, and compare a bus with cars.",
+  "By the end your child can explain codes such as the PIN code and Morse code, and say how messages travel by post, wire, radio waves, nerves, smell and dance."
+ ],
+ "words": [
+  [
+   "transport",
+   "moving people and goods from one place to another, by road, rail, water, air or pipeline"
+  ],
+  [
+   "communication",
+   "sending a message, an idea or a feeling from one being to another"
+  ],
+  [
+   "friction",
+   "the rubbing force between two things that touch. It makes a dragged box hard to pull."
+  ],
+  [
+   "axle",
+   "the rod in the middle of a wheel. The wheel turns round it and carries the load with it."
+  ],
+  [
+   "pipeline",
+   "a long pipe that carries water, cooking gas, petrol or oil a long way"
+  ],
+  [
+   "road sign",
+   "a sign by the road that gives an order, a warning or information, mostly with shapes and pictures"
+  ],
+  [
+   "code",
+   "a set of signals that the sender and the receiver have agreed on, like the 6 numbers of a PIN code"
+  ],
+  [
+   "Morse code",
+   "a code that turns each letter into short and long signals, like beeps or torch flashes"
+  ],
+  [
+   "radio waves",
+   "invisible waves that carry phone, radio and TV signals. They travel as fast as light."
+  ],
+  [
+   "nerve",
+   "a long thread in your body that carries messages between your brain and every part of you"
+  ],
+  [
+   "pheromone",
+   "a smelly chemical an animal makes to send a message. Ants lay pheromone trails to food."
+  ],
+  [
+   "sign language",
+   "a full language made with the hands, face and body. Deaf people in India use Indian Sign Language."
+  ]
+ ],
+ "subconcepts": [
+  "transport moves people and goods, and communication moves messages",
+  "rolling needs far less force than dragging, because there is less friction",
+  "the wheel and axle",
+  "five kinds of transport: road, rail, water, air and pipeline",
+  "why a heavy steel ship floats",
+  "road signs: shapes and colours that give orders, warnings and information",
+  "traffic lights and crossing a road safely",
+  "transport and the environment: smoke, dust, noise and roads through forests",
+  "messages long ago: drums, runners, pigeons and the post",
+  "codes: the PIN code and Morse code",
+  "phones, radio and the internet: signals by wire and by radio waves",
+  "nerves carry messages inside the body",
+  "animals communicate: smell trails, dances and calls",
+  "gestures, symbols and sign language"
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "Everything in our kitchen travelled here",
+   "goal": "See that transport brings almost everything we use, and that every journey needs messages too.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Where was this made?",
+     "mins": 7,
+     "do": "Put five packets on the table: tea, salt, a biscuit packet, a soap and one more. Ask your child to find the line on each packet that says where it was made or packed. Read the places aloud together. Ask: 'Which one came from the farthest away? How do you think it got here?' Good answers: by truck, by train, by ship, then on the shopkeeper's scooter."
+    },
+    {
+     "kind": "talk",
+     "title": "Two kinds of travel",
+     "mins": 8,
+     "do": "Say: 'Moving people and goods from place to place is called transport. Moving a message from one person to another is called communication.' Then say these one at a time and ask, 'Transport or communication?': an auto ride, a letter, a phone call, a train, a wave of the hand, the pipe that brings water, a WhatsApp message. The pipe is transport, because it moves water. Ask: 'Could the tea reach us if nobody sent any messages?' Let them think. Good answer: 'No. The shop has to order it, and the driver has to know where to go.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Torch Across the Gap",
+     "mins": 12,
+     "do": "Read the story aloud slowly. Don't explain it. Ask one question: 'On the night of the storm, nobody in Kabir's flat could understand each other. Why could Kabir and Zoya still talk?' Write down your child's answer. You will come back to it on Day 7."
+    },
+    {
+     "kind": "act",
+     "title": "The journey of a tea packet",
+     "mins": 13,
+     "do": "Do Activity a1. Your child draws the journey of the tea packet as a row of pictures: tea bushes in Assam or the Nilgiris, a truck, a factory, a train or a big truck, a warehouse, a shop, your kitchen. Under each picture, they draw the kind of transport. Then ask: 'At each step, who had to send a message to whom?' Add a speech bubble for each, for example 'Send 100 boxes' from the shop to the warehouse. Say: 'Transport carries the tea. Communication tells it where to go.'",
+     "ref": "a1"
+    }
+   ],
+   "need": [
+    "five packets from the kitchen",
+    "a long sheet of paper or two sheets taped together",
+    "crayons"
+   ],
+   "prep": []
+  },
+  {
+   "n": 2,
+   "title": "Drag, roll or wheel?",
+   "goal": "Test why the wheel changed transport, and find wheels and axles at home.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What do they all have?",
+     "mins": 5,
+     "do": "Ask: 'What do a truck, a train, a cycle, an auto and a bullock cart all have?' (Wheels.) 'Why do you think almost every land vehicle has wheels?' Write down the answer. Say: 'Today we test it.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The box test",
+     "mins": 18,
+     "do": "Do Experiment e1. First your child drags the box of books across the floor and you both measure how far the rubber band stretches. Before each new try, ask: 'Will the band stretch more, less or the same? Why do you think so?' Then try it on round pencils as rollers, then on a toy car or a skate. Write the three stretches in a table. Ask: 'Which way needed the smallest pull?'",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Rollers, then wheels",
+     "mins": 10,
+     "do": "Ask: 'What was annoying about the rollers?' (They came out at the back, and you had to carry them to the front.) Say: 'For thousands of years people moved heavy stones on wooden rollers and sledges. Then someone fixed a wheel on a rod called an axle. The wheel turns round the axle, and goes along with the load, so nothing gets left behind.' Say: 'The oldest wheels found so far are about 5,000 years old. Children in the old Indus cities, like Harappa, played with little clay carts with wheels.' Ask: 'Why does a wheel need less pull than dragging?' Good answer: 'When you drag, the whole bottom rubs on the floor. That rubbing force is called friction. A wheel touches the floor at one small spot, and rolls instead of rubbing.'"
+    },
+    {
+     "kind": "do",
+     "title": "Wheel and axle hunt",
+     "mins": 7,
+     "do": "Your child finds five wheels with axles at home in 5 minutes. Ideas: a suitcase, a chair with castors, a toy car, a cycle, a pulley on a clothes line. For each, ask: 'Where is the axle? What does this wheel carry?' Ask: 'Which one turns but carries nothing along the floor?' A pulley or a fan turns round an axle too, but stays in its place."
+    }
+   ],
+   "need": [
+    "a shoebox",
+    "6 to 8 heavy books",
+    "a thick rubber band",
+    "string",
+    "a ruler",
+    "6 round pencils, or 4 steel tumblers laid on their sides",
+    "a toy car, a skateboard or a trolley bag"
+   ],
+   "prep": []
+  },
+  {
+   "n": 3,
+   "title": "Road, rail, water, air and pipes",
+   "goal": "Meet the five kinds of transport, test why a steel ship floats, and set up the dust catchers.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the box",
+     "mins": 4,
+     "do": "Ask: 'Yesterday, which way needed the least pull: dragging, rollers or wheels? Why?' Good answer: 'Wheels, because they roll and there is less friction.' Say: 'Today we look at all the ways people and goods travel, not only on wheels.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Five kinds of transport",
+     "mins": 11,
+     "do": "Say: 'There are five kinds of transport: road, rail, water, air and pipeline.' Ask your child to name one example of each. Then share one fact for each. Road: most journeys in India are by road. Rail: India's first passenger train ran on 16 April 1853, from Bombay, now Mumbai, to Thane, about 34 km. Water: most goods traded between countries travel by ship. Air: in 1911, a plane in Allahabad, now Prayagraj, carried about 6,500 letters across the Yamuna to Naini. It was the first official air mail flight in the world. Pipeline: pipes bring water and, in many cities, cooking gas to our homes. Ask: 'Which is best for 1,000 tonnes of coal? For a sick person who must reach a far city today? For water every day?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Foil boat test",
+     "mins": 15,
+     "do": "Do Experiment e2. Ask first: 'A ship is made of steel, and steel sinks. So how does a ship float?' Write down the guess. Your child squeezes one foil square into a ball and folds the other into a boat. Put both in water. Then they add coins to the boat, one at a time, and count until it sinks. Ask: 'Same foil, same weight. Why did one float?' Good answer: 'The boat shape pushes aside a lot of water, so the water pushes it up strongly.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the dust catchers",
+     "mins": 8,
+     "do": "Set up Experiment e3. Your child spreads a thin layer of coconut oil on three white cards and labels them. You tape one on a window or balcony grill that faces the road. Tape one at a window away from the road, and put one inside a cupboard. Ask: 'In two days, which card will be dirtiest? Why?' Write the guesses down. You will look on Day 5.",
+     "ref": "e3"
+    }
+   ],
+   "need": [
+    "2 squares of aluminium foil, each about 15 cm",
+    "a bucket or big bowl of water",
+    "20 one-rupee coins",
+    "3 white cards cut from a cereal box",
+    "coconut oil",
+    "tape and a marker"
+   ],
+   "prep": []
+  },
+  {
+   "n": 4,
+   "title": "Reading the road",
+   "goal": "Read road signs by their shapes and colours, learn the traffic lights, and practise crossing safely.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the boat",
+     "mins": 4,
+     "do": "Ask: 'Why did the foil boat float when the foil ball sank?' Good answer: 'The boat pushed aside more water, so the water pushed it up more.' Say: 'Ships have their own rules for the sea. Today we learn the rules of the road.'"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Sign hunt on the way to the shop",
+     "mins": 16,
+     "do": "Walk to the nearest main road or shop with your child, holding hands. If you cannot go out, look from a balcony, or look at road sign pictures on a phone. Your child draws every road sign they see. Teach the shape code. A red circle gives an order, like 'No horn' or 'Speed limit 30'. A red triangle warns, like 'School ahead'. A blue rectangle gives information, like 'Hospital' or 'Parking'. An eight-sided red sign means STOP. At a signal, count the seconds of red and of green. Practise crossing at a zebra crossing: stop at the edge, look right, look left, look right again, and walk across when it is clear. Say: 'In India we drive on the left, so the nearest traffic comes from your right.'"
+    },
+    {
+     "kind": "act",
+     "title": "Make signs and play traffic lights",
+     "mins": 14,
+     "do": "Do Activity a2. Your child makes four road signs from card, with the right shapes and colours: STOP, school ahead, no horn and hospital. Then play the traffic-light game. You hold up red, yellow or green paper. On red, everyone freezes. On yellow, they slow down and get ready to stop. On green, they walk round the room carefully. Hold up a sign too, and they must obey it: on 'school ahead', they walk slowly on tiptoe.",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "Why shapes and pictures?",
+     "mins": 6,
+     "do": "Ask: 'Why do road signs use shapes, colours and pictures, and hardly any words?' Let your child think. Good answers: a driver going fast can read a shape from far away. People who cannot read, or who speak another language, still understand a picture. Say: 'A road sign is communication. So transport needs communication to be safe.' Ask: 'Which road rule do you most want every driver to follow? Why?'"
+    }
+   ],
+   "need": [
+    "a notebook and pencil",
+    "card or cereal boxes, scissors and colours",
+    "a red, a yellow and a green sheet of paper"
+   ],
+   "prep": []
+  },
+  {
+   "n": 5,
+   "title": "What transport does to the air, our ears and the animals",
+   "goal": "Look at the dust catchers, compare a bus with cars, hear about Clair Patterson, and play the parcel game.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Look at the dust catchers",
+     "mins": 8,
+     "do": "Collect the three cards from Experiment e3. Lay them on white paper and look closely, with a magnifying glass if you have one. Ask: 'Which card is dirtiest? Was your guess right?' Usually the road card is grey with black specks. Ask: 'Where did the black specks come from?' Then say: 'Engines that burn petrol and diesel give out soot and gases. Tyres and brakes rub off tiny bits as well. We breathe this air.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Smoke, noise and roads through forests",
+     "mins": 8,
+     "do": "Say: 'A full city bus can carry about 60 people. If those 60 people drove cars, two in each car, how many cars would that be?' Let your child work it out: 60 divided by 2 is 30 cars. Ask: 'Which makes less smoke and less traffic, one bus or 30 cars?' Then ask: 'What else does traffic make?' (Noise.) Then say: 'Roads also cut through forests, and animals get hit trying to cross. On the highway from Nagpur to Jabalpur, near Pench Tiger Reserve, parts of the road were raised on bridges, so that tigers, deer and other animals can walk underneath.' Ask: 'Who uses a road besides people?'"
+    },
+    {
+     "kind": "think",
+     "title": "The man who found lead in the air",
+     "mins": 8,
+     "do": "Tell your child the story of Clair Patterson from voice v1, in your own words. Then ask the question in v1 and wait for the answer. Say: 'He was right, and leaded petrol is now banned everywhere. India stopped selling it in 2000.' Ask: 'Why did the companies say lead was harmless?'",
+     "ref": "v1"
+    },
+    {
+     "kind": "game",
+     "title": "Play The Parcel's Journey",
+     "mins": 16,
+     "do": "Play the game g1 with the printed board. Before each move, the player reads the square aloud and says why they go forward or back, for example: 'Back 2, because the wrong PIN code sent the parcel to the wrong city.' Play once right through.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "the three dust cards",
+    "white paper",
+    "a magnifying glass if you have one",
+    "the printed game board, a die and a counter for each player"
+   ],
+   "prep": [
+    {
+     "task": "Print the game board for The Parcel's Journey",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Messages long ago: drums, runners, pigeons and the post",
+   "goal": "Follow how messages travelled before phones, address a real letter with a PIN code, and do the core worksheet.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "No phones allowed",
+     "mins": 4,
+     "do": "Ask: 'If there were no phones and no internet, how would you tell Nani in another city that you lost a tooth?' Let your child give two ideas. Say: 'For most of history, that was the only choice. Today we see what people did.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Drums, runners and pigeons",
+     "mins": 10,
+     "do": "Say: 'Long ago people beat drums, lit fires and sent smoke up, for messages like danger or come here. These are fast, but they can say only a few things.' Then say: 'Kings and, later, the post sent letters with runners called dak runners. Each runner ran one part of the road and handed the bag to the next runner, like a relay race.' Ask: 'Why not one runner all the way?' (He would get too tired and slow.) Then say: 'A pigeon's own need is to get home to its nest and its mate, even from far away. People used this. They carried pigeons away and tied messages to their legs. The pigeons flew home. The police in Odisha used pigeons to carry messages until 2008.'"
+    },
+    {
+     "kind": "act",
+     "title": "Post a real letter",
+     "mins": 12,
+     "do": "Do Activity a3. Your child writes or draws a short letter or postcard to someone in another town. Help them write the address, with the 6-digit PIN code on the last line. Say: 'PIN stands for Postal Index Number. India started using it on 15 August 1972. Shriram Bhikaji Velankar of the post office came up with it.' Show the first-digit table in a3 and ask: 'What region is our PIN code's first number for?' Post it this week.",
+     "ref": "a3"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 14,
+     "do": "Do worksheet ws1 together. Read each question aloud. For the two 'write' questions, your child says the answer first, then writes it. Ask for the reason behind each answer. Go back to the box test or the foil boat if they are stuck.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a postcard, or paper and an envelope",
+    "a stamp, from the post office",
+    "the address of a relative or friend, with its PIN code"
+   ],
+   "prep": [
+    {
+     "task": "Buy a postcard or an envelope and a stamp at the post office, and find a relative's full address with its PIN code",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Codes and waves: telegraph, phones, radio and the internet",
+   "goal": "Send a message in Morse code, find out how phones and radio carry messages, and send a message in packets like the internet.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What is a code?",
+     "mins": 4,
+     "do": "Ask: 'In the story, how did Kabir and Zoya talk by torch?' (One flash meant yes, two meant no, and so on.) 'Would a stranger understand their flashes?' (No.) Say: 'A code is a set of signals that the sender and the receiver have agreed on. The PIN code is one. Today we learn a famous one.'"
+    },
+    {
+     "kind": "act",
+     "title": "Torch Morse code",
+     "mins": 10,
+     "do": "Do Activity a4. Say: 'In the 1840s, the telegraph sent messages along wires as electric pulses, short and long. The code for the letters was Morse code.' Your child finds the code for their name in the table, then flashes it with a torch in a dark room: a short flash for a dot, a long flash for a dash. You write down what you see and read it back. Then you flash SOS and they decode it.",
+     "ref": "a4"
+    },
+    {
+     "kind": "think",
+     "title": "Whose code?",
+     "mins": 4,
+     "do": "Tell your child, in your own words, the story in voice v2 about Samuel Morse and Alfred Vail. Then ask the question in v2 and wait for the answer. There is no settled answer, so ask for reasons.",
+     "ref": "v2"
+    },
+    {
+     "kind": "talk",
+     "title": "Waves faster than sound",
+     "mins": 9,
+     "do": "Say: 'When you talk on a mobile phone, it changes your voice into radio waves. They fly to a tower, and are passed on until they reach the other phone. Radio waves are invisible and travel as fast as light, about 3 lakh kilometres every second. Sound in air travels only about 343 metres in a second.' Ask: 'If you shouted to Nani 300 km away, and your voice could reach her, how long would it take?' (About 15 minutes. A phone call gets there in less than a second.) Then tell your child about J.C. Bose from voice v3, and ask its question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "act",
+     "title": "Send a message in packets",
+     "mins": 14,
+     "do": "Do Activity a5. Your child writes a sentence of 8 words on a strip, cuts it into 8 pieces and numbers each piece. Each piece is carried to you by a different route: through the kitchen, round the sofa, via a brother or sister. You put the pieces in order by their numbers and read the message aloud. Say: 'The internet does this. It cuts your message into small packets, and each one can take a different path. The computer at the end puts them back in order.'",
+     "ref": "a5"
+    }
+   ],
+   "need": [
+    "a torch",
+    "the Morse code table from Activity a4",
+    "a strip of paper, scissors and a pencil"
+   ],
+   "prep": []
+  },
+  {
+   "n": 8,
+   "title": "Messages inside us and between animals",
+   "goal": "Time a message travelling through your own nerves, follow an ant trail, dance like a bee, and talk without words.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Start the ant trail",
+     "mins": 5,
+     "do": "Set up Experiment e4. Put a few grains of sugar on a small piece of paper where you often see ants, such as a balcony corner or a window sill. Ask: 'Will the ants come one by one, all at once, or in a line? Why?' Write the guess. You will look again in 30 minutes, after the ruler test.",
+     "ref": "e4"
+    },
+    {
+     "kind": "exp",
+     "title": "The ruler catch",
+     "mins": 9,
+     "do": "Do Experiment e5. You hold a 30 cm ruler at the top. Your child holds their thumb and finger open at the 0 mark, without touching. Drop it without warning. They catch it, and read the number at their fingers. Do it 5 times. Ask: 'What had to happen before your fingers closed?' Good answer: 'My eyes saw it fall, a message went to my brain, and another went down to my fingers.' Say: 'These messages travel along nerves. The fastest nerve messages travel about 100 metres in a second.'",
+     "ref": "e5"
+    },
+    {
+     "kind": "exp",
+     "title": "Back to the ants",
+     "mins": 5,
+     "do": "Go back to the sugar from Experiment e4. Ask: 'Are the ants walking in a line? Why might they follow the same path?' When there is a line, wipe one finger once across it. Watch the ants stop and search at the wiped place. Say: 'An ant that finds food lays a smell trail on its way home to the nest, with a chemical called a pheromone. One ant cannot carry all the sugar, so the trail brings its nest-mates. Your finger wiped the message away.' Clean up the sugar afterwards.",
+     "ref": "e4"
+    },
+    {
+     "kind": "act",
+     "title": "Dance like a honeybee",
+     "mins": 8,
+     "do": "Do Activity a6. Say: 'A honeybee that finds flowers far away has a problem. Her sisters in the hive need to find them too, and it is dark inside. So she dances. The direction of her waggle run shows the way, compared with the Sun. The length of the waggle shows how far.' Hide a 'flower', such as a paper flower, in the room. Your child dances to show you where it is, and you try to find it. Then swap.",
+     "ref": "a6"
+    },
+    {
+     "kind": "think",
+     "title": "Does the dance really tell?",
+     "mins": 4,
+     "do": "Tell your child about Karl von Frisch and Adrian Wenner from voice v4, in your own words. Then ask the question in v4. Good answers say that doubt made scientists test the dance more carefully.",
+     "ref": "v4"
+    },
+    {
+     "kind": "act",
+     "title": "Talk without words",
+     "mins": 9,
+     "do": "Do Activity a7. Take turns to act out a word with no sound at all, while the other guesses: rain, cat, eat, sleep, auto, friend. Then each of you draws a word, and the other guesses. Say: 'Gestures, like Namaste or a nod, and symbols, like a road sign, are messages too. Deaf people in India speak Indian Sign Language. It is a full language with its own grammar, just as Hindi or Tamil is.' Ask: 'In the story, was Zoya unable to talk?' Good answer: 'No. She talked with her hands. Kabir was the one who could not understand at first.'",
+     "ref": "a7"
+    }
+   ],
+   "need": [
+    "a few grains of sugar and a small piece of paper",
+    "a 30 cm ruler",
+    "a paper flower or any small object to hide"
+   ],
+   "prep": []
+  },
+  {
+   "n": 9,
+   "title": "Plan a journey, then teach it back",
+   "goal": "Plan a real journey three ways, do the stretch and challenge worksheets, and teach the topic back.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Project: three ways to Nani's",
+     "mins": 15,
+     "do": "Do the project. Your child picks a real town where someone you know lives. With your help on a phone, they find how long the journey takes by bus, by train and by car or plane, and roughly what each costs. They draw a table with three rows. Then they put a smoke mark against each: one mark for the train, two for the bus, more for a car with few people, and the most for a plane. Ask: 'Which would you choose, and why?' There is no single right answer."
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "do": "Do worksheet ws2 together. Read each question aloud. If your child is stuck, remind them of the test it comes from: the box, the foil boat, the dust cards, the ants or the ruler.",
+     "ref": "ws2"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 8,
+     "do": "Do worksheet ws3, or just the parts that interest your child. These questions have more than one good answer. Ask for reasons, and give yours too.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 7,
+     "do": "Ask the check questions aloud. Then your child teaches the topic back to another family member in 3 minutes, using the tea journey drawing from Day 1 and the dust cards. Listen for: rolling beats dragging, the five kinds of transport, road sign shapes, and a message travelling on a shared code."
+    }
+   ],
+   "need": [
+    "a phone to look up journey times",
+    "paper and pencil",
+    "the tea journey drawing from Day 1"
+   ],
+   "prep": [
+    {
+     "task": "Choose a town where a relative or friend lives, for the journey project",
+     "when": "night before"
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Moving things and moving messages",
+   "day": 6,
+   "sections": [
+    [
+     "A. Transport",
+     [
+      {
+       "t": "sort",
+       "p": "Sort these into transport and communication.",
+       "items": [
+        "a bus ride",
+        "a letter",
+        "a goods train",
+        "a phone call",
+        "a pipe bringing water",
+        "a wave of the hand"
+       ],
+       "cats": [
+        "transport",
+        "communication"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Riya pulls a box of books three ways. Which way needs the smallest pull?",
+       "opts": [
+        "dragging it on the floor",
+        "on round pencils as rollers",
+        "on a toy car with wheels"
+       ],
+       "a": 2
+      },
+      {
+       "t": "fill",
+       "p": "The rubbing force that makes a dragged box hard to pull is called ____.",
+       "a": [
+        "friction"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each job to the best kind of transport.",
+       "pairs": [
+        [
+         "1,000 tonnes of coal across India",
+         "goods train"
+        ],
+        [
+         "cooking gas to a flat every day",
+         "pipeline"
+        ],
+        [
+         "cars sent to another country",
+         "ship"
+        ],
+        [
+         "a patient who must reach a far city today",
+         "aeroplane"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Signs and messages",
+     [
+      {
+       "t": "match",
+       "p": "Match each road sign shape to what it does.",
+       "pairs": [
+        [
+         "red circle",
+         "gives an order"
+        ],
+        [
+         "red triangle",
+         "warns you"
+        ],
+        [
+         "blue rectangle",
+         "gives information"
+        ],
+        [
+         "red eight-sided sign",
+         "stop"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Arjun is crossing a road in India. Which way should he look first?",
+       "opts": [
+        "right",
+        "left",
+        "up"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The 6-digit number at the end of an Indian address is called the ____ code.",
+       "a": [
+        "PIN"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Why did the box need less pull on wheels than when you dragged it?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "The foil ball sank but the foil boat floated. Both were the same foil. Why?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Using what you found",
+   "day": 9,
+   "sections": [
+    [
+     "A. New cases",
+     [
+      {
+       "t": "mcq",
+       "p": "Meera's dust card by the road was grey. Her card in the cupboard was clean. What does this show?",
+       "opts": [
+        "traffic puts tiny bits into the air near roads",
+        "cupboards make dust",
+        "oil turns grey by itself"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A full bus carries 60 people. If they went in cars with 3 people in each, there would be ____ cars.",
+       "a": [
+        "20",
+        "twenty"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Kabir catches the dropped ruler at 20 cm. Next day he is sleepy and catches it at 28 cm. What does that mean?",
+       "opts": [
+        "the message took longer to get through",
+        "the ruler fell slower",
+        "his fingers got longer"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A bee dances with her waggle run pointing straight up the honeycomb. Where is the food?",
+       "opts": [
+        "in the direction of the Sun",
+        "away from the Sun",
+        "inside the hive"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Sort these messages by what carries them.",
+       "items": [
+        "ant trail",
+        "torch flashes",
+        "a drum",
+        "sign language",
+        "an elephant's rumble",
+        "a road sign"
+       ],
+       "cats": [
+        "sound",
+        "light and sight",
+        "smell"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Codes",
+     [
+      {
+       "t": "fill",
+       "p": "In Morse code, S is three short signals and O is three long ones. The distress call made of S, O, S is ____.",
+       "a": [
+        "SOS"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "The internet cuts a message into small numbered pieces. Why are they numbered?",
+       "opts": [
+        "so they can be put back in the right order",
+        "to make them heavier",
+        "so they all take the same path"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "When you wiped your finger across the ant line, the ants stopped and searched. What did your finger remove, and why did that stop them?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Why do road signs use shapes and pictures instead of words? Give two reasons.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Think it through",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "Lightning flashes. Ravi hears the thunder 6 seconds later. Sound travels about 1 km in 3 seconds. How far away was the lightning?",
+       "opts": [
+        "about 2 km",
+        "about 6 km",
+        "about 18 km"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Rollers worked, but one problem made people want wheels on an axle. What was it?",
+       "opts": [
+        "the rollers came out at the back and had to be moved to the front",
+        "rollers are too round",
+        "rollers only work on water"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "An electric car gives out no smoke from its back. Can it still cause pollution?",
+       "opts": [
+        "yes, its tyres wear into dust, and much electricity in India comes from burning coal",
+        "no, never",
+        "only when it is parked"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A message travels only if the sender and the receiver share the same ____.",
+       "a": [
+        "code",
+        "language"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. What if?",
+     [
+      {
+       "t": "write",
+       "p": "What if there were no PIN codes? What could go wrong with a letter to a town called Rampur, when India has many towns with that name?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Alfred Vail did much of the work on the telegraph, but it is called Morse code. Who do you think should get the credit for an invention, and why?",
+       "lines": 4
+      },
+      {
+       "t": "mcq",
+       "p": "Pigeons carried police messages in Odisha until 2008. What need of the pigeon made this possible?",
+       "opts": [
+        "it wants to fly home to its nest and its mate",
+        "it likes carrying paper",
+        "it is paid in grain"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Your view",
+     [
+      {
+       "t": "write",
+       "p": "Is faster always better? A letter takes days. A message takes a second. Say one good thing about each.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "A highway is planned through a forest. It will cut a city journey by one hour. Who gains, and who loses? What would you decide?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Drag, roll or wheel?",
+   "day": 2,
+   "question": "Is it easier to move a heavy box by dragging it, on rollers, or on wheels?",
+   "need": [
+    "a shoebox",
+    "6 to 8 heavy books",
+    "a thick rubber band",
+    "about 50 cm of string",
+    "a ruler",
+    "6 round pencils, or 4 steel tumblers laid on their sides",
+    "a toy car, a skateboard or a trolley bag"
+   ],
+   "steps": [
+    "Put the books in the box. Make a small hole in the front of the box and tie the string through it.",
+    "Tie the rubber band to the other end of the string. You will pull the box by the rubber band.",
+    "Measure the rubber band with the ruler while it hangs loose. Write it down.",
+    "Pull the band slowly and steadily so the box slides across a smooth floor. Measure how long the band is while the box moves.",
+    "Lay the round pencils under the box as rollers, and pull again. Measure the band.",
+    "Put the box on the toy car, skateboard or trolley bag, and pull again. Measure the band.",
+    "Make a table with two columns: Way of moving, and Length of band in cm."
+   ],
+   "predict": "Ask your child to guess first: 'Which way will stretch the band the least? Will rollers be as good as wheels? Why do you think so?'",
+   "observe": "The band stretches most when dragging, much less on rollers, and least on wheels. With rollers, the back roller comes out and must be moved to the front.",
+   "why": "When you drag the box, its whole bottom rubs against the floor. This rubbing force is called friction, and it pushes back against your pull. A roller or a wheel rolls instead of rubbing, so there is much less friction. Rollers get left behind as the box moves. A wheel on an axle goes along with the load, so nothing is left behind. That is why carts, cycles, cars and trains all run on wheels.",
+   "safety": "Pull slowly. Keep feet out of the way of the box and the rollers.",
+   "time": "18 min"
+  },
+  {
+   "id": "e2",
+   "title": "Foil boat test",
+   "day": 3,
+   "question": "Why does a heavy steel ship float, when a lump of steel sinks?",
+   "need": [
+    "2 squares of aluminium foil, each about 15 cm",
+    "a bucket or big bowl of water",
+    "20 one-rupee coins"
+   ],
+   "steps": [
+    "Squeeze one foil square into a tight ball.",
+    "Fold the other square into a flat boat with low walls on all four sides.",
+    "Put both gently on the water and watch.",
+    "Add coins to the boat one at a time, spread out, until it sinks. Count them.",
+    "Make a new boat with a wider base, and test again."
+   ],
+   "predict": "Ask your child to guess first: 'Will the ball and the boat both float? How many coins will the boat carry before it sinks?'",
+   "observe": "The tight ball sinks or sits very low. The boat floats and carries many coins. A wider boat carries more. Coins piled in one corner make it tip sooner.",
+   "why": "Water pushes up on anything put in it. The more water a thing pushes aside, the bigger the upward push. A foil ball pushes aside very little water. The same foil shaped as a boat holds air inside its walls, and pushes aside much more water, so the upward push holds it up. A steel ship floats for the same reason. It is shaped to push aside a huge amount of water.",
+   "safety": "Mop up spills so no one slips. Wash hands after handling coins.",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "Dust catchers",
+   "day": 3,
+   "question": "Is there more dust and soot in the air near a road than away from it?",
+   "need": [
+    "3 white cards cut from a cereal box",
+    "coconut oil",
+    "tape and a marker",
+    "white paper",
+    "a magnifying glass if you have one"
+   ],
+   "steps": [
+    "Spread a thin, even layer of coconut oil on one side of each card.",
+    "Label them: road side, away from the road, inside a cupboard.",
+    "Tape the first card, oily side out, on a window or balcony grill that faces the road.",
+    "Tape the second at a window or grill away from the road. Put the third inside a cupboard.",
+    "Leave them for 2 days.",
+    "Lay all three on white paper and compare them closely."
+   ],
+   "predict": "Ask your child to guess first: 'Which card will be dirtiest after 2 days? Will the cupboard card catch anything?'",
+   "observe": "Usually the road-side card is greyest, with many black specks. The card away from the road has fewer. The cupboard card is almost clean. In a very dusty city, all the outside cards may be grey, but the road one is usually darkest.",
+   "why": "Vehicles put tiny bits into the air: soot from burning diesel and petrol, rubber worn from tyres, dust from brakes, and road dust thrown up by wheels. The oily card traps whatever lands on it. The smallest bits float for a long time and can be breathed deep into the lungs. That is why doctors worry about air near busy roads.",
+   "safety": "An adult fixes the road-side card. Never lean out of a window or over a balcony to place it.",
+   "time": "8 min to set up, 2 days, then 8 min to look"
+  },
+  {
+   "id": "e4",
+   "title": "Follow the ant trail",
+   "day": 8,
+   "question": "How do ants tell each other where food is?",
+   "need": [
+    "a few grains of sugar",
+    "a small piece of paper"
+   ],
+   "steps": [
+    "Put a few grains of sugar on the paper, where you often see ants: a balcony corner, a window sill or near a kitchen door.",
+    "Look after 10 minutes and again after 30 minutes. Draw what you see.",
+    "When a line of ants has formed, wipe one finger once across the line.",
+    "Watch what the ants do when they reach the wiped place.",
+    "Watch for a few minutes more. Does the line join up again?",
+    "Throw away the sugar and wipe the place clean."
+   ],
+   "predict": "Ask your child to guess first: 'Will the ants come one by one, all at once, or in a line? What will happen at the place you wipe?'",
+   "observe": "At first one or two ants find the sugar. Later many come in a line. At the wiped place the ants stop, turn and wander about, until the line joins up again. If no ants come in 30 minutes, leave the sugar on the balcony and look again the next morning.",
+   "why": "An ant colony needs food, and one ant cannot carry much. An ant that finds food lays a trail of a smelly chemical, a pheromone, on its way back to the nest. Other ants smell it and follow it to the food. They add more smell on their way back, so the trail gets stronger. Your finger wiped away the smell, so the ants lost the message until they found the trail again.",
+   "safety": "Some ants bite. Watch, but don't touch them. Clean up the sugar afterwards so ants do not move into the kitchen.",
+   "time": "5 min, then 6 min after 30 minutes"
+  },
+  {
+   "id": "e5",
+   "title": "The ruler catch",
+   "day": 8,
+   "question": "How long does it take a message to travel from your eyes to your brain and on to your fingers?",
+   "need": [
+    "a 30 cm ruler",
+    "a notebook"
+   ],
+   "steps": [
+    "You hold the ruler by its top end, hanging straight down, with the 0 mark at the bottom.",
+    "Your child holds their thumb and first finger open, either side of the 0 mark, without touching.",
+    "Drop the ruler without warning. Your child catches it as fast as they can.",
+    "Read the number at the top of their thumb. Write it down.",
+    "Do it 5 times. Then swap: your child drops, you catch.",
+    "Use the table to turn each number into time. About 5 cm is 0.10 seconds. About 12 cm is 0.16 seconds. About 20 cm is 0.20 seconds. About 28 cm is 0.24 seconds."
+   ],
+   "predict": "Ask your child to guess first: 'Will you catch it at the very bottom, or will it fall a long way first? Will you get faster with practice?'",
+   "observe": "Most people catch the ruler between about 12 and 25 cm. The catch is often a little better after a few tries. If you say 'now' just before dropping, it is caught much sooner.",
+   "why": "Before your fingers can close, your eyes must see the ruler fall. A message goes along nerves from your eyes to your brain. Your brain decides, and sends a message along nerves down your arm to your fingers. All this takes about a fifth of a second. The ruler falls further the longer it takes, so the number shows how fast the messages travelled.",
+   "safety": "Use a plastic or wooden ruler, not a metal one with sharp edges. Keep it away from faces.",
+   "time": "10 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The journey of a tea packet",
+   "day": 1,
+   "mins": 13,
+   "need": [
+    "a long sheet of paper, or two sheets taped together",
+    "crayons"
+   ],
+   "steps": [
+    "Draw a row of boxes across the paper.",
+    "In the boxes, draw the tea's journey: tea bushes, a truck, a factory, a train or a big truck, a warehouse, a shop, your kitchen.",
+    "Under each box, write the kind of transport used.",
+    "Add a speech bubble for every message needed, for example 'Send 100 boxes' or 'Deliver to lane 4'.",
+    "Count the kinds of transport and the number of messages."
+   ],
+   "outcome": "A drawing that shows a packet of tea needed both transport and communication to reach your kitchen."
+  },
+  {
+   "id": "a2",
+   "title": "Road signs and the traffic-light game",
+   "day": 4,
+   "mins": 14,
+   "need": [
+    "card or cereal boxes",
+    "scissors and colours",
+    "a red, a yellow and a green sheet of paper"
+   ],
+   "steps": [
+    "Cut a circle, a triangle, a rectangle and an eight-sided shape from card.",
+    "Make a red circle with a horn crossed out: No horn.",
+    "Make a red triangle with two children walking: School ahead.",
+    "Make a blue rectangle with a white H: Hospital.",
+    "Make a red eight-sided sign with the word STOP.",
+    "Play: on red, freeze. On yellow, slow down and get ready to stop. On green, walk carefully round the room.",
+    "Hold up a sign too. Everyone must obey it."
+   ],
+   "outcome": "Four home-made road signs, and a child who knows what each shape and each light means."
+  },
+  {
+   "id": "a3",
+   "title": "Post a real letter",
+   "day": 6,
+   "mins": 12,
+   "need": [
+    "a postcard, or paper and an envelope",
+    "a stamp",
+    "a relative's address with its PIN code"
+   ],
+   "steps": [
+    "Write or draw a short letter to someone in another town.",
+    "Write the address. Put the PIN code on the last line.",
+    "Look at the first digit of the PIN. 1 is for Delhi, Haryana, Punjab, Himachal Pradesh and Jammu and Kashmir. 2 is for Uttar Pradesh and Uttarakhand. 3 is for Rajasthan and Gujarat. 4 is for Maharashtra, Goa, Madhya Pradesh and Chhattisgarh. 5 is for Andhra Pradesh, Telangana and Karnataka. 6 is for Tamil Nadu and Kerala. 7 is for West Bengal, Odisha and the North East. 8 is for Bihar and Jharkhand.",
+    "Find the first digit of your own PIN code too.",
+    "Stick on the stamp and post it at a post box or post office this week.",
+    "Ask the person to tell you the day it arrives. Count the days."
+   ],
+   "outcome": "A real letter on its way, and a child who knows what a PIN code does."
+  },
+  {
+   "id": "a4",
+   "title": "Torch Morse code",
+   "day": 7,
+   "mins": 13,
+   "need": [
+    "a torch, or a phone torch",
+    "this table",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Here is Morse code. A dot is a short flash and a dash is a long one. A is .- B is -... C is -.-. D is -.. E is . F is ..-. G is --. H is .... I is .. J is .--- K is -.- L is .-.. M is -- N is -. O is --- P is .--. Q is --.- R is .-. S is ... T is - U is ..- V is ...- W is .-- X is -..- Y is -.-- Z is --..",
+    "Write your name in dots and dashes.",
+    "In a dark room, flash it with the torch. Make a dash about three times as long as a dot. Pause between letters.",
+    "The other person writes down each flash and works out the name.",
+    "Now the grown-up flashes SOS: ... --- ... and the child decodes it."
+   ],
+   "outcome": "A child who can send and read a message in Morse code, and knows that a code only works when both sides share it."
+  },
+  {
+   "id": "a5",
+   "title": "Send a message in packets",
+   "day": 7,
+   "mins": 14,
+   "need": [
+    "a strip of paper",
+    "scissors",
+    "a pencil"
+   ],
+   "steps": [
+    "Write a sentence of 8 words on the strip.",
+    "Cut it into 8 pieces, one word on each. Number them 1 to 8 on the back.",
+    "Send each piece to the grown-up by a different route: through the kitchen, round the sofa, under the table, via another family member.",
+    "The grown-up lays the pieces in order of their numbers and reads the message aloud.",
+    "Try again, but hide one piece. Can the grown-up tell which number is missing?"
+   ],
+   "outcome": "A child who knows that the internet sends messages as small numbered packets that can take different paths."
+  },
+  {
+   "id": "a6",
+   "title": "The honeybee dance",
+   "day": 8,
+   "mins": 10,
+   "need": [
+    "a paper flower or a small toy to hide",
+    "a lamp or a window to be the Sun"
+   ],
+   "steps": [
+    "Choose a lamp or a window to be the Sun.",
+    "One person hides the 'flower' somewhere in the room while the other looks away.",
+    "The hider dances. Walk a short straight line, waggling your body, pointing the way to the flower compared with the Sun.",
+    "Waggle for longer if the flower is far, and shorter if it is near.",
+    "Loop back round and dance the waggle line again, three times.",
+    "The other person follows the dance and finds the flower. Then swap."
+   ],
+   "outcome": "A child who has felt how a honeybee tells her sisters the direction and distance of food."
+  },
+  {
+   "id": "a7",
+   "title": "Talk without words",
+   "day": 8,
+   "mins": 9,
+   "need": [
+    "paper and a pencil",
+    "small slips with words: rain, cat, eat, sleep, auto, friend"
+   ],
+   "steps": [
+    "Take a slip and act out the word with no sound at all. The other person guesses.",
+    "Take turns until all the slips are used.",
+    "Now each person draws a word, and the other guesses.",
+    "Talk about which was easier, acting or drawing, and why."
+   ],
+   "outcome": "A child who has sent messages with gestures and pictures, and knows that sign language is a full language."
+  }
+ ],
+ "project": {
+  "title": "Three ways to Nani's",
+  "days": [
+   9
+  ],
+  "steps": [
+   "Choose a real town where a relative or friend lives.",
+   "With a grown-up and a phone, find how long the journey takes by bus, by train, and by car or plane.",
+   "Find roughly what each costs for your family.",
+   "Draw a table with three rows: bus, train, car or plane. Write the time and the cost.",
+   "Add smoke marks: one for the train, two for the bus, more for a car with few people in it, and the most for a plane.",
+   "Choose one way, and write two reasons for your choice."
+  ],
+  "outcome": "A table comparing three ways to make a real journey by time, cost and smoke, and a choice with reasons."
+ },
+ "game": {
+  "id": "g1",
+  "title": "The Parcel's Journey",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "one counter per player, such as a button or a seed"
+  ],
+  "rules": [
+   "Your counter is a parcel of tea. Everyone starts at START, in a tea garden in Assam.",
+   "Take turns to roll the die and move your counter.",
+   "Read the square aloud and do what it says. Before you move, say why.",
+   "The first parcel to reach HOME wins.",
+   "Playing alone? Play against the die: roll for a pretend second player and try to reach HOME first."
+  ],
+  "squares": [
+   "START: a tea garden in Assam",
+   "The shop sends an order by phone: forward 2",
+   "The tea is packed in a box with the right address: forward 1",
+   "The truck has a flat tyre: miss a turn",
+   "The goods train carries a thousand boxes at once: forward 3",
+   "The address has no PIN code: back 2",
+   "The driver reads a red triangle and slows down near a school: forward 1",
+   "The driver jumps a red light and is stopped: back 3",
+   "A traffic jam on the highway: miss a turn",
+   "A ship would be best only across the sea. You stay on the train: forward 1",
+   "The warehouse gets a message in packets that arrive in order: forward 2",
+   "One packet of the message is lost and must be sent again: back 1",
+   "An elephant herd crosses the road ahead. You wait patiently: rest one turn, then forward 2",
+   "The truck is overloaded and needs more fuel: back 1",
+   "The delivery rider follows the PIN code to the right post office: forward 2",
+   "The rider takes the bus lane on a cycle: forward 1",
+   "Heavy rain floods the road. The shop sends a warning message in time: forward 1",
+   "The wrong flat number: back 2",
+   "The shopkeeper thanks the driver and the loaders: forward 2",
+   "HOME: tea in your kitchen"
+  ]
+ },
+ "big": [
+  "Is a message the sound, the light or the paper that carries it, or is it something else?",
+  "Is faster always better, for journeys and for messages?",
+  "A road helps a village reach a hospital, and cuts a forest in two. Who should decide where a road goes?",
+  "Do animals have language, or only signals? How would you decide?",
+  "Who owns a road: the cars, the walkers, the cows, or everyone?"
+ ],
+ "challenge": [
+  {
+   "q": "'Marconi invented radio.'",
+   "hint": "Many people made radio possible. James Clerk Maxwell predicted radio waves, Heinrich Hertz made them in his lab, and J.C. Bose in Calcutta made very short radio waves and new detectors in the 1890s. Marconi was the first to send radio signals over very long distances, and across the Atlantic in 1901. He shared the 1909 Nobel Prize in Physics with Karl Ferdinand Braun. Ask: when many people build an invention, why does the story usually name only one?"
+  },
+  {
+   "q": "'Electric cars cause no pollution.'",
+   "hint": "An electric car gives out no smoke from its back, so the air on the street is cleaner. But its tyres and brakes still wear into dust. Its electricity has to be made somewhere, and much of India's electricity still comes from burning coal. Making its battery also needs mining. Most studies find electric cars cause less pollution overall than petrol cars, and the gain grows as electricity gets cleaner. Ask: what is cleaner than any car?"
+  },
+  {
+   "q": "'Only humans have language.'",
+   "hint": "A honeybee's dance tells direction and distance. Ants lay smell trails. Many birds and monkeys give different alarm calls for different dangers. Scientists still argue about whether any of these is a language like ours, with grammar, or a set of signals. Sign languages, like Indian Sign Language, are full human languages with no sound at all. Ask: what would an animal need to do to convince you it has a language?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A tiger in Pench Tiger Reserve",
+   "view": "A busy highway runs past her forest. Where it is raised on bridges, she can walk underneath it safely. Elsewhere, crossing can kill her. Ask: if the tiger could speak at a meeting about a new road, what would she ask for?"
+  },
+  {
+   "who": "A delivery rider",
+   "view": "He carries parcels and food all day, often in heat and rain, so that we can stay at home. He finds each door by its address and PIN code. Ask: when a parcel arrives in one day, whose work made that happen?"
+  },
+  {
+   "who": "A Deaf child",
+   "view": "She talks all day in Indian Sign Language, with her hands, face and body. Most of the people around her cannot understand it. Ask: when two people cannot understand each other, whose job is it to learn?"
+  },
+  {
+   "who": "A person who walks to work",
+   "view": "In many Indian cities, a large share of people walk or cycle to work, but footpaths are broken or full of parked vehicles. Ask: who gets the most space on our roads, and who gets the least?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Clair Patterson (1922–1995), geochemist, USA",
+   "idea": "In the 1950s Patterson measured the age of the Earth, about 4.5 billion years. To do it he had to measure tiny amounts of lead, and he found lead everywhere. He showed that lead in the air, the sea and people's bodies had shot up in modern times. Most of it came from lead that was added to petrol, starting in the 1920s.",
+   "then": "Oil and lead companies, and scientists paid by them, said the lead was natural and harmless. Patterson lost some of his research money, and was kept off a 1971 national committee on lead in the air.",
+   "now": "He was right. Even small amounts of lead harm children's brains. Countries began banning leaded petrol in the 1970s. India stopped selling it in 2000, and the last country stopped in 2021. Lead in people's blood has fallen sharply.",
+   "status": "accepted",
+   "ask": "Patterson compared old ice from deep in Greenland with new ice near the top. The new ice had far more lead. Why was comparing old and new such strong evidence?",
+   "day": 5
+  },
+  {
+   "id": "v2",
+   "who": "Samuel Morse (1791–1872) and Alfred Vail (1807–1859), USA",
+   "idea": "Morse was a painter who began working on an electric telegraph in the 1830s. Alfred Vail joined him in 1837. He and his family put money into the work, and he built much of the machinery. On 24 May 1844, Morse sent the first message on a long telegraph line, from Washington to Baltimore, and Vail received it.",
+   "then": "Morse got the fame and most of the money. The dot-and-dash code was named after him.",
+   "now": "Historians still argue about who made the code for the letters. Morse's first plan was to send numbers that stood for words in a code book. Some historians think Vail worked out the letter code, using short codes for common letters like E and T. Others think Morse did. Vail's own papers do not settle it.",
+   "status": "debated",
+   "ask": "Vail built the machines and may have made the code, but the code has Morse's name. What evidence would you want to see before deciding who made it?",
+   "day": 7
+  },
+  {
+   "id": "v3",
+   "who": "Jagadish Chandra Bose (1858–1937), physicist and plant scientist, India",
+   "idea": "In the 1890s, at Presidency College in Calcutta, now Kolkata, Bose made very short radio waves, called millimetre waves. He sent them across rooms and through walls, and built new kinds of detectors for them. He chose not to patent most of his inventions, because he believed knowledge should be shared.",
+   "then": "His papers were published in London and praised. But radio became famous through Guglielmo Marconi, who sent signals across the Atlantic in 1901 and shared the 1909 Nobel Prize.",
+   "now": "Bose's early work on millimetre waves is accepted. In 2012 the IEEE, the world's largest society of engineers, honoured it with a Milestone plaque. Today millimetre waves are used in some 5G mobile networks. Historians still argue about whether a detector Marconi used in 1901 was based on a Bose design.",
+   "status": "debated",
+   "ask": "Bose shared his ideas freely instead of patenting them. Was that good for the world? What did it mean for how famous he became?",
+   "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "Karl von Frisch (1886–1982), Austria, and Adrian Wenner, USA",
+   "idea": "Von Frisch watched honeybees for many years. He found that a bee back from good flowers dances on the comb. The direction of her waggle run shows the direction of the food compared with the Sun. The length of the waggle shows how far it is. He shared the 1973 Nobel Prize for this work.",
+   "then": "In the 1960s Adrian Wenner and his colleagues argued that bees find food mostly by smell, and that the dance may not carry the message at all. The argument went on for years.",
+   "now": "In 2005, scientists fixed tiny radar tags on bees and tracked them. Bees that had followed a dance flew straight towards the place it showed. Most scientists now accept that the dance does tell direction and distance, and that smell helps too.",
+   "status": "accepted",
+   "ask": "Wenner turned out to be mostly wrong. Was his doubt still useful to science? Why?",
+   "day": 8
+  }
+ ],
+ "story": {
+  "title": "The Torch Across the Gap",
+  "text": [
+   "Our new flat in Pune was on the fourth floor, and my bedroom window looked straight into another window. The two buildings stood so close that I could have thrown a ball across. Papa said the gap was about four metres. In that other window, on my first evening, there was a girl about my age, with two plaits and a pencil behind her ear.",
+   "I waved. She waved back. I shouted, 'What's your name?' She smiled, pointed to her ear and shook her head. Then she moved her hands quickly, in shapes I did not know.",
+   "'She can't hear,' I told Mama at dinner. 'So she can't talk. That's so sad.'",
+   "Mama put down her roti. 'She was talking,' she said. 'You just couldn't understand her.'",
+   "The next evening the girl held a sheet of paper against her glass. It said, in big letters, ZOYA. Under it she had drawn a cat. She pointed at the cat, and made a shape with her fingers near her cheeks, like whiskers. Then she pointed at me.",
+   "I wrote KABIR on the back of my maths notebook and held it up. I could not think how to draw a Kabir. Zoya laughed. I could not hear her laugh, but I could see it.",
+   "That is how we started. Every evening after homework she taught me one sign. Cat. Rain. Eat. Mango. Friend. She wrote the word, made the sign, and waited until I made it back. If I got it wrong, she shook her head and showed me again, slowly, the way my cricket coach shows me a shot.",
+   "'Indian Sign Language,' her paper said one day. 'ISL. A real language. It has its own grammar.' My school does not teach it. I asked Mama why. She did not know.",
+   "After dark we could not see the papers any more. So I took the torch from the kitchen drawer. One flash meant yes. Two flashes meant no. A long flash meant goodnight. Zoya had a torch too. Soon we had more. Three quick flashes meant 'Come to the window.' For numbers, we flashed one for one, up to nine flashes for nine, and a long flash for zero. We made it all up ourselves. It worked because we both knew it.",
+   "Then, in July, a paper in Zoya's window said: WE ARE MOVING. SATURDAY. MUMBAI.",
+   "I did not know her phone number. I did not know her surname. I had never even been inside her building, because its gate was on the other road. I thought I would ask her on Friday.",
+   "On Friday the monsoon came down as if someone had turned over a bucket the size of the sky. The rain hammered on the tin sunshade over our window so loudly that I could not hear the TV. Then the power went off, in both buildings at once. Everything was black, and the noise was enormous.",
+   "In the kitchen, Mama was shouting something to Papa, and Papa was shouting back, 'What? What?' My little brother was crying, because he could not hear anyone and did not know where we were. A whole flat full of people with good ears, and nobody could understand anybody.",
+   "I went to my window with the torch. Across the gap, through the sheets of water, a small light was already blinking. Three quick flashes. Come to the window.",
+   "I stood there with the rain spraying through the frame onto my feet, and I thought: tonight the rain has made everyone deaf. Everyone except the two of us. Zoya had been talking without sound all her life. And she had taught me how.",
+   "I needed her address. We had no flash for 'address'. So I held the torch on my other hand and moved it as if I were writing, and then I pointed at her. She understood at once. She went away from the window, came back, and began to flash.",
+   "Four flashes. A long one. A long one. A long one. Five flashes. A long one. I wrote each number on my hand with a pen, by torchlight, while the rain roared: 4 0 0 0 5 0. I flashed the numbers back to her, to check. One flash: yes. Then she held a big paper to the glass with her torch shining on it. It had the name of her new building and her new road, in her careful capital letters.",
+   "On Saturday morning the rain had stopped. Zoya's window was empty, with no curtain. On the glass, stuck from the inside, was a drawing of a cat with whiskers.",
+   "That afternoon I wrote my first letter ever. I drew a cat at the top. Papa showed me where to write the six numbers, on the last line of the address. He said the first number, 4, would tell the post office the letter was going to the part of India that has Maharashtra in it. The other numbers would take it to the right post office in Mumbai, and a postman would carry it to her door.",
+   "Nine days later, a letter came for me. On the envelope, in big careful capitals, was my name. Inside there was one drawing: two windows, a torch in each, and between them a line of little flashes, some short and some long."
+  ],
+  "epiphany": "For the parent: an imagined story. The turn is the storm. The rain makes sound useless for everyone, and the family with good ears cannot understand each other, but Kabir and Zoya, who never relied on sound, talk perfectly. A message is not the sound, the light or the paper. It is a pattern that both sides have agreed on, a code, and it can ride on anything. Kabir also learns that Zoya was always talking, in a full language. Let your child find this on Day 7, when they make their own Morse code, before you name it.",
+  "ask": [
+   "On the night of the storm, why could nobody in Kabir's flat understand each other?",
+   "Why could Kabir and Zoya still talk?",
+   "Kabir first said Zoya 'can't talk'. Was he right? What did Mama mean?",
+   "Why did their torch flashes work, when a stranger would not have understood them?",
+   "How did six numbers help a letter find Zoya in a city of millions of people?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Rolling needs far less force than dragging.",
+   "more": "A dragged box rubs along its whole bottom, and the friction pushes back. A wheel touches the ground at one small spot and rolls. Use the rubber-band lengths from the box test on Day 2."
+  },
+  {
+   "idea": "A message can travel on anything, if both sides share the code.",
+   "more": "Sound, torch flashes, electric pulses, radio waves, a smell trail, a dance and hand shapes all carried messages this week. Each worked only because the sender and the receiver agreed what each signal meant. A stranger watching Kabir's torch would see only flashes."
+  },
+  {
+   "idea": "Every journey has a cost that someone else may pay.",
+   "more": "The dust cards showed what traffic puts in the air we all breathe. Roads also cut through forests where animals live. One full bus can take the place of 30 cars."
+  }
+ ],
+ "unknowns": [
+  "Nobody knows exactly how homing pigeons find their way home from places they have never been. Scientists think they use the Sun, the Earth's magnetism, smells and landmarks, but still argue about how much each one matters.",
+  "Nobody knows how human language began, or when people first spoke in words. Spoken words leave no fossils.",
+  "Scientists are still finding out how elephants use their very low rumbles, which people can hardly hear, and how much they feel them through their feet."
+ ],
+ "books": [
+  {
+   "title": "The Wheels on the Tuk Tuk",
+   "author": "Kabir Sehgal and Surishtha Sehgal (illustrated by Jess Golden)",
+   "for": "read together",
+   "age": "3–7",
+   "why": "The old song set in an Indian auto-rickshaw, full of the busy life of an Indian street. A fun way to talk about who and what shares the road."
+  },
+  {
+   "title": "The Jolly Postman",
+   "author": "Janet and Allan Ahlberg",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A postman delivers letters to fairy-tale characters, and the real letters sit in envelopes inside the book. Pairs with posting a real letter on Day 6."
+  },
+  {
+   "title": "Can You Hear the Trees Talking?",
+   "author": "Peter Wohlleben",
+   "for": "read together",
+   "age": "8–10",
+   "why": "A forester's questions and answers about how trees may send signals to each other. Some of his ideas are debated by scientists, which makes it good to read and question together."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is the difference between transport and communication? Give one example of each.",
+   "a": "Transport moves people and goods, like a goods train carrying tea. Communication moves messages, like a phone call or a letter."
+  },
+  {
+   "q": "Why did the box need less pull on wheels than when it was dragged?",
+   "a": "When it was dragged, its whole bottom rubbed on the floor, and that friction pushed back. Wheels roll instead of rubbing, so there is much less friction. The rubber band stretched least on wheels."
+  },
+  {
+   "q": "Name the five kinds of transport, with one example of each.",
+   "a": "Road, like a bus. Rail, like a train or metro. Water, like a ship. Air, like an aeroplane. Pipeline, like the pipe that brings water or cooking gas."
+  },
+  {
+   "q": "Why does a steel ship float when a steel nail sinks?",
+   "a": "The ship is shaped with air inside, so it pushes aside a huge amount of water. The water pushes up on it strongly enough to hold it up. The foil boat floated for the same reason, while the foil ball sank."
+  },
+  {
+   "q": "What do a red circle, a red triangle and a blue rectangle mean on a road sign? How do you cross a road in India?",
+   "a": "A red circle gives an order, a red triangle warns, and a blue rectangle gives information. To cross, stop at the edge, look right, look left, look right again, and walk when the road is clear."
+  },
+  {
+   "q": "What did the dust cards show, and what can make the air near roads cleaner?",
+   "a": "The road-side card was dirtiest, because traffic puts soot and dust into the air. Fewer cars, more buses, trains, cycling and walking, and cleaner engines all help."
+  },
+  {
+   "q": "How does an ant tell other ants where food is? What happened when you wiped the trail?",
+   "a": "It lays a smell trail of a chemical called a pheromone, from the food back to the nest. Other ants follow it. When the trail was wiped, the ants stopped and searched, because the smell message was gone."
+  },
+  {
+   "q": "Why did Kabir and Zoya's torch flashes work as messages?",
+   "a": "Because they had agreed on a code: one flash for yes, two for no, and so on. A message travels only when the sender and the receiver share the same code."
+  }
+ ]
+}

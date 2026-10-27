@@ -1,0 +1,1296 @@
+{
+ "key": "combined|sci|3|making-things",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "making-things",
+ "title": "Making things: clay, bricks and houses",
+ "source": "DeepKids Combined. Covers NCERT Class 3 'Making Things' (materials and their uses, pots and bricks from clay, houses built from natural resources, new designs, safety rules). No textbook needed.",
+ "summary": "Wet clay can be shaped like dough, but once a potter bakes it in a kiln it can never turn back into mud. Your child makes clay pots, tests why baked clay is different, presses bricks in a mould and finds out why builders stagger them. They compare houses built for floods, deserts and snow, meet the wasps, weaver birds and termites that build too, and test how a triangle or a fold makes paper strong. They end by designing a model house for a real place, and by learning the safety rules that keep builders alive.",
+ "builds_on": "In Class 2 your child sorted natural and made materials, and followed clay to brick and cotton to cloth. This rung goes inside the making: what clay is, why fire changes it for ever, how bricks, walls and houses are built, and how shape gives strength. In Class 4 the making-things rung makes paper from pulp and looks at waste. In Class 5 it follows cotton into thread, cloth and clothes.",
+ "goals": [
+  "By the end your child can say what a home is made of and where each material came from in nature.",
+  "By the end your child can make a pinch pot and a coil pot, and give the steps of pot making in order with a reason for each.",
+  "By the end your child can show that dried clay turns back to mud in water but baked clay does not, and explain that baking is a change that cannot be undone.",
+  "By the end your child can make bricks in a mould and show why a staggered wall is stronger than a stacked one.",
+  "By the end your child can explain why houses differ from place to place, and test how thick earth walls keep a room cool.",
+  "By the end your child can show how triangles and folds make weak materials strong, and name safety rules for builders and makers."
+ ],
+ "words": [
+  [
+   "raw material",
+   "a material taken from nature to make something, like clay for a pot or limestone for cement"
+  ],
+  [
+   "clay",
+   "a very fine, sticky soil. Wet clay can be shaped. It gets hard when it dries, and harder still when it is baked."
+  ],
+  [
+   "knead",
+   "to press, fold and squeeze clay or dough again and again until it is smooth all through"
+  ],
+  [
+   "kiln",
+   "a potter's oven. It gets far hotter than a kitchen oven, and bakes clay pots and bricks hard."
+  ],
+  [
+   "terracotta",
+   "baked clay, usually reddish brown. Diyas, kulhads and flower pots are terracotta. The word means 'baked earth'."
+  ],
+  [
+   "irreversible change",
+   "a change that cannot be undone. A baked diya can never become soft clay again."
+  ],
+  [
+   "mould",
+   "a hollow shape that soft material is pressed into, so it comes out that shape. An idli stand is a mould."
+  ],
+  [
+   "mortar",
+   "a wet paste put between bricks that dries hard and holds them together. Today it is usually cement, sand and water."
+  ],
+  [
+   "bond",
+   "the pattern in which bricks are laid in a wall"
+  ],
+  [
+   "concrete",
+   "a mix of cement, sand, small stones and water that sets as hard as rock"
+  ],
+  [
+   "insulator",
+   "a material that lets heat pass through only slowly, like thick mud, wool or snow"
+  ],
+  [
+   "weave",
+   "to make a sheet by passing strips over and under other strips that cross them"
+  ]
+ ],
+ "subconcepts": [
+  "raw materials come from nature: rock, river sand, soil, plants and animals",
+  "making changes a material's shape, or changes what it is",
+  "clay is made of tiny flat grains that slide past each other when wet",
+  "settling sorts soil: sand sinks first, clay stays floating longest",
+  "the steps of pot making, and why each step matters",
+  "drying shrinks clay, and dried clay turns back to mud in water",
+  "baking in a kiln is an irreversible change",
+  "moulds make every brick the same shape",
+  "a brick bond: staggered bricks share a push",
+  "houses are built from materials nearby, to suit the weather",
+  "thick earth walls are insulators and keep a house cool",
+  "animal builders: the potter wasp, the baya weaver and termites",
+  "weaving: strips crossing over and under make a strong sheet",
+  "shape gives strength: triangles and folds",
+  "safety rules for builders and makers"
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "Where did our home come from?",
+   "goal": "Trace the walls of your home back to rocks, rivers and soil, read the story, and start a soil-settling jar.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember clay to brick",
+     "mins": 6,
+     "do": "Say: 'In Class 2 you followed clay on its journey to becoming a brick. What else did we follow?' (Cotton to cloth, sand to glass, oil to plastic.) Ask: 'What does raw material mean?' Good answer: 'Something from nature that we use to make a thing.' Say: 'This week we find out how people, and some animals, turn raw materials into pots, bricks and whole houses.'"
+    },
+    {
+     "kind": "talk",
+     "title": "What is this wall made of?",
+     "mins": 10,
+     "do": "Put your child's hand flat on a wall of your home. Ask: 'What do you think this wall is made of?' Let them guess, then say what is true for most Indian homes: 'Bricks or concrete blocks, joined with mortar, covered with plaster and paint.' Explain concrete: 'Concrete is cement, sand, small stones and water. Cement is made by baking crushed limestone rock with clay in a huge kiln. The sand is mostly dug from rivers. Steel rods inside come from iron ore dug from hills.' Ask: 'So where was our home before it was a home?' (In hills, rivers and soil.) Write the list on a page called 'Our home came from'."
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Bull That Did Not Melt",
+     "mins": 12,
+     "do": "Read the story aloud slowly. Don't explain it. Ask one question: 'Both clay bulls were made from the same mud. Why do you think one melted and one did not?' Write down your child's answer. You will check it with a real test on Day 3."
+    },
+    {
+     "kind": "exp",
+     "title": "Start the settling jar",
+     "mins": 12,
+     "do": "Do Experiment e1. Put 3 big spoons of soil in a clear jar or bottle, fill it two-thirds with water, close it and shake hard for one minute. Ask: 'What do you think will happen if we leave it still?' Wait for the answer and the reason. Then watch for 2 minutes. Ask: 'What fell to the bottom first?' (The gritty sand.) Say: 'Leave it. Tomorrow we will see the layers.'",
+     "ref": "e1"
+    }
+   ],
+   "need": [
+    "a clear glass jar or plastic bottle with a lid",
+    "3 big spoons of soil from a plant pot or a tree bed",
+    "water",
+    "a notebook"
+   ],
+   "prep": [
+    {
+     "task": "Get a cup of real soil (not cocopeat potting mix) from a plant pot, a building's garden bed or a tree base",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "What clay is, and making pots by hand",
+   "goal": "Read the layers in the jar, feel why clay can be shaped, and make a pinch pot and a coil pot.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Read the jar",
+     "mins": 7,
+     "do": "Look at the jar from Experiment e1 without shaking it. Ask your child to draw the layers. Usually: coarse sand at the bottom, a finer layer of silt on top of it, then a thin smooth layer of clay, and cloudy water above. Ask: 'Why is the water still cloudy?' Let them guess, then say: 'Clay grains are so tiny you cannot see one. They are so light that they sink very, very slowly. Some are still floating.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Why wet clay can be shaped",
+     "mins": 6,
+     "do": "Give your child a lump of clay. Say: 'Clay grains are tiny flat flakes, like a pile of the thinnest paper. When there is water between them, they slide over each other, so the clay bends instead of breaking.' Ask them to roll a thin snake and bend it. Then mix a lot of water into one small bit. Ask: 'What happens when clay is too wet?' (It flops and sticks to your hands.) 'What would happen with no water at all?' (It would crack and crumble, like a dry clod of soil.) Say: 'Potters knead clay until it is just right, neither too wet nor too dry.'"
+    },
+    {
+     "kind": "act",
+     "title": "Pinch pot and coil pot",
+     "mins": 20,
+     "do": "Do Activity a1. First, your child kneads the clay for 2 minutes to make it smooth and push out air bubbles. Then they make a pinch pot: a ball pressed open with the thumb and pinched round. Then a coil pot: a flat base with snakes of clay coiled on top and smoothed. Ask: 'How is this like what a potter does on a wheel?' (Both shape wet clay into a hollow. The wheel spins the clay so the potter's still hand touches it all round evenly, which makes the pot round.)",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "Start the shrinking bar",
+     "mins": 7,
+     "do": "Set up Experiment e2. Roll a bar of clay about 12 cm long and as thick as your finger. Press two toothpick marks exactly 10 cm apart, using a ruler. Put it on a plate in the shade beside the pots. Ask: 'Will the marks still be 10 cm apart when it is dry? Why do you think so?' Write the guess down.",
+     "ref": "e2"
+    }
+   ],
+   "need": [
+    "about 500 g of potter's clay, or the clay layer from the jar plus mud from a plant pot",
+    "a little water in a bowl",
+    "newspaper",
+    "a ruler",
+    "2 toothpicks",
+    "a plate"
+   ],
+   "prep": [
+    {
+     "task": "Buy potter's clay (sold as 'pottery clay' or 'terracotta clay' at craft shops and online, about 1 kg). Modelling clay and plasticine will not work, because they are not real clay.",
+     "when": "1 week before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Dry clay, baked clay",
+   "goal": "Test whether dried clay and baked clay behave the same in water, learn what a kiln does, and meet the potter wasp.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Measure the shrinking bar",
+     "mins": 5,
+     "do": "Measure the gap between the two toothpick marks on the bar from Experiment e2. Ask: 'Is it still 10 cm?' It is usually a few millimetres shorter, and still drying. Ask: 'Where did that clay go?' Good answer: 'Water left from between the grains, so they moved closer together.' Measure again on Day 5.",
+     "ref": "e2"
+    },
+    {
+     "kind": "exp",
+     "title": "Mud or terracotta in water",
+     "mins": 14,
+     "do": "Do Experiment e3. Put a dry lump of clay (or a hard dry clod of soil) in one glass of water and a broken diya or kulhad in another. Ask first: 'What will happen to each? Why?' Wait 10 minutes, stirring once. The dry lump goes soft and crumbles into mud. The diya stays hard. Now ask: 'They were the same mud once. What made the difference?' Then explain: 'A kiln heats clay hotter than about 600 degrees Celsius. That heat changes the grains themselves and joins them together. This is an irreversible change: it cannot be undone.' Go back to the Day 1 story answer and check it.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "The order of pot making",
+     "mins": 8,
+     "do": "Ask your child to tell you, in order, how a potter makes a matka: dig and clean the clay, soak it, knead it, shape it on the wheel, dry it in the shade, bake it in a kiln, decorate it. For each step ask: 'Why?' Two important ones: 'Why dry it before baking?' (Water left inside turns to steam in the fire and can crack or burst the pot.) 'Why dry it slowly in the shade?' (If the outside dries much faster than the inside, it shrinks unevenly and cracks.)"
+    },
+    {
+     "kind": "think",
+     "title": "The potter wasp",
+     "mins": 8,
+     "do": "Say: 'A potter wasp has a problem. Her baby grows from an egg into a grub that cannot move or find food, and many animals would eat it.' Ask: 'What would you build to keep a baby safe?' Then tell: 'She mixes soil with water to make mud, and builds a tiny round pot of mud pellets on a wall or twig. She puts caterpillars inside that she has stung so they cannot move, lays one egg, and seals the pot. The grub eats, grows, and climbs out as a wasp.' Look for small mud nests on window frames, under a sunshade or on a balcony wall. Ask: 'What does she do the same as a human potter? What does she never do?' (She shapes wet mud and lets it dry. She never bakes it, so her pot is sheltered from rain.)"
+    },
+    {
+     "kind": "act",
+     "title": "A pattern from nature",
+     "mins": 5,
+     "do": "Your child chooses a pattern they can see in nature, such as the veins of a leaf, a snail's spiral or a squirrel's stripes, and presses or scratches it all round their pinch pot with a toothpick, while the clay is still a little soft. Say: 'Potters all over India have taken patterns from leaves, fish and birds for thousands of years.'"
+    }
+   ],
+   "need": [
+    "the clay bar and a ruler",
+    "2 glasses of water",
+    "a dry lump of the child's clay or a hard dry clod of soil",
+    "an old diya or kulhad (break a chipped one, wrapped in a cloth, grown-up does this)",
+    "a toothpick"
+   ],
+   "prep": [
+    {
+     "task": "Leave a lump of clay, the size of a lemon, to dry hard on a sunny windowsill",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Brick by brick",
+   "goal": "Make bricks in a mould, meet the brick-makers of the Indus cities, and test which way of laying bricks makes a stronger wall.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "Moulds: same shape every time",
+     "mins": 9,
+     "do": "Bring an idli stand. Ask: 'Why does every idli come out the same shape?' (The mould shapes the batter.) Then make bricks: your child presses clay firmly into the inner tray of a matchbox, scrapes the top flat with a ruler, and taps it out onto newspaper. Make 6 to 10. Leave them to dry in the shade. Ask: 'Why do builders want every brick the same size?' Good answer: 'Then the rows stay flat and level, and the wall does not lean.'"
+    },
+    {
+     "kind": "think",
+     "title": "The bricks of the Indus cities",
+     "mins": 7,
+     "do": "Tell the story in Voice v1. Measure one of your clay bricks: its thickness, its width and its length. Ask: 'Is the width about twice the thickness? Is the length about twice the width?' Then ask the voice question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "exp",
+     "title": "Stacked wall or staggered wall?",
+     "mins": 16,
+     "do": "Do Experiment e4 with 20 empty matchboxes or same-size toy blocks. Build Wall A with bricks stacked straight up in columns. Build Wall B with each row shifted by half a brick, the way real walls are built. Ask first: 'Which will fall when we push it? Why?' Push the top middle of each with one finger, gently, then a little harder. Usually Wall A splits and one column topples alone, while Wall B moves as one piece. Say: 'The pattern in which bricks are laid is called the bond. In a staggered bond, each brick sits across two bricks below it, so a push is shared by many bricks.' Ask: 'What does mortar add?' (It glues the bricks so the whole wall acts as one.)",
+     "ref": "e4"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 8,
+     "do": "Do Worksheet ws1. Read each question aloud if your child wants. Mark it together. For anything wrong, go back to the jar, the bar or the wall and look again.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "an idli stand",
+    "clay",
+    "an empty matchbox",
+    "a ruler",
+    "20 empty matchboxes or same-size toy blocks",
+    "worksheet ws1"
+   ],
+   "prep": [
+    {
+     "task": "Collect 20 empty matchboxes (or find 20 same-size toy blocks)",
+     "when": "1 week before"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Houses for every place",
+   "goal": "Find out why houses differ from place to place, and test how thick earth walls keep a room cool.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Set up the earth-wall test",
+     "mins": 8,
+     "do": "Set up Experiment e5. Put one ice cube in each of two steel tumblers. Leave one tumbler bare. Stand the other in a bigger bowl and pack damp soil all round it, about 3 cm thick. Cover both with a piece of card. Put them side by side in the sun. Ask: 'Which ice cube will last longer? Why?' Check every 10 minutes during the next steps.",
+     "ref": "e5"
+    },
+    {
+     "kind": "talk",
+     "title": "Five houses, five problems",
+     "mins": 14,
+     "do": "Show your child pictures on the phone, one at a time. For each, say the problem first, then ask: 'What would you build?' Then tell what people built. In Assam, rivers flood every monsoon, so many families build bamboo houses on stilts. In the Thar desert, days are very hot, so houses have thick walls of mud or stone and small windows. In Kerala, rain is heavy, and roofs are steep and tiled to let the water run off fast. In Ladakh, it is cold and there is little rain, so houses have thick mud-brick walls and flat roofs. In the Arctic, Inuit families once built igloos of snow blocks for hunting trips: snow is full of trapped air, so it keeps body heat in. Ask: 'What two things decide how a house is built?' (The weather, and the materials found nearby.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Our own building",
+     "mins": 8,
+     "do": "Ask: 'Which of these problems does our city have?' (Heat, heavy rain, floods or cold.) 'What did the builders of our home do about it?' Look for a sunshade over a window, a sloping roof, a drain pipe or a jaali. Ask: 'What would you change to make our home cooler without a fan?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Read the earth-wall test",
+     "mins": 6,
+     "do": "Check the two tumblers from Experiment e5. Usually the bare tumbler's ice is gone first, and the ice inside the soil lasts much longer. Ask: 'Why?' Let your child answer first, then say: 'Thick earth lets heat through only slowly. It is an insulator. That is why mud and stone houses in hot places stay cool inside in the day.'",
+     "ref": "e5"
+    },
+    {
+     "kind": "check",
+     "title": "The clay bar, final reading",
+     "mins": 4,
+     "do": "Write the bar's final length beside the Day 2 guess. Ask: 'By how many millimetres did it shrink? Was your guess right?' Say: 'Real brick-makers make their moulds a little bigger than the brick they want, because the clay shrinks.'",
+     "ref": "e2"
+    }
+   ],
+   "need": [
+    "2 steel tumblers",
+    "2 ice cubes of the same size",
+    "a bigger bowl or pot",
+    "damp soil to pack round one tumbler",
+    "2 pieces of card",
+    "a phone to show pictures of houses",
+    "the clay bar and a ruler"
+   ],
+   "prep": []
+  },
+  {
+   "n": 6,
+   "title": "Builders that are not people",
+   "goal": "Meet the baya weaver and the termites, find out what problem each one's building solves, and weave a mat.",
+   "steps": [
+    {
+     "kind": "think",
+     "title": "The baya weaver's nest",
+     "mins": 10,
+     "do": "Say: 'A baya weaver bird has a problem. Its eggs and chicks are food for snakes, crows and lizards.' Ask: 'Where would you put a nest to keep it safe?' Then tell: 'The male tears long strips from grass and palm leaves and weaves a hanging nest, often from a thin branch over water, so snakes find it hard to reach. The way in is a long tube at the bottom. Females visit half-built nests and choose one. If no female likes it, he may start again.' Show a photo of a baya nest. Then tell the story in Voice v2 and ask its question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "act",
+     "title": "Weave a paper mat",
+     "mins": 16,
+     "do": "Do Activity a2. Your child weaves strips over and under, then pushes each new row tight. Ask: 'Pull one single strip. Now pull the woven mat. Which is harder to tear apart?' (The mat.) Say: 'Every strip is held by all the strips that cross it. Cloth is made the same way, with threads instead of paper. We will weave real cloth in Class 5.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "think",
+     "title": "Termites and their breathing mound",
+     "mins": 8,
+     "do": "Say: 'Some termites grow a fungus garden inside their mound and eat it. The garden needs fresh air and steady conditions.' Tell: 'People thought for many years that the termites' own warmth pushed air up a chimney. In 2015, scientists from Harvard University put tiny sensors inside mounds near Bengaluru. They found the sun warms the thin outer walls of the mound faster by day, and they cool faster at night. That moves the air one way by day and the other way by night.' Ask: 'Why did it take so long to find out?' (Nobody had measured inside a real mound through a whole day and night.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Who built it first?",
+     "mins": 6,
+     "do": "Ask: 'The wasp, the baya and the termites all build. How is their building like ours? How is it different?' Good answers: 'They use mud and grass found nearby, like a mud house. They never bake or use machines. Each kind of animal builds its own kind of home.' Then ask: 'Is a baya nest less clever than our flat? Why do you think so?'"
+    }
+   ],
+   "need": [
+    "a phone to show a photo of a baya nest",
+    "2 sheets of coloured paper or old magazine pages",
+    "scissors",
+    "glue or tape"
+   ],
+   "prep": []
+  },
+  {
+   "n": 7,
+   "title": "New designs: strong from shape",
+   "goal": "Test how triangles and folds make weak materials strong, and meet an architect who built with less.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Square or triangle?",
+     "mins": 12,
+     "do": "Do Experiment e6. Roll 7 newspaper tubes and tape them into a square and a triangle. Ask first: 'Which shape will stay strong when I push its top corner sideways? Why?' Stand each up and push. The square leans over into a diamond. The triangle keeps its shape. Ask: 'Where have you seen triangles holding things up?' (Electricity towers, roof frames, bridges, a cycle frame, a ladder leaning on a wall.)",
+     "ref": "e6"
+    },
+    {
+     "kind": "act",
+     "title": "The paper bridge",
+     "mins": 12,
+     "do": "Do Activity a3. Lay one flat sheet of paper between two books 15 cm apart and add one-rupee coins until it sags to the table. Then fold a new sheet into a zig-zag like a hand fan, and test again. Ask: 'It is the same paper. Why does it hold more?' Good answer: 'The folds stand up on their edges, so the paper is much harder to bend.' Say: 'This is why tin roof sheets and cardboard have waves inside.'",
+     "ref": "a3"
+    },
+    {
+     "kind": "think",
+     "title": "Laurie Baker and the hollow wall",
+     "mins": 8,
+     "do": "Tell the story in Voice v3. Stand 4 matchboxes on their long edges in two rows with a gap between them, to show a hollow rat-trap wall. Ask: 'What is inside the gap?' (Air.) 'How could that keep a house cool?' (Air slows heat down, like the soil round the tumbler.) Ask the voice question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "think",
+     "title": "Earth or concrete?",
+     "mins": 8,
+     "do": "Tell the story in Voice v4. Ask: 'What is good about mud houses? What is good about concrete ones?' Make two lists. Then ask the voice question, and let your child decide for themselves.",
+     "ref": "v4"
+    }
+   ],
+   "need": [
+    "7 sheets of newspaper",
+    "cello tape",
+    "a pencil to roll tubes on",
+    "4 sheets of A4 paper",
+    "2 books of the same height",
+    "about 20 one-rupee coins",
+    "4 matchboxes"
+   ],
+   "prep": []
+  },
+  {
+   "n": 8,
+   "title": "Safety, and building a model house",
+   "goal": "Learn why builders and makers follow safety rules, play the brick game, and design a model house for a real place.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Safety first",
+     "mins": 8,
+     "do": "Ask: 'What do workers on a building site wear?' For each, ask why. Helmet with a strap: it protects the head from falling bricks and tools. Bright vest: drivers and crane operators can see the worker. Strong shoes: they protect feet from nails and rods. A harness at a height: it stops a fall. Then ask about our own making this week: 'Why did a grown-up break the diya?' (Sharp edges.) 'Why should we wipe up dry clay dust with a wet cloth and not sweep it?' (Fine dust is bad to breathe.) 'Why must a child never go near a kiln?' (It is hotter than any kitchen fire.)"
+    },
+    {
+     "kind": "game",
+     "title": "Play Brick by Brick",
+     "mins": 14,
+     "do": "Play the game g1 with the family. Each square is something you did this week. Before moving, the player says why the square sends them forward or back.",
+     "ref": "g1"
+    },
+    {
+     "kind": "act",
+     "title": "Design a house for a place",
+     "mins": 18,
+     "do": "Start the project. Your child chooses a place: a flood plain in Assam, the Thar desert, Ladakh, a Kerala village in the monsoon, or your own city. They write the place's problem at the top of a page and draw a house that solves it, with labels for each material and why it was chosen. Then they start building the model from cardboard, clay, newspaper tubes or ice-cream sticks. Ask: 'Which part of your house solves the main problem?'"
+    }
+   ],
+   "need": [
+    "the printed game board, a die and counters",
+    "cardboard, clay, newspaper tubes, ice-cream sticks, tape and glue"
+   ],
+   "prep": [
+    {
+     "task": "Print the Brick by Brick game board",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Test the model, check and teach it back",
+   "goal": "Finish and test the model house, do the harder worksheets, and teach the family what you learned.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Finish and test the model",
+     "mins": 12,
+     "do": "Finish the model house from Day 8. Test it for its place. For a flood house, stand it in a tray and pour in water: does the floor stay dry? For a rainy place, pour a cup of water on the roof: where does the water go? For a hot place, put an ice cube inside and compare with an ice cube in an open box in the sun. Ask: 'What would you change next time?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch and challenge worksheets",
+     "mins": 12,
+     "do": "Do Worksheet ws2 first, then as much of ws3 as time allows. Your child can say the written answers aloud while you write. In the last section of ws3 there is no single right answer: listen for reasons that use what they tested.",
+     "ref": "ws2"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet: finish",
+     "mins": 3,
+     "do": "Finish any items of Worksheet ws3 that were left. Read the 'what if' questions aloud and let your child answer in their own words.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 6,
+     "do": "Ask the check questions aloud, one at a time. Let your child use the diya, the clay pots, the matchbox walls and the paper bridge to show their answers."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 7,
+     "do": "Your child teaches the family for 5 minutes, using the things they made: how a pot is made and why it is baked, why bricks are staggered, why a triangle is strong, and how their model house suits its place. Then ask them: 'Who made our home?' Listen for the hills, the rivers and the workers, as well as the builder."
+    }
+   ],
+   "need": [
+    "the model house",
+    "a tray, a cup of water and an ice cube",
+    "worksheets ws2 and ws3",
+    "everything made this week"
+   ],
+   "prep": []
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Clay, pots and bricks",
+   "day": 4,
+   "sections": [
+    [
+     "A. Clay",
+     [
+      {
+       "t": "mcq",
+       "p": "Riya shakes soil and water in a jar and leaves it. What sinks to the bottom first?",
+       "opts": [
+        "sand",
+        "clay",
+        "water"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Why can wet clay be shaped without breaking?",
+       "opts": [
+        "Its tiny flat grains slide over each other",
+        "It is full of air",
+        "It is warm"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A potter's very hot oven is called a ____.",
+       "a": [
+        "kiln"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Baked clay, like a diya, is called ____.",
+       "a": [
+        "terracotta"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Pots and bricks",
+     [
+      {
+       "t": "match",
+       "p": "Match each step of pot making to why it is done.",
+       "pairs": [
+        [
+         "knead the clay",
+         "to make it smooth and push out air"
+        ],
+        [
+         "dry it in the shade",
+         "so it dries slowly and does not crack"
+        ],
+        [
+         "bake it in a kiln",
+         "so it becomes hard for ever"
+        ],
+        [
+         "shape it on a wheel",
+         "so it comes out round"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort these into changes that can be undone and changes that cannot.",
+       "items": [
+        "wet clay dries hard",
+        "a clay pot is baked in a kiln",
+        "a clay ball is squashed flat",
+        "a brick is baked",
+        "an idli is steamed"
+       ],
+       "cats": [
+        "can be undone",
+        "cannot be undone"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Arjun builds two toy walls. Which one stays together when he pushes it?",
+       "opts": [
+        "the wall with bricks stacked straight up",
+        "the wall with each row shifted by half a brick",
+        "both fall the same way"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "You put a dry clay ball and a piece of a diya in water. What happened to each, and why was it different?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Why must a pot be dry before it goes into the kiln?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Houses, walls and shapes",
+   "day": 9,
+   "sections": [
+    [
+     "A. Houses for places",
+     [
+      {
+       "t": "match",
+       "p": "Match each place to the house that suits it.",
+       "pairs": [
+        [
+         "Assam, where rivers flood",
+         "a bamboo house on stilts"
+        ],
+        [
+         "the Thar desert, very hot",
+         "thick mud or stone walls, small windows"
+        ],
+        [
+         "Kerala, very heavy rain",
+         "a steep tiled roof"
+        ],
+        [
+         "the Arctic, very cold",
+         "an igloo of snow blocks"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Thick mud walls keep a house cool in the day because…",
+       "opts": [
+        "mud lets heat through only slowly",
+        "mud makes cold air",
+        "mud is wet"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A material that lets heat through only slowly is called an ____.",
+       "a": [
+        "insulator"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Strong from shape",
+     [
+      {
+       "t": "mcq",
+       "p": "Meera tapes newspaper tubes into a square and a triangle and pushes the top corner of each. Which keeps its shape?",
+       "opts": [
+        "the square",
+        "the triangle",
+        "both lean over"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A flat sheet of paper between two books holds 1 coin. The same sheet folded into a zig-zag holds…",
+       "opts": [
+        "fewer coins",
+        "the same",
+        "many more coins"
+       ],
+       "a": 2
+      },
+      {
+       "t": "forces",
+       "p": "A brick sits still on top of a wall. Show the forces on the brick.",
+       "obj": "a brick sitting on top of a wall",
+       "options": [
+        "gravity",
+        "wall pushes up",
+        "push",
+        "friction",
+        "air resistance"
+       ],
+       "a": [
+        {
+         "name": "gravity",
+         "dir": "down"
+        },
+        {
+         "name": "wall pushes up",
+         "dir": "up"
+        }
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort these builders by what they build with.",
+       "items": [
+        "a potter wasp",
+        "a baya weaver",
+        "termites",
+        "a brick-maker",
+        "a person making a thatched roof"
+       ],
+       "cats": [
+        "mud or soil",
+        "grass and leaf strips"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Your clay bar shrank as it dried. A brick-maker wants bricks exactly 20 cm long. Should she make her mould longer, shorter or the same? Why?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Your city gets very hot. Name two things a builder could do to keep a flat cool without a fan, and say why each works.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Think like a builder",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "A potter wasp's mud pot is never baked. Where would it last longest?",
+       "opts": [
+        "on an open roof in the rain",
+        "under a sunshade, out of the rain",
+        "in a puddle"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "In the old Indus cities, which bricks would builders use for a drain that carries water?",
+       "opts": [
+        "sun-dried mud bricks",
+        "kiln-baked bricks",
+        "either, it makes no difference"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "The pattern in which bricks are laid in a wall is called the ____.",
+       "a": [
+        "bond"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why does a baya weaver often hang its nest from a thin branch over water?",
+       "opts": [
+        "so snakes find it hard to reach",
+        "so the chicks can drink",
+        "because grass grows there"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. What if?",
+     [
+      {
+       "t": "write",
+       "p": "What if clay did not change when it was baked? Name two things in your home that could not exist.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A cement factory needs huge kilns that burn fuel. A mud house needs none. Why do most people in cities still build with concrete? Give two reasons.",
+       "lines": 3
+      },
+      {
+       "t": "mcq",
+       "p": "A big building has the architect's name on a stone at the door. Who else built it?",
+       "opts": [
+        "nobody else",
+        "masons, labourers, brick-makers and engineers",
+        "only machines"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Your view",
+     [
+      {
+       "t": "write",
+       "p": "Is a baya weaver's nest a kind of house, as much as a human house is? Give your reasons.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "If you could build your family's next home, would you choose mud or concrete? Say what is good and bad about your choice.",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The settling jar",
+   "day": 1,
+   "question": "What is soil made of, and how can we find the clay in it?",
+   "need": [
+    "a clear glass jar or plastic bottle with a lid",
+    "3 big spoons of soil from a plant pot or tree bed (not cocopeat)",
+    "water"
+   ],
+   "steps": [
+    "Put 3 big spoons of soil in the jar.",
+    "Fill the jar two-thirds with water and close the lid tightly.",
+    "Shake hard for one minute.",
+    "Put it down where nobody will move it, and watch for 2 minutes.",
+    "Look again the next day and draw the layers."
+   ],
+   "predict": "Ask your child to guess first: 'If we leave it still, what will happen to the soil? Will it all sink at the same speed?'",
+   "observe": "In a minute, gritty sand is at the bottom. Over some hours a finer layer of silt settles on it, then a thin, smooth layer of clay. The water above can stay cloudy for a day or more.",
+   "why": "Soil is a mix of grains of different sizes. Big, heavy sand grains sink fast. Silt grains are smaller and sink more slowly. Clay grains are so tiny you cannot see one, so they sink slowest of all, and some stay floating. Potters clean clay the same way: they mix soil with water, let the sand sink, and take the fine clay from the top.",
+   "safety": "Wash hands after touching soil. Keep the jar where it will not fall.",
+   "time": "5 min + look again the next day"
+  },
+  {
+   "id": "e2",
+   "title": "Does clay shrink as it dries?",
+   "day": 2,
+   "question": "Does a clay bar stay the same length as it dries?",
+   "need": [
+    "a lump of potter's clay",
+    "a ruler",
+    "2 toothpicks",
+    "a plate"
+   ],
+   "steps": [
+    "Roll a bar of clay about 12 cm long and as thick as a finger.",
+    "Press two toothpick marks into it exactly 10 cm apart.",
+    "Leave it on a plate in the shade.",
+    "Measure the gap between the marks after 1 day and after 3 days.",
+    "Write each length in millimetres."
+   ],
+   "predict": "Ask: 'Will the marks still be 10 cm apart when the clay is dry? Why do you think so?'",
+   "observe": "The gap gets a few millimetres shorter. Potter's clay often shrinks by about 4 to 8 millimetres in 10 cm. A bar dried in strong sun may crack.",
+   "why": "Wet clay has water between its tiny flat grains. As the water evaporates, the grains move closer together, so the whole bar gets smaller. If one side dries faster than the other, that side shrinks first and the clay cracks. This is why potters dry pots slowly in the shade, and why brick moulds are a little bigger than the bricks they make.",
+   "safety": "",
+   "time": "5 min + measuring after 1 and 3 days"
+  },
+  {
+   "id": "e3",
+   "title": "Mud or terracotta: what does water do?",
+   "day": 3,
+   "question": "Do dried clay and baked clay behave the same in water?",
+   "need": [
+    "a lump of clay dried hard (or a hard dry clod of soil)",
+    "a piece of an old diya or kulhad",
+    "2 glasses of water",
+    "a spoon"
+   ],
+   "steps": [
+    "A grown-up breaks a chipped diya, wrapped in a cloth, to get a piece.",
+    "Put the dry clay lump in one glass of water.",
+    "Put the piece of diya in the other glass.",
+    "Wait 10 minutes. Stir each glass once in the middle.",
+    "Take both out and press them with a finger."
+   ],
+   "predict": "Ask: 'What will happen to each one in the water? Why do you think so?'",
+   "observe": "The dried clay goes soft, crumbles at the edges and clouds the water. It turns back into mud. The diya stays hard and whole.",
+   "why": "Dried clay is only clay with the water gone, so water can get back between its grains and loosen them. In a kiln, clay is heated hotter than about 600 degrees Celsius. That heat drives out water that was locked inside the grains themselves and makes the grains join. After that, water cannot loosen them. This is an irreversible change. Baked clay still has tiny holes, which is why a matka lets a little water seep through.",
+   "safety": "Only a grown-up breaks the diya, inside a cloth. Edges can be sharp.",
+   "time": "15 min"
+  },
+  {
+   "id": "e4",
+   "title": "Stacked wall or staggered wall?",
+   "day": 4,
+   "question": "Which way of laying bricks makes a stronger wall?",
+   "need": [
+    "20 empty matchboxes or same-size toy blocks",
+    "a flat table"
+   ],
+   "steps": [
+    "Wall A: build 4 columns of bricks, 5 bricks high, each brick right on top of the one below.",
+    "Wall B: lay a row of 4 bricks. In the next row, shift every brick by half a brick, so it sits across the join below. Build 5 rows.",
+    "Push the top middle of each wall gently with one finger.",
+    "Push a little harder each time, and watch how each wall falls.",
+    "Build and push each wall 3 times, because one try can be a fluke."
+   ],
+   "predict": "Ask: 'Which wall will fall more easily? How will it fall?'",
+   "observe": "Wall A usually splits along its straight joins, and the pushed column topples alone. Wall B holds together longer and moves as one piece.",
+   "why": "In Wall A the straight joins run from top to bottom, so each column stands alone. In Wall B every brick rests on two bricks below, so a push on one brick is passed to its neighbours and shared by many bricks. This pattern is called a bond. Real builders also use mortar, which glues the bricks so the whole wall acts as one.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e5",
+   "title": "Can earth walls keep ice?",
+   "day": 5,
+   "question": "Does a thick wall of earth slow down heat getting in?",
+   "need": [
+    "2 steel tumblers of the same size",
+    "2 ice cubes of the same size",
+    "a bigger bowl or pot",
+    "enough damp soil to pack round one tumbler",
+    "2 pieces of card"
+   ],
+   "steps": [
+    "Put one ice cube in each tumbler.",
+    "Leave one tumbler bare.",
+    "Stand the other in the bowl and pack damp soil all round it, about 3 cm thick, up to the rim.",
+    "Cover both tumblers with card.",
+    "Put them side by side in the sun.",
+    "Look under the card every 10 minutes and write what is left of each ice cube."
+   ],
+   "predict": "Ask: 'Which ice cube will last longer? Why?'",
+   "observe": "The bare tumbler's ice melts first. In strong sun this can take only 20 to 40 minutes. The ice in the soil-wrapped tumbler lasts clearly longer. On a cloudy day it is slower, so check for up to an hour.",
+   "why": "Steel lets heat through quickly, so the sun's heat reaches the ice fast. Thick earth lets heat through only slowly, so it is an insulator. A thick layer of earth also takes a long time to warm up. This is why houses with thick mud or stone walls stay cool inside during a hot day.",
+   "safety": "",
+   "time": "10 min to set up + 30 to 60 min of checking"
+  },
+  {
+   "id": "e6",
+   "title": "Square or triangle?",
+   "day": 7,
+   "question": "Which shape keeps its shape when you push it: a square or a triangle?",
+   "need": [
+    "7 sheets of newspaper",
+    "cello tape",
+    "a pencil"
+   ],
+   "steps": [
+    "Roll each sheet tightly from one corner round a pencil, slide the pencil out, and tape the tube.",
+    "Tape 4 tubes into a square, one piece of tape at each corner.",
+    "Tape 3 tubes into a triangle in the same way.",
+    "Stand each shape up on the table.",
+    "Push the top corner of each sideways with one finger."
+   ],
+   "predict": "Ask: 'Which shape will lean over when you push it? Why do you think so?'",
+   "observe": "The square leans over into a diamond shape and may fold flat. The triangle keeps its shape.",
+   "why": "The corners can turn, because tape bends. A square can change its shape without any side getting longer or shorter. A triangle cannot: to change its shape, one side would have to stretch or squash. That is why roof frames, bridges, electricity towers and cycle frames are built from triangles. Adding one tube across the square, corner to corner, makes two triangles and stops it leaning.",
+   "safety": "",
+   "time": "12 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Pinch pot and coil pot",
+   "day": 2,
+   "mins": 20,
+   "need": [
+    "potter's clay, about two lemons' worth",
+    "a little water in a bowl",
+    "newspaper to work on"
+   ],
+   "steps": [
+    "Knead the clay for 2 minutes: press, fold and press again, to make it smooth and push out air bubbles.",
+    "Pinch pot: roll a ball the size of a lemon. Push your thumb into the middle. Pinch the wall between thumb and fingers as you turn it, until the wall is as thick as a pencil.",
+    "Coil pot: press a flat round base. Roll snakes of clay as thick as a pencil. Lay them round the edge of the base, one on top of another.",
+    "Smooth the inside of the coils with a wet finger so they join.",
+    "Leave both pots to dry slowly in the shade, away from the fan."
+   ],
+   "outcome": "Two small hand-made pots, made in two of the oldest ways people have made pots."
+  },
+  {
+   "id": "a2",
+   "title": "Weave a paper mat",
+   "day": 6,
+   "mins": 16,
+   "need": [
+    "2 sheets of coloured paper or old magazine pages",
+    "scissors",
+    "glue or tape",
+    "a ruler and pencil"
+   ],
+   "steps": [
+    "Fold sheet 1 in half. From the fold, cut straight lines 2 cm apart, stopping 2 cm from the edge. Open it out.",
+    "Cut sheet 2 into strips 2 cm wide.",
+    "Push the first strip over, under, over, under across the cuts.",
+    "Push the second strip under, over, under, over, so it is the opposite of the first.",
+    "Push each row tight against the last one. Tape the ends."
+   ],
+   "outcome": "A woven mat, and the idea that strips crossing over and under hold each other, which is how cloth is made."
+  },
+  {
+   "id": "a3",
+   "title": "The paper bridge",
+   "day": 7,
+   "mins": 12,
+   "need": [
+    "4 sheets of A4 paper",
+    "2 books of the same height",
+    "about 20 one-rupee coins",
+    "a ruler"
+   ],
+   "steps": [
+    "Put the two books 15 cm apart.",
+    "Lay a flat sheet across the gap. Add coins one at a time to the middle until the paper touches the table. Count them.",
+    "Fold a new sheet into a zig-zag like a hand fan, with folds about 2 cm apart. Lay it across and count the coins again.",
+    "Try your own design with the last two sheets, such as folding up the two long edges.",
+    "Write each design and how many coins it held."
+   ],
+   "outcome": "A table of bridge designs and coins, showing that the same paper holds many more coins when it is folded."
+  }
+ ],
+ "project": {
+  "title": "A house for a real place",
+  "days": [
+   8,
+   9
+  ],
+  "steps": [
+   "Choose a place: a flood plain in Assam, the Thar desert, Ladakh, a Kerala village in the monsoon, or your own city.",
+   "Write the place's biggest problem at the top of a page: floods, heat, heavy rain or cold.",
+   "Draw a house that solves it. Label each material and write why you chose it.",
+   "Build a model from cardboard, clay, newspaper tubes or ice-cream sticks. Use at least one triangle somewhere to make it strong.",
+   "Test it for its problem: water in a tray for a flood, a cup of water on the roof for rain, an ice cube inside for heat.",
+   "Write one thing that worked and one thing you would change."
+  ],
+  "outcome": "A model house built and tested for a real place, with a labelled drawing that explains each choice."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Brick by Brick",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "one counter per player (a button, bead or seed)"
+  ],
+  "rules": [
+   "Everyone starts at START: a heap of soil by the river.",
+   "Take turns to roll the die and move your counter.",
+   "Read the square aloud and do what it says. Before you move, say why. For example: 'Back 2, because a wet pot cracks in the kiln.'",
+   "The first player to reach HOME wins.",
+   "Playing alone? Play against the die: roll for a pretend second player and try to reach HOME first."
+  ],
+  "squares": [
+   "START: a heap of soil by the river",
+   "You let the sand settle and take the fine clay: forward 2",
+   "You forgot to knead the clay, and it is full of air: back 1",
+   "Your clay is too wet and flops: miss a turn",
+   "You shape a pot on the wheel: forward 1",
+   "You dry the pot in the hot sun and it cracks: back 2",
+   "You dry it slowly in the shade: forward 2",
+   "You put a wet pot in the kiln and it bursts: back 3",
+   "The kiln bakes your pot hard for ever: forward 3",
+   "You press clay into a brick mould: forward 1",
+   "You stack bricks straight up and the wall splits: back 2",
+   "You stagger the bricks and add mortar: forward 3",
+   "A potter wasp seals her mud pot: rest here one turn",
+   "You build on stilts above the flood: forward 2",
+   "You build thin walls in the desert and it is too hot: back 2",
+   "Thick mud walls keep the house cool: forward 2",
+   "You add a triangle to the roof frame: forward 2",
+   "A male baya weaver finishes his nest, and a female chooses it: forward 1",
+   "You forget your helmet on the site: back 3",
+   "You thank the masons and brick-makers: forward 2",
+   "HOME: your house is built"
+  ]
+ },
+ "big": [
+  "Who made our home: the builder, the workers, the hills and rivers it came from, or all of them?",
+  "Is a baya nest or a termite mound a kind of home, as much as a house is?",
+  "If a mud house melts back into the earth one day, is that a weakness or a good thing?",
+  "Why do we call a concrete house 'pucca' and a mud house 'kutcha'? Is one really better?",
+  "When we dig sand from a river to build a city, who loses something, and who gains?"
+ ],
+ "challenge": [
+  {
+   "q": "Many people say 'Mud houses are weak, only concrete is strong.'",
+   "hint": "Mud houses need repairs after heavy rain and can be damaged in floods. But well-built earth buildings can stand for hundreds of years: many old mud-brick homes in Ladakh, and parts of the Great Wall of China built of rammed earth, are hundreds of years old. Concrete is very strong, but it can crack, and the steel inside can rust. Ask: what makes any building last, the material or how well it is built and cared for?"
+  },
+  {
+   "q": "'Shah Jahan built the Taj Mahal.'",
+   "hint": "Shah Jahan ordered it and paid for it. Thousands of masons, stone-carvers, inlay workers, brick-makers and labourers built it over many years. Many historians think the chief architect was Ustad Ahmad Lahori. Most of the workers' names were never written down. Ask: when we say someone 'built' something, whom do we leave out?"
+  },
+  {
+   "q": "'Animals build by instinct. Only people really design things.'",
+   "hint": "Scientists still argue about this. A baya weaver is born able to weave, but young males often build untidy nests at first and get better with practice. A male may also pull down a nest that no female chooses and build again. Ask: what would you need to see to decide whether a bird is designing?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A potter (kumhar)",
+   "view": "A potter knows clay by touch: when it is too wet, too dry, or just right. Many potters learned from their parents, who learned from theirs. Ask: what can you learn by watching and doing that is hard to learn from a book?"
+  },
+  {
+   "who": "A woman carrying bricks on a building site",
+   "view": "On many Indian building sites, women carry bricks and cement on their heads, up ladders, all day. Their names are not on the building. Ask: who should get the credit for a building?"
+  },
+  {
+   "who": "A river where sand is dug",
+   "view": "Much of the sand in our concrete is dug from riverbeds. When too much is taken, banks fall in, the water gets muddy, and fish and turtles lose the places where they lay eggs. If the river could speak, what would it say about our new flats?"
+  },
+  {
+   "who": "A potter wasp on your balcony wall",
+   "view": "She built her mud pot there because your wall was dry and sheltered, just right for her egg. Ask: should we leave her pot alone? Whose wall is it?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "The brick-makers of the Indus (Harappan) cities, about 4,500 years ago, India and Pakistan",
+   "idea": "In cities such as Harappa and Mohenjo-daro (now in Pakistan) and Lothal and Kalibangan (now in India), builders used millions of bricks, some dried in the sun and some baked in kilns. Many of their bricks have the same proportions, about 1 to 2 to 4 for thickness, width and length, even in cities hundreds of kilometres apart. They used baked bricks where water would reach, such as drains, wells and the Great Bath of Mohenjo-daro.",
+   "then": "These cities were forgotten for thousands of years. When archaeologists dug them up in the 1920s, they were amazed by the planned streets, the covered drains and the matching bricks.",
+   "now": "Archaeologists agree that Harappan builders used standard brick shapes across a huge area. Nobody knows how they agreed on them, because nobody can yet read the Harappan writing.",
+   "status": "accepted",
+   "ask": "Bricks in towns far apart had the same shape. What would people need to share, so that this could happen?",
+   "day": 4
+  },
+  {
+   "id": "v2",
+   "who": "Salim Ali (1896–1987), bird scientist, India",
+   "idea": "Salim Ali was one of the first scientists to study Indian birds by watching them alive, for long hours, instead of only collecting dead ones. In 1931 he published a careful study of how baya weavers nest. He described the males weaving nests and the females visiting half-built nests and choosing among them.",
+   "then": "At the time, most bird study in India meant shooting birds and describing their bodies. Patient watching of how birds behave was rare.",
+   "now": "Later studies agree that male bayas build and females choose. Why bayas press small lumps of mud inside their nests is still not settled.",
+   "status": "accepted",
+   "ask": "Salim Ali learned by watching the same birds again and again. What could you find out about the crows or pigeons near your home just by watching every day for a week?",
+   "day": 6
+  },
+  {
+   "id": "v3",
+   "who": "Laurie Baker (1917–2007), architect, born in England, lived and built in Kerala, India",
+   "idea": "Laurie Baker came to India in the 1940s and spent most of his life building in Kerala. He built strong, cool, low-cost homes from local brick, stone, lime and tiles, using less cement. He often used the rat-trap bond, in which bricks stand on their edges with hollow spaces inside the wall. This uses fewer bricks and less mortar, and the air inside the wall slows the heat.",
+   "then": "Many builders and officials thought his bare brick walls looked unfinished, and that houses built with fewer bricks and less cement must be weak or only for poor people.",
+   "now": "His buildings have stood for decades, and many architects in India now study and copy his ideas. He became an Indian citizen and received the Padma Shri in 1990.",
+   "status": "accepted",
+   "ask": "Laurie Baker built strong houses with less. Can you think of something at home that does its job well with less material?",
+   "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "Today's debate: earth buildings or concrete? (for example, the Auroville Earth Institute in Tamil Nadu, and engineers who prefer concrete)",
+   "idea": "Some architects in India argue we should build far more with earth, such as rammed earth and blocks of earth pressed in a machine with a little cement or lime. They say earth is found nearby, keeps homes cool, and needs no huge kilns. Making cement gives off a large amount of carbon dioxide, about 8 out of every 100 parts of the carbon dioxide that people add to the air each year.",
+   "then": "In the last 60 years, concrete became the sign of a modern 'pucca' house in India. Banks, families and building rules often trust it more than earth.",
+   "now": "Engineers agree that earth walls are cooler and make far less carbon dioxide. They also agree that concrete is easier to build tall with, and stands up better to floods. People still disagree about how much we should use each.",
+   "status": "debated",
+   "ask": "If you were building a school in a hot town, what would you want to know before choosing earth or concrete?",
+   "day": 7
+  }
+ ],
+ "story": {
+  "title": "The Bull That Did Not Melt",
+  "text": [
+   "My name is Asha, or that is what you may call me. You could not say my real name, because the words of my city were forgotten long ago. I live by a great river, in a city of brick, about four and a half thousand years before you were born. You call my city Mohenjo-daro.",
+   "Every morning my father goes down to the riverbank with two baskets. He fills them with the smooth grey mud that the river leaves behind when the water falls. He carries it to our yard, mixes it with water and treads it with his bare feet until it is soft all through. Then he presses it into a wooden mould, flat on the ground, and lifts the mould away. There is a brick, wet and shining. He does it again, and again, until the yard is full of wet bricks in rows, like a field of flat grey seeds.",
+   "'Every brick the same,' he says. 'This long, this wide, this thick. The same as the bricks in the cities up the river. A brick should fit any wall.'",
+   "The sun dries them in a few days. They turn pale and hard, and ring a little when you tap them together. Father sells them to the builders. They are good bricks, and they cost nothing but mud, water, feet and sun.",
+   "Across the lane lives my aunt Rupi, who is not really my aunt. She bakes bricks. Her kiln is a big round oven built of old bricks, and when it burns, the smoke stings my eyes from our yard. She stacks her dried bricks inside with wood between them, and feeds the fire for a day and a night. When the bricks come out they are red, and they are heavier to lift, and they sound different when you knock them.",
+   "Father shakes his head at her kiln. 'All that wood,' he says. 'All that work. The sun does the same job for nothing.'",
+   "I wanted a bull. Not a real one, a small one, to pull a little cart. So I took a handful of Father's mud and made two. I gave them horns and humps, and I pressed in eyes with a stick. One I left to dry in the sun on our wall. The other I gave to Aunt Rupi, and asked if it could go in her kiln, and she laughed and pushed it in among her bricks.",
+   "Mine from the wall was pale and smooth. The one from the kiln came back red, a little smaller, with a black smudge on one side where the fire had kissed it. I liked the pale one better. It looked like it had come from the river.",
+   "That summer the river grew. It always grows in summer, when the snow melts in the far mountains and the rains come. But that year it kept growing. It filled the low fields. It came up the lanes at the bottom of the city, slowly, brown and quiet, carrying sticks and a drowned goat. Our house stands on a high platform of bricks, and we watched from the roof as the water rose up the street, and touched the walls, and stayed.",
+   "It stayed for six days. Then, as slowly as it came, it went away.",
+   "When we came down, the lane smelled of wet earth. Father went straight to the wall at the bottom of our yard. It was the wall he had built himself, from his own sun-dried bricks. The lowest rows had gone soft. They had slumped and spread like porridge, and the wall above them leaned and cracked. Father put his hand on it, and a piece came away in his palm, just mud again, the same mud he had carried from the river.",
+   "My pale bull was gone from the top of the wall. I looked for it everywhere. At last I found a soft grey lump in the corner of the yard, with one horn still sticking out of it.",
+   "Then I remembered the other bull. I had left it by Aunt Rupi's door. I ran across the lane. The water had been there too. Mud lay over everything, and in the mud, on its side, was a small red bull with a black smudge. I picked it up and washed it in a pot of water. It was hard. Every horn and every eye was still there.",
+   "Aunt Rupi's house had red baked bricks in its lowest rows, below the sun-dried ones. Those rows stood straight. The drain in the lane, which the city builders had made of baked bricks too, was full of mud but whole.",
+   "I took both bulls to Father, the lump and the red one. I put them side by side on his palm.",
+   "'They were the same mud,' I said. 'Your mud.'",
+   "He looked at them for a long time. He turned the red bull over and tapped it with his nail, and it made that small hard sound.",
+   "'The same mud,' he said. 'Once.'",
+   "The next week Father carried a basket of his dried bricks across the lane to Aunt Rupi's kiln, and came back with his eyes red from the smoke. When he built the new wall, he laid the baked bricks at the bottom, where the water reaches, and his own pale bricks on top, where only the sun and the wind can touch them.",
+   "I keep the red bull on the shelf by my bed. Sometimes I put it in a bowl of water, just to watch it stay."
+  ],
+  "epiphany": "For the parent: this is an imagined story set in a real place, Mohenjo-daro, where builders did use both sun-dried and kiln-baked bricks, and used baked ones where water reached. The turn is the flood: the sun-dried bricks and the sun-dried bull turn back to mud, but the baked bull and baked bricks do not. Fire changed the clay for ever. Asha's father's words 'Once' say it: they were the same mud, but baking was an irreversible change. Let your child find this out with the diya test on Day 3 before you name it.",
+  "ask": [
+   "Both bulls were made from the same mud. Why did one melt and one did not?",
+   "Why did Asha's father think the kiln was a waste at first? Was he wrong about everything?",
+   "Why did he put the baked bricks at the bottom of the new wall, and his own bricks on top?",
+   "What did the baked bricks cost that the sun-dried bricks did not?",
+   "Why do you think Asha puts the red bull in water just to watch it?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Every made thing was once part of nature.",
+   "more": "Our walls were once limestone hills, riverbeds and soil. Making something changes a raw material's shape, as when we mould a brick, or changes what it is, as when a kiln bakes clay. Use the 'Our home came from' list from Day 1."
+  },
+  {
+   "idea": "Fire changes clay for ever.",
+   "more": "Dried clay is only clay without water, so water turns it back into mud. Baked clay has been changed by the heat, and water cannot undo it. The diya in the glass of water shows it in ten minutes."
+  },
+  {
+   "idea": "Strength comes from arrangement and shape, not only from the material.",
+   "more": "The same matchboxes made a weak wall and a strong one. The same paper sagged flat and held coins when folded. The same newspaper tubes leaned as a square and stood firm as a triangle."
+  },
+  {
+   "idea": "People are not the only builders.",
+   "more": "The potter wasp, the baya weaver and termites each build to solve a problem in their own lives: keeping a baby safe, keeping chicks out of reach, keeping a fungus garden fresh. They use materials found nearby, as most people did until very recently."
+  }
+ ],
+ "unknowns": [
+  "Nobody knows how the Harappan cities agreed on the same brick shapes across hundreds of kilometres, because nobody can yet read the Harappan writing.",
+  "Scientists still argue about how much of a baya weaver's skill is born in it and how much it learns by practice. Nobody is sure why bayas press lumps of mud inside their nests.",
+  "Engineers are still looking for a way to make cement, or something as strong and cheap, without giving off so much carbon dioxide. Nobody has found one that works everywhere yet."
+ ],
+ "books": [
+  {
+   "title": "Iggy Peck, Architect",
+   "author": "Andrea Beaty (illustrated by David Roberts)",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A boy who builds towers from anything he finds, and a class who build a bridge from whatever they have. Pairs with the paper bridge and the model house."
+  },
+  {
+   "title": "Building Our House",
+   "author": "Jonathan Bean",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A true story of the author's family building their own house over a year and a half, step by step, from the ground up."
+  },
+  {
+   "title": "Dreaming Up: A Celebration of Building",
+   "author": "Christy Hale",
+   "for": "read together",
+   "age": "4–8",
+   "why": "Children's block towers and sand castles shown side by side with real buildings from around the world that use the same ideas."
+  },
+  {
+   "title": "Laurie Baker: Life, Works and Writings",
+   "author": "Gautam Bhatia",
+   "for": "parent reads",
+   "age": "adult; show your child the photos",
+   "why": "Photos and drawings of Laurie Baker's brick houses in Kerala, including jaali walls and rat-trap bond."
+  }
+ ],
+ "check": [
+  {
+   "q": "Where did the walls of our home come from, before they were walls?",
+   "a": "From nature: cement from limestone rock and clay, sand from rivers, stones from hills, steel from iron ore, and bricks from soil."
+  },
+  {
+   "q": "Say the steps of making a clay pot, in order.",
+   "a": "Dig and clean the clay, soak it, knead it, shape it, dry it slowly in the shade, bake it in a kiln, then decorate it."
+  },
+  {
+   "q": "Why does a dry clay ball turn to mud in water, but a diya does not?",
+   "a": "Water gets back between the grains of dried clay. In the kiln, heat changed the clay's grains and joined them, so water cannot loosen them. Baking is an irreversible change."
+  },
+  {
+   "q": "Why must a pot be dry before it is baked?",
+   "a": "Water left inside turns to steam in the fire and can crack or burst the pot."
+  },
+  {
+   "q": "Why do builders stagger bricks instead of stacking them straight up?",
+   "a": "Each brick sits across two bricks below, so a push is shared by many bricks and the wall holds together. The pattern is called a bond."
+  },
+  {
+   "q": "Why are many houses in Assam built on stilts, and why do desert houses have thick walls?",
+   "a": "Stilts keep the floor above floodwater. Thick mud or stone walls let heat through slowly, so the house stays cool in the day."
+  },
+  {
+   "q": "Why does a triangle of newspaper tubes keep its shape when a square leans over?",
+   "a": "A triangle cannot change its shape unless one side changes length. A square can lean without any side changing."
+  },
+  {
+   "q": "Name two safety rules for builders and why each matters.",
+   "a": "For example: wear a helmet, because bricks and tools can fall from above. Wear strong shoes, because of nails and rods on the ground."
+  }
+ ]
+}

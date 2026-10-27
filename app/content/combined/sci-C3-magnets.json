@@ -1,0 +1,1372 @@
+{
+ "key": "combined|sci|3|magnets",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "magnets",
+ "title": "Magnets: what they attract, and how they act without touching",
+ "source": "DeepKids Combined. Covers Cambridge Stage 3 Unit 5.5 'Magnetic materials' (magnetic and non-magnetic materials, testing which materials are magnetic, uses of magnets), and goes further into poles, the magnetic field and the Earth as a magnet. No textbook needed.",
+ "summary": "A magnet sticks to a steel spoon but often slides off a steel tumbler, and it ignores brass, copper and aluminium completely. Your child tests things at home to find which materials a magnet attracts, pulls black magnetite grains out of soil, and shows that a magnet's force acts through paper, a hand and water. They feel two magnets repel, see the shape of a magnetic field, and make a needle compass that points north because the whole Earth is a magnet.",
+ "builds_on": "In Class 1 and Class 2 your child held a magnet against things to see what it picked up. This rung finds the pattern (only some metals are magnetic), and goes on to poles, the magnetic field, and the Earth as a magnet. In Class 5 your child comes back to magnets to study magnetic force more closely and to compare magnets with fair tests.",
+ "goals": [
+  "By the end your child can name the magnetic materials (iron, most steel, nickel and cobalt) and say that most metals, such as brass, copper and aluminium, are not magnetic.",
+  "By the end your child can show that a magnet's force acts across a gap and through paper, cloth, a hand and water, and gets weaker with distance.",
+  "By the end your child can find the poles of a magnet and say that different poles attract and the same poles repel.",
+  "By the end your child can make a picture of a magnetic field and explain that a magnet acts through its field.",
+  "By the end your child can make a needle compass and explain that it points north because the Earth is a magnet.",
+  "By the end your child can name uses of magnets at home and in recycling."
+ ],
+ "words": [
+  [
+   "magnet",
+   "an object that attracts iron and steel without touching them"
+  ],
+  [
+   "attract",
+   "to draw something closer. A magnet attracts a pin, and the pin moves to it."
+  ],
+  [
+   "repel",
+   "to push something away. Two north poles repel each other."
+  ],
+  [
+   "magnetic material",
+   "a material a magnet attracts: iron, most steel, nickel and cobalt"
+  ],
+  [
+   "non-magnetic",
+   "not attracted by a magnet, such as wood, plastic, brass, copper and aluminium"
+  ],
+  [
+   "pole",
+   "one of the two ends of a magnet, the north pole and the south pole, where its force is strongest"
+  ],
+  [
+   "magnetic force",
+   "the push or pull of a magnet on a magnetic material or on another magnet. It acts without touching."
+  ],
+  [
+   "magnetic field",
+   "the space around a magnet where its force acts"
+  ],
+  [
+   "compass",
+   "a magnet that is free to turn, which points north and south"
+  ],
+  [
+   "lodestone",
+   "a natural magnet: a stone made of the mineral magnetite"
+  ],
+  [
+   "magnetite",
+   "a black mineral made of iron and oxygen, which a magnet attracts"
+  ]
+ ],
+ "subconcepts": [
+  "magnetic materials: iron, most steel, nickel and cobalt",
+  "most metals are not magnetic: brass, copper, aluminium, gold, silver",
+  "not all steel is magnetic: the steel tumbler and the steel spoon",
+  "a magnet test shows iron, but cannot name a metal",
+  "magnetite and lodestones: magnets found in nature",
+  "magnetic force acts without touching",
+  "magnetic force passes through paper, cloth, a hand and water",
+  "magnetic force gets weaker with distance",
+  "poles: different poles attract, the same poles repel",
+  "a magnet makes iron near it into a magnet for a while",
+  "the magnetic field and field lines",
+  "the Earth is a magnet, and a compass points north",
+  "animals that sense the Earth's magnetic field",
+  "uses of magnets: recycling, door catches, compasses"
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "What does a magnet attract?",
+   "goal": "Hear the story, then test things at home to find which ones a magnet attracts.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the magnet test",
+     "mins": 5,
+     "do": "Say: 'In Class 1 and Class 2 you held a magnet against things to see what it picked up. What did it pick up?' Good answers: 'Pins, nails, clips.' Ask: 'Did it pick up every metal thing?' Let your child answer from memory. Don't correct them yet. Say: 'This week we find out what magnets do, how far their force reaches, and why a compass points north.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Key in the Drain",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Ask one question: 'Why do you think the magnet kept coming up empty?' Write down your child's answer on a page called 'Magnet notebook'. You will check it with real tests this week."
+    },
+    {
+     "kind": "exp",
+     "title": "The magnet hunt",
+     "mins": 18,
+     "do": "Do Experiment e1. First your child puts each object on the STICK or SKIP sheet as a guess and says why. Then test each object twice. Ask: 'Which ones surprised you?' Many children are surprised by the brass, the foil and the steel tumbler. Say: 'When a magnet draws something closer, we say it attracts it.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Find the pattern",
+     "mins": 5,
+     "do": "Look at the STICK sheet together. Ask: 'What are all the STICK things made of?' Good answer: 'Iron or steel.' Ask: 'Was every metal on STICK?' (No: brass, copper and aluminium were on SKIP.) Say: 'Iron, most steel, nickel and cobalt are called magnetic materials. Most metals are not magnetic.' Your child writes this in the magnet notebook."
+    }
+   ],
+   "need": [
+    "a fridge magnet",
+    "the objects for the magnet hunt (see Experiment e1)",
+    "two sheets of paper marked STICK and SKIP",
+    "a notebook for the magnet notebook"
+   ],
+   "prep": [
+    {
+     "task": "Collect the 16 objects for the magnet hunt in a bag",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Not every metal, not every steel",
+   "goal": "Find out why some steel does not stick, sort a heap like a kabadiwala, and find magnetite hiding in soil.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The lota and the lid",
+     "mins": 3,
+     "do": "Ask: 'In the story, why did Salim chacha's magnet stick to the cooker lid and not the lota?' Good answer: 'The lid was steel, which is magnetic. The lota was brass, which is not.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Two kinds of steel",
+     "mins": 8,
+     "do": "Hold the magnet to a steel spoon and a steel tumbler again. Say: 'Steel is iron with a little carbon mixed in. Stainless steel also has chromium mixed in, so it does not rust. Some kinds also have nickel. Mixed in the right amounts, the nickel changes how the iron atoms are packed, and then a magnet does not attract it.' Ask: 'So can a magnet tell you if something is steel?' Good answer: 'If it sticks, it has iron in it. If it doesn't, it might still be steel.'"
+    },
+    {
+     "kind": "act",
+     "title": "The kabadiwala's tray",
+     "mins": 12,
+     "do": "Do Activity a1. Your child pulls all the magnetic things out of the heap with the magnet. Ask: 'What is left? How would you sort the foil from the plastic?' (By hand, or by weight.) Say: 'Scrap yards use huge magnets on cranes to lift out iron and steel. Kabadiwalas use small ones, like Salim chacha.'",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "Black sand",
+     "mins": 12,
+     "do": "Do Experiment e2 with the soil from a potted plant, and with building sand if you have some. Ask first: 'Will anything in the soil stick?' After the test, say: 'These black grains are magnetite, a mineral of iron and oxygen. Natural magnet stones, called lodestones, are made of it.' Keep the grains for Day 5.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "The stone that kisses iron",
+     "mins": 5,
+     "do": "Say: 'Long ago, people found lodestones that attracted iron. In Sanskrit a magnet is called chumbaka, from a word meaning to kiss. In Hindi we still say chumbak.' Ask: 'Why do you think people gave it that name?' Good answer: 'Because iron jumps to touch it.'"
+    }
+   ],
+   "need": [
+    "a fridge magnet and the strongest magnet you have",
+    "a steel spoon and a steel tumbler",
+    "the things for the kabadiwala's tray (Activity a1)",
+    "the things for the black sand test (Experiment e2)"
+   ],
+   "prep": [
+    {
+     "task": "Dry half a cup of soil from a potted plant in the sun or on a plate under the fan. If you can, get half a cup of sand from a building site too.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Across a gap and through things",
+   "goal": "Test whether a magnet's force acts through other materials, and measure how far it reaches.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Was Baba right?",
+     "mins": 3,
+     "do": "Say: 'In the story, Baba thought the water in the drain stopped the magnet. Today we test it.' Ask: 'What do you think? Why?' Write the guess in the magnet notebook."
+    },
+    {
+     "kind": "exp",
+     "title": "Through paper, cloth, hand and water",
+     "mins": 17,
+     "do": "Do Experiment e3. Ask before each material: 'Will it still work?' Then do the stack of paper with both magnets. Ask: 'Was Baba right about the water?' (No: the magnet moved the clip through the glass and the water.) Ask: 'So what stopped the magnet in the paper stack?' Good answer: 'The clip was too far away.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "exp",
+     "title": "How far can it reach?",
+     "mins": 12,
+     "do": "Do Experiment e4. Write the three gaps for each magnet in a table. Ask: 'Which magnet reached further? How many times further?' If the bar magnet reached 20 mm and the fridge magnet 4 mm, that is 5 times further. Ask: 'Why are the three tries a little different?' (A shaky hand or a bump can change one try. That is why we test more than once.)",
+     "ref": "e4"
+    },
+    {
+     "kind": "think",
+     "title": "Force without touching",
+     "mins": 8,
+     "do": "Say: 'A force is a push or a pull. Most pushes need touching, like kicking a ball. A magnet's force acts across a gap, without touching.' Ask: 'What else acts on things without touching them?' Good answers: 'The Earth pulls a falling ball down. A rubbed balloon can lift hair.' Ask: 'The magnet never touched the clip. So how did it move it?' Let your child guess. Say: 'We will see the answer on Day 5.'"
+    }
+   ],
+   "need": [
+    "a fridge magnet and a bar magnet",
+    "2 steel paper clips",
+    "about 30 sheets of an old notebook",
+    "a cotton cloth, cardboard and a plastic plate",
+    "a glass of water",
+    "a 30 cm ruler"
+   ],
+   "prep": []
+  },
+  {
+   "n": 4,
+   "title": "Two poles: attract and repel",
+   "goal": "Find a magnet's poles, feel two magnets repel, and see a magnet turn clips into magnets.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'Name two things a magnet attracts and two it does not.' Ask: 'Does a magnet's force work through water?' (Yes.)"
+    },
+    {
+     "kind": "exp",
+     "title": "Attract and repel",
+     "mins": 15,
+     "do": "Do Experiment e5. Ask first: 'If two magnets meet, will they always stick?' Let your child try all four ways. Then say: 'Each end of a magnet is called a pole. One is the north pole and one is the south pole. Different poles attract. The same poles repel: they push each other away.' Ask your child to make one magnet chase the other without touching.",
+     "ref": "e5"
+    },
+    {
+     "kind": "exp",
+     "title": "The paper clip chain",
+     "mins": 12,
+     "do": "Do Experiment e6. Ask: 'The second clip never touched the magnet. Why does it hang on?' Good answer: 'The first clip became a magnet.' Then say: 'Inside iron, there are tiny parts that each act like a tiny magnet. Near a magnet, they turn to point the same way, so their forces add up.' Dip the bar in clips and ask: 'Where is it strongest?' (At the two poles.)",
+     "ref": "e6"
+    },
+    {
+     "kind": "act",
+     "title": "Magnet tag",
+     "mins": 10,
+     "do": "Do Activity a2. Play five rounds. At the end, make a chain front to back, and ask: 'Which experiment does this chain look like?' (The paper clip chain.)",
+     "ref": "a2"
+    }
+   ],
+   "need": [
+    "two bar magnets",
+    "two bendy fridge magnets, if you have them",
+    "about 20 steel paper clips",
+    "paper signs marked N and S for each player"
+   ],
+   "prep": [
+    {
+     "task": "Make paper signs: one N and one S for each player",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Seeing the magnetic field",
+   "goal": "Make a picture of a magnet's field, draw it, and meet Michael Faraday.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'What happens when two north poles meet?' (They repel.) Ask: 'On Day 3 we asked how a magnet moves a clip without touching it. What do you think now?'"
+    },
+    {
+     "kind": "exp",
+     "title": "A picture of the field",
+     "mins": 14,
+     "do": "Do Experiment e7. Ask first: 'Where will the grains gather?' After tapping, ask: 'Where are the grains thickest?' (At the ends.) Say: 'The space around a magnet where its force acts is called its magnetic field. The magnet acts on the clip through its field, even across air or water. The curved rows show the shape of the field.'",
+     "ref": "e7"
+    },
+    {
+     "kind": "act",
+     "title": "Draw the field",
+     "mins": 8,
+     "do": "Do Activity a3. Your child draws the field and labels N, S and 'field lines'. Ask: 'Where are your lines closest together? Why?' (At the poles, where the force is strongest.)",
+     "ref": "a3"
+    },
+    {
+     "kind": "think",
+     "title": "Michael Faraday's lines",
+     "mins": 7,
+     "do": "Tell the story in Voice v3 in your own words: Faraday was a blacksmith's son who taught himself science from the books he bound. He pictured lines of force around magnets, like the ones your child drew, and found that even wood and an apple move a tiny bit near a very strong magnet. Ask the voice question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 8,
+     "do": "Your child does Worksheet ws1. Read each question aloud if they want you to. For the two writing questions, let them say the answer first, then write it.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a bar magnet",
+    "the black grains from Day 2, or 30 to 40 staple pins",
+    "a stiff white card and two books",
+    "coloured pencils",
+    "Worksheet ws1"
+   ],
+   "prep": []
+  },
+  {
+   "n": 6,
+   "title": "The Earth is a magnet",
+   "goal": "Make a needle compass, find out why it points north, and meet Shen Kuo and William Gilbert.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'What is a magnetic field?' Good answer: 'The space around a magnet where its force acts.' Ask: 'What happens to a clip in a magnet's field?' (It becomes a magnet for a while.)"
+    },
+    {
+     "kind": "exp",
+     "title": "The floating needle compass",
+     "mins": 18,
+     "do": "Do Experiment e8. Ask first: 'Will the needle point any special way?' After stroking, let it settle three times, then check north on the phone. Ask: 'Why does it always come back to the same line?' Let your child guess. Then say: 'The whole Earth is a magnet. A free magnet turns to line up with the Earth's magnetic field, so it points north and south. That is a compass.' Then hang the bar magnet on the thread and see it settle the same way.",
+     "ref": "e8"
+    },
+    {
+     "kind": "think",
+     "title": "Shen Kuo's needle",
+     "mins": 7,
+     "do": "Tell Voice v1 in your own words: about 950 years ago, Shen Kuo in China wrote how to make a needle into a magnet with a lodestone, and that it worked best hanging from one silk thread. He also saw it did not point exactly south. Ask the voice question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "think",
+     "title": "William Gilbert's little Earth",
+     "mins": 6,
+     "do": "Tell Voice v2 in your own words: in 1600 Gilbert carved a ball of lodestone, moved a tiny needle over it, and said the Earth is a giant magnet. He also tested the sailors' story that garlic stops a compass, and showed it was false. Ask the voice question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "talk",
+     "title": "How a turtle finds its way",
+     "mins": 6,
+     "do": "Say: 'A baby loggerhead sea turtle has a big problem. It hatches on a beach and must swim across a whole ocean, and years later come back to the same coast. In the open sea there are no landmarks and no map.' Ask: 'How could it find its way?' Then say: 'Scientists in the USA put young loggerheads in a tank and changed the magnetic field around them. The turtles turned to swim as if they were in a different part of the ocean. So they can sense the Earth's magnetic field and use it like a map. Birds such as robins can sense it too. People needed a compass to do the same.'"
+    }
+   ],
+   "need": [
+    "a steel sewing needle",
+    "a bar magnet",
+    "a small square of paper or a bottle cap",
+    "a wide plastic or glass bowl of water",
+    "a phone compass app",
+    "a 30 cm piece of cotton thread"
+   ],
+   "prep": []
+  },
+  {
+   "n": 7,
+   "title": "Magnets at work",
+   "goal": "Find the magnets working in your home, play Stick or Skip, and start a magnet maze toy.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'Why does a compass point north?' Good answer: 'The Earth is a magnet, and the compass needle lines up with its magnetic field.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Magnet hunt at home",
+     "mins": 7,
+     "do": "Walk round your home with your child and look for magnets at work: the rubber seal of the fridge door (it has a magnet strip inside, which holds the door shut), cupboard and almirah door catches, fridge magnets, magnetic toys, and the phone's compass. Ask: 'What would happen if the fridge door seal had no magnet?' (The door would not stay tightly shut.) Say: 'Speakers and electric motors in fans and mixers have magnets inside too.'"
+    },
+    {
+     "kind": "game",
+     "title": "Stick or Skip?",
+     "mins": 12,
+     "do": "Play Game g1 with the printed cards. When a card names something in your home, test it with the magnet before turning the card over. Ask for a reason with every answer.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "do": "Your child does Worksheet ws2. For the force diagram, ask: 'Which way would the magnet move if there were no friction?' (Down.)",
+     "ref": "ws2"
+    },
+    {
+     "kind": "act",
+     "title": "Plan the magnet maze",
+     "mins": 8,
+     "do": "Start the project. Your child draws a maze on a piece of cardboard with a pencil, with a START and an END, and paths about two fingers wide. Ask: 'Will the magnet work through this cardboard? How do you know?' (Yes, from the Day 3 test.)"
+    }
+   ],
+   "need": [
+    "a fridge magnet",
+    "the printed Stick or Skip cards",
+    "Worksheet ws2",
+    "a piece of cardboard from a box, about the size of a notebook",
+    "a pencil and sketch pens"
+   ],
+   "prep": [
+    {
+     "task": "Print and cut out the Stick or Skip cards",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Finish the maze and teach it back",
+   "goal": "Finish the magnet maze, do the challenge worksheet, and teach the whole topic back.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Finish the magnet maze",
+     "mins": 12,
+     "do": "Your child finishes the maze: go over the paths in sketch pen and decorate it. Put a steel paper clip at START, on top of the card. Hold the magnet under the card and move the clip along the path to END without lifting it over a wall. Ask a family member to try it. Your child explains to them why it works."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 10,
+     "do": "Your child does Worksheet ws3. For the puzzle about two bars, let them try it with your bar magnet and a large nail. Talk through the 'Your view' questions before they write.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time. For any answer that is missing, do the matching test again for a minute, then ask again."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 8,
+     "do": "Your child is the teacher. Using the magnet, clips and the field drawing, they teach a grown-up for five minutes: what a magnet attracts, poles, the magnetic field and why a compass points north. Ask them as the student: 'Is every metal magnetic?' and 'In the story, why did Meena aim for the ring?'"
+    }
+   ],
+   "need": [
+    "the maze cardboard, sketch pens, a steel paper clip and a magnet",
+    "a bar magnet and a large nail",
+    "Worksheet ws3"
+   ],
+   "prep": []
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "What magnets do",
+   "day": 5,
+   "sections": [
+    [
+     "A. Stick or skip",
+     [
+      {
+       "t": "sort",
+       "p": "Sort these things. Which will a magnet attract?",
+       "items": [
+        "an iron nail",
+        "a steel safety pin",
+        "a brass key",
+        "aluminium foil",
+        "a wooden spoon",
+        "a steel paper clip",
+        "a copper wire",
+        "a glass bangle"
+       ],
+       "cats": [
+        "a magnet attracts it",
+        "a magnet does not attract it"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which sentence is true?",
+       "opts": [
+        "A magnet attracts every metal.",
+        "A magnet attracts only some metals.",
+        "A magnet attracts no metals."
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Iron, most steel, nickel and cobalt are called ____ materials.",
+       "a": [
+        "magnetic"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Poles and the field",
+     [
+      {
+       "t": "mcq",
+       "p": "Arjun pushes the north pole of one magnet towards the north pole of another. What happens?",
+       "opts": [
+        "They snap together.",
+        "They push apart.",
+        "Nothing happens."
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each word to what it means.",
+       "pairs": [
+        [
+         "attract",
+         "to draw something closer"
+        ],
+        [
+         "repel",
+         "to push something away"
+        ],
+        [
+         "pole",
+         "an end of a magnet, where its force is strongest"
+        ],
+        [
+         "magnetic field",
+         "the space around a magnet where its force acts"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Priya hangs paper clips on a bar magnet. Where do most clips stick?",
+       "opts": [
+        "at the two ends",
+        "in the middle",
+        "all along the bar equally"
+       ],
+       "a": 0
+      },
+      {
+       "t": "forces",
+       "p": "A steel paper clip hangs from the bottom of a magnet and does not fall. Show the two forces on the clip.",
+       "obj": "a paper clip hanging from a magnet",
+       "options": [
+        "gravity",
+        "the magnet attracts",
+        "push",
+        "friction",
+        "air resistance"
+       ],
+       "a": [
+        {
+         "name": "gravity",
+         "dir": "down"
+        },
+        {
+         "name": "the magnet attracts",
+         "dir": "up"
+        }
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "A magnet moved a clip on your palm from under your hand, and moved a clip inside a glass of water. What does that tell you about a magnet's force?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "The second clip in a chain never touches the magnet. Why does it still hang on?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Magnets in new places",
+   "day": 7,
+   "sections": [
+    [
+     "A. Use what you know",
+     [
+      {
+       "t": "mcq",
+       "p": "A kabadiwala holds a magnet against an old pot. It does not stick. What can he be sure of?",
+       "opts": [
+        "The pot is gold.",
+        "The pot is not mostly iron.",
+        "The pot is brass."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Neha's magnet sticks to her steel spoon but not to her steel tumbler. Why?",
+       "opts": [
+        "The magnet is broken.",
+        "They are two different kinds of steel.",
+        "The tumbler is too heavy."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Ravi wants to pick up pins that fell into a jar of rice. What should he use?",
+       "opts": [
+        "a magnet",
+        "a spoon of water",
+        "a wooden stick"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The black grains that a magnet pulls out of sand are a mineral called ____.",
+       "a": [
+        "magnetite"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Measure and compare",
+     [
+      {
+       "t": "mcq",
+       "p": "Sam slides a fridge magnet towards a clip. The clip jumps at 4 mm. He slides a bar magnet. The clip jumps at 20 mm. How many times further did the bar magnet reach?",
+       "opts": [
+        "4 times",
+        "5 times",
+        "16 times"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Ayesha tests one magnet three times. The clip jumps at 12 mm, 13 mm and 12 mm. Which is the best number to write down?",
+       "opts": [
+        "12 mm, the middle value",
+        "13 mm, the biggest",
+        "37 mm, all added up"
+       ],
+       "a": 0
+      },
+      {
+       "t": "forces",
+       "p": "A fridge magnet holds a drawing on the side of a fridge and does not slide down. The fridge door is on the right of the magnet. Show the three forces on the magnet.",
+       "obj": "a fridge magnet on the side of a fridge",
+       "options": [
+        "gravity",
+        "the fridge door attracts it",
+        "friction",
+        "push",
+        "air resistance"
+       ],
+       "a": [
+        {
+         "name": "gravity",
+         "dir": "down"
+        },
+        {
+         "name": "friction",
+         "dir": "up"
+        },
+        {
+         "name": "the fridge door attracts it",
+         "dir": "right"
+        }
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Your floating needle compass keeps pointing at the fridge instead of north. Why might that be, and how would you fix it?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A young loggerhead turtle must cross an ocean with no map and no landmarks. How does sensing the Earth's magnetic field help it?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Puzzles and big questions",
+   "day": 8,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "A compass needle's north pole points north. Different poles attract. So what kind of magnetic pole is near the Earth's North Pole?",
+       "opts": [
+        "a north pole",
+        "a south pole",
+        "no pole at all"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Meena's magnet would not pick up two brass keys from a drain. It did pick up the steel ring they hung on. What did the keys come up with?",
+       "opts": [
+        "nothing, they stayed in the drain",
+        "the ring, because the ring held them",
+        "only one key"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "You have two bars that look the same. One is a magnet and one is plain iron. You have nothing else. How can you tell which is the magnet?",
+       "opts": [
+        "Touch the end of bar A to the middle of bar B, then swap. The magnet is the one whose end holds on to the other's middle.",
+        "Weigh them.",
+        "Look at the colour."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A free magnet, hung on a thread, turns to point north and ____.",
+       "a": [
+        "south"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. What if?",
+     [
+      {
+       "t": "write",
+       "p": "What if every metal were magnetic? Name two things in your kitchen that would behave differently.",
+       "lines": 3
+      },
+      {
+       "t": "mcq",
+       "p": "Someone says a magnet bracelet cured their knee pain. What would be the fairest test?",
+       "opts": [
+        "Ask them again next week.",
+        "Give some people real magnets and some people fake ones that look the same, without telling them which, and compare.",
+        "Wear two bracelets."
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Your view",
+     [
+      {
+       "t": "write",
+       "p": "A magnet moves a clip without touching it. Can you think of anything else that acts on things without touching them? Explain how you know.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "The compass was first used in China, but many books start the story in Europe. Why do you think that happens? How could we find out who really did something first?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The magnet hunt: what does a magnet attract?",
+   "day": 1,
+   "question": "Which things in our home does a magnet attract, and is there a pattern?",
+   "need": [
+    "a fridge magnet or any magnet",
+    "a steel nail, a safety pin, a steel paper clip and a steel spoon",
+    "a steel tumbler or katori",
+    "a ball of aluminium foil, a copper wire or vessel, and a brass key, lock or diya",
+    "two or three different coins",
+    "a plastic spoon, a wooden pencil, a glass bangle, a cotton cloth, a rubber band and a stone",
+    "two sheets of paper, one marked STICK and one marked SKIP"
+   ],
+   "steps": [
+    "Put all the objects on a table with the two sheets.",
+    "Your child puts each object on STICK or SKIP, as a guess, and says why.",
+    "Hold the magnet against each object for three seconds. If it clings, or the object lifts, it is a stick.",
+    "Test each object twice, because one try can be a fluke.",
+    "Move any object that was on the wrong sheet. Count how many guesses were right."
+   ],
+   "predict": "Ask your child to guess first: 'Will every metal thing stick? Will anything that is not metal stick? Why do you think so?'",
+   "observe": "The nail, safety pin, clip and usually the spoon stick. Foil, copper, brass, plastic, wood, glass, cloth, rubber and stone do not. Many steel tumblers do not stick, or stick only weakly. Some coins stick and some do not.",
+   "why": "A magnet attracts only a few materials: iron, most kinds of steel, nickel and cobalt. These are called magnetic materials. Steel is mostly iron. Most metals, such as aluminium, copper and brass, are not magnetic. Some stainless steel is made with nickel mixed in, in a way that stops a magnet attracting it, so a steel tumbler may not stick. Coins are made of different metals, so some stick and some do not.",
+   "safety": "Keep magnets away from bank cards. A grown-up handles the nail. Never let a small child put a magnet in their mouth.",
+   "time": "18 min"
+  },
+  {
+   "id": "e2",
+   "title": "Black sand: find magnetite in soil",
+   "day": 2,
+   "question": "Is there magnetic material hiding in ordinary soil or sand?",
+   "need": [
+    "the strongest magnet you have",
+    "a small plastic zip bag or thin plastic bag",
+    "half a cup of dry soil from a potted plant",
+    "half a cup of dry sand from a building site or a sand bucket, if you can get it",
+    "a plate",
+    "a sheet of white paper"
+   ],
+   "steps": [
+    "Put the magnet inside the plastic bag.",
+    "Spread the first sample thinly on the plate.",
+    "Drag the wrapped magnet slowly through it 10 times.",
+    "Lift it up and look at what is stuck to the bag.",
+    "Hold the bag over the white paper and pull the magnet out of the bag. The grains drop onto the paper.",
+    "Test the second sample the same way. Keep the black grains in a folded paper for Day 5."
+   ],
+   "predict": "Ask your child to guess first: 'Will anything in the soil stick to the magnet? What colour will it be?'",
+   "observe": "Tiny black, shiny grains collect on the bag like a fuzzy beard. Building sand from a river usually gives the most. Potted plant soil may give only a few grains.",
+   "why": "The black grains are a mineral called magnetite. It is made of iron and oxygen, and a magnet attracts it. Lodestones, the natural magnets people found thousands of years ago, are made of magnetite. Rivers wash magnetite grains out of rocks and leave them in sand.",
+   "safety": "Always wrap the magnet in plastic first: grains stuck straight onto a magnet are very hard to clean off. Wash hands after touching soil. Collect sand from a building site only with a grown-up.",
+   "time": "12 min"
+  },
+  {
+   "id": "e3",
+   "title": "Through paper, cloth, hand and water",
+   "day": 3,
+   "question": "Can a magnet's force act through other materials?",
+   "need": [
+    "a fridge magnet and a stronger magnet, such as a bar magnet",
+    "two steel paper clips",
+    "about 30 sheets of an old notebook",
+    "a cotton cloth, a piece of cardboard and a plastic plate",
+    "a clear glass of water"
+   ],
+   "steps": [
+    "Put a clip on the table. Cover it with one sheet of paper. Put the magnet on top and lift it slowly. Does the clip come up?",
+    "Try the cloth, the cardboard and the plastic plate in the gap. Then put the clip on your child's open palm and move the stronger magnet under the hand. Does the clip move?",
+    "Drop a clip into the glass of water. Hold the stronger magnet against the outside of the glass, by the clip, and slide it up. Does the clip follow?",
+    "Now stack sheets of paper over the clip, 5 at a time. Find the biggest stack where the magnet still lifts the clip. Try it twice.",
+    "Do the stack test with the second magnet."
+   ],
+   "predict": "Ask your child to guess first: 'Will the magnet still work through paper? Through your hand? Through water?'",
+   "observe": "The magnet attracts the clip through paper, cloth, cardboard and plastic. The stronger magnet moves the clip on the palm and drags it up the inside of the glass of water. A weak fridge magnet may not work through a hand or a glass. As the stack grows, the clip lifts less easily, and at some height it stops. The stronger magnet works through a thicker stack.",
+   "why": "A magnet's force acts across a gap, without touching. Materials that are not magnetic, like paper, cloth and water, do not stop it. What stops it in the stack test is distance: the magnetic force gets weaker very quickly as the clip gets further away.",
+   "safety": "Mop up any spilled water. Keep the glass away from the table edge.",
+   "time": "17 min"
+  },
+  {
+   "id": "e4",
+   "title": "How far can a magnet reach?",
+   "day": 3,
+   "question": "How close must a magnet come before a clip jumps to it?",
+   "need": [
+    "a fridge magnet and a stronger magnet",
+    "a steel paper clip",
+    "a 30 cm ruler",
+    "a pencil and a notebook"
+   ],
+   "steps": [
+    "Lay the ruler flat on the table. Put the clip at the 0 mark.",
+    "Put the magnet at the 15 cm mark. Slide it very slowly towards the clip, about 1 cm every two seconds.",
+    "Stop the moment the clip moves. Read the gap between them on the ruler.",
+    "Do it three times for each magnet and write down all the numbers."
+   ],
+   "predict": "Ask your child to guess first: 'How big a gap can the clip jump? Which magnet will reach further?'",
+   "observe": "A bendy fridge magnet may only move the clip from a few millimetres away. A bar magnet may move it from 1 to 3 cm away. The three tries are close but not the same.",
+   "why": "A magnet's force is strongest close to it and gets weaker quickly with distance. The clip jumps when the magnetic force on it becomes bigger than the friction holding it on the table. We try three times because a small push of a finger or a bump of the table can change one result.",
+   "safety": "",
+   "time": "12 min"
+  },
+  {
+   "id": "e5",
+   "title": "Two ends: attract and repel",
+   "day": 4,
+   "question": "What happens when two magnets meet, end to end?",
+   "need": [
+    "two bar magnets (if the ends are not marked N and S, use a small sticker on one end of each)",
+    "two bendy fridge magnets, if you have them",
+    "a pencil and two ring magnets, if you have them"
+   ],
+   "steps": [
+    "Put one bar magnet flat on the table. Slowly push one end of the second magnet towards one end of the first.",
+    "Turn the second magnet round and push its other end towards the same end of the first.",
+    "Try all four ways of putting the ends together. Say each time: attract or repel.",
+    "Put one magnet on the table and push it along with the other, without touching it.",
+    "If you have two bendy fridge magnets, put their black backs together and slide one over the other. Feel the bumps.",
+    "If you have ring magnets, slide both onto the pencil. If they snap together, take the top one off, turn it over and put it back."
+   ],
+   "predict": "Ask your child to guess first: 'If two magnets meet, will they always stick together?'",
+   "observe": "Some pairs of ends snap together. Others push apart, and you can feel the push in your fingers before they touch. One magnet can chase the other across the table. Ring magnets turned the right way float one above the other. The bendy magnets click over each other in bumps.",
+   "why": "Every magnet has two ends called poles: a north pole and a south pole. Two different poles attract each other. Two of the same pole repel, which means they push each other away. A bendy fridge magnet has many thin stripes of north and south poles on its back. Sliding two of them together makes the stripes attract and repel in turn, and that is the bumps you feel.",
+   "safety": "Do not let strong magnets snap together near fingers: they can pinch. Keep small magnets away from children under 5, since two swallowed magnets can be an emergency.",
+   "time": "15 min"
+  },
+  {
+   "id": "e6",
+   "title": "The paper clip chain",
+   "day": 4,
+   "question": "Can a magnet turn a paper clip into a magnet? Where is a bar magnet strongest?",
+   "need": [
+    "a bar magnet",
+    "about 20 steel paper clips, all the same size, without plastic coating"
+   ],
+   "steps": [
+    "Hold the bar magnet up by its middle, so one end points down.",
+    "Touch one clip to the bottom end. Touch a second clip to the bottom of the first. Keep adding clips one at a time, touching only the bottom clip.",
+    "When a clip will not stay on, stop and count the clips. Do it twice.",
+    "Hold the top clip of the chain and gently pull the magnet away. Watch the chain.",
+    "Now lay the magnet flat and dip it into a pile of clips. Lift it and see where the clips hang."
+   ],
+   "predict": "Ask your child to guess first: 'The second clip never touches the magnet. Will it still hang on? Where on the bar will most clips stick?'",
+   "observe": "A chain of several clips hangs from the end. When the magnet is pulled away, most of the chain falls apart. Clips gather in bunches at the two ends of the bar and very few stick in the middle.",
+   "why": "Iron is made of tiny parts that each act like a tiny magnet. In an ordinary clip, they point in all directions, so their forces cancel out. Near a magnet, many of them turn to point the same way, so the clip becomes a magnet for a while and can hold the next clip. Take the magnet away and most of them turn back. A bar magnet's force is strongest at its poles, the two ends.",
+   "safety": "",
+   "time": "12 min"
+  },
+  {
+   "id": "e7",
+   "title": "A picture of the magnetic field",
+   "day": 5,
+   "question": "Can we see the shape of the space where a magnet's force acts?",
+   "need": [
+    "a bar magnet",
+    "a sheet of stiff white paper or a thin card",
+    "the black sand grains saved on Day 2, or 30 to 40 small steel staple pins from a stapler",
+    "two books of the same thickness"
+   ],
+   "steps": [
+    "Put the bar magnet flat on the table between the two books.",
+    "Lay the card over the books, so it covers the magnet without touching it.",
+    "Sprinkle the black grains thinly over the card above the magnet. If you have only a few grains, scatter the staple pins instead.",
+    "Tap the card gently with a finger, ten times, and watch.",
+    "Draw what you see. Then tip the grains back into their paper."
+   ],
+   "predict": "Ask your child to guess first: 'Where will the grains gather? Will they lie in any pattern?'",
+   "observe": "The grains or pins bunch thickly over the two ends of the magnet. Many turn and lie in short curved rows, running from one end of the magnet round to the other.",
+   "why": "The space around a magnet where its force acts is called its magnetic field. Each grain or pin becomes a tiny magnet and turns to line up with the field. The curved rows show the shape of the field. Scientists draw them as field lines. The lines crowd together at the poles, where the force is strongest.",
+   "safety": "Do not put grains straight onto the magnet. Wash hands afterwards. Staple pins are sharp at the ends: pick them up with the magnet, not with fingers.",
+   "time": "14 min"
+  },
+  {
+   "id": "e8",
+   "title": "The floating needle compass",
+   "day": 6,
+   "question": "Can we make a needle into a magnet, and will it point north?",
+   "need": [
+    "a steel sewing needle, about 4 cm long",
+    "a bar magnet",
+    "a square of paper about 2 cm across, or a plastic bottle cap",
+    "a wide plastic, glass or clay bowl of water (not steel)",
+    "a phone compass app or a compass, to check north",
+    "a 30 cm piece of cotton thread"
+   ],
+   "steps": [
+    "Put the bowl on a table, at least one metre from the fridge, the gas stove, steel almirahs and phones.",
+    "Float the paper square in the middle and lay the plain needle on it. Watch where it points.",
+    "Take the needle out. Stroke it with one end of the magnet 50 times, always from the eye to the point. Lift the magnet high to come back each time.",
+    "Float the needle again and wait. Then turn the paper gently and let go. Do this three times.",
+    "Check with the phone which way is north.",
+    "Last, tie the thread round the middle of the bar magnet and hang it from your hand, still, away from metal. Wait one minute and see where it points."
+   ],
+   "predict": "Ask your child to guess first: 'Will the needle point any special way before stroking? And after?'",
+   "observe": "The plain needle may stay where it is put. After stroking, it turns slowly until it points north and south, and comes back to that line every time it is turned. The hanging bar magnet also settles along the north-south line.",
+   "why": "Stroking turns the needle's tiny magnets to point the same way, so the needle becomes a magnet. The whole Earth is a magnet too, and has its own magnetic field. A free magnet turns to line up with the Earth's field, so it points north and south. That is how a compass works. The end that points north is called the magnet's north pole.",
+   "safety": "Needles are sharp. A grown-up hands over the needle and puts it away afterwards.",
+   "time": "18 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The kabadiwala's tray",
+   "day": 2,
+   "mins": 12,
+   "need": [
+    "a tray or a thali",
+    "a magnet",
+    "steel clips and safety pins, small bits of paper, plastic bottle caps, foil balls, rubber bands and a spoon of rice",
+    "two bowls"
+   ],
+   "steps": [
+    "Mix everything in the tray. This is a heap of rubbish.",
+    "Your child moves the magnet just above the heap and lifts out the magnetic pieces into one bowl.",
+    "Ask what is left, and how it could be sorted without a magnet.",
+    "Talk about how scrap yards and kabadiwalas sort metal."
+   ],
+   "outcome": "A sorted heap, and a child who can say how a magnet separates iron and steel from everything else."
+  },
+  {
+   "id": "a2",
+   "title": "Magnet tag: a dance of poles",
+   "day": 4,
+   "mins": 10,
+   "need": [
+    "two paper signs, N and S, for each player, tied or pinned on front and back",
+    "music, if you like"
+   ],
+   "steps": [
+    "Each player wears N on their front and S on their back.",
+    "When the music plays, everyone moves slowly round the room.",
+    "When the music stops, the parent calls 'Meet!'. Players walk towards the nearest person.",
+    "If the letters that face each other are different, hold hands: you attract. If they are the same, jump apart: you repel.",
+    "Play five rounds. Then make a chain, front to back, like the paper clip chain."
+   ],
+   "outcome": "A child who can say, and show with their body, that different poles attract and the same poles repel."
+  },
+  {
+   "id": "a3",
+   "title": "Draw the field",
+   "day": 5,
+   "mins": 8,
+   "need": [
+    "the drawing from the field picture",
+    "coloured pencils or crayons"
+   ],
+   "steps": [
+    "Draw a bar magnet in the middle of a page. Write N on one end and S on the other.",
+    "Draw curved lines from one end round to the other, like the rows of grains, close together near the ends.",
+    "Draw a few lines going out from each end and spreading apart.",
+    "Colour the space around the magnet softly to show where the field is."
+   ],
+   "outcome": "A page showing a magnetic field, with the field lines crowding at the poles."
+  }
+ ],
+ "project": {
+  "title": "A magnet maze toy",
+  "days": [
+   7,
+   8
+  ],
+  "steps": [
+   "Draw a maze on a piece of cardboard, with paths about two fingers wide and a START and an END.",
+   "Go over the paths in sketch pen and decorate the maze.",
+   "Put a steel paper clip on top of the card at START.",
+   "Hold a magnet under the card and steer the clip to END without crossing a wall.",
+   "Write a small label on the back: 'Why it works: a magnet's force passes through cardboard.'",
+   "Give it to a younger child or a grown-up to play, and explain how it works."
+  ],
+  "outcome": "A working maze toy that shows a magnet's force acting through cardboard, and a child who can explain it."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Stick or Skip?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards, cut out",
+   "a fridge magnet, to settle arguments"
+  ],
+  "rules": [
+   "Shuffle the cards and put them in a pile, front side up.",
+   "Take turns. Read the front of the top card aloud.",
+   "Say your answer and one reason. Then turn the card over and read the back.",
+   "If your answer and your reason are right, keep the card. If not, put it at the bottom of the pile.",
+   "If the card names something in your home, test it with the magnet.",
+   "When the pile is gone, the player with the most cards wins.",
+   "Playing alone? Try to keep more than 12 cards."
+  ],
+  "cards": [
+   {
+    "front": "An iron nail. Stick or skip?",
+    "back": "Stick. Iron is a magnetic material."
+   },
+   {
+    "front": "A brass key. Stick or skip?",
+    "back": "Skip. Brass is a metal, but it is not magnetic."
+   },
+   {
+    "front": "A ball of aluminium foil. Stick or skip?",
+    "back": "Skip. Aluminium is not magnetic."
+   },
+   {
+    "front": "A steel safety pin. Stick or skip?",
+    "back": "Stick. Most steel is mostly iron."
+   },
+   {
+    "front": "A copper wire. Stick or skip?",
+    "back": "Skip. Copper is not magnetic."
+   },
+   {
+    "front": "A gold ring. Stick or skip?",
+    "back": "Skip. Gold is not magnetic."
+   },
+   {
+    "front": "A wooden pencil. Stick or skip?",
+    "back": "Skip. Wood is not magnetic."
+   },
+   {
+    "front": "The steel door of a fridge. Stick or skip?",
+    "back": "Stick. That is why fridge magnets stay on it."
+   },
+   {
+    "front": "A steel tumbler. Stick or skip?",
+    "back": "Test it! Some stainless steel is magnetic and some is not."
+   },
+   {
+    "front": "Black grains of magnetite from sand. Stick or skip?",
+    "back": "Stick. Magnetite is made of iron and oxygen. Lodestones are made of it."
+   },
+   {
+    "front": "A glass bangle. Stick or skip?",
+    "back": "Skip. Glass is not magnetic."
+   },
+   {
+    "front": "A paper clip hanging below another clip on a magnet. Stick or skip?",
+    "back": "Stick. The first clip has become a magnet for a while."
+   },
+   {
+    "front": "North pole meets south pole. Attract or repel?",
+    "back": "Attract. Different poles attract."
+   },
+   {
+    "front": "North pole meets north pole. Attract or repel?",
+    "back": "Repel. The same poles push apart."
+   },
+   {
+    "front": "South pole meets south pole. Attract or repel?",
+    "back": "Repel. The same poles push apart."
+   },
+   {
+    "front": "Will a magnet attract a clip through a sheet of paper? Yes or no?",
+    "back": "Yes. Paper does not stop a magnet's force."
+   },
+   {
+    "front": "Will a magnet attract a clip through a glass of water? Yes or no?",
+    "back": "Yes. Water does not stop a magnet's force."
+   },
+   {
+    "front": "Where is a bar magnet strongest: the ends or the middle?",
+    "back": "The ends. They are its poles."
+   },
+   {
+    "front": "A floating magnetised needle turns. Which way does it end up pointing?",
+    "back": "North and south, lined up with the Earth's magnetic field."
+   },
+   {
+    "front": "What do we call the space around a magnet where its force acts?",
+    "back": "Its magnetic field."
+   },
+   {
+    "front": "A magnet bracelet cures pain. True or false?",
+    "back": "False. Careful tests found no good evidence for it."
+   },
+   {
+    "front": "A plastic bottle cap. Stick or skip?",
+    "back": "Skip. Plastic is not magnetic."
+   },
+   {
+    "front": "A steel almirah. Stick or skip?",
+    "back": "Stick. Almirahs are usually made of steel with lots of iron."
+   },
+   {
+    "front": "A loggerhead turtle swims across an ocean. What can it sense to find its way?",
+    "back": "The Earth's magnetic field."
+   }
+  ]
+ },
+ "big": [
+  "A magnet moves a clip without touching it. Is the magnetic field a real thing in the empty space, or only our way of describing what the magnet does?",
+  "A paper clip becomes a magnet when it is near one, and stops when it is taken away. Is the clip a magnet or not?",
+  "A turtle crosses an ocean using a sense we do not have. What else might other animals know about the world that we cannot feel?",
+  "Thales, a Greek thinker about 2,600 years ago, said a lodestone has a soul because it moves iron. What do you think a stone is aware of?",
+  "The Earth's magnetic field is all around us and we never feel it. What else is around us all the time that we do not notice?"
+ ],
+ "challenge": [
+  {
+   "q": "Many people say 'Magnets attract all metals.'",
+   "hint": "Test it. A magnet attracts iron, most steel, nickel and cobalt. It does not attract brass, copper, aluminium, gold or silver. Only a few of the metals found in nature are magnetic at room temperature. Ask: why do you think so many people believe this?"
+  },
+  {
+   "q": "Sellers say 'A magnet bracelet or a magnet mat will cure your pain.'",
+   "hint": "Careful tests give some people real magnets and others fake ones that look the same, without telling them which. People with the fake ones feel better about as often. A 2007 review of many such tests found no good evidence that magnets help pain. Ask: why might someone really feel better even if the magnet does nothing?"
+  },
+  {
+   "q": "'The compass was invented in Europe.'",
+   "hint": "The magnetic compass was first used in China. Shen Kuo described a magnetised needle about 950 years ago, and Chinese sailors were using compasses at sea by the early 1100s. European and Arab writers describe sailors' compasses only from about 1190 and 1230. Ask: who writes the history books, and who might they leave out?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A kabadiwala (scrap dealer)",
+   "view": "A kabadiwala uses a magnet every day to sort iron and steel from brass, copper and aluminium, which sell for more. He learned this by doing, not from a book. Ask: what do people who work with their hands know that scientists also need?"
+  },
+  {
+   "who": "A young loggerhead sea turtle",
+   "view": "Its problem is to cross an ocean and later find its way back to the coast where it hatched. It senses the Earth's magnetic field and uses it to find its way. Ask: if you could sense the Earth's field, how would the world feel different?"
+  },
+  {
+   "who": "A ship's navigator in the days before phones",
+   "view": "Out at sea, with clouds hiding the Sun and stars, a compass was the only way to know which way the ship was going. Ask: what would you trust if your phone stopped working?"
+  },
+  {
+   "who": "A hospital MRI technician",
+   "view": "An MRI scanner uses a very strong magnet to make pictures of the inside of the body. Before every scan, the technician checks that nobody carries steel things like hairpins or keys into the room, because the magnet would pull them in hard. Ask: why is a strong magnet safe for the body but dangerous with a hairpin?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Shen Kuo (1031–1095), scholar and official, China",
+   "idea": "In his book Dream Pool Essays, finished around 1088, Shen Kuo described how to make a needle into a magnet by rubbing it on a lodestone. He wrote that the best way to use it was to hang it from a single silk thread. He also noticed that the needle did not point exactly south, but a little to the east of it.",
+   "then": "Chinese people had used lodestone for divining and finding direction before him. His careful notes were among the first anywhere to describe a magnetised needle used to show direction.",
+   "now": "Historians agree the magnetic compass was first used in China. Shen Kuo's note about the needle pointing a little off true south is accepted as one of the earliest records of this.",
+   "status": "accepted",
+   "ask": "Shen Kuo noticed a tiny difference that most people would ignore. How could you check whether your needle compass points exactly at north, or a little to one side?",
+   "day": 6
+  },
+  {
+   "id": "v2",
+   "who": "William Gilbert (1544–1603), doctor, England",
+   "idea": "In 1600 Gilbert published a book, De Magnete ('On the Magnet'), after many years of experiments. He carved a ball from lodestone and called it a terrella, 'little Earth'. A small needle moved over the ball behaved as compass needles do on the real Earth. He said the Earth itself is a giant magnet. He also tested the sailors' belief that garlic stops a compass working, and found it was false.",
+   "then": "Before Gilbert, many people thought a compass needle was attracted by the Pole Star, or by a magnetic mountain in the far north. Testing ideas by experiment, as he did, was unusual in his time.",
+   "now": "It is accepted that the Earth acts as a magnet. Gilbert thought the inside of the Earth was solid lodestone. That part was wrong: the centre is far too hot to stay a magnet. Today scientists say the field is made by moving liquid iron deep inside the Earth.",
+   "status": "accepted",
+   "ask": "Gilbert tested the garlic belief instead of arguing about it. How would you test 'garlic stops a magnet working' at home, fairly?",
+   "day": 6
+  },
+  {
+   "id": "v3",
+   "who": "Michael Faraday (1791–1867), scientist, England",
+   "idea": "Faraday was a blacksmith's son who left school early and was apprenticed to a bookbinder at 14. He taught himself science from the books he bound. He pictured the space around a magnet filled with curved lines of force, like the rows of grains you made. In 1845 he used a very strong magnet and found that every material he tested moved a little near it, even glass, wood and an apple. Most were pushed away very weakly.",
+   "then": "Many scientists of his time thought in numbers and equations, and Faraday knew very little mathematics. Some did not take his lines of force seriously at first.",
+   "now": "Field lines are now used by every scientist who studies magnets. James Clerk Maxwell later wrote Faraday's ideas as mathematics. It is accepted that every material responds to a magnet, though for most the effect is far too weak to feel.",
+   "status": "accepted",
+   "ask": "Faraday found that even wood and water respond to a magnet, very weakly. If our hands cannot feel something, does that mean it is not happening? How could we find out?",
+   "day": 5
+  }
+ ],
+ "story": {
+  "title": "The Key in the Drain",
+  "text": [
+   "Every Saturday morning, Salim chacha pushes his cart down our lane in Pune. 'Raddi! Kabadi! Old paper, old iron!' he calls. His cart is piled high with newspapers, bottles and bent pots. In his shirt pocket he keeps a round black magnet on a string.",
+   "That Saturday, Aai sold him the lid of our old pressure cooker and a dented lota. Salim chacha held his magnet against the lid. Click. It stuck so hard he had to twist it off. 'Steel,' he said, and threw the lid onto his pile of iron things.",
+   "Then he held the magnet against the lota. It did not stick. It just slid down the side and swung on its string. Salim chacha smiled. 'Brass,' he said. 'Brass pays better than iron.' He put the lota in a separate sack.",
+   "'But brass is a metal too,' I said. 'Why didn't it stick?'",
+   "Salim chacha laughed. 'Ask your science teacher, Meena. I only know that it works.' He gave me a toffee and pushed his cart on down the lane.",
+   "I forgot about it until the evening.",
+   "Baba came home late from the office. Aai had gone to my aunt's house in Satara for the night, so it was only Baba, me and my little brother Chintu, who was six and very hungry. Baba stood at our gate and took the house keys out of his pocket. A motorbike roared past. Baba jumped, and the keys slipped out of his fingers.",
+   "They fell onto the iron grating that covers the drain beside our gate. For one second they sat there. Then they slid through a gap and dropped with a soft plop into the dark water below.",
+   "Baba knelt down and shone his phone torch through the grating. The drain was about as deep as my arm, with muddy water at the bottom. We could see the keys lying in the mud: two yellow keys and the small silver ring that held them together. The grating was far too heavy to lift. The gaps between its bars were only as wide as two of my fingers.",
+   "'I can't get my hand in,' Baba said. 'We'll have to call a locksmith. He'll break the lock.' He looked at our front door. It was a good brass lock, and a new one would cost a lot. Chintu started to cry.",
+   "Then I thought of the magnet on a string.",
+   "I ran down the lane to the shed where Salim chacha keeps his cart. He was eating his dinner on the step. When I told him, he put down his plate, took the magnet out of his pocket and walked back with me. He tied two more lengths of string to it, so it could reach the bottom.",
+   "Baba held the torch. Salim chacha lowered the magnet between the bars. It swung once, and then, clack! It jumped sideways and stuck to a bar of the grating.",
+   "'The grating is iron,' said Salim chacha. He pulled the magnet off and tried again. 'Down the middle of the gap. Slowly. Don't let it swing.' This time it went straight down, past the bars, and into the water.",
+   "We watched it reach the bottom. Salim chacha moved it until it touched the keys. Then he pulled the string up slowly. The magnet came up out of the water, dripping. Nothing was stuck to it.",
+   "He tried again. And again. Each time the magnet came up with only mud on it.",
+   "'It's the water,' Baba said quietly. 'The water must be stopping the magnet.'",
+   "I looked down at the two yellow keys in the torchlight. Yellow, like Aai's lota. I thought about the lota sliding off the magnet that morning, and about the lid that stuck so hard.",
+   "'The keys are brass,' I said. 'Like the lota.'",
+   "Everyone looked at me. Salim chacha's eyebrows went up.",
+   "'But the ring isn't,' I said. 'The ring is silver-coloured, like the cooker lid.'",
+   "Salim chacha handed me the string. 'Then you do it,' he said.",
+   "My hands were shaking. I let the magnet down through the middle of the gap, slowly, so it did not swing. It went into the water. Baba moved the torch so I could see the small silver ring. I lowered the magnet until it was just above the ring, and then a tiny bit lower.",
+   "I felt it through the string: a small tug, like a fish nibbling.",
+   "I pulled up very, very slowly. Out of the water came the magnet. Hanging from it was the silver ring, and hanging from the ring, swinging and dripping, were our two yellow keys.",
+   "Chintu stopped crying and started shouting. Baba laughed out loud and hugged me with muddy hands. Salim chacha took his magnet back, wiped it on his shirt and looked at it as if he had never seen it before.",
+   "After dinner, I went round the kitchen with Aai's fridge magnet. It stuck to the tawa, the steel almirah and the gas cylinder. It did not stick to the brass diya, the copper pot or the aluminium pan. It slid off my steel tumbler, but it held on to my steel spoon.",
+   "On Monday, Salim chacha came down the lane again. He stopped at our gate and held up his magnet. 'So, Meena,' he said. 'Did you ask your teacher yet?'"
+  ],
+  "epiphany": "For the parent: the turn is when the magnet keeps coming up empty. Baba thinks the water is stopping the magnet. Meena remembers that the magnet slid off the brass lota but stuck to the steel lid. She realises the keys are brass, which a magnet does not attract, but the small ring is steel, which it does. The story also shows the magnet jumping across a gap to the iron grating, and acting through water. Let your child find these out in the tests on Days 1 to 3 before you name them.",
+  "ask": [
+   "Why did Salim chacha's magnet stick to the cooker lid but not to the lota?",
+   "Why did the magnet jump sideways onto the drain grating?",
+   "Baba thought the water was stopping the magnet. How could we test whether he was right?",
+   "Why did Meena aim the magnet at the ring and not at the keys?",
+   "Meena's magnet slid off her steel tumbler but held her steel spoon. What could that mean?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "A magnet acts without touching.",
+   "more": "The clip jumped across a gap, and the magnet moved it through paper, a hand and water. The magnet acts through its magnetic field, the space around it where its force acts. The field picture on Day 5 shows its shape."
+  },
+  {
+   "idea": "Being a metal is not enough to be magnetic.",
+   "more": "A magnet attracts iron, most steel, nickel and cobalt, and almost nothing else. Brass, copper and aluminium are metals, but a magnet ignores them. Even steel can be made either way, as the spoon and the tumbler show."
+  },
+  {
+   "idea": "A magnet turns iron near it into a magnet.",
+   "more": "Each clip in the chain became a magnet because the tiny magnets inside it turned to point the same way. Stroking a needle does the same thing for longer. Nothing is added to the clip or the needle. What changes is which way its tiny magnets point."
+  },
+  {
+   "idea": "The whole Earth is a magnet.",
+   "more": "A free needle and a hanging bar magnet both settle north and south, because they line up with the Earth's magnetic field. Turtles and birds sense the same field to find their way."
+  }
+ ],
+ "unknowns": [
+  "Nobody knows exactly how turtles and birds sense the Earth's magnetic field. One idea is tiny grains of magnetite in their bodies. Another is a special protein in birds' eyes. Scientists are still testing both.",
+  "Every magnet ever found has two poles. Some scientists think a magnet with only one pole could exist somewhere in the universe. People have searched for nearly a hundred years and found none.",
+  "The Earth's magnetic field has flipped many times, with north and south swapping places. Nobody can predict when it will flip next."
+ ],
+ "books": [
+  {
+   "title": "What Makes a Magnet?",
+   "author": "Franklyn M. Branley",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A simple, accurate picture book about what magnets attract, poles, and making a needle compass, with home experiments."
+  },
+  {
+   "title": "Mickey's Magnet",
+   "author": "Franklyn M. Branley and Eleanor K. Vaughan",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A boy spills a box of pins and finds out what his magnet can do, including making a needle into a magnet."
+  },
+  {
+   "title": "Electric Universe",
+   "author": "David Bodanis",
+   "for": "parent reads",
+   "age": "adult. Read the Faraday chapter aloud in parts.",
+   "why": "The true story of Michael Faraday, the bookbinder's apprentice who imagined lines of force around magnets."
+  }
+ ],
+ "check": [
+  {
+   "q": "Name four magnetic materials.",
+   "a": "Iron, most kinds of steel, nickel and cobalt."
+  },
+  {
+   "q": "Is every metal magnetic? Give an example.",
+   "a": "No. Brass, copper, aluminium, gold and silver are metals, but a magnet does not attract them."
+  },
+  {
+   "q": "Why might a magnet stick to a steel spoon but not to a steel tumbler?",
+   "a": "They are made of different kinds of steel. Some stainless steel has nickel mixed in, in a way that stops a magnet attracting it."
+  },
+  {
+   "q": "Does a magnet's force act through water and paper? How do you know?",
+   "a": "Yes. In our test the magnet lifted a clip through paper and cloth, moved a clip on a palm from under the hand, and dragged a clip up inside a glass of water."
+  },
+  {
+   "q": "What happens when two north poles meet? And a north and a south?",
+   "a": "Two north poles repel, which means they push each other away. A north pole and a south pole attract."
+  },
+  {
+   "q": "What is a magnetic field?",
+   "a": "The space around a magnet where its force acts. The black grains or pins showed its shape, crowded at the two poles."
+  },
+  {
+   "q": "Why does a floating magnetised needle point north and south?",
+   "a": "The Earth is a magnet. The needle is a magnet too, and it turns to line up with the Earth's magnetic field."
+  },
+  {
+   "q": "In the story, why did Meena aim the magnet at the ring and not the keys?",
+   "a": "The keys were brass, which is not magnetic. The ring was steel, which a magnet attracts, and the keys hung on the ring."
+  }
+ ]
+}

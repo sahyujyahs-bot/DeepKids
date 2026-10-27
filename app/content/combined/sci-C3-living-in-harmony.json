@@ -1,0 +1,1307 @@
+{
+ "key": "combined|sci|3|living-in-harmony",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "living-in-harmony",
+ "title": "Living in harmony: how living things share a home",
+ "source": "DeepKids Combined. Covers NCERT Class 3 'Living in Harmony' (we are connected to plants and animals near and far, kindness to all living beings). No textbook needed.",
+ "summary": "Ants in the kitchen, a lizard by the tube light, pigeons on the balcony and millions of bacteria in a bowl of curd: your child lives with far more beings than the family. They find out why each one comes, and the five ways living things get along: both gain, one gains, one harms, one eats the other, or both want the same thing. They test what ants come for, make curd with bacteria, race paper seeds in the wind and crowd seedlings into a cup. They meet people who found ways for farmers, elephants, bees and rainforest monkeys to share land.",
+ "builds_on": "Class 1 and 2 rungs: every animal needs a habitat with food, water and shelter, and some people protect forests. The Class 3 rungs on caring for the environment and habitats go into food webs, decomposers, pollination and the layers of a tree. This rung is about relationships: the five ways living things live together, and how people can live with other beings without harming them. Class 4 goes on to ecosystems and energy, and Class 5 to food webs and the balance of nature.",
+ "goals": [
+  "By the end your child can name the living things that share their home, and say what each one comes for: food, water, shelter or warmth.",
+  "By the end your child can sort pairs of living things into five ways of living together, and use the words mutualism, commensalism, parasite, predator and prey, and competition.",
+  "By the end your child can explain how curd is made by living bacteria, and why warmth matters, from their own test.",
+  "By the end your child can explain how animals, wind and water carry seeds, and why a seed does better far from its parent plant.",
+  "By the end your child can plan a way to live with an uninvited guest without poison, and test whether it works.",
+  "By the end your child can describe how people have found ways to share land with elephants and rainforest animals, and weigh the evidence."
+ ],
+ "subconcepts": [
+  "other living things share our home: some we invite, some come by themselves",
+  "animals go where they find food, water, shelter or warmth",
+  "consumers, predators and prey: a first food chain at the tube light",
+  "mutualism: both living things gain (bees and flowers, monkeys and mango seeds)",
+  "commensalism: one gains and the other is not harmed (cattle egrets, sparrows in our houses)",
+  "parasites: one lives on or in another and harms it (lice, ticks, the koel's egg in a crow's nest)",
+  "competition: living things that need the same food, light or space",
+  "the bacteria we live with: in curd, and inside our own bodies",
+  "seed dispersal by animals, wind and water",
+  "we depend on plants and animals, and they depend on each other",
+  "living with uninvited guests without poison: take away what they come for",
+  "people and wild animals sharing land: elephants, beehive fences and Valparai",
+  "animals near and far: a migrating bird links the Himalayas to the south",
+  "cooperation as well as competition, and kindness to all beings"
+ ],
+ "words": [
+  [
+   "consumer",
+   "a living thing that cannot make its own food, so it eats other living things. Every animal is a consumer."
+  ],
+  [
+   "predator",
+   "an animal that hunts and eats other animals, like a house lizard catching a moth"
+  ],
+  [
+   "prey",
+   "an animal that is hunted and eaten, like the moth"
+  ],
+  [
+   "food chain",
+   "a list of who eats whom, with arrows pointing from the food to the eater: leaf → caterpillar → crow"
+  ],
+  [
+   "mutualism",
+   "two kinds of living things that live together and both gain, like a bee and a flower"
+  ],
+  [
+   "commensalism",
+   "one living thing gains and the other is neither harmed nor helped, like an egret walking beside a buffalo"
+  ],
+  [
+   "parasite",
+   "a living thing that lives on or in another one and takes from it, harming it, like a tick on a dog"
+  ],
+  [
+   "host",
+   "the living thing a parasite lives on"
+  ],
+  [
+   "competition",
+   "when two living things need the same food, light or space and there is not enough for both"
+  ],
+  [
+   "bacteria",
+   "living things made of just one tiny cell, too small to see. Bacteria in curd turn milk into curd."
+  ],
+  [
+   "seed dispersal",
+   "the ways seeds travel away from their parent plant: by animals, wind or water"
+  ],
+  [
+   "migration",
+   "a long journey some animals make at the same time every year, like the Grey Wagtail flying south for the winter"
+  ]
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "Who else lives in our home?",
+   "goal": "Count every living thing that shares the home, and find out why each one is there.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What does every animal need?",
+     "mins": 5,
+     "do": "Recall Class 2 in two questions. Ask: 'What three things does every animal need from its home?' (Food, water and shelter.) 'Name one animal that lives in our building, but nobody feeds it.' (A pigeon, a crow, ants, a lizard.) Say: 'This week we find out how living things share a home, and the different ways they get along.'"
+    },
+    {
+     "kind": "act",
+     "title": "The home census",
+     "mins": 14,
+     "ref": "a1",
+     "do": "Do Activity a1. Walk through every room and the balcony with your child for 8 minutes. Look in corners, behind the tube light, under the sink, in the flower pots and at the windows. Your child lists every living thing that is not a person. Then, next to each one, they write 'we brought it in' or 'it came by itself'. Expect 8 to 15 housemates: a tulsi, a money plant, ants, a lizard, a spider, pigeons, mosquitoes, a crow, maybe mould on old bread."
+    },
+    {
+     "kind": "talk",
+     "title": "Why did they come?",
+     "mins": 8,
+     "do": "Take each guest that came by itself and ask: 'What do you think it comes here for?' Good answers: ants for sugar and crumbs. The lizard for the insects that gather at the light. Pigeons for ledges, which are like the cliffs their wild relatives nest on. Mosquitoes for water standing in a pot tray. Then say: 'Every animal goes where it finds food, water, shelter or warmth. Our home gives all four.' Add one fact: house sparrows have lived beside people for thousands of years, eating the grain we spill."
+    },
+    {
+     "kind": "exp",
+     "title": "Sow the crowded cup",
+     "mins": 8,
+     "ref": "e2",
+     "do": "Start Experiment e2 now, because seeds need a week. Fill two cups with the same soil. In cup A, scatter a whole tablespoon of methi seeds so they touch. In cup B, press in just 10 seeds, spread apart. Cover both with a thin layer of soil, water both with 3 spoons of water and put them side by side at a sunny window. Ask: 'Which cup will grow better plants? Why?' Write the guess."
+    },
+    {
+     "kind": "act",
+     "title": "Choose an animal to know",
+     "mins": 5,
+     "ref": "a2",
+     "do": "Start Activity a2. Your child chooses one bird that comes to your window or balcony often: a crow, pigeon, myna or sparrow. Put a shallow bowl of water where it lands. Say: 'Change the water every day, so mosquitoes can't lay eggs in it.' Today, write down what it looks like: size, colours, beak and tail."
+    }
+   ],
+   "need": [
+    "paper and a pencil",
+    "2 small cups with a hole in the bottom",
+    "soil from a pot",
+    "methi seeds from the kitchen",
+    "a spoon",
+    "a shallow bowl"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "What do the ants come for?",
+   "goal": "Test what ants come for, and meet predators, prey and a first food chain.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Animal watch: how it moves",
+     "mins": 4,
+     "ref": "a2",
+     "do": "Watch your chosen bird for 3 minutes. Your child writes how it moves: does it hop or walk? How does it land? Does it fly straight or in circles? Change the water in the bowl. Look at the methi cups and water them if the soil is dry."
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the ant test",
+     "mins": 6,
+     "ref": "e4",
+     "do": "Start Experiment e4 at the place where you saw ants last night. Lay four paper squares in a row, one hand-width apart. Put a pinch of sugar on one, a pinch of salt on the next, a crumb of roti on the third, and nothing on the fourth. Ask: 'Which square will get the most ants? Which will get none? Why?' Write the guess and note the time. Count the ants on each square at 10 minutes."
+    },
+    {
+     "kind": "talk",
+     "title": "Who eats whom at the tube light?",
+     "mins": 10,
+     "do": "While you wait, ask: 'Why does our lizard sit near the light at night?' Let your child guess. Then say: 'Moths and flies come to the light, and the lizard comes to eat them. The lizard is a predator, an animal that hunts other animals. The moth is its prey. Both are consumers, because they can't make their own food.' Ask: 'What did the moth eat when it was a caterpillar?' (Leaves.) Draw it: leaf → moth → lizard. Say: 'This is a food chain. The arrow points from the food to the eater.' Count the ants again at 20 minutes."
+    },
+    {
+     "kind": "talk",
+     "title": "Is the chhipkali poisonous?",
+     "mins": 6,
+     "do": "Ask: 'Many people say a house lizard is poisonous. What do you think?' Then read your child the challenge about the chhipkali. Ask: 'If we chased every lizard away, what would happen to the moths and mosquitoes?' (There would be more of them.)"
+    },
+    {
+     "kind": "exp",
+     "title": "Count, chart and explain",
+     "mins": 10,
+     "ref": "e4",
+     "do": "Count the ants on each square at 30 minutes. Draw a bar chart with one bar for each square. Expect the most ants at the sugar, some at the roti, and almost none at the salt or the empty square. Ask your child for three sentences: what I think, what I saw, and why. A good answer: 'Ants come for food. 20 ants were on the sugar and none on the salt. Sugar and roti give them energy, and salt does not.' Then wipe the floor with soapy water."
+    },
+    {
+     "kind": "act",
+     "title": "Start the ant project",
+     "mins": 4,
+     "do": "Start the project. Choose the kitchen spot where you see ants most often. Count the ants there for 2 minutes and write the number and the time. Say: 'We'll count at this same time every day. Tomorrow we'll take away what they come for, and see if fewer ants come.'"
+    }
+   ],
+   "need": [
+    "4 paper squares",
+    "sugar, salt and a crumb of roti",
+    "a clock",
+    "a soapy cloth",
+    "paper and a pencil"
+   ],
+   "prep": [
+    {
+     "task": "Leave a pinch of sugar in a kitchen or balcony corner, so you know where the ants are.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Five ways to live together",
+   "goal": "Hear the story, learn the five ways living things get along, and start the curd test.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Animal watch: sounds",
+     "mins": 3,
+     "ref": "a2",
+     "do": "Watch your bird for 2 minutes. Your child writes the sounds it makes in letters, like 'kaa-kaa' or 'gutur-goo', and whether it was alone or with others. Change the water."
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Spoon from Downstairs",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Ask: 'Why did the curd not set on the cold night?' and 'What did Tanvi give the bacteria, and what did they give her?' Listen to the answers. Tonight you will test Tanvi's idea yourselves."
+    },
+    {
+     "kind": "talk",
+     "title": "Five ways of living together",
+     "mins": 12,
+     "do": "Draw five columns on a big sheet. Explain one at a time, with a home example. 1. Both gain: mutualism. A bee drinks nectar from a flower and carries its pollen to the next flower. 2. One gains, the other is not harmed: commensalism. A cattle egret walks beside a buffalo and catches the insects its feet stir up. 3. One lives on the other and harms it: a parasite. A tick on a street dog drinks its blood. The dog is the host. 4. One eats the other: predator and prey, like the lizard and the moth. 5. Both need the same thing: competition, like two crows and one roti. After each, ask your child for one more example from the home census."
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the curd test",
+     "mins": 10,
+     "ref": "e1",
+     "do": "Do this in the evening. Set up Experiment e1 with three bowls of lukewarm milk: A gets a spoon of curd and goes somewhere warm, B gets no curd and goes somewhere warm, C gets a spoon of curd and goes in the fridge. Ask: 'What will each bowl look like tomorrow? Why?' Write the guesses on the labels."
+    },
+    {
+     "kind": "act",
+     "title": "Take away what the ants come for",
+     "mins": 3,
+     "do": "Project step. Count the ants at your spot for 2 minutes. Then put the sugar, jaggery and biscuits into closed jars. Wipe the counter and the ant line with a soapy cloth. Say: 'Ants leave a scent trail for other ants to follow. Soapy water wipes it off.'"
+    }
+   ],
+   "need": [
+    "a big sheet of paper",
+    "2 cups of milk",
+    "2 spoons of curd",
+    "3 small bowls with lids or plates",
+    "a casserole or a towel",
+    "labels",
+    "a soapy cloth"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Seeds that travel",
+   "goal": "Read the curd results, and find out how plants use animals and wind to move their seeds.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Curd results",
+     "mins": 6,
+     "ref": "e1",
+     "do": "Tilt each bowl from Experiment e1. Expect A set and thick, B still milk, C still runny. Ask: 'Why did B stay milk?' (It had no bacteria.) 'Why is C runny?' (The bacteria were too cold, so they almost stopped.) Then say: 'Curd is made by bacteria. We give them milk and warmth. They make curd, which keeps longer than milk. Both gain, so it is mutualism, like Tanvi said.' Bowl A can be eaten. Throw away B and C."
+    },
+    {
+     "kind": "act",
+     "title": "Daily counts",
+     "mins": 4,
+     "ref": "a2",
+     "do": "Count the ants at the project spot for 2 minutes and write the number. Then watch your bird for 2 minutes: did you see it eat? What did it eat? Water the methi cups."
+    },
+    {
+     "kind": "talk",
+     "title": "How does a tree send away its babies?",
+     "mins": 9,
+     "do": "Ask: 'A mango tree can't walk. How do its seeds get to new places?' Let your child guess. Then explain seed dispersal, the ways seeds travel. Animals: a monkey or a bat eats a fruit and drops the seed far away. A bird eats a peepal fig and leaves the seed in its droppings on a wall, which is why peepal trees grow on old walls. Water: a coconut floats across the sea. Wind: aak seeds fly on silky hairs, and drumstick seeds have papery wings. Ask: 'When a monkey eats a mango and drops the seed, who gains?' (Both. That is mutualism.) Look at the crowded methi cup and ask: 'Why might a seed do better far from its parent?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Wings in the wind",
+     "mins": 13,
+     "ref": "e3",
+     "do": "Do Experiment e3. Make a paper spinner with wings and a crumpled paper ball, each with one paper clip. A grown-up drops each one from a raised hand, one metre in front of a table fan on low speed. Your child counts the floor tiles to where it lands. Do 3 drops each. Ask first: 'Which will travel further?' Expect the spinner to drift much further, because its wings slow its fall and the wind has longer to carry it."
+    },
+    {
+     "kind": "talk",
+     "title": "Do squirrels forget their nuts?",
+     "mins": 8,
+     "ref": "v1",
+     "do": "Ask: 'People say squirrels plant trees because they forget where they buried their nuts. How could we test that?' Let your child plan. Then tell the story in Voice v1, about Lucia Jacobs. Explain: squirrels remember most of their stores, but they bury more than they eat, and some never come back. The nuts left in the soil sprout. Ask the voice question."
+    }
+   ],
+   "need": [
+    "the curd bowls",
+    "paper, scissors and 2 paper clips",
+    "a table fan",
+    "a floor with tiles, or a measuring tape"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Sharing land with big animals",
+   "goal": "Check what we know so far, and find out how people share land with elephants and rainforest animals.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Daily counts",
+     "mins": 4,
+     "ref": "a2",
+     "do": "Count the ants at the project spot for 2 minutes and write the number. Watch your bird for 2 minutes: who was it with? Did it chase or share with any other bird? Water the methi cups."
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 12,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1 (core). Read the questions aloud if needed. Mark them together. For any mistake, go back to the five-column sheet from Day 3 or the curd bowls, and ask the question again in other words."
+    },
+    {
+     "kind": "talk",
+     "title": "Elephants, farmers and bees",
+     "mins": 10,
+     "ref": "v2",
+     "do": "Ask: 'What happens when elephants walk into a village field at night?' (They eat the crop. The farmer loses months of work, and people or elephants can get hurt.) 'Why do they come?' (For food. Their forests have shrunk.) Then tell the story in Voice v2, about Lucy King and the beehive fences. Ask the voice question. Good answers: maybe it rained more that year, or there was more food in the forest."
+    },
+    {
+     "kind": "talk",
+     "title": "A town beside a rainforest",
+     "mins": 10,
+     "ref": "v3",
+     "do": "Tell the story in Voice v3, about Valparai in Tamil Nadu. Add the true story of Valparai's children: every year they watch for the Grey Wagtail, a small grey and yellow bird. It nests in the Himalayas and other northern mountains, and flies south to spend the winter in places like Valparai. The children welcome it when it arrives. Ask: 'If a forest in the far north is cut down, could it change what the Valparai children see?' (Yes. The bird needs both places.)"
+    },
+    {
+     "kind": "think",
+     "title": "What do they both need?",
+     "mins": 4,
+     "do": "Ask: 'What do the farmer and the elephant both need?' (Food, water and a safe place to live.) 'Is this competition?' (Yes, both want the same field.) 'What did the beehive fence change?' (It gave the elephant a reason to stay away without hurting it.) Leave the last question open: 'Whose land is it?'"
+    }
+   ],
+   "need": [
+    "Worksheet ws1",
+    "the five-column sheet from Day 3"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Helping and competing",
+   "goal": "Read the crowded-cup result, and weigh how much living things compete and how much they help each other.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Crowded cup results",
+     "mins": 8,
+     "ref": "e2",
+     "do": "Look at both methi cups from Experiment e2. Your child measures the 3 tallest seedlings in each cup with a ruler, and notices the colour, how thick the stems are and how many have fallen over. Expect the crowded cup to have thin, pale, leaning stems and smaller leaves. Ask: 'What were they all trying to get?' (Light, water and food from the soil.) Say: 'This is competition. Farmers pull out extra seedlings so the rest can grow. It is called thinning.' If the cups still look alike, keep them 4 more days."
+    },
+    {
+     "kind": "talk",
+     "title": "Struggle or help?",
+     "mins": 8,
+     "ref": "v4",
+     "do": "Ask: 'Is nature mostly a fight, or mostly help?' Let your child answer with examples from this week. Then tell the story in Voice v4, about Peter Kropotkin. Ask the voice question. Point at the five-column sheet: some columns are about helping and some about competing. Both are real."
+    },
+    {
+     "kind": "game",
+     "title": "Play Who Gains?",
+     "mins": 14,
+     "ref": "g1",
+     "do": "Play the card game g1. Lay out the five column cards. Players take turns to read a pair card and place it under a column, then say why. Turn the card over to check. When a card could go in two columns, like the ants and aphids, let the players argue, and accept any answer with a good reason."
+    },
+    {
+     "kind": "talk",
+     "title": "Kindness to all beings",
+     "mins": 10,
+     "do": "Ask: 'Name five things we got from plants and animals today.' (Rice, dal, milk, cotton, wood, medicine.) 'What do we give back?' Then read the two perspectives about the Bishnoi people and the Jain tradition. Ask: 'When we boiled the milk for the curd, we killed the bacteria that were in it. Can anyone live without harming anything? What can we do instead?' There is no single right answer. Listen to your child's reasons."
+    }
+   ],
+   "need": [
+    "the methi cups and a ruler",
+    "the printed Who Gains? cards, cut out",
+    "the five-column sheet"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "You are many",
+   "goal": "Apply the five ways to new cases, act them out, and find out about the bacteria inside us.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Daily counts",
+     "mins": 4,
+     "ref": "a2",
+     "do": "Count the ants at the project spot for 2 minutes and write the number. Watch your bird for 2 minutes. Did it do anything that surprised you or made you laugh? Write it down."
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 14,
+     "ref": "ws2",
+     "do": "Do Worksheet ws2 (stretch). It uses new animals and plants. Let your child look at the five-column sheet for help. Your child may say the written answers aloud while you write them."
+    },
+    {
+     "kind": "talk",
+     "title": "The bacteria inside you",
+     "mins": 6,
+     "do": "Ask: 'Where else do bacteria live with us?' Then say: 'Your gut, the long tube inside your belly, holds about as many bacteria as your body has cells of its own. Most are helpful. They break down parts of food you can't digest alone, and some make vitamins your body needs. You give them food and a warm home.' Ask: 'So are you one living thing, or many living together?' Leave it open."
+    },
+    {
+     "kind": "act",
+     "title": "Guess the pair",
+     "mins": 10,
+     "ref": "a3",
+     "do": "Do Activity a3. Two players secretly choose a pair from the game, such as the bee and the flower or the koel and the crow. They act it out together without words. The others guess the pair and which of the five ways it is."
+    },
+    {
+     "kind": "act",
+     "title": "Write the animal story",
+     "mins": 6,
+     "ref": "a2",
+     "do": "Finish Activity a2. Your child reads all the notes about their bird and writes them as a short story of 5 or 6 sentences: what it looks like, how it moves, its sounds, what it eats, who it lives with and the surprise. They read it aloud to the family."
+    }
+   ],
+   "need": [
+    "Worksheet ws2",
+    "the Who Gains? cards",
+    "the bird notes from Activity a2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Check and teach it back",
+   "goal": "Report the ant project, think hard, check, and teach it back.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Ant project report",
+     "mins": 8,
+     "do": "Count the ants at the project spot one last time. Your child draws a bar chart of the daily counts, with Day 2 first. Ask: 'Did fewer ants come after we put the food away? Did the ants go somewhere else instead?' Then your child tells the family the plan that worked, like a scientist reporting a result. If nothing changed, ask: 'What else could they be coming for?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "ref": "ws3",
+     "do": "Do Worksheet ws3 (challenge). It has puzzles, a fair-test plan and questions where scientists disagree. Praise reasons and evidence, not just the right answer. Your child may answer the written questions aloud while you write."
+    },
+    {
+     "kind": "check",
+     "title": "Check",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time, without looking at any notes. Tick the ones answered well. For any missed answer, look at the five-column sheet or the bowls for a minute, then ask again in other words. If fewer than 4 are right, repeat the Day 3 talk on five ways of living together."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child is the teacher and you are the student. Using the ant chart, the curd bowls, the paper spinner and the methi cups, they teach you in 5 minutes: why guests come to our home, the five ways living things live together, and one way people share land with wild animals. Ask one 'why' question as the student. End by asking: 'Which living thing in our home would you like to know better next?'"
+    }
+   ],
+   "need": [
+    "the ant counts from the project",
+    "Worksheet ws3",
+    "the bowls, spinner and methi cups"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Who lives with us, and how",
+   "day": 5,
+   "sections": [
+    [
+     "A. Our housemates",
+     [
+      {
+       "t": "sort",
+       "p": "Did people bring it into the home, or did it come by itself?",
+       "items": [
+        "tulsi plant",
+        "pet dog",
+        "money plant",
+        "ants",
+        "house lizard",
+        "mosquito",
+        "pigeon on the balcony",
+        "fish in a bowl"
+       ],
+       "cats": [
+        "People brought it in",
+        "It came by itself"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why do ants come into a kitchen?",
+       "opts": [
+        "to find food",
+        "to bite people",
+        "to sleep"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "An animal that hunts and eats other animals is called a ____.",
+       "a": [
+        "predator"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A house lizard eats a moth. What is the moth?",
+       "opts": [
+        "the lizard's prey",
+        "the lizard's predator",
+        "the lizard's parasite"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Five ways of living together",
+     [
+      {
+       "t": "match",
+       "p": "Match each pair to the way they live together.",
+       "pairs": [
+        [
+         "bee and flower",
+         "both gain"
+        ],
+        [
+         "cattle egret and buffalo",
+         "one gains, the other is not harmed"
+        ],
+        [
+         "tick and dog",
+         "one lives on the other and harms it"
+        ],
+        [
+         "lizard and moth",
+         "one eats the other"
+        ],
+        [
+         "two crows and one roti",
+         "both want the same thing"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "When two kinds of living things live together and both gain, scientists call it ____.",
+       "a": [
+        "mutualism"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "What turns warm milk into curd?",
+       "opts": [
+        "tiny living bacteria",
+        "the steel bowl",
+        "the cold"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "In our curd test, bowl B got no curd. Why did it stay as milk?",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "C. Living together at home",
+     [
+      {
+       "t": "mcq",
+       "p": "Sometimes a peepal tree grows on top of an old wall. How did its seed get there?",
+       "opts": [
+        "a bird ate a peepal fig and left the seed in its droppings",
+        "a person planted it",
+        "the wall made it"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Name one guest that comes into your home by itself. What does it come for? How could you live with it without using poison?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "New pairs, new places",
+   "day": 7,
+   "sections": [
+    [
+     "A. Name the way",
+     [
+      {
+       "t": "mcq",
+       "p": "A street dog has ticks on its ears. What is the tick?",
+       "opts": [
+        "a parasite",
+        "a predator",
+        "a plant"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A koel lays its egg in a crow's nest. The crow feeds the koel chick as if it were her own. Who gains?",
+       "opts": [
+        "only the koel",
+        "only the crow",
+        "both"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match the word to what it means.",
+       "pairs": [
+        [
+         "mutualism",
+         "both gain"
+        ],
+        [
+         "commensalism",
+         "one gains, the other is neither harmed nor helped"
+        ],
+        [
+         "parasite",
+         "lives on or in another and harms it"
+        ],
+        [
+         "competition",
+         "both need the same food, light or space"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The tiny living things that turn milk into curd are called ____.",
+       "a": [
+        "bacteria"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Seeds and space",
+     [
+      {
+       "t": "sort",
+       "p": "How does each seed travel?",
+       "items": [
+        "drumstick seed with papery wings",
+        "aak seed with silky hairs",
+        "coconut",
+        "mango eaten by a monkey",
+        "seed that sticks to a dog's fur",
+        "guava seed eaten by a parrot"
+       ],
+       "cats": [
+        "wind",
+        "water",
+        "animals"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In the crowded methi cup, how did the seedlings grow?",
+       "opts": [
+        "thin, pale and leaning",
+        "thicker and greener than the others",
+        "exactly the same as the others"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Big animals and far places",
+     [
+      {
+       "t": "mcq",
+       "p": "Elephants keep away from beehive fences. Why?",
+       "opts": [
+        "bees can sting them around the eyes and inside the trunk",
+        "the fence gives an electric shock",
+        "elephants are scared of wood"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "A farmer's crop is eaten by elephants. Name two things the farmer and the elephant both need. Why do they meet at the field?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "The Grey Wagtail nests in the Himalayas and spends the winter in the south. Why should the children in Valparai care about forests far away in the north?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Puzzles and arguments",
+   "day": 8,
+   "sections": [
+    [
+     "A. Not so simple",
+     [
+      {
+       "t": "mcq",
+       "p": "Ants guard small insects called aphids on a hibiscus plant. The aphids suck the plant's sap and give the ants a sweet liquid. What happens to the hibiscus?",
+       "opts": [
+        "it loses some sap and can grow weaker",
+        "it gains food",
+        "nothing happens to it"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "A mosquito drinks a little of your blood and flies away. Is it more like a parasite or a predator? Give one reason for each side.",
+       "lines": 4
+      },
+      {
+       "t": "mcq",
+       "p": "People said oxpeckers, birds that ride on buffaloes, help them by eating their ticks. One study found the birds did not lower the number of ticks, and also drank blood from wounds. What does this tell us?",
+       "opts": [
+        "the bird may not only be helping. Scientists need to keep checking.",
+        "oxpeckers always help buffaloes",
+        "the buffalo eats the oxpecker"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Your gut holds about as many ____ as your body has cells of its own.",
+       "a": [
+        "bacteria"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Think with numbers",
+     [
+      {
+       "t": "mcq",
+       "p": "A squirrel buries 20 nuts. Later it digs up 15 and eats them. What is the largest number of nuts that could grow into trees?",
+       "opts": [
+        "5",
+        "15",
+        "20"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Your family wants fewer ants but no poison. Plan a fair test to see whether wiping the ant line with soapy water works. What will you change, and what will you keep the same?",
+       "lines": 4
+      }
+     ]
+    ],
+    [
+     "C. Words and views",
+     [
+      {
+       "t": "sort",
+       "p": "Some words describe how a living thing lives. Others judge it by what it does for people. Sort them.",
+       "items": [
+        "predator",
+        "prey",
+        "parasite",
+        "consumer",
+        "pest",
+        "weed",
+        "useful",
+        "vermin"
+       ],
+       "cats": [
+        "describes how it lives",
+        "judges it by what it does for people"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "What do Bishnoi villages in Rajasthan protect?",
+       "opts": [
+        "khejri trees and blackbuck",
+        "factories",
+        "fishing boats"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Name one example from this week where living things competed, and one where they helped each other. Which do you think happens more in nature? Why?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Who makes the curd?",
+   "day": 3,
+   "question": "What turns milk into curd, and does warmth matter?",
+   "need": [
+    "2 cups of milk",
+    "2 teaspoons of curd",
+    "3 small bowls",
+    "plates or lids to cover them",
+    "a casserole or a thick towel",
+    "labels A, B and C"
+   ],
+   "steps": [
+    "A grown-up boils the milk and lets it cool until you can keep a finger in it while you count to ten. If it is hotter, wait.",
+    "Pour the same amount of milk into each of the three bowls.",
+    "Bowl A: stir in 1 teaspoon of curd. Bowl B: add nothing. Bowl C: stir in 1 teaspoon of curd.",
+    "Cover all three bowls.",
+    "Put A and B inside a closed casserole, or wrap them in a towel, in a warm place in the kitchen. Put C in the fridge.",
+    "Leave them for 8 hours or overnight. Then tilt each bowl gently and look."
+   ],
+   "predict": "Ask: 'What will each bowl look like tomorrow? Why do you think so?' Write the guesses on the labels.",
+   "observe": "A is thick and set, and smells a little sour. B is still milk. C is still runny, or only a little thicker. In a very cold room A may need longer, so leave it a few more hours.",
+   "why": "Curd holds millions of living bacteria. They eat the sugar in milk and make an acid, and the acid makes the milk thick and sour. Bowl B had no bacteria, because boiling had killed any that were in the milk, so nothing changed. In bowl C the bacteria were too cold, so they almost stopped. We give the bacteria food and warmth, and they make curd, which keeps longer than milk. Both gain, so it is mutualism.",
+   "safety": "A grown-up handles the hot milk. Bowl A is normal curd and can be eaten. Throw away B and C after looking.",
+   "time": "10 min + overnight"
+  },
+  {
+   "id": "e2",
+   "title": "The crowded cup",
+   "day": 1,
+   "question": "What happens when many plants share one small cup?",
+   "need": [
+    "2 small cups with a hole in the bottom",
+    "soil from a pot",
+    "methi seeds from the kitchen",
+    "a tablespoon and a teaspoon",
+    "a ruler"
+   ],
+   "steps": [
+    "Fill both cups with the same soil, to the same height.",
+    "Cup A: scatter one whole tablespoon of methi seeds on the soil, so the seeds touch.",
+    "Cup B: press in just 10 seeds, spread apart.",
+    "Cover both with a thin layer of soil.",
+    "Give both 3 teaspoons of water, and put them side by side at a sunny window.",
+    "Water both the same amount whenever the soil looks dry.",
+    "After 6 or 7 days, measure the 3 tallest seedlings in each cup. Look at their colour and stems, and count how many have fallen over."
+   ],
+   "predict": "Ask: 'Which cup will have healthier plants? Why do you think so?'",
+   "observe": "Methi usually sprouts in 2 to 4 days. By the end, the crowded seedlings are thinner, paler and leaning, with smaller leaves. They may be taller, because each one stretches up to get light above its neighbours. The spaced seedlings are sturdier and greener. If the cups still look alike after a week, keep going for a few more days.",
+   "why": "Every seedling needs light, water and minerals from the soil. In the crowded cup they all take from the same small store, so each one gets less. This is competition. It is why farmers pull out extra seedlings, which is called thinning, and why a seed often does better when it lands far from its parent.",
+   "safety": "",
+   "time": "8 min + 6 to 7 days"
+  },
+  {
+   "id": "e3",
+   "title": "Wings in the wind",
+   "day": 4,
+   "question": "Does a seed with wings travel further in the wind?",
+   "need": [
+    "2 sheets of the same paper",
+    "scissors",
+    "2 paper clips",
+    "a table fan",
+    "a floor with tiles, or a measuring tape"
+   ],
+   "steps": [
+    "Make the spinner: cut a strip of paper about 3 fingers wide and as long as your hand. Cut down the middle from the top to halfway. Fold the two flaps opposite ways to make two wings. Put a paper clip on the bottom.",
+    "Make the ball: crumple a same-size strip of paper into a ball and put a paper clip on it.",
+    "Put the table fan on the floor, on low speed, facing an open part of the room.",
+    "A grown-up stands one metre in front of the fan and drops the spinner from a raised hand, in the fan's wind.",
+    "Your child counts the floor tiles from the grown-up's feet to where it lands.",
+    "Do the same with the ball. Do 3 drops of each and write every result."
+   ],
+   "predict": "Ask: 'Which one will travel further, the spinner or the ball? Why?'",
+   "observe": "The spinner turns round and round as it falls, slowly, and lands much further away. The ball drops fast and lands close.",
+   "why": "The wings push against the air, so the spinner falls slowly. A slow fall gives the wind more time to carry it. Drumstick seeds have papery wings and aak seeds have silky hairs for the same reason. A seed that travels far does not have to compete with its own parent for light and water.",
+   "safety": "Keep fingers away from the fan blades. The grown-up drops, and the child counts.",
+   "time": "13 min"
+  },
+  {
+   "id": "e4",
+   "title": "What do the ants come for?",
+   "day": 2,
+   "question": "Which food do ants come to most: sugar, salt, roti or nothing?",
+   "need": [
+    "4 paper squares of the same size",
+    "a pinch of sugar",
+    "a pinch of salt",
+    "a crumb of roti",
+    "a clock",
+    "a soapy cloth"
+   ],
+   "steps": [
+    "Find a place where you have seen ants.",
+    "Lay the 4 squares in a row, one hand-width apart, the same distance from the ants.",
+    "Put sugar on one, salt on the next, roti on the third, and nothing on the fourth. The empty square shows how many ants walk on just by chance.",
+    "Note the time.",
+    "Count the ants on each square after 10, 20 and 30 minutes.",
+    "Draw a bar chart of the 30-minute counts.",
+    "Wipe the place with soapy water, so the ants don't keep coming back."
+   ],
+   "predict": "Ask: 'Which square will get the most ants? Which will get none? Why?' Write the guess and the reason.",
+   "observe": "Usually the sugar square fills with ants and the roti gets some. The salt and the empty square get almost none. If no ants come in 15 minutes, move the squares closer to an ant line and start again. In the cold months there may be fewer ants, so try in the late afternoon.",
+   "why": "Ants are consumers. They can't make their own food, so they search for it and leave a scent trail that leads other ants to it. Sugar and roti give them energy, and both were made by plants from sunlight. Salt gives no energy. So the ants come into our homes for the same reason every animal goes anywhere: food.",
+   "safety": "Some ants, like big red ants, bite. Watch them but don't touch them. Don't do this next to food jars.",
+   "time": "40 min, with other steps done while you wait"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The home census",
+   "day": 1,
+   "mins": 14,
+   "need": [
+    "paper and a pencil",
+    "a torch for dark corners"
+   ],
+   "steps": [
+    "Walk through every room and the balcony for 8 minutes.",
+    "Look in corners, behind the tube light, under the sink, in flower pots and at the windows.",
+    "List every living thing that is not a person, plants too. Count how many of each.",
+    "Next to each one, write 'we brought it in' or 'it came by itself'.",
+    "For each guest that came by itself, write what it comes for: food, water, shelter or warmth."
+   ],
+   "outcome": "A list of the 8 to 15 kinds of living things that share your home, and why each one is there."
+  },
+  {
+   "id": "a2",
+   "title": "Get to know one bird",
+   "day": 1,
+   "mins": 25,
+   "need": [
+    "a shallow bowl of water",
+    "a notebook"
+   ],
+   "steps": [
+    "Choose one bird that often comes to your window or balcony: a crow, pigeon, myna or sparrow.",
+    "Put a shallow bowl of water where it lands. Change the water every day, so mosquitoes can't breed in it.",
+    "Day 1: write what it looks like.",
+    "Day 2: write how it moves.",
+    "Day 3: write its sounds, and whether it was alone or with others.",
+    "Day 4: write what it ate.",
+    "Day 5: write who it was with, and whether it chased or shared.",
+    "Day 7: write anything surprising, then write all of it as a story of 5 or 6 sentences and read it to the family."
+   ],
+   "outcome": "A short true story about one bird you share your home with."
+  },
+  {
+   "id": "a3",
+   "title": "Guess the pair",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "the Who Gains? cards"
+   ],
+   "steps": [
+    "Two players pick a pair card in secret, such as the bee and the flower, or the koel and the crow.",
+    "They act the pair together without words. One is the bee, buzzing from flower to flower. The other is the flower, opening and nodding.",
+    "The others guess the pair, and which of the five ways of living together it shows.",
+    "Swap, so everyone acts at least once."
+   ],
+   "outcome": "Each player has acted one pair and named its way of living together."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Lucia Jacobs, USA (squirrel memory studies, from the 1990s)",
+   "idea": "Many people say squirrels plant trees because they forget where they buried their nuts. Lucia Jacobs, a scientist who studies animal memory, tested this with grey squirrels. In a 1991 study with Emily Liman, squirrels buried nuts and were later let back in. They found far more of their own nuts than nuts buried by other squirrels in the same place. So they remember where they hid them, and are not just sniffing out any nut.",
+   "then": "Before such tests, many people thought squirrels found nuts mostly by smell or by luck, and forgot most of them.",
+   "now": "Scientists accept that squirrels remember their stores well, using landmarks, and that smell helps too. Squirrels still plant many trees, because they hide more nuts than they need, and some squirrels are caught by hawks or cats before they come back.",
+   "status": "accepted",
+   "ask": "How could you tell whether a squirrel found a nut by remembering, by smelling or by luck? What test would tell them apart?",
+   "day": 4
+  },
+  {
+   "id": "v2",
+   "who": "Lucy King, Kenya and UK (beehive fence research, from 2007)",
+   "idea": "Elephants raiding farms is a serious problem in Africa and in India. Lucy King and her colleagues in Kenya noticed that elephants avoid trees with beehives, because bees can sting them around the eyes and inside the trunk. In 2007 they showed that elephants walked away from the recorded sound of angry bees. They then tested fences made of beehives hung on a wire around farms. When an elephant pushes the wire, the hives swing and the bees come out.",
+   "then": "The idea seemed strange at first. But early trials in Kenya found far fewer elephant raids on farms with beehive fences, and the farmers could also sell the honey.",
+   "now": "Beehive fences have been tried in many countries in Africa and Asia, including some places in India. They work well in many trials, but not everywhere. In a drought the bees can leave, the fences need care, and very hungry elephants sometimes break through. Scientists are still studying where they work best.",
+   "status": "debated",
+   "ask": "A village puts up beehive fences and has fewer elephant raids that year. Can we be sure the fences did it? What else might have changed?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Divya Mudappa and T. R. Shankar Raman, Nature Conservation Foundation, Valparai, Tamil Nadu, India",
+   "idea": "Valparai is a town in the Anamalai hills, among tea and coffee gardens, next to rainforest. Since the early 2000s, ecologists Divya Mudappa and T. R. Shankar Raman have worked with tea companies and local people to replant native rainforest trees in damaged patches of forest. They also help wild animals, such as the endangered lion-tailed macaque, live alongside people, for example by helping them cross busy roads more safely.",
+   "then": "Many people thought that once a forest was broken up by plantations and roads, its rare animals would disappear, and the small patches were not worth saving.",
+   "now": "Their long studies show that even small, cared-for forest patches among plantations can keep many rare birds and animals alive, and the replanted patches are growing back. How well people and wildlife can share such crowded hills, with elephants and leopards there too, is still a hard question.",
+   "status": "accepted",
+   "ask": "Can a town and a rainforest share the same hills? What would you need to count, year after year, to know whether the lion-tailed macaques are doing well?",
+   "day": 5
+  },
+  {
+   "id": "v4",
+   "who": "Peter Kropotkin (1842–1921), Russia",
+   "idea": "As a young man in the 1860s, Kropotkin travelled through Siberia, where the winters are very harsh. He saw that animals there seemed to survive more by helping each other than by fighting each other. In his book Mutual Aid (1902), he argued that helping each other is as important in nature as competing.",
+   "then": "Many scientists of his time saw nature mainly as a struggle, where the strongest survive. Kropotkin was also famous for his ideas about how people should be governed, so many saw his book as politics and did not take it seriously as science.",
+   "now": "Today scientists study cooperation as a big part of life, from bacteria to elephants, and mutualism is found everywhere. But they explain it differently from Kropotkin. Living things often help their own relatives, or help those who help them back. His idea that animals help for the good of their whole species is not accepted.",
+   "status": "debated",
+   "ask": "Think of the crowded cup and the curd. Which one showed competing, and which one showed helping? What would you need to count to know which happens more?",
+   "day": 6
+  }
+ ],
+ "project": {
+  "title": "Living with ants without poison",
+  "days": [
+   2,
+   8
+  ],
+  "steps": [
+   "Day 2: after the ant test, choose the kitchen spot where you see ants most often. Count the ants there for 2 minutes and write the time.",
+   "Find out what they come for there: crumbs, sugar, a sticky jar or a sweet spill.",
+   "Day 3: count again at the same time. Then put that food away in closed jars, and wipe the counter and the ant line with soapy water.",
+   "Days 4 to 7: count for 2 minutes at the same time each day. Keep the food closed away and wipe the spot each night.",
+   "Day 8: draw a bar chart of the counts. Tell the family: did fewer ants come? Did they go somewhere else?"
+  ],
+  "outcome": "A bar chart of ant counts and a tested plan for living with ants without killing them."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Who Gains?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "scissors"
+  ],
+  "rules": [
+   "Cut out the cards. Lay the five column cards face up in a row.",
+   "Shuffle the pair cards and put them in a pile, face down.",
+   "On your turn, take the top card and read it aloud. Put it under the column you think fits, and say why.",
+   "Turn the card over and read the back. If you were right, keep the card.",
+   "Some cards could fit two columns. If you give a good reason for your column, keep the card anyway.",
+   "When the pile is finished, the player with the most cards wins."
+  ],
+  "cards": [
+   {
+    "job": true,
+    "front": "BOTH GAIN (mutualism)"
+   },
+   {
+    "job": true,
+    "front": "ONE GAINS, THE OTHER IS NOT HARMED (commensalism)"
+   },
+   {
+    "job": true,
+    "front": "ONE LIVES ON THE OTHER AND HARMS IT (parasite)"
+   },
+   {
+    "job": true,
+    "front": "ONE EATS THE OTHER (predator and prey)"
+   },
+   {
+    "job": true,
+    "front": "BOTH NEED THE SAME THING (competition)"
+   },
+   {
+    "front": "A bee and a mustard flower",
+    "back": "Both gain. The bee gets nectar. The flower's pollen is carried to the next flower."
+   },
+   {
+    "front": "A monkey and a mango tree",
+    "back": "Both gain. The monkey gets fruit. The seed is dropped far away."
+   },
+   {
+    "front": "You and the bacteria in your gut",
+    "back": "Both gain. They get food and a warm home. They help you digest food and make some vitamins."
+   },
+   {
+    "front": "People and the bacteria in curd",
+    "back": "Both gain. We give them milk and warmth. They make curd."
+   },
+   {
+    "front": "A fungus and an alga living together as a lichen on an old wall",
+    "back": "Both gain. The alga makes food from sunlight. The fungus holds water and gives it shelter."
+   },
+   {
+    "front": "A fig wasp and a peepal tree",
+    "back": "Both gain. The wasp lays its eggs inside the figs. It carries the tree's pollen to other figs."
+   },
+   {
+    "front": "Ants and aphids on a hibiscus",
+    "back": "Both gain: the aphids give the ants a sweet liquid, and the ants guard them. But the plant loses sap. Could it go in two columns?"
+   },
+   {
+    "front": "A cattle egret and a buffalo",
+    "back": "One gains. The egret catches insects the buffalo's feet stir up. The buffalo is not harmed."
+   },
+   {
+    "front": "A house sparrow and the people in a house",
+    "back": "One gains. The sparrow nests in the house and eats spilled grain. The people are not harmed."
+   },
+   {
+    "front": "An orchid growing on a branch of a mango tree",
+    "back": "One gains. The orchid gets a high place in the light. It does not take food from the tree."
+   },
+   {
+    "front": "A head louse and a child",
+    "back": "Parasite. The louse lives in the hair and drinks a little blood. The child itches."
+   },
+   {
+    "front": "A tick and a street dog",
+    "back": "Parasite. The tick drinks the dog's blood and can make it ill. The dog is the host."
+   },
+   {
+    "front": "A koel and a crow",
+    "back": "Parasite. The koel lays its egg in the crow's nest. The crow works to feed a chick that is not hers."
+   },
+   {
+    "front": "Amarbel, the yellow thread plant, and a bush",
+    "back": "Parasite. Amarbel wraps round the bush and sucks its sap. It has almost no green leaves of its own."
+   },
+   {
+    "front": "A house lizard and a moth",
+    "back": "Predator and prey. The lizard is the predator."
+   },
+   {
+    "front": "A spider and a fly",
+    "back": "Predator and prey. The spider catches the fly in its web."
+   },
+   {
+    "front": "An owl and a rat",
+    "back": "Predator and prey. Farmers are glad of owls, because rats eat grain."
+   },
+   {
+    "front": "Seedlings in a crowded cup",
+    "back": "Competition. They all need the same light, water and soil."
+   },
+   {
+    "front": "A crow and a street dog at the same garbage pile",
+    "back": "Competition. Both want the same scraps."
+   },
+   {
+    "front": "A farmer and an elephant at a field of crops",
+    "back": "Competition. Both need the same food. A beehive fence can help them share the land."
+   }
+  ]
+ },
+ "story": {
+  "title": "The Spoon from Downstairs",
+  "text": [
+   "We moved from Chennai to Delhi in December, and the first thing that went wrong was the curd.",
+   "In Chennai, Amma made curd every night without thinking about it. She boiled the milk, let it cool, stirred in a spoonful of the day's curd and put the bowl in the cupboard. In the morning it was thick and white, and it wobbled when you shook the bowl.",
+   "But we had packed in a hurry, and there was no curd left. On our first night in the new flat, Amma boiled the milk anyway and left it in a bowl. In the morning it was still milk. Just milk, cold and thin.",
+   "\"It needs a little curd to begin,\" Amma said. \"Curd makes curd.\"",
+   "I didn't understand that. A roti can't make a roti. How can curd make curd?",
+   "The flat downstairs belonged to an old lady called Harjeet Aunty. She had a long grey plait and a cough, and on our first day she had shouted at the delivery man for blocking the stairs. I was a little afraid of her. But Amma sent me down with an empty katori.",
+   "Harjeet Aunty looked at the katori, and then at me. \"Jaman?\" she asked. That is her word for the starter, the little bit of old curd that begins the new curd. She went into her kitchen and came back with the katori half full. \"Don't put it in hot milk,\" she said. \"It's alive. You'll cook it.\"",
+   "Alive? I carried it up the stairs very carefully, as if it might run away.",
+   "That night I helped Amma. We let the milk cool until I could keep my finger in it while I counted to ten. We stirred in two spoons of Harjeet Aunty's curd, covered the bowl and put it on the kitchen shelf. I went to bed thinking about the tiny living things in the bowl, and whether they minded moving house.",
+   "In the morning the curd had not set. It was a little thicker at the bottom, but when I tilted the bowl it ran like buttermilk. Amma sighed. \"Delhi cold,\" she said.",
+   "It was so cold that day that the lizard behind our tube light didn't come out at all. In Chennai there had been three lizards on the kitchen wall every evening, waiting for moths. Here there was one, and it stayed in a crack in the wall, still as a stick.",
+   "I looked at the runny curd. Then I looked at the crack where the lizard was hiding. The lizard was alive, and it was too cold, so it had slowed down. If the curd things were alive too, maybe they had slowed down for the same reason.",
+   "\"Amma,\" I said, \"what if they're cold?\"",
+   "She laughed, but she let me try. We warmed fresh milk until it was finger-warm again and stirred in the last of the jaman. I wrapped the bowl in my own woollen shawl, the red one Nani knitted, and put it inside the big casserole we keep rotis in. Then I shut the lid. I put the whole thing in the warmest place in the flat, the corner next to the fridge, where warm air comes out at the back.",
+   "All day I wanted to open it. I didn't.",
+   "In the evening Amma lifted the lid and unwrapped the shawl. The curd was set, thick and white and shining. When she tipped the bowl, it moved all in one piece, like a soft cake. It tasted a little sour, the way it tasted at home.",
+   "Amma said the tiny living things are called bacteria. There are millions of them in one spoon of curd. They eat the sugar in milk, and as they eat, the milk turns thick and sour. When they are warm, they eat and grow fast. When they are cold, they almost stop.",
+   "\"So we give them milk and a warm bed,\" I said, \"and they give us curd.\"",
+   "\"And curd keeps longer than milk,\" said Amma.",
+   "The next morning I filled the katori with our new curd and took it downstairs. Harjeet Aunty opened the door and looked at it. Then she laughed, a real laugh this time, with the cough in the middle of it.",
+   "\"My jaman came from my mother-in-law in Amritsar,\" she said. \"Hers came from a neighbour. I've been feeding the same little family for fifty years. Now they live upstairs too.\"",
+   "She let me in and made me a glass of lassi from her curd. I sat at her table, in the flat I had been afraid of, and drank it slowly. The bacteria in that glass came from the same family she had been feeding for fifty years, since before my mother was born.",
+   "A week later, a new family moved into the empty flat above ours. Their boxes filled the stairs. Through the door I heard a woman say, \"Oh no. I forgot to bring curd.\"",
+   "I went into our kitchen and found a katori."
+  ],
+  "epiphany": "For the parent: Tanvi's turn comes when she sees the lizard hiding from the cold and guesses that the curd makers are alive in the same way, so they have slowed down too. Warmth is the fix, and the result proves her guess. Curd is a partnership with bacteria: we give them milk and warmth, they give us curd. The same spoon of curd also connects neighbours, as a gift passed on and never sold.",
+  "ask": [
+   "Why didn't the curd set on the cold night?",
+   "What made Tanvi think of the lizard? How were the lizard and the curd alike?",
+   "What did the family give the bacteria, and what did the bacteria give them?",
+   "Harjeet Aunty has fed the same family of bacteria for fifty years. Who else has she shared it with?",
+   "Why do you think Tanvi went to find a katori at the end?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "No living thing lives alone.",
+   "more": "Every animal eats other living things, and many plants need animals to carry their pollen and seeds. Even inside your body, bacteria live with you and help you digest food."
+  },
+  {
+   "idea": "There are five main ways living things live together.",
+   "more": "Both gain (mutualism), one gains and the other is not harmed (commensalism), one harms the other by living on it (parasite), one eats the other (predator and prey), or both need the same thing (competition). Most real pairs are a mix, and scientists still argue about some."
+  },
+  {
+   "idea": "Every guest comes for a reason.",
+   "more": "Animals come into our homes for food, water, shelter or warmth. Take away what they come for, and most of them go back to their own food outside, without being killed."
+  }
+ ],
+ "unknowns": [
+  "Nobody knows yet what most of the bacteria in our gut do, or exactly how many kinds live in each person. Scientists are still finding new ones.",
+  "Do oxpeckers help or harm the buffaloes they ride on? Different studies have found different answers, and it may depend on the place.",
+  "Thousands of ants, with no leader, find food and choose a new nest together. Scientists know about their scent trails, but are still working out how the whole colony decides."
+ ],
+ "big": [
+  "Is any living thing really alone?",
+  "Are you one living thing, or many living together?",
+  "The pigeons on our balcony were born here too. Whose home is it?",
+  "Is a 'pest' just an animal that wants the same things we want?",
+  "Can anyone live without harming anything? What should we do about that?"
+ ],
+ "challenge": [
+  {
+   "q": "'Squirrels forget where they bury their nuts. That is how they plant trees.' Is that true?",
+   "hint": "Lucia Jacobs and Emily Liman showed in 1991 that grey squirrels find far more of their own buried nuts than other squirrels' nuts, so they remember. Trees still grow from the nuts that are never dug up, because squirrels bury more than they eat and some never come back. Ask: what else could stop a squirrel coming back?"
+  },
+  {
+   "q": "'A chhipkali is poisonous. If it touches food, the food turns to poison.' Is that true?",
+   "hint": "House lizards have no venom and do not bite people to harm them. But like many animals, they can carry germs such as Salmonella on their skin and droppings, so food a lizard fell into should be thrown away. They eat mosquitoes, moths and cockroaches. Ask: is it fair to call an animal poisonous because it might carry germs?"
+  },
+  {
+   "q": "'Oxpeckers are a buffalo's best friends. They ride on its back and eat its ticks.' Is that the whole story?",
+   "hint": "In a study of cattle in Zimbabwe, published in 2000, Paul Weeks found that cattle with oxpeckers did not have fewer ticks. The birds also drank blood from small wounds and kept the wounds open longer. Other scientists think the birds do help in some places. Nobody is sure yet. Ask: how would you test whether the birds help?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "The Bishnoi people of Rajasthan",
+   "view": "The Bishnoi community follows rules that forbid cutting green trees and killing animals. Their villages protect khejri trees, blackbuck and chinkara. Their tradition tells of Amrita Devi, who in 1730 gave her life with hundreds of others to stop khejri trees being cut. Ask: what would it take for a whole village to share its land like that?"
+  },
+  {
+   "who": "The Jain tradition",
+   "view": "Jains try to harm as few living beings as possible. This is called ahimsa. Some Jain monks gently sweep the path ahead so they don't step on insects. Ask: when we boiled milk, we killed the bacteria in it. Is it possible to harm nothing? How do you choose?"
+  },
+  {
+   "who": "A farmer whose crop elephants ate",
+   "view": "For a farmer, one night of elephants can mean a year's food lost. They may be angry, and also know the elephants were here first. Ask: how would you feel? What would help both the farmer and the elephants?"
+  },
+  {
+   "who": "A house crow",
+   "view": "People call crows noisy and dirty. But crows eat our scraps, dead rats and insects, and even feed the koel's chick by mistake. Ask: if crows could talk about people, what would they say?"
+  }
+ ],
+ "books": [
+  {
+   "title": "How to Clean a Hippopotamus: A Look at Unusual Animal Partnerships",
+   "author": "Steve Jenkins and Robin Page",
+   "for": "read together",
+   "age": "5–9",
+   "why": "Clear pictures of real animals that live together and help each other, and some that only seem to."
+  },
+  {
+   "title": "Tiny Creatures: The World of Microbes",
+   "author": "Nicola Davies",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A simple, accurate picture book about the bacteria and other microbes all around and inside us, like the ones in curd."
+  },
+  {
+   "title": "I Contain Multitudes",
+   "author": "Ed Yong",
+   "for": "parent reads",
+   "age": "Adult (read short parts aloud)",
+   "why": "A science writer's lively account of the microbes that live with animals and people, and how they help us."
+  }
+ ],
+ "check": [
+  {
+   "q": "Why do ants, lizards and pigeons come into our homes?",
+   "a": "For food, water, shelter or warmth. Ants come for sugar and crumbs, lizards for the insects at the lights, pigeons for ledges to nest on."
+  },
+  {
+   "q": "A house lizard eats a moth. Which is the predator and which is the prey?",
+   "a": "The lizard is the predator. The moth is its prey."
+  },
+  {
+   "q": "Name the five ways living things live together, with one example each.",
+   "a": "Both gain, mutualism: bee and flower. One gains and the other is not harmed, commensalism: egret and buffalo. Parasite: tick on a dog. Predator and prey: lizard and moth. Competition: two crows and one roti."
+  },
+  {
+   "q": "What makes milk turn into curd, and why did the curd in the fridge not set?",
+   "a": "Living bacteria from a spoon of curd eat the milk's sugar and make it thick and sour. In the fridge they were too cold, so they almost stopped."
+  },
+  {
+   "q": "Name three ways seeds travel.",
+   "a": "Animals eat fruit and drop the seed far away, wind carries winged or hairy seeds, and water carries floating seeds like coconuts."
+  },
+  {
+   "q": "Why did the seedlings in the crowded cup grow thin and pale?",
+   "a": "They were competing for the same light, water and soil, so each one got less."
+  },
+  {
+   "q": "How do beehive fences help farmers and elephants share land?",
+   "a": "Elephants avoid bees, which can sting their eyes and trunk. When an elephant pushes the fence, the hives swing and the bees come out, so it stays away without being hurt."
+  },
+  {
+   "q": "How can we live with ants without poison?",
+   "a": "Take away what they come for: keep food in closed jars and wipe their scent trail with soapy water."
+  }
+ ]
+}
