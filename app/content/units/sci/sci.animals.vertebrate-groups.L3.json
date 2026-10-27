@@ -3,7 +3,7 @@
  "title": "Animals with a backbone: the five groups and how they keep warm",
  "level": 3,
  "summary": {
-  "text": "A house lizard and a pigeon both have a backbone, but they keep warm in very different ways. Animals with a backbone are called vertebrates, and scientists sort them into five groups: fish, amphibians, reptiles, birds and mammals. For each group we ask three questions. How does it breathe? How does it stay warm or cool? How does it have babies? Fish take oxygen from water with gills. Birds and mammals make their own body heat from food. Most fish, amphibians and reptiles take their warmth from the sun, the ground or the water around them. Fish and frogs lay soft eggs in water, reptiles and birds lay shelled eggs on land, and mammals feed their babies milk. Scientists still argue about some questions, such as how warm the dinosaurs were.",
+  "text": "A house lizard and a pigeon both have a backbone, but they keep warm in very different ways. Animals with a backbone are called vertebrates, and scientists sort them into five groups: fish, amphibians, reptiles, birds and mammals. Birds and mammals make their own body heat from food. Most fish, amphibians and reptiles take their warmth from the sun, the ground or the water around them. The groups also differ in how they breathe and how they have babies, and scientists still argue about how warm the dinosaurs were.",
   "art": "Five animals a city child can meet, in a row: a fish on ice at the market, a frog by a monsoon puddle, a house lizard on a wall, a puffed-up pigeon on a window ledge, and a dog lying in the shade, each with a small sun or flame symbol above it."
  },
  "intro": {
@@ -66,13 +66,13 @@
   },
   {
    "term": "Gills",
-   "meaning": "Feathery red flaps on the side of a fish's head. They take oxygen out of water.",
+   "meaning": "Thin, red, frilly parts on each side of a fish's head, under a hard flap. They take oxygen out of water.",
    "example": "Look at a fresh fish at the market. Lift the hard flap behind its eye. The red frills are gills.",
    "art": "A fish head with the gill cover lifted, showing bright red feathery gills and water flowing past."
   },
   {
    "term": "Lungs",
-   "meaning": "Two soft bags inside the chest that take oxygen out of air.",
+   "meaning": "Two soft, spongy organs inside the chest that take oxygen out of air.",
    "example": "When you breathe in deeply, your chest gets bigger because your lungs fill with air.",
    "art": "A child breathing in, with two pink balloon-like lungs glowing inside the chest."
   },
@@ -170,7 +170,7 @@
    "concept": "How fish breathe",
    "status": "defined",
    "definition": "Fish breathe with gills. Gills take oxygen out of water.",
-   "description": "Water has a little oxygen mixed into it. You cannot see it, just as you cannot see sugar mixed into tea. A fish gulps water through its mouth. The water flows over its gills and out through slits behind its head. The gills are thin, red and frilly. Blood inside them picks up the oxygen from the water. Water holds much less oxygen than air, about thirty times less. So a fish must keep water flowing over its gills all the time. Out of water, the frills stick together and stop working. That is why most fish die quickly on land.",
+   "description": "Water has a little oxygen mixed into it. You cannot see it, just as you cannot see sugar mixed into tea. A fish gulps water through its mouth. The water flows over its gills and out under the hard flap behind its head. The gills are thin, red and frilly. Blood inside them picks up the oxygen from the water. Water holds much less oxygen than air, about thirty times less. So a fish must keep water flowing over its gills all the time. Out of water, the frills stick together and stop working. That is why most fish die quickly on land.",
    "examples": [
     "A goldfish in a bowl opens and shuts its mouth, and the flaps behind its eyes move too. It is pumping water over its gills.",
     "A shark swims with its mouth a little open, so water rushes over its gills.",
@@ -186,7 +186,7 @@
    "definition": "Reptiles, birds and mammals breathe air with lungs. Most amphibians breathe with gills when young, then with lungs and their damp skin when grown.",
    "description": "A tadpole lives in water and breathes with gills, like a fish. As it grows into a frog, it grows lungs. A frog also breathes through its thin, wet skin. That is why frogs must stay damp. If their skin dries, they cannot breathe well. Reptiles have dry skin, so they breathe only with lungs. Birds have lungs plus extra air bags, called air sacs, that push air through the lungs in one direction. This gives them lots of oxygen for flying. Mammals breathe with lungs too. Even whales and dolphins, which live in water, must come up to breathe air.",
    "examples": [
-    "A frog's throat pumps up and down as it pulls air into its lungs.",
+    "A frog's throat pumps up and down as it pushes air into its lungs.",
     "A Ganges river dolphin, India's national aquatic animal, comes up for air every minute or two.",
     "A bar-headed goose can fly over the Himalayas, where the air is very thin, because its lungs and air sacs work so well."
    ],
@@ -212,8 +212,8 @@
   {
    "concept": "Why 'cold-blooded' is a misleading word",
    "status": "defined",
-   "definition": "Animals that take their heat from outside are not always cold. Their blood is as warm or as cool as the world around them.",
-   "description": "People used to call lizards, snakes and fish 'cold-blooded'. But a lizard basking on a sunny wall in May can be warmer than you. Its blood is not cold at all. What is different is where the heat comes from. The lizard borrows heat from the sun. You make it from food. So scientists prefer the words 'takes heat from outside' and 'makes its own heat'. Even this is not a perfect split. Some big fish, like tuna, keep their muscles warm. A fish called the opah keeps its whole body a little warmer than the sea.",
+   "definition": "Animals that take their heat from outside are not always cold. Their bodies warm up and cool down with the sun, the ground and the air around them.",
+   "description": "People used to call lizards, snakes and fish 'cold-blooded'. But a lizard basking on a sunny wall in May can be warmer than you. Its blood is not cold at all. What is different is where the heat comes from. The lizard takes its heat from the sun. You make it from food. So scientists prefer the words 'takes heat from outside' and 'makes its own heat'. Even this is not a perfect split. Some big fish, like tuna, keep their muscles warm. A fish called the opah keeps its whole body a little warmer than the sea.",
    "examples": [
     "A desert lizard's body can reach about 40 °C on a hot afternoon.",
     "A tuna's swimming muscles stay warmer than the cold water it swims in.",
@@ -242,7 +242,7 @@
    "concept": "Keeping cool: shade, mud, panting and sweat",
    "status": "defined",
    "definition": "Animals cool down by finding shade, by wetting their bodies, or by letting water dry off them. Drying water carries heat away.",
-   "description": "When water dries off your skin, it takes heat with it. That is why a wet cloth on your forehead feels cool. People sweat, and the sweat dries and cools the skin. Dogs have very few sweat glands, so they pant. Water dries off their tongue and mouth. Buffaloes cannot sweat much, so they lie in mud or water. Elephants flap their huge ears. The ears are full of blood, and the moving air cools it. Animals that take their heat from outside cool down simply by moving into shade, into water or under the ground.",
+   "description": "When water dries off your skin, it takes heat with it. That is why a wet cloth on your forehead feels cool. People sweat, and the sweat dries and cools the skin. Dogs have very few sweat glands, so they pant. Water dries off their tongue and mouth. Buffaloes cannot sweat much, so they lie in mud or water. Elephants flap their huge ears. The ears are thin and full of blood vessels, and the moving air cools the blood. Animals that take their heat from outside cool down simply by moving into shade, into water or under the ground.",
    "examples": [
     "A buffalo lies in a muddy pond on a hot afternoon.",
     "An elephant flaps its ears in the summer heat.",
@@ -313,7 +313,7 @@
   {
    "concept": "Where body heat really comes from: atoms and the sun",
    "status": "defined",
-   "definition": "Heat is the jiggling of tiny particles called atoms. A warm body has fast-jiggling atoms. Nearly all the warmth of animals comes, in the end, from the sun.",
+   "definition": "Heat is the jiggling of tiny particles, such as atoms. A warm body has fast-jiggling atoms. Nearly all the warmth of animals comes, in the end, from the sun.",
    "description": "Everything is made of atoms, far too tiny to see. When something is warm, its atoms jiggle faster. A lizard on a sunny wall is warmed directly. Sunlight makes the atoms in its skin jiggle. A bird or a mammal is warmed another way. It eats food. Inside its cells, tiny parts called mitochondria break the food down slowly, and some of the energy comes out as heat. But that food's energy came from plants. And plants caught it from sunlight. So the lizard takes its warmth from the sun quickly, and the sparrow takes it slowly, through food. The sunlight left the sun about eight minutes before it reached the Earth.",
    "examples": [
     "A lizard on a wall is warmed by sunlight that left the sun about eight minutes earlier.",
@@ -328,7 +328,7 @@
    "concept": "When did animals first make their own heat?",
    "status": "debated",
    "definition": "",
-   "description": "Scientists agree that birds and mammals both make their own heat. Most think the two groups found this trick separately, long ago. But nobody is sure exactly when, or why, it started. And they argue about dinosaurs. Birds came from dinosaurs, so maybe some dinosaurs were warm too. The main ideas are below.",
+   "description": "Scientists agree that birds and mammals both make their own heat. Most think the two groups began to make their own heat separately, long ago. But nobody is sure exactly when, or why, it started. And they argue about dinosaurs. Birds came from dinosaurs, so maybe some dinosaurs were warm too. The main ideas are below.",
    "examples": [
     "Fossils of some dinosaurs show feathers, which could have kept them warm.",
     "Growth rings in dinosaur bones show how fast they grew, a clue to how warm they were."
@@ -343,7 +343,7 @@
      "explanation": "From the growth of dinosaur bones, they suggested dinosaurs were in between. They made some heat, but less than birds or mammals."
     },
     {
-     "who": "Scientists who stress the cost of heat",
+     "who": "Scientists who study very large animals",
      "explanation": "Giant dinosaurs were so big they would stay warm just from their size, like a big pot of water that cools slowly. So they did not need to make much heat."
     }
    ],
@@ -378,7 +378,7 @@
    "claim": "Cold-blooded animals have cold blood.",
    "who": "Many people, because of the old word 'cold-blooded'.",
    "for": "Frogs and fish feel cool to touch, and lizards are slow on cold mornings.",
-   "against": "A lizard basking in the sun can be warmer than a person. Its blood is as warm as its surroundings, not always cold.",
+   "against": "A lizard basking in the sun can be warmer than a person. Its body warms and cools with its surroundings, so it is not always cold.",
    "status": "rejected",
    "context": "This card is about a common mistake caused by an old word."
   },
@@ -402,7 +402,7 @@
    "claim": "The five groups are the natural, final way to sort vertebrates.",
    "who": "Many school books.",
    "for": "The five groups are easy to see and very useful.",
-   "against": "Scientists who sort by family trees point out that birds are really a branch of the reptiles, and are closer to crocodiles than crocodiles are to lizards. The groups are a helpful choice, not a law of nature.",
+   "against": "Scientists who sort by family trees point out that birds are a branch of the reptiles. Birds are closer cousins of crocodiles than lizards are. The groups are a helpful choice, not a law of nature.",
    "status": "debated",
    "context": "This card asks whether the five groups are the only right way to sort vertebrates."
   },
@@ -432,7 +432,7 @@
    "hint": "Follow your lunch back to the field and the sky."
   },
   {
-   "q": "Is it better to make your own heat, or to borrow it from the sun? Can one way be better for everyone?",
+   "q": "Is it better to make your own heat, or to take it from the sun? Can one way be better for everyone?",
    "kind": "big",
    "hint": "Think about food, cold nights and hot deserts."
   },
@@ -461,18 +461,18 @@
   "title": "Two Kinds of Warm",
   "mins": 12,
   "read_aloud": true,
-  "note": "The village of Napasar is a real place near Bikaner in Rajasthan. Noor, her Dadi and everything that happens are made up. The facts are real: garden lizards are slow until the sun warms them, sparrow chicks are born almost bare and must be kept warm by a parent, and a quilt or feathers only hold heat in.",
+  "note": "The village of Napasar is a real place near Bikaner in Rajasthan. Noor, her Dadi and everything that happens are made up. The facts are real: garden lizards are slow and darker in colour until the sun warms them, sparrow chicks are born almost bare and must be kept warm by a parent, and a quilt or feathers only hold heat in.",
   "text": [
    "In the desert village of Napasar, winter mornings are sharp and cold. The sand is cold under bare feet. The water in the matka is so cold it hurts your teeth. Noor, who was nine, ran out into the courtyard with her shawl trailing behind her.",
-   "She stopped. On the flat stone by the neem tree lay a garden lizard. Its orange throat had gone grey. Its legs were stuck out sideways like twigs. Noor crouched down. She waved her hand above it. It did not blink.",
+   "She stopped. On the flat stone by the neem tree lay a garden lizard. Its skin had gone a dull, dark grey. Its legs were stuck out sideways like twigs. Noor crouched down. She waved her hand above it. It did not blink.",
    "\"Dadi,\" she called. \"The girgit is dead.\"",
    "Her grandmother came out slowly, holding a steel tumbler of tea in both hands for warmth. She looked at the lizard for a long time. Then she sipped her tea.",
    "\"It is not dead,\" said Dadi. \"It is waiting.\"",
    "\"Waiting for what?\"",
    "Dadi pointed at the wall. A line of yellow light was creeping down it, brick by brick. \"For that,\" she said.",
-   "Noor did not believe her. But she sat on the step and watched. The light slid down the wall. It reached the edge of the stone. It touched the lizard's tail, then its back, then its head. For a long time nothing happened. Noor's toes were freezing. Then one eye opened. Then the other. The grey throat slowly turned orange again. The lizard lifted itself up on its front legs, like an old man getting out of a chair. Then, all at once, it was gone. A flick of tail, and it was up the neem tree.",
+   "Noor did not believe her. But she sat on the step and watched. The light slid down the wall. It reached the edge of the stone. It touched the lizard's tail, then its back, then its head. For a long time nothing happened. Noor's toes were freezing. Then one eye opened. Then the other. Its dark skin slowly turned paler and brighter. The lizard lifted itself up on its front legs, like an old man getting out of a chair. Then, all at once, it was gone. A flick of tail, and it was up the neem tree.",
    "Noor laughed out loud. \"It came back to life!\"",
-   "\"It was never gone,\" said Dadi. \"The girgit has no fire inside. It borrows the sun. At night it goes cold and slow, and in the morning it takes back the warmth. Every day.\"",
+   "\"It was never gone,\" said Dadi. \"The girgit has no fire inside. It takes its warmth from the sun. At night it goes cold and slow, and in the morning it takes back the warmth. Every day.\"",
    "Noor thought about that all morning. At school she told her friend Bhanwar, who said lizards were boring. Noor did not think they were boring at all.",
    "In the afternoon, a strong wind blew dust through the village. When Noor came home, she heard a thin cheeping from the corner of the courtyard. A baby sparrow lay on the ground under the roof beams. Its nest of straw and string was up in a gap in the beams, too high to reach. The chick was almost bare. It had only a few grey tufts and a big yellow mouth. It was shaking.",
    "Noor knew what to do. She had learned it that very morning. She carried the chick carefully to the flat stone by the neem tree, where the sun was still shining, and laid it down. \"Wait for the sun,\" she whispered to it, in Dadi's voice.",
@@ -480,7 +480,7 @@
    "But this time something was wrong. The chick did not get stronger. It shook harder. The sun on the stone was weak and low now, and it was sliding away up the wall, the opposite way from the morning. In a few minutes the stone would be in shadow. And then the long, freezing night would come.",
    "\"Dadi!\"",
    "Dadi came out with a lantern, though it was not dark yet. She looked at the chick. She looked at the sun going away. Then she looked at Noor.",
-   "\"The girgit can wait all night in the cold,\" she said. \"It goes slow and still, and nothing inside it breaks. But this little one is different. It has a fire inside. A tiny one. It must keep burning all night, or it goes out.\"",
+   "\"The girgit can wait all night in the cold,\" she said. \"It goes slow and still, and the cold does not harm it. But this little one is different. It has a fire inside. A tiny one. It must keep burning all night, or it goes out.\"",
    "\"Then it needs more sun!\"",
    "\"Look, the sun is leaving. What else keeps a fire from going out?\"",
    "Noor looked at the lantern. The flame was inside a glass, safe from the wind. She looked at her own shawl. She thought of how warm she stayed under her quilt at night, even when the room was icy. The quilt did not make any heat. It just held hers in.",
@@ -613,7 +613,7 @@
      "mins": 3,
      "do": "1. Cut out the cards and lay out the five family mats in a row. 2. Shuffle and deal 5 animal cards to each player. 3. Put the question cards in a pile.",
      "say": "Every animal on these cards has a backbone. They belong to five families: fish, amphibians, reptiles, birds and mammals. To put an animal on its family mat, you must answer a question about it.",
-     "kid": "Lay out the five mats. Fish, frogs, reptiles, birds, mammals. Get five animal cards. To place a card, answer a question about it.",
+     "kid": "Lay out the five mats: fish, amphibians, reptiles, birds and mammals. Get five animal cards. To place a card, answer a question about it.",
      "context": "This is the first step of Five Families, a card game about animals with backbones. Here you set up the game."
     },
     {
@@ -695,8 +695,8 @@
      "id": "s6",
      "mins": 3,
      "do": "Count the points and name a winner. Then ask the question below.",
-     "say": "Well played. Now one last question. Which family was hardest to fill? Why?",
-     "kid": "Count your points. Who won? Which family was hardest? Why?",
+     "say": "Well played. Now two last questions. Which family was hardest to fill, and why? Which animals surprised you?",
+     "kid": "Count your points. Who won? Which family was hardest? Which animal surprised you?",
      "context": "This is the end of Five Families. Players count points and talk about the trickiest family.",
      "ask": [
       {
@@ -745,7 +745,7 @@
     },
     {
      "kind": "tokens",
-     "title": "10 food tokens (paper grains of bajra)",
+     "title": "20 food tokens (paper grains of bajra)",
      "items": [
       "grain"
      ]
@@ -755,10 +755,11 @@
     "Mark a SUN corner and a SHADE corner with a chunni or a chalk line.",
     "Each player takes a role card: LIZARD or SPARROW.",
     "The caller shows a weather card. Players must act it out.",
-    "SUNNY MORNING: lizards run to the SUN corner to bask. Sparrows can play anywhere.",
+    "SUNNY MORNING: lizards run to the SUN corner to bask. Sparrows can play anywhere, and each one picks up a food token.",
     "HOT NOON: lizards run to SHADE. Sparrows pant with open mouths.",
-    "COLD NIGHT or SNOW: lizards freeze still until the next card. Sparrows puff up and huddle, but each sparrow must eat a food token to keep warm.",
-    "A sparrow with no food token left must sit out one round. A lizard that moves during COLD NIGHT sits out one round.",
+    "COLD NIGHT, WINTER WIND or SNOW: lizards freeze still until the next card. Sparrows puff up and huddle, but each sparrow must give up a food token to keep warm.",
+    "MONSOON RAIN: lizards and sparrows both run to SHADE to shelter from the rain.",
+    "A sparrow with no food token left must sit out one round. A lizard that moves in the cold sits out one round.",
     "Play 10 weather cards. Then talk about who did better in each kind of weather."
    ],
    "setup": [
@@ -783,7 +784,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Show the weather cards one by one. Call out each one loudly. After every COLD NIGHT or SNOW card, collect one food token from each sparrow.",
+     "do": "Show the weather cards one by one. Call out each one loudly. After every SUNNY MORNING, give each sparrow one food token. After every COLD NIGHT, WINTER WIND or SNOW card, collect one food token from each sparrow.",
      "say": "Sunny morning! Hot noon! Cold night! Remember, sparrows, you must spend a grain to stay warm in the cold.",
      "kid": "Listen for the weather. Act it out fast. Sparrows, give a grain in the cold.",
      "context": "This is the main part of Sun, Shade and Snow. The caller shows weather cards and players act out how their animal copes.",
@@ -890,17 +891,17 @@
     "data": [
      {
       "label": "Bare bottle",
-      "value": 7,
+      "value": 6,
       "emoji": "🍶"
      },
      {
       "label": "Dry woollen sock",
-      "value": 3,
+      "value": 4,
       "emoji": "🧦"
      },
      {
       "label": "Wet woollen sock",
-      "value": 10,
+      "value": 9,
       "emoji": "💧"
      }
     ]
@@ -932,7 +933,7 @@
        "q": "Does a sweater make heat?",
        "good": [
         "No. It keeps our own heat in.",
-        "It stops the cold getting to us."
+        "It stops our warmth from leaving."
        ]
       }
      ],
@@ -951,12 +952,12 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. A grown-up fills the three bottles with the same amount of warm water, using the measuring cup. 2. Put the lids on. 3. Put one bottle into a dry sock. 4. Soak the other sock in tap water, squeeze it once, and put the third bottle in it.",
+     "do": "1. A grown-up fills the three bottles with the same amount of warm water, using the measuring cup. 2. Put the lids on. 3. Put one bottle into a dry sock. 4. Soak the other sock in tap water, squeeze it until it stops dripping, and put the third bottle in it.",
      "say": "These bottles are our pretend animals. The warm water is their body heat. One has no fur. One has a dry fur coat. One has a wet coat, like a dog that has jumped in a pond.",
      "kid": "Three bottles are three animals. One has no coat. One has a dry coat. One has a wet coat.",
      "context": "This is step 2 of the fur coat test. Here you fill the bottles and dress two of them in socks.",
      "adult": true,
-     "parent": "Use water at about 45 to 50 °C, warm but safe to touch, like a hot bath. Measure each bottle at the start. They should all be within one degree. No water thermometer? A digital fever thermometer works if the water starts at about 42 °C, because most read only between 32 and 42 °C. Wash it well afterwards. Do not use a steel flask with two walls: it keeps heat in so well that you will see almost no change."
+     "parent": "Use water at about 45 °C: hot-bath warm, so you can keep a finger in it. Measure each bottle at the start. They should all be within one degree. No water thermometer? A digital fever thermometer works if the water starts at about 42 °C, because most read only between 32 and 42 °C. Dip only the tip, and wash it well afterwards. Do not use a steel flask with two walls: it keeps heat in so well that you will see almost no change."
     },
     {
      "id": "s3",
@@ -992,7 +993,8 @@
        ]
       }
      ],
-     "how": "e1"
+     "how": "e1",
+     "parent": "The bottles differ by only a few degrees, so wait for the number to settle before you read it. If the bare and dry-sock bottles are within one degree after 20 minutes, carry on and measure again at 30 minutes."
     },
     {
      "id": "s5",
@@ -1010,7 +1012,7 @@
        "The bottle in the wet woollen sock"
       ],
       "a": 1,
-      "why": "The dry wool traps still air, and still air lets heat out slowly. So that bottle stays warmest. Picking the wet sock usually means thinking 'more covering is always better'. But wet wool loses its trapped air, and the drying water carries heat away. That is why a wet animal gets cold so fast."
+      "why": "The dry wool traps still air, and still air lets heat out slowly. So that bottle stays warmest. Picking the wet sock usually means thinking 'more covering is always better'. But in wet wool, water fills the gaps where the air was, and the drying water carries heat away. That is why a wet animal gets cold so fast."
      },
      "how": "e1"
     },
@@ -1021,7 +1023,7 @@
      "say": "Now tell me what you found out, in three parts. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
      "context": "This is the last step of the fur coat test. You say what you found out, like a scientist.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a dry coat holds warmth in. What I saw: the bare bottle cooled 7 degrees, the dry sock bottle cooled only 3, and the wet sock bottle cooled 10. Why: dry wool traps still air, like fur and feathers. Wet wool does not, and the drying water takes heat away. Notice too that even the dry sock bottle kept cooling. A coat slows heat leaving, but never stops it."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a dry coat holds warmth in. What I saw: the bare bottle cooled 6 degrees, the dry sock bottle cooled only 4, and the wet sock bottle cooled 9. Why: dry wool traps still air, like fur and feathers. Wet wool does not, and the drying water takes heat away. Notice too that even the dry sock bottle kept cooling. A coat slows heat leaving, but never stops it."
     }
    ]
   },
@@ -1055,7 +1057,7 @@
      "buy": "b-thermo"
     },
     {
-     "item": "a sunny spot and a shady spot, such as a windowsill and a cupboard top",
+     "item": "a spot in direct sunlight, such as a balcony ledge or an open window, and a shady spot close to it",
      "qty": 1
     },
     {
@@ -1082,7 +1084,7 @@
     "data": [
      {
       "label": "In the sun",
-      "value": 9,
+      "value": 6,
       "emoji": "☀️"
      },
      {
@@ -1153,7 +1155,7 @@
       "why": "The sunny tumbler takes in the sun's warmth, just as a basking lizard does. Picking 'the same' means forgetting that a thing that cannot make its own heat warms up and cools down with its surroundings."
      },
      "how": "e2",
-     "parent": "No thermometer? Dip one finger in each tumbler at the end. The sunny one should feel clearly warmer. On a cloudy day, the difference will be small. Try again on a sunny day."
+     "parent": "Put the sunny tumbler where the sun falls straight on it, not through window glass, which blocks some of the warmth. No thermometer? Dip one finger in each tumbler at the end. The sunny one should feel warmer. On a cloudy day, the difference will be small. Try again on a sunny day."
     },
     {
      "id": "cer",
@@ -1162,7 +1164,7 @@
      "say": "Now tell me what you found out, in three parts. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
      "context": "This is the last step of the lizard on a wall test. You say what you found out, like a scientist.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: things that cannot make their own heat get warm from the sun. What I saw: the sunny tumbler went from 26 to 35 degrees, but the shady one only went to 28. Why: sunlight warms what it lands on. A lizard is warmed the same way."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: things that cannot make their own heat get warm from the sun. What I saw: the sunny tumbler went from 26 to 32 degrees, but the shady one only went to 28. Why: sunlight warms what it lands on. A lizard is warmed the same way."
     }
    ]
   },
@@ -1200,7 +1202,7 @@
      "qty": 1
     },
     {
-     "item": "a magnifying glass",
+     "item": "a magnifying glass, if you have one",
      "qty": 1,
      "buy": "b-lens"
     }
@@ -1474,7 +1476,7 @@
        "Frogs cannot see the dry ground"
       ],
       "a": 1,
-      "why": "A frog breathes partly through its thin skin, and the skin only works when it is damp. A wet ditch also keeps it cool. Picking 'dirty water' misses the real reason. The frog is looking for wet, not dirt."
+      "why": "A frog breathes partly through its thin skin, and the skin only works when it is damp. A wet drain also keeps it cool. Picking 'dirty water' misses the real reason. The frog is looking for wet, not dirt."
      }
     }
    ]
@@ -1545,16 +1547,16 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Ask your child to breathe on the back of their hand slowly with an open mouth, then pant quickly for ten seconds.",
+     "do": "Ask your child to pant quickly with an open mouth for ten seconds, then notice how their tongue and mouth feel.",
      "say": "Dogs hardly sweat. So they pant. Fast breaths dry the water off their tongue and mouth, and that carries heat away.",
-     "kid": "Dogs can't sweat much. They pant. Try panting for ten seconds. Feel the air?",
+     "kid": "Dogs can't sweat much. They pant. Pant for ten seconds. Does your tongue feel cooler and drier?",
      "context": "This is the second part of cool down like them. You pant like a dog."
     },
     {
      "id": "s3",
      "mins": 6,
      "do": "Make a big elephant ear from a sheet of newspaper. Flap it next to your face for 30 seconds.",
-     "say": "Elephants have huge ears full of blood. When they flap them, the moving air cools the blood. Then the cool blood flows back into the body. Buffaloes cannot sweat much either, so what do they do?",
+     "say": "Elephants have huge, thin ears full of blood vessels. When they flap them, the moving air cools the blood. Then the cool blood flows back into the body. Buffaloes cannot sweat much either, so what do they do?",
      "kid": "Flap a paper elephant ear. Feel the breeze? Elephants cool their blood this way.",
      "context": "This is the third part of cool down like them. You flap a big paper ear like an elephant.",
      "ask": [
@@ -1718,7 +1720,7 @@
      "say": "First we measure the air. Then we measure you. Let's do this every morning and every evening for three days.",
      "kid": "Measure the air. Then measure you. Write both numbers.",
      "context": "This is the daily step of my steady warmth. You measure the air and your body, morning and evening.",
-     "parent": "A healthy child's temperature under the arm is usually around 36 to 37 °C. If it is 38 °C or more, the child may have a fever."
+     "parent": "A healthy child's temperature under the arm is usually around 36 to 37 °C. If it is 37.5 °C or more under the arm, the child may have a fever."
     },
     {
      "id": "s2",
@@ -2030,13 +2032,13 @@
    "mins": 30,
    "problem": "Frogs breathe through their skin, so their skin must stay damp. Design a shady hideout that keeps a wet sponge damp for as long as possible in a sunny spot.",
    "constraints": [
-    "Use one kitchen sponge, soaked with the same amount of water, as the frog.",
+    "Use one kitchen sponge as the frog. Soak both sponges, then squeeze each until it stops dripping, so they hold the same water.",
     "The hideout must fit inside a shoebox.",
     "Place it in the same sunny spot as a bare wet sponge."
    ],
    "materials": [
     "2 kitchen sponges",
-    "a measuring spoon of water",
+    "water",
     "a shoebox",
     "a few leaves and a little soil from a potted plant, a small clay pot, a cloth, a plastic sheet"
    ],
@@ -2095,7 +2097,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Squeeze each sponge over its own cup. Compare the water.",
-     "say": "Which sponge gave more water? Your hideout kept your frog safe if it did.",
+     "say": "Which sponge gave more water? If it was the one in your hideout, your hideout kept your frog damp.",
      "kid": "Squeeze both sponges. Which gave more water?",
      "context": "This is the last step of a damp home for a frog. You squeeze the sponges to see which stayed wetter."
     }
@@ -2277,7 +2279,7 @@
       "Rohu"
      ],
      "a": 1,
-     "why": "Only mammals feed their babies milk, and a goat is a mammal. Picking hen is common, because hens look after their chicks. But they feed them grain and insects, not milk."
+     "why": "Mammal mothers feed their babies milk, and a goat is a mammal. Picking hen is common, because hens look after their chicks. But hen chicks peck grain and insects, and drink no milk."
     },
     {
      "t": "mcq",
@@ -2288,7 +2290,7 @@
       "Wet sock"
      ],
      "a": 1,
-     "why": "The dry sock bottle cooled only 3 degrees. That is the shortest bar. Picking 'wet sock' means reading the tallest bar as best. Here a tall bar means it lost the most heat.",
+     "why": "The dry sock bottle cooled only 4 degrees. That is the shortest bar. Picking 'wet sock' means reading the tallest bar as best. Here a tall bar means it lost the most heat.",
      "how": "e1",
      "chart": {
       "type": "bar",
@@ -2298,17 +2300,17 @@
       "data": [
        {
         "label": "Bare",
-        "value": 7,
+        "value": 6,
         "emoji": "🍶"
        },
        {
         "label": "Dry sock",
-        "value": 3,
+        "value": 4,
         "emoji": "🧦"
        },
        {
         "label": "Wet sock",
-        "value": 10,
+        "value": 9,
         "emoji": "💧"
        }
       ]
@@ -2331,7 +2333,7 @@
     {
      "t": "draw",
      "p": "Draw a fish. Draw arrows to show water going in at the mouth, over the gills and out at the side.",
-     "a": "Arrows go in at the mouth, past the gills behind the eye, and out of the gill slits.",
+     "a": "Arrows go in at the mouth, over the gills behind the eye, and out under the gill flap.",
      "why": "This shows the path water takes so the gills can take out its oxygen."
     }
    ]
@@ -2386,11 +2388,11 @@
      "p": "Look at the lizard on a wall chart. How many degrees more did the sunny tumbler warm than the shady one?",
      "opts": [
       "2 degrees",
-      "7 degrees",
-      "9 degrees"
+      "4 degrees",
+      "6 degrees"
      ],
      "a": 1,
-     "why": "The sunny tumbler warmed 9 degrees and the shady one warmed 2. 9 take away 2 is 7. Picking 9 means reading only one bar.",
+     "why": "The sunny tumbler warmed 6 degrees and the shady one warmed 2. 6 take away 2 is 4. Picking 6 means reading only one bar.",
      "how": "e2",
      "chart": {
       "type": "bar",
@@ -2400,7 +2402,7 @@
       "data": [
        {
         "label": "In the sun",
-        "value": 9,
+        "value": 6,
         "emoji": "☀️"
        },
        {
@@ -2533,11 +2535,11 @@
       "Thermometers do not work on lizards"
      ],
      "a": 1,
-     "why": "The lizard is warmer, but it borrowed that heat from the sun. The child makes her own. This is why 'cold-blooded' is a misleading word."
+     "why": "The lizard is warmer, but it took that heat from the sun. The child makes her own. This is why 'cold-blooded' is a misleading word."
     },
     {
      "t": "truefalse",
-     "p": "Birds and mammals probably found the trick of making their own heat separately.",
+     "p": "Birds and mammals probably began to make their own heat separately.",
      "a": true,
      "why": "True. Most scientists think birds and mammals came from different groups of ancestors and each became warm on its own. This is still being studied."
     },
@@ -2630,7 +2632,7 @@
       "Moved them all to another country"
      ],
      "a": 1,
-     "why": "She brought together hundreds of village women to protect the trees where the storks nest. The storks' numbers in Assam grew. She won the UN's Champions of the Earth award in 2022."
+     "why": "She brought together thousands of village women to protect the trees where the storks nest. The storks' numbers in Assam grew. She won the UN's Champions of the Earth award in 2022."
     },
     {
      "t": "draw",
@@ -2724,7 +2726,7 @@
     "To hide from birds"
    ],
    "a": 1,
-   "why": "Lizards borrow the sun's warmth. Until they are warm, their muscles are slow. Picking 'to hide' is unlikely, since a sunny wall is easy to see.",
+   "why": "Lizards take their warmth from the sun. Until they are warm, their muscles are slow. Picking 'to hide' is unlikely, since a sunny wall is easy to see.",
    "outcome": 2
   },
   {
@@ -2772,12 +2774,12 @@
     "They can fly"
    ],
    "a": 1,
-   "why": "Only mammals feed their young on milk. Picking 'lay eggs' is true of most other groups. Picking 'fly' fits bats, but also birds and insects.",
+   "why": "Mammal mothers make milk in their own bodies to feed their babies. No other group does. Pigeons feed chicks a soft food called crop milk, but it is not real milk. Picking 'lay eggs' is true of most other groups. Picking 'fly' fits bats, but also birds and insects.",
    "outcome": 4
   },
   {
    "t": "mcq",
-   "p": "In the fur coat test, the bare bottle cooled 7 degrees and the dry sock bottle cooled 3. What does this show?",
+   "p": "In the fur coat test, the bare bottle cooled 6 degrees and the dry sock bottle cooled 4. What does this show?",
    "opts": [
     "The sock made heat",
     "The sock slowed the heat escaping",
@@ -2795,17 +2797,17 @@
     "data": [
      {
       "label": "Bare",
-      "value": 7,
+      "value": 6,
       "emoji": "🍶"
      },
      {
       "label": "Dry sock",
-      "value": 3,
+      "value": 4,
       "emoji": "🧦"
      },
      {
       "label": "Wet sock",
-      "value": 10,
+      "value": 9,
       "emoji": "💧"
      }
     ]
@@ -2856,7 +2858,7 @@
   "Thermos flasks and cool boxes slow heat moving in or out, like a polar bear's fur.",
   "Poultry farmers use incubators to keep eggs at the warmth a hen would give them.",
   "Fish farmers pump air into ponds, so the fish have enough oxygen for their gills.",
-  "Zoos give reptiles warm lamps and basking stones, because they cannot make their own heat.",
+  "Zoos give reptiles warm lamps and basking stones, because they take their heat from outside.",
   "Wet khus curtains cool a room the way wet mud cools a buffalo: the water dries and carries heat away.",
   "Wildlife rescuers keep fallen baby birds warm, and try to return them to their nests."
  ],
@@ -2901,14 +2903,14 @@
  "open_questions": [
   {
    "q": "When did animals first start making their own body heat, and why?",
-   "why_open": "Body heat does not leave clear marks in fossils. Scientists use clues from bones, nostrils and growth rings, and they disagree."
+   "why_open": "Body heat does not leave clear marks in fossils. Scientists use clues from bones, nose bones and growth rings, and they disagree."
   },
   {
    "q": "Were dinosaurs warm like birds, cool like lizards, or in between?",
    "why_open": "Different dinosaurs may have been different. The clues from bones and feathers point in more than one direction."
   },
   {
-   "q": "Why did birds and mammals both find the trick of making heat, separately?",
+   "q": "Why did birds and mammals each begin to make their own heat, separately?",
    "why_open": "There are several ideas: to stay active at night, to care for young, or to run and fly for longer. None is proven."
   },
   {
@@ -2933,7 +2935,7 @@
   "How do you think a baby bird stays warm at night?",
   "Is a dolphin a fish? Why not?",
   "What did your body burn today to stay warm?",
-  "Would you rather make your own heat or borrow the sun's? Why?",
+  "Would you rather make your own heat or take it from the sun? Why?",
   "Which animals near us lay eggs? Which ones feed milk?"
  ],
  "jokes": [
@@ -2951,7 +2953,7 @@
   },
   {
    "j": "Why don't snakes need sweaters?",
-   "a": "They borrow the sun's."
+   "a": "The sun is their heater."
   },
   {
    "j": "What did the sparrow say on a cold morning?",
@@ -3024,9 +3026,9 @@
  ],
  "maths": [
   {
-   "problem": "In the fur coat test, the bare bottle started at 48 °C and ended at 41 °C. The dry sock bottle started at 48 °C and ended at 45 °C. How many degrees did each one cool? How many more degrees did the bare bottle cool?",
-   "answer": "The bare bottle cooled 7 degrees. The sock bottle cooled 3 degrees. The bare bottle cooled 4 degrees more.",
-   "explain": "Bare bottle: 48 take away 41 is 7. Sock bottle: 48 take away 45 is 3. Then 7 take away 3 is 4. So without its coat, the bottle lost 4 more degrees of warmth.",
+   "problem": "In the fur coat test, the bare bottle started at 48 °C and ended at 42 °C. The dry sock bottle started at 48 °C and ended at 44 °C. How many degrees did each one cool? How many more degrees did the bare bottle cool?",
+   "answer": "The bare bottle cooled 6 degrees. The sock bottle cooled 4 degrees. The bare bottle cooled 2 degrees more.",
+   "explain": "Bare bottle: 48 take away 42 is 6. Sock bottle: 48 take away 44 is 4. Then 6 take away 4 is 2. So without its coat, the bottle lost 2 more degrees of warmth.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "context": "This is about the fur coat test. Three bottles of warm water stood in for animals. One had no coat and one had a dry woollen sock. You measured how warm they were with a thermometer.",
    "how": "e1",
@@ -3038,17 +3040,17 @@
     "data": [
      {
       "label": "Bare",
-      "value": 7,
+      "value": 6,
       "emoji": "🍶"
      },
      {
       "label": "Dry sock",
-      "value": 3,
+      "value": 4,
       "emoji": "🧦"
      },
      {
       "label": "Wet sock",
-      "value": 10,
+      "value": 9,
       "emoji": "💧"
      }
     ]
@@ -3056,9 +3058,9 @@
    "why_maths": "Taking the last reading from the first tells us how much warmth each bottle lost. Then we can say exactly how much the coat helped."
   },
   {
-   "problem": "In the lizard on a wall test, the sunny tumbler warmed from 26 °C to 35 °C in 30 minutes. About how many degrees did it warm every 10 minutes, if it warmed evenly?",
-   "answer": "About 3 degrees every 10 minutes.",
-   "explain": "35 take away 26 is 9 degrees in 30 minutes. 30 minutes is 3 lots of 10 minutes. 9 divided by 3 is 3. So about 3 degrees every 10 minutes.",
+   "problem": "In the lizard on a wall test, the sunny tumbler warmed from 26 °C to 32 °C in 30 minutes. About how many degrees did it warm every 10 minutes, if it warmed evenly?",
+   "answer": "About 2 degrees every 10 minutes.",
+   "explain": "32 take away 26 is 6 degrees in 30 minutes. 30 minutes is 3 lots of 10 minutes. 6 divided by 3 is 2. So about 2 degrees every 10 minutes.",
    "math_unit": "math.division.sharing-and-grouping.L3",
    "context": "This is about the lizard on a wall test. A tumbler of cool water was put in the sun, like a basking lizard, and measured with a thermometer.",
    "how": "e2",
@@ -3070,7 +3072,7 @@
     "data": [
      {
       "label": "In the sun",
-      "value": 9,
+      "value": 6,
       "emoji": "☀️"
      },
      {
@@ -3103,7 +3105,7 @@
   {
    "problem": "In big body, small body, the small bottle cooled 6 degrees in 30 minutes and the big bottle cooled 3 degrees. How many times as fast did the small bottle cool?",
    "answer": "About 2 times as fast.",
-   "explain": "6 divided by 2 is 3, so 6 is 2 lots of 3. You can check: 3 + 3 = 6. So the small bottle lost its warmth about twice as fast.",
+   "explain": "6 divided by 3 is 2, so 6 is 2 lots of 3. You can check: 3 + 3 = 6. So the small bottle lost its warmth about twice as fast.",
    "math_unit": "math.division.sharing-and-grouping.L3",
    "context": "This is about the big body, small body activity. A big and a small bottle of warm water stood in for an elephant and a mouse.",
    "how": "a4",
@@ -3362,7 +3364,7 @@
  "roots": {
   "context": "We have been learning how fish, amphibians, reptiles, birds and mammals breathe, keep warm and have young. Now we ask what their warmth tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the fur coat test, even the bottle in the dry sock kept cooling. A bird or a mammal loses heat like that every minute. It stays at the same warmth only because it keeps making new heat from food. So a steady, warm body is work that never stops, day and night.",
+   "truth": "In the fur coat test, even the bottle in the dry sock kept cooling. A sparrow loses heat like that every minute, and makes new heat from food to replace it. A lizard lets its body cool at night and warms up again in the sun. That is why a sparrow must eat many times more than a lizard of the same weight.",
    "habit": "We say a sparrow 'is warm-blooded', as if its warmth were fixed, like the colour of its feathers. In fact its heat leaks away all the time, and has to be made again from food.",
    "evidence": "In the fur coat test, every bottle cooled, even the one in the dry sock. In the body diary, your temperature stayed near 37 °C while the air changed by many degrees. A mouse needs many times more food than a snake of the same weight, because it keeps making heat."
   },
@@ -3380,7 +3382,7 @@
    },
    {
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
-    "teaching": "Bhrigu learns that food is the ground of life. From food beings are born, by food they live, and into food they return.",
+    "teaching": "Bhrigu comes to see food as Brahman, the ground of all. From food beings are born, by food they live, and into food they return.",
     "link": "A sparrow or a child must eat every day to keep making body heat. Stop the food, and the warmth cannot be kept up."
    },
    {
@@ -3411,7 +3413,7 @@
   },
   "ask": [
    "Your body makes new heat every minute, even while you sleep. Is the warmth in you now the same warmth you had this morning?",
-   "A lizard saves food by letting the air decide how warm it is. You spend food to stay at 37 degrees. Which way would you choose, and why?",
+   "A lizard saves food by taking its warmth from the sun. You spend food to stay at 37 degrees. Which way would you choose, and why?",
    "If all five groups came from early fish, are they five groups or one family?"
   ],
   "art": "A child, a house lizard on a wall and a puffed-up pigeon on a window ledge in morning light, with small arrows of warmth leaving the child and the pigeon, and a bowl of food beside them."
