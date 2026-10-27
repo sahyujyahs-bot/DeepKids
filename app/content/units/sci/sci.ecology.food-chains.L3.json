@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Look out of a window or at a garden for two minutes. Can you find one living thing that is eating, or hunting? What is it eating? And who might eat it?",
-  "text": "Right now, somewhere near you, a lizard is waiting by a light for a moth. A caterpillar is chewing a leaf. A crow is pecking at something on the road. Each of them is part of a long line of eating that starts with sunlight on a leaf. Scientists call that line a food chain. In this unit, you will find the chains around your own home. You will see why there are so many ants and so few tigers. And you will find out what happened when a whole country decided that one small bird was its enemy.",
+  "text": "Right now, somewhere near you, a lizard is waiting by a light for a moth. A caterpillar is chewing a leaf. A crow is pecking at something on the road. Each of them is part of a long line of eating that starts with sunlight on a leaf. Scientists call that line a food chain. In this unit, you will find the chains around your own home. You will see why there are so many ants and so few tigers. And you will find out what happened when a government decided that one small bird was an enemy.",
   "art": "A window frame with three small scenes outside: a house gecko by a tube light with a moth, a green caterpillar on a leaf, and a crow on a wall."
  },
  "outcomes": [
@@ -96,13 +96,13 @@
   },
   {
    "term": "Energy",
-   "meaning": "What it takes to move, grow, keep warm and stay alive. Food carries energy from one living thing to the next.",
+   "meaning": "Energy is what it takes to move, grow, keep warm and stay alive. Food carries energy from one living thing to the next.",
    "example": "When you run, your body uses energy from the food you ate.",
    "art": "A child running, with a little glow passing from a plate of food into the child."
   },
   {
    "term": "Energy pyramid",
-   "meaning": "A drawing that shows how much food energy there is at each step of a food chain. The bottom step, the plants, is the biggest. Each step up is about ten times smaller.",
+   "meaning": "A drawing that shows how much food energy there is at each step of a food chain. The bottom step, the plants, is the biggest. Each step up holds about ten times less energy than the step below it.",
    "example": "A meadow has far more grass than grasshoppers, and far more grasshoppers than frogs.",
    "art": "A pyramid of four layers: a wide green layer of grass, then grasshoppers, then frogs, then one snake at the tiny top."
   },
@@ -121,7 +121,7 @@
   {
    "term": "Biomagnification",
    "meaning": "When a poison builds up more and more as it passes up a food chain. A big eater takes in the poison from every small thing it eats.",
-   "example": "A poison sprayed on insects ended up thousands of times stronger in fish-eating birds.",
+   "example": "DDT, a poison sprayed on insects, built up in fish-eating birds. Weight for weight, the birds held hundreds of thousands of times more DDT than the water.",
    "art": "A row of bottles getting darker: water, tiny plankton, small fish, big fish, an osprey."
   },
   {
@@ -168,7 +168,7 @@
    "concept": "Producers, consumers and the Sun",
    "status": "defined",
    "definition": "Producers make their own food from sunlight, air and water. Consumers eat other living things. Almost every food chain starts with a producer.",
-   "description": "Green plants and algae are producers. Their leaves catch sunlight and use it to build sugar out of air and water. Every animal is a consumer, because no animal can do that. Herbivores eat plants. Carnivores eat animals. Omnivores eat both. So when a tiger eats a deer, it is really eating grass that the deer turned into deer. And the grass was built with sunlight. There are a few strange chains that start in the dark. Deep in the sea, tiny living things make food from chemicals in the rocks instead of from light. So do tiny living things in a sealed cave in Romania, called Movile Cave.",
+   "description": "Green plants and algae are producers. Their leaves catch sunlight and use it to build sugar out of air and water. Every animal is a consumer, because no animal can do that. Herbivores eat plants. Carnivores eat animals. Omnivores eat both. So when a tiger eats a deer, it eats grass that the deer had built into its own body. And the grass was built with sunlight. A few food chains start in the dark. Deep in the sea, tiny living things make food from chemicals in the rocks instead of from light. So do tiny living things in a sealed cave in Romania, called Movile Cave.",
    "examples": [
     "A mango tree is a producer. A parrot eating its fruit is a herbivore, which is a kind of consumer.",
     "You are an omnivore if you eat dal and rice, and also eggs or fish.",
@@ -182,7 +182,7 @@
    "concept": "Food webs: chains that join up",
    "status": "defined",
    "definition": "A food web is many food chains joined together. It shows everything that eats, and is eaten by, each living thing in one place.",
-   "description": "Real animals rarely eat just one thing. A frog eats grasshoppers, flies, spiders and beetles. A frog is eaten by snakes, herons, owls and even big fish. Draw all of these arrows and the chains cross and join, like threads in a fishing net. That net is a food web. Webs are useful because they show something chains hide. If one food runs out, an animal can often switch to another. A web with many threads is harder to break than a single chain. Real webs are huge. Some scientists count every link, even tiny worms that live inside other animals. They find thousands of arrows in one small lake.",
+   "description": "Real animals rarely eat just one thing. A frog eats grasshoppers, flies, spiders and beetles. A frog is eaten by snakes, herons, owls and even big fish. Draw all of these arrows and the chains cross and join, like threads in a fishing net. That net is a food web. Webs are useful because they show something chains hide. If one food runs out, an animal can often switch to another. A web with many threads is harder to break than a single chain. Real webs are huge. Some scientists count every link, even parasites, the tiny worms and other creatures that live inside animals. Counted this way, one lake or marsh can have thousands of arrows.",
    "examples": [
     "A crow eats roti, insects, frogs, eggs and dead animals. It shows up in many chains at once.",
     "If a garden has fewer caterpillars one year, a bulbul can eat more fruit and spiders instead."
@@ -195,7 +195,7 @@
    "concept": "Scavengers and decomposers: the clean-up crew",
    "status": "defined",
    "definition": "Scavengers eat animals that are already dead. Decomposers break dead things down into nutrients that go back into the soil.",
-   "description": "Every living thing dies in the end, even a tiger. What eats it then? First come the scavengers: vultures, jackals, crows and ants. Then the decomposers: fungi, like mould and mushrooms, and bacteria, too small to see. Earthworms and woodlice help by chopping dead leaves into small pieces. The decomposers turn the dead body into simple things that plants can take in through their roots. So the end of every food chain feeds the beginning again. You will learn much more about this in the unit on decomposers.",
+   "description": "Every living thing dies in the end, even a tiger. What eats it then? First come the scavengers: vultures, jackals, crows and ants. Then the decomposers: fungi, like mould and mushrooms, and bacteria, too small to see. Earthworms and woodlice help by chopping dead leaves into small pieces. The decomposers break the dead body down into nutrients, simple materials that plants take in through their roots. So the end of every food chain feeds the beginning again. You will learn much more about this in the unit on decomposers.",
    "examples": [
     "A dead buffalo in a field: vultures, then flies and beetles, then bacteria and fungi.",
     "Fallen neem leaves in a garden become soil in a few months, because of fungi, bacteria and worms."
@@ -250,7 +250,7 @@
   {
    "concept": "Why there are many plants and few tigers",
    "status": "defined",
-   "definition": "So little food passes up each step. So there is much more life at the bottom of a food chain than at the top. Scientists draw this as a pyramid.",
+   "definition": "Only a little food passes up each step, so there is much more life at the bottom of a food chain than at the top. Scientists draw this as a pyramid.",
    "description": "Picture a forest in Madhya Pradesh. It has millions of grass plants and trees. It has thousands of deer. It has only a few tigers. A tiger eats about one deer-sized animal a week. That is about 50 a year. Tiger scientists in India, such as K. Ullas Karanth, have done the sums. To feed one tiger year after year, a forest needs about 500 deer and other prey animals alive at any time. And those 500 deer need a huge amount of grass and leaves. So a top predator needs a lot of land. That is why tigers need big forests, and why they are often the first to disappear when forests shrink. Charles Elton called this the pyramid of numbers, in 1927.",
    "examples": [
     "One tiger, about 500 deer and other prey, and more grass and leaves than you could count.",
@@ -322,7 +322,7 @@
    "concept": "Predators and prey keep changing each other",
    "status": "defined",
    "definition": "The number of predators depends on how much prey there is. The number of prey depends on how many predators hunt them. So the two often rise and fall in turns.",
-   "description": "Imagine a forest with lots of deer. The tigers eat well and raise many cubs. More tigers eat more deer, so the deer become fewer. Now the tigers go hungry, and fewer cubs survive. With fewer tigers, the deer increase again. Scientists saw this pattern in old fur-trading records from Canada, which go back more than 100 years. They counted the furs of lynx, a wild cat, and of snowshoe hares, its prey. Roughly every ten years, the hares became many, then the lynx became many, then both crashed. Charles Elton studied these records. Today scientists know that the hares' food, and their sicknesses, also play a part.",
+   "description": "Imagine a forest with lots of deer. The tigers eat well and raise many cubs. More tigers eat more deer, so the deer become fewer. Now the tigers go hungry, and fewer cubs survive. With fewer tigers, the deer increase again. Scientists saw this pattern in old fur-trading records from Canada, which go back more than 100 years. They counted the furs of lynx, a wild cat, and of snowshoe hares, its prey. Roughly every ten years, the hares increased, then the lynx increased, and then both crashed. Charles Elton studied these records. Today scientists know that the hares' food, and their sicknesses, also play a part.",
    "examples": [
     "Lynx and snowshoe hares in Canada rise and fall about every ten years.",
     "In the Deer and Tiger Toss game, the deer rise first, then the tigers, then the deer fall."
@@ -445,7 +445,7 @@
    "concept": "Poisons can build up as they go up a chain",
    "status": "defined",
    "definition": "Some poisons do not wash out of an animal's body. So a predator collects the poison from every animal it eats. The poison builds up more and more at each step. This is called biomagnification.",
-   "description": "In the 1940s and 1950s, farmers and towns sprayed a chemical called DDT to kill insects. A little of it washed into rivers and lakes. Tiny water plants and animals took in a little. Small fish ate thousands of them. Big fish ate hundreds of small fish. Fish-eating birds, like ospreys and eagles, ate many big fish. In the birds' bodies, the DDT was many thousands of times stronger than in the water. It made their eggshells so thin that the eggs broke when the parents sat on them. The American scientist and writer Rachel Carson told the world in her book Silent Spring, in 1962. Chemical companies attacked her and called her hysterical. She was very ill with cancer while she defended her work. Her evidence held up. DDT was banned for farming in the United States in 1972, and later in many other countries.",
+   "description": "In the 1940s and 1950s, farmers and towns sprayed a chemical called DDT to kill insects. A little of it washed into rivers and lakes. Tiny water plants and animals took in a little. Small fish ate thousands of them. Big fish ate hundreds of small fish. Fish-eating birds, like ospreys and eagles, ate many big fish. Weight for weight, the birds held hundreds of thousands of times more DDT than the water did. It made their eggshells so thin that the eggs broke when the parents sat on them. The American scientist and writer Rachel Carson told the world in her book Silent Spring, in 1962. Chemical companies attacked her and called her hysterical. She was very ill with cancer while she defended her work. Her evidence held up. DDT was banned for farming in the United States in 1972, and later in many other countries.",
    "examples": [
     "DDT: water, then plankton, then small fish, then big fish, then eggs that broke under ospreys.",
     "Today, people are told to eat big sea fish like shark and swordfish only sometimes. Mercury, a metal, builds up in them in the same way."
@@ -459,7 +459,7 @@
    "concept": "India's vultures: a medicine that passed one step up",
    "status": "defined",
    "definition": "In the 1990s and early 2000s, India lost more than 95 out of every 100 of its vultures. A medicine given to sick cattle was poisoning the vultures that ate the cattle after they died.",
-   "description": "Vultures used to gather in hundreds wherever a cow or buffalo died. They could clean a body to the bones in less than an hour. Then they began to die. An Indian bird scientist, Vibhu Prakash of the Bombay Natural History Society, was one of the first to notice. He had counted 353 pairs of nesting vultures in Keoladeo National Park, in Bharatpur, in the late 1980s. Within a few years the colony had crashed, and by the early 2000s it was gone. In 2004, scientists led by Lindsay Oaks showed the cause. It was diclofenac, a painkiller given to cattle. It stayed in the dead animals, and it destroyed the vultures' kidneys. This is not quite the slow build-up of DDT. One meal was enough. But it shows how what an animal eats passes up the web. India banned diclofenac for animals in 2006. Vets now use a medicine called meloxicam, which is safe for vultures. Without vultures, dead cattle lay rotting, and the number of street dogs grew. More people were bitten, and more caught rabies. In 2024, two economists, Eyal Frank and Anant Sudarshan, made an estimate. They think the loss of vultures led to about half a million extra human deaths between 2000 and 2005. That number is an estimate, and other scientists are still checking it.",
+   "description": "Vultures used to gather in hundreds wherever a cow or buffalo died. They could clean a body to the bones in less than an hour. Then they began to die. An Indian bird scientist, Vibhu Prakash of the Bombay Natural History Society, was one of the first to notice. In the late 1980s, about 350 pairs of vultures nested in Keoladeo National Park, in Bharatpur. By 1998 he found only a handful of nests, and soon the colony was gone. In 2004, scientists led by Lindsay Oaks showed the cause. It was diclofenac, a painkiller given to cattle. It stayed in the dead animals, and it destroyed the vultures' kidneys. This is not quite the slow build-up of DDT. One meal was enough. But it shows how what an animal eats passes up the web. India banned diclofenac for animals in 2006. Vets now use a medicine called meloxicam, which is safe for vultures. Without vultures, dead cattle lay rotting, and the number of street dogs grew. More people were bitten, and more caught rabies. In 2024, two economists, Eyal Frank and Anant Sudarshan, made an estimate. They think the loss of vultures led to about half a million extra human deaths between 2000 and 2005. That number is an estimate, and other scientists are still checking it.",
    "examples": [
     "Sick cow → painkiller → dead cow → vulture: the medicine passed one step up the chain.",
     "Fewer vultures → more rotting carcasses → more dogs → more dog bites and rabies."
@@ -472,11 +472,11 @@
     "title": "Nesting vulture pairs in Keoladeo National Park, Bharatpur",
     "x": "When",
     "y": "Nesting pairs",
-    "note": "The 353 pairs were counted by Vibhu Prakash in the late 1980s. By the early 2000s the colony was gone.",
+    "note": "About 350 nesting pairs were counted in the late 1980s. By 1998 Vibhu Prakash found only a handful of nests, and by the early 2000s the colony was gone.",
     "data": [
      {
       "label": "Late 1980s",
-      "value": 353,
+      "value": 350,
       "emoji": "🦅"
      },
      {
@@ -500,7 +500,7 @@
   {
    "concept": "Atoms go round, energy flows through",
    "status": "defined",
-   "definition": "When one living thing eats another, its atoms move into the eater. Atoms are used again and again for ever. But the energy is used only once. It leaves as heat and does not come back.",
+   "definition": "When one living thing eats another, its atoms move into the eater. Atoms are used again and again. But food energy passes through only once. It leaves as heat, and no living thing can use that heat as food.",
    "description": "Follow one carbon atom. Today it floats in the air. Tomorrow a blade of grass takes it in through a leaf and builds it into sugar. A goat eats the grass. The atom becomes part of the goat. One day the goat dies, and decomposers break it down. The atom goes back into the air, ready for another leaf. Atoms go round and round like this for millions of years. Energy is different. It arrives from the Sun as light. Plants store some of it in food. At each step of the chain, most of it turns into heat. That heat spreads out and slowly leaves the Earth as invisible light, into space. So life needs a fresh supply of sunlight every day. And the Sun's light itself comes from deep inside the Sun, where tiny hydrogen atoms are squeezed together to make helium.",
    "examples": [
     "Some of the carbon atoms in your body were in plants a few months ago. Some were in the air last year.",
@@ -515,7 +515,7 @@
    "concept": "Where are humans in the food web?",
    "status": "defined",
    "definition": "People often say humans are at the top of the food chain. Scientists who measured what people actually eat found that, on average, we are much lower down.",
-   "description": "Scientists give each living thing a number for how far up the food chain it is. Plants are 1. Animals that eat only plants are 2. Animals that eat those animals are 3, and so on. A tiger or a killer whale is about 4 or 5. In 2013, scientists led by Sylvain Bonhommeau worked out the number for humans. They used what people around the world eat. It was about 2.2. That is close to a pig or an anchovy, a small fish. This is because most of what people eat is rice, wheat, dal, vegetables and other plants. So what puts humans 'on top' is not what we eat. It is how strongly we change every food web on Earth, by farming, fishing, cutting forests and building cities.",
+   "description": "Scientists give each living thing a number for how far up the food chain it is. Plants are 1. Animals that eat only plants are 2. Animals that eat those animals are 3, and so on. A tiger or a killer whale is about 4 or 5. In 2013, scientists led by Sylvain Bonhommeau worked out the number for humans. They used what people around the world eat. It was about 2.2. That is close to a pig or an anchovy, a small fish. This is because most of what people eat is rice, wheat, dal, vegetables and other plants. What we eat puts us low down. But we change every food web on Earth more than any other animal does, by farming, fishing, cutting forests and building cities.",
    "examples": [
     "A family that eats mostly rice, dal and vegetables is eating close to the bottom of the food chain.",
     "Fishing boats catch so many big fish that some sea food webs now have fewer top predators than before."
@@ -553,7 +553,7 @@
  "agreed": [
   {
    "text": "Almost every food chain starts with a producer: a green plant or algae that makes food from sunlight.",
-   "evidence": "Animals have never been seen making their own food from light. Cut off the light to a pond, and its algae die first, then everything that eats them."
+   "evidence": "Scientists have never found an animal whose own body makes food from light. Cut off the light to a pond, and its algae die first, then everything that eats them."
   },
   {
    "text": "Only a small part of the food's energy, often about a tenth, passes on at each step. The rest is used for living and ends as heat.",
@@ -592,7 +592,7 @@
    "claim": "The tiger is the king of the forest. The top of the food chain is the strongest, most important place to be.",
    "who": "A common way of thinking, in stories and films",
    "for": "Nothing hunts a grown tiger. It can kill animals much bigger than itself.",
-   "against": "The tiger is the most dependent animal in the forest. It needs about 500 prey animals, and they need huge meadows. If the grass fails, the tiger starves. If the tiger disappears, the grass still grows. When a tiger dies, beetles, fungi and bacteria eat it.",
+   "against": "The tiger depends on more living things than almost any other animal in the forest. It needs about 500 prey animals, and they need huge meadows. If the grass fails, the tiger starves. If the tiger disappears, the grass still grows. When a tiger dies, beetles, fungi and bacteria eat it.",
    "status": "rejected",
    "context": "This card questions a common idea: that the animal at the top of a food chain is the most powerful."
   },
@@ -691,7 +691,7 @@
   {
    "q": "The same atoms go round and round through living things. Could an atom in your finger once have been in a dinosaur?",
    "kind": "deep",
-   "hint": "Atoms last for billions of years. Dinosaurs lived about 66 million years ago and more."
+   "hint": "Atoms last for billions of years. The last dinosaurs died out about 66 million years ago."
   }
  ],
  "story": {
@@ -1139,7 +1139,7 @@
       ],
       [
        "Decomposer",
-       "a living thing that breaks dead things into soil"
+       "a living thing that breaks down dead plants and animals into nutrients for the soil"
       ]
      ],
      "a": "pairs as given",
@@ -1223,7 +1223,7 @@
       "A goat"
      ],
      "a": 0,
-     "why": "Mould is a fungus. It breaks down the dead bread. Picking 'neem tree' usually means anything that grows is thought of as the same as a fungus. But a neem tree makes its own food from light."
+     "why": "Mould is a fungus. It breaks down the dead bread. Picking 'neem tree' may come from thinking that anything growing from the ground is like a fungus. But a neem tree makes its own food from sunlight."
     },
     {
      "t": "write",
@@ -1493,7 +1493,7 @@
     },
     {
      "t": "truefalse",
-     "p": "A poison like DDT can be stronger in a fish-eating bird than in the lake water.",
+     "p": "A poison like DDT can build up, so that a fish-eating bird holds far more of it than the same weight of lake water.",
      "a": true,
      "why": "True. Each eater keeps the poison from everything it ate, so it builds up at each step. This is called biomagnification.",
      "how": "a5",
@@ -1509,7 +1509,7 @@
       "They ran out of water"
      ],
      "a": 0,
-     "why": "The painkiller diclofenac stayed in the bodies of treated cattle. Vultures that ate them died of kidney damage. Picking 'too hot' was one of the early guesses before scientists found the real cause in 2004."
+     "why": "The painkiller diclofenac stayed in the bodies of treated cattle. Vultures that ate them died of kidney damage. Picking 'too hot' is a guess with no evidence behind it. At first, many scientists thought a disease was killing the vultures, until the real cause was found in 2004."
     },
     {
      "t": "write",
@@ -1694,7 +1694,7 @@
       "Mosquitoes are not in food webs"
      ],
      "a": 0,
-     "why": "Every animal eats more than one thing, so a new animal touches many threads in the web. Picking 'fish never eat larvae' is wrong: gambusia do eat them. The problem is what else they eat."
+     "why": "Most animals eat more than one thing, so a new animal touches many threads in the web. Picking 'fish never eat larvae' is wrong: gambusia do eat them. The problem is what else they eat."
     }
    ]
   }
@@ -1780,7 +1780,7 @@
      "do": "1. After 10 minutes, count the ants on each square and write the numbers down. 2. Count again at 20 minutes and at 30 minutes. 3. In between, read the story or play a game nearby.",
      "say": "Time to count. Count only the ants that are on the paper. If there are too many, count the ones touching the food.",
      "kid": "After 10 minutes, count the ants on each square. Write the numbers. Count again at 20 and 30 minutes.",
-     "parent": "Usually the sugar square fills up with ants, and the roti gets some. The salt and empty squares get almost none. Sometimes no ants come at all in 15 minutes. Then move the squares closer to a trail you can see, and start the clock again. If ants come to every square equally, they may just be crossing; count only the ants that stop at the food. Now and then a few ants visit the salt. Ants need a little salt, as we do, but salt gives them no energy. Some tiny ants also love oily or meaty crumbs. That is a real result: those ants are omnivores.",
+     "parent": "Usually the sugar square fills up with ants, and the roti gets some. The salt and empty squares get almost none. Sometimes no ants come at all in 15 minutes. Then move the squares closer to a trail you can see, and start the clock again. If ants come to every square equally, they may just be crossing. Then count only the ants that stop at the food. Now and then a few ants visit the salt. Ants need a little salt, as we do, but salt gives them no energy. Some tiny ants also love oily or meaty crumbs. That is a real result: those ants are omnivores.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -1833,7 +1833,7 @@
        "Both are salty"
       ],
       "a": 0,
-      "why": "Sugar is made from sugarcane, a plant. Roti is made from wheat, a plant. So both carry food energy that a plant made from sunlight. Salt comes from the sea or from rocks. It was never made by a living thing, so it gives ants no energy. Picking 'both are white' means looking at the colour, which is true of sugar and salt, but not of what ants need."
+      "why": "Sugar is made from sugarcane, a plant. Roti is made from wheat, a plant. So both carry food energy that a plant made from sunlight. Salt comes from the sea or from rocks. It was never made by a living thing, so it gives ants no energy. Picking 'both are white' does not fit: roti is not white, and salt is white too, yet the ants left the salt alone."
      },
      "chart": {
       "type": "bar",
@@ -2029,7 +2029,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Help your child draw a bar chart of bitten leaves, and one food chain from what you saw.",
-     "say": "Let's draw a bar for each plant. Then let's draw one real food chain from our garden.",
+     "say": "Let's draw a bar for each plant. Then let's draw one real food chain from our plants.",
      "kid": "Draw a bar for each plant. Then draw one real chain, like hibiscus → caterpillar → bulbul.",
      "check": {
       "t": "mcq",
@@ -2040,7 +2040,7 @@
        "Caterpillar → hibiscus → bulbul"
       ],
       "a": 0,
-      "why": "A food chain starts with the producer, the plant. Then each arrow points to the eater: the caterpillar eats the hibiscus, and the bulbul eats the caterpillar. Picking 'Bulbul → caterpillar → hibiscus' means the arrows are pointing at the food instead of at the eater. Picking 'Caterpillar → hibiscus' means the plant was put second, but a plant never eats a caterpillar."
+      "why": "A food chain starts with the producer, the plant. Then each arrow points to the eater: the caterpillar eats the hibiscus, and the bulbul eats the caterpillar. Picking 'Bulbul → caterpillar → hibiscus' means the arrows are pointing at the food instead of at the eater. Picking 'Caterpillar → hibiscus' means the plant was put second, but a hibiscus does not eat caterpillars."
      },
      "chart": {
       "type": "bar",
@@ -2334,7 +2334,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "100 grains of puffed rice (murmura), or 100 dried chana or rajma",
+     "item": "100 grains of puffed rice (murmura). If you have none, use 100 grains of uncooked rice, and crush the last grain with a spoon.",
      "qty": 100
     },
     {
@@ -2350,7 +2350,7 @@
      "qty": 1
     }
    ],
-   "safety": "If small children are nearby, use puffed rice, not hard chana, so nothing can be choked on.",
+   "safety": "Keep the grains away from babies and toddlers, who could choke on them.",
    "schedule": [
     {
      "day": 1,
@@ -2469,7 +2469,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Link this to the food chain.",
+     "do": "Talk about what this means for a frog in a food chain.",
      "say": "A frog that hops all day uses up its food like you just did. When a snake eats the frog, it only gets what is left in the frog's body. The hopping and the warmth are gone for ever.",
      "kid": "A frog uses its food to hop, just like you ran. When a snake eats the frog, the hops are gone. The snake gets only what is left.",
      "think": "You are warm right now, even sitting still. How much of your food do you think goes into just keeping warm?",
@@ -2499,9 +2499,8 @@
    "days": 1,
    "materials": [
     {
-     "item": "a ball of wool or string",
-     "qty": 1,
-     "buy": "b-wool"
+     "item": "a ball of wool, string or thick thread",
+     "qty": 1
     },
     {
      "item": "12 role cards: Sun, grass, neem tree, grasshopper, caterpillar, chital deer, frog, bulbul, rat snake, tiger, vulture, mushroom",
@@ -2640,7 +2639,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Tell the real story of DDT and Rachel Carson.",
-     "say": "In real lakes, DDT in fish-eating birds became many thousands of times stronger than in the water. It made their eggshells so thin that they broke. A scientist called Rachel Carson told the world in 1962, in a book called Silent Spring. People with money to lose attacked her. But she was right, and DDT was banned for farming in many countries.",
+     "say": "In real lakes, DDT built up in fish-eating birds. Weight for weight, the birds held hundreds of thousands of times more DDT than the water. It made their eggshells so thin that they broke. A scientist called Rachel Carson told the world in 1962, in a book called Silent Spring. People with money to lose attacked her. But she was right, and DDT was banned for farming in many countries.",
      "kid": "In real lakes, the birds at the top got the most DDT. Their eggshells got thin and broke. Rachel Carson told the world in 1962."
     },
     {
@@ -2903,9 +2902,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. With a torch, check your home with your child for still water: cooler trays, flower-pot plates, buckets, the fridge drip tray. 2. Look closely for tiny wriggling larvae. 3. Tip the water into a drain or a plant pot.",
+     "do": "1. With a torch, check your home with your child for still water: cooler trays, flower-pot plates, buckets, the fridge drip tray. 2. Look closely for tiny wriggling larvae. 3. Tip the water into the sink or onto dry soil, where the larvae cannot grow into mosquitoes.",
      "say": "Let's be mosquito detectives. Where in our home does water sit still for days? Look closely for tiny wrigglers.",
-     "kid": "With a grown-up, hunt for still water at home. Look for tiny wriggling larvae. Then tip the water into a drain.",
+     "kid": "With a grown-up, hunt for still water at home. Look for tiny wriggling larvae. Then tip the water into the sink.",
      "adult": true,
      "context": "This is the first step of the Mosquito Trouble challenge. You find where mosquitoes grow in your home, then plan how to cut them down using the food web."
     },
@@ -3001,7 +3000,7 @@
        "2,000 squares"
       ],
       "a": 0,
-      "why": "2,000 divided by 20 is 100. You can check: 100 × 20 = 2,000. Picking 40 usually comes from multiplying 2 × 20 instead of dividing. Picking 2,000 forgets that each square holds many deer."
+      "why": "2,000 divided by 20 is 100. You can check: 100 × 20 = 2,000. Picking 40 means dividing by 50, the number of animals one tiger eats in a year, instead of by 20. Picking 2,000 forgets that each square holds many deer."
      },
      "context": "This is the first step of the Room for a Tiger challenge. You work out how much forest a family of tigers needs, using the one-tenth rule of food chains."
     },
@@ -3011,7 +3010,7 @@
      "do": "1. Lay out 100 paper squares as a forest on the floor. 2. Draw water holes, thick bushes, villages, farms and roads. 3. Add corridors to other forests.",
      "say": "Now let's build it. Where will the tigers drink? Where will the cubs hide? Where do people live?",
      "kid": "Lay out your 100 squares. Draw water, bushes, villages and roads. Add a corridor to another forest.",
-     "parent": "100 squares of 1 kilometre is about the size of a city like Chandigarh. Real tiger reserves in India are usually bigger: many are between 500 and 3,000 square kilometres, including the parts where people live."
+     "parent": "100 squares, each 1 kilometre on every side, is about the size of a city like Chandigarh. Real tiger reserves in India are usually bigger: many are between 500 and 3,000 square kilometres, including the parts where people live."
     },
     {
      "id": "s3",
@@ -3116,14 +3115,14 @@
   },
   {
    "t": "mcq",
-   "p": "Which living thing breaks down dead plants and animals into soil?",
+   "p": "Which living thing breaks down dead plants and animals into nutrients for the soil?",
    "opts": [
     "A mushroom, which is a decomposer",
     "A tiger, which is a predator",
     "A mango tree, which is a producer"
    ],
    "a": 0,
-   "why": "Mushrooms and other fungi, and bacteria, are decomposers. Picking the mango tree usually means that anything growing from the soil is thought to be feeding it. But trees take from the soil. Decomposers give back to it.",
+   "why": "Mushrooms and other fungi, and bacteria, are decomposers. Picking the mango tree may come from thinking that whatever grows in soil also feeds it. But trees take nutrients from the soil. Decomposers give them back.",
    "outcome": 1
   },
   {
@@ -3264,7 +3263,7 @@
   },
   {
    "t": "mcq",
-   "p": "DDT was sprayed on insects and washed into a lake. Where did it become strongest?",
+   "p": "DDT was sprayed on insects and washed into a lake. Where did it build up the most?",
    "opts": [
     "In the fish-eating birds at the top",
     "In the water",
@@ -3470,8 +3469,8 @@
    "a": "It liked fast food."
   },
   {
-   "j": "What do you call a sleeping crocodile?",
-   "a": "A snap-shot waiting to happen."
+   "j": "What is a crocodile's favourite card game?",
+   "a": "Snap!"
   },
   {
    "j": "Why did the bee get married?",
@@ -3487,7 +3486,7 @@
   },
   {
    "j": "Why did the sun go to school?",
-   "a": "To make the plants brighter."
+   "a": "To get a little brighter."
   },
   {
    "j": "What did one carbon atom say to the other?",
@@ -3498,8 +3497,8 @@
    "a": "Nobody gives a hoot about a wet owl."
   },
   {
-   "j": "What does a mongoose do when it is happy?",
-   "a": "It goes on a snake-break dance."
+   "j": "What did the mongoose say to the snake after their fight?",
+   "a": "Let's hiss and make up."
   },
   {
    "j": "Why did the mosquito larva love the pond?",
@@ -3773,16 +3772,6 @@
    ]
   },
   {
-   "id": "b-wool",
-   "item": "A ball of wool",
-   "kind": "material",
-   "why": "For the wool food web in Pull One Thread.",
-   "url": "https://www.amazon.in/s?k=wool+ball+knitting",
-   "used_in": [
-    "a4"
-   ]
-  },
-  {
    "id": "b-book",
    "item": "Who Eats What? Food Chains and Food Webs, by Patricia Lauber (Let's-Read-and-Find-Out Science)",
    "kind": "book",
@@ -3939,7 +3928,7 @@
  "roots": {
   "context": "We have been learning who eats whom, and how food passes from plant to animal to animal. Now we ask what that passing tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In One Hundred Grains, only 1 grain of every 100 reached the frog. Each eater uses most of its food just to stay alive, and that energy leaves as heat. So a field of grass can feed many grasshoppers, fewer frogs and hardly any snakes. How many hunters can live at the top depends on how much plant food grows at the bottom.",
+   "truth": "In One Hundred Grains, only 1 grain of every 100 reached the frog. Each eater uses most of its food to stay alive, and that energy leaves as heat. So a field can feed many grasshoppers, fewer frogs and hardly any snakes. The hunter at the top depends on every step below it, down to the plants.",
    "habit": "We picture the animal at the top of a food chain as the strongest, the king. In numbers, the top holds the fewest animals, and each one depends on everything below it.",
    "evidence": "In One Hundred Grains, 100 grains became 10, then 1. Raymond Lindeman measured the same steep drop in a real lake, published in 1942. Tiger scientists in India estimate that one tiger needs about 500 deer and other prey alive in its forest."
   },
@@ -3952,8 +3941,8 @@
   "teachings": [
    {
     "source": "Bhagavad Gita 3.14 to 3.16",
-    "teaching": "Living beings come from food. Food comes from rain, and rain comes from yajna, an offering. The Gita calls this a wheel that has been set turning, and says that whoever takes from it without giving back lives in vain.",
-    "link": "The Gita describes a turning chain that feeds every living being. A food web is a real chain like that. Sunlight and rain grow plants, plants feed animals, and every dead body feeds the soil that grows new plants."
+    "teaching": "Living beings come from food. Food comes from rain, and rain comes from yajna, an offering. The Gita calls this a wheel that has been set turning, and says that whoever does not help keep it turning lives in vain.",
+    "link": "The Gita describes a wheel of food, rain and offering that feeds every living being. A food web turns in a similar way. Sunlight and rain grow plants, plants feed animals, and every dead body feeds the soil that grows new plants."
    },
    {
     "source": "The Lakota phrase Mitákuye Oyás'iŋ, 'all my relatives', from the Lakota people of North America",
@@ -3996,7 +3985,7 @@
  },
  "playtest": "Every activity was walked through as if done at home. The ant test (e1) needs a spot where ants already walk. It says what to do if none come in 15 minutes, and that results vary with the ant kind and season. The Leaf Bite Survey (e2) works with any three plants. Strong-smelling plants like tulsi often have few bites, which is a real result. The Tube-Light Food Chain (e3) is spread over about an hour after sunset, with about 25 minutes of watching. It works best in warm months, and says to look for spiders if no gecko comes. Deer and Tiger Toss (g2) was checked with a computer model of the rules: on one A4 sheet, with deer doubling and tigers needing 2 deer to live and 4 to have a cub, the deer usually rise, then the tigers, then both fall, within 12 rounds. This changed the game from two sheets to one sheet and from 10 to 12 rounds, and added the rule that 2 deer wander in if all are eaten. One Hundred Grains (a2) uses 10 heaps of 10 so a child is not counting 100 grains one by one. Pull One Thread (a4) works with 2 people if toys or chair legs hold the extra cards. Hungry Web (g1) and Journey of a Carbon Atom (a6) can be played alone. Use puffed rice rather than chana, and keep beads away, if a toddler is near. The mosquito challenge (c1) checks real water at home with a grown-up and empties it. It never asks you to leave water out to breed mosquitoes.",
  "how_we_found_out": {
-  "story": "In the late 1990s, Vibhu Prakash of the Bombay Natural History Society saw that the vultures at Keoladeo, in Bharatpur, were dying. Sick birds sat hunched with drooping heads for weeks, then fell from their perches. Soon vultures were vanishing all over India and Pakistan. Most scientists first thought a new disease was spreading, perhaps a virus, because so many birds died so fast. Others blamed pesticides. A team led by Lindsay Oaks, an American vet working with the Peregrine Fund, examined dead vultures in Pakistan. Most had kidneys that had failed, but the team found no germ that could explain it. So they asked what all the birds had eaten: dead cattle. They tested the birds for medicines given to cattle. They found the painkiller diclofenac in the vultures whose kidneys had failed. Then captive vultures fed meat from a treated animal died in the same way. The answer was published in 2004. The vultures had been poisoned by their food, one step up the food chain.",
+  "story": "In the late 1990s, Vibhu Prakash of the Bombay Natural History Society saw that the vultures at Keoladeo, in Bharatpur, were dying. Sick birds sat hunched with drooping heads for days, then fell from their perches. Soon vultures were vanishing all over India and Pakistan. Most scientists first thought a new disease was spreading, perhaps a virus, because so many birds died so fast. Others blamed pesticides. A team led by Lindsay Oaks, an American vet working with the Peregrine Fund, examined dead vultures in Pakistan. Most had kidneys that had failed, but the team found no germ that could explain it. So they asked what all the birds had eaten: dead cattle. They tested the birds for medicines given to cattle. They found the painkiller diclofenac in the vultures whose kidneys had failed. Then captive vultures fed meat from a treated animal died in the same way. The answer was published in 2004. The vultures had been poisoned by their food, one step up the food chain.",
   "who": "Vibhu Prakash of the Bombay Natural History Society, and Lindsay Oaks and his team",
   "when": "Late 1990s to 2004",
   "wrong_idea": "Many scientists first thought a new infectious disease, perhaps a virus, was killing the vultures."
