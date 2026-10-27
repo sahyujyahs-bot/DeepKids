@@ -18,7 +18,7 @@
   "I can sort by two rules at once, using a Venn diagram and a Carroll table.",
   "I can build and use a branching key made of yes or no questions. I can say which key is fastest.",
   "I can give examples of how people sort in real life, like kabadiwalas and recycling plants. I can say why the rule must fit the job.",
-  "I can tell how sorting led to big discoveries, such as the periodic table and the colour types of stars.",
+  "I can tell how sorting led to big discoveries, such as the periodic table and the types of stars.",
   "I can say what scientists still argue about when they sort, such as species, Pluto and sand. I can say why the rule we choose matters."
  ],
  "cards_mins": 20,
@@ -73,7 +73,7 @@
   },
   {
    "term": "Carroll table",
-   "meaning": "A table that sorts things by two yes or no rules. It has four boxes: yes and yes, yes and no, no and yes, no and no.",
+   "meaning": "A table that sorts things by two yes or no rules. It is also called a Carroll diagram. It has four boxes: yes and yes, yes and no, no and yes, no and no.",
    "example": "The boxes are shiny and hard, shiny and soft, dull and hard, dull and soft.",
    "art": "A four-box table with a small drawing in each box."
   },
@@ -86,7 +86,7 @@
   {
    "term": "Branching key",
    "meaning": "A chart of yes or no questions that finds one thing from a group, step by step. It looks like a tree turned on its side.",
-   "example": "'Is it hard?' Yes. 'Is it shiny?' No. So it is a brick.",
+   "example": "A key for a brick, ice, a balloon and paper asks 'Is it hard?' Yes. Then 'Is it shiny?' No. So it is the brick.",
    "art": "A tree-shaped chart: one question splitting into two, then two more, ending in four small drawings."
   },
   {
@@ -121,7 +121,7 @@
   },
   {
    "term": "Element",
-   "meaning": "One kind of atom, such as iron, carbon, oxygen or gold. Scientists know 118 elements, and everything is made from them.",
+   "meaning": "One kind of atom, such as iron, carbon, oxygen or gold. Scientists know 118 elements, and every material is made from them.",
    "example": "Iron is an element. Steel is made of iron and a little carbon.",
    "art": "A row of small boxes, each holding one coloured ball, labelled iron, carbon, gold."
   },
@@ -133,7 +133,7 @@
   },
   {
    "term": "Star type",
-   "meaning": "A group that astronomers use to sort stars by their colour. The colour tells how hot the surface of the star is.",
+   "meaning": "A group that astronomers use to sort stars by their light. The type tells how hot the surface of the star is, and it matches the star's colour.",
    "example": "The Sun is a yellow star. Betelgeuse is a red star.",
    "art": "A line of stars from blue on the left to red on the right."
   },
@@ -169,7 +169,7 @@
   },
   {
    "term": "Quasicrystal",
-   "meaning": "A strange solid whose atoms form a pattern that never repeats. Scientists once thought such a thing was impossible. Then one was found.",
+   "meaning": "A solid whose atoms are in an ordered pattern that never repeats. Scientists once thought such a thing was impossible. Then one was found.",
    "example": "A quasicrystal was found inside a meteorite from space.",
    "art": "A shape made of tiles that makes a five-pointed pattern but never repeats."
   }
@@ -283,7 +283,7 @@
    "concept": "Two rules at once: Venn and Carroll",
    "status": "defined",
    "definition": "A Venn diagram and a Carroll table both sort things by two rules at once. Each shows things that fit both, one, or neither.",
-   "description": "Sometimes one rule is not enough. A Venn diagram uses two overlapping circles, one for each rule. Things that fit both rules go in the overlap. Things that fit only one go in that circle alone. Things that fit neither go outside both circles. A Carroll table does the same job with four boxes. Its columns say yes or no to the first rule. Its rows say yes or no to the second. Both tools show four kinds of thing: both, only the first, only the second and neither. The Venn diagram is named after John Venn, an English thinker who used it in the 1880s. The Carroll table is named after Lewis Carroll, the author of Alice in Wonderland, who was also a maths teacher. He loved puzzles that sort things with logic.",
+   "description": "Sometimes one rule is not enough. A Venn diagram uses two overlapping circles, one for each rule. Things that fit both rules go in the overlap. Things that fit only one go in that circle alone. Things that fit neither go outside both circles. A Carroll table, also called a Carroll diagram, does the same job with four boxes. Its columns say yes or no to the first rule. Its rows say yes or no to the second. Both tools show four kinds of thing: both, only the first, only the second and neither. The Venn diagram is named after John Venn, an English thinker who used it in the 1880s. The Carroll table is named after Lewis Carroll, the author of Alice in Wonderland, who was also a maths teacher. He loved puzzles that sort things with logic.",
    "examples": [
     "Shiny circle and hard circle. A steel spoon goes in the overlap. A wooden spoon goes in 'hard' only. A foil ball goes in 'shiny' only. A woollen sock goes outside both.",
     "In a Carroll table, the same spoon goes in the box 'shiny and hard'."
@@ -361,7 +361,7 @@
    "concept": "Families of rules",
    "status": "defined",
    "definition": "The rules used for sorting materials come in families. They sort by material, property, use, origin or state.",
-   "description": "People use some kinds of rules again and again. One family sorts by what a thing is made of, such as wood, metal or glass. Another family sorts by properties, such as hard or soft, shiny or dull, bendy or stiff. A third sorts by use, such as things for cooking, writing or building. A fourth sorts by where a thing came from, such as natural things or made things. A fifth sorts by state, such as solid, liquid or gas. And some rules need a tool. A magnet attracts iron and steel, but not aluminium or copper, so it can sort them apart. Here we practise the skill that they all share. We choose a rule, apply it fairly, and see what the groups tell us.",
+   "description": "People use some kinds of rules again and again. One family sorts by what a thing is made of, such as wood, metal or glass. Another family sorts by properties, such as hard or soft, shiny or dull, bendy or stiff. A third sorts by use, such as things for cooking, writing or building. A fourth sorts by where a thing came from, such as natural things or made things. A fifth sorts by state, such as solid, liquid or gas. Some rules need a tool. A magnet attracts iron and most kinds of steel, but not aluminium or copper, so it can sort them apart. Here we practise the skill that they all share. We choose a rule, apply it fairly, and see what the groups tell us.",
    "examples": [
     "By material: all the steel things in the kitchen.",
     "By property: everything that is see-through.",
@@ -417,7 +417,7 @@
    "concept": "Sorting the atoms: Mendeleev's gaps",
    "status": "defined",
    "definition": "The periodic table sorts the elements by how they behave and by their weight. Gaps in it led to the discovery of new elements.",
-   "description": "Everything you can touch is made of atoms. There are only about 118 kinds, called elements. Iron is an element. So are carbon, oxygen, gold and helium. About ninety of them are found in nature. In 1869, 63 elements were known. A Russian chemist, Dmitri Mendeleev, sorted them by the weight of their atoms, and also by how they behave. Elements that behaved alike, such as the soft metals that fizz in water, kept turning up in the same column. His table worked, but not perfectly. Some places in his table had no card to fit. Mendeleev did something brave. He left the places empty and said that undiscovered elements would fill them. He even wrote what these elements would be like. Between 1875 and 1886, three of them were found: gallium, scandium and germanium. Their properties were close to what he had written. A good sort does more than tidy. It lets you guess what you have not found yet. Others had seen parts of the pattern before. John Newlands, in England, arranged elements in 1865 and was laughed at. One chemist asked him if he had tried listing them in alphabetical order. In 1887 he was given a medal for his discovery.",
+   "description": "Everything you can touch is made of atoms. There are only about 118 kinds, called elements. Iron is an element. So are carbon, oxygen, gold and helium. About ninety of them are found in nature. In 1869, 63 elements were known. A Russian chemist, Dmitri Mendeleev, sorted them by the weight of their atoms, and also by how they behave. Elements that behaved alike, such as the soft metals that fizz in water, kept turning up in the same column. His table worked, but not perfectly. In some places, no known element fitted the pattern. Mendeleev did something brave. He left those places empty and said that undiscovered elements would fill them. He even wrote what these elements would be like. Between 1875 and 1886, three of them were found: gallium, scandium and germanium. Their properties were close to what he had written. A good sort does more than tidy. It lets you guess what you have not found yet. Others had seen parts of the pattern before. John Newlands, in England, arranged elements in 1865 and was laughed at. One chemist asked him if he had tried listing them in alphabetical order. In 1887 he was given a medal for his discovery.",
    "examples": [
     "Mendeleev left a gap and predicted an element he called eka-silicon. In 1886 it was found and named germanium.",
     "Marguerite Perey, a French scientist who worked with Marie Curie's team, found the element francium in 1939. It filled one of the last empty places in the table."
@@ -430,27 +430,27 @@
    "concept": "Why the table works: electrons",
    "status": "defined",
    "definition": "Elements in the same column of the periodic table have the same kind of outer electrons. That is why they behave alike.",
-   "description": "Why do elements in the same column behave alike? The answer is hidden inside the atom. Every atom has tiny electrons around its edge. The outer electrons decide how an atom joins with others. Elements in the same column have the same number of outer electrons, or a very similar arrangement. So they act alike. Mendeleev did not know any of this. He found the pattern before anyone knew the reason. Later, in 1913, an English scientist named Henry Moseley used X-rays to find a whole number for each element, the atom number. It counts the protons in the middle of the atom. Sorting by that number put the table in perfect order. Moseley died at 27, in the First World War. Many scientists think this was one of the greatest losses to science. So Mendeleev's sort, made only from how elements behave, turned out to follow the inside of the atom.",
+   "description": "Why do elements in the same column behave alike? The answer is hidden inside the atom. Every atom has tiny electrons around its edge. The outer electrons decide how an atom joins with others. Elements in the same column have the same number of outer electrons, or a very similar arrangement. So they act alike. Mendeleev did not know any of this. He found the pattern before anyone knew the reason. Later, in 1913, an English scientist named Henry Moseley used X-rays to find a whole number for each element, its atomic number. It counts the protons in the middle of the atom. Sorting by that number put the table in perfect order. Moseley died at 27, in the First World War. Many scientists think this was one of the greatest losses to science. So Mendeleev's sort, made only from how elements behave, turned out to follow the inside of the atom.",
    "examples": [
     "Sodium and potassium both fizz in water. They sit in the same column and each has one outer electron.",
     "Neon, argon and helium hardly join with anything. They sit in the last column, with their outer electrons full."
    ],
    "perspectives": [],
    "art": "Three atoms drawn as a nucleus with rings of electrons, the outer ring highlighted, sitting in a column.",
-   "context": "Last card: Mendeleev sorted atoms. This card goes deeper and asks why the sort worked."
+   "context": "Mendeleev sorted the elements by how they behave, without knowing why his sort worked. This card goes inside the atom to find the reason."
   },
   {
    "concept": "Sorting the stars",
    "status": "defined",
-   "definition": "Astronomers sort stars into types by colour: O, B, A, F, G, K and M. The types show how hot the star's surface is.",
-   "description": "Look at the night sky. Stars are not all the same colour. Some are blue-white, some yellow, some orange and some red. From the 1880s, a team of women at the Harvard College Observatory in America sorted photographs of starlight. Williamina Fleming began as a maid in the director's home. He saw how clever she was and hired her, and she became one of the observatory's best star sorters. Annie Jump Cannon carried the work on. She lost much of her hearing as a young woman, and she worked for over forty years. She sorted about 350,000 stars. At her best she could place three stars in a minute. She put the star types in the order of seven letters, O B A F G K M, from the hottest stars to the coolest. Her order became the world's standard. The Sun is a G star. But what did the letters mean? In 1925 a young scientist, Cecilia Payne, showed that the types are really about temperature. She used a theory made in 1920 by an Indian scientist, Meghnad Saha. She also showed that stars are made mostly of hydrogen. A senior astronomer, Henry Norris Russell, told her this could not be right, so she wrote that it was probably not real. In 1929 he reached the same answer himself. Sorting by colour had uncovered what the stars are made of.",
+   "definition": "Astronomers sort stars into types by their light: O, B, A, F, G, K and M. The types show how hot the star's surface is, from blue-white and hottest to red and coolest.",
+   "description": "Look at the night sky. Stars are not all the same colour. Some are blue-white, some yellow, some orange and some red. From the 1880s, a team of women at the Harvard College Observatory in America sorted photographs of starlight. Each photograph spread a star's light into a thin rainbow crossed by dark lines. Williamina Fleming began as a maid in the director's home. He saw how clever she was and hired her, and she became one of the observatory's best star sorters. Annie Jump Cannon carried the work on. She lost much of her hearing as a young woman, and she worked for over forty years. She sorted about 350,000 stars by the pattern of lines in their light. At her best she could place three stars in a minute. She put the star types in the order of seven letters, O B A F G K M. Her order also ran from blue-white stars to red ones. It became the world's standard. The Sun is a G star. But what did the letters mean? In 1925 a young scientist, Cecilia Payne, showed that the types are really about temperature. She used a theory made in 1920 by an Indian scientist, Meghnad Saha. She also showed that stars are made mostly of hydrogen and helium. A senior astronomer, Henry Norris Russell, told her this could not be right, so she wrote that it was probably not real. In 1929 he reached the same answer himself. Sorting starlight had uncovered what the stars are made of.",
    "examples": [
     "Rigel, in the Orion constellation, is a blue-white B star. Betelgeuse, in the same constellation, is a red M star.",
     "The Sun is a yellow G star, with a surface at about 5,500 degrees Celsius."
    ],
    "perspectives": [],
    "art": "A long table with women in long dresses sorting glass photographs of star light, and a tall chart on the wall showing stars from blue to red.",
-   "context": "Sorting also works on things far away. This card is about how women at an observatory sorted stars by colour, and found out what stars are.",
+   "context": "Sorting also works on things far away. This card is about how women at an observatory sorted the light of stars, and found out what stars are.",
    "chart": {
     "type": "table",
     "title": "The star types, from hottest to coolest",
@@ -542,7 +542,7 @@
    "concept": "Your body is a sorting machine",
    "status": "defined",
    "definition": "Our bodies sort things by size and by pitch, using the shape of the parts inside. The brain makes groups too.",
-   "description": "Your body sorts things all day, without being told. Your kidneys are like two small sieves. Blood flows through them. The small bits, like water and salts, pass through to become urine. The blood cells and big proteins stay in the blood. Your ear sorts too. Inside it is a coiled tube shaped like a snail. High sounds shake the start of the tube. Low sounds shake the far end. So your ear sorts sounds by pitch, before your brain even hears them. Your brain sorts all the time as well. Even babies a few months old start to treat dogs as one kind of thing and cats as another. How the brain makes its groups so quickly, from so little, is still not fully understood.",
+   "description": "Your body sorts things all day, without being told. Your kidneys are like two small sieves. Blood flows through them. Small particles, like water and salts, pass through to become urine. The blood cells and big proteins stay in the blood. Your ear sorts too. Inside it is a coiled tube shaped like a snail. High sounds shake the start of the tube. Low sounds shake the far end. So your ear sorts sounds by pitch, before your brain even hears them. Your brain sorts all the time as well. Even babies a few months old start to treat dogs as one kind of thing and cats as another. How the brain makes its groups so quickly, from so little, is still not fully understood.",
    "examples": [
     "Kidneys: sort blood by the size of the pieces.",
     "The snail-shaped inner ear: sorts sounds from high to low.",
@@ -555,7 +555,7 @@
   {
    "concept": "Who decides the rule?",
    "status": "debated",
-   "description": "A sort is only as good as its rule, and someone chooses the rule. Many thinkers ask if the groups are out there in nature, waiting to be found, or if we make them up. The Greek thinker Plato wrote that a good thinker should divide things 'at the joints', like a good butcher. This means that nature has natural places to cut. Some elements really do seem to be natural groups. Every atom of gold is gold. Other groups, such as 'vegetable', seem to depend on our needs. Sorting rocks does them no harm. A pile does not change a rock. Sorting people is different. When we put people into boxes using one rule, we can forget everything else about them. Computers sort too, and they learn their rules from the examples we give them. In 2018, Joy Buolamwini and Timnit Gebru tested programs that sort faces. One program got about 35 in every 100 wrong for darker-skinned women. It got fewer than 1 in 100 wrong for lighter-skinned men. A likely reason is that the programs had learned from too few faces like theirs. A careful sorter asks: whose needs does this rule serve, and who does it leave out?",
+   "description": "A sort is only as good as its rule, and someone chooses the rule. Many thinkers ask if the groups are out there in nature, waiting to be found, or if we make them up. The Greek thinker Plato wrote that a good thinker should divide things 'at the joints', like a good butcher. This means that nature has natural places to cut. Some groups, like the elements, really do seem natural. Every atom of gold has 79 protons. Other groups, such as 'vegetable', seem to depend on our needs. Putting a rock in a pile does not change the rock. Sorting people is different. When we put people into boxes using one rule, we can forget everything else about them. Computers sort too, and they learn their rules from the examples we give them. In 2018, Joy Buolamwini and Timnit Gebru tested programs that sort faces. One program got about 35 in every 100 wrong for darker-skinned women. It got fewer than 1 in 100 wrong for lighter-skinned men. A likely reason is that the programs had learned from too few faces like theirs. A careful sorter asks: whose needs does this rule serve, and who does it leave out?",
    "examples": [
     "A tomato is a fruit for a botanist and a vegetable for a cook.",
     "A face program that works well for some people and badly for others."
@@ -580,7 +580,7 @@
   {
    "concept": "Other ways to sort the world",
    "status": "idea",
-   "description": "People in different places have sorted the world in different ways. More than two thousand years ago, Indian grammar writers such as Panini sorted the sounds of speech. They sorted them by where in the mouth each sound is made. The consonant rows of the Devanagari alphabet follow this. First come throat sounds, then palate, then roof of the mouth, then teeth, then lips. Say ka, cha and pa slowly, and feel where each sound is made. Old Indian thinkers also sorted nature into five elements: earth, water, fire, air and space. The Greeks used four, without space. Chinese thinkers used five phases: wood, fire, earth, metal and water. Some people see a likeness with solid, liquid, gas and plasma. Earth is like solid. Water is like liquid. Air is like gas. Fire is like plasma. This is a likeness, not the same idea. These old groups were about qualities such as hot, cold, wet and dry. Today's sort of matter is about atoms. Each way of sorting tells us what its makers cared about.",
+   "description": "People in different places have sorted the world in different ways. More than two thousand years ago, Indian grammar writers such as Panini sorted the sounds of speech. They sorted them by where in the mouth each sound is made. The consonant rows of the Devanagari alphabet follow this. First come sounds made in the throat, like ka. Next come sounds made with the tongue on the palate, like cha. Then come sounds made with the tongue curled back, like the hard ta. Then come sounds made at the teeth, like the soft ta, and last, sounds made at the lips, like pa. Say ka, cha and pa slowly, and feel where each sound is made. Old Indian thinkers also sorted nature into five elements: earth, water, fire, air and space. The Greeks used four, without space. Chinese thinkers used five phases: wood, fire, earth, metal and water. Some people see a likeness with solid, liquid, gas and plasma. Earth is like solid. Water is like liquid. Air is like gas. Fire is like plasma. This is a likeness, not the same idea. The Greek elements were about qualities such as hot, cold, wet and dry. Today's sort of matter is about atoms. Each way of sorting tells us what its makers cared about.",
    "examples": [
     "The Devanagari alphabet is sorted by where each sound is made.",
     "The Greek four elements and the Indian five elements."
@@ -613,8 +613,8 @@
    "evidence": "Mendeleev left gaps in his table in 1869. Gallium was found in 1875, scandium in 1879 and germanium in 1886. They matched what he had predicted."
   },
   {
-   "text": "Everything we touch is made from about 118 kinds of atoms, called elements. These can be sorted into the periodic table.",
-   "evidence": "Chemists have made and measured every one. The table's columns match how the atoms' outer electrons are arranged."
+   "text": "There are 118 known kinds of atom, called elements. Everything we touch is made from them, and they can be sorted into the periodic table.",
+   "evidence": "Chemists have found or made every one. The table's columns match how the atoms' outer electrons are arranged."
   },
   {
    "text": "The colour of a star tells how hot its surface is.",
@@ -622,7 +622,7 @@
   },
   {
    "text": "Sorting materials before recycling makes recycling work better.",
-   "evidence": "Recycling plants sort first because each material is melted, shredded or pulped in its own way. A bottle of glass mixed in with paper can spoil a whole batch."
+   "evidence": "Recycling plants sort first because each material is melted, shredded or pulped in its own way. Bits of glass mixed in with paper can spoil a whole batch of recycled paper."
   }
  ],
  "challenging": [
@@ -695,7 +695,7 @@
    "hint": "Each good question cuts the number of possibilities in half. Try doubling a number twenty times."
   },
   {
-   "q": "When astronomers sort stars by colour, what are they really sorting?",
+   "q": "Astronomers sort stars by their light, and the types match the stars' colours. What are they really sorting?",
    "kind": "deep",
    "hint": "A hot piece of iron glows red, then yellow, then white. What might colour tell you about a star?"
   },
@@ -712,7 +712,7 @@
   {
    "q": "Your ear sorts sounds before your brain does. How might a body part sort without a brain?",
    "kind": "deep",
-   "hint": "A sieve sorts by size: small bits fall through its holes. What could a coiled tube do with sound?"
+   "hint": "A sieve sorts by size: small things fall through its holes. What could a coiled tube do with sound?"
   },
   {
    "q": "If a thing does not fit any group, should we change the thing or change the groups?",
@@ -725,7 +725,7 @@
    "hint": "Is 'gold' a group nature made? What about 'vegetable'?"
   },
   {
-   "q": "Sorting rocks is harmless. Is sorting people ever harmless?",
+   "q": "Putting a rock in a pile does not change the rock. Can putting a person in a group change how others treat them?",
    "kind": "big",
    "hint": "A pile does not change a rock. What might a person feel? What does one rule hide about them?"
   },
@@ -745,7 +745,7 @@
    "hint": "Think of a times table with one number missing, or a story with a missing page."
   },
   {
-   "q": "In our story, the young girl could hear what the old man could not. Who in your family notices what others miss?",
+   "q": "In the story The Bell That Would Not Sing, Hira could hear high notes that her grandfather could not. Who in your family notices what others miss?",
    "kind": "big",
    "hint": "Every person sorts the world a little differently, because every person notices different things."
   },
@@ -758,7 +758,7 @@
  "roots": {
   "context": "We have been learning to sort things into groups. Now we ask what sorting tells us about ourselves and about the world.",
   "deep_truth": {
-   "truth": "Ask 'Is it hard?', and a steel spoon and a wooden spoon go in one group. Ask 'Is it shiny?', and they split apart. Neither spoon changed between the two sorts. So being in one group only tells you the things gave the same answer to one question.",
+   "truth": "Ask 'Is it hard?', and a steel spoon and a wooden spoon go in one group. Ask 'Is it shiny?', and they split apart. Neither spoon changed between the two sorts. So sharing a group shows only that two things gave the same answer to one question.",
    "habit": "We treat things in one group as the same kind of thing, as if the group told us what they are. A group only tells us how the things answered the one question we asked.",
    "evidence": "In One Heap, Three Rules, the same twelve things made different groups for each rule. The steel spoon and the wooden spoon were together under 'hard' and apart under 'shiny'."
   },
@@ -767,7 +767,7 @@
    "what_is_life": "Living things are sorters. Your kidneys sort your blood and your ear sorts sounds. A living body keeps what it needs and lets the rest go.",
    "what_is_this_world": "The world is made of about a hundred kinds of atom, joined in endless ways. Sorting is how we find the order inside all that variety."
   },
-  "thread": "DeepKids believes that behind the many things in the world there is one source. Sorting points the same way. A heap of spoons, bangles and socks is many different things. Sort them by what they are made of, and they fall into a few materials. Sort the materials, and they come down to about a hundred kinds of atom. Every one of those atoms is built from the same three tiny parts: protons, neutrons and electrons.",
+  "thread": "DeepKids believes that behind the many things in the world there is one source. Sorting points the same way. A heap of spoons, bangles and socks is many different things. Sort them by what they are made of, and they fall into a few materials. Sort the materials, and they come down to about a hundred kinds of atom. All of those atoms are built from just three kinds of tiny part: protons, neutrons and electrons.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.1.4 to 6.1.6",
@@ -782,7 +782,7 @@
    {
     "source": "Tao Te Ching 1",
     "teaching": "The way that can be spoken is not the eternal way. The name that can be named is not the eternal name.",
-    "link": "Groups are names we give. They are useful, but the world does not have to fit them. The platypus fitted none of the old groups, so the groups were changed."
+    "link": "Groups are names we give. They are useful, but the world does not have to fit them. The platypus did not fit the old groups, so biologists made a new group for it."
    }
   ],
   "science": [
@@ -924,7 +924,7 @@
     "One player is the Sorter. The Sorter secretly takes a rule card and does not show it.",
     "The Sorter turns over thing cards one at a time. Each goes on the YES mat or the NO mat, by the secret rule. The Sorter says nothing about the rule.",
     "After each card, the other players may guess the rule. A right guess after 3 cards wins 3 tokens. After 4 or 5 cards it wins 2 tokens. After 6 or more cards it wins 1 token. A wrong guess costs 1 token.",
-    "Any player may say 'Test it!'. Then the Sorter must show the test for that card. If the card was put in the wrong place, the Sorter loses a token.",
+    "Any player may say 'Test it!'. Then the Sorter must show how they decided about that card. If you have the real thing at home, test it together. If the card was put in the wrong place, the Sorter loses a token.",
     "When the rule is guessed, or after 8 cards, swap roles. Everyone should be the Sorter twice. The player with the most tokens wins."
    ],
    "flow": [
@@ -1108,7 +1108,7 @@
      "do": "1. Look at each gap. 2. For each gap, work out the border colour from the column. 3. Work out the bounce number from the numbers above and below. 4. Write the guesses on the guess sheet.",
      "say": "Mendeleev did this with real elements. A gap is not a problem. A gap is a clue. What colour should the missing card have? What bounce should it have?",
      "kid": "Look at each gap. Which colour belongs in its column? What bounce number fits the pattern? Write your guesses.",
-     "parent": "The colour of a gap comes from its column. Zib 6 is in the blue column. Zib 2 above it has bounce 3, so Zib 6 should have bounce 5. Zib 7 is in the green column, so bounce 3. Zib 12 is in the yellow column, so bounce 9."
+     "parent": "The colour of a gap comes from its column. The bounce number goes up by 2 at each step down a column. Zib 6 is in the blue column. Zib 2 above it has bounce 3, so Zib 6 should have bounce 5. Zib 7 is in the green column, between bounce 1 and bounce 5, so it should have bounce 3. Zib 12 is in the yellow column, below bounce 5 and bounce 7, so it should have bounce 9."
     },
     {
      "id": "s4",
@@ -1645,7 +1645,7 @@
       ],
       [
        "Annie Jump Cannon",
-       "stars, by their colour"
+       "stars, by the pattern of their light"
       ],
       [
        "Carl Linnaeus",
@@ -1669,8 +1669,8 @@
       "An orange star"
      ],
      "a": 2,
-     "why": "Blue-white stars are the hottest. Red stars are the coolest. Picking red is very common, because red makes us think of fire. But a gas flame is hotter in its blue part.",
-     "context": "Astronomers sort stars by colour. Blue-white means hot and red means cooler."
+     "why": "Blue-white stars are the hottest. Red stars are the coolest. Picking red is very common, because red makes us think of fire. But a piece of iron that glows red is the coolest a glowing thing can be. Heated more, it glows yellow, then white.",
+     "context": "Astronomers can tell how hot a star's surface is from its colour. Blue-white means hot and red means cooler."
     },
     {
      "t": "mcq",
@@ -1820,7 +1820,7 @@
     },
     {
      "t": "mcq",
-     "p": "Annie Jump Cannon sorted stars into seven types by colour. What did Cecilia Payne show in 1925 about these types?",
+     "p": "Annie Jump Cannon sorted stars into seven types by their light. What did Cecilia Payne show in 1925 about these types?",
      "opts": [
       "They are really a row of temperatures",
       "They are a row of sizes",
@@ -1828,7 +1828,7 @@
       "They are a row of distances"
      ],
      "a": 0,
-     "why": "Payne showed that the types are about how hot the surface of the star is. She also showed that stars are made mostly of hydrogen. Picking 'sizes' or 'distances' is a common guess, but colour in this case shows heat."
+     "why": "Payne showed that the types are about how hot the surface of the star is. She also showed that stars are made mostly of hydrogen and helium. Picking 'sizes' or 'distances' is a common guess, but the types show heat."
     },
     {
      "t": "mcq",
@@ -1879,13 +1879,13 @@
       "Everything leaves"
      ],
      "a": 0,
-     "why": "The small bits like water and salts pass through the sieve-like kidney. The big blood cells stay in the blood. Picking 'everything leaves' misses that sorting keeps something and lets go of something else."
+     "why": "Small particles like water and salts pass through the sieve-like kidney. The big blood cells stay in the blood. Picking 'everything leaves' misses that sorting keeps something and lets go of something else."
     },
     {
      "t": "mcq",
      "p": "Twenty good yes or no questions can tell apart more than a million things. Why?",
      "opts": [
-      "Each good question halves the possibilities, and halving twenty times gives a million",
+      "Each good question halves the possibilities, and twenty halvings take more than a million things down to one",
       "Each question adds a hundred",
       "Twenty is a magic number",
       "The questions are very long"
@@ -1910,7 +1910,7 @@
      "t": "truefalse",
      "p": "A star that looks red is hotter than a star that looks blue.",
      "a": false,
-     "why": "False. Red stars are cooler. Blue-white stars are hotter. A gas flame is also hotter in its blue part.",
+     "why": "False. Red stars are cooler. Blue-white stars are hotter. In the same way, a piece of iron glows red first, and only glows white when it is much hotter.",
      "context": "Astronomers use star colour to tell how hot a star's surface is."
     },
     {
@@ -1995,7 +1995,7 @@
      "do": "1. Write the rule 'Is it hard?' on a sheet. Explain the test: press a fingernail into each thing. If it leaves a mark, it is soft. 2. Test each thing. 3. Put the hard things on one sheet and the soft ones on the other. 4. Photograph the groups and write them in the results table.",
      "say": "Here is a fair test for hard and soft. Press a fingernail into it. If it leaves a mark, it is soft. We will use the same test on every single thing.",
      "kid": "Rule 1: hard or soft. Press your fingernail into each thing. A mark means soft. No mark means hard. Make two groups.",
-     "parent": "Some things are tricky. A candle takes a fingernail mark, so it is soft by this test, even though it feels solid. Clay and a foil ball may surprise you too. Let the test decide, not the guess.",
+     "parent": "Some things are tricky. A candle takes a fingernail mark, so it is soft by this test, even though it feels solid. A foil ball may surprise you too: it is shiny, but it takes a fingernail mark. Let the test decide, not the guess.",
      "check": {
       "t": "mcq",
       "q": "Why do we use the same fingernail test on every thing?",
@@ -2496,7 +2496,7 @@
      "qty": 1
     },
     {
-     "item": "a pencil and the results table",
+     "item": "the results table",
      "qty": 1
     }
    ],
@@ -2542,7 +2542,7 @@
        "One bowl is broken"
       ],
       "a": 0,
-      "why": "Looking alike does not mean sounding alike. The two bowls may be made of different materials, such as bell metal and brass. Sorting by sound found a difference that sorting by looks missed. Picking 'the same material' usually means the child trusts looks too much. Picking 'broken' is possible, but is not the only choice."
+      "why": "Looking alike does not mean sounding alike. The two bowls may be made of different materials, such as bell metal and brass. Sorting by sound found a difference that sorting by looks missed. Picking 'the same material' usually means the child trusts looks too much. A crack can also stop a bowl ringing, so check for one. But a crack is not the only reason."
      },
      "chart": {
       "type": "bar",
@@ -2862,7 +2862,7 @@
        "The grain is stuck to the tray"
       ],
       "a": 0,
-      "why": "Wind pushes everything equally, but a light thing is moved much more than a heavy thing. So the light husk blows away while the heavy grain falls straight back. Picking 'the wind blows only on the husk' misses that the wind pushes the grain too. The weight of each thing decides how far it moves."
+      "why": "The wind pushes on everything, but it moves a light thing much more than a heavy thing. So the light husk blows away while the heavy grain falls straight back. Picking 'the wind blows only on the husk' misses that the wind pushes the grain too. The weight of each thing decides how far it moves."
      }
     },
     {
@@ -2871,7 +2871,7 @@
      "do": "Look at the three piles: dal, stones and leaf flakes. Ask how many rules were used.",
      "say": "We made three piles with two different rules. What were the rules? Which rule used hands, and which used the wind?",
      "kid": "Look at your three piles. How many rules did you use? Which rule used your hands? Which used the wind?",
-     "think": "People have sorted grain for thousands of years. What are the earliest sorting tools? Hands. Then the wind. What next?"
+     "think": "People sorted grain by hand and with the wind for thousands of years. What tools do rice mills and flour mills use today?"
     }
    ],
    "context": "In this activity you sort stones and light flakes out of dal, as cooks and farmers have done for thousands of years. One rule uses your hands. The other uses the wind.",
@@ -2939,7 +2939,7 @@
      "say": "Step one, blow away the lightest bits. Step two, the magnet picks up the steel. Step three, water: what floats and what sinks? Each step has its own rule.",
      "kid": "Blow the paper away. Use the magnet on the clips. Put the rest in water. What floats? What sinks?",
      "adult": false,
-     "parent": "Expect paper to blow away and clips to jump to the magnet. Expect caps to float, and the rajma or chana to sink. A magnet attracts iron and steel, but not aluminium, copper or plastic. If your fridge magnet is too weak to lift a clip, use any stronger magnet you have.",
+     "parent": "Expect paper to blow away and clips to jump to the magnet. Expect caps to float, and the rajma or chana to sink. A magnet attracts iron and most steel, but not aluminium, copper or plastic. If your fridge magnet is too weak to lift a clip, use any stronger magnet you have.",
      "check": {
       "t": "mcq",
       "q": "Why should the blowing step come before the water step?",
@@ -3005,9 +3005,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Mix up the seven coloured circles. 2. Say: in a gas flame, the blue part is the hottest part, and the orange part is cooler. A hot iron bar glows red, then yellow, then white as it gets hotter. 3. Ask your child to sort the circles from hottest to coolest star.",
-     "say": "Look at these seven stars. A hotter flame is bluer. A blacksmith's iron glows red, then yellow, then white as it heats up. Can you sort the stars from hottest to coolest?",
-     "kid": "Mix up the colour circles. A hot flame is blue. Cooler is orange or red. Sort the stars from hottest to coolest.",
+     "do": "1. Mix up the seven coloured circles. 2. Say: a piece of iron in a fire glows red first. As it gets hotter, it glows yellow, then white. The hottest stars glow blue-white. 3. Ask your child to sort the circles from hottest to coolest star.",
+     "say": "Look at these seven stars. A blacksmith's iron glows red, then yellow, then white as it heats up. The hottest stars of all glow blue-white. Can you sort the stars from hottest to coolest?",
+     "kid": "Mix up the colour circles. Hot iron glows red, then yellow, then white. The hottest stars are blue-white. Sort the stars from hottest to coolest.",
      "check": {
       "t": "mcq",
       "q": "Which star is hotter on its surface, a blue star or a red star?",
@@ -3017,15 +3017,15 @@
        "They are the same"
       ],
       "a": 0,
-      "why": "For stars, blue means hotter and red means cooler. A gas flame works the same way, with a blue part hotter than a yellow part. Picking 'the red star' is very common, because red feels like fire. But a red-hot piece of iron can be heated more, until it glows white."
+      "why": "For stars, blue means hotter and red means cooler. Picking 'the red star' is very common, because red feels like fire. But a red-hot piece of iron can be heated more, until it glows yellow and then white. Stars hotter still glow blue-white."
      },
-     "context": "This is the first step of Star Sorter. Like Annie Jump Cannon, you sort stars by colour, and then find out what the colour means."
+     "context": "This is the first step of Star Sorter. Like Annie Jump Cannon, you sort stars into types, and then find out what the types mean."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Write letters under the colours. O is blue and B is light blue. A is white and F is light yellow. G is yellow, K is orange and M is red. 2. Show that the Sun is G. 3. Explain that Annie Jump Cannon sorted about 350,000 stars like this.",
-     "say": "Annie Jump Cannon gave each colour a letter: O, B, A, F, G, K and M. Our Sun is a G star. About how many stars did she sort? About 350,000. Imagine how many piles that is!",
+     "do": "1. Write letters under the colours. O is blue and B is light blue. A is white and F is light yellow. G is yellow, K is orange and M is red. 2. Show that the Sun is G. 3. Explain that Annie Jump Cannon sorted about 350,000 stars into these types.",
+     "say": "Annie Jump Cannon put the star types in order. She named them with seven letters: O, B, A, F, G, K and M. Our Sun is a G star. About how many stars did she sort? About 350,000. At her fastest, she sorted three stars in a minute.",
      "kid": "Write O B A F G K M under the colours. Our Sun is a G star. Annie sorted about 350,000 stars!",
      "parent": "Astronomers have long used a rhyme to remember the order, beginning 'Oh, Be A Fine...'. Your child can make up their own rhyme with the seven letters. For example: Our Baby Always Finds Great Kittens, Mostly.",
      "ask": [
@@ -3048,14 +3048,14 @@
      "think": "You are looking at light that left those stars hundreds of years ago. What else can colour tell us from far away?"
     }
    ],
-   "context": "In this activity you sort seven coloured circles, as Annie Jump Cannon sorted the colours of stars. You go from hottest to coolest.",
+   "context": "In this activity you sort seven coloured circles from hottest to coolest star, as Annie Jump Cannon sorted the stars into types.",
    "setup": [
     {
      "art": "Seven paper circles in a mixed pile on a table: blue, light blue, white, light yellow, yellow, orange and red.",
      "caption": "1. Mix up the seven coloured circles."
     },
     {
-     "art": "The seven circles laid in a line from blue on the left to red on the right, with a flame above showing the hottest part blue.",
+     "art": "The seven circles laid in a line from blue on the left to red on the right, with a glowing iron rod above, red at one end and white-hot at the other.",
      "caption": "2. Sort from hottest to coolest. Blue is hottest. Red is coolest."
     },
     {
@@ -3403,7 +3403,7 @@
      "do": "1. Try the plan. 2. Time it. 3. Count the steps. 4. Try one change and time it again.",
      "say": "Try your plan and time it. Then change one thing and try again. Which version is faster?",
      "kid": "Try your plan. Time it. Change one thing. Try again. Which is faster?",
-     "parent": "A magnet first is usually best. Then blow or toss for the leaves. Then use a sieve or colander: rice falls through, and the rajma and beads stay. Pick out the rajma, or try water if your beads float. If a step does not work, look for one property where the two kinds differ, such as size, weight or floating, and use a tool that sorts by it."
+     "parent": "A magnet first is usually best. Then blow or toss for the leaves. Then shake the rest in a colander or a sieve with big holes: rice falls through, and the rajma and beads stay. If the rice will not pass, tilt the tray and tap it, so the round beads roll away. Pick out the rajma, or try water if your beads float. If a step does not work, look for one property where the two kinds differ, such as size, weight or floating, and use a tool that sorts by it."
     },
     {
      "id": "s4",
@@ -3702,7 +3702,7 @@
     "How far away it is"
    ],
    "a": 0,
-   "why": "Annie Jump Cannon sorted the stars by colour, and Cecilia Payne showed that colour tells temperature. Picking 'how far' is a common guess, but colour here tells heat.",
+   "why": "Annie Jump Cannon sorted the stars into these types by their light, and Cecilia Payne showed that the types tell temperature. Picking 'how far' is a common guess, but the letters here tell heat.",
    "outcome": 6
   },
   {
@@ -3788,7 +3788,7 @@
    "art": "A kabadiwala shop with sorted piles."
   },
   {
-   "text": "The kitchen, where steel is on one shelf, plastic on another and spices in a masala dabba sorted by use.",
+   "text": "In the kitchen, steel things may sit on one shelf and plastic things on another. The spices are kept together in a masala dabba.",
    "art": "A masala dabba with seven small bowls of spices."
   },
   {
@@ -4269,7 +4269,7 @@
    "id": "b-periodic",
    "item": "The Periodic Table: Elements with Style!, by Adrian Dingle",
    "kind": "book",
-   "why": "A picture book that introduces the elements, with a friendly drawing for each family of the periodic table.",
+   "why": "A picture book that introduces the elements, with a friendly cartoon character for each element.",
    "url": "https://www.amazon.in/s?k=The+Periodic+Table+Elements+with+Style+Adrian+Dingle",
    "used_in": [
     "g2"
@@ -4316,7 +4316,7 @@
   },
   {
    "q": "How does a farmer winnow grain?",
-   "a": "Tosses it in a flat basket so the wind blows the light husk away."
+   "a": "The farmer tosses it in a flat basket, and the wind blows the light husk away."
   },
   {
    "q": "Is a tomato a fruit or a vegetable?",

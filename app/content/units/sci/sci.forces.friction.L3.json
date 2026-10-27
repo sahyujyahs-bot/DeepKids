@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Try this. Hold a pencil between two fingers, as lightly as you can. Now imagine your fingers and the pencil were perfectly slippery, like wet soap. Could you still write your name?",
-  "text": "Nearly four thousand years ago, workers in Egypt moved a huge stone statue across the desert. It was as heavy as ten elephants. They dragged it on a wooden sledge, a big flat sled with no wheels. An old wall painting shows the scene. At the front, one man is doing something strange. He is pouring water onto the sand. Why would he do that? By the end of this unit, you will know. It has to do with friction, the grip between things that touch.",
+  "text": "Nearly four thousand years ago, workers in Egypt moved a huge stone statue across the desert. It was about as heavy as ten elephants. They dragged it on a wooden sledge, a big flat sled with no wheels. An old wall painting shows the scene. At the front, one man is doing something strange. He is pouring water onto the sand. Why would he do that? By the end of this unit, you will know. It has to do with friction, the grip between things that touch.",
   "art": "The tomb painting idea: rows of men pulling ropes, a giant statue on a sledge, one small figure at the front pouring water from a jar onto the sand."
  },
  "outcomes": [
@@ -154,7 +154,7 @@
    "concept": "What friction is",
    "status": "defined",
    "definition": "Friction is a force that acts where two surfaces touch. It works against sliding, or against something starting to slide.",
-   "description": "Friction only appears when two things touch and one is being pushed or pulled to slide. Friction never makes things slide. It always acts against sliding. Think of a book lying still on a flat table. Nobody is pushing it, so there is no friction on it at all. Now give the book a gentle push. Friction pushes back the opposite way, and the book soon stops.",
+   "description": "Friction only appears when two things touch and one of them is sliding, or is being pushed or pulled to slide. It always acts against the sliding. Think of a book lying still on a flat table. Nobody is pushing it, so there is no friction on it at all. Now give the book a gentle push. Friction pushes back the opposite way, and the book soon stops.",
    "examples": [
     "A ball rolling on grass slows down and stops. The grass rubs against it.",
     "When you walk, your foot pushes back on the ground. Friction pushes your foot forward, so you move ahead.",
@@ -384,7 +384,7 @@
    "concept": "Zero friction exists: superfluids",
    "status": "defined",
    "definition": "A superfluid is a liquid that flows with no friction at all. Scientists make one by cooling helium to about 271 degrees below zero.",
-   "description": "That is colder than anywhere in nature on Earth, and close to the coldest anything can ever be. At this cold, the strange rules of quantum physics show up at a size we can see. Quantum physics is the science of the very tiniest things. The helium atoms stop acting like separate little balls. They move together, like one single wave. Nothing rubs against anything. So the liquid can flow through gaps far too tiny for water. It can climb up the walls of its cup. Once stirred, it keeps swirling without slowing down. It was discovered in 1937 and 1938. Pyotr Kapitsa found it in Moscow. John Allen and Don Misener found it separately in Cambridge, England.",
+   "description": "That is colder than anywhere in nature on Earth, and close to the coldest anything can ever be. At this cold, the strange rules of quantum physics show up at a size we can see. Quantum physics is the science of the very tiniest things. The helium atoms stop acting like separate little balls. They move together, like one single wave. Because the atoms move as one, there is nothing inside the liquid to rub. So the liquid can flow through gaps far too tiny for water. It can climb up the walls of its cup. Once stirred, it keeps swirling without slowing down. It was discovered in 1937 and 1938. Pyotr Kapitsa found it in Moscow. John Allen and Don Misener found it separately in Cambridge, England.",
    "examples": [
     "Stir a superfluid and it keeps going round and round without slowing.",
     "It creeps up and over the rim of its cup as a very thin layer."
@@ -589,7 +589,7 @@
    "hint": "Try the same chappal on two different floors. Then try two different chappals on the same floor."
   },
   {
-   "q": "In this unit's story, workers in ancient Egypt drag a giant statue across the sand. The strong pullers are praised. The man pouring water on the sand is laughed at, yet his small job is what lets the statue move. Who gets remembered for big achievements, and who gets forgotten?",
+   "q": "In this unit's story, workers in ancient Egypt drag a giant statue across the sand. The strong pullers seem to do the real work. The man pouring water on the sand is laughed at, yet his small job is what lets the statue move. Who gets remembered for big achievements, and who gets forgotten?",
    "kind": "big",
    "hint": "Who 'poured the water' in your family or school today? Whose small job made everything easier?"
   },
@@ -601,7 +601,7 @@
   {
    "q": "Your knees rub every time you move, for eighty years or more. How might a body make something more slippery than ice?",
    "kind": "deep",
-   "hint": "Think about what is wet, soft, and keeps repairing itself."
+   "hint": "Think about the smooth, soft layer on the ends of the bones, and the slippery fluid between them."
   },
   {
    "q": "Scientists think even 'empty' space might cause a tiny friction. So is anything truly empty?",
@@ -680,7 +680,7 @@
       "Lighting a matchstick",
       "Pushing a heavy almirah across the floor",
       "A violin bow on the strings",
-      "Shoes on the polished temple floor",
+      "Bare feet on the polished temple floor",
       "Moving a cart full of sugarcane",
       "TEST IT: rub your palms together 10 times. Do they feel warm or cold?",
       "TEST IT: slide a coin across paper, then across a cloth. Where does it stop sooner?",
@@ -719,7 +719,7 @@
      "do": "1. Lay the two mats on the floor, GRIP on one side and SLIP on the other. 2. Shuffle the 24 situation cards and put them face down in a pile. 3. Put the idea tokens in a bowl.",
      "say": "Friction is the grip between two things that touch. Every card shows a moment from everyday life. For each one, we decide together. Do we want more friction here, or less?",
      "kid": "Put the two mats on the floor: GRIP and SLIP. Mix up the cards. Put them face down. For each card, decide. Do we want more grip, or more slip?",
-     "context": "This is the first step of Grip or Slip?. It is a card game about where we want friction, and where we don't. Here you set up the game."
+     "context": "This is the first step of the game Grip or Slip. It is a card game about where we want friction, and where we don't. Here you set up the game."
     },
     {
      "id": "s2",
@@ -921,7 +921,7 @@
    "setup": [
     {
      "art": "A board game sheet showing six pictures of a child's day: waking up, eating, walking, drawing, playing, sleeping, with a die beside it.",
-     "caption": "1. Roll the die and go to that moment of the day."
+     "caption": "1. Roll the dice and go to that moment of the day."
     },
     {
      "art": "A child acting out sliding off a bed in a world with no friction, arms flailing, laughing.",
@@ -1128,9 +1128,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw a shoe resting on a slope. Draw one arrow for the way the shoe wants to slide. Draw another arrow for friction.",
+     "p": "Draw a shoe resting on a slope. Draw one arrow for the way the shoe would slide. Draw another arrow for friction.",
      "a": "The slide arrow points down the slope. The friction arrow points up the slope, along the surface.",
-     "why": "Friction acts along the surface, against the way the shoe wants to slide.",
+     "why": "Friction acts along the surface, against the way the shoe would slide.",
      "art": "A blank slope with a shoe on it."
     }
    ]
@@ -1680,7 +1680,7 @@
    ],
    "materials": [
     {
-     "item": "a long flat board or tray, about 30 to 40 cm long (a big hardback book also works)",
+     "item": "a long flat board, about 30 to 40 cm long, such as a chopping board or a tray (a big hardback book also works)",
      "qty": 1
     },
     {
@@ -1827,7 +1827,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Now say or write three things. What do I think? What did I see? Why did it happen?",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the rubber chappal grips best. What I saw: it stayed on until the board was 16 cm high, but the sock slid at 8 cm. Why: rubber is soft and grippy, and its grooves catch on the board."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the rubber chappal grips best. What I saw: it stayed on until the board was 16 cm high, but the sock slid at 8 cm. Why: rubber is soft, so it presses into the tiny bumps of the board and grips them."
     }
    ],
    "context": "This is the slope test. You put a shoe on a flat board, then slowly lift one end until the shoe slides. The higher you can lift it first, the better that shoe grips.",
@@ -1898,7 +1898,7 @@
    ],
    "materials": [
     {
-     "item": "two notebooks of the same size, each with at least 40 pages, such as school exercise books or old magazines",
+     "item": "two thick notebooks of the same size, each with about 150 pages or more, such as school long books or old paperback books",
      "qty": 2
     }
    ],
@@ -1999,7 +1999,7 @@
    "days": 1,
    "question": "Does wet sand make a sledge easier to pull? How much water is best?",
    "predict": "Guess first. Will dry sand, damp sand or soaked sand be easiest to pull a loaded box across? Why do you think so?",
-   "fair_test": "Keep everything the same except the sand. Use the same box, with the same stones inside, and pull it the same distance. Measure the pull with a forcemeter. If you have no forcemeter, tie a rubber band to the string and measure how far it stretches with a ruler.",
+   "fair_test": "Keep everything the same except the sand. Use the same box, with the same load inside, and pull it the same distance. Measure the pull with a forcemeter. If you have no forcemeter, tie a rubber band to the string and measure how far it stretches with a ruler.",
    "results_table": [
     "Sand: dry, damp or soaked",
     "Pull needed (newtons), or rubber band stretch (cm)",
@@ -2011,7 +2011,7 @@
      "qty": 1
     },
     {
-     "item": "a small flat-bottomed tin or plastic lunch box to be the 'sledge', with a few stones or coins inside to make it heavy. A cardboard box goes soggy on wet sand.",
+     "item": "a small flat-bottomed plastic lunch box or tin to be the 'sledge', with a half-kilo packet of dal, rice or salt inside to make it heavy. A cardboard box goes soggy on wet sand.",
      "qty": 1
     },
     {
@@ -2041,9 +2041,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Spread dry sand evenly in the tray, about two fingers deep. 2. Put a few stones in the box. 3. Tie the string to the box. 4. Tie the forcemeter's hook, or a rubber band, to the other end of the string.",
+     "do": "1. Spread dry sand evenly in the tray, about two fingers deep. 2. Put the packet of dal, rice or salt in the box, and close the lid. 3. Tie the string to the box. 4. Tie the forcemeter's hook, or a rubber band, to the other end of the string.",
      "say": "This box is our stone statue on its sledge. Let's see how hard it is to pull across dry desert sand.",
-     "kid": "Spread dry sand in the tray. Put stones in the box. Tie the string to the box. Tie the forcemeter to the string. This box is your stone statue!",
+     "kid": "Spread dry sand in the tray. Put the dal packet in the box. Tie the string to the box. Tie the forcemeter to the string. This box is your stone statue!",
      "adult": true,
      "context": "This is the first step of the wet sand experiment. You build a tiny model of an Egyptian statue being dragged across the desert on a sledge."
     },
@@ -2066,10 +2066,11 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Sprinkle water on the sand, one spoon at a time, and mix it in with the spoon. 2. Stop when the sand just turns darker, but is not wet or muddy. Smooth the top. 3. Pull the box again and read the forcemeter.",
+     "do": "1. Sprinkle water on the sand, one spoon at a time. Mix it in well after each spoon, so all the sand gets damp. 2. Stop when all the sand has just turned darker, but is not wet or muddy. Smooth the top. 3. Pull the box again and read the forcemeter.",
      "say": "Now we'll pour like Hapu, the water-pourer in our story. Just enough to darken the sand, but not enough to make mud.",
      "kid": "Now be Hapu, the water-pourer! Sprinkle one spoon of water at a time. Stop when the sand turns darker. Not muddy! Pull again. Is it easier?",
-     "adult": true
+     "adult": true,
+     "parent": "If you see little difference between dry and damp sand, put a heavier load in the box and pull more slowly. Damp sand should feel firm, like sand for building a sandcastle."
     },
     {
      "id": "s4",
@@ -2376,7 +2377,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Lay the cloth, the towel and the plastic flat on a table, side by side. 2. Put the empty tumbler at one end of the first one. 3. Give it a small tap with one finger, and see how far it slides. 4. Do the same on each one, with the same small tap.",
+     "do": "1. Lay the cloth, the towel and the plastic flat on a table, side by side. 2. Put the empty tumbler at one end of the first one. 3. Give it a small tap near its bottom with one finger, so it slides without tipping over. See how far it slides. 4. Do the same on each one, with the same small tap.",
      "say": "Which one do you think will stop the tumbler fastest? Why? The one that stops it fastest has the most friction.",
      "kid": "Put the tumbler on a cloth. Give it a small tap with one finger. How far does it go? Try the same tap on each one.",
      "ask": [
@@ -2663,7 +2664,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Put the sock over a hand, or over a cardboard foot shape, with the sole facing up. 2. Paint the pattern onto the sole with puff paint. 3. If you use a glue gun, a grown-up does this part.",
+     "do": "1. Cut a foot shape from cardboard and slide it inside the sock. It stops the paint soaking through. Lay the sock on newspaper, sole up. 2. Paint the pattern onto the sole with puff paint. 3. If you use a glue gun, a grown-up does this part.",
      "say": "Let's make your design real.",
      "kid": "Paint your pattern on the bottom of the socks. Using a glue gun? Ask a grown-up to do it.",
      "adult": true
@@ -2729,7 +2730,7 @@
      "height": 8,
      "ruler": true,
      "slide": true,
-     "caption": "1. Test a plain sock on the board. It slides at about 8 cm."
+     "caption": "1. Test a plain sock on the board. Measure the height when it slides."
     },
     {
      "art": "A child painting rows of puffy dots on the sole of a sock laid flat on newspaper.",
@@ -2740,7 +2741,7 @@
      "object": "sock",
      "height": 16,
      "ruler": true,
-     "caption": "3. Test again. The grip sock stays on until about 16 cm."
+     "caption": "3. Test the grip sock the same way. Does it stay on until the board is higher?"
     }
    ]
   }
@@ -2750,14 +2751,14 @@
    "id": "c1",
    "title": "Move the Mountain",
    "mins": 30,
-   "problem": "A shoebox with 3 or 4 books inside is your 'mountain'. Your job is to move it 2 metres across the floor, using as little pull as you can.",
+   "problem": "A shoebox with 2 or 3 books inside is your 'mountain'. Your job is to move it 2 metres across the floor, using as little pull as you can.",
    "constraints": [
-    "You are not allowed to take the books out.",
+    "Keep the same books inside the box for every try.",
     "You can only use things you find at home.",
     "Measure your pull each time with a forcemeter or a rubber band."
    ],
    "materials": [
-    "a shoebox or small cardboard box with 3 or 4 books inside",
+    "a shoebox or small cardboard box with 2 or 3 books inside",
     "a forcemeter, or a rubber band and a ruler",
     "things from home, like rolling pins, round pencils, marbles, a cloth and a tray"
    ],
@@ -2794,7 +2795,7 @@
      "do": "1. Try each idea one at a time. 2. Measure the pull for each. 3. Write each number down.",
      "say": "Try one idea at a time and measure the pull. Which works best?",
      "kid": "Try each idea, one at a time. Measure the pull each time. Which works best?",
-     "parent": "Round pencils used as rollers usually make a big difference. A cloth on tiles helps a little. Marbles under a tray can work very well. If the forcemeter reaches its last number, take one book out and start again."
+     "parent": "Round pencils used as rollers usually make a big difference. A cloth on tiles helps a little. Marbles under a tray can work very well. If the forcemeter reaches its last number, take one book out and start again from the first try, so every try uses the same load."
     },
     {
      "id": "s4",
@@ -2836,7 +2837,7 @@
     "It must not scratch the old stone steps."
    ],
    "materials": [
-    "paper, a pencil, rubber bands, an old chappal, and a wet tile for testing"
+    "paper, a pencil, rubber bands, an old chappal, and a wet patch of tiled floor for testing, such as the bathroom floor"
    ],
    "general": [
     "Soft rubber soles.",
@@ -2845,7 +2846,7 @@
    ],
    "creative": [
     "Patterns copied from the toe pads of a tree frog or a gecko.",
-    "A sole that is wide and flat at the front.",
+    "A wide, soft front to the sole, so more rubber touches the stone.",
     "Strips of rough coir, the fibre from coconut husks."
    ],
    "your_turn": "Draw your sole. Label each part with what it does. Then make a rubber-band version and test it on a wet tile.",
@@ -2879,7 +2880,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Your child draws the sole and labels each part. 2. Wrap rubber bands tightly around an old chappal, as a test version. 3. Press it on a wet tile with your hand and push sideways. Feel how well it grips.",
+     "do": "1. Your child draws the sole and labels each part. 2. Wrap rubber bands tightly around an old chappal, as a test version. 3. Press it on a wet tile with your hand and push sideways. Feel how well it grips. Then do the same with a chappal that has no rubber bands. Which one grips better?",
      "say": "Draw your sole and label what each part does. Then let's test a rubber-band version.",
      "kid": "Draw your sole. Label each part. Then wrap rubber bands round an old chappal. Test it on a wet tile.",
      "adult": true
@@ -3789,16 +3790,16 @@
  "roots": {
   "context": "We have been learning about friction, the grip between things that touch. Now we ask what that grip tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "When friction stops a sliding box, its movement is not destroyed. It spreads into the jiggling of countless atoms, which we feel as warmth. The spreading happens by itself, but the warmth never gathers back into movement by itself. So stopping is not an ending, but a spreading out that never undoes itself.",
+   "truth": "When you rub your palms fast and then stop, they are warm. Friction has turned their movement into the faster jiggling of countless tiny atoms. That warmth spreads into the air, and it never turns back into your hands moving. So when something stops, its movement has not ended, only spread out where we cannot see it.",
    "habit": "We say a moving thing 'stops', as if its movement simply ends. Friction shows that the movement is still there, only shared out among atoms where we cannot see it.",
    "evidence": "Rub your palms and they get warm. The warmth fades into the air, and it never turns back into your hands moving. A film of a box sliding to a stop looks wrong when it is played backwards."
   },
   "three": {
    "who_am_i": "When you rub your hands, the warmth you feel is your own movement, now shared with your skin and the air.",
    "what_is_life": "Living things control friction all the time. A gecko's feet grip a wall, and your knee joints stay slippery for a lifetime.",
-   "what_is_this_world": "On Earth, every sliding thing slows down and warms what it rubs against. Even the Earth's spin is slowly being turned into warmth by the tides."
+   "what_is_this_world": "On Earth, every sliding thing slows down and warms what it rubs against. Even some of the Earth's spin is slowly being turned into warmth by the tides."
   },
-  "thread": "Friction never destroys anything. It takes the neat movement of one thing and shares it out among countless atoms. They are in the box, the floor and the air. DeepKids believes that everything comes from one whole and keeps flowing back into it. Friction is a small, everyday example: the movement of one thing becomes the warmth shared by many.",
+  "thread": "Friction does not destroy movement. It takes the neat movement of one thing and shares it out among countless atoms in the box, the floor and the air. DeepKids believes that everything comes from one whole and keeps flowing back into it. Friction is a small, everyday example: the movement of one thing becomes the warmth shared by many.",
   "teachings": [
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
@@ -3823,7 +3824,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "Heat spreading out is a matter of numbers. There are far more messy ways for atoms to jiggle than neat ways, so mess is almost certain. Nothing deeper is needed to explain it, and that is an honest view."
+   "view": "Many physicists say there is nothing deeper here. There are far more messy ways for atoms to jiggle than neat ways, so things almost always end up spread out. To them, this is a matter of counting, not a sign of one whole."
   },
   "practice": {
    "title": "Warm hands",
@@ -3834,7 +3835,7 @@
   "ask": [
    "When the warmth leaves your hands, is it gone, or somewhere else?",
    "A ball rolls to a stop and warms the floor a tiny bit. Why does the warm floor never push the ball back?",
-   "Can something that slows you down also help you?"
+   "If movement never ends but only spreads out, where is the movement of a ball you rolled yesterday?"
   ],
   "art": "Two hands pressed together, with a zoomed-in circle showing their atoms reaching across a tiny gap, linked like a glittering net."
  },
