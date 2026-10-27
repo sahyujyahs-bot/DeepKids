@@ -35,7 +35,7 @@ If either of them has to stop and work out what we meant, we have failed. Depth 
 24. **A question at the start must be a real question, and the unit must answer it.** Ask it the way a curious child would ("The magnet never touched the pin. So how did it move it?"), not as a riddle ("What reached across that gap?").
 25. **No "DeepKids believes".** Our stance (everything is conscious; plants feel, remember, think and communicate) is science, so say it like science: as plain fact, then the other view. Never "DeepKids believes", "we believe", "in our view" or "our stance".
   - Not: "DeepKids believes stuff and energy are one thing wearing two faces, and both come from the One. Your weight changes from Earth to Moon. Something about you does not."
-  - But: "On the Moon you would weigh less, because the Moon pulls you less. But you would still be made of exactly the same amount of stuff. DeepKids believes that stuff, and the energy inside it, both come from the same one source."
+  - But: "On the Moon you would weigh less, because the Moon pulls you less. But you would still be made of exactly the same amount of stuff. That stuff, and the energy inside it, both come from the same one source."
 
 ## Parent words and child words
 
