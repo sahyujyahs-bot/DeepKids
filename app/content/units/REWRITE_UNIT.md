@@ -43,7 +43,8 @@ The founder found these "wild, completely wrong, meaningless, senseless". A deep
 2. **Drawn from this unit's science,** step by step, with no leap. A reader can see why the last sentence follows from the ones before.
 3. **Something a child can check** with what they did in the unit.
 4. **Plain.** At most 4 sentences, each under 20 words. No mysticism dressed as science, no slogans, no forced link to oneness.
-5. **New.** Run `python3 app/build/deep_truths.py` and make sure it says something no other unit says.
+5. **No word-play.** Never the shapes "So X is not Y, but Z", "not only… but", "feels like… but is really…", or a definition game ("'hard' only means…"). The founder rejected "Looking feels like reaching out… seeing is receiving" as meaningless. Start from what the child saw in their own test, then say plainly what follows.
+6. **New.** Run `python3 app/build/deep_truths.py` and make sure it says something no other unit says.
 
 Good example (magnets): "A steel needle can be a magnet one minute and not the next. Stroke it with a magnet, and its tiny magnets line up. Heat it red-hot, and they fall out of line. Nothing is added or taken away, so being a magnet is about arrangement, not material."
 
