@@ -72,17 +72,17 @@ index = f'''<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#FFF6EC">
-<meta name="description" content="DeepKids: a homeschool planner and lesson guide for Indian families with children aged 6 to 10. NCERT, Cambridge and NIOS.">
+<meta name="description" content="DeepKids Gurukul, the homeschooling app: a planner and lesson guide for Indian families with children aged 6 to 10. NCERT, Cambridge and NIOS.">
 <link rel="manifest" href="/manifest.webmanifest">
 <link rel="icon" href="/icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/icons/icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="DeepKids">
+<meta name="apple-mobile-web-app-title" content="DeepKids Gurukul">
 {head}
 <style>html,body{{margin:0;background:var(--bg,#FFF6EC)}}#dkLoading{{position:fixed;inset:0;z-index:100000;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#1F2440;background:#FCFCF8}}</style>
 </head>
 <body>
-<div id="dkLoading">DeepKids is opening…</div>
+<div id="dkLoading">DeepKids Gurukul is opening…</div>
 {body}
 <script>window.DK_BUILD="{build}";window.DK_APPV="{app_hash}";window.DK_DATAV="{data_hash}"</script>
 <script src="/config.js?v={build}"></script>
@@ -94,7 +94,7 @@ index = f'''<!doctype html>
 open(os.path.join(PUB, 'index.html'), 'w').write(index)
 
 manifest = {
-    "name": "DeepKids", "short_name": "DeepKids",
+    "name": "DeepKids Gurukul", "short_name": "DK Gurukul",
     "description": "Homeschool planner and lessons for Indian families, ages 6 to 10.",
     "start_url": "/", "scope": "/", "display": "standalone", "orientation": "portrait",
     "background_color": "#FFF6EC", "theme_color": "#FFF6EC",

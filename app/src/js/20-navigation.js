@@ -374,8 +374,8 @@ function fxWay() {
   if (!document.getElementById("fxlogo")) {
     const a = document.createElement("button");
     a.id = "fxlogo";
-    a.setAttribute("aria-label", "DeepKids home");
-    a.innerHTML = `<span>Deep</span>Kids`;
+    a.setAttribute("aria-label", "DeepKids Gurukul home");
+    a.innerHTML = `<span>Deep</span>Kids <small>Gurukul</small>`;
     w.prepend(a);
   }
   let c = document.getElementById("fxcrumb");

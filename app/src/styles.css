@@ -5903,6 +5903,9 @@ header.top .wrap {
 #fxlogo span {
   color: var(--margin);
 }
+#fxlogo small {
+  font-size: 0.8em;
+}
 #fxcrumb {
   display: flex;
   flex-wrap: wrap;
