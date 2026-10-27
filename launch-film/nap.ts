@@ -28,14 +28,14 @@ const C = {
   skin: "#bb7a4b", skinD: "#8e5535", skinL: "#d6996a", lip: "#7e3b31", mouth: "#3d1714", hair: "#1c1715", hairL: "#3a2e29", bindi: "#9f1f2a", gold: "#d7a53c", goldD: "#a87a22",
   blouse: "#22564f", saree: "#2e7a6c", sareeD: "#24635a", border: "#d8a73d", borderD: "#a37620",
   page: "#f4ead0", pageD: "#e3d5b3", rule: "#8eaac0", red: "#c0432c", blue: "#3d6c9c", mustard: "#e0a733", green: "#5d8f4a",
-  steel: "#b7bbbf", steelD: "#8d9297", steelL: "#e3e5e6", water: "#a9c3c8", leaf: "#6f9a3c", ink: "#1d1a17", cream: "#f6ecd2", tomato: "#d2462a", turq: "#56aba2",
+  steel: "#b7bbbf", steelD: "#8d9297", steelL: "#e3e5e6", water: "#a9c3c8", leaf: "#6f9a3c", ink: "#1d1a17", cream: "#f6ecd2", tomato: "#d2462a", turq: "#56aba2", oxide: "#9a3b25",
 };
 const bar = (a: P, b: P, w: number) => limb([a, b], [w, w], 2).poly;
 
 // wake: 0 asleep .. 1 awake (eyes open at .35, the smile at .5, the head lifts from .5); later: the clock at 11:05, the phone lit
 export type Wake = { wake: number; later: boolean; phone: number };
 // clock: seconds after 10:00:00 on the wall clock (10:10 when she falls asleep, 11:05 when she wakes)
-export const buildNap = (o: { breath?: number; w?: Wake; clock?: number } = {}): Plate => {
+export const buildNap = (o: { breath?: number; w?: Wake; clock?: number; steam?: number; f?: number } = {}): Plate => {
   const { S, L, D, ...pl } = plate(), r = rng(1038), br = o.breath ?? 0, wk = o.w?.wake ?? 0, later = o.w?.later ?? false, lift = clamp((wk - 0.5) / 0.5);
   // ---------------- the room behind her
   S([[-10, -10], [W + 10, -10], [W + 10, 1000], [-10, 1000]], C.wall);
@@ -146,7 +146,19 @@ export const buildNap = (o: { breath?: number; w?: Wake; clock?: number } = {}):
   // Kavya's crayon kingfisher on a sheet sliding under the notebook
   S([[96, 1700], [330, 1690], [318, 1910], [80, 1920]], C.cream);
   S(sm([[140, 1800], [190, 1770], [250, 1776], [270, 1796], [230, 1820], [160, 1824]]), "#2f7fb6"); S(sm([[170, 1814], [240, 1812], [224, 1840], [180, 1838]]), C.tomato); S([[268, 1792], [320, 1800], [266, 1802]], C.ink); S(ell(244, 1790, 4, 4), C.ink);
-  // a steel tumbler of pencils, no coffee
+  const ff = o.f ?? 0;
+  // more of her work: a leaning pile of notebooks and files at the far right, a rolled chart, Kavya's paper pinwheel in a clay pot
+  [[0, C.green], [30, C.cream], [56, C.red], [84, C.blue], [112, C.mustard]].forEach(([dy, col], i) => { const y = 1150 - (dy as number), x = 996 + i * 3; S([[x, y], [1090, y - 6], [1090, y + 26], [x + 2, y + 30]], col as string); L([[x, y + 30], [1090, y + 24]], 1, C.ink); });
+  S([[970, 1004], [1090, 994], [1090, 1036], [972, 1046]], C.page); L([[976, 1014], [1086, 1006]], 1, C.rule); L([[976, 1024], [1086, 1016]], 1, C.rule);
+  S(sm([[600, 1880], [1000, 1840], [1004, 1872], [604, 1914]], true, 2), C.cream); S(ell(1002, 1856, 10, 17, 0.1), mix(C.cream, C.table, 0.3)); L([[600, 1880], [1000, 1840]], 1.2, C.ink);
+  S([[1004, 1800], [1060, 1800], [1052, 1860], [1012, 1860]], C.oxide); S(bar([1032, 1800], [1032, 1690], 3), C.teakL);
+  [[C.tomato, 0], [C.turq, 1.57], [C.mustard, 3.14], [C.green, 4.71]].forEach(([col, a]) => { const c: P = [1032, 1690], A = (a as number) + ff * 0.04; S([c, [c[0] + Math.cos(A) * 46, c[1] + Math.sin(A) * 46], [c[0] + Math.cos(A + 0.9) * 30, c[1] + Math.sin(A + 0.9) * 30]], col as string); });
+  // filter coffee, going cold: a steel tumbler in its dabara; its steam thins through the nap and is gone when she wakes
+  S(ell(110, 1128, 74, 20), C.steelD); S(ell(110, 1122, 70, 16), C.steel); S([[78, 1010], [142, 1010], [136, 1118], [84, 1118]], C.steel); S([[122, 1014], [140, 1014], [134, 1112], [120, 1112]], C.steelL); S(ell(110, 1010, 32, 8), "#6b4a2e"); S(ell(110, 1008, 22, 4), "#a07a52");
+  L(ell(110, 1010, 32, 8, 0, 24), 1.2, C.ink, true); L([[78, 1010], [84, 1118]], 1.2); L([[142, 1010], [136, 1118]], 1.2);
+  const st = o.steam ?? 0;
+  for (let i = 0; i < 3; i++) { if (st <= i / 3) continue; const k = clamp((st - i / 3) * 3), pts: P[] = []; for (let j = 0; j <= 10; j++) { const y = 996 - j * 16 * k, x = 96 + i * 14 + Math.sin(j * 0.7 + ff * 0.12 + i * 2) * 10 * (j / 10); pts.push([x, y]); } L(pts, 2.4 * k, "#fbf4e2"); }
+  // a steel tumbler of pencils
   S([[18, 1490], [96, 1490], [88, 1620], [26, 1620]], C.steel); S(ell(57, 1490, 39, 10), C.steelD);
   [[36, C.tomato], [52, C.green], [66, C.mustard], [80, C.blue]].forEach(([x, col], i) => { S(bar([x as number, 1492], [(x as number) - 14 + i * 9, 1370 - i * 12], 5), col as string); });
   // ---------------- the line, off register: face first, then hands, hair, the rest
@@ -193,9 +205,9 @@ const sunLayer = (env: Env, later: boolean) => {
 
 export const drawNap = (ctx: Ctx, f: number, env: Env, o: { cam?: Cam; dream?: number; w?: Wake; clock?: number } = {}) => {
   const breath = (Math.sin((f / 30) * Math.PI * 2 * 0.22) + 1) / 2, bq = Math.round(breath * 8) / 8, w = o.w, later = w?.later ?? false;
-  const key = `nap:plate:${bq}:${o.clock ?? ""}:${w ? [w.wake.toFixed(2), later, w.phone.toFixed(2)].join(",") : "s"}`;
+  const steam = w ? 0 : clamp(1 - f / 200), key = `nap:plate:${bq}:${o.clock ?? ""}:${Math.round(steam * 20)}:${Math.floor(f / 3)}:${w ? [w.wake.toFixed(2), later, w.phone.toFixed(2)].join(",") : "s"}`;
   let pl = (o.dream ?? 0) > 0 || w ? undefined : (env.cache.get(key) as Plate | undefined);
-  if (!pl) { pl = buildNap({ breath: bq, w, clock: o.clock }); if (!((o.dream ?? 0) > 0 || w)) env.cache.set(key, pl); }
+  if (!pl) { pl = buildNap({ breath: bq, w, clock: o.clock, steam: Math.round(steam * 20) / 20, f: Math.floor(f / 3) * 3 }); if (!((o.dream ?? 0) > 0 || w)) env.cache.set(key, pl); }
   const cam = o.cam ?? { x: 0, y: 0, s: 1 };
   drawPlate(ctx, env, pl, key + ":e", {
     f, cam, dream: o.dream, between: () => {

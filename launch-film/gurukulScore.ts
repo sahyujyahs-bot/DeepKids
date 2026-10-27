@@ -105,3 +105,45 @@ export const score = (): Material => ({
     { kind: "outro", bars: 4, key: "D", mode: "major", harmony: ["D", "G", "A", "D"], lead: ["home1", "home2", "home3", "home4"], counter: ["hD", "hG", "hAA", "hEnd"], groove: "home", energy: 0.58 },
   ],
 });
+
+// THE REAL WORLD, in two parts, cut from the film score above: the nap (its first 4 bars) and the
+// waking (its last 5). The dream between them has its own music, and the cuts are hard.
+export const napScore = (): Material => { const m = score(); return { ...m, title: "DeepKids Gurukul: the nap", tail: 0.5, sections: m.sections.slice(0, 1) }; };
+export const wakeScore = (): Material => { const m = score(); return { ...m, title: "DeepKids Gurukul: waking", key: "D", mode: "major", tail: 1.2, sections: m.sections.slice(-2) }; };
+
+// THE DREAM: 14 bars of 4/4 at 120 (28 s, a bar is 60 frames). Cinematic, E lydian (the raised
+// fourth, A#, is the wonder in it). A celesta sings the motif (a climb that leaps to the #4 and
+// settles), the real harp turns arpeggios under it, strings hold and swell, a soft pulse becomes a
+// build, and it peaks at the stars on the motif augmented. It is still in full flight when she
+// wakes: the cut to the waking music is the shock of waking.
+export const dreamScore = (): Material => ({
+  style: "cinematic", title: "DeepKids Gurukul: the dream", seed: 2840, mood: "awe",
+  bpm: 120, key: "E", mode: "lydian", meter: "4/4",
+  moodControls: { energy: 0.6, warmth: 0.5, brightness: 0.6, tension: 0.35, space: 0.55 },
+  dyn: [0.62, 0.8], tail: 0.4,
+  voices: { lead: "celesta" },
+  levels: { lead: 3, counter: -13, kick: -7, arp: -8, chords: -6, bass: -2, hat: 5 },
+  chords: {
+    E: { voicing: "[E3 B3 G#3]", bass: "E2:2 B2:2" },
+    FsE: { voicing: "[E3 A#3 C#4]", bass: "E2:4" },
+    Csm: { voicing: "[C#3 G#3 B3]", bass: "C#2:2 G#2:2" },
+    B: { voicing: "[F#3 B3 D#4]", bass: "B1:2 F#2:2" },
+    Gsm: { voicing: "[D#3 G#3 B3]", bass: "G#1:2 D#2:2" },
+  },
+  motifs: {
+    m1: "B4:.5 C#5:.5 D#5:.5 A#5:1.5 G#5:1", m2: "F#5:1 E5:.5 F#5:.5 G#5:2", m1b: "B4:.5 C#5:.5 D#5:.5 B5:1.5 A#5:1", m3: "G#5:1 F#5:1 E5:2",
+    g1: "E5:.5 G#5:.5 B5:1 A#5:.5 G#5:.5 F#5:1", g2: "D#5:1 E5:.5 F#5:.5 B4:2", g3: "C#5:.5 E5:.5 G#5:1 F#5:.5 E5:.5 D#5:1", g4: "B4:3 r:1",
+    b1: "B4:.5 C#5:.5 D#5:.5 F#5:.5 B4:.5 C#5:.5 D#5:.5 G#5:.5", b2: "C#5:.5 D#5:.5 F#5:.5 A#5:.5 C#5:.5 D#5:.5 F#5:.5 B5:.5", b3: "D#5:.5 F#5:.5 A#5:.5 C#6:.5 D#6:2",
+    d1: "E6:2 D#6:1 B5:1", d2: "A#5:1.5 B5:.5 C#6:2", d3: "B5:4",
+    hE: "E3:.5 B3:.5 G#4:.5 B3:.5 F#4:.5 B3:.5 G#4:.5 B3:.5", hF: "E3:.5 A#3:.5 F#4:.5 A#3:.5 C#4:.5 A#3:.5 F#4:.5 A#3:.5",
+    hC: "C#3:.5 G#3:.5 E4:.5 G#3:.5 B3:.5 G#3:.5 E4:.5 G#3:.5", hB: "B2:.5 F#3:.5 D#4:.5 F#3:.5 A#3:.5 F#3:.5 D#4:.5 F#3:.5", hG: "G#2:.5 D#3:.5 B3:.5 D#3:.5 G#3:.5 D#3:.5 B3:.5 D#3:.5",
+    oE: "E3:.5 B3:.5 E3:.5 B3:.5 E3:.5 B3:.5 E3:.5 B3:.5", oF: "E3:.5 A#3:.5 E3:.5 A#3:.5 E3:.5 A#3:.5 E3:.5 A#3:.5", oC: "C#3:.5 G#3:.5 C#3:.5 G#3:.5 C#3:.5 G#3:.5 C#3:.5 G#3:.5", oB: "B2:.5 F#3:.5 B2:.5 F#3:.5 B2:.5 F#3:.5 B2:.5 F#3:.5",
+  },
+  grooves: { main: { family: "pulse", density: 0.5, variation: 0.3 }, rise: { family: "build", density: 0.6, variation: 0.3 }, big: { family: "halfTime", density: 0.6, variation: 0.3 } },
+  sections: [
+    { kind: "hook", bars: 4, harmony: ["E", "FsE", "E", "FsE"], lead: ["m1", "m2", "m1b", "m3"], counter: ["hE", "hF", "hE", "hF"], groove: "main", energy: 0.6 },
+    { kind: "groove", bars: 4, harmony: ["Csm", "B", "Gsm", "B"], lead: ["g1", "g2", "g3", "g4"], counter: ["hC", "hB", "hG", "hB"], groove: "main", energy: 0.66 },
+    { kind: "build", bars: 3, harmony: ["Csm", "B", "FsE"], lead: ["b1", "b2", "b3"], arp: ["oC", "oB", "oF"], counter: ["hC", "hB", "hF"], groove: "rise", energy: 0.78 },
+    { kind: "drop", bars: 3, harmony: ["E", "FsE", "E"], lead: ["d1", "d2", "d3"], arp: ["oE", "oF", "oE"], counter: ["hE", "hF", "hE"], groove: "big", energy: 0.95 },
+  ],
+});

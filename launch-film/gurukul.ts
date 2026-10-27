@@ -5,8 +5,9 @@ import { drawPlate, type Cam } from "./gouache";
 import { drawNap } from "./nap";
 import { drawApp, app } from "./app";
 import { filmScore } from "./score";
-import { score } from "./gurukulScore";
-import { banyan, buildBanyan, buildCompass, buildKing, buildMirrors, buildVelcro, compass, cosmos, cosmosLayer, king, mirrors, velcro, ZOOM, type Circle, type Pl } from "./dream";
+import { dreamScore, napScore, wakeScore } from "./gurukulScore";
+import { cosmosLayer, ZOOM, type Circle } from "./dream";
+import { DREAM, drawDream } from "./scenes";
 
 // DEEPKIDS GURUKUL · the launch film. 1080x1920, 30 fps, 45.5 s, in Mid-century gouache.
 // STORY: a tired mother falls asleep mid-morning over her daughter's lessons; she dreams the
@@ -43,12 +44,7 @@ const drawCosmos = (ctx: Ctx, t: number, env: Env, cam: Cam, dream: number) => {
 
 const SCENES: Scene[] = [
   { id: "nap", start: 0, len: 225, exit: [600, 1688, 26], draw: (ctx, t, env, cam, dream) => drawNap(ctx, t, env, { cam, dream, clock: 600 + Math.floor(t / FPS) }) },
-  { id: "velcro", start: 225, bg: "#8dbfd0", len: velcro.len, entry: velcro.entry, exit: velcro.exit, draw: plateScene(buildVelcro, "velcro") },
-  { id: "king", start: 375, bg: "#f2c99a", len: king.len, entry: king.entry, exit: king.exit, draw: plateScene(buildKing, "king") },
-  { id: "compass", start: 510, bg: "#7c3d21", len: compass.len, entry: compass.entry, exit: compass.exit, draw: plateScene(buildCompass, "compass") },
-  { id: "banyan", start: 645, bg: "#bfe0dc", len: banyan.len, entry: banyan.entry, exit: banyan.exit, draw: plateScene(buildBanyan, "banyan") },
-  { id: "mirrors", start: 780, bg: "#3b2f5c", len: mirrors.len, entry: mirrors.entry, exit: mirrors.exit, draw: plateScene(buildMirrors, "mirrors") },
-  { id: "cosmos", start: 915, bg: "#2c2058", len: cosmos.len, entry: [540, 400, 14], exit: [600, 802, 11], draw: drawCosmos },
+  ...(() => { let st = 225; return DREAM.map((d) => { const sc: Scene = { id: d.id, start: st, len: d.len, bg: d.bg, entry: d.entry, exit: d.exit, draw: (ctx, t, env, cam, dream) => drawDream(ctx, env, d, t, cam, dream) }; st += d.len; return sc; }); })(),
   { id: "wake", start: 1065, bg: "#e0ad4c", len: 135, entry: [596, 908, 22], exit: [880, 1163, 44], draw: (ctx, t, env, cam, dream) => drawNap(ctx, t + 300, env, { cam, dream, clock: Math.floor(lerp(608, 3900, ease((t - 22) / 44))) + Math.max(0, Math.floor((t - 66) / FPS)), /* the hands sweep 10:10 -> 11:05 just after the cut, then tick on */ w: { wake: q(ease((t - 20) / 90)), later: true, phone: q(ease((t - 60) / 20), 10) } }) },
   { id: "app", start: 1200, bg: "#2e7a6c", len: app.len, entry: app.entry, draw: (ctx, t, env, cam) => drawApp(ctx, t, env, cam) },
 ];
@@ -78,11 +74,20 @@ const beat = (60 * FPS) / BPM;
 SCENES.forEach((s, k) => { if (s.start % beat) throw new Error(`gurukul: ${s.id} cuts off the beat`); if (k && SCENES[k - 1].start + SCENES[k - 1].len !== s.start) throw new Error(`gurukul: ${s.id} leaves a gap`); });
 if (SCENES[SCENES.length - 1].start + SCENES[SCENES.length - 1].len !== N) throw new Error("gurukul: scenes do not fill the film");
 
+// THE MUSIC: three pieces, each composed to its stretch of picture, joined with HARD cuts (3 ms
+// de-click only): the nap's flute, the dream's orchestra, the waking flute. The cut is the jolt.
+const SEGS: [ReturnType<typeof filmScore>, number][] = [[filmScore(napScore(), FPS, 225), 225], [filmScore(dreamScore(), FPS, 840), 840], [filmScore(wakeScore(), FPS, 300), 300]];
+const MUSIC = Object.assign((sr: number): [Float32Array, Float32Array] => {
+  const n = Math.round((N / FPS) * sr), L = new Float32Array(n), Rr = new Float32Array(n), dc = Math.round(sr * 0.003); let at0 = 0;
+  SEGS.forEach(([a, fr]) => { const [l, r] = a(sr), len = Math.round((fr / FPS) * sr); for (let i = 0; i < len && at0 + i < n; i++) { const g = Math.min(1, i / dc, (len - 1 - i) / dc); L[at0 + i] = (l[i] ?? 0) * g; Rr[at0 + i] = (r[i] ?? 0) * g; } at0 += len; });
+  return [L, Rr];
+}, { scores: SEGS.flatMap(([a]) => a.scores ?? []) });
+
 export const gurukul: Film = {
   meta: { title: "DeepKids Gurukul · launch film", W, H, fps: FPS, bpm: BPM, durationFrames: N, kind: "story", poster: 1330, holds: [[1335, N, "the end: Log in tapped, the screen read"]],
-    score: { tempo: BPM, form: "intro swell grooveA grooveB breakdown build drop breath outro", grid: true },
-    sync: [{ frame: 210, label: "the dream lifts into Kalyani (bar 4)" }, { frame: 997, label: "the peak: the stars, IAm (bar 19)" }, { frame: 1102, label: "she wakes: the drums stop (bar 21)" }, { frame: 1328, label: "Log in tapped (bar 25)" }] },
+    score: { tempo: BPM, form: "nap (flute, misra chapu) | dream (cinematic, E lydian) | waking (flute, D major)", grid: true },
+    sync: [{ frame: 225, label: "hard cut into the dream music" }, { frame: 1065, label: "hard cut back: she wakes" }, { frame: 1328, label: "Log in tapped" }] },
   assets: { images: {} },
   shots: [{ id: "film", start: 0, end: N, draw }],
-  audio: filmScore(score(), FPS, N),
+  audio: MUSIC,
 };

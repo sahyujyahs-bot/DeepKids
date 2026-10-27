@@ -17,7 +17,7 @@ export type Arm = { a: number; e: number; hand?: "open" | "point" | "mouth" | "f
 export type Pose = { x: number; y: number; s: number; flip?: 1 | -1; lean?: number; look?: number; face?: Face; near?: Arm; far?: Arm; hem?: P | null; step?: number; bob?: number };
 type Pl = ReturnType<typeof plate>;
 
-const K = {
+export const K = {
   skin: "#b8774a", skinD: "#8c5434", skinL: "#d39765", lip: "#7e3b31", mouth: "#3d1714", hair: "#1c1715", hairL: "#3b302b",
   blouse: "#22564f", saree: "#2e7a6c", sareeD: "#24635a", border: "#d8a73d", borderD: "#a37620", bindi: "#9f1f2a", gold: "#d7a53c",
   frock: "#cf3f7c", frockD: "#a32b60", ribbon: "#e85a95", jas: "#f6f1e0", jasD: "#c9c2ab", chap: "#5a3420", white: "#f4efe2", ink: "#1d1a17",
@@ -44,7 +44,7 @@ const hand = (S: Pl["S"], L: Pl["L"], M: (x: number, y: number) => P, wr: P, dir
 };
 
 // ---------------------------------------------------------------- the head, three-quarter to +x
-const head = (S: Pl["S"], L: Pl["L"], M: (x: number, y: number) => P, c: P, h0: number, face: Face, who: "amma" | "kavya", look: number, k: number) => {
+export const head = (S: Pl["S"], L: Pl["L"], M: (x: number, y: number) => P, c: P, h0: number, face: Face, who: "amma" | "kavya", look: number, k: number) => {
   const hs = h0;
   const H = (u: number, v: number): P => { const a = look; return M(c[0] + (u * Math.cos(a) - v * Math.sin(a)) * hs, c[1] + (u * Math.sin(a) + v * Math.cos(a)) * hs); }, rs = hs * k;
   // hair behind
