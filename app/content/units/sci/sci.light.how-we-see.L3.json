@@ -109,7 +109,7 @@
   },
   {
    "term": "Photon",
-   "meaning": "The smallest possible bit of light. Light comes in tiny packets, far too small to see one by one. Each packet is a photon.",
+   "meaning": "The smallest possible amount of light. Light comes in tiny packets, far too small to see one by one. Each packet is a photon.",
    "example": "A torch sends out billions of billions of photons every second.",
    "art": "A torch beam drawn as a stream of tiny glowing dots."
   },
@@ -282,7 +282,7 @@
   {
    "concept": "Light comes in tiny packets, and your eye can catch a few",
    "status": "debated",
-   "context": "This card goes down to the smallest bits of light, called photons, and asks how few of them a person can see.",
+   "context": "This card goes down to the smallest packets of light, called photons, and asks how few of them a person can see.",
    "description": "Light comes in tiny packets called photons. A torch sends out billions of billions of them every second. When a photon lands on a rod cell in your retina, it hits one molecule. A molecule is a tiny group of atoms, far too small to see. The photon makes that molecule change its shape, from bent to straight. That tiny change starts the signal that goes to your brain. So every time you see anything, it starts with photons changing the shape of molecules. Scientists have asked: how few photons can a person notice? Here are the answers so far.",
    "examples": [
     "A single rod cell can respond to a single photon. Denis Baylor, Trevor Lamb and King-Wai Yau measured this in 1979.",
@@ -419,7 +419,7 @@
  "how_we_found_out": {
   "story": "For more than a thousand years, many thinkers believed that seeing starts in the eye. Euclid, about 2,300 years ago, drew rays going out of the eye in a cone. Ptolemy, and later the scholar al-Kindi in Baghdad, agreed. Then Ibn al-Haytham, working in Cairo, tested the idea and wrote the Book of Optics, finished around 1021. He set several lamps outside a small hole into a dark room. Each lamp made its own spot of light on the wall inside. When he covered one lamp, only its spot went out. So light travels in straight lines from each lamp to where it lands, and he argued that the same happens when light enters an eye. But nobody yet knew where in the eye the picture forms. In 1604, Johannes Kepler worked out that the eye bends the light into a small, upside-down picture on the retina. A few years later, Christoph Scheiner checked this. He peeled away the back of an animal's eye and saw the tiny upside-down picture himself.",
   "who": "Ibn al-Haytham, then Johannes Kepler and Christoph Scheiner",
-  "when": "About 1021 (the Book of Optics) and 1604 (Kepler)",
+  "when": "about 1021 (the Book of Optics) and 1604 (Kepler)",
   "wrong_idea": "Seeing starts in the eye: rays go out of the eye and touch what we see. The lamp test showed that light travels from things to where it lands, and the upside-down picture found on the retina showed where that light ends up."
  },
  "big_questions": [
@@ -654,10 +654,10 @@
      "do": "1. Take turns. Each player takes a card and lays a chain if they can. 2. They say the chain out loud. 3. Give 2 tokens for a correct chain.",
      "say": "When you lay a chain, say where the light starts, what it bounces off, and whose eye it ends in.",
      "kid": "Take a card. Can you make a chain? Say it out loud. Where does the light start? What does it bounce off? Whose eye does it go into?",
-     "parent": "Watch for chains in the wrong order, like OBJECT first. Ask: 'Does a mango make its own light?' Watch the Moon card too. The Moon is a OBJECT, not a SOURCE, because it only bounces sunlight. The firefly is a SOURCE. It makes its own light. The camera works like an eye: light comes in and is caught.",
+     "parent": "Watch for chains in the wrong order, like OBJECT first. Ask: 'Does a mango make its own light?' Watch the Moon card too. The Moon is an OBJECT, not a SOURCE, because it only bounces sunlight. The firefly is a SOURCE. It makes its own light. The camera works like an eye: light comes in and is caught.",
      "ask": [
       {
-       "q": "Why is the Moon a OBJECT card and not a SOURCE card?",
+       "q": "Why is the Moon an OBJECT card and not a SOURCE card?",
        "good": [
         "The Moon makes no light of its own.",
         "Sunlight bounces off the Moon."
@@ -738,7 +738,7 @@
    ],
    "rules": [
     "One player is the SUN, one is the MANGO, one is the EYE and one is the BRAIN. Others can be CLOUDS.",
-    "The SUN holds a basket of balls or rolled-up yellow socks. Each one is a little bit of light, a photon.",
+    "The SUN holds a basket of balls or rolled-up yellow socks. Each one stands for a tiny packet of light, a photon.",
     "The SUN throws light balls gently towards the MANGO. The MANGO catches them and throws them on in any direction. This is bouncing.",
     "The EYE stands with a basket held in front of them. It cannot move its feet. It only catches the balls that come its way.",
     "Each ball that lands in the EYE's basket is passed back to the BRAIN, who stands behind the EYE with closed eyes. The MANGO whispers one clue word with each ball, like 'yellow' or 'round'. The BRAIN guesses what the thing is.",
@@ -749,8 +749,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Give out the role cards. 2. Put the SUN at one end of the room and the MANGO in the middle. 3. Put the EYE to one side of the MANGO. 4. The BRAIN stands behind the EYE.",
-     "say": "We are going to act out how you see a mango. Each sock ball is a tiny bit of light. Scientists call one tiny bit of light a photon.",
-     "kid": "Pick a role: SUN, MANGO, EYE or BRAIN. The socks are bits of light. Get in your places.",
+     "say": "We are going to act out how you see a mango. Each sock ball is a tiny packet of light. Scientists call one tiny packet of light a photon.",
+     "kid": "Pick a role: SUN, MANGO, EYE or BRAIN. The socks are packets of light. Get in your places.",
      "context": "This is the first step of Photon Relay. Players act out light travelling from the Sun, to a mango, to an eye. Here everyone takes a role."
     },
     {
@@ -1151,7 +1151,7 @@
     },
     {
      "t": "truefalse",
-     "p": "The smallest bit of light is called a photon.",
+     "p": "The smallest packet of light is called a photon.",
      "a": true,
      "why": "True. Light comes in tiny packets called photons. A rod cell in your eye can respond to just one."
     },
@@ -2904,7 +2904,7 @@
    "t": "mcq",
    "p": "What is a photon?",
    "opts": [
-    "The smallest bit of light",
+    "The smallest packet of light",
     "A part of the eye",
     "A kind of camera"
    ],
@@ -3359,7 +3359,7 @@
    "a": "Light bounces back off a shiny layer inside them."
   },
   {
-   "q": "What is the smallest bit of light called?",
+   "q": "What is the smallest packet of light called?",
    "a": "A photon."
   },
   {

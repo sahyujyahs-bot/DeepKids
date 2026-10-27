@@ -305,7 +305,7 @@
      "explanation": "He used the correct rule of bending to design curved lenses that bring light to a point. The historian Roshdi Rashed found this in 1990. Many historians now say Ibn Sahl found the rule first, more than 600 years before Europe."
     },
     {
-     "who": "Willebrord Snell in Holland, 1621, and René Descartes in France, 1637",
+     "who": "Willebrord Snell in the Netherlands, 1621, and René Descartes in France, 1637",
      "explanation": "Snell found the rule but did not publish it. Descartes published it in 1637. In much of the world it is still called Snell's law."
     },
     {
@@ -1425,7 +1425,7 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. Ask your child to draw two pictures. 2. First, the pencil as it looked from the side. 3. Second, the pencil as it really is, with a dotted line for the path of the light from the bottom of the pencil to the eye.",
+     "do": "1. Ask your child to draw two pictures. 2. First, the pencil as it looked from the side. 3. Second, the pencil as it really is. 4. Then add a dotted line for the path of the light, from the bottom of the pencil to the eye.",
      "say": "Let's draw a model, a picture that explains. Draw the pencil as it looked. Then draw it as it really is. Draw how you think the light travels from the bottom of the pencil to your eye.",
      "kid": "Draw two pictures. The pencil as it looked. The pencil as it really is. Then draw the light going from the pencil to your eye.",
      "parent": "A good drawing shows the light going straight in the water, bending at the surface, and going straight to the eye. The eye then 'sees' the pencil along that last straight line, too high. Do not correct the drawing yet. The explanation cards come next."
@@ -1514,8 +1514,8 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Dip a straw in the water and put a finger over its top end. 2. Lift your finger a little to let out one tiny drop, about the size of a mustard seed, onto the ruler. 3. Make a medium drop the size of a pea, and a big drop the size of a one-rupee coin, well apart along the ruler.",
-     "say": "Let's make three drops: a tiny one like a mustard seed, a medium one like a pea, and a big one like a coin. Which do you think will make the letters look biggest? Why do you think so?",
+     "do": "1. Dip a straw in the water and put a finger over its top end. 2. Lift your finger a little to let out one tiny drop, about the size of a mustard seed, onto the ruler. 3. Make a medium drop the size of a pea. 4. Make a big drop the size of a one-rupee coin. Keep the drops well apart along the ruler.",
+     "say": "Let's make three drops. A tiny one like a mustard seed, a medium one like a pea, and a big one like a coin. Which do you think will make the letters look biggest? Why do you think so?",
      "kid": "Make three drops on the ruler. One tiny, like a mustard seed. One like a pea. One big, like a coin. Guess first.",
      "ask": [
       {
@@ -1750,7 +1750,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child to draw the cup from the side twice: once empty, with the light from the coin hitting the rim, and once full, with the light bending at the water's surface to reach the eye.",
+     "do": "Ask your child to draw the cup from the side twice. First empty, with the light from the coin hitting the rim. Then full, with the light bending at the water's surface to reach the eye.",
      "say": "Let's draw a model. Draw the light going from the coin to your eye. Without water, what stops it? With water, how does it get to you?",
      "kid": "Draw the cup twice. Empty: the light hits the edge. Full: the light bends at the top and reaches your eye.",
      "ask": [
@@ -1926,7 +1926,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Show your child how to hold the lens: close to the thing, then slowly lift it towards their eye until the picture is sharp. 2. Practise on a fingertip.",
+     "do": "1. Show your child how to hold the lens. Start close to the thing, then lift the lens slowly towards the eye until the picture is sharp. 2. Practise on a fingertip.",
      "say": "Hold the lens just above your fingertip. Now lift it slowly towards your eye. Stop when the lines on your finger are sharp.",
      "kid": "Hold the lens close to your fingertip. Lift it slowly. Stop when the lines look sharp. That is focusing.",
      "context": "This is a magnifier safari. You look at tiny things around your home through a magnifying glass, a lens that makes things look bigger."
@@ -1934,7 +1934,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Let your child look at each thing in turn: sugar, salt, a leaf, thread, cloth, a currency note, and an ant if one comes by.",
+     "do": "Let your child look at each thing in turn. Try sugar, salt, a leaf, thread, cloth and a currency note. Add an ant if one comes by.",
      "say": "Let's go on a safari. Look at each thing. Tell me one thing you can see through the lens that you could not see without it.",
      "kid": "Look at each thing through the lens. Find one secret you couldn't see before. Say it out loud.",
      "parent": "Things to look for: salt grains are little cubes. Sugar grains are rough blocks. A leaf has a net of tiny veins. Cloth is threads woven over and under. A currency note has very tiny printed letters, called microlettering, that you cannot read without a lens. Your fingertip has ridges with sweat pores, tiny holes, along them."
@@ -2380,10 +2380,10 @@
     {
      "day": 2,
      "mins": 30,
-     "what": "Look at onion skin and a drop of pond water. Draw what you see and compare it with the magnifying glass."
+     "what": "Look at onion skin and a drop of old flower-vase water. Draw what you see and compare it with the magnifying glass."
     }
    ],
-   "record": "Draw a hair, the onion skin and the pond water as you saw them through the drop. Under each, write: tiny drop or magnifying glass, which showed more?",
+   "record": "Draw a hair, the onion skin and the vase water as you saw them through the drop. Under each, write which showed more: the tiny drop or the magnifying glass.",
    "flow": [
     {
      "id": "s1",
@@ -2905,7 +2905,7 @@
  ],
  "ask_kids": [
   "Look at your glass of water at dinner. Can you find something that looks bent or big through it?",
-  "Is the fish in the pond really where it looks?",
+  "Is a fish in an aquarium or a river really where it looks?",
   "Why do you think Grandpa's reading glasses make words look big?",
   "If you were a kingfisher, where would you dive from?",
   "Which is stronger: a tiny drop or a big drop?",
@@ -3265,7 +3265,7 @@
  "roots": {
   "context": "We have been learning about refraction, how light bends in water and lenses so things look broken, moved or big. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A pencil in water looks broken from the side and straight from straight above. Your hand finds it straight both times. Only the path of its light changed, not the pencil. So what we see shows the path the light took, not only the thing it came from.",
+   "truth": "A pencil in water looks broken from the side, but almost straight from above. Your hand finds it straight both times. Only the path of its light changed, not the pencil. So what we see shows the path the light took, not only the thing it came from.",
    "habit": "We assume our eyes show each thing where it is and as it is. But the eye follows light straight back, so any bend on the way moves the picture.",
    "evidence": "In the broken-pencil test, the pencil looked most broken from a slant and almost straight from above. Yet it felt straight under the water every time."
   },
