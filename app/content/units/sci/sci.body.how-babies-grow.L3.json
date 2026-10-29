@@ -3,11 +3,11 @@
  "title": "How a baby grows: from one cell to birth",
  "level": 3,
  "summary": {
-  "text": "Every person began as one cell, smaller than a grain of salt. It was made when a cell from each parent joined. That cell split into two, then four, then eight, and on and on. For about nine months the baby grew in its mother's womb, a stretchy bag of muscle. It floated in warm water and got food and oxygen from her blood, through a cord. At birth it took its first breath, and the cord left a belly button. Scientists still do not fully know how each cell knows what to become.",
+  "text": "Every person began as one cell, smaller than a grain of salt. This cell was made when a cell from each parent joined. That cell split into two, then four, then eight, and on and on. For about nine months the baby grew in their mother's womb, a stretchy bag of muscle. They floated in warm water and got food and oxygen from her blood, through a cord. At birth they took their first breath, and the cord left a belly button. Scientists still do not fully know how each cell knows what to become.",
   "art": "A curved path of pictures from left to right: one round cell, two cells, a ball of cells, a curled tiny baby, a bigger baby floating in the womb, and a newborn held against a grown-up's chest."
  },
  "intro": {
-  "hook": "Look at your hand. Spread your fingers wide. Once, all of you, your hands, eyes, bones and brain, was one single cell. It was smaller than the full stop at the end of this sentence. Where did all the rest of you come from?",
+  "hook": "Look at your hand. Spread your fingers wide. Once, all of you, your hands, eyes, bones and brain, was one single cell. That cell was smaller than the full stop at the end of this sentence. Where did all the rest of you come from?",
   "text": "Put a grain of salt on a dark plate and look at it closely. You began even smaller than that, as one cell. A cell is the smallest living building block of a body. Now you are made of about 30 trillion cells. Every one of them came from that first cell.",
   "art": "A child's open hand next to a dark plate with a single grain of salt on it, and a glowing circle showing one round cell even smaller than the grain."
  },
@@ -16,7 +16,7 @@
   "I can explain that one cell splits again and again into many cells, and that cells become different kinds, like skin, bone and heart.",
   "I can describe the womb, the cord, the placenta and the water around the baby, and say what each one does.",
   "I can put the main steps of growing in the womb in order, and say roughly how long it takes, about nine months.",
-  "I can describe what happens at birth: the baby comes out, takes its first breath, and the cord is cut.",
+  "I can describe what happens at birth: the baby comes out, takes their first breath, and the cord is cut.",
   "I can run a fair test that shows how water protects a baby, and explain my results with a claim, evidence and reasoning.",
   "I can say that families are made in many ways, including birth and adoption, and that every person began the same way.",
   "I can say what scientists agree on about growing babies, and what they still do not know."
@@ -37,8 +37,8 @@
   },
   {
    "term": "Egg cell",
-   "meaning": "A special cell from the mother's body. A baby starts when it joins with a cell from the father's body, called a sperm cell.",
-   "example": "A human egg cell is about as wide as a hair. It is much smaller than a hen's egg.",
+   "meaning": "A special cell from the mother's body. A baby starts when this cell joins with a cell from the father's body, called a sperm cell.",
+   "example": "A human egg cell is about as wide as a hair. That is much smaller than a hen's egg.",
    "art": "A single round cell next to a strand of hair, both shown under a magnifying glass."
   },
   {
@@ -49,15 +49,15 @@
   },
   {
    "term": "Embryo",
-   "meaning": "The name for a baby in its first eight weeks of growing, while its body parts are first forming.",
-   "example": "At six weeks, the embryo is about as long as a grain of rice, and its heart is already beating.",
+   "meaning": "The name for a baby in their first eight weeks of growing, while their body parts are first forming.",
+   "example": "At six weeks, the embryo is about as long as a grain of rice, and their heart is already beating.",
    "art": "A tiny curled shape like a grain of rice with a little glowing dot for a heart."
   },
   {
    "term": "Foetus",
-   "meaning": "The name for the growing baby from about nine weeks until it is born. It is said 'fee-tus'.",
-   "example": "At five months, the foetus can kick, suck its thumb and get hiccups.",
-   "art": "A baby curled up inside the womb, sucking its thumb."
+   "meaning": "The name for the growing baby from about nine weeks until they are born. It is said 'fee-tus'.",
+   "example": "At five months, the foetus can kick, suck their thumb and get hiccups.",
+   "art": "A baby curled up inside the womb, sucking their thumb."
   },
   {
    "term": "Womb",
@@ -86,7 +86,7 @@
   {
    "term": "Oxygen",
    "meaning": "A gas in the air that every cell needs to stay alive. We breathe it in.",
-   "example": "Before birth, the baby gets oxygen from the mother's blood, through the cord. After birth, it breathes air.",
+   "example": "Before birth, the baby gets oxygen from the mother's blood, through the cord. After birth, the baby breathes air.",
    "art": "Little blue bubbles marked O going from air into a person's lungs."
   },
   {
@@ -121,7 +121,7 @@
   },
   {
    "term": "Newborn",
-   "meaning": "A baby in its first few weeks after birth.",
+   "meaning": "A baby in their first few weeks after birth.",
    "example": "A newborn sees best things about 20 to 30 centimetres away. That is the distance to the face of the person holding it.",
    "art": "A newborn looking up at a grown-up's face, with a dotted line showing the short distance between them."
   },
@@ -148,8 +148,8 @@
   {
    "concept": "Everyone begins as one cell",
    "status": "defined",
-   "definition": "Every person begins as one single cell. It is made when a cell from the mother and a cell from the father join together.",
-   "description": "A cell is the smallest living building block of a body. The first cell of a baby is about as wide as a hair. It is hard to see without a microscope. Inside it is a mix of instructions from both parents. This is why children often look a little like both of their birth parents. That one cell holds everything needed to start building a whole person.",
+   "definition": "Every person begins as one single cell. This cell is made when a cell from the mother and a cell from the father join together.",
+   "description": "A cell is the smallest living building block of a body. The first cell of a baby is about as wide as a hair. This cell is hard to see without a microscope. Inside it is a mix of instructions from both parents. This is why children often look a little like both of their birth parents. That one cell holds everything needed to start building a whole person.",
    "examples": [
     "You, your parents, your grandparents and your friends all began as one cell.",
     "An elephant and a mouse also each began as one cell.",
@@ -163,7 +163,7 @@
    "concept": "One cell becomes many",
    "status": "defined",
    "definition": "The first cell splits into two cells. Each of those splits again, and again. This is called cell division, and it is how a body grows.",
-   "description": "About a day after it is made, the first cell splits into two. Two become four, and four become eight. For the first five days or so, the cells get smaller with each split, and the ball of cells stays the same size. Then it settles into the wall of the womb. Now food from the mother's blood reaches it, and the cells grow between splits. A grown-up has about 30 to 40 trillion cells. Every one came from that first cell.",
+   "description": "About a day after being made, the first cell splits into two. Two become four, and four become eight. For the first five days or so, the cells get smaller with each split, and the ball of cells stays the same size. Then the ball of cells settles into the wall of the womb. Now food from the mother's blood reaches them, and the cells grow between splits. A grown-up has about 30 to 40 trillion cells. Every one came from that first cell.",
    "examples": [
     "1 cell splits into 2, then 4, 8, 16, 32 and 64.",
     "After ten rounds of splitting, there are 1,024 cells.",
@@ -177,7 +177,7 @@
    "concept": "Cells become different kinds",
    "status": "defined",
    "definition": "As the cells multiply, they start to become different kinds: skin cells, bone cells, heart cells, brain cells and many more. This is called specialising.",
-   "description": "At first, all the cells look the same. Then they begin to change. Each cell has the same instruction book, called DNA. But each one reads different pages of it. A cell that reads the 'heart' pages becomes a heart cell and starts to beat. A cell that reads the 'skin' pages becomes skin. Scientists understand a lot about this. But they are still finding out exactly how each cell knows where it is and what to become.",
+   "description": "At first, all the cells look the same. Then they begin to change. Each cell has the same instruction book, called DNA. But each one reads different pages of it. A cell that reads the 'heart' pages becomes a heart cell and starts to beat. A cell that reads the 'skin' pages becomes skin. Scientists understand a lot about this. But they are still finding out exactly how each cell knows where they are and what to become.",
    "examples": [
     "Heart cells beat by themselves, even in a dish in a laboratory.",
     "Nerve cells grow long thin arms to carry messages.",
@@ -194,18 +194,18 @@
    "description": "Before a baby, the womb is about the size of a small pear. As the baby grows, the womb stretches and stretches. By the end it can hold a baby about 50 centimetres long. Inside the womb, the baby floats in a bag of warm water. It is dark, warm and full of sounds, like the mother's heartbeat and her voice. The womb is made of muscle, so at birth it can squeeze to push the baby out.",
    "examples": [
     "Before a baby, the womb is the size of a small pear. By the end, it is bigger than a football.",
-    "From about six months, the baby can hear its mother's heartbeat, all day long.",
+    "From about six months, the baby can hear their mother's heartbeat, all day long.",
     "Light reaches the baby only a little, like sunlight through your fingers."
    ],
    "perspectives": [],
    "art": "A side view of a mother's body with a cut-away showing a curled baby floating in the womb, the cord and placenta drawn simply.",
-   "context": "Where does a baby grow before it is born? This card explains the womb."
+   "context": "Where does a baby grow before they are born? This card explains the womb."
   },
   {
    "concept": "The placenta and the cord: food and air",
    "status": "defined",
    "definition": "The placenta grows on the wall of the womb. It takes food and oxygen from the mother's blood and passes them along the umbilical cord to the baby. It also takes the baby's waste away.",
-   "description": "A baby in the womb is surrounded by water. It cannot eat, and there is no air to breathe. So the mother's body feeds it. Her blood carries food and oxygen to the placenta. The baby's blood comes to the placenta too, through the cord. The two bloods stay apart, with a very thin wall between them. Food and oxygen pass through that wall into the baby's blood. Waste passes back out, and the mother's body gets rid of it.",
+   "description": "A baby in the womb is surrounded by water. They cannot eat, and there is no air to breathe. So the mother's body feeds it. Her blood carries food and oxygen to the placenta. The baby's blood comes to the placenta too, through the cord. The two bloods stay apart, with a very thin wall between them. Food and oxygen pass through that wall into the baby's blood. Waste passes back out, and the mother's body gets rid of it.",
    "examples": [
     "The dal and rice the mother eats become part of the baby's growing body.",
     "When the mother breathes in, some of that oxygen ends up in the baby.",
@@ -213,13 +213,13 @@
    ],
    "perspectives": [],
    "art": "A simple diagram: the mother's blood on one side of a thin wall in the placenta, the baby's blood on the other, with small arrows for food and oxygen going in and waste going out.",
-   "context": "A baby in the womb cannot eat or breathe air. So how does it get food and air? This card explains the placenta and the cord."
+   "context": "A baby in the womb cannot eat or breathe air. So how do they get food and air? This card explains the placenta and the cord."
   },
   {
    "concept": "The water around the baby",
    "status": "defined",
-   "definition": "The baby floats in warm water called amniotic fluid, inside a thin bag in the womb. The water cushions the baby, keeps it warm and lets it move.",
-   "description": "A growing baby is soft, and its mother walks, bends and sometimes bumps into things. The water around it solves this. A bump on the mother's tummy spreads out through the water, so the baby is hardly jolted. The water also stays at the same warm temperature, and gives the baby room to stretch and kick. The baby swallows some of the water. This is practice for swallowing, and the water carries tastes from the mother's food.",
+   "definition": "The baby floats in warm water called amniotic fluid, inside a thin bag in the womb. The water cushions the baby, keeps them warm and lets them move.",
+   "description": "A growing baby is soft, and their mother walks, bends and sometimes bumps into things. The water around the baby solves this. A bump on the mother's tummy spreads out through the water, so the baby is hardly jolted. The water also stays at the same warm temperature, and gives the baby room to stretch and kick. The baby swallows some of the water. This is practice for swallowing, and the water carries tastes from the mother's food.",
    "examples": [
     "A raw egg in a jar filled to the top with water stays whole when you shake the jar. In an empty jar, it cracks.",
     "Babies whose mothers ate a lot of carrot liked carrot flavour more after birth, in one study.",
@@ -227,13 +227,13 @@
    ],
    "perspectives": [],
    "art": "A baby floating calmly in a clear bubble of water, with wavy lines showing a bump from outside spreading out and fading before it reaches the baby.",
-   "context": "Why does a baby float in water before it is born? This card explains what the water does."
+   "context": "Why does a baby float in water before they are born? This card explains what the water does."
   },
   {
    "concept": "Nine months of growing",
    "status": "defined",
    "definition": "A human baby usually grows in the womb for about 40 weeks, which is about nine months. Doctors split this time into three parts of about three months each.",
-   "description": "In the first three months, the body parts form. By about six weeks a tiny heart is beating. By twelve weeks the baby is about as long as your finger and has tiny fingers and toes. In the middle three months, the baby grows and moves. Fingerprints form, and the baby starts to hear sounds. In the last three months, the baby gets much bigger and fatter. Its lungs get ready to breathe air. By birth, a baby is usually about 50 centimetres long and weighs about 3 kilograms. Doctors count the 40 weeks from about two weeks before the first cell is made, so the baby itself grows for about 38 weeks.",
+   "description": "In the first three months, the body parts form. By about six weeks a tiny heart is beating. By twelve weeks the baby is about as long as your finger and has tiny fingers and toes. In the middle three months, the baby grows and moves. Fingerprints form, and the baby starts to hear sounds. In the last three months, the baby gets much bigger and fatter. Their lungs get ready to breathe air. By birth, a baby is usually about 50 centimetres long and weighs about 3 kilograms. Doctors count the 40 weeks from about two weeks before the first cell is made, so the baby really grows for about 38 weeks.",
    "examples": [
     "At 8 weeks: about the size of a raspberry.",
     "At 20 weeks, halfway: about as long as a banana, from head to bottom.",
@@ -246,7 +246,7 @@
   {
    "concept": "What an unborn baby can do",
    "status": "defined",
-   "definition": "Before it is born, a baby moves, kicks, sucks its thumb, gets hiccups, swallows, sleeps and wakes. In the last months it can hear sounds.",
+   "definition": "Before being born, a baby moves, kicks, sucks their thumb, gets hiccups, swallows, sleeps and wakes. In the last months they can hear sounds.",
    "description": "Doctors have watched babies in the womb using ultrasound. They have seen them yawn, stretch and suck their thumbs. From about six months, babies react to loud sounds. They hear the mother's voice best, because it travels through her own body. After birth, newborns can tell their mother's voice from other voices. In one famous study, newborns even preferred a story their mother had read aloud many times before they were born.",
    "examples": [
     "Mothers often feel the baby kick, like a little flutter or a thump.",
@@ -254,14 +254,14 @@
     "A newborn often calms down when it hears its mother's voice."
    ],
    "perspectives": [],
-   "art": "An ultrasound-style picture of a baby sucking its thumb, with little sound waves drawn coming from outside.",
-   "context": "Does a baby do anything before it is born? This card explains what it does in the womb."
+   "art": "An ultrasound-style picture of a baby sucking their thumb, with little sound waves drawn coming from outside.",
+   "context": "Does a baby do anything before they are born? This card explains what they do in the womb."
   },
   {
    "concept": "Birth",
    "status": "defined",
    "definition": "Birth is when the baby leaves the mother's body. Most often the strong muscles of the womb squeeze and push the baby out. Sometimes doctors lift the baby out through a cut in the mother's tummy. This is called a caesarean birth.",
-   "description": "When the baby is ready, the womb starts to squeeze, again and again. These squeezes are called contractions. They slowly push the baby down and out. It can take many hours, and it is hard work for the mother. A baby's skull bones are not yet joined, so its head can squeeze through safely. Sometimes it is safer for the baby to be lifted out by doctors in a caesarean birth. Both ways are birth. Both bring a new person into the world.",
+   "description": "When the baby is ready, the womb starts to squeeze, again and again. These squeezes are called contractions. They slowly push the baby down and out. It can take many hours, and it is hard work for the mother. A baby's skull bones are not yet joined, so their head can squeeze through safely. Sometimes it is safer for the baby to be lifted out by doctors in a caesarean birth. Both ways are birth. Both bring a new person into the world.",
    "examples": [
     "A baby's head has soft spots where the skull bones have not yet joined.",
     "Doctors, nurses and midwives help with births in hospitals and at home.",
@@ -274,8 +274,8 @@
   {
    "concept": "The first breath and the belly button",
    "status": "defined",
-   "definition": "Right after birth, the baby takes its first breath of air and usually cries. Then the cord is clamped and cut. The little stump dries and falls off, and leaves the belly button.",
-   "description": "Before birth, the lungs are filled with fluid, not air. At birth, the baby breathes in, and air fills its lungs for the first time. A good cry helps open them. Now the baby gets oxygen by breathing, so the cord is no longer needed. Doctors clamp it and cut it. The cord has no nerves, so this does not hurt. After one or two weeks, the dry stump falls off. What is left is the belly button.",
+   "definition": "Right after birth, the baby takes their first breath of air and usually cries. Then the cord is clamped and cut. The little stump dries and falls off, and leaves the belly button.",
+   "description": "Before birth, the lungs are filled with fluid, not air. At birth, the baby breathes in, and air fills their lungs for the first time. A good cry helps open them. Now the baby gets oxygen by breathing, so the cord is no longer needed. Doctors clamp it and cut it. The cord has no nerves, so this does not hurt. After one or two weeks, the dry stump falls off. What is left is the belly button.",
    "examples": [
     "Look at your belly button. It is where your cord once joined you to the placenta.",
     "Some belly buttons go in and some stick out. Both are normal.",
@@ -289,9 +289,9 @@
    "concept": "A newborn and the people who care for it",
    "status": "defined",
    "definition": "A human newborn cannot walk, feed itself or even hold up its own head. It needs grown-ups to feed it, keep it warm and keep it safe for many years.",
-   "description": "A calf can stand within an hour of being born. A human baby takes about a year to walk. Its brain is only about a quarter of its grown-up size, and it keeps growing fast after birth. A newborn sees best things about 20 to 30 centimetres away. That is the distance to the face of the person holding it. Babies stay warm and calm when held skin to skin. Families are made in many ways. A baby may be raised by the parents who gave birth to it, by an adoptive family, by grandparents or by others who love it.",
+   "description": "A calf can stand within an hour of being born. A human baby takes about a year to walk. Their brain is only about a quarter of its grown-up size, and it keeps growing fast after birth. A newborn sees best things about 20 to 30 centimetres away. That is the distance to the face of the person holding it. Babies stay warm and calm when held skin to skin. Families are made in many ways. A baby may be raised by the parents who gave birth to them, by an adoptive family, by grandparents or by others who love them.",
    "examples": [
-    "Holding a tiny early baby against a grown-up's bare chest keeps it warm. This is called kangaroo care.",
+    "Holding a tiny early baby against a grown-up's bare chest keeps them warm. This is called kangaroo care.",
     "A newborn grabs your finger tightly if you put it in its palm.",
     "Adopted children grew in a womb like everyone else, and were welcomed into the family that raises them."
    ],
@@ -302,7 +302,7 @@
   {
    "concept": "How each cell knows what to become",
    "status": "idea",
-   "description": "Scientists know that cells send each other chemical messages. A cell can tell where it is by how strong the message is around it. Near the source, the message is strong. Far away, it is weak. This idea was made popular by the English scientist Lewis Wolpert, around 1969. It explains a lot, like why your thumb grows on one side of your hand and your little finger on the other. But a whole body has millions of choices like this. How they all fit together so neatly is still being worked out.",
+   "description": "Scientists know that cells send each other chemical messages. A cell can tell where they are by how strong the message around them is. Near the source, the message is strong. Far away, it is weak. This idea was made popular by the English scientist Lewis Wolpert, around 1969. It explains a lot, like why your thumb grows on one side of your hand and your little finger on the other. But a whole body has millions of choices like this. How they all fit together so neatly is still being worked out.",
    "examples": [
     "In a growing hand, a message spreads from the little-finger side. Each finger becomes the kind it is from how strong the message is where it grows.",
     "Scientists can grow tiny clumps of cells, called organoids, that start to form bits of organs by themselves.",
@@ -328,7 +328,7 @@
     },
     {
      "who": "The 'energy' idea (Holly Dunsworth and others, 2012)",
-     "explanation": "A mother's body can only make so much energy each day. By nine months, the growing baby needs almost as much as her body can give. So the baby is born when feeding it from inside gets too hard."
+     "explanation": "A mother's body can only make so much energy each day. By nine months, the growing baby needs almost as much as her body can give. So the baby is born when feeding them from inside gets too hard."
     },
     {
      "who": "Many scientists today",
@@ -363,7 +363,7 @@
  ],
  "challenging": [
   {
-   "claim": "A tiny, ready-made person is curled up inside the egg or the sperm cell, and it just grows bigger.",
+   "claim": "A tiny, ready-made person is curled up inside the egg or the sperm cell, and they just grow bigger.",
    "who": "Many scientists about 300 years ago, after the first microscopes. In 1694 Nicolaas Hartsoeker drew a tiny person inside a sperm cell. Many children think this too.",
    "for": "Babies do look like small people. And the first microscopes showed blurry shapes that people could imagine as tiny bodies.",
    "against": "In 1759 Caspar Friedrich Wolff watched hen's eggs day by day, and saw the body parts form one after another. Karl Ernst von Baer studied this carefully in the 1820s. Better microscopes showed the first cell has no body parts at all.",
@@ -374,7 +374,7 @@
    "claim": "What a mother thinks or sees changes how the baby looks. For example, seeing a rabbit gives the baby long ears.",
    "who": "An old belief in many countries, including India and Europe.",
    "for": "People noticed babies with marks or unusual features, and looked for a reason.",
-   "against": "Thoughts and sights do not travel to the baby. Only things in the mother's blood, like food, medicine and some germs, reach it. Birthmarks and features come from how cells grow, not from what the mother saw.",
+   "against": "Thoughts and sights do not travel to the baby. Only things in the mother's blood, like food, medicine and some germs, reach the baby. Birthmarks and features come from how cells grow, not from what the mother saw.",
    "status": "rejected",
    "context": "This card is about an old belief that a mother's thoughts change how her baby looks."
   },
@@ -400,14 +400,14 @@
    "for": "Mothers read a story aloud many times before birth. After birth, their babies sucked in a way that showed they preferred that story to a new one.",
    "against": "Some scientists say this is a simple getting-used-to a sound, not real remembering. How much a baby learns before birth is still argued about.",
    "status": "debated",
-   "context": "This card is about whether a baby can learn before it is born."
+   "context": "This card is about whether a baby can learn before they are born."
   }
  ],
  "big_questions": [
   {
    "q": "You started as one cell. Are you still the same person as that cell?",
    "kind": "big",
-   "hint": "Almost nothing of that first cell is left. But you grew from it without ever stopping."
+   "hint": "Almost nothing of that first cell is left. But you grew from that cell without ever stopping."
   },
   {
    "q": "Every cell in your body has the same instructions. So why is an eye cell so different from a toe cell?",
@@ -480,7 +480,7 @@
    "Kavya shook her head.",
    "\"Before you were born. When you were about four months along in the womb, the skin on your fingertips grew these lines. Tiny chance differences in how your skin grew made a pattern that nobody else has. And then they stayed. They grow bigger with you, but they never change their pattern.\"",
    "Kavya held her fingers up close to her eyes. The lines seemed to swirl.",
-   "\"And before that,\" said Paati, \"you were smaller still. You were one cell, smaller than a grain of salt. It was made when a cell from each of the two people who made you joined together. Then that one cell split into two. Two became four. Four became eight. On and on, for months. Some cells became your heart, and it started to beat when you were no bigger than a grain of rice. Some became your eyes. Some became these fingers. Every bit of you came from that one cell. Everybody's did. Kabir's too. Zoya's too. Mine too.\"",
+   "\"And before that,\" said Paati, \"you were smaller still. You were one cell, smaller than a grain of salt. That cell was made when a cell from each of the two people who made you joined together. Then that one cell split into two. Two became four. Four became eight. On and on, for months. Some cells became your heart, and it started to beat when you were no bigger than a grain of rice. Some became your eyes. Some became these fingers. Every bit of you came from that one cell. Everybody's did. Kabir's too. Zoya's too. Mine too.\"",
    "Kavya giggled. Then she was quiet for a while. \"The lady who carried me,\" she said slowly. \"She fed me for nine months. Even though she didn't keep me.\"",
    "\"Yes,\" said Paati. \"Every day. Through this.\" She tapped the belly button once more. \"And then Amma and Appa drove all night in the rain. You have been fed and carried by a lot of people, Kavya. Most people have no idea how many.\"",
    "\"So my story doesn't start in the middle.\"",
@@ -501,7 +501,7 @@
    "A classroom with children chattering, and one girl quietly colouring a small square in her notebook very hard.",
    "A grandmother cleaning curry leaves on kitchen steps in the evening light, a girl sitting beside her.",
    "Close-up of a grandmother's wrinkled hand turning a child's palm up under a kitchen bulb, the fingertip lines glowing.",
-   "A tiny curled baby floating in the warm womb, its fingertips showing faint new lines.",
+   "A tiny curled baby floating in the warm womb, their fingertips showing faint new lines.",
    "A book page with ten inky fingerprints in a circle around a thumbprint, and a tiny dot labelled 'Me, at the very start'.",
    "A whole class holding their hands up to sunny windows, turning them in the light."
   ]
@@ -573,9 +573,9 @@
       "What was everyone at the very start? (One cell.)",
       "What is left when the cord falls off? (The belly button.)",
       "About how many weeks does a baby grow in the womb? (About 40.)",
-      "Name one thing a baby can do in the womb. (Kick, suck its thumb, hiccup, hear, swallow.)",
-      "Why can't a baby breathe air in the womb? (It is in water, and there is no air there.)",
-      "What does a cell do to make more cells? (It splits in two.)"
+      "Name one thing a baby can do in the womb. (Kick, suck their thumb, hiccup, hear, swallow.)",
+      "Why can't a baby breathe air in the womb? (They are in water, and there is no air there.)",
+      "What does a cell do to make more cells? (The cell splits in two.)"
      ]
     },
     {
@@ -607,7 +607,7 @@
      "id": "s2",
      "mins": 3,
      "do": "Read square 6 together before you start. Point at the heart on the track.",
-     "say": "At about six weeks, the baby is as small as a grain of rice. But its heart is already beating. Can you feel your heart now?",
+     "say": "At about six weeks, the baby is as small as a grain of rice. But their heart is already beating. Can you feel your heart now?",
      "kid": "Look at square 6. The heart starts beating there. Put your hand on your chest. Feel yours beat.",
      "check": {
       "t": "mcq",
@@ -618,7 +618,7 @@
        "Already as big as a newborn"
       ],
       "a": 0,
-      "why": "At six weeks the baby is only about as long as a grain of rice. Yet its tiny heart is already beating. Picking a cricket ball usually means thinking babies grow fast at the start. In fact most of the growing in size happens in the last months."
+      "why": "At six weeks the baby is only about as long as a grain of rice. Yet their tiny heart is already beating. Picking a cricket ball usually means thinking babies grow fast at the start. In fact most of the growing in size happens in the last months."
      },
      "context": "This is a practice step in the Forty Weeks game. You look at week 6, when the heart starts beating."
     },
@@ -670,7 +670,7 @@
    "setup": [
     {
      "art": "Twelve hand-drawn cards, each with an animal picture and a number of days written large.",
-     "caption": "1. Make 12 animal cards. Write the days each baby grows inside its mother."
+     "caption": "1. Make 12 animal cards. Write the days each baby grows inside their mother."
     },
     {
      "art": "Two children each holding a fan of cards, one laying an elephant card on top of a mouse card.",
@@ -700,7 +700,7 @@
    "rules": [
     "Shuffle the cards and share them out face down.",
     "Each player turns over their top card at the same time.",
-    "The animal whose baby grows longest inside its mother wins both cards.",
+    "The animal whose baby grows longest inside their mother wins both cards.",
     "If two cards are close, the winner must say the difference in days.",
     "When the cards run out, the player with the most cards wins."
    ],
@@ -709,7 +709,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Shuffle the 12 cards. 2. Share them out. 3. Show your child the human card first.",
-     "say": "A human baby grows inside its mother for about 270 days. Let's see which animals wait longer, and which wait less.",
+     "say": "A human baby grows inside their mother for about 270 days. Let's see which animals wait longer, and which wait less.",
      "kid": "Find the human card. 270 days! Now let's see who waits longer.",
      "context": "This is the first step of Who Waits Longest?, a card game comparing how long animal babies grow before birth."
     },
@@ -748,7 +748,7 @@
        ]
       }
      ],
-     "think": "A whale is far bigger than an elephant, but its baby grows for about a year. Why might that be?",
+     "think": "A whale is far bigger than an elephant, but a whale baby grows for about a year. Why might that be?",
      "context": "This is the last step of Who Waits Longest?. You line up all the animal cards from shortest to longest wait."
     }
    ]
@@ -797,7 +797,7 @@
     }
    ],
    "record": "Fill in the table. Then write three sentences. My claim is... My evidence is... My reasoning is...",
-   "context": "This experiment uses a raw egg as a pretend baby. You shake it in an empty jar and in a jar of water, to see how the water around a real baby in the womb protects it.",
+   "context": "This experiment uses a raw egg as a pretend baby. You shake it in an empty jar and in a jar of water, to see how the water around a real baby in the womb protects them.",
    "setup": [
     {
      "art": "Two identical clear plastic jars on a tray, one empty and one filled to the top with water, each with a raw egg inside.",
@@ -817,7 +817,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Put the two jars on a tray. 2. Ask your child to guess what will happen to each egg when shaken.",
-     "say": "Here is a pretend baby, a raw egg. Before birth, a real baby floats in water in the womb. Let's find out if water protects it. What do you think will happen?",
+     "say": "Here is a pretend baby, a raw egg. Before birth, a real baby floats in water in the womb. Let's find out if water protects them. What do you think will happen?",
      "kid": "This egg is a pretend baby. One jar will have water. One will be empty. Which egg will stay safe? Make a guess.",
      "ask": [
       {
@@ -882,7 +882,7 @@
        ]
       }
      ],
-     "think": "A real baby is not in a hard jar, but in a soft womb inside a body. What other things protect it?",
+     "think": "A real baby is not in a hard jar, but in a soft womb inside a body. What other things protect the baby?",
      "context": "This is the last step of the Floating Safe experiment. You explain your results with a claim, evidence and reasoning."
     }
    ]
@@ -947,7 +947,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Fill the bag almost full with water. 2. Twist the top and close it tight with a rubber band. 3. Check over a towel that it does not leak.",
-     "say": "A baby in the womb is in water, inside its mother's body. Let's find out what sounds reach it.",
+     "say": "A baby in the womb is in water, inside their mother's body. Let's find out what sounds reach them.",
      "kid": "Fill the bag with water. Close it tight with a rubber band. Check it does not drip.",
      "context": "This is the first step of Hearing Through Water. You make a bag of water to listen through, like a baby in the womb."
     },
@@ -1185,9 +1185,9 @@
       {
        "q": "How do you think one cell becomes a whole baby?",
        "good": [
-        "It grows bigger.",
-        "It splits into more cells.",
-        "It makes copies."
+        "The cell grows bigger.",
+        "The cell splits into more cells.",
+        "The cell makes copies."
        ]
       }
      ],
@@ -1199,7 +1199,7 @@
      "do": "1. Split the ball into two equal halves. 2. Roll each into a ball. 3. Split each again. 4. Keep going: 4, then 8, then 16. 5. Lay each round in a new row.",
      "say": "A real cell splits into two. Each new cell splits again. Let's do the same. Count how many we have each time.",
      "kid": "Split the ball into two. Roll them round. Split each one again. Count them each time.",
-     "parent": "This matches real life. In the first five days, the cells get smaller with each split, and the ball of cells stays the same size. Later, once food from the mother reaches it, the cells grow between splits.",
+     "parent": "This matches real life. In the first five days, the cells get smaller with each split, and the ball of cells stays the same size. Later, once food from the mother reaches the ball, the cells grow between splits.",
      "context": "This is the splitting step of One Cell to Many. You split the dough ball again and again, like a cell dividing."
     },
     {
@@ -1237,7 +1237,7 @@
        ]
       }
      ],
-     "think": "Every real cell has the same instruction book. How do you think it knows which page to read?",
+     "think": "Every real cell has the same instruction book. How do you think each cell knows which page to read?",
      "context": "This is the last step of One Cell to Many. You change some dough balls to show that cells become different kinds, like skin and blood."
     }
    ]
@@ -1316,7 +1316,7 @@
      "kid": "Look at the gaps between marks. Where is the biggest jump?",
      "check": {
       "t": "mcq",
-      "q": "On the fruit line, a baby is about 6 cm at 12 weeks and about 25 cm at 20 weeks. How much did it grow?",
+      "q": "On the fruit line, a baby is about 6 cm at 12 weeks and about 25 cm at 20 weeks. How much did the baby grow?",
       "options": [
        "About 19 cm",
        "About 31 cm",
@@ -1758,7 +1758,7 @@
      "id": "s1",
      "mins": 20,
      "do": "1. Mark 40 weeks along the scroll, 5 centimetres apart. 2. Draw week 1, one cell. 3. Week 2, a ball of cells. 4. Week 6, a beating heart. 5. Week 8, a raspberry-sized embryo. 6. Week 12, fingers and toes.",
-     "say": "In the first three months, all the main body parts form. The baby is still very small. Let's draw it.",
+     "say": "In the first three months, all the main body parts form. The baby is still very small. Let's draw the baby.",
      "kid": "Mark 40 weeks. Draw one cell at week 1. Draw a heart at week 6. Draw fingers at week 12.",
      "context": "This is day 1 of the Forty-Week Scroll project. You mark the 40 weeks and draw the first three months of growing."
     },
@@ -1766,7 +1766,7 @@
      "id": "s2",
      "mins": 20,
      "do": "Draw weeks 13 to 28: week 16, fingerprints forming. Week 18, first kicks the mother feels. Week 20, halfway, banana-sized. Week 24, hearing sounds. Week 28, eyes opening.",
-     "say": "In the middle months, the baby moves a lot. It starts to hear. Its fingerprints form.",
+     "say": "In the middle months, the baby moves a lot. They start to hear. Its fingerprints form.",
      "kid": "Draw the middle months. Fingerprints at week 16. Kicks at week 18. Hearing at week 24.",
      "wait": "Do this on day 2.",
      "check": {
@@ -1786,14 +1786,14 @@
      "id": "s3",
      "mins": 20,
      "do": "1. Draw weeks 29 to 40: getting chubby, head turning down. 2. Draw birth at the very end. 3. Show the scroll to a family member and explain it.",
-     "say": "In the last months, the baby grows big and fat, and its lungs get ready. Then comes birth. Now tell someone the whole story.",
+     "say": "In the last months, the baby grows big and fat, and their lungs get ready. Then comes birth. Now tell someone the whole story.",
      "kid": "Draw the last months and birth. Then show your scroll to someone. Tell them the story.",
      "wait": "Do this on day 3.",
      "ask": [
       {
        "q": "Tell the story of the scroll from start to end.",
        "good": [
-        "It starts as one cell, splits into many, the heart beats, fingers form, it kicks and hears, gets big, and is born."
+        "The baby starts as one cell, splits into many, the heart beats, fingers form, the baby kicks and hears, gets big, and is born."
        ]
       }
      ],
@@ -1850,7 +1850,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Talk about how the womb keeps a baby safe.",
-     "say": "A baby in the womb is protected by water, by the soft womb, and by the mother's body around it. How can we use those ideas?",
+     "say": "A baby in the womb is protected by water, by the soft womb, and by the mother's body around them. How can we use those ideas?",
      "kid": "How does the womb keep a baby safe? Use those ideas for your egg.",
      "ask": [
       {
@@ -1969,7 +1969,7 @@
        "Cover the doll's face with cloth"
       ],
       "a": 0,
-      "why": "A fold of cloth behind the head holds it up, as a grown-up's hand would. A looser sling lets it flop more. Covering a real baby's face is never safe, because it needs to breathe freely."
+      "why": "A fold of cloth behind the head holds it up, as a grown-up's hand would. A looser sling lets it flop more. Covering a real baby's face is never safe, because they need to breathe freely."
      },
      "context": "This is the testing step of the Hold My Head challenge. You walk with a doll in your sling and check its head."
     }
@@ -2000,10 +2000,10 @@
      "t": "mcq",
      "p": "What does one cell do to make more cells?",
      "opts": [
-      "It splits into two",
-      "It melts",
-      "It eats other cells",
-      "It stays the same for nine months"
+      "Splits into two",
+      "Melts",
+      "Eats other cells",
+      "Stays the same for nine months"
      ],
      "a": 0,
      "why": "A cell splits into two, then each of those splits again. Picking 'eats other cells' mixes it up with how some germs are fought by the body."
@@ -2019,7 +2019,7 @@
     },
     {
      "t": "mcq",
-     "p": "Where does a baby grow before it is born?",
+     "p": "Where does a baby grow before they are born?",
      "opts": [
       "In the womb",
       "In the stomach",
@@ -2070,7 +2070,7 @@
      "t": "truefalse",
      "p": "The baby floats in warm water inside the womb.",
      "a": true,
-     "why": "True. This water, called amniotic fluid, cushions the baby and keeps it warm."
+     "why": "True. This water, called amniotic fluid, cushions the baby and keeps them warm."
     },
     {
      "t": "mcq",
@@ -2136,7 +2136,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort these. Can a baby do this before it is born, or only after?",
+     "p": "Sort these. Can a baby do this before they are born, or only after?",
      "cats": [
       "Before birth too",
       "Only after birth"
@@ -2179,7 +2179,7 @@
     {
      "t": "draw",
      "p": "Draw a baby in the womb. Label the womb, the water, the cord and the placenta.",
-     "a": "A curled baby inside a round womb, surrounded by water, with a cord running from its tummy to a round placenta on the womb wall.",
+     "a": "A curled baby inside a round womb, surrounded by water, with a cord running from their tummy to a round placenta on the womb wall.",
      "why": "A good drawing shows the cord joined at the baby's tummy, and the placenta on the wall of the womb.",
      "art": "An empty oval outline for the child to draw in.",
      "how": "a5"
@@ -2243,7 +2243,7 @@
      "t": "truefalse",
      "p": "A mother's thoughts can change the shape of her baby's ears.",
      "a": false,
-     "why": "False. This is an old belief. Thoughts do not travel to the baby. Only things in the blood, like food and medicines, reach it."
+     "why": "False. This is an old belief. Thoughts do not travel to the baby. Only things in the blood, like food and medicines, reach the baby."
     },
     {
      "t": "truefalse",
@@ -2283,7 +2283,7 @@
     },
     {
      "t": "match",
-     "p": "Match each animal to about how long its baby grows inside the mother.",
+     "p": "Match each animal to about how long their baby grows inside the mother.",
      "pairs": [
       [
        "Mouse",
@@ -2319,7 +2319,7 @@
      "p": "Why can't a baby in the womb breathe air?",
      "lines": 3,
      "a": "Because it is floating in water inside the womb, and there is no air there. It gets oxygen from its mother's blood instead, through the cord.",
-     "why": "The baby's lungs are full of fluid until birth. Its oxygen comes through the cord."
+     "why": "The baby's lungs are full of fluid until birth. Their oxygen comes through the cord."
     },
     {
      "t": "sort",
@@ -2363,7 +2363,7 @@
       "water",
       "baby"
      ],
-     "why": "The baby floats in water inside the womb. The cord joins its tummy to the placenta on the womb wall.",
+     "why": "The baby floats in water inside the womb. The cord joins their tummy to the placenta on the womb wall.",
      "art": "A simple drawing of a baby in the womb with five empty label lines."
     },
     {
@@ -2375,7 +2375,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw what you think one cell looks like, and then what it looks like after splitting four times.",
+     "p": "Draw what you think one cell looks like, and then what they look like after splitting four times.",
      "a": "One circle, then 2, then 4, then 8, then 16 circles.",
      "why": "Each split doubles the number. After four splits there are 16 cells.",
      "how": "a1"
@@ -2430,14 +2430,14 @@
      "t": "write",
      "p": "Every cell has the same DNA. How do you think a cell knows whether to become a toe or an eye?",
      "lines": 4,
-     "a": "A good answer: the cells send each other chemical messages. A cell can tell where it is from how strong a message is around it. Then it reads the right part of its instructions.",
+     "a": "A good answer: the cells send each other chemical messages. A cell can tell where they are from how strong a message is around them. Then they read the right part of their instructions.",
      "why": "This is still being worked out by scientists. Any thoughtful answer that mentions messages between cells, or where the cell is, shows good thinking."
     },
     {
      "t": "write",
      "p": "Is a person the same person as the cell they began as? Give a reason for yes and a reason for no.",
      "lines": 4,
-     "a": "Yes: you grew from that cell without stopping, so it was the start of you. No: that cell had none of your memories and no body like yours, so it was very different from you now.",
+     "a": "Yes: you grew from that cell without stopping, so that cell was the start of you. No: that cell had none of your memories and no body like yours, so the cell was very different from you now.",
      "why": "There is no single right answer. A good answer gives a reason on each side."
     },
     {
@@ -2476,8 +2476,8 @@
      "t": "write",
      "p": "Why might it be good for a newborn to see best at about 25 centimetres?",
      "lines": 3,
-     "a": "That is the distance to the face of the person holding it. So the baby sees the faces of the people who feed and care for it, and starts to learn them.",
-     "why": "Seeing close faces helps a baby bond with the people who look after it.",
+     "a": "That is the distance to the face of the person holding it. So the baby sees the faces of the people who feed and care for them, and starts to learn them.",
+     "why": "Seeing close faces helps a baby bond with the people who look after them.",
      "how": "a6"
     },
     {
@@ -2773,8 +2773,8 @@
    "art": "Close-up of a newborn's whole hand wrapped round one adult finger."
   },
   {
-   "text": "A cow and her calf in the street, with the calf already walking. Compare it with a human baby.",
-   "art": "A calf walking beside its mother on a village lane, a mother carrying a baby passing by."
+   "text": "A cow and her calf in the street, with the calf already walking. Compare the calf with a human baby.",
+   "art": "A calf walking beside their mother on a village lane, a mother carrying a baby passing by."
   },
   {
    "text": "Your own baby clothes, kept in a cupboard. Hold them up against you now.",
@@ -2783,7 +2783,7 @@
  ],
  "open_questions": [
   {
-   "q": "How does each cell know exactly where it is and what to become?",
+   "q": "How does each cell know exactly where they are and what to become?",
    "why_open": "Scientists know cells send chemical messages. But how millions of messages fit together into a whole, right-sized body is still being worked out."
   },
   {
@@ -2803,7 +2803,7 @@
    "why_open": "They have been found in many parts of mothers' bodies, for decades. Some studies say they help heal, others link them to illness. Nobody knows yet."
   },
   {
-   "q": "How much does a baby learn and remember before it is born?",
+   "q": "How much does a baby learn and remember before they are born?",
    "why_open": "Newborns know their mother's voice. But how much more they learn in the womb is still argued about."
   },
   {
@@ -2818,7 +2818,7 @@
   "How many people looked after you before you could talk?",
   "Which animal baby do you think waits longest to be born?",
   "If one cell doubles every day, how many would there be after a week?",
-  "What do you think a baby needs most in its first week?",
+  "What do you think a baby needs most in their first week?",
   "Why do you think babies like being rocked gently?",
   "Who do you look a bit like in your family? Who do you not look like at all?",
   "What would you tell a baby who was just born?",
@@ -2830,7 +2830,7 @@
    "a": "To learn how to divide."
   },
   {
-   "j": "What did the cell say to its twin after splitting?",
+   "j": "What did the cell say to their twin after splitting?",
    "a": "I'm beside myself!"
   },
   {
@@ -2938,7 +2938,7 @@
    "context": "This is about the Who Waits Longest? card game, which compares how long different animal babies grow before birth.",
    "chart": {
     "type": "bar",
-    "title": "About how many days each baby grows inside its mother",
+    "title": "About how many days each baby grows inside their mother",
     "x": "Animal",
     "y": "Days",
     "data": [
@@ -3254,12 +3254,12 @@
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to split a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that tiny thing you cannot see, this huge banyan tree grows.'",
-    "link": "You began as one cell, too small to see. Everything you are now grew out of it."
+    "link": "You began as one cell, too small to see. Everything you are now grew out of that one cell."
    },
    {
     "source": "Thich Nhat Hanh, the idea of 'interbeing'",
     "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing exists all by itself.",
-    "link": "A baby is built from its mother's meals. In them are the farmer's rice, the rain and the sun."
+    "link": "A baby is built from their mother's meals. In them are the farmer's rice, the rain and the sun."
    }
   ],
   "science": [
@@ -3274,7 +3274,7 @@
   ],
   "other_view": {
    "who": "Many biologists, and the Charvaka thinkers of ancient India",
-   "view": "A baby is the result of cells, chemistry and food. Nothing more is needed to explain it, and there is no deeper oneness behind it."
+   "view": "A baby is the result of cells, chemistry and food. Nothing more is needed to explain them, and there is no deeper oneness behind it."
   },
   "practice": {
    "title": "Listen to the first drum",
@@ -3291,7 +3291,7 @@
   "art": "A child sitting cross-legged with one hand on her heart and one on her belly button, faint lines spreading out from her to a rice field, a river, the sun and a smiling woman."
  },
  "how_we_found_out": {
-  "story": "After the first microscopes, about 330 years ago, many scientists thought a tiny, ready-made person was hidden inside the egg or the sperm cell. In 1694 the Dutch scientist Nicolaas Hartsoeker drew a little curled-up man inside a sperm cell. Growing, they thought, was just this tiny person getting bigger. In 1759 the German scientist Caspar Friedrich Wolff tested the idea. He opened hen's eggs on different days and looked closely. He saw no tiny chick at the start. Instead, the parts, like the blood vessels and the gut, formed one after another. In 1827 Karl Ernst von Baer found the real egg cell of a mammal, inside a dog. It was a single tiny cell, with no body parts in it. In 1876 Oscar Hertwig watched a sperm cell enter a sea urchin's egg under a microscope. He saw their two centres join into one. So a baby is not hidden in a cell, waiting to grow. It is built, step by step, from one new cell.",
+  "story": "After the first microscopes, about 330 years ago, many scientists thought a tiny, ready-made person was hidden inside the egg or the sperm cell. In 1694 the Dutch scientist Nicolaas Hartsoeker drew a little curled-up man inside a sperm cell. Growing, they thought, was just this tiny person getting bigger. In 1759 the German scientist Caspar Friedrich Wolff tested the idea. He opened hen's eggs on different days and looked closely. He saw no tiny chick at the start. Instead, the parts, like the blood vessels and the gut, formed one after another. In 1827 Karl Ernst von Baer found the real egg cell of a mammal, inside a dog. That egg was a single tiny cell, with no body parts in it. In 1876 Oscar Hertwig watched a sperm cell enter a sea urchin's egg under a microscope. He saw their two centres join into one. So a baby is not hidden in a cell, waiting to grow. They are built, step by step, from one new cell.",
   "who": "Nicolaas Hartsoeker, Caspar Friedrich Wolff, Karl Ernst von Baer and Oscar Hertwig",
   "when": "1694 (Hartsoeker's drawing), 1759 (Wolff), 1827 (von Baer) and 1876 (Hertwig)",
   "wrong_idea": "People thought a tiny, ready-made person was inside the egg or sperm, and only grew bigger. Wolff watched hen's eggs day by day and saw the parts form one after another. Von Baer found that a mammal's egg is a single cell with no parts in it."

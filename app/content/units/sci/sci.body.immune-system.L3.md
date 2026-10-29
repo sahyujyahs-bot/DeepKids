@@ -19,7 +19,7 @@
 - **Germ**: A tiny living thing, too small to see, that can make you ill. Most germs are bacteria or viruses. A few are tiny fungi, or other one-celled living things like the malaria germ. *e.g.* The germs of a cold spread when someone sneezes near you.
 - **Microbe**: Any living thing too small to see without a microscope. Most microbes are harmless, and many help us. Only a few are germs. *e.g.* Microbes in curd turn milk sour and thick. They are friendly microbes.
 - **Bacteria**: One kind of microbe. Each one is a single tiny living cell. Bacteria sense what is around them and decide where to go. Many swim towards food. One drop of curd can hold millions of them. *e.g.* The bacteria in curd are friendly. The bacteria that cause typhoid are germs.
-- **Virus**: A tiny germ, much smaller than bacteria. A virus can only make copies of itself inside a living cell. *e.g.* Colds and chickenpox are caused by viruses.
+- **Virus**: A tiny germ, much smaller than bacteria. A virus can only make copies inside a living cell. *e.g.* Colds and chickenpox are caused by viruses.
 - **Skin**: The body's outer covering. Its top layer is made of flat, dead cells packed tight, like tiles on a roof. Most germs cannot get through skin that has no cuts. *e.g.* Germs land on your hand all day, but unbroken skin keeps them outside.
 - **Mucus**: The wet, sticky stuff inside your nose and throat. It traps dust and germs before they reach your lungs. *e.g.* When you blow your nose into a hanky, you blow out mucus full of trapped dust and germs.
 - **Tears**: Salty water your eyes make all the time, not just when you cry. Every blink spreads tears and washes the eye. Tears also hold a chemical that breaks some germs apart. *e.g.* When a speck of dust lands in your eye, tears wash it out.
@@ -33,7 +33,7 @@
 - **Fever**: When the body turns its own heat up higher than usual, often to fight germs. Doctors usually call 38 degrees Celsius or more a fever. *e.g.* With the flu, your temperature might go up to 38.5 degrees Celsius for a day or two.
 - **Thermometer**: A tool that measures how hot something is. A body thermometer measures your temperature in degrees Celsius or degrees Fahrenheit. *e.g.* A digital thermometer under your arm beeps when it has finished measuring.
 - **Microbiome**: All the microbes that live on your skin, in your mouth and in your gut. Most of them are harmless or helpful. *e.g.* Friendly bacteria on your skin take up the space that germs would like to use.
-- **Vaccine**: A medicine, usually an injection or drops, that shows your immune system a harmless form or a small part of a germ. Your white blood cells learn its shape. If the real germ ever comes, they fight it quickly. *e.g.* Polio drops and the measles injection protect children all over India.
+- **Vaccine**: A medicine, usually an injection or drops, that shows your immune system a harmless form or a small part of a germ. Your white blood cells learn the germ's shape. If the real germ ever comes, they fight them quickly. *e.g.* Polio drops and the measles injection protect children all over India.
 - **Antibiotic**: A medicine that kills bacteria or stops them growing. Antibiotics do not work on viruses, so they do not cure a cold. Only a doctor should decide when someone needs one. *e.g.* A cold is caused by a virus, so an antibiotic will not help it get better. Rest, water and time do.
 - **Self and not-self**: How the immune system sorts things. 'Self' means your own cells. 'Not-self' means things from outside, like germs. Scientists are still working out exactly how it decides. *e.g.* Your white blood cells leave your own cells alone, but they attack a germ.
 
@@ -62,7 +62,7 @@ Your eyes, nose and mouth are openings, so skin cannot cover them. Wet walls gua
 ### White blood cells: the defenders inside · *defined*
 **Definition:** White blood cells are cells that travel in the blood, find germs and destroy them. Some eat germs whole. Others make chemicals that stick to germs, or remember them.
 
-Your blood is mostly red blood cells, which carry oxygen, the part of the air your body needs. Mixed in with them are a few white blood cells. There is only about one white cell for every 700 red ones. White blood cells are made inside your bones, in a soft middle part called bone marrow. They ride around in the blood. When germs get in, the hurt cells send out chemical signals, like a smell. White blood cells follow the smell. A blood vessel is a tube that blood flows in. White blood cells squeeze out through its wall and crawl to the germs. Some kinds, called phagocytes, wrap around a germ and eat it. Other kinds make sticky chemicals that grab germs, or remember a germ for next time. You will learn about those in a later unit.
+Your blood is mostly red blood cells, which carry oxygen, the part of the air your body needs. Mixed in with them are a few white blood cells. There is only about one white cell for every 700 red ones. White blood cells are made inside your bones, in a soft middle part called bone marrow. They ride around in the blood. When germs get in, the hurt cells send out chemical signals, like a smell. White blood cells follow the smell. A blood vessel is a tube that blood flows in. White blood cells squeeze out through its wall and crawl to the germs. Some kinds, called phagocytes, wrap around a germ and eat them. Other kinds make sticky chemicals that grab germs, or remember a germ for next time. You will learn about those in a later unit.
 - e.g. In a cut finger, white blood cells arrive within an hour or so.
 - e.g. White blood cells are not really white. Each one is almost see-through. A big pile of them looks pale and creamy.
 - e.g. Your body makes billions of new white blood cells every day, because many of them only live for a few days.
@@ -109,18 +109,18 @@ You are never alone. About as many bacteria live on and in your body as there ar
 - e.g. A healthy gut is packed with friendly bacteria, so germs struggle to settle there.
 - e.g. Curd and idli batter are full of friendly microbes.
 - e.g. Antibiotics are medicines that kill bacteria. After taking them, some people get tummy trouble, because friendly gut bacteria were killed too.
-### Every living thing defends itself · *defined*
+### All living things defend themselves · *defined*
 **Definition:** All living things, from bacteria to plants to people, have ways to keep out or fight what harms them.
 
-The immune system is not only a human thing. Every living thing has some way to keep out what harms it. Plants have no blood and no white blood cells. But their leaves have waxy coats, and they can close the tiny holes in their leaves when germs land. A hurt plant makes sticky sap and sends chemical alarms to its other leaves. Even bacteria, which are single cells, have a way to cut up viruses that attack them, and to remember them. Scientists found this in bacteria used to make curd and yoghurt. Insects, fish and lizards fight germs too. Some of them warm up on purpose when they are sick.
-- e.g. A neem or mango tree oozes sticky gum where its bark is hurt. The gum seals the wound.
+The immune system is not only a human thing. Every living thing has some way to keep out what harms them. Plants have no blood and no white blood cells. But their leaves have waxy coats, and they can close the tiny holes in their leaves when germs land. A hurt plant makes sticky sap and sends chemical alarms to their other leaves. Even bacteria, which are single cells, have a way to cut up viruses that attack them, and to remember them. Scientists found this in bacteria used to make curd and yoghurt. Insects, fish and lizards fight germs too. Some of them warm up on purpose when they are sick.
+- e.g. A neem or mango tree oozes sticky gum where their bark is hurt. The gum seals the wound.
 - e.g. Sick lizards in a lab moved to the warmest spot they could find, giving themselves a fever.
-- e.g. A honeybee hive heats itself up when a harmful fungus attacks the baby bees.
+- e.g. Honeybees heat up their hive when a harmful fungus attacks the baby bees.
 ### Down to the molecules: shapes that fit · *defined*
 **Definition:** Immune cells and chemicals recognise germs by touch. Their molecules fit the molecules on the germ, and tiny electric forces of attraction hold them together.
 
-A white blood cell has no eyes. It finds out what a germ is by touching it. The outside of every cell, and every germ, is covered in molecules. A molecule is a tiny group of atoms joined together, and each kind has its own shape. A white blood cell has its own molecules on its outside, called receptors. When a receptor fits a molecule on a germ, like a key in a lock, the cell grabs on. Tiny electric forces between the atoms attract each other and hold the two together. That is how the cell knows to attack. Lysozyme, the chemical in your tears, works the same way. Its shape fits a part of a germ's coat, and it snips it.
-- e.g. A white blood cell bumps into thousands of things. It grabs only those whose shapes fit its receptors.
+A white blood cell has no eyes. The cell finds out what a germ is by touch. The outside of every cell, and every germ, is covered in molecules. A molecule is a tiny group of atoms joined together, and each kind has its own shape. A white blood cell has their own molecules on their outside, called receptors. When a receptor fits a molecule on a germ, like a key in a lock, the cell grabs on. Tiny electric forces between the atoms attract each other and hold the two together. That is how the cell knows to attack. Lysozyme, the chemical in your tears, works the same way. Its shape fits a part of a germ's coat, and it snips it.
+- e.g. A white blood cell bumps into thousands of things. They grab only those whose shapes fit their receptors.
 - e.g. Lysozyme is also found in egg white. An enzyme is a chemical that does a job in living things. In 1965, lysozyme became the first enzyme whose full shape scientists worked out, using X-rays.
 ### Sleep, food, play and the immune system · *defined*
 **Definition:** Good sleep, varied food, daily play, handwashing and vaccines all help the immune system. No single food or drink 'boosts' it.
@@ -140,7 +140,7 @@ Scientists have learnt a huge amount about the immune system. But some big puzzl
 - Redness, warmth, swelling and pus are signs that the body is fighting, not just signs of damage. *How we know:* When scientists look at swollen tissue under a microscope, it is full of white blood cells that have come out of the blood.
 - A fever is controlled by the brain, and it usually helps the body fight germs. *How we know:* Chemicals made by white blood cells reach the brain and raise the body's set heat. In many animals, sick ones that can warm up survive better.
 - Most microbes are harmless or helpful, and many live on and in us. *How we know:* When scientists count and name the microbes on skin and in the gut, almost all are harmless. Some help digest food or keep germs away.
-- Every living thing, even a single bacterium, has some way to defend itself. *How we know:* Plants close leaf pores and send chemical alarms. In 2007, scientists showed that bacteria cut up viruses with a system called CRISPR.
+- All living things, even a single bacterium, have some way to defend themselves. *How we know:* Plants close leaf pores and send chemical alarms. In 2007, scientists showed that bacteria cut up viruses with a system called CRISPR.
 - Vaccines protect people from serious illnesses caused by germs. *How we know:* After years of vaccination all over the world, smallpox disappeared. Its last natural case was in 1977. India has had no new case of wild polio since 2011, after millions of children were given polio drops.
 
 ## How we found out
@@ -175,10 +175,10 @@ We have been learning how the body keeps germs out and fights the ones that get 
 *Evidence:* In the apple skin test, the apple with whole skin stayed fresh, while cut apples went soft, starting at the cut. In the sticky nose test, sticky tape held far more dust than smooth tape.
 
 - *who am i:* Your skin, your tears and the mucus in your nose keep you well every minute, and you hardly notice them.
-- *what is life:* Every living thing, from a bacterium to a neem tree to you, has an outer layer that keeps its inside apart from the outside.
+- *what is life:* Every living thing, from a bacterium to a neem tree to you, has an outer layer that keeps their inside apart from the outside.
 - *what is this world:* The world is full of microbes, on every apple, door handle and breath of air. Most of them never get in, and most would do you no harm.
 
-The first living things were single cells, each wrapped in a thin skin called a membrane. That skin let food in and kept harm out. Your own body began as one cell, and grew into trillions, each still wrapped in its own membrane. Your skin, your tears and your mucus do the same job for the whole body. Life began with one kind of wall, and it has grown into countless kinds, in bacteria, trees and you.
+The first living things were single cells, each wrapped in a thin skin called a membrane. That skin let food in and kept harm out. Your own body began as one cell, and grew into trillions, each still wrapped in their own membrane. Your skin, your tears and your mucus do the same job for the whole body. Life began with one kind of wall, and it has grown into countless kinds, in bacteria, trees and you.
 
 - **Tao Te Ching, chapter 17:** The best rulers are hardly noticed by their people. When the work is done, the people say, 'It happened by itself.' (Your skin and tears protect you so quietly that you forget them. In the apple test, the whole skin kept the apple fresh, and nobody saw it doing anything.)
 - **Thich Nhat Hanh, 'interbeing', in his book The Heart of Understanding (1988):** Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing exists all by itself. (Look deeply at your skin and you can see the friendly microbes that live on it and help guard it. Your wall is made partly of other living things.)
@@ -198,7 +198,7 @@ The first living things were single cells, each wrapped in a thin skin called a 
 - *deep:* Why might it be good, not bad, that a cut goes red and sore? (hint: What would happen if you never felt it, and never noticed the cut?)
 - *deep:* Your skin keeps germs out, but it lets sweat out. What else must the body's walls let through? (hint: Think about your nose and mouth. What must come in through them every minute?)
 - *deep:* Why does a fever make you feel cold at first, when your body is getting hotter? (hint: Think of the brain's heat knob being turned up. What does 37 degrees feel like then?)
-- *big:* Plants and even bacteria defend themselves. Does that mean they, in some way, know what they are? (hint: A bacterium has no brain. But it can tell its own self from a virus.)
+- *big:* Plants and even bacteria defend themselves. Does that mean they, in some way, know what they are? (hint: A bacterium has no brain. But they can tell their own self from a virus.)
 - *big:* If germs are living things too, is it fair that we kill them? (hint: Germs are not bad on purpose. They are trying to live, like us.)
 
 ## Story: The Thorns of Messina
@@ -208,7 +208,7 @@ My name is Olga. In the winter of 1882 I lived in a white house above the sea, i
 
 Our sitting room was not like other sitting rooms. There were glass dishes on every table. In every dish swam tiny baby starfish, each one smaller than a grain of rice. They were not star-shaped yet. They looked like little bells made of water. Élie would sit for hours with his eye pressed to a microscope, a tube of glass that makes small things look big.
 
-"Come and look, Olga," he would say. And I would look. Inside each baby starfish, you could see everything. Its tiny stomach. Its thin walls. And something else. Small round blobs that drifted about inside it, all by themselves, like boats with no oars.
+"Come and look, Olga," he would say. And I would look. Inside each baby starfish, you could see everything. Their tiny stomach. Its thin walls. And something else. Small round blobs that drifted about inside it, all by themselves, like boats with no oars.
 
 "What are they?" I asked.
 
@@ -230,7 +230,7 @@ This is what had happened. Alone in the quiet house, he had been watching the wa
 
 "I can poke it," said Élie. "I can put something in, and see if they come."
 
-A few days before, we had made a Christmas tree for the children out of a small tangerine tree in the garden. Roses grew beside it. While we were at the circus, Élie had gone out into the garden and snapped off a few rose thorns.
+A few days before, we had made a Christmas tree for the children out of a small tangerine tree in the garden. Roses grew beside the tree. While we were at the circus, Élie had gone out into the garden and snapped off a few rose thorns.
 
 That evening, very gently, he pushed a single rose thorn into each baby starfish. Then he covered the dishes and went to bed. He did not sleep. I heard him get up twice in the night, and stand by the dishes, and sit down again.
 
@@ -242,7 +242,7 @@ Before I could answer, Élie called from the sitting room. His voice was strange
 
 "Olga! Come! Bring the boy!"
 
-We ran in. Élie stood back from the microscope so I could look. There was the baby starfish, clear as a raindrop. There was the rose thorn, dark and sharp inside it. And all around the thorn, crowded together like people around a fire, were the wandering blobs. Hundreds of them. They had come from every part of the tiny body. They were pressing against the thorn. Some had wrapped themselves around its tip.
+We ran in. Élie stood back from the microscope so I could look. There was the baby starfish, clear as a raindrop. There was the rose thorn, dark and sharp inside them. And all around the thorn, crowded together like people around a fire, were the wandering blobs. Hundreds of them. They had come from every part of the tiny body. They were pressing against the thorn. Some had wrapped themselves around its tip.
 
 "They came," Élie whispered. "In the night, they all came."
 
@@ -278,7 +278,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 
 ## Games
 ### g1 · Get Past the Walls! (20 min)
-- **rules:** Cut out the germ cards and the defence cards. Keep them in two piles.; One player is the Germ. The other players are the Body. Each Body player holds 4 defence cards.; The Germ turns over a germ card and reads it out loud.; A Body player must play one defence card that stops this germ, and say how it works. For example, 'Stomach acid kills the germs on the guava.'; If the defence fits, the germ is stopped. Put both cards aside. The Body scores a point, and that player takes a new defence card from the pile.; If no one can stop it with a wall, the germ gets inside. Then only a WHITE BLOOD CELL, INFLAMMATION or FEVER card can stop it.; After 8 germ cards, swap sides. The side that stops the most germs wins.
+- **rules:** Cut out the germ cards and the defence cards. Keep them in two piles.; One player is the Germ. The other players are the Body. Each Body player holds 4 defence cards.; The Germ turns over a germ card and reads it out loud.; A Body player must play one defence card that stops this germ, and say how it works. For example, 'Stomach acid kills the germs on the guava.'; If the defence fits, the germ is stopped. Put both cards aside. The Body scores a point, and that player takes a new defence card from the pile.; If no one can stop them with a wall, the germ gets inside. Then only a WHITE BLOOD CELL, INFLAMMATION or FEVER card can stop them.; After 8 germ cards, swap sides. The side that stops the most germs wins.
 - **Printable cards: 16 germ cards to cut out:** Cold virus floating in a sneeze; Dust with germs blowing into your eyes; Germs on a dirty hand, about to rub your nose; Germs on an unwashed guava; Bacteria on a rusty nail that pokes your foot; Dirty puddle water splashing on a scraped knee; Germs on a shared spoon; A mosquito carrying a germ; Germs on a door handle; Germs in a cough on the bus; Germs on a dog's paw that touches your arm (no cut); Germs in dirty water from a broken pipe; A splinter carrying bacteria under the skin; Germs in a cut that nobody washed; Germs in dust you breathe in on a road; A germ that got past every wall
 - **Printable cards: 12 defence cards to cut out:** SKIN: a tight wall of dead cells; TEARS: wash the eye at every blink; MUCUS and NOSE HAIRS: trap dust and germs; SNEEZE and COUGH: blast them out; SALIVA: washes the mouth; STOMACH ACID: kills germs in food and water; WHITE BLOOD CELL: finds and eats germs; INFLAMMATION: red, warm, swollen, more defenders arrive; FEVER: the brain turns up the heat; WASH IT: clean a cut and cover it; SOAP: wash hands before eating; FRIENDLY MICROBES: no room for germs
 - **Printable board: The body board:** OUTSIDE (germs start here); THE WALLS (skin, eyes, nose, mouth); INSIDE (blood and white blood cells)
@@ -295,8 +295,8 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   - Check: Someone eats a guava without washing it. Which defence kills most of the germs on it? → **Stomach acid**
 - **s3 (10 min)**  
   *Parent does:* Play 8 germ cards. Each time, the Body player says how their defence works.  
-  *Parent says:* Turn over the next germ. Who can stop it? Tell us how your defence works.  
-  *Child mode:* Turn over a germ card. Play a defence that stops it. Say how it works.
+  *Parent says:* Turn over the next germ. Who can stop them? Tell us how your defence works.  
+  *Child mode:* Turn over a germ card. Play a defence that stops them. Say how it works.
   - Note: Listen for the reason, not just the card. 'Skin stops it because it is a tight wall with no holes' is a great answer. If a cut or a mosquito is involved, the skin wall is broken, so the germ goes INSIDE.
   - Check: The germ card says 'Germs in a cut that nobody washed.' The skin is broken. Which defence card can stop these germs now? → **White blood cell**
 - **s4 (3 min)**  
@@ -309,7 +309,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Child mode:* Count the germs you stopped. Which defence did you use most?
   - Think: Your real body plays this game every second, and it usually wins. What do you think happens on the days it doesn't?
 ### g2 · Germ Tag (15 min)
-- **rules:** Put a cushion in the middle. The cushion is the body.; Skin wall players hold hands in a line in front of the cushion. They can only shuffle sideways.; Germ players try to get round the wall and touch the cushion.; The white blood cell runs freely. If it tags a germ, that germ is out.; Round 2: shout 'FEVER!' Now germs must hop instead of run.; Round 3: the white blood cell remembers the germs from round 1 and starts right next to them.
+- **rules:** Put a cushion in the middle. The cushion is the body.; Skin wall players hold hands in a line in front of the cushion. They can only shuffle sideways.; Germ players try to get round the wall and touch the cushion.; The white blood cell runs freely. If they tag a germ, that germ is out.; Round 2: shout 'FEVER!' Now germs must hop instead of run.; Round 3: the white blood cell remembers the germs from round 1 and starts right next to them.
 - **Printable cards: Role cards:** GERM; GERM; SKIN WALL; SKIN WALL; WHITE BLOOD CELL; FEVER CALLER (the grown-up who shouts 'FEVER!' in round 2)
 - **s1 (2 min)**  
   *Parent does:* Hand out role cards. Put the cushion down and line up the skin wall.  
@@ -319,7 +319,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Parent does:* Play round 1 for about 2 minutes.  
   *Parent says:* Round one! Germs, go! Wall, shuffle to block. White blood cell, tag any germ that gets past.  
   *Child mode:* Round one! Run, block, tag!
-  - Ask: What happened when a germ got round the wall? (good: The white blood cell had to chase it.; It nearly reached the body.)
+  - Ask: What happened when a germ got round the wall? (good: The white blood cell had to chase them.; They nearly reached the body.)
 - **s3 (4 min)**  
   *Parent does:* Play round 2, the fever round, with germs hopping.  
   *Parent says:* Round two: FEVER! The body has turned up its heat. Germs, you must hop now. Many germs grow more slowly when the body is hotter.  
@@ -327,8 +327,8 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   - Check: In Germ Tag, the germ players must hop in the fever round. What does the hopping stand for? → **Many germs grow more slowly when the body is hotter**
 - **s4 (4 min)**  
   *Parent does:* Play round 3 with the white blood cell starting next to the germs.  
-  *Parent says:* Round three: the white blood cell remembers these germs from before. It starts right next to them.  
-  *Child mode:* Round three: the white blood cell remembers you. It starts right beside you. Run!
+  *Parent says:* Round three: the white blood cell remembers these germs from before. So they start right next to the germs.  
+  *Child mode:* Round three: the white blood cell remembers you. They start right beside you. Run!
 - **s5 (1 min)**  
   *Parent does:* Sit down together and talk.  
   *Parent says:* Which round was hardest for the germs? Why?  
@@ -481,13 +481,13 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **s1 (3 min)**  
   *Parent does:* 1. Mix the paper balls and the bottle caps in the tray. 2. Give your child the sock to wear like a glove. 3. Put the small bowl next to the tray.  
   *Parent says:* The tray is your blood. The bottle caps are your own body's cells. The paper balls are germs that got in through a cut. Your sock hand is a white blood cell called a phagocyte. That means 'eating cell'.  
-  *Child mode:* The tray is your blood. Bottle caps are your own cells. Paper balls are germs. Your sock hand is a white blood cell. It eats germs!
+  *Child mode:* The tray is your blood. Bottle caps are your own cells. Paper balls are germs. Your sock hand is a white blood cell. White blood cells eat germs!
 - **s2 (7 min)**  
   *Parent does:* Ask your child to close their eyes, feel for germs, and wrap the sock hand round each one. Each wrapped germ goes in the bowl.  
-  *Parent says:* A white blood cell has no eyes. It finds germs by touch and by chemical smells. Close your eyes. Feel each thing in the tray. Germs feel crumpled. Your own cells feel smooth. When you find a germ, close your sock hand round it and drop it in the bowl. Leave the smooth ones alone.  
+  *Parent says:* A white blood cell has no eyes. They find germs by touch and by chemical smells. Close your eyes. Feel each thing in the tray. Germs feel crumpled. Your own cells feel smooth. When you find a germ, close your sock hand round it and drop it in the bowl. Leave the smooth ones alone.  
   *Child mode:* Close your eyes. Feel the things in the tray. Germs feel crumpled. Your own cells feel smooth. Wrap your sock round a germ. Drop it in the bowl.
   - Note: Feeling crumpled or smooth stands for the shapes on a germ's surface. Real white blood cells recognise germs by touch, when shapes fit together like a key in a lock.
-  - Check: How does a real white blood cell find a germ? → **It follows chemical signals and feels the germ's shapes**
+  - Check: How does a real white blood cell find a germ? → **They follow chemical signals and feel the germ's shapes**
 - **s3 (5 min)**  
   *Parent does:* Count the germs swallowed. Then talk about what happens next.  
   *Parent says:* How many germs are in the bowl? Inside a real white blood cell, the germ is broken down by strong chemicals. After a lot of eating, the white blood cell often dies. A heap of dead white blood cells and germs is pus.  
@@ -665,7 +665,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 8. (truefalse) About as many bacteria live on and in your body as there are cells of your own.  
    **Answer:** True. *Why:* True. Scientists counted in 2016. A grown-up has roughly 38 trillion bacteria and 30 trillion human cells. Most of the bacteria are harmless or helpful.
 9. (mcq) A white blood cell finds a germ by…  
-   Options: Following chemical signals and feeling the germ's shapes / Looking with tiny eyes / Listening for it / Waiting for the germ to come to it  
+   Options: Following chemical signals and feeling the germ's shapes / Looking with tiny eyes / Listening for them / Waiting for the germ to come to them  
    **Answer:** Following chemical signals and feeling the germ's shapes. *Why:* Hurt cells release chemicals, and white blood cells crawl towards them. When they touch a germ, shapes fit together like a key in a lock. White blood cells have no eyes or ears. Picking 'eyes' is natural, because that's how we find things.
 10. (mcq) Remember the lizard's fever activity? In real experiments, sick lizards crawled to warmer places. Why?  
    Options: To give themselves a fever, which helps them fight germs / Because they were bored / Because they were hungry / Because cold makes germs grow  
@@ -689,7 +689,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
    **Answer:** Waxy leaves, closing leaf pores, sticky sap and chemical alarms. *Why:* Plants have their own defences. They close the tiny holes in their leaves when germs land, seal wounds with sap, and send chemical warnings to other leaves. Picking 'can't defend' is natural, because we can't see a plant's fight.
 3. (mcq) Bacteria are single cells. Can they defend themselves against viruses?  
    Options: Yes, some cut up virus pieces and remember them, using a system called CRISPR / No, bacteria have no defences / Only if they live inside people / Only in hot places  
-   **Answer:** Yes, some cut up virus pieces and remember them, using a system called CRISPR. *Why:* In 2007, scientists found that some bacteria, like those used to make yoghurt, store bits of the viruses that attacked them. Next time, they use these bits to recognise the virus and cut it up. Even a single cell has an immune system.
+   **Answer:** Yes, some cut up virus pieces and remember them, using a system called CRISPR. *Why:* In 2007, scientists found that some bacteria, like those used to make yoghurt, store bits of the viruses that attacked them. Next time, they use these bits to recognise the virus and cut them up. Even a single cell has an immune system.
 4. (fill) A fever is controlled by the ____, which works like a heat knob.  
    **Answer:** ['brain']. *Why:* A part of the brain sets the body's temperature. Chemicals from white blood cells reach it and turn the setting up.
 5. (fill) Celsus, a Roman writer, said inflammation has four signs: redness, heat, swelling and ____.  
@@ -706,8 +706,8 @@ But the evening I remember best is not the evening of the prize. It is the eveni
    **Answer:** False. *Why:* False. A cold is caused by a virus. Without the virus, you can't catch a cold. Some studies suggest a cold nose may fight viruses a little less well. So it is not a silly worry, but the virus is what matters.
 10. (order) Put a fever in order, from start to finish.  
    **Answer:** order shown. *Why:* The signal comes first, then the new setting, then shivering to reach it. When the fight ends, the setting drops, and you sweat to cool down.
-11. (match) Match each living thing to its defence.  
-   **Answer:** A person → white blood cells and fever; A neem tree → sticky gum that seals a wound; A yoghurt bacterium → cutting up viruses it remembers; A honeybee hive → heating itself up against a fungus. *Why:* Every living thing defends itself, each in its own way.
+11. (match) Match each living thing to their defence.  
+   **Answer:** A person → white blood cells and fever; A neem tree → sticky gum that seals a wound; A yoghurt bacterium → cutting up viruses they remember; A honeybee hive → heating up against a fungus. *Why:* All living things defend themselves, each in their own way.
 12. (write) Élie Metchnikoff and Paul Ehrlich argued for years. One said cells fight germs. The other said chemicals in the blood do. Who was right? What can we learn from this?  
    **Answer:** They were both right. The body uses cells that eat germs and chemicals that grab germs. We can learn that two people who disagree can both see part of the truth.. *Why:* They shared the Nobel Prize in 1908. This is like the story of the blind men and the elephant: each saw part.
 13. (write) Some adverts say a drink 'boosts your immunity'. How could a scientist find out if that is true?  
@@ -720,7 +720,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 ## Videos
 - **The Immune System Explained I: Bacteria Infection** (Kurzgesagt: In a Nutshell, 7 min) id `zQGOcOUBi6s`: For the parent and older children: a beautiful animation of what happens when bacteria get in through a cut, from skin to white blood cells and inflammation. It goes beyond this unit into antibodies, which come in Class 4 and 5. *Check:* Video id recalled, not opened from here. A parent should check it plays and is the Kurzgesagt immune system video before showing. It uses some battle pictures, which suit most children.
 - **Immune System, part 1: Crash Course Anatomy and Physiology #45** (CrashCourse, 9 min) id `GIJK3dwCWCw`: For the parent: a clear grown-up explanation of the first defences, inflammation, fever and the eating cells, so you can answer your child's questions. *Check:* Video id recalled, not opened from here. A parent should check it plays and is the CrashCourse episode before showing.
-- **A white blood cell chasing a bacterium (David Rogers' film, 1950s)** (Andres Trevino (an upload of David Rogers' film), 1 min) id `I_xh-bkiv_c`: A real microscope film from Vanderbilt University. A white blood cell crawls between red blood cells, chases a bacterium and swallows it. Children love it, and it shows exactly what Metchnikoff imagined. *Check:* Found by YouTube search: "Crawling Neutrophil Chasing a Bacterium" by Andres Trevino. Title checked automatically; a parent may still preview it.
+- **A white blood cell chasing a bacterium (David Rogers' film, 1950s)** (Andres Trevino (an upload of David Rogers' film), 1 min) id `I_xh-bkiv_c`: A real microscope film from Vanderbilt University. A white blood cell crawls between red blood cells, chases a bacterium and swallows them. Children love it, and it shows exactly what Metchnikoff imagined. *Check:* Found by YouTube search: "Crawling Neutrophil Chasing a Bacterium" by Andres Trevino. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What does the immune system do?  
@@ -806,8 +806,8 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - If your forehead feels hot, how could we find out for sure if it is a fever?
 - Which friendly microbes did we eat today?
 - Why might a sick dog curl up and sleep a lot?
-- That lizard on the wall is lying in the sun. Why might a lizard do that when it is ill?
-- If a white blood cell could talk, what would it say after a long day?
+- That lizard on the wall is lying in the sun. Why might a lizard do that when they are ill?
+- If a white blood cell could talk, what would they say after a long day?
 - Why do you think doctors wash their hands so often?
 - Is anything in your body working right now that you don't notice?
 
@@ -833,7 +833,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - Why did the friendly microbe take the last seat on the skin? *So the germ would have nowhere to sit.*
 - What do you call a white blood cell that loves hugs? *A germ-wrapper.*
 - Why did the plaster go to the party? *It was asked to cover for a friend.*
-- Why did the cold virus fail its test? *It couldn't get past the first line.*
+- Why did the cold virus fail their test? *It couldn't get past the first line.*
 - What did the fever say to the germ? *"Things are about to heat up."*
 - Why did the saliva get a job at the dentist? *It was great at washing up.*
 

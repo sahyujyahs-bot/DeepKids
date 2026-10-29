@@ -3,13 +3,13 @@
  "title": "Animals without backbones: how soft bodies hold their shape",
  "level": 3,
  "summary": {
-  "text": "About 95 out of every 100 kinds of animal have no backbone. Worms, snails, crabs, spiders, insects, starfish and jellyfish have no bones at all. They hold their soft bodies in shape in other ways. A worm uses liquid held tight inside it, and a snail grows a shell. Crabs, spiders and insects wear hard armour on the outside, and the sea holds up a jellyfish. These animals also feel, remember and decide, each with a body very different from ours.",
+  "text": "About 95 out of every 100 kinds of animal have no backbone. Worms, snails, crabs, spiders, insects, starfish and jellyfish have no bones at all. They hold their soft bodies in shape in other ways. A worm uses liquid held tight inside them, and a snail grows a shell. Crabs, spiders and insects wear hard armour on the outside, and the sea holds up a jellyfish. These animals also feel, remember and decide, each with a body very different from ours.",
   "art": "A child lying on the grass with a magnifying glass, and around her, drawn in a circle, an earthworm, a snail, a crab, a spider, an ant, a starfish and a jellyfish, with one small sparrow at the edge."
  },
  "intro": {
-  "hook": "Bend forward and ask someone to run a finger gently down the middle of your back. Can you feel the row of bumps? Now think of an earthworm. Where are its bumps?",
-  "text": "The bumps you felt are your backbone. It is a chain of small bones that holds you up. A worm has no backbone at all. Neither does a snail, a spider or an ant. Yet a worm can push through hard soil, and an ant can carry a crumb heavier than itself. So how do they hold their bodies up? And here is a surprise. If you counted every kind of animal on Earth, most of them would have no backbone.",
-  "art": "A child bent forward while a parent's finger traces the bumps of the backbone, and beside them an earthworm in the soil with a big question mark over it."
+  "hook": "Bend forward and ask someone to run a finger gently down the middle of your back. Can you feel the row of bumps? Now think of an earthworm. Where are their bumps?",
+  "text": "The bumps you felt are your backbone. It is a chain of small bones that holds you up. A worm has no backbone at all. Neither does a snail, a spider or an ant. Yet a worm can push through hard soil, and an ant can carry a crumb heavier than themself. So how do they hold their bodies up? And here is a surprise. If you counted every kind of animal on Earth, most of them would have no backbone.",
+  "art": "A child bent forward while a parent's finger traces the bumps of the backbone, and beside them an earthworm in the soil with a big question mark over them."
  },
  "outcomes": [
   "I can say what a backbone is, and sort animals into those that have one and those that do not.",
@@ -49,32 +49,32 @@
   {
    "term": "Skeleton",
    "meaning": "The hard or firm frame that holds an animal's body in shape. It can be inside the body, outside it, or made of liquid held in tight.",
-   "example": "Your bones are your skeleton. A crab's hard shell is its skeleton.",
+   "example": "Your bones are your skeleton. A crab's hard shell is their skeleton.",
    "art": "Side by side: a child's bones inside, a crab's shell outside, and a worm full of water."
   },
   {
    "term": "Exoskeleton",
    "meaning": "A hard skeleton on the outside of the body, like a suit of armour. 'Exo' means outside.",
    "example": "A crab, a beetle and a spider all wear an exoskeleton.",
-   "art": "A beetle with its hard shiny outer case drawn like a knight's armour."
+   "art": "A beetle with their hard shiny outer case drawn like a knight's armour."
   },
   {
    "term": "Moult",
    "meaning": "To crack open and climb out of an old exoskeleton that has become too tight, and then grow a bigger one.",
-   "example": "A crab moults many times as it grows. For a few days its new shell is soft.",
-   "art": "A crab backing out of its old shell, which stays behind empty but still crab-shaped."
+   "example": "A crab moults many times as they grow. For a few days their new shell is soft.",
+   "art": "A crab backing out of their old shell, which stays behind empty but still crab-shaped."
   },
   {
    "term": "Water skeleton",
    "meaning": "A body held firm by liquid that is squeezed in and cannot escape, like water in a bottle with the cap on. Scientists call it a hydrostatic skeleton.",
-   "example": "An earthworm stays firm because it is full of liquid held in by its muscles.",
-   "art": "An earthworm drawn see-through, its rings full of blue liquid, next to a capped plastic bottle full of water."
+   "example": "An earthworm stays firm because they are full of liquid held in by their muscles.",
+   "art": "An earthworm drawn see-through, their rings full of blue liquid, next to a capped plastic bottle full of water."
   },
   {
    "term": "Segment",
    "meaning": "One of the many rings or sections that a body is made of, joined in a row.",
    "example": "An earthworm has more than a hundred segments. An ant's leg has segments too.",
-   "art": "An earthworm with its rings counted, and an ant's leg with its joints marked."
+   "art": "An earthworm with their rings counted, and an ant's leg with its joints marked."
   },
   {
    "term": "Mollusc",
@@ -92,30 +92,30 @@
    "term": "Insect",
    "meaning": "An arthropod with 6 legs and a body in 3 parts: head, middle and back end. All insects have 2 feelers, and most have wings.",
    "example": "Ants, bees, flies, mosquitoes, beetles and butterflies are insects.",
-   "art": "An ant drawn large with its 3 body parts coloured differently and its 6 legs numbered."
+   "art": "An ant drawn large with their 3 body parts coloured differently and their 6 legs numbered."
   },
   {
    "term": "Arachnid",
    "meaning": "An arthropod with 8 legs and a body in 2 parts, and no feelers. Spiders, scorpions, ticks and mites are arachnids.",
    "example": "The spider in the corner of your bathroom is an arachnid, not an insect.",
-   "art": "A spider drawn large with its 2 body parts coloured and its 8 legs numbered."
+   "art": "A spider drawn large with their 2 body parts coloured and their 8 legs numbered."
   },
   {
    "term": "Antenna",
    "meaning": "A feeler on the head of an insect or a crab, used to smell, taste and touch. More than one are called antennae.",
-   "example": "An ant taps its antennae on another ant to smell who it is.",
+   "example": "An ant taps their antennae on another ant to smell who they are.",
    "art": "Two ants touching antennae, with little smell-wave lines between them."
   },
   {
    "term": "Tentacle",
    "meaning": "A long, bendy arm used to grab, feel or sting. Jellyfish and octopuses have tentacles.",
-   "example": "A jellyfish's tentacles trail below it like long strings.",
+   "example": "A jellyfish's tentacles trail below them like long strings.",
    "art": "A jellyfish with long trailing tentacles in blue water."
   },
   {
    "term": "Tube feet",
    "meaning": "Hundreds of tiny soft feet under a starfish's arms. Each one can grip like a small sucker.",
-   "example": "A starfish walks slowly over rocks on its tube feet.",
+   "example": "A starfish walks slowly over rocks on their tube feet.",
    "art": "The underside of a starfish arm, with rows of tiny tube feet like little bubbles."
   },
   {
@@ -128,7 +128,7 @@
    "term": "Symmetry",
    "meaning": "When one half or part of a shape matches another. We have two matching sides. A starfish has five matching arms around a middle.",
    "example": "Fold a butterfly picture down the middle and the two wings match. Turn a starfish and each arm looks the same.",
-   "art": "A child with a mirror line down the middle, next to a starfish with five lines from its centre."
+   "art": "A child with a mirror line down the middle, next to a starfish with five lines from their centre."
   },
   {
    "term": "Species",
@@ -152,10 +152,10 @@
    "examples": [
     "You can feel your backbone as a row of bumps when you bend forward.",
     "A fish bone left on your plate after dinner is part of the fish's backbone and ribs.",
-    "A snake has no legs, but it has a very long backbone, with hundreds of vertebrae."
+    "A snake has no legs, but they have a very long backbone, with hundreds of vertebrae."
    ],
    "perspectives": [],
-   "art": "A cut-away drawing of a child, a fish and a snake, each with its backbone shown in white, next to an earthworm with nothing inside but soft rings.",
+   "art": "A cut-away drawing of a child, a fish and a snake, each with their backbone shown in white, next to an earthworm with nothing inside but soft rings.",
    "context": "This card explains the first idea of the unit: what a backbone is, and which animals have one."
   },
   {
@@ -175,10 +175,10 @@
   {
    "concept": "Bodies held firm by water: worms",
    "status": "defined",
-   "definition": "An earthworm has no bones. It stays firm because its body is full of liquid, held in tight by the muscles in its skin. This is called a water skeleton, or a hydrostatic skeleton.",
-   "description": "Water cannot be squeezed into less space. So water that cannot escape pushes back when you press on it. That is why a capped bottle full of water feels as hard as stone. A capped bottle of air gives a little when you squeeze it, because air can be squeezed. A worm's body is full of liquid, and its muscles hold the liquid in, as a cap does. It has two sets of muscles. One set goes round the body like rubber bands. When they squeeze, that part of the worm gets long and thin, because the liquid cannot shrink. So the worm reaches forward. The other set runs along the body. When they pull, that part gets short and fat and holds on to the soil. Tiny bristles on each segment grip the soil too. So the worm moves by squeezing one part at a time, with no bones at all.",
+   "definition": "An earthworm has no bones. They stay firm because their body is full of liquid, held in tight by the muscles in their skin. This is called a water skeleton, or a hydrostatic skeleton.",
+   "description": "Water cannot be squeezed into less space. So water that cannot escape pushes back when you press on it. That is why a capped bottle full of water feels as hard as stone. A capped bottle of air gives a little when you squeeze it, because air can be squeezed. A worm's body is full of liquid, and their muscles hold the liquid in, as a cap does. They have two sets of muscles. One set goes round the body like rubber bands. When they squeeze, that part of the worm gets long and thin, because the liquid cannot shrink. So the worm reaches forward. The other set runs along the body. When they pull, that part gets short and fat and holds on to the soil. Tiny bristles on each segment grip the soil too. So the worm moves by squeezing one part at a time, with no bones at all.",
    "examples": [
-    "Pick up an earthworm gently after rain. It feels firm, not floppy, because of the liquid inside.",
+    "Pick up an earthworm gently after rain. They feel firm, not floppy, because of the liquid inside.",
     "Squeeze the middle of an open bottle of water, and the water rises up the neck. It cannot be squashed, so it moves somewhere else.",
     "A sea anemone and a slug also use water to hold their shape."
    ],
@@ -189,22 +189,22 @@
   {
    "concept": "Shells: snails and other molluscs",
    "status": "defined",
-   "definition": "A snail is a mollusc, a soft-bodied animal with no backbone. Its own body makes its shell, from calcium carbonate. That is the same material as chalk.",
-   "description": "A snail's shell is not a house it found. It grows with the snail. A thin layer of the snail's body, called the mantle, lines the inside of the shell. The mantle takes calcium from the snail's food and water, makes calcium carbonate, and adds it to the open edge of the shell. So the shell grows bigger in a spiral, round and round. If the shell cracks, the snail can patch it from the inside. The snail itself is soft and wet. It moves on one big muscly foot, sliding on a layer of slime. Clams, oysters, slugs, octopuses and squid are molluscs too. Slugs and octopuses have lost the outside shell over millions of years.",
+   "definition": "A snail is a mollusc, a soft-bodied animal with no backbone. Their own body makes their shell, from calcium carbonate. That is the same material as chalk.",
+   "description": "A snail's shell is not a house they found. It grows with the snail. A thin layer of the snail's body, called the mantle, lines the inside of the shell. The mantle takes calcium from the snail's food and water, makes calcium carbonate, and adds it to the open edge of the shell. So the shell grows bigger in a spiral, round and round. If the shell cracks, the snail can patch it from the inside. The snail themself is soft and wet. They move on one big muscly foot, sliding on a layer of slime. Clams, oysters, slugs, octopuses and squid are molluscs too. Slugs and octopuses have lost the outside shell over millions of years.",
    "examples": [
     "The spiral on a garden snail's shell shows how it grew, ring after ring, from the tiny tip in the middle.",
     "A pearl is made the same way. When something gets inside an oyster's shell, often a tiny worm or other small animal, the oyster coats it with layer after layer of shell material.",
-    "An octopus is a mollusc with no shell at all, so it can squeeze through a gap as small as its beak."
+    "An octopus is a mollusc with no shell at all, so they can squeeze through a gap as small as their beak."
    ],
    "perspectives": [],
-   "art": "A snail shell cut in half to show the spiral inside, with the soft snail and its mantle at the open edge adding a new white rim.",
-   "context": "This card explains how a snail gets its shell. The snail makes it, and the shell grows with the snail."
+   "art": "A snail shell cut in half to show the spiral inside, with the soft snail and their mantle at the open edge adding a new white rim.",
+   "context": "This card explains how a snail gets their shell. The snail makes it, and the shell grows with the snail."
   },
   {
    "concept": "Armour on the outside: crabs, spiders and insects",
    "status": "defined",
    "definition": "Crabs, spiders, insects, centipedes and millipedes are arthropods. They wear a hard skeleton on the outside, called an exoskeleton, and their legs bend at joints.",
-   "description": "Your bones are inside, with your muscles wrapped around them. An arthropod is the other way round. Its hard skeleton is outside, and its muscles are inside, pulling on it. The armour is made mostly of a tough material called chitin. In crabs it is also packed with calcium carbonate, which makes it extra hard. Each leg is a set of hollow tubes joined at bendy places, like the joints of a straw. The armour protects the animal and stops it drying out. But armour cannot stretch. So to grow, an arthropod must moult. It makes a new soft skin underneath, splits the old one and climbs out. Then it puffs itself up with air or water before the new armour hardens.",
+   "description": "Your bones are inside, with your muscles wrapped around them. An arthropod is the other way round. Their hard skeleton is outside, and their muscles are inside, pulling on it. The armour is made mostly of a tough material called chitin. In crabs it is also packed with calcium carbonate, which makes it extra hard. Each leg is a set of hollow tubes joined at bendy places, like the joints of a straw. The armour protects the animal and stops them drying out. But armour cannot stretch. So to grow, an arthropod must moult. They make a new soft skin underneath, split the old one and climb out. Then they puff themself up with air or water before the new armour hardens.",
    "examples": [
     "An empty cicada or crab shell left on a tree or beach is an old exoskeleton. The animal climbed out of it.",
     "A cockroach's back is hard and shiny because it is armour.",
@@ -218,11 +218,11 @@
    "concept": "Count the legs: insect, spider, crab or centipede?",
    "status": "defined",
    "definition": "Arthropods can be sorted by their legs and body parts. Insects have 6 legs and 3 body parts. Spiders have 8 legs and 2 body parts. Crabs and prawns have 10 legs. Centipedes and millipedes have many legs along a long body.",
-   "description": "Here is the quickest way to tell them apart. Count the legs. Six legs means an insect. Look again and you will see three parts: a head, a middle and a back end. Every insect has two feelers, and most have wings. Eight legs means an arachnid, like a spider or a scorpion. A spider's body has only two parts, and it has no feelers. Ten legs, with two of them often made into big claws, means a crab or a prawn. These live mostly in water and breathe with gills. Lots of legs on a long, ringed body means a centipede or a millipede. A centipede has one pair of legs on each segment and runs fast. A millipede has two pairs on each segment and walks slowly.",
+   "description": "Here is the quickest way to tell them apart. Count the legs. Six legs means an insect. Look again and you will see three parts: a head, a middle and a back end. Every insect has two feelers, and most have wings. Eight legs means an arachnid, like a spider or a scorpion. A spider's body has only two parts, and they have no feelers. Ten legs, with two of them often made into big claws, means a crab or a prawn. These live mostly in water and breathe with gills. Lots of legs on a long, ringed body means a centipede or a millipede. A centipede has one pair of legs on each segment and runs fast. A millipede has two pairs on each segment and walks slowly.",
    "examples": [
-    "An ant has 6 legs, so it is an insect.",
-    "A spider has 8 legs, so it is not an insect. It is an arachnid.",
-    "A woodlouse, the small grey animal that rolls into a ball, has 14 legs. It is a land cousin of crabs and prawns."
+    "An ant has 6 legs, so they are an insect.",
+    "A spider has 8 legs, so they are not an insect. They are an arachnid.",
+    "A woodlouse, the small grey animal that rolls into a ball, has 14 legs. They are a land cousin of crabs and prawns."
    ],
    "perspectives": [],
    "art": "Four animals in a row, ant, spider, crab and centipede, with their legs numbered and their body parts outlined in different colours.",
@@ -231,40 +231,40 @@
   {
    "concept": "Starfish: five arms and no brain",
    "status": "defined",
-   "definition": "A starfish is an invertebrate that lives in the sea. It has a body with five matching parts around a middle, hundreds of tube feet, and no brain. Scientists prefer to call it a sea star, because it is not a fish.",
-   "description": "Most animals you know have a front and a back, and a left side that matches the right side. A starfish is different. It has five arms around a middle, like the spokes of a wheel. Its mouth is underneath, in the centre. Under each arm are rows of tiny tube feet. They are filled with seawater and can grip like little suckers. The starfish walks on them slowly, and pulls open clam shells with them. It has no brain. Instead, a ring of nerves runs around its mouth and a nerve runs down each arm. The arms pass messages around the ring and settle on one direction to go. There is a tiny eye at the tip of each arm. It sees light, dark and rough shapes, like a dark rock against the bright water. If a starfish loses an arm, it can slowly grow a new one.",
+   "definition": "A starfish is an invertebrate that lives in the sea. They have a body with five matching parts around a middle, hundreds of tube feet, and no brain. Scientists prefer to call them a sea star, because they are not a fish.",
+   "description": "Most animals you know have a front and a back, and a left side that matches the right side. A starfish is different. They have five arms around a middle, like the spokes of a wheel. Their mouth is underneath, in the centre. Under each arm are rows of tiny tube feet. They are filled with seawater and can grip like little suckers. The starfish walks on them slowly, and pulls open clam shells with them. They have no brain. Instead, a ring of nerves runs around their mouth and a nerve runs down each arm. The arms pass messages around the ring and settle on one direction to go. There is a tiny eye at the tip of each arm. It sees light, dark and rough shapes, like a dark rock against the bright water. If a starfish loses an arm, they can slowly grow a new one.",
    "examples": [
     "On rocky beaches in India, like the reef at Narara in Gujarat, you can see sea stars in pools at low tide.",
-    "A starfish eats a clam by pushing its own stomach out of its mouth and into the clam's shell.",
+    "A starfish eats a clam by pushing their own stomach out of their mouth and into the clam's shell.",
     "Sea urchins and sea cucumbers are cousins of the starfish. They also have tube feet and parts in fives."
    ],
    "perspectives": [],
-   "art": "A starfish turned over to show its mouth in the middle and rows of tiny tube feet along each arm, with one small arm growing back.",
+   "art": "A starfish turned over to show their mouth in the middle and rows of tiny tube feet along each arm, with one small arm growing back.",
    "context": "This card explains starfish: animals with five matching arms, tube feet and no brain."
   },
   {
    "concept": "Jellyfish: a body made mostly of water",
    "status": "defined",
-   "definition": "A jellyfish is an invertebrate with a soft body that is about 95 parts in 100 water. It has no bones, no brain, no heart and no blood. It catches food with stinging tentacles.",
-   "description": "A jellyfish's body is a soft bell made mostly of water. The sea holds it up. If a jellyfish is washed onto the beach, it collapses into a flat blob, because nothing holds its shape out of water. It swims by squeezing its bell, which pushes water out behind it. Its tentacles hang below, covered in stinging cells. Each stinging cell holds a coiled thread, like a tiny harpoon. When a small fish touches it, the threads fire, and their venom stuns the fish. Jellyfish have no brain, but they have a net of nerves spread through the whole body. Jellyfish-like animals were swimming in the sea more than 500 million years ago, long before there were dinosaurs or trees.",
+   "definition": "A jellyfish is an invertebrate with a soft body that is about 95 parts in 100 water. They have no bones, no brain, no heart and no blood. They catch food with stinging tentacles.",
+   "description": "A jellyfish's body is a soft bell made mostly of water. The sea holds them up. If a jellyfish is washed onto the beach, they collapse into a flat blob, because nothing holds their shape out of water. They swim by squeezing their bell, which pushes water out behind them. Their tentacles hang below, covered in stinging cells. Each stinging cell holds a coiled thread, like a tiny harpoon. When a small fish touches it, the threads fire, and their venom stuns the fish. Jellyfish have no brain, but they have a net of nerves spread through the whole body. Jellyfish-like animals were swimming in the sea more than 500 million years ago, long before there were dinosaurs or trees.",
    "examples": [
-    "Never touch a jellyfish on the beach, even one that looks dead. Its stinging cells can still fire.",
+    "Never touch a jellyfish on the beach, even one that looks dead. Their stinging cells can still fire.",
     "Corals and sea anemones are close cousins of jellyfish. They have stinging tentacles too.",
     "Some jellyfish glow in the dark sea. The glowing green material from one jellyfish is now used by scientists all over the world to light up cells."
    ],
    "perspectives": [],
-   "art": "A see-through jellyfish in blue water, its bell squeezing, tentacles trailing, with one tentacle zoomed in to show coiled stinging threads.",
+   "art": "A see-through jellyfish in blue water, their bell squeezing, tentacles trailing, with one tentacle zoomed in to show coiled stinging threads.",
    "context": "This card explains jellyfish: soft animals made mostly of water, held up by the sea."
   },
   {
    "concept": "'Invertebrate' is not one family",
    "status": "defined",
    "definition": "Invertebrates are not one family of animals. The word just means 'every animal that is not a vertebrate'. Some invertebrates are more closely related to us than to other invertebrates.",
-   "description": "Imagine you sorted all the people in the world into 'my family' and 'everyone else'. 'Everyone else' would not be a family. It would hold many families, some close to yours and some far away. 'Invertebrate' is like that. It holds many very different branches of the animal family tree. Scientists compare the bodies, the way babies grow, and the genes of animals to draw this tree. And it gives a surprise. Starfish and sea urchins are on the same big branch as vertebrates, the branch that includes you. So a starfish is a closer cousin of yours than it is of a snail, a spider or a jellyfish. Jellyfish branched off very early, long before worms or snails.",
+   "description": "Imagine you sorted all the people in the world into 'my family' and 'everyone else'. 'Everyone else' would not be a family. It would hold many families, some close to yours and some far away. 'Invertebrate' is like that. It holds many very different branches of the animal family tree. Scientists compare the bodies, the way babies grow, and the genes of animals to draw this tree. And it gives a surprise. Starfish and sea urchins are on the same big branch as vertebrates, the branch that includes you. So a starfish is a closer cousin of yours than they are of a snail, a spider or a jellyfish. Jellyfish branched off very early, long before worms or snails.",
    "examples": [
     "A starfish and a fish share a branch. A starfish and a jellyfish do not, even though both live in the sea and have no bones.",
-    "An octopus is closer to a snail than to a fish, even though it swims like a fish.",
-    "A woodlouse lives on land, but it is a cousin of crabs and prawns."
+    "An octopus is closer to a snail than to a fish, even though they swim like a fish.",
+    "A woodlouse lives on land, but they are a cousin of crabs and prawns."
    ],
    "perspectives": [],
    "art": "A simple branching tree: jellyfish on a low early branch, then a split, with worms, snails, insects, spiders and crabs on one side, and starfish, fish, birds and a child on the other.",
@@ -276,7 +276,7 @@
    "definition": "",
    "description": "Most invertebrates on land are small. Most land insects today are shorter than your little finger. The longest, a stick insect from China, is long but as thin as a twig. But about 300 million years ago, there were giant dragonfly-like insects with wings about 70 centimetres across. That is more than two school rulers laid end to end. Why are there no giant ants today? Scientists are not sure. They have a few ideas, and they argue about which matters most.",
    "examples": [
-    "Meganeura, a giant dragonfly-like insect that lived about 300 million years ago, had wings about 70 cm across. Its fossils were found in France.",
+    "Meganeura, a giant dragonfly-like insect that lived about 300 million years ago, had wings about 70 cm across. Their fossils were found in France.",
     "In the sea, where water holds up heavy bodies, some invertebrates are huge. The giant squid can be as long as a bus.",
     "The Japanese spider crab has legs that can stretch about 3.7 metres from tip to tip."
    ],
@@ -287,7 +287,7 @@
     },
     {
      "who": "The armour idea (other scientists)",
-     "explanation": "Armour gets very heavy as an animal gets bigger. A giant ant would need armour so thick that it could hardly move. And every moult would leave a giant soft animal in danger for days. So armour itself may keep land invertebrates small."
+     "explanation": "Armour gets very heavy as an animal gets bigger. A giant ant would need armour so thick that they could hardly move. And every moult would leave a giant soft animal in danger for days. So armour itself may keep land invertebrates small."
     },
     {
      "who": "The rivals idea (other scientists)",
@@ -301,7 +301,7 @@
    "concept": "Shells, chalk and marble: invertebrates build the Earth",
    "status": "defined",
    "definition": "Many invertebrates build shells and skeletons from calcium carbonate, the same material as chalk and limestone. Over millions of years their remains pile up and turn into rock.",
-   "description": "When a snail makes its shell, it uses tiny pieces of calcium, carbon and oxygen, joined together. Corals, clams and many tiny sea creatures do the same. When they die, their shells and skeletons sink and pile up on the sea floor, layer on layer. Over millions of years the layers are pressed into limestone rock. If limestone is squeezed and heated deep underground, it can turn into marble. So many of the white stones people build with began as the bodies of sea animals. Worms change the Earth too. Charles Darwin studied earthworms, on and off, for about 40 years. He showed that they slowly bury stones and old buildings by pulling leaves down and pushing soil up.",
+   "description": "When a snail makes their shell, they use tiny pieces of calcium, carbon and oxygen, joined together. Corals, clams and many tiny sea creatures do the same. When they die, their shells and skeletons sink and pile up on the sea floor, layer on layer. Over millions of years the layers are pressed into limestone rock. If limestone is squeezed and heated deep underground, it can turn into marble. So many of the white stones people build with began as the bodies of sea animals. Worms change the Earth too. Charles Darwin studied earthworms, on and off, for about 40 years. He showed that they slowly bury stones and old buildings by pulling leaves down and pushing soil up.",
    "examples": [
     "Limestone rocks in the Himalaya and in the caves of Meghalaya hold fossil shells from ancient seas.",
     "Marble is limestone that was heated and squeezed deep underground. Much limestone began as the shells and skeletons of sea creatures.",
@@ -315,14 +315,14 @@
    "concept": "Tiny and tough: tardigrades and the first animals",
    "status": "defined",
    "definition": "The first animals on Earth were invertebrates. Some invertebrates alive today, like tardigrades, can survive things no other animal can, even the empty space outside Earth.",
-   "description": "For most of the history of animals, there were no backbones at all. The first animals lived in the sea more than 550 million years ago, and they were all soft invertebrates. Backbones came later. Today there is a tiny invertebrate called a tardigrade, or water bear. It is about the size of a grain of fine sand, with 8 stubby legs. It lives in damp moss, even on walls and roofs in Indian towns. When its home dries out, it curls up, dries out too and waits. In 2007, scientists sent dried tardigrades into space on the outside of a spacecraft. Many came back alive and later laid eggs that hatched. They were the first animals known to survive open space.",
+   "description": "For most of the history of animals, there were no backbones at all. The first animals lived in the sea more than 550 million years ago, and they were all soft invertebrates. Backbones came later. Today there is a tiny invertebrate called a tardigrade, or water bear. They are about the size of a grain of fine sand, with 8 stubby legs. They live in damp moss, even on walls and roofs in Indian towns. When their home dries out, they curl up, dry out too and wait. In 2007, scientists sent dried tardigrades into space on the outside of a spacecraft. Many came back alive and later laid eggs that hatched. They were the first animals known to survive open space.",
    "examples": [
     "Tardigrades can be found in damp moss from a wall, looked at with a microscope.",
     "Trilobites were armoured sea invertebrates that lived for about 270 million years and then all died out.",
     "Sponges are invertebrates so simple that they have no muscles or nerves at all."
    ],
    "perspectives": [],
-   "art": "A plump, eight-legged tardigrade drawn huge on a moss leaf, with a small spacecraft and stars in a round window behind it.",
+   "art": "A plump, eight-legged tardigrade drawn huge on a moss leaf, with a small spacecraft and stars in a round window behind them.",
    "context": "This card follows invertebrates out to deep time and to space: the first animals, and the toughest."
   },
   {
@@ -352,11 +352,11 @@
    "concept": "Small animals feel, remember and decide",
    "status": "debated",
    "definition": "",
-   "description": "Animals without backbones feel, remember and decide. A worm pulls back from a sharp stick. A crab rubs and guards a hurt leg. A bee remembers which flowers had sweet nectar and flies back to them. Each of these animals senses its world and chooses what to do next. In 2021, a team of scientists led by Jonathan Birch looked at more than 300 studies for the government of the United Kingdom. They found strong evidence that crabs, lobsters, octopuses and squid feel pain. In 2022, a law in the United Kingdom began to protect them as animals that feel. Some scientists still say these are only reflexes and learning. Their view is given below.",
+   "description": "Animals without backbones feel, remember and decide. A worm pulls back from a sharp stick. A crab rubs and guards a hurt leg. A bee remembers which flowers had sweet nectar and flies back to them. Each of these animals senses their world and chooses what to do next. In 2021, a team of scientists led by Jonathan Birch looked at more than 300 studies for the government of the United Kingdom. They found strong evidence that crabs, lobsters, octopuses and squid feel pain. In 2022, a law in the United Kingdom began to protect them as animals that feel. Some scientists still say these are only reflexes and learning. Their view is given below.",
    "examples": [
-    "Hermit crabs given a small electric shock inside their shell were more likely to leave it for a new one. They left a poor shell sooner than a good one. So each crab weighed the pain against how much it liked its home.",
+    "Hermit crabs given a small electric shock inside their shell were more likely to leave it for a new one. They left a poor shell sooner than a good one. So each crab weighed the pain against how much they liked their home.",
     "Desert ants count their steps to find the way back to their nest. Scientists showed this by giving some ants longer legs, made of tiny stilts. Those ants walked past their nest.",
-    "An octopus that is hurt guards and cleans the hurt place. Afterwards it stays away from the part of its tank where it was hurt."
+    "An octopus that is hurt guards and cleans the hurt place. Afterwards they stay away from the part of their tank where they were hurt."
    ],
    "perspectives": [
     {
@@ -368,7 +368,7 @@
      "explanation": "Everything these animals do might come from reflexes and simple learning. We cannot yet measure a feeling from the outside. So they say we should wait for better ways to test it."
     }
    ],
-   "art": "A hermit crab peeking out of its shell, a child crouched at a kind distance, and a bee visiting a flower behind them.",
+   "art": "A hermit crab peeking out of their shell, a child crouched at a kind distance, and a bee visiting a flower behind them.",
    "context": "This card is about how small animals feel, remember and decide, and what scientists still argue about. It is why we handle small animals gently."
   }
  ],
@@ -380,12 +380,12 @@
   },
   {
    "text": "Animals without backbones hold their shape in different ways: water held tight inside, a shell, or armour on the outside.",
-   "evidence": "A worm cut across, seen under a microscope, shows muscles and liquid-filled spaces, but no bone. A crab's shell comes off whole when it moults. A snail's shell grows with the snail.",
+   "evidence": "A worm cut across, seen under a microscope, shows muscles and liquid-filled spaces, but no bone. A crab's shell comes off whole when they moult. A snail's shell grows with the snail.",
    "context": "This card is about what scientists agree on: how boneless animals hold their shape."
   },
   {
    "text": "Insects have 6 legs and spiders have 8. Spiders are not insects.",
-   "evidence": "Every adult insect ever studied has 6 legs on its middle part. Every spider has 8 legs and no feelers.",
+   "evidence": "Every adult insect ever studied has 6 legs on their middle part. Every spider has 8 legs and no feelers.",
    "context": "This card is about what scientists agree on: spiders and insects are different groups."
   },
   {
@@ -451,7 +451,7 @@
  ],
  "big_questions": [
   {
-   "q": "If an ant could name all the animals, would it call us 'the animals with no armour'? Who decides what is normal?",
+   "q": "If an ant could name all the animals, would they call us 'the animals with no armour'? Who decides what is normal?",
    "kind": "big",
    "hint": "We named animals by comparing them to ourselves. What would an ant compare us to?"
   },
@@ -461,7 +461,7 @@
    "hint": "Squeeze the middle of an open bottle of water. Where does the water go? What if the cap is on?"
   },
   {
-   "q": "Why does a crab have to break out of its own armour to grow?",
+   "q": "Why does a crab have to break out of their own armour to grow?",
    "kind": "deep",
    "hint": "Can a steel tumbler grow bigger? What would you do if your clothes could not stretch?"
   },
@@ -471,9 +471,9 @@
    "hint": "Think about where fallen leaves go, and who mixes the soil."
   },
   {
-   "q": "A starfish has no brain. How does it know where to go?",
+   "q": "A starfish has no brain. How do they know where to go?",
    "kind": "deep",
-   "hint": "Its nerves run along every arm and meet in a ring. Could deciding happen all through a body, and not in one place?"
+   "hint": "Their nerves run along every arm and meet in a ring. Could deciding happen all through a body, and not in one place?"
   },
   {
    "q": "Most animals on Earth are small and have no bones. What can a small, boneless body do that a big body with bones cannot?",
@@ -483,15 +483,15 @@
   {
    "q": "Why do you think the first animals had no bones?",
    "kind": "deep",
-   "hint": "What would an animal need before it could build bones? Where did the first animals live?"
+   "hint": "What would an animal need before they could build bones? Where did the first animals live?"
   },
   {
-   "q": "Is it fair to squash an ant just because it is small? What about a mosquito that bites?",
+   "q": "Is it fair to squash an ant just because they are small? What about a mosquito that bites?",
    "kind": "big",
    "hint": "Ants feel and remember. A mosquito can carry dengue. There is no single right answer. What reasons would you give either way?"
   },
   {
-   "q": "If a jellyfish has no brain, can it be awake or asleep?",
+   "q": "If a jellyfish has no brain, can they be awake or asleep?",
    "kind": "deep",
    "hint": "Scientists found that one kind of jellyfish does something like sleeping at night. What could sleep be for?"
   },
@@ -505,19 +505,19 @@
   "title": "The Shell Nobody Lent",
   "mins": 12,
   "read_aloud": true,
-  "note": "Jeanne Villepreux-Power is real (1794 to 1871). She grew up poor in a French village, became a dressmaker in Paris, married James Power and moved to Messina in Sicily. Around 1832 she built glass tanks and sea cages to keep sea animals alive and watch them. She showed that the argonaut, a small octopus also called the paper nautilus, makes and mends its own shell. Many of her notes were later lost in a shipwreck. Rosa, her father, the name 'paper sailor' and the cracked shell in this story are imagined.",
+  "note": "Jeanne Villepreux-Power is real (1794 to 1871). She grew up poor in a French village, became a dressmaker in Paris, married James Power and moved to Messina in Sicily. Around 1832 she built glass tanks and sea cages to keep sea animals alive and watch them. She showed that the argonaut, a small octopus also called the paper nautilus, makes and mends her own shell. Many of her notes were later lost in a shipwreck. Rosa, her father, the name 'paper sailor' and the cracked shell in this story are imagined.",
   "text": [
    "The summer I was nine, a lady from France began buying the worst of my father's catch.",
    "My father was a fisherman in Messina, a harbour town on the island of Sicily. Most mornings he sold his fish in the market. But some mornings his net came up with things nobody would eat. Spiky sea urchins. Starfish, stiff and orange. Jellyfish that slid off the boat like spilled soup. And sometimes, a paper sailor.",
-   "A paper sailor is a small octopus that lives inside a shell. Only the mothers have one, and they keep their eggs in it. The shell is white and as thin as an eggshell, curled like a ram's horn. When you hold it up to the sun, the light shines through it. The fishermen thought it was lucky. The learned men of the town thought it was a thief.",
-   "\"It finds an empty shell left by some other creature,\" the doctor told my father, \"and it climbs inside, like a hermit crab. A soft thing like that, with no bones in its body, could never make something hard.\"",
+   "A paper sailor is a small octopus that lives inside a shell. Only the mothers have one, and they keep their eggs in it. The shell is white and as thin as an eggshell, curled like a ram's horn. When you hold it up to the sun, the light shines through it. The fishermen thought it was lucky. The learned men of the town thought she was a thief.",
+   "\"She finds an empty shell left by some other creature,\" the doctor told my father, \"and she climbs inside, like a hermit crab. A soft thing like that, with no bones in her body, could never make something hard.\"",
    "My father nodded, because the doctor had books. I nodded too.",
    "The French lady was called Signora Power. She did not nod. She had a sharp chin and quick, sewing fingers. People said she had once been a poor girl in a village far away, and had walked most of the way to Paris to find work. There she had sewn dresses so fine that a princess wore one at her wedding. Now she was married to an English merchant, and she spent her days on the rocks with her skirts tied up, staring into pools.",
-   "\"Has anyone seen it?\" she asked my father. \"Has anyone actually watched a paper sailor take a shell that was not its own?\"",
+   "\"Has anyone seen it?\" she asked my father. \"Has anyone actually watched a paper sailor take a shell that was not her own?\"",
    "Nobody had. Nobody had watched a paper sailor do anything. Out of the sea, they died quickly.",
    "So Signora Power built boxes of glass. She was the first person anyone had heard of to keep sea animals alive in glass and watch them. When the glass boxes were too small, she built big wooden cages and lowered them into the harbour on ropes, so the sea itself flowed through them. Then she paid me one coin for every paper sailor I brought her alive, in a bucket of seawater, running.",
    "I ran a great deal that summer.",
-   "I learned to sit with her on the stone steps above the cages. I learned to be still. I learned that a starfish moves on hundreds of tiny wet feet, so slowly that you have to look away and look back to see it has moved. I learned that a sea urchin walks on tiny feet too, poking out between its spines. I learned that the paper sailor holds its shell with two broad arms, spread over the outside of the shell like hands over a cup.",
+   "I learned to sit with her on the stone steps above the cages. I learned to be still. I learned that a starfish moves on hundreds of tiny wet feet, so slowly that you have to look away and look back to see it has moved. I learned that a sea urchin walks on tiny feet too, poking out between their spines. I learned that the paper sailor holds her shell with two broad arms, spread over the outside of the shell like hands over a cup.",
    "\"Why does she hold it like that?\" I asked.",
    "\"That,\" said Signora Power, \"is the question.\"",
    "Then, in late summer, I did something terrible.",
@@ -535,9 +535,9 @@
    "So were mine.",
    "I think of the doctor, who had books, and of the lady who had a bucket and a summer and the patience to look. And I think of that thin white film, spreading across a broken place, in the dark green water of the harbour."
   ],
-  "epiphany": "For the parent: people thought a soft animal with no bones could never make something hard, so the argonaut must have stolen its shell. Watching proved them wrong. Animals without backbones build their hard parts too, as shells and armour on the outside, made from what they eat and the water around them. Snails, crabs, corals and the argonaut all do it. Our bones are made the same way, from food, only on the inside. The story also asks who gets believed: the man with books, or the woman who watched.",
+  "epiphany": "For the parent: people thought a soft animal with no bones could never make something hard, so the argonaut must have stolen her shell. Watching proved them wrong. Animals without backbones build their hard parts too, as shells and armour on the outside, made from what they eat and the water around them. Snails, crabs, corals and the argonaut all do it. Our bones are made the same way, from food, only on the inside. The story also asks who gets believed: the man with books, or the woman who watched.",
   "ask": [
-   "Why did the doctor think the paper sailor must have stolen its shell?",
+   "Why did the doctor think the paper sailor must have stolen her shell?",
    "How did the cracked shell help Signora Power find the answer?",
    "Your bones are inside. The paper sailor's shell is outside. Where did each of them come from?",
    "Why do you think some scientists did not believe Signora Power at first?",
@@ -546,9 +546,9 @@
   "art": [
    "A fishing boat in Messina harbour at dawn, a net full of starfish, urchins and one white curled shell.",
    "A woman with her skirts tied up, kneeling on wet rocks, looking into a glass box of seawater, a girl with a bucket beside her.",
-   "A wooden cage hanging on ropes in green harbour water, a small octopus inside its thin white shell.",
+   "A wooden cage hanging on ropes in green harbour water, a small octopus inside her thin white shell.",
    "The girl's foot slipping on green weed, a bucket tipping, a white shell falling towards stone.",
-   "A close-up of the argonaut's two broad arms pressed over a crack in its shell, with a thin white film spreading.",
+   "A close-up of the argonaut's two broad arms pressed over a crack in her shell, with a thin white film spreading.",
    "An old woman mending a net, one hand resting on her back, a white mended shell on the shelf behind her."
   ]
  },
@@ -623,7 +623,7 @@
    "rules": [
     "Cut out the 30 cards. Shuffle them and put them face down in a pile.",
     "On your turn, take the top card and read the animal's name out loud.",
-    "Put it on the BACKBONE mat or the NO BACKBONE mat. Say one reason, like 'it has a shell' or 'it has bones like a fish'.",
+    "Put it on the BACKBONE mat or the NO BACKBONE mat. Say one reason, like 'they have a shell' or 'they have bones like a fish'.",
     "If you are right and give a reason, take a bone token. Check the answer list on the back of the tally sheet.",
     "Trick cards, like the starfish, seahorse, silverfish and cuttlefish, win two tokens if you get them right and say why.",
     "When all the cards are played, count the cards on each mat. Then the player with most tokens wins."
@@ -647,22 +647,22 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Lay the two mats on the floor. 2. Shuffle the 30 cards and put them face down. 3. Put the bone tokens in a bowl.",
-     "say": "A backbone is the chain of small bones down the middle of your back. Each card is an animal. We will decide together: does it have a backbone, or not?",
-     "kid": "Put the two mats down. Mix the cards. Put them face down. For each animal, decide. Does it have a backbone, or not?",
+     "say": "A backbone is the chain of small bones down the middle of your back. Each card is an animal. We will decide together: do they have a backbone, or not?",
+     "kid": "Put the two mats down. Mix the cards. Put them face down. For each animal, decide. Do they have a backbone, or not?",
      "context": "This is the first step of Backbone or Not?, a card game about which animals have a backbone. Here you set up the game."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Find the Earthworm card. Play it together as a practice round.",
-     "say": "Let's practise with one card. An earthworm. Does it have a backbone?",
+     "say": "Let's practise with one card. An earthworm. Do they have a backbone?",
      "kid": "Practice card: an earthworm. Backbone or not? Tap your answer.",
      "ask": [
       {
        "q": "How does a worm stay firm with no bones?",
        "good": [
-        "It is full of water.",
-        "Its muscles squeeze the liquid inside it."
+        "They are full of water.",
+        "Their muscles squeeze the liquid inside them."
        ]
       }
      ],
@@ -674,14 +674,14 @@
        "NO BACKBONE"
       ],
       "a": 1,
-      "why": "An earthworm has no bones at all. It stays firm because it is full of liquid held tight by its muscles. Picking BACKBONE often happens because the worm is long and bendy, like a snake. But a snake has a backbone inside, and a worm has none."
+      "why": "An earthworm has no bones at all. They stay firm because they are full of liquid held tight by their muscles. Picking BACKBONE often happens because the worm is long and bendy, like a snake. But a snake has a backbone inside, and a worm has none."
      }
     },
     {
      "id": "s3",
      "mins": 10,
      "do": "Take turns drawing cards and placing them. Help with the trick cards: starfish, jellyfish, seahorse, silverfish, cuttlefish and sea cucumber.",
-     "say": "Watch out for tricky ones. A name can fool you. A starfish is not a fish. A seahorse is a fish. Look at the animal, not just its name.",
+     "say": "Watch out for tricky ones. A name can fool you. A starfish is not a fish. A seahorse is a fish. Look at the animal, not just their name.",
      "kid": "Take a card. Put it on a mat. Say why. Watch out: some names are tricks!",
      "parent": "The trick cards: starfish, jellyfish, cuttlefish and silverfish have no backbone, even though their names say fish. A seahorse is a real fish with a backbone. Sea cucumbers are cousins of starfish, with no backbone. The bat has a backbone, like all mammals. The cobra has a backbone, though it has no legs.",
      "check": {
@@ -692,7 +692,7 @@
        "NO BACKBONE"
       ],
       "a": 0,
-      "why": "A seahorse is a real fish. It has a backbone and breathes with gills. Picking NO BACKBONE usually means the curly shape and the name 'horse' fooled you. Look for bones, fins and gills, not the name."
+      "why": "A seahorse is a real fish. They have a backbone and breathe with gills. Picking NO BACKBONE usually means the curly shape and the name 'horse' fooled you. Look for bones, fins and gills, not the name."
      }
     },
     {
@@ -719,11 +719,11 @@
    "title": "Guess My Minibeast",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a guessing game about small animals without backbones. One player picks a secret animal. The others ask yes or no questions about its legs, shell and body to find it.",
+   "context": "This is a guessing game about small animals without backbones. One player picks a secret animal. The others ask yes or no questions about their legs, shell and body to find it.",
    "printables": [
     {
      "kind": "cards",
-     "title": "12 minibeast cards, each with a picture, a name and its leg count",
+     "title": "12 minibeast cards, each with a picture, a name and their leg count",
      "items": [
       "Ant: 6 legs",
       "Honeybee: 6 legs",
@@ -743,21 +743,21 @@
      "kind": "board",
      "title": "Question helper sheet",
      "items": [
-      "Does it have legs?",
-      "Does it have more than 6 legs?",
-      "Does it have exactly 8 legs?",
-      "Does it have a shell?",
-      "Does it live in water?",
-      "Does it have wings?",
-      "Does it have feelers?",
-      "Is its body in rings?"
+      "Do they have legs?",
+      "Do they have more than 6 legs?",
+      "Do they have exactly 8 legs?",
+      "Do they have a shell?",
+      "Do they live in water?",
+      "Do they have wings?",
+      "Do they have feelers?",
+      "Is their body in rings?"
      ]
     }
    ],
    "rules": [
     "Lay all 12 cards face up so everyone can see them.",
-    "One player secretly picks one animal and writes its name on a scrap of paper.",
-    "The others take turns asking yes or no questions about its body. 'Is it cute?' does not count.",
+    "One player secretly picks one animal and writes their name on a scrap of paper.",
+    "The others take turns asking yes or no questions about their body. 'Are they cute?' does not count.",
     "After each answer, turn over every card that it rules out.",
     "Whoever names the secret animal first wins that round and picks the next secret animal.",
     "Try to find the animal in 4 questions or fewer."
@@ -781,9 +781,9 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Lay out the 12 cards face up. 2. You pick the first secret animal: choose the house spider. Write it on paper.",
-     "say": "I have picked a secret animal from these cards. Ask me yes or no questions about its body. Try to find it in four questions.",
-     "kid": "The app has picked a secret animal. Ask yes or no questions about its body. Can you find it in four?",
-     "context": "This is the first step of Guess My Minibeast. You find a secret small animal by asking about its legs, shell and body."
+     "say": "I have picked a secret animal from these cards. Ask me yes or no questions about their body. Try to find them in four questions.",
+     "kid": "The app has picked a secret animal. Ask yes or no questions about their body. Can you find them in four?",
+     "context": "This is the first step of Guess My Minibeast. You find a secret small animal by asking about their legs, shell and body."
     },
     {
      "id": "s2",
@@ -795,14 +795,14 @@
       {
        "q": "Which question rules out the most cards?",
        "good": [
-        "Does it have legs?",
-        "Does it have more than 6 legs?"
+        "Do they have legs?",
+        "Do they have more than 6 legs?"
        ]
       }
      ],
      "check": {
       "t": "mcq",
-      "q": "The secret animal lives on land and has more than 6 legs. It has no feelers, 2 body parts and no tail with a sting. What is it?",
+      "q": "The secret animal lives on land and has more than 6 legs. It has no feelers, 2 body parts and no tail with a sting. What animal is this?",
       "options": [
        "An ant",
        "A house spider",
@@ -810,7 +810,7 @@
        "An earthworm"
       ],
       "a": 1,
-      "why": "A house spider has 8 legs, 2 body parts and no feelers. A scorpion has those too, but it also has a long tail with a sting. Picking the ant usually means thinking every small crawling animal is an insect. But an ant has 6 legs and 3 body parts. A prawn has 10 legs and lives in water."
+      "why": "A house spider has 8 legs, 2 body parts and no feelers. A scorpion has those too, but they also have a long tail with a sting. Picking the ant usually means thinking every small crawling animal is an insect. But an ant has 6 legs and 3 body parts. A prawn has 10 legs and lives in water."
      }
     },
     {
@@ -819,7 +819,7 @@
      "do": "Now take turns. Each player picks a secret animal while the others guess.",
      "say": "Your turn to pick a secret animal. We will ask the questions.",
      "kid": "Your turn. Pick a secret animal. Answer the questions truthfully.",
-     "parent": "Watch whether your child asks about legs first. Leg count splits the cards fastest. If they ask 'is it brown?', ask them whether that is about its body plan or just its colour."
+     "parent": "Watch whether your child asks about legs first. Leg count splits the cards fastest. If they ask 'is it brown?', ask them whether that is about their body plan or just their colour."
     },
     {
      "id": "s4",
@@ -839,7 +839,7 @@
       "a": 1,
       "why": "Every adult insect has 6 legs and every spider has 8, whatever colour they are. Colours change a lot, even inside one species. Picking 'too hard to see' is a fair worry, but the real reason is that leg number tells you the group."
      },
-     "think": "A woodlouse has 14 legs. Which other animals on the cards do you think it is a cousin of?"
+     "think": "A woodlouse has 14 legs. Which other animals on the cards do you think they are a cousin of?"
     }
    ]
   }
@@ -930,7 +930,7 @@
     },
     {
      "t": "match",
-     "p": "Match each animal to how it holds its shape.",
+     "p": "Match each animal to how they hold their shape.",
      "pairs": [
       [
        "Earthworm",
@@ -938,7 +938,7 @@
       ],
       [
        "Snail",
-       "a shell it makes itself"
+       "a shell they make themself"
       ],
       [
        "Crab",
@@ -946,7 +946,7 @@
       ],
       [
        "Jellyfish",
-       "the sea holds it up"
+       "the sea holds them up"
       ]
      ],
      "a": "pairs as given",
@@ -966,7 +966,7 @@
     },
     {
      "t": "mcq",
-     "p": "A spider has 8 legs, 2 body parts and no feelers. What is it?",
+     "p": "A spider has 8 legs, 2 body parts and no feelers. Which animal is this?",
      "opts": [
       "An insect",
       "An arachnid",
@@ -980,7 +980,7 @@
      "t": "truefalse",
      "p": "A starfish is a kind of fish.",
      "a": false,
-     "why": "False. A starfish has no backbone, no fins and no gills like a fish. Scientists often call it a sea star instead."
+     "why": "False. A starfish has no backbone, no fins and no gills like a fish. Scientists often call them a sea star instead."
     },
     {
      "t": "truefalse",
@@ -1005,12 +1005,12 @@
      "p": "Why must a crab moult?",
      "opts": [
       "To change colour",
-      "Its armour cannot stretch, so it must climb out to grow",
+      "Their armour cannot stretch, so they must climb out to grow",
       "To cool down",
-      "Because it is old"
+      "Because they are old"
      ],
      "a": 1,
-     "why": "Hard armour cannot grow. So a crab makes a new soft skin underneath, splits the old shell and climbs out. Picking 'because it is old' is a guess many people make, but young crabs moult most often, because they grow fastest."
+     "why": "Hard armour cannot grow. So a crab makes a new soft skin underneath, splits the old shell and climbs out. Picking 'because they are old' is a guess many people make, but young crabs moult most often, because they grow fastest."
     },
     {
      "t": "mcq",
@@ -1030,14 +1030,14 @@
      "t": "write",
      "p": "How does an earthworm stay firm without any bones? Use the words water and muscles.",
      "lines": 3,
-     "a": "An earthworm is full of liquid. Its muscles hold the liquid in tight, so its body stays firm, like a capped bottle full of water.",
+     "a": "An earthworm is full of liquid. Their muscles hold the liquid in tight, so their body stays firm, like a capped bottle full of water.",
      "why": "This is called a water skeleton. Squeezing the liquid also lets the worm stretch and push forward."
     },
     {
      "t": "draw",
-     "p": "Draw an ant. Show its 3 body parts and 6 legs. Label the head.",
+     "p": "Draw an ant. Show their 3 body parts and 6 legs. Label the head.",
      "a": "A head with two feelers, a middle part with all 6 legs attached, and a back end.",
-     "why": "An insect's 6 legs all join onto its middle part. The feelers are on the head.",
+     "why": "An insect's 6 legs all join onto their middle part. The feelers are on the head.",
      "art": "A blank box with the word 'ant' and a small magnifying glass in the corner."
     },
     {
@@ -1072,7 +1072,7 @@
     },
     {
      "t": "mcq",
-     "p": "An octopus has no shell, but it is still a mollusc. Which animal is its closest cousin?",
+     "p": "An octopus has no shell, but they are still a mollusc. Which animal is their closest cousin?",
      "opts": [
       "A fish",
       "A snail",
@@ -1084,7 +1084,7 @@
     },
     {
      "t": "mcq",
-     "p": "A woodlouse has 14 legs and lives under stones on land. Who are its closest cousins?",
+     "p": "A woodlouse has 14 legs and lives under stones on land. Who are their closest cousins?",
      "opts": [
       "Insects like ants",
       "Crabs and prawns",
@@ -1108,15 +1108,15 @@
     },
     {
      "t": "mcq",
-     "p": "How does a snail get its shell?",
+     "p": "How does a snail get their shell?",
      "opts": [
-      "It finds an empty one",
-      "Its body makes it and adds to it as it grows",
-      "It is born with a full-size shell",
+      "They find an empty one",
+      "Their body makes it and adds to it as they grow",
+      "They are born with a full-size shell",
       "Other snails build it"
      ],
      "a": 1,
-     "why": "A snail's mantle, a thin layer of its body, makes the shell from calcium carbonate and adds it to the open edge as the snail grows. Picking 'finds an empty one' mixes it up with hermit crabs, which really do borrow shells."
+     "why": "A snail's mantle, a thin layer of their body, makes the shell from calcium carbonate and adds it to the open edge as the snail grows. Picking 'finds an empty one' mixes it up with hermit crabs, which really do borrow shells."
     },
     {
      "t": "match",
@@ -1140,19 +1140,19 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "A starfish has no brain. A ring of nerves around its mouth and a nerve in each arm carry its messages."
+     "why": "A starfish has no brain. A ring of nerves around their mouth and a nerve in each arm carry their messages."
     },
     {
      "t": "mcq",
      "p": "A jellyfish washed up on a beach looks like a flat blob. Why?",
      "opts": [
-      "It has broken bones",
-      "It has no skeleton, and the sea is no longer holding it up",
-      "It has dried into stone",
-      "It has turned into a different animal"
+      "They have broken bones",
+      "They have no skeleton, and the sea is no longer holding them up",
+      "They have dried into stone",
+      "They have turned into a different animal"
      ],
      "a": 1,
-     "why": "A jellyfish is mostly water, with no bones or armour. In the sea, the water holds its shape. Out of water it collapses. Picking 'broken bones' mixes jellyfish up with fish. Jellyfish have no bones at all."
+     "why": "A jellyfish is mostly water, with no bones or armour. In the sea, the water holds their shape. Out of water they collapse. Picking 'broken bones' mixes jellyfish up with fish. Jellyfish have no bones at all."
     },
     {
      "t": "truefalse",
@@ -1221,7 +1221,7 @@
       "A scorpion"
      ],
      "a": 2,
-     "why": "Arthropods have jointed legs and an exoskeleton. A snail has no legs at all. It is a mollusc. Picking the prawn or scorpion usually means forgetting that arthropods include animals from water and animals with stings."
+     "why": "Arthropods have jointed legs and an exoskeleton. A snail has no legs at all. They are a mollusc. Picking the prawn or scorpion usually means forgetting that arthropods include animals from water and animals with stings."
     },
     {
      "t": "fill",
@@ -1241,9 +1241,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw a starfish from underneath. Show its mouth and the tube feet on each arm.",
+     "p": "Draw a starfish from underneath. Show their mouth and the tube feet on each arm.",
      "a": "Five arms around a middle, a mouth in the centre, and rows of small dots or bubbles along each arm for tube feet.",
-     "why": "A starfish's mouth is in the middle of its underside, and its tube feet run in grooves along each arm.",
+     "why": "A starfish's mouth is in the middle of their underside, and their tube feet run in grooves along each arm.",
      "art": "A blank five-armed outline."
     },
     {
@@ -1256,7 +1256,7 @@
       "An ant"
      ],
      "a": 1,
-     "why": "A snail glides on waves of muscle along its one foot, sliding on slime. You can see the waves from underneath through clear plastic. Picking an animal with legs means thinking every crawling animal walks with legs."
+     "why": "A snail glides on waves of muscle along their one foot, sliding on slime. You can see the waves from underneath through clear plastic. Picking an animal with legs means thinking every crawling animal walks with legs."
     }
    ],
    "context": "This worksheet goes further: molluscs, arthropods, starfish and jellyfish, and what our experiments showed."
@@ -1329,7 +1329,7 @@
       "They turned into insects"
      ],
      "a": 1,
-     "why": "In 2007 dried tardigrades spent days outside a spacecraft. Many came back alive and later laid eggs. They were the first animals known to survive open space. Picking 'grew backbones' is impossible. No animal can grow a backbone in its lifetime."
+     "why": "In 2007 dried tardigrades spent days outside a spacecraft. Many came back alive and later laid eggs. They were the first animals known to survive open space. Picking 'grew backbones' is impossible. No animal can grow a backbone in their lifetime."
     },
     {
      "t": "mcq",
@@ -1367,26 +1367,26 @@
      "t": "mcq",
      "p": "Which is the best question to add to a key so that it separates a spider from a scorpion?",
      "opts": [
-      "Does it have 8 legs?",
-      "Does it have a long tail with a sting?",
-      "Is it small?",
-      "Does it live on land?"
+      "Do they have 8 legs?",
+      "Do they have a long tail with a sting?",
+      "Are they small?",
+      "Do they live on land?"
      ],
      "a": 1,
      "why": "Spiders and scorpions both have 8 legs and live on land, so those questions do not split them. A scorpion has a long tail with a sting and big pincers. Picking '8 legs' is a good question for finding arachnids, but it does not split these two."
     },
     {
      "t": "write",
-     "p": "A jellyfish has no brain, but it can swim, catch food and even do something like sleeping. What does that make you wonder about brains?",
+     "p": "A jellyfish has no brain, but they can swim, catch food and even do something like sleeping. What does that make you wonder about brains?",
      "lines": 4,
      "a": "It makes me wonder whether you need a brain to be alive and busy. Maybe nerves spread out through the body can do many of the jobs a brain does.",
      "why": "There is no single right answer. Jellyfish have a net of nerves through the body. One kind, the upside-down jellyfish, was found to have sleep-like rest at night."
     },
     {
      "t": "write",
-     "p": "If you could design an animal with no backbone that could live on land and be as big as a dog, how would it hold itself up and breathe? Explain your design.",
+     "p": "If you could design an animal with no backbone that could live on land and be as big as a dog, how would they hold themself up and breathe? Explain your design.",
      "lines": 5,
-     "a": "Any well-reasoned answer. For example: it would have thick armour made of tubes, like a crab, with air holes all along its body and lungs inside. It would moult in a safe burrow.",
+     "a": "Any well-reasoned answer. For example: they would have thick armour made of tubes, like a crab, with air holes all along their body and lungs inside. They would moult in a safe burrow.",
      "why": "Big land animals need a strong frame and a way to get oxygen deep inside. Good answers deal with both problems."
     },
     {
@@ -1481,7 +1481,7 @@
     }
    ],
    "record": "Fill in the table. Then draw one bar for each pair of bottles under the books. A shorter bar means the bottles kept their shape better. Write what happened in the sitting test and the hand squeeze.",
-   "context": "This is the Water Bones experiment. You press down on pairs of plastic bottles: open and empty, capped with air, and capped with water. It shows how an earthworm stays firm with no bones, and why it is full of liquid, not air.",
+   "context": "This is the Water Bones experiment. You press down on pairs of plastic bottles: open and empty, capped with air, and capped with water. It shows how an earthworm stays firm with no bones, and why they are full of liquid, not air.",
    "setup": [
     {
      "art": "Six plastic bottles on a towel: two empty with no caps, two empty with caps on, and two filled to the brim with water and capped.",
@@ -1537,7 +1537,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Fill two bottles with water right to the top, so almost no air is left. Screw the caps on tight. 2. Screw the caps onto two empty bottles. 3. Leave the last two bottles empty, with no caps.",
-     "say": "An earthworm has no bones, yet it feels firm in your hand. Today we will find out how. Our bottles are pretend worms.",
+     "say": "An earthworm has no bones, yet they feel firm in your hand. Today we will find out how. Our bottles are pretend worms.",
      "kid": "Fill two bottles to the top with water. Put the caps on tight. Put caps on two empty bottles. Leave two open.",
      "parent": "Thin bottles from packaged drinking water work best, because they squash easily. Fill the water bottles over a sink, right to the brim.",
      "context": "This is the first step of the Water Bones experiment. You get three pairs of bottles ready, to see how a worm stays firm with no bones."
@@ -1656,7 +1656,7 @@
        "Nothing changes"
       ],
       "a": 1,
-      "why": "Water cannot be squeezed into less space. When you squeeze the middle, the water is pushed up the neck. With the cap on, it has nowhere to go, so the bottle stays hard. A worm's ring muscles squeeze its liquid the same way, and that part of the worm gets longer and pushes forward. Picking 'goes down' is a natural guess, because squeezing usually makes things smaller."
+      "why": "Water cannot be squeezed into less space. When you squeeze the middle, the water is pushed up the neck. With the cap on, it has nowhere to go, so the bottle stays hard. A worm's ring muscles squeeze their liquid the same way, and that part of the worm gets longer and pushes forward. Picking 'goes down' is a natural guess, because squeezing usually makes things smaller."
      }
     },
     {
@@ -1708,7 +1708,7 @@
      "do": "Ask your child to say or write three sentences: what I think, what I saw, and why.",
      "say": "Tell me three things. What do you think now about how a worm stays firm? What did you see? And why?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer: What I think: a worm stays firm because its liquid is held in tight, and liquid cannot be squeezed. What I saw: under the books, the open bottles sank 5 cm, but both capped pairs hardly sank. When I sat on the board, the air bottles went down about 1 cm, and the water bottles hardly moved. When I squeezed them, the air bottle gave and the water bottle did not. Why: air can be squeezed into less space, but water cannot. So water shut in tight holds its shape."
+     "parent": "A good answer: What I think: a worm stays firm because their liquid is held in tight, and liquid cannot be squeezed. What I saw: under the books, the open bottles sank 5 cm, but both capped pairs hardly sank. When I sat on the board, the air bottles went down about 1 cm, and the water bottles hardly moved. When I squeezed them, the air bottle gave and the water bottle did not. Why: air can be squeezed into less space, but water cannot. So water shut in tight holds its shape."
     }
    ]
   },
@@ -2002,7 +2002,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Wipe a smooth tile clean and dry. 2. Wet each sucker a little. 3. Press one sucker firmly onto the tile at about knee height. 4. Spread a towel underneath.",
-     "say": "A starfish has hundreds of tiny tube feet under its arms. Each one grips like a little sucker. Let's find out what happens when many small grips work together.",
+     "say": "A starfish has hundreds of tiny tube feet under their arms. Each one grips like a little sucker. Let's find out what happens when many small grips work together.",
      "kid": "Clean a tile. Wet a sucker a little. Press it hard on the tile, low down. Put a towel underneath.",
      "context": "This is the first step of the Many Small Suckers experiment. You find out how many small suckers can hold more than one, like a starfish's tube feet."
     },
@@ -2095,7 +2095,7 @@
      "do": "Ask your child to say three sentences: what I think, what I saw, and why.",
      "say": "Tell me three things. What do you think now about many small suckers? What did you see? And why?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer: What I think: more suckers hold more weight. What I saw: one sucker held 3 cups and four suckers held 11 cups. Why: each sucker grips a little, and their grips add up. A starfish has hundreds of tube feet, so it holds on very tightly.",
+     "parent": "A good answer: What I think: more suckers hold more weight. What I saw: one sucker held 3 cups and four suckers held 11 cups. Why: each sucker grips a little, and their grips add up. A starfish has hundreds of tube feet, so they hold on very tightly.",
      "think": "Four suckers held 11 cups, not exactly 12. Why might they not add up perfectly?"
     }
    ]
@@ -2292,7 +2292,7 @@
      "qty": 1
     }
    ],
-   "safety": "If you catch a live minibeast to look at, use a clear box and a paintbrush, never your fingers. Look for 5 minutes, then let it go where you found it. Do not catch spiders, scorpions or centipedes. Wash your hands with soap after touching a raw prawn or a dead fly.",
+   "safety": "If you catch a live minibeast to look at, use a clear box and a paintbrush, never your fingers. Look for 5 minutes, then let them go where you found them. Do not catch spiders, scorpions or centipedes. Wash your hands with soap after touching a raw prawn or a dead fly.",
    "schedule": [
     {
      "day": 1,
@@ -2305,7 +2305,7 @@
    "setup": [
     {
      "art": "A clear plastic box with an ant inside, a magnifying glass above it, and a child's eye looking through.",
-     "caption": "1. Look closely at one animal. Count its legs."
+     "caption": "1. Look closely at one animal. Count their legs."
     },
     {
      "art": "A simple flow chart drawn on paper with yes and no arrows: Legs? 6? 8? 10? Many?",
@@ -2320,7 +2320,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Write this key on paper. 1: Does it have legs? No: worm or snail. Yes: go to 2. 2: Does it have exactly 6 legs? Yes: insect. No: go to 3. 3: Does it have exactly 8 legs? Yes: arachnid, like a spider. No: go to 4. 4: Does it have 10 legs? Yes: crab or prawn. No: go to 5. 5: Does it have lots of legs on a long ringed body? Yes: centipede or millipede.",
+     "do": "Write this key on paper. 1: Do they have legs? No: worm or snail. Yes: go to 2. 2: Do they have exactly 6 legs? Yes: insect. No: go to 3. 3: Do they have exactly 8 legs? Yes: arachnid, like a spider. No: go to 4. 4: Do they have 10 legs? Yes: crab or prawn. No: go to 5. 5: Do they have lots of legs on a long ringed body? Yes: centipede or millipede.",
      "say": "This is a key. It is a list of yes or no questions. Each answer sends you to the next question, until you reach the animal's group.",
      "kid": "This is a key. Answer each question yes or no. Follow the arrows to the animal's group.",
      "context": "This is the first step of the Leg Count Key. You use yes or no questions about legs to find the group a small animal belongs to."
@@ -2329,16 +2329,16 @@
      "id": "s2",
      "mins": 6,
      "do": "Take the cards one by one. Your child counts the legs and follows the key out loud.",
-     "say": "Let's try the ant. Does it have legs? Yes. Exactly 6? Yes. So the ant is an insect.",
-     "kid": "Pick a card. Count the legs. Follow the key. Which group is it?",
+     "say": "Let's try the ant. Do they have legs? Yes. Exactly 6? Yes. So the ant is an insect.",
+     "kid": "Pick a card. Count the legs. Follow the key. Which group are they in?",
      "check": {
       "t": "mcq",
-      "q": "A woodlouse has 14 legs. It is not long and thin like a centipede. Where does the key leave it?",
+      "q": "A woodlouse has 14 legs. It is not long and thin like a centipede. Where does the key leave them?",
       "options": [
-       "It is an insect",
-       "It is a spider",
-       "The key does not have a place for it, so we need a new question",
-       "It is a worm"
+       "They are an insect",
+       "They are a spider",
+       "The key does not have a place for them, so we need a new question",
+       "They are a worm"
       ],
       "a": 2,
       "why": "The key only knows 0, 6, 8, 10 or lots of legs on a long body. A woodlouse has 14 legs and a short, rounded body, so the key gets stuck. That is not a mistake. It means we need a new question. Woodlice are land cousins of crabs and prawns. Picking 'insect' is the most common guess, because woodlice are small and live on land."
@@ -2349,15 +2349,15 @@
      "id": "s3",
      "mins": 4,
      "do": "Look at the ant and the spider cards side by side. Count their body parts.",
-     "say": "Count the body parts too. The ant has a head, a middle and a back end. How many parts does the spider have? And does it have feelers?",
+     "say": "Count the body parts too. The ant has a head, a middle and a back end. How many parts does the spider have? And do they have feelers?",
      "kid": "Look at the ant and the spider. Count their body parts. Which one has feelers?",
      "ask": [
       {
        "q": "What two things show a spider is not an insect?",
        "good": [
-        "It has 8 legs, not 6.",
-        "It has 2 body parts, not 3.",
-        "It has no feelers."
+        "They have 8 legs, not 6.",
+        "They have 2 body parts, not 3.",
+        "They have no feelers."
        ]
       }
      ]
@@ -2368,8 +2368,8 @@
      "do": "Ask your child to add one new question to the key, so the woodlouse has a place.",
      "say": "Can you add one question that would find the woodlouse? Scientists improve their keys like this all the time.",
      "kid": "Add one new question to the key. Make it find the woodlouse.",
-     "parent": "Any question that works is good. For example: 'Does it have 14 legs and roll into a ball?' or 'Does it have a short body and more than 10 legs?'",
-     "think": "Would your key work for an animal from the sea, like a starfish? What question would you add for it?"
+     "parent": "Any question that works is good. For example: 'Do they have 14 legs and roll into a ball?' or 'Do they have a short body and more than 10 legs?'",
+     "think": "Would your key work for an animal from the sea, like a starfish? What question would you add for them?"
     }
    ]
   },
@@ -2397,16 +2397,16 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "Wash your hands well with soap and water after touching a snail or its slime. Some snails can carry germs. Never put a snail near your mouth. If you find a large snail with a long cone-shaped shell, that may be the giant African snail. Look, but do not touch it.",
+   "safety": "Wash your hands well with soap and water after touching a snail or their slime. Some snails can carry germs. Never put a snail near your mouth. If you find a large snail with a long cone-shaped shell, that may be the giant African snail. Look, but do not touch them.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Put a snail on clear plastic or glass. Watch the waves under its foot. Draw what you see. Put it back."
+     "what": "Put a snail on clear plastic or glass. Watch the waves under their foot. Draw what you see. Put them back."
     }
    ],
    "record": "Draw the snail's foot from underneath, with the waves. Write how many waves you counted at one time.",
-   "context": "In this activity you watch a garden snail from underneath, through clear glass or plastic. You see the waves of muscle that move its one big foot.",
+   "context": "In this activity you watch a garden snail from underneath, through clear glass or plastic. You see the waves of muscle that move their one big foot.",
    "setup": [
     {
      "art": "A grown-up's hand gently lifting a garden snail off a wet wall after rain.",
@@ -2414,57 +2414,57 @@
     },
     {
      "art": "A snail on a clear plastic lid with a few drops of water on it, held up by two stacks of books.",
-     "caption": "2. Put it on clear plastic with a few drops of water."
+     "caption": "2. Put them on clear plastic with a few drops of water."
     },
     {
      "art": "A child lying on the floor looking up through the plastic at the underside of the snail's foot, with dark stripes running across it.",
-     "caption": "3. Look from underneath at the stripes on its foot."
+     "caption": "3. Look from underneath at the stripes on their foot."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. After rain, find a garden snail on a wall or plant. 2. Lift it gently by the shell, not the soft body. 3. Wet a clear plastic lid with a few drops of water.",
-     "say": "A snail has no bones and no legs. It walks on one big soft foot. Let's watch that foot from underneath.",
-     "kid": "Ask a grown-up to help you find a snail after rain. Hold it gently by the shell.",
+     "do": "1. After rain, find a garden snail on a wall or plant. 2. Lift them gently by the shell, not the soft body. 3. Wet a clear plastic lid with a few drops of water.",
+     "say": "A snail has no bones and no legs. They walk on one big soft foot. Let's watch that foot from underneath.",
+     "kid": "Ask a grown-up to help you find a snail after rain. Hold them gently by the shell.",
      "adult": true,
-     "context": "This is the first step of the Snail Foot Window. You watch a snail walk on clear plastic and look at its foot from below.",
-     "parent": "Snails come out after rain, mostly in the monsoon, and often at night. Look on walls, under flowerpot rims and on potted plants. If none turns up, try again in the evening after watering the pots, or after the next rain. Until then, watch an ant walk across a sheet of glass or a clear lid and count its legs, to compare with a snail's one foot later."
+     "context": "This is the first step of the Snail Foot Window. You watch a snail walk on clear plastic and look at their foot from below.",
+     "parent": "Snails come out after rain, mostly in the monsoon, and often at night. Look on walls, under flowerpot rims and on potted plants. If none turns up, try again in the evening after watering the pots, or after the next rain. Until then, watch an ant walk across a sheet of glass or a clear lid and count their legs, to compare with a snail's one foot later."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "Put the snail on the wet plastic. Rest the plastic on two stacks of books, so you can look up at it from underneath. Wait until the snail comes out and starts moving.",
-     "say": "We have to be patient. A snail comes out when it feels safe.",
-     "kid": "Put the snail on the wet plastic. Wait quietly until it comes out and moves.",
-     "parent": "If it stays inside its shell, put one drop of water on it and wait a few minutes in the shade."
+     "say": "We have to be patient. A snail comes out when they feel safe.",
+     "kid": "Put the snail on the wet plastic. Wait quietly until they come out and move.",
+     "parent": "If they stay inside their shell, put one drop of water on them and wait a few minutes in the shade."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "Look up from underneath. Watch the dark stripes moving along the foot. Count how many stripes you can see at one time.",
-     "say": "Look at the dark stripes moving along its foot. Each stripe is a wave of muscle squeezing. The snail rides on these waves and on its slime.",
+     "say": "Look at the dark stripes moving along their foot. Each stripe is a wave of muscle squeezing. The snail rides on these waves and on their slime.",
      "kid": "Look from underneath. See the dark stripes moving? Count them. Each one is a squeeze of muscle.",
      "check": {
       "t": "mcq",
       "q": "What moves a snail forward?",
       "options": [
-       "Tiny legs under its shell",
-       "Waves of muscle along its one foot, sliding on slime",
-       "The wind pushes its shell",
-       "Its shell rolls like a wheel"
+       "Tiny legs under their shell",
+       "Waves of muscle along their one foot, sliding on slime",
+       "The wind pushes their shell",
+       "Their shell rolls like a wheel"
       ],
       "a": 1,
-      "why": "A snail has no legs and no bones. Waves of muscle ripple along its foot, and its slime helps it grip and glide. Picking 'tiny legs' is a common guess, because most crawling things we know have legs. Look again from underneath: you will see stripes, not legs."
+      "why": "A snail has no legs and no bones. Waves of muscle ripple along their foot, and their slime helps them grip and glide. Picking 'tiny legs' is a common guess, because most crawling things we know have legs. Look again from underneath: you will see stripes, not legs."
      }
     },
     {
      "id": "s4",
      "mins": 2,
-     "do": "Look at the shiny trail it leaves. Then put the snail back exactly where you found it.",
-     "say": "See the shiny trail? That is its slime. Let's take it home now, where we found it.",
-     "kid": "Look at the shiny slime trail. Then help put the snail back where you found it. Wash your hands with soap.",
+     "do": "Look at the shiny trail they leave. Then put the snail back exactly where you found them.",
+     "say": "See the shiny trail? That is their slime. Let's take them home now, where we found it.",
+     "kid": "Look at the shiny slime trail. Then help put the snail back where you found them. Wash your hands with soap.",
      "adult": true
     },
     {
@@ -2473,7 +2473,7 @@
      "do": "Ask your child to draw the foot from underneath and say three things: what I think, what I saw and why.",
      "say": "Draw what you saw. Then tell me: what do you think moves a snail? What did you see? Why does that make sense?",
      "kid": "Draw the foot from underneath. What I think. What I saw. Why.",
-     "parent": "A good answer: What I think: a snail moves by squeezing its foot. What I saw: dark stripes moved along the foot from back to front. Why: each stripe is a squeeze, and the squeezes push the snail along on its slime."
+     "parent": "A good answer: What I think: a snail moves by squeezing their foot. What I saw: dark stripes moved along the foot from back to front. Why: each stripe is a squeeze, and the squeezes push the snail along on their slime."
     }
    ]
   },
@@ -2533,7 +2533,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Lay a thin plastic bag flat. 2. Pinch the middle of the closed end to make a small air bubble about the size of a lime. 3. Tie it off with thread. 4. A grown-up cuts the rest of the bag into 8 long, thin strips.",
-     "say": "A jellyfish has no bones, no brain and no heart. It is about 95 parts in every 100 water. Let's make one and see how it stays in shape.",
+     "say": "A jellyfish has no bones, no brain and no heart. They are about 95 parts in every 100 water. Let's make one and see how it stays in shape.",
      "kid": "Pinch a small bubble at the top of a plastic bag. Tie it. A grown-up cuts the rest into thin strips. These are tentacles.",
      "adult": true,
      "context": "This is the first step of Jellyfish in a Bottle. You make a model jellyfish from a plastic bag."
@@ -2570,7 +2570,7 @@
        "Air is heavier than water"
       ],
       "a": 1,
-      "why": "A jellyfish has no bones and no armour. The sea holds it up. On a beach, it collapses into a blob. Picking 'bones that break' mixes jellyfish up with fish. Jellyfish have no bones at all."
+      "why": "A jellyfish has no bones and no armour. The sea holds them up. On a beach, they collapse into a blob. Picking 'bones that break' mixes jellyfish up with fish. Jellyfish have no bones at all."
      }
     },
     {
@@ -2580,7 +2580,7 @@
      "say": "Draw both pictures. Then tell me what you think, what you saw, and why.",
      "kid": "Draw it in the water and out of it. Say what you think, what you saw and why.",
      "parent": "A good answer: What I think: jellyfish need water to hold their shape. What I saw: in the bottle the strips spread out, but in the air they stuck together in a clump. Why: the jellyfish has no skeleton, and the water was holding it up.",
-     "think": "Why might a real jellyfish washed up on a beach still sting you, even if it looks like a flat blob?"
+     "think": "Why might a real jellyfish washed up on a beach still sting you, even if they look like a flat blob?"
     }
    ]
   },
@@ -2657,19 +2657,19 @@
      "id": "s3",
      "mins": 3,
      "do": "Let the tube split along the tape. Your child slides out. Make a new, bigger tube from fresh paper, but leave it untaped for one minute, as 'soft armour'.",
-     "say": "The old armour splits and you climb out. For a while your new armour is soft. A real crab hides at this time, because it is easy to eat.",
+     "say": "The old armour splits and you climb out. For a while your new armour is soft. A real crab hides at this time, because they are easy to eat.",
      "kid": "Split the tube. Climb out. Your new armour is soft for a while. Hide!",
      "check": {
       "t": "mcq",
-      "q": "Why does a crab hide after it moults?",
+      "q": "Why does a crab hide after they moult?",
       "options": [
-       "It is tired of its friends",
-       "Its new armour is still soft, so it is easy to hurt",
-       "It has lost its legs",
+       "They are tired of their friends",
+       "Their new armour is still soft, so they are easy to hurt",
+       "They have lost their legs",
        "Crabs only come out at night"
       ],
       "a": 1,
-      "why": "After a moult, the new shell takes some days to harden. Until then the crab is soft and easy for hunters to catch. Picking 'lost its legs' is a mix-up: a crab keeps its legs when it moults. It pulls them out of the old shell like fingers from a glove."
+      "why": "After a moult, the new shell takes some days to harden. Until then the crab is soft and easy for hunters to catch. Picking 'lost their legs' is a mix-up: a crab keeps their legs when they moult. They pull them out of the old shell like fingers from a glove."
      }
     },
     {
@@ -2734,7 +2734,7 @@
      "kid": "Look with a grown-up for a spider web. Try corners, window grills and balcony plants.",
      "adult": true,
      "context": "This is the first step of Spider Web Hunt. You find a spider's web and look closely at how it is built.",
-     "parent": "Indoors, most webs are loose tangles in corners, made by thin long-legged cellar spiders. Round webs are more often on balcony plants and railings. If you find no web at all, look for a small jumping spider on a wall or window. It hunts by jumping, with no web. Count its 8 legs instead."
+     "parent": "Indoors, most webs are loose tangles in corners, made by thin long-legged cellar spiders. Round webs are more often on balcony plants and railings. If you find no web at all, look for a small jumping spider on a wall or window. They hunt by jumping, with no web. Count their 8 legs instead."
     },
     {
      "id": "s2",
@@ -2749,10 +2749,10 @@
      "mins": 6,
      "do": "If the web is round, count the spokes running out from the middle and look for the spiral thread. If it is a tangle, look for where the threads are thickest. Look for the spider, often in the middle or hiding at the edge.",
      "say": "Is it a round web or a tangle? If it is round, count the spokes, the straight threads from the middle. Where is the spider waiting?",
-     "kid": "Is it round or a tangle? Count the spokes if it is round. Can you see the spider? Do not touch it.",
+     "kid": "Is it round or a tangle? Count the spokes if it is round. Can you see the spider? Do not touch them.",
      "check": {
       "t": "mcq",
-      "q": "A spider has 8 legs, 2 body parts and no feelers. Which group is it in?",
+      "q": "A spider has 8 legs, 2 body parts and no feelers. Which group are they in?",
       "options": [
        "Insects",
        "Arachnids",
@@ -2767,10 +2767,10 @@
      "id": "s4",
      "mins": 3,
      "do": "Ask your child to draw the web and write how many spokes it had.",
-     "say": "Draw the web. A spider spins all of that from silk made inside its own body. Spider silk is one of the toughest threads known.",
+     "say": "Draw the web. A spider spins all of that from silk made inside their own body. Spider silk is one of the toughest threads known.",
      "kid": "Draw the web. If it is round, write how many spokes it had.",
-     "parent": "Round-web spiders seen on Indian balconies and in gardens include the signature spider, which adds a zigzag band of silk to its web. In houses, the cellar spider makes loose webs in corners and hangs upside down in them. Most house and garden spiders are harmless to people, but they should never be handled.",
-     "think": "The spider made all this silk inside its own small body. What do you think the silk is made from?"
+     "parent": "Round-web spiders seen on Indian balconies and in gardens include the signature spider, which adds a zigzag band of silk to their web. In houses, the cellar spider makes loose webs in corners and hangs upside down in them. Most house and garden spiders are harmless to people, but they should never be handled.",
+     "think": "The spider made all this silk inside their own small body. What do you think the silk is made from?"
     }
    ]
   },
@@ -2842,20 +2842,20 @@
       "t": "mcq",
       "q": "How is a starfish's body built differently from yours?",
       "options": [
-       "It has a left side and a right side, like us",
-       "It has five matching parts around a middle",
-       "It has a backbone in each arm",
-       "It has two heads"
+       "They have a left side and a right side, like us",
+       "They have five matching parts around a middle",
+       "They have a backbone in each arm",
+       "They have two heads"
       ],
       "a": 1,
-      "why": "You have one fold line down the middle: your left side matches your right. A starfish has five, one through each arm, because its body has five matching parts around a centre. Picking 'backbone in each arm' is a guess many children make because the arms look stiff. But a starfish has no bones, only hard plates of calcium carbonate under its skin."
+      "why": "You have one fold line down the middle: your left side matches your right. A starfish has five, one through each arm, because their body has five matching parts around a centre. Picking 'backbone in each arm' is a guess many children make because the arms look stiff. But a starfish has no bones, only hard plates of calcium carbonate under their skin."
      }
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Talk about regrowing. Fold one arm of the paper star back under.",
-     "say": "If a starfish loses an arm, it can grow a new one over many months. Most need part of the middle to do it. A few kinds can grow a whole new starfish from a single arm.",
+     "say": "If a starfish loses an arm, they can grow a new one over many months. Most need part of the middle to do it. A few kinds can grow a whole new starfish from a single arm.",
      "kid": "Fold one arm under. A real starfish could grow it back. It takes months.",
      "think": "Your skin can mend a cut. Your hair grows back. Can you grow back a finger? Why do you think some animals can and some cannot?"
     }
@@ -3037,7 +3037,7 @@
     "Add a seam with a lace, like a shoe. Loosen the lace as the arm grows."
    ],
    "creative": [
-    "A hermit crab does not grow armour at all. It borrows empty snail shells and moves into a bigger one when it grows. Could your toy swap armour with a friend?",
+    "A hermit crab does not grow armour at all. They borrow empty snail shells and move into a bigger one when they grow. Could your toy swap armour with a friend?",
     "Snails solve the problem by adding new shell at the open edge. Could you add a new strip at the end of your armour each week?",
     "Real armadillos and pangolins have backbones, but they use overlapping scales. Look at pictures of a pangolin for ideas."
    ],
@@ -3062,7 +3062,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the problem together. Look at pictures of a crab, a woodlouse and a prawn's tail.",
-     "say": "A crab's armour cannot grow, so it has to break out of it. Can we invent armour that grows with you?",
+     "say": "A crab's armour cannot grow, so they have to break out of it. Can we invent armour that grows with you?",
      "kid": "Read the problem. Armour that can grow. Look at how a woodlouse's back is made of plates.",
      "context": "This is the first step of the Armour That Can Grow challenge. You design armour that can get bigger without being thrown away."
     },
@@ -3171,7 +3171,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Watch an earthworm move, or watch the video in this unit. Remember how the water rose up the bottle neck when you squeezed it in Water Bones.",
-     "say": "A worm squeezes to stretch forward, then pulls up its back end. Tiny bristles stop it sliding backwards. Can we copy that?",
+     "say": "A worm squeezes to stretch forward, then pulls up their back end. Tiny bristles stop it sliding backwards. Can we copy that?",
      "kid": "A worm squeezes, stretches, grips and pulls. Can you copy that with paper?",
      "context": "This is the first step of the Crawl Without Legs challenge. You build a model worm that moves without legs or wheels."
     },
@@ -3234,7 +3234,7 @@
    "channel": "Monterey Bay Aquarium",
    "youtube": "JnSER1jVm98",
    "mins": 3,
-   "why": "A short aquarium video about how a sea star's body is laid out, with its mouth underneath and its five matching parts.",
+   "why": "A short aquarium video about how a sea star's body is laid out, with their mouth underneath and their five matching parts.",
    "check": "Found by YouTube search: \"Fast Ocean Facts — Where Is A Starfish's Butt?\" by Monterey Bay Aquarium. Only the title was checked; a parent should preview it."
   }
  ],
@@ -3262,7 +3262,7 @@
     "A jellyfish"
    ],
    "a": 2,
-   "why": "A snake has a long backbone with hundreds of vertebrae, even though it has no legs. Picking the earthworm usually means a long, legless shape fooled you.",
+   "why": "A snake has a long backbone with hundreds of vertebrae, even though they have no legs. Picking the earthworm usually means a long, legless shape fooled you.",
    "outcome": 0
   },
   {
@@ -3297,18 +3297,18 @@
    "t": "mcq",
    "p": "How does an earthworm stay firm without bones?",
    "opts": [
-    "It has a shell inside",
-    "It is full of liquid squeezed tight by its muscles",
-    "It dries out in the sun",
-    "It holds its breath"
+    "They have a shell inside",
+    "They are full of liquid squeezed tight by their muscles",
+    "They dry out in the sun",
+    "They hold their breath"
    ],
    "a": 1,
-   "why": "A worm has a water skeleton. Its muscles hold the liquid in tight, like a cap on a bottle full of water. Picking 'a shell inside' is a guess, but worms have no hard parts at all.",
+   "why": "A worm has a water skeleton. Their muscles hold the liquid in tight, like a cap on a bottle full of water. Picking 'a shell inside' is a guess, but worms have no hard parts at all.",
    "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "Which animal wears its skeleton on the outside, like armour?",
+   "p": "Which animal wears their skeleton on the outside, like armour?",
    "opts": [
     "A cow",
     "A crab",
@@ -3321,7 +3321,7 @@
   },
   {
    "t": "mcq",
-   "p": "An animal has 6 legs and 3 body parts. What is it?",
+   "p": "An animal has 6 legs and 3 body parts. What animal is this?",
    "opts": [
     "A spider",
     "An insect",
@@ -3355,7 +3355,7 @@
     "The water bottles were a different colour"
    ],
    "a": 1,
-   "why": "Air can be squeezed a little, so the air bottles gave. Water cannot be squeezed, and the caps kept it in, so it pushed back. That is how the liquid in a worm keeps it firm. Picking 'lightest' is wrong: the water bottles were the heaviest.",
+   "why": "Air can be squeezed a little, so the air bottles gave. Water cannot be squeezed, and the caps kept it in, so it pushed back. That is how the liquid in a worm keeps them firm. Picking 'lightest' is wrong: the water bottles were the heaviest.",
    "outcome": 4,
    "how": "e1",
    "context": "Remember the Water Bones experiment? You pressed down on pairs of plastic bottles: open and empty, capped with air, and capped with water. You used books, then sat on the board, then squeezed the capped bottles by hand."
@@ -3403,15 +3403,15 @@
   },
   {
    "t": "mcq",
-   "p": "You find a snail after rain and want to look at it. What is the kind way?",
+   "p": "You find a snail after rain and want to look at them. What is the kind way?",
    "opts": [
-    "Keep it in a closed jar for a week",
-    "Hold it gently by its shell, watch it for a few minutes, put it back where you found it and wash your hands",
-    "Pull it out of its shell to see inside",
-    "Put salt on it to see what happens"
+    "Keep them in a closed jar for a week",
+    "Hold them gently by their shell, watch them for a few minutes, put them back where you found them and wash your hands",
+    "Pull them out of their shell to see inside",
+    "Put salt on them to see what happens"
    ],
    "a": 1,
-   "why": "Watch kindly, for a short time, and return the animal where you found it. Salt hurts snails badly, and a snail cannot leave its shell. Wash your hands, because snails can carry germs.",
+   "why": "Watch kindly, for a short time, and return the animal where you found it. Salt hurts snails badly, and a snail cannot leave their shell. Wash your hands, because snails can carry germs.",
    "outcome": 6
   }
  ],
@@ -3490,7 +3490,7 @@
   },
   {
    "q": "How can a starfish, with no brain, decide which way to go?",
-   "why_open": "Scientists are studying how its arms share messages, but they do not fully understand it yet."
+   "why_open": "Scientists are studying how their arms share messages, but they do not fully understand it yet."
   },
   {
    "q": "How does a tardigrade survive drying out, freezing and even space?",
@@ -3508,14 +3508,14 @@
   "What holds that snail up? What holds you up?",
   "If you were a crab, what would it feel like to moult?",
   "Who is the most important animal in the garden? Why?",
-  "A starfish has no brain. How do you think it finds food?",
+  "A starfish has no brain. How do you think they find food?",
   "Where do you think all the fallen leaves go?",
   "Would you rather have a backbone or armour? Why?",
   "If you were an ant, what would a person look like to you?"
  ],
  "jokes": [
   {
-   "j": "Why did the snail paint an S on its shell?",
+   "j": "Why did the snail paint an S on their shell?",
    "a": "So people would say, 'Look at that S car go!'"
   },
   {
@@ -3536,7 +3536,7 @@
   },
   {
    "j": "Why was the starfish so good at sums?",
-   "a": "It always had five on hand."
+   "a": "They always had five on hand."
   },
   {
    "j": "What do you call an ant who skips school?",
@@ -3552,7 +3552,7 @@
   },
   {
    "j": "Why did the centipede miss the bus?",
-   "a": "It was still putting on its shoes."
+   "a": "They were still putting on their shoes."
   },
   {
    "j": "What do snails eat at the beach?",
@@ -3560,7 +3560,7 @@
   },
   {
    "j": "Why didn't the octopus go to battle?",
-   "a": "It was well armed, but it had no backbone."
+   "a": "They were well armed, but they had no backbone."
   },
   {
    "j": "What is a mosquito's favourite sport?",
@@ -3572,10 +3572,10 @@
   },
   {
    "j": "Why did the spider join the cricket team?",
-   "a": "It was great at catching flies."
+   "a": "They were great at catching flies."
   },
   {
-   "j": "What did the jellyfish say when it won the race?",
+   "j": "What did the jellyfish say when they won the race?",
    "a": "I'm so glad I didn't have to use my brain."
   },
   {
@@ -3591,12 +3591,12 @@
    "a": "An account-ant."
   },
   {
-   "j": "What did the clam do on its birthday?",
-   "a": "It shellebrated."
+   "j": "What did the clam do on their birthday?",
+   "a": "They shellebrated."
   },
   {
    "j": "Why did the starfish blush?",
-   "a": "Because it saw the sea weed."
+   "a": "Because they saw the sea weed."
   }
  ],
  "maths": [
@@ -3802,7 +3802,7 @@
  "warmup": [
   {
    "q": "Backbone or no backbone: an earthworm?",
-   "a": "No backbone. It is held firm by liquid held tight inside it."
+   "a": "No backbone. They are held firm by liquid held tight inside them."
   },
   {
    "q": "How many legs does an insect have?",
@@ -3814,7 +3814,7 @@
   },
   {
    "q": "Is a starfish a fish?",
-   "a": "No. It has no backbone and no gills. It is a sea star."
+   "a": "No. They have no backbone and no gills. They are a sea star."
   },
   {
    "q": "What is an exoskeleton?",
@@ -3822,7 +3822,7 @@
   },
   {
    "q": "Why must a crab moult?",
-   "a": "Its armour cannot stretch, so it climbs out to grow."
+   "a": "Their armour cannot stretch, so they climb out to grow."
   },
   {
    "q": "Out of 100 kinds of animal, about how many have no backbone?",
@@ -3834,7 +3834,7 @@
   },
   {
    "q": "Who makes a snail's shell?",
-   "a": "The snail itself, from calcium carbonate, the material chalk is made of."
+   "a": "The snail themself, from calcium carbonate, the material chalk is made of."
   },
   {
    "q": "Which is a closer cousin of yours: a starfish or a snail?",
@@ -3932,12 +3932,12 @@
  "roots": {
   "context": "We have been learning how animals without backbones hold their soft bodies in shape, and how they feel and decide. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Under the books, the open bottles squashed, but the capped bottles held firm. When you sat on them or squeezed them, the air bottles gave, but the water bottles hardly moved. Water cannot be squeezed into less space, so water shut in tight makes a body firm. An earthworm has no bones, only liquid held in by its muscles, and that is enough.",
+   "truth": "Under the books, the open bottles squashed, but the capped bottles held firm. When you sat on them or squeezed them, the air bottles gave, but the water bottles hardly moved. Water cannot be squeezed into less space, so water shut in tight makes a body firm. An earthworm has no bones, only liquid held in by their muscles, and that is enough.",
    "habit": "We think being firm needs something hard inside, like bone or wood. An earthworm shows that liquid held in tight is enough.",
    "evidence": "In Water Bones, the open bottles squashed under the books, but the capped bottles held firm. Under a sitting child and a hard squeeze, the air bottles gave and the water bottles did not."
   },
   "three": {
-   "who_am_i": "You hold your shape with bones inside. An earthworm holds its shape with liquid held in tight. Both of you feel the world you move through.",
+   "who_am_i": "You hold your shape with bones inside. An earthworm holds their shape with liquid held in tight. Both of you feel the world you move through.",
    "what_is_life": "Life has found many ways to hold a soft body in shape: liquid held in, a shell, armour outside or bones inside.",
    "what_is_this_world": "Most of the animals on Earth are small and have no bones. They live under your feet, in the corners of your home and in the sea."
   },
@@ -3946,12 +3946,12 @@
    {
     "source": "Acaranga Sutra, Book 1, Lecture 2, Lesson 3 (a Jain scripture, in Hermann Jacobi's translation)",
     "teaching": "All beings are fond of life. They like pleasure and dislike pain. To all, life is dear. This is why Jain monks walk softly and sweep the ground ahead of them, so as not to step on tiny creatures.",
-    "link": "In this unit, crabs guarded hurt legs and an octopus stayed away from a place where it was hurt. The Jain teaching said long ago what these tests now show: small animals dislike pain."
+    "link": "In this unit, crabs guarded hurt legs and an octopus stayed away from a place where they were hurt. The Jain teaching said long ago what these tests now show: small animals dislike pain."
    },
    {
     "source": "Zhuangzi, chapter 2, the butterfly dream (a Chinese Taoist book)",
-    "teaching": "Zhuangzi dreamed he was a butterfly, happily flying about. When he woke up, he wondered: was he a man who had dreamed he was a butterfly, or a butterfly now dreaming it was a man?",
-    "link": "We can watch what an ant or a butterfly does, but we cannot step inside its body to feel what it feels. Zhuangzi's dream asks the same question about what it is like to be a small creature."
+    "teaching": "Zhuangzi dreamed he was a butterfly, happily flying about. When he woke up, he wondered: was he a man who had dreamed he was a butterfly, or a butterfly now dreaming he was a man?",
+    "link": "We can watch what an ant or a butterfly does, but we cannot step inside their body to feel what they feel. Zhuangzi's dream asks the same question about what it is like to be a small creature."
    }
   ],
   "science": [
@@ -3971,14 +3971,14 @@
   "practice": {
    "title": "Firm without bones",
    "mins": 3,
-   "say": "Sit up tall. Hold your left arm out and let it go soft. With your right hand, gently press the soft part of your forearm. Now make a tight fist and press the same place again. It is hard now, because your muscles are squeezing. A worm's muscles squeeze its liquid in the same way, all along its body. Let the fist go soft again. Breathe in slowly, and out slowly, three times. Feel the squeeze and the softness, one after the other.",
+   "say": "Sit up tall. Hold your left arm out and let it go soft. With your right hand, gently press the soft part of your forearm. Now make a tight fist and press the same place again. It is hard now, because your muscles are squeezing. A worm's muscles squeeze their liquid in the same way, all along their body. Let the fist go soft again. Breathe in slowly, and out slowly, three times. Feel the squeeze and the softness, one after the other.",
    "kid": "Let your arm go soft. Press it. Now make a tight fist. Press again. It feels hard. Your muscles squeezed. Breathe slowly three times."
   },
   "ask": [
-   "If an ant named all the animals, what do you think it would call us?",
+   "If an ant named all the animals, what do you think they would call us?",
    "What else in your home is firm only because something is held in tight?",
-   "A crab guards its hurt leg. How could you tell if an ant was hurt?",
-   "A starfish is your cousin. What would you like to ask it?"
+   "A crab guards their hurt leg. How could you tell if an ant was hurt?",
+   "A starfish is your cousin. What would you like to ask them?"
   ],
   "art": "A child sitting cross-legged on a floor mat, one hand in a tight fist, an earthworm in a pot of damp soil beside her, and two capped water bottles holding up a book."
  },

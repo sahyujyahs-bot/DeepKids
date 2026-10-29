@@ -16,9 +16,9 @@
 7. I can explain big ideas about ageing: tiny caps on our genes, a grandmother idea, and animals that barely seem to age.
 
 ## Terms
-- **Life cycle**: All the stages a living thing goes through, from the start of its life to the end. *e.g.* A mango tree starts as a seed, grows, makes mangoes with new seeds, grows old and one day dies.
+- **Life cycle**: All the stages a living thing goes through, from the start of their life to the end. *e.g.* A mango tree starts as a seed, grows, makes mangoes with new seeds, grows old and one day dies.
 - **Life stage**: One part of a life cycle, when the body is a certain way. *e.g.* Being a baby is one life stage. Being a grandparent is often another.
-- **Infant**: A baby in its first year of life. *e.g.* Your baby cousin who cannot walk yet is an infant.
+- **Infant**: A baby in their first year of life. *e.g.* Your baby cousin who cannot walk yet is an infant.
 - **Teenager**: A person aged about 13 to 19. Their body grows fast and changes into a grown-up shape. *e.g.* An older cousin whose voice is getting deeper is a teenager.
 - **Adult**: A person whose body has finished growing taller. In India, a person is called an adult in law from age 18. *e.g.* Your parents and teachers are adults.
 - **Older adult or elder**: A person in the later part of life, often over 60. Many elders are grandparents. *e.g.* A grandmother who has lived 70 years is an older adult.
@@ -44,8 +44,8 @@ Nobody skips a stage. Everybody you know is in one of them right now. The stages
 ### A baby's body is different · *defined*
 **Definition:** A baby's body is not a small adult body. It has different proportions, softer bones and it grows faster than at any other time of life.
 
-A newborn is about 50 centimetres long. By its first birthday it is about 75 centimetres. That is the fastest growing a person ever does. A baby's head is about one quarter of its whole length. In an adult, the head is only about one eighth. A baby's skull has soft spots, where the bones have not joined yet. This lets the skull grow with the brain. A baby is born with about 300 bones and soft parts that will become bone. Many of them join together as the child grows. An adult has 206 bones.
-- e.g. A baby's legs are short compared to its body. In an adult, the legs are about half of the whole height.
+A newborn is about 50 centimetres long. By its first birthday it is about 75 centimetres. That is the fastest growing a person ever does. A baby's head is about one quarter of their whole length. In an adult, the head is only about one eighth. A baby's skull has soft spots, where the bones have not joined yet. This lets the skull grow with the brain. A baby is born with about 300 bones and soft parts that will become bone. Many of them join together as the child grows. An adult has 206 bones.
+- e.g. A baby's legs are short compared to their body. In an adult, the legs are about half of the whole height.
 - e.g. Baby teeth are already hiding inside a baby's gums at birth.
 - e.g. A newborn's soft spot on top of the head closes by about age two.
 ### Childhood and the teenage growth spurt · *defined*
@@ -143,7 +143,7 @@ Some living things barely seem to age. Scientists study them to learn how ageing
 
 ## Mostly agreed
 - Every human goes through the same life stages, in the same order. *How we know:* Doctors have measured and recorded millions of babies, children and adults all over the world. Everyone grows and changes in the same order, though at slightly different speeds.
-- Babies and young children grow faster than at any other time. *How we know:* Height charts used in every Indian health centre show a baby grows about 25 centimetres in its first year, but a child grows only about 5 to 6 centimetres a year.
+- Babies and young children grow faster than at any other time. *How we know:* Height charts used in every Indian health centre show a baby grows about 25 centimetres in their first year, but a child grows only about 5 to 6 centimetres a year.
 - Grey hair, wrinkles and needing reading glasses are normal parts of ageing. *How we know:* These changes are seen in people everywhere. Scientists can see the causes under microscopes: fewer pigment cells in hair roots, fewer springy threads in skin and stiffer eye lenses.
 - The body keeps making new cells all through life. *How we know:* Scientists can count and date cells. Red blood cells last about four months, and the outer skin is replaced about every month.
 - Exercise, good food, sleep and friends help people stay healthy at every age. *How we know:* Large studies that follow thousands of people for many years find that active people with friends usually stay stronger and healthier for longer.
@@ -181,7 +181,7 @@ We have been learning how a body changes over a whole life, from baby to elder. 
 *Evidence:* In the near point test, a child reads tiny print at about 8 centimetres, while many people over 45 need 30 centimetres or more. The cells in the middle of the lens were made before birth, and the lens keeps growing all life.
 
 - *who am i:* Your size, skin and hair all change over your life. Some parts of you, like the middle of your eye lens, have been with you since before you were born.
-- *what is life:* A living body is always making new cells and clearing away old ones, from birth to the end of its life.
+- *what is life:* A living body is always making new cells and clearing away old ones, from birth to the end of life.
 - *what is this world:* Seeds, trees, rivers and people all change through stages. Nothing in the world stays exactly the same.
 
 A body is always being taken apart and built again. Food brings in new atoms, and old cells are broken down and carried away. Skin, blood and gut are renewed again and again, while the eye lens and most brain cells stay. When a body dies, its atoms return to the soil and air and become part of plants and other living things. So the atoms in a grandmother and in her grandchild came from the same soil, water and air, and will go back to them.
@@ -196,7 +196,7 @@ A body is always being taken apart and built again. Food brings in new atoms, an
 - Ask: If all your cells change, what is it that stays 'you'?
 - Ask: Is the baby in your old photo you, or someone else?
 - Ask: What do you think you will know when you are 80, that you do not know now?
-- Ask: When an old tree falls and becomes soil for new trees, has it ended, or changed?
+- Ask: When an old tree falls and becomes soil for new trees, has the tree ended, or changed?
 
 ## Deep and big questions
 - *big:* Your grandparent was once a baby. Are the baby and the grandparent the same person? What stayed the same? (hint: Think about what changed: size, skin, hair, cells. Now think about what might not have changed.)
@@ -565,11 +565,11 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
    **Answer:** order shown. *Why:* Every person goes through the stages in this order. Nobody skips one, and nobody goes backwards.
 2. (mcq) When does a person grow fastest?  
    Options: In the first year of life / At age 30 / In old age / Everyone grows at the same speed all life  
-   **Answer:** In the first year of life. *Why:* A baby grows from about 50 to about 75 centimetres in its first year. That is faster than any other time. Picking 'the same speed' usually means growth has been pictured as steady, but it comes in fast and slow times.
-3. (fill) A baby in its first year of life is called an ____.  
-   **Answer:** ['infant']. *Why:* An infant is a baby in its first year.
-4. (truefalse) A baby's head is bigger compared to its body than an adult's head is.  
-   **Answer:** True. *Why:* True. A baby's head is about one quarter of its length. An adult's head is only about one eighth.
+   **Answer:** In the first year of life. *Why:* A baby grows from about 50 to about 75 centimetres in their first year. That is faster than any other time. Picking 'the same speed' usually means growth has been pictured as steady, but it comes in fast and slow times.
+3. (fill) A baby in their first year of life is called an ____.  
+   **Answer:** ['infant']. *Why:* An infant is a baby in their first year.
+4. (truefalse) A baby's head is bigger compared to their body than an adult's head is.  
+   **Answer:** True. *Why:* True. A baby's head is about one quarter of their length. An adult's head is only about one eighth.
 5. (mcq) Why does hair turn grey or white?  
    Options: The cells at the hair root stop making colour / Hair gets dusty with age / The sun bleaches the hair inside the head / Old hair changes colour overnight  
    **Answer:** The cells at the hair root stop making colour. *Why:* Pigment cells at the root put colour into each new hair. As they run out, new hair grows white. Picking 'overnight' is a common story, but hair that has already grown cannot change colour.
@@ -595,7 +595,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
    **Answer:** A small child with a big head and milk teeth, a tall adult, and an older person with grey hair, some wrinkles and reading glasses.. *Why:* Bodies change in size, proportion, hair, skin and eyes over a lifetime.
 15. (write) Name two ways you could help an elder in your home or neighbourhood.  
    **Answer:** I could carry their bag. I could read small print for them. I could put a rubber mat in the bathroom.. *Why:* Good help fits the changes in older bodies: eyes, grip, balance and bones. Always ask first if they want help.
-16. (fill) When a living thing's body stops working for good, we say it has ____. It is the last stage of every life cycle.  
+16. (fill) When a living thing's body stops working for good, we say they have ____. It is the last stage of every life cycle.  
    **Answer:** ['died']. *Why:* Death is the last stage of every life cycle, for plants, animals and people.
 ### Bodies Through the Years (stretch) (stretch, 15 questions)
 1. (mcq) Remember the near point test, where people brought tiny print closer until it blurred? A child read it at 8 cm and a grandfather at 60 cm. What does this show?  
@@ -641,7 +641,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
    Options: Bodies age because birthdays make them older / Small damage builds up faster than it is repaired / The caps on the ends of genes get shorter / Nature mostly shapes how bodies work while young  
    **Answer:** Bodies age because birthdays make them older. *Why:* Birthdays only count the years. They do not cause ageing. The other three are real scientific ideas, and many scientists think more than one is true.
 3. (write) A mouse lives about 2 years. A human lives about 80. Their cells are very alike. Suggest one reason for the difference.  
-   **Answer:** Their genes may set a different timetable. Or a mouse is eaten by cats and owls so young that nature never shaped it to live long. Humans are protected and cared for, so long life helped.. *Why:* This is an open question. Scientists point to genes, size, and how dangerous an animal's life is.
+   **Answer:** Their genes may set a different timetable. Or a mouse is eaten by cats and owls so young that nature never shaped them to live long. Humans are protected and cared for, so long life helped.. *Why:* This is an open question. Scientists point to genes, size, and how dangerous an animal's life is.
 4. (mcq) Killer whale grandmothers often lead their families to salmon. Which idea does this support?  
    Options: Elders can help their families survive / Old animals are always weaker / Whales do not age / Salmon prefer grandmothers  
    **Answer:** Elders can help their families survive. *Why:* Grandmother killer whales remember where food is, especially in hard years. This supports the idea that long life after having babies can help a family.
@@ -714,8 +714,8 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
    Options: Clean water, vaccines, better food and doctors saved many babies and children / People started having more birthdays / Bodies became made of different cells / The weather got cooler  
    **Answer:** Clean water, vaccines, better food and doctors saved many babies and children. *Why:* Most of the change came from far fewer babies and children dying of illnesses. Picking 'more birthdays' mixes up counting years with the reasons people live longer.
 13. (mcq) What happens at the end of every life cycle?  
-   Options: The living thing dies, and its atoms return to the soil, water and air / It starts again as a baby the next day / It turns into a different animal / Nothing ever dies  
-   **Answer:** The living thing dies, and its atoms return to the soil, water and air. *Why:* Death is the last stage of every life cycle, for plants, animals and people. The atoms of the body are not lost but become part of other living things. Families have many different beliefs about what happens after death.
+   Options: The living thing dies, and their atoms return to the soil, water and air / They start again as a baby the next day / They turn into a different animal / Nothing ever dies  
+   **Answer:** The living thing dies, and their atoms return to the soil, water and air. *Why:* Death is the last stage of every life cycle, for plants, animals and people. The atoms of the body are not lost but become part of other living things. Families have many different beliefs about what happens after death.
 14. (mcq) Telomeres are tiny caps on the ends of the threads that hold our genes. What happens to them in many cells?  
    Options: They get shorter each time the cell splits / They grow longer every birthday / They turn into hair / They never change  
    **Answer:** They get shorter each time the cell splits. *Why:* In many cells the caps shorten with each split. When they get too short, the cell stops splitting. Elizabeth Blackburn and Carol Greider found the substance that can rebuild them.
@@ -778,9 +778,9 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
 - Why did the teenager bring a ladder to school? *To keep up with how fast they were growing.*
 - What is the best thing about being 100? *There is very little peer pressure.*
 - Why are grandparents like libraries? *They are full of stories, and they never charge a late fee.*
-- What did the old skin cell say as it fell off? *I'm flaking out, but a new cell will take my place.*
+- What did the old skin cell say when falling off? *I'm flaking out, but a new cell will take my place.*
 - Why did the red blood cell throw a party? *It had lasted four whole months!*
-- Why is a baby's head so big for its body? *Its brain got a head start.*
+- Why is a baby's head so big for their body? *Its brain got a head start.*
 - Why did Paati's reading glasses go to school? *To get a little sharper.*
 - What do you call a wrinkle that smiles? *A laugh line.*
 - Why did the hydra never have a birthday party? *It never seemed to get any older.*
@@ -794,7 +794,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
 ## Connected maths
 - In the near point test, a child read tiny print at 10 cm. A grandmother needed it 60 cm away. How many times further away did the grandmother need it? **6 times.**. The grandmother needed 60 cm. The child needed 10 cm. 60 divided by 10 is 6. You can check: 10 + 10 + 10 + 10 + 10 + 10 = 60. (queues `math.division.sharing-and-grouping.L3`)
 - Riya, a girl in Class 3, did the skin test with her Dadi, her father's mother. Dadi's three tries took 4 seconds, 2 seconds and 3 seconds. What is the middle value? **3 seconds.**. Put the numbers in order, smallest first: 2, 3, 4. The number in the middle is 3. So the middle value is 3 seconds. (queues `math.number-sense.comparing-ordering.L3`)
-- A newborn is about 50 cm long. By its first birthday it is about 75 cm. Later, a child grows about 5 cm a year. How many years does a child take to grow as much as a baby grows in its first year? **5 years.**. The baby grew 75 minus 50, which is 25 cm, in one year. A child grows 5 cm a year. 25 divided by 5 is 5. So a child takes 5 years to grow what a baby grows in one. (queues `math.division.division-facts.L3`)
+- A newborn is about 50 cm long. By its first birthday it is about 75 cm. Later, a child grows about 5 cm a year. How many years does a child take to grow as much as a baby grows in their first year? **5 years.**. The baby grew 75 minus 50, which is 25 cm, in one year. A child grows 5 cm a year. 25 divided by 5 is 5. So a child takes 5 years to grow what a baby grows in one. (queues `math.division.division-facts.L3`)
 - In 1951, life expectancy in India was about 32 years. Today it is about 70 years. How many more years can a baby born today expect to live? **38 more years.**. 70 minus 32. First 70 minus 30 is 40. Then 40 minus 2 is 38. So about 38 more years. (queues `math.addition-subtraction.mental-strategies.L3`)
 - In your interview, the elder is 68 years old and you are 8. How many years ago was the elder your age? If this year is 2026, what year was that? **60 years ago, in 1966.**. 68 minus 8 is 60. So the elder was 8 years old 60 years ago. 2026 minus 60 is 1966. (queues `math.addition-subtraction.word-problems.L3`)
 - A red blood cell lasts about 4 months. A year has 12 months. About how many times are your red blood cells replaced in one year? **About 3 times.**. 12 divided by 4 is 3. So your red blood cells are replaced about 3 times a year. You can check: 4 + 4 + 4 = 12. (queues `math.division.sharing-and-grouping.L3`)

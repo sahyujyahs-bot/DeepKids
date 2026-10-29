@@ -141,7 +141,7 @@
   {
    "concept": "What homeostasis is",
    "status": "defined",
-   "definition": "Homeostasis is the way a living thing keeps its inside steady and just right, even when the outside keeps changing.",
+   "definition": "Homeostasis is the way a living thing keeps their inside steady and just right, even when the outside keeps changing.",
    "description": "Your body needs many things to stay just right. It needs the right warmth, the right amount of water, the right amount of salt and the right amount of sugar in the blood. If any of these goes too high or too low for long, the body cannot work well. So the body keeps checking each one, and fixing it when it drifts. Keeping balance takes small corrections all the time. Riding a bicycle is similar: you stay upright by steering a little left, then a little right.",
    "examples": [
     "On a hot day you sweat, and on a cold day you shiver. Both keep you near 37 degrees.",
@@ -187,7 +187,7 @@
    "description": "Muscles make heat whenever they work. When you shiver, your muscles tighten and loosen very fast, by themselves. You do not move anywhere, but you make a lot of heat. Shivering can make a few times more heat than sitting still. At the same time, tiny muscles in your skin pull each hair upright. These are goosebumps. In a furry animal like a cat or a monkey, standing fur traps a warm layer of air. Our body hair is too thin to trap much, so goosebumps are a leftover from our furry relatives. Curling up into a ball also helps. It means less of your skin touches the cold air, so less heat escapes.",
    "examples": [
     "Your teeth chatter when you come out of a cold swimming pool.",
-    "A cat fluffs up its fur on a cold winter morning.",
+    "A cat fluffs up their fur on a cold winter morning.",
     "Babies have a special brown fat that makes heat without shivering."
    ],
    "perspectives": [],
@@ -202,7 +202,7 @@
    "examples": [
     "Your cheeks go red after a game of kho-kho.",
     "Your fingers go white and stiff after holding an ice lolly for a long time.",
-    "An elephant flaps its huge ears. They are full of blood vessels, and the flapping cools the blood."
+    "An elephant flaps their huge ears. They are full of blood vessels, and the flapping cools the blood."
    ],
    "perspectives": [],
    "art": "Two hands side by side: one pink with wide glowing blood tubes, one pale with thin tubes, and a small snowflake beside it.",
@@ -265,11 +265,11 @@
   {
    "concept": "Why about 37 degrees?",
    "status": "idea",
-   "description": "Nobody knows for sure why mammals like us keep ourselves at about 37 degrees. Being warm costs a lot of food. A lizard, which does not keep itself warm, can eat far less than a mouse of the same size. So why pay so much? Scientists have ideas, but no final answer.",
+   "description": "Nobody knows for sure why mammals like us keep ourselves at about 37 degrees. Being warm costs a lot of food. Lizards do not keep themselves warm, so they can eat far less than a mouse of the same size. So why pay so much? Scientists have ideas, but no final answer.",
    "examples": [
     "Birds are even warmer than us, about 40 to 42 degrees.",
     "A lizard warms up by lying on a hot rock in the sun.",
-    "A lizard is slow on a cold morning until the sun warms it. A mouse can run fast even on a cold night."
+    "A lizard is slow on a cold morning until the sun warms them. A mouse can run fast even on a cold night."
    ],
    "perspectives": [
     {
@@ -327,16 +327,16 @@
   {
    "concept": "Every living thing keeps balance",
    "status": "defined",
-   "definition": "Homeostasis is not only for humans. Every living thing, even one tiny cell, keeps its inside different from its outside, and just right.",
-   "description": "Each of your cells has tiny pumps in its skin. They push one kind of salt out and pull another kind in, all day long. A big share of the energy you use at rest goes into these pumps. Bacteria do it too. Animals have many clever ways to stay just right. Dogs have sweat glands only on their paw pads, so they pant to cool down. Camels let their warmth go up by about 6 degrees during a hot day, to save water from sweating. Storks and some vultures wee on their own legs to cool off. Honeybees keep the middle of their hive at about 35 degrees. They fan with their wings, and spread water drops to cool it. Some sacred lotus flowers even keep themselves warm, at about 30 to 35 degrees, on cool nights.",
+   "definition": "Homeostasis is not only for humans. All living things, even one tiny cell, keep their inside different from their outside, and just right.",
+   "description": "Each of your cells has tiny pumps in their skin. They push one kind of salt out and pull another kind in, all day long. A big share of the energy you use at rest goes into these pumps. Bacteria do it too. Animals have many clever ways to stay just right. Dogs have sweat glands only on their paw pads, so they pant to cool down. Camels let their warmth go up by about 6 degrees during a hot day, to save water from sweating. Storks and some vultures wee on their own legs to cool off. Honeybees keep the middle of their hive at about 35 degrees. They fan with their wings, and spread water drops to cool it. Some sacred lotus flowers even keep themselves warm, at about 30 to 35 degrees, on cool nights.",
    "examples": [
-    "A dog pants with its tongue out on a hot afternoon.",
+    "A dog pants with their tongue out on a hot afternoon.",
     "A camel crosses the desert with little water.",
     "A lotus flower in a pond can be warmer than the air around it."
    ],
    "perspectives": [],
    "art": "A row of balance-keepers: a panting dog, a camel, a stork, a beehive with fanning bees, and a pink lotus with a tiny thermometer.",
-   "context": "This card shows that every living thing, from a cell to a beehive, keeps its own balance."
+   "context": "This card shows that every living thing, from a cell to a beehive, keeps their own balance."
   },
   {
    "concept": "Does the Earth keep its own balance?",
@@ -402,7 +402,7 @@
   },
   {
    "text": "A part of the brain called the hypothalamus controls warmth, thirst and hunger.",
-   "evidence": "In animal experiments, warming or cooling a tiny spot in this part of the brain makes the animal sweat, pant or shiver, even when the rest of its body is normal."
+   "evidence": "In animal experiments, warming or cooling a tiny spot in this part of the brain makes the animal sweat, pant or shiver, even when the rest of their body is normal."
   },
   {
    "text": "Thirst and the kidneys keep the body's water balanced.",
@@ -503,7 +503,7 @@
   {
    "q": "A beehive keeps its middle at about 35 degrees, but no single bee is in charge. How can a hive keep balance with no boss?",
    "kind": "big",
-   "hint": "Each bee fans its wings or fetches water when the place where it stands gets too warm."
+   "hint": "Each bee fans their wings or fetches water when the place where they stand gets too warm."
   },
   {
    "q": "Does the Earth have a thermostat?",
@@ -1080,7 +1080,7 @@
     },
     {
      "t": "mcq",
-     "p": "A camel in the desert lets its body warm up by about 6 degrees during the day, then cools at night. Why might this help it?",
+     "p": "A camel in the desert lets their body warm up by about 6 degrees during the day, then cools at night. Why might this help them?",
      "opts": [
       "It sweats less, so it saves water",
       "Camels like being hot",
@@ -1088,7 +1088,7 @@
       "It helps the camel see"
      ],
      "a": 0,
-     "why": "If the camel kept itself at one exact warmth, it would have to sweat a lot in the hot day. By letting its warmth rise, it saves water. It cools off at night for free."
+     "why": "If the camel kept their body at one exact warmth, they would have to sweat a lot in the hot day. By letting their warmth rise, they save water. It cools off at night for free."
     },
     {
      "t": "mcq",
@@ -1122,7 +1122,7 @@
     },
     {
      "t": "match",
-     "p": "Match each animal or plant to its balance trick.",
+     "p": "Match each animal or plant to their balance trick.",
      "pairs": [
       [
        "Elephant",
@@ -1142,7 +1142,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each living thing has its own ways to keep just right. Many of them use drying water or moving blood, like we do."
+     "why": "Each living thing has their own ways to keep just right. Many of them use drying water or moving blood, like we do."
     },
     {
      "t": "mcq",
@@ -1297,7 +1297,7 @@
       "To make your bones heavier"
      ],
      "a": 0,
-     "why": "Even at rest you give off about as much heat as an old 100 watt bulb. Every cell also pumps salt to keep its inside just right. All of this needs energy from food."
+     "why": "Even at rest you give off about as much heat as an old 100 watt bulb. Every cell also pumps salt to keep their inside just right. All of this needs energy from food."
     },
     {
      "t": "write",
@@ -1327,7 +1327,7 @@
       "lizard on a cold morning"
      ],
      "a": "order shown",
-     "why": "Birds keep themselves at about 40 to 42 degrees. Humans are about 37. A lizard does not make much of its own heat, so on a cold morning it is as cold as the air until it basks."
+     "why": "Birds keep themselves at about 40 to 42 degrees. Humans are about 37. A lizard does not make much of their own heat, so on a cold morning they are as cold as the air until they bask."
     },
     {
      "t": "mcq",
@@ -2231,12 +2231,12 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Explain goosebumps, and compare with a cat fluffing its fur.",
-     "say": "Each hair has a tiny muscle. When you are cold, it pulls the hair upright. A cat or a monkey has thick fur. Its standing fur traps a blanket of warm air. Our hair is too thin for that. So goosebumps are a leftover from our furry relatives.",
+     "do": "Explain goosebumps, and compare with a cat fluffing their fur.",
+     "say": "Each hair has a tiny muscle. When you are cold, it pulls the hair upright. A cat or a monkey has thick fur. Their standing fur traps a blanket of warm air. Our hair is too thin for that. So goosebumps are a leftover from our furry relatives.",
      "kid": "Each hair has a tiny muscle. Cold makes it pull the hair up. Furry animals trap warm air this way. Our hair is too thin. Goosebumps are a leftover!",
      "check": {
       "t": "mcq",
-      "q": "Why does a cat fluff up its fur on a cold morning?",
+      "q": "Why does a cat fluff up their fur on a cold morning?",
       "options": [
        "Standing fur traps a layer of warm air",
        "To look bigger to the cold",
@@ -2465,7 +2465,7 @@
    "creative": [
     "Real astronauts wear a cooling suit under their spacesuit. It has thin tubes with cool water flowing through them, carrying body heat away. Could your suit have tubes made of straws?",
     "Penguins huddle together in winter, and take turns at the cold outside of the group. Could a team of explorers do the same?",
-    "A camel's thick hair on its back keeps the desert sun off. Could your hot-planet suit copy that?"
+    "A camel's thick hair on their back keeps the desert sun off. Could your hot-planet suit copy that?"
    ],
    "your_turn": "Now design your own suit. Build a small version on a doll. Explain each part to someone at home.",
    "setup": [
@@ -2845,7 +2845,7 @@
   "What did your body do by itself today to cool down or warm up?",
   "Why do you think the matka is damp on the outside?",
   "When did you last feel thirsty? What had you been doing?",
-  "Why does the dog lie in the shade with its tongue out?",
+  "Why does the dog lie in the shade with their tongue out?",
   "Which machine in our home keeps something just right?",
   "What would happen if your body never felt thirsty?",
   "Why do your fingers get cold before your tummy does?",
@@ -2867,7 +2867,7 @@
   },
   {
    "j": "What do you call a dog on a hot day?",
-   "a": "A hot dog. It pants instead of sweating."
+   "a": "A hot dog. They pant instead of sweating."
   },
   {
    "j": "Why did the goosebumps go to the party?",
@@ -2898,7 +2898,7 @@
    "a": "You stay warm all day, and it goes cold in ten minutes."
   },
   {
-   "j": "Why did the elephant flap its ears at the teacher?",
+   "j": "Why did the elephant flap their ears at the teacher?",
    "a": "It was a cool way to say hello."
   },
   {
@@ -3280,10 +3280,10 @@
   },
   "three": {
    "who_am_i": "You are a body that keeps itself near 37 degrees, every minute. Most of that work is done by parts of you that work without you noticing.",
-   "what_is_life": "Every living thing keeps its inside just right while the outside changes. A cell, a beehive and a lotus flower all do it.",
+   "what_is_life": "All living things keep their inside just right while the outside changes. A cell, a beehive and a lotus flower all do it.",
    "what_is_this_world": "Your heat and water leave you all the time, into the air of the room. Food and drink from the world bring them back."
   },
-  "thread": "The same loop keeps balance at every size. One cell pumps salt to keep its inside right. Your hypothalamus keeps your whole body near 37 degrees. Honeybees fan their wings to keep their hive near 35 degrees. Each one notices a change and acts to undo it, so one simple pattern shows up in countless living things.",
+  "thread": "The same loop keeps balance at every size. One cell pumps salt to keep their inside right. Your hypothalamus keeps your whole body near 37 degrees. Honeybees fan their wings to keep their hive near 35 degrees. Each one notices a change and acts to undo it, so one simple pattern shows up in countless living things.",
   "teachings": [
    {
     "source": "Bhagavad Gita 2.14",
@@ -3303,7 +3303,7 @@
   ],
   "science": [
    {
-    "text": "Warming or cooling a tiny spot in the hypothalamus makes an animal pant or shiver, even when the rest of its body is at its normal warmth. That spot works as the body's thermostat.",
+    "text": "Warming or cooling a tiny spot in the hypothalamus makes an animal pant or shiver, even when the rest of their body is at its normal warmth. That spot works as the body's thermostat.",
     "status": "settled"
    },
    {

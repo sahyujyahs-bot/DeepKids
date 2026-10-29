@@ -140,14 +140,14 @@
   {
    "term": "Cell",
    "meaning": "The tiny living unit that every living thing is made of. Your body has about 30 trillion cells.",
-   "example": "Skin cells, muscle cells, blood cells and brain cells are all cells, each with its own job.",
+   "example": "Skin cells, muscle cells, blood cells and brain cells are all cells, each with their own job.",
    "art": "A crowd of different cells: a round red blood cell, a long muscle cell, a branching nerve cell, a flat skin cell."
   },
   {
    "term": "Mitochondria",
    "meaning": "Tiny parts inside your cells that burn food with oxygen to release energy.",
    "example": "Your muscle cells are full of mitochondria. That is why they can work so hard.",
-   "art": "A cell cut open, with bean-shaped mitochondria glowing inside it."
+   "art": "A cell cut open, with bean-shaped mitochondria glowing inside them."
   },
   {
    "term": "Gut microbes",
@@ -228,7 +228,7 @@
   {
    "concept": "Your food travels to 30 trillion cells",
    "status": "defined",
-   "definition": "After digestion, the blood carries the tiny food pieces to every cell in the body. Each cell takes what it needs.",
+   "definition": "After digestion, the blood carries the tiny food pieces to every cell in the body. Each cell takes what they need.",
    "description": "Your body is made of about 30 trillion cells. That is 30 followed by twelve zeros. Each one is alive and needs food. Your heart pumps blood past almost every cell, all the time. The blood carries glucose, amino acids, fats, vitamins, minerals and water. A muscle cell takes amino acids to build more muscle. A bone cell takes calcium. A cell in the bone marrow takes iron and folate to make new red blood cells. A brain cell takes glucose. Your body is always rebuilding itself like this. The lining of your gut is replaced every few days. So part of you next month will be built from this month's food.",
    "examples": [
     "Your red blood cells each live about four months. New ones are made all the time from the iron, protein and vitamins in your food.",
@@ -250,7 +250,7 @@
     "Breathe out onto a cold mirror. The mist is partly water made from your food."
    ],
    "perspectives": [],
-   "art": "A cell cut open, its bean-shaped mitochondria glowing, a glucose bead and two oxygen bubbles going in, a little carbon dioxide puff and a water drop coming out.",
+   "art": "A cell cut open, their bean-shaped mitochondria glowing, a glucose bead and two oxygen bubbles going in, a little carbon dioxide puff and a water drop coming out.",
    "context": "This card goes inside a single cell, to see how food becomes energy."
   },
   {
@@ -603,7 +603,7 @@
       "Bone cell: needs 1 calcium",
       "Blood-making cell: needs 1 iron and 1 vitamin C",
       "Eye cell: needs 1 vitamin A and 1 fat",
-      "Gut-lining cell: needs 2 fibre (the microbes turn fibre into its food)",
+      "Gut-lining cell: needs 2 fibre (the microbes turn fibre into their food)",
       "Water drop: needs 1 water. Without it, the game ends with no cells fed."
      ]
     }
@@ -611,8 +611,8 @@
    "rules": [
     "Each player has a My Body sheet. Shuffle the 24 food cards. Lay 5 face up in a row. This row is the market. Put the rest in a pile, face down.",
     "On your turn, take one card from the market. Tick the boxes it fills on your sheet. Then fill the market back up to 5 from the pile.",
-    "Extra ticks are not kept. If your Brain cell already has its 2 energy, more energy does not count.",
-    "A cell is fed when all its boxes are ticked. Colour it in.",
+    "Extra ticks are not kept. If your Brain cell already has their 2 energy, more energy does not count.",
+    "A cell is fed when all their boxes are ticked. Colour them in.",
     "Each player gets 8 turns, like the meals and snacks of one day.",
     "Your body also needs water. Tick the Water drop by taking the buttermilk card, or by using one turn to say 'I drink water' instead of taking a card. If your Water drop is empty at the end, none of your cells count.",
     "With friends or a parent: after 8 turns each, the player with the most fed cells wins. A tie goes to whoever fed the Gut-lining cell.",
@@ -630,12 +630,12 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play one practice turn together. Point at the Muscle cell on the sheet and ask which market card would help it.",
-     "say": "The Muscle cell needs 2 protein. Which card in the market would feed it best?",
-     "kid": "Look at the Muscle cell. It needs 2 protein. Which card gives protein?",
+     "do": "Play one practice turn together. Point at the Muscle cell on the sheet and ask which market card would help them.",
+     "say": "The Muscle cell needs 2 protein. Which card in the market would feed them best?",
+     "kid": "Look at the Muscle cell. They need 2 protein. Which card gives protein?",
      "check": {
       "t": "mcq",
-      "q": "The Muscle cell needs 2 protein. Which card feeds it in one go?",
+      "q": "The Muscle cell needs 2 protein. Which card feeds them in one go?",
       "options": [
        "Rice",
        "Moong dal",
@@ -643,7 +643,7 @@
        "Amla"
       ],
       "a": 1,
-      "why": "Moong dal gives 2 protein, so it feeds the Muscle cell in one turn. Muscles are built from the amino acids in protein. Rice gives energy, not much protein. Ghee gives fat. Amla gives vitamin C. Picking rice usually means thinking 'filling' food builds muscles. Being full is not the same as getting protein."
+      "why": "Moong dal gives 2 protein, so the dal feeds the Muscle cell in one turn. Muscles are built from the amino acids in protein. Rice gives energy, not much protein. Ghee gives fat. Amla gives vitamin C. Picking rice usually means thinking 'filling' food builds muscles. Being full is not the same as getting protein."
      }
     },
     {
@@ -652,7 +652,7 @@
      "do": "1. Take turns. 2. On each turn, take one market card, read it out and tick the boxes it fills. Or use the turn to drink water. 3. Refill the market. 4. Each player has 8 turns.",
      "say": "Before you pick, look at which cells are still hungry. A card that gives three different things can be better than one that gives a lot of one thing.",
      "kid": "Take turns. Pick one market card. Tick the boxes it fills. Which cells are still hungry?",
-     "parent": "Good players notice that one-thing cards, like rice, jalebi or ghee, fill only one cell. Mixed cards, like ragi mudde, dal, egg or til laddoo, fill several. The Eye cell is tricky: it needs vitamin A and fat. Egg does both at once. Carrot and a spoon of ghee also work, just as carrots cooked in oil give more vitamin A. Don't call jalebi or chips a bad card. They are fine cards that give energy, just not much else.",
+     "parent": "Good players notice that one-thing cards, like rice, jalebi or ghee, fill only one cell. Mixed cards, like ragi mudde, dal, egg or til laddoo, fill several. The Eye cell is tricky: they need vitamin A and fat. Egg does both at once. Carrot and a spoon of ghee also work, just as carrots cooked in oil give more vitamin A. Don't call jalebi or chips a bad card. They are fine cards that give energy, just not much else.",
      "ask": [
       {
        "q": "Why is the Gut-lining cell fed by fibre, when we cannot digest fibre?",
@@ -1015,7 +1015,7 @@
       "muscle cell"
      ],
      "a": "order shown",
-     "why": "The dal is chewed in the mouth. Acid and enzymes break it in the stomach. In the small intestine it is cut into amino acids. These pass into the blood. A muscle cell rebuilds them into its own protein."
+     "why": "The dal is chewed in the mouth. Acid and enzymes break it in the stomach. In the small intestine it is cut into amino acids. These pass into the blood. A muscle cell rebuilds them into their own protein."
     },
     {
      "t": "fill",
@@ -1232,7 +1232,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In Cell Delivery, the Eye cell needs vitamin A and fat. Which pair feeds it, just like in a real kitchen?",
+     "p": "In Cell Delivery, the Eye cell needs vitamin A and fat. Which pair feeds them, just like in a real kitchen?",
      "opts": [
       "Carrot sticks and a spoon of ghee",
       "Amla and rice",
@@ -1850,8 +1850,8 @@
      "mins": 4,
      "do": "1. Show your child the yeast. 2. Explain that each grain is a clump of tiny living fungi, resting until they get water, warmth and food. 3. Ask them to guess which food the yeast will like best.",
      "say": "Yeast is a living thing, a tiny fungus. Each grain holds thousands of them, resting. When they eat, they make a gas. Your gut microbes do the same thing with the fibre you cannot digest. Which food will these ones like best?",
-     "kid": "Yeast is alive. It is a tiny fungus, resting. When it eats, it makes gas. Which food will it like best?",
-     "context": "This is the first step of Balloon Bellies. You feed yeast, a tiny living fungus, three different foods and watch balloons fill with the gas it makes. It is a model of how gut microbes eat."
+     "kid": "Yeast is alive. They are a tiny fungus, resting. When they eat, they make gas. Which food will it like best?",
+     "context": "This is the first step of Balloon Bellies. You feed yeast, a tiny living fungus, three different foods and watch balloons fill with the gas they make. It is a model of how gut microbes eat."
     },
     {
      "id": "s2",
@@ -1860,7 +1860,7 @@
      "say": "Same yeast, same warm water, same bottles. Only the food is different. That is what makes it a fair test.",
      "kid": "Put yeast in all three bottles. Add sugar to one and atta to one. Add warm water. Put on the balloons.",
      "adult": true,
-     "parent": "Test the water on the inside of your wrist. It should feel warm but not hot. Hot water kills yeast, and cold water keeps it resting. Stretch each balloon a few times first so it fills more easily."
+     "parent": "Test the water on the inside of your wrist. It should feel warm but not hot. Hot water kills yeast, and cold water keeps them resting. Stretch each balloon a few times first so it fills more easily."
     },
     {
      "id": "s3",
@@ -1869,7 +1869,7 @@
      "say": "Let's measure each balloon with the string. Which one is growing fastest?",
      "kid": "Every 15 minutes, measure each balloon with a string. Write down the numbers.",
      "wait": "Check every 15 minutes, three times.",
-     "parent": "The sugar balloon usually starts to stand up within 15 to 20 minutes, and fills more by 45. The atta balloon grows slowly, because enzymes in the flour must first cut its starch into sugar for the yeast. The water balloon stays almost flat. If the balloons are still small at 45 minutes, keep going to 60 minutes. Sometimes nothing happens at all after 20 minutes. Then the water was too hot or too cold, or the yeast was old. Test the yeast: a spoon of it in warm sugar water should froth within 10 minutes. In cold months, stand the bottles in a bowl of warm water.",
+     "parent": "The sugar balloon usually starts to stand up within 15 to 20 minutes, and fills more by 45. The atta balloon grows slowly, because enzymes in the flour must first cut its starch into sugar for the yeast. The water balloon stays almost flat. If the balloons are still small at 45 minutes, keep going to 60 minutes. Sometimes nothing happens at all after 20 minutes. Then the water was too hot or too cold, or the yeast was old. Test the yeast: a spoonful in warm sugar water should froth within 10 minutes. In cold months, stand the bottles in a bowl of warm water.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: how round each balloon was after 45 minutes",
@@ -1898,7 +1898,7 @@
       "t": "mcq",
       "q": "The sugar balloon grew big. The water balloon stayed flat. What does that show?",
       "options": [
-       "Yeast makes gas only when it has food to eat",
+       "Yeast makes gas only when they have food to eat",
        "Balloons grow by themselves in warm places",
        "Sugar makes gas without the yeast"
       ],
@@ -1912,10 +1912,10 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why. Then talk about how the yeast is like, and unlike, gut microbes.",
      "say": "What do you think now? What did you see? Why? Now, your gut microbes are not yeast. They are mostly bacteria. But they also eat and make gas. What do they eat?",
      "kid": "Now say three things. What I think. What I saw. Why. What do your gut microbes eat?",
-     "parent": "A good answer sounds like this. What I think: yeast makes gas when it eats, and it likes sugar best. What I saw: the sugar balloon was 28 centimetres round after 45 minutes, atta 13 and water about 1. Why: the yeast ate the food and gave off carbon dioxide gas. Our gut microbes eat fibre from dal, poriyal and fruit. They also make gas, and acids that feed our gut cells. A model is never exactly the real thing. Yeast is a fungus, and most gut microbes are bacteria."
+     "parent": "A good answer sounds like this. What I think: yeast makes gas when they eat, and they like sugar best. What I saw: the sugar balloon was 28 centimetres round after 45 minutes, atta 13 and water about 1. Why: the yeast ate the food and gave off carbon dioxide gas. Our gut microbes eat fibre from dal, poriyal and fruit. They also make gas, and acids that feed our gut cells. A model is never exactly the real thing. Yeast is a fungus, and most gut microbes are bacteria."
     }
    ],
-   "context": "In this experiment you feed yeast, a tiny living fungus, three different foods. Balloons on the bottles fill with the gas the yeast makes as it eats. It is a model of the trillions of microbes in your gut, which eat the fibre you cannot digest.",
+   "context": "In this experiment you feed yeast, a tiny living fungus, three different foods. Balloons on the bottles fill with the gas the yeast makes as they eat. It is a model of the trillions of microbes in your gut, which eat the fibre you cannot digest.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example: how round each balloon was after 45 minutes",
@@ -3166,7 +3166,7 @@
   },
   {
    "j": "Why was the cell so famous?",
-   "a": "It was a real cell-ebrity."
+   "a": "They were a real cell-ebrity."
   },
   {
    "j": "Why did the ragi mudde roll out of the kitchen?",
@@ -3295,7 +3295,7 @@
   {
    "problem": "In Balloon Bellies, the sugar balloon was 8 cm round at 15 minutes, 17 cm at 30 minutes and 28 cm at 45 minutes. How much did it grow in each 15 minutes? Was it growing faster at the start or at the end?",
    "answer": "It grew 8 cm, then 9 cm, then 11 cm. It grew fastest at the end.",
-   "explain": "From 0 to 8 is 8 cm. From 8 to 17 is 17 − 8 = 9 cm. From 17 to 28 is 28 − 17 = 11 cm. The growth got bigger each time, so it was fastest at the end. Dry yeast takes a while to wake up in warm water. As more of it starts eating, the gas comes faster.",
+   "explain": "From 0 to 8 is 8 cm. From 8 to 17 is 17 − 8 = 9 cm. From 17 to 28 is 28 − 17 = 11 cm. The growth got bigger each time, so it was fastest at the end. Dry yeast takes a while to wake up in warm water. As more of the yeast starts eating, the gas comes faster.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "how": "e3",
    "context": "In Balloon Bellies, you measured how round each balloon was every 15 minutes with a string and a ruler.",

@@ -38,7 +38,7 @@
    "term": "Feature",
    "meaning": "Something about a living thing that you can see, feel, smell or measure.",
    "example": "A crow's feathers, a tulsi plant's smell and your height are all features.",
-   "art": "A crow with arrows pointing to its beak, its feathers and its two feet."
+   "art": "A crow with arrows pointing to their beak, their feathers and their two feet."
   },
   {
    "term": "Rule",
@@ -67,7 +67,7 @@
   {
    "term": "Inherit",
    "meaning": "To get a feature from your parents, through the instructions in your body's cells.",
-   "example": "A kitten inherits its whiskers and claws from its parents.",
+   "example": "A kitten inherits their whiskers and claws from their parents.",
    "art": "A mother cat and three kittens, all with the same striped tail."
   },
   {
@@ -114,14 +114,14 @@
   },
   {
    "term": "Fungus",
-   "meaning": "A living thing that is neither a plant nor an animal. It feeds on dead or living things around it. Mushrooms, moulds and yeast are fungi.",
+   "meaning": "A living thing that is neither a plant nor an animal. They feed on dead or living things around them. Mushrooms, moulds and yeast are fungi.",
    "example": "The green mould on old bread is a fungus.",
    "art": "A mushroom, a slice of bread with mould and a spoon of yeast, side by side."
   },
   {
    "term": "Spore",
    "meaning": "A tiny living cell that a fungus, a fern or a moss makes to start a new one. Spores are much smaller than seeds.",
-   "example": "A mushroom drops millions of spores from the thin flaps under its cap.",
+   "example": "A mushroom drops millions of spores from the thin flaps under their cap.",
    "art": "A mushroom cap with tiny dots falling from the flaps underneath."
   },
   {
@@ -148,12 +148,12 @@
    "concept": "Sorting living things",
    "status": "defined",
    "context": "This card says what sorting is, and why people sort living things at all.",
-   "definition": "Sorting means putting living things into groups by a rule. The rule is a question about a feature, such as 'Does it have feathers?'",
+   "definition": "Sorting means putting living things into groups by a rule. The rule is a question about a feature, such as 'Does this one have feathers?'",
    "description": "There are about two million kinds of living things with names, and many more without names. Nobody can remember them one by one. Sorting helps us find them, talk about them and compare them. A good rule is one that anyone can check, so two people get the same answer. 'Does it have six legs?' is a good rule. 'Is it pretty?' is not, because people disagree.",
    "examples": [
     "A vegetable seller keeps leafy greens in one basket and roots in another, so they are easy to find.",
     "A doctor sorts snakes into those with dangerous bites and those without, because that decides the treatment.",
-    "A bird book sorts birds by family, so you can find a new bird by its shape."
+    "A bird book sorts birds by family, so you can find a new bird by their shape."
    ],
    "perspectives": [],
    "art": "A vegetable stall in a Chennai market, with baskets of greens, roots, gourds and chillies, and a seller pointing to each."
@@ -191,7 +191,7 @@
    "status": "defined",
    "context": "This card shows how scientists put small groups inside bigger ones, like boxes inside boxes.",
    "definition": "Scientists put living things into groups inside bigger groups. A small group shares many features. A big group shares only a few.",
-   "description": "You are a living thing. Inside that big group, you are an animal. Inside the animals, you are an animal with a backbone. Inside those, you are a mammal, with hair and milk for babies. Inside the mammals, you are a primate, with gripping hands and nails. Inside the primates, you are an ape, with no tail. Each group sits inside the one before, like steel tiffin boxes stacked inside each other. A cat shares your first four boxes, but not the primate box. A macaque shares five, but it has a tail, so it is not an ape.",
+   "description": "You are a living thing. Inside that big group, you are an animal. Inside the animals, you are an animal with a backbone. Inside those, you are a mammal, with hair and milk for babies. Inside the mammals, you are a primate, with gripping hands and nails. Inside the primates, you are an ape, with no tail. Each group sits inside the one before, like steel tiffin boxes stacked inside each other. A cat shares your first four boxes, but not the primate box. A macaque shares five, but has a tail, so is not an ape.",
    "examples": [
     "A crow is a living thing, an animal and a backbone animal, but not a mammal.",
     "A tiger and a house cat share every box up to the cat family.",
@@ -205,7 +205,7 @@
    "status": "defined",
    "context": "This card explains why some living things share features: they are relatives.",
    "definition": "Living things inherit features from their parents. So relatives, who share ancestors, share many features.",
-   "description": "A kitten has whiskers because its parents had whiskers. Its parents got them from their parents, and so on, far back. Tigers, leopards and house cats all came from the same long-ago cat ancestors. So they all have whiskers, claws they can pull in, and rough tongues. Plants work the same way. Tomato, brinjal and chilli plants came from the same ancestor plants. So their fruits share a green cap and small flat seeds. When scientists sort by shared features like these, they find relatives. This sort has a true answer, because it comes from what really happened long ago.",
+   "description": "A kitten has whiskers because their parents had whiskers. Their parents got them from their parents, and so on, far back. Tigers, leopards and house cats all came from the same long-ago cat ancestors. So they all have whiskers, claws they can pull in, and rough tongues. Plants work the same way. Tomato, brinjal and chilli plants came from the same ancestor plants. So their fruits share a green cap and small flat seeds. When scientists sort by shared features like these, they find relatives. This sort has a true answer, because it comes from what really happened long ago.",
    "examples": [
     "A tiger and a house cat both pull in their claws when they walk.",
     "Tulsi, mint and karpooravalli all have square stems and strong smells. They are in the mint family.",
@@ -235,8 +235,8 @@
    "definition": "Living things that are not close relatives can look alike, because they have solved the same problem in the same way.",
    "description": "A crow, a bat and a butterfly all have wings. Each of them had the same problem: how to reach food, and escape danger, through the air. Wings help each of them do that. But their wings are built differently. A crow's wing is an arm covered in feathers. A bat's wing is skin stretched between long fingers. A butterfly's wing is a thin sheet with no bones at all. These wings grew separately in three different families. So 'has wings' is a useful sort for some jobs, but it does not find relatives. To find relatives, scientists look at many features, especially ones that have no clear job, and now at DNA.",
    "examples": [
-    "A bat feeds its babies milk and has fur, so it is a mammal, like a cat.",
-    "A dolphin has fins and lives in the sea like a fish, but it breathes air and feeds its babies milk. It is a mammal.",
+    "Bats feed their babies milk and have fur, so they are mammals, like cats.",
+    "Dolphins have fins and live in the sea like fish, but they breathe air and feed their babies milk. They are mammals.",
     "A green chilli and a cucumber are both green, but they are in different families."
    ],
    "perspectives": [],
@@ -247,21 +247,21 @@
    "status": "defined",
    "context": "This card is about mushrooms and moulds, which people once sorted with plants.",
    "definition": "Fungi, such as mushrooms, moulds and yeast, are a kingdom of their own. They are neither plants nor animals.",
-   "description": "For a long time, people sorted mushrooms with plants, because they grow in soil and do not walk. But a mushroom has no green leaves and cannot make food from sunlight. It feeds by soaking up food from the dead wood, leaves or soil around it. It makes spores, not seeds. Most of a fungus is a web of thin threads, hidden in the soil or wood. The mushroom is only the part that makes spores. When scientists compared their DNA, they found that fungi are closer relatives of animals than of plants.",
+   "description": "For a long time, people sorted mushrooms with plants, because they grow in soil and do not walk. But a mushroom has no green leaves and cannot make food from sunlight. They feed by soaking up food from the dead wood, leaves or soil around them. They make spores, not seeds. Most of a fungus is a web of thin threads, hidden in the soil or wood. The mushroom is only the part that makes spores. When scientists compared their DNA, they found that fungi are closer relatives of animals than of plants.",
    "examples": [
     "The mushrooms sold in Indian markets, such as button mushrooms and oyster mushrooms, are fungi.",
     "Yeast, which makes dosa batter and bread dough rise, is a fungus made of one cell.",
     "The white fluff on an old orange is a mould, which is a fungus."
    ],
    "perspectives": [],
-   "art": "A mushroom cut away to show the web of white threads underneath it in the soil, spreading far beyond the cap."
+   "art": "A mushroom cut away to show the web of white threads underneath in the soil, spreading far beyond the cap."
   },
   {
    "concept": "The biggest groups have changed",
    "status": "debated",
    "context": "This card is about the very biggest groups of living things, which scientists still argue about.",
    "definition": "Scientists have changed the biggest groups of living things many times, as they found new clues. They still argue about them today.",
-   "description": "In 1735, Carl Linnaeus, a Swedish scientist, sorted living things into two kingdoms: plants and animals. Microscopes then showed tiny one-celled living things that fit neither. In 1969, Robert Whittaker, an American ecologist, proposed five kingdoms: animals, plants, fungi, one-celled living things with a nucleus, and bacteria. Then in 1977 Carl Woese found that some 'bacteria' were very different inside. They are now called archaea. In 1990 he proposed three domains, groups even bigger than kingdoms: bacteria, archaea, and everything with a nucleus in its cells, including us. Newer studies have started another argument.",
+   "description": "In 1735, Carl Linnaeus, a Swedish scientist, sorted living things into two kingdoms: plants and animals. Microscopes then showed tiny one-celled living things that fit neither. In 1969, Robert Whittaker, an American ecologist, proposed five kingdoms: animals, plants, fungi, one-celled living things with a nucleus, and bacteria. Then in 1977 Carl Woese found that some 'bacteria' were very different inside. They are now called archaea. In 1990 he proposed three domains, groups even bigger than kingdoms: bacteria, archaea, and everything with a nucleus in their cells, including us. Newer studies have started another argument.",
    "examples": [
     "Many textbooks still teach five kingdoms. Many scientists use three domains.",
     "Archaea live in the mud of rice fields and in a cow's stomach, where they make the gas methane.",
@@ -310,15 +310,15 @@
    "concept": "Every living thing senses and decides",
    "status": "defined",
    "context": "This card is about one feature that every group of living things shares, whichever way you sort them.",
-   "definition": "Every living thing senses the world around it and responds, from a person to a neem tree to a curd bacterium.",
-   "description": "Whatever rule you use, one feature is in every group. A crow notices a cat and flies off. A tulsi plant senses light and turns its leaves towards it. A mushroom's threads sense food in the soil and grow towards it. A bacterium senses sugar and swims towards it. Each of them senses, remembers and decides in its own way, with its own body. Some scientists call the responses of plants and bacteria automatic. Either way, sensing and responding is something all living things share.",
+   "definition": "All living things sense the world around them and respond, from a person to a neem tree to a curd bacterium.",
+   "description": "Whatever rule you use, one feature is in every group. A crow notices a cat and flies off. A tulsi plant senses light and turns their leaves towards it. A mushroom's threads sense food in the soil and grow towards it. A bacterium senses sugar and swims towards it. Each of them senses, remembers and decides in their own way, with their own body. Some scientists call the responses of plants and bacteria automatic. Either way, sensing and responding is something all living things share.",
    "examples": [
-    "A touch-me-not plant folds its leaves when touched.",
+    "A touch-me-not plant folds their leaves when touched.",
     "Ants change their path when you put your finger on their trail.",
     "A money plant on a windowsill grows towards the light."
    ],
    "perspectives": [],
-   "art": "A ring of living things around a child: a crow, a tulsi plant leaning to the light, a mushroom, a touch-me-not folding, and a tiny bacterium, each with small wavy lines showing it is sensing."
+   "art": "A ring of living things around a child: a crow, a tulsi plant leaning to the light, a mushroom, a touch-me-not folding, and a tiny bacterium, each with small wavy lines showing they are sensing."
   }
  ],
  "agreed": [
@@ -406,7 +406,7 @@
   {
    "q": "If every living thing is a relative of every other, how far back would you need to go to find the ancestor you share with a neem tree?",
    "kind": "big",
-   "hint": "Scientists think it lived well over a billion years ago, and was made of one cell."
+   "hint": "Scientists think they lived well over a billion years ago, and were made of one cell."
   },
   {
    "q": "Is there a sort that nobody chose?",
@@ -574,7 +574,7 @@
        "The gourd family"
       ],
       "a": 1,
-      "why": "A potato is a stem that grows under the ground, so it has no green cap. But the potato plant has flowers and small green fruits that look like tiny tomatoes. That is one clue that it is in the tomato family. Picking 'grass family' may come from the potato growing in a field, like rice and wheat."
+      "why": "A potato is a stem that grows under the ground, so it has no green cap. But the potato plant has flowers and small green fruits that look like tiny tomatoes. That is one clue that the potato plant is in the tomato family. Picking 'grass family' may come from the potato growing in a field, like rice and wheat."
      }
     },
     {
@@ -847,7 +847,7 @@
      "id": "s5",
      "mins": 6,
      "do": "1. Look at the seeds with the magnifying glass or the phone camera. 2. Fill in the seed column and draw one seed of each.",
-     "say": "Look closely. What shape is each seed? How big is it? Which seeds look like each other?",
+     "say": "Look closely. What shape is each seed? How big are they? Which seeds look like each other?",
      "kid": "Look at the seeds closely. What shape are they? How big? Which ones look the same? Draw one of each.",
      "check": {
       "t": "mcq",
@@ -1209,7 +1209,7 @@
      "mins": 3,
      "do": "Put a moong seed next to the print and compare.",
      "say": "Let's put a moong seed next to the print. Can you see one single spore?",
-     "kid": "Put a moong seed next to the print. Can you see one spore by itself?",
+     "kid": "Put a moong seed next to the print. Can you see a single spore?",
      "ask": [
       {
        "q": "How is a spore different from a seed?",
@@ -1255,7 +1255,7 @@
    },
    "setup": [
     {
-     "art": "A mushroom turned over, showing the thin gills under its cap, with a magnifying glass above it.",
+     "art": "A mushroom turned over, showing the thin gills under their cap, with a magnifying glass above it.",
      "caption": "1. Look at the gills under the cap."
     },
     {
@@ -1338,7 +1338,7 @@
        "Primate"
       ],
       "a": 1,
-      "why": "A crow is a living thing, an animal and a backbone animal. It has feathers, not hair, so it stops there. It is a bird. Picking 'mammal' is a common mix-up, because crows are warm like us. Birds are warm too, but they are not mammals."
+      "why": "A crow is a living thing, an animal and a backbone animal. With feathers, not hair, the crow stops there. Crows are birds. Picking 'mammal' is a common mix-up, because crows are warm like us. Birds are warm too, but they are not mammals."
      }
     }
    ],
@@ -1477,17 +1477,17 @@
      "do": "Now ask for a reason for each of the other three.",
      "say": "Good reason. Now can you find a reason for each of the others to be the odd one out?",
      "kid": "Now find a reason for each of the others. Why is each one odd?",
-     "parent": "Good reasons: the cat is the only one that cannot fly. The crow is the only one with feathers. The butterfly is the only one with no backbone and six legs. The bat is the only one that flies and feeds its babies milk.",
+     "parent": "Good reasons: the cat is the only one that cannot fly. The crow is the only one with feathers. The butterfly is the only one with no backbone and six legs. The bat is the only one that flies and feeds their babies milk.",
      "check": {
       "t": "mcq",
       "q": "Why is the butterfly the odd one out?",
       "options": [
-       "It is the only one that flies",
-       "It is the only one with no backbone",
-       "It is the only one that eats"
+       "The only one that flies",
+       "The only one with no backbone",
+       "The only one that eats"
       ],
       "a": 1,
-      "why": "A butterfly has no backbone. Its body has a hard outer skin instead. The cat, the crow and the bat all have backbones. Picking 'flies' misses that the crow and the bat fly too."
+      "why": "A butterfly has no backbone. Their body has a hard outer skin instead. The cat, the crow and the bat all have backbones. Picking 'flies' misses that the crow and the bat fly too."
      }
     }
    ],
@@ -1595,7 +1595,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw a tree with four branches: grass family, bean family, tomato family and gourd family. Put each kitchen plant on its branch."
+     "what": "Draw a tree with four branches: grass family, bean family, tomato family and gourd family. Put each kitchen plant on the right branch."
     }
    ],
    "record": "Keep the tree on the wall. Add new plants as you find their families.",
@@ -1611,7 +1611,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Help your child draw each kitchen plant on its branch.",
+     "do": "Help your child draw each kitchen plant on the right branch.",
      "say": "Rice, wheat and ragi go on the grass branch. Moong, chana and peanut go on the bean branch. Where do tomato and chilli go? And cucumber?",
      "kid": "Draw each food on its family's branch. Rice on the grass branch. Moong on the bean branch. Where does the tomato go?",
      "parent": "Grass family: rice, wheat, ragi, maize, sugarcane. Bean family: moong, chana, rajma, peanut, toor dal, methi. Tomato family: tomato, brinjal, chilli, capsicum, potato. Gourd family: cucumber, pumpkin, bottle gourd, bitter gourd, watermelon. Mint and tulsi need a fifth branch."
@@ -1632,7 +1632,7 @@
     },
     {
      "art": "The finished tree with small drawings of rice, moong, tomato, chilli, cucumber and pumpkin on their branches.",
-     "caption": "2. Put each kitchen plant on its family's branch."
+     "caption": "2. Put each kitchen plant on their family's branch."
     }
    ]
   },
@@ -1732,9 +1732,9 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Make the book. 2. Walk around the home together. 3. For each living thing, draw it on its own page and write its name.",
+     "do": "1. Make the book. 2. Walk around the home together. 3. For each living thing, draw them on their own page and write their name.",
      "say": "Let's find every living thing in our home. People count. Plants count. Even the curd counts, because it is full of living bacteria.",
-     "kid": "Find every living thing at home. Draw each one on its own page. Write its name.",
+     "kid": "Find every living thing at home. Draw each one on their own page. Write its name.",
      "context": "This is the first day of the living things book. You find and draw everything alive in your home."
     },
     {
@@ -1757,7 +1757,7 @@
        "q": "Which living thing was the hardest to sort? Why?",
        "good": [
         "The curd, because the bacteria are too small to see.",
-        "The mushroom, because it is not a plant or an animal."
+        "The mushroom, because they are not a plant or an animal."
        ]
       }
      ]
@@ -1879,9 +1879,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Read the problem. 2. Write each plant's family next to it.",
+     "do": "1. Read the problem. 2. Write each plant's family next to them.",
      "say": "First, let's write each plant's family. Which ones are in the tomato family?",
-     "kid": "Write each plant's family next to it. Which ones are in the tomato family?",
+     "kid": "Write each plant's family next to them. Which ones are in the tomato family?",
      "context": "This is the first step of the terrace garden challenge. You find each plant's family before you plan."
     },
     {
@@ -2145,10 +2145,10 @@
      "t": "mcq",
      "p": "Which of these is a good sorting question that anyone can check?",
      "opts": [
-      "Is it cute?",
-      "Does it have six legs?",
-      "Is it my favourite?",
-      "Is it a good animal?"
+      "Is this one cute?",
+      "Does this one have six legs?",
+      "Is this one my favourite?",
+      "Is this a good animal?"
      ],
      "a": 1,
      "why": "Anyone can count legs and get the same answer. Cute, favourite and good change from person to person."
@@ -2257,7 +2257,7 @@
     },
     {
      "t": "mcq",
-     "p": "A crow has a backbone and feathers. Which group is it NOT in?",
+     "p": "A crow has a backbone and feathers. Which group are they NOT in?",
      "opts": [
       "Living thing",
       "Animal",
@@ -2265,7 +2265,7 @@
       "Mammal"
      ],
      "a": 3,
-     "why": "A crow is a bird. It has feathers, not hair, so it is not a mammal."
+     "why": "A crow is a bird. Crows have feathers, not hair, so they are not mammals."
     },
     {
      "t": "match",
@@ -2295,7 +2295,7 @@
      "t": "truefalse",
      "p": "A mushroom is a kind of plant.",
      "a": false,
-     "why": "False. A mushroom is a fungus. It has no green leaves, cannot make food from sunlight, and makes spores, not seeds."
+     "why": "False. A mushroom is a fungus. They have no green leaves, cannot make food from sunlight, and make spores, not seeds."
     },
     {
      "t": "mcq",
@@ -2313,7 +2313,7 @@
      "t": "draw",
      "p": "Draw two overlapping circles. Label one 'can fly' and one 'has hair'. Put a crow, a cat and a bat in the right places.",
      "a": "Crow in 'can fly' only, cat in 'has hair' only, bat in the middle.",
-     "why": "The bat can fly and has hair, so it goes where the circles overlap. This drawing is called a Venn diagram."
+     "why": "The bat can fly and has hair, so they go where the circles overlap. This drawing is called a Venn diagram."
     },
     {
      "t": "fill",
@@ -2364,12 +2364,12 @@
     },
     {
      "t": "mcq",
-     "p": "A dolphin lives in the sea and has fins. Why is it a mammal, not a fish?",
+     "p": "A dolphin lives in the sea and has fins. Why is a dolphin a mammal, not a fish?",
      "opts": [
-      "It is big",
-      "It breathes air and feeds its babies milk",
-      "It is clever",
-      "It swims fast"
+      "They are big",
+      "They breathe air and feed their babies milk",
+      "They are clever",
+      "They swim fast"
      ],
      "a": 1,
      "why": "Mammals breathe air with lungs and feed their babies milk. Dolphins do both. Fish breathe with gills."
@@ -2384,7 +2384,7 @@
       "Cucumber"
      ],
      "a": 1,
-     "why": "Sugarcane is a giant grass. Its leaves are long and narrow, with veins running side by side, like rice and wheat leaves."
+     "why": "Sugarcane is a giant grass. Their leaves are long and narrow, with veins running side by side, like rice and wheat leaves."
     },
     {
      "t": "mcq",
@@ -2428,7 +2428,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort these animals: does it have a backbone?",
+     "p": "Sort these animals: does each one have a backbone?",
      "cats": [
       "Backbone",
       "No backbone"
@@ -2630,9 +2630,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Every living thing senses the world around it and responds.",
+     "p": "All living things sense the world around them and respond.",
      "a": true,
-     "why": "True. A crow notices a cat, a plant senses light, and a bacterium senses sugar. Each responds in its own way."
+     "why": "True. A crow notices a cat, a plant senses light, and a bacterium senses sugar. Each responds in their own way."
     },
     {
      "t": "write",
@@ -2654,7 +2654,7 @@
   "Farmers change crop families from season to season, so soil diseases and pests that attack one family die out.",
   "Doctors sort snakes by their bites, so the right medicine, called antivenom, is given after a snakebite.",
   "Seed banks and botanical gardens sort seeds and plants by family, so scientists can find relatives of crops that resist disease.",
-  "Plant breeders cross a crop with its wild relatives to give it new features, such as resistance to drought.",
+  "Plant breeders cross a crop with their wild relatives to give them new features, such as resistance to drought.",
   "Doctors sort bacteria into kinds, to choose the medicine that works against each one.",
   "Museums sort their collections of animals and plants so that any specimen can be found again.",
   "Libraries, shops and kitchens use the same idea: groups inside groups make things quick to find.",
@@ -2670,7 +2670,7 @@
    "art": "A close-up of a brinjal's spiky green cap."
   },
   {
-   "text": "A tulsi plant in a pot, with its square stem and its leaves in pairs.",
+   "text": "A tulsi plant in a pot, with their square stem and their leaves in pairs.",
    "art": "A tulsi plant in a clay pot on a balcony."
   },
   {
@@ -2743,7 +2743,7 @@
   },
   {
    "j": "Why did the bat refuse to sit with the birds?",
-   "a": "It said, 'I'm a mammal, thank you very much.'"
+   "a": "They said, 'I'm a mammal, thank you very much.'"
   },
   {
    "j": "What do you call a sorted pile of socks?",
@@ -2786,7 +2786,7 @@
    "a": "Let's hang out on the vine."
   },
   {
-   "j": "How does a monkey sort its bananas?",
+   "j": "How does a monkey sort their bananas?",
    "a": "Ripe, almost ripe, and already eaten."
   },
   {
@@ -2798,7 +2798,7 @@
    "a": "It always left a print."
   },
   {
-   "j": "What did the liger say when asked if it was a lion or a tiger?",
+   "j": "What did the liger say when asked if they were a lion or a tiger?",
    "a": "Yes."
   }
  ],
@@ -2817,7 +2817,7 @@
    "answer": "0 cards.",
    "explain": "7 can fly and 6 have hair, which makes 13. But the bat was counted twice, so there are 13 - 1 = 12 different cards in the circles. All 12 cards are in at least one group, so 12 - 12 = 0 are in neither.",
    "math_unit": "math.logic.sets-and-venn.L2",
-   "context": "This is about a Venn diagram, two overlapping circles. One circle is 'can fly' and one is 'has hair'. The bat goes in the middle, because it is in both.",
+   "context": "This is about a Venn diagram, two overlapping circles. One circle is 'can fly' and one is 'has hair'. The bat goes in the middle, because they are in both.",
    "chart": {
     "type": "table",
     "title": "Arjun's cards",
@@ -2841,7 +2841,7 @@
     ]
    },
    "show": "Two overlapping circles labelled 'can fly' and 'has hair', with a bat in the middle part.",
-   "why_maths": "A Venn diagram stops you counting a living thing twice when it belongs to two groups."
+   "why_maths": "A Venn diagram stops you counting a living thing twice when they belong to two groups."
   },
   {
    "problem": "In the people table, 6 people were measured. 4 were taller than 120 cm. 5 wrote with their right hand. What is the smallest number of people who could be both taller than 120 cm and right-handed?",
@@ -2887,7 +2887,7 @@
    "title": "iNaturalist",
    "url": "https://www.inaturalist.org",
    "kind": "interactive",
-   "why": "For the parent: photograph a plant or insect, and the site suggests its name and family. Thousands of Indian nature lovers use it."
+   "why": "For the parent: photograph a plant or insect, and the site suggests their name and family. Thousands of Indian nature lovers use it."
   },
   {
    "title": "India Biodiversity Portal",
@@ -2974,7 +2974,7 @@
   },
   {
    "q": "Is a bat a bird or a mammal?",
-   "a": "A mammal. It has hair and feeds its babies milk."
+   "a": "A mammal. They have hair and feed their babies milk."
   },
   {
    "q": "Which family is the brinjal in?",
@@ -2986,7 +2986,7 @@
   },
   {
    "q": "Is a mushroom a plant?",
-   "a": "No. It is a fungus."
+   "a": "No. A mushroom is a fungus."
   },
   {
    "q": "Is sugarcane a grass?",
@@ -3088,7 +3088,7 @@
  "roots": {
   "context": "We have been sorting living things in many ways, and finding which ones are relatives. Now we ask what sorting tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Sorted by colour, the green chilli went with the cucumber. Sorted by caps and seeds, it went with the tomato and the brinjal. Those three plants share these features because they came from the same ancestor plants. So a living thing's body carries clues to its family, and careful sorting can find them.",
+   "truth": "Sorted by colour, the green chilli went with the cucumber. Sorted by caps and seeds, it went with the tomato and the brinjal. Those three plants share these features because they came from the same ancestor plants. So a living thing's body carries clues to their family, and careful sorting can find them.",
    "habit": "We think every sort of living things is a choice we make, or that things which look alike must belong together. Many sorts are useful choices. But which living things are relatives was settled long ago, by who came from whom, and their bodies still show it.",
    "evidence": "In the vegetable test, the colour sort and the cap-and-seed sort made different groups. The cap and the seeds put the chilli with the tomato and the brinjal. Botanists, comparing flowers and DNA, put these three in one family too."
   },
@@ -3148,7 +3148,7 @@
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: the vegetable test uses only vegetables most Indian kitchens have, with a pumpkin or bottle gourd slice if capsicum is missing, and they are cooked afterwards. A grown-up does all the cutting, and the chilli is cut last because its juice burns the eyes. The seeds are looked at five at a time on white paper, so the difference between the small round tomato-family seeds and the oval gourd seeds is easy to see. A tender cucumber still shows its soft white oval seeds. The square stem test is done with eyes closed, so the child judges by feel. Coriander and curry leaves smell strong but have round stems, which is a good lesson that one clue can mislead. Closed button mushrooms often give no spore print, so the step asks for open caps and gives what to do if nothing appears. The people table works with 3 people or with relatives on a video call. Both games work for one child alone. The spine fits about 85 minutes.",
  "how_we_found_out": {
-  "story": "For most of the 1900s, scientists sorted every living thing into two groups. Some had cells with a nucleus, a small packet that holds the cell's DNA. Animals, plants and fungi were in this group. The rest had no nucleus, and they were all called bacteria. Carl Woese, an American scientist, wanted a better clue to who is related to whom. Every cell has a molecule called ribosomal RNA, which it uses to build proteins. Woese compared this molecule in many tiny living things. In 1977, he and George Fox found that some 'bacteria' that make methane gas were as different from other bacteria as bacteria are from us. They called them archaebacteria. Later Woese renamed them archaea, and in 1990 he proposed three domains of life. Many biologists did not accept it at first. The famous biologist Ernst Mayr was still arguing against it in 1998. But studies of many more archaea agreed with Woese. Today they live in textbooks, and in the mud of rice fields and in our own guts.",
+  "story": "For most of the 1900s, scientists sorted every living thing into two groups. Some had cells with a nucleus, a small packet that holds the cell's DNA. Animals, plants and fungi were in this group. The rest had no nucleus, and they were all called bacteria. Carl Woese, an American scientist, wanted a better clue to who is related to whom. Every cell has a molecule called ribosomal RNA, which they use to build proteins. Woese compared this molecule in many tiny living things. In 1977, he and George Fox found that some 'bacteria' that make methane gas were as different from other bacteria as bacteria are from us. They called them archaebacteria. Later Woese renamed them archaea, and in 1990 he proposed three domains of life. Many biologists did not accept it at first. The famous biologist Ernst Mayr was still arguing against it in 1998. But studies of many more archaea agreed with Woese. Today they live in textbooks, and in the mud of rice fields and in our own guts.",
   "who": "Carl Woese, an American microbiologist, with George Fox, and later Otto Kandler and Mark Wheelis",
   "when": "1977 (archaea found) and 1990 (three domains proposed)",
   "wrong_idea": "That every living thing without a nucleus is a kind of bacteria. By comparing ribosomal RNA, Woese and Fox showed that archaea are as different from bacteria as bacteria are from animals and plants.",

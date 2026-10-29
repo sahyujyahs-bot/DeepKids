@@ -1,0 +1,2945 @@
+{
+ "id": "sci.habitats.water-habitats.L3",
+ "title": "Life in water: ponds, rivers and seas, and the air dissolved in them",
+ "level": 3,
+ "summary": {
+  "text": "A glass of cold water left in a warm room grows tiny bubbles on its sides. That air was dissolved in the water all along, where you could not see it. Ponds, rivers and seas are habitats, homes for living things, and this dissolved air is what their living things breathe. Fish take oxygen out of the water with their gills. A tadpole breathes with gills too, and grows into a frog who breathes with lungs and wet skin. Lotus plants have their roots in mud that has almost no air, and send air down to them through holes in their stems. Algae and water plants make food and oxygen in sunlight. Warm water holds less air than cold water, so on hot, still nights a pond can run short of oxygen. Sea water is salty, so most sea fish cannot live in a river, and most river fish cannot live in the sea.",
+  "art": "A cut-away view of a South Indian village pond: lotus leaves standing above the water, a frog on a leaf, tadpoles and fish below, green threads of algae with tiny bubbles on them, and tiny dots in the water showing dissolved air."
+ },
+ "intro": {
+  "hook": "Fill a clear glass with cold water from the fridge. Leave it on the table for an hour. Then look closely at its sides. Tiny bubbles have appeared. Nobody blew into the water. So where did those bubbles come from?",
+  "text": "Those bubbles are air. It was dissolved in the water, mixed in so finely that you could not see it. As the water warmed up, some of that air came out. Fish live on this hidden air. They cannot breathe the air above the water, and they do not breathe the water itself. They breathe the oxygen dissolved in the water. In this unit you test how much air water holds, and what changes it. Then you meet the living things of ponds, rivers and seas: fish, frogs, lotus and algae. Each of them has their own problem to solve to live in water.",
+  "art": "A clear glass of water on a kitchen table, with many tiny silver bubbles clinging to the inside of the glass, and a child's eye looking closely through a magnifying glass."
+ },
+ "outcomes": [
+  "I can name ponds, rivers and seas as habitats, and say how they differ: still or flowing, fresh or salty.",
+  "I can show with a test that water holds dissolved air, and that warm water holds less of it than cold water.",
+  "I can explain how fish take oxygen out of water with their gills, and why a warm pond can run short of oxygen for its fish.",
+  "I can explain how a frog lives in water and on land: a tadpole breathes with gills, and a frog breathes with lungs and wet skin.",
+  "I can explain how a lotus plant keeps their leaves in the air and light, and gets air down to their roots in the mud.",
+  "I can explain that algae and water plants make food and oxygen in sunlight, and what happens to a pond when far too many algae grow.",
+  "I can explain why most sea fish cannot live in a river, using what salty water did to a cucumber slice."
+ ],
+ "cards_mins": 20,
+ "terms": [
+  {
+   "term": "Habitat",
+   "meaning": "The place where a living thing finds everything they need: food, water, air, shelter and the right warmth.",
+   "example": "A temple tank is a habitat for fish, frogs, snails and water plants.",
+   "art": "A temple tank with stone steps, lotus leaves, a frog and fish under the water."
+  },
+  {
+   "term": "Aquatic",
+   "meaning": "Living in water. Aquatic animals and plants spend all or part of their lives in water.",
+   "example": "Fish, lotus and algae are aquatic. A crow is not.",
+   "art": "A row of pictures: a fish, a lotus, green algae, and a crow crossed out."
+  },
+  {
+   "term": "Fresh water",
+   "meaning": "Water with very little salt in it. Ponds, lakes, most rivers and rain are fresh water.",
+   "example": "The Kaveri river and a village pond are fresh water.",
+   "art": "A river flowing past paddy fields, with a label 'fresh water'."
+  },
+  {
+   "term": "Salt water",
+   "meaning": "Water with a lot of salt dissolved in it, like the sea. Sea water has about 35 grams of salt in every litre.",
+   "example": "The Bay of Bengal and the Arabian Sea are salt water.",
+   "art": "A wave on a beach, and a spoon of salt next to a one-litre bottle."
+  },
+  {
+   "term": "Brackish water",
+   "meaning": "A mix of fresh and salt water. It is found where a river meets the sea.",
+   "example": "The backwaters of Kerala and Pulicat lake near Chennai are partly brackish.",
+   "art": "A river flowing into the sea, with the colours mixing where they meet."
+  },
+  {
+   "term": "Dissolve",
+   "meaning": "To mix into a liquid so completely that you cannot see it any more.",
+   "example": "Sugar dissolves in tea. Air dissolves in water.",
+   "art": "A spoon stirring sugar into a glass of tea until the grains disappear."
+  },
+  {
+   "term": "Dissolved oxygen",
+   "meaning": "Oxygen gas mixed into water, too finely to see. Fish and other water animals breathe it.",
+   "example": "A cold, splashing river has plenty of dissolved oxygen.",
+   "art": "A magnified drop of water with tiny dots of oxygen spread between the water particles."
+  },
+  {
+   "term": "Gills",
+   "meaning": "The breathing organs of a fish or a tadpole. They take oxygen out of the water and pass it into the blood.",
+   "example": "Lift a fish's gill cover at the fish shop, and you see red, feathery gills.",
+   "art": "The side of a fish's head with the gill cover lifted, showing red, comb-like gills."
+  },
+  {
+   "term": "Algae",
+   "meaning": "Simple living things, usually green, that make their own food from sunlight, like plants. Many are too small to see one by one.",
+   "example": "The green slime on a pond, or the green inside an old flower vase, is algae.",
+   "art": "Green threads of algae in a pond, with tiny bubbles stuck to them in sunlight."
+  },
+  {
+   "term": "Photosynthesis",
+   "meaning": "How plants and algae make food from water and carbon dioxide, using light. They give out oxygen as they do it.",
+   "example": "Water plants in a sunny pond give off tiny bubbles of oxygen.",
+   "art": "A water plant under sunlight with small bubbles rising from their leaves."
+  },
+  {
+   "term": "Tadpole",
+   "meaning": "A young frog. Tadpoles live in water, have a tail, and breathe with gills.",
+   "example": "In the monsoon, puddles and ponds fill with black tadpoles.",
+   "art": "A tadpole with a round body, a long tail and tiny feathery gills."
+  },
+  {
+   "term": "Amphibian",
+   "meaning": "An animal that usually starts life in water and lives on land as an adult. Frogs and toads are amphibians.",
+   "example": "A frog hatches in a pond as a tadpole, then hops onto land.",
+   "art": "A frog sitting at the edge of a pond, half in water and half on land."
+  },
+  {
+   "term": "Air canals",
+   "meaning": "Long empty tubes inside the stem and root of a water plant. They carry air down to the parts in the mud.",
+   "example": "Cut across a lotus stem, and you see a ring of holes. These are the plant's air canals.",
+   "art": "A slice of lotus stem showing a ring of round holes."
+  },
+  {
+   "term": "Algal bloom",
+   "meaning": "When far too many algae grow in a pond or lake, often because sewage or fertiliser has run into it. The water turns thick and green.",
+   "example": "A lake near a city turns bright green after waste water flows into it.",
+   "art": "A lake covered in a thick green layer, with a pipe of dirty water flowing into it."
+  },
+  {
+   "term": "Streamlined",
+   "meaning": "Shaped so that water or air flows smoothly around it. A streamlined body moves through water easily.",
+   "example": "Fish are pointed at the front and narrow at the tail, so they slip through water.",
+   "art": "A fish shape with smooth lines of water flowing around it."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "Ponds, rivers and seas are habitats",
+   "status": "defined",
+   "definition": "A water habitat is a pond, lake, river, stream or sea where living things find what they need. Some water habitats are still and some flow. Some are fresh and some are salty.",
+   "description": "A pond or lake is still water. It warms up quickly in the sun, and plants can root in its muddy bottom. A river flows all the time. Its water is often cooler and full of air, but its living things must hold on or swim hard. The sea is salt water. It is huge and deep, and only its top part gets sunlight. Where a river meets the sea, the water is a mix of fresh and salty, called brackish water. Each of these habitats suits different living things.",
+   "examples": [
+    "A temple tank or village pond: still, fresh water with lotus, frogs and fish.",
+    "The Kaveri or the Godavari: flowing fresh water.",
+    "The Bay of Bengal: salt water.",
+    "The Kerala backwaters and Pichavaram mangroves near Chidambaram: brackish water."
+   ],
+   "perspectives": [],
+   "art": "Three panels: a still pond with lotus, a rushing river over rocks, and the open sea with waves.",
+   "context": "This card says what water habitats are, and how ponds, rivers and seas differ."
+  },
+  {
+   "concept": "Water holds dissolved air",
+   "status": "defined",
+   "definition": "Air dissolves in water. It mixes in so finely that you cannot see it. Cold water can hold more dissolved air than warm water.",
+   "description": "When water touches air, some of the air slowly dissolves into it. This happens at the surface of every pond, river and sea. Splashing and wind mix in more. Cold water holds more dissolved air than warm water. Water from the fridge holds almost twice as much oxygen as water on a hot afternoon. When cold water warms up, it cannot hold all its air, so some comes out as bubbles. That is what you saw in the cold glass test. Boiling drives most of the air out, which is why boiled water made almost no bubbles.",
+   "examples": [
+    "Tiny bubbles on the inside of a glass of cold water that has warmed up.",
+    "Small bubbles on the bottom of a pan of water, long before it boils.",
+    "A waterfall or a splashing stream mixes lots of air into the water."
+   ],
+   "perspectives": [],
+   "art": "A glass of water shown three ways: cold with many tiny dots of air inside, warm with bubbles leaving, and boiled with almost no dots.",
+   "context": "This card explains the bubbles in the cold glass test: there is air dissolved in water, and warm water holds less of it."
+  },
+  {
+   "concept": "How a fish breathes",
+   "status": "defined",
+   "definition": "Fish breathe the oxygen dissolved in water, using their gills. They take water in through their mouths and push it out over their gills.",
+   "description": "Every animal needs oxygen to get energy from their food. A fish's problem is that water holds very little oxygen, about 30 times less than the same amount of air. So fish have to pass a lot of water over their gills. They gulp water in through the mouth, close the mouth, and push the water out under the gill covers. Each gill has hundreds of thin red folds, packed with tiny blood vessels. Oxygen passes from the water into the blood through these thin folds. The blood flows through the gills the opposite way to the water, which helps the fish take out most of the oxygen. Most fish cannot breathe in air, because out of water their gill folds stick together and stop working.",
+   "examples": [
+    "Watch a fish in an aquarium: their mouth and gill covers open and close, again and again.",
+    "Fresh fish at the fish shop have bright red gills.",
+    "Some fish, like the murrel sold in many South Indian markets, can also gulp air at the surface."
+   ],
+   "perspectives": [],
+   "art": "A fish with arrows showing water going in at the mouth, over red gills and out under the gill cover.",
+   "context": "This card explains how a fish gets oxygen out of water."
+  },
+  {
+   "concept": "Why a pond can run short of oxygen",
+   "status": "defined",
+   "definition": "A pond runs short of oxygen when its living things use oxygen faster than it comes in. This happens most on hot, still nights.",
+   "description": "Oxygen gets into a pond in two ways. It dissolves in from the air at the surface, and algae and water plants make it in sunlight. Everything in the pond uses oxygen all the time: fish, snails, the plants and algae themselves, and the bacteria that rot dead leaves. At night, the algae stop making oxygen but keep using it. So the oxygen goes down all night and is lowest just before sunrise. In hot weather the water also holds less. That is why, on hot mornings, fish sometimes come up to gulp at the surface, where the water touching the air has the most oxygen.",
+   "examples": [
+    "Fish gulping at the top of a pond at dawn in the hot months.",
+    "Aquarium pumps bubble air into the water so the fish do not run short.",
+    "Some city lakes have fountains and pumps that splash water to mix in air."
+   ],
+   "perspectives": [],
+   "art": "A pond at night with fish rising to the surface, and the same pond at noon with algae giving off bubbles in the sun.",
+   "context": "This card explains why a pond can run short of oxygen, especially on hot nights."
+  },
+  {
+   "concept": "Frogs: two lives, two ways to breathe",
+   "status": "defined",
+   "definition": "A frog starts life in water as a tadpole who breathes with gills. They change into a frog who breathes with lungs and through their thin, wet skin.",
+   "description": "A mother frog lays her eggs in water, in a clump of jelly. Out of each egg comes a tadpole. They have a tail for swimming and gills for breathing dissolved oxygen, like a fish. Over some weeks, their back legs grow, then their front legs. Their gills disappear and lungs grow, and their tail shrinks away. This big change of body is called metamorphosis. The adult frog breathes air with their lungs. They also breathe through their skin, but oxygen can only pass through skin that is wet. That is why frogs stay near water or in damp places, and come out after rain.",
+   "examples": [
+    "After the first monsoon rains, frogs croak loudly in flooded fields and puddles.",
+    "A tadpole in a puddle has a tail and no legs. A few weeks later they have four legs.",
+    "The purple frog of the Western Ghats lives underground and comes up to breed in monsoon streams."
+   ],
+   "perspectives": [],
+   "art": "A circle of pictures: frog eggs in jelly, a tadpole with gills, a tadpole with legs, a young frog with a short tail, and an adult frog.",
+   "context": "This card is about how a frog breathes in water when young and on land when grown."
+  },
+  {
+   "concept": "The lotus: leaves in the air, roots in the mud",
+   "status": "defined",
+   "definition": "A lotus grows from a thick stem buried in the mud at the bottom of a pond. Their leaves and flowers stand up above the water, and air canals carry air down to the buried parts.",
+   "description": "A lotus has a problem. Their leaves need sunlight and air to make food. Their roots and thick underground stem sit in thick mud at the bottom of the pond, where there is almost no oxygen. Every living part of the plant needs oxygen. So the lotus has long air canals running through their leaf stalks and underground stem. Air goes in through the leaves and travels down these tubes to the parts in the mud. You can see the canals as a ring of holes when you cut across a lotus stem. The leaves also stand on long stalks, so they stay in the light when the water rises.",
+   "examples": [
+    "Thamarai thandu, the lotus stem cooked in Tamil Nadu, and kamal kakdi in the north, show a ring of holes when sliced.",
+    "Lotus leaves stand high above the water in a temple tank.",
+    "Water lilies have floating leaves with their breathing pores on the top side, which faces the air."
+   ],
+   "perspectives": [],
+   "art": "A lotus plant cut away to show their leaves above water, a long leaf stalk, and a thick stem in the mud, with arrows of air flowing down the tubes inside.",
+   "context": "This card explains how a lotus gets air to their roots, which grow in mud with almost no air."
+  },
+  {
+   "concept": "Algae: the tiny food makers of water",
+   "status": "defined",
+   "definition": "Algae are simple living things that make their own food from sunlight, water and carbon dioxide, like plants do. They give out oxygen as they do it.",
+   "description": "Some algae are long green threads, like the slimy paasi on a pond. Others are single cells, far too small to see alone. When millions of them grow together, the water turns green. Tiny animals eat the algae, small fish eat those animals, and bigger fish eat the small fish. So algae feed almost everything in the water. Algae in the sea also make a huge amount of oxygen, about half of all the oxygen made on Earth each year. But too much of a good thing is a problem. When sewage or fertiliser flows into a lake, algae grow far too fast. This is called an algal bloom. When the algae die, bacteria rot them and use up the dissolved oxygen, and fish can die.",
+   "examples": [
+    "Green water in an old flower vase or a pot saucer left in the sun.",
+    "Green slime on the steps of a temple tank.",
+    "A lake turning bright green after waste water flows into it."
+   ],
+   "perspectives": [],
+   "art": "A drop of pond water seen through a microscope, full of green algae cells and threads, and a tiny animal eating them.",
+   "context": "This card is about algae, the tiny green living things that make food and oxygen in water."
+  },
+  {
+   "concept": "Salt water and fresh water",
+   "status": "defined",
+   "definition": "Sea water is salty, with about 35 grams of salt in every litre. River water, pond water and rain are fresh, with very little salt.",
+   "description": "Water moves from the less salty side to the more salty side of a living skin. You saw this with the cucumber. In very salty water, water left the cucumber's cells, and the slice went floppy. A fish's body is less salty than the sea, and saltier than a river. So a sea fish keeps losing water to the sea. They drink sea water, and their gills push the extra salt out. A river fish has the opposite problem. Water keeps soaking into their body, so they make a lot of very watery urine. Each kind of fish is built for one kind of water. A few, like the hilsa, change as they travel. The hilsa lives in the sea and swims up rivers like the Godavari and the Hooghly to lay their eggs.",
+   "examples": [
+    "Pulasa, the hilsa caught in the Godavari during the monsoon floods, is a famous dish in Andhra Pradesh.",
+    "Sea fish in the market, like mackerel and sardine, come from the sea. Rohu and catla come from rivers and ponds.",
+    "Mangrove trees at Pichavaram live in brackish water and push salt out of their leaves."
+   ],
+   "perspectives": [],
+   "art": "Two fish side by side: a sea fish drinking water with salt arrows leaving their gills, and a river fish with water arrows soaking in.",
+   "context": "This card explains why most fish can live in only fresh water or only salt water."
+  },
+  {
+   "concept": "Holding on in flowing water",
+   "status": "defined",
+   "definition": "In a fast river or stream, living things must hold on, hide, or swim hard, or the water carries them away.",
+   "description": "Flowing water pushes on everything in it. The faster it flows, the harder it pushes. A tall shape catches more of the push and topples. A low, flat shape lets the water slide over it. That is what you found in the flat or tall test. Many stream animals are flat and hug the rocks. Some small fish in fast streams of the Western Ghats have flat bodies and fins that work like suckers. Snails clamp down on stones. Fish that live in open river water are streamlined, pointed in front and narrow at the tail, so water flows smoothly around them. Fish in a river usually face upstream, so the water flows over their gills the right way.",
+   "examples": [
+    "Snails stuck to the stones under a waterfall.",
+    "Small flat fish clinging to rocks in fast hill streams of the Western Ghats.",
+    "Fish in a stream holding still, all facing the same way, into the current."
+   ],
+   "perspectives": [],
+   "art": "A cut-away of a rocky stream: flat fish and snails pressed to the rocks, and a streamlined fish facing into the current.",
+   "context": "This card is about how living things stay put in a fast river."
+  },
+  {
+   "concept": "Do fish feel pain?",
+   "status": "debated",
+   "description": "Fish feel pain. Their bodies have nerve endings that sense harm, like ours do, and fish change what they do after they are hurt. Scientists still argue about what fish feel inside, because nobody can ask a fish. Here are the main views.",
+   "examples": [
+    "Lynne Sneddon and her team, in Britain in 2003, found that trout with a sting in their lips rubbed their lips on the gravel and stopped eating for a while.",
+    "Fish learn to avoid a part of a tank where something hurt them."
+   ],
+   "perspectives": [
+    {
+     "who": "Lynne Sneddon, a British biologist, and many fish scientists",
+     "explanation": "Fish have nerves that sense harm, and they act as if they hurt: they stop eating, rub the hurt place and avoid what hurt them. So fish feel pain, and we should handle them kindly."
+    },
+    {
+     "who": "Brian Key, an Australian brain scientist, and some others",
+     "explanation": "Fish do not have the parts of the brain that people use to feel pain. So their reactions might happen without a feeling of pain."
+    },
+    {
+     "who": "Many scientists today",
+     "explanation": "A fish brain is built differently from ours, but a different brain can still feel. Every animal studied so far reacts to harm in their own way."
+    }
+   ],
+   "art": "A fish in a tank turning away from a net, with a question mark above them.",
+   "context": "This card is about a real argument among scientists: what does a fish feel when they are hurt?"
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Water holds dissolved oxygen, and cold water holds more than warm water.",
+   "evidence": "Chemists have measured it at every temperature. You can see it at home: cold water grows bubbles as it warms."
+  },
+  {
+   "text": "Fish breathe the oxygen dissolved in water, using their gills. They do not split water to get oxygen.",
+   "evidence": "In 1809, Alexander von Humboldt and Provençal measured the gases in water before and after fish lived in it. The dissolved oxygen went down and carbon dioxide went up."
+  },
+  {
+   "text": "Tadpoles breathe with gills, and adult frogs breathe with lungs and through their wet skin.",
+   "evidence": "Biologists have watched tadpoles grow into frogs for hundreds of years, and studied their bodies at each stage."
+  },
+  {
+   "text": "Algae and water plants make oxygen in sunlight. In the sea, algae and other tiny living things make about half of the oxygen made on Earth each year.",
+   "evidence": "Scientists measure oxygen in water by day and night, and satellites measure how much green algae is in the sea."
+  },
+  {
+   "text": "Sewage and fertiliser in a lake can make algae grow far too fast, and this can use up the oxygen and kill fish.",
+   "evidence": "Scientists have measured this in lakes all over the world, including lakes in Indian cities."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Fish breathe water.",
+   "who": "A very common idea",
+   "for": "Fish live in water and take water in through their mouths all the time.",
+   "against": "Fish breathe the oxygen dissolved in the water. Water with its air boiled out cannot keep a fish alive, even though it is still water.",
+   "status": "rejected",
+   "context": "This card is about a common mistake: that fish breathe the water itself."
+  },
+  {
+   "claim": "Fish do not breathe at all. Water over the gills only cools them.",
+   "who": "Aristotle, a Greek thinker, about 2,350 years ago",
+   "for": "Fish never come up for air, and the water over their gills is cool.",
+   "against": "Measurements since 1809 show fish take oxygen out of the water and give out carbon dioxide, just as we do with air.",
+   "status": "rejected",
+   "context": "This card is about an old idea from ancient Greece."
+  },
+  {
+   "claim": "Green water is always dirty and bad.",
+   "who": "A common idea",
+   "for": "Thick green lakes near cities often smell, and fish die in them.",
+   "against": "Some algae are a good sign: they feed the animals of a healthy pond and make oxygen. The trouble comes only when far too many grow, usually because of sewage or fertiliser.",
+   "status": "rejected",
+   "context": "This card is about whether green pond water is always bad."
+  },
+  {
+   "claim": "A frog can live anywhere on land, as long as they can find insects.",
+   "who": "A common idea",
+   "for": "Frogs hop around on land and catch insects there.",
+   "against": "A frog breathes partly through their skin, which must stay wet. In dry air they lose water and can die. Frogs also need water to lay their eggs.",
+   "status": "rejected",
+   "context": "This card is about why frogs stay near water."
+  },
+  {
+   "claim": "Fish feel pain.",
+   "who": "Lynne Sneddon and many fish scientists",
+   "for": "Fish have nerve endings that sense harm, and they change what they do after being hurt.",
+   "against": "Some scientists, like Brian Key, say fish lack the brain parts people use to feel pain.",
+   "status": "debated",
+   "context": "This card is about a real argument among scientists."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "The bubbles were in the water before you saw them. What else could be in a glass of clear water that you cannot see?",
+   "kind": "deep",
+   "hint": "Remember the white ring that tap water leaves when it dries. What was that?"
+  },
+  {
+   "q": "A fish lives in water but breathes oxygen, like you. Is a fish a creature of the water, or of the air?",
+   "kind": "deep",
+   "hint": "Where did the oxygen in the pond come from?"
+  },
+  {
+   "q": "A tadpole breathes with gills, and the frog they become breathes with lungs. Are they the same animal?",
+   "kind": "big",
+   "hint": "Think about how your own body has changed since you were a baby."
+  },
+  {
+   "q": "Tiny algae in the sea make about half of the oxygen made on Earth each year. Who are you breathing from right now?",
+   "kind": "big",
+   "hint": "Most of the oxygen in the air was made by living things."
+  },
+  {
+   "q": "Why does a pond have least oxygen just before sunrise?",
+   "kind": "deep",
+   "hint": "What do algae do in the dark?"
+  },
+  {
+   "q": "Fish in the deep sea live in the dark and cold. How do you think they find food?",
+   "kind": "deep",
+   "hint": "Some of them make their own light."
+  },
+  {
+   "q": "If a lake near your city turned bright green and smelly, what would you want to find out first?",
+   "kind": "big",
+   "hint": "Where does the water flowing into the lake come from?"
+  },
+  {
+   "q": "A pond fish has only ever known water. What might they think the world is?",
+   "kind": "big",
+   "hint": "You have only ever lived in air. Do you notice the air?"
+  }
+ ],
+ "story": {
+  "title": "The Pond That Gasped at Dawn",
+  "mins": 12,
+  "read_aloud": true,
+  "note": "The story is made up. The science in it is real: water holds dissolved oxygen, warm water holds less, algae make oxygen only in light, a pond with many algae has least oxygen just before sunrise, fish then gulp at the surface, and the murrel can breathe air.",
+  "text": [
+   "Every May, Kavya went to her grandparents' village near Thanjavur. Thatha's house stood next to the village pond, the kulam. It had stone steps on one side and lotus leaves on the other. In the evenings, frogs called from the edges, and fish made rings on the water.",
+   "Kavya was nine. She lived in a flat in Chennai, and she missed this pond all year.",
+   "This May was the hottest Thatha could remember. The pond was lower than Kavya had ever seen it. Six steps that were usually under water were now dry and cracked. The water had turned a deep green, and slimy green threads floated near the steps. Paati called it paasi.",
+   "On the first night, Kavya took a glass of cold water from the fridge to bed. She fell asleep before she drank it. In the morning the glass was warm, and its inside was covered in tiny silver bubbles. She tapped it. The bubbles shivered and stayed.",
+   "'Who put bubbles in my water?' she asked.",
+   "'Nobody,' said Thatha, holding the glass to the window. 'They were in there all along. Cold water holds air hidden inside it. When it warms up, it cannot hold as much, so the air comes out.'",
+   "Kavya looked at the glass for a long time. Air, hidden in water. She had never thought of that.",
+   "The next morning she woke very early, before the sun was up, and went to the steps with her cousin Arjun. The pond was grey and still. Then Kavya saw something strange. All over the water, small mouths were opening and closing at the surface. Hundreds of fish were up at the top, gulping. The water was covered in tiny rings.",
+   "'They're drinking,' said Arjun.",
+   "Kavya was not so sure. Fish lived in water. Why would they come to the top to drink it?",
+   "She ran to fetch Thatha. He came down the steps in his veshti, rubbing his eyes, and his face changed when he saw the pond.",
+   "'I have seen this before,' he said quietly. 'In a dry year when I was a boy. One morning, the fish were floating.'",
+   "'Are they going to die?' asked Arjun.",
+   "'Not if the rain comes soon,' said Thatha. But he did not sound sure.",
+   "At noon, Kavya went back. The sun was burning down. Not a single fish was at the surface. The pond looked calm and ordinary. She crouched by the green threads of paasi near the steps and looked closely. They were covered in tiny bubbles, just like her glass.",
+   "'Thatha, the paasi has bubbles too,' she called.",
+   "Thatha came and looked. 'Paasi is a plant, of a kind,' he said. 'They make their food from sunlight, like the leaves of the coconut tree. And when they do that, they give out a gas.'",
+   "'Oxygen,' said Kavya. She had learned that at school. Then she stopped. She thought of her glass. She thought of the fish at dawn, and the calm water at noon.",
+   "'Thatha,' she said slowly, 'do fish breathe the air that is hidden in the water?'",
+   "'They do,' said Thatha. 'They pass the water over their gills and take the oxygen out of it.'",
+   "Kavya's thoughts tumbled out. 'Then in the daytime the paasi makes lots of oxygen, so the fish are fine. But at night there is no sun. The paasi cannot make any. And everything in the pond keeps breathing all night, the fish and the snails and even the paasi. So by morning the oxygen is nearly used up.'",
+   "Thatha nodded slowly.",
+   "'And the water is so warm this year,' she went on. 'Warm water holds less air. My glass showed that. So the fish come up to the very top, where the water touches the air. That is where there is a little more oxygen.'",
+   "Arjun stared at her. 'So they weren't drinking. They were trying to breathe.'",
+   "Just then, a long, dark fish rose near the steps. They poked their snout right out of the water, took a gulp of air, and sank again. They did this even at noon.",
+   "'That one is a viral,' said Thatha. 'A murrel. They do not mind. They can breathe air, like us.'",
+   "For three more mornings, the fish gasped at dawn. Kavya and Arjun watched them every day. Thatha said he hoped for rain.",
+   "On the fourth evening, the sky over the fields turned dark purple. The wind came first, ruffling the whole pond into little waves. Then the rain came down hard and cold. It drummed on the lotus leaves and splashed across the water for an hour. The frogs went wild with joy, croaking until Kavya could not hear herself think.",
+   "Before sunrise the next morning, Kavya ran to the steps. The water was cooler, and the surface was calm. There were no gulping mouths, no rings. The fish were down below, where they belonged.",
+   "Kavya went back to the kitchen and filled a glass with cold water. She held it up to the grey morning light.",
+   "'There is a whole pond's worth of breath in here,' she said to Arjun. 'We just can't see it.'"
+  ],
+  "epiphany": "For the parent: fish breathe the oxygen dissolved in water. Oxygen dissolves in from the air at the surface, and algae and water plants make it in sunlight. Everything in the pond uses it all the time, so at night the oxygen falls, and it is lowest just before sunrise. Warm water holds less oxygen, so in a hot, low, green pond the dawn shortage can be serious. Fish then gulp at the surface, where the water touching the air holds the most oxygen. Cool rain and wind help, because cooler water holds more oxygen and the waves mix air in. The murrel can breathe air, so they cope.",
+  "ask": [
+   "Why did Kavya's glass of cold water have bubbles in the morning?",
+   "Why were the fish gulping at the top of the pond at dawn, but not at noon?",
+   "What were the tiny bubbles on the paasi at noon?",
+   "How did the rain and the wind help the fish?",
+   "Why did the murrel not mind the shortage of oxygen?"
+  ],
+  "art": [
+   "A village pond near Thanjavur with stone steps, lotus leaves and a low green water level, a house with a tiled roof beside it, on a hot May afternoon.",
+   "A glass of water on a windowsill at sunrise, its inside covered in tiny silver bubbles, and a girl's finger tapping it.",
+   "A grey pond at dawn covered in small rings, with fish mouths opening at the surface, a girl and a boy watching from the steps.",
+   "Green threads of algae near the stone steps at noon, covered in tiny bubbles, with a grandfather in a veshti bending to look.",
+   "Heavy rain splashing across a pond in the evening, lotus leaves bouncing, frogs croaking at the edge, two children laughing under the eaves."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Pond, River or Sea?",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game about water habitats. Players place living things and facts in the right home, a pond, a river or the sea, and answer questions to win cards.",
+   "printables": [
+    {
+     "kind": "board",
+     "title": "Three homes to draw on a big sheet",
+     "items": [
+      "POND: still fresh water",
+      "RIVER: flowing fresh water",
+      "SEA: salt water",
+      "In the middle: MIXED, where a river meets the sea"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "24 cards to cut out",
+     "items": [
+      "Lotus (Pond)",
+      "Frog eggs in jelly (Pond)",
+      "Green threads of paasi, or algae (Pond)",
+      "Murrel, a fish that gulps air (Pond)",
+      "Tadpole (Pond)",
+      "Water lily (Pond)",
+      "Snail clamped to a stone in a fast stream (River)",
+      "Small flat fish holding on to rocks (River)",
+      "Rohu, a big river fish (River)",
+      "Ganga river dolphin (River)",
+      "Hilsa swimming upstream to lay eggs (River, and they come from the Sea)",
+      "Mackerel and sardines (Sea)",
+      "Coral reef (Sea)",
+      "Sea turtle (Sea)",
+      "Tiny algae making half of Earth's new oxygen (Sea)",
+      "Mangrove trees at Pichavaram (Mixed)",
+      "Flamingos at Pulicat lake (Mixed)",
+      "Irrawaddy dolphins in Chilika lake (Mixed)",
+      "QUESTION: Why do fish gulp at a pond's surface at dawn? (Least oxygen at the end of the night)",
+      "QUESTION: Does cold or warm water hold more air? (Cold)",
+      "QUESTION: How does a tadpole breathe? (With gills)",
+      "QUESTION: How does air reach a lotus's roots in the mud? (Through air canals in their stem)",
+      "QUESTION: What did very salty water do to a cucumber slice? (Made it floppy, by pulling water out)",
+      "QUESTION: Which shape stays put in a fast stream? (Low and flat)"
+     ]
+    }
+   ],
+   "rules": [
+    "Draw the three homes and the mixed middle on a big sheet.",
+    "Shuffle the cards and put them face down.",
+    "On your turn, take the top card. A living thing card: place it on its home and say one reason it lives there. A QUESTION card: answer it.",
+    "If you are right, keep the card. If not, put it at the bottom of the pile.",
+    "When the pile is gone, the player with the most cards wins.",
+    "Playing alone: play against the clock. Can you place all 24 cards in 10 minutes?"
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Draw the homes on a big sheet. 2. Shuffle the cards.",
+     "say": "Every living thing on these cards has a water home. Let's see if we know where.",
+     "kid": "Draw the three homes. Shuffle the cards.",
+     "context": "This is the first step of Pond, River or Sea, a card game about water homes."
+    },
+    {
+     "id": "s2",
+     "mins": 14,
+     "do": "Take turns. Place each living thing card on its home with a reason, or answer the question card.",
+     "say": "Where does it live? And why does it suit that home?",
+     "kid": "Take a card. Where does it live? Say why.",
+     "parent": "Ask for a reason each time. 'The flat fish lives in the river, because they hold on to rocks so the water doesn't carry them away.' The hilsa can go on the river or the sea: they live in the sea and swims up rivers to lay its eggs."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Count the cards and talk about the hardest one.",
+     "say": "Which card was hardest to place? Why?",
+     "kid": "Count your cards. Which one was hardest?",
+     "check": {
+      "t": "mcq",
+      "q": "Which living thing lives in both the sea and rivers at different times of their life?",
+      "options": [
+       "The lotus",
+       "The hilsa",
+       "The tadpole"
+      ],
+      "a": 1,
+      "why": "The hilsa lives in the sea and swims up rivers like the Godavari and the Hooghly to lay their eggs. Its body copes with both salt and fresh water. The lotus and the tadpole live only in fresh water."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A big sheet of paper with three areas drawn: a pond, a river and the sea, and a mixed area in the middle.",
+     "caption": "1. Draw the three homes."
+    },
+    {
+     "art": "Children placing picture cards of a lotus, a dolphin and a coral reef on the sheet.",
+     "caption": "2. Place each card on its home and say why."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Day and Night in the Pond: an oxygen token game",
+   "mins": 15,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a token game that shows how a pond's oxygen goes up in the day and down at night. Players are fish who need an oxygen token each round to stay in the game.",
+   "printables": [
+    {
+     "kind": "tokens",
+     "title": "30 oxygen tokens: small paper circles marked O",
+     "items": [
+      "O"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "10 round cards",
+     "items": [
+      "SUNNY DAY: algae add 6 tokens to the pond",
+      "SUNNY DAY: algae add 6 tokens",
+      "CLOUDY DAY: algae add 3 tokens",
+      "NIGHT: algae add 0 tokens",
+      "NIGHT: algae add 0 tokens",
+      "WIND: waves mix in 2 tokens",
+      "HOT AFTERNOON: warm water holds less, take 2 tokens out of the pond",
+      "RAIN: cool water and splashing, add 3 tokens",
+      "SEWAGE: extra rotting uses up 4 tokens",
+      "FOUNTAIN: a pump splashes in 3 tokens"
+     ]
+    }
+   ],
+   "rules": [
+    "Put 8 tokens in a bowl. This is the oxygen in the pond.",
+    "Each round, turn over a round card and do what it says.",
+    "Then every fish takes 1 token from the pond to breathe. The algae and the snails also use 1 token together.",
+    "If there are no tokens left for a fish, that fish swims up to the surface to gulp, and misses the next round.",
+    "Play 10 rounds. Count how many fish are still swimming.",
+    "Playing alone: you are 3 fish. Take 3 tokens each round, plus 1 for the algae and snails."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Put 8 tokens in the bowl. 2. Shuffle the round cards. 3. Sort the NIGHT cards to come one after the other, to show a long night.",
+     "say": "The bowl is the pond's oxygen. Each of you is a fish who must breathe one token every round.",
+     "kid": "The bowl is the pond's oxygen. You are a fish. Take one token each round.",
+     "context": "This is the first step of Day and Night in the Pond, a token game about how a pond's oxygen rises and falls."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Play the rounds. After each card, say what it means in the real pond.",
+     "say": "Night! The algae can't make oxygen in the dark, but everyone still breathes. Watch the bowl.",
+     "kid": "Turn a card. Do what it says. Then each fish takes a token.",
+     "parent": "After NIGHT cards, the bowl runs low. That is the dawn shortage in the story. HOT AFTERNOON and SEWAGE make it worse. WIND, RAIN and FOUNTAIN help."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Talk about when the fish were in most danger.",
+     "say": "When did the pond run out? What helped most?",
+     "kid": "When did the tokens run out? What helped?",
+     "check": {
+      "t": "mcq",
+      "q": "In the game, when did the pond usually run short of oxygen?",
+      "options": [
+       "After sunny days",
+       "After nights in a row",
+       "After the fountain"
+      ],
+      "a": 1,
+      "why": "At night the algae make no oxygen, but everything in the pond keeps using it. So after a long night, the oxygen is lowest. That is why real fish gulp at the surface just before sunrise, as in the story of Kavya's pond."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A bowl of small paper circles marked O on a table, and a pile of round cards with sun and moon pictures.",
+     "caption": "1. Put 8 oxygen tokens in the pond bowl."
+    },
+    {
+     "art": "Children each taking one token from the bowl while a NIGHT card with a moon lies face up.",
+     "caption": "2. Turn a card, then every fish takes a token."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Cold Glass Test: is there air hidden in water?",
+   "mins": 40,
+   "days": 2,
+   "question": "Is there air hidden in clear water? Does cold water hold more of it than warm water?",
+   "predict": "Guess first. We will warm three glasses of water: one fridge-cold, one fridge-cold that was boiled yesterday, and one from the tap. Which glass will grow the most bubbles on its sides? Which will grow the fewest? Why do you think so?",
+   "fair_test": "Use three glasses of the same kind and size, washed the same way. Fill them to the same height. Stand them in the same warm water bath for the same time. Only the water inside changes. Look at all three at the same moments, at 5 minutes and at 15 minutes.",
+   "results_table": [
+    "Glass",
+    "What water is in it",
+    "My guess: lots, some or almost none?",
+    "Bubbles after 5 minutes",
+    "Bubbles after 15 minutes"
+   ],
+   "materials": [
+    {
+     "item": "3 clear glasses or clear plastic tumblers of the same size",
+     "qty": 3
+    },
+    {
+     "item": "2 clean plastic bottles with caps, about 1 litre each",
+     "qty": 2
+    },
+    {
+     "item": "tap water or filter water",
+     "qty": 1
+    },
+    {
+     "item": "a pan and a stove, for boiling water the day before. A grown-up does this.",
+     "qty": 1
+    },
+    {
+     "item": "a wide basin, bucket or deep steel plate for the warm water bath",
+     "qty": 1
+    },
+    {
+     "item": "warm water: one mug of hot water from a kettle or geyser mixed with two mugs of tap water",
+     "qty": 1
+    },
+    {
+     "item": "3 paper labels and a pencil: A, B and C",
+     "qty": 3
+    },
+    {
+     "item": "a torch and a magnifying glass, to see the bubbles",
+     "qty": 1,
+     "buy": "b-lens"
+    }
+   ],
+   "safety": "A grown-up boils the water and mixes the warm bath. The bath should feel warm, like a bath, and never hot. Wipe up spills so nobody slips.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 5,
+     "what": "A grown-up boils water for 5 minutes and pours it into a bottle filled right to the top. Cap it. Fill a second bottle with tap water. Put both bottles in the fridge overnight."
+    },
+    {
+     "day": 2,
+     "mins": 35,
+     "what": "Fill glass A with cold tap water, glass B with cold boiled water and glass C with room-temperature tap water. Stand them in a warm bath. Watch for bubbles at 5 and 15 minutes."
+    }
+   ],
+   "record": "Fill in the table. Draw the three glasses, with the bubbles you saw on each.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Boil a pan of water for 5 minutes. 2. Let it cool for 10 minutes. 3. Pour it into a bottle, right to the top, and cap it tight. 4. Fill a second bottle with tap water. 5. Put both in the fridge overnight.",
+     "say": "Tonight we get the water ready. I am boiling some water. Tomorrow we find out what boiling did to it.",
+     "kid": "A grown-up boils some water. Then it goes in a full bottle. Both bottles go in the fridge till tomorrow.",
+     "adult": true,
+     "parent": "Fill the boiled-water bottle right to the top, so there is almost no air above the water. That keeps the air from dissolving back in as it cools. Label the bottles 'boiled' and 'tap'.",
+     "wait": "Leave both bottles in the fridge overnight.",
+     "context": "This is the first step of the Cold Glass Test. The night before, you boil some water, because boiling drives air out of it."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Label three glasses A, B and C. 2. Fill A from the cold tap-water bottle. 3. Fill B from the cold boiled-water bottle, pouring gently. 4. Fill C from the tap. 5. Fill all three to the same height, about 2 cm from the top.",
+     "say": "Here are three glasses of water. They all look the same. Look closely. Can you see any air in them?",
+     "kid": "Fill the three glasses. A is cold tap water. B is cold boiled water. C is tap water. Look closely. Any bubbles yet?",
+     "parent": "Pour B gently down the side of the glass, so you don't splash air into it. Room-temperature tap water from an overhead tank or a filter is fine for C. At this point there should be few or no bubbles in any glass.",
+     "context": "This step fills the three glasses for the Cold Glass Test."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Ask your child to guess. Which glass will grow the most bubbles when it warms up, and which the fewest? Write the guesses in the table.",
+     "say": "Soon we will warm all three glasses. Which do you think will grow the most bubbles? Which the fewest? Why do you think so?",
+     "kid": "Guess. Which glass will get the most bubbles? Which will get the fewest? Why?",
+     "ask": [
+      {
+       "q": "Why did you choose that glass?",
+       "good": [
+        "Because it is the coldest.",
+        "Because boiling took something out of it.",
+        "Because the tap water is already warm."
+       ]
+      }
+     ],
+     "parent": "Don't explain anything yet. Any guess with a reason is good. Many children think the boiled water will bubble most, because boiling makes bubbles."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Mix one mug of hot water with two mugs of tap water in the basin. 2. Check it feels warm, not hot, on your wrist. 3. Stand the three glasses in it, side by side. 4. Start a timer.",
+     "say": "Now we warm all three glasses the same way, in the same bath. Let's set a timer for 5 minutes.",
+     "kid": "A grown-up makes a warm bath. Stand the three glasses in it. Start the timer.",
+     "adult": true,
+     "parent": "The bath should come about halfway up the glasses. If a plastic tumbler tips or floats, put a spoon in the bath beside it to steady it. While you wait, read a term card or talk about the fish in a pond."
+    },
+    {
+     "id": "s5",
+     "mins": 12,
+     "do": "1. At 5 minutes, shine the torch through the side of each glass. 2. Look at the bottom and the sides. 3. Write lots, some or almost none for each glass. 4. Look again at 15 minutes.",
+     "say": "Shine the torch through each glass. Look at the sides and the bottom. Which one has the most bubbles?",
+     "kid": "Shine the torch through each glass. Look for tiny bubbles. Which has the most?",
+     "check": {
+      "t": "mcq",
+      "q": "Which glass grew the most bubbles?",
+      "options": [
+       "A: cold tap water",
+       "B: cold boiled water",
+       "C: room-temperature tap water"
+      ],
+      "a": 0,
+      "why": "Cold water holds the most dissolved air. As glass A warmed, it could not hold it all, so the extra air came out as bubbles. Glass C started warmer and held less air, so it grew fewer. Glass B had most of its air boiled out, so almost nothing came out. If you picked B, you were thinking of the big bubbles in boiling water. Those are steam, not air."
+     },
+     "parent": "Glass A usually grows many tiny bubbles within 10 to 15 minutes. Glass C grows fewer. Glass B grows very few or none. If nothing happens by 15 minutes, add a little more hot water to the bath and wait 10 more minutes. Tiny bubbles are easier to see with a magnifying glass."
+    },
+    {
+     "id": "s6",
+     "mins": 2,
+     "do": "Tap the side of glass A gently and watch what the bubbles do.",
+     "say": "Tap glass A. What do the bubbles do? What do you think they are made of?",
+     "kid": "Tap glass A gently. Do the bubbles float up? What are they made of?",
+     "parent": "Some bubbles let go and rise to the top. They are air that was dissolved in the water. Nothing was added to the glass, so the air must have been in the water all along."
+    },
+    {
+     "id": "s7",
+     "mins": 5,
+     "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
+     "say": "Tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "A good answer sounds like this. What I think: clear water has air hidden in it, and cold water holds more. What I saw: glass A grew the most bubbles, glass C fewer, and the boiled water in B almost none. Why: as cold water warms, it cannot hold all its air, so some comes out. Boiling had already driven the air out of B. Then ask: a fish breathes this hidden air. Would a fish do better in a cool pond or a hot one?",
+     "think": "If warm water holds less air, what happens to fish in a pond on a very hot day?"
+    }
+   ],
+   "context": "In this experiment you warm three glasses of water and watch for bubbles. The bubbles show the air that was hidden, dissolved, in the water.",
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "Glass",
+     "Water",
+     "Guess",
+     "At 5 minutes",
+     "At 15 minutes"
+    ],
+    "rows": [
+     [
+      "A",
+      "cold tap water",
+      "some",
+      "a few",
+      "lots"
+     ],
+     [
+      "B",
+      "cold boiled water",
+      "lots",
+      "none",
+      "almost none"
+     ],
+     [
+      "C",
+      "room-temperature tap water",
+      "almost none",
+      "none",
+      "some"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A grown-up pouring boiled water from a pan into a plastic bottle filled right to the top, next to a second bottle of tap water, both going into a fridge.",
+     "caption": "1. The night before: boil water and chill it in a full bottle. Chill tap water too."
+    },
+    {
+     "art": "Three clear glasses labelled A, B and C, filled to the same height with clear water, on a kitchen counter.",
+     "caption": "2. Fill three glasses: cold tap water, cold boiled water, room-temperature tap water."
+    },
+    {
+     "art": "Three glasses standing in a wide basin of warm water, a timer beside them.",
+     "caption": "3. Stand all three in the same warm bath."
+    },
+    {
+     "art": "A torch shining through the side of glass A, showing many tiny bubbles on its inside, while glass B is clear.",
+     "caption": "4. Shine a torch through. Which glass has the most bubbles?"
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Salty Cucumber: why sea fish and river fish cannot swap homes",
+   "mins": 30,
+   "days": 1,
+   "question": "What does very salty water do to a living thing that is used to fresh water?",
+   "predict": "Guess first. We will put cucumber slices in plain water, in water as salty as the sea, and in very salty water. After 20 minutes, which slices will be stiff, and which will be floppy? Why do you think so?",
+   "fair_test": "Cut all the slices from the same cucumber, all about half a centimetre thick. Use the same amount of water in each bowl. Leave them for the same time. Only the salt changes.",
+   "results_table": [
+    "Bowl",
+    "Salt in one cup of water",
+    "My guess: stiff or floppy?",
+    "Bend test after 20 minutes",
+    "How it feels"
+   ],
+   "materials": [
+    {
+     "item": "one cucumber",
+     "qty": 1
+    },
+    {
+     "item": "a knife and a chopping board, for a grown-up",
+     "qty": 1
+    },
+    {
+     "item": "3 bowls or steel katoris, and 3 cups of water",
+     "qty": 3
+    },
+    {
+     "item": "salt and a teaspoon and a tablespoon",
+     "qty": 1
+    },
+    {
+     "item": "3 paper labels: plain, sea, very salty",
+     "qty": 3
+    }
+   ],
+   "safety": "A grown-up cuts the cucumber. Don't eat the salty slices. They are far too salty.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Soak cucumber slices in plain, sea-salty and very salty water for 20 minutes. Bend each slice to test how stiff it is."
+    }
+   ],
+   "record": "Fill in the table. Draw one slice from each bowl, held by its edge, showing how much it bent.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. Pour one cup of water into each bowl. 2. Leave the first plain. 3. Stir 1 and a half teaspoons of salt into the second. This is about as salty as the sea. 4. Stir 2 tablespoons of salt into the third. 5. Label the bowls.",
+     "say": "These are three kinds of water. Plain, like a river. As salty as the sea. And far saltier than the sea.",
+     "kid": "Make three bowls. Plain water. Sea water. Very salty water. Stir till the salt disappears.",
+     "parent": "The very salty bowl may not dissolve all its salt. That's fine. The sea has about 35 grams of salt in each litre, which is about 1 and a half teaspoons in a cup.",
+     "context": "This is the first step of the Salty Cucumber experiment. You make three bowls of water with different amounts of salt."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Cut 6 slices from the middle of the cucumber, all about half a centimetre thick. 2. Hold one slice by its edge and see how it bends. 3. Put 2 slices in each bowl.",
+     "say": "Feel a fresh slice. Hold it by the edge. It hardly bends. Now let's put two in each bowl.",
+     "kid": "Hold a fresh slice by its edge. Does it bend? Put two slices in each bowl.",
+     "adult": true
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Ask your child to guess what will happen in each bowl. Write the guesses in the table.",
+     "say": "In 20 minutes, which slices will be stiff and which floppy? Why do you think so?",
+     "kid": "Guess. Which slices will go floppy? Why?",
+     "parent": "Don't explain yet. A common guess is that salt will make the slices harder, like salted pickles."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Start a 20-minute timer. While you wait, read the card on salt water and fresh water, or play a game.",
+     "say": "Now we wait 20 minutes. Let's read about fish while the cucumber works.",
+     "kid": "Wait 20 minutes. Read a card while you wait.",
+     "wait": "Wait 20 minutes."
+    },
+    {
+     "id": "s5",
+     "mins": 8,
+     "do": "1. Take one slice from each bowl. 2. Hold each by its edge and see how far it droops. 3. Squeeze each one gently. 4. Write what you find.",
+     "say": "Hold each slice by its edge. Which one droops most? Which still stands stiff?",
+     "kid": "Hold each slice by its edge. Which droops? Which stays stiff?",
+     "check": {
+      "t": "mcq",
+      "q": "The slice in very salty water went floppy. Why?",
+      "options": [
+       "Salt is heavy and pulled it down",
+       "Water moved out of the cucumber into the salty water",
+       "The salt went into the cucumber and made it soft"
+      ],
+      "a": 1,
+      "why": "Water moves from the less salty side to the more salty side of a living skin. The cucumber's cells were much less salty than the very salty water. So water left the cells, and without that water the slice went limp. If you picked 'salt went in', that is a good guess, but the slice got thinner and weaker because it lost water."
+     },
+     "parent": "The very salty slices are usually floppy and bendy after 20 minutes. The plain-water slices stay stiff and crisp. The sea-strength slices may be a little bendier than the plain ones, or about the same. That is why we also used very salty water: it makes the change easy to see."
+    },
+    {
+     "id": "s6",
+     "mins": 7,
+     "do": "Ask your child to say or write three things. What I think. What I saw. Why. Then ask about fish.",
+     "say": "Tell me what you think, what you saw and why. Now imagine a river fish. Their body is much less salty than the sea. What would the sea do to it?",
+     "kid": "Say what you think, what you saw, and why. What would the sea do to a river fish?",
+     "parent": "A good answer: What I think: very salty water pulls water out of living things. What I saw: the slice in very salty water went floppy, and the plain one stayed stiff. Why: water moved out of the cucumber into the saltier water. A river fish put in the sea would keep losing water like this. Sea fish drink sea water and push the salt out through their gills, so they can live there.",
+     "think": "Why can't we drink sea water when we are thirsty?"
+    }
+   ],
+   "context": "In this experiment you soak cucumber slices in plain and salty water. It shows what salty water does to a living thing used to fresh water, like a river fish.",
+   "setup": [
+    {
+     "art": "Three steel katoris of water labelled plain, sea and very salty, with a teaspoon and tablespoon of salt beside them.",
+     "caption": "1. Make three bowls: plain, sea-salty and very salty."
+    },
+    {
+     "art": "Cucumber slices of equal thickness on a chopping board, two going into each bowl.",
+     "caption": "2. Put two cucumber slices in each bowl."
+    },
+    {
+     "art": "A child's hand holding a floppy cucumber slice that droops, beside a stiff slice that stands straight.",
+     "caption": "3. After 20 minutes, hold each slice by its edge. Which droops?"
+    }
+   ]
+  },
+  {
+   "id": "e3",
+   "title": "Flat or Tall: which shape stays put in a fast stream?",
+   "mins": 25,
+   "days": 1,
+   "question": "In flowing water, which shape is hardest for the water to push away: tall, round or flat?",
+   "predict": "Guess first. We will make three shapes from the same amount of dough: a tall tower, a ball and a flat dome. Then we pour water at them. Which will the water push over or move first? Why do you think so?",
+   "fair_test": "Use the same amount of dough for each shape. Put each shape in the same place on the plate. Pour the same mug of water from the same height, in the same way. Only the shape changes. Try each shape twice.",
+   "results_table": [
+    "Shape",
+    "My guess: moves first, second or last?",
+    "Try 1: did it move or fall?",
+    "Try 2: did it move or fall?"
+   ],
+   "materials": [
+    {
+     "item": "a lemon-sized ball of atta dough, or clay or play dough",
+     "qty": 1
+    },
+    {
+     "item": "a steel plate or tray, propped up at one end on a book so it slopes a little",
+     "qty": 1
+    },
+    {
+     "item": "a mug of water, and a bucket or sink to catch it",
+     "qty": 1
+    },
+    {
+     "item": "a spoon, to divide the dough into three equal parts",
+     "qty": 1
+    }
+   ],
+   "safety": "Do this in the bathroom, on the balcony or over the kitchen sink, and mop up spills so nobody slips.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Make a tall tower, a ball and a flat dome from equal pieces of dough. Pour water down a sloping plate at each and see which stays put."
+    }
+   ],
+   "record": "Fill in the table. Draw each shape, with an arrow showing which way the water pushed it.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Divide the dough into three equal pieces. 2. Roll one into a tall tower, about as tall as your thumb. 3. Roll one into a ball. 4. Press one into a low flat dome, like an upside-down bowl.",
+     "say": "These three shapes are made of exactly the same amount of dough. Only their shape is different.",
+     "kid": "Make three shapes from equal dough. A tall tower. A ball. A flat dome.",
+     "context": "This is the first step of the Flat or Tall test. You make three shapes from the same dough, to see which one flowing water moves first."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Prop one end of the plate on a book over the sink or bucket. 2. Ask for a guess and a reason. 3. Write the guesses.",
+     "say": "Which shape will the water push away first? Why do you think so?",
+     "kid": "Guess. Which shape will the water push first? Why?",
+     "ask": [
+      {
+       "q": "Why do you think that shape will move first?",
+       "good": [
+        "Because it is tall, so the water hits more of it.",
+        "Because the ball can roll.",
+        "Because the flat one is stuck down."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "1. Press the tower gently onto the middle of the plate. 2. Pour the mug of water down the slope at it, from the top edge, steadily. 3. Watch what happens. 4. Do the same for the ball and the flat dome. 5. Repeat each one.",
+     "say": "Pour steadily from the top of the plate, the same way each time. Watch closely. Did it slide, fall over or stay?",
+     "kid": "Pour water down the plate at each shape. Does it slide, fall or stay?",
+     "parent": "Usually the tower topples or slides first, and the ball rolls away easily. The flat dome usually stays put, because the water slides over it and it has a wide base pressed to the plate. If nothing moves, tip the plate a little more or pour faster. If everything moves, pour more gently."
+    },
+    {
+     "id": "s4",
+     "mins": 7,
+     "do": "Ask your child for claim, evidence and reasoning. Then talk about stream animals.",
+     "say": "What do you think now? What did you see? Why? Now think of a snail or a small fish in a fast hill stream. Which shape helps them?",
+     "kid": "Say what you think, what you saw, and why. Which shape helps a stream snail?",
+     "check": {
+      "t": "mcq",
+      "q": "Which shape stayed put best in the flowing water?",
+      "options": [
+       "The tall tower",
+       "The ball",
+       "The flat dome"
+      ],
+      "a": 2,
+      "why": "The flat dome is low, so the water slides over it, and its wide base grips the plate. The tower catches a lot of the push high up and topples. The ball touches the plate at one small spot, so it rolls. Many stream animals, like snails and some small fish in Western Ghats streams, are flat and press close to the rocks."
+     },
+     "parent": "A good answer: What I think: low, flat shapes stay put best in flowing water. What I saw: the tower fell over, the ball rolled away, and the flat dome stayed. Why: water pushes harder on a tall shape, and slides over a flat one."
+    }
+   ],
+   "context": "In this experiment you pour water at three dough shapes on a sloping plate. It shows why many animals in fast streams are flat.",
+   "setup": [
+    {
+     "art": "Three dough shapes on a table: a tall tower, a round ball and a low flat dome, all the same colour.",
+     "caption": "1. Make three shapes from equal pieces of dough."
+    },
+    {
+     "art": "A steel plate propped on a book over a kitchen sink, with a dough tower on it and a hand pouring water from a mug at the top edge.",
+     "caption": "2. Pour water down the sloping plate at each shape."
+    },
+    {
+     "art": "The tower knocked over, the ball rolled into the sink, and the flat dome still in place with water flowing over it.",
+     "caption": "3. Which shape stayed put?"
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Holes in a Lotus Stem: blow air through it",
+   "mins": 10,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a piece of lotus stem: thamarai thandu or kamal kakdi, fresh or from the market, about 6 cm long",
+     "qty": 1
+    },
+    {
+     "item": "a knife, for a grown-up",
+     "qty": 1
+    },
+    {
+     "item": "a glass of water",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass",
+     "qty": 1,
+     "buy": "b-lens"
+    }
+   ],
+   "safety": "A grown-up cuts the stem. Wash the stem before you put your mouth on it, and use a fresh piece for each person.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Slice a lotus stem and look at its holes. Blow through a piece into water and watch for bubbles."
+    }
+   ],
+   "record": "Draw the slice and its holes. Count the holes.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut a thin slice across the lotus stem. 2. Hold it up to the window. 3. Count the holes.",
+     "say": "This is a lotus stem. It grew in the mud at the bottom of a pond. Look through the slice. What do you see?",
+     "kid": "Hold the slice up to the light. Count the holes. What are they for?",
+     "adult": true,
+     "parent": "You should see a ring of large round holes, with smaller ones between. These are air canals. They run the whole length of the stem.",
+     "context": "This is the first step of an activity with a lotus stem. You look at the holes inside it, which carry air to the parts of the plant in the mud."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Dip one end of the 6 cm piece into the glass of water. 2. Blow gently into the other end. 3. Watch the end under water.",
+     "say": "If these holes are tubes, air should go right through. Blow gently into the top. What comes out under the water?",
+     "kid": "Put one end in the water. Blow gently into the other end. What comes out?",
+     "parent": "Streams of bubbles should come out of the end under water. That shows the holes are open tubes that run along the stem. If no bubbles come, cut a shorter piece, about 3 cm, between two joints.",
+     "check": {
+      "t": "mcq",
+      "q": "Why does a lotus need air tubes in their stem?",
+      "options": [
+       "To make the stem lighter for eating",
+       "To carry air down to their parts in the mud, where there is almost no air",
+       "To hold water for dry days"
+      ],
+      "a": 1,
+      "why": "The lotus's underground stem and roots grow in thick pond mud, which has almost no oxygen. Every living part needs oxygen. The air canals carry air from the leaves above the water down to those parts. Picking 'to hold water' is a fair guess, but the bubbles you blew show the tubes hold air."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Talk about the problem the lotus solves.",
+     "say": "The leaves are up in the air and light. The roots are deep in the airless mud. How does the lotus look after both?",
+     "kid": "The leaves are up high. The roots are deep in mud. How does air reach the roots?",
+     "parent": "If you can't find a lotus stem, look at a photo of one cut across, and blow through a drinking straw into water to see what a tube of air does."
+    }
+   ],
+   "context": "In this activity you look inside a lotus stem and blow air through it. You find the tubes that carry air down to the parts in the mud.",
+   "setup": [
+    {
+     "art": "A slice of lotus stem held up to a window, light shining through its ring of round holes.",
+     "caption": "1. Hold a slice up to the light. Count the holes."
+    },
+    {
+     "art": "A child blowing into a short piece of lotus stem, its other end in a glass of water with bubbles streaming out.",
+     "caption": "2. Blow through a piece into water. Bubbles!"
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Tadpole to Frog: how the breathing changes",
+   "mins": 12,
+   "days": 1,
+   "materials": [
+    {
+     "item": "6 small cards or pieces of paper, and pencils",
+     "qty": 6
+    },
+    {
+     "item": "the unit's frog pictures, or your own drawings",
+     "qty": 1
+    }
+   ],
+   "safety": "None.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Draw the six stages of a frog's life on cards. Put them in order, and mark how the frog breathes at each stage."
+    }
+   ],
+   "record": "Stick the cards in a circle in your notebook and write gills, lungs or skin next to each.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Draw one stage of a frog's life on each card. 1. Eggs in jelly. 2. A tadpole with gills. 3. A tadpole with back legs. 4. A tadpole with four legs. 5. A young frog with a short tail. 6. An adult frog.",
+     "say": "A frog changes their whole body as they grow. Let's draw each stage on a card.",
+     "kid": "Draw six cards. Eggs. Tadpole. Back legs. Four legs. Young frog. Frog.",
+     "context": "This is the first step of a frog life cycle activity. You draw the six stages and find out how the frog breathes at each one."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Shuffle the cards. 2. Ask your child to put them in order. 3. Next to each card, write how that stage breathes.",
+     "say": "Put them in order. Now, at each stage, how does the frog get their oxygen? Gills, lungs or skin?",
+     "kid": "Put the cards in order. How does each one breathe? Gills, lungs or skin?",
+     "check": {
+      "t": "mcq",
+      "q": "A tadpole lives under water all the time. How do they breathe?",
+      "options": [
+       "With lungs, coming up for air",
+       "With gills, like a fish",
+       "They do not need to breathe"
+      ],
+      "a": 1,
+      "why": "A young tadpole has gills and breathes the oxygen dissolved in water, like a fish. Later their gills disappear and lungs grow. Picking 'lungs' fits an adult frog, and older tadpoles do start to gulp air as their lungs grow."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Talk about why frogs stay near water.",
+     "say": "A frog also breathes through their skin. But oxygen can only pass through wet skin. So where must a frog live?",
+     "kid": "A frog breathes through wet skin too. Where must they stay?",
+     "parent": "Good answers: near water, in damp places, in the shade, coming out after rain. A frog also needs water to lay their eggs."
+    }
+   ],
+   "context": "In this activity you put the stages of a frog's life in order, and see how their way of breathing changes.",
+   "setup": [
+    {
+     "art": "Six hand-drawn cards on a table: eggs, a tadpole, a tadpole with legs, a four-legged tadpole, a young frog and an adult frog.",
+     "caption": "1. Draw six stages of a frog's life."
+    },
+    {
+     "art": "The six cards in a circle, with 'gills' written beside the tadpoles and 'lungs and skin' beside the frogs.",
+     "caption": "2. Put them in order. Write how each one breathes."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Where the River Meets the Sea: layers in a glass",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a clear glass",
+     "qty": 1
+    },
+    {
+     "item": "salt: 3 tablespoons",
+     "qty": 1
+    },
+    {
+     "item": "a cup of cold black tea or water coloured with a pinch of turmeric",
+     "qty": 1
+    },
+    {
+     "item": "a spoon",
+     "qty": 1
+    }
+   ],
+   "safety": "Use cold tea, not hot.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Pour coloured fresh water gently onto very salty water and see the layers."
+    }
+   ],
+   "record": "Draw the glass with its layers and label them 'river water' and 'sea water'.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Half fill the glass with water. 2. Stir in 3 tablespoons of salt until most of it dissolves. 3. Let it settle for a minute.",
+     "say": "This salty water is our sea. Now we will pour a river onto it.",
+     "kid": "Fill half a glass with water. Stir in lots of salt. This is the sea.",
+     "context": "This is the first step of an activity about where rivers meet the sea. You pour fresh water onto salty water and watch what happens."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Hold a spoon upside down just above the salty water. 2. Pour the coloured water very slowly onto the back of the spoon. 3. Fill the glass.",
+     "say": "Pour very slowly, onto the back of the spoon. Watch where the coloured river water goes.",
+     "kid": "Pour the coloured water slowly onto the spoon. Where does it go?",
+     "parent": "The coloured fresh water should stay on top as a separate layer, because salty water is heavier than the same amount of fresh water. If it mixes, start again and pour more slowly."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "Talk about real places where this happens.",
+     "say": "In the Kerala backwaters and in Pulicat lake, sea water creeps in under the river water. Why do you think fish there must cope with both?",
+     "kid": "Rivers meet the sea in some places. The water there is a mix. Who could live there?",
+     "check": {
+      "t": "mcq",
+      "q": "Why did the coloured fresh water stay on top?",
+      "options": [
+       "Fresh water is heavier than salty water",
+       "Salty water is heavier than the same amount of fresh water",
+       "Tea never mixes with water"
+      ],
+      "a": 1,
+      "why": "Salt dissolved in water makes it heavier for its size, so salty water sinks under fresh water. Where a river meets the sea, salty water often creeps in along the bottom, under the river water. Picking 'tea never mixes' is not right: stir the glass and the layers mix at once."
+     },
+     "parent": "Water that is a mix of fresh and salt is called brackish. Mangrove trees, crabs and some fish live in it. In Kerala, the Thanneermukkom barrier was built across Vembanad lake to keep salt water out of the rice fields of Kuttanad."
+    }
+   ],
+   "context": "In this activity you pour fresh water gently onto salty water and see them make layers, as they do where a river meets the sea.",
+   "setup": [
+    {
+     "art": "A glass half full of water and a tablespoon of salt being stirred in.",
+     "caption": "1. Make very salty water: the sea."
+    },
+    {
+     "art": "A spoon held upside down over the glass with brown tea trickling onto it, forming a brown layer on top of clear water.",
+     "caption": "2. Pour coloured fresh water slowly onto the back of a spoon."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Map India's Waters: fresh, salty or mixed?",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "an outline map of India, printed or drawn",
+     "qty": 1
+    },
+    {
+     "item": "blue, green and brown colour pencils",
+     "qty": 3
+    }
+   ],
+   "safety": "None.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Mark rivers, lakes, the seas and the brackish places on a map of India, in three colours."
+    }
+   ],
+   "record": "Keep the map in your notebook with a key for the three colours.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "1. Colour the sea around India green and label the Arabian Sea and the Bay of Bengal. 2. Draw the Ganga, Godavari, Krishna and Kaveri in blue. 3. Mark your own nearest river or lake.",
+     "say": "Let's find India's water habitats. Green for salty sea, blue for fresh rivers and lakes.",
+     "kid": "Colour the sea green. Draw four big rivers in blue. Find a river near you.",
+     "context": "This is the first step of a map activity. You mark India's fresh, salty and mixed water habitats."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "Mark three brackish places in brown. 1. The Kerala backwaters. 2. Pulicat lake, on the Tamil Nadu and Andhra border. 3. Chilika lake in Odisha.",
+     "say": "Some water is a mix of fresh and salty. These places are where rivers meet the sea. Mark them in brown.",
+     "kid": "Mark the mixed places in brown. Kerala backwaters. Pulicat. Chilika.",
+     "check": {
+      "t": "mcq",
+      "q": "Chilika lake is joined to the sea and also gets water from rivers. What kind of water is it?",
+      "options": [
+       "Fresh water",
+       "Salt water",
+       "Brackish water, a mix of both"
+      ],
+      "a": 2,
+      "why": "Chilika gets fresh water from rivers and salty water from the Bay of Bengal, so its water is a mix, called brackish. Its saltiness changes with the seasons. Dolphins, crabs and many fish live there."
+     },
+     "parent": "Chilika is a home of the Irrawaddy dolphin. Pulicat lake is famous for flamingos in winter."
+    }
+   ],
+   "context": "In this activity you mark India's water habitats on a map: salty seas, fresh rivers and the mixed places where they meet.",
+   "setup": [
+    {
+     "art": "An outline map of India with green sea around it and blue lines for big rivers.",
+     "caption": "1. Colour the sea green and the rivers blue."
+    },
+    {
+     "art": "The same map with brown dots on the Kerala coast, near Chennai and on the Odisha coast.",
+     "caption": "2. Mark the mixed, brackish places in brown."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Bubbles from a Water Plant: sun or shade?",
+   "mins": 25,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a sprig of hydrilla or another aquarium plant, about 10 cm long",
+     "qty": 1,
+     "buy": "b-hydrilla"
+    },
+    {
+     "item": "2 clear glasses of tap water",
+     "qty": 2
+    },
+    {
+     "item": "a sunny window and a dark cupboard",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass",
+     "qty": 1,
+     "buy": "b-lens"
+    }
+   ],
+   "safety": "None.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Put one water plant sprig in sunlight and one in a dark cupboard. After 20 minutes, look for bubbles."
+    }
+   ],
+   "record": "Write how many bubbles you saw on each sprig, or 'many', 'few' or 'none'.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut the plant into two sprigs of the same size. 2. Put one in each glass, cut end up. 3. Put one glass in bright sunlight and one in a dark cupboard.",
+     "say": "Algae and water plants make oxygen in light. Let's see if we can catch them doing it.",
+     "kid": "Put one sprig in the sun. Put one in a dark cupboard.",
+     "context": "This is the first step of an activity with a water plant. You see whether they give off bubbles of oxygen in sunlight."
+    },
+    {
+     "id": "s2",
+     "mins": 20,
+     "do": "Wait 20 minutes. Then look closely at both sprigs, especially at the cut end and the leaves.",
+     "say": "Look closely at each sprig. Are bubbles coming from them?",
+     "kid": "Look closely. Is the sunny sprig making bubbles? Is the dark one?",
+     "wait": "Wait 20 minutes.",
+     "parent": "In bright sun, tiny bubbles often rise from the cut end or collect on the leaves. They are mostly oxygen. In the dark there are few or none. On a cloudy day, the bubbles are slow. Hydrilla costs very little at an aquarium shop."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Talk about what this means for fish.",
+     "say": "When does the pond get extra oxygen from its plants: in the day or at night?",
+     "kid": "When do plants add oxygen to a pond? Day or night?",
+     "check": {
+      "t": "mcq",
+      "q": "Why did the plant in the cupboard make few or no bubbles?",
+      "options": [
+       "It was cold in the cupboard",
+       "Plants need light to make food and oxygen",
+       "The water in that glass was different"
+      ],
+      "a": 1,
+      "why": "Plants and algae make food and oxygen by photosynthesis, which needs light. In the dark they stop making oxygen, but they keep using it to live. That is why a pond has least oxygen at the end of the night."
+     }
+    }
+   ],
+   "context": "In this activity you put a water plant in sun and in shade and look for bubbles of oxygen.",
+   "setup": [
+    {
+     "art": "Two glasses of water each holding a green sprig of hydrilla, one on a sunny windowsill and one inside a dark cupboard.",
+     "caption": "1. One sprig in the sun, one in the dark."
+    },
+    {
+     "art": "Close-up of a hydrilla sprig in sunlight with a thin stream of tiny bubbles rising from the cut end.",
+     "caption": "2. After 20 minutes: which sprig makes bubbles?"
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Green Water Jar: grow a tiny pond",
+   "mins": 45,
+   "days": 21,
+   "materials": [
+    {
+     "item": "2 clear glass jars or clear plastic bottles with the top cut off",
+     "qty": 2
+    },
+    {
+     "item": "tap water, left open for a day",
+     "qty": 1
+    },
+    {
+     "item": "a pinch of soil from a flower pot, or a spoon of water from a flower vase or pot saucer",
+     "qty": 2
+    },
+    {
+     "item": "a sunny window and a dark cupboard",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass",
+     "qty": 1,
+     "buy": "b-lens"
+    }
+   ],
+   "safety": "Wash your hands after touching the jar water. Never drink it. Cover the jars with a cloth tied with a rubber band, so mosquitoes cannot lay eggs in them.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Set up two jars of water with a pinch of pot soil. Put one in a sunny window and one in a dark cupboard. Cover both with cloth."
+    },
+    {
+     "day": 7,
+     "mins": 10,
+     "what": "Look at both jars. Is either one turning green? Draw them."
+    },
+    {
+     "day": 14,
+     "mins": 10,
+     "what": "Look again. Look closely at the sides with a magnifying glass. Draw them."
+    },
+    {
+     "day": 21,
+     "mins": 10,
+     "what": "Compare the two jars and explain the difference. Then pour the water into a pot plant."
+    }
+   ],
+   "record": "Draw both jars every week and write the colour of the water.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 15,
+     "do": "1. Fill both jars with tap water that has stood open for a day. 2. Add a pinch of pot soil to each. 3. Cover each with a cloth. 4. Put one on a sunny windowsill and one in a dark cupboard.",
+     "say": "We are making two tiny ponds. One gets sunlight and one gets none. Let's see which one comes alive with green.",
+     "kid": "Fill two jars. Add a pinch of soil. Cover them. One goes in the sun. One goes in the dark.",
+     "parent": "Leaving tap water open for a day lets some of its chlorine escape. The soil or vase water brings in algae too small to see.",
+     "context": "This is the first step of the Green Water Jar, a three-week project. You grow algae in a jar of water in sunlight."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Look at both jars after one week. Draw them.",
+     "say": "Has either jar changed colour? Look at the side that faces the window.",
+     "kid": "Look at both jars. Any green? Draw them.",
+     "wait": "Come back in a week."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "After two weeks, look closely at the sides with a magnifying glass. Draw them.",
+     "say": "Look closely at the glass. Can you see green specks or threads?",
+     "kid": "Use the magnifying glass. Can you see green specks?",
+     "wait": "Come back in a week.",
+     "parent": "The sunny jar usually turns green within two or three weeks, often first on the side facing the light. If it is still clear after three weeks, add a spoon of water from an old flower vase, an aquarium or a pot saucer, and wait another week."
+    },
+    {
+     "id": "s4",
+     "mins": 10,
+     "do": "Compare the jars after three weeks.",
+     "say": "Why did the sunny jar turn green, and the dark one stay clear?",
+     "kid": "Why did only the sunny jar turn green?",
+     "check": {
+      "t": "mcq",
+      "q": "The jar in the sun turned green. The jar in the dark stayed clear. Why?",
+      "options": [
+       "The sun painted the water",
+       "Algae grew in the sunny jar, because they need light to make food",
+       "The dark jar had no water"
+      ],
+      "a": 1,
+      "why": "Algae make their own food from light, so they grew and multiplied in the sunny jar. In the dark, they could not make food. That is why the top of a pond, where light reaches, is where most algae live."
+     },
+     "parent": "Pour the green water into a potted plant, and wash the jars."
+    }
+   ],
+   "context": "In this three-week project you grow algae in a jar of water, to see what a pond's tiniest food makers need.",
+   "setup": [
+    {
+     "art": "Two clear jars of water covered with cloth, one on a sunny windowsill and one inside a cupboard.",
+     "caption": "1. Two jars: one in the sun, one in the dark."
+    },
+    {
+     "art": "After three weeks, the sunny jar's water is green with algae on its window side, and the dark jar is clear.",
+     "caption": "2. After three weeks, compare them."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Put Air Back in the Pond",
+   "mins": 30,
+   "problem": "On hot, still nights, a pond can run short of oxygen. Design a way to mix more air into a bucket of still water, using only things from home.",
+   "constraints": [
+    "Use only things from home.",
+    "No electric pumps.",
+    "Show how your idea breaks the water's surface or pushes air into it."
+   ],
+   "materials": [
+    "a bucket half full of water",
+    "a plastic bottle",
+    "a drinking straw",
+    "a mug",
+    "a pin, for a grown-up to poke holes"
+   ],
+   "general": [
+    "Pour water from a height, like a waterfall, so it splashes.",
+    "Stir the water hard, so the surface keeps breaking.",
+    "Blow air into the water through a straw."
+   ],
+   "creative": [
+    "Make a fountain: a grown-up pokes holes in a bottle cap, then you squeeze the bottle so water sprays over the bucket.",
+    "Make steps from upturned bowls, so water tumbles down like a stream over stones.",
+    "Fan the surface hard, so ripples spread across it."
+   ],
+   "your_turn": "Now invent your own way to mix air into still water. Draw it, try it, and explain why it adds air.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Look at the still water in the bucket. Talk about where a pond's oxygen comes in.",
+     "say": "Air dissolves into water where the water touches the air. How could we make more water touch the air?",
+     "kid": "Air gets in where water touches air. How can we make more water touch air?",
+     "context": "This is the first step of the Put Air Back challenge. You design a way to mix air into still water."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Draw three ideas together.",
+     "say": "Let's draw three ideas before we build anything.",
+     "kid": "Draw three ideas for mixing air into the water."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "Build and try the best idea over the bucket. Watch for splashing, foam and bubbles going into the water.",
+     "say": "Try it. Does the surface break? Do bubbles go into the water?",
+     "kid": "Try your idea. Do you see splashes and bubbles?",
+     "adult": true,
+     "parent": "We can't measure oxygen at home, so judge by how much the surface breaks and how many bubbles are pushed under. Fountains and waterfalls in lakes and aquariums work in exactly this way."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Read the usual and creative solutions together, then invent one more.",
+     "say": "Here's how people add air to ponds and fish tanks. Can you think of a new way?",
+     "kid": "Read the other ideas. Can you invent a new one?"
+    }
+   ],
+   "context": "This is a design challenge: find ways to mix air into still water, the way fountains and waterfalls do.",
+   "setup": [
+    {
+     "art": "A bucket of still water on a balcony, with a bottle, a straw and a mug beside it.",
+     "caption": "1. Look at the still water. How can air get in?"
+    },
+    {
+     "art": "A child squeezing a bottle with holes in its cap, spraying a fountain over the bucket, with bubbles in the water.",
+     "caption": "2. Build your idea and watch the surface break."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "The Rising Pond: keep a leaf on top",
+   "mins": 30,
+   "problem": "Water lilies grow from the bottom of a pond, and their leaves float on top. In the monsoon, the pond rises. Design a paper leaf, tied to a weight at the bottom of a bucket, that stays on top as the water rises from 5 cm deep to 15 cm deep.",
+   "constraints": [
+    "The leaf must be tied to a weight on the bottom, like a real root.",
+    "Start with water 5 cm deep and finish with water at least 15 cm deep.",
+    "The leaf must stay floating flat on top the whole time."
+   ],
+   "materials": [
+    "a bucket",
+    "a leaf cut from a foam tray, a milk-packet plastic or a bottle cap",
+    "thread",
+    "a rubber band",
+    "a stone or a steel spoon as a weight",
+    "a mug for adding water"
+   ],
+   "general": [
+    "Use a long, loose thread, so there is spare stem when the water rises, like a water lily.",
+    "Use a stretchy rubber band as the stem.",
+    "Coil the thread, so it can uncoil."
+   ],
+   "creative": [
+    "Tie on a small float halfway up the stem, so the stem stands up.",
+    "Make the leaf from two layers with air between, so it floats higher.",
+    "Copy the lotus: a stiff stalk that holds the leaf above the water, with spare length coiled at the bottom."
+   ],
+   "your_turn": "Now invent your own leaf and stem. Test it as you pour in water. Does your leaf stay on top?",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Tie a short thread from the weight to the leaf. 2. Put it in 5 cm of water. 3. Pour in more water and watch.",
+     "say": "This leaf has a short stem. What happens when the pond rises?",
+     "kid": "Tie a leaf to a weight with short thread. Add water. What happens?",
+     "context": "This is the first step of the Rising Pond challenge. You design a leaf that stays on the surface as the water rises."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Draw three ideas together.",
+     "say": "The water lily has the same problem every monsoon. Let's draw three ways to solve it.",
+     "kid": "Draw three ideas for a stem that grows with the water."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "Build the best idea. Test it from 5 cm to 15 cm deep. Improve it and test again.",
+     "say": "Pour slowly. Is your leaf still floating flat on top?",
+     "kid": "Build it. Pour water slowly. Does the leaf stay on top?",
+     "parent": "The long loose thread works but can tangle. The rubber band stretches but can pull the leaf under if it is too short. Any idea that keeps the leaf flat on top is a success."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Read the usual and creative solutions, then invent one more.",
+     "say": "Real water lilies have long, bendy leaf stalks. Lotus leaves stand on stiff stalks above the water. Which is your idea more like?",
+     "kid": "Read the other ideas. Is yours like a water lily or a lotus?"
+    }
+   ],
+   "context": "This is a design challenge about a real problem for water plants: keeping their leaves in the light when the water rises.",
+   "setup": [
+    {
+     "art": "A bucket with 5 cm of water, a paper leaf floating, tied with thread to a stone at the bottom.",
+     "caption": "1. Tie a leaf to a weight and float it."
+    },
+    {
+     "art": "The same bucket with deeper water and the leaf still floating, its thread now long and straight.",
+     "caption": "2. Add water. Does your leaf stay on top?"
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "Why Do Bubbles Form In A Glass Of Water?",
+   "channel": "ScienceABC",
+   "youtube": "RJPDUqS_mGc",
+   "mins": 4,
+   "why": "Explains the bubbles from the Cold Glass Test: air dissolved in water comes out as the water warms.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Length and content not watched from here: a parent should preview it."
+  },
+  {
+   "title": "How Do Fish Breathe Underwater?",
+   "channel": "Colossal Cranium",
+   "youtube": "x9E_pvISytw",
+   "mins": 4,
+   "why": "Shows how water flows over a fish's gills and how oxygen passes into their blood.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Length and content not watched from here: a parent should preview it."
+  },
+  {
+   "title": "The Insanely Important World of Phytoplankton",
+   "channel": "NASA Goddard",
+   "youtube": "1xl5Z1d3wcQ",
+   "mins": 4,
+   "why": "For the parent and older children: tiny algae in the sea, seen from space, and why they matter for the oxygen we breathe.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Length and content not watched from here: a parent should preview it."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which of these is a water habitat?",
+   "opts": [
+    "A sand dune",
+    "A temple tank",
+    "A rooftop",
+    "A cupboard"
+   ],
+   "a": 1,
+   "why": "A temple tank holds water where fish, frogs and lotus live. The others are not water habitats.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which water is salty?",
+   "opts": [
+    "A village pond",
+    "The Kaveri river",
+    "The Arabian Sea",
+    "Rain"
+   ],
+   "a": 2,
+   "why": "Sea water is salty, about 35 grams of salt in every litre. Ponds, rivers and rain are fresh.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Priya warms three glasses of water: fridge-cold tap water, fridge-cold boiled water, and room-temperature tap water. Which grows the most bubbles?",
+   "opts": [
+    "The fridge-cold tap water",
+    "The fridge-cold boiled water",
+    "The room-temperature tap water"
+   ],
+   "a": 0,
+   "why": "Cold water holds the most dissolved air, so most comes out when it warms. Boiling had already driven the air out of the boiled water.",
+   "outcome": 1,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "What were the tiny bubbles on the inside of the warmed glass?",
+   "opts": [
+    "Steam",
+    "Air that had been dissolved in the water",
+    "Soap",
+    "Germs"
+   ],
+   "a": 1,
+   "why": "Nothing was added. The air was dissolved in the water all along and came out as the water warmed.",
+   "outcome": 1,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "What does a fish breathe?",
+   "opts": [
+    "The water itself",
+    "Oxygen dissolved in the water",
+    "Air from above the water, always",
+    "Nothing"
+   ],
+   "a": 1,
+   "why": "A fish's gills take the dissolved oxygen out of the water. Picking 'the water itself' is a very common mistake.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why might fish gulp at a pond's surface on a hot morning?",
+   "opts": [
+    "They are hungry",
+    "The water is short of oxygen",
+    "They want to see the sun",
+    "They are playing"
+   ],
+   "a": 1,
+   "why": "Warm water holds less oxygen, and at night algae make none. By morning the oxygen is low, so fish gulp the water at the top.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "How does a tadpole breathe?",
+   "opts": [
+    "With lungs",
+    "With gills",
+    "Through their tail only",
+    "They do not breathe"
+   ],
+   "a": 1,
+   "why": "A tadpole breathes dissolved oxygen with gills. As they become a frog, lungs grow and the gills go.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Why must a frog's skin stay wet?",
+   "opts": [
+    "To look shiny",
+    "Because they breathe through their skin, and oxygen passes only through wet skin",
+    "To stay cool only",
+    "To keep insects away"
+   ],
+   "a": 1,
+   "why": "A frog breathes partly through their skin. Dry skin cannot take in oxygen.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "What are the holes in a lotus stem for?",
+   "opts": [
+    "Storing water",
+    "Carrying air down to the parts in the mud",
+    "Letting fish through",
+    "Making it taste good"
+   ],
+   "a": 1,
+   "why": "Pond mud has almost no oxygen. Air canals carry air from the leaves to the underground stem and roots.",
+   "outcome": 4,
+   "how": "a1"
+  },
+  {
+   "t": "mcq",
+   "p": "When do algae make oxygen?",
+   "opts": [
+    "Only at night",
+    "Only in light",
+    "All the time, equally",
+    "Never"
+   ],
+   "a": 1,
+   "why": "Algae photosynthesise, which needs light. In the dark they make none but still use some.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A lake gets sewage flowing into it, and it turns bright green. Why do fish start to die?",
+   "opts": [
+    "The green colour hurts their eyes",
+    "Far too many algae grow, then die and rot, and the rotting uses up the oxygen",
+    "The lake gets too cold",
+    "The fish eat too much"
+   ],
+   "a": 1,
+   "why": "Sewage feeds an algal bloom. When the algae die, bacteria rot them and use up the oxygen fish need.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Arjun puts cucumber slices in very salty water. Why do they go floppy?",
+   "opts": [
+    "Salt makes them heavy",
+    "Water moves out of them into the salty water",
+    "They soak up too much water",
+    "They get cold"
+   ],
+   "a": 1,
+   "why": "Water moves from the less salty side to the more salty side. The cucumber lost water and went limp.",
+   "outcome": 6,
+   "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "Why can't most river fish live in the sea?",
+   "opts": [
+    "The sea is too big",
+    "The salty sea would pull water out of their bodies",
+    "There is no food in the sea",
+    "The sea is too cold"
+   ],
+   "a": 1,
+   "why": "A river fish's body is much less salty than the sea, so they would keep losing water, like the cucumber.",
+   "outcome": 6
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Life in Water (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which of these is a water habitat?",
+     "opts": [
+      "A desert",
+      "A pond",
+      "A tree trunk",
+      "A cave"
+     ],
+     "a": 1,
+     "why": "A pond is a water habitat, a home in water for fish, frogs, lotus and algae. A desert, a tree trunk and a cave are land habitats."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these water habitats. Is the water fresh or salty?",
+     "cats": [
+      "Fresh",
+      "Salty"
+     ],
+     "items": [
+      [
+       "a village pond",
+       "Fresh"
+      ],
+      [
+       "the Bay of Bengal",
+       "Salty"
+      ],
+      [
+       "the Kaveri river",
+       "Fresh"
+      ],
+      [
+       "the Arabian Sea",
+       "Salty"
+      ],
+      [
+       "a temple tank",
+       "Fresh"
+      ],
+      [
+       "rain water",
+       "Fresh"
+      ]
+     ],
+     "a": "see items",
+     "why": "Ponds, rivers, tanks and rain are fresh water, with very little salt. The seas are salt water."
+    },
+    {
+     "t": "truefalse",
+     "p": "A fish breathes the water itself.",
+     "a": false,
+     "why": "False. A fish breathes the oxygen dissolved in the water. Its gills take that oxygen out of the water."
+    },
+    {
+     "t": "truefalse",
+     "p": "Cold water holds more dissolved air than warm water.",
+     "a": true,
+     "why": "True. That is why the fridge-cold glass grew the most bubbles as it warmed up.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Meena fills a glass with cold water from the fridge and leaves it on the table. An hour later, tiny bubbles cover the inside of the glass. What are the bubbles?",
+     "opts": [
+      "Soap left in the glass",
+      "Air that was dissolved in the water",
+      "Steam",
+      "Tiny fish eggs"
+     ],
+     "a": 1,
+     "why": "The water held dissolved air. As it warmed up, it could not hold it all, so some came out as bubbles. Steam comes only from very hot water.",
+     "how": "e1"
+    },
+    {
+     "t": "fill",
+     "p": "A fish takes oxygen out of the water with their ____.",
+     "a": [
+      "gills"
+     ],
+     "why": "Gills have many thin red folds full of blood. Oxygen passes from the water into the blood there."
+    },
+    {
+     "t": "fill",
+     "p": "A young frog that lives in water and has a tail is called a ____.",
+     "a": [
+      "tadpole"
+     ],
+     "why": "A tadpole breathes with gills. They grow legs and lungs, and their tail shrinks, as they become a frog."
+    },
+    {
+     "t": "mcq",
+     "p": "A grown-up frog breathes with their lungs and with their...",
+     "opts": [
+      "tail",
+      "wet skin",
+      "eyes",
+      "toes"
+     ],
+     "a": 1,
+     "why": "Oxygen passes through a frog's thin skin, but only when the skin is wet. That is why frogs stay near water."
+    },
+    {
+     "t": "mcq",
+     "p": "Why does a lotus stem have holes running through it?",
+     "opts": [
+      "To make it float away",
+      "To carry air down to the parts in the mud",
+      "To store water",
+      "So fish can swim through"
+     ],
+     "a": 1,
+     "why": "Pond mud has almost no oxygen. The holes are air canals that carry air from the leaves down to the underground stem and roots.",
+     "how": "a1"
+    },
+    {
+     "t": "match",
+     "p": "Match each living thing to how they get their oxygen.",
+     "pairs": [
+      [
+       "Fish",
+       "gills, from the water"
+      ],
+      [
+       "Tadpole",
+       "gills, from the water"
+      ],
+      [
+       "Adult frog",
+       "lungs and wet skin"
+      ],
+      [
+       "Lotus roots",
+       "air sent down through the stem"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each living thing in a pond has their own way of getting oxygen."
+    },
+    {
+     "t": "truefalse",
+     "p": "Algae make food and oxygen in sunlight.",
+     "a": true,
+     "why": "True. Algae photosynthesise like plants. In the dark they stop making oxygen."
+    },
+    {
+     "t": "mcq",
+     "p": "Ravi puts cucumber slices in very salty water. After 20 minutes, what happens to them?",
+     "opts": [
+      "They go stiff and hard",
+      "They go floppy",
+      "They turn blue",
+      "Nothing happens"
+     ],
+     "a": 1,
+     "why": "Water moves out of the cucumber into the saltier water, so the slices go limp. Sea water would do the same to a river fish.",
+     "how": "e2"
+    },
+    {
+     "t": "order",
+     "p": "Put a frog's life in order.",
+     "items": [
+      "Frog",
+      "Eggs in jelly",
+      "Tadpole with legs",
+      "Tadpole"
+     ],
+     "a": [
+      "Eggs in jelly",
+      "Tadpole",
+      "Tadpole with legs",
+      "Frog"
+     ],
+     "why": "A frog hatches from an egg as a tadpole, grows legs, loses their tail and becomes a frog.",
+     "how": "a2"
+    },
+    {
+     "t": "write",
+     "p": "Why do fish in a pond sometimes gulp at the surface just before sunrise? Use the words 'algae' and 'oxygen'.",
+     "lines": 3,
+     "a": "At night, algae cannot make oxygen, but everything in the pond keeps using it. By sunrise the oxygen is lowest, so fish gulp the water at the top, which touches the air.",
+     "why": "A full answer says that algae stop making oxygen at night and that the oxygen gets used up."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a pond. Show a lotus, a frog, a fish and some algae, each in the part of the pond where they live.",
+     "a": "Lotus leaves above the water with roots in the mud, a frog at the edge, a fish in the water and algae near the top, where the light is.",
+     "why": "Each living thing lives where they get what they need.",
+     "art": "A blank outline of a pond with its bank, water and muddy bottom."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Flat or Tall test, which dough shape stayed put when water was poured at it?",
+     "opts": [
+      "The tall tower",
+      "The ball",
+      "The flat dome"
+     ],
+     "a": 2,
+     "why": "The flat dome is low, so the water slides over it, and its wide base grips the plate. Many stream animals are flat for this reason.",
+     "how": "e3"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Breathing Under Water (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "In the Cold Glass Test, why did glass B, the boiled water, grow almost no bubbles?",
+     "opts": [
+      "Boiling made the water heavier",
+      "Boiling had already driven most of the air out",
+      "Boiled water is too clean",
+      "Glass B was a different shape"
+     ],
+     "a": 1,
+     "why": "Boiling drives dissolved air out of water. The full, capped bottle stopped much air dissolving back in. So there was little air left to come out.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "In the Cold Glass Test, what was the one thing that changed between the three glasses?",
+     "opts": [
+      "The size of the glass",
+      "The warm bath",
+      "The water inside",
+      "The time we waited"
+     ],
+     "a": 2,
+     "why": "In a fair test, only one thing changes. Here it was the water inside: cold tap, cold boiled or room-temperature tap.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "A fish can breathe in air, as long as their gills stay in the air.",
+     "a": false,
+     "why": "False. Out of water, a fish's thin gill folds stick together and stop working, so most fish cannot breathe in air. A few, like the murrel, have extra air-breathing parts."
+    },
+    {
+     "t": "mcq",
+     "p": "Water holds about how much oxygen compared with the same amount of air?",
+     "opts": [
+      "The same",
+      "About twice as much",
+      "About 30 times less",
+      "No oxygen at all"
+     ],
+     "a": 2,
+     "why": "Water holds about 30 times less oxygen than the same amount of air. That is why fish must pass so much water over their gills."
+    },
+    {
+     "t": "mcq",
+     "p": "At what time of day does a green pond usually have least oxygen?",
+     "opts": [
+      "At noon",
+      "In the afternoon",
+      "Just before sunrise",
+      "At sunset"
+     ],
+     "a": 2,
+     "why": "Algae make oxygen only in light. All night, everything uses oxygen and none is made, so it is lowest just before sunrise."
+    },
+    {
+     "t": "fill",
+     "p": "When far too many algae grow in a lake, often because of sewage, it is called an algal ____.",
+     "a": [
+      "bloom"
+     ],
+     "why": "In an algal bloom the water turns thick and green. When the algae die and rot, the oxygen can run out."
+    },
+    {
+     "t": "mcq",
+     "p": "A lake near a city turns bright green and many fish die. What is the most likely cause?",
+     "opts": [
+      "Too much rain",
+      "Sewage or fertiliser feeding too many algae",
+      "Too many lotus flowers",
+      "The lake is too deep"
+     ],
+     "a": 1,
+     "why": "Sewage and fertiliser feed algae. When the huge bloom dies, bacteria rot it and use up the oxygen the fish need."
+    },
+    {
+     "t": "truefalse",
+     "p": "Salty water is heavier than the same amount of fresh water.",
+     "a": true,
+     "why": "True. That is why fresh water floated on top of salty water in the layers activity.",
+     "how": "a3"
+    },
+    {
+     "t": "mcq",
+     "p": "A sea fish keeps losing water to the salty sea. What do they do about it?",
+     "opts": [
+      "They stop breathing",
+      "It drinks sea water and pushes the salt out through its gills",
+      "They swim to a river every night",
+      "They grow a shell"
+     ],
+     "a": 1,
+     "why": "Sea fish drink sea water to replace the water they lose. Their gills push the extra salt back out."
+    },
+    {
+     "t": "mcq",
+     "p": "A river fish has the opposite problem. Water keeps soaking into their body. What do they do?",
+     "opts": [
+      "They make a lot of very watery urine",
+      "They drink more water",
+      "They eat salt",
+      "They swim faster"
+     ],
+     "a": 0,
+     "why": "Fresh water keeps soaking into a river fish, so their body gets rid of the extra as lots of very watery urine."
+    },
+    {
+     "t": "fill",
+     "p": "Water that is a mix of fresh and salt water, where a river meets the sea, is called ____ water.",
+     "a": [
+      "brackish"
+     ],
+     "why": "The Kerala backwaters, Pulicat lake and Chilika lake are partly brackish."
+    },
+    {
+     "t": "mcq",
+     "p": "Why do frogs come out after rain?",
+     "opts": [
+      "The rain washes their food away",
+      "The air is damp, so their skin stays wet for breathing",
+      "They like the sound",
+      "They are cold"
+     ],
+     "a": 1,
+     "why": "A frog breathes partly through their skin, which must stay wet. Damp air after rain lets it move about without drying out."
+    },
+    {
+     "t": "match",
+     "p": "Match each problem to the feature that helps.",
+     "pairs": [
+      [
+       "Roots in airless mud",
+       "air canals in the lotus stem"
+      ],
+      [
+       "Fast flowing water",
+       "a flat body that hugs rocks"
+      ],
+      [
+       "Little oxygen in water",
+       "gills with many thin folds"
+      ],
+      [
+       "Moving through water easily",
+       "a streamlined body"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each feature solves a problem that the living thing has in water."
+    },
+    {
+     "t": "write",
+     "p": "Explain why fish in the story of Kavya's pond stopped gulping at dawn after the rain.",
+     "lines": 3,
+     "a": "The rain cooled the water, and cool water holds more oxygen. The wind and splashing rain mixed more air into the water.",
+     "why": "Two reasons are best: cooler water and air mixed in by waves and rain."
+    },
+    {
+     "t": "mcq",
+     "p": "In the water plant activity, the sprig in the cupboard made few or no bubbles. What does this tell us?",
+     "opts": [
+      "Plants make oxygen only in light",
+      "Plants hate cupboards",
+      "Water in cupboards has no air",
+      "The sprig was dead"
+     ],
+     "a": 0,
+     "why": "Plants and algae need light to photosynthesise. In the dark they make no oxygen.",
+     "how": "a5"
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Water Puzzles and Big Ideas (challenge)",
+   "tier": "challenge",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "A fish tank sits in a sunny window in May, and the fish keep gulping at the top. What is the best fix?",
+     "opts": [
+      "Add more fish",
+      "Move it into the shade and add an air pump or more plants",
+      "Add salt",
+      "Turn off the light at night"
+     ],
+     "a": 1,
+     "why": "Shade keeps the water cooler, so it holds more oxygen. A pump mixes in air, and plants add oxygen in the day."
+    },
+    {
+     "t": "mcq",
+     "p": "Two ponds are the same size. Pond A is clear and cool under trees. Pond B is shallow, sunny and very green. Which is more likely to run short of oxygen at dawn?",
+     "opts": [
+      "Pond A",
+      "Pond B",
+      "Both the same"
+     ],
+     "a": 1,
+     "why": "Pond B is warmer, so it holds less oxygen. Its many algae use up oxygen all night. So at dawn it has the least."
+    },
+    {
+     "t": "mcq",
+     "p": "Glass A had cold tap water and grew many bubbles. Glass C had room-temperature tap water and grew fewer. What does this show?",
+     "opts": [
+      "Cold water held more air to begin with",
+      "Glass C was dirty",
+      "Tap water has no air",
+      "Bubbles come from the glass"
+     ],
+     "a": 0,
+     "why": "Both glasses were warmed the same way. The cold water started with more dissolved air, so more came out.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "A warm aquarium can hold more fish than a cool one of the same size.",
+     "a": false,
+     "why": "False. Warm water holds less oxygen, so a warm tank can support fewer fish, not more."
+    },
+    {
+     "t": "mcq",
+     "p": "Why do fish in a river usually face upstream?",
+     "opts": [
+      "To see their friends",
+      "So water flows into their mouths and over their gills the right way",
+      "Because they are lost",
+      "To keep warm"
+     ],
+     "a": 1,
+     "why": "Facing the current, water flows in at the mouth and out over the gills. Facing the other way, water would push against the gill covers."
+    },
+    {
+     "t": "write",
+     "p": "A girl says, 'Green water is always bad for fish.' Is she right? Explain.",
+     "lines": 3,
+     "a": "Not always. Some algae feed the animals in a pond and make oxygen in the day. The trouble comes when far too many grow, and they use up oxygen at night and when they rot.",
+     "why": "A good answer says some algae are good and too many are harmful."
+    },
+    {
+     "t": "mcq",
+     "p": "The hilsa lives in the sea and lays their eggs in rivers. What must their body be able to do?",
+     "opts": [
+      "Live in both salty and fresh water",
+      "Breathe air",
+      "Climb waterfalls",
+      "Live without oxygen"
+     ],
+     "a": 0,
+     "why": "Moving from the sea to a river, the hilsa must cope with very different saltiness. Most fish cannot do this."
+    },
+    {
+     "t": "mcq",
+     "p": "Kavya's Thatha said the murrel did not mind the shortage of oxygen. Why?",
+     "opts": [
+      "They sleep at night",
+      "They can breathe air at the surface",
+      "They eat algae",
+      "They live in the mud"
+     ],
+     "a": 1,
+     "why": "The murrel has extra air-breathing parts above its gills, so it can gulp air when the water is short of oxygen."
+    },
+    {
+     "t": "write",
+     "p": "A lotus leaf stands high above the water. The plant's roots are in mud. Explain how air gets from the leaf to the roots.",
+     "lines": 3,
+     "a": "Air goes into the leaf and travels down long air canals inside the leaf stalk and underground stem to the roots in the mud.",
+     "why": "The answer should name the air canals, the tubes you saw as holes in the stem."
+    },
+    {
+     "t": "mcq",
+     "p": "Tiny algae in the sea make about how much of the oxygen made on Earth each year?",
+     "opts": [
+      "Almost none",
+      "About a tenth",
+      "About half",
+      "All of it"
+     ],
+     "a": 2,
+     "why": "Algae and other tiny ocean life make about half. Land plants make most of the rest."
+    },
+    {
+     "t": "order",
+     "p": "Put the pond's day in order, starting at sunset.",
+     "items": [
+      "Just before sunrise: oxygen lowest",
+      "Noon: algae making lots of oxygen",
+      "Sunset: algae stop making oxygen",
+      "All night: everything keeps using oxygen"
+     ],
+     "a": [
+      "Sunset: algae stop making oxygen",
+      "All night: everything keeps using oxygen",
+      "Just before sunrise: oxygen lowest",
+      "Noon: algae making lots of oxygen"
+     ],
+     "why": "Oxygen falls all night, is lowest at dawn, and rises again once the sun shines on the algae.",
+     "how": "g2"
+    },
+    {
+     "t": "mcq",
+     "p": "Why can't we drink sea water when we are thirsty?",
+     "opts": [
+      "It is too cold",
+      "It is so salty that it pulls more water out of our body",
+      "It has fish in it",
+      "It is too heavy"
+     ],
+     "a": 1,
+     "why": "Sea water is saltier than our blood. Drinking it makes our body lose water to get rid of the salt, just as the cucumber lost water.",
+     "how": "e2"
+    },
+    {
+     "t": "truefalse",
+     "p": "The Cold Glass Test shows that nothing at all is hidden in clear water.",
+     "a": false,
+     "why": "False. The bubbles that appeared showed that air was dissolved in the water, out of sight.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Aristotle thought fish do not breathe. How did Humboldt and Provençal show he was wrong?",
+     "lines": 3,
+     "a": "They kept fish in closed jars of water and measured the gases. The oxygen dissolved in the water went down and carbon dioxide went up, so the fish were breathing.",
+     "why": "The key is measuring the gases in the water before and after."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a fish and show with arrows how water goes in and out as they breathe.",
+     "a": "An arrow into the mouth, over the gills, and out under the gill cover.",
+     "why": "Water enters the mouth and leaves over the gills, where oxygen passes into the blood.",
+     "art": "A blank outline of a fish from the side."
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Aquarium air pumps and filters bubble air into fish tanks.",
+  "Fish farmers in Andhra Pradesh, West Bengal and Kerala run paddle wheels in their ponds at night to splash air in.",
+  "Fountains and aerators in city lakes mix air into the water.",
+  "Scientists measure dissolved oxygen to check whether a river or lake is healthy.",
+  "Sewage treatment plants clean waste water before it reaches rivers, so it does not feed algal blooms.",
+  "Barriers like the Thanneermukkom bund in Kerala keep salt water out of rice fields.",
+  "Lotus stems, lotus seeds and water chestnuts are foods grown in ponds.",
+  "Divers and submarines carry their own air, because people cannot take oxygen out of water."
+ ],
+ "spotted": [
+  {
+   "text": "Tiny bubbles on the inside of a glass of cold water left on the table.",
+   "art": "A glass of water on a dining table with tiny silver bubbles on its inside."
+  },
+  {
+   "text": "A ring of holes in a slice of thamarai thandu or kamal kakdi on your plate.",
+   "art": "A plate with fried lotus stem slices, each showing a ring of holes."
+  },
+  {
+   "text": "Fish mouths opening and closing in an aquarium at a pet shop or a restaurant.",
+   "art": "A fish in an aquarium with their mouth and gill covers open."
+  },
+  {
+   "text": "Frogs croaking after the first monsoon rain, from puddles, drains and fields.",
+   "art": "A frog with puffed-out throat sacs croaking in a rain puddle at night."
+  },
+  {
+   "text": "Green slime on the steps of a temple tank, or green water in an old flower vase.",
+   "art": "The green, slippery stone steps of a temple tank."
+  },
+  {
+   "text": "Lotus leaves standing above the water in a temple tank or a lake.",
+   "art": "Round lotus leaves on tall stalks standing above a pond."
+  },
+  {
+   "text": "Sea fish and river fish side by side at the fish market: mackerel and sardines next to rohu and catla.",
+   "art": "A fish market stall with sea fish on one side and river fish on the other, labelled."
+  },
+  {
+   "text": "A fountain splashing in a city lake or a park pond.",
+   "art": "A fountain in the middle of a city lake, with ducks nearby."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "What do fish feel?",
+   "why_open": "Fish react to harm and learn to avoid it, but scientists still argue about what they feel inside, because nobody can ask a fish."
+  },
+  {
+   "q": "How many kinds of tiny algae live in the sea?",
+   "why_open": "Scientists keep finding new kinds. Many are too small to tell apart without special tools, and most of the sea has never been sampled."
+  },
+  {
+   "q": "How will warmer seas and lakes change the life in them?",
+   "why_open": "Warmer water holds less oxygen. Scientists are measuring how much the oxygen in the sea is falling, and what that will do, but nobody knows the full answer yet."
+  },
+  {
+   "q": "How did the first animals move from water onto land?",
+   "why_open": "Fossils show fish with leg-like fins about 375 million years ago, but many steps of the story are still missing."
+  },
+  {
+   "q": "How many frog species live in India?",
+   "why_open": "Scientists keep finding new frogs in the Western Ghats and the north-east, often a dozen or more in a single year."
+  }
+ ],
+ "ask_kids": [
+  "Is there air in this glass of water? How could we find out?",
+  "Why do you think fish at the market have red gills when they are fresh?",
+  "Where do you think the frogs go in the dry months?",
+  "Would you rather be a fish in a cool river or in a hot pond? Why?",
+  "What do you think the lotus does when the pond rises in the monsoon?",
+  "Is this fish from the sea or from a river? How could we find out?",
+  "Why does an aquarium have a bubbling pump?",
+  "If you were a tadpole, what would you need most?"
+ ],
+ "jokes": [
+  {
+   "j": "Why are fish so clever?",
+   "a": "Because they live in schools."
+  },
+  {
+   "j": "What did the sea say to the beach?",
+   "a": "Nothing. It just waved."
+  },
+  {
+   "j": "What do you call a fish with no eyes?",
+   "a": "A fsh."
+  },
+  {
+   "j": "Why did the frog take the bus to work?",
+   "a": "His car got toad away."
+  },
+  {
+   "j": "What is a frog's favourite drink?",
+   "a": "Croak-a-cola."
+  },
+  {
+   "j": "Why don't fish play cricket?",
+   "a": "They are afraid of the net."
+  },
+  {
+   "j": "What did the lotus say to the frog?",
+   "a": "Leaf me alone, I'm trying to stand up."
+  },
+  {
+   "j": "Where do fish keep their money?",
+   "a": "In a river bank."
+  },
+  {
+   "j": "Why was the tadpole lonely?",
+   "a": "Because they were newt to the pond."
+  },
+  {
+   "j": "What do frogs eat with their dosa?",
+   "a": "French flies."
+  },
+  {
+   "j": "Why did the glass of water start bubbling?",
+   "a": "It was letting off some air."
+  },
+  {
+   "j": "What lives in the sea and carries lots of people?",
+   "a": "An octobus."
+  },
+  {
+   "j": "What part of a fish weighs the most?",
+   "a": "Its scales."
+  },
+  {
+   "j": "What did one algae say to the other on a sunny day?",
+   "a": "Let's make some oxygen while the sun shines."
+  },
+  {
+   "j": "Why did the crab never share?",
+   "a": "Because they were shellfish."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the Cold Glass Test, Lakshmi counted the bubbles on the bottom of each glass after 15 minutes. Glass A had 48 bubbles. Glass C had 12 bubbles. How many times as many bubbles did glass A have?",
+   "answer": "4 times as many.",
+   "explain": "Glass A had 48 bubbles and glass C had 12. 48 divided by 12 is 4. So glass A had 4 times as many. Check: 12 + 12 + 12 + 12 = 48.",
+   "math_unit": "math.division.sharing-and-grouping.L3",
+   "context": "This is about the Cold Glass Test. You warm three glasses of water in a warm bath and count the bubbles of air that come out.",
+   "how": "e1",
+   "chart": {
+    "type": "bar",
+    "title": "Bubbles after 15 minutes (made-up example)",
+    "x": "Glass",
+    "y": "Number of bubbles",
+    "data": [
+     {
+      "label": "A: cold tap",
+      "value": 48,
+      "emoji": "🧊"
+     },
+     {
+      "label": "B: cold boiled",
+      "value": 2,
+      "emoji": "♨️"
+     },
+     {
+      "label": "C: room temperature",
+      "value": 12,
+      "emoji": "🚰"
+     }
+    ]
+   },
+   "why_maths": "Saying 'more bubbles' tells us little. Dividing shows how many times more air came out of the colder water."
+  },
+  {
+   "problem": "Sea water has about 35 grams of salt in every litre. A bucket holds 10 litres of sea water. About how much salt is in it?",
+   "answer": "About 350 grams.",
+   "explain": "Each litre has about 35 grams. 10 litres have 10 times as much. 35 times 10 is 350. So about 350 grams, which is about as heavy as a small packet of salt.",
+   "math_unit": "math.multiplication.equal-groups.L3",
+   "context": "This is about how salty the sea is. Every litre of sea water has about 35 grams of salt dissolved in it.",
+   "why_maths": "Multiplying turns a small number we can't picture into a big one we can, like a whole packet of salt in one bucket."
+  },
+  {
+   "problem": "In the Day and Night token game, the pond starts with 8 oxygen tokens. Three fish and the algae and snails use 4 tokens every round. Two NIGHT cards come in a row, adding nothing. How many tokens are left after the two nights?",
+   "answer": "None. 8 - 4 - 4 = 0.",
+   "explain": "Each round uses 3 tokens for the fish and 1 for the algae and snails, so 4. After the first night, 8 - 4 = 4 are left. After the second, 4 - 4 = 0. The fish must gulp at the surface. One more night would leave them short.",
+   "math_unit": "math.addition-subtraction.word-problems.L3",
+   "context": "This is about the Day and Night in the Pond game, where tokens stand for the oxygen in the water.",
+   "how": "g2",
+   "why_maths": "Subtracting round by round lets us predict exactly when the pond would run out, before it happens."
+  },
+  {
+   "problem": "Kavya's water bath started at 40 degrees. After 15 minutes it was 34 degrees. By how many degrees did it cool? If it kept cooling at the same speed, what would it be after another 15 minutes?",
+   "answer": "It cooled by 6 degrees. After another 15 minutes it would be about 28 degrees.",
+   "explain": "40 - 34 = 6, so it cooled 6 degrees in 15 minutes. Another 15 minutes at the same speed would take off another 6: 34 - 6 = 28. Really, warm water cools more slowly as it gets near room temperature, so it might stay a little warmer.",
+   "math_unit": "math.temperature.reading-thermometers.L3",
+   "context": "This is about the warm water bath in the Cold Glass Test. Suppose Kavya put a kitchen thermometer in the bath to see how fast it cooled.",
+   "how": "e1",
+   "why_maths": "Finding the pattern in two readings helps us guess the next one, and then check whether the guess was right."
+  },
+  {
+   "problem": "A frog's tadpole stage lasts about 8 weeks. How many days is that? If a tadpole hatched on the 1st of July, about when would they become a frog?",
+   "answer": "56 days. About the 26th of August.",
+   "explain": "A week has 7 days. 8 times 7 is 56. July has 31 days, so after 1st July, 30 days take us to the 31st of July. 56 - 30 = 26 more days takes us to about the 26th of August. Different frogs take different times, and warm water makes tadpoles grow faster.",
+   "math_unit": "math.time.calendar.L3",
+   "context": "This is about the frog's life cycle. A tadpole lives in water for some weeks before they become a frog.",
+   "why_maths": "Counting on a calendar tells us when to look for young frogs after the monsoon begins."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.habitats.L3",
+  "title": "Everybody Lives Somewhere",
+  "note": "Topic-level song for Habitats L3"
+ },
+ "links": [
+  {
+   "title": "NASA Earth Observatory: What are Phytoplankton?",
+   "url": "https://earthobservatory.nasa.gov/features/Phytoplankton",
+   "kind": "interactive",
+   "why": "Pictures and plain explanations of the tiny algae of the sea, with satellite images of where they grow."
+  },
+  {
+   "title": "iNaturalist",
+   "url": "https://www.inaturalist.org",
+   "kind": "interactive",
+   "why": "Take a photo of a frog, a water plant or a fish, and people around the world help you name it."
+  },
+  {
+   "title": "StoryWeaver by Pratham Books",
+   "url": "https://storyweaver.org.in",
+   "kind": "interactive",
+   "why": "Free picture books in many Indian languages. Search for 'pond', 'frog' or 'river'."
+  },
+  {
+   "title": "Pichavaram mangrove forest",
+   "url": "https://en.wikipedia.org/wiki/Pichavaram",
+   "kind": "place",
+   "where": "near Chidambaram, Tamil Nadu",
+   "why": "Row a boat through channels of brackish water among mangrove trees."
+  },
+  {
+   "title": "Pulicat Lake",
+   "url": "https://en.wikipedia.org/wiki/Pulicat_Lake",
+   "kind": "place",
+   "where": "north of Chennai, on the Tamil Nadu and Andhra Pradesh border",
+   "why": "A big brackish lagoon where flamingos and pelicans come in winter."
+  },
+  {
+   "title": "Vembanad Lake",
+   "url": "https://en.wikipedia.org/wiki/Vembanad",
+   "kind": "place",
+   "where": "Kottayam and Alappuzha, Kerala",
+   "why": "The largest lake in Kerala, fresh in some seasons and brackish in others, with the Thanneermukkom barrier across it."
+  },
+  {
+   "title": "Chilika Lake",
+   "url": "https://en.wikipedia.org/wiki/Chilika_Lake",
+   "kind": "place",
+   "where": "Odisha",
+   "why": "A huge brackish lagoon, home to Irrawaddy dolphins and many water birds."
+  },
+  {
+   "title": "Taraporewala Aquarium",
+   "url": "https://en.wikipedia.org/wiki/Taraporewala_Aquarium",
+   "kind": "place",
+   "where": "Mumbai",
+   "why": "See sea fish and river fish up close, with air pumps bubbling in their tanks."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-lens",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Makes the tiny bubbles in the Cold Glass Test, the holes in a lotus stem and the algae in the green jar easy to see.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
+   "used_in": [
+    "e1",
+    "a1",
+    "a5",
+    "p1"
+   ],
+   "plan": "Used again in units on plants, insects and materials."
+  },
+  {
+   "id": "b-hydrilla",
+   "item": "A small bunch of hydrilla or another oxygen-making aquarium plant",
+   "kind": "material",
+   "why": "Shows a water plant making bubbles of oxygen in sunlight. Any aquarium shop sells it for a few rupees.",
+   "url": "https://www.amazon.in/s?k=hydrilla+aquarium+plant",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Keep it in a jar of water on a sunny window. It can be used again in the photosynthesis unit."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What does a fish breathe?",
+   "a": "The oxygen dissolved in water."
+  },
+  {
+   "q": "Does cold or warm water hold more air?",
+   "a": "Cold water."
+  },
+  {
+   "q": "How does a tadpole breathe?",
+   "a": "With gills."
+  },
+  {
+   "q": "Name two ways an adult frog breathes.",
+   "a": "With their lungs and through their wet skin."
+  },
+  {
+   "q": "What are the holes in a lotus stem for?",
+   "a": "Carrying air down to the parts in the mud."
+  },
+  {
+   "q": "When do algae make oxygen?",
+   "a": "In light."
+  },
+  {
+   "q": "Name a water habitat that is salty.",
+   "a": "The sea, such as the Bay of Bengal or the Arabian Sea."
+  },
+  {
+   "q": "What is water called that is a mix of fresh and salty?",
+   "a": "Brackish water."
+  },
+  {
+   "q": "When does a green pond have least oxygen?",
+   "a": "Just before sunrise."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "e1",
+   "story",
+   "a1",
+   "big_questions",
+   "cards",
+   "g1"
+  ],
+  "default_order": [
+   "intro",
+   "e1",
+   "story",
+   "summary",
+   "terms",
+   "explanations",
+   "e2",
+   "g2",
+   "a1",
+   "a2",
+   "videos",
+   "ws-core",
+   "e3",
+   "a3",
+   "a5",
+   "a4",
+   "g1",
+   "agreed",
+   "challenging",
+   "p1",
+   "ws-stretch",
+   "c1",
+   "c2",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "quiz"
+  ],
+  "core": [
+   "e1",
+   "e2",
+   "a1",
+   "g2",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "story",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/habitats-and-adaptation.md: the founder's notebook rows on habitats, oceans and weather (a tide pool model, visiting a coast, interviewing a fisherman); its SCI Cards for Rachel Carson (poisons travel through water and living things) and Aditi Pant (ocean chemistry), used in the algal bloom and sea cards",
+   "Founder notebook items bio:212 (marine and freshwater biology), bio:213 and bio:260 (plankton ecology), bio:216 (freshwater ecosystems: lakes, rivers, wetlands), used in the explanations on algae, ponds and brackish water",
+   "Built on, not repeated: sci.habitats.habitats.L3 (what a habitat is), sci.habitats.adaptations.L3 (water hyacinth, ripples), sci.animals.animal-bodies.L3 (gill watch and gill shapes), sci.making-things.biomimicry.L3 (the lotus leaf that water cannot wet), sci.animals.vertebrate-groups.L3 (why frog eggs need water)",
+   "NCERT Class 3 Chapter 7, Water — A Precious Gift, and NCERT Class 5 Chapter 2, Journey of a River (village ponds, temple tanks and rivers as homes)"
+  ],
+  "science": [
+   "Aristotle, On Respiration (De Respiratione), on fish and gills, with his report of Anaxagoras and Diogenes of Apollonia",
+   "Humboldt, A. von and Provençal, 'Recherches sur la respiration des poissons', Mémoires de physique et de chimie de la Société d'Arcueil, 1809",
+   "Standard tables of oxygen solubility in water against temperature (for example the USGS dissolved oxygen tables)",
+   "Field, Behrenfeld, Randerson and Falkowski, 'Primary production of the biosphere', Science 1998 (about half of global photosynthesis is in the ocean)",
+   "Dacey, 'Knudsen-transitional flow and gas pressurization in leaves of Nelumbo', Plant Physiology 1987 (air flow through lotus leaves and stalks)",
+   "Shen-Miller and others, 'Exceptional seed longevity and robust growth: ancient Sacred Lotus from China', American Journal of Botany 1995",
+   "Sneddon, Braithwaite and Gentle, 'Do fishes have nociceptors?', Proceedings of the Royal Society B 2003; Key, 'Why fish do not feel pain', Animal Sentience 2016",
+   "Biju and Bossuyt, 'New frog family from India reveals an ancient biogeographical link with the Seychelles', Nature 2003 (the purple frog)"
+  ]
+ },
+ "roots": {
+  "context": "We have learned that water holds dissolved air, and how fish, frogs, lotus and algae live on it. Now we ask what life in water tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Your cold glass of water grew bubbles as it warmed, though nothing was added. That air had been dissolved in the water all along, out of sight. Fish breathe that dissolved oxygen through their gills. Warm water holds less, so on a hot, still night a pond can run short of oxygen for its fish.",
+   "habit": "We think of water and air as two separate worlds: air is for breathing, and water is where you cannot breathe. But every pond, river and sea has air dissolved in it, and that is what its fish and tadpoles breathe.",
+   "evidence": "Glass A, cold tap water, grew many bubbles as it warmed. Glass B, boiled water, grew almost none. Fish breathe that same dissolved oxygen, and measurements since 1809 show it falling as they breathe."
+  },
+  "three": {
+   "who_am_i": "You breathe air with lungs. A fish breathes the same oxygen, dissolved in water, with gills.",
+   "what_is_life": "A tadpole breathes with gills, then grows into a frog that breathes with lungs and skin. One life can change how they breathe.",
+   "what_is_this_world": "Tiny algae floating in the sea make about half of the oxygen made on Earth each year."
+  },
+  "thread": "A pond holds one store of dissolved air. Algae and water plants add oxygen to it in sunlight. Fish, tadpoles, snails and the plants themselves take from it all day and all night. So many different lives breathe from the same water, the way a whole family breathes the air of one room. When the store runs low, every one of them feels it.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 6.13",
+    "teaching": "Uddalaka asks his son Shvetaketu to put salt in water and leave it overnight. In the morning the salt cannot be seen, yet every sip tastes salty. It is there, everywhere in the water, though unseen.",
+    "link": "The air in your cold glass was also there, all through the water, though you could not see it. Only warming brought it out as bubbles."
+   },
+   {
+    "source": "Tirukkural 20, in the chapter on the excellence of rain",
+    "teaching": "The world cannot go on without water, and the order of life cannot go on without rain.",
+    "link": "In the story, Kavya's pond came back to life when cool rain filled it, cooled it and splashed air into it."
+   },
+   {
+    "source": "Tao Te Ching 8",
+    "teaching": "The highest good is like water. Water helps all things and does not compete. It settles in the low places that people look down on.",
+    "link": "Ponds and marshes fill the low places of the land, and they are home to fish, frogs, lotus, snails and algae."
+   }
+  ],
+  "science": [
+   {
+    "text": "Water holds dissolved oxygen, and cold water holds more than warm water. At fridge-cold, water holds almost twice as much as on a hot afternoon.",
+    "status": "settled"
+   },
+   {
+    "text": "Algae and other tiny living things in the sea make about half of the oxygen made on Earth each year.",
+    "status": "settled"
+   },
+   {
+    "text": "What fish feel when they are hurt is still argued about by scientists.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Many ecologists",
+   "view": "A pond is not one family breathing together. Each fish, plant and microbe takes what they need for themselves, and they compete for space, food and oxygen. The sharing is a result of chemistry, not of anyone choosing to share."
+  },
+  "practice": {
+   "title": "Breathe with the pond",
+   "mins": 3,
+   "say": "Let's sit quietly next to a glass of water. Look at it closely. There is air hidden in it that we cannot see. Now close your eyes. Breathe in slowly while I count to four. Breathe out while I count to four. Some of the oxygen you just breathed may have been made by tiny algae in the sea. Breathe like this three more times. Then open your eyes and look at the water again.",
+   "kid": "Sit by a glass of water. Look closely. Air is hidden inside it. Close your eyes. Breathe in for four counts. Breathe out for four counts. Tiny algae may have made that oxygen. Do it three more times."
+  },
+  "ask": [
+   "The bubbles were in the water before you saw them. What else around you might be there, though you cannot see it?",
+   "A fish lives in water but breathes oxygen, as you do. Is a fish a creature of the water, or of the air?",
+   "If tiny algae make so much of the oxygen you breathe, who keeps you alive each time you take a breath?"
+  ],
+  "art": "A child sitting cross-legged beside a glass of water with tiny bubbles on its sides, eyes closed, while behind her a pond at dawn shows fish at the surface and green algae under a rising sun."
+ },
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. The Cold Glass Test needs only glasses, two bottles, a fridge and a warm bath. Fridge-cold water reliably grows tiny bubbles on its sides within 10 to 15 minutes in a bath that feels warm on the wrist. The boiled water is chilled in a bottle filled to the top, so little air dissolves back in, and it grows almost none. The step says what to do if nothing appears: add a little hot water and wait 10 more minutes, and use a torch from the side. The salty cucumber uses 2 tablespoons of salt in a cup, much saltier than the sea, so the slices go clearly floppy in 20 minutes. A sea-strength bowl is included, and the step says honestly that its change may be small. The flat or tall test is done over the sink with atta dough and a steel plate on a book. The lotus stem activity needs thamarai thandu or kamal kakdi from a market, and gives a straw and a photo as the fallback, so it is not in the spine. Hydrilla costs a few rupees at an aquarium shop, so its activity is outside the spine too. The green water jar is covered with cloth so mosquitoes cannot breed in it, and it gives a fix if no algae grow in three weeks. Both games work for one child. The spine fits about 90 minutes over two sessions.",
+ "how_we_found_out": {
+  "story": "About 2,400 years ago in Greece, the thinkers Anaxagoras and Diogenes of Apollonia said that fish breathe air out of the water through their gills. Aristotle disagreed. He wrote that fish do not breathe at all, and that the water over their gills only cools them. Much later, after chemists found in the 1780s that water is made of hydrogen and oxygen, some people guessed that fish split the water itself to get its oxygen. In 1809, in Paris, the explorer Alexander von Humboldt and the chemist Provençal tested this. They kept fish in closed jars of water and measured the gases dissolved in the water before and after. The dissolved oxygen went down, and carbon dioxide went up, just as when we breathe air. So fish do breathe, and they breathe the oxygen dissolved in water, not the water. Anaxagoras had been close to right all along.",
+  "who": "Alexander von Humboldt, a German explorer and scientist, and Provençal, a French chemist, with the older ideas of Anaxagoras, Diogenes of Apollonia and Aristotle",
+  "when": "About 400 BCE (the Greek ideas) and 1809 (the measurements in Paris)",
+  "wrong_idea": "Aristotle thought fish do not breathe and that the water only cools their gills. Later, some people thought fish split water to get oxygen. Humboldt and Provençal measured the gases in the water and showed that fish take out the dissolved oxygen and give out carbon dioxide."
+ }
+}

@@ -48,7 +48,7 @@
   },
   {
    "term": "Virus",
-   "meaning": "A tiny germ, much smaller than bacteria. A virus can only make copies of itself inside a living cell.",
+   "meaning": "A tiny germ, much smaller than bacteria. A virus can only make copies inside a living cell.",
    "example": "Colds and chickenpox are caused by viruses.",
    "art": "A spiky ball shape next to a much bigger bacterium for size."
   },
@@ -92,7 +92,7 @@
    "term": "Phagocyte",
    "meaning": "A white blood cell that eats germs. The word comes from Greek words meaning 'eating cell'.",
    "example": "Phagocytes swallow germs whole, then break them down inside.",
-   "art": "Three frames: a blob cell touching a germ, wrapping it, then the germ inside the cell."
+   "art": "Three frames: a blob cell touching a germ, wrapping round the germ, then the germ inside the cell."
   },
   {
    "term": "Inflammation",
@@ -132,7 +132,7 @@
   },
   {
    "term": "Vaccine",
-   "meaning": "A medicine, usually an injection or drops, that shows your immune system a harmless form or a small part of a germ. Your white blood cells learn its shape. If the real germ ever comes, they fight it quickly.",
+   "meaning": "A medicine, usually an injection or drops, that shows your immune system a harmless form or a small part of a germ. Your white blood cells learn the germ's shape. If the real germ ever comes, they fight them quickly.",
    "example": "Polio drops and the measles injection protect children all over India.",
    "art": "A child holding a parent's hand at a clinic, with a nurse giving polio drops, and a small immunisation card on the table."
   },
@@ -196,7 +196,7 @@
    "concept": "White blood cells: the defenders inside",
    "status": "defined",
    "definition": "White blood cells are cells that travel in the blood, find germs and destroy them. Some eat germs whole. Others make chemicals that stick to germs, or remember them.",
-   "description": "Your blood is mostly red blood cells, which carry oxygen, the part of the air your body needs. Mixed in with them are a few white blood cells. There is only about one white cell for every 700 red ones. White blood cells are made inside your bones, in a soft middle part called bone marrow. They ride around in the blood. When germs get in, the hurt cells send out chemical signals, like a smell. White blood cells follow the smell. A blood vessel is a tube that blood flows in. White blood cells squeeze out through its wall and crawl to the germs. Some kinds, called phagocytes, wrap around a germ and eat it. Other kinds make sticky chemicals that grab germs, or remember a germ for next time. You will learn about those in a later unit.",
+   "description": "Your blood is mostly red blood cells, which carry oxygen, the part of the air your body needs. Mixed in with them are a few white blood cells. There is only about one white cell for every 700 red ones. White blood cells are made inside your bones, in a soft middle part called bone marrow. They ride around in the blood. When germs get in, the hurt cells send out chemical signals, like a smell. White blood cells follow the smell. A blood vessel is a tube that blood flows in. White blood cells squeeze out through its wall and crawl to the germs. Some kinds, called phagocytes, wrap around a germ and eat them. Other kinds make sticky chemicals that grab germs, or remember a germ for next time. You will learn about those in a later unit.",
    "examples": [
     "In a cut finger, white blood cells arrive within an hour or so.",
     "White blood cells are not really white. Each one is almost see-through. A big pile of them looks pale and creamy.",
@@ -314,26 +314,26 @@
    "context": "This card explains that friendly microbes on and in your body help keep germs away."
   },
   {
-   "concept": "Every living thing defends itself",
+   "concept": "All living things defend themselves",
    "status": "defined",
    "definition": "All living things, from bacteria to plants to people, have ways to keep out or fight what harms them.",
-   "description": "The immune system is not only a human thing. Every living thing has some way to keep out what harms it. Plants have no blood and no white blood cells. But their leaves have waxy coats, and they can close the tiny holes in their leaves when germs land. A hurt plant makes sticky sap and sends chemical alarms to its other leaves. Even bacteria, which are single cells, have a way to cut up viruses that attack them, and to remember them. Scientists found this in bacteria used to make curd and yoghurt. Insects, fish and lizards fight germs too. Some of them warm up on purpose when they are sick.",
+   "description": "The immune system is not only a human thing. Every living thing has some way to keep out what harms them. Plants have no blood and no white blood cells. But their leaves have waxy coats, and they can close the tiny holes in their leaves when germs land. A hurt plant makes sticky sap and sends chemical alarms to their other leaves. Even bacteria, which are single cells, have a way to cut up viruses that attack them, and to remember them. Scientists found this in bacteria used to make curd and yoghurt. Insects, fish and lizards fight germs too. Some of them warm up on purpose when they are sick.",
    "examples": [
-    "A neem or mango tree oozes sticky gum where its bark is hurt. The gum seals the wound.",
+    "A neem or mango tree oozes sticky gum where their bark is hurt. The gum seals the wound.",
     "Sick lizards in a lab moved to the warmest spot they could find, giving themselves a fever.",
-    "A honeybee hive heats itself up when a harmful fungus attacks the baby bees."
+    "Honeybees heat up their hive when a harmful fungus attacks the baby bees."
    ],
    "perspectives": [],
    "art": "A row: a leaf closing its tiny pores, a tree trunk with sticky gum, a single bacterium cutting a virus, and a lizard basking on a warm rock.",
-   "context": "This card shows that plants, insects, lizards and even bacteria defend themselves against germs, each in its own way."
+   "context": "This card shows that plants, insects, lizards and even bacteria defend themselves against germs, each in their own way."
   },
   {
    "concept": "Down to the molecules: shapes that fit",
    "status": "defined",
    "definition": "Immune cells and chemicals recognise germs by touch. Their molecules fit the molecules on the germ, and tiny electric forces of attraction hold them together.",
-   "description": "A white blood cell has no eyes. It finds out what a germ is by touching it. The outside of every cell, and every germ, is covered in molecules. A molecule is a tiny group of atoms joined together, and each kind has its own shape. A white blood cell has its own molecules on its outside, called receptors. When a receptor fits a molecule on a germ, like a key in a lock, the cell grabs on. Tiny electric forces between the atoms attract each other and hold the two together. That is how the cell knows to attack. Lysozyme, the chemical in your tears, works the same way. Its shape fits a part of a germ's coat, and it snips it.",
+   "description": "A white blood cell has no eyes. The cell finds out what a germ is by touch. The outside of every cell, and every germ, is covered in molecules. A molecule is a tiny group of atoms joined together, and each kind has its own shape. A white blood cell has their own molecules on their outside, called receptors. When a receptor fits a molecule on a germ, like a key in a lock, the cell grabs on. Tiny electric forces between the atoms attract each other and hold the two together. That is how the cell knows to attack. Lysozyme, the chemical in your tears, works the same way. Its shape fits a part of a germ's coat, and it snips it.",
    "examples": [
-    "A white blood cell bumps into thousands of things. It grabs only those whose shapes fit its receptors.",
+    "A white blood cell bumps into thousands of things. They grab only those whose shapes fit their receptors.",
     "Lysozyme is also found in egg white. An enzyme is a chemical that does a job in living things. In 1965, lysozyme became the first enzyme whose full shape scientists worked out, using X-rays."
    ],
    "perspectives": [],
@@ -394,7 +394,7 @@
    "context": "This card is about what scientists agree on: most microbes are not germs."
   },
   {
-   "text": "Every living thing, even a single bacterium, has some way to defend itself.",
+   "text": "All living things, even a single bacterium, have some way to defend themselves.",
    "evidence": "Plants close leaf pores and send chemical alarms. In 2007, scientists showed that bacteria cut up viruses with a system called CRISPR.",
    "context": "This card is about what scientists agree on: all life defends itself."
   },
@@ -488,7 +488,7 @@
   {
    "q": "Plants and even bacteria defend themselves. Does that mean they, in some way, know what they are?",
    "kind": "big",
-   "hint": "A bacterium has no brain. But it can tell its own self from a virus."
+   "hint": "A bacterium has no brain. But they can tell their own self from a virus."
   },
   {
    "q": "If germs are living things too, is it fair that we kill them?",
@@ -504,7 +504,7 @@
   "text": [
    "My name is Olga. In the winter of 1882 I lived in a white house above the sea, in a town called Messina, on the island of Sicily. My husband was Élie Metchnikoff. He studied animals so small and so clear that you could see right through them.",
    "Our sitting room was not like other sitting rooms. There were glass dishes on every table. In every dish swam tiny baby starfish, each one smaller than a grain of rice. They were not star-shaped yet. They looked like little bells made of water. Élie would sit for hours with his eye pressed to a microscope, a tube of glass that makes small things look big.",
-   "\"Come and look, Olga,\" he would say. And I would look. Inside each baby starfish, you could see everything. Its tiny stomach. Its thin walls. And something else. Small round blobs that drifted about inside it, all by themselves, like boats with no oars.",
+   "\"Come and look, Olga,\" he would say. And I would look. Inside each baby starfish, you could see everything. Their tiny stomach. Its thin walls. And something else. Small round blobs that drifted about inside it, all by themselves, like boats with no oars.",
    "\"What are they?\" I asked.",
    "\"I do not know,\" said Élie. \"They wander. Nobody has told them where to go. And yet they go.\"",
    "My little brother Sasha was staying with us that winter. He was eight. He did not care for starfish. He cared for oranges, and for climbing the low wall at the end of the garden, and for the circus.",
@@ -515,13 +515,13 @@
    "This is what had happened. Alone in the quiet house, he had been watching the wandering blobs. And a thought had struck him, the way lightning strikes a tree. What if the blobs were guards? What if, when something got inside the starfish that should not be there, they came to fight it?",
    "\"But how can you know?\" I said.",
    "\"I can poke it,\" said Élie. \"I can put something in, and see if they come.\"",
-   "A few days before, we had made a Christmas tree for the children out of a small tangerine tree in the garden. Roses grew beside it. While we were at the circus, Élie had gone out into the garden and snapped off a few rose thorns.",
+   "A few days before, we had made a Christmas tree for the children out of a small tangerine tree in the garden. Roses grew beside the tree. While we were at the circus, Élie had gone out into the garden and snapped off a few rose thorns.",
    "That evening, very gently, he pushed a single rose thorn into each baby starfish. Then he covered the dishes and went to bed. He did not sleep. I heard him get up twice in the night, and stand by the dishes, and sit down again.",
    "In the morning, Sasha woke with a cry. While climbing the garden wall the day before, he had pushed a splinter of wood into his finger. Now the finger was red and fat and hot. He held it up to me, frightened.",
    "\"It is getting worse,\" he said. \"Look! The splinter is eating me.\"",
    "Before I could answer, Élie called from the sitting room. His voice was strange, high and shaking.",
    "\"Olga! Come! Bring the boy!\"",
-   "We ran in. Élie stood back from the microscope so I could look. There was the baby starfish, clear as a raindrop. There was the rose thorn, dark and sharp inside it. And all around the thorn, crowded together like people around a fire, were the wandering blobs. Hundreds of them. They had come from every part of the tiny body. They were pressing against the thorn. Some had wrapped themselves around its tip.",
+   "We ran in. Élie stood back from the microscope so I could look. There was the baby starfish, clear as a raindrop. There was the rose thorn, dark and sharp inside them. And all around the thorn, crowded together like people around a fire, were the wandering blobs. Hundreds of them. They had come from every part of the tiny body. They were pressing against the thorn. Some had wrapped themselves around its tip.",
    "\"They came,\" Élie whispered. \"In the night, they all came.\"",
    "Sasha pushed in to look. He squinted down the tube for a long time. Then he lifted his head and stared at his own red finger.",
    "\"Is that,\" he said slowly, \"what is happening in me?\"",
@@ -545,7 +545,7 @@
   ],
   "art": [
    "A white house above a blue sea in old Sicily, with glass dishes glinting on the windowsill.",
-   "A see-through baby starfish shaped like a tiny bell, with small round blobs drifting inside it.",
+   "A see-through baby starfish shaped like a tiny bell, with small round blobs drifting inside.",
    "Élie alone in a winter garden, snapping a thorn off a rose bush beside a small tangerine tree hung with decorations.",
    "Sasha holding up a red, swollen finger with a splinter in it, looking frightened.",
    "The view down the microscope: a dark thorn inside the clear starfish, crowded round by hundreds of tiny blobs.",
@@ -624,7 +624,7 @@
     "The Germ turns over a germ card and reads it out loud.",
     "A Body player must play one defence card that stops this germ, and say how it works. For example, 'Stomach acid kills the germs on the guava.'",
     "If the defence fits, the germ is stopped. Put both cards aside. The Body scores a point, and that player takes a new defence card from the pile.",
-    "If no one can stop it with a wall, the germ gets inside. Then only a WHITE BLOOD CELL, INFLAMMATION or FEVER card can stop it.",
+    "If no one can stop them with a wall, the germ gets inside. Then only a WHITE BLOOD CELL, INFLAMMATION or FEVER card can stop them.",
     "After 8 germ cards, swap sides. The side that stops the most germs wins."
    ],
    "setup": [
@@ -638,7 +638,7 @@
     },
     {
      "art": "A germ card and a white blood cell card placed together on the INSIDE part of the board.",
-     "caption": "3. If a germ gets inside, only a white blood cell, inflammation or fever can stop it."
+     "caption": "3. If a germ gets inside, only a white blood cell, inflammation or fever can stop them."
     }
    ],
    "flow": [
@@ -682,8 +682,8 @@
      "id": "s3",
      "mins": 10,
      "do": "Play 8 germ cards. Each time, the Body player says how their defence works.",
-     "say": "Turn over the next germ. Who can stop it? Tell us how your defence works.",
-     "kid": "Turn over a germ card. Play a defence that stops it. Say how it works.",
+     "say": "Turn over the next germ. Who can stop them? Tell us how your defence works.",
+     "kid": "Turn over a germ card. Play a defence that stops them. Say how it works.",
      "parent": "Listen for the reason, not just the card. 'Skin stops it because it is a tight wall with no holes' is a great answer. If a cut or a mosquito is involved, the skin wall is broken, so the germ goes INSIDE.",
      "check": {
       "t": "mcq",
@@ -741,7 +741,7 @@
     "Put a cushion in the middle. The cushion is the body.",
     "Skin wall players hold hands in a line in front of the cushion. They can only shuffle sideways.",
     "Germ players try to get round the wall and touch the cushion.",
-    "The white blood cell runs freely. If it tags a germ, that germ is out.",
+    "The white blood cell runs freely. If they tag a germ, that germ is out.",
     "Round 2: shout 'FEVER!' Now germs must hop instead of run.",
     "Round 3: the white blood cell remembers the germs from round 1 and starts right next to them."
    ],
@@ -775,8 +775,8 @@
       {
        "q": "What happened when a germ got round the wall?",
        "good": [
-        "The white blood cell had to chase it.",
-        "It nearly reached the body."
+        "The white blood cell had to chase them.",
+        "They nearly reached the body."
        ]
       }
      ],
@@ -805,8 +805,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Play round 3 with the white blood cell starting next to the germs.",
-     "say": "Round three: the white blood cell remembers these germs from before. It starts right next to them.",
-     "kid": "Round three: the white blood cell remembers you. It starts right beside you. Run!",
+     "say": "Round three: the white blood cell remembers these germs from before. So they start right next to the germs.",
+     "kid": "Round three: the white blood cell remembers you. They start right beside you. Run!",
      "context": "This is step 4 of 5 of Germ Tag. This is a running game. Some players are germs trying to reach a cushion, the body. Others are skin and a fast white blood cell who tags germs out."
     },
     {
@@ -1145,8 +1145,8 @@
      "opts": [
       "Following chemical signals and feeling the germ's shapes",
       "Looking with tiny eyes",
-      "Listening for it",
-      "Waiting for the germ to come to it"
+      "Listening for them",
+      "Waiting for the germ to come to them"
      ],
      "a": 0,
      "why": "Hurt cells release chemicals, and white blood cells crawl towards them. When they touch a germ, shapes fit together like a key in a lock. White blood cells have no eyes or ears. Picking 'eyes' is natural, because that's how we find things.",
@@ -1290,7 +1290,7 @@
       "Only in hot places"
      ],
      "a": 0,
-     "why": "In 2007, scientists found that some bacteria, like those used to make yoghurt, store bits of the viruses that attacked them. Next time, they use these bits to recognise the virus and cut it up. Even a single cell has an immune system."
+     "why": "In 2007, scientists found that some bacteria, like those used to make yoghurt, store bits of the viruses that attacked them. Next time, they use these bits to recognise the virus and cut them up. Even a single cell has an immune system."
     },
     {
      "t": "fill",
@@ -1386,7 +1386,7 @@
     },
     {
      "t": "match",
-     "p": "Match each living thing to its defence.",
+     "p": "Match each living thing to their defence.",
      "pairs": [
       [
        "A person",
@@ -1398,15 +1398,15 @@
       ],
       [
        "A yoghurt bacterium",
-       "cutting up viruses it remembers"
+       "cutting up viruses they remember"
       ],
       [
        "A honeybee hive",
-       "heating itself up against a fungus"
+       "heating up against a fungus"
       ]
      ],
      "a": "pairs as given",
-     "why": "Every living thing defends itself, each in its own way."
+     "why": "All living things defend themselves, each in their own way."
     },
     {
      "t": "write",
@@ -2331,26 +2331,26 @@
      "mins": 3,
      "do": "1. Mix the paper balls and the bottle caps in the tray. 2. Give your child the sock to wear like a glove. 3. Put the small bowl next to the tray.",
      "say": "The tray is your blood. The bottle caps are your own body's cells. The paper balls are germs that got in through a cut. Your sock hand is a white blood cell called a phagocyte. That means 'eating cell'.",
-     "kid": "The tray is your blood. Bottle caps are your own cells. Paper balls are germs. Your sock hand is a white blood cell. It eats germs!",
+     "kid": "The tray is your blood. Bottle caps are your own cells. Paper balls are germs. Your sock hand is a white blood cell. White blood cells eat germs!",
      "context": "This is the first step of Be a Phagocyte. In this activity you act out how a white blood cell eats a germ. Your hand, inside a sock, is the white blood cell. Small balls of paper are the germs."
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "Ask your child to close their eyes, feel for germs, and wrap the sock hand round each one. Each wrapped germ goes in the bowl.",
-     "say": "A white blood cell has no eyes. It finds germs by touch and by chemical smells. Close your eyes. Feel each thing in the tray. Germs feel crumpled. Your own cells feel smooth. When you find a germ, close your sock hand round it and drop it in the bowl. Leave the smooth ones alone.",
+     "say": "A white blood cell has no eyes. They find germs by touch and by chemical smells. Close your eyes. Feel each thing in the tray. Germs feel crumpled. Your own cells feel smooth. When you find a germ, close your sock hand round it and drop it in the bowl. Leave the smooth ones alone.",
      "kid": "Close your eyes. Feel the things in the tray. Germs feel crumpled. Your own cells feel smooth. Wrap your sock round a germ. Drop it in the bowl.",
      "parent": "Feeling crumpled or smooth stands for the shapes on a germ's surface. Real white blood cells recognise germs by touch, when shapes fit together like a key in a lock.",
      "check": {
       "t": "mcq",
       "q": "How does a real white blood cell find a germ?",
       "options": [
-       "It follows chemical signals and feels the germ's shapes",
-       "It sees it with tiny eyes",
-       "It hears the germ moving"
+       "They follow chemical signals and feel the germ's shapes",
+       "They see the germ with tiny eyes",
+       "They hear the germ moving"
       ],
       "a": 0,
-      "why": "A white blood cell has no eyes or ears. Hurt cells give off chemical signals, and the white blood cell crawls towards them. When it touches a germ, shapes on the germ fit shapes on the cell, like a key in a lock. Picking 'eyes' is a natural guess, because that is how we find things."
+      "why": "A white blood cell has no eyes or ears. Hurt cells give off chemical signals, and the white blood cell crawls towards them. When they touch a germ, shapes on the germ fit shapes on the cell, like a key in a lock. Picking 'eyes' is a natural guess, because that is how we find things."
      },
      "context": "This is step 2 of 3 of Be a Phagocyte. In this activity you act out how a white blood cell eats a germ. Your hand, inside a sock, is the white blood cell. Small balls of paper are the germs."
     },
@@ -2943,7 +2943,7 @@
    "channel": "Andres Trevino (an upload of David Rogers' film)",
    "youtube": "I_xh-bkiv_c",
    "mins": 1,
-   "why": "A real microscope film from Vanderbilt University. A white blood cell crawls between red blood cells, chases a bacterium and swallows it. Children love it, and it shows exactly what Metchnikoff imagined.",
+   "why": "A real microscope film from Vanderbilt University. A white blood cell crawls between red blood cells, chases a bacterium and swallows them. Children love it, and it shows exactly what Metchnikoff imagined.",
    "check": "Found by YouTube search: \"Crawling Neutrophil Chasing a Bacterium\" by Andres Trevino. Title checked automatically; a parent may still preview it."
   }
  ],
@@ -3222,8 +3222,8 @@
   "If your forehead feels hot, how could we find out for sure if it is a fever?",
   "Which friendly microbes did we eat today?",
   "Why might a sick dog curl up and sleep a lot?",
-  "That lizard on the wall is lying in the sun. Why might a lizard do that when it is ill?",
-  "If a white blood cell could talk, what would it say after a long day?",
+  "That lizard on the wall is lying in the sun. Why might a lizard do that when they are ill?",
+  "If a white blood cell could talk, what would they say after a long day?",
   "Why do you think doctors wash their hands so often?",
   "Is anything in your body working right now that you don't notice?"
  ],
@@ -3313,7 +3313,7 @@
    "a": "It was asked to cover for a friend."
   },
   {
-   "j": "Why did the cold virus fail its test?",
+   "j": "Why did the cold virus fail their test?",
    "a": "It couldn't get past the first line."
   },
   {
@@ -3757,10 +3757,10 @@
   },
   "three": {
    "who_am_i": "Your skin, your tears and the mucus in your nose keep you well every minute, and you hardly notice them.",
-   "what_is_life": "Every living thing, from a bacterium to a neem tree to you, has an outer layer that keeps its inside apart from the outside.",
+   "what_is_life": "Every living thing, from a bacterium to a neem tree to you, has an outer layer that keeps their inside apart from the outside.",
    "what_is_this_world": "The world is full of microbes, on every apple, door handle and breath of air. Most of them never get in, and most would do you no harm."
   },
-  "thread": "The first living things were single cells, each wrapped in a thin skin called a membrane. That skin let food in and kept harm out. Your own body began as one cell, and grew into trillions, each still wrapped in its own membrane. Your skin, your tears and your mucus do the same job for the whole body. Life began with one kind of wall, and it has grown into countless kinds, in bacteria, trees and you.",
+  "thread": "The first living things were single cells, each wrapped in a thin skin called a membrane. That skin let food in and kept harm out. Your own body began as one cell, and grew into trillions, each still wrapped in their own membrane. Your skin, your tears and your mucus do the same job for the whole body. Life began with one kind of wall, and it has grown into countless kinds, in bacteria, trees and you.",
   "teachings": [
    {
     "source": "Tao Te Ching, chapter 17",

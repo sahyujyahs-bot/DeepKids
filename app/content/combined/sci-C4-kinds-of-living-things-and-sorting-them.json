@@ -1,0 +1,1307 @@
+{
+ "key": "combined|sci|4|kinds-of-living-things-and-sorting-them",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "kinds-of-living-things-and-sorting-them",
+ "title": "A nature trail at home: how living things differ and depend on each other",
+ "source": "DeepKids Combined. Covers NCERT Class 4, Chapter 3, Nature Trail: the variety of plants and animals and their features, birds and their beaks and feet, insects, leaves and their veins, the web of life, and caring for nature. Goes wider: counting biodiversity, generalists and specialists, features that come together in plants (monocots and dicots), the same feature in unrelated families, why big hunters are few, and how scientists tell one tiger from another. No textbook needed.",
+ "summary": "From one window of a city flat, a child can count a dozen or more kinds of living things in a week. Each one is shaped by the problems it must solve: a sparrow's short, thick beak cracks seeds, and a sunbird's long, curved beak reaches nectar. Your child tests beaks with kitchen tools, studies ants and leaves up close, and grows moong beside wheat to find that leaf veins, seeds and roots come in packages. They see why a forest holds many deer but few tigers, and how scientists count tigers by their stripes. They meet Maria Sibylla Merian, Ullas Karanth and the mystery of the city sparrows.",
+ "builds_on": "Class 2: comparing animals, and the groups mammals, birds, fish, reptiles, amphibians and insects. Class 3: sorting with yes-or-no keys, the kingdoms (plants, animals, fungi, microbes) and the tree of life. In Class 4 your child moves from sorting living things to asking why each one has its features, and how they depend on each other. In Class 5, Habitats and adaptation shows how features come about over many generations, by natural selection.",
+ "goals": [
+  "By the end your child can explain biodiversity, and count the kinds of living things in one place in a fair way.",
+  "By the end your child can say what problem a beak, a foot, a colour or a leaf feature solves, starting with the problem.",
+  "By the end your child can tell an insect from other small animals, and explain what an arthropod and an exoskeleton are.",
+  "By the end your child can sort leaves by their veins, and explain that veins, seed leaves and roots go together in monocots and dicots.",
+  "By the end your child can explain the web of life, and why there are always far fewer hunters than plant-eaters.",
+  "By the end your child can explain how scientists tell one tiger from another, and why people should not feed wild animals."
+ ],
+ "words": [
+  [
+   "biodiversity",
+   "the variety of living things: how many kinds there are, how different the members of one kind are, and how many kinds of homes they live in"
+  ],
+  [
+   "species",
+   "one kind of living thing, whose members can have young together, like the house crow"
+  ],
+  [
+   "adaptation",
+   "a feature that helps a living thing survive where it lives, like a duck's webbed feet"
+  ],
+  [
+   "generalist",
+   "a living thing that can eat many kinds of food and live in many places, like a crow"
+  ],
+  [
+   "specialist",
+   "a living thing that depends on one kind of food or home, like a caterpillar that eats only one kind of plant"
+  ],
+  [
+   "arthropod",
+   "an animal with jointed legs and a hard outer skeleton, like an ant, a spider, a crab or a centipede"
+  ],
+  [
+   "exoskeleton",
+   "a hard skeleton on the outside of the body, like the shell of a cockroach"
+  ],
+  [
+   "monocot",
+   "a flowering plant whose seed has one seed leaf, like wheat, rice, grass and banana. Its leaves usually have parallel veins"
+  ],
+  [
+   "dicot",
+   "a flowering plant whose seed has two seed leaves, like moong, chana, mango and neem. Its leaves usually have net veins"
+  ],
+  [
+   "convergent evolution",
+   "when unrelated living things end up with similar features because they face the same problem, like the wings of a bat and a bird"
+  ],
+  [
+   "food web",
+   "all the food chains in a place joined together, showing who eats whom"
+  ],
+  [
+   "decomposer",
+   "a living thing that breaks down dead plants and animals into soil, like a mushroom or bacteria"
+  ]
+ ],
+ "subconcepts": [
+  "biodiversity: many kinds, variety inside a kind, many kinds of homes",
+  "counting kinds: the more you look, the more you find",
+  "signs of animals: webs, droppings, chewed leaves, trails",
+  "a feature solves a problem: bird beaks",
+  "bird feet: perching, gripping, swimming, climbing, walking on leaves",
+  "generalists and specialists",
+  "insects and other arthropods: jointed legs and an exoskeleton",
+  "caterpillars, their food plants, and disguise",
+  "leaf features: shape, edge, texture and veins",
+  "features that come together: veins, seed leaves and roots in monocots and dicots",
+  "the same solution in unrelated families: convergent evolution",
+  "the web of life: producers, consumers, decomposers and partners",
+  "why big hunters are few: energy is lost at each step of a food chain",
+  "telling individuals apart: tiger stripes and fingerprints",
+  "caring for nature: trail rules and sacred groves"
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "How many kinds live here?",
+   "goal": "Recall Class 3, learn what biodiversity means, and start the window count and the seed experiment.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember keys and the tree of life",
+     "mins": 6,
+     "do": "Ask: 'In Class 3 you made keys. What makes a good sorting question?' Good answer: 'A yes-or-no question about a feature anyone can check, like: does it have six legs?' Ask: 'Name the big groups of living things.' (Plants, animals, fungi and microbes.) Ask: 'Why is a mushroom not a plant?' (It cannot make food from sunlight. It digests its food outside its body.) Say: 'Last year we sorted living things. This week we ask why each one is shaped the way it is, and how they all depend on each other. We will go on a nature trail without leaving home.' If your child did not do Class 3, ask only: 'How many kinds of living things do you think live around our building?' Write the guess down."
+    },
+    {
+     "kind": "talk",
+     "title": "What biodiversity means",
+     "mins": 7,
+     "do": "Write the word biodiversity. Say: 'Bio means life. Diversity means variety. Biodiversity is the variety of living things.' Then give the three parts, with an example each. 1. Many kinds, or species: crows, pigeons and mynas are three species. A species is one kind of living thing whose members can have young together. 2. Variety inside one kind: no two crows, and no two people, are exactly alike. 3. Many kinds of homes: a pond, a forest and a city wall each hold different living things. Ask: 'Which place has more kinds of living things: a lawn of only grass, or a corner with weeds, a tree and a dripping tap? Why do you think so?' (The corner, because it offers more kinds of food, water and shelter.)"
+    },
+    {
+     "kind": "exp",
+     "title": "Window count, session 1",
+     "mins": 12,
+     "ref": "e1",
+     "do": "Do Experiment e1, session 1. First ask: 'How many kinds of living things will you see from this window in 5 minutes? How many after five sessions?' Write both guesses. Sit at a window or balcony with the notebook. Set a 5-minute timer. Your child writes every kind they see: birds, insects, potted plants, a tree, a squirrel, moss on a wall, a spider. If they don't know a name, they describe it: 'small brown bird with a yellow beak'. Count the kinds. Then draw the table for the next sessions, with three columns: session, new kinds, total so far."
+    },
+    {
+     "kind": "do",
+     "title": "Hunt for signs of life",
+     "mins": 10,
+     "do": "Say: 'On a nature trail, scientists often find an animal's signs before they see the animal.' Give your child 8 minutes to search the home and balcony for signs: a leaf with holes or chewed edges, a spider web, an ant trail, gecko droppings (tiny, dark, with a white tip), white bird droppings on a ledge, a feather, mould on old fruit. For each sign, ask: 'Who left this? What was it doing?' Then say: 'The white part of bird and gecko droppings is uric acid. It is how they get rid of waste using very little water.' Add any new kinds to the window count list, marked 'from a sign'."
+    },
+    {
+     "kind": "exp",
+     "title": "Sow moong and wheat",
+     "mins": 10,
+     "ref": "e3",
+     "do": "Set up Experiment e3. Fill two small cups or cut plastic bottles with soil from a potted plant, with a hole in each bottom. Sow 4 soaked moong seeds in one and 4 soaked whole wheat grains in the other, about 1 cm deep. Water lightly and put both near a bright window. Ask: 'Moong is a pulse and wheat is a grain. When we dig them up on Day 5, will their leaves and roots look the same? Why do you think so?' Write the guess on the cups' label."
+    }
+   ],
+   "need": [
+    "a window or balcony",
+    "a notebook and pencil",
+    "a phone timer",
+    "4 moong seeds and 4 whole wheat grains, soaked overnight",
+    "2 small cups or cut bottles, soil from a potted plant"
+   ],
+   "prep": [
+    {
+     "task": "Soak 4 moong seeds and 4 whole wheat grains (gehun) in water. Buy a small packet of whole wheat if you have none.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "A beak is a tool for a problem",
+   "goal": "Find out how beak shapes match food, and meet generalists and specialists.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Window count, session 2",
+     "mins": 5,
+     "do": "Do session 2 of Experiment e1 at the same window, for 5 minutes. Your child writes only the kinds they did not see in session 1, then works out the new total. Ask: 'Did you find as many new kinds as last time?'"
+    },
+    {
+     "kind": "talk",
+     "title": "The problem comes first",
+     "mins": 7,
+     "do": "Ask: 'Imagine you have no hands. You must eat rice grains from a plate, drink from a narrow bottle and pull a worm out of a crack. What kind of mouth would help with each?' Let your child act it out. Then say: 'Every animal has problems it must solve to stay alive: how to get food, how not to be eaten, how to stay warm or cool. A feature is a part of the body or a way of behaving. When a feature helps a living thing survive where it lives, scientists call it an adaptation.' Ask: 'What problem does a cat's sharp claw solve?' (Catching and holding prey, and climbing.)"
+    },
+    {
+     "kind": "exp",
+     "title": "The beak test",
+     "mins": 20,
+     "ref": "e2",
+     "do": "Do Experiment e2. Before starting, ask: 'Which tool will be best for each food? Will any tool be good at everything?' Write the guesses in the table. Your child tries every tool on every food for 20 seconds and writes the count. Then ask: 'Which tool won each food? Which tool never won, but got some of almost every food?' (Usually the clothes peg.) Say: 'A bird with a specialist beak is excellent at one kind of food. A generalist's beak, like the peg, is good enough for many. The crow is a generalist.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Beaks of Indian birds",
+     "mins": 13,
+     "do": "For each bird, say the problem first, then ask your child to guess the beak before you tell them. House sparrow: must crack hard seeds. (A short, thick, cone-shaped beak, like pliers.) Black kite, the brown bird circling over every Indian city: must tear meat. (A hooked beak, and sharp curved claws called talons.) Purple sunbird: must drink nectar deep inside flowers. (A long, thin, curved beak and a tube-shaped tongue.) Kingfisher: must grab slippery fish. (A long, strong, pointed beak.) Flamingo, which spends the winter in thousands in the creeks near Mumbai: must eat tiny shrimps and algae from muddy water. (It holds its beak upside down in the water, and comb-like edges strain the food out.) Rose-ringed parakeet: must crack hard fruits and climb branches. (A strong hooked beak, which it also uses like a third foot.) Last, ask: 'A crow eats rotis, insects, fruit, eggs and dead rats. What should its beak look like?' (Medium, strong and pointed, an all-purpose tool.)"
+    }
+   ],
+   "need": [
+    "the window count table",
+    "everything for Experiment e2: rice, puffed rice, a bowl of water, a narrow-necked bottle, a dish sponge, wool, tweezers, a straw, a tea strainer, a clothes peg"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Watching a bird like a scientist",
+   "goal": "Keep a bird diary, read feet like beaks, and weigh the evidence about the city sparrows.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Bird diary",
+     "mins": 15,
+     "ref": "a1",
+     "do": "Do Activity a1. Choose one bird that comes near your home every day: a crow, a myna, a pigeon or a bulbul. Your child watches only that bird for 10 minutes and fills the diary page: size compared with a crow, beak shape, feet, how it moves (hops, walks or runs), what it eats, what sounds it makes, and what other birds do near it. Ask: 'What did you notice that you never noticed before?' Help them write one question the watching raised, such as 'Why does the myna walk but the sparrow hop?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Feet that fit",
+     "mins": 10,
+     "do": "Draw five feet and ask your child to guess the problem each one solves. Perching feet (crow, myna, sparrow): three toes forward and one back, to wrap round a branch. When the bird crouches, tendons in its legs pull the toes tight, so it can grip even while it sleeps. Talons (black kite, owl): long curved claws to seize and hold prey. Webbed feet (duck): skin between the toes pushes water like a paddle. Climbing feet (parakeet, woodpecker): two toes forward and two back, to cling to a tree trunk. Very long toes (jacana, a pond bird): they spread the bird's weight so it can walk on floating lotus leaves. Ask: 'Which foot did your diary bird have? Does it match how it moved?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Where did the city sparrows go?",
+     "mins": 12,
+     "ref": "v3",
+     "do": "Tell your child about voice v3. Ask: 'Have you seen a house sparrow this week? Did your grandparents see more?' Then read out the possible reasons one by one: no holes in new buildings for nests, too few insects for the chicks, pesticides, fewer open grain shops, and mobile towers. For each, ask: 'What evidence would make you believe this one?' Say plainly: 'There is no good evidence that mobile towers are to blame. Scientists are still finding out which of the others matter most.' Then ask the voice's question."
+    },
+    {
+     "kind": "review",
+     "title": "Window count and seed check",
+     "mins": 8,
+     "do": "Do session 3 of Experiment e1 for 5 minutes and update the total. Then look at the two cups of Experiment e3. Water them if the soil feels dry. Ask: 'Which seeds came up first? What do the first shoots look like?' Your child draws one quick sketch of each cup."
+    }
+   ],
+   "need": [
+    "a bird that visits your home (crow, myna, pigeon or bulbul)",
+    "the bird diary page",
+    "the window count table",
+    "the two seed cups"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Small animals with jointed legs",
+   "goal": "Study an ant up close, meet the arthropods, and find out how caterpillars stay alive.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Ant close-up",
+     "mins": 15,
+     "ref": "a2",
+     "do": "Do Activity a2. When ants have found the crumb, your child watches them through a magnifying glass or a phone camera zoomed in. Ask them to count the legs (6), the body parts (3: head, thorax and abdomen) and the feelers, called antennae (2). Ask: 'Do the legs bend in one place or several?' (Several. They are jointed.) 'Is the ant soft like an earthworm, or hard?' (Hard on the outside.) Say: 'An insect has 6 legs, 3 body parts and 2 antennae. Insects belong to a bigger group, the arthropods: animals with jointed legs and a hard skeleton on the outside, called an exoskeleton. Spiders, crabs, prawns, centipedes and millipedes are arthropods too, but not insects.' Ask: 'A spider has 8 legs and 2 body parts. Is it an insect?' (No, but it is an arthropod.)"
+    },
+    {
+     "kind": "think",
+     "title": "Why are there no insects as big as dogs?",
+     "mins": 8,
+     "do": "Ask: 'Your skeleton grows with you. An ant's skeleton is outside, like armour. How can it grow?' Let your child think. Then say: 'It can't grow inside its armour. So an insect splits it open and climbs out with a new soft one, then waits for it to harden. This is called moulting.' Ask: 'Why might moulting be dangerous for a big animal?' (While the new skeleton is soft, the body is weak and easy to catch.) Say: 'Insects also breathe through tiny tubes that run from holes in their sides. About 300 million years ago there was a dragonfly-like insect, Meganeura, with wings about 70 cm across. The air then had more oxygen than today. Some scientists think that is why insects could be so big. Others think it was not the main reason. This is still argued about.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Maria Sibylla Merian and the caterpillars",
+     "mins": 12,
+     "ref": "v1",
+     "do": "Tell your child about voice v1. Ask: 'Merian watched each caterpillar for weeks and wrote down which leaf it ate. Why do you think she painted the caterpillar and its food plant on the same page?' (Because the caterpillar depends on that plant. Many caterpillars eat only one kind of plant, so they are specialists.) Ask: 'Many people then thought small creatures could grow out of mud. How did her way of watching show they were wrong?' (She saw eggs become caterpillars, then pupae, then butterflies and moths.) Then ask the voice's question."
+    },
+    {
+     "kind": "do",
+     "title": "The caterpillar on the curry leaf",
+     "mins": 10,
+     "do": "If you have a curry leaf or lemon plant, look under its leaves together. Look only, and leave anything you find. Otherwise, search on the phone for 'Common Mormon caterpillar'. Say: 'The Common Mormon is a butterfly found all over India. Its caterpillars eat curry leaf and lemon leaves. Their problem is birds. When they are young, they look like bird droppings, so birds ignore them. When they are bigger, they turn green like the leaves.' Ask: 'Which two tricks did it use?' (Looking like something no one eats, and matching the leaf colour, called camouflage.) Then say: 'Some female Common Mormons look like another butterfly, the Common Rose, which tastes bad to birds. Looking like a different animal for protection is called mimicry.'"
+    }
+   ],
+   "need": [
+    "a crumb of biscuit or a pinch of sugar on white paper",
+    "a magnifying glass or a phone camera",
+    "a curry leaf or lemon plant, or a phone to look up pictures"
+   ],
+   "prep": [
+    {
+     "task": "Put a biscuit crumb on a sheet of white paper where you have seen ants, so they find it before the lesson",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Leaves, seeds and roots that go together",
+   "goal": "Compare moong and wheat seedlings, study leaves, and find that some features come in packages.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Dig up the seedlings",
+     "mins": 15,
+     "ref": "e3",
+     "do": "Finish Experiment e3. Tip one moong and one wheat seedling out of their cups and swirl the roots gently in a bowl of water to clean them. Lay them side by side on a dark cloth. Ask your child to compare three things. Seed leaves: the moong has two thick, rounded seed leaves on its stem (the two halves of the seed). The wheat has none above the soil, only one blade. Leaf veins: hold each young leaf against a window or a phone torch. Moong veins branch like a net. Wheat veins run side by side, parallel. Roots: the moong has one main root with thin side roots, called a taproot. The wheat has a bunch of thin roots, all about the same, called fibrous roots. Then split a soaked chana with a fingernail into its two halves, and try to split a soaked wheat grain. (It won't split into two.)"
+    },
+    {
+     "kind": "do",
+     "title": "Leaf table",
+     "mins": 12,
+     "do": "Collect 6 to 8 different leaves from home: curry leaf, tulsi, mint, coriander, spinach, a potted plant, a grass blade, the green shoot of an old onion, and a strip of banana leaf if you have one. Make a table with these columns: leaf, shape, edge (smooth, toothed or wavy), feel (smooth, rough, hairy, waxy), smell, veins (net or parallel). Your child rubs each leaf gently and smells it. Then they hold each one up to the light to see the veins. Say: 'Veins are the leaf's pipes. They bring water in from the stem and carry the food the leaf makes to the rest of the plant. They also hold the leaf open, like the ribs of an umbrella.'"
+    },
+    {
+     "kind": "think",
+     "title": "Features that come in packages",
+     "mins": 6,
+     "do": "Say: 'Most flowering plants fall into two big groups. Monocots have one seed leaf, parallel veins and fibrous roots: wheat, rice, grass, banana, coconut, onion. Dicots have two seed leaves, net veins and a taproot: moong, chana, mango, neem, hibiscus.' Ask: 'Your leaf table shows the onion leaf has parallel veins. Without digging, what do you think its roots look like?' (A bunch of thin roots. Look at the bottom of an old onion to check.) Say: 'One feature lets you predict others. That is why sorting by features works. But there are exceptions. A few monocots, such as the yam, have net veins.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 12,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1 (core). Read each question aloud if needed, and let your child answer on their own. For the two written questions, ask them to say the answer aloud first, then write it. Mark it together. For any wrong answer, go back to the beak test, the ant or the seedlings and look again."
+    }
+   ],
+   "need": [
+    "the two seed cups",
+    "a bowl of water and a dark cloth",
+    "a soaked chana and a soaked wheat grain",
+    "6 to 8 kinds of leaves from home",
+    "a phone torch",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Same problem, different families",
+   "goal": "See that unrelated animals can share a feature, and that sorting by family is not the same as sorting by way of life.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Window count, session 4",
+     "mins": 5,
+     "do": "Do session 4 of Experiment e1 for 5 minutes and update the total. Ask: 'Are the new kinds getting easier or harder to find?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Lookalikes that are not cousins",
+     "mins": 13,
+     "do": "Ask: 'A bat and a crow both fly. Are they close cousins?' (No. A bat is a mammal: it has fur and feeds its babies milk.) Say: 'A bird's wing has feathers on its arm bones. A bat's wing is skin stretched between very long finger bones. Both solve the same problem, flying, in different ways.' Give two more pairs. Purple sunbirds live in Asia and Africa. Hummingbirds live only in America. They are not close cousins, but both drink nectar, so both have long thin beaks. A shark is a fish with gills. A dolphin is a mammal that breathes air through a blowhole. Both chase fish fast through water, so both have smooth, pointed bodies. Say: 'When unrelated living things end up with similar features because they face the same problem, scientists call it convergent evolution.' Ask: 'Remember your Class 3 keys. Why is it risky to sort animals by a feature like wings?' (You would put bats with birds, though bats are mammals.)"
+    },
+    {
+     "kind": "game",
+     "title": "Problem and Feature",
+     "mins": 15,
+     "ref": "g1",
+     "do": "Play the card game g1. Before turning a card over, the player must say aloud the problem the feature solves, or the feature that would solve the problem. Play two rounds. After the game, ask: 'Which pair surprised you most? Why?'"
+    },
+    {
+     "kind": "think",
+     "title": "Who wins in a city?",
+     "mins": 12,
+     "do": "Look at the window count list together. Ask: 'Which animals did you see in every session?' (Usually crows, pigeons, ants, flies, perhaps mynas.) Ask: 'What do they eat, and where do they nest?' (Almost anything, and on buildings.) Say: 'Generalists, which eat many foods and can live in many places, do well in cities. Specialists need one kind of food or home. A great hornbill needs big fruiting trees and a large hole in an old forest tree for its nest. It cannot live in a city.' Ask: 'Is it better to be a generalist or a specialist?' (Neither. A specialist is the best at its own food. A generalist survives when things change.) 'Is a crow less precious than a hornbill because there are more crows?' Leave it open."
+    }
+   ],
+   "need": [
+    "the window count table",
+    "the printed Problem and Feature cards",
+    "scissors"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The web of life, and why big hunters are few",
+   "goal": "Sort living things by their role in the web, and find out why a forest has many deer but few tigers.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Three jobs in the web",
+     "mins": 8,
+     "do": "Say: 'In Class 3 we sorted living things by their family. Today we sort them by their job in the web of life.' Draw three circles. Producers make their own food from sunlight: grass, neem, algae. Consumers eat other living things: chital (a spotted deer), tigers, ants, you. Decomposers break down dead things into soil: mushrooms, bacteria, earthworms. Your child sorts these into the circles: tulsi, crow, mould, kingfisher, banyan, cockroach, mushroom, cow. Ask: 'A food web is all the food chains in a place joined up. Where does the energy in every food chain start?' (With the Sun, caught by the producers.)"
+    },
+    {
+     "kind": "act",
+     "title": "Energy up the chain",
+     "mins": 17,
+     "ref": "a3",
+     "do": "Do Activity a3. Before you start, ask: 'If grass catches 100 grains of energy, how many do you think reach the tiger?' Write the guess. At the end, ask: 'How many grains of grass are needed to give the tiger 10 grains?' (1,000.) 'Why are there many more ants than tigers in the world?' (Ants eat near the start of the chain, so there is much more food for them.) Then do the tiger sum in the activity."
+    },
+    {
+     "kind": "talk",
+     "title": "Partners in the web",
+     "mins": 10,
+     "do": "Say: 'The web is not only about eating. Many living things help each other.' Tell three examples. Figs: a peepal or banyan fig has its flowers hidden inside. Only tiny fig wasps can crawl in and carry pollen. Most kinds of fig have their own kind of fig wasp, and neither can have young without the other. Hornbills swallow forest fruits whole and drop the seeds far away, so new trees grow. Bees carry pollen from flower to flower, and the flowers give them nectar. Ask: 'If all the fig wasps disappeared, what would happen to the peepal trees? Then to the birds and bats that eat figs?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "ref": "ws2",
+     "do": "Do Worksheet ws2 (stretch). It asks your child to use what they know about families, ways of life and the web on new examples. Let them explain each written answer aloud before writing."
+    }
+   ],
+   "need": [
+    "100 grains of uncooked rice",
+    "4 small bowls and paper labels",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Telling one tiger from another",
+   "goal": "Hear the story, find out how scientists count tigers, and try it with fingerprints.",
+   "steps": [
+    {
+     "kind": "read",
+     "title": "Story: The Tiger Who Walked Three Roads",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Then ask the story's questions, especially: 'Why did the mud print look bigger than the dust print?' and 'What could Appa tell from a footprint that the camera could not?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Ullas Karanth's cameras",
+     "mins": 10,
+     "ref": "v2",
+     "do": "Tell your child about voice v2. Ask: 'Why did Karanth put cameras in pairs, one on each side of the road?' (A tiger's stripes are different on its left and right sides, so he needed both to recognise it later.) Ask: 'If most of your new photos show tigers you have already seen, what does that tell you?' (There are probably not many tigers left that you haven't seen.) Then ask the voice's question."
+    },
+    {
+     "kind": "act",
+     "title": "Fingerprint detectives",
+     "mins": 15,
+     "ref": "a4",
+     "do": "Do Activity a4. When everyone's prints are on the sheet, one person secretly makes a mystery print on a separate slip. Your child finds the match. Ask: 'Which details did you compare?' (Loops, whorls, arches, and places where a line splits in two, like the Y on the tiger's hip in the story.) Say: 'No two people have been found with the same fingerprints, not even twins. A tiger's stripes work the same way.'"
+    },
+    {
+     "kind": "review",
+     "title": "Window count: the last session and the graph",
+     "mins": 8,
+     "do": "Do session 5 of Experiment e1 for 5 minutes. Then your child draws a line graph: session number along the bottom, total kinds up the side. Ask: 'What shape is the line?' (It rises steeply, then flattens.) 'Does flattening mean you have found every kind?' (No. You have found most of the common ones. Shy or rare ones, like a bat at dusk, may still turn up.) Compare with the guess from Day 1."
+    }
+   ],
+   "need": [
+    "a soft pencil, white paper, clear sticky tape",
+    "a magnifying glass or phone camera",
+    "the window count table and graph paper"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Caring for nature, and teach it back",
+   "goal": "Learn the rules of a nature trail and why they matter, finish the field guide, and teach the week back.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Rules for a nature trail, and why",
+     "mins": 10,
+     "do": "Ask your child to make three rules for visiting a forest or a park. Then talk through these, asking 'Why?' for each. Walk quietly on the path, because noise scares animals away from food and nests. Never feed wild animals: people's food can make them ill, and monkeys that are fed learn to snatch bags. Carry all plastic home, because cows and deer eat plastic bags, which block their stomachs. Take photos, not flowers or eggs. Then say: 'In Kerala, many families and temples keep a sacred grove, called a kavu. Nobody cuts its trees. In Karnataka these groves are called devarakadu. Some of them hold plants that are rare everywhere else.' Ask: 'A kavu belongs to a family or a village, but its birds and its shade are shared. Who should decide what happens to it?'"
+    },
+    {
+     "kind": "do",
+     "title": "Finish the field guide",
+     "mins": 8,
+     "do": "Finish the project. Your child picks 6 kinds from the window count and makes one page for each: a drawing, the name or a description, where it was seen, and one feature with the problem it solves. Add the signs page, the leaf table and the moong and wheat drawing. Make a cover: 'A field guide to our building'."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "ref": "ws3",
+     "do": "Do Worksheet ws3 (challenge). Your child can say the written answers aloud while you write them down. Some questions have no single right answer. Look for reasons that use evidence from this week, such as 'In my beak test...'"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 15,
+     "do": "Your child is the teacher and a family member is the student. In 6 minutes, using real things from the week (the window count graph, the beak tools, the seedlings, the fingerprints), they explain: what biodiversity is, how a beak matches a problem, what makes an insect, how monocots and dicots differ, why there are few tigers, and how stripes help count them. The student asks: 'Why does a crow do well in a city?' Then ask the check questions aloud, one at a time."
+    }
+   ],
+   "need": [
+    "the field guide pages, stapler or string",
+    "worksheet ws3",
+    "the things made this week"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Features and the problems they solve",
+   "day": 5,
+   "sections": [
+    [
+     "A. Beaks and feet",
+     [
+      {
+       "t": "match",
+       "p": "Match each bird's beak to the problem it solves.",
+       "pairs": [
+        [
+         "house sparrow: short, thick beak",
+         "cracks hard seeds"
+        ],
+        [
+         "black kite: hooked beak",
+         "tears meat"
+        ],
+        [
+         "purple sunbird: long, thin, curved beak",
+         "drinks nectar from flowers"
+        ],
+        [
+         "flamingo: beak with comb-like edges",
+         "strains tiny food out of water"
+        ],
+        [
+         "kingfisher: long, pointed beak",
+         "grabs slippery fish"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A bird has two toes pointing forward and two pointing back. Which problem do these feet solve best?",
+       "opts": [
+        "swimming in a pond",
+        "clinging to a tree trunk",
+        "walking on lotus leaves"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "In the beak test, the tool that got some of almost every food, but never won, was the clothes ____.",
+       "a": [
+        "peg"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Small animals",
+     [
+      {
+       "t": "sort",
+       "p": "Count the legs. Is it an insect?",
+       "items": [
+        "ant",
+        "housefly",
+        "spider",
+        "cockroach",
+        "earthworm",
+        "mosquito",
+        "centipede",
+        "butterfly"
+       ],
+       "cats": [
+        "insect",
+        "not an insect"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "How many parts does an insect's body have?",
+       "opts": [
+        "2",
+        "3",
+        "6"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Leaves and seeds",
+     [
+      {
+       "t": "sort",
+       "p": "Net veins or parallel veins?",
+       "items": [
+        "mango",
+        "grass",
+        "banana",
+        "peepal",
+        "hibiscus",
+        "maize",
+        "tulsi",
+        "coconut"
+       ],
+       "cats": [
+        "net veins",
+        "parallel veins"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Meenakshi, a girl in Class 4, splits a soaked chana seed into two halves. What veins will the chana plant's leaves probably have?",
+       "opts": [
+        "parallel veins, like grass",
+        "net veins, like mango",
+        "no veins at all"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Arjun says: 'A sparrow has a short, thick beak because it is a small bird.' Is he right? What would you tell him?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Kavya counted the kinds of living things from her window five times. Her totals were 6, 9, 11, 12 and 12. Why did the total grow more slowly each time? Does 12 mean there are no more kinds to find?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Families, ways of life and the web",
+   "day": 7,
+   "sections": [
+    [
+     "A. Families and ways of life",
+     [
+      {
+       "t": "mcq",
+       "p": "A bat and a crow both have wings. Which is true?",
+       "opts": [
+        "They are both birds.",
+        "The bat is a mammal. Their wings solve the same problem in different ways.",
+        "The crow is a mammal."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A sunbird in Chennai and a hummingbird in Brazil both have long, thin beaks. Why?",
+       "opts": [
+        "They both drink nectar from flowers.",
+        "They are the same species.",
+        "They both live in cities."
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Generalist (eats many foods, lives in many places) or specialist (needs one kind of food or home)?",
+       "items": [
+        "house crow",
+        "rock pigeon",
+        "a fig wasp that lives in one kind of fig",
+        "great hornbill, which nests in holes in old forest trees",
+        "black kite",
+        "a caterpillar that eats only curry leaves and lemon leaves"
+       ],
+       "cats": [
+        "generalist",
+        "specialist"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. The web",
+     [
+      {
+       "t": "sort",
+       "p": "Producer, consumer or decomposer?",
+       "items": [
+        "neem tree",
+        "grass",
+        "tiger",
+        "mushroom",
+        "chital",
+        "algae",
+        "kingfisher",
+        "bacteria that rot a dead leaf"
+       ],
+       "cats": [
+        "producer",
+        "consumer",
+        "decomposer"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "In a food chain, only about one ____ of the energy in food passes from one eater to the next.",
+       "a": [
+        "tenth",
+        "10th"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Grass in a forest catches 10,000 units of energy. Chital eat the grass, and tigers eat the chital. About how much energy reaches the tigers?",
+       "opts": [
+        "10,000 units",
+        "1,000 units",
+        "100 units"
+       ],
+       "a": 2
+      },
+      {
+       "t": "match",
+       "p": "Match each partner to how it helps.",
+       "pairs": [
+        [
+         "fig wasp",
+         "carries pollen inside the fig"
+        ],
+        [
+         "hornbill",
+         "drops tree seeds far away"
+        ],
+        [
+         "bee",
+         "carries pollen between flowers"
+        ],
+        [
+         "earthworm",
+         "turns dead leaves into soil"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think it through",
+     [
+      {
+       "t": "write",
+       "p": "Nagarhole forest in Karnataka has many thousands of chital but far fewer tigers. Use what you learned about energy to explain why.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A caterpillar is eating the leaves of your curry leaf plant. Some people call it a pest. Who is it a pest to? What is it to a bulbul? What is it to the butterfly it will become?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Think like a field scientist",
+   "day": 9,
+   "sections": [
+    [
+     "A. Explain and design",
+     [
+      {
+       "t": "write",
+       "p": "A dolphin and a shark have the same smooth, pointed shape. Why? Name two things you could check to show they are not close cousins.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Siddappa, a forest watcher, counted 5 tigers from their footprints. Camera photos showed only 3. Give two reasons why footprints can give the wrong count.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Farhan says mobile towers drove the sparrows away from his town. What evidence would you need before you believed him? How could you test it?",
+       "lines": 4
+      }
+     ]
+    ],
+    [
+     "B. Predict",
+     [
+      {
+       "t": "mcq",
+       "p": "An onion plant has leaves with parallel veins. What are its roots probably like?",
+       "opts": [
+        "one thick main root with thin side roots",
+        "a bunch of thin roots, all about the same",
+        "it has no roots"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "About 300 million years ago there was a dragonfly-like insect with wings about 70 cm across. What do some scientists think helped it grow so big?",
+       "opts": [
+        "The air had more oxygen than today.",
+        "It had a skeleton inside its body.",
+        "There was less gravity then."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Scientists tell one tiger from another by the pattern of its ____.",
+       "a": [
+        "stripes"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Sort and match",
+     [
+      {
+       "t": "sort",
+       "p": "On a nature trail, does this help living things or harm them?",
+       "items": [
+        "feeding biscuits to monkeys",
+        "taking photos instead of picking flowers",
+        "leaving a plastic bag behind",
+        "walking quietly on the path",
+        "playing loud music",
+        "carrying your rubbish home"
+       ],
+       "cats": [
+        "helps",
+        "harms"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Each way of sorting helps you notice something different. Match them.",
+       "pairs": [
+        [
+         "by family, on the tree of life",
+         "who is related to whom"
+        ],
+        [
+         "by beak shape",
+         "how a bird gets its food"
+        ],
+        [
+         "by job in the web",
+         "who feeds whom"
+        ],
+        [
+         "by veins, seed leaves and roots",
+         "whether a plant is a monocot or a dicot"
+        ]
+       ]
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Window count: how many kinds live around us?",
+   "day": 1,
+   "question": "How many kinds of living things can we see from one window, and does the count keep growing as we keep looking?",
+   "need": [
+    "one window or balcony",
+    "a notebook and pencil",
+    "a phone timer",
+    "graph paper for the last day"
+   ],
+   "steps": [
+    "Choose one window or balcony. Use the same one every time, at about the same time of day.",
+    "Set a timer for 5 minutes. Write down every kind of living thing you see: birds, insects, spiders, plants, moss, a squirrel, a lizard.",
+    "If you don't know a name, describe it, for example 'small green bird with a red patch'.",
+    "After each session, write only the new kinds you had not seen before, and add them to the total.",
+    "Do five sessions: on Days 1, 2, 3, 6 and 8.",
+    "On Day 8, draw a line graph: session number along the bottom, total kinds up the side."
+   ],
+   "predict": "Ask your child to guess first: 'How many kinds will you see in the first 5 minutes? How many after all five sessions? Why do you think so?'",
+   "observe": "Most children in a city flat find 6 to 12 kinds in the first session: crows, pigeons, ants, flies, a tree, potted plants, perhaps a myna, a kite or a squirrel. Each later session adds fewer new kinds. The graph rises steeply, then flattens.",
+   "why": "The common kinds are seen almost at once. Rarer or shyer kinds, like a kingfisher, a moth or a bat at dusk, turn up only now and then, so each extra session finds fewer new ones. Scientists draw the same kind of graph when they survey a forest. When the line flattens, they know they have found most of the common kinds. They also know that rare kinds are still hiding, so no survey ever finds everything.",
+   "safety": "Stay back from balcony edges and never lean out of a window. Watch birds without disturbing their nests.",
+   "time": "5 min per session, 5 sessions over 8 days"
+  },
+  {
+   "id": "e2",
+   "title": "The beak test: specialists and an all-rounder",
+   "day": 2,
+   "question": "Does the shape of a beak decide which food a bird can eat? Is a tool that is good at everything better than one that is best at one thing?",
+   "need": [
+    "20 grains of uncooked rice on a plate (seeds)",
+    "20 pieces of puffed rice (pori or murmura) floating in a bowl of water (tiny food in water)",
+    "a narrow-necked bottle half full of water, with a line drawn at the water level (nectar inside a flower)",
+    "a dish sponge or a tightly rolled newspaper with 5 short pieces of wool pushed into holes made with a pencil (insects in bark)",
+    "4 tools: tweezers, a drinking straw, a tea strainer, a clothes peg",
+    "a phone timer",
+    "a table with tools across the top and foods down the side"
+   ],
+   "steps": [
+    "Give each tool a bird name: tweezers are a bulbul picking out insects, the straw is a sunbird, the tea strainer is a flamingo, and the clothes peg is a crow.",
+    "For each food, use one tool for 20 seconds. Count how many pieces it picked up. For the bottle, see how far the water level dropped.",
+    "Put the food back and try the next tool.",
+    "Write every count in the table.",
+    "Circle the best tool for each food.",
+    "Add up how many foods each tool got at least some of."
+   ],
+   "predict": "Ask your child to guess first: 'Which tool will be best for each food? Will any tool be good at everything? Why do you think so?'",
+   "observe": "The straw wins the bottle easily and does badly at most other foods. The tea strainer wins the floating puffed rice. The tweezers are best at the wool in the holes and good at rice grains. The clothes peg never wins, but it usually gets some rice, some puffed rice and some wool. Only the straw gets the water out of the narrow bottle.",
+   "why": "Each tool is shaped for one job, just as each beak is. A sunbird's long, thin beak reaches nectar that no other beak can, but it cannot crack seeds. A flamingo's beak strains food from water. These birds are specialists. A crow's beak is an all-purpose tool, like the peg. It is not the best at anything, but it can eat almost anything. This is why crows do well wherever people live, while specialists need their own kind of food to be there.",
+   "safety": "Use a clean straw for each person. Keep tweezers away from eyes. Drink only the clean water from the bottle.",
+   "time": "20 min"
+  },
+  {
+   "id": "e3",
+   "title": "Moong and wheat: features that come together",
+   "day": 1,
+   "question": "Do a pulse and a grain grow the same kind of leaves and roots?",
+   "need": [
+    "4 moong seeds and 4 whole wheat grains, soaked overnight",
+    "2 small cups or cut plastic bottles, with a hole in each bottom",
+    "soil from a potted plant",
+    "a bowl of water and a dark cloth",
+    "1 soaked chana and 1 soaked wheat grain, for splitting",
+    "a phone torch"
+   ],
+   "steps": [
+    "Fill both cups with soil. Sow the moong in one cup and the wheat in the other, about 1 cm deep. Label the cups.",
+    "Water lightly and keep the cups near a bright window. Water again whenever the top of the soil feels dry.",
+    "On Day 5, after 4 days, tip one seedling of each out of its cup. Swirl the roots gently in a bowl of water to clean them.",
+    "Lay both on a dark cloth. Compare the seed leaves, the leaf veins (hold the leaves against a torch) and the roots.",
+    "Split the soaked chana with a fingernail. Then try to split the soaked wheat grain.",
+    "Draw both seedlings and label: seed leaves, veins, roots."
+   ],
+   "predict": "Ask your child to guess first: 'Will the moong and the wheat have the same kind of leaves and roots? Why do you think so?'",
+   "observe": "The moong has two thick, rounded seed leaves on its stem, young leaves with net veins, and one main root with thin side roots (a taproot). The wheat has one narrow blade with parallel veins, no seed leaves above the soil, and a bunch of thin roots of about the same size (fibrous roots). The chana splits into two halves. The wheat grain does not. If the wheat has not sprouted after 4 days, use the green shoot and roots at the bottom of an old onion, or a blade of grass pulled up with its roots.",
+   "why": "Most flowering plants belong to one of two big groups. Monocots, like wheat, rice, grass, banana and onion, have one seed leaf, parallel veins and fibrous roots. Dicots, like moong, chana, mango and neem, have two seed leaves, net veins and a taproot. These features usually come together, because each group inherited them from its own ancestors. So if you know one feature, you can often predict the others. There are a few exceptions, such as yams, which are monocots with net veins.",
+   "safety": "Wash hands after handling soil.",
+   "time": "10 min + 4 days + 15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Bird diary: one bird, ten minutes",
+   "day": 3,
+   "mins": 15,
+   "need": [
+    "a notebook page with these headings: name or description, date and time, size compared with a crow, beak, feet, how it moves, what it eats, sounds, other birds nearby, my question",
+    "pencil and colour pencils",
+    "a window or balcony where birds come"
+   ],
+   "steps": [
+    "Choose one common bird near your home: a crow, a myna, a pigeon or a bulbul. Early morning or late afternoon is best.",
+    "Watch only that bird for 10 minutes. Sit still and quiet.",
+    "Fill in each heading on the page.",
+    "Draw the bird, with its beak and feet as clearly as you can.",
+    "Write one question your watching raised.",
+    "If you want birds to keep visiting, put out a shallow bowl of water, not food. Change the water every day so mosquitoes cannot breed."
+   ],
+   "outcome": "A careful record of one real bird, and a question of your own about it."
+  },
+  {
+   "id": "a2",
+   "title": "Ant close-up",
+   "day": 4,
+   "mins": 15,
+   "need": [
+    "a biscuit crumb or a pinch of sugar on a sheet of white paper, put out that morning",
+    "a magnifying glass or a phone camera",
+    "a pencil and notebook"
+   ],
+   "steps": [
+    "Find the paper where the ants have gathered. Sit beside it without blowing on it.",
+    "Watch one ant through the magnifying glass or the zoomed-in phone camera.",
+    "Count its legs, its body parts and its antennae. Draw it.",
+    "Watch what the antennae do when two ants meet.",
+    "Look at how many places each leg bends.",
+    "When you finish, carry the paper outside so the ants can take the food away."
+   ],
+   "outcome": "A labelled drawing of an ant showing 6 jointed legs, 3 body parts and 2 antennae, and notes on how ants meet."
+  },
+  {
+   "id": "a3",
+   "title": "Energy up the chain",
+   "day": 7,
+   "mins": 17,
+   "need": [
+    "100 grains of uncooked rice",
+    "4 small bowls labelled GRASS, CHITAL, TIGER and USED FOR LIVING",
+    "a notebook"
+   ],
+   "steps": [
+    "Count 100 rice grains into the GRASS bowl, in 10 groups of 10. Say: 'This is the energy the grass caught from the Sun.'",
+    "The chital eats the grass. Most of the energy is used for living: walking, breathing, keeping warm. Move 90 grains to USED FOR LIVING and 10 grains to CHITAL.",
+    "The tiger eats the chital. Move 9 of the chital's grains to USED FOR LIVING and 1 grain to TIGER.",
+    "Count what is in each bowl and write it down: 100, 10, 1.",
+    "Say: 'On average, only about one tenth of the energy passes from one eater to the next.'",
+    "Do the tiger sum: one tiger eats about 50 deer-sized animals in a year. A forest has 500 chital, and about 100 young are born each year. If the tigers ate more than the young born, the herd would shrink. So how many tigers can this forest feed? (100 ÷ 50 = 2.)"
+   ],
+   "outcome": "Three bowls showing why each step up a food chain has far less food, and why a few tigers need a large forest full of deer."
+  },
+  {
+   "id": "a4",
+   "title": "Fingerprint detectives",
+   "day": 8,
+   "mins": 15,
+   "need": [
+    "a soft pencil",
+    "white paper",
+    "clear sticky tape",
+    "a magnifying glass or phone camera"
+   ],
+   "steps": [
+    "Shade a dark patch of pencil, about 3 cm square, on a scrap of paper.",
+    "Rub your right thumb on the patch until it is grey.",
+    "Press a piece of sticky tape onto your thumb, then peel it off. Your print is on the tape.",
+    "Stick the tape on a white sheet and write your name under it. Do the same for everyone in the family.",
+    "One person secretly makes a mystery print on a separate slip, with no name.",
+    "Find the match by comparing loops, whorls, arches and the places where a line splits in two."
+   ],
+   "outcome": "A family fingerprint sheet, and a child who has identified a person by a pattern, the way scientists identify a tiger by its stripes."
+  }
+ ],
+ "project": {
+  "title": "A field guide to our building",
+  "days": [
+   1,
+   3,
+   5,
+   9
+  ],
+  "steps": [
+   "Keep the window count list from Day 1 onwards.",
+   "Add the signs-of-life page from Day 1 and the bird diary from Day 3.",
+   "Add the leaf table and the moong and wheat drawing from Day 5.",
+   "On Day 9, choose 6 kinds from the window count and make one page for each: a drawing, a name or description, where it was seen, and one feature with the problem it solves.",
+   "Make a cover, 'A field guide to our building', and staple or tie the pages together.",
+   "Leave a blank page at the back for new kinds you see later."
+  ],
+  "outcome": "A home-made field guide that another child in the building could use to find and name the living things around them."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Problem and Feature",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the 24 printed cards",
+   "scissors"
+  ],
+  "rules": [
+   "Cut out the 24 cards. 12 are problem cards and 12 are feature cards. Shuffle them and lay them face down in rows.",
+   "On your turn, turn over two cards and read them aloud.",
+   "If one is a problem and the other is the feature that solves it, say why they match. If the others agree, keep the pair and have another turn.",
+   "If they don't match, turn them face down again. The next player takes a turn.",
+   "When all the cards are taken, the player with the most pairs wins.",
+   "Playing alone? Lay all the cards face up and match every pair against a timer."
+  ],
+  "cards": [
+   {
+    "front": "PROBLEM: I must crack hard seeds.",
+    "back": "Matches: the house sparrow's short, thick beak"
+   },
+   {
+    "front": "FEATURE: House sparrow, a short, thick, cone-shaped beak",
+    "back": "Solves: cracking hard seeds"
+   },
+   {
+    "front": "PROBLEM: I must tear meat.",
+    "back": "Matches: the black kite's hooked beak and talons"
+   },
+   {
+    "front": "FEATURE: Black kite, a hooked beak and sharp curved talons",
+    "back": "Solves: tearing meat"
+   },
+   {
+    "front": "PROBLEM: I must drink nectar deep inside a flower.",
+    "back": "Matches: the sunbird's long, thin, curved beak"
+   },
+   {
+    "front": "FEATURE: Purple sunbird, a long, thin, curved beak",
+    "back": "Solves: drinking nectar"
+   },
+   {
+    "front": "PROBLEM: I must strain tiny shrimps out of muddy water.",
+    "back": "Matches: the flamingo's comb-edged beak"
+   },
+   {
+    "front": "FEATURE: Flamingo, a beak with comb-like edges, held upside down",
+    "back": "Solves: straining tiny food from water"
+   },
+   {
+    "front": "PROBLEM: I must grab slippery fish.",
+    "back": "Matches: the kingfisher's long, pointed beak"
+   },
+   {
+    "front": "FEATURE: Kingfisher, a long, strong, pointed beak",
+    "back": "Solves: catching fish"
+   },
+   {
+    "front": "PROBLEM: I must hold a branch tight, even while I sleep.",
+    "back": "Matches: perching feet"
+   },
+   {
+    "front": "FEATURE: Perching feet, three toes forward and one back, which pull tight when the bird crouches",
+    "back": "Solves: gripping a branch"
+   },
+   {
+    "front": "PROBLEM: I must walk on floating lotus leaves.",
+    "back": "Matches: the jacana's very long toes"
+   },
+   {
+    "front": "FEATURE: Jacana, very long toes that spread its weight",
+    "back": "Solves: walking on floating leaves"
+   },
+   {
+    "front": "PROBLEM: I must paddle through water.",
+    "back": "Matches: the duck's webbed feet"
+   },
+   {
+    "front": "FEATURE: Duck, skin between its toes",
+    "back": "Solves: paddling"
+   },
+   {
+    "front": "PROBLEM: I am a young caterpillar, and birds want to eat me.",
+    "back": "Matches: looking like a bird dropping"
+   },
+   {
+    "front": "FEATURE: Young Common Mormon caterpillar, which looks like a bird dropping",
+    "back": "Solves: not being eaten"
+   },
+   {
+    "front": "PROBLEM: I must breathe air, but I live in water.",
+    "back": "Matches: the dolphin's blowhole"
+   },
+   {
+    "front": "FEATURE: Dolphin, a nostril called a blowhole on top of its head",
+    "back": "Solves: breathing at the surface"
+   },
+   {
+    "front": "PROBLEM: I must grow, but my skeleton is on the outside.",
+    "back": "Matches: moulting"
+   },
+   {
+    "front": "FEATURE: Insects and spiders moult: they climb out of the old exoskeleton",
+    "back": "Solves: growing inside a hard shell"
+   },
+   {
+    "front": "PROBLEM: I must carry water to every part of a wide leaf.",
+    "back": "Matches: veins that branch like a net"
+   },
+   {
+    "front": "FEATURE: Mango leaf, veins that branch like a net from a middle vein",
+    "back": "Solves: carrying water across the leaf"
+   }
+  ]
+ },
+ "big": [
+  "Is a crow less precious than a hornbill because there are more crows?",
+  "If every tiger is different, is every ant different too? How could you find out?",
+  "Why does the world have so many kinds of living things, instead of just a few?",
+  "Which matters more to a forest, the tiger or the fungus? Can you even choose?",
+  "Should a forest be kept for tigers, for the people who live near it, or for both?"
+ ],
+ "challenge": [
+  {
+   "q": "The tiger is the king of the forest, so it is the most important animal there.",
+   "hint": "The tiger depends on deer, the deer depend on plants, and decomposers turn everything dead back into soil. Take away the plants and everything else goes. Tigers do matter: they keep deer numbers in check, but scientists still argue about how much that changes the forest. Ask: is there a 'most important' thread in a web?"
+  },
+  {
+   "q": "Crows are dirty pests.",
+   "hint": "Crows eat our waste and dead animals, and they eat insects and spread seeds. They do well in cities because they are generalists that can eat almost anything. Crows are also good at solving problems, which scientists have tested in experiments. Ask: a pest to whom? What would our streets be like without crows?"
+  },
+  {
+   "q": "Footprints are a good way to count tigers.",
+   "hint": "For many years India counted tigers by their footprints. But the same tiger leaves bigger prints in soft mud than in hard dust, and prints are hard to tell apart. Since 2006, India's tiger counts have used camera traps and stripes, with track surveys alongside. Trackers' skills still matter: they know where to put the cameras. Ask: what can a footprint tell you that a photo cannot?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A crow at your window",
+   "view": "People shoo it away, yet it clears their waste, and warns other birds when a cat comes near. It eats almost anything, so it lives wherever people live. Ask: if a crow made a field guide to your building, what would it write about you?"
+  },
+  {
+   "who": "A fig wasp",
+   "view": "It is smaller than a grain of rice. It hatches inside a fig, mates, and the females fly off carrying pollen to another fig of the same kind. Without it, the peepal and the banyan could not make seeds. Ask: who is more important to a banyan tree, the fig wasp or the people who worship under it?"
+  },
+  {
+   "who": "A forest watcher who reads tracks",
+   "view": "From one footprint, a good tracker can tell which way an animal went, how fast, and how long ago. This knowledge is learned by walking the forest for years and is rarely written in books. Ask: why should scientists and trackers work together?"
+  },
+  {
+   "who": "A family that keeps a kavu in Kerala",
+   "view": "For generations, nobody has cut a tree in their sacred grove. Snakes, birds and rare plants live there. Ask: what is the grove worth? Can something be precious and have no price?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Maria Sibylla Merian (1647–1717), Germany and the Netherlands",
+   "idea": "Merian raised caterpillars at home and watched each one from egg to caterpillar to pupa to butterfly or moth. She wrote down which plant each caterpillar ate and painted the insect and its food plant together on one page. In 1699, aged 52, she sailed with her daughter Dorothea to Suriname in South America, paying for the trip by selling her own paintings, and studied insects there for about two years. Her book on the insects of Suriname came out in 1705.",
+   "then": "In her time, many people still believed small creatures could grow out of mud or rotting things. Natural history was mostly written by men, and Merian was often seen as an artist rather than a scientist. Long after her death, some writers doubted her pictures, especially one of a large spider eating a small bird.",
+   "now": "Her careful watching is respected today. In the 1800s the naturalist Henry Walter Bates saw a large spider killing small birds in the Amazon, as she had painted. Some of her pictures do have mistakes, as everyone's work does. The idea she showed, that each caterpillar depends on particular plants, is a basic part of how we understand the web of life.",
+   "status": "accepted",
+   "ask": "Merian learned by watching one caterpillar for weeks. What could you learn by watching one living thing every day for a week that a quick look would miss?",
+   "day": 4
+  },
+  {
+   "id": "v2",
+   "who": "K. Ullas Karanth (born 1948), India",
+   "idea": "In the early 1990s in Nagarhole forest in Karnataka, Karanth tied cameras to trees in pairs along forest roads. When a tiger walked between them, it photographed both sides of the tiger. He told the tigers apart by their stripes, which are different on every tiger and on its left and right sides. Then he used maths: if most new photos show tigers you have already seen, few tigers are left unseen. He also counted the chital, sambar and gaur, and showed that the number of tigers depends on the amount of prey.",
+   "then": "India's official tiger counts used footprints, called pugmarks. Karanth argued that this method could not reliably tell one tiger from another. Many forest officials defended the old method for years.",
+   "now": "Since 2006, India's national tiger counts have used camera traps and stripe patterns, along with surveys of tracks and signs. Karanth's methods are used in many countries. Local trackers still matter, because they know where tigers walk and where to put the cameras.",
+   "status": "accepted",
+   "ask": "The footprint count and the camera count gave different numbers. What would you need to see before you decided which one to trust?",
+   "day": 8
+  },
+  {
+   "id": "v3",
+   "who": "The State of India's Birds report (2020), and the debate about the house sparrow",
+   "idea": "Many people in Indian cities say the house sparrow has vanished. In 2020, a report called the State of India's Birds was built from the bird lists of thousands of ordinary birdwatchers, who upload what they see to a website called eBird. It found house sparrow numbers roughly steady across India as a whole, but lower in some big cities.",
+   "then": "People have offered many reasons for the city declines: new buildings with no holes or gaps to nest in, too few insects (sparrow chicks need insects, not grain, in their first days), pesticides on plants, and fewer open grain shops. Some people blamed mobile phone towers.",
+   "now": "Scientists do not agree on the main cause, and it may be different in different cities. There is no good evidence that mobile towers are to blame. In some places, nest boxes have helped sparrows come back. The report could only be made because so many ordinary people counted birds.",
+   "status": "debated",
+   "ask": "If you wanted to find out whether missing nest holes are the reason, which two places would you compare, and what would you count?",
+   "day": 3
+  }
+ ],
+ "story": {
+  "title": "The Tiger Who Walked Three Roads",
+  "text": [
+   "The summer I turned ten, my appa counted five tigers. My name is Manju, and I was there for all of it.",
+   "Appa was a forest watcher at Nagarhole. Every year in the dry season, the forest department counted the tigers by their footprints, which are called pugmarks. Appa walked the dusty forest roads at dawn with a pane of glass and a pen. When he found a fresh print, he laid the glass over it and traced the outline. Then he measured the big pad at the back of the foot. A big pad meant a big tiger. Different sizes meant different tigers.",
+   "That year he came home with five tracings and spread them on the floor of our house. \"One by the stream,\" he said. \"One on the Kalla road. One near the tank. Two on the hill path.\" Amma said that was good news. I lay on my stomach and put my hand on each one. The biggest was wider than my palm.",
+   "Then Ravi came. He was a young scientist from Bengaluru with a jeep full of metal boxes. Each box held a camera. A thin beam ran across the path, and when an animal walked through it, the camera took a photo. Ravi tied the boxes to trees in pairs, one on each side of a forest road, facing each other.",
+   "\"Why two?\" I asked.",
+   "\"A tiger's stripes are different on its left side and its right side,\" he said. \"I want both.\"",
+   "Appa watched him with his arms folded. \"A box cannot read the forest,\" he said in Kannada. Ravi laughed, because he understood.",
+   "For six weeks Ravi came back every few days to change the film. Appa helped him, because it was his job, but he did not talk much. I went with them whenever there was no school. We found elephant dung on the road, a tree trunk scratched by a sloth bear, and a peacock feather. Once, near the tank, we found a fresh tiger print in the wet mud, as wide as my two hands side by side.",
+   "Then the photos came back from the city. Ravi spread them on our kitchen floor under the bulb, the way Appa had spread his tracings. There were eleven photos of tigers. Some were blurred. Some showed only a tail. In one, a tiger was looking straight into the camera, and I felt it was looking at me.",
+   "\"Now help me, Manju,\" said Ravi. \"How many tigers are here?\"",
+   "At first they all looked the same to me: orange, black and white. Then Ravi showed me what to do. Compare left sides only with left sides, and right sides only with right. Choose one place on the body, like the shoulder or the hip, and look at the shapes of the stripes there.",
+   "I chose the left hip. On one tiger, a stripe split in two like the letter Y, with a small black dot beside it. I went through the pile. There was the Y and the dot on the Kalla road. There it was on the hill path. There it was again by the tank, in a photo taken at night. One tiger had walked all three roads.",
+   "We sorted until midnight. When we finished, there were three piles. Three tigers. A big male with the Y on his hip. A female with a stripe like a fish hook on her shoulder. And a thin young one who appeared only twice.",
+   "Appa looked at the three piles for a long time. \"I saw five sets of prints,\" he said. \"I measured them myself.\"",
+   "Nobody said anything. I felt bad for him. He had walked those roads since before I was born.",
+   "The next morning I went to the tank by myself. I pressed my bare right foot into the wet mud at the edge. Then I climbed up the bank and pressed the same foot into the hard dust of the road. I measured both prints with a stick. The print in the mud was wider. My foot had sunk, and the soft mud had pushed outwards. The print in the dust was small and neat. One foot, two sizes.",
+   "I ran home and fetched Appa. He looked at my two prints. Then he took off his chappal and did the same, mud and then dust, and measured them with his hand. He was quiet for a while.",
+   "\"The ground changes the print,\" he said at last. \"The ground cannot change the stripes.\"",
+   "That year the forest department wrote down three tigers for our part of the forest, not five. Some of the other watchers grumbled. Appa did not.",
+   "On the last morning, before Ravi left, Appa took him to the hill path. He crouched beside a print in the dust and touched its edge with one finger.",
+   "\"She came this way before sunrise,\" he said. \"She was walking slowly, not hunting. The edges are still sharp, so it is fresh. By noon the wind will soften them. She is going down to the stream.\"",
+   "Ravi looked at the print, and then at Appa. \"My cameras cannot tell me any of that,\" he said.",
+   "\"Then put one by the stream,\" said Appa. \"That is where she will be.\"",
+   "They walked off down the path together, Appa in front and Ravi behind with the box. I followed them, putting my feet into Appa's footprints, one after another."
+  ],
+  "epiphany": "To count living things, you have to tell individuals apart, and you must sort by a feature that does not change. A pugmark changes with the ground: the same foot leaves a wide print in soft mud and a small one in hard dust, so one tiger was counted as several. Stripes do not change. The turn is Manju pressing his own foot into mud and then dust, and Appa saying 'The ground changes the print. The ground cannot change the stripes.' The ending shows that the tracker's knowledge (direction, speed, how fresh) and the camera's knowledge work best together. Manju, Appa and Ravi are made up. The real camera-trap work in Nagarhole was begun by Ullas Karanth in the early 1990s, and India changed from pugmark counts to camera traps in 2006.",
+  "ask": [
+   "How did Appa count tigers? How did Ravi?",
+   "Why did Ravi put two cameras on each road?",
+   "Why did the mud print look bigger than the dust print?",
+   "How do you think Appa felt when there were only three piles? What did he do?",
+   "What could Appa tell from a footprint that the camera could not?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "A feature makes sense once you know the problem it solves.",
+   "more": "A sparrow's short, thick beak cracks seeds. A sunbird's long, curved beak reaches nectar. Ask what problem the animal faces first, then look at its body. Try it with the beak test, and with the caterpillar that looks like a bird dropping."
+  },
+  {
+   "idea": "Sorting by family and sorting by way of life give different groups.",
+   "more": "A bat and a crow both fly, but a bat is a mammal. A sunbird and a hummingbird share a beak shape but not close ancestors. Features that come from shared ancestors, like the veins, seed leaves and roots of monocots and dicots, tell you about families. Features that solve the same problem can appear in unrelated living things."
+  },
+  {
+   "idea": "Every living thing is held in a web, and food gets scarcer at each step.",
+   "more": "Only about a tenth of the energy in food passes from one eater to the next. So a forest has far more grass than chital, and far more chital than tigers. Partners like figs and fig wasps, and hornbills and fruit trees, hold the web together too."
+  }
+ ],
+ "unknowns": [
+  "How many kinds of living things share one Indian city? Nobody has fully counted, because most insects, mites and microbes have never been surveyed or even named.",
+  "Why do warm, wet places like the Western Ghats hold far more kinds of living things than cold or dry places? Scientists have several ideas and still argue about which matter most.",
+  "Why were some insects so much bigger 300 million years ago? More oxygen in the air is one idea. Others think it mattered more that birds did not exist yet, so there were no flying hunters to catch big insects.",
+  "Why have house sparrows become fewer in some big Indian cities? Nest holes, insects for chicks and pesticides are all suspects, and the answer may differ from city to city."
+ ],
+ "books": [
+  {
+   "title": "The Book of Indian Birds",
+   "author": "Salim Ali",
+   "for": "parent reads",
+   "age": "6–10, with a parent",
+   "why": "The classic Indian field guide, with paintings of each bird. Use it to name the birds from the window count and the bird diary."
+  },
+  {
+   "title": "Summer Birds: The Butterflies of Maria Merian",
+   "author": "Margarita Engle, illustrated by Julie Paschkis",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A picture book about young Maria Merian watching caterpillars turn into butterflies, when others thought they came from mud."
+  },
+  {
+   "title": "Over and Under the Pond",
+   "author": "Kate Messner, illustrated by Christopher Silas Neal",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A boy and his mother canoe across a pond, and the book shows the web of life above and below the water."
+  },
+  {
+   "title": "The Way of the Tiger",
+   "author": "K. Ullas Karanth",
+   "for": "parent reads",
+   "age": "9+, parts read aloud",
+   "why": "Karanth's own book about tigers, their prey and how they are studied in India, with many photographs."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is biodiversity? Give an example of each of its three parts.",
+   "a": "The variety of living things. Many kinds (crows, pigeons and mynas), variety inside one kind (no two crows are the same), and many kinds of homes (pond, forest, city wall)."
+  },
+  {
+   "q": "Why did your window count grow more slowly each session?",
+   "a": "The common kinds are seen at once. Rarer ones turn up only now and then, so each session finds fewer new kinds. It doesn't mean there are none left."
+  },
+  {
+   "q": "What problem does a sunbird's long, curved beak solve? And a sparrow's short, thick beak?",
+   "a": "The sunbird's beak reaches nectar deep in flowers. The sparrow's beak cracks hard seeds."
+  },
+  {
+   "q": "What makes an ant an insect, and a spider not an insect?",
+   "a": "An insect has 6 legs, 3 body parts and 2 antennae. A spider has 8 legs and 2 body parts and no antennae. Both are arthropods, with jointed legs and an exoskeleton."
+  },
+  {
+   "q": "How were the moong and wheat seedlings different?",
+   "a": "Moong had two seed leaves, net veins and a taproot. Wheat had one blade, parallel veins and fibrous roots. Moong is a dicot and wheat is a monocot."
+  },
+  {
+   "q": "Why does a forest have many more chital than tigers?",
+   "a": "Only about a tenth of the energy in food passes up each step of a food chain. So there is much less food for tigers than for chital."
+  },
+  {
+   "q": "How do scientists tell one tiger from another?",
+   "a": "By its stripes, photographed by camera traps on both sides. Every tiger's stripes are different, and they don't change with the ground the way footprints do."
+  },
+  {
+   "q": "Why should people not feed wild animals?",
+   "a": "People's food can make them ill, and animals that are fed learn to grab food from people."
+  }
+ ]
+}

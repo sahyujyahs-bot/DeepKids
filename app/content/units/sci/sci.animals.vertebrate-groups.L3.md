@@ -3,7 +3,7 @@
 
 **Summary.** A house lizard and a pigeon both have a backbone, but they keep warm in very different ways. Animals with a backbone are called vertebrates, and scientists sort them into five groups: fish, amphibians, reptiles, birds and mammals. Birds and mammals make their own body heat from food. Most fish, amphibians and reptiles take their warmth from the sun, the ground or the water around them. The groups also differ in how they breathe and how they have babies, and scientists still argue about how warm the dinosaurs were.
 
-**Intro.** *In a cold north Indian winter, the house lizards in many homes seem to disappear for weeks. The pigeons on the window ledge stay busy all winter. Where do the lizards go, and why don't the pigeons need to hide?* The house lizard and the pigeon both have a backbone. Both breathe air. But they keep warm in two different ways. A lizard's body is about as warm as the air around it. On cold days it hides in a crack or behind a cupboard, still and slow, until the weather warms up. A pigeon makes heat inside its own body from the food it eats, all day and all night. Where winters are warm, as in Chennai or Kochi, house lizards stay active all year, because the air never gets cold enough to slow them. You will meet five groups of animals with a backbone, and find out how each one breathes, stays warm or cool, and has its babies.
+**Intro.** *In a cold north Indian winter, the house lizards in many homes seem to disappear for weeks. The pigeons on the window ledge stay busy all winter. Where do the lizards go, and why don't the pigeons need to hide?* The house lizard and the pigeon both have a backbone. Both breathe air. But they keep warm in two different ways. A lizard's body is about as warm as the air around them. On cold days they hide in a crack or behind a cupboard, still and slow, until the weather warms up. A pigeon makes heat inside their own body from the food they eat, all day and all night. Where winters are warm, as in Chennai or Kochi, house lizards stay active all year, because the air never gets cold enough to slow them. You will meet five groups of animals with a backbone, and find out how each one breathes, stays warm or cool, and has their babies.
 
 ## Learning outcomes
 0. I can name the five groups of animals with a backbone, and give two Indian examples of each.
@@ -22,66 +22,66 @@
 - **Reptile**: Vertebrates with dry, scaly skin that breathe with lungs. Most lay eggs with leathery shells on land. *e.g.* Lizards, snakes, turtles, tortoises and crocodiles are reptiles.
 - **Bird**: Vertebrates with feathers, a beak and wings. All birds lay eggs with hard shells. *e.g.* Sparrows, peacocks, ostriches and penguins are birds, even the ones that cannot fly.
 - **Mammal**: Vertebrates with hair or fur. Mammal mothers feed their babies on milk. *e.g.* Cows, cats, bats, elephants, dolphins and people are mammals.
-- **Gills**: Thin, red, frilly parts on each side of a fish's head, under a hard flap. They take oxygen out of water. *e.g.* Look at a fresh fish at the market. Lift the hard flap behind its eye. The red frills are gills.
+- **Gills**: Thin, red, frilly parts on each side of a fish's head, under a hard flap. They take oxygen out of water. *e.g.* Look at a fresh fish at the market. Lift the hard flap behind their eye. The red frills are gills.
 - **Lungs**: Two soft, spongy organs inside the chest that take oxygen out of air. *e.g.* When you breathe in deeply, your chest gets bigger because your lungs fill with air.
 - **Oxygen**: A gas in air and water that every animal needs. Our bodies use it to get energy out of food. *e.g.* You breathe in oxygen all the time, even while you sleep.
 - **Body heat**: The warmth inside a body. It comes from food being used up in the body, or from the sun and the air around it. *e.g.* Your cheeks feel warm when you touch them, even in the shade.
-- **Makes its own heat (endotherm)**: An animal whose body makes its own heat from food, so it stays warm even when the air is cold. Scientists call it an endotherm. *e.g.* A sparrow, a dog and you all make your own heat. That is why your body stays near 37 degrees.
-- **Takes heat from outside (ectotherm)**: An animal that gets most of its warmth from the sun, warm ground or warm water around it. Scientists call it an ectotherm. *e.g.* A lizard lies on a sunny wall in the morning to warm up before it hunts.
-- **Cold-blooded and warm-blooded**: Old words for 'takes heat from outside' and 'makes its own heat'. They can mislead, because a lizard in the sun can have warmer blood than you. *e.g.* A lizard on a hot rock in May can be warmer than a person in the shade.
+- **Makes their own heat (endotherm)**: An animal whose body makes their own heat from food, so they stay warm even when the air is cold. Scientists call them an endotherm. *e.g.* A sparrow, a dog and you all make your own heat. That is why your body stays near 37 degrees.
+- **Takes heat from outside (ectotherm)**: An animal that gets most of their warmth from the sun, warm ground or warm water around them. Scientists call them an ectotherm. *e.g.* A lizard lies on a sunny wall in the morning to warm up before they hunt.
+- **Cold-blooded and warm-blooded**: Old words for 'takes heat from outside' and 'makes their own heat'. They can mislead, because a lizard in the sun can have warmer blood than you. *e.g.* A lizard on a hot rock in May can be warmer than a person in the shade.
 - **Thermometer**: A tool that measures how hot or cold something is. It shows the answer in degrees Celsius, written °C. *e.g.* A doctor's thermometer under your tongue shows about 37 °C when you are well.
 - **Insulation**: Something that slows heat from moving in or out. Fur, feathers, fat and wool are insulation. *e.g.* A woollen sweater keeps your warmth in on a winter morning.
 - **Basking**: Lying in the sun to soak up its warmth. *e.g.* Mugger crocodiles bask on riverbanks with their mouths open.
-- **Panting**: Breathing fast with the mouth open to cool down. Water dries off the tongue and carries heat away. *e.g.* A dog pants on a hot afternoon, with its tongue hanging out.
-- **Egg**: A package in which a baby animal grows before it hatches. It holds food, water and the growing baby. *e.g.* A hen's egg, a frog's jelly egg and a turtle's leathery egg are all eggs.
+- **Panting**: Breathing fast with the mouth open to cool down. Water dries off the tongue and carries heat away. *e.g.* A dog pants on a hot afternoon, with their tongue hanging out.
+- **Egg**: A package in which a baby animal grows before they hatch. It holds food, water and the growing baby. *e.g.* A hen's egg, a frog's jelly egg and a turtle's leathery egg are all eggs.
 - **Shelled egg**: An egg with a hard or leathery cover that keeps it from drying out, so it can be laid on land. *e.g.* Birds and most reptiles lay shelled eggs. The shell has thousands of tiny holes that let air in.
-- **Milk**: The food a mammal mother makes in her body to feed her babies. *e.g.* A goat kid drinks its mother's milk. A human baby does too.
+- **Milk**: The food a mammal mother makes in her body to feed her babies. *e.g.* A goat kid drinks their mother's milk. A human baby does too.
 
 ## Explanations
 ### The five groups of vertebrates · *defined*
 **Definition:** Vertebrates are animals with a backbone. Scientists usually sort them into five big groups: fish, amphibians, reptiles, birds and mammals.
 
-Every vertebrate has a backbone inside its body, made of many small bones. The five groups are told apart by their skin, how they breathe, how they keep warm and how they have young. Fish have scales and fins and live in water. Amphibians have soft, damp skin. Reptiles have dry scales. Birds have feathers. Mammals have hair and feed their babies milk. Only a small share of all animals have a backbone. Most animals, like insects and worms, do not.
+Every vertebrate has a backbone inside their body, made of many small bones. The five groups are told apart by their skin, how they breathe, how they keep warm and how they have young. Fish have scales and fins and live in water. Amphibians have soft, damp skin. Reptiles have dry scales. Birds have feathers. Mammals have hair and feed their babies milk. Only a small share of all animals have a backbone. Most animals, like insects and worms, do not.
 - e.g. A rohu fish has scales, fins and gills.
 - e.g. A frog has damp skin with no scales.
 - e.g. A cobra has dry scales.
 - e.g. A crow has feathers.
-- e.g. A goat has hair and feeds its kid milk.
+- e.g. A goat has hair and feeds her kid milk.
 ### How fish breathe · *defined*
 **Definition:** Fish breathe with gills. Gills take oxygen out of water.
 
-Water has a little oxygen mixed into it. You cannot see it, just as you cannot see sugar mixed into tea. A fish gulps water through its mouth. The water flows over its gills and out under the hard flap behind its head. The gills are thin, red and frilly. Blood inside them picks up the oxygen from the water. Water holds much less oxygen than air, about thirty times less. So a fish must keep water flowing over its gills all the time. Out of water, the frills stick together and stop working. That is why most fish die quickly on land.
-- e.g. A goldfish in a bowl opens and shuts its mouth, and the flaps behind its eyes move too. It is pumping water over its gills.
-- e.g. A shark swims with its mouth a little open, so water rushes over its gills.
+Water has a little oxygen mixed into it. You cannot see it, just as you cannot see sugar mixed into tea. A fish gulps water through their mouth. The water flows over their gills and out under the hard flap behind their head. The gills are thin, red and frilly. Blood inside them picks up the oxygen from the water. Water holds much less oxygen than air, about thirty times less. So a fish must keep water flowing over their gills all the time. Out of water, the frills stick together and stop working. That is why most fish die quickly on land.
+- e.g. A goldfish in a bowl opens and shuts their mouth, and the flaps behind their eyes move too. They are pumping water over their gills.
+- e.g. A shark swims with their mouth a little open, so water rushes over their gills.
 - e.g. Fish in a warm, crowded pond come up to gulp at the top when the water runs low on oxygen.
 ### How amphibians, reptiles, birds and mammals breathe · *defined*
 **Definition:** Reptiles, birds and mammals breathe air with lungs. Most amphibians breathe with gills when young, then with lungs and their damp skin when grown.
 
-A tadpole lives in water and breathes with gills, like a fish. As it grows into a frog, it grows lungs. A frog also breathes through its thin, wet skin. That is why frogs must stay damp. If their skin dries, they cannot breathe well. Reptiles have dry skin, so they breathe only with lungs. Birds have lungs plus extra air bags, called air sacs, that push air through the lungs in one direction. This gives them lots of oxygen for flying. Mammals breathe with lungs too. Even whales and dolphins, which live in water, must come up to breathe air.
-- e.g. A frog's throat pumps up and down as it pushes air into its lungs.
+A tadpole lives in water and breathes with gills, like a fish. As they grow into a frog, they grow lungs. A frog also breathes through their thin, wet skin. That is why frogs must stay damp. If their skin dries, they cannot breathe well. Reptiles have dry skin, so they breathe only with lungs. Birds have lungs plus extra air bags, called air sacs, that push air through the lungs in one direction. This gives them lots of oxygen for flying. Mammals breathe with lungs too. Even whales and dolphins, which live in water, must come up to breathe air.
+- e.g. A frog's throat pumps up and down as they push air into their lungs.
 - e.g. A Ganges river dolphin, India's national aquatic animal, comes up for air every minute or two.
-- e.g. A bar-headed goose can fly over the Himalayas, where the air is very thin, because its lungs and air sacs work so well.
+- e.g. A bar-headed goose can fly over the Himalayas, where the air is very thin, because their lungs and air sacs work so well.
 ### Two ways to keep warm · *defined*
 **Definition:** Birds and mammals make their own body heat from food. Most fish, amphibians and reptiles take their heat from the sun, the ground or the water around them.
 
-Your body is like a little stove. It burns food, slowly and without flames, and that makes heat. Birds and mammals do this all the time. So they stay warm on a cold night, and can move fast even on a winter morning. Scientists call them endotherms, which means 'heat from inside'. Most fish, amphibians and reptiles make only a little heat. Their bodies warm up and cool down with the world around them. Scientists call them ectotherms, which means 'heat from outside'. A lizard is slow on a cold morning. It lies in the sun to warm up first. Then it can run and hunt.
+Your body is like a little stove. It burns food, slowly and without flames, and that makes heat. Birds and mammals do this all the time. So they stay warm on a cold night, and can move fast even on a winter morning. Scientists call them endotherms, which means 'heat from inside'. Most fish, amphibians and reptiles make only a little heat. Their bodies warm up and cool down with the world around them. Scientists call them ectotherms, which means 'heat from outside'. A lizard is slow on a cold morning. They lie in the sun to warm up first. Then they can run and hunt.
 - e.g. You stay near 37 °C on a cold night and on a hot day.
-- e.g. A sparrow keeps its body at about 40 °C, even on a frosty morning in Ooty.
-- e.g. A garden lizard basks on a wall in the morning sun, then runs fast once it is warm.
-- e.g. A frog in a cold pond moves slowly, because its body is as cold as the water.
+- e.g. A sparrow keeps their body at about 40 °C, even on a frosty morning in Ooty.
+- e.g. A garden lizard basks on a wall in the morning sun, then runs fast once they are warm.
+- e.g. A frog in a cold pond moves slowly, because their body is as cold as the water.
 ### Why 'cold-blooded' is a misleading word · *defined*
 **Definition:** Animals that take their heat from outside are not always cold. Their bodies warm up and cool down with the sun, the ground and the air around them.
 
-People used to call lizards, snakes and fish 'cold-blooded'. But a lizard basking on a sunny wall in May can be warmer than you. Its blood is not cold at all. What is different is where the heat comes from. The lizard takes its heat from the sun. You make it from food. So scientists prefer the words 'takes heat from outside' and 'makes its own heat'. Even this is not a perfect split. Some big fish, like tuna, keep their muscles warm. A fish called the opah keeps its whole body a little warmer than the sea.
+People used to call lizards, snakes and fish 'cold-blooded'. But a lizard basking on a sunny wall in May can be warmer than you. Their blood is not cold at all. What is different is where the heat comes from. The lizard takes their heat from the sun. You make it from food. So scientists prefer the words 'takes heat from outside' and 'makes their own heat'. Even this is not a perfect split. Some big fish, like tuna, keep their muscles warm. A fish called the opah keeps their whole body a little warmer than the sea.
 - e.g. A desert lizard's body can reach about 40 °C on a hot afternoon.
-- e.g. A tuna's swimming muscles stay warmer than the cold water it swims in.
+- e.g. A tuna's swimming muscles stay warmer than the cold water they swim in.
 - e.g. A python mother coils around her eggs and shivers her muscles to keep them warm.
 ### Keeping warm: fur, feathers, fat and huddling · *defined*
 **Definition:** Fur, feathers and fat slow heat from leaking out of a body. Scientists call this insulation.
 
-Making heat uses lots of food. So animals that make their own heat try not to waste it. Fur and feathers trap a thin layer of still air next to the skin. Still air lets heat pass very slowly. That is why a pigeon puffs up its feathers on a cold morning. It is making a thicker coat of trapped air. Whales and seals have a thick layer of fat under the skin, called blubber. Penguins huddle in a tight crowd, so less of each body touches the icy wind. Shivering helps too. Shaking muscles make extra heat.
-- e.g. A house sparrow on a winter morning looks round and fat. It has fluffed up its feathers.
-- e.g. A yak in Ladakh has long, thick hair that keeps it warm at minus 30 °C.
+Making heat uses lots of food. So animals that make their own heat try not to waste it. Fur and feathers trap a thin layer of still air next to the skin. Still air lets heat pass very slowly. That is why a pigeon puffs up their feathers on a cold morning. They are making a thicker coat of trapped air. Whales and seals have a thick layer of fat under the skin, called blubber. Penguins huddle in a tight crowd, so less of each body touches the icy wind. Shivering helps too. Shaking muscles make extra heat.
+- e.g. A house sparrow on a winter morning looks round and fat. They have fluffed up their feathers.
+- e.g. A yak in Ladakh has long, thick hair that keeps them warm at minus 30 °C.
 - e.g. A litter of puppies sleeps in a heap to share warmth.
 - e.g. You shiver when you climb out of a cold pool. Your muscles are making heat.
 ### Keeping cool: shade, mud, panting and sweat · *defined*
@@ -89,14 +89,14 @@ Making heat uses lots of food. So animals that make their own heat try not to wa
 
 When water dries off your skin, it takes heat with it. That is why a wet cloth on your forehead feels cool. People sweat, and the sweat dries and cools the skin. Dogs have very few sweat glands, so they pant. Water dries off their tongue and mouth. Buffaloes cannot sweat much, so they lie in mud or water. Elephants flap their huge ears. The ears are thin and full of blood vessels, and the moving air cools the blood. Animals that take their heat from outside cool down simply by moving into shade, into water or under the ground.
 - e.g. A buffalo lies in a muddy pond on a hot afternoon.
-- e.g. An elephant flaps its ears in the summer heat.
+- e.g. An elephant flaps their ears in the summer heat.
 - e.g. A street dog pants under a parked car.
 - e.g. A lizard leaves the hot wall at noon and hides in a crack.
 ### Why making your own heat costs lots of food · *defined*
 **Definition:** Animals that make their own heat need many times more food than animals of the same size that take heat from outside.
 
-A stove needs fuel all the time. So does a warm body. A mouse needs to eat every day. A snake of the same weight can go for weeks without eating. Scientists have measured this. An animal that makes its own heat uses roughly five to ten times as much energy at rest. In return, it can stay active at night, in winter and in cold places. Animals that take their heat from outside save food. But they are slow when it is cold, and they must wait for the sun.
-- e.g. A tiny sunbird visits flowers all day long, because it burns food so fast.
+A stove needs fuel all the time. So does a warm body. A mouse needs to eat every day. A snake of the same weight can go for weeks without eating. Scientists have measured this. An animal that makes their own heat uses roughly five to ten times as much energy at rest. In return, they can stay active at night, in winter and in cold places. Animals that take their heat from outside save food. But they are slow when it is cold, and they must wait for the sun.
+- e.g. A tiny sunbird visits flowers all day long, because they burn food so fast.
 - e.g. A python can eat one big meal and then rest for weeks.
 - e.g. In cold winters, some frogs and turtles stay still, buried in mud, and hardly use any food.
 ### How each group has young · *defined*
@@ -110,21 +110,21 @@ A fish or frog egg has no shell. It is soft and wrapped in jelly. In air it woul
 ### Looking after the babies · *defined*
 **Definition:** Animals that lay many eggs usually leave them. Animals that have only a few young usually care for them.
 
-A rohu fish can lay lakhs of eggs and swims away. Most of the babies are eaten, but a few survive. A bird lays a few eggs and keeps them warm. Then it feeds the chicks for days or weeks. Mammals have the fewest babies and look after them longest. An elephant calf stays close to its mother for years. There are surprises in every group. A mugger crocodile mother guards her nest and carries her hatchlings to the water in her mouth. A male emperor penguin holds the egg on his feet for about two months in the Antarctic winter. A female great hornbill seals herself inside a tree hole with her eggs, and the male feeds her through a slit.
-- e.g. A rohu leaves its eggs in the river.
+A rohu fish can lay lakhs of eggs and swims away. Most of the babies are eaten, but a few survive. A bird lays a few eggs and keeps them warm. Then they feed the chicks for days or weeks. Mammals have the fewest babies and look after them longest. An elephant calf stays close to their mother for years. There are surprises in every group. A mugger crocodile mother guards her nest and carries her hatchlings to the water in her mouth. A male emperor penguin holds the egg on his feet for about two months in the Antarctic winter. A female great hornbill seals herself inside a tree hole with her eggs, and the male feeds her through a slit.
+- e.g. A rohu leaves her eggs in the river.
 - e.g. A king cobra mother builds a nest of leaves and guards her eggs.
 - e.g. Both pigeon parents feed their chicks a soft food made in their throats, called crop milk.
-- e.g. A langur baby clings to its mother's belly all day.
+- e.g. A langur baby clings to their mother's belly all day.
 ### Temperature can decide boy or girl · *defined*
 **Definition:** In many turtles and in crocodiles, the warmth of the nest decides whether a baby becomes male or female.
 
-In birds and mammals, a baby is a boy or a girl from the very start. But in many reptiles, the sand around the egg decides. In olive ridley sea turtles, warmer nests give more females. Cooler nests give more males. This is one more way the sun and the ground shape the life of an animal that takes its heat from outside. It also means a warmer world could change how many male and female turtles hatch. Scientists are studying this on beaches around the world.
+In birds and mammals, a baby is a boy or a girl from the very start. But in many reptiles, the sand around the egg decides. In olive ridley sea turtles, warmer nests give more females. Cooler nests give more males. This is one more way the sun and the ground shape the life of an animal that takes their heat from outside. It also means a warmer world could change how many male and female turtles hatch. Scientists are studying this on beaches around the world.
 - e.g. Olive ridley nests on Rushikulya beach in Odisha are studied by forest staff and scientists.
 - e.g. Crocodile breeders can predict whether babies will be male or female from how warm the eggs were kept.
 ### Where body heat really comes from: atoms and the sun · *defined*
 **Definition:** Heat is the jiggling of tiny particles, such as atoms. A warm body has fast-jiggling atoms. Nearly all the warmth of animals comes, in the end, from the sun.
 
-Everything is made of atoms, far too tiny to see. When something is warm, its atoms jiggle faster. A lizard on a sunny wall is warmed directly. Sunlight makes the atoms in its skin jiggle. A bird or a mammal is warmed another way. It eats food. Inside its cells, tiny parts called mitochondria break the food down slowly, and some of the energy comes out as heat. But that food's energy came from plants. And plants caught it from sunlight. So the lizard takes its warmth from the sun quickly, and the sparrow takes it slowly, through food. The sunlight left the sun about eight minutes before it reached the Earth.
+Everything is made of atoms, far too tiny to see. When something is warm, its atoms jiggle faster. A lizard on a sunny wall is warmed directly. Sunlight makes the atoms in their skin jiggle. A bird or a mammal is warmed another way. They eat food. Inside their cells, tiny parts called mitochondria break the food down slowly, and some of the energy comes out as heat. But that food's energy came from plants. And plants caught it from sunlight. So the lizard takes their warmth from the sun quickly, and the sparrow takes it slowly, through food. The sunlight left the sun about eight minutes before it reached the Earth.
 - e.g. A lizard on a wall is warmed by sunlight that left the sun about eight minutes earlier.
 - e.g. Your breakfast idli came from rice, which grew using sunlight.
 - e.g. Newborn babies have a special 'brown fat' that makes extra heat to keep them warm.
@@ -144,13 +144,13 @@ Scientists agree that birds and mammals both make their own heat. Most think the
 - Making your own heat uses much more food. *How we know:* Scientists have measured the oxygen and food used by mice and lizards of the same weight. The mouse uses many times more.
 
 ## How we found out
-**Charles Blagden and George Fordyce, with the earlier idea from Herman Boerhaave, 1774 to 1775.** About 300 years ago, the Dutch doctor Herman Boerhaave put small animals in very hot rooms, and they died. Many people then believed that no animal could live in air hotter than its own body. They thought a body would simply heat up like a stone left in the sun. In 1774, the English doctor Charles Blagden decided to test this on himself. With his friend George Fordyce, he sat in a small room heated far above the boiling point of water. They took a dog with them, in a basket so its feet would not burn. Eggs left in the room cooked hard. But the men and the dog came out well, and their bodies had stayed close to their usual warmth. Blagden saw that they were dripping with sweat. He suggested that sweat drying on the skin carries heat away. A living body keeps working to hold its own temperature, in the cold and in the heat.  
-*What people believed before:* That no animal can live in air hotter than its own body, because a body heats up like any other object.
+**Charles Blagden and George Fordyce, with the earlier idea from Herman Boerhaave, 1774 to 1775.** About 300 years ago, the Dutch doctor Herman Boerhaave put small animals in very hot rooms, and they died. Many people then believed that no animal could live in air hotter than their own body. They thought a body would simply heat up like a stone left in the sun. In 1774, the English doctor Charles Blagden decided to test this on himself. With his friend George Fordyce, he sat in a small room heated far above the boiling point of water. They took a dog with them, in a basket so their feet would not burn. Eggs left in the room cooked hard. But the men and the dog came out well, and their bodies had stayed close to their usual warmth. Blagden saw that they were dripping with sweat. He suggested that sweat drying on the skin carries heat away. A living body keeps working to hold its own temperature, in the cold and in the heat.  
+*What people believed before:* That no animal can live in air hotter than their own body, because a body heats up like any other object.
 
 ## Challenging perspectives
 - **Cold-blooded animals have cold blood.** (Many people, because of the old word 'cold-blooded'.; *rejected*)  
   For: Frogs and fish feel cool to touch, and lizards are slow on cold mornings.  
-  Against: A lizard basking in the sun can be warmer than a person. Its body warms and cools with its surroundings, so it is not always cold.
+  Against: A lizard basking in the sun can be warmer than a person. Their body warms and cools with their surroundings, so they are not always cold.
 - **Animals that make their own heat are more advanced than the others.** (An old view of nature as a ladder, with mammals and humans at the top.; *rejected*)  
   For: Birds and mammals can stay active in cold places and at night.  
   Against: Reptiles, fish and amphibians are just as well suited to their own lives. They need far less food. Evolution is a branching tree, not a ladder.
@@ -167,17 +167,17 @@ Scientists agree that birds and mammals both make their own heat. Most think the
 ## Roots
 We have been learning how fish, amphibians, reptiles, birds and mammals breathe, keep warm and have young. Now we ask what their warmth tells us about ourselves and the world.
 
-**Deep truth.** In the fur coat test, even the bottle in the dry sock kept cooling. A sparrow loses heat like that every minute, and makes new heat from food to replace it. A lizard lets its body cool at night and warms up again in the sun. That is why a sparrow must eat many times more than a lizard of the same weight.  
-*Habit it breaks:* We say a sparrow 'is warm-blooded', as if its warmth were fixed, like the colour of its feathers. In fact its heat leaks away all the time, and has to be made again from food.  
-*Evidence:* In the fur coat test, every bottle cooled, even the one in the dry sock. In the body diary, your temperature stayed near 37 °C while the air changed by many degrees. A mouse needs many times more food than a snake of the same weight, because it keeps making heat.
+**Deep truth.** In the fur coat test, even the bottle in the dry sock kept cooling. A sparrow loses heat like that every minute, and makes new heat from food to replace it. A lizard lets their body cool at night and warms up again in the sun. That is why a sparrow must eat many times more than a lizard of the same weight.  
+*Habit it breaks:* We say a sparrow 'is warm-blooded', as if their warmth were fixed, like the colour of their feathers. In fact their heat leaks away all the time, and has to be made again from food.  
+*Evidence:* In the fur coat test, every bottle cooled, even the one in the dry sock. In the body diary, your temperature stayed near 37 °C while the air changed by many degrees. A mouse needs many times more food than a snake of the same weight, because they keep making heat.
 
 - *who am i:* You are a body that stays near 37 degrees, because you make new heat from food every minute, even while you sleep.
 - *what is life:* Staying alive and warm means never stopping: eating, breathing and making heat, day and night.
-- *what is this world:* A world where a lizard is about as warm as the air around it, and a pigeon keeps its own warmth with food and feathers.
+- *what is this world:* A world where a lizard is about as warm as the air around them, and a pigeon keeps their own warmth with food and feathers.
 
 All animals with a backbone come from early fish that lived in the sea more than 500 million years ago. From that one beginning came frogs, crocodiles, sparrows, cows and you. Each group found its own way to breathe, keep warm and have young. They still share one body plan, a backbone with a skull at one end. And the warmth of every one of them comes, in the end, from the same sun.
 
-- **Rig Veda 1.115.1:** The Sun is called the self of everything that moves and everything that stays still. (In this unit, a lizard takes its warmth straight from sunlight. A sparrow makes its warmth from grain, and the grain grew using sunlight.)
+- **Rig Veda 1.115.1:** The Sun is called the self of everything that moves and everything that stays still. (In this unit, a lizard takes their warmth straight from sunlight. A sparrow makes their warmth from grain, and the grain grew using sunlight.)
 - **Taittiriya Upanishad 3.2 (Bhrigu Valli):** Bhrigu comes to see food as Brahman, the ground of all. From food beings are born, by food they live, and into food they return. (A sparrow or a child must eat every day to keep making body heat. Stop the food, and the warmth cannot be kept up.)
 - **Thich Nhat Hanh, The Sun My Heart (1988):** Thich Nhat Hanh wrote that the sun is a second heart beating outside our bodies. Without it, our own heart could not beat. (In the story, Dadi asks what the bajra drinks all day besides water. The sparrow's warmth was made from grain that grew in sunlight.)
 - Science (settled): Nearly all the energy that warms and moves animals on Earth comes from sunlight, caught first by plants and other green living things. A few living communities, around hot springs deep in the sea, run on chemical energy from the Earth instead.
@@ -185,15 +185,15 @@ All animals with a backbone come from early fish that lived in the sea more than
 - Other view, Many biologists, and the Charvaka school of ancient India: Body heat is simply chemistry and physics: food burning in cells, and heat moving from warm to cool. Nothing more is needed to explain it. This is an honest view, and it fits all the measurements.
 - Practice, Holding warmth (3 min): Let's sit quietly. Cup your hands together in front of your mouth. Breathe out slowly into them, three times. Feel the warmth of your breath in your hands. Now open your hands a little, and feel the warmth slip away into the room. Sit still for a moment. Your warmth is going out into the air, where the lizard, the bird and the trees are. Where did that warmth come from this morning? Where is it going now?
 - Ask: Your body makes new heat every minute, even while you sleep. Is the warmth in you now the same warmth you had this morning?
-- Ask: A lizard saves food by taking its warmth from the sun. You spend food to stay at 37 degrees. Which way would you choose, and why?
+- Ask: A lizard saves food by taking their warmth from the sun. You spend food to stay at 37 degrees. Which way would you choose, and why?
 - Ask: If all five groups came from early fish, are they five groups or one family?
 
 ## Deep and big questions
-- *deep:* Is a lizard on a sunny wall really 'cold-blooded'? What would be a better word? (hint: Think about where its heat comes from, not how warm it is.)
+- *deep:* Is a lizard on a sunny wall really 'cold-blooded'? What would be a better word? (hint: Think about where their heat comes from, not how warm they are.)
 - *deep:* Why do you think frogs need water to lay eggs, but crocodiles do not? (hint: What happens to a jelly sweet left out in the sun?)
 - *deep:* If your body is a little stove, what is its fuel? And where did the fuel's energy come from? (hint: Follow your lunch back to the field and the sky.)
 - *big:* Is it better to make your own heat, or to take it from the sun? Can one way be better for everyone? (hint: Think about food, cold nights and hot deserts.)
-- *big:* A mugger mother carries her babies in her mouth. A rohu fish leaves its eggs. Is one a better parent? (hint: Think about how many babies each one has.)
+- *big:* A mugger mother carries her babies in her mouth. A rohu fish leaves her eggs. Is one a better parent? (hint: Think about how many babies each one has.)
 - *big:* We sort animals into five groups. Did nature make the groups, or did people? (hint: Is a bird a kind of reptile? Who decides?)
 - *big:* Your body keeps making heat, and the heat keeps leaving you. Where does your warmth go? (hint: Think of the warm chair after you stand up, and the bottle in the dry sock.)
 - *deep:* Why do you think a tiny bird needs to eat all day, but a big snake can wait for weeks? (hint: Think of a small pot and a big pot of hot water. Which cools faster?)
@@ -203,53 +203,53 @@ All animals with a backbone come from early fish that lived in the sea more than
 
 In the desert village of Napasar, winter mornings are sharp and cold. The sand is cold under bare feet. The water in the matka is so cold it hurts your teeth. Noor, who was nine, ran out into the courtyard with her shawl trailing behind her.
 
-She stopped. On the flat stone by the neem tree lay a garden lizard. Its skin had gone a dull, dark grey. Its legs were stuck out sideways like twigs. Noor crouched down. She waved her hand above it. It did not blink.
+She stopped. On the flat stone by the neem tree lay a garden lizard. Their skin had gone a dull, dark grey. Their legs were stuck out sideways like twigs. Noor crouched down. She waved her hand above them. They did not blink.
 
 "Dadi," she called. "The girgit is dead."
 
 Her grandmother came out slowly, holding a steel tumbler of tea in both hands for warmth. She looked at the lizard for a long time. Then she sipped her tea.
 
-"It is not dead," said Dadi. "It is waiting."
+"They are not dead," said Dadi. "They are waiting."
 
 "Waiting for what?"
 
 Dadi pointed at the wall. A line of yellow light was creeping down it, brick by brick. "For that," she said.
 
-Noor did not believe her. But she sat on the step and watched. The light slid down the wall. It reached the edge of the stone. It touched the lizard's tail, then its back, then its head. For a long time nothing happened. Noor's toes were freezing. Then one eye opened. Then the other. Its dark skin slowly turned paler and brighter. The lizard lifted itself up on its front legs, like an old man getting out of a chair. Then, all at once, it was gone. A flick of tail, and it was up the neem tree.
+Noor did not believe her. But she sat on the step and watched. The light slid down the wall. It reached the edge of the stone. It touched the lizard's tail, then their back, then their head. For a long time nothing happened. Noor's toes were freezing. Then one eye opened. Then the other. Their dark skin slowly turned paler and brighter. The lizard lifted themself up on their front legs, like an old man getting out of a chair. Then, all at once, they were gone. A flick of tail, and they were up the neem tree.
 
-Noor laughed out loud. "It came back to life!"
+Noor laughed out loud. "They came back to life!"
 
-"It was never gone," said Dadi. "The girgit has no fire inside. It takes its warmth from the sun. At night it goes cold and slow, and in the morning it takes back the warmth. Every day."
+"They were never gone," said Dadi. "The girgit has no fire inside. They take their warmth from the sun. At night they go cold and slow, and in the morning they take back the warmth. Every day."
 
 Noor thought about that all morning. At school she told her friend Bhanwar, who said lizards were boring. Noor did not think they were boring at all.
 
-In the afternoon, a strong wind blew dust through the village. When Noor came home, she heard a thin cheeping from the corner of the courtyard. A baby sparrow lay on the ground under the roof beams. Its nest of straw and string was up in a gap in the beams, too high to reach. The chick was almost bare. It had only a few grey tufts and a big yellow mouth. It was shaking.
+In the afternoon, a strong wind blew dust through the village. When Noor came home, she heard a thin cheeping from the corner of the courtyard. A baby sparrow lay on the ground under the roof beams. Their nest of straw and string was up in a gap in the beams, too high to reach. The chick was almost bare. They had only a few grey tufts and a big yellow mouth. They were shaking.
 
-Noor knew what to do. She had learned it that very morning. She carried the chick carefully to the flat stone by the neem tree, where the sun was still shining, and laid it down. "Wait for the sun," she whispered to it, in Dadi's voice.
+Noor knew what to do. She had learned it that very morning. She carried the chick carefully to the flat stone by the neem tree, where the sun was still shining, and laid them down. "Wait for the sun," she whispered to them, in Dadi's voice.
 
-She sat on the step to watch it come back to life.
+She sat on the step to watch them come back to life.
 
-But this time something was wrong. The chick did not get stronger. It shook harder. The sun on the stone was weak and low now, and it was sliding away up the wall, the opposite way from the morning. In a few minutes the stone would be in shadow. And then the long, freezing night would come.
+But this time something was wrong. The chick did not get stronger. They shook harder. The sun on the stone was weak and low now, and it was sliding away up the wall, the opposite way from the morning. In a few minutes the stone would be in shadow. And then the long, freezing night would come.
 
 "Dadi!"
 
 Dadi came out with a lantern, though it was not dark yet. She looked at the chick. She looked at the sun going away. Then she looked at Noor.
 
-"The girgit can wait all night in the cold," she said. "It goes slow and still, and the cold does not harm it. But this little one is different. It has a fire inside. A tiny one. It must keep burning all night, or it goes out."
+"The girgit can wait all night in the cold," she said. "They go slow and still, and the cold does not harm it. But this little one is different. They have a fire inside. A tiny one. It must keep burning all night, or it goes out."
 
-"Then it needs more sun!"
+"Then they need more sun!"
 
 "Look, the sun is leaving. What else keeps a fire from going out?"
 
 Noor looked at the lantern. The flame was inside a glass, safe from the wind. She looked at her own shawl. She thought of how warm she stayed under her quilt at night, even when the room was icy. The quilt did not make any heat. It just held hers in.
 
-She knelt and scooped the chick up into her two cupped hands. It was so light it felt like holding a leaf. She held it against her chest and pulled her woollen shawl over her hands. She could feel the chick's heart going very fast, like rain on a tin roof. Slowly, slowly, the shaking stopped.
+She knelt and scooped the chick up into her two cupped hands. They were so light it felt like holding a leaf. She held them against her chest and pulled her woollen shawl over her hands. She could feel the chick's heart going very fast, like rain on a tin roof. Slowly, slowly, the shaking stopped.
 
 "Your hands are warm," said Dadi softly. "Your hands are a fire too."
 
-They waited for Noor's father to come home. He climbed the ladder with the chick in a soft cloth and slid it back into the nest. At once there was a flutter. The mother sparrow had been on the roof all along, chirping angrily. Now she dived into the gap. Noor saw her spread her feathers wide and settle down over her babies, round and puffed up, like a warm brown cushion.
+They waited for Noor's father to come home. He climbed the ladder with the chick in a soft cloth and slid them back into the nest. At once there was a flutter. The mother sparrow had been on the roof all along, chirping angrily. Now she dived into the gap. Noor saw her spread her feathers wide and settle down over her babies, round and puffed up, like a warm brown cushion.
 
-That night Noor lay under her quilt and thought about the two kinds of warm. The lizard, cold all night, waiting for the sun to come back. The chick, burning its own tiny fire, safe under its mother's feathers.
+That night Noor lay under her quilt and thought about the two kinds of warm. The lizard, cold all night, waiting for the sun to come back. The chick, burning their own tiny fire, safe under their mother's feathers.
 
 "Dadi," she whispered across the dark room. "Where does the sparrow's fire come from?"
 
@@ -257,13 +257,13 @@ That night Noor lay under her quilt and thought about the two kinds of warm. The
 
 "And where does the grain get it?"
 
-Dadi was quiet for so long that Noor thought she was asleep. Then she said, "The bajra grows in the fields all summer, Noor. What does it drink all day, besides water?"
+Dadi was quiet for so long that Noor thought she was asleep. Then she said, "The bajra grows in the fields all summer, Noor. What do they drink all day, besides water?"
 
 Noor thought of the long summer days, the bajra plants standing in the blazing light, and she smiled into the dark.
 
-In the morning, the girgit was on its stone, grey and still, waiting. Noor did not call anyone this time. She sat down next to it with her hands under her shawl, and they waited for the sun together.
+In the morning, the girgit was on their stone, grey and still, waiting. Noor did not call anyone this time. She sat down next to them with her hands under her shawl, and they waited for the sun together.
 
-**For the parent:** For the parent: the lizard and the chick are both cold, but they need different help. The lizard takes its heat from outside, so the sun is all it needs, and a cold night only makes it slow. The chick makes its own heat from food, but it is tiny and almost bare, so its heat leaks away fast. More sun cannot help once the sun is setting. What it needs is insulation, something to hold its own heat in, and a warm body beside it. That is why birds sit on their chicks. The last turn follows the warmth back to its source. The sparrow's heat comes from grain, and the grain's energy came from sunlight. Both kinds of warm are the sun's warmth, taken by two different paths.
+**For the parent:** For the parent: the lizard and the chick are both cold, but they need different help. The lizard takes their heat from outside, so the sun is all they need, and a cold night only makes them slow. The chick makes their own heat from food, but they are tiny and almost bare, so their heat leaks away fast. More sun cannot help once the sun is setting. What they need is insulation, something to hold their own heat in, and a warm body beside it. That is why birds sit on their chicks. The last turn follows the warmth back to its source. The sparrow's heat comes from grain, and the grain's energy came from sunlight. Both kinds of warm are the sun's warmth, taken by two different paths.
 
 - Ask: Why did Noor think the lizard was dead? What was really happening?
 - Ask: Why did the sun help the lizard but not the chick?
@@ -273,41 +273,41 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
 
 ## Games
 ### g1 · Five Families (25 min)
-- **rules:** Cut out the 25 animal cards and the 5 question cards. Lay out the five family mats.; Shuffle the animal cards and deal 5 to each player. Put the rest face down in a pile.; Put the question cards face down in their own pile.; On your turn, pick up one animal card. Then turn over the top question card.; Answer the question for any one animal in your hand. If the others agree, put that animal on its family mat and score one point.; If you get it wrong, keep the card and the next player goes.; The player who puts the last card on a family mat gets a bonus point.; When all the cards are on the mats, the player with the most points wins.
+- **rules:** Cut out the 25 animal cards and the 5 question cards. Lay out the five family mats.; Shuffle the animal cards and deal 5 to each player. Put the rest face down in a pile.; Put the question cards face down in their own pile.; On your turn, pick up one animal card. Then turn over the top question card.; Answer the question for any one animal in your hand. If the others agree, put that animal on their family mat and score one point.; If you get it wrong, keep the card and the next player goes.; The player who puts the last card on a family mat gets a bonus point.; When all the cards are on the mats, the player with the most points wins.
 - **Printable cards: 25 animal cards to cut out, 5 in each family:** Rohu fish; Mahseer; Shark; Seahorse; Goldfish; Indian bullfrog; Common toad; Purple frog; Caecilian; Tadpole; Garden lizard; Cobra; Mugger crocodile; Olive ridley turtle; Star tortoise; Peacock; House sparrow; Emperor penguin; Great hornbill; Ostrich; Cow; Bat; Ganges river dolphin; Elephant; Yak
-- **Printable cards: 5 question cards:** BREATHE: How does this animal breathe?; WARM: Does it make its own heat, or take heat from outside?; COOL: How does it cool down on a hot day?; YOUNG: Does it lay jelly eggs, shelled eggs, or give birth?; CARE: Does it look after its babies? How?
+- **Printable cards: 5 question cards:** BREATHE: How does this animal breathe?; WARM: Do they make their own heat, or take heat from outside?; COOL: How do they cool down on a hot day?; YOUNG: Do they lay jelly eggs, shelled eggs, or give birth?; CARE: Do they look after their babies? How?
 - **Printable board: Five family mats:** FISH: gills, fins, eggs in water; AMPHIBIANS: damp skin, jelly eggs; REPTILES: dry scales, shelled eggs; BIRDS: feathers, hard eggs, make heat; MAMMALS: hair, milk, make heat
 - **Printable score sheet: Family score sheet:** Player name; Families finished; Bonus points
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards and lay out the five family mats in a row. 2. Shuffle and deal 5 animal cards to each player. 3. Put the question cards in a pile.  
-  *Parent says:* Every animal on these cards has a backbone. They belong to five families: fish, amphibians, reptiles, birds and mammals. To put an animal on its family mat, you must answer a question about it.  
+  *Parent says:* Every animal on these cards has a backbone. They belong to five families: fish, amphibians, reptiles, birds and mammals. To put an animal on their family mat, you must answer a question about them.  
   *Child mode:* Lay out the five mats: fish, amphibians, reptiles, birds and mammals. Get five animal cards. To place a card, answer a question about it.
 - **s2 (4 min)**  
   *Parent does:* Play a practice round together with the Rohu fish card and the BREATHE question.  
   *Parent says:* Let's practise. Here is the rohu, the fish you see at the market. How does a rohu breathe?  
-  *Child mode:* Practice card: the rohu fish. How does it breathe? Tap your answer.
-  - Ask: How does a rohu breathe? (good: With gills.; It takes water through its mouth and over its gills.)
+  *Child mode:* Practice card: the rohu fish. How do they breathe? Tap your answer.
+  - Ask: How does a rohu breathe? (good: With gills.; They take water through their mouth and over their gills.)
   - Check: How does a rohu fish breathe? → **With gills, which take oxygen out of water**
 - **s3 (3 min)**  
   *Parent does:* Play the WARM question with the Garden lizard card.  
-  *Parent says:* Here is a garden lizard. Does it make its own heat, or take heat from outside? Remember the lizard on the wall in the morning.  
-  *Child mode:* Game moment: the garden lizard. Where does its warmth come from?
-  - Check: Where does a garden lizard get its warmth? → **It takes heat from outside, from the sun and warm stones**
+  *Parent says:* Here is a garden lizard. Do they make their own heat, or take heat from outside? Remember the lizard on the wall in the morning.  
+  *Child mode:* Game moment: the garden lizard. Where does their warmth come from?
+  - Check: Where does a garden lizard get their warmth? → **They take heat from outside, from the sun and warm stones**
 - **s4 (10 min)**  
   *Parent does:* Play the game until all 25 cards are on the mats. Keep score on the score sheet.  
   *Parent says:* Now let's play properly. Take turns. If you are not sure, think about the animal's skin first. Is it scaly, damp, feathery or furry?  
   *Child mode:* Now play the game. Take turns with the cards. Not sure? Look at the skin. Scales, damp skin, feathers or fur?
-  - Note: Tricky cards: the purple frog and the caecilian are amphibians. The caecilian looks like a big worm, but it has a backbone. The bat and the dolphin are mammals. The penguin and ostrich are birds, even though they cannot fly. The seahorse is a fish.
+  - Note: Tricky cards: the purple frog and the caecilian are amphibians. The caecilian looks like a big worm, but they have a backbone. The bat and the dolphin are mammals. The penguin and ostrich are birds, even though they cannot fly. The seahorse is a fish.
 - **s5 (2 min)**  
   *Parent does:* Pick up the bat card and ask the question below.  
-  *Parent says:* Let's look at a tricky one. A bat flies, like a bird. Why is it a mammal?  
-  *Child mode:* Game moment: the bat. It flies. Is it a bird or a mammal?
-  - Check: A bat flies. Which family does it belong to? → **Mammals, because it has fur and feeds its babies milk**
+  *Parent says:* Let's look at a tricky one. A bat flies, like a bird. Why are they a mammal?  
+  *Child mode:* Game moment: the bat. They fly. Are they a bird or a mammal?
+  - Check: A bat flies. Which family do they belong to? → **Mammals, because they have fur and feed their babies milk**
 - **s6 (3 min)**  
   *Parent does:* Count the points and name a winner. Then ask the question below.  
   *Parent says:* Well played. Now two last questions. Which family was hardest to fill, and why? Which animals surprised you?  
   *Child mode:* Count your points. Who won? Which family was hardest? Which animal surprised you?
-  - Ask: Which animals surprised you? (good: The caecilian, because it looks like a worm but is an amphibian.; The dolphin, because it lives in water but breathes air.)
+  - Ask: Which animals surprised you? (good: The caecilian, because they look like a worm but are an amphibian.; The dolphin, because they live in water but breathe air.)
 ### g2 · Sun, Shade and Snow (15 min)
 - **rules:** Mark a SUN corner and a SHADE corner with a chunni or a chalk line.; Each player takes a role card: LIZARD or SPARROW.; The caller shows a weather card. Players must act it out.; SUNNY MORNING: lizards run to the SUN corner to bask. Sparrows can play anywhere, and each one picks up a food token.; HOT NOON: lizards run to SHADE. Sparrows pant with open mouths.; COLD NIGHT, WINTER WIND or SNOW: lizards freeze still until the next card. Sparrows puff up and huddle, but each sparrow must give up a food token to keep warm.; MONSOON RAIN: lizards and sparrows both run to SHADE to shelter from the rain.; A sparrow with no food token left must sit out one round. A lizard that moves in the cold sits out one round.; Play 10 weather cards. Then talk about who did better in each kind of weather.
 - **Printable cards: 8 role cards:** LIZARD; LIZARD; LIZARD; LIZARD; SPARROW; SPARROW; SPARROW; SPARROW
@@ -380,16 +380,16 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
 - **results table:** Tumbler | Start (°C) | After 15 minutes (°C) | After 30 minutes (°C) | How much it warmed (°C)
 - **s1 (4 min)**  
   *Parent does:* Ask your child about the house lizard at home, or show a picture of a lizard basking on a wall. Ask the question below.  
-  *Parent says:* A lizard cannot make much heat of its own. Its body is about as warm as the air or the wall it sits on. In the morning, many lizards lie in the sun. How much do you think the sun can warm something like that?  
-  *Child mode:* A lizard is as warm as the things around it. How much can the sun warm it? Let's test it.
-  - Ask: Why does a lizard lie in the sun? (good: To get warm.; It cannot make much heat of its own, so it takes the sun's.)
+  *Parent says:* A lizard cannot make much heat of their own. Their body is about as warm as the air or the wall they sit on. In the morning, many lizards lie in the sun. How much do you think the sun can warm something like that?  
+  *Child mode:* A lizard is as warm as the things around them. How much can the sun warm them? Let's test it.
+  - Ask: Why does a lizard lie in the sun? (good: To get warm.; They cannot make much heat of their own, so they take the sun's.)
 - **s2 (4 min)**  
   *Parent does:* 1. Fill both tumblers with the same amount of cool tap water. 2. Measure both and write the start temperature. 3. Put one in the sun and one in the shade.  
   *Parent says:* Each tumbler is a pretend lizard. Like a lizard, a tumbler cannot make heat. It can only take heat from around it.  
   *Child mode:* Fill both tumblers. Measure them. Put one in the sun. Put one in the shade.
 - **s3 (30 min)**  
   *Parent does:* Measure both tumblers after 15 minutes and after 30 minutes. In between, do something else, like reading the story or playing a game.  
-  *Parent says:* Now we wait. A lizard waits too. It cannot hurry the sun.  
+  *Parent says:* Now we wait. A lizard waits too. They cannot hurry the sun.  
   *Child mode:* Now wait. Check at 15 minutes and 30 minutes. Write the numbers.
   - Note: Put the sunny tumbler where the sun falls straight on it, not through window glass, which blocks some of the warmth. No thermometer? Dip one finger in each tumbler at the end. The sunny one should feel warmer. On a cloudy day, the difference will be small. Try again on a sunny day.
   - Check: After 30 minutes, which tumbler is likely to be warmer? → **The one in the sun**
@@ -408,8 +408,8 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
 - **schedule:** day 1: Soak the sabja seeds. Put one spoonful in an open bowl, one in a bowl of water, and one inside an eggshell taped shut. Look again after 3 hours. (15 min); day 2: Look at all three again. Which jelly eggs are still soft and wet? (5 min)
 - **s1 (4 min)**  
   *Parent does:* Soak 2 teaspoons of sabja seeds in a cup of water for 15 minutes. Look at them with the magnifying glass.  
-  *Parent says:* Look. Each little black seed now has clear jelly around it. Frog eggs look just like this: a dark dot in a ball of jelly.  
-  *Child mode:* Soak the seeds. Look with the lens. Each seed has jelly around it, like a frog egg.
+  *Parent says:* Look. Each little black seed now has clear jelly around them. Frog eggs look just like this: a dark dot in a ball of jelly.  
+  *Child mode:* Soak the seeds. Look with the lens. Each seed has jelly around them, like a frog egg.
 - **s2 (6 min)**  
   *Parent does:* 1. Put one spoonful of jelly seeds in an open bowl. 2. Put one spoonful in a bowl of water. 3. Put one spoonful inside half an eggshell, cover it with the other half and tape it shut. Put it in the third bowl.  
   *Parent says:* Frogs lay their eggs in water. Hens lay their eggs in a dry nest, with a shell. Let's see why.  
@@ -450,15 +450,15 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
   - Think: Is a lizard on a cold morning more like your hand or more like the spoon?
 ### a2 · Backbone Spotting from Home (30 min)
 - **safety:** Watch animals from a window, a balcony or the building's gate. Never touch street dogs, stray cats or birds. On the market trip, stay with a grown-up.
-- **record:** Tick every vertebrate you see in its group. Next to each, write one thing it was doing to keep warm or cool.
+- **record:** Tick every vertebrate you see in their group. Next to each, write one thing they were doing to keep warm or cool.
 - **s1 (3 min)**  
   *Parent does:* Draw the five columns in the notebook. Sit at a window or on the balcony together.  
-  *Parent says:* Today we are animal spotters. We only count animals with a backbone. For each one, we look at what it is doing to stay warm or cool.  
+  *Parent says:* Today we are animal spotters. We only count animals with a backbone. For each one, we look at what they are doing to stay warm or cool.  
   *Child mode:* You are an animal spotter. Count animals with a backbone. Watch how they keep warm or cool.
 - **s2 (20 min)**  
-  *Parent does:* Watch for about 20 minutes. Tick each vertebrate in the right column and note what it is doing. On your next trip to the market, look at the fish and tick them too.  
-  *Parent says:* Look, a crow. Which group? Is it in the sun or the shade? Is there a house lizard on our wall? Where is it sitting?  
-  *Child mode:* Spot an animal. Which group? Tick it. Is it in sun or shade?
+  *Parent does:* Watch for about 20 minutes. Tick each vertebrate in the right column and note what they are doing. On your next trip to the market, look at the fish and tick them too.  
+  *Parent says:* Look, a crow. Which group? Are they in the sun or the shade? Is there a house lizard on our wall? Where are they sitting?  
+  *Child mode:* Spot an animal. Which group? Tick them. Are they in sun or shade?
   - Ask: Where are the lizards sitting? (good: Near the tube light at night, where insects come.; Hidden behind a frame or a cupboard on a cold day.)
   - Ask: What are the dogs or cats doing in the heat? (good: Lying in the shade.; Panting.)
   - Note: Crows, pigeons, mynas and sparrows are birds. Dogs, cats, squirrels, bats at dusk and people are mammals. The house lizard is a reptile. At the market, lift a fish's gill cover to see the red gills. Frogs are hard to find in a city, except near puddles in the monsoon. An empty amphibian column is a real finding: frogs need damp places, and a city has few.
@@ -466,10 +466,10 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
   *Parent does:* Count the ticks in each column and talk about the questions below.  
   *Parent says:* Which group did we see most? Which group was hardest to find? Why do you think that is?  
   *Child mode:* Count your ticks. Which group did you see most? Which was hardest to find?
-  - Check: In the monsoon you saw a frog sitting in a wet drain on a hot day. Why might it stay there? → **Frogs must keep their skin damp, because they breathe through it**
+  - Check: In the monsoon you saw a frog sitting in a wet drain on a hot day. Why might they stay there? → **Frogs must keep their skin damp, because they breathe through it**
 ### a3 · Cool Down Like Them (15 min)
 - **safety:** Keep the water away from electric sockets.
-- **record:** Write which arm felt cooler, and why. Draw one animal and its way of keeping cool.
+- **record:** Write which arm felt cooler, and why. Draw one animal and their way of keeping cool.
 - **s1 (5 min)**  
   *Parent does:* 1. Dip one wrist in water. Keep the other dry. 2. Fan both wrists for 30 seconds. 3. Ask which feels cooler.  
   *Parent says:* Let's be people and horses first. We sweat. Wet one wrist and fan both. Which one feels cooler?  
@@ -483,8 +483,8 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
   *Parent does:* Make a big elephant ear from a sheet of newspaper. Flap it next to your face for 30 seconds.  
   *Parent says:* Elephants have huge, thin ears full of blood vessels. When they flap them, the moving air cools the blood. Then the cool blood flows back into the body. Buffaloes cannot sweat much either, so what do they do?  
   *Child mode:* Flap a paper elephant ear. Feel the breeze? Elephants cool their blood this way.
-  - Ask: What does a buffalo do on a hot day? (good: It lies in mud or water.; The wet mud dries and cools it.)
-  - Ask: What does a lizard do? (good: It goes into the shade or a crack in the wall.)
+  - Ask: What does a buffalo do on a hot day? (good: They lie in mud or water.; The wet mud dries and cools them.)
+  - Ask: What does a lizard do? (good: They go into the shade or a crack in the wall.)
 ### a4 · Big Body, Small Body (30 min)
 - **safety:** A grown-up pours the warm water. It should feel warm, like a bath, not hot.
 - **record:** Write the temperatures in a table. Work out how much each bottle cooled.
@@ -499,7 +499,7 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
 - **s3 (4 min)**  
   *Parent does:* Work out how much each cooled. Ask the questions below.  
   *Parent says:* Which one cooled faster? So which animal needs to make heat faster, to stay warm: the mouse or the elephant?  
-  *Child mode:* Which bottle cooled faster? Which animal must eat more for its size?
+  *Child mode:* Which bottle cooled faster? Which animal must eat more for their size?
   - Check: The small bottle usually cools faster. What does this tell us about small animals? → **Small animals lose heat fast, so they must eat a lot for their size**
 ### a5 · My Steady Warmth: a three-day body temperature diary (20 min, 3 days)
 - **safety:** Clean the thermometer before and after each use. Only measure under the arm or as the thermometer's instructions say.
@@ -525,7 +525,7 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
 - **record:** A chart with one row for each animal: the animal, eggs or babies, about how many, and who looks after them.
 - **s1 (6 min)**  
   *Parent does:* Draw five rows: rohu fish, frog, olive ridley turtle, house sparrow, cow. Read out the facts below and fill in the chart together.  
-  *Parent says:* A rohu lays lakhs of eggs and swims away. A frog lays hundreds or thousands of jelly eggs and leaves them. An olive ridley turtle lays about a hundred eggs in the sand and goes back to the sea. A sparrow lays three to five eggs and feeds its chicks. A cow has one calf and feeds it milk for months.  
+  *Parent says:* A rohu lays lakhs of eggs and swims away. A frog lays hundreds or thousands of jelly eggs and leaves them. An olive ridley turtle lays about a hundred eggs in the sand and goes back to the sea. A sparrow lays three to five eggs and feeds her chicks. A cow has one calf and feeds them milk for months.  
   *Child mode:* Fill in the chart. How many eggs or babies? Who looks after them?
 - **s2 (8 min)**  
   *Parent does:* Look at the chart together and ask the questions below.  
@@ -556,7 +556,7 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
   *Parent does:* Compare the two eggs. Improve your nest and test again if you have time.  
   *Parent says:* How many degrees warmer is your nested egg? How could you make the nest better? A real bird adds one more thing. What is it?  
   *Child mode:* Which egg stayed warmer? How can you make your nest better?
-  - Ask: What does a real bird add that our nest does not have? (good: Its own warm body sitting on the eggs.; Its feathers on top.)
+  - Ask: What does a real bird add that our nest does not have? (good: Their own warm body sitting on the eggs.; Their feathers on top.)
 
 ## Challenges
 ### c1 · Save the Ice Cube (30 min)
@@ -564,7 +564,7 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
 - **your turn:** Now invent your own ice coat. Draw it, build it and time it. Did it beat the bare ice cube?
 - **constraints:** You may not put it in the fridge.; You may only use things you find at home.; Each cube must sit in the same room, on the same table.
 - **general:** Wrap the cube in a woollen sock or cotton wool, so still air slows the room's heat getting in.; Wrap it in shiny foil, which bounces back some heat.; Keep it in the shade, away from the sun and the stove.
-- **creative:** Camels have thick fur on their backs. It stops the desert sun from heating them. Could a thick 'camel coat' on top work best?; Put the cube in a cup, inside a bigger cup, with cotton wool between, like a polar bear's fur over its fat.; Try a layer of cotton wool and a layer of foil together.
+- **creative:** Camels have thick fur on their backs. It stops the desert sun from heating them. Could a thick 'camel coat' on top work best?; Put the cube in a cup, inside a bigger cup, with cotton wool between, like a polar bear's fur over their fat.; Try a layer of cotton wool and a layer of foil together.
 - **s1 (5 min)**  
   *Parent does:* Ask the question below. Then let your child choose materials.  
   *Parent says:* We found that wool keeps a warm bottle warm. Do you think it could keep an ice cube cold? Some people think a sweater would make it melt faster.  
@@ -587,8 +587,8 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
 - **creative:** The Indian purple frog of the Western Ghats lives deep underground for most of the year. Could you bury your frog?; A clay pot stays cool when wet, like a matka. Could a wet clay pot help?; Some frogs hide in tree holes full of rainwater. Could a small cup of water nearby keep the air damp?
 - **s1 (5 min)**  
   *Parent does:* Read the problem together and look at the materials.  
-  *Parent says:* A frog breathes through its skin, so its skin must stay damp. If it dries out, the frog is in danger. That is why frogs hide in the day and come out in the rain.  
-  *Child mode:* A frog's skin must stay wet. Build it a damp, shady home.
+  *Parent says:* A frog breathes through their skin, so their skin must stay damp. If it dries out, the frog is in danger. That is why frogs hide in the day and come out in the rain.  
+  *Child mode:* A frog's skin must stay wet. Build them a damp, shady home.
   - Check: Why do frogs come out mostly at night and in the rain? → **Because damp, cool air keeps their skin from drying out**
 - **s2 (20 min)**  
   *Parent does:* Build the hideout. Put it and a bare wet sponge in the sun. Wait two hours, doing other things.  
@@ -606,90 +606,90 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
    Options: Fur / A backbone / Wings / Gills  
    **Answer:** A backbone. *Why:* Vertebrates are animals with a backbone. Picking fur describes only mammals. Picking gills describes only fish and tadpoles.
 2. (sort) Sort these animals into their groups.  
-   **Answer:** rohu → Fish; frog → Amphibian; cobra → Reptile; peacock → Bird; bat → Mammal; mugger crocodile → Reptile; penguin → Bird; dolphin → Mammal; toad → Amphibian; shark → Fish. *Why:* Sort by skin, breathing and babies, not by where an animal lives or whether it flies. The bat flies but has fur and milk, so it is a mammal. The dolphin lives in water but breathes air and feeds milk, so it is a mammal. The penguin cannot fly but has feathers, so it is a bird.
+   **Answer:** rohu → Fish; frog → Amphibian; cobra → Reptile; peacock → Bird; bat → Mammal; mugger crocodile → Reptile; penguin → Bird; dolphin → Mammal; toad → Amphibian; shark → Fish. *Why:* Sort by skin, breathing and babies, not by where an animal lives or whether they fly. The bat flies but has fur and milk, so they are a mammal. The dolphin lives in water but breathes air and feeds milk, so they are a mammal. The penguin cannot fly but has feathers, so they are a bird.
 3. (mcq) How does a fish breathe?  
-   Options: With lungs / With gills, which take oxygen out of water / It does not need to breathe  
+   Options: With lungs / With gills, which take oxygen out of water / They do not need to breathe  
    **Answer:** With gills, which take oxygen out of water. *Why:* Fish breathe with gills. Water flows over the red frills, and blood in them picks up oxygen. Picking 'does not need to breathe' is a common idea, because we cannot see fish taking breaths. But the moving flaps behind their eyes show them pumping water.
-4. (fill) A frog breathes through its lungs and its damp ____.  
+4. (fill) A frog breathes through their lungs and their damp ____.  
    **Answer:** ['skin']. *Why:* Frogs breathe partly through their thin, wet skin. That is why they must stay damp.
 5. (mcq) Which two groups make their own body heat?  
    Options: Fish and reptiles / Birds and mammals / Amphibians and fish  
    **Answer:** Birds and mammals. *Why:* Birds and mammals make their own heat from food. Picking fish or reptiles is common, because some of them are warm in the sun. But that warmth comes from outside.
-6. (truefalse) A lizard is slow on a cold morning because it is lazy.  
-   **Answer:** False. *Why:* False. A lizard takes its heat from outside. When its body is cold, its muscles work slowly. Once the sun warms it, it is quick.
+6. (truefalse) A lizard is slow on a cold morning because they are lazy.  
+   **Answer:** False. *Why:* False. A lizard takes their heat from outside. When their body is cold, their muscles work slowly. Once the sun warms them, they are quick.
 7. (truefalse) Fur and feathers keep animals warm by trapping air.  
    **Answer:** True. *Why:* True. Still air lets heat out very slowly. Fur and feathers hold a layer of still air next to the skin.
-8. (match) Match each animal to how it keeps cool.  
-   **Answer:** Dog → pants with its tongue out; Buffalo → lies in mud or water; Elephant → flaps its big ears; Person → sweats; Lizard → moves into shade. *Why:* Each animal has its own way. Drying water carries heat away in sweat, panting and wet mud. Elephants cool their blood in their ears. Lizards simply move out of the sun.
+8. (match) Match each animal to how they keep cool.  
+   **Answer:** Dog → pants with their tongue out; Buffalo → lies in mud or water; Elephant → flaps their big ears; Person → sweats; Lizard → moves into shade. *Why:* Each animal has their own way. Drying water carries heat away in sweat, panting and wet mud. Elephants cool their blood in their ears. Lizards simply move out of the sun.
 9. (mcq) Why do frogs lay their eggs in water?  
    Options: Because frog eggs have no shell and would dry out in air / Because the water keeps them warm / Because frogs cannot walk on land  
    **Answer:** Because frog eggs have no shell and would dry out in air. *Why:* Frog eggs are wrapped in jelly, with no shell. In dry air the jelly dries out, as in the egg in the air test. Picking 'cannot walk on land' is wrong, because adult frogs hop about on land.
 10. (fill) Birds and most reptiles lay eggs with a ____, so the eggs can be laid on land.  
    **Answer:** ['shell']. *Why:* The shell keeps water in but lets air through tiny holes. So the egg does not dry out on land.
-11. (mcq) Which animal feeds its babies milk?  
+11. (mcq) Which animal feeds their babies milk?  
    Options: Hen / Goat / Cobra / Rohu  
    **Answer:** Goat. *Why:* Mammal mothers feed their babies milk, and a goat is a mammal. Picking hen is common, because hens look after their chicks. But hen chicks peck grain and insects, and drink no milk.
 12. (mcq) Look at the chart from the fur coat test. Which bottle kept its warmth best?  
    Options: Bare / Dry sock / Wet sock  
    **Answer:** Dry sock. *Why:* The dry sock bottle cooled only 4 degrees. That is the shortest bar. Picking 'wet sock' means reading the tallest bar as best. Here a tall bar means it lost the most heat.
-13. (write) Write one way a mammal keeps warm and one way it keeps cool.  
+13. (write) Write one way a mammal keeps warm and one way they keep cool.  
    **Answer:** For example: a yak keeps warm with thick fur. A dog keeps cool by panting.. *Why:* Any correct pair is good. Warm: fur, fat, shivering, huddling. Cool: sweating, panting, mud, shade, flapping ears.
 14. (write) Why is 'cold-blooded' a confusing word for a lizard?  
-   **Answer:** Because a lizard's blood is not always cold. In the sun it can be warmer than a person. It just takes its heat from outside instead of making it.. *Why:* A good answer says the lizard can be warm, and that the real difference is where the heat comes from.
+   **Answer:** Because a lizard's blood is not always cold. In the sun it can be warmer than a person. They just take their heat from outside instead of making it.. *Why:* A good answer says the lizard can be warm, and that the real difference is where the heat comes from.
 15. (draw) Draw a fish. Draw arrows to show water going in at the mouth, over the gills and out at the side.  
    **Answer:** Arrows go in at the mouth, over the gills behind the eye, and out under the gill flap.. *Why:* This shows the path water takes so the gills can take out its oxygen.
 ### Warm, Cool and Born (stretch) (stretch, 15 questions)
-1. (mcq) A Ganges river dolphin lives in water. How does it breathe?  
-   Options: With gills, like a fish / It comes up and breathes air with lungs / Through its skin  
-   **Answer:** It comes up and breathes air with lungs. *Why:* Dolphins are mammals. They breathe air with lungs, so they must come up every minute or two. Picking gills means sorting by where an animal lives, not by its body.
+1. (mcq) A Ganges river dolphin lives in water. How do they breathe?  
+   Options: With gills, like a fish / They come up and breathe air with lungs / Through their skin  
+   **Answer:** They come up and breathe air with lungs. *Why:* Dolphins are mammals. They breathe air with lungs, so they must come up every minute or two. Picking gills means sorting by where an animal lives, not by their body.
 2. (mcq) Why do birds need lots of oxygen?  
    Options: Flying and making their own heat both use a lot of energy / Because they live high up / They do not need much  
    **Answer:** Flying and making their own heat both use a lot of energy. *Why:* Flying and staying warm both burn lots of food, and that needs lots of oxygen. Their lungs with air sacs help.
 3. (truefalse) A tadpole breathes with gills, but a grown frog breathes with lungs and skin.  
-   **Answer:** True. *Why:* True. As a tadpole changes into a frog, it loses its gills and grows lungs.
+   **Answer:** True. *Why:* True. As a tadpole changes into a frog, they lose their gills and grows lungs.
 4. (mcq) A mouse and a snake weigh the same. Which needs more food each week?  
    Options: The snake / The mouse / Both need the same  
-   **Answer:** The mouse. *Why:* The mouse makes its own heat, which burns many times more food. The snake takes its heat from outside, so it can wait weeks between meals.
+   **Answer:** The mouse. *Why:* The mouse makes their own heat, which burns many times more food. The snake takes their heat from outside, so they can wait weeks between meals.
 5. (mcq) Look at the lizard on a wall chart. How many degrees more did the sunny tumbler warm than the shady one?  
    Options: 2 degrees / 4 degrees / 6 degrees  
    **Answer:** 4 degrees. *Why:* The sunny tumbler warmed 6 degrees and the shady one warmed 2. 6 take away 2 is 4. Picking 6 means reading only one bar.
 6. (mcq) In the fur coat test, why did the wet sock bottle cool fastest?  
    Options: Wet wool has no trapped air, and drying water carries heat away / Water is always cold / The sock was too small  
    **Answer:** Wet wool has no trapped air, and drying water carries heat away. *Why:* Wet fur or wool loses its trapped air, and the water drying off takes heat with it. That is why a wet dog shivers.
-7. (order) Put these in order, from the animal that looks after its babies least to most.  
-   **Answer:** order shown. *Why:* The rohu leaves lakhs of eggs. The frog leaves its jelly eggs. The sparrow warms and feeds a few chicks for weeks. The elephant mother cares for one calf for years.
+7. (order) Put these in order, from the animal that looks after their babies least to most.  
+   **Answer:** order shown. *Why:* The rohu leaves lakhs of eggs. The frog leaves her jelly eggs. The sparrow warms and feeds a few chicks for weeks. The elephant mother cares for one calf for years.
 8. (truefalse) In olive ridley turtles, warmer nests give more female babies.  
    **Answer:** True. *Why:* True. In many turtles, the warmth of the sand decides whether a baby is male or female.
 9. (mcq) Which animal is a mammal that lays eggs?  
    Options: Platypus / Penguin / Crocodile  
-   **Answer:** Platypus. *Why:* The platypus of Australia is a mammal with fur that feeds its babies milk, but it lays eggs. Picking penguin or crocodile is wrong: they lay eggs but are a bird and a reptile.
+   **Answer:** Platypus. *Why:* The platypus of Australia is a mammal with fur that feeds their babies milk, but they lay eggs. Picking penguin or crocodile is wrong: they lay eggs but are a bird and a reptile.
 10. (mcq) Why does a small bottle of warm water cool faster than a big one?  
    Options: It has more skin for its size, so heat escapes faster / Small things are always colder / The water inside is different  
    **Answer:** It has more skin for its size, so heat escapes faster. *Why:* A small body has lots of surface for its size, so heat leaks out fast. That is why tiny birds and mice must eat so often.
-11. (match) Match the animal parent to what it does.  
+11. (match) Match the animal parent to what they do.  
    **Answer:** Mugger crocodile mother → carries her hatchlings in her mouth; Emperor penguin father → holds the egg on his feet; Great hornbill mother → seals herself in a tree hole with her eggs; Pigeon parents → feed chicks crop milk. *Why:* Every group has parents that care for their young, in very different ways.
 12. (fill) Lying in the sun to warm up is called ____.  
    **Answer:** ['basking']. *Why:* Lizards, snakes, crocodiles and turtles bask to warm their bodies.
 13. (write) A pigeon looks fat and round on a winter morning. Explain why.  
-   **Answer:** It has fluffed up its feathers. That traps more still air, which keeps its own body heat in.. *Why:* A good answer mentions trapped air and keeping heat in.
+   **Answer:** They have fluffed up their feathers. That traps more still air, which keeps their own body heat in.. *Why:* A good answer mentions trapped air and keeping heat in.
 14. (write) Why could the first animals with shelled eggs live further from water than frogs?  
    **Answer:** Their eggs did not dry out in air. So they could lay eggs on dry land, away from ponds.. *Why:* A good answer links the shell to stopping the egg from drying out.
 15. (draw) Draw a bird's egg, cut in half. Show the shell, the baby, the yolk for food, and the tiny holes that let air in.  
    **Answer:** A shell with dots for holes, a small curled chick, a yellow yolk, and clear watery white around them.. *Why:* An egg holds what the baby needs: food in the yolk, water in the white, and air that comes in through the shell.
 ### Borrowed Heat and Big Puzzles (challenge) (challenge, 15 questions)
 1. (mcq) A lizard on a hot rock is 40 °C. A child in the shade is 37 °C. Which is true?  
-   Options: The lizard makes more heat than the child / The lizard took its heat from the sun, and the child made hers from food / Thermometers do not work on lizards  
-   **Answer:** The lizard took its heat from the sun, and the child made hers from food. *Why:* The lizard is warmer, but it took that heat from the sun. The child makes her own. This is why 'cold-blooded' is a misleading word.
+   Options: The lizard makes more heat than the child / The lizard took their heat from the sun, and the child made hers from food / Thermometers do not work on lizards  
+   **Answer:** The lizard took their heat from the sun, and the child made hers from food. *Why:* The lizard is warmer, but they took that heat from the sun. The child makes her own. This is why 'cold-blooded' is a misleading word.
 2. (truefalse) Birds and mammals probably began to make their own heat separately.  
    **Answer:** True. *Why:* True. Most scientists think birds and mammals came from different groups of ancestors and each became warm on its own. This is still being studied.
 3. (truefalse) Scientists all agree that dinosaurs were warm like birds.  
    **Answer:** False. *Why:* False. Scientists still argue. Some think many dinosaurs were warm, some think they were in between, and some think big ones stayed warm just by being big.
 4. (mcq) All the warmth of a sparrow comes, in the end, from where?  
-   Options: From its feathers / From the sun, through the grain it eats / From the air around it  
-   **Answer:** From the sun, through the grain it eats. *Why:* The sparrow burns food to make heat. That food's energy came from plants, which caught it from sunlight. Feathers only hold the heat in.
-5. (mcq) A tuna keeps its swimming muscles warmer than the sea. What does this show?  
-   Options: Tuna are mammals / The split between 'makes its own heat' and 'takes heat from outside' is not perfect / The sea is warm  
-   **Answer:** The split between 'makes its own heat' and 'takes heat from outside' is not perfect. *Why:* Tuna are fish, but they keep some of their muscles warm. Nature does not always fit our neat groups.
+   Options: From their feathers / From the sun, through the grain they eat / From the air around them  
+   **Answer:** From the sun, through the grain they eat. *Why:* The sparrow burns food to make heat. That food's energy came from plants, which caught it from sunlight. Feathers only hold the heat in.
+5. (mcq) A tuna keeps their swimming muscles warmer than the sea. What does this show?  
+   Options: Tuna are mammals / The split between 'makes their own heat' and 'takes heat from outside' is not perfect / The sea is warm  
+   **Answer:** The split between 'makes their own heat' and 'takes heat from outside' is not perfect. *Why:* Tuna are fish, but they keep some of their muscles warm. Nature does not always fit our neat groups.
 6. (order) Put these in the order they first appeared on Earth, oldest first.  
    **Answer:** order shown. *Why:* Fish came first, more than 500 million years ago. Some fish gave rise to four-legged animals like amphibians. Then came animals with shelled eggs, the ancestors of reptiles and mammals. Birds came later, from dinosaurs.
 7. (mcq) Alligators were found in 2010 to share something with birds. What?  
@@ -698,7 +698,7 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
 8. (write) Is it better to make your own heat or to take it from outside? Give one good thing about each.  
    **Answer:** Making your own heat lets you stay active at night and in the cold. Taking heat from outside saves lots of food. So each is better in some places and some ways.. *Why:* A balanced answer gives one real advantage for each, such as active in the cold, or needing less food.
 9. (write) A rohu lays lakhs of eggs. An elephant has one calf every few years. Why might each way work?  
-   **Answer:** Most rohu eggs are eaten, but there are so many that a few survive. The elephant has one calf, but cares for it for years, so it is very likely to survive.. *Why:* A good answer sees the trade: many young with no care, or few young with lots of care.
+   **Answer:** Most rohu eggs are eaten, but there are so many that a few survive. The elephant has one calf, but cares for them for years, so they are very likely to survive.. *Why:* A good answer sees the trade: many young with no care, or few young with lots of care.
 10. (write) Design a fair test to find out whether feathers or cotton wool keep a warm bottle warmer.  
    **Answer:** Use two identical bottles with the same warm water. Wrap one in feathers and one in the same amount of cotton wool. Keep them in the same place. Measure both every 5 minutes for 20 minutes.. *Why:* A fair test changes only one thing: the wrapping. Everything else stays the same.
 11. (write) Birds came from dinosaurs, and they are closer cousins of crocodiles than lizards are. Should birds be called reptiles? Give your view.  
@@ -726,23 +726,23 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
    Options: Lizard / Frog / Crocodile  
    **Answer:** Frog. *Why:* Frogs have soft, damp skin and lay jelly eggs in water. Lizards and crocodiles have dry scales, so they are reptiles. Mixing them up is very common, because they all have four legs and live near the ground.
 3. (mcq) How does a rohu fish get oxygen?  
-   Options: From air, with lungs / From water, with gills / From the food it eats  
+   Options: From air, with lungs / From water, with gills / From the food they eat  
    **Answer:** From water, with gills. *Why:* Fish take oxygen out of water with their gills. Picking lungs means thinking all animals breathe air.
-4. (mcq) A frog breathes with its lungs and its...  
+4. (mcq) A frog breathes with their lungs and their...  
    Options: scales / damp skin / fins  
    **Answer:** damp skin. *Why:* Frogs breathe partly through thin, damp skin. Frogs have no scales or fins.
-5. (mcq) Which animal makes its own body heat?  
+5. (mcq) Which animal makes their own body heat?  
    Options: Cobra / Sparrow / Frog  
    **Answer:** Sparrow. *Why:* Birds and mammals make their own heat. The cobra and frog take their heat from outside.
 6. (mcq) Why does a lizard lie on a sunny wall in the morning?  
-   Options: To dry its skin / To warm up, because it takes its heat from outside / To hide from birds  
-   **Answer:** To warm up, because it takes its heat from outside. *Why:* Lizards take their warmth from the sun. Until they are warm, their muscles are slow. Picking 'to hide' is unlikely, since a sunny wall is easy to see.
-7. (mcq) A pigeon puffs up its feathers on a cold morning. Why?  
-   Options: To look bigger to other pigeons / To trap more air and keep its heat in / Because it is sick  
-   **Answer:** To trap more air and keep its heat in. *Why:* Fluffed feathers trap a thicker layer of still air. Still air keeps body heat in. Picking 'to look bigger' is sometimes true for display, but in the cold it is about warmth.
+   Options: To dry their skin / To warm up, because they take their heat from outside / To hide from birds  
+   **Answer:** To warm up, because they take their heat from outside. *Why:* Lizards take their warmth from the sun. Until they are warm, their muscles are slow. Picking 'to hide' is unlikely, since a sunny wall is easy to see.
+7. (mcq) A pigeon puffs up their feathers on a cold morning. Why?  
+   Options: To look bigger to other pigeons / To trap more air and keep their heat in / Because they are sick  
+   **Answer:** To trap more air and keep their heat in. *Why:* Fluffed feathers trap a thicker layer of still air. Still air keeps body heat in. Picking 'to look bigger' is sometimes true for display, but in the cold it is about warmth.
 8. (mcq) How does a buffalo keep cool on a hot day?  
-   Options: It pants like a dog / It lies in mud or water / It grows thick fur  
-   **Answer:** It lies in mud or water. *Why:* Buffaloes cannot sweat much, so they wallow. The water and drying mud carry heat away.
+   Options: They pant like a dog / They lie in mud or water / They grow thick fur  
+   **Answer:** They lie in mud or water. *Why:* Buffaloes cannot sweat much, so they wallow. The water and drying mud carry heat away.
 9. (mcq) Which group lays jelly eggs with no shell, usually in water?  
    Options: Birds / Reptiles / Amphibians  
    **Answer:** Amphibians. *Why:* Frogs and toads lay jelly eggs in water. Birds and reptiles lay shelled eggs on land.
@@ -798,33 +798,33 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
 - Which animals near us lay eggs? Which ones feed milk?
 
 ## Jokes
-- Why did the lizard sit on the wall all morning? *It was waiting for its sunny side to charge up.*
+- Why did the lizard sit on the wall all morning? *They were waiting for their sunny side to charge up.*
 - What do you call a fish with no eyes? *A fsh.*
-- Why did the frog stay in the puddle? *It did not want to be a dry croaker.*
+- Why did the frog stay in the puddle? *They did not want to be a dry croaker.*
 - Why don't snakes need sweaters? *The sun is their heater.*
 - What did the sparrow say on a cold morning? *Puff, puff, I'm a feather ball.*
 - Why are fish so smart? *They always swim in schools.*
-- Why did the buffalo jump in the pond? *It needed to chill out.*
+- Why did the buffalo jump in the pond? *They needed to chill out.*
 - What is a dog's favourite way to cool down? *Pant-omime.*
 - Why did the penguin dad stand still for two months? *He was egg-stremely careful.*
-- What do you call a crocodile that keeps its babies in its mouth? *A very careful mummy.*
-- Why did the tadpole feel lonely? *Because it was newt to the pond.*
+- What do you call a crocodile that keeps her babies in her mouth? *A very careful mummy.*
+- Why did the tadpole feel lonely? *Because they were newt to the pond.*
 - Why don't fish play cricket? *They are scared of the net.*
 - How does a turtle make a phone call? *Shell-ular phone.*
 - Why did the egg go to school? *To get egg-ucated.*
 - What do you call a cold dog? *A chilli dog.*
-- Why did the elephant flap its ears? *It was the only fan it had.*
+- Why did the elephant flap their ears? *It was the only fan they had.*
 - What does a frog drink? *Croak-a-cola.*
 - Why did the hen sit on the egg? *Somebody had to keep it warm.*
 - What is a snake's favourite subject? *Hiss-tory.*
 - Why are birds always warm? *They never take off their feather coats.*
-- How do you know a lizard is ready to run? *It has finished its sun-day breakfast.*
+- How do you know a lizard is ready to run? *They have finished their sun-day breakfast.*
 
 ## Connected maths
 - In the fur coat test, the bare bottle started at 48 °C and ended at 42 °C. The dry sock bottle started at 48 °C and ended at 44 °C. How many degrees did each one cool? How many more degrees did the bare bottle cool? **The bare bottle cooled 6 degrees. The sock bottle cooled 4 degrees. The bare bottle cooled 2 degrees more.**. Bare bottle: 48 take away 42 is 6. Sock bottle: 48 take away 44 is 4. Then 6 take away 4 is 2. So without its coat, the bottle lost 2 more degrees of warmth. (queues `math.addition-subtraction.word-problems.L3`)
 - In the lizard on a wall test, the sunny tumbler warmed from 26 °C to 32 °C in 30 minutes. About how many degrees did it warm every 10 minutes, if it warmed evenly? **About 2 degrees every 10 minutes.**. 32 take away 26 is 6 degrees in 30 minutes. 30 minutes is 3 lots of 10 minutes. 6 divided by 3 is 2. So about 2 degrees every 10 minutes. (queues `math.division.sharing-and-grouping.L3`)
 - Your body temperature was 36.8 °C in the morning and 37.1 °C in the evening. The air was 18 °C in the morning and 27 °C in the evening. How much did each change? **The air changed by 9 degrees. Your body changed by only 0.3 of a degree, less than one degree.**. Air: 27 take away 18 is 9. Body: 37.1 take away 36.8 is 0.3. Think of it as 371 tenths take away 368 tenths, which is 3 tenths. So the air changed a lot and your body hardly changed. (queues `math.temperature.reading-thermometers.L3`)
-- An olive ridley turtle lays about 100 eggs in one nest. If only 1 in every 10 hatchlings survives its first year, how many from one nest survive? If a sparrow lays 4 eggs and 2 chicks survive, which parent has more surviving young from one nest? **About 10 turtles survive. 2 sparrows survive. The turtle has more survivors, even though it gives no care.**. 100 divided into groups of 10 gives 10 groups. One survivor from each group is 10 turtles. The sparrow has 2. So laying many eggs can work, even with no care. (queues `math.division.sharing-and-grouping.L3`)
+- An olive ridley turtle lays about 100 eggs in one nest. If only 1 in every 10 hatchlings survives their first year, how many from one nest survive? If a sparrow lays 4 eggs and 2 chicks survive, which parent has more surviving young from one nest? **About 10 turtles survive. 2 sparrows survive. The turtle has more survivors, even though she gives no care.**. 100 divided into groups of 10 gives 10 groups. One survivor from each group is 10 turtles. The sparrow has 2. So laying many eggs can work, even with no care. (queues `math.division.sharing-and-grouping.L3`)
 - In big body, small body, the small bottle cooled 6 degrees in 30 minutes and the big bottle cooled 3 degrees. How many times as fast did the small bottle cool? **About 2 times as fast.**. 6 divided by 3 is 2, so 6 is 2 lots of 3. You can check: 3 + 3 = 6. So the small bottle lost its warmth about twice as fast. (queues `math.division.sharing-and-grouping.L3`)
 
 ## Song
@@ -837,26 +837,26 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - [Bombay Natural History Society](https://www.bnhs.org) · place · Mumbai, Maharashtra: India's oldest nature society, where Sálim Ali worked. They run nature walks for children.
 - [eBird India](https://ebird.org/india) · interactive: Look up the birds seen near your home and add your own sightings from backbone spotting.
 - [Great Backyard Bird Count India](https://birdcount.in) · interactive: Count birds with families across India every February. Watch how birds puff up and keep warm.
-- [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: Search for any Indian frog, lizard, snake, fish or mammal and see where it lives.
-- [iNaturalist](https://www.inaturalist.org) · interactive: Photograph an animal and get help naming it. Good for backbone spotting.
+- [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: Search for any Indian frog, lizard, snake, fish or mammal and see where they live.
+- [iNaturalist](https://www.inaturalist.org) · interactive: Photograph an animal and get help naming them. Good for backbone spotting.
 
 ## Things to buy
 - [Digital thermometer that can measure water, about 0 to 100 °C (a kitchen or lab probe thermometer)](https://www.amazon.in/s?k=digital+probe+thermometer+kitchen) (tool): Measures the warm bottles, the tumblers in the sun and the nest egg. A fever thermometer cannot read cool water, so it works only for some tests. Used in e1, e2, a4, a5, p1. Used again in units on heat, weather and the human body.
 - [Sabja seeds (sweet basil seeds), a small packet](https://www.amazon.in/s?k=sabja+seeds) (material): When soaked, each seed grows a ball of clear jelly, just like frog eggs. Used in the egg in the air test. Used in e3. 
 - [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at the jelly around the soaked sabja seeds. Used in e3. 
-- [The Book of Indian Birds, by Sálim Ali](https://www.amazon.in/s?k=book+of+indian+birds+salim+ali) (book): The classic guide to Indian birds, with pictures to help name the birds you spot from home. Used in a2, p1. Keep it near the window. Each time you spot a bird, look it up together.
+- [The Book of Indian Birds, by Sálim Ali](https://www.amazon.in/s?k=book+of+indian+birds+salim+ali) (book): The classic guide to Indian birds, with pictures to help name the birds you spot from home. Used in a2, p1. Keep it near the window. Each time you spot a bird, look them up together.
 
 ## Warm-up
 - Animals with a backbone are called ____. → Vertebrates.
 - Name the five groups of vertebrates. → Fish, amphibians, reptiles, birds and mammals.
 - What does a fish breathe with? → Gills.
 - Which two groups make their own body heat? → Birds and mammals.
-- Why does a lizard bask in the morning? → To warm up, because it takes its heat from outside.
-- How does a dog keep cool? → It pants.
+- Why does a lizard bask in the morning? → To warm up, because they take their heat from outside.
+- How does a dog keep cool? → They pant.
 - Which group feeds its babies milk? → Mammals.
 - Why must frogs lay eggs in water? → Their eggs have no shell, so they would dry out.
 - Does a sweater make heat? → No. It traps air and holds your own heat in.
-- Is a bat a bird or a mammal? → A mammal. It has fur and feeds its babies milk.
+- Is a bat a bird or a mammal? → A mammal. They have fur and feed their babies milk.
 
 ## Plan
 - Start options: intro, a1, story, e1, g1, big_questions, cards, e2

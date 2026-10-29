@@ -224,7 +224,7 @@
    "concept": "Why every part of you needs oxygen",
    "status": "defined",
    "definition": "Respiration is how the tiny living parts of your body, called cells, use oxygen to break down food and release its energy. Carbon dioxide and water are left over.",
-   "description": "Your body is made of trillions of tiny living parts called cells. Every cell needs energy to do its job. A muscle cell needs energy to pull. A brain cell needs energy to send messages. The energy is locked inside food, like the sugar from a banana. To unlock it, the cell needs oxygen. The cell joins food and oxygen together, and energy comes out. Carbon dioxide and water are left over. This is called respiration. It is a little like a fire, which also needs fuel and oxygen. But it is slow and gentle, and gives warmth, not flames. That is why you breathe. Breathing is the way oxygen reaches your cells, and the way carbon dioxide leaves.",
+   "description": "Your body is made of trillions of tiny living parts called cells. Every cell needs energy to do their job. A muscle cell needs energy to pull. A brain cell needs energy to send messages. The energy is locked inside food, like the sugar from a banana. To unlock it, the cell needs oxygen. The cell joins food and oxygen together, and energy comes out. Carbon dioxide and water are left over. This is called respiration. It is a little like a fire, which also needs fuel and oxygen. But it is slow and gentle, and gives warmth, not flames. That is why you breathe. Breathing is the way oxygen reaches your cells, and the way carbon dioxide leaves.",
    "examples": [
     "About 240 years ago, the French scientist Antoine Lavoisier showed that breathing is like a very slow burning. Animals take in oxygen and give out carbon dioxide and heat, just like a candle does.",
     "You are warm partly because of respiration. Trillions of cells releasing energy all day make heat.",
@@ -266,7 +266,7 @@
    "concept": "The heart starts its own beat",
    "status": "defined",
    "definition": "The heart makes its own beat. A small patch of special cells in the heart sends out a tiny electric spark about once a second, and the whole heart squeezes.",
-   "description": "You might think the brain tells the heart to beat each time. It does not. In the top of the heart's right side is a little patch of cells called the pacemaker. On its own, it makes a tiny electric spark, again and again. The spark spreads across the heart muscle, and the muscle squeezes. The brain can only tell the pacemaker to go faster or slower. Even a single heart muscle cell, kept alive in a dish in a laboratory, will twitch by itself in a beat. When a person gets a new heart from a donor, the nerves from the brain are not joined back. The new heart still beats, by its own spark.",
+   "description": "You might think the brain tells the heart to beat each time. It does not. In the top of the heart's right side is a little patch of cells called the pacemaker. On its own, it makes a tiny electric spark, again and again. The spark spreads across the heart muscle, and the muscle squeezes. The brain can only tell the pacemaker to go faster or slower. Even a single heart muscle cell, kept alive in a dish in a laboratory, will twitch in a beat, all alone. When a person gets a new heart from a donor, the nerves from the brain are not joined back. The new heart still beats, by its own spark.",
    "examples": [
     "A doctor's heart machine, called an ECG, draws the heart's electric sparks as a wavy line.",
     "Some people's pacemaker cells stop working well. They get a tiny battery-powered pacemaker that makes the spark for them.",
@@ -309,8 +309,8 @@
    "status": "debated",
    "description": "A mouse's heart beats about 500 times a minute. An elephant's heart beats about 30 times. A human child's beats about 90. Small animals almost always have faster hearts. Scientists agree on that pattern. They argue about what it means, and especially about whether there is a 'budget' of heartbeats in a lifetime.",
    "examples": [
-    "A hummingbird's heart can beat more than 1,000 times a minute while it flies.",
-    "In 2019, scientists stuck a sensor on a blue whale with suction cups. Deep under water, its heart beat only about 2 times a minute.",
+    "A hummingbird's heart can beat more than 1,000 times a minute in flight.",
+    "In 2019, scientists stuck a sensor on a blue whale with suction cups. Deep under water, the whale's heart beat only about 2 times a minute.",
     "A newborn baby's heart beats about 120 to 160 times a minute. It slows down as the child grows."
    ],
    "perspectives": [
@@ -413,7 +413,7 @@
    "context": "This card is about how air really gets into your lungs."
   },
   {
-   "claim": "Each animal has a fixed number of heartbeats in its life, about a billion, so a slow heart means a long life.",
+   "claim": "Each animal has a fixed number of heartbeats in their life, about a billion, so a slow heart means a long life.",
    "who": "An idea several scientists have written about since the 1990s",
    "for": "When you multiply heart speed by lifespan, many mammals come out near a billion beats. Small fast-hearted animals often live short lives.",
    "against": "There are many exceptions. Humans get two to three billion beats. Birds live much longer than their fast hearts suggest. Exercise makes your heart beat fast for a while, but makes most people live longer, not shorter.",
@@ -1713,7 +1713,7 @@
      "do": "1. Count everyone's points. 2. Then talk about the game.",
      "say": "Count your oxygen points. Now think. In real life, your red blood cells go round about once every minute. How many trips would that be in a day?",
      "kid": "Count your points. Who delivered the most oxygen? Real red cells go round about once a minute, all day long!",
-     "think": "A real red blood cell goes round the body more than a thousand times a day, for about four months. Then a new one takes its place. Is the you of today made of the same blood as the you of last year?"
+     "think": "A real red blood cell goes round the body more than a thousand times a day, for about four months. Then a new one takes their place. Is the you of today made of the same blood as the you of last year?"
     }
    ]
   },
@@ -2629,8 +2629,8 @@
     },
     {
      "t": "write",
-     "p": "Grown-up heart muscle can hardly repair itself, but a zebrafish can grow back part of its heart. Why do you think scientists study zebrafish hearts?",
-     "a": "To find out how the fish repairs its heart, so one day doctors might help human hearts repair themselves after damage.",
+     "p": "Grown-up heart muscle can hardly repair itself, but a zebrafish can grow back part of their heart. Why do you think scientists study zebrafish hearts?",
+     "a": "To find out how the fish repairs their heart, so one day doctors might help human hearts repair themselves after damage.",
      "why": "Learning how other animals do something can give us ideas for helping people. This is still being studied.",
      "lines": 3
     },
@@ -3028,12 +3028,12 @@
   },
   {
    "text": "A neem or peepal tree giving out the oxygen you breathe.",
-   "art": "A big peepal tree with tiny bubbles drifting from its leaves towards children playing below."
+   "art": "A big peepal tree with tiny bubbles drifting from their leaves towards children playing below."
   }
  ],
  "open_questions": [
   {
-   "q": "Why can a grown-up human heart hardly repair itself, when a zebrafish can grow back part of its heart?",
+   "q": "Why can a grown-up human heart hardly repair itself, when a zebrafish can grow back part of their heart?",
    "why_open": "In 2009, scientists used a trace left in people's bodies by old bomb tests to measure how fast heart muscle cells are replaced. In young adults, only about 1 in every 100 is replaced each year. Zebrafish can regrow a damaged part of the heart in about two months. Nobody yet knows how to make human hearts do this."
   },
   {
@@ -3406,7 +3406,7 @@
     "status": "settled"
    },
    {
-    "text": "A single heart muscle cell, kept alive in a dish, beats by itself. When many such cells touch, they start beating together in time.",
+    "text": "A single heart muscle cell, kept alive in a dish, beats all alone. When many such cells touch, they start beating together in time.",
     "status": "settled"
    }
   ],

@@ -25,7 +25,7 @@
  "terms": [
   {
    "term": "Life cycle",
-   "meaning": "All the stages a living thing goes through, from the start of its life to the end.",
+   "meaning": "All the stages a living thing goes through, from the start of their life to the end.",
    "example": "A mango tree starts as a seed, grows, makes mangoes with new seeds, grows old and one day dies.",
    "art": "A circle of arrows: seed, sapling, mango tree with fruit, old tree, fallen seeds."
   },
@@ -37,9 +37,9 @@
   },
   {
    "term": "Infant",
-   "meaning": "A baby in its first year of life.",
+   "meaning": "A baby in their first year of life.",
    "example": "Your baby cousin who cannot walk yet is an infant.",
-   "art": "A baby lying on a cotton mat, kicking its legs."
+   "art": "A baby lying on a cotton mat, kicking their legs."
   },
   {
    "term": "Teenager",
@@ -139,9 +139,9 @@
    "concept": "A baby's body is different",
    "status": "defined",
    "definition": "A baby's body is not a small adult body. It has different proportions, softer bones and it grows faster than at any other time of life.",
-   "description": "A newborn is about 50 centimetres long. By its first birthday it is about 75 centimetres. That is the fastest growing a person ever does. A baby's head is about one quarter of its whole length. In an adult, the head is only about one eighth. A baby's skull has soft spots, where the bones have not joined yet. This lets the skull grow with the brain. A baby is born with about 300 bones and soft parts that will become bone. Many of them join together as the child grows. An adult has 206 bones.",
+   "description": "A newborn is about 50 centimetres long. By its first birthday it is about 75 centimetres. That is the fastest growing a person ever does. A baby's head is about one quarter of their whole length. In an adult, the head is only about one eighth. A baby's skull has soft spots, where the bones have not joined yet. This lets the skull grow with the brain. A baby is born with about 300 bones and soft parts that will become bone. Many of them join together as the child grows. An adult has 206 bones.",
    "examples": [
-    "A baby's legs are short compared to its body. In an adult, the legs are about half of the whole height.",
+    "A baby's legs are short compared to their body. In an adult, the legs are about half of the whole height.",
     "Baby teeth are already hiding inside a baby's gums at birth.",
     "A newborn's soft spot on top of the head closes by about age two."
    ],
@@ -375,7 +375,7 @@
   },
   {
    "text": "Babies and young children grow faster than at any other time.",
-   "evidence": "Height charts used in every Indian health centre show a baby grows about 25 centimetres in its first year, but a child grows only about 5 to 6 centimetres a year."
+   "evidence": "Height charts used in every Indian health centre show a baby grows about 25 centimetres in their first year, but a child grows only about 5 to 6 centimetres a year."
   },
   {
    "text": "Grey hair, wrinkles and needing reading glasses are normal parts of ageing.",
@@ -851,21 +851,21 @@
       "Everyone grows at the same speed all life"
      ],
      "a": 0,
-     "why": "A baby grows from about 50 to about 75 centimetres in its first year. That is faster than any other time. Picking 'the same speed' usually means growth has been pictured as steady, but it comes in fast and slow times."
+     "why": "A baby grows from about 50 to about 75 centimetres in their first year. That is faster than any other time. Picking 'the same speed' usually means growth has been pictured as steady, but it comes in fast and slow times."
     },
     {
      "t": "fill",
-     "p": "A baby in its first year of life is called an ____.",
+     "p": "A baby in their first year of life is called an ____.",
      "a": [
       "infant"
      ],
-     "why": "An infant is a baby in its first year."
+     "why": "An infant is a baby in their first year."
     },
     {
      "t": "truefalse",
-     "p": "A baby's head is bigger compared to its body than an adult's head is.",
+     "p": "A baby's head is bigger compared to their body than an adult's head is.",
      "a": true,
-     "why": "True. A baby's head is about one quarter of its length. An adult's head is only about one eighth."
+     "why": "True. A baby's head is about one quarter of their length. An adult's head is only about one eighth."
     },
     {
      "t": "mcq",
@@ -1011,7 +1011,7 @@
     },
     {
      "t": "fill",
-     "p": "When a living thing's body stops working for good, we say it has ____. It is the last stage of every life cycle.",
+     "p": "When a living thing's body stops working for good, we say they have ____. It is the last stage of every life cycle.",
      "a": [
       "died"
      ],
@@ -1242,7 +1242,7 @@
      "t": "write",
      "p": "A mouse lives about 2 years. A human lives about 80. Their cells are very alike. Suggest one reason for the difference.",
      "lines": 4,
-     "a": "Their genes may set a different timetable. Or a mouse is eaten by cats and owls so young that nature never shaped it to live long. Humans are protected and cared for, so long life helped.",
+     "a": "Their genes may set a different timetable. Or a mouse is eaten by cats and owls so young that nature never shaped them to live long. Humans are protected and cared for, so long life helped.",
      "why": "This is an open question. Scientists point to genes, size, and how dangerous an animal's life is."
     },
     {
@@ -2750,9 +2750,9 @@
    "t": "mcq",
    "p": "What happens at the end of every life cycle?",
    "opts": [
-    "The living thing dies, and its atoms return to the soil, water and air",
-    "It starts again as a baby the next day",
-    "It turns into a different animal",
+    "The living thing dies, and their atoms return to the soil, water and air",
+    "They start again as a baby the next day",
+    "They turn into a different animal",
     "Nothing ever dies"
    ],
    "a": 0,
@@ -2832,7 +2832,7 @@
   },
   {
    "text": "An old banyan tree with hanging roots, still growing after hundreds of years.",
-   "art": "A huge banyan tree with many hanging roots and children playing under it."
+   "art": "A huge banyan tree with many hanging roots, and children playing underneath."
   }
  ],
  "open_questions": [
@@ -2908,7 +2908,7 @@
    "a": "They are full of stories, and they never charge a late fee."
   },
   {
-   "j": "What did the old skin cell say as it fell off?",
+   "j": "What did the old skin cell say when falling off?",
    "a": "I'm flaking out, but a new cell will take my place."
   },
   {
@@ -2916,7 +2916,7 @@
    "a": "It had lasted four whole months!"
   },
   {
-   "j": "Why is a baby's head so big for its body?",
+   "j": "Why is a baby's head so big for their body?",
    "a": "Its brain got a head start."
   },
   {
@@ -2994,7 +2994,7 @@
    "why_maths": "One try can be a fluke. The middle value gives a fair number that one odd try does not change."
   },
   {
-   "problem": "A newborn is about 50 cm long. By its first birthday it is about 75 cm. Later, a child grows about 5 cm a year. How many years does a child take to grow as much as a baby grows in its first year?",
+   "problem": "A newborn is about 50 cm long. By its first birthday it is about 75 cm. Later, a child grows about 5 cm a year. How many years does a child take to grow as much as a baby grows in their first year?",
    "answer": "5 years.",
    "explain": "The baby grew 75 minus 50, which is 25 cm, in one year. A child grows 5 cm a year. 25 divided by 5 is 5. So a child takes 5 years to grow what a baby grows in one.",
    "math_unit": "math.division.division-facts.L3",
@@ -3269,7 +3269,7 @@
   },
   "three": {
    "who_am_i": "Your size, skin and hair all change over your life. Some parts of you, like the middle of your eye lens, have been with you since before you were born.",
-   "what_is_life": "A living body is always making new cells and clearing away old ones, from birth to the end of its life.",
+   "what_is_life": "A living body is always making new cells and clearing away old ones, from birth to the end of life.",
    "what_is_this_world": "Seeds, trees, rivers and people all change through stages. Nothing in the world stays exactly the same."
   },
   "thread": "A body is always being taken apart and built again. Food brings in new atoms, and old cells are broken down and carried away. Skin, blood and gut are renewed again and again, while the eye lens and most brain cells stay. When a body dies, its atoms return to the soil and air and become part of plants and other living things. So the atoms in a grandmother and in her grandchild came from the same soil, water and air, and will go back to them.",
@@ -3314,7 +3314,7 @@
    "If all your cells change, what is it that stays 'you'?",
    "Is the baby in your old photo you, or someone else?",
    "What do you think you will know when you are 80, that you do not know now?",
-   "When an old tree falls and becomes soil for new trees, has it ended, or changed?"
+   "When an old tree falls and becomes soil for new trees, has the tree ended, or changed?"
   ],
   "art": "A child's hand and a grandmother's hand resting side by side, with a zoomed-in circle showing the layers of an eye lens, like the rings of an onion."
  },

@@ -1,0 +1,1493 @@
+{
+ "key": "combined|sci|5|gases-evaporation-condensation-solutions",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "gases-evaporation-condensation-solutions",
+ "title": "Where things go when they vanish: gases, evaporation and dissolving",
+ "source": "DeepKids Combined. Covers Cambridge Primary Science Stage 5 Unit 3: 3.1 Gases, 3.2 Properties of water, 3.3 Evaporation and condensation, and 3.4 Solutions. Adds air pressure, air as a mixture of gases, air pollution, how pressure changes the boiling point, surface tension, humidity, saturated solutions, gases dissolved in water, and separating by filtering, evaporating and distilling. No textbook needed.",
+ "summary": "A puddle dries, sugar disappears in chai, and an empty glass is full of something we cannot see. None of these things has really gone. Your child keeps a tissue dry under water, pours an invisible gas onto a candle and puts it out, and finds out what is in the air and in their own breath. They watch water heat to boiling, count drops on a coin, race wet cloths to see what dries them fastest, and get clear drinking water out of coloured salty water. Then they dissolve salt until water can take no more, test what makes sugar dissolve faster, and grow crystals of phitkari. They meet the man who named gas after chaos, the three people who found oxygen, Anna Mani who measured India's air, and Meghnad Saha, who read the gases of the stars.",
+ "builds_on": "Class 4 Matter and particles gave the particle model: solids, liquids and gases are made of tiny moving particles, air has mass, and sugar fits into the spaces in a full glass of water. Class 4 Changing materials found melting points, hidden heat, and that water expands when it freezes. The Class 5 Water rung follows the water cycle, clouds and salt pans. This rung uses particles to explain how gases behave, what air is, why water evaporates and condenses, and what happens when things dissolve. Later classes study the gas laws, solubility graphs and how chemists separate mixtures.",
+ "subconcepts": [
+  "a gas has no fixed shape or volume and spreads to fill any space",
+  "air is real matter: it takes up space and has mass",
+  "gases can be compressed because their particles are far apart",
+  "air pressure: the air presses on everything, from every side",
+  "air is a mixture: nitrogen, oxygen, argon, carbon dioxide and water vapour",
+  "carbon dioxide can be made, and is heavy enough to pour",
+  "air pollution: smoke, dust and harmful gases, and the air quality index",
+  "melting point and boiling point of water, and how pressure changes the boiling point",
+  "surface tension: water particles at the surface hold together",
+  "evaporation happens at the surface at any temperature, boiling happens all through the liquid",
+  "what speeds up evaporation: warmth, wind, spreading out and dry air (humidity)",
+  "evaporation cools, and condensation turns water vapour back into liquid",
+  "solutions: solute, solvent, soluble, insoluble and suspensions",
+  "saturated solutions and what makes things dissolve faster",
+  "separating mixtures by filtering, evaporating and distilling, and gases dissolved in water"
+ ],
+ "goals": [
+  "By the end your child can show with a glass and a tissue that air takes up space, and explain why gases can be squashed and liquids cannot, using the word particles.",
+  "By the end your child can name the main gases in air with rough amounts, say what changes in the air we breathe out, and explain what the air quality index tells us.",
+  "By the end your child can give the melting and boiling points of water and explain why water boils at a higher temperature in a pressure cooker and a lower one in the hills.",
+  "By the end your child can explain the difference between evaporation and boiling, run a fair test of what dries cloth fastest, and explain why evaporation cools.",
+  "By the end your child can explain condensation and get clear water out of coloured salty water by distilling it.",
+  "By the end your child can use the words solute, solvent, solution, soluble, insoluble and saturated, and choose filtering, evaporating or distilling to separate a mixture."
+ ],
+ "words": [
+  [
+   "gas",
+   "a state of matter with no fixed shape and no fixed volume. A gas spreads out to fill any space, like air in a room."
+  ],
+  [
+   "compress",
+   "to squash something into a smaller space. Gases can be compressed because their particles are far apart."
+  ],
+  [
+   "air pressure",
+   "the push of the air on everything it touches. Air presses from every side, so we do not usually feel it."
+  ],
+  [
+   "water vapour",
+   "water as a gas. It is invisible. There is always some in the air."
+  ],
+  [
+   "boiling point",
+   "the temperature at which a liquid boils, making bubbles of gas all through it. For pure water at sea level it is 100 °C."
+  ],
+  [
+   "evaporation",
+   "a liquid turning into a gas at its surface, like wet clothes drying on a line."
+  ],
+  [
+   "condensation",
+   "a gas cooling and turning back into a liquid, like the drops on the inside of a lid when rice is cooking."
+  ],
+  [
+   "humidity",
+   "how much water vapour is in the air. On a sticky monsoon day the humidity is high."
+  ],
+  [
+   "solution",
+   "a mixture made when a substance dissolves in a liquid and spreads evenly through it, like salt in water. A solution is see-through and nothing settles."
+  ],
+  [
+   "solute and solvent",
+   "the solute is what dissolves, like sugar. The solvent is the liquid it dissolves in, like water."
+  ],
+  [
+   "saturated",
+   "a solution that cannot dissolve any more of the solute. Extra solute stays at the bottom however long you stir."
+  ],
+  [
+   "distillation",
+   "boiling a liquid and cooling the vapour so it condenses again somewhere else. It separates water from what was dissolved in it."
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Is an empty glass really empty?",
+   "goal": "Recall the particle model from Class 4, read the story, and show that air is a real gas that takes up space and can be squashed.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the particle dance",
+     "mins": 6,
+     "do": "Ask: 'In Class 4 you acted out solids, liquids and gases as particles. How did the gas particles move?' Good answer: far apart, fast, in every direction, bouncing off the walls and each other. Ask: 'When you added sugar to a glass filled to the brim, why didn't it spill at first?' Good answer: there are spaces between the water particles, and the sugar particles moved into them. Say: 'This week we find out where things go when they seem to vanish: the air in an empty glass, the water in a drying puddle, and the sugar in chai.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: Two Fingers of Water",
+     "mins": 12,
+     "do": "Read the story aloud. Do not explain how Selvi got the water. Ask: 'Where did the water in the tumbler come from? Why was it not salty?' Write your child's answer on a slip of paper and keep it. You will look at it again on Day 6, after your child has made clear water from salty water."
+    },
+    {
+     "kind": "exp",
+     "title": "The tissue that stays dry",
+     "mins": 14,
+     "do": "Do Experiment e1. Before you push the glass down, ask: 'Will the tissue get wet? Why do you think so?' Wait for a guess and a reason. After the test, ask: 'What was in the glass that kept the water out?' Good answer: air. The glass looked empty, but it was full of air, and the air took up the space. Ask: 'What happened when you tilted the glass?' Good answer: a big bubble of air came out, water rushed in and the tissue got wet. Say: 'Air is matter, just like water and stone. It takes up space. In Class 4 you found that it also has mass.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "do",
+     "title": "Squash the air",
+     "mins": 9,
+     "do": "Take two plastic bottles with caps. Leave one empty and fill the other to the very top with water. Close both caps tightly. Ask your child to squeeze each one hard, over a sink. Ask: 'Which one squashes?' The air bottle squashes a little. The water bottle hardly squashes at all. Ask: 'Why? Think about the particles.' Good answer: in a gas the particles are far apart, so they can be pushed closer together. In a liquid the particles already touch, so there is no room to push them into. Say: 'Squashing a gas into a smaller space is called compressing it. A bicycle tyre and a football are full of compressed air.' If you have a plastic syringe from a chemist (with no needle), block the tip with a finger and push the plunger: air squashes and springs back, water does not."
+    },
+    {
+     "kind": "talk",
+     "title": "What is a gas?",
+     "mins": 4,
+     "do": "Say: 'A gas has no fixed shape and no fixed volume. It spreads out to fill whatever space it is in.' Ask your child to name gases they know. Good answers: air, oxygen, carbon dioxide, water vapour, the gas in a soda bottle, the cooking gas from the cylinder. Say: 'The smell of an agarbatti reaching the next room is gas particles spreading, which you saw in Class 4 as diffusion.'"
+    }
+   ],
+   "need": [
+    "a clear glass tumbler",
+    "a dry tissue or paper napkin",
+    "a bucket or big vessel of water",
+    "2 plastic bottles with caps",
+    "a plastic syringe with no needle, if you have one",
+    "notebook and pencil"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "A gas you can pour",
+   "goal": "Make carbon dioxide and pour it, find out that air presses on everything, and find out what air is made of.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Why did the tissue stay dry?",
+     "mins": 3,
+     "do": "Ask: 'Yesterday the tissue stayed dry under water. What kept the water out?' Good answer: the air in the glass. It takes up space, so the water could not come in until the air got out."
+    },
+    {
+     "kind": "exp",
+     "title": "Pour a gas onto a flame",
+     "mins": 15,
+     "do": "Do Experiment e2. A grown-up lights the candle and does the pouring. Before pouring, ask: 'Nothing will come out of the jug that you can see. Will anything happen to the flame? Why do you think so?' After the flame goes out, ask: 'What came out of the jug?' Good answer: a gas, carbon dioxide, made when baking soda and vinegar reacted. Ask: 'Why did it flow down onto the flame instead of floating away?' Good answer: carbon dioxide is heavier than the same amount of air, so it sinks and flows like an invisible liquid. Say: 'A flame needs oxygen to burn. The carbon dioxide pushed the air away from the flame, so it went out.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "do",
+     "title": "The card that holds up water",
+     "mins": 10,
+     "do": "Work over a sink or a bucket. Fill a glass to the brim with water. Lay a postcard or a piece of plastic file cover over the top. Press it down with your palm, turn the glass upside down, and slowly take your hand away. Ask first: 'What will happen when I let go?' The card stays and the water stays in. Ask: 'What is holding up the card?' Let your child think. Say: 'The air is pressing up on the card. Air presses on everything, from every side. This push is called air pressure. On every square centimetre, about the size of your little fingernail, it pushes about as hard as a 1 kg packet of atta would. A thin film of water round the edge also stops air getting in.' Ask: 'Then why don't we feel squashed?' Good answer: air presses on us from every side, and the air and liquids inside our bodies push back out just as hard."
+    },
+    {
+     "kind": "act",
+     "title": "100 grains of air",
+     "mins": 10,
+     "do": "Do Activity a1. When the three heaps are made, ask: 'What is most of the air we breathe?' Good answer: nitrogen, about 78 out of every 100 particles. Ask: 'How much is oxygen, the gas we need?' Good answer: about 21 out of 100, about one in five. Ask: 'Where is the carbon dioxide?' Good answer: there is so little that it is only a tiny crumb of one grain, about 4 particles in every 10,000.",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "The man who named gas after chaos",
+     "mins": 7,
+     "do": "Tell the story in Voice v1, Jan Baptist van Helmont. Say: 'Before him there was no word for gas. He found that burning charcoal and fermenting juice both gave off a wild, invisible air, and he called it gas, probably from the Greek word chaos.' Ask the voice question. Good answers: the particles rush about in every direction like chaos. But the gas still fills the jar evenly and presses evenly on every side, so there is order in it too.",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "2 tablespoons baking soda",
+    "half a cup of vinegar (sirka) or lemon juice",
+    "a tall jug and a plate to cover it",
+    "a tea-light candle and matches (grown-up)",
+    "a glass",
+    "a postcard or a piece of plastic file cover",
+    "78 grains of rice, 21 moong dal and 1 black peppercorn",
+    "a plate"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The air we share",
+   "goal": "Find out what our breath changes in the air, who found oxygen, and how clean our own air is.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the grains",
+     "mins": 3,
+     "do": "Ask: 'Of every 100 particles of air, how many are oxygen and how many are nitrogen?' Good answer: about 21 oxygen and about 78 nitrogen. The last one is mostly argon, with a tiny bit of carbon dioxide."
+    },
+    {
+     "kind": "do",
+     "title": "What is in a breath?",
+     "mins": 8,
+     "do": "Put a steel plate in the fridge for 5 minutes. Your child breathes slowly onto it. A mist appears and then fades. Ask: 'What is the mist?' Good answer: water vapour in our breath turned into tiny drops on the cold plate. Say: 'The air we breathe out has less oxygen, about 16 in every 100 instead of 21. It has about 100 times more carbon dioxide, about 4 in every 100. It also carries water vapour from inside us.' Ask: 'Who uses the carbon dioxide we breathe out?' Good answer: plants. In light, their leaves take in carbon dioxide and give out oxygen. Then try sheetali breath: roll the tongue into a tube and breathe in through it. If your child cannot roll the tongue, breathe in through closed teeth. Breathe out through the nose. Ask: 'Which breath feels cool, and which feels warm and damp?' Good answer: the breath in feels cool, the breath out is warm and damp."
+    },
+    {
+     "kind": "talk",
+     "title": "Three people and one gas",
+     "mins": 10,
+     "do": "Tell the story in Voice v2, about oxygen. Say: 'A Swedish pharmacist, Carl Wilhelm Scheele, made oxygen first, but his book came out late. Joseph Priestley in England made it a little later and published first. Antoine Lavoisier in France worked out that it was a new element and named it, with Marie-Anne Lavoisier recording and drawing the experiments.' Ask the voice question and let your child decide, giving a reason.",
+     "ref": "v2"
+    },
+    {
+     "kind": "act",
+     "title": "The grey on the leaf",
+     "mins": 10,
+     "do": "Do Activity a2. Then look up today's air quality index for your city on a phone, together. Say: 'The air quality index, or AQI, is a number for how polluted the air is. In India, 0 to 50 is good, 51 to 100 is satisfactory, 101 to 200 is moderate, and above 200 is poor or worse.' Ask: 'What is today's number? Which group is it in?' Say: 'Much of the harm comes from tiny bits called PM2.5. Each is about 30 times thinner than a hair, so small that it goes deep into our lungs.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "Anna Mani measures India's air",
+     "mins": 9,
+     "do": "Tell the story in Voice v3, Anna Mani from Kerala. Ask the voice question. Good answers: you need to measure something before you can tell if it is changing or getting worse. Instruments made in India could be repaired and copied here.",
+     "ref": "v3"
+    },
+    {
+     "kind": "think",
+     "title": "Who breathes the dirtiest air?",
+     "mins": 5,
+     "do": "Ask: 'Who in our city breathes the most smoke and dust?' Good answers: traffic police at busy junctions, street vendors, auto drivers, people who cook on wood stoves indoors, workers on building sites. Ask: 'Who makes most of the smoke? Is it always the same people who breathe it?' Ask: 'Does anybody own the air?' Let your child answer. There is no single right answer."
+    }
+   ],
+   "need": [
+    "a steel plate",
+    "a white cotton cloth or wet cotton buds",
+    "a balcony or window plant, or a window grille",
+    "a phone to check the air quality index"
+   ],
+   "prep": [
+    {
+     "task": "Put a steel plate in the fridge",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Water: melting, boiling and holding together",
+   "goal": "Watch water heat up to boiling, find out how pressure changes the boiling point, test surface tension, and meet the scientist who read the gases of the stars.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Why does ice float?",
+     "mins": 4,
+     "do": "Ask: 'In Class 4 you found the melting point of ice. What was it?' Good answer: 0 °C. Ask: 'Why does ice float in a glass of nimbu pani?' Good answer: water expands when it freezes, so ice is lighter than the same amount of liquid water. Say: 'Most liquids shrink when they freeze. Water is unusual. Today we find more ways water is unusual.'"
+    },
+    {
+     "kind": "do",
+     "title": "Watch water heat up",
+     "mins": 14,
+     "do": "A grown-up heats 2 cups of water in a steel pan on a low flame. Your child stands back at arm's length and watches from the side. Ask them to describe each change. First, tiny bubbles stick to the sides. Say: 'These are air that was dissolved in the water. Warm water cannot hold as much air, so it comes out.' Next, the pan starts to hiss. Bubbles form at the bottom and shrink as they rise. Say: 'These are bubbles of water vapour. The water higher up is cooler, so they turn back into liquid before reaching the top.' At last the water boils: big bubbles rise all the way and burst. Say: 'Boiling is when bubbles of water vapour form all through the liquid. Pure water at sea level boils at 100 °C. That is its boiling point. If you keep heating, the water does not get hotter. The heat is used to turn liquid into gas.' Point to the clear gap just above the boiling water. Say: 'Water vapour is invisible. The white mist above is tiny drops that have already cooled and condensed.' If you have a kitchen thermometer, the grown-up reads it while the water boils."
+    },
+    {
+     "kind": "talk",
+     "title": "The cooker and the hills",
+     "mins": 7,
+     "do": "Ask: 'Why does a pressure cooker cook dal faster than an open pan?' Let your child guess. Say: 'The lid traps the steam, so the pressure inside goes up. Under more pressure, water boils at a higher temperature, about 120 °C. Hotter water cooks dal faster.' Ask: 'What happens high up a mountain, where there is less air pressing down?' Good answer: water boils at a lower temperature. Say: 'In Ooty, about 2,200 metres up, water boils at about 92 °C. On top of Mount Everest it boils at about 70 °C. That is not hot enough to cook rice properly in an open pot.'"
+    },
+    {
+     "kind": "exp",
+     "title": "How many drops on a coin?",
+     "mins": 10,
+     "do": "Do Experiment e3. Before you start, ask: 'How many drops of water will fit on a one-rupee coin before it spills? Write down your guess.' After both tries, ask: 'Why could the water bulge up into a dome?' Good answer: the water particles at the surface pull on each other and hold together, like a stretched skin. Say: 'This is called surface tension. Soap weakens it, which is why the soapy water spilled sooner.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Meghnad Saha reads the stars",
+     "mins": 10,
+     "do": "Tell the story in Voice v4. Say: 'Heat changes water from solid to liquid to gas. Saha asked what happens when a gas gets thousands of degrees hotter, as it is in a star. The atoms themselves start to lose their tiny electrons. His equation told astronomers how hot a star is and what gases are in it, from its light alone.' Ask the voice question. Good answers: light from the star carries a pattern, like a fingerprint, that tells which atoms gave it out.",
+     "ref": "v4"
+    }
+   ],
+   "need": [
+    "a steel pan",
+    "a stove (grown-up)",
+    "a kitchen thermometer, if you have one",
+    "a one-rupee coin",
+    "a medicine dropper, or a straw",
+    "a little dish soap",
+    "2 small cups of water",
+    "a paper towel"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Where does a puddle go? Evaporation",
+   "goal": "Find the difference between evaporation and boiling, start a fair test of what dries cloth fastest, and feel that evaporation cools.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The vanishing line",
+     "mins": 3,
+     "do": "Your child dips a finger in water and draws a line on a steel plate or a floor tile near a window. Watch it for a minute. Ask: 'Where is the water going?' Good answer: into the air, as water vapour. Say: 'The water did not soak into the plate. It turned into a gas. This is evaporation.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the drying race",
+     "mins": 12,
+     "do": "Set up Experiment e4. Before you start, ask your child to put the four cloths in order: 'Which will dry first, and which last? Why?' Write the guess in the notebook. Ask: 'Why must all four cloths be the same size and soaked the same way?' Good answer: so the only difference is the place, which makes it a fair test.",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "Evaporation is not boiling",
+     "mins": 8,
+     "do": "Ask: 'Clothes dry on a line on a 30 °C day. Water boils at 100 °C. Is the water in the clothes boiling?' Good answer: no. Say: 'In a liquid, the particles move at different speeds. A few at the surface move fast enough to break away into the air. That is evaporation. It happens at the surface, at any temperature, even from ice. Boiling happens all through the liquid, but only at the boiling point.' Ask: 'Why do clothes dry slowly on a sticky monsoon day?' Good answer: the air already holds a lot of water vapour, so less water can evaporate into it. Say: 'How much water vapour is in the air is called humidity. Warm air can hold much more water vapour than cold air.'"
+    },
+    {
+     "kind": "do",
+     "title": "The cool wrist",
+     "mins": 6,
+     "do": "Wet the inside of one of your child's wrists with a little water and leave the other dry. Fan both wrists with a notebook. Ask: 'Which wrist feels cooler?' Good answer: the wet one. Ask: 'Why?' Say: 'The fastest particles escape first. They take some of the heat energy with them, so what is left behind is cooler. This is why sweat cools us, and why a clay matka keeps water cool: water seeps through the clay and evaporates from the outside.'"
+    },
+    {
+     "kind": "act",
+     "title": "Dance: the particles that escape",
+     "mins": 9,
+     "do": "Use the whole family, or your child and soft toys as extra particles. Everyone crouches close together on a mat: this is liquid water. Each person jiggles and moves slowly. When the parent calls 'Sun!', everyone jiggles faster, and the person at the edge who moves fastest spins up and away across the room: they have evaporated. When the parent calls 'Fan!', the escaped particle is carried far away so it cannot fall back. Call 'Monsoon air!': the room is already full of particles, so escaped particles keep bumping back into the mat. Ask: 'Who was left on the mat, the fast movers or the slow ones?' Good answer: the slow ones, which is why evaporation leaves the liquid cooler."
+    },
+    {
+     "kind": "check",
+     "title": "First look at the cloths",
+     "mins": 7,
+     "do": "Go round the four cloths from Experiment e4 after about 30 minutes. Your child touches each one and writes in the table: dry, damp or wet. Ask: 'Is it going the way you guessed?' Plan to check every 30 minutes for the rest of the day, and write down the time each cloth becomes dry.",
+     "ref": "e4"
+    }
+   ],
+   "need": [
+    "4 pieces of the same old cotton cloth, about 15 cm square",
+    "4 plates",
+    "a tiffin box with a lid",
+    "a fan",
+    "a bowl of water",
+    "a clock",
+    "notebook and pencil"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Water out of air: condensation",
+   "goal": "Get clear water from coloured salty water by distilling it, find condensation around the home, and do the core worksheet.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Who won the drying race?",
+     "mins": 4,
+     "do": "Look at the times in the e4 table. Ask: 'Which dried first and which last? Why?' Good answer: the spread cloth under the fan dried first, because spreading gives more surface and the moving air carries vapour away. The folded one was slow because most of its water was hidden inside. The cloth in the closed box stayed wet, because the air in the box filled up with water vapour and could take no more.",
+     "ref": "e4"
+    },
+    {
+     "kind": "exp",
+     "title": "Clear water from coloured water",
+     "mins": 15,
+     "do": "Do Experiment e5. The grown-up does all the heating. Before you start, ask: 'The water in the pan is yellow and salty. What colour will the drops in the katori be? Will they taste salty? Why?' After it is done and cooled, ask: 'Where did the clear water come from?' Good answer: the water evaporated, rose as vapour, touched the cold lid, condensed into drops and dripped into the katori. The haldi and salt could not evaporate, so they stayed in the pan. Say: 'This is distillation. Condensation is a gas cooling and turning back into a liquid.'",
+     "ref": "e5"
+    },
+    {
+     "kind": "talk",
+     "title": "Condensation hunt",
+     "mins": 8,
+     "do": "Ask your child to name places in the home where water vapour condenses. Good answers: inside the lid when rice is cooking, the bathroom mirror after a hot bath, a cold bottle from the fridge, the pipe dripping outside an air conditioner, spectacles that fog up when you step out of a cool room into hot sticky air. For each, ask: 'Where did the water come from, and what was cold?' Say: 'When air cools, it cannot hold as much water vapour, so some turns into drops. On a cool, still night this makes dew on leaves and cars. Condensation also gives out heat, the same heat that evaporation took in. In a storm cloud, that heat helps the air keep rising.'"
+    },
+    {
+     "kind": "read",
+     "title": "Back to the story",
+     "mins": 4,
+     "do": "Take out the slip from Day 1 with your child's answer about Selvi's tumbler. Read it together. Ask: 'Would you change your answer now? How was Selvi's pot like the pan we used today?' Good answer: the sun was her stove and the plastic sheet was her cold lid. Only water evaporated, so the drops were fresh and the salt stayed in the pot."
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 14,
+     "do": "Do Worksheet ws1. Read each item aloud if needed. For any wrong answer, go back to the test it came from: the tissue glass, the squashed bottles, the drying race or the coloured water. Your child corrects their own answer in a different colour.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a wide steel pan with a lid that fits",
+    "a small steel katori",
+    "a small steel tumbler or cup to stand it on",
+    "ice cubes",
+    "haldi or food colour",
+    "1 teaspoon salt",
+    "a stove (grown-up)",
+    "oven gloves or a thick cloth",
+    "the slip from Day 1"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Where does the salt go? Solutions",
+   "goal": "Sort mixtures into solutions and suspensions, learn the words for them, make a saturated solution, and start growing crystals.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What stayed behind?",
+     "mins": 3,
+     "do": "Ask: 'Yesterday, when the water left the pan as vapour, what stayed behind?' Good answer: the haldi and the salt. Say: 'The salt was in the water all along, but we could not see it. Today we find out where it was.'"
+    },
+    {
+     "kind": "act",
+     "title": "Which ones disappear?",
+     "mins": 13,
+     "do": "Do Activity a3. When all six glasses have stood for 5 minutes, ask: 'Which glasses are clear, even if coloured, with nothing at the bottom?' Good answer: salt and sugar. Ask: 'Which are cloudy or have something at the bottom or the top?' Good answer: atta, sand, haldi and oil.",
+     "ref": "a3"
+    },
+    {
+     "kind": "talk",
+     "title": "Words for mixtures",
+     "mins": 6,
+     "do": "Say: 'When salt disappears into water, it has dissolved. Its particles have spread out between the water particles. Salt water is a solution. The salt is the solute, the thing that dissolves. The water is the solvent, the liquid it dissolves in. Salt and sugar are soluble in water. Sand and oil are insoluble.' Say: 'Atta in water is cloudy and settles. That is called a suspension: tiny bits floating, but not dissolved.' Ask: 'Is chai a solution?' Good answer: the sugar and the flavour from the tea leaves are dissolved, so the liquid is a solution. The leaves themselves do not dissolve, which is why we strain them. Say: 'Water dissolves more different substances than almost any other liquid. But not everything, as the oil and sand showed.'"
+    },
+    {
+     "kind": "exp",
+     "title": "How much salt can water hold?",
+     "mins": 13,
+     "do": "Do Experiment e6. Before you start, ask: 'How many spoons of salt can half a cup of water dissolve? Is there a limit?' Write down the guess. At the end, say: 'When no more will dissolve, the solution is saturated.' Ask: 'Do you think hot water will dissolve much more salt?' Write the guess and let the test answer it.",
+     "ref": "e6"
+    },
+    {
+     "kind": "do",
+     "title": "Start the crystal garden",
+     "mins": 10,
+     "do": "Start the project, 'A crystal garden'. A grown-up heats one cup of water until it is hot but not boiling and pours it into a clean glass jar. Your child stirs in powdered phitkari (alum), one teaspoon at a time, until no more will dissolve. Tie a cotton thread to the middle of a pencil, lay the pencil across the jar, and let the thread hang in the middle without touching the sides or the bottom. In a second jar, put the saturated salt water from Experiment e6 with a thread in the same way. Put both jars on a shelf where nobody will move them. Ask: 'What do you think will happen by tomorrow? Why?'"
+    }
+   ],
+   "need": [
+    "6 clear glasses",
+    "salt, sugar, atta, sand or soil, haldi and coconut oil",
+    "a teaspoon and a measuring cup",
+    "a clock",
+    "2 clean glass jars",
+    "about 4 tablespoons of phitkari (alum), powdered",
+    "cotton thread and 2 pencils",
+    "a stove (grown-up)"
+   ],
+   "prep": [
+    {
+     "task": "Buy a lump of phitkari (alum) from a grocery or chemist, and crush it to powder in a cloth with a rolling pin",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Faster dissolving, and getting things back",
+   "goal": "Test what makes sugar dissolve faster, find out that gases dissolve in water too, and choose how to separate a mixture.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Crystal check",
+     "mins": 3,
+     "do": "Look at the two jars from yesterday without moving them. Ask: 'What has changed? Which jar has more crystals?' The phitkari thread usually has clear, many-sided crystals. The salt jar may have very few so far. Say: 'Hot water could hold much more phitkari than cold water. As it cooled, the extra phitkari came out as crystals. We will come back to the salt jar.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The dissolving race",
+     "mins": 15,
+     "do": "Do Experiment e7. Before you start, ask your child to guess which glass will dissolve its sugar first and which last, and why. At the end, ask: 'What made sugar dissolve faster?' Good answer: warm water, stirring, and small grains instead of a lump. Ask: 'Why does warm water help?' Good answer: its particles move faster and knock the sugar particles off the grains more quickly. Say: 'Very hot water can hold more than twice as much sugar as cold water. That is why sugar syrup for gulab jamun is made hot. But your salt test showed that hot water holds only a little more salt.'",
+     "ref": "e7"
+    },
+    {
+     "kind": "talk",
+     "title": "Gases dissolve too",
+     "mins": 7,
+     "do": "Ask: 'When you open a bottle of soda, where do the bubbles come from?' Good answer: carbon dioxide was dissolved in the drink under pressure. When the cap comes off, the pressure drops and the gas comes out. Say: 'A glass of cold water left out overnight often has tiny bubbles on its sides by morning. That is dissolved air coming out as the water warms up.' Ask: 'Fish breathe oxygen that is dissolved in water. On a very hot summer afternoon, fish in a pond come up and gulp at the surface. Why?' Good answer: warm water holds less dissolved oxygen. Say: 'So gases are the opposite of sugar. Cold water holds more gas than warm water.'"
+    },
+    {
+     "kind": "do",
+     "title": "Filter it or evaporate it?",
+     "mins": 8,
+     "do": "Line a steel strainer or funnel with a clean handkerchief and put a glass underneath. Pour a cup of atta water through it. Ask: 'What stayed on the cloth? What came through?' Good answer: the atta stayed on the cloth and the water came through clearer. Now pour salt water through a fresh cloth. Your child tastes one drop of what comes through. Ask: 'Did the cloth catch the salt?' Good answer: no, the water is still salty, because dissolved salt particles are spread among the water particles and pass through the cloth. Ask: 'How could you get the salt back? How could you get the water back?' Good answer: let the water evaporate in the sun and the salt stays behind. To get the water back, distil it, as in Experiment e5. Say: 'Villagers have long rubbed a lump of phitkari in muddy water to make the mud settle faster. Then they pour off the cleaner water.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 12,
+     "do": "Do Worksheet ws2. Read each item aloud if needed. For the written answers, ask your child to use the words particles, dissolve, evaporate or condense.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "4 clear glasses",
+    "4 teaspoons of sugar and one lump of mishri",
+    "cold water and warm water",
+    "a spoon and a clock",
+    "a steel strainer or funnel",
+    "2 clean handkerchiefs",
+    "a cup of water with 2 spoons of atta",
+    "a cup of salt water"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Review, game and teach it back",
+   "goal": "Look at the crystals, play the game, try the challenge worksheet, answer the check questions and teach the ideas back.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "The crystal garden",
+     "mins": 5,
+     "do": "Look at both jars with a magnifying glass or a phone camera on zoom. Draw a phitkari crystal and a salt crystal. Ask: 'Which shape are the salt crystals?' Good answer: tiny cubes. Ask: 'Why did the phitkari grow crystals overnight but the salt slowly?' Good answer: hot water held much more phitkari, so it came out as the water cooled. Salt dissolves about the same in hot and cold water, so salt crystals only grow as the water slowly evaporates. Leave the salt jar for a week and keep checking."
+    },
+    {
+     "kind": "game",
+     "title": "Where Did It Go?",
+     "mins": 12,
+     "do": "Play Game g1. When players disagree about a card, ask them to say what the particles did, and test it if you can: breathe on a cold plate, or stir sugar in water.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Do Worksheet ws3. Talk through each question before your child writes. The candle question has a surprising answer: listen for the idea that the hot air inside the glass expands and some escapes, and that it shrinks again as it cools.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 8,
+     "do": "Ask the check questions aloud, without the worksheets. Tick each one answered well. For any that is missed, repeat the test it came from for a minute: squeeze the bottles, breathe on a cold plate, or stir salt into water."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 8,
+     "do": "Your child is the teacher for 6 minutes. Using the tissue glass, a cold plate, a glass of salt water and the crystal jars, they teach you: what a gas is, what air is made of, the difference between evaporation and boiling, what condensation is, and what happens when salt dissolves and how to get it back. Ask one real question as the student: 'If salt is still in the water, why can't I see it?'"
+    }
+   ],
+   "need": [
+    "the crystal jars",
+    "the printed game cards",
+    "a clear glass, a tissue and a bucket of water",
+    "a cold steel plate",
+    "a glass of salt water"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Gases, water and changes of state",
+   "day": 6,
+   "sections": [
+    [
+     "A. Gases and air",
+     [
+      {
+       "t": "mcq",
+       "p": "Kavya pushes a glass straight down into a bucket of water. The glass is upside down, with a dry tissue stuck inside. Why does the tissue stay dry?",
+       "opts": [
+        "The glass is full of air, and the air keeps the water out.",
+        "Water cannot wet a tissue.",
+        "The glass is empty, so nothing happens."
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Sort these into solids, liquids and gases.",
+       "items": [
+        "a steel tumbler",
+        "milk",
+        "the air in a bicycle tyre",
+        "an ice cube",
+        "coconut oil on a hot day",
+        "water vapour",
+        "the bubbles in soda",
+        "a grain of rice"
+       ],
+       "cats": [
+        "solid",
+        "liquid",
+        "gas"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A gas has no fixed shape and no fixed volume. It spreads out to ____ any container.",
+       "a": [
+        "fill"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Out of every 100 particles of air, about how many are nitrogen?",
+       "opts": [
+        "21",
+        "78",
+        "1"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Arjun squeezes a closed bottle of air and a closed bottle full of water. Only the bottle of air squashes. Explain why, using the word particles.",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "B. Water changes state",
+     [
+      {
+       "t": "match",
+       "p": "Match each change to what happens.",
+       "pairs": [
+        [
+         "melting",
+         "solid turns to liquid"
+        ],
+        [
+         "freezing",
+         "liquid turns to solid"
+        ],
+        [
+         "evaporation",
+         "liquid turns to gas at its surface"
+        ],
+        [
+         "boiling",
+         "liquid turns to gas all through, at one temperature"
+        ],
+        [
+         "condensation",
+         "gas cools and turns to liquid"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Pure water at sea level boils at ____ °C.",
+       "a": [
+        "100"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Ice melts at ____ °C.",
+       "a": [
+        "0"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi hangs out four wet cloths of the same size. Which one dries first?",
+       "opts": [
+        "folded, in a still corner",
+        "spread out, under a fan",
+        "spread out, inside a closed box"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Farhan takes a cold bottle out of the fridge. Drops appear on the outside. Where did the water come from?",
+       "opts": [
+        "It leaked through the bottle.",
+        "Water vapour in the air condensed on the cold bottle.",
+        "The fridge sprayed it on."
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Wet clothes dry on a line on a 30 °C day, but water boils at 100 °C. How can the water leave the clothes without boiling?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Solutions, and using what you know",
+   "day": 8,
+   "sections": [
+    [
+     "A. Solutions",
+     [
+      {
+       "t": "fill",
+       "p": "In salt water, the salt is the ____ and the water is the solvent.",
+       "a": [
+        "solute"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Six glasses of water were stirred and left for 5 minutes. Which made a solution?",
+       "items": [
+        "salt in water",
+        "sugar in water",
+        "atta in water",
+        "sand in water",
+        "coconut oil in water",
+        "haldi in water"
+       ],
+       "cats": [
+        "solution: clear, nothing settles",
+        "not a solution: cloudy, settles or floats"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Meenakshi stirs salt into half a cup of water, one spoon at a time. After six spoons, some salt stays at the bottom however long she stirs. What is her salt water now called?",
+       "opts": [
+        "saturated",
+        "evaporated",
+        "condensed"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Each glass gets one spoon of sugar. Which glass dissolves its sugar fastest?",
+       "opts": [
+        "a lump of mishri in cold water, not stirred",
+        "powdered sugar in warm water, stirred",
+        "powdered sugar in cold water, not stirred"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Ravi stirs salt into water until it disappears. Then he pours it through a cloth. What comes through the cloth?",
+       "opts": [
+        "only water, because the salt stays on the cloth",
+        "salty water, because dissolved salt passes through cloth",
+        "nothing at all"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "How could you get the salt back out of salt water? How could you get the water back out?",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "B. Using it at home",
+     [
+      {
+       "t": "mcq",
+       "p": "Why does a pressure cooker cook dal faster than an open pan?",
+       "opts": [
+        "The steam is trapped, so the pressure rises and the water boils above 100 °C.",
+        "The cooker makes the dal smaller.",
+        "The whistle heats the water."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Why does your skin feel cool when water evaporates from it?",
+       "opts": [
+        "The fastest water particles leave and take heat with them.",
+        "Water is always cold.",
+        "The air pushes heat into the skin."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Water vapour turning into tiny drops on a cold mirror is called ____.",
+       "a": [
+        "condensation",
+        "condensing"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Two open bottles of soda stand for an hour, one in the fridge and one in the sun. The one in the sun goes flat first. Why?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking with particles",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "write",
+       "p": "Sanjay stands a lit candle in a plate of water and covers it with a glass. The flame goes out and the water rises a little inside the glass. His friend says, 'The candle used up all the oxygen, so the water rose to fill its place.' What else could make the water rise? How could you test it?",
+       "lines": 4
+      },
+      {
+       "t": "mcq",
+       "p": "On top of Mount Everest, water boils at about 70 °C. Why?",
+       "opts": [
+        "There is less air pressing down on the water.",
+        "The water there is colder.",
+        "The mountain is made of ice."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Very hot water can dissolve more than twice as much sugar as cold water. What about salt?",
+       "opts": [
+        "much more salt too",
+        "only a little more salt",
+        "no salt at all"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Fish in a pond gulp at the surface on a very hot afternoon. What is the best reason?",
+       "opts": [
+        "Warm water holds less dissolved oxygen.",
+        "Fish like the sunshine.",
+        "The pond has more salt in it."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In the candle test on Day 2, carbon dioxide was poured from a jug onto a flame. Which fact made pouring it possible?",
+       "opts": [
+        "Carbon dioxide is heavier than the same amount of air, so it sinks.",
+        "Carbon dioxide is a liquid.",
+        "Carbon dioxide is very cold."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Separating and explaining",
+     [
+      {
+       "t": "fill",
+       "p": "In the coloured water test, the drops collected under the cold lid were ____, because only the water evaporated.",
+       "a": [
+        "clear",
+        "colourless",
+        "clean"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each job to the best way of doing it.",
+       "pairs": [
+        [
+         "getting atta out of water",
+         "filtering through a cloth"
+        ],
+        [
+         "getting salt out of sea water",
+         "evaporating the water"
+        ],
+        [
+         "getting drinking water out of sea water",
+         "distilling"
+        ],
+        [
+         "getting small stones out of rice",
+         "picking them out by hand"
+        ]
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Rain is fresh, even though much of it evaporated from the salty sea. Explain why, using the word evaporate.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Meghnad Saha worked out how hot stars are and what gases are in them, only from their light. Nobody has ever visited a star. What would make you believe a claim like this?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The tissue that stays dry",
+   "day": 1,
+   "question": "Is an empty glass really empty?",
+   "need": [
+    "a clear glass tumbler",
+    "a dry tissue or paper napkin",
+    "a bucket or big vessel of water, deeper than the glass"
+   ],
+   "steps": [
+    "Scrunch the tissue and push it firmly into the bottom of the dry glass, so it will not fall out when the glass is upside down.",
+    "Turn the glass upside down. Keep it straight.",
+    "Push it straight down into the bucket until the whole glass is under water. Look through the side: the water comes only a little way in.",
+    "Hold it there for 5 seconds, then lift it straight up out of the water.",
+    "Pull out the tissue and feel it.",
+    "Now do it again, but this time tilt the glass while it is under water. Watch for a big bubble."
+   ],
+   "predict": "Ask: 'Will the tissue get wet when the glass goes under water? Why do you think so?'",
+   "observe": "When the glass goes straight down and up, the tissue comes out dry. Water enters only a little way. When the glass is tilted, a big bubble of air glugs out, water rushes in, and the tissue gets soaked.",
+   "why": "The glass was full of air. Air is a gas, and a gas is matter: it takes up space. The water could not get in because the air was already there and had nowhere to go. The water pushed it a little smaller, because gases can be compressed. Tilting the glass let the air escape as a bubble, so water could take its place.",
+   "safety": "Wipe up spilt water so nobody slips.",
+   "time": "10 min"
+  },
+  {
+   "id": "e2",
+   "title": "Pour a gas onto a flame",
+   "day": 2,
+   "question": "Can you pour a gas you cannot see?",
+   "need": [
+    "2 tablespoons baking soda (meetha soda)",
+    "half a cup of vinegar (sirka) or lemon juice",
+    "a tall jug",
+    "a plate to cover the jug",
+    "a tea-light candle on a steel plate",
+    "matches (grown-up only)"
+   ],
+   "steps": [
+    "A grown-up lights the tea-light and stands it on a steel plate on the table, away from curtains and fans.",
+    "Put the baking soda in the dry jug.",
+    "Pour in the vinegar. It fizzes and foams. Cover the jug with the plate.",
+    "Wait about 30 seconds, until the fizzing slows down.",
+    "The grown-up takes off the plate and holds the jug a few centimetres above and to the side of the flame.",
+    "Tilt the jug slowly, as if pouring water onto the flame. Stop before any liquid comes out.",
+    "Watch the flame. Then light it again and try once more."
+   ],
+   "predict": "Ask: 'Nothing you can see will come out of the jug. Will anything happen to the flame? Why?'",
+   "observe": "The flame flickers, leans and goes out, although nothing visible came out of the jug. If it does not go out, wait for more gas to collect and pour more slowly, closer to the flame.",
+   "why": "Vinegar is an acid. When it meets baking soda, they react and make a new substance, carbon dioxide gas. That is the fizz. Carbon dioxide is about one and a half times as heavy as the same amount of air, so it collects at the bottom of the jug and flows down when you tilt it, like an invisible liquid. It pushes the air away from the flame. A flame needs oxygen from the air to burn, so without it the flame goes out. Some fire extinguishers spray carbon dioxide for this reason.",
+   "safety": "A grown-up lights and handles the flame. Keep hair, sleeves and paper away. Do not drink the mixture.",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "How many drops on a coin?",
+   "day": 4,
+   "question": "How much water can sit on a coin before it spills?",
+   "need": [
+    "a one-rupee coin",
+    "a medicine dropper, or a straw",
+    "a small cup of plain water",
+    "a small cup of water with one drop of dish soap stirred in",
+    "a paper towel"
+   ],
+   "steps": [
+    "Wash and dry the coin and put it on the paper towel.",
+    "Fill the dropper with plain water. If you use a straw, dip it in the water, close the top with a finger and lift it out.",
+    "Let one drop fall on the coin at a time. Count every drop.",
+    "Look from the side as the water bulges up. Stop when it spills over the edge, and write down the number.",
+    "Dry the coin. Do the same with the soapy water.",
+    "Do each one twice, because one try can be a fluke."
+   ],
+   "predict": "Ask: 'How many drops of water will fit on the coin? Will soapy water fit more drops or fewer?'",
+   "observe": "Plain water usually builds up into a tall dome, often more than 15 drops, before it spills. Soapy water spreads out flat and spills after far fewer drops.",
+   "why": "Water particles pull on each other. Inside the water they are pulled from every side. At the surface there is no water above them, so they are pulled sideways and down, which holds the surface together like a stretched skin. This is surface tension. It lets the water bulge into a dome, and lets small insects walk on a pond. Soap gets between the water particles at the surface and weakens their pull, so the dome collapses sooner.",
+   "safety": "",
+   "time": "10 min"
+  },
+  {
+   "id": "e4",
+   "title": "The drying race",
+   "day": 5,
+   "question": "What makes wet cloth dry fastest?",
+   "need": [
+    "4 pieces of the same old cotton cloth, about 15 cm square",
+    "a bowl of water",
+    "4 plates",
+    "a tiffin box with a lid",
+    "a fan",
+    "a clock",
+    "notebook and pencil"
+   ],
+   "steps": [
+    "Draw a table with four rows, A to D, and columns for the time of each check.",
+    "Soak all four cloths in the bowl. Squeeze each one the same way, twice, so they hold about the same water.",
+    "Cloth A: spread flat on a plate, in a corner of a room with no fan.",
+    "Cloth B: folded into four, on a plate next to cloth A.",
+    "Cloth C: spread flat on a plate, under a fan that is on.",
+    "Cloth D: spread flat inside the tiffin box, with the lid closed, next to cloth A.",
+    "Write down the time. Every 30 minutes, touch each cloth and write dry, damp or wet. Close the tiffin box again after each check.",
+    "Write down the time each cloth becomes dry."
+   ],
+   "predict": "Ask: 'Which cloth will dry first, and which last? Why?'",
+   "observe": "Cloth C, under the fan, usually dries first, often within an hour. Cloth A dries next. Cloth B, folded, takes much longer and stays damp in the middle. Cloth D, in the closed box, is still wet at the end of the day.",
+   "why": "Water evaporates from the surface, so spreading the cloth out gives more surface for particles to escape from. Folding hides most of the water inside. Moving air from the fan carries the water vapour away, so the air next to the cloth stays dry and more water can evaporate into it. In the closed box, the air soon fills up with water vapour. When the air holds as much as it can, evaporation almost stops. Warmth also speeds evaporation, which is why clothes dry fastest on a hot, windy, dry day.",
+   "safety": "",
+   "time": "12 min to set up, then a quick check every 30 minutes through the day"
+  },
+  {
+   "id": "e5",
+   "title": "Clear water from coloured water",
+   "day": 6,
+   "question": "When water evaporates, does what is dissolved in it go too?",
+   "need": [
+    "a wide steel pan with a lid that fits",
+    "a small steel katori",
+    "a small steel tumbler or cup, shorter than the pan",
+    "2 cups of water",
+    "half a teaspoon of haldi, or a few drops of food colour",
+    "1 teaspoon salt",
+    "a bowl of ice cubes",
+    "a stove",
+    "oven gloves or a thick cloth"
+   ],
+   "steps": [
+    "Stir the haldi and salt into the water in the pan. Taste one drop from a clean spoon: yellow and salty.",
+    "Stand the small tumbler upside down in the middle of the pan, and put the katori on top of it, so the katori sits above the water.",
+    "Put the lid on upside down, with its knob pointing down over the katori.",
+    "Pile ice cubes on top of the upside-down lid.",
+    "The grown-up heats the pan on a low flame until it is simmering gently. Keep it simmering for about 15 minutes. Add more ice as it melts, and pour off the melted water from the lid with the oven gloves.",
+    "Turn off the flame. Let everything cool for 10 minutes before anyone touches it.",
+    "Lift the lid off with the gloves and take out the katori. Look at the water in it, and taste it once it is cool."
+   ],
+   "predict": "Ask: 'What colour will the water in the katori be? Will it taste salty? Why do you think so?'",
+   "observe": "Drops form under the cold lid, run down to the knob and drip into the katori. After 15 minutes there are a few spoons of clear water. It does not taste salty. The water left in the pan is still yellow and saltier than before.",
+   "why": "Heat makes water particles move faster, and more of them escape as water vapour. Salt and haldi do not evaporate at these temperatures, so they stay in the pan. The vapour rises and touches the lid, which the ice keeps cold. The vapour cools and condenses into drops. The upside-down lid makes the drops run to its lowest point, the knob, and fall into the katori. Boiling or heating a liquid and condensing its vapour somewhere else is called distillation. Ships and some desert towns get drinking water from sea water this way.",
+   "safety": "A grown-up does all the heating and lifting. Steam can burn badly, so keep faces and hands away from the pan while it is hot. Let everything cool before tasting.",
+   "time": "25 min, including cooling"
+  },
+  {
+   "id": "e6",
+   "title": "How much salt can water hold?",
+   "day": 7,
+   "question": "Is there a limit to how much salt water can dissolve?",
+   "need": [
+    "a clear glass",
+    "half a cup (100 ml) of water at room temperature",
+    "salt",
+    "a teaspoon",
+    "a clock",
+    "a second half cup of warm water (grown-up)"
+   ],
+   "steps": [
+    "Pour 100 ml of water into the glass.",
+    "Add one level teaspoon of salt. Stir for one minute. Look at the bottom of the glass.",
+    "Keep adding one level teaspoon at a time, stirring for one minute after each. Count the spoons.",
+    "When some salt stays at the bottom after 2 minutes of stirring, stop. Write down how many spoons dissolved completely.",
+    "Keep this salt water for the crystal garden.",
+    "Now do the same with 100 ml of warm water, as hot as a cup of tea you can drink. Count again."
+   ],
+   "predict": "Ask: 'How many spoons of salt will dissolve? Will warm water dissolve a lot more?'",
+   "observe": "About 5 or 6 level teaspoons dissolve. After that, salt stays at the bottom however long you stir. Warm water dissolves almost the same amount, perhaps a little more.",
+   "why": "When salt dissolves, water particles pull salt particles off the grains, one by one, and they spread out among the water particles. But a cup of water has only so many particles to do this. When there is as much salt as the water can hold, the solution is saturated, and extra salt stays as grains. Each solute has its own limit. 100 ml of water can hold about 36 grams of salt, and heating it barely changes this. Sugar is different: 100 ml of cold water can hold about 200 grams of sugar, and very hot water more than twice as much.",
+   "safety": "A grown-up handles the warm water.",
+   "time": "15 min"
+  },
+  {
+   "id": "e7",
+   "title": "The dissolving race",
+   "day": 8,
+   "question": "What makes sugar dissolve faster?",
+   "need": [
+    "4 clear glasses",
+    "cold water and warm water (grown-up)",
+    "3 teaspoons of sugar and one lump of mishri of about the same size",
+    "a spoon",
+    "a clock",
+    "a marker or slips of paper for labels"
+   ],
+   "steps": [
+    "Label the glasses A, B, C and D. Put 100 ml of water in each: cold in A, B and D, warm in C.",
+    "Glass A: add one teaspoon of sugar. Do not stir.",
+    "Glass B: add one teaspoon of sugar and stir slowly, 2 stirs every 5 seconds.",
+    "Glass C (warm): add one teaspoon of sugar and stir the same way as B.",
+    "Glass D: add the lump of mishri and stir the same way as B.",
+    "Start all four at the same moment. Write down the time when no grains can be seen in each glass. Stop after 10 minutes and write down what is left."
+   ],
+   "predict": "Ask: 'Which glass will finish first, and which last? Why?'",
+   "observe": "C, warm and stirred, finishes first, often in under a minute. B, cold and stirred, comes next. D, the lump, takes much longer, because only its outside touches the water. A, not stirred, still has sugar at the bottom after 10 minutes.",
+   "why": "Sugar dissolves when moving water particles knock sugar particles off the grain. Warm water particles move faster and hit harder and more often. Stirring brings fresh water to the grains, and carries away the sweet water around them. Small grains have much more surface touching the water than one lump of the same weight. B and C are the fair test for temperature, because only the temperature is different. A and B are the fair test for stirring. B and D are the fair test for grain size.",
+   "safety": "A grown-up handles the warm water.",
+   "time": "15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "100 grains of air",
+   "day": 2,
+   "mins": 10,
+   "need": [
+    "78 grains of rice",
+    "21 grains of moong dal",
+    "1 black peppercorn",
+    "a plate",
+    "a pencil and paper"
+   ],
+   "steps": [
+    "Count out 78 rice grains together, in groups of ten, and make a heap. Label it nitrogen.",
+    "Count 21 moong dal and make a second heap. Label it oxygen.",
+    "Put the black peppercorn alone. Label it argon and everything else.",
+    "Say: 'If 100 grains were 100 particles of dry air, this is what they would be.'",
+    "Break a tiny crumb off a rice grain, as small as you can. Say: 'Carbon dioxide is even smaller than this crumb: about 4 particles in every 10,000. Yet plants build themselves out of it, and it keeps the Earth warm.'",
+    "Say: 'Real air also holds water vapour. In a desert there is almost none. On a sticky monsoon day it can be about 4 particles in every 100.'",
+    "Your child draws the plate as a picture with labels."
+   ],
+   "outcome": "A picture of what air is made of, with rough amounts the child can remember: about four fifths nitrogen, one fifth oxygen, and a tiny bit of everything else."
+  },
+  {
+   "id": "a2",
+   "title": "The grey on the leaf",
+   "day": 3,
+   "mins": 10,
+   "need": [
+    "a white cotton cloth cut into 3 small pieces, or 3 wet cotton buds",
+    "a little water",
+    "a balcony or window plant, or a window grille",
+    "an indoor shelf",
+    "a sheet of white paper"
+   ],
+   "steps": [
+    "Wet one piece of cloth and gently wipe the top of a leaf of a plant near an open window or on the balcony. If there is no plant, wipe the window grille.",
+    "With a second piece, wipe the top of a shelf inside the house that is cleaned often.",
+    "With a third piece, wipe a leaf or a surface on the side away from the road, or higher up.",
+    "Lay the three pieces on the white paper and label them.",
+    "Compare them. Which is greyest? Which place is closest to traffic, smoke or a building site?"
+   ],
+   "outcome": "Three cloths that show where the dust and soot in your air settles, and a guess about where it comes from. Leaves near roads are often dark grey, because leaves catch dust and soot from the air."
+  },
+  {
+   "id": "a3",
+   "title": "Which ones disappear?",
+   "day": 7,
+   "mins": 13,
+   "need": [
+    "6 clear glasses of water",
+    "1 teaspoon each of salt, sugar, atta, sand or soil, haldi and coconut oil",
+    "a spoon",
+    "a clock",
+    "labels"
+   ],
+   "steps": [
+    "Label the glasses salt, sugar, atta, sand, haldi and oil.",
+    "Your child guesses for each one: will it disappear, sink, float or make the water cloudy? Write the guesses down.",
+    "Add one teaspoon of each to its glass. Stir each glass 20 times. Wipe the spoon between glasses.",
+    "Leave them for 5 minutes. Do not touch them.",
+    "Look at each glass from the side and from above, against a window. Is it clear? Is there anything at the bottom or floating on top?",
+    "Make a table: clear and nothing settles, cloudy or settles, floats on top."
+   ],
+   "outcome": "A table showing salt and sugar make clear solutions, atta and haldi make cloudy water that slowly settles, sand sinks straight away, and oil floats on top."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Jan Baptist van Helmont (1580–1644), Brussels, in today's Belgium",
+   "idea": "Van Helmont was a doctor who did careful experiments at home. He burned charcoal and found that only a little ash was left. The rest had gone off as an invisible air. He found a similar air coming from grape juice as it fermented into wine. He called it 'wild spirit', and he made up a new word for airs like this: gas. He most likely took it from the Greek word chaos. We now know his wild spirit was carbon dioxide.",
+   "then": "For about two thousand years, many thinkers in Europe had counted air as one single element. The idea that there were different gases, each its own substance, was new. His writings were published by his son after he died.",
+   "now": "Accepted. The word gas is now used in almost every language, and carbon dioxide was one of the first gases to be studied.",
+   "status": "accepted",
+   "ask": "Van Helmont named gas after chaos. In a gas the particles rush about in every direction. Is a gas only chaos, or is there order in it too?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "Carl Wilhelm Scheele (1742–1786), Sweden. Joseph Priestley (1733–1804), England. Antoine Lavoisier (1743–1794) and Marie-Anne Paulze Lavoisier (1758–1836), France",
+   "idea": "Scheele worked in pharmacies and had no university degree. Around 1771 or 1772 he heated substances and made a gas in which things burned brightly. He called it 'fire air'. In August 1774 Priestley made the same gas, and published it first. Lavoisier repeated the experiments and showed it was an element that joins with things when they burn. He named it oxygen. Marie-Anne Lavoisier worked beside him. She translated English science papers into French for him, kept records, and drew the pictures of the apparatus for his famous book of 1789.",
+   "then": "Scheele's book was held up at the printer and came out only in 1777, after Priestley's report. Scheele also wrote to Lavoisier in 1774, but it is not clear whether Lavoisier ever read the letter. Lavoisier gave little credit to either man. Marie-Anne's work was mostly seen as helping her husband.",
+   "now": "Accepted. Most historians now say Scheele made oxygen first, Priestley published first, and Lavoisier understood what it was. The name oxygen means 'acid maker', because Lavoisier wrongly thought all acids contain oxygen. Marie-Anne's drawings and translations are now seen as real scientific work.",
+   "status": "accepted",
+   "ask": "Who should get the credit for oxygen: the first to make it, the first to publish, or the first to understand it? And what about the person who drew and recorded the work?",
+   "day": 3
+  },
+  {
+   "id": "v3",
+   "who": "Anna Mani (1918–2001), born in Peermade, Kerala, India",
+   "idea": "Anna Mani studied physics and did research in Bengaluru under C.V. Raman, on how diamonds and rubies give out light. In 1948 she joined the India Meteorological Department, which studies weather. India then bought almost all its weather instruments from abroad. She led the work of designing and making them in India: instruments for sunshine, rain, wind and humidity. She also built an instrument to measure ozone, a gas high in the air that blocks harmful sunlight, and she helped find good places for wind power.",
+   "then": "She wrote several research papers with Raman, but Madras University would not give her a PhD, because she did not have a master's degree. She went on with her work anyway. She retired in 1976 as Deputy Director General of the department.",
+   "now": "Accepted. Her instruments helped India measure its own air and weather, and she is now remembered as one of India's first women in weather science.",
+   "status": "accepted",
+   "ask": "Why does a country need to measure its own air and make its own instruments, instead of buying them?",
+   "day": 3
+  },
+  {
+   "id": "v4",
+   "who": "Meghnad Saha (1893–1956), born in Shaoratoli, near Dhaka, in today's Bangladesh",
+   "idea": "Stars are huge balls of very hot gas. In 1920 Saha worked out an equation for how the atoms in a hot gas lose some of their electrons as it gets hotter, and how that depends on the pressure. With it, astronomers could read the pattern of dark lines in a star's light and work out how hot the star is and which atoms are in it. In 1925 Cecilia Payne used his idea to show that stars are made mostly of hydrogen and helium.",
+   "then": "Saha's father ran a small shop and the family was poor. At school some students of higher caste would not eat with him. In 1905 he was expelled from his school in Dhaka for joining a protest against the British governor, and lost his scholarship. Astronomers in Europe took up his equation quickly. He was nominated for the Nobel Prize several times but never won it.",
+   "now": "Accepted. The Saha equation is still used to study stars and very hot gases.",
+   "status": "accepted",
+   "ask": "Saha found out what stars are made of without touching one, only from their light. How can light carry that news?",
+   "day": 4
+  }
+ ],
+ "project": {
+  "title": "A crystal garden",
+  "days": [
+   7,
+   9
+  ],
+  "steps": [
+   "Day 7: a grown-up heats one cup of water until it is hot but not boiling and pours it into a clean glass jar.",
+   "Stir in powdered phitkari (alum), one teaspoon at a time, until no more will dissolve. A little powder left at the bottom is fine.",
+   "Tie a cotton thread to the middle of a pencil. Lay the pencil across the jar so the thread hangs in the middle, not touching the sides or bottom.",
+   "In a second jar, put the saturated salt water from Experiment e6, with a thread hung the same way.",
+   "Put both jars on a shelf where nobody will knock them. Do not move them.",
+   "Day 8 and Day 9: look and draw what you see. Measure the biggest crystal with a ruler if you can.",
+   "If no phitkari crystals have grown after 2 days, the solution was not strong enough. Warm it again, stir in more phitkari, and start again.",
+   "Leave the salt jar for a week. As the water slowly evaporates, small cube-shaped salt crystals grow."
+  ],
+  "outcome": "Clear, many-sided phitkari crystals on a thread, and small salt cubes, with drawings that show how a solid can come back out of a solution. Your child can explain why the phitkari grew fast as the water cooled and the salt grew slowly as the water evaporated."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Where Did It Go?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards",
+   "scissors"
+  ],
+  "rules": [
+   "Cut out the cards. Put the four category cards face up in a row: EVAPORATED, CONDENSED, DISSOLVED, MELTED OR FROZE.",
+   "Shuffle the other cards and put them face down in a pile.",
+   "On your turn, take the top card and read it aloud. Say which category it belongs to, and what the particles did.",
+   "Turn the card over. If you were right, keep the card. If you were wrong, put it at the bottom of the pile.",
+   "If the players disagree, test it at home if you can, or ask the grown-up to read the back.",
+   "When the pile is finished, the player with the most cards wins. A player who has a card from all four categories gets 2 extra points."
+  ],
+  "cards": [
+   {
+    "job": true,
+    "front": "EVAPORATED"
+   },
+   {
+    "job": true,
+    "front": "CONDENSED"
+   },
+   {
+    "job": true,
+    "front": "DISSOLVED"
+   },
+   {
+    "job": true,
+    "front": "MELTED OR FROZE"
+   },
+   {
+    "front": "A puddle on the road is gone by lunchtime.",
+    "back": "EVAPORATED. The water became water vapour in the air."
+   },
+   {
+    "front": "Drops appear on the inside of the lid while rice is cooking.",
+    "back": "CONDENSED. Water vapour from the rice cooled on the lid and turned to drops."
+   },
+   {
+    "front": "A spoon of sugar disappears in hot milk, but the milk tastes sweet.",
+    "back": "DISSOLVED. The sugar particles spread out among the milk's particles."
+   },
+   {
+    "front": "Ice cream drips down the side of the cone.",
+    "back": "MELTED. The ice cream warmed up and turned from solid to liquid."
+   },
+   {
+    "front": "Your spectacles fog up when you walk out of a cool room into hot, sticky air.",
+    "back": "CONDENSED. Water vapour in the air turned to drops on the cool glass."
+   },
+   {
+    "front": "Sweat on your forehead dries in the breeze from the fan.",
+    "back": "EVAPORATED. The moving air carried the water vapour away."
+   },
+   {
+    "front": "Mango pieces for pickle shrink and dry on the terrace.",
+    "back": "EVAPORATED. The sun warmed the water in the mango and it went into the air."
+   },
+   {
+    "front": "Tiny drops cover a parked car early on a cool, still morning.",
+    "back": "CONDENSED. This is dew. The air cooled at night and some of its water vapour turned to drops."
+   },
+   {
+    "front": "Lemon juice and sugar are stirred into water to make nimbu pani.",
+    "back": "DISSOLVED. The sugar and the sour substances in the juice spread through the water."
+   },
+   {
+    "front": "Coconut oil in the bottle turns white and hard on a cold morning.",
+    "back": "FROZE. Coconut oil turns solid below about 24 °C."
+   },
+   {
+    "front": "A wet floor is dry 10 minutes after mopping.",
+    "back": "EVAPORATED. The thin layer of water had a big surface, so it evaporated fast."
+   },
+   {
+    "front": "Water drips from the pipe outside an air conditioner.",
+    "back": "CONDENSED. Water vapour in the room's air turned to drops on the cold parts inside the machine."
+   },
+   {
+    "front": "White salt is left on a plate of salt water kept in the sun.",
+    "back": "EVAPORATED. The water went into the air and the salt stayed behind."
+   },
+   {
+    "front": "A closed bottle of soda has no bubbles until you open it.",
+    "back": "DISSOLVED. Carbon dioxide was dissolved in the drink under pressure. It bubbles out when the pressure drops."
+   },
+   {
+    "front": "Ghee in a steel container goes runny when it is kept near the stove.",
+    "back": "MELTED. The heat made the solid ghee turn to liquid."
+   },
+   {
+    "front": "Water in an ice tray turns into cubes.",
+    "back": "FROZE. The water lost heat in the freezer and turned solid."
+   },
+   {
+    "front": "A white mist rises from a cup of hot chai on a cold morning.",
+    "back": "CONDENSED. Invisible water vapour cooled in the cold air and made tiny drops."
+   },
+   {
+    "front": "A wet towel dries on the balcony line.",
+    "back": "EVAPORATED. The water in the towel went into the air as water vapour."
+   },
+   {
+    "front": "Phitkari powder disappears when stirred into hot water.",
+    "back": "DISSOLVED. The alum particles spread among the water particles."
+   },
+   {
+    "front": "The outside of a clay matka feels damp, and the water inside is cool.",
+    "back": "EVAPORATED. Water seeps through the clay and evaporates from the outside, taking heat with it."
+   }
+  ]
+ },
+ "big": [
+  "The air you breathe out goes into other people, animals and trees. Is any of the air inside you only yours?",
+  "Sugar seems to vanish in water but it is still there. What else might be all around us that we cannot see?",
+  "Van Helmont named gas after chaos. Can something be messy up close and orderly from far away?",
+  "Clean air has no price, but nothing is more precious to us. Who should look after it, and who decides?",
+  "Water that evaporated from the sea falls as rain on your roof. Is it the same water, or new water?"
+ ],
+ "challenge": [
+  {
+   "q": "'A candle under a glass uses up all the oxygen, and the water rises to take its place.' Is that true?",
+   "hint": "Not quite. The flame heats the air in the glass, so it expands and some bubbles out. When the flame goes out, the air cools and shrinks, and the water is pushed in. The flame also makes carbon dioxide and water vapour, and it goes out before all the oxygen is used. So the water rise does not measure the oxygen. How could you test it? Try covering the candle quickly and then slowly, and watch for bubbles."
+  },
+  {
+   "q": "'Ice skaters glide because the weight on the thin blade melts the ice under it.' Is that true?",
+   "hint": "This is the explanation in many old books, but calculations show that the pressure of a skate lowers the melting point of ice by far too little. People can skate on ice at minus 20 °C. Most scientists now think rubbing warms a thin layer of the ice, and that the surface of ice has a thin wet-like layer even when nothing presses on it. They still argue about how much each one matters. What would you test to find out?"
+  },
+  {
+   "q": "'Hot water dissolves more of everything.' Is that true?",
+   "hint": "It depends on what is dissolving. Very hot water dissolves more than twice as much sugar as cold water. For salt it makes only a small difference, as your salt test showed. For gases it is the opposite: warm water holds less gas, which is why warm soda goes flat faster and fish gulp at the surface on hot days. Can you think of something else you could test at home?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A rohu fish in a village pond",
+   "view": "It breathes oxygen that is dissolved in the water, taking it in through its gills. On a hot summer afternoon the warm water holds less oxygen, so it must come up and gulp at the surface. Ask: when we pour hot water or waste into a pond, whose breathing changes?"
+  },
+  {
+   "who": "A neem tree on a Chennai street",
+   "view": "Its leaves take in carbon dioxide through tiny pores and give out oxygen and water vapour. The dust and soot from the traffic settle on its leaves. Ask: the tree helps clean the air for free. How would the street be different without it?"
+  },
+  {
+   "who": "A traffic police officer at a busy Bengaluru junction",
+   "view": "She breathes vehicle smoke for many hours a day, and many officers now wear masks. Most of the smoke comes from people who drive past in a few seconds. Ask: is it fair that those who breathe the dirtiest air are not always those who make it?"
+  },
+  {
+   "who": "A family cooking on a wood stove in a village kitchen",
+   "view": "Smoke from wood and dung fires indoors fills the room where women and children spend the most time. Many families now have gas cylinders, but some still cannot afford to refill them. Ask: is the air inside a home as important as the air outside?"
+  }
+ ],
+ "story": {
+  "title": "Two Fingers of Water",
+  "text": [
+   "My name is Arul, and I was thirteen when the engine stopped. My sister Selvi was ten. Appa had taken us out from Rameswaram at dawn to check his nets, because it was the holidays and Selvi had begged for a week. The sea was flat and bright. Then the engine coughed twice and went quiet, and no amount of pulling the cord would wake it.",
+   "Appa was not worried at first. 'Someone will pass,' he said. But a wind came up from the land, warm and steady, and pushed us slowly away from the coast. By noon the temple tower had gone. By evening there was only water in every direction, and the phone showed no signal at all.",
+   "We had one big can of drinking water. In the evening a wave slapped the side of the boat, the can fell, and its cap came off. Selvi grabbed it, but by the time she had it upright, most of it had run into the bottom of the boat and mixed with the sea water there. What was left, Appa poured into his steel tumbler and gave to us. 'Small sips,' he said. He did not drink any.",
+   "That night we lay under a blue plastic sheet that Appa used to cover the ice box. The stars were very close. I could hear Appa awake, and the water knocking on the boat, and Selvi whispering to herself. She did that when she was thinking.",
+   "In the morning the sheet was wet on the underside. Drops hung all over it. Selvi touched one with her finger and put her finger in her mouth. Then she sat up.",
+   "'Anna,' she said. 'Taste it.'",
+   "I licked a drop from the sheet. It tasted of plastic. It did not taste of salt.",
+   "'The sea is salty,' Selvi said. 'But this water is not. Where did it come from?'",
+   "'From the air,' Appa said slowly. 'Dew.' He looked at the sheet as if he had never seen it before.",
+   "Selvi was already looking at the big aluminium pot we cooked fish in. 'At home,' she said, 'when Amma cooks rice, the lid gets drops on the inside. When the salt pans dry, the salt stays. Only the water goes up.' She said it like a list she was checking.",
+   "We did what she told us. We filled the pot a quarter full with sea water. In the middle we stood Appa's empty steel tumbler, so that its rim was well above the sea water. We stretched the blue sheet over the top of the pot and tied it tight round the rim with net twine. Then Selvi took a small lead weight from Appa's tackle box and set it on the sheet, right over the tumbler, so the sheet sagged down in the middle like a funnel.",
+   "Then there was nothing to do but wait.",
+   "The sun climbed. The boat grew hot. The wood burned our hands if we touched it. Appa made us keep our heads covered and our mouths shut. Every hour Selvi crawled over and looked under the edge of the sheet.",
+   "At first there was only a mist. Then tiny drops. Then the drops grew fat and began to slide, very slowly, down the sagging sheet towards the lead weight. They gathered there into one fat drop. It shook. It fell. It made a tiny sound in the steel tumbler, a sound like a single tap on a door.",
+   "Selvi laughed out loud. Appa looked away at the sea, and I think he was crying, though he said it was the sun.",
+   "All afternoon the drops fell, one, and then a long wait, and then one more. When the sun was low, Selvi untied the twine and lifted the tumbler out with both hands. The water in it stood two fingers high. It was clear and warm, and it tasted only a little of plastic.",
+   "She held it out to Appa first. He shook his head. She held it out again and did not lower her arm. In the end each of us took one mouthful, and Selvi took the last.",
+   "Just before dark, a boat from Mandapam found us. The fishermen threw us a rope and a bottle of water each, and towed us home through the night.",
+   "Long afterwards, when the pot had been forgotten in the corner of the boat, I lifted the sheet off it. The sea water had sunk lower. Around the inside of the pot, where the water had been, was a ring of white salt, like a tide mark, dry and glittering. Everything the sea had carried was still there. Only the water had gone up into the air, and some of it had come down into our tumbler."
+  ],
+  "epiphany": "For the parent: the sun made only the water in the pot evaporate. The salt cannot evaporate, so it stayed behind as the white ring. The water vapour touched the cooler plastic sheet, condensed into drops, ran down to the lowest point and dripped into the tumbler. The story turns when Selvi tastes the dew under the sheet and finds it fresh: she sees that water from the air has left its salt behind, and builds the same kind of still you make in Experiment e5. This kind of device is called a solar still.",
+  "ask": [
+   "Why did the drops under the sheet taste fresh when the boat was floating on salty sea?",
+   "What did Selvi remember from home that helped her? How are a rice-pot lid and her sheet alike?",
+   "Why did she put the lead weight right over the tumbler?",
+   "What was the white ring in the pot at the end, and why was it there?",
+   "Appa would not drink until his children had. Selvi made everyone share. What would you have done?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "A gas is real matter, as real as a stone.",
+   "more": "Air kept the tissue dry because it takes up space. It squashed in the bottle because its particles are far apart. Carbon dioxide put out a flame when poured from a jug, because it has mass and sinks. Air holds up a card full of water because it presses on everything. We cannot see most gases, but we can always find them by what they do."
+  },
+  {
+   "idea": "Nothing vanishes when it dries or dissolves.",
+   "more": "When a puddle dries, its water is in the air as vapour. When salt dissolves, its particles are spread among the water particles. Both can be brought back: the water by cooling the vapour so it condenses, the salt by letting the water evaporate. Your clear water from yellow salty water, and your crystals, both show it."
+  },
+  {
+   "idea": "Changing state is about energy and how fast particles move.",
+   "more": "Particles that gain energy move faster and break away from each other: ice melts, water evaporates and boils. The fastest particles leave first, so evaporation cools what is left, as you felt on your wet wrist. When vapour condenses, it gives that heat back. That heat helps storm clouds grow."
+  },
+  {
+   "idea": "We all breathe one air.",
+   "more": "The carbon dioxide we breathe out is taken in by plants, and the oxygen they give out is breathed in by us and by every other animal. Air moves around the whole Earth, so smoke from one place and a tree's oxygen from another end up mixed in the same air. Nobody owns it, and everybody depends on it."
+  }
+ ],
+ "unknowns": [
+  "Why is ice so slippery? Scientists agree that the pressure of a skate is not enough to melt it. They still argue about how much comes from rubbing, which warms the surface, and how much from the thin wet-like layer that ice has on its surface even when nothing touches it.",
+  "In warm clouds, like many monsoon clouds over India, tiny cloud drops sometimes grow into raindrops much faster than scientists can fully explain. They think the swirling air in the cloud makes drops bump and join, but they are still measuring how.",
+  "The extra carbon dioxide in the air is warming the Earth, and scientists agree on that. They do not yet know exactly how much warmer it will get if the carbon dioxide in the air doubles. Their best estimates are between about 2.5 °C and 4 °C."
+ ],
+ "books": [
+  {
+   "title": "A Drop of Water: A Book of Science and Wonder",
+   "author": "Walter Wick",
+   "for": "read together",
+   "age": "6–10",
+   "why": "Large, sharp photographs of water drops, surface tension, evaporation, condensation, frost and dew, with short clear text. It matches the coin test and the condensation hunt."
+  },
+  {
+   "title": "What Is the World Made Of? All About Solids, Liquids, and Gases",
+   "author": "Kathleen Weidner Zoehfeld",
+   "for": "read together",
+   "age": "5–8",
+   "why": "A simple picture book on the three states of matter and how they change. Good for revising the particle ideas before Day 1."
+  },
+  {
+   "title": "Air Is All Around You",
+   "author": "Franklyn M. Branley",
+   "for": "read together",
+   "age": "5–8",
+   "why": "Shows with home tests, like the dry tissue in a glass, that air is real and takes up space."
+  },
+  {
+   "title": "The Cloud Book",
+   "author": "Tomie dePaola",
+   "for": "read together",
+   "age": "5–8",
+   "why": "Names the main kinds of clouds and what they tell us about the weather. Good for the condensation day and a cloud-watching walk on the balcony."
+  }
+ ],
+ "check": [
+  {
+   "q": "How do you know air is real, even though you cannot see it? Give two tests.",
+   "a": "The dry tissue test: an upside-down glass pushed under water keeps the tissue dry, because the air inside takes up space. The squashed bottle: a closed bottle of air can be squashed, because air is a gas with its particles far apart. Also, carbon dioxide poured from a jug put out a candle, and air pressure held a card under a glass of water."
+  },
+  {
+   "q": "What is air made of?",
+   "a": "Air is a mixture of gases. About 78 out of every 100 particles are nitrogen and about 21 are oxygen. The last one is mostly argon, with a tiny amount of carbon dioxide, about 4 particles in every 10,000. There is also some water vapour, more on humid days."
+  },
+  {
+   "q": "What is the difference between evaporation and boiling?",
+   "a": "Evaporation happens only at the surface, at any temperature. The fastest particles escape into the air, like wet clothes drying at 30 °C. Boiling happens all through the liquid, with bubbles of vapour, only at the boiling point, which is 100 °C for pure water at sea level."
+  },
+  {
+   "q": "Name three things that make wet cloth dry faster, and say why.",
+   "a": "Warmth, because the particles move faster and more can escape. Wind or a fan, because moving air carries the vapour away. Spreading it out, because there is more surface for the water to evaporate from. Dry air helps too: in the closed box the air filled with vapour and the cloth stayed wet."
+  },
+  {
+   "q": "Why does water boil at a higher temperature in a pressure cooker, and a lower one in Ooty?",
+   "a": "The pressure cooker traps the steam, so the pressure inside rises, and water needs more heat, about 120 °C, to boil. High up in Ooty there is less air pressing down, so water boils at about 92 °C."
+  },
+  {
+   "q": "What is condensation? Give two examples from home.",
+   "a": "Condensation is a gas cooling and turning back into a liquid. Examples: drops inside the lid when rice cooks, mist on a bathroom mirror, drops on a cold bottle from the fridge, water dripping from an air conditioner pipe, dew on a car."
+  },
+  {
+   "q": "In salt water, which is the solute and which is the solvent? What does saturated mean?",
+   "a": "The salt is the solute, the substance that dissolves. The water is the solvent, the liquid it dissolves in. A saturated solution cannot dissolve any more: about 5 or 6 level teaspoons of salt in half a cup of water. Extra salt stays at the bottom however long you stir."
+  },
+  {
+   "q": "How would you get the salt and the water back out of salt water?",
+   "a": "A cloth filter will not work, because dissolved salt passes through. To get the salt, let the water evaporate in the sun, and the salt stays behind. To get the water, distil it: heat it, and cool the vapour on a cold lid so it condenses into clean water, as in the coloured water test."
+  }
+ ]
+}

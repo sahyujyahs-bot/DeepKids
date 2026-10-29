@@ -22,7 +22,7 @@
 - **Similar**: Nearly the same, but not exactly. *e.g.* You and your cousin have similar hands. Both have five fingers, but their sizes differ.
 - **Relative**: A living thing that shares ancestors with another. In science, plants and animals have relatives too. *e.g.* The tiger and the house cat are relatives. Both come from the same long-ago cat ancestors.
 - **Ancestor**: A living thing from long ago that later living things came from: a parent, a grandparent, and so on, far back. *e.g.* Your grandmother's grandmother is one of your ancestors.
-- **Inherit**: To get a feature from your parents, through the instructions in your body's cells. *e.g.* A kitten inherits its whiskers and claws from its parents.
+- **Inherit**: To get a feature from your parents, through the instructions in your body's cells. *e.g.* A kitten inherits their whiskers and claws from their parents.
 - **Family (in science)**: A group of living things that are close relatives, such as the cat family or the tomato family. *e.g.* Tomato, brinjal, chilli and potato plants are all in the tomato family.
 - **Calyx**: The ring of small green leaves, called sepals, that held a flower. On some fruits it stays on as a green cap. *e.g.* The green star on top of a tomato is its calyx.
 - **Mammal**: An animal with hair, whose mother makes milk for her babies. *e.g.* Cats, cows, bats, whales and people are all mammals.
@@ -30,20 +30,20 @@
 - **Species**: One kind of living thing. Members of a species can usually have young together. *e.g.* All people are one species. Tigers are another species.
 - **Key**: A list of yes-or-no questions that leads you, step by step, to the name of a living thing. *e.g.* 'Does the leaf smell strong? Yes. Is the stem square? Yes. It is tulsi.'
 - **Venn diagram**: Two circles that overlap. Things that fit both rules go in the middle part. *e.g.* A bat goes in the middle of 'can fly' and 'has hair'.
-- **Fungus**: A living thing that is neither a plant nor an animal. It feeds on dead or living things around it. Mushrooms, moulds and yeast are fungi. *e.g.* The green mould on old bread is a fungus.
-- **Spore**: A tiny living cell that a fungus, a fern or a moss makes to start a new one. Spores are much smaller than seeds. *e.g.* A mushroom drops millions of spores from the thin flaps under its cap.
+- **Fungus**: A living thing that is neither a plant nor an animal. They feed on dead or living things around them. Mushrooms, moulds and yeast are fungi. *e.g.* The green mould on old bread is a fungus.
+- **Spore**: A tiny living cell that a fungus, a fern or a moss makes to start a new one. Spores are much smaller than seeds. *e.g.* A mushroom drops millions of spores from the thin flaps under their cap.
 - **Bacteria**: Living things made of just one tiny cell, too small to see without a microscope. *e.g.* Curd bacteria turn milk into curd.
 - **Archaea**: Living things made of one tiny cell that look like bacteria but are very different inside. They are a big group of their own. *e.g.* Archaea live in hot springs, in the mud of rice fields and in a cow's stomach.
 - **Kingdom**: One of the biggest groups of living things, such as the animals, the plants or the fungi. *e.g.* The crow, the ant and you are all in the animal kingdom.
 
 ## Explanations
 ### Sorting living things · *defined*
-**Definition:** Sorting means putting living things into groups by a rule. The rule is a question about a feature, such as 'Does it have feathers?'
+**Definition:** Sorting means putting living things into groups by a rule. The rule is a question about a feature, such as 'Does this one have feathers?'
 
 There are about two million kinds of living things with names, and many more without names. Nobody can remember them one by one. Sorting helps us find them, talk about them and compare them. A good rule is one that anyone can check, so two people get the same answer. 'Does it have six legs?' is a good rule. 'Is it pretty?' is not, because people disagree.
 - e.g. A vegetable seller keeps leafy greens in one basket and roots in another, so they are easy to find.
 - e.g. A doctor sorts snakes into those with dangerous bites and those without, because that decides the treatment.
-- e.g. A bird book sorts birds by family, so you can find a new bird by its shape.
+- e.g. A bird book sorts birds by family, so you can find a new bird by their shape.
 ### More than one right way to sort · *defined*
 **Definition:** The same living things can be sorted in many ways. Each sort is right if its rule is clear and checked carefully. Which sort is best depends on the job.
 
@@ -61,14 +61,14 @@ Every person has a backbone, two arms, two legs, two eyes, a heart and lungs. Ev
 ### Groups inside groups · *defined*
 **Definition:** Scientists put living things into groups inside bigger groups. A small group shares many features. A big group shares only a few.
 
-You are a living thing. Inside that big group, you are an animal. Inside the animals, you are an animal with a backbone. Inside those, you are a mammal, with hair and milk for babies. Inside the mammals, you are a primate, with gripping hands and nails. Inside the primates, you are an ape, with no tail. Each group sits inside the one before, like steel tiffin boxes stacked inside each other. A cat shares your first four boxes, but not the primate box. A macaque shares five, but it has a tail, so it is not an ape.
+You are a living thing. Inside that big group, you are an animal. Inside the animals, you are an animal with a backbone. Inside those, you are a mammal, with hair and milk for babies. Inside the mammals, you are a primate, with gripping hands and nails. Inside the primates, you are an ape, with no tail. Each group sits inside the one before, like steel tiffin boxes stacked inside each other. A cat shares your first four boxes, but not the primate box. A macaque shares five, but has a tail, so is not an ape.
 - e.g. A crow is a living thing, an animal and a backbone animal, but not a mammal.
 - e.g. A tiger and a house cat share every box up to the cat family.
 - e.g. A neem tree shares only the first box with you: living thing.
 ### Why relatives look alike · *defined*
 **Definition:** Living things inherit features from their parents. So relatives, who share ancestors, share many features.
 
-A kitten has whiskers because its parents had whiskers. Its parents got them from their parents, and so on, far back. Tigers, leopards and house cats all came from the same long-ago cat ancestors. So they all have whiskers, claws they can pull in, and rough tongues. Plants work the same way. Tomato, brinjal and chilli plants came from the same ancestor plants. So their fruits share a green cap and small flat seeds. When scientists sort by shared features like these, they find relatives. This sort has a true answer, because it comes from what really happened long ago.
+A kitten has whiskers because their parents had whiskers. Their parents got them from their parents, and so on, far back. Tigers, leopards and house cats all came from the same long-ago cat ancestors. So they all have whiskers, claws they can pull in, and rough tongues. Plants work the same way. Tomato, brinjal and chilli plants came from the same ancestor plants. So their fruits share a green cap and small flat seeds. When scientists sort by shared features like these, they find relatives. This sort has a true answer, because it comes from what really happened long ago.
 - e.g. A tiger and a house cat both pull in their claws when they walk.
 - e.g. Tulsi, mint and karpooravalli all have square stems and strong smells. They are in the mint family.
 - e.g. Rice, wheat, ragi, maize, sugarcane and bamboo are all in the grass family. Their leaves are long and narrow, with veins running side by side.
@@ -83,20 +83,20 @@ The tomato family includes tomato, brinjal, chilli, capsicum and potato. Their f
 **Definition:** Living things that are not close relatives can look alike, because they have solved the same problem in the same way.
 
 A crow, a bat and a butterfly all have wings. Each of them had the same problem: how to reach food, and escape danger, through the air. Wings help each of them do that. But their wings are built differently. A crow's wing is an arm covered in feathers. A bat's wing is skin stretched between long fingers. A butterfly's wing is a thin sheet with no bones at all. These wings grew separately in three different families. So 'has wings' is a useful sort for some jobs, but it does not find relatives. To find relatives, scientists look at many features, especially ones that have no clear job, and now at DNA.
-- e.g. A bat feeds its babies milk and has fur, so it is a mammal, like a cat.
-- e.g. A dolphin has fins and lives in the sea like a fish, but it breathes air and feeds its babies milk. It is a mammal.
+- e.g. Bats feed their babies milk and have fur, so they are mammals, like cats.
+- e.g. Dolphins have fins and live in the sea like fish, but they breathe air and feed their babies milk. They are mammals.
 - e.g. A green chilli and a cucumber are both green, but they are in different families.
 ### Neither plant nor animal: fungi · *defined*
 **Definition:** Fungi, such as mushrooms, moulds and yeast, are a kingdom of their own. They are neither plants nor animals.
 
-For a long time, people sorted mushrooms with plants, because they grow in soil and do not walk. But a mushroom has no green leaves and cannot make food from sunlight. It feeds by soaking up food from the dead wood, leaves or soil around it. It makes spores, not seeds. Most of a fungus is a web of thin threads, hidden in the soil or wood. The mushroom is only the part that makes spores. When scientists compared their DNA, they found that fungi are closer relatives of animals than of plants.
+For a long time, people sorted mushrooms with plants, because they grow in soil and do not walk. But a mushroom has no green leaves and cannot make food from sunlight. They feed by soaking up food from the dead wood, leaves or soil around them. They make spores, not seeds. Most of a fungus is a web of thin threads, hidden in the soil or wood. The mushroom is only the part that makes spores. When scientists compared their DNA, they found that fungi are closer relatives of animals than of plants.
 - e.g. The mushrooms sold in Indian markets, such as button mushrooms and oyster mushrooms, are fungi.
 - e.g. Yeast, which makes dosa batter and bread dough rise, is a fungus made of one cell.
 - e.g. The white fluff on an old orange is a mould, which is a fungus.
 ### The biggest groups have changed · *debated*
 **Definition:** Scientists have changed the biggest groups of living things many times, as they found new clues. They still argue about them today.
 
-In 1735, Carl Linnaeus, a Swedish scientist, sorted living things into two kingdoms: plants and animals. Microscopes then showed tiny one-celled living things that fit neither. In 1969, Robert Whittaker, an American ecologist, proposed five kingdoms: animals, plants, fungi, one-celled living things with a nucleus, and bacteria. Then in 1977 Carl Woese found that some 'bacteria' were very different inside. They are now called archaea. In 1990 he proposed three domains, groups even bigger than kingdoms: bacteria, archaea, and everything with a nucleus in its cells, including us. Newer studies have started another argument.
+In 1735, Carl Linnaeus, a Swedish scientist, sorted living things into two kingdoms: plants and animals. Microscopes then showed tiny one-celled living things that fit neither. In 1969, Robert Whittaker, an American ecologist, proposed five kingdoms: animals, plants, fungi, one-celled living things with a nucleus, and bacteria. Then in 1977 Carl Woese found that some 'bacteria' were very different inside. They are now called archaea. In 1990 he proposed three domains, groups even bigger than kingdoms: bacteria, archaea, and everything with a nucleus in their cells, including us. Newer studies have started another argument.
 - e.g. Many textbooks still teach five kingdoms. Many scientists use three domains.
 - e.g. Archaea live in the mud of rice fields and in a cow's stomach, where they make the gas methane.
 - e.g. Plants, animals and fungi are all in the same domain, because their cells all have a nucleus.
@@ -113,10 +113,10 @@ The usual rule is that members of a species can have young together, and those y
 - **Ernst Mayr and many zoologists:** A species is a group that has young together in the wild, and does not mix with other groups.
 - **Many scientists who study bacteria and plants:** That rule fails for living things that do not mate, and for plants that mix easily. A species is better defined by shared DNA and shared features.
 ### Every living thing senses and decides · *defined*
-**Definition:** Every living thing senses the world around it and responds, from a person to a neem tree to a curd bacterium.
+**Definition:** All living things sense the world around them and respond, from a person to a neem tree to a curd bacterium.
 
-Whatever rule you use, one feature is in every group. A crow notices a cat and flies off. A tulsi plant senses light and turns its leaves towards it. A mushroom's threads sense food in the soil and grow towards it. A bacterium senses sugar and swims towards it. Each of them senses, remembers and decides in its own way, with its own body. Some scientists call the responses of plants and bacteria automatic. Either way, sensing and responding is something all living things share.
-- e.g. A touch-me-not plant folds its leaves when touched.
+Whatever rule you use, one feature is in every group. A crow notices a cat and flies off. A tulsi plant senses light and turns their leaves towards it. A mushroom's threads sense food in the soil and grow towards it. A bacterium senses sugar and swims towards it. Each of them senses, remembers and decides in their own way, with their own body. Some scientists call the responses of plants and bacteria automatic. Either way, sensing and responding is something all living things share.
+- e.g. A touch-me-not plant folds their leaves when touched.
 - e.g. Ants change their path when you put your finger on their trail.
 - e.g. A money plant on a windowsill grows towards the light.
 
@@ -129,7 +129,7 @@ Whatever rule you use, one feature is in every group. A crow notices a cat and f
 - Archaea are a separate big group of one-celled living things, not a kind of bacteria. *How we know:* Carl Woese and George Fox showed this in 1977 by comparing a molecule every cell has, and many later studies agree.
 
 ## How we found out
-**Carl Woese, an American microbiologist, with George Fox, and later Otto Kandler and Mark Wheelis, 1977 (archaea found) and 1990 (three domains proposed).** For most of the 1900s, scientists sorted every living thing into two groups. Some had cells with a nucleus, a small packet that holds the cell's DNA. Animals, plants and fungi were in this group. The rest had no nucleus, and they were all called bacteria. Carl Woese, an American scientist, wanted a better clue to who is related to whom. Every cell has a molecule called ribosomal RNA, which it uses to build proteins. Woese compared this molecule in many tiny living things. In 1977, he and George Fox found that some 'bacteria' that make methane gas were as different from other bacteria as bacteria are from us. They called them archaebacteria. Later Woese renamed them archaea, and in 1990 he proposed three domains of life. Many biologists did not accept it at first. The famous biologist Ernst Mayr was still arguing against it in 1998. But studies of many more archaea agreed with Woese. Today they live in textbooks, and in the mud of rice fields and in our own guts.  
+**Carl Woese, an American microbiologist, with George Fox, and later Otto Kandler and Mark Wheelis, 1977 (archaea found) and 1990 (three domains proposed).** For most of the 1900s, scientists sorted every living thing into two groups. Some had cells with a nucleus, a small packet that holds the cell's DNA. Animals, plants and fungi were in this group. The rest had no nucleus, and they were all called bacteria. Carl Woese, an American scientist, wanted a better clue to who is related to whom. Every cell has a molecule called ribosomal RNA, which they use to build proteins. Woese compared this molecule in many tiny living things. In 1977, he and George Fox found that some 'bacteria' that make methane gas were as different from other bacteria as bacteria are from us. They called them archaebacteria. Later Woese renamed them archaea, and in 1990 he proposed three domains of life. Many biologists did not accept it at first. The famous biologist Ernst Mayr was still arguing against it in 1998. But studies of many more archaea agreed with Woese. Today they live in textbooks, and in the mud of rice fields and in our own guts.  
 *What people believed before:* That every living thing without a nucleus is a kind of bacteria. By comparing ribosomal RNA, Woese and Fox showed that archaea are as different from bacteria as bacteria are from animals and plants.
 
 ## Challenging perspectives
@@ -155,7 +155,7 @@ Whatever rule you use, one feature is in every group. A crow notices a cat and f
 ## Roots
 We have been sorting living things in many ways, and finding which ones are relatives. Now we ask what sorting tells us about ourselves and the world.
 
-**Deep truth.** Sorted by colour, the green chilli went with the cucumber. Sorted by caps and seeds, it went with the tomato and the brinjal. Those three plants share these features because they came from the same ancestor plants. So a living thing's body carries clues to its family, and careful sorting can find them.  
+**Deep truth.** Sorted by colour, the green chilli went with the cucumber. Sorted by caps and seeds, it went with the tomato and the brinjal. Those three plants share these features because they came from the same ancestor plants. So a living thing's body carries clues to their family, and careful sorting can find them.  
 *Habit it breaks:* We think every sort of living things is a choice we make, or that things which look alike must belong together. Many sorts are useful choices. But which living things are relatives was settled long ago, by who came from whom, and their bodies still show it.  
 *Evidence:* In the vegetable test, the colour sort and the cap-and-seed sort made different groups. The cap and the seeds put the chilli with the tomato and the brinjal. Botanists, comparing flowers and DNA, put these three in one family too.
 
@@ -179,7 +179,7 @@ Long ago there were only single cells. Over billions of years, their young chang
 
 ## Deep and big questions
 - *deep:* A bat is in the 'can fly' group and the 'has hair' group. Which group is the bat really in? (hint: Is a group something a bat has, or something we make by asking a question?)
-- *big:* If every living thing is a relative of every other, how far back would you need to go to find the ancestor you share with a neem tree? (hint: Scientists think it lived well over a billion years ago, and was made of one cell.)
+- *big:* If every living thing is a relative of every other, how far back would you need to go to find the ancestor you share with a neem tree? (hint: Scientists think they lived well over a billion years ago, and were made of one cell.)
 - *deep:* Is there a sort that nobody chose? (hint: Who chose that tomato and chilli are relatives? Did anyone?)
 - *big:* Why do some sorts of people hurt, and some do not? (hint: Think about who chooses the rule, and what they do with the groups afterwards.)
 - *deep:* Your hand and a bat's wing have the same bones in them. What could that tell us? (hint: Feel the bones in your fingers. A bat's wing is held up by long finger bones.)
@@ -325,7 +325,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   - Note: Cut the chilli last, and wash the knife after it. Tomato seeds sit in jelly, so pat them on a tissue. A tender cucumber has soft white seeds. They are still easy to see. If you have a pumpkin slice, its seeds are big and flat.
 - **s5 (6 min)**  
   *Parent does:* 1. Look at the seeds with the magnifying glass or the phone camera. 2. Fill in the seed column and draw one seed of each.  
-  *Parent says:* Look closely. What shape is each seed? How big is it? Which seeds look like each other?  
+  *Parent says:* Look closely. What shape is each seed? How big are they? Which seeds look like each other?  
   *Child mode:* Look at the seeds closely. What shape are they? How big? Which ones look the same? Draw one of each.
   - Note: Tomato, brinjal, chilli and capsicum seeds are small, flat and round, about 3 to 5 millimetres across. Cucumber, pumpkin and bottle gourd seeds are flat, oval and pointed at one end, and bigger.
   - Check: Which seeds look most like the tomato's seeds? → **The chilli's and the brinjal's seeds**
@@ -399,7 +399,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **s4 (3 min)**  
   *Parent does:* Put a moong seed next to the print and compare.  
   *Parent says:* Let's put a moong seed next to the print. Can you see one single spore?  
-  *Child mode:* Put a moong seed next to the print. Can you see one spore by itself?
+  *Child mode:* Put a moong seed next to the print. Can you see a single spore?
   - Ask: How is a spore different from a seed? (good: A spore is far too small to see alone.; A seed is big and has a baby plant inside.)
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -458,8 +458,8 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent does:* Now ask for a reason for each of the other three.  
   *Parent says:* Good reason. Now can you find a reason for each of the others to be the odd one out?  
   *Child mode:* Now find a reason for each of the others. Why is each one odd?
-  - Note: Good reasons: the cat is the only one that cannot fly. The crow is the only one with feathers. The butterfly is the only one with no backbone and six legs. The bat is the only one that flies and feeds its babies milk.
-  - Check: Why is the butterfly the odd one out? → **It is the only one with no backbone**
+  - Note: Good reasons: the cat is the only one that cannot fly. The crow is the only one with feathers. The butterfly is the only one with no backbone and six legs. The bat is the only one that flies and feeds their babies milk.
+  - Check: Why is the butterfly the odd one out? → **The only one with no backbone**
 ### a4 · The Kitchen Leaf Key (15 min)
 - **safety:** Money plant leaves are not food. Do not eat them, and wash your hands after touching them.
 - **record:** Draw your key, with yes and no arrows ending in each leaf's name.
@@ -485,7 +485,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent says:* Let's draw a family tree for our kitchen. Each branch is one plant family.  
   *Child mode:* Draw a tree with four branches. Write a family name on each branch.
 - **s2 (7 min)**  
-  *Parent does:* Help your child draw each kitchen plant on its branch.  
+  *Parent does:* Help your child draw each kitchen plant on the right branch.  
   *Parent says:* Rice, wheat and ragi go on the grass branch. Moong, chana and peanut go on the bean branch. Where do tomato and chilli go? And cucumber?  
   *Child mode:* Draw each food on its family's branch. Rice on the grass branch. Moong on the bean branch. Where does the tomato go?
   - Note: Grass family: rice, wheat, ragi, maize, sugarcane. Bean family: moong, chana, rajma, peanut, toor dal, methi. Tomato family: tomato, brinjal, chilli, capsicum, potato. Gourd family: cucumber, pumpkin, bottle gourd, bitter gourd, watermelon. Mint and tulsi need a fifth branch.
@@ -513,9 +513,9 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **record:** The book itself, with group names written at the top of each page.
 - **schedule:** day 1: Find living things indoors: people, potted plants, ants, a house lizard, curd. Draw one on each page. (15 min); day 2: Find living things from the window or balcony: birds, trees, insects. Add a page for each. (15 min); day 3: Sort the pages into piles, then piles inside piles. Write the group names on each page. (15 min)
 - **s1 (15 min)**  
-  *Parent does:* 1. Make the book. 2. Walk around the home together. 3. For each living thing, draw it on its own page and write its name.  
+  *Parent does:* 1. Make the book. 2. Walk around the home together. 3. For each living thing, draw them on their own page and write their name.  
   *Parent says:* Let's find every living thing in our home. People count. Plants count. Even the curd counts, because it is full of living bacteria.  
-  *Child mode:* Find every living thing at home. Draw each one on its own page. Write its name.
+  *Child mode:* Find every living thing at home. Draw each one on their own page. Write its name.
 - **s2 (15 min)**  
   *Parent does:* Add pages for living things seen from the window or balcony.  
   *Parent says:* Today we look outside. What can we see from the window?  
@@ -525,7 +525,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent does:* 1. Lay out all the pages. 2. Sort them into plants, animals and others. 3. Sort the animals again by backbone or no backbone. 4. Write the groups at the top of each page.  
   *Parent says:* Now let's sort the pages. First into big groups, then into smaller groups inside them.  
   *Child mode:* Sort your pages into big groups. Then sort each group again. Write the group names at the top.
-  - Ask: Which living thing was the hardest to sort? Why? (good: The curd, because the bacteria are too small to see.; The mushroom, because it is not a plant or an animal.)
+  - Ask: Which living thing was the hardest to sort? Why? (good: The curd, because the bacteria are too small to see.; The mushroom, because they are not a plant or an animal.)
   - Wait: Do this on day 3.
 
 ## Challenges
@@ -555,9 +555,9 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **general:** Write the family next to each plant first: tomato, brinjal and chilli in the tomato family, cucumber and bottle gourd in the gourd family, beans and peas in the bean family.; Move each family one bag along each season, like children changing seats.; Fill the bean family in after a tomato family season.
 - **creative:** Leave one bag for marigolds or tulsi each season, from a different family again.; Put a climbing gourd next to a wall or string, and plan the other bags around it.; Draw the plan as a circle of four bags, with an arrow showing where each family moves next.
 - **s1 (5 min)**  
-  *Parent does:* 1. Read the problem. 2. Write each plant's family next to it.  
+  *Parent does:* 1. Read the problem. 2. Write each plant's family next to them.  
   *Parent says:* First, let's write each plant's family. Which ones are in the tomato family?  
-  *Child mode:* Write each plant's family next to it. Which ones are in the tomato family?
+  *Child mode:* Write each plant's family next to them. Which ones are in the tomato family?
 - **s2 (15 min)**  
   *Parent does:* Fill in the table, bag by bag and season by season.  
   *Parent says:* Now fill the table. Remember: no bag grows the same family two seasons running.  
@@ -574,8 +574,8 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
    Options: Lives in the city / Has hair / Has two eyes / Is alive  
    **Answer:** Has hair. *Why:* A bat has hair, and the crow and pigeon have feathers. The other rules put all three together.
 2. (mcq) Which of these is a good sorting question that anyone can check?  
-   Options: Is it cute? / Does it have six legs? / Is it my favourite? / Is it a good animal?  
-   **Answer:** Does it have six legs?. *Why:* Anyone can count legs and get the same answer. Cute, favourite and good change from person to person.
+   Options: Is this one cute? / Does this one have six legs? / Is this one my favourite? / Is this a good animal?  
+   **Answer:** Does this one have six legs?. *Why:* Anyone can count legs and get the same answer. Cute, favourite and good change from person to person.
 3. (truefalse) There is only one right way to sort living things.  
    **Answer:** False. *Why:* False. There are many right ways. Each sort is right for some job, such as cooking, farming or finding relatives.
 4. (truefalse) A bat can belong to the 'can fly' group and the 'has hair' group at the same time.  
@@ -594,18 +594,18 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
    **Answer:** True. *Why:* True. People breathe, eat, grow and move, have backbones and hair, and mothers make milk for babies. People are mammals and primates.
 10. (order) Put these groups in order, from the biggest group to the smallest: mammal, living thing, primate, animal, backbone animal.  
    **Answer:** order shown. *Why:* Each group sits inside the one before. Every primate is a mammal, every mammal has a backbone, every backbone animal is an animal, and every animal is a living thing.
-11. (mcq) A crow has a backbone and feathers. Which group is it NOT in?  
+11. (mcq) A crow has a backbone and feathers. Which group are they NOT in?  
    Options: Living thing / Animal / Backbone animal / Mammal  
-   **Answer:** Mammal. *Why:* A crow is a bird. It has feathers, not hair, so it is not a mammal.
+   **Answer:** Mammal. *Why:* A crow is a bird. Crows have feathers, not hair, so they are not mammals.
 12. (match) Match each food to its plant family.  
    **Answer:** Rice → grass family; Moong → bean family; Brinjal → tomato family; Pumpkin → gourd family. *Why:* Rice is a grass, moong grows in pods, brinjal keeps a green cap like the tomato, and pumpkin grows on a vine like the cucumber.
 13. (truefalse) A mushroom is a kind of plant.  
-   **Answer:** False. *Why:* False. A mushroom is a fungus. It has no green leaves, cannot make food from sunlight, and makes spores, not seeds.
+   **Answer:** False. *Why:* False. A mushroom is a fungus. They have no green leaves, cannot make food from sunlight, and make spores, not seeds.
 14. (mcq) Why do a tiger and a house cat look alike?  
    Options: They live in the same places / They came from the same cat ancestors / They eat the same food / Someone painted them alike  
    **Answer:** They came from the same cat ancestors. *Why:* Tigers and house cats are relatives. They inherited whiskers, claws they can pull in and rough tongues from the same long-ago ancestors.
 15. (draw) Draw two overlapping circles. Label one 'can fly' and one 'has hair'. Put a crow, a cat and a bat in the right places.  
-   **Answer:** Crow in 'can fly' only, cat in 'has hair' only, bat in the middle.. *Why:* The bat can fly and has hair, so it goes where the circles overlap. This drawing is called a Venn diagram.
+   **Answer:** Crow in 'can fly' only, cat in 'has hair' only, bat in the middle.. *Why:* The bat can fly and has hair, so they go where the circles overlap. This drawing is called a Venn diagram.
 16. (fill) A living thing from long ago that later living things came from is called an ____.  
    **Answer:** ['ancestor']. *Why:* Your grandmother's grandmother is one of your ancestors. All living things share very old ancestors.
 ### Sorting living things: stretch (stretch, 16 questions)
@@ -617,12 +617,12 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
    **Answer:** Different families can solve the same problem in a similar way. *Why:* Their wings are built differently: feathers on an arm, skin on long fingers, and a thin sheet with no bones. Each grew separately.
 3. (truefalse) Coriander has a strong smell, so it must be in the mint family.  
    **Answer:** False. *Why:* False. Coriander smells strong, but it has a round stem and leaves that come one at a time. One clue alone can mislead.
-4. (mcq) A dolphin lives in the sea and has fins. Why is it a mammal, not a fish?  
-   Options: It is big / It breathes air and feeds its babies milk / It is clever / It swims fast  
-   **Answer:** It breathes air and feeds its babies milk. *Why:* Mammals breathe air with lungs and feed their babies milk. Dolphins do both. Fish breathe with gills.
+4. (mcq) A dolphin lives in the sea and has fins. Why is a dolphin a mammal, not a fish?  
+   Options: They are big / They breathe air and feed their babies milk / They are clever / They swim fast  
+   **Answer:** They breathe air and feed their babies milk. *Why:* Mammals breathe air with lungs and feed their babies milk. Dolphins do both. Fish breathe with gills.
 5. (mcq) Which of these is in the grass family?  
    Options: Methi / Sugarcane / Brinjal / Cucumber  
-   **Answer:** Sugarcane. *Why:* Sugarcane is a giant grass. Its leaves are long and narrow, with veins running side by side, like rice and wheat leaves.
+   **Answer:** Sugarcane. *Why:* Sugarcane is a giant grass. Their leaves are long and narrow, with veins running side by side, like rice and wheat leaves.
 6. (mcq) A mushroom left a print of fine powder on paper overnight. What was the powder made of?  
    Options: Seeds / Spores / Soil / Pollen  
    **Answer:** Spores. *Why:* Mushrooms make spores, each one a single cell. Millions together make the print.
@@ -633,7 +633,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 9. (mcq) Farhan writes a key. His first question is 'Is the leaf made of many small leaflets?' Which leaf goes on the 'yes' side?  
    Options: Tulsi / Curry leaf / Money plant / Spinach  
    **Answer:** Curry leaf. *Why:* A curry leaf is made of many small leaflets on one stalk. The others are single leaves.
-10. (sort) Sort these animals: does it have a backbone?  
+10. (sort) Sort these animals: does each one have a backbone?  
    **Answer:** crow → Backbone; ant → No backbone; fish → Backbone; earthworm → No backbone; frog → Backbone; snail → No backbone. *Why:* Crows, fish and frogs have backbones. Ants, earthworms and snails do not.
 11. (mcq) Which question puts all of these together: a neem tree, an ant and you?  
    Options: Can it walk? / Is it alive? / Does it have leaves? / Does it have a backbone?  
@@ -680,8 +680,8 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
    **Answer:** So everyone reaches the same answer. *Why:* If everyone can check the answer by looking, everyone who uses the key reaches the same name.
 12. (write) Make up a yes-or-no question that splits these four into two pairs: tulsi, mint, coriander, curry leaf.  
    **Answer:** 'Is the stem square?' Tulsi and mint: yes. Coriander and curry leaf: no.. *Why:* The square stem is a family clue for the mint family.
-13. (truefalse) Every living thing senses the world around it and responds.  
-   **Answer:** True. *Why:* True. A crow notices a cat, a plant senses light, and a bacterium senses sugar. Each responds in its own way.
+13. (truefalse) All living things sense the world around them and respond.  
+   **Answer:** True. *Why:* True. A crow notices a cat, a plant senses light, and a bacterium senses sugar. Each responds in their own way.
 14. (write) A mushroom is closer to you than to a tulsi plant. Name one way you and a mushroom are alike that a tulsi plant is not.  
    **Answer:** Neither of us can make food from sunlight. We both get food from other living things.. *Why:* Plants make their own food. Fungi and animals take food from around them.
 15. (write) Draw a family tree with four kitchen plant families. Put two foods on each branch.  
@@ -737,7 +737,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - Farmers change crop families from season to season, so soil diseases and pests that attack one family die out.
 - Doctors sort snakes by their bites, so the right medicine, called antivenom, is given after a snakebite.
 - Seed banks and botanical gardens sort seeds and plants by family, so scientists can find relatives of crops that resist disease.
-- Plant breeders cross a crop with its wild relatives to give it new features, such as resistance to drought.
+- Plant breeders cross a crop with their wild relatives to give them new features, such as resistance to drought.
 - Doctors sort bacteria into kinds, to choose the medicine that works against each one.
 - Museums sort their collections of animals and plants so that any specimen can be found again.
 - Libraries, shops and kitchens use the same idea: groups inside groups make things quick to find.
@@ -746,7 +746,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 ## Spotted around us
 - A vegetable seller's baskets: greens in one, gourds in another, onions and potatoes in a third.
 - The green cap on every brinjal, tomato and chilli in your kitchen.
-- A tulsi plant in a pot, with its square stem and its leaves in pairs.
+- A tulsi plant in a pot, with their square stem and their leaves in pairs.
 - Bonnet macaques near temples in South India: primates, like you.
 - Bunches of bananas and banana leaves at a festival. The banana plant is a giant herb, a relative of ginger and turmeric.
 - Mushrooms in a supermarket packet, sorted on the shelf near the vegetables, though they are not plants.
@@ -776,7 +776,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - Why did the tomato go to the family reunion? *To see its brinjal cousins.*
 - What did the chilli say to the cucumber? *We may both be green, but we're not related!*
 - Why did the mushroom get invited to every party? *Because he was a fun-gi.*
-- Why did the bat refuse to sit with the birds? *It said, 'I'm a mammal, thank you very much.'*
+- Why did the bat refuse to sit with the birds? *They said, 'I'm a mammal, thank you very much.'*
 - What do you call a sorted pile of socks? *A miracle.*
 - Why was the key always calm? *It took every question one step at a time.*
 - Which plant is best at maths? *The square-stemmed mint. It knows all its corners.*
@@ -787,10 +787,10 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - What did the archaea say to the bacteria? *We look alike, but deep inside we're very different.*
 - Why did the butterfly feel left out? *Everyone else at the odd-one-out game had a backbone.*
 - What did one gourd say to the other? *Let's hang out on the vine.*
-- How does a monkey sort its bananas? *Ripe, almost ripe, and already eaten.*
+- How does a monkey sort their bananas? *Ripe, almost ripe, and already eaten.*
 - Why did the curry leaf fail the square stem test? *It was too well-rounded.*
 - Why did the spore never get lost? *It always left a print.*
-- What did the liger say when asked if it was a lion or a tiger? *Yes.*
+- What did the liger say when asked if they were a lion or a tiger? *Yes.*
 
 ## Connected maths
 - In the vegetable test, Kavya looked at 5 seeds from each of 5 vegetables. How many seeds did she look at altogether? **25 seeds.**. There were 5 vegetables, with 5 seeds each. 5 groups of 5 is 25. You can count in fives: 5, 10, 15, 20, 25. (queues `math.multiplication.equal-groups.L3`)
@@ -804,7 +804,7 @@ Many Ways to Sort, One Family Tree (sci.classification.L3): Topic-level song for
 
 ## Links
 - [OneZoom Tree of Life Explorer](https://www.onezoom.org) · interactive: A free zoomable tree of all living things. Search for 'tomato' and 'chilli', and watch how close their branches are.
-- [iNaturalist](https://www.inaturalist.org) · interactive: For the parent: photograph a plant or insect, and the site suggests its name and family. Thousands of Indian nature lovers use it.
+- [iNaturalist](https://www.inaturalist.org) · interactive: For the parent: photograph a plant or insect, and the site suggests their name and family. Thousands of Indian nature lovers use it.
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: Pictures and pages about Indian plants and animals, sorted by family.
 - [Arignar Anna Zoological Park, Vandalur](https://www.aazp.in) · place · Chennai: See relatives side by side, such as the big cats, the monkeys and apes, and the deer family.
 - [Lalbagh Botanical Garden](https://www.lalbagh.in) · place · Bengaluru: A huge garden where many trees carry name boards with their family names.
@@ -819,10 +819,10 @@ Many Ways to Sort, One Family Tree (sci.classification.L3): Topic-level song for
 
 ## Warm-up
 - Name one rule that puts a crow and a bat together. → Can fly.
-- Is a bat a bird or a mammal? → A mammal. It has hair and feeds its babies milk.
+- Is a bat a bird or a mammal? → A mammal. They have hair and feed their babies milk.
 - Which family is the brinjal in? → The tomato family.
 - What shape is a tulsi stem? → Square.
-- Is a mushroom a plant? → No. It is a fungus.
+- Is a mushroom a plant? → No. A mushroom is a fungus.
 - Is sugarcane a grass? → Yes.
 - What does a mushroom make instead of seeds? → Spores.
 - Are people animals? → Yes. People are mammals and primates.

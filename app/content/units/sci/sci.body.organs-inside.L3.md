@@ -13,7 +13,7 @@
 4. I can give an example of organs working as a team, like when I run or eat.
 5. I can run a fair test with a model organ, and say what I think, what I saw and why.
 6. I can say what scientists agree about these organs, and what they still do not know, like how the brain makes thoughts.
-7. I can give surprising examples: one cell that uses oxygen, breaks down food and senses on its own, an octopus with three hearts, and mini-organs grown in labs.
+7. I can give surprising examples: one cell that uses oxygen, breaks down food and senses on their own, an octopus with three hearts, and mini-organs grown in labs.
 
 ## Terms
 - **Organ**: A body part with a special job. It is made of many tiny living cells working together. *e.g.* Your heart is an organ. Its job is to pump blood.
@@ -95,12 +95,12 @@ Follow a breath and a bite. Your lungs take oxygen from the air. Your stomach an
 - e.g. After a big lunch, more blood flows to your stomach and intestines, to carry away the food they take in.
 - e.g. If the heart stops for even a few minutes, the brain is badly hurt, because no fresh blood reaches it.
 ### Zoom in: every cell does a little of every job · *defined*
-**Definition:** Organs are made of cells. Almost every cell uses oxygen, breaks down food and sends and receives signals, in a tiny way of its own.
+**Definition:** Organs are made of cells. Almost every cell uses oxygen, breaks down food and sends and receives signals, in a tiny way of their own.
 
-Look at a cell in your toe. It is far from your lungs, but it uses oxygen. Tiny parts inside it, called mitochondria, use oxygen and food to make energy. They give out carbon dioxide, which the blood carries back to the lungs. The cell also has tiny bags of strong juice that break down food and worn-out parts, a little like a tiny stomach. And it has sensors on its outside that notice chemicals and pass on signals. Organs are what happens when huge numbers of cells share out the work. Heart cells are very good at squeezing. Nerve cells are very good at carrying messages. But almost every cell still uses oxygen, breaks down food and senses in its own small way. The first living things, long ago, were single cells, and each one did every job by itself.
-- e.g. A single amoeba in pond water has no stomach. It wraps itself around food and breaks it down inside a little bubble.
+Look at a cell in your toe. This cell is far from your lungs, but still uses oxygen. Tiny parts inside the cell, called mitochondria, use oxygen and food to make energy. They give out carbon dioxide, which the blood carries back to the lungs. The cell also has tiny bags of strong juice that break down food and worn-out parts, a little like a tiny stomach. And the cell has sensors on the outside that notice chemicals and pass on signals. Organs are what happens when huge numbers of cells share out the work. Heart cells are very good at squeezing. Nerve cells are very good at carrying messages. But almost every cell still uses oxygen, breaks down food and senses in their own small way. The first living things, long ago, were single cells, and each one did every job alone.
+- e.g. A single amoeba in pond water has no stomach. They wrap themselves around food and breaks it down inside a little bubble.
 - e.g. Heart muscle cells grown in a dish in a lab start to twitch and beat by themselves.
-- e.g. A bacterium has no brain, but it can sense food and swim towards it.
+- e.g. A bacterium has no brain, but they can sense food and swim towards it.
 ### Does the gut have a mind of its own? · *debated*
 Your stomach and intestines are wrapped in a net of about 500 million nerve cells. This net can run the squeezing of the gut by itself, even if the nerves to the brain are cut. Some scientists call it the 'second brain'. The gut also sends many messages up to the brain. Scientists are now studying how the gut, and the germs that live in it, may affect our feelings. But how much it matters is still argued about.
 - e.g. People talk about 'butterflies in the tummy' when they are nervous. The brain and the gut are talking to each other.
@@ -120,10 +120,10 @@ Scientists agree the brain is needed for thinking and feeling. If part of the br
 ### Other animals, other plans · *defined*
 **Definition:** Most animals have organs for pumping, breathing, digesting and sensing, but they come in many shapes and numbers.
 
-An octopus has three hearts. Two pump blood through its gills and one pumps blood round its body. It also has a brain, and most of its nerve cells are in its eight arms. A cow's stomach has four parts. It brings grass back up to chew again, which is called chewing the cud. A fish has no lungs. It breathes with gills. But many fish have an air bag inside called a swim bladder, and scientists have found that lungs and swim bladders come from the same ancient beginning. A starfish can push its stomach out of its mouth to digest a mussel outside its body. And a sponge, one of the oldest kinds of animals, has no organs at all. Every cell does its own breathing and eating.
+An octopus has three hearts. Two pump blood through their gills and one pumps blood round their body. They also have a brain, and most of their nerve cells are in their eight arms. A cow's stomach has four parts. She brings grass back up to chew again, which is called chewing the cud. A fish has no lungs. They breathe with gills. But many fish have an air bag inside called a swim bladder, and scientists have found that lungs and swim bladders come from the same ancient beginning. A starfish can push their stomach out of their mouth to digest a mussel outside their body. And a sponge, one of the oldest kinds of animals, has no organs at all. Every cell does their own breathing and eating.
 - e.g. Cows and buffaloes chewing slowly while resting are chewing the cud.
-- e.g. An earthworm has five pairs of pumping tubes near its front end, often called its five hearts.
-- e.g. A jellyfish has no brain. It has a net of nerves spread all through its body.
+- e.g. An earthworm has five pairs of pumping tubes near their front end, often called their five hearts.
+- e.g. A jellyfish has no brain. They have a net of nerves spread all through their body.
 ### How we found out what is inside · *defined*
 **Definition:** People learned about organs by looking carefully inside bodies, by testing ideas, and later by using X-rays and scanners.
 
@@ -145,8 +145,8 @@ Scientists can now grow tiny bits of organs in a dish, from a person's own cells
 - Organs are made of cells, and every organ depends on the others. *How we know:* Microscopes show cells in every organ. When one organ fails, doctors see other organs struggle too.
 
 ## How we found out
-**Aristotle, Herophilus and Galen, About 350 BCE (Aristotle), about 300 BCE (Herophilus) and about 160 CE (Galen's pig experiment).** About 2,350 years ago, the Greek thinker Aristotle taught that the heart does our thinking and feeling. He thought the brain was there to cool the blood. Many people agreed, because the heart races when we are scared or excited. Some Greek doctors disagreed. In Alexandria, about 2,300 years ago, Herophilus cut open human bodies and traced the nerves back to the brain. About 1,850 years ago, the Greek doctor Galen, working in Rome, tested the idea in front of an audience. He cut two thin nerves in the neck of a squealing pig. The pig went silent, though its heart kept beating and it kept breathing. Galen showed that these nerves came from the brain, not the heart. So the brain, he said, controls the voice. He also cut the spinal cord of animals at different places, and showed which parts of the body could no longer move. Today we have even stronger proof. People living with a machine that pumps their blood still think, laugh and remember.  
-*What people believed before:* Aristotle taught that the heart does the thinking and the brain only cools the blood. Galen cut the nerves that control a pig's voice, and showed that they come from the brain. The pig fell silent while its heart kept beating.
+**Aristotle, Herophilus and Galen, About 350 BCE (Aristotle), about 300 BCE (Herophilus) and about 160 CE (Galen's pig experiment).** About 2,350 years ago, the Greek thinker Aristotle taught that the heart does our thinking and feeling. He thought the brain was there to cool the blood. Many people agreed, because the heart races when we are scared or excited. Some Greek doctors disagreed. In Alexandria, about 2,300 years ago, Herophilus cut open human bodies and traced the nerves back to the brain. About 1,850 years ago, the Greek doctor Galen, working in Rome, tested the idea in front of an audience. He cut two thin nerves in the neck of a squealing pig. The pig went silent, though their heart kept beating and they kept breathing. Galen showed that these nerves came from the brain, not the heart. So the brain, he said, controls the voice. He also cut the spinal cord of animals at different places, and showed which parts of the body could no longer move. Today we have even stronger proof. People living with a machine that pumps their blood still think, laugh and remember.  
+*What people believed before:* Aristotle taught that the heart does the thinking and the brain only cools the blood. Galen cut the nerves that control a pig's voice, and showed that they come from the brain. The pig fell silent while their heart kept beating.
 
 ## Challenging perspectives
 - **We think with our heart, not our brain.** (The ancient Egyptians, and the Greek thinker Aristotle about 2,350 years ago. We still say 'learn by heart'.; *rejected*)  
@@ -179,7 +179,7 @@ We have been learning where the heart, lungs, stomach and brain are, and what th
 - *what is life:* A living body keeps going because its organs pass blood, food, air and messages to each other all the time.
 - *what is this world:* A fish, a cow and you each have a brain in a skull, a heart and a gut, because all animals with backbones share one ancestor.
 
-Long ago, every living thing was a single cell that did every job by itself. Over a very long time, some cells began to live together as one body and share out the work. Some became heart cells that squeeze, some became lung cells that swap gases, and some became nerve cells that carry messages. The jobs one cell once did alone are now shared among many organs. Those many organs still keep one body alive together.
+Long ago, all living things were single cells that did every job alone. Over a very long time, some cells began to live together as one body and share out the work. Some became heart cells that squeeze, some became lung cells that swap gases, and some became nerve cells that carry messages. The jobs one cell once did alone are now shared among many organs. Those many organs still keep one body alive together.
 
 - **Chandogya Upanishad 5.1:** The senses and breath once argued about which of them was the greatest. Speech, sight, hearing and mind each left the body in turn, and the body carried on. When breath, prana, began to leave, all the others were pulled up with it. They agreed breath was the one they all depended on. (In this unit, the brain is badly hurt within minutes if the heart's blood stops, and every organ needs the oxygen your lungs bring in. The old story also puts breath at the centre of the body.)
 - **Saint Paul, First Letter to the Corinthians 12:12–26:** The body is one, though it has many parts. The eye cannot say to the hand, 'I don't need you.' If one part suffers, every part suffers with it. (Scientists see the same thing. When the heart stops, the brain is hurt within minutes. When the lungs struggle, every organ struggles.)
@@ -202,12 +202,12 @@ Long ago, every living thing was a single cell that did every job by itself. Ove
 - *big:* A heart from one person can keep another person alive. Is it still the first person's heart? (hint: Think about what a heart is made of, and whose blood it pumps now.)
 - *big:* In India, many people wait years for a new heart, lung or kidney. Is it fair? Who should get one first? (hint: Should it be who waited longest, who is most ill, or who is youngest? Why?)
 - *deep:* Your brain floats in a liquid inside your skull. Why is a hard skull alone not enough to keep it safe? (hint: Remember the egg test: something soft in an empty jar, and something soft in a jar full of water.)
-- *deep:* A sponge has no organs, but it is alive. What is the smallest thing that can still be alive? (hint: Remember that every cell breathes, eats and senses in its own small way.)
+- *deep:* A sponge has no organs, but they are alive. What is the smallest thing that can still be alive? (hint: Remember that every cell breathes, eats and senses in their own small way.)
 - *big:* People used to think the heart did the thinking. Which of our ideas today might turn out to be wrong? (hint: How did scientists find out the old idea was wrong?)
 - *big:* When you are scared, you feel it in your stomach and your heart. Where do feelings really happen? (hint: Is a feeling in one place, or in the whole body at once?)
 
 ## Story: The Marble and the Pomfret
-*Meenu, Appu, Amma and the doctor are made up. The facts are real: X-rays show glass and bones, the stomach sits under the left ribs, a fish's heart sits low behind its gills, and lungs and the swim bladders of fish come from the same ancient beginning. Small smooth swallowed things usually pass through safely, but a child who swallows anything must always see a doctor. On an X-ray the lungs look dark, because air lets X-rays through, and the heart looks paler.*
+*Meenu, Appu, Amma and the doctor are made up. The facts are real: X-rays show glass and bones, the stomach sits under the left ribs, a fish's heart sits low behind their gills, and lungs and the swim bladders of fish come from the same ancient beginning. Small smooth swallowed things usually pass through safely, but a child who swallows anything must always see a doctor. On an X-ray the lungs look dark, because air lets X-rays through, and the heart looks paler.*
 
 Meenu did not like insides. She liked outsides. She liked the shine on a fish's skin, the blue on a crab's claw, the pink of a sunset over the Versova boats. Insides were dark and squishy and secret. When Amma cleaned fish on the back step, Meenu looked at the sky.
 
@@ -215,7 +215,7 @@ Meenu did not like insides. She liked outsides. She liked the shine on a fish's 
 
 "I can eat without looking," said Meenu.
 
-Amma laughed and laid a silver pomfret flat on the board. "Then just listen. Here, low down behind the gills, is its heart. Small as a bean. Here is its stomach, a little bag, with the gut curling on after it. Up here, inside the head, in its own bony box, is its brain. And here," she lifted something thin and shiny, like a balloon with the air let out, "is its air bag. It fills this to float."
+Amma laughed and laid a silver pomfret flat on the board. "Then just listen. Here, low down behind the gills, is their heart. Small as a bean. Here is their stomach, a little bag, with the gut curling on after it. Up here, inside the head, in their own bony box, is their brain. And here," she lifted something thin and shiny, like a balloon with the air let out, "is their air bag. The fish fills this to float."
 
 "Fish don't have lungs," said Meenu, not looking.
 
@@ -563,20 +563,20 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **safety:** At a fish market, stay with a grown-up and keep your hands away from knives.
 - **record:** Draw yourself and one other animal side by side, with the four organs in each.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* Look at the fish card, or a real fish being cleaned if your family eats fish. Find its heart, stomach, brain and swim bladder.  
-  *Parent says:* A fish has a brain in a bony box, a small heart low behind the gills, a stomach and a gut. It breathes with gills. It also has an air bag called a swim bladder. That air bag is a distant cousin of your lungs.  
-  *Child mode:* Find the fish's brain, heart and stomach. It breathes with gills. Its air bag is a cousin of your lungs.
+  *Parent does:* Look at the fish card, or a real fish being cleaned if your family eats fish. Find their heart, stomach, brain and swim bladder.  
+  *Parent says:* A fish has a brain in a bony box, a small heart low behind the gills, a stomach and a gut. They breathe with gills. It also has an air bag called a swim bladder. That air bag is a distant cousin of your lungs.  
+  *Child mode:* Find the fish's brain, heart and stomach. They breathe with gills. Its air bag is a cousin of your lungs.
   - Note: If your family does not eat fish, use the picture card only. The swim bladder and lungs come from the same ancient beginning in early fish.
 - **s2 (5 min)**  
   *Parent does:* Look at the cow and the octopus cards. Count the stomach parts and the hearts.  
-  *Parent says:* A cow's stomach has four parts. An octopus has three hearts. Most of its nerve cells are in its arms, not its head.  
+  *Parent says:* A cow's stomach has four parts. An octopus has three hearts. Most of their nerve cells are in their arms, not its head.  
   *Child mode:* Count the cow's stomach parts. Count the octopus's hearts.
   - Check: How many hearts does an octopus have? → **Three**
 - **s3 (4 min)**  
   *Parent does:* Talk about the sponge: an animal with no organs.  
-  *Parent says:* A sponge is one of the oldest kinds of animal. It has no heart, no stomach and no brain. So how does it stay alive?  
-  *Child mode:* A sponge has no heart, no stomach and no brain. How is it alive?
-  - Ask: How does a sponge eat and breathe without organs? (good: Each cell does it by itself.; Water flows through it and every cell takes what it needs.)
+  *Parent says:* A sponge is one of the oldest kinds of animal. They have no heart, no stomach and no brain. So how does it stay alive?  
+  *Child mode:* A sponge has no heart, no stomach and no brain. How are they alive?
+  - Ask: How does a sponge eat and breathe without organs? (good: Each cell does it alone.; Water flows through them and every cell takes what they need.)
 - **s4 (6 min)**  
   *Parent does:* Draw yourself and one animal side by side, using the same colour for the same organ in each.  
   *Parent says:* Draw yourself and one animal. Use red for both hearts and pink for both brains. What is the same? What is different?  
@@ -755,9 +755,9 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 15. (draw) Draw the rib cage around a heart and two lungs. Show the gaps between the ribs.  
    **Answer:** Curved ribs like the bars of a cage, a heart in the middle, two lungs filling the rest, with small gaps between the ribs.. *Why:* The gaps and the moving ribs let the lungs grow bigger when you breathe in.
 ### Body Puzzles and Arguments (challenge) (challenge, 16 questions)
-1. (mcq) A sponge is an animal with no heart, stomach or brain. How does it stay alive?  
-   Options: It does not, it is not really alive / Water flows through it, and its cells take oxygen and food from the water / It borrows organs from fish / It only lives for one day  
-   **Answer:** Water flows through it, and its cells take oxygen and food from the water. *Why:* Water flows through tiny holes in a sponge's body. Each cell takes oxygen straight from the water, and some cells catch bits of food and share them with the others. Organs are what happens when cells share out jobs. Picking 'not really alive' is a common idea, because sponges do not move. But they grow, feed and make baby sponges.
+1. (mcq) A sponge is an animal with no heart, stomach or brain. How do they stay alive?  
+   Options: They do not, they are not really alive / Water flows through them, and their cells take oxygen and food from the water / They borrow organs from fish / They only live for one day  
+   **Answer:** Water flows through them, and their cells take oxygen and food from the water. *Why:* Water flows through tiny holes in a sponge's body. Each cell takes oxygen straight from the water, and some cells catch bits of food and share them with the others. Organs are what happens when cells share out jobs. Picking 'not really alive' is a common idea, because sponges do not move. But they grow, feed and make baby sponges.
 2. (mcq) Heart muscle cells grown in a dish start to beat by themselves. What does this tell us?  
    Options: The heart needs the brain to start each beat / Heart cells have their own beat built in / The dish is shaking / The cells are pretending  
    **Answer:** Heart cells have their own beat built in. *Why:* Heart cells beat on their own. The brain only speeds them up or slows them down. Picking 'needs the brain' is the most common idea, and it is only half true.
@@ -788,9 +788,9 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
    **Answer:** True. *Why:* True. Scientists have found that lungs and swim bladders come from the same ancient beginning in early fish.
 14. (fill) The brain has about 86 ____ nerve cells.  
    **Answer:** ['billion']. *Why:* 86 billion is about ten times the number of people on Earth. The Brazilian scientist Suzana Herculano-Houzel counted them in 2009. She turned brains into a soup, then counted the cell centres in a few drops.
-15. (match) Match each animal to its surprising organ fact.  
+15. (match) Match each animal to their surprising organ fact.  
    **Answer:** Octopus → three hearts; Cow → four-part stomach; Starfish → pushes its stomach out of its mouth; Sponge → no organs at all. *Why:* Animals solve the same problems, pumping, breathing, digesting and sensing, in many different ways.
-16. (draw) Draw one cell. Inside it, draw a mitochondrion and a small bag of juice. On its outside, draw a few sensors. Write what each one does.  
+16. (draw) Draw one cell. Inside, draw a mitochondrion and a small bag of juice. On its outside, draw a few sensors. Write what each one does.  
    **Answer:** A round cell with a small bean shape (uses oxygen to make energy), a small bubble (breaks down food and old bits) and little feelers on the outside (sense chemicals).. *Why:* Almost every cell does small versions of the jobs that organs do. Organs are teams of cells sharing out jobs.
 
 ## Videos
@@ -835,9 +835,9 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 12. (mcq) Which of these do scientists still NOT know?  
    Options: Where the heart is / How the brain makes a thought or a feeling / What the stomach does / That we have two lungs  
    **Answer:** How the brain makes a thought or a feeling. *Why:* Where organs are and what they do is well known. How a brain makes the feeling of being you is one of the biggest open questions in science.
-13. (mcq) A sponge has no organs. How does it live?  
-   Options: Water flows through it, and its cells take oxygen and food from the water / It is not alive / It uses a fish's heart / It eats sand  
-   **Answer:** Water flows through it, and its cells take oxygen and food from the water. *Why:* Organs are teams of cells sharing out jobs. A sponge has no organs. Its cells take oxygen and food straight from the water flowing through it.
+13. (mcq) A sponge has no organs. How do they live?  
+   Options: Water flows through them, and their cells take oxygen and food from the water / They are not alive / They use a fish's heart / They eat sand  
+   **Answer:** Water flows through them, and their cells take oxygen and food from the water. *Why:* Organs are teams of cells sharing out jobs. A sponge has no organs. Their cells take oxygen and food straight from the water flowing through them.
 14. (mcq) How many hearts does an octopus have?  
    Options: One / Two / Three / Eight  
    **Answer:** Three. *Why:* Three: two for the gills and one for the body. Picking 'eight' guesses one per arm.
@@ -874,7 +874,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **How much do the germs in our gut change how we feel?** Tests in mice show gut germs can change behaviour. Tests in people are new, and the results are mixed.
 - **Can we grow a whole new heart, lung or stomach from a person's own cells?** Scientists can grow tiny mini-organs. Nobody has yet grown a full-sized working one for a person.
 - **How many organs does a body have?** It depends on what you count as an organ. Scientists still argue about new ones, like the interstitium.
-- **Do animals with very different brains, like octopuses, feel things the way we do?** An octopus solves puzzles and plays. But its brain is built very differently, and we cannot ask it what it feels.
+- **Do animals with very different brains, like octopuses, feel things the way we do?** An octopus solves puzzles and plays. But their brain is built very differently, and we cannot ask them what they feel.
 - **Exactly how does the heart's own timekeeper stay so steady for a whole life?** Scientists understand a lot about it. But how it stays steady for billions of beats, and why it sometimes goes wrong, is still being studied.
 
 ## Questions to ask kids

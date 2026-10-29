@@ -37,7 +37,7 @@
 
 ## Explanations
 ### What homeostasis is · *defined*
-**Definition:** Homeostasis is the way a living thing keeps its inside steady and just right, even when the outside keeps changing.
+**Definition:** Homeostasis is the way a living thing keeps their inside steady and just right, even when the outside keeps changing.
 
 Your body needs many things to stay just right. It needs the right warmth, the right amount of water, the right amount of salt and the right amount of sugar in the blood. If any of these goes too high or too low for long, the body cannot work well. So the body keeps checking each one, and fixing it when it drifts. Keeping balance takes small corrections all the time. Riding a bicycle is similar: you stay upright by steering a little left, then a little right.
 - e.g. On a hot day you sweat, and on a cold day you shiver. Both keep you near 37 degrees.
@@ -62,7 +62,7 @@ Sweat itself is not cold. It comes out as warm as you are. The cooling happens w
 
 Muscles make heat whenever they work. When you shiver, your muscles tighten and loosen very fast, by themselves. You do not move anywhere, but you make a lot of heat. Shivering can make a few times more heat than sitting still. At the same time, tiny muscles in your skin pull each hair upright. These are goosebumps. In a furry animal like a cat or a monkey, standing fur traps a warm layer of air. Our body hair is too thin to trap much, so goosebumps are a leftover from our furry relatives. Curling up into a ball also helps. It means less of your skin touches the cold air, so less heat escapes.
 - e.g. Your teeth chatter when you come out of a cold swimming pool.
-- e.g. A cat fluffs up its fur on a cold winter morning.
+- e.g. A cat fluffs up their fur on a cold winter morning.
 - e.g. Babies have a special brown fat that makes heat without shivering.
 ### Red cheeks and white fingers: blood carries the heat · *defined*
 **Definition:** Your blood carries heat around your body. Your body sends more blood near the skin to lose heat, and less blood near the skin to keep heat.
@@ -70,7 +70,7 @@ Muscles make heat whenever they work. When you shiver, your muscles tighten and 
 Blood flows through tubes called blood vessels. The blood is warm, because it passes through your busy insides. When you are hot, the tiny vessels near your skin open wider. More warm blood flows near the skin, and heat escapes into the air. That is why your face goes pink after running. When you are cold, those vessels squeeze narrow. Less blood goes to your skin, fingers and toes. Your middle stays warm, but your fingers turn pale and cold. The body is choosing to keep heat around your heart and brain, where it matters most.
 - e.g. Your cheeks go red after a game of kho-kho.
 - e.g. Your fingers go white and stiff after holding an ice lolly for a long time.
-- e.g. An elephant flaps its huge ears. They are full of blood vessels, and the flapping cools the blood.
+- e.g. An elephant flaps their huge ears. They are full of blood vessels, and the flapping cools the blood.
 ### Thirst and the water balance · *defined*
 **Definition:** Your body keeps the amount of water inside you just right. Thirst tells you to drink more, and your kidneys decide how much water to let go as pee.
 
@@ -94,10 +94,10 @@ If the air is very hot and also very humid, sweat can hardly dry, so it stops co
 - **Daniel Vecellio, Larry Kenney and others, 2022:** They tested young, healthy people in a hot, humid room. Their bodies could not keep steady at a lower number, about 31 degrees wet-bulb. So the real limit may be lower than the paper limit.
 - **Colin Raymond and others, 2020:** They found weather stations, including in Pakistan and around the Persian Gulf, where the 35 degree level had already been reached for an hour or two.
 ### Why about 37 degrees? · *idea*
-Nobody knows for sure why mammals like us keep ourselves at about 37 degrees. Being warm costs a lot of food. A lizard, which does not keep itself warm, can eat far less than a mouse of the same size. So why pay so much? Scientists have ideas, but no final answer.
+Nobody knows for sure why mammals like us keep ourselves at about 37 degrees. Being warm costs a lot of food. Lizards do not keep themselves warm, so they can eat far less than a mouse of the same size. So why pay so much? Scientists have ideas, but no final answer.
 - e.g. Birds are even warmer than us, about 40 to 42 degrees.
 - e.g. A lizard warms up by lying on a hot rock in the sun.
-- e.g. A lizard is slow on a cold morning until the sun warms it. A mouse can run fast even on a cold night.
+- e.g. A lizard is slow on a cold morning until the sun warms them. A mouse can run fast even on a cold night.
 - **Aviv Bergman and Arturo Casadevall, 2010:** Their idea is that 37 degrees is too hot for most fungi, the moulds and yeasts, to grow in us. It is also not so hot that we must eat all day. They worked out that about 36.7 degrees balances the two best.
 - **Many other biologists:** They think being warm let early mammals stay quick and active at night and in the cold. The exact number might partly be an accident of history.
 ### Does the body react, or does it predict? · *debated*
@@ -116,10 +116,10 @@ Leave a tumbler of hot filter coffee on the table. It cools down until it is the
 - e.g. A crowded room gets warm from all the people's body heat.
 - e.g. Food is your fuel. A child eats every day partly to keep warm.
 ### Every living thing keeps balance · *defined*
-**Definition:** Homeostasis is not only for humans. Every living thing, even one tiny cell, keeps its inside different from its outside, and just right.
+**Definition:** Homeostasis is not only for humans. All living things, even one tiny cell, keep their inside different from their outside, and just right.
 
-Each of your cells has tiny pumps in its skin. They push one kind of salt out and pull another kind in, all day long. A big share of the energy you use at rest goes into these pumps. Bacteria do it too. Animals have many clever ways to stay just right. Dogs have sweat glands only on their paw pads, so they pant to cool down. Camels let their warmth go up by about 6 degrees during a hot day, to save water from sweating. Storks and some vultures wee on their own legs to cool off. Honeybees keep the middle of their hive at about 35 degrees. They fan with their wings, and spread water drops to cool it. Some sacred lotus flowers even keep themselves warm, at about 30 to 35 degrees, on cool nights.
-- e.g. A dog pants with its tongue out on a hot afternoon.
+Each of your cells has tiny pumps in their skin. They push one kind of salt out and pull another kind in, all day long. A big share of the energy you use at rest goes into these pumps. Bacteria do it too. Animals have many clever ways to stay just right. Dogs have sweat glands only on their paw pads, so they pant to cool down. Camels let their warmth go up by about 6 degrees during a hot day, to save water from sweating. Storks and some vultures wee on their own legs to cool off. Honeybees keep the middle of their hive at about 35 degrees. They fan with their wings, and spread water drops to cool it. Some sacred lotus flowers even keep themselves warm, at about 30 to 35 degrees, on cool nights.
+- e.g. A dog pants with their tongue out on a hot afternoon.
 - e.g. A camel crosses the desert with little water.
 - e.g. A lotus flower in a pond can be warmer than the air around it.
 ### Does the Earth keep its own balance? · *debated*
@@ -142,7 +142,7 @@ In 1868, a German doctor called Carl Wunderlich said normal body temperature is 
 - The inside of a healthy human body stays at about 37 degrees, whatever the weather. *How we know:* Doctors have measured millions of people in hot and cold countries. Their inside temperature stays within about one degree of 37, unless they are ill.
 - Sweat cools the body when it dries on the skin. *How we know:* A wet thing in moving air cools faster than a dry one. You can measure this with two tumblers and a thermometer. In very humid air, where sweat cannot dry, people get hotter.
 - Shivering makes heat. *How we know:* Scientists measure how much oxygen people use. A shivering person can use several times more, because their muscles are working hard and making heat.
-- A part of the brain called the hypothalamus controls warmth, thirst and hunger. *How we know:* In animal experiments, warming or cooling a tiny spot in this part of the brain makes the animal sweat, pant or shiver, even when the rest of its body is normal.
+- A part of the brain called the hypothalamus controls warmth, thirst and hunger. *How we know:* In animal experiments, warming or cooling a tiny spot in this part of the brain makes the animal sweat, pant or shiver, even when the rest of their body is normal.
 - Thirst and the kidneys keep the body's water balanced. *How we know:* When people drink less, their pee becomes darker and smaller in amount. When they drink more, their pee becomes paler and larger in amount. Blood tests show the saltiness of the blood stays nearly the same.
 - Losing too much water and salt can be dangerous, and ORS can save lives. *How we know:* In 1971, in refugee camps near the Bangladesh border, Dr Dilip Mahalanabis and his team gave ORS to people with cholera when there was not enough drip fluid. Far fewer people died than usual. Since then ORS has saved many millions of lives.
 
@@ -178,15 +178,15 @@ We have been learning how the body keeps itself just right, by sweating, shiveri
 *Evidence:* In Jump and Notice, your cheeks went red and you could not sweat on purpose. In My Steady Inside, your face felt hot after running, but the thermometer under your arm rose less than one degree.
 
 - *who am i:* You are a body that keeps itself near 37 degrees, every minute. Most of that work is done by parts of you that work without you noticing.
-- *what is life:* Every living thing keeps its inside just right while the outside changes. A cell, a beehive and a lotus flower all do it.
+- *what is life:* All living things keep their inside just right while the outside changes. A cell, a beehive and a lotus flower all do it.
 - *what is this world:* Your heat and water leave you all the time, into the air of the room. Food and drink from the world bring them back.
 
-The same loop keeps balance at every size. One cell pumps salt to keep its inside right. Your hypothalamus keeps your whole body near 37 degrees. Honeybees fan their wings to keep their hive near 35 degrees. Each one notices a change and acts to undo it, so one simple pattern shows up in countless living things.
+The same loop keeps balance at every size. One cell pumps salt to keep their inside right. Your hypothalamus keeps your whole body near 37 degrees. Honeybees fan their wings to keep their hive near 35 degrees. Each one notices a change and acts to undo it, so one simple pattern shows up in countless living things.
 
 - **Bhagavad Gita 2.14:** Krishna says that cold and heat, pleasure and pain, come from the senses touching the world. They come and go. They do not last. Learn to bear them steadily. (The Gita is talking about the mind, not body warmth. But it uses the same example: heat and cold come and go, and something in you can stay steady while they do.)
 - **Anguttara Nikaya 6.55, the Buddha's teaching to Sona:** Sona, a monk who used to play the vina, was trying far too hard. The Buddha asked him: if the strings are too tight, does the vina play well? If they are too loose? Only strings tuned just right make music. Balance your effort the same way. (Your body does not aim for as hot as possible or as cold as possible. It aims for just right, and keeps tuning, like a vina.)
 - **Tao Te Ching 77:** The way of nature is like bending a bow. What is too high is pressed down, and what is too low is lifted up. Where there is too much, it takes away. Where there is too little, it adds. (That is how a feedback loop works. Too hot, and your body cools you. Too cold, and it warms you. Too little water, and you feel thirsty.)
-- Science (settled): Warming or cooling a tiny spot in the hypothalamus makes an animal pant or shiver, even when the rest of its body is at its normal warmth. That spot works as the body's thermostat.
+- Science (settled): Warming or cooling a tiny spot in the hypothalamus makes an animal pant or shiver, even when the rest of their body is at its normal warmth. That spot works as the body's thermostat.
 - Science (settled): In mice, thirst cells in the brain switch off within moments of drinking, long before the water reaches the blood. So the brain can correct a change before it has fully happened.
 - Other view, Many biologists: They say the body keeps its balance by chemistry and nerve signals alone, the way a thermostat keeps a room cool. They see no need for any mind in it. Walter Cannon called his 1932 book The Wisdom of the Body, but they say he meant it only as a way of speaking.
 - Practice, Cooling breath (3 min): Let's sit tall and still. Curl your tongue into a little tube, or if you can't, just open your lips a little. Breathe in slowly through your mouth. Feel how cool the air is on your tongue. Now close your mouth and breathe out slowly through your nose. Let's do that five times. Your tongue felt cool because the air was drying it, like sweat on skin. Now just sit and notice. Is your body hot, cold or just right? You didn't have to do anything to stay just right. Who is doing it?
@@ -202,7 +202,7 @@ The same loop keeps balance at every size. One cell pumps salt to keep its insid
 - *deep:* Why do you feel thirsty as a feeling, instead of your body just quietly fixing itself? (hint: What would happen if your body needed water, but you never felt like drinking?)
 - *big:* Is 'just right' the same for everyone? (hint: Is your mother's comfortable room warmth the same as yours? Is your normal temperature the same as a friend's?)
 - *big:* In a heatwave, who can cool down easily, and who cannot? (hint: Think about a person with an AC in an office, and a person carrying bricks on a building site.)
-- *big:* A beehive keeps its middle at about 35 degrees, but no single bee is in charge. How can a hive keep balance with no boss? (hint: Each bee fans its wings or fetches water when the place where it stands gets too warm.)
+- *big:* A beehive keeps its middle at about 35 degrees, but no single bee is in charge. How can a hive keep balance with no boss? (hint: Each bee fans their wings or fetches water when the place where they stand gets too warm.)
 - *big:* Does the Earth have a thermostat? (hint: Think of what rain, forests and oceans do to the air.)
 - *deep:* When you have a fever, your body moves its 'just right' number up. Why might a body want to be hotter when it is ill? (hint: Many germs grow more slowly when it is warmer.)
 
@@ -477,10 +477,10 @@ People think that keeping cool means holding on to cold. It does not. I have nev
   - Ask: What do you see? (good: Little bumps.; The hairs are standing up.)
   - Note: If no goosebumps come on a hot day, hold a cold steel tumbler from the fridge against the arm for a few seconds, or try after a bath.
 - **s2 (5 min)**  
-  *Parent does:* Explain goosebumps, and compare with a cat fluffing its fur.  
-  *Parent says:* Each hair has a tiny muscle. When you are cold, it pulls the hair upright. A cat or a monkey has thick fur. Its standing fur traps a blanket of warm air. Our hair is too thin for that. So goosebumps are a leftover from our furry relatives.  
+  *Parent does:* Explain goosebumps, and compare with a cat fluffing their fur.  
+  *Parent says:* Each hair has a tiny muscle. When you are cold, it pulls the hair upright. A cat or a monkey has thick fur. Their standing fur traps a blanket of warm air. Our hair is too thin for that. So goosebumps are a leftover from our furry relatives.  
   *Child mode:* Each hair has a tiny muscle. Cold makes it pull the hair up. Furry animals trap warm air this way. Our hair is too thin. Goosebumps are a leftover!
-  - Check: Why does a cat fluff up its fur on a cold morning? → **Standing fur traps a layer of warm air**
+  - Check: Why does a cat fluff up their fur on a cold morning? → **Standing fur traps a layer of warm air**
   - Think: When else do you get goosebumps, even when you are not cold?
 
 ## Projects
@@ -530,7 +530,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - **your turn:** Now design your own suit. Build a small version on a doll. Explain each part to someone at home.
 - **constraints:** The explorer must be able to move and see.; The suit must deal with sweat and body heat, as well as the outside.; Draw the suit, label every part, and say which body trick each part copies.
 - **general:** For cold: thick layers that trap still air, like fur or a shawl.; For heat: shiny or white outside to reflect sunlight, and loose cloth.; Gloves and boots, because fingers and toes lose heat first.
-- **creative:** Real astronauts wear a cooling suit under their spacesuit. It has thin tubes with cool water flowing through them, carrying body heat away. Could your suit have tubes made of straws?; Penguins huddle together in winter, and take turns at the cold outside of the group. Could a team of explorers do the same?; A camel's thick hair on its back keeps the desert sun off. Could your hot-planet suit copy that?
+- **creative:** Real astronauts wear a cooling suit under their spacesuit. It has thin tubes with cool water flowing through them, carrying body heat away. Could your suit have tubes made of straws?; Penguins huddle together in winter, and take turns at the cold outside of the group. Could a team of explorers do the same?; A camel's thick hair on their back keeps the desert sun off. Could your hot-planet suit copy that?
 - **s1 (10 min)**  
   *Parent does:* Your child picks a cold world or a hot world and draws a suit, labelling each part.  
   *Parent says:* Your explorer is about 37 degrees inside, just like you. How will your suit keep them just right out there?  
@@ -597,9 +597,9 @@ People think that keeping cool means holding on to cold. It does not. I have nev
    **Answer:** Your body got rid of the extra heat by sweating and sending blood to the skin. *Why:* Running made heat, but homeostasis got rid of it fast. Your skin felt hot because warm blood was flowing there to lose heat.
 3. (fill) The 'just right' number the body tries to stay at is called the ____ point.  
    **Answer:** ['set']. *Why:* The set point is like the number on an AC remote.
-4. (mcq) A camel in the desert lets its body warm up by about 6 degrees during the day, then cools at night. Why might this help it?  
+4. (mcq) A camel in the desert lets their body warm up by about 6 degrees during the day, then cools at night. Why might this help them?  
    Options: It sweats less, so it saves water / Camels like being hot / It makes the camel run faster / It helps the camel see  
-   **Answer:** It sweats less, so it saves water. *Why:* If the camel kept itself at one exact warmth, it would have to sweat a lot in the hot day. By letting its warmth rise, it saves water. It cools off at night for free.
+   **Answer:** It sweats less, so it saves water. *Why:* If the camel kept their body at one exact warmth, they would have to sweat a lot in the hot day. By letting their warmth rise, they save water. It cools off at night for free.
 5. (mcq) Why do dogs pant on a hot day?  
    Options: Water dries from their tongue and mouth, carrying heat away / They are always hungry / Panting makes heat / They are trying to bark  
    **Answer:** Water dries from their tongue and mouth, carrying heat away. *Why:* Dogs have sweat glands only on their paw pads. Panting moves air over their wet tongue, so water dries and cools them. It is the same trick as sweating.
@@ -608,8 +608,8 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 7. (mcq) You drink a glass of water when you are thirsty. Your thirst goes away in about a minute, long before the water reaches your blood. What does this show?  
    Options: The body predicts, using messages from the mouth and throat / Water goes straight into the brain / Thirst was never real / The tummy makes water  
    **Answer:** The body predicts, using messages from the mouth and throat. *Why:* In mice, scientists found that brain cells for thirst switch off soon after drinking. Your body predicts that water is coming. This is part of a debate about whether the body mostly reacts or mostly predicts.
-8. (match) Match each animal or plant to its balance trick.  
-   **Answer:** Elephant → flaps big ears full of blood; Honeybees → fan their wings to cool the hive; Cat → fluffs up its fur to trap warm air; Stork → wees on its legs to cool off. *Why:* Each living thing has its own ways to keep just right. Many of them use drying water or moving blood, like we do.
+8. (match) Match each animal or plant to their balance trick.  
+   **Answer:** Elephant → flaps big ears full of blood; Honeybees → fan their wings to cool the hive; Cat → fluffs up its fur to trap warm air; Stork → wees on its legs to cool off. *Why:* Each living thing has their own ways to keep just right. Many of them use drying water or moving blood, like we do.
 9. (mcq) Why are your fingers and toes often the first to feel cold?  
    Options: The body sends less blood there in the cold, to keep the middle warm / Fingers have no blood / They are furthest from the sun / They are made of bone only  
    **Answer:** The body sends less blood there in the cold, to keep the middle warm. *Why:* In the cold, blood vessels near the skin and in the fingers squeeze narrow. The body is choosing to keep heat near the heart and brain.
@@ -646,14 +646,14 @@ People think that keeping cool means holding on to cold. It does not. I have nev
    **Answer:** False. *Why:* False. James Lovelock and Lynn Margulis's Gaia idea says something like this, but many scientists disagree. The Earth has balancing loops, but no fixed set point like a body.
 7. (mcq) Why does your body need food even when you are sitting still?  
    Options: To keep making heat and running the pumps in every cell / It doesn't need any food when still / Only to grow hair / To make your bones heavier  
-   **Answer:** To keep making heat and running the pumps in every cell. *Why:* Even at rest you give off about as much heat as an old 100 watt bulb. Every cell also pumps salt to keep its inside just right. All of this needs energy from food.
+   **Answer:** To keep making heat and running the pumps in every cell. *Why:* Even at rest you give off about as much heat as an old 100 watt bulb. Every cell also pumps salt to keep their inside just right. All of this needs energy from food.
 8. (write) Dr Dilip Mahalanabis used ORS in refugee camps in 1971. Why does putting back salt as well as water help a person who has lost a lot of fluid?  
    **Answer:** The body loses salt as well as water. Blood needs the right saltiness. ORS puts back both, and the sugar in it helps the gut take up the salt and water.. *Why:* Homeostasis keeps both water and salt just right. Losing one without the other upsets the balance.
 9. (mcq) Studies suggest people's normal temperature is a little lower today than 150 years ago. What is one possible reason scientists give?  
    Options: Fewer long-lasting illnesses and more comfortable homes / People eat more ice cream / The Sun is cooler now / Thermometers make people colder  
    **Answer:** Fewer long-lasting illnesses and more comfortable homes. *Why:* Myroslava Protsiv, Julie Parsonnet and others suggested less illness and comfortable homes. Others think old measuring methods were different. It is still debated.
 10. (order) Put these from the warmest normal body to the coolest: a sparrow, a human, a lizard on a cold morning.  
-   **Answer:** order shown. *Why:* Birds keep themselves at about 40 to 42 degrees. Humans are about 37. A lizard does not make much of its own heat, so on a cold morning it is as cold as the air until it basks.
+   **Answer:** order shown. *Why:* Birds keep themselves at about 40 to 42 degrees. Humans are about 37. A lizard does not make much of their own heat, so on a cold morning they are as cold as the air until they bask.
 11. (mcq) Why can't goosebumps keep us warm the way fur keeps a cat warm?  
    Options: Our body hair is too thin and short to trap a layer of air / We have no muscles in our skin / Goosebumps make us hotter than cats / Cats don't have hair  
    **Answer:** Our body hair is too thin and short to trap a layer of air. *Why:* Goosebumps pull our hairs up, just like a cat's. But our hairs are too thin to trap a blanket of still air. So goosebumps are a leftover from our furry relatives.
@@ -756,7 +756,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - What did your body do by itself today to cool down or warm up?
 - Why do you think the matka is damp on the outside?
 - When did you last feel thirsty? What had you been doing?
-- Why does the dog lie in the shade with its tongue out?
+- Why does the dog lie in the shade with their tongue out?
 - Which machine in our home keeps something just right?
 - What would happen if your body never felt thirsty?
 - Why do your fingers get cold before your tummy does?
@@ -767,7 +767,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - Why did the thermometer go to school? *It wanted to get more degrees.*
 - What did the sweat drop say to the forehead? *Don't worry, I'll be gone in a minute, and I'm taking the heat with me.*
 - Why did the matka never get stressed? *It always kept its cool.*
-- What do you call a dog on a hot day? *A hot dog. It pants instead of sweating.*
+- What do you call a dog on a hot day? *A hot dog. They pant instead of sweating.*
 - Why did the goosebumps go to the party? *They heard it would be hair-raising.*
 - What did the brain say to the shivering muscles? *Great work, keep shaking things up.*
 - Why did the camel never need a water bottle? *It was a master at saving it.*
@@ -775,7 +775,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - Why did the penguin join the huddle? *It wanted to be in the warm middle of things.*
 - What did the AC say to your body? *Hey, we both have a set point!*
 - Why was the tumbler of filter coffee jealous of you? *You stay warm all day, and it goes cold in ten minutes.*
-- Why did the elephant flap its ears at the teacher? *It was a cool way to say hello.*
+- Why did the elephant flap their ears at the teacher? *It was a cool way to say hello.*
 - What did the kidneys say on a hot day? *Let's save water today.*
 - Why do honeybees fan their wings in May? *Because their hive has no AC.*
 - Why did the sweater feel left out in May? *Everyone gave it the cold shoulder.*

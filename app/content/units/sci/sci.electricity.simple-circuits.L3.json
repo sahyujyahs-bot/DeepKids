@@ -236,14 +236,14 @@
    "concept": "Electricity in living things",
    "status": "defined",
    "definition": "Nerves, muscles and many plants send signals using tiny charged particles that move in and out of their cells.",
-   "description": "In 1791, an Italian doctor called Luigi Galvani said that living bodies use electricity. He was right. Your brain sends signals along your nerves to your muscles. Each signal is carried by charged particles moving in and out of the nerve cells. This is how you move your fingers. Your heart beats because of electrical signals, which a doctor can record with an ECG machine. Plants use electrical signals too. A touch-me-not plant feels a touch, and an electrical signal travels along its leaf stalk, so the leaves fold. Jagadish Chandra Bose measured electrical signals in plants in Kolkata over a hundred years ago. Some fish, like the electric eel of South America, store up so much charge that they can give a shock of more than 600 volts.",
+   "description": "In 1791, an Italian doctor called Luigi Galvani said that living bodies use electricity. He was right. Your brain sends signals along your nerves to your muscles. Each signal is carried by charged particles moving in and out of the nerve cells. This is how you move your fingers. Your heart beats because of electrical signals, which a doctor can record with an ECG machine. Plants use electrical signals too. A touch-me-not plant feels a touch, and an electrical signal travels along their leaf stalk, so the leaves fold. Jagadish Chandra Bose measured electrical signals in plants in Kolkata over a hundred years ago. Some fish, like the electric eel of South America, store up so much charge that they can give a shock of more than 600 volts.",
    "examples": [
     "A doctor puts sticky pads on your chest to record your heart's electrical signals.",
     "The leaves of a touch-me-not fold within a second or two of a touch.",
-    "An electric eel uses shocks to stun the fish it hunts."
+    "An electric eel uses shocks to stun the fish they hunt."
    ],
    "perspectives": [],
-   "art": "A touch-me-not plant folding its leaves as a finger touches it, with a faint zig-zag line running along the stem, next to an ECG line on a screen.",
+   "art": "A touch-me-not plant folding their leaves as a finger touches them, with a faint zig-zag line running along the stem, next to an ECG line on a screen.",
    "context": "Wires and cells are not the only places with electricity. This card is about the electricity inside living things."
   }
  ],
@@ -303,7 +303,7 @@
    "context": "This card is about why even small cells need care."
   },
   {
-   "claim": "The electricity in a frog's legs came from the frog itself.",
+   "claim": "The electricity in a frog's legs came from the frog's own body.",
    "who": "Luigi Galvani, in Bologna, in 1791",
    "for": "The legs twitched when touched with metal, and Galvani later made them twitch with no metal at all, using the frog's own nerve.",
    "against": "Alessandro Volta showed that two different metals with something wet between them make electricity, with no frog at all. Both were partly right. Volta's metals made the first battery, and Galvani's animal electricity is real too: nerves really do use electrical signals.",
@@ -340,7 +340,7 @@
   {
    "q": "Imagine a world with no electricity at all, not even in living things. Could anything in it be alive?",
    "kind": "big",
-   "hint": "Your heart beats because of electrical signals. A touch-me-not folds its leaves because of one too."
+   "hint": "Your heart beats because of electrical signals. A touch-me-not folds their leaves because of one too."
   }
  ],
  "story": {
@@ -2422,7 +2422,7 @@
       "The metals were hot"
      ],
      "a": 0,
-     "why": "Galvani thought the frog's body held its own 'animal electricity', and the metals let it flow."
+     "why": "Galvani thought the frog had their own 'animal electricity' in their body, and the metals let it flow."
     },
     {
      "t": "mcq",
@@ -2451,7 +2451,7 @@
     },
     {
      "t": "mcq",
-     "p": "A touch-me-not plant folds its leaves when touched. What travels along its leaf stalk?",
+     "p": "A touch-me-not plant folds their leaves when touched. What travels along their leaf stalk?",
      "opts": [
       "A sound",
       "An electrical signal",
@@ -2968,7 +2968,7 @@
   },
   "three": {
    "who_am_i": "Every move you make starts with electrical signals running along your nerves to your muscles.",
-   "what_is_life": "A touch-me-not feels a touch and sends an electrical signal along its leaf stalk, and its leaves fold.",
+   "what_is_life": "A touch-me-not feels a touch and sends an electrical signal along their leaf stalk, and their leaves fold.",
    "what_is_this_world": "Lightning, a torch and the fan above you all work because charges move."
   },
   "thread": "In a wire with no cell, the electrons drift about in every direction. Their movements add up to nothing. Join a cell, and one steady push sets them all moving round the loop together. That one flow can light a bulb, spin a fan, ring a bell or warm an iron. Many different jobs come from one simple movement of charges that were there all along.",
@@ -3017,7 +3017,7 @@
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. Choices made: only AA cells are used, never sockets or chargers. Torch bulbs are used, not LEDs, because an LED will not light from one 1.5 volt cell and lights only one way round. A 2.5 volt bulb glows only dimly on one cell, so the steps say to dim the room, and the two-cell experiment shows it brighter. No cell holder? The wires can be taped to the cell's ends. Foil folded four times lengthwise works as wire, but a foil strip held across both ends of a cell gets warm, so every step warns against short circuits. The pencil test may give only a very faint glow, or none, with a bulb, so the step says so and suggests a short piece of lead. Plastic-coated paper clips are a deliberate surprise in the Conductor Test. Tap and salty water tests were left out, because a bulb on one or two AA cells does not visibly glow through water. The torch activity skips torches with built-in rechargeable batteries. Leaked cells leave a crust that should be wiped with a dry cloth, followed by hand washing. Button cells are named as dangerous for babies. Both games work for one child alone. The spine is the bulb challenge, the safety walk, the Conductor Test, the explanation cards, roots and the quiz, about 85 minutes.",
  "how_we_found_out": {
-  "story": "In the 1780s, Luigi Galvani, a doctor in Bologna in Italy, was studying how frog legs move. His wife, Lucia Galeazzi, also worked in his laboratory. Galvani found that a dead frog's leg twitched when he touched it with two different metals, such as a brass hook and an iron rail. In 1791 he wrote that the frog's body held its own 'animal electricity', and the metals let it flow. Alessandro Volta, a physicist in Pavia, repeated the experiments. He thought the electricity came from the two metals, and the frog only showed it. To prove it, he left the frog out. He piled up discs of zinc and copper, with card soaked in salty water between them. The pile gave a steady flow of electricity, and he could feel it as a tingle. In 1800 he described it in a letter to the Royal Society in London. It was the first battery. So Galvani's idea that the metals' electricity came from the frog was wrong. But he was right that living bodies use electricity. Our nerves really do send electrical signals.",
+  "story": "In the 1780s, Luigi Galvani, a doctor in Bologna in Italy, was studying how frog legs move. His wife, Lucia Galeazzi, also worked in his laboratory. Galvani found that a dead frog's leg twitched when he touched it with two different metals, such as a brass hook and an iron rail. In 1791 he wrote that the frog had their own 'animal electricity' in their body, and the metals let it flow. Alessandro Volta, a physicist in Pavia, repeated the experiments. He thought the electricity came from the two metals, and the frog only showed it. To prove it, he left the frog out. He piled up discs of zinc and copper, with card soaked in salty water between them. The pile gave a steady flow of electricity, and he could feel it as a tingle. In 1800 he described it in a letter to the Royal Society in London. It was the first battery. So Galvani's idea that the metals' electricity came from the frog was wrong. But he was right that living bodies use electricity. Our nerves really do send electrical signals.",
   "who": "Luigi Galvani, a doctor in Bologna, and Alessandro Volta, a physicist in Pavia",
   "when": "1791 (Galvani's book on animal electricity) and 1799 to 1800 (Volta's pile)",
   "wrong_idea": "Galvani thought the electricity that made the frog legs twitch was stored in the frog's body. Volta showed that two different metals with something salty and wet between them make electricity on their own, with no frog. Galvani was still right that nerves use electricity."

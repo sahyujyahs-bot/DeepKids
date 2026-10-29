@@ -24,15 +24,15 @@
  "terms": [
   {
    "term": "Food",
-   "meaning": "Anything a living thing takes in to get energy and to build its body.",
+   "meaning": "Anything a living thing takes in to get energy and to build their body.",
    "example": "Rice gives you energy to run. Dal helps build your muscles.",
    "art": "A child eating rice and dal, with a small battery sign and a small brick sign above the plate."
   },
   {
    "term": "Plant",
-   "meaning": "A living thing that makes its own food from sunlight, air and water. It grows rooted in one place.",
+   "meaning": "A living thing that makes their own food from sunlight, air and water. They grow rooted in one place.",
    "example": "A rice plant, a mango tree and a tulsi plant.",
-   "art": "A tulsi plant in a pot with sunbeams on its leaves."
+   "art": "A tulsi plant in a pot with sunbeams on their leaves."
   },
   {
    "term": "Root",
@@ -42,7 +42,7 @@
   },
   {
    "term": "Stem",
-   "meaning": "The part of a plant that holds it up and carries water and food. Some stems grow under the ground.",
+   "meaning": "The part of a plant that holds the plant up and carries water and food. Some stems grow under the ground.",
    "example": "Sugarcane is a stem. A potato is a fat underground stem.",
    "art": "A sugarcane stalk and a potato with its little eyes, side by side."
   },
@@ -66,9 +66,9 @@
   },
   {
    "term": "Seed",
-   "meaning": "A baby plant inside a tough coat, with a store of food beside it. A dry seed is dormant: it rests until it gets water.",
+   "meaning": "A baby plant inside a tough coat, with a store of food beside them. A dry seed is dormant: they rest until they get water.",
    "example": "Rice, wheat, moong, peanuts and jeera are all seeds.",
-   "art": "A split pea with a tiny curled baby plant next to its two fat food halves."
+   "art": "A split pea with a tiny curled baby plant next to their two fat food halves."
   },
   {
    "term": "Grain",
@@ -84,7 +84,7 @@
   },
   {
    "term": "Fungus (more than one: fungi)",
-   "meaning": "A living thing that is not a plant and not an animal. It cannot make food from sunlight. It feeds on dead or living things around it.",
+   "meaning": "A living thing that is not a plant and not an animal. They cannot make food from sunlight. They feed on dead or living things around them.",
    "example": "Mushrooms are fungi. So is the yeast that makes bread rise.",
    "art": "A cluster of mushrooms growing on a log."
   },
@@ -114,7 +114,7 @@
   },
   {
    "term": "Photosynthesis",
-   "meaning": "How a green plant makes food. Its leaves use the energy of sunlight to join carbon dioxide from the air with water, making sugar.",
+   "meaning": "How a green plant makes food. Their leaves use the energy of sunlight to join carbon dioxide from the air with water, making sugar.",
    "example": "A mango leaf in the sun is making food right now.",
    "art": "A leaf with arrows: sunlight coming in, air going in, water rising from the stem, sugar coming out."
   },
@@ -152,7 +152,7 @@
    "term": "Nectar",
    "meaning": "A sweet juice made inside flowers. Bees drink it and turn it into honey.",
    "example": "A bee sipping from a mustard flower is collecting nectar.",
-   "art": "A honeybee with its tongue in a yellow mustard flower."
+   "art": "A honeybee with her tongue in a yellow mustard flower."
   },
   {
    "term": "Farming",
@@ -189,7 +189,7 @@
   {
    "concept": "What food is, and the four places it comes from",
    "status": "defined",
-   "definition": "Food is anything a living thing takes in to get energy and to build its body. Our food comes from four kinds of places: plants, animals, fungi and microbes, and the non-living Earth.",
+   "definition": "Food is anything a living thing takes in to get energy and to build their body. Our food comes from four kinds of places: plants, animals, fungi and microbes, and the non-living Earth.",
    "description": "Look at any meal and sort it. Rice, dal, vegetables, fruit and spices come from plants. Milk, curd, ghee, eggs, fish and honey come from animals. Mushrooms are fungi, and curd and idli batter are changed by microbes, tiny living things. Salt and water are the odd ones out. They were never alive. They come from the sea, the rocks and the rain. So almost all of our food was once part of something alive.",
    "examples": [
     "A plate of idli, sambar and coconut chutney: rice and urad dal (plants), tiny microbes that made the batter rise, tamarind and vegetables (plants), salt (the Earth), water (the Earth).",
@@ -245,7 +245,7 @@
   {
    "concept": "Food from animals, and what the animals ate",
    "status": "defined",
-   "definition": "Some of our food comes from animals: milk and everything made from it, eggs, honey, meat and fish. Every one of those animals got its own food from plants, or from animals that ate plants.",
+   "definition": "Some of our food comes from animals: milk and everything made from it, eggs, honey, meat and fish. Every one of those animals got their own food from plants, or from animals that ate plants.",
    "description": "Milk comes from cows, buffaloes and goats. From milk we make curd, paneer, butter, ghee and khoa. Hens lay eggs. Fish, prawns and crabs come from rivers and the sea. Honey is made by honeybees. They drink sweet nectar from flowers and store it in little wax cells in their hive. They fan it with their wings until most of the water evaporates. That means the water turns into vapour and goes into the air. One worker bee makes only about a twelfth of a teaspoon of honey in her whole life. So every spoon of honey is the work of many bees and many thousands of flowers. Now ask what each animal ate. A cow eats grass and fodder. A hen eats grain. A bee drinks nectar. A fish eats algae, tiny water creatures or smaller fish. So animal food is really plant food that has passed through an animal first.",
    "examples": [
     "Ghee comes from butter, which comes from milk, which came from a cow, which ate grass.",
@@ -260,7 +260,7 @@
    "concept": "Food made by fungi and microbes",
    "status": "defined",
    "definition": "Fungi and microbes are living things that are not plants and not animals. Mushrooms are fungi we eat. Many microbes help make our food, by fermenting it.",
-   "description": "A mushroom is not a plant. It has no green leaves and cannot make food from sunlight. It feeds on dead leaves, wood or soil. Scientists have found that fungi are actually more closely related to animals than to plants. Microbes are even smaller living things. Put a spoon of curd into warm milk and leave it overnight. Bacteria from the old curd feed on the sugar in the milk. They make lactic acid, which turns the milk thick and sour. By morning there are billions of them, and the milk has become curd. Idli and dosa batter rise and turn sour for the same reason. Bacteria and yeasts feed on the soaked rice and urad dal. Yeasts are tiny fungi, each just one cell. People in India have used microbes to make curd, idli, dhokla, kanji and appam for many hundreds of years. They did it long before anyone knew microbes existed.",
+   "description": "A mushroom is not a plant. They have no green leaves and cannot make food from sunlight. It feeds on dead leaves, wood or soil. Scientists have found that fungi are actually more closely related to animals than to plants. Microbes are even smaller living things. Put a spoon of curd into warm milk and leave it overnight. Bacteria from the old curd feed on the sugar in the milk. They make lactic acid, which turns the milk thick and sour. By morning there are billions of them, and the milk has become curd. Idli and dosa batter rise and turn sour for the same reason. Bacteria and yeasts feed on the soaked rice and urad dal. Yeasts are tiny fungi, each just one cell. People in India have used microbes to make curd, idli, dhokla, kanji and appam for many hundreds of years. They did it long before anyone knew microbes existed.",
    "examples": [
     "Curd is milk changed by bacteria.",
     "Bread and bhatura rise because yeast makes tiny bubbles of gas.",
@@ -287,7 +287,7 @@
    "concept": "Every food chain begins with a plant, and every plant begins with the Sun",
    "status": "defined",
    "definition": "A food chain is a list of who eats whom. On land, every food chain starts with a plant, and in water most start with tiny algae. Plants and algae make food using the energy of sunlight. So the energy in almost all food first came from sunlight.",
-   "description": "Follow your curd back. Curd came from milk. Milk came from a cow. The cow ate grass. The grass made itself out of sunlight, air and water. Follow fish curry back. The fish ate smaller fish. The smaller fish ate tiny floating algae. The algae made food from sunlight. Every chain on land and in the sunlit sea ends at a plant or an alga, and then at the Sun. There is a rough rule too. When a cow eats grass, only about a tenth of the grass's energy ends up in the cow's body. The rest is used for moving, keeping warm and living. So it takes a lot of grass to feed one cow. Feeding people on plants directly needs much less land.",
+   "description": "Follow your curd back. Curd came from milk. Milk came from a cow. The cow ate grass. The grass plants made themselves out of sunlight, air and water. Follow fish curry back. The fish ate smaller fish. The smaller fish ate tiny floating algae. The algae made food from sunlight. Every chain on land and in the sunlit sea ends at a plant or an alga, and then at the Sun. There is a rough rule too. When a cow eats grass, only about a tenth of the grass's energy ends up in the cow's body. The rest is used for moving, keeping warm and living. So it takes a lot of grass to feed one cow. Feeding people on plants directly needs much less land.",
    "examples": [
     "Sun, then grass, then cow, then milk, then you.",
     "Sun, then algae in the sea, then small fish, then big fish, then fish curry.",
@@ -301,7 +301,7 @@
    "concept": "What plants make their food from",
    "status": "defined",
    "definition": "Green plants make their food from air, water and sunlight. Their leaves take in a gas from the air called carbon dioxide. Their roots take in water. Sunlight gives the energy to join them into sugar. This is called photosynthesis.",
-   "description": "Most people guess that plants eat soil. About 380 years ago, a scientist named Jan Baptist van Helmont, in what is now Belgium, tested this. He weighed some dry soil and put it in a pot. He planted a small willow tree in it and only gave it rainwater. Five years later, the tree had grown about 30 times heavier. But the soil had lost only a tiny pinch of weight. So the tree had not eaten the soil. Van Helmont thought it was made of water. Scientists later found that most of the tree's dry wood was built from carbon dioxide, a gas in the air. A wheat grain, a mango and a grain of rice are mostly built out of air and water, joined together using the energy of sunlight. The soil gives only small amounts of minerals.",
+   "description": "Most people guess that plants eat soil. About 380 years ago, a scientist named Jan Baptist van Helmont, in what is now Belgium, tested this. He weighed some dry soil and put it in a pot. He planted a small willow tree in it and only gave them rainwater. Five years later, the tree had grown about 30 times heavier. But the soil had lost only a tiny pinch of weight. So the tree had not eaten the soil. Van Helmont thought the tree was made of water. Scientists later found that most of the tree's dry wood was built from carbon dioxide, a gas in the air. A wheat grain, a mango and a grain of rice are mostly built out of air and water, joined together using the energy of sunlight. The soil gives only small amounts of minerals.",
    "examples": [
     "A tall coconut tree is built mostly from air and water.",
     "A few months ago, the rice on your plate was carbon dioxide gas in the air over a paddy field."
@@ -313,15 +313,15 @@
   {
    "concept": "What is inside a seed",
    "status": "defined",
-   "definition": "A seed is a baby plant inside a tough coat, with a store of food beside it. When we eat grains, dal and nuts, we are eating that stored food.",
-   "description": "Soak a chana or a peanut overnight and gently split it in two. You will find two fat halves and, at one end, a tiny curled baby plant. The fat halves are its food store. They are full of starch, protein and oil that the mother plant packed for it. A dry seed is dormant, which means resting. It can stay that way for months, or even years, as long as it is dry and cool. When it gets water and warmth, it starts to grow, using its food store to make a root and a shoot. That is why seeds are such good food for us. They are small, they keep for a long time, and they are packed with energy. Rice, wheat, ragi, bajra, all the dals, peanuts, and even jeera and mustard are seeds.",
+   "definition": "A seed is a baby plant inside a tough coat, with a store of food beside them. When we eat grains, dal and nuts, we are eating that stored food.",
+   "description": "Soak a chana or a peanut overnight and gently split it in two. You will find two fat halves and, at one end, a tiny curled baby plant. The fat halves are their food store. They are full of starch, protein and oil that the mother plant packed for them. A dry seed is dormant, which means resting. They can stay that way for months, or even years, as long as they are dry and cool. When they get water and warmth, they start to grow, using their food store to make a root and a shoot. That is why seeds are such good food for us. They are small, they keep for a long time, and they are packed with energy. Rice, wheat, ragi, bajra, all the dals, peanuts, and even jeera and mustard are seeds.",
    "examples": [
     "Soaked moong grows a little white root in a day or two.",
-    "A whole grain of brown rice has a tiny baby plant at one end. Polishing white rice rubs most of it off.",
+    "A whole grain of brown rice has a tiny baby plant at one end. Polishing white rice rubs most of that baby plant off.",
     "People have stored seeds for months between harvests since farming began."
    ],
    "perspectives": [],
-   "art": "A soaked chana split open in a palm, with the tiny curled baby plant and its two fat food halves labelled.",
+   "art": "A soaked chana split open in a palm, with the tiny curled baby plant and their two fat food halves labelled.",
    "context": "Most of the food we eat is seeds: grains, dals and nuts. This card shows what is really inside a seed."
   },
   {
@@ -452,7 +452,7 @@
   },
   {
    "text": "Green plants make their food from air, water and sunlight. The soil gives them only small amounts of minerals.",
-   "evidence": "Van Helmont's willow tree grew about 30 times heavier, but its soil hardly lost any weight. Later scientists showed plants take in carbon dioxide from the air and need light to grow."
+   "evidence": "Van Helmont's willow tree grew about 30 times heavier, but their soil hardly lost any weight. Later scientists showed plants take in carbon dioxide from the air and need light to grow."
   },
   {
    "text": "On land and in the sunlit sea, every food chain begins with plants or algae, which use sunlight.",
@@ -484,7 +484,7 @@
    "claim": "Plants get their food from the soil.",
    "who": "Most people, for thousands of years, including the Greek thinker Aristotle",
    "for": "Plants grow in soil, and they die if they are pulled out of it.",
-   "against": "Van Helmont's willow grew huge while its soil hardly changed. Plants make their own food from air, water and sunlight. Soil gives them water, a firm place to stand and a little of some minerals.",
+   "against": "Van Helmont's willow grew huge while their soil hardly changed. Plants make their own food from air, water and sunlight. Soil gives them water, a firm place to stand and a little of some minerals.",
    "status": "rejected",
    "context": "This card is about an old and very common idea of what plants eat."
   },
@@ -601,20 +601,20 @@
    "Nina did not understand. Food was food. You were hungry, and there it was.",
    "That night, the cold was so bad that her mother fell asleep at her desk with her head on her arms. It was Nina's turn to keep watch. The rats were the real danger. They were starving too. They chewed through boxes and ate whatever they found. Nina sat with a small lamp and a broom, and listened to the building creak.",
    "Then she heard it. A scratching, a skitter, and then a soft patter like rain. She lifted the lamp. A box on a low shelf had been gnawed open, and a packet inside had split. Green-grey peas lay spilled across the floor.",
-   "Nina knelt and gathered them into her lap, one by one. Her stomach twisted. She picked up a single pea and put it in her mouth. It sat on her tongue, hard as a pebble. It tasted of dust, and very faintly of summer.",
+   "Nina knelt and gathered them into her lap, one by one. Her stomach twisted. She put a single pea in her mouth. The pea sat on her tongue, hard as a pebble. It tasted of dust, and very faintly of summer.",
    "Then she remembered something.",
-   "Long before the hunger, in the autumn, her mother had soaked a pea from their kitchen in a cup of water overnight. In the morning she had split it with her thumbnail and held it under the lamp. Inside were two fat pale halves, and tucked at one edge, a tiny curled thing with two folded leaves, like a sleeping baby holding its knees. 'That is the plant,' her mother had said. 'And these two fat halves are its lunch. Its mother packed them for it before it was born. When we eat peas, we are eating the baby's lunchbox.'",
-   "Nina took the pea out of her mouth and held it up to the lamp. There was a baby in there. Asleep. Waiting for water and warmth and spring.",
-   "She began to count on her cold fingers. Plant one pea, and it grows into a plant. One plant makes perhaps five pods. Each pod holds perhaps six peas. That is thirty peas. Plant those thirty, and there are thirty plants. Thirty plants make nine hundred peas. And the year after that…",
+   "Long before the hunger, in the autumn, her mother had soaked a pea from their kitchen in a cup of water overnight. In the morning she had split the pea with her thumbnail and held the halves under the lamp. Inside were two fat pale halves, and tucked at one edge, a tiny curled thing with two folded leaves, like a sleeping baby holding their knees. 'That is the plant,' her mother had said. 'And these two fat halves are their lunch. Their mother packed this lunch before they were born. When we eat peas, we are eating the baby's lunchbox.'",
+   "Nina took the pea out of her mouth and held the little seed up to the lamp. There was a baby in there. Asleep. Waiting for water and warmth and spring.",
+   "She began to count on her cold fingers. Plant one pea, and they grow into a plant. One plant makes perhaps five pods. Each pod holds perhaps six peas. That is thirty peas. Plant those thirty, and there are thirty plants. Thirty plants make nine hundred peas. And the year after that…",
    "She stopped, because the number had become too big to hold.",
-   "In her mouth, the pea would be gone in one swallow. In the ground, it was a field.",
-   "Nina wiped the pea on her sleeve and put it back in the packet. Then she found every other pea on the floor, even the one that had rolled under the radiator. She counted them twice. Forty-seven. She tied the packet tight with a piece of string, and on the paper, in her best handwriting, she wrote: 47. All here.",
+   "In her mouth, the pea would be gone in one swallow. In the ground, the pea was a field.",
+   "Nina wiped the pea on her sleeve and put the seed back in the packet. Then she found every other pea on the floor, even the one that had rolled under the radiator. She counted them twice. Forty-seven. She tied the packet tight with a piece of string, and on the paper, in her best handwriting, she wrote: 47. All here.",
    "In the morning her mother woke stiff and blinking. She saw the box, and the tied packet, and the number written on it. She looked at Nina for a long moment. Then she took a pencil, and beside the 47 she wrote her own initials, very small, as if signing something important.",
    "The siege lasted two more winters. Some of the people in the seed library did not live to see the end of it. They died of hunger at their desks, beside sacks of rice and boxes of seeds they never opened. Nikolai Vavilov, the man who had gathered the seeds so that nobody would ever starve, died of hunger in a prison far away.",
    "But the seeds survived. After the war, they went out from St Isaac's Square to farms across the country, packet by packet. They were sown in spring soil. They woke up and ate their lunch and pushed out roots and shoots, and grew, and made more seeds, and those seeds made more.",
-   "Somewhere, a pea plant is climbing a stick in a garden right now. Its seeds came, many generations later, from seeds that lived through that winter. Now it turns its leaves to the Sun."
+   "Somewhere, a pea plant is climbing a stick in a garden right now. Their seeds came, many generations later, from seeds that lived through that winter. Now they turn their leaves to the Sun."
   ],
-  "epiphany": "For the parent: Nina's turn comes when she sees that a seed is not only food. It is a living baby plant with a store of food, waiting to grow. Eaten, it is one mouthful. Planted, it becomes a plant that makes many more seeds. Most of our food is seeds or other plant parts. Every bit of it comes from living things that keep making more of themselves. That is why farmers have always kept back their best seeds, even in hungry years. The story also quietly asks about saving for the future. It remembers people whose sacrifice was never written in the history books.",
+  "epiphany": "For the parent: Nina's turn comes when she sees that a seed is not only food. They are a living baby plant with a store of food, waiting to grow. Eaten, they are one mouthful. Planted, they become a plant that makes many more seeds. Most of our food is seeds or other plant parts. Every bit of it comes from living things that keep making more of themselves. That is why farmers have always kept back their best seeds, even in hungry years. The story also quietly asks about saving for the future. It remembers people whose sacrifice was never written in the history books.",
   "ask": [
    "Why did the scientists in the story not cook the seeds, even though they were starving?",
    "What did Nina remember about the inside of a pea? What were the two fat halves for?",
@@ -628,7 +628,7 @@
    "A girl with a lamp and a broom kneeling on the floor, gathering spilled peas into her lap.",
    "A remembered close-up: a split pea in a mother's hand, a tiny curled baby plant beside the two fat halves.",
    "A tied paper packet with '47. All here.' written on it, and small initials beside the number.",
-   "A pea plant climbing a stick in a sunny garden, its pods full."
+   "A pea plant climbing a stick in a sunny garden, their pods full."
   ]
  },
  "games": [
@@ -1024,7 +1024,7 @@
      "t": "truefalse",
      "p": "A mushroom is a kind of plant.",
      "a": false,
-     "why": "False. A mushroom is a fungus. It has no green leaves and cannot make its own food from sunlight. It feeds on dead wood and leaves. Fungi are a separate kind of living thing."
+     "why": "False. A mushroom is a fungus. They have no green leaves and cannot make their own food from sunlight. It feeds on dead wood and leaves. Fungi are a separate kind of living thing."
     },
     {
      "t": "mcq",
@@ -1084,7 +1084,7 @@
       "Rainbows"
      ],
      "a": 1,
-     "why": "Plants use sunlight to join air and water into sugar. Picking 'soil' is the most common answer. But a willow tree grew 30 times heavier in a pot while its soil hardly changed. Soil gives plants only small amounts of minerals."
+     "why": "Plants use sunlight to join air and water into sugar. Picking 'soil' is the most common answer. But a willow tree grew 30 times heavier in a pot while their soil hardly changed. Soil gives plants only small amounts of minerals."
     },
     {
      "t": "sort",
@@ -1126,7 +1126,7 @@
      "t": "truefalse",
      "p": "When we eat dal, we are eating seeds.",
      "a": true,
-     "why": "True. Dals are the dried seeds of pulse plants. Soak whole moong and it will sprout a root."
+     "why": "True. Dals are the dried seeds of pulse plants. Soak whole moong and they will sprout a root."
     },
     {
      "t": "mcq",
@@ -1146,7 +1146,7 @@
      "t": "draw",
      "p": "Draw a seed split open. Label the baby plant and the food store.",
      "a": "A drawing of a split seed showing a small curled baby plant at one edge, and two big halves labelled 'food store'.",
-     "why": "A seed holds a baby plant and a store of food. The big halves hold the food the baby plant uses when it starts to grow.",
+     "why": "A seed holds a baby plant and a store of food. The big halves hold the food the baby plant uses when they start to grow.",
      "art": "An outline of a split chana seed with two empty label lines."
     }
    ]
@@ -1217,7 +1217,7 @@
      "t": "write",
      "p": "Ghee comes from a cow. Write the whole chain, going back from ghee to where its energy began.",
      "lines": 3,
-     "a": "Ghee is made from butter. Butter is made from milk. The cow made milk from the grass it ate. The grass made itself using sunlight. So the chain is: Sun, grass, cow, milk, butter, ghee.",
+     "a": "Ghee is made from butter. Butter is made from milk. The cow made milk from the grass she ate. The grass plants made themselves using sunlight. So the chain is: Sun, grass, cow, milk, butter, ghee.",
      "why": "Every animal food goes back to a plant, and every plant goes back to the Sun.",
      "how": "a3"
     },
@@ -1231,7 +1231,7 @@
       "Sugar"
      ],
      "a": 0,
-     "why": "Rice is a seed, full of the starch the plant packed for its baby. Iodine turns blue-black on starch. Paneer comes from milk, salt from the Earth, and sugar is not starch. Picking sugar is a clever trap: sugar comes from a plant, but it is a different kind of food from starch.",
+     "why": "Rice is a seed, full of the starch the plant packed for their baby. Iodine turns blue-black on starch. Paneer comes from milk, salt from the Earth, and sugar is not starch. Picking sugar is a clever trap: sugar comes from a plant, but it is a different kind of food from starch.",
      "context": "In the iodine test, a grown-up puts a drop of iodine on different foods. Iodine turns blue-black where there is starch.",
      "how": "e3"
     },
@@ -1320,7 +1320,7 @@
       "About a bucket"
      ],
      "a": 0,
-     "why": "One bee makes only a tiny drop of honey, about a twelfth of a teaspoon. A whole jar is the work of thousands of bees and many thousands of flowers. Picking 'one jar' means thinking one bee can collect far more nectar than it really can."
+     "why": "One bee makes only a tiny drop of honey, about a twelfth of a teaspoon. A whole jar is the work of thousands of bees and many thousands of flowers. Picking 'one jar' means thinking one bee can collect far more nectar than she really can."
     },
     {
      "t": "mcq",
@@ -1352,7 +1352,7 @@
       "Food from the dark"
      ],
      "a": 0,
-     "why": "In the dark, a seedling cannot make new food. It lives on the food stored in its seed, stretching to look for light. Picking 'the soil' is the old idea that plants eat soil, which van Helmont's willow tree showed was wrong.",
+     "why": "In the dark, a seedling cannot make new food. They live on the food stored in their seed, stretching to look for light. Picking 'the soil' is the old idea that plants eat soil, which van Helmont's willow tree showed was wrong.",
      "how": "p1"
     },
     {
@@ -1386,7 +1386,7 @@
      "t": "write",
      "p": "Van Helmont grew a willow in a pot for five years. The tree got about 30 times heavier, but the soil hardly changed. What does this tell us about what plants are made of?",
      "lines": 4,
-     "a": "The tree did not get its weight from the soil, because the soil stayed almost the same. So it must have come from what it took in: water from the rain, and, as later scientists found, air. Plants build themselves mostly from air and water, using the energy of sunlight.",
+     "a": "The tree did not get their weight from the soil, because the soil stayed almost the same. So it must have come from what they took in: water from the rain, and, as later scientists found, air. Plants build themselves mostly from air and water, using the energy of sunlight.",
      "why": "Van Helmont thought it was all water. Later scientists found most of a plant's weight comes from carbon dioxide gas in the air."
     },
     {
@@ -1399,13 +1399,13 @@
       "None"
      ],
      "a": 0,
-     "why": "This is a rough rule. Most of the grass's energy is used by the cow for walking, keeping warm, breathing and living. Only about a tenth is stored in its body. Picking 'all of it' means forgetting that a cow uses energy all day, just like you."
+     "why": "This is a rough rule. Most of the grass's energy is used by the cow for walking, keeping warm, breathing and living. Only about a tenth is stored in her body. Picking 'all of it' means forgetting that a cow uses energy all day, just like you."
     },
     {
      "t": "write",
      "p": "Only about a tenth of the energy passes on at each step of a food chain. Use this rough rule to explain why feeding people on milk and meat takes more land than feeding them on grains and dal.",
      "lines": 4,
-     "a": "When people eat grains and dal, they get the plant's energy directly. When a cow eats the plants first, it uses up most of the energy. Only about a tenth is left in its milk and meat. So to get the same energy from animal food, many more fields of plants are needed.",
+     "a": "When people eat grains and dal, they get the plant's energy directly. When a cow eats the plants first, she uses up most of the energy. Only about a tenth is left in her milk and meat. So to get the same energy from animal food, many more fields of plants are needed.",
      "why": "Every extra step in a food chain loses most of the energy. Shorter chains need less land."
     },
     {
@@ -1442,7 +1442,7 @@
      "t": "write",
      "p": "In 1941, scientists in Leningrad were starving, but they did not eat their seed collection. Give two reasons why saving seeds was so important.",
      "lines": 4,
-     "a": "First, each seed is a baby plant that can grow into a plant that makes many more seeds. Eaten, it is one mouthful, but planted, it becomes a field. Second, the collection held many kinds of crops from all over the world. If they were lost, farmers might never get them back.",
+     "a": "First, each seed is a baby plant that can grow into a plant that makes many more seeds. Eaten, a seed is one mouthful, but planted, a seed becomes a field. Second, the collection held many kinds of crops from all over the world. If they were lost, farmers might never get them back.",
      "why": "Seeds are both food and the future of food. A seed bank protects many kinds of crops, so that one disease or disaster cannot wipe out a food for ever."
     },
     {
@@ -1795,7 +1795,7 @@
    "title": "Sprouting Moong: do seeds need water to grow?",
    "mins": 30,
    "days": 3,
-   "question": "A dry moong seed holds a baby plant that is resting. Does it need water to start growing? And how much water does it take in?",
+   "question": "A dry moong seed holds a baby plant that is resting. Do they need water to start growing? And how much water does it take in?",
    "predict": "Guess first. Will the seeds on the dry cloth sprout? Will soaked seeds weigh more, less or the same as dry seeds? Why do you think so?",
    "fair_test": "To make it fair, use the same kind of seed, the same number of seeds and the same place. Change only one thing: wet cloth or dry cloth. Count 20 seeds on each, because a few seeds may not sprout at all.",
    "results_table": [
@@ -1885,7 +1885,7 @@
        "The bowl got heavier"
       ],
       "a": 0,
-      "why": "The seeds took in water through their coats and swelled up. Water has weight, so they got heavier. A baby plant needs water before it can start using its stored food. Picking 'grew new seeds' usually means thinking the seeds multiplied. Count them and you will find the same number, just fatter."
+      "why": "The seeds took in water through their coats and swelled up. Water has weight, so they got heavier. A baby plant needs water before they can start using their stored food. Picking 'grew new seeds' usually means thinking the seeds multiplied. Count them and you will find the same number, just fatter."
      },
      "parent": "A typical result is that the moong roughly doubles, from 50 grams to about 100 grams. There will also be less water left in the bowl."
     },
@@ -1928,16 +1928,16 @@
        "Soil"
       ],
       "a": 0,
-      "why": "The only difference between the plates was water, and only the wet seeds sprouted. Picking 'soil' is a very common guess. But neither plate had any soil, and the wet seeds still sprouted. The seed's own packed food feeds it at the start, so it does not need soil yet."
+      "why": "The only difference between the plates was water, and only the wet seeds sprouted. Picking 'soil' is a very common guess. But neither plate had any soil, and the wet seeds still sprouted. The seed's own packed food feeds them at the start, so they do not need soil yet."
      },
      "parent": "Moong sprouts quickly when it is warm. In a cold room, sprouting may take a day longer, so keep both plates in the warmest spot you have, such as on top of the fridge. If the wet cloth dries out, the seeds stop growing, so sprinkle it with water each morning and evening."
     },
     {
      "id": "s5",
      "mins": 4,
-     "do": "Split one sprouted seed gently with a fingernail. Look at the baby plant and its two food halves, with a magnifying glass if you have one.",
-     "say": "Let's look inside. Can you find the baby plant? And the food store it is using?",
-     "kid": "Split one sprout gently. Find the tiny baby plant. Find its two fat halves of food.",
+     "do": "Split one sprouted seed gently with a fingernail. Look at the baby plant and their two food halves, with a magnifying glass if you have one.",
+     "say": "Let's look inside. Can you find the baby plant? And the food store they are using?",
+     "kid": "Split one sprout gently. Find the tiny baby plant. Find their two fat halves of food.",
      "parent": "The two fat halves are called cotyledons, the seed leaves. They hold the stored food. The root and the tiny shoot are the baby plant. Over the next days the halves shrink as the baby plant uses them up."
     },
     {
@@ -1946,7 +1946,7 @@
      "do": "Ask your child to say or write three short sentences: what I think, what I saw, why.",
      "say": "Now tell me three things. What do you think now? What did you see? Why?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: seeds need water to sprout. What I saw: 18 out of 20 wet seeds sprouted, but none of the dry ones did. The soaked seeds got twice as heavy. Why: the seeds took in water, and the water let the baby plant start growing, using its stored food."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: seeds need water to sprout. What I saw: 18 out of 20 wet seeds sprouted, but none of the dry ones did. The soaked seeds got twice as heavy. Why: the seeds took in water, and the water let the baby plant start growing, using their stored food."
     }
    ],
    "context": "This is the sprouting test. You give some moong seeds water and keep others dry, to find out what a dry seed needs to start growing.",
@@ -2031,7 +2031,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Lay the nine food pieces in a row on a steel plate. 2. Ask your child where each one came from. 3. Ask them to guess which have starch.",
-     "say": "Starch is the food a plant packs away for later, mostly in its seeds and its underground parts. Which of these do you think have starch?",
+     "say": "Starch is the food a plant packs away for later, mostly in their seeds and their underground parts. Which of these do you think have starch?",
      "kid": "Look at the nine foods. Where did each one come from? Which ones have starch, do you think?",
      "ask": [
       {
@@ -2101,7 +2101,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: plants store starch in their seeds and underground parts, but animal foods do not have starch. What I saw: rice, chapati, besan and potato turned blue-black, but paneer did not. Why: plants store starch as food for their baby plants, and paneer comes from milk."
     }
    ],
-   "context": "This is the iodine test. A drop of iodine turns blue-black on starch, the food a plant packs into its seeds and roots. You test which foods have it.",
+   "context": "This is the iodine test. A drop of iodine turns blue-black on starch, the food a plant packs into their seeds and roots. You test which foods have it.",
    "setup": [
     {
      "art": "Nine small food pieces in a row on a steel plate: potato, rice, chapati, raw banana, cucumber, paneer, sugar, salt and besan.",
@@ -2169,7 +2169,7 @@
        "Earth"
       ],
       "a": 2,
-      "why": "A mushroom is a fungus. It has no green leaves and cannot make food from sunlight, so it is not a plant. Picking 'plant' is the most common answer, because mushrooms are sold with vegetables. Fungi are their own kind of living thing."
+      "why": "A mushroom is a fungus. They have no green leaves and cannot make food from sunlight, so they are not a plant. Picking 'plant' is the most common answer, because mushrooms are sold with vegetables. Fungi are their own kind of living thing."
      }
     },
     {
@@ -2239,7 +2239,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Show the six spots on the thali. Name each plant part and what it does.",
-     "say": "A plant has six main parts. Roots take in water. Stems hold it up. Leaves make food. Flowers make seeds. Fruits hold seeds. Seeds hold baby plants. We eat all six!",
+     "say": "A plant has six main parts. Roots take in water. Stems hold the plant up. Leaves make food. Flowers make seeds. Fruits hold seeds. Seeds hold baby plants. We eat all six!",
      "kid": "Plants have six parts. Root, stem, leaf, flower, fruit, seed. We eat all of them. Can you find one of each?",
      "context": "This is the first step of the Plant-Part Thali. You find one food from each part of a plant."
     },
@@ -2348,7 +2348,7 @@
        "The fridge"
       ],
       "a": 0,
-      "why": "The cow made the milk from the grass and fodder it ate. The grass made itself from sunlight, air and water. Picking 'the shop' means going forwards instead of backwards. The shop comes after the milk, not before the cow."
+      "why": "The cow made the milk from the grass and fodder she ate. The grass plants made themselves from sunlight, air and water. Picking 'the shop' means going forwards instead of backwards. The shop comes after the milk, not before the cow."
      }
     },
     {
@@ -2716,7 +2716,7 @@
      "say": "Let's measure. And look at the colours. Are they the same green?",
      "kid": "Measure the tallest seedling in each tray. Look at the colours. What do you notice?",
      "wait": "Come back on day 5, then day 7.",
-     "parent": "Usually the dark tray grows taller at first, but pale yellow and thin. The seedlings stretch, searching for light, using up their seed food. The sunny tray grows shorter, sturdy and green, because it is making new food from light.",
+     "parent": "Usually the dark tray grows taller at first, but pale yellow and thin. The seedlings stretch, searching for light, using up their seed food. The sunny tray grows shorter, sturdy and green, because those seedlings are making new food from light.",
      "check": {
       "t": "mcq",
       "q": "The seedlings in the dark cupboard are tall, thin and pale yellow. Why?",
@@ -2726,7 +2726,7 @@
        "They have had more water"
       ],
       "a": 0,
-      "why": "Without light, a seedling cannot make new food. It uses up its stored food, stretching tall to reach light, and it cannot make the green colour it uses to catch light. Picking 'more water' is a fair worry. That is why we gave both trays the same amount, so water could not be the reason."
+      "why": "Without light, a seedling cannot make new food. They use up their stored food, stretching tall to reach light, and they cannot make the green colour they use to catch light. Picking 'more water' is a fair worry. That is why we gave both trays the same amount, so water could not be the reason."
      }
     },
     {
@@ -2866,7 +2866,7 @@
        "Seeds sprout after exactly one week"
       ],
       "a": 0,
-      "why": "A seed holds a resting baby plant. Water starts it growing, just like in the sprouting test. Once it sprouts, it uses up its stored food and can no longer be kept for sowing. Picking 'the dark' is a common mix-up. Seeds can sprout in the dark, because they start on their own stored food."
+      "why": "A seed holds a resting baby plant. Water starts them growing, just like in the sprouting test. Once they sprout, they use up their stored food and can no longer be kept for sowing. Picking 'the dark' is a common mix-up. Seeds can sprout in the dark, because they start on their own stored food."
      },
      "think": "Seed banks keep seeds very dry and very cold, deep inside a frozen mountain. Why both?",
      "parent": "In dry weather, the open seeds may look the same after a week. Then press them: damp seeds feel softer and may smell musty. To copy a monsoon week, sprinkle a few drops of water over the open plate and over the outside of each seed safe every day. A safe that lets damp in will show it."
@@ -2927,7 +2927,7 @@
      "do": "Plan breakfast, lunch and dinner. For each food, write where it comes from.",
      "say": "For each food, ask: will we carry it, grow it, or make it? Where does its energy start?",
      "kid": "Plan three meals. For each food: carry it, grow it, or make it?",
-     "parent": "Here is a real space fact. In 2015, astronauts on the International Space Station ate red lettuce. They had grown it on board, under special lamps. Plants on Mars would need lamps, warmth and water, because Mars is very cold and its soil has harmful salts.",
+     "parent": "Here is a real space fact. In 2015, astronauts on the International Space Station ate red lettuce. They had grown the lettuce on board, under special lamps. Plants on Mars would need lamps, warmth and water, because Mars is very cold and its soil has harmful salts.",
      "check": {
       "t": "mcq",
       "q": "Astronauts grow lettuce under lamps in a space station. Where does the lettuce's energy come from?",
@@ -3084,7 +3084,7 @@
     "Nothing"
    ],
    "a": 0,
-   "why": "A cow makes milk from the grass and fodder it eats. That is why animal food is really plant food that has passed through an animal. Picking 'nothing' means imagining milk just appears inside the cow.",
+   "why": "A cow makes milk from the grass and fodder she eats. That is why animal food is really plant food that has passed through an animal. Picking 'nothing' means imagining milk just appears inside the cow.",
    "outcome": 2
   },
   {
@@ -3109,7 +3109,7 @@
     "Fertiliser"
    ],
    "a": 0,
-   "why": "Plants use sunlight to join carbon dioxide from the air with water. Picking 'soil' is the old idea that van Helmont tested. His tree grew huge, but the soil in its pot hardly changed.",
+   "why": "Plants use sunlight to join carbon dioxide from the air with water. Picking 'soil' is the old idea that van Helmont tested. His tree grew huge, but the soil in their pot hardly changed.",
    "outcome": 3
   },
   {
@@ -3306,7 +3306,7 @@
  "jokes": [
   {
    "j": "Why did the tomato blush?",
-   "a": "It found out it was a fruit all along."
+   "a": "They found out they were a fruit all along."
   },
   {
    "j": "What did the moong say to the water?",
@@ -3333,7 +3333,7 @@
    "a": "Thanks for lunch. I'll pass it on."
   },
   {
-   "j": "Why did the seed keep its lunchbox closed?",
+   "j": "Why did the seed keep their lunchbox closed?",
    "a": "It was saving it for when it grows up."
   },
   {
@@ -3358,7 +3358,7 @@
   },
   {
    "j": "Why did the cauliflower get a prize?",
-   "a": "It was the best flower in the vegetable shop."
+   "a": "They were the best flower in the vegetable shop."
   },
   {
    "j": "What did the idli batter say in the morning?",
@@ -3649,7 +3649,7 @@
   },
   {
    "q": "Is a mushroom a plant?",
-   "a": "No. It is a fungus."
+   "a": "No. They are a fungus."
   },
   {
    "q": "Name a food that was never alive.",
@@ -3665,7 +3665,7 @@
   },
   {
    "q": "What is inside a seed?",
-   "a": "A baby plant and its store of food."
+   "a": "A baby plant and their store of food."
   },
   {
    "q": "Which came to India from the Americas: chilli or black pepper?",
@@ -3771,10 +3771,10 @@
   },
   "three": {
    "who_am_i": "You are built out of what you ate: rice, dal, milk and fruit, rebuilt into you.",
-   "what_is_life": "Living things make food and pass it on. A plant stores food in its seed, a cow turns grass into milk, and your body turns both into you.",
+   "what_is_life": "Living things make food and pass it on. A plant stores food in their seed, a cow turns grass into milk, and your body turns both into you.",
    "what_is_this_world": "In this world, grass stores the Sun's energy, a cow turns the grass into milk, and the milk helps build a child who can wonder about it all."
   },
-  "thread": "Most food starts as sunlight caught by a leaf. A wheat plant uses that energy to build its grain. A cow uses grass to build milk, and curd bacteria use milk to build more bacteria. Your body uses all of these to build you. Each living thing takes what another made and builds itself from it, so every meal links many lives into one chain.",
+  "thread": "Most food starts as sunlight caught by a leaf. A wheat plant uses that energy to build their grain. A cow uses grass to build milk, and curd bacteria use milk to build more bacteria. Your body uses all of these to build you. Each living thing takes what another made and builds themself from it, so every meal links many lives into one chain.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad 3.2.1 and 3.10.6 (the Bhrigu Valli)",

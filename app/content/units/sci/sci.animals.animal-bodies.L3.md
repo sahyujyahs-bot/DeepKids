@@ -1,9 +1,9 @@
 # How animals breathe and find their food
 `sci.animals.animal-bodies.L3`
 
-**Summary.** A rohu fish spends its whole life under water, yet it breathes all day. Almost every animal needs oxygen, a gas found in air and dissolved in water, because its cells use it to get energy from food. Animals take oxygen in with lungs, gills, damp skin or tiny air pipes, and they breathe out carbon dioxide made from their food. To find that food, they use their senses, including some we do not have, like a bat's echolocation. Scientists still argue about how lungs first appeared, and why earthworms crawl out after rain.
+**Summary.** A rohu fish spends a whole life under water, yet breathes all day. Almost every animal needs oxygen, a gas found in air and dissolved in water, because their cells use it to get energy from food. Animals take oxygen in with lungs, gills, damp skin or tiny air pipes, and they breathe out carbon dioxide made from their food. To find that food, they use their senses, including some we do not have, like a bat's echolocation. Scientists still argue about how lungs first appeared, and why earthworms crawl out after rain.
 
-**Intro.** *Try this. Hold a steel tumbler close to your mouth and breathe out on it slowly, three times. What appears on the steel? Your breath carries something out of your body. A fish breathes too, but under water. How does it do that?* In summer, when village ponds in Bengal and Assam dry up, people sometimes dig in the damp mud and find fish still alive. One of them, the climbing perch, can live out of water for hours if it stays damp. It can even wriggle across wet grass to the next pond. It can do this because it breathes air as well as water. How does a fish breathe air? And how does any animal, in water, mud or sky, get the oxygen and the food it needs?
+**Intro.** *Try this. Hold a steel tumbler close to your mouth and breathe out on it slowly, three times. What appears on the steel? Your breath carries something out of your body. A fish breathes too, but under water. How does a fish do that?* In summer, when village ponds in Bengal and Assam dry up, people sometimes dig in the damp mud and find fish still alive. One of them, the climbing perch, can live out of water for hours if they stay damp. They can even wriggle across wet grass to the next pond. They can do this because they breathe air as well as water. How does a fish breathe air? And how does any animal, in water, mud or sky, get the oxygen and the food they need?
 
 ## Learning outcomes
 0. I can say why animals need oxygen: almost every cell in their bodies uses oxygen to get energy from food.
@@ -23,14 +23,14 @@
 - **Cell**: The tiny living unit that bodies are built from. Your body has many millions of millions of cells. *e.g.* Your skin, blood and muscles are all made of cells.
 - **Lungs**: Two soft, spongy bags inside the chest. Air goes in and out of them. Oxygen passes from the lungs into the blood. *e.g.* People, dogs, crows, snakes and dolphins all have lungs.
 - **Air sacs (alveoli)**: Millions of tiny bubbles at the ends of the branches inside the lungs. Their walls are thinner than tissue paper. Oxygen passes through them into the blood. *e.g.* Your two lungs hold about 480 million air sacs, like a huge bunch of tiny grapes.
-- **Gills**: Feathery red parts on each side of a fish's head. Water flows over them, and they take oxygen out of the water. *e.g.* At a fish market, sellers lift the flap on a fish's head to show its bright red gills.
-- **Gill cover**: The hard flap that covers a fish's gills. It opens and closes as water flows out. *e.g.* Watch a goldfish closely. The flaps behind its eyes open and shut all the time.
-- **Skin breathing**: Taking in oxygen straight through the skin. It only works if the skin is thin and kept damp. *e.g.* An earthworm has no lungs and no gills. It breathes only through its damp skin.
+- **Gills**: Feathery red parts on each side of a fish's head. Water flows over them, and they take oxygen out of the water. *e.g.* At a fish market, sellers lift the flap on a fish's head to show the bright red gills.
+- **Gill cover**: The hard flap that covers a fish's gills. It opens and closes as water flows out. *e.g.* Watch a goldfish closely. The flaps behind their eyes open and shut all the time.
+- **Skin breathing**: Taking in oxygen straight through the skin. It only works if the skin is thin and kept damp. *e.g.* An earthworm has no lungs and no gills. They breathe only through their damp skin.
 - **Spiracles**: Tiny holes along the sides of an insect's body. Air goes in through them, into thin pipes that reach every part of the insect. *e.g.* A grasshopper has a row of spiracles along each side.
-- **Blowhole**: The nostril on top of the head of a dolphin or a whale. The animal breathes air through it when it comes up to the surface. *e.g.* The Ganges river dolphin comes up to breathe through its blowhole every minute or two.
+- **Blowhole**: The nostril on top of the head of a dolphin or a whale. The animal breathes air through it when they come up to the surface. *e.g.* The Ganges river dolphin comes up to breathe through their blowhole every minute or two.
 - **Senses**: The ways a body learns about the world: seeing, hearing, smelling, tasting and touching. Some animals have extra senses that people do not have. *e.g.* A dog finds a hidden biscuit by smell.
 - **Echolocation**: Finding things by sending out sounds and listening for the echoes that bounce back. *e.g.* Bats and dolphins find insects and fish in the dark this way.
-- **Predator**: An animal that hunts and eats other animals. *e.g.* A kingfisher is a predator. It dives to catch small fish.
+- **Predator**: An animal that hunts and eats other animals. *e.g.* A kingfisher is a predator. They dive to catch small fish.
 - **Prey**: An animal that is hunted and eaten by another animal. *e.g.* A small fish is the kingfisher's prey.
 - **Filter feeder**: An animal that sieves tiny bits of food out of water. *e.g.* Flamingos sieve tiny shrimps and algae out of lake water with their beaks.
 - **Scavenger**: An animal that eats the bodies of animals that have already died. *e.g.* Vultures and crows are scavengers. They clean up dead animals.
@@ -58,28 +58,28 @@ Oxygen can only get into the body by passing through a thin, wet wall. On the ot
 
 Air goes in through your nose or mouth and down a pipe called the windpipe. The windpipe splits into two, one branch for each lung. Each branch splits again and again, like the branches of a banyan tree. At the very tips are tiny air sacs. Oxygen passes through their thin walls into the blood. Carbon dioxide passes the other way, out of the blood into the air sacs. Then you breathe it out. Your lungs cannot move by themselves. The diaphragm, a dome of muscle under them, pulls down and makes space. Air rushes in to fill it. Breathed-out air still has some oxygen in it, but less than room air, and much more carbon dioxide.
 - e.g. People, cows, crows, snakes, tortoises and dolphins all breathe with lungs.
-- e.g. A dolphin's lungs fill through a blowhole on top of its head.
+- e.g. A dolphin's lungs fill through a blowhole on top of their head.
 - e.g. Room air is about 21 parts in 100 oxygen. Breathed-out air is about 16 parts in 100. Room air has only a tiny bit of carbon dioxide. Breathed-out air has about 100 times as much.
 ### How gills work · *defined*
-**Definition:** Gills take oxygen out of water. A fish gulps water in through its mouth. The water flows over the gills and out under the gill covers.
+**Definition:** Gills take oxygen out of water. A fish gulps water in through their mouth. The water flows over the gills and out under the gill covers.
 
-Water holds far less oxygen than air, about thirty times less in the same space. So a fish must be very good at catching it. Its gills are rows of thin red threads, each covered in even thinner folds. Blood flows through them the opposite way to the water. Because of this, the blood keeps meeting water that has more oxygen than it has. So a fish can take most of the oxygen out of the water that passes over it. Out of water, the soft gill threads stick together, like a wet paintbrush pulled out of a jar. Then there is too little surface, and the fish cannot breathe. That is why most fish die in air, even though air has more oxygen than water.
+Water holds far less oxygen than air, about thirty times less in the same space. So a fish must be very good at catching it. Their gills are rows of thin red threads, each covered in even thinner folds. Blood flows through them the opposite way to the water. Because of this, the blood keeps meeting water that has more oxygen than it has. So a fish can take most of the oxygen out of the water that passes over it. Out of water, the soft gill threads stick together, like a wet paintbrush pulled out of a jar. Then there is too little surface, and the fish cannot breathe. That is why most fish die in air, even though air has more oxygen than water.
 - e.g. Rohu, catla and goldfish breathe with gills.
 - e.g. Tadpoles breathe with gills. Most grow lungs when they become frogs.
 - e.g. Crabs and prawns breathe with gills too, tucked under their hard shells.
 ### Breathing through skin · *defined*
 **Definition:** Some animals take in oxygen straight through their skin. Their skin must be thin and kept damp, or the oxygen cannot pass through.
 
-An earthworm has no lungs and no gills. Oxygen from the air between soil crumbs passes straight through its moist skin into its blood. If an earthworm dries out in the sun, it can no longer breathe. Frogs have lungs, but they also breathe through their skin. A frog resting underwater in a pond in winter can get all the oxygen it needs through its skin. Some salamanders, a group of animals related to frogs, have no lungs at all. In 2008 scientists found the first frog known to have no lungs. It lives in cold, fast streams in Borneo. Fast, cold water holds plenty of oxygen, so its skin is enough.
-- e.g. An earthworm breathes only through its skin.
-- e.g. A frog breathes with lungs and with its skin.
+An earthworm has no lungs and no gills. Oxygen from the air between soil crumbs passes straight through their moist skin into their blood. If an earthworm dries out in the sun, they can no longer breathe. Frogs have lungs, but they also breathe through their skin. A frog resting underwater in a pond in winter can get all the oxygen they need through their skin. Some salamanders, a group of animals related to frogs, have no lungs at all. In 2008 scientists found the first frog known to have no lungs. This frog lives in cold, fast streams in Borneo. Fast, cold water holds plenty of oxygen, so their skin is enough.
+- e.g. An earthworm breathes only through their skin.
+- e.g. A frog breathes with lungs and with their skin.
 - e.g. Mudskippers, the fish that hop on the mud in Indian mangroves, take in oxygen through their skin and the inside of their mouths.
 ### Other clever ways to breathe · *defined*
 **Definition:** Insects breathe through holes in their sides called spiracles, and air pipes that reach every part of the body. Some fish can breathe air as well as water.
 
-An insect has no lungs. Air goes in through small holes along its sides. It travels down thin pipes that branch again and again until they reach every tiny part of the body. So in an insect, air goes straight to the cells. Some fish live in warm, muddy ponds where the water has little oxygen. The climbing perch, called koi in Bengali, has an extra breathing part above its gills, folded like a maze. It is called the labyrinth organ. The fish gulps air at the surface, and the labyrinth organ takes oxygen from it. So it can stay alive out of water for hours, if it stays damp. The magur and singhi catfish sold alive in Indian markets can also breathe air. That is why they stay alive in a bucket with very little water.
-- e.g. A grasshopper breathes through spiracles along its sides.
-- e.g. A young mosquito, called a larva, lives in water. It breathes air through a tiny tube that it pokes up through the surface.
+An insect has no lungs. Air goes in through small holes along their sides. It travels down thin pipes that branch again and again until they reach every tiny part of the body. So in an insect, air goes straight to the cells. Some fish live in warm, muddy ponds where the water has little oxygen. The climbing perch, called koi in Bengali, has an extra breathing part above their gills, folded like a maze. It is called the labyrinth organ. The fish gulps air at the surface, and the labyrinth organ takes oxygen from it. So they can stay alive out of water for hours, if they stay damp. The magur and singhi catfish sold alive in Indian markets can also breathe air. That is why they stay alive in a bucket with very little water.
+- e.g. A grasshopper breathes through spiracles along their sides.
+- e.g. A young mosquito, called a larva, lives in water. They breathe air through a tiny tube that they poke up through the surface.
 - e.g. The climbing perch can wriggle across wet grass from one pond to another.
 ### Holding breath and thin air · *defined*
 **Definition:** Animals that breathe air but hunt underwater must hold their breath. Animals that fly very high must get oxygen from thin air.
@@ -91,26 +91,26 @@ Dolphins, whales, turtles and otters breathe with lungs, so they must come up fo
 ### How animals find food: their senses · *defined*
 **Definition:** Animals find food with their senses. Different animals rely on different senses, depending on where and how they live.
 
-A dog finds food mostly by smell. Its nose has many times more smell cells than yours. An eagle finds food mostly by sight, spotting a mouse from high in the sky. An owl can catch a mouse in the dark just by hearing its rustle. A cat's whiskers feel tiny movements of air, which helps it in the dark. Some animals have senses we do not have at all. Bats and Ganges river dolphins send out clicks and listen to the echoes. Sharks feel the tiny electricity made by the muscles of hidden fish. Pit vipers, like the Malabar pit viper of the Western Ghats, have pits on their faces that sense the warmth of a mouse in the dark.
+A dog finds food mostly by smell. Their nose has many times more smell cells than yours. An eagle finds food mostly by sight, spotting a mouse from high in the sky. An owl can catch a mouse in the dark just by hearing the mouse rustle. A cat's whiskers feel tiny movements of air, which helps them in the dark. Some animals have senses we do not have at all. Bats and Ganges river dolphins send out clicks and listen to the echoes. Sharks feel the tiny electricity made by the muscles of hidden fish. Pit vipers, like the Malabar pit viper of the Western Ghats, have pits on their faces that sense the warmth of a mouse in the dark.
 - e.g. Ants find food by smell, and leave a smell trail for other ants to follow.
 - e.g. A mosquito finds you by the carbon dioxide you breathe out, and by your warmth.
 - e.g. A honeybee sees colours on flowers that we cannot see.
 ### Ways animals get their food · *defined*
 **Definition:** Animals get food in many different ways. Some graze, some hunt, some wait, some sieve, some build traps and some clean up the dead.
 
-A cow grazes. It walks slowly and eats grass for hours. A cheetah hunts. It chases its prey at great speed. A crocodile waits. It lies still in the river until an animal comes close. A flamingo filters. It sieves tiny shrimps and algae out of lake water. A spider builds a trap. Its sticky web catches flying insects. A vulture scavenges. It eats animals that have already died, and so cleans up the land. Each way of eating goes with a body that fits it. A cow has flat teeth for grinding. A cheetah has long legs and a flexible back for running fast. A flamingo has a beak that works like a sieve.
-- e.g. A sunbird sips nectar from flowers with its long, thin, curved beak.
+A cow grazes. She walks slowly and eats grass for hours. A cheetah hunts. They chase their prey at great speed. A crocodile waits. They lie still in the river until an animal comes close. A flamingo filters. They sieve tiny shrimps and algae out of lake water. A spider builds a trap. Their sticky web catches flying insects. A vulture scavenges. They eat animals that have already died, and so cleans up the land. Each way of eating goes with a body that fits it. A cow has flat teeth for grinding. A cheetah has long legs and a flexible back for running fast. A flamingo has a beak that works like a sieve.
+- e.g. A sunbird sips nectar from flowers with their long, thin, curved beak.
 - e.g. A whale shark, the biggest fish, filters tiny food out of seawater.
 - e.g. An antlion digs a pit in dry sand and waits at the bottom for ants to fall in.
 ### Smell may be the oldest sense · *idea*
-Long before there were eyes or ears, the first living things were single cells living in water. Even today, a bacterium senses sugar in the water around it and decides to swim towards it. It also swims away from harmful chemicals. Sensing chemicals is a kind of smelling and tasting. So many scientists think that sensing chemicals is the oldest way of finding food. Smell and taste may be the oldest senses of all. There is a lot of evidence for this, but nobody was there to watch, so we call it an idea.
+Long before there were eyes or ears, the first living things were single cells living in water. Even today, a bacterium senses sugar in the water around them and decides to swim towards it. They also swim away from harmful chemicals. Sensing chemicals is a kind of smelling and tasting. So many scientists think that sensing chemicals is the oldest way of finding food. Smell and taste may be the oldest senses of all. There is a lot of evidence for this, but nobody was there to watch, so we call it an idea.
 - e.g. Under a microscope, bacteria swim towards a drop of sugar.
 - e.g. A tiny single-celled creature in pond water turns towards food.
 - e.g. Ants and termites still use smell to find food and talk to each other.
 ### Where did lungs come from? · *debated*
 Long ago, all animals with backbones lived in water and breathed with gills. Some fish lived in warm, muddy swamps with little oxygen. They began to gulp air into a pouch in their throats. Over a very long time, these pouches became lungs. Many fish today have a gas bag instead, called a swim bladder, which helps them float. Which came first, the lung or the swim bladder? Scientists have argued about this.
 - e.g. Lungfish, which still live in Africa, South America and Australia, have lungs and gills.
-- e.g. A goldfish has a swim bladder. It helps it float without sinking or rising.
+- e.g. A goldfish has a swim bladder. It helps them float without sinking or rising.
 - e.g. Bichirs, an old kind of African fish, have simple lungs.
 - **Charles Darwin, in his book On the Origin of Species (1859):** Darwin thought the swim bladder of fish came first, and slowly changed into the lungs of land animals.
 - **Many biologists today:** Studies of old kinds of fish, like bichirs and lungfish, and of fossils, suggest the opposite. Lungs came first, in early fish. Later, in many fish, the lung changed into a swim bladder for floating. Most scientists now lean this way, but the details are still being studied.
@@ -130,16 +130,16 @@ After heavy rain, you often see earthworms lying on paths and roads. Earthworms 
 - Animals breathe faster when they are active, because their muscles use more oxygen. *How we know:* Count anyone's breaths before and after running, and you get the same pattern. Doctors use this in fitness tests.
 - Animals find food with their senses, and different animals rely on different senses. *How we know:* Experiments show that bats with their ears blocked crash into things, while dogs can follow a smell trail that is days old.
 - The oxygen in air was made by living things: plants on land and tiny algae in the sea. *How we know:* Ancient rocks show that there was almost no oxygen in the air until tiny living things in the sea, called cyanobacteria, began to make it, more than two billion years ago.
-- Much of the food an animal eats leaves its body as carbon dioxide in its breath. *How we know:* Cells break food down with oxygen, and the carbon in the food comes out as carbon dioxide. In 2014, Ruben Meerman and Andrew Brown worked out that most of the fat a person loses leaves through the lungs as carbon dioxide.
+- Much of the food an animal eats leaves their body as carbon dioxide in their breath. *How we know:* Cells break food down with oxygen, and the carbon in the food comes out as carbon dioxide. In 2014, Ruben Meerman and Andrew Brown worked out that most of the fat a person loses leaves through the lungs as carbon dioxide.
 
 ## How we found out
-**Joseph Black, Antoine Lavoisier, Pierre-Simon Laplace and Marie-Anne Paulze Lavoisier, 1750s (Black's fixed air), 1783 (the guinea pig in ice), about 1790 (Marie-Anne Lavoisier's drawings of breathing experiments).** For about 2,000 years, many people followed the Greek thinker Aristotle, and later the doctor Galen. They taught that we breathe mainly to cool the heat of the heart. In the 1750s, the Scottish chemist Joseph Black found a gas he called 'fixed air'. It turned limewater milky. He found that breath turns limewater milky too, so breath carries fixed air. Today we call it carbon dioxide. In the 1770s and 1780s, the French chemist Antoine Lavoisier worked out what breathing does. With Pierre-Simon Laplace, he put a guinea pig in a box packed with ice. The animal's warmth melted the ice, and it breathed out carbon dioxide, like a slowly burning candle. So, Lavoisier said, breathing feeds a slow burning inside the body, which uses oxygen from the air. Marie-Anne Paulze Lavoisier worked beside him. She kept the lab notes, translated science from English, and drew the experiments on people breathing into masks. Breathing does not cool the heart. It brings in oxygen to use food, and carries the carbon dioxide away.  
+**Joseph Black, Antoine Lavoisier, Pierre-Simon Laplace and Marie-Anne Paulze Lavoisier, 1750s (Black's fixed air), 1783 (the guinea pig in ice), about 1790 (Marie-Anne Lavoisier's drawings of breathing experiments).** For about 2,000 years, many people followed the Greek thinker Aristotle, and later the doctor Galen. They taught that we breathe mainly to cool the heat of the heart. In the 1750s, the Scottish chemist Joseph Black found a gas he called 'fixed air'. It turned limewater milky. He found that breath turns limewater milky too, so breath carries fixed air. Today we call it carbon dioxide. In the 1770s and 1780s, the French chemist Antoine Lavoisier worked out what breathing does. With Pierre-Simon Laplace, he put a guinea pig in a box packed with ice. The animal's warmth melted the ice, and they breathed out carbon dioxide, like a slowly burning candle. So, Lavoisier said, breathing feeds a slow burning inside the body, which uses oxygen from the air. Marie-Anne Paulze Lavoisier worked beside him. She kept the lab notes, translated science from English, and drew the experiments on people breathing into masks. Breathing does not cool the heart. It brings in oxygen to use food, and carries the carbon dioxide away.  
 *What people believed before:* Aristotle and Galen taught that breathing is mainly for cooling the heart. Black showed that breath carries carbon dioxide, and Lavoisier showed that an animal uses oxygen and makes carbon dioxide and heat, like a slow fire.
 
 ## Challenging perspectives
 - **Fish do not breathe.** (A common idea among young children, and some adults; *rejected*)  
   For: Fish never come up for air, and we cannot see them breathing.  
-  Against: Fish breathe all the time. Watch a fish in a tank. Its mouth and gill covers open and shut, pumping water over the gills. The gills take oxygen out of the water.
+  Against: Fish breathe all the time. Watch a fish in a tank. Their mouth and gill covers open and shut, pumping water over the gills. The gills take oxygen out of the water.
 - **We breathe in oxygen and breathe out only carbon dioxide.** (A common way of saying it, even in some books; *rejected*)  
   For: It is a simple way to remember breathing.  
   Against: Breathed-out air still has plenty of oxygen, about 16 parts in 100, compared with 21 parts in room air. That is why rescue breathing, when a person breathes into someone who has stopped breathing, can work. Breathed-out air is mostly nitrogen, just like room air. It has a little less oxygen, about 100 times more carbon dioxide, and more water.
@@ -150,8 +150,8 @@ After heavy rain, you often see earthworms lying on paths and roads. Earthworms 
   For: They live in water and have fish-like shapes.  
   Against: Whales and dolphins breathe air with lungs, through a blowhole. They would drown if they could not reach the surface. Their babies drink milk. Living in water is not the same as breathing water.
 - **The climbing perch climbs trees.** (Lieutenant Daldorff, a Danish officer at Tranquebar in Tamil Nadu, who wrote in the 1790s that he saw one high in a palm tree; *minority*)  
-  For: The fish can breathe air and wriggle across land, using the spines on its gill covers. Its scientific name, Anabas, means 'climbing up'.  
-  Against: Nobody has reliably seen one climb a tree since. Many scientists think birds like kites and crows caught the fish, carried them to trees and dropped them. Because the fish breathes air, it could still be alive up there, which made it look like a climber.
+  For: The fish can breathe air and wriggle across land, using the spines on their gill covers. Their scientific name, Anabas, means 'climbing up'.  
+  Against: Nobody has reliably seen one climb a tree since. Many scientists think birds like kites and crows caught the fish, carried them to trees and dropped them. Because the fish breathes air, they could still be alive up there, which made them look like a climber.
 - **The tiny parts that use oxygen inside your cells were once free-living bacteria.** (Lynn Margulis, an American biologist, in 1967. Her paper was turned down by many journals before it was published.; *accepted*)  
   For: These tiny parts, called mitochondria, use oxygen just as some bacteria do. They even have their own little bit of DNA, like bacteria.  
   Against: At first, most biologists thought the idea was strange and unlikely. But DNA tests later showed that mitochondria really did come from bacteria that moved into bigger cells long ago.
@@ -164,7 +164,7 @@ We have seen what is in our breath, and how animals breathe and find food. Now w
 *Evidence:* In the limewater test, the glass with your breath turned milky within a minute, and the glass with room air stayed almost clear. Breathed-out air has about 100 times as much carbon dioxide as room air. In 2014, two scientists worked out that most of the fat a person loses leaves through the lungs, as carbon dioxide.
 
 - *who am i:* You are millions of millions of cells, and almost every one uses oxygen to get energy from food. The tiny parts that do this were once free-living bacteria.
-- *what is life:* To stay alive, an animal must keep finding food and keep breathing, because its cells use both all the time.
+- *what is life:* To stay alive, an animal must keep finding food and keep breathing, because their cells use both all the time.
 - *what is this world:* Plants use sunlight to make food and oxygen from carbon dioxide and water. Animals use that food and oxygen, and give the carbon dioxide back.
 
 Plants use the Sun's light to join carbon dioxide and water into food, and they give out oxygen. Animals find that food with their senses, and take in that oxygen with lungs, gills or skin. Their cells join the two again, take out the energy, and breathe out carbon dioxide and water. Plants take those back in and use them again. So one circle of the same carbon, water and oxygen runs through every plant and animal, driven by the Sun.
@@ -177,10 +177,10 @@ Plants use the Sun's light to join carbon dioxide and water into food, and they 
 - Practice, Breath and the meal (3 min): Let's sit tall and close our eyes. Hold your hand in front of your mouth. Breathe out slowly, and feel the warm air on your palm. Now think of what you ate today. Rice, idli, sambar, fruit. Your cells are using it right now. Part of it is in the breath on your hand. Breathe in for four counts. Breathe out for six. Let's do five breaths together. Now open your eyes. Where will that breath go next?
 - Ask: If part of your lunch leaves in your breath, when did the food stop being food and start being you?
 - Ask: A plant may take in the carbon dioxide you breathe out today. Is part of that plant then made from your lunch?
-- Ask: An earthworm has no lungs, but its cells use oxygen just like yours. What does it really mean to breathe?
+- Ask: An earthworm has no lungs, but their cells use oxygen just like yours. What does it really mean to breathe?
 
 ## Deep and big questions
-- *deep:* If a fish has gills that take oxygen from water, why does it die in air, which has much more oxygen? (hint: Think of a wet paintbrush taken out of water. What happens to its soft hairs?)
+- *deep:* If a fish has gills that take oxygen from water, why does the fish die in air, which has much more oxygen? (hint: Think of a wet paintbrush taken out of water. What happens to its soft hairs?)
 - *deep:* Where was the oxygen in your last breath a week ago? (hint: Who puts oxygen into the air? Think of trees, grass and the green algae in ponds and seas.)
 - *deep:* If almost every cell in you uses oxygen, which part of you is really doing the breathing: your nose, your lungs or your cells? (hint: Your nose and lungs are like doors. Where does the oxygen finally go?)
 - *big:* A dog smells a world we cannot smell. A bat hears echoes we cannot hear. Is the world we see the whole world? (hint: Think of all the senses other animals have that we do not.)
@@ -189,7 +189,7 @@ Plants use the Sun's light to join carbon dioxide and water into food, and they 
 - *deep:* Why does breathing slowly make you feel calm? (hint: Try it. Breathe in for four counts, out for six. What changes in your body?)
 - *deep:* Could an animal live on a planet with no oxygen at all? (hint: In 2020, scientists found a tiny animal that lives inside fish muscle and does not use oxygen at all. Some bacteria on Earth also live with no oxygen. How might they get energy?)
 - *deep:* Why did different animals end up with lungs, gills or breathing skin, instead of all having the same? (hint: Think about where each one lives: dry land, water or damp soil.)
-- *big:* Should people keep fish in small bowls, or birds in cages? (hint: What does a fish need to breathe well? What does a bird need to find its food?)
+- *big:* Should people keep fish in small bowls, or birds in cages? (hint: What does a fish need to breathe well? What does a bird need to find their food?)
 
 ## Story: The Fish in the Palm Tree
 *Tranquebar (now Tharangambadi, in Tamil Nadu) was a Danish trading town. A Danish officer, Lieutenant Daldorff, really did report in the 1790s that he saw a climbing perch high on a palm there, and his report was published in London in 1797. Selvi, her grandmother, the kite and everything the officer says and does in the story are imagined. The science of how the fish breathes is real.*
@@ -216,39 +216,39 @@ That was the summer the Danish officer came walking through the palms.
 
 He was a tall man with a red face and a notebook. The children called him the leaf man, because he picked up leaves, beetles, shells and stones, and wrote about every one. The grown-ups said he was a lieutenant at the fort. He spoke a little Tamil, badly and politely. Mostly he pointed.
 
-One afternoon, after the first thunderstorm of the year, Selvi was sitting under the palmyra palms near the tank. The air smelled of wet dust. Above her, a black kite was circling. It dipped low over the puddles in the tank, came up with something silver in its claws, and flapped heavily to the top of the nearest palm. There it sat, tearing at its catch. Then a crow came. The kite and the crow screamed at each other. Something fell out of the kite's claws and tumbled down into the rough, cracked bark of the trunk.
+One afternoon, after the first thunderstorm of the year, Selvi was sitting under the palmyra palms near the tank. The air smelled of wet dust. Above her, a black kite was circling. They dipped low over the puddles in the tank, came up with something silver in their claws, and flapped heavily to the top of the nearest palm. There they sat, tearing at their catch. Then a crow came. The kite and the crow screamed at each other. Something fell out of the kite's claws and tumbled down into the rough, cracked bark of the trunk.
 
 Selvi stood up to look. Just then the leaf man came round the corner.
 
-He saw it at once. A fish, wriggling in a cleft of the palm bark, as high as a man's shoulder. Its spiny gill covers were hooked into the bark. Its tail was flicking. It looked exactly as though it was climbing up.
+He saw them at once. A fish, wriggling in a cleft of the palm bark, as high as a man's shoulder. Their spiny gill covers were hooked into the bark. Their tail was flicking. They looked exactly as though they were climbing up.
 
-The leaf man made a sound Selvi had never heard a grown man make. It was half a gasp and half a laugh. He took out his notebook. He looked at the fish, then wrote, then looked again. He measured the height with his hand. 'Climbing!' he said in his own language, and then in Tamil, 'It goes up! The fish goes up the tree!'
+The leaf man made a sound Selvi had never heard a grown man make. It was half a gasp and half a laugh. He took out his notebook. He looked at the fish, then wrote, then looked again. He measured the height with his hand. 'Climbing!' he said in his own language, and then in Tamil, 'They go up! The fish goes up the tree!'
 
 Selvi opened her mouth to tell him about the kite. But he was talking fast, to himself, and he did not look at her.
 
-He lifted the fish carefully from the bark. He looked worried now. He held it out in the bright, dry air and shook his head. 'It will die,' he said. 'No water. It will die.' He reached into his bag for a glass jar, the kind he kept beetles in, full of strong-smelling spirit. That was what he did with things he found. He kept them dead and still, so he could study them later.
+He lifted the fish carefully from the bark. He looked worried now. He held the fish out in the bright, dry air and shook his head. 'They will die,' he said. 'No water. They will die.' He reached into his bag for a glass jar, the kind he kept beetles in, full of strong-smelling spirit. That was what he did with things he found. He kept them dead and still, so he could study them later.
 
 And Selvi understood, all at once, what Paati had been telling her all summer.
 
 'No,' she said. 'Wait.' She ran to her house and came back with the clay pot, the one with wet mud and wet leaves at the bottom. She held it out. He looked at her, then at the pot. Then, slowly, he put the fish in.
 
-Selvi sprinkled water from her hands over the leaves. She did not fill the pot. The fish lay still, then wriggled down into the wet leaves. Then it came up and opened its mouth at the top of the pot, and took a gulp of air. Click. Then another.
+Selvi sprinkled water from her hands over the leaves. She did not fill the pot. The fish lay still, then wriggled down into the wet leaves. Then they came up and opened their mouth at the top of the pot, and took a gulp of air. Click. Then another.
 
 The leaf man knelt down in the dust. He put his ear to the pot, the way Selvi had done.
 
-'It breathes the air,' Selvi said in Tamil, slowly, so he would understand. 'Not only water. Keep it damp, and it lives. Paati finds them in the dry tank every day.'
+'They breathe the air,' Selvi said in Tamil, slowly, so he would understand. 'Not only water. Keep them damp, and they live. Paati finds them in the dry tank every day.'
 
 He listened for a long time. Then he looked up at the top of the palm, where the kite had gone. Selvi pointed at the sky, flapped her arms like a kite, opened her fingers and let an invisible fish drop. He watched her. She could not tell if he believed her.
 
-He kept the fish alive in the pot for six days. Every evening Selvi came to sprinkle it, and every evening it gulped its little gulps of air. He drew it many times. He wrote pages and pages. Then the rains came properly, and the tank began to fill, and Selvi carried the pot down the stone steps and tipped the fish into the brown water.
+He kept the fish alive in the pot for six days. Every evening Selvi came to sprinkle them, and every evening they gulped their little gulps of air. He drew them many times. He wrote pages and pages. Then the rains came properly, and the tank began to fill, and Selvi carried the pot down the stone steps and tipped the fish into the brown water.
 
-It sank. Then it rose. At the surface, it took one more bubble of air, and was gone.
+They sank. Then they rose. At the surface, they took one more bubble of air, and was gone.
 
 Years later, Selvi heard that the leaf man had sent his writing across the sea, to scientists in London. Later still, a scientist in France gave the fish the name Anabas, which means the one that climbs. Nobody wrote down a girl, a pot of wet mud, or a kite.
 
 Selvi did not mind very much. On summer evenings, she still went down the steps of the dry tank with a digging stick, and knelt, and tapped, and listened for the click.
 
-**For the parent:** The climbing perch was alive in the palm tree because it breathes air as well as water. As long as its body stays damp, it can live out of water for hours. So the fish did not have to climb to get up there. A bird could have dropped it, and it would still be alive.
+**For the parent:** The climbing perch was alive in the palm tree because they breathe air as well as water. As long as their body stays damp, they can live out of water for hours. So the fish did not have to climb to get up there. A bird could have dropped them, and they would still be alive.
 
 - Ask: Why did Paati keep the fish in wet mud and wet leaves, and not in a pot full of water?
 - Ask: The leaf man thought the fish would die in air. Why do most fish die in air?
@@ -257,10 +257,10 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 
 ## Games
 ### g1 · Lungs, Gills or Skin? (20 min)
-- **rules:** Cut out the animal cards and the bonus cards. Shuffle the animal cards and put them face down.; Lay the four breathing mats in a row: LUNGS, GILLS, SKIN and AIR PIPES.; On your turn, take the top card and read the animal's name.; Put it on the mat that shows how it breathes, and say one reason. Some animals use two ways. Then put the card between two mats.; A right mat with a good reason wins one breath token. If someone thinks it is wrong, check the answer list together.; After every fifth card, turn over a bonus card. The first player to act out how that animal finds food wins two tokens.; When the cards run out, the player with the most tokens wins.
+- **rules:** Cut out the animal cards and the bonus cards. Shuffle the animal cards and put them face down.; Lay the four breathing mats in a row: LUNGS, GILLS, SKIN and AIR PIPES.; On your turn, take the top card and read the animal's name.; Put it on the mat that shows how they breathe, and say one reason. Some animals use two ways. Then put the card between two mats.; A right mat with a good reason wins one breath token. If someone thinks it is wrong, check the answer list together.; After every fifth card, turn over a bonus card. The first player to act out how that animal finds food wins two tokens.; When the cards run out, the player with the most tokens wins.
 - **Printable cards: 24 animal cards to cut out:** Cow; Rohu fish; Earthworm; Frog; Tadpole; Ganges river dolphin; Crow; Crab; Python; Grasshopper; Mudskipper; Climbing perch; Elephant; Prawn; Butterfly; Sea turtle; Lungless salamander; Bar-headed goose; Shark; Bat; Ant; Goldfish; Human baby; Whale
 - **Printable board: Four breathing mats:** LUNGS; GILLS; SKIN; AIR PIPES (insects)
-- **Printable cards: 8 food-finder bonus cards:** How does it find food? Bat: echoes; How does it find food? Dog: smell; How does it find food? Eagle: sight; How does it find food? Owl: hearing; How does it find food? Shark: feeling electricity; How does it find food? Pit viper: sensing heat; How does it find food? Ant: smell trails; How does it find food? Flamingo: sieving water
+- **Printable cards: 8 food-finder bonus cards:** How do they find food? Bat: echoes; How do they find food? Dog: smell; How do they find food? Eagle: sight; How do they find food? Owl: hearing; How do they find food? Shark: feeling electricity; How do they find food? Pit viper: sensing heat; How do they find food? Ant: smell trails; How do they find food? Flamingo: sieving water
 - **Printable tokens: 20 breath tokens (small paper circles):** 🫧
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the four mats. 2. Shuffle the animal cards. 3. Put the tokens in a bowl.  
@@ -276,7 +276,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Parent says:* Your turn. Read the animal, put it on a mat, and give one reason. Every fifth card, we act out how an animal finds food.  
   *Child mode:* Take a card. Put it on a mat. Say why. Every fifth card, act out a bonus card!
   - Note: Answers. Lungs: cow, Ganges river dolphin, crow, python, elephant, sea turtle, bar-headed goose, bat, human baby, whale. Gills: rohu fish, tadpole, crab, prawn, shark, goldfish. Skin: earthworm, lungless salamander. Two ways: frog (lungs and skin), mudskipper (gills and skin), climbing perch (gills and a labyrinth organ that takes oxygen from air). Air pipes: grasshopper, butterfly, ant.
-  - Check: Card: Ganges river dolphin. It lives in water all its life. Where does it go? → **LUNGS**
+  - Check: Card: Ganges river dolphin. They live in water all their life. Where does the card go? → **LUNGS**
 - **s4 (2 min)**  
   *Parent does:* Count the tokens. Then each player names one animal from the game that surprised them.  
   *Parent says:* Let's count tokens. Which animal surprised you most?  
@@ -290,17 +290,17 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Parent does:* 1. Clear a space and ring it with chairs or cushions. 2. Hand out the role cards. 3. Tie the blindfold on the bat.  
   *Parent says:* Bats hunt moths at night. Many bats can see, but in the dark they mostly listen. They make very high sounds and listen for the echo. Our bat will shout 'Bat!' and listen for 'Moth!'.  
   *Child mode:* Clear a space. The bat wears a blindfold. The bat calls 'Bat!'. The moth must answer 'Moth!'.
-  - Note: Clear the floor of anything sharp or breakable. Walk beside the bat to keep it safe. Bats are not blind. Many see well, but they use sound in the dark.
+  - Note: Clear the floor of anything sharp or breakable. Walk beside the bat to keep them safe. Bats are not blind. Many see well, but they use sound in the dark.
 - **s2 (10 min)**  
   *Parent does:* Play rounds of about a minute each. Time each round. Swap roles so everyone is the bat once.  
-  *Parent says:* Bat, call as often as you like. Moth, you must answer every time. Trees, warn the bat if it comes close.  
+  *Parent says:* Bat, call as often as you like. Moth, you must answer every time. Trees, warn the bat if they come close.  
   *Child mode:* Bat: call and listen. Moth: always answer. Trees: say 'Tree!' if the bat comes near.
-  - Check: In Bat and Moth, the blindfolded bat found the moth by listening. What does a real bat listen for? → **Echoes of its own high sounds bouncing off insects**
+  - Check: In Bat and Moth, the blindfolded bat found the moth by listening. What does a real bat listen for? → **Echoes of their own high sounds bouncing off insects**
 - **s3 (2 min)**  
   *Parent does:* Talk about how it felt to find food by sound.  
   *Parent says:* How did it feel to be the bat? Did it get easier with practice? Ganges river dolphins hunt fish in muddy water the same way, with clicks.  
   *Child mode:* Was it hard to be the bat? Did it get easier? River dolphins hunt like this in muddy water.
-  - Think: Moths have ears too. What might a clever moth do when it hears a bat coming?
+  - Think: Moths have ears too. What might a clever moth do when they hear a bat coming?
 
 ## Experiments
 ### e1 · Breath Count: before and after jumping (33 min)
@@ -384,11 +384,11 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Parent does:* 1. Find a line of small black ants: in the kitchen, on a window sill or on the balcony. 2. Put the three paper squares about one hand-length from the line, side by side, a hand-length apart. 3. Put the sugar, salt and biscuit crumb on them.  
   *Parent says:* Ants have no noses, but they smell with their feelers, the two thin antennae on their heads. Let's see if they can find our food. Which one do you think they'll find first?  
   *Child mode:* Find a line of ants. Put three papers near it. Put sugar on one, salt on one, biscuit on one. Which will ants find first?
-  - Ask: How do you think an ant knows where food is? (good: It smells it.; It feels it with its feelers.; Other ants show it the way.)
+  - Ask: How do you think an ant knows where food is? (good: They smell it.; They feel it with their feelers.; Other ants show them the way.)
   - Note: Most Indian homes have small ants somewhere. If you cannot see any, put a pinch of sugar on a paper near a window or balcony crack the day before. Ants usually find it within a day, and you can start the test where they come.
 - **s2 (30 min)**  
-  *Parent does:* 1. Start the timer. 2. Watch quietly. Note which bait the first ant reaches, and how long it took. 3. At 10, 20 and 30 minutes, count the ants on each bait and write the numbers in the table. 4. In between, watch one ant leave the food and follow it.  
-  *Parent says:* Look, one ant found the sugar. Watch what it does next. Does it go home? Does it touch other ants? Let's count every ten minutes.  
+  *Parent does:* 1. Start the timer. 2. Watch quietly. Note which bait the first ant reaches, and how long it took. 3. At 10, 20 and 30 minutes, count the ants on each bait and write the numbers in the table. 4. In between, watch one ant leave the food and follow them.  
+  *Parent says:* Look, one ant found the sugar. Watch what they do next. Do they go home? Do they touch other ants? Let's count every ten minutes.  
   *Child mode:* Watch quietly. Which food did the first ant find? Count the ants on each paper every ten minutes. Follow one ant with your eyes.
   - Note: Usually one scout ant finds the sugar or biscuit by smell, wanders back towards the nest, and soon a trail of ants arrives. The scout leaves a smell trail, called a pheromone trail, on the way home. Salt usually gets few or no ants. Results vary with the kind of ant, so whatever happens is real data.
 - **s3 (5 min)**  
@@ -417,7 +417,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Parent says:* Close your eyes. One hand on your chest, one on your belly. Just notice. Which hand moves? Now take a big slow breath in. Where does the air go?  
   *Child mode:* Close your eyes. One hand on your chest. One hand on your belly. Breathe. Which hand moves? Now take a big, slow breath.
   - Check: Your breath made the steel tumbler misty. What is the mist? → **Tiny drops of water from your breath**
-  - Think: You breathed out water. Where did that water come from? A fish lives in water. How does it breathe?
+  - Think: You breathed out water. Where did that water come from? A fish lives in water. How does a fish breathe?
 ### a2 · Make a Bottle Lung (25 min)
 - **safety:** Only a grown-up cuts the bottle. Cover the cut edge with tape so it isn't sharp.
 - **record:** Draw your bottle lung. Label the balloon lung, the windpipe and the diaphragm. Draw arrows showing which way air goes when you pull down.
@@ -438,13 +438,13 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Child mode:* Breathe in deeply. Feel your belly push out. That's your diaphragm pulling down. How is the bottle different from your real lungs?
   - Ask: How is the model different from real lungs? (good: We have two lungs, not one.; Real lungs are spongy, with millions of tiny bubbles.; Our ribs move too.; There is blood all around real lungs.)
   - Note: Children love finding what's wrong with a model. It's real science thinking: a model shows one idea, not everything.
-  - Think: A fish has no diaphragm. How does it move water over its gills?
+  - Think: A fish has no diaphragm. How do they move water over their gills?
 ### a3 · Gill Watch: count a fish's breaths (20 min)
 - **safety:** Stay with a grown-up near ponds and tanks. Do not tap on aquarium glass. At a fish market, only look, and wash hands if you touch anything.
-- **record:** Write how many times the fish's gill covers opened in one minute. Draw the fish and colour its gills.
+- **record:** Write how many times the fish's gill covers opened in one minute. Draw the fish and colour their gills.
 - **s1 (8 min) · grown-up needed**  
-  *Parent does:* 1. Find one fish that is calm. 2. Look just behind its eyes at the gill covers, the flaps on each side. 3. Watch its mouth open and shut. 4. Count each time the gill covers open, for one minute, making a tally mark each time.  
-  *Parent says:* See the flaps behind its eyes? That's where the water goes out. It comes in at the mouth and goes out there, over the gills. Let's count how many times they open in one minute.  
+  *Parent does:* 1. Find one fish that is calm. 2. Look just behind their eyes at the gill covers, the flaps on each side. 3. Watch their mouth open and shut. 4. Count each time the gill covers open, for one minute, making a tally mark each time.  
+  *Parent says:* See the flaps behind their eyes? That's where the water goes out. It comes in at the mouth and goes out there, over the gills. Let's count how many times they open in one minute.  
   *Child mode:* Look behind the fish's eyes. See the flaps? They open and shut. Count each opening for one minute. Make a tally mark each time.
   - Note: Small fish in warm water often open their gill covers 60 to 100 times a minute, much faster than we breathe. Counting is hard, so 30 seconds doubled is fine.
 - **s2 (7 min) · grown-up needed**  
@@ -455,9 +455,9 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Ask: Why do they have so many thin parts? (good: To have lots of surface, so they can catch more oxygen.)
 - **s3 (5 min)**  
   *Parent does:* Compare the fish's count with your own breath count from the Breath Count experiment, if you did it.  
-  *Parent says:* You took about 20 breaths a minute sitting still. The fish moved water over its gills many more times. Why might a fish have to work harder?  
+  *Parent says:* You took about 20 breaths a minute sitting still. The fish moved water over their gills many more times. Why might a fish have to work harder?  
   *Child mode:* Was the fish's number bigger or smaller than yours? Why might a fish breathe so fast?
-  - Check: A small fish opened its gill covers 80 times a minute. You took 20 breaths. Why might the fish need so many? → **Water has much less oxygen than air, so the fish moves lots of water**
+  - Check: A small fish opened their gill covers 80 times a minute. You took 20 breaths. Why might the fish need so many? → **Water has much less oxygen than air, so the fish moves lots of water**
 ### a4 · Flat or Frilly? The gill shape test (20 min)
 - **safety:** Use child-safe scissors. Wipe up any spilled water.
 - **record:** Write which towel dried first and how long each took. Draw both and label which is like a gill.
@@ -487,9 +487,9 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Ask: Was it easy or hard? (good: Hard, my nose is not very strong.; Easy for the banana, hard for the elaichi.)
 - **s2 (5 min)**  
   *Parent does:* Talk about animal noses and other senses.  
-  *Parent says:* A dog's nose is far, far better than ours. It can follow a smell trail days old. A mosquito finds you by the carbon dioxide you breathe out. A bat finds a moth by its echo. Which sense would help you most to find food in the dark?  
+  *Parent says:* A dog's nose is far, far better than ours. It can follow a smell trail days old. A mosquito finds you by the carbon dioxide you breathe out. A bat finds a moth by the echo. Which sense would help you most to find food in the dark?  
   *Child mode:* A dog could find it at once. A mosquito smells your breath. A bat hears echoes. Which sense would you pick?
-  - Check: A mosquito finds people in a dark room. Which of these helps it most? → **Smelling the carbon dioxide we breathe out, and sensing our warmth**
+  - Check: A mosquito finds people in a dark room. Which of these helps them most? → **Smelling the carbon dioxide we breathe out, and sensing our warmth**
 ### a6 · How Long Can a Breath Last? (15 min)
 - **safety:** Do this sitting down, on dry land, never in water. Hold only as long as is comfortable, never until it hurts. Stop at once if you feel dizzy. Children with asthma or heart problems should skip the holding and just do the timing for others.
 - **record:** Write your comfortable breath-hold time and the times of others in the family. Compare them with the animal times on the chart.
@@ -501,7 +501,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **s2 (7 min)**  
   *Parent does:* Show the chart of animal breath-holds and talk about it.  
   *Parent says:* The Ganges river dolphin comes up every minute or two. Some whales stay down for over an hour. How do they do it? They store extra oxygen in their blood and muscles, and slow their hearts down.  
-  *Child mode:* Look at the animals. A river dolphin holds its breath for one or two minutes. Some whales hold for over an hour!
+  *Child mode:* Look at the animals. A river dolphin holds their breath for one or two minutes. Some whales hold for over an hour!
   - Check: Ganges river dolphins live in rivers all their lives. Why must they keep coming up? → **They breathe air with lungs, through a blowhole**
 ### a7 · Mouth Tools Buffet (20 min)
 - **safety:** Use clean tools if you plan to eat any food. Don't run with the tweezers or sticks.
@@ -516,7 +516,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Parent does:* Match each tool to an animal and talk about it.  
   *Parent says:* Your straw is like a butterfly's long tongue, sipping nectar. The strainer is like a flamingo's beak, sieving tiny food. The tweezers are like a heron's long beak, picking up food. The peg is like a parrot's strong beak, gripping a nut.  
   *Child mode:* Straw: butterfly. Strainer: flamingo. Tweezers: heron. Peg: parrot. Which was your favourite?
-  - Check: A flamingo eats tiny shrimps floating in lake water. In the buffet, which tool worked like its beak? → **The tea strainer**
+  - Check: A flamingo eats tiny shrimps floating in lake water. In the buffet, which tool worked like their beak? → **The tea strainer**
 
 ## Projects
 ### p1 · My Breath Diary (50 min, 5 days)
@@ -542,25 +542,25 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 ## Challenges
 ### c1 · Design a River-Bottom Hunter (30 min)
 - **problem:** Imagine a new animal that lives at the bottom of a deep, muddy river, like the Ganga. The water is so brown that it is dark even at noon, and in summer it has very little oxygen. Design an animal that can breathe and find food there.
-- **your turn:** Now design your own river-bottom hunter. Give it a name. Draw it, label it, and explain to your family how it breathes and how it finds food.
+- **your turn:** Now design your own river-bottom hunter. Give them a name. Draw them, label them, and explain to your family how they breathe and how they find food.
 - **constraints:** Your animal must get enough oxygen, even in summer.; It must find food in water too muddy to see through.; Draw it, label every special part, and say what it eats and how.
-- **general:** Give it lungs and let it come up to breathe, like the Ganges river dolphin.; Give it gills plus a way to gulp air, like the climbing perch and magur catfish.; Give it whiskers that feel and taste, like a catfish, or echolocation clicks like a dolphin.
-- **creative:** The Ganges river dolphin is nearly blind. It swims on its side, sweeping its long beak through the mud, and finds fish with clicks.; Some fish make weak electricity around their bodies and feel when something disturbs it. Could your animal do that?; Could your animal carry an air bubble with it, like the water spiders that live in silk bubbles underwater?
+- **general:** Give them lungs and let them come up to breathe, like the Ganges river dolphin.; Give them gills plus a way to gulp air, like the climbing perch and magur catfish.; Give them whiskers that feel and taste, like a catfish, or echolocation clicks like a dolphin.
+- **creative:** The Ganges river dolphin is nearly blind. They swim on their side, sweeping their long beak through the mud, and finds fish with clicks.; Some fish make weak electricity around their bodies and feel when something disturbs it. Could your animal do that?; Could your animal carry an air bubble with them, like the water spiders that live in silk bubbles underwater?
 - **s1 (8 min)**  
   *Parent does:* Read the problem with your child and talk about the two problems: little oxygen, and no light.  
   *Parent says:* Two problems. One: there isn't much oxygen in the water. Two: it's too dark and muddy to see. What could a body do about each one?  
   *Child mode:* Your animal lives in a dark, muddy river. Two problems: little oxygen, and no light. How could a body solve them?
-  - Ask: How could it get more oxygen? (good: Come up and breathe air.; Have extra big gills.; Gulp air like the climbing perch.)
-  - Ask: How could it find food in the dark? (good: Smell or taste the water.; Use whiskers.; Use clicks and echoes.)
+  - Ask: How could they get more oxygen? (good: Come up and breathe air.; Have extra big gills.; Gulp air like the climbing perch.)
+  - Ask: How could they find food in the dark? (good: Smell or taste the water.; Use whiskers.; Use clicks and echoes.)
 - **s2 (15 min)**  
   *Parent does:* Your child draws the animal and labels each special part.  
-  *Parent says:* Draw your animal. Label every part that helps it breathe or find food. Then give it a name.  
-  *Child mode:* Draw your animal. Label its breathing parts. Label its food-finding parts. Give it a name.
+  *Parent says:* Draw your animal. Label every part that helps them breathe or find food. Then give them a name.  
+  *Child mode:* Draw your animal. Label their breathing parts. Label their food-finding parts. Give them a name.
   - Check: In a dark, muddy river, which sense would help an animal least to find food? → **Sharp eyesight**
 - **s3 (7 min)**  
   *Parent does:* Your child explains the design to someone in the family.  
-  *Parent says:* Tell Paati or a friend about your animal. How does it breathe? How does it find food? What would happen to it if the river got dirtier?  
-  *Child mode:* Show your drawing to someone. Explain how it breathes and finds food.
+  *Parent says:* Tell Paati or a friend about your animal. How do they breathe? How do they find food? What would happen to them if the river got dirtier?  
+  *Child mode:* Show your drawing to someone. Explain how they breathe and find food.
   - Think: Real Ganges river dolphins are in danger. The water is dirtier, and dams block their way. How could people help them?
 ### c2 · Build a Filter-Feeder's Sieve (30 min)
 - **problem:** Flamingos and whale sharks sieve tiny bits of food out of the water flowing past them. A good sieve must catch the food and still let the water through quickly. Build a filter that catches the used tea leaves from one jug of water, and lets the water through as fast as possible.
@@ -586,20 +586,20 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 ## Worksheets
 ### Breathing and finding food: the basics (core, 16 questions)
 1. (mcq) Why do animals need oxygen?  
-   Options: Its cells use oxygen to get energy from food / Oxygen makes it heavier / Only so it can make sounds / It doesn't, only people need oxygen  
-   **Answer:** Its cells use oxygen to get energy from food. *Why:* Almost every cell uses oxygen to release the energy in food. This is respiration. Picking 'only people' is a common idea, but fish, worms, ants and elephants all need oxygen too.
+   Options: Their cells use oxygen to get energy from food / Oxygen makes them heavier / Only so they can make sounds / They don't, only people need oxygen  
+   **Answer:** Their cells use oxygen to get energy from food. *Why:* Almost every cell uses oxygen to release the energy in food. This is respiration. Picking 'only people' is a common idea, but fish, worms, ants and elephants all need oxygen too.
 2. (fill) Fish take oxygen out of water with their ____.  
    **Answer:** ['gills']. *Why:* Gills are the feathery red parts under the flaps on a fish's head. Water flows over them and they take oxygen out.
-3. (fill) An earthworm has no lungs. It breathes through its damp ____.  
-   **Answer:** ['skin']. *Why:* Oxygen passes straight through an earthworm's thin, moist skin. If the skin dries out, it cannot breathe.
+3. (fill) An earthworm has no lungs. They breathe through their damp ____.  
+   **Answer:** ['skin']. *Why:* Oxygen passes straight through an earthworm's thin, moist skin. If the skin dries out, the worm cannot breathe.
 4. (truefalse) A dolphin breathes with gills, like a fish.  
    **Answer:** False. *Why:* False. Dolphins breathe air with lungs, through the blowhole on top of the head. That's why they keep coming up to the surface.
 5. (truefalse) Breathed-out air still has some oxygen in it.  
    **Answer:** True. *Why:* True. Room air is about 21 parts in 100 oxygen. Breathed-out air is about 16 parts in 100. Your body takes in only a small part of the oxygen in each breath.
 6. (sort) Sort these animals by how they mainly breathe.  
    **Answer:** cow → Lungs; rohu fish → Gills; earthworm → Skin only; crow → Lungs; crab → Gills; Ganges river dolphin → Lungs; lungless salamander → Skin only. *Why:* Land animals like cows and crows use lungs. So do dolphins, even though they live in water. Fish and crabs use gills. Earthworms and lungless salamanders breathe only through their skin.
-7. (match) Match each animal to how it mainly finds food.  
-   **Answer:** Bat → echoes of its own sounds; Dog → smell; Eagle → sharp eyesight; Owl → hearing tiny rustles; Pit viper → sensing warmth. *Why:* Each animal relies most on the sense that suits its life. Bats hunt in the dark by echoes. Dogs follow smells. Eagles see far. Owls hear mice in the dark. Pit vipers feel the warmth of a mouse.
+7. (match) Match each animal to how they mainly find food.  
+   **Answer:** Bat → echoes of their own sounds; Dog → smell; Eagle → sharp eyesight; Owl → hearing tiny rustles; Pit viper → sensing warmth. *Why:* Each animal relies most on the sense that suits their life. Bats hunt in the dark by echoes. Dogs follow smells. Eagles see far. Owls hear mice in the dark. Pit vipers feel the warmth of a mouse.
 8. (mcq) Look at the breath count chart. How many more breaths were taken after jumping than sitting still?  
    Options: 20 more / 40 more / 60 more  
    **Answer:** 20 more. *Why:* Sitting still the bar shows 20. After jumping it shows 40. 40 take away 20 is 20. Picking 40 means reading only one bar. To compare, we find the difference between the two bars.
@@ -609,24 +609,24 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 10. (order) Put the journey of oxygen in order, from outside to a cell in your leg.  
    **Answer:** order shown. *Why:* Air comes in through the nose, down the windpipe, into the tiny air sacs. Oxygen passes into the blood, and the blood carries it to every cell.
 11. (mcq) Why is a fish's gill made of many thin, frilly threads?  
-   Options: To give lots of surface for oxygen to pass through / To help it swim faster / To keep sand out of its eyes  
+   Options: To give lots of surface for oxygen to pass through / To help them swim faster / To keep sand out of their eyes  
    **Answer:** To give lots of surface for oxygen to pass through. *Why:* More surface lets more oxygen in at once. Remember the towel test: the frilly towel dried much faster than the crumpled one. Picking 'swim faster' mixes gills up with fins.
 12. (draw) Draw a fish. Draw arrows to show where water goes in and where it goes out. Colour the gills.  
    **Answer:** An arrow into the mouth, an arrow out from under the gill cover, and red gills under the cover.. *Why:* Water goes in at the mouth, flows over the gills, and goes out under the gill cover.
 13. (truefalse) Animals breathe faster when they are resting.  
    **Answer:** False. *Why:* False. Animals breathe faster when they are active, because their muscles need more oxygen. Resting and sleeping animals breathe slowest.
-14. (mcq) A flamingo sieves tiny shrimps from lake water. What kind of eater is it?  
+14. (mcq) A flamingo sieves tiny shrimps from lake water. What kind of eater is the flamingo?  
    Options: A filter feeder / A scavenger / A grazer  
    **Answer:** A filter feeder. *Why:* A filter feeder sieves tiny food out of water. A scavenger eats animals that have already died. A grazer eats grass or plants slowly for hours.
 15. (write) Why do frogs need to stay near water? Use the word skin in your answer.  
    **Answer:** Frogs breathe partly through their skin. Their skin must stay damp for oxygen to pass through. If they go too far from water, their skin dries out and they cannot breathe well.. *Why:* Skin breathing only works when the skin is thin and damp.
 16. (mcq) Ants on a sugar trail walk in a line. Why?  
    Options: They follow a smell trail left by the first ant / They are holding hands / The wind blows them in a line  
-   **Answer:** They follow a smell trail left by the first ant. *Why:* The ant that finds food leaves a smell trail on its way home. Other ants follow it with their antennae. That's why they walk in a line.
+   **Answer:** They follow a smell trail left by the first ant. *Why:* The ant that finds food leaves a smell trail on their way home. Other ants follow it with their antennae. That's why they walk in a line.
 ### Breathing and finding food: think further (stretch, 15 questions)
-1. (mcq) A fish has gills full of blood. Out of water, it usually dies, even though air has more oxygen than water. Why?  
-   Options: Its soft gill threads stick together and dry out, so there is too little surface / Air is poisonous to fish / Fish get cold in air  
-   **Answer:** Its soft gill threads stick together and dry out, so there is too little surface. *Why:* Out of water, the thin gill threads collapse and stick together, like a wet paintbrush pulled out of a jar. Then there is too little damp surface for oxygen to pass through. Picking 'poisonous' is a common idea, but air is not poisonous. Some fish, like the climbing perch, can even breathe it.
+1. (mcq) A fish has gills full of blood. Out of water, they usually die, even though air has more oxygen than water. Why?  
+   Options: Their soft gill threads stick together and dry out, so there is too little surface / Air is poisonous to fish / Fish get cold in air  
+   **Answer:** Their soft gill threads stick together and dry out, so there is too little surface. *Why:* Out of water, the thin gill threads collapse and stick together, like a wet paintbrush pulled out of a jar. Then there is too little damp surface for oxygen to pass through. Picking 'poisonous' is a common idea, but air is not poisonous. Some fish, like the climbing perch, can even breathe it.
 2. (mcq) Your diaphragm is a sheet of muscle under your lungs. What does it do when you breathe in?  
    Options: It pulls down, making space, and air rushes into the lungs / It pushes air up into the nose / It squeezes the heart  
    **Answer:** It pulls down, making space, and air rushes into the lungs. *Why:* When the diaphragm pulls down, there is more space in the chest, and air flows in to fill it. That's what the bottle lung showed. Picking 'pushes air up' is what happens when you breathe out, not in.
@@ -634,17 +634,17 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
    **Answer:** False. *Why:* False. Insects have no lungs. Air goes in through tiny holes called spiracles along their sides, and travels down thin pipes to every part of the body.
 4. (fill) The tiny holes along the sides of a grasshopper, where air goes in, are called ____.  
    **Answer:** ['spiracles']. *Why:* Spiracles lead into air pipes that branch through the insect's body.
-5. (mcq) The climbing perch can live out of water for hours. What lets it do this?  
-   Options: A labyrinth organ above its gills that takes oxygen from air / It holds its breath for a very long time / It doesn't need oxygen when it's dry  
-   **Answer:** A labyrinth organ above its gills that takes oxygen from air. *Why:* The climbing perch has a folded, maze-like labyrinth organ above its gills. It gulps air and takes oxygen from it, as long as its body stays damp. Picking 'holds its breath' would only work for a short time.
+5. (mcq) The climbing perch can live out of water for hours. What lets them do this?  
+   Options: A labyrinth organ above their gills that takes oxygen from air / They hold their breath for a very long time / They don't need oxygen when they're dry  
+   **Answer:** A labyrinth organ above their gills that takes oxygen from air. *Why:* The climbing perch has a folded, maze-like labyrinth organ above their gills. They gulp air and take oxygen from it, as long as their body stays damp. Picking 'hold their breath' would only work for a short time.
 6. (match) Match each way of getting food to an animal that uses it.  
-   **Answer:** grazing → cow; chasing → cheetah; waiting still → crocodile; filtering water → flamingo; trapping → spider; scavenging → vulture. *Why:* Each animal's body fits its way of eating: flat teeth for grazing, long legs for chasing, stillness for waiting, a sieve beak for filtering, a web for trapping, and a strong stomach for scavenging.
+   **Answer:** grazing → cow; chasing → cheetah; waiting still → crocodile; filtering water → flamingo; trapping → spider; scavenging → vulture. *Why:* Each animal's body fits their way of eating: flat teeth for grazing, long legs for chasing, stillness for waiting, a sieve beak for filtering, a web for trapping, and a strong stomach for scavenging.
 7. (mcq) Look at the ant chart. How many ants were on the sugar and biscuit together?  
    Options: 39 / 25 / 24  
    **Answer:** 39. *Why:* 24 ants on the sugar plus 15 on the biscuit makes 24 + 15 = 39. Picking 25 means adding the sugar and the salt instead. Read the labels under each bar carefully.
-8. (mcq) A Ganges river dolphin is nearly blind and lives in muddy water. How does it find fish?  
-   Options: It sends out clicks and listens to the echoes / It sees them with big eyes / It waits for fish to jump into its mouth  
-   **Answer:** It sends out clicks and listens to the echoes. *Why:* The Ganges river dolphin uses echolocation. It sends out clicks, and the echoes tell it where fish are. Its eyes are tiny because seeing doesn't help much in muddy water.
+8. (mcq) A Ganges river dolphin is nearly blind and lives in muddy water. How do they find fish?  
+   Options: They send out clicks and listen to the echoes / They see them with big eyes / They wait for fish to jump into their mouth  
+   **Answer:** They send out clicks and listen to the echoes. *Why:* The Ganges river dolphin uses echolocation. They send out clicks, and the echoes tell them where fish are. Their eyes are tiny because seeing doesn't help much in muddy water.
 9. (truefalse) A mosquito can find you in the dark by sensing the carbon dioxide you breathe out.  
    **Answer:** True. *Why:* True. Mosquitoes sense carbon dioxide from a distance, then follow warmth and smell close up.
 10. (order) Put these in order, from fewest breaths a minute to most: elephant, child, mouse.  
@@ -657,15 +657,15 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 13. (label) Label the parts on the drawing of the breathing system: nose, windpipe, lungs, diaphragm.  
    **Answer:** ['nose', 'windpipe', 'lungs', 'diaphragm']. *Why:* Air goes in through the nose, down the windpipe, into the lungs. The diaphragm under the lungs pulls down to bring air in.
 14. (odd) Which one is the odd one out, and why? Earthworm, rohu fish, crab, prawn.  
-   **Answer:** earthworm. *Why:* The earthworm breathes through its skin. The rohu, crab and prawn all breathe with gills.
+   **Answer:** earthworm. *Why:* The earthworm breathes through their skin. The rohu, crab and prawn all breathe with gills.
 15. (write) A cheetah hunts by chasing. A crocodile hunts by waiting. Which do you think needs to breathe faster while hunting? Why?  
    **Answer:** The cheetah. Chasing at high speed uses a lot of muscle, and working muscles need a lot of oxygen. A crocodile waiting still uses very little oxygen.. *Why:* Breathing rate goes with how hard the muscles are working.
 ### Breathing and finding food: big thinking (challenge, 16 questions)
 1. (write) Lungs, gills and frog skin look very different. Write three things they all have in common.  
    **Answer:** They are thin. They are damp. They have lots of surface, and blood flows just underneath.. *Why:* All breathing surfaces work the same way: oxygen passes through a thin, wet wall into blood.
 2. (mcq) Water holds about 30 times less oxygen than air. What would you expect a fish to do in warm, still water with even less oxygen?  
-   Options: Move its gill covers faster, or come to the surface / Stop breathing to save oxygen / Sleep until the water gets better  
-   **Answer:** Move its gill covers faster, or come to the surface. *Why:* With less oxygen in the water, a fish must push more water over its gills, so it pumps faster. Some fish come to the surface, where the water has a little more oxygen. Picking 'stop breathing' would be fatal. Every cell needs a steady supply.
+   Options: Move their gill covers faster, or come to the surface / Stop breathing to save oxygen / Sleep until the water gets better  
+   **Answer:** Move their gill covers faster, or come to the surface. *Why:* With less oxygen in the water, a fish must push more water over their gills, so they pump faster. Some fish come to the surface, where the water has a little more oxygen. Picking 'stop breathing' would be fatal. Every cell needs a steady supply.
 3. (truefalse) The oxygen you breathe was put into the air by plants and tiny sea algae.  
    **Answer:** True. *Why:* True. Plants and algae make oxygen when they make food from sunlight. Scientists think about half of the oxygen made each year comes from tiny algae in the sea.
 4. (mcq) Charles Darwin thought swim bladders came first and later turned into lungs. Many biologists today think the opposite. What does this show about science?  
@@ -673,11 +673,11 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
    **Answer:** Scientists change their ideas when new evidence comes in. *Why:* Science improves when new evidence is found, such as studies of old kinds of fish and fossils. Darwin got many big things right. Changing one idea does not make all his work wrong.
 5. (write) Why can't you see oxygen going into your blood, even though it happens with every breath?  
    **Answer:** Oxygen is a gas with no colour. It passes into the blood through walls thinner than tissue paper, inside the lungs, where we can't see.. *Why:* Oxygen has no colour, and it passes into the blood deep inside the lungs, through walls far too thin to see.
-6. (mcq) Some bats eat moths. Many moths can hear bat sounds. What might a moth do when it hears a bat?  
+6. (mcq) Some bats eat moths. Many moths can hear bat sounds. What might a moth do when they hear a bat?  
    Options: Dive, dodge or drop to the ground / Fly straight towards the bat / Sing back louder  
    **Answer:** Dive, dodge or drop to the ground. *Why:* Many moths dodge or drop when they hear a bat's high sounds. Some even make clicks that confuse bats. Predator and prey keep changing each other over a very long time.
 7. (write) Earthworms come up onto roads after rain. Scientists have three ideas: to breathe, to travel, or to escape moles. Pick the one you think is most likely and say how you could test it.  
-   **Answer:** For example: I think they come up to travel. I could put worms in two trays of soil, one wet and one dry, and see where they move. Or I could put a worm in a jar of water that has air bubbled through it, and see if it stays healthy.. *Why:* Any careful test idea is a good answer. Scientists are still testing these ideas.
+   **Answer:** For example: I think they come up to travel. I could put worms in two trays of soil, one wet and one dry, and see where they move. Or I could put a worm in a jar of water that has air bubbled through it, and see if they stay healthy.. *Why:* Any careful test idea is a good answer. Scientists are still testing these ideas.
 8. (mcq) A Cuvier's beaked whale stayed underwater for 222 minutes. About how many hours is that?  
    Options: Nearly 4 hours / About 2 hours / About 22 hours  
    **Answer:** Nearly 4 hours. *Why:* One hour is 60 minutes. Four hours is 240 minutes. 222 is a bit less than 240, so nearly 4 hours. Picking 22 hours means reading the digits instead of dividing by 60.
@@ -703,38 +703,38 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 
 ## Videos
 - **How Do Fish Breathe? Animal Science for Kids** (SciShow Kids, 3 min) id `zj5v3n6Nlm8`: A short, clear video for children on how gills take oxygen out of water. *Check:* Found by YouTube search for 'how do fish breathe gills'. Title and channel checked automatically. A parent may still preview it.
-- **This Titicaca Water Frog Breathes Oxygen Through its Skin** (Smithsonian Channel, 2 min) id `VosMbumTzIg`: Shows a real frog that lives in a cold lake and breathes almost only through its huge, baggy skin. Good for the skin breathing card. *Check:* Found by YouTube search for 'frog breathing through skin'. Title and channel checked automatically. A parent may still preview it.
-- **Gangetic River Dolphin communication through ultrasound clicks** (Wildlife Conservation Trust, 1 min) id `hXVkH_2Y2WM`: A one-minute clip from an Indian conservation group about the clicks the Ganges river dolphin uses. It breathes air and finds food by echoes. *Check:* Found by YouTube search for 'ganges river dolphin echolocation'. Title and channel checked automatically. A parent should preview it, as it is short and may need explaining.
+- **This Titicaca Water Frog Breathes Oxygen Through its Skin** (Smithsonian Channel, 2 min) id `VosMbumTzIg`: Shows a real frog that lives in a cold lake and breathes almost only through their huge, baggy skin. Good for the skin breathing card. *Check:* Found by YouTube search for 'frog breathing through skin'. Title and channel checked automatically. A parent may still preview it.
+- **Gangetic River Dolphin communication through ultrasound clicks** (Wildlife Conservation Trust, 1 min) id `hXVkH_2Y2WM`: A one-minute clip from an Indian conservation group about the clicks the Ganges river dolphin uses. They breathe air and find food by echoes. *Check:* Found by YouTube search for 'ganges river dolphin echolocation'. Title and channel checked automatically. A parent should preview it, as it is short and may need explaining.
 
 ## Quiz
 1. (mcq) Why do animals need oxygen?  
-   Options: Its cells use oxygen to get energy from food / Only to make its blood red / It doesn't. Only land animals need oxygen  
-   **Answer:** Its cells use oxygen to get energy from food. *Why:* Almost every cell uses oxygen to release energy from food. Picking 'only land animals' is a common idea, but fish, crabs and worms need oxygen too. They just get it in different ways.
+   Options: Their cells use oxygen to get energy from food / Only to make their blood red / They don't. Only land animals need oxygen  
+   **Answer:** Their cells use oxygen to get energy from food. *Why:* Almost every cell uses oxygen to release energy from food. Picking 'only land animals' is a common idea, but fish, crabs and worms need oxygen too. They just get it in different ways.
 2. (mcq) How does a fish get oxygen?  
-   Options: Water flows in at its mouth, over its gills, and out under the gill covers / It comes to the surface to breathe air, like a dolphin / It doesn't need oxygen  
-   **Answer:** Water flows in at its mouth, over its gills, and out under the gill covers. *Why:* Fish pump water over their gills, which take oxygen out of the water. Picking 'like a dolphin' mixes up fish and dolphins. Dolphins have lungs and must come up for air.
+   Options: Water flows in at their mouth, over their gills, and out under the gill covers / They come to the surface to breathe air, like a dolphin / They don't need oxygen  
+   **Answer:** Water flows in at their mouth, over their gills, and out under the gill covers. *Why:* Fish pump water over their gills, which take oxygen out of the water. Picking 'like a dolphin' mixes up fish and dolphins. Dolphins have lungs and must come up for air.
 3. (mcq) Lungs, gills and breathing skin are all…  
    Options: Thin, damp and close to blood / Hard and dry / Only found in fish  
    **Answer:** Thin, damp and close to blood. *Why:* Oxygen can only pass through a thin, wet wall into blood. Picking 'hard and dry' is the opposite. A dry surface can't let oxygen in, which is why fish die out of water and worms die in the sun.
-4. (mcq) An earthworm is left on a hot, dry path in the sun. Why is that dangerous for it?  
-   Options: Its skin dries out, and it breathes through its skin / It gets sunburned on its gills / It can't see the way home  
-   **Answer:** Its skin dries out, and it breathes through its skin. *Why:* Earthworms breathe through damp skin. If the skin dries, oxygen can't get through. Picking 'gills' is a mix-up. Earthworms have no gills.
+4. (mcq) An earthworm is left on a hot, dry path in the sun. Why is that dangerous for them?  
+   Options: Their skin dries out, and they breathe through their skin / They get sunburned on their gills / They can't see the way home  
+   **Answer:** Their skin dries out, and they breathe through their skin. *Why:* Earthworms breathe through damp skin. If the skin dries, oxygen can't get through. Picking 'gills' is a mix-up. Earthworms have no gills.
 5. (mcq) You counted 20 breaths a minute sitting still, and 40 after jumping. What is the best explanation?  
    Options: Working muscles need more oxygen, so we breathe faster / Jumping makes the lungs bigger / The timer ran faster  
    **Answer:** Working muscles need more oxygen, so we breathe faster. *Why:* Muscles working hard use more oxygen and make more carbon dioxide, so we breathe faster. Picking 'timer ran faster' is a good scientist's worry. That's why we used the same timer each time and counted three times.
 6. (mcq) In the limewater test, breathed-out air made the water milky fast. Room air did not. What does this show?  
    Options: Breathed-out air has more carbon dioxide than room air / Breathed-out air has no oxygen / Limewater is broken  
    **Answer:** Breathed-out air has more carbon dioxide than room air. *Why:* Carbon dioxide turns limewater milky. Breathed-out air carries carbon dioxide from your cells. Picking 'no oxygen' is a common mistake. Breathed-out air still has about 16 parts in 100 oxygen.
-7. (mcq) Which animal finds its food mostly by echoes?  
+7. (mcq) Which animal finds their food mostly by echoes?  
    Options: A bat / An eagle / A cow  
    **Answer:** A bat. *Why:* Bats send out high sounds and listen for echoes. Eagles use sharp eyes. Cows graze on grass they can see and smell.
-8. (mcq) A pit viper hunts mice in the dark. Which special sense helps it?  
-   Options: Pits on its face that sense warmth / Echolocation / Very sharp hearing in big ears  
-   **Answer:** Pits on its face that sense warmth. *Why:* Pit vipers, like the Malabar pit viper of the Western Ghats, have pits that feel the warmth of a mouse. Picking 'echolocation' mixes it up with bats. Snakes don't have outer ears at all.
-9. (mcq) A vulture eats animals that have already died. What kind of eater is it?  
+8. (mcq) A pit viper hunts mice in the dark. Which special sense helps them?  
+   Options: Pits on their face that sense warmth / Echolocation / Very sharp hearing in big ears  
+   **Answer:** Pits on their face that sense warmth. *Why:* Pit vipers, like the Malabar pit viper of the Western Ghats, have pits that feel the warmth of a mouse. Picking 'echolocation' mixes it up with bats. Snakes don't have outer ears at all.
+9. (mcq) A vulture eats animals that have already died. What kind of eater is the vulture?  
    Options: A scavenger / A filter feeder / A grazer  
    **Answer:** A scavenger. *Why:* A scavenger eats the dead. Vultures keep the land clean and stop disease from spreading. A filter feeder sieves water. A grazer eats plants.
-10. (mcq) A spider builds a sticky web and waits. How does it get food?  
+10. (mcq) A spider builds a sticky web and waits. How do they get food?  
    Options: By trapping / By grazing / By filtering water  
    **Answer:** By trapping. *Why:* A web is a trap. Flying insects get stuck, and the spider eats them. Grazing means eating plants for hours. Filtering means sieving water.
 11. (mcq) Why do earthworms come out onto roads after rain?  
@@ -805,26 +805,26 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - What did the lung say to the other lung? *We make a great pair.*
 - Why did the frog take the bus to work? *His car got toad away.*
 - Why do bats sleep upside down? *So they can hang out with their friends.*
-- What did the earthworm say when it came up after the rain? *Phew, I needed some fresh air!*
-- How does a dog find the remote control? *It just follows its nose.*
+- What did the earthworm say when they came up after the rain? *Phew, I needed some fresh air!*
+- How does a dog find the remote control? *They just follow their nose.*
 - Why are fish so clever? *Because they swim in schools.*
 - What did the ant say to the sugar? *I'll tell all my friends about you.*
 - Why did the dolphin cross the river? *To get to the other tide.*
 - What is a frog's favourite drink? *Croak-a-cola.*
-- Why couldn't the whale keep a secret? *It always had to come up and blow it.*
+- Why couldn't the whale keep a secret? *They always had to come up and blow it.*
 - What do you call a sleeping bull? *A bulldozer.*
-- Why did the bat go to the doctor? *It had a bad echo in its ears.*
+- Why did the bat go to the doctor? *They had a bad echo in their ears.*
 - Why do flamingos stand on one leg? *If they lifted both, they'd fall over.*
 - What is a crab's favourite game? *Pinch the parcel.*
-- Why was the owl so good at school? *It gave a hoot about its lessons.*
-- What did the mosquito say when it found a person? *Lunch is served.*
+- Why was the owl so good at school? *They gave a hoot about their lessons.*
+- What did the mosquito say when they found a person? *Lunch is served.*
 - How do you make a goldfish old? *Take away the g.*
-- Why did the climbing perch walk to the next pond? *Its old pond went dry, and it was fed up with mud.*
+- Why did the climbing perch walk to the next pond? *Their old pond went dry, and they were fed up with mud.*
 
 ## Connected maths
 - You counted your breaths for 15 seconds and got 5. A minute has four lots of 15 seconds. How many breaths would that be in one minute? **20 breaths in one minute.**. One minute is 15 + 15 + 15 + 15 seconds, so four lots of 15 seconds. You took 5 breaths in each lot. 5 + 5 + 5 + 5 = 20. Or 4 times 5 is 20. (queues `math.multiplication.equal-groups.L3`)
 - Look at the chart. Sitting still you took 20 breaths a minute. After jumping you took 40. How many times as many breaths did you take after jumping? **2 times as many.**. After jumping the bar shows 40. Sitting still it shows 20. 40 divided by 20 is 2. So you breathed twice as many times. Check: 20 + 20 = 40. (queues `math.division.sharing-and-grouping.L3`)
-- A small fish opened its gill covers 40 times in 30 seconds. How many times would that be in one minute? **80 times in one minute.**. One minute is two lots of 30 seconds. 40 + 40 = 80. So the fish opened its gill covers 80 times a minute. That is 4 times as many as a child's 20 breaths. (queues `math.multiplication.equal-groups.L3`)
+- A small fish opened their gill covers 40 times in 30 seconds. How many times would that be in one minute? **80 times in one minute.**. One minute is two lots of 30 seconds. 40 + 40 = 80. So the fish opened their gill covers 80 times a minute. That is 4 times as many as a child's 20 breaths. (queues `math.multiplication.equal-groups.L3`)
 - Look at the ant chart. How many ants came to the three baits altogether after 30 minutes? How many more ants were on the sugar than on the salt? **40 ants altogether. 23 more on the sugar than on the salt.**. Sugar 24, biscuit 15 and salt 1. 24 + 15 = 39, and 39 + 1 = 40 altogether. Sugar minus salt is 24 take away 1, which is 23. (queues `math.data.bar-charts.L3`)
 - In the breath diary, you breathed 16 times a minute asleep and 34 times a minute after climbing stairs. What is the difference? **18 breaths a minute.**. 34 take away 16. 34 take away 10 is 24. 24 take away 6 is 18. So you breathed 18 more times a minute after the stairs. (queues `math.addition-subtraction.mental-strategies.L3`)
 - In 10,000 drops of room air, about 4 are carbon dioxide. In 10,000 drops of breathed-out air, about 400 are carbon dioxide. How many times as much carbon dioxide is in your breath? Does that fit what you saw in the limewater test? **100 times as much. Yes: the breath glass turned milky fast, and the room-air glass stayed almost clear.**. 400 divided by 4 is 100, because 4 times 100 is 400. With 100 times as much carbon dioxide, breath turns limewater milky much faster than room air does. (queues `math.division.division-facts.L3`)
@@ -833,7 +833,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 Every Creature Counts (sci.animals.L3): Topic-level song
 
 ## Links
-- [iNaturalist](https://www.inaturalist.org) · interactive: A free app and website. Photograph any animal you find, and people around the world help name it. Good for frogs, fish and insects.
+- [iNaturalist](https://www.inaturalist.org) · interactive: A free app and website. Photograph any animal you find, and people around the world help name them. Good for frogs, fish and insects.
 - [Bombay Natural History Society](https://www.bnhs.org) · interactive: India's old nature society, with nature walks and programmes for children in many cities.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on science activities from a famous science museum. Search for breathing and lungs. It is on the founder's list of STEM websites.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step project ideas, including ones on breathing, lungs and animal senses, for older children.
@@ -852,12 +852,12 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 
 ## Warm-up
 - Fish breathe with ____. → gills
-- An earthworm breathes through its ____. → damp skin
-- Does a dolphin have lungs or gills? → Lungs. It breathes air through its blowhole.
+- An earthworm breathes through their ____. → damp skin
+- Does a dolphin have lungs or gills? → Lungs. They breathe air through their blowhole.
 - Do we breathe faster or slower after running? → Faster, because our muscles need more oxygen.
 - What gas do almost all animals need? → Oxygen.
 - What gas turns limewater milky? → Carbon dioxide.
-- How does a bat find food in the dark? → By echoes of its own sounds: echolocation.
+- How does a bat find food in the dark? → By echoes of their own sounds: echolocation.
 - How do ants find their way to food? → They follow a smell trail left by other ants.
 - Name an animal that eats animals that have already died. → A vulture or a crow. They are scavengers.
 - Which parts of you use oxygen? → Almost every cell in your body.

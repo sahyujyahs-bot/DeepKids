@@ -1,16 +1,16 @@
 # Animals around us: their daily habits and their homes
 `sci.animals.animals-around-us.L3`
 
-**Summary.** Crows, pigeons, ants, geckos and spiders share our buildings, and leopards walk the edge of Mumbai at night. Each of these animals has habits, things it does again and again, like a crow calling at first light or a bat flying out at dusk. Many animals build homes, but most use them only to raise their young or to hide, not to live in all year. You will watch animals near your home, find their daily patterns, and test how ants keep to the same path. Some questions are still open, such as why house sparrows have become rare in some cities.
+**Summary.** Crows, pigeons, ants, geckos and spiders share our buildings, and leopards walk the edge of Mumbai at night. Each of these animals has habits, things they do again and again, like a crow calling at first light or a bat flying out at dusk. Many animals build homes, but most use them only to raise their young or to hide, not to live in all year. You will watch animals near your home, find their daily patterns, and test how ants keep to the same path. Some questions are still open, such as why house sparrows have become rare in some cities.
 
-**Intro.** *Stand at a window or a door for one minute, very still. Count every animal you can see or hear. Do not forget the tiny ones. How many did you find?* Most people say 'two or three'. Then they look again. A crow on the wire. Ants on the wall. A pigeon on the ledge above. A spider in the corner. A gecko asleep behind the calendar. We think animals live far away, in forests and zoos. But some of them live in our walls, our trees and our kitchens. Each one has its own day. It wakes, eats, rests and hides at its own times. You can find those patterns by watching the same animal again and again.
+**Intro.** *Stand at a window or a door for one minute, very still. Count every animal you can see or hear. Do not forget the tiny ones. How many did you find?* Most people say 'two or three'. Then they look again. A crow on the wire. Ants on the wall. A pigeon on the ledge above. A spider in the corner. A gecko asleep behind the calendar. We think animals live far away, in forests and zoos. But some of them live in our walls, our trees and our kitchens. Each one has their own day. They wake, eat, rest and hide at their own times. You can find those patterns by watching the same animal again and again.
 
 ## Learning outcomes
 0. I can say what a habit is, and give the daily habits of at least three animals I have seen, such as when they wake, eat, rest and sleep.
 1. I can name animals that are active by day, by night, and at dawn and dusk, and give a reason why an animal might choose each.
 2. I can describe at least six kinds of animal homes, such as nests, burrows, hives, webs, mounds and hollows, and say what each one is for.
 3. I can name animals that live in Indian towns, villages and forests, and explain why many of them live near people.
-4. I can watch one animal for a week, write down the times and what it does, and find a pattern in my notes.
+4. I can watch one animal for a week, write down the times and what they do, and find a pattern in my notes.
 5. I can run a fair test about an animal habit, and say my claim, my evidence and my reasoning.
 6. I can treat animals kindly while I watch them, and explain why we should not disturb a nest.
 7. I can say what scientists agree about animal habits and homes, and what they still do not know, such as how birds find their way on long journeys.
@@ -18,20 +18,20 @@
 ## Terms
 - **Animal**: A living thing that must eat other living things to live. Most animals can move about on their own. People are animals too. *e.g.* A crow, an ant, a cow, a fish and you are all animals.
 - **Habit**: Something an animal does again and again, often at the same time or in the same way. *e.g.* Crows call loudly at first light every morning. That is one of their habits.
-- **Behaviour**: Everything an animal does: eating, resting, calling, building, fighting, playing and hiding. *e.g.* A street dog scratching, sleeping and barking are all its behaviour.
-- **Home**: A place an animal uses to sleep, hide, store food or raise its young. *e.g.* A honey bee's home is a hive. A rat's home is often a burrow.
-- **Nest**: A home that a bird or another animal builds to lay eggs or raise its young. *e.g.* A crow builds a nest of sticks in a tree. A weaver bird weaves one from grass.
+- **Behaviour**: Everything an animal does: eating, resting, calling, building, fighting, playing and hiding. *e.g.* A street dog scratching, sleeping and barking are all their behaviour.
+- **Home**: A place an animal uses to sleep, hide, store food or raise their young. *e.g.* A honey bee's home is a hive. A rat's home is often a burrow.
+- **Nest**: A home that a bird or another animal builds to lay eggs or raise their young. *e.g.* A crow builds a nest of sticks in a tree. A weaver bird weaves one from grass.
 - **Burrow**: A hole or tunnel that an animal digs in the ground to live in. *e.g.* Rats, porcupines and many crabs dig burrows. Many snakes hide in burrows that other animals dug.
 - **Hive**: The home of honey bees, made of wax rooms called cells. *e.g.* Giant rock bees often hang their hive under a water tank or a bridge.
 - **Roost**: A place where birds or bats rest or sleep together. It is also the word for resting there. *e.g.* In the evening hundreds of crows fly to one big tree to roost.
 - **Nocturnal**: Active at night and resting in the day. *e.g.* Owls, fruit bats and house geckos are nocturnal.
 - **Diurnal**: Active in the day and resting at night. *e.g.* Squirrels, crows and butterflies are diurnal. So are most people.
 - **Crepuscular**: Most active at dawn and dusk, the dim times just before sunrise and just after sunset. *e.g.* Many mosquitoes, and deer such as the chital, are busiest at dawn and dusk.
-- **Wild animal**: An animal that lives on its own, without people feeding or keeping it. *e.g.* A crow, a squirrel and a leopard are wild, even when they live in a city.
+- **Wild animal**: An animal that lives on their own, without people feeding or keeping them. *e.g.* A crow, a squirrel and a leopard are wild, even when they live in a city.
 - **Domestic animal**: An animal that people have kept and bred for a very long time, for food, work or company. *e.g.* Cows, goats, hens and pet dogs are domestic animals.
 - **Migrate**: To travel a long way at the same time each year, and then come back. *e.g.* Bar-headed geese fly over the Himalayas to spend the winter in India.
 - **Territory**: An area that an animal guards and keeps others out of. *e.g.* A magpie robin sings from the same branch every morning to say 'this patch is mine'.
-- **Observe**: To watch something carefully and notice details, often writing them down. *e.g.* You observe a pigeon when you note what it does and at what time.
+- **Observe**: To watch something carefully and notice details, often writing them down. *e.g.* You observe a pigeon when you note what they do and at what time.
 - **Naturalist**: A person who studies plants and animals by watching them closely where they live. *e.g.* Salim Ali was a famous Indian naturalist who studied birds.
 - **Tally**: A quick way to count by drawing a line for each thing. Every fifth line crosses the other four. *e.g.* Each time a pigeon lands, you draw one line.
 
@@ -39,35 +39,35 @@
 ### What a habit is · *defined*
 **Definition:** A habit is a behaviour an animal repeats, often at the same time of day, in the same place or in the same way.
 
-Much of what animals do follows a pattern. A crow wakes at first light and calls. A squirrel runs along the same wire every morning. Ants use the same path to the sugar tin. These repeated patterns are habits. You can only find a habit by watching more than once. One visit shows you what an animal did. Many visits show you what it usually does.
+Much of what animals do follows a pattern. A crow wakes at first light and calls. A squirrel runs along the same wire every morning. Ants use the same path to the sugar tin. These repeated patterns are habits. You can only find a habit by watching more than once. One visit shows you what an animal did. Many visits show you what they usually do.
 - e.g. House crows call loudly at first light, and fly to a big tree together at sunset.
 - e.g. A street dog often sleeps in the same shady corner every afternoon.
 - e.g. Ants walking to food follow the same line. Ants that have found food leave a smell trail on the way back, and the others follow it.
 ### Day animals, night animals and dawn-and-dusk animals · *defined*
 **Definition:** Diurnal animals are active in the day. Nocturnal animals are active at night. Crepuscular animals are most active at dawn and dusk.
 
-Every animal has a busy time and a resting time. Its busy time helps it find food and stay safe. Scientists think one reason fruit bats fly at night is that hawks and eagles, which could catch them, hunt by day. House geckos are busy at night, and many wait near our tube lights, because insects gather there. In hot places like India, many animals rest at noon, when the sun is fiercest. Inside most animals, a body clock keeps time, even in the dark.
+Every animal has a busy time and a resting time. Their busy time helps them find food and stay safe. Scientists think one reason fruit bats fly at night is that hawks and eagles, which could catch them, hunt by day. House geckos are busy at night, and many wait near our tube lights, because insects gather there. In hot places like India, many animals rest at noon, when the sun is fiercest. Inside most animals, a body clock keeps time, even in the dark.
 - e.g. Fruit bats hang in big trees all day and fly out at dusk to find fruit.
 - e.g. House geckos wait near tube lights at night to catch moths.
 - e.g. Squirrels and crows are busy all day and sleep at night.
 ### Body clocks · *defined*
 **Definition:** A body clock is a timer inside a living thing that keeps a roughly 24-hour rhythm of waking and sleeping.
 
-Shut a fruit fly in a dark box, and it still wakes and rests at about the same times each day. This is because some of its genes, the instructions inside each cell, switch on and off in a cycle that takes about one day. Three scientists, Jeffrey Hall, Michael Rosbash and Michael Young, worked out how the genes that run this clock work in fruit flies. They won a Nobel Prize for it in 2017. Sunlight resets the clock each morning, the way you set a watch. You have a body clock too. It is one reason you feel sleepy at night.
+Shut a fruit fly in a dark box, and they still wake and rest at about the same times each day. This is because some of their genes, the instructions inside each cell, switch on and off in a cycle that takes about one day. Three scientists, Jeffrey Hall, Michael Rosbash and Michael Young, worked out how the genes that run this clock work in fruit flies. They won a Nobel Prize for it in 2017. Sunlight resets the clock each morning, the way you set a watch. You have a body clock too. It is one reason you feel sleepy at night.
 - e.g. A rooster crows before sunrise, even before the sky gets light.
 - e.g. When people fly to a far country, their body clock is still on home time. They feel sleepy in the middle of the day.
 - e.g. Bright lights at night can confuse the body clocks of birds and insects in cities.
 ### What animal homes are for · *defined*
 **Definition:** An animal home is a place used to sleep, hide from danger, keep warm or cool, store food or raise young.
 
-Many people think a bird lives in its nest all year, like we live in a house. Most birds do not. They build a nest only to lay eggs and keep the chicks safe. When the chicks fly away, the nest is left empty. At night most birds sleep perched on a branch. Other homes are used all the time, like an ant nest or a beehive. Some animals, such as elephants and tigers, have no fixed home that they return to each night. They move around a large area. A tigress uses a hidden den only while her cubs are small.
+Many people think a bird lives in their nest all year, like we live in a house. Most birds do not. They build a nest only to lay eggs and keep the chicks safe. When the chicks fly away, the nest is left empty. At night most birds sleep perched on a branch. Other homes are used all the time, like an ant nest or a beehive. Some animals, such as elephants and tigers, have no fixed home that they return to each night. They move around a large area. A tigress uses a hidden den only while her cubs are small.
 - e.g. A crow's stick nest is used for about two months, then left empty.
 - e.g. An ant nest under the floor is used all year by thousands of ants.
-- e.g. A tiger rests wherever it likes inside its large area of forest.
+- e.g. A tiger rests wherever they like inside their large area of forest.
 ### Kinds of animal homes · *defined*
 **Definition:** Animals make homes by building, digging, weaving, spinning or finding a ready-made space.
 
-Each home is made from what is around. A crow builds with sticks, and in cities also with wire and plastic. A baya weaver bird weaves a hanging nest from strips of grass. A tailorbird stitches two leaves together with spider silk and plant threads. Honey bees make wax inside their bodies and build rooms with six sides. Termites build tall mounds of soil and spit. A spider spins its web from silk made in its body. An owl or a parakeet moves into a hole in a tree that it did not make.
+Each home is made from what is around. A crow builds with sticks, and in cities also with wire and plastic. A baya weaver bird weaves a hanging nest from strips of grass. A tailorbird stitches two leaves together with spider silk and plant threads. Honey bees make wax inside their bodies and build rooms with six sides. Termites build tall mounds of soil and spit. A spider spins their web from silk made in their body. An owl or a parakeet moves into a hole in a tree that they did not make.
 - e.g. A potter wasp makes a tiny pot of mud and lays an egg inside it.
 - e.g. A rat snake lives in a rat's old burrow.
 - e.g. Rock pigeons nest on window ledges, because ledges are like the cliffs their wild relatives used.
@@ -92,9 +92,9 @@ In towns you meet crows, pigeons, mynas, palm squirrels, street dogs, geckos, ra
 - e.g. Peacocks walk on the rooftops of villages in Rajasthan.
 - e.g. Elephants walk through tea gardens and villages in Assam and Kerala.
 ### Watching an animal like a scientist · *defined*
-**Definition:** To study a habit, a naturalist watches the same animal again and again, at set times, and writes down the time and what it did.
+**Definition:** To study a habit, a naturalist watches the same animal again and again, at set times, and writes down the time and what they did.
 
-Good watching is slow and quiet. You sit in the same place, at the same times, so the animal gets used to you. You write the time and what the animal does, not what you think it feels. 'The crow sat on the nest for 20 minutes' is a note. 'The crow was bored' is a guess. After a week you look for patterns. When is it busiest? Where does it go? Jane Goodall, an English scientist, watched wild chimpanzees in Tanzania from 1960 in this way, for years. She had no university degree when she started.
+Good watching is slow and quiet. You sit in the same place, at the same times, so the animal gets used to you. You write the time and what the animal does, not what you think they feel. 'The crow sat on the nest for 20 minutes' is a note. 'The crow was bored' is a guess. After a week you look for patterns. When are they busiest? Where do they go? Jane Goodall, an English scientist, watched wild chimpanzees in Tanzania from 1960 in this way, for years. She had no university degree when she started.
 - e.g. Write: '7:10 am. Pigeon lands on ledge. Carries a twig.'
 - e.g. Watch at the same three times each day: morning, afternoon and evening.
 - e.g. Sit far enough away that the animal goes on behaving normally.
@@ -106,9 +106,9 @@ Some animals live in two homes, far apart. Each winter, bar-headed geese fly fro
 - **Many scientists who study bird eyes:** A substance in birds' eyes, called cryptochrome, may let them sense Earth's magnetism using a strange quantum effect. Experiments on robins support this. It is not proven yet.
 - **Other scientists:** Birds may sense magnetism with tiny bits of iron in their bodies, perhaps in the beak or the ear. Some early studies of this did not hold up. So they keep testing it.
 ### Watching kindly · *defined*
-**Definition:** Watching kindly means we look without harming, chasing, catching or scaring the animal, and without touching its home.
+**Definition:** Watching kindly means we look without harming, chasing, catching or scaring the animal, and without touching their home.
 
-An animal near its nest is protecting its young. If we go close, it may leave the eggs to go cold, or it may attack us. Crows dive at people who walk under their nests in the nesting months. They are parents guarding their chicks. So we watch from a distance, keep quiet and never touch eggs or chicks. In our tests we only watch animals. We do not pick them up.
+An animal near their nest is protecting their young. If we go close, they may leave the eggs to go cold, or they may attack us. Crows dive at people who walk under their nests in the nesting months. They are parents guarding their chicks. So we watch from a distance, keep quiet and never touch eggs or chicks. In our tests we only watch animals. We do not pick them up.
 - e.g. Use binoculars, or sit at a window, to watch a nest.
 - e.g. Never feed wild monkeys. It teaches them to grab food from people.
 - e.g. After the ant trail test, wipe up the sugar and wipe the floor with a damp cloth, so the ants stop coming to that spot.
@@ -134,14 +134,14 @@ Animals that live in cities face noise, bright lights and new foods. Some seem t
   For: Forests do hold most of India's wild animals, and many animals cannot survive in cities.  
   Against: Crows, pigeons, kites, palm squirrels and geckos have lived alongside people for thousands of years. Leopards live in Mumbai's park and some walk past homes at night. For these animals the town is home.
 - **Animals do not think about their homes. They build them by pure instinct, like machines.** (René Descartes, a French philosopher, wrote in 1637 that animals are like machines. Many people still believe something like this.; *rejected*)  
-  For: A young weaver bird that has never seen a nest can still weave one. Part of the skill is born in it.  
+  For: A young weaver bird that has never seen a nest can still weave one. Part of the skill is born in them.  
   Against: Young weaver birds weave messy nests at first and get better with practice. Crows choose new materials like wire when twigs are scarce. So building is part inborn and part learned.
 - **House sparrows are disappearing from Indian cities mainly because of mobile phone towers.** (A popular idea in newspapers and messages.; *minority*)  
   For: Sparrow numbers did seem to fall in some cities as phone towers spread.  
   Against: There is no strong evidence that towers harm sparrows. Many scientists point to other changes. Modern buildings have fewer holes to nest in. Neat gardens have fewer insects for chicks to eat. And in some cities sparrows have not fallen at all.
 - **Snakes come to drink milk, so we should leave milk out for them.** (A common belief in many parts of India, especially around Nag Panchami.; *rejected*)  
   For: Snakes are often seen near homes and cowsheds where milk is kept.  
-  Against: Snakes eat animals such as rats, frogs and eggs. They come to cowsheds and homes to hunt rats. Snakes cannot digest milk well. Forcing milk on a snake can harm it.
+  Against: Snakes eat animals such as rats, frogs and eggs. They come to cowsheds and homes to hunt rats. Snakes cannot digest milk well. Forcing milk on a snake can harm them.
 - **Male baya weaver birds put blobs of mud inside their nests to make them heavy, so the wind does not swing them.** (An idea from Indian bird watchers.; *debated*)  
   For: The mud is real. Many nests have blobs of wet mud stuck inside the walls.  
   Against: Nobody has proven why. Others think the mud may help the male show off, or help the nest keep its shape. Scientists still argue.
@@ -152,8 +152,8 @@ Animals that live in cities face noise, bright lights and new foods. Some seem t
 ## Roots
 We have been watching the animals around us: when they are busy, where they live, and how ants keep to one path. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** An ant that has never been to the sugar can still find it. It follows the scent that other ants left on the floor. Rub the scent away, and the ants stop and wander until it is laid again. So the colony keeps its way to food on the floor, where every ant can follow it.  
-*Habit it breaks:* We think whatever an animal knows must be stored inside its own head. An ant colony keeps its way to food on the ground, where every ant can follow it and add to it.  
+**Deep truth.** An ant that has never been to the sugar can still find it. They follow the scent that other ants left on the floor. Rub the scent away, and the ants stop and wander until it is laid again. So the colony keeps their way to food on the floor, where every ant can follow it.  
+*Habit it breaks:* We think whatever an animal knows must be stored inside their own head. An ant colony keeps their way to food on the ground, where every ant can follow it and add to it.  
 *Evidence:* In the Ant Trail Test, ants walked on under a hand held above the trail, but stopped and wandered where the floor was rubbed. A few minutes later the line formed again.
 
 - *who am i:* You are an animal too. You have habits, a home and a body clock, like the crow outside.
@@ -175,11 +175,11 @@ The crows' nest in the story was made of a neem tree, a family's lost wire and t
 - Ask: Are you watching the animals, or are they also watching you?
 
 ## Deep and big questions
-- *big:* If a crow builds its nest with wire from your house, whose home is the nest? (hint: Think of the tree, the wire, the crow's work and the chicks.)
+- *big:* If a crow builds their nest with wire from your house, whose home is the nest? (hint: Think of the tree, the wire, the crow's work and the chicks.)
 - *big:* Is a city a natural place, or not? (hint: Ants build cities too. Is an anthill natural?)
 - *deep:* How does a bat know it is evening, deep inside a dark cave? (hint: Think about the clock inside every body.)
 - *deep:* Why do most birds sleep on branches and not in their nests? (hint: What is a nest really for?)
-- *deep:* If you watched a crow for one minute, what would you know? If you watched it for a week, what more would you know? (hint: Think about the difference between what happened once and what usually happens.)
+- *deep:* If you watched a crow for one minute, what would you know? If you watched them for a week, what more would you know? (hint: Think about the difference between what happened once and what usually happens.)
 - *big:* Do people have habits like animals do? What are yours? (hint: When do you wake, eat and feel sleepy?)
 - *big:* Should people share their towns with monkeys, leopards and snakes? How? (hint: Think of what each one needs, and what keeps people safe.)
 - *big:* A family of bar-headed geese flies over the Himalayas every year. Which country is their real home? (hint: Can a home be two places, or a whole journey?)
@@ -191,19 +191,19 @@ The crows' nest in the story was made of a neem tree, a family's lost wire and t
 
 In the last week of May, when Chennai was so hot that even the pavements seemed to sigh, a crow stole the wire from Tara's window.
 
-It was a short piece of copper wire, left over from when Appa fixed the fan. Tara had put it on the sill. The crow landed, tilted its head, and looked at her with one shiny dark eye. Then it picked up the wire and flew straight into the neem tree outside.
+It was a short piece of copper wire, left over from when Appa fixed the fan. Tara had put it on the sill. The crow landed, tilted their head, and looked at her with one shiny dark eye. Then they picked up the wire and flew straight into the neem tree outside.
 
 'Thief!' said Tara. But she went to look. On a fork of the neem, level with her window, sat a lumpy bowl of sticks. Poking out of it were things she knew. A green toothbrush. Two of Amma's hair clips. A loop of white electric wire. And now, her copper.
 
 'Our house is in that nest,' she told Amma. Amma laughed. 'Then the crow owes us rent.'
 
-By the next morning, nobody was laughing. Mrs Iyer from the second floor came up the stairs holding her head. 'That crow hit me,' she said. 'Right here. I was only walking to the gate.' By evening the crow had dived at the milkman, and at Murugan, the watchman. Murugan stood under the tree with a long bamboo pole. 'Mad bird,' he said. 'Tomorrow I will knock that nest down. Then it will go and live somewhere else.'
+By the next morning, nobody was laughing. Mrs Iyer from the second floor came up the stairs holding her head. 'That crow hit me,' she said. 'Right here. I was only walking to the gate.' By evening the crow had dived at the milkman, and at Murugan, the watchman. Murugan stood under the tree with a long bamboo pole. 'Mad bird,' he said. 'Tomorrow I will knock that nest down. Then they will go and live somewhere else.'
 
 Tara did not want the nest knocked down. But she could not say why the crows were attacking, because she did not know. 'If you want to argue with Murugan,' said Amma, 'you need more than feelings. You need to know.'
 
 So Tara made a notebook. On the first page she drew a line down the middle. On one side she wrote TIME. On the other side she wrote WHAT THE CROWS DID. Murugan agreed to wait. 'One week,' he said, holding up one finger. 'Then the pole.'
 
-Watching is harder than it sounds. On the first day Tara wrote only: 'Crow. Crow again. Both crows. Hot.' The crows looked the same, glossy black with grey scarves round their necks. But by the second day she could tell them apart. One had a feather on its back that stuck out like a bent nail. She called that one Nail. The other was a little bigger, and it always arrived with something in its beak. She called that one Builder.
+Watching is harder than it sounds. On the first day Tara wrote only: 'Crow. Crow again. Both crows. Hot.' The crows looked the same, glossy black with grey scarves round their necks. But by the second day she could tell them apart. One had a feather on their back that stuck out like a bent nail. She called that one Nail. The other was a little bigger, and they always arrived with something in their beak. She called that one Builder.
 
 Slowly she learned their day. At first light, about half past five, they woke the whole street with harsh calls. In the hot afternoon they sat in the shade with their beaks open, panting like tired dogs. One of them always stayed on the nest. Nail sat, and Builder brought food. At sunset both flew off towards the big rain tree by the temple, where hundreds of crows met, and the noise was like a market. Later, in the dusk, Nail came back alone to the nest.
 
@@ -219,13 +219,13 @@ Murugan scratched his chin. Then he tied a rope across the short path and hung a
 
 Mrs Iyer complained that the other side was ten steps longer. But she walked it. And the diving stopped. Tara wrote that down too. Day 6: no dives. Day 7: no dives.
 
-The chicks grew. Two were scruffy and grey-black, like small copies of their parents. The third was strange. It was bigger than the others, blacker and shinier, and it shouted for food louder than both of them put together. Nail and Builder worked from dawn to dusk to fill its open mouth.
+The chicks grew. Two were scruffy and grey-black, like small copies of their parents. The third was strange. They were bigger than the others, blacker and shinier, and they shouted for food louder than both of them put together. Nail and Builder worked from dawn to dusk to fill their open mouth.
 
 One morning in June, a new sound came from the neem. It was not the croak of a crow chick. It was a loud, shrill cry, again and again, and it came from the big black chick. Amma came to the window with a dish towel in her hand. She looked for a long time. 'That is not a crow,' she said, surprised. 'That is a baby koel. In a crow's nest.'
 
-She explained. A koel mother does not build a nest at all. She waits until the crows are busy, slips into their nest and lays one egg among theirs. The crows do not seem to notice. They feed the koel chick as if it were their own. When a male koel grows up, he sings the ku-oo, ku-oo, ku-OO call that every child in Chennai knows from the summer.
+She explained. A koel mother does not build a nest at all. She waits until the crows are busy, slips into their nest and lays one egg among theirs. The crows do not seem to notice. They feed the koel chick as their own. When a male koel grows up, he sings the ku-oo, ku-oo, ku-OO call that every child in Chennai knows from the summer.
 
-Tara looked at the big black chick, its beak wide open, and at Nail pushing food into it. She looked at the toothbrush and the hair clips and her own copper wire, woven into the walls of the nest. The nest was made of the neem tree, and of their flat, and of two crows' hard work. And a koel was growing up inside it. 'Whose home is it, then?' she asked. Amma did not answer. She stood beside Tara, and they watched together.
+Tara looked at the big black chick, their beak wide open, and at Nail pushing food into it. She looked at the toothbrush and the hair clips and her own copper wire, woven into the walls of the nest. The nest was made of the neem tree, and of their flat, and of two crows' hard work. And a koel was growing up inside it. 'Whose home is it, then?' she asked. Amma did not answer. She stood beside Tara, and they watched together.
 
 In July the cardboard sign came down, and the nest stood empty, as nests do when their work is done. But every evening Tara still watched the crows fly off to the temple tree. The next summer, early one morning, she heard a koel calling ku-oo from somewhere she could not see. She wrote it in her notebook. Time: 5:40 am. What I heard: a koel. Maybe one of ours.
 
@@ -239,9 +239,9 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 
 ## Games
 ### g1 · Who Lives Here? (20 min)
-- **rules:** Cut out the 16 animal cards and the 16 home cards. Shuffle them together and lay them face down in rows.; On your turn, turn over two cards and read them aloud.; If the animal matches its home, keep the pair. Say one thing the home is for, such as eggs, hiding or keeping cool. Then take a leaf token.; If they do not match, turn them back face down. Try to remember where they are.; Shuffle the 4 wanderer cards into the rows at the start. A wanderer has no home card. If you turn one over, read it aloud and keep it. Say why that animal does not need a fixed home, and take two leaf tokens.; When all cards are taken, the player with the most leaf tokens wins.
+- **rules:** Cut out the 16 animal cards and the 16 home cards. Shuffle them together and lay them face down in rows.; On your turn, turn over two cards and read them aloud.; If the animal matches their home, keep the pair. Say one thing the home is for, such as eggs, hiding or keeping cool. Then take a leaf token.; If they do not match, turn them back face down. Try to remember where they are.; Shuffle the 4 wanderer cards into the rows at the start. A wanderer has no home card. If you turn one over, read it aloud and keep it. Say why that animal does not need a fixed home, and take two leaf tokens.; When all cards are taken, the player with the most leaf tokens wins.
 - **Printable cards: 16 animal cards and 16 home cards to cut out:** Crow | stick nest in a tree, sometimes with wire; Baya weaver bird | hanging nest woven from grass; Tailorbird | two leaves stitched together; Rock pigeon | a flat nest on a window ledge; Honey bee | wax hive with six-sided rooms; Termite | tall mound of soil; Spider | silk web; Owl | hole in an old tree; Indian grey hornbill | tree hole sealed with mud; Rat | burrow under the ground; Fruit bat | hangs upside down in a big tree; Potter wasp | tiny mud pot; Palm squirrel | ball of grass and fibre in a tree; House sparrow | a hole in a wall or a roof; Black ant | tunnels under the floor or soil; Earthworm | damp soil
-- **Printable cards: 4 wanderer cards:** Tiger: no fixed home. It rests anywhere in its forest area.; Elephant: no fixed home. The herd walks from place to place.; Street dog: a favourite corner, but no house it builds.; Bar-headed goose: one summer home and one winter home.
+- **Printable cards: 4 wanderer cards:** Tiger: no fixed home. They rest anywhere in their forest area.; Elephant: no fixed home. The herd walks from place to place.; Street dog: a favourite corner, but no house they build.; Bar-headed goose: one summer home and one winter home.
 - **Printable tokens: 20 leaf tokens, cut from paper:** 🍃
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out all the cards and tokens. 2. Mix the wanderer cards in. 3. Lay all cards face down in rows.  
@@ -251,7 +251,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   *Parent does:* Play a practice round. Turn over the crow and the stick nest cards together.  
   *Parent says:* Let's practise. This is a crow, and this is a stick nest. In the city, crows often add wire. What do you think the nest is for?  
   *Child mode:* Practice round. A crow and a stick nest. What is the nest for? Tap your answer.
-  - Ask: Does the crow sleep in its nest every night of the year? (good: No. Only while it has eggs or chicks.; Most of the year it sleeps on a branch.)
+  - Ask: Does the crow sleep in their nest every night of the year? (good: No. Only while they have eggs or chicks.; Most of the year they sleep on a branch.)
   - Check: What is a crow's nest mainly for? → **Laying eggs and keeping the chicks safe**
 - **s3 (10 min)**  
   *Parent does:* Play the game. After each match, let the player say what the home is for.  
@@ -262,7 +262,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   *Parent does:* When someone turns over a wanderer card, stop and talk about it.  
   *Parent says:* A wanderer! The tiger has no fixed home. Why might a big animal like a tiger keep moving?  
   *Child mode:* A wanderer card! This animal has no fixed home. Why not? Tap your answer.
-  - Check: Why does a tiger have no fixed home? → **It needs a big area to find enough food, so it keeps moving.**
+  - Check: Why does a tiger have no fixed home? → **They need a big area to find enough food, so they keep moving.**
 - **s5 (2 min)**  
   *Parent does:* Count the leaf tokens. Ask the closing question.  
   *Parent says:* Count your leaves. Now think. Which home was the cleverest, and why?  
@@ -274,7 +274,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 - **Printable board: Three signs for the floor:** SUN: day animals (diurnal); MOON: night animals (nocturnal); SUNSET LINE: dawn and dusk animals (crepuscular)
 - **s1 (2 min)**  
   *Parent does:* 1. Tape the SUN sign to one wall and the MOON sign to the opposite wall. 2. Lay an old sari across the middle of the floor. 3. Shuffle the cards.  
-  *Parent says:* Some animals work the day shift, some work the night shift, and some work at dawn and dusk. When I call an animal, run to its shift.  
+  *Parent says:* Some animals work the day shift, some work the night shift, and some work at dawn and dusk. When I call an animal, run to their shift.  
   *Child mode:* Sun is for day animals. Moon is for night animals. The middle line is for dawn and dusk. Get ready to run!
 - **s2 (3 min)**  
   *Parent does:* Call 'Owl' as the practice card.  
@@ -284,7 +284,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 - **s3 (8 min)**  
   *Parent does:* Call the cards one by one. After each, read the answer and let children explain.  
   *Parent says:* Next animal: fruit bat! Run! Now, who can tell me why bats come out in the evening?  
-  *Child mode:* Listen to the next animal. Run to its shift. Then say why.
+  *Child mode:* Listen to the next animal. Run to their shift. Then say why.
   - Note: Answers: day for crow, squirrel, butterfly, pigeon, honey bee, myna, kingfisher, rooster and bulbul. Night for owl, fruit bat, gecko, firefly, cockroach, jackal, moth, rat, night heron and frog (most frogs call after dark). Earthworms are night animals too: they come up when the ground is cool and damp. Dawn and dusk for mosquito and deer. Tigers and leopards hunt at night and at dawn and dusk, so both MOON and the line can be right. Accept good reasons.
 - **s4 (2 min)**  
   *Parent does:* Stop and ask the big question.  
@@ -396,7 +396,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 ## Activities
 ### a1 · Ten-Minute Window Watch (15 min)
 - **safety:** Watch from inside, or from a safe step outside. Do not lean out of windows.
-- **record:** Make two columns: WHAT I SAW and WHAT IT WAS DOING. Then circle the animal you want to watch for a whole week.
+- **record:** Make two columns: WHAT I SAW and WHAT THEY WERE DOING. Then circle the animal you want to watch for a whole week.
 - **s1 (2 min)**  
   *Parent does:* Choose a window or a door with a view of a tree, a wall or a street. Set a timer for 10 minutes.  
   *Parent says:* We're going to be naturalists. A naturalist is someone who studies animals by watching them quietly. For 10 minutes, we'll write down every animal we see or hear.  
@@ -409,7 +409,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 - **s3 (3 min)**  
   *Parent does:* Read the list together. Ask what each animal was doing. Circle one animal to watch for a week.  
   *Parent says:* Look how many we found. Which one was doing the most interesting thing? Let's choose one animal to watch all week.  
-  *Child mode:* Read your list. Which animal was most interesting? Circle it. You will watch it all week.
+  *Child mode:* Read your list. Which animal was most interesting? Circle them. You will watch them all week.
   - Check: You saw a crow sitting on a wire for one minute. What can you say for sure? → **The crow sat on the wire this time.**
 ### a2 · Animal Homes Walk and Map (35 min)
 - **safety:** Go with a grown-up. Look but do not touch nests, holes, webs or hives. Do not put your hand into any hole, because snakes and scorpions may hide there. Stay away from bee hives.
@@ -469,14 +469,14 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   - Think: Young weaver birds weave messy nests at first and better ones later. What does that tell you?
 ### a5 · Town, Village, Forest (20 min)
 - **safety:** No special safety needed.
-- **record:** Stick or draw each animal in its place. Draw animals that live in two or three places on the fold lines.
+- **record:** Stick or draw each animal in their place. Draw animals that live in two or three places on the fold lines.
 - **s1 (3 min)**  
   *Parent does:* Fold the sheet into three. Label the parts Town, Village and Forest.  
   *Parent says:* India's animals live in towns, villages and forests. Let's sort them out. But watch carefully, because some may surprise you.  
   *Child mode:* Fold your paper into three: town, village, forest. Get your animal cards.
 - **s2 (12 min)**  
   *Parent does:* Sort the 24 cards together. Start with crow, pigeon, myna, palm squirrel, street dog, house gecko, rat and fruit bat. Then do cow, buffalo, goat, hen, peacock, cattle egret, frog and rat snake. Last, do weaver bird, tiger, elephant, sloth bear, great hornbill, langur, rhesus macaque and leopard.  
-  *Parent says:* Where does this one live? Could it live in more than one place?  
+  *Parent says:* Where does this one live? Could they live in more than one place?  
   *Child mode:* Put each card where the animal lives. Can any live in two places?
   - Note: Many cards can go on a fold. Macaques and langurs live in forests and in towns. Peacocks live in villages and forests. Leopards live in forests, near villages, and at the edge of Mumbai. Fruit bats roost in big trees in towns and villages. There is no single right answer, as long as the reason is good.
   - Check: Where do leopards live in India? → **In forests, and also near villages and at the edge of cities like Mumbai**
@@ -490,7 +490,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 - **record:** Mark each animal sound where it came from, with a small drawing or a letter.
 - **s1 (2 min)**  
   *Parent does:* Sit outside or by an open window. Draw an X in the middle of the paper.  
-  *Parent says:* This X is you. We'll close our eyes and listen. Every time we hear an animal, we'll mark it on the paper, in the direction it came from.  
+  *Parent says:* This X is you. We'll close our eyes and listen. Every time we hear an animal, we'll mark them on the paper, in the direction they came from.  
   *Child mode:* The X is you. Close your eyes. Listen for animals.
 - **s2 (6 min)**  
   *Parent does:* Listen in silence for 5 minutes. Open eyes briefly to mark each sound.  
@@ -505,34 +505,34 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 
 ## Projects
 ### p1 · My Animal Week (90 min, 7 days)
-- **safety:** Watch from a distance. Never touch the animal, its nest or its young. If you watch a street dog, a cow or monkeys, a grown-up must be with you and you keep well away.
+- **safety:** Watch from a distance. Never touch the animal, their nest or their young. If you watch a street dog, a cow or monkeys, a grown-up must be with you and you keep well away.
 - **record:** Each day write the date, the time, the weather and what the animal did. On day 7, draw a timeline from morning to night with what your animal does at each time.
-- **schedule:** day 1: Choose one animal you can find every day. Make the diary table. Watch for 10 minutes and write down the times. (15 min); day 2: Watch at the same time and place. Add one new detail, such as what it eats or where it goes. (10 min); day 3: Watch at a different time of day. Is the animal doing something different? (10 min); day 4: Watch at the first time again. Draw your animal from life. (10 min); day 5: Watch and count one behaviour with tally marks, such as how many times it eats or calls. (10 min); day 6: Watch at dusk or dawn, with a grown-up. Where does it go to rest? (10 min); day 7: Read the whole diary. Find patterns. Draw a timeline of your animal's day. Say your claim, evidence and reasoning. (25 min)
+- **schedule:** day 1: Choose one animal you can find every day. Make the diary table. Watch for 10 minutes and write down the times. (15 min); day 2: Watch at the same time and place. Add one new detail, such as what they eat or where they go. (10 min); day 3: Watch at a different time of day. Is the animal doing something different? (10 min); day 4: Watch at the first time again. Draw your animal from life. (10 min); day 5: Watch and count one behaviour with tally marks, such as how many times they eat or call. (10 min); day 6: Watch at dusk or dawn, with a grown-up. Where do they go to rest? (10 min); day 7: Read the whole diary. Find patterns. Draw a timeline of your animal's day. Say your claim, evidence and reasoning. (25 min)
 - **s1 (5 min)**  
-  *Parent does:* Help your child choose one animal they can find every day near home. Make the diary table: Date, Time, Weather, What it did.  
-  *Parent says:* Real naturalists watch one animal for a long time. That's how they find its habits. Which animal can we find every single day?  
-  *Child mode:* Choose one animal you can find every day. It is your animal for the week.
-  - Note: Easy choices: a crow or pigeon pair on a ledge or tree, palm squirrels, an ant trail in the kitchen, a house gecko near a tube light at night, a spider in its web, or a cow in the lane. An ant trail or a spider is good if you live high up.
+  *Parent does:* Help your child choose one animal they can find every day near home. Make the diary table: Date, Time, Weather, What they did.  
+  *Parent says:* Real naturalists watch one animal for a long time. That's how they find their habits. Which animal can we find every single day?  
+  *Child mode:* Choose one animal you can find every day. They are your animal for the week.
+  - Note: Easy choices: a crow or pigeon pair on a ledge or tree, palm squirrels, an ant trail in the kitchen, a house gecko near a tube light at night, a spider in their web, or a cow in the lane. An ant trail or a spider is good if you live high up.
 - **s2 (10 min)**  
   *Parent does:* Watch for 10 minutes. Write the time and every action, as facts.  
   *Parent says:* Write only what you see. 'The squirrel ran up the wall at 7:15' is a fact. 'The squirrel was happy' is a guess. Facts first.  
-  *Child mode:* Watch for 10 minutes. Write the time and what it did. Only write what you see.
-  - Check: Which of these is a fact you saw, not a guess? → **The pigeon sat on the ledge from 7:10 to 7:25 with its feathers puffed up.**
+  *Child mode:* Watch for 10 minutes. Write the time and what they did. Only write what you see.
+  - Check: Which of these is a fact you saw, not a guess? → **The pigeon sat on the ledge from 7:10 to 7:25 with their feathers puffed up.**
 - **s3 (10 min)**  
   *Parent does:* Days 2 to 6: watch for 10 minutes each day, following the schedule.  
   *Parent says:* Today, watch at a different time. Is your animal doing the same thing as before, or something new?  
-  *Child mode:* Watch your animal again today. Is it doing the same thing, or something new?
+  *Child mode:* Watch your animal again today. Are they doing the same thing, or something new?
   - Note: On day 6, watch at dawn or dusk with your child. Many animals go to a roost, a nest or a hiding place then. Children are often amazed to see where their animal sleeps.
   - Wait: Come back to this each day from day 2 to day 6, for about 10 minutes.
 - **s4 (15 min)**  
   *Parent does:* Day 7: read the diary together. Look for things that happened again and again. Draw a timeline of the animal's day.  
-  *Parent says:* Let's read the whole week. What did your animal do more than once? At what times? Now let's draw its day, from morning to night.  
+  *Parent says:* Let's read the whole week. What did your animal do more than once? At what times? Now let's draw their day, from morning to night.  
   *Child mode:* Read your whole diary. What happened again and again? Draw your animal's day.
   - Check: Your ants were busy on the sugar tin every evening, but you never saw them there in the morning. What is the best claim? → **In my kitchen, the ants come to the sugar mostly in the evening.**
 - **s5 (5 min)**  
   *Parent does:* Ask for claim, evidence and reasoning about one habit.  
-  *Parent says:* Tell me like a scientist. What is one habit of your animal? What did you see that shows it? And why do you think it does that?  
-  *Child mode:* Say one habit of your animal. Say what you saw. Say why you think it does that.
+  *Parent says:* Tell me like a scientist. What is one habit of your animal? What did you see that shows it? And why do you think they do that?  
+  *Child mode:* Say one habit of your animal. Say what you saw. Say why you think they do that.
   - Note: A good answer: What I think: our squirrels rest in the afternoon. What I saw: on 5 days, they were running about at 7 am, but at 2 pm they lay flat on the shady wall. Why: it is very hot at 2 pm, and lying flat on cool stone helps them cool down.
 
 ## Challenges
@@ -577,23 +577,23 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   - Check: You find two pigeon eggs on the AC box. What should you do? → **Leave it until the chicks fly, then cover the spot before the next nesting.**
 - **s3 (10 min)**  
   *Parent does:* Share the plan with the family. Do the 'your turn' part for another animal.  
-  *Parent says:* Let's show the family our plan. Now, which other animal shares our home? How can we share with it?  
+  *Parent says:* Let's show the family our plan. Now, which other animal shares our home? How can we share with them?  
   *Child mode:* Show your plan to your family. Then make a plan for another animal.
 
 ## Worksheets
 ### Animal Neighbours (core) (core, 15 questions)
 1. (mcq) What is a habit?  
    Options: Something an animal does only once / Something an animal does again and again, often at the same time / The place where an animal lives / The food an animal eats  
-   **Answer:** Something an animal does again and again, often at the same time. *Why:* A habit is a repeated behaviour, like crows calling at first light every day. Picking 'only once' is the opposite. Picking 'place where it lives' mixes up habit with habitat or home.
+   **Answer:** Something an animal does again and again, often at the same time. *Why:* A habit is a repeated behaviour, like crows calling at first light every day. Picking 'only once' is the opposite. Picking 'place where an animal lives' mixes up habit with habitat or home.
 2. (mcq) Which animal is nocturnal, active at night?  
    Options: Palm squirrel / Crow / Fruit bat / Butterfly  
    **Answer:** Fruit bat. *Why:* Fruit bats rest in trees in the day and fly out at dusk to find fruit. Squirrels, crows and butterflies are busy in the day. Picking one of them usually means guessing from animals we see most.
-3. (fill) A home that a bird builds for its eggs and chicks is called a ____.  
+3. (fill) A home that a bird builds for their eggs and chicks is called a ____.  
    **Answer:** ['nest']. *Why:* A nest is built to lay eggs and raise young. Most birds leave it once the chicks fly.
 4. (fill) A tunnel that an animal digs in the ground to live in is called a ____.  
    **Answer:** ['burrow']. *Why:* Rats, porcupines, crabs and many snakes use burrows. Burrows stay cool in the day.
-5. (match) Match each animal to its home.  
-   **Answer:** Honey bee → wax hive; Baya weaver → hanging grass nest; Spider → silk web; Termite → soil mound; Owl → hole in a tree. *Why:* Each animal builds or finds a home that suits it. Bees make wax, weavers weave grass, spiders spin silk, termites pile soil, and owls move into tree holes.
+5. (match) Match each animal to their home.  
+   **Answer:** Honey bee → wax hive; Baya weaver → hanging grass nest; Spider → silk web; Termite → soil mound; Owl → hole in a tree. *Why:* Each animal builds or finds a home that suits them. Bees make wax, weavers weave grass, spiders spin silk, termites pile soil, and owls move into tree holes.
 6. (sort) Sort these animals. Are they busy mostly in the DAY or at NIGHT?  
    **Answer:** crow → Day; owl → Night; house gecko → Night; myna → Day; moth → Night; honey bee → Day. *Why:* Owls, geckos and moths are nocturnal. Crows, mynas and honey bees are diurnal, busy in daylight.
 7. (truefalse) Most birds sleep in their nests every night of the year.  
@@ -612,9 +612,9 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
    Options: The crows are mad. / They are guarding a nest with eggs or chicks. / They want to play. / They are lost.  
    **Answer:** They are guarding a nest with eggs or chicks.. *Why:* In the nesting months, crows guard their nests and dive at anyone who comes close. Picking 'mad' explains nothing. It is what Murugan thought in the story before Tara watched for a week.
 13. (write) Name three animals you have seen near your home. For each one, write one habit.  
-   **Answer:** For example: Crows call loudly at first light. Pigeons sit on the window ledge in the afternoon. Ants walk in a line to the sugar tin in the evening.. *Why:* A good answer names a real animal and something it does again and again, with a time or place if possible.
+   **Answer:** For example: Crows call loudly at first light. Pigeons sit on the window ledge in the afternoon. Ants walk in a line to the sugar tin in the evening.. *Why:* A good answer names a real animal and something they do again and again, with a time or place if possible.
 14. (write) Why do we watch an animal for a week, not just once?  
-   **Answer:** One watch only shows what the animal did that one time. Watching many times shows what it usually does, so we can find its habits.. *Why:* Habits are patterns. A pattern only appears after many watches.
+   **Answer:** One watch only shows what the animal did that one time. Watching many times shows what they usually do, so we can find their habits.. *Why:* Habits are patterns. A pattern only appears after many watches.
 15. (draw) Draw one animal home you have seen near your house. Label who lives there and what it is made of.  
    **Answer:** Any real home, for example a crow's nest of sticks and wire in a tree, a web in a gate, or an anthill by a wall, with labels.. *Why:* Drawing from life makes you look closely at how a home is made.
 ### Habits and Homes (stretch) (stretch, 15 questions)
@@ -627,22 +627,22 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 3. (mcq) In the Ant Trail Test, why did we first hold a finger just above the trail, without touching it?  
    Options: To check that our hand and its shadow were not what stopped the ants / To feed the ants / To make the ants walk faster / To count the ants more easily  
    **Answer:** To check that our hand and its shadow were not what stopped the ants. *Why:* If the ants stopped only when we rubbed the floor, and not when a hand was above them, then the rubbing is the reason. This try rules out the hand. Picking 'to feed the ants' misses that a fair test changes one thing at a time.
-4. (truefalse) A tiger has no fixed home. It rests anywhere inside its large area.  
-   **Answer:** True. *Why:* True. A tiger roams a large area to find enough prey. It does not build a home.
-5. (truefalse) A koel builds a big nest and raises its own chicks.  
-   **Answer:** False. *Why:* False. A koel lays its egg in a crow's nest, and the crows raise the koel chick.
+4. (truefalse) A tiger has no fixed home. They rest anywhere inside their large area.  
+   **Answer:** True. *Why:* True. A tiger roams a large area to find enough prey. They do not build a home.
+5. (truefalse) A koel builds a big nest and raises her own chicks.  
+   **Answer:** False. *Why:* False. A koel lays her egg in a crow's nest, and the crows raise the koel chick.
 6. (mcq) Why do rock pigeons nest on window ledges in cities?  
    Options: Ledges are like the cliff ledges their wild relatives used. / Pigeons cannot fly high. / People put food on every ledge. / Ledges are warmer than trees in winter only.  
    **Answer:** Ledges are like the cliff ledges their wild relatives used.. *Why:* Wild rock pigeons nest on cliffs. Tall buildings with ledges look like cliffs to them. Picking 'cannot fly high' is wrong. Pigeons fly very well.
-7. (match) Match each animal to why it lives near people.  
-   **Answer:** House gecko → insects gather at our lights; Black kite → food scraps in markets; Cattle egret → insects stirred up by cows; Rat → food scraps, and shelter in drains. *Why:* Each animal lives near people because people give it something it needs, such as food or shelter.
+7. (match) Match each animal to why they live near people.  
+   **Answer:** House gecko → insects gather at our lights; Black kite → food scraps in markets; Cattle egret → insects stirred up by cows; Rat → food scraps, and shelter in drains. *Why:* Each animal lives near people because people give them something they need, such as food or shelter.
 8. (order) Put a house crow's day in order, from morning to night.  
    **Answer:** order shown. *Why:* Crows wake and call at first light, feed in the cooler morning, rest at noon and gather at a roost in the evening.
 9. (fill) A place where many birds or bats rest or sleep together is called a ____.  
    **Answer:** ['roost']. *Why:* Crows, mynas, parakeets and fruit bats gather in big trees to roost.
 10. (mcq) Which note is a fact, not a guess?  
-   Options: The squirrel was angry. / At 7:15 the squirrel ran up the wall with a twig in its mouth. / The squirrel loves me. / The squirrel is the cleverest in town.  
-   **Answer:** At 7:15 the squirrel ran up the wall with a twig in its mouth.. *Why:* A fact has a time and something anyone could see. Feelings and 'cleverest' are guesses we cannot check by watching.
+   Options: The squirrel was angry. / At 7:15 the squirrel ran up the wall with a twig in their mouth. / The squirrel loves me. / The squirrel is the cleverest in town.  
+   **Answer:** At 7:15 the squirrel ran up the wall with a twig in their mouth.. *Why:* A fact has a time and something anyone could see. Feelings and 'cleverest' are guesses we cannot check by watching.
 11. (mcq) Termite mounds near Bengaluru were studied in 2015. What helps the air inside them move?  
    Options: A fan the termites build / The walls warming in the day and cooling at night / Rain only / The termites' own body warmth  
    **Answer:** The walls warming in the day and cooling at night. *Why:* Scientists found that the mound's outer walls warm up and cool down faster than its middle, as day turns to night. That moves the air. Picking 'body warmth' is the older idea, which the measurements did not support for these mounds.
@@ -656,9 +656,9 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 15. (write) In the story The Wire Nest, how did Tara find out why the crows were diving?  
    **Answer:** She wrote down the time and the place of every dive for several days. She saw that the dives happened only in the morning and evening, and only under the nest. So the crows were guarding their chicks.. *Why:* Tara found a pattern by watching many times and writing it down.
 ### Thinking Like a Naturalist (challenge) (challenge, 15 questions)
-1. (mcq) A fruit fly is kept in total darkness for a week. What happens to its waking and sleeping?  
-   Options: It sleeps all the time. / It keeps waking and resting on a cycle of about 24 hours. / It never sleeps. / It wakes at a random time each day.  
-   **Answer:** It keeps waking and resting on a cycle of about 24 hours.. *Why:* Its body clock keeps running in the dark, on a cycle of about one day. Picking 'sleeps all the time' assumes darkness means night forever. The clock is inside the fly.
+1. (mcq) A fruit fly is kept in total darkness for a week. What happens to their waking and sleeping?  
+   Options: They sleep all the time. / They keep waking and resting on a cycle of about 24 hours. / They never sleep. / They wake at a random time each day.  
+   **Answer:** They keep waking and resting on a cycle of about 24 hours.. *Why:* Their body clock keeps running in the dark, on a cycle of about one day. Picking 'sleeps all the time' assumes darkness means night forever. The clock is inside the fly.
 2. (mcq) Why might city birds sing higher notes than birds in quiet woods?  
    Options: So their songs can be heard over the low rumble of traffic / Because city air is thinner / Because they are smaller / Because cities have more trees  
    **Answer:** So their songs can be heard over the low rumble of traffic. *Why:* Traffic noise is mostly low and rumbly. Higher notes stand out above it. Scientists found this in great tits in the Dutch city of Leiden. Picking 'thinner air' invents a reason without evidence.
@@ -692,7 +692,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 14. (write) Is a city a natural place? Give a reason for your answer.  
    **Answer:** Yes, in a way. Ants and termites build cities too, and we call those natural. People are animals, and many wild animals live in our cities. But a city is also very different from a forest, so some animals cannot live there.. *Why:* This is a big question with no single answer. A good answer gives a reason and thinks about both sides.
 15. (draw) Draw a timeline of one animal's day, from sunrise to night, using what you saw in My Animal Week.  
-   **Answer:** A line from sunrise to night with drawings of what the animal did at each time, for example a crow calling at dawn, feeding in the morning, resting at noon and flying to its roost at sunset.. *Why:* A timeline shows a habit at a glance. It is built from many days of watching.
+   **Answer:** A line from sunrise to night with drawings of what the animal did at each time, for example a crow calling at dawn, feeding in the morning, resting at noon and flying to their roost at sunset.. *Why:* A timeline shows a habit at a glance. It is built from many days of watching.
 
 ## Videos
 - **Baya weaver bird documentary film** (Chandu's Learning, 4 min) id `XRB4GQCEOlE`: Seeing a weaver tear grass strips and weave them knot by knot makes the 'Kinds of animal homes' card real. *Check:* Found by YouTube search. Title checked automatically. Not watched: a parent should preview it.
@@ -774,11 +774,11 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 - **Why do baya weaver birds put mud inside their nests?** The mud is real, but nobody has tested the ideas well enough to be sure.
 - **Are city animals changing in their bodies and genes, not only in their habits?** Some studies suggest yes, but changes take many generations, and it is hard to tell learned habits from inherited ones.
 - **How many kinds of animals live in a single Indian city?** Birds are well counted, but insects, spiders and soil animals are not. Many have not even been named.
-- **Does an animal know its home is its home, the way we do?** We can see that animals return to their homes and defend them. What they feel about them is very hard to test.
+- **Does an animal know their home is their home, the way we do?** We can see that animals return to their homes and defend them. What they feel about them is very hard to test.
 - **How do termites know how to build a mound much bigger than any one of them?** Each termite follows simple rules, and the mound grows from all of them together. Scientists are still working out the rules.
 
 ## Questions to ask kids
-- Which animal did you see first today? What was it doing?
+- Which animal did you see first today? What were they doing?
 - What time do you think the crows wake up?
 - Where do you think that pigeon sleeps at night?
 - Can you find one animal home on the way to the shop?
@@ -791,31 +791,31 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 - If animals made a map of our street, what would they put on it?
 
 ## Jokes
-- Why did the owl not go to the morning party? *It doesn't give a hoot before dark.*
+- Why did the owl not go to the morning party? *They don't give a hoot before dark.*
 - What do you call a crow with a wire nest? *A real live-wire.*
-- Why did the pigeon sit on the window ledge? *It thought the building was a cliff-hanger.*
+- Why did the pigeon sit on the window ledge? *They thought the building was a cliff-hanger.*
 - Why are spiders good at the internet? *They always have their own web.*
-- What did the termite say about its tall home? *It's a mound-ain.*
+- What did the termite say about their tall home? *It's a mound-ain.*
 - Why did the bat hang upside down? *To see the world from a new point of view.*
-- Why did the gecko stay near the tube light? *It was a light snacker.*
+- Why did the gecko stay near the tube light? *They were a light snacker.*
 - What do bees use to do their hair? *A honeycomb.*
-- Why did the squirrel run along the wire? *It was the only line it knew by heart.*
-- Why was the ant so good at its job? *It always stuck to the trail.*
-- Why did the weaver bird get top marks? *Its homework was very well knotted.*
-- What did the earthworm say when it was late? *Sorry, I was stuck in deep soil.*
+- Why did the squirrel run along the wire? *It was the only line they knew by heart.*
+- Why was the ant so good at their job? *They always stuck to the trail.*
+- Why did the weaver bird get top marks? *Their homework was very well knotted.*
+- What did the earthworm say when they were late? *Sorry, I was stuck in deep soil.*
 - Why don't fruit bats need alarm clocks? *They wake up when the sun goes down.*
-- Why did the koel never build a nest? *It found a crow who had a spare room.*
+- Why did the koel never build a nest? *She found a crow who had a spare room.*
 - What is a crow's favourite subject? *Caw-mputer science.*
-- Why did the cow walk on the road every morning? *It was a creature of habit.*
-- Why did the mosquito only come out at dusk? *It had a strict bite-time.*
-- Why did the rat move into the drain? *It liked the tunnel vision.*
-- Why does a tiger never need a house key? *It has no fixed home. It naps wherever it likes.*
+- Why did the cow walk on the road every morning? *She was a creature of habit.*
+- Why did the mosquito only come out at dusk? *They had a strict bite-time.*
+- Why did the rat move into the drain? *They liked the tunnel vision.*
+- Why does a tiger never need a house key? *They have no fixed home. They nap wherever they like.*
 - Why did the hornbill seal her door with mud? *Do not disturb, chicks inside.*
 - Why did the naturalist bring a pencil to the park? *To draw her own conclusions.*
-- Why did the pigeon bring a twig to the AC box? *It wanted a cool new flat.*
+- Why did the pigeon bring a twig to the AC box? *They wanted a cool new flat.*
 - What did the squirrel say at noon? *I'm too hot to trot. Wake me at five.*
-- Why did the spider never get lost? *It always knew its way around the web.*
-- Why did the crow keep a diary? *To remember who walked under its tree.*
+- Why did the spider never get lost? *They always knew their way around the web.*
+- Why did the crow keep a diary? *To remember who walked under their tree.*
 
 ## Connected maths
 - In the Busy Times test, a child made these tally marks over 3 days. Morning: 14 visits. Noon: 3 visits. Evening: 11 visits. How many more birds came in the morning than at noon? **11 more birds.**. Morning had 14 visits. Noon had 3. 14 take away 3 is 11. So 11 more birds came in the morning than at noon. (queues `math.addition-subtraction.word-problems.L3`)
@@ -850,10 +850,10 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - Is an owl busy in the day or at night? → At night. Owls are nocturnal.
 - What do we call a tunnel an animal digs to live in? → A burrow.
 - Do most birds sleep in their nests all year? → No. Nests are for eggs and chicks.
-- Which bird lays its egg in a crow's nest? → The koel.
+- Which bird lays her egg in a crow's nest? → The koel.
 - What does 'diurnal' mean? → Busy in the day.
 - Which wild cat lives at the edge of Mumbai? → The leopard.
-- What does a baya weaver use to make its nest? → Strips of grass.
+- What does a baya weaver use to make their nest? → Strips of grass.
 - Why does a gecko wait by the tube light? → To catch insects that come to the light.
 - Is a crow in a city wild or domestic? → Wild.
 - What do we call travelling far every year and coming back? → Migration.
