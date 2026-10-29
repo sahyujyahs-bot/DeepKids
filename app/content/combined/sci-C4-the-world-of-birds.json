@@ -1,0 +1,1382 @@
+{
+ "key": "combined|sci|4|the-world-of-birds",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "the-world-of-birds",
+ "day_mins": 45,
+ "title": "Birds: how their bodies solve the problems of flying, breeding and long journeys",
+ "source": "DeepKids Combined, DeepKids topic (no board teaches birds as a topic in Class 4). No textbook needed.",
+ "summary": "Flying is hard work. A flyer must be light, push enough air down to stay up, and burn a lot of fuel. Your child looks closely at a feather, feels a card wing lift in front of a fan, tests why hollow tubes are strong, and sees air bubble out through an eggshell. They play a drought game that shows how beaks change over many generations, learn why a koel's call is inborn but a songbird's song is learnt, and follow an Amur falcon across the Arabian Sea. They also meet the dinosaurs who became birds and the scientists who found out why India's vultures vanished.",
+ "builds_on": "Class 1: what makes a bird a bird (feathers), what feathers do, beaks and feet, eggs and nests, calls, and the koel raised by crows. Class 4 goes deeper: how a feather is built, how a wing makes lift, how a bird's bones, lungs and muscles are built for flying, what is inside an egg, how beaks change over generations by natural selection, how songs are learnt, how birds find their way, and why birds matter to people. Next: Class 5 habitats and evolution lessons use these ideas for all animals.",
+ "subconcepts": [
+  "a feather is a shaft with barbs, and the barbs zip together with tiny hooked barbules",
+  "flight feathers, contour feathers and down feathers do different jobs, and old feathers are replaced in a moult",
+  "lift: a tilted, curved wing pushes air down, and the air pushes the wing up",
+  "wing shapes fit the way a bird flies: soaring on thermals, fast diving, quick turns among bushes",
+  "a body built light and strong: hollow bones with struts, fused bones, a beak instead of heavy teeth",
+  "air sacs and one-way breathing give flight muscles plenty of oxygen",
+  "the keel: a big breastbone that holds the large flight muscles",
+  "birds are warm-blooded, with a body about 41 degrees Celsius, so they need a lot of food",
+  "inside an egg: yolk, white, air cell and a shell with pores that let air through",
+  "helpless chicks and ready-to-run chicks, and why ground-nesting birds have ready chicks",
+  "natural selection: in a drought, finches with deeper beaks survived, and their chicks had deeper beaks",
+  "songbirds learn their songs from adults, but a koel's call is inborn, and the syrinx is a bird's voice box",
+  "bird minds: crows make and use tools, and bird brains pack many nerve cells tightly",
+  "birds are living dinosaurs, feathers came before flight, and how flight began is still argued",
+  "migration and navigation: fat as fuel, tailwinds, and the Sun, stars and Earth's magnetism as compasses"
+ ],
+ "goals": [
+  "By the end your child can name the parts of a feather and say how barbules keep a vane smooth.",
+  "By the end your child can explain lift using their fan test: the wing pushes air down, and the air pushes the wing up.",
+  "By the end your child can give three ways a bird's body is built for flying, and use the tube test as evidence for one.",
+  "By the end your child can name the parts of an egg and say the job of each.",
+  "By the end your child can explain natural selection using the drought game and the Grants' finches.",
+  "By the end your child can say why a koel needs no teacher but a young songbird does.",
+  "By the end your child can say three ways a migrating bird finds the way, and what is still unknown.",
+  "By the end your child can tell the story of India's vultures and say why scavengers matter."
+ ],
+ "words": [
+  [
+   "barb",
+   "one of the many thin branches on each side of a feather's shaft"
+  ],
+  [
+   "barbule",
+   "a tiny branch on a barb, with hooks that grip the next barb, like a zip"
+  ],
+  [
+   "moult",
+   "when a bird drops old feathers and grows new ones, usually once or twice a year"
+  ],
+  [
+   "lift",
+   "the upward push of the air on a wing, made when the wing pushes air down"
+  ],
+  [
+   "thermal",
+   "a rising column of warm air, which soaring birds circle in to climb without flapping"
+  ],
+  [
+   "air sac",
+   "a thin bag of air inside a bird's body, joined to the lungs, that keeps air flowing one way through them"
+  ],
+  [
+   "keel",
+   "the tall ridge on a flying bird's breastbone, where the big flight muscles are fixed"
+  ],
+  [
+   "warm-blooded",
+   "making your own body heat from food, so your body stays warm even on a cold day"
+  ],
+  [
+   "embryo",
+   "a baby animal in the very first stage of growing, like a chick inside an egg"
+  ],
+  [
+   "natural selection",
+   "when living things with features that suit their place survive and have more young, so those features become common"
+  ],
+  [
+   "syrinx",
+   "a bird's voice box, at the bottom of the windpipe where it splits in two"
+  ],
+  [
+   "migrate",
+   "to travel a long way to another place every year, and come back"
+  ],
+  [
+   "navigate",
+   "to find the way to a place"
+  ],
+  [
+   "scavenger",
+   "an animal who eats dead animals, like a vulture or a crow"
+  ]
+ ],
+ "days": [
+  {
+   "n": 1,
+   "title": "Inside a feather",
+   "goal": "Recall what makes a bird, then look closely at how a feather is built and what different feathers do.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What do we already know?",
+     "mins": 7,
+     "do": "Ask: 'In Class 1 we found the one thing only birds have. What was it?' (feathers). Ask: 'What jobs do feathers do?' (flying, keeping warm with fluffy down, keeping dry with preening oil, attracting a mate). Ask: 'Do you remember Kuyil, the koel raised by crows? Who taught her the koel call?' (nobody). Say: 'This year we ask harder questions. How is a feather built? How does a wing hold a bird up? How do birds cross oceans?'"
+    },
+    {
+     "kind": "act",
+     "title": "A feather up close",
+     "mins": 18,
+     "ref": "a1",
+     "do": "Do Activity a1. Before you start, ask: 'If you pull the flat part of a feather apart, why does it zip back together? What do you think is there?' Wait for a guess. After the close look, say: 'The middle stick is the shaft. The thin branches on each side are barbs. Each barb has even tinier branches called barbules, with hooks too small to see without a lens. The hooks grip the next barb, like a zip. When a bird preens, she runs the feather through her beak and zips the barbs back together.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Three kinds of feather",
+     "mins": 10,
+     "do": "Show the stiff feather and the fluffy feather from a1, or photos. Say: 'A bird has three main kinds of feather. Flight feathers on the wings and tail are long and stiff, with a smooth vane that pushes on air. Contour feathers cover the body and make it smooth, so air flows past easily. Down feathers sit close to the skin. They have no hooks, so they stay fluffy and trap air, which keeps warmth in.' Then ask: 'A feather is dead, like your hair. It cannot heal. So what can a bird do when feathers wear out?' Wait for a guess. Say: 'Most birds drop old feathers and grow new ones, usually once or twice a year. This is called moulting. Many birds moult a few flight feathers at a time, so they can still fly. Ducks drop all their flight feathers at once and cannot fly for a few weeks.'"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Start the bird patch count",
+     "mins": 10,
+     "do": "Start the project. Choose one window or balcony as your bird patch. Sit there for 10 minutes and make a tally for each kind of bird you see. Write the date and time. Say: 'We will count at the same place and the same time every day. Scientists do this to see which birds live near us and how that changes.'"
+    }
+   ],
+   "need": [
+    "a feather from the balcony in a clean plastic bag, or a feather duster",
+    "a magnifying glass, or a phone camera zoomed in",
+    "paper and a pencil",
+    "a window or balcony"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "How a wing makes lift",
+   "goal": "Feel the push of moving air on a card wing, and see why different birds have differently shaped wings.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What holds a kite up?",
+     "mins": 5,
+     "do": "Ask: 'A black kite, the brown bird of prey who circles over our cities, can stay up for an hour. A heavy aeroplane stays up too. What do you think holds them up? Why do you think so?' Write down the guesses. Say: 'Today we will feel it with our own hands.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The card wing",
+     "mins": 17,
+     "ref": "e1",
+     "do": "Do Experiment e1. Before each tilt, ask: 'Will the air push the card up, push it back, or both? Why?' Let your child feel it and fill in the table. Then ask: 'Which tilt gave the most push upwards?' After they answer, say: 'When a wing is tilted a little, it turns the moving air downwards. The wing pushes air down, so the air pushes the wing up. That upward push is called lift. Too steep a tilt mostly pushes the card backwards.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Wing shapes",
+     "mins": 10,
+     "do": "Say each problem first and let your child guess the wing. Problem 1: 'A black kite wants to stay up for hours without getting tired.' Say: 'Kites and vultures have long, broad wings with tip feathers spread like fingers. They circle in thermals, which are rising columns of warm air over hot roofs and roads, and climb without flapping.' Problem 2: 'A peregrine falcon must catch a pigeon in mid-air.' Say: 'Falcons have pointed, swept-back wings for speed. A diving peregrine can go faster than 300 kilometres per hour.' Problem 3: 'A tailorbird must dart between bushes.' Say: 'Small birds who live among bushes have short, rounded wings for quick take-off and sharp turns.' Ask: 'What wing would you give a bird who flies over the sea for weeks?' (long and narrow, like a gull's or an albatross's.)"
+    },
+    {
+     "kind": "do",
+     "title": "Flap, glide, soar",
+     "mins": 8,
+     "do": "Your child moves like three birds while you call out: 'Flap!' (a sparrow: fast, small flaps), 'Glide!' (arms wide and still, leaning slowly), 'Soar!' (arms wide, turning in slow circles, as if rising in a thermal). Then do the yoga pose garudasana, the eagle pose: wrap one leg around the other, cross the arms, and hold for 5 slow breaths each side. Say: 'Garuda is the eagle in old Indian stories. Notice how hard it is to balance. Birds balance all the time, even on a swinging wire.'"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Patch count",
+     "mins": 5,
+     "do": "Do the 5-minute patch count for the project. This time, also write how each bird flew: flapping, gliding or soaring. Ask: 'Did any big bird circle without flapping? That bird was probably riding a thermal.'"
+    }
+   ],
+   "need": [
+    "a table fan with a guard",
+    "a postcard or a piece of card the size of a palm",
+    "the results table",
+    "space to move"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "A body built for the sky",
+   "goal": "Test why hollow bones are strong, and find out how a bird's lungs, muscles and body heat are built for flying.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Three problems of flying",
+     "mins": 4,
+     "do": "Ask: 'What makes flying hard?' Help your child find three problems: the body must be light, the wings need strong muscles to flap, and those muscles need a lot of oxygen and food. Say: 'Let us see how a bird's body solves each one.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Hollow tube or solid rod?",
+     "mins": 16,
+     "ref": "e2",
+     "do": "Do Experiment e2. First ask: 'Both are made from one sheet of the same paper. Which will hold more coins before bending, the thin solid rod or the wide hollow tube? Why do you think so?' After the test, ask: 'Same paper, same weight. Why did the hollow tube win?' Then say: 'Spreading the material out in a wide ring makes it much harder to bend. Many flying birds have hollow bones like this, with thin cross pieces called struts inside. Some of these bones are filled with air from the air sacs.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Lungs, air sacs and a keel",
+     "mins": 10,
+     "do": "Say: 'Flight muscles need a lot of oxygen. A bird's lungs are joined to about nine thin bags of air called air sacs. When a bird breathes in, fresh air goes to the back air sacs. When the bird breathes out, that air is pushed through the lungs. So fresh air flows through the lungs in one direction, on the breath in and the breath out. Our lungs get fresh air only when we breathe in.' Then press on your child's breastbone, in the middle of the chest. Say: 'A flying bird's breastbone has a tall ridge down the middle, like the keel under a boat. It is called the keel. The big flight muscles are fixed to it.' Ask: 'An ostrich does not fly. Do you think an ostrich has a tall keel?' (No, an ostrich has a flat breastbone.) Also say: 'Many of a bird's bones are joined together, which makes a stiff, strong frame. A beak is lighter than a jaw full of teeth, and the grinding is done in the gizzard, near the middle of the body.'"
+    },
+    {
+     "kind": "talk",
+     "title": "A hot body needs fuel",
+     "mins": 7,
+     "do": "Ask: 'Why does a sparrow seem to eat all day?' Wait for a guess. Say: 'Birds are warm-blooded. They make their own body heat from food. A bird's body is about 41 degrees Celsius, warmer than ours at 37. Flying and staying warm burn a lot of food, so small birds must eat often. On a cold night, a small bird can burn up much of the fat they stored during the day.' Ask: 'What does that tell us about a bird bowl of water or a tree full of fruit near our home?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 8,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1. Your child reads each question and answers alone first. Then talk through any answer they were unsure of, using the feather, the fan test and the tube test as evidence."
+    }
+   ],
+   "need": [
+    "two sheets of the same notebook paper",
+    "sticky tape",
+    "two thick books the same height",
+    "a small plastic bag with a handle, and thread",
+    "about 50 coins, or dry rice and a spoon",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Inside an egg, and two kinds of chicks",
+   "goal": "See that an eggshell lets air through, find the parts of an egg, and find out why some chicks run on their first day.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What we know about eggs",
+     "mins": 5,
+     "do": "Ask: 'In Class 1 we found out how a chick grows in an egg. What does the parent do?' (keeps the egg warm, which is called incubating). Ask: 'How does the chick get out?' (with the egg tooth). Then ask: 'A chick breathes inside a hard shell. How does air get in?' Write down the guess."
+    },
+    {
+     "kind": "exp",
+     "title": "Does an eggshell let air through?",
+     "mins": 15,
+     "ref": "e3",
+     "do": "Do Experiment e3. Before you put the egg in the warm water, ask: 'What do you think we will see? Why?' Let your child watch closely for one minute and describe what they see. Then ask: 'Where did the bubbles come from?' Say: 'An eggshell has thousands of tiny holes called pores. Warm water makes the air inside the egg swell, and it squeezes out through the pores. In a living egg, oxygen comes in and carbon dioxide goes out through the same pores.'"
+    },
+    {
+     "kind": "do",
+     "title": "The parts of an egg",
+     "mins": 12,
+     "do": "If your family uses eggs, a grown-up cracks one raw egg gently onto a white plate. If not, draw an egg cut in half, large, on paper. Point to each part and say its job. 'The yellow yolk is food for the growing chick. The white, called albumen, gives water and protein and cushions the yolk. The two twisted white cords are called chalazae, and they hold the yolk in the middle. Inside the shell is a thin skin, the shell membrane.' Then look at the broad end of the boiled egg from e3 after peeling: there is a small empty space. Say: 'This is the air cell. Just before hatching, the chick pokes her beak into it and takes her first breath of air.' Ask: 'Why do you think the yolk needs to be held in the middle?' Wash hands after touching raw egg."
+    },
+    {
+     "kind": "talk",
+     "title": "Helpless chicks and ready chicks",
+     "mins": 8,
+     "do": "Ask: 'A pigeon chick hatches with no feathers and closed eyes. A hen's chick hatches fluffy and walks within hours. Why might they be so different?' Wait for a guess. Say: 'Pigeons, crows and sparrows nest in trees or ledges, out of reach. Their chicks hatch helpless, and the parents feed them in the nest. Hens, ducks and the red-wattled lapwing nest on the ground, where a cat or a dog could find them. Their chicks hatch with down and open eyes, and can run and find food on the first day.' Then say: 'In Indian cities, red-wattled lapwings sometimes lay their eggs on flat rooftops. The eggs are speckled like gravel, which makes them hard to see.' Ask: 'Which kind of chick do you think needs a bigger egg with more yolk? Why?'"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Patch count",
+     "mins": 5,
+     "do": "Do the 5-minute patch count. Also look for any bird carrying twigs or food in the beak, which can mean a nest nearby. If you see a nest, watch from far away and never go close."
+    }
+   ],
+   "need": [
+    "two eggs (one raw, one boiled), or a drawing if your family does not use eggs",
+    "a glass bowl and warm water from the kettle mixed with tap water",
+    "a white plate",
+    "paper and a pencil"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Beaks that change over generations",
+   "goal": "Play a drought game that shows natural selection, then hear how two scientists watched it happen to real finches.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Can a beak change?",
+     "mins": 5,
+     "do": "Ask: 'In Class 1 you picked up food with kitchen tools as beaks. Which tool was best for seeds? For nectar?' Then ask: 'Can a bird change the shape of their beak if the food changes?' Wait for a reason. Say: 'One bird cannot. But over many generations, a whole family of birds can. Let us find out how.'"
+    },
+    {
+     "kind": "act",
+     "title": "The drought island game",
+     "mins": 22,
+     "ref": "a2",
+     "do": "Do Activity a2. Before the drought round, ask: 'There are only big hard seeds now. Which birds do you think will be left after three rounds? Why?' After the game, count the bird cards of each beak and ask: 'What happened to the number of big-beaked birds? Did any bird change their beak?' (No. The big-beaked birds survived and had chicks with big beaks.) Say: 'This is called natural selection. Living things who suit their place survive and have more young, and the young are like their parents. Over many generations, the whole group changes.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The finches of Daphne Major",
+     "mins": 13,
+     "ref": "v2",
+     "do": "Tell your child about voice v2, Rosemary and Peter Grant and the finches of a tiny island. Then ask the voice question. Ask: 'In our game, the drought chose the beaks. In real life, what else could choose which birds survive?' (cats, heat, a new food, a new disease.)"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Patch count and beaks",
+     "mins": 5,
+     "do": "Do the 5-minute patch count. For each bird, look at the beak and guess the food: a short thick beak for seeds, a hooked beak for meat, a long thin beak for nectar or insects, a flat beak for sieving water."
+    }
+   ],
+   "need": [
+    "a clothes peg and a pair of tweezers, or two toothpicks held like chopsticks",
+    "a cup of raw rice and a cup of dry chana or rajma",
+    "a plate",
+    "a timer",
+    "20 small paper cards and a pencil"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Songs and bird minds",
+   "goal": "Find out which birds learn their songs and which are born knowing them, and meet birds who make tools.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Three minutes of listening",
+     "mins": 6,
+     "do": "Sit at the bird patch with eyes closed for 3 minutes. Each time your child hears a different call, they hold up one finger. Then ask: 'How many different calls did you hear? Which could you name?' Say: 'Many people who study birds know them first by sound.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Learnt or inborn?",
+     "mins": 9,
+     "do": "Ask: 'Kuyil the koel called like a koel, though crows raised her. Do you think every bird is born knowing their song?' Wait. Say: 'No. About half of all bird kinds are songbirds, like sparrows, mynas, bulbuls and magpie robins. A young songbird learns the song by listening to adults, the way you learnt to speak. Young male zebra finches learn their song from their father. In the 1960s and 1970s, Peter Marler found that young white-crowned sparrows raised without hearing adults sang a poor, simple song. A koel is a cuckoo, not a songbird. A koel chick grows up among crows, so a koel who had to learn would never learn the koel call. So the call is inborn.' Then say: 'A bird's voice box is called the syrinx. It sits at the bottom of the windpipe, where it splits in two, so many songbirds can make two notes at once. The racket-tailed drongo copies the calls of other birds.'"
+    },
+    {
+     "kind": "act",
+     "title": "Pass the song",
+     "mins": 10,
+     "ref": "a3",
+     "do": "Do Activity a3. Before you start, ask: 'If a song is passed from bird to bird, will it stay the same?' After the game, compare the first and last songs. Say: 'Songbirds in different places sing slightly different songs, because each young bird copies the birds near them. Scientists call these dialects, just like the different ways people speak in Chennai and Madurai.'"
+    },
+    {
+     "kind": "talk",
+     "title": "A crow with a hook",
+     "mins": 10,
+     "do": "Ask: 'Is a bird brain a small, simple brain?' Wait. Say: 'More than 100 years ago, a German scientist named Ludwig Edinger studied bird brains and decided they ran mostly on instinct. For a long time, people believed him. Then birds surprised scientists. In 2002, at Oxford, a New Caledonian crow named Betty bent a straight wire into a hook to lift a little bucket of food out of a tube. In 2016, scientists counted nerve cells in bird brains and found them packed very tightly. Crows and parrots have about as many nerve cells in the front of the brain as some monkeys.' Ask: 'The crows at our window remember faces. What else do you think they know about our building?' Say: 'Birds think, feel and remember, each in their own way.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "ref": "ws2",
+     "do": "Do Worksheet ws2. Your child answers alone. For the question about Kavya and Farhan, ask them to argue one side, then answer back from the other side."
+    }
+   ],
+   "need": [
+    "the bird patch",
+    "a pencil and paper for each player",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Living dinosaurs and the first flight",
+   "goal": "Make a timeline from dinosaurs to birds, hear how scientists argue about how flight began, and play the card game.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "A pigeon's feet",
+     "mins": 5,
+     "do": "Ask: 'In Class 1 we said birds are living dinosaurs. What clues were there?' (scaly feet, claws, three front toes, fossils of dinosaurs with feathers.) Ask: 'If dinosaurs had feathers but could not fly, what were the feathers for?' Write down the guess."
+    },
+    {
+     "kind": "act",
+     "title": "The dinosaur to bird timeline",
+     "mins": 10,
+     "ref": "a4",
+     "do": "Do Activity a4. When the string is laid out, ask: 'Where would you put yourself?' Point out that all of human history fits in the last few millimetres. Say: 'Feathered dinosaurs who could not fly lived long before the first flying birds. So feathers came first, probably for warmth and for display, and flight came later.'"
+    },
+    {
+     "kind": "talk",
+     "title": "How did flight begin?",
+     "mins": 10,
+     "ref": "v1",
+     "do": "Tell your child about voice v1, the trees-down and ground-up ideas. Then ask the voice question. Say: 'Scientists still argue about this. That is normal. A good question can stay open for a long time.'"
+    },
+    {
+     "kind": "game",
+     "title": "Problem and answer cards",
+     "mins": 15,
+     "ref": "g1",
+     "do": "Play the card game g1. Each answer card is a real feature of a bird's body or life. Before each player lays a card, they must say how the feature solves the problem, in one sentence. If the others are not sure, check the back of the card."
+    },
+    {
+     "kind": "outdoor",
+     "title": "Patch count",
+     "mins": 5,
+     "do": "Do the 5-minute patch count. Choose one bird and look at their feet and legs closely. Ask: 'What looks like a reptile's? What looks like nothing else alive?'"
+    }
+   ],
+   "need": [
+    "a ball of string or wool at least 2.5 metres long",
+    "a measuring tape or ruler",
+    "small paper flags and tape",
+    "the printed cards and scissors"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Journeys across the world",
+   "goal": "Read the story of an Amur falcon crossing the sea, find out how birds find their way, and map their journeys.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The long flight again",
+     "mins": 4,
+     "do": "Ask: 'Do you remember the Amur falcon board game from Class 1? Where does the falcon stop in India?' (Nagaland.) Ask: 'After Nagaland, the falcon crosses the sea to Africa. There is nowhere to land or eat for days. How could a small bird do that?' Write down the guesses."
+    },
+    {
+     "kind": "read",
+     "title": "Read the story",
+     "mins": 15,
+     "do": "Read aloud 'Across the water', the story in this rung, or your child reads it aloud. Stop when the falcon is tired over the sea and ask: 'What do you think could keep her going?' Read to the end and ask the story questions. Then go back to the guesses from the warm-up and tick any that the story shows."
+    },
+    {
+     "kind": "talk",
+     "title": "How do birds find the way?",
+     "mins": 10,
+     "ref": "v3",
+     "do": "Ask: 'How do you think a bird finds the way, with no map?' Wait. Tell your child about voice v3, the robins and the magnets. Then say: 'Birds use several clues. By day they can use the Sun. At night many use the stars. Close to home they use landmarks like coasts, rivers and mountains. They can also sense the Earth's magnetism, like a compass.' Ask the voice question."
+    },
+    {
+     "kind": "act",
+     "title": "Map the journeys",
+     "mins": 11,
+     "ref": "a5",
+     "do": "Do Activity a5. Before measuring, ask: 'Which journey do you think is longest?' After measuring, ask: 'How many days would it take you to walk that far, at about 20 kilometres a day?' Help with the division."
+    },
+    {
+     "kind": "outdoor",
+     "title": "Patch count",
+     "mins": 5,
+     "do": "Do the 5-minute patch count. If it is between October and March, ask: 'Is there any bird we did not see in summer?' Many birds come to India for the winter, such as wagtails, some ducks and the bar-headed goose."
+    }
+   ],
+   "need": [
+    "the story text",
+    "a world map or atlas",
+    "a piece of string",
+    "a ruler",
+    "a pencil"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Birds and people",
+   "goal": "Finish the bird count, find out why India's vultures vanished, and teach back the whole topic.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "The bird count chart",
+     "mins": 8,
+     "do": "Finish the project. Your child adds up the tallies for each kind of bird and draws a bar chart, one bar for each kind. Ask: 'Which bird came most? Which came only once? Did the time of day make a difference? What is one thing you saw that surprised you?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Where did the vultures go?",
+     "mins": 10,
+     "ref": "v4",
+     "do": "Ask: 'Vultures eat dead animals. Why might a town need them?' Wait for a reason. Tell your child about voice v4, the vultures and the medicine. Then ask the voice question. Say: 'Animals who eat dead animals are called scavengers. They clean up, and that keeps diseases from spreading.'"
+    },
+    {
+     "kind": "think",
+     "title": "Whose sky is it?",
+     "mins": 7,
+     "do": "Read out the kite flyer and the bird rescuer from the perspectives. Ask: 'On Sankranti many families fly kites. Kite string coated with glass cuts thousands of birds every year. What could kite flyers do so that both the festival and the birds are safe?' Listen. Then ask: 'Birds have lived here for millions of years longer than people. What do we owe them, if anything?' There is no single right answer."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child teaches a grown-up, in their own words: how a feather is built, how a wing makes lift, three ways a bird's body is built for flying, what is inside an egg, how the finches' beaks changed, why a koel needs no teacher, and how birds find their way. Then ask the check questions."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 10,
+     "ref": "ws3",
+     "do": "Do Worksheet ws3. Your child answers alone first. For the kite string question, ask them to give one side, then answer back from the other."
+    }
+   ],
+   "need": [
+    "the bird count sheets",
+    "squared paper and crayons",
+    "worksheet ws3"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Feathers, wings and a flying body",
+   "day": 3,
+   "sections": [
+    [
+     "A. Feathers",
+     [
+      {
+       "t": "mcq",
+       "p": "On a feather, which tiny parts have hooks that zip the barbs together?",
+       "opts": [
+        "the barbules",
+        "the shaft",
+        "the quill"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Soft, fluffy feathers close to the skin have no hooks. They are called ____ feathers.",
+       "a": [
+        "down"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "What is the main job of each feather?",
+       "items": [
+        "the long stiff feathers on a pigeon's wing",
+        "the fluffy feathers under a duck's outer feathers",
+        "the long train a peacock spreads out",
+        "the smooth feathers covering a crow's back"
+       ],
+       "cats": [
+        "flying",
+        "keeping warm",
+        "attracting a mate",
+        "a smooth body shape"
+       ]
+      },
+      {
+       "t": "draw",
+       "p": "Draw a feather as you saw it through the lens. Label the shaft, the vane and the barbs."
+      }
+     ]
+    ],
+    [
+     "B. Wings",
+     [
+      {
+       "t": "mcq",
+       "p": "Divya holds a card in front of a fan. When does the air push the card up the most?",
+       "opts": [
+        "when the card is flat",
+        "when the front of the card is tilted up a little",
+        "when the card stands straight up like a wall"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each bird to the wing that fits the way they fly.",
+       "pairs": [
+        [
+         "a black kite, who circles for hours",
+         "long, broad wings with spread tip feathers"
+        ],
+        [
+         "a peregrine falcon, who dives at pigeons",
+         "pointed, swept-back wings"
+        ],
+        [
+         "a tailorbird, who darts between bushes",
+         "short, rounded wings"
+        ],
+        [
+         "a gull, who flies over the sea all day",
+         "long, narrow wings"
+        ]
+       ]
+      },
+      {
+       "t": "write",
+       "p": "A black kite circles over a hot city road for an hour and hardly flaps. Where does the kite's lift come from?",
+       "lines": 3,
+       "a": "A strong answer says the wings push air down, so the air pushes them up, and the kite circles inside a thermal, a column of rising warm air, so the rising air carries the kite up without flapping."
+      }
+     ]
+    ],
+    [
+     "C. The flying body",
+     [
+      {
+       "t": "mcq",
+       "p": "Why does a small bird need to eat so often?",
+       "opts": [
+        "A bird is warm-blooded and burns food to make heat and to fly.",
+        "A bird has no stomach.",
+        "A bird's food is always very small."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The tall ridge on a flying bird's breastbone, where the flight muscles are fixed, is called the ____.",
+       "a": [
+        "keel"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Your thin solid rod and your wide hollow tube were made from the same paper. The hollow tube held more coins. What does this tell you about why many flying birds have hollow bones?",
+       "lines": 3,
+       "a": "A strong answer uses the test: the same material spread out in a wide ring bends much less, so a hollow bone can be strong without being heavy, and a lighter body is easier to lift."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Eggs, beaks and songs",
+   "day": 6,
+   "sections": [
+    [
+     "A. Eggs and chicks",
+     [
+      {
+       "t": "mcq",
+       "p": "Nila puts an egg in warm water. Tiny bubbles come out of the shell. What does this show?",
+       "opts": [
+        "The shell has tiny holes that let air through.",
+        "The egg is cooking.",
+        "The water is getting into the egg."
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each part of an egg to the job it does.",
+       "pairs": [
+        [
+         "the yolk",
+         "food for the growing chick"
+        ],
+        [
+         "the white",
+         "water, protein and a cushion"
+        ],
+        [
+         "the air cell",
+         "the chick's first breath of air"
+        ],
+        [
+         "the pores in the shell",
+         "let oxygen in and carbon dioxide out"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "How does the chick hatch?",
+       "items": [
+        "hen",
+        "pigeon",
+        "duck",
+        "crow",
+        "red-wattled lapwing",
+        "house sparrow"
+       ],
+       "cats": [
+        "ready to run, with down and open eyes",
+        "helpless, with closed eyes"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Beaks that change",
+     [
+      {
+       "t": "mcq",
+       "p": "In 1977 there was a drought on the island of Daphne Major. Only big, hard seeds were left. Which medium ground finches survived best?",
+       "opts": [
+        "the finches with bigger, deeper beaks",
+        "the finches with smaller beaks",
+        "all of them, the same"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Living things with features that suit their place survive and have more young, so those features become common. This is called natural ____.",
+       "a": [
+        "selection"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "In the drought island game, the number of big-beaked birds grew. Did any bird change their own beak? Explain what really happened.",
+       "lines": 3,
+       "a": "A strong answer says no bird changed. The big-beaked birds picked up enough hard seeds to survive and had chicks with big beaks, while small-beaked birds did not, so over the rounds there were more big-beaked birds."
+      }
+     ]
+    ],
+    [
+     "C. Songs and minds",
+     [
+      {
+       "t": "mcq",
+       "p": "A young zebra finch hears only his father singing as he grows up. What will he sing?",
+       "opts": [
+        "a song like his father's",
+        "the song of a koel",
+        "no song at all"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Young songbirds raised without hearing adults sing a poor, simple song. Kuyil the koel was raised by crows and still called like a koel. Why is there a difference?",
+       "lines": 3,
+       "a": "A strong answer says songbirds learn their song by copying adults, but a koel's call is inborn, because a koel chick is raised by another kind of bird and would never hear a koel to copy."
+      },
+      {
+       "t": "write",
+       "p": "Kavya says a crow who bends a wire into a hook is thinking. Her brother Farhan says the crow is only doing what crows are born to do. Who do you agree with? Give one piece of evidence. Then say the best point the other person could make.",
+       "lines": 4,
+       "a": "A strong answer picks a side and uses evidence: Betty the crow bent a straight wire she had never used before, to solve a new problem, which looks like thinking. The answer back is fair: crows in the wild already make hook tools from twigs, so part of the skill may be inborn. Both can be true."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Journeys, dinosaurs and people",
+   "day": 9,
+   "sections": [
+    [
+     "A. What do scientists know?",
+     [
+      {
+       "t": "sort",
+       "p": "Sort each statement.",
+       "items": [
+        "Birds came from dinosaurs.",
+        "Some dinosaurs had feathers but could not fly.",
+        "Birds can sense the Earth's magnetism.",
+        "Exactly which part of a bird senses magnetism.",
+        "Whether flight began with gliding from trees or running up slopes.",
+        "A medicine in dead cattle killed most of India's vultures."
+       ],
+       "cats": [
+        "scientists agree this is true",
+        "scientists still argue"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A bar-headed goose flies over the Himalayas, where the air has much less oxygen. What helps the goose?",
+       "opts": [
+        "blood that takes up oxygen very well, and one-way breathing through air sacs",
+        "very big feet",
+        "flying only at night"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each way of finding the way to when a bird can use it.",
+       "pairs": [
+        [
+         "the Sun",
+         "on a clear day"
+        ],
+        [
+         "the stars",
+         "on a clear night"
+        ],
+        [
+         "the Earth's magnetism",
+         "even when it is cloudy"
+        ],
+        [
+         "coasts and rivers",
+         "when the bird can see the land below"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Apply the idea",
+     [
+      {
+       "t": "mcq",
+       "p": "Before crossing the sea, Amur falcons in Nagaland eat huge numbers of winged termites. Why?",
+       "opts": [
+        "to store fat as fuel for days of flying with no food",
+        "to grow new feathers",
+        "to feed their chicks in Nagaland"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In 1983 the Galápagos had a very wet year, and small soft seeds became common. What would you predict for the finches?",
+       "opts": [
+        "Finches with smaller beaks did better.",
+        "Finches with bigger beaks did better.",
+        "Nothing changed."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Vultures and crows eat dead animals. Animals who eat dead animals are called ____.",
+       "a": [
+        "scavengers"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Most of India's vultures died. Explain what happened next to the dead cattle, and why that matters for people.",
+       "lines": 3,
+       "a": "A strong answer follows the chain: with few vultures, dead cattle lay rotting for longer, more stray dogs came to eat them, and rotting bodies and more dogs can spread disease such as rabies, so scavengers protect people's health."
+      }
+     ]
+    ],
+    [
+     "C. Think it through",
+     [
+      {
+       "t": "write",
+       "p": "Lakshmi loves flying kites on Sankranti. Mehrunnisa runs a bird hospital and treats birds cut by glass-coated kite string. What would each of them say about glass-coated string? What could families do so that the festival and the birds are both safe?",
+       "lines": 4,
+       "a": "A strong answer gives Lakshmi's view fairly (kite fights are a joyful old tradition), gives Mehrunnisa's view with the harm (birds are cut and many die), and suggests something real: plain cotton string, no kite flying in the early morning and evening when birds fly most, and taking a hurt bird to a rescue centre."
+      },
+      {
+       "t": "write",
+       "p": "The crow at Revathi's window seems to know her. Plan a fair test to find out if the crow can tell Revathi from her mother.",
+       "lines": 4,
+       "a": "A strong plan changes one thing only: the person at the window, with both wearing the same clothes, standing at the same place and time, with no food in either hand. It repeats the test many times and records what the crow does each time, such as coming close, calling or flying away."
+      },
+      {
+       "t": "draw",
+       "p": "Invent a bird who must cross a wide desert with no water or food. Draw the bird and label three features that help, and say what each one does."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The card wing",
+   "day": 2,
+   "question": "How does tilting a wing change the push of moving air on it?",
+   "need": [
+    "a table fan with a safety guard, on a low table",
+    "a postcard or a piece of card about the size of a palm",
+    "a results table with three rows: flat, tilted a little, tilted steeply"
+   ],
+   "steps": [
+    "A grown-up switches the fan on at its fastest speed.",
+    "Your child holds the card by one edge, flat, about an arm's length in front of the fan, with fingers well away from the guard.",
+    "Hold the card loosely, so it can move. Feel whether it is pushed up, pushed back, or both. Write it in the table.",
+    "Tilt the front edge of the card up a little, about as much as a door open a crack. Feel again and write it down.",
+    "Tilt the card steeply, almost like a wall facing the fan. Feel again and write it down.",
+    "Now hold your flat hand in place of the card and try the same three tilts."
+   ],
+   "predict": "Ask: 'Which tilt will push the card up the most? Why do you think so?'",
+   "observe": "Held flat, the card is hardly pushed up. Tilted a little, the card is pushed up clearly and a little back. Tilted steeply, the card is mostly pushed back and wobbles.",
+   "why": "A wing tilted a little turns the moving air downwards. The wing pushes the air down, so the air pushes the wing up. This upward push is called lift. A bird's wing is also curved, which turns even more air downwards. Too steep a tilt mostly blocks the air, so the push is backwards, and a bird in flight would slow down and drop. Birds change the tilt of their wings all the time to get the right amount of lift.",
+   "safety": "A grown-up switches the fan on and off. Fingers stay outside the guard, at least an arm's length from the fan.",
+   "time": "17 min"
+  },
+  {
+   "id": "e2",
+   "title": "Hollow tube or solid rod?",
+   "day": 3,
+   "question": "Is the same paper harder to bend as a solid rod or as a wide hollow tube?",
+   "need": [
+    "two sheets of the same notebook paper",
+    "sticky tape",
+    "two thick books of the same height",
+    "a small plastic bag with handles",
+    "a short piece of thread",
+    "about 50 coins of one kind, or a small cup of dry rice and a spoon"
+   ],
+   "steps": [
+    "Roll one sheet very tightly from the long side into a thin solid rod, about as thick as a pencil. Tape it.",
+    "Roll the other sheet loosely from the long side into a wide tube, about as thick as a thumb, with a hole down the middle. Tape it.",
+    "Stand the two books about 20 centimetres apart. Lay the solid rod across the gap, like a bridge.",
+    "Wrap a strip of card round the middle of the rod, so the thread does not cut in. Tie the bag to the middle with thread. Stand a ruler beside it. Add coins one at a time until the middle drops by 2 centimetres, or the paper kinks. Write down the number of coins.",
+    "Do the same with the wide hollow tube, with a card strip round its middle too.",
+    "Do each test twice, because one try can be a fluke."
+   ],
+   "predict": "Ask: 'Both are made from the same amount of paper. Which will hold more coins before it bends? Why?'",
+   "observe": "The thin solid rod sags 2 centimetres with only a few coins. The wide hollow tube holds several times as many coins before it sags or kinks. If the tube kinks early, wrap the card strip a little wider and try again.",
+   "why": "Both bridges are made from the same paper, so they weigh the same. The hollow tube has its paper spread out in a wide ring, far from the middle. Material placed far from the middle makes a tube much harder to bend. That is why many flying birds have hollow bones with thin struts inside: they are strong, but not heavy, and a light body is easier to hold up in the air. Birds who dive underwater, like penguins, have heavier, solid bones.",
+   "safety": "Keep feet out from under the bag in case the coins drop.",
+   "time": "16 min"
+  },
+  {
+   "id": "e3",
+   "title": "Does an eggshell let air through?",
+   "day": 4,
+   "question": "Can air pass through an eggshell?",
+   "need": [
+    "one raw egg at room temperature, and one boiled egg",
+    "a clear glass bowl",
+    "warm water: half hot water from the kettle and half tap water",
+    "a spoon"
+   ],
+   "steps": [
+    "A grown-up fills the glass bowl with the warm water. It should feel hot but not burn a finger.",
+    "Lower the raw egg gently into the water with the spoon.",
+    "Look closely at the shell from the side of the bowl for one minute, especially at the broad end.",
+    "Your child says what they see, and where on the shell it happens most.",
+    "Take out the egg. Then peel the broad end of the boiled egg and look for a small empty space under the shell."
+   ],
+   "predict": "Ask: 'What will we see when the cold egg goes into warm water? Why do you think so?'",
+   "observe": "Strings of tiny bubbles come from the shell, most of all from the broad end. The peeled boiled egg has a small flat dent at the broad end, where the air cell was.",
+   "why": "An eggshell has thousands of tiny holes called pores. The warm water heats the air inside the egg. Warm air swells and squeezes out through the pores as bubbles. The bubbles come mostly from the broad end, because the air cell is there. In a living egg, oxygen comes in and carbon dioxide goes out through the same pores, so the chick can breathe inside the shell.",
+   "safety": "A grown-up handles the hot water. The water should be warm, never boiling. Wash hands after touching the raw egg.",
+   "time": "15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "A feather up close",
+   "day": 1,
+   "mins": 18,
+   "need": [
+    "one stiff feather and, if you can, one fluffy feather (from the balcony, picked up inside a plastic bag, or from a feather duster)",
+    "a magnifying glass, or a phone camera zoomed in as far as it goes",
+    "paper and a pencil"
+   ],
+   "steps": [
+    "Lay the feather on white paper. Find the stiff middle stick, the shaft, and the flat part on each side, the vane.",
+    "Look at the vane through the lens. Find the thin branches, the barbs, running side by side.",
+    "Gently pull two barbs apart to make a gap. Look at the edges of the gap through the lens.",
+    "Stroke the gap from the shaft outwards between finger and thumb. Watch it close up again.",
+    "Look at the fluffy feather. Try to zip it. It will not, because down has no hooks.",
+    "Draw the stiff feather large and label the shaft, the vane and the barbs.",
+    "Everyone washes hands with soap afterwards."
+   ],
+   "outcome": "A labelled drawing of a feather, and having seen for yourself how the barbs zip together."
+  },
+  {
+   "id": "a2",
+   "title": "The drought island game",
+   "day": 5,
+   "mins": 22,
+   "need": [
+    "a clothes peg (a big, deep beak)",
+    "a pair of tweezers, or two toothpicks held like chopsticks (a small, thin beak)",
+    "a cup of raw rice (small soft seeds)",
+    "a cup of dry chana or rajma (big hard seeds)",
+    "a plate",
+    "a timer",
+    "20 small paper cards: 5 marked BIG and 5 marked SMALL to start, and 10 spare"
+   ],
+   "steps": [
+    "Lay out 10 bird cards: 5 BIG-beak birds and 5 SMALL-beak birds. Each card is one finch on the island.",
+    "Round 1, a normal year: spread a mix of rice and chana on the plate. Your child uses the tweezers for 20 seconds and counts the seeds picked up, then the peg for 20 seconds. Write both counts.",
+    "Round 2, the drought: put only chana on the plate. Test each beak again for 20 seconds and write the counts.",
+    "Rule: a beak that picks up at least 5 seeds in a round survives. If a beak gets fewer than 5, remove 2 cards of that beak. If a beak gets 5 or more, add 1 new card of the same beak, a chick like the parent.",
+    "Play three drought rounds, using the rule after each one. Count the BIG and SMALL cards after every round and write them down.",
+    "Look at the numbers. Ask: which beak is now most common, and did any card change from SMALL to BIG?"
+   ],
+   "outcome": "A record of how the number of big-beaked birds grew in the drought, though no bird changed: a small model of natural selection."
+  },
+  {
+   "id": "a3",
+   "title": "Pass the song",
+   "day": 6,
+   "mins": 10,
+   "need": [
+    "at least 3 people (more is better: call grandparents or neighbours on the phone if needed)",
+    "paper and a pencil"
+   ],
+   "steps": [
+    "The first person makes up a short bird song of 5 notes using whistles, clicks or 'tee' and 'chu' sounds, and writes it down without showing anyone.",
+    "They whistle or sing it once, quietly, to the second person only.",
+    "The second person passes it on in the same way to the third, and so on.",
+    "The last person sings what they heard out loud.",
+    "The first person sings the first song. Compare them."
+   ],
+   "outcome": "Hearing how a song changes as it is copied from one singer to the next, the way songbird dialects form."
+  },
+  {
+   "id": "a4",
+   "title": "The dinosaur to bird timeline",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "string or wool about 2.5 metres long",
+    "a measuring tape or ruler",
+    "small paper flags and tape",
+    "a long corridor or the floor of a room"
+   ],
+   "steps": [
+    "Lay the string straight on the floor. One end is today. Each centimetre stands for one million years.",
+    "Measure 230 centimetres from today and tape a flag: the first dinosaurs, about 230 million years ago.",
+    "At 160 centimetres, tape a flag: small feathered dinosaurs who could not fly lived around this time.",
+    "At 150 centimetres, tape a flag: Archaeopteryx, an early bird with feathers, teeth and a long bony tail.",
+    "At 66 centimetres, tape a flag: a huge asteroid hits the Earth. All dinosaurs die out, except the birds.",
+    "At 3 millimetres from today, tape a flag: the first humans, about 300,000 years ago."
+   ],
+   "outcome": "A timeline you can walk along, showing that feathers came long before flight and that birds have been here far longer than people."
+  },
+  {
+   "id": "a5",
+   "title": "Map the journeys",
+   "day": 8,
+   "mins": 11,
+   "need": [
+    "a world map or atlas with a scale bar",
+    "a piece of string",
+    "a ruler",
+    "a pencil"
+   ],
+   "steps": [
+    "Find three places: northeast China near the Amur river, Nagaland in India, and South Africa.",
+    "Lay the string along the Amur falcon's path: from China to Nagaland, across the Arabian Sea to the Horn of Africa, then south to South Africa.",
+    "Measure the string against the map's scale bar to find the distance in kilometres. Write it down.",
+    "Do the same for the bar-headed goose: from Mongolia, over the Himalayas, to a lake in Assam or Karnataka.",
+    "Mark which part of each journey is over sea or high mountains, with no food."
+   ],
+   "outcome": "A map with two real bird journeys and their lengths, and the hardest part of each marked."
+  }
+ ],
+ "project": {
+  "title": "Our bird patch count",
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "steps": [
+   "Choose one window or balcony as your bird patch. Count there every day, at the same time.",
+   "Make a sheet with columns for the date, the time and each kind of bird. Keep an 'other' column for birds you cannot name.",
+   "On day 1, count for 10 minutes. On the other days, count for 5 minutes. Make one tally mark for each bird you see.",
+   "Add one note each day: how the birds flew, what they ate, or how their beaks looked.",
+   "Keep a shallow bowl of clean water in the shade on the ledge, out of reach of cats, and change it every morning.",
+   "On day 9, add up each column and draw a bar chart. If you like, a grown-up can add your counts to eBird, where scientists use bird counts from families all over India."
+  ],
+  "outcome": "Nine days of real bird data from your own window, a bar chart, and a habit of watching carefully."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Problem and answer",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "scissors",
+   "the printed page of cards"
+  ],
+  "rules": [
+   "Cut out the cards. Lay the 10 PROBLEM cards face up in a row. Shuffle the ANSWER cards and deal 4 to each player.",
+   "On your turn, lay one answer card next to the problem it solves. Say in one sentence how it solves the problem.",
+   "If the others agree, keep the card in front of you. If not, read the back of the card. If the back agrees with you, keep it. If not, put it at the bottom of the pile.",
+   "Then take a new card from the pile.",
+   "If you can give a good reason why an answer card also solves a different problem, you score a bonus point.",
+   "When all the answer cards are laid, the player with the most cards and bonus points wins."
+  ],
+  "cards": [
+   {
+    "job": true,
+    "front": "PROBLEM: staying up in the air"
+   },
+   {
+    "job": true,
+    "front": "PROBLEM: being light enough to fly"
+   },
+   {
+    "job": true,
+    "front": "PROBLEM: getting enough oxygen for flight muscles"
+   },
+   {
+    "job": true,
+    "front": "PROBLEM: staying warm on a cold night"
+   },
+   {
+    "job": true,
+    "front": "PROBLEM: staying dry in the rain"
+   },
+   {
+    "job": true,
+    "front": "PROBLEM: eating hard seeds with no teeth"
+   },
+   {
+    "job": true,
+    "front": "PROBLEM: finding the way across the sea"
+   },
+   {
+    "job": true,
+    "front": "PROBLEM: keeping eggs safe on the ground"
+   },
+   {
+    "job": true,
+    "front": "PROBLEM: having fuel for a long flight with no food"
+   },
+   {
+    "job": true,
+    "front": "PROBLEM: finding a mate"
+   },
+   {
+    "front": "wings tilted to push air down",
+    "back": "staying up in the air: the air pushes back up on the wings"
+   },
+   {
+    "front": "a keel with big flight muscles",
+    "back": "staying up in the air: strong muscles flap the wings"
+   },
+   {
+    "front": "hollow bones with struts",
+    "back": "being light enough to fly: strong, but not heavy"
+   },
+   {
+    "front": "a beak instead of teeth",
+    "back": "being light enough to fly: teeth and big jaws are heavy"
+   },
+   {
+    "front": "air sacs and one-way breathing",
+    "back": "getting enough oxygen: fresh air flows through the lungs all the time"
+   },
+   {
+    "front": "blood that grabs oxygen well (bar-headed goose)",
+    "back": "getting enough oxygen: high over the Himalayas"
+   },
+   {
+    "front": "fluffy down feathers",
+    "back": "staying warm: trapped air keeps heat in"
+   },
+   {
+    "front": "preening oil",
+    "back": "staying dry: water rolls off oiled feathers"
+   },
+   {
+    "front": "a gizzard",
+    "back": "eating hard seeds: a strong muscle grinds the food"
+   },
+   {
+    "front": "a deep, strong beak",
+    "back": "eating hard seeds: it can crack them"
+   },
+   {
+    "front": "a magnetic sense",
+    "back": "finding the way: it works even on a cloudy day"
+   },
+   {
+    "front": "a star compass",
+    "back": "finding the way: at night, by the stars"
+   },
+   {
+    "front": "speckled eggs that look like gravel (lapwing)",
+    "back": "keeping eggs safe: hard for a crow or cat to see"
+   },
+   {
+    "front": "chicks who run on their first day",
+    "back": "keeping eggs and chicks safe: they can escape danger"
+   },
+   {
+    "front": "fat stored before the journey",
+    "back": "fuel for a long flight: fat holds a lot of energy"
+   },
+   {
+    "front": "a song learnt from father (zebra finch)",
+    "back": "finding a mate: females choose a good singer"
+   },
+   {
+    "front": "a peacock's long train",
+    "back": "finding a mate: peahens choose males with a fine train"
+   }
+  ]
+ },
+ "big": [
+  "A bird's body solves many problems at once. If one part of a bird changed, which other parts would have to change too?",
+  "No finch changed their own beak, yet the finches changed. Who or what did the choosing?",
+  "Kuyil needed no teacher, but a young sparrow does. Which things do you know without learning, and which did you have to learn?",
+  "Birds have been flying for over 150 million years, and people for about 120. What could people still learn from birds?",
+  "When the vultures vanished, people suffered too. What other living things might we need without knowing it?"
+ ],
+ "challenge": [
+  {
+   "q": "Birds fly south in winter because they feel cold.",
+   "hint": "Many birds can survive the cold with their down feathers. The bigger problem in winter is that the insects, seeds and fish they eat become hard to find, and days are short. Ask: why does the Amur falcon follow the rains and the termites?"
+  },
+  {
+   "q": "Hollow bones must make birds weak.",
+   "hint": "Your tube test showed that the same paper in a wide hollow tube held more coins than a thin solid rod. Hollow bones with struts inside are strong and light. Ask: where else do people use hollow tubes for strength, such as bicycle frames or bamboo?"
+  },
+  {
+   "q": "A bird can only change if the bird tries hard.",
+   "hint": "In the drought, no finch grew a bigger beak by trying. The birds whose beaks already suited the hard seeds survived and had chicks like them. Ask: what is the difference between one bird changing and a whole group changing over generations?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A villager in Pangti, Nagaland",
+   "view": "Until 2012, people around the Doyang reservoir caught huge numbers of Amur falcons for food each autumn. One estimate was more than 100,000 in a season. After the killing was filmed and reported, the villages agreed to protect the falcons, and now visitors come to watch them. Ask: what helped people change their minds, and what did they gain?"
+  },
+  {
+   "who": "A kite flyer on Sankranti",
+   "view": "Kite fights are an old and joyful tradition, and glass-coated string helps cut an opponent's kite. Ask: how can a family keep the fun of the festival and still keep birds safe?"
+  },
+  {
+   "who": "A bird rescuer at a bird hospital",
+   "view": "Every kite season, rescuers in cities like Ahmedabad and Jaipur treat many birds cut by kite string, especially pigeons, kites and owls. Ask: what would you say to the kite flyer?"
+  },
+  {
+   "who": "A vulture",
+   "view": "To a vulture, a dead cow is a meal and the job of cleaning up a village. Ask: why did people once think vultures were ugly, and what do they think now?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Thomas Huxley (1825–1895), England, and Ken Dial, University of Montana, USA",
+   "idea": "Scientists agree that birds came from feathered dinosaurs, but they argue about how flight began. One idea, called trees-down, says small feathered dinosaurs climbed trees and glided down, and gliding slowly became flapping. Another idea, called ground-up, says running dinosaurs flapped their arms to run faster or to catch insects.",
+   "then": "In the 1860s Huxley pointed out how much birds are like small dinosaurs. For many years after, most scientists thought birds' ancestors must have glided from trees, like flying squirrels.",
+   "now": "In 2003 Ken Dial filmed chukar partridge chicks, a bird also found in the Himalayas. Before they could fly, the chicks flapped their small wings to run up steep slopes and tree trunks. This gave a new version of the ground-up idea. Many feathered dinosaurs found in China since 1996 show that feathers came long before flight. Scientists still argue about how flight began.",
+   "status": "debated",
+   "ask": "The chukar chicks used half-grown wings to run up slopes. Why does this show that a half-made wing could still be useful?",
+   "day": 7
+  },
+  {
+   "id": "v2",
+   "who": "Rosemary Grant and Peter Grant, Princeton University, USA",
+   "idea": "From 1973, Rosemary and Peter Grant spent part of every year on Daphne Major, a tiny island in the Galápagos. They caught, measured and marked almost every finch on the island, year after year, for about 40 years.",
+   "then": "Many people thought natural selection was so slow that nobody could ever watch it happen.",
+   "now": "In 1977 a drought killed most of the plants. Only big, hard seeds were left. Most medium ground finches died, and those with bigger, deeper beaks survived best. Their chicks had bigger beaks on average. In wet years, when small seeds were common, smaller beaks did better. The Grants showed that natural selection can be seen within a few years.",
+   "status": "accepted",
+   "ask": "The Grants measured thousands of birds for 40 years. Why do you think they needed so many measurements, over so many years?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Roswitha Wiltschko and Wolfgang Wiltschko, Frankfurt, Germany",
+   "idea": "In the 1960s and 1970s, the Wiltschkos kept European robins in round cages in a closed room in migration season. The robins hopped in the direction they would fly. When the scientists used coils of wire to turn the Earth's magnetism to another direction, the robins turned too.",
+   "then": "Many scientists did not believe that any animal could sense magnetism.",
+   "now": "Scientists now agree that many birds sense the Earth's magnetism and use it as a compass. How birds sense it is still argued. One idea is that a protein in the eye, called cryptochrome, reacts to magnetism, so a bird may be able to see the direction. An older idea was that tiny bits of iron in the beak act as a compass. In 2012 a team found that the iron-rich cells they studied in pigeon beaks were white blood cells, not sensing cells, and that idea is now weaker.",
+   "status": "debated",
+   "ask": "The robins were in a closed room with no Sun and no stars. Why was this important for the test?",
+   "day": 8
+  },
+  {
+   "id": "v4",
+   "who": "Vibhu Prakash, Bombay Natural History Society, India, and Lindsay Oaks, USA",
+   "idea": "In the 1990s Vibhu Prakash noticed that the vultures in Keoladeo National Park, in Rajasthan, were dying. Across India, three kinds of vulture fell by more than 95 percent in about 15 years.",
+   "then": "Scientists first thought a disease was killing the vultures.",
+   "now": "In 2004 Lindsay Oaks and his team found the real cause: diclofenac, a painkiller given to sick cattle. Vultures who ate a cow that had been given diclofenac shortly before dying got kidney damage and died. India banned diclofenac for animals in 2006. Breeding centres are now raising vultures, and a few are being released into the wild.",
+   "status": "accepted",
+   "ask": "The medicine was given to help sick cows. How could something that helps one animal harm another so far away?",
+   "day": 9
+  }
+ ],
+ "books": [
+  {
+   "title": "Look Up! Bird-Watching in Your Own Backyard",
+   "author": "Annette LeBlanc Cate",
+   "for": "read together",
+   "age": "7–11",
+   "why": "A funny, friendly guide to watching birds closely: shapes, beaks, feet and behaviour. Good for your patch count."
+  },
+  {
+   "title": "The Fall of a Sparrow",
+   "author": "Sálim Ali",
+   "for": "parent reads",
+   "age": "adult book, share stories aloud",
+   "why": "The life story of India's best-known bird scientist, which begins with a boy curious about a yellow-throated sparrow."
+  },
+  {
+   "title": "The Beak of the Finch",
+   "author": "Jonathan Weiner",
+   "for": "parent reads",
+   "age": "adult book",
+   "why": "The true story of Rosemary and Peter Grant's finches on Daphne Major, told for general readers."
+  },
+  {
+   "title": "The Genius of Birds",
+   "author": "Jennifer Ackerman",
+   "for": "parent reads",
+   "age": "adult book",
+   "why": "What scientists have found about bird minds: tool-making crows, song learning and navigation."
+  }
+ ],
+ "check": [
+  {
+   "q": "How do the barbs of a feather stay together in a smooth vane?",
+   "a": "Each barb has tiny barbules with hooks that grip the next barb, like a zip. When a bird preens, the beak zips them back together."
+  },
+  {
+   "q": "Using your card and fan test, explain how a wing makes lift.",
+   "a": "A wing tilted a little turns the moving air downwards. The wing pushes the air down, so the air pushes the wing up. Too steep a tilt mostly pushes the wing back."
+  },
+  {
+   "q": "Give three ways a bird's body is built for flying.",
+   "a": "Any three: hollow bones with struts, which are light and strong, like the hollow paper tube. Air sacs that keep fresh air flowing through the lungs. A keel holding big flight muscles. A light beak instead of teeth. Joined bones that make a stiff frame."
+  },
+  {
+   "q": "Why do some chicks run on the day they hatch, while others are helpless?",
+   "a": "Birds who nest on the ground, like hens and lapwings, have chicks who hatch with down and open eyes, so they can escape danger. Birds who nest high up, like crows and pigeons, have helpless chicks who stay safe in the nest while the parents feed them."
+  },
+  {
+   "q": "Tell the story of the finches and the drought in your own words.",
+   "a": "In the 1977 drought on Daphne Major only big, hard seeds were left. Finches with bigger, deeper beaks could crack them and survived. Their chicks had bigger beaks. No bird changed their own beak. This is natural selection."
+  },
+  {
+   "q": "A koel needs no teacher, but a young sparrow does. Why?",
+   "a": "A sparrow is a songbird and learns the song by listening to adults. A koel is raised by crows and never hears a koel parent, so the koel's call is inborn."
+  },
+  {
+   "q": "How does a migrating bird find the way, and what is still unknown?",
+   "a": "Birds use the Sun by day, the stars at night, landmarks like coasts and rivers, and the Earth's magnetism. Scientists still do not know exactly how birds sense magnetism."
+  },
+  {
+   "q": "Why did India's vultures die, and why does it matter?",
+   "a": "They ate dead cattle who had been given the painkiller diclofenac, which damaged their kidneys. Without vultures, dead animals rotted for longer and more stray dogs came, which can spread disease."
+  }
+ ],
+ "story": {
+  "title": "Across the water",
+  "text": [
+   "I was born in a hole in a dead tree, beside a wide river that the people there call the Amur. My mother and father were small falcons with orange legs. They brought us beetles and grasshoppers all summer, and by the end of summer I could catch my own.",
+   "Then the nights grew cold. The insects grew fewer. One morning my mother lifted off and did not circle back. Others were leaving too, hundreds of us, flying south and west. I did not decide to go. My wings decided. Something in me knew the direction, the way your feet know the stairs in the dark.",
+   "We flew for weeks. In the day the Sun showed us the way. At night, when we flew, there were the stars. When clouds hid both, I could still feel the direction somewhere behind my eyes, faint and steady, like a hum.",
+   "In October we came down over green hills in a place the people call Nagaland. Below was a long lake held back by a dam, the Doyang. The trees around it were black with falcons. I had never seen so many of my own kind. Thousands landed each evening, and the branches bent.",
+   "Here there was food. After the rain, termites with wings rose out of the ground in clouds, glittering. We swooped through them with our feet out, caught them, and ate them on the wing. I ate from morning till evening. I ate until my body grew heavy and round under my feathers.",
+   "On the hill above the lake, a girl in a red shawl sat with a notebook every evening and counted us. She could not really count us. There were too many. But she tried, and wrote numbers, and crossed them out, and tried again.",
+   "Her grandmother sat beside her sometimes. Once I heard the old woman say that when she was young, there were nets by the water, and people caught the falcons by the thousand. Now the nets were gone. Now the village boys walked along the shore at night to make sure nobody set them up again.",
+   "In November the wind changed. It came from the northeast now, cool and strong, from behind us. One morning, without any signal I could name, the whole roost lifted. We flew west, across India, over towns and fields and rivers, until the land ended.",
+   "Then there was only water.",
+   "I had never seen the sea. It went on in every direction, grey and glittering, with no tree, no rock, no place to put my feet. If I came down, I would drown. So I did not come down.",
+   "We flew all day. We flew all night under the stars. We flew the next day. I could feel the fat I had eaten in Nagaland burning away inside me, a little at a time, like oil in a lamp. My wings ached. The wind at my back helped. Without it, I think I would have fallen.",
+   "On the third day I was so tired that my wingbeats went ragged. I dropped lower, too low, close to the waves.",
+   "And then I saw them.",
+   "Dragonflies. Hundreds of them, wide-winged and golden, flying the same way we were, just above the water. Where had they come from? Where were they going? I did not know. I only knew that they were food, and that I was hungry.",
+   "I caught one, and ate it in the air. I caught another. The others in my flock dropped down too, and for an hour we fed over the open sea, on insects who were making the same crossing.",
+   "I climbed again with the wind behind me. I flew another night.",
+   "On the next morning there was a brown line at the edge of the world. It grew. It became cliffs, and sand, and thorn trees. I came down on a branch in a land I had never seen, and my feet held on, and I slept.",
+   "Later we flew on south, through the grasslands, to where the summer rains were beginning, and the insects were rising from the ground again.",
+   "Next year, when the nights grow cold here, I will turn north and east. I will cross the sea again, and come down over the green hills, by the long lake. I wonder if the girl in the red shawl will be on the hill, still counting, still crossing out the numbers and trying again."
+  ],
+  "epiphany": "A small bird can cross thousands of kilometres of open sea because she carries her fuel as fat, flies with the wind behind her, and finds her way with the Sun, the stars and a magnetic sense. The turn is the moment over the sea when she finds food in the air. The true facts behind the story: Amur falcons breed around the Amur river, gather in huge numbers near the Doyang reservoir in Nagaland each October and November, feed on winged termites there, and then cross the Arabian Sea to Africa without landing. Villages that once trapped them now protect them. Globe skimmer dragonflies also cross that sea, and some scientists think the falcons feed on them on the way, but this has not been proven.",
+  "ask": [
+   "Why did the falcon eat termites from morning till evening in Nagaland?",
+   "What three things did she use to find her way?",
+   "Why could she not come down to rest over the sea?",
+   "How did the wind help her?",
+   "The girl could not really count the falcons, but she kept trying. Why might counting birds matter to scientists?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "A bird's body is many solutions to the problems of flying.",
+   "more": "Lift from wings that push air down. Light, strong hollow bones. A keel with big muscles. Air sacs for one-way breathing. A warm body that burns a lot of food. Each part fits the others."
+  },
+  {
+   "idea": "Birds change over generations through natural selection.",
+   "more": "No bird changes their own beak. The birds who suit their place survive and have chicks like them, so the group changes. The Grants watched this happen to finches within a few years."
+  },
+  {
+   "idea": "Birds think, learn and find their way across the world.",
+   "more": "Songbirds learn songs, crows make tools, and migrating birds cross seas using the Sun, the stars and the Earth's magnetism. Some of how they do it is still unknown."
+  }
+ ],
+ "unknowns": [
+  "How exactly do birds sense the Earth's magnetism? A protein in the eye called cryptochrome is the main idea, but scientists have not proven how it works.",
+  "How did flight begin: by gliding down from trees, by flapping while running up slopes, or some mix? Fossils have not settled it.",
+  "What do Amur falcons eat while they cross the Arabian Sea? Some scientists think they catch migrating dragonflies, but nobody has yet shown it for certain.",
+  "Why do so many birds sing most at dawn? There are several ideas, such as sound carrying well in the still morning air, but scientists still argue."
+ ]
+}

@@ -1,0 +1,1405 @@
+{
+ "key": "combined|sci|5|microorganisms",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "microorganisms",
+ "day_mins": 45,
+ "title": "Microbes: the tiny living beings who spoil food, make curd, and how we keep food safe",
+ "source": "DeepKids Combined. Covers NCERT Class 5 'The Mystery of Food' (how microbes spoil food, ways of preserving food and the traditions behind them, good microbes, storage and hygiene), and goes further into what microbes are, how bacteria multiply, fermentation, Pasteur's flasks and how scientists grow microbes. No textbook needed.",
+ "summary": "A damp roti and a dry roti sit in the same air. Only the damp one grows mould. Food goes bad because living beings too small to see are eating it. Your child sets up a week-long roti test, makes curd with and without bacteria, watches yeast blow up a balloon and sees salt pull water out of a cucumber. They find that every way of keeping food, from avakaya to the fridge, takes away something microbes need. Along the way they meet the cloth seller who first saw bacteria, Pasteur's swan-neck flasks, and the woman whose pudding jelly is still used in every microbe lab.",
+ "builds_on": "This topic starts in Class 5. Your child met decomposers and the rot jars in the Class 3 waste rung, germs and soap in the Class 2 and 3 health rungs, and germs, antibiotics and Fleming's mould in the Class 4 health rung. Here they meet microbes themselves: what they are, how they grow, how they spoil food, how people keep food and how good microbes make it. The Class 5 digestion rung looks at the microbes in our gut. Later classes go on to cells, using a microscope, and how microbes cause and fight disease.",
+ "subconcepts": [
+  "microbes: living beings too small to see, such as bacteria, fungi like yeast and moulds, algae and protozoa",
+  "viruses: not cells, and able to copy themselves only inside a living cell",
+  "how small microbes are: micrometres, lenses and the microscope",
+  "where microbes live: air, soil, water, and on and inside us (the microbiome)",
+  "how bacteria multiply: splitting in two, and doubling",
+  "what microbes need to grow: food, water, warmth and, for most, air",
+  "spoilage: moulds, hyphae and spores, and harmful microbes you cannot see or smell",
+  "changes that are not spoiling: a cut apple turning brown",
+  "spontaneous generation, and Pasteur's swan-neck flasks",
+  "fermentation: microbes that make curd, idli batter and bread",
+  "preserving food by taking away water: drying, salt, sugar and oil",
+  "preserving food with cold, heat and sealing: the fridge, boiling, pasteurisation, tins and ghee",
+  "India's food-keeping traditions, from avakaya and karuvadu to gundruk",
+  "storing food safely and kitchen hygiene",
+  "growing microbes in a lab on agar, and who got the credit"
+ ],
+ "goals": [
+  "By the end your child can say what microbes are, name the main kinds, and say where they live.",
+  "By the end your child can run a fair test on roti and say what microbes need to grow: food, water and warmth, and for most of them air.",
+  "By the end your child can explain how drying, salt, sugar, oil, acid, cold, heat and sealing each keep food, with an Indian example of each.",
+  "By the end your child can explain fermentation, and show how bacteria make curd and yeast make gas.",
+  "By the end your child can tell spoiling apart from other changes in food, and follow safe rules for storing food.",
+  "By the end your child can tell the stories of Leeuwenhoek, Pasteur and Fanny Hesse, and say what they show about evidence and credit."
+ ],
+ "words": [
+  [
+   "microbe",
+   "a living being too small to see without a microscope. Microorganism is the longer name. Bacteria, yeast and moulds are microbes."
+  ],
+  [
+   "bacteria",
+   "microbes made of one tiny cell each, about one or two thousandths of a millimetre long. One of them is a bacterium."
+  ],
+  [
+   "fungus",
+   "a living being who is neither a plant nor an animal, and feeds by digesting food outside their body. Yeast, moulds and mushrooms are fungi."
+  ],
+  [
+   "yeast",
+   "a single-celled fungus who eats sugar and gives out carbon dioxide gas, which makes dough rise"
+  ],
+  [
+   "mould",
+   "a fungus who grows as a fuzzy patch of thin threads on old food"
+  ],
+  [
+   "spore",
+   "a tiny part a fungus or some bacteria make, which floats in the air and can grow into a new one"
+  ],
+  [
+   "virus",
+   "a tiny packet of genes in a coat, much smaller than a bacterium, who can make copies of themselves only inside a living cell"
+  ],
+  [
+   "microscope",
+   "an instrument with lenses that makes tiny things look many times bigger"
+  ],
+  [
+   "spoilage",
+   "food going bad because microbes are growing on it and eating it"
+  ],
+  [
+   "fermentation",
+   "using microbes to change food on purpose, as when bacteria turn milk into curd"
+  ],
+  [
+   "preservation",
+   "keeping food safe to eat for longer, by drying, salting, cooling, heating or sealing it"
+  ],
+  [
+   "pasteurisation",
+   "heating milk or juice to about 72 degrees for a short time to kill most germs, then cooling it fast"
+  ]
+ ],
+ "days": [
+  {
+   "n": 1,
+   "title": "Who is eating our food?",
+   "goal": "Meet microbes, the living beings too small to see, and start the four-box roti test that runs all week.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the rot jars and the germs",
+     "mins": 7,
+     "do": "Say: 'In Class 3 you watched peels rot in jars. In Class 4 you learned about germs and the mould that gave us penicillin.' Ask: 'Who made the peels rot?' (decomposers: bacteria, moulds and earthworms). 'What did they need?' (water, air and warmth). 'Are all tiny living things germs?' Let your child answer, then say: 'This week we meet those tiny beings properly. Scientists call them microorganisms, or microbes for short.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The forgotten tiffin box",
+     "mins": 8,
+     "do": "Ask: 'Have you ever found old food in a tiffin box or at the back of the fridge? What did it look like and smell like?' Good answers: green or black fuzz, white spots, slime, a sour or bad smell. Then say: 'Food does not go bad by itself. Living beings are eating it before we do. A microbe is a living being so small that you need a microscope to see them. There are four main kinds. Bacteria are single cells, so small that about a thousand in a row would stretch across one millimetre. Fungi include yeast, which makes dough rise, and moulds, the fuzz on old food. Algae are tiny beings who make food from sunlight, like plants. Protozoa are single cells who hunt and swim, like the amoeba in pond water.' Then say: 'Viruses are even smaller. They are not cells. A virus can make copies of themselves only inside a living cell, so scientists still argue about whether viruses are alive.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the four-box roti test",
+     "mins": 17,
+     "do": "Do Experiment e1. Tear one plain chapati into four equal pieces. Label four steel boxes or zip bags A, B, C and D. Piece A gets one teaspoon of water sprinkled on it. Piece B is heated on a dry tawa until it is crisp and dry. Piece C gets one teaspoon of water and will go in the fridge. Piece D gets one teaspoon of water and is then covered thickly with salt on both sides. Leave all four open on the kitchen counter for one hour, so the same air touches each one, then close them. Put A, B and D on a shelf and C in the fridge. Before closing, ask: 'Which one will grow mould first? Which one never will? Why do you think so?' Write the guesses on a sheet stuck to the fridge. Say: 'We will look every day, but we will never open the boxes.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "think",
+     "title": "The cloth seller who saw them first",
+     "mins": 8,
+     "do": "Tell the story of Voice v1 in your own words: Antonie van Leeuwenhoek sold cloth in Delft, in the Netherlands. He made tiny glass lenses to check the threads in cloth, and got so good that his lenses made things look about 270 times bigger. In 1676 he wrote to scientists in London that a drop of pepper water was full of tiny swimming beings. They did not believe him until Robert Hooke built a good enough microscope and saw them too. Ask the voice question and listen for reasons.",
+     "ref": "v1"
+    },
+    {
+     "kind": "act",
+     "title": "A water-drop lens",
+     "mins": 5,
+     "do": "Do Activity a1. Put a small drop of water on a piece of clear plastic and hold it just above a line of newspaper print. Ask: 'What happens to the letters under the drop?' (They look bigger.) Say: 'A curved drop bends light, just as a glass lens does. Leeuwenhoek's lenses were tiny beads of glass, much stronger than this. A water drop will not show you microbes, but it shows how a lens works.'",
+     "ref": "a1"
+    }
+   ],
+   "need": [
+    "one plain chapati",
+    "4 small steel boxes with lids or 4 zip bags",
+    "a teaspoon, water, salt",
+    "a marker and a sheet of paper",
+    "a piece of clear plastic from packaging",
+    "an old newspaper"
+   ],
+   "prep": [
+    {
+     "task": "Make or keep aside one plain chapati without ghee",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "How small, and how many?",
+   "goal": "Find out how small microbes are, how fast bacteria multiply by splitting in two, and where microbes live.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Roti boxes: first look",
+     "mins": 4,
+     "do": "Look at the four boxes from Experiment e1 without opening them. Your child draws each piece and writes the date. Usually nothing shows yet. Ask: 'If microbes are already on the damp roti, why can't we see them?' (They are too small. We will only see mould when there are millions of threads together.)",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "How small is a bacterium?",
+     "mins": 8,
+     "do": "Show the millimetre marks on a ruler. Say: 'Scientists measure microbes in micrometres. A micrometre is one thousandth of a millimetre. Most bacteria are one or two micrometres long. A hair from your head is about 70 micrometres wide, so dozens of bacteria could lie across the end of one hair.' Pull out one hair and look at its end together. Ask: 'Why did nobody know about microbes until about 350 years ago?' (Nobody had lenses strong enough to see them.)"
+    },
+    {
+     "kind": "act",
+     "title": "Doubling with rice grains",
+     "mins": 15,
+     "do": "Do Activity a2. Say: 'Bacteria do not have babies the way we do. One bacterium grows, then splits into two. In the best conditions some bacteria split every 20 minutes.' Put one rice grain on a plate for the start. Ask your child to guess how many there will be after 3 hours. Then double the grains for each 20 minutes and fill the table: 1, 2, 4, 8, 16, 32, 64, 128, 256, 512. Count by tens or weigh them if counting gets slow. Ask: 'Half of the grains came in the last 20 minutes. What does that tell you about curd that looks like milk for hours, then sets quickly?' (The bacteria keep doubling, so most of the change happens near the end.)",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "Where do microbes live?",
+     "mins": 10,
+     "do": "Ask: 'Where do you think microbes live?' Let your child list places, then add: 'In soil, in the sea, in the air, in hot springs and inside rocks deep under the ground. And on you and inside you.' Say: 'Your body is made of about 30 trillion of your own cells. Scientists think about 38 trillion bacteria live on you and in you, mostly in your gut. So there are roughly as many of them as there are of you. All the microbes living in one place are called a microbiome. Most of yours are harmless or helpful. Only a few kinds of microbes are germs that make us ill.' Ask: 'Your gut bacteria live inside you all your life. Are they part of you, or are they guests?'"
+    },
+    {
+     "kind": "act",
+     "title": "Dance: divide, slow down, freeze",
+     "mins": 8,
+     "do": "Do Activity a3. Your child is a bacterium. Play fast music and call 'Warm and wet!': your child dances, then claps and splits in two by stepping sideways and leaving a paper circle where they were. Call 'Fridge!': everyone moves in slow motion. Call 'Salt!': they freeze and curl up small. Call 'Boiling!': they fall to the floor. Count the paper circles at the end. Ask: 'Which call made the most new bacteria?'",
+     "ref": "a3"
+    }
+   ],
+   "need": [
+    "the roti boxes",
+    "a ruler",
+    "a plate and a small bowl of raw rice",
+    "paper and a pencil for the table",
+    "music and 20 paper circles or scraps"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Spoiling, and where microbes come from",
+   "goal": "See the first mould, tell spoiling apart from other changes, set up the curd test and hear how Pasteur showed that microbes come from other microbes.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Roti boxes: is anything growing?",
+     "mins": 8,
+     "do": "Look at Experiment e1 through the closed lids with a magnifying glass if you have one. In warm, damp weather, piece A often shows white fuzz or green or black dots by now. Say: 'This fuzz is a mould, which is a fungus. A spore from the air landed on the roti. They grew thin threads called hyphae into the food. The threads give out juices that digest the roti outside their body, then soak it up. The coloured dots are new spores.' Ask: 'Which of your guesses was right so far?' Draw all four with the date.",
+     "ref": "e1"
+    },
+    {
+     "kind": "act",
+     "title": "The brown apple: spoiled or not?",
+     "mins": 10,
+     "do": "Do Activity a4. An adult cuts an apple into four slices. Rub lemon juice on two of them. Leave all four on a plate. Ask: 'Which will turn brown? Is browning the same as going bad?' Check after the next step, about 20 minutes later. Say: 'The cut apple turns brown because a chemical in the apple reacts with oxygen in the air. No microbes are involved, and the apple is safe to eat. Lemon juice slows the reaction down. Spoiling is different: spoiling is microbes eating the food.'",
+     "ref": "a4"
+    },
+    {
+     "kind": "think",
+     "title": "Pasteur's swan-neck flasks",
+     "mins": 12,
+     "do": "Tell the story of Voice v2 in your own words. Draw a round flask with a long neck that bends down and up again, like an S. Say: 'Many people, like the scientist Félix Pouchet, thought microbes in spoiled broth grew out of the broth by itself. Louis Pasteur boiled broth in flasks like this. Air could get in, but dust and microbes got stuck in the low bend of the neck.' Ask: 'What do you think happened to the broth?' Let your child guess, then say: 'It stayed clear. When he snapped off the neck, it went cloudy with microbes in a few days.' Ask the voice question about Pouchet's hay broth.",
+     "ref": "v2"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the curd test (do this in the evening)",
+     "mins": 15,
+     "do": "Do Experiment e3. An adult boils two cups of milk and lets it cool until a finger can stay in it comfortably. Pour it equally into three clean steel bowls. Bowl A gets half a teaspoon of curd, stirred in, and goes in a warm closed cupboard or wrapped in a towel. Bowl B gets half a teaspoon of curd and goes straight into the fridge. Bowl C gets no curd, is covered and goes next to bowl A. Ask: 'Which will become curd by the morning? Why?' Write the guesses down. Say: 'Curd is not just milk. It is milk that bacteria have changed.'",
+     "ref": "e3"
+    }
+   ],
+   "need": [
+    "the roti boxes and a magnifying glass if you have one",
+    "an apple, half a lemon, a knife for the adult, a plate",
+    "paper to draw the flask",
+    "two cups of milk, three steel bowls with lids, one teaspoon of curd, a towel"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Good microbes: curd, idli and bread",
+   "goal": "See what the curd bacteria did overnight, watch yeast make gas, and read the story of a batter that would not rise.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Curd test results",
+     "mins": 10,
+     "do": "Look at the three bowls from Experiment e3. Tip each one gently. Usually bowl A has set thick and smells sour, bowl B is still runny milk, and bowl C is still milk. Ask: 'What made the difference between A and C?' (The curd added bacteria.) 'Between A and B?' (Warmth. The bacteria grew slowly in the cold.) Say: 'Curd bacteria eat the sugar in milk, called lactose, and make lactic acid. The acid makes the milk proteins clump together, so the milk turns thick and sour. Using microbes to change food on purpose is called fermentation.' Ask: 'Why does curd keep longer than milk?' (Most spoiling microbes cannot grow in that sour acid.) Taste bowl A only if it smells like normal curd.",
+     "ref": "e3"
+    },
+    {
+     "kind": "exp",
+     "title": "Yeast blows up a balloon",
+     "mins": 20,
+     "do": "Do Experiment e2. Stretch three balloons a few times. In bottle 1 put one teaspoon of yeast, one teaspoon of sugar and half a cup of warm water. In bottle 2 put yeast and warm water, with no sugar. In bottle 3 put yeast, sugar and cold water from the fridge. Swirl each one and fit a balloon over the mouth. Ask your child to guess which balloon will grow most. Check every 5 minutes. Say: 'Yeast are single-celled fungi. They eat sugar and give out carbon dioxide gas. That gas makes bread dough and bhatura dough puff up. In idli and dosa batter, bacteria and yeasts that were already on the rice and dal make the gas.' Ask: 'Which two things did the yeast need?' (Food, which was the sugar, and warmth.)",
+     "ref": "e2"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Batter That Would Not Rise",
+     "mins": 15,
+     "do": "Read the story aloud. Kavya, a girl of ten from Madurai, now lives in Delhi, and it is January. Stop after the second morning when the batter has still not risen and ask: 'Why do you think it is not rising?' Then finish the story and ask the story questions. Listen for: the batter is full of living microbes, and they were too cold to grow."
+    }
+   ],
+   "need": [
+    "the three curd bowls",
+    "one packet of dry yeast (sold in grocery shops as instant or active dry yeast)",
+    "sugar, warm water, cold water",
+    "3 small plastic bottles and 3 balloons",
+    "the story text"
+   ],
+   "prep": [
+    {
+     "task": "Buy a small packet of dry yeast, or keep some fresh idli or dosa batter aside if you cannot",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Taking away water: drying, salt, sugar and oil",
+   "goal": "Read the roti test results, see salt pull water out of food, and sort the kitchen into foods made by microbes and foods kept safe from them.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Roti test: final results",
+     "mins": 8,
+     "do": "Look at Experiment e1 one last time. Usually A is the mouldiest, B is clean, C has little or no mould, and D, under salt, has little or none. Ask: 'All four sat in the same air for an hour. Why did only some grow mould?' Help your child write the result: 'Microbes need water, warmth and food. The dry piece had no water. The salted piece lost its water to the salt. The cold piece grew very slowly.' Then throw the boxes or bags away still closed, or wash them in hot soapy water without sniffing.",
+     "ref": "e1"
+    },
+    {
+     "kind": "exp",
+     "title": "Salt pulls water out of a cucumber",
+     "mins": 12,
+     "do": "Do Experiment e4. An adult cuts ten thin cucumber slices. Put five on one plate and sprinkle half a teaspoon of salt on them. Put five on another plate with no salt. Ask: 'What will the salt do?' Wait 15 minutes while you do the next step, then look. Drops of water collect on the salted slices and they go soft and bendy. Say: 'Water moves out of the cucumber's cells towards the salty side. This is called osmosis. A microbe on salty food loses water in the same way, so they cannot grow. Thick sugar syrup does the same, which is why murabba and honey keep.'",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "How India keeps food",
+     "mins": 10,
+     "do": "Say each one and ask your child which need of microbes it takes away. Vadam and appalam are dried in the summer sun in Tamil Nadu (no water). Karuvadu is fish salted and dried on the beaches of Tamil Nadu and Kerala (salt pulls water out, the sun dries the rest). Avakaya in Andhra Pradesh is raw mango in salt, chilli, mustard and oil (salt pulls out water, oil keeps air away). Aam papad is mango pulp dried into sheets (no water, lots of sugar). In Sikkim, families make gundruk by letting leafy greens ferment and then drying them for winter (sour and dry). Ask: 'Why do grandmothers always say to use a dry spoon in the pickle jar?' (A drop of water lets moulds grow.)"
+    },
+    {
+     "kind": "act",
+     "title": "Kitchen hunt: made by microbes, or kept from microbes?",
+     "mins": 15,
+     "do": "Do Activity a5. Your child finds at least ten foods in the kitchen and sorts them into two groups on the floor or table: 'made with the help of microbes' and 'kept safe from microbes'. Made with microbes: curd, buttermilk, idli or dosa batter, appam batter, dhokla, bread, vinegar, soy sauce, cheese. Kept safe: oil pickle, papad, dried chillies, jaggery, honey, jam, salt, rice and dal grains, a sealed tin. For each one in the second group, your child says which need is taken away: water, warmth or air, or the food is made too salty, sweet or sour.",
+     "ref": "a5"
+    }
+   ],
+   "need": [
+    "the roti boxes",
+    "a cucumber, salt, two plates, a knife for the adult",
+    "foods from your kitchen shelves and fridge"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Cold, heat and air, and how microbes are grown",
+   "goal": "Learn how cold, heat and sealing keep food, how scientists grow microbes on agar, and check the core ideas.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Fridge, boiling, packets and ghee",
+     "mins": 10,
+     "do": "Ask: 'Does the fridge kill microbes?' Let your child answer, then say: 'No. A fridge is about 4 degrees Celsius. That slows most microbes down a lot, but does not kill them. A freezer stops them growing, and many wake up again when food thaws. Boiling milk or water kills most microbes. Milk in packets has been pasteurised: heated to about 72 degrees for 15 seconds, then cooled fast. That kills most germs without making the milk taste cooked. It is named after Pasteur. A tin of food is sealed and then heated, so no new microbes or air can get in.' Ask: 'When we make ghee, we heat butter until the bubbling stops. What is boiling away?' (The water. Ghee has almost no water left, so it keeps for months.) Add: 'A few bacteria make tough spores that survive boiling. That is why factories heat tins hotter than boiling, under pressure.'"
+    },
+    {
+     "kind": "think",
+     "title": "Fanny Hesse's kitchen jelly",
+     "mins": 12,
+     "do": "Show agar if you have it (sold in India as China grass, for puddings). Tell the story of Voice v3 in your own words: to study one kind of bacteria, scientists had to grow them on a firm surface. Gelatin melted on warm days and some bacteria ate it. Fanny Hesse suggested the seaweed jelly she used for desserts. Agar stays firm even at body temperature, and few bacteria can eat it. Labs everywhere still use agar plates. Ask the voice question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 13,
+     "do": "Do Worksheet ws1. It checks what microbes are, what they need and what the roti test showed. For the two written answers, ask your child to say the answer aloud first, then write it. Good answers name the need (water, warmth, food) and the evidence from the test.",
+     "ref": "ws1"
+    },
+    {
+     "kind": "game",
+     "title": "Stop the Spoilers",
+     "mins": 10,
+     "do": "Play Game g1. Lay out the seven category cards face up. Take turns to pick up a food card, read it aloud and put it under the right category, saying which need of microbes is taken away. Turn it over to check. If you are right, keep the card. Play for 10 minutes, and keep the cards for another day.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "agar or China grass if you have it",
+    "worksheet ws1",
+    "the printed Stop the Spoilers cards, cut out"
+   ],
+   "prep": [
+    {
+     "task": "Print and cut out the Stop the Spoilers cards",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Storing food safely, and the microbes inside us",
+   "goal": "Learn the rules of safe storage, weigh the evidence on probiotics, and start the family food-keeping book.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Safe storage rules",
+     "mins": 10,
+     "do": "Ask: 'How can you tell if food has gone bad?' (Mould, a bad smell, slime, a sour taste in food that should not be sour.) Say: 'Some harmful bacteria do not change how food looks or smells at all. So if you are in doubt, throw it out.' Go through these rules together and ask why each one works: cover cooked food, so flies and dust cannot bring microbes. Put leftovers in the fridge within two hours, because warm food lets bacteria double again and again. Use older food first. Wash your hands before cooking and eating. Throw away mouldy groundnuts, because some moulds on nuts and grains make poisons. Mould threads spread deep inside soft food like bread, so throw the whole slice away, not only the spot. Buy fruit and vegetables that are fresh and in season, because they have travelled and waited less."
+    },
+    {
+     "kind": "think",
+     "title": "Do probiotics really help?",
+     "mins": 10,
+     "do": "Tell the story of Voice v4 in your own words: probiotics are live microbes sold in drinks and capsules. A small study in Israel looked inside people's guts. In some people the probiotic bacteria settled in, and in others the person's own gut microbes pushed them out. After a course of antibiotics, people who took probiotics took longer to get their own gut microbes back. Ask the voice question. Then ask: 'If a label says good for your gut, what would you want to know before believing it?'",
+     "ref": "v4"
+    },
+    {
+     "kind": "act",
+     "title": "Project: interview an elder",
+     "mins": 15,
+     "do": "Start the Project. Your child phones or sits with a grandparent or an older neighbour and asks: 'How did you keep food when you were small, before you had a fridge? What did you dry, salt, pickle or ferment? What rules did you follow in the kitchen?' Your child writes down at least five ways with the food, the place and the season. Ask afterwards: 'Which need of microbes does each one take away?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws2. It asks your child to match each way of keeping food to the need it takes away, to work with doubling numbers, and to explain two new cases. Let them use the rice-grain table from Day 2.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "a phone or an elder at home",
+    "a notebook",
+    "worksheet ws2",
+    "the rice-grain table from Day 2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Teach it back",
+   "goal": "Finish the food-keeping book, do the challenge sheet, think about the big questions and teach it all back.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Finish the food-keeping book",
+     "mins": 10,
+     "do": "Finish the Project. Your child makes one page for each way of keeping food from the interview: a drawing, the food's name, and one line saying which need of microbes it takes away. Add one page for a food made by microbes, such as curd or idli, and a last page of three safe storage rules."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Do Worksheet ws3. These questions ask your child to design a fair test, to sort settled ideas from open ones, and to argue. Let them disagree with you if they have a reason.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "think",
+     "title": "Big question",
+     "mins": 6,
+     "do": "Ask: 'To the mould, an old orange is not spoiled. It is dinner and a home for their spores. When we say spoiled, who do we mean it is spoiled for?' Then ask: 'If every microbe on Earth disappeared tomorrow, what would happen to dead leaves, to curd, and to us?' (Dead things would pile up and stop turning back into soil. There would be no curd or idli. Our guts would work badly.)"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 15,
+     "do": "Your child uses the food-keeping book and the roti test drawings to teach a grown-up: what microbes are, what they need, why food spoils, three ways people keep food and which need each takes away, how curd is made, and one story of how it was found out. Then ask the check questions and listen for full reasons."
+    }
+   ],
+   "need": [
+    "the interview notes",
+    "paper, colour pencils, a stapler or thread",
+    "worksheet ws3"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Microbes and what they need",
+   "day": 6,
+   "sections": [
+    [
+     "A. Who is a microbe?",
+     [
+      {
+       "t": "mcq",
+       "p": "Which of these is a microbe?",
+       "opts": [
+        "the yeast that makes bread dough rise",
+        "an ant",
+        "a grain of salt"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Is it a living microbe, or not alive?",
+       "items": [
+        "bacteria in curd",
+        "mould on old bread",
+        "yeast",
+        "a grain of sugar",
+        "a speck of dust"
+       ],
+       "cats": [
+        "a living microbe",
+        "not alive"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A living being too small to see without a microscope is called a ____.",
+       "a": [
+        "microbe",
+        "microorganism"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each microbe to what they do.",
+       "pairs": [
+        [
+         "yeast",
+         "make bread dough rise"
+        ],
+        [
+         "curd bacteria",
+         "turn milk thick and sour"
+        ],
+        [
+         "mould",
+         "grow fuzzy patches on old food"
+        ],
+        [
+         "a virus",
+         "can make copies only inside a living cell"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. The roti test",
+     [
+      {
+       "t": "mcq",
+       "p": "In the roti test, four pieces of roti sat in the same air. Which piece grew mould first?",
+       "opts": [
+        "the damp piece on the shelf",
+        "the dry, crisp piece",
+        "the damp piece in the fridge"
+       ],
+       "a": 0,
+       "how": "e1"
+      },
+      {
+       "t": "mcq",
+       "p": "Why did the dry, crisp piece of roti stay clean?",
+       "opts": [
+        "microbes need water to grow",
+        "no spores landed on it",
+        "mould only grows in the dark"
+       ],
+       "a": 0,
+       "how": "e1"
+      },
+      {
+       "t": "fill",
+       "p": "Most microbes grow fastest when it is warm and ____.",
+       "a": [
+        "damp",
+        "wet",
+        "moist"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The thin threads a mould grows into food are called ____.",
+       "a": [
+        "hyphae"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Meenakshi keeps a damp roti in the fridge. It grows mould after two weeks, not after three days. Why did the fridge slow the mould down but not stop it?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Louis Pasteur boiled broth in a flask with a long bent neck. The broth stayed clear until he broke the neck off. What did this show about where microbes come from?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Keeping food: which need does it take away?",
+   "day": 7,
+   "sections": [
+    [
+     "A. Ways of keeping food",
+     [
+      {
+       "t": "match",
+       "p": "Match each way of keeping food to how it stops microbes.",
+       "pairs": [
+        [
+         "drying vadam in the sun",
+         "takes away water"
+        ],
+        [
+         "covering mango pieces in salt",
+         "pulls water out of the food and the microbes"
+        ],
+        [
+         "keeping milk in the fridge",
+         "makes it too cold for microbes to grow fast"
+        ],
+        [
+         "boiling milk",
+         "kills most of the microbes"
+        ],
+        [
+         "sealing food in a tin and heating it",
+         "kills microbes and keeps new ones out"
+        ],
+        [
+         "setting curd",
+         "fills the milk with acid that most spoilers cannot grow in"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Is the food made with the help of microbes, or kept safe from microbes?",
+       "items": [
+        "idli batter",
+        "papad",
+        "curd",
+        "honey",
+        "dhokla",
+        "dried red chillies",
+        "bread",
+        "jaggery"
+       ],
+       "cats": [
+        "made with the help of microbes",
+        "kept safe from microbes"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why does honey in a closed jar stay good for years?",
+       "opts": [
+        "it has so much sugar and so little water that microbes cannot grow",
+        "it is kept in the dark",
+        "bees put a medicine in it"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Nila cuts an apple. In 20 minutes the cut side is brown. What is happening?",
+       "opts": [
+        "a chemical in the apple is reacting with oxygen in the air, and no microbes are involved",
+        "mould is growing on the apple",
+        "bacteria from the knife are eating it"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Doubling",
+     [
+      {
+       "t": "fill",
+       "p": "A bacterium splits into two every 20 minutes. If you start with one, after one hour there are ____.",
+       "a": [
+        "8",
+        "eight"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi adds a spoon of curd to warm milk. For hours it looks like milk, then it sets quickly near the end. Why?",
+       "opts": [
+        "the bacteria keep doubling, so most of the new bacteria come near the end",
+        "the bacteria sleep for the first few hours",
+        "the milk only turns sour when it gets cold"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Fathima's family in Kochi salts fish and dries it on the beach in the hot sun. Why does the dried fish keep for months, when fresh fish goes bad in a day?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Divya wants to keep leftover sambar for tomorrow's lunch. Write three things she should do, and say why each one helps.",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Think like a microbe scientist",
+   "day": 8,
+   "sections": [
+    [
+     "A. Puzzles and people",
+     [
+      {
+       "t": "mcq",
+       "p": "Félix Pouchet boiled broth made with hay, and microbes still grew in it. What did scientists later find was the most likely reason?",
+       "opts": [
+        "hay carries bacterial spores that can survive boiling",
+        "microbes form out of hay by themselves",
+        "his flask had no air in it"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Fanny Hesse suggested agar instead of gelatin for growing bacteria. Why was agar better?",
+       "opts": [
+        "agar stays firm when warm, and few bacteria can eat it",
+        "agar tastes sweet",
+        "gelatin cost too much"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each person to what they did.",
+       "pairs": [
+        [
+         "Antonie van Leeuwenhoek",
+         "first saw bacteria, with lenses he made himself"
+        ],
+        [
+         "Robert Hooke",
+         "checked Leeuwenhoek's claim and saw the tiny beings too"
+        ],
+        [
+         "Louis Pasteur",
+         "showed with swan-neck flasks that microbes come from other microbes"
+        ],
+        [
+         "Fanny Hesse",
+         "suggested agar for growing bacteria"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Is this settled, or are scientists still arguing about it?",
+       "items": [
+        "microbes come from other microbes",
+        "yeast make carbon dioxide gas",
+        "probiotic capsules help healthy people",
+        "viruses are alive",
+        "drying food stops mould from growing"
+       ],
+       "cats": [
+        "settled",
+        "still argued about"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Arjun's soap bottle says it kills 99.9% of germs. He says it must be much better than ordinary soap. What does the evidence say?",
+       "opts": [
+        "for everyday hand-washing, ordinary soap and water work about as well",
+        "antibacterial soap is always far better",
+        "soap does not remove germs at all"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Using microbes to change food on purpose, as in curd and idli batter, is called ____.",
+       "a": [
+        "fermentation"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Explain and design",
+     [
+      {
+       "t": "write",
+       "p": "Design a fair test: does idli batter rise more in a warm place or in the fridge? Say what you will change, what you will keep the same, and what you will measure.",
+       "lines": 5
+      },
+      {
+       "t": "write",
+       "p": "To a mould, an old orange is food, not spoiled. Do you agree that 'spoiled' means 'spoiled for us'? Give a reason.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "If all the microbes on Earth disappeared tomorrow, what would go wrong? Think about curd, dead leaves and your own gut.",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The four-box roti test",
+   "day": 1,
+   "question": "What do moulds and other microbes need to grow on food?",
+   "need": [
+    "one plain chapati made without ghee (homemade works better than shop bread, which often has preservatives)",
+    "4 small steel boxes with lids, or 4 zip bags",
+    "a teaspoon, water and salt",
+    "a marker",
+    "space on a shelf and in the fridge"
+   ],
+   "steps": [
+    "Tear the chapati into four equal pieces and label the boxes A, B, C and D.",
+    "A: sprinkle one teaspoon of water on the piece.",
+    "B: heat the piece on a dry tawa until it is crisp and dry, then let it cool.",
+    "C: sprinkle one teaspoon of water on the piece. This one will go in the fridge.",
+    "D: sprinkle one teaspoon of water, then cover the piece thickly with salt on both sides.",
+    "Leave all four open on the kitchen counter for one hour, so the same air and the same spores touch each one. Then close the boxes.",
+    "Put A, B and D together on a shelf. Put C in the fridge.",
+    "Look every day through the closed box, and draw each piece with the date. Never open the boxes."
+   ],
+   "setup": [
+    {
+     "art": "Four steel boxes labelled A, B, C and D, each holding a quarter of a chapati, one piece covered in salt.",
+     "caption": "1. Four pieces: damp, dry, damp for the fridge, damp under salt."
+    },
+    {
+     "art": "Three closed boxes on a kitchen shelf and one closed box inside a fridge.",
+     "caption": "2. A, B and D on the shelf, C in the fridge."
+    },
+    {
+     "art": "A closed box with a piece of chapati showing white fuzz and black dots, seen through a magnifying glass.",
+     "caption": "3. Look each day without opening the box."
+    }
+   ],
+   "predict": "Ask your child to guess first: 'Which piece will grow mould first? Which one never will? Why?'",
+   "observe": "Usually the damp piece on the shelf (A) grows white fuzz in 3 to 6 days, which later shows green, black or blue dots. It is faster in the monsoon and slower in a cold winter. The dry piece (B) stays clean. The fridge piece (C) grows little or nothing in a week. The salted piece (D) grows little or nothing. If nothing grows at all after a week, the room may be very dry or cold: add another teaspoon of water to A and wait a few more days.",
+   "why": "Mould spores float in the air of every room, so all four pieces got spores in the same hour. A spore grows only where there is water, food and warmth. Piece A had all three. Piece B had no water. Piece C was too cold for the mould to grow fast. Cold slows microbes but does not kill them. In piece D, the salt pulled the water out of the roti and out of the spores, so they could not grow. Changing one thing at a time and keeping the rest the same makes it a fair test.",
+   "safety": "Never open or sniff the boxes, because mould spores can make some people ill, especially people with asthma. At the end, throw the boxes or bags away closed, or wash them in hot soapy water.",
+   "time": "20 min to set up, plus 2 min each day for 5 to 7 days"
+  },
+  {
+   "id": "e2",
+   "title": "Yeast blows up a balloon",
+   "day": 4,
+   "question": "What do yeast need to grow and make gas?",
+   "need": [
+    "3 teaspoons of dry yeast (sold in grocery shops as instant or active dry yeast)",
+    "2 teaspoons of sugar",
+    "warm water, about as warm as a bath",
+    "cold water from the fridge",
+    "3 small plastic bottles of the same size",
+    "3 balloons",
+    "a measuring cup and a funnel or a rolled paper cone"
+   ],
+   "steps": [
+    "Stretch each balloon a few times so they blow up easily.",
+    "Bottle 1: one teaspoon of yeast, one teaspoon of sugar and half a cup of warm water.",
+    "Bottle 2: one teaspoon of yeast and half a cup of warm water, with no sugar.",
+    "Bottle 3: one teaspoon of yeast, one teaspoon of sugar and half a cup of cold water.",
+    "Swirl each bottle and quickly stretch a balloon over its mouth.",
+    "Stand the bottles side by side and check them every 5 minutes for 20 minutes."
+   ],
+   "setup": [
+    {
+     "art": "Three small plastic bottles labelled 1, 2 and 3, with spoons of yeast and sugar beside them.",
+     "caption": "1. Same yeast in each bottle. Change only the sugar or the warmth."
+    },
+    {
+     "art": "Three bottles with balloons on top: the first balloon is upright and full, the second is limp, the third is a little puffed.",
+     "caption": "2. After 20 minutes, compare the balloons."
+    }
+   ],
+   "predict": "Ask: 'Which balloon will blow up most? Will the one with no sugar blow up at all?'",
+   "observe": "Bottle 1 foams and the balloon stands up and fills in 15 to 30 minutes. Bottle 2 makes little or no gas. Bottle 3 starts slowly and fills a little. If you have no yeast, use three glasses of fresh idli or dosa batter instead: mark the level with tape, put one somewhere warm and one in the fridge, and compare the next morning.",
+   "why": "Yeast are single-celled fungi. They take in sugar and break it down for energy, and they give out carbon dioxide gas and a little alcohol. The gas fills the balloon. With no sugar they have no food, so they make almost no gas. In cold water they grow and feed slowly. Bread and bhatura dough puff up from the same gas. In idli and dosa batter, bacteria and yeasts that were already on the rice and dal make the gas that makes the batter rise.",
+   "safety": "Use warm water, not hot. Water too hot to touch kills yeast and can scald. Do not drink the mixture.",
+   "time": "20 min"
+  },
+  {
+   "id": "e3",
+   "title": "The curd test",
+   "day": 3,
+   "question": "What turns milk into curd: bacteria, warmth, or both?",
+   "need": [
+    "two cups of milk",
+    "three clean steel bowls with lids",
+    "one teaspoon of curd",
+    "a towel or a warm closed cupboard",
+    "space in the fridge"
+   ],
+   "steps": [
+    "An adult boils the milk and lets it cool until a clean finger can stay in it comfortably.",
+    "Pour the milk equally into the three bowls.",
+    "Bowl A: stir in half a teaspoon of curd. Cover it and keep it warm in a closed cupboard or wrapped in a towel.",
+    "Bowl B: stir in half a teaspoon of curd. Cover it and put it straight in the fridge.",
+    "Bowl C: add nothing. Cover it and keep it next to bowl A.",
+    "Leave them for 8 to 10 hours, or overnight. Then tip each bowl gently and smell it."
+   ],
+   "setup": [
+    {
+     "art": "Three steel bowls of milk labelled A, B and C, with a small spoon of curd going into A and B.",
+     "caption": "1. Curd goes into A and B, nothing into C."
+    },
+    {
+     "art": "Bowl A wrapped in a towel on a shelf, bowl C beside it, bowl B on a fridge shelf.",
+     "caption": "2. A and C stay warm. B goes in the fridge."
+    }
+   ],
+   "predict": "Ask: 'Which bowl will be curd in the morning? Why do you think so?'",
+   "observe": "Bowl A sets thick and smells pleasantly sour. Bowl B is still runny milk, perhaps a little thicker. Bowl C is still milk. In very cold weather, bowl A may need a few more hours.",
+   "why": "The spoon of curd carries lactic acid bacteria. In warm milk they feed on the milk sugar, called lactose, and double again and again. They make lactic acid, which makes the milk proteins clump together, so the milk turns thick and sour. In the fridge the bacteria grow very slowly, so bowl B hardly changes. Bowl C had almost no bacteria, because boiling killed most of them, so nothing happened overnight. The sour acid of curd also stops most spoiling microbes from growing, so curd keeps longer than milk.",
+   "safety": "An adult boils the milk. Eat bowl A only if it smells like normal curd. Do not eat bowl C if it has been left out longer than overnight: pour it away.",
+   "time": "15 min in the evening, plus 10 min the next day"
+  },
+  {
+   "id": "e4",
+   "title": "Salt pulls water out of a cucumber",
+   "day": 5,
+   "question": "How does salt stop microbes from growing on food?",
+   "need": [
+    "a cucumber",
+    "a knife for the adult",
+    "two plates",
+    "half a teaspoon of salt"
+   ],
+   "steps": [
+    "An adult cuts ten thin slices of cucumber.",
+    "Put five slices on one plate and five on the other.",
+    "Sprinkle the salt over the slices on one plate only.",
+    "Wait 15 minutes. Then look at both plates, and bend a slice from each."
+   ],
+   "setup": [
+    {
+     "art": "Two plates of cucumber slices, one being sprinkled with salt.",
+     "caption": "1. Salt on one plate only."
+    },
+    {
+     "art": "The salted plate with drops of water around soft, bent slices, next to the plate of firm, dry slices.",
+     "caption": "2. After 15 minutes, look for water on the plates."
+    }
+   ],
+   "predict": "Ask: 'What will the salt do to the cucumber slices?'",
+   "observe": "Drops of water collect on the salted plate, and the salted slices go soft and bend easily. The plain slices stay firm and dry.",
+   "why": "Water moves out of the cucumber's cells towards the salty side, where there is less water and more salt. This is called osmosis. A microbe on salted food loses water in the same way, so they cannot grow. Thick sugar syrup does the same, which is why murabba, jam and honey keep for a long time. This is why pickles use so much salt.",
+   "safety": "An adult uses the knife. The slices are fine to eat.",
+   "time": "15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "A water-drop lens",
+   "day": 1,
+   "mins": 5,
+   "need": [
+    "a piece of clear plastic from packaging",
+    "water",
+    "a newspaper"
+   ],
+   "steps": [
+    "Put one small, round drop of water on the plastic.",
+    "Hold the plastic a little above a line of newspaper print.",
+    "Compare the letters under the drop with the letters beside it.",
+    "Try a bigger and a smaller drop."
+   ],
+   "setup": [
+    {
+     "art": "A small water drop on clear plastic held above newspaper print, the letters under it looking larger.",
+     "caption": "A curved drop of water makes letters look bigger."
+    }
+   ],
+   "outcome": "Your child sees that a curved drop bends light like a lens, and why Leeuwenhoek's tiny glass lenses could show things too small for our eyes."
+  },
+  {
+   "id": "a2",
+   "title": "Doubling with rice grains",
+   "day": 2,
+   "mins": 15,
+   "need": [
+    "a small bowl of raw rice",
+    "a plate",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Draw a table with two columns: 'time' and 'number of bacteria'.",
+    "Put one rice grain on the plate for 0 minutes.",
+    "For each 20 minutes, double the grains: 2, 4, 8, 16 and so on, and write each number in the table.",
+    "Stop at 3 hours, which is 512 grains.",
+    "Ask: how many would there be at 4 hours? (4,096) At 5 hours? (32,768)",
+    "Ask: in which 20 minutes did the most new grains arrive?"
+   ],
+   "setup": [
+    {
+     "art": "A plate with small heaps of rice grains growing 1, 2, 4, 8, 16 beside a hand-drawn table.",
+     "caption": "Double the grains every 20 minutes."
+    }
+   ],
+   "outcome": "A doubling table, and the idea that numbers that double grow slowly at first and then very fast, which is why food can look fine for hours and then spoil quickly."
+  },
+  {
+   "id": "a3",
+   "title": "Dance: divide, slow down, freeze",
+   "day": 2,
+   "mins": 8,
+   "need": [
+    "music",
+    "20 paper circles or scraps"
+   ],
+   "steps": [
+    "Your child is a bacterium. Play music.",
+    "Call 'Warm and wet!': your child dances, then claps and steps sideways, leaving a paper circle behind as the new bacterium.",
+    "Call 'Fridge!': move in slow motion and do not split.",
+    "Call 'Salt!': freeze and curl up small.",
+    "Call 'Boiling!': fall to the floor.",
+    "At the end, count the paper circles."
+   ],
+   "outcome": "Your child feels in their body how warmth and water speed microbes up, cold slows them, salt stops them and heat kills them."
+  },
+  {
+   "id": "a4",
+   "title": "The brown apple: spoiled or not?",
+   "day": 3,
+   "mins": 10,
+   "need": [
+    "an apple",
+    "half a lemon",
+    "a knife for the adult",
+    "a plate"
+   ],
+   "steps": [
+    "An adult cuts the apple into four slices.",
+    "Rub lemon juice on two of the slices.",
+    "Leave all four on the plate for about 20 minutes.",
+    "Compare the colour of the plain and the lemon slices."
+   ],
+   "setup": [
+    {
+     "art": "Four apple slices on a plate: two brown, two still pale with lemon juice on them.",
+     "caption": "Plain slices brown, lemon slices stay pale."
+    }
+   ],
+   "outcome": "Your child learns that browning is a chemical change with oxygen in the air, not spoiling, and that not every change in food is caused by microbes."
+  },
+  {
+   "id": "a5",
+   "title": "Kitchen hunt: made by microbes, or kept from microbes?",
+   "day": 5,
+   "mins": 15,
+   "need": [
+    "foods from the kitchen shelves and fridge",
+    "two sheets of paper labelled 'made with the help of microbes' and 'kept safe from microbes'"
+   ],
+   "steps": [
+    "Put the two labelled sheets on the floor or table.",
+    "Your child finds at least ten foods and puts each one on a sheet.",
+    "For each food made with microbes, your child names the microbe if they can: bacteria in curd, yeast in bread.",
+    "For each food kept safe, your child says which need is taken away: water, warmth or air, or the food is made too salty, sweet or sour."
+   ],
+   "outcome": "A sorted kitchen and a list your child can use in the food-keeping book."
+  }
+ ],
+ "project": {
+  "title": "Our family's food-keeping book",
+  "days": [
+   7,
+   8
+  ],
+  "steps": [
+   "Interview a grandparent or an older neighbour about how they kept food before they had a fridge.",
+   "Write down at least five ways, with the food, the place and the season.",
+   "Make one page for each way: a drawing, the name of the food, and one line saying which need of microbes it takes away.",
+   "Add one page for a food your family makes with microbes, such as curd or idli.",
+   "Add a last page of three safe storage rules for your kitchen.",
+   "Tie or staple the pages into a book and show it to the person you interviewed."
+  ],
+  "outcome": "A small book of your family's own ways of keeping food, each one explained with what microbes need."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Stop the Spoilers",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards, cut out"
+  ],
+  "rules": [
+   "Lay the seven category cards face up in a row.",
+   "Shuffle the food cards and put them face down in a pile.",
+   "On your turn, pick up a food card and read it aloud.",
+   "Put it under the category that explains what happens to microbes on that food. Some foods fit two categories: you may name both.",
+   "Say which need of microbes is taken away, or why microbes can grow.",
+   "Turn the card over to check. If you were right, keep it. If not, put it at the bottom of the pile.",
+   "When the pile is empty, the player with the most cards wins."
+  ],
+  "cards": [
+   {
+    "job": true,
+    "front": "DRY: no water for microbes"
+   },
+   {
+    "job": true,
+    "front": "SALT, SUGAR OR OIL"
+   },
+   {
+    "job": true,
+    "front": "SOUR"
+   },
+   {
+    "job": true,
+    "front": "COLD"
+   },
+   {
+    "job": true,
+    "front": "HOT: heated to kill microbes"
+   },
+   {
+    "job": true,
+    "front": "SEALED: no air or new microbes"
+   },
+   {
+    "job": true,
+    "front": "SPOILS: microbes can grow"
+   },
+   {
+    "front": "Vadam drying on a terrace in the April sun",
+    "back": "DRY. Without water, microbes cannot grow."
+   },
+   {
+    "front": "Karuvadu: fish salted and dried on a beach in Tamil Nadu",
+    "back": "SALT and DRY. Salt pulls water out, and the sun dries the rest."
+   },
+   {
+    "front": "Avakaya: raw mango pieces in salt, chilli, mustard and oil",
+    "back": "SALT, SUGAR OR OIL. Salt pulls water out, and the oil keeps air away."
+   },
+   {
+    "front": "A milk packet in the fridge",
+    "back": "COLD. Microbes grow very slowly, so it keeps for a few days."
+   },
+   {
+    "front": "Milk boiled, covered and cooled",
+    "back": "HOT. Boiling kills most microbes."
+   },
+   {
+    "front": "Cooked rice left on the kitchen counter overnight in May",
+    "back": "SPOILS. It is warm, wet and full of food. Put leftovers in the fridge within two hours."
+   },
+   {
+    "front": "Curd in a covered bowl",
+    "back": "SOUR. The acid the curd bacteria make stops most spoilers. It still keeps best in the fridge."
+   },
+   {
+    "front": "Honey in a closed jar",
+    "back": "SALT, SUGAR OR OIL. So much sugar and so little water that microbes cannot grow."
+   },
+   {
+    "front": "Amla murabba in thick sugar syrup",
+    "back": "SALT, SUGAR OR OIL. The sugar pulls water out of microbes."
+   },
+   {
+    "front": "Gundruk: leafy greens fermented, then dried, in Sikkim",
+    "back": "SOUR and DRY."
+   },
+   {
+    "front": "A sealed tin of food from a factory",
+    "back": "SEALED and HOT. It was heated after sealing, so no air or new microbes get in."
+   },
+   {
+    "front": "Ghee in a dry jar",
+    "back": "DRY. Cooking the butter boiled away almost all the water."
+   },
+   {
+    "front": "Green peas in the freezer",
+    "back": "COLD. Too cold for microbes to grow, though most are not killed."
+   },
+   {
+    "front": "A wet spoon dipped into the pickle jar",
+    "back": "SPOILS. The water lets moulds grow. Always use a dry spoon."
+   },
+   {
+    "front": "Lemon pickle in salt in a glass jar",
+    "back": "SALT and SOUR."
+   },
+   {
+    "front": "Sambar left in a closed vessel on the stove all day in summer",
+    "back": "SPOILS. Closing the lid does not stop microbes that are already inside. Cool it and put it in the fridge."
+   },
+   {
+    "front": "Papad in a tin with a tight lid",
+    "back": "DRY and SEALED."
+   },
+   {
+    "front": "Raisins in a box",
+    "back": "DRY, with a lot of sugar too."
+   },
+   {
+    "front": "Kanji: black carrots in salty water, left in the winter sun",
+    "back": "SOUR. Bacteria make it sour on purpose, and the salt helps."
+   },
+   {
+    "front": "Cut papaya left uncovered on a plate",
+    "back": "SPOILS. It is wet and sweet, and flies can bring germs."
+   },
+   {
+    "front": "A block of jaggery in a dry tin",
+    "back": "SALT, SUGAR OR OIL. Mostly sugar, with very little water."
+   },
+   {
+    "front": "A slice of bread with a green fuzzy spot",
+    "back": "SPOILS. Mould threads spread inside soft food. Throw the whole slice away."
+   },
+   {
+    "front": "Groundnuts kept in a damp bag in the monsoon",
+    "back": "SPOILS. Some moulds on groundnuts make poisons. Throw mouldy nuts away."
+   }
+  ]
+ },
+ "big": [
+  "To a mould, an old orange is dinner and a home for their spores. To us it is spoiled. Who decides what 'spoiled' means?",
+  "About as many bacteria live in and on you as there are cells of your own. Are they part of you, or guests?",
+  "If we could kill every microbe on Earth, should we? What would happen to dead leaves, to curd and to us?",
+  "Curd is made by bacteria. When we set curd, are we cooking, or are we looking after living beings?",
+  "Leeuwenhoek sold cloth and Fanny Hesse made puddings. Who gets to be called a scientist?"
+ ],
+ "challenge": [
+  {
+   "q": "Food goes bad by itself as it gets old.",
+   "hint": "Pasteur's swan-neck flasks showed that boiled broth stays fresh for a long time if microbes from the air cannot reach it. Food goes bad because microbes grow on it. Ask: if food rotted by itself, why did the dry roti stay clean?"
+  },
+  {
+   "q": "If you cut off the mouldy spot, the rest of the bread is safe.",
+   "hint": "Mould threads, called hyphae, spread into soft food far beyond the spot you can see, and some moulds make poisons. Food-safety advice is to throw away soft foods like bread, cooked rice and fruit with mould on them. Ask: why might a hard block of cheese be different from soft bread?"
+  },
+  {
+   "q": "The fridge kills germs.",
+   "hint": "A fridge slows most microbes down a lot, but does not kill them. A few harmful bacteria can even grow slowly in the cold. That is why fridge food still goes bad in time. Ask: how could you test whether the microbes on fridge food are dead or only slow?"
+  },
+  {
+   "q": "Soap that kills 99.9% of germs is much better than ordinary soap.",
+   "hint": "In 2016 the US food and medicine authority, the FDA, said makers of antibacterial hand soaps had not shown they work better than ordinary soap and water for everyday washing, and banned some of their chemicals. Ordinary soap lifts germs off your hands, and the water washes them away. Ask: who gains when people believe they need a special soap?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A mould on an old orange",
+   "view": "To the mould, the orange is not spoiled. It is food, and a place to grow spores so their children can float away to new homes. Ask: is the word 'spoiled' about the orange, or about us?"
+  },
+  {
+   "who": "A grandmother in Guntur making avakaya",
+   "view": "Every summer she cuts raw mangoes, wipes every piece dry with a cloth and mixes them with mustard powder, chilli powder, salt and gingelly oil in a dry jar. Nobody may touch it with a wet spoon. Her rules work, though she learned them from her mother, not from a microscope. Ask: how do you think people found these rules before anyone had seen a microbe?"
+  },
+  {
+   "who": "A family in Sikkim making gundruk",
+   "view": "In autumn they let mustard and radish leaves wilt, press them tightly into a jar, and leave them to ferment for a week or two. Then they dry the leaves in the sun. Gundruk keeps for months, through the winter when little grows. Ask: which two ways of keeping food does gundruk use?"
+  },
+  {
+   "who": "Tiny sea microbes called cyanobacteria",
+   "view": "Cyanobacteria and other tiny beings floating in the sea make about half of the oxygen made on Earth each year. Billions of years ago, cyanobacteria were the first to fill the air with oxygen at all. Ask: if microbes made the air we breathe, are they really 'lesser' living beings than us?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Antonie van Leeuwenhoek (1632–1723), a cloth seller in Delft, the Netherlands, and Robert Hooke (1635–1703), England",
+   "idea": "Leeuwenhoek had no university training and could not read Latin, the language of scientists then. He made tiny single lenses of glass, mounted in small metal plates, and his best surviving lens makes things look about 270 times bigger. In a letter of 1676 to the Royal Society in London he described tiny swimming beings in water in which he had soaked pepper. He called them 'little animals'. In 1683 he described even smaller ones in the white stuff he scraped from his teeth. Those were bacteria.",
+   "then": "The members of the Royal Society doubted him, because nobody else had seen such things. In 1677 Robert Hooke made a microscope good enough and saw the tiny beings too. After that they believed Leeuwenhoek, and in 1680 they made him a member.",
+   "now": "He is often called the father of microbiology. He kept his way of making lenses secret, so for many years nobody could make lenses as good as his.",
+   "status": "accepted",
+   "ask": "Leeuwenhoek was a shopkeeper, not a professor. The experts believed him only when one of them saw the same thing. Was that fair, or was it sensible? What would you need to see before believing a new claim?",
+   "day": 1
+  },
+  {
+   "id": "v2",
+   "who": "Louis Pasteur (1822–1895) and Félix Pouchet (1800–1872), France",
+   "idea": "Many people, including the naturalist Félix Pouchet, believed that microbes in spoiled broth formed by themselves out of the broth. This idea was called spontaneous generation. Around 1859 to 1862, Pasteur boiled broth in flasks whose necks he had heated and bent into a long S shape, like a swan's neck. Air could reach the broth, but dust and microbes from the air got trapped in the low bend. The broth stayed clear. When he broke the neck off, or tipped the flask so the broth touched the bend, it went cloudy with microbes in a few days.",
+   "then": "Pouchet did his own tests with broth made from hay, and microbes grew even after boiling. The French Academy of Sciences sided with Pasteur. In the 1870s other scientists, including John Tyndall and Ferdinand Cohn, found that hay carries tough bacterial spores that can survive boiling. That explains Pouchet's results.",
+   "now": "It is settled that microbes come only from other microbes. Pasteur asked his family to keep his lab notebooks private. Long after his death they were given to a library in Paris. In 1995 the historian Gerald Geison wrote that the notebooks show Pasteur sometimes left out results that did not fit, and that in a famous public test of his anthrax vaccine in 1881 he used a method close to a rival's, Jean-Joseph Henri Toussaint, without saying so.",
+   "status": "accepted",
+   "ask": "Pouchet's hay broth went cloudy even after boiling. Was he wrong, or was something hiding in his hay? How could you test which it was?",
+   "day": 3
+  },
+  {
+   "id": "v3",
+   "who": "Fanny Hesse (1850–1934), born in New York, who worked in Germany with her husband Walther Hesse",
+   "idea": "In 1881 Walther Hesse worked with Robert Koch, who was trying to grow one kind of bacteria at a time. They grew bacteria on gelatin, but gelatin melts on warm days and some bacteria digest it. Fanny, who drew the pictures for Walther's research and helped in his lab, suggested agar instead. Agar is a jelly made from red seaweed, which she used to set fruit jellies and puddings. She had learned about it from a neighbour who had lived in Java, now part of Indonesia, where cooks used it. Agar stays firm even at body temperature, and few bacteria can eat it.",
+   "then": "Koch's lab began to use agar, and Koch mentioned agar in his famous paper on the tuberculosis germ in 1882 without naming her. Her part was known mainly through her family.",
+   "now": "Agar plates are still used in labs all over the world to grow and study microbes. Fanny Hesse is now named in many histories of microbiology. In India agar is sold as 'China grass' and used for desserts.",
+   "status": "accepted",
+   "ask": "Fanny Hesse's idea came from her kitchen, not from a science book. Whose knowledge counts as science? Why do you think her name was left out?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "Eran Elinav, Eran Segal and colleagues, Weizmann Institute of Science, Israel (2018), and the debate about probiotics",
+   "idea": "Probiotics are live microbes sold in drinks, capsules and some yoghurts, said to improve the gut. In a small study, the team gave people a mix of probiotic bacteria and took samples from inside their guts, not only from their stool. In some people the probiotic bacteria settled in. In others the person's own gut microbes pushed them out. In a second test, after a course of antibiotics, people who took probiotics took longer to get their own gut microbes back than people who took none.",
+   "then": "Many people had assumed probiotics help almost everyone. Other scientists had long said the evidence for healthy people was weak.",
+   "now": "Scientists agree that some probiotics help in some cases, such as some kinds of diarrhoea. Whether they help healthy people is still argued about, and each person's gut may react differently. Curd has been part of Indian meals for a very long time. Whether its bacteria stay in the gut is a separate question that scientists are still studying.",
+   "status": "debated",
+   "ask": "The study was small, and from one country. What would you want to know before believing a label that says 'good for your gut'?",
+   "day": 7
+  }
+ ],
+ "books": [
+  {
+   "title": "Tiny Creatures: The World of Microbes",
+   "author": "Nicola Davies, illustrated by Emily Sutton",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A clear, beautiful picture book about how many microbes there are, how fast they multiply and the work they do, from rotting leaves to making yoghurt."
+  },
+  {
+   "title": "Do Not Lick This Book",
+   "author": "Idan Ben-Barak, illustrated by Julian Frost",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A funny book that sends a microbe on a trip from the page to your fingers, teeth and belly button, with real microscope photographs."
+  },
+  {
+   "title": "I Contain Multitudes",
+   "author": "Ed Yong",
+   "for": "parent reads",
+   "age": "adult, read short passages aloud",
+   "why": "A warm, accurate book about the microbes that live in and on animals, including us, by a science journalist."
+  },
+  {
+   "title": "Microbe Hunters",
+   "author": "Paul de Kruif",
+   "for": "parent reads",
+   "age": "adult, read the Leeuwenhoek chapter aloud",
+   "why": "An old classic from 1926 with lively chapters on Leeuwenhoek and Pasteur. It is dramatic and leaves out many people, so read it with the question: who is missing?"
+  }
+ ],
+ "check": [
+  {
+   "q": "What is a microbe? Name three kinds.",
+   "a": "A living being too small to see without a microscope. Bacteria, fungi such as yeast and moulds, algae and protozoa are microbes."
+  },
+  {
+   "q": "What did the roti test show?",
+   "a": "All four pieces sat in the same air, but only the damp piece on the shelf grew mould quickly. The dry piece had no water, the salted piece lost its water to the salt, and the fridge piece was too cold for the mould to grow fast. So microbes need water, warmth and food."
+  },
+  {
+   "q": "How does a bacterium multiply, and why can food spoil so quickly?",
+   "a": "A bacterium grows and splits into two. In good conditions some split every 20 minutes, so one becomes 512 in 3 hours. The numbers double again and again, so most of the growth happens near the end."
+  },
+  {
+   "q": "How does salt keep food from spoiling?",
+   "a": "Salt pulls water out of the food and out of the microbes by osmosis, as it did with the cucumber slices, so the microbes cannot grow."
+  },
+  {
+   "q": "How is curd made?",
+   "a": "Lactic acid bacteria from a spoon of curd feed on the milk sugar in warm milk and make lactic acid. The acid makes the milk proteins clump, so the milk turns thick and sour. This is fermentation."
+  },
+  {
+   "q": "Does the fridge kill microbes? Does boiling?",
+   "a": "The fridge only slows them down. Boiling kills most of them, though a few bacterial spores can survive."
+  },
+  {
+   "q": "What did Pasteur's swan-neck flasks show?",
+   "a": "Boiled broth stayed clear while microbes from the air were trapped in the bend, and went cloudy when the neck was broken. So microbes come from other microbes, not out of the broth by itself."
+  },
+  {
+   "q": "Why is agar used to grow bacteria, and who suggested it?",
+   "a": "Agar stays firm when warm and few bacteria can eat it. Fanny Hesse suggested it from her cooking in 1881, but Koch's lab got the credit for years."
+  }
+ ],
+ "story": {
+  "title": "The Batter That Would Not Rise",
+  "text": [
+   "The first winter in Delhi, my fingers forgot how to bend in the mornings. In Madurai I had never owned a sweater. Here I wore two, and Appa wore a monkey cap pulled down to his eyebrows, and the steel tumblers in our kitchen were so cold they hurt to hold.",
+   "Amma is a nurse. That month she was on night duty at the hospital, and her birthday was on a Sunday. Appa and I decided to surprise her with idli, soft and white, the way Paati makes them at home. Appa had never made idli in his life. I had watched Paati a hundred times, so I was in charge.",
+   "On Friday evening I phoned Paati and wrote down everything. Four cups of rice, one cup of urad dal, soak them separately for five hours. Grind the dal until it is fluffy, then the rice a little coarse. Mix, add salt, cover, and leave it overnight. 'In the morning it will have risen to the top of the vessel,' Paati said. 'Mix it with your hand, kanna. The hand helps.'",
+   "We soaked. We ground. Appa held the mixie lid down while I poured water in a thin stream. I mixed the batter with my hand, all the way to the elbow, the way Paati does. We covered the big steel vessel with a plate and went to bed feeling very clever.",
+   "On Saturday morning the batter was exactly where we had left it. Flat. Pale. It smelled of nothing but wet dal.",
+   "'The dal is old,' said Appa. 'The shop here sold us old dal.' He looked at the packet. It was not old.",
+   "I phoned Paati. 'Did you mix it with your hand?' she asked. I had. 'Then leave it one more day,' she said. 'Sometimes the batter is stubborn.'",
+   "We left it one more day. On Saturday night it had risen a tiny bit, maybe the thickness of my little finger, and there were a few small bubbles on top, like the batter was thinking about it. Amma's birthday was the next morning. Appa started reading about instant idli mix on his phone.",
+   "That afternoon I went up to the terrace to get the clothes in before the sun went. Mrs Kaur from the third floor was there, as she was every afternoon. She had three tall glass jars standing in the last patch of sunlight, full of purple-black water with black carrots floating in it.",
+   "'Kanji,' she said, when she saw me looking. 'Black carrots, mustard seeds, salt and water. You leave it in the sun for four or five days, and it goes sour and fizzy. In winter it must have the sun. In the shade it sits there and does nothing, like a sleepy cat.' She laughed and picked up a jar to move it into the light. 'Sun cooks it slowly.'",
+   "I stood with Appa's damp shirt over my arm and thought about our kitchen in Madurai. It was always warm there, even at night. The batter vessel sat on the floor near the wall, and the floor was warm too. Here our kitchen floor was like a slab of ice. I had put the batter on that floor two nights in a row.",
+   "Paati's batter did not rise because of her hand. It rose because it was full of something alive. Tiny living things, too small to see, that ate the rice and dal and breathed out bubbles. Mrs Kaur's kanji was full of them too. And in the cold they did what I did in the cold. They curled up and hardly moved.",
+   "I ran downstairs. 'Appa! The batter isn't stubborn. It's cold!'",
+   "He didn't understand at first, so I explained it the way Mrs Kaur had explained it to me, only with idli. Then he went quiet, and then he went to get the old blanket from the top of the cupboard.",
+   "We carried the vessel up to the terrace and put it next to the kanji jars for the last hour of sun. Mrs Kaur moved one of her jars to make room. When the sun went, we brought it down, filled a steel bottle with hot water, wrapped the bottle and the vessel together in the blanket, and put the whole bundle inside the empty oven with the door shut, where no cold air could reach it. I checked it twice before I slept. The second time, when I lifted the plate, I heard a very tiny sound, like rice crackling, and the top of the batter had small holes all over it.",
+   "In the morning the plate had been pushed up. The batter had climbed right to the rim of the vessel and was pressing against it, pale and full of holes, and it smelled sour and sweet at the same time, exactly like Paati's kitchen at six in the morning.",
+   "Amma came home at eight, tired, with her hair coming out of its clip. The idli plates were already steaming. She sat down at the table in her coat and ate four idlis without saying a word, and then she said, 'Who taught you to make idli in Delhi in January?'",
+   "Appa pointed at me. I pointed at the ceiling, at the third floor. Then I wrapped six idlis and a little bowl of coconut chutney in a cloth and took them upstairs. Mrs Kaur gave me a glass of kanji to carry back. It was cold and sour and fizzy, and I drank it all on the stairs."
+  ],
+  "epiphany": "Idli batter rises because it is full of living microbes, and living beings slow right down in the cold. The turn comes on the terrace, when Mrs Kaur says her kanji must have the sun, and Kavya remembers the warm kitchen floor in Madurai and the icy one in Delhi. Paati's 'the hand helps' is a loving old belief, but the real problem was warmth. Two women from different corners of India, a grandmother on the phone and a neighbour on the terrace, both know how to look after microbes without ever having seen one.",
+  "ask": [
+   "Why did the batter stay flat on the first morning?",
+   "What did Mrs Kaur's kanji have to do with the idli batter?",
+   "What did Kavya change, and what did she keep the same as Paati's recipe?",
+   "Paati said the hand helps. How could you test whether it does?",
+   "Kavya and Mrs Kaur swapped idli for kanji. What else do neighbours share?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Food goes bad because living microbes are eating it.",
+   "more": "The dry roti and the damp roti sat in the same air. Only the damp one grew mould. The spores reached both, but they could only grow where there was water. So every way of keeping food fresh makes it a place where microbes cannot live."
+  },
+  {
+   "idea": "Fermentation is choosing which microbes eat first.",
+   "more": "When we add curd to warm milk, its bacteria grow fast and fill the milk with acid. Most spoiling microbes cannot grow in that acid. Curd, idli batter, kanji and gundruk all use good microbes to keep bad ones out."
+  },
+  {
+   "idea": "You are never alone.",
+   "more": "About as many bacteria live in and on your body as there are cells of your own. Microbes made much of the oxygen in the air, turn dead leaves back into soil and make our curd. Nearly every living thing on Earth depends on them."
+  }
+ ],
+ "unknowns": [
+  "How many kinds of microbes are there? Most have never been named, and most cannot yet be grown in a lab. Estimates range from millions of kinds to far more.",
+  "Are viruses alive? They cannot grow or make copies of themselves without a living cell, and scientists still disagree about what to call them.",
+  "Do probiotic foods and capsules help healthy people? Some studies say yes and some say no, and each person's gut may react differently.",
+  "How much do the microbes in our gut affect our mood and health? Scientists are only beginning to find out."
+ ]
+}

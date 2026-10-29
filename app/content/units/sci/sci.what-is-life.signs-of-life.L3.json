@@ -3,11 +3,11 @@
  "title": "Signs of life: how we tell what is alive",
  "level": 3,
  "summary": {
-  "text": "A dry moong seed does nothing you can see, while a car zooms, drinks petrol and puffs out smoke. Yet the seed is alive and the car is not. Scientists tell living from non-living things with seven signs, called the life processes: nutrition, respiration, growth, movement, sensing, excretion and reproduction. One sign alone is not enough, because a cloud grows and a car moves. Only a living thing does all seven, by itself, over its life. A dry seed is alive but resting, and in this unit you wake some up and compare them with boiled ones.",
+  "text": "A dry moong seed does nothing you can see, while a car zooms, drinks petrol and puffs out smoke. Yet the seed is alive and the car is not. Scientists tell living from non-living things with seven signs, called the life processes: nutrition, respiration, growth, movement, sensing, excretion and reproduction. One sign alone is not enough, because a cloud grows and a car moves. Only living things do all seven, by themselves, over their lives. A dry seed is alive but resting, and in this unit you wake some up and compare them with boiled ones.",
   "art": "A child at a table with a magnifying glass, looking at three things in a row: a green moong seed, a toy car and a fluffy cloud drawn on card, with seven small icons floating above them (a plate, a puff of breath, a sprout, running feet, an ear, a drop leaving a leaf, a mother hen with a chick)."
  },
  "intro": {
-  "hook": "Hold a dry moong seed in your palm. It does not move. It does not eat. It does not seem to breathe. Now push a toy car across the floor. It zooms. Which one is alive?",
+  "hook": "Hold a dry moong seed in your palm. The seed does not move, does not eat and does not seem to breathe. Now push a toy car across the floor. It zooms. Which one is alive?",
   "text": "Most people say the seed is alive. But ask them why, and it gets hard. The car moves, and the seed does not. A real car even drinks petrol, sucks in air and puffs out smoke. So what does a living thing do that a car never can? Scientists have a list of seven things to look for. In this unit you will test every one of them, on a seed, a cloud and a car.",
   "art": "A child's open palm holding one green moong seed, next to a toy car zooming across a tiled floor, with a big question mark between them."
  },
@@ -24,7 +24,7 @@
  "terms": [
   {
    "term": "Living thing",
-   "meaning": "Something that is alive. It feeds, grows, senses, makes young and does the other signs of life.",
+   "meaning": "Something that is alive. Living things feed, grow, sense, make young and do the other signs of life.",
    "example": "You, a neem tree, an ant and a mushroom are all living things.",
    "art": "A row of four friends: a child, a neem tree, an ant and a mushroom, all smiling in the sun."
   },
@@ -42,19 +42,19 @@
   },
   {
    "term": "Life process",
-   "meaning": "One of the seven jobs every living thing does to stay alive and make more of its kind. We also call them the signs of life.",
+   "meaning": "One of the seven jobs every living thing does to stay alive and make more of their kind. We also call them the signs of life.",
    "example": "Eating, breathing and growing are three life processes.",
    "art": "Seven small picture-icons in a circle: a plate, a puff of breath, a sprout, running feet, an ear, a falling drop and a hen with a chick."
   },
   {
    "term": "Nutrition",
-   "meaning": "Getting food. Food gives a living thing energy and the material to build its body. Plants make their own food. Animals eat other living things.",
-   "example": "A cow eats grass. A tulsi plant makes sugar in its leaves using sunlight.",
-   "art": "A cow chewing grass beside a tulsi plant with sun rays on its leaves."
+   "meaning": "Getting food. Food gives living things energy and the material to build their bodies. Plants make their own food. Animals eat other living things.",
+   "example": "A cow eats grass. Tulsi plants make sugar in their leaves using sunlight.",
+   "art": "A cow chewing grass beside a tulsi plant with sun rays on their leaves."
   },
   {
    "term": "Respiration",
-   "meaning": "The way a living thing gets energy out of its food. It happens inside every tiny part of the body, and it usually uses oxygen from the air.",
+   "meaning": "The way living things get energy out of their food. It happens inside every tiny part of the body, and it usually uses oxygen from the air.",
    "example": "When you run, your body does more respiration, so you breathe faster.",
    "art": "A child running, with a zoomed-in circle showing a tiny glowing spark inside the body where food meets air."
   },
@@ -73,13 +73,13 @@
   {
    "term": "Movement",
    "meaning": "Moving the body or a part of it. Animals move from place to place. Plants move slowly, mostly by growing.",
-   "example": "A dog runs. A young sunflower plant turns its top to follow the Sun across the sky.",
+   "example": "A dog runs. Young sunflower plants turn their tops to follow the Sun across the sky.",
    "art": "A running dog next to a young sunflower plant bending towards the Sun."
   },
   {
    "term": "Sensing",
    "meaning": "Noticing what is around you and responding to it. Scientists also call it sensitivity.",
-   "example": "You pull your hand away from a hot pan. A touch-me-not plant folds its leaves when you touch them.",
+   "example": "You pull your hand away from a hot pan. The leaves of a touch-me-not plant fold when you touch them.",
    "art": "A finger touching a touch-me-not leaf, the little leaflets folding shut."
   },
   {
@@ -103,12 +103,12 @@
   {
    "term": "Dormant",
    "meaning": "Alive but resting. A dormant thing does almost nothing until the conditions are right.",
-   "example": "A dry seed is dormant. It wakes up when it gets water.",
-   "art": "A sleeping seed with a tiny nightcap, and a drop of water about to land on it."
+   "example": "A dry seed is dormant. Water wakes the seed up.",
+   "art": "A sleeping seed with a tiny nightcap, and a drop of water about to land on the seed."
   },
   {
    "term": "Germinate",
-   "meaning": "To start growing. A seed germinates when it wakes up and grows a root and a shoot.",
+   "meaning": "To start growing. A seed germinates by waking up and growing a root and a shoot.",
    "example": "Moong seeds germinate in a day or two on damp cotton.",
    "art": "A moong seed splitting open, a white root poking out and curling down."
   },
@@ -116,11 +116,11 @@
    "term": "Cell",
    "meaning": "A tiny living building block. Every living thing is made of one or more cells.",
    "example": "Your body is made of about 30 million million cells.",
-   "art": "A wall made of tiny round bricks, with one brick zoomed in to show it is a little living bag."
+   "art": "A wall made of tiny round bricks, with one brick zoomed in to show that the brick is a little living bag."
   },
   {
    "term": "Yeast",
-   "meaning": "A tiny living thing, a kind of fungus, made of just one cell. Bakers use it to make bread rise.",
+   "meaning": "A tiny living thing, a kind of fungus, made of just one cell. Bakers use yeast to make bread rise.",
    "example": "Dry yeast from a packet wakes up in warm sugar water.",
    "art": "A spoon of light brown yeast grains next to a bowl of foamy, bubbling water."
   },
@@ -142,10 +142,10 @@
    "concept": "What it means to be alive: the seven signs",
    "status": "defined",
    "definition": "A living thing belongs to a kind that does all seven life processes: nutrition, respiration, growth, movement, sensing, excretion and reproduction.",
-   "description": "Scientists cannot point to one thing that makes something alive. So they use a list of seven signs. Here they are. Nutrition: getting food. Respiration: getting energy from the food. Growth: getting bigger from the inside. Movement: moving the body or a part of it. Sensing: noticing the world and responding. Excretion: getting rid of waste. Reproduction: making young ones. Some children remember them with the made-up word MRS GREN. Each letter starts one sign: Movement, Respiration, Sensing, Growth, Reproduction, Excretion, Nutrition. A living thing does not do all seven at every moment. A child cannot have babies yet, and some animals and people never have young. But every kind of living thing makes more of its kind.",
+   "description": "Scientists cannot point to one thing that makes something alive. So they use a list of seven signs. Here they are. Nutrition: getting food. Respiration: getting energy from the food. Growth: getting bigger from the inside. Movement: moving the body or a part of it. Sensing: noticing the world and responding. Excretion: getting rid of waste. Reproduction: making young ones. Some children remember them with the made-up word MRS GREN. Each letter starts one sign: Movement, Respiration, Sensing, Growth, Reproduction, Excretion, Nutrition. A living thing does not do all seven at every moment. A child cannot have babies yet, and some animals and people never have young. But every kind of living thing makes more of the same kind.",
    "examples": [
     "A dog eats, breathes, grows, runs, sniffs, does wee and can have puppies. That is all seven.",
-    "A mango tree makes its food in its leaves, takes in air, grows taller, turns its leaves to the light, drops old leaves and grows mangoes with seeds inside.",
+    "A mango tree makes food in the leaves, takes in air, grows taller, turns the leaves to the light, drops old leaves and grows mangoes with seeds inside.",
     "You do six of the seven every single day. The seventh, having children, can only come when you are grown up."
    ],
    "perspectives": [],
@@ -155,10 +155,10 @@
   {
    "concept": "Nutrition: every living thing needs food",
    "status": "defined",
-   "definition": "Nutrition is how a living thing gets food, for energy and for building its body.",
+   "definition": "Nutrition is how living things get food, for energy and for building their bodies.",
    "description": "All living things need food. Food gives them energy, and it gives them the material to build their bodies. But they get food in different ways. Green plants make their own food. In their leaves, they use sunlight to turn carbon dioxide from the air, and water, into sugar. This is called photosynthesis. Animals cannot do this. They eat plants, or eat animals that ate plants. Mushrooms and other fungi soak up food from dead leaves, wood and soil. So almost all the food in the world started with sunlight caught by plants, or by tiny green living things in the sea.",
    "examples": [
-    "A tulsi plant makes sugar in its leaves when the Sun shines on them.",
+    "The leaves of a tulsi plant make sugar when the Sun shines on them.",
     "A goat eats leaves. A tiger eats the goat. Both are getting food that a plant first made.",
     "A mushroom on a rotting log is feeding on the dead wood."
    ],
@@ -170,11 +170,11 @@
    "concept": "Respiration is not just breathing",
    "status": "defined",
    "definition": "Respiration is how living things get energy out of food, inside their cells. It usually uses oxygen and gives out carbon dioxide.",
-   "description": "Many people think respiration means breathing. It does not. Breathing only moves air in and out. Respiration is what happens next, inside every tiny part of your body. There, food and oxygen from the air are joined together. This lets out energy, the way burning does, but slowly and without flames. It also makes carbon dioxide, which you breathe out, and a little water. Plants respire too, all day and all night, in every leaf, stem and root. Even yeast from a packet respires once it wakes up. When you run, your muscles need more energy. So your body does more respiration, and you breathe faster to bring in more oxygen.",
+   "description": "Many people think respiration means breathing. It does not. Breathing only moves air in and out. Respiration is what happens next, inside every tiny part of your body. There, food and oxygen from the air are joined together. This lets out energy, the way burning does, but slowly and without flames. It also makes carbon dioxide, which you breathe out, and a little water. Plants respire too, all day and all night, in every leaf, stem and root. Even yeast from a packet respires once the yeast wakes up. When you run, your muscles need more energy. So your body does more respiration, and you breathe faster to bring in more oxygen.",
    "examples": [
     "When you breathe on a cold mirror, it mists up. Your breath carries water out of your body.",
     "After running, you pant. Your muscles need more oxygen for respiration.",
-    "A plant in a dark room keeps respiring, even though it cannot make food without light."
+    "A plant in a dark room keeps respiring, even with no light to make food."
    ],
    "perspectives": [],
    "art": "A child breathing in, with a zoomed-in circle inside the arm showing food and oxygen meeting and giving off a little glow of energy.",
@@ -183,7 +183,7 @@
   {
    "concept": "Growth: getting bigger from the inside",
    "status": "defined",
-   "definition": "Growth is when a living thing gets bigger or changes by turning food into new parts of its own body.",
+   "definition": "Growth is when a living thing gets bigger or changes by turning food into new parts of their own body.",
    "description": "Living things grow from the inside. They take in food and turn it into new parts of their own body. A puppy drinks milk, and part of the milk becomes new puppy body. Non-living things can get bigger too, but only from the outside. A cloud gets bigger when more water vapour in the air cools and turns into drops. A pile of sand gets bigger when you pour more on. Nothing inside the pile is building more pile. Living things also mend and renew themselves. Your skin heals a cut. The red cells in your blood each last about four months, and your body keeps making new ones, millions every second.",
    "examples": [
     "A baby grows into a child by turning milk and food into new body.",
@@ -191,42 +191,42 @@
     "A cloud grows because more water vapour in the air cools and turns into drops, not because the cloud is building itself."
    ],
    "perspectives": [],
-   "art": "Split picture: on one side a seedling growing taller with arrows coming from inside its stem. On the other side, a cloud getting bigger with arrows coming in from outside.",
+   "art": "Split picture: on one side a seedling growing taller with arrows coming from inside the stem. On the other side, a cloud getting bigger with arrows coming in from outside.",
    "context": "This card is about growth, one of the seven signs of life, and why a growing cloud is different from a growing child."
   },
   {
    "concept": "Movement: plants move too",
    "status": "defined",
-   "definition": "Movement is when a living thing moves its body or part of its body. Animals usually move about. Plants move parts of themselves, mostly by growing.",
-   "description": "Animals move from place to place. They walk, swim, fly, crawl and slither. Plants stay in one place, so people think they do not move. But they do, just slowly. Roots grow down into the soil. Shoots bend towards light. Young sunflower plants turn their tops to follow the Sun across the sky. A touch-me-not plant folds its leaves in a second when you touch it. Some plants fold their leaves every night and open them again in the morning. Cars, rivers and wind move too. So movement alone does not prove something is alive.",
+   "definition": "Movement is when a living thing moves their body or part of their body. Animals usually move about. Plants move parts of themselves, mostly by growing.",
+   "description": "Animals move from place to place. They walk, swim, fly, crawl and slither. Plants stay in one place, so people think they do not move. But they do, just slowly. Roots grow down into the soil. Shoots bend towards light. Young sunflower plants turn their tops to follow the Sun across the sky. When you touch a touch-me-not plant, their leaves fold in a second. Some plants fold their leaves every night and open them again in the morning. Cars, rivers and wind move too. So movement alone does not prove something is alive.",
    "examples": [
     "A money plant on a windowsill leans towards the window.",
-    "The touch-me-not plant, called chhui-mui or lajwanti, folds its leaves when touched.",
+    "The touch-me-not plant, called chhui-mui or lajwanti, folds their leaves when touched.",
     "A river moves, but a river is not a living thing. It is full of living things."
    ],
    "perspectives": [],
-   "art": "A touch-me-not plant with half its leaves folded where a finger touched it, and a young sunflower plant bending towards the Sun.",
+   "art": "A touch-me-not plant with half their leaves folded where a finger touched, and a young sunflower plant bending towards the Sun.",
    "context": "This card is about movement, one of the seven signs of life, and the surprising ways plants move."
   },
   {
    "concept": "Sensing: noticing and responding",
    "status": "defined",
-   "definition": "Sensing is when a living thing notices something around it, like light, touch, sound or heat, and responds to it.",
-   "description": "Living things notice what is around them, and they respond. You see, hear, smell, taste and touch. When a ball flies at you, you duck. Plants sense too. They sense light, so their shoots grow towards it. They sense which way is down, so roots grow down even in the dark. They sense touch, so a climbing bean curls round a stick. A Venus flytrap plant even counts. It snaps shut only when an insect touches its trigger hairs twice in a short time. Even bacteria, with only one cell, swim towards food. Every cell can sense and respond. Plants and bacteria feel, remember and decide in their own way. A root chooses where to grow, and a bacterium decides to swim towards food. Many scientists would call these automatic responses instead.",
+   "definition": "Sensing is when a living thing notices something around them, like light, touch, sound or heat, and responds to it.",
+   "description": "Living things notice what is around them, and they respond. You see, hear, smell, taste and touch. When a ball flies at you, you duck. Plants sense too. They sense light, so their shoots grow towards it. They sense which way is down, so roots grow down even in the dark. They sense touch, so a climbing bean curls round a stick. A Venus flytrap plant even counts. The trap snaps shut only when an insect touches the trigger hairs twice in a short time. Even bacteria, with only one cell, swim towards food. Every cell can sense and respond. Plants and bacteria feel, remember and decide in their own way. A root chooses where to grow, and a bacterium decides to swim towards food. Many scientists would call these automatic responses instead.",
    "examples": [
     "You blink when dust flies near your eye.",
     "A moong root turns to grow downwards, even if you plant the seed upside down.",
     "A cat's whiskers feel the walls in the dark."
    ],
    "perspectives": [],
-   "art": "A child ducking a ball, a bean plant curling round a stick, and a Venus flytrap with an ant on its trigger hairs.",
+   "art": "A child ducking a ball, a bean plant curling round a stick, and a Venus flytrap with an ant on the trigger hairs.",
    "context": "This card is about sensing, one of the seven signs of life. It shows that plants and tiny living things sense the world too."
   },
   {
    "concept": "Excretion: getting rid of waste",
    "status": "defined",
-   "definition": "Excretion is how a living thing gets rid of waste that it made inside its body.",
-   "description": "When a living thing uses its food, it makes waste. If the waste stayed inside, it would make the body ill. So living things get rid of it. This is called excretion. You breathe out carbon dioxide. Your kidneys clean your blood and make wee. You sweat. Plants give out waste gases through tiny holes in their leaves. In sunlight, one gas they give out is oxygen, the gas we breathe in. Some plants also pack waste into old leaves, and then drop them. Here is a surprise. Poo is mostly water, gut bacteria and food the body could not digest. Scientists call getting rid of it egestion, not excretion. Wee, sweat and breathed-out carbon dioxide are waste the body made itself.",
+   "definition": "Excretion is how a living thing gets rid of waste that they made inside their body.",
+   "description": "When living things use their food, they make waste. If the waste stayed inside, it would make the body ill. So living things get rid of it. This is called excretion. You breathe out carbon dioxide. Your kidneys clean your blood and make wee. You sweat. Plants give out waste gases through tiny holes in their leaves. In sunlight, one gas they give out is oxygen, the gas we breathe in. Some plants also pack waste into old leaves, and then drop them. Here is a surprise. Poo is mostly water, gut bacteria and food the body could not digest. Scientists call getting rid of it egestion, not excretion. Wee, sweat and breathed-out carbon dioxide are waste the body made itself.",
    "examples": [
     "You breathe out carbon dioxide every few seconds.",
     "A tree gives out oxygen as waste from making food, which is lucky for us.",
@@ -239,10 +239,10 @@
   {
    "concept": "Reproduction: making more of the same kind",
    "status": "defined",
-   "definition": "Reproduction is when a living thing makes young ones of the same kind as itself.",
-   "description": "Every kind of living thing makes young ones. If it did not, that kind would die out. Living things do this in many ways. Many plants make seeds. Hens, snakes and butterflies lay eggs. Cows, cats and people have babies. Some living things just split in two, like bacteria. Yeast grows little buds that break off. A money plant cutting in a bottle of water grows roots and becomes a new plant. The young are always the same kind as the parent. A mango seed never grows into a cat. That is because parents pass on a set of instructions to their young. The instructions are kept inside their cells, in a chemical called DNA.",
+   "definition": "Reproduction is when a living thing makes young ones of the same kind as the parent.",
+   "description": "Every kind of living thing makes young ones. If they did not, that kind would die out. Living things do this in many ways. Many plants make seeds. Hens, snakes and butterflies lay eggs. Cows, cats and people have babies. Some living things just split in two, like bacteria. Yeast grows little buds that break off. A money plant cutting in a bottle of water grows roots and becomes a new plant. The young are always the same kind as the parent. A mango seed never grows into a cat. That is because parents pass on a set of instructions to their young. The instructions are kept inside their cells, in a chemical called DNA.",
    "examples": [
-    "The aak plant grows on empty plots. Its fluffy seeds blow away in the wind and grow into new aak plants.",
+    "The aak plant grows on empty plots. Their fluffy seeds blow away in the wind and grow into new aak plants.",
     "A hen's egg hatches into a chick, not a duck.",
     "A cutting of a money plant grows into a whole new plant."
    ],
@@ -254,7 +254,7 @@
    "concept": "One sign is not enough: the seed, the cloud and the car",
    "status": "defined",
    "definition": "Something is alive if it does all seven life processes over its life. One or two signs alone are not enough.",
-   "description": "To decide if something is alive, scientists do not look at one sign. They look at all seven together. Let us test three things. A car moves. It takes in petrol, a bit like food. It sucks in air and burns the petrol for energy, a bit like respiration. It puffs out smoke, a bit like excretion. Some cars even sense other cars with sensors. But a car never grows, never mends itself and never makes a baby car. People make cars in factories. A cloud moves, and grows, and can split into smaller clouds. But it does not feed or respire, and it only grows when more water vapour in the air cools and turns into drops. A dry seed seems to do almost nothing. But give it water and it does all seven: it feeds on its stored food, respires, grows, moves its root down, senses which way is down, gives out waste and, one day, makes new seeds. So the dry seed is the living one. It was only resting. Some things are even harder to sort, like fire and viruses. They have their own unit, The edge of life.",
+   "description": "To decide if something is alive, scientists do not look at one sign. They look at all seven together. Let us test three things. A car moves. It takes in petrol, a bit like food. It sucks in air and burns the petrol for energy, a bit like respiration. It puffs out smoke, a bit like excretion. Some cars even sense other cars with sensors. But a car never grows, never mends itself and never makes a baby car. People make cars in factories. A cloud moves, and grows, and can split into smaller clouds. But it does not feed or respire, and it only grows when more water vapour in the air cools and turns into drops. A dry seed seems to do almost nothing. But add water and the seed does all seven: feeding on stored food, respiring, growing, moving the root down, sensing which way is down, giving out waste and, one day, making new seeds. So the dry seed is the living one, only resting. Some things are even harder to sort, like fire and viruses. They have their own unit, The edge of life.",
    "examples": [
     "A car: moves, takes in fuel and air, gives out smoke, but never grows or reproduces. Not alive.",
     "A cloud: moves, grows and splits, but never feeds, respires or makes young of its own kind. Not alive.",
@@ -268,10 +268,10 @@
    "concept": "Why living things must keep eating: energy and order",
    "status": "defined",
    "definition": "Living things need a steady flow of energy, mostly from the Sun, to keep their bodies working and in order.",
-   "description": "A living body is very well organised, like a busy kitchen where everything is in its place. Keeping it that way takes energy, all the time. A living body uses that energy to keep mending itself. When it dies, the mending stops, and the body slowly breaks down. That is why a dead leaf rots. The energy almost always comes, in the end, from the Sun. A plant catches sunlight and stores it in sugar. A goat eats the plant. You drink the goat's milk. Each time, some energy is used and leaves as warmth. In 1944, the physicist Erwin Schrödinger wrote a famous little book called What Is Life? He said living things stay alive by taking in order from the world around them. Scientists still use that idea today.",
+   "description": "A living body is very well organised, like a busy kitchen where everything is in its place. Keeping it that way takes energy, all the time. A living body uses that energy to keep mending itself. When a living thing dies, the mending stops, and the body slowly breaks down. That is why a dead leaf rots. The energy almost always comes, in the end, from the Sun. A plant catches sunlight and stores it in sugar. A goat eats the plant. You drink the goat's milk. Each time, some energy is used and leaves as warmth. In 1944, the physicist Erwin Schrödinger wrote a famous little book called What Is Life? He said living things stay alive by taking in order from the world around them. Scientists still use that idea today.",
    "examples": [
     "You feel warm because respiration in your body gives off heat all the time.",
-    "A plant kept in a dark cupboard for weeks uses up its stored food and goes pale and weak.",
+    "A plant kept in a dark cupboard for weeks uses up their stored food and goes pale and weak.",
     "A fallen leaf, no longer fed by the tree, slowly rots back into soil."
    ],
    "perspectives": [],
@@ -299,7 +299,7 @@
    "examples": [
     "A dry seed can sit for years doing almost nothing, and still be alive.",
     "Fire grows, feeds and spreads, but it is not alive. The unit The edge of life looks at this.",
-    "A virus does nothing on its own, but copies itself inside a living cell. Scientists still argue about it."
+    "Viruses do nothing on their own, but copy themselves inside a living cell. Scientists still argue about them."
    ],
    "perspectives": [
     {
@@ -429,7 +429,7 @@
   {
    "q": "Is a dry seed in a packet alive right now, or only alive later?",
    "kind": "deep",
-   "hint": "Think about what happens when you boil it. A boiled seed never wakes up. So what was in the dry seed that the boiled seed lost?"
+   "hint": "Think about what happens when you boil a seed. A boiled seed never wakes up. So what was in the dry seed that the boiled seed lost?"
   },
   {
    "q": "Why does a car need a factory, but a hen does not need a factory to make a chick?",
@@ -457,9 +457,9 @@
    "hint": "Think of a dry seed, a virus, or J.C. Bose's tired metal. Is alive a switch, or more like a dimmer?"
   },
   {
-   "q": "Does a plant feel when you touch it?",
+   "q": "Does a plant feel your touch?",
    "kind": "deep",
-   "hint": "It does, in its own way. A touch-me-not senses and responds. How could we find out what the touch is like for the plant?"
+   "hint": "Plants do, in their own way. A touch-me-not senses and responds. How could we find out what the touch is like for the plant?"
   },
   {
    "q": "Why do living things die, when a stone can last for millions of years?",
@@ -490,38 +490,38 @@
   "text": [
    "In the year 1902, in the city of Calcutta, there was a room in Presidency College that smelled of candle smoke and wet earth. Nitai knew that smell better than anyone. His mother swept that room every evening, and Nitai, who was ten, carried her bucket.",
    "The room belonged to Professor Jagadish Chandra Bose. People whispered about him. He was an Indian professor in a college run by the British, and they had once paid him less than the English teachers. So for three whole years he had refused to take any pay at all. Nitai thought that was either very brave or very foolish. He had not decided which.",
-   "The professor's tables were covered in strange things. Coils of wire. Glass plates blackened with smoke. Needles so fine you could hardly see them. And in the middle of it all, in a cracked clay pot, sat a small, scruffy plant with feathery leaves. Nitai knew that plant. It grew wild beside the railway line. Everyone called it lajwanti, the shy one, because when you touched it, its leaves folded shut, as if it were embarrassed.",
+   "The professor's tables were covered in strange things. Coils of wire. Glass plates blackened with smoke. Needles so fine you could hardly see them. And in the middle of it all, in a cracked clay pot, sat a small, scruffy plant with feathery leaves. Nitai knew that plant. They grew wild beside the railway line. Everyone called them lajwanti, the shy one, because when you touched them, their leaves folded shut, as if they were embarrassed.",
    "One evening, the professor looked up from his work. 'You,' he said to Nitai. 'You have steady hands. Would you like a job?' The job was simple. Every time the big clock ticked round a minute, Nitai had to touch one leaf of the shy plant with a feather. Then he had to tap a thin metal wire, clamped on the other table, with a little brass hammer. The professor's machines would record what happened.",
    "Haren, the professor's young assistant, rolled his eyes. 'Sir is wasting his time,' he whispered, once the professor had gone into the next room. 'A plant is a green thing. A wire is a grey thing. Neither of them feels anything. Tap away.'",
-   "So Nitai tapped. Feather on leaf. Hammer on wire. Feather on leaf. Hammer on wire. At first the shy plant folded fast, its little leaflets snapping together like hands at prayer, and a needle drew a tall line on the smoked glass. For the wire, a spot of light jumped along a scale on the wall. But after twenty taps, something changed. The plant folded more slowly. Its lines grew shorter. And the spot of light from the wire jumped less, too.",
+   "So Nitai tapped. Feather on leaf. Hammer on wire. Feather on leaf. Hammer on wire. At first the shy plant folded fast, their little leaflets snapping together like hands at prayer, and a needle drew a tall line on the smoked glass. For the wire, a spot of light jumped along a scale on the wall. But after twenty taps, something changed. The plant folded more slowly. The plant's lines grew shorter. And the spot of light from the wire jumped less, too.",
    "'They are both getting tired,' said the professor softly, when he came back. He held the two records side by side. They looked almost the same.",
    "Haren laughed. 'There you are, sir. Same, same. The plant is just a thing, like the wire.' The professor only said, 'How do you know what a plant feels, Haren? Or a wire? Let them rest. We will try again tomorrow.'",
-   "That night Nitai could not sleep. He lay on his mat and thought about the shy plant, sitting in the dark in its cracked pot. If Haren was right, the plant was no different from the wire. Then why had it felt wrong to keep tapping it? He had not minded tapping the wire at all.",
+   "That night Nitai could not sleep. He lay on his mat and thought about the shy plant, sitting in the dark in their cracked pot. If Haren was right, the plant was no different from the wire. Then why had it felt wrong to keep tapping the plant? He had not minded tapping the wire at all.",
    "He came back early the next morning, before his mother, before anyone. He let himself into the smoky room, stood very still, and watched.",
-   "The wire lay on the table exactly as he had left it. Not one bit of it had changed. But the plant had. In the night, all of its leaves had folded down and drooped, though nobody had touched them. Now, as the first light came through the high window, they were opening again, slowly, all on their own. The soil in the pot, which had been damp, was dry. The plant had drunk the water. Its leaves were tilted towards the window. At the tip of one stem, where yesterday there had been a tight green knot, a new leaf was uncurling. And under the leaves hung a fluffy pink ball, like a tiny sweet. A flower. Flowers make seeds, his mother always said. Seeds make new plants.",
+   "The wire lay on the table exactly as he had left it. Not one bit of it had changed. But the plant had. In the night, all of their leaves had folded down and drooped, though nobody had touched them. Now, as the first light came through the high window, they were opening again, slowly, all on their own. The soil in the pot, which had been damp, was dry. The plant had drunk the water. Their leaves were tilted towards the window. At the tip of one stem, where yesterday there had been a tight green knot, a new leaf was uncurling. And under the leaves hung a fluffy pink ball, like a tiny sweet. A flower. Flowers make seeds, his mother always said. Seeds make new plants.",
    "Nitai looked back at the wire. It had not drunk anything. It had not grown. It had not turned to the light. It would never make a little wire. It just lay there, waiting for someone to hit it.",
-   "He poured water into the pot, slowly, the way his mother watered the tulsi at home. Then he sat on the floor and watched the plant go on doing all its quiet work, with nobody to make it.",
-   "When the professor came in, Nitai jumped up. 'Sir, they are not the same!' The words tumbled out. 'The wire only does something when I hit it. The plant does things by itself. It drinks. It sleeps at night and wakes up in the morning. It turns to the window. It is growing a new leaf. It has a flower, for seeds. The wire does nothing until somebody does something to it.'",
+   "He poured water into the pot, slowly, the way his mother watered the tulsi at home. Then he sat on the floor and watched the plant go on doing all their quiet work, with nobody to make them.",
+   "When the professor came in, Nitai jumped up. 'Sir, they are not the same!' The words tumbled out. 'The wire only does something when I hit it. The plant does things by themselves. They drink. They sleep at night and wake up in the morning. They turn to the window. They are growing a new leaf. They have a flower, for seeds. The wire does nothing until somebody does something to it.'",
    "Haren, who had followed the professor in, opened his mouth and shut it again.",
-   "The professor sat down on a stool, so that his eyes were level with Nitai's. 'You have watched well,' he said. 'Better than many men with degrees. The plant feeds, it grows, it moves, it makes seeds. It does all of it from inside itself. That is what living things do.' Then he picked up the two smoky glass plates and held them to the light. 'And yet, look. When we tap them, both grow tired. When they rest, both recover. In this one way, the wire and the plant are alike.'",
+   "The professor sat down on a stool, so that his eyes were level with Nitai's. 'You have watched well,' he said. 'Better than many men with degrees. The plant feeds, grows, moves and makes seeds. They do all of it from inside themselves. That is what living things do.' Then he picked up the two smoky glass plates and held them to the light. 'And yet, look. When we tap them, both grow tired. When they rest, both recover. In this one way, the wire and the plant are alike.'",
    "'So which is it, sir?' asked Nitai. 'Is the wire a little bit alive? Or is the plant a little bit like a wire?'",
    "The professor laughed, a big, surprised laugh. 'Now you have asked my question,' he said. 'Where is the line, Nitai? Did nature draw it? Or did we?' He did not answer it. He handed Nitai the feather instead. 'Today,' he said, 'you will let the plant rest for a whole hour between taps. Then we will see what a living thing does with rest.'",
-   "Nitai took the feather. Before he began, he touched the shy plant, very gently, with one finger. Its leaflets folded shut. Then, after a while, slowly, as if it had made up its mind, it opened again."
+   "Nitai took the feather. Before he began, he touched the shy plant, very gently, with one finger. Their leaflets folded shut. Then, after a while, slowly, as if they had made up their mind, they opened again."
   ],
-  "epiphany": "For the parent: the wire and the plant share one sign of life, responding when touched, and both even tire and recover. But only the plant does everything else, by itself and from inside: it drinks, grows, moves to the light, sleeps and wakes, and makes flowers for seeds. One sign is not enough to call something alive. All the signs together are. The story also leaves Bose's real question open: is the line between living and non-living drawn by nature, or by us? And it quietly asks who gets noticed: a cleaner's son, and an Indian scientist paid less than his colleagues.",
+  "epiphany": "For the parent: the wire and the plant share one sign of life, responding when touched, and both even tire and recover. But only the plant does everything else, by themselves and from inside: they drink, grow, move to the light, sleep and wake, and make flowers for seeds. One sign is not enough to call something alive. All the signs together are. The story also leaves Bose's real question open: is the line between living and non-living drawn by nature, or by us? And it quietly asks who gets noticed: a cleaner's son, and an Indian scientist paid less than his colleagues.",
   "ask": [
    "In the story, the plant and the wire both got tired when tapped. So why did Nitai say they were not the same?",
-   "What did the plant do in the night, when nobody was touching it?",
+   "What did the plant do in the night, when nobody was touching them?",
    "Which signs of life did Nitai spot in the plant? Can you name four?",
    "The professor asked, 'Did nature draw the line, or did we?' What do you think?",
-   "Haren thought the plant could not feel anything. Nitai felt it was wrong to keep tapping it. Who do you agree with, and why?"
+   "Haren thought the plant could not feel anything. Nitai felt it was wrong to keep tapping the plant. Who do you agree with, and why?"
   ],
   "art": [
    "A smoky old laboratory in Calcutta, with coils of wire, blackened glass plates and a scruffy touch-me-not plant in a cracked clay pot.",
    "A boy touching a touch-me-not leaf with a feather while a fine needle draws a line on smoked glass.",
    "Early morning light through a high window, the plant's leaves opening, a fluffy pink flower ball under them, and a plain wire lying on the table.",
    "The professor sitting on a stool at the boy's eye level, holding two smoky glass plates up to the light.",
-   "The boy gently touching the plant with one finger, its leaflets folding shut."
+   "The boy gently touching the plant with one finger, their leaflets folding shut."
   ]
  },
  "games": [
@@ -569,10 +569,10 @@
       "N: Nutrition (gets food)",
       "R: Respiration (gets energy from food)",
       "G: Growth (grows from inside)",
-      "M: Movement (moves itself or its parts)",
+      "M: Movement (moves their body or parts of it)",
       "S: Sensing (notices and responds)",
-      "E: Excretion (gets rid of its own waste)",
-      "R: Reproduction (makes young of its kind)"
+      "E: Excretion (gets rid of their own waste)",
+      "R: Reproduction (makes young of their kind)"
      ]
     },
     {
@@ -666,24 +666,24 @@
      "do": "1. Take turns. Each player turns over a card and reads it out. 2. Everyone holds up signs. 3. The player gives a verdict and a reason. 4. Keep score on the score sheet.",
      "say": "When you give your verdict, tell us your evidence. Which signs does it show? Which is it missing?",
      "kid": "Take turns. Turn over a card. Hold up its signs. Then choose: alive, once alive or never alive. Say why.",
-     "parent": "Tricky cards on purpose. Yeast is alive, a fungus made of one cell. A coral reef is built by tiny living animals, so a living reef is alive, but its rocky skeleton is once alive. A money plant cutting is alive. Bread and a cotton shirt are once alive. Wind, a river, a soap bubble and a light bulb are never alive, though they move or grow or glow. A mobile phone senses touch and needs charging, but it never grows or makes young. A ripe mango is still alive: its cells keep respiring, and its seed can grow a tree. A hen's egg from a shop will never hatch, because no chick is growing in it. So many people put it on once alive. An egg that a hen sits on can be alive, with a chick growing inside."
+     "parent": "Tricky cards on purpose. Yeast is alive, a fungus made of one cell. A coral reef is built by tiny living animals, so a living reef is alive, but its rocky skeleton is once alive. A money plant cutting is alive. Bread and a cotton shirt are once alive. Wind, a river, a soap bubble and a light bulb are never alive, though they move or grow or glow. A mobile phone senses touch and needs charging, but it never grows or makes young. A ripe mango is still alive: the cells keep respiring, and the seed can grow a tree. A hen's egg from a shop will never hatch, because no chick is growing in it. So many people put it on once alive. An egg that a hen sits on can be alive, with a chick growing inside."
     },
     {
      "id": "s4",
      "mins": 2,
      "do": "When someone draws 'A dry moong seed', stop and talk about it.",
-     "say": "A dry seed does almost nothing right now. So how can it be alive?",
-     "kid": "A dry seed! It does almost nothing now. Is it alive?",
+     "say": "A dry seed does almost nothing right now. So how can they be alive?",
+     "kid": "A dry seed! Almost nothing is happening. Is the seed alive?",
      "check": {
       "t": "mcq",
-      "q": "A dry moong seed seems to do nothing. Why do we still call it alive?",
+      "q": "A dry moong seed seems to do nothing. Why do we still call the seed alive?",
       "options": [
-       "Because it is small and green",
-       "Because, with water, it wakes up and does all seven signs",
-       "Because it came from a shop"
+       "Because they are small and green",
+       "Because, with water, they wake up and do all seven signs",
+       "Because they came from a shop"
       ],
       "a": 1,
-      "why": "A dry seed is dormant. It is alive but resting. Give it water and warmth, and it feeds on its stored food, respires, grows a root, senses which way is down and later makes new seeds. Picking 'small and green' means judging by looks. A green bead is small and green too, and it is not alive."
+      "why": "A dry seed is dormant. They are alive but resting. Give the seed water and warmth, and they feed on their stored food, respire, grow a root, sense which way is down and later make new seeds. Picking 'small and green' means judging by looks. A green bead is small and green too, and it is not alive."
      }
     },
     {
@@ -768,24 +768,24 @@
      "mins": 5,
      "do": "Call a sign together with a living-thing card. For example, 'Movement: a neem tree!'",
      "say": "Now it's harder. Movement, a neem tree! How does a tree move? Show me, and tell me in one sentence.",
-     "kid": "Now the caller says a sign and a living thing. Show how it does that sign. Say it in one sentence.",
+     "kid": "Now the caller says a sign and a living thing. Show how they do that sign. Say it in one sentence.",
      "ask": [
       {
        "q": "How does a neem tree move?",
        "good": [
-        "Its roots grow down.",
-        "Its branches grow towards the light.",
-        "Its leaves sway, but that is the wind. It moves itself by growing."
+        "Their roots grow down.",
+        "Their branches grow towards the light.",
+        "Their leaves sway, but that is the wind. They move themselves by growing."
        ]
       }
      ],
      "check": {
       "t": "mcq",
-      "q": "Excretion: a neem tree! How does a tree get rid of its waste?",
+      "q": "Excretion: a neem tree! How does a tree get rid of their waste?",
       "options": [
-       "It cannot. Trees make no waste.",
-       "It gives out waste gases through tiny holes in its leaves, and drops old leaves.",
-       "It pushes waste out of its roots like a tap."
+       "They cannot. Trees make no waste.",
+       "They give out waste gases through tiny holes in their leaves, and drop old leaves.",
+       "They push waste out of their roots like a tap."
       ],
       "a": 1,
       "why": "Trees make waste, like every living thing. They give out waste gases through tiny holes in their leaves, and they drop old leaves with some waste stored inside. Picking 'trees make no waste' usually means thinking only animals do excretion."
@@ -808,7 +808,7 @@
    "title": "The Balloon Test: is something alive in the yeast packet?",
    "mins": 35,
    "days": 1,
-   "question": "Is the dry yeast in a packet alive? And what does it need to show signs of life?",
+   "question": "Is the dry yeast in a packet alive? And what does yeast need to show signs of life?",
    "predict": "Before you start, look at the three bottles. Bottle A gets yeast, sugar and warm water. Bottle B gets yeast and warm water, but no sugar. Bottle C gets yeast, sugar and cold water from the fridge. Which balloon do you think will grow the most? Which will grow the least? Why do you think so?",
    "fair_test": "To make it fair, use the same size bottles, the same balloons, the same spoon of yeast and the same amount of water. Change only one thing in each bottle: the sugar or the warmth. Start all three at the same time and measure them at the same time.",
    "results_table": [
@@ -864,7 +864,7 @@
     }
    ],
    "record": "Fill in the table. Then draw a bar chart with one bar for each bottle. Make each bar as tall as the distance round its balloon.",
-   "context": "This is the balloon test. You put dry yeast into three bottles with different mixtures, and stretch a balloon over each. If the yeast is alive, it will feed, respire and give out a gas that blows up the balloon.",
+   "context": "This is the balloon test. You put dry yeast into three bottles with different mixtures, and stretch a balloon over each. If the yeast is alive, they will feed, respire and give out a gas that blows up the balloon.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: distance round each balloon after 30 minutes",
@@ -907,20 +907,20 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Show your child the dry yeast. 2. Let them feel it and smell it. 3. Ask whether they think it is alive.",
-     "say": "This is yeast. Bakers use it to make bread soft and puffy. Does it look alive to you? It doesn't move, eat or grow. Let's test it.",
-     "kid": "Look at the yeast. Feel it. Smell it. Does it look alive? We are going to test it.",
+     "do": "1. Show your child the dry yeast. 2. Let them feel and smell the yeast. 3. Ask whether they think the yeast is alive.",
+     "say": "This is yeast. Bakers use yeast to make bread soft and puffy. Does yeast look alive to you? No moving, eating or growing. Let's test.",
+     "kid": "Look at the yeast. Feel and smell the yeast. Does yeast look alive? We are going to find out.",
      "ask": [
       {
        "q": "How could we find out if this yeast is alive?",
        "good": [
-        "Give it food and see if it does anything.",
-        "See if it grows.",
+        "Give the yeast food and see what happens.",
+        "See if the yeast grows.",
         "Check the signs of life."
        ]
       }
      ],
-     "context": "This is the first step of the balloon test. You find out if dry yeast is alive by giving it food and warmth, and watching for signs of life."
+     "context": "This is the first step of the balloon test. You find out if dry yeast is alive by giving the yeast food and warmth, and watching for signs of life."
     },
     {
      "id": "s2",
@@ -944,7 +944,7 @@
      "do": "1. Watch for 10 minutes. 2. Look for bubbles and foam in each bottle. 3. Then wait until 30 minutes have passed.",
      "say": "Look at bottle A. Can you see bubbles? Foam? Now look at B and C. What do you think the bubbles are? Where do you think they come from?",
      "kid": "Watch the bottles. Do you see bubbles or foam? What do you think made them? Wait until 30 minutes are up.",
-     "parent": "Bottle A should foam, and its balloon should start to stand up within 10 to 20 minutes. Bottle B may make a little gas. Bottle C stays almost still, because the cold slows the yeast right down. The gas is carbon dioxide, a waste the yeast gives out as it gets energy from sugar. The yeast is also growing and making new yeast cells by budding, which is too small to see. If balloon A is still small at 30 minutes, wait 15 minutes more.",
+     "parent": "Bottle A should foam, and its balloon should start to stand up within 10 to 20 minutes. Bottle B may make a little gas. Bottle C stays almost still, because the cold slows the yeast right down. The gas is carbon dioxide, a waste the yeast gives out while getting energy from sugar. The yeast is also growing and making new yeast cells by budding, which is too small to see. If balloon A is still small at 30 minutes, wait 15 minutes more.",
      "check": {
       "t": "mcq",
       "q": "In the balloon test, bottle A is foaming and its balloon is filling up. What is happening?",
@@ -954,7 +954,7 @@
        "The sugar is melting into air"
       ],
       "a": 1,
-      "why": "Yeast is alive. It feeds on the sugar, gets energy from it and gives out carbon dioxide gas as waste. The gas fills the balloon. That is nutrition, respiration and excretion, three signs of life. Picking 'boiling' means mixing up bubbles from heat with bubbles from life. The water is only warm. Picking 'sugar melting into air' means thinking sugar turns into gas by itself. It does not, or bottle C would fill too."
+      "why": "Yeast is alive. The yeast feeds on the sugar, gets energy from it and gives out carbon dioxide gas as waste. The gas fills the balloon. That is nutrition, respiration and excretion, three signs of life. Picking 'boiling' means mixing up bubbles from heat with bubbles from life. The water is only warm. Picking 'sugar melting into air' means thinking sugar turns into gas by itself. It does not, or bottle C would fill too."
      }
     },
     {
@@ -995,7 +995,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. Is the yeast alive? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: yeast is alive, and it needs food and warmth. What I saw: all three balloons started at 12 cm round. Balloon A grew to 30 cm, but B only reached 14 cm and C 13 cm. Why: the yeast fed on the sugar and gave out gas as waste. In the cold, it was too slow. Without sugar, it had almost no food.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: yeast is alive, and needs food and warmth. What I saw: all three balloons started at 12 cm round. Balloon A grew to 30 cm, but B only reached 14 cm and C 13 cm. Why: the yeast fed on the sugar and gave out gas as waste. In the cold, the yeast was too slow. Without sugar, there was almost no food.",
      "think": "Bakers knead yeast into dough and leave it somewhere warm. Why warm? What would happen in the fridge?"
     }
    ]
@@ -1186,7 +1186,7 @@
        "Boiled seeds need more water than other seeds"
       ],
       "a": 1,
-      "why": "A dry seed is dormant: alive but resting. Water wakes it up. Boiling destroyed the living baby plant inside, so those seeds can never grow. Picking 'water brings dead seeds back to life' means thinking the dry seeds were dead. But the boiled seeds had water too, and they did not grow. Picking 'boiled seeds need more water' misses that cup C had just as much water as cup A."
+      "why": "A dry seed is dormant: alive but resting. Water wakes the seed up. Boiling destroyed the living baby plant inside, so those seeds can never grow. Picking 'water brings dead seeds back to life' means thinking the dry seeds were dead. But the boiled seeds had water too, and they did not grow. Picking 'boiled seeds need more water' misses that cup C had just as much water as cup A."
      }
     },
     {
@@ -1195,7 +1195,7 @@
      "do": "Ask your child to say or write three short sentences: what I think, what I saw and why.",
      "say": "Now tell me three things. Is a dry seed alive? What did you see? Why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: a dry seed is alive, but resting. What I saw: all 5 soaked seeds sprouted, and the dry seeds sprouted after I gave them water. The boiled seeds and the beads never grew. Why: the seed has a living baby plant inside. Water wakes it up. Boiling kills it, and beads were never alive."
+     "parent": "A good answer sounds like this. What I think: a dry seed is alive, but resting. What I saw: all 5 soaked seeds sprouted, and the dry seeds sprouted after I gave them water. The boiled seeds and the beads never grew. Why: the seed has a living baby plant inside. Water wakes them up. Boiling kills them, and beads were never alive."
     }
    ]
   },
@@ -1426,9 +1426,9 @@
      "id": "s4",
      "mins": 4,
      "do": "Look at a dry moong seed. If you have a soaked or sprouted one, look at that too. Fill in the seed column.",
-     "say": "A dry seed seems to do nothing. But look at this sprouted one. Is it feeding? It is using food stored inside the seed. Is it growing? Which way is the root moving?",
-     "kid": "Look at a dry seed. Then a sprouted one. Which signs does the seed show once it wakes up? Fill in its column.",
-     "parent": "A dry seed is dormant. Once wet, it feeds on its stored food, respires, grows, moves its root down, senses gravity and gives out carbon dioxide. Later the plant will flower and make seeds. If you have not done the seed test yet, you can come back to this column after it."
+     "say": "A dry seed seems to do nothing. But look at this sprouted one. Is this sprout feeding? Yes, on food stored inside the seed. Is the sprout growing? Which way is the root moving?",
+     "kid": "Look at a dry seed. Then a sprouted one. Which signs does the seed show once they wake up? Fill in the seed's column.",
+     "parent": "A dry seed is dormant. Once wet, the seed feeds on stored food, respires, grows, moves the root down, senses gravity and gives out carbon dioxide. Later the plant will flower and make seeds. If you have not done the seed test yet, you can come back to this column after it."
     },
     {
      "id": "s5",
@@ -1436,7 +1436,7 @@
      "do": "Count the ticks in each column. Then ask your child to give a verdict for each thing, with evidence.",
      "say": "Which one did all seven? So which one is alive? Tell me your evidence like a judge.",
      "kid": "Count the ticks. Which one does all seven? Give your verdict. Say what you saw. Say why.",
-     "parent": "A good answer: the seed is alive. Once it gets water it does all seven signs. The car and the cloud only show some signs, and they never grow from inside or make young of their own kind.",
+     "parent": "A good answer: the seed is alive. Given water, the seed does all seven signs. The car and the cloud only show some signs, and they never grow from inside or make young of their own kind.",
      "think": "Can you think of something that does only one or two signs of life, but is alive?"
     }
    ]
@@ -1494,8 +1494,8 @@
      "id": "s1",
      "mins": 12,
      "do": "Walk in a park, garden or lane for 10 minutes. Your child collects small things: leaves, twigs, seeds, pebbles, feathers, a flower, a bottle cap. For animals, they draw them instead. No park? Collect things at home instead. Try a vegetable peel, a pencil, a thread, a spoon and a stone from a plant pot.",
-     "say": "Let's collect a museum. Pick up small things that are lying on the ground. If you see an animal, don't pick it up. We'll draw it.",
-     "kid": "Collect small things on the ground. Leaves, twigs, seeds, stones. If you see an animal, draw it.",
+     "say": "Let's collect a museum. Pick up small things that are lying on the ground. If you see an animal, don't pick them up. We'll draw them.",
+     "kid": "Collect small things on the ground. Leaves, twigs, seeds, stones. If you see an animal, draw them.",
      "adult": true,
      "context": "This is the first step of the nature museum. You collect things on a walk, to sort into alive, once alive and never alive."
     },
@@ -1564,11 +1564,11 @@
     }
    ],
    "record": "Write how many minutes the leaf took to open again. Write how many pairs of leaflets folded after a light touch and after a firmer tap. Draw a leaf open, closed and opening.",
-   "context": "This activity is about sensing, one of the seven signs of life. You touch a touch-me-not plant and watch it respond, and time how long it takes to recover.",
+   "context": "This activity is about sensing, one of the seven signs of life. You touch a touch-me-not plant and watch them respond, and time how long it takes to recover.",
    "setup": [
     {
-     "art": "A touch-me-not plant in a clay pot on a sunny step, its feathery leaves wide open.",
-     "caption": "1. Find a touch-me-not plant with its leaves open."
+     "art": "A touch-me-not plant in a clay pot on a sunny step, their feathery leaves wide open.",
+     "caption": "1. Find a touch-me-not plant with their leaves open."
     },
     {
      "art": "A feather touching the tip of one leaf, and the little leaflets folding together in pairs.",
@@ -1583,9 +1583,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Find a touch-me-not plant with its leaves open. Do this in the daytime, in a warm place, with the plant watered. Look closely at one leaf.",
-     "say": "This plant is called chhui-mui, or lajwanti, or touch-me-not. Look at its little leaflets, lined up in pairs. What do you think will happen if we touch it?",
-     "kid": "This is a touch-me-not plant. Look at its tiny leaflets. What will happen if you touch it?",
+     "do": "Find a touch-me-not plant with their leaves open. Do this in the daytime, in a warm place, with the plant watered. Look closely at one leaf.",
+     "say": "This plant is called chhui-mui, or lajwanti, or touch-me-not. Look at their little leaflets, lined up in pairs. What do you think will happen if we touch the plant?",
+     "kid": "This is a touch-me-not plant. Look at their tiny leaflets. What will happen if you touch the plant?",
      "context": "This is the first step of the shy plant activity. You test whether a plant can sense touch."
     },
     {
@@ -1597,14 +1597,14 @@
      "parent": "The leaflets fold together in a second or two, starting near the touch. Sometimes the fold spreads along the leaf, or the whole leaf drops. The plant does this by moving water out of special cells at the base of each leaflet. It is very fast for a plant.",
      "check": {
       "t": "mcq",
-      "q": "When you touch a touch-me-not leaf, it folds shut. Which signs of life is it showing?",
+      "q": "When you touch a touch-me-not leaf, it folds shut. Which signs of life is the plant showing?",
       "options": [
        "Sensing and movement",
        "Nutrition and growth",
        "Reproduction"
       ],
       "a": 0,
-      "why": "The plant senses the touch and responds by moving its leaflets. That is sensing and movement. Picking 'nutrition and growth' mixes up a quick response with slow feeding and growing. Picking 'reproduction' means thinking any change is making young."
+      "why": "The plant senses the touch and responds by moving their leaflets. That is sensing and movement. Picking 'nutrition and growth' mixes up a quick response with slow feeding and growing. Picking 'reproduction' means thinking any change is making young."
      }
     },
     {
@@ -1619,15 +1619,15 @@
      "id": "s4",
      "mins": 15,
      "do": "Look at the first leaf every 5 minutes. Stop the timer when it is fully open again. Write down the minutes.",
-     "say": "Now we wait. Plants recover slowly. Let's check every 5 minutes. Meanwhile, why do you think the plant folds its leaves?",
+     "say": "Now we wait. Plants recover slowly. Let's check every 5 minutes. Meanwhile, why do you think the plant folds their leaves?",
      "kid": "Look at the first leaf every 5 minutes. Stop the timer when it is open. Write down the minutes.",
-     "parent": "It often takes 10 to 30 minutes to open again. In the evening, or when it is cold, the plant folds by itself and opens slowly, so the timing will be longer. If you cannot get a plant, watch the touch-me-not video in this unit instead. Good ideas for why: to scare off a hungry animal, to look less tasty, or to knock insects off. Scientists think it protects the plant from being eaten, but they are still testing this."
+     "parent": "It often takes 10 to 30 minutes to open again. In the evening, or when it is cold, the plant folds without a touch and opens slowly, so the timing will be longer. If you cannot get a plant, watch the touch-me-not video in this unit instead. Good ideas for why: to scare off a hungry animal, to look less tasty, or to knock insects off. Scientists think it protects the plant from being eaten, but they are still testing this."
     },
     {
      "id": "s5",
      "mins": 2,
      "do": "Tell your child about J.C. Bose and the dropped plants. Then let the plant rest.",
-     "say": "J.C. Bose, a great Indian scientist, found that this plant folds less if you touch it again and again. In 2014, scientists dropped these plants gently many times. The plants stopped folding, and weeks later they still did not fold when dropped.",
+     "say": "J.C. Bose, a great Indian scientist, found that this plant folds less if you touch them again and again. In 2014, scientists dropped these plants gently many times. The plants stopped folding, and weeks later they still did not fold when dropped.",
      "kid": "Scientists dropped these plants gently many times. The plants stopped folding. Weeks later, they still did not fold.",
      "think": "The plants learned that the drop was safe, and remembered it. Some scientists say the plants were only tired. What do you think?"
     }
@@ -1701,20 +1701,20 @@
       "q": "After 2 hours in the sun, the bag on the living branch is misty with water, and the bag on the dead twig is dry. Why?",
       "options": [
        "Rain got into the first bag",
-       "The living plant took water up from its roots and gave it out through its leaves",
+       "The living plant took water up from their roots and gave it out through their leaves",
        "The dead twig drank all the water"
       ],
       "a": 1,
-      "why": "A living plant pulls water up from its roots and lets water vapour out of tiny holes in its leaves. The vapour turns back into drops on the inside of the bag. The dead twig is once alive. It no longer does this. Picking 'rain' cannot explain why only one bag is wet. Picking 'the twig drank it' means thinking a dead twig still feeds."
+      "why": "A living plant pulls water up from their roots and lets water vapour out of tiny holes in their leaves. The vapour turns back into drops on the inside of the bag. The dead twig is once alive. It no longer does this. Picking 'rain' cannot explain why only one bag is wet. Picking 'the twig drank it' means thinking a dead twig still feeds."
      }
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "Talk about what the plant takes in and gives out.",
-     "say": "A plant takes in water and air. It gives out water vapour and gases from its leaves. In sunlight, one gas it gives out is oxygen, the gas we need.",
-     "kid": "A plant takes in water and air. It gives out water and gases from its leaves. One gas is oxygen, which we breathe.",
-     "parent": "Strictly, most of this water is not waste. The plant lets it out as it pulls up water and minerals from the soil, and it also cools the leaves. True plant waste includes the oxygen it makes in sunlight, carbon dioxide from respiration, and waste stored in old leaves that fall."
+     "say": "A plant takes in water and air, and gives out water vapour and gases from their leaves. In sunlight, one gas they give out is oxygen, the gas we need.",
+     "kid": "A plant takes in water and air. They give out water and gases from their leaves. One gas is oxygen, which we breathe.",
+     "parent": "Strictly, most of this water is not waste. The plant lets it out as they pull up water and minerals from the soil, and it also cools the leaves. True plant waste includes the oxygen they make in sunlight, carbon dioxide from respiration, and waste stored in old leaves that fall."
     }
    ]
   },
@@ -1802,7 +1802,7 @@
        "Only half alive"
       ],
       "a": 1,
-      "why": "A living thing does all seven signs over its life, not at every moment. Children grow up first, and reproduction can come much later. Picking 'no' means thinking every sign must happen all the time. A sleeping cat is not running, and it is still alive."
+      "why": "A living thing does all seven signs over their life, not at every moment. Children grow up first, and reproduction can come much later. Picking 'no' means thinking every sign must happen all the time. A sleeping cat is not running, but is still alive."
      }
     }
    ]
@@ -1855,25 +1855,25 @@
      "id": "s2",
      "mins": 6,
      "do": "Your child draws an arrow from each food to the thing that eats it.",
-     "say": "The arrow goes from the food to the eater. What does the cow eat? What does a crow eat? Where does the grass get its food?",
-     "kid": "Draw arrows from each food to who eats it. Where does the grass get its food?",
+     "say": "The arrow goes from the food to the eater. What does the cow eat? What does a crow eat? Where does the grass get their food?",
+     "kid": "Draw arrows from each food to who eats it. Where does the grass get their food?",
      "check": {
       "t": "mcq",
-      "q": "In the food chart, where does grass get its food?",
+      "q": "In the food chart, where does grass get their food?",
       "options": [
        "From the soil, by eating it",
-       "It makes its own food in its leaves, using sunlight, air and water",
-       "It does not need food"
+       "They make their own food in their leaves, using sunlight, air and water",
+       "They do not need food"
       ],
       "a": 1,
-      "why": "Green plants make their own food, a sugar, using sunlight, air and water. They take in water and a few minerals from the soil, but the soil is not their food. Picking 'eats the soil' is a very common idea. In the 1600s, Jan Baptist van Helmont grew a willow tree in a pot for five years. The tree grew heavy, but its soil hardly lost any weight. Picking 'does not need food' forgets that all living things need nutrition."
+      "why": "Green plants make their own food, a sugar, using sunlight, air and water. They take in water and a few minerals from the soil, but the soil is not their food. Picking 'eats the soil' is a very common idea. In the 1600s, Jan Baptist van Helmont grew a willow tree in a pot for five years. The tree grew heavy, but the soil in the pot hardly lost any weight. Picking 'does not need food' forgets that all living things need nutrition."
      }
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "Add arrows from every living thing to a strip of soil at the bottom.",
-     "say": "When a leaf falls or an animal dies, what happens to it? Who do you think eats it?",
+     "say": "When a leaf falls or an animal dies, what happens to them? Who do you think eats them?",
      "kid": "Draw arrows from everything to the soil. Who eats the dead things? Mushrooms and tiny soil creatures.",
      "think": "If all the food starts with sunlight, is some of the Sun inside you right now?",
      "parent": "After your child has guessed, explain: mushrooms and tiny living things in the soil feed on dead leaves and animals, and turn them back into soil and air."
@@ -2015,7 +2015,7 @@
      "say": "Let's check our diary. Did we catch every sign of life? Which one haven't we seen yet?",
      "kid": "Measure your plants. Write one piece of evidence for each sign. Which sign is still missing?",
      "wait": "Come back on day 10.",
-     "parent": "Reproduction will be missing. A moong plant takes about a month or more to flower and grow pods with seeds. It needs at least four to six hours of direct sun a day. Keep watching the plant. When it makes pods, open one. New seeds! That is the seventh sign. On a shady balcony it may not flower. Then look at the moong in your kitchen: every one of those seeds grew in a pod on a moong plant.",
+     "parent": "Reproduction will be missing. A moong plant takes about a month or more to flower and grow pods with seeds. They need at least four to six hours of direct sun a day. Keep watching the plant. When it makes pods, open one. New seeds! That is the seventh sign. On a shady balcony the plant may not flower. Then look at the moong in your kitchen: every one of those seeds grew in a pod on a moong plant.",
      "think": "When your plant makes new seeds, will they be alive too? What will they need to wake up?"
     }
    ]
@@ -2169,7 +2169,7 @@
      "do": "1. Wash the jar. 2. Put 2 cm of stones in the bottom. 3. Add 5 cm of damp soil. 4. Plant the cutting. 5. Add 2 spoons of water. 6. Close the lid.",
      "say": "We're making a tiny world. Once the lid is on, nothing goes in and nothing comes out, except light. Can life keep going?",
      "kid": "Stones first. Then soil. Then your plant. Two spoons of water. Close the lid.",
-     "context": "This is the first step of the jar world challenge. You build a closed jar where a plant must keep itself alive."
+     "context": "This is the first step of the jar world challenge. You build a closed jar where a plant must keep themselves alive."
     },
     {
      "id": "s2",
@@ -2183,18 +2183,18 @@
      "id": "s3",
      "mins": 10,
      "do": "After 2 weeks, look closely. Your child lists every sign of life they saw.",
-     "say": "The plant had no new water and no new air for two weeks. How did it keep going?",
+     "say": "The plant had no new water and no new air for two weeks. How did they keep going?",
      "kid": "After two weeks, look closely. Which signs of life did you see?",
      "check": {
       "t": "mcq",
-      "q": "A plant stayed alive in a closed jar for two weeks with no new water. Where did its water come from?",
+      "q": "A plant stayed alive in a closed jar for two weeks with no new water. Where did their water come from?",
       "options": [
        "The water went round and round: from soil to plant to air to glass and back to soil",
        "The plant made new water from light",
        "The plant did not need any water"
       ],
       "a": 0,
-      "why": "The plant took water from the soil and let it out from its leaves. The water turned into drops on the glass and ran back down into the soil. The same water was used again and again. The plant also used light to make food, and the gases it gave out were used again. Picking 'made water from light' means thinking light is a kind of water. Picking 'did not need water' forgets that all living things need water."
+      "why": "The plant took water from the soil and let it out from their leaves. The water turned into drops on the glass and ran back down into the soil. The same water was used again and again. The plant also used light to make food, and the gases they gave out were used again. Picking 'made water from light' means thinking light is a kind of water. Picking 'did not need water' forgets that all living things need water."
      }
     },
     {
@@ -2225,7 +2225,7 @@
       "A car"
      ],
      "a": 1,
-     "why": "A mushroom is a fungus. It feeds, respires, grows, senses and makes spores to make new mushrooms. Picking the cloud, river or car usually means thinking that moving or growing is enough to be alive.",
+     "why": "A mushroom is a fungus. They feed, respire, grow, sense and make spores to make new mushrooms. Picking the cloud, river or car usually means thinking that moving or growing is enough to be alive.",
      "art": "A cloud, a mushroom, a river and a car in four boxes."
     },
     {
@@ -2335,7 +2335,7 @@
      "t": "truefalse",
      "p": "A dry seed is alive, but resting.",
      "a": true,
-     "why": "True. A dry seed is dormant. When it gets water, it wakes up and grows."
+     "why": "True. A dry seed is dormant. When they get water, they wake up and grow."
     },
     {
      "t": "truefalse",
@@ -2363,7 +2363,7 @@
       "The bottle with yeast, sugar and cold water"
      ],
      "a": 0,
-     "why": "Yeast is alive. With food (sugar) and warmth, it feeds and gives out lots of gas. Without sugar it has no food. In the cold, it is very slow. Picking the no-sugar bottle means forgetting that living things need food.",
+     "why": "Yeast is alive. With food (sugar) and warmth, yeast feeds and gives out lots of gas. Without sugar there is no food. In the cold, yeast is very slow. Picking the no-sugar bottle means forgetting that living things need food.",
      "how": "e1"
     },
     {
@@ -2395,7 +2395,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a living thing you can see from your window. Label two signs of life it shows.",
+     "p": "Draw a living thing you can see from your window. Label two signs of life they show.",
      "a": "Any living thing, with two signs labelled. For example, a tree: growing taller, leaves turning to the light.",
      "why": "Every living thing shows the signs of life. Labelling them shows you can spot them.",
      "art": "A blank window frame to draw in."
@@ -2412,7 +2412,7 @@
       "a plant with pods full of new seeds"
      ],
      "a": "order shown",
-     "why": "The seed wakes, grows a root, then a shoot and leaves. Later it flowers and makes pods with new seeds. Then the circle starts again."
+     "why": "The seed wakes, grows a root, then a shoot and leaves. Later they flower and make pods with new seeds. Then the circle starts again."
     }
    ]
   },
@@ -2431,7 +2431,7 @@
       "Only when you run"
      ],
      "a": 1,
-     "why": "Respiration happens in every cell, all the time. That is how each cell gets its energy. Picking 'only in the lungs' mixes up respiration with breathing. The lungs only bring the air in."
+     "why": "Respiration happens in every cell, all the time. That is how cells get their energy. Picking 'only in the lungs' mixes up respiration with breathing. The lungs only bring the air in."
     },
     {
      "t": "mcq",
@@ -2466,26 +2466,26 @@
     },
     {
      "t": "truefalse",
-     "p": "A touch-me-not plant folds its leaves when touched. This shows sensing and movement.",
+     "p": "A touch-me-not plant folds their leaves when touched. This shows sensing and movement.",
      "a": true,
-     "why": "True. It senses the touch and moves its leaflets in response.",
+     "why": "True. The plant senses the touch and moves their leaflets in response.",
      "how": "a3"
     },
     {
      "t": "truefalse",
      "p": "Yeast is a living thing.",
      "a": true,
-     "why": "True. Yeast is a fungus made of one cell. It feeds, respires, grows and buds to make new yeast."
+     "why": "True. Yeast is a fungus made of one cell. They feed, respire, grow and bud to make new yeast."
     },
     {
      "t": "truefalse",
      "p": "A mule cannot have babies, so a mule is not alive.",
      "a": false,
-     "why": "False. A single living thing does not have to reproduce. A mule still feeds, respires, grows, moves, senses and gets rid of waste. Its parents, a horse and a donkey, did reproduce."
+     "why": "False. A single living thing does not have to reproduce. A mule still feeds, respires, grows, moves, senses and gets rid of waste. Their parents, a horse and a donkey, did reproduce."
     },
     {
      "t": "match",
-     "p": "Match each living thing to how it reproduces.",
+     "p": "Match each living thing to how they reproduce.",
      "pairs": [
       [
        "Mango tree",
@@ -2584,7 +2584,7 @@
      "t": "write",
      "p": "Give three pieces of evidence that a plant is alive.",
      "lines": 3,
-     "a": "It grows taller. It turns its leaves to the light. It takes in water and gives out water and gases from its leaves. It makes flowers and seeds.",
+     "a": "They grow taller. They turn their leaves to the light. They take in water and give out water and gases from their leaves. They make flowers and seeds.",
      "why": "Each piece of evidence is one sign of life that you can see."
     },
     {
@@ -2740,9 +2740,9 @@
     },
     {
      "t": "write",
-     "p": "A dry seed can sit in a packet for a year, showing almost no signs of life. Is it alive, dead, or something in between? Give your reasons.",
+     "p": "A dry seed can sit in a packet for a year, showing almost no signs of life. Is the seed alive, dead, or something in between? Give your reasons.",
      "lines": 3,
-     "a": "Any reasoned answer. A good one: it is alive, because it does all seven signs once it gets water, and a boiled seed never does. But it is doing almost nothing now, so it is alive but resting.",
+     "a": "Any reasoned answer. A good one: the seed is alive, because they do all seven signs once they get water, and a boiled seed never does. But they are doing almost nothing now, so they are alive but resting.",
      "why": "This connects to the seed test and to the next unit, The edge of life.",
      "how": "e2"
     },
@@ -2794,7 +2794,7 @@
   },
   {
    "t": "mcq",
-   "p": "Which sign of life is a puppy showing when it becomes a dog?",
+   "p": "Which sign of life is a puppy showing when they become a dog?",
    "opts": [
     "Excretion",
     "Growth",
@@ -2820,9 +2820,9 @@
    "t": "mcq",
    "p": "Is a dry moong seed alive?",
    "opts": [
-    "No, it does nothing",
-    "Yes. It is dormant, and with water it does all seven signs.",
-    "Only if it is green"
+    "No, they do nothing",
+    "Yes. They are dormant, and with water they do all seven signs.",
+    "Only if they are green"
    ],
    "a": 1,
    "why": "A dry seed is alive but resting. The seed test showed dry seeds sprout once wet, but boiled seeds never do.",
@@ -2987,7 +2987,7 @@
   },
   {
    "text": "A money plant on a windowsill, leaning towards the light.",
-   "art": "A money plant in a glass bottle, its leaves all turned to the window."
+   "art": "A money plant in a glass bottle, their leaves all turned to the window."
   },
   {
    "text": "Your breath making a little cloud on a cold winter morning in Delhi or Ooty.",
@@ -3035,7 +3035,7 @@
  "ask_kids": [
   "Which signs of life have you done since you woke up?",
   "Is the dal on your plate alive, once alive or never alive?",
-  "That tree has been standing still all day. How do you know it is alive?",
+  "That tree has been standing still all day. How do you know they are alive?",
   "What does the fridge do to the tiny living things in our food?",
   "If our car could do one more sign of life, which would be the strangest?",
   "Is the wind alive? How do you know?",
@@ -3048,7 +3048,7 @@
  "jokes": [
   {
    "j": "Why did the seed refuse to wake up?",
-   "a": "It was dormant, and nobody had given it a drink."
+   "a": "They were dormant, and nobody had given them a drink."
   },
   {
    "j": "What did the yeast say to the sugar?",
@@ -3064,11 +3064,11 @@
   },
   {
    "j": "Why did the touch-me-not plant blush?",
-   "a": "Somebody touched it without asking."
+   "a": "Somebody touched them without asking."
   },
   {
    "j": "Why did the moong seed go to school?",
-   "a": "It wanted to grow up."
+   "a": "They wanted to grow up."
   },
   {
    "j": "What do you call a plant that keeps leaning to the window?",
@@ -3112,7 +3112,7 @@
   },
   {
    "j": "Why did the seed bring a water bottle to the life test?",
-   "a": "It needed a drink before it could show its signs."
+   "a": "They needed a drink before they could show their signs."
   },
   {
    "j": "Why did the river say it wasn't alive?",
@@ -3124,7 +3124,7 @@
   },
   {
    "j": "Why did the sunflower get a stiff neck?",
-   "a": "It watched the Sun all day."
+   "a": "They watched the Sun all day."
   },
   {
    "j": "Why did the soap bubble fail the reproduction test?",
@@ -3137,7 +3137,7 @@
    "answer": "Balloon A grew 18 cm and balloon B grew 2 cm. Balloon A grew 16 cm more.",
    "explain": "Balloon A: 30 take away 12 is 18 cm. Balloon B: 14 take away 12 is 2 cm. Then 18 take away 2 is 16. So balloon A grew 16 cm more than balloon B. Measuring the growth, not just the end size, shows how little the unfed yeast did.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
-   "context": "This is about the balloon test. You put yeast in bottles with different mixtures and stretched a balloon over each. The more gas the living yeast made, the bigger its balloon grew.",
+   "context": "This is about the balloon test. You put yeast in bottles with different mixtures and stretched a balloon over each. The more gas the living yeast made, the bigger the balloon grew.",
    "chart": {
     "type": "bar",
     "title": "Distance round each balloon after 30 minutes (each started at 12 cm)",
@@ -3424,7 +3424,7 @@
   },
   {
    "q": "Name one way a plant moves.",
-   "a": "It grows towards light, or its roots grow down, or a touch-me-not folds its leaves."
+   "a": "They grow towards light, or their roots grow down, or a touch-me-not folds their leaves."
   },
   {
    "q": "A car moves and burns fuel. Why is it not alive?",
@@ -3528,11 +3528,11 @@
   "context": "We have been learning the seven signs that tell us something is alive. Now we ask what those signs tell us about ourselves and the world.",
   "deep_truth": {
    "truth": "Dry moong seeds can sit in a jar for months, doing almost nothing. Given water, they swell and sprout within a day or two. Boiled seeds look just the same, but never sprout. So you cannot tell a sleeping seed from a dead one by looking: only water can show it.",
-   "habit": "We think 'alive' means 'doing something', like moving, eating or breathing. A dry seed breaks that habit: it is alive while doing almost nothing, and a boiled seed looks just the same but is dead.",
+   "habit": "We think 'alive' means 'doing something', like moving, eating or breathing. A dry seed breaks that habit: they are alive while doing almost nothing, and a boiled seed looks just the same but is dead.",
    "evidence": "In the seed test, dry seeds sprouted within a day or two of getting water, but boiled seeds with the same water never did. In the balloon test, dry yeast from a packet filled a balloon with gas soon after meeting warm sugar water."
   },
   "three": {
-   "who_am_i": "You are a living body that keeps itself going without you trying. Even while you sleep, you breathe, grow and mend.",
+   "who_am_i": "You are a living body that keeps going without you trying. Even while you sleep, you breathe, grow and mend.",
    "what_is_life": "Life is not a thing you can hold in your hand. It is what a body does, or can still do: take in, change, give out, sense and make more.",
    "what_is_this_world": "Living and non-living things keep swapping their atoms. A tree takes in the carbon dioxide you breathe out and builds a mango with it. When you eat the mango, it becomes part of you."
   },
@@ -3540,8 +3540,8 @@
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.11",
-    "teaching": "Uddalaka tells his son Shvetaketu: if someone cuts this great tree at its root, or its middle, or its top, sap flows, but it lives. Full of life, it stands drinking in water. But if life leaves one branch, that branch dries up. The body dies when life leaves it. Life itself does not die.",
-    "link": "Uddalaka noticed the same signs we test: the tree drinks water and lives on after it is cut, and a dead branch dries up. He then asked what life itself is, beyond the signs."
+    "teaching": "Uddalaka tells his son Shvetaketu: if someone cuts this great tree at their root, or their middle, or their top, sap flows, but they live. Full of life, they stand drinking in water. But if life leaves one branch, that branch dries up. The body dies when life leaves it. Life itself does not die.",
+    "link": "Uddalaka noticed the same signs we test: the tree drinks water and lives on after being cut, and a dead branch dries up. He then asked what life itself is, beyond the signs."
    },
    {
     "source": "Acharanga Sutra, Book 1, Lecture 1 (Jain)",
