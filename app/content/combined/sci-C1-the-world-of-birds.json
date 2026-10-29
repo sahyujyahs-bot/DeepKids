@@ -1,0 +1,1068 @@
+{
+ "key": "combined|sci|1|the-world-of-birds",
+ "board": "combined",
+ "subj": "sci",
+ "level": 1,
+ "n": "the-world-of-birds",
+ "day_mins": 30,
+ "title": "Birds: feathers, beaks, nests and songs",
+ "source": "DeepKids Combined, DeepKids topic (no board teaches birds as a topic in Class 1). No textbook needed.",
+ "summary": "Only birds have feathers. Your child watches the birds at their own window, finds out what feathers do, tests why a duck stays dry, uses kitchen tools as beaks, builds a nest from newspaper and learns why the koel sings from the crow's tree. They also meet clever crows, long journeys across the sea, and the surprising fact that birds are living dinosaurs.",
+ "builds_on": "This is the first rung. It uses the Class 1 idea that living things need food, water and shelter. In Class 4 your child comes back to birds: how wings lift a bird, how birds came from dinosaurs, how migrating birds find their way, and how beaks and feet change to fit new places.",
+ "subconcepts": [
+  "a bird is an animal with feathers, and only birds have feathers",
+  "not all birds fly: the ostrich runs and the penguin swims",
+  "feathers are made of keratin, like our hair and nails",
+  "feathers keep a bird warm and dry: down feathers and preening oil",
+  "wings push air down, and the air pushes the bird up",
+  "light, hollow bones",
+  "a beak fits the food a bird eats, and birds have no teeth",
+  "feet fit the way a bird lives: perching, swimming, scratching, grabbing",
+  "eggs and nests: a hard shell, warmth from a parent, and the egg tooth",
+  "calls and songs: to warn, to keep in touch and to find a mate",
+  "the koel lays her eggs in crows' nests",
+  "birds remember, learn and solve problems",
+  "birds are living dinosaurs",
+  "migration: some birds make long journeys every year",
+  "caring for the birds near home"
+ ],
+ "goals": [
+  "By the end your child can say what makes a bird a bird, and why a bat is not one.",
+  "By the end your child can say two jobs that feathers do, using their oil-and-paper test.",
+  "By the end your child can match four beaks to the food each one is shaped for.",
+  "By the end your child can say how an egg is kept warm and how a chick gets out.",
+  "By the end your child can copy three bird calls and say why birds call.",
+  "By the end your child can name one bird that makes a long journey every year.",
+  "By the end your child can say how to help birds near home without harming them."
+ ],
+ "words": [
+  [
+   "bird",
+   "an animal with feathers, a beak, two wings and two legs, who lays eggs with hard shells"
+  ],
+  [
+   "feather",
+   "a light, strong part that grows from a bird's skin, made of keratin like our hair"
+  ],
+  [
+   "down",
+   "the soft, fluffy feathers close to a bird's skin that keep the bird warm"
+  ],
+  [
+   "preening",
+   "when a bird cleans and oils their feathers with their beak"
+  ],
+  [
+   "beak",
+   "a bird's hard mouth, with no teeth, shaped for the food the bird eats"
+  ],
+  [
+   "talons",
+   "the sharp, curved claws of birds like kites and eagles, for grabbing food"
+  ],
+  [
+   "nest",
+   "a place a bird makes to lay eggs and keep the chicks safe"
+  ],
+  [
+   "incubate",
+   "to keep eggs warm, usually by sitting on them, so the chicks can grow"
+  ],
+  [
+   "hatch",
+   "when a chick breaks out of the egg"
+  ],
+  [
+   "migrate",
+   "to travel a long way to another place every year, and come back"
+  ]
+ ],
+ "days": [
+  {
+   "n": 1,
+   "title": "What makes a bird a bird?",
+   "goal": "Watch the birds at home and find the one thing that only birds have.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Every bird you know",
+     "mins": 5,
+     "do": "Ask: 'Name every bird you know.' Write the list (crow, pigeon, parrot, peacock, hen, sparrow, myna, koel). Then ask: 'What do all of these have that you do not have?' Write down every guess. Say: 'Let us go and look at some real birds to check.'"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Window watch",
+     "mins": 13,
+     "do": "Do Activity a1. Sit at a window or balcony for 10 minutes, quietly. Make a tally mark each time you see a bird: crow, pigeon, myna, sparrow, or other. Ask about each one: 'What is the bird doing? Eating, walking, flying, calling?' Say: 'Watching birds this way is called bird watching. Scientists do it too.'",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Bird or not?",
+     "mins": 12,
+     "do": "Draw or say these one at a time: pigeon, bat, butterfly, hen, ostrich, penguin, aeroplane. For each, ask: 'Is this a bird? Why do you think so?' Wait for a reason. Then say: 'A bird is an animal with feathers. Only birds have feathers. A bat flies, but a bat has fur, so a bat is not a bird. An ostrich cannot fly, but she has feathers, so she is a bird.' Then add: 'All birds also have a beak, two wings, two legs and a backbone, and they lay eggs with hard shells.' Go back to the guesses from the warm-up and tick the right ones. Before bed, set out the bird water bowl from the project, on day 1 or day 2."
+    }
+   ],
+   "need": [
+    "paper and a pencil",
+    "a window or balcony",
+    "a shallow bowl of water for the balcony (the project)"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Feathers",
+   "goal": "Look closely at a feather and test how feathers keep a bird dry and warm.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "A close look at a feather",
+     "mins": 7,
+     "do": "Show a feather: one found on the balcony, picked up inside a plastic bag, or one from a feather duster. If you have none, look at a clear photo. Point to the hard middle stick, called the shaft, and the flat sides. Gently pull the flat side apart, then stroke it back between two fingers. Ask: 'What happened?' (it closed up again). Say: 'The tiny parts of a feather have hooks that zip together. Feathers are made of keratin, the same material as your hair and nails.' Everyone washes hands after."
+    },
+    {
+     "kind": "exp",
+     "title": "Why does a duck stay dry?",
+     "mins": 13,
+     "do": "Do Experiment e1. Before you start, ask: 'If we drop water on paper with oil on it, what will happen? Why do you think so?' Do the test and let your child say what they saw. Then say: 'Most birds have a small oil gland near the tail. They rub oil from it through their feathers with their beak. This is called preening. The oil helps water roll off, so the bird stays dry.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Puff up like a pigeon",
+     "mins": 10,
+     "do": "Ask: 'On a cold morning, why do pigeons look fat and round?' Wait for a guess. Say: 'Under the outside feathers are soft, fluffy feathers called down. On a cold day a bird fluffs up, so air is caught between the feathers. Caught air keeps warmth in, like a quilt.' Your child wraps up in a blanket and then fluffs it loose around them. Ask: 'Which keeps you warmer, a tight blanket or a fluffy one?' Then name more jobs of feathers: flying, keeping warm, keeping dry, and showing off, like the peacock's long feathers that he spreads to attract a peahen."
+    }
+   ],
+   "need": [
+    "a feather in a plastic bag, a feather duster, or a photo",
+    "a sheet of paper, coconut oil, a spoon, water",
+    "a blanket"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Wings and light bones",
+   "goal": "Feel how wings push on air, and test why hollow bones are useful.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Can you fly?",
+     "mins": 5,
+     "do": "Your child flaps their arms hard 20 times. Ask: 'Did you lift off? Why not?' Listen. Say: 'People are too heavy for our arms, and our arms are not wings. Let us find out what a bird has that we do not.'"
+    },
+    {
+     "kind": "do",
+     "title": "Push the air",
+     "mins": 7,
+     "do": "Give your child a big flat piece of cardboard or a folded newspaper. They hold it flat and swing it down fast, then slowly. Ask: 'What did you feel pushing back on your hand?' (the air). Say: 'When a bird flaps, the wings push air down and back. The air pushes the bird up and forward. That is how a bird flies.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Paper tubes hold a book",
+     "mins": 12,
+     "do": "Do Experiment e3. First ask: 'Will three paper tubes hold up a book? Why do you think so?' Do the test. Then say: 'Many birds have bones that are hollow inside, with thin cross pieces, like your paper tubes. Hollow bones are light, so the bird is easy to lift, and strong, so the bones do not break.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Birds who do not fly",
+     "mins": 6,
+     "do": "Say: 'Not all birds fly.' Tell your child: the ostrich is the biggest bird and cannot fly, but runs very fast on long, strong legs. The penguin cannot fly in air, but swims, using the wings as flippers. A hen flies only a little way, up onto a wall or a branch. Ask: 'An ostrich lives on open grassland where she can see far. Why might running be enough for her?'"
+    }
+   ],
+   "need": [
+    "a big piece of cardboard or a newspaper",
+    "three sheets of paper, sticky tape, a thin book"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Beaks and feet",
+   "goal": "Use kitchen tools as beaks, and see how feet fit the way a bird lives.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "No teeth",
+     "mins": 4,
+     "do": "Ask: 'Have you ever seen a bird's teeth?' Wait. Say: 'Birds have no teeth. They swallow food whole, or break it up with the beak. Many birds also swallow tiny stones. The stones sit in a strong part of the stomach called the gizzard and grind the food.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Beak tools",
+     "mins": 14,
+     "do": "Do Experiment e2. Before each tool, ask: 'Which food do you think this beak will pick up best? Why?' After the test, ask: 'Which tool was best for which food?' Then match each tool to a real bird: the clothes peg is like a sparrow's short, strong beak for seeds; the straw is like a sunbird's long, thin beak for sipping nectar from flowers; the tea strainer is like a duck's flat beak that sieves food out of water; the tongs are like a kingfisher's long, pointed beak for catching fish.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Whose feet?",
+     "mins": 6,
+     "do": "Your child wraps their fingers round a pencil and holds on tight. Say: 'That is how a crow or a sparrow holds a branch. Their toes wrap round it, even while they sleep.' Then show with hands: a duck has webbed feet that push water like paddles, a hen has strong toes for scratching the ground for food, and a kite has sharp, curved claws called talons for grabbing food. Ask: 'Which feet would you need to live in a pond?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 6,
+     "do": "Do Worksheet ws1 together. Read each question aloud. For the drawing, your child can look out of the window first.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a clothes peg, a straw, a tea strainer, kitchen tongs or two spoons",
+    "a handful of rice, a cup of water, a bowl of water with puffed rice, a short piece of cooked noodle or a rubber band",
+    "a pencil",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Eggs and nests",
+   "goal": "Find out how an egg is kept warm, and build a nest that holds an egg.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Look at an egg",
+     "mins": 6,
+     "do": "Hold a hen's egg from the kitchen. Ask: 'Why do you think a bird's egg has a hard shell?' Wait. Say: 'The shell keeps the chick safe and stops the egg drying out. It has tiny holes, too small to see, that let air in for the chick to breathe. Eggs from a shop will not hatch, because no chick was ever started in them.' Then ask: 'Why do bird parents sit on their eggs?' Say: 'A chick can only grow if the egg is kept warm. Keeping eggs warm is called incubating. A hen sits on her eggs for about 21 days.'"
+    },
+    {
+     "kind": "act",
+     "title": "Build a nest",
+     "mins": 16,
+     "do": "Do Activity a2. Before you start, ask: 'How do you think a bird builds a nest with no hands?' After the nest is done, test it with a lemon as the egg. Then tell your child: the baya weaver bird weaves a hanging nest from long strips of grass using only his beak and feet. The tailorbird makes a cup by stitching the edges of leaves together. City crows build nests of twigs, and sometimes use wire and old coat hangers.",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "Out of the egg, and a rule",
+     "mins": 8,
+     "do": "Say: 'When the chick is ready, she taps the shell from inside with a small, hard tip on her beak. This tip is called the egg tooth. It falls off soon after she hatches.' Your child pretends to be a chick, curled up small, then tapping and pushing out. Then say the rule: 'If we find a nest, we look from far away and never touch. If the parents feel scared, they may leave the eggs.'"
+    }
+   ],
+   "need": [
+    "a hen's egg from the kitchen",
+    "old newspaper torn into thin strips, string or wool, dry leaves, a steel bowl, a lemon"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Calls, songs and the koel",
+   "goal": "Copy bird calls, find out why birds call, and hear the story of a koel raised by crows.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Call and copy",
+     "mins": 6,
+     "do": "Sit at the window for 3 minutes and only listen. Then copy the calls together: the crow's 'kaa kaa', the koel's rising 'ku-oo, ku-oo', a pigeon's soft 'gutur-goo', the myna's many whistles. Ask: 'Why do you think birds call?' Say: 'Birds call to warn each other of danger, to keep in touch with their family, to ask for food, and to find a mate.'"
+    },
+    {
+     "kind": "read",
+     "title": "Read the story",
+     "mins": 12,
+     "do": "Read aloud 'Kuyil, who grew up with crows', the story in this rung. Stop when the male koel sings from the mango tree, and ask: 'What do you think Kuyil will do?' Read to the end and ask the story questions."
+    },
+    {
+     "kind": "talk",
+     "title": "The koel and the crow",
+     "mins": 6,
+     "do": "Say: 'This part of the story is true. A mother koel lays her egg in a crow's nest, and the crows raise the chick. The male koel is shiny black with red eyes. The female is brown with white spots. Old Sanskrit poems call the koel parabhrita, which means raised by others.' Ask: 'The crows work hard to feed a chick who is not theirs. What do you think about that?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 6,
+     "do": "Do Worksheet ws2 together. Read each question aloud. For the question about the pigeons, let your child give both sides before choosing.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "a window",
+    "the story text",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Clever birds, old birds, travelling birds",
+   "goal": "Meet crows who remember faces, birds who are dinosaurs, and birds who fly across the sea.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Crows remember faces",
+     "mins": 6,
+     "do": "Tell your child about voice v3, John Marzluff and the crows who remembered a mask. Ask its question. Then ask: 'Do the crows at our window know us? How could we find out?'",
+     "ref": "v3"
+    },
+    {
+     "kind": "talk",
+     "title": "Birds are dinosaurs",
+     "mins": 7,
+     "do": "Tell your child about voice v1, the dinosaurs with feathers. Show your child a pigeon walking on the balcony or in a photo: the scaly feet, the three front toes. Say: 'Birds are the dinosaurs that are still alive.' Ask the voice question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "game",
+     "title": "The long flight board game",
+     "mins": 12,
+     "do": "Play the board game g1. Each player is an Amur falcon, a small bird of prey who flies from China and Russia to Africa every year and rests in Nagaland on the way. Say before you start: 'This journey is real. Every autumn these falcons stop in Nagaland to eat and rest, then fly across the sea to Africa.'",
+     "ref": "g1"
+    },
+    {
+     "kind": "talk",
+     "title": "The women who saved a stork",
+     "mins": 5,
+     "do": "Tell your child about voice v2, Purnima Devi Barman and the hargila storks of Assam. Ask its question.",
+     "ref": "v2"
+    }
+   ],
+   "need": [
+    "the printed board game, a die, a counter for each player"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Our balcony birds: teach it back",
+   "goal": "Look back at the bird log, think about a big question, and teach what we learnt.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "The bird log",
+     "mins": 8,
+     "do": "Finish the project. Look at the log of who came to the water bowl this week. Ask: 'Which bird came most? What time of day did they come? Did any bird drink, and did any bird bathe?' Your child draws the bird who came most and tells the family what they saw."
+    },
+    {
+     "kind": "think",
+     "title": "A big question",
+     "mins": 5,
+     "do": "Ask: 'Kuyil was raised by crows, but she grew up a koel. What makes a bird a koel, or a crow?' Listen. Then ask: 'If a bird could tell us about our street, what would she say?' There is no right answer. Let your child wonder."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child teaches a grown-up: what makes a bird a bird, two jobs of feathers, which beak fits which food, how an egg is kept warm, why birds call, and one bird who travels far. Ask the check questions."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 7,
+     "do": "Do Worksheet ws3 together if your child wants more. Read each question aloud, and let them explain their answers in their own words.",
+     "ref": "ws3"
+    }
+   ],
+   "need": [
+    "the bird log",
+    "crayons",
+    "worksheet ws3"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "What makes a bird",
+   "day": 4,
+   "sections": [
+    [
+     "A. Birds and feathers",
+     [
+      {
+       "t": "mcq",
+       "p": "Which one of these is a bird?",
+       "opts": [
+        "a bat",
+        "a pigeon",
+        "a butterfly"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "What do only birds have?",
+       "opts": [
+        "feathers",
+        "wings",
+        "eggs"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Feathers are made of ____, the same material as your hair and nails.",
+       "a": [
+        "keratin"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "On a cold morning a pigeon fluffs up their feathers. Why?",
+       "opts": [
+        "to keep warm air in",
+        "to dry the feathers",
+        "to fly faster"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Beaks and flying",
+     [
+      {
+       "t": "match",
+       "p": "Match each bird to the food their beak is shaped for.",
+       "pairs": [
+        [
+         "sparrow, with a short, strong beak",
+         "seeds"
+        ],
+        [
+         "sunbird, with a long, thin, curved beak",
+         "nectar from flowers"
+        ],
+        [
+         "kingfisher, with a long, pointed beak",
+         "fish"
+        ],
+        [
+         "kite, with a hooked beak",
+         "meat"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Does this bird fly?",
+       "items": [
+        "crow",
+        "ostrich",
+        "parrot",
+        "penguin",
+        "kite"
+       ],
+       "cats": [
+        "flies",
+        "does not fly"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "draw",
+       "p": "Draw a bird you saw from your window. Show the beak, the wings, the feet and the feathers."
+      },
+      {
+       "t": "write",
+       "p": "You dropped water on paper with oil on one half. What happened? How does oil help a duck?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "An ostrich cannot fly. Why is an ostrich still a bird?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Feet, eggs and calls",
+   "day": 6,
+   "sections": [
+    [
+     "A. Feet and nests",
+     [
+      {
+       "t": "mcq",
+       "p": "A bird has webbed feet, like paddles. Where does this bird most likely find food?",
+       "opts": [
+        "in water",
+        "at the top of trees",
+        "on hot dry rocks"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each bird to their feet.",
+       "pairs": [
+        [
+         "kite",
+         "sharp, curved claws to grab food"
+        ],
+        [
+         "hen",
+         "strong toes to scratch the ground"
+        ],
+        [
+         "duck",
+         "webbed feet to swim"
+        ],
+        [
+         "sparrow",
+         "toes that wrap round a twig"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A small yellow bird weaves a hanging nest from strips of grass, using only his beak and feet. Who is he?",
+       "opts": [
+        "a baya weaver",
+        "a pigeon",
+        "a kite"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A chick breaks out of the egg with a small, hard tip on the beak called the egg ____.",
+       "a": [
+        "tooth"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "When a bird sits on eggs to keep them warm, we say the bird ____ the eggs.",
+       "a": [
+        "incubates"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Calls",
+     [
+      {
+       "t": "sort",
+       "p": "Why is this bird calling?",
+       "items": [
+        "A myna screams when a cat comes near.",
+        "A male koel sings 'ku-oo' again and again in summer.",
+        "Two parrots call to each other as they fly.",
+        "Baby sparrows chirp when a parent lands at the nest."
+       ],
+       "cats": [
+        "to warn of danger",
+        "to find a mate",
+        "to keep in touch",
+        "to ask for food"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In the story, a koel called Kuyil hatches in a crow's nest, and crows bring her up. What does she sound like when she grows up?",
+       "opts": [
+        "a koel",
+        "a crow",
+        "a myna"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Three paper tubes held up a book. Why does a bird need bones that are light and strong?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Lakshmi's grandmother puts out rice for the pigeons every morning. Their neighbour Farhan says too many pigeons make a mess, and lots of their droppings can make some people ill. Who do you agree with? Give one reason. Then say one good point the other person makes.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Bird puzzles",
+   "day": 8,
+   "sections": [
+    [
+     "A. Find the mistake",
+     [
+      {
+       "t": "mcq",
+       "p": "Riya, a girl in Class 1, sees a bat flying at night. She says, 'It flies, so it is a bird.' What is wrong?",
+       "opts": [
+        "A bat has fur and no feathers, so a bat is not a bird.",
+        "Nothing is wrong.",
+        "Bats are insects."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A baby bird is sitting on the ground near a building. She is not hurt, and her parents are calling from a tree. What is best?",
+       "opts": [
+        "Leave her, watch from far away, and tell a grown-up if a cat comes.",
+        "Take her home as a pet.",
+        "Feed her biscuits."
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "True or not true?",
+       "items": [
+        "Birds are living dinosaurs.",
+        "Ostriches hide their heads in the sand.",
+        "Crows can remember a person's face.",
+        "If you touch a baby bird, the mother always leaves.",
+        "Some birds fly over the Himalayas."
+       ],
+       "cats": [
+        "true",
+        "not true"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Problems and answers",
+     [
+      {
+       "t": "match",
+       "p": "Each bird has a problem. Match the problem to the body part that helps.",
+       "pairs": [
+        [
+         "staying dry in the rain",
+         "oiled feathers"
+        ],
+        [
+         "staying warm on a cold night",
+         "fluffy down feathers"
+        ],
+        [
+         "being light enough to fly",
+         "hollow bones"
+        ],
+        [
+         "eating with no teeth",
+         "a gizzard that grinds food"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Birds who travel a long way every year and come back are said to ____.",
+       "a": [
+        "migrate"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Amur falcons stop in Nagaland every autumn on their long journey. Why do they stop?",
+       "opts": [
+        "to eat and rest before they fly across the sea",
+        "to build nests and lay eggs",
+        "because they are lost"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "draw",
+       "p": "Invent a new bird who lives in a city flat. Draw their beak and feet, and say what food they eat."
+      },
+      {
+       "t": "write",
+       "p": "Scientists found rocks in China with dinosaurs who had feathers. Why does this help show that birds came from dinosaurs?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Kuyil the koel grew up with crows, but she called like a koel. Nobody taught her. Where do you think her call came from?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Why does a duck stay dry?",
+   "day": 2,
+   "question": "How does oil keep water out of feathers?",
+   "need": [
+    "a sheet of plain paper",
+    "half a teaspoon of coconut oil or any cooking oil",
+    "a spoon",
+    "a small cup of water",
+    "a plate"
+   ],
+   "steps": [
+    "Put the paper on a plate.",
+    "With one finger, rub the oil all over one half of the paper. Leave the other half plain.",
+    "With the spoon, drop a few drops of water on the plain half.",
+    "Drop a few drops of water on the oily half.",
+    "Tip the plate a little and watch the drops for one minute."
+   ],
+   "predict": "Ask: 'On which half will the water soak in? Why do you think so?'",
+   "observe": "On the plain half the water soaks in and makes a dark wet patch. On the oily half the drops stay round and roll when you tip the plate.",
+   "why": "Oil and water do not mix, so the oil keeps the water out. Most birds have a small oil gland near the tail. When a bird preens, she or he rubs this oil through the feathers. The oil, and the tightly zipped feathers, make water roll off, so a duck can swim and still be dry next to the skin.",
+   "safety": "Use only a little oil. Wash hands with soap after.",
+   "time": "13 min"
+  },
+  {
+   "id": "e2",
+   "title": "Beak tools",
+   "day": 4,
+   "question": "Why do birds have different beaks?",
+   "need": [
+    "a clothes peg",
+    "a drinking straw",
+    "a tea strainer",
+    "kitchen tongs, or two spoons",
+    "a handful of rice in a plate (seeds)",
+    "a cup of water (nectar)",
+    "a bowl of water with a handful of puffed rice floating in it (tiny water food)",
+    "a short piece of cooked noodle or a rubber band (a fish or a worm)",
+    "a timer"
+   ],
+   "steps": [
+    "Put the four foods on the table.",
+    "Your child tries the clothes peg on each food for 20 seconds and counts what they pick up.",
+    "Do the same with the straw, the strainer and the tongs.",
+    "Write the counts in a small table: tools down the side, foods across the top.",
+    "Circle the best tool for each food."
+   ],
+   "predict": "Ask: 'Which tool will be best for the water? Which one for the rice?'",
+   "observe": "The peg picks up single rice grains well. Only the straw can take up the water. The strainer scoops many puffed rice at once. The tongs grab the noodle or rubber band best.",
+   "why": "Each tool is good at one job and poor at others. A bird's beak is the same. A sparrow's short, strong beak cracks seeds. A sunbird's long, thin beak reaches nectar deep in a flower. A duck's flat beak sieves food out of water. A kingfisher's long, pointed beak grabs a slippery fish. You can often tell what a bird eats by looking at the beak.",
+   "safety": "Do not put the straw in your mouth after it has touched the floor. A grown-up handles the tongs if they are sharp.",
+   "time": "14 min"
+  },
+  {
+   "id": "e3",
+   "title": "Paper tubes hold a book",
+   "day": 3,
+   "question": "Why are hollow bones light and strong?",
+   "need": [
+    "three sheets of A4 or notebook paper",
+    "sticky tape",
+    "a thin book, then a second one"
+   ],
+   "steps": [
+    "Fold one sheet of paper flat into a strip and stand it on its edge. Try to put the book on it. It falls over.",
+    "Roll each of the three sheets into a tube about as thick as a thumb. Tape each tube closed.",
+    "Stand the three tubes upright, a little apart, like table legs.",
+    "Gently put the thin book on top.",
+    "If it holds, add a second book, slowly."
+   ],
+   "predict": "Ask: 'Will three paper tubes hold up a book?'",
+   "observe": "The flat strip falls over at once. The three tubes hold one thin book, and often two.",
+   "why": "A tube is strong because the paper is spread round in a circle, so it does not bend easily. It is also light, because it is empty inside. Many birds have bones like this: hollow, with thin cross pieces inside for extra strength. Light bones make the bird easier to lift into the air. Birds who do not fly, like penguins, have heavier, solid bones.",
+   "safety": "Use thin books, and keep feet away in case the tower falls.",
+   "time": "12 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Window watch",
+   "day": 1,
+   "mins": 13,
+   "need": [
+    "a sheet of paper with five columns: crow, pigeon, myna, sparrow, other",
+    "a pencil",
+    "a timer"
+   ],
+   "steps": [
+    "Sit by a window or on the balcony and keep still and quiet.",
+    "Set the timer for 10 minutes.",
+    "Make a tally mark in the right column for each bird you see.",
+    "For each bird, say what the bird is doing: eating, walking, flying, calling or resting.",
+    "If no bird comes, put a few grains of cooked rice on the ledge and try again the next morning. Crows and pigeons usually come."
+   ],
+   "outcome": "A tally of the birds at your own window, and the habit of watching quietly."
+  },
+  {
+   "id": "a2",
+   "title": "Build a nest",
+   "day": 5,
+   "mins": 16,
+   "need": [
+    "old newspaper torn into thin strips",
+    "string or wool",
+    "dry leaves or a little dry grass",
+    "a steel bowl to use as a mould",
+    "a lemon to be the egg"
+   ],
+   "steps": [
+    "Turn the steel bowl upside down.",
+    "Lay newspaper strips over the bowl, crossing them in different directions.",
+    "Weave string or wool in and out of the strips to hold them together.",
+    "Add dry leaves or grass on the outside, the way a bird adds layers.",
+    "Lift the nest off the bowl and turn it the right way up.",
+    "Put the lemon inside and shake the nest gently. Does the egg stay in?"
+   ],
+   "outcome": "A cup nest that holds a lemon, and the discovery of how hard nest building is without hands."
+  }
+ ],
+ "project": {
+  "title": "The balcony bird bowl",
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "steps": [
+   "Put a shallow bowl of clean water on the balcony or window ledge, in the shade, out of reach of cats.",
+   "Change the water every morning, and wash the bowl every two days so it stays clean.",
+   "Each day, watch the bowl for 5 minutes at the same time.",
+   "Draw or write who came, and whether the bird drank or bathed.",
+   "On day 8, count which bird came most."
+  ],
+  "outcome": "A week's log of the birds who use your water bowl, and a habit that helps birds in the hot months."
+ },
+ "game": {
+  "id": "g1",
+  "title": "The long flight",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a counter for each player"
+  ],
+  "rules": [
+   "Each player is an Amur falcon. Put all counters on START.",
+   "Take turns to roll the die and move that many squares.",
+   "If you land on a square with an instruction, do what it says.",
+   "The first falcon to reach AFRICA wins.",
+   "Every time you land on a square, say one true thing about birds. If you can, move one extra square."
+  ],
+  "squares": [
+   "START: you hatched in China. Get ready to fly.",
+   "Flap your wings: move on 1.",
+   "Strong wind behind you: move on 2.",
+   "A storm: wait one turn.",
+   "Rest on a tall tree.",
+   "Eat insects for strength: move on 1.",
+   "Fly over mountains: miss a turn to rest.",
+   "Follow your flock: move on 2.",
+   "Reach Nagaland, India.",
+   "Eat flying termites: move on 2.",
+   "People in Nagaland protect you: move on 1.",
+   "Rest at the big lake.",
+   "Join thousands of falcons.",
+   "Begin the long flight across the sea.",
+   "No land below: keep flapping, move on 1.",
+   "Tired wings: go back 1.",
+   "A wind pushes you the right way: move on 2.",
+   "See the coast of Africa.",
+   "Rest on a tree.",
+   "AFRICA: you made it."
+  ]
+ },
+ "big": [
+  "Kuyil grew up with crows but became a koel. What makes a bird who she is?",
+  "Birds were here long before people. Whose city is it, ours or theirs?",
+  "A crow can remember your face. What do you think the crows at your window know about you?",
+  "If you could have one thing a bird has, what would you choose and why?"
+ ],
+ "challenge": [
+  {
+   "q": "If you touch a baby bird, the mother will smell you and leave the baby.",
+   "hint": "Most birds have a weak sense of smell, and scientists say parents do not leave a chick because a person touched her. Still, it is best not to touch a baby bird who is not hurt, because the parents are usually nearby. Ask: who should you tell if you find a chick on the ground?"
+  },
+  {
+   "q": "Ostriches hide their heads in the sand when they are scared.",
+   "hint": "They do not. An ostrich lays eggs in a hole in the ground and lowers her head to turn them, and from far away it can look as if her head is in the sand. When scared, an ostrich runs or lies flat. Ask: how could a story like this start?"
+  },
+  {
+   "q": "A 'bird brain' is a silly brain.",
+   "hint": "Crows remember faces, solve puzzles and use tools. Bird brains are small, but their nerve cells are packed very tightly. Ask: is a small brain always a less clever one?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A grandmother in Madurai drawing a kolam",
+   "view": "Many families in South India draw the morning kolam with rice flour. Ants and small birds eat the flour during the day. Ask: is the kolam a picture, a gift of food, or both?"
+  },
+  {
+   "who": "A paddy farmer",
+   "view": "Birds eat some of the grain in the field. Many birds, like egrets and mynas, also eat the insects that harm the crop. Ask: are birds the farmer's helpers or the farmer's problem?"
+  },
+  {
+   "who": "A city crow",
+   "view": "To a crow, a coat hanger is good nest material, a balcony is a cliff and a rubbish bin is a feast. Ask: what does our building look like to a crow?"
+  },
+  {
+   "who": "A house sparrow",
+   "view": "House sparrows nest in holes and gaps in buildings. New buildings are smooth and have few gaps, and fewer sparrows are seen in many cities. Ask: what could a building do to help sparrows?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Thomas Huxley (1825–1895), England, John Ostrom (1928–2005), USA, and scientists in China",
+   "idea": "In the 1860s Huxley said that birds came from dinosaurs, because a fossil bird called Archaeopteryx, found in Germany in 1861, had feathers but also teeth, claws on the wings and a long bony tail, like a small dinosaur.",
+   "then": "For many years most scientists did not agree. In 1926 a book by Gerhard Heilmann said dinosaurs could not be birds' ancestors, because they seemed to have no wishbone, and birds do.",
+   "now": "In the 1960s Ostrom found a dinosaur called Deinonychus with a body very like a bird's. Since 1996, scientists in China have found many dinosaurs with feathers, and dinosaurs with wishbones have been found too. Scientists now agree that birds are living dinosaurs.",
+   "status": "accepted",
+   "ask": "A pigeon has scaly feet with claws. What else about a bird could remind you of a dinosaur?",
+   "day": 7
+  },
+  {
+   "id": "v2",
+   "who": "Purnima Devi Barman, Assam, India (living)",
+   "idea": "Purnima Devi Barman, a wildlife scientist, found that people in villages near Guwahati were cutting down the trees where the greater adjutant stork nests. This big stork is called hargila in Assamese, and many people thought the bird was dirty and unlucky.",
+   "then": "The storks were becoming very rare, and few people wanted them near their homes.",
+   "now": "She brought village women together into a group they call the Hargila Army. They guard the nests, plant trees and weave the stork into their cloth. The number of nests in those villages has grown many times over. In 2022 the United Nations gave her its top award for the environment, Champions of the Earth.",
+   "status": "accepted",
+   "ask": "The storks did not change. What changed so that the storks could come back?",
+   "day": 7
+  },
+  {
+   "id": "v3",
+   "who": "John Marzluff, University of Washington, USA (living)",
+   "idea": "Marzluff and his team wore a scary rubber mask while they caught some wild crows, measured them and let them go unhurt. Then they walked past in the mask on other days.",
+   "then": "Many people thought birds could not tell one person from another.",
+   "now": "For years after, crows scolded and dived at anyone wearing that mask, but not at people in other masks. Even young crows who had never been caught learned to scold the mask, from older crows. Scientists agree that crows remember faces and teach each other.",
+   "status": "accepted",
+   "ask": "How did the young crows know the mask was dangerous, when it had never caught them?",
+   "day": 7
+  }
+ ],
+ "books": [
+  {
+   "title": "Feathers: Not Just for Flying",
+   "author": "Melissa Stewart, illustrated by Sarah S. Brannen",
+   "for": "read together",
+   "age": "5–9",
+   "why": "Shows the many jobs feathers do, each beside an everyday object that does the same job."
+  },
+  {
+   "title": "An Egg Is Quiet",
+   "author": "Dianna Hutts Aston, illustrated by Sylvia Long",
+   "for": "read together",
+   "age": "4–8",
+   "why": "Beautiful paintings of real eggs of many sizes, colours and shapes, with simple true facts."
+  },
+  {
+   "title": "Mama Built a Little Nest",
+   "author": "Jennifer Ward, illustrated by Steve Jenkins",
+   "for": "read together",
+   "age": "4–8",
+   "why": "Short rhymes and true notes on how different birds build very different nests."
+  },
+  {
+   "title": "The Book of Indian Birds",
+   "author": "Sálim Ali",
+   "for": "parent reads",
+   "age": "adult book, look at the pictures together",
+   "why": "The classic Indian bird guide by the man called the Birdman of India. Find the birds from your window watch in it."
+  }
+ ],
+ "check": [
+  {
+   "q": "What do all birds have that no other animal has?",
+   "a": "Feathers. All birds also have a beak, two wings and two legs, and lay eggs with hard shells."
+  },
+  {
+   "q": "Name two jobs that feathers do.",
+   "a": "Any two: help the bird fly, keep the bird warm (fluffy down feathers), keep the bird dry (oiled feathers), help find a mate (the peacock)."
+  },
+  {
+   "q": "Why does a sunbird have a long, thin beak and a sparrow a short, strong one?",
+   "a": "The sunbird's beak reaches nectar deep in a flower, like the straw in our test. The sparrow's beak cracks seeds, like the peg picking up rice."
+  },
+  {
+   "q": "How does a chick grow in an egg, and how does she get out?",
+   "a": "A parent keeps the egg warm by sitting on it (incubating). The chick taps the shell from inside with the egg tooth on her beak."
+  },
+  {
+   "q": "Tell me two reasons birds call.",
+   "a": "Any two: to warn of danger, to keep in touch, to ask for food, to find a mate."
+  },
+  {
+   "q": "Name a bird who makes a long journey every year.",
+   "a": "The Amur falcon, who flies from China and Russia through Nagaland to Africa. The bar-headed goose, who flies over the Himalayas, is also right."
+  },
+  {
+   "q": "How can we help birds near our home?",
+   "a": "Put out a clean bowl of water in the shade, keep it out of reach of cats, and watch nests from far away without touching."
+  }
+ ],
+ "story": {
+  "title": "Kuyil, who grew up with crows",
+  "text": [
+   "My name is Kuyil. In Tamil, kuyil means koel, and I am a koel. But the first birds I ever knew were crows.",
+   "I hatched in a crow's nest at the top of a neem tree in Mylapore, in Chennai. The nest was made of twigs, and also of bits of wire and one bent coat hanger, because city crows build with whatever they find. There were three eggs in that nest. Two were crow eggs. One was mine. My real mother had laid her egg there quickly, while the crows were away, and then flown off. I never met her.",
+   "I did not know any of this then. I only knew warmth. A big crow sat on the three of us day and night. She kept us warm with her body, and when it rained she spread herself over the nest like a roof. I call her Amma, because she is the only mother I have known.",
+   "When I was ready, I tapped at the inside of my shell with the hard little tip on my beak. Tap, tap, rest. Tap, tap, rest. At last the shell cracked, and there was light, and noise, and a smell of neem leaves and hot roads.",
+   "From then on I was hungry all the time. Amma and her mate flew back and forth all day. They brought insects, grains of rice and once half a vadai from the tea shop below. I opened my beak wider than my two crow brothers, and I shouted louder, so I often got the most.",
+   "On the second floor of the flats beside our tree lived a girl called Meenakshi and her grandmother. Every morning the grandmother put a steel bowl of water on the balcony ledge, and every morning Meenakshi watched our nest.",
+   "\"Paati,\" she said one day, \"one of the baby crows looks different.\"",
+   "Her grandmother put on her glasses and looked for a long time. \"Yes,\" she said. \"That one is not a crow, Meenu. That one is a koel. Wait and see.\"",
+   "My crow brothers grew grey feathers on their necks. My feathers came in too, but they were not like theirs. My brothers began to say \"kaa\". I tried. I opened my beak and pushed, but what came out was a thin squeak. My brothers turned their heads and stared at me. I tried again. Squeak.",
+   "Soon we left the nest and hopped along the branches. My brothers learned to find their own food, but Amma still fed me, for weeks. I sat on a branch and called, and she came. I thought I was a strange crow. I did not know there was anything else to be.",
+   "Then the hot months came. The roads shimmered. The mangoes grew fat on the tree across the lane. And one morning, from deep inside the mango leaves, a bird began to sing.",
+   "\"Ku-oo,\" he sang, low. \"Ku-oo.\" A little higher. \"Ku-oo! Ku-oo!\" Higher and higher, faster and faster, until the song broke off and started again.",
+   "He was shiny black, blacker than Amma, and his eyes were red. The crows hated him. Three of them flew at the mango tree, cawing, and he slipped away to another branch and sang again.",
+   "Each time he sang, something inside my chest went tight. I did not know what it was. I had never heard this song before. Nobody had ever sung it to me. But I knew it, the way you know your own name.",
+   "On the balcony, Meenakshi was holding the railing. \"Paati, listen. The koel is back.\"",
+   "\"Watch the little one,\" said her grandmother.",
+   "I opened my beak. I did not try to say \"kaa\". I did not try anything. Out came a sound I had never made: \"Kik-kik-kik-kik-kik!\" Sharp and fast, like a string of small bells.",
+   "The male koel stopped singing. Then he called back.",
+   "Amma turned on the branch beside me and looked at me with one eye, and then the other. Then she flew at me, cawing, the way the crows had flown at the mango tree. I flew. I did not stop until I reached the mango leaves.",
+   "\"Who taught her that?\" Meenakshi asked.",
+   "\"Nobody taught her,\" said her grandmother. \"A crow mother can feed a koel, and keep her warm, and keep her safe. But the koel's call was inside her egg from the start.\"",
+   "That was two summers ago. My feathers are brown now, with white spots, like the koel mothers. I eat ripe figs from the banyan tree near the temple tank. On hot afternoons I drink from the steel bowl on the balcony, and Meenakshi stands very still and does not come close.",
+   "When the mangoes are fat again, I sit high in the mango tree. I listen to the singing. And I watch the crows' nest in the neem tree, and wait."
+  ],
+  "epiphany": "What kind of bird a chick grows into is carried in the egg. Kuyil is fed and kept warm by crows, but she grows a koel's feathers and calls a koel's call without anyone teaching her. The turn is the moment she opens her beak and the koel's call comes out. The true fact behind the story: koels lay their eggs in crows' nests, and the crows raise the chicks.",
+  "ask": [
+   "Who kept Kuyil's egg warm?",
+   "Why could Kuyil not say 'kaa' like her brothers?",
+   "How did Meenakshi's grandmother know that one chick was not a crow?",
+   "Why did Amma chase Kuyil away at the end?",
+   "At the end, Kuyil watches the crows' nest and waits. What do you think she is waiting to do?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Feathers make a bird a bird.",
+   "more": "Only birds have feathers. Feathers help birds fly, stay warm, stay dry and find a mate. A bird who cannot fly, like the ostrich, is still a bird."
+  },
+  {
+   "idea": "A bird's body fits the bird's life.",
+   "more": "The shape of a beak shows what a bird eats, and the shape of the feet shows where the bird lives. Light, hollow bones help birds fly."
+  },
+  {
+   "idea": "Birds think, remember and travel.",
+   "more": "Crows remember faces and teach their young. Some birds fly thousands of kilometres every year and find their way back. Birds are the dinosaurs who are still alive."
+  }
+ ],
+ "unknowns": [
+  "How do migrating birds find their way across thousands of kilometres? Scientists know they use the Sun, the stars, landmarks and the Earth's magnetism, but not exactly how all of this works together.",
+  "Why are fewer house sparrows seen in many Indian cities? Scientists have several ideas, such as fewer nesting holes in new buildings and fewer insects for the chicks, but they do not yet know for sure.",
+  "What is it like to be a bird, flying high or singing in the morning? We can watch what birds do, but nobody knows what it feels like from the inside."
+ ]
+}

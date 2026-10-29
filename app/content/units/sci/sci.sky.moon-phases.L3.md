@@ -106,7 +106,7 @@ Aryabhata lived in Kusumapura, near today's Patna. In his book, the Aryabhatiya,
 ### Wang Zhenyi's garden eclipse · *defined*
 **Definition:** Wang Zhenyi, a young Chinese astronomer who lived from 1768 to 1797, explained lunar eclipses with a model made from a lamp, a round table and a mirror.
 
-In Wang Zhenyi's time in China, girls were not supposed to study. Her grandfather had a big library, and she read his books on astronomy. She taught herself mathematics. Many people then believed a heavenly dog ate the Moon during an eclipse, and they banged drums and gongs to scare it away. Wang Zhenyi wanted to show what really happened. In a garden pavilion, she hung a lamp from the roof as the Sun. A round table was the Earth. A round mirror was the Moon. She moved them until the table's shadow fell on the mirror, just as the Earth's shadow falls on the Moon. She wrote about it in an essay explaining the lunar eclipse. She wrote about a dozen books on astronomy and mathematics before she died, aged only 29. She also wrote poems arguing that daughters can be as heroic as sons.
+In Wang Zhenyi's time in China, girls were not supposed to study. Her grandfather had a big library, and she read his books on astronomy. She taught herself mathematics. Many people then believed a heavenly dog ate the Moon during an eclipse, and they banged drums and gongs to scare the dog away. Wang Zhenyi wanted to show what really happened. In a garden pavilion, she hung a lamp from the roof as the Sun. A round table was the Earth. A round mirror was the Moon. She moved them until the table's shadow fell on the mirror, just as the Earth's shadow falls on the Moon. She wrote about it in an essay explaining the lunar eclipse. She wrote about a dozen books on astronomy and mathematics before she died, aged only 29. She also wrote poems arguing that daughters can be as heroic as sons.
 - e.g. You can make her model at home with a lamp, a big ball and a small ball.
 - e.g. A crater on the planet Venus is named after Wang Zhenyi.
 ### What eclipses taught science · *defined*
@@ -217,7 +217,7 @@ I was seven that autumn. Zhenyi was sixteen, and the cleverest person in our hou
 
 Down in the courtyard, everyone was ready. Old Wu the cook had his biggest pan and a ladle. My uncles had the gong from the gatehouse. My mother had a little drum, and her hands were shaking. Above the roofs hung the full Moon, round and white as a steamed bun.
 
-'When the dog bites,' my mother told me, 'we make so much noise that it spits the Moon out again. It has always worked.'
+'When the dog bites,' my mother told me, 'we make so much noise that the dog spits the Moon out again. It has always worked.'
 
 That was true. Every time anyone could remember, the dog had bitten, the people had banged their pans, and the Moon had come back.
 

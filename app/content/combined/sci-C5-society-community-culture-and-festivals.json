@@ -1,0 +1,1415 @@
+{
+ "key": "combined|sci|5|society-community-culture-and-festivals",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "society-community-culture-and-festivals",
+ "title": "Culture, heritage and democracy: how a country of many peoples lives together",
+ "source": "DeepKids Combined. Covers NCERT Class 5 'Our Vibrant Country' (Republic Day, national symbols, currency, languages, clothing, dance and music, unity in diversity) and NIOS Class 5 Lessons 1 to 4 and 6 (culture and heritage and their conservation, natural heritage, peace, unity and harmony with Ashoka and Akbar, social issues, the freedom struggle, democracy and public administration). No textbook needed.",
+ "summary": "India has more than 120 languages, every major religion and thousands of festivals, and yet works as one country. How? Your child builds paper towers in a chain to see how culture piles up, watches acid eat a shell the way polluted air eats marble, and makes a drum to hear why a tight skin sounds higher. They decode where everyday words came from, make salt as the Dandi marchers did, and use coin tosses to see how numbers can reveal unfairness to girls. They find out that the voting rule can change the winner, and why a country chose to give every adult one equal vote.",
+ "builds_on": "Class 3 'Society, community, culture and festivals': the breakfast chain of many helpers, sharing out work, public services, shared things and their rules, ant and bee colonies, culture as something learned (the Koshima monkeys), Sun and Moon calendars, India's symbols and three rights in law. There is no Class 4 rung written yet. This rung goes deeper: how culture accumulates, heritage and why it wears away, why diversity can make a community stronger, how people of many faiths have lived together, the freedom struggle, fairness between girls and boys, and how a democracy is run. Middle school goes on to history, civics and the Constitution in detail.",
+ "subconcepts": [
+  "culture: the seen and unseen ways of living that are learned, piled up, changed and varied",
+  "cumulative culture: each generation keeps what worked and adds to it",
+  "cultural and natural heritage, and why both need protecting",
+  "how acid from polluted air wears away marble and limestone",
+  "India's languages and language families",
+  "diversity in dress, music and dance, and how a drum's tightness sets its pitch",
+  "unity in diversity: why a varied community can be steadier",
+  "cultures borrow from each other: travelling words",
+  "Ashoka and Akbar: respect between faiths, and how historians know from evidence",
+  "prejudice, and how working together as equals reduces it",
+  "the freedom struggle: from trade to rule to independence, with people from every region",
+  "equal rights for girls and women: education, small families, dowry and the law",
+  "chance and large numbers: how the sex ratio shows that girls are missing",
+  "democracy: the equal vote, voting rules, the three organs of government, panchayats and town councils",
+  "Republic Day, the Constitution, national symbols and the currency people trust"
+ ],
+ "goals": [
+  "By the end your child can explain what culture is, sort examples into seen and unseen culture, and show with their tower test how culture piles up over generations.",
+  "By the end your child can name examples of cultural and natural heritage, explain how polluted air damages marble, and say who protects heritage.",
+  "By the end your child can show that Indian languages fall into families, explain why India is so varied, and explain how a drum's tightness changes its pitch.",
+  "By the end your child can tell how Ashoka and Akbar tried to build respect between faiths, how we know, and what the evidence says about meeting people who are different.",
+  "By the end your child can tell the main story of the freedom struggle in order, with people from at least four regions, and explain the Salt March.",
+  "By the end your child can explain, using coin tosses and census numbers, why fewer girls than nature gives is a sign of unfairness, and name laws that protect girls and women.",
+  "By the end your child can explain democracy, the three organs of government and village and town government, and show that a voting rule can change a result."
+ ],
+ "words": [
+  [
+   "culture",
+   "the ways of living that people learn from each other and pass on: language, food, dress, songs, festivals, beliefs and skills"
+  ],
+  [
+   "heritage",
+   "what one generation receives from the ones before and passes on, like a temple, a song, a forest or a river"
+  ],
+  [
+   "diversity",
+   "many different kinds living together, like many languages in one country or many plants in one forest"
+  ],
+  [
+   "pitch",
+   "how high or low a sound is. A tight drum skin vibrates faster and gives a higher pitch."
+  ],
+  [
+   "edict",
+   "an order or message from a ruler. Ashoka had his edicts carved on rocks and pillars."
+  ],
+  [
+   "prejudice",
+   "disliking or fearing a group of people before you know them"
+  ],
+  [
+   "satyagraha",
+   "Gandhiji's word for resisting what is wrong firmly but without violence. It means 'holding on to truth'."
+  ],
+  [
+   "sex ratio",
+   "the number of girls or women for every 1,000 boys or men"
+  ],
+  [
+   "democracy",
+   "a way of running a country where the people choose the government by voting"
+  ],
+  [
+   "constitution",
+   "the main book of rules of a country. It says how the government is chosen and what rights every person has."
+  ],
+  [
+   "panchayat",
+   "the elected council that runs a village. In a town, the elected body is a municipality or corporation."
+  ],
+  [
+   "Republic Day",
+   "26 January. On this day in 1950, India's Constitution came into force and India became a republic, with an elected head of state."
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Culture piles up",
+   "goal": "Recall Class 3, read the story, find seen and unseen culture at home, and test how culture builds up over generations.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What we found in Class 3",
+     "mins": 5,
+     "do": "Ask: 'In Class 3, who helped make your breakfast?' Good answers: the cook, the shopkeeper, the miller, the truck driver, the farmer. Ask: 'What did the young monkey Imo on Koshima island do, and how did the others learn it?' (She washed sweet potatoes in water. Other monkeys watched and copied her, so it spread.) Say: 'Things that are learned and passed on are called culture. This week we look at the culture of a whole country, and at how millions of different people live together and run the country.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: Her Own Name",
+     "mins": 12,
+     "do": "Read the story aloud. It is set in 1951, in a village near Thanjavur, when India got ready for its first election. Don't explain it. Ask only: 'Why did Valli say her own name to the clerk?' Write down your child's answer. You will come back to it on Day 7."
+    },
+    {
+     "kind": "act",
+     "title": "Seen and unseen culture hunt",
+     "mins": 13,
+     "ref": "a1",
+     "do": "Do Activity a1. Say first: 'Some culture you can touch: a steel tumbler, a kolam, a sari, a temple. That is seen culture. Some you can't touch: our language, a lullaby, how we greet elders, a recipe in someone's head. That is unseen culture.' Your child finds 6 seen and 6 unseen things at home and writes them in two columns. Then ask four questions, one for each feature of culture. 'Who taught you this?' (Culture is learned.) 'Is it older than Paati?' (It piles up over time.) 'Did Paati do it the same way?' (It changes.) 'Does our neighbour's family do it the same way?' (It varies.) Keep the page for the project."
+    },
+    {
+     "kind": "exp",
+     "title": "The tower chain",
+     "mins": 15,
+     "ref": "e1",
+     "do": "Do Experiment e1 with at least one other person. Ask first: 'If each new builder sees the last tower and hears one tip, will the towers get taller, shorter or stay the same? Why do you think so?' Write the guess. Build three rounds of 3 minutes each and measure every tower. Then ask: 'Which ideas were kept from round to round?' Good answers: rolling the paper into tubes, a wide base, taping joints. Say: 'People don't start from nothing. Each generation keeps what worked and adds a little. Scientists call this cumulative culture. It is why a child today can use a phone that nobody alive could have invented alone.'"
+    }
+   ],
+   "need": [
+    "paper and pencils",
+    "6 sheets of old newspaper",
+    "sticky tape",
+    "a measuring tape or ruler"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Heritage: what we receive and must look after",
+   "goal": "Understand cultural and natural heritage, see how acid wears away stone, and find the heritage near home.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The oldest thing at home",
+     "mins": 5,
+     "do": "Ask your child to find the oldest object in your home: an uruli, a brass lamp, a photo, a saree, a book. Ask: 'Who did it belong to first? What is its story?' Write it as a project page. Say: 'Things we receive from the people before us are our heritage. Some heritage belongs to a family. Some belongs to the whole country, or the whole world.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Cultural and natural heritage",
+     "mins": 12,
+     "do": "Say: 'Cultural heritage is what people made: the Brihadisvara temple in Thanjavur, built about 1,000 years ago, the ruins of Hampi, the Sun temple at Konark, the Qutub Minar in Delhi, Carnatic music, Kathakali, the skill of weaving Kanchipuram silk. Natural heritage is what nature made: the Western Ghats, the Sundarbans mangroves, the Ganga, the elephants and tigers.' Ask: 'Which is more important to protect, a temple or a forest?' Listen to the reason. Then say: 'UNESCO, a part of the United Nations, keeps a list of World Heritage Sites. India has more than 40, both cultural and natural. The Western Ghats are on it because so many plants and animals live there and nowhere else.' Ask: 'A forest is heritage for us. Whose home is it first?' (The animals, plants, fungi and forest peoples who live there.)"
+    },
+    {
+     "kind": "exp",
+     "title": "Acid and stone",
+     "mins": 12,
+     "ref": "e2",
+     "do": "Do Experiment e2. Ask first: 'Will vinegar do anything to a piece of shell or marble? Will plain water?' Write both guesses. Drop the pieces in and watch for 2 minutes. Ask: 'What are the bubbles?' Let your child guess, then explain from the experiment's 'why'. Say: 'Smoke from factories and vehicles makes the rain and the air slightly acid. Over many years it roughens and stains marble buildings like the Taj Mahal.' Leave the glasses until tomorrow morning."
+    },
+    {
+     "kind": "act",
+     "title": "Heritage near us",
+     "mins": 16,
+     "ref": "a2",
+     "do": "Do Activity a2. Your child chooses one cultural heritage and one natural heritage near your home. Use a phone map if needed: a temple, a church, a mosque, an old market, a lake, a hill, a big old tree, a sacred grove. For each, they write who made or keeps it, what harms it, and who protects it. Good answers: the Archaeological Survey of India protects many monuments, the forest department protects forests, and in Kerala some families have kept their sacred groves, called kavu, uncut for generations. Ask: 'What can one person do?' Good answers: don't scratch names on walls, don't litter, visit and learn about it, tell others."
+    }
+   ],
+   "need": [
+    "vinegar (half a glass)",
+    "2 glasses",
+    "2 pieces of eggshell, seashell or marble chip",
+    "paper and pencils",
+    "a phone map (optional)"
+   ],
+   "prep": [
+    {
+     "task": "Ask 6 to 8 relatives or friends who speak different Indian languages to send a voice note saying four words: water, mother, three, fish (for Day 3)",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Many languages, many sounds",
+   "goal": "Find out that Indian languages come in families, why India is so varied, and how a drum makes high and low sounds.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Language families: a sound test",
+     "mins": 15,
+     "ref": "e3",
+     "do": "First look at yesterday's glasses for 1 minute: the shell in vinegar is softer and smaller, the one in water is unchanged. Then do Experiment e3 with the voice notes you collected. Ask first: 'Will every language have a completely different word, or will some sound alike?' Fill the table and colour words that sound alike. Ask: 'Which languages keep matching?' Good answer: Tamil, Telugu, Kannada and Malayalam make one group, and Hindi, Marathi and Bengali make another. Say: 'These groups are language families. Tamil, Telugu, Kannada and Malayalam are Dravidian languages. Hindi, Bengali and Marathi are Indo-Aryan languages. Languages in one family grew from one older language, the way cousins come from the same grandparents.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Why is India so varied?",
+     "mins": 12,
+     "ref": "v1",
+     "do": "Say: 'The 2011 Census found 121 languages in India spoken by 10,000 people or more. The Constitution lists 22 of them. India is huge, with snowy mountains, deserts, rainforests and long coasts, so people grew different crops, wore different clothes and built different homes. Over thousands of years, people also arrived from other lands and mixed with those already here.' Then ask: 'Is a mix of many kinds weaker or stronger than one kind?' Listen. Tell Voice v1, about David Tilman's grass plots and the drought. Ask: 'Why might a field of many kinds of grass survive a dry year better?' (Some kinds survive dry weather, so they keep growing when others fail.) Say: 'Scientists still argue about how far this holds, and whether it applies to people. But a country with many skills, foods and ways of thinking has more ways to meet a problem.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Make a drum",
+     "mins": 12,
+     "ref": "e4",
+     "do": "Do Experiment e4. Ask first: 'If the drum skin is pulled tighter, will the sound get higher or lower? Why do you think so?' Write the guess. Test it. Say: 'A tighter skin vibrates faster. Faster vibration gives a higher pitch. That is why a mridangam player taps the straps to tune the drum, and a tabla player taps the small wooden blocks with a hammer.' Ask: 'Why does the big steel bowl drum sound lower than the small tumbler drum?' (A bigger skin vibrates more slowly.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Dances of India",
+     "mins": 6,
+     "do": "Name each dance and its state, and your child does one move they have seen in each: Bharatanatyam from Tamil Nadu (bent knees, stamping feet), Kathakali from Kerala (big eye movements), Kuchipudi from Andhra Pradesh, Yakshagana from Karnataka, Bihu from Assam, Garba from Gujarat (clapping in a circle), Bhangra from Punjab (arms up, shoulders bouncing). Ask: 'Every dance here has a drum. Why do you think dances need a beat?' (So that everyone moves together.)"
+    }
+   ],
+   "need": [
+    "the voice notes",
+    "paper and coloured pens",
+    "a steel tumbler and a wide steel bowl",
+    "a balloon or a strong plastic bag",
+    "2 rubber bands",
+    "scissors"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Living together: words, emperors and neighbours",
+   "goal": "Find out how cultures borrow from each other, how two emperors tried to build respect between faiths, and what reduces prejudice.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Travelling words",
+     "mins": 12,
+     "ref": "a3",
+     "do": "Do Activity a3. Read each word aloud with its meaning. Your child sorts the slips into 'always from here' and 'came from far away'. Then reveal the answers. Ask: 'Which surprised you most?' Then say: 'Words travel the other way too. Kattumaram, the Tamil word for a raft of tied logs, became catamaran in English. Bangla, a Bengali house, became bungalow.' Ask: 'Is a language that borrows words weaker or richer?' Listen to the reason."
+    },
+    {
+     "kind": "talk",
+     "title": "Ashoka, Akbar and the rocks that speak",
+     "mins": 12,
+     "ref": "v2",
+     "do": "Tell Voice v2. Say: 'About 2,300 years ago, Emperor Ashoka fought a war in Kalinga, which is in today's Odisha. His own words, carved on a rock, say that a hundred thousand people were killed. He wrote that he felt deep sorrow. After that he asked people to follow Dhamma: kindness, truth and respect for all faiths.' Read his line from Rock Edict 12 in plain words: 'Whoever praises only his own faith and puts down others harms his own faith.' Then say: 'Nobody could read his letters until 1837, when James Prinsep worked out the script. An edict found at Maski in Karnataka in 1915 named him Ashoka.' Then say: 'About 1,800 years after Ashoka, the Mughal emperor Akbar held debates at Fatehpur Sikri between Hindu, Muslim, Jain, Zoroastrian and Christian scholars. He called his rule sulh-i-kul, peace with all.' Ask: 'Ashoka also warned forest peoples that he could still punish them. Does that change what you think of him?' There is no single right answer."
+    },
+    {
+     "kind": "think",
+     "title": "Does meeting people change minds?",
+     "mins": 8,
+     "ref": "v3",
+     "do": "Tell Voice v3. Say: 'Prejudice means disliking or fearing a group of people before you know them.' Ask: 'Gordon Allport said meeting helps, but only in a certain way. What way?' (As equals, working for a shared goal, with the people in charge supporting it.) Ask: 'In which places do children from different families work together as equals?' Good answers: a school team, a building's Ganesh or Onam celebration, a cricket match, a dance class. Ask: 'What kind of meeting might make things worse?' (One where one side is treated as lower, or where they are forced to compete.)"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 13,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1 (core). Read each question aloud if needed. For the two 'write' items, your child can answer aloud while you write. If an answer about seen and unseen culture is wrong, go back to the hunt page from Day 1."
+    }
+   ],
+   "need": [
+    "12 word slips (see Activity a3)",
+    "the worksheet",
+    "pencils"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The freedom struggle",
+   "goal": "Follow how a trading company came to rule India and how Indians from every region won freedom, mostly without violence.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "From traders to rulers to freedom",
+     "mins": 12,
+     "do": "Ask first: 'Why would traders sail for months to reach India?' (Spices like pepper from Kerala, and fine cotton cloth.) Say: 'In 1600 a group of English merchants formed the East India Company to trade with India. In 1757 the Company's army won the Battle of Plassey in Bengal, and slowly it took over more and more land. It taxed farmers heavily, and cheap cloth made in British factories ruined many Indian weavers. In 1857 soldiers and rulers rose up, among them Rani Lakshmibai of Jhansi. The revolt was crushed, and the British government took over from the Company. In 1885 the Indian National Congress was formed. From 1917 Gandhiji led movements without violence. He called this satyagraha: refusing to obey an unfair law, and accepting the punishment. On 15 August 1947 India became free. It was also divided, and Pakistan was formed. Millions of people had to leave their homes in the Partition.' Ask: 'Why would refusing to obey, without fighting, work against an army?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Make salt like the Dandi marchers",
+     "mins": 10,
+     "ref": "e5",
+     "do": "Do Experiment e5. Say first: 'The British government taxed salt, and Indians were not allowed to make their own. In 1930 Gandhiji walked from Sabarmati to Dandi, by the sea in Gujarat, and picked up natural salt, breaking the law. In Tamil Nadu, C. Rajagopalachari led a march to Vedaranyam on the coast in April 1930 and did the same.' Ask: 'How can we get salt out of salt water?' Write the guess, then do the steps. Ask: 'Why was salt such a clever choice for a protest?' (Everyone needs salt, rich and poor, and anyone can make it from sea water.)"
+    },
+    {
+     "kind": "act",
+     "title": "A timeline to scale",
+     "mins": 13,
+     "ref": "a4",
+     "do": "Do Activity a4. Your child draws a line 35 cm long, where 1 cm means 10 years, from 1600 to 1950. They mark the events from today's talk. Ask: 'How long did the Company and the British rule parts of India, from Plassey to freedom?' (190 years. 1947 minus 1757 is 190.) 'Which part of the line is crowded?' (1917 to 1947.) 'The Dandi march took 24 days and covered about 385 km. About how far did the marchers walk each day?' (About 16 km. 385 divided by 24 is a little over 16.)"
+    },
+    {
+     "kind": "think",
+     "title": "Who is missing from the story?",
+     "mins": 10,
+     "do": "Say: 'Freedom fighters came from every region.' Tell each in one line. Velu Nachiyar, queen of Sivaganga in Tamil Nadu, fought the Company and won back her kingdom in 1780. Kittur Chennamma, queen of Kittur in Karnataka, fought the Company's army in 1824. V.O. Chidambaram Pillai of Thoothukudi started an Indian shipping company in 1906 to compete with British ships. Alluri Sitarama Raju led forest people in Andhra in the 1920s. Rani Gaidinliu, a Naga girl from Manipur, was jailed for years for fighting British rule. The chemist Prafulla Chandra Ray started Bengal Chemicals in 1901, so that Indians could make their own medicines. Aruna Asaf Ali raised the flag in Bombay in 1942 when the leaders were arrested. Ask: 'Why do you think most people can name Gandhiji, Nehru and Bhagat Singh, but not Velu Nachiyar or Rani Gaidinliu?' Ask: 'Who gets remembered, and who decides?' Your child adds one freedom fighter from your own state to the project."
+    }
+   ],
+   "need": [
+    "2 teaspoons of salt",
+    "a cup of warm water",
+    "a wide steel plate",
+    "a steel spoon",
+    "a gas stove or candle (adult only)",
+    "a long sheet of paper, a ruler and pencil"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Fair for girls and boys",
+   "goal": "Use coin tosses and census numbers to see unfairness to girls, and look at education, chores, dowry and the law.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Coin tosses and the missing girls",
+     "mins": 15,
+     "ref": "e6",
+     "do": "Do Experiment e6. Ask first: 'In 100 coin tosses, will heads and tails be exactly equal, nearly equal, or very different?' Write the guess. Toss and tally. Then show the census numbers. Ask: 'In 1961 India counted 976 girls for every 1,000 boys under 7. In 2011 it was 918. Nature gives about 950. Can bad luck explain 918 in a country of crores of babies?' (No. With such huge numbers, chance evens out. So people must be causing the gap.) Say gently: 'Some families wanted sons so much that girls were not allowed to be born, or girls were cared for less when they were ill. Since 1994 the law forbids doctors from telling parents whether an unborn baby is a boy or a girl.'"
+    },
+    {
+     "kind": "talk",
+     "title": "School for every girl",
+     "mins": 12,
+     "do": "Say: 'In 1961 only about 15 out of every 100 women in India could read and write, and about 40 out of 100 men. By 2011 it was about 65 women and 82 men. In Kerala, about 92 out of every 100 women could read.' Ask: 'Why did the gap between men and women shrink?' (More schools, laws, families sending girls to school.) Say: 'Savitribai Phule opened schools for girls in Pune in 1848, when people threw mud at her on the way. Today Indian women lead science. Gagandeep Kang helped develop Rotavac, an Indian vaccine against a stomach virus that kills babies.' Then say: 'Two old customs hurt families. Dowry means the bride's family has to give money and gifts to the groom's family. It has been against the law since 1961. Very large families, when money is short, mean less food, care and schooling for each child.' Ask: 'Why should a girl and a boy have exactly the same rights?' Listen for a reason."
+    },
+    {
+     "kind": "act",
+     "title": "Who does what at home?",
+     "mins": 12,
+     "ref": "a5",
+     "do": "Do Activity a5. Your child lists 10 jobs done at home in one day and writes who does each one. Count the jobs for each person. Ask: 'Is the work shared fairly? Who works without being paid?' Say: 'Cooking, cleaning and caring for children and elders is real work, even with no salary. Without it, nobody else could go to work or school.' Your child suggests one job they will take on this week."
+    },
+    {
+     "kind": "think",
+     "title": "What a number can show",
+     "mins": 6,
+     "do": "Ask: 'How did a coin help us understand something about real families?' Good answer: with big numbers, chance evens out, so when a big number like 918 is far from nature's number, something people did must be the cause. Ask: 'What other unfairness could be found by counting?' Good answers: who is in the cricket team, whose names are in the history book, who does the chores."
+    }
+   ],
+   "need": [
+    "a coin",
+    "a tally sheet",
+    "paper and pencils"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Every adult, one vote",
+   "goal": "Find out how a voting rule can change a winner, how India governs itself, and why women leaders matter.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Does the voting rule change the winner?",
+     "mins": 15,
+     "ref": "e7",
+     "do": "Do Experiment e7 with the family. Ask first: 'If we vote twice in two different ways, will the same dish win?' Write the guess. Hold Round 1 and Round 2 and count aloud. Ask: 'Did the Round 1 winner have more than half the votes?' Say: 'In Lok Sabha elections India uses the rule of Round 1: the candidate with the most votes wins, even with less than half. Every rule has some weakness, so the rules are fixed in law before the vote, the same for everyone.'"
+    },
+    {
+     "kind": "talk",
+     "title": "How India governs itself",
+     "mins": 12,
+     "do": "Go back to the story. Ask: 'Remember Valli, who said her name to the clerk. Why was the vote hers and not her husband's?' (A vote is given to one person.) Say: 'In a democracy, the people choose the government. India's Constitution came into force on 26 January 1950. It gave every adult one vote, rich or poor, woman or man, able to read or not. Today you can vote at 18. The government has three parts. Parliament makes laws: the Lok Sabha, with 543 elected members, and the Rajya Sabha. The executive carries out the laws: the President, the Prime Minister, the ministers and the officials. The courts decide whether the laws were kept, with the Supreme Court at the top.' Then say: 'A village is run by a gram panchayat, chosen by all the adults of the village, who meet as the gram sabha. A town has a municipality and a city has a corporation, made of councillors, one for each ward.' Ask: 'Why have three separate parts instead of one?' (So that no one part has all the power.)"
+    },
+    {
+     "kind": "think",
+     "title": "Do women leaders change things?",
+     "mins": 8,
+     "ref": "v4",
+     "do": "Tell Voice v4. Say: 'Since 1993, at least one third of panchayat seats must go to women. In some villages the seat for a woman leader was picked by lottery, so researchers could compare villages fairly.' Ask: 'Why does a lottery make the comparison fair?' (The villages with women leaders were picked by chance, not because they were already different.) Ask: 'Women in those villages had asked most for drinking water. Why might that be?' (Women and girls usually fetched the water.)"
+    },
+    {
+     "kind": "act",
+     "title": "Who represents us?",
+     "mins": 10,
+     "ref": "a6",
+     "do": "Do Activity a6. With a phone, find your ward and councillor, or your panchayat president, and your MLA and MP. Your child writes their names and what each one is for. Ask: 'If the streetlight in our lane is broken, who should we tell?' (The ward councillor or the municipal office, or the panchayat in a village.)"
+    }
+   ],
+   "need": [
+    "paper slips and a box",
+    "at least 5 voters, or pre-written voter cards",
+    "a phone"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Symbols and money we trust",
+   "goal": "Read a banknote closely, learn the national symbols and Republic Day, and play the Republic game.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Hidden features of a banknote",
+     "mins": 13,
+     "ref": "e8",
+     "do": "Do Experiment e8. Ask first: 'What might you see if you hold a note up to the light?' Then look. Find the monument on the back of each note: the Konark Sun temple on ₹10, the Ellora caves on ₹20, the stone chariot of Hampi on ₹50, the Rani ki Vav stepwell on ₹100, the Sanchi stupa on ₹200 and the Red Fort on ₹500. Count the languages in the panel on the back. Ask: 'Why make a note so hard to copy?' (So that people can trust it. A note is only paper, but everyone agrees what it is worth.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Symbols of one country",
+     "mins": 10,
+     "do": "Show the four lions on a coin or note. Say: 'This is the national emblem. It comes from a pillar Ashoka set up at Sarnath. Below it is written Satyameva Jayate, truth alone wins.' Then name together: the anthem Jana Gana Mana by Rabindranath Tagore, the song Vande Mataram by Bankim Chandra Chattopadhyay, the tiger, the peacock, the lotus, the banyan tree and the Ganges river dolphin. Say: 'The rupee sign ₹ was designed by D. Udaya Kumar from Tamil Nadu and chosen in 2010.' Ask: 'Why is Republic Day on 26 January?' (On that date in 1950 the Constitution came into force. 26 January was chosen because on that day in 1930 the Congress had called for full freedom.) Ask: 'Why does a country of so many languages need shared symbols?'"
+    },
+    {
+     "kind": "game",
+     "title": "Keep the Republic",
+     "mins": 22,
+     "ref": "g1",
+     "do": "Play Game g1 on the printed board, with everyone playing as one team. On each event square, the player reads it aloud and says what happens next and why. The others decide if the reason makes sense. Play until the team reaches HOME or for 20 minutes. Afterwards ask: 'Which squares helped the Republic most? Which hurt it most?'"
+    }
+   ],
+   "need": [
+    "banknotes of different values",
+    "a window or torch",
+    "a magnifying glass if you have one",
+    "a coin",
+    "the printed game board, a die, a counter and 5 beans"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Review and teach it back",
+   "goal": "Finish the family culture book, do the stretch and challenge worksheets, check, and teach it back.",
+   "steps": [
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 12,
+     "ref": "ws2",
+     "do": "Do Worksheet ws2 (stretch). Use the timeline from Day 5 and the chores list from Day 6 for help. Read the questions aloud if needed."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "ref": "ws3",
+     "do": "Do as much of Worksheet ws3 (challenge) as time allows. In the 'write' items there is no single right answer. Listen for reasons that use what your child tested or heard this week."
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 8,
+     "do": "Ask the check questions aloud, one at a time. Tick the ones answered well. For any missed answer, look again at the page in the family culture book from that day, then ask in other words."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 13,
+     "do": "Your child shows the family culture book to the family and teaches three things: how culture piles up (the tower chain), why a coin can show that girls are missing, and why every adult gets one equal vote. Then ask: 'If you could add one new right to the Constitution, what would it be, and why?' Write the answer as the last page of the book."
+    }
+   ],
+   "need": [
+    "the worksheets",
+    "the family culture book",
+    "the timeline and the chores list"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Culture, heritage and languages",
+   "day": 4,
+   "sections": [
+    [
+     "A. What culture is",
+     [
+      {
+       "t": "sort",
+       "p": "Sort each one. Is it seen culture (you can touch it) or unseen culture (you can't touch it)?",
+       "items": [
+        "a brass lamp",
+        "the Tamil language",
+        "a kolam at the door",
+        "a lullaby",
+        "a Kanchipuram silk sari",
+        "touching an elder's feet",
+        "a temple",
+        "a family recipe Paati knows by heart"
+       ],
+       "cats": [
+        "seen culture",
+        "unseen culture"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Meenakshi rolled paper into tubes in round 1 of the tower chain. In round 2, her brother copied the tubes and added a wide base. What does this show?",
+       "opts": [
+        "culture piles up: each builder keeps what worked and adds to it",
+        "towers grow by themselves",
+        "the second builder was cleverer"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Culture is not in our genes. It is ____ from other people.",
+       "a": [
+        "learned",
+        "learnt",
+        "learned and passed on"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Heritage",
+     [
+      {
+       "t": "sort",
+       "p": "Sort each one into cultural heritage (made by people) or natural heritage (made by nature).",
+       "items": [
+        "the Brihadisvara temple",
+        "the Western Ghats",
+        "Carnatic music",
+        "the Sundarbans mangroves",
+        "the ruins of Hampi",
+        "the river Ganga"
+       ],
+       "cats": [
+        "cultural heritage",
+        "natural heritage"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Kavya puts a piece of shell in vinegar and another piece in water. Tiny bubbles stream off the shell in vinegar. What are the bubbles?",
+       "opts": [
+        "carbon dioxide gas, made when the acid breaks down the shell",
+        "air that was trapped in the glass",
+        "steam, because vinegar is hot"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "The Taj Mahal is made of marble. Use the vinegar test to explain why smoke from nearby factories could harm it.",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "C. Languages and sounds",
+     [
+      {
+       "t": "match",
+       "p": "Match the word for 'three' to its language.",
+       "pairs": [
+        [
+         "moonu",
+         "Tamil"
+        ],
+        [
+         "moodu",
+         "Telugu"
+        ],
+        [
+         "mooru",
+         "Kannada"
+        ],
+        [
+         "teen",
+         "Hindi"
+        ],
+        [
+         "tin",
+         "Bengali"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Tamil, Telugu, Kannada and Malayalam share many sounds, like the word for three. What does this tell us?",
+       "opts": [
+        "they grew from one older language, so they are a language family",
+        "people copied each other's words last year",
+        "it is only luck"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi stretches a balloon over a tumbler. She pulls it tighter and taps it. What happens to the sound?",
+       "opts": [
+        "it gets higher, because the skin vibrates faster",
+        "it gets lower, because the skin is heavier",
+        "nothing changes"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "India has more than 120 languages. Give two reasons why one country has so many.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Freedom, fairness and the vote",
+   "day": 9,
+   "sections": [
+    [
+     "A. The freedom struggle",
+     [
+      {
+       "t": "sort",
+       "p": "Put these in time order. Sort each into the right century.",
+       "items": [
+        "the East India Company is formed",
+        "the Battle of Plassey",
+        "the revolt of 1857",
+        "the Indian National Congress is formed",
+        "the Salt March",
+        "Independence and Partition"
+       ],
+       "cats": [
+        "1600s and 1700s",
+        "1800s",
+        "1900s"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each freedom fighter to what they did.",
+       "pairs": [
+        [
+         "Velu Nachiyar",
+         "won back Sivaganga from the Company in 1780"
+        ],
+        [
+         "Kittur Chennamma",
+         "fought the Company's army in Karnataka in 1824"
+        ],
+        [
+         "V.O. Chidambaram Pillai",
+         "started an Indian shipping company in Thoothukudi"
+        ],
+        [
+         "Rani Gaidinliu",
+         "a Naga girl jailed for fighting British rule"
+        ],
+        [
+         "Aruna Asaf Ali",
+         "raised the flag in Bombay in 1942"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "The Dandi march covered about 385 km in 24 days. About how far did the marchers walk each day?",
+       "opts": [
+        "about 16 km",
+        "about 50 km",
+        "about 4 km"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Why was making salt a clever way to protest? Give two reasons.",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "B. Fair for girls and boys",
+     [
+      {
+       "t": "mcq",
+       "p": "Arjun tosses a coin 10 times and gets 7 heads. Kavya tosses it 1,000 times. Whose result will be closer to half heads?",
+       "opts": [
+        "Kavya's, because with more tosses, chance evens out",
+        "Arjun's, because he tossed fewer times",
+        "both will be exactly half"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "India's 2011 Census counted 918 girls for every 1,000 boys under 7. Nature gives about 950. So about ____ girls were missing for every 1,000 boys.",
+       "a": [
+        "32",
+        "thirty-two"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Farhan says the low number of girls is just bad luck. Use the coin test to explain why he is wrong.",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "C. Democracy",
+     [
+      {
+       "t": "match",
+       "p": "Match each part of government to its job.",
+       "pairs": [
+        [
+         "Parliament",
+         "makes laws"
+        ],
+        [
+         "the executive (Prime Minister, ministers and officials)",
+         "carries out the laws"
+        ],
+        [
+         "the courts",
+         "decide whether the laws were kept"
+        ],
+        [
+         "the gram panchayat",
+         "runs a village"
+        ],
+        [
+         "the ward councillor",
+         "speaks for one part of a town"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In a family vote, idli gets 4 votes, poori gets 3 and pongal gets 3. The rule is 'most votes wins'. What is true?",
+       "opts": [
+        "idli wins, even though 6 of the 10 voters chose something else",
+        "nobody wins",
+        "pongal wins because it is a festival dish"
+       ],
+       "a": 0
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking harder",
+   "day": 9,
+   "sections": [
+    [
+     "A. Evidence and history",
+     [
+      {
+       "t": "mcq",
+       "p": "For centuries nobody could read Ashoka's edicts. What finally proved that the king called 'Piyadasi' in the edicts was Ashoka?",
+       "opts": [
+        "an edict found at Maski in Karnataka that used both names",
+        "a painting of Ashoka",
+        "a story told by grandparents"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Ashoka's Rock Edict 13 says he was sorry for the war in Kalinga, but also warns forest peoples that he can still punish them. What is the fairest conclusion?",
+       "opts": [
+        "he turned towards peace but did not give up power completely",
+        "he never felt sorry",
+        "he gave up his army"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Most people can name Gandhiji but not Velu Nachiyar. Give two reasons why some people are remembered and others forgotten.",
+       "lines": 4
+      }
+     ]
+    ],
+    [
+     "B. Diversity and harmony",
+     [
+      {
+       "t": "mcq",
+       "p": "In David Tilman's experiment, which grass plots kept growing best through a drought?",
+       "opts": [
+        "plots with many kinds of plants",
+        "plots with only one kind of plant",
+        "plots with no plants"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Gordon Allport said meeting people of another group reduces prejudice best when...",
+       "opts": [
+        "they meet as equals and work towards a shared goal",
+        "one group is in charge of the other",
+        "they compete for a prize"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each travelling word to where it came from.",
+       "pairs": [
+        [
+         "saavi (key)",
+         "Portuguese"
+        ],
+        [
+         "kitab (book)",
+         "Arabic"
+        ],
+        [
+         "darwaza (door)",
+         "Persian"
+        ],
+        [
+         "catamaran",
+         "Tamil"
+        ],
+        [
+         "bungalow",
+         "Bengali"
+        ]
+       ]
+      },
+      {
+       "t": "write",
+       "p": "A field of many kinds of grass survives a drought better than a field of one kind. Do you think the same is true of a country with many cultures? Give a reason for and a reason against.",
+       "lines": 4
+      }
+     ]
+    ],
+    [
+     "C. Fair rules",
+     [
+      {
+       "t": "mcq",
+       "p": "Researchers compared villages where the women's seat was chosen by lottery. Why did the lottery matter?",
+       "opts": [
+        "the villages were picked by chance, so the comparison was fair",
+        "lotteries are fun",
+        "only lucky villages get water"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Valli, in the story, said a vote must belong to one person, not to a house or a husband. If you were writing a new country's rules, who would you allow to vote, and why?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The tower chain",
+   "day": 1,
+   "question": "When each builder can see the last tower and hear one tip, do the towers get better over the rounds?",
+   "need": [
+    "6 sheets of old newspaper (2 for each round)",
+    "sticky tape (about 30 cm for each round)",
+    "a measuring tape or ruler",
+    "a timer on a phone",
+    "at least 2 people"
+   ],
+   "steps": [
+    "Round 1: the first builder has 2 sheets of newspaper, 30 cm of tape and 3 minutes to build the tallest tower that stands on its own on the floor. Nobody helps.",
+    "Measure the height in cm and write it down. Leave the tower standing.",
+    "Round 2: the next builder looks at the tower for 30 seconds. The first builder gives one tip in one sentence. Then the second builder has 3 minutes with 2 new sheets and 30 cm of tape.",
+    "Measure and write down the height.",
+    "Round 3: the first builder goes again, after looking at tower 2 for 30 seconds and hearing one tip.",
+    "Compare the three heights. Write down which ideas were copied from one tower to the next."
+   ],
+   "predict": "Ask: 'Will the towers get taller, shorter or stay the same over the three rounds? Why do you think so?' Write the guess.",
+   "observe": "Usually the later towers are taller or steadier, because the builders copy good ideas, such as rolled tubes, a wide base or tape at the joints. With only 3 rounds, one tower may fall or be shorter, so look at which ideas were kept, not only the heights.",
+   "why": "Culture is what people learn from each other and pass on. When each person can see what the last person made and hear what they learned, good ideas are kept and small improvements are added. Over many generations this piles up into things no single person could invent alone, like a language, a temple or a phone. Scientists call this cumulative culture. In 2008 the psychologists Christine Caldwell and Ailsa Millen ran chains like this in the laboratory with paper aeroplanes and spaghetti towers, and found that the designs improved down the chain. Other animals copy each other too, like the Koshima monkeys, but humans pile up culture far more than any other animal.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "Acid and stone",
+   "day": 2,
+   "question": "Why does polluted air harm marble buildings?",
+   "need": [
+    "2 clear glasses",
+    "white vinegar (half a glass)",
+    "plain water (half a glass)",
+    "2 pieces of eggshell from a boiled egg, 2 pieces of seashell, or 2 small marble chips from a tile or stone shop",
+    "labels"
+   ],
+   "steps": [
+    "Label one glass 'Water' and one 'Vinegar'. Fill each half full.",
+    "Look closely at the two pieces and draw them.",
+    "Drop one piece into each glass at the same moment.",
+    "Watch for 2 minutes and write what you see.",
+    "Leave both glasses until the next morning. Take the pieces out with a spoon and compare them by pressing gently with a finger."
+   ],
+   "predict": "Ask: 'Will anything happen in either glass? Which piece will change more?' Write both guesses.",
+   "observe": "In vinegar, tiny bubbles stream off the piece at once. By the next morning the eggshell or seashell is thinner and softer. A marble chip changes more slowly but still fizzes. In water, nothing much happens. White school chalk is often made of gypsum, which does not fizz, so don't use chalk.",
+   "why": "Eggshell, seashell, limestone and marble are all made mostly of calcium carbonate. An acid breaks calcium carbonate apart. This makes carbon dioxide gas, which is the bubbles, and a substance that dissolves in water, so the stone is slowly eaten away. Vinegar is a weak acid. When coal, petrol and diesel are burnt in factories, power stations and vehicles, they give off gases that mix with rain and moisture to make weak acids. Over many years this acid rain, along with soot, roughens, pits and stains marble buildings. Real acid rain is much weaker than vinegar, so the damage takes years, not hours. In 1996 India's Supreme Court ordered many factories near the Taj Mahal to switch to cleaner fuel or move away, in a case brought by the lawyer M.C. Mehta.",
+   "safety": "Keep vinegar away from the eyes. Never use stronger acids such as toilet cleaner.",
+   "time": "5 min to set up + 1 min check the next morning"
+  },
+  {
+   "id": "e3",
+   "title": "Language families: a sound test",
+   "day": 3,
+   "question": "Do some Indian languages share words, and does that show they are related?",
+   "need": [
+    "voice notes from speakers of 6 to 8 languages, saying: water, mother, three, fish",
+    "a table drawn on paper",
+    "coloured pens"
+   ],
+   "steps": [
+    "Draw a table with the languages down the side and the four words across the top.",
+    "Play each voice note and write each word as it sounds, in English letters.",
+    "Colour words that sound alike in the same colour.",
+    "Group the languages that keep matching."
+   ],
+   "predict": "Ask: 'Will each language have a completely different word, or will some sound alike?'",
+   "observe": "The word for three matches in one group: moonu in Tamil, moodu in Telugu, mooru in Kannada, moonnu in Malayalam. It matches in another group: teen in Hindi, tin in Bengali, teen in Marathi. Meen (fish) is shared by Tamil, Kannada and Malayalam. Amma or maa for mother appears in languages of both groups.",
+   "why": "Languages change slowly over hundreds of years. Languages that grew from the same older language keep many similar everyday words, especially numbers and family words. Tamil, Telugu, Kannada and Malayalam are Dravidian languages. Hindi, Bengali, Marathi, Gujarati, Punjabi and Odia are Indo-Aryan languages, related to Sanskrit. India also has languages from other families, such as Santali and Khasi, and many Tibeto-Burman languages in the Northeast. Languages also borrow words from their neighbours, so a few words cross families. Linguists compare hundreds of words before deciding how languages are related, so four words are only a first clue.",
+   "safety": "",
+   "time": "15 min (plus collecting voice notes beforehand)"
+  },
+  {
+   "id": "e4",
+   "title": "Make a drum",
+   "day": 3,
+   "question": "How do the tightness and size of a drum skin change its sound?",
+   "need": [
+    "a steel tumbler",
+    "a wide steel bowl",
+    "2 balloons, or a strong plastic bag cut into 2 squares",
+    "2 rubber bands",
+    "scissors (adult)"
+   ],
+   "steps": [
+    "An adult cuts the neck off a balloon. Stretch the balloon over the tumbler and hold it with a rubber band. This is the drum skin.",
+    "Tap the skin with a finger and listen.",
+    "Pull the edges of the skin down to make it tighter. Tap again. Then loosen it and tap again.",
+    "Make a second drum on the wide steel bowl, with the skin about as tight as on the tumbler.",
+    "Tap both drums one after the other and compare the sounds."
+   ],
+   "predict": "Ask: 'Will a tighter skin sound higher or lower? Will the big bowl drum sound higher or lower than the tumbler drum?'",
+   "observe": "The tighter the skin, the higher the sound. The big bowl drum sounds lower than the small tumbler drum.",
+   "why": "A sound is made when something vibrates, moving quickly back and forth. A drum skin vibrates when it is struck. A tight skin springs back faster, so it vibrates faster and gives a higher pitch. A bigger skin vibrates more slowly and gives a lower pitch. Drummers use this to tune. A mridangam player taps the leather straps around the drum to tighten or loosen the skin, and a tabla player taps the wooden blocks under the straps with a small hammer.",
+   "safety": "An adult uses the scissors. Don't let small children put balloon pieces in their mouths.",
+   "time": "12 min"
+  },
+  {
+   "id": "e5",
+   "title": "Make salt like the Dandi marchers",
+   "day": 5,
+   "question": "How can we get salt out of salt water, as people did at Dandi in 1930?",
+   "need": [
+    "2 teaspoons of salt",
+    "1 cup of warm water",
+    "a spoon for stirring",
+    "a wide steel plate",
+    "a steel tablespoon",
+    "a gas stove or a candle (adult only)",
+    "a cloth to hold the spoon"
+   ],
+   "steps": [
+    "Stir 2 teaspoons of salt into the warm water until it disappears completely. Taste one drop. It is salty, but you can't see the salt.",
+    "Pour half the cup into the wide steel plate and leave it on a sunny windowsill.",
+    "Adult: hold a steel tablespoon of the salt water over a low flame, with a cloth around the handle, until the water has boiled away.",
+    "Look at the spoon when it has cooled. What is left?",
+    "Check the plate after a few hours or the next day, and compare the crystals."
+   ],
+   "predict": "Ask: 'When all the water goes, will anything be left? What will it look like?'",
+   "observe": "A white crust is left on the spoon. On the plate, which dries slowly, the crystals are usually bigger and cube-shaped.",
+   "why": "Salt dissolves in water. Its tiny particles spread out among the water particles, so you can't see it, but you can still taste it. When water is heated, it evaporates: it turns into water vapour and goes into the air. Salt does not evaporate at these temperatures, so it is left behind. Slow drying gives the salt particles time to line up into larger, neat crystals. Salt makers on the coasts of Gujarat and Tamil Nadu still let sea water dry in big shallow pans in the sun. In 1930 the British government controlled salt and taxed it. By making natural salt, Gandhiji and lakhs of others broke this law in a way anyone could copy.",
+   "safety": "Only an adult holds the spoon over the flame, with a cloth round the handle, because the spoon gets very hot. Keep hair and dupattas away from the flame.",
+   "time": "10 min + check after a few hours"
+  },
+  {
+   "id": "e6",
+   "title": "Coin tosses and the missing girls",
+   "day": 6,
+   "question": "If nature decides whether a baby is a boy or a girl, how close to equal are the numbers? And what do India's census numbers show?",
+   "need": [
+    "one coin",
+    "a tally sheet with two columns: Heads and Tails",
+    "a pencil"
+   ],
+   "steps": [
+    "Toss the coin 10 times and tally heads and tails. Is it exactly 5 and 5?",
+    "Take turns and toss 90 more times, to reach 100. Tally again.",
+    "Compare the result of 10 tosses with the result of 100 tosses. Which is closer to half and half?",
+    "Now look at the real numbers. Nature gives about 950 girls for every 1,000 boys born, because boys are very slightly more common at birth. India's 2011 Census counted 918 girls for every 1,000 boys aged 0 to 6. In 1961 it was 976.",
+    "Work out how many girls were missing for every 1,000 boys in 2011. (950 minus 918 is 32.)"
+   ],
+   "predict": "Ask: 'In 100 coin tosses, will heads and tails be exactly equal, nearly equal, or very different?'",
+   "observe": "In 10 tosses the result can be uneven, like 7 and 3. In 100 tosses it usually comes close to half and half, such as 47 and 53.",
+   "why": "Chance events even out over large numbers. This is called the law of large numbers. Whether a baby is a boy or a girl is a chance event of nature, tilted slightly towards boys. So in a country with crores of babies, the numbers should come very close to nature's ratio every year. When the count shows far fewer girls than nature gives, the gap can't be bad luck. It is a sign that something people did is causing it, such as not letting girls be born, or caring for girls less when they are ill. This is why a law of 1994 bans finding out a baby's sex before birth, and why the Beti Bachao, Beti Padhao campaign (save the daughter, educate the daughter), begun in 2015, works in districts with the fewest girls.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e7",
+   "title": "Does the voting rule change the winner?",
+   "day": 7,
+   "question": "With the same voters and the same choices, can two voting rules give two different winners?",
+   "need": [
+    "paper slips",
+    "a box or bowl as the ballot box",
+    "at least 5 voters, or pre-written voter cards for imaginary relatives with a first and second choice"
+   ],
+   "steps": [
+    "Agree on 3 choices for Sunday breakfast, for example idli, poori and pongal.",
+    "Round 1, 'most votes wins': each voter secretly writes one choice and drops it in the box. Your child counts aloud and writes the votes.",
+    "Check: did the winner get more than half the votes?",
+    "Round 2, 'run-off': take the top two from Round 1 and vote again between just those two.",
+    "Compare the winners of the two rounds. With few voters, add voter cards. For example: 4 cards that say 'idli first', 3 that say 'poori first, then pongal', and 3 that say 'pongal first, then poori'."
+   ],
+   "predict": "Ask: 'Will the same dish win in both rounds?'",
+   "observe": "Often the same dish wins both times. But sometimes the Round 1 winner had less than half the votes. In the run-off, the voters whose choice was knocked out switch, and a different dish wins. With the voter cards above, idli wins Round 1 with 4 votes, but if pongal is knocked out, poori wins Round 2 with 6 votes.",
+   "why": "With more than two choices, the 'most votes wins' rule, called first-past-the-post, can choose a winner that most voters did not pick first, because the others' votes are split. India uses this rule for the Lok Sabha and state assemblies. A run-off makes sure the winner has more than half, but needs a second vote. Mathematicians have shown that every voting method has some weakness. That is why the rules of an election are written in law, decided in advance, and the same for everyone.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e8",
+   "title": "Hidden features of a banknote",
+   "day": 8,
+   "question": "What features are hidden in our banknotes, and why are they there?",
+   "need": [
+    "banknotes of different values, such as ₹10, ₹20, ₹50, ₹100, and ₹200 or ₹500 if you have them",
+    "a window or a torch",
+    "a magnifying glass if you have one"
+   ],
+   "steps": [
+    "Look at a note in normal light and draw both sides.",
+    "Hold it up to the light. Find the faint portrait of Gandhiji and the number beside it. This is the watermark.",
+    "Find the security thread running through the note and read the letters on it.",
+    "Tilt a ₹200 or ₹500 note and watch the number at the bottom right.",
+    "Close your eyes and feel the portrait and the edges of a ₹100 or bigger note.",
+    "Use the magnifying glass to find tiny letters near the portrait."
+   ],
+   "predict": "Ask: 'What might you see if you hold a note up to the light? Can a note be read with your fingers?'",
+   "observe": "A faint portrait and the value appear in the light. The thread shows letters such as RBI and भारत. On ₹200 and ₹500 notes the number changes colour from green to blue when tilted. Parts of the print feel raised. Tiny letters appear under the magnifier.",
+   "why": "A watermark is made while the paper itself is being formed. The paper is slightly thicker or thinner in the shape of the picture, so more or less light passes through. The security thread is woven inside the paper. Colour-changing ink has tiny flakes that reflect different colours at different angles. Raised printing presses ink so thickly that you can feel it, which also helps people who can't see. Tiny letters are too small for most copiers to print sharply. Each feature is hard to copy, so a fake note is easy to catch. A note is only paper, but because people can trust it, everyone agrees what it is worth.",
+   "safety": "Handle notes with clean, dry hands and don't write on or fold them.",
+   "time": "13 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Seen and unseen culture hunt",
+   "day": 1,
+   "mins": 13,
+   "need": [
+    "paper and a pencil"
+   ],
+   "steps": [
+    "Draw two columns: 'Seen culture' and 'Unseen culture'.",
+    "Walk around the home and find 6 things you can touch that people made and passed on, such as a steel tumbler, a kolam, a lamp or a sari. Write them in the first column.",
+    "Think of 6 things you can't touch, such as your language, a song, a greeting, a prayer, a recipe someone knows by heart or a festival custom. Write them in the second column.",
+    "Choose one thing and ask an elder: who taught you this, and has it changed since you were young?",
+    "Keep the page as the first page of the family culture book."
+   ],
+   "outcome": "A two-column page of the family's seen and unseen culture."
+  },
+  {
+   "id": "a2",
+   "title": "Heritage near us",
+   "day": 2,
+   "mins": 16,
+   "need": [
+    "paper and pencils",
+    "a phone map (optional)"
+   ],
+   "steps": [
+    "Choose one cultural heritage near home, such as a temple, mosque, church, old market or old building.",
+    "Choose one natural heritage near home, such as a lake, a hill, a river, a big old tree or a sacred grove.",
+    "For each, write: who made it or keeps it, how old it is if you know, what harms it, and who protects it.",
+    "Draw each one.",
+    "Write one thing your family will do to look after one of them."
+   ],
+   "outcome": "A heritage page for the family culture book, with one cultural and one natural treasure near home."
+  },
+  {
+   "id": "a3",
+   "title": "Travelling words",
+   "day": 4,
+   "mins": 12,
+   "need": [
+    "12 paper slips with these words: saavi (key, Tamil), jannal (window, Tamil), mesai (table, Tamil), pav (bread roll, Marathi), kitab (book), kursi (chair), bazaar (market), darwaza (door), sabzi (vegetables), paani (water), aankh (eye), kann (eye, Tamil)",
+    "the answer list below, kept hidden"
+   ],
+   "steps": [
+    "Read each word aloud and say what it means.",
+    "Your child sorts the slips into two piles: 'always from here' and 'came from far away'.",
+    "Reveal the answers. Saavi, jannal, mesai and pav came from Portuguese: chave, janela, mesa and pão. Kitab and kursi came from Arabic. Bazaar, darwaza and sabzi came from Persian. Paani and aankh grew from old Indian languages related to Sanskrit. Kann grew from old Tamil.",
+    "Count how many guesses were right.",
+    "Find two more words at home that came from far away, and check them with an elder or a dictionary."
+   ],
+   "outcome": "A list of travelling words for the family culture book, and the discovery that languages borrow from each other."
+  },
+  {
+   "id": "a4",
+   "title": "A timeline to scale",
+   "day": 5,
+   "mins": 13,
+   "need": [
+    "a long strip of paper, at least 40 cm",
+    "a ruler",
+    "a pencil and coloured pens"
+   ],
+   "steps": [
+    "Draw a line 35 cm long. Write 1600 at the left end and 1950 at the right end.",
+    "Mark every 1 cm. Each 1 cm stands for 10 years.",
+    "Mark these events: 1600 the East India Company is formed (0 cm), 1757 Plassey (about 15.7 cm), 1857 the revolt (25.7 cm), 1885 the Congress is formed (28.5 cm), 1917 Champaran (31.7 cm), 1930 the Salt March (33 cm), 1942 Quit India (34.2 cm), 1947 Independence (34.7 cm), 1950 Republic Day (35 cm).",
+    "Colour the time of Company rule in one colour and the time of British government rule in another.",
+    "Add the freedom fighter from your own state."
+   ],
+   "outcome": "A timeline that shows how long foreign rule lasted and how crowded the last 30 years were."
+  },
+  {
+   "id": "a5",
+   "title": "Who does what at home?",
+   "day": 6,
+   "mins": 12,
+   "need": [
+    "paper and a pencil"
+   ],
+   "steps": [
+    "List 10 jobs done at home in one day: cooking, washing dishes, sweeping, washing clothes, buying vegetables, caring for a grandparent, helping with homework, paying bills, filling water, putting children to bed.",
+    "Next to each job, write who usually does it.",
+    "Count the jobs for each person.",
+    "Talk about whether the work is shared fairly.",
+    "Your child chooses one job to take on every day this week, and ticks it off each day."
+   ],
+   "outcome": "A chores table for the family culture book, and one new job for the child."
+  },
+  {
+   "id": "a6",
+   "title": "Who represents us?",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "a phone",
+    "paper and a pencil"
+   ],
+   "steps": [
+    "Find the name of your ward and your ward councillor, or your village panchayat and its president.",
+    "Find the name of your MLA, who speaks for you in the state assembly.",
+    "Find the name of your MP, who speaks for you in the Lok Sabha.",
+    "Write what each one is for, in one line.",
+    "Write one problem in your area and who you would tell about it."
+   ],
+   "outcome": "A page naming the people who represent your family, from the ward to Parliament."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Robert May (1936–2020), Australia and Britain, and David Tilman (born 1949), USA: does diversity make nature steadier?",
+   "idea": "In 1973 Robert May used mathematics to show that, in a model, a community of many species linked in random ways could be less stable than a simple one. David Tilman tested real grassland plots at Cedar Creek in Minnesota. During a severe drought in 1987 and 1988, plots with more kinds of plants lost less of their growth and recovered faster than plots with few kinds.",
+   "then": "Many ecologists had believed that more diversity always meant more stability. May's maths surprised them and started a long argument.",
+   "now": "Many later experiments agree that more species keep the total growth of a field steadier from year to year, partly because different species do well in different conditions. But a single species in a diverse field can still rise and fall a lot, and scientists still argue about why diversity helps and whether it holds everywhere. Whether the same idea applies to human societies is a separate, open question.",
+   "status": "debated",
+   "ask": "In a dry year, why might a field of many kinds of plants do better than a field of one kind? What would you need to measure to test the same idea in a town?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Emperor Ashoka (ruled about 268–232 BCE) and James Prinsep (1799–1840), who decoded Ashoka's script, with Emperor Akbar (ruled 1556–1605)",
+   "idea": "Ashoka had his messages carved on rocks and pillars across his empire, including at Maski and Brahmagiri in Karnataka and Erragudi in Andhra Pradesh. In Rock Edict 13 he says that the war in Kalinga killed and carried away many thousands of people, and that he felt deep sorrow. In Rock Edict 12 he asks people to respect all faiths. Nobody could read the script, called Brahmi, until James Prinsep, an Englishman at the Calcutta mint, worked it out in 1837 by comparing many short inscriptions. About 1,800 years after Ashoka, Akbar held debates between scholars of many faiths at Fatehpur Sikri and called his rule sulh-i-kul, peace with all.",
+   "then": "Before 1837 Ashoka was known mainly from Buddhist stories written long after his death. When the edicts could be read, a great Indian emperor could speak in his own words. Prinsep built on the work of earlier scholars, including Indian pandits.",
+   "now": "The decoding of Brahmi is fully accepted, and more than 30 of Ashoka's inscriptions are known, in India, Nepal, Pakistan and Afghanistan. Historians also point out that Rock Edict 13 warns forest peoples that Ashoka still has the power to punish them, and that Akbar fought brutal wars too. Both turned towards peace between faiths without giving up power.",
+   "status": "accepted",
+   "ask": "Prinsep cracked the script by comparing many short inscriptions. Why does having lots of examples help you decode a script? Why is an emperor's own carved words better evidence than a story written centuries later?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "Gordon Allport (1897–1967), psychologist, USA, 'The Nature of Prejudice' (1954), tested by Thomas Pettigrew and Linda Tropp (2006)",
+   "idea": "Allport proposed the contact idea: when people of different groups spend time together as equals, working towards a shared goal, with support from those in charge, their prejudice usually goes down.",
+   "then": "Many people thought prejudice was fixed and could not be changed. Some worried that bringing groups together would only cause more fights. Allport warned that contact helps only under the right conditions.",
+   "now": "In 2006 Pettigrew and Tropp combined the results of 515 studies from many countries and found that contact between groups generally reduces prejudice, and works best under Allport's conditions. In a 2021 study in Uttar Pradesh, the economist Matt Lowe found that young men put in mixed cricket teams made more friends across groups. Bad, forced or unequal contact can sometimes make things worse.",
+   "status": "accepted",
+   "ask": "Why would playing on the same team build friendship, while playing against each other might not? What would you measure to find out?",
+   "day": 4
+  },
+  {
+   "id": "v4",
+   "who": "Raghabendra Chattopadhyay and Esther Duflo, study of women-led panchayats (published 2004)",
+   "idea": "Some panchayat president posts are reserved for women, and in some places the reserved villages were chosen by lottery. So researchers could fairly compare villages with women leaders and villages without, almost like an experiment. In districts of West Bengal and Rajasthan, they found that women-led panchayats spent more on what women had asked for, especially drinking water.",
+   "then": "Some people expected women leaders to be only fronts for their husbands, so that reserving seats would change nothing.",
+   "now": "Other studies in India support the finding that a leader's gender changes what gets built. Researchers also find that in some places husbands still act for their wives, and that women leaders' influence grows with experience. Esther Duflo shared the Nobel Prize in Economics in 2019 with Abhijit Banerjee and Michael Kremer for experiments like this on fighting poverty.",
+   "status": "accepted",
+   "ask": "Why did choosing the villages by lottery make the comparison fair? What might go wrong if researchers had compared villages that chose to elect women with villages that didn't?",
+   "day": 7
+  }
+ ],
+ "project": {
+  "title": "Our family culture book",
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "steps": [
+   "Day 1: start with the seen and unseen culture page and the tower chain heights.",
+   "Day 2: add the oldest thing at home and the heritage near us page.",
+   "Day 3: add the language table and a drawing of your drum.",
+   "Day 4: add your travelling words and one line from Ashoka's edicts in your own words.",
+   "Day 5: add the timeline and one freedom fighter from your state.",
+   "Day 6: add the chores table and the job you took on.",
+   "Day 7 and 8: add who represents you, and a drawing of the national emblem.",
+   "Day 9: add the new right you would put in the Constitution, staple the pages together and show the book to the family."
+  ],
+  "outcome": "A small book about your family's culture and your place in a country of many peoples, made from your own tests and findings."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Keep the Republic",
+  "kind": "board",
+  "players": "2–4 (everyone plays together as one team)",
+  "need": [
+   "the printed board",
+   "a die",
+   "one counter for the team",
+   "5 beans or buttons as trust tokens"
+  ],
+  "rules": [
+   "Everyone plays as one team. Put 5 trust tokens in the middle.",
+   "Take turns to roll the die and move the team counter.",
+   "On an event square, read it aloud. Then say what happens next, and why. For example: 'Every adult can vote, so the government must listen to poor people too.'",
+   "If the others agree the reason makes sense, the team gains 1 token. If nobody can explain it, the team loses 1 token.",
+   "On a square that says 'gain' or 'lose', gain or lose that many tokens as well.",
+   "The team wins by reaching HOME with at least 3 tokens. If the tokens run out, start again."
+  ],
+  "squares": [
+   "START: 26 January 1950, the Constitution begins",
+   "Every adult gets one vote: gain 1",
+   "Lakhs of women are left off the voters' list because their names were not written",
+   "A woman president of a panchayat gets a water tap built",
+   "Factory smoke stains a marble monument: lose 1",
+   "A family keeps their sacred grove uncut: gain 1",
+   "Children from different families play on one cricket team",
+   "Someone scratches their name on a temple wall: lose 1",
+   "A girl is the first in her family to finish school: gain 1",
+   "The count of girls is far below nature's number",
+   "A family asks for dowry: lose 1",
+   "A neighbour teaches you a word in her language",
+   "The ward councillor fixes the streetlight after a letter",
+   "Fake banknotes spread in a market: lose 1",
+   "Nobody comes to the gram sabha meeting",
+   "A grandmother teaches a festival song to the children: gain 1",
+   "One group is told they cannot use the village well: lose 1",
+   "Courts decide a case against a powerful minister",
+   "People from many states celebrate Onam together in a city flat",
+   "HOME: the Republic holds"
+  ]
+ },
+ "big": [
+  "If your culture was learned from others, how much of who you are came from people you have never met?",
+  "Is a country more like one family, or like a forest of many kinds of trees?",
+  "A banknote is only paper. What makes it worth something?",
+  "Who should be allowed to vote? Should children have a say in decisions about their school?",
+  "A forest is our natural heritage. Whose heritage is it for the elephants and the trees who live there?"
+ ],
+ "challenge": [
+  {
+   "q": "'Hockey is India's national game.'",
+   "hint": "Many books and quiz cards say this. But in 2012 the sports ministry, answering a question under the Right to Information Act, said that India has not declared any sport as the national game. Hockey is loved because India won eight Olympic gold medals in it. Ask: how could a wrong fact get into so many books?"
+  },
+  {
+   "q": "'Gandhiji won India's freedom on his own, by non-violence.'",
+   "hint": "Gandhiji led the biggest movements and showed how millions could resist without violence. But many others took part: queens like Velu Nachiyar and Kittur Chennamma long before him, revolutionaries like Bhagat Singh, the Azad Hind Fauj led by Subhas Chandra Bose, sailors of the navy who rebelled in 1946, and millions of ordinary women and men. The Second World War had also weakened Britain. Historians still argue about how much each mattered. Ask: why do stories often give the credit to one person?"
+  },
+  {
+   "q": "'After the Kalinga war, Ashoka gave up force completely.'",
+   "hint": "Ashoka's own Rock Edict 13 says he felt deep sorrow for the war. But the same edict warns forest peoples that he still has the power to punish them, and he kept his army. He turned towards kindness and respect for all faiths without giving up power. Ask: can a person truly change and still keep some old ways?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A woman who draws a kolam every morning in Chennai",
+   "view": "In the month of Margazhi, many women in Tamil Nadu draw large kolams in rice flour at the door before sunrise. The rice flour also feeds ants and birds. Patterns pass from mother to daughter and from neighbour to neighbour, and change a little each time. Ask: is the kolam seen culture or unseen culture? Or both?"
+  },
+  {
+   "who": "Ganesh N. Devy and the People's Linguistic Survey of India",
+   "view": "Between 2010 and 2013, Ganesh Devy and about 3,000 volunteers counted the languages people really speak, and found about 780. Many are spoken by small groups and could be lost within a lifetime. Ask: when a language dies, what knowledge dies with it?"
+  },
+  {
+   "who": "Election workers in the Gir forest, Gujarat",
+   "view": "For many elections, election workers set up a polling booth deep in the Gir forest for a single voter, a priest who lived at a temple there. The law says every voter should be able to vote. Ask: why go to so much trouble for one vote?"
+  },
+  {
+   "who": "An elephant in the Western Ghats",
+   "view": "Elephants walk the same routes through the forest for generations, and the oldest females lead the herd and remember where water is in a dry year. For an elephant, the forest is not heritage. It is home and memory. Ask: who should decide whether a road is built through it?"
+  }
+ ],
+ "story": {
+  "title": "Her Own Name",
+  "text": [
+   "My name is Kamakshi. In the winter of 1951 I was ten years old, and I lived in a village of paddy fields near Thanjavur, in what was then Madras State. That winter, India was getting ready for something it had never done before. Every grown-up in the country, rich or poor, man or woman, able to read or not, was going to choose the government.",
+   "A young man came to our street with a long notebook. His name was Murugesan, and he was a clerk from the taluk office. He wore spectacles that kept sliding down his nose. He went from house to house writing down every person aged twenty-one or more. This was the list of voters, and nobody could vote whose name was not on it.",
+   "At the house next to ours, Murugesan asked Rajammal Paati for her name. She laughed and covered her mouth with the end of her sari. 'Write: mother of Sundaram,' she said. 'Everyone knows me as that.' At the next house it was 'wife of the potter'. At the next, 'Kuppusamy's widow'. Murugesan wrote it all down.",
+   "Then he came to us. My father gave his name, Subbiah, and Murugesan wrote it. Then he looked at my mother, who was standing in the doorway with rice flour on her hands from the morning kolam. 'And you, amma? Wife of Subbiah?'",
+   "My mother did not answer at once. In our village a woman did not say her name to a strange man. A wife did not even say her husband's name aloud. I had heard my mother's name only a few times in my life, when her own mother came to visit from Kumbakonam and called her across the courtyard.",
+   "'What happens to the wife of Subbiah on voting day?' my mother asked.",
+   "Murugesan pushed up his spectacles. He looked a little embarrassed. 'Amma, there is a new order from Delhi. The Chief Election Commissioner, Sukumar Sen, says a voter must be a person with her own name. Lakhs of women all over India have been written down as somebody's wife or somebody's mother. The order says those entries cannot stay on the list. The women will not get a ballot paper.'",
+   "My father frowned. 'That is not fair,' he said.",
+   "'It is fair,' said my mother. Both men looked at her. She wiped her hands on her sari and stepped out of the doorway into the sun. 'Think about it,' she said to Murugesan. 'If the list says only wife of Subbiah, who is the voter? If Subbiah has two wives, which one? If he dies, is there still a voter? A vote is not given to a house or to a husband. It is given to one person. So the person must be written down.' She said it slowly, the way she explained sums to me. Murugesan listened and nodded, the way I did.",
+   "Then she said, very clearly, so that Rajammal Paati next door could hear: 'My name is Valli.'",
+   "Murugesan wrote it. V-A-L-L-I. He wrote it carefully, in Tamil letters and in English letters, and read it back to her. My mother nodded. Rajammal Paati was staring at us over the wall.",
+   "That evening Rajammal Paati came to our house. She sat with my mother on the thinnai, the raised step at our front door, and they talked for a long time in low voices. The next morning Paati walked all the way to the taluk office with her son. When she came back she was smiling. 'Kanakam,' she said to me, tapping her chest. 'That is my name. Kanakam. Now it is in the government's book.' Three more women from our street went the next day.",
+   "Voting day came in January 1952, after the harvest. The polling booth was in the school. Inside, behind a curtain, there was a row of steel boxes. Each box had a picture pasted on the front: a pair of bullocks, a hut, a tree, a lamp. The pictures were there because most voters in India could not read. Each person was given one ballot paper, and they dropped it into the box of the candidate they chose. Nobody could see which box.",
+   "I waited outside with my little brother. The line of women was long, in saris of every colour, some with babies on their hips. Some had walked from the next village. A few were very old and leaned on their granddaughters. I saw Kanakam Paati in the line, standing very straight.",
+   "When my mother came out, she held up her left hand. On her finger was a dark purple line of ink. The ink was there so that nobody could vote twice. It would not wash off for days.",
+   "'Show me,' I said, and she let me hold her hand. It was the same hand that drew the kolam every morning, the same hand that made our dosas and braided my hair. But now it had done something new.",
+   "'Whose vote was that?' I asked her. I wanted to hear her say it.",
+   "'Mine,' said my mother.",
+   "My father's finger had the same purple line. Everyone in the line, the landlord and the woman who swept his courtyard, had the same purple line. I remember looking at all those fingers and thinking that I had never before seen a mark that was exactly the same on everybody.",
+   "When I was twenty-one, I voted for the first time. The clerk at the booth asked my name. I said it before he had finished asking."
+  ],
+  "epiphany": "For the parent: a vote is given to one person, not to a family or a husband, so a voter needs her own name. The story turns when Valli works this out and says her name aloud. The purple ink line, the same on the landlord and on the woman who sweeps his courtyard, shows that every adult's vote is equal. The order to remove women listed only as 'wife of' or 'mother of' is true. Lakhs of women across India were left off the first rolls this way.",
+  "ask": [
+   "Why did Valli say her own name to the clerk, when she had hardly ever said it before?",
+   "Why do you think most voters in 1952 were given pictures on the ballot boxes instead of only names?",
+   "Kamakshi says she had never seen a mark that was the same on everybody. Why was the ink line the same on everyone?",
+   "Kanakam Paati walked to the office after talking to Valli. What did she learn from her?",
+   "Is there anything in your life where you are known as someone's daughter or son instead of by your own name?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Culture piles up. Each generation keeps what worked and adds a little, so we can do things no single person could invent alone.",
+   "more": "Show it with the tower chain: each builder copies the best ideas and adds one. A language, a temple and a phone were all built this way, over many lifetimes."
+  },
+  {
+   "idea": "Big numbers can reveal unfairness that no single family can see.",
+   "more": "In 100 coin tosses, chance evens out. So when a country of crores of babies has far fewer girls than nature gives, the cause must be what people did. Counting is a way to find unfairness."
+  },
+  {
+   "idea": "In a democracy, every adult has one vote of their own, equal to everyone else's, and the rules of the vote are fixed in advance.",
+   "more": "Show it with the family vote: the rule can change the winner, so it must be agreed before voting, the same for all. Come back to Valli in the story, who needed her own name to have her own vote."
+  }
+ ],
+ "unknowns": [
+  "Why do humans pile up culture so much more than any other animal? Some scientists say it is language, some say it is teaching, some say it is living in large groups that share ideas. Nobody knows for sure.",
+  "Nobody can yet read the Indus script, the writing on seals from Harappa and Mohenjo-daro more than 4,000 years old. Scholars still argue about whether it writes a language at all, and which one.",
+  "Do people in mixed neighbourhoods trust each other more or less? In 2007 the American scientist Robert Putnam reported less trust in more mixed neighbourhoods, at least at first. Other studies in other countries found the opposite, or no effect. The answer may depend on whether people meet as equals."
+ ],
+ "books": [
+  {
+   "title": "Let's Go Time Travelling: Life in India Through the Ages",
+   "author": "Subhadra Sen Gupta",
+   "for": "read together",
+   "age": "8–12",
+   "why": "Shows how ordinary people in India lived, ate, dressed and played in different times, from the Harappans to the British period."
+  },
+  {
+   "title": "Gandhi: A March to the Sea",
+   "author": "Alice B. McGinty",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A picture book that follows the 24 days of the Salt March, step by step."
+  },
+  {
+   "title": "Grandma's Bag of Stories",
+   "author": "Sudha Murty",
+   "for": "read alone",
+   "age": "7–11",
+   "why": "A grandmother in Karnataka tells stories to her grandchildren during a summer holiday: culture passed on the way it always has been."
+  },
+  {
+   "title": "India After Gandhi",
+   "author": "Ramachandra Guha",
+   "for": "parent reads",
+   "age": "adult, read parts aloud",
+   "why": "An adult history of India since 1947. The chapter on the first general election tells how Sukumar Sen ran it and why many people expected it to fail."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is culture? Give one example of seen culture and one of unseen culture.",
+   "a": "Culture is the ways of living people learn from each other and pass on. Seen culture can be touched, like a brass lamp or a kolam. Unseen culture can't be touched, like a language or a lullaby."
+  },
+  {
+   "q": "What happened in the tower chain, and what does it show about culture?",
+   "a": "Each builder copied good ideas from the last tower, like rolled tubes or a wide base, and added one. The towers usually got better. It shows that culture piles up over generations, so people can do things no single person could invent alone."
+  },
+  {
+   "q": "Why does polluted air harm marble buildings?",
+   "a": "Marble is made of calcium carbonate, like eggshell. Smoke from burning coal, petrol and diesel makes rain and air slightly acid. Acid breaks down calcium carbonate, as the vinegar did to the shell, so over many years the marble gets rough and stained."
+  },
+  {
+   "q": "Why does a tighter drum skin give a higher sound?",
+   "a": "A tighter skin springs back faster, so it vibrates faster. Faster vibration gives a higher pitch."
+  },
+  {
+   "q": "Why did salt make such a good protest in 1930?",
+   "a": "The British government taxed salt and did not allow Indians to make it. Everyone needs salt, and anyone can make it by letting sea water dry. So millions of people could break the unfair law in the same simple way, without violence."
+  },
+  {
+   "q": "India's 2011 Census counted 918 girls for every 1,000 boys under 7. Why can't this be bad luck?",
+   "a": "With huge numbers, chance evens out, as 100 coin tosses come closer to half and half than 10 tosses. Nature gives about 950 girls. In crores of babies, a gap that big must be caused by what people did."
+  },
+  {
+   "q": "Name the three parts of India's government and what each does.",
+   "a": "Parliament makes the laws. The executive, the President, Prime Minister, ministers and officials, carries them out. The courts decide whether the laws were kept."
+  },
+  {
+   "q": "Why is Republic Day on 26 January?",
+   "a": "On 26 January 1950 India's Constitution came into force. The date was chosen because on 26 January 1930 the Congress had called for full freedom."
+  }
+ ]
+}

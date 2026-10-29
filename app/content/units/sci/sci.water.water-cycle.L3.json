@@ -104,7 +104,7 @@
    "term": "Transpiration",
    "meaning": "Plants giving off water vapour from tiny holes in their leaves. The water comes up from the roots, through the stem.",
    "example": "A big tree can put many buckets of water into the air on one hot day.",
-   "art": "A neem tree with tiny wavy lines rising from its leaves and arrows showing water going up from the roots."
+   "art": "A neem tree with tiny wavy lines rising from their leaves and arrows showing water going up from the roots."
   },
   {
    "term": "Molecule",
@@ -288,10 +288,10 @@
    "concept": "Plants put water into the air",
    "status": "defined",
    "definition": "Transpiration is plants giving off water vapour through tiny holes in their leaves. The water is pulled up from the roots, through the stem, to the leaves.",
-   "description": "A plant drinks through its roots. Most of that water does not stay in the plant. It travels up the stem and leaves through tiny holes, too small to see, on the underside of leaves. As this water evaporates, it pulls more water up behind it, like sipping through a straw. A big tree can give off more than a hundred litres on a hot day. So a forest puts a huge amount of invisible water vapour into the air. Some of the rain that falls far inland, in Central India or the Amazon rainforest, has already been through the leaves of trees on the way. Scientists think more than half of the water rising from land comes out through plants. Exactly how much is still argued about.",
+   "description": "A plant drinks through their roots. Most of that water does not stay in the plant. It travels up the stem and leaves through tiny holes, too small to see, on the underside of leaves. As this water evaporates, it pulls more water up behind it, like sipping through a straw. A big tree can give off more than a hundred litres on a hot day. So a forest puts a huge amount of invisible water vapour into the air. Some of the rain that falls far inland, in Central India or the Amazon rainforest, has already been through the leaves of trees on the way. Scientists think more than half of the water rising from land comes out through plants. Exactly how much is still argued about.",
    "examples": [
     "A clear bag tied over a leafy branch in the sun turns misty inside within an hour.",
-    "The shade of a tree feels cooler than the shade of a wall, partly because its leaves give off water, and evaporation takes heat away.",
+    "The shade of a tree feels cooler than the shade of a wall, partly because their leaves give off water, and evaporation takes heat away.",
     "In the Amazon, water goes from rain to tree to cloud to rain again, many times, as the winds carry it inland."
    ],
    "perspectives": [],
@@ -1876,7 +1876,7 @@
      "do": "1. After about 3 hours, tap the leaf bag so the drops run to the bottom. 2. Untie it carefully and tip the water into a teaspoon. 3. Count how many teaspoons you collect. 4. Take both bags off the plant.",
      "say": "Let's see how much water this one branch gave off. Imagine the whole tree doing this.",
      "kid": "Tap the bag. Untie it carefully. Pour the water into a spoon. How much did you get?",
-     "parent": "A branch of a bush or tree in the sun often gives a teaspoon or more in 3 hours. A small pot plant may give only a few drops. That is still a result. If there are no drops at all, the plant may be thirsty, so water it and try again the next day.",
+     "parent": "A branch of a bush or tree in the sun often gives a teaspoon or more in 3 hours. A small pot plant may give only a few drops. That is still a result. If there are no drops at all, the plant may be thirsty, so water them and try again the next day.",
      "check": {
       "t": "mcq",
       "q": "In the leaf-in-a-bag experiment, water collected in the bag on the leaves, but not in the empty bag. Where did the water come from?",
@@ -2965,7 +2965,7 @@
    "creative": [
     "In Chile, in the dry Atacama desert, villages have used big fog-catching nets since the 1980s.",
     "In Morocco, a group called Dar Si Hmad set up fog nets in 2015 to bring water to mountain villages.",
-    "A beetle in the Namib desert tilts its back into the morning fog. Drops gather on its back and roll down to its mouth."
+    "A beetle in the Namib desert tilts their back into the morning fog. Drops gather on their back and roll down to their mouth."
    ],
    "your_turn": "Now design your own fog catcher. Draw it, build it and test it. How many drops can you catch in 3 minutes of 'fog'?",
    "context": "This is an engineering challenge about condensation and catching water. You design a net that collects drops from fog, like villages in dry mountains do.",
@@ -3009,7 +3009,7 @@
      "mins": 5,
      "do": "Compare your design with the usual solutions and the creative ideas.",
      "say": "A beetle in the Namib desert solved this long ago. Which idea would you copy for a real village?",
-     "kid": "A desert beetle drinks fog that gathers on its back! Which idea would you use for a real village?",
+     "kid": "A desert beetle drinks fog that gathers on their back! Which idea would you use for a real village?",
      "think": "Nature had millions of years to find water in dry places. What else could we learn from desert plants and animals?"
     }
    ],
@@ -3369,7 +3369,7 @@
   "Your cold bottle is wet on the outside. Did it leak?",
   "Can you see your breath today? Why, or why not?",
   "Where did the dew on the grass go?",
-  "What do you think that tree is doing with all the water it drinks?",
+  "What do you think that tree is doing with all the water they drink?",
   "If you were a raindrop, where would you most like to land?",
   "Smell that? It's about to rain. What do you think makes the smell?",
   "Is the water in you the same water as last year?"
@@ -3512,7 +3512,7 @@
   {
    "problem": "Look at the measuring spoon picture. In the leaf-in-a-bag experiment, you poured the water from the bag into a 5 millilitre teaspoon. It filled the spoon halfway. How many millilitres did the branch give off?",
    "answer": "About 2 and a half millilitres.",
-   "explain": "A full teaspoon holds 5 millilitres. Half of 5 is 2 and a half. So the branch gave off about 2 and a half millilitres in 3 hours. A big tree has thousands of branches, so it can give off many litres in a day.",
+   "explain": "A full teaspoon holds 5 millilitres. Half of 5 is 2 and a half. So the branch gave off about 2 and a half millilitres in 3 hours. A big tree has thousands of branches, so they can give off many litres in a day.",
    "math_unit": "math.fractions.halves-and-quarters.L3",
    "context": "This is about Leaves in a Bag. You tied a clear bag over a leafy branch for 3 hours, and collected the water that came out of the leaves.",
    "how": "e3",

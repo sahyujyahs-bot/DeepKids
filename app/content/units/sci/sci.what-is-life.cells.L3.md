@@ -1,9 +1,9 @@
 # Cells: the tiny living parts every living thing is made of
 `sci.what-is-life.cells.L3`
 
-**Summary.** Every living thing is made of cells: you, a mango tree, an ant and a mushroom. A cell is the smallest part of a living thing that is alive by itself, and most cells are too small to see with your eyes alone. You will look for them in onion skin, using a phone camera with a drop of water on its lens, and test whether boiled curd can still set milk, or only living curd can. Some living things are just one cell, and that one cell senses, chooses and remembers. All life we know is made of cells, but nobody yet knows how the very first cell began.
+**Summary.** Every living thing is made of cells: you, a mango tree, an ant and a mushroom. A cell is the smallest part of a living thing that is alive on their own, and most cells are too small to see with your eyes alone. You will look for them in onion skin, using a phone camera with a drop of water on its lens, and test whether boiled curd can still set milk, or only living curd can. Some living things are just one cell, and that one cell senses, chooses and remembers. All life we know is made of cells, but nobody yet knows how the very first cell began.
 
-**Intro.** *Look at the back of your hand. It looks like one smooth thing. In fact it is made of billions of tiny living parts, each one alive by itself. So why can't you see them?* About 360 years ago, an English scientist called Robert Hooke cut a thin slice of cork, the bark used for bottle stoppers. He looked at it through a microscope, a tool that makes tiny things look big. He saw rows of little empty boxes, like a honeycomb. He called them cells, from a Latin word for a small room. Today you will look for these little rooms in an onion from your kitchen. Then you will find out whether the cells in curd are alive.
+**Intro.** *Look at the back of your hand. It looks like one smooth thing. In fact it is made of billions of tiny living parts, each one alive on their own. So why can't you see them?* About 360 years ago, an English scientist called Robert Hooke cut a thin slice of cork, the bark used for bottle stoppers. He looked at it through a microscope, a tool that makes tiny things look big. He saw rows of little empty boxes, like a honeycomb. He called them cells, from a Latin word for a small room. Today you will look for these little rooms in an onion from your kitchen. Then you will find out whether the cells in curd are alive.
 
 ## Learning outcomes
 0. I can say what a cell is: the smallest living piece of a living thing.
@@ -16,29 +16,29 @@
 7. I can explain why milk with living curd sets into curd, but milk with boiled curd does not.
 
 ## Terms
-- **Cell**: The smallest part of a living thing that is alive by itself. It is a tiny bag of living jelly, mostly water, with a thin skin around it. *e.g.* The thin skin inside an onion is one layer of cells, side by side like bricks in a wall.
-- **Living thing**: Something that is alive. It takes in food, grows, makes more of its own kind and responds to the world. Every living thing is made of cells. *e.g.* A neem tree, a cat, a mushroom and you are all living things.
+- **Cell**: The smallest part of a living thing that is alive on their own. Each cell is a tiny bag of living jelly, mostly water, with a thin skin all round. *e.g.* The thin skin inside an onion is one layer of cells, side by side like bricks in a wall.
+- **Living thing**: Something that is alive. They take in food, grow, make more of their own kind and respond to the world. Every living thing is made of cells. *e.g.* A neem tree, a cat, a mushroom and you are all living things.
 - **Microscope**: A tool with lenses that makes tiny things look much bigger, so we can see them. *e.g.* A doctor's lab uses a microscope to look at drops of blood.
 - **Magnifier**: Any lens that makes things look bigger. A magnifying glass, a drop of water, or a phone camera zoomed in can all magnify. *e.g.* A drop of water on a clear plastic sheet makes the newspaper letters under it look bigger.
 - **Lens**: A clear, curved piece of glass, plastic or water. It bends light so things look bigger or smaller. *e.g.* Spectacles have lenses. So does your eye.
 - **Cell membrane**: The very thin skin around every cell. It holds the cell's watery inside in, and lets some things pass in and out. *e.g.* It works a little like the thin skin on a soap bubble, which holds the air inside.
 - **Cell wall**: A stiff box that plant cells have outside their membrane. It gives them their straight edges and helps plants stand up. *e.g.* Onion cells look like bricks because of their walls. Your cheek cells have no walls, so they are soft and floppy.
 - **Nucleus**: A small round part inside many cells. It holds the instructions, called DNA, that the cell uses to live, grow and split. *e.g.* When you colour onion skin with a drop of iodine antiseptic, a darker dot may show in each cell under a strong lens. That dot is the nucleus.
-- **Single-celled living thing**: A living thing that is just one cell. That one cell does everything: it eats, moves, senses and makes more of itself. *e.g.* The bacteria that turn milk into curd are single-celled living things.
-- **Many-celled living thing**: A living thing made of many cells that work together, each doing its own job. *e.g.* You, a banyan tree and an ant are many-celled living things.
+- **Single-celled living thing**: A living thing that is just one cell. That one cell does everything: they eat, move, sense and make more of their own kind. *e.g.* The bacteria that turn milk into curd are single-celled living things.
+- **Many-celled living thing**: A living thing made of many cells that work together, each doing their own job. *e.g.* You, a banyan tree and an ant are many-celled living things.
 - **Bacteria**: Tiny single-celled living things. They are found almost everywhere: in soil, water, curd and inside you. *e.g.* Bacteria in your gut help you break down food.
-- **Yeast**: A tiny single-celled fungus. It eats sugar and gives out a gas called carbon dioxide. The gas bubbles make bread dough rise. *e.g.* The bubbles in dosa and idli batter come from bacteria and yeast living in the batter.
-- **Cell theory**: The big idea that all living things are made of cells, and that every new cell comes from a cell that was already there. *e.g.* A seed grows into a tree by its cells making more cells. No cell ever forms out of dust.
+- **Yeast**: A tiny single-celled fungus. They eat sugar and give out a gas called carbon dioxide. The gas bubbles make bread dough rise. *e.g.* The bubbles in dosa and idli batter come from bacteria and yeast living in the batter.
+- **Cell theory**: The big idea that all living things are made of cells, and that every new cell comes from a cell that was already there. *e.g.* A seed grows into a tree by their cells making more cells. No cell ever forms out of dust.
 - **Stain**: A dye that colours parts of a cell, so they are easier to see. *e.g.* A drop of iodine antiseptic or blue fountain-pen ink on onion skin makes the cells' edges and the nucleus easier to see.
-- **Sense**: To notice something about the world, like light, heat, a touch or a smell. *e.g.* A bacterium senses sugar in the water around it, much as you smell food cooking.
+- **Sense**: To notice something about the world, like light, heat, a touch or a smell. *e.g.* A bacterium senses sugar in the water around them, much as you smell food cooking.
 - **Neuron**: A nerve cell. Neurons are long, thin cells that pass signals to each other. Your brain has about 86 billion of them. *e.g.* When you touch something hot, neurons carry the message from your finger to your brain in a split second.
 - **Millimetre**: A tiny length. Ten millimetres make one centimetre. On a ruler, it is the gap between the smallest lines. *e.g.* A small mustard seed, or rai, is about one millimetre across.
 
 ## Explanations
 ### What a cell is · *defined*
-**Definition:** A cell is the smallest part of a living thing that is alive by itself. It is a tiny bag of living jelly, mostly water, with a thin skin around it.
+**Definition:** A cell is the smallest part of a living thing that is alive on their own. Each cell is a tiny bag of living jelly, mostly water, with a thin skin all round.
 
-Think of a brick wall. The wall is big, but it is built from many small bricks. A living thing is built in the same way, from cells. But a cell is not a dead brick. Each cell is alive by itself. It takes in food, uses it, gets rid of waste, and can make a new cell. The thin skin around every cell is called the membrane. It keeps the cell's inside in, and lets some things in and out. Most cells are so small that many could fit on the full stop at the end of this sentence.
+Think of a brick wall. The wall is big, but it is built from many small bricks. A living thing is built in the same way, from cells. But a cell is not a dead brick. Each cell is alive on their own. They take in food, use it, get rid of waste, and can make a new cell. The thin skin around every cell is called the membrane. It keeps the cell's inside in, and lets some things in and out. Most cells are so small that many could fit on the full stop at the end of this sentence.
 - e.g. The thin skin inside an onion layer is one sheet of cells, like a wall of bricks.
 - e.g. The inside of your cheek is lined with soft, flat cells that keep coming off and being replaced.
 - e.g. A single grain of yeast powder holds many yeast cells, each one alive.
@@ -53,7 +53,7 @@ In 1838 a German plant scientist, Matthias Schleiden, said that every plant is m
 **Definition:** Every new cell is made when a cell that already exists splits into two.
 
 Long ago, many people thought living things could appear out of mud, or that old meat could make maggots by itself. Careful tests showed this is not true. In 1852 a doctor called Robert Remak showed that new cells form only when a cell splits in two. Rudolf Virchow made the idea famous in 1855, with the Latin words 'omnis cellula e cellula'. It means every cell comes from a cell. So every cell in you came from a cell, which came from a cell, all the way back to the first cells on Earth. The same rule explains why we set curd with curd. A spoon of curd holds living bacteria, and in warm milk they split again and again. Remak was not given the credit he deserved for many years. Part of the reason was that he was Jewish, and universities in his country held Jewish scientists back.
-- e.g. You began as one single cell. It split into two, then four, then many, and became you.
+- e.g. You began as one single cell. That cell split into two, then four, then many, and became you.
 - e.g. A cut on your knee heals because the skin cells around it split and fill the gap.
 - e.g. Curd sets because the bacteria from one spoon of curd keep splitting until the whole bowl is full of them.
 ### How small cells are · *defined*
@@ -71,11 +71,11 @@ Light travels in straight lines through air. When it passes at a slant into wate
 - e.g. A magnifying glass makes the lines on your fingertip look like ploughed fields.
 - e.g. A phone camera with a tiny water drop on its lens can show the faint outlines of onion cells.
 ### Onion cells: a wall of living bricks · *defined*
-**Definition:** The thin skin inside an onion layer is one sheet of plant cells, each with a stiff wall around it.
+**Definition:** The thin skin inside an onion layer is one sheet of plant cells, each with a stiff wall around them.
 
 When you peel the see-through skin from inside an onion layer, you are holding a sheet that is only one cell thick. That is why light passes through it, and why you can see the cells. Onion cells are long, narrow boxes, fitted together like bricks. Their straight edges come from the cell wall, a stiff box that plant cells have around their membrane. Walls help plants stand up without bones. If you add a drop of iodine antiseptic and look with a strong lens, a darker round dot often shows inside each cell. That is the nucleus, the part that holds the cell's instructions.
 - e.g. Onion cells look like long bricks in rows.
-- e.g. A stained onion cell often shows a dark dot, its nucleus.
+- e.g. A stained onion cell often shows a dark dot, their nucleus.
 - e.g. The thin purple skin peeled from under a Rhoeo leaf, a common pot plant, shows coloured cells in the same brick-like pattern.
 ### Cheek cells: the soft cells that line your mouth · *defined*
 **Definition:** The inside of your cheek is lined with flat, soft animal cells with no walls.
@@ -85,32 +85,32 @@ If you gently scrape the inside of your cheek with a clean flat stick, you colle
 - e.g. Animal cells, like cheek cells, have no wall. Plant cells, like onion cells, do.
 - e.g. Your skin cells are flat like cheek cells. The outer ones are dead and keep flaking off.
 ### One cell can be a whole living thing · *defined*
-**Definition:** Many living things are just one cell. That single cell eats, moves, senses and makes more of itself.
+**Definition:** Many living things are just one cell. That single cell eats, moves, senses and makes more of their own kind.
 
 In 1674 a cloth-seller in Delft, a town in the Netherlands, looked at a drop of lake water through a tiny lens he had made himself. His name was Antonie van Leeuwenhoek. He saw little creatures swimming, turning and bumping into each other. He called them 'animalcules', little animals. Nobody had ever seen them before. Many were single cells. Later he even found bacteria in the white gunk scraped from his own teeth. Today we know that single-celled living things are the most common life on Earth. They live in soil, seas, hot springs, ice and inside us.
 - e.g. The bacteria that set milk into curd are single cells.
-- e.g. An amoeba in a pond is one cell that changes shape as it creeps along.
+- e.g. An amoeba in a pond is one cell that changes shape as they creep along.
 - e.g. The green slime on an old water tank is made of millions of tiny algae, many of them single cells.
 ### Many cells working together · *defined*
 **Definition:** In a many-celled living thing, cells stay together and share the work. Different cells do different jobs.
 
-You began as one cell, about a tenth of a millimetre across, smaller than a full stop. It split again and again. As the cells multiplied, they became different kinds. Some became skin cells, some blood cells, some bone cells and some nerve cells. Your body has more than 200 kinds of cells, and they all came from that first one. A tree works the same way. Its root cells take in water. Its leaf cells make food from sunlight. Taken out of your body, most of your cells would soon die. Together, they make you.
+You began as one cell, about a tenth of a millimetre across, smaller than a full stop. That cell split again and again. As the cells multiplied, they became different kinds. Some became skin cells, some blood cells, some bone cells and some nerve cells. Your body has more than 200 kinds of cells, and they all came from that first one. A tree works the same way. Their root cells take in water. Their leaf cells make food from sunlight. Taken out of your body, most of your cells would soon die. Together, they make you.
 - e.g. Red blood cells carry oxygen. Nerve cells carry messages.
 - e.g. In a leaf, some cells make food from sunlight. Others form tiny openings, called stomata, that let air in and out.
 - e.g. Cells in the root tip of a seedling keep splitting, so the root grows down.
 ### Brains are made of cells too · *defined*
 **Definition:** A brain is a crowd of cells called neurons, which pass signals to each other.
 
-When you think, remember or feel, cells in your brain are sending signals. A neuron is a long cell with branches. Tiny charged particles called ions flow in and out through its skin. This sends a signal along the cell, like a spark running down a fuse. At the end, the neuron releases chemicals that tell the next neurons what to do. Your brain has about 86 billion neurons. That number was counted carefully in 2009 by a team in the lab of a Brazilian scientist, Suzana Herculano-Houzel. So a thought is many cells sensing and signalling together.
+When you think, remember or feel, cells in your brain are sending signals. A neuron is a long cell with branches. Tiny charged particles called ions flow in and out through their skin. This sends a signal along the cell, like a spark running down a fuse. At the end, the neuron releases chemicals that tell the next neurons what to do. Your brain has about 86 billion neurons. That number was counted carefully in 2009 by a team in the lab of a Brazilian scientist, Suzana Herculano-Houzel. So a thought is many cells sensing and signalling together.
 - e.g. When you touch a hot tawa, nerve cells carry the message to your spine and you pull your hand back fast.
 - e.g. Learning to ride a cycle makes some links between your neurons stronger.
 - e.g. An ant's tiny brain has about a quarter of a million neurons.
 ### Can a single cell think? · *debated*
-A single cell has no brain and no nerves. Yet scientists have watched single cells sense, choose and remember. A bacterium called E. coli swims towards sugar. It does this by remembering, for a few seconds, how much sugar it sensed before. If there is more now, it keeps swimming. If there is less, it tumbles and tries a new direction. In an experiment, scientists squirted tiny specks at a trumpet-shaped single cell called Stentor, about one millimetre long. It tried one way to escape, then another, and then swam away. A yellow slime mould, which is one giant cell, found the shortest path through a maze. Scientists agree on what these cells do. They argue about whether to call it thinking.
+A single cell has no brain and no nerves. Yet scientists have watched single cells sense, choose and remember. A bacterium called E. coli swims towards sugar. They do this by remembering, for a few seconds, how much sugar they sensed before. If there is more now, they keep swimming. If there is less, they tumble and try a new direction. In an experiment, scientists squirted tiny specks at a trumpet-shaped single cell called Stentor, about one millimetre long. They tried one way to escape, then another, and then swam away. A yellow slime mould, which is one giant cell, found the shortest path through a maze. Scientists agree on what these cells do. They argue about whether to call it thinking.
 - e.g. E. coli bacteria swim towards food by comparing now with a few seconds ago.
 - e.g. Stentor tried bending away, then closing up, then swimming off when specks kept landing on it.
 - e.g. A slime mould in Japan joined oat flakes in a pattern much like Tokyo's railway map.
-- **What the cells show:** Every cell has a mind of its own kind. Sensing, choosing and remembering are what minds do, and single cells do all three. Brains were built from cells that could already do this.
+- **What the cells show:** Every cell has their own kind of mind. Sensing, choosing and remembering are what minds do, and single cells do all three. Brains were built from cells that could already do this.
 - **Some scientists who study slime moulds and bacteria:** Sensing, choosing and remembering are the basic parts of thinking. Single cells do all three. So thinking began long before brains, and brains built on what cells could already do.
 - **Many brain scientists:** What a bacterium does is clever chemistry, not thinking. Real thinking needs many neurons linked in a brain. Calling it 'thinking' stretches the word too far.
 - **Some philosophers:** The question depends on what we mean by 'thinking'. If it means 'using what you sense to choose well', cells think. If it means 'having an inner feeling of thinking', nobody knows if cells have that.
@@ -130,7 +130,7 @@ All cells come from cells. So where did the very first cell come from? Nobody kn
 ## Mostly agreed
 - All living things are made of one or more cells. *How we know:* Scientists have looked at millions of living things with microscopes. Every plant, animal, fungus and bacterium is made of cells.
 - Every new cell comes from a cell that was already there. *How we know:* Under the microscope, scientists can watch a cell split into two. Nobody has ever seen a cell form from non-living matter.
-- A cell is the smallest thing that is alive by itself. *How we know:* A single cell can take in food, grow and split. The parts inside a cell cannot live on their own if the cell is broken open.
+- A cell is the smallest thing that is alive on their own. *How we know:* A single cell can take in food, grow and split. The parts inside a cell cannot live on their own if the cell is broken open.
 - Plant cells have a stiff wall. Animal cells do not. *How we know:* Onion cells look like boxes with straight edges. Cheek cells are soft and floppy. Stains show the plant walls clearly.
 - Single cells can sense their world and change what they do. *How we know:* Bacteria swim towards food and away from harm. Scientists have tracked them under microscopes since the 1970s.
 
@@ -143,7 +143,7 @@ All cells come from cells. So where did the very first cell come from? Nobody kn
   For: Maggots seem to appear on old meat. Tiny creatures seem to appear in water left standing.  
   Against: In 1668 Francesco Redi covered some jars of meat with cloth. No maggots appeared, because flies could not lay eggs. In the 1860s Louis Pasteur showed boiled broth stayed free of microbes if nothing could fall in. New life comes only from life.
 - **Only brains can think. A single cell just follows simple chemistry.** (Many brain scientists today.; *debated*)  
-  For: Brains do things no cell can, like talking and doing sums. A bacterium's choices can be explained by its chemicals.  
+  For: Brains do things no cell can, like talking and doing sums. A bacterium's choices can be explained by their chemicals.  
   Against: Our brain cells also work by chemistry and flowing charged particles. Single cells sense, choose and remember. Slime moulds solved mazes and learned to ignore harmless bitter tastes.
 - **You have ten times more bacteria cells in you than your own cells.** (A rough guess made in the 1970s and repeated in many books.; *rejected*)  
   For: There really are huge numbers of bacteria in your gut.  
@@ -159,17 +159,17 @@ All cells come from cells. So where did the very first cell come from? Nobody kn
 We have been learning that every living thing is made of cells, and that new cells come only from living cells. Now we ask what that tells us about ourselves and the world.
 
 **Deep truth.** Milk with living curd set into curd, but milk with boiled curd stayed runny. New curd bacteria came only from living ones, never from the milk itself. So every cell alive today, yours too, comes from an unbroken chain of living cells. That chain goes back to the first cells, over 3.5 billion years ago.  
-*Habit it breaks:* We call a baby, a sprout or a fresh bowl of curd 'new life'. Its cells are new, but none of them started from nothing. Each one split off from a living cell, in a line that has never broken.  
+*Habit it breaks:* We call a baby, a sprout or a fresh bowl of curd 'new life'. Their cells are new, but none of them started from nothing. Each one split off from a living cell, in a line that has never broken.  
 *Evidence:* In the curd bowls, only milk given living curd bacteria set. Boiled curd, with its bacteria killed, set nothing. Remak saw new cells form only when a cell split, and Pasteur showed that boiled broth stays free of microbes if nothing living gets in.
 
-- *who am i:* You began as one cell. All your trillions of cells came from it, by splitting again and again.
+- *who am i:* You began as one cell. All your trillions of cells came from that cell, by splitting again and again.
 - *what is life:* Life is made of cells, and every cell comes from a living cell. Your cells are the newest links in a chain that has never broken since the first cells.
 - *what is this world:* The world is full of tiny lives we cannot see, in every drop of tank water and every spoon of curd.
 
 Every cell in you came from a cell, and that one from another, back to the first cells at least 3.5 billion years ago. The curd in your kitchen, the neem tree outside and you are all branches of that one line. This line carried more than chemicals. It carried the sensing and choosing that every cell does, and your own awareness grew out of it.
 
-- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that subtle essence you cannot see, this whole great banyan tree grows.' (Shvetaketu saw nothing inside the banyan seed, yet the whole tree grows from it. Science finds that the tree is built of cells too small to see, each one made by another cell.)
-- **Tattvartha Sutra of Umasvati, chapter 2:** Jain thought says every living being has a jiva, a living soul, even beings with only one sense, the sense of touch, like plants. (Jain teachers said that a being with only the sense of touch is still a living soul. Science finds that a single cell, with no eyes or ears, still senses the chemicals and touches around it.)
+- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that subtle essence you cannot see, this whole great banyan tree grows.' (Shvetaketu saw nothing inside the banyan seed, yet the whole tree grows from that seed. Science finds that the tree is built of cells too small to see, each one made by another cell.)
+- **Tattvartha Sutra of Umasvati, chapter 2:** Jain thought says every living being has a jiva, a living soul, even beings with only one sense, the sense of touch, like plants. (Jain teachers said that a being with only the sense of touch is still a living soul. Science finds that a single cell, with no eyes or ears, still senses the chemicals and touches around them.)
 - **Aristotle, On the Soul (De Anima), Book II:** Aristotle taught that every living thing has a 'soul', meaning a power of life. Plants have the power to feed and grow. Animals also have the power to sense. (Aristotle gave the power to sense only to animals. Cell scientists now find that a single bacterium senses food and swims towards it.)
 - Science (settled): All living things are made of cells, and all cells come from earlier cells, going back to a shared first ancestor billions of years ago.
 - Science (debated): Single cells sense, choose and keep a short memory. Whether this is the beginning of thinking, or of awareness, is argued about.
@@ -183,16 +183,16 @@ Every cell in you came from a cell, and that one from another, back to the first
 ## Deep and big questions
 - *big:* If you are made of trillions of living cells, is each cell a little 'you'? Or is 'you' something all of them make together? (hint: Can one of your cheek cells feel happy? Can you, without your cells?)
 - *big:* You began as one single cell. Where were 'you' before that? (hint: That first cell came from your mother's and father's cells. And theirs came from cells too.)
-- *deep:* Why are cells so small? Why not one giant cell the size of an elephant? (hint: Food gets into a cell through its membrane, its thin skin. Would food reach the middle of a huge cell quickly?)
-- *deep:* A bacterium has no brain, but it swims towards food. Is that choosing? (hint: When you walk towards the smell of food, what are you doing?)
+- *deep:* Why are cells so small? Why not one giant cell the size of an elephant? (hint: Food gets into a cell through their membrane, their thin skin. Would food reach the middle of a huge cell quickly?)
+- *deep:* A bacterium has no brain, but they swim towards food. Is that choosing? (hint: When you walk towards the smell of food, what are you doing?)
 - *deep:* Every cell comes from a cell. So how did the first cell begin? (hint: Think of a soap bubble: a thin skin with something inside. Could a tiny bubble like that be a start?)
 - *deep:* A wooden chair is made of cells that were once alive. Is it more like a stone, or more like a tree? (hint: What can a tree do that a chair cannot? What do a chair and a tree share?)
 - *big:* Leeuwenhoek was a cloth-seller with no degree, and people doubted him. What makes us believe someone? (hint: What did he do to show others he was right?)
-- *deep:* A slime mould is one cell, and it can remember. Where is a memory kept when there is no brain? (hint: The slime mould leaves a trail behind it. Could the trail be a kind of memory?)
+- *deep:* A slime mould is one cell, and they can remember. Where is a memory kept when there is no brain? (hint: The slime mould leaves a trail behind them. Could the trail be a kind of memory?)
 - *big:* All living things are made of cells. Does that make a mango tree, an ant and you a family? (hint: Scientists think all cells come from one first cell, long ago.)
 
 ## Story: The Trumpet in the Tank Water
-*The Foldscope paper microscope is real, and Stentor is a real single cell about a millimetre long. Scientists have watched Stentor bend away, reverse its hairs, shrink and swim off when specks land on it (Jennings 1902, Dexter and others 2019), though not every Stentor does these in the same order. Kavya, Rohan, the school and the temple tank are made up.*
+*The Foldscope paper microscope is real, and Stentor is a real single cell about a millimetre long. Scientists have watched Stentor bend away, reverse their hairs, shrink and swim off when specks land on them (Jennings 1902, Dexter and others 2019), though not every Stentor does these in the same order. Kavya, Rohan, the school and the temple tank are made up.*
 
 The microscope came in a brown envelope, flat as a chapati. Kavya's teacher had handed one to every child in Class 3, and said only this: 'Look at everything. Then look again.'
 
@@ -222,47 +222,47 @@ Early next morning, her mother walked with her to the temple tank. The steps wer
 
 The drop was a city. Clear slipper-shaped creatures zoomed past, spinning as they went. A grey blob crept along, pushing out a soft arm and then flowing into it. Tiny green beads rolled by. And on a thread of weed, holding on with a narrow foot, stood a pale blue-green trumpet.
 
-Its wide mouth was fringed with hairs, beating so fast they blurred into a shimmer. Specks of mud swirled into the trumpet, like leaves into a whirlpool. Kavya looked at the sheet her teacher had given her. There it was, drawn in pencil. 'Stentor. One single cell. Almost big enough to see with your eyes.'
+Their wide mouth was fringed with hairs, beating so fast they blurred into a shimmer. Specks of mud swirled into the trumpet, like leaves into a whirlpool. Kavya looked at the sheet her teacher had given her. There they were, drawn in pencil. 'Stentor. One single cell. Almost big enough to see with your eyes.'
 
 One cell. No brain, no eyes, no hands. Just one cell, standing on a weed and eating.
 
-Rohan came to look, because Kavya would not stop squeaking. He watched for a whole minute. 'It's like a pump,' he said. 'It just sucks things in. A machine.'
+Rohan came to look, because Kavya would not stop squeaking. He watched for a whole minute. 'They're like a pump,' he said. 'They just suck things in. A machine.'
 
 Kavya remembered her teacher's other words, written at the bottom of the sheet. 'If you want to know what something can do, ask it a question. Then wait.'
 
 How do you ask a cell a question? Kavya thought about it. Then she took a single straw from the broom, dipped its tip in a pinch of powdered chalk, and held it over the slide. She tapped it once. Fine white specks drifted down into the drop, right over the trumpet.
 
-The trumpet bent away. It leaned, slowly, to one side, like a person ducking from rain.
+The trumpet bent away. They leaned, slowly, to one side, like a person ducking from rain.
 
 The specks kept falling. Kavya tapped again.
 
-Now the shimmer of hairs stopped. Then it started again, but the other way round. Instead of pulling specks in, the trumpet was pushing them out, blowing them away from its mouth.
+Now the shimmer of hairs stopped. Then it started again, but the other way round. Instead of pulling specks in, the trumpet was pushing them out, blowing them away from their mouth.
 
 'Did you see that?' whispered Kavya.
 
 Rohan had put down his phone.
 
-She tapped a third time. The trumpet gave up blowing. All at once it squeezed itself down into a tight little ball on the weed, the way Kavya curled up under her quilt when thunder came.
+She tapped a third time. The trumpet gave up blowing. All at once they squeezed themselves down into a tight little ball on the weed, the way Kavya curled up under her quilt when thunder came.
 
 They waited. The ball slowly opened into a trumpet again. Kavya tapped one last time.
 
-This time the trumpet did something new. It let go of the weed. Its narrow foot came free, and the whole cell turned and swam off, out of the chalky cloud and into clear water, until it was gone from the circle of light.
+This time the trumpet did something new. They let go of the weed. Their narrow foot came free, and the whole cell turned and swam off, out of the chalky cloud and into clear water, until they were gone from the circle of light.
 
 For a long moment neither of them said anything.
 
-'It tried one thing,' said Kavya slowly. 'It bent. That didn't work, so it tried something else. It blew. Then it hid. Then it left.' She looked up. 'That's what I do when I can't open a jar. I try one way, then another way, then I call Amma.'
+'They tried one thing,' said Kavya slowly. 'They bent. That didn't work, so they tried something else. They blew. Then they hid. Then they left.' She looked up. 'That's what I do when I can't open a jar. I try one way, then another way, then I call Amma.'
 
-'But it hasn't got a brain,' said Rohan. He did not say it like a know-it-all this time. He said it like a question.
+'But they haven't got a brain,' said Rohan. He did not say it like a know-it-all this time. He said it like a question.
 
 Kavya thought of the pale bricks of the onion, and the blue fried eggs from her cheek. 'Your brain is made of cells, isn't it?' she said. 'Who taught them how to choose? Maybe they learned it from cells like this one. A long, long time ago.'
 
-Rohan held out his hand for the paper microscope. Kavya gave it to him. He put his eye to the bead and stayed there a long time, looking for the trumpet in the clear water, as if it might come back to tell him more.
+Rohan held out his hand for the paper microscope. Kavya gave it to him. He put his eye to the bead and stayed there a long time, looking for the trumpet in the clear water, as if they might come back to tell him more.
 
 **For the parent:** A single cell, with no brain at all, sensed the specks, tried one thing, then another, and chose to leave. Brains are made of cells, so thinking may be older than brains.
 
 - Ask: What did the onion skin look like to Kavya? What were the bricks really?
 - Ask: Rohan said cells are just bricks that don't do anything. What did the trumpet cell do that changed his mind?
-- Ask: How did Kavya 'ask the cell a question'? Can you think of another way to ask it?
+- Ask: How did Kavya 'ask the cell a question'? Can you think of another way to ask?
 - Ask: Kavya said she tries one way, then another, when a jar won't open. When have you done that?
 - Ask: Why do you think Rohan stopped sounding like a know-it-all at the end?
 
@@ -280,7 +280,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   *Parent does:* Find the card 'A wooden spoon'. Play it together as a practice round.  
   *Parent says:* Let's practise. A wooden spoon. Is it alive? Was it ever made by living cells?  
   *Child mode:* Practice card: a wooden spoon. Which mat does it go on?
-  - Ask: Where did the wood come from? (good: From a tree.; A tree was alive, and wood is made of its cells' walls.)
+  - Ask: Where did the wood come from? (good: From a tree.; A tree was alive, and wood is made of their cells' walls.)
   - Check: A wooden spoon. Which mat? → **Cells that were once alive**
 - **s3 (10 min)**  
   *Parent does:* Take turns drawing cards until all are sorted. Do each TEST IT card together when it comes up.  
@@ -300,12 +300,12 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   *Child mode:* Count your tokens. Look at the 'once alive' mat. Which card surprised you?
   - Think: Is there any card you still are not sure about? How could you find out?
 ### g2 · Run and Tumble: be a bacterium (15 min)
-- **rules:** One player is the bacterium. They close their eyes or wear a loose cloth over them.; The food maker hides a piece of food, like a cut lemon or a sweet, somewhere in the room.; The bacterium takes 3 steps forward in a straight line. This is a 'run'.; After each run, the food maker says 'stronger' if the bacterium is closer to the food than before, or 'weaker' if it is further away.; If it is stronger, the bacterium runs again the same way. If it is weaker, the bacterium tumbles: it spins slowly on the spot, stops, and sets off facing a new way.; Count the runs it takes to touch the food. Then swap.
+- **rules:** One player is the bacterium. They close their eyes or wear a loose cloth over them.; The food maker hides a piece of food, like a cut lemon or a sweet, somewhere in the room.; The bacterium takes 3 steps forward in a straight line. This is a 'run'.; After each run, the food maker says 'stronger' if the bacterium is closer to the food than before, or 'weaker' if they are further away.; If it is stronger, the bacterium runs again the same way. If it is weaker, the bacterium tumbles: they spin slowly on the spot, stop, and set off facing a new way.; Count the runs it takes to touch the food. Then swap.
 - **Printable cards: Smell cards: STRONGER and WEAKER:** STRONGER; WEAKER
 - **Printable score sheet: Runs to reach the food:** Game 1 runs: ___; Game 2 runs: ___; Game 3 runs: ___
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* 1. Clear a space with nothing to trip on. 2. Hide the food somewhere at floor or table height. 3. Gently cover the bacterium's eyes, or ask them to keep them shut.  
-  *Parent says:* A bacterium is one tiny cell. It has no eyes and no brain. Yet it finds food. Let's find out how, by being one.  
+  *Parent says:* A bacterium is one tiny cell. They have no eyes and no brain. Yet they find food. Let's find out how, by being one.  
   *Child mode:* You are a bacterium. You are one cell. You have no eyes. Can you find the food?
   - Note: Move chairs and sharp corners away, and walk beside the child. A slow spin is enough for the tumble.
 - **s2 (8 min)**  
@@ -313,12 +313,12 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   *Parent says:* Run 3 steps. Stronger or weaker? Remember what it was a moment ago.  
   *Child mode:* Take 3 steps. Listen. Stronger? Keep going. Weaker? Spin and try a new way.
   - Ask: To know if the smell is stronger, what does the bacterium have to remember? (good: How strong it was before.; What it smelled a moment ago.)
-  - Check: A bacterium runs, and the food smell gets weaker. What does it do? → **Tumbles and sets off in a new direction**
+  - Check: A bacterium runs, and the food smell gets weaker. What do they do? → **Tumbles and sets off in a new direction**
 - **s3 (3 min)**  
   *Parent does:* Play twice more. Write the number of runs each time on the score sheet.  
   *Parent says:* Did you get better? Why might the bacterium sometimes take a long time?  
   *Child mode:* Play again. Count your runs. Did you get faster?
-  - Think: The bacterium only remembers a few seconds back. Would a longer memory help it?
+  - Think: The bacterium only remembers a few seconds back. Would a longer memory help them?
 - **s4 (2 min)**  
   *Parent does:* Ask your child to say three sentences: what I think, what I saw, why.  
   *Parent says:* Tell me three things. What do you think now about how a bacterium finds food? What happened in our game that shows it? Why does it work?  
@@ -475,7 +475,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   *Child mode:* Why does a drop of water make things look bigger?
   - Ask: Why does the drop magnify? (good: It is curved.; It bends the light.; It is clear and round like a lens.)
 ### a3 · The Size Ladder: from you to a cell (20 min)
-- **safety:** No safety worries. If you look at a real ant, let it go afterwards.
+- **safety:** No safety worries. If you look at a real ant, let them go afterwards.
 - **record:** Your ladder has 7 steps. Under each, write how big it is.
 - **s1 (5 min)**  
   *Parent does:* Draw seven boxes down the paper strip. In box 1, draw your child. Write 'about 1 metre'.  
@@ -597,7 +597,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **creative:** Add one or two meeting points between cities. Sometimes three roads meeting at a point saves string.; Think like the slime mould: start with string everywhere, then remove the strings that are not needed.; Ask: what if one road breaks? The slime mould kept a few extra links, so the network still worked.
 - **s1 (5 min)**  
   *Parent does:* Place the six cups across the floor, about one big step apart.  
-  *Parent says:* A slime mould is one giant cell, with no brain. It was given oat flakes placed like the cities around Tokyo. It grew tubes between them, a lot like the real railway. Can we do as well?  
+  *Parent says:* A slime mould is one giant cell, with no brain. They were given oat flakes placed like the cities around Tokyo. They grew tubes between the flakes, a lot like the real railway. Can we do as well?  
   *Child mode:* Put out 6 cups. They are cities. A one-celled slime mould joined cities like these. Can you?
 - **s2 (15 min)**  
   *Parent does:* Try three designs. Measure the string each time and write it down.  
@@ -608,13 +608,13 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   *Parent does:* Your child explains their best design, then draws their own map of six towns.  
   *Parent says:* How did you decide which strings to keep? How do you think the slime mould decided?  
   *Child mode:* Explain your best design. Then draw six towns you know and join them.
-  - Think: The slime mould has no brain. How could it still choose the best tubes?
+  - Think: The slime mould has no brain. How could they still choose the best tubes?
 
 ## Worksheets
 ### Cell Spotter (core) (core, 16 questions)
 1. (mcq) What is a cell?  
    Options: The smallest living piece of a living thing / A tiny stone inside living things / A room in a house / A kind of battery  
-   **Answer:** The smallest living piece of a living thing. *Why:* A cell is the smallest piece of a living thing that is alive by itself. Picking 'battery' happens because we also say 'cell' for batteries. It is the same word with a different meaning. Picking 'a tiny stone' usually means thinking cells are dead building blocks, but each cell is alive.
+   **Answer:** The smallest living piece of a living thing. *Why:* A cell is the smallest piece of a living thing that is alive on their own. Picking 'battery' happens because we also say 'cell' for batteries. It is the same word with a different meaning. Picking 'a tiny stone' usually means thinking cells are dead building blocks, but each cell is alive.
 2. (mcq) Which of these is made of cells?  
    Options: A steel spoon / A mango leaf / A glass marble / A plastic bucket  
    **Answer:** A mango leaf. *Why:* A mango leaf is part of a living tree, so it is made of cells. Steel, glass and plastic were never alive, so they have no cells. Picking 'plastic' sometimes happens because plastic is made from oil, which came from ancient life. But plastic itself has no cells.
@@ -653,11 +653,11 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 1. (mcq) Asha set three bowls of warm milk overnight. Bowl A had a spoon of curd. Bowl B had nothing. Bowl C had a spoon of curd that was boiled first. Only bowl A set. What is the best explanation?  
    Options: Living bacteria in the curd split again and again, and only bowl A had living bacteria / Curd is heavy, so it makes milk thick / Milk always turns into curd by itself overnight / Boiling made the curd too sour  
    **Answer:** Living bacteria in the curd split again and again, and only bowl A had living bacteria. *Why:* Cells come only from living cells. The curd in bowl A held living bacteria, which multiplied in the warm milk. Boiling killed the bacteria in bowl C, and bowl B had none added. Picking 'milk turns into curd by itself' is like the old idea of spontaneous generation: bowl B shows it does not.
-2. (mcq) A bacterium swims, and the sugar smell gets weaker. What does it do next?  
+2. (mcq) A bacterium swims, and the sugar smell gets weaker. What do they do next?  
    Options: Tumbles and tries a new direction / Keeps swimming the same way / Grows eyes / Stops for ever  
-   **Answer:** Tumbles and tries a new direction. *Why:* A bacterium compares what it smells now with a few seconds ago. If it is getting weaker, it tumbles and tries another way. Picking 'keeps swimming' misses the clever part: it remembers and compares.
-3. (truefalse) A slime mould is one giant cell, and it can find the shortest path through a maze.  
-   **Answer:** True. *Why:* True. In 2000, Toshiyuki Nakagaki and his team put a slime mould in a maze with food at two ends. It ended up as one tube along the shortest path.
+   **Answer:** Tumbles and tries a new direction. *Why:* A bacterium compares what they smell now with a few seconds ago. If the smell is getting weaker, they tumble and try another way. Picking 'keeps swimming' misses the clever part: they remember and compare.
+3. (truefalse) A slime mould is one giant cell, and they can find the shortest path through a maze.  
+   **Answer:** True. *Why:* True. In 2000, Toshiyuki Nakagaki and his team put a slime mould in a maze with food at two ends. They ended up as one tube along the shortest path.
 4. (mcq) Which of these is a single cell?  
    Options: One cotton fibre / A whole leaf / A cockroach / A strand of spider web  
    **Answer:** One cotton fibre. *Why:* Each cotton fibre grows from one cell on the cotton seed. A leaf and a cockroach are made of many cells. Spider silk is made by cells but is not a cell itself. Picking 'a whole leaf' usually means thinking anything thin and flat is one cell.
@@ -679,7 +679,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
    Options: Cells called neurons, and other cells / Electricity only / One giant cell / Nothing alive  
    **Answer:** Cells called neurons, and other cells. *Why:* Your brain is made of about 86 billion neurons and many helper cells. Thinking happens when these cells pass signals. Picking 'electricity only' is half right: signals are tiny flows of charged particles, but they happen in living cells.
 12. (write) Rohan said cells are like bricks that don't do anything. Give one example from this unit that shows a cell doing something.  
-   **Answer:** A Stentor cell bent away, reversed its hairs, shrank and swam off when specks landed on it. Or: a bacterium swims towards food by comparing smells. Or: a slime mould found the shortest path in a maze.. *Why:* Cells are alive. They sense and respond, unlike bricks.
+   **Answer:** A Stentor cell bent away, reversed their hairs, shrank and swam off when specks landed on them. Or: a bacterium swims towards food by comparing smells. Or: a slime mould found the shortest path in a maze.. *Why:* Cells are alive. They sense and respond, unlike bricks.
 13. (write) What is the difference between a wooden spoon and a living tree? Use the word 'cells'.  
    **Answer:** Both are made of cells. The tree's cells are alive: they take in food, grow and split. The spoon's cells are dead; only their walls are left, so it cannot grow.. *Why:* Being made of cells is not the same as being alive now.
 14. (draw) Draw a size ladder with 4 steps: you, a big ant, a mustard seed and an onion cell. Write how big each is.  
@@ -692,10 +692,10 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
    Options: Under the microscope, new cells are seen forming when one cell splits into two / Cells are too small to see / Crystals are alive / Salt water has cells in it  
    **Answer:** Under the microscope, new cells are seen forming when one cell splits into two. *Why:* Remak watched cells divide in growing chick eggs and showed that new cells come from old ones. Nobody has ever seen a cell form from liquid. Picking 'crystals are alive' mixes up growing by adding on the outside with growing from inside.
 2. (write) Why do you think cells are so small? Why isn't an elephant one giant cell?  
-   **Answer:** Food and air get into a cell through its membrane, its thin skin. In a tiny cell, everything inside is close to the membrane, so food reaches it fast. In a giant cell, the middle would be too far away to get food in time. So big living things are made of many small cells.. *Why:* A small cell has a lot of membrane compared with its inside. This is one reason scientists give, though a few giant cells, like slime moulds, find clever ways around it.
-3. (mcq) A slime mould crossed a bridge covered in a harmless bitter taste. At first it went slowly. After a few days, it crossed quickly. What does this show?  
-   Options: It learned to ignore something harmless, a simple kind of memory / It grew a brain / It got tired / The taste disappeared by itself  
-   **Answer:** It learned to ignore something harmless, a simple kind of memory. *Why:* In 2016, Romain Boisseau, David Vogel and Audrey Dussutour showed slime moulds 'got used to' a harmless bitter taste. Getting used to something is called habituation. It is one of the simplest kinds of learning. Picking 'grew a brain' is not possible: it stayed one cell.
+   **Answer:** Food and air get into a cell through their membrane, their thin skin. In a tiny cell, everything inside is close to the membrane, so food reaches it fast. In a giant cell, the middle would be too far away to get food in time. So big living things are made of many small cells.. *Why:* A small cell has a lot of membrane compared with their inside. This is one reason scientists give, though a few giant cells, like slime moulds, find clever ways around it.
+3. (mcq) A slime mould crossed a bridge covered in a harmless bitter taste. At first they went slowly. After a few days, they crossed quickly. What does this show?  
+   Options: They learned to ignore something harmless, a simple kind of memory / They grew a brain / They got tired / The taste disappeared by itself  
+   **Answer:** They learned to ignore something harmless, a simple kind of memory. *Why:* In 2016, Romain Boisseau, David Vogel and Audrey Dussutour showed slime moulds 'got used to' a harmless bitter taste. Getting used to something is called habituation. It is one of the simplest kinds of learning. Picking 'grew a brain' is not possible: they stayed one cell.
 4. (truefalse) Scientists agree that a bacterium thinks in the same way you do.  
    **Answer:** False. *Why:* False. Scientists agree on what bacteria do: sense, choose and remember for a few seconds. They argue about whether to call it thinking, and nobody knows yet what a bacterium feels.
 5. (write) Leeuwenhoek had no university degree. People doubted him. What did he do so others would believe him? What would you do?  
@@ -710,9 +710,9 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
    **Answer:** The first cells began as tiny fatty bubbles holding molecules that could copy themselves. *Why:* How the first cell began is still an open question. The fatty-bubble idea is one of the best guesses. The other three have been checked by millions of observations.
 9. (fill) The brain scientist who counted the neurons in the human brain, about 86 billion, is Suzana Herculano-____.  
    **Answer:** ['Houzel']. *Why:* Suzana Herculano-Houzel, a Brazilian scientist, and her team counted brain cells in 2009, using a method her lab had invented.
-10. (mcq) A Stentor cell has no brain. When specks fell on it, it bent away, then reversed its hairs, then shrank, then swam off. Which answer best describes this?  
+10. (mcq) A Stentor cell has no brain. When specks fell on them, they bent away, then reversed their hairs, then shrank, then swam off. Which answer best describes this?  
    Options: Trying different responses, one after another / Doing exactly one thing for ever / Being pushed by the water / Sleeping  
-   **Answer:** Trying different responses, one after another. *Why:* Stentor tried a series of different responses. In 2019, scientists filmed this again and found most Stentors did try different things, though not always in the same order. Picking 'pushed by the water' would not explain why it changed what it did.
+   **Answer:** Trying different responses, one after another. *Why:* Stentor tried a series of different responses. In 2019, scientists filmed this again and found most Stentors did try different things, though not always in the same order. Picking 'pushed by the water' would not explain why they changed what they did.
 11. (write) Think of a thermostat, the switch that turns off a water heater when it is hot. It senses heat and acts. Is it thinking? How is it different from a bacterium?  
    **Answer:** A thermostat senses and acts, but it was built by people, does not eat, grow or make more of itself, and does exactly one thing. A bacterium is alive, compares now with before, and makes more bacteria. Whether either 'thinks' depends on what we mean by thinking.. *Why:* There is no single right answer. Good answers compare carefully.
 12. (order) Put these discoveries in time order, earliest first: all animals are made of cells (Schwann), Hooke names cells, every cell comes from a cell (Remak and Virchow), Leeuwenhoek sees living single cells.  
@@ -731,8 +731,8 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 
 ## Quiz
 1. (mcq) What is a cell?  
-   Options: The smallest piece of a living thing that is alive by itself / A tiny piece of rock / A battery / A drop of water  
-   **Answer:** The smallest piece of a living thing that is alive by itself. *Why:* A cell is the smallest living piece of a living thing. Picking 'battery' mixes up two meanings of the word 'cell'.
+   Options: The smallest piece of a living thing that is alive on their own / A tiny piece of rock / A battery / A drop of water  
+   **Answer:** The smallest piece of a living thing that is alive on their own. *Why:* A cell is the smallest living piece of a living thing. Picking 'battery' mixes up two meanings of the word 'cell'.
 2. (mcq) Which is NOT made of cells?  
    Options: A glass marble / A neem leaf / Your skin / A mushroom  
    **Answer:** A glass marble. *Why:* Glass was never alive, so it has no cells. The leaf, your skin and the mushroom are parts of living things. Picking 'mushroom' usually means thinking mushrooms are not alive, but they are fungi, made of cells.
@@ -755,8 +755,8 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
    Options: 10 / 1 / 100 / 1,000  
    **Answer:** 10. *Why:* A tenth of a millimetre, ten times over, makes one millimetre. So about 10. Picking 1,000 is closer to the number of bacteria that would fit.
 9. (mcq) A bacterium finds food by…  
-   Options: comparing the smell now with a few seconds ago, and turning if it gets weaker / seeing it with its eyes / asking other bacteria for a map / waiting for food to come  
-   **Answer:** comparing the smell now with a few seconds ago, and turning if it gets weaker. *Why:* A bacterium has no eyes. It remembers for a few seconds and compares. Picking 'eyes' gives it parts it doesn't have.
+   Options: comparing the smell now with a few seconds ago, and turning if it gets weaker / seeing it with their eyes / asking other bacteria for a map / waiting for food to come  
+   **Answer:** comparing the smell now with a few seconds ago, and turning if it gets weaker. *Why:* A bacterium has no eyes. They remember for a few seconds and compare. Picking 'eyes' gives them parts they don't have.
 10. (mcq) Do scientists agree that single cells think?  
    Options: No. They agree on what cells do, but argue about calling it thinking / Yes, all scientists say cells think like us / Yes, because cells have tiny brains / No, because cells never do anything  
    **Answer:** No. They agree on what cells do, but argue about calling it thinking. *Why:* Cells sense, choose and remember a little. Whether that counts as thinking is debated. Picking 'cells never do anything' ignores what bacteria, Stentor and slime moulds do.
@@ -796,7 +796,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **How did the very first cell begin?** Nobody was there, and no fossils of the first cells survive. Scientists test ideas in labs, like tiny fatty bubbles holding copying molecules, but no one has made a living cell from non-living matter.
 - **Can a single cell feel anything?** We can see what a cell does, but not what, if anything, it is like to be that cell. Nobody knows how to test it.
 - **Should we call what a single cell does 'thinking'?** Scientists agree cells sense, choose and remember a little. They disagree about where to draw the line for the word 'thinking'.
-- **How does a slime mould, with no brain, decide which tubes to keep?** Scientists have good models: tubes that carry more flow grow thicker, and the rest fade. But the full story of how one cell coordinates itself is still being studied.
+- **How does a slime mould, with no brain, decide which tubes to keep?** Scientists have good models: tubes that carry more flow grow thicker, and the rest fade. But the full story of how one cell coordinates all their tubes is still being studied.
 - **Could there be life on other worlds that is not made of cells?** All life we know is made of cells. We have only ever studied life on Earth.
 - **How many kinds of single-celled life are there on Earth?** Most have never been grown in a lab or named. Scientists find new ones in soil, seas and even clouds.
 - **Exactly how many cells are in your body right now?** Careful estimates say about 30 trillion for a grown-up, but bodies differ and cells are always dying and being replaced.
@@ -806,7 +806,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - Is the dal you are eating made of cells? Was it ever?
 - Which things at this table were once alive?
 - How many cells do you think you left on that cup?
-- If a bacterium has no eyes, how does it find food?
+- If a bacterium has no eyes, how do they find food?
 - Is a cloud alive? Does it have cells?
 - When your cut heals, where do the new skin cells come from?
 - Is the curd alive? How could you tell?
@@ -814,24 +814,24 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - What would you like to look at under a microscope next?
 
 ## Jokes
-- Why did the cell go to the party alone? *Because it was a single-celled organism.*
-- What did one cell say to the other after it split? *You're a chip off the old block!*
+- Why did the cell go to the party alone? *Because they were a single-celled organism.*
+- What did one cell say to the other after they split? *You're a chip off the old block!*
 - Why did the onion skin win the talent show? *It had layers of talent.*
 - Why don't bacteria ever get lonely? *Because they keep splitting into new friends.*
 - What do you call a cell that loves cricket? *A bat-terium.*
 - Why was the microscope so good at making friends? *It always saw the small things in people.*
-- What did the cheek cell say when it fell off? *Bye, I'm out of my mouth!*
+- What did the cheek cell say when they fell off? *Bye, I'm out of my mouth!*
 - Why did the cell phone go to biology class? *It heard it had cells too.*
-- Why was the amoeba never sad for long? *It could always pull itself together.*
+- Why was the amoeba never sad for long? *They could always pull themselves together.*
 - What's a cell's favourite game? *Divide and conquer.*
 - Why did Robert Hooke like cork so much? *Because it was full of little rooms.*
-- Why did the yeast get a medal? *It rose to the occasion.*
+- Why did the yeast get a medal? *They rose to the occasion.*
 - What did the slime mould say about the maze? *Easy! I just went with the flow.*
 - Why did the cell wall feel proud? *Because the whole plant stood up for it.*
 - Why are bacteria good at maths? *They multiply by dividing.*
-- How do you know a tomato cell is friendly? *It's full of juice and always ready to share.*
-- What did the neuron say to its friend? *Let's stay connected.*
-- Why did the Stentor swim away? *It had heard enough of that chalk talk.*
+- How do you know a tomato cell is friendly? *They're full of juice and always ready to share.*
+- What did the neuron say to their friend? *Let's stay connected.*
+- Why did the Stentor swim away? *They had heard enough of that chalk talk.*
 
 ## Connected maths
 - In a phone photo of onion skin, Meera counted 10 cells side by side across 1 millimetre. How many cells would fit side by side across 1 centimetre? Remember, 1 centimetre is 10 millimetres. **100 cells.**. 10 cells fit across 1 millimetre. 1 centimetre is 10 millimetres. So it is 10 groups of 10 cells. 10 times 10 is 100. So about 100 onion cells fit across 1 centimetre. (queues `math.multiplication.equal-groups.L3`)
@@ -867,7 +867,7 @@ What Makes a Thing Alive? (sci.what-is-life.L3): Topic-level song
 - Where do new cells come from? → From cells splitting into two.
 - Is a wooden spoon alive? → No. It is made of tree cells that were once alive.
 - Can one cell be a whole living thing? → Yes. Bacteria, yeast and amoebas are single cells.
-- How does a bacterium find food with no eyes? → It compares the smell now with a few seconds ago, and turns if it gets weaker.
+- How does a bacterium find food with no eyes? → They compare the smell now with a few seconds ago, and turn if it gets weaker.
 - About how many cells are in a grown-up? → About 30 trillion.
 
 ## Plan

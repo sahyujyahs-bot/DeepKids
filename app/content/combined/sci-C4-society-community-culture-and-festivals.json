@@ -1,0 +1,1389 @@
+{
+ "key": "combined|sci|4|society-community-culture-and-festivals",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "society-community-culture-and-festivals",
+ "title": "Living together: how a neighbourhood works",
+ "source": "DeepKids Combined. Covers NCERT Class 4 Chapter 1 'Living Together' (community as togetherness and interdependence, Van Mahotsav and caring for shared spaces, sharing in festivals) and Chapter 2 'Exploring Our Neighbourhood' (transport and communication then and now, community institutions, banks and money basics, drawing and reading maps and directions). It also covers why cooperation pays, what trees do for a street, how sound and signals carry a message, and why money works. No textbook needed.",
+ "summary": "A ₹100 note is a piece of printed paper, yet a shopkeeper gives you real rice for it. That only works because millions of strangers trust each other. Your child builds a string web of the people and beings their family depends on, plays a sharing game that shows why helping pays when you meet again, and catches the water a plant gives off. They cook and share food for a festival, make a string telephone, count how many people a bus and a car move, run a barter market and draw a map of their own building from counted steps.",
+ "builds_on": "Class 3 rung: the breakfast chain of helpers, the paper-bag test of the division of labour, public services and taxes, ant and bee colonies, culture as learned behaviour, festival calendars, national symbols and rights. This rung looks at one neighbourhood up close: why beings cooperate, how a community cares for shared spaces and trees, how messages and people travel, what institutions and banks do, why money works and how maps are made. Class 5 goes on to India's many cultures and heritage, unity in diversity, social issues and the freedom struggle.",
+ "goals": [
+  "By the end your child can show, with the string web, how the people and beings of a neighbourhood depend on each other.",
+  "By the end your child can explain, from the Share or Keep game, why helping pays when the same people meet again and again.",
+  "By the end your child can explain how trees cool a street, using the leaf-bag test, and say what Van Mahotsav is.",
+  "By the end your child can explain how a string telephone and a mobile phone carry a voice, and compare how many people a bus and a car move.",
+  "By the end your child can explain why barter is hard, why money works, and what a bank does with savings.",
+  "By the end your child can draw a map with a north arrow, a key and a scale, and find east and west from a shadow."
+ ],
+ "subconcepts": [
+  "interdependence: people and other beings in a neighbourhood depend on each other",
+  "cooperation and reciprocity in people and animals, such as vampire bats",
+  "why helping pays when the same beings meet again and again (the Share or Keep game)",
+  "shared spaces and how a community looks after them, including sacred groves",
+  "what trees do for a street: shade, homes for other beings, and cooling by transpiration",
+  "Van Mahotsav, the tree-planting week in July",
+  "festivals as sharing: community meals, and who does the festival work",
+  "communication then and now: runners, post, PIN codes, telegrams, phones and the internet",
+  "how a message travels: vibrations along a string, radio waves through the air, light inside glass cables",
+  "checking a message is true before sharing it",
+  "transport then and now, and how many people a road can move by bus or by car",
+  "community institutions such as the post office, health centre, library and fire station, and who pays for them",
+  "barter, the trouble of matching wants, and money as a promise everyone trusts",
+  "banks: saving, interest and loans, and women's savings groups",
+  "maps: directions, the north arrow, a key, a scale and landmarks, and finding east from the Sun"
+ ],
+ "words": [
+  [
+   "interdependence",
+   "when people or beings need each other, so that what happens to one affects the others"
+  ],
+  [
+   "cooperation",
+   "working together so that everyone gains"
+  ],
+  [
+   "reciprocity",
+   "helping someone who has helped you, or who will help you later"
+  ],
+  [
+   "commons",
+   "something a whole community shares, such as a park, a lake or a building's water tank"
+  ],
+  [
+   "transpiration",
+   "water leaving a plant's leaves as invisible water vapour"
+  ],
+  [
+   "communication",
+   "sending news or ideas from one person to another"
+  ],
+  [
+   "vibration",
+   "a very fast shaking back and forth, which is how sound travels"
+  ],
+  [
+   "transport",
+   "the ways people and goods move from place to place, such as buses, trains and trucks"
+  ],
+  [
+   "institution",
+   "a place set up to serve the community, such as a post office, a hospital or a library"
+  ],
+  [
+   "barter",
+   "swapping one thing for another without using money"
+  ],
+  [
+   "interest",
+   "extra money a bank pays you for keeping your savings, or that you pay for borrowing"
+  ],
+  [
+   "loan",
+   "money borrowed that must be paid back, usually with interest"
+  ],
+  [
+   "landmark",
+   "something easy to see that helps you find your way, such as a big tree or a temple"
+  ],
+  [
+   "map key",
+   "a box on a map that says what each symbol stands for"
+  ],
+  [
+   "scale",
+   "how much real distance one centimetre on a map stands for"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Who depends on whom?",
+   "goal": "Recall Class 3, build a web of everyone the family depends on, and read the story.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember Class 3",
+     "mins": 5,
+     "do": "Recall last year in three questions. Ask: 'When we traced breakfast back, who helped make it?' (The cook, the shopkeeper, the truck driver, the miller and the farmer.) 'When we made paper bags in a line, why did the line make more bags?' (Each person did one step and got quick at it.) 'What is culture?' (What people learn from each other and pass on.) Say: 'This year we look closely at one neighbourhood. How do people share, send messages, travel, use money and find their way?'"
+    },
+    {
+     "kind": "act",
+     "title": "The string web",
+     "mins": 15,
+     "do": "Do Activity a1. Each person holds two or three role slips: the milk seller, the vegetable farmer, the water tanker driver, the building guard, the electrician, the crow on the water tank, the neem tree by the gate, and our family. The one with the ball of string names a role they depend on and says why, keeps hold of the end, and passes the ball. Keep going until every role holds at least two strings. Then the 'farmer' gently tugs. Ask: 'Who felt it?' Then the farmer lets go. Ask: 'What happened to the web?' (It sags. Many people lose a strand at once.)",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Interdependence",
+     "mins": 8,
+     "do": "Say: 'When people or beings need each other, so that what happens to one affects the others, we call it interdependence.' Ask: 'If the water tanker did not come for three days, who in our building would feel it?' (Every family who uses the tank, the cook, the people who wash clothes.) Then turn it round. Ask: 'Who depends on us?' Good answers: the guard and the presswala depend on the money we pay them, the shop depends on our buying, a neighbour's child may depend on us to walk them to the bus, and the crow eats what falls from our balcony. Say: 'A neighbourhood is not a ladder with important people at the top. It is a web.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: Paati's Map",
+     "mins": 12,
+     "do": "Read the story 'Paati's Map' aloud. Don't explain it. Ask only the first story question: 'When the flower stall was gone, what got Paati home?' Write down your child's answer. Ask the other story questions on Day 8, after the map lesson."
+    },
+    {
+     "kind": "act",
+     "title": "Start the help-map",
+     "mins": 5,
+     "do": "Start the project. On a big sheet, your child draws your building or house in the middle, with the gate and the road. Say: 'Like Kavya in the story, we will make a map for someone new to our area. Over the next days we will add the people, trees and places that help us.' Write today's roles from the string web around the edge."
+    }
+   ],
+   "need": [
+    "a ball of string or wool",
+    "16 small paper slips with roles written on them",
+    "a large sheet of paper",
+    "sketch pens"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Why do beings help each other?",
+   "goal": "Find out, by playing, why helping pays when the same beings meet again and again, and meet animals that share.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Helping costs something",
+     "mins": 5,
+     "do": "Ask: 'Yesterday, when the farmer let go of the string, what happened to the web?' (It sagged.) Then ask: 'When a neighbour lends us sugar, they have less sugar. So why do people help, when helping costs them something?' Write down your child's guess and their reason. Say: 'Let's test it with a game.'"
+    },
+    {
+     "kind": "act",
+     "title": "The Share or Keep game",
+     "mins": 15,
+     "do": "Do Activity a2 with two players. Each round, both hide one hand behind their back and bring it out together: an open palm means 'share', a fist means 'keep'. Both share: each takes 3 beans from the bowl. One keeps and one shares: the keeper takes 5, the sharer gets nothing. Both keep: each takes 1. Before you start, ask: 'Over 10 rounds, which plan will get the most beans?' Play Game 1 (10 rounds, any choice). Then play Game 2, where the parent uses one plan: share in the first round, then copy what the child did last round. Count the beans after each game and write the totals. Ask: 'When did both of us get the most?' (When we both kept sharing.) 'What happened when one person kept?' (The other stopped sharing too, and both got little.)",
+     "ref": "a2"
+    },
+    {
+     "kind": "think",
+     "title": "Robert Axelrod's contest and the vampire bats",
+     "mins": 12,
+     "do": "Tell Voice v3 in your own words. Say: 'In 1980 a scientist named Robert Axelrod ran a contest between computer programs that played this same game hundreds of times. Which plan do you think won?' Let your child guess. Then say: 'The winner was the simplest plan, sent in by Anatol Rapoport: share first, then copy what the other player did last time. It is the plan the parent used in Game 2.' Then tell the vampire bat part: the bats live in roosts, and a bat who misses two nights of feeding can starve. Roost-mates bring up blood and share it, and they share more with bats who have shared with them before. Ask the voice question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "talk",
+     "title": "The plate that never goes back empty",
+     "mins": 8,
+     "do": "Say: 'In many Indian homes, when a neighbour sends food on a plate, the plate is never returned empty. People send back sweets, fruit or a handful of flowers.' Ask: 'Why do you think people do this?' (It says thank you, and it keeps the sharing going.) Ask: 'How is that like our Share or Keep game?' (Each time one side shares, the other shares back, so both gain over time.) Then ask: 'Which families in our building do we share with? Which have we never met?' Add one sharing story to the help-map, with an arrow between the two homes."
+    },
+    {
+     "kind": "review",
+     "title": "Finish the sentence",
+     "mins": 5,
+     "do": "Ask your child to finish this sentence aloud, then write it: 'Helping pays most when…' Good answer: 'the same people meet again and again, because then they can help each other back.' Look at the guess from the warm-up. Ask: 'Was your guess right? What would you change now?'"
+    }
+   ],
+   "need": [
+    "40 dry beans, chana or tamarind seeds in a bowl",
+    "paper and a pencil for scores"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Shared spaces and the trees of our street",
+   "goal": "Catch the water a plant gives off, find out how trees cool a street, and adopt one tree.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Look inside the leaf bag",
+     "mins": 10,
+     "do": "This morning you tied a clear bag over a leafy branch of a potted plant, and an empty tied bag beside it, for Experiment e1. Your child wrote a guess. Now look at both bags together. Ask: 'What do you see inside each bag?' (Mist and small drops in the plant's bag. The empty bag is dry.) Ask: 'Where did the water come from? We did not pour any in.' Let your child reason. Then say: 'Plants drink water through their roots. Some of it leaves through tiny holes in the leaves, called stomata, as invisible water vapour. This is called transpiration.' Take the bag off the branch now.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "What trees do for a street",
+     "mins": 10,
+     "do": "Say: 'When water evaporates, it takes heat away. That is why wet hands feel cold under a fan. A big tree gives off a lot of water on a hot day, so the tree and the air near them stay cooler.' Ask: 'Have you felt how a shady street with trees feels on a hot afternoon?' Then say: 'Trees also give shade, hold the soil when it rains, catch dust on their leaves, and are home to birds, squirrels, ants and spiders.' Then say: 'In 1950, K.M. Munshi, who was India's minister for food and farming, started Van Mahotsav, a festival of planting trees. It is held in the first week of July.' Ask: 'Why July?' (The monsoon has come, so the young plants get rain.)"
+    },
+    {
+     "kind": "think",
+     "title": "Saalumarada Thimmakka's road of banyans",
+     "mins": 10,
+     "do": "Tell Voice v4 in your own words. Thimmakka and her husband Chikkaiah, who worked as labourers in Karnataka, planted banyan saplings along about 4 kilometres of road between Hulikal and Kudur. They carried water to them in pots and fenced them from cattle with thorns. They raised 385 trees. Say: 'Saalumarada means row of trees in Kannada. People gave her that name.' Ask the voice question. There is no single right answer. Listen for reasons.",
+     "ref": "v4"
+    },
+    {
+     "kind": "act",
+     "title": "Adopt a tree",
+     "mins": 10,
+     "do": "Do Activity a3. Go down with your child to one tree near your building or on your street. If there is none, use the biggest potted plant at home. Measure round the trunk at your child's chest height with a string, and later lay the string on a ruler. Look for beings who live on or under the tree: ants, birds, spiders, a squirrel. Put one hand on the ground in the tree's shade and one on ground in full sun. Ask: 'Which feels hotter?' Your child draws the tree on the help-map and writes one thing the tree gives the street.",
+     "ref": "a3"
+    },
+    {
+     "kind": "talk",
+     "title": "Who looks after shared spaces?",
+     "mins": 5,
+     "do": "Say: 'Things a whole community shares are called the commons: the stairs, the lift, the terrace, the park, the street trees.' Ask: 'Who sweeps our stairs? Who waters the building's plants?' Then say: 'In Kerala, many families still protect small forests called kavu, and in Karnataka there are forests called devarakadu. People have kept these sacred groves uncut for hundreds of years.' Ask: 'What is one shared space near us that needs care, and what could our family do?'"
+    }
+   ],
+   "need": [
+    "a potted plant with plenty of leaves",
+    "2 clear plastic bags and 2 rubber bands",
+    "a string and a ruler",
+    "the help-map"
+   ],
+   "prep": [
+    {
+     "task": "Water the potted plant well.",
+     "when": "night before"
+    },
+    {
+     "task": "With your child, do steps 1 to 4 of Experiment e1: tie a clear bag over a leafy branch, tie an empty bag beside it, put the plant in the sun, and write your child's guess.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Festivals: sharing food, sharing work",
+   "goal": "See how festivals bring a community to one table, cook something to share, and do the core worksheet.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "One table for everyone",
+     "mins": 10,
+     "do": "Say: 'Many festivals are times when a whole community eats together.' Give examples. 'At Onam in Kerala, families sit together for a sadya, a feast of many dishes on a banana leaf. During Navaratri in Tamil Nadu, women and girls visit homes to see the golu dolls, and each guest is given sundal. In Ramzan, Muslim families break the day's fast at sunset with iftar and often share it with neighbours. At every gurdwara, the langar serves a free meal to anyone who comes. At the Golden Temple in Amritsar, tens of thousands of people eat langar every day, all sitting together on the floor.' Ask: 'Why do you think sitting and eating together matters?' (Sharing food builds trust, like the Share or Keep game. At the langar, everyone is equal.)"
+    },
+    {
+     "kind": "act",
+     "title": "Make and share sundal",
+     "mins": 15,
+     "do": "Do Activity a4. The chana was soaked last night and cooked this morning. An adult heats a spoon of oil and adds mustard seeds and curry leaves. Your child stirs in the chana, salt and grated coconut. Your child fills three small bowls and writes a note for each: 'We made this to share with you.' With an adult, take two bowls to two neighbours, and keep the third for the family. If you can't cook today, share a plate of cut fruit instead. Ask afterwards: 'What did the neighbours say? Will the plate come back empty?'",
+     "ref": "a4"
+    },
+    {
+     "kind": "think",
+     "title": "Who does the festival work?",
+     "mins": 5,
+     "do": "Ask your child to list every job for the last big festival at home: cleaning, shopping, making the kolam or rangoli, cooking, washing the vessels, calling the relatives. Next to each job, write who did it. Ask: 'Who did the most jobs? Who got to rest?' Don't give an answer. Ask: 'How could we share the work more fairly next time?' Write one change the family agrees on."
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 15,
+     "do": "Do Worksheet ws1. Read each item aloud if needed. For the two 'write' items, your child can answer aloud while you write. For the item about the leaf bag, let your child look at the bag from yesterday again if they are unsure.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "1 cup of chana, soaked and cooked",
+    "oil, mustard seeds, curry leaves, salt and grated coconut",
+    "3 small bowls and 3 note slips",
+    "Worksheet ws1"
+   ],
+   "prep": [
+    {
+     "task": "Soak 1 cup of chana in water.",
+     "when": "night before"
+    },
+    {
+     "task": "Pressure-cook the soaked chana until soft, and let it cool.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Messages: then and now",
+   "goal": "Make a string telephone, find out how a voice travels down a string and through the air, and learn to check news before sharing it.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "How did we send news this week?",
+     "mins": 5,
+     "do": "Ask: 'This week, how did our family send news to someone far away?' List them together: a phone call, a WhatsApp message, a video call, a card in the post, a courier parcel. Ask: 'Which was fastest? Which one could you keep and touch afterwards?' Say: 'Today we find out how a voice or a message actually travels.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The string telephone",
+     "mins": 15,
+     "do": "Do Experiment e2. Ask first: 'Will a whisper be heard better with the string loose or pulled tight? Why do you think so?' Write the guess. Test with the string loose, then tight, then with a finger pinching the middle of the tight string. Ask: 'What happened each time?' Then ask your child to touch the bottom of the cup lightly while you speak into the other cup. (They feel it buzz.) Say: 'Sound is a vibration, a very fast shaking. Your voice shakes the cup. The tight string carries the shaking to the other cup, which shakes the air into the other person's ear.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "From runners to radio waves",
+     "mins": 12,
+     "do": "Say: 'Long ago, kings sent messages with runners who passed letters from one to the next, and with trained pigeons. Then came the post. In 1972 India gave every post office area a 6-digit PIN code, so letters could be sorted fast. The first digit tells the region: 6 is for Tamil Nadu and Kerala.' Ask your child to read your own PIN code. Say: 'For urgent news, people sent telegrams, short messages tapped down a wire. India sent its last telegram in 2013.' Ask: 'A mobile phone has no string. How can your voice reach Paati in another city?' Let them guess. Then say: 'The phone turns your voice into radio waves, which travel through the air to a tower. From there, most messages travel as flashes of light inside thin glass cables under the ground, and even under the sea.'"
+    },
+    {
+     "kind": "think",
+     "title": "Is it true before I forward it?",
+     "mins": 8,
+     "do": "Say: 'I got a message that says drinking cold water after lunch turns food into fat. Should I forward it to our family group?' Ask: 'What would you check first?' Build three checks together and write them on a card for the fridge. Who said it, and do they really know? Does a trusted source, such as a doctor or a newspaper, say the same? Would I mind if it turned out to be false? Say: 'A message travels as fast as light, so a wrong message spreads to thousands before anyone checks it.'"
+    },
+    {
+     "kind": "act",
+     "title": "Write a postcard",
+     "mins": 5,
+     "do": "Your child writes a short postcard to a grandparent, cousin or friend in another town: one piece of news from this week, one question for them, and their name. Help them write the full address with the PIN code on the last line. Post it this week. Write the date in the notebook so you can count the days until a reply comes. Mark the postbox or post office on the help-map."
+    }
+   ],
+   "need": [
+    "2 paper cups or clean curd cups",
+    "5 metres of thin cotton string",
+    "a pencil or a thick needle (for the adult)",
+    "2 matchsticks",
+    "a postcard or an inland letter card"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Moving people, and the places that serve us all",
+   "goal": "Count how many people cars and buses move along our road, and find the institutions that serve everyone.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Count the traffic",
+     "mins": 15,
+     "do": "Do Experiment e4 from a balcony or window that looks at a road, or standing inside your gate with an adult. Ask first: 'Which moves more people along our road in 10 minutes: cars or buses? Why do you think so?' Write the guess. Count for 10 minutes with tally marks: people walking, cycles, two-wheelers, autos, cars and buses. Then multiply each vehicle by the people it usually carries (the table in e4). Ask: 'Which type moved the most people? Which took up the most road?'",
+     "ref": "e4"
+    },
+    {
+     "kind": "think",
+     "title": "Bus or car: the road space puzzle",
+     "mins": 8,
+     "do": "Say: 'A city bus is about 12 metres long and can carry about 50 people. A car is about 4 metres long, and usually carries 1 or 2 people.' Ask: 'If 50 people go by car, 2 in each car, how many cars is that?' (25 cars.) 'How long is a line of 25 cars, if each is 4 metres?' (100 metres.) 'And the bus?' (12 metres.) Ask: 'So why are there more cars than buses on our road?' Good answers: cars go door to door, buses can be crowded or late, some people can afford cars. Don't settle it. Ask: 'What would make more people take the bus?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Travel then and now",
+     "mins": 7,
+     "do": "Say: 'For thousands of years, people walked, rode horses, or went in bullock carts and boats. India's first passenger train ran in 1853, from Bombay to Thane, about 34 kilometres. Now there are metro trains in cities such as Chennai, Kochi, Bengaluru and Hyderabad.' Ask: 'How did your grandparents go to school? How did your parents go?' Phone a grandparent if you can. Ask: 'Who still finds it hard to travel on our road?' Good answers: people who walk where there is no footpath, people in wheelchairs, old people at bus steps that are too high."
+    },
+    {
+     "kind": "talk",
+     "title": "Institutions that serve everyone",
+     "mins": 10,
+     "do": "Say: 'Some places are set up to serve the whole community. We call them institutions: the post office, the government hospital or health centre, the public library, the police station, the fire station, the bank, and the ward office or panchayat office that looks after roads, water and street lights.' Ask: 'Remember from Class 3: who pays for public services?' (All of us, through taxes.) Ask: 'Which of these is nearest to us?' Find two on a phone map. Say: 'In India, 112 is the one phone number for police, fire and ambulance in an emergency.' Ask your child to say it back."
+    },
+    {
+     "kind": "act",
+     "title": "Add them to the help-map",
+     "mins": 5,
+     "do": "Your child adds to the help-map the bus stop, the nearest post office, health centre or hospital, bank, and police or fire station, with a small drawing for each. Write 112 in a box in one corner. Say: 'A new neighbour would need to know all of these.'"
+    }
+   ],
+   "need": [
+    "a balcony, window or gate that looks at a road",
+    "paper and a pencil",
+    "a timer or phone",
+    "the help-map"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Money and banks",
+   "goal": "Find out why swapping is hard, why money works, and what a bank does with savings and loans.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "The barter market",
+     "mins": 12,
+     "do": "Do Activity a5. Each player gets goods: a bowl of rice, two bananas, three pencils, a small towel. Each player secretly writes what they want. Round 1: swap without money for 4 minutes. Count how many got what they wanted. Round 2: each player gets 10 paper rupees, and things can be bought and sold. Count again. Ask: 'Why was Round 1 so hard?' (The person with what I wanted did not want what I had.) Say: 'Swapping things without money is called barter. Barter only works when each person wants what the other has.'",
+     "ref": "a5"
+    },
+    {
+     "kind": "talk",
+     "title": "Money is a promise",
+     "mins": 10,
+     "do": "Show a ₹10 or ₹50 note. Ask your child to find the line that begins 'I promise to pay the bearer'. Say: 'The Reserve Bank of India prints notes, and its Governor signs this promise. The note itself is only paper. It works because everyone trusts that the next person will take it too.' Ask: 'What would happen in the market if nobody trusted notes any more?' Then say: 'Now many people pay with UPI on a phone. No paper changes hands. The money is numbers in bank records, and it works for the same reason: trust.' Ask: 'Who might find phone payments hard?' (Old people without smartphones, places with no network, people without bank accounts.)"
+    },
+    {
+     "kind": "talk",
+     "title": "What a bank does",
+     "mins": 10,
+     "do": "Say: 'A bank keeps people's savings safe. It lends some of that money to other people, who need a loan to buy a house, a cow or a sewing machine. The borrowers pay back more than they borrowed. This extra is called interest. The bank pays savers a little interest too.' Ask: 'Meena saves ₹500 in a bank. The bank pays ₹4 a year for every ₹100. How much interest does she get in one year?' (₹20, because ₹500 is five hundreds, and 5 times ₹4 is ₹20.) Ask: 'Why does the bank charge borrowers more interest than it pays savers?' (That is how the bank pays its workers and earns money.)"
+    },
+    {
+     "kind": "think",
+     "title": "Ela Bhatt and the bank women built",
+     "mins": 7,
+     "do": "Tell Voice v1 in your own words: the vegetable sellers, head-loaders and home stitchers of Ahmedabad, who could not get a bank account, and how they started their own bank with Ela Bhatt in 1974. Ask the voice question. Listen for answers about trust: women who know each other can see who is honest and help each other repay.",
+     "ref": "v1"
+    },
+    {
+     "kind": "think",
+     "title": "Do small loans end poverty?",
+     "mins": 6,
+     "do": "Tell Voice v2 in your own words. Muhammad Yunus in Bangladesh gave tiny loans to poor women and won the Nobel Peace Prize. Later, a careful study in Hyderabad found that the loans helped some families, but did not lift most of them out of poverty in those years. Ask the voice question. Say: 'Scientists still argue about this. Both sides look at real evidence.'",
+     "ref": "v2"
+    }
+   ],
+   "need": [
+    "a bowl of rice, two bananas, three pencils and a small towel",
+    "40 paper rupees cut from scrap paper",
+    "a ₹10 or ₹50 note"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Maps and directions",
+   "goal": "Find east and west from a shadow, draw a map from counted steps, and play the neighbourhood game.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "The shadow stick",
+     "mins": 12,
+     "do": "An hour ago you stood a pencil in a lump of atta dough on paper in a sunny spot, and marked the tip of its shadow with a dot '1', for Experiment e3. Ask: 'Where will the shadow tip be now?' Let your child point. Now mark the new tip '2'. Draw a line from 1 to 2. Say: 'The Sun seems to move across the sky from east to west, so a shadow moves the other way. Dot 1 is towards the west and dot 2 towards the east.' Your child stands with the left foot on dot 1 and the right foot on dot 2. Say: 'Now you are facing north.' Check with a compass app on a phone if you have one.",
+     "ref": "e3"
+    },
+    {
+     "kind": "act",
+     "title": "A map from counted steps",
+     "mins": 15,
+     "do": "Do Activity a6. Your child counts steps from your front door to the building gate, or round your home from room to room if going out is not possible. At each turn, they note the direction and a landmark: the lift, the stairs, the guard's cabin, a tree. Choose a scale together: 1 centimetre stands for 5 steps. Draw the route on paper with a ruler. Add a north arrow using the shadow line, and a key box with a symbol for each landmark. Ask: 'Why do we need the key?' (So anyone can read the symbols.) Then a family member follows the map without help.",
+     "ref": "a6"
+    },
+    {
+     "kind": "talk",
+     "title": "Nain Singh counts his steps",
+     "mins": 8,
+     "do": "Say: 'About 160 years ago, the rulers of India wanted a map of Tibet, but foreigners were not allowed in. A schoolteacher from Kumaon named Nain Singh Rawat walked there in disguise. He trained himself to make every step the same length. He counted his steps with a string of 100 beads instead of the usual 108, moving one bead every 100 steps. He hid his notes inside a prayer wheel.' Ask: 'Why did every step have to be the same length?' (So the count of steps measured the distance.) Ask: 'How is that like our step map?' Then ask the other Day 1 story questions about Paati's Map."
+    },
+    {
+     "kind": "game",
+     "title": "The Neighbourhood Bus game",
+     "mins": 10,
+     "do": "Play Game g1 on the printed board. Before doing what a square says, the player says why it sends them forward or back. At the end, count the community box together to see if everyone wins.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "a pencil, a lump of atta dough and a sheet of paper",
+    "a sunny balcony floor or windowsill",
+    "a ruler and a large sheet of paper",
+    "the printed game board, a die, counters and 40 buttons or paper rupees"
+   ],
+   "prep": [
+    {
+     "task": "Do steps 1 to 3 of Experiment e3: stand the pencil in dough on paper in a sunny spot and mark the first shadow tip with the time.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Finish the help-map, check and teach it back",
+   "goal": "Finish the worksheets and the help-map, answer the check questions and teach the family.",
+   "steps": [
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws2. Use the traffic count from Day 6 and the step map from Day 8 for those questions. Let your child explain each answer aloud before writing.",
+     "ref": "ws2"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 10,
+     "do": "Do as much of Worksheet ws3 as time allows. In the 'write' items there is no single right answer. Listen for reasons that use something your child tested or heard this week: the Share or Keep game, the leaf bag, the traffic count or the barter market.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "act",
+     "title": "Finish the help-map",
+     "mins": 7,
+     "do": "Finish the project. Your child adds a north arrow, a key and the scale from the step map to the help-map, and checks that the adopted tree, the sharing arrows, the institutions and 112 are all on it. Ask: 'Is there a person who helps us who is still missing?' Add them. If a new family has moved in nearby, offer them a copy."
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 8,
+     "do": "Ask the check questions aloud, one at a time. Let your child point to the help-map, the step map and the bean scores to answer. For any answer that is unclear, go back to that day's test for one minute and ask again in other words."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child shows the family the help-map and teaches three things: why helping pays when people meet again (with the beans), how trees cool a street (with the leaf bag), and why a rupee note works (with the barter market). Then ask: 'If a new girl moved into our building tomorrow, who would you take her to meet first, and why?'"
+    }
+   ],
+   "need": [
+    "Worksheets ws2 and ws3",
+    "the help-map, the step map and the scores from Day 2"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Depending on each other, trees and festivals",
+   "day": 4,
+   "sections": [
+    [
+     "A. Depending on each other",
+     [
+      {
+       "t": "mcq",
+       "p": "Meenakshi lives in a block of flats in Chennai. The water tanker does not come for three days. Who will feel it?",
+       "opts": [
+        "Every family who uses the building's tank",
+        "Only the tanker driver",
+        "Nobody"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "When people or beings need each other, so that what happens to one affects the others, we call it ____.",
+       "a": [
+        "interdependence"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In the Share or Keep game, both players share each round and each takes 3 beans. After 10 rounds, how many beans does each player have?",
+       "opts": [
+        "30",
+        "10",
+        "3"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each word to what it means.",
+       "pairs": [
+        [
+         "cooperation",
+         "working together so that everyone gains"
+        ],
+        [
+         "reciprocity",
+         "helping someone who has helped you"
+        ],
+        [
+         "commons",
+         "something a whole community shares"
+        ],
+        [
+         "transpiration",
+         "water leaving a plant's leaves as vapour"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Trees, shared spaces and festivals",
+     [
+      {
+       "t": "mcq",
+       "p": "Anjali tied a clear bag over a branch of her tulsi plant and left it in the sun. Two hours later there were drops inside. Where did the water come from?",
+       "opts": [
+        "From the plant's leaves",
+        "From the rain",
+        "From the plastic of the bag"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Van Mahotsav, the week for planting trees, is held in the first week of ____.",
+       "a": [
+        "July"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Is it shared by many people, or used by one person?",
+       "items": [
+        "the building's terrace",
+        "your toothbrush",
+        "the lift",
+        "a public park",
+        "your school bag",
+        "the water tank",
+        "the street",
+        "your pillow"
+       ],
+       "cats": [
+        "shared by many",
+        "used by one person"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "At the langar in a gurdwara, who is served a free meal?",
+       "opts": [
+        "Anyone who comes",
+        "Only Sikhs",
+        "Only people who pay"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "One side of Divya's street has big trees. The other side has none. Which side is cooler at noon? Give two reasons.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Vampire bats share blood mostly with bats who shared with them before. Why do you think they do this? Use the Share or Keep game in your answer.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Messages, transport, money and maps",
+   "day": 9,
+   "sections": [
+    [
+     "A. Messages and transport",
+     [
+      {
+       "t": "mcq",
+       "p": "Kavya and her brother Arjun make a string telephone. Arjun lets the string hang loose. What happens when Kavya whispers?",
+       "opts": [
+        "Arjun hears almost nothing",
+        "Arjun hears her more loudly",
+        "The cups shake more"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "An Indian PIN code has ____ digits.",
+       "a": [
+        "6",
+        "six"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A bus carries 50 people. Each car carries 2 people. How many cars carry the same 50 people?",
+       "opts": [
+        "25",
+        "50",
+        "10"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each place to what it does for the community.",
+       "pairs": [
+        [
+         "post office",
+         "carries letters and parcels"
+        ],
+        [
+         "library",
+         "lends books for free"
+        ],
+        [
+         "health centre",
+         "treats people who are ill"
+        ],
+        [
+         "bank",
+         "keeps savings and gives loans"
+        ],
+        [
+         "fire station",
+         "puts out fires"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Money and maps",
+     [
+      {
+       "t": "mcq",
+       "p": "Lakshmi has bananas and wants rice. The rice seller wants cloth, not bananas. Why can't they swap?",
+       "opts": [
+        "Each wants something the other does not have",
+        "Bananas cost too much",
+        "The rice seller is unkind"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Divya saves ₹200 in a bank. The bank pays ₹4 a year for every ₹100. After one year she has ₹____.",
+       "a": [
+        "208"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "On a map with north at the top, which side is east?",
+       "opts": [
+        "the right side",
+        "the left side",
+        "the bottom"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Farhan marks the tip of a pencil's shadow at 9 in the morning, and again at 10. Which way is the first mark from the second?",
+       "opts": [
+        "west",
+        "east",
+        "north"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "On Anjali's map, 1 centimetre stands for 10 steps. The shop is 6 centimetres from her home on the map. That is ____ steps.",
+       "a": [
+        "60",
+        "sixty"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Your grandmother says a letter feels more special than a WhatsApp message. Give one reason she may be right, and one reason a message is better.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A ₹100 note is only printed paper. Why does a shopkeeper give you real rice for it?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking harder about living together",
+   "day": 9,
+   "sections": [
+    [
+     "A. Evidence and history",
+     [
+      {
+       "t": "fill",
+       "p": "In Robert Axelrod's contest, the winning plan was: share first, then ____ what the other player did last time.",
+       "a": [
+        "copy",
+        "repeat",
+        "do"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Nain Singh Rawat mapped Tibet on foot. Why did he make every step the same length?",
+       "opts": [
+        "So that counting steps measured the distance",
+        "So that he could walk faster",
+        "So that nobody could hear him"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Economists studied small loans to poor families in Hyderabad. What did they find?",
+       "opts": [
+        "The loans helped some families, but most were not lifted out of poverty in those years",
+        "Every family became rich",
+        "Nobody used the loans"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A city builds a wider road to end its traffic jams. What usually happens after a few years?",
+       "opts": [
+        "More people drive, and the jams come back",
+        "There are never jams again",
+        "Fewer people drive"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Sort and compare",
+     [
+      {
+       "t": "sort",
+       "p": "How does each one carry a message?",
+       "items": [
+        "string telephone",
+        "landline phone",
+        "mobile phone",
+        "radio",
+        "walkie-talkie",
+        "cable under the sea"
+       ],
+       "cats": [
+        "along a wire, string or cable",
+        "through the air as radio waves"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In 1154 the scholar al-Idrisi made a famous map of the world. Which direction did he put at the top?",
+       "opts": [
+        "south",
+        "north",
+        "east"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. What do you think?",
+     [
+      {
+       "t": "write",
+       "p": "Some people say: 'In nature, the strongest always win.' Use the vampire bats or the Share or Keep game to argue for or against this.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "If everyone stopped trusting rupee notes tomorrow, what would happen in the market? What could people do instead?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "A new metro line will save time for thousands of people, but 200 trees must be cut. Who gains and who loses? Include beings who are not people. What would you decide, and why?",
+       "lines": 5
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The leaf bag: do plants give off water?",
+   "day": 3,
+   "question": "Does a plant give off water from their leaves, even when we can't see it?",
+   "need": [
+    "a potted plant with plenty of leaves, such as tulsi, hibiscus, money plant or curry leaf",
+    "2 clear plastic bags without holes",
+    "2 rubber bands or pieces of thread",
+    "a sunny window or balcony"
+   ],
+   "steps": [
+    "Water the plant well the night before.",
+    "In the morning, slip one clear bag over a leafy branch, so that only leaves are inside, not soil. Tie the bag's mouth gently round the stem with a rubber band.",
+    "Blow a little air into the second bag, tie it shut and put it next to the plant. This is the empty bag to compare with.",
+    "Put the plant in the sun. Ask your child to guess what they will see inside each bag after a few hours, and write the guess.",
+    "After 2 to 3 hours, look at both bags. Touch the inside of the plant's bag with a finger.",
+    "Take the bag off the branch so the leaves don't get too hot."
+   ],
+   "predict": "Ask: 'What will we see inside each bag in two or three hours? We are not pouring any water in. Why do you think so?' Write the guesses down.",
+   "observe": "On a sunny day, the plant's bag turns misty within an hour or two, and drops of water collect inside. The empty bag stays dry. On a cloudy or cold day it is slower, so leave it until the afternoon.",
+   "why": "A plant takes in water through their roots. The water travels up the stem to the leaves. Leaves have tiny holes called stomata, too small to see. Water leaves through them as water vapour, an invisible gas. This is called transpiration. Inside the closed bag, the vapour touches the cooler plastic and turns back into drops. When water evaporates, it takes heat with it, so leaves that transpire stay cooler. A large tree gives off a great deal of water on a hot day. That, and their shade, is why a street with trees is cooler than a street without.",
+   "safety": "Keep plastic bags away from babies and small children, and never put one over anyone's head. Take the bag off the branch after 3 hours.",
+   "time": "5 min to set up, 2 to 3 hours in the sun, 10 min to look"
+  },
+  {
+   "id": "e2",
+   "title": "The string telephone",
+   "day": 5,
+   "question": "How does a voice travel along a string, and what stops it?",
+   "need": [
+    "2 paper cups or clean curd cups",
+    "5 metres of thin cotton string",
+    "a pencil or a thick needle (for the adult)",
+    "2 matchsticks"
+   ],
+   "steps": [
+    "The adult makes a small hole in the middle of the bottom of each cup with the pencil tip or needle.",
+    "Push one end of the string through each hole from the outside. Tie each end round a matchstick inside the cup so it can't slip out.",
+    "Two people stand close with the string hanging loose. One whispers into a cup. The other holds the other cup to their ear.",
+    "Walk apart until the string is tight and straight. Whisper the same words again.",
+    "While whispering, the third person, or the listener with a free hand, pinches the middle of the string.",
+    "Write down each time whether the whisper was clear, faint or not heard."
+   ],
+   "predict": "Ask: 'Will the whisper be heard better with the string loose or tight? What will happen if someone pinches the string? Why do you think so?' Write the guesses down.",
+   "observe": "With a loose string, the listener hears almost nothing through the cup. With a tight string, the whisper is clear, often clearer than through the air. When the string is pinched, the sound stops. A finger on the bottom of the listener's cup feels it buzz.",
+   "why": "Sound is a vibration, a very fast shaking back and forth. Your voice makes the air shake, and the air shakes the bottom of the cup. A tight string passes the shaking along to the other cup, which shakes the air inside it and then the listener's eardrum. A loose string flops and does not pass the shaking on. A pinching finger soaks up the shaking. A mobile phone does the same job in another way. It turns the voice into radio waves, which travel through the air to a tower with no string at all.",
+   "safety": "An adult makes the holes. Don't pull the string hard while a cup is against someone's ear.",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "The shadow stick: find east and west from the Sun",
+   "day": 8,
+   "question": "Can a shadow tell us which way is east, west and north?",
+   "need": [
+    "a pencil",
+    "a lump of atta dough or clay",
+    "a sheet of paper and some tape",
+    "a sunny spot on a balcony floor or windowsill that keeps the sun for an hour",
+    "a phone with a compass app, if you have one"
+   ],
+   "steps": [
+    "Tape the paper flat in the sunny spot. Stand the pencil upright in the dough in the middle of the paper.",
+    "Mark the tip of the pencil's shadow with a dot. Write '1' and the time next to it.",
+    "Leave everything exactly where it is for 45 minutes to an hour.",
+    "Before marking again, ask your child where they think the shadow tip will be now.",
+    "Mark the new tip of the shadow with a dot and write '2'.",
+    "Draw a straight line from dot 1 to dot 2. Dot 1 is towards the west and dot 2 towards the east.",
+    "Stand with the left foot on dot 1 and the right foot on dot 2. You are facing north. Check with a phone compass app if you have one."
+   ],
+   "predict": "Ask: 'In an hour, will the shadow tip move? Which way will it go? Why do you think so?' Write the guess.",
+   "observe": "The shadow tip moves a few centimetres. In the morning the shadow also gets shorter. The line from dot 1 to dot 2 runs close to west to east, and the compass app agrees within a little.",
+   "why": "The Earth turns from west to east, so the Sun seems to move across the sky from east to west. A shadow always points away from the Sun, so the shadow tip moves the other way, from west towards east. The Sun's path changes a little with the seasons, so the line is close to west to east, not perfectly exact. The Sun rises exactly in the east only around late March and late September. In June it rises a little to the north of east, and in December a little to the south.",
+   "safety": "Never look straight at the Sun.",
+   "time": "5 min to set up, 45 to 60 min wait, 10 min to finish"
+  },
+  {
+   "id": "e4",
+   "title": "Count the traffic: cars or buses?",
+   "day": 6,
+   "question": "Which moves more people along our road in 10 minutes: cars or buses?",
+   "need": [
+    "a balcony, window or gate that looks at a road",
+    "paper and a pencil",
+    "a timer or phone"
+   ],
+   "steps": [
+    "Rule six columns on the paper: walking, cycle, two-wheeler, auto, car, bus.",
+    "Write your child's guess at the top: which will move more people, cars or buses?",
+    "Set the timer for 10 minutes. Your child makes a tally mark for every person walking and every vehicle that passes. A second person can help on a busy road.",
+    "Add up each column.",
+    "Work out the people moved. Use these usual numbers: a cycle carries 1, a two-wheeler 1 or 2 (use 2), an auto 3, a car 2, and a city bus about 40.",
+    "Multiply each total by its number. For example, 30 cars times 2 is 60 people. 3 buses times 40 is 120 people.",
+    "Compare: which type moved the most people? Which took up the most road?"
+   ],
+   "predict": "Ask: 'Which will move more people in 10 minutes along our road, cars or buses? Why do you think so?' Write the guess.",
+   "observe": "On most city roads, many more cars pass than buses. But each bus carries so many people that a few buses often move as many people as all the cars together, while taking much less road. On a quiet lane with no buses, compare walking with cars instead.",
+   "why": "A road has only so much space. A car about 4 metres long usually carries 1 or 2 people. A bus about 12 metres long can carry 40 to 50. So a bus moves many more people for each metre of road, and uses less fuel for each person. That is why cities with good buses and metros have fewer jams. People still choose cars because a car goes door to door, and a bus may be late or crowded. The numbers in step 5 are typical. They change from road to road.",
+   "safety": "Count from inside a balcony, a window or a gate. An adult stays with the child. Never stand on the road.",
+   "time": "15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The string web",
+   "day": 1,
+   "mins": 15,
+   "need": [
+    "a ball of string or wool",
+    "16 small paper slips",
+    "a pencil"
+   ],
+   "steps": [
+    "Write one role on each slip: milk seller, vegetable farmer, water tanker driver, building guard, electrician, cook, bus driver, shopkeeper, doctor, garbage collector, presswala, teacher, crow on the water tank, neem tree by the gate, ants in the kitchen, our family.",
+    "Share the slips out so each person holds two or three. In a small family, put the extra slips on chairs round you.",
+    "The person with the ball names a role they depend on and says why: 'Our family depends on the milk seller for milk.' They keep hold of the end and pass the ball to that role.",
+    "Keep passing until every role holds at least two strings.",
+    "One role gently tugs. Everyone who feels it raises a hand.",
+    "That role lets go of the string. Look at the web and talk about who lost a link."
+   ],
+   "outcome": "A web of string that shows how the people and beings of a neighbourhood depend on each other."
+  },
+  {
+   "id": "a2",
+   "title": "The Share or Keep game",
+   "day": 2,
+   "mins": 15,
+   "need": [
+    "40 dry beans, chana or tamarind seeds in a bowl",
+    "paper and a pencil"
+   ],
+   "steps": [
+    "Two players sit facing each other with the bowl of beans between them.",
+    "Each round, both hide one hand behind their back, then bring it out at the same time: an open palm means share, a fist means keep.",
+    "Both share: each takes 3 beans. One keeps and one shares: the keeper takes 5, the sharer takes nothing. Both keep: each takes 1.",
+    "Game 1: play 10 rounds. Each player chooses freely. Write each player's total.",
+    "Put the beans back. Game 2: play 10 rounds. The parent shares in round 1, then copies whatever the child did in the round before. Write the totals.",
+    "Compare: in which game did both players together get the most beans?"
+   ],
+   "outcome": "A score table showing that over many rounds, two players who keep sharing both end up with more, and that copying the other player's last move protects a sharer from being cheated for long."
+  },
+  {
+   "id": "a3",
+   "title": "Adopt a tree",
+   "day": 3,
+   "mins": 10,
+   "need": [
+    "a string about 2 metres long",
+    "a ruler",
+    "the notebook",
+    "a bucket or a large mug of water for later visits"
+   ],
+   "steps": [
+    "Choose one tree near your building or on your street. If there is none, choose the biggest potted plant at home.",
+    "Wrap the string once round the trunk at your child's chest height. Pinch the string where it meets, and later measure it on the ruler.",
+    "Look for beings who live on or under the tree for 3 minutes: ants, birds, spiders, a squirrel, moss. List them.",
+    "Put one hand on the ground in the tree's shade and the other on ground in full sun. Say which is hotter.",
+    "Draw the tree on the help-map and write one thing the tree gives the street.",
+    "In the hot, dry months, take a bucket of water to the tree once a week, after asking the building or society. Measure the trunk again on the first day of next Van Mahotsav, in July."
+   ],
+   "outcome": "One tree the child knows well: their size, the beings who live there and what they give the street."
+  },
+  {
+   "id": "a4",
+   "title": "Make and share sundal",
+   "day": 4,
+   "mins": 15,
+   "need": [
+    "1 cup of chana, soaked overnight and pressure-cooked until soft",
+    "1 spoon of oil",
+    "half a spoon of mustard seeds",
+    "a few curry leaves",
+    "salt",
+    "2 spoons of grated coconut",
+    "3 small steel bowls",
+    "3 note slips"
+   ],
+   "steps": [
+    "An adult heats the oil in a pan and adds the mustard seeds. When they crackle, the adult adds the curry leaves.",
+    "The adult turns off the stove. Your child adds the cooked chana and a little salt and stirs.",
+    "Your child sprinkles the grated coconut on top.",
+    "Your child fills three small bowls and writes a note for each: 'We made this to share with you.'",
+    "With an adult, take two bowls to two neighbours. Keep the third for the family.",
+    "If you can't cook today, share a plate of cut fruit instead."
+   ],
+   "outcome": "Food shared with two neighbours, and a small taste of how festivals bring a community together."
+  },
+  {
+   "id": "a5",
+   "title": "The barter market",
+   "day": 7,
+   "mins": 12,
+   "need": [
+    "a bowl of rice",
+    "two bananas",
+    "three pencils",
+    "a small towel",
+    "40 paper rupees cut from scrap paper",
+    "4 slips of paper"
+   ],
+   "steps": [
+    "Each of up to four players gets one kind of goods. With two players, each holds two kinds.",
+    "Each player secretly writes on a slip what they want to get, choosing something another player has.",
+    "Round 1, for 4 minutes: swap without money. A swap happens only if both players agree.",
+    "Read the slips. Count how many players got what they wanted.",
+    "Round 2, for 4 minutes: each player gets 10 paper rupees. Players may buy and sell for any price they agree.",
+    "Count again, and compare the two rounds."
+   ],
+   "outcome": "The child sees for themself that barter only works when each person wants what the other has, and that money solves this."
+  },
+  {
+   "id": "a6",
+   "title": "A map from counted steps",
+   "day": 8,
+   "mins": 15,
+   "need": [
+    "a large sheet of paper",
+    "a pencil and a ruler",
+    "colours",
+    "the shadow line from Experiment e3"
+   ],
+   "steps": [
+    "Choose a route: from your front door to the building gate, or round your home from room to room.",
+    "Walk the route with normal steps and count. At each turn, write the number of steps so far, the direction you turned and a landmark you can see.",
+    "Choose a scale: 1 centimetre stands for 5 steps. Divide each count by 5 to get centimetres.",
+    "Draw the route with the ruler, turning where you turned.",
+    "Draw a north arrow, using the shadow line from Experiment e3. Draw a small symbol for each landmark and make a key box that says what each symbol means.",
+    "Ask a family member to follow the map without your help. Fix anything that confused them."
+   ],
+   "outcome": "A map drawn to scale, with a north arrow, a key and landmarks, that another person can follow."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Ela Bhatt (1933–2022), Ahmedabad, India",
+   "idea": "Women who sold vegetables, carried head-loads, rolled bidis or stitched clothes at home did a large share of India's work, but they had no union and most banks would not serve them. Ela Bhatt, a lawyer, helped them form SEWA, the Self-Employed Women's Association, in 1972. In 1974 the members started their own bank, SEWA Bank, owned by the women who saved in it.",
+   "then": "Many people doubted that poor women, many of whom could not read, could run a bank or repay loans.",
+   "now": "SEWA grew to lakhs of members, and SEWA Bank still serves self-employed women. Women's savings and lending groups have spread across India, such as Kudumbashree in Kerala, started in 1998. Ela Bhatt received the Ramon Magsaysay Award and the Padma Bhushan.",
+   "status": "accepted",
+   "ask": "Why might a group of women who know each other be better at lending to each other than a big bank that knows nobody?",
+   "day": 7
+  },
+  {
+   "id": "v2",
+   "who": "Muhammad Yunus (born 1940), Bangladesh, and the microcredit studies",
+   "idea": "Yunus, an economics teacher, lent small amounts of money to poor women in villages, who used it to buy a cow, a sewing machine or goods to sell. He set up the Grameen Bank in 1983 to give such small loans, called microcredit. He argued that small loans could lift families out of poverty.",
+   "then": "Yunus and the Grameen Bank shared the Nobel Peace Prize in 2006. Microcredit spread to many countries, including India.",
+   "now": "Economists then tested it carefully. In a study in Hyderabad, Abhijit Banerjee, Esther Duflo and colleagues compared neighbourhoods that got microcredit with similar ones that did not. Some families started or grew small businesses, but on average, spending, health and schooling did not change much in the years studied. In 2010 in Andhra Pradesh, some families took too many loans and could not repay. Most economists now think small loans help some families but are not enough on their own to end poverty. They still argue about how much they help.",
+   "status": "debated",
+   "ask": "What would you need to measure, and for how long, to know whether a loan really helped a family?",
+   "day": 7
+  },
+  {
+   "id": "v3",
+   "who": "Robert Axelrod (born 1943), USA, and Gerald Wilkinson's vampire bats",
+   "idea": "Axelrod, a political scientist, asked: when does helping pay? In 1980 he ran a contest between computer programs that played a sharing game like Share or Keep with each other hundreds of times. The winner was the simplest plan, sent in by Anatol Rapoport: share first, then copy what the other player did last time. Axelrod showed that when the same players meet again and again, sharing can win. In 1984 the biologist Gerald Wilkinson reported that vampire bats in Costa Rica bring up blood to feed roost-mates who missed a meal, and share more with those who shared with them.",
+   "then": "Many people had seen nature and markets mainly as places where the selfish win. Axelrod's results and the bats were taken as strong evidence that helping can pay.",
+   "now": "Later studies found that in a game where mistakes happen, kinder plans that sometimes forgive do better than strict copying. Later work on vampire bats by Gerald Carter and Gerald Wilkinson found that past help from a bat predicts sharing more than being related does, and that bats build these sharing bonds slowly, a little like friendships. Scientists agree that cooperation is everywhere in nature. They still argue about how much of it is paying back, and how much is helping relatives.",
+   "status": "debated",
+   "ask": "If helping pays so well, why do people and animals still sometimes cheat? When might cheating pay?",
+   "day": 2
+  },
+  {
+   "id": "v4",
+   "who": "Saalumarada Thimmakka (born about 1911), Karnataka, India",
+   "idea": "Thimmakka and her husband Chikkaiah worked as labourers. They planted banyan saplings along about 4 kilometres of road between the villages of Hulikal and Kudur. They carried water to the saplings in pots and protected them from cattle with thorny fences, until the trees could look after themselves. They raised 385 trees. People named her Saalumarada, which means row of trees in Kannada.",
+   "then": "For many years the work was known only to the people who used the road.",
+   "now": "The banyans still shade the road. Thimmakka became famous across India and received the Padma Shri in 2019. Studies of city streets agree that rows of shade trees keep roads and the air under them cooler on hot days.",
+   "status": "accepted",
+   "ask": "Thimmakka's trees will outlive the people who planted them. Who does a roadside tree belong to: the planters, the government, the travellers, or the birds who live in them?",
+   "day": 3
+  }
+ ],
+ "project": {
+  "title": "A help-map for a new neighbour",
+  "days": [
+   1,
+   9
+  ],
+  "steps": [
+   "Day 1: draw your building or house in the middle of a big sheet, with the gate and the road. Write the roles from the string web round the edge.",
+   "Day 2: draw an arrow between your home and a neighbour's home for each sharing story.",
+   "Day 3: draw your adopted tree and the shared spaces: stairs, terrace, park.",
+   "Day 4: mark the homes you shared sundal with.",
+   "Day 5: mark the postbox or post office.",
+   "Day 6: add the bus stop, health centre or hospital, bank, and police or fire station. Write 112 in a corner.",
+   "Day 9: add a north arrow, a key and a scale. Check nobody who helps you is missing. Give a copy to a new family if one moves in."
+  ],
+  "outcome": "A map of the neighbourhood showing places, people and beings, that would help a new family find their way and meet people."
+ },
+ "game": {
+  "id": "g1",
+  "title": "The Neighbourhood Bus",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a counter for each player",
+   "40 buttons or paper rupees",
+   "a small bowl for the community box"
+  ],
+  "rules": [
+   "Each player starts with 10 rupees (buttons or paper rupees). Put the empty bowl in the middle. This is the community box.",
+   "Take turns to roll the die and move your counter that many squares.",
+   "Before you do what the square says, say why it sends you forward or back.",
+   "If you must pay and have nothing, another player may lend you 1 rupee. Pay it back when you can.",
+   "A player who reaches HOME waits there. The game ends when everyone is HOME.",
+   "Count the community box. If it holds 5 rupees or more, the street holds a festival and everyone wins together. If not, nobody wins: play again and try to fill it."
+  ],
+  "squares": [
+   "START: the bus depot",
+   "Bus stop: help an old woman climb the high step. Move 1 ahead.",
+   "Post office: post a letter with the right PIN code. Pay 1 rupee and move 2 ahead.",
+   "Tree-lined road: the shade keeps the bus cool. Roll again.",
+   "Jam of cars with one person in each. Miss a turn.",
+   "Bank: save 2 rupees. Put them under your name on the paper. Take back 3 at HOME.",
+   "Barter stall: you have rice, you want milk, but the milk seller wants shoes. Go back 1.",
+   "Library: borrow a book for free. Move 1 ahead.",
+   "Fire station: a fire on the next street. Every player puts 1 rupee in the community box.",
+   "Onam: share a sadya. Give 1 rupee to the player behind you. Move 2 ahead.",
+   "You held the map upside down. Go back 2.",
+   "Health centre: free eye camp. Move 1 ahead.",
+   "You forwarded a rumour without checking. Go back 3.",
+   "Metro station: a fast ride. Move 3 ahead.",
+   "Market: pay 2 rupees for vegetables. The farmer, the driver and the seller each get a share.",
+   "Park clean-up: put 1 rupee in the community box. Move 2 ahead.",
+   "No landmarks here. Ask the flower seller the way. Move 1 ahead.",
+   "The bus breaks down and the mechanic fixes it. Pay 1 rupee and roll again.",
+   "The water tanker is late. Help a neighbour carry water. Move 1 ahead.",
+   "Ward office: ask how the money for the road was spent. Move 1 ahead.",
+   "Your plate came back from the neighbour with sweets on it. Put 1 rupee in the community box.",
+   "HOME"
+  ]
+ },
+ "story": {
+  "title": "Paati's Map",
+  "text": [
+   "When I came to Bengaluru, the lift frightened me more than the traffic. It was a steel box that hummed and opened onto corridors that all looked the same. In my village near Kumbakonam, I knew every house by its kolam. Here every door was brown, and every door was shut.",
+   "My son and his wife left for work at eight. My granddaughter Kavya left for school at half past seven and came home at four. Every evening she asked what I had done all day. I had done nothing. I had sat by the window and watched a crow walk up and down the edge of the water tank.",
+   "One evening I told her the truth. 'I want to buy flowers for the puja,' I said. 'But I am afraid to go down. The signs are in Kannada and English, and I read only Tamil. If I go out of the gate, how will I find my way back?'",
+   "Kavya is nine. She thought about it with her chin in her hand. Then she pulled out a sheet of paper. 'Then we'll make you a map, Paati,' she said. 'Not with words. With things you can see.'",
+   "The next morning, before school, she took me to the balcony. 'The Sun comes up behind that water tank,' she said, pointing. 'So that side is east. On a map we keep north at the top, so east goes on the right.' She drew our building as a box, and the gate on the side facing the road. Then she drew everything I would pass on the way: a big rain tree, a bakery with a red board, a pink house with a broken swing, a small temple with a bell, and, at the corner, the flower stall.",
+   "Then she counted for me. She walked to the gate and down the road with small steps like mine, and wrote the numbers on the map. Forty steps from the gate to the rain tree. Sixty from the tree to the bakery. She drew an arrow for every turn.",
+   "The next day I went. I held the map in front of me like a prayer book. The rain tree was there, wide as a roof. The bakery was there, smelling of butter buns. The pink house, the broken swing. The temple bell. Then I came to the corner, and there was no flower stall. There was only an empty patch of pavement, and a brown dog asleep on it.",
+   "My map said flowers. The street said nothing. I turned round, and every road looked the same. My heart was beating in my ears.",
+   "Under the rain tree, a woman stood by a cart of tender coconuts. She called out to me. I did not understand her words, but I understood her face. I held out the map. She looked at it, laughed, not unkindly, and tapped the empty corner. 'Mallige?' she asked.",
+   "I knew that word. In Tamil we say malligai. Jasmine.",
+   "She left her cart with a boy and walked me down a lane behind the temple. There, on an old sack, sat the flower seller. The shop owner at the corner had wanted the pavement back, so she had moved. Her name was Selvi, and she was from Krishnagiri, and she spoke Tamil. I nearly cried. I bought two arm-lengths of jasmine. The coconut woman, whose name was Gowramma, would not take anything for her trouble except one flower for her hair.",
+   "That evening I took Kavya's pencil. I crossed out the flower stall at the corner and drew the lane behind the temple. Next to the rain tree I drew a coconut cart, and beside it I wrote, in Tamil, Gowramma. Next to the flowers I wrote Selvi.",
+   "Kavya frowned. 'Paati, maps don't have people on them.'",
+   "'Then how did I find the flowers?' I asked.",
+   "She looked at the map for a long time. Then she took the pencil back and drew a little iron next to the gate, for Raju who presses our clothes. She asked the watchman's wife which shop gets milk earliest, and drew that. Over the next weeks the map filled up. The family in 4B, who make the best kolam on the floor. The tailor who works on the steps of the bank. The old man on the third floor who knows all the bus numbers by heart.",
+   "In January, for Pongal, I cooked sweet pongal in my biggest pot on the terrace, and it boiled over, which is what we want. Kavya took the map and knocked on doors. Gowramma came with tender coconuts. Selvi came with flowers. The family from 4B made the kolam. Raju came still smelling of hot cloth. People who had shared a lift for years told each other their names.",
+   "Kavya pinned the map on the board by the lift, and people added to it. Someone wrote the time the water tanker comes. Someone drew the street dog and wrote his name.",
+   "Last week a new family moved into 3C. Their little girl was crying in the lift because everything looked the same. Kavya took her by the hand to the board and put her finger on the map.",
+   "'Start with the rain tree,' she said."
+  ],
+  "epiphany": "Kavya's first map had the right directions and the right landmarks, but a landmark can disappear. It was a person, Gowramma, who got Paati to the flowers. The turn comes when Paati writes people's names on the map: a neighbourhood is a web of people who depend on each other, and a map is shared knowledge that many people keep up to date. Sharing food at Pongal turns neighbours who were strangers into a community.",
+  "ask": [
+   "When the flower stall was gone, what got Paati home?",
+   "How did Kavya know which side was east, and where did she put east on the map?",
+   "Why did the flower seller move? What does that tell you about landmarks?",
+   "Kavya said maps don't have people on them. Was she right? What would our help-map look like without people?",
+   "Why did the new girl stop crying when Kavya showed her the map?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "A neighbourhood is a web, not a ladder.",
+   "more": "Every person and being depends on others, and others depend on them. Show it with the string web: when one role lets go, many people lose a link at once, whether that role was the doctor or the garbage collector."
+  },
+  {
+   "idea": "Helping pays most when the same people meet again and again.",
+   "more": "In the Share or Keep game, a player who keeps beans wins one round but then the other player stops sharing. Over many rounds, two players who keep sharing both end up with more. This is why neighbours, who meet every day, often help each other."
+  },
+  {
+   "idea": "Money works only because strangers trust each other.",
+   "more": "A rupee note is printed paper with a promise on it. Show the barter market: without money, swaps happen only when two people each want what the other has. With money, anyone can trade with anyone, as long as everyone trusts the money."
+  },
+  {
+   "idea": "A map is shared knowledge that people made by walking, counting and writing it down.",
+   "more": "Nain Singh Rawat mapped Tibet by counting his steps. Your child's step map works the same way. When a shop moves or a tree is cut, someone has to update the map, as Paati did."
+  }
+ ],
+ "unknowns": [
+  "How many people can really know and trust each other in one community? The scientist Robin Dunbar suggested about 150, but other scientists dispute his number, and nobody knows for sure.",
+  "How did humans first come to cooperate with strangers they might never meet again? Scientists have several ideas, such as shared rules, reputation and religion, and still argue about which mattered most.",
+  "Will cash disappear? Nobody knows how a country would work if all money were digital, or what would happen to people without phones when the network fails.",
+  "How do homing pigeons find their way home from places they have never seen? Smell, the Sun and the Earth's magnetic field all seem to play a part, and scientists still argue about how they fit together."
+ ],
+ "big": [
+  "Could a person live completely alone, needing no one at all? What would they have to give up?",
+  "Is a ₹100 note worth anything if nobody trusts it?",
+  "Who should a tree on a public road belong to?",
+  "If everything could be delivered to your door, would you still need neighbours?",
+  "Is a faster way to travel always a better one?"
+ ],
+ "challenge": [
+  {
+   "q": "'Before money, people bartered: a farmer swapped a sack of rice for a pair of shoes.' Is that how it really was?",
+   "hint": "Many textbooks tell this story. But anthropologists who study how people live have looked hard for a village or town that ran mainly on barter, and found none. In 1985 the anthropologist Caroline Humphrey wrote that no pure barter economy has ever been described. In small communities people mostly gave, shared and remembered who owed what. Barter happened more often between strangers who would not meet again. Ask: why would people in a small village not need to barter with each other?"
+  },
+  {
+   "q": "'North is the top of the world.' Is it?",
+   "hint": "Putting north at the top of a map is a habit, not a fact about the Earth. In space there is no up or down. In 1154 the scholar al-Idrisi made a famous world map for the king of Sicily with south at the top. Many old maps put east at the top. Ask: what changes about how you see India and the world if you turn a map upside down?"
+  },
+  {
+   "q": "'Build wider roads and the traffic jams will end.' Is that true?",
+   "hint": "Studies in many cities have found that when roads are widened, more people start driving, and within a few years the jams come back. Economists call this induced demand. In a 2011 study of United States cities, Gilles Duranton and Matthew Turner found that driving went up about as fast as new roads were built. Buses, metros, footpaths and cycle lanes move more people in the same space. Ask: why would a wider road make more people decide to drive?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A postwoman in Kochi",
+   "view": "She walks the same lanes every day and knows which house has a dog, which family has moved, and which old man waits at the gate for his pension letter. Much of her map is in her head and changes every week. Ask: what does she know about our area that no phone map shows?"
+  },
+  {
+   "who": "A crow on the water tank",
+   "view": "Crows learn and remember human faces. In a study in the USA, crows still scolded a mask worn by scientists who had caught them years before. The crow's neighbourhood map holds who feeds them, who chases them and where food falls. Ask: what would the crow's map of our building show?"
+  },
+  {
+   "who": "A vegetable seller who takes payment by UPI",
+   "view": "Phone payments save her from handling change, but on days the network fails, sales stop. Some of her older customers have no smartphone. Ask: when payment changes from paper to phones, who gains and who is left out?"
+  },
+  {
+   "who": "A person in a wheelchair at a bus stop",
+   "view": "Many footpaths have high edges and many buses have steep steps. A street that is easy for one person can be closed to another. Ask: if a wheelchair user drew our help-map, what would they mark that we missed?"
+  },
+  {
+   "who": "The banyan on the roadside",
+   "view": "Birds, bats, squirrels, ants and many other beings live in and around one old banyan, and the figs feed many birds. People call the tree 'shade' or 'in the way of the road'. Ask: how would a road look to the beings who live in the tree?"
+  }
+ ],
+ "books": [
+  {
+   "title": "Maps",
+   "author": "Aleksandra Mizielińska and Daniel Mizieliński",
+   "for": "read together",
+   "age": "6–10",
+   "why": "Big, detailed picture maps of countries around the world, full of people, animals, food and buildings, which show a map can hold much more than roads."
+  },
+  {
+   "title": "The Story of Money",
+   "author": "Betsy Maestro",
+   "for": "read together",
+   "age": "7–10",
+   "why": "A clear picture-book history of trade, coins, paper money and banks."
+  },
+  {
+   "title": "We Are Poor but So Many: The Story of Self-Employed Women in India",
+   "author": "Ela R. Bhatt",
+   "for": "parent reads",
+   "age": "adult, with parts about SEWA Bank to read aloud",
+   "why": "Ela Bhatt's own account of how vegetable sellers, head-loaders and home workers built a union and a bank."
+  },
+  {
+   "title": "Poor Economics",
+   "author": "Abhijit V. Banerjee and Esther Duflo",
+   "for": "parent reads",
+   "age": "adult",
+   "why": "Two Nobel-winning economists explain, with real studies from India and elsewhere, what does and does not help poor families, including the chapter on microcredit."
+  },
+  {
+   "title": "The Evolution of Cooperation",
+   "author": "Robert Axelrod",
+   "for": "parent reads",
+   "age": "adult",
+   "why": "The book about the sharing-game contest, and why helping can pay when people meet again and again."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is interdependence? Give one example from our building or street.",
+   "a": "Interdependence is when people or beings need each other, so what happens to one affects the others. For example, every family in the building depends on the water tanker driver, and the driver depends on the money the families pay."
+  },
+  {
+   "q": "In the Share or Keep game, when did both players get the most beans? Why?",
+   "a": "When both kept sharing over many rounds. Keeping wins one round, but then the other player stops sharing and both get little. When the same players meet again and again, sharing pays."
+  },
+  {
+   "q": "Where did the drops in the leaf bag come from, and how do trees cool a street?",
+   "a": "From the plant's leaves. Water leaves through tiny holes called stomata as vapour. This is transpiration. When water evaporates it takes heat away, and trees also give shade, so streets with trees are cooler."
+  },
+  {
+   "q": "What is Van Mahotsav, and why is it in July?",
+   "a": "Van Mahotsav is a week of planting trees, started in 1950. It is in the first week of July because the monsoon rains water the young plants."
+  },
+  {
+   "q": "How does a voice travel in a string telephone? How is a mobile phone different?",
+   "a": "The voice makes the cup vibrate, and a tight string carries the vibration to the other cup. A mobile phone turns the voice into radio waves that travel through the air to a tower, with no string."
+  },
+  {
+   "q": "A bus carries 50 people. How many cars, with 2 people in each, carry the same people? What does that tell you?",
+   "a": "25 cars. A line of 25 cars is about 100 metres, but the bus is about 12 metres. A bus moves many more people for the same road space."
+  },
+  {
+   "q": "Why is barter hard, and why does money work?",
+   "a": "Barter works only when each person wants what the other has, which is rare. Money works because everyone trusts that others will accept it. The note itself is only paper with a promise."
+  },
+  {
+   "q": "On a map with north at the top, where are east and west? How can a shadow help you find them?",
+   "a": "East is on the right and west on the left. Mark the tip of a shadow, wait an hour and mark it again. The first mark is towards the west and the second towards the east."
+  }
+ ]
+}

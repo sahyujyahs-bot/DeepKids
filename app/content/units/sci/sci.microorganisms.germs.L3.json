@@ -1,0 +1,2797 @@
+{
+ "id": "sci.microorganisms.germs.L3",
+ "title": "Germs: how illness travels from person to person",
+ "level": 3,
+ "see_also": [
+  "sci.health.hygiene.L3",
+  "sci.body.immune-system.L3",
+  "sci.what-is-life.cells.L3"
+ ],
+ "summary": {
+  "text": "You can catch a cold from someone you never touched. Germs are the few microbes that can make us ill, and they cannot walk or fly from one person to the next. They ride on hands, on the things hands touch, in the drops of a cough, in water and food, and on flies and mosquitoes. Once inside a body, a few germs can multiply into millions, and that is an infection. Every illness that spreads travels along a chain like this, and breaking one link of the chain stops it.",
+  "art": "A chain of pictures joined by dotted arrows: a girl coughing into her hand, the hand on a door handle, a second hand on the same handle, that hand near a boy's mouth, with a big pair of scissors cutting the chain at the door handle."
+ },
+ "intro": {
+  "hook": "Think of the main door of your flat. Who touched its handle today? Count everyone, and then think about who touched the things they touched.",
+  "text": "Germs are far too small to see, and they have no legs or wings to cross a room. Yet a cold can go round a whole family in a week, and a tummy bug can go round a whole school. So how does a germ get from one person to another? In this unit you follow the trail with glitter, which you can see, and find out how far one hand can reach.",
+  "art": "The inside of a flat's main door, with many small, different hands drawn faintly around the handle, as if everyone who touched it that day left a mark."
+ },
+ "outcomes": [
+  "I can say what germs are: the few bacteria, viruses and other microbes that can make us ill.",
+  "I can name the ways germs travel: on hands, on things we touch, in cough and sneeze drops, in water and food, and on flies and mosquitoes.",
+  "I can explain, from my glitter test, how germs reach people who never touched the ill person.",
+  "I can say what an infection is: germs getting inside the body and multiplying.",
+  "I can choose the best moment to break a germ chain, and say why it works.",
+  "I can tell how John Snow found that cholera came from one water pump, and not from bad air."
+ ],
+ "cards_mins": 18,
+ "terms": [
+  {
+   "term": "Microbe",
+   "meaning": "A living being too small to see without a microscope. Bacteria and many fungi are microbes.",
+   "example": "The bacteria that turn milk into curd are microbes.",
+   "art": "A bowl of curd with a zoomed-in circle showing tiny rod-shaped bacteria."
+  },
+  {
+   "term": "Germ",
+   "meaning": "A microbe or virus that can make people, animals or plants ill. Only a few kinds of microbe are germs.",
+   "example": "The virus that gives you a cold is a germ. The bacteria in curd are not.",
+   "art": "Many small friendly-looking microbes, with just two of them circled in red and labelled 'germ'."
+  },
+  {
+   "term": "Bacteria",
+   "meaning": "Living beings made of just one tiny cell. One of them is called a bacterium. Most are harmless or helpful, and a few cause illness.",
+   "example": "Cholera is caused by a bacterium that lives in dirty water.",
+   "art": "A few rod-shaped and round bacteria, each a single cell, some with a long whip-like tail."
+  },
+  {
+   "term": "Virus",
+   "meaning": "A germ much smaller than a bacterium. A virus can make copies of themselves only inside the cells of another living being.",
+   "example": "Colds, flu and chickenpox are caused by viruses.",
+   "art": "A tiny round virus landing on a much bigger cell, drawn to scale beside a bacterium."
+  },
+  {
+   "term": "Infection",
+   "meaning": "When germs get inside a body and multiply there.",
+   "example": "A cut that turns red and sore may have an infection.",
+   "art": "A small cut on a knee, with a zoom showing a few germs inside becoming many."
+  },
+  {
+   "term": "Multiply",
+   "meaning": "To grow in number. Bacteria multiply by splitting in two, again and again.",
+   "example": "1 bacterium splits into 2, then 4, then 8.",
+   "art": "One bacterium splitting into two, then four, then eight, in a row of pictures."
+  },
+  {
+   "term": "Symptom",
+   "meaning": "A sign in your body that you are ill, such as a fever, a cough, a runny nose or loose motions.",
+   "example": "Sneezing and a blocked nose are symptoms of a cold.",
+   "art": "A girl with a tissue and a blocked nose, with small labels pointing to a sneeze and a warm forehead."
+  },
+  {
+   "term": "Contagious",
+   "meaning": "An illness is contagious when it can pass from one person to another.",
+   "example": "Chickenpox is very contagious. A broken bone is not contagious at all.",
+   "art": "Two children side by side, one with chickenpox spots and a dotted arrow towards the other, and one with a leg in plaster and no arrow."
+  },
+  {
+   "term": "Droplets",
+   "meaning": "Tiny drops of spit and mucus that fly out when we cough, sneeze, talk or sing. They can carry germs.",
+   "example": "A sneeze can spray droplets across a room.",
+   "art": "A side view of a sneeze, with a spray of tiny drops flying out and falling to the floor."
+  },
+  {
+   "term": "Outbreak",
+   "meaning": "When many people in one place fall ill with the same illness at around the same time.",
+   "example": "In 1854, a cholera outbreak in one part of London killed more than 500 people in ten days.",
+   "art": "A street map of a few blocks with many dots on houses close to one water pump."
+  },
+  {
+   "term": "Cholera",
+   "meaning": "An illness caused by bacteria in dirty water or food. It gives very watery loose motions, so the body quickly loses water.",
+   "example": "Clean drinking water and toilets stop cholera spreading.",
+   "art": "A clean steel pot of boiled water with a lid, next to a muddy open well, crossed out."
+  },
+  {
+   "term": "Antibiotic",
+   "meaning": "A medicine that kills bacteria, or stops them multiplying. Antibiotics do not work on viruses.",
+   "example": "A doctor may give an antibiotic for a bacterial throat infection, but not for a cold, which is a virus.",
+   "art": "A strip of tablets beside a picture of a bacterium with a tick and a virus with a cross."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "What germs are",
+   "status": "defined",
+   "definition": "Germs are the bacteria, viruses, fungi and other tiny living beings that can cause illness. Only a small share of all microbes are germs.",
+   "description": "Microbes live almost everywhere: in soil, in water, in curd, and all over and inside you. Your body carries about as many bacteria as it has cells of its own. Nearly all of them do you no harm, and many help you, for example by breaking down food in your gut. A few kinds can make you ill. Those are the ones we call germs. Bacteria are single living cells. Viruses are much smaller, and can make copies of themselves only inside someone else's cells. Most colds, flu, chickenpox and measles are caused by viruses. Cholera, typhoid and many tummy upsets are caused by bacteria. Ringworm, an itchy round rash, is caused by a fungus.",
+   "examples": [
+    "The bacteria in curd are microbes, but not germs.",
+    "The virus that causes a cold is a germ.",
+    "Ringworm is caused by a fungus, not a worm."
+   ],
+   "perspectives": [],
+   "art": "A big circle labelled 'all microbes', mostly filled with harmless ones in soil, curd and on skin, with a small slice of it shaded and labelled 'germs'.",
+   "context": "This card explains what a germ is, and why most microbes are not germs."
+  },
+  {
+   "concept": "A germ's own problem: getting to a new body",
+   "status": "defined",
+   "definition": "A germ lives by multiplying. To keep going, their copies must get out of one body and into another.",
+   "description": "Think about life from a cold virus's side. They can only make copies inside the cells of a nose or throat. Within about a week, the body's defences clear them out. So a cold virus who stays in one nose comes to an end. Their family goes on only if some copies reach a new nose first. A runny nose and sneezes help them do that, because they carry copies out of the body. Cholera bacteria leave the body in loose motions, and reach a new person if that water is drunk. Each germ has their own way out of one body and into the next. Every illness that spreads is a germ travelling this way.",
+   "examples": [
+    "A cold virus travels out in a sneeze, or on a hand that wiped a nose.",
+    "Cholera bacteria travel out in loose motions, and reach a new person through drinking water.",
+    "The dengue virus travels from one person's blood to another's inside a mosquito."
+   ],
+   "perspectives": [],
+   "art": "A cold virus drawn as a tiny round being in a nose, with an arrow out on a sneeze drop and into a second nose across the room.",
+   "context": "This card looks at germs from their own side: why they must keep moving from one body to the next."
+  },
+  {
+   "concept": "The ways germs travel",
+   "status": "defined",
+   "definition": "Germs travel on hands, on things that hands touch, in droplets from coughs and sneezes, in water and food, and on insects.",
+   "description": "Many bacteria can swim, but only a tiny distance. A virus cannot move on their own at all. So germs need a ride. The most common ride is a hand. A hand wipes a nose, then touches a door handle, a lift button, a TV remote or a steel tumbler. The next hand picks the germs up from there, and carries them to an eye, a nose or a mouth. In this way a germ can pass through several hands and things before they reach a new person. Coughs and sneezes spray droplets that fly through the air and land on people and things nearby. Dirty water and uncovered food carry germs into the stomach. Flies walk on rubbish, then on food. Some mosquitoes carry the germs of dengue and malaria from one person's blood to another's.",
+   "examples": [
+    "Farhan sneezes into his hand and opens the fridge. Meenakshi opens the fridge an hour later and then eats a biscuit.",
+    "A sneeze into the air sprays droplets onto everyone at the table.",
+    "A fly walks on a rubbish heap and then on an open plate of vadas."
+   ],
+   "perspectives": [],
+   "art": "Five small pictures in a ring around a child: a hand, a door handle, a sneeze, a glass of water, a fly, each with a dotted arrow pointing to the child's mouth or nose.",
+   "context": "This card lists the rides germs take from one person to another. Your glitter test showed one of them."
+  },
+  {
+   "concept": "What an infection is",
+   "status": "defined",
+   "definition": "An infection is when germs get inside the body and multiply there.",
+   "description": "Germs land on our skin all the time. Whole skin keeps most of them out. They get in mostly through the soft, wet linings of the eyes, nose and mouth, and through cuts. Inside, they find warmth, water and food, so they multiply. In the best conditions, some bacteria can split in two about every 20 minutes. One bacterium can then become thousands in a few hours. A virus gets inside a cell and makes it build many new copies of the virus. The illness you feel is partly the germs' work and partly your body fighting back. A fever, a runny nose and tiredness are mostly signs of your body's fight. That is why you may feel well for a day or two after catching a germ, before the symptoms start.",
+   "examples": [
+    "A cold usually starts one to three days after the virus gets into your nose.",
+    "A dirty cut can turn red, warm and sore as bacteria multiply in it.",
+    "Rice left warm on the stove all day can grow enough bacteria to cause a tummy upset."
+   ],
+   "perspectives": [],
+   "art": "Three panels: a few germs landing on a nose, the same germs multiplying inside, and a girl in bed with a fever two days later.",
+   "context": "This card explains the difference between germs landing on you and an infection."
+  },
+  {
+   "concept": "Why one person gets ill and another does not",
+   "status": "defined",
+   "definition": "Whether a germ makes you ill depends on how many germs reach you, where they get in, and how ready your body's defences are.",
+   "description": "Two children can sit with the same ill friend, and only one of them catches the cold. A few germs are often cleared out before they can multiply. Many germs at once are harder to clear. A germ on your hand does nothing until they reach your eye, nose or mouth. A body that has met a germ before, or has had a vaccine for that germ, often clears them quickly. Sleep and good food help the defences too. So spreading is a matter of chance, and every link we break makes the chance smaller. How the body fights germs is in the unit on the immune system.",
+   "examples": [
+    "A child who washes before eating gives the germs on their hand less chance to reach their mouth.",
+    "A child who has had the measles vaccine is very unlikely to catch measles, even in an outbreak.",
+    "In your glitter test, the people closest to the carrier got the most glitter."
+   ],
+   "perspectives": [],
+   "art": "Two children at a table with an ill friend: one wiping her hands on a cloth and the other putting a hand to his mouth, with a few germs on each hand.",
+   "context": "This card explains why not everyone who meets a germ gets ill."
+  },
+  {
+   "concept": "Breaking the chain",
+   "status": "defined",
+   "definition": "Germs spread along a chain of links. Breaking any one link stops that chain.",
+   "description": "Every germ trail has links: the ill person, the way out (a sneeze, a hand), the ride (a handle, the air, water), the way in (a mouth, a nose), and the next person. You only need to break one. Coughing into your elbow keeps germs off your hands, so they never reach the door handle. Washing hands before eating breaks the link from hand to mouth. Boiling or filtering drinking water breaks the water link. Covering food breaks the fly link. Staying home when you are ill keeps the first link away from everyone else. Each habit is small, but it stops every trail that would have passed through that link.",
+   "examples": [
+    "Kavya coughs into her elbow, so her hands stay clean for the lift button.",
+    "Lakshmi's family boils drinking water, so germs in the tank water never reach their stomachs.",
+    "Divya stays home with flu, so her classmates never meet her germs."
+   ],
+   "perspectives": [],
+   "art": "A paper chain of five links labelled 'ill person', 'way out', 'ride', 'way in', 'next person', with one link cut open by scissors.",
+   "context": "This card explains why one small habit can stop a germ from reaching many people."
+  },
+  {
+   "concept": "Do colds spread more by hands or through the air?",
+   "status": "debated",
+   "description": "Scientists have argued about this for fifty years, and the answer may be different for different germs. Colds are a good example. Some careful tests found that colds spread mostly on hands, and other careful tests found that they spread mostly through the air. Each side had real evidence, so both habits matter: wash your hands, and cover coughs and sneezes.",
+   "examples": [
+    "In the 1970s, a team in the United States found cold viruses on the hands of people with colds, and on things they had touched.",
+    "In the 1980s, another team made men with colds play cards for hours with healthy men. Some healthy men wore stiff collars or arm braces so they could not touch their faces, and many of them still caught colds."
+   ],
+   "perspectives": [
+    {
+     "who": "Jack Gwaltney and Owen Hendley, University of Virginia, 1970s",
+     "explanation": "They found cold viruses on the hands of people with colds. When healthy people touched those hands and then their own eyes or nose, many caught the cold. So they said hands are the main way colds spread."
+    },
+    {
+     "who": "Elliot Dick and his team, University of Wisconsin, 1987",
+     "explanation": "In their card-playing tests, healthy men who could not touch their faces still caught colds from the ill players. So they said colds spread mostly through the air, in tiny droplets breathed out."
+    },
+    {
+     "who": "Many doctors today",
+     "explanation": "Colds can spread both ways, and which way matters more may depend on the place and the virus. So it is worth breaking both links."
+    }
+   ],
+   "art": "A card table with four men playing cards, one sneezing, and two others wearing stiff collars that stop their hands reaching their faces.",
+   "context": "This card is about a real argument between scientists: do colds travel more on hands or in the air?"
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Many illnesses are caused by germs: tiny bacteria, viruses, fungi and other small living beings.",
+   "evidence": "Scientists can see the germs under microscopes, grow many of them in the lab, and show that they cause the same illness again and again."
+  },
+  {
+   "text": "Most microbes are harmless or helpful. Only a few kinds are germs.",
+   "evidence": "Every healthy person carries many trillions of bacteria. Curd, idli batter and soil are full of microbes that do us no harm."
+  },
+  {
+   "text": "Germs spread on hands and touched things, in cough and sneeze droplets, in water and food, and through some insects.",
+   "evidence": "Germs have been found on hands, door handles and phones, in dirty water and in mosquitoes. Illness falls when these paths are blocked."
+  },
+  {
+   "text": "Washing hands with soap and water cuts the spread of tummy upsets and coughs.",
+   "evidence": "A large study in Karachi, in Pakistan, gave families soap and showed them how to wash. Their children had about half as much diarrhoea and chest infection as children in families who were not given soap."
+  },
+  {
+   "text": "Clean drinking water and toilets stop cholera and typhoid spreading.",
+   "evidence": "London had its last big cholera outbreak in 1866, after it built new sewers and began to clean its drinking water. City after city since has seen cholera stop once clean water and drains arrived."
+  },
+  {
+   "text": "Antibiotics kill bacteria but do nothing to viruses.",
+   "evidence": "Antibiotics work by attacking parts that only bacteria have. Viruses do not have those parts. Tests show antibiotics do not make colds better."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "You can only catch a germ from someone you touch or sit next to.",
+   "who": "A common idea among children and grown-ups",
+   "for": "We often catch a cold just after sitting beside someone with one, so the closeness seems to be the cause.",
+   "against": "Germs ride on things. In the glitter test, people who never touched the carrier still had glitter on their hands, from the door handle and the remote. John Snow found people who caught cholera far from the outbreak, because they drank water from the same pump.",
+   "status": "rejected",
+   "context": "This card is about the idea that germs pass only between people who touch."
+  },
+  {
+   "claim": "If you feel well, you cannot pass on a germ.",
+   "who": "Many people",
+   "for": "When we feel well, there is no cough or runny nose to spread anything.",
+   "against": "With many illnesses, such as flu and colds, people pass on germs a day or so before they feel ill. Some people carry germs, such as typhoid bacteria, without ever feeling ill. That is why washing matters even on a day you feel fine.",
+   "status": "rejected",
+   "context": "This card is about whether only ill-looking people can spread germs."
+  },
+  {
+   "claim": "An antibiotic will cure a cold faster.",
+   "who": "A common belief, and many people ask doctors for antibiotics for colds",
+   "for": "Antibiotics work very well against some infections, so it seems they should help with any illness.",
+   "against": "Colds are caused by viruses, and antibiotics work only on bacteria. Taking them when they are not needed helps bacteria become resistant, so the medicine stops working when it is really needed.",
+   "status": "rejected",
+   "context": "This card is about whether antibiotics help with a cold."
+  },
+  {
+   "claim": "Everyone who meets a germ gets ill.",
+   "who": "A common worry",
+   "for": "Germs cause illness, so it seems any contact should make you ill.",
+   "against": "Your skin, nose, stomach and immune system clear out most germs before they can multiply. How many germs reach you, and whether your body has met them before, both matter. That is why only some people in a family catch the same cold.",
+   "status": "rejected",
+   "context": "This card is about whether meeting a germ always makes you ill."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "In your glitter test, the glitter got less with each hand it passed through. Do germs get fewer in the same way along a chain?",
+   "kind": "deep",
+   "hint": "Think about what happens to the glitter on each hand and each handle. Real germs can also die on dry surfaces, or multiply in warm, wet food."
+  },
+  {
+   "q": "A cold virus can only make copies inside someone's cells. Is a virus alive?",
+   "kind": "deep",
+   "hint": "Think about what a living thing does: eats, grows, makes copies. Scientists still argue about viruses."
+  },
+  {
+   "q": "Why do you think some germs make us cough and sneeze, while others give us loose motions?",
+   "kind": "deep",
+   "hint": "Think about how each germ gets out of one body and into the next."
+  },
+  {
+   "q": "A family on the floor above you never meets you, yet you all share the lift button. How many people are you joined to by the things you touch?",
+   "kind": "big",
+   "hint": "Think of the door handles, buttons, coins and railings you touch in one day, and who else touches them."
+  },
+  {
+   "q": "When you stay home with a cold, who are you protecting? Can you ever know?",
+   "kind": "big",
+   "hint": "Think about a chain that never starts. Nobody can count the illnesses that did not happen."
+  },
+  {
+   "q": "Germs are living beings trying to keep their family going, as all living beings do. How should we think about killing them with medicines?",
+   "kind": "big",
+   "hint": "Think about how a farmer thinks about pests, and how the Jains think about tiny beings."
+  }
+ ],
+ "story": {
+  "title": "Paati's Pongal Pot",
+  "mins": 12,
+  "read_aloud": true,
+  "note": "The story is made up. The science in it is true: colds spread on hands and touched things as well as through the air, people can pass on a cold before they feel ill, and coughing into the elbow keeps germs off the hands.",
+  "text": [
+   "Three days before Pongal, Kavya woke up with a blocked nose and a scratchy throat. She sneezed so hard that her plait swung round and hit her ear.",
+   "\"Oh no,\" said Amma from the kitchen door. \"A cold. And Paati arrives from Tiruchi tomorrow.\"",
+   "Paati was Kavya's grandmother. She was seventy-four, and last winter a cold had turned into a bad cough that kept her in bed for three weeks. This year she was coming to their flat in Coimbatore to make the Pongal rice with Kavya, in the big brass pot on the balcony, the way they did every year.",
+   "\"I don't understand,\" said Kavya, blowing her nose. \"Nandini had a cold at school. But I stayed far away from her. I didn't even sit at her table.\"",
+   "Appa looked up from his newspaper. \"You must have stood next to someone else, then. Colds come from people breathing on you.\"",
+   "Kavya frowned. That was part of it, she knew. But she had been careful. She sat on her bed and thought back over the school day, the way a detective goes over a case.",
+   "Nandini had sat by the window. Kavya had sat by the door. But at lunch, they had both used the tap by the water filter. Nandini had pressed the filter button with her hand, and Kavya had pressed it too, to fill her bottle. In art, everyone had used the same box of crayons. And the lift in their building had one button for the fourth floor, and Nandini lived on the fourth floor too.",
+   "\"Appa,\" said Kavya slowly. \"I think the cold came to me on a button.\"",
+   "Appa laughed, but Amma did not. Amma was a nurse at the health centre near the bus stand. \"That can happen,\" she said. \"Cold germs can stay alive on a hard button for a few hours. Nandini wipes her nose, presses the button, and the germs wait there. Then your finger comes along. Later, you rub your eye or bite your nail, and the germs are in.\"",
+   "\"So I caught Nandini's cold without ever touching Nandini,\" said Kavya.",
+   "\"Quite likely,\" said Amma. \"Or in the air. Nobody can be sure which way it came. But now the question is how to keep it from Paati.\"",
+   "Kavya thought about that all evening. If her cold had come along a chain of hands and buttons, then she could break the chain before it reached Paati. She made a list on the back of an old calendar page.",
+   "Number one: sneeze and cough into my elbow, not my hand. Then my hands stay clean for door handles. Number two: my own steel tumbler, with a sticker on it, that nobody else uses. Number three: wash my hands with soap after blowing my nose, every single time. Number four: no hugging Paati until my cold has gone, even though I really want to.",
+   "She read the list to Appa. \"You have to do it too,\" she told him. \"You sneeze into your hand all the time. Then you pick up the TV remote.\"",
+   "Appa opened his mouth to argue, then closed it again. \"Fine,\" he said. \"Elbow.\"",
+   "Her little brother Arjun was six, and he did not like lists. \"Why do I have to?\" he said. \"I'm not ill.\"",
+   "\"You might be ill tomorrow and not know it yet,\" said Kavya. \"Amma says you can pass a cold on before you feel it.\"",
+   "Paati came the next day with a bag of fresh turmeric plants and a basket of sugarcane. Kavya waved to her from across the room and pointed to her own nose. \"Cold,\" she said. \"No hugs until it goes. But I'm washing my hands like a doctor.\"",
+   "Paati laughed. \"Then you can still stir the pot,\" she said. \"Wash first, and stir from the side, away from my face.\"",
+   "On Pongal morning, Kavya washed her hands with soap at the balcony tap, slowly, counting to twenty. She held the long ladle and stirred the rice and milk while Paati added jaggery. When the milk rose and spilled over the edge of the pot, everyone shouted \"Pongalo Pongal!\" Kavya shouted it into her elbow, just in case.",
+   "Two days later, Kavya's cold was better. Paati was still well.",
+   "But Arjun woke up sneezing.",
+   "\"I did my list!\" said Kavya. \"Well, nearly. Arjun, did you wipe your nose on your hand?\"",
+   "Arjun looked at his shoes. \"Only once. And then I played with the remote.\"",
+   "Kavya sighed. Then she took a sticker and wrote a big A on it, for Arjun's own tumbler. \"Right,\" she said. \"New list. Paati is still here for four more days.\"",
+   "Paati went home to Tiruchi a week later, without a cough. On the phone that night she told Kavya, \"You looked after me without touching me once. That is a clever kind of care.\""
+  ],
+  "epiphany": "For the parent: a cold travels along a chain of people, hands and things, and also through the air. Kavya could not see the germs, but she could see the links: the button, the tumbler, the remote, the sneeze into a hand. Breaking a link protects people further along the chain, even people we never touch.",
+  "ask": [
+   "How did Kavya work out that her cold might have come on a button?",
+   "Why did Kavya sneeze into her elbow instead of her hand?",
+   "Why did Arjun have to follow the list even though he was not ill?",
+   "Paati stayed well, but Arjun caught the cold. Which link in Kavya's list did Arjun break?",
+   "What would you put on a list to keep someone at home well?"
+  ],
+  "art": [
+   "A flat in Coimbatore in the morning, a girl in bed sneezing so hard her plait swings, her mother at the door.",
+   "The girl sitting on her bed, thinking, with small pictures above her head of a water filter button, a box of crayons and a lift button.",
+   "A nurse in a white saree with a blue border explaining, with a drawing of germs waiting on a lift button.",
+   "A hand-written list on the back of a calendar page: elbow, own tumbler, wash after blowing nose, no hugs.",
+   "A grandmother with grey hair arriving with sugarcane and turmeric plants, and the girl waving from across the room.",
+   "A brass Pongal pot boiling over on a balcony, the girl stirring from the side with a long ladle, shouting into her elbow.",
+   "A little boy sneezing with a TV remote in his hand, and the girl writing a big A on a sticker for his tumbler."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Germ Chain: build it, break it",
+   "mins": 20,
+   "players": [
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game. One player builds germ chains from an ill person to a next person. The other player breaks them with STOP cards.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "22 chain cards to cut out (5 kinds of link)",
+     "items": [
+      "ILL PERSON: Meenakshi has a cold.",
+      "ILL PERSON: Farhan has a tummy bug.",
+      "ILL PERSON: Divya has flu.",
+      "ILL PERSON: Thatha has an eye infection.",
+      "WAY OUT: sneezes into her hand.",
+      "WAY OUT: does not wash after the toilet.",
+      "WAY OUT: coughs into the air.",
+      "WAY OUT: rubs his eyes, then his hands.",
+      "RIDE: the lift button.",
+      "RIDE: the door handle.",
+      "RIDE: the TV remote.",
+      "RIDE: a shared steel tumbler.",
+      "RIDE: an uncovered plate of idlis.",
+      "RIDE: droplets in the air.",
+      "WAY IN: rubs her eyes.",
+      "WAY IN: eats a biscuit without washing.",
+      "WAY IN: bites his nails.",
+      "WAY IN: breathes in at the same table.",
+      "NEXT PERSON: Lakshmi.",
+      "NEXT PERSON: Priya.",
+      "NEXT PERSON: Arjun.",
+      "NEXT PERSON: Ayesha."
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "8 STOP cards to cut out",
+     "items": [
+      "STOP: coughs into her elbow. Breaks a WAY OUT link.",
+      "STOP: washes hands with soap after the toilet. Breaks a WAY OUT link.",
+      "STOP: everyone has their own tumbler. Breaks a tumbler RIDE.",
+      "STOP: covers the food with a plate. Breaks a food RIDE.",
+      "STOP: wipes the handle and the remote with soapy water. Breaks a handle, button or remote RIDE.",
+      "STOP: opens a window wide. Breaks a droplets RIDE.",
+      "STOP: washes hands before eating. Breaks a WAY IN link.",
+      "STOP: stays home until well. Breaks an ILL PERSON link."
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet",
+     "items": [
+      "Chains that reached a next person: ____",
+      "Chains broken: ____",
+      "Which link was broken most often? ____"
+     ]
+    }
+   ],
+   "rules": [
+    "One player is the Germ. The other is the Chain Breaker. Swap after 3 rounds.",
+    "The Germ shuffles the 22 chain cards and picks one card of each kind, in order: ILL PERSON, WAY OUT, RIDE, WAY IN, NEXT PERSON. Lay them in a row and read them aloud as one story.",
+    "The Chain Breaker holds the 8 STOP cards. They may play one STOP card on any link it fits.",
+    "If a STOP card breaks a link, the chain is broken. The Chain Breaker scores 1 point and says why the germ is stuck.",
+    "If no STOP card fits, the germ reaches the next person. The Germ scores 1 point.",
+    "Each STOP card can be used only once in the game. Put the chain cards back and shuffle after each round."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut out the cards. 2. Sort them into the five kinds. 3. Give the STOP cards to the Chain Breaker.",
+     "say": "A germ cannot walk. It needs a chain of links to get from one person to the next. You will build chains, and I will try to break them.",
+     "kid": "You are the Germ. Build a chain. Ill person, way out, ride, way in, next person.",
+     "context": "This is the first step of Germ Chain, a card game about how germs travel and how to stop them."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "Play one practice round. Read the chain aloud as a story.",
+     "say": "Read your chain as a story. Meenakshi has a cold. She sneezes into her hand. She presses the lift button. Lakshmi presses it and rubs her eyes. Which STOP card would break it?",
+     "kid": "Read your chain like a story. Which STOP card could break it?",
+     "check": {
+      "t": "mcq",
+      "q": "Meenakshi sneezes into her hand, then presses the lift button. Which habit breaks this link?",
+      "options": [
+       "Sneezing into her elbow",
+       "Drinking more water",
+       "Wearing a sweater"
+      ],
+      "a": 0,
+      "why": "Sneezing into her elbow keeps the germs off her hand, so they never get onto the button. Water and a sweater are good for her, but they do not stop germs travelling."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "Play 6 rounds, swapping roles after 3. After each round, the Chain Breaker says which link they broke and why.",
+     "say": "Which link did you break? Why does that stop the germ? Could another STOP card have worked too?",
+     "kid": "Play 6 rounds. Say which link you broke, and why.",
+     "ask": [
+      {
+       "q": "Was there a chain you could break in two places?",
+       "good": [
+        "Yes, the sneeze one. Elbow or washing hands both work.",
+        "The food one. Cover the food, or wash before eating."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Count the points. Look at which kind of STOP card was used most.",
+     "say": "Which link did we break most often? Which one is easiest to break in our own home?",
+     "kid": "Count your points. Which link is easiest to break at home?",
+     "think": "Is there a link in our home that nobody is breaking yet?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "Five cards laid in a row on a table, labelled ill person, way out, ride, way in, next person, with arrows between them.",
+     "caption": "1. Build a chain of five cards."
+    },
+    {
+     "art": "A hand placing a red STOP card on the 'ride' card in the middle of the row.",
+     "caption": "2. Break one link with a STOP card."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Spread or Stop?",
+   "mins": 10,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a quick game. A grown-up reads what someone does, and you hold up SPREAD if it helps germs travel, or STOP if it blocks them.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "16 situation cards",
+     "items": [
+      "Sneha coughs into her elbow on the bus. (STOP)",
+      "Rahul drinks from his sister's water bottle. (SPREAD)",
+      "Tara washes her hands with soap after the toilet. (STOP)",
+      "Anjali goes to school with a high fever. (SPREAD)",
+      "Priya covers the leftover sambar with a plate. (STOP)",
+      "Farhan picks his nose and then shakes hands. (SPREAD)",
+      "Lakshmi throws her used tissue in the bin and washes her hands. (STOP)",
+      "Nandini leaves cooked rice out all day and eats it at night. (SPREAD)",
+      "Divya drinks boiled or filtered water. (STOP)",
+      "Meera leaves a bucket of water uncovered on the balcony for a week. (SPREAD, mosquitoes breed in it)",
+      "Ayesha shares her towel with her ill cousin. (SPREAD)",
+      "Kavya stays home until her flu is over. (STOP)",
+      "Arjun bites his nails after playing on the stairs. (SPREAD)",
+      "Gowri opens the windows when her brother has a cold. (STOP)",
+      "Revathi eats a chopped fruit that sat uncovered at a stall full of flies. (SPREAD)",
+      "Amma wipes the fridge handle with soapy water. (STOP)"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "One SPREAD card and one STOP card for each player",
+     "items": [
+      "SPREAD",
+      "STOP"
+     ]
+    }
+   ],
+   "rules": [
+    "Each player has a SPREAD card and a STOP card.",
+    "A grown-up reads a situation card aloud. Everyone holds up a card at the same time.",
+    "Anyone who is right scores 1 point. Anyone who can say which link it is scores 1 more.",
+    "Read all 16 cards. The highest score wins."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Hand out the cards and read the first situation.",
+     "say": "Listen. Does this help a germ travel, or stop it? Sneha coughs into her elbow on the bus.",
+     "kid": "Spread or stop? Hold up your card.",
+     "context": "This is the start of Spread or Stop?, a quick game about what helps germs travel."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "Read the cards one at a time. After each, ask for the link.",
+     "say": "Why does that help the germ? Which link is it, the way out, the ride or the way in?",
+     "kid": "Spread or stop? Then say which link it is.",
+     "check": {
+      "t": "mcq",
+      "q": "Rahul drinks from his sister's water bottle. She has a cold. Spread or stop?",
+      "options": [
+       "Spread, because her germs are on the bottle's mouth",
+       "Stop, because water washes germs away"
+      ],
+      "a": 0,
+      "why": "Her cold germs are in her spit, on the mouth of the bottle. Rahul's lips touch the same place, so it is a direct ride. Water in the bottle does not wash the germs off the rim."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 1,
+     "do": "Add up the points.",
+     "say": "Which card was the hardest to decide? Why?",
+     "kid": "Count your points. Which card was hardest?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A child holding up a red SPREAD card while a grown-up reads a situation card.",
+     "caption": "1. Listen, then hold up SPREAD or STOP."
+    },
+    {
+     "art": "Situation cards with small pictures: a cough into an elbow, a shared bottle, an open bucket of water.",
+     "caption": "2. Say which link it is."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Glitter Trail: can germs reach someone you never touched?",
+   "mins": 30,
+   "days": 1,
+   "question": "If one person has pretend germs on their hand, who in the home ends up with them? Do people who never touched that person get them too? And does a cough into the elbow change that?",
+   "predict": "Before you start, guess. After 10 minutes, will anyone who did not touch the carrier have glitter on their hands? Who will have the most? Why do you think so?",
+   "fair_test": "To make it fair, do the same touch list in both rounds, in the same order, with the same people. Use one pinch of glitter each time. Only one thing changes: in round 1 the glitter is on the carrier's palm, in round 2 it is on the inside of their elbow.",
+   "results_table": [
+    "Person or thing",
+    "Did they touch the carrier? (yes or no)",
+    "Glitter in round 1 (palm): none, a few specks, lots",
+    "Glitter in round 2 (elbow): none, a few specks, lots"
+   ],
+   "materials": [
+    {
+     "item": "a small tube of glitter from a stationery shop, about one spoon. No glitter? Use a pinch of kumkum or rangoli colour instead.",
+     "qty": 1,
+     "buy": "b-glitter"
+    },
+    {
+     "item": "a few drops of coconut oil or any cooking oil",
+     "qty": 1
+    },
+    {
+     "item": "a torch, or a phone torch",
+     "qty": 1
+    },
+    {
+     "item": "5 things to touch: the main door handle, the fridge handle, the TV remote, an empty steel tumbler and a pencil",
+     "qty": 5
+    },
+    {
+     "item": "at least two other people at home, for example a parent and a grandparent or sibling",
+     "qty": 2
+    },
+    {
+     "item": "soap, water and an old cloth for cleaning up",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep glitter away from eyes and mouth. Do not use glitter on food, plates or anything that goes in the mouth, so use an empty tumbler and wash it after. A grown-up wipes all the glitter off with a damp cloth and shakes the cloth into the dustbin, not down the drain, because glitter is a plastic. Kumkum and rangoli colour can stain light cloth, so keep them off sofas and clothes.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Round 1: glitter on the palm, do the touch list, then check everyone's hands with a torch. Wash and clean up. Round 2: glitter on the elbow, same touch list, check again."
+    }
+   ],
+   "record": "Fill in the table. Then draw your home as a map, with each person and each thing as a dot. Draw an arrow for every way the glitter travelled.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Choose your child as the carrier. 2. Read the touch list aloud together. 3. Ask for a guess and a reason.",
+     "say": "Real germs are too small to see. Today glitter is our pretend germ, and you are the ill person carrying it. Here is the touch list. Will anyone who never touches you end up with glitter? Who will have the most? Why do you think so?",
+     "kid": "Glitter is your pretend germ. You are the carrier. Guess who will get glitter. Why?",
+     "ask": [
+      {
+       "q": "Who do you think will get the most glitter, and why?",
+       "good": [
+        "The person I hold hands with, because they touch me straight away.",
+        "Whoever touches the door handle first after me."
+       ]
+      }
+     ],
+     "parent": "Write the guess down. Do not say what you expect. Any reason is a good start.",
+     "context": "This is the first step of the Glitter Trail. You put glitter on one person's hand as pretend germs, and follow where it goes in your home."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "1. Rub two drops of oil on your child's right palm. 2. Sprinkle one pinch of glitter on it. 3. Your child rubs both palms together once.",
+     "say": "Skin has its own thin layer of oil, and germs sit in it. The oil helps the glitter stick the same way.",
+     "kid": "Rub a drop of oil on your palm. Add a pinch of glitter. Rub your hands together once.",
+     "adult": true,
+     "parent": "Use a small pinch, about as much as fits on the tip of a teaspoon. Too much glitter falls everywhere and makes the trail hard to read."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "The carrier does the touch list: 1. Open and close the main door. 2. Open and close the fridge. 3. Press three buttons on the remote. 4. Pick up the steel tumbler and put it down. 5. Hand the pencil to the second person. Nobody else touches the carrier.",
+     "say": "Now go through the list, just as you would on a normal day. Remember, you must not touch anyone else.",
+     "kid": "Do the touch list. Door, fridge, remote, tumbler, pencil. Don't touch anyone!"
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Now the others do their part. 1. The second person uses the pencil, then opens the fridge. 2. The third person opens the main door, picks up the remote and the tumbler.",
+     "say": "Now everyone else does what they usually do. The third person never went near the carrier at all.",
+     "kid": "Now the others use the door, fridge, remote and tumbler. Watch carefully."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "1. Switch off the light or close the curtain. 2. Shine the torch across each person's palms and each thing. 3. Glitter sparkles in the beam. 4. Score each one: none, a few specks, or lots.",
+     "say": "Shine the torch at a low angle, almost flat. Glitter flashes when the light hits it. Who has glitter? Did the third person get any?",
+     "kid": "Shine the torch across each hand. Do you see sparkles? Score them.",
+     "ask": [
+      {
+       "q": "How did glitter get onto the third person's hands?",
+       "good": [
+        "From the door handle and the remote, which the carrier touched first.",
+        "It rode on the things."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "The third person never touched the carrier, but has glitter on their hand. Where did it come from?",
+      "options": [
+       "From the things the carrier touched first, like the door handle",
+       "It flew through the air by itself",
+       "It was already on their hand"
+      ],
+      "a": 0,
+      "why": "The glitter rode from the carrier's hand to the handle and the remote, and from there to the next hand. Picking 'flew by itself' would mean glitter moves on its own. It cannot, and neither can most germs. Picking 'already there' is worth checking: that is why we look at everyone's hands before we start."
+     }
+    },
+    {
+     "id": "s6",
+     "mins": 5,
+     "do": "1. Everyone washes hands well with soap. 2. Wipe the door, fridge, remote, tumbler and pencil with a damp soapy cloth. 3. Check with the torch that the glitter has gone.",
+     "say": "Before round 2, everything must be clean, or old glitter will spoil the test.",
+     "kid": "Everyone washes their hands with soap. Wipe the things too. Check with the torch.",
+     "adult": true
+    },
+    {
+     "id": "s7",
+     "mins": 5,
+     "do": "Round 2: 1. Put the oil and the same pinch of glitter on the inside of the carrier's elbow. 2. Do exactly the same touch list. 3. The others do their part again. 4. Check with the torch and score.",
+     "say": "This time the glitter is on your elbow, as if you had coughed into it. Everything else stays the same. What do you think will change? Why?",
+     "kid": "Now glitter goes on your elbow, like a cough. Same touch list. What changes?",
+     "parent": "Usually only a few specks, or none, reach the things and the others' hands. If you see some, look at where they are: often on a sleeve or a tabletop the elbow brushed."
+    },
+    {
+     "id": "s8",
+     "mins": 2,
+     "do": "Look at the table together. Ask your child to say what they think, what they saw, and why.",
+     "say": "What do you think happened? What did you see that shows it? Why do you think it happened that way?",
+     "kid": "Say what you think, what you saw, and why.",
+     "ask": [
+      {
+       "q": "What did round 2 show about coughing into your elbow?",
+       "good": [
+        "Much less glitter got onto the things, so less reached the others.",
+        "The elbow does not touch door handles."
+       ]
+      }
+     ],
+     "think": "Which thing in our home do the most hands touch in a day?"
+    }
+   ],
+   "context": "In this experiment you use glitter as pretend germs and follow its trail round your home, from one person's hand to things and other people.",
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results from Meenakshi's family",
+    "cols": [
+     "Person or thing",
+     "Touched the carrier?",
+     "Round 1 (palm)",
+     "Round 2 (elbow)"
+    ],
+    "rows": [
+     [
+      "Meenakshi, the carrier",
+      "is the carrier",
+      "lots",
+      "none on her hands"
+     ],
+     [
+      "Door handle",
+      "no",
+      "lots",
+      "none"
+     ],
+     [
+      "Remote",
+      "no",
+      "a few specks",
+      "none"
+     ],
+     [
+      "Amma, who used the pencil and fridge",
+      "no",
+      "a few specks",
+      "none"
+     ],
+     [
+      "Paati, who used the door and remote",
+      "no",
+      "a few specks",
+      "one speck"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A child's palm with a little shiny oil and a pinch of glitter on it, held over an old cloth.",
+     "caption": "1. Put a drop of oil and a pinch of glitter on the carrier's palm."
+    },
+    {
+     "art": "The child opening a fridge, pressing a remote, then handing a pencil to her mother, each with small sparkles left behind.",
+     "caption": "2. The carrier does the touch list."
+    },
+    {
+     "art": "A grandmother opening the same main door and picking up the remote, never near the child.",
+     "caption": "3. The others use the same things."
+    },
+    {
+     "art": "A torch held low, shining across a grandmother's palm in a darkened room, a few specks sparkling.",
+     "caption": "4. Check every hand with a torch held low."
+    },
+    {
+     "art": "The same child with glitter on the inside of her elbow, coughing into it, then doing the same touch list.",
+     "caption": "5. Round 2: glitter on the elbow. Same touch list."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "The Handshake Chain: do germs get fewer along a chain?",
+   "mins": 20,
+   "days": 1,
+   "question": "When glitter passes from hand to hand along a chain of handshakes, does each hand get less? How many handshakes until it is gone?",
+   "predict": "Before you start, guess. Will the fourth hand in the chain have as much glitter as the first? How many handshakes will it take before a hand has none? Why do you think so?",
+   "fair_test": "Use the same pinch of glitter and the same short handshake each time: one firm shake, for about one second. Count specks on the same part of each palm, inside a small paper square. Do the chain twice and compare.",
+   "results_table": [
+    "Hand in the chain",
+    "Specks in the square, first try",
+    "Specks in the square, second try"
+   ],
+   "materials": [
+    {
+     "item": "a small tube of glitter from a stationery shop, about one spoon. No glitter? Use a pinch of kumkum or rangoli colour instead.",
+     "qty": 1,
+     "buy": "b-glitter"
+    },
+    {
+     "item": "a few drops of coconut oil or any cooking oil",
+     "qty": 1
+    },
+    {
+     "item": "a torch, or a phone torch",
+     "qty": 1
+    },
+    {
+     "item": "a piece of paper with a 2 cm square cut out of the middle, to count specks through",
+     "qty": 1
+    },
+    {
+     "item": "two or three people. Only two? Each person uses both hands, so the chain has four hands.",
+     "qty": 2
+    },
+    {
+     "item": "soap and water",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep glitter away from eyes and mouth. Wash hands with soap at the end. Wipe up spilt glitter with a damp cloth and put it in the dustbin.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Make a handshake chain. Count glitter specks on each hand, then do it again."
+    }
+   ],
+   "record": "Fill in the table, then draw a bar for each hand in the chain, as tall as its number of specks.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut a 2 cm square hole in the middle of a piece of paper. 2. Ask for a guess and a reason.",
+     "say": "The glitter will pass from hand to hand in a chain of handshakes. Will the last hand get as much as the first? Why do you think so?",
+     "kid": "Glitter will pass along a chain of handshakes. Will the last hand get as much? Why?",
+     "context": "This is the first step of the Handshake Chain. Glitter passes along a line of handshakes, and you count how much reaches each hand."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Rub two drops of oil on the first hand. 2. Add one pinch of glitter. 3. Lay the paper on the palm and count the specks you see in the square, using the torch.",
+     "say": "Count the specks in the square on hand one. That is where the chain starts.",
+     "kid": "Count the specks in the square on hand one. Write the number.",
+     "adult": true,
+     "parent": "There may be too many to count on the first hand. Write 'more than 50' and move on."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "1. Hand one shakes hand two, once. 2. Hand two shakes hand three. 3. Hand three shakes hand four. 4. Count the specks in the square on each hand, with the torch.",
+     "say": "One firm shake each, about one second. Now count each hand. What do you notice about the numbers?",
+     "kid": "Shake, shake, shake along the chain. Count the specks on every hand.",
+     "parent": "Expect the number to fall sharply at each shake, often to only a few specks by hand three or four. If two hands have the same number, that is fine: write what you see.",
+     "check": {
+      "t": "mcq",
+      "q": "Which hand in the chain usually gets the least glitter?",
+      "options": [
+       "The first hand",
+       "The last hand",
+       "They all get the same"
+      ],
+      "a": 1,
+      "why": "Each shake passes on only part of the glitter, and keeps some on the hand that gave it. So less reaches each hand further down. Picking 'all the same' would mean the glitter makes more of itself as it goes. Glitter cannot do that, but some germs can, as you will see."
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "1. Everyone washes with soap. 2. Do the whole chain again. 3. Compare the two tries.",
+     "say": "Let's do it again. One try can be a fluke. Did the numbers fall the same way both times?",
+     "kid": "Wash. Do the chain again. Do the numbers fall the same way?",
+     "adult": true
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "Talk about what the results mean for real germs.",
+     "say": "Glitter got less at each hand. Germs often do too. But germs are alive. What could make them grow again further along the chain?",
+     "kid": "Glitter got less at each hand. Can germs grow again? Where?",
+     "ask": [
+      {
+       "q": "Where could germs multiply on their way?",
+       "good": [
+        "In food that is left out warm.",
+        "Inside the next person's body.",
+        "In dirty water."
+       ]
+      }
+     ]
+    }
+   ],
+   "context": "In this experiment you pass glitter along a chain of handshakes and count how much reaches each hand.",
+   "example_chart": {
+    "type": "bar",
+    "title": "Made-up example: specks in the square on each hand",
+    "x": "Hand in the chain",
+    "y": "Specks",
+    "data": [
+     {
+      "label": "Hand 1",
+      "value": 50,
+      "emoji": "✋"
+     },
+     {
+      "label": "Hand 2",
+      "value": 14,
+      "emoji": "✋"
+     },
+     {
+      "label": "Hand 3",
+      "value": 4,
+      "emoji": "✋"
+     },
+     {
+      "label": "Hand 4",
+      "value": 1,
+      "emoji": "✋"
+     }
+    ]
+   },
+   "setup": [
+    {
+     "art": "A palm with glitter on it and a piece of paper with a small square hole laid on top, a torch shining across.",
+     "caption": "1. Count the specks inside the square on the first hand."
+    },
+    {
+     "art": "Four hands in a row, each shaking the next, with fewer sparkles on each hand along the row.",
+     "caption": "2. Shake along the chain, then count each hand."
+    }
+   ]
+  },
+  {
+   "id": "e3",
+   "title": "Warm or Cool: what happens to leftover rice?",
+   "mins": 20,
+   "days": 3,
+   "question": "Does cooked rice left out in a warm kitchen change faster than cooked rice kept in the fridge?",
+   "predict": "Guess first. After two days, will the rice on the kitchen shelf look and smell different from the rice in the fridge? Why do you think so?",
+   "fair_test": "Use rice from the same pot, the same amount in each bowl, and the same kind of bowl and lid. Only the place changes: one bowl on a kitchen shelf, one in the fridge.",
+   "results_table": [
+    "Day",
+    "Rice on the shelf: look",
+    "Rice on the shelf: smell from a distance",
+    "Rice in the fridge: look",
+    "Rice in the fridge: smell from a distance"
+   ],
+   "materials": [
+    {
+     "item": "4 spoons of cooked rice from one pot, cooled",
+     "qty": 1
+    },
+    {
+     "item": "2 small steel bowls, the same size, each with a plate or lid",
+     "qty": 2
+    },
+    {
+     "item": "a strip of paper and a pencil for labels",
+     "qty": 1
+    },
+    {
+     "item": "a fridge",
+     "qty": 1
+    }
+   ],
+   "safety": "Never taste the test rice. Smell it only by waving the air above the bowl towards your nose, and only with a grown-up. At the end, a grown-up throws the rice away in the dustbin or compost and washes the bowls with soap.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Put two spoons of cooked rice in each bowl, cover them, and put one on a shelf and one in the fridge. Draw how they look."
+    },
+    {
+     "day": 2,
+     "mins": 5,
+     "what": "Look at both bowls and smell from a distance. Write what you notice."
+    },
+    {
+     "day": 3,
+     "mins": 5,
+     "what": "Look and smell once more. Then a grown-up throws the rice away."
+    }
+   ],
+   "record": "Fill in the table each day, and draw both bowls side by side.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Put 2 spoons of rice in each bowl. 2. Cover both. 3. Label one 'shelf' and one 'fridge'. 4. Ask for a guess and a reason.",
+     "say": "These two bowls of rice came from the same pot. One goes on the shelf, one in the fridge. What do you think they will look like in two days? Why do you think so?",
+     "kid": "Two bowls of rice. One on the shelf. One in the fridge. Guess what happens. Why?",
+     "context": "This is the first step of Warm or Cool, where you watch what happens to cooked rice kept warm and cool."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Put one bowl on a kitchen shelf away from the stove, and one in the fridge. Draw both bowls.",
+     "say": "Draw them now, so we can compare later.",
+     "kid": "Put one bowl on the shelf, one in the fridge. Draw them both."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Two days later, look at both bowls. Wave the air above each towards your nose.",
+     "say": "What do you see? What do you smell? Is the shelf rice different from the fridge rice?",
+     "kid": "Look at both bowls. Wave the smell to your nose. Don't sniff close!",
+     "adult": true,
+     "wait": "Day 2: look and smell.",
+     "parent": "In a warm Indian kitchen, the shelf rice usually smells sour and feels sticky or slimy by day 2, and may grow spots of mould by day 3. The fridge rice usually still looks and smells like rice. In a cold winter, the change may be slower: wait one more day."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Talk about why, then throw the rice away and wash the bowls.",
+     "say": "What do you think happened in the shelf bowl? Why did the fridge bowl change less?",
+     "kid": "Why did the shelf rice change? Why not the fridge rice?",
+     "adult": true,
+     "ask": [
+      {
+       "q": "Why did the warm rice change faster?",
+       "good": [
+        "Microbes multiplied in it, because it was warm and wet.",
+        "The fridge was too cold for them to grow fast."
+       ]
+      }
+     ],
+     "wait": "Day 3: look once more, then throw it away.",
+     "check": {
+      "t": "mcq",
+      "q": "Why is it safer to put leftover sambar in the fridge soon after the meal?",
+      "options": [
+       "Cold slows down the germs that multiply in warm food",
+       "Cold kills every germ at once",
+       "The fridge makes food taste better"
+      ],
+      "a": 0,
+      "why": "In the cold, bacteria multiply very slowly, so they stay too few to make you ill. Picking 'kills every germ' is a common mistake. Most germs survive the fridge, and grow again when the food warms up. That is why food is heated well before eating."
+     }
+    }
+   ],
+   "context": "In this experiment you keep cooked rice warm and cool for two days, and see where microbes multiply faster.",
+   "setup": [
+    {
+     "art": "Two small steel bowls of white rice, each covered with a plate, one labelled 'shelf' and one 'fridge'.",
+     "caption": "1. Two bowls of rice from the same pot."
+    },
+    {
+     "art": "One bowl on a kitchen shelf and one inside a fridge door.",
+     "caption": "2. One on the shelf, one in the fridge."
+    },
+    {
+     "art": "Two days later: the shelf rice dull and sticky with a small grey spot, the fridge rice still white.",
+     "caption": "3. Look and smell from a distance on day 2."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "How Many Hands? The door handle count",
+   "mins": 10,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a sheet of paper and a pencil for tally marks",
+     "qty": 1
+    },
+    {
+     "item": "a sticky note to put by the main door",
+     "qty": 1
+    }
+   ],
+   "safety": "",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Guess, then count how many times the main door handle is touched in one evening. Add the lift button if you live in a building with a lift."
+    }
+   ],
+   "record": "A tally chart with one row for each person, and one row for visitors such as the milk delivery or a neighbour.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Stick a note by the main door. 2. Ask your child to guess how many times the handle will be touched between 5 and 9 in the evening.",
+     "say": "Germs ride on things that many hands touch. Let's find out how many hands touch our door handle in one evening. Make a guess first. Why that number?",
+     "kid": "Guess how many times the door handle is touched this evening. Why?",
+     "context": "This is a short counting activity to start the unit. You find out how many hands touch one door handle in an evening."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "Through the evening, each person who touches the handle makes a tally mark on the note. Your child reminds everyone.",
+     "say": "Every time you touch the handle, put a mark on the note. Inside and outside both count.",
+     "kid": "Every touch, make a mark. Remind everyone, even Appa!",
+     "wait": "Through the evening: count the touches."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Add up the marks together.",
+     "say": "How many touches? How many different people? If one of them had a cold on their hand, who else could it reach?",
+     "kid": "Add up the marks. How many people touched it?",
+     "ask": [
+      {
+       "q": "If one person had a cold, who else might the germs reach through this handle?",
+       "good": [
+        "Everyone who touched it after them.",
+        "Even visitors, like the delivery person."
+       ]
+      }
+     ],
+     "think": "What else in our home is touched by everyone?"
+    }
+   ],
+   "context": "This is a counting activity. You find out how many hands touch your main door handle in one evening.",
+   "setup": [
+    {
+     "art": "A sticky note with tally marks stuck on a wall beside a flat's main door handle.",
+     "caption": "1. Put a note by the door."
+    },
+    {
+     "art": "A father coming home with vegetables and making a tally mark on the note.",
+     "caption": "2. Everyone marks each touch."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "One Germ Becomes Many: doubling with rice grains",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "about 70 grains of raw rice, or dried moong",
+     "qty": 1
+    },
+    {
+     "item": "a steel plate",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Younger children may put grains in their nose or mouth, so watch them.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Put one grain on a plate. Double the grains six times, one doubling for every 20 minutes. Count and write each time."
+    }
+   ],
+   "record": "A table with two columns: 'Time' and 'Number of bacteria'. Draw the plate after the last doubling.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Put one grain of rice on the plate.",
+     "say": "This grain is one bacterium in some warm rice. In the best conditions, some bacteria split into two about every 20 minutes. How many do you think there will be after 2 hours? Why?",
+     "kid": "One grain is one bacterium. Every 20 minutes, they split into two. Guess: how many after 2 hours?",
+     "context": "This activity shows how fast bacteria can multiply when they split in two again and again."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "1. For each 20 minutes, put one new grain beside every grain already on the plate. 2. Write the time and the count each time.",
+     "say": "20 minutes: each grain gets a partner. How many now? 40 minutes: double again.",
+     "kid": "Each grain gets a partner. Count them. Write the number. Do it again.",
+     "parent": "The numbers go 1, 2, 4, 8, 16, 32, 64. After 2 hours, which is 6 lots of 20 minutes, there are 64.",
+     "check": {
+      "t": "mcq",
+      "q": "There are 16 bacteria. They all split in two. How many are there now?",
+      "options": [
+       "17",
+       "32",
+       "18"
+      ],
+      "a": 1,
+      "why": "Every one of the 16 becomes 2, so there are 16 + 16 = 32. Picking 17 or 18 means adding one or two new ones. But all of them split at once, so the number doubles."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Look at the table together.",
+     "say": "After 2 hours there were 64. If it carried on for 2 more hours, it would be more than 4,000. Why does warm food left out for hours worry doctors?",
+     "kid": "64 after 2 hours! What about after 4 hours? Why does that matter?",
+     "ask": [
+      {
+       "q": "Why should leftover food go in the fridge soon?",
+       "good": [
+        "So the bacteria can't double so many times.",
+        "Cold slows them down."
+       ]
+      }
+     ]
+    }
+   ],
+   "context": "This activity uses rice grains to show how fast one bacterium can become many by splitting in two.",
+   "setup": [
+    {
+     "art": "One grain of rice alone in the middle of a steel plate.",
+     "caption": "1. Start with one grain: one bacterium."
+    },
+    {
+     "art": "The same plate with 2, then 4, then 8, then 16 grains in growing clusters.",
+     "caption": "2. Double the grains for every 20 minutes."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Be John Snow: find the bad well",
+   "mins": 20,
+   "days": 1,
+   "materials": [
+    {
+     "item": "the printed street map below, or a copy drawn on paper with a ruler",
+     "qty": 1
+    },
+    {
+     "item": "a red pencil and a blue pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Mark where people fell ill on a made-up map, and find which well spread the illness."
+    }
+   ],
+   "record": "The map with a red dot for each ill family, and a circle round the well you think is to blame. Write one sentence on why.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Draw a grid of 6 squares across and 6 down, and number the rows and columns 1 to 6. 2. Draw well A in square 2 across, 2 down. 3. Draw well B in square 5 across, 5 down. 4. Draw well C in square 5 across, 1 down.",
+     "say": "This is a made-up colony with three wells. Families take water from the well closest to their house. Some families have fallen ill with loose motions.",
+     "kid": "Draw the map. Put in the three wells, A, B and C.",
+     "context": "This is a map puzzle, like the one John Snow solved in London in 1854. You mark where people fell ill and find which well spread the illness."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "1. Squares are given as across, then down. 2. Mark a red dot for each ill family: 1-1, 2-1, 3-1, 1-2, 2-2, 3-2, 1-3, 2-3, 3-3 and 6-6. 3. Mark a blue dot for each well family: 4-1, 6-1, 6-2, 5-4, 4-5, 6-5, 5-6.",
+     "say": "Red dots are families who fell ill. Blue dots are families who stayed well. What do you notice?",
+     "kid": "Put red dots where families fell ill. Blue dots where they are well. What do you see?"
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "Ask which well is to blame, and what to do about the red dot at 6-6.",
+     "say": "Most red dots are round well A. But one family at 6-6 is far from it, next to well B. How could that family have caught it?",
+     "kid": "Which well is to blame? What about the red dot far away?",
+     "ask": [
+      {
+       "q": "How could the family at 6-6 have fallen ill?",
+       "good": [
+        "They went to well A anyway, maybe because they liked its water.",
+        "Someone brought water from well A to them.",
+        "They ate at a house near well A."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "Nine ill families live round well A. One lives far away. Which well should be closed first?",
+      "options": [
+       "Well A, because most ill families drink from it",
+       "Well B, because one ill family lives near it",
+       "All three, because illness is in the air"
+      ],
+      "a": 0,
+      "why": "The ill families cluster round well A, so that is the best clue. The one far family can be checked by asking where they got their water. John Snow did exactly this. Picking 'illness in the air' was the common idea in 1854, but bad air would not stay round one well."
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "Read the John Snow story card together.",
+     "say": "John Snow did this with real streets in London. One family far away turned out to have water brought from the bad pump.",
+     "kid": "Now read the true story of John Snow and the pump."
+    }
+   ],
+   "context": "This is a map puzzle. You find which well is spreading an illness by marking where ill families live.",
+   "setup": [
+    {
+     "art": "A hand-drawn 6 by 6 grid with three wells drawn as small circles labelled A, B and C.",
+     "caption": "1. Draw the map and the three wells."
+    },
+    {
+     "art": "The same grid with a cluster of red dots around well A, blue dots around wells B and C, and one red dot far away.",
+     "caption": "2. Mark the ill families and the well families."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Germ Paths in Our Flat",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a big sheet of paper and coloured pencils",
+     "qty": 1
+    }
+   ],
+   "safety": "Look, don't touch: do not open the dustbin or put hands in drains.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Walk round your home and find one place for each germ path: hands and handles, droplets, water, food, and insects. Choose one link to break."
+    }
+   ],
+   "record": "A drawing of your home with a coloured mark for each germ path you found, and a star on the one your family will break this week.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Write five headings: hands and handles, droplets, water, food, insects.",
+     "say": "Germs take five main rides. Let's find a place in our flat for each one.",
+     "kid": "Germs take five rides. Find one place at home for each.",
+     "context": "In this activity you find the places in your own home where germs could travel, and choose one to block."
+    },
+    {
+     "id": "s2",
+     "mins": 9,
+     "do": "Walk round the rooms together. For each heading, your child finds one place and draws it.",
+     "say": "Where do the most hands touch? Where do we cough? Where does our drinking water come from? Is any food left open? Is there still water where mosquitoes could lay eggs?",
+     "kid": "Walk round. Find a handle, a water pot, open food, still water. Draw each one.",
+     "parent": "Common finds: the fridge handle, the remote, a shared tumbler, an uncovered water pot, a flower-pot tray with standing water, fruit left open on the table."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Choose one path the whole family will break this week.",
+     "say": "Which one link could we break every day this week? Who will remind us?",
+     "kid": "Pick one link to break this week. You can be the reminder!",
+     "ask": [
+      {
+       "q": "Why did you choose that one?",
+       "good": [
+        "Because everyone touches the fridge handle.",
+        "Because mosquitoes breed in the tray water."
+       ]
+      }
+     ]
+    }
+   ],
+   "context": "In this activity you look for the places in your home where germs could travel.",
+   "setup": [
+    {
+     "art": "A child with a clipboard looking at a flower-pot tray with standing water on a balcony.",
+     "caption": "1. Walk round and find each germ path."
+    },
+    {
+     "art": "A child's drawing of a flat with coloured marks on the fridge handle, a water pot and a balcony tray, and a star on one.",
+     "caption": "2. Draw them and star one to break."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "A Poster for the Lift",
+   "mins": 45,
+   "days": 2,
+   "materials": [
+    {
+     "item": "a sheet of chart paper",
+     "qty": 1
+    },
+    {
+     "item": "sketch pens or crayons",
+     "qty": 1
+    },
+    {
+     "item": "tape",
+     "qty": 1
+    }
+   ],
+   "safety": "Ask the building's secretary or watchman before putting anything up. A grown-up comes along to stick it up.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Plan and draw a poster that shows one germ chain and one way to break it, in pictures and in Tamil, English or your home language."
+    },
+    {
+     "day": 2,
+     "mins": 20,
+     "what": "Get permission and put it up by the lift or the building's main door. Explain it to one neighbour."
+    }
+   ],
+   "record": "A photo or a drawing of your poster where it hangs, and one sentence about what a neighbour said.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 25,
+     "do": "1. Choose one germ chain from the unit, for example a cough into a hand, then the lift button. 2. Draw the chain as 3 or 4 pictures. 3. Draw the habit that breaks it, big and bright. 4. Add a few words in two languages.",
+     "say": "Everyone in our building touches the lift button. So one poster could break a chain for many families. Which chain will you show? What words will make people stop and read?",
+     "kid": "Draw one germ chain. Then draw how to break it, big and bright. Add a few words.",
+     "context": "This is the first day of a 2-day project. You make a poster that helps everyone in your building break one germ chain."
+    },
+    {
+     "id": "s2",
+     "mins": 20,
+     "do": "1. Ask permission. 2. Tape the poster up by the lift or the main door. 3. Explain it to one neighbour.",
+     "say": "Let's ask the secretary first. Then you can explain the poster to anyone who stops.",
+     "kid": "Ask first. Put it up. Tell one neighbour what it means.",
+     "adult": true,
+     "wait": "Day 2: put it up."
+    }
+   ],
+   "context": "In this 2-day project you make a poster for your building that shows one germ chain and how to break it.",
+   "setup": [
+    {
+     "art": "A child drawing a poster with a hand, a lift button and a second hand, joined by arrows, and a big elbow sneeze picture.",
+     "caption": "1. Day 1: draw the chain and the habit that breaks it."
+    },
+    {
+     "art": "The finished poster taped beside a lift door in a building, a neighbour reading it.",
+     "caption": "2. Day 2: put it up, with permission."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "The No-Hands Door",
+   "mins": 30,
+   "problem": "Design a way to open the bathroom door from the inside without touching the handle with your hand, so clean hands stay clean after washing.",
+   "constraints": [
+    "Use only things from home: string, cardboard, tape, an old cloth, a hook.",
+    "It must not damage the door, and a grown-up must agree to it.",
+    "A child must be able to use it easily."
+   ],
+   "materials": [
+    "string or old cloth strips",
+    "cardboard and tape",
+    "a wooden spoon or a hanger"
+   ],
+   "general": [
+    "Tie a loop of cloth to the handle, low down, so it can be pulled with an elbow or a forearm.",
+    "Put a paper towel or small cloth by the tap to open the door with, and wash that cloth every day."
+   ],
+   "creative": [
+    "Make a cardboard hook that slides over the handle and can be pushed down with an elbow.",
+    "Hang a foot loop on a door that pulls open, so a foot does the work.",
+    "Wash hands outside the bathroom, at a kitchen or balcony tap, if the door is a problem."
+   ],
+   "your_turn": "Now design your own no-hands door. Draw it, build it with a grown-up, and test it for a week.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Look at the bathroom door handle together. Ask who touches it, and when.",
+     "say": "Everyone touches this handle just after using the toilet, before washing. Then we wash, and touch it again. What happens to our clean hands?",
+     "kid": "Who touches this handle? When? What happens to clean hands?",
+     "context": "This is a design challenge. You invent a way to open the bathroom door without touching it with clean hands."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Draw two ideas.",
+     "say": "Draw two ways to open this door without your hand. Which part of your body could do it instead?",
+     "kid": "Draw two ideas. Elbow? Foot? Something else?"
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "Build the best idea and test it ten times.",
+     "say": "Try it ten times. Does it work every time? Does it hold?",
+     "kid": "Build it. Try it ten times. Does it work?",
+     "adult": true
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Talk about what to change.",
+     "say": "What worked? What would you change? Which germ link does your design break?",
+     "kid": "What would you change? Which link does it break?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A bathroom door with a loop of old cloth tied low on its handle.",
+     "caption": "1. Look at who touches the handle."
+    },
+    {
+     "art": "A child pulling the door open with her forearm through the cloth loop, her clean hands held up.",
+     "caption": "2. Build and test your design."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "The Fly-Proof Food Cover",
+   "mins": 30,
+   "problem": "Design a cover for a plate of food that keeps flies off, lets steam out so the food does not go soggy, and is easy to wash.",
+   "constraints": [
+    "Use things from home, such as a steel plate, a cloth, a basket, a plastic net bag or a mesh tea strainer.",
+    "Flies must not be able to land on the food.",
+    "It must be easy to wash with soap."
+   ],
+   "materials": [
+    "an old mosquito net or a net vegetable bag",
+    "a cane or plastic basket",
+    "a thin cotton cloth",
+    "rubber bands"
+   ],
+   "general": [
+    "Turn a cane or plastic basket upside down over the plate.",
+    "Stretch a piece of net over the plate and hold it with a rubber band."
+   ],
+   "creative": [
+    "Make a dome from wire bent over and covered with old net.",
+    "Use a big steel plate with a few holes punched by a grown-up for steam.",
+    "Make a folding net cover that packs flat, for picnics."
+   ],
+   "your_turn": "Now design your own food cover. Test it with a plate of hot rice and see if it stays dry and covered.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Talk about flies and food.",
+     "say": "Flies walk on rubbish, then on food, and carry germs on their feet. But a lid can trap steam and make food soggy. Can you solve both problems?",
+     "kid": "Flies carry germs on their feet. Make a cover that stops them, but lets steam out.",
+     "context": "This is a design challenge. You make a food cover that keeps flies off and lets steam out."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Draw two ideas.",
+     "say": "Draw two designs. How will the steam get out? How will flies be kept off?",
+     "kid": "Draw two ideas. Where does the steam go?"
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "Build the best idea and test it over a plate of hot rice for 10 minutes.",
+     "say": "Put it over hot rice. After 10 minutes, look under the cover. Is the rice dry on top? Could a fly get in?",
+     "kid": "Put it over hot rice. Wait 10 minutes. Is the rice dry?",
+     "adult": true
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Talk about what to change.",
+     "say": "What would you change? Which germ link does your cover break?",
+     "kid": "What would you change? Which link does it break?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A plate of rice with a fly hovering above it, and a net, a basket and a steel lid laid out beside it.",
+     "caption": "1. Look at what you could use."
+    },
+    {
+     "art": "An upside-down cane basket covered with net over a plate of steaming rice.",
+     "caption": "2. Build your cover and test it over hot rice."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Germ Detective (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which of these is caused by a virus?",
+     "opts": [
+      "A cold",
+      "Cholera",
+      "Ringworm",
+      "A broken arm"
+     ],
+     "a": 0,
+     "why": "Colds are caused by viruses. Cholera is caused by bacteria, ringworm by a fungus, and a broken arm by no germ at all."
+    },
+    {
+     "t": "truefalse",
+     "p": "Most microbes are germs that make us ill.",
+     "a": false,
+     "why": "False. Only a few kinds of microbe are germs. Your body carries trillions of bacteria, and nearly all of them do no harm."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these ways germs travel into the right group.",
+     "cats": [
+      "On hands and things",
+      "Through the air",
+      "In water or food",
+      "On insects"
+     ],
+     "items": [
+      [
+       "a shared steel tumbler",
+       "On hands and things"
+      ],
+      [
+       "a sneeze across the table",
+       "Through the air"
+      ],
+      [
+       "dirty well water",
+       "In water or food"
+      ],
+      [
+       "a mosquito bite",
+       "On insects"
+      ],
+      [
+       "a lift button",
+       "On hands and things"
+      ],
+      [
+       "uncovered chopped fruit",
+       "In water or food"
+      ],
+      [
+       "a fly on the food",
+       "On insects"
+      ],
+      [
+       "a cough with no hanky",
+       "Through the air"
+      ]
+     ],
+     "a": "see items",
+     "why": "Germs need a ride. Some ride on hands and the things hands touch, some on droplets in the air, some in water and food, and some on insects."
+    },
+    {
+     "t": "mcq",
+     "p": "Remember the Glitter Trail, where glitter on one person's hand was a pretend germ. Paati never touched the carrier. How did glitter get onto Paati's hand?",
+     "opts": [
+      "From the door handle and remote the carrier touched",
+      "It jumped across the room",
+      "From Paati's own glitter"
+     ],
+     "a": 0,
+     "why": "The glitter rode from the carrier's hand onto the handle and remote, and then onto Paati's hand. Picking 'jumped across the room' would mean glitter moves by itself, which it cannot do.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "In the Glitter Trail, round 2 put the glitter on the carrier's elbow. What usually happened?",
+     "opts": [
+      "Much less glitter reached the things and the other people",
+      "More glitter reached everyone",
+      "Exactly the same as round 1"
+     ],
+     "a": 0,
+     "why": "The elbow does not open doors or press buttons, so the glitter mostly stayed on it. That is why we cough into our elbow.",
+     "how": "e1"
+    },
+    {
+     "t": "fill",
+     "p": "When germs get inside your body and multiply, that is called an ________.",
+     "a": [
+      "infection"
+     ],
+     "why": "An infection means germs have got in and are multiplying. Germs just sitting on your skin are not an infection."
+    },
+    {
+     "t": "mcq",
+     "p": "Where do germs most often get into the body?",
+     "opts": [
+      "Through the eyes, nose and mouth",
+      "Through whole, dry skin",
+      "Through the hair"
+     ],
+     "a": 0,
+     "why": "The eyes, nose and mouth have soft, wet linings that germs can get through. Whole skin keeps most germs out, unless there is a cut."
+    },
+    {
+     "t": "match",
+     "p": "Match each habit to the link it breaks.",
+     "pairs": [
+      [
+       "Cough into your elbow",
+       "Keeps germs off your hands"
+      ],
+      [
+       "Wash hands before eating",
+       "Stops germs reaching your mouth"
+      ],
+      [
+       "Boil or filter drinking water",
+       "Stops germs in water"
+      ],
+      [
+       "Cover food",
+       "Keeps flies off"
+      ],
+      [
+       "Stay home when ill",
+       "Keeps your germs away from others"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each habit breaks a different link in a germ chain. Breaking any one link stops that chain."
+    },
+    {
+     "t": "truefalse",
+     "p": "You can catch a cold from someone you never touched.",
+     "a": true,
+     "why": "True. Germs can ride on things like buttons and handles, or in droplets in the air."
+    },
+    {
+     "t": "mcq",
+     "p": "Kavya has a cold. Which is the best way for her to sneeze?",
+     "opts": [
+      "Into her elbow",
+      "Into her hand",
+      "Into the air"
+     ],
+     "a": 0,
+     "why": "An elbow catches most of the droplets, and does not touch handles or food. A hand catches them too, but then spreads them to everything it touches."
+    },
+    {
+     "t": "order",
+     "p": "Put this germ chain in order.",
+     "items": [
+      "He touches the fridge handle",
+      "Farhan has a tummy bug",
+      "Lakshmi eats a biscuit without washing",
+      "He does not wash after the toilet",
+      "Lakshmi opens the fridge"
+     ],
+     "a": [
+      "Farhan has a tummy bug",
+      "He does not wash after the toilet",
+      "He touches the fridge handle",
+      "Lakshmi opens the fridge",
+      "Lakshmi eats a biscuit without washing"
+     ],
+     "why": "The chain goes from the ill person, out on his hand, onto the handle, onto Lakshmi's hand, and into her mouth."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a germ chain in your home with four links. Then draw a pair of scissors cutting one link.",
+     "a": "Any chain with an ill person, a way out, a ride and a next person, with one link cut.",
+     "why": "Drawing the chain shows that you know germs need a ride, and that one habit can break it."
+    },
+    {
+     "t": "write",
+     "p": "Why should you wash your hands even on a day you feel well?",
+     "a": "Because you can carry germs, and pass them on, before you feel ill, or without ever feeling ill.",
+     "why": "Many germs spread before a person has symptoms. Washing every day breaks chains you cannot see."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these is NOT contagious?",
+     "opts": [
+      "A broken leg",
+      "Chickenpox",
+      "A cold",
+      "Flu"
+     ],
+     "a": 0,
+     "why": "A broken leg cannot pass from one person to another. Chickenpox, colds and flu are caused by germs that spread."
+    },
+    {
+     "t": "perspective",
+     "p": "Kavya, a girl in Class 3, has a cold. Her friend Nandini had a cold last week, but Kavya never sat near her.",
+     "views": [
+      {
+       "who": "Appa, Kavya's father",
+       "says": "Colds come from people breathing on you. Kavya must have sat next to someone else with a cold."
+      },
+      {
+       "who": "Kavya",
+       "says": "The cold came to me on the lift button. Nandini pressed it after wiping her nose, and then I pressed it."
+      }
+     ],
+     "ask": "Who do you agree with? Use what you saw in the Glitter Trail. Then say one thing the other person has right.",
+     "lines": 4,
+     "how": "e1",
+     "a": "A strong answer picks a side and gives evidence: in the Glitter Trail, people who never touched the carrier still got glitter from the handle and remote. It also says what the other side has right: colds do spread through droplets in the air too, so both can happen.",
+     "why": "Both ways are real. Scientists still argue about which matters more for colds, so a good answer uses evidence and does not throw the other view away."
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "How Germs Multiply and Spread (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "truefalse",
+     "p": "In the Handshake Chain, where glitter passed along four hands, the fourth hand usually had as many specks as the first.",
+     "a": false,
+     "how": "e2",
+     "why": "False. Each shake passes on only part of the glitter and keeps some on the hand that gave it. So less reaches each hand down the chain."
+    },
+    {
+     "t": "mcq",
+     "p": "Glitter got less along the handshake chain. Why might real germs not always get less?",
+     "opts": [
+      "Some germs can multiply on the way, for example in warm food",
+      "Germs are bigger than glitter",
+      "Germs stick less than glitter"
+     ],
+     "a": 0,
+     "why": "Glitter cannot make more of itself, but bacteria can multiply in warm, wet places. So a few germs on a hand can become many in a plate of food left out.",
+     "how": "e2"
+    },
+    {
+     "t": "fill",
+     "p": "One bacterium splits into 2. After the next split there are 4. After the next, ____.",
+     "a": [
+      "8",
+      "eight"
+     ],
+     "why": "Each bacterium splits into two, so the number doubles: 1, 2, 4, 8."
+    },
+    {
+     "t": "fill",
+     "p": "Starting from 1 bacterium, the number doubles 6 times: 1, 2, 4, 8, 16, 32, ____.",
+     "a": [
+      "64",
+      "sixty-four"
+     ],
+     "how": "a2",
+     "why": "32 doubled is 64. Each step every bacterium splits into two, so the number doubles."
+    },
+    {
+     "t": "mcq",
+     "p": "Remember Warm or Cool, where one bowl of rice sat on a shelf and one in the fridge. Why did the shelf rice change faster?",
+     "opts": [
+      "Microbes multiply faster in warmth",
+      "The fridge adds a special chemical",
+      "Light from the window spoiled it"
+     ],
+     "a": 0,
+     "why": "Bacteria and moulds multiply much faster in warmth. Cold slows them down, though it does not kill them all.",
+     "how": "e3"
+    },
+    {
+     "t": "truefalse",
+     "p": "Antibiotics are a good medicine for a cold.",
+     "a": false,
+     "why": "False. Colds are caused by viruses, and antibiotics work only on bacteria. Taking them when not needed helps bacteria learn to resist them."
+    },
+    {
+     "t": "mcq",
+     "p": "Two children sit near an ill friend. Only one of them catches the cold. What is the best explanation?",
+     "opts": [
+      "Fewer germs reached the other child, or their body cleared them",
+      "The other child was lucky, and germs have nothing to do with it",
+      "Colds only affect girls"
+     ],
+     "a": 0,
+     "why": "Whether you get ill depends on how many germs reach you, where they get in, and how ready your body is to fight. Picking 'germs have nothing to do with it' misses that the cold is caused by a virus."
+    },
+    {
+     "t": "write",
+     "p": "A cold virus can make copies only inside someone's nose or throat, and the body clears them out in about a week. Why does a sneeze help the virus?",
+     "a": "A sneeze carries copies of the virus out of one body, so they can reach a new nose before the first body clears them out.",
+     "why": "Looking at it from the virus's side: without a way to reach a new body, that family of viruses comes to an end."
+    },
+    {
+     "t": "mcq",
+     "p": "Dengue spreads through mosquito bites. Which habit breaks this chain best?",
+     "opts": [
+      "Emptying standing water so mosquitoes cannot breed",
+      "Washing hands",
+      "Coughing into your elbow"
+     ],
+     "a": 0,
+     "why": "Mosquitoes lay eggs in still water, such as in flower-pot trays and old tyres. Empty them, and fewer mosquitoes are born to carry the virus. Hand-washing does not stop a mosquito."
+    },
+    {
+     "t": "sort",
+     "p": "Is it caused by bacteria or a virus?",
+     "cats": [
+      "Bacteria",
+      "Virus"
+     ],
+     "items": [
+      [
+       "cholera",
+       "Bacteria"
+      ],
+      [
+       "a cold",
+       "Virus"
+      ],
+      [
+       "typhoid",
+       "Bacteria"
+      ],
+      [
+       "chickenpox",
+       "Virus"
+      ],
+      [
+       "flu",
+       "Virus"
+      ],
+      [
+       "tuberculosis",
+       "Bacteria"
+      ]
+     ],
+     "a": "see items",
+     "why": "Cholera, typhoid and tuberculosis are caused by bacteria. Colds, chickenpox and flu are caused by viruses."
+    },
+    {
+     "t": "write",
+     "p": "In the Glitter Trail, which thing in your home carried glitter to the most people? Why that one?",
+     "a": "A strong answer names the thing, often the main door handle or the remote, and says it was touched by the most hands, so it picked up glitter from the carrier and passed it to everyone after.",
+     "how": "e1",
+     "why": "Things touched by many hands are the busiest links in a germ chain."
+    },
+    {
+     "t": "fill",
+     "p": "A doctor counts that 9 of 10 ill families in a colony drink from the same well. The best clue is that the illness is in the ________.",
+     "a": [
+      "well",
+      "water",
+      "well water"
+     ],
+     "why": "When ill families cluster round one water source, that water is the best clue. John Snow used this clue in London in 1854."
+    },
+    {
+     "t": "mcq",
+     "p": "Why can someone pass on flu before they know they are ill?",
+     "opts": [
+      "The virus multiplies and leaves the body a day or so before symptoms start",
+      "Flu only spreads before you are ill",
+      "The fever makes the germs jump out"
+     ],
+     "a": 0,
+     "why": "The virus is already multiplying in the nose and throat before the body's fight makes you feel ill. So some copies get out first."
+    },
+    {
+     "t": "write",
+     "p": "Your building has one lift and 40 families. Why does a cough into a hand matter more there than in a house on its own?",
+     "a": "Because the lift button is touched by people from all 40 families, so germs on one hand can reach many families through it.",
+     "why": "The more hands share one thing, the further a germ can travel through that thing."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these makes leftover sambar safest to eat the next day?",
+     "opts": [
+      "Cover it, cool it, put it in the fridge within 2 hours, and heat it well before eating",
+      "Leave it on the stove overnight with the lid on",
+      "Leave it open so it cools faster"
+     ],
+     "a": 0,
+     "why": "Cooling it quickly keeps bacteria from multiplying, the cover keeps flies off, and heating it well kills most germs that grew. Food safety advice is not to leave cooked food out for more than 2 hours."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Thinking Like John Snow (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "John Snow found that workers at a brewery near the bad pump hardly ever got cholera. Why did that support his idea?",
+     "opts": [
+      "They drank beer and the brewery's own water, not water from the pump",
+      "Beer kills every germ in the body",
+      "They breathed different air"
+     ],
+     "a": 0,
+     "why": "The workers breathed the same air as everyone nearby, but did not drink the pump water. So bad air could not be the cause, and the water could.",
+     "context": "In 1854, John Snow studied a cholera outbreak in London. Most people who died lived near one water pump on Broad Street."
+    },
+    {
+     "t": "mcq",
+     "p": "A widow far away in Hampstead died of cholera in the same week. Her family said she had Broad Street water brought to her, because she liked its taste. What did this show?",
+     "opts": [
+      "The illness travelled with the water, not the air",
+      "Hampstead had bad air too",
+      "Cholera can fly across a city"
+     ],
+     "a": 0,
+     "why": "She lived far from the bad air of Soho, but drank its water, and caught cholera. The water was the link.",
+     "context": "In 1854, John Snow studied a cholera outbreak in London. Most people who died lived near one water pump on Broad Street."
+    },
+    {
+     "t": "draw",
+     "p": "Draw the Broad Street story as a germ chain: from the sick baby to the cesspit, to the well, to the pump, to the people who drank. Then draw where John Snow broke it.",
+     "a": "A chain of five pictures joined by arrows, with the break at the pump handle.",
+     "why": "Drawing the chain shows that cholera travelled in water, and that removing the handle broke the link between the well and the people."
+    },
+    {
+     "t": "perspective",
+     "p": "Scientists have argued for fifty years about how colds travel.",
+     "views": [
+      {
+       "who": "Jack Gwaltney's team, 1970s",
+       "says": "Colds spread mostly on hands. We found cold viruses on ill people's hands, and healthy people caught colds after touching those hands and then their eyes or nose."
+      },
+      {
+       "who": "Elliot Dick's team, 1987",
+       "says": "Colds spread mostly through the air. Healthy men who could not touch their faces still caught colds from men they played cards with."
+      },
+      {
+       "who": "A doctor today",
+       "says": "Both happen. Which matters more may depend on the place and the virus, so break both links."
+      }
+     ],
+     "ask": "Which view do you find most convincing, and why? Then say what evidence would change your mind.",
+     "lines": 5,
+     "a": "A strong answer uses the evidence from each test, notices that each test blocked a different path, and says what new test could decide it, such as blocking both paths in turn with the same people.",
+     "why": "There is no single right answer yet. A good scientist weighs the evidence and says what would settle it."
+    },
+    {
+     "t": "write",
+     "p": "A germ that makes people very ill very fast often spreads less than a cold does. Why?",
+     "a": "Someone very ill stays in bed and meets few people, so the germ has few chances to reach a new body. A cold lets people go about their day, so it has many chances.",
+     "why": "A germ goes on only if their copies reach a new body. The fewer people the ill person meets, the fewer links the germ has."
+    },
+    {
+     "t": "fill",
+     "p": "Bacteria that split every 20 minutes double ____ times in one hour.",
+     "a": [
+      "3",
+      "three"
+     ],
+     "why": "There are three lots of 20 minutes in an hour, so they double 3 times: 1 becomes 8."
+    },
+    {
+     "t": "mcq",
+     "p": "If 1 bacterium doubles 3 times every hour, about how many are there after 3 hours?",
+     "opts": [
+      "512",
+      "9",
+      "64"
+     ],
+     "a": 0,
+     "why": "3 hours is 9 doublings. 1, 2, 4, 8, 16, 32, 64, 128, 256, 512. Picking 9 means counting doublings, not bacteria."
+    },
+    {
+     "t": "write",
+     "p": "In the Glitter Trail, why did you check everyone's hands before you started?",
+     "a": "To make sure nobody already had glitter, so any glitter we found later came from the carrier.",
+     "why": "A fair test rules out other causes. Scientists checking where a germ came from do the same.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "A town's cholera cases drop after the well is closed. But they were already falling before. What should a careful scientist say?",
+     "opts": [
+      "The well may have caused the outbreak, but the drop alone does not prove it",
+      "The well was definitely not the cause",
+      "Closing the well proved everything"
+     ],
+     "a": 0,
+     "why": "This really happened with the Broad Street pump. The outbreak was already slowing when the handle was removed. Snow's best evidence was where the ill people got their water, not the drop."
+    },
+    {
+     "t": "write",
+     "p": "Glitter is a good pretend germ in one way, and a poor one in another. Say one of each.",
+     "a": "Good: it rides on hands and things, like germs, and you can see it. Poor: it cannot multiply, and real germs can also die on dry surfaces.",
+     "why": "A model helps us see something we cannot see. It is useful to know where the model is like the real thing and where it is not."
+    },
+    {
+     "t": "mcq",
+     "p": "Why does a vaccine protect people who did not have it, as well as people who did?",
+     "opts": [
+      "Vaccinated people break the chain, so the germ reaches fewer people",
+      "The vaccine spreads through the air",
+      "It makes the germ weaker everywhere"
+     ],
+     "a": 0,
+     "why": "A vaccinated person rarely catches the germ, so they rarely pass the germ on. When most people are vaccinated, the germ runs out of links."
+    },
+    {
+     "t": "write",
+     "p": "Draw or describe a germ chain that goes through water, from one family to another.",
+     "a": "For example: an ill person's loose motions get into a well or a leaking pipe, and another family drinks that water without boiling it.",
+     "why": "This is how cholera and typhoid spread. Toilets that keep waste away from water, and boiling or filtering, break this chain."
+    },
+    {
+     "t": "mcq",
+     "p": "A cold virus does best when the ill person feels well enough to go out. Why?",
+     "opts": [
+      "They meet more people, so the virus has more chances to reach a new nose",
+      "Going out makes the virus bigger",
+      "Viruses need fresh air"
+     ],
+     "a": 0,
+     "why": "From the virus's side, every person met is a chance to reach a new body. That is why staying home when ill does so much."
+    },
+    {
+     "t": "truefalse",
+     "p": "John Snow's famous map was drawn after he had already decided that cholera spread through water.",
+     "a": true,
+     "why": "True. Snow had argued since 1849 that cholera spread through water. He drew the map for a second edition of his book in 1855, to show his evidence to others."
+    },
+    {
+     "t": "write",
+     "p": "Kavya cannot know if she stopped Paati catching a cold. Why is it hard to count illnesses that did not happen?",
+     "a": "Because when a chain is broken, nothing happens, and nothing is easy to miss. You can only compare with times or places where the chain was not broken.",
+     "why": "Scientists measure this by comparing many families or towns, some with a habit and some without."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which of these is a germ?",
+   "opts": [
+    "The virus that causes a cold",
+    "The bacteria that turn milk into curd",
+    "A mosquito"
+   ],
+   "a": 0,
+   "why": "A germ is a microbe or virus that can make us ill, like the cold virus. Curd bacteria are helpful microbes. A mosquito is an insect that can carry germs, but is not a germ.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these illnesses is caused by bacteria?",
+   "opts": [
+    "Cholera",
+    "A cold",
+    "Chickenpox"
+   ],
+   "a": 0,
+   "why": "Cholera is caused by bacteria in dirty water. Colds and chickenpox are caused by viruses, which are much smaller and can only make copies inside cells.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these can carry germs from one person to another?",
+   "opts": [
+    "A door handle",
+    "A shared tumbler",
+    "A cough",
+    "All of these"
+   ],
+   "a": 3,
+   "why": "Germs ride on handles, on tumblers and in cough droplets. Each is a different way, and all of them carry germs.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Dengue spreads from one person to another through what?",
+   "opts": [
+    "Mosquito bites",
+    "Shaking hands",
+    "Eating rice"
+   ],
+   "a": 0,
+   "why": "Dengue virus travels in the blood, carried from one person to the next by a mosquito. That is why emptying standing water helps.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Meenakshi had glitter on her hand and touched the door handle. Her grandmother never touched Meenakshi, but opened the door. What will the grandmother's hand have?",
+   "opts": [
+    "Some glitter, from the handle",
+    "No glitter, because she never touched Meenakshi",
+    "More glitter than Meenakshi"
+   ],
+   "a": 0,
+   "why": "The glitter rides from Meenakshi's hand to the handle, then to her grandmother's hand. Picking 'no glitter' means thinking germs pass only by touching people.",
+   "outcome": 2,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "In the Glitter Trail, why did the glitter on the elbow spread less than the glitter on the palm?",
+   "opts": [
+    "Elbows do not touch handles, buttons and food",
+    "Glitter does not stick to elbows",
+    "Elbows have no skin"
+   ],
+   "a": 0,
+   "why": "We use our hands, not our elbows, to touch things. So germs on an elbow stay there.",
+   "outcome": 2,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "What is an infection?",
+   "opts": [
+    "Germs getting inside the body and multiplying",
+    "Germs sitting on a door handle",
+    "Washing your hands"
+   ],
+   "a": 0,
+   "why": "An infection means germs are inside you and growing in number. Germs on a handle have not infected anyone yet.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Some bacteria can split in two every 20 minutes. Starting with 1, how many after one hour?",
+   "opts": [
+    "8",
+    "3",
+    "6"
+   ],
+   "a": 0,
+   "why": "One hour is three lots of 20 minutes, so they double three times: 1, 2, 4, 8. Picking 3 counts the splits, not the bacteria.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Arjun has just come home from the park. When is the most important time for him to wash his hands?",
+   "opts": [
+    "Before he eats his snack",
+    "After he has eaten",
+    "Only at bedtime"
+   ],
+   "a": 0,
+   "why": "Washing before eating breaks the link from his hand to his mouth. Washing later is still good, but the germs could already be in.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Divya has flu. What is the best way she can protect her classmates?",
+   "opts": [
+    "Stay home until she is well",
+    "Go to school and sit at the back",
+    "Go to school and take medicine"
+   ],
+   "a": 0,
+   "why": "Staying home breaks the very first link, so her germs never reach the classroom. Sitting at the back still shares the air, the door handle and the tap.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Before John Snow, what did most people think caused cholera?",
+   "opts": [
+    "Bad air, called miasma",
+    "Dirty water",
+    "Mosquitoes"
+   ],
+   "a": 0,
+   "why": "Most people in 1854 thought bad-smelling air caused cholera. Snow showed it came from dirty water. Mosquitoes spread other illnesses, such as malaria and dengue, not cholera.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "How did John Snow show the Broad Street pump was to blame?",
+   "opts": [
+    "He found that most people who died had drunk its water",
+    "He saw the bacteria in it with his own eyes",
+    "He smelled the air near it"
+   ],
+   "a": 0,
+   "why": "He went from house to house and asked where each family got their water. Most who died had drunk from that pump, even some who lived far away. He did not see the germ himself.",
+   "outcome": 5
+  }
+ ],
+ "videos": [
+  {
+   "title": "How To See Germs Spread Experiment (Coronavirus)",
+   "channel": "Mark Rober",
+   "youtube": "I5-dI74zxPg",
+   "mins": 9,
+   "why": "A teacher puts a powder that glows under ultraviolet light on a few children's hands, and shows how far it spreads round a classroom. It is the Glitter Trail on a bigger scale.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. The length is an estimate. It was made in 2020 and talks about the coronavirus, so a parent should preview it."
+  },
+  {
+   "title": "Hand-Washing Heroes: How Kids Can Stop Germs",
+   "channel": "Healthy Canadians",
+   "youtube": "UitUdTjhZz8",
+   "mins": 2,
+   "why": "A short video for children from the Government of Canada on when and how to wash hands.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. The length is an estimate."
+  },
+  {
+   "title": "The Story of John Snow & the Broad Street Pump",
+   "channel": "Patrick Kelly",
+   "youtube": "bALs7kNpNSM",
+   "mins": 8,
+   "why": "For the parent and older children: the story of how John Snow traced the 1854 cholera outbreak to one water pump.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. The content and length were not watched, so a parent should preview it first."
+  }
+ ],
+ "applications": [
+  "Doctors and health workers trace outbreaks the way John Snow did, by asking where ill people ate, drank and went.",
+  "Hospitals have rules for hand-washing and hand rubs between patients.",
+  "Cities treat drinking water with chlorine and filters so that cholera and typhoid cannot spread through the taps.",
+  "Food stalls and hotel kitchens follow food safety rules, such as keeping cooked food hot or cold.",
+  "Schools send children with chickenpox or conjunctivitis home until they are better.",
+  "Health workers spray and empty standing water to stop mosquitoes that carry dengue and malaria.",
+  "Vaccines stop germs such as measles and polio from passing along chains of people.",
+  "Elbow coughing and covering the mouth are taught in schools across India."
+ ],
+ "spotted": [
+  {
+   "text": "The hand sanitiser bottle at a hospital entrance, a bank or a mall in Chennai or Bengaluru.",
+   "art": "A hand sanitiser stand by a glass entrance door."
+  },
+  {
+   "text": "The lift buttons in a block of flats, shiny where the most fingers press.",
+   "art": "A row of lift buttons, with the ground floor button shinier than the rest."
+  },
+  {
+   "text": "A filter or a pot of boiled water in the kitchen.",
+   "art": "A steel pot of boiled water with a lid and a ladle, beside a water filter on a kitchen wall."
+  },
+  {
+   "text": "A cane basket or a net cover over a plate of idlis or fruit.",
+   "art": "An upturned cane basket over a plate of idlis on a dining table."
+  },
+  {
+   "text": "Health workers going house to house checking for mosquito larvae in water drums and coolers.",
+   "art": "A health worker with a torch looking into a water drum on a terrace."
+  },
+  {
+   "text": "A school notice that says a child with chickenpox must stay home.",
+   "art": "A school notice board with a paper about chickenpox and staying home."
+  },
+  {
+   "text": "People wearing a mask on the metro or bus when they have a cough.",
+   "art": "A woman on a metro train with a cloth mask over her nose and mouth."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Which way do colds spread most: on hands or through the air?",
+   "why_open": "Careful studies have found different answers. It may depend on the virus, the place and how close people are."
+  },
+  {
+   "q": "Why do some people carry a germ and stay well, while others get very ill from the same germ?",
+   "why_open": "Genes, past infections, age and the microbes already in the body all seem to matter, but nobody can yet predict it for one person."
+  },
+  {
+   "q": "Where will the next new germ come from?",
+   "why_open": "Many new germs jump to people from animals, such as bats, birds and pigs. Scientists watch for them, but cannot yet say which one or when."
+  },
+  {
+   "q": "Are viruses alive?",
+   "why_open": "Viruses make copies of themselves and change over time, but only inside cells. Scientists still argue about where to draw the line."
+  },
+  {
+   "q": "Can we stop bacteria becoming resistant to antibiotics?",
+   "why_open": "Bacteria change quickly. Doctors are trying to use fewer antibiotics and find new ones, but nobody knows if we will keep ahead."
+  }
+ ],
+ "ask_kids": [
+  "Which thing in our home do you think is touched by the most hands each day?",
+  "When you sneeze, where do the droplets go?",
+  "Why do we keep the leftover rasam in the fridge?",
+  "Who in your class had a cold last? Did anyone else catch it after them?",
+  "Is there any still water on our balcony where mosquitoes could lay eggs?",
+  "Why does Amma boil or filter the drinking water?",
+  "If you have a cold, how can you stay close to Paati without giving it to her?",
+  "Why do you think the doctor did not give medicine for your last cold?",
+  "Which link would you break first if someone at home had a tummy bug?",
+  "How many people do you think pressed the lift button today?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the germ cross the road?",
+   "a": "They didn't. They got a ride on someone's hand."
+  },
+  {
+   "j": "What did one germ say to the other at the lift?",
+   "a": "Press the button. Someone's coming!"
+  },
+  {
+   "j": "Why was the cold virus so happy at the cricket match?",
+   "a": "Everyone was clapping and high-fiving."
+  },
+  {
+   "j": "What is a germ's favourite game?",
+   "a": "Pass the parcel."
+  },
+  {
+   "j": "Why did the tissue win a prize?",
+   "a": "It always caught the sneeze."
+  },
+  {
+   "j": "What does a germ hate most about soap?",
+   "a": "Soap sends them sliding down the drain."
+  },
+  {
+   "j": "Why did the elbow feel proud?",
+   "a": "It finally caught a sneeze."
+  },
+  {
+   "j": "Which bacteria are good at maths?",
+   "a": "The ones that multiply."
+  },
+  {
+   "j": "Why is a bacterium never alone for long?",
+   "a": "Twenty minutes later, there were two of them."
+  },
+  {
+   "j": "What did the fly say to the covered idli?",
+   "a": "No entry? That's not fair!"
+  },
+  {
+   "j": "What did John Snow take away from the pump?",
+   "a": "A handle on the problem."
+  },
+  {
+   "j": "Why was the door handle so tired?",
+   "a": "Everyone kept shaking its hand."
+  },
+  {
+   "j": "Why did the virus fail at hide and seek?",
+   "a": "Every time, someone sneezed and gave them away."
+  },
+  {
+   "j": "How do germs get to school?",
+   "a": "On the school bus, holding on to every handle."
+  },
+  {
+   "j": "Why did the mosquito get lost?",
+   "a": "Someone emptied all the puddles on the map."
+  },
+  {
+   "j": "What do you call a germ who never gets a ride?",
+   "a": "Stuck."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the door handle count, Lakshmi's family touched the handle 18 times between 5 and 9 in the evening. That is 4 hours. About how many touches is that each hour?",
+   "answer": "About 4 or 5 touches each hour.",
+   "explain": "18 touches in 4 hours. 4 times 4 is 16 and 4 times 5 is 20. 18 is between them, so about 4 or 5 touches an hour.",
+   "math_unit": "math.division.sharing-and-grouping.L3",
+   "context": "In the door handle count, everyone makes a tally mark each time they touch the main door handle in one evening.",
+   "how": "a1",
+   "why_maths": "Sharing the total between the hours shows how often a germ on the handle would get a new ride."
+  },
+  {
+   "problem": "Some bacteria can split in two every 20 minutes in warm food. Starting with 1, how many are there after 2 hours?",
+   "answer": "64 bacteria.",
+   "explain": "2 hours is 6 lots of 20 minutes, so the bacteria double 6 times. 1, 2, 4, 8, 16, 32, 64.",
+   "math_unit": "math.patterns.number-patterns.L3",
+   "context": "In One Germ Becomes Many, one grain of rice stands for one bacterium, and you double the grains for every 20 minutes.",
+   "how": "a2",
+   "why_maths": "Doubling shows why a few germs in food can become many very quickly, and why time out of the fridge matters.",
+   "answer_chart": {
+    "type": "table",
+    "title": "One bacterium doubling every 20 minutes",
+    "cols": [
+     "Minutes",
+     "Bacteria"
+    ],
+    "rows": [
+     [
+      "0",
+      "1"
+     ],
+     [
+      "20",
+      "2"
+     ],
+     [
+      "40",
+      "4"
+     ],
+     [
+      "60",
+      "8"
+     ],
+     [
+      "80",
+      "16"
+     ],
+     [
+      "100",
+      "32"
+     ],
+     [
+      "120",
+      "64"
+     ]
+    ]
+   }
+  },
+  {
+   "problem": "Tara's class has 30 children. One child comes to school with a cold and passes it to 2 friends. Each of them passes it to 2 more the next week. How many children have caught the cold by the end of the second week, including the first child?",
+   "answer": "7 children.",
+   "explain": "The first child is 1. In week 1, 2 more catch it, so 3. In week 2, each of those 2 passes it to 2 more, which is 4. 3 + 4 = 7.",
+   "math_unit": "math.addition-subtraction.word-problems.L3",
+   "context": "This is about how a cold spreads through a class when each ill child passes it to two others.",
+   "why_maths": "Adding up each step shows how a chain branches out and gets bigger every week."
+  },
+  {
+   "problem": "In the Handshake Chain, Meenakshi counted 48 specks on hand 1, 12 on hand 2 and 3 on hand 3. What pattern do you see? How many would you expect on hand 4?",
+   "answer": "Each hand had about a quarter of the hand before. So hand 4 would have about 1 speck, or none.",
+   "explain": "48 divided by 4 is 12, and 12 divided by 4 is 3. So each shake passed on about a quarter. 3 divided by 4 is less than 1, so hand 4 would have 1 speck or none.",
+   "math_unit": "math.division.sharing-and-grouping.L3",
+   "context": "In the Handshake Chain, glitter passes along a line of handshakes, and you count the specks on each hand.",
+   "how": "e2",
+   "why_maths": "Spotting a pattern in the numbers lets you predict the next hand before you count it.",
+   "chart": {
+    "type": "bar",
+    "title": "Meenakshi's Handshake Chain",
+    "x": "Hand",
+    "y": "Specks",
+    "data": [
+     {
+      "label": "Hand 1",
+      "value": 48,
+      "emoji": "✋"
+     },
+     {
+      "label": "Hand 2",
+      "value": 12,
+      "emoji": "✋"
+     },
+     {
+      "label": "Hand 3",
+      "value": 3,
+      "emoji": "✋"
+     }
+    ]
+   }
+  },
+  {
+   "problem": "John Snow wrote that a brewery near the bad pump had about 70 workers, and none of them died of cholera. A workhouse nearby had 535 people living in it, and its own well. Only 5 of them died. Why are these numbers good evidence against bad air?",
+   "answer": "Both groups breathed the same air as their neighbours, who were dying in large numbers. But they did not drink the pump water, and almost none of them died.",
+   "explain": "If bad air caused cholera, about as many brewery workers and workhouse people should have died as people in the houses around them. 0 out of 70 and 5 out of 535 are far fewer, so the air was not the cause.",
+   "math_unit": "math.data.sorting-and-tallies.L3",
+   "context": "In 1854, John Snow studied a cholera outbreak in London. Most people who died lived near one water pump on Broad Street.",
+   "why_maths": "Comparing groups that differ in only one way, here the water they drank, tells you what caused the difference."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.microorganisms.L3",
+  "title": "Break the Chain",
+  "note": "Topic-level song for Microorganisms L3"
+ },
+ "links": [
+  {
+   "title": "Learn.Genetics: Cell Size and Scale",
+   "url": "https://learn.genetics.utah.edu/content/cells/scale/",
+   "kind": "interactive",
+   "why": "A free slider that zooms from a grain of rice down to a bacterium and a virus, to show how small germs are."
+  },
+  {
+   "title": "UCLA Department of Epidemiology: John Snow",
+   "url": "https://www.ph.ucla.edu/epi/snow.html",
+   "kind": "interactive",
+   "why": "For the parent: Snow's own writing, his map and pictures of the Broad Street area."
+  },
+  {
+   "title": "World Health Organization: Five Keys to Safer Food",
+   "url": "https://www.who.int/publications/i/item/9789241594639",
+   "kind": "interactive",
+   "why": "For the parent: five simple rules for safe food at home, with pictures, including not leaving cooked food out for more than 2 hours."
+  },
+  {
+   "title": "Visvesvaraya Industrial and Technological Museum",
+   "url": "https://www.vismuseum.gov.in",
+   "kind": "place",
+   "where": "Bengaluru",
+   "why": "A science museum with galleries on the human body and health."
+  },
+  {
+   "title": "Birla Science Museum",
+   "url": "https://www.birlasciencecentre.org",
+   "kind": "place",
+   "where": "Hyderabad",
+   "why": "A science centre with galleries on science and the body."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-glitter",
+   "item": "A small tube of craft glitter",
+   "kind": "material",
+   "why": "The pretend germ in the Glitter Trail and the Handshake Chain. Sold in stationery shops for a few rupees. Kumkum or rangoli colour can be used instead.",
+   "url": "https://www.amazon.in/s?k=craft+glitter+tube",
+   "used_in": [
+    "e1",
+    "e2"
+   ]
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What is a germ?",
+   "a": "A microbe or virus that can make us ill."
+  },
+  {
+   "q": "Name one illness caused by a virus.",
+   "a": "A cold, flu, chickenpox or measles."
+  },
+  {
+   "q": "Name one illness caused by bacteria.",
+   "a": "Cholera, typhoid or tuberculosis."
+  },
+  {
+   "q": "Where should you sneeze if you have no tissue?",
+   "a": "Into your elbow."
+  },
+  {
+   "q": "What is an infection?",
+   "a": "Germs getting inside the body and multiplying."
+  },
+  {
+   "q": "1 bacterium splits into 2, then 4. What comes next?",
+   "a": "8."
+  },
+  {
+   "q": "Do antibiotics work on colds?",
+   "a": "No. Colds are caused by viruses, and antibiotics work on bacteria."
+  },
+  {
+   "q": "Who traced a cholera outbreak to one water pump in London in 1854?",
+   "a": "John Snow."
+  },
+  {
+   "q": "Which insect carries dengue?",
+   "a": "A mosquito."
+  },
+  {
+   "q": "Name one thing many hands touch in a building of flats.",
+   "a": "The lift button, the main door handle, or the stair railing."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "g1",
+   "a3",
+   "big_questions",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "summary",
+   "terms",
+   "explanations",
+   "how_we_found_out",
+   "story",
+   "a3",
+   "g1",
+   "e2",
+   "a2",
+   "videos",
+   "ws-core",
+   "e3",
+   "a4",
+   "g2",
+   "agreed",
+   "challenging",
+   "ws-stretch",
+   "p1",
+   "c1",
+   "c2",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "a3",
+   "g1",
+   "e2",
+   "a2",
+   "ws-core",
+   "e3"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "how_we_found_out",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/health-hygiene-exercise-and-illness.md: SCI Cards for Ignaz Semmelweis, Ibn Sina (contagion and quarantine), Gagandeep Kang (rotavirus vaccine), Soumya Swaminathan",
+   "ideas/by_topic/microorganisms.md: the founder's picture of bacteria as beings who sense, decide and act, used for the germ's-eye view of spreading",
+   "Curriculum entry sci.microorganisms.germs.L3: some microbes make us ill, washing hands, how germs spread"
+  ],
+  "science": [
+   "John Snow, On the Mode of Communication of Cholera, 2nd edition, London, 1855 (the Broad Street outbreak, the brewery, the workhouse and the Hampstead widow)",
+   "Henry Whitehead, Report on the Cholera Outbreak in the Parish of St James, Westminster, 1854 (with Snow, for the Cholera Inquiry Committee), 1855",
+   "Hendley, Wenzel and Gwaltney, 'Transmission of rhinovirus colds by self-inoculation', New England Journal of Medicine, 1973; Gwaltney, Moskalski and Hendley, 'Hand-to-hand transmission of rhinovirus colds', Annals of Internal Medicine, 1978",
+   "Dick, Jennings, Mink, Wartgow and Inhorn, 'Aerosol transmission of rhinovirus colds', Journal of Infectious Diseases, 1987",
+   "Luby and others, 'Effect of handwashing on child health: a randomised controlled trial', The Lancet, 2005 (Karachi)",
+   "Sender, Fuchs and Milo, 'Revised estimates for the number of human and bacteria cells in the body', PLOS Biology, 2016",
+   "World Health Organization, Five Keys to Safer Food Manual, 2006",
+   "Sushruta Samhita, Nidana Sthana, chapter 5 (on kushtha), verses on diseases passing from person to person"
+  ]
+ },
+ "roots": {
+  "context": "We have followed glitter from hand to handle to hand, and seen how germs travel along chains. Now we ask what these chains tell us about ourselves and the people around us.",
+  "deep_truth": {
+   "truth": "In the glitter test, people who never touched the carrier still got glitter on their hands. It rode there on the door handle and the remote. Germs travel the same way, from hand to thing to hand. So your health is joined to people you may never meet.",
+   "habit": "We think of catching an illness as something between us and the one ill person beside us. Often the germ came along a longer chain, through handles, buttons, water and air shared by many people.",
+   "evidence": "In the Glitter Trail, the third person never went near the carrier, yet had glitter on their palms from the handle and the remote. John Snow found a widow in Hampstead who died of cholera from Broad Street water carried to her across London."
+  },
+  "three": {
+   "who_am_i": "You are one link in many chains. What your hands touch reaches people you will never see.",
+   "what_is_life": "A germ goes on living only by reaching a new body. Every living being has to find a way to keep their family going.",
+   "what_is_this_world": "A building, a street and a city share handles, buttons, water and air. The world is joined by what we touch in common."
+  },
+  "thread": "One germ on one hand can become a chain through a whole building, because many people touch the same few things. In the same way, one habit in one person, like coughing into an elbow, breaks every chain that would have passed through them. The same handles that carry germs between families also carry the care each family takes. A home is not closed off from its neighbours, even when its door is shut.",
+  "teachings": [
+   {
+    "source": "Sushruta Samhita, Nidana Sthana, chapter 5",
+    "teaching": "The old Indian surgeon's book says that some diseases pass from person to person. They spread by touching bodies, by breath, by eating together, by sitting and lying together, and by sharing clothes, garlands and ointments. Fever and eye infections are among the diseases it names.",
+    "link": "Two thousand years ago, Indian doctors had already noticed that illness can travel through shared things, such as clothes and garlands, and not only from person to person. The Glitter Trail shows the same thing."
+   },
+   {
+    "source": "Avatamsaka Sutra, the image of Indra's net",
+    "teaching": "The god Indra has a net that stretches in every direction. At every knot hangs a jewel, and each jewel reflects all the others. Nothing in the net stands alone.",
+    "link": "In a building of flats, every family's hands meet on the same lift button and door handles. What happens on one family's hands shows up on the others', the way each jewel shows the rest."
+   }
+  ],
+  "science": [
+   {
+    "text": "Germs spread along chains of contact, through people, shared things, droplets, water, food and insects. Breaking links stops outbreaks.",
+    "status": "settled"
+   },
+   {
+    "text": "How much each path matters for colds and flu, hands or air, is still argued about.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Many doctors and public health workers",
+   "view": "The biggest causes of germ spread are not single hands but dirty water, crowded homes, poor toilets and lack of health care. Telling families to wash their hands matters less than giving every family clean water and a toilet, which is the job of governments."
+  },
+  "practice": {
+   "title": "The trail of one touch",
+   "mins": 3,
+   "say": "Sit still and close your eyes. Think of one thing you touched today, like the lift button. Now picture the person who touched it before you. Then the person before them. How far back can you go? Now think of the person who will touch it after you. Breathe in slowly. Breathe out slowly. Open your eyes.",
+   "kid": "Close your eyes. Think of one thing you touched today. Who touched it before you? Who will touch it next? Breathe slowly. Open your eyes."
+  },
+  "ask": [
+   "If your health is joined to people you never meet, who are you looking after when you wash your hands?",
+   "A germ is trying to keep their family going, like every living being. How do you feel about the germs you washed away?",
+   "Kavya kept Paati well without touching her. What other kinds of care work from a distance?"
+  ],
+  "art": "A tall building of flats drawn as a cut-away, with faint glowing lines running between hands on every floor, all meeting at the lift button on the ground floor."
+ },
+ "how_we_found_out": {
+  "story": "In 1854, cholera broke out in Soho, in London. More than 500 people died in about ten days. Most doctors believed cholera came from miasma, bad-smelling air from rubbish and sewers. A doctor called John Snow thought it came from dirty water. He went from house to house, asking where each family got their water. Nearly all the dead had drunk from one street pump, on Broad Street. Two groups nearby breathed the same air but did not use the pump: about 70 workers at a brewery, who drank beer and the brewery's own water, and 535 people in a workhouse with its own well. None of the brewery workers died, and only 5 people in the workhouse did. A widow far away in Hampstead also died. She liked the taste of the Broad Street water, so her family brought it to her. On 8 September 1854, the pump's handle was removed. A local priest, Henry Whitehead, first wanted to prove Snow wrong. He found the likely start: a sick baby's nappies had been washed into a cesspit next to the well.",
+  "who": "John Snow, a doctor in London, and Henry Whitehead, a priest in Soho",
+  "when": "August and September 1854",
+  "wrong_idea": "Most doctors thought cholera came from miasma, bad-smelling air. Snow showed that people who breathed the same air but drank other water stayed well, while a woman far away who drank the pump water died."
+ },
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home in a city flat with the materials listed. The Glitter Trail uses a small pinch of glitter on a little oil so it sticks like germs in skin oil, and a torch held low so single specks flash. The touch list is fixed so both rounds are fair, and everyone's hands are checked first. The Handshake Chain counts specks through a 2 cm square so the counts are possible. The rice test is never tasted and is smelled only from a distance, and gives a clear sour smell by day 2 in a warm kitchen."
+}

@@ -99,9 +99,9 @@ Salt is dissolved in the sea, about 6 teaspoons in every litre. When the Sun war
 ### Plants put water into the air · *defined*
 **Definition:** Transpiration is plants giving off water vapour through tiny holes in their leaves. The water is pulled up from the roots, through the stem, to the leaves.
 
-A plant drinks through its roots. Most of that water does not stay in the plant. It travels up the stem and leaves through tiny holes, too small to see, on the underside of leaves. As this water evaporates, it pulls more water up behind it, like sipping through a straw. A big tree can give off more than a hundred litres on a hot day. So a forest puts a huge amount of invisible water vapour into the air. Some of the rain that falls far inland, in Central India or the Amazon rainforest, has already been through the leaves of trees on the way. Scientists think more than half of the water rising from land comes out through plants. Exactly how much is still argued about.
+A plant drinks through their roots. Most of that water does not stay in the plant. It travels up the stem and leaves through tiny holes, too small to see, on the underside of leaves. As this water evaporates, it pulls more water up behind it, like sipping through a straw. A big tree can give off more than a hundred litres on a hot day. So a forest puts a huge amount of invisible water vapour into the air. Some of the rain that falls far inland, in Central India or the Amazon rainforest, has already been through the leaves of trees on the way. Scientists think more than half of the water rising from land comes out through plants. Exactly how much is still argued about.
 - e.g. A clear bag tied over a leafy branch in the sun turns misty inside within an hour.
-- e.g. The shade of a tree feels cooler than the shade of a wall, partly because its leaves give off water, and evaporation takes heat away.
+- e.g. The shade of a tree feels cooler than the shade of a wall, partly because their leaves give off water, and evaporation takes heat away.
 - e.g. In the Amazon, water goes from rain to tree to cloud to rain again, many times, as the winds carry it inland.
 ### The Sun's energy drives the water cycle · *defined*
 **Definition:** The Sun's energy drives the water cycle. Water needs energy to evaporate. When the vapour condenses into cloud drops, that energy comes out again as heat.
@@ -448,7 +448,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Parent does:* 1. After about 3 hours, tap the leaf bag so the drops run to the bottom. 2. Untie it carefully and tip the water into a teaspoon. 3. Count how many teaspoons you collect. 4. Take both bags off the plant.  
   *Parent says:* Let's see how much water this one branch gave off. Imagine the whole tree doing this.  
   *Child mode:* Tap the bag. Untie it carefully. Pour the water into a spoon. How much did you get?
-  - Note: A branch of a bush or tree in the sun often gives a teaspoon or more in 3 hours. A small pot plant may give only a few drops. That is still a result. If there are no drops at all, the plant may be thirsty, so water it and try again the next day.
+  - Note: A branch of a bush or tree in the sun often gives a teaspoon or more in 3 hours. A small pot plant may give only a few drops. That is still a result. If there are no drops at all, the plant may be thirsty, so water them and try again the next day.
   - Check: In the leaf-in-a-bag experiment, water collected in the bag on the leaves, but not in the empty bag. Where did the water come from? → **From the leaves: water came up from the roots and left the leaves as vapour**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -674,7 +674,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - **your turn:** Now design your own fog catcher. Draw it, build it and test it. How many drops can you catch in 3 minutes of 'fog'?
 - **constraints:** It must be cheap, light and easy to build.; It must stand up on its own, or hang from something.; It must lead the drops into one container.; Test it with 'fog' from a spray bottle in front of a fan.
 - **general:** Hang a fine net upright, facing the fog, like a volleyball net.; Put a gutter or a tray along the bottom to catch the drips.; Use a net with many fine threads, so lots of tiny drops hit it.
-- **creative:** In Chile, in the dry Atacama desert, villages have used big fog-catching nets since the 1980s.; In Morocco, a group called Dar Si Hmad set up fog nets in 2015 to bring water to mountain villages.; A beetle in the Namib desert tilts its back into the morning fog. Drops gather on its back and roll down to its mouth.
+- **creative:** In Chile, in the dry Atacama desert, villages have used big fog-catching nets since the 1980s.; In Morocco, a group called Dar Si Hmad set up fog nets in 2015 to bring water to mountain villages.; A beetle in the Namib desert tilts their back into the morning fog. Drops gather on their back and roll down to their mouth.
 - **s1 (5 min)**  
   *Parent does:* 1. Set the fan on low, pointing at a wall or a window. 2. Spray mist from the bottle in front of the fan, so it blows like fog. 3. Feel the 'fog' on your hand.  
   *Parent says:* Fog is a cloud on the ground, billions of tiny drops. Feel it on your hand. Your job is to catch it.  
@@ -692,7 +692,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - **s4 (5 min)**  
   *Parent does:* Compare your design with the usual solutions and the creative ideas.  
   *Parent says:* A beetle in the Namib desert solved this long ago. Which idea would you copy for a real village?  
-  *Child mode:* A desert beetle drinks fog that gathers on its back! Which idea would you use for a real village?
+  *Child mode:* A desert beetle drinks fog that gathers on their back! Which idea would you use for a real village?
   - Think: Nature had millions of years to find water in dry places. What else could we learn from desert plants and animals?
 
 ## Worksheets
@@ -914,7 +914,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - Your cold bottle is wet on the outside. Did it leak?
 - Can you see your breath today? Why, or why not?
 - Where did the dew on the grass go?
-- What do you think that tree is doing with all the water it drinks?
+- What do you think that tree is doing with all the water they drink?
 - If you were a raindrop, where would you most like to land?
 - Smell that? It's about to rain. What do you think makes the smell?
 - Is the water in you the same water as last year?
@@ -948,7 +948,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 ## Connected maths
 - In the Evaporation Race, the sunny plate dried in 40 minutes and the shady plate took 120 minutes. How many times as long did the shady plate take? **3 times as long.**. The shady plate took 120 minutes. The sunny plate took 40 minutes. 120 divided by 40 is 3. You can check: 40 + 40 + 40 = 120. So in the shade, the water took 3 times as long to evaporate. (queues `math.division.sharing-and-grouping.L3`)
 - Your solar still collects about 5 millilitres of fresh water every hour. How much does it collect in 4 hours? A person needs about 2 litres, which is 2,000 millilitres, to drink in a day. How many stills like yours would one person need for one day of 4 sunny hours? **20 millilitres in 4 hours. One person would need 100 stills.**. Each hour gives 5 millilitres. 4 hours give 4 × 5 = 20 millilitres. One person needs 2,000 millilitres. 2,000 divided by 20 is 100. So one person would need 100 bowls like yours. That is why real solar stills are big, and why fresh water is precious. (queues `math.multiplication.equal-groups.L3`)
-- Look at the measuring spoon picture. In the leaf-in-a-bag experiment, you poured the water from the bag into a 5 millilitre teaspoon. It filled the spoon halfway. How many millilitres did the branch give off? **About 2 and a half millilitres.**. A full teaspoon holds 5 millilitres. Half of 5 is 2 and a half. So the branch gave off about 2 and a half millilitres in 3 hours. A big tree has thousands of branches, so it can give off many litres in a day. (queues `math.fractions.halves-and-quarters.L3`)
+- Look at the measuring spoon picture. In the leaf-in-a-bag experiment, you poured the water from the bag into a 5 millilitre teaspoon. It filled the spoon halfway. How many millilitres did the branch give off? **About 2 and a half millilitres.**. A full teaspoon holds 5 millilitres. Half of 5 is 2 and a half. So the branch gave off about 2 and a half millilitres in 3 hours. A big tree has thousands of branches, so they can give off many litres in a day. (queues `math.fractions.halves-and-quarters.L3`)
 - Mumbai gets about 2,200 millimetres of rain in a year. Pune gets about 700 millimetres. Draw a bar chart of the two cities. How much more rain does Mumbai get? **Mumbai gets about 1,500 millimetres more rain than Pune. Here is the bar chart.**. Draw one bar for each city. Mumbai's bar goes up to 2,200 and Pune's to 700. To find the difference, take away: 2,200 − 700 = 1,500. So Mumbai gets about 1,500 millimetres more. That is one and a half metres more rain in a year. (queues `math.data.bar-charts.L3`)
 - On average, water stays in the air for about 9 days before it falls. Let's round that to 10 days. About how many times could the same water go up into the air and come down again in one year of 360 days? **About 36 times.**. Each trip takes about 10 days. In 360 days, there are 360 ÷ 10 = 36 lots of 10 days. So, if it kept going straight back up, it could make about 36 trips. Real water often waits in a river, the ground or the sea in between, so most water makes far fewer. (queues `math.division.division-facts.L3`)
 - After playing Round the World Drop, a child counted the beads on their bracelet: 4 blue (sea), 3 white (cloud), 2 green (river) and 1 light green (plant). Make a tally chart and a bar chart. Which place did the drop visit most? **The sea, with 4 beads. Here is the bar chart.**. Count each colour and make a tally: sea 4, cloud 3, river 2, plant 1. Then draw one bar for each place. The sea's bar is the tallest, at 4. That fits the real world, because most of Earth's water is in the sea. 4 + 3 + 2 + 1 = 10 beads, one for each turn. (queues `math.data.sorting-and-tallies.L3`)

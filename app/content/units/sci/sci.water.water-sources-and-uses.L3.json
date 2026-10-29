@@ -491,7 +491,7 @@
    "examples": [
     "Breathe onto a cold steel plate. The mist is water from inside you.",
     "When you are thirsty, your body is telling you it needs water back.",
-    "A cactus lives where rain may not come for months. It stores water in its thick, fleshy stem, so it can keep living through the dry months."
+    "A cactus lives where rain may not come for months. They store water in their thick, fleshy stem, so they can keep living through the dry months."
    ],
    "perspectives": [],
    "art": "A child's outline filled mostly with blue water, with two bean-shaped kidneys glowing like tiny cleaning plants.",
@@ -2819,7 +2819,7 @@
      "id": "s2",
      "mins": 17,
      "do": "Walk slowly. Look for plants that stay green when the plants around them are dry. Look for damp or dark soil, moss and termite mounds. Look for low places where puddles form after rain.",
-     "say": "Why would one tree be green when all the grass around it is brown? What might its roots have found?",
+     "say": "Why would one tree be green when all the grass around them is brown? What might their roots have found?",
      "kid": "Look for green plants in dry places. Look for damp soil and moss. Look for termite mounds. Mark each one on your map.",
      "adult": true,
      "parent": "In the dry months the top soil dries out, and a shallow-rooted plant cannot reach water and turns brown. Trees such as neem, jamun and banyan send roots deep, down to damp soil, so they can keep their leaves green. Termites dry out easily, so they live where they can reach damp soil, and they build mounds from wet soil. Moss and dark soil mean water is near the surface. None of these signs is certain. Water could also come from a leaking pipe or a garden hose.",
@@ -2829,7 +2829,7 @@
        "good": [
         "Someone might water it.",
         "There could be a leaking pipe.",
-        "It might be a plant that needs little water."
+        "Maybe this plant needs little water."
        ]
       }
      ]
@@ -2842,7 +2842,7 @@
      "kid": "Look at your map. Pick one sign. How could you test it, to check if it is true?",
      "check": {
       "t": "mcq",
-      "q": "A neem tree stays green in a dry field. What is the best way to test whether it is a sign of water?",
+      "q": "A neem tree stays green in a dry field. What is the best way to test whether this is a sign of water?",
       "options": [
        "Check many green trees and many dry places, and see where water is really found",
        "Believe it, because an old book says so",
@@ -3539,7 +3539,7 @@
   "Tankas, kunds, johads, ponds and stepwells have stored rain in India for centuries.",
   "Water testing kits check wells for germs, arsenic and fluoride.",
   "Desalination plants, such as those near Chennai, take salt out of sea water.",
-  "Farmers use drip irrigation, which gives each plant small drops at its roots, to save water.",
+  "Farmers use drip irrigation, which gives each plant small drops at their roots, to save water.",
   "Satellites that weigh water with gravity show where groundwater is being used up.",
   "Doctors give oral rehydration solution, clean water with sugar and salt, to save people with diarrhoea.",
   "Fire engines, hospitals and factories all need large stores of clean water.",

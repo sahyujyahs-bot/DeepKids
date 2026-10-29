@@ -38,7 +38,7 @@
 - **Rods and cones**: The two kinds of light receptor in the retina. Rods work in dim light but see no colour. Cones need more light and see colour. *e.g.* At night in a dark room, you see shapes but hardly any colour. Only your rods are working.
 - **Afterimage**: A ghost picture you see after staring at something bright. It happens because some of the colour cells in your eye, called cones, get tired. Scientists call this tiredness adaptation. *e.g.* Stare at a red square for 30 seconds. Then look at a white wall. You see a green-blue square.
 - **Echolocation**: Finding things by making a sound and listening for its echo, the sound bouncing back. *e.g.* Bats find moths in the dark by echolocation. Some blind people do it too, with tongue clicks.
-- **Umwelt**: A German word scientists use for the world as one kind of animal senses it. Every animal has its own Umwelt. *e.g.* A dog's Umwelt is full of smells. A bat's Umwelt is full of echoes.
+- **Umwelt**: A German word scientists use for the world as one kind of animal senses it. Every animal has their own Umwelt. *e.g.* A dog's Umwelt is full of smells. A bat's Umwelt is full of echoes.
 - **Perception**: What your brain makes out of the signals from your senses. It is the world as you experience it. *e.g.* Your eyes send signals. Your perception is 'a yellow mango on the table'.
 
 ## Explanations
@@ -48,7 +48,7 @@
 Every sense works in three steps. First, something from the world reaches the body. It might be light, shaking air, a push on the skin or a chemical. Second, receptors detect it. A receptor is a special cell that detects one kind of thing. When it detects it, it makes a tiny electric signal. Third, nerves carry the signal to the brain. Only then do you see, hear, feel, taste or smell. People often say we have five senses: sight, hearing, touch, taste and smell. That list comes from the Greek thinker Aristotle, more than 2,300 years ago. It is a tradition, not a scientific count. Scientists count many more. This unit starts with the five well-known senses, then meets the others.
 - e.g. Hearing: shaking air reaches your ear, hair cells detect it, and a nerve carries the signal to your brain.
 - e.g. Smell: molecules of hot payasam float up your nose, smell receptors detect them, and your brain says 'payasam'.
-- e.g. Touch: a mosquito lands on your arm, touch receptors in your skin detect the tiny push, and you swat it.
+- e.g. Touch: a mosquito lands on your arm, touch receptors in your skin detect the tiny push, and you swat them.
 ### Many more than five senses · *defined*
 **Definition:** The body has far more than five senses. Besides sight, hearing, touch, taste and smell, it senses balance, the position of its parts, warmth, cold, pain, and many things inside itself.
 
@@ -71,7 +71,7 @@ When a bell rings, it shakes the air around it. The shaking travels through the 
 **Definition:** The brain finds where a sound comes from by comparing the two ears. A sound from one side reaches the nearer ear a tiny bit sooner and a little louder.
 
 Think of a sound on your left. It reaches your left ear first. It has to travel around your head to reach your right ear. The difference is less than one thousandth of a second. Your brain notices even that. The right ear also hears the sound a little more quietly, because your head is in the way. Your brain compares both clues and points you towards the sound. A sound straight in front of you or straight behind you reaches both ears at the same moment. So those are the hardest to place. The folds of your ear flap help with that. They change the sound slightly depending on where it comes from, so your brain can tell front from back.
-- e.g. A barn owl's ears are at different heights on its head. So it can tell up from down as well as left from right, and catch a mouse in total darkness.
+- e.g. A barn owl's ears are at different heights on their head. So they can tell up from down as well as left from right, and catch a mouse in total darkness.
 - e.g. When you are not sure where a sound is, you turn your head. That gives your brain new clues to compare.
 ### Hair cells that never grow back · *defined*
 **Definition:** In people, hair cells in the cochlea do not grow back once they are broken. Very loud sounds, or loud sounds for a long time, can break them.
@@ -154,10 +154,10 @@ Your brain does not keep the senses in separate boxes. It mixes them. Flavour is
 Brains can change with use. Think of people who have been blind from birth. In their brains, the parts normally used for seeing get used for touch and hearing instead. In 1996 a team in the USA, led by a Japanese scientist, Norihiro Sadato, scanned blind people reading Braille. The 'seeing' part of their brains was busy while their fingers read. Some blind people find their way by making tongue clicks and listening to the echoes, like bats. Daniel Kish, who lost both eyes as a baby, does this so well that he rides a bicycle. In 2011, Lore Thaler and her team in Canada studied expert blind clickers. The seeing part of their brains was busy while they listened to echoes. Their ears are not better than other people's. Their brains have learned to use the sounds more.
 - e.g. Louis Braille lost his sight as a small boy in France. At about 15 years old, he invented the raised-dot writing that blind people around the world read with their fingertips.
 - e.g. Helen Keller could neither see nor hear. In 1887 her teacher, Anne Sullivan, spelled 'w-a-t-e-r' into one of her hands while water ran over the other. Helen understood that things have names.
-### Every animal lives in its own sense-world · *defined*
-**Definition:** Each kind of animal senses only some parts of the world. The world as one animal senses it is called its Umwelt. No animal senses everything.
+### Every animal lives in their own sense-world · *defined*
+**Definition:** Each kind of animal senses only some parts of the world. The world as one animal senses it is called their Umwelt. No animal senses everything.
 
-A German scientist, Jakob von Uexküll, gave us the word Umwelt more than 100 years ago. A honeybee sees ultraviolet light, which we cannot see. Many flowers have ultraviolet stripes that lead the bee to their nectar. A bat fills the dark with squeaks too high for us, and hears the echoes. A pit viper has two small pits on its face that feel the warmth of a mouse in total darkness. An elephant hears rumbles far too low for us, and may feel them through its feet. A housefly and a butterfly taste with their feet. A catfish has taste buds all over its skin, so its whole body tastes the water. An octopus tastes with its suckers. A silk moth can smell a female moth from far away. Our own Umwelt is just one of millions. An Indian scientist, Obaid Siddiqi, studied how fruit flies taste and smell. He showed that the genes of a tiny fly can teach us how senses and nerves work.
+A German scientist, Jakob von Uexküll, gave us the word Umwelt more than 100 years ago. A honeybee sees ultraviolet light, which we cannot see. Many flowers have ultraviolet stripes that lead the bee to their nectar. A bat fills the dark with squeaks too high for us, and hears the echoes. A pit viper has two small pits on their face that feel the warmth of a mouse in total darkness. An elephant hears rumbles far too low for us, and may feel them through their feet. A housefly and a butterfly taste with their feet. A catfish has taste buds all over their skin, so their whole body tastes the water. An octopus tastes with their suckers. A silk moth can smell a female moth from far away. Our own Umwelt is just one of millions. An Indian scientist, Obaid Siddiqi, studied how fruit flies taste and smell. He showed that the genes of a tiny fly can teach us how senses and nerves work.
 - e.g. Crickets have their ears on their front legs.
 - e.g. Mosquitoes find you partly by smelling the breath and sweat you give off.
 ### People's senses really differ · *defined*
@@ -172,7 +172,7 @@ Scientists can follow a sense all the way from a ripe mango to electric signals 
 - e.g. A bat's echoes must feel like something to a bat. Can we ever imagine what?
 - **Most brain scientists:** Experience is something the brain does. As we learn more about how brain cells work together, we will understand how signals become seeing and tasting.
 - **David Chalmers, an Australian philosopher, in 1995:** Explaining what brain cells do is one problem. Explaining why it feels like something is a different, much harder problem. He called it 'the hard problem'. It is still open.
-- **Thomas Nagel, an American philosopher, in 1974:** He asked, 'What is it like to be a bat?' Even if we knew everything about a bat's brain, we might still not know what its echoes feel like to it.
+- **Thomas Nagel, an American philosopher, in 1974:** He asked, 'What is it like to be a bat?' Even if we knew everything about a bat's brain, we might still not know what their echoes feel like to them.
 - **Some philosophers, such as Philip Goff:** Maybe a tiny bit of awareness is part of everything, all the way down. This idea is called panpsychism. Most scientists do not accept it, but nobody has disproved it.
 
 ## Mostly agreed
@@ -218,9 +218,9 @@ We have been learning how each sense detects the world and turns it into signals
 
 - *who am i:* The elaichi seemed to be on your tongue, but your nose found it. You do not sense with one part at a time. Your whole body and brain sense together.
 - *what is life:* Every living thing senses something. A bacterium senses sugar, a bee senses ultraviolet, and you sense a mango. Being alive means sensing the world and acting on what you sense.
-- *what is this world:* The world holds far more than any animal can sense. Each creature detects only a small part of it, and builds its own world from that.
+- *what is this world:* The world holds far more than any animal can sense. Each creature detects only a small part of it, and builds their own world from that.
 
-Your senses detect very different things: light, vibrations, pushes, warmth, gravity, the stretch of your muscles and many kinds of molecules. Yet every one of them becomes the same kind of electric signal. The brain joins all these signals into one world, so the mango you see, smell and taste is one mango. The same awareness is present in every creature that senses, from a bacterium to a bee to you. Each one senses its own part of the same world.
+Your senses detect very different things: light, vibrations, pushes, warmth, gravity, the stretch of your muscles and many kinds of molecules. Yet every one of them becomes the same kind of electric signal. The brain joins all these signals into one world, so the mango you see, smell and taste is one mango. The same awareness is present in every creature that senses, from a bacterium to a bee to you. Each one senses their own part of the same world.
 
 - **Samyutta Nikaya 35.23, the Sabba Sutta (the Buddha's teaching on 'the All'):** The Buddha was asked, 'What is the All?' He named six pairs. The eye and what it sees. The ear and sounds. The nose and smells. The tongue and tastes. The body and touches. The mind and thoughts. That, he said, is the All. (This unit found the same pairs: a receptor and what it detects, like a cone and light, or a smell cell and a molecule. The Buddha also counted the mind as a sense. In this unit, the brain joined the signals from the nose and tongue into one flavour.)
 - **Katha Upanishad 1.3.3 to 1.3.4:** The body is like a chariot. The senses are the horses, and the things they sense are the roads. The mind is the reins, and understanding is the driver. The Self, the one who experiences, rides in the chariot. (Senses carry signals in from the world, like horses running along roads. The Upanishad asks who is riding. Science can follow the signals into the brain, but it cannot yet explain who or what experiences them.)
@@ -235,7 +235,7 @@ Your senses detect very different things: light, vibrations, pushes, warmth, gra
 - Ask: When you taste a mango, where is the taste: in the mango, on your tongue, in your nose, or in your brain?
 
 ## Deep and big questions
-- *big:* Your brain sits in the dark, and only gets electric signals. So where is the colour of a mango? In the mango, in your eye, or in your brain? (hint: Think about a bee. It sees ultraviolet patterns on flowers that you cannot. Which flower is the real one?)
+- *big:* Your brain sits in the dark, and only gets electric signals. So where is the colour of a mango? In the mango, in your eye, or in your brain? (hint: Think about a bee. She sees ultraviolet patterns on flowers that you cannot. Which flower is the real one?)
 - *deep:* If every sense sends the same kind of electric signal, why does seeing feel so different from hearing? (hint: Think about where each signal goes in the brain. Is that enough to explain it?)
 - *big:* Is there anything all around us right now that no animal on Earth can sense? (hint: We cannot sense ultraviolet light or radio waves, but our machines can. What else might be there?)
 - *big:* If your friend tastes the same chutney as you, do you taste the same thing? How could you ever know? (hint: Some people taste dhania as soap. How would you describe a taste to someone who has never had it?)
@@ -315,12 +315,12 @@ He lay very still and listened. The room was not empty after all. It never had b
 
 ## Games
 ### g1 · Super-Sense Pairs (20 min)
-- **rules:** Cut out the 24 cards. Shuffle them and lay them face down in 4 rows of 6.; On your turn, turn over any two cards and read them out loud.; If you turn over an animal and the super-sense that belongs to it, you have a pair. To keep it, say which human sense it is most like. For example, 'a fly tasting with its feet is like taste'.; If they do not match, turn them face down again. Try to remember where they are.; With friends or a parent: take turns. The player with the most pairs at the end wins.; Playing alone: count your turns. Write your number on the score sheet. Next time, try to finish in fewer turns.
+- **rules:** Cut out the 24 cards. Shuffle them and lay them face down in 4 rows of 6.; On your turn, turn over any two cards and read them out loud.; If you turn over an animal and the super-sense that belongs to them, you have a pair. To keep it, say which human sense it is most like. For example, 'a fly tasting with their feet is like taste'.; If they do not match, turn them face down again. Try to remember where they are.; With friends or a parent: take turns. The player with the most pairs at the end wins.; Playing alone: count your turns. Write your number on the score sheet. Next time, try to finish in fewer turns.
 - **Printable cards: 24 cards to cut out: 12 animal cards and 12 super-sense cards:** ANIMAL: Housefly; SENSE: I taste with my feet.; ANIMAL: Cricket; SENSE: My ears are on my front legs.; ANIMAL: Barn owl; SENSE: I catch mice in total darkness, by sound alone.; ANIMAL: Star-nosed mole; SENSE: My nose has 22 fleshy fingers for touching.; ANIMAL: Catfish; SENSE: My whole skin is covered in taste buds.; ANIMAL: Honeybee; SENSE: I see ultraviolet stripes on flowers.; ANIMAL: Pit viper; SENSE: I feel the warmth of a mouse in the dark.; ANIMAL: Elephant; SENSE: I hear rumbles far too low for you.; ANIMAL: Bat; SENSE: I squeak and listen for echoes.; ANIMAL: Silk moth; SENSE: I smell a mate from far away.; ANIMAL: Cat; SENSE: I cannot taste sweet at all.; ANIMAL: Parrot; SENSE: I eat chillies and feel no burn.
 - **Printable score sheet: Score sheet:** Player; Pairs won; Turns taken (playing alone); My best time or fewest turns
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 24 cards. 2. Shuffle them. 3. Lay them face down in 4 rows of 6.  
-  *Parent says:* Every animal lives in its own world of senses. In this game, you match each animal to its super-sense. Turn over two cards at a time.  
+  *Parent says:* Every animal lives in their own world of senses. In this game, you match each animal to their super-sense. Turn over two cards at a time.  
   *Child mode:* Shuffle the 24 cards. Lay them face down in 4 rows of 6. Each animal has a matching super-sense card.
 - **s2 (2 min)**  
   *Parent does:* Play one practice turn together. Turn over the Bat card and the echoes card, and read them out.  
@@ -577,7 +577,7 @@ He lay very still and listened. The room was not empty after all. It never had b
   *Parent does:* Show the 'jumping thumb' to see the two pictures.  
   *Parent says:* Hold your thumb up in front of you. Close one eye, then the other, again and again. Your thumb jumps! Each eye sees a slightly different picture. Your brain joins them and works out how far away things are.  
   *Child mode:* Hold up your thumb. Close one eye, then the other. Your thumb jumps! Each eye sees it from a different place.
-  - Think: An owl has both eyes on the front of its face. A pigeon has eyes on the sides. Which one sees further around? Which one judges distance better?
+  - Think: An owl has both eyes on the front of their face. A pigeon has eyes on the sides. Which one sees further around? Which one judges distance better?
 ### a7 · Senses You Forgot You Had: balance, body position, warm and cold (15 min)
 - **safety:** Do the balance test next to a wall on a clear floor, with a grown-up standing close. The warm water must be only comfortably warm, like a bath. A grown-up tests it with an elbow first.
 - **record:** Write how many seconds you stood on one foot with eyes open and with eyes shut. Write how many times out of 6 you touched your nose. Write what each hand felt in the middle bowl.
@@ -721,7 +721,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 12. (mcq) Which cells in your eye see colour?  
    Options: Rods / Cones / Hair cells / Taste cells  
    **Answer:** Cones. *Why:* Cones see colour, in bright light. Rods work in dim light but see no colour. Hair cells are in the ear. Picking rods is a common mix-up, because the two words go together.
-13. (mcq) Which animal tastes with its feet?  
+13. (mcq) Which animal tastes with their feet?  
    Options: A housefly / A cat / An elephant / A bat  
    **Answer:** A housefly. *Why:* Houseflies and butterflies have taste hairs on their feet, so they taste what they land on. Picking 'cat' may come from remembering that cats are unusual tasters. Cats cannot taste sweet.
 14. (write) Your friend says, 'We have exactly five senses.' What would you tell them? Give one example.  
@@ -761,8 +761,8 @@ He lay very still and listened. The room was not empty after all. It never had b
 10. (mcq) In the Fading Coin activity, you stopped feeling a still coin, but felt it again when it moved. What does this show?  
    Options: Senses mostly notice changes / Coins lose weight / Skin only works when you look at it / Touch receptors stop working for ever  
    **Answer:** Senses mostly notice changes. *Why:* Many receptors fire when something changes and go quiet when nothing does. That is why you stop noticing your clothes. Picking 'stop working for ever' is wrong, because you felt the nudge at once.
-11. (match) Match each animal to its super-sense.  
-   **Answer:** Honeybee → sees ultraviolet; Pit viper → feels the warmth of a mouse in the dark; Bat → hears echoes of its squeaks; Catfish → tastes with its whole skin; Elephant → hears very low rumbles. *Why:* Each animal lives in its own sense-world, called its Umwelt. These animals detect things humans cannot.
+11. (match) Match each animal to their super-sense.  
+   **Answer:** Honeybee → sees ultraviolet; Pit viper → feels the warmth of a mouse in the dark; Bat → hears echoes of their squeaks; Catfish → tastes with their whole skin; Elephant → hears very low rumbles. *Why:* Each animal lives in their own sense-world, called their Umwelt. These animals detect things humans cannot.
 12. (mcq) In the McGurk experiment, people watch a face saying 'ga' while the sound says 'ba'. Many hear 'da'. What does this show?  
    Options: Their ears are broken / The brain mixes what the eyes see with what the ears hear / Sound travels slower than light / Everyone hears differently  
    **Answer:** The brain mixes what the eyes see with what the ears hear. *Why:* The brain makes its best guess using all the senses together, so the moving lips change what you hear. Picking 'ears are broken' is wrong. Close your eyes, and you hear 'ba' correctly.
@@ -779,9 +779,9 @@ He lay very still and listened. The room was not empty after all. It never had b
    **Answer:** A nerve from the eye can only say 'light', whatever starts its signal. *Why:* A signal on the seeing pathway is read as light, whatever caused it. So the kind of sense depends on where the signal goes. Picking 'the eye makes its own light' is a natural guess, but there is no light. It is just a signal.
 2. (truefalse) Light reaches your brain through your eyes.  
    **Answer:** False. *Why:* False. Light stops at the retina. Only electric signals travel along the nerve to the brain. Inside the skull it is dark.
-3. (mcq) A barn owl's two ears are at different heights on its head. How does this help it?  
-   Options: It can hear only high sounds / It can tell whether a sound is above or below, not just left or right / It looks more frightening / It hears through its feathers  
-   **Answer:** It can tell whether a sound is above or below, not just left or right. *Why:* With ears at different heights, a sound from below reaches one ear slightly differently from the other. So the owl's brain can work out up and down too, and catch a mouse in the dark.
+3. (mcq) A barn owl's two ears are at different heights on their head. How does this help them?  
+   Options: They can hear only high sounds / They can tell whether a sound is above or below, not just left or right / They look more frightening / They hear through their feathers  
+   **Answer:** They can tell whether a sound is above or below, not just left or right. *Why:* With ears at different heights, a sound from below reaches one ear slightly differently from the other. So the owl's brain can work out up and down too, and catch a mouse in the dark.
 4. (mcq) The tongue map stayed in school books for many years. Which person showed in 1974 that it was wrong?  
    Options: Virginia Collings / Edwin Boring / Aristotle / Kikunae Ikeda  
    **Answer:** Virginia Collings. *Why:* Virginia Collings repeated the tests carefully in 1974 and found every taste all over the tongue. Edwin Boring drew the graph in 1942 that started the mistake. Ikeda named umami.
@@ -804,14 +804,14 @@ He lay very still and listened. The room was not empty after all. It never had b
 11. (truefalse) Two people tasting the same chutney always taste exactly the same thing.  
    **Answer:** False. *Why:* False. People's tongues and noses differ. For example, some people find dhania tastes like soap, partly because of their genes.
 12. (write) A bee sees ultraviolet stripes on a flower that you cannot see. Which is the 'real' flower: the one you see or the one the bee sees? Explain what you think.  
-   **Answer:** Any thoughtful answer is good. For example: both are real. Each animal senses a different part of what is there. Nobody sees the whole flower.. *Why:* This is an open question. Every animal has its own Umwelt, or sense-world. No animal senses everything.
+   **Answer:** Any thoughtful answer is good. For example: both are real. Each animal senses a different part of what is there. Nobody sees the whole flower.. *Why:* This is an open question. Every animal has their own Umwelt, or sense-world. No animal senses everything.
 13. (mcq) What is 'the hard problem' that David Chalmers wrote about in 1995?  
    Options: How to make a hearing aid / Why signals in the brain feel like anything at all, like the taste of mango / How to count taste buds / Why bats fly at night  
    **Answer:** Why signals in the brain feel like anything at all, like the taste of mango. *Why:* Scientists can follow signals into the brain. But nobody yet knows why some signals feel like the colour yellow or the smell of rain. That is the hard problem, and it is still open.
 14. (write) Thomas Nagel asked, 'What is it like to be a bat?' Try to describe your bedroom the way a bat might sense it.  
    **Answer:** Any imaginative answer that uses echoes is good. For example: the walls give sharp, quick echoes. The bed gives a soft, slow echo. The open window gives no echo at all.. *Why:* This is a way of imagining another animal's sense-world. Nagel's point is that we can imagine, but we may never truly know.
-15. (draw) Draw the same mango three ways: as you see it, as a dog might smell it, and as a fly might taste it with its feet.  
-   **Answer:** Any drawing that shows the mango in three different sense-worlds: colours for you, smell clouds for the dog, and taste spots under the fly's feet.. *Why:* Each animal builds its own world from the signals its senses send. The mango is the same, but the worlds are different.
+15. (draw) Draw the same mango three ways: as you see it, as a dog might smell it, and as a fly might taste it with their feet.  
+   **Answer:** Any drawing that shows the mango in three different sense-worlds: colours for you, smell clouds for the dog, and taste spots under the fly's feet.. *Why:* Each animal builds their own world from the signals their senses send. The mango is the same, but the worlds are different.
 
 ## Videos
 - **How do we smell? - Rose Eveleth** (TED-Ed, 4 min) id `snJnO6OpjCs`: A short cartoon that follows smell molecules up the nose to the receptors and the brain, and explains why smells bring back memories. *Check:* Video id checked with YouTube's oembed service: it returns this title from TED-Ed. A parent may still preview it.
@@ -923,24 +923,24 @@ He lay very still and listened. The room was not empty after all. It never had b
 - Why did the tongue get top marks? *It had good taste.*
 - What do you call a deer with no eyes? *No idea.*
 - Why was the eye doctor so calm? *She always looked on the bright side.*
-- Why did the bat need a hearing aid? *It kept missing the echo.*
+- Why did the bat need a hearing aid? *They kept missing the echo.*
 - What did the chilli say to the mint? *You're so cool. I'm just hot-headed.*
-- Why did the fly walk all over the mango? *It wanted a taste, and its feet were its tongue.*
+- Why did the fly walk all over the mango? *They wanted a taste, and their feet were their tongue.*
 - Why did the coin stop talking to the arm? *It felt it was being ignored.*
 - What did the eardrum say to the loud music? *Please, don't beat me up.*
 - Why are fingertips so good at reading? *They always get the point. Sometimes two.*
 - What do you call a sense that tells jokes? *A sense of humour.*
-- Why did the cat refuse the laddoo? *It couldn't taste the sweet side of life.*
+- Why did the cat refuse the laddoo? *They couldn't taste the sweet side of life.*
 - Why do noses run? *Because they can't walk.*
 - Why did the blue mango turn yellow? *Your cones got tired of looking at it.*
 - What did the bee say to the flower? *I can see your secret stripes.*
 - Why was the cochlea so good at music? *It had thousands of tiny hairs, all perfectly in tune.*
-- Why did the parrot laugh at the chilli? *It didn't feel the burn.*
+- Why did the parrot laugh at the chilli? *They didn't feel the burn.*
 - What is an owl's favourite subject? *Hoo-man hearing.*
 - Why did the smell take the stairs up the nose? *It was heading for the top floor receptors.*
-- Why did the elephant put its feet on the ground to listen? *It wanted to feel the latest rumbles.*
+- Why did the elephant put their feet on the ground to listen? *They wanted to feel the latest rumbles.*
 - Why are taste buds such good friends? *They're always ready to try something new.*
-- Why did the catfish never need a spoon? *Its whole body was a tongue.*
+- Why did the catfish never need a spoon? *Their whole body was a tongue.*
 
 ## Connected maths
 - In the Two-Point Test, a child felt two points on her fingertip when they were 0.5 cm apart. On her forearm, the points had to be 4 cm apart. How many times bigger was the forearm gap? **8 times bigger.**. The forearm gap was 4 cm. The fingertip gap was 0.5 cm, which is half a centimetre. Two half centimetres make 1 cm, so 4 cm holds 4 × 2 = 8 half centimetres. So the forearm gap was 8 times bigger. The fingertip feels detail 8 times finer. (queues `math.division.sharing-and-grouping.L3`)
@@ -977,7 +977,7 @@ The World Comes In (sci.senses.L3): Topic-level song
 - Pinch your nose and eat elaichi sugar. What do you taste? → Only sweet. The elaichi is a smell.
 - Which cells in your eye see colour: rods or cones? → Cones.
 - Why are two ears better than one? → The brain compares them to find where a sound comes from.
-- Which animal tastes with its feet? → A housefly, or a butterfly.
+- Which animal tastes with their feet? → A housefly, or a butterfly.
 - Do broken hair cells in a person's ear grow back? → No. That is why we protect our ears from loud sounds.
 - What do we call the world as one animal senses it? → Its Umwelt.
 - Do we have only five senses? → No. We have many more, such as balance, body position, warmth and cold, pain and thirst.

@@ -2,14 +2,14 @@
  "id": "sci.seeds-and-life-cycles.plant-life-cycle.L3",
  "title": "A plant's life cycle: how a seed grows into a plant that makes new seeds",
  "level": 3,
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home. Changes made: Flower to Fruit now says which plants work and how fast (bhindi pods in 5 or 6 days, tomatoes much slower), to tag flowers on the morning they open, and that some flowers will drop. That is a real result, not a failure. A nursery chilli or brinjal is the fallback. Inside the Fruit counts small fruits fully and big ones by counting one part and multiplying, so it fits in 25 minutes. It says the banana's specks are not real seeds. Be Edmond needs a pumpkin, gourd or cucumber vine, so it is not in the core or spine. It now says to bag the buds the evening before, to do it before 10 in the morning (lauki and tori in the evening), and that young vines make only male flowers at first. Floating Leaves gives exact amounts, how many syringe pulls are needed, a fix if the circles will not sink, and how long they take to float in sun or lamplight. Kitchen to Kitchen says when to sow moong (warm months), the 5 hours of sun it needs, the winter switch to matar, common pests, and to pick pods when black before they pop. The onion test warns that some shop onions do not sprout, and that the onion rots if sat too deep. Both games say how to play alone, and Time Detective has a hidden-card puzzle for one player. Parents should know: Kitchen to Kitchen takes about 75 days and needs a sunny spot. Be Edmond and Adopt a Tree depend on having a vine or tree nearby.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home. Changes made: Flower to Fruit now says which plants work and how fast (bhindi pods in 5 or 6 days, tomatoes much slower), to tag flowers on the morning they open, and that some flowers will drop. That is a real result, not a failure. A nursery chilli or brinjal is the fallback. Inside the Fruit counts small fruits fully and big ones by counting one part and multiplying, so it fits in 25 minutes. It says the banana's specks are not real seeds. Be Edmond needs a pumpkin, gourd or cucumber vine, so it is not in the core or spine. It now says to bag the buds the evening before, to do it before 10 in the morning (lauki and tori in the evening), and that young vines make only male flowers at first. Floating Leaves gives exact amounts, how many syringe pulls are needed, a fix if the circles will not sink, and how long they take to float in sun or lamplight. Kitchen to Kitchen says when to sow moong (warm months), the 5 hours of sun they need, the winter switch to matar, common pests, and to pick pods when black before they pop. The onion test warns that some shop onions do not sprout, and that the onion rots if sat too deep. Both games say how to play alone, and Time Detective has a hidden-card puzzle for one player. Parents should know: Kitchen to Kitchen takes about 75 days and needs a sunny spot. Be Edmond and Adopt a Tree depend on having a vine or tree nearby.",
  "summary": {
-  "text": "Every fruit in your kitchen was once a flower, and every seed inside it can grow into a new plant. A life cycle is all the stages of a living thing's life, until it makes young of its own. A flowering plant goes from seed to seedling to grown plant. Then it flowers, each flower can grow into a fruit, and the fruit holds new seeds. Your child opens kitchen fruits to find the seeds and the flower's leftovers, and can grow moong from seed to seed in two to three months. Then the unit follows the idea further: plants built mostly from air and water, plants that measure the length of the night, and bamboo that flowers only once, after about 48 years.",
+  "text": "Every fruit in your kitchen was once a flower, and every seed inside it can grow into a new plant. A life cycle is all the stages of a living thing's life, until they make young of their own. A flowering plant goes from seed to seedling to grown plant. Then they flower, each flower can grow into a fruit, and the fruit holds new seeds. Your child opens kitchen fruits to find the seeds and the flower's leftovers, and can grow moong from seed to seed in two to three months. Then the unit follows the idea further: plants built mostly from air and water, plants that measure the length of the night, and bamboo that flowers only once, after about 48 years.",
   "art": "A big circle drawn like a clock face: a moong seed at the top, then a seedling, a leafy plant, a yellow flower, a green pod and black pods spilling new seeds back to the top."
  },
  "intro": {
   "hook": "Look at a tomato, or a brinjal. See the little green star, or the green cap, at the top? Where do you think it came from? Here is a clue. Not long ago, this whole tomato was a small yellow flower.",
-  "text": "Every fruit in your kitchen was once a flower. Every seed inside it can grow into a plant that makes flowers again. Put a moong seed in a pot today. In two to three months, if it gets sun and water, it will give you back a whole handful of moong. Which part of a flower turns into the fruit? And why does the plant end up exactly where it started, as seeds?",
+  "text": "Every fruit in your kitchen was once a flower. Every seed inside it can grow into a plant that makes flowers again. Put a moong seed in a pot today. In two to three months, if they get sun and water, they will give you back a whole handful of moong. Which part of a flower turns into the fruit? And why does the plant end up exactly where they started, as seeds?",
   "art": "A child holding a tomato up close, the green star of sepals on top glowing, with a faint drawing behind it of the yellow tomato flower it came from."
  },
  "outcomes": [
@@ -18,14 +18,14 @@
   "I can explain why it is called a cycle: the new seeds grow into new plants, so the stages start again.",
   "I can watch a real plant change over days and weeks. I can measure it and record it in a table, a bar chart or a line graph.",
   "I can give examples of plants with short and long life cycles, and of plants that grow new plants without seeds.",
-  "I can explain that a plant builds its body mostly from air and water, using sunlight, and gives it back when it dies.",
+  "I can explain that a plant builds their body mostly from air and water, using sunlight, and gives it back when they die.",
   "I can say what scientists agree on about plant life cycles, and what they still do not know, such as how bamboo counts the years."
  ],
  "cards_mins": 20,
  "terms": [
   {
    "term": "Life cycle",
-   "meaning": "All the stages a living thing goes through, from the start of its life until it makes young ones of its own. Then the stages start again.",
+   "meaning": "All the stages a living thing goes through, from the start of their life until they make young ones of their own. Then the stages start again.",
    "example": "Moong: seed, seedling, grown plant, flower, pod, new seeds.",
    "art": "A circle of arrows joining a seed, a seedling, a plant, a flower, a pod and seeds."
   },
@@ -37,13 +37,13 @@
   },
   {
    "term": "Seed",
-   "meaning": "A baby plant packed in a coat, with its own store of food.",
+   "meaning": "A baby plant packed in a coat, with their own store of food.",
    "example": "A moong seed, a rajma bean and the big seed inside a mango stone are all seeds.",
    "art": "A moong seed, a mango stone and a rajma bean side by side."
   },
   {
    "term": "Seedling",
-   "meaning": "A very young plant that has just come out of its seed. It has a tiny root, a short stem and its first leaves.",
+   "meaning": "A very young plant that has just come out of their seed. They have a tiny root, a short stem and their first leaves.",
    "example": "The small green shoots in a tray of sprouted methi are seedlings.",
    "art": "A tray of tiny methi seedlings with two leaves each."
   },
@@ -61,9 +61,9 @@
   },
   {
    "term": "Grown plant",
-   "meaning": "A plant that is big enough and old enough to make flowers. Scientists call it a mature plant.",
-   "example": "A moong plant starts to flower when it is about one month old.",
-   "art": "A bushy moong plant in a pot with its first small yellow flowers."
+   "meaning": "A plant that is big enough and old enough to make flowers. Scientists call this a mature plant.",
+   "example": "A moong plant starts to flower when they are about one month old.",
+   "art": "A bushy moong plant in a pot with their first small yellow flowers."
   },
   {
    "term": "Bud",
@@ -121,9 +121,9 @@
   },
   {
    "term": "Annual",
-   "meaning": "A plant that goes through its whole life cycle in one year or less, then dies.",
+   "meaning": "A plant that goes through their whole life cycle in one year or less, then dies.",
    "example": "Moong, rice, wheat and marigold are annuals.",
-   "art": "A dry, brown moong plant with black pods, its life cycle finished."
+   "art": "A dry, brown moong plant with black pods, their life cycle finished."
   },
   {
    "term": "Perennial",
@@ -139,7 +139,7 @@
   },
   {
    "term": "Clone",
-   "meaning": "A living thing that is an exact copy of its parent. Plants grown from cuttings are clones.",
+   "meaning": "A living thing that is an exact copy of their parent. Plants grown from cuttings are clones.",
    "example": "All the banana plants of one kind on a farm are copies, grown from shoots of the same parent plants.",
    "art": "A row of identical banana plants, joined by a dotted line to one parent plant."
   },
@@ -153,7 +153,7 @@
    "term": "Carbon dioxide",
    "meaning": "A gas in the air, which you breathe out. Plants take it in and build their bodies from it.",
    "example": "Every breath you breathe out has carbon dioxide in it.",
-   "art": "A child breathing out near a plant, with little arrows of air going into its leaves."
+   "art": "A child breathing out near a plant, with little arrows of air going into their leaves."
   },
   {
    "term": "Decomposer",
@@ -166,7 +166,7 @@
   {
    "concept": "What a life cycle is",
    "status": "defined",
-   "definition": "A life cycle is all the stages a living thing goes through, from the start of its life until it makes young ones. For a flowering plant the stages are: seed, seedling, grown plant, flower, fruit, and new seeds.",
+   "definition": "A life cycle is all the stages a living thing goes through, from the start of their life until they make young ones. For a flowering plant the stages are: seed, seedling, grown plant, flower, fruit, and new seeds.",
    "description": "It is called a cycle because it goes round in a circle. The last stage, new seeds, is also the first stage of the next plant. So the circle never really ends. A moong seed grows into a moong plant. The plant makes flowers. The flowers turn into pods. The pods hold new moong seeds, and each one can start again. You can start drawing the circle at any stage. A seed is not more of a 'beginning' than a flower is.",
    "examples": [
     "Moong: seed, seedling, grown plant, yellow flower, green pod, black pod full of new seeds.",
@@ -180,8 +180,8 @@
   {
    "concept": "From seed to seedling",
    "status": "defined",
-   "definition": "A seed wakes up when it gets water, warmth and air. This is called germination. Its root comes out first and grows down. Then its shoot grows up into the light, and the plant becomes a seedling.",
-   "description": "The unit 'Seeds and how they sprout' tells this part of the story in detail. Here is the short version. At first, the seedling lives on the food packed inside the seed. Many seedlings first show two round seed leaves, which were folded up inside the seed. Soon the true leaves grow above them. True leaves have the plant's own leaf shape. Once they open, the seedling can make its own food from sunlight. The seed leaves are no longer needed. They shrink, go yellow and fall off.",
+   "definition": "A seed wakes up when they get water, warmth and air. This is called germination. Their root comes out first and grows down. Then their shoot grows up into the light, and the plant becomes a seedling.",
+   "description": "The unit 'Seeds and how they sprout' tells this part of the story in detail. Here is the short version. At first, the seedling lives on the food packed inside the seed. Many seedlings first show two round seed leaves, which were folded up inside the seed. Soon the true leaves grow above them. True leaves have the plant's own leaf shape. Once they open, the seedling can make their own food from sunlight. The seed leaves are no longer needed. They shrink, go yellow and fall off.",
    "examples": [
     "A bean seedling has two fat seed leaves first, then pointed true leaves.",
     "A rice or maize seedling comes up as one thin green spike."
@@ -193,15 +193,15 @@
   {
    "concept": "Growing up: leaves make food from sunlight",
    "status": "defined",
-   "definition": "A growing plant makes its own food in its green leaves. This is called photosynthesis. Leaves take in carbon dioxide from the air and water from the roots. Using the energy of sunlight, they turn them into sugar. They give out oxygen.",
-   "description": "The plant uses the sugar in two ways. It uses some for energy, the way your body uses food. It also uses sugar to build new stems, leaves and roots. So a plant grows mainly by making more of itself out of air and water. A plant grows slowly at first, then fast, then slowly again once it is grown. The chart shows a made-up example for a moong plant in a pot. It grows fastest in weeks 3 to 5. After about week 6 it puts its effort into flowers and pods instead of getting taller.",
+   "definition": "A growing plant makes their own food in their green leaves. This is called photosynthesis. Leaves take in carbon dioxide from the air and water from the roots. Using the energy of sunlight, they turn them into sugar. They give out oxygen.",
+   "description": "The plant uses the sugar in two ways. They use some for energy, the way your body uses food. They also use sugar to build new stems, leaves and roots. So a plant grows mainly by making more of themselves out of air and water. A plant grows slowly at first, then fast, then slowly again once they are grown. The chart shows a made-up example for a moong plant in a pot. They grow fastest in weeks 3 to 5. After about week 6 they put their effort into flowers and pods instead of getting taller.",
    "examples": [
-    "A plant kept in a dark cupboard grows pale, thin and floppy, then dies. It cannot make food.",
+    "A plant kept in a dark cupboard grows pale, thin and floppy, then dies. They cannot make food.",
     "Leaves turn to face the window. They are reaching for light."
    ],
    "perspectives": [],
    "art": "A moong plant in a pot in sunlight, with arrows showing air going into the leaves, water coming up from the roots and tiny bubbles of oxygen coming out.",
-   "context": "Between the seedling stage and the flower stage, a plant must grow big. This card explains how it makes the food to do that.",
+   "context": "Between the seedling stage and the flower stage, a plant must grow big. This card explains how they make the food to do that.",
    "chart": {
     "type": "line",
     "title": "Made-up example: height of a moong plant in a pot, week by week",
@@ -255,8 +255,8 @@
   {
    "concept": "When a plant is ready to flower",
    "status": "defined",
-   "definition": "A plant flowers when it is big enough, and when the season is right. Many plants find out the season by measuring how long the nights are.",
-   "description": "A young plant first grows leaves and roots. When it has grown enough, the tips of some stems stop making leaves and make flower buds instead. Many plants wait for the right season too. In 1920, two American scientists, Wightman Garner and Harry Allard, found that some tobacco and soybean plants flower only when the days get short. In 1938, Karl Hamner and James Bonner showed that what the plant really measures is the length of the night. Flash a light in the middle of a long night, and those plants do not flower. The leaves do the measuring. Then they send a message up the stem to the buds. A Russian scientist, Mikhail Chailakhyan, guessed in 1936 that such a message must exist. It took until 2007 for scientists to find it. It is a protein that travels from the leaves to the bud.",
+   "definition": "A plant flowers when they are big enough, and when the season is right. Many plants find out the season by measuring how long the nights are.",
+   "description": "A young plant first grows leaves and roots. When they have grown enough, the tips of some stems stop making leaves and make flower buds instead. Many plants wait for the right season too. In 1920, two American scientists, Wightman Garner and Harry Allard, found that some tobacco and soybean plants flower only when the days get short. In 1938, Karl Hamner and James Bonner showed that what the plant really measures is the length of the night. Flash a light in the middle of a long night, and those plants do not flower. The leaves do the measuring. Then they send a message up the stem to the buds. A Russian scientist, Mikhail Chailakhyan, guessed in 1936 that such a message must exist. It took until 2007 for scientists to find it. It is a protein that travels from the leaves to the bud.",
    "examples": [
     "Rice in many parts of India flowers when the nights get longer after the monsoon.",
     "Some plants, like wheat in cold countries, wait until they have felt a cold winter.",
@@ -297,7 +297,7 @@
    "concept": "Why plants make fruits: sending seeds away",
    "status": "defined",
    "definition": "A fruit protects the seeds and helps them travel away from the parent plant. Many fruits are sweet so that animals eat them and drop the seeds somewhere else.",
-   "description": "A seed that falls right under its parent has to compete with it for light and water. A seed carried far away has a better chance. So plants have many ways of sending their seeds away. Sweet fruits are eaten by birds, bats, monkeys and people. The seeds pass through, or get spat out, far away. Pods can burst and fling their seeds. Some fruits have wings or fluff and fly on the wind. Coconuts float across the sea. Chillies use their hot taste to choose which animals carry their seeds. In 2001, two American scientists, Joshua Tewksbury and Gary Nabhan, found that the hot taste of chillies keeps away mice and other mammals. Mammals chew seeds up. Birds swallow seeds whole and drop them far away. The hot taste does not burn birds at all. You will learn more about how seeds travel in Class 4.",
+   "description": "A seed that falls right under their parent has to compete with them for light and water. A seed carried far away has a better chance. So plants have many ways of sending their seeds away. Sweet fruits are eaten by birds, bats, monkeys and people. The seeds pass through, or get spat out, far away. Pods can burst and fling their seeds. Some fruits have wings or fluff and fly on the wind. Coconuts float across the sea. Chillies use their hot taste to choose which animals carry their seeds. In 2001, two American scientists, Joshua Tewksbury and Gary Nabhan, found that the hot taste of chillies keeps away mice and other mammals. Mammals chew seeds up. Birds swallow seeds whole and drop them far away. The hot taste does not burn birds at all. You will learn more about how seeds travel in Class 4.",
    "examples": [
     "A koel eats a ripe banyan fig and drops the seeds on a far-off wall.",
     "Moong and pea pods dry, twist and pop, flinging their seeds out.",
@@ -305,13 +305,13 @@
    ],
    "perspectives": [],
    "art": "A bulbul eating a red chilli, a mouse turning away from the chilli, and seeds dropping from the bird far away.",
-   "context": "Why does a plant wrap its seeds in sweet fruit? This card explains how fruits help seeds travel."
+   "context": "Why does a plant wrap their seeds in sweet fruit? This card explains how fruits help seeds travel."
   },
   {
    "concept": "Short and long life cycles",
    "status": "defined",
    "definition": "Some plants finish their whole life cycle in a few weeks or months, then die. They are called annuals. Others live for many years and flower again and again. They are called perennials.",
-   "description": "Moong goes from seed to seed in two to three months. Rice takes about four months. A mango tree grown from a stone usually takes five to eight years before its first mangoes, and then it fruits every year for a long time. Some plants wait for years, flower just once, and then die. The neelakurinji shrub, which grows in the hills of Kerala and Tamil Nadu, flowers all together only once every 12 years. Its last big bloom near Munnar was in 2018. One kind of bamboo in Mizoram waits about 48 years. Then all the plants of that kind flower together, make their seeds, and die. The talipot palm can wait more than 30 years. Then it makes one of the biggest bunches of flowers of any plant, and dies.",
+   "description": "Moong goes from seed to seed in two to three months. Rice takes about four months. A mango tree grown from a stone usually takes five to eight years before their first mangoes, and then they fruit every year for a long time. Some plants wait for years, flower just once, and then die. The neelakurinji shrub, which grows in the hills of Kerala and Tamil Nadu, flowers all together only once every 12 years. Their last big bloom near Munnar was in 2018. One kind of bamboo in Mizoram waits about 48 years. Then all the plants of that kind flower together, make their seeds, and die. The talipot palm can wait more than 30 years. Then they make one of the biggest bunches of flowers of any plant, and die.",
    "examples": [
     "Short: moong, methi, marigold and mustard, from seed to seed in a few months.",
     "Long: mango, neem and coconut, which flower for years and years.",
@@ -352,7 +352,7 @@
      [
       "Neelakurinji",
       "12 years",
-      "Dies after flowering, new plants grow from its seeds"
+      "Dies after flowering, new plants grow from their seeds"
      ],
      [
       "One kind of bamboo in Mizoram",
@@ -365,7 +365,7 @@
   {
    "concept": "New plants without seeds",
    "status": "defined",
-   "definition": "Many plants can also grow new plants from a piece of themselves, such as a stem, a leaf, a root or a bulb. The new plant is an exact copy of its parent, called a clone.",
+   "definition": "Many plants can also grow new plants from a piece of themselves, such as a stem, a leaf, a root or a bulb. The new plant is an exact copy of their parent, called a clone.",
    "description": "A potato is a swollen underground stem. Each 'eye' on it can sprout a new potato plant. An onion is a bulb, made of thick leaves wrapped round a short stem. Put its bottom in water and it grows new roots and green leaves. A money plant stem grows roots in a bottle of water. Sugarcane is planted as pieces of stem. A leaf of the patharchatta plant, also called Bryophyllum, laid on damp soil grows tiny new plants from the notches along its edges. The bananas we eat have no proper seeds. Farmers grow new banana plants from shoots at the base of the old one. Copies are quick and easy. But they are risky. In the 1950s, a disease wiped out most of the world's favourite banana, the Gros Michel, because every plant was a copy with the same weakness. A new form of that disease now threatens today's banana, the Cavendish.",
    "examples": [
     "An old potato in a dark basket grows white shoots from its eyes.",
@@ -380,32 +380,32 @@
    "concept": "Deep down: a plant is built from air",
    "status": "defined",
    "definition": "Most of a plant's body is made from carbon dioxide taken from the air, and water. Only a very small part comes from the soil.",
-   "description": "This surprises almost everyone, including grown-ups. In the 1600s, a Flemish scientist, Jan Baptist van Helmont, tried a test. He put a small willow tree in a big pot of dried, weighed soil. For five years he gave it only rainwater. The tree grew from about 2 kilograms to about 77 kilograms. The soil lost only about 60 grams. He thought the tree was made of water. He was partly right. We now know most of its dry wood is made of carbon atoms taken from carbon dioxide in the air. In the 1950s, Melvin Calvin and his team in California followed carbon atoms from the air into the sugar a plant made. They used a special kind of carbon they could track. A big neem tree is mostly air and water, put together with the energy of sunlight. The soil gives the plant small amounts of important things, called minerals, like iron and nitrogen.",
+   "description": "This surprises almost everyone, including grown-ups. In the 1600s, a Flemish scientist, Jan Baptist van Helmont, tried a test. He put a small willow tree in a big pot of dried, weighed soil. For five years he gave the tree only rainwater. The tree grew from about 2 kilograms to about 77 kilograms. The soil lost only about 60 grams. He thought the tree was made of water. He was partly right. We now know most of their dry wood is made of carbon atoms taken from carbon dioxide in the air. In the 1950s, Melvin Calvin and his team in California followed carbon atoms from the air into the sugar a plant made. They used a special kind of carbon they could track. A big neem tree is mostly air and water, put together with the energy of sunlight. The soil gives the plant small amounts of important things, called minerals, like iron and nitrogen.",
    "examples": [
     "When wood burns, it turns back into carbon dioxide and water vapour, and only a little ash is left. The ash is the part that came from the soil.",
     "A pot plant can grow for years without the pot getting much emptier of soil."
    ],
    "perspectives": [],
-   "art": "A huge neem tree with a cut-away showing it built of tiny atoms drifting in from the air, and only a thin trickle coming up from the soil.",
+   "art": "A huge neem tree with a cut-away showing the tree built of tiny atoms drifting in from the air, and only a thin trickle coming up from the soil.",
    "context": "Where does a big tree's body come from? This card answers, and the answer surprises most grown-ups."
   },
   {
    "concept": "Death feeds the next life",
    "status": "defined",
-   "definition": "When a plant dies, decomposers break it down. Its atoms go back into the soil and the air, and new plants are built from them.",
-   "description": "Fungi like mushrooms, tiny bacteria, earthworms, termites and woodlice all feed on dead leaves and stems. As they eat, they break the plant into smaller and smaller pieces. Some of its carbon goes back into the air as carbon dioxide. Its minerals go back into the soil. The next seeds use that air and soil to grow. So the same atoms go round and round through plants, animals, soil and air. The life cycle of a plant sits inside a much bigger cycle of atoms. The carbon in your body was once in plants too, because all your food comes from plants, or from animals that ate plants.",
+   "definition": "When a plant dies, decomposers break them down. Their atoms go back into the soil and the air, and new plants are built from them.",
+   "description": "Fungi like mushrooms, tiny bacteria, earthworms, termites and woodlice all feed on dead leaves and stems. As they eat, they break the plant into smaller and smaller pieces. Some of their carbon goes back into the air as carbon dioxide. Their minerals go back into the soil. The next seeds use that air and soil to grow. So the same atoms go round and round through plants, animals, soil and air. The life cycle of a plant sits inside a much bigger cycle of atoms. The carbon in your body was once in plants too, because all your food comes from plants, or from animals that ate plants.",
    "examples": [
     "A pile of fallen leaves under a tree is gone by the next year. Decomposers ate it.",
     "A compost pit turns kitchen peels into dark, crumbly soil in a few months."
    ],
    "perspectives": [],
-   "art": "A dead plant lying on soil, with mushrooms, earthworms and bacteria breaking it down, and arrows showing atoms going into the air and soil and up into a new seedling.",
-   "context": "A plant's life cycle ends when it dies, or does it? This card follows what happens to a plant's body after death."
+   "art": "A dead plant lying on soil, with mushrooms, earthworms and bacteria breaking them down, and arrows showing atoms going into the air and soil and up into a new seedling.",
+   "context": "A plant's life cycle ends when they die, or does it? This card follows what happens to a plant's body after death."
   },
   {
    "concept": "Every seed carries a copy of the plant's instructions",
    "status": "defined",
-   "definition": "Every cell of a plant holds a long set of instructions for building that plant. The instructions are written in a chemical called DNA. Each seed gets a copy from its parents.",
+   "definition": "Every cell of a plant holds a long set of instructions for building that plant. The instructions are written in a chemical called DNA. Each seed gets a copy from their parents.",
    "description": "That is why a moong seed always grows into moong, never into mango. The instructions are copied again and again, from plant to seed to plant, all the way round the life cycle. When pollen from one plant reaches the flower of another, the seed gets some instructions from each parent. So seeds are a little different from each other, just as brothers and sisters are. Between 1856 and 1863, a monk called Gregor Mendel grew thousands of pea plants in his monastery garden in Brno, now in the Czech Republic. He chose peas because they go round their life cycle in one season. He found patterns in how things like seed colour were passed on. When he published his work in 1866, almost nobody noticed. It was rediscovered in 1900, after he had died. Today he is called the father of genetics, the science of how living things pass on their features.",
    "examples": [
     "Mango seeds from one sweet tree can grow into trees with quite different mangoes. So farmers join a twig of their best tree onto a young tree. This is called grafting, and the twig grows mangoes just like its parent's.",
@@ -446,7 +446,7 @@
    "description": "Melocanna bamboo in Mizoram flowers about every 48 years. All the clumps across hundreds of kilometres flower together, even clumps planted far apart. Then they make huge numbers of fruits and die. In 1958 and again from 2006 to 2008, the flowering fed so many rats that they multiplied and then ate the farmers' crops. People there call this mautam, and it caused famine. How the bamboo keeps time for so long, and stays in step, is not known. Nobody has found a 48-year clock inside a plant.",
    "examples": [
     "Neelakurinji in the Nilgiri and Munnar hills flowers together every 12 years.",
-    "Bamboo of one kind planted in another country can still flower at about the same time as its family back home."
+    "Bamboo of one kind planted in another country can still flower at about the same time as their family back home."
    ],
    "perspectives": [
     {
@@ -489,7 +489,7 @@
    "evidence": "Cover a pumpkin flower with a paper bag so no insect can reach it, and it shrivels. Add pollen by hand, and it grows. Gardeners and vanilla farmers do this every day."
   },
   {
-   "text": "A plant builds its body mostly from carbon dioxide and water, using sunlight.",
+   "text": "A plant builds their body mostly from carbon dioxide and water, using sunlight.",
    "evidence": "Van Helmont's willow grew about 75 kilograms while the soil lost about 60 grams. In the 1950s, Melvin Calvin's team followed carbon from the air into a plant's sugar."
   },
   {
@@ -499,7 +499,7 @@
  ],
  "challenging": [
   {
-   "claim": "A plant gets its food and its body from the soil.",
+   "claim": "A plant gets their food and their body from the soil.",
    "who": "A very common idea. Many people still think it today.",
    "for": "Roots grow in the soil, and plants die if the soil dries out. Plants in good soil grow better.",
    "against": "Van Helmont's willow grew about 75 kilograms in five years, but the soil lost only about 60 grams. The soil gives water and small amounts of minerals. The rest of the plant is made from carbon dioxide from the air, using sunlight.",
@@ -523,10 +523,10 @@
    "context": "This card asks whether all plants really start as seeds."
   },
   {
-   "claim": "When a plant dies, it is wasted.",
+   "claim": "When a plant dies, they are wasted.",
    "who": "A common way of thinking",
-   "for": "A dead plant gives no more flowers or fruit, and it looks like rubbish.",
-   "against": "Decomposers break it down, and its atoms go back to the soil and the air. New plants are built from them. Forests depend on this. A fallen tree feeds thousands of living things for years.",
+   "for": "A dead plant gives no more flowers or fruit, and they look like rubbish.",
+   "against": "Decomposers break them down, and their atoms go back to the soil and the air. New plants are built from them. Forests depend on this. A fallen tree feeds thousands of living things for years.",
    "status": "rejected",
    "context": "This card is about what a plant's death means for other living things."
   },
@@ -554,12 +554,12 @@
    "hint": "Try starting your drawing at a different stage each time. Does it change the story?"
   },
   {
-   "q": "A big tree can weigh as much as a truck, but the soil under it hardly gets less. Where did the tree come from?",
+   "q": "A big tree can weigh as much as a truck, but the soil under them hardly gets less. Where did the tree come from?",
    "kind": "deep",
    "hint": "Breathe out onto your hand. What is in your breath that a leaf might want?"
   },
   {
-   "q": "How does a plant know it is the right season to flower, when it has no eyes and no calendar?",
+   "q": "How does a plant know it is the right season to flower, when they have no eyes and no calendar?",
    "kind": "deep",
    "hint": "Think about what changes from summer to winter. Nights get longer or shorter."
   },
@@ -569,7 +569,7 @@
    "hint": "What happens to a mango stone after a monkey eats the mango?"
   },
   {
-   "q": "A moong plant dies after its pods ripen. Has its life ended, or has it carried on in its seeds?",
+   "q": "A moong plant dies after their pods ripen. Has their life ended, or have they carried on in their seeds?",
    "kind": "big",
    "hint": "Is a seed the same plant, or a new one? Could it be both?"
   },
@@ -584,7 +584,7 @@
    "hint": "Who wrote the books, and who did the work with their hands, in 1841?"
   },
   {
-   "q": "Bamboo in Mizoram waits about 48 years, flowers once, then dies. What could it gain by waiting so long and flowering all together?",
+   "q": "Bamboo in Mizoram waits about 48 years, flowers once, then dies. What could they gain by waiting so long and flowering all together?",
    "kind": "big",
    "hint": "Rats and birds eat bamboo seeds. Can they eat them all if every clump makes seeds in the same year?"
   },
@@ -599,7 +599,7 @@
    "hint": "Follow a carbon atom from the air into a rice grain, into an idli, and into you."
   },
   {
-   "q": "If people one day live on Mars, what would a plant need to go round its whole life cycle there?",
+   "q": "If people one day live on Mars, what would a plant need to go round their whole life cycle there?",
    "kind": "big",
    "hint": "Think of every stage: seed, seedling, flower, fruit. What does each one need?"
   }
@@ -610,14 +610,14 @@
   "read_aloud": true,
   "note": "Edmond, Ferréol Bellier-Beaumont, the vanilla vine and the year 1841 are real. So are Edmond's method, the fight over the credit, his freedom in 1848 and the name Albius. Bellier-Beaumont is said to have shown Edmond how to pollinate watermelon flowers by hand. We changed it to pumpkins. The conversations and the small details are imagined.",
   "text": [
-   "In 1841, on an island in the Indian Ocean called Bourbon, there grew a vine that would not make fruit. It climbed the trees in the garden of a man named Ferréol Bellier-Beaumont. Its leaves were thick and shiny. Every year it covered itself in pale green flowers that smelled faintly of honey. And every year, by the next evening, each flower had dropped to the ground, and nothing was left behind.",
-   "The vine was vanilla. It had come across the sea from Mexico. There, its long pods were dried to make one of the most wonderful smells in the world. In Mexico, the vines hung heavy with pods. But here, and in the hothouses of France, and in the gardens of Java, the vines grew and grew and flowered and flowered, and gave nothing at all. Some people said the plant was homesick.",
+   "In 1841, on an island in the Indian Ocean called Bourbon, there grew a vine that would not make fruit. The vine climbed the trees in the garden of a man named Ferréol Bellier-Beaumont. Their leaves were thick and shiny. Every year they covered themselves in pale green flowers that smelled faintly of honey. And every year, by the next evening, each flower had dropped to the ground, and nothing was left behind.",
+   "The vine was vanilla. They had come across the sea from Mexico. There, their long pods were dried to make one of the most wonderful smells in the world. In Mexico, the vines hung heavy with pods. But here, and in the hothouses of France, and in the gardens of Java, the vines grew and grew and flowered and flowered, and gave nothing at all. Some people said the plant was homesick.",
    "Edmond was twelve. He was enslaved, which means that Bellier-Beaumont owned him, the way a man might own a cart. The law allowed it then. It was deeply wrong. Edmond's mother had died when he was born, and the old man had brought him up among the plants. Edmond carried water, pulled weeds and followed Bellier-Beaumont along the garden paths. He was always listening.",
    "One morning the old man stopped by the pumpkin patch. 'Look here,' he said. He pointed at two yellow flowers that looked exactly alike. Then he lifted one and turned it over. Behind its petals, where the flower met its stalk, sat a tiny green ball, no bigger than a marble.",
    "'A baby pumpkin,' said Bellier-Beaumont. 'This is a mother flower. That one is a father flower. It has no baby behind it. It only has dust.' He picked the father flower, peeled back its petals, and showed Edmond the yellow powder on the little stalk in its middle. Then he dabbed the powder into the centre of the mother flower, like pressing a stamp onto a letter. 'Now we wait,' he said.",
    "Edmond waited. Two days later, he ran to the pumpkin patch before breakfast. The mother flower's petals had shrivelled. But the green ball behind them had grown to the size of a lime. Another mother flower nearby, which nobody had touched, had gone yellow and soft. When Edmond poked it, it fell off in his hand.",
    "He crouched there for a long time, looking from one to the other. So that was it. A flower was not the end of anything. A flower was a fruit that had not happened yet. Something had to happen first, deep in its middle. The dust had to get in.",
-   "That afternoon he went to look at the vanilla vine. Its flowers had already closed. They opened only in the early morning, for a few hours, and never again. So the next day he came back at dawn, when the grass was still wet.",
+   "That afternoon he went to look at the vanilla vine. Their flowers had already closed. They opened only in the early morning, for a few hours, and never again. So the next day he came back at dawn, when the grass was still wet.",
    "He looked into one flower. He could see no dust anywhere. He looked into a second, and a third. In the middle of each was a little pale column, smooth as candle wax. He touched it gently with a fingertip. At its tip, half-hidden under a tiny cap, was a smear of sticky yellow. The dust! Just below it was a shiny, sticky place, the place where the dust needed to go. But between the two lay a thin flap, like a small tongue, keeping them apart.",
    "Today, people think that in Mexico, certain bees can push past that flap. On Bourbon, there were no such bees. Every year, the flowers had opened for a visitor who never came.",
    "Edmond snapped a thin splinter off a bamboo stick. He slid it under the little flap and lifted it, gently, the way you lift the hand of a sleeping baby. Then he pressed the dusty cap down onto the sticky place with his thumb. He held it for a moment, and let go. The flower looked exactly the same as before. He did another, and another, until the sun was high and the flowers began to close.",
@@ -638,7 +638,7 @@
    "The black specks in vanilla ice cream are seeds. What stage of the life cycle are they, and what could they become?"
   ],
   "art": [
-   "A vanilla vine climbing a tree in a tropical garden, its pale green flowers dropping to the ground.",
+   "A vanilla vine climbing a tree in a tropical garden, their pale green flowers dropping to the ground.",
    "An old man and a boy crouching by a pumpkin patch, the old man turning over a yellow flower to show a tiny green pumpkin behind it.",
    "Edmond at dawn lifting the tiny flap inside a pale vanilla flower with a bamboo splinter, his thumb ready.",
    "Thin green vanilla pods growing on the vine where flowers had been, the old man staring at them.",
@@ -686,7 +686,7 @@
       "Pumpkin: Grown plant (a pumpkin vine)",
       "Pumpkin: Flower (a yellow pumpkin flower with a tiny pumpkin behind it)",
       "Pumpkin: Fruit (a pumpkin cut open with seeds)",
-      "Rice: Seed (a grain of rice in its husk)",
+      "Rice: Seed (a grain of rice in the husk)",
       "Rice: Seedling (a thin rice seedling)",
       "Rice: Grown plant (a rice plant in a wet field)",
       "Rice: Flower (rice flowers on the ear)",
@@ -697,9 +697,9 @@
      "kind": "cards",
      "title": "6 surprise cards",
      "items": [
-      "SURPRISE: A potato eye sprouts a new plant, with no seed. Name one more plant that grows from a piece of itself.",
+      "SURPRISE: A potato eye sprouts a new plant, with no seed. Name one more plant that grows from a piece of themselves.",
       "SURPRISE: Bamboo in Mizoram waits about 48 years, flowers once, then dies. Which of your plants dies after making seeds?",
-      "SURPRISE: Neelakurinji turns the hills blue once every 12 years. Its next bloom is due in 2030. How old will you be then?",
+      "SURPRISE: Neelakurinji turns the hills blue once every 12 years. Their next bloom is due in 2030. How old will you be then?",
       "SURPRISE: The black specks in vanilla ice cream are seeds. What stage comes before a fruit?",
       "SURPRISE: A tomato's green star is left over from its flower. Name another fruit with flower leftovers.",
       "SURPRISE: A tree is built mostly from air and water. Breathe out on a leaf. What did you give it?"
@@ -774,7 +774,7 @@
      "mins": 10,
      "do": "Play the game by the rules. When a player lays down a full circle, they tell its life cycle aloud, starting from any stage.",
      "say": "When you finish a circle, tell me the story. You can start anywhere. Start with the flower if you like.",
-     "kid": "Collect all five cards of one plant. Lay them in a circle. Tell its life story. You can start at any stage.",
+     "kid": "Collect all five cards of one plant. Lay them in a circle. Tell their life story. You can start at any stage.",
      "parent": "Good answers say what turns into what. 'The flower's base swells into the fruit. The fruit holds the seeds. Each seed grows into a seedling.' Starting from the flower or the fruit is a good sign. It shows the child sees a circle, not a line."
     },
     {
@@ -939,7 +939,7 @@
       "Because plants move in circles to follow the Sun"
      ],
      "a": 1,
-     "why": "The last stage, new seeds, is also the first stage of the next plant. So it goes round. Picking 'happens once and then stops' usually means thinking of one plant only. One plant does die, but its seeds carry on the cycle."
+     "why": "The last stage, new seeds, is also the first stage of the next plant. So it goes round. Picking 'happens once and then stops' usually means thinking of one plant only. One plant does die, but their seeds carry on the cycle."
     },
     {
      "t": "fill",
@@ -1012,13 +1012,13 @@
      "t": "mcq",
      "p": "What is a seedling?",
      "opts": [
-      "A very young plant that has just come out of its seed",
+      "A very young plant that has just come out of their seed",
       "A seed that has not been planted",
       "A plant that is about to flower",
       "A dead plant"
      ],
      "a": 0,
-     "why": "A seedling has just sprouted, with a tiny root, a short stem and its first leaves. Picking 'a seed that has not been planted' mixes up the seed and the seedling. The seedling comes after the seed wakes up."
+     "why": "A seedling has just sprouted, with a tiny root, a short stem and their first leaves. Picking 'a seed that has not been planted' mixes up the seed and the seedling. The seedling comes after the seed wakes up."
     },
     {
      "t": "match",
@@ -1026,15 +1026,15 @@
      "pairs": [
       [
        "Seed",
-       "waits, then sprouts when it gets water, warmth and air"
+       "waits, then sprouts when they get water, warmth and air"
       ],
       [
        "Seedling",
-       "pushes up its first leaves"
+       "pushes up their first leaves"
       ],
       [
        "Grown plant",
-       "makes food in its leaves and gets big"
+       "makes food in their leaves and gets big"
       ],
       [
        "Flower",
@@ -1050,11 +1050,11 @@
     },
     {
      "t": "mcq",
-     "p": "Where does a growing plant get most of its food?",
+     "p": "Where does a growing plant get most of their food?",
      "opts": [
-      "It eats soil through its roots",
-      "Its green leaves make food from air and water, using sunlight",
-      "From the seed, for its whole life",
+      "They eat soil through their roots",
+      "Their green leaves make food from air and water, using sunlight",
+      "From the seed, for their whole life",
       "From rain only"
      ],
      "a": 1,
@@ -1062,7 +1062,7 @@
     },
     {
      "t": "fill",
-     "p": "A plant that goes through its whole life cycle in one year or less, then dies, is called an ____.",
+     "p": "A plant that goes through their whole life cycle in one year or less, then dies, is called an ____.",
      "a": [
       "annual"
      ],
@@ -1358,7 +1358,7 @@
       "neelakurinji"
      ],
      "a": "order shown",
-     "why": "Moong takes 2 to 3 months, rice about 4 months, a mango tree 5 to 8 years before its first fruit, and neelakurinji 12 years to flower."
+     "why": "Moong takes 2 to 3 months, rice about 4 months, a mango tree 5 to 8 years before their first fruit, and neelakurinji 12 years to flower."
     },
     {
      "t": "mcq",
@@ -1427,17 +1427,17 @@
       ],
       [
        "Patharchatta (Bryophyllum)",
-       "from baby plants on the edges of its leaves"
+       "from baby plants on the edges of their leaves"
       ]
      ],
      "a": "pairs as given",
-     "why": "Each of these grows a copy of itself from one of its own parts. A new plant grown this way is a clone of its parent."
+     "why": "Each of these grows a copy of themselves from one of their own parts. A new plant grown this way is a clone of their parent."
     },
     {
      "t": "truefalse",
-     "p": "A moong plant dies after its pods ripen.",
+     "p": "A moong plant dies after their pods ripen.",
      "a": true,
-     "why": "True. Moong is an annual. It finishes its life cycle in two to three months. Its seeds carry the cycle on."
+     "why": "True. Moong is an annual. They finish their life cycle in two to three months. Their seeds carry the cycle on."
     },
     {
      "t": "mcq",
@@ -1456,8 +1456,8 @@
      "t": "write",
      "p": "A green chilli plant in a pot makes lots of flowers, but no chillies. Give two reasons why that might happen, and one thing to try.",
      "lines": 4,
-     "a": "For example: no insects visit the balcony, so pollen does not reach the flowers. Or it is too hot, or the pot dried out. I could gently shake the flowers in the morning, or move pollen with a soft brush, and water it regularly.",
-     "why": "A flower needs pollen to become a fruit, and a plant drops flowers when it is stressed by heat or thirst."
+     "a": "For example: no insects visit the balcony, so pollen does not reach the flowers. Or it is too hot, or the pot dried out. I could gently shake the flowers in the morning, or move pollen with a soft brush, and water them regularly.",
+     "why": "A flower needs pollen to become a fruit, and a plant drops flowers when they are stressed by heat or thirst."
     },
     {
      "t": "mcq",
@@ -1469,13 +1469,13 @@
       "Rose"
      ],
      "a": 2,
-     "why": "That bamboo grows for about 48 years, flowers once, makes its seeds and dies. Mango, neem and rose are perennials that flower again and again. Picking mango may come from knowing mango trees take years to fruit. But once they start, they fruit every year."
+     "why": "That bamboo grows for about 48 years, flowers once, makes their seeds and dies. Mango, neem and rose are perennials that flower again and again. Picking mango may come from knowing mango trees take years to fruit. But once they start, they fruit every year."
     },
     {
      "t": "write",
      "p": "Write the life cycle of a mango tree as a short story, in 5 sentences. Start with a ripe mango falling to the ground.",
      "lines": 5,
-     "a": "For example: A ripe mango fell to the ground. A monkey ate it and dropped the stone far away. In the rains the stone sprouted into a seedling with red leaves. After six years it was a big tree and made tiny flowers. The flowers turned into mangoes, with new stones inside.",
+     "a": "For example: A ripe mango fell to the ground. A monkey ate it and dropped the stone far away. In the rains the stone sprouted into a seedling with red leaves. After six years the seedling was a big tree and made tiny flowers. The flowers turned into mangoes, with new stones inside.",
      "why": "Starting with the fruit shows the child understands that a cycle can start at any stage."
     },
     {
@@ -1508,15 +1508,15 @@
     },
     {
      "t": "mcq",
-     "p": "A mango tree with very sweet mangoes is growing in your garden. You plant one of its mango stones. Will the new tree have exactly the same sweet mangoes?",
+     "p": "A mango tree with very sweet mangoes is growing in your garden. You plant one of their mango stones. Will the new tree have exactly the same sweet mangoes?",
      "opts": [
       "Yes, always",
-      "Not always, because the seed got some of its instructions from the pollen of another tree",
+      "Not always, because the seed got some of their instructions from the pollen of another tree",
       "No, mango stones never grow",
-      "Only if you water it with sugar"
+      "Only if you water them with sugar"
      ],
      "a": 1,
-     "why": "Each seed gets instructions from both parents, so it can be a little different. That is why farmers grow their best mangoes by joining a twig of the sweet tree onto a young tree. This makes a copy. Picking 'yes, always' is a natural guess, since a mango seed always grows a mango tree. But the mangoes on it can be different."
+     "why": "Each seed gets instructions from both parents, so they can be a little different. That is why farmers grow their best mangoes by joining a twig of the sweet tree onto a young tree. This makes a copy. Picking 'yes, always' is a natural guess, since a mango seed always grows a mango tree. But the mangoes on the new tree can be different."
     },
     {
      "t": "truefalse",
@@ -1550,14 +1550,14 @@
     },
     {
      "t": "write",
-     "p": "Moong is an annual: it lives one season, makes seeds and dies. A mango tree can live for a hundred years or more. Which is the better way to live? Give one good reason for each.",
+     "p": "Moong is an annual: they live one season, make seeds and die. A mango tree can live for a hundred years or more. Which is the better way to live? Give one good reason for each.",
      "lines": 4,
-     "a": "A balanced answer. For example: moong is quick, so it can make lots of seeds before the dry season comes. A mango tree takes years to start, but then it gives fruit every year and grows big and strong.",
+     "a": "A balanced answer. For example: moong is quick, so they can make lots of seeds before the dry season comes. A mango tree takes years to start, but then they give fruit every year and grow big and strong.",
      "why": "There is no single right answer. Both ways work, in different places and seasons."
     },
     {
      "t": "fill",
-     "p": "Neelakurinji bloomed near Munnar in 2018. It blooms every 12 years. Its next two blooms should be in ____ and ____.",
+     "p": "Neelakurinji bloomed near Munnar in 2018. They bloom every 12 years. Their next two blooms should be in ____ and ____.",
      "a": [
       "2030 and 2042",
       "2030, 2042"
@@ -1626,7 +1626,7 @@
      "t": "write",
      "p": "Is a seed a new plant, or the old plant carrying on? Give one reason for each answer.",
      "lines": 4,
-     "a": "A balanced answer. For example: it is new, because it is a separate living thing and may be a bit different from its parent. It is the old plant carrying on, because it carries copied instructions and was fed with its parent's food.",
+     "a": "A balanced answer. For example: they are new, because they are a separate living thing and may be a bit different from their parent. They are the old plant carrying on, because they carry copied instructions and were fed with their parent's food.",
      "why": "Scientists and thinkers answer this in different ways. What counts is a reason for each side."
     },
     {
@@ -1635,7 +1635,7 @@
      "opts": [
       "It showed plants grow better in space",
       "It showed seeds can fly",
-      "It showed a plant can go round its whole life cycle in space",
+      "It showed a plant can go round their whole life cycle in space",
       "It showed plants do not need water"
      ],
      "a": 2,
@@ -1651,7 +1651,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the life cycle of a moong plant inside a bigger circle that shows where its atoms come from and go to: air, water, soil, and decomposers.",
+     "p": "Draw the life cycle of a moong plant inside a bigger circle that shows where their atoms come from and go to: air, water, soil, and decomposers.",
      "a": "An inner circle of seed, seedling, plant, flower, pod and seed. Around it, arrows from the air and the soil into the plant, and arrows from the dead plant through decomposers back to the air and soil.",
      "why": "A plant's life cycle sits inside a bigger cycle of atoms going round through air, soil and living things."
     }
@@ -2147,7 +2147,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "context": "This is the first step of the Be Edmond experiment. You learn to tell a vine's female flowers from its male flowers.",
+     "context": "This is the first step of the Be Edmond experiment. You learn to tell a vine's female flowers from their male flowers.",
      "do": "1. Look along the vine together. 2. Find a female flower: it has a tiny baby fruit behind its petals. 3. Find a male flower: it is on a thin stalk, with no baby fruit behind it.",
      "say": "These flowers look alike from the front. Turn them over. The female flower has a tiny fruit behind it. The male flower has only pollen. In the story, they were called mother and father flowers.",
      "kid": "Look behind each flower. A tiny fruit behind it? That is a female flower. No fruit, on a thin stalk? That is a male flower.",
@@ -2213,7 +2213,7 @@
    "title": "Floating Leaves: does a leaf make gas in the light?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you make small circles of palak leaf sink in a glass of water. Then you watch whether they float back up in bright light and in the dark. It shows a leaf using light to make food and oxygen, the way a growing plant feeds itself.",
+   "context": "In this experiment you make small circles of palak leaf sink in a glass of water. Then you watch whether they float back up in bright light and in the dark. It shows a leaf using light to make food and oxygen, the way a growing plant feeds themselves.",
    "question": "Do leaves make gas when light shines on them?",
    "predict": "Guess first. The leaf circles will sink to the bottom of two glasses. One glass goes in bright light and one in a dark cupboard. In which glass will the circles float up? Why do you think so?",
    "fair_test": "Make the two glasses the same. Use the same water, the same pinch of baking soda and drop of soap, and 10 circles cut from the same leaf in each. Change only the light. Count the floating circles in both glasses at the same times.",
@@ -2527,7 +2527,7 @@
        "The end"
       ],
       "a": 1,
-      "why": "The new seeds are the start of new plants. Each one can sprout into a seedling, so the wheel goes round again. Picking 'the end' usually means seeing a plant's life as a line. One plant dies, but the cycle carries on in its seeds."
+      "why": "The new seeds are the start of new plants. Each one can sprout into a seedling, so the wheel goes round again. Picking 'the end' usually means seeing a plant's life as a line. One plant dies, but the cycle carries on in their seeds."
      }
     }
    ]
@@ -2626,20 +2626,20 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Compare all three. 2. Talk about how they are different from seeds. 3. Plant the onion or the money plant in a pot of soil if you like.",
-     "say": "These new plants grew from pieces of old plants. Will the new money plant look like its parent?",
-     "kid": "Compare all three. They grew from pieces, not seeds. Will the new plant look like its parent?",
+     "say": "These new plants grew from pieces of old plants. Will the new money plant look like their parent?",
+     "kid": "Compare all three. They grew from pieces, not seeds. Will the new plant look like their parent?",
      "check": {
       "t": "mcq",
-      "q": "A new money plant grows from a stem cutting. How will it compare with the plant the stem came from?",
+      "q": "A new money plant grows from a stem cutting. How will the new plant compare with the plant the stem came from?",
       "options": [
-       "It will be an exact copy, a clone",
-       "It will be a different kind of plant",
-       "It will need seeds to grow"
+       "They will be an exact copy, a clone",
+       "They will be a different kind of plant",
+       "They will need seeds to grow"
       ],
       "a": 0,
-      "why": "A cutting carries exactly the same instructions as its parent, so it grows into a copy. Picking 'a different kind' is a fair worry. But a seed can mix instructions from two parents, and a cutting does not."
+      "why": "A cutting carries exactly the same instructions as their parent, so they grow into a copy. Picking 'a different kind' is a fair worry. But a seed can mix instructions from two parents, and a cutting does not."
      },
-     "think": "If every plant in a field is a copy of the same plant, what happens if a disease comes that it cannot fight?"
+     "think": "If every plant in a field is a copy of the same plant, what happens if a disease comes that they cannot fight?"
     }
    ]
   },
@@ -2688,7 +2688,7 @@
      "mins": 3,
      "context": "This is the first step of Eat the Life Cycle. You collect foods and get ready to sort them by plant part.",
      "do": "1. Collect about 12 foods. Try rice, dal, atta, a tomato, bhindi and a potato. Add an onion, palak, a carrot, a cauliflower, jeera and a banana. 2. Draw the six columns.",
-     "say": "Every food here came from a plant. But which part of the plant? And which stage of its life?",
+     "say": "Every food here came from a plant. But which part of the plant? And which stage of their life?",
      "kid": "Collect 12 foods. Draw six columns: seeds, fruits, flowers, leaves, stems, roots. Where does each food go?"
     },
     {
@@ -2725,7 +2725,7 @@
    "title": "Life Cycle Flipbook",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you draw a plant's life cycle on a stack of small pages, changing it a little on each page. When you flip the pages fast, the plant grows, flowers, makes fruit and drops its seeds.",
+   "context": "In this activity you draw a plant's life cycle on a stack of small pages, changing it a little on each page. When you flip the pages fast, the plant grows, flowers, makes fruit and drops their seeds.",
    "materials": [
     {
      "item": "16 small pieces of paper of the same size, such as a small notepad, or an A4 sheet cut into 16",
@@ -2795,7 +2795,7 @@
    "title": "Adopt a Tree for a Year",
    "mins": 20,
    "days": 1,
-   "context": "Trees go round part of their life cycle every year: new leaves, flowers, fruits and seeds. In this activity you choose one tree near your home and visit it once a month, for a year.",
+   "context": "Trees go round part of their life cycle every year: new leaves, flowers, fruits and seeds. In this activity you choose one tree near your home and visit them once a month, for a year.",
    "materials": [
     {
      "item": "a tree near your home that you can visit, such as a mango, neem, gulmohar, amaltas, jamun or peepal",
@@ -2815,22 +2815,22 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Choose your tree, name it, and make its first diary page. Then visit once a month."
+     "what": "Choose your tree, name them, and make their first diary page. Then visit once a month."
     }
    ],
    "record": "Every month, one diary page: the date, a drawing or photo, and ticks for new leaves, buds, flowers, unripe fruit, ripe fruit and falling seeds.",
    "setup": [
     {
-     "art": "A child standing under a gulmohar tree with a notebook, looking up at its branches.",
+     "art": "A child standing under a gulmohar tree with a notebook, looking up at their branches.",
      "caption": "1. Choose one tree near home that you can visit every month."
     },
     {
      "art": "A diary page with a drawing of the tree and tick boxes for leaves, buds, flowers, fruit and seeds.",
-     "caption": "2. Make a diary page: draw it and tick what you see."
+     "caption": "2. Make a diary page: draw them and tick what you see."
     },
     {
      "art": "Four small drawings of the same mango tree: bare-ish in winter, covered in flowers in February, with green mangoes in April, and ripe mangoes in May.",
-     "caption": "3. Visit every month. Watch it flower and fruit through the year."
+     "caption": "3. Visit every month. Watch them flower and fruit through the year."
     }
    ],
    "flow": [
@@ -2838,18 +2838,18 @@
      "id": "s1",
      "mins": 10,
      "context": "This is the first step of Adopt a Tree. You choose a tree near your home to watch for a whole year.",
-     "do": "1. Walk to a few trees nearby and choose one. 2. Find out its name, by asking a neighbour or using a plant app. 3. Give it a nickname too.",
-     "say": "This tree will be our friend for a whole year. We'll visit it every month and see what stage of its year it is in.",
-     "kid": "Choose a tree near home. Find out its name. Give it a nickname. You will visit it every month for a year."
+     "do": "1. Walk to a few trees nearby and choose one. 2. Find out their name, by asking a neighbour or using a plant app. 3. Give them a nickname too.",
+     "say": "This tree will be our friend for a whole year. We'll visit them every month and see what stage of their year they are in.",
+     "kid": "Choose a tree near home. Find out their name. Give them a nickname. You will visit them every month for a year."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "1. Draw or photograph the whole tree, and one close-up of a branch. 2. Tick what you see: new leaves, buds, flowers, unripe fruit, ripe fruit, falling seeds. 3. Write the date.",
-     "say": "What is the tree doing right now? Is it flowering, fruiting, or resting?",
+     "say": "What is the tree doing right now? Are they flowering, fruiting, or resting?",
      "kid": "Draw your tree. Draw one branch up close. Tick what you see. Write the date.",
-     "parent": "Many Indian trees flower before or just after the hot season. Mango flowers around January to March and fruits in April to June. Neem flowers around March and April. Amaltas covers itself in yellow flowers in April and May. Gulmohar turns red in April to June. A project called SeasonWatch collects records like these from children all over India.",
-     "think": "A moong plant goes round its life cycle once and dies. Your tree flowers and fruits again every year. Is the tree's year a life cycle too?"
+     "parent": "Many Indian trees flower before or just after the hot season. Mango flowers around January to March and fruits in April to June. Neem flowers around March and April. Amaltas is covered in yellow flowers in April and May. Gulmohar turns red in April to June. A project called SeasonWatch collects records like these from children all over India.",
+     "think": "A moong plant goes round their life cycle once and dies. Your tree flowers and fruits again every year. Is the tree's year a life cycle too?"
     }
    ]
   }
@@ -2860,7 +2860,7 @@
    "title": "Kitchen to Kitchen: grow moong from seed to seed",
    "mins": 130,
    "days": 75,
-   "context": "In this project, which takes about two and a half months, you sow moong from your kitchen jar. You look after it as it grows, flowers and makes pods, and you harvest a handful of new moong. That is one whole life cycle.",
+   "context": "In this project, which takes about two and a half months, you sow moong from your kitchen jar. You look after them as they grow, flower and make pods, and you harvest a handful of new moong. That is one whole life cycle.",
    "materials": [
     {
      "item": "8 whole green moong seeds from the kitchen, the kind you sprout",
@@ -2952,7 +2952,7 @@
     },
     {
      "art": "The same bucket a month later, with bushy moong plants with leaves in threes and small yellow flowers at the top.",
-     "caption": "2. Look after it. Flowers come after about a month."
+     "caption": "2. Look after them. Flowers come after about a month."
     },
     {
      "art": "Black dry moong pods on the plant, and a child's hand opening one over a steel plate full of new green moong.",
@@ -2964,35 +2964,35 @@
      "id": "s1",
      "mins": 25,
      "context": "This is the first step of Kitchen to Kitchen. You sow moong from the kitchen jar and give your plant a name.",
-     "do": "1. Soak 8 moong seeds in water overnight. 2. Fill the pot with soil to 2 cm below the top. 3. Next day, push the seeds 2 cm deep, about 5 cm apart. 4. Water gently until water comes out of the bottom. 5. Put the pot in your sunniest spot. 6. Name the plant and draw page 1 of its diary.",
+     "do": "1. Soak 8 moong seeds in water overnight. 2. Fill the pot with soil to 2 cm below the top. 3. Next day, push the seeds 2 cm deep, about 5 cm apart. 4. Water gently until water comes out of the bottom. 5. Put the pot in your sunniest spot. 6. Name the plant and draw page 1 of their diary.",
      "say": "These seeds came from our kitchen. If we look after them, they will give us moong back. What shall we call our plant?",
      "kid": "Soak 8 moong seeds overnight. Push them 2 cm into the soil. Water them. Put the pot in the sun. Give your plant a name!",
      "adult": true,
-     "parent": "Moong likes warm weather, about 25 to 35 degrees. In most of north India, sow it between February and August. In much of south India it grows most of the year. In north India's cold months, from November to January, grow matar instead. Matar flowers in about 6 to 8 weeks and makes dry seeds in about 3 months. The pot must get at least 5 hours of direct sun. In shade, moong grows tall and thin and may not flower at all. If you have no sunny spot, ask to use a relative's terrace or a school garden."
+     "parent": "Moong likes warm weather, about 25 to 35 degrees. In most of north India, sow them between February and August. In much of south India they grow most of the year. In north India's cold months, from November to January, grow matar instead. Matar flowers in about 6 to 8 weeks and makes dry seeds in about 3 months. The pot must get at least 5 hours of direct sun. In shade, moong grows tall and thin and may not flower at all. If you have no sunny spot, ask to use a relative's terrace or a school garden."
     },
     {
      "id": "s2",
      "mins": 10,
      "wait": "About a week",
      "do": "1. Look for the seedlings. 2. First come two fat seed leaves, then two plain leaves, and after that leaves in groups of three. 3. Around day 10, keep the 3 or 4 strongest plants. Snip the others at the soil with scissors, instead of pulling them.",
-     "say": "Look, its first leaves are fat and round. Those came from inside the seed. The new leaves have their own shape.",
+     "say": "Look, their first leaves are fat and round. Those came from inside the seed. The new leaves have their own shape.",
      "kid": "Find the seed leaves. They are fat and round. Then find the new leaves. Keep the 3 or 4 strongest plants.",
-     "parent": "Snipping is better than pulling, because pulling can tear the roots of the plants next to it. Water whenever the top 2 cm of soil feels dry to a finger. Never leave the pot standing in water."
+     "parent": "Snipping is better than pulling, because pulling can tear the roots of the plants next to them. Water whenever the top 2 cm of soil feels dry to a finger. Never leave the pot standing in water."
     },
     {
      "id": "s3",
      "mins": 15,
      "wait": "Every week",
-     "do": "Once a week: 1. Measure the tallest plant from the soil to its top. 2. Draw it. 3. Write the number in the diary.",
-     "say": "How much did it grow this week? Is it growing faster or slower than last week?",
-     "kid": "Once a week, measure the tallest plant. Draw it. Write the number down. Did it grow fast or slow?",
+     "do": "Once a week: 1. Measure the tallest plant from the soil to their top. 2. Draw them. 3. Write the number in the diary.",
+     "say": "How much did they grow this week? Are they growing faster or slower than last week?",
+     "kid": "Once a week, measure the tallest plant. Draw them. Write the number down. Did they grow fast or slow?",
      "parent": "Tiny black or green insects on the tips are aphids. Wash them off with a gentle spray of water. Leaves with yellow patches may have a virus that is common in moong. Snip off that plant and keep the others. Heavy rain can rot the roots, so move the pot under a ledge in a storm."
     },
     {
      "id": "s4",
      "mins": 10,
      "do": "1. Around day 30 to 40, look for small pale yellow flowers at the ends of short stalks. 2. Write the date of the first flower. 3. Count the flowers each week.",
-     "say": "Our plant is a grown plant now. It has stopped just making leaves. It is making flowers.",
+     "say": "Our plant is a grown plant now. They have stopped just making leaves. They are making flowers.",
      "kid": "Look for small yellow flowers. Write the date of the first one. Count the flowers.",
      "parent": "Moong flowers can pollinate themselves, so you do not need bees. The flowers are small and close by midday, so look in the morning."
     },
@@ -3020,17 +3020,17 @@
      "do": "1. When pods turn black and dry, usually around day 55 to 75, pick them before they split. 2. Dry them in the sun on a plate for 2 days. 3. Open them over a plate. 4. Count the seeds in each pod and add them all up. 5. Draw a line graph of the plant's height, week by week.",
      "say": "One seed went into the soil. How many have we got back? Let's count.",
      "kid": "Pick the black pods before they pop open. Dry them in the sun. Open them. Count every seed!",
-     "parent": "Ripe moong pods can twist and pop open in the sun, flinging their seeds. Pick them as soon as they are black, or tie a small paper bag over a bunch. Each pod usually has about 10 to 15 seeds. The plant itself turns yellow and dries once its pods are ripe. That is the end of its life cycle, not a mistake.",
+     "parent": "Ripe moong pods can twist and pop open in the sun, flinging their seeds. Pick them as soon as they are black, or tie a small paper bag over a bunch. Each pod usually has about 10 to 15 seeds. The whole plant turns yellow and dries once their pods are ripe. That is the end of their life cycle, not a mistake.",
      "check": {
       "t": "mcq",
-      "q": "Your moong plant turns yellow and dries up after its pods ripen. What has happened?",
+      "q": "Your moong plant turns yellow and dries up after their pods ripen. What has happened?",
       "options": [
-       "It has finished its life cycle, as all annual plants do",
+       "They have finished their life cycle, as all annual plants do",
        "You did something wrong",
-       "It needs more water"
+       "They need more water"
       ],
       "a": 0,
-      "why": "Moong is an annual. It goes from seed to seed in one season, then dies. Its new seeds carry the life cycle on. Picking 'you did something wrong' is a natural worry. But a yellow, dry moong plant with black pods has done exactly what it was meant to do."
+      "why": "Moong is an annual. They go from seed to seed in one season, then die. Their new seeds carry the life cycle on. Picking 'you did something wrong' is a natural worry. But a yellow, dry moong plant with black pods has done exactly what they were meant to do."
      }
     },
     {
@@ -3039,8 +3039,8 @@
      "do": "1. Sow some of your new seeds in the pot again, to start the next circle. 2. Soak and sprout some to eat. 3. Put the old plants in a compost pit or bin. 4. Read the diary aloud to the family.",
      "say": "We are back where we started, with moong seeds. Shall we start the next circle?",
      "kid": "Sow some new seeds to start again. Sprout some to eat. Put the old plant in compost. Read your diary to your family.",
-     "parent": "If the plants die early, from too little sun, too much water or pests, that is sad. It is all right to feel sad. Write a short note to the plant, and talk about what it needed. Then try again in the right season.",
-     "think": "The old moong plant goes into the compost. Its atoms go back to the soil and air. Could some of them end up in the next moong plant?"
+     "parent": "If the plants die early, from too little sun, too much water or pests, that is sad. It is all right to feel sad. Write a short note to the plant, and talk about what they needed. Then try again in the right season.",
+     "think": "The old moong plant goes into the compost. Their atoms go back to the soil and air. Could some of them end up in the next moong plant?"
     }
    ]
   }
@@ -3120,7 +3120,7 @@
        "Their bodies are covered in fluffy hairs that pollen sticks to"
       ],
       "a": 2,
-      "why": "A bee's body is covered in branched hairs. Pollen sticks to them as it crawls through a flower, and brushes off on the next flower. Picking 'they eat it and spit it out' is a fair guess, because bees do eat pollen. But the pollen that reaches the next flower is mostly the dust stuck on their hairs."
+      "why": "A bee's body is covered in branched hairs. Pollen sticks to them as she crawls through a flower, and brushes off on the next flower. Picking 'they eat it and spit it out' is a fair guess, because bees do eat pollen. But the pollen that reaches the next flower is mostly the dust stuck on their hairs."
      }
     },
     {
@@ -3179,8 +3179,8 @@
      "id": "s1",
      "mins": 5,
      "context": "This is the first step of The Never-Empty Balcony. You read a table of how long plants take to flower.",
-     "do": "Read the table together. It shows about how long each plant takes from sowing to its first flowers.",
-     "say": "Every plant has its own speed round the life cycle. If we know the speeds, we can plan.",
+     "do": "Read the table together. It shows about how long each plant takes from sowing to their first flowers.",
+     "say": "Every plant has their own speed round the life cycle. If we know the speeds, we can plan.",
      "kid": "Read the table. Which plant flowers fastest after sowing? Which is slowest?",
      "chart": {
       "type": "table",
@@ -3240,19 +3240,19 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Help your child choose 6 plants. Mark on the calendar when each will be sown and when it will flower.",
+     "do": "Help your child choose 6 plants. Mark on the calendar when each will be sown and when they will flower.",
      "say": "Let's colour each plant's flowering months. Are there any empty months?",
      "kid": "Choose 6 plants. Colour the months each one will flower. Look for empty months.",
      "check": {
       "t": "mcq",
-      "q": "You sow methi in one big batch in October. It flowers for a few weeks and then it is finished. How could you keep having methi flowers for longer?",
+      "q": "You sow methi in one big batch in October. They flower for a few weeks and then they are finished. How could you keep having methi flowers for longer?",
       "options": [
-       "Water it twice as much",
+       "Water them twice as much",
        "Sow a small batch every two weeks",
        "Sow all the seeds in one pot"
       ],
       "a": 1,
-      "why": "Each batch goes round its life cycle on its own timetable. Sowing a little every two weeks means a new batch is always coming into flower. Picking 'water it twice as much' cannot change how long an annual's life cycle is. Too much water can even rot it."
+      "why": "Each batch goes round its life cycle on its own timetable. Sowing a little every two weeks means a new batch is always coming into flower. Picking 'water them twice as much' cannot change how long an annual's life cycle is. Too much water can even rot them."
      }
     },
     {
@@ -3304,7 +3304,7 @@
    ],
    "a": 0,
    "outcome": 0,
-   "why": "A seed sprouts into a seedling, grows into a grown plant, makes flowers, and each flower can become a fruit holding new seeds. Picking 'seed, flower, seedling' puts the flower too early. A plant must grow big before it can flower."
+   "why": "A seed sprouts into a seedling, grows into a grown plant, makes flowers, and each flower can become a fruit holding new seeds. Picking 'seed, flower, seedling' puts the flower too early. A plant must grow big before they can flower."
   },
   {
    "t": "mcq",
@@ -3313,11 +3313,11 @@
     "A seed in a packet",
     "A flower bud",
     "A fruit",
-    "A very young plant just out of its seed"
+    "A very young plant just out of their seed"
    ],
    "a": 3,
    "outcome": 0,
-   "why": "A seedling has just sprouted, with a tiny root, a short stem and its first leaves. Picking 'a seed in a packet' mixes up the seed and the seedling. The seedling is the next stage."
+   "why": "A seedling has just sprouted, with a tiny root, a short stem and their first leaves. Picking 'a seed in a packet' mixes up the seed and the seedling. The seedling is the next stage."
   },
   {
    "t": "mcq",
@@ -3369,7 +3369,7 @@
    ],
    "a": 3,
    "outcome": 2,
-   "why": "The new seeds are the start of new plants, so the stages go round in a circle. Picking 'it only happens once' is true for one plant. But its seeds carry the cycle on."
+   "why": "The new seeds are the start of new plants, so the stages go round in a circle. Picking 'it only happens once' is true for one plant. But their seeds carry the cycle on."
   },
   {
    "t": "mcq",
@@ -3382,7 +3382,7 @@
    ],
    "a": 2,
    "outcome": 2,
-   "why": "The old plant has finished, but its seeds start the next circle. Picking 'nothing, it is over' looks at the old plant only, and forgets its seeds."
+   "why": "The old plant has finished, but their seeds start the next circle. Picking 'nothing, it is over' looks at the old plant only, and forgets their seeds."
   },
   {
    "t": "mcq",
@@ -3453,7 +3453,7 @@
   },
   {
    "t": "mcq",
-   "p": "Which plant finishes its whole life cycle, from seed to new seeds, in 2 to 3 months?",
+   "p": "Which plant finishes their whole life cycle, from seed to new seeds, in 2 to 3 months?",
    "opts": [
     "Mango",
     "Neem",
@@ -3475,7 +3475,7 @@
    ],
    "a": 2,
    "outcome": 4,
-   "why": "A potato is a swollen stem, and each eye can sprout a new plant, a copy of its parent. The others are all seeds. Picking a rice grain is a natural mistake, because we think of rice as food, not as seeds. But each rice grain is a seed, and it can sprout into a rice plant."
+   "why": "A potato is a swollen stem, and each eye can sprout a new plant, a copy of their parent. The others are all seeds. Picking a rice grain is a natural mistake, because we think of rice as food, not as seeds. But each rice grain is a seed, and they can sprout into a rice plant."
   },
   {
    "t": "mcq",
@@ -3488,7 +3488,7 @@
    ],
    "a": 1,
    "outcome": 5,
-   "why": "Leaves build sugar from carbon dioxide and water, using sunlight, and the tree builds its wood from that sugar. Picking 'the soil' is what almost everyone guesses. But a famous test showed a willow gained about 75 kilograms while its soil lost only about 60 grams."
+   "why": "Leaves build sugar from carbon dioxide and water, using sunlight, and the tree builds their wood from that sugar. Picking 'the soil' is what almost everyone guesses. But a famous test showed a willow gained about 75 kilograms while their soil lost only about 60 grams."
   },
   {
    "t": "mcq",
@@ -3526,12 +3526,12 @@
   },
   {
    "t": "mcq",
-   "p": "What happens to a plant's body after it dies?",
+   "p": "What happens to a plant's body after they die?",
    "opts": [
     "It stays there for ever",
     "It vanishes",
     "It turns into a seed",
-    "Decomposers break it down, and its atoms go back to the soil and air for new life"
+    "Decomposers break them down, and their atoms go back to the soil and air for new life"
    ],
    "a": 3,
    "outcome": 5,
@@ -3539,16 +3539,16 @@
   },
   {
    "t": "mcq",
-   "p": "Do scientists know how bamboo counts about 48 years before it flowers?",
+   "p": "Do scientists know how bamboo counts about 48 years before they flower?",
    "opts": [
-    "Yes, it counts the monsoons",
+    "Yes, they count the monsoons",
     "Bamboo never flowers",
     "No, it is still a mystery",
-    "Yes, it has a clock in its roots"
+    "Yes, they have a clock in their roots"
    ],
    "a": 2,
    "outcome": 6,
-   "why": "Nobody knows how bamboo keeps time for so long. There are ideas, but none has been proved. Picking 'it counts the monsoons' is a clever guess that some people have made. But nobody has shown it is true."
+   "why": "Nobody knows how bamboo keeps time for so long. There are ideas, but none has been proved. Picking 'they count the monsoons' is a clever guess that some people have made. But nobody has shown it is true."
   },
   {
    "t": "mcq",
@@ -3616,7 +3616,7 @@
  ],
  "open_questions": [
   {
-   "q": "How does bamboo count about 48 years before it flowers, and how do clumps far apart stay in step?",
+   "q": "How does bamboo count about 48 years before they flower, and how do clumps far apart stay in step?",
    "why_open": "Nobody has found a clock that could count so long inside a plant. There are ideas, but none has been proved."
   },
   {
@@ -3624,7 +3624,7 @@
    "why_open": "Darwin called it 'an abominable mystery' in 1879. Scientists still argue about how much was due to insects, fast growth, fruits or the climate."
   },
   {
-   "q": "Exactly how does a plant decide that it is big enough to flower?",
+   "q": "Exactly how does a plant decide that they are big enough to flower?",
    "why_open": "Scientists know many of the signals: day length, cold, age and sugar. How the plant puts them all together is still being worked out."
   },
   {
@@ -3640,19 +3640,19 @@
    "why_open": "Many plants now flower earlier than they used to. If they flower before their insects wake up, the flowers may make less fruit. How much this will happen, and where, is still being studied."
   },
   {
-   "q": "Is a seed the same plant as its parent, or a new one?",
-   "why_open": "Biologists count it as a new plant, because it has a new mix of instructions. Some thinkers say it is the same life carrying on. It depends what you mean by 'the same'."
+   "q": "Is a seed the same plant as their parent, or a new one?",
+   "why_open": "Biologists count them as a new plant, because they have a new mix of instructions. Some thinkers say the seed is the same life carrying on. It depends what you mean by 'the same'."
   }
  ],
  "ask_kids": [
   "Is that tree flowering, fruiting or resting right now?",
   "This tomato was a flower once. Can you find what is left of it?",
   "Which stage of a plant's life is on your plate right now?",
-  "If this mango stone were planted, how old would you be when it gave its first mango?",
+  "If this mango stone were planted, how old would you be when they gave their first mango?",
   "Where does a life cycle start? Can you start it from the flower?",
   "Why do you think this plant has so many flowers, but only a few fruits?",
   "What would happen to our food if no insect ever carried pollen again?",
-  "Breathe out on that plant. What did you just give it?",
+  "Breathe out on that plant. What did you just give them?",
   "Is a seed a new plant, or the old plant carrying on?",
   "Which plants near our home are annuals, and which will still be here in ten years?",
   "Are you the same person you were as a baby? What changed and what stayed?"
@@ -3663,7 +3663,7 @@
    "a": "It saw the salad dressing!"
   },
   {
-   "j": "What did the seed say when it finally sprouted?",
+   "j": "What did the seed say when they finally sprouted?",
    "a": "I'm rooting for myself!"
   },
   {
@@ -3676,7 +3676,7 @@
   },
   {
    "j": "Why did the bee go to the hibiscus?",
-   "a": "It had a pollen-ty of work to do."
+   "a": "She had a pollen-ty of work to do."
   },
   {
    "j": "What did the big flower say to the small flower?",
@@ -3684,7 +3684,7 @@
   },
   {
    "j": "Why did the bamboo wait 48 years to flower?",
-   "a": "It wanted to make a grand entrance."
+   "a": "They wanted to make a grand entrance."
   },
   {
    "j": "What is a tree's favourite drink?",
@@ -3708,11 +3708,11 @@
   },
   {
    "j": "Why was the seedling so polite?",
-   "a": "It always turned over a new leaf."
+   "a": "They always turned over a new leaf."
   },
   {
    "j": "Why did the plant keep going round in a circle?",
-   "a": "It was on a life cycle!"
+   "a": "They were on a life cycle!"
   },
   {
    "j": "Why did the farmer plant his money?",
@@ -3740,7 +3740,7 @@
   },
   {
    "j": "Why did the sunflower get good marks?",
-   "a": "It was the brightest in the class."
+   "a": "They were the brightest in the class."
   },
   {
    "j": "What do you call a chilli that bites back?",
@@ -3748,7 +3748,7 @@
   },
   {
    "j": "Why did the lotus get a showerhead?",
-   "a": "To keep its seeds clean."
+   "a": "To keep their seeds clean."
   },
   {
    "j": "What did the pumpkin flower say to the bee?",
@@ -3756,18 +3756,18 @@
   },
   {
    "j": "Why did the neem tree get so many visitors in spring?",
-   "a": "Everyone wanted to see it bloom-ing."
+   "a": "Everyone wanted to see them bloom-ing."
   },
   {
    "j": "What is a seed's favourite game?",
    "a": "Hide and grow seek."
   },
   {
-   "j": "Why did the old moong plant smile as it dried up?",
-   "a": "It knew its seeds would carry on."
+   "j": "Why did the old moong plant smile as they dried up?",
+   "a": "They knew their seeds would carry on."
   },
   {
-   "j": "How does a bee comb its hair?",
+   "j": "How does a bee comb her hair?",
    "a": "With a honeycomb!"
   }
  ],
@@ -3880,11 +3880,11 @@
    "why_maths": "Measuring in centimetres, and finding the difference, turns 'it got bigger' into exactly how fast the fruit grew."
   },
   {
-   "problem": "Neelakurinji flowered near Munnar in 2018. It flowers every 12 years. Write the next three years it should flower.",
+   "problem": "Neelakurinji flowered near Munnar in 2018. They flower every 12 years. Write the next three years they should flower.",
    "answer": "2030, 2042 and 2054.",
    "explain": "Add 12 each time. 2018 + 12 = 2030. 2030 + 12 = 2042. 2042 + 12 = 2054.",
    "math_unit": "math.patterns.number-patterns.L3",
-   "context": "Neelakurinji is a shrub that grows in the hills of Kerala and Tamil Nadu. Its flowers turn whole hillsides blue, but only once every 12 years.",
+   "context": "Neelakurinji is a shrub that grows in the hills of Kerala and Tamil Nadu. Their flowers turn whole hillsides blue, but only once every 12 years.",
    "why_maths": "A plant that flowers on a regular beat makes a number pattern. Spotting the pattern lets you predict when the hills will turn blue again."
   },
   {
@@ -3951,7 +3951,7 @@
    "url": "",
    "kind": "place",
    "where": "Howrah, near Kolkata",
-   "why": "Home of the Great Banyan, a tree more than 250 years old. Its main trunk was removed in 1925, yet the tree lives on through thousands of roots that grew down from its branches."
+   "why": "Home of the Great Banyan, a tree more than 250 years old. Their main trunk was removed in 1925, yet the tree lives on through thousands of roots that grew down from their branches."
   },
   {
    "title": "Lalbagh Botanical Garden",
@@ -4003,7 +4003,7 @@
    "id": "b-growbag",
    "item": "Grow bags, about 30 cm wide and 30 cm deep",
    "kind": "material",
-   "why": "A cheap, deep pot with drainage for growing moong or matar through its whole life cycle.",
+   "why": "A cheap, deep pot with drainage for growing moong or matar through their whole life cycle.",
    "url": "https://www.amazon.in/s?k=grow+bag+12+x+12",
    "used_in": [
     "p1"
@@ -4018,7 +4018,7 @@
    "used_in": [
     "e1"
    ],
-   "plan": "If bought, keep it after the experiment. It will keep flowering and fruiting for a year or two."
+   "plan": "If bought, keep the plant after the experiment. They will keep flowering and fruiting for a year or two."
   },
   {
    "id": "b-syringe",
@@ -4185,7 +4185,7 @@
  },
  "sources": {
   "founder": [
-   "DeepKids V0.1 weekly journeys, week 7.0 'Let grow and grow': grow a plant from seed and see it 'through the rest of his life', name it, water it, record its progress, and write a mourning note if it dies. Taken past the first leaves, which the sibling unit covers, to a whole seed-to-seed cycle in Kitchen to Kitchen.",
+   "DeepKids V0.1 weekly journeys, week 7.0 'Let grow and grow': grow a plant from seed and see them 'through the rest of his life', name them, water them, record their progress, and write a mourning note if they die. Taken past the first leaves, which the sibling unit covers, to a whole seed-to-seed cycle in Kitchen to Kitchen.",
    "Founder sheets, Time row: 'Time Detective: give kids shuffled event cards (caterpillar to butterfly, baby to adult, seed to tree)', marked in the founder's review as 'sequencing works well'. Used as the Time Detective game.",
    "Founder sheets, Particles row: the building block game, rebuild a house into a human, then into a plant, marked 'brilliant metaphor'. Used in the idea that a plant is built from the same atoms that go round through air, soil and living things.",
    "Founder sheets, Sun row: 'Plant is our food. What is plant's food?' Used in the explanation that leaves make food from air and water using sunlight, and in Floating Leaves.",
@@ -4205,7 +4205,7 @@
    "Tewksbury, J. J. and Nabhan, G. P., Nature 2001: Directed deterrence by capsaicin in chillies",
    "Janzen, D. H., Annual Review of Ecology and Systematics 1976: Why bamboos wait so long to flower",
    "Darwin, C., letter to J. D. Hooker, 22 July 1879: 'an abominable mystery'",
-   "Thale cress (Arabidopsis) completing its life cycle on Salyut 7, 1982",
+   "Thale cress (Arabidopsis) completing their life cycle on Salyut 7, 1982",
    "Edmond Albius and the hand pollination of vanilla, Réunion, 1841: Tim Ecott, Vanilla: Travels in Search of the Ice Cream Orchid, 2004",
    "Yang, X. and Miyako, E., iScience 2020: soap bubble pollination",
    "OpenStax Biology 2e, Plant Structure and Function, and Concepts of Biology (reference only, for facts)"
@@ -4214,13 +4214,13 @@
  "roots": {
   "context": "We have been learning how a plant goes round from seed to flower to fruit and back to seed. Now we ask what that circle tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your tomato held perhaps 100 seeds, and one tomato plant grows dozens of tomatoes. Very few of those seeds will ever become plants. We eat most of them with the tomato, and birds, ants and mice eat seeds everywhere. So a plant makes far more seeds than it needs, and the extra feeds other living things.",
+   "truth": "Your tomato held perhaps 100 seeds, and one tomato plant grows dozens of tomatoes. Very few of those seeds will ever become plants. We eat most of them with the tomato, and birds, ants and mice eat seeds everywhere. So a plant makes far more seeds than they need, and the extra feeds other living things.",
    "habit": "We think of a seed as the start of a new plant, so a seed that never grows seems wasted. But most seeds become food instead, for birds, ants, mice and people. Rice, wheat and dal are seeds too.",
    "evidence": "In Inside the Fruit, one tomato held about 100 seeds and one bhindi about 60. One moong seed gives back about 200 seeds, yet a pot has room for only 3 or 4 plants. The Eat the Life Cycle sort shows how many of our foods are seeds."
   },
   "three": {
-   "who_am_i": "Much of your body was built from seeds you ate: rice, wheat, dal and nuts. Each one is food a plant packed for its young.",
-   "what_is_life": "A plant makes far more seeds than it needs to carry on. The extra seeds feed many other lives.",
+   "who_am_i": "Much of your body was built from seeds you ate: rice, wheat, dal and nuts. Each one is food a plant packed for their young.",
+   "what_is_life": "A plant makes far more seeds than they need to carry on. The extra seeds feed many other lives.",
    "what_is_this_world": "The air you breathe out can become part of a leaf. Plants, people and soil are built from the same atoms, passed round and round."
   },
   "thread": "A moong plant grows from one seed and gives back about 200. Only a few need to grow to keep moong going. The rest feed ants, birds and people, and the dead plant feeds the decomposers in the soil. Each plant's life cycle is joined to the lives of many others, by the food that passes between them. So one moong plant's life cycle feeds many other lives.",
@@ -4243,7 +4243,7 @@
   ],
   "science": [
    {
-    "text": "A plant builds its body mostly from carbon dioxide in the air and water, using the energy of sunlight. Very little of it comes from the soil.",
+    "text": "A plant builds their body mostly from carbon dioxide in the air and water, using the energy of sunlight. Very little of it comes from the soil.",
     "status": "settled"
    },
    {
@@ -4258,18 +4258,18 @@
   "practice": {
    "title": "A handful of seeds",
    "mins": 3,
-   "say": "Let's each hold ten moong seeds in one hand. Close your eyes and feel how light they are. Each one holds a tiny plant and its food. Now think of who eats seeds like these: you, at dinner, and the pigeons and ants outside. Breathe in slowly, and breathe out. Open your eyes and put two seeds aside to sow. Who will the other eight feed?",
+   "say": "Let's each hold ten moong seeds in one hand. Close your eyes and feel how light they are. Each one holds a tiny plant and their food. Now think of who eats seeds like these: you, at dinner, and the pigeons and ants outside. Breathe in slowly, and breathe out. Open your eyes and put two seeds aside to sow. Who will the other eight feed?",
    "kid": "Hold ten moong seeds. Close your eyes. Feel how light they are. Each one holds a tiny plant. Keep two to sow. Who will eat the other eight?"
   },
   "ask": [
    "A moong plant gives back about 200 seeds. If only a few grow into plants, what happens to the rest?",
    "When you eat dal, you are eating seeds that could have grown into plants. What did the plant pack into them?",
-   "When a moong plant dies after making seeds, has its life ended, or carried on?"
+   "When a moong plant dies after making seeds, has their life ended, or carried on?"
   ],
   "art": "A child holding a handful of moong seeds beside a moong plant, with a pigeon and a line of ants nearby, and a faint circle showing seed, plant, flower, pod and seed again."
  },
  "how_we_found_out": {
-  "story": "For a long time, most scholars in Europe did not believe that a flower needs pollen to make seeds. Farmers in ancient Iraq already knew that a date palm gives good dates only if pollen from a male tree reaches its flowers. But scholars did not think this was true of all plants. In Tübingen, in Germany, a doctor and botanist named Rudolf Jakob Camerarius tested it. He grew plants such as mulberry, maize and a small weed called annual mercury. He kept pollen away from the flowers that make seeds. A female mulberry tree with no male tree nearby made fruit, but its seeds were empty. Plants that got no pollen made no good seeds. Plants that got pollen did. In 1694 he wrote that pollen must reach a flower before it can make seeds. Other botanists argued against him for more than 30 years. Later tests, like a palm pollinated by hand in Berlin in 1749, showed he was right.",
+  "story": "For a long time, most scholars in Europe did not believe that a flower needs pollen to make seeds. Farmers in ancient Iraq already knew that a date palm gives good dates only if pollen from a male tree reaches their flowers. But scholars did not think this was true of all plants. In Tübingen, in Germany, a doctor and botanist named Rudolf Jakob Camerarius tested it. He grew plants such as mulberry, maize and a small weed called annual mercury. He kept pollen away from the flowers that make seeds. A female mulberry tree with no male tree nearby made fruit, but their seeds were empty. Plants that got no pollen made no good seeds. Plants that got pollen did. In 1694 he wrote that pollen must reach a flower before it can make seeds. Other botanists argued against him for more than 30 years. Later tests, like a palm pollinated by hand in Berlin in 1749, showed he was right.",
   "who": "Rudolf Jakob Camerarius",
   "when": "1694 (his letter on the sex of plants, published in Tübingen)",
   "wrong_idea": "That plants make seeds without pollen, and have nothing like male and female parts. Camerarius kept pollen away from mulberry, maize and annual mercury, and they made no good seeds."

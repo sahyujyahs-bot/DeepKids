@@ -155,7 +155,7 @@ Water is not only on Earth. In 2009, scientists studying data from India's first
 Every living thing needs water. More than half of your body weight is water. A newborn baby is about three-quarters water. Your blood is mostly water. It carries food and oxygen to every part of you. You lose water every day when you breathe out, sweat and go to the toilet. So you must drink to replace it. Your two kidneys are your body's own water-cleaning plant. Each day an adult's kidneys clean about 180 litres of fluid. That is about 12 buckets of 15 litres. They keep most of it, and send out the waste as urine.
 - e.g. Breathe onto a cold steel plate. The mist is water from inside you.
 - e.g. When you are thirsty, your body is telling you it needs water back.
-- e.g. A cactus lives where rain may not come for months. It stores water in its thick, fleshy stem, so it can keep living through the dry months.
+- e.g. A cactus lives where rain may not come for months. They store water in their thick, fleshy stem, so they can keep living through the dry months.
 
 ## Mostly agreed
 - Almost all the fresh water people use begins as rain. *How we know:* River levels, lake levels and well levels all rise after the monsoon and fall in the dry months. Weather stations across India measure the rain every day.
@@ -569,15 +569,15 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   *Child mode:* Long ago, a scholar called Varahamihira lived in Ujjain. He wrote about reading the land to find hidden water. Let's be land readers today!
 - **s2 (17 min) · grown-up needed**  
   *Parent does:* Walk slowly. Look for plants that stay green when the plants around them are dry. Look for damp or dark soil, moss and termite mounds. Look for low places where puddles form after rain.  
-  *Parent says:* Why would one tree be green when all the grass around it is brown? What might its roots have found?  
+  *Parent says:* Why would one tree be green when all the grass around them is brown? What might their roots have found?  
   *Child mode:* Look for green plants in dry places. Look for damp soil and moss. Look for termite mounds. Mark each one on your map.
-  - Ask: Could a green plant in a dry place have another reason to be green? (good: Someone might water it.; There could be a leaking pipe.; It might be a plant that needs little water.)
+  - Ask: Could a green plant in a dry place have another reason to be green? (good: Someone might water it.; There could be a leaking pipe.; Maybe this plant needs little water.)
   - Note: In the dry months the top soil dries out, and a shallow-rooted plant cannot reach water and turns brown. Trees such as neem, jamun and banyan send roots deep, down to damp soil, so they can keep their leaves green. Termites dry out easily, so they live where they can reach damp soil, and they build mounds from wet soil. Moss and dark soil mean water is near the surface. None of these signs is certain. Water could also come from a leaking pipe or a garden hose.
 - **s3 (5 min)**  
   *Parent does:* Back home, look at the map together. Talk about how you could test one sign fairly.  
   *Parent says:* Varahamihira's signs often work, but not always. How could we test one sign properly, to see if it is true?  
   *Child mode:* Look at your map. Pick one sign. How could you test it, to check if it is true?
-  - Check: A neem tree stays green in a dry field. What is the best way to test whether it is a sign of water? → **Check many green trees and many dry places, and see where water is really found**
+  - Check: A neem tree stays green in a dry field. What is the best way to test whether this is a sign of water? → **Check many green trees and many dry places, and see where water is really found**
 ### a6 · Carry the Morning's Water (20 min)
 - **safety:** Carry only what feels comfortable. Walk, do not run. A grown-up comes along outdoors.
 - **record:** Write how many trips it would take to carry the morning's water, and how long one trip took.
@@ -858,7 +858,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 - Tankas, kunds, johads, ponds and stepwells have stored rain in India for centuries.
 - Water testing kits check wells for germs, arsenic and fluoride.
 - Desalination plants, such as those near Chennai, take salt out of sea water.
-- Farmers use drip irrigation, which gives each plant small drops at its roots, to save water.
+- Farmers use drip irrigation, which gives each plant small drops at their roots, to save water.
 - Satellites that weigh water with gravity show where groundwater is being used up.
 - Doctors give oral rehydration solution, clean water with sugar and salt, to save people with diarrhoea.
 - Fire engines, hospitals and factories all need large stores of clean water.
