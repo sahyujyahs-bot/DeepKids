@@ -7,7 +7,7 @@ import { clamp, smooth } from "./gallery";
 // line plate slips its registration and boils, the flats breathe, as if the picture is not sure it
 // is awake. `dream` 0 = the real flat (still as a printed page), 1 = full dream.
 
-export type Sh = { pts: P[]; col: string; z?: number };
+export type Sh = { pts: P[]; col: string; z?: number; ink?: number }; // ink: outline weight in the watercolour renderer (0 = no outline)
 export type Dry = { path: P[]; w: number; col: string; seed: number };
 export type Ln = { pts: P[]; w: number; col: string; seed: number; closed?: boolean };
 export type Plate = { shapes: Sh[]; dry: Dry[]; lines: Ln[]; ops: ("s" | "d")[] };
@@ -18,7 +18,7 @@ export const plate = () => {
   const shapes: Sh[] = [], dry: Dry[] = [], lines: Ln[] = [], ops: ("s" | "d")[] = [];
   return {
     shapes, dry, lines, ops,
-    S: (pts: P[], col: string) => { shapes.push({ pts, col }); ops.push("s"); },
+    S: (pts: P[], col: string, ink?: number) => { shapes.push({ pts, col, ink }); ops.push("s"); },
     // a closed outline is densified and closed by hand, so the pen's spline never overshoots a corner
     L: (pts: P[], w = 2, col = "#1d1a17", closed = false) => { const q = closed ? dens([...pts, pts[0]], false) : pts; lines.push({ pts: q, w, col, seed: 300 + lines.length }); },
     D: (path: P[], w: number, col: string) => { dry.push({ path, w, col, seed: 700 + dry.length }); ops.push("d"); },

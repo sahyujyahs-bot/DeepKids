@@ -9,6 +9,7 @@ Source code for the launch film, drawn entirely in code with the anidoodle plugi
 - `dream.ts`: the first version of the dream scenes, now used only for the cosmos layers.
 - `cast.ts`: Amma and Kavya, one drawing used in every scene.
 - `app.ts`: the phone with the app's feature list and the Log in button.
+- `wc.ts`, `wide.ts`: the new direction, picture-book pencil and watercolour with wide cartoon scenes (look test: the kingfisher at a Kerala backwater).
 - `gouache.ts`: the shared brush kit, with the dream mode where the ink line drifts.
 - `gurukulScore.ts`: the music: the real world on Carnatic flute and drone (misra chapu, ragas Kharaharapriya and Shankarabharanam), the dream on its own cinematic piece (E lydian, celesta, harp, strings), joined with hard cuts.
 - `burr.ts`: an early test in a custom style. Superseded.
