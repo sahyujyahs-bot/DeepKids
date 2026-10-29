@@ -1,0 +1,1309 @@
+{
+ "key": "combined|sci|5|waste",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "waste",
+ "day_mins": 45,
+ "title": "Waste: what happens after the bin, and how to keep it out of the dump",
+ "source": "DeepKids Combined. Covers NIOS Class 5 Lesson 15, 'Garbage and Waste Disposal' (organic and inorganic waste, disposal and reuse, cleanliness and dustbins, harm to the environment), and goes further into rotting with and without air, dumps and methane, kinds of plastic, hazardous and electronic waste, how cities manage waste, and the people who do the work. No textbook needed.",
+ "summary": "The same peels, left for four days in an open bowl and in a sealed bag, end up very different. The sealed bag puffs up with gas and smells like a blocked drain. That is what happens to our food waste inside a city dump, and why dumps can catch fire by themselves. Your child weighs a week of the family's waste, finds the hidden numbers on plastic, makes a box for dangerous waste and sees rain carry garbage down through soil. They compare how Indore and Alappuzha handle their waste, meet the people who sort India's waste by hand, and plan how their own family can send less to the dump.",
+ "builds_on": "In the Class 3 waste rung your child buried peels and plastic in rot jars, met decomposers, sorted waste into wet, dry and hazardous, made compost and recycled paper, and learned that reducing comes first. The Class 5 microbes rung shows who the decomposers are, and the Class 5 caring for the environment rung looks at soil pollution. This rung follows waste out of the home: how it rots with and without air, what dumps do to land, water and air, kinds of plastic, hazardous and electronic waste, and how cities and workers deal with it. Later classes go on to the chemistry of plastics, sewage treatment and the circular economy.",
+ "subconcepts": [
+  "organic and inorganic waste",
+  "measuring a family's waste over a week",
+  "aerobic and anaerobic rotting",
+  "methane from buried waste, and dump fires",
+  "landfills and open dumps: leachate, collapse and blocked drains",
+  "harm from waste to soil, water, air, animals and health",
+  "burning does not destroy waste: it becomes smoke, gases and ash",
+  "kinds of plastic and the numbers in the triangle",
+  "recycling, downcycling and why most plastic is never recycled",
+  "hazardous and electronic waste at home",
+  "segregation at source and India's waste rules",
+  "the waste hierarchy: reduce, reuse, recycle, recover, dispose",
+  "how cities manage waste: Indore and Alappuzha",
+  "waste pickers, sanitation workers and the dignity of their work",
+  "in nature there is no waste: one being's leftover is another's food"
+ ],
+ "goals": [
+  "By the end your child can sort waste into organic and inorganic, and explain why plastic goes with the dry waste.",
+  "By the end your child can explain, from the air test, how rotting with air and without air differ, and why buried waste makes methane.",
+  "By the end your child can describe how open dumps harm water, air, animals and people, using the garbage heap test.",
+  "By the end your child can read plastic numbers, explain downcycling, and keep hazardous and electronic waste apart.",
+  "By the end your child can explain the waste hierarchy and segregation at source, compare two cities' ways of handling waste, and plan changes for their own home."
+ ],
+ "words": [
+  [
+   "organic waste",
+   "waste from things that were once alive, such as peels, food, leaves, paper and cotton. Decomposers can feed on it."
+  ],
+  [
+   "inorganic waste",
+   "waste from things that were never alive, such as glass, metal and stone. In sorting, plastic goes with it."
+  ],
+  [
+   "aerobic",
+   "with air. Aerobic rotting is done by microbes that use oxygen, and smells earthy."
+  ],
+  [
+   "anaerobic",
+   "without air. Anaerobic rotting is done by microbes that need no oxygen, and smells sour and rotten."
+  ],
+  [
+   "methane",
+   "a gas that burns, made by microbes in waste buried with no air. It also traps heat in the air."
+  ],
+  [
+   "landfill",
+   "a place where a city's waste is piled up and covered. Also called a dump or dumping ground."
+  ],
+  [
+   "leachate",
+   "dirty liquid that drains out of garbage when rain soaks through it"
+  ],
+  [
+   "segregation",
+   "keeping kinds of waste apart, in separate bins, from the start"
+  ],
+  [
+   "hazardous waste",
+   "waste that can hurt people, animals, soil or water, such as batteries, bulbs, medicines and paint"
+  ],
+  [
+   "e-waste",
+   "short for electronic waste: old phones, chargers, wires and anything else with a circuit or battery"
+  ],
+  [
+   "downcycling",
+   "making used material into something of lower quality, such as old bottles into carpet fibre"
+  ],
+  [
+   "waste hierarchy",
+   "the order of ways to handle waste, from best to worst: reduce, reuse, recycle and compost, recover energy, dispose"
+  ]
+ ],
+ "days": [
+  {
+   "n": 1,
+   "title": "Where does our waste go after the bin?",
+   "goal": "Recall the Class 3 waste lesson, meet organic and inorganic waste, and start the air test and the week's waste diary.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the rot jars",
+     "mins": 6,
+     "do": "Say: 'In Class 3 you buried a banana peel and a piece of milk packet in damp soil.' Ask: 'What happened to each one, and why?' Good answers: the peel went soft and black because decomposers (bacteria, fungi and earthworms) fed on it. The milk packet looked the same, because almost nothing can eat plastic. Ask: 'What are the three kinds of waste we keep apart at home?' (wet, dry and hazardous). 'Which R comes first?' (reduce, because waste that is never made needs no handling). Then say: 'This week we follow waste out of our gate, to the truck and the dump, and find out what happens there.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Organic and inorganic waste",
+     "mins": 9,
+     "do": "Say: 'Waste from things that were once alive is called organic waste. Peels, leftover food, tea leaves, flowers, paper and cotton are organic. Waste from things that were never alive is called inorganic waste. Glass, metal, stone and broken clay pots are inorganic.' Ask: 'Where does plastic go?' Let your child guess and give a reason. Then say: 'Plastic is made from oil and gas, which formed from living things that died millions of years ago. But plastic has been changed so much in factories that decomposers cannot feed on it. So in waste sorting, plastic goes with the dry, inorganic waste.' Ask: 'Name five organic and five inorganic things in our kitchen.' Good answers: onion skin, rice, a newspaper, a coconut shell, a cotton duster; a steel spoon, a glass jar, a milk packet, a battery, a tin can."
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the air test",
+     "mins": 15,
+     "do": "Do Experiment e1. Chop two big handfuls of vegetable peels into small pieces and split them into two equal heaps. Put one heap in a wide steel bowl or jar with a handful of torn dry newspaper, stir, and cover with a cloth tied with a rubber band. Put the other heap in a zip bag, press out all the air you can and seal it tight. Stand the bag on a plate. Put both in the same warm corner, out of the sun. Ask: 'Both heaps are the same peels. What will be different after four days? Which will smell worse? Why do you think so?' Write the guesses on a sheet. Say: 'We will stir the bowl every day, but we will not open the bag until Day 5.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "act",
+     "title": "Start the week's waste diary",
+     "mins": 10,
+     "do": "Do Activity a1. Set out two bags or old buckets: one marked WET for organic kitchen waste, one marked DRY for everything else that is not dangerous. Put a small box beside them marked HAZARDOUS. Tell the whole family that for six days every bit of home waste goes into one of these. Draw the diary table with your child: a row for each day, and columns for wet (kg), dry (kg) and hazardous (number of items). Ask: 'How many kilograms will our family throw out in a week? Which bag will be heavier?' Write the guesses at the top of the table.",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Where does the truck go?",
+     "mins": 5,
+     "do": "Ask: 'When the waste collector takes our bag, where does it go next? And after that?' Let your child draw a quick chain of arrows on paper. Say: 'In most Indian cities, a lot of waste still ends up on a big open dump, also called a landfill. In some cities, wet waste goes to compost yards and dry waste to sorting centres. This week we follow both roads.' Keep the drawing. You will add to it each day."
+    }
+   ],
+   "need": [
+    "two big handfuls of vegetable peels",
+    "a knife and chopping board",
+    "a wide steel bowl or jar, a cloth and a rubber band",
+    "a zip bag and a plate",
+    "some dry newspaper",
+    "two old bags or buckets and a small box",
+    "a marker",
+    "a kitchen scale, or a bathroom scale",
+    "paper and pencil"
+   ],
+   "prep": [
+    {
+     "task": "Keep two big handfuls of vegetable peels from cooking, and find a zip bag that seals tightly.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Kinds of plastic, and waste that is dangerous",
+   "goal": "Find the plastic numbers on things at home, learn recycling and downcycling, and make a safe box for hazardous waste.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Weigh yesterday's waste",
+     "mins": 5,
+     "do": "Do Activity a1. If you have a kitchen scale, weigh each bag. If you have only a bathroom scale, weigh yourself holding the bag, then without it, and subtract. Write the wet and dry weights in the diary, and count any hazardous items. Ask: 'Which bag is heavier? Why might that be?' Good answer: wet waste holds a lot of water, so it is heavy.",
+     "ref": "a1"
+    },
+    {
+     "kind": "act",
+     "title": "The plastic number hunt",
+     "mins": 15,
+     "do": "Do Activity a2. Collect ten plastic things from around the home: a water bottle, a shampoo bottle, a milk packet, a bottle cap, a curd tub, a chips packet, a piece of thermocol, a carry bag and any others. Look on the bottom or the back for a small triangle of arrows with a number from 1 to 7 inside. Say: 'The number tells recyclers what kind of plastic it is. 1 is PET, used for water bottles. 2 is HDPE, the hard plastic of shampoo bottles. 4 is LDPE, the soft plastic of milk packets. 5 is PP, used for tubs and caps. 6 is PS, which makes thermocol.' Sort the things into heaps by number, with a heap for things with no number. Ask: 'Which heap is biggest? Does the triangle mean the thing will be recycled?' Then say: 'No. The triangle only names the plastic. Whether it is recycled depends on whether someone collects and buys it.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "Recycling and downcycling",
+     "mins": 10,
+     "do": "Say: 'Glass and metal can be melted and made into new bottles and cans again and again. Paper can be recycled only a few times, because its fibres get shorter each time. Most plastic is downcycled. That means it is made into something of lower quality. Old water bottles are often made into polyester fibre for clothes, carpets and pillow filling, and that fibre is hardly ever recycled again.' Hold up the chips packet. Say: 'This shines like metal. It is made of thin layers of different plastics and aluminium stuck together, so it is very hard to separate and recycle.' Ask: 'Which of our heaps would a kabadiwala buy? Which would nobody buy?' Good answers: kabadiwalas usually buy PET bottles and hard plastic, and often milk packets. Few buy chips packets or thermocol. Say: 'In 2017, scientists in the USA worked out that only about 9 out of every 100 kilograms of plastic ever made had been recycled.'"
+    },
+    {
+     "kind": "act",
+     "title": "Make a hazardous waste box",
+     "mins": 12,
+     "do": "Do Activity a3. Say: 'Hazardous waste can hurt people, animals, soil or water. A used battery can leak harmful metals. A CFL bulb or a tube light holds a little mercury, a poisonous metal, which escapes if the glass breaks. Old medicines can poison an animal that eats them or seep into water. Old phones, chargers and wires are called e-waste, short for electronic waste. They hold copper and even tiny amounts of gold, but also harmful metals such as lead.' Take a shoebox with your child and write HAZARDOUS: DO NOT MIX on it. Look around the home together for dead batteries, a dead bulb, expired tablets and old chargers. An adult handles any bulbs and anything broken. Ask: 'Why should these never go in the dry bag?' (A waste picker sorting the bag could be cut or poisoned, and the harmful metals end up in soil and water.)",
+     "ref": "a3"
+    },
+    {
+     "kind": "exp",
+     "title": "Look at the bowl and the bag",
+     "mins": 3,
+     "do": "Do Experiment e1. Stir the open bowl with a spoon. Look at the sealed bag without opening it. Ask: 'Has the bag changed shape? Is there any liquid? Does the bowl look different?' Draw both with today's date.",
+     "ref": "e1"
+    }
+   ],
+   "need": [
+    "ten plastic things from around the home, cleaned",
+    "a shoebox and a marker",
+    "the diary and the scale"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Rotting with air and without air",
+   "goal": "Explain aerobic and anaerobic rotting and methane, and read the story of a dump that catches fire by itself.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Weigh yesterday's waste",
+     "mins": 4,
+     "do": "Do Activity a1. Weigh yesterday's wet bag and dry bag, as on Day 1, and write both numbers in the diary. Count any hazardous items and write the number. Then empty the bags into the right bins.",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "What is happening in the bag?",
+     "mins": 10,
+     "do": "Do Experiment e1. Look at the bag and the bowl side by side. In warm weather the bag has usually started to puff up and there may be brown liquid at the bottom. The bowl peels are darker and drier, and may have white fuzz. Ask: 'Nothing was put into the bag after we sealed it. So where did the gas inside come from?' Let your child think and guess. Good answer: something living inside the bag made it. Say: 'Right. The microbes on the peels are feeding, and as they feed they give off gas.' Stir the bowl. If the bag has not puffed yet, move both to a warmer spot.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Aerobic and anaerobic",
+     "mins": 10,
+     "do": "Say: 'Some microbes need oxygen from the air to feed. Rotting done by them is called aerobic rotting. It gives off carbon dioxide and water, and smells earthy, like wet soil. Other microbes can feed without any oxygen. Rotting done by them is called anaerobic rotting. It is slower, and it makes sour and rotten-smelling gases. In a big heap with no air, after some weeks, a group of microbes makes a gas called methane. Methane burns. It is the same gas as in the biogas that some villages make from cow dung for cooking.' Ask: 'Why do we stir the open bowl every day?' (to let air in, so the aerobic microbes keep working). 'Why does a closed dustbin smell so bad after a few days?' (no air reaches the bottom, so anaerobic microbes take over). Add to the arrow drawing from Day 1: 'buried in a dump with no air: makes methane'."
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Hill That Lit Itself",
+     "mins": 13,
+     "do": "Read the story aloud. It is about Selvi, a girl of ten in north Chennai, whose little brother coughs at night from the smoke of a burning garbage dump. Read slowly, and stop at the tiffin box to ask: 'Why did the lid bulge?' Then read to the end."
+    },
+    {
+     "kind": "think",
+     "title": "Talk about the story",
+     "mins": 8,
+     "do": "Ask the story questions. Listen for the link: the buried food in the dump rots with no air, like the curd rice in the tiffin, and makes gas that can burn. Then say: 'This really happens. In March 2023, a fire at the Brahmapuram dump near Kochi burned for about twelve days, and smoke spread over much of the city. Methane is also a greenhouse gas. It traps far more heat in the air than the same amount of carbon dioxide, so dumps also warm the Earth.' Ask: 'From what you have seen in our bag, what would make a dump make less methane?' Good answers: keep wet waste out of it, or let air reach it, as in a compost heap."
+    }
+   ],
+   "need": [
+    "the bowl and the bag from Day 1",
+    "the diary and the scale"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "What a dump does to land, water and air",
+   "goal": "See how rain carries garbage into the ground, learn the harm open dumps do, and meet the woman who took city waste to the Supreme Court.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Weigh yesterday's waste",
+     "mins": 4,
+     "do": "Do Activity a1. Weigh yesterday's wet bag and dry bag, as on Day 1, and write both numbers in the diary. Count any hazardous items and write the number. Then empty the bags into the right bins.",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "Rain on a garbage heap",
+     "mins": 16,
+     "do": "Do Experiment e2. Cut a plastic bottle in half. Put the top half upside down into the bottom half, like a funnel in a cup, with a piece of cloth in the neck. Fill the funnel two-thirds with soil. On top make a small heap of 'garbage': a used tea bag torn open, a spoon of turmeric, five drops of cooking oil and a few scraps of peel. Ask: 'If rain falls on this heap, what will come out at the bottom: clean water or dirty water? Why?' Pour a quarter tumbler of water slowly over the heap, like rain. Wait three minutes and look at the water in the bottom. Compare it with a second bottle that has only soil, with the same water poured through it. Say: 'The yellow, oily water is called leachate. It is rain that has soaked through garbage and carried dissolved things down with it.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Harm from open dumps",
+     "mins": 10,
+     "do": "Say: 'In a real dump, the leachate carries juices from rotting food, and also metals from batteries, paint and e-waste. It can seep down to the groundwater that wells and borewells draw from, and drain into lakes and rivers.' Then go through the other harms. 'Plastic bags blown off dumps and streets block drains, so rainwater cannot flow away. In the 2005 floods in Mumbai, blocked drains made the flooding worse. Cows, dogs and birds eat food scraps from dumps along with the plastic around them, and vets in India have found many kilograms of plastic in the stomachs of cows. Dumps grow so high that they can collapse. In 2017, part of the Ghazipur dump in Delhi slid down after heavy rain, and two people died.' Ask: 'Which of these harms could reach our family, even though the dump is far away?' Good answers: dirty groundwater, smoke from fires, floods from blocked drains, mosquitoes."
+    },
+    {
+     "kind": "think",
+     "title": "The woman who took waste to court",
+     "mins": 7,
+     "do": "Tell the story of Voice v1 in your own words: Almitra Patel, an engineer living near Bengaluru, saw that cities dumped mixed waste in the open and burned it. In 1996 she asked the Supreme Court of India to make cities collect, sort and treat waste properly. Her case led to India's first national rules for city waste in 2000, and to today's rules of 2016, which say every home must keep wet, dry and hazardous waste apart. Ask the voice question and listen for reasons.",
+     "ref": "v1"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 8,
+     "do": "Do Worksheet ws1 on the app or on paper. Your child works alone. Help only with reading the words. Check the answers together, and for the two written answers ask: 'Can you give me one more reason?'",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "two plastic bottles, a knife or scissors (adult cuts)",
+    "two small pieces of cloth",
+    "soil from an old plant pot",
+    "a used tea bag, turmeric, cooking oil, a few peels",
+    "a tumbler of water",
+    "the diary and the scale"
+   ],
+   "prep": [
+    {
+     "task": "Cut two plastic bottles in half for the funnels. Keep a used tea bag.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Burning, and the order of the Rs",
+   "goal": "Open the air test, see that burning does not make waste disappear, learn the waste hierarchy and argue about burning waste for electricity.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Weigh yesterday's waste",
+     "mins": 4,
+     "do": "Do Activity a1. Weigh yesterday's wet bag and dry bag, as on Day 1, and write both numbers in the diary. Count any hazardous items and write the number. Then empty the bags into the right bins.",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "Open the bag",
+     "mins": 6,
+     "do": "Do Experiment e1. An adult carries the bag and the bowl to a window or balcony. First smell the open bowl from a little distance: it should smell earthy or a little sour. Then the adult opens the bag away from everyone's face, and lets the child sniff from an arm's length. It smells strongly sour and rotten, like a blocked drain, and the peels have turned slimy. Ask: 'Same peels, same corner, same days. What was the only difference?' (air). Tip both into the wet waste or a compost pot and wash hands with soap.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Does burning make waste go away?",
+     "mins": 9,
+     "do": "Ask: 'When someone burns a heap of dry leaves and plastic on the street, what is left?' (a small heap of ash). 'Where did the rest go?' Let your child think. Then say: 'Nothing is destroyed. The leaves and plastic join with oxygen from the air and become smoke, carbon dioxide, water vapour and other gases. The gases weigh as much as everything that went missing from the heap. So burning moves waste into the air we breathe. Burning plastic makes thick black smoke and harmful gases that can make people ill. That is why open burning of waste is banned in India.' Ask: 'Who breathes the smoke from a heap burnt on the corner?'"
+    },
+    {
+     "kind": "talk",
+     "title": "The waste hierarchy",
+     "mins": 8,
+     "do": "Draw a ladder with five steps. Top: REDUCE. Then REUSE. Then RECYCLE and COMPOST. Then RECOVER ENERGY (burning sorted waste in a plant to make electricity). Bottom: DISPOSE (dumping in a landfill). Say: 'Waste experts call this the waste hierarchy. The higher the step, the less harm. Reducing is top because making anything, even a recycled thing, uses water, energy and materials.' Ask your child to put these on the ladder: carrying a steel water bottle, giving old clothes to a cousin, selling newspapers to the kabadiwala, composting peels, burying rubbish. Say: 'Since 1 July 2022, India has banned many single-use plastic things, such as plastic straws, cutlery, and the sticks of earbuds. Which step of the ladder is that?' (reduce)."
+    },
+    {
+     "kind": "think",
+     "title": "Burn it for electricity?",
+     "mins": 8,
+     "do": "Tell Voice v3 in your own words: some cities burn their waste in big plants to make electricity, and others say they should sort, compost and recycle instead. Read out the two sides. Ask the voice question. Then let your child choose a side, give one reason, and give the best reason the other side could say back.",
+     "ref": "v3"
+    },
+    {
+     "kind": "game",
+     "title": "Journey of a Packet",
+     "mins": 10,
+     "do": "Play Game g1 together, with the board printed or drawn on paper. Each player is a milk packet trying to reach HOME, where it is made into something new. When a player lands on a square, they read it aloud and say why it moves them forward or back.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "the bowl and the bag from Day 1",
+    "soap",
+    "the printed game board, a die and a counter for each player",
+    "the diary and the scale"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The people who carry our waste",
+   "goal": "Meet the waste pickers and sanitation workers who keep cities working, learn about Bezwada Wilson, and turn scraps into something new.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Weigh yesterday's waste",
+     "mins": 4,
+     "do": "Do Activity a1. Weigh yesterday's wet bag and dry bag, as on Day 1, and write both numbers in the diary. Count any hazardous items and write the number. Then empty the bags into the right bins. This is the last weighing.",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Who sorts India's waste?",
+     "mins": 10,
+     "do": "Ask: 'When we sell newspapers to the kabadiwala, where do they go next?' Say: 'The kabadiwala sells them to a bigger dealer, who sells them to a paper mill. Much of the plastic, metal and glass that gets recycled in India is first picked out of bins and dumps by hand by waste pickers. They are often women and children. They work without gloves, among glass and rotting food, and are paid very little for each kilogram.' Then say: 'Some have formed groups to work with cities. In Pune, the waste pickers' cooperative SWaCH collects waste from homes. In Kerala, teams of women called the Haritha Karma Sena collect dry waste from homes for a small fee and send it for recycling.' Ask: 'What would happen to our city if every waste picker stopped working for one month?' Good answers: much less would be recycled, and more would go to dumps."
+    },
+    {
+     "kind": "think",
+     "title": "Bezwada Wilson",
+     "mins": 9,
+     "do": "Tell the story of Voice v2 in your own words, gently. Bezwada Wilson grew up in Kolar Gold Fields in Karnataka. His family belonged to a community forced for generations into manual scavenging: cleaning human waste from dry toilets and sewers by hand. He decided this work must end. He helped start the Safai Karmachari Andolan, a movement of the workers themselves, which helps people leave the work and pushes the government to keep its own law. Say: 'India banned this work in 1993 and again in 2013, but people still die cleaning sewers by hand.' Ask the voice question and let your child answer without hurry.",
+     "ref": "v2"
+    },
+    {
+     "kind": "act",
+     "title": "Waste is not a waste",
+     "mins": 14,
+     "do": "Do Activity a4. Say: 'Some people try to live with zero waste: almost nothing they use goes to a dump.' Put out scraps: old cloth pieces, dried flowers, bottle caps, old greeting cards, a cardboard box. Let your child make anything they choose, such as a bookmark, a coaster, a cloth doll or a pencil stand. If they are stuck, suggest a bookmark from a card strip with cloth glued on. Ask while they work: 'What was this before? What else could it become?'",
+     "ref": "a4"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 8,
+     "do": "Do Worksheet ws2. Your child works alone. Then read the two written answers together and ask: 'What would the other side say?'",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "cloth scraps, dried flowers, bottle caps, old cards, a cardboard box",
+    "glue, scissors, a needle and thread",
+    "the diary and the scale"
+   ],
+   "prep": [
+    {
+     "task": "Collect a small bag of clean scraps: cloth, old cards, bottle caps, dried flowers.",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "How a city deals with its waste",
+   "goal": "Add up the family's week of waste, compare two Indian cities, learn the rules on segregation, and start the Reduce Waste at Home project.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Add up the week",
+     "mins": 8,
+     "do": "Do Activity a1. Add up the six wet weights and the six dry weights. Ask: 'What is our total? How many kilograms a day, on average?' (Divide the total by 6.) 'What part of it was wet?' Then ask: 'If every one of the 30 families in our building threw out the same, how much would the building make in a day?' Multiply together. Compare the totals with the guesses from Day 1.",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Two cities, two ways",
+     "mins": 12,
+     "do": "Say: 'Indore, in Madhya Pradesh, came first in India's yearly cleanliness survey every year from 2017 to 2023. Trucks go to every home, and the waste must be handed over already sorted. The city cleared its old dump and built big plants, including one that turns wet waste into gas fuel for some city buses.' Then say: 'Alappuzha, a town in Kerala, closed its overflowing dump in 2012 after people living near it protested. Instead of one big plant, wet waste is handled close to where it is made. Most homes compost it or put it in a small biogas plant, and there are shared compost units in the town. In 2017 the United Nations Environment Programme named Alappuzha one of five cities in the world that manage waste well.' Then say: 'In the national cleanliness survey of 2017, Alappuzha came far down the list. Some people said the survey gave more marks for big central systems.' Ask: 'How can a town be praised by one group and ranked low by another? What would you want to know about how the marks were given?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Segregation at source",
+     "mins": 6,
+     "do": "Say: 'Segregation means keeping kinds of waste apart. At source means right where the waste is made, in our home. India's Solid Waste Management Rules of 2016 say every household must keep wet, dry and hazardous waste apart and hand them over separately.' Ask: 'Both Indore and Alappuzha depend on one thing done in every home. What is it?' (sorting at home). 'Why does mixing ruin everything?' Good answers: wet waste makes dry waste dirty, so paper and plastic cannot be recycled, and dry waste in wet waste spoils the compost."
+    },
+    {
+     "kind": "act",
+     "title": "Start the Reduce Waste at Home project",
+     "mins": 19,
+     "do": "Start the project. On a sheet, write PROBLEM at the top. With your child, write one or two sentences from your diary, for example: 'Our family threw out 9 kg in six days. Most of the dry waste was milk packets and wrappers.' Then write SOLUTIONS. Choose three changes the family can really keep for the next week, for example: compost the wet waste in a pot, carry cloth bags to the vegetable shop, buy rice and dal loose in our own steel tins, refuse straws. Write who will do each one. Then make a new diary table, ready for next week.",
+     "ref": "a1"
+    }
+   ],
+   "need": [
+    "the diary with six days of weights",
+    "paper, pencil and a calculator if wanted"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Waste in nature, and teach it back",
+   "goal": "See that nature runs in loops, test what has been learned, and teach it back at a family meeting.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Is there waste in a forest?",
+     "mins": 8,
+     "do": "Ask: 'A forest drops tonnes of leaves, dung and dead animals every year. Why is there no garbage dump in a forest?' Let your child think. Then say: 'Everything a forest drops is food for someone. Dung beetles roll and bury elephant dung. Termites eat dead wood. Fungi and bacteria rot fallen leaves, and plants take up what is left. One being's leftover is another being's meal. So in nature, nothing is waste. Most of our waste is made of things no being has learned to use yet, or useful things mixed into a heap.' Ask: 'Which of our waste fits into a loop like this?' (the wet waste, through compost)."
+    },
+    {
+     "kind": "review",
+     "title": "Project: plan the week",
+     "mins": 6,
+     "do": "Look at the project sheet from Day 7. Under OBSERVATIONS, write what happened on the first day of the new plan, for example: 'Took a cloth bag to the shop. Came home with no carry bags.' Say: 'Next week we weigh again. Then we write OUTCOMES: did our waste go down, and which change worked best?'",
+     "ref": "a1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Do Worksheet ws3. These questions are harder. Let your child use the diary and the notes from the week. Talk through the written answers together.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 10,
+     "do": "Ask the check questions aloud. Accept answers in your child's own words if the idea is right. Go back to any idea that is shaky, and find the day where it came up."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back: the family waste meeting",
+     "mins": 9,
+     "do": "Your child calls a short family meeting and teaches the family three things they found this week: what happened in the sealed bag and why, what a dump does to water and air, and the three changes in the family's plan. They show the diary and the bag drawings. Each person in the family promises one change for next week."
+    }
+   ],
+   "need": [
+    "the project sheet and the diary",
+    "the bag and bowl drawings"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Organic waste, inorganic waste and the dump",
+   "day": 4,
+   "sections": [
+    [
+     "A. Kinds of waste",
+     [
+      {
+       "t": "sort",
+       "p": "Sort these into organic waste and inorganic waste.",
+       "items": [
+        "a banana peel",
+        "a glass bottle",
+        "a cotton rag",
+        "a steel spoon",
+        "leftover rice",
+        "a broken clay pot"
+       ],
+       "cats": [
+        "organic",
+        "inorganic"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Plastic is made from oil, and oil formed from living things long ago. Why does plastic still go with the dry waste?",
+       "opts": [
+        "Decomposers cannot feed on it.",
+        "Plastic is too light to rot.",
+        "Plastic is not made of anything."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Rotting that happens with plenty of air is called ____ rotting.",
+       "a": [
+        "aerobic"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. With air and without air",
+     [
+      {
+       "t": "mcq",
+       "p": "Meena put chopped peels in an open bowl and the same peels in a sealed bag. After four days the bag had puffed up. Why?",
+       "opts": [
+        "Microbes feeding without air made gas.",
+        "The plastic bag grew bigger in the heat.",
+        "Air leaked into the bag from outside."
+       ],
+       "a": 0,
+       "how": "e1"
+      },
+      {
+       "t": "match",
+       "p": "Match each word to what it means.",
+       "pairs": [
+        [
+         "aerobic rotting",
+         "rotting with air, smells earthy"
+        ],
+        [
+         "anaerobic rotting",
+         "rotting without air, smells sour and rotten"
+        ],
+        [
+         "methane",
+         "a gas that burns, made in dumps"
+        ],
+        [
+         "leachate",
+         "dirty liquid that drains out of garbage"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A big dump can catch fire on a hot day even when nobody lights it. What is the main reason?",
+       "opts": [
+        "Buried wet waste rots without air and makes methane, which burns, and the heap gets hot.",
+        "The dump is made mostly of dry wood.",
+        "Plastic catches fire by itself at room temperature."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. The dump",
+     [
+      {
+       "t": "mcq",
+       "p": "Anjali poured water over turmeric, tea leaves and oil on top of soil in a bottle funnel. The water that came out was yellow and oily. What does this show?",
+       "opts": [
+        "Rain carries dissolved things from garbage down through soil.",
+        "Soil turns water yellow.",
+        "Rain makes garbage clean."
+       ],
+       "a": 0,
+       "how": "e2"
+      },
+      {
+       "t": "fill",
+       "p": "A place where a city's waste is piled up and covered is called a ____.",
+       "a": [
+        "landfill",
+        "dump",
+        "dumping ground"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Divya's building puts all its waste into one big bin. What goes wrong when wet and dry waste are mixed? Give two reasons.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Imagine a friend who has never seen a dump. Explain to them how a dump can make the water in a well far away unsafe.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Plastic, dangerous waste and burning",
+   "day": 6,
+   "sections": [
+    [
+     "A. Plastic and recycling",
+     [
+      {
+       "t": "match",
+       "p": "Match each plastic number to a thing often made from it.",
+       "pairs": [
+        [
+         "1 (PET)",
+         "water bottles"
+        ],
+        [
+         "2 (HDPE)",
+         "shampoo bottles"
+        ],
+        [
+         "4 (LDPE)",
+         "milk packets"
+        ],
+        [
+         "6 (PS)",
+         "thermocol"
+        ]
+       ],
+       "how": "a2"
+      },
+      {
+       "t": "mcq",
+       "p": "A plastic bottle has a triangle of arrows with the number 1 inside. What does the triangle tell you?",
+       "opts": [
+        "What kind of plastic it is.",
+        "That it will surely be recycled.",
+        "That it rots in soil."
+       ],
+       "a": 0,
+       "how": "a2"
+      },
+      {
+       "t": "mcq",
+       "p": "Why are shiny chips packets very hard to recycle?",
+       "opts": [
+        "They are thin layers of different plastics and aluminium stuck together.",
+        "They are too small to pick up.",
+        "They rot too quickly."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "When old bottles are made into something of lower quality, like fibre for a carpet, it is called ____.",
+       "a": [
+        "downcycling"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Dangerous waste",
+     [
+      {
+       "t": "sort",
+       "p": "Which of these must go in the hazardous box, and which can go in the dry bag?",
+       "items": [
+        "a used battery",
+        "a dead CFL bulb",
+        "tablets past their date",
+        "an old phone charger",
+        "a newspaper",
+        "an empty steel tin"
+       ],
+       "cats": [
+        "hazardous box",
+        "dry bag"
+       ],
+       "how": "a3"
+      },
+      {
+       "t": "mcq",
+       "p": "Why must a CFL bulb never be broken in a dustbin?",
+       "opts": [
+        "It holds a little mercury, a poisonous metal.",
+        "It will light up again.",
+        "Its glass will rot."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Burning and people",
+     [
+      {
+       "t": "mcq",
+       "p": "A big heap of dry leaves is burnt. Only a small heap of grey ash is left. Where did the rest go?",
+       "opts": [
+        "Into the air as smoke and gases.",
+        "It was destroyed and became nothing.",
+        "It sank into the ground."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The order that puts reduce first and dumping last is called the waste ____.",
+       "a": [
+        "hierarchy",
+        "ladder"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Kavya says, 'Burning the street's waste is good, because then it is gone.' Farhan says, 'Burning only moves the waste into the air.' Who do you agree with? Give evidence from this week. Then write one thing the other person could say back.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Waste pickers pick out the plastic, paper and metal that can be sold. How does their work help your city? Why do you think they are often paid so little?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Numbers, cities and loops",
+   "day": 8,
+   "sections": [
+    [
+     "A. Think with numbers",
+     [
+      {
+       "t": "mcq",
+       "p": "Meenakshi's family throws out 1 kg of wet waste every day. About how much is that in a year?",
+       "opts": [
+        "365 kg",
+        "36 kg",
+        "12 kg"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "On Lakshmi's street, 100 families each throw out 2 kg of waste a day. The street throws out ____ kg a day.",
+       "a": [
+        "200"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Arjun's family threw out 10 kg of waste in a week, and 6 kg of it was wet. If they compost all the wet waste, how much of their waste stops going to the dump?",
+       "opts": [
+        "more than half",
+        "less than a quarter",
+        "none of it"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Cities and people",
+     [
+      {
+       "t": "mcq",
+       "p": "Alappuzha, a town in Kerala, closed its dump in 2012. What does the town do with most wet waste now?",
+       "opts": [
+        "Homes and neighbourhoods compost it or make biogas near where it is made.",
+        "It sends it to a dump in another state.",
+        "It burns it every night."
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each one to what they are known for.",
+       "pairs": [
+        [
+         "Indore",
+         "trucks collect sorted waste from every home and take it to big plants"
+        ],
+        [
+         "Alappuzha",
+         "most wet waste is composted at home or nearby"
+        ],
+        [
+         "Almitra Patel",
+         "took the problem of city waste to the Supreme Court"
+        ],
+        [
+         "Bezwada Wilson",
+         "fights to end manual scavenging"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Put each action on the right step of the waste hierarchy.",
+       "items": [
+        "carrying a steel tiffin instead of buying food in a packet",
+        "keeping dal in an old jam jar",
+        "selling newspapers to the kabadiwala",
+        "burning sorted dry waste in a plant to make electricity",
+        "tipping rubbish onto a landfill"
+       ],
+       "cats": [
+        "reduce",
+        "reuse",
+        "recycle",
+        "recover energy",
+        "dispose"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why does a dump make much more methane than a compost heap that is turned every week?",
+       "opts": [
+        "In the dump, wet waste is buried without air. Turning the compost lets air in.",
+        "Compost heaps have no microbes.",
+        "Dumps are colder than compost heaps."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Big thinking",
+     [
+      {
+       "t": "write",
+       "p": "Indore came first in India's cleanliness survey. In the 2017 survey Alappuzha came far down the list, though the United Nations praised the town that same year. How can both be true? What would you want to know about how the survey gave marks?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "A shop sells a carry bag marked 'biodegradable'. Plan a fair test to find out whether it rots in a home compost pot. What will you compare it with, and what will you keep the same?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Design a chips packet or a toy that would fit into nature's loop. What would you make it from, and what would happen to it after it is thrown away?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The air test: peels with air and without air",
+   "day": 1,
+   "question": "Do the same peels rot in the same way when they have air and when they are sealed away from air?",
+   "need": [
+    "two big handfuls of vegetable peels, chopped small",
+    "a wide steel bowl or jar",
+    "a handful of torn dry newspaper",
+    "a cloth and a rubber band",
+    "a zip bag that seals tightly",
+    "a plate",
+    "a spoon"
+   ],
+   "steps": [
+    "Split the chopped peels into two equal heaps.",
+    "Bowl: mix one heap with the torn newspaper in the bowl. Cover with the cloth and tie it with the rubber band, to keep flies out.",
+    "Bag: put the other heap in the zip bag. Press out as much air as you can and seal it. Stand it on a plate in case it leaks.",
+    "Put both in the same warm corner, out of direct sun.",
+    "Every day, lift the cloth and stir the bowl with a spoon. Look at the bag but do not open it. Draw both with the date.",
+    "On Day 5, an adult opens the bag at a window or on the balcony, away from faces. Smell both from an arm's length.",
+    "Tip both into the wet waste or a compost pot and wash hands with soap."
+   ],
+   "setup": [
+    {
+     "art": "Chopped vegetable peels split into two equal heaps on a chopping board, with a steel bowl and a zip bag beside them.",
+     "caption": "1. Split the peels into two equal heaps."
+    },
+    {
+     "art": "A steel bowl of peels and torn newspaper covered with a cloth and rubber band, next to a sealed flat zip bag of peels on a plate.",
+     "caption": "2. One heap in an open bowl with paper, one in a sealed bag."
+    },
+    {
+     "art": "The same bowl with darker, drier peels, next to the zip bag now puffed up like a pillow with brown liquid at the bottom.",
+     "caption": "3. After a few days the sealed bag puffs up."
+    }
+   ],
+   "predict": "Ask your child to guess first: which heap will change shape, and which will smell worse? Ask why, and write the guesses down.",
+   "observe": "Look for: the bag puffing up with gas, brown liquid collecting in the bag, and how each heap smells when opened. Usually the bowl peels turn darker and drier, may grow white fuzz, and smell earthy or only a little sour. The bag peels turn slimy and smell strongly sour and rotten.",
+   "why": "Microbes live on every peel. In the bowl, stirring lets air in, so microbes that use oxygen do most of the feeding. This aerobic rotting gives off carbon dioxide and water, and smells mild. In the sealed bag, the little oxygen is used up within a day. Then microbes that can feed without oxygen take over. This anaerobic rotting gives off gas that puffs up the bag, and makes sour, rotten-smelling substances. In a small bag over a few days the gas is mostly carbon dioxide. In a huge buried dump, over weeks and months, other microbes make large amounts of methane, a gas that burns and traps heat in the air. That is why compost heaps are turned to let air in.",
+   "safety": "An adult opens the bag, outdoors or at a window, away from everyone's face. Do not breathe the gas deeply. Wash hands with soap after touching the peels. If the bag swells very tight, open it early, the same way.",
+   "time": "15 min to set up, 3 min looks on Days 2 and 3, 6 min to open on Day 5. In cold weather the bag may need two or three more days."
+  },
+  {
+   "id": "e2",
+   "title": "Rain on a garbage heap",
+   "day": 4,
+   "question": "What happens to rain that falls on a heap of garbage?",
+   "need": [
+    "two plastic bottles cut in half (adult cuts)",
+    "two small pieces of cloth",
+    "soil from an old plant pot",
+    "a used tea bag",
+    "a spoon of turmeric",
+    "five drops of cooking oil",
+    "a few peel scraps",
+    "a tumbler of water"
+   ],
+   "steps": [
+    "Put a piece of cloth in the neck of each top half. Turn each top half upside down into its bottom half, like a funnel in a cup.",
+    "Fill both funnels two-thirds full with soil.",
+    "On one funnel only, make a small heap of 'garbage': the tea leaves from the torn tea bag, the turmeric, the oil drops and the peel scraps.",
+    "Pour a quarter tumbler of water slowly over each funnel, like rain.",
+    "Wait three minutes. Hold both bottoms up to the light and compare the water.",
+    "Throw the water away. Do not drink it."
+   ],
+   "setup": [
+    {
+     "art": "A plastic bottle cut in half, the top half turned upside down into the bottom half with cloth in the neck and soil inside.",
+     "caption": "1. Make a funnel of soil in a cut bottle."
+    },
+    {
+     "art": "The soil funnel with a small heap of turmeric, tea leaves, peel scraps and oil drops on top, beside a second funnel of plain soil.",
+     "caption": "2. Put 'garbage' on one funnel. Leave the other plain."
+    },
+    {
+     "art": "Water being poured from a steel tumbler onto the garbage heap, with yellow, oily water dripping into the bottle below, beside clearer water under the plain funnel.",
+     "caption": "3. Pour water like rain, and compare what drips out."
+    }
+   ],
+   "predict": "Ask your child to guess first: will the water that drips out under the garbage be clean? Will soil clean it? Why do you think so?",
+   "observe": "The water under the garbage heap usually comes out yellow or brown, sometimes with an oily film. The water under plain soil comes out a little brown but much clearer.",
+   "why": "Rain soaks through garbage and dissolves colours, oils and the juices of rotting food. Soil and cloth catch solid bits, but they cannot catch what is dissolved. This dirty liquid is called leachate. Under a real dump, leachate also carries harmful metals from batteries, paint and e-waste. It seeps down to groundwater, which wells and borewells draw up, and drains into lakes and rivers. A properly built landfill has a thick lining under it and pipes to collect the leachate, but many Indian dumps have none.",
+   "safety": "Use only turmeric, tea, oil and peels, never real chemicals or batteries. An adult cuts the bottles. Throw the water away afterwards.",
+   "time": "16 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The week's waste diary",
+   "day": 1,
+   "mins": 10,
+   "need": [
+    "two old bags or buckets marked WET and DRY",
+    "a small box marked HAZARDOUS",
+    "a kitchen scale, or a bathroom scale",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Tell the whole family that for six days every bit of home waste goes into the WET bag, the DRY bag or the HAZARDOUS box.",
+    "Draw a table with a row for each day and columns for wet (kg), dry (kg) and hazardous (items).",
+    "Write the family's guesses for the week's total at the top.",
+    "Each day, weigh each bag. With a bathroom scale, weigh yourself holding the bag, then without it, and subtract.",
+    "Write the numbers in the table, then empty the bags into the right bins.",
+    "On Day 7, add up each column, find the average for one day, and compare with the guesses."
+   ],
+   "setup": [
+    {
+     "art": "Two old buckets marked WET and DRY and a small shoebox marked HAZARDOUS in a kitchen corner.",
+     "caption": "1. Two bags and a box for every bit of waste."
+    },
+    {
+     "art": "A child holding a bag of peels on a small kitchen scale while a parent writes in a table on paper.",
+     "caption": "2. Weigh each bag every day and write it down."
+    }
+   ],
+   "outcome": "A table of six days of your family's real waste, with totals and a daily average, used for the maths on Day 7 and the project."
+  },
+  {
+   "id": "a2",
+   "title": "The plastic number hunt",
+   "day": 2,
+   "mins": 15,
+   "need": [
+    "ten clean plastic things from home, such as a water bottle, a shampoo bottle, a milk packet, a bottle cap, a curd tub, a chips packet, thermocol and a carry bag",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Lay the ten things on the floor.",
+    "Look on the bottom or the back of each for a triangle of arrows with a number from 1 to 7.",
+    "Write each thing's name and number. Write 'none' if there is no number.",
+    "Sort them into heaps by number.",
+    "Put a tick next to the ones a kabadiwala would usually buy."
+   ],
+   "setup": [
+    {
+     "art": "A close-up of the bottom of a plastic bottle showing a small triangle of arrows with the number 1 inside and the letters PET below.",
+     "caption": "Look for the triangle and the number."
+    }
+   ],
+   "outcome": "Your child can read plastic numbers and knows that the triangle names the kind of plastic. It does not promise the plastic will be recycled."
+  },
+  {
+   "id": "a3",
+   "title": "A hazardous waste box",
+   "day": 2,
+   "mins": 12,
+   "adult": true,
+   "need": [
+    "a shoebox",
+    "a marker",
+    "dead batteries, a dead bulb, expired tablets, old chargers or wires, if you have them"
+   ],
+   "steps": [
+    "Write HAZARDOUS: DO NOT MIX on the box.",
+    "Search the home together for dead batteries, dead bulbs, expired medicines and old chargers.",
+    "An adult picks up any bulb or tube light, keeps it whole, and wraps it in newspaper.",
+    "Put everything in the box and keep it on a high shelf, away from small children.",
+    "Ask your building or city corporation when they collect hazardous waste or e-waste, and hand the box over then, kept separate from other waste."
+   ],
+   "setup": [
+    {
+     "art": "A shoebox marked HAZARDOUS: DO NOT MIX holding dead batteries, a bulb wrapped in newspaper, a strip of old tablets and a tangled phone charger.",
+     "caption": "Keep hazardous waste apart, in one marked box."
+    }
+   ],
+   "outcome": "A safe box that keeps batteries, bulbs, medicines and e-waste out of the dry bag, so waste pickers and soil are not harmed."
+  },
+  {
+   "id": "a4",
+   "title": "Waste is not a waste",
+   "day": 6,
+   "mins": 14,
+   "need": [
+    "clean scraps: cloth pieces, dried flowers, bottle caps, old greeting cards, cardboard",
+    "glue, scissors, a needle and thread"
+   ],
+   "steps": [
+    "Spread the scraps on a newspaper.",
+    "Let your child choose what to make: a bookmark, a coaster, a cloth doll, a pencil stand or anything else.",
+    "If they are stuck, cut a strip of old card and glue cloth pieces and a dried flower on it for a bookmark.",
+    "When it is done, ask them to tell you what each part was before."
+   ],
+   "setup": [
+    {
+     "art": "A child's hands gluing small pieces of patterned cloth and a dried marigold onto a strip of old greeting card to make a bookmark.",
+     "caption": "Old scraps become something new."
+    }
+   ],
+   "outcome": "Something useful or beautiful made from things that would have been thrown out."
+  }
+ ],
+ "project": {
+  "title": "Reduce Waste at Home",
+  "days": [
+   7,
+   8
+  ],
+  "steps": [
+   "PROBLEM: write one or two sentences from the week's waste diary about how much your family threw out and what most of it was.",
+   "SOLUTIONS: choose three changes your family can really keep for a week, and write who will do each one.",
+   "OBSERVATIONS: each day of the next week, write one line on what happened, and weigh the wet and dry bags again.",
+   "OUTCOMES: at the end of the week, compare the new totals with the first week. Which change cut the most? Which was hardest to keep?",
+   "Draw a bar for each week's total, side by side.",
+   "Share the page with one neighbour or with your building group."
+  ],
+  "outcome": "A one-page report in four parts, problem, solutions, observations and outcomes, showing whether your family's changes cut its waste."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Journey of a Packet",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the board printed on one A4 page, or drawn on paper",
+   "a die",
+   "a small counter for each player, such as a bottle cap"
+  ],
+  "rules": [
+   "Each player is an empty milk packet. Everyone starts on START.",
+   "Take turns to roll the die and move your counter that many squares.",
+   "Read the square aloud and do what it says. Then say in one sentence why it moves you forward or back.",
+   "On a QUESTION square, another player asks the question. A good answer moves you 1 square forward.",
+   "A move back never takes you behind START.",
+   "The first packet to reach HOME has been made into something new and wins. Keep playing until everyone is home."
+  ],
+  "squares": [
+   "START: thrown out at home",
+   "Rinsed and dried: move ahead 2",
+   "Put in the dry bin",
+   "Mixed with fish bones and rice: go back to START",
+   "Collected by the waste truck",
+   "Picked out by a waste picker: move ahead 2",
+   "Thrown in the canal: miss a turn",
+   "Blocks a drain in the rain: go back 2",
+   "QUESTION: why does mixing spoil waste?",
+   "Sold to the kabadiwala: move ahead 1",
+   "Eaten by a cow with food scraps: go back 3",
+   "Sorted with other milk packets",
+   "Burnt on the street corner: go back 4",
+   "Washed and shredded at the recycler",
+   "QUESTION: name two hazardous wastes",
+   "Dumped on the landfill: go back to square 5",
+   "Melted into small pellets",
+   "Made into a strong new bag",
+   "QUESTION: what is leachate?",
+   "Reused for shopping ten times: move ahead 1",
+   "HOME: made into something new"
+  ]
+ },
+ "big": [
+  "To a dung beetle, dung is dinner. To us, it is waste. Is anything really waste, or only waste to someone?",
+  "If our waste goes to a hill near someone else's home, who should decide where the hill goes?",
+  "The people who clean up after a city are often paid the least. What would a fair city look like?",
+  "Is it better for every home to compost its own waste, or for the city to do it in one big plant?",
+  "If a thing will last 500 years, should we use it for five minutes?"
+ ],
+ "challenge": [
+  {
+   "q": "If a plastic thing has the triangle of arrows on it, it will be recycled.",
+   "hint": "The triangle with a number only tells recyclers what kind of plastic it is. Whether it is recycled depends on whether someone collects it, cleans it and can sell it. Many plastics with a number are never recycled. Ask: who decided to put a sign that looks like recycling on things that may never be recycled?"
+  },
+  {
+   "q": "Burning waste makes it disappear.",
+   "hint": "Matter is never destroyed. Burnt waste joins with oxygen and becomes smoke, carbon dioxide, water vapour and other gases, plus a small heap of ash. The gases weigh as much as everything that went missing. Ask: if you could catch all the smoke from a burning heap, what would you find in it?"
+  },
+  {
+   "q": "A bag marked 'biodegradable' rots away in a home compost pot.",
+   "hint": "Many such bags are made to break down only in big industrial compost plants, which stay at around 55 to 60 degrees Celsius for weeks. In a home pot, in soil or in the sea, some last for years. Ask: how would you test a bag's claim at home?"
+  },
+  {
+   "q": "India's waste problem is caused by people who drop litter.",
+   "hint": "Litter is part of it. But much of our dry waste is packaging that companies chose to make, often from plastics that are hard to recycle. India's plastic waste rules now say companies must arrange to collect back plastic packaging they put on the market. This is called extended producer responsibility. Ask: who should pay to deal with a chips packet: the person who ate the chips, the company that made the packet, or the city?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A black kite circling over the dump",
+   "view": "Black kites gather over dumps in many Indian cities, because food scraps are easy to find there. To the kite, the dump is a good place to eat, though they also swallow plastic and string. Ask: is the dump good or bad for the kites? How could you find out?"
+  },
+  {
+   "who": "A cow on a street in Hyderabad",
+   "view": "A cow smells food inside a tied plastic bag and eats bag and all. Plastic cannot be digested, so it stays in the stomach, and over years many kilograms can collect. Ask: whose fault is it when a cow eats plastic: the cow's, the owner's, or the person who threw the bag?"
+  },
+  {
+   "who": "A waste picker in Bengaluru",
+   "view": "She starts at dawn and can tell at a glance which plastic sells and which does not. She knows more about the city's waste than most engineers do, but she is rarely asked. Ask: whose knowledge counts when a city plans what to do with waste?"
+  },
+  {
+   "who": "An earthworm in a compost pot",
+   "view": "To the earthworm, the family's peels are the best part of the week. Earthworms eat rotting peels and leave behind castings, which are rich food for plants. Ask: who is really doing the work in a compost pot?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Almitra Patel, an engineer living near Bengaluru, India",
+   "idea": "In the 1990s she studied how Indian cities dealt with their waste. She found that most of them dumped mixed garbage in the open, often near homes and water, and burned it. In 1996 she filed a public interest case in the Supreme Court of India, asking that cities be made to collect, sort and treat their waste properly.",
+   "then": "The court set up a committee to study the problem across India. Its work led to the country's first national rules for city waste, in 2000. They told cities to collect waste, encourage sorting and compost the wet part, instead of only dumping it.",
+   "now": "In 2016 the rules were replaced by the Solid Waste Management Rules, which say every household must keep wet, dry and hazardous waste apart. Many cities still fall short, but her case is widely seen as a turning point for waste in India.",
+   "status": "accepted",
+   "ask": "Since 2016 the law has said every home must sort its waste, but many homes still don't. What really makes people change a habit: a law, a fine, a reason they understand, or seeing their neighbours do it? What worked in our home this week?",
+   "day": 4
+  },
+  {
+   "id": "v2",
+   "who": "Bezwada Wilson (born 1966), Kolar Gold Fields, Karnataka, India",
+   "idea": "Wilson's family belonged to a community that had been forced for generations into manual scavenging: cleaning human waste from dry toilets and sewers by hand. As a young man he decided this work must end. He helped start the Safai Karmachari Andolan, a movement of the workers themselves. It finds people still doing the work, helps them leave it, and pushes the government to keep its own law.",
+   "then": "India had banned employing people as manual scavengers in 1993, but the work went on, and officials often said it did not exist. The movement collected evidence: names, places and photographs.",
+   "now": "A stronger law was passed in 2013. In 2016 Wilson received the Ramon Magsaysay Award. People still die cleaning sewers by hand in India, and the movement keeps a record of their names. Almost everyone now agrees the work must end. The open question is why it has not ended, when machines can do it.",
+   "status": "accepted",
+   "ask": "The people who clean up after a city are often treated with the least respect. Why do you think that is? If you could thank one person who handles our waste, who would it be, and what would you say?",
+   "day": 6
+  },
+  {
+   "id": "v3",
+   "who": "The waste-to-energy debate: should cities burn waste to make electricity?",
+   "idea": "Some cities, in India and abroad, burn their waste in large plants to make electricity. Supporters say this shrinks the waste to a small heap of ash, saves land for dumps and gives power. Plants in countries such as Sweden and Japan burn sorted, dry waste and clean the smoke with strong filters.",
+   "then": "Critics, including many Indian waste experts, point out that Indian city waste is mostly wet kitchen waste, which burns poorly. People living near some plants have complained about smoke and ash. Burning also destroys paper and plastic that could have been recycled, and the people who earn a living by sorting it.",
+   "now": "Experts broadly agree on the waste hierarchy: reduce, reuse, recycle and compost first, recover energy next, and dump last. How much a city should burn is still argued, and depends on its waste, its money and how well it controls pollution.",
+   "status": "debated",
+   "ask": "Imagine you are the mayor. What would you want to measure about your city's waste before deciding whether to build a waste-burning plant?",
+   "day": 5
+  }
+ ],
+ "books": [
+  {
+   "title": "What a Waste: Trash, Recycling, and Protecting Our Planet",
+   "author": "Jess French",
+   "for": "read alone",
+   "age": "7–10",
+   "why": "Clear pages, with pictures, on where rubbish goes, plastic in the sea, recycling and what children can do."
+  },
+  {
+   "title": "Plastic Sucks! You Can Make a Difference",
+   "author": "Dougie Poynter",
+   "for": "read alone",
+   "age": "8–12",
+   "why": "Why plastic lasts so long, where it ends up, and practical ideas for using less of it."
+  },
+  {
+   "title": "The Story of Stuff",
+   "author": "Annie Leonard",
+   "for": "parent reads",
+   "age": "adult, parts read aloud",
+   "why": "Follows things from mine and forest to factory, shop, home and dump. The parent can read short parts aloud on the hierarchy and on burning."
+  },
+  {
+   "title": "Garbology: Our Dirty Love Affair with Trash",
+   "author": "Edward Humes",
+   "for": "parent reads",
+   "age": "adult",
+   "why": "A journalist follows rubbish to the biggest landfills and meets people who make almost none. For the parent, with stories to retell."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is the difference between organic and inorganic waste? Give two examples of each.",
+   "a": "Organic waste comes from things that were once alive, such as peels and paper, and decomposers can feed on it. Inorganic waste comes from things that were never alive, such as glass and metal. Plastic is sorted with the inorganic, dry waste, because decomposers cannot feed on it."
+  },
+  {
+   "q": "What did the air test show?",
+   "a": "The same peels rotted in different ways. In the stirred open bowl, microbes used oxygen, and the peels turned dark and smelled earthy. In the sealed bag, the oxygen ran out, other microbes took over, the bag puffed up with gas, and the peels turned slimy and smelled rotten. So rotting with air and without air are different."
+  },
+  {
+   "q": "Why can a dump catch fire by itself?",
+   "a": "Wet waste buried under more waste gets no air. It rots without oxygen and, over weeks, microbes make methane, a gas that burns. The inside of the heap also gets hot. A spark or the heat can then set the gas and the dry waste alight."
+  },
+  {
+   "q": "What is leachate, and why is it harmful?",
+   "a": "Leachate is the dirty liquid that drains out of garbage when rain soaks through it, as the yellow water did in the garbage heap test. It carries dissolved juices and harmful metals down into groundwater and into lakes and rivers."
+  },
+  {
+   "q": "Does burning waste make it go away?",
+   "a": "No. Nothing is destroyed. Burnt waste becomes smoke, gases and a little ash. The smoke from burning plastic is harmful to breathe."
+  },
+  {
+   "q": "What does the number in the triangle on plastic tell you? What is downcycling?",
+   "a": "The number tells you what kind of plastic it is, such as 1 for PET bottles. It does not mean it will be recycled. Downcycling means making the plastic into something of lower quality, such as fibre for carpets, which is rarely recycled again."
+  },
+  {
+   "q": "Name three kinds of hazardous waste and say why each must be kept apart.",
+   "a": "Batteries can leak harmful metals. CFL bulbs hold mercury, which escapes if they break. Old medicines can poison animals and seep into water. E-waste holds metals such as lead. Kept apart, they cannot hurt waste pickers or reach soil and water."
+  },
+  {
+   "q": "What is segregation at source, and why do Indore and Alappuzha both depend on it?",
+   "a": "It means keeping wet, dry and hazardous waste apart right where it is made, at home. If waste is mixed, wet waste spoils the dry waste so it cannot be recycled, and dry waste spoils the compost. Both cities need sorted waste, whether it is composted at home or sent to big plants."
+  }
+ ],
+ "story": {
+  "title": "The Hill That Lit Itself",
+  "text": [
+   "From the roof of their house in north Chennai, Selvi could see the hill. It was not a real hill. It was the city's garbage, piled higher every day for years, grey and brown, with black kites circling slowly over it. In the hot months before the rains, the hill smoked.",
+   "That year the smoke came in April. It smelled of burnt rubber and of something sour underneath. At night Selvi's little brother Arun coughed, a dry cough that went on and on, and Selvi lay awake listening to it.",
+   "On their street, everyone had an explanation. Mr Joseph at the tea shop said boys from the next area set the hill on fire for fun. Chitra akka, who sold jasmine at the corner, said the Corporation burnt it at night to make it smaller. Selvi's mother, Kasthuri, said nothing for a while.",
+   "Amma swept the street every morning and pushed the Corporation's handcart from house to house, collecting waste. The cart had two sides, one painted green and one painted blue. But almost every house tipped out one bucket, with everything in it together, into whichever side was nearer.",
+   "'Nobody lights it,' Amma said that evening, rubbing coconut oil into her cracked heels. 'The hill lights itself.'",
+   "Selvi laughed. 'Hills don't light themselves, Amma.'",
+   "'This one does,' said Amma, and went to put the rice on.",
+   "Selvi did not believe her. Fire needs a match, or a spark. Everybody knew that.",
+   "On Monday morning she found something at the bottom of her school bag. It was a steel tiffin box of curd rice from Friday, with the lid pressed on tight. It had sat in the hot bag all weekend. The lid was bulging. When Selvi pressed it, the box hissed, and a smell came out so sour and rotten that she nearly dropped it. Inside, the rice had turned into a grey paste with yellow water on top.",
+   "Amma held it at arm's length on the front step. 'Shut in with no air, food goes bad a different way,' she said. 'Left open, it grows fuzz and dries up. Shut in, it swells and stinks.' She scraped it out and scrubbed the box with tamarind and ash.",
+   "That Sunday, Murugan maama came for lunch. He was Amma's younger brother, and he drove one of the trucks that carried the street's waste up to the hill. Selvi asked him about the fire.",
+   "'It's a strange place,' he said, mixing rasam into his rice. 'On some parts of the hill the ground is warm under your feet, even at night. The men who work up there say never to drop a beedi. They say there is gas in the hill.'",
+   "'What gas?'",
+   "He shrugged. 'Some gas. It comes from inside.'",
+   "After lunch Selvi went up to the roof and looked at the hill for a long time. She thought about what went into it. Every morning, Amma's cart. Every bucket from every house: fish heads and rice and banana peels, mixed up with milk packets and sweet wrappers. The trucks tipped it all on the hill. The next day more was tipped on top, and more on top of that. Pressed down. Covered. Shut in, with no air. Like the tiffin box.",
+   "She ran down the stairs. 'Maama! It's our food!'",
+   "He looked at his plate. 'What's wrong with the food?'",
+   "'Not this food. The food we throw away. It gets buried in the hill with no air, so it rots the tiffin-box way. It swells and makes gas. That's the gas the men talk about. And the inside of the hill gets hot, like the compost heap at school. The gas burns. So the hill lights itself, just like Amma said.'",
+   "Amma looked up from the stove. She did not say 'I told you.' She only smiled.",
+   "Murugan maama put down his tumbler. 'All right. So the peels make gas. What can anyone do? People won't stop eating.'",
+   "'They don't have to stop eating,' said Selvi. 'The peels just have to not go to the hill.'",
+   "'Where else will they go?'",
+   "Selvi did not know. Amma did. 'There is a compost yard behind the bus depot now,' she said. 'It takes wet waste only. It stands half empty, because nobody gives me wet waste by itself. They give me everything mixed.'",
+   "So it began with buckets. Selvi and Amma went from door to door, with Arun trailing behind. At each house Selvi told the story of the tiffin box. Some people laughed. Chitra akka said she had no time to sort rubbish. Mr Joseph said one street would never put out a fire on a hill that size. But Fathima aunty at the corner found two old paint buckets, and on one of them she wrote WET in red letters.",
+   "Every morning after that, the green side of Amma's cart held a small pile of its own: onion skins, tea leaves, coconut shells, and the jasmine strings Chitra akka had not sold, because in the end she sorted too. Amma took that pile to the compost yard, where two women turned the heaps with forks every week to let the air in. Murugan maama said his truck came back from their street lighter than before.",
+   "The hill still smoked on some nights. One street is a small thing next to a whole city, and when the wind blew from the hill, Arun still coughed.",
+   "But the bins on their street stopped smelling. And every evening Selvi went up to the roof with a notebook and counted the houses that put out two buckets. Eleven, out of thirty-four. She wrote down the number and the date, and underlined it."
+  ],
+  "epiphany": "A dump can catch fire by itself because wet waste buried with no air rots without oxygen and makes methane, a gas that burns, while the inside of the heap grows hot. The turn comes on the roof, when Selvi links her sealed tiffin box to the food buried in the hill. The fuel for the fire starts in the street's own kitchens, so keeping wet waste apart takes it away. Amma knew the fact from her work. Selvi found the reason, and both of them teach the men around them.",
+  "ask": [
+   "Why did the tiffin box swell up and smell so bad?",
+   "How did the tiffin box help Selvi understand the hill?",
+   "Amma said the hill lights itself. Was she right? What did Selvi add?",
+   "Mr Joseph said one street could never put out the fire. Was he right? Why do you think Selvi kept counting?",
+   "Who on the street knew the most about waste? Why do you think nobody had asked her before?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Wet waste rots cleanly with air, and badly without it.",
+   "more": "Show it with the air test. In the stirred bowl, microbes that use oxygen do the work. In the sealed bag, and deep inside a dump, other microbes take over and make sour gases, and in time methane. That is why compost heaps are turned and why wet waste does not belong in a dump."
+  },
+  {
+   "idea": "Mixing turns useful things into garbage.",
+   "more": "Peels on their own become compost. A clean milk packet on its own can be sold. Mixed together, both become a smelly heap nobody can use. Every city that handles waste well depends on sorting at home."
+  },
+  {
+   "idea": "Waste never leaves the Earth. It only changes place or form, and someone always deals with it.",
+   "more": "Dumped waste stays on land and leaks into water. Burnt waste goes into the air. Recycled waste passes through the hands of waste pickers and kabadiwalas. Add each of these to the arrow drawing from Day 1."
+  }
+ ],
+ "unknowns": [
+  "Nobody knows exactly how much methane India's dumps give off. Scientists have only recently begun measuring it, partly from satellites, and their estimates differ a lot.",
+  "Nobody knows how many waste pickers work in India. Their work is not counted in official records, so estimates vary widely.",
+  "Nobody knows the best way for a very big city to handle its waste: composting in every home, as in Alappuzha, big central plants, as in Indore, or a mix. Each has worked in some places and failed in others.",
+  "Scientists still argue about whether huge amounts of wood became coal about 300 million years ago partly because no fungus could yet rot it."
+ ]
+}

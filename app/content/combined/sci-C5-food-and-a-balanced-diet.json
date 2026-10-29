@@ -1,0 +1,1281 @@
+{
+ "key": "combined|sci|5|food-and-a-balanced-diet",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "food-and-a-balanced-diet",
+ "title": "Food and health: hidden hunger, deficiency diseases and cheap ways to eat well",
+ "source": "DeepKids Combined. Covers Cambridge Stage 5 Unit 4.2 'Balanced diets' and NIOS Level C Lesson 12 'Food and Health' (deficiency diseases and how to prevent them, when to take extra care with food, cheap nutritious foods, storing food). No textbook needed.",
+ "summary": "A child can eat until they are full and still be short of one nutrient. Doctors call this hidden hunger. Your child finds out what happens to the eyes, blood, bones and thyroid when vitamin A, iron, folate, vitamin D, calcium or iodine is missing, and why kwashiorkor and pellagra puzzled doctors for years. They test how their own eyes adjust to the dark, watch idli batter rise, find out which way of storing bread stops mould, read a food label for energy, and plan cheap tiffins that give the body everything.",
+ "builds_on": "In Class 1 your child sorted everyday foods and treats. In Class 3 they named the nutrients, tested foods for starch, fat and vitamin C, built a balanced plate, and heard how James Lind cured scurvy with oranges and lemons. This rung goes deeper into each deficiency disease, the tiny amounts some nutrients are needed in, energy and food labels, who needs extra care, cheap ways to make food richer, and how storing food stops microbes spoiling it. The Class 5 digestion rung follows the food through the body.",
+ "goals": [
+  "By the end your child can explain hidden hunger: a full stomach can still be missing a nutrient.",
+  "By the end your child can name what goes wrong without vitamin A, iron, folate, vitamin D, calcium, iodine and protein, and name Indian foods that prevent each.",
+  "By the end your child can read a food label for energy, protein, fat and sugar per 100 grams, and work out the energy that comes from fat.",
+  "By the end your child can say who needs extra care with food and why.",
+  "By the end your child can give four cheap ways to make food more nourishing: cereal with pulse, sprouting, fermenting and cooking that keeps vitamins.",
+  "By the end your child can explain why food spoils and why drying, cold, salt, acid and boiling slow it down."
+ ],
+ "words": [
+  [
+   "hidden hunger",
+   "being short of a vitamin or mineral even though you eat enough to feel full"
+  ],
+  [
+   "macronutrient",
+   "a nutrient we need in large amounts, measured in grams: carbohydrates, proteins and fats"
+  ],
+  [
+   "micronutrient",
+   "a nutrient we need in tiny amounts, measured in milligrams or micrograms: vitamins and minerals"
+  ],
+  [
+   "microgram",
+   "one millionth of a gram. A grain of salt weighs about 60 micrograms"
+  ],
+  [
+   "deficiency disease",
+   "an illness caused by too little of one nutrient for a long time"
+  ],
+  [
+   "haemoglobin",
+   "the red substance in red blood cells that carries oxygen. It needs iron"
+  ],
+  [
+   "anaemia",
+   "having too little haemoglobin, so the body gets less oxygen. A person feels tired and weak and looks pale"
+  ],
+  [
+   "carotene",
+   "an orange substance that plants make. Your body turns it into vitamin A. Carrots, papaya and drumstick leaves are full of it"
+  ],
+  [
+   "thyroid",
+   "a small gland at the front of the neck. It makes a hormone that controls how the body uses energy, and it needs iodine"
+  ],
+  [
+   "amino acid",
+   "one of the 20 small building blocks that join in long chains to make proteins"
+  ],
+  [
+   "malnutrition",
+   "eating the wrong amounts of nutrients for a long time: too little of some, or too much of others"
+  ],
+  [
+   "kilocalorie",
+   "the unit for the energy in food, written kcal on a label. Fat gives about 9 kcal per gram, starch and protein about 4"
+  ],
+  [
+   "fermentation",
+   "when tiny living beings such as bacteria and yeasts feed on food and change it, as when idli batter rises"
+  ],
+  [
+   "fortified food",
+   "food with an extra nutrient added on purpose, such as salt with iodine added"
+  ]
+ ],
+ "subconcepts": [
+  "hidden hunger: a full stomach can still be missing micronutrients",
+  "macronutrients and micronutrients: grams, milligrams and micrograms",
+  "vitamin A, carotenes made by plants, and night blindness",
+  "iron, haemoglobin and anaemia, and how vitamin C and tea change how much iron the body takes in",
+  "folate and the anaemia of pregnancy",
+  "vitamin D made in sunlight, calcium and rickets",
+  "iodine, the thyroid, goitre and iodised salt",
+  "protein built from amino acids, kwashiorkor and marasmus",
+  "malnutrition both ways: too little food, and too much sugar, fat and salt",
+  "energy in food: kilocalories and reading a label per 100 grams",
+  "who needs extra care with food: babies, growing children, pregnant women, the sick and the old",
+  "making cheap food richer: cereal with pulse, sprouting, fermenting and cooking that keeps vitamins",
+  "why food spoils, and how drying, cold, salt, acid and boiling keep it",
+  "pellagra, maize and lime: old cooking knowledge that worked before anyone knew why"
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Full, and still hungry",
+   "goal": "Hear the story, and see how tiny some of the amounts are that the body cannot do without.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember Class 3",
+     "mins": 5,
+     "do": "Ask: 'In Class 3 we heard about sailors in 1747 who had plenty to eat but still got ill. What was missing, and which food cured them?' Good answer: 'Vitamin C. The two sailors given oranges and a lemon got better.' Then ask: 'Name the five kinds of nutrients.' Good answer: 'Carbohydrates, proteins, fats, vitamins and minerals, plus fibre and water.' Say: 'This week we find out what happens when each one is missing, and how families fix it without spending much.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Fireflies Came Back",
+     "mins": 12,
+     "do": "Read the story aloud. Ask one question only: 'Everyone in Kaveri's family ate the same rice and saaru, and nobody was hungry. Why do you think only Somu stopped seeing in the evening?' Write your child's answer on the first page of a notebook called 'Food and health'. Don't give the answer. You will come back to it on Day 2."
+    },
+    {
+     "kind": "act",
+     "title": "The weight of one day",
+     "mins": 15,
+     "ref": "a1",
+     "do": "Do Activity a1. On a black sheet of paper, your child sets out the weight of what a child their age needs each day: two tablespoons of sugar for the protein, one whole green moong seed for the vitamin C, a third of a moong seed for the iron, and two grains of salt for the iodine. Ask: 'Which one would you notice if it went missing from your plate?' Good answer: 'Not the tiny ones. You could miss them and still feel full.' Say: 'That is exactly the problem.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Macronutrients, micronutrients and hidden hunger",
+     "mins": 8,
+     "do": "Say: 'Carbohydrates, proteins and fats are macronutrients. Macro means big. We need them in grams. Vitamins and minerals are micronutrients. Micro means very small. We need them in milligrams, a thousandth of a gram, or micrograms, a millionth of a gram.' Ask: 'Can a person eat enough to feel full and still be short of a micronutrient?' Wait for a reason. Then say: 'Yes. Doctors call it hidden hunger, because you cannot see it on the plate or feel it in your stomach. About two billion people in the world have it.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Start the notebook",
+     "mins": 5,
+     "do": "Your child draws a body outline on the second page of the notebook and labels four places: eyes, blood, bones and the neck. Say: 'Over the next days we will find out which tiny nutrient each of these needs. Each time, add the nutrient and one food that gives it.' Keep the notebook for the whole week."
+    }
+   ],
+   "need": [
+    "a notebook for 'Food and health'",
+    "a sheet of black paper or a dark plate",
+    "sugar and a tablespoon",
+    "a few whole green moong seeds",
+    "salt",
+    "a blade for the parent to cut one moong seed"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Seeing in the dark, and the iron in your blood",
+   "goal": "Test how the eyes adjust to the dark, find out why that needs vitamin A, and learn what iron and folate do in the blood.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Back to Somu",
+     "mins": 4,
+     "do": "Read your child's answer from Day 1 aloud. Ask: 'What changed in Kaveri's house in May?' Good answer: 'The papaya tree fell, the drumstick tree was cut and the greens dried up.' Ask: 'What do papaya, pumpkin, carrots and drumstick leaves have in common?' Let them look at the colours. Good answer: 'They are orange or dark green.'"
+    },
+    {
+     "kind": "exp",
+     "title": "How fast do your eyes adjust?",
+     "mins": 15,
+     "ref": "e1",
+     "do": "Do Experiment e1 in a bathroom or small room you can make dark. Your child sits in bright light for two minutes, then goes into the dark room with the door almost closed. They call out the moment they can see each of three things you put there earlier: a white towel, a steel tumbler and a dark book. You count the seconds. Ask first: 'Will you see all three straight away?' After: 'Which came first, and how long did the dark book take?'"
+    },
+    {
+     "kind": "talk",
+     "title": "From a plant's colour to your eye",
+     "mins": 9,
+     "do": "Say: 'Plants have a problem. Strong sunlight can damage the green parts that make their food. So plants make orange substances called carotenes, which protect those parts from too much light. Your body takes carotene from your food and turns it into vitamin A. At the back of your eye, vitamin A is used to make a substance that catches dim light. Bright light uses it up. In the dark, your eye builds it again, which is why your eyes took minutes to adjust.' Ask: 'So what happens to someone with too little vitamin A?' Good answer: 'They cannot rebuild it, so they cannot see in dim light.' Say: 'That is night blindness. If it goes on, the eyes become dry and a child can go blind. It is why Indian health centres give young children doses of vitamin A.' Your child adds 'eyes: vitamin A, papaya and drumstick leaves' to the body outline."
+    },
+    {
+     "kind": "talk",
+     "title": "Iron, haemoglobin and anaemia",
+     "mins": 10,
+     "do": "Say: 'Your blood is red because of haemoglobin, in your red blood cells. Haemoglobin carries oxygen from your lungs to every part of you, and each haemoglobin has iron at its heart. With too little iron, the blood carries less oxygen. A person feels tired, gets breathless on the stairs, and looks pale. This is anaemia. In India about two in every three young children have it.' Ask: 'Which foods give iron?' Good answers: 'bajra, ragi, rajma, chana, green leafy vegetables, eggs, meat and fish.' Then say: 'The body takes in iron from plant foods better when you eat vitamin C with it, such as lemon on your dal. Tea or coffee with the meal does the opposite, so drink them an hour later.' Your child adds 'blood: iron, bajra and rajma, with lemon' to the outline."
+    },
+    {
+     "kind": "talk",
+     "title": "Lucy Wills in Bombay",
+     "mins": 7,
+     "ref": "v1",
+     "do": "Tell your child Voice v1: in 1928 a British woman doctor, Lucy Wills, went to Bombay to find out why so many pregnant women working in the textile mills had a serious anaemia. She found that a cheap yeast spread cured it. The thing in the yeast was later named folate, or folic acid, from 'folium', the Latin word for leaf, because green leaves are full of it. Ask the voice question. Your child adds 'folate: green leaves and dal' to the blood on the outline."
+    }
+   ],
+   "need": [
+    "a room you can make dark, such as a bathroom",
+    "a white towel, a steel tumbler and a dark-covered book",
+    "a clock or phone that shows seconds"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Bones, sunlight and a gland in the neck",
+   "goal": "Find out what vitamin D, calcium and iodine do, and set up a test of how storing food stops it spoiling.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What is a bone made of?",
+     "mins": 5,
+     "do": "Your child presses their shin and their ear. Ask: 'Why is one hard and one bendy?' Good answer: 'The shin is bone, and the ear is soft.' Say: 'Bone is a living frame with a hard mineral packed into it, made mostly of calcium. Children's bones are still growing, so they need calcium every day.' Ask: 'Which foods give calcium?' Good answers: 'milk, curd, ragi, sesame, green leafy vegetables, small fish eaten with their bones.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Vitamin D: the vitamin your skin makes",
+     "mins": 10,
+     "do": "Say: 'Calcium in food is no use unless your gut can take it in. For that it needs vitamin D. Very few foods have much vitamin D. Instead, your skin makes it when sunlight falls on it.' Take your child to a sunny window or balcony. Say: 'The part of sunlight that makes vitamin D cannot pass through window glass, so sitting behind a closed window does not help.' Ask: 'What would happen to a child's growing legs without enough vitamin D or calcium?' Let them think. Say: 'The bones stay soft and bend under the child's weight, so the legs bow. This is rickets.' Your child adds 'bones: calcium and vitamin D, ragi, curd and sunlight on the skin' to the outline. Tell them that many Indians are short of vitamin D despite all the sunshine, and nobody is fully sure why."
+    },
+    {
+     "kind": "talk",
+     "title": "Iodine and the thyroid",
+     "mins": 8,
+     "do": "Your child touches the front of their neck below the voice box. Say: 'Under here is your thyroid gland. It makes a hormone that controls how your body uses energy, and how a baby's brain grows before birth. The hormone needs iodine. Without iodine, the thyroid swells into a lump called a goitre. A mother short of iodine can have a baby whose brain does not grow fully.' Bring the salt packet and find the word 'iodised'. Ask: 'Why do you think iodine is added to salt, and not to mangoes?' Good answer: 'Everyone eats a little salt every day, all year, rich or poor.' Your child adds 'neck: iodine, iodised salt' to the outline."
+    },
+    {
+     "kind": "think",
+     "title": "Why so little?",
+     "mins": 6,
+     "do": "Remind your child of the two grains of salt from Day 1, the weight of a day's iodine. Say: 'A grown-up needs about 150 micrograms of iodine a day.' Ask: 'Over 70 years, how much is that?' Work it out together on paper: 150 × 365 is about 55,000 micrograms a year, or 55 milligrams. 55 × 70 is about 3,850 milligrams, which is less than 4 grams. Say: 'That is less than a teaspoon of iodine in a whole life. Without that teaspoon, spread over every day, the brain and body cannot grow properly.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the bread test",
+     "mins": 16,
+     "ref": "e2",
+     "do": "Do Experiment e2. Your child and you prepare five pieces of bread or chapati: one toasted dry and crisp, one damp on the shelf, one damp in the fridge, one damp and rubbed thickly with salt, and one damp and soaked with lemon juice. Close each in its own labelled bag or small dabba. Ask your child to predict which will grow mould first and which not at all, and to write the guesses in the notebook with a reason for each."
+    }
+   ],
+   "need": [
+    "the kitchen salt packet",
+    "5 pieces of bread or 1 chapati torn in 5",
+    "5 small zip bags or closed dabbas",
+    "salt, a lemon, water and a spoon",
+    "a marker for labels",
+    "a tawa to toast one piece"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Protein, and malnutrition both ways",
+   "goal": "Find out what protein is built from, what kwashiorkor and marasmus are, and why eating too much of some foods is also malnutrition.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Check the bread",
+     "mins": 4,
+     "ref": "e2",
+     "do": "Look at the five bags from Experiment e2 without opening them. Your child draws each one in the notebook and writes the date. Ask: 'Any fuzzy spots yet? Any change in colour or wetness?' Usually nothing shows yet. Say: 'Mould spores are already on the bread. They need time to grow.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Protein, amino acids, kwashiorkor and marasmus",
+     "mins": 12,
+     "ref": "v2",
+     "do": "Say: 'Proteins are long chains made of small building blocks called amino acids. There are 20 kinds. Your body breaks the protein in dal or milk into amino acids, then joins them again into your own muscle, skin and blood.' Then tell your child Voice v2: in the 1930s, Cicely Williams, a doctor from Jamaica working in the Gold Coast (now Ghana), saw young children with swollen legs and bellies and peeling skin. The local people called it kwashiorkor, the sickness of the older child when the next baby is born. She found it came after the child stopped breastfeeding and ate mostly maize porridge. Say: 'Kwashiorkor shows as swelling. When a child has too little food of every kind, the body uses up its own fat and muscle and becomes very thin. That is marasmus.' Ask the voice question. Parent note: speak calmly. These illnesses come from poverty, not from anything a child does, and they are treatable."
+    },
+    {
+     "kind": "talk",
+     "title": "Too much is malnutrition too",
+     "mins": 8,
+     "do": "Say: 'Malnutrition means eating the wrong amounts for a long time. That can be too little. It can also be too much sugar, fat or salt, which over years can lead to diabetes, heart disease and high blood pressure. India has both kinds, often in the same family and the same town.' Ask: 'Can one person be eating too much and still have hidden hunger?' Good answer: 'Yes. Someone can eat lots of biscuits and sweets and still be short of iron and vitamin A.'"
+    },
+    {
+     "kind": "act",
+     "title": "Drama: the guest who did not come",
+     "mins": 10,
+     "do": "Your child plays the body, and you play the nutrients, one at a time. For each nutrient you say 'I am not coming today', and your child acts what the body does when that nutrient stays away for months: vitamin A (walks with hands out in dim light), iron (gets tired and breathless climbing stairs), iodine (holds the neck where a goitre would swell), vitamin D and calcium (walks with bowed legs), protein (moves slowly and holds the swollen legs). Then swap: your child names a nutrient, and you act it out for them to guess. Ask after each one: 'Which food would bring this guest back?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 11,
+     "ref": "ws1",
+     "do": "Your child does Worksheet ws1 (core) alone, using the body outline in the notebook if stuck. Then check it together. For the perspective question, ask them to say their side aloud before writing, and then argue for the other side for one minute."
+    }
+   ],
+   "need": [
+    "the bread bags from Day 3",
+    "the Food and health notebook"
+   ],
+   "prep": [
+    {
+     "task": "Soak 2 tablespoons of urad dal and 4 tablespoons of rice in separate bowls of water, for Day 5's batter test",
+     "when": "morning"
+    },
+    {
+     "task": "Wash and soak half a cup of whole green moong in plenty of water, for Day 5's sprouts",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Making cheap food richer",
+   "goal": "See fermentation at work, and learn why cereal with pulse, sprouts with lemon and careful cooking give more nourishment for the same money.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Did the batter rise?",
+     "mins": 12,
+     "ref": "e3",
+     "do": "Finish Experiment e3. Last night you ground the soaked urad dal and rice into a thick batter, poured it into a clear glass and put a rubber band at its top. Your child measures how far the batter has risen above the band with a ruler, and looks at the bubbles through the glass. Ask: 'Nobody added anything. Where did the bubbles come from?' Good answer: 'Something living in the batter made gas.' Say: 'Bacteria and yeasts from the dal, the rice and the air fed on the batter overnight and made carbon dioxide gas. This is fermentation. It makes idlis soft. Studies also show it raises some B vitamins and makes some minerals easier for the body to take in.' Use the batter for dosas at the next meal."
+    },
+    {
+     "kind": "talk",
+     "title": "Cereal with pulse",
+     "mins": 8,
+     "do": "Say: 'Rice and wheat have little of one amino acid, called lysine. Dals have little of another, called methionine. Eaten together, each fills the other's gap, so the body can build more of its own protein.' Ask: 'Which meals in our kitchen join a cereal and a pulse?' Good answers: 'idli and dosa (rice and urad), dal-chawal, sambar rice, rajma-chawal, pongal (rice and moong), khichdi, roti and dal.' Say: 'Families worked this out long before anyone knew about amino acids.'"
+    },
+    {
+     "kind": "do",
+     "title": "Sprouts with lemon",
+     "mins": 10,
+     "do": "Drain the moong soaked last night, rinse it, and look at the tiny white tails. Say: 'A seed has a problem. It must grow a root and a shoot before it has leaves to make food. So it turns its stored starch into sugar, and makes new vitamins, including vitamin C, which the dry seed hardly has.' Your child mixes a cup of sprouts with chopped tomato, a squeeze of lemon and a pinch of salt. Ask: 'Why add lemon?' Good answer: 'The vitamin C helps the body take in the iron in the moong.' Wrap the rest of the moong in a damp cloth to sprout more for tomorrow."
+    },
+    {
+     "kind": "act",
+     "title": "Who needs what?",
+     "mins": 15,
+     "ref": "a3",
+     "do": "Do Activity a3. Your child reads five family cards (Ammamma aged 70, Aunt Revathi who is pregnant, baby Nila aged 8 months, cousin Fathima aged 14, and Uncle Arjun getting over a fever) and writes one change to each person's meals, with the nutrient it gives. Good answers: Ammamma needs calcium, vitamin D from morning sun and soft protein. Revathi needs iron, folate, iodine and calcium. Nila needs soft mashed foods such as dal rice alongside breast milk. Fathima needs iron because she is growing fast and may have started periods. Arjun needs plenty of water, and soft food with protein to mend."
+    }
+   ],
+   "need": [
+    "a clear glass, a rubber band and a ruler",
+    "the soaked moong from last night, a tomato, a lemon and salt",
+    "a thin damp cloth",
+    "the five family cards from Activity a3"
+   ],
+   "prep": [
+    {
+     "task": "Grind the soaked urad dal and rice with a little water in the mixie into a thick batter, pour it into a clear glass, put a rubber band at the top of the batter and leave it covered in the warmest part of the kitchen",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Maize, lime and reading the label",
+   "goal": "Hear how pellagra was solved, learn how cooking can keep or lose vitamins, and read a food label for energy.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Check the bread",
+     "mins": 4,
+     "ref": "e2",
+     "do": "Look at the five bags from Experiment e2 without opening them, and draw them again. Ask: 'Which one is changing first? Is it the one you guessed?' Mould is often showing on the damp shelf piece by now."
+    },
+    {
+     "kind": "talk",
+     "title": "Joseph Goldberger and pellagra",
+     "mins": 10,
+     "ref": "v3",
+     "do": "Tell your child Voice v3. In the southern United States a hundred years ago, thousands of poor people who ate mostly maize got sore red skin, upset stomachs and confused minds. This was pellagra. Most doctors thought a germ caused it. Joseph Goldberger showed that a better diet cured it, and he, his wife Mary and friends took material from patients into their own bodies to show it did not spread. Say: 'The missing nutrient, niacin, was found in 1937. In Mexico, people had eaten maize for thousands of years without much pellagra. They soak and cook the maize with lime before grinding it, and that frees the niacin.' Ask the voice question."
+    },
+    {
+     "kind": "talk",
+     "title": "Cooking that keeps the vitamins",
+     "mins": 8,
+     "do": "Say: 'Vitamin C and the B vitamins dissolve in water, and long boiling breaks down vitamin C.' Ask after each tip: 'Why does this help?' Tips: wash vegetables before cutting them, not after (fewer vitamins wash out of cut faces). Cut them just before cooking. Cook with a lid and in a little water. Don't throw away the water that dal or vegetables were cooked in: put it in sambar, rasam or the atta. Add lemon after cooking, not before. Your child writes the three tips they liked best in the notebook."
+    },
+    {
+     "kind": "act",
+     "title": "Label detective",
+     "mins": 18,
+     "ref": "a2",
+     "do": "Do Activity a2 with two packets from the kitchen, such as biscuits and roasted chana, or noodles and plain oats. Your child finds the nutrition table and copies the numbers per 100 grams for energy, protein, fat and sugar. Then they work out the energy from fat: grams of fat × 9. Ask: 'Which packet gives more protein for the same weight? Which gets more of its energy from fat and sugar?' Then ask: 'What does the label not tell you?' Good answers: 'how much iron or vitamin A there is, whether it is whole grain, how much I will really eat.'"
+    },
+    {
+     "kind": "do",
+     "title": "Start the tiffin project",
+     "mins": 5,
+     "do": "Start the project 'A week of tiffins against hidden hunger'. Your child writes five days in a column and, for each day, one cereal and one pulse that could go together. Say: 'Over the next two days you will add a vegetable or fruit, a vitamin C food, and the cost.'"
+    }
+   ],
+   "need": [
+    "the bread bags",
+    "two food packets with nutrition tables",
+    "a pencil and the notebook"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Why food spoils, and the Missing Piece game",
+   "goal": "Read the bread test results, explain each way of storing food, and play the card game.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Read the bread test",
+     "mins": 12,
+     "ref": "e2",
+     "do": "Finish Experiment e2. Look at the five bags closed first, then open them on the balcony or by an open window, away from your faces, and don't sniff closely. Your child fills in the results table: dry toasted, damp shelf, damp fridge, damp salt, damp lemon. Usually the damp shelf piece has green, grey or black fuzz, the fridge piece much less, and the toasted and salted pieces none. The lemon piece is often slower than plain damp bread, but not always. Ask: 'What did the dry and the salty pieces have in common?' Good answer: 'The mould could not get water.' Seal the bags and throw them away. Wash hands."
+    },
+    {
+     "kind": "talk",
+     "title": "Every way of storing food has one reason",
+     "mins": 8,
+     "do": "Say: 'Mould and bacteria are living beings. They need water, warmth and food to grow, just as we do. Every way of storing food takes one of these away from them, or kills them.' Ask your child to give the reason for each: drying vadams, appalams and chillies in the sun (no water), keeping dal in the fridge (cold slows them), salting fish or making lemon pickle (salt draws water out of the microbes' cells), the oil on top of a pickle (keeps air out), vinegar or lemon (acid slows most bacteria), boiling milk (heat kills most bacteria), a closed tin (keeps out insects and damp air). Say: 'Cooked rice or dal left warm for many hours can grow bacteria that cause food poisoning. Cool leftovers quickly and keep them cold.'"
+    },
+    {
+     "kind": "game",
+     "title": "Find the Missing Piece",
+     "mins": 15,
+     "ref": "g1",
+     "do": "Play Game g1 with the printed cards. Each player tries to collect full sets of three: a nutrient, what goes wrong without it, and a food that gives it. Before keeping a card, the player must say aloud why it belongs in the set. If another player disagrees, check the body outline in the notebook."
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "ref": "ws2",
+     "do": "Your child does Worksheet ws2 (stretch). Read the long questions aloud if needed. Check it together, asking 'How do you know?' for each answer. For the perspective question, let them argue for one side and then answer back from another."
+    }
+   ],
+   "need": [
+    "the bread bags",
+    "the printed Missing Piece cards",
+    "the notebook"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Tiffins, the challenge and teach it back",
+   "goal": "Finish the tiffin plan, do the challenge worksheet, answer the check and teach the week back.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "Finish the tiffin plan",
+     "mins": 12,
+     "do": "Your child finishes the project. For each of the five tiffins they add a vegetable or fruit, a vitamin C food, and the rough cost from your kitchen bills or today's shop prices. Ask them to tick each tiffin against the body outline: eyes, blood, bones and neck. Good answers look like: 'Monday: ragi dosa and sambar with drumstick, guava. Tuesday: curd rice with carrot, a sprouts cup with lemon.' Pick one tiffin to make together this week."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 13,
+     "ref": "ws3",
+     "do": "Do Worksheet ws3 (challenge) together. Let your child think and write. You only ask 'How do you know?' and 'What evidence would change your mind?'. For the maths items, let them work on paper and show the working."
+    },
+    {
+     "kind": "check",
+     "title": "Check",
+     "mins": 10,
+     "do": "Ask the 7 check questions aloud one at a time, without the notebook. Tick each one answered well. For a missed answer, open the body outline or the bread drawings together for a minute, then ask again in different words. Five or more good answers means the main ideas are in place."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child is the teacher for the family. Using the body outline, the bread results and their tiffin plan, they explain in about 6 minutes: what hidden hunger is, four nutrients and what goes wrong without each, two ways to make cheap food richer, and why drying and salting stop mould. End by asking them: 'What did Kaveri work out that the grown-ups missed?'"
+    }
+   ],
+   "need": [
+    "the tiffin plan",
+    "the notebook with the body outline",
+    "today's food prices or kitchen bills"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "What the body cannot do without",
+   "day": 4,
+   "sections": [
+    [
+     "A. Nutrients and what goes wrong",
+     [
+      {
+       "t": "match",
+       "p": "Match each nutrient to what happens when the body is short of it for a long time.",
+       "pairs": [
+        [
+         "vitamin A",
+         "cannot see well in dim light"
+        ],
+        [
+         "iron",
+         "tired, breathless and pale"
+        ],
+        [
+         "iodine",
+         "a swelling in the neck called a goitre"
+        ],
+        [
+         "vitamin D",
+         "soft bones that bend, called rickets"
+        ],
+        [
+         "protein",
+         "swollen legs and belly, called kwashiorkor"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The red substance in blood that carries oxygen, and needs iron, is called ____.",
+       "a": [
+        "haemoglobin",
+        "hemoglobin"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Your body makes vitamin D when sunlight falls on your ____.",
+       "a": [
+        "skin"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why is iodine added to salt?",
+       "opts": [
+        "almost everyone eats a little salt every day",
+        "salt tastes better with iodine",
+        "iodine keeps salt dry"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Foods and amounts",
+     [
+      {
+       "t": "sort",
+       "p": "Sort each food by the nutrient it is best known for.",
+       "items": [
+        "papaya",
+        "carrot",
+        "pumpkin",
+        "ragi",
+        "curd",
+        "sesame seeds",
+        "bajra",
+        "rajma",
+        "chana"
+       ],
+       "cats": [
+        "vitamin A (from carotene)",
+        "calcium",
+        "iron"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Meena, a girl in Class 5, eats rice and rasam three times a day and always feels full. Which is true?",
+       "opts": [
+        "she can still be short of iron or vitamin A",
+        "she must be getting every nutrient, because she is full",
+        "rasam has every vitamin"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which is the smallest amount?",
+       "opts": [
+        "one gram",
+        "one milligram",
+        "one microgram"
+       ],
+       "a": 2
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "In the dark-room test, the dark book took several minutes to appear. What was your eye doing in that time, and what does vitamin A have to do with it?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Why can a person who eats plenty of food still have hidden hunger? Give an example.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Thenmozhi's grandmother cooks drumstick leaves every week 'for the eyes'. Thenmozhi's grandmother says: 'My mother taught me this. Children who eat these greens see well at dusk.' Thenmozhi's cousin Divya says: 'That is just an old saying. Eyes are about glasses and screens, not leaves.' Who do you agree with? Use what you found this week. Then answer back from the other side.",
+       "lines": 5,
+       "a": "A strong answer uses evidence: drumstick leaves are full of carotene, the body turns carotene into vitamin A, and vitamin A is needed to see in dim light. It may also grant Divya a fair point: an old saying is not proof by itself, and greens cannot fix short sight, which needs glasses."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Using it in real kitchens",
+   "day": 7,
+   "sections": [
+    [
+     "A. What would you change?",
+     [
+      {
+       "t": "mcq",
+       "p": "Lakshmi eats ragi roti and palak with a cup of tea. What would help her body take in more of the iron?",
+       "opts": [
+        "squeeze lemon on the palak and drink the tea an hour later",
+        "add more sugar to the tea",
+        "eat the palak raw and cold"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which meal gives the most complete protein?",
+       "opts": [
+        "rice with dal",
+        "rice with potato curry",
+        "wheat roti with sugar"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Swati, a girl of 9, says: 'If I eat lots of carrots, I will see in total darkness.' What is wrong with her idea?",
+       "opts": [
+        "vitamin A helps eyes catch dim light, but no eye can see with no light at all",
+        "carrots have no vitamin A",
+        "nothing, she is right"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Fat gives about ____ kilocalories per gram, more than twice as much as starch or protein.",
+       "a": [
+        "9",
+        "nine"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Keeping food",
+     [
+      {
+       "t": "match",
+       "p": "Match each way of keeping food to why it works.",
+       "pairs": [
+        [
+         "drying chillies in the sun",
+         "no water for microbes"
+        ],
+        [
+         "keeping dal in the fridge",
+         "cold slows microbes down"
+        ],
+        [
+         "salting lemon pickle",
+         "salt draws water out of microbes"
+        ],
+        [
+         "boiling milk",
+         "heat kills most bacteria"
+        ],
+        [
+         "oil on top of a pickle",
+         "keeps air out"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Does it help food keep, or make it spoil faster?",
+       "items": [
+        "leaving cooked rice warm overnight",
+        "storing appalams in a closed tin",
+        "leaving cut fruit uncovered",
+        "cooling leftover sambar quickly and putting it in the fridge",
+        "keeping wet curry leaves in a closed bag",
+        "drying vadams in the sun"
+       ],
+       "cats": [
+        "helps it keep",
+        "spoils it faster"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think it through",
+     [
+      {
+       "t": "write",
+       "p": "Kavya's Ammamma is 70. She stays indoors and does not like milk or curd. Which two nutrients might she be short of? Suggest one change for each.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Why does a pregnant woman need extra iron, folate and iodine? Say what each one does for her or her baby.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "India's rules say salt sold for eating must be iodised. Should it be? A doctor at a health centre says: 'Everyone eats salt, so iodised salt protects every family cheaply, even those who never see a doctor.' A small salt maker near Thoothukudi says: 'Adding iodine costs money and machines. Big companies manage it more easily than small makers.' A shopper says: 'I want to choose what goes into my food.' Which view do you find strongest? Give a reason from this week. Then answer back from another side.",
+       "lines": 5,
+       "a": "A strong answer weighs real trade-offs: goitre and harm to babies' brains fell where iodised salt was used, small makers face real costs, and choice matters. It may suggest a way to meet more than one need, such as help for small makers."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking like a nutrition scientist",
+   "day": 8,
+   "sections": [
+    [
+     "A. Evidence",
+     [
+      {
+       "t": "mcq",
+       "p": "Joseph Goldberger, a doctor, and his volunteers swallowed material from people with pellagra, and none of them fell ill. What did that suggest?",
+       "opts": [
+        "pellagra does not spread like a germ",
+        "pellagra is caused by a germ",
+        "the volunteers were lucky"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In Malawi, scientists studied pairs of twins who ate the same food, where only one twin got kwashiorkor. What does that suggest?",
+       "opts": [
+        "something besides the food, such as the microbes in the gut, may matter too",
+        "food has nothing to do with kwashiorkor",
+        "twins are always different"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Is each idea settled, still argued about, or shown to be wrong?",
+       "items": [
+        "vitamin A is needed to see in dim light",
+        "large doses of vitamin C stop most people catching colds",
+        "pellagra is caused by a germ",
+        "exactly what causes kwashiorkor",
+        "why so many Indians are short of vitamin D",
+        "iodised salt prevents goitre"
+       ],
+       "cats": [
+        "settled",
+        "still argued about",
+        "shown to be wrong"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Fathima, aged 14, reads that fat gives the most energy per gram. She says: 'So fat is bad.' Which reply is best?",
+       "opts": [
+        "the body needs some fat, and the question is how much and what kind",
+        "she is right, nobody should eat fat",
+        "fat has no energy"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Numbers",
+     [
+      {
+       "t": "fill",
+       "p": "A biscuit packet says 20 grams of fat per 100 grams. That fat gives 20 × 9 = ____ kilocalories.",
+       "a": [
+        "180"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A child needs about 120 micrograms of iodine a day. In 1000 days that is ____ micrograms, which is 120 milligrams.",
+       "a": [
+        "120000",
+        "120,000",
+        "1,20,000"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Design and argue",
+     [
+      {
+       "t": "write",
+       "p": "Design a fair test to find out whether lemon juice slows mould on bread. What will you change, what will you keep the same, and what will you look for?",
+       "lines": 5
+      },
+      {
+       "t": "write",
+       "p": "Cooks in Mexico soak maize in lime water before grinding it, and people who ate maize this way rarely got pellagra. How can a cooking habit work before anyone knows about vitamins?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "What is the best way to end hidden hunger in India? A doctor says: 'Give children vitamin A doses and iron tablets. It is quick and it works.' A food planner says: 'Add iron and iodine to rice and salt that everyone already eats.' A woman farmer who grows millets and greens in Telangana says: 'Grow and eat many kinds of grains, pulses and greens. Then the nutrients come in the food itself.' Pick the view you think works best, and say why. Then say one weakness of your choice and one strength of another.",
+       "lines": 6,
+       "a": "A strong answer sees that the three work on different time scales: pills act fast but need someone to deliver them every time, fortification reaches many people cheaply but adds only a few nutrients, and varied food brings many nutrients but needs land, money and time. It may combine them."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "How fast do your eyes adjust to the dark?",
+   "day": 2,
+   "question": "How long do your eyes take to see dim things after bright light, and why?",
+   "need": [
+    "a bathroom or small room you can make dark",
+    "a white towel, a steel tumbler and a book with a dark cover",
+    "a clock or phone that shows seconds"
+   ],
+   "steps": [
+    "Before you start, put the towel, the tumbler and the book on the floor or a shelf in the dark room, a little apart. Don't let your child see where.",
+    "Your child sits in a bright room or near a sunny window for two minutes. They must not look straight at the Sun or a bulb.",
+    "Your child goes into the dark room. Close the door so only a thin line of light comes in under it.",
+    "Start counting seconds. Your child calls out the moment they can see each thing, and you write down the time.",
+    "Wait up to 10 minutes. Then switch the light on for 10 seconds and off again. Ask your child what happened to what they could see."
+   ],
+   "predict": "Ask your child to guess first: 'Will you see all three things straight away? Which will you see first?'",
+   "observe": "At first the room looks black. The white towel usually appears within a minute or two, the steel tumbler soon after, and the dark book only after several minutes. After the light is switched on and off again, the room looks dark again and the eyes must adjust again.",
+   "why": "At the back of the eye, cells that work in dim light use a light-catching substance made from vitamin A. Bright light uses it up. In the dark the eye rebuilds it, so you see more and more over many minutes. Full adjustment takes about 20 to 30 minutes. A person short of vitamin A cannot rebuild enough of it, so they stay nearly blind in dim light. This is night blindness.",
+   "safety": "Stay close to your child in the dark room and clear the floor of anything to trip on. Never look straight at the Sun.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "The bread test: what stops mould?",
+   "day": 3,
+   "question": "Which way of storing bread stops mould growing, and why?",
+   "need": [
+    "5 pieces of bread, or 1 chapati torn into 5 equal pieces",
+    "5 small zip bags or small closed dabbas",
+    "water, salt and the juice of half a lemon",
+    "a tawa",
+    "a marker for labels"
+   ],
+   "steps": [
+    "Label the bags: dry toasted, damp shelf, damp fridge, damp salt, damp lemon.",
+    "A grown-up toasts one piece on the tawa until it is dry and crisp right through. Let it cool and put it in its bag.",
+    "Sprinkle the other four pieces with the same amount of water, about one teaspoon each.",
+    "Rub one damp piece thickly with salt on both sides. Soak another damp piece with the lemon juice.",
+    "Close all the bags. Put the 'damp fridge' bag in the fridge and the other four on a kitchen shelf.",
+    "Look every two days without opening the bags, and draw what you see.",
+    "On Day 7, open the bags by an open window, away from your faces, fill in the table, then seal and throw everything away and wash hands."
+   ],
+   "predict": "Ask your child to guess first: 'Which piece will grow mould first? Which will not grow any? Why do you think so?' Write the guesses down.",
+   "observe": "Look for fuzzy spots of green, grey, white or black, wet patches and a sour smell. Usually the damp shelf piece moulds first, the fridge piece much later or not at all, and the toasted and salted pieces stay clean. The lemon piece is often slower than the plain damp piece, but not always.",
+   "why": "Moulds are fungi. Their spores float in the air and land on everything, and they grow when they find water, warmth and food. Toasting dries the bread, so there is no water for them. Thick salt draws water out of the mould's cells. Cold slows their growth. Acid from lemon slows many microbes, but some moulds can grow in acid, which is why that piece may still mould. Every way of storing food, from drying vadams to boiling milk, takes away water, warmth or air, or kills the microbes.",
+   "safety": "Never open the bags near your face or sniff mould, because the spores can make people cough or sneeze. Anyone with asthma should stay away when the bags are opened. Do not eat any of the bread. Throw the bags away sealed and wash hands.",
+   "time": "16 min to set up, 4 min checks on Days 4 and 6, 12 min on Day 7"
+  },
+  {
+   "id": "e3",
+   "title": "Does the batter rise by itself?",
+   "day": 5,
+   "question": "What makes idli and dosa batter rise overnight?",
+   "need": [
+    "2 tablespoons of urad dal and 4 tablespoons of rice, soaked separately for 5 to 6 hours",
+    "a mixie",
+    "a clear glass or jar",
+    "a rubber band and a ruler",
+    "a plate to cover the glass"
+   ],
+   "steps": [
+    "A grown-up grinds the soaked urad dal with a little water into a smooth, fluffy paste, then grinds the rice a little coarser, and mixes them with a pinch of salt.",
+    "Pour the batter into the clear glass so it fills it about halfway.",
+    "Your child puts the rubber band around the glass exactly at the top of the batter.",
+    "Cover the glass with a plate and leave it in the warmest part of the kitchen overnight, 8 to 12 hours.",
+    "In the morning, measure with the ruler how far the batter has risen above the band, and look for bubbles through the glass."
+   ],
+   "predict": "Ask your child to guess first: 'Will the batter be the same height in the morning, higher, or lower? Why?'",
+   "observe": "In a warm kitchen the batter usually rises by half its height or more, is full of small bubbles, and smells a little sour. In a cold room it may rise less and need a few more hours.",
+   "why": "Bacteria and yeasts come in on the dal, the rice and from the air. Overnight they feed on the sugars in the batter and make carbon dioxide gas and acids. The gas makes the bubbles that lift the batter, and the acid gives the sour taste. This is fermentation. It makes idlis soft and light, and studies show it can raise some B vitamins and make some minerals easier to take in.",
+   "safety": "A grown-up uses the mixie. Cook the batter before eating it.",
+   "time": "10 min to set up the night before, 12 min to measure"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The weight of one day",
+   "day": 1,
+   "mins": 15,
+   "need": [
+    "a black sheet of paper or a dark plate",
+    "sugar and a tablespoon",
+    "3 whole green moong seeds",
+    "salt",
+    "a blade for the parent"
+   ],
+   "steps": [
+    "Put two level tablespoons of sugar in a heap on the paper. Say: 'That weighs about 25 grams. It is about the weight of the protein a child your age needs each day. The protein itself, not the dal. Dal is only about a quarter protein.'",
+    "Put one whole green moong seed beside it. Say: 'A moong seed weighs about 40 milligrams. That is about the weight of the vitamin C you need each day.'",
+    "The parent cuts a moong seed into three. Put one third down. Say: 'That is about the weight of the iron you need each day, roughly 10 to 15 milligrams.'",
+    "Your child picks out two grains of salt and puts them down. Say: 'A grain of salt weighs about 60 micrograms. Two grains weigh about as much as the iodine you need in a day.'",
+    "Your child labels each heap and writes 'grams', 'milligrams' or 'micrograms' under it."
+   ],
+   "outcome": "A picture of how small micronutrient amounts are, and why they can go missing without anyone noticing. All the numbers are rough, for a child of about 8 to 10."
+  },
+  {
+   "id": "a2",
+   "title": "Label detective",
+   "day": 6,
+   "mins": 18,
+   "need": [
+    "two food packets with a nutrition table, such as biscuits and roasted chana, or instant noodles and plain oats",
+    "the notebook and a pencil"
+   ],
+   "steps": [
+    "Find the nutrition table on each packet. Show your child the column that says 'per 100 g'.",
+    "Your child copies a small table into the notebook: packet name, energy (kcal), protein (g), fat (g), sugar (g), all per 100 grams.",
+    "For each packet, work out the energy from fat: grams of fat × 9.",
+    "Ask: what part of the total energy comes from fat? For example, 20 grams of fat gives 180 kcal. If the total is 480 kcal, a bit more than a third comes from fat.",
+    "Compare the two packets: which gives more protein for 100 grams, and which more sugar?",
+    "Find the 'ingredients' list. The first ingredient is the one there is most of. Ask: is it a whole grain, a pulse, refined flour (maida) or sugar?"
+   ],
+   "outcome": "A small comparison table of two packets, and a sentence saying which one your child would choose and why."
+  },
+  {
+   "id": "a3",
+   "title": "Who needs what?",
+   "day": 5,
+   "mins": 15,
+   "need": [
+    "five slips of paper written with the family cards below",
+    "the notebook"
+   ],
+   "steps": [
+    "Write five cards: 'Ammamma, aged 70, stays indoors a lot, has weak knees.' 'Aunt Revathi, pregnant with her first baby.' 'Baby Nila, 8 months old, breastfed.' 'Cousin Fathima, 14, growing fast, has started her periods.' 'Uncle Arjun, getting better after a week of fever.'",
+    "Your child reads each card aloud and says which nutrients that person needs more of, and why.",
+    "For each person, your child writes one change to their meals, with the food and the nutrient it gives.",
+    "Check together. Ammamma: calcium from ragi or curd, morning sun on her arms for vitamin D, soft protein such as dal. Revathi: iron, folate and calcium, and iodised salt, because the baby is building blood, bones and brain from her food. Nila: soft mashed food such as dal rice, mashed banana or ragi porridge alongside breast milk, because breast milk alone no longer gives enough iron after about six months. Fathima: iron from bajra, chana and greens with lemon, because she is growing fast and losing some blood each month. Arjun: plenty of water, and soft food with protein, such as idli with sambar or moong dal khichdi, to mend."
+   ],
+   "outcome": "Five written meal changes, one for each person, each with a reason."
+  }
+ ],
+ "project": {
+  "title": "A week of tiffins against hidden hunger",
+  "days": [
+   6,
+   7,
+   8
+  ],
+  "steps": [
+   "Write five school days in a column.",
+   "For each day, choose a cereal and a pulse that go together, such as idli, pongal, rajma rice or roti with dal.",
+   "Add a vegetable or fruit to each day, and make sure at least two days have something orange or dark green.",
+   "Add a vitamin C food to each day, such as guava, amla, orange, tomato or a squeeze of lemon.",
+   "Write the rough cost of each tiffin from your kitchen bills or today's shop prices, and the total for the week.",
+   "Tick each tiffin against the body outline: eyes, blood, bones and neck. Change any tiffin that misses one.",
+   "Cook one tiffin together and pack it."
+  ],
+  "outcome": "A written five-day tiffin plan with costs, checked against the nutrients, and one tiffin cooked and eaten."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Find the Missing Piece",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the 30 cards, printed on one A4 sheet and cut out"
+  ],
+  "rules": [
+   "Each set has three cards: a nutrient card, a 'Without me' card and a 'Found in' card.",
+   "Shuffle and deal 5 cards to each player. Put the rest face down as a pile.",
+   "On your turn, ask any player for a card you need: 'Do you have the Found in card for iron?' If they have it, they must give it to you and you ask again. If not, take a card from the pile and your turn ends.",
+   "Before you keep a card you were given, say aloud why it belongs with your nutrient. If others disagree, check the answer on the back.",
+   "When you have all three cards of a set, put them down and say one way to get that nutrient cheaply.",
+   "When all sets are down, the player with the most sets wins."
+  ],
+  "cards": [
+   {
+    "job": true,
+    "front": "VITAMIN A"
+   },
+   {
+    "front": "Without me: cannot see well at dusk (night blindness)",
+    "back": "VITAMIN A"
+   },
+   {
+    "front": "Found in: papaya, carrot, drumstick leaves",
+    "back": "VITAMIN A"
+   },
+   {
+    "job": true,
+    "front": "IRON"
+   },
+   {
+    "front": "Without me: tired, breathless and pale (anaemia)",
+    "back": "IRON"
+   },
+   {
+    "front": "Found in: bajra, rajma, green leafy vegetables, eggs",
+    "back": "IRON"
+   },
+   {
+    "job": true,
+    "front": "FOLATE"
+   },
+   {
+    "front": "Without me: a kind of anaemia in pregnant mothers",
+    "back": "FOLATE"
+   },
+   {
+    "front": "Found in: green leafy vegetables, dal",
+    "back": "FOLATE"
+   },
+   {
+    "job": true,
+    "front": "VITAMIN D"
+   },
+   {
+    "front": "Without me: soft, bent bones (rickets)",
+    "back": "VITAMIN D"
+   },
+   {
+    "front": "Found in: sunlight on the skin, egg yolk, fish",
+    "back": "VITAMIN D"
+   },
+   {
+    "job": true,
+    "front": "CALCIUM"
+   },
+   {
+    "front": "Without me: weak bones and teeth",
+    "back": "CALCIUM"
+   },
+   {
+    "front": "Found in: ragi, milk, curd, sesame",
+    "back": "CALCIUM"
+   },
+   {
+    "job": true,
+    "front": "IODINE"
+   },
+   {
+    "front": "Without me: a swelling in the neck (goitre)",
+    "back": "IODINE"
+   },
+   {
+    "front": "Found in: iodised salt, sea fish",
+    "back": "IODINE"
+   },
+   {
+    "job": true,
+    "front": "VITAMIN C"
+   },
+   {
+    "front": "Without me: bleeding gums and slow healing (scurvy)",
+    "back": "VITAMIN C"
+   },
+   {
+    "front": "Found in: amla, guava, lemon",
+    "back": "VITAMIN C"
+   },
+   {
+    "job": true,
+    "front": "VITAMIN B1"
+   },
+   {
+    "front": "Without me: weak, numb legs and a weak heart (beriberi)",
+    "back": "VITAMIN B1"
+   },
+   {
+    "front": "Found in: unpolished rice, whole grains, groundnuts",
+    "back": "VITAMIN B1"
+   },
+   {
+    "job": true,
+    "front": "NIACIN"
+   },
+   {
+    "front": "Without me: sore red skin and an upset stomach (pellagra)",
+    "back": "NIACIN"
+   },
+   {
+    "front": "Found in: groundnuts, whole grains, fish, meat",
+    "back": "NIACIN"
+   },
+   {
+    "job": true,
+    "front": "PROTEIN"
+   },
+   {
+    "front": "Without me: swollen legs and belly (kwashiorkor)",
+    "back": "PROTEIN"
+   },
+   {
+    "front": "Found in: dal, milk, eggs, paneer",
+    "back": "PROTEIN"
+   }
+  ]
+ },
+ "big": [
+  "The carotene in a papaya becomes part of your eye. Where does the papaya end and you begin?",
+  "India grows a lot of food, yet many children are short of iron. Is that a problem of growing, of sharing, or of knowing?",
+  "Grandmothers cooked drumstick leaves 'for the eyes' long before anyone named vitamin A. What else might old kitchens know that science has not yet tested?",
+  "Is a vitamin pill as good as the food the vitamin came from? What might a food have that a pill does not?",
+  "The moulds on the bread were feeding and growing just as we do. When is a mould a pest, and when is it a partner, as in curd or idli batter?"
+ ],
+ "challenge": [
+  {
+   "q": "Big doses of vitamin C stop you catching colds.",
+   "hint": "In 1970 Linus Pauling, a chemist who won two Nobel Prizes, wrote a famous book saying so, and millions believed him. Since then many careful trials have tested it. For most people, taking vitamin C every day does not stop colds, though it may make them a little shorter. It seemed to help people under heavy physical strain, such as marathon runners. Ask: why might people trust a famous scientist even on a subject outside their own work?"
+  },
+  {
+   "q": "Spinach is the best food for iron.",
+   "hint": "Palak does have iron, but it also has a substance called oxalate that holds on to much of the iron, so the body takes in only a little of it. Bajra, rajma, chana, eggs and meat give iron the body takes in more easily. There is also a famous story that spinach got its name for iron from a decimal point put in the wrong place. A researcher, Mike Sutton, looked for proof in 2010 and found none, so that story seems to be a myth too. Ask: how can you check a story that 'everyone knows'?"
+  },
+  {
+   "q": "If you eat enough to feel full, you get all the nutrients you need.",
+   "hint": "Hidden hunger shows this is not true. Somu in the story ate rice and saaru until he was full, and still lost his vitamin A. Pellagra hit families who had plenty of maize. Being full tells you about energy, not about micronutrients. Ask: what does feeling full actually measure?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A drumstick tree",
+   "view": "The tree makes carotene to protect their leaves from the strong Indian sun, and keeps making new leaves when some are picked. Ask: when we eat the leaves for our eyes, what are we taking, and what could we give back?"
+  },
+  {
+   "who": "A noon-meal cook in a Tamil Nadu government school",
+   "view": "Tamil Nadu has served free cooked meals in its schools for decades, and since 2022 many of its schools also serve breakfast. For many children it is the most nourishing food of the day. Ask: who decides what goes on a school plate, and what would you add?"
+  },
+  {
+   "who": "The bacteria and yeasts in idli batter",
+   "view": "They feed on the batter, make gas and acid, and in doing so make it softer and richer. Ask: is the idli made by the cook, by the microbes, or by both together?"
+  },
+  {
+   "who": "The moulds on the bread",
+   "view": "To the moulds, damp bread is food and a home, and they spread their spores to find more. The same kind of living being makes penicillin, a medicine. Ask: is 'spoiled' a fact about the bread, or about who wanted to eat it?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Lucy Wills (1888–1964), a British doctor who worked in Bombay (now Mumbai)",
+   "idea": "From 1928 she studied a serious anaemia in poor pregnant women, many of them textile mill workers in Bombay. Their red blood cells were too few and too large. She found the illness came from their diet, and that a cheap yeast extract cured it, both in the women and in monkeys she tested. The unknown nutrient was called the 'Wills factor'.",
+   "then": "Her work was respected and widely used to treat pregnant women. Her university, Cambridge, did not yet give full degrees to women, so she had passed the exams there without being given the degree.",
+   "now": "The Wills factor turned out to be folate, also called folic acid, named after the Latin word for leaf because green leaves are rich in it. It was made pure in the 1940s. Today pregnant women in India and around the world are given iron and folic acid tablets, which also protect the baby's spine as it forms.",
+   "status": "accepted",
+   "ask": "Lucy Wills found a cure before anyone knew what the nutrient was. Can you know something works before you know why it works?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "Cicely Williams (1893–1992), a Jamaican-born doctor who worked in the Gold Coast (now Ghana)",
+   "idea": "In the early 1930s she described young children with swollen legs and bellies and peeling skin, and used the local Ga word 'kwashiorkor' for the illness. She showed it came after children stopped breastfeeding and ate mostly maize porridge, and said it was a disease of poor diet.",
+   "then": "Some doctors at first thought it was a form of pellagra. Over the next decades it was accepted as a nutrition disease, and was blamed mainly on too little protein. She later spoke out strongly against companies that sold powdered baby milk to poor mothers in place of breastfeeding.",
+   "now": "Kwashiorkor is a real and serious form of malnutrition, and it is treated with special foods. But scientists now argue about exactly what causes it, because children on the same diet do not all get it. A 2013 study of twins in Malawi, where only one twin in a pair got kwashiorkor, suggested that the microbes in a child's gut may play a part.",
+   "status": "debated",
+   "ask": "Two twins eat the same food and only one gets ill. What else could be different between them? How would you test it?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "Joseph Goldberger (1874–1929), a doctor in the United States Public Health Service",
+   "idea": "From 1914 he studied pellagra, which was killing thousands of poor people in the southern United States who ate mostly maize. He showed that adding milk, meat and vegetables cured and prevented it, and that a poor diet could cause it. In 1916 he, his wife Mary and several colleagues took material from pellagra patients into their own bodies, and none of them got pellagra.",
+   "then": "Many doctors believed pellagra was caused by a germ, and many leaders in the South did not want to hear that it came from poverty and poor wages. His idea was resisted for years.",
+   "now": "He was right. In 1937 the missing nutrient was found to be niacin, a B vitamin. In Mexico and Central America, people cook maize with lime, a method called nixtamalisation, which frees the niacin in the maize. That is why people there ate maize for thousands of years with much less pellagra.",
+   "status": "accepted",
+   "ask": "Why might people prefer to blame a germ than a poor diet? What would each answer ask them to change?",
+   "day": 6
+  }
+ ],
+ "story": {
+  "title": "The Fireflies Came Back",
+  "text": [
+   "The summer the storm knocked down our papaya tree, my brother Somu began to trip over the doorstep.",
+   "I am Kaveri, and I was ten that year. We lived at the edge of a village near Mandya, where the sugarcane grows taller than my father. Our house had a mud yard, a well, a jasmine bush that my mother watered every evening, and a papaya tree that gave more fruit than we could eat. All through the hot months Amma cut a papaya every few days. Somu, who was six and fought about every other food, ate the soft orange pieces until his chin was sticky.",
+   "Then one night in May the wind came. In the morning the papaya tree lay across the yard with its roots in the air. The same week my uncle cut down the old drumstick tree behind the cowshed, because its branches had grown brittle and one had nearly fallen on the cow. The rains were late that year. The amaranth and the greens in our little kitchen bed dried into brown strings. We ate ragi mudde and saaru, rice and huli, day after day. Nobody went hungry. Somu's belly was round and full.",
+   "In July, Somu began to be afraid of the evening.",
+   "In the day he was the same Somu. He could find a glass bead in the dust at noon. He could see a kite from the far end of the field before I could. But when the sky turned grey and the lamps were lit, he stopped playing. He stood still in the yard with his hands out, like someone in a game of blind man's buff. He walked into the cow. He fell over the doorstep and cut his lip.",
+   "Ajji said it was the evil eye. Amma said he was being naughty to get carried. Appa said he would grow out of it.",
+   "I did not think he was being naughty. Naughty children laugh. Somu cried.",
+   "So I tested him. At dusk I held up my fingers by the well and asked, 'How many?' I could see four clearly. He said he could not see my hand. I lit the lamp and held up my fingers again beside the flame. He could see the flame, but not the cat sitting next to it. In the morning I asked again, and he counted my fingers from across the yard.",
+   "His eyes worked in the day and stopped working at dusk. Something in them needed more than daylight.",
+   "I began to keep notes on the back pages of my school notebook. I wrote what each of us ate, and when Somu first fell. Then I wrote what had changed. The storm. The papaya. The drumstick tree. The greens. I looked at that list for a long time.",
+   "We all ate the same rice and saaru. But only Somu had eaten papaya every single day. And only Somu had lost the evening.",
+   "I remembered something Ajji used to say when we were small and she made us eat drumstick leaves fried with onion and coconut. 'Nugge soppu, for the eyes.' We had laughed and pulled faces. Nobody had cooked it since my uncle cut the tree.",
+   "Our neighbour Shantamma still had a drumstick tree, a tall one, leaning over her wall. The next morning I knocked on her door with a steel plate. She did not ask why. She pulled down a branch with a hooked stick and stripped the tiny leaves into my plate until it was heaped.",
+   "Ajji cooked them with a spoon of oil and a handful of grated coconut, the way she used to. Somu said they looked like grass. I told him that if he ate them, I would play catch with him after dark. He ate them because he wanted to believe me.",
+   "Every day after that I went to Shantamma's wall. When the market had pumpkin, Amma bought one and mashed it into his rice. Somu complained and ate.",
+   "In the third week, the health nurse came to the village. Sister Leela was a small woman with a big cloth bag. She looked into Somu's eyes, asked Amma some questions, and gave him a spoonful of something from a bottle. Then she turned to me. 'What has he been eating?' she asked. I showed her my notebook. She read every page, and then she looked at me for a long moment.",
+   "'The younger the child, the smaller the store,' she said, mostly to Amma. 'The rest of you had enough saved to last the summer. He did not.'",
+   "A few weeks later, on a warm evening after the first rain, Somu ran out into the dark yard and began to shout.",
+   "He had never seen them before. All over the sugarcane, tiny lights were blinking on and off, hundreds of them, green and gold, like sparks that did not burn out. He chased them to the edge of the field and back, laughing, and caught one in his cupped hands.",
+   "'Were they always here?' he asked me, out of breath, his hands glowing.",
+   "'Every night,' I said.",
+   "Amma planted a papaya seed where the old tree had stood. Somu watered it every evening, after dark."
+  ],
+  "epiphany": "For the parent: nobody in Kaveri's family was short of food, yet Somu lost his sight at dusk. The turn comes when Kaveri sees that everyone ate the same rice, but only Somu had lost the papaya he ate every day. Papaya, pumpkin and drumstick leaves are full of carotene, which the body turns into vitamin A. The eye needs vitamin A to catch dim light. That is hidden hunger: a full stomach, one missing micronutrient. Sister Leela's line explains why only Somu fell ill: the body stores vitamin A, and a small child has the smallest store. Let your child work this out with the dark-room test on Day 2. Kaveri, Somu and the village are made up. Night blindness from too little vitamin A, and doses of vitamin A for young children in India, are real.",
+  "ask": [
+   "Why did Somu see well at noon but not at dusk?",
+   "Everyone ate the same rice and saaru. How did Kaveri work out what was different for Somu?",
+   "Ajji's saying about drumstick leaves was right. Why do you think the family had stopped listening to it?",
+   "Sister Leela said the younger the child, the smaller the store. Store of what, and why does that matter?",
+   "Somu asked if the fireflies were always there. What else might be around us that we cannot notice?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "A full stomach can still be hungry for one nutrient.",
+   "more": "Feeling full tells you that you have eaten enough energy. It says nothing about micronutrients. Somu in the story, the women Lucy Wills treated in Bombay, and the maize eaters with pellagra all had food, but each was missing one thing. This is hidden hunger, and about two billion people live with it."
+  },
+  {
+   "idea": "The smallest amounts can matter the most.",
+   "more": "A child needs about two salt grains' weight of iodine a day, and less than a teaspoon in a whole life. Without it, the thyroid swells and a baby's brain cannot grow fully. Size on the plate is no guide to how much a nutrient matters."
+  },
+  {
+   "idea": "Many nutrients we need were made by other living beings for their own lives.",
+   "more": "Plants make carotene to protect their leaves from strong light, and we turn it into vitamin A for our eyes. A sprouting moong seed makes vitamin C as they start to grow. The bacteria and yeasts in idli batter make B vitamins as they feed. Our bodies are partly built from what other beings made to solve their own problems."
+  },
+  {
+   "idea": "Old kitchens often solved nutrition problems before science could explain them.",
+   "more": "Dal with rice, fermented batter, lemon on greens, drumstick leaves for the eyes and maize cooked with lime all worked long before anyone knew about amino acids or vitamins. Science can test these habits, keep the ones that work, and explain why."
+  }
+ ],
+ "unknowns": [
+  "Why are so many Indians short of vitamin D when the country has so much sunshine? Scientists suggest indoor life, covered skin, air pollution, darker skin needing more time in the sun, and diet. Nobody knows how much each one matters, and experts still argue about what blood level counts as too low.",
+  "What exactly causes kwashiorkor? Too little protein does not explain why one child gets it and another on the same food does not. Gut microbes may play a part, but nobody is sure yet.",
+  "Do vitamin pills help people who already eat a varied diet? Large studies have mostly found little benefit for well-fed adults, but scientists still argue about which groups gain from them.",
+  "How much of each nutrient does one particular person need? The numbers on charts are averages with a safety margin. Bodies, genes and gut microbes differ, and scientists are only beginning to measure how much."
+ ],
+ "books": [
+  {
+   "title": "What the World Eats",
+   "author": "Faith D'Aluisio and Peter Menzel",
+   "for": "read together",
+   "age": "8–12",
+   "why": "Photographs of real families in many countries beside a week of their food. It starts good talks about variety, cost, packets and fairness."
+  },
+  {
+   "title": "Food Rules: An Eater's Manual",
+   "author": "Michael Pollan",
+   "for": "parent reads",
+   "age": "adult, read a few rules aloud",
+   "why": "Short, plain rules about eating real food, many of which match what old Indian kitchens already do."
+  },
+  {
+   "title": "Spoon-Fed: Why Almost Everything We've Been Told About Food Is Wrong",
+   "author": "Tim Spector",
+   "for": "parent reads",
+   "age": "adult",
+   "why": "A doctor and scientist questions popular food beliefs, including vitamin pills, and explains how hard nutrition is to study."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is hidden hunger? Give an example.",
+   "a": "Being short of a vitamin or mineral even though you eat enough to feel full. For example, a child who eats plenty of rice but no orange or green foods can be short of vitamin A."
+  },
+  {
+   "q": "Why do your eyes take minutes to see in a dark room, and what does that have to do with vitamin A?",
+   "a": "Bright light uses up a light-catching substance at the back of the eye, and the eye rebuilds it in the dark. That substance is made from vitamin A. Without enough vitamin A, a person cannot rebuild it, so they cannot see in dim light. This is night blindness."
+  },
+  {
+   "q": "What does iron do in the body, and what helps the body take in iron from plant foods?",
+   "a": "Iron is part of haemoglobin, which carries oxygen in the blood. Too little iron causes anaemia. Vitamin C, such as lemon on dal, helps the body take in iron from plant foods. Tea with the meal makes it take in less."
+  },
+  {
+   "q": "Why can a child get rickets even in a sunny country?",
+   "a": "Rickets comes from too little vitamin D or calcium, which makes bones soft. The skin makes vitamin D only when sunlight falls on it directly. A child who stays indoors, or behind glass, or is always covered, may not make enough."
+  },
+  {
+   "q": "Why is iodine added to salt, and what does it prevent?",
+   "a": "Almost everyone eats a little salt every day, so iodised salt reaches every family cheaply. Iodine lets the thyroid make its hormone. It prevents goitre, and protects a baby's brain before birth."
+  },
+  {
+   "q": "Give two cheap ways to make food more nourishing, and say why each works.",
+   "a": "Any two, with reasons. Eat a cereal with a pulse, because each fills the other's missing amino acid. Sprout seeds, because the seed makes vitamin C. Ferment batter, because the microbes add some B vitamins. Cook in little water and keep the cooking water, because B vitamins and vitamin C dissolve in water. Add lemon to greens, so the body takes in more iron."
+  },
+  {
+   "q": "In the bread test, which pieces stayed free of mould, and why?",
+   "a": "Usually the toasted and the salted pieces, and often the one in the fridge. Mould needs water and warmth. Toasting removed the water, salt drew water out of the mould's cells, and cold slowed the mould down."
+  }
+ ]
+}

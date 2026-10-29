@@ -1,0 +1,1243 @@
+{
+ "key": "combined|sci|2|electricity-and-staying-safe-with-it",
+ "board": "combined",
+ "subj": "sci",
+ "level": 2,
+ "n": "electricity-and-staying-safe-with-it",
+ "day_mins": 35,
+ "title": "Electricity: what it does, where it comes from and how to stay safe",
+ "source": "DeepKids Combined. Covers Cambridge Stage 2 Unit 6: where we use electricity (6.1), keeping safe with electricity (6.2) and making circuits (6.3). No textbook needed.",
+ "summary": "When the power goes off, the fan, the lights and the fridge all stop at once, but the torch still works. Your child finds out why: some things get electricity from the wall, which comes along wires from a power station, and some carry their own cells. They learn why mains electricity can hurt a person and the safety rules that keep us safe, each with its reason. Then they open a torch, light a bulb with a circuit of their own, find out why a gap stops it, and make a paper clip switch for a shoebox room. They also see a balloon make tiny sparks, find out that lightning is a giant spark, and learn that their own nerves and heart run on electrical signals.",
+ "builds_on": "This is the first rung on electricity. Class 1 'Materials and their properties' sorted things by what they are made of, which helps here when we test metal and plastic. Class 3 'Magnets' shows that a moving magnet is how a power station makes electricity. Class 4 comes back to electricity with conductors and insulators, whether water conducts, how switches work inside appliances, and what happens when you add more cells or bulbs to a circuit.",
+ "subconcepts": [
+  "electricity makes light, sound, heat, cold and movement",
+  "appliances, and the wire and plug that mean mains electricity",
+  "mains electricity comes from a power station along wires",
+  "power stations make electricity from coal, falling water, wind and sunlight",
+  "cells (batteries): small, safe stores of electricity",
+  "button cells and used cells: dangers, and taking them to e-waste",
+  "electric shock: the body can become a path for mains electricity",
+  "water and cracked wires make a shock more likely",
+  "safety rules at home, each with its reason",
+  "a circuit: a complete loop from the cell, through the bulb and back",
+  "a gap stops the electricity: metal fills the gap, plastic does not",
+  "a switch opens and closes a gap in the circuit",
+  "birds on a wire, kites and power lines",
+  "static electricity and lightning, and staying safe in a storm",
+  "living bodies use electricity: nerves, the heart and the electric eel"
+ ],
+ "goals": [
+  "By the end your child can name ways electricity makes light, sound, heat, cold and movement at home, and say which things use mains and which use cells.",
+  "By the end your child can say where mains electricity comes from and how it reaches the home.",
+  "By the end your child can give five safety rules for electricity, with the reason for each one.",
+  "By the end your child can build a circuit that lights a bulb, and explain why a gap stops it.",
+  "By the end your child can make a simple switch and say what a switch does.",
+  "By the end your child can say what to do in a thunderstorm, and name one living thing that uses electricity."
+ ],
+ "words": [
+  [
+   "electricity",
+   "a kind of energy that flows along wires and makes things work, like a fan or a light"
+  ],
+  [
+   "appliance",
+   "a machine that uses electricity, like a fan, a fridge, a mixie or a torch"
+  ],
+  [
+   "mains electricity",
+   "the strong electricity that comes along wires from a power station to the sockets in the wall. It can kill."
+  ],
+  [
+   "power station",
+   "a big building where mains electricity is made"
+  ],
+  [
+   "cell",
+   "a small store of electricity that you can carry, like the AA cell in a torch. People often call it a battery."
+  ],
+  [
+   "circuit",
+   "a complete loop that electricity flows round, from the cell, through the bulb and back to the cell"
+  ],
+  [
+   "switch",
+   "the part that opens or closes a gap in a circuit, to turn something off or on"
+  ],
+  [
+   "conductor",
+   "a material that lets electricity flow through it. Metals like copper and steel are conductors."
+  ],
+  [
+   "insulator",
+   "a material that does not let electricity flow through it, like plastic, rubber and wood"
+  ],
+  [
+   "electric shock",
+   "the harm done when mains electricity flows through a person's body"
+  ],
+  [
+   "static electricity",
+   "electricity that builds up on something when it is rubbed, like a balloon rubbed on your hair"
+  ],
+  [
+   "lightning",
+   "a giant spark of electricity between a cloud and the ground, or between clouds"
+  ]
+ ],
+ "days": [
+  {
+   "n": 1,
+   "title": "Where do we use electricity?",
+   "goal": "Find all the jobs electricity does at home, and sort the things that use the wall from the things that use cells.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Power cut!",
+     "mins": 7,
+     "do": "Ask: 'Imagine the power goes off on a hot evening. What stops working?' Wait for your child's list. Good answers: the fan, the lights, the TV, the fridge, the mixie, the Wi-Fi, the lift, the water pump. Then ask: 'What still works?' Good answers: a torch, a phone that is charged, the wall clock, the gas stove, a diya. Ask: 'Why do you think the torch still works when the fan stops?' Listen to the reason. Do not explain yet. Say: 'This week we find out.'"
+    },
+    {
+     "kind": "act",
+     "title": "Electricity hunt",
+     "mins": 15,
+     "do": "Do Activity a1. Your child walks round the home with you, looking only, and fills the five-column chart: Light, Sound, Heat, Cold, Move. Point at things they miss: the geyser (heat), the doorbell (sound), the ceiling fan (move), the fridge (cold). Ask: 'Which thing does two jobs?' Good answers: the TV makes light and sound, the fan makes movement and the moving air cools you.",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Wall or cell?",
+     "mins": 8,
+     "do": "Go back over the chart. For each thing, ask: 'Does it have a wire and a plug, or does it have cells inside?' Your child puts a W next to the wall things and a C next to the cell things. Say: 'Things with a wire and a plug use mains electricity. It comes from the socket in the wall. Mains electricity is very strong. Only grown-ups plug in, unplug or move these things. Things with cells carry their own small store of electricity. That is why the torch worked in the power cut.' Ask: 'Which has a C and a W?' (A phone: it has a battery, and it charges from the wall.)"
+    },
+    {
+     "kind": "think",
+     "title": "Before electricity",
+     "mins": 5,
+     "do": "Ask: 'Your great-great-grandmother had no electricity at all. How did she get light at night? How did she keep cool? How did she grind rice for idli?' Good answers: oil lamps and diyas, a hand fan (visiri), a grinding stone (attukal). Ask: 'Which of these do we still use?' Say: 'Electricity has been in most Indian homes for less than a hundred years. In some villages it came only a few years ago.'"
+    }
+   ],
+   "need": [
+    "a sheet of paper with five columns",
+    "a pencil"
+   ],
+   "prep": [
+    {
+     "task": "Buy the circuit kit for Day 4: a holder for two AA cells with wires, a 2.5 V torch bulb and holder, and wires. A science or stationery shop, an electrical shop or an online shop has them.",
+     "when": "1 week before"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "From the power station to your fan, and the cells we carry",
+   "goal": "Find out where mains electricity comes from, meet Michael Faraday, and sort the cells in the home.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the hunt",
+     "mins": 4,
+     "do": "Ask: 'Yesterday you found W things and C things. Name two of each.' Then ask: 'Where do you think the electricity in the wall comes from?' Listen to the guess. Some children say 'from the switch' or 'from the wire'. Say: 'Let us follow the wire back.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Follow the wire",
+     "mins": 10,
+     "do": "Stand at a window or go down to the street. Point to the power lines on poles, or the box where the wires come into your building. Say: 'Mains electricity is made in a big building called a power station. It travels along thick wires, high on poles or under the ground, to every home.' Show a photo on a phone of a coal power station and of a field of solar panels. Say: 'Inside most power stations, a huge wheel spins. It turns magnets inside coils of wire, and that makes electricity. The wheel is pushed round by steam from burning coal, by falling water from a dam, or by the wind. Solar panels make electricity straight from sunlight. Most of India's electricity comes from burning coal, and more and more comes from the Sun and the wind.' Ask: 'The smoke from burning coal goes into the air. Who breathes it?' (The people near the power station, the birds, the trees, all of us.)"
+    },
+    {
+     "kind": "talk",
+     "title": "The bookbinder's boy",
+     "mins": 8,
+     "do": "Tell the story of Michael Faraday in Voice v1, in your own words. Say: 'He was a poor boy who left school at about 13. He read the science books he was binding.' Then ask the voice's question: 'Faraday did not have much schooling. What helped him become a great scientist?' Good answers: he read, he went to lectures, he wrote neat notes, he asked for a job, he tried things. Say: 'Every power station that spins magnets in wire uses what Faraday found.'",
+     "ref": "v1"
+    },
+    {
+     "kind": "act",
+     "title": "Which cell goes where?",
+     "mins": 9,
+     "do": "Do Activity a2. Collect the cells in your home on a tray, and the things they go in. Your child matches each cell to its thing. Then hold up a button cell (from a watch or a car key). Say: 'This small round cell is dangerous for babies. If a baby swallows one, it can burn the inside of the food pipe in about two hours. So we keep button cells high up and in a closed box. If a child swallows one, we go to a hospital at once.' Say: 'Never open, bite or burn any cell. Used cells go to an e-waste box, not the dustbin.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "think",
+     "title": "How much is enough?",
+     "mins": 4,
+     "do": "Ask: 'Our home uses electricity all day. Making it burns coal. What could we switch off when nobody is using it?' Good answers: the fan and light in an empty room, the TV when nobody is watching. Ask: 'Does a family in a village with power for only a few hours a day need the same rule?' Let your child think aloud. There is no single right answer."
+    }
+   ],
+   "need": [
+    "a phone to show photos",
+    "the cells in your home (AA, AAA, a button cell) and the things they go in",
+    "a tray"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Why mains electricity is dangerous",
+   "goal": "Understand how mains electricity can flow through a person, then find the dangers at home and make the safety rules.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Strong and weak",
+     "mins": 4,
+     "do": "Show an AA cell. Say: 'This cell gives a small push to electricity, called 1.5 volts. You cannot feel it, even if you touch both ends.' Point at a wall socket without touching it. Say: 'The socket gives 230 volts. That is about 150 times as strong.' Ask: 'Which one do you think can hurt a person?' (The socket.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Your body can become a path",
+     "mins": 8,
+     "do": "Ask: 'What do you think happens if a person touches a bare wire from the wall?' Listen to the answer. Then say: 'Electricity flows wherever it can find a path. Your body is mostly water with salt in it, and salty water lets electricity through. So mains electricity can flow into your hand, through your body and out through your feet into the floor. This is called an electric shock. It can burn you and stop your heart.' Ask: 'Why are wires covered in plastic?' (Plastic does not let electricity through, so it keeps the electricity inside the wire.) Ask: 'Why are wet hands more dangerous than dry hands?' (Dry skin slows electricity down a lot. Wet skin lets it through much more easily.)"
+    },
+    {
+     "kind": "act",
+     "title": "Spot the danger",
+     "mins": 15,
+     "do": "Do Activity a3. Walk round your home as safety inspectors, looking but never touching. Your child writes down each danger you find. Then sit down and make the rules together, each with its reason, as the activity says. Your child writes the rules on a poster for the fridge.",
+     "ref": "a3"
+    },
+    {
+     "kind": "act",
+     "title": "Live wire freeze",
+     "mins": 8,
+     "do": "Play music and let your child dance. Stop the music now and then and call out a situation. If it is dangerous, your child calls 'Live wire!' and freezes. If it is safe, they keep dancing. Use these: 'You switch on the fan with dry hands.' (safe) 'You switch on the light straight after a bath.' (danger) 'A kite is stuck on a power line and you reach for it.' (danger) 'You see a cracked wire and tell a grown-up.' (safe) 'Your brother pokes a pin into a socket.' (danger) 'Amma plugs in the mixie.' (safe) 'A charger is lying in a puddle of water.' (danger) After each danger, ask: 'Why?'"
+    }
+   ],
+   "need": [
+    "an AA cell",
+    "a notebook and pencil",
+    "a sheet of paper and crayons for the poster",
+    "music to dance to"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Inside a torch, and your first circuit",
+   "goal": "Find the loop inside a torch, then build a circuit that lights a bulb.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What is in a torch?",
+     "mins": 4,
+     "do": "Show a torch. Ask: 'When you press the switch, what happens inside to make the light come on?' Listen to the guess and the reason. Some children say the switch makes the light. Say: 'Let us open it and see.'"
+    },
+    {
+     "kind": "act",
+     "title": "Open a torch",
+     "mins": 11,
+     "do": "Do Activity a4. A grown-up unscrews the torch over a cloth, and your child lays out the parts in order. Ask your child to trace with a finger where the electricity goes: out of the cells, along the metal strip or the spring, through the switch, into the bulb and back to the cells. Ask: 'Which parts are metal? Which parts are plastic?' Say: 'The electricity goes round and comes back. That is called a circuit.'",
+     "ref": "a4"
+    },
+    {
+     "kind": "exp",
+     "title": "Light the bulb",
+     "mins": 15,
+     "do": "Do Experiment e1 with the kit. First ask: 'If we join just one wire from the cells to the bulb, will it light? Why do you think so?' Write down the guess. Try it. (It does not light.) Then your child adds the second wire, back to the other end of the cells. (It lights.) Say: 'A bulb lights only when there is a complete loop: out of the cells, through the bulb and back to the cells. This loop is called a circuit.' Your child unclips one wire and clips it back, again and again, and says 'open, closed' each time.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "What the switch does",
+     "mins": 5,
+     "do": "Show the switch part from the torch. Slide or press it while your child watches the metal piece move. Ask: 'When the light is off, what do you see inside the switch?' (A gap between two metal pieces.) 'When it is on?' (The metal pieces touch.) Say: 'A switch does not make electricity. It closes a gap to make the loop complete, and opens it to break the loop. That is what you did with your hand when you unclipped the wire.'"
+    }
+   ],
+   "need": [
+    "a torch that takes AA or D cells and unscrews (not a charging torch)",
+    "a cloth",
+    "the circuit kit: a holder for two AA cells with two wires, two AA cells, a 2.5 V torch bulb in a bulb holder, and two more wires"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Gaps and loops",
+   "goal": "Act out a circuit with the whole family, then find out what can fill a gap in a circuit.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Build it from memory",
+     "mins": 4,
+     "do": "Give your child the kit and ask them to make the bulb light without help. Ask: 'What does the electricity need to light the bulb?' (A complete loop from the cells, through the bulb and back.)"
+    },
+    {
+     "kind": "act",
+     "title": "Be the circuit",
+     "mins": 8,
+     "do": "Do Activity a5 with everyone at home. Stand in a ring holding a loop of string or a dupatta. Ask: 'Who is the cell? Who is the bulb?' Then let one person let go. Ask: 'What happens to the bulb now?' (It goes out, because the loop is broken.)",
+     "ref": "a5"
+    },
+    {
+     "kind": "exp",
+     "title": "What can fill the gap?",
+     "mins": 14,
+     "do": "Do Experiment e2. Before each test, your child picks up the thing and guesses: 'Will the bulb light?' Then they test it and put it on the 'lights' plate or the 'does not light' plate. At the end, ask: 'What is the same about all the things that lit the bulb?' (They are all metal.) Say: 'Materials that let electricity through are called conductors. Metals are conductors. Materials that do not let it through are called insulators: plastic, rubber, wood, paper and cloth.' Ask: 'Now can you say why a wire has metal inside and plastic outside?' (The metal carries the electricity, and the plastic keeps it in and keeps us safe.)",
+     "ref": "e2"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 9,
+     "do": "Do worksheet ws1 together. Read each question aloud. Let your child use the kit to check any circuit question they are not sure of. For the written questions, your child says the answer first and then writes one or two sentences.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "the circuit kit: a holder for two AA cells with two wires, two AA cells, a 2.5 V torch bulb in a bulb holder, and two more wires",
+    "a long string or a dupatta tied in a loop",
+    "a steel spoon, a coin, a steel key, a strip of aluminium foil, a plastic ruler, a rubber eraser, a wooden ice-cream stick, a sheet of paper and a cotton handkerchief",
+    "two plates",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The crow on the wire, and a switch you make",
+   "goal": "Hear a story about a crow and a kite on a power line, then make a paper clip switch.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Birds on wires",
+     "mins": 3,
+     "do": "Ask: 'Have you seen crows or pigeons sitting on power lines? Why do you think they do not get a shock?' Listen to the guess. Do not answer yet. Say: 'Listen to this story and see if you can find out.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Crow on the Wire",
+     "mins": 10,
+     "do": "Read the story 'The Crow on the Wire' aloud. It is told by a mother crow in Hyderabad at Sankranti, the kite festival. Read slowly, and stop once after the brother picks up the pole to ask: 'What do you think will happen?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Why the crow is safe",
+     "mins": 7,
+     "do": "Ask the story questions. Then ask: 'Why is a crow on one wire safe?' Good answer: electricity flows only where it has a path. A crow on one wire is not a path to anywhere, so the electricity stays in the wire. Ask: 'When would the crow get hurt?' (If their wings touched two wires, or a wire and the pole, because then they would be a path.) Say the rule: 'Never touch, climb or poke anything at a power line. If a kite gets stuck, let it go.'"
+    },
+    {
+     "kind": "act",
+     "title": "Make a paper clip switch",
+     "mins": 15,
+     "do": "Do Activity a6. A grown-up pushes in the drawing pins. Your child builds the switch into the circuit and turns the bulb on and off. Ask: 'When the bulb is off, where is the gap?' (Between the paper clip and the second pin.) Ask: 'What would happen if we made the paper clip out of a plastic straw instead?' (The bulb would not light, because plastic is an insulator.) Your child can try it.",
+     "ref": "a6"
+    }
+   ],
+   "need": [
+    "the story",
+    "the circuit kit: a holder for two AA cells with two wires, two AA cells, a 2.5 V torch bulb in a bulb holder, and two more wires",
+    "two drawing pins, a plain steel paper clip and a 10 cm square of thick cardboard",
+    "a plastic straw"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "A light for a shoebox room",
+   "goal": "Use the circuit and the switch to light a small room in a shoebox, and meet Hertha Ayrton.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Plan the room",
+     "mins": 4,
+     "do": "Show an empty shoebox. Say: 'Today you make a room with its own light and its own switch.' Ask: 'What will the light need to work?' (Cells, wires, a bulb and a complete loop.) 'Where should the switch go?' (Outside, where a hand can reach it, like the switch on a wall.)"
+    },
+    {
+     "kind": "do",
+     "title": "Build the shoebox room",
+     "mins": 19,
+     "do": "Do the project steps for today. Your child decorates the inside of the box as a room: a kolam on the floor, a window, a bed or a chair from a matchbox. A grown-up makes a small hole in the top for the bulb holder. Your child joins the cells, the wires, the bulb and the paper clip switch from Day 6, with the switch taped outside the box. Close the switch. Ask: 'If the light does not come on, how will you find the problem?' Good answers: check every clip is metal on metal, check the bulb is screwed in, look for a gap.",
+     "ref": "a6"
+    },
+    {
+     "kind": "talk",
+     "title": "Hertha Ayrton and the hissing lamps",
+     "mins": 5,
+     "do": "Tell the story of Hertha Ayrton in Voice v3. Ask the voice's question: 'A man had to read out Hertha's work for her. How do you think she felt? Who should get the credit for a discovery?' Let your child answer.",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 7,
+     "do": "Do worksheet ws2. These questions ask your child to use what they know in new places. Let them think aloud. For the 'pick a side' question, your child chooses a side, gives a reason, then answers back from the other side.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "an empty shoebox",
+    "the circuit kit: a holder for two AA cells with two wires, two AA cells, a 2.5 V torch bulb in a bulb holder, and two more wires",
+    "the paper clip switch from Day 6",
+    "crayons, coloured paper, glue and cello tape",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Electricity in the sky and in living things",
+   "goal": "Make small sparks with a balloon, find out that lightning is a giant spark, and learn that bodies run on electrical signals.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The crackling sweater",
+     "mins": 3,
+     "do": "Ask: 'Have you ever heard a crackle when you pull off a sweater, or felt a tiny prick when you touched a door handle?' Say: 'That was electricity too. Today we make some.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The balloon and the paper bits",
+     "mins": 11,
+     "do": "Do Experiment e3. First ask: 'Will a balloon pick up paper bits by itself? What if we rub it on your hair first?' Write down the guess. Your child tries both. Then switch off the lights and rub the balloon fast on a woollen sweater, holding it near a steel spoon. Listen and watch for tiny crackles. Say: 'Rubbing moves tiny bits of electricity, called charge, from your hair to the balloon. This is static electricity. It stays on the balloon until it can jump off as a spark.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Lightning: the biggest spark",
+     "mins": 7,
+     "do": "Say: 'Inside a storm cloud, bits of ice and water rub and bump into each other. A huge amount of static electricity builds up. Then it jumps as a giant spark. That is lightning.' Ask: 'Where would you be safe in a thunderstorm?' Good answers: inside a building, or inside a car or bus with a metal roof. Say: 'Lightning kills many people in India every year, most of them out in fields. If you hear thunder, go inside. Never stand under a tree that stands alone, and get out of water. If you are caught outside, crouch low with your feet together.' Practise the crouch."
+    },
+    {
+     "kind": "talk",
+     "title": "The frog legs and your own nerves",
+     "mins": 8,
+     "do": "Tell the story of Luigi Galvani and Alessandro Volta in Voice v2. Say: 'Galvani was right about one big thing. Living bodies use electricity. Your brain sends tiny electrical signals along your nerves to tell your fingers to move. Your heart beats because of electrical signals too.' Ask the voice's question. Then your child wiggles their fingers and says: 'Signals are running along my nerves right now.'",
+     "ref": "v2"
+    },
+    {
+     "kind": "think",
+     "title": "The electric eel's problem",
+     "mins": 6,
+     "do": "Say: 'The electric eel lives in muddy rivers in South America. In muddy water it is hard to see, and the fish they hunt are quick.' Ask: 'If you lived in muddy water and wanted to catch a fish, what would help you?' Listen. Then say: 'Electric eels make weak electric pulses to feel where things are around them, even in the dark. When they find a fish, they give a strong shock of more than 600 volts. The fish cannot move for a moment, and the eel eats them.' Ask: 'Why does the eel not need sharp eyes?'"
+    }
+   ],
+   "need": [
+    "a balloon",
+    "a sheet of paper torn into bits the size of a grain of rice",
+    "a woollen sweater or shawl",
+    "a steel spoon"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Power Path, and teach it back",
+   "goal": "Play the board game, do the last worksheet, answer the check questions and teach the family about electricity.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Power Path",
+     "mins": 12,
+     "do": "Play game g1 on the printed board. Read each square aloud when a player lands on it. When a square asks a question, the player answers before they move. After the game, ask: 'Which square was about something you tried yourself?' (The torch, the gap test, the switch, the balloon.)",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 8,
+     "do": "Do worksheet ws3. These questions are harder: 'what if', puzzles and two sides. Accept any answer your child can back up with a reason, and use the kit to test circuit ideas.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 8,
+     "do": "Ask the check questions aloud. Listen for answers that use what your child did: the electricity hunt, the cell sort, the safety walk, the torch, the bulb, the gap test, the switch and the balloon. If an answer is unsure, get the kit out and try it again."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 7,
+     "do": "Your child shows the shoebox room and the safety poster to someone at home or on a video call. They switch the light on and off and explain why it works, then say three safety rules with their reasons. Ask the listener to ask one question."
+    }
+   ],
+   "need": [
+    "the printed game board",
+    "a die",
+    "a coin or button for each player",
+    "worksheet ws3",
+    "the kit, the shoebox room and the poster"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Electricity at home, safety and the loop",
+   "day": 5,
+   "sections": [
+    [
+     "A. Where we use electricity",
+     [
+      {
+       "t": "sort",
+       "p": "Does this thing use mains electricity from the wall, or cells?",
+       "items": [
+        "ceiling fan",
+        "TV remote",
+        "fridge",
+        "wall clock",
+        "mixie",
+        "torch",
+        "geyser",
+        "watch"
+       ],
+       "cats": [
+        "mains (wire and plug)",
+        "cells"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each thing to the job electricity does in it.",
+       "pairs": [
+        [
+         "tube light",
+         "makes light"
+        ],
+        [
+         "doorbell",
+         "makes sound"
+        ],
+        [
+         "iron box",
+         "makes heat"
+        ],
+        [
+         "fridge",
+         "makes things cold"
+        ],
+        [
+         "ceiling fan",
+         "makes movement"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Mains electricity is made in a ____ and comes to our homes along wires.",
+       "a": [
+        "power station",
+        "power plant"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Staying safe",
+     [
+      {
+       "t": "mcq",
+       "p": "Kavya has just had a bath. Her hands are wet. She wants to switch on the fan. What should she do?",
+       "opts": [
+        "Dry her hands well first",
+        "Switch it on quickly",
+        "Use her elbow instead"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Farhan sees a wire with cracked plastic and copper showing. What should he do?",
+       "opts": [
+        "Tell a grown-up and stay away",
+        "Cover it with his hand",
+        "Pull the plug out by the wire"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Why is the metal inside a wire covered in plastic?",
+       "lines": 2,
+       "a": "A strong answer says plastic does not let electricity through, so it keeps the electricity inside the metal and stops it flowing into a person who touches the wire."
+      }
+     ]
+    ],
+    [
+     "C. The loop",
+     [
+      {
+       "t": "mcq",
+       "p": "Divya joins one wire from the cells to the bulb. The bulb does not light. Why?",
+       "opts": [
+        "There is no path back to the cells",
+        "The cells are too big",
+        "The bulb needs water"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "You put each thing in the gap of your circuit. Did the bulb light?",
+       "items": [
+        "steel spoon",
+        "plastic ruler",
+        "coin",
+        "wooden stick",
+        "aluminium foil",
+        "rubber eraser"
+       ],
+       "cats": [
+        "bulb lit",
+        "bulb did not light"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "You opened a torch. Say where the electricity goes when you switch it on.",
+       "lines": 3,
+       "a": "A strong answer follows the loop: out of the cells, along the metal strip or spring, through the switch, through the bulb and back to the cells. It says the loop must be complete."
+      },
+      {
+       "t": "draw",
+       "p": "Draw your circuit with the cells, two wires and the bulb. Draw an arrow to show the way round the loop."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Switches, power lines and new puzzles",
+   "day": 7,
+   "sections": [
+    [
+     "A. Switches and gaps",
+     [
+      {
+       "t": "mcq",
+       "p": "Your paper clip switch is open. Where is the gap?",
+       "opts": [
+        "Between the paper clip and the second drawing pin",
+        "Inside the cells",
+        "Inside the bulb holder"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A switch turns a light off by making a ____ in the circuit.",
+       "a": [
+        "gap",
+        "break"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi made her switch from a plastic straw instead of a paper clip. What happens when she closes it?",
+       "opts": [
+        "The bulb stays off, because plastic does not let electricity through",
+        "The bulb is brighter",
+        "The bulb flashes"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Your shoebox light did not come on. Write two things you would check, and why.",
+       "lines": 3,
+       "a": "A strong answer names real checks, such as every clip touching metal and not plastic, the bulb screwed in, or the cells the right way round, and says each one could leave a gap in the loop."
+      }
+     ]
+    ],
+    [
+     "B. Out in the world",
+     [
+      {
+       "t": "mcq",
+       "p": "A crow sits on one power line and is not hurt. Why?",
+       "opts": [
+        "The crow is not a path to anywhere, so the electricity stays in the wire",
+        "Crows cannot feel electricity",
+        "The wire is switched off"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each danger to the right thing to do.",
+       "pairs": [
+        [
+         "a kite stuck on a power line",
+         "let it go"
+        ],
+        [
+         "thunder while you play in a field",
+         "go inside a building"
+        ],
+        [
+         "a baby holding a button cell",
+         "take it away and put it high up"
+        ],
+        [
+         "a socket that looks burnt",
+         "tell a grown-up"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Most of India's electricity is made by burning ____.",
+       "a": [
+        "coal"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think it through",
+     [
+      {
+       "t": "write",
+       "p": "Pick a side. A company wants to build a new coal power station near a fishing village on the coast of Tamil Nadu. A factory owner says: 'We need more electricity for factories and jobs. Coal power is steady, day and night.' A fisherwoman in the village says: 'The smoke and the hot water from the power station could harm the fish and our children's lungs.' An engineer says: 'We could build solar panels and windmills instead, but they make no electricity when there is no Sun or wind.' Which side do you agree with most? Give a reason. Then say what the other side would answer.",
+       "lines": 4,
+       "a": "A strong answer picks a side, gives a real reason (jobs, health, fish, or steady power), and then fairly says what someone on another side would reply."
+      },
+      {
+       "t": "write",
+       "p": "Why do you think a mobile phone charger must never be left in water?",
+       "lines": 2,
+       "a": "A strong answer says the charger is joined to mains electricity, and water lets electricity through, so a person touching the water could get a shock."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "What if? Puzzles and two sides",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "Arjun says: 'The switch makes the electricity.' Is he right?",
+       "opts": [
+        "No. The cells give the electricity. The switch only opens or closes a gap.",
+        "Yes. Without a switch there is no electricity.",
+        "Yes, but only in torches."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Priya's bulb lights. She cuts one wire in the middle and ties the two ends together with a cotton thread. Will the bulb light?",
+       "opts": [
+        "No, because cotton does not let electricity through",
+        "Yes, because the wire is still joined",
+        "Yes, but more brightly"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A peacock spreads his wings and touches two power lines at once. Why can he be hurt, when a crow on one wire is safe?",
+       "opts": [
+        "His body is now a path from one wire to the other",
+        "Peacocks are heavier",
+        "Two wires are hotter than one"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A balloon rubbed on your hair picks up paper bits because of ____ electricity.",
+       "a": [
+        "static"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Living electricity",
+     [
+      {
+       "t": "match",
+       "p": "Match each living thing to the way they use electricity.",
+       "pairs": [
+        [
+         "you",
+         "signals along nerves move your fingers"
+        ],
+        [
+         "your heart",
+         "signals make each beat"
+        ],
+        [
+         "the electric eel",
+         "pulses to find fish in muddy water"
+        ],
+        [
+         "the touch-me-not plant",
+         "a signal after a touch makes the leaves fold"
+        ]
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Electric eels live in muddy water. How do their electric pulses help them with their problem?",
+       "lines": 3,
+       "a": "A strong answer starts with the eel's problem: in muddy water they cannot see well, and fish are quick. Weak pulses let them feel where things are, and a strong shock stops a fish moving so they can eat."
+      }
+     ]
+    ],
+    [
+     "C. Two sides",
+     [
+      {
+       "t": "write",
+       "p": "Pick a side. Swati's school is choosing what to teach Class 2 about electricity. A teacher says: 'Children this young should only learn the safety rules. Building circuits is for older children.' A parent who is an electrician says: 'Children who build a safe circuit with cells understand why the rules matter. Then they remember them.' Which side do you agree with? Use something you did this week as your reason. Then answer back from the other side.",
+       "lines": 4,
+       "a": "A strong answer picks a side, uses evidence from the week (for example: 'I saw the bulb go out when there was a gap, so I know why a crow on one wire is safe'), and gives the other side fairly, such as 'small children might try with a socket instead of cells'."
+      },
+      {
+       "t": "write",
+       "p": "Many people say a bird on a power line proves the wire is safe to touch. What is wrong with this idea?",
+       "lines": 3,
+       "a": "A strong answer says the bird is safe only because they touch one wire and nothing else, so they are not a path. A person on the ground who touches the wire becomes a path into the ground and gets a shock."
+      },
+      {
+       "t": "draw",
+       "p": "Draw a thunderstorm. Draw yourself in a safe place, and write one rule for staying safe."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Light the bulb",
+   "day": 4,
+   "question": "What does a bulb need to light up?",
+   "need": [
+    "the circuit kit: a holder for two AA cells with two wires, two AA cells, a 2.5 V torch bulb in a bulb holder, and two more wires",
+    "cello tape, if you have no cell holder"
+   ],
+   "steps": [
+    "Put the two AA cells in the holder, the right way round. The + on each cell goes where the holder shows +. No holder? Tape the two cells end to end, + to −, and tape a wire to each end.",
+    "Screw the bulb gently into the bulb holder.",
+    "Join one wire from the cell holder to one side of the bulb holder. Leave the other side free. Look at the bulb.",
+    "Now join a second wire from the other side of the bulb holder back to the other end of the cell holder. Look at the bulb.",
+    "Trace the loop with a finger: out of the cells, along a wire, through the bulb, along the other wire and back.",
+    "Unclip one wire. Clip it back. Do this a few times, saying 'open' and 'closed'."
+   ],
+   "predict": "Ask your child to guess first: 'If we join only one wire from the cells to the bulb, will it light? Why do you think so?'",
+   "observe": "With one wire the bulb stays dark. With two wires making a loop it lights up. When a wire is unclipped anywhere, it goes out at once.",
+   "why": "The cells push electricity out of one end, and it must have a path back into the other end. A circuit is that complete loop. Inside the bulb is a very thin wire. When electricity flows through it, it gets so hot that it glows. If there is a gap anywhere in the loop, the electricity stops flowing all the way round, so the bulb goes out.",
+   "safety": "Use only AA cells, never a wall socket or a charger. Never join the two ends of the cells with just a wire or foil and no bulb, because the wire gets hot. A grown-up stays close.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "What can fill the gap?",
+   "day": 5,
+   "question": "Which things let electricity through, and which do not?",
+   "need": [
+    "the circuit kit: a holder for two AA cells with two wires, two AA cells, a 2.5 V torch bulb in a bulb holder, and two more wires",
+    "a steel spoon, a coin, a steel key, a strip of aluminium foil, a plastic ruler, a rubber eraser, a wooden ice-cream stick, a sheet of paper and a cotton handkerchief",
+    "two plates labelled 'lights' and 'does not light'"
+   ],
+   "steps": [
+    "Make the circuit from e1. Then unclip one wire from the bulb holder so there is a gap with two free wire ends.",
+    "Touch the two free ends together. The bulb lights. This checks the circuit works.",
+    "Your child picks up the first thing and guesses whether the bulb will light.",
+    "Press both free wire ends onto the thing, a little apart. Watch the bulb.",
+    "Put the thing on the 'lights' plate or the 'does not light' plate.",
+    "Test every thing the same way."
+   ],
+   "predict": "For each thing, ask: 'Will the bulb light with this in the gap? Why do you think so?'",
+   "observe": "The spoon, coin, key and foil light the bulb. The ruler, eraser, wooden stick, paper and handkerchief do not.",
+   "why": "Metals let electricity flow through them easily. They are called conductors. Plastic, rubber, wood, paper and cloth do not let electricity through. They are called insulators. This is why wires have copper inside, to carry the electricity, and plastic outside, to keep it in.",
+   "safety": "Use only the AA cells. Never test anything with a wall socket. A grown-up stays close.",
+   "time": "14 min"
+  },
+  {
+   "id": "e3",
+   "title": "The balloon and the paper bits",
+   "day": 8,
+   "question": "Can rubbing make electricity?",
+   "need": [
+    "a blown-up balloon",
+    "a sheet of paper torn into bits the size of a grain of rice",
+    "a woollen sweater or shawl",
+    "a steel spoon"
+   ],
+   "steps": [
+    "Put the paper bits in a little heap on a table.",
+    "Hold the balloon just above the paper bits. Watch what happens.",
+    "Rub the balloon fast on your child's dry hair about 20 times.",
+    "Hold the balloon just above the paper bits again. Watch.",
+    "Hold the rubbed balloon near your child's hair without touching. Look in a mirror.",
+    "Switch off the lights. Rub the balloon hard on the woollen sweater, then bring it close to the steel spoon. Listen and watch for a tiny crackle or spark."
+   ],
+   "predict": "Ask your child to guess first: 'Will the balloon pick up the paper bits before we rub it? After we rub it?'",
+   "observe": "Before rubbing, nothing happens. After rubbing, the paper bits jump up and stick to the balloon, and hair lifts towards it. In the dark you may hear a small crackle near the spoon. On a damp, rainy day it may hardly work. Then try in a room with a fan or air conditioner running, or on a dry morning.",
+   "why": "Everything is made of tiny particles that carry electric charge. Rubbing moves some charge from the hair onto the balloon. The charge stays on the balloon, so it is called static electricity, which means electricity that stays still. The charged balloon attracts the paper bits. When the charge jumps to the spoon, it makes a tiny spark. Damp air lets the charge leak away, so it works best on dry days. Lightning is the same kind of spark, millions of times bigger.",
+   "safety": "Keep balloon pieces away from small children, as they can choke on them. Do not do this near a TV, laptop or phone.",
+   "time": "11 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Electricity hunt",
+   "day": 1,
+   "mins": 15,
+   "need": [
+    "a sheet of paper",
+    "a pencil"
+   ],
+   "steps": [
+    "Draw five columns on the paper. Write at the top: Light, Sound, Heat, Cold, Move.",
+    "Walk slowly through each room: the kitchen, the bathroom, the bedroom, the living room.",
+    "Your child names each thing that uses electricity and writes or draws it in the right column. Look only. Do not touch sockets or plugs.",
+    "If a thing does two jobs, it goes in two columns.",
+    "Count the things in each column. Which column has the most?"
+   ],
+   "outcome": "A chart of all the jobs electricity does in your home."
+  },
+  {
+   "id": "a2",
+   "title": "Which cell goes where?",
+   "day": 2,
+   "mins": 9,
+   "need": [
+    "the cells in your home: AA, AAA and a button cell if you have one",
+    "the things they go in: a torch, a TV remote, a wall clock, a watch or a car key",
+    "a tray"
+   ],
+   "steps": [
+    "A grown-up takes the cells out of each thing and puts them all on the tray.",
+    "Your child looks at each cell: big or small, long or flat.",
+    "They match each cell to the thing it fits. A grown-up puts them back, the right way round.",
+    "Look for the + and − marks on each cell. Ask: 'Why do you think cells have to go in the right way?'",
+    "A grown-up puts the button cell away in a closed box, high up."
+   ],
+   "outcome": "Your child knows that cells come in different sizes, that each fits its own thing, and that button cells must be kept away from babies."
+  },
+  {
+   "id": "a3",
+   "title": "Spot the danger: a safety walk",
+   "day": 3,
+   "mins": 15,
+   "need": [
+    "a notebook and pencil",
+    "a sheet of paper and crayons for the poster"
+   ],
+   "steps": [
+    "Walk through each room, looking only. Nobody touches a socket, a plug or a wire.",
+    "Look for: a wire with cracked or taped plastic, a socket that looks burnt or loose, a charger near the sink or a bucket of water, too many plugs in one extension board, a wire under a rug or across a doorway.",
+    "Your child writes or draws each danger. If you find one, a grown-up fixes it later.",
+    "Sit down and make the rules together, each with its reason. Only grown-ups plug in, unplug and move mains things, because mains electricity can kill. Never touch a switch with wet hands, because water lets electricity into your body. Never push anything into a socket, because that is where the electricity is. Stay away from cracked wires, because the bare copper can give a shock. Never touch or climb near power lines, and never try to get a kite off them. Keep button cells away from babies.",
+    "Your child makes a poster of the rules, with a picture for each one, and sticks it on the fridge."
+   ],
+   "outcome": "A list of the dangers in your home and a safety poster with each rule and its reason."
+  },
+  {
+   "id": "a4",
+   "title": "Inside a torch",
+   "day": 4,
+   "mins": 11,
+   "need": [
+    "a torch that takes AA or D cells and comes apart by unscrewing (an LED torch is fine)",
+    "a cloth to lay the parts on"
+   ],
+   "steps": [
+    "A grown-up unscrews the torch over the cloth.",
+    "Lay out the parts in order: the cells, the spring, the case, the switch, the bulb or LED, the shiny reflector.",
+    "Your child finds the metal parts and the plastic parts.",
+    "Your child puts a finger on the bottom of the cells and traces the way the electricity goes, round to the bulb and back.",
+    "Put the torch back together and switch it on."
+   ],
+   "outcome": "Your child has seen that a torch is a loop of metal parts, with a switch that opens and closes a gap."
+  },
+  {
+   "id": "a5",
+   "title": "Be the circuit",
+   "day": 5,
+   "mins": 8,
+   "need": [
+    "a long piece of string or a dupatta, about 4 metres, tied into a loop",
+    "2 or more people"
+   ],
+   "steps": [
+    "Everyone stands in a ring and holds the loop loosely with both hands.",
+    "One person is the cell. The cell slowly pulls the string through their hands so it moves round the ring.",
+    "Another person is the bulb. The bulb says 'I am glowing!' while they feel the string moving.",
+    "Now one person lets go and steps back, making a gap. The string stops. The bulb stops glowing.",
+    "Join up again. The string moves again."
+   ],
+   "outcome": "Your child feels that the electricity flows only when the loop is complete, and that a gap anywhere stops it everywhere."
+  },
+  {
+   "id": "a6",
+   "title": "Make a paper clip switch",
+   "day": 6,
+   "mins": 15,
+   "need": [
+    "the circuit kit: a holder for two AA cells with two wires, two AA cells, a 2.5 V torch bulb in a bulb holder, and two more wires",
+    "two drawing pins",
+    "a plain steel paper clip (not plastic-coated)",
+    "a piece of thick cardboard about 10 cm square"
+   ],
+   "steps": [
+    "A grown-up pushes one drawing pin into the cardboard, through one end of the paper clip.",
+    "A grown-up pushes the second drawing pin in, a little less than a paper clip's length away, so the free end of the clip can swing round and touch it.",
+    "Unclip one wire from the bulb holder. Wrap its free end round the first pin.",
+    "Take a new wire. Wrap one end round the second pin, and join the other end to the bulb holder.",
+    "Swing the paper clip onto the second pin. The bulb lights. Swing it off. The bulb goes out.",
+    "Keep the switch for the shoebox room on Day 7."
+   ],
+   "outcome": "A working switch that your child made, and an understanding that a switch opens and closes a gap."
+  }
+ ],
+ "project": {
+  "title": "A shoebox room with its own light",
+  "days": [
+   6,
+   7,
+   9
+  ],
+  "steps": [
+   "Day 6: make the paper clip switch and check that it turns the bulb on and off.",
+   "Day 7: decorate the inside of a shoebox as a room. A grown-up makes a small hole in the top for the bulb holder. Join the cells, wires, bulb and switch, with the switch taped outside the box. Close the switch and light the room.",
+   "Day 7: if it does not light, look for the gap: check every join is metal touching metal and the bulb is screwed in.",
+   "Day 9: show the room to someone and explain the loop and the switch."
+  ],
+  "outcome": "A small room with a light and a switch that your child built and can explain."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Power Path",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a coin or button for each player"
+  ],
+  "rules": [
+   "Each player puts a coin on START.",
+   "Take turns to roll the die and move that many squares.",
+   "Read the square aloud and do what it says. If it asks a question, answer it first. A grown-up checks the answer.",
+   "If the answer is wrong, stay where you are this turn.",
+   "The first player to reach HOME, where the light comes on, wins.",
+   "At the end, each player says one safety rule and its reason."
+  ],
+  "squares": [
+   "START: the power station",
+   "The wheel spins the magnets. Move ahead 2.",
+   "Question: what is mains electricity made in? (A power station.)",
+   "You switch on the light with wet hands. Go back 2.",
+   "Question: name one thing that uses cells. (A torch, a remote, a wall clock, a watch.)",
+   "You dry your hands before you switch on the fan. Move ahead 1.",
+   "Question: why is a wire covered in plastic? (Plastic does not let electricity through, so it keeps us safe.)",
+   "A kite is stuck on a power line. You let it go. Move ahead 2.",
+   "Question: why is a crow on one wire safe? (The crow is not a path, so the electricity stays in the wire.)",
+   "There is a gap in your circuit. Miss a turn while you find it.",
+   "Question: name two things that let electricity through. (A steel spoon, a coin, a key, foil.)",
+   "You tell a grown-up about a cracked wire. Move ahead 2.",
+   "Question: what does a switch do? (It opens and closes a gap in the circuit.)",
+   "Thunder! Run inside a building. Move ahead 1.",
+   "You stand under a lonely tree in a storm. Go back 3.",
+   "Question: what makes a rubbed balloon pick up paper bits? (Static electricity.)",
+   "You put the button cell in a closed box, high up. Move ahead 1.",
+   "Question: what carries signals from your brain to your fingers? (Your nerves.)",
+   "You push a pin into a socket. Go back to START.",
+   "Question: how does the electric eel find fish in muddy water? (With weak electric pulses.)",
+   "You switch off the fan in an empty room. Move ahead 2.",
+   "Question: name one way to make electricity without coal. (Sunlight, wind or falling water.)",
+   "HOME: the loop is complete and the light comes on"
+  ]
+ },
+ "big": [
+  "Electricity has been in most homes for less than a hundred years. What did people do before? What did they have that we have lost?",
+  "Your nerves use electricity, and so does a fan. What is the same about you and the fan, and what is different?",
+  "Making electricity from coal makes smoke. Who should decide how much electricity a family uses?",
+  "A crow knows to sit on one wire without knowing why. Is knowing what to do the same as knowing why?"
+ ],
+ "challenge": [
+  {
+   "q": "Birds sit on power lines and are fine. So is it safe for a person to touch a power line?",
+   "hint": "No. A bird on one wire touches nothing else, so there is no path for the electricity to flow through them. A person standing on the ground, or on a ladder, or holding a pole, makes a path from the wire into the ground, and gets a shock. Big birds like peacocks and kites are often killed when their wings touch two wires at once. Ask: what is different about the bird and the person?"
+  },
+  {
+   "q": "People say lightning never strikes the same place twice. Is that true?",
+   "hint": "No. Lightning often strikes tall things, and it can strike the same tall building many times in one year. The Empire State Building in New York is struck about 20 times a year. Ask: why might tall things get struck more often? What does that tell you about standing under a tall, lonely tree?"
+  },
+  {
+   "q": "Many books say Thomas Edison invented the light bulb. Is that the whole story?",
+   "hint": "Not quite. Many inventors made electric lamps before Edison, but they burned out quickly. In England, Joseph Swan showed a working bulb at about the same time as Edison. Edison and his team found a way to make bulbs that lasted much longer, and built the wires and power stations to light whole streets. Lewis Latimer, a Black engineer who had taught himself to draw machines, found a better way to make the glowing threads inside bulbs. Ask: when many people work on an invention, who should get the credit?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "a lineworker who repairs power lines after a storm",
+   "view": "After a cyclone in Chennai, she works through the night to bring power back. Before she climbs a pole, she makes sure the power to that line is switched off, and she wears rubber gloves. She knows exactly how strong mains electricity is. What would you want to ask her?"
+  },
+  {
+   "who": "a farmer in Karnataka",
+   "view": "Her pump needs electricity to bring water up from the ground for her crops. Sometimes the power comes only at night, so she goes to the field in the dark to switch it on. What would make her life easier? Who decides when the power comes?"
+  },
+  {
+   "who": "a crow on the wire outside your window",
+   "view": "To them, a power line is just a good perch: high up, safe from cats, with a wide view of the street. They know to sit on one wire only. The wires were put there by people, for people. What would the crow say about all the wires across her sky?"
+  },
+  {
+   "who": "a family living next to a coal power station",
+   "view": "The power station gives jobs to many people in the town. It also makes smoke and ash that settle on their roof and their plants. The electricity goes to cities far away. Is that fair? What would you say to them?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Michael Faraday (1791–1867), England, scientist",
+   "idea": "Faraday was the son of a blacksmith and left school at about 13. He worked for a bookbinder and read the science books he was binding. He went to public science lectures by Humphry Davy, wrote them up neatly and sent them to Davy, asking for a job. He became Davy's assistant. In 1821 he made a wire spin round a magnet using electricity, the first simple electric motor. In 1831 he found that moving a magnet near a coil of wire makes electricity flow in the wire.",
+   "then": "Some people looked down on him because he was poor and had little schooling, and he knew little mathematics. Others, like Davy at first, saw how good he was at experiments.",
+   "now": "His findings are accepted and used everywhere. Every power station that spins magnets inside coils of wire, and every electric motor in a fan or a mixie, works on what he found.",
+   "status": "accepted",
+   "ask": "Faraday did not have much schooling. What helped him become a great scientist?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "Luigi Galvani (1737–1798), a doctor in Bologna, Italy, and Alessandro Volta (1745–1827), a physicist in Pavia, Italy",
+   "idea": "In the 1780s Galvani studied frog legs. His wife, Lucia Galeazzi, also worked in his laboratory. He found that a dead frog's leg twitched when it was touched with two different metals. In 1791 he wrote that animals have their own 'animal electricity' in their bodies. Volta thought the electricity came from the two metals, not the frog. To show it, he left out the frog. In 1800 he described a pile of zinc and copper discs, with card soaked in salty water between them, that gave a steady flow of electricity. It was the first battery.",
+   "then": "The two men and their followers argued for years about who was right.",
+   "now": "Both were partly right. Volta was right that two metals with salty water between them make electricity, and every cell we use comes from his pile. Galvani was right that living bodies use electricity: nerves and the heart work with electrical signals, and doctors record the heart's signals with a machine called an ECG.",
+   "status": "accepted",
+   "ask": "Galvani and Volta argued, and both turned out to be partly right. How can two people who disagree both be right?",
+   "day": 8
+  },
+  {
+   "id": "v3",
+   "who": "Hertha Ayrton (1854–1923), England, scientist and engineer",
+   "idea": "In her time, many streets were lit by electric arc lamps, which make light from a bright spark between two carbon rods. These lamps often hissed and flickered. Hertha Ayrton did careful experiments and found out why, and how to make the light steady. She wrote a book about it called 'The Electric Arc' in 1902.",
+   "then": "In 1899 she became the first woman member of the Institution of Electrical Engineers in Britain. When she had a paper for the Royal Society in 1901, a man had to read it out for her, because women were not allowed to. In 1902 she was put forward to join the Royal Society, but was turned down because she was a married woman.",
+   "now": "Her work is accepted. In 1906 the Royal Society gave her the Hughes Medal for her work on the electric arc. She was the first woman to receive it.",
+   "status": "accepted",
+   "ask": "A man had to read out Hertha's work for her. How do you think she felt? Who should get the credit for a discovery?",
+   "day": 7
+  }
+ ],
+ "books": [
+  {
+   "title": "Switch On, Switch Off",
+   "author": "Melvin Berger",
+   "for": "read together",
+   "age": "5–8",
+   "why": "A picture book from the Let's-Read-and-Find-Out Science series that explains how electricity gets from a power station to a light switch, and how to make a simple circuit."
+  },
+  {
+   "title": "Oscar and the Bird: A Book About Electricity",
+   "author": "Geoff Waring",
+   "for": "read together",
+   "age": "4–7",
+   "why": "A young cat named Oscar learns from a bird what electricity does and how to be safe with it."
+  },
+  {
+   "title": "The Boy Who Harnessed the Wind (picture book edition)",
+   "author": "William Kamkwamba and Bryan Mealer",
+   "for": "read together",
+   "age": "5–9",
+   "why": "The true story of a boy in Malawi who built a windmill from scrap to bring electricity to his village, after he had to leave school."
+  },
+  {
+   "title": "Charged Up: The Story of Electricity",
+   "author": "Jacqui Bailey",
+   "for": "parent reads",
+   "age": "7–10 (read parts aloud)",
+   "why": "A comic-style book that follows electricity from a power station to a home, with clear pictures of how it is made."
+  }
+ ],
+ "check": [
+  {
+   "q": "Name one thing at home where electricity makes light, one where it makes heat, and one where it makes movement.",
+   "a": "For example: a tube light or bulb makes light, a geyser or iron box makes heat, a ceiling fan or mixie makes movement."
+  },
+  {
+   "q": "Why did the torch still work in the power cut when the fan stopped?",
+   "a": "The torch has its own cells, a small store of electricity. The fan uses mains electricity from the wall, which comes along wires from the power station, and that stopped."
+  },
+  {
+   "q": "Why can mains electricity hurt you, when an AA cell cannot?",
+   "a": "Mains electricity is about 150 times as strong. It can flow through your body into the floor, which is an electric shock. An AA cell gives too small a push to flow through you."
+  },
+  {
+   "q": "Say three safety rules and the reason for each one.",
+   "a": "For example: never touch a switch with wet hands, because water lets electricity into your body. Never push anything into a socket, because that is where the electricity is. Only grown-ups plug things in, because mains electricity can kill. Stay away from cracked wires, because the bare copper can give a shock."
+  },
+  {
+   "q": "How did you make the bulb light, and what happened when you made a gap?",
+   "a": "I joined a wire from the cells to the bulb and another wire from the bulb back to the cells, so there was a complete loop. When I unclipped a wire, there was a gap and the bulb went out."
+  },
+  {
+   "q": "What should you do if you hear thunder while you are playing outside?",
+   "a": "Go inside a building, or a car or bus with a metal roof. Do not stand under a lone tree, and get out of any water."
+  },
+  {
+   "q": "Name one way your own body uses electricity.",
+   "a": "My brain sends electrical signals along my nerves to move my fingers, and my heart beats because of electrical signals."
+  }
+ ],
+ "story": {
+  "title": "The Crow on the Wire",
+  "text": [
+   "I am a crow, and I live on the wires above a street in Hyderabad. My nest is in the neem tree by the water tank. From the wires I can see everything: the idli cart in the morning, the school autos, the women drying red chillies on the terraces.",
+   "This winter my son left the nest. He is big now, with a glossy black head, but he is still silly. On his first morning on the wires, he hopped from one wire to the next, and then he spread his wings so wide that one wing nearly brushed the wire below.",
+   "I screamed at him. Every crow on the street turned to look.",
+   "'One wire,' I told him. 'Sit on one wire. Never touch two. Never touch the wire and the pole together.'",
+   "'Why?' he asked.",
+   "I did not know why. My mother told me, and her mother told her. I only knew what happened to the ones who forgot. I once saw a peacock open his great tail between two wires near the railway line. There was a bang, and a flash, and he fell. So I said, 'Because I said so,' and he sulked on the far end of the wire all day.",
+   "Then came Sankranti, the kite festival. For three days the sky over Hyderabad is full of paper kites: red, green, pink, with long tails. People shout from every terrace. The air is full of thread, and a crow has to be careful where she flies.",
+   "On the terrace across from my wire lived a girl called Lakshmi and her big brother Ravi. Ravi was twelve and very proud of his kite. It was a big yellow one with a blue eye painted on it. He had saved for weeks to buy the thread.",
+   "On the second afternoon, the wind changed. Ravi's kite dipped, swung, and wrapped its tail round the power line, right next to my son.",
+   "My son hopped closer and pecked at the paper. I told him to leave it. For once, he did.",
+   "Ravi stood at the edge of the terrace and stared at his kite. It was so close. It hung just above the parapet wall, maybe two arm-lengths away. He looked around the terrace. In the corner, near the tap, lay a long bamboo pole that his mother used to hang the washing. The tap had been dripping all morning, and the pole lay in a puddle, wet and dark.",
+   "Ravi picked it up.",
+   "'Anna, no!' Lakshmi said.",
+   "'It's just a stick,' said Ravi. 'The crows sit on that wire all day. Look at them. Nothing happens to them.' He pointed at my son, who puffed out his chest.",
+   "Lakshmi did not answer at once. She looked at my son on the wire. She looked at the wet pole in Ravi's hands. She looked down at the terrace floor, wet from the tap, and at Ravi's bare feet.",
+   "Then she said something I have thought about every day since.",
+   "'Last week Amma helped me make a bulb light up,' she said. 'With cells and wires. With one wire, nothing happened. The bulb only lit when there was a way back. A loop. Electricity only goes where it has a path.'",
+   "Ravi frowned. 'So?'",
+   "'So the crow is on one wire,' Lakshmi said. 'She is not touching anything else. She is not a path to anywhere. But if you touch the wire with a wet pole, there is a path. Down the pole, through you, through your feet, into the wet floor. You would be the path.'",
+   "Ravi looked at the pole. He looked at his feet in the puddle. Slowly, he put the pole down on the floor.",
+   "On my wire, I sat very still. So that was the reason. My mother never knew it. Her mother never knew it. A girl of eight had worked it out from a bulb on her kitchen table.",
+   "Ravi was cross for a while. He kicked the parapet and said the kite had cost him two weeks of pocket money. Lakshmi sat next to him and did not say anything. Then their mother came up, heard the story, and phoned the electricity office.",
+   "Next morning a lineworker came in a blue uniform. She was a short woman with a long plait, and she carried a pair of thick rubber gloves. First she phoned to have the power to the street switched off. Only then did she climb the pole. She unwound the kite carefully, though its tail was torn, and handed it down to Ravi.",
+   "'Next time,' she said, 'let it go. A kite costs a few rupees. You cost a lot more.'",
+   "The power came back on. The fans started turning again in all the houses. My son flew back to his wire and settled on it, both feet on one wire, wings folded tight.",
+   "'Why one wire?' I asked him.",
+   "He looked at me as if I were the silly one. 'Because then I am not a path,' he said."
+  ],
+  "epiphany": "For the parent: electricity flows only where it has a complete path. The mother crow knows the rule (one wire only) but not the reason. Lakshmi knows the reason from her circuit at home: the bulb lit only when there was a loop. At the turn she sees that the wet pole, her brother's body and the wet terrace floor would make a path from the wire into the ground. The crow is safe on one wire because she is not a path to anywhere. Let your child find this with the questions.",
+  "ask": [
+   "Why was the mother crow safe on one wire?",
+   "What did Lakshmi see in her circuit at home that helped her understand?",
+   "Why would Ravi have been hurt, even though the crow was not?",
+   "What did the lineworker do before she climbed the pole? Why?",
+   "The mother crow followed a rule without knowing why. Is that enough? When is it good to know why?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Electricity flows only round a complete loop.",
+   "more": "A bulb lights only when there is a path out of the cells, through the bulb and back. A gap anywhere stops it. Show it with the kit: unclip any wire and the bulb goes out. A switch is just a safe way to make and break that gap."
+  },
+  {
+   "idea": "Electricity hurts a person when the person becomes part of its path.",
+   "more": "Mains electricity is strong enough to flow through a body into the ground. Water and bare wires make that easier. A crow on one wire is safe because they are not a path to anywhere. Every safety rule is a way of not becoming a path."
+  },
+  {
+   "idea": "Electricity is not only in wires: it is in the sky and in every living body.",
+   "more": "Lightning is a giant spark of static electricity, like the tiny crackle from a rubbed balloon. Your nerves and heart work with electrical signals, and the electric eel finds and stuns fish with it. People did not invent electricity. They found ways to make it flow where they want it."
+  }
+ ],
+ "unknowns": [
+  "What exactly starts a flash of lightning inside a cloud? Scientists can measure the electricity in storm clouds, but they still argue about how the first spark begins.",
+  "When you rub a balloon on your hair, why does the charge move from the hair to the balloon and not the other way? Scientists know which materials usually win, but they still do not fully understand why rubbing moves charge.",
+  "How did fish like the electric eel first come to make electricity? Scientists know their electric organs grew from muscle cells, and that this happened several times in different fish, but not every step of how."
+ ]
+}

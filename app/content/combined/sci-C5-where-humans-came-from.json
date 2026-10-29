@@ -1,0 +1,1337 @@
+{
+ "key": "combined|sci|5|where-humans-came-from",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "where-humans-came-from",
+ "title": "Where humans came from: fossils, footprints, tools and DNA",
+ "source": "DeepKids Combined, a DeepKids-only topic that no board covers. Class 5: humans as primates and great apes, the common ancestor with chimpanzees, hominins as a branching bush, walking upright before big brains (Lucy and the Laetoli footprints), how fossils are dated, the first stone tools, Homo erectus and fire, Homo sapiens in Africa, the spread to India (Attirampakkam, Jwalapuram, Bhimbetka), Neanderthals and Denisovans, DNA as a record, one human species, and evolution that has not stopped. No textbook needed.",
+ "summary": "Chimpanzees did not turn into people. Humans and chimpanzees are cousins who share an ancestor who lived about 6 to 7 million years ago. Your child tapes down their thumbs to find out what a primate hand can do, makes their own footprints and compares them with footprints left in volcanic ash 3.66 million years ago, pours out the brain sizes of Lucy, Homo erectus and themselves in water, and lays a 7-metre time string along the flat. They meet the stone tools found near Chennai and in Kurnool, the other kinds of humans who lived at the same time as our ancestors, and the Neanderthal DNA that many people still carry. They weigh real debates: why our ancestors stood up, who made the tools under the Toba volcano's ash, and whether hunting or sharing made us human.",
+ "subconcepts": [
+  "humans are primates and great apes: gripping hands, nails, a thumb that meets the fingertips, and two forward-facing eyes",
+  "a common ancestor: humans and chimpanzees are cousins who split about 6 to 7 million years ago, and neither came from the other",
+  "hominins: the human branch, which is a branching bush, not a ladder",
+  "walking on two legs (being bipedal) came millions of years before big brains: Lucy and the Laetoli footprints",
+  "how fossils are found and dated: layers of rock and volcanic ash, older below and younger above",
+  "the first stone tools, and tool use by chimpanzees",
+  "Homo erectus: bigger brains, long walks, fire, and the first humans to live outside Africa, including near Chennai",
+  "keeping cool: sweat and less body hair",
+  "sharing, gathering and grandmothers: cooperation in human evolution",
+  "Homo sapiens appeared in Africa about 300,000 years ago",
+  "the spread out of Africa and the arrival in India, slowly, over many generations",
+  "other kinds of humans: Neanderthals, Denisovans, Homo floresiensis and Homo naledi",
+  "DNA as a record of the past: Neanderthal DNA in living people, and mitochondrial DNA passed down from mothers",
+  "one human species: skin colour and sunlight, and how alike all people are",
+  "evolution has not stopped: digesting milk as an adult"
+ ],
+ "builds_on": "Class 4 'Where humans came from': humans are animals and primates, apes are our cousins, and the first humans lived in Africa. Class 5 'How life began' showed that every cell carries DNA and that mitochondria come only from the mother. This rung asks how we know: fossils, footprints, ash layers, stone tools and DNA from bones. It goes into the human bush, the spread to India, the other kinds of humans, and the real debates. Later classes take up genetics, natural selection and early history in more detail.",
+ "goals": [
+  "By the end your child can name the features humans share with other primates and explain what 'common ancestor' means, so they can say why humans did not come from chimpanzees.",
+  "By the end your child can explain what Lucy and the Laetoli footprints show: our ancestors walked upright millions of years before their brains grew big.",
+  "By the end your child can explain how scientists date a fossil from the layers of ash above and below it.",
+  "By the end your child can tell the story of Homo sapiens from Africa to India, with real Indian sites, and say what is still argued about.",
+  "By the end your child can name other kinds of humans, explain how DNA shows that our ancestors had children with Neanderthals, and explain why all people today are one species."
+ ],
+ "words": [
+  [
+   "primate",
+   "a member of the animal group that includes lemurs, monkeys, apes and humans. Most have gripping hands, nails instead of claws and forward-facing eyes."
+  ],
+  [
+   "great ape",
+   "one of the large apes without a tail: orangutans, gorillas, chimpanzees, bonobos and humans"
+  ],
+  [
+   "common ancestor",
+   "a living thing from long ago from whom two or more kinds of living things today are descended, as cousins share grandparents"
+  ],
+  [
+   "hominin",
+   "a member of the human branch: humans and all the extinct kinds closer to us than to chimpanzees"
+  ],
+  [
+   "bipedal",
+   "walking on two legs"
+  ],
+  [
+   "fossil",
+   "the remains or traces of a living thing from long ago, kept in rock: a bone, a tooth, a footprint"
+  ],
+  [
+   "archaeologist",
+   "a scientist who studies the things people left behind, such as tools, paintings and fireplaces"
+  ],
+  [
+   "species",
+   "one kind of living thing. Members of a species can have babies together who can also have babies."
+  ],
+  [
+   "Homo sapiens",
+   "the scientific name of our own species. It means 'wise human'."
+  ],
+  [
+   "Neanderthals",
+   "a kind of human who lived in Europe and western Asia until about 40,000 years ago"
+  ],
+  [
+   "DNA",
+   "the long molecule in every cell that carries the instructions for building and running a body. Children get it from their parents."
+  ],
+  [
+   "migration",
+   "the movement of living things from one place to live in another"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "You are a primate",
+   "goal": "Recall Class 4, then find out with tests on your own body what humans share with other primates.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember Class 4",
+     "mins": 7,
+     "do": "Ask these and wait for answers. 'Are humans animals?' (Yes. We breathe, eat, grow and have babies, like other animals.) 'Which animals are our closest cousins?' (Apes, especially chimpanzees.) 'Where did the first humans live?' (In Africa.) 'From the Class 5 lesson on how life began: who did your mitochondria come from?' (Only from your mother.) Then take a big sheet and write at the top: 'Where did humans come from, and how do we know?' Write down every idea your child has, without correcting. Keep the sheet for the last day."
+    },
+    {
+     "kind": "exp",
+     "title": "The taped-thumb test",
+     "mins": 15,
+     "do": "Do Experiment e1 together. First ask: 'Which of these jobs do you think will be hardest without your thumb: buttoning a shirt, picking up a coin, writing your name, or peeling a banana? Why?' Write the guess down. Time each job with the thumb free, then with the thumb taped. Then ask: 'What does your thumb do that your fingers cannot?' (It turns to meet the tips of the fingers, so you can pinch and hold small things firmly.) Say: 'This thumb that meets the fingertips is called an opposable thumb. Other primates have gripping hands too, and ours is especially good at fine work.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "exp",
+     "title": "Two eyes, one picture",
+     "mins": 8,
+     "do": "Do Experiment e2. Ask first: 'Will it be easier to touch two pencil tips together with both eyes open or with one eye shut? Why?' After the test, say: 'Your two eyes face forward and see almost the same view from slightly different places. Your brain compares the two views to judge distance. Primates who leap between branches need to judge distance well.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "The primate family",
+     "mins": 15,
+     "do": "Say: 'Humans belong to a group of animals called primates. Lemurs, monkeys and apes are primates too.' Ask your child to look at their own fingertips. Ask: 'Do you have claws or nails?' (Nails.) Say: 'Most primates have flat nails, gripping hands and forward-facing eyes, like you. Primates also have long childhoods, and they learn a lot from their mothers.' Then say: 'Apes are primates with no tail. The large apes are called great apes: orangutans, gorillas, chimpanzees, bonobos, and humans.' Ask: 'Which of these do you think is our closest living relative?' Wait for a guess and a reason. Then say: 'Chimpanzees and bonobos, equally. Bonobos look like slim chimpanzees. In bonobo groups, females often lead and keep the peace.' Ask: 'If humans are great apes, why do we usually talk about humans and apes as if they were separate?' Let your child think. There is no single right answer."
+    }
+   ],
+   "need": [
+    "a big sheet of paper",
+    "paper tape or cello tape",
+    "a shirt with buttons",
+    "a 1-rupee coin",
+    "a banana",
+    "a pencil and paper",
+    "2 pencils",
+    "a phone or clock with a seconds hand"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Cousins, not grandparents",
+   "goal": "Understand what a common ancestor is, lay out 7 million years in a string, and see that the human family is a bush, not a ladder.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Thumbs and eyes",
+     "mins": 5,
+     "do": "Ask: 'Yesterday, which job was hardest with a taped thumb?' and 'Why could you touch the pencil tips easily with two eyes open?' (The two eyes together judge distance.) Ask: 'Name three features you share with a chimpanzee.' (Gripping hands, nails, forward-facing eyes, no tail, a long childhood.)"
+    },
+    {
+     "kind": "talk",
+     "title": "A common ancestor",
+     "mins": 12,
+     "do": "Ask: 'Did humans come from chimpanzees?' Wait for an answer and a reason. Then say: 'No. Think of you and your cousin. You did not come from your cousin, and your cousin did not come from you. You share grandparents. Humans and chimpanzees are like cousins. We share an ancestor, a kind of ape who lived in Africa about 6 to 7 million years ago. Some of that ancestor's children's children led, over many generations, to chimpanzees and bonobos. Others led to us. That shared ancestor is called a common ancestor.' Ask: 'So is a chimpanzee less evolved than a human?' (No. Chimpanzees have been evolving for exactly as long as we have, about 7 million years since the split.) Then say: 'How do we know we are such close cousins? From DNA, the instructions in every cell. Where human and chimpanzee DNA can be lined up, about 98 to 99 letters out of every 100 are the same.' Say: 'Scientists call humans and all the extinct kinds on our side of the split hominins.'"
+    },
+    {
+     "kind": "act",
+     "title": "The 7-metre time string",
+     "mins": 20,
+     "do": "Do Activity a1. Your child lays the string along a corridor or across two rooms and sticks on the labels. When they reach the end, ask: 'How long is the bit of string since our own species, Homo sapiens, appeared?' (30 centimetres out of 7 metres.) 'And since people began farming?' (About 1 centimetre.) Ask: 'What does this tell you about how new we are?'",
+     "ref": "a1"
+    },
+    {
+     "kind": "think",
+     "title": "A ladder or a bush?",
+     "mins": 8,
+     "do": "Draw a ladder with an ape at the bottom and a man at the top. Say: 'In 1965 a famous picture showed this: an ape slowly turning, step by step, into a man. It was copied everywhere.' Ask: 'What is wrong with it?' Listen for: chimpanzees are cousins, not ancestors. Then say: 'The real family looks like a bush. Many branches grew. Several kinds of hominins lived at the same time. Most branches died out. Ours is the only one still alive.' Your child starts the project: on a big sheet, draw a bush with many branches and write 'Hominins' at the base. They will add a branch card each day. Ask: 'Who is missing from that 1965 picture?' (There are no women or children in it.)"
+    }
+   ],
+   "need": [
+    "a ball of string or thin rope at least 7 metres long (or newspaper strips taped end to end)",
+    "a measuring tape or a 30-centimetre ruler",
+    "15 small paper labels and tape",
+    "a pen",
+    "a big sheet of paper for the project"
+   ],
+   "prep": [
+    {
+     "task": "Cut and write the 15 labels for the time string (Activity a1)",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Standing up first: Lucy and the footprints",
+   "goal": "Learn that our ancestors walked upright millions of years before their brains grew big, and test what footprints can tell us.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Lucy",
+     "mins": 12,
+     "do": "Ask first: 'Which came first in our ancestors: walking on two legs, or a big brain? Why do you think so?' Wait for a guess and a reason. Then say: 'In 1974, in Ethiopia, Donald Johanson and his student Tom Gray found many pieces of one skeleton. She lived about 3.2 million years ago. The team named her Lucy, after a song they played in camp. In Ethiopia she is also called Dinkinesh, which means \"you are marvellous\" in Amharic. She belongs to a kind of hominin called Australopithecus afarensis.' Say: 'Lucy was only a little over 1 metre tall. Her brain was about the size of a chimpanzee's. But her hip and knee bones are shaped for walking upright. Walking on two legs is called being bipedal.' Ask: 'So which came first?' (Walking upright. Big brains came much later.) Your child adds a 'Lucy' card to the project bush."
+    },
+    {
+     "kind": "exp",
+     "title": "Your footprints and the Laetoli footprints",
+     "mins": 18,
+     "do": "Say: 'In 1978, a team led by Mary Leakey found footprints at Laetoli, in Tanzania. Two or three hominins had walked across wet volcanic ash about 3.66 million years ago. The ash set hard like cement, and later ash covered it.' Then do Experiment e3. Ask your child to guess first: 'How many times longer is your height than your foot?' After measuring, look at the prints together. Ask: 'Where is your big toe: in line with the other toes, or sticking out to the side like a thumb?' (In line.) Say: 'A chimpanzee's big toe sticks out to the side, for gripping branches. In the Laetoli prints, the big toe is in line with the others, like yours. So those hominins walked upright, as you do.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "act",
+     "title": "Walk like a chimpanzee, walk like you",
+     "mins": 7,
+     "do": "Ask your child to walk across the room twice with knees and hips bent, like a chimpanzee walking on two legs. Then twice with straight legs. Ask: 'Which made your thighs work harder?' (Bent knees.) Then ask them to stand on one foot in tree pose (vrikshasana) for 20 seconds, and then walk very slowly. Ask: 'What happens between steps?' (You tip forward and catch yourself on the other foot.) Say: 'Walking on two legs is a kind of falling forward and catching yourself, again and again. Your hip, knee and foot bones are shaped for it.'"
+    },
+    {
+     "kind": "think",
+     "title": "Why stand up?",
+     "mins": 8,
+     "do": "Say: 'Nobody knows for sure why our ancestors began walking on two legs. Scientists still argue. Here are the main ideas.' Write them down: 'Hands free to carry food and babies.' 'Walking upright uses less energy over long distances.' 'Standing tall lets you see over tall grass.' 'Less of your body faces the midday sun.' Ask: 'Which do you think is most likely? What evidence would help you decide?' Say: 'Some early hominins, like Lucy, still had long arms and curved finger bones, which helps with climbing. So they may have walked on the ground and climbed trees too.'"
+    }
+   ],
+   "need": [
+    "a bucket of water or a wet cloth",
+    "old newspaper sheets on the floor (or a dark dry floor)",
+    "a measuring tape",
+    "a pencil and paper",
+    "a towel"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "How do we know? Fossils, ash and tools",
+   "goal": "Find out how fossils are dated, hear how the Taung Child was rejected and then accepted, and meet the first stone tools.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Older below, younger above",
+     "mins": 10,
+     "do": "Ask: 'Lucy's bones did not come with a date written on them. How could scientists know she lived 3.2 million years ago?' Wait for ideas. Then take a pile of old newspapers. Ask your child to check: are the oldest papers at the bottom? (Usually yes, because each day's paper goes on top.) Slip a pencil between two papers. Ask: 'When was the pencil put in?' (After the date of the paper below it, and before the date of the paper above.) Say: 'Rock layers work the same way. Older layers are below, younger layers are above. In East Africa there are many layers of volcanic ash. Some atoms in volcanic ash change into other atoms at a steady rate, like a very slow clock. So scientists can measure how old an ash layer is. A fossil found between two ash layers is younger than the layer below it and older than the layer above it.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The Taung Child and the fake",
+     "mins": 15,
+     "do": "Tell the story in Voice v1. Say: 'In 1924, Raymond Dart's student Josephine Salmons brought him a fossil baboon skull from a lime quarry at Taung, in South Africa. Dart asked the quarry for more. In a box of rocks, he found the skull of a young hominin, about 3 years old.' Then tell what Dart saw, why most scientists refused to believe him, and the Piltdown fake. Ask: 'Why did the scientists believe the fake and not the real fossil?' (The fake fitted what they already expected: a big brain first, found in England.) Then ask the voice's question. Your child adds a 'Taung Child' card to the project bush.",
+     "ref": "v1"
+    },
+    {
+     "kind": "talk",
+     "title": "The first stone tools",
+     "mins": 10,
+     "do": "Say: 'In 1960, Jane Goodall watched a chimpanzee at Gombe, in Tanzania, strip the leaves off a grass stem and poke it into a termite mound to fish out termites. Scientists had thought only humans made tools. She had no university degree yet when she began.' Ask: 'So is tool-making something only humans do?' (No.) Then say: 'The oldest stone tools found so far are from Lomekwi, in Kenya, about 3.3 million years old. Someone struck stones together to knock off sharp flakes. They are older than any known bones of our own group, Homo, so we don't know for sure who made them.' Ask: 'Why would a sharp stone flake matter so much?' (It can cut meat off bones, cut plants and scrape skins, things teeth and nails cannot do well.)"
+    },
+    {
+     "kind": "think",
+     "title": "How many ways do we know?",
+     "mins": 10,
+     "do": "Make a table on paper with three columns: 'What we found', 'Where', 'What it tells us'. Fill in four rows with your child: Lucy's skeleton (Ethiopia: walked upright, small brain), the Laetoli footprints (Tanzania: walked upright with big toe in line), the Taung Child (South Africa: an upright-walking child with a small brain), the Lomekwi tools (Kenya: someone made sharp flakes 3.3 million years ago). Ask: 'Which kinds of evidence are bones, and which are traces of what someone did?' Then ask: 'Most early hominin fossils come from East and South Africa. Does that mean hominins lived only there? What else might explain it?' (Fossils form and survive only in some places, and scientists have searched some places much more than others.)"
+    }
+   ],
+   "need": [
+    "a pile of old newspapers",
+    "a pencil",
+    "paper and pen for the table",
+    "a few small stones if you have them (to look at, not to break)"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Bigger brains, fire and sharing",
+   "goal": "Compare brain sizes, meet Homo erectus and the hand axes found near Chennai, test sweat cooling, and weigh whether hunting or sharing made us human.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Brain sizes in water",
+     "mins": 12,
+     "do": "Do Experiment e4. Ask first: 'How much bigger do you think your brain is than Lucy's?' After pouring, line up the three amounts and ask: 'When did the big jump happen?' (After Lucy, with Homo erectus and later humans.) Say: 'A bigger brain needs a lot of food. Your brain is about one-fiftieth of your body weight but uses about one-fifth of your energy.'",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "Homo erectus, the long walker",
+     "mins": 12,
+     "do": "Say: 'About 1.9 million years ago, a new kind of human appears in Africa: Homo erectus. Their legs were long and their body was shaped much like ours. They were the first kind of human known to live outside Africa: in Georgia by about 1.8 million years ago, and later in China and Java.' Then say: 'In 1863, a British geologist, Robert Bruce Foote, found a stone hand axe at Pallavaram, in Chennai. It was one of the first such tools ever found in India. Later, at Attirampakkam, about 60 kilometres from Chennai, a team led by the archaeologist Shanti Pappu dated hand axes to about 1.5 million years ago. No bones were found there, but these tools are the kind Homo erectus made.' Then say: 'Fire: burnt bones and plant ash about 1 million years old have been found in Wonderwerk Cave, in South Africa. Fireplaces become common from about 400,000 years ago. Cooking makes food softer and easier to digest. The scientist Richard Wrangham thinks cooking helped brains grow bigger. Others say the dates do not fit well. This is still argued about.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Why do we sweat?",
+     "mins": 8,
+     "do": "Do Experiment e5. Ask first: 'If we fan both arms, which will feel cooler: the one with a wet cloth or the dry one?' After the test, say: 'When water evaporates, it takes heat away from your skin. Humans have millions of sweat glands and very fine body hair, so sweat evaporates easily. This lets humans walk and run for a long time in the heat without getting too hot.'",
+     "ref": "e5"
+    },
+    {
+     "kind": "talk",
+     "title": "Hunting, or sharing?",
+     "mins": 13,
+     "do": "Use Voice v2. Say: 'In 1966, at a famous meeting called \"Man the Hunter\", many scientists said that men hunting together made us human: planning, tools and teamwork.' Then tell what Sally Slocum said, and what the grandmother idea says. Ask: 'Which matters more for a growing child: one big meal of meat now and then, or food shared every day?' Then ask the voice's question. Your child adds a 'Homo erectus' card to the project bush, with a fire and a hand axe drawn on it.",
+     "ref": "v2"
+    }
+   ],
+   "need": [
+    "a measuring jug, or a 1-litre bottle and a 500 millilitre bottle",
+    "3 clear glasses or bottles",
+    "water",
+    "a cotton handkerchief",
+    "a newspaper or notebook to fan with"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Our species: from Africa to India",
+   "goal": "Learn where and when Homo sapiens appeared, how our ancestors spread out of Africa, and weigh the debate about the Jwalapuram tools.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Homo sapiens in Africa",
+     "mins": 10,
+     "do": "Say: 'Our own species is called Homo sapiens. The oldest fossils of Homo sapiens found so far are from Jebel Irhoud, in Morocco, about 300,000 years old. They were published in 2017.' Ask: 'How is your skull different from Lucy's?' (Rounder, with a big brain case, a flat face and a chin.) Feel your chins together. Say: 'Homo sapiens is the only kind of hominin with a real chin. Nobody knows for sure why.' Then say: 'For most of our history, about 250,000 years, our species lived only in Africa. DNA studies point to a main move out of Africa somewhere between about 70,000 and 50,000 years ago.' Ask: 'Do you think one family walked all the way from Africa to India?' Wait. Then say: 'No. Each generation lived a little further along the coast or river than their parents. Nobody walked the whole way.' Ask: 'If the edge of where people lived moved 1 kilometre each year, how long would it take to go about 8,000 kilometres?' (8,000 years.) Your child adds a 'Homo sapiens' card to the project bush."
+    },
+    {
+     "kind": "talk",
+     "title": "The tools under the ash",
+     "mins": 12,
+     "do": "Use Voice v4. Draw a column of layers: soil at the top, then a thick pale band labelled 'ash from Toba, about 74,000 years ago', then soil with tools below. Say: 'Toba is a volcano in Sumatra, in Indonesia. About 74,000 years ago it erupted so hugely that its ash fell across India. At Jwalapuram, in Kurnool district of Andhra Pradesh, archaeologists found stone tools both below and above that ash.' Then tell the two sides. Ask: 'Who do you think made the tools below the ash? What would you need to find to be sure?' (A bone or a tooth, or DNA, from the same layer.)",
+     "ref": "v4"
+    },
+    {
+     "kind": "think",
+     "title": "Most of the story is unwritten",
+     "mins": 8,
+     "do": "Say: 'Some sites tell us people were in India very long ago, but bones are rare. In 1982, the geologist Arun Sonakia found part of a skull on the bank of the Narmada river, at Hathnora in Madhya Pradesh. It is one of the very few early human fossils from India, and scientists still argue about its age and which kind of human it was.' Ask: 'Why might bones be rare in some places?' (Bones survive only in some soils and caves. Many places have not been searched.) Ask: 'The people who walked here wrote nothing down. What else could they leave behind that tells us about them?' (Tools, fireplaces, beads, paintings, footprints, and the DNA in their children's children: us.)"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 15,
+     "do": "Do Worksheet ws1 (core) together. Read each question aloud. For the write and perspective questions, let your child answer aloud first, then write. Look back at the time string and the project bush if they need to.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "paper and coloured pencils",
+    "worksheet ws1",
+    "the project bush"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Other kinds of humans",
+   "goal": "Meet Neanderthals, Denisovans and other humans who lived at the same time as our ancestors, and see how DNA from old bones shows that we mixed.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "We were not alone",
+     "mins": 12,
+     "do": "Say: 'Until about 40,000 years ago, our ancestors shared the world with other kinds of humans.' Tell them about four, one at a time, and let your child add a card for each to the project bush. 'Neanderthals lived in Europe and western Asia from about 400,000 to about 40,000 years ago. They were strong and short, with brains as big as ours or bigger. They made fine stone tools, used fire, and buried some of their dead.' 'Denisovans are known mostly from DNA in a little finger bone and a few teeth, found in Denisova Cave in Siberia, in Russia. The DNA was read in 2010.' 'Homo floresiensis lived on the island of Flores, in Indonesia. They were about 1 metre tall and lived there until about 50,000 years ago.' 'Homo naledi was found in the Rising Star cave in South Africa. The way into the chamber was less than 20 centimetres wide, so six women scientists, all slim and skilled at climbing, squeezed in to dig out the bones. Homo naledi lived between about 335,000 and 236,000 years ago, with a small brain, at the same time as early Homo sapiens in Africa.' Ask: 'Why do you think we are the only kind of human left?' Say: 'Nobody knows. Scientists think climate changes, small numbers, competition, disease and mixing with our ancestors may all have played a part.'"
+    },
+    {
+     "kind": "talk",
+     "title": "DNA from old bones",
+     "mins": 8,
+     "do": "Use Voice v3. Say: 'Svante Pääbo learned how to read DNA from bones tens of thousands of years old.' Tell what he found, and how people reacted. Ask: 'If many people today carry a little Neanderthal DNA, what does that tell us happened long ago?' (Our ancestors and Neanderthals had children together.) Then say: 'Many people in Tibet carry a Denisovan version of a gene that helps them live high in the mountains, where the air has less oxygen.' Ask the voice's question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "act",
+     "title": "Rice and dal: what we carry",
+     "mins": 10,
+     "do": "Do Activity a3. When the plate is done, ask: 'Can you find the 2 dal grains quickly?' (Not easily. They are a small part, but they are there.) Ask: 'What does the mothers' chain tell you?' (Everyone's mitochondrial DNA traces back, mother to mother, to women in Africa.)",
+     "ref": "a3"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 15,
+     "do": "Do Worksheet ws2 (stretch). It asks your child to use ash dates, brain sizes, the sweat test and the long walk on new questions. For the maths question, let them work it out on paper and explain their working aloud.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "a cup of raw rice",
+    "2 grains of toor dal or moong dal",
+    "a steel plate",
+    "8 small paper strips and tape",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "One species, still changing",
+   "goal": "Understand why skin colours differ, how alike all people are, and that human evolution has not stopped. Paint like the first artists, and read the story.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Skin and sunlight",
+     "mins": 10,
+     "do": "Ask: 'Why do you think people have different skin colours?' Wait for ideas. Then say: 'Skin colour comes mostly from a dark pigment called melanin. Strong sunlight has ultraviolet light, which can damage skin and break down a vitamin called folate that the body needs, especially for babies growing inside their mothers. Melanin protects against it. But skin also uses a little ultraviolet light to make vitamin D. In places with weak sunlight, lighter skin makes vitamin D more easily.' Say: 'The anthropologist Nina Jablonski has studied this for many years. So people whose ancestors lived for a long time in strong sunlight usually have darker skin, and those whose ancestors lived far from the equator usually have lighter skin.' Then say: 'Any two people in the world share about 99.9 percent of their DNA. There is more variety in DNA among people in Africa than among everyone else in the world put together, because our species lived in Africa the longest.' Ask: 'So does skin colour tell you much about a person?' (No. It tells you a little about the sunlight their ancestors lived in.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Still evolving: milk",
+     "mins": 7,
+     "do": "Ask: 'Can every adult in the world drink milk without a stomach ache?' Say: 'No. Babies make an enzyme, lactase, that digests the sugar in milk. In most adults around the world, it slowly stops working. But in some groups who kept cows, goats or camels for thousands of years, a change in DNA spread that keeps it working into adult life. This happened in the last 10,000 years or so.' Ask: 'Why would that change spread?' (People who could digest milk had more food, so they and their children did a little better.) Say: 'Evolution did not stop with Homo sapiens. It is still going on, in us and in every living thing.'"
+    },
+    {
+     "kind": "act",
+     "title": "Paint like the first artists",
+     "mins": 13,
+     "do": "Do Activity a2. Say first: 'At Bhimbetka, in Madhya Pradesh, there are hundreds of rock shelters with paintings of animals, hunting, dancing and people. V. S. Wakankar, an archaeologist, came upon them in 1957. Some of the paintings are many thousands of years old. In caves on the island of Sulawesi, in Indonesia, a painting of animals has been dated to at least 45,500 years ago.' After painting, ask: 'Why do you think people painted? What would you want someone 10,000 years from now to know about you?'",
+     "ref": "a2"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Stone That Fit",
+     "mins": 15,
+     "do": "Read the story aloud, 'The Stone That Fit'. Lakshmi helps her mother, an archaeologist, at a dig in Kurnool district. Read it slowly. Afterwards, ask the story questions one at a time and let your child answer fully. Don't explain the ending. If they are stuck on the last question, ask: 'What did Lakshmi's thumb do with the stone?'"
+    }
+   ],
+   "need": [
+    "brown paper or a paper bag cut open",
+    "red soil or geru (red ochre powder) mixed with water",
+    "a little turmeric paste",
+    "charcoal or a burnt matchstick",
+    "a cotton bud or a small sponge",
+    "old newspaper to cover the floor"
+   ],
+   "prep": [
+    {
+     "task": "Mix a spoon of geru or red soil with a little water in a small bowl, and a pinch of turmeric with water in another",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The long walk, and teach it back",
+   "goal": "Play the long-walk game, try the challenge worksheet, finish the human bush and teach it.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "The Long Walk",
+     "mins": 15,
+     "do": "Play the board game g1. Everyone plays together as bands moving from East Africa to India. Bands help each other when one is stuck. At the end, ask: 'How many turns did it take? Did any one band walk the whole way in real life?' (No. It took many generations.)",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Do Worksheet ws3 (challenge) together. Write down the long answers as your child says them. The last items have no single right answer. Ask for evidence for each answer.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "do",
+     "title": "Finish the human bush",
+     "mins": 10,
+     "do": "Finish the project. Your child checks that every card is on the bush: Lucy, the Taung Child, Homo erectus, Neanderthals, Denisovans, Homo floresiensis, Homo naledi, Homo sapiens. Ask: 'Which branches are still alive today?' (Only Homo sapiens.) 'Which kinds lived at the same time as each other?' (For example, Homo sapiens, Neanderthals, Denisovans, Homo floresiensis and Homo naledi.) Draw a small question mark on each place where scientists still argue."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 8,
+     "do": "Take out the Day 1 sheet, 'Where did humans come from, and how do we know?'. Ask: 'What would you change or add now?' Your child walks the family along the time string and the bush, and teaches it, ending with one thing nobody knows yet. Then ask the check questions."
+    }
+   ],
+   "need": [
+    "the printed game board",
+    "a die",
+    "a coin or button for each player",
+    "worksheet ws3",
+    "the project bush and cards",
+    "the Day 1 sheet"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Primates, walking and the human bush",
+   "day": 6,
+   "sections": [
+    [
+     "A. Our family",
+     [
+      {
+       "t": "mcq",
+       "p": "Which animals are the closest living relatives of humans?",
+       "opts": [
+        "gorillas",
+        "orangutans",
+        "chimpanzees and bonobos",
+        "monkeys"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "p": "Did humans come from chimpanzees?",
+       "opts": [
+        "Yes. Chimpanzees slowly turned into humans.",
+        "No. Humans and chimpanzees share an ancestor who lived about 6 to 7 million years ago.",
+        "No. Humans and chimpanzees are not related at all."
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Sort these features. Which do most primates have? Which, among living apes, do only humans have?",
+       "items": [
+        "nails instead of claws",
+        "hands that grip",
+        "eyes that face forward",
+        "walking upright all the time",
+        "a chin",
+        "a long childhood"
+       ],
+       "cats": [
+        "Most primates",
+        "Only humans"
+       ],
+       "a": {
+        "Most primates": [
+         "nails instead of claws",
+         "hands that grip",
+         "eyes that face forward",
+         "a long childhood"
+        ],
+        "Only humans": [
+         "walking upright all the time",
+         "a chin"
+        ]
+       }
+      },
+      {
+       "t": "mcq",
+       "p": "Meenakshi shuts one eye and tries to touch two pencil tips together at arm's length. Why is it harder than with both eyes open?",
+       "opts": [
+        "Two forward-facing eyes together help the brain judge distance.",
+        "One eye can only see colours.",
+        "Shutting an eye makes you dizzy."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Bones and footprints",
+     [
+      {
+       "t": "fill",
+       "p": "Walking on two legs is called being ____.",
+       "a": [
+        "bipedal"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Lucy lived 3.2 million years ago. Her brain was about the size of a chimpanzee's, and her hip and knee were shaped for walking upright. Which came first in our ancestors?",
+       "opts": [
+        "walking on two legs",
+        "a big brain",
+        "both at the same time"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each find to what it is.",
+       "pairs": [
+        [
+         "Lucy",
+         "a skeleton 3.2 million years old, found in Ethiopia"
+        ],
+        [
+         "Laetoli",
+         "footprints in volcanic ash, found in Tanzania"
+        ],
+        [
+         "Taung Child",
+         "the skull of a young hominin, found in South Africa"
+        ],
+        [
+         "Jebel Irhoud",
+         "the oldest known Homo sapiens fossils, found in Morocco"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Farhan asks: 'If humans came from apes, why are there still apes?' Answer him using the words 'common ancestor'.",
+       "lines": 3,
+       "a": "A strong answer says humans did not come from today's apes. Humans and chimpanzees share a common ancestor, like cousins who share grandparents. Both lines kept evolving for about 7 million years, so both are still here."
+      },
+      {
+       "t": "write",
+       "p": "Mary Leakey's team found footprints made 3.66 million years ago at Laetoli. Name two things the footprints tell us that bones alone could not.",
+       "lines": 3,
+       "a": "For example: how they really walked (upright, heel first, big toe in line), that two or three walked there together at the same moment, and exactly where they walked. Bones show the body's shape, but a footprint shows something the living hominin did."
+      },
+      {
+       "t": "write",
+       "p": "Scientists still argue about why our ancestors began walking on two legs. Kavya says: 'Walking upright freed their hands to carry food and babies.' Arjun says: 'Walking upright uses less energy when you walk long distances between patches of food.' Lakshmi says: 'Standing tall let them see over tall grass.' Pick one view and give a reason for it. Then answer back from one of the other views.",
+       "lines": 5,
+       "a": "A strong answer picks one view, gives evidence (for example, the bent-knee walk made thighs work harder, or Lucy still had climbing arms), then fairly states what another view would say back. There is no single right answer. Nobody knows why bipedalism began, and the evidence fits more than one idea."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Fossils, fire and the long walk",
+   "day": 7,
+   "sections": [
+    [
+     "A. Dating and brains",
+     [
+      {
+       "t": "mcq",
+       "p": "In a pile of newspapers, Kavya finds a pencil between Monday's paper and Wednesday's paper. When was the pencil put in?",
+       "opts": [
+        "before Monday",
+        "on or after Monday, and before Wednesday",
+        "after Wednesday"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "The ash layer below a fossil is 3.8 million years old. The ash layer above it is 3.6 million years old. So the fossil is between ____ million and 3.8 million years old.",
+       "a": [
+        "3.6"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In the water test, the brain sizes were about 450 millilitres for Lucy and 1,350 millilitres for a person today. Which is closest to the brain size of Homo erectus?",
+       "opts": [
+        "about 400 millilitres",
+        "about 900 millilitres",
+        "about 2,000 millilitres"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "In the sweat test, you fanned both arms. Why did the arm with the wet cloth feel cooler?",
+       "opts": [
+        "Evaporating water takes heat away from the skin.",
+        "The water was from the fridge.",
+        "Fanning makes dry skin warmer."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Other humans",
+     [
+      {
+       "t": "table",
+       "p": "Fill in the table about other kinds of humans.",
+       "cols": [
+        "Kind of human",
+        "Where they lived",
+        "One thing we know about them"
+       ],
+       "rows": 4,
+       "prefill": [
+        "Homo erectus",
+        "Neanderthals",
+        "Denisovans",
+        "Homo floresiensis"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "About how much of the DNA of people whose ancestors lived outside Africa comes from Neanderthals?",
+       "opts": [
+        "about 1 to 2 parts in 100",
+        "about half",
+        "none at all"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Sort these events. Did they happen before Homo sapiens first appeared, about 300,000 years ago, or after?",
+       "items": [
+        "Lucy walked in Ethiopia",
+        "the first known stone tools were made at Lomekwi",
+        "hand axes were made at Attirampakkam, near Chennai",
+        "the Toba volcano erupted",
+        "the last Neanderthals died out",
+        "people painted animals in a cave on Sulawesi"
+       ],
+       "cats": [
+        "Before",
+        "After"
+       ],
+       "a": {
+        "Before": [
+         "Lucy walked in Ethiopia",
+         "the first known stone tools were made at Lomekwi",
+         "hand axes were made at Attirampakkam, near Chennai"
+        ],
+        "After": [
+         "the Toba volcano erupted",
+         "the last Neanderthals died out",
+         "people painted animals in a cave on Sulawesi"
+        ]
+       }
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Raymond Dart's Taung Child had a small brain, but the hole for the spinal cord was under the skull, as in a hominin that walks upright. Why did many scientists refuse to believe Dart for more than 20 years? What fooled them?",
+       "lines": 4,
+       "a": "A strong answer says they expected the big brain to come first, and the fake Piltdown skull, with a human-like brain case and an ape jaw, fitted what they expected. Many also expected humans to have begun in Europe or Asia, not Africa. The fake was exposed in 1953."
+      },
+      {
+       "t": "write",
+       "p": "The coast from East Africa to India is roughly 8,000 kilometres. If the edge of where people lived moved forward 1 kilometre each year, how many years would it take? Did one person walk the whole way? Explain.",
+       "lines": 3,
+       "a": "8,000 kilometres at 1 kilometre a year takes 8,000 years. 8,000 years is hundreds of generations. So no one walked the whole way. Each generation lived a little further on than their parents."
+      },
+      {
+       "t": "write",
+       "p": "What made humans human: hunting, or gathering and sharing? Many scientists at the 1966 'Man the Hunter' meeting says: 'Men hunting big animals together needed planning, tools and teamwork, and that made us human.' Sally Slocum, anthropologist, 1975 says: 'Gathering and sharing plant food, and carrying and caring for babies, mattered just as much. Slings to carry babies and food may have been among the first tools.' Kristen Hawkes, anthropologist says: 'Grandmothers who gathered food for their grandchildren let mothers have more babies, and that helped humans live longer.' Which view do you find strongest? Give a reason. Then answer back from another view.",
+       "lines": 5,
+       "a": "A strong answer gives evidence (for example, among the Hadza of Tanzania much of the food is gathered and shared, and grandmothers gather a lot), and fairly states another view. It may say that hunting, gathering and sharing all mattered. This is a real debate about how cooperation and competition shaped us, and about whose work got noticed."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Who are we?",
+   "day": 9,
+   "sections": [
+    [
+     "A. One species",
+     [
+      {
+       "t": "mcq",
+       "p": "Take any two people in the world. About how much of their DNA is the same?",
+       "opts": [
+        "about 99.9 parts in 100",
+        "about 75 parts in 100",
+        "about 50 parts in 100"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Why do people whose ancestors lived for a long time in strong sunlight usually have darker skin?",
+       "opts": [
+        "Melanin in dark skin protects the body from strong ultraviolet light.",
+        "Dark skin keeps the body warm.",
+        "They are a different species."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Mitochondrial DNA is passed down only from ____ to their children. It traces everyone alive today back to women in Africa.",
+       "a": [
+        "mothers",
+        "mother",
+        "the mother"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Most adults in the world cannot fully digest the sugar in milk. In groups who kept cows or goats for thousands of years, many adults can. What does this show?",
+       "opts": [
+        "Humans are still evolving.",
+        "Drinking milk changes your DNA.",
+        "Cows taught humans to digest milk."
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each person to what they did.",
+       "pairs": [
+        [
+         "Svante Pääbo",
+         "read the DNA of Neanderthals from old bones"
+        ],
+        [
+         "Sally Slocum",
+         "argued that gathering and sharing helped make us human"
+        ],
+        [
+         "Josephine Salmons",
+         "brought Raymond Dart a fossil from Taung"
+        ],
+        [
+         "Jane Goodall",
+         "saw chimpanzees make tools to fish for termites"
+        ],
+        [
+         "Shanti Pappu",
+         "dated very old hand axes near Chennai"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Agreed or argued?",
+     [
+      {
+       "t": "sort",
+       "p": "Do scientists agree about this, or are they still arguing?",
+       "items": [
+        "Humans share a common ancestor with chimpanzees.",
+        "Homo sapiens first appeared in Africa.",
+        "Who made the tools below the Toba ash at Jwalapuram.",
+        "Why our ancestors began walking on two legs.",
+        "Homo sapiens and Neanderthals had children together.",
+        "Why the Neanderthals died out."
+       ],
+       "cats": [
+        "Agreed",
+        "Still argued about"
+       ],
+       "a": {
+        "Agreed": [
+         "Humans share a common ancestor with chimpanzees.",
+         "Homo sapiens first appeared in Africa.",
+         "Homo sapiens and Neanderthals had children together."
+        ],
+        "Still argued about": [
+         "Who made the tools below the Toba ash at Jwalapuram.",
+         "Why our ancestors began walking on two legs.",
+         "Why the Neanderthals died out."
+        ]
+       }
+      }
+     ]
+    ],
+    [
+     "C. Think it through",
+     [
+      {
+       "t": "write",
+       "p": "Neanderthals had brains as big as ours or bigger. They made tools, used fire and buried some of their dead. Give two possible reasons why they died out while our ancestors lived on. For each, say what evidence would help decide.",
+       "lines": 5,
+       "a": "A strong answer gives two ideas, such as small groups, changing climate, competition for food, disease, or mixing into our ancestors' groups. For each it names evidence, such as DNA showing how many Neanderthals there were, or dates showing when each group lived in a place."
+      },
+      {
+       "t": "write",
+       "p": "The famous 1965 picture shows an ape changing step by step into a man walking upright. Write two things that are wrong with it.",
+       "lines": 4,
+       "a": "For example: chimpanzees and other apes are our cousins, not our ancestors; the family is a branching bush and several kinds lived at the same time; evolution has no goal and we are not its top; and there are no women or children in it."
+      },
+      {
+       "t": "write",
+       "p": "Neanderthals and Homo sapiens had children together, and those children had children. Were Neanderthals a different species from us? Farhan says: 'Yes. Their bones and skulls were different, and they lived apart for hundreds of thousands of years. Scientists call them Homo neanderthalensis.' Meenakshi says: 'No. A species is a group who can have babies who can also have babies. Neanderthals and our ancestors could, so they were part of our species.' Pick a side and give your reason. Then answer back from the other side. Does it matter what we call them?",
+       "lines": 5,
+       "a": "A strong answer uses the definition of species from the lesson and the DNA evidence, notices that nature does not always fit neat boxes, and fairly states the other side. Scientists really do disagree about this. It shows that names like 'species' are tools people made, and nature does not always fit them."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The taped-thumb test",
+   "day": 1,
+   "question": "What does a thumb that can meet the fingertips let a primate do?",
+   "need": [
+    "paper tape or cello tape",
+    "a shirt with buttons",
+    "a 1-rupee coin on a flat table",
+    "a pencil and paper",
+    "a banana",
+    "a phone or clock with a seconds hand"
+   ],
+   "steps": [
+    "Make a table with four rows: button the shirt, pick up the coin, write your name, peel the banana. Make two columns: 'thumb free' and 'thumb taped'.",
+    "With the thumb free, do each job while a grown-up times it. Write down the seconds.",
+    "A grown-up tapes the thumb of the hand you write with flat against the side of the hand. Wrap the tape loosely, not tight.",
+    "Do each job again with the thumb taped. Write down the seconds. If a job takes more than 2 minutes, stop and write 'more than 2 minutes'.",
+    "Take the tape off. Compare the two columns."
+   ],
+   "predict": "Ask: 'Which job will be hardest without your thumb? Why?'",
+   "observe": "Most jobs take much longer with the thumb taped. Picking up a coin and buttoning are usually the hardest, because they need a pinch between thumb and fingertips. Peeling a banana is often possible with the fingers alone, but slow.",
+   "why": "Your thumb can turn across the palm to press against the tip of each finger. This is called an opposable thumb. It lets you pinch and hold small things firmly, which is called a precision grip. Other primates have gripping hands too. A chimpanzee's thumb is shorter compared with their fingers, so their pinch is less precise. Making and using small stone tools needs a good precision grip.",
+   "safety": "Tape loosely and take it off after the test. Peel the tape off slowly.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "Two eyes, one picture",
+   "day": 1,
+   "question": "Why do primates have two eyes facing forward?",
+   "need": [
+    "2 pencils"
+   ],
+   "steps": [
+    "Hold one pencil in each hand, points facing each other, with your arms stretched out to the sides.",
+    "With both eyes open, bring your hands together slowly and try to touch the two pencil points. Do it 5 times. Count how many times the points touch.",
+    "Now shut one eye. Try again 5 times. Count again.",
+    "Swap: shut the other eye and try 5 more times."
+   ],
+   "predict": "Ask: 'Will it be easier with both eyes open or with one eye shut? Why?'",
+   "observe": "With both eyes open, the points usually touch most times. With one eye shut, the points often miss each other, passing in front or behind.",
+   "why": "Each eye sees the world from a slightly different place. The brain compares the two views to work out how far away things are. This is called depth perception. With one eye shut, the brain loses that comparison, so judging distance is harder. Primates who leap and reach between branches, and who pick up small food, need to judge distance well.",
+   "safety": "Hold the pencils by the blunt end and move slowly. Keep the points away from your face.",
+   "time": "8 min"
+  },
+  {
+   "id": "e3",
+   "title": "Footprints and height",
+   "day": 3,
+   "question": "What can a footprint tell us about the person who made it?",
+   "need": [
+    "a bucket of water or a wet cloth to step on",
+    "old newspaper sheets laid on the floor (or a dark dry floor)",
+    "a measuring tape",
+    "a pencil and paper",
+    "a towel"
+   ],
+   "steps": [
+    "Lay 4 or 5 newspaper sheets in a line on the floor.",
+    "Wet both feet on the wet cloth or in the bucket. Shake off the drips.",
+    "Walk normally along the newspaper. Then dry your feet.",
+    "Quickly, before the prints dry, draw around one clear footprint with a pencil.",
+    "Measure the footprint from heel to the tip of the longest toe, in centimetres. Measure your height against a wall.",
+    "Measure the length of one step: from the heel of one print to the heel of the next print of the same foot.",
+    "Divide your height by your foot length. Write down the answer.",
+    "Look closely at one print. Is the big toe in line with the other toes or out to the side? Where is the print deepest?"
+   ],
+   "predict": "Ask: 'How many times longer is your height than your foot?'",
+   "observe": "Height is usually about 6 to 7 times the foot length. The big toe sits in line with the other toes. The heel and the ball of the foot press hardest, and there is a gap under the arch.",
+   "why": "In most people, height is roughly 6 to 7 times the foot length, so a footprint gives a rough height. Step length also grows with leg length. The Laetoli footprints are smaller than an adult's today, so the hominins who made them were short. Their big toe was in line with the other toes, as yours is, and the heel pressed down first. That is how an upright walker walks. A chimpanzee's big toe sticks out to the side, for gripping branches.",
+   "safety": "Wet feet slip. Walk slowly, and dry your feet before stepping off the newspaper.",
+   "time": "18 min"
+  },
+  {
+   "id": "e4",
+   "title": "Brain sizes in water",
+   "day": 5,
+   "question": "How much did brains grow in the human story?",
+   "need": [
+    "a measuring jug, or a 1-litre bottle and a 500 millilitre bottle",
+    "3 clear glasses or bottles big enough to hold the water",
+    "water",
+    "labels and a pen"
+   ],
+   "steps": [
+    "Label three containers: 'Lucy', 'Homo erectus' and 'Me'.",
+    "Pour 450 millilitres of water into 'Lucy'. This is about Lucy's brain size, and about the size of a chimpanzee's brain. Without a jug: fill the 500 millilitre bottle and pour a little away, until it is about nine-tenths full.",
+    "Pour 900 millilitres into 'Homo erectus'. Without a jug: fill the 1-litre bottle nine-tenths full. Brains of Homo erectus ranged from about 600 to 1,100 millilitres.",
+    "Pour 1,350 millilitres into 'Me'. Without a jug: one full 1-litre bottle and a 500 millilitre bottle about two-thirds full.",
+    "Line them up in order and compare."
+   ],
+   "predict": "Ask: 'How many times bigger do you think your brain is than Lucy's?'",
+   "observe": "The 'Me' amount is about three times the 'Lucy' amount. The biggest jump is between Lucy and Homo erectus, and then again to us.",
+   "why": "Brain size is measured as the space inside the skull, in millilitres. A grown-up human brain is about 1,350 millilitres on average, about 3 times Lucy's. Neanderthal brains were about as big or a little bigger. A bigger brain needs a lot of energy: your brain is about one-fiftieth of your body weight but uses about one-fifth of the energy you get from food. So bigger brains needed better food, such as meat, cooked food, and food shared by the group. Brain size is not everything: the small-brained Homo naledi and Homo floresiensis still survived for a long time.",
+   "safety": "Pour over a sink or a tray. Mop up spills so nobody slips.",
+   "time": "12 min"
+  },
+  {
+   "id": "e5",
+   "title": "Why do we sweat?",
+   "day": 5,
+   "question": "How does sweat help a body stay cool?",
+   "need": [
+    "a cotton handkerchief",
+    "a cup of water at room temperature",
+    "a newspaper or notebook to fan with"
+   ],
+   "steps": [
+    "Dip the handkerchief in the water and squeeze it out so it is damp, not dripping.",
+    "Lay it on one forearm. Leave the other forearm bare and dry.",
+    "A grown-up fans both arms together for 1 minute.",
+    "Say which arm feels cooler. Then swap the cloth to the other arm and try again."
+   ],
+   "predict": "Ask: 'Which arm will feel cooler when we fan them: the wet one or the dry one? Why?'",
+   "observe": "The arm with the damp cloth feels clearly cooler, especially while it is being fanned.",
+   "why": "When water evaporates, it takes heat away with it. Fanning speeds up evaporation. Sweat works the same way. Humans have millions of sweat glands and very fine body hair, so sweat evaporates easily from the skin. This lets humans keep cool while walking or running for a long time in the heat. Many other mammals cool down mainly by panting. Scientists still argue about why our ancestors lost their thick fur.",
+   "safety": "",
+   "time": "8 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The 7-metre time string",
+   "day": 2,
+   "mins": 20,
+   "need": [
+    "a ball of string or thin rope at least 7 metres long (or newspaper strips taped end to end)",
+    "a measuring tape or a 30-centimetre ruler",
+    "15 small paper labels and tape",
+    "a pen"
+   ],
+   "steps": [
+    "On this string, 1 metre stands for 1 million years. So 1 centimetre stands for 10,000 years.",
+    "Lay the string straight along a corridor or across two rooms. One end is 'Today'. Stick a label there.",
+    "Measure from the 'Today' end and stick on each label: 7 metres, 'Toumaï, one of the oldest known hominins, Chad'. 4 metres 40 centimetres, 'Ardi, Ethiopia'. 3 metres 66 centimetres, 'Laetoli footprints'. 3 metres 30 centimetres, 'first known stone tools, Lomekwi'. 3 metres 20 centimetres, 'Lucy'.",
+    "Then: 1 metre 90 centimetres, 'Homo erectus appears'. 1 metre 80 centimetres, 'Homo erectus in Georgia, outside Africa'. 1 metre 50 centimetres, 'hand axes at Attirampakkam, near Chennai'. 1 metre, 'burnt bones and ash in Wonderwerk Cave'.",
+    "Then: 30 centimetres, 'Homo sapiens at Jebel Irhoud, Morocco'. 7 and a half centimetres, 'Toba volcano erupts'. About 6 centimetres, 'main move out of Africa (between 7 and 5 centimetres)'. 4 centimetres, 'last Neanderthals'.",
+    "Last: 1 centimetre, 'farming begins'. Half a centimetre, 'first writing'. At the very end, a label: 'You'. Your whole life is far thinner than a hair on this string.",
+    "Walk slowly from the 7-metre end to 'Today'. Count your steps to the 30-centimetre mark, and compare."
+   ],
+   "outcome": "A time string the child has walked, showing that hominins have existed for about 7 million years, and that our own species is only the last 30 centimetres."
+  },
+  {
+   "id": "a2",
+   "title": "Paint like the first artists",
+   "day": 8,
+   "mins": 13,
+   "need": [
+    "brown paper or a paper bag cut open",
+    "red soil or geru (red ochre powder) mixed with water",
+    "a little turmeric paste",
+    "charcoal or a burnt matchstick",
+    "a cotton bud or a small sponge",
+    "old newspaper to cover the floor"
+   ],
+   "steps": [
+    "Crumple the brown paper, then flatten it, so it looks a little like rock.",
+    "Put one hand flat on the paper. Dab the red paint all around your hand with the sponge. Lift your hand. You have a hand stencil, like those found in caves in many parts of the world.",
+    "With a cotton bud and red paint, draw an animal you have seen, using simple lines, the way the Bhimbetka painters did.",
+    "Add people with stick bodies, dancing or walking in a line, with charcoal.",
+    "Add a few spots of turmeric yellow. Let it dry."
+   ],
+   "outcome": "A 'rock painting' with a hand stencil, an animal and people, made with the same kinds of colours early painters used: red earth, charcoal and yellow."
+  },
+  {
+   "id": "a3",
+   "title": "Rice and dal: what we carry",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "a cup of raw rice",
+    "2 grains of toor dal or moong dal",
+    "a steel plate",
+    "8 small paper strips and tape",
+    "a pen"
+   ],
+   "steps": [
+    "Count 100 grains of rice onto the steel plate. These stand for 100 parts of the DNA of a person whose ancestors lived outside Africa.",
+    "Take away 2 rice grains and put in 2 dal grains instead. Mix them up. The dal stands for the 1 to 2 parts in 100 that came from Neanderthals.",
+    "Now the mothers' chain. Write 'Me' on a paper strip. On the next strip write 'my mother', then 'her mother', then 'her mother', up to 8 strips. Tape them into a chain.",
+    "Say: 'Mitochondrial DNA comes only from your mother, and hers came only from her mother. If we could add strips for about 8,000 generations, every person's chain would lead back to women who lived in Africa about 150,000 to 200,000 years ago.'"
+   ],
+   "outcome": "A plate showing that a small part of many people's DNA came from Neanderthals, and a paper chain showing how mitochondrial DNA links every person back through their mothers to Africa."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Raymond Dart (1893–1988), born in Australia, working in South Africa, and his student Josephine Salmons",
+   "idea": "In 1924, Josephine Salmons, a student of Dart's, brought him a fossil baboon skull from a lime quarry at Taung. Dart asked the quarry to send more fossils, and found the skull of a young hominin, about 3 years old. In 1925 he named them Australopithecus africanus. The brain was small, like an ape's, but the hole where the spinal cord joins the skull was underneath, as in an animal that walks upright, and the teeth were more like ours. He said Africa was where humans began.",
+   "then": "Most leading scientists in Britain, such as Arthur Keith, dismissed the skull as a young ape. They expected the first humans to have big brains first, and to come from Europe or Asia. They had been fooled by 'Piltdown Man', found in England in 1912: a human-like brain case with an ape-like jaw.",
+   "now": "Accepted. Robert Broom found adult skulls of the same kind in South Africa in the 1930s and 1940s. In 1953, Kenneth Oakley, Joseph Weiner and Wilfrid Le Gros Clark proved Piltdown was a fake, made from a human skull and an orangutan jaw stained to look old. Many more fossils have since shown that hominins began in Africa and walked upright long before their brains grew big.",
+   "status": "accepted",
+   "day": 4,
+   "ask": "The scientists believed the fake because it matched what they expected. How can you guard against believing something just because you expected it?"
+  },
+  {
+   "id": "v2",
+   "who": "Sally Slocum (also known as Sally Linton), anthropologist, United States, 'Woman the Gatherer' (1975)",
+   "idea": "Slocum said the 'Man the Hunter' story left out half of humanity. In most foraging peoples, gathering plant food gives a large share of what people eat, and women do much of it. Carrying babies and food, and sharing it, needed skill, planning and cooperation. She suggested that slings and containers to carry food and babies may have been among the first tools. Later, Kristen Hawkes and colleagues, studying Hadza women in Tanzania, argued that grandmothers who gather food for their grandchildren helped humans live long lives and raise more children.",
+   "then": "Many scientists of the 1960s and 1970s saw hunting by men as the main driver of human evolution. Slocum's essay was widely read and helped change how people studied early humans.",
+   "now": "Debated. Most scientists today agree that gathering, sharing and care of children were central, not side jobs. The grandmother idea is taken seriously but still argued about. A 2023 study by Abigail Anderson, Cara Wall-Scheffler and colleagues reported that women hunt in most of the foraging societies they looked at. Other scientists questioned how they counted.",
+   "status": "debated",
+   "day": 5,
+   "ask": "Stone spear points survive for millions of years. Baskets, slings and digging sticks rot away. How might that change which work gets noticed in the story of the past?"
+  },
+  {
+   "id": "v3",
+   "who": "Svante Pääbo (born 1955), Sweden, working in Germany",
+   "idea": "Pääbo and his team found ways to read DNA from bones tens of thousands of years old without mixing it up with DNA from the people handling them. In 2010 they published a first draft of the Neanderthal genome, the full set of DNA instructions. It showed that people whose ancestors lived outside Africa carry about 1 to 2 percent Neanderthal DNA. In the same year, DNA from a finger bone in Denisova Cave showed a kind of human nobody had known about: the Denisovans.",
+   "then": "Many scientists doubted that DNA could last that long, and worried that any result was just contamination. Earlier tests of Neanderthal mitochondrial DNA had found no sign of mixing, so many thought Neanderthals and our ancestors had never had children together.",
+   "now": "Accepted. Pääbo was awarded the Nobel Prize in 2022. DNA from old bones is now a main tool for studying the human past. Later work found small amounts of Neanderthal DNA in many African peoples too, because some people later moved back into Africa.",
+   "status": "accepted",
+   "day": 7,
+   "ask": "The Denisovans are known mostly from DNA and only a few bones. What can DNA tell us that bones cannot, and what can bones tell us that DNA cannot?"
+  },
+  {
+   "id": "v4",
+   "who": "Ravi Korisettar, archaeologist, India, and Michael Petraglia, archaeologist, at Jwalapuram, Andhra Pradesh",
+   "idea": "At Jwalapuram, in Kurnool district, their team found stone tools both below and above a thick layer of ash from the Toba eruption, about 74,000 years ago. In 2007 they reported that the tools below the ash look like tools made by Homo sapiens in Africa at that time. They argued that our species may have reached India before the eruption, and that people survived it.",
+   "then": "Many geneticists replied that DNA points to the main move of Homo sapiens out of Africa between about 70,000 and 50,000 years ago, after the eruption. So they thought the tools were made by another kind of human, or by an early group of Homo sapiens whose line later died out.",
+   "now": "Debated. No human bones have been found at Jwalapuram, so nobody knows for sure who made the tools. Some scientists think there were several moves out of Africa, and that early ones left few or no descendants.",
+   "status": "debated",
+   "day": 6,
+   "ask": "Stone tools without bones are like footprints without a face. What would you need to find at Jwalapuram to know who made the tools?"
+  }
+ ],
+ "check": [
+  {
+   "q": "What does it mean that humans and chimpanzees share a common ancestor?",
+   "a": "About 6 to 7 million years ago there lived one kind of ape in Africa. Some of their descendants led to chimpanzees and bonobos, and others led to us. So we are cousins. Neither came from the other."
+  },
+  {
+   "q": "What did Lucy and the Laetoli footprints show about walking and brains?",
+   "a": "Lucy had a brain about the size of a chimpanzee's but hips and knees for walking upright. The footprints show upright walking with the big toe in line, 3.66 million years ago. So walking on two legs came long before big brains."
+  },
+  {
+   "q": "How do scientists find out how old a fossil in East Africa is?",
+   "a": "They date the layers of volcanic ash above and below it, using atoms in the ash that change at a steady rate. The fossil is younger than the layer below and older than the layer above."
+  },
+  {
+   "q": "Where did Homo sapiens first appear, and roughly when?",
+   "a": "In Africa. The oldest known fossils, from Jebel Irhoud in Morocco, are about 300,000 years old."
+  },
+  {
+   "q": "How did people come to India?",
+   "a": "Slowly, over many generations, mostly along the coasts from Africa. Each generation lived a little further on. Earlier kinds of humans, such as the makers of the Attirampakkam hand axes, were in India long before Homo sapiens."
+  },
+  {
+   "q": "Name two other kinds of humans and one thing we know about each.",
+   "a": "For example: Neanderthals lived in Europe and western Asia, buried some of their dead, and many people carry a little of their DNA. Denisovans are known from a finger bone's DNA, and many Tibetans carry a Denisovan gene for living high up. Homo floresiensis was about 1 metre tall."
+  },
+  {
+   "q": "Why do people have different skin colours?",
+   "a": "Melanin in dark skin protects against strong ultraviolet light. Lighter skin makes vitamin D more easily in weak sunlight. So skin colour mostly follows the sunlight where a person's ancestors lived. All people are one species and share about 99.9 percent of their DNA."
+  },
+  {
+   "q": "Name one thing scientists still don't know about where humans came from.",
+   "a": "For example: why our ancestors began walking on two legs, who made the Jwalapuram tools below the Toba ash, or why we are the only kind of human left."
+  }
+ ],
+ "project": {
+  "title": "The human bush",
+  "days": [
+   2,
+   9
+  ],
+  "steps": [
+   "On Day 2, draw a big bush on a large sheet: a short trunk at the bottom labelled 'common ancestor with chimpanzees, about 7 million years ago', with many branches spreading up. Draw one side branch for chimpanzees and bonobos.",
+   "Each day, make a small card for each new kind of hominin you meet, with a drawing and two facts: where they lived and when. Day 3: Lucy. Day 4: the Taung Child. Day 5: Homo erectus, with a hand axe and a fire. Day 6: Homo sapiens. Day 7: Neanderthals, Denisovans, Homo floresiensis and Homo naledi.",
+   "Stick each card on a branch. Higher on the sheet means more recent. Kinds that lived at the same time go side by side, not one above the other.",
+   "Draw a small cross at the tip of each branch that died out. Draw a star on the one branch still alive.",
+   "On Day 9, draw a question mark wherever scientists still argue, for example who made the Jwalapuram tools."
+  ],
+  "outcome": "A bush, not a ladder: a poster showing many kinds of hominins, which lived at the same time, which died out, and that ours is the only branch left."
+ },
+ "game": {
+  "id": "g1",
+  "title": "The Long Walk",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a coin or button for each player"
+  ],
+  "rules": [
+   "Each player is a small band of people. Everyone starts on START, in East Africa.",
+   "Take turns to roll the die and move that many squares. Read the square aloud and do what it says.",
+   "This is a game you play together. If your band must miss a turn and another band is on the same square or the one behind, they can share food with you: you both skip nothing.",
+   "When a band reaches HOME, they keep rolling and give their moves to any band still walking.",
+   "The game ends when every band reaches HOME. Count the turns together. Say: 'Each turn is many years. No one person walked the whole way.'"
+  ],
+  "squares": [
+   "START: East Africa. Your band gathers tubers and shares them.",
+   "A grandmother finds a beehive with honey. Everyone eats well. Move forward 2.",
+   "Dry years: the lake shrinks. Go back 1.",
+   "You strike a sharp flake from a stone. Roll again.",
+   "You reach the coast of the Red Sea. Shellfish at low tide!",
+   "The sea is low. Cross the narrow strait to Arabia. Move forward 1.",
+   "Desert. Wait for the rains: miss a turn.",
+   "Rainy years: rivers flow in Arabia. Move forward 2.",
+   "A baby is born. The whole band takes turns carrying her. Stay here.",
+   "You meet another band and swap shell beads. Move forward 1.",
+   "The coast of what is now Oman. Fish and shells.",
+   "Wrong turn into the mountains. Go back 2.",
+   "The coast of what is now Pakistan. Mangroves full of crabs.",
+   "A wide river with fresh water! Roll again.",
+   "The coast of what is now Gujarat. Move forward 1.",
+   "Volcanic ash falls from the sky and covers the plants. Miss a turn.",
+   "Forests on the Western Ghats coast, full of fruit. Move forward 2.",
+   "A tiger is near. Climb a tree and wait. Go back 1.",
+   "Good stone for tools by a river in the Kurnool hills. Roll again.",
+   "Rest in a rock shelter. Paint your hands on the wall.",
+   "You meet people whose ancestors came long before you. Share a fire. Move forward 1.",
+   "The monsoon floods the river. Miss a turn.",
+   "Your grandchildren's grandchildren reach the far south.",
+   "HOME: India. Many generations walked here. Nobody walked it all."
+  ]
+ },
+ "big": [
+  "Chimpanzees have been evolving for exactly as long as humans. So is any living thing more evolved than another?",
+  "There used to be several kinds of humans at the same time. Now there is only one. What would the world be like if Neanderthals were still alive?",
+  "Many people carry a little Neanderthal DNA. Where does 'us' end and 'them' begin?",
+  "Was it competition or cooperation that made us human? Or both?",
+  "Humans have existed for only the last 30 centimetres of a 7-metre string, and life for much longer. Does being new make us more important, or less?"
+ ],
+ "challenge": [
+  {
+   "q": "'Humans evolved from chimpanzees.' True?",
+   "hint": "No. Humans and chimpanzees share a common ancestor who lived about 6 to 7 million years ago. Since then, both lines have kept changing. Today's chimpanzees are as far in time from that ancestor as we are. What would you say to someone who asks why chimpanzees did not turn into humans?"
+  },
+  {
+   "q": "The famous 1965 'March of Progress' picture shows an ape changing step by step into a man walking upright. Is that how it happened?",
+   "hint": "No. The picture was drawn by Rudolph Zallinger for a book called 'Early Man'. Its authors did not mean it as a straight line, but people read it that way. The real family is a bush: several kinds of hominins lived at the same time, most branches died out, and the line has no goal. What would a truer picture look like?"
+  },
+  {
+   "q": "In cartoons, 'cavemen' fight dinosaurs. Could that have happened?",
+   "hint": "No. The big dinosaurs died out about 66 million years ago. The first hominins appeared about 7 million years ago. That gap is nearly ten times as long as the whole hominin story. But birds are living dinosaurs, so in a way, people have always lived with dinosaurs: the crow at your window. How long would the gap be on the time string?"
+  },
+  {
+   "q": "'Neanderthals were stupid, hairy brutes.' True?",
+   "hint": "This picture came from early studies of one old Neanderthal skeleton with arthritis, and from the idea that they must be lesser than us. In fact Neanderthals had brains as big as ours or bigger, made fine tools, used fire, buried some of their dead, and wore eagle claws as ornaments. Our ancestors had children with them. Some scientists think they made cave paintings, but the dates are still argued about. Why do you think people were so quick to call them stupid?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A chimpanzee in the forests of Tanzania",
+   "view": "'You call me your cousin. My family has been evolving for as long as yours. I am not a half-made human. I am a whole chimpanzee, very good at being one. I make tools, I know which leaves heal a sore stomach, and I remember my friends for years.' Ask: is a chimpanzee a 'lower' animal, or simply a different one?"
+  },
+  {
+   "who": "The Hadza people of Tanzania, who still live largely by gathering and hunting",
+   "view": "Hadza women dig tubers and gather berries, Hadza men gather honey and hunt, and food is widely shared in the camp. Grandmothers are among the hardest-working gatherers. Scientists have learned a lot about early human life from them. Ask: who should decide how their knowledge is used, and who should benefit?"
+  },
+  {
+   "who": "People who know the Dashavatara stories",
+   "view": "Some people say the order of Vishnu's ten forms in the stories, starting with a fish, then a tortoise, then a boar, then a half-lion half-man, then a small man, is like evolution. Historians say the stories were not written as science, and their meaning is about something else. Ask: why do people like to find today's science in old stories? What do the stories say in their own way?"
+  },
+  {
+   "who": "An archaeologist digging in India",
+   "view": "'India has very old stone tools, like the hand axes at Attirampakkam, but almost no early human bones. Much of the land has never been searched. Many sites have been lost to quarries and building. The story of the first people in India is still mostly unwritten.' Ask: who should look after these sites, and why do they matter?"
+  }
+ ],
+ "books": [
+  {
+   "title": "Our Family Tree: An Evolution Story",
+   "author": "Lisa Westberg Peters, illustrated by Lauren Stringer",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A gentle picture book that walks from the first cells to people, and shows every living thing as part of one family."
+  },
+  {
+   "title": "Grandmother Fish: A Child's First Book of Evolution",
+   "author": "Jonathan Tweet, illustrated by Karen Lewis",
+   "for": "read together",
+   "age": "4–8",
+   "why": "Children copy the movements of each ancestor, from fish to ape to human. It fits the time string and the walk-like-a-chimpanzee activity."
+  },
+  {
+   "title": "Early Indians: The Story of Our Ancestors and Where We Came From",
+   "author": "Tony Joseph",
+   "for": "parent reads",
+   "age": "adult; parent reads parts aloud",
+   "why": "A clear account of how people came to India, using archaeology and DNA, including Jwalapuram and the Toba ash."
+  },
+  {
+   "title": "Neanderthal Man: In Search of Lost Genomes",
+   "author": "Svante Pääbo",
+   "for": "parent reads",
+   "age": "adult; parent tells the story",
+   "why": "Pääbo's own story of reading DNA from old bones, with its failures and arguments. Good for Voice v3."
+  },
+  {
+   "title": "Who We Are and How We Got Here",
+   "author": "David Reich",
+   "for": "parent reads",
+   "age": "adult",
+   "why": "How DNA from old bones changed the story of human history, with a chapter on India."
+  }
+ ],
+ "story": {
+  "title": "The Stone That Fit",
+  "text": [
+   "Lakshmi's job was the sieve.",
+   "Every morning that May, her mother's team dug in a quiet valley near the Jurreru river, in Kurnool district. Amma was an archaeologist. She studied the things people left behind long ago. The team scraped the soil away a thin layer at a time and put each scrape into a bucket. Lakshmi shook each bucket through a wire sieve and picked out anything that was not soil.",
+   "Her cousin Arjun had come from Bengaluru for the holidays. He was eleven, a year older than her, and he was bored.",
+   "\"It's just stones,\" he said, poking the heap with a stick. \"There must be crores of stones in this valley. How do you know which ones matter?\"",
+   "\"Amma can tell,\" Lakshmi said. She was not sure that she could.",
+   "Halfway down the wall of the trench was a band of pale grey, as thick as Lakshmi's arm was long. On the first day, Amma had pressed Lakshmi's fingers against it. It was soft and powdery, like talcum powder that had gone hard.",
+   "\"Ash,\" Amma had said. \"From a volcano called Toba, on the island of Sumatra, nearly 3,000 kilometres away across the sea. It erupted about 74,000 years ago. It was so big that its ash fell here and lay over this whole valley like a blanket.\"",
+   "\"So anything under the ash is older than 74,000 years,\" Lakshmi had said.",
+   "\"And anything above it is younger. The ash is our clock.\"",
+   "This week, they were digging below the ash.",
+   "By two o'clock the heat pressed down on the valley. The crows had gone quiet. Arjun lay in the shade of a neem tree with a comic over his face. Lakshmi kept shaking. Soil, soil, a beetle, a root, soil.",
+   "Then something stayed in the sieve that did not look like the others. It was a flat piece of grey-brown stone, a little bigger than a two-rupee coin. One side was smooth and gently curved. The other side had shallow scoops in it, as if someone had pressed a thumb into wet clay. One edge was very thin.",
+   "\"Amma!\"",
+   "Amma came and crouched down. She looked at the stone through her hand lens for a long time. Then she let out a slow breath.",
+   "\"These scoops are flake scars,\" she said. \"Someone struck this off a bigger stone, using another stone as a hammer. Then they struck off tiny chips along this edge to make it sharp. It's a tool.\"",
+   "Arjun was beside them now, the comic forgotten. \"Who made it?\"",
+   "Amma was quiet for a moment. \"We don't know,\" she said. \"It was under the ash, so it is older than 74,000 years. Tools like this were made by our own species, Homo sapiens, in Africa. Some scientists think our species had already reached India by then. Others think we had not. If they are right, this was made by another kind of human, whose people are gone now.\"",
+   "\"Another kind of human?\" said Arjun.",
+   "\"There used to be several kinds. Now there is only us.\"",
+   "Arjun took the stone and turned it over. \"How did they even hold it? It's too small for your fist.\"",
+   "\"That's one of the things we argue about,\" said Amma. \"Some small tools were fixed to wooden handles with glue made from tree gum. Some were held in the hand. Wood rots, so we rarely find the handles.\"",
+   "Lakshmi held out her hand, and Arjun gave the stone back. She tried it in her fist. The sharp edge pointed back at her own wrist. She tried it flat on her palm. It slid about.",
+   "Then she held it the way she picked up a single grain of rice from her plate: between the tip of her thumb and the tips of her first two fingers.",
+   "Her thumb slid into the biggest scoop and stopped, as if the scoop had been waiting for it. Her first finger found a flat place on the smooth side. The thin edge faced outwards, away from her hand.",
+   "\"It fits,\" she said.",
+   "She pulled a strip of jute from the edge of an old sack and drew the stone across it. The jute parted cleanly.",
+   "Amma did not say anything. She took the stone and set her own thumb in the scoop. It fitted her too. She gave it to Arjun. His thumb was bigger, but it found the same place.",
+   "\"To hold a stone like this,\" Amma said slowly, \"you need a long thumb that can press right against your fingertips. A chimpanzee's thumb is too short to grip it this way.\"",
+   "\"So it was a person,\" said Arjun.",
+   "\"It was someone with a hand like ours.\" Amma turned the stone in the light. \"Whether she was your great-great-great-grandmother, many thousands of times over, or a cousin whose family died out, the stone can't tell us. Not yet.\"",
+   "They wrapped it in paper and wrote the trench number and the layer on the packet. Amma measured exactly where it had come from, twice.",
+   "The sun dropped behind the hills, and the band of ash in the trench wall turned pink. Lakshmi looked at her own thumb for a long time.",
+   "Arjun picked up the sieve. \"Can I do this tomorrow?\"",
+   "\"Below the ash,\" Lakshmi said, and showed him how to shake it."
+  ],
+  "epiphany": "The idea hidden in the story is the hand that all humans share: a long thumb that meets the fingertips in a precision grip, which is what makes small stone tools possible. The turn comes when Lakshmi stops trying to hold the stone like an object and holds it the way she picks up a grain of rice. Her thumb finds the place a stranger's thumb pressed more than 74,000 years ago. Amma and Arjun fit too. The story is honest that nobody knows who made the tool: perhaps our own species, perhaps another kind of human who is gone. That is the real debate about Jwalapuram.",
+  "ask": [
+   "How did the ash help Amma tell how old the stone was?",
+   "Why couldn't Amma say who made the tool?",
+   "How did Lakshmi work out how to hold it? What did her thumb do?",
+   "Why did Amma say a chimpanzee could not hold it that way?",
+   "At the start, Arjun says 'It's just stones.' Why do you think he wants to use the sieve at the end?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Humans did not come from chimpanzees. We are cousins.",
+   "more": "We share a common ancestor who lived in Africa about 6 to 7 million years ago. Since then, both lines have kept evolving. The human family is a branching bush, and ours is the only branch still alive."
+  },
+  {
+   "idea": "Our ancestors stood up long before they got big brains.",
+   "more": "Lucy and the Laetoli footprints show upright walking more than 3 million years ago, with brains the size of a chimpanzee's. The big growth of the brain came later, along with stone tools, fire, cooking and sharing."
+  },
+  {
+   "idea": "All people alive today are one young family from Africa, with a little of other humans mixed in.",
+   "more": "Homo sapiens appeared in Africa about 300,000 years ago and spread slowly over many generations. On the way, our ancestors had children with Neanderthals and Denisovans, and many people still carry a little of their DNA. Any two people share about 99.9 percent of their DNA."
+  }
+ ],
+ "unknowns": [
+  "Why did our ancestors begin walking on two legs? There are several ideas, and the evidence fits more than one.",
+  "When did Homo sapiens first reach India, and who made the stone tools below the Toba ash at Jwalapuram? Without bones or DNA from that layer, nobody knows.",
+  "Why are we the only kind of human left? Climate, small numbers, competition, disease and mixing may all have played a part.",
+  "Who were the Denisovans? We have their DNA, which many living people carry, but only a few bones and teeth, so we hardly know what they looked like."
+ ]
+}

@@ -1,0 +1,1481 @@
+{
+ "key": "combined|sci|5|magnets",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "magnets",
+ "title": "Magnets: what makes iron into a magnet",
+ "source": "DeepKids Combined. Covers Cambridge Stage 5 Unit 5.5 'Magnets and magnetic materials' (magnets and magnetic materials, alloys, which metals are magnetic) and Unit 5.6 'Magnetic force' (forces between magnets act at a distance, testing the strength of magnets fairly with repeated readings). It goes further into domains, electromagnets, the Earth's magnetic field and living compasses. No textbook needed.",
+ "summary": "Two steel nails do not attract each other, but stroke one with a magnet and it starts picking up pins. Your child finds out what changes inside the steel: millions of tiny magnets, called domains, turn to point the same way. They make a needle into a magnet and then unmake it with heat, measure magnet strength with a fair test and a mean, float a paper clip in the air, and block a magnet with a jar lid. They repeat Ørsted's discovery that electricity makes magnetism, build an electromagnet crane, and meet bacteria that carry a compass inside them.",
+ "builds_on": "In Class 3 your child found which materials a magnet attracts, felt poles attract and repel, saw the shape of a magnetic field, and made a floating needle compass. This rung asks why: what happens inside iron when it becomes a magnet, how to measure a magnet's strength fairly, and how an electric current makes a magnet. Later classes go on to electromagnetic induction, motors and generators, and the electromagnetic spectrum.",
+ "goals": [
+  "By the end your child can explain the difference between a magnet and a magnetic material, and test which of two bars is the magnet.",
+  "By the end your child can explain what domains are, and why stroking makes a needle a magnet and heating unmakes it.",
+  "By the end your child can plan a fair test of magnet strength, repeat it three times, find the mean and spot a reading that does not fit.",
+  "By the end your child can show that a magnet's force acts across a gap, and that an iron sheet blocks it but paper and aluminium do not.",
+  "By the end your child can build an electromagnet and name two ways to make it stronger.",
+  "By the end your child can explain where the Earth's magnetic field comes from, and how bacteria, birds and rocks use or record it."
+ ],
+ "words": [
+  [
+   "magnetic material",
+   "a material a magnet attracts, such as iron, most steel, nickel and cobalt. It has no magnetic field of its own."
+  ],
+  [
+   "alloy",
+   "a mixture of a metal with other elements. Steel is iron with a little carbon. Brass is copper and zinc."
+  ],
+  [
+   "domain",
+   "a tiny region inside iron where all the atoms' magnetism points the same way. Each domain acts like a tiny magnet."
+  ],
+  [
+   "Curie temperature",
+   "the temperature above which a material stops being magnetic. For iron it is about 770 °C."
+  ],
+  [
+   "temporary magnet",
+   "something that is a magnet only while a magnet or an electric current is near it, like a paper clip on a magnet"
+  ],
+  [
+   "permanent magnet",
+   "a magnet that stays a magnet on its own, like a bar magnet or a fridge magnet"
+  ],
+  [
+   "mean",
+   "a fair middle value of several readings: add them up, then divide by how many there are"
+  ],
+  [
+   "variable",
+   "anything in a test that can change. In a fair test you change one variable and keep the others the same."
+  ],
+  [
+   "electromagnet",
+   "a coil of wire, usually wound around iron, that becomes a magnet when an electric current flows through it"
+  ],
+  [
+   "magnetic shielding",
+   "blocking a magnet's force with a sheet of iron or steel, which carries the field through itself instead"
+  ],
+  [
+   "aurora",
+   "coloured light in the night sky, made when particles from the Sun hit the air, guided by the Earth's magnetic field"
+  ],
+  [
+   "magnetite",
+   "a black mineral of iron and oxygen. Lodestones are made of it, and some bacteria make tiny crystals of it."
+  ]
+ ],
+ "subconcepts": [
+  "a magnet and a magnetic material: only a magnet has its own magnetic field",
+  "alloys: steel, stainless steel and brass, and which are magnetic",
+  "domains: the tiny magnets inside iron, and how stroking lines them up",
+  "heat destroys magnetism: the Curie temperature",
+  "temporary and permanent magnets",
+  "measuring a magnet's strength fairly: variables, repeated readings and the mean",
+  "magnetic force acts across a gap and gets weaker with distance",
+  "magnetic shielding: an iron sheet carries the field away",
+  "an electric current makes a magnetic field (Ørsted)",
+  "electromagnets: the coil, the iron core and the number of turns",
+  "moving magnets make electricity: generators and dynamos",
+  "the Earth's field comes from moving liquid iron, and magnetic north is not the North Pole",
+  "the Earth's field shields us from the solar wind and makes auroras",
+  "rocks record the Earth's field: reversals and India's journey north",
+  "living compasses: magnetotactic bacteria and birds"
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "A magnet, or only magnetic?",
+   "goal": "Recall Class 3, and find out how a magnet differs from a piece of iron.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What do you remember?",
+     "mins": 5,
+     "do": "Ask: 'In Class 3 you tested lots of things with a magnet. Which materials did it attract?' Good answers: iron, most steel, nickel and cobalt, but not brass, copper or aluminium. Ask: 'What happens when two north poles meet?' (They repel, which means they push each other away.) Ask: 'Why does a floating magnetised needle point north?' (The Earth is a magnet, and the needle lines up with its magnetic field.) Say: 'This time we find out what is going on inside a magnet, and how electricity can make one.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Line in the Mud",
+     "mins": 12,
+     "do": "Read the story aloud. It is told by a bacterium, a living being far too small to see, who lives in the mud of a lake. Don't explain it. Ask one question: 'When Dr Revathi put the magnet beside the drop, why did they all turn round?' Write your child's answer on the first page of a 'Magnet notebook'. You will come back to it on Day 6."
+    },
+    {
+     "kind": "exp",
+     "title": "Which bar is the magnet?",
+     "mins": 15,
+     "ref": "e1",
+     "do": "Do Experiment e1. First, hold two steel nails together and ask: 'Do they attract each other?' (No.) Then wrap the bar magnet and a big nail in paper so they look alike. Ask: 'Using only these two, how can we find out which is the magnet?' Let your child try for a few minutes. If they are stuck, say: 'A magnet is weakest in its middle. Touch the end of one to the middle of the other.' After the test, say: 'A magnet has its own magnetic field. A steel nail is made of a magnetic material: a magnet attracts it, but it has no field of its own.'"
+    },
+    {
+     "kind": "act",
+     "title": "Alloys and coins",
+     "mins": 13,
+     "ref": "a1",
+     "do": "Do Activity a1. Say: 'Most metal things at home are not pure metals. They are alloys, mixtures of a metal with other elements. Steel is iron with a little carbon. Brass is copper and zinc.' Your child sorts the objects and tests each with the magnet, coins too. Ask: 'Steel and brass are both alloys. Why is one magnetic and the other not?' Good answer: 'Steel is mostly iron. Brass has no iron in it.' Ask: 'Why do some steel tumblers not stick?' (Some stainless steel has nickel mixed in a way that stops a magnet attracting it.)"
+    }
+   ],
+   "need": [
+    "a bar magnet",
+    "2 large steel nails, 7 to 10 cm long",
+    "two sheets of newspaper",
+    "the objects for Activity a1",
+    "a notebook for the Magnet notebook"
+   ],
+   "prep": [
+    {
+     "task": "Collect the objects for Activity a1 in a bag, including a few coins",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Inside a magnet: domains",
+   "goal": "Make a needle into a magnet, see how its strength grows, and unmake it with heat.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'Yesterday two nails did not attract each other, but a nail did attract the magnet. What does a magnet have that a nail does not?' Good answer: 'Its own magnetic field.' Ask: 'So what do you think changes inside a needle when we stroke it with a magnet?' Write the guess in the Magnet notebook."
+    },
+    {
+     "kind": "exp",
+     "title": "Count the strokes",
+     "mins": 15,
+     "ref": "e2",
+     "do": "Do Experiment e2 with the first needle. Ask first: 'If 10 strokes make the needle pick up one pin, how many will 40 strokes pick up?' Write the guess. After each round, count the pins and write them in the table. Ask: 'Did the needle keep getting stronger at the same rate?' Most children find it grows quickly at first, then stops growing much."
+    },
+    {
+     "kind": "act",
+     "title": "The domain dance",
+     "mins": 10,
+     "ref": "a2",
+     "do": "Do Activity a2. Then say: 'Iron is full of tiny regions called domains. In each domain, the magnetism of all the atoms points the same way, so each domain is like a tiny magnet. In a plain needle the domains point every which way, so their forces cancel out. Stroking turns more and more of them to point the same way, so their forces add up.' Ask: 'Why did the needle stop getting stronger after many strokes?' Good answer: 'Nearly all the domains already pointed the same way.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Unmake the magnet",
+     "mins": 12,
+     "ref": "e3",
+     "do": "Do Experiment e3. A grown-up does all the heating. Ask first: 'Will heating the needle change it? Why do you think so?' After it has cooled, test it on the pins. Ask: 'What did the heat do to the domains?' Good answer: 'The atoms shook so hard that the domains fell out of line.' Keep the second, unheated needle for Day 5."
+    },
+    {
+     "kind": "talk",
+     "title": "The Curies and their steel",
+     "mins": 5,
+     "do": "Say: 'In 1895 Pierre Curie, a French scientist, found that every magnetic material has a temperature above which it stops being magnetic. We call it the Curie temperature after him. For iron it is about 770 °C.' Say: 'Marie Curie, his wife, did her first research on magnets too. A group of French industries paid her to measure how magnetic different steels were, and she published the results. Later she won two Nobel Prizes for other work.' Ask: 'Why do you think people mostly remember Pierre's name for the magnet discovery and Marie's for other things?'"
+    }
+   ],
+   "need": [
+    "2 steel sewing needles about 4 to 5 cm long",
+    "the bar magnet",
+    "a small box of steel pins or stapler pins",
+    "a pair of pliers or kitchen tongs (sansi)",
+    "a gas stove",
+    "a steel plate",
+    "a piece of soap or a pin cushion to hold the needles"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "How strong is a magnet? A fair test",
+   "goal": "Compare the strength of magnets with a fair test, three readings each, and a mean.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'What are domains?' Good answer: 'Tiny regions in iron that act like tiny magnets.' Ask: 'What makes one magnet stronger than another?' Let your child guess. Say: 'Today we measure strength properly.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Plan a fair test",
+     "mins": 6,
+     "do": "Say: 'We will find out how many sheets of paper each magnet can hold against the fridge door before it slides down. In any test, the things that can change are called variables. We change one on purpose: which magnet we use. We measure one: the number of sheets. We keep everything else the same.' Ask: 'What must we keep the same?' Good answers: the same kind of paper, the same fridge door or almirah, the same way of putting the magnet on. Write the three kinds of variable in the notebook."
+    },
+    {
+     "kind": "exp",
+     "title": "Sheets against the fridge",
+     "mins": 22,
+     "ref": "e4",
+     "do": "Do Experiment e4. Ask your child to put the magnets in order from strongest to weakest by guessing first, and to say why. Test each magnet three times. Then show how to find the mean: 'Add the three readings, then divide by 3. For 12, 14 and 13, that is 39 divided by 3, which is 13.' Your child works out the mean for each magnet and draws a bar chart. Ask: 'Was the biggest magnet the strongest?' Often it is not."
+    },
+    {
+     "kind": "think",
+     "title": "A reading that does not fit",
+     "mins": 7,
+     "do": "Say: 'Kavya tested her magnet four times and got 14, 16, 3 and 15 sheets.' Ask: 'Which reading does not fit?' (3.) 'What might have gone wrong?' Good answers: she bumped it, put it on crooked, or counted wrongly. Say: 'A reading that does not fit the others is called an anomaly. We test it again before we trust it.' Ask: 'Why do three readings tell us more than one?' Good answer: 'One reading could be a fluke. If three agree, we can trust them more.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Was our test really fair?",
+     "mins": 7,
+     "do": "Say: 'A heavy magnet has to hold up more weight than a light one. So it may slide off sooner, even if it is strong.' Ask: 'Was our test fair to the heavy magnet?' Let your child argue both ways. Then slide two bendy fridge magnets back to back, slowly. Ask: 'What do you feel?' (Little bumps.) Say: 'A bendy fridge magnet is made in thin stripes, north, south, north, south. That is why it grips flat steel hard but reaches only a tiny distance.'"
+    }
+   ],
+   "need": [
+    "3 or 4 different magnets: a bar magnet, a round black ceramic magnet, fridge magnets",
+    "30 squares of notebook paper, all from the same notebook, each about 5 cm across",
+    "a fridge door or a steel almirah",
+    "a pencil and the Magnet notebook"
+   ],
+   "prep": [
+    {
+     "task": "Cut 30 squares of notebook paper about 5 cm across, all from the same notebook",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Force across a gap, and what blocks it",
+   "goal": "Hold a paper clip in the air with a magnet, and find which materials block magnetic force.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'How do you find the mean of three readings?' Good answer: 'Add them up and divide by 3.' Ask: 'In Class 3, the magnet worked through paper and water. Is there anything it cannot work through?' Write the guess in the notebook."
+    },
+    {
+     "kind": "exp",
+     "title": "The floating clip",
+     "mins": 12,
+     "ref": "e5",
+     "do": "Do Experiment e5. Ask first: 'Can a magnet hold a clip up in the air without touching it?' When the clip floats, ask: 'What is holding it up?' Good answer: 'The magnet attracts it across the gap.' Then raise the magnet bit by bit until the clip falls. Measure the biggest gap. Ask: 'Why does it fall when the gap gets bigger?' Good answer: 'Magnetic force gets weaker with distance.'"
+    },
+    {
+     "kind": "exp",
+     "title": "What blocks the force?",
+     "mins": 15,
+     "ref": "e6",
+     "do": "Do Experiment e6. Before each sheet, ask: 'Will the clip still float?' Most children expect the aluminium foil to block it, because it is metal. Ask after the jar lid: 'Why did only the lid stop it?' Good answer: 'The lid is steel, a magnetic material.' Say: 'The domains in the lid line up and carry the magnet's field through the lid itself, so little of it reaches the clip. This is called magnetic shielding.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Draw the forces on the clip",
+     "mins": 5,
+     "do": "Draw the floating clip with three arrows. Ask: 'Which forces act on the clip?' Good answer: 'The magnet pulls it up. Gravity pulls it down. The thread pulls it down too.' Ask: 'The clip is not moving. What does that tell us about the forces?' Good answer: 'They balance: the upward pull equals the two downward pulls together.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "ref": "ws1",
+     "do": "Your child does Worksheet ws1. Read each question aloud if they want. For the writing questions, let them say the answer first, then write it. For the force diagram, they can look at the drawing you made together."
+    }
+   ],
+   "need": [
+    "the bar magnet or the strongest magnet from Day 3",
+    "a steel paper clip",
+    "30 cm of cotton thread",
+    "sticky tape",
+    "a stack of books",
+    "a ruler",
+    "a sheet of paper, a piece of plastic bag, aluminium foil and the metal lid of a jam or pickle jar"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Electricity makes a magnet",
+   "goal": "Repeat Ørsted's discovery, and build an electromagnet with a fair test of the number of turns.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'Which sheet stopped the floating clip, and why?' Good answer: 'The steel jar lid, because it is a magnetic material and carries the field away.' Ask: 'Can you think of any machine at home that has a magnet inside?' Let your child guess."
+    },
+    {
+     "kind": "think",
+     "title": "Ørsted's twitching needle",
+     "mins": 6,
+     "ref": "v1",
+     "do": "Tell Voice v1 in your own words: in 1820 in Copenhagen, Hans Christian Ørsted saw a compass needle swing when he switched on an electric current in a wire close by. Before this, most scientists thought electricity and magnetism were separate. Mention Romagnosi, the Italian lawyer who may have seen something similar in 1802. Ask the voice question."
+    },
+    {
+     "kind": "exp",
+     "title": "Ørsted's needle at home",
+     "mins": 12,
+     "ref": "e7",
+     "do": "Do Experiment e7. Ask first: 'Will the compass needle care about a wire with electricity in it?' Touch the wire to the cell for only 2 to 3 seconds each time. Ask: 'What happened when we turned the cell round?' Good answer: 'The needle swung the other way.' Say: 'An electric current makes a magnetic field around the wire. Turn the current round, and the field turns round too.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Build an electromagnet",
+     "mins": 18,
+     "ref": "e8",
+     "do": "Do Experiment e8. Ask first: 'Will 60 turns lift more pins than 30? Why?' After the test, ask: 'Why did we keep the same length of wire connected both times?' Good answer: 'A longer wire lets less current through. If we changed the length too, we would not know which change made the difference.' Then switch off and watch the pins drop. Ask: 'How is this different from a fridge magnet?' Good answer: 'You can switch it off.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Moving magnets make electricity",
+     "mins": 6,
+     "do": "Say: 'Eleven years after Ørsted, in 1831, Michael Faraday did the opposite. He moved a magnet in and out of a coil of wire, and a current flowed in the wire. Every power station still works this way: something turns big magnets inside coils, or coils near magnets.' Ask: 'A bicycle dynamo lights a lamp only while the wheel turns. Why?' Good answer: 'It has a magnet that spins next to a coil. The moving magnet makes the current.' Say: 'Electromagnets are in scrap-yard cranes, electric bells, the motors of fans and mixers, and MRI scanners in hospitals.'"
+    }
+   ],
+   "need": [
+    "a 1.5 volt AA cell (a new one works best)",
+    "3 metres of thin insulated copper wire with 2 cm of bare wire at each end",
+    "a large steel nail, 7 to 10 cm long",
+    "sticky tape",
+    "a box of stapler pins or steel pins",
+    "a small compass, or the second needle from Day 2 stroked again and floated on paper in a plastic bowl of water"
+   ],
+   "prep": [
+    {
+     "task": "Buy 3 to 4 metres of thin insulated copper wire from an electrical shop (or cut it from an old cable) and a pack of AA cells",
+     "when": "1 week before"
+    },
+    {
+     "task": "Strip 2 cm of insulation from each end of the wire with scissors (a grown-up does this)",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The Earth is a magnet: where it comes from",
+   "goal": "Map a magnet's field with a compass, and learn what makes the Earth's field and what it does.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'Name two ways to make an electromagnet stronger.' Good answers: more turns of wire, an iron core, a fresh cell. Ask: 'What did Faraday find?' (A moving magnet makes an electric current in a coil.)"
+    },
+    {
+     "kind": "act",
+     "title": "Map the field with a compass",
+     "mins": 14,
+     "ref": "a3",
+     "do": "Do Activity a3. In Class 3 your child saw the field's shape with grains. Now they see its direction too. Ask: 'Which way does the compass point next to the north pole of the bar magnet? And next to the south pole?' Good answer: 'Its north end points away from the magnet's north pole, and towards the south pole.' Say: 'Scientists draw field lines with arrows going from north to south outside a magnet.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The magnet inside the Earth",
+     "mins": 8,
+     "do": "Say: 'The Earth is not a giant bar magnet. Its centre is far too hot, more than the Curie temperature, so the iron there cannot keep its domains lined up. Instead, around the solid centre is a layer of liquid iron, swirling slowly as the Earth spins and cools. Moving iron carries electric currents, and like the wire on Day 5, the currents make a magnetic field.' Say: 'The Earth's north magnetic pole is in the Arctic, a long way from the North Pole, and it moves a little every year. A compass points to it, not to the North Pole.' Ask: 'Why would a sailor need to know that?'"
+    },
+    {
+     "kind": "think",
+     "title": "A shield, and a record in the rocks",
+     "mins": 10,
+     "do": "Say: 'The Sun blows out a stream of tiny charged particles called the solar wind. The Earth's magnetic field turns most of them aside. Near the poles some come down into the air and make it glow. This light is called an aurora.' Say: 'On 10 and 11 May 2024, after a huge storm on the Sun, a camera at the Indian Astronomical Observatory at Hanle in Ladakh photographed a red aurora.' Then say: 'When hot lava cools into rock, tiny magnetite grains in it line up with the Earth's field and stay that way. So old rocks keep a record of the field. Rocks of different ages show that the north and south magnetic poles have swapped many times. The last swap was about 780,000 years ago. In the 1950s, scientists measured the old magnetism of the Deccan lava rocks. It showed that India was once much further south, and has moved north.' Ask: 'How can a rock remember something?'"
+    },
+    {
+     "kind": "think",
+     "title": "The bacteria with a compass",
+     "mins": 10,
+     "ref": "v2",
+     "do": "Go back to the story. Say: 'Bacteria like the one in the story are real. They are called magnetotactic bacteria. Their problem is that they live in a thin layer of mud where there is just a little oxygen, and they cannot see which way is down. Inside each one is a chain of tiny magnetite crystals. The chain lines up with the Earth's field, which slants down into the ground in the northern half of the Earth. Swimming along it takes them down into the mud.' Then tell Voice v2: Salvatore Bellini saw them first in Italy in 1963, but few people read his notes, and Richard Blakemore found them again in 1975. Ask the voice question. Then read your child's Day 1 answer from the notebook together and ask: 'Would you change it now?'"
+    }
+   ],
+   "need": [
+    "the bar magnet",
+    "a small compass (from a stationery shop), or a magnetised needle hung from a thread",
+    "a sheet of white paper",
+    "a pencil",
+    "the Magnet notebook"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Can you feel a magnet? Testing claims",
+   "goal": "Look at how a famous claim about magnets was tested, and run a blind test of our own.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'What makes the Earth's magnetic field?' Good answer: 'Liquid iron moving deep inside the Earth, which carries electric currents.' Ask: 'Can people feel the Earth's field?' Let your child answer, and say you will test something like it today."
+    },
+    {
+     "kind": "think",
+     "title": "Mesmer and the blindfold test",
+     "mins": 10,
+     "ref": "v3",
+     "do": "Tell Voice v3 in your own words: in the 1770s and 1780s Franz Anton Mesmer, a doctor, said an invisible 'animal magnetism' flowed through bodies and could heal them. His patients often shook, fainted and felt better. In 1784 the King of France asked a group of scientists, including Benjamin Franklin and Antoine Lavoisier, to test it. They blindfolded people and sometimes told them they were being magnetised when they were not. The people reacted just as strongly either way. Ask the voice question."
+    },
+    {
+     "kind": "act",
+     "title": "Which box has the magnet?",
+     "mins": 10,
+     "ref": "a4",
+     "do": "Do Activity a4. First your child holds each box with eyes closed and guesses which one holds the magnet, five rounds. Then they use the compass. Ask: 'How many did you get right by feel, and how many with the compass?' Ask: 'Why did we make the boxes the same weight?' Good answer: 'So weight could not give it away. Only the magnet should be different.' Say: 'This is a blind test. It is the same idea Franklin's group used.'"
+    },
+    {
+     "kind": "game",
+     "title": "The Scrap Yard Crane game",
+     "mins": 12,
+     "ref": "g1",
+     "do": "Play Game g1 on the printed board, with one die and a counter for each player. When a square asks a question, the player must give a reason with the answer. Test any square you can with your magnet, nail or compass."
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "ref": "ws2",
+     "do": "Your child does Worksheet ws2. For the 'pick a side' question, talk about each view first. Let your child choose a side, give a reason, and then say what someone on another side would answer back."
+    }
+   ],
+   "need": [
+    "3 empty matchboxes",
+    "a small magnet that fits in a matchbox",
+    "2 small things of about the same weight that are not magnetic, such as a small stone or a piece of clay",
+    "a compass, or a magnetised needle on a thread",
+    "the printed game board, a die and counters"
+   ],
+   "prep": [
+    {
+     "task": "Print the Scrap Yard Crane game board",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Birds, rare earths and the crane",
+   "goal": "Weigh a live debate about how birds sense the field, ask where strong magnets come from, and build the crane.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'What is a blind test, and why is it useful?' Good answer: 'The person does not know which one is real, so their guess or their hope cannot change the result.'"
+    },
+    {
+     "kind": "think",
+     "title": "How does a robin find north?",
+     "mins": 10,
+     "ref": "v4",
+     "do": "Tell Voice v4 in your own words. Say first: 'A migrating bird's problem is to fly thousands of kilometres, often at night, and arrive in the right place.' In 1972 Wolfgang and Roswitha Wiltschko showed that European robins kept in a cage at migration time hop towards their migration direction, and turn when the magnetic field around the cage is turned. How the birds sense it is still argued: tiny magnetite grains, or a special protein in their eyes. Ask the voice question. Mention that many birds fly into India every winter, such as bar-headed geese and many kinds of duck."
+    },
+    {
+     "kind": "talk",
+     "title": "Where do strong magnets come from?",
+     "mins": 8,
+     "do": "Say: 'The strongest small magnets are made of iron, boron and a metal called neodymium. Neodymium is one of the rare earth elements. They are in phone speakers, earphones, electric car motors and wind turbines.' Say: 'Mining and cleaning rare earths can leave harmful waste. Very little of them is recycled today, even though old hard disks and motors are full of them. India has rare earths too, in the dark beach sands of Kerala and Tamil Nadu.' Ask: 'Who should decide whether to mine a beach: the company, the government, or the people who fish there? What would each one want?' Let your child give a reason for each."
+    },
+    {
+     "kind": "act",
+     "title": "Build the electromagnet crane",
+     "mins": 24,
+     "ref": "e8",
+     "do": "Start the project. Use the electromagnet from Experiment e8. Your child builds the crane: tape a ruler or a stick across the top of a tall box so that one end sticks out, and hang the electromagnet from that end by its wire, so the nail points down. Put a 'scrap heap' under it: stapler pins, small paper clips, a few bits of aluminium foil and paper. Ask: 'What will the crane pick up, and what will it leave?' Your child touches the wire to the cell to lift, swings the stick round, and lets go to drop the load in an empty bowl. Ask: 'How is this like a real scrap-yard crane?' (It picks up only iron and steel, and drops them when the current stops.)"
+    }
+   ],
+   "need": [
+    "the electromagnet and cell from Day 5",
+    "a tall cardboard box",
+    "a ruler or a straight stick",
+    "sticky tape",
+    "stapler pins, small paper clips, bits of aluminium foil and paper",
+    "two bowls"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The crane at work, and teach it back",
+   "goal": "Finish and show the crane, do the challenge sheet, and teach the ideas back.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'Why can a scrap-yard crane drop its load, but a fridge magnet cannot let go of the fridge on its own?' Good answer: 'The crane is an electromagnet. When the current stops, it stops being a magnet.'"
+    },
+    {
+     "kind": "act",
+     "title": "The crane sorts the scrap",
+     "mins": 12,
+     "ref": "e8",
+     "do": "Your child finishes the crane: they add a label, 'Electromagnet: only a magnet while the current flows', and a sign for each bowl, 'magnetic' and 'not magnetic'. They show a family member how it sorts the scrap heap. Ask the family member to ask: 'Why does the crane leave the foil?' Your child answers: 'Aluminium is not a magnetic material.' Keep each lift to 10 seconds so the wire does not get hot."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "ref": "ws3",
+     "do": "Your child does Worksheet ws3. For the puzzle about finding north with a thread, let them try it with the bar magnet. Talk through the 'pick a side' question before they write."
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time. For an answer that is missing, repeat the matching test for a minute, such as stroking the needle or switching the electromagnet on and off, then ask again."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 8,
+     "do": "Your child is the teacher. With a needle, the magnet, the electromagnet and the compass, they teach a grown-up for five minutes: what domains are, how to test magnet strength fairly, how electricity makes a magnet, and where the Earth's field comes from. As the student, ask: 'If I heat a magnet red-hot, what happens?' and 'In the story, why did the bacteria swim to the edge of the drop?'"
+    }
+   ],
+   "need": [
+    "the crane from Day 8",
+    "the AA cell",
+    "two bowls and the scrap heap",
+    "the bar magnet, a needle and the compass",
+    "a pencil"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Magnets, domains and force across a gap",
+   "day": 4,
+   "sections": [
+    [
+     "A. Magnets and magnetic materials",
+     [
+      {
+       "t": "mcq",
+       "p": "Ammu holds two plain steel nails together. Neither nail is a magnet. What happens?",
+       "opts": [
+        "They attract each other.",
+        "Nothing happens, because neither nail has a magnetic field.",
+        "They repel each other."
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Sort these metals. Is each one an alloy (a mixture of a metal with other elements) or a pure metal?",
+       "items": [
+        "steel",
+        "brass",
+        "copper",
+        "stainless steel",
+        "aluminium",
+        "iron"
+       ],
+       "cats": [
+        "alloy",
+        "pure metal"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A mixture of a metal with other elements, such as steel or brass, is called an ____.",
+       "a": [
+        "alloy"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Inside a magnet",
+     [
+      {
+       "t": "mcq",
+       "p": "After 40 strokes with a magnet, Divya's needle picks up 6 pins. What changed inside the needle?",
+       "opts": [
+        "Magnetism flowed into it from the magnet.",
+        "Its domains turned to point the same way.",
+        "It got heavier."
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Above about 770 °C, iron stops being magnetic. This is called the ____ temperature.",
+       "a": [
+        "Curie"
+       ]
+      },
+      {
+       "t": "draw",
+       "p": "Draw two boxes. In the first, draw the domains in a plain nail as small arrows. In the second, draw the domains in a magnetised nail."
+      },
+      {
+       "t": "write",
+       "p": "Meenakshi heated her magnetised needle red-hot. After it cooled, it did not pick up any pins. Explain why, using the word 'domains'.",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "C. Testing and force across a gap",
+     [
+      {
+       "t": "write",
+       "p": "Kavya tests how many paper squares her magnet can hold on the fridge. Why should she test it three times and find the mean, instead of testing once?",
+       "lines": 3
+      },
+      {
+       "t": "match",
+       "p": "Match each word to what it means.",
+       "pairs": [
+        [
+         "magnet",
+         "has its own magnetic field"
+        ],
+        [
+         "magnetic material",
+         "is attracted by a magnet but has no field of its own"
+        ],
+        [
+         "mean",
+         "add the readings and divide by how many there are"
+        ],
+        [
+         "anomaly",
+         "a reading that does not fit the others"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A paper clip floats in the air below a magnet. Which sheet slid into the gap will make the clip fall?",
+       "opts": [
+        "a sheet of paper",
+        "a piece of aluminium foil",
+        "a steel jar lid"
+       ],
+       "a": 2
+      },
+      {
+       "t": "forces",
+       "p": "A steel paper clip floats in the air below a magnet. A thread tied to the table holds it down. Show the forces on the clip.",
+       "obj": "a paper clip floating below a magnet, held by a thread",
+       "options": [
+        "magnet pulls",
+        "gravity",
+        "thread pulls",
+        "push",
+        "friction",
+        "upthrust"
+       ],
+       "a": [
+        {
+         "name": "magnet pulls",
+         "dir": "up"
+        },
+        {
+         "name": "gravity",
+         "dir": "down"
+        },
+        {
+         "name": "thread pulls",
+         "dir": "down"
+        }
+       ]
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Electromagnets, the Earth and living compasses",
+   "day": 7,
+   "sections": [
+    [
+     "A. Electromagnets",
+     [
+      {
+       "t": "mcq",
+       "p": "Revathi winds 30 turns of wire around a nail. Her electromagnet lifts 4 pins. She winds the same wire into 60 turns. What will most likely happen?",
+       "opts": [
+        "It lifts more pins.",
+        "It lifts fewer pins.",
+        "It lifts the same number."
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "When Revathi tests 30 turns against 60 turns, why must she keep the same length of wire connected?",
+       "lines": 3
+      },
+      {
+       "t": "sort",
+       "p": "Is the magnet in each of these a permanent magnet or an electromagnet?",
+       "items": [
+        "a fridge magnet",
+        "a scrap-yard crane",
+        "a compass needle",
+        "an electric doorbell",
+        "a cupboard door catch",
+        "an MRI scanner in a hospital"
+       ],
+       "cats": [
+        "permanent magnet",
+        "electromagnet"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "In 1820, Hans Christian Ørsted saw a compass needle move when electricity flowed in a nearby ____.",
+       "a": [
+        "wire"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. The Earth's magnetic field",
+     [
+      {
+       "t": "mcq",
+       "p": "Where does a compass needle point?",
+       "opts": [
+        "exactly to the North Pole",
+        "to the Earth's north magnetic pole, which is in the Arctic but not at the North Pole",
+        "to the Pole Star"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each thing to what it tells us or does.",
+       "pairs": [
+        [
+         "an aurora",
+         "particles from the Sun make the air glow, guided by the Earth's field"
+        ],
+        [
+         "a chain of magnetite in a bacterium",
+         "a compass needle inside a living being"
+        ],
+        [
+         "the Deccan lava rocks",
+         "show that India was once much further south"
+        ],
+        [
+         "a field reversal",
+         "the north and south magnetic poles swap places"
+        ]
+       ]
+      },
+      {
+       "t": "forces",
+       "p": "A fridge magnet holds itself still on the fridge door. The door is on the magnet's left. Show the forces on the magnet.",
+       "obj": "a fridge magnet on a fridge door",
+       "options": [
+        "gravity",
+        "friction",
+        "magnet attracts the door",
+        "door pushes back",
+        "air resistance",
+        "upthrust"
+       ],
+       "a": [
+        {
+         "name": "gravity",
+         "dir": "down"
+        },
+        {
+         "name": "friction",
+         "dir": "up"
+        },
+        {
+         "name": "magnet attracts the door",
+         "dir": "left"
+        },
+        {
+         "name": "door pushes back",
+         "dir": "right"
+        }
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think it through",
+     [
+      {
+       "t": "mcq",
+       "p": "A magnetotactic bacterium lives in the mud of a lake in Bengaluru. Why do they carry a chain of magnetite crystals?",
+       "opts": [
+        "to find food floating near the top of the water",
+        "to line up with the Earth's field, which slants down into the mud where they live best",
+        "to stick to stones"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Pick a side. Strong magnets made with rare earth metals are in phones, electric cars and wind turbines. Should we make many more of them? Lakshmi, a wind turbine engineer says: 'Strong magnets make lighter motors and generators. Wind turbines with them make electricity without burning coal.' Sheeba, who fishes off a beach in Kerala where rare earth sands are mined says: 'Mining and cleaning the sand can harm the beach and the sea, and the people who live there do not decide.' Rupa, who runs a recycling shop says: 'Old hard disks and motors are full of these magnets, but almost all are thrown away. We could reuse them before we dig up more.' Pick one view. Give a reason for it from what you learned. Then say what one of the other people would answer back.",
+       "lines": 5,
+       "a": "A strong answer picks one view and backs it with a real reason (for example, cleaner electricity, harm to the beach, or reuse of old magnets). It then fairly states another person's reply, and may suggest a way to meet both needs, such as recycling more."
+      },
+      {
+       "t": "write",
+       "p": "Ammu says: 'Magnet bracelets cure knee pain. My aunt's knee felt better after she wore one.' Describe a test that would show whether the magnet made the difference.",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Magnet puzzles and big arguments",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "write",
+       "p": "You have a bar magnet with no N or S marked on it, and a piece of thread. How can you find out which end is the north pole?",
+       "lines": 3
+      },
+      {
+       "t": "fill",
+       "p": "Tanvi tested her magnet four times and got 14, 16, 3 and 15 paper squares. She leaves out the reading that does not fit. The mean of the other three is ____.",
+       "a": [
+        "15"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Every magnet ever found has a north pole and a south pole. You break a bar magnet in half. What do you get?",
+       "opts": [
+        "one piece with only a north pole and one with only a south pole",
+        "two smaller magnets, each with a north and a south pole",
+        "two pieces that are no longer magnets"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Ørsted's compass needle swung to the left when current flowed in the wire. He turned the battery round. What did the needle do?",
+       "opts": [
+        "It swung to the right.",
+        "It did not move.",
+        "It swung to the left again."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Electromagnets and uses",
+     [
+      {
+       "t": "sort",
+       "p": "Which changes would make an electromagnet stronger, and which would make it weaker?",
+       "items": [
+        "more turns of wire",
+        "a fresh cell",
+        "a steel nail inside the coil",
+        "a plastic straw inside the coil instead",
+        "an old, used-up cell",
+        "fewer turns of wire"
+       ],
+       "cats": [
+        "stronger",
+        "weaker"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each problem to the magnet that solves it.",
+       "pairs": [
+        [
+         "A crane must drop scrap iron onto a new pile.",
+         "an electromagnet that can be switched off"
+        ],
+        [
+         "A cupboard door keeps swinging open.",
+         "a small magnet in the door catch"
+        ],
+        [
+         "A sailor cannot see the coast or the stars.",
+         "a compass"
+        ],
+        [
+         "A doctor must see inside the body without cutting.",
+         "an MRI scanner's strong electromagnet"
+        ]
+       ]
+      },
+      {
+       "t": "draw",
+       "p": "Draw the field lines around two bar magnets placed with their north poles facing each other, a little apart. Add arrows."
+      }
+     ]
+    ],
+    [
+     "C. Big arguments",
+     [
+      {
+       "t": "write",
+       "p": "Near the equator, the Earth's field lines run almost flat along the ground. Why might magnetotactic bacteria there find it harder to swim down into the mud?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Rocks from old lava flows keep a record of the Earth's field from when they cooled. How could rocks of different ages show that the Earth's field has flipped?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Pick a side. In 1784, people who were treated by Mesmer said they felt better. Was Mesmer's treatment useful? Mesmer says: 'My patients came to me ill and left feeling better. That is my evidence.' Franklin's commission says: 'People reacted just as strongly when they were fooled into thinking they were treated. So the cause was their imagination, not a magnetic fluid.' A doctor today says: 'Feeling better matters, and hope and care can really ease pain. But we must not sell people a cure that works no better than a fake one.' Pick the view you agree with most. Give a reason. Then answer back as one of the others.",
+       "lines": 5,
+       "a": "A strong answer separates two questions: did people feel better (yes), and was it caused by animal magnetism (no, the blind tests showed that). It uses the blindfold test as evidence, and treats the other views fairly, for example by agreeing that feelings matter while saying the claim about the fluid was wrong."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Which bar is the magnet?",
+   "day": 1,
+   "question": "A magnet and a plain steel nail can look alike. How can you tell them apart using only the two of them?",
+   "need": [
+    "a bar magnet",
+    "a large steel nail about the same length",
+    "2 sheets of newspaper",
+    "a second steel nail"
+   ],
+   "steps": [
+    "Hold the two nails together. See if they attract each other.",
+    "Wrap the bar magnet in newspaper, and the big nail in another sheet, so they look the same. Mix them up. Call them A and B.",
+    "Touch one end of A to the middle of B. Feel how strongly they attract.",
+    "Now touch one end of B to the middle of A.",
+    "The one whose end attracts the other's middle strongly is the magnet. Unwrap them to check."
+   ],
+   "predict": "Ask your child to guess first: 'Will the two nails attract each other? And can you find the magnet without any other magnet or pin?'",
+   "observe": "The two nails do not attract each other at all. When the end of the magnet touches the middle of the nail, they attract strongly. When the end of the nail touches the middle of the magnet, they attract weakly or not at all.",
+   "why": "A magnet has its own magnetic field, strongest at its two poles and weakest in the middle. A nail is a magnetic material: a magnet attracts it, but it has no field of its own. So the magnet's end attracts any part of the nail, while the nail's end can only feel the weak middle of the magnet. Two nails attract nothing, because neither has a field.",
+   "safety": "Hold nails by the head, and keep the points away from faces.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "Count the strokes",
+   "day": 2,
+   "question": "Does a needle get stronger with every stroke of a magnet, or does it stop?",
+   "need": [
+    "a steel sewing needle about 4 to 5 cm long",
+    "a bar magnet",
+    "a small box of steel pins or stapler pins",
+    "a plate to hold the pins",
+    "the Magnet notebook"
+   ],
+   "steps": [
+    "Dip the plain needle into the pins and count how many it lifts. Write it in a table: 0 strokes.",
+    "Hold the needle down at the eye end. Slide one end of the magnet from the eye to the point, then lift the magnet high and bring it back to the eye. That is one stroke.",
+    "Do 10 strokes, always the same way. Dip in the pins and count. Write it down.",
+    "Do 10 more (20 in all). Count and write. Then 20 more (40 in all). Count and write.",
+    "Do 40 more (80 in all). Count and write."
+   ],
+   "predict": "Ask: 'How many pins will the needle lift after 10 strokes? After 40? After 80? Why?'",
+   "observe": "The plain needle lifts no pins, or one. After 10 strokes it usually lifts one or two. The number grows for a while, then stops growing much, even with many more strokes.",
+   "why": "Steel is full of domains, tiny regions that each act like a tiny magnet. In a plain needle they point every which way and cancel out. Each stroke turns more of them to point the same way, so their forces add up. Once nearly all of them point the same way, more strokes cannot help. Nothing passes from the magnet into the needle: the magnet is no weaker afterwards.",
+   "safety": "Needles are sharp. Stroke away from the finger that holds the needle. A grown-up puts the needles away in soap or a pin cushion after use.",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "Unmake the magnet",
+   "day": 2,
+   "question": "Can heat stop a needle from being a magnet?",
+   "need": [
+    "the magnetised needle from Experiment e2",
+    "pliers or kitchen tongs (sansi)",
+    "a gas stove",
+    "a steel plate",
+    "the steel pins"
+   ],
+   "steps": [
+    "Check that the magnetised needle still lifts pins. Count them.",
+    "A grown-up holds the needle by its eye end with the pliers and holds the point in the hottest part of the gas flame until the needle glows red. This takes about one minute.",
+    "The grown-up lays the needle on a steel plate to cool for five minutes. Nobody touches it while it cools.",
+    "Dip the cooled needle into the pins. Count them.",
+    "Stroke it 40 times again and test once more."
+   ],
+   "predict": "Ask: 'Will the hot needle still be a magnet after it cools? Why do you think so?'",
+   "observe": "After heating and cooling, the needle lifts far fewer pins, often none. After stroking again, it lifts pins again.",
+   "why": "Heat makes atoms shake. When steel gets hot enough, above its Curie temperature (about 770 °C for iron), the shaking is so strong that the domains cannot stay lined up, and they fall back to pointing every which way. A needle glowing bright red is close to or above that temperature, so it loses most of its magnetism. Stroking lines the domains up again. The steel itself is the same all along. Only the direction of its domains has changed.",
+   "safety": "A grown-up does all the heating. The needle stays hot for several minutes and can burn: do not touch it until it has cooled on the plate for five minutes. Keep hair, sleeves and paper away from the flame.",
+   "time": "12 min"
+  },
+  {
+   "id": "e4",
+   "title": "Sheets against the fridge",
+   "day": 3,
+   "question": "Which of our magnets is strongest? How can we measure it fairly?",
+   "need": [
+    "3 or 4 different magnets",
+    "30 squares of notebook paper about 5 cm across, all from the same notebook",
+    "a fridge door or a steel almirah",
+    "a pencil and the Magnet notebook"
+   ],
+   "steps": [
+    "Draw a table: one row for each magnet, columns for Try 1, Try 2, Try 3 and Mean.",
+    "Put one paper square on the fridge door and press the first magnet onto it, then let go.",
+    "If it holds, take it off, add one more square under it, and press it on again in the same way.",
+    "Keep adding one square at a time. When the magnet slides down, write the last number of squares that held.",
+    "Do this three times for each magnet. Then find the mean for each: add the three numbers and divide by 3.",
+    "Draw a bar chart with one bar for each magnet's mean."
+   ],
+   "predict": "Ask your child to line the magnets up from strongest to weakest by guessing, and to give a reason.",
+   "observe": "A bendy fridge magnet usually holds only one to three squares. A ceramic or bar magnet holds many more. The three tries for one magnet are close but not always the same.",
+   "why": "Paper is not magnetic, so each square adds a little gap between the magnet and the steel door. Magnetic force gets weaker as the gap grows. A stronger magnet still grips the door across a bigger gap. We do three tries because one try can be a fluke, and the mean gives a fair middle value. Strength depends on what the magnet is made of and how well its domains line up, not on its size.",
+   "safety": "Keep magnets away from phones and bank cards. If you have small neodymium magnets, keep them away from children under 5: swallowed magnets are an emergency.",
+   "time": "22 min"
+  },
+  {
+   "id": "e5",
+   "title": "The floating clip",
+   "day": 4,
+   "question": "Can a magnet hold a paper clip in the air without touching it?",
+   "need": [
+    "a bar magnet or a strong ceramic magnet",
+    "a steel paper clip",
+    "30 cm of cotton thread",
+    "sticky tape",
+    "a stack of books",
+    "a ruler"
+   ],
+   "steps": [
+    "Tie one end of the thread to the clip. Tape the other end of the thread to the table.",
+    "Make a stack of books about 20 cm high next to the taped end. Tape the magnet under the top book so that it sticks out over the edge.",
+    "Lift the clip on its thread up towards the magnet, until it jumps up but cannot reach the magnet because the thread is tight.",
+    "If the clip touches the magnet, move the stack a little to make the thread shorter. Let go. The clip should stay in the air.",
+    "Measure the gap between clip and magnet. Take a thin book off the stack to lower the magnet, or add one to raise it, and find the biggest gap where the clip still floats."
+   ],
+   "predict": "Ask: 'If you let go of the clip under the magnet, will it stay in the air? How big a gap can there be?'",
+   "observe": "The clip stays in the air below the magnet, with the thread pulled tight. With a bar magnet the gap can be about 1 cm or a little more. If the magnet goes too high, the clip falls.",
+   "why": "The magnet attracts the clip across the gap, through its magnetic field. Gravity and the tight thread pull the clip down. When the upward pull equals the downward pulls, the clip stays still. Magnetic force gets weaker quickly with distance, so if the gap grows too big, the upward pull becomes too small and the clip falls.",
+   "safety": "",
+   "time": "12 min"
+  },
+  {
+   "id": "e6",
+   "title": "What blocks the force?",
+   "day": 4,
+   "question": "Which materials stop a magnet's force from reaching the clip?",
+   "need": [
+    "the floating clip set-up from Experiment e5",
+    "a sheet of paper",
+    "a piece of plastic bag",
+    "a piece of aluminium foil",
+    "the metal lid of a jam or pickle jar (check that a magnet sticks to it)"
+   ],
+   "steps": [
+    "Set up the floating clip with a gap of about half a centimetre.",
+    "Slide the paper slowly into the gap between the clip and the magnet, without touching the clip. Watch the clip.",
+    "Do the same with the plastic and then with the aluminium foil.",
+    "Last, slide the jar lid into the gap.",
+    "Write down which materials let the clip keep floating and which made it fall."
+   ],
+   "predict": "Before each material, ask: 'Will the clip keep floating? Why do you think so?'",
+   "observe": "The clip keeps floating with paper, plastic and aluminium foil in the gap. When the steel jar lid slides in, the clip drops, or jumps to the lid.",
+   "why": "Paper, plastic and aluminium are not magnetic materials, so the field passes through them as if they were not there. The jar lid is made of steel. Its domains line up with the magnet, and the field runs through the lid itself instead of crossing to the clip. This is called magnetic shielding. It is why the steel case of a compass would spoil it, and why the cases around some machines are made of iron.",
+   "safety": "Jar lids can have sharp edges. Hold them by the flat part.",
+   "time": "15 min"
+  },
+  {
+   "id": "e7",
+   "title": "Ørsted's needle at home",
+   "day": 5,
+   "question": "Does an electric current make a magnetic field?",
+   "need": [
+    "a 1.5 volt AA cell",
+    "50 cm of the thin insulated copper wire with bare ends",
+    "a small compass, or a magnetised needle floating on paper in a plastic bowl of water",
+    "sticky tape"
+   ],
+   "steps": [
+    "Put the compass on the table, far from steel things, and wait for it to settle pointing north and south.",
+    "Lay the middle of the wire straight across the top of the compass, along the line the needle points. Tape the wire down. If you use the floating needle, tape the wire across the top of the bowl, just above the needle.",
+    "Hold one bare end on the flat end of the cell. Touch the other bare end to the bump end for 2 to 3 seconds, and watch the needle. Then let go.",
+    "Turn the cell round and do it again.",
+    "Try it with the wire laid under the compass instead of over it."
+   ],
+   "predict": "Ask: 'Will the needle move when electricity flows in the wire? Which way?'",
+   "observe": "The needle swings sideways the moment the current flows, and swings back when you let go. With the cell turned round, it swings the other way. With the wire under the compass, it also swings the other way.",
+   "why": "An electric current makes a magnetic field around the wire, in rings around it. The needle is a magnet, so it turns to line up with this new field. When the current runs the other way, the field points the other way, and so does the swing. Hans Christian Ørsted first showed this in 1820. It was the first proof that electricity and magnetism are linked.",
+   "safety": "Use only one or two 1.5 volt cells. Never use mains electricity, a phone or laptop battery, or a car battery. Touching the wire straight across a cell makes it warm in seconds, so connect for only 2 to 3 seconds at a time.",
+   "time": "12 min"
+  },
+  {
+   "id": "e8",
+   "title": "Build an electromagnet",
+   "day": 5,
+   "question": "Does an electromagnet get stronger with more turns of wire?",
+   "need": [
+    "3 metres of thin insulated copper wire with bare ends",
+    "a large steel nail, 7 to 10 cm long",
+    "a 1.5 volt AA cell",
+    "sticky tape",
+    "a plate of stapler pins or steel pins",
+    "a pencil"
+   ],
+   "steps": [
+    "First, dip the nail in the pins. It should lift none.",
+    "Leave 30 cm of wire free at one end. Wind 30 turns of wire tightly around the nail, side by side, all in the same direction. Tape the coil so it stays.",
+    "Leave the rest of the wire loose and straight, not bunched up. Do not cut it.",
+    "Hold one bare end on each end of the cell. Dip the nail tip in the pins, lift, and count the pins. Then let go of the cell. Keep each lift to 10 seconds.",
+    "Do it three times, waiting 30 seconds between tries. Write the number each time.",
+    "Now wind more of the loose wire on, to make 60 turns in all. The same length of wire is still connected. Test three times again.",
+    "Last, slide the nail out of the coil, hold the empty coil over the pins and connect the cell."
+   ],
+   "predict": "Ask: 'Will 60 turns lift more pins than 30? What will the coil do without the nail inside it?'",
+   "observe": "With the current on, the nail lifts pins. With 60 turns it usually lifts more than with 30. When the current stops, most pins drop, though a few may cling because steel keeps a little magnetism. The empty coil lifts few or none.",
+   "why": "Each turn of wire carrying a current makes its own magnetic field. Turns wound the same way add their fields together, so more turns make a stronger magnet. The steel nail makes it much stronger still, because the coil's field lines up the nail's domains. When the current stops, the domains fall back out of line. We keep the same total length of wire connected, because a longer wire lets less current through. Then only the number of turns changes, and the test is fair. Later tries may lift fewer pins because the cell gets weaker as it is used.",
+   "safety": "Use only one 1.5 volt cell. Never use mains electricity or a phone, laptop or car battery. The wire and the cell get warm: connect for at most 10 seconds and rest 30 seconds between tries. A grown-up strips the wire ends.",
+   "time": "18 min, and 24 min more to build the crane"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Alloys and coins",
+   "day": 1,
+   "mins": 13,
+   "need": [
+    "a steel spoon",
+    "a steel tumbler",
+    "a brass lota or brass key",
+    "copper wire or a copper vessel",
+    "aluminium foil",
+    "a steel nail",
+    "a few coins of different values",
+    "a magnet",
+    "2 sheets of paper marked ALLOY and PURE METAL"
+   ],
+   "steps": [
+    "Lay the objects out. For each one, say what it is made of. A grown-up helps: steel spoon and tumbler (alloys of iron), brass (an alloy of copper and zinc), copper wire (nearly pure copper), aluminium foil (nearly pure aluminium), steel nail (an alloy of iron).",
+    "Your child puts each object on the ALLOY or PURE METAL sheet.",
+    "Guess for each: will the magnet attract it? Then test each object with the magnet.",
+    "Test each coin too. Write down which coins are magnetic.",
+    "Circle every object that the magnet attracted. Look for what they all have in common."
+   ],
+   "outcome": "A sorted table showing that the magnetic objects all contain iron (or nickel), whether they are alloys or not, and a list of which of your coins are magnetic. Some Indian coins are made of a magnetic steel and some are not, so the results depend on which coins you have."
+  },
+  {
+   "id": "a2",
+   "title": "The domain dance",
+   "day": 2,
+   "mins": 10,
+   "need": [
+    "3 to 6 family members, or soft toys",
+    "a sheet of paper with a big arrow drawn on it for each person"
+   ],
+   "steps": [
+    "Each person holds an arrow and is one domain inside a needle. Stand close together in a small group.",
+    "Plain needle: everyone faces a different way, arrows pointing everywhere. Ask: 'If each arrow pushes its own way, where does the group push?' (Nowhere: they cancel out.)",
+    "Your child is the magnet. They walk past the group slowly, from one end to the other, waving their arm in one direction. Each person they pass turns their arrow to point that way.",
+    "After a few passes, everyone points the same way. Ask: 'Now where does the group push?' (All in one direction. Their forces add up.)",
+    "Heat: a grown-up calls 'Red-hot!' and everyone wobbles and spins, then stops facing any way. Ask: 'Is the needle still a magnet?'"
+   ],
+   "outcome": "A body memory of domains lining up when a needle is stroked, and falling out of line when it is heated."
+  },
+  {
+   "id": "a3",
+   "title": "Map the field with a compass",
+   "day": 6,
+   "mins": 14,
+   "need": [
+    "a bar magnet",
+    "a sheet of white paper",
+    "a pencil",
+    "a small compass, or a magnetised needle hung by a thread tied round its middle"
+   ],
+   "steps": [
+    "Put the paper on a table, far from steel things. Lay the bar magnet in the middle and draw round it. Write N and S on its ends.",
+    "Put the compass on the paper about 5 cm from the north pole of the magnet. Wait for it to settle.",
+    "Draw a short arrow on the paper, pointing the way the compass needle's north end points.",
+    "Move the compass to eight places around the magnet, one at a time, and draw an arrow at each.",
+    "Join the arrows into curved lines from the north pole round to the south pole. If you use a hanging needle, hold it about 5 cm above each spot, so it does not jump to the magnet."
+   ],
+   "outcome": "A field map with arrows, showing that the field runs out of the magnet's north pole and round into its south pole."
+  },
+  {
+   "id": "a4",
+   "title": "Which box has the magnet?",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "3 empty matchboxes",
+    "a small magnet that fits inside one",
+    "2 small things about the same weight that are not magnetic, such as a small stone and a lump of clay",
+    "a compass, or a magnetised needle on a thread",
+    "the Magnet notebook"
+   ],
+   "steps": [
+    "A grown-up puts the magnet in one box and the other two things in the other boxes, without your child seeing. Check the boxes feel about the same weight.",
+    "Your child closes their eyes, holds each box for a few seconds, and guesses which holds the magnet. Write the guess.",
+    "Shuffle the boxes. Do five rounds and count the correct guesses.",
+    "Now your child brings the compass near each box in turn. The needle swings near the box with the magnet.",
+    "Do five rounds with the compass and count again."
+   ],
+   "outcome": "A score by feel (often about one in three, which is the same as guessing) and a score with the compass (usually five out of five), showing that we cannot feel a magnet's field but an instrument can."
+  }
+ ],
+ "project": {
+  "title": "An electromagnet crane that sorts scrap",
+  "days": [
+   8,
+   9
+  ],
+  "steps": [
+   "Use the electromagnet from Experiment e8: a steel nail wound with 60 turns of insulated wire, with a 1.5 volt AA cell.",
+   "Tape a ruler or a straight stick across the top of a tall cardboard box, so one end sticks out over the edge.",
+   "Hang the electromagnet from that end by its wire, with the nail pointing down, about 10 cm above the table.",
+   "Make a scrap heap under it: stapler pins, small paper clips, bits of aluminium foil and bits of paper.",
+   "Touch the wire ends to the cell, lower the nail onto the heap, lift, swing the stick to a bowl, and let go of the cell. Keep each lift to 10 seconds.",
+   "Label the crane 'Electromagnet: only a magnet while the current flows' and label two bowls 'magnetic' and 'not magnetic'.",
+   "Show a family member how it sorts the heap, and explain why it leaves the foil and paper behind."
+  ],
+  "outcome": "A working crane that picks up only magnetic materials and drops them when the current stops, and a child who can explain how an electromagnet works and why it can be switched off."
+ },
+ "game": {
+  "id": "g1",
+  "title": "The Scrap Yard Crane",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "one die",
+   "a counter for each player (a button or a coin)",
+   "a magnet, a nail and a compass if you have them"
+  ],
+  "rules": [
+   "Everyone starts on START. Take turns to roll the die and move that many squares.",
+   "If you land on a question square, answer it aloud and give a reason. The other players decide if the answer is right. If it is, stay there. If not, go back 2 squares.",
+   "If you land on an event square, do what it says.",
+   "If a square can be tested with your magnet, nail or compass, test it before you decide.",
+   "The first player to reach HOME wins."
+  ],
+  "squares": [
+   "START",
+   "Does the middle of a bar magnet attract a nail strongly or weakly?",
+   "The crane lifts a load of steel. Move forward 2.",
+   "Name an alloy that a magnet attracts, and one it does not.",
+   "What are domains?",
+   "Power cut! The crane drops its load. Go back 1.",
+   "Why does a stroked needle stop getting stronger after many strokes?",
+   "Why does heat make domains fall out of line?",
+   "You found an anomaly. Test again: miss a turn.",
+   "Name one thing you must keep the same in a magnet-strength test.",
+   "Name a material that a magnet's force passes straight through.",
+   "A compass is next to a wire. The current comes on. What happens?",
+   "Your coil has more turns. Move forward 2.",
+   "What does the steel nail inside the coil do?",
+   "Why can a crane drop its load but a fridge magnet cannot let go?",
+   "Your cell is used up. Go back 2.",
+   "Why can't the Earth's hot centre be a giant bar magnet?",
+   "Name a place where a compass is more useful than a phone.",
+   "An aurora lights the sky. Move forward 1.",
+   "Who saw magnetotactic bacteria first, and why was he forgotten?",
+   "What protects the Earth from the solar wind?",
+   "A robin finds their way south. Move forward 1.",
+   "What is a blind test?",
+   "HOME"
+  ]
+ },
+ "big": [
+  "A needle can be a magnet, then not a magnet, then a magnet again, and it is the same steel each time. What else changes completely just by being arranged differently?",
+  "The bacteria in the story always swim the right way without knowing where down is. Do you always need to understand something to use it well?",
+  "Mesmer's patients felt better even though his magnetic fluid did not exist. Was their feeling better real?",
+  "A magnet's field reaches out into empty space, and we cannot see or feel it. Is empty space really empty?",
+  "The Earth's field protects every living being from the solar wind, and nobody owns it. What else protects us all without belonging to anyone?"
+ ],
+ "challenge": [
+  {
+   "q": "Many books say Ørsted found that electricity makes magnetism by accident, in the middle of a lecture.",
+   "hint": "Ørsted's own later account says he first saw the needle move during a lecture in 1820. But he had believed for years that electricity and magnetism were linked, and had been looking for a connection. The accident happened to someone ready to notice it. Ask: why do people like stories of lucky accidents more than stories of long, patient work?"
+  },
+  {
+   "q": "'A compass points to the North Pole.'",
+   "hint": "A compass points to the Earth's north magnetic pole, which is in the Arctic a long way from the North Pole (the top of the Earth's spin), and it moves every year. In recent decades it has moved from Canada towards Siberia. Navigators correct for the difference using maps. Ask: why might this matter more for a ship near the Arctic than for a family in Chennai?"
+  },
+  {
+   "q": "'The Earth's north has always been north.'",
+   "hint": "Old lava rocks keep a record of the field from when they cooled. They show that the north and south magnetic poles have swapped places many times. The last full swap was about 780,000 years ago. Ask: if the poles swapped while you were alive, what would happen to your compass?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A woman who runs a scrap yard in Hyderabad",
+   "view": "She uses a crane with an electromagnet to lift iron and steel out of the heap and drop them on a separate pile, so they can be melted and made into new steel. Brass, copper and aluminium stay behind and are sorted by hand. Ask: why is it useful that she can switch her magnet off?"
+  },
+  {
+   "who": "A magnetotactic bacterium",
+   "view": "Their problem is to stay in a thin layer of mud with just a little oxygen, when every storm throws them up into the water. Their magnetite chain lines them up with the Earth's field and steers them back down. Ask: we call bacteria 'simple'. Each one builds their own compass out of iron from the water. What can you build out of nothing but what you eat?"
+  },
+  {
+   "who": "A fisherwoman in Thoothukudi",
+   "view": "Her boat now has a phone with satellite maps, but she still keeps a compass, because the phone can lose its signal or its charge out at sea. Ask: when is an old, simple tool better than a new one?"
+  },
+  {
+   "who": "An MRI technician in a hospital in Kochi",
+   "view": "The MRI scanner is a huge electromagnet, hundreds of times stronger than a fridge magnet. It is kept on all the time, so before every scan he checks that nobody brings steel hairpins, keys or wheelchairs near it. Ask: why must this electromagnet be so strong, and why is it dangerous with a hairpin but safe for the body?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Hans Christian Ørsted (1777–1851), Denmark, and Gian Domenico Romagnosi (1761–1835), Italy",
+   "idea": "In April 1820, Ørsted saw a compass needle swing when he switched on an electric current in a wire beside it. He published the result in July 1820. In 1802, Romagnosi, a lawyer and scholar, had described in a newspaper a magnetic needle moving near a voltaic pile, an early battery.",
+   "then": "Ørsted's result spread across Europe in weeks. In France, André-Marie Ampère soon showed that two wires carrying currents attract or repel each other. Romagnosi's report was hardly noticed.",
+   "now": "Accepted: an electric current makes a magnetic field. This is how every electromagnet, electric motor and loudspeaker works. Historians still argue about whether Romagnosi saw the same effect. Some think his set-up showed an effect of static electricity instead.",
+   "status": "accepted",
+   "ask": "Romagnosi published first, but in a newspaper that few scientists read. Should he share the credit? What would you need to know to decide?",
+   "day": 5
+  },
+  {
+   "id": "v2",
+   "who": "Salvatore Bellini, University of Pavia, Italy, and Richard Blakemore, USA",
+   "idea": "In 1963 Bellini looked at fresh water from around Pavia under a microscope and saw bacteria that always swam north, and turned when he brought a magnet close. He called them 'magnetosensitive bacteria'. In 1975 Blakemore, who did not know of Bellini's work, found the same kind of bacteria in marsh mud in the USA, and saw with an electron microscope that each one carries a chain of tiny iron-rich crystals. In 1979 these were shown to be magnetite.",
+   "then": "Bellini wrote his findings up only in his university's own papers, not in a journal read around the world, and they were forgotten. Blakemore published in the journal Science, and he is usually called the discoverer.",
+   "now": "Accepted: magnetotactic bacteria live in mud and water all over the world. The crystals are magnetite, and the chain works like a compass needle. In 2009 Bellini's papers were found and translated into English, and scientists now credit him as the first to see them.",
+   "status": "accepted",
+   "ask": "Bellini saw them first, but few people heard about it. What does it take for a discovery to count?",
+   "day": 6
+  },
+  {
+   "id": "v3",
+   "who": "Franz Anton Mesmer (1734–1815), doctor in Vienna and Paris, and the French Royal Commission of 1784, including Benjamin Franklin and Antoine Lavoisier",
+   "idea": "Mesmer said that an invisible fluid he called 'animal magnetism' flowed through all bodies, and that he could heal illness by guiding it, at first with magnets and later with his hands. Many patients shook, fainted, and said they felt better.",
+   "then": "Mesmer became famous in Paris. In 1784 the King of France set up a commission to test him. They used blind tests: they blindfolded people, and sometimes told them they were being 'magnetised' when nothing was done. People reacted just as strongly when they were fooled. In one test, a boy walked to trees in Franklin's garden and collapsed in front of a tree that had not been 'magnetised'. The commission said the effects came from imagination.",
+   "now": "Rejected: there is no such fluid. But the commission found something real: what people expect can change how they feel. Doctors now call this the placebo effect, and every careful test of a medicine uses blind tests like theirs.",
+   "status": "rejected",
+   "ask": "Mesmer's patients really did feel better. Does that mean his idea was right? What would you need to see to believe a cure works?",
+   "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "Wolfgang and Roswitha Wiltschko, Germany, and scientists studying how birds sense the Earth's field today",
+   "idea": "In 1972 the Wiltschkos showed that European robins kept in a cage at migration time hop towards the direction they would migrate, and change direction when the magnetic field around the cage is turned. So the birds have a magnetic compass.",
+   "then": "Many scientists doubted that a bird could sense a field so weak. Over the next decades, tests on many kinds of birds found the same thing.",
+   "now": "That birds sense the field is accepted. How they do it is still debated. One idea is a protein called cryptochrome in their eyes, which may let them see the field as a pattern. Another was magnetite in their beaks, but in 2012 the iron-rich cells in pigeon beaks turned out to be blood-cleaning cells, not sense cells. Some scientists still look for magnetite sensors elsewhere in the body.",
+   "status": "debated",
+   "ask": "If a robin could see the Earth's field, what might it look like to them? What experiment could show whether her eyes are involved?",
+   "day": 8
+  }
+ ],
+ "story": {
+  "title": "The Line in the Mud",
+  "text": [
+   "I live at the bottom of a lake in Bengaluru, in the soft grey mud. You could line up a hundred of me across the full stop at the end of this sentence, and still have room. I am a bacterium. I have no eyes and no ears. But I know a great deal about mud.",
+   "Mud is not the same all the way down. Near the top, where the water touches it, there is a lot of oxygen. Too much oxygen harms me. Deep down, there is none at all, and I cannot live there either. In between is a thin layer, thinner than a page of your notebook, where there is just a little. That is where I belong. That is home.",
+   "The trouble is that the lake does not keep still. A fish turns, and their tail stirs the mud into a cloud. A heron steps on the bottom. Rain pours in from the drains. When that happens I am thrown up into the bright water, spinning, and I have no idea which way is down. You might think a creature could just fall. But I am so small that the water holds me up like dust in a sunbeam. Falling does not work for something my size.",
+   "So I carry something inside me. Along the middle of my body runs a row of tiny crystals, like beads on a thread. I built them myself, one by one, out of iron I took from the water. The crystals are magnetite, the same black mineral that lodestones are made of. Each crystal is a tiny magnet. Lined up in a row, they add together into one long needle, and the needle turns my whole body.",
+   "I do not feel it as a pull. I only find myself facing a certain way. And when I swim forward, the way I am facing, I go a little north and a little down. Down is home. So after every storm, I turn, I swim, and I find the thin layer again. So do all the others like me.",
+   "Then came the day of the jar.",
+   "A woman waded in at the edge of the lake in her rubber boots and scooped up a jar of mud and water. Her name, I learned later, was Dr Revathi. Her student, a young man called Farhan, held the jar while she screwed the lid on. They carried us away from the lake to a room with bright lamps.",
+   "Dr Revathi put a single drop of the water on a piece of glass and looked at it through a microscope. For us, the drop was a whole sea, but a strange one. It had no mud. It had no bottom to reach. I turned, as I always do, and swam the way I was facing. So did the others. We swam until we hit the edge of the drop, and there we gathered, thousands of us, in a dark crowded line.",
+   "'Look,' said Farhan. 'They are all swimming to one side. Is it the lamp?'",
+   "'Let's see,' said Dr Revathi. She moved the lamp to the other side. We stayed where we were. Then she switched it off. We stayed where we were.",
+   "'It's not the light,' she said. 'Which side of the drop are they on?'",
+   "Farhan checked the compass on his phone. 'The north side,' he said slowly.",
+   "Dr Revathi smiled. She picked up a small round magnet from the table and set it down on the south side of the glass, with its south pole facing the drop.",
+   "And the world turned round.",
+   "I cannot tell you what it was like, except that the way I was facing was suddenly the wrong way, and I swung round with my whole body until I faced the other side of the drop. So did every one of us. Thousands of us, all at once, turned and swam across our little sea and crowded at the opposite edge.",
+   "Farhan laughed out loud. 'They are following the magnet!'",
+   "'Turn it round,' said Dr Revathi. He turned the magnet round. We swung back and swam home to the first edge. He turned it again, and back we came. He did it again and again, and every time we turned together, like a field of rice when the wind changes.",
+   "That evening, Dr Revathi carried the jar back to the lake and poured us out into the shallow water. The mud cloud spun around me. For a moment I tumbled in the light.",
+   "Then I turned. I did not know where down was. I never had. I only knew which way the line ran, the line that runs through the whole Earth, from the turning liquid iron deep inside it, up through the rock, the lake and the mud, and through the needle inside me. I faced along it, and I swam.",
+   "A little north. A little down. Home."
+  ],
+  "epiphany": "For the parent: the bacterium thinks she knows the way down, but she never did. The magnetite chain only lines her up with the Earth's magnetic field, which in the northern half of the Earth slants down into the ground. The turn comes when Dr Revathi's small magnet makes a stronger field than the Earth's nearby, and every bacterium turns to follow it: they are lined up by the field, not by any sense of up and down. This is the same thing the child's floating needle does on Day 5, and the same domains-lining-up idea from Day 2, inside a living being.",
+  "ask": [
+   "Why did the bacteria swim to one edge of the drop, even though there was no mud to reach?",
+   "How did Dr Revathi show that it was not the lamp?",
+   "What would happen to the bacteria if you put a strong magnet near the lake bottom?",
+   "The bacterium says she never knew where down was. What did she know instead?",
+   "What else do you know about the world without being able to sense it yourself?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Being a magnet is about arrangement, not about a special material.",
+   "more": "The same steel needle became a magnet when it was stroked, stopped being one when it was heated, and became one again when stroked again. Nothing was added or taken away. Only the direction of its domains changed. Use the domain dance on Day 2 to show it."
+  },
+  {
+   "idea": "Electricity and magnetism are linked.",
+   "more": "A current in a wire turned a compass needle, and a coil with a current turned a nail into a magnet. Faraday showed the reverse: a moving magnet makes a current. Power stations, motors, speakers and the Earth's own field all depend on this link."
+  },
+  {
+   "idea": "Magnetic force acts across empty space, and iron can steer it.",
+   "more": "The clip floated in the air below the magnet. Paper, plastic and aluminium did not stop the force, but a steel lid did, because the field ran through the lid instead. The magnetic field is a real thing in space around the magnet, and magnetic materials guide it."
+  },
+  {
+   "idea": "Many living beings sense a field that we cannot feel.",
+   "more": "Bacteria carry magnetite chains that line them up with the Earth's field, and robins have a magnetic compass. We needed a compass to find the hidden magnet in the matchbox. Our senses show us only part of the world."
+  }
+ ],
+ "unknowns": [
+  "Nobody knows for sure how birds sense the Earth's magnetic field. A protein in their eyes is the main idea being tested, but it has not been proved, and some scientists still look for magnetite sensors.",
+  "The Earth's magnetic field has flipped many times, but nobody can predict when the next flip will start, and scientists are still working out exactly why the flips happen.",
+  "Scientists are not sure how long ago the Earth's magnetic field began. Some old rocks suggest it was already there more than 3 billion years ago, but the evidence is argued over.",
+  "Every magnet ever found has two poles. Some theories say a particle with only one pole should exist, but nobody has ever found one."
+ ],
+ "books": [
+  {
+   "title": "Magnets: Pulling Together, Pushing Apart",
+   "author": "Natalie M. Rosinsky",
+   "for": "read together",
+   "age": "6–9",
+   "why": "A short, clear picture book on what magnets attract, poles and magnetic fields."
+  },
+  {
+   "title": "The Magic School Bus and the Electric Field Trip",
+   "author": "Joanna Cole and Bruce Degen",
+   "for": "read together",
+   "age": "7–10",
+   "why": "Ms Frizzle's class travels through power lines and a power station, and sees how a power station makes electricity."
+  },
+  {
+   "title": "Electric Universe",
+   "author": "David Bodanis",
+   "for": "parent reads",
+   "age": "adult. Read the chapters on Faraday and on Ørsted's discovery aloud in parts.",
+   "why": "True stories of the people who found how electricity and magnetism are linked, told like an adventure."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is the difference between a magnet and a magnetic material?",
+   "a": "A magnet has its own magnetic field, so it can attract iron and attract or repel other magnets. A magnetic material, such as a steel nail, is attracted by a magnet but has no field of its own. Two plain nails do not attract each other."
+  },
+  {
+   "q": "Why does stroking a needle with a magnet make it a magnet, and why does heating it red-hot stop it?",
+   "a": "Steel is full of domains, tiny regions that act like tiny magnets. Stroking turns them to point the same way, so their forces add up. Heating above the Curie temperature makes the atoms shake so much that the domains fall out of line again."
+  },
+  {
+   "q": "How did you make your magnet-strength test fair, and why did you do three tries?",
+   "a": "We changed only the magnet, used the same paper and the same fridge door, and put the magnet on the same way each time. We did three tries because one try can be a fluke, and found the mean by adding the tries and dividing by 3."
+  },
+  {
+   "q": "Which material stopped the floating clip, and why?",
+   "a": "The steel jar lid. It is a magnetic material, so the magnet's field ran through the lid instead of reaching the clip. Paper, plastic and aluminium foil did not stop it, because they are not magnetic."
+  },
+  {
+   "q": "How do you make an electromagnet, and how can you make it stronger?",
+   "a": "Wind insulated wire around an iron or steel nail and connect the ends to a cell. It is stronger with more turns of wire, with an iron core, and with a fresh cell. It stops being a magnet when the current stops."
+  },
+  {
+   "q": "Where does the Earth's magnetic field come from, and what does it do for us?",
+   "a": "From liquid iron moving deep inside the Earth, which carries electric currents. The field turns compass needles, guides bacteria and birds, and turns aside most of the solar wind. Where the solar wind gets in near the poles, it makes auroras."
+  },
+  {
+   "q": "Why do magnetotactic bacteria carry a chain of magnetite?",
+   "a": "They need to stay in a thin layer of mud with just a little oxygen, but they cannot see or feel which way is down. The chain lines them up with the Earth's field, which slants down into the ground in the northern half of the Earth, so swimming forward takes them down to the mud."
+  },
+  {
+   "q": "How did Franklin's group test Mesmer's claim about animal magnetism?",
+   "a": "They used blind tests: they blindfolded people and sometimes told them they were being magnetised when they were not. People reacted just as strongly either way, so the effects came from what people expected, not from a magnetic fluid."
+  }
+ ]
+}

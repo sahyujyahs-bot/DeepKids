@@ -1,0 +1,1339 @@
+{
+ "key": "combined|sci|5|our-closest-cousins",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "our-closest-cousins",
+ "title": "Our closest cousins: the apes, monkeys and lorises, and how they live, think and feel",
+ "source": "DeepKids Combined, a DeepKids-only topic that no board covers. Class 5: the primate family (lorises, monkeys, small apes and great apes), how apes differ from monkeys, how each primate's body solves their own problems, tool making, culture, long childhoods, memory and self-recognition, plant medicine, feelings, gestures and songs, the ape-language debate, cooperation, fighting, making up and fairness, India's primates, threats and protection, and whether great apes should have rights. No textbook needed.",
+ "summary": "In 1960 a chimpanzee at Gombe, in Tanzania, stripped the leaves off a grass stem and used the stem to fish termites out of their mound. Until then, scientists said only humans made tools. Your child fishes jam out of a bottle with three kinds of stick, takes the number-memory test that a young chimpanzee called Ayumu passed better than university students, cracks groundnuts with a stone the way chimpanzees crack nuts, and talks with gestures alone. They meet chimpanzees, bonobos, gorillas, orangutans, the hoolock gibbons of Assam, and the macaques, langurs and lorises of India, each with their own problems and their own ways of solving them. They weigh real debates: can apes learn language, do monkeys care about fairness, and should great apes have rights?",
+ "subconcepts": [
+  "the primate family: lorises and lemurs, monkeys, and apes, more than 500 kinds in all",
+  "how apes differ from monkeys: no tail, shoulders that let the arms swing in a full circle, and bigger brains for their body size",
+  "great apes (chimpanzees, bonobos, gorillas, orangutans and humans) and small apes (gibbons)",
+  "each body solves that animal's own problems: gibbon arms, langur stomachs, macaque cheek pouches, loris eyes, the gorilla's leaf diet",
+  "making and using tools: termite fishing, brush-tipped sticks and nut cracking with stone hammers",
+  "culture: groups of the same kind with different traditions, learned by watching",
+  "long childhoods and learning from mothers",
+  "memory and self-recognition: Ayumu's number test and the mirror test",
+  "plant medicine: chimpanzees and an orangutan treating themselves",
+  "feelings: play, laughter and grief",
+  "talking without words: gestures, calls and gibbon duets, and the debate over ape language",
+  "cooperation and competition: grooming, fights between chimpanzee groups, making up after a fight, bonobo peace, and fairness",
+  "India's primates: hoolock gibbons, macaques, langurs and lorises",
+  "threats and protection: forests cut down, Silent Valley, Valparai, and the mountain gorillas who came back",
+  "should great apes have rights? The idea of a non-human person"
+ ],
+ "builds_on": "Class 5 'Where humans came from' showed that humans are primates and great apes, and that humans and chimpanzees share a common ancestor who lived about 6 to 7 million years ago. Class 3 'Animal minds' met the mirror test and Jane Goodall's tool-using chimpanzees. This rung turns from our own past to our living cousins: who they are, how each one's body solves their problems, and what they make, learn, remember, feel and say. Later classes take up animal behaviour, ecology and conservation in more detail.",
+ "goals": [
+  "By the end your child can sort primates into lorises, monkeys, small apes and great apes, and say how to tell an ape from a monkey.",
+  "By the end your child can explain, for at least four primates, what problem their body solves and how.",
+  "By the end your child can describe tool making and culture in chimpanzees, with evidence, and explain why Jane Goodall's finding changed science.",
+  "By the end your child can give examples of memory, feelings, gestures, cooperation and fighting in other primates, and say what is still argued about.",
+  "By the end your child can name India's primates, say why many primates are in danger, and argue a view on whether great apes should have rights."
+ ],
+ "words": [
+  [
+   "primate",
+   "a member of the animal group that includes lorises, lemurs, monkeys, apes and humans. Most have gripping hands, nails and forward-facing eyes."
+  ],
+  [
+   "ape",
+   "a primate with no tail and shoulders that let the arms swing right round. Gibbons, orangutans, gorillas, chimpanzees, bonobos and humans are apes."
+  ],
+  [
+   "monkey",
+   "a primate that usually has a tail and usually walks along the tops of branches on all fours, like a macaque or a langur"
+  ],
+  [
+   "great ape",
+   "one of the large apes: orangutans, gorillas, chimpanzees, bonobos and humans"
+  ],
+  [
+   "tool",
+   "an object that an animal uses, and often shapes, to get something done, like a stem used to fish out termites"
+  ],
+  [
+   "culture",
+   "a way of doing things that a group learns from each other, which another group of the same kind does not do"
+  ],
+  [
+   "grooming",
+   "cleaning another animal's fur or skin with the fingers. It removes dirt and ticks, and keeps friendships close."
+  ],
+  [
+   "gesture",
+   "a movement of the hands or body that carries a message, like holding out a hand to ask for food"
+  ],
+  [
+   "nocturnal",
+   "active at night and asleep in the day, like the slender loris"
+  ],
+  [
+   "canopy",
+   "the high layer of a forest where the branches of the tallest trees meet"
+  ],
+  [
+   "reconciliation",
+   "making up after a fight, for example by hugging, kissing or grooming"
+  ],
+  [
+   "endangered",
+   "so few left that the kind of animal may die out completely"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Who are the primates?",
+   "goal": "Recall what humans share with other primates, learn to tell an ape from a monkey, and take a chimpanzee's memory test.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember: we are primates",
+     "mins": 7,
+     "do": "Ask these and wait for answers. 'From the lesson on where humans came from: what group of animals do humans belong to?' (Primates.) 'Name two things you share with other primates.' (Gripping hands, nails instead of claws, eyes that face forward, a long childhood.) 'Did humans come from chimpanzees?' (No. We are cousins with a shared ancestor.) Then ask: 'Have you seen monkeys near our home, at a temple, or on a trip? What were they doing?' Write the title 'Our closest cousins' at the top of a big sheet and write down everything your child already knows or wonders about apes and monkeys. Keep the sheet for the last day."
+    },
+    {
+     "kind": "talk",
+     "title": "Monkey or ape?",
+     "mins": 13,
+     "do": "Say: 'Primates are one big family. There are more than 500 kinds. Some are small night animals called lorises and lemurs. Most are monkeys. A few are apes.' Ask your child to stand up and swing one arm in a full circle over their head, like bowling in cricket. Ask: 'Could a dog or a cat do that?' (No. Their shoulders only swing forward and back.) Say: 'Apes have shoulders like yours, so their arms can swing right round. That lets apes hang and swing below branches. Monkeys usually walk along the top of a branch on all fours, like a dog on a wall. Monkeys usually have a tail. Apes never do.' Ask: 'Feel the bottom of your back. Do you have a tail?' (No. Just a tiny tailbone inside.) Say: 'The great apes are orangutans, gorillas, chimpanzees, bonobos and humans. Gibbons are called small apes.' Ask: 'Which of these are apes: a bonnet macaque at a temple, a gibbon, a langur, a gorilla?' (The gibbon and the gorilla. Macaques and langurs are monkeys, and they have tails.)"
+    },
+    {
+     "kind": "exp",
+     "title": "The Ayumu memory test",
+     "mins": 17,
+     "ref": "e1",
+     "do": "Do Experiment e1. First ask: 'A young chimpanzee and some university students took the same memory test. Who do you think did better? Why?' Write down the guess. Play the five rounds. Then say: 'In 2007, Sana Inoue and Tetsuro Matsuzawa, at Kyoto University in Japan, showed the numbers 1 to 9 on a touch screen to a young chimpanzee named Ayumu. The numbers were covered by white squares after a fraction of a second. Ayumu touched the squares in the right order. When the numbers were shown for the shortest time, he did better than the students.' Ask: 'Does this mean chimpanzees are cleverer than people?' Let your child think, then say: 'Later, some people who practised for a long time did as well as Ayumu. It shows that a chimpanzee can be very good at a kind of memory we are not used to.'"
+    },
+    {
+     "kind": "do",
+     "title": "Start the field guide",
+     "mins": 8,
+     "do": "Start the project: fold 5 sheets of A4 paper in half and staple them at the fold to make a 20-page booklet. Your child writes 'My cousins: a field guide' on the cover. On page 1 they draw a family tree: one trunk labelled 'primates', with three branches, 'lorises and lemurs', 'monkeys' and 'apes'. On the apes branch they draw a smaller twig for 'small apes: gibbons' and a bigger twig for 'great apes'. Say: 'Each day we will add a page for one cousin. Each page will say where they live, what problem their body solves, and one thing they know or feel.'"
+    }
+   ],
+   "need": [
+    "a big sheet of paper",
+    "18 small squares of paper, each about 5 centimetres across",
+    "a thick bath towel",
+    "5 sheets of A4 paper and a stapler",
+    "a pen and coloured pencils"
+   ],
+   "prep": [
+    {
+     "task": "Write the numbers 1 to 9 on paper squares, twice over, for Experiment e1",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Jane Goodall and the termite fishers",
+   "goal": "Hear how Jane Goodall's finding changed what scientists thought a tool was, test which tool fishes best, and learn what culture means.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "David Greybeard's stem",
+     "mins": 12,
+     "ref": "v1",
+     "do": "Tell the story in Voice v1. Say: 'In 1960, a young Englishwoman, Jane Goodall, went to Gombe, in Tanzania, to watch wild chimpanzees. She had no university degree. The chimpanzees ran away from her for months. Then one day she saw an older male, whom she named David Greybeard, pick a grass stem, strip off the leaves and poke the stem into a termite mound. Termites clamped onto the stem with their jaws, and he pulled them out and ate them.' Ask: 'Why was this so surprising?' (Scientists said that making tools was what made humans different from all other animals.) Tell what Louis Leakey said, and how other scientists reacted to her naming the chimpanzees. Then ask the voice's question."
+    },
+    {
+     "kind": "exp",
+     "title": "Fishing for jam",
+     "mins": 18,
+     "ref": "e2",
+     "do": "Do Experiment e2. First ask: 'Which stick will bring out the most jam: the leafy one, the plain one or the one with a brush tip? Why?' After five dips with each, line up the three smears on the plate. Ask: 'Why did the leaves get in the way?' (They catch on the bottle's neck and stop the stick going in.) 'Why did the brush tip work best?' (Many thin strands hold more jam than one smooth stick.) Say: 'Chimpanzees in the Goualougo forest, in the Republic of Congo, chew the end of a stem into a brush before they fish for termites. Crickette Sanz and David Morgan found that they make the brush on purpose.'"
+    },
+    {
+     "kind": "think",
+     "title": "Different groups, different ways",
+     "mins": 8,
+     "do": "Say: 'Chimpanzees in the Taï forest, in Ivory Coast, crack hard nuts with stones and wooden clubs. The chimpanzees of Gombe do not crack nuts, although there are nuts there.' Ask: 'Why do you think one group does it and another does not?' Wait for ideas. Then say: 'Young chimpanzees learn it by watching the older ones. A habit that a group learns from each other, which another group does not have, is called culture. In 1999, a team led by Andrew Whiten put together records from seven long studies across Africa. They found dozens of habits, such as nut cracking and ways of fishing for ants, that some groups have and others do not.' Ask: 'Name one habit our family has that another family does not. How did you learn it?'"
+    },
+    {
+     "kind": "do",
+     "title": "Field guide: chimpanzee",
+     "mins": 7,
+     "do": "Your child makes the chimpanzee page of the field guide. They draw a chimpanzee fishing for termites, and write: 'Lives in forests and woodlands in Africa. Problem: termites are hidden deep inside a hard mound. Solution: a stem with the leaves stripped off, or a brush tip. Knows: how to make tools, learned by watching.' Ask: 'Why did we write the problem first?' (Because the tool only makes sense once you know what the chimpanzee was trying to do.)"
+    }
+   ],
+   "need": [
+    "a small narrow-necked bottle, such as an empty 200-millilitre water bottle",
+    "3 tablespoons of jam or thick honey",
+    "3 bamboo skewers or 3 stiff sticks from a coconut-leaf broom",
+    "a few strands of cotton thread",
+    "a small leaf from a potted plant, or paper cut into leaf shapes, and tape",
+    "a white steel plate or a sheet of white paper",
+    "paper towels"
+   ],
+   "prep": [
+    {
+     "task": "Spoon the jam into the bottle so it sits at the bottom, and wipe the neck clean",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Learning takes years",
+   "goal": "Try cracking nuts with a stone, learn why primate childhoods are so long, and meet chimpanzees and an orangutan who used plants as medicine.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Hammer and anvil",
+     "mins": 15,
+     "ref": "a1",
+     "do": "Do Activity a1. First ask: 'How many of 10 groundnuts do you think you can crack without crushing the nut inside?' After both rounds, ask: 'Was it easy to hit hard enough but not too hard?' Say: 'Chimpanzees at Taï and at Bossou, in Guinea, put a hard nut on a flat stone or a tree root, the anvil, and hit it with a stone, the hammer. Young chimpanzees take several years to get good at it. They watch their mothers closely and practise again and again. Christophe and Hedwige Boesch, who studied the Taï chimpanzees for many years, reported mothers sometimes leaving a good hammer for their child, or slowly showing them how to hold it.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The longest childhoods",
+     "mins": 12,
+     "do": "Ask: 'How old were you when you could walk? When could you get your own food?' Say: 'A young chimpanzee drinks their mother's milk for about 4 to 5 years and stays close to her for years more. An orangutan mother looks after each child for about 7 or 8 years before she has another, one of the longest gaps of any mammal.' Ask: 'Why would an animal take so long to grow up?' Listen for: there is a lot to learn. Say: 'In 1971, Biruté Galdikas began studying wild orangutans in Tanjung Puting, in Borneo. She found that orangutans mostly live alone, high in the trees. A young orangutan learns from her mother which of hundreds of plants to eat, and how to build a fresh nest of branches to sleep in every night.' Ask: 'An orangutan is very heavy for a tree animal. What problem does a nest solve?' (It gives a safe, springy bed high above the ground, away from animals that hunt on the forest floor.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Medicine from plants",
+     "mins": 10,
+     "do": "Say: 'In 1987, at Mahale in Tanzania, the scientist Michael Huffman watched a sick female chimpanzee named Chausiku. She was weak and was not eating. She chewed the bitter pith of a plant that chimpanzees do not normally eat, and swallowed the juice. A day later she was well again. People in that area use the same plant as medicine for stomach illness.' Say: 'Chimpanzees also swallow rough, hairy leaves whole, without chewing. The leaves help push worms out of their gut.' Then say: 'In 2022, in a forest in Sumatra, an orangutan named Rakus had a wound on his face. He chewed the leaves of a climbing plant used as medicine by local people, and pressed the chewed paste onto the wound. The wound healed in about a month. Isabelle Laumer and her team reported it in 2024.' Ask: 'Who do you think learned about these plants first, the apes or the people?' (Nobody knows. People may have learned some of them by watching animals.) Ask: 'What plant medicines does our family use, like turmeric on a cut?'"
+    },
+    {
+     "kind": "do",
+     "title": "Field guide: orangutan",
+     "mins": 8,
+     "do": "Your child makes the orangutan page. They draw an orangutan mother and child in a nest of branches, and write: 'Lives in rainforests on the islands of Borneo and Sumatra. Problem: a heavy body high in thin branches. Solution: long arms, hook-like hands and feet, slow careful climbing, and a new nest every night. Learns from: her mother, for about 7 years.' Add: 'Rakus treated his own wound with a plant.'"
+    }
+   ],
+   "need": [
+    "20 groundnuts in their shells (or walnuts or almonds in shells if you have them)",
+    "a smooth stone that fits the hand, or the stone roller of a grinding stone, or a wooden rolling pin",
+    "a wooden chopping board",
+    "a steel plate",
+    "the field guide"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Feelings and friendships",
+   "goal": "Learn how apes play, laugh and grieve, talk with gestures only, and find out why primates groom each other.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Play, laughter and grief",
+     "mins": 12,
+     "do": "Gently tickle your child under the arm until they laugh. Ask: 'Can apes laugh?' Wait for a guess. Then say: 'Young apes laugh when they are tickled or chased. Their laugh is a breathy panting sound, and they make a relaxed open-mouthed play face. In 2009, Marina Davila Ross recorded tickled young orangutans, gorillas, chimpanzees, bonobos and human babies. The more closely two kinds are related, the more alike their laughs sound.' Then say, gently: 'Jane Goodall knew an old chimpanzee mother called Flo and her son Flint, who was about 8. When Flo died in 1972, Flint stopped eating and stayed near the place where she had died. He died about a month later.' Ask: 'What do you think Flint was feeling? How could a scientist know?' (We cannot see inside his mind, but his behaviour was like that of a person in deep grief.) Say: 'Other chimpanzee mothers have been seen carrying a dead baby for days.'"
+    },
+    {
+     "kind": "act",
+     "title": "Talking without words",
+     "mins": 15,
+     "ref": "a2",
+     "do": "Do Activity a2. Afterwards ask: 'Which messages were easiest to guess? Which were hardest?' Then say: 'Catherine Hobaiter studies wild chimpanzees in Uganda. With her team, she has recorded dozens of gestures that chimpanzees use with each other, each with a meaning. Holding out a hand, palm up, asks for some food. A loud scratch on one's own arm asks a friend to groom you there. In 2018, Kirsty Graham and Catherine Hobaiter showed people videos of chimpanzee and bonobo gestures. People guessed the meanings correctly more often than by chance.' Ask: 'Why might people understand ape gestures without being taught?' (We may have inherited some gestures from our shared ancestor.)"
+    },
+    {
+     "kind": "act",
+     "title": "The grooming circle",
+     "mins": 10,
+     "ref": "a3",
+     "do": "Do Activity a3. While you comb or oil each other's hair, say: 'Many primates spend a big part of every day grooming. Bonnet macaques sit in pairs and part each other's fur with their fingers, picking out dirt and ticks. Grooming keeps the skin clean. It also keeps friendships close. A macaque who has groomed a friend is more likely to get help from that friend later.' Ask: 'Who grooms whom in our family? Who oils whose hair?'"
+    },
+    {
+     "kind": "think",
+     "title": "Who is in the mirror?",
+     "mins": 8,
+     "do": "Ask: 'Remember the mirror test from the Class 3 lesson on animal minds? What is it?' (A mark is put on an animal where they can only see it in a mirror. If they touch the mark on their own body, they seem to know the animal in the mirror is themself.) Say: 'In 1970, Gordon Gallup found that chimpanzees pass it. Orangutans and bonobos usually pass. Gorillas pass less often. Most monkeys do not pass it, although they use mirrors to find hidden food.' Ask: 'Does an animal who fails the mirror test have no sense of self? What other test could show that an animal knows their own body?' Let your child invent one. (For example, a test with smell or sound, for an animal who does not use their eyes much.)"
+    }
+   ],
+   "need": [
+    "6 small paper slips with a message written on each (see Activity a2)",
+    "a comb, and a little coconut oil if your family uses it",
+    "a mirror"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Fighting, making up and fairness",
+   "goal": "Look honestly at fights between chimpanzee groups, learn how apes make up, meet the bonobos, test fairness, and do the core worksheet.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "War and making up",
+     "mins": 8,
+     "do": "Say: 'Jane Goodall was shocked by something she saw from 1974 to 1978. The Gombe chimpanzees had split into two groups. Males of the bigger group attacked and killed the males of the smaller group, one by one.' Ask: 'Does this mean chimpanzees are cruel?' Wait. Then say: 'Chimpanzees also hug and kiss after a fight. In 1979, Frans de Waal and Angeline van Roosmalen watched chimpanzees in a zoo in the Netherlands. Soon after a fight, the two who had fought often came together, kissed and embraced. This is called reconciliation, which means making up.' Ask: 'How do you and your friends make up after a fight?'"
+    },
+    {
+     "kind": "talk",
+     "title": "The bonobos",
+     "mins": 7,
+     "do": "Say: 'Bonobos look like slim chimpanzees. They live only in the forests of the Democratic Republic of the Congo, south of the great Congo river. In bonobo groups, females form close friendships and stand up for each other, so females hold high rank. Scientists have almost never seen bonobos kill each other, while chimpanzee groups sometimes do.' Say: 'In 2013, Jingzhi Tan and Brian Hare gave bonobos food in a room. Next door was a bonobo they did not know. Many bonobos opened the door and shared their food with the stranger.' Ask: 'Humans are equally close cousins of chimpanzees and bonobos. So which are we more like?' (Both. Humans fight and humans share.)"
+    },
+    {
+     "kind": "exp",
+     "title": "The cucumber and the grape",
+     "mins": 10,
+     "ref": "e3",
+     "do": "Do Experiment e3 with your child and one more person, such as a sibling, a cousin or a grandparent. First ask: 'If you get cucumber and the other person gets grapes for the same job, will you still take your cucumber? Why?' Play the rounds. Then ask: 'How did you feel in round 3? What did you do in round 4, when you got more?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Do monkeys care about fairness?",
+     "mins": 7,
+     "ref": "v3",
+     "do": "Use Voice v3. Say: 'Sarah Brosnan and Frans de Waal did a test like ours with capuchin monkeys from South America.' Tell what they found and why some scientists disagree. Ask the voice's question."
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 13,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1 (core) together. Read each question aloud. For the write questions, let your child answer aloud first, then write. They can look at their field guide."
+    }
+   ],
+   "need": [
+    "a cucumber cut into small pieces",
+    "a few grapes, or small pieces of mango or banana",
+    "6 spoons or blocks to hand over",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Gorillas, gibbons and the language debate",
+   "goal": "Meet gorillas and gibbons and the problems their bodies solve, sing a gibbon duet, and weigh whether apes can learn language.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "The gentle giants",
+     "mins": 12,
+     "do": "Ask: 'What do you think a gorilla eats?' Wait. Then say: 'Gorillas are the biggest primates. A big male, called a silverback because of the silver hair on his back, can weigh more than two grown men. Mountain gorillas eat mostly leaves, stems and shoots.' Ask: 'Leaves give little energy for each mouthful. So what problem does a gorilla have?' (They must eat a huge amount.) Say: 'So gorillas spend much of the day eating and resting, and they have a big belly with a long gut where bacteria help break down the leaves. They walk on their knuckles and sleep in nests.' Then say: 'In 1967, Dian Fossey set up a research camp, Karisoke, in the mountains of Rwanda. She showed that gorillas live calmly in family groups, and that the chest-beating in films is mostly a display to warn others. She fought hunters who set traps in the forest, and in 1985 she was killed in her hut. Nobody knows for sure who killed her. In 1981 there were only about 250 mountain gorillas in those mountains. Thanks to protection, there are more than 1,000 mountain gorillas today.' Ask: 'Why do you think films show gorillas as monsters?'"
+    },
+    {
+     "kind": "act",
+     "title": "The gibbon duet and ape moves",
+     "mins": 13,
+     "ref": "a4",
+     "do": "Do Activity a4. Before singing, say: 'Gibbons live high in the trees of South and Southeast Asia, in a pair with their young. Their problem is reaching fruit at the tips of thin branches and crossing gaps between trees. Their arms are very long, and their hands bend like hooks, so they can swing from branch to branch, hand over hand. Every morning, a gibbon pair sings a loud duet that can be heard far through the forest.' After the duet, ask: 'Why might a pair sing every morning?' (Possible ideas: to tell other gibbons that this part of the forest is theirs, and to keep the pair together.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Can apes learn language?",
+     "mins": 12,
+     "ref": "v2",
+     "do": "Use Voice v2. Say: 'People have tried to teach apes sign language, or to use a keyboard of picture symbols.' Tell about Koko, Kanzi and Nim Chimpsky, and what each side says. Ask: 'What is the difference between knowing many words and having a language?' (A language lets you put words together in new orders to say new things, and others understand the new meaning.) Then ask the voice's question."
+    },
+    {
+     "kind": "do",
+     "title": "Field guide: gorilla and gibbon",
+     "mins": 8,
+     "do": "Your child makes two pages. Gorilla: 'Lives in forests of central Africa. Problem: leaves give little energy. Solution: eats a lot, rests a lot, has a long gut. Family: a silverback, several females and their young.' Gibbon: 'Lives in forests of South and Southeast Asia, including Assam. Problem: fruit at the tips of thin branches, and gaps between trees. Solution: very long arms and hook-like hands for swinging. Sings: a duet with their partner every morning.'"
+    }
+   ],
+   "need": [
+    "a soft mat, a bedsheet or a carpet for the ape moves",
+    "the field guide"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "India's own primates",
+   "goal": "Meet the hoolock gibbons, macaques, langurs and lorises of India, think about monkeys in cities, and do the stretch worksheet.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Our neighbours",
+     "mins": 15,
+     "do": "Say: 'India has only one kind of wild ape: hoolock gibbons, in the forests of the North East. One place to see them is the Hollongapar Gibbon Sanctuary, near Jorhat in Assam.' Then go through India's monkeys and lorises, one at a time, each with their problem and their solution. 'Bonnet macaques live in South India, in forests, at temples and in towns like Bengaluru and Chennai. They are named for the cap of hair on their head. Problem: a bigger monkey may grab their food. Solution: pouches inside their cheeks. They stuff food in quickly and eat it later in a safe place.' 'Rhesus macaques live in North and East India, and in many cities.' 'The lion-tailed macaque lives only in the rainforests of the Western Ghats, in Kerala, Tamil Nadu and Karnataka. They have black fur, a silver-grey mane and a tuft at the end of the tail, like a lion's. They eat fruit high in the canopy, and they are endangered.' 'Langurs, like the grey Hanuman langur and the black Nilgiri langur, eat lots of leaves. Problem: leaves are tough and hard to digest. Solution: a stomach with several chambers, where bacteria break the leaves down.' 'The slender loris lives in South India and is nocturnal. Problem: finding insects in the dark. Solution: huge round eyes that gather dim light, and slow, silent climbing, so the insect does not notice.' Ask: 'Which of these could you see near our home?'"
+    },
+    {
+     "kind": "think",
+     "title": "Monkeys in our cities",
+     "mins": 10,
+     "do": "Say: 'In many Indian cities, monkeys come into homes, open fridges and snatch food from people's hands.' Ask: 'Why do you think monkeys come into towns?' (Their forests have been cut down, and towns have easy food, especially where people feed them or leave waste outside.) Ask: 'Some people call these monkeys pests. What would a bonnet macaque say?' Then ask: 'What could a family do so that monkeys do not learn to come in?' (Keep windows closed or meshed, do not feed them, keep waste bins shut.) If monkeys or langurs live near you, watch them from a window for a few minutes another day and write down what they do. Do not go close or show food."
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 13,
+     "ref": "ws2",
+     "do": "Do Worksheet ws2 (stretch). It asks your child to match bodies to problems and to reason about gorillas, gibbons, bonobos and orangutans. For the orangutan maths question, let them work it out on paper and explain their working aloud."
+    },
+    {
+     "kind": "do",
+     "title": "Field guide: India's primates",
+     "mins": 7,
+     "do": "Your child makes three pages: bonnet macaque (cheek pouches), Nilgiri or Hanuman langur (stomach with chambers) and slender loris (big eyes, slow climbing). On each, they write where the animal lives, the problem and the solution, as on the other pages."
+    }
+   ],
+   "need": [
+    "worksheet ws2",
+    "the field guide and coloured pencils"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Saving our cousins, and should they have rights?",
+   "goal": "Learn why many primates are in danger and how some have been saved, weigh whether great apes should have rights, and read the story.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Forests and the people who saved them",
+     "mins": 12,
+     "do": "Say: 'About 6 in every 10 kinds of primates are in danger of dying out. The main reason is that their forests are being cut down for farms, mines, roads and plantations, such as the oil palm plantations that have replaced large areas of orangutan forest.' Then say: 'In the 1970s, a dam was planned in Silent Valley, a rainforest in Kerala, home to lion-tailed macaques. Scientists, teachers and writers, among them the Malayalam poet Sugathakumari, campaigned to save the forest. The lion-tailed macaque became the symbol of the campaign. In 1984 the dam was dropped and Silent Valley became a national park.' Say: 'Near Valparai, in Tamil Nadu, lion-tailed macaques live in small patches of rainforest between tea estates. Scientists from the Nature Conservation Foundation, among them Divya Mudappa, have worked with estate workers to replant rainforest trees.' Ask: 'Who pays the cost of saving a forest, and who gets the benefit?' Let your child think about the farmers, the city people who use the electricity, and the macaques."
+    },
+    {
+     "kind": "talk",
+     "title": "Are great apes persons?",
+     "mins": 10,
+     "ref": "v4",
+     "do": "Use Voice v4. Ask first: 'What do you think a person is? Can someone be a person without being human?' Write down your child's answer. Then tell the voice, including the story of Sandra the orangutan. Ask the voice's question."
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Potato in the Stream",
+     "mins": 15,
+     "do": "Read the story aloud, 'The Potato in the Stream'. It is told by Imo, a real young Japanese macaque who lived on the small island of Koshima in the 1950s. What she thinks is imagined, but what she does is true. Read slowly. Afterwards, ask the story questions one at a time. Don't explain the ending. If your child is stuck on the last question, ask: 'Who taught Imo's mother?'"
+    },
+    {
+     "kind": "think",
+     "title": "The hundredth monkey",
+     "mins": 8,
+     "do": "Say: 'Some books say that when about a hundred monkeys on Koshima had learned to wash potatoes, suddenly monkeys on other islands knew how too, without ever seeing it.' Ask: 'What would you need to see to believe that?' Then say: 'The scientists' records show something different. The habit spread slowly over years, from one monkey to the next, by watching. Many older monkeys never learned. No good record shows monkeys on other islands suddenly washing potatoes.' Ask: 'Why do you think the made-up version spread so far?'"
+    }
+   ],
+   "need": [
+    "paper and pen"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Which cousin? And teach it back",
+   "goal": "Play the card game, try the challenge worksheet, finish the field guide and teach it.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Which Cousin Am I?",
+     "mins": 15,
+     "ref": "g1",
+     "do": "Play the card game g1. Everyone plays together. After the game, ask: 'Which cousin was hardest to guess? Which clue gave it away?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "ref": "ws3",
+     "do": "Do Worksheet ws3 (challenge) together. Write down the long answers as your child says them. The rights question has no single right answer. Ask for evidence for each answer."
+    },
+    {
+     "kind": "do",
+     "title": "Finish the field guide",
+     "mins": 8,
+     "do": "Your child adds the last pages: bonobo, lion-tailed macaque, and a page about themself as a primate, with the same headings: where I live, my problem, my solution, what I learned from my mother or father. On the back cover they draw the family tree again, now with every cousin in the guide on the right branch."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Take out the Day 1 sheet. Ask: 'What would you change or add now?' Your child teaches the family, using the field guide, ending with one thing nobody knows yet. Then ask the check questions."
+    }
+   ],
+   "need": [
+    "the printed game cards, cut out",
+    "worksheet ws3",
+    "the field guide",
+    "the Day 1 sheet"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Apes, monkeys, tools and learning",
+   "day": 5,
+   "sections": [
+    [
+     "A. Who is who",
+     [
+      {
+       "t": "mcq",
+       "p": "Which of these primates is an ape?",
+       "opts": [
+        "a bonnet macaque",
+        "a hoolock gibbon",
+        "a Hanuman langur",
+        "a slender loris"
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Sort these primates into their groups.",
+       "items": [
+        "chimpanzee",
+        "orangutan",
+        "hoolock gibbon",
+        "bonnet macaque",
+        "lion-tailed macaque",
+        "slender loris",
+        "gorilla",
+        "Nilgiri langur"
+       ],
+       "cats": [
+        "Great apes",
+        "Small apes",
+        "Monkeys",
+        "Lorises"
+       ],
+       "a": {
+        "Great apes": [
+         "chimpanzee",
+         "orangutan",
+         "gorilla"
+        ],
+        "Small apes": [
+         "hoolock gibbon"
+        ],
+        "Monkeys": [
+         "bonnet macaque",
+         "lion-tailed macaque",
+         "Nilgiri langur"
+        ],
+        "Lorises": [
+         "slender loris"
+        ]
+       }
+      },
+      {
+       "t": "mcq",
+       "p": "Kavya, a girl in Class 5, swings her arm in a full circle over her head. Which animals have shoulders that can do this too?",
+       "opts": [
+        "apes",
+        "dogs",
+        "cows"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Monkeys usually have a ____. Apes never do.",
+       "a": [
+        "tail"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Tools and learning",
+     [
+      {
+       "t": "mcq",
+       "p": "In the jam-bottle test, you dipped three sticks five times each. Which stick usually picks up the most jam, and why?",
+       "opts": [
+        "The brush tip, because many thin strands hold more jam.",
+        "The leafy stick, because leaves are sticky.",
+        "The plain stick, because it is smooth."
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each name to what they did.",
+       "pairs": [
+        [
+         "Jane Goodall",
+         "saw a chimpanzee strip a stem and fish for termites"
+        ],
+        [
+         "Ayumu",
+         "a young chimpanzee who remembered where numbers flashed on a screen"
+        ],
+        [
+         "Chausiku",
+         "a sick chimpanzee who chewed a bitter plant and got better"
+        ],
+        [
+         "Biruté Galdikas",
+         "studied wild orangutans in Borneo from 1971"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Young chimpanzees in the Taï forest learn to crack nuts with stones. How do they learn?",
+       "opts": [
+        "They are born knowing how.",
+        "They watch older chimpanzees, especially their mothers, and practise for years.",
+        "Scientists teach them."
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "In 1960, Louis Leakey said that after Jane Goodall's finding we must 'redefine tool, redefine man, or accept chimpanzees as humans'. Why did a chimpanzee using a grass stem matter so much?",
+       "lines": 3,
+       "a": "A strong answer says that scientists had said making tools was what made humans different from all other animals. The chimpanzee chose a stem, stripped off the leaves and used it to get termites. So either the idea of a tool, or the idea of what makes humans special, had to change."
+      },
+      {
+       "t": "write",
+       "p": "Arjun says: 'Chimpanzees use tools, but they don't really think.' Use the termite-fishing tools or Ayumu's memory test to answer him.",
+       "lines": 3,
+       "a": "A strong answer uses evidence: chimpanzees choose and shape a tool before they use it (stripping leaves, chewing a brush tip), which needs planning. Ayumu remembered the places of numbers in a fraction of a second, better than most people. So chimpanzees do think, though they may think differently from us."
+      },
+      {
+       "t": "write",
+       "p": "Kavya says: 'Jane Goodall should have given the chimpanzees numbers, not names. If you name them you start to like them, and your science is less careful.' Meena says: 'Names helped her notice that each chimpanzee is different.' Pick one view and give a reason. Then answer back from the other view.",
+       "lines": 5,
+       "a": "A strong answer picks a side and gives a reason, for example that naming helped her see personalities and family histories, or that liking an animal could make you notice only what you hope to see. Then it fairly gives the other side. There is no single right answer. Many scientists now name the animals they study and also check their records carefully."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Bodies, songs and sharing",
+   "day": 7,
+   "sections": [
+    [
+     "A. Problems and solutions",
+     [
+      {
+       "t": "match",
+       "p": "Match each primate's problem to the part of their body or habit that solves it.",
+       "pairs": [
+        [
+         "A gibbon needs fruit at the tips of thin branches high up.",
+         "very long arms and hook-like hands for swinging"
+        ],
+        [
+         "A langur eats lots of tough leaves.",
+         "a stomach with chambers where bacteria break down leaves"
+        ],
+        [
+         "A bonnet macaque may have food grabbed by a bigger monkey.",
+         "cheek pouches to stuff food in and eat it later"
+        ],
+        [
+         "A slender loris hunts insects at night.",
+         "huge eyes that gather dim light"
+        ],
+        [
+         "A heavy orangutan must sleep high in the trees.",
+         "a new nest of branches every night"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A gorilla eats mostly leaves and stems. Leaves give little energy for each mouthful. What would you expect a gorilla to do?",
+       "opts": [
+        "spend much of the day eating and resting",
+        "run long distances every day",
+        "hunt other animals for most of her food"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The only wild apes in India are the ____ gibbons of the North East.",
+       "a": [
+        "hoolock"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In Sarah Brosnan's test, a capuchin monkey happily took cucumber for a job. Later she threw the cucumber back. What had changed?",
+       "opts": [
+        "The monkey next to her got a grape for the same job.",
+        "The cucumber was too big.",
+        "She was not hungry any more."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Talk and friendship",
+     [
+      {
+       "t": "sort",
+       "p": "Sort these. Which are true of chimpanzees, and which of bonobos?",
+       "items": [
+        "groups sometimes kill members of another group",
+        "females stand up for each other and hold high rank",
+        "in a test, many shared food with a stranger",
+        "fish for termites with stems at Gombe",
+        "live only south of the Congo river"
+       ],
+       "cats": [
+        "Chimpanzees",
+        "Bonobos"
+       ],
+       "a": {
+        "Chimpanzees": [
+         "groups sometimes kill members of another group",
+         "fish for termites with stems at Gombe"
+        ],
+        "Bonobos": [
+         "females stand up for each other and hold high rank",
+         "in a test, many shared food with a stranger",
+         "live only south of the Congo river"
+        ]
+       }
+      },
+      {
+       "t": "mcq",
+       "p": "A wild chimpanzee holds out a hand, palm up, towards a friend who is eating. What is she most likely asking for?",
+       "opts": [
+        "some of the food",
+        "a fight",
+        "to be left alone"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Two chimpanzees had a fight. An hour later they kiss and hug. What do scientists call this?",
+       "opts": [
+        "grooming",
+        "reconciliation",
+        "culture"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Think it through",
+     [
+      {
+       "t": "write",
+       "p": "A gibbon pair sings a loud duet every morning. Give two reasons the song might help them. How could a scientist test one of your ideas?",
+       "lines": 4,
+       "a": "A strong answer gives two ideas, for example telling other gibbons that this part of the forest is taken, and keeping the pair close. A test: play a recording of a strange gibbon pair nearby and see whether the pair sings back and moves towards the sound."
+      },
+      {
+       "t": "write",
+       "p": "An orangutan mother in the wild has her first baby at about 15 years old, and then one baby about every 8 years, until she is about 45. How many babies can she have at most? Why does this make orangutans hard to save when their forest is cut down?",
+       "lines": 4,
+       "a": "She has babies at about 15, 23, 31 and 39. The next would be at 47, which is too late. So about 4 babies in her whole life. Because each mother has so few babies, a population that loses many orangutans takes a very long time to grow again."
+      },
+      {
+       "t": "write",
+       "p": "Farhan says: 'Chimpanzees kill each other, so fighting is in our nature.' Lakshmi says: 'Bonobos share with strangers, so sharing is in our nature.' Humans are equally close cousins of both. Who has the stronger case? Then answer back from the other side.",
+       "lines": 5,
+       "a": "A strong answer uses evidence from both apes and notices that humans are equally related to both, so neither ape alone tells us our nature. It may say that humans fight and share, and that what we learn and choose matters too. There is no single right answer."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Culture, rights and evidence",
+   "day": 9,
+   "sections": [
+    [
+     "A. Weigh the evidence",
+     [
+      {
+       "t": "mcq",
+       "p": "On the island of Koshima, a young macaque named Imo began washing sweet potatoes in water. Which monkeys learned it last, or never?",
+       "opts": [
+        "her young playmates",
+        "her mother",
+        "the older adult males"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "p": "Ayumu, a young chimpanzee, beat university students at a number-memory test. Later, some people who practised for weeks did as well as him. What does this show?",
+       "opts": [
+        "Chimpanzees cannot really remember.",
+        "Practice matters, so a fair comparison needs both sides to have the same practice.",
+        "People are always better than chimpanzees."
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "What does each observation show best?",
+       "items": [
+        "a chimpanzee strips the leaves off a stem to fish for termites",
+        "chimpanzees at Taï crack nuts, but chimpanzees at Gombe do not",
+        "Flint stopped eating after his mother died",
+        "a chimpanzee touches a mark she can only see in a mirror",
+        "young macaques copy Imo's potato washing",
+        "an orangutan holds a big leaf over her head in the rain"
+       ],
+       "cats": [
+        "Tool use",
+        "Culture",
+        "Feelings",
+        "Knowing oneself"
+       ],
+       "a": {
+        "Tool use": [
+         "a chimpanzee strips the leaves off a stem to fish for termites",
+         "an orangutan holds a big leaf over her head in the rain"
+        ],
+        "Culture": [
+         "chimpanzees at Taï crack nuts, but chimpanzees at Gombe do not",
+         "young macaques copy Imo's potato washing"
+        ],
+        "Feelings": [
+         "Flint stopped eating after his mother died"
+        ],
+        "Knowing oneself": [
+         "a chimpanzee touches a mark she can only see in a mirror"
+        ]
+       }
+      },
+      {
+       "t": "fill",
+       "p": "When a group of animals has a habit they learned from each other, which another group of the same kind does not have, scientists say the group has ____.",
+       "a": [
+        "culture",
+        "a culture"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In 1981 there were about 250 mountain gorillas in the Virunga mountains. Today there are more than 1,000. What does this show?",
+       "opts": [
+        "Protecting animals and their forest can work.",
+        "Mountain gorillas are no longer in any danger.",
+        "Gorillas moved there from zoos."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Think hard",
+     [
+      {
+       "t": "write",
+       "p": "Meenakshi says: 'Great apes think and feel, so they should never be kept in cages.' Farhan says: 'Good zoos and sanctuaries can keep apes safe when their forest is gone.' Their grandmother says: 'Save the forest first, and then nobody needs a cage.' Pick one view and give your reasons. Then answer back from one of the other views.",
+       "lines": 6,
+       "a": "A strong answer picks a view and uses evidence from the lesson (apes grieve, remember and learn culture from their group, forests are being cut down, Sandra the orangutan was moved to a sanctuary). It then fairly gives another view's best point. There is no single right answer."
+      },
+      {
+       "t": "write",
+       "p": "Bonnet macaques live at two different temples. You want to find out whether the two groups have different habits that they learned from each other. What would you watch for, and how would you make sure the difference is not just because the two places are different?",
+       "lines": 5,
+       "a": "A strong answer says to watch both groups for many days and write down habits, such as how they open coconuts or wash food. It checks whether both places have the same foods and objects. If both places are alike and only one group has the habit, and young monkeys copy it from older ones, it may be culture."
+      },
+      {
+       "t": "write",
+       "p": "Some people call monkeys who come into kitchens 'pests'. Write three sentences from the monkey's side, then three from the family's side. What could both sides do?",
+       "lines": 6,
+       "a": "A strong answer gives the monkey's real problem (forest gone, easy food in towns, people feeding them) and the family's real problem (food stolen, fear of bites). It suggests real steps, such as closed or meshed windows, shut bins, not feeding monkeys and protecting forests."
+      },
+      {
+       "t": "draw",
+       "p": "Draw the family tree of the apes. Put humans on the branch closest to chimpanzees and bonobos, then gorillas, then orangutans, then gibbons furthest out. Label each branch."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Ayumu memory test",
+   "day": 1,
+   "question": "How well can you remember where numbers were, after seeing them for one second?",
+   "need": [
+    "18 small squares of paper with the numbers 1 to 9 written on them (two sets)",
+    "a table",
+    "a thick bath towel",
+    "a pencil and paper"
+   ],
+   "steps": [
+    "Your child turns away. A grown-up puts 5 number squares (1 to 5) face up in random places on the table, spread apart.",
+    "The grown-up says 'Look!'. Your child turns and looks while the grown-up counts 'one'. Then the grown-up quickly covers the whole table with the towel.",
+    "Your child taps the towel where they think 1 was, then 2, then 3, in order. After each tap, the grown-up lifts that corner to check. Stop at the first mistake.",
+    "Write down how many your child got right in order.",
+    "Play 5 rounds. Change the places each time. If it is too easy, use 7 numbers, then 9.",
+    "Swap: your child lays out the numbers, and the grown-up takes the test."
+   ],
+   "predict": "Ask: 'How many numbers in a row do you think you can remember after one second? Who will do better, you or the grown-up?'",
+   "observe": "Most people remember 3 to 5 numbers in order after one second, and do worse with 7 or 9. Note whether practice over 5 rounds helps.",
+   "why": "Ayumu saw the numbers for even less time, less than a quarter of a second, on a screen, and still touched the squares in order. Remembering a whole picture at a glance is a kind of memory chimpanzees are very good at. It may help them in the forest, for example to remember where fruit hangs in a tree. Some scientists later found that people with a lot of practice can do as well, so the test shows how important practice is when we compare animals.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "Fishing for jam",
+   "day": 2,
+   "question": "Which shape of tool gets the most food out of a narrow hole?",
+   "need": [
+    "a small narrow-necked bottle with 3 tablespoons of jam or thick honey at the bottom",
+    "3 bamboo skewers or stiff sticks from a coconut-leaf broom",
+    "a few strands of cotton thread",
+    "a small leaf or a paper leaf, and tape",
+    "a white steel plate or white paper",
+    "paper towels"
+   ],
+   "steps": [
+    "Make three tools. Tool 1, leafy: tape a leaf near the tip of a stick so it sticks out sideways, like a stem not yet stripped. Tool 2, plain: a bare stick. Tool 3, brush tip: wrap a few strands of cotton thread around the last 2 centimetres of a stick and tie them, so the loose ends fluff out like a brush.",
+    "Hold the bottle upright on the table. Push Tool 1 into the bottle, touch the jam, and pull it out. Wipe whatever comes out onto the plate in one smear. Do this 5 times, all onto the same smear.",
+    "Do the same with Tool 2 and Tool 3, each making their own smear next to the first.",
+    "Compare the three smears. Which is biggest?"
+   ],
+   "predict": "Ask: 'Which tool will bring out the most jam? Why?'",
+   "observe": "The leafy tool catches on the neck, so little jam comes out, or the leaf breaks off. The plain stick brings out a small amount. The brush tip usually brings out the most, because jam clings between the many strands.",
+   "why": "A tool has to fit the job. Termites live deep inside a hard mound and come up through narrow tunnels. A chimpanzee strips the leaves so the stem fits the tunnel. Some chimpanzee groups also chew the end of the stem into a brush, which more termites can grab. Choosing a stem, stripping it and shaping the tip are three steps planned before the tool is used.",
+   "safety": "Skewer points are sharp. A grown-up can snip off the points first. Do not lick the tools.",
+   "time": "18 min"
+  },
+  {
+   "id": "e3",
+   "title": "The cucumber and the grape",
+   "day": 5,
+   "question": "Do we still accept a reward when someone else gets a better one for the same job?",
+   "need": [
+    "small pieces of cucumber",
+    "a few grapes, or small pieces of mango or banana",
+    "6 spoons or blocks",
+    "a third person to be the tester, or the parent can be the tester"
+   ],
+   "steps": [
+    "Two players sit side by side: your child and another person. The tester sits opposite.",
+    "Round 1: each player hands the tester a spoon. The tester gives each player a piece of cucumber.",
+    "Round 2: the same again. Both get cucumber.",
+    "Round 3: each player hands over a spoon. The tester gives your child cucumber, and gives the other player a grape.",
+    "Round 4: each player hands over a spoon. This time your child gets a grape and the other player gets cucumber.",
+    "After each round, your child says how they felt. Write it down. Then share out all the grapes fairly and eat."
+   ],
+   "predict": "Ask: 'In round 3, will you still be happy with your cucumber? In round 4, will you do anything about the other person's cucumber?'",
+   "observe": "Most children are happy in rounds 1 and 2, and protest or feel cross in round 3 even though they still get food. In round 4, some children offer to share. Notice what your child does.",
+   "why": "A cucumber is still food. Yet many people feel it is unfair to get less than someone else for the same work. Scientists call this a sense of fairness. Brosnan and de Waal found that capuchin monkeys can react the same way. Feeling cross when you get less may help animals who live in groups make sure they are not taken advantage of. Offering to share when you get more is rarer, in children and in other primates.",
+   "safety": "Wash the fruit and vegetables first. Check for allergies.",
+   "time": "10 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Hammer and anvil",
+   "day": 3,
+   "mins": 15,
+   "need": [
+    "20 groundnuts in their shells (or walnuts or almonds in shells)",
+    "a smooth stone that fits the hand, the stone roller of a grinding stone, or a wooden rolling pin",
+    "a wooden chopping board",
+    "a steel plate"
+   ],
+   "steps": [
+    "Put the chopping board on the floor. This is your anvil. The stone or rolling pin is your hammer.",
+    "Round 1: crack 10 groundnuts one at a time with the hammer, using the hand you write with. The aim is to crack the shell without crushing the nut inside.",
+    "Put whole nuts on the plate and crushed ones on the side. Count the whole nuts.",
+    "Round 2: crack 10 more with your other hand. Count again.",
+    "Talk about how hard you had to hit, and how you held the nut so it did not roll off."
+   ],
+   "outcome": "A count of whole nuts from each round, and a feel for how much skill a chimpanzee needs to crack a nut far harder than a groundnut, with a stone, on a tree root."
+  },
+  {
+   "id": "a2",
+   "title": "Talking without words",
+   "day": 4,
+   "mins": 15,
+   "need": [
+    "6 small paper slips with one message on each: 'Give me some of your food', 'Come here', 'Groom my back', 'Stop, I don't like that', 'Let's play', 'Go away'"
+   ],
+   "steps": [
+    "Fold the slips and put them in a bowl.",
+    "Your child takes a slip and reads it silently. They must give the message using only hands, face and body. No words and no sounds.",
+    "Everyone else guesses. When someone guesses right, they take the next slip.",
+    "Play until all 6 slips are done. Then play again, but this time no one may use their face, only hands and body."
+   ],
+   "outcome": "A feel for how much can be said without words, and which messages are easiest to share with gestures."
+  },
+  {
+   "id": "a3",
+   "title": "The grooming circle",
+   "day": 4,
+   "mins": 10,
+   "need": [
+    "a comb",
+    "a little coconut oil, if your family uses it for hair"
+   ],
+   "steps": [
+    "Sit in a circle or a line on the floor, each person behind another.",
+    "Each person gently combs, or oils and massages, the hair of the person in front, for 3 minutes.",
+    "Swap places and do it again, so everyone grooms and is groomed.",
+    "Talk about how it felt to be groomed, and how it felt to groom someone."
+   ],
+   "outcome": "A shared, calm few minutes, and a feel for why grooming keeps primate friendships close."
+  },
+  {
+   "id": "a4",
+   "title": "The gibbon duet and ape moves",
+   "day": 6,
+   "mins": 13,
+   "need": [
+    "a soft mat, a bedsheet or a carpet"
+   ],
+   "steps": [
+    "The duet: one person is the first singer and starts with soft hoots, 'whoo, whoo', getting faster and higher. The second singer joins with their own short, quick hoots. Together, rise to a big loud call, then slow down and stop. Sing it three times and try to keep in time with each other.",
+    "Ape moves: on the mat, walk on all fours resting on your knuckles, like a gorilla or a chimpanzee. Keep your fingers curled and the weight on the backs of your fingers.",
+    "Move slowly, using hands and feet to grip, like an orangutan climbing in the canopy. Move one hand or foot at a time.",
+    "Swing your arms in big circles, one after the other, as if swinging hand over hand along a branch, like a gibbon.",
+    "Freeze and move in very slow motion, like a slender loris creeping up on an insect at night."
+   ],
+   "outcome": "A duet and a short dance of five primate movements, with a feel for how each body moves through their own world."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Jane Goodall (1934–2025), England, who studied chimpanzees at Gombe, in Tanzania, from 1960",
+   "idea": "In 1960, Goodall saw a chimpanzee she named David Greybeard strip leaves from a grass stem and use the stem to fish termites from a mound. She also found that chimpanzees hunt and eat meat, and that each chimpanzee has their own personality. Over many years at Gombe she recorded family life, friendships, grief, and fights between groups.",
+   "then": "Her teacher, Louis Leakey, wrote: 'Now we must redefine tool, redefine man, or accept chimpanzees as humans.' Many scientists criticised her for giving the chimpanzees names instead of numbers, and for writing about their feelings. She had no first degree, but Cambridge University let her study for a doctorate, which she finished in 1965. Leakey also sent two other women to study great apes: Dian Fossey (gorillas) and Biruté Galdikas (orangutans). Tanzanian field assistants recorded much of the daily work at Gombe for decades, and their names are rarely in the famous story.",
+   "now": "Accepted. Many animals are now known to make and use tools, and many scientists name the animals they study. Research at Gombe still goes on, more than 60 years later. Goodall spent her later life campaigning for chimpanzees and their forests.",
+   "status": "accepted",
+   "day": 2,
+   "ask": "Scientists said for a long time that only humans make tools. What other things do people say 'only humans' do? How could you test one of them?"
+  },
+  {
+   "id": "v2",
+   "who": "Francine Patterson and Koko the gorilla, Sue Savage-Rumbaugh and Kanzi the bonobo, and Herbert Terrace and Nim Chimpsky the chimpanzee, United States",
+   "idea": "From the 1970s, Patterson taught a gorilla named Koko many signs from American Sign Language and said Koko used them to talk about feelings. Savage-Rumbaugh worked with a bonobo named Kanzi, who learned to use a keyboard of picture symbols by watching his mother's lessons. In a 1993 study, Kanzi understood many spoken English requests he had never heard before, about as well as a two-year-old girl tested the same way.",
+   "then": "In 1979, Herbert Terrace studied videos of his own chimpanzee, Nim Chimpsky, who had learned many signs. He concluded that Nim mostly copied his teachers' signs to get rewards, and did not put signs together into sentences with new meanings. Many scientists became doubtful about ape language studies after that.",
+   "now": "Debated. Most scientists agree that great apes can learn hundreds of signs or symbols and can combine some of them. Most think they do not show the full grammar of a human language. Others say the tests are unfair, because apes raised by people are not learning in their own way, and that wild apes' own gestures and calls are rich in meaning.",
+   "status": "debated",
+   "day": 6,
+   "ask": "What would an ape have to do to convince you that they have a language? Would you ask the same of a two-year-old child?"
+  },
+  {
+   "id": "v3",
+   "who": "Sarah Brosnan and Frans de Waal, Yerkes primate research centre, United States, 2003",
+   "idea": "Two capuchin monkeys sat side by side and each handed a small stone to a scientist for a reward. When both got cucumber, both were content. When one got a grape, which capuchins like much more, the other often refused her cucumber or threw it back, though she had happily eaten cucumber before. Brosnan and de Waal said the monkeys have a sense of fairness.",
+   "then": "The study was widely reported. Some scientists said the monkeys might be reacting to seeing a grape nearby, not to what their partner got. Others repeated the test and got mixed results.",
+   "now": "Debated. Many later studies found that capuchins, chimpanzees and some other animals that cooperate often react when a partner gets more. Some studies found no such reaction. Scientists still argue about what the monkeys feel, and about how far it is like human fairness.",
+   "status": "debated",
+   "day": 5,
+   "ask": "In our test, you knew it was a game. The monkeys did not. Which test tells us more about real feelings, and why?"
+  },
+  {
+   "id": "v4",
+   "who": "The Great Ape Project, started in 1993 by Paola Cavalieri and Peter Singer, and Sandra the orangutan, Argentina",
+   "idea": "The Great Ape Project says that great apes should have three basic rights: the right to life, the right to freedom, and the right not to be tortured, because they think, feel, plan and form close bonds. In 2015, a judge in Buenos Aires, Elena Liberatori, ruled that Sandra, an orangutan who had lived in a city zoo for many years, was a 'non-human person' with rights. In 2019 Sandra was moved to a sanctuary for great apes in the United States.",
+   "then": "Many people said rights are for humans only, and that the law should protect animals through animal welfare rules instead. Some scientists worried that great apes could no longer be used in medical research.",
+   "now": "Debated. Many countries now ban or limit research on great apes. A few courts have treated great apes as having some rights, while others have refused. People still disagree about whether a being can be a person without being human.",
+   "status": "debated",
+   "day": 8,
+   "ask": "If great apes can be persons, what about elephants, dolphins or crows? Where would you draw the line, and why there?"
+  }
+ ],
+ "check": [
+  {
+   "q": "How can you tell an ape from a monkey?",
+   "a": "Apes never have a tail. Their shoulders let their arms swing in a full circle, so they can hang and swing below branches. Monkeys usually have a tail and walk along the tops of branches on all fours."
+  },
+  {
+   "q": "Name the great apes and the small apes.",
+   "a": "The great apes are orangutans, gorillas, chimpanzees, bonobos and humans. The small apes are the gibbons, such as the hoolock gibbons of North East India."
+  },
+  {
+   "q": "Choose two primates. For each, say what problem they have and how their body solves it.",
+   "a": "For example: a gibbon must reach fruit at the tips of thin branches, so they have very long arms and hook-like hands for swinging. A langur eats tough leaves, so they have a stomach with chambers where bacteria break the leaves down. A slender loris hunts insects at night, so they have huge eyes that gather dim light."
+  },
+  {
+   "q": "What did Jane Goodall see in 1960, and why did it matter?",
+   "a": "She saw a chimpanzee strip leaves from a grass stem and use the stem to fish termites out of a mound. Scientists had said only humans make tools, so the idea of what makes humans special had to change."
+  },
+  {
+   "q": "What is culture in animals? Give an example.",
+   "a": "Culture is a habit that a group learns from each other, which another group of the same kind does not have. For example, Taï chimpanzees crack nuts with stones but Gombe chimpanzees do not, and young macaques on Koshima learned to wash sweet potatoes by watching Imo."
+  },
+  {
+   "q": "Give one example of feelings or friendship in another primate.",
+   "a": "For example: young apes laugh when tickled. Flint stopped eating after his mother Flo died. Chimpanzees kiss and hug to make up after a fight. Macaques groom their friends."
+  },
+  {
+   "q": "Why are many primates in danger, and what is one place where people saved them?",
+   "a": "Their forests are being cut down for farms, mines, roads and plantations. Silent Valley in Kerala became a national park in 1984 after a campaign to save the lion-tailed macaques' forest. Mountain gorillas grew from about 250 to more than 1,000 with protection."
+  },
+  {
+   "q": "Name one thing scientists still argue about or don't know.",
+   "a": "For example: whether apes can learn a real language, how far monkeys feel fairness the way we do, or whether great apes should be treated as persons."
+  }
+ ],
+ "project": {
+  "title": "My cousins: a field guide",
+  "days": [
+   1,
+   9
+  ],
+  "steps": [
+   "On Day 1, fold 5 sheets of A4 paper in half and staple them to make a 20-page booklet. On page 1, draw the primate family tree: lorises and lemurs, monkeys, small apes and great apes.",
+   "Each page is one cousin, with the same headings: a drawing, where they live, their problem, their solution, and one thing they know, feel or do with others.",
+   "Day 2: chimpanzee. Day 3: orangutan. Day 6: gorilla and gibbon. Day 7: bonnet macaque, a langur and the slender loris. Day 9: bonobo, lion-tailed macaque, and a page about yourself as a primate.",
+   "On every page, write the problem before the solution, so the reader sees why the body or habit makes sense.",
+   "On Day 9, draw the family tree again on the back cover, with every cousin from the guide on the right branch, and put a small star next to those who are endangered."
+  ],
+  "outcome": "A home-made field guide of about 11 primates, each page showing the animal's own problem and how they solve it, with the child themself as the last cousin."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Which Cousin Am I?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards, cut out",
+   "a pencil and paper for the team score"
+  ],
+  "rules": [
+   "Shuffle the cards and put them face down in a pile.",
+   "Everyone is one team. A player takes the top card and reads the clue on the front aloud.",
+   "The team talks it over and gives one answer. Turn the card over to check.",
+   "If the team is right, the card goes on the 'Cousins we know' pile. If not, it goes to the bottom of the deck to try again later.",
+   "Play until every card is in the 'Cousins we know' pile. Count how many turns it took. Play again another day and try to beat your team's score."
+  ],
+  "cards": [
+   {
+    "front": "I am a great ape. I live alone high in the rainforest trees of Borneo and Sumatra, and I build a new nest every night. Who am I?",
+    "back": "an orangutan"
+   },
+   {
+    "front": "I am the biggest primate. I eat mostly leaves and stems, so I spend much of the day eating and resting. Who am I?",
+    "back": "a gorilla"
+   },
+   {
+    "front": "I am a small ape with very long arms. I swing through the forests of Assam and sing a duet every morning. Who am I?",
+    "back": "a hoolock gibbon"
+   },
+   {
+    "front": "I live only in the Democratic Republic of the Congo. In my group, females stand up for each other. Who am I?",
+    "back": "a bonobo"
+   },
+   {
+    "front": "I strip the leaves off a stem and fish termites out of their mound. Who am I?",
+    "back": "a chimpanzee"
+   },
+   {
+    "front": "I live in South Indian towns and temples. I stuff food into pouches in my cheeks. Who am I?",
+    "back": "a bonnet macaque"
+   },
+   {
+    "front": "I have a silver mane and a tufted tail. I live only in the rainforests of the Western Ghats. Who am I?",
+    "back": "a lion-tailed macaque"
+   },
+   {
+    "front": "I am active at night. I have huge round eyes and creep slowly up on insects. Who am I?",
+    "back": "a slender loris"
+   },
+   {
+    "front": "I eat lots of tough leaves. My stomach has several chambers where bacteria break the leaves down. Who am I?",
+    "back": "a langur"
+   },
+   {
+    "front": "I am a young chimpanzee in Japan. I remembered where numbers flashed on a screen, faster than university students. Who am I?",
+    "back": "Ayumu"
+   },
+   {
+    "front": "I am a young macaque on the island of Koshima. I began washing sweet potatoes in water, and others copied me. Who am I?",
+    "back": "Imo"
+   },
+   {
+    "front": "I am an orangutan in Sumatra. I chewed medicine leaves and pressed them onto the wound on my face. Who am I?",
+    "back": "Rakus"
+   },
+   {
+    "front": "I am a chimpanzee mother at Mahale. When I was ill, I chewed the bitter pith of a plant and got better. Who am I?",
+    "back": "Chausiku"
+   },
+   {
+    "front": "I am an orangutan. A judge in Buenos Aires said I am a non-human person. Who am I?",
+    "back": "Sandra"
+   },
+   {
+    "front": "I went to Gombe in 1960 with a notebook and binoculars, and saw a chimpanzee making a tool. Who am I?",
+    "back": "Jane Goodall"
+   },
+   {
+    "front": "I set up a camp in the mountains of Rwanda to study gorillas, and I fought the hunters who set traps. Who am I?",
+    "back": "Dian Fossey"
+   },
+   {
+    "front": "I began studying wild orangutans in Borneo in 1971. Who am I?",
+    "back": "Biruté Galdikas"
+   },
+   {
+    "front": "I am a word. I mean a habit that a group learns from each other, which another group does not have. What am I?",
+    "back": "culture"
+   },
+   {
+    "front": "I am a word. I mean making up after a fight. What am I?",
+    "back": "reconciliation"
+   },
+   {
+    "front": "I am a word. I mean cleaning a friend's fur with your fingers. What am I?",
+    "back": "grooming"
+   },
+   {
+    "front": "I am a word. I mean active at night and asleep in the day. What am I?",
+    "back": "nocturnal"
+   },
+   {
+    "front": "I am a forest in Kerala. A campaign to save me and my lion-tailed macaques stopped a dam. What am I?",
+    "back": "Silent Valley"
+   },
+   {
+    "front": "I am a primate who reads books and makes field guides. My closest cousins are chimpanzees and bonobos. Who am I?",
+    "back": "a human: you"
+   },
+   {
+    "front": "Which has a tail: an ape or a monkey?",
+    "back": "a monkey. Apes never have a tail."
+   }
+  ]
+ },
+ "big": [
+  "People once said only humans make tools, then only humans have culture, then only humans know themselves in a mirror. Is there anything only humans do?",
+  "Chimpanzees fight and bonobos share, and we are equally related to both. What does that tell us about human nature?",
+  "If an ape can grieve, remember and plan, should we treat them as a person?",
+  "Imo's mother learned from her daughter. Who in your family learns from the children?",
+  "We call monkeys who come into our homes pests. Who moved into whose home first?"
+ ],
+ "challenge": [
+  {
+   "q": "'The hundredth monkey': when about a hundred monkeys on Koshima learned to wash potatoes, monkeys on other islands suddenly knew how too. True?",
+   "hint": "No. The story was spread by books in 1979 and 1981, but the scientists' records show the habit spread slowly over years, from monkey to monkey, by watching, and many older monkeys never learned. There is no good record of monkeys on other islands suddenly washing potatoes. Why do you think people liked the made-up version?"
+  },
+  {
+   "q": "In films, gorillas are fierce monsters who beat their chests before they attack. Is that what gorillas are like?",
+   "hint": "Gorillas are mostly calm plant-eaters who live in family groups. Chest-beating is mostly a display that warns others, and it is often enough to stop a fight from happening. Dian Fossey and others showed this by living near gorilla families for years. A silverback will defend his family if he is threatened. Why might films want gorillas to look fierce?"
+  },
+  {
+   "q": "'Only humans have culture.' True?",
+   "hint": "Not as scientists define culture. Chimpanzee groups have dozens of traditions that others lack, such as nut cracking at Taï, and young ones learn them by watching. Orangutans, macaques, whales and some birds have learned traditions too. Human culture is far bigger, with language, writing and teaching. Is a bigger culture a different kind of thing, or the same kind of thing grown larger?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A bonnet macaque at a temple in Tamil Nadu",
+   "view": "'My grandmother's grandmother lived in a forest here. Now there are buildings, and people throw food to us and then shout when we come for more. I learned to open bags by watching my mother.' Ask: when people feed monkeys and then call them pests, who is responsible?"
+  },
+  {
+   "who": "A farmer in the hills of Himachal Pradesh whose crops are eaten by rhesus macaques",
+   "view": "'One troop can strip my field in a morning. I cannot sit guard every day.' In some places, farmers have asked for monkeys to be declared pests so they can be killed. Ask: how could the farmer's problem and the monkeys' problem both be solved?"
+  },
+  {
+   "who": "A rainforest tree in the Western Ghats",
+   "view": "Lion-tailed macaques eat the tree's fruit and drop or pass the seeds far away, where new trees grow. Ask: if the macaques disappear, what happens to the forest? Who needs whom?"
+  },
+  {
+   "who": "A scientist who works on medicines",
+   "view": "Monkeys, especially rhesus macaques, have been used in research for medicines and vaccines, because their bodies are so like ours. India stopped exporting rhesus macaques for research in 1978. Ask: if a primate is close enough to us to test medicines on, is that a reason to use them or a reason not to?"
+  }
+ ],
+ "books": [
+  {
+   "title": "Me... Jane",
+   "author": "Patrick McDonnell",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A picture book about Jane Goodall as a child with her toy chimpanzee, dreaming of Africa. A gentle way into Voice v1."
+  },
+  {
+   "title": "The Watcher: Jane Goodall's Life with the Chimps",
+   "author": "Jeanette Winter",
+   "for": "read together",
+   "age": "5–9",
+   "why": "Goodall's life from childhood to Gombe and her later campaigns, told simply with bold pictures."
+  },
+  {
+   "title": "My Life with the Chimpanzees",
+   "author": "Jane Goodall",
+   "for": "read alone",
+   "age": "8–12",
+   "why": "Goodall's own story for children, with David Greybeard, Flo and Flint. A confident Class 5 reader can manage it."
+  },
+  {
+   "title": "Primates: The Fearless Science of Jane Goodall, Dian Fossey, and Biruté Galdikas",
+   "author": "Jim Ottaviani, illustrated by Maris Wicks",
+   "for": "read together",
+   "age": "9–12",
+   "why": "A graphic novel about the three women who studied chimpanzees, gorillas and orangutans."
+  },
+  {
+   "title": "Mama's Last Hug",
+   "author": "Frans de Waal",
+   "for": "parent reads",
+   "age": "adult; parent reads parts aloud",
+   "why": "On animal emotions, from laughter to grief, by the scientist behind the reconciliation and fairness studies."
+  }
+ ],
+ "story": {
+  "title": "The Potato in the Stream",
+  "text": [
+   "I was not yet two years old when I first heard the boat.",
+   "My name is Imo. I am a Japanese macaque. My family lived on Koshima, a small green island off the coast of Japan. The forest came right down to a beach of pale sand, and a little stream ran out of the trees and across the sand into the sea.",
+   "The boat brought people. Most of them watched us and wrote in notebooks. One was a woman from the village across the water. Her name was Satsue Mito. She came often, and she knew every one of us by face. The people tipped sweet potatoes out onto the beach for us.",
+   "Sweet potatoes! They were sweet and soft inside, much better than the leaves and acorns of the forest. But they lay on the sand, and sand stuck to them. Every bite crunched. The grown-ups brushed the potatoes with their hands, spat and kept eating.",
+   "One day I carried my potato across the beach to the stream. I do not remember why. Perhaps I only wanted to sit in the cool water. I dropped the potato in and picked it up, and the sand was gone. I dipped it again and rubbed it with my other hand. Then I bit it.",
+   "No crunch. Only sweetness.",
+   "I did it again with the next potato, and the next. Dip, rub, bite. Dip, rub, bite.",
+   "My playmate was a young male, a little older than me. He sat on the bank and watched me for days. Then one morning he carried his potato to the stream too. He dipped it and rubbed it, clumsily at first. He bit it. He looked at me.",
+   "After him, another young one came. Then my brother. We were children, and children watch other children all the time. We copied each other's games, and now we copied the stream.",
+   "My mother watched too. She was a grown female with a baby of her own to care for. She was busy, and she knew how things were done. She had eaten sandy food all her life. But she sat near me at the stream, day after day. I did not show her. I did not take her hand. I only washed my potatoes, as I always did.",
+   "And then one day she did it too.",
+   "My mother learned it from me. I was her child, and she learned from me.",
+   "The big males did not learn. They sat at the top of the beach, where the best potatoes landed, and ate first. They did not sit with the young ones. They did not watch us. Year after year they crunched their sand. Most of the old ones never washed a potato at all.",
+   "The people with notebooks wrote it all down. Satsue Mito had been the first to see me at the stream. Year by year they counted which monkeys washed and which did not. Slowly the young ones who washed grew up and had babies of their own. Those babies sat beside their mothers in the water from the very start. They never knew a time when potatoes were not washed.",
+   "When I was older, the people tried something new. They threw grains of wheat onto the beach. The tiny grains fell among the sand grains, and picking them out one by one took forever. The others sat and picked and picked.",
+   "I scooped up a handful of wheat and sand together, carried it to the sea and threw it on the water. The sand sank. The wheat floated. I skimmed the grains off the top with my hand and ate them, clean.",
+   "Again the young ones watched. Again they copied. Again it spread, slowly, from friend to friend and mother to child.",
+   "Later, some of the monkeys began to wash their potatoes in the sea instead of the stream. Perhaps they liked the salt. Between bites, they dipped the potato again, as I dip a potato in my memory now.",
+   "I am old now. I sit on the rocks in the evening and watch the little ones at the edge of the sea. A baby, too young to walk far, clings to her mother's belly while her mother dips and rubs and bites. The baby's eyes follow every dip.",
+   "None of them knows my name. None of them remembers the first potato. They only know that this is how potatoes are eaten on Koshima.",
+   "Tomorrow the baby will reach for the water herself."
+  ],
+  "epiphany": "For the parent: the story is about culture, a habit passed on by watching rather than through the body. The turn is when Imo's mother, a grown monkey who 'knew how things were done', learns from her own young daughter, while the old males who never watched the young ones never learn. The ending shows that a habit can outlive the memory of who invented it: the babies simply grow up inside it. Imo's thoughts are imagined. Her washing of potatoes and wheat, the slow spread among the young, her mother learning, and older males mostly not learning are all in the scientists' records.",
+  "ask": [
+   "Why did the young monkeys learn to wash potatoes before the older ones did?",
+   "Imo never showed anyone how to wash a potato. So how did the others learn?",
+   "The babies at the end don't know Imo's name. Does that matter? Why or why not?",
+   "What is something in our family that we do 'because that is how it is done'? Who started it?",
+   "Who taught Imo's mother? What does that tell you about who can teach whom?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Each primate's body makes sense once you know their problem.",
+   "more": "A gibbon must reach fruit on thin branch tips, so they have very long arms for swinging. A langur eats tough leaves, so they have a stomach with chambers. A loris hunts at night, so they have huge eyes. Ask your child to start each animal with 'What problem does this animal have?'"
+  },
+  {
+   "idea": "Our cousins make tools, learn traditions, remember, play, grieve and make up after fights.",
+   "more": "Again and again, scientists said 'only humans' do something, and then found another primate doing it: tools in 1960, culture in many groups, self-recognition in the mirror. Humans do these things on a bigger scale, but they are not new with us."
+  },
+  {
+   "idea": "What our cousins know is learned slowly, from others, over a long childhood.",
+   "more": "Nut cracking takes a young chimpanzee years. An orangutan learns from her mother for about 7 years. Imo's potato washing spread from the young to the old. This is why losing a group, not only an animal, loses knowledge too."
+  }
+ ],
+ "unknowns": [
+  "Can apes learn a real language, with grammar? Scientists still disagree about what Koko, Kanzi and Nim really learned.",
+  "Do monkeys feel fairness the way we do, or are they reacting to seeing better food? The tests give mixed answers.",
+  "How much do wild apes teach their young on purpose, rather than simply letting them watch? There are only a few clear examples, and scientists argue about what counts as teaching.",
+  "Why do bonobos and chimpanzees, who are so closely related, live such different lives? Food, forests and female friendships may all play a part, and nobody knows for sure."
+ ]
+}

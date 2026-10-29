@@ -1,0 +1,1398 @@
+{
+ "key": "combined|sci|4|electricity-and-staying-safe-with-it",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "electricity-and-staying-safe-with-it",
+ "title": "Electricity: conductors, switches and staying safe",
+ "source": "DeepKids Combined. Covers Cambridge Stage 4 Physics, Electricity: which materials conduct electricity (6.1), does water conduct electricity (6.2), using conductors and insulators in electrical appliances (6.3), switches (6.4) and changing the number of components in a circuit (6.5). Goes further into static charge, electrons and current, circuit symbols, resistance, parallel circuits, home wiring safety and lightning. No textbook needed.",
+ "summary": "A crow can sit on a power line and be safe, but a person touching the same wire can be killed. The difference is a path. Your child builds a tester and finds which materials let electricity through, sees that pure water hardly conducts but salty water does, and opens up an old cord and plug to see conductors and insulators at work. They make switches, find out why more bulbs in one loop glow dimmer and more cells glow brighter, wire bulbs side by side like a house, and learn what the earth wire, the fuse and the MCB do. Along the way they meet electricity in their own nerves, in electric eels and in lightning.",
+ "builds_on": "Class 2: where we use electricity, the basic safety rules, and lighting a bulb with a cell and wires in a complete loop. This rung goes much further: what moves in the wire, fair tests of materials and water, how a home is wired and protected, switches, series and parallel circuits, and lightning. In older classes: electromagnets, generators, and measuring current and voltage.",
+ "subconcepts": [
+  "static charge: rubbing moves electrons, and charges attract",
+  "a complete circuit, and current as electrons pushed round it",
+  "circuit diagrams and their symbols",
+  "conductors and insulators, found with a fair test",
+  "resistance: some conductors let less current through, like pencil lead",
+  "pure water hardly conducts, but salty water does",
+  "the human body is a conductor, more so when wet",
+  "volts: a 1.5 volt cell and 230 volt mains",
+  "conductors inside and insulators outside: wires, plugs and appliances",
+  "the earth wire, the fuse and the circuit breaker (MCB)",
+  "an electric shock, and why it harms the nerves and the heart",
+  "switches open and close a circuit, and a short circuit is dangerous",
+  "more bulbs in one loop are dimmer, more cells are brighter",
+  "parallel circuits: each bulb on its own path, as in a house",
+  "lightning, and staying safe in a thunderstorm"
+ ],
+ "goals": [
+  "By the end your child can explain that a bulb lights only in a complete circuit, and that the current is electrons pushed round the loop by the cell.",
+  "By the end your child can draw a circuit diagram with symbols for a cell, a bulb, a wire and a switch.",
+  "By the end your child can run a fair test to sort materials into conductors and insulators, and explain why salty water and the human body conduct.",
+  "By the end your child can point to the conductors and insulators in a plug and a cord, and say what the earth wire, the fuse and the MCB are for.",
+  "By the end your child can predict how adding bulbs or cells changes brightness, and explain why house lights are wired side by side.",
+  "By the end your child can give clear safety rules for wires, water, kites near power lines and thunderstorms, with the reason for each."
+ ],
+ "words": [
+  [
+   "electron",
+   "a tiny particle with a negative charge, found in every atom; electrons moving through a wire make an electric current"
+  ],
+  [
+   "electric charge",
+   "what electrons and some other particles carry; opposite charges attract each other and the same charges repel"
+  ],
+  [
+   "current",
+   "a flow of electric charge round a circuit"
+  ],
+  [
+   "circuit",
+   "a complete loop that electricity can flow round, from the cell, through the parts, and back to the cell"
+  ],
+  [
+   "cell and battery",
+   "a cell stores energy in chemicals and pushes current round a circuit; two or more cells joined together make a battery"
+  ],
+  [
+   "volt",
+   "the unit that says how hard a cell or supply pushes; an AA cell is 1.5 volts, the wall socket in India is 230 volts"
+  ],
+  [
+   "conductor",
+   "a material that lets electricity flow through it easily, such as copper, steel, aluminium and salty water"
+  ],
+  [
+   "insulator",
+   "a material that does not let electricity flow through it, such as plastic, rubber, glass, dry wood and dry air"
+  ],
+  [
+   "resistance",
+   "how much a material holds back the current; a long, thin pencil lead has more resistance than a copper wire"
+  ],
+  [
+   "switch",
+   "a part that opens a gap in a circuit to stop the current, and closes it to let the current flow"
+  ],
+  [
+   "short circuit",
+   "a path with almost no resistance straight from one end of a supply to the other; the current gets very large and the wires get hot"
+  ],
+  [
+   "earth wire, fuse and MCB",
+   "safety parts at home: the earth wire carries leaked electricity into the ground; a fuse melts and an MCB switches off when too much current flows"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "What moves in a wire?",
+   "goal": "Recall Class 2, make static charge, build a circuit, and learn that current is electrons pushed round a loop.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What we know from Class 2",
+     "mins": 8,
+     "do": "Ask: 'Name three things at home that use electricity from the wall, and three that run on cells.' (Fan, fridge, mixer; torch, TV remote, wall clock.) Ask: 'What did you need to make a bulb light?' (A cell, a bulb and wires joined in a complete loop.) Ask: 'What is our first safety rule?' (We experiment only with cells. Never with wall sockets, plugs or chargers.) Write the rule at the top of a fresh notebook page. Say: 'This year we find out what is actually moving in the wire, and why the wall socket can kill but a cell cannot.'"
+    },
+    {
+     "kind": "exp",
+     "title": "A comb that attracts paper",
+     "mins": 12,
+     "do": "Do experiment e1. Before rubbing, ask: 'Will a plastic comb pick up these paper bits?' Try it: nothing happens. Your child combs dry hair ten times fast, then holds the comb just above the bits. Ask: 'What changed? Guess why.' Wait for an answer. Then say: 'Everything is made of atoms. Every atom has tiny particles called electrons, and electrons carry a negative electric charge. Rubbing moved some electrons from your hair onto the comb. Charged things attract light things like paper.' Ask: 'Did we make the electrons, or move them?' (Moved them. They were in the hair already.)",
+     "ref": "e1"
+    },
+    {
+     "kind": "do",
+     "title": "Build a circuit and trace the loop",
+     "mins": 15,
+     "do": "Your child builds a circuit with two AA cells in a holder, one 2.5 volt torch bulb in a holder, and two wires with crocodile clips. When the bulb lights, ask them to trace the path with a finger: from the + end of the cells, through a wire, through the bulb, back along the other wire to the − end. Say: 'A copper wire is already full of electrons, all the way round. The cells push all of them at once, and they move round the loop together. This flow is called an electric current.' Ask: 'Each electron moves slower than an ant walks. So why does the bulb light the moment the loop is closed?' Good answer: the wire was already full of electrons, so the push moves them everywhere at once, like beads on a full necklace."
+    },
+    {
+     "kind": "think",
+     "title": "Draw it the way scientists do",
+     "mins": 10,
+     "do": "Show your child four circuit symbols and draw them in the notebook. A cell: a long thin line and a short thick line side by side; the long line is the + end. A bulb: a circle with a cross inside. A wire: a straight line. A switch: a gap with a short line tilted up from one side. Say: 'Scientists everywhere use these symbols, so anyone can read a circuit diagram.' Your child draws today's circuit as a diagram, with straight lines and square corners. Ask: 'Why use symbols and not drawings of the real things?' (They are quick, and they are the same in every country.)"
+    }
+   ],
+   "need": [
+    "a plastic comb",
+    "a few small bits of tissue or paper",
+    "2 AA cells in a holder",
+    "a 2.5 volt torch bulb in a holder",
+    "2 wires with crocodile clips",
+    "notebook and pencil"
+   ],
+   "prep": [
+    {
+     "task": "Buy a school circuit kit from a stationery or electrical shop, or online: 3 single AA cell holders, 3 torch bulbs marked 2.5 V with holders, 8 wires with crocodile clips, 1 red LED, a pack of fresh AA cells, a 9 volt battery with a snap connector, and a packet of 0.5 mm pencil leads",
+     "when": "1 week before"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Conductors and insulators",
+   "goal": "Build a tester and use a fair test to sort materials into conductors and insulators.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Make a tester",
+     "mins": 10,
+     "do": "Do activity a1. Take yesterday's circuit and add a third wire, so there is a gap with two free crocodile clips. Touch the clips together: the bulb lights. Pull them apart: it goes out. Say: 'Anything we clip into this gap becomes part of the circuit. If the bulb lights, the material lets electricity through.'",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "The fair test",
+     "mins": 22,
+     "do": "Do experiment e2. Your child first sorts the 12 objects into two piles, 'will light' and 'won't light', and says why. Then they clip each object into the gap and record the result. Ask: 'What must we keep the same so the test is fair?' (The same cells, bulb and wires, clips pressed firmly each time. Only the object changes.) Say: 'Materials that let electricity through are conductors. Materials that stop it are insulators.' Watch for the surprises: the plastic-coated paper clip stays dark until a grown-up scrapes a little plastic off one end with scissors, and the pencil lead lights the bulb, though it is not a metal.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Stephen Gray's long thread",
+     "mins": 13,
+     "do": "Tell your child about voice v1, Stephen Gray, a cloth dyer who first showed that electricity travels along some materials and not others. Ask the voice question. Then ask: 'Gray's electricity went along damp thread but leaked away through brass wire. Which was the conductor, and which was the insulator: brass wire or silk?' (Brass conducts. Silk is an insulator, so he hung his thread on silk.) Ask: 'Gray never went to university. What did he need to make his discovery?' (Patience, careful tests and a good question.)",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "the circuit from Day 1 and one more wire with crocodile clips",
+    "12 things to test: a steel spoon, a plastic spoon, a ₹2 coin, aluminium foil, a wooden ice-cream stick, a rubber band, a plain paper clip, a plastic-coated paper clip, a glass bangle, a steel key, dry cotton thread, a pencil sharpened at both ends",
+    "scissors for the grown-up"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Does water conduct?",
+   "goal": "Test pure, tap and salty water, and find out why wet hands and electricity are dangerous.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Three cups of water",
+     "mins": 22,
+     "do": "Do experiment e3. The grown-up connects the circuit. Your child labels three glass or plastic cups: battery water, tap water and salty water. Ask: 'Why not steel tumblers?' (Steel is a conductor, so the electricity could go through the cup.) Before each test, ask your child to guess: lots of bubbles, a few, or none. Dip the two pencil leads into each cup, 2 cm apart, and watch for one minute. Say: 'The bubbles show that current is flowing through the water. No bubbles means almost no current.' Then ask: 'Which water had the most bubbles? What was different about it?' (The salty water. The salt dissolved and made the water a good conductor.)",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Your body is a conductor",
+     "mins": 10,
+     "do": "Say: 'Battery water is pure, with nothing dissolved in it, and it hardly conducts. Tap water has a little salt and other minerals in it, so it conducts a little. Your body is more than half water, with salts dissolved in it. So your body is a conductor. Dry skin holds back current a lot. Wet skin holds it back much less.' Ask: 'So why must you never touch a switch, a plug or a hair dryer with wet hands?' Good answer: wet skin lets current flow into the body much more easily. Ask: 'Why do many families switch the geyser off before a bath?' (In case of a fault, so no current can reach the water.)"
+    },
+    {
+     "kind": "think",
+     "title": "Living in muddy water",
+     "mins": 13,
+     "do": "Say: 'In the muddy rivers of South America lives a long fish called the electric eel. The water is so cloudy that eyes are little use, and the eel's eyesight is poor. So how do they find their way and their food?' Let your child guess. Then say: 'Special cells in their body work like many small cells joined together. They send out weak electric pulses all the time and sense how the pulses change near rocks, plants and fish. That lets them find things in the dark water. When they hunt, they send out a strong shock of more than 500 volts, which makes the fish near them twitch and freeze.' Ask: 'Why can an eel's shock reach a fish without touching it?' (River water has salts and conducts, so the water carries the current to the fish.) Ask: 'Electric eels come up to gulp air. Why might their electricity work less well out of water?'"
+    }
+   ],
+   "need": [
+    "a 9 volt battery with a snap connector",
+    "2 pencils sharpened at both ends",
+    "2 wires with crocodile clips",
+    "3 glass or plastic cups",
+    "about 200 ml of battery water (distilled water, from a chemist or an inverter shop)",
+    "tap water",
+    "2 teaspoons of salt and a spoon"
+   ],
+   "prep": [
+    {
+     "task": "Buy a small bottle of battery water (distilled water) from a chemist, a petrol pump or an inverter shop, if you don't already have one for the inverter or the steam iron",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The electricity in our walls",
+   "goal": "Compare a cell with mains electricity, look inside an old cord and plug, and learn what the earth wire, the fuse and the MCB do.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "1.5 volts and 230 volts",
+     "mins": 10,
+     "do": "Show an AA cell and point to '1.5 V' on it. Say: 'A volt measures how hard a supply pushes the current. This cell pushes with 1.5 volts. That is far too weak to push current through dry skin, so it is safe to hold. The sockets in Indian homes push with 230 volts. That is strong enough to push current through a person's body, and it can kill.' Ask: 'How many AA cells would make 230 volts?' (Help them: 230 divided by 1.5 is about 153 cells.) Say: 'The mains comes from a power station, along wires on tall towers, through a meter, and into the wires inside our walls.'"
+    },
+    {
+     "kind": "do",
+     "title": "Inside a cord and a plug",
+     "mins": 15,
+     "do": "Use only an old cord that is already cut off from any appliance and has never been near a socket. The grown-up cuts it open with scissors. Your child finds the outer plastic, then two or three inner wires, each in its own coloured plastic, and inside each a bundle of thin copper strands. Ask: 'Why copper inside and plastic outside?' (Copper conducts the current. Plastic is an insulator that keeps it in, away from our hands and from the other wire.) Then look at a three-pin plug (unplugged). Ask your child to find the metal pins and the plastic body. Point out that the top pin is longer and thicker. Say: 'That is the earth pin. It goes into the socket first, before the other two, so the safety path is ready before the current arrives.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The earth wire, the fuse and the MCB",
+     "mins": 10,
+     "do": "Go together to your home's MCB box (look, don't open or touch). Say: 'If a loose wire inside a metal appliance touches the metal case, the case could give a shock. The earth wire, coloured green, or green and yellow, joins the metal case to the ground. Then the leaked current rushes into the ground instead of through a person.' Say: 'If too much current flows, the wires get hot and could start a fire. An MCB, a miniature circuit breaker, switches itself off when that happens. Older homes have a fuse instead, often a white kit-kat fuse with a thin wire that melts and breaks the circuit.' Ask: 'Why is it better for the MCB to switch off than for the wire to get hot?' (A switched-off circuit is safe. A hot wire can burn its plastic and start a fire.)"
+    },
+    {
+     "kind": "act",
+     "title": "Start the home electricity map",
+     "mins": 10,
+     "do": "Do activity a2, the first part of the project. Your child draws a simple plan of your home, room by room. Walking round together, looking but not touching, they mark every switchboard, socket, the MCB box and the meter if it is inside. They mark big appliances with a letter: F for fridge, G for geyser, W for washing machine. Ask in each room: 'Is any socket near water? Do you see any cracked plastic or loose wires?' Mark anything worrying with a red dot, and tell a grown-up about it.",
+     "ref": "a2"
+    }
+   ],
+   "need": [
+    "an AA cell",
+    "an old electric cord already cut off from any appliance",
+    "scissors for the grown-up",
+    "an unplugged three-pin plug",
+    "a large sheet of paper",
+    "pencils and a red crayon"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Why a shock is dangerous",
+   "goal": "Read the story, learn why current harms the body, why a crow on a wire is safe, and how to stay safe from lightning.",
+   "steps": [
+    {
+     "kind": "read",
+     "title": "Story: The Crow on the Wire",
+     "mins": 12,
+     "do": "Read the story 'The Crow on the Wire' aloud. Stop once, when Kittu fetches the steel curtain rod, and ask: 'What do you think Sravani will say? Why?' After reading, ask the story questions. Listen for this idea: the crow is safe because nothing joins her to the ground, but Kittu, holding a steel rod on a wet floor, would have been the path."
+    },
+    {
+     "kind": "talk",
+     "title": "Our bodies use electricity too",
+     "mins": 10,
+     "do": "Tell your child about voice v2, Luigi Galvani, Lucia Galeazzi and Alessandro Volta, and the twitching frog legs. Ask the voice question. Then say: 'Galvani was right that bodies use electricity. Your brain sends tiny electrical signals along your nerves to make your muscles move. Your heart beats because of electrical signals too. A doctor can record them with an ECG machine.' Ask: 'So what might a big current from outside do to the body's own signals?' Good answer: it can drown them out, make muscles grip or jerk, burn the body, and make the heart beat wrongly or stop.",
+     "ref": "v2"
+    },
+    {
+     "kind": "think",
+     "title": "Crows on wires, people on ladders",
+     "mins": 10,
+     "do": "Ask: 'In the story, why could the crow sit on the wire?' (She touched only one wire. There was no path through her to the ground or to another wire.) Draw it: a wire, a crow on it, the ground far below. Then draw a person on a ladder touching the same wire. Ask: 'Where is the path now?' (From the wire, through the person, down the ladder, into the ground.) Say: 'Big birds can be killed when their wings touch two wires, or a wire and the pole, at the same time. Then their body is the path.' Make the rule together: never touch anything stuck on a power line, not even with a stick. Tell a grown-up, who will call the electricity office."
+    },
+    {
+     "kind": "talk",
+     "title": "Lightning: a giant spark",
+     "mins": 13,
+     "do": "Say: 'Inside a storm cloud, bits of ice and water crash into each other, and charges separate, a bit like the comb and your hair. When the charge gets huge, a giant spark jumps: lightning.' Ask: 'What are the tallest things near our home?' Then teach the rules, and ask the reason for each. Go indoors when you hear thunder. Get off the terrace and out of the water. Never stand under a lone tall tree. Stay away from metal poles and fences. A car with a metal roof is safe with the windows shut. Say: 'In India, lightning kills more than two thousand people in most years, many of them working in the fields. The Damini app from the Indian Institute of Tropical Meteorology in Pune warns people when lightning is close.' Then read the first challenge, about Benjamin Franklin's kite, and talk about it."
+    }
+   ],
+   "need": [
+    "paper and pencil"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Switches and short circuits",
+   "goal": "Make two kinds of switch, put one in a circuit, and learn why a short circuit is dangerous.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Make two switches",
+     "mins": 15,
+     "do": "Do activity a3. First the paper clip switch: two drawing pins in a piece of thick cardboard, 2 cm apart, with a plain steel paper clip hooked under one pin. Then the press switch: a strip of foil on each inside half of a folded card, so the strips touch when you press. Ask: 'Why must the paper clip be plain metal, but the base cardboard?' (The clip must conduct to close the gap. The base must be an insulator, so the current only flows when the clip touches the pin.) Ask: 'Where at home is there a switch you press that springs back?' (The doorbell, the mixer's pulse button, remote buttons.)",
+     "ref": "a3"
+    },
+    {
+     "kind": "exp",
+     "title": "A circuit with a switch",
+     "mins": 12,
+     "do": "Do experiment e4. Your child puts the paper clip switch into the circuit and draws the diagram with the switch symbol. Ask: 'Will it matter where in the loop the switch goes: before the bulb or after it?' Let them guess, then try both. (It doesn't matter. A gap anywhere stops the current everywhere.) Say: 'When the switch is open, the gap is filled with air. Air is an insulator, so the current stops. Wall switches work the same way: two metal pieces touch, or move apart.'",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "What is a short circuit?",
+     "mins": 8,
+     "do": "Draw a cell with one wire going straight from its + end to its − end, with no bulb. Say: 'This is a short circuit. With almost nothing to hold the current back, the current gets very big and the wire gets hot. The cell runs down fast. We never do this, even with a cell.' Ask: 'At home, if two bare wires touched, what would the MCB do, and why?' (Switch off, because a huge current would make the wires hot and could start a fire.)"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "do": "Give your child worksheet ws1 on circuits, conductors and safety. They work alone for 7 minutes. Then check it together, and use the tester to settle any argument about a material.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "the circuit kit",
+    "thick cardboard",
+    "2 metal drawing pins",
+    "2 plain steel paper clips",
+    "aluminium foil",
+    "a piece of card",
+    "glue or tape"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "More bulbs, more cells, and bulbs side by side",
+   "goal": "Find how the number of bulbs and cells changes brightness, wire bulbs in parallel, and make a dimmer.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Bulbs in one loop",
+     "mins": 18,
+     "do": "Do experiment e5. With two cells, your child lights one bulb, then two bulbs in the same loop, then three. Before each step, ask: 'Brighter, dimmer or the same? Why?' Record each as 'bright', 'dim' or 'very dim'. Then add a third cell to the three bulbs. Say: 'Bulbs joined one after another in a single loop are in series. They share the same push, and each bulb holds the current back a little, so less current flows. More cells push harder, so more current flows.' Ask: 'Unscrew one of three bulbs. What happens to the others?' (They all go out, because the loop is broken.)",
+     "ref": "e5"
+    },
+    {
+     "kind": "exp",
+     "title": "Bulbs side by side",
+     "mins": 12,
+     "do": "Do experiment e6. Your child joins two bulbs side by side, each on its own path from the cells and back. Ask: 'Will they be as bright as one bulb alone, or dimmer?' Then: 'If we unscrew one, will the other go out?' Test both. (Each is about as bright as one alone, and the other stays lit.) Say: 'This is a parallel circuit. Each bulb has its own path.'",
+     "ref": "e6"
+    },
+    {
+     "kind": "act",
+     "title": "A pencil-lead dimmer",
+     "mins": 10,
+     "do": "Do activity a4. Your child clips one wire to the end of a 0.5 mm pencil lead and slides the other clip slowly along it. Ask: 'What happens to the bulb as the clips get further apart?' (It gets dimmer.) Say: 'Pencil lead is a conductor, but it holds the current back much more than copper does. This holding back is called resistance. A longer piece of lead has more resistance, so less current flows.'",
+     "ref": "a4"
+    },
+    {
+     "kind": "talk",
+     "title": "Why our house lights don't dim",
+     "mins": 5,
+     "do": "Ask: 'When we switch on the kitchen light, does the bedroom light get dimmer, like our three bulbs in series?' (No.) Ask: 'So which way is our home wired, series or parallel?' (Parallel. Each light and socket has its own path from the mains, so each gets the full 230 volts, and switching one off does not turn the others off.)"
+    }
+   ],
+   "need": [
+    "the circuit kit: 3 cells in holders, 3 bulbs in holders, 8 wires with crocodile clips",
+    "a 0.5 mm pencil lead about 6 cm long",
+    "a notebook for results"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The people who lit the world",
+   "goal": "Meet Hertha Ayrton and the fight between direct and alternating current, play the game, and apply the ideas to new cases.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Hertha Ayrton and the hissing lamps",
+     "mins": 10,
+     "do": "Tell your child about voice v3, Hertha Ayrton, who found out why the bright electric lamps of her time hissed and flickered. Say: 'When a plug is loose, you may see a tiny spark jump across a gap. That spark is called an electric arc. Arcs are very hot, and that is why a loose or burnt plug can start a fire.' Ask the voice question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "talk",
+     "title": "DC or AC?",
+     "mins": 10,
+     "do": "Tell your child about voice v4, Thomas Edison and Nikola Tesla. Say: 'A cell gives direct current, DC, which flows one way round. The socket gives alternating current, AC, which changes direction 50 times every second in India.' Ask the voice question. Then read the challenge about who invented the light bulb, and ask: 'Why do some names get remembered and others forgotten?'",
+     "ref": "v4"
+    },
+    {
+     "kind": "game",
+     "title": "Play Safe, Spark or Shock?",
+     "mins": 15,
+     "do": "Play game g1 with the whole family. Keep the circuit tester on the table, so any argument about a material can be tested with cells. When someone gives a right answer with a good reason, ask them to say the reason again in their own words.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "do": "Give your child worksheet ws2. It asks them to use the ideas on new cases. Let them work for 7 minutes, then go through it together and ask for the reason behind each answer.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "the printed game cards and scissors",
+    "the circuit tester",
+    "the printed stretch worksheet"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Teach it back",
+   "goal": "Finish the home electricity map, do the challenge worksheet and the check, and teach it all back.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Finish the electricity map",
+     "mins": 12,
+     "do": "Finish activity a2 and the project. Your child adds a key to the map, writes the three most important safety rules for your home at the bottom, and draws the earth wire as a green line from the MCB box down into the ground. Ask: 'Which red dot on the map is the most urgent to fix? Why?' Agree with the family who will fix it and when.",
+     "ref": "a2"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 13,
+     "do": "Give your child worksheet ws3. It has puzzles, a fair test to design and sides to argue. Let them use the circuit kit (cells only) to test any puzzle they are unsure about. Talk through the written answers together.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time, without notes. Tick each one answered well. For any missed answer, use the kit to show it again, then ask the question in different words."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child is the teacher for 6 minutes. With the tester, the switch, the series and parallel bulbs and the map, they teach the family: what moves in a wire, conductors and insulators, why salty water and wet hands are dangerous, what a switch and an MCB do, and why the crow on the wire is safe. Ask two learner's questions: 'Why is the earth pin longer?' and 'Why do three bulbs in a loop glow dimmer than one?'"
+    }
+   ],
+   "need": [
+    "the home electricity map",
+    "the circuit kit",
+    "the printed challenge worksheet"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Circuits, conductors and safety",
+   "day": 6,
+   "sections": [
+    [
+     "A. Circuits",
+     [
+      {
+       "t": "mcq",
+       "p": "Lakshmi joins one wire from the + end of a cell to the tip of a bulb. Nothing else is joined. The bulb stays dark. Why?",
+       "opts": [
+        "the cell is too weak",
+        "there is no path back to the − end of the cell",
+        "a bulb always needs two cells"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "A complete loop that electricity can flow round is called a ____.",
+       "a": [
+        "circuit"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "When a bulb is lit, what is moving through the copper wire?",
+       "opts": [
+        "tiny charged particles called electrons",
+        "drops of water",
+        "light"
+       ],
+       "a": 0
+      },
+      {
+       "t": "draw",
+       "p": "Draw a circuit diagram with symbols: one cell, one bulb and one switch joined in a loop. Label each symbol."
+      }
+     ]
+    ],
+    [
+     "B. Conductors and insulators",
+     [
+      {
+       "t": "sort",
+       "p": "Will each thing light the bulb in a tester?",
+       "items": [
+        "steel spoon",
+        "plastic ruler",
+        "aluminium foil",
+        "wooden ice-cream stick",
+        "₹2 coin",
+        "rubber band",
+        "pencil lead",
+        "glass bangle",
+        "dry cotton thread",
+        "steel key"
+       ],
+       "cats": [
+        "conductor",
+        "insulator"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each part to its job.",
+       "pairs": [
+        [
+         "copper inside a wire",
+         "carries the current"
+        ],
+        [
+         "plastic round a wire",
+         "keeps the current in, away from hands"
+        ],
+        [
+         "the earth wire",
+         "carries leaked current into the ground"
+        ],
+        [
+         "the MCB",
+         "switches off when too much current flows"
+        ]
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Farhan, a boy in Class 4, tests a paper clip with a plastic coat. The bulb stays dark. He says, 'So steel is an insulator.' What would you tell him, and how could he check?",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "C. Water and safety",
+     [
+      {
+       "t": "mcq",
+       "p": "Meena joins two pencil leads to a 9 volt battery and dips them into three cups of water. Which cup makes the most bubbles?",
+       "opts": [
+        "battery water (pure water)",
+        "tap water",
+        "salty water"
+       ],
+       "a": 2
+      },
+      {
+       "t": "write",
+       "p": "Why must you never touch a switch with wet hands? Use the word 'conductor' in your answer.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Name two insulators in a plug or a cord. For each, say what it protects you from.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Use it on new cases",
+   "day": 8,
+   "sections": [
+    [
+     "A. Bulbs and cells",
+     [
+      {
+       "t": "mcq",
+       "p": "Kavya has two cells and one bulb in a loop. She adds a second bulb into the same loop. What happens?",
+       "opts": [
+        "both bulbs are dimmer than one bulb was",
+        "both bulbs are brighter",
+        "the new bulb lights and the old one goes out"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Two bulbs are joined side by side, each on its own path to the cells. You unscrew one. What happens to the other?",
+       "opts": [
+        "it stays lit",
+        "it goes out",
+        "it starts to flicker"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Adding another cell, facing the same way, makes the bulbs ____.",
+       "a": [
+        "brighter"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Arjun slides a crocodile clip along a pencil lead in his circuit. As the clips get further apart, the bulb gets dimmer. Explain why, using the word 'resistance'.",
+       "lines": 3
+      },
+      {
+       "t": "draw",
+       "p": "Draw a circuit diagram of two cells, two bulbs side by side (in parallel), and one switch that turns both bulbs off."
+      }
+     ]
+    ],
+    [
+     "B. Open or closed?",
+     [
+      {
+       "t": "sort",
+       "p": "Is the circuit open (broken) or closed (complete)?",
+       "items": [
+        "the ceiling fan is turning",
+        "the torch button is pressed and it shines",
+        "the paper clip is lifted off the drawing pin",
+        "a wire has come loose from the bulb holder",
+        "the bulb is unscrewed",
+        "the doorbell is ringing"
+       ],
+       "cats": [
+        "closed circuit",
+        "open circuit"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why do we use a glass or plastic cup, not a steel tumbler, to test whether water conducts?",
+       "opts": [
+        "steel conducts, so the current could go through the tumbler instead of only the water",
+        "steel makes the water salty",
+        "steel tumblers are too heavy"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Staying safe",
+     [
+      {
+       "t": "match",
+       "p": "Match each problem to the safe thing to do.",
+       "pairs": [
+        [
+         "a wire with cracked plastic",
+         "don't touch it and tell a grown-up"
+        ],
+        [
+         "a kite stuck on a power line",
+         "leave it and call the electricity office"
+        ],
+        [
+         "thunder while you are on the terrace",
+         "go indoors at once"
+        ],
+        [
+         "unplugging an iron",
+         "switch off, then pull the plug itself, not the cord"
+        ],
+        [
+         "too many plugs in one socket",
+         "use fewer, or the wires can get hot"
+        ]
+       ]
+      },
+      {
+       "t": "write",
+       "p": "A crow sits on a single power line and is safe. A man on a metal ladder touches the same line and gets a shock. Explain the difference.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "When you switch on more lights at home, the others don't get dimmer. What does that tell you about how the lights are wired? Explain.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Think like Stephen Gray",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "Rani has three cells and three bulbs in one loop. She takes away one cell. What happens to the bulbs?",
+       "opts": [
+        "they get dimmer",
+        "they get brighter",
+        "they stay the same"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Each electron in a wire moves slower than an ant walks. Yet a bulb lights the moment you close the switch. Why?",
+       "opts": [
+        "the wire is already full of electrons, and the push moves them all at once",
+        "electrons are faster than light",
+        "the bulb stores electricity from last time"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A thin wire that melts and breaks the circuit when too much current flows is called a ____.",
+       "a": [
+        "fuse",
+        "fuse wire"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Pure water hardly conducts. Why is it still dangerous to use a hair dryer near a bucket of bath water?",
+       "opts": [
+        "bath water has salts and dirt dissolved in it from the tap and from skin, so it conducts",
+        "hair dryers make the water pure",
+        "only cold water conducts"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "In a thunderstorm, which places are safer and which are dangerous?",
+       "items": [
+        "inside a building",
+        "inside a car with a metal roof and the windows shut",
+        "under a lone tall tree",
+        "swimming in a lake",
+        "flying a kite on the terrace",
+        "in a room away from the windows"
+       ],
+       "cats": [
+        "safer",
+        "dangerous"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each person to what they found.",
+       "pairs": [
+        [
+         "Stephen Gray",
+         "electricity travels along some materials and not others"
+        ],
+        [
+         "Alessandro Volta",
+         "the first battery, from metal discs and salty card"
+        ],
+        [
+         "Luigi Galvani",
+         "nerves and muscles use electricity"
+        ],
+        [
+         "Hertha Ayrton",
+         "why electric arc lamps hiss and flicker"
+        ],
+        [
+         "Nikola Tesla",
+         "a motor that runs on alternating current"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Design a test, pick a side",
+     [
+      {
+       "t": "write",
+       "p": "Design a fair test to find out whether salt or sugar makes water conduct better. What will you change, what will you keep the same, and what will you look for?",
+       "lines": 5
+      },
+      {
+       "t": "write",
+       "p": "Kavya says, 'Rubber chappals keep you safe, so you can touch a bare wire if you wear them.' Meena says, 'Never touch a bare wire at all.' Who do you agree with? Give a reason. Then write what the other girl might say back.",
+       "lines": 5
+      },
+      {
+       "t": "write",
+       "p": "Edison said direct current was safer. Tesla said alternating current was better, because it can be sent far. A dam is 500 kilometres from your city. Which would you choose to bring its electricity to you, and why? What would the other side say?",
+       "lines": 5
+      },
+      {
+       "t": "write",
+       "p": "An electric eel lives in muddy water where eyes are little use. Explain how their electric pulses help them with this problem.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "A comb that attracts paper",
+   "day": 1,
+   "question": "Can rubbing give a comb an electric charge?",
+   "need": [
+    "a plastic comb, or a plastic ruler",
+    "dry hair, or a wool sweater",
+    "about 10 tiny bits of tissue paper, each smaller than a fingernail",
+    "a thin, steady stream of water from a tap (optional)"
+   ],
+   "steps": [
+    "Hold the comb just above the paper bits. Watch what happens.",
+    "Comb dry hair fast ten times, or rub the comb on a wool sweater.",
+    "Hold the comb just above the paper bits again, without touching them.",
+    "Optional: turn a tap on to a very thin, steady stream. Bring the rubbed comb close to the stream, without touching it.",
+    "Write what you saw before and after rubbing."
+   ],
+   "predict": "Ask your child to guess first: 'Will the comb pick up the paper before rubbing? After rubbing? Why do you think so?'",
+   "observe": "Before rubbing, nothing happens. After rubbing, the paper bits jump up and cling to the comb. The thin water stream bends towards the comb.",
+   "why": "Rubbing moves some electrons from the hair onto the comb, so the comb has extra negative charge. Near the comb, the electrons in the paper shift a little away from it, so the side of the paper nearest the comb is slightly positive. Opposite charges attract, so the paper jumps up. Nothing was made: the electrons were only moved. Lightning starts the same way, when charges are separated inside a storm cloud.",
+   "safety": "No electricity supply is used. It works best on a dry day. In very humid weather, try in a room with the AC or fan on, or in the morning.",
+   "time": "12 min"
+  },
+  {
+   "id": "e2",
+   "title": "Conductor or insulator? A fair test",
+   "day": 2,
+   "question": "Which materials let electricity through, and which stop it?",
+   "need": [
+    "the tester from activity a1: 2 AA cells in a holder, a 2.5 volt bulb in a holder, 3 wires with crocodile clips",
+    "12 objects: a steel spoon, a plastic spoon, a ₹2 coin, aluminium foil, a wooden ice-cream stick, a rubber band, a plain paper clip, a plastic-coated paper clip, a glass bangle, a steel key, dry cotton thread, a pencil sharpened at both ends",
+    "a results table: Object, Made of, My guess, Lit? Try 1, Lit? Try 2"
+   ],
+   "steps": [
+    "Touch the two free clips together to check the bulb lights.",
+    "Sort the 12 objects into two piles, 'will light' and 'won't light'. Say why for each.",
+    "Clip one clip to one end of an object and the other clip to the other end. Press firmly.",
+    "Write down whether the bulb lit. Then test it again, to make sure.",
+    "For the pencil, clip onto the lead at both sharpened ends.",
+    "For the coated paper clip, test it, then let a grown-up scrape a little plastic off each end and test it again.",
+    "Look at the table and write the pattern in one sentence."
+   ],
+   "predict": "Ask your child to guess first, object by object: 'Will this light the bulb? Why do you think so?'",
+   "observe": "The bulb lights for the steel spoon, the coin, the foil, the plain paper clip, the key and the pencil lead. It stays dark for the plastic, wood, rubber, glass and dry cotton. The coated paper clip stays dark until the plastic is scraped off its ends.",
+   "why": "In metals, some electrons are free to move between the atoms, so the cells can push them along: metals are conductors. In plastic, rubber, glass, dry wood and dry cotton, the electrons are held tightly, so no current flows: these are insulators. Pencil lead is graphite, a form of carbon, which is not a metal but has free electrons too. The plastic coat on a paper clip is an insulator, so it blocks the steel inside. Keeping everything the same except the object makes the test fair, and testing twice catches a loose clip.",
+   "safety": "Use only AA cells, never a wall socket or a charger. Never join the two clips straight across the cells without a bulb, because the wire gets hot. A grown-up does the scraping with scissors.",
+   "time": "22 min"
+  },
+  {
+   "id": "e3",
+   "title": "Three cups of water",
+   "day": 3,
+   "question": "Does pure water conduct? Does tap water? Does salty water?",
+   "need": [
+    "a 9 volt battery with a snap connector (two wires)",
+    "2 pencils sharpened at both ends",
+    "2 wires with crocodile clips, or the snap connector wires wrapped round the pencil leads",
+    "3 glass or plastic cups, not steel",
+    "about 200 ml of battery water (distilled water) in the first cup",
+    "about 200 ml of tap water in the second cup",
+    "about 200 ml of tap water with 2 teaspoons of salt stirred in, in the third cup",
+    "a timer"
+   ],
+   "steps": [
+    "The grown-up clips one wire from the battery to the lead at the top of one pencil, and the other wire to the top of the second pencil.",
+    "Hold the two pencils upright in the first cup, with their bottom tips in the water, about 2 cm apart. They must not touch each other.",
+    "Watch the tips of the leads closely for one minute. Count or describe the bubbles.",
+    "Lift the pencils out, wipe them, and repeat with the tap water, then with the salty water.",
+    "Record each cup as 'no bubbles', 'a few bubbles' or 'lots of bubbles'.",
+    "Unclip the battery when you finish."
+   ],
+   "predict": "Ask your child to guess first: 'Which cup will make the most bubbles? Will pure water make any?'",
+   "observe": "In battery water, almost nothing happens. In tap water, a few tiny bubbles slowly form on the leads. In salty water, streams of bubbles rise at once, more from one pencil than the other.",
+   "why": "Pure water has very few charged particles in it, so almost no current can flow, and it is a very poor conductor. When salt dissolves, it breaks into charged particles called ions, which can carry current through the water. Tap water has a small amount of dissolved salts and minerals, so it conducts a little. The current splits some of the water into gases, which make the bubbles, so more bubbles mean more current. Our bodies are full of salty water, which is why they conduct.",
+   "safety": "A grown-up connects the battery. Use only a 9 volt battery, never the mains. Keep the pencils apart. The salty cup can make a faint smell like a swimming pool, so keep the room airy and stop after one minute. Pour the water away afterwards, and don't drink it.",
+   "time": "22 min"
+  },
+  {
+   "id": "e4",
+   "title": "A circuit with a switch",
+   "day": 6,
+   "question": "Can a switch turn the bulb on and off, and does it matter where the switch goes?",
+   "need": [
+    "2 AA cells in a holder",
+    "a 2.5 volt bulb in a holder",
+    "the paper clip switch from activity a3",
+    "3 wires with crocodile clips"
+   ],
+   "steps": [
+    "Join the cells, the bulb and the switch in one loop.",
+    "Close the switch by swinging the paper clip onto the second pin. Watch the bulb.",
+    "Open the switch. Watch the bulb.",
+    "Move the switch to the other side of the bulb in the loop. Test again.",
+    "Draw the circuit diagram, using the switch symbol."
+   ],
+   "predict": "Ask your child to guess first: 'Will the switch work in both places in the loop?'",
+   "observe": "The bulb lights when the clip touches both pins and goes out when it is lifted. It works the same way on either side of the bulb.",
+   "why": "Closing the switch puts a conductor, the steel clip, across the gap, so the loop is complete and current flows. Opening it leaves a gap of air, an insulator, so current stops everywhere in the loop at once. That is why the switch can go anywhere in the loop.",
+   "safety": "Use only AA cells. Push the drawing pins in with a grown-up, pointing away from fingers.",
+   "time": "12 min"
+  },
+  {
+   "id": "e5",
+   "title": "Bulbs in series",
+   "day": 7,
+   "question": "How does adding bulbs, or adding cells, change how brightly bulbs glow in one loop?",
+   "need": [
+    "3 AA cells in single holders, joined + to −",
+    "3 torch bulbs marked 2.5 V, in holders",
+    "6 wires with crocodile clips",
+    "a results table: Cells, Bulbs, My guess, How bright"
+   ],
+   "steps": [
+    "Join two cells and one bulb in a loop. Look at how bright the bulb is.",
+    "Add a second bulb into the same loop, one after the other. Compare.",
+    "Add a third bulb into the same loop. Compare.",
+    "Keep the three bulbs and add a third cell, facing the same way. Compare.",
+    "With three cells and three bulbs, unscrew one bulb. Watch the others.",
+    "Write the patterns in two sentences."
+   ],
+   "predict": "Ask your child to guess first: 'Will two bulbs be brighter or dimmer than one? What will a third cell do?'",
+   "observe": "One bulb is bright, two are dimmer, three are dim. A third cell makes the three bulbs brighter. Unscrewing one bulb makes them all go out.",
+   "why": "In a series circuit there is only one path. Each bulb holds back the current, so more bulbs mean less current, and each bulb glows less. Each extra cell adds 1.5 volts of push, so more current flows. Unscrewing one bulb breaks the only path, so the current stops everywhere.",
+   "safety": "Don't join three cells to a single 2.5 volt bulb, because it may burn out. Bulbs can get warm, so let them cool before touching. Take the cells out of the holders when you finish.",
+   "time": "18 min"
+  },
+  {
+   "id": "e6",
+   "title": "Bulbs in parallel",
+   "day": 7,
+   "question": "What happens when each bulb has its own path?",
+   "need": [
+    "2 AA cells in a holder",
+    "2 torch bulbs marked 2.5 V, in holders",
+    "4 wires with crocodile clips"
+   ],
+   "steps": [
+    "Light one bulb with the two cells. Remember how bright it is.",
+    "Join a second bulb so that it has its own path: one wire from each of its two sides to the two ends of the cells, beside the first bulb.",
+    "Compare the brightness of the two bulbs with the single bulb.",
+    "Unscrew one bulb. Watch the other.",
+    "Draw the circuit diagram, with the two bulbs on separate branches."
+   ],
+   "predict": "Ask your child to guess first: 'Will two bulbs side by side be dimmer, like in the loop? If we unscrew one, will the other go out?'",
+   "observe": "Both bulbs glow about as brightly as one bulb alone. When one is unscrewed, the other stays lit.",
+   "why": "In a parallel circuit each bulb has its own path to the cells, so each gets the full push of the cells. Breaking one path does not break the other. Homes are wired like this, so every light and socket gets the full 230 volts and works on its own. The cells run down faster, because they are now pushing current along two paths.",
+   "safety": "Use only AA cells. Take the cells out when you finish.",
+   "time": "12 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Make a tester",
+   "day": 2,
+   "mins": 10,
+   "need": [
+    "2 AA cells in a holder",
+    "a 2.5 volt bulb in a holder",
+    "3 wires with crocodile clips"
+   ],
+   "steps": [
+    "Join one wire from the cells to one side of the bulb holder.",
+    "Join a second wire to the other side of the bulb holder. Leave its far end free.",
+    "Join a third wire to the other end of the cells. Leave its far end free.",
+    "Touch the two free clips together. The bulb should light.",
+    "If it does not, check that the cells face the same way and the bulb is screwed in."
+   ],
+   "outcome": "A tester with a gap: anything clipped into the gap that lights the bulb is a conductor."
+  },
+  {
+   "id": "a2",
+   "title": "Our home electricity map",
+   "day": 4,
+   "mins": 22,
+   "need": [
+    "a large sheet of paper",
+    "pencil, ruler and crayons, including red and green"
+   ],
+   "steps": [
+    "Draw a simple plan of the home: one box for each room.",
+    "Walk round with a grown-up. Look, but don't touch anything electrical.",
+    "Mark every switchboard with S and every socket with a small circle.",
+    "Mark the MCB box, and the meter if it is inside.",
+    "Mark big appliances: F for fridge, G for geyser, W for washing machine, A for AC.",
+    "Put a red dot anywhere that looks unsafe: a socket near water, cracked plastic, a loose plug, too many plugs in one socket, a wire under a mat.",
+    "On Day 9, add a key, a green line for the earth wire, and the three most important rules for your home."
+   ],
+   "outcome": "A map of the electricity in your home, with any unsafe spots found and the family's safety rules."
+  },
+  {
+   "id": "a3",
+   "title": "Two home-made switches",
+   "day": 6,
+   "mins": 15,
+   "need": [
+    "a piece of thick cardboard about 8 cm by 5 cm",
+    "2 metal drawing pins",
+    "a plain steel paper clip",
+    "2 wires with crocodile clips",
+    "a piece of card about 10 cm by 5 cm",
+    "aluminium foil",
+    "glue or tape"
+   ],
+   "steps": [
+    "Paper clip switch: a grown-up pushes the two drawing pins into the cardboard, 2 cm apart.",
+    "Hook one end of the paper clip under one pin, so the clip can swing round.",
+    "Clip a wire to each pin. Swing the clip onto the other pin to close the switch, and away to open it.",
+    "Press switch: fold the card in half. Glue a strip of foil on each inside half, so the strips meet when the card is pressed shut.",
+    "Let the foil strips stick out at the edge, and clip a wire to each.",
+    "Test both switches in the circuit."
+   ],
+   "outcome": "A swinging switch and a press switch, both made from conductors on an insulating base."
+  },
+  {
+   "id": "a4",
+   "title": "A pencil-lead dimmer",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "2 AA cells in a holder",
+    "a 2.5 volt bulb in a holder",
+    "3 wires with crocodile clips",
+    "a 0.5 mm pencil lead about 6 cm long, laid on a sheet of paper"
+   ],
+   "steps": [
+    "Make the tester circuit with a gap.",
+    "Clip one free wire to one end of the pencil lead.",
+    "Touch the other clip to the lead right next to the first one. Look at the bulb.",
+    "Slide the second clip slowly along the lead, away from the first.",
+    "Watch the bulb, and describe what happens."
+   ],
+   "outcome": "A working dimmer: the bulb is bright when the clips are close and dims as they move apart, showing resistance."
+  }
+ ],
+ "project": {
+  "title": "Our home electricity safety map",
+  "days": [
+   4,
+   9
+  ],
+  "steps": [
+   "On Day 4, draw a plan of the home and mark every switchboard, socket, the MCB box and the big appliances (activity a2).",
+   "Mark unsafe spots with a red dot and tell a grown-up.",
+   "Over the week, add anything new you learn: where the earth wire goes, which sockets are near water, where a kite could get caught on the wires outside.",
+   "On Day 9, add a key, a green line for the earth wire, and the three most important safety rules for your home.",
+   "Agree with the family how each red dot will be fixed, and by whom.",
+   "Stick the map up near the MCB box or the main door."
+  ],
+  "outcome": "A home map of the electricity, with unsafe spots found and fixed and the family's own safety rules, made by your child."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Safe, Spark or Shock?",
+  "kind": "cards",
+  "players": "2–5",
+  "need": [
+   "the printed cards, cut out",
+   "the circuit tester, to check material cards"
+  ],
+  "rules": [
+   "Shuffle the cards and put them face down.",
+   "Take turns to turn one over and read it aloud.",
+   "Give your answer and a reason before turning the card to read the back.",
+   "Right answer with a good reason: 2 points. Right answer without a reason: 1 point.",
+   "If players disagree about a material, test it with the tester (cells only).",
+   "The player with the most points when the cards run out wins."
+  ],
+  "cards": [
+   {
+    "front": "Conductor or insulator? A steel spoon",
+    "back": "Conductor: steel is a metal, with free electrons."
+   },
+   {
+    "front": "Conductor or insulator? A plastic ruler",
+    "back": "Insulator: its electrons are held tightly."
+   },
+   {
+    "front": "Conductor or insulator? Pencil lead",
+    "back": "Conductor: graphite is not a metal, but it conducts."
+   },
+   {
+    "front": "Conductor or insulator? A glass bangle",
+    "back": "Insulator."
+   },
+   {
+    "front": "Conductor or insulator? Salty water",
+    "back": "Conductor: the dissolved salt carries the current."
+   },
+   {
+    "front": "Conductor or insulator? Battery water (distilled water)",
+    "back": "A very poor conductor: almost nothing is dissolved in it."
+   },
+   {
+    "front": "Conductor or insulator? Your body",
+    "back": "Conductor: it is mostly salty water."
+   },
+   {
+    "front": "Conductor or insulator? Dry air",
+    "back": "Insulator: that is why an open switch stops the current."
+   },
+   {
+    "front": "Conductor or insulator? Aluminium foil",
+    "back": "Conductor."
+   },
+   {
+    "front": "Conductor or insulator? A rubber band",
+    "back": "Insulator."
+   },
+   {
+    "front": "Safe or not? Touching a switch with wet hands",
+    "back": "Not safe: wet skin lets current into the body easily."
+   },
+   {
+    "front": "Safe or not? Pulling a plug out by its cord",
+    "back": "Not safe: the wires inside can break. Switch off and hold the plug."
+   },
+   {
+    "front": "Safe or not? Holding an AA cell",
+    "back": "Safe: 1.5 volts can't push current through dry skin."
+   },
+   {
+    "front": "Safe or not? Poking a hairpin into a socket",
+    "back": "Never: the pin is a conductor and the socket is 230 volts."
+   },
+   {
+    "front": "Safe or not? Using a stick to get a kite off a power line",
+    "back": "Never: leave it and call the electricity office."
+   },
+   {
+    "front": "Safe or not? Standing under a lone tree in a thunderstorm",
+    "back": "Not safe: lightning often strikes tall things."
+   },
+   {
+    "front": "Safe or not? Sitting inside a car with a metal roof in a storm",
+    "back": "Safer: the metal body carries lightning round you to the ground."
+   },
+   {
+    "front": "Safe or not? Plugging six things into one socket with adaptors",
+    "back": "Not safe: too much current makes the wires hot."
+   },
+   {
+    "front": "Safe or not? A crow sitting on one power line",
+    "back": "Safe for the crow: nothing joins her to the ground or another wire."
+   },
+   {
+    "front": "Safe or not? Swallowing a button cell",
+    "back": "Very dangerous: it can burn the food pipe. Get a doctor at once."
+   },
+   {
+    "front": "What happens? You add a second bulb to the same loop",
+    "back": "Both bulbs glow dimmer."
+   },
+   {
+    "front": "What happens? You add a cell, facing the same way",
+    "back": "The bulbs glow brighter."
+   },
+   {
+    "front": "What happens? You unscrew one bulb in a parallel circuit",
+    "back": "The other bulb stays lit."
+   },
+   {
+    "front": "What happens? A wire joins both ends of a cell with no bulb",
+    "back": "A short circuit: the wire gets hot and the cell runs down."
+   },
+   {
+    "front": "What happens? Too much current flows in your home's wires",
+    "back": "The MCB switches off, or the fuse wire melts."
+   },
+   {
+    "front": "What does it do? The earth wire",
+    "back": "Carries leaked current from a metal case into the ground."
+   },
+   {
+    "front": "What does it do? A switch",
+    "back": "Opens or closes a gap in the circuit."
+   },
+   {
+    "front": "What does it do? The plastic round a wire",
+    "back": "Keeps the current in the copper, away from hands."
+   }
+  ]
+ },
+ "big": [
+  "The electrons were already in the wire before the cell was joined. So what does a power station really send us?",
+  "Your nerves send tiny electrical signals to move your hand. Is a thought made of electricity, or is it something more?",
+  "When there isn't enough electricity for everyone, who should get it first: a hospital, a farm, a factory or a home? Who should decide?",
+  "A crow, a bee and an electric eel each live with electricity in a different way. Whose world is the most electric?",
+  "Was it brave or foolish for scientists to do dangerous experiments with lightning to find out what it was?"
+ ],
+ "challenge": [
+  {
+   "q": "Many books say Benjamin Franklin flew a kite into a thunderstorm and it was struck by lightning. Is that what happened?",
+   "hint": "Franklin wrote in 1752 about flying a kite in a storm, with a metal key tied near the bottom of a wet string. He did not say the kite was struck. He said he saw the threads of the string stand up and felt a spark from the key, showing the storm cloud carried electric charge. Some historians even wonder whether he did it himself, because he described it only briefly. A year later, Georg Richmann in St Petersburg was killed during a similar experiment. Ask: why is this experiment never safe to copy?"
+  },
+  {
+   "q": "Thomas Edison invented the light bulb. Is that the whole story?",
+   "hint": "Many people built electric lamps before Edison. In England, Joseph Swan showed a working bulb with a carbon filament around 1878 to 1879, at about the same time as Edison. Lewis Latimer, the son of parents who had escaped slavery in the United States, taught himself drawing and patented a better way to make carbon filaments in 1882, which made bulbs last longer. Edison's team made bulbs that lasted and built the power stations to light them. Ask: when many people improve an idea, who should get the credit?"
+  },
+  {
+   "q": "People say lightning never strikes the same place twice. Is that true?",
+   "hint": "No. Lightning often strikes the tallest thing around, so tall buildings, towers and temple towers can be struck many times, even in one storm. That is why tall buildings have a lightning conductor: a metal rod at the top joined by a thick metal strip to the ground, which carries the current safely down. Ask: where is the nearest lightning conductor to your home?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A crow on the wires outside your window",
+   "view": "Crows sit on power lines every day, safe because they touch only one wire. But they have to watch out for kite strings at Sankranti, and big birds can be killed when their wings touch two wires at once. Ask: if birds could plan our power lines, what would they change?"
+  },
+  {
+   "who": "A bumblebee",
+   "view": "In 2013, scientists at the University of Bristol found that bumblebees can sense the weak electric charge around a flower. Bees pick up charge as they fly. When a bee lands, the flower's charge changes for a while, and scientists think this may tell the next bee that someone has just visited. Ask: what would the world look like if you could feel electric charges?"
+  },
+  {
+   "who": "A lineworker of the electricity board",
+   "view": "Lineworkers climb poles in heat and rain to fix the wires that light our homes. They switch off the line, check it is dead, and use rubber gloves and insulated tools before they touch anything. Ask: who is it in your area who fixes the line after a storm, and have you ever thanked them?"
+  },
+  {
+   "who": "A farmer who pumps water at night",
+   "view": "In many parts of India, farm pumps get electricity only for some hours a day, and sometimes those hours are at night. Farmers walk to their fields in the dark to water the crops. Ask: should electricity be shared out by need, by who pays most, or equally?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Stephen Gray (1666–1736), England",
+   "idea": "Gray was a dyer of cloth who did science in his spare time. In 1729, he charged a glass tube by rubbing it, and found that the charge could travel along a long, damp thread to an ivory ball at the far end, which then attracted bits of feather. With his friend Granville Wheler, he sent charge along threads hundreds of feet long. When the thread was hung on loops of silk, the charge reached the end. When it was hung on brass wire, the charge leaked away. He had found that some materials carry electricity and others don't: conductors and insulators.",
+   "then": "Gray was poor, had little schooling, and lived on charity in his old age. But his experiments were reported to the Royal Society in London, which gave him its Copley Medal, its highest prize, in 1731, the first time it was awarded, and again in 1732.",
+   "now": "Accepted. Gray's discovery that electricity flows through some materials and not others is the basis of every wire and every switch.",
+   "status": "accepted",
+   "ask": "Gray had no laboratory, only threads, a glass tube and a lot of patience. What everyday things could you use to find out something new?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "Luigi Galvani (1737–1798), Lucia Galeazzi Galvani (1743–1788) and Alessandro Volta (1745–1827), Italy",
+   "idea": "Galvani, a doctor in Bologna, saw the legs of dead frogs twitch when they were touched with two different metals. His wife, Lucia Galeazzi, the daughter of his teacher, worked with him in his laboratory, though her exact part in the experiments is not recorded. In 1791 Galvani said the electricity came from inside the frog. Volta, a physicist in Pavia, said the electricity came from the two metals with something wet between them, and the frog only showed it. To prove it, in 1800 he piled up discs of zinc and copper with card soaked in salty water between them. It made a steady current with no frog at all: the first battery.",
+   "then": "The two sides argued for years. Volta's pile seemed to settle it, and many people decided Galvani had been wrong.",
+   "now": "Both were partly right. Volta was right about the metals, and every battery since comes from his pile. Galvani was right that nerves and muscles use electricity, which is now a whole science. The volt is named after Volta.",
+   "status": "accepted",
+   "ask": "Two scientists disagreed, and both turned out to be partly right. How can that happen?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Hertha Ayrton (1854–1923), England",
+   "idea": "In the 1890s, many streets and halls were lit by arc lamps: two carbon rods with a very bright, very hot spark jumping between them. The lamps often hissed and flickered. Through years of careful experiments, Hertha Ayrton showed that the hissing happened when air reached the hot carbon, and how to keep the arc steady. She wrote a book, The Electric Arc, in 1902.",
+   "then": "In 1899 she became the first woman elected a member of the Institution of Electrical Engineers in London. In 1902 she was put forward to join the Royal Society, but was turned down because, as a married woman, she was told she could not be a member. In 1906 the Royal Society gave her its Hughes Medal for her work.",
+   "now": "Accepted. Her work on arcs was used in lamps and searchlights. Engineers still study arcs today, because an arc at a loose plug or a damaged wire can start a fire.",
+   "status": "accepted",
+   "ask": "Hertha Ayrton was refused because she was married, not because her science was wrong. What does that tell you about who gets to do science, and how could you find out about others like her?",
+   "day": 8
+  },
+  {
+   "id": "v4",
+   "who": "Thomas Edison (1847–1931) and Nikola Tesla (1856–1943), United States",
+   "idea": "In the 1880s, Edison's company built power stations that sent direct current (DC), which flows one way only, like the current from a cell. Tesla invented a motor that runs on alternating current (AC), which changes direction many times a second. George Westinghouse's company bought Tesla's patents. AC can easily be raised to a very high voltage with a machine called a transformer, sent a long way along thin wires, and then lowered again for homes.",
+   "then": "This was called the war of the currents. Edison's side warned loudly that high-voltage AC was deadly. AC won: it lit the 1893 world's fair in Chicago, and in 1895 a power station at Niagara Falls began sending AC to factories and, from 1896, to the city of Buffalo.",
+   "now": "Both are used. Homes in India get AC at 230 volts, changing direction 50 times a second. Phones, torches and solar panels use DC. Some very long power lines in India now carry high-voltage DC, such as the line from Raigarh in Chhattisgarh to Pugalur in Tamil Nadu.",
+   "status": "accepted",
+   "ask": "Edison was right that high-voltage AC is dangerous, and Tesla was right that it travels far. Can a side be right about something and still lose the argument?",
+   "day": 8
+  }
+ ],
+ "books": [
+  {
+   "title": "Switch On, Switch Off",
+   "author": "Melvin Berger",
+   "for": "read together",
+   "age": "5–8",
+   "why": "A clear picture book on circuits, switches and where the electricity in our homes comes from."
+  },
+  {
+   "title": "Oscar and the Bird: A Book About Electricity",
+   "author": "Geoff Waring",
+   "for": "read together",
+   "age": "4–7",
+   "why": "A gentle book about where electricity is used and how to stay safe, good for younger brothers and sisters too."
+  },
+  {
+   "title": "Charged Up: The Story of Electricity",
+   "author": "Jacqui Bailey",
+   "for": "read alone",
+   "age": "7–10",
+   "why": "A funny comic-style history, from rubbed amber to power stations, with experiments to try."
+  },
+  {
+   "title": "The Boy Who Harnessed the Wind",
+   "author": "William Kamkwamba and Bryan Mealer",
+   "for": "parent reads",
+   "age": "8–12 (young readers' edition)",
+   "why": "The true story of a boy in Malawi who built a windmill from scrap to bring electricity to his family's farm."
+  },
+  {
+   "title": "Electric Universe",
+   "author": "David Bodanis",
+   "for": "parent reads",
+   "age": "adult; read short parts aloud",
+   "why": "Lively true stories of the people who discovered electricity, for the parent to share."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is a complete circuit, and what happens if there is a gap anywhere in it?",
+   "a": "A loop from one end of the cell, through the parts, back to the other end. A gap anywhere stops the current everywhere, so the bulb goes out."
+  },
+  {
+   "q": "What is an electric current in a copper wire?",
+   "a": "A flow of electrons, tiny negatively charged particles that were already in the wire, pushed round the loop by the cell."
+  },
+  {
+   "q": "Name three conductors and three insulators, and say the pattern.",
+   "a": "Conductors: steel, copper, aluminium foil, pencil lead. Insulators: plastic, rubber, glass, dry wood. The pattern: metals conduct, and so does graphite. Most other solids don't."
+  },
+  {
+   "q": "Why did the salty water make lots of bubbles but the battery water almost none?",
+   "a": "Dissolved salt breaks into charged particles that carry current. Battery water is pure, with almost nothing dissolved, so hardly any current flows."
+  },
+  {
+   "q": "Why is the earth pin of a plug longer, and what does the earth wire do?",
+   "a": "So it connects first. The earth wire joins the metal case of an appliance to the ground, so any leaked current goes into the ground instead of through a person."
+  },
+  {
+   "q": "Two cells light one bulb. What happens if you add two more bulbs in the same loop? What if you wire them side by side instead?",
+   "a": "In one loop, all three glow dimmer, because they share the push and hold back more current. Side by side, each has its own path, so each glows about as bright as one bulb alone."
+  },
+  {
+   "q": "Give three rules for a thunderstorm, with a reason for one.",
+   "a": "Go indoors, get out of the water and off the terrace, and don't shelter under a lone tall tree. Reason: lightning strikes tall things, and water conducts."
+  }
+ ],
+ "story": {
+  "title": "The Crow on the Wire",
+  "text": [
+   "I am a crow, and I live on the wires. Every morning I sit on the power line that runs past the terrace of a yellow building in Hyderabad. From there I can see the whole lane: the tea stall, the small temple, the milk van, and the terrace where Sravani's mother dries red chillies on an old sari.",
+   "People are often surprised that I sit on the wire. 'Won't she get a shock?' a small boy once asked, pointing at me. I did not answer him, because crows don't explain themselves to boys. But I will explain it to you.",
+   "Electricity flows only where it has a path. If I sit on one wire and nothing else touches me, there is no path through my body to the ground, or to another wire. So the current stays in the wire, and I stay comfortable. My mother taught me this, and her mother taught her. We never touch two wires at once. We never sit with one foot on the wire and one wing on the metal pole. Years ago, an old crow in our lane landed with his wing against the pole while his feet were on the wire. He never flew again. We remember him.",
+   "In January comes Sankranti, and the sky over Hyderabad fills with paper kites. Children shout from every terrace. The strings, called manja, are coated with powdered glass so they can cut other strings. They can cut a bird's wing too. So for those three days, my family and I fly low and sit close to the walls.",
+   "On the first morning of Sankranti, Sravani and her little brother Kittu were on the terrace with a red and yellow kite. Sravani was ten. She held the string the way her mother had shown her, with a cloth wrapped round her finger. Kittu held the spool and talked without stopping.",
+   "The kite climbed well. Then the wind dropped. The kite dipped, swung sideways, and its string fell across my wire, a little way down from me. The kite hung there, above the lane, shaking in the breeze. It was two arm-lengths from the terrace wall.",
+   "'I'll get it!' said Kittu. He ran downstairs before Sravani could say anything. He came back carrying his mother's long steel curtain rod. The terrace floor was still wet, because their mother had washed it that morning. Kittu dragged a bucket to the wall, turned it over, and climbed on top. He lifted the rod towards the wire.",
+   "'Stop!' shouted Sravani. Kittu stopped, the rod in the air.",
+   "I watched her face. She was thinking hard. I learned later that the week before, she and her mother had made a little circuit at the dining table with two cells, a bulb and some wires. The bulb had lit only when the loop was complete, from the cell, through the bulb and back. Any gap, and it went dark. They had tested a steel spoon, which lit the bulb, and a plastic one, which did not. And they had tested salty water, which made bubbles fizz at the pencil leads, because salty water lets electricity through.",
+   "Now she looked at her brother: one hand on a steel rod reaching for the wire, his feet on a wet floor. She saw a path. From the wire, through the steel, into Kittu's hand, through Kittu's body, which is mostly salty water, down his legs, through the wet floor, into the building, and into the ground.",
+   "'Put it down,' she said quietly. 'Slowly. Put it down on the floor.'",
+   "Kittu lowered the rod. 'But the crow sits on it,' he said, pointing at me. 'She's fine.'",
+   "'The crow touches only the wire,' said Sravani. 'Nothing joins her to the ground. You would be holding the wire with one end of a steel rod while you stand on a wet floor. You would be the path. You would be the bulb.'",
+   "Kittu looked at the rod as if it might bite him. Then he had another idea. 'A wooden stick, then. Wood is an insulator. You said so.'",
+   "Sravani opened her mouth, and then closed it. 'Dry wood is,' she said slowly. 'But I don't know if that stick is dry all the way through. And our cell was only one and a half volts. These wires push much harder than the sockets at home. We tested our things on a cell. We don't test on a power line.'",
+   "She took the spool from Kittu and cut the string with her mother's scissors. The string fell away from the kite, and the kite stayed hanging on my wire.",
+   "That afternoon, their mother called the electricity office. A lineworker came on a scooter, a woman named Padma with a coil of rope and a long yellow pole made of fibreglass, a material that does not conduct. She looked up at the kite. She looked at the bucket still standing by the terrace wall. 'Who stopped him?' she asked. Kittu pointed at his sister.",
+   "Padma asked the office to switch the line off. For ten minutes, the whole lane went quiet. The fans stopped in every flat. The tea stall's radio went silent. The temple's speaker stopped in the middle of a song. Padma tested the wire to make sure it was dead, then hooked the kite down with her pole. It was torn in two places. She gave it to Kittu anyway.",
+   "When the power came back, I flew down to my wire again. Below me, in every flat at once, the fans began to turn.",
+   "Kittu stood at the terrace wall with his torn kite and looked up at me for a long time. 'Does the crow know about paths?' he asked his sister.",
+   "Sravani looked at me too. 'She knows not to touch two things at once,' she said. 'That's enough.'",
+   "I fluffed my feathers and said nothing. It was Sankranti, after all, and the sky was full of strings."
+  ],
+  "epiphany": "For the parent: the crow is safe on the wire and Kittu would not be, because electricity flows only where there is a complete path. The story turns when Sravani sees that the steel rod, Kittu's salty body and the wet floor would join the wire to the ground, with Kittu in the middle. She also sees the limit of what she knows: tests with a 1.5 volt cell can't tell you what is safe on a power line.",
+  "ask": [
+   "Why is the crow safe sitting on the power line?",
+   "Which three things would have made a path from the wire to the ground through Kittu?",
+   "Why didn't Sravani agree that a wooden stick would be safe?",
+   "When Padma switched off the line, the fans, the radio and the temple speaker all stopped. What does that tell you about the wires in the lane?",
+   "What is Sankranti like for the crow and her family? How is it different for Kittu?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Electricity flows only where there is a complete path, and it flows through anything that makes one.",
+   "more": "A wire, a bulb, salty water and a human body can all be part of a path. Staying safe means never letting your body be the path between a live wire and the ground. Show it with the tester: the bulb lights through a steel spoon, salty water or anything else that completes the gap."
+  },
+  {
+   "idea": "The wire is full of electrons before the cell is joined.",
+   "more": "A cell does not fill a wire with electricity. It pushes the electrons that are already there, all together. That is why the bulb lights at once, though each electron moves slower than an ant."
+  },
+  {
+   "idea": "Living bodies run on electricity too.",
+   "more": "Your nerves and heart work with tiny electrical signals. That is why a big current from outside is so dangerous to them. Other beings use electricity in their own ways: an electric eel finds food in muddy water with electric pulses, and a bumblebee can sense the charge around a flower."
+  },
+  {
+   "idea": "How things are joined changes what they do.",
+   "more": "The same three bulbs glow dimly in one loop and brightly side by side. Homes are wired side by side, in parallel, so each light gets the full push and works on its own."
+  }
+ ],
+ "unknowns": [
+  "How exactly does lightning start inside a cloud? The electric charge measured inside storm clouds seems too weak to start a spark on its own, and scientists are still testing ideas about what sets it off.",
+  "Can we make a wire that carries current with no resistance at room temperature? Some materials, called superconductors, do this only when very cold. Nobody has yet made one that works in ordinary conditions.",
+  "How do the tiny electrical signals in the brain become thoughts, feelings and the experience of seeing? Scientists can record the signals, but nobody knows the whole answer.",
+  "How many animals sense electric charge in the air? Scientists found that bees and some spiders do it only in the 2010s, and scientists are still finding out how they use it."
+ ]
+}

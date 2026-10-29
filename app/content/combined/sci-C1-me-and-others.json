@@ -1,0 +1,1120 @@
+{
+ "key": "combined|sci|1|me-and-others",
+ "board": "combined",
+ "subj": "sci",
+ "level": 1,
+ "n": "me-and-others",
+ "day_mins": 30,
+ "title": "Me and others: how people are alike and how each one is different",
+ "source": "DeepKids Combined. Covers Cambridge Stage 1 Biology Unit 3.1 'We are similar' (the same body parts, the same needs, things we share) and Unit 3.2 'We are different' (hair, height, eyes, likes and dislikes, sorting people into groups). No textbook needed.",
+ "summary": "Every person in the world has the same main body parts and needs the same things to live. Yet no two people are exactly alike, not even twins. Your child measures a pattern that is true for nearly every body, finds out who in the family is left-handed, tests whether everyone likes the same tastes, and learns to know people by their voices with eyes shut. They meet a scientist who named chimpanzees instead of numbering them, and a scientist who tells tigers apart by their stripes. Then they draw feelings, act out a story about a visitor who looks scary, and play a game of Guess Who I Am.",
+ "builds_on": "This is the first rung. Class 2 (genes) shows why children look like their parents but never exactly the same. Class 3 comes back to this topic with fingerprints, surveys and tally charts, sorting people into many groups, why skin comes in many shades, and seeing the world from another person's place.",
+ "subconcepts": [
+  "similar and different: what the two words mean",
+  "all people have the same main body parts",
+  "all people need the same things: air, water, food, sleep, a safe home and people who care",
+  "a pattern in every body: arm span is about the same as height",
+  "all people are one family, far back in time",
+  "no two people are exactly alike, not even twins",
+  "differences we can see: height, hair, eyes, skin and face",
+  "differences we cannot see: what we like, what we find easy or hard",
+  "left-handed and right-handed people",
+  "we know each other by face, voice and smell",
+  "people who see, hear or move differently use their bodies in other ways",
+  "other animals are like us too, and each one is different from the rest",
+  "everyone has feelings, and faces and bodies show them",
+  "how someone looks does not tell you what they are like inside"
+ ],
+ "goals": [
+  "By the end your child can say four ways all people are similar and four ways people are different.",
+  "By the end your child can measure their arm span and height and say what they found.",
+  "By the end your child can sort the family into groups by one feature, such as the hand they write with.",
+  "By the end your child can explain, from their own test, why one food can be loved by one person and disliked by another.",
+  "By the end your child can name five feelings and show each one with their face and body.",
+  "By the end your child can say why you cannot tell what someone is like just by how they look."
+ ],
+ "words": [
+  [
+   "similar",
+   "alike in some way. You and your cousin are similar because you both have two eyes."
+  ],
+  [
+   "different",
+   "not the same. Your hair may be curly and your friend's hair straight."
+  ],
+  [
+   "feature",
+   "one part of how a person looks or is, like height, hair or the hand they write with"
+  ],
+  [
+   "arm span",
+   "how far it is from the tip of one middle finger to the other, with arms stretched out wide"
+  ],
+  [
+   "left-handed",
+   "using the left hand more, for writing, throwing and holding a spoon"
+  ],
+  [
+   "identical twins",
+   "two babies born together who came from one tiny egg, so they look almost the same"
+  ],
+  [
+   "feelings",
+   "what happens inside you, like happy, sad, angry or scared. Scientists also call them emotions."
+  ],
+  [
+   "individual",
+   "one person or one animal, different from every other one"
+  ]
+ ],
+ "days": [
+  {
+   "n": 1,
+   "title": "What everyone has",
+   "goal": "Find out that all people share the same main body parts and the same needs.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The family photo",
+     "mins": 6,
+     "do": "Show your child a photo of many people, from a wedding, a birthday or a festival. Ask: 'What is the same about all these people?' Good answers: two eyes, a nose, a mouth, two arms, hair, everyone is wearing clothes. Then ask: 'Is anyone here exactly the same as someone else?' (No.) Say: 'Things that are alike are called similar. Things that are not the same are called different.'"
+    },
+    {
+     "kind": "act",
+     "title": "Mirror partners",
+     "mins": 12,
+     "do": "Stand with your child in front of a mirror. Say: 'Let us find five ways we are similar.' Point to each one together: two eyes, two ears, one nose, ten fingers, teeth, eyebrows. Then say: 'Now find five ways we are different.' Good answers: height, hair length, a mole or a dimple, glasses, the shape of the nose, the size of the hands. Put your hand flat against your child's hand to compare. Ask: 'Which list was easier to make?' Let them answer. Most children find the 'similar' list easy and then notice more and more differences when they look closely."
+    },
+    {
+     "kind": "talk",
+     "title": "What every person needs",
+     "mins": 8,
+     "do": "Ask: 'What does every person need to stay alive, in Chennai, in Kashmir or in Kenya?' Give time to think. Good answers: air to breathe, water, food, sleep, a safe home, clothes to keep warm or cool, and people who care for them. Write each answer on a card. Then ask: 'Does a baby need these? Does Paati or Nani need them?' (Yes, everyone.) Say: 'In these big ways, every person in the world is similar.'"
+    },
+    {
+     "kind": "think",
+     "title": "Start the family book",
+     "mins": 4,
+     "do": "Staple six sheets of paper into a book. Your child writes 'Our family: alike and different' on the cover and draws everyone who lives at home. Say: 'Each day we will add a page.' Put the needs cards from today inside the front cover."
+    }
+   ],
+   "need": [
+    "a photo of many people",
+    "a mirror",
+    "small cards or paper and a pencil",
+    "six sheets of paper and a stapler"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "A pattern in every body",
+   "goal": "Measure height and arm span and find a pattern that is true for people of every size.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the mirror",
+     "mins": 4,
+     "do": "Ask: 'Yesterday we found ways we are similar. Can you remember three?' (Two eyes, ten fingers, we all need food and water.) Say: 'Today we will find a hidden way people are similar. You cannot see it in a mirror. We have to measure it.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Arm span and height",
+     "mins": 18,
+     "do": "Do Experiment e1. First ask: 'If you stretch your arms out wide, will it be longer than you are tall, shorter, or the same?' Write down the guess and the reason. Then measure your child's height and arm span with string, as the experiment says. Measure two or three other people at home too. Lay each person's two strings side by side on the floor. Ask: 'What do you see?' (For each person the two strings are about the same length, even though the people are different sizes.)",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "One big family",
+     "mins": 8,
+     "do": "Say: 'Tall people and short people, babies and grown-ups: our bodies are all built on the same plan.' Ask: 'Why might all people be built the same way?' Listen to the guess. Then say: 'All people alive today are one kind of living thing, called human beings. Long, long ago, we all had the same great-great-great grandparents. So every person in the world is a far-away cousin.' Ask: 'Is a dog built on a plan a bit like ours?' (Yes: two eyes, a nose, a mouth, a heart, bones inside.) Glue the strings for your child onto a page of the family book."
+    }
+   ],
+   "need": [
+    "a ball of string or wool",
+    "scissors (a grown-up cuts)",
+    "a pencil",
+    "glue or tape",
+    "the family book"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "No two alike",
+   "goal": "See the many ways people differ, and that being left-handed or right-handed is one of them.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Line up",
+     "mins": 6,
+     "do": "Ask everyone at home to stand in a line from shortest to tallest. Then ask them to line up from shortest hair to longest hair. Ask your child: 'Did the line change?' (Yes.) Say: 'Each feature puts people in a different order. Height is one feature. Hair is another feature.'"
+    },
+    {
+     "kind": "act",
+     "title": "My self-portrait and my name",
+     "mins": 14,
+     "do": "Do Activity a1. Your child looks in a mirror and draws their own face, as carefully as they can: the shape of the eyes, the hair, any mole or dimple. Then ask a grown-up why they chose your child's name and what it means. Write the name and its meaning under the picture. Ask: 'Does anyone else in the world look exactly like this drawing?' (No.) Say: 'Even identical twins, who came from one tiny egg, are not exactly the same. Their fingerprints are different, and they like different things.'",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Left hand or right hand?",
+     "mins": 10,
+     "do": "Ask each person at home to show which hand they use to write, to throw a ball and to brush their teeth. Your child makes two groups on paper: 'left' and 'right'. Draw a face for each person in their group. Ask: 'Which group is bigger?' Say: 'About 1 person in every 10 is left-handed. Nobody fully knows why.' Ask: 'Is it better to be left-handed or right-handed?' (Neither. They are just different.) Add the groups to the family book."
+    }
+   ],
+   "need": [
+    "a mirror",
+    "paper, pencil and crayons",
+    "the family book"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Same tongue, different likes",
+   "goal": "Test whether everyone likes the same tastes, and sort what we share from what we do not.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "The taste test",
+     "mins": 14,
+     "do": "Do Experiment e2. First ask your child: 'Will everyone at home like the same tastes?' Write down the guess. Give each person a tiny taste of jaggery, lemon, a pinch of salt and one slice of bitter gourd (karela) or one soaked fenugreek (methi) seed. Each person shows thumbs up, thumbs sideways or thumbs down. Your child fills in the table. Ask: 'Did everyone choose the same?' (Usually not.) Ask: 'We all have tongues. So why do we like different tastes?' Good answers: we grew up eating different things, our tongues are a little different, we just like what we like.",
+     "ref": "e2"
+    },
+    {
+     "kind": "act",
+     "title": "Two circles",
+     "mins": 10,
+     "do": "Do Activity a2. Draw two big circles that overlap in the middle, like two bangles lying across each other. Write your child's name over one and yours over the other. Ask five questions: favourite food, favourite colour, favourite game, a food you dislike, something you are scared of. If you both have the same answer, your child draws it in the middle part. If not, each answer goes in its own circle. Ask: 'Which part has more?' Say: 'The middle shows how we are similar. The outside parts show how we are different. Both are true at once.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 6,
+     "do": "Do worksheet ws1 together. Read each question aloud. For the two 'why' questions, ask your child to tell you the answer first, then help them write one or two words or draw it.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a small piece of jaggery",
+    "half a lemon",
+    "salt",
+    "one slice of bitter gourd or a few fenugreek seeds soaked overnight",
+    "a spoon for each person",
+    "paper and pencil",
+    "the worksheet"
+   ],
+   "prep": [
+    {
+     "task": "Soak a few fenugreek (methi) seeds in water, if you have no bitter gourd",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "How we know each other",
+   "goal": "Find out that we know people by voice as well as face, and that animals are individuals too.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Whose voice is it?",
+     "mins": 12,
+     "do": "Do Experiment e3. Your child sits with eyes shut. Two or three people stand behind them and take turns to say the same words: 'Good morning, Lakshmi' (use your child's name). Your child says who spoke. Then one person tries to change their voice. Ask: 'How did you know who it was without looking?' (Each voice sounds different.) Say: 'People who cannot see often know voices very well. Many read with their fingers, using raised dots called Braille. Many people who cannot hear talk with their hands, in sign language.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Every tiger is different",
+     "mins": 8,
+     "do": "Show a picture of a tiger in a book or on a phone. Ask: 'Do all tigers look the same?' Let your child guess. Then tell voice v2: Ullas Karanth, a scientist in Karnataka, put cameras in the forest that take a photo when an animal walks past. He found that no two tigers have the same stripes, so he could tell each tiger apart and count them. Ask: 'Can you find something that makes each crow or each pigeon at the window different?' (Look together for a day or two: a bent feather, a limp, a different colour.)",
+     "ref": "v2"
+    },
+    {
+     "kind": "talk",
+     "title": "Names, not numbers",
+     "mins": 10,
+     "do": "Tell voice v1: Jane Goodall went to a forest in Tanzania in 1960 to watch chimpanzees. She gave each chimpanzee a name, like David Greybeard, and saw that each one had their own way of behaving. Some scientists said she should use numbers, not names. Ask: 'Why do you think she wanted to use names?' Let your child answer. Then ask: 'Is a chimpanzee more like a person or more like a stone? Why?' Good answers: like a person, because they eat, play, feel, have a family and know each other.",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "a picture of a tiger (in a book or on a phone)"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Everyone has feelings",
+   "goal": "Name feelings, show them with face and body, and find that everyone has them.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "How many feelings?",
+     "mins": 6,
+     "do": "Ask: 'How many feelings do you know?' Write down every one your child names. Help with a few more: happy, sad, angry, scared, surprised, shy, proud, bored, lonely, excited. Say: 'Feelings are what happens inside you. Scientists also call them emotions.' Count the list together."
+    },
+    {
+     "kind": "act",
+     "title": "Draw and act feelings",
+     "mins": 12,
+     "do": "Do Activity a3. Your child draws five faces, one for each of five feelings. Then play: one person acts out a feeling with their face and body, without words. The others guess. Ask: 'When you are scared, what does your body do?' (Heart beats fast, shoulders go up, I want to hide.) Ask: 'Do grown-ups feel scared too?' (Yes.) Say: 'Every person has feelings. Different things make different people feel them.'",
+     "ref": "a3"
+    },
+    {
+     "kind": "talk",
+     "title": "Does a smile mean the same everywhere?",
+     "mins": 6,
+     "do": "Tell voice v3 in short: Paul Ekman, a scientist, showed photos of faces to people in many places, and said a few feelings show on every face in the same way. Another scientist, Lisa Feldman Barrett, found that people often read faces differently, and that one feeling can look different on different people. Ask: 'When you are happy, do you always smile?' (Sometimes you cry from happiness, or keep a straight face.) Say: 'Scientists still argue about this.'",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 6,
+     "do": "Do worksheet ws2 together. Read each question aloud. Let your child explain the 'why' questions in words before writing.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "paper and crayons",
+    "the worksheet"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Become the other",
+   "goal": "Hear a story about a visitor who looks scary, then act it out and play the other side.",
+   "steps": [
+    {
+     "kind": "read",
+     "title": "Read the story",
+     "mins": 10,
+     "do": "Read the story 'The Visitor under Kavya's Bed' aloud. Before the end, stop at the line where Kavya sees the visitor's hands shaking. Ask: 'Why do you think his hands are shaking?' Let your child guess, then read to the end."
+    },
+    {
+     "kind": "talk",
+     "title": "Talk about the story",
+     "mins": 6,
+     "do": "Ask the story questions. Good answers to listen for: Kavya was scared because of his horns and claws. The visitor was scared too. They were alike inside, even though they looked very different. Ask: 'Can you tell what someone is like just by looking at them?' (No. You have to get to know them.)"
+    },
+    {
+     "kind": "act",
+     "title": "Act it out, then swap",
+     "mins": 14,
+     "do": "Do Activity a4. Make horns from rolled newspaper and claws from paper. Act the story with your child as Kavya and you as the visitor. Then swap: your child plays the visitor. Ask afterwards: 'How did it feel to be the visitor? What did you want Kavya to know?' Good answer: 'I wanted her to know I was scared too and I only wanted a friend.'",
+     "ref": "a4"
+    }
+   ],
+   "need": [
+    "old newspaper",
+    "tape",
+    "paper and scissors (a grown-up cuts)"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Guess who I am, and teach it back",
+   "goal": "Play the game, finish the last worksheet, and teach the family what we found.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Guess Who I Am",
+     "mins": 10,
+     "do": "Play game g1 with the printed cards. A grown-up reads the clues on each card one at a time. After each clue, the players may guess. Ask after a few rounds: 'Which clue helped you most? Why?' (The clue that is different from everyone else, like stripes or a trunk.)",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 6,
+     "do": "Do worksheet ws3 together. Read each question aloud. For the 'pick a side' question, let your child choose, give a reason from this week, then say what the other person would answer back.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 8,
+     "do": "Ask the check questions aloud. Listen for answers that use what your child did: the strings, the hand groups, the taste table, the voice test and the story. If an answer is unsure, open the family book to that page and look again."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 6,
+     "do": "Your child shows the family book to someone at home or on a video call. They explain one way all people are similar, one way people are different, and one thing they found that surprised them. Ask the listener to ask one question."
+    }
+   ],
+   "need": [
+    "the printed game cards, cut out",
+    "the worksheet",
+    "the family book"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Alike and different",
+   "day": 4,
+   "sections": [
+    [
+     "A. Similar or different?",
+     [
+      {
+       "t": "sort",
+       "p": "Is this the same for every person, or different for each person?",
+       "items": [
+        "has a nose",
+        "needs water",
+        "favourite food",
+        "height",
+        "needs sleep",
+        "hair",
+        "has a heart"
+       ],
+       "cats": [
+        "same for everyone",
+        "different for each person"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which word means 'alike in some way'?",
+       "opts": [
+        "similar",
+        "different",
+        "tall"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Every person needs air, water, food and ____ to stay alive.",
+       "a": [
+        "sleep",
+        "a home",
+        "shelter",
+        "love"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Your tests",
+     [
+      {
+       "t": "mcq",
+       "p": "You measured arm span and height with string. For most people, what did you find?",
+       "opts": [
+        "The two strings were about the same length.",
+        "Arm span was twice as long.",
+        "Height was twice as long."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In the taste test, everyone tasted lemon. What usually happens?",
+       "opts": [
+        "Some people like it and some do not.",
+        "Everyone likes it.",
+        "Nobody can taste it."
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each person to the feature that is different.",
+       "pairs": [
+        [
+         "Meena is tall, her brother is short",
+         "height"
+        ],
+        [
+         "Anbu has curly hair, Divya's is straight",
+         "hair"
+        ],
+        [
+         "Farah writes with her left hand",
+         "hand used"
+        ],
+        [
+         "Gita loves karela, her sister does not",
+         "likes"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Write or draw two ways you and a grown-up at home are similar, and two ways you are different.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "We all have tongues. Why do you think people like different tastes?",
+       "lines": 2
+      },
+      {
+       "t": "draw",
+       "p": "Draw two circles that overlap. Put things you and a friend both like in the middle."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Voices, stripes and feelings",
+   "day": 6,
+   "sections": [
+    [
+     "A. Knowing each other",
+     [
+      {
+       "t": "mcq",
+       "p": "Your eyes are shut and someone says 'Hello'. How can you know who it is?",
+       "opts": [
+        "Each voice sounds different.",
+        "All voices sound the same.",
+        "You cannot know."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Ullas Karanth is a scientist who counts tigers with cameras. How does he tell one tiger from another?",
+       "opts": [
+        "No two tigers have the same stripes.",
+        "Every tiger is a different colour.",
+        "Tigers wear name tags."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Two babies born together from one tiny egg are called identical ____.",
+       "a": [
+        "twins"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "How would a person who cannot see find out each thing?",
+       "items": [
+        "who is at the door",
+        "what a story book says",
+        "if the tea is hot",
+        "if a flower is jasmine"
+       ],
+       "cats": [
+        "hearing",
+        "touch",
+        "smell"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Feelings",
+     [
+      {
+       "t": "match",
+       "p": "Match each feeling to what the body might do.",
+       "pairs": [
+        [
+         "scared",
+         "heart beats fast, wants to hide"
+        ],
+        [
+         "happy",
+         "smiles, jumps"
+        ],
+        [
+         "sad",
+         "cries, looks down"
+        ],
+        [
+         "angry",
+         "face goes hot, fists close"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi's little brother cries when the pressure cooker whistles. Lakshmi does not. What does this show?",
+       "opts": [
+        "Different things make different people scared.",
+        "Lakshmi has no feelings.",
+        "Crying is wrong."
+       ],
+       "a": 0
+      },
+      {
+       "t": "draw",
+       "p": "Draw your face when you are proud of something. Write what made you proud."
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Jane Goodall gave each chimpanzee a name instead of a number. Why do you think names helped her?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Your friend is smiling, but her eyes look wet. What could she be feeling? How could you find out?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Looks, insides and other sides",
+   "day": 8,
+   "sections": [
+    [
+     "A. Think it through",
+     [
+      {
+       "t": "mcq",
+       "p": "A man is 150 cm tall. About how long is his arm span?",
+       "opts": [
+        "about 150 cm",
+        "about 50 cm",
+        "about 300 cm"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In Kavya's family, Amma, Appa and Kavya are right-handed. Kavya's baby cousin is left-handed. Which is true?",
+       "opts": [
+        "Both ways are normal. They are just different.",
+        "Left-handed is wrong.",
+        "The cousin will change when she grows."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "One person, or one animal, different from every other one, is called an ____.",
+       "a": [
+        "individual"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Can you see it by looking, or do you have to ask or test?",
+       "items": [
+        "hair colour",
+        "favourite food",
+        "height",
+        "what makes them scared",
+        "if they wear glasses",
+        "if they are left-handed"
+       ],
+       "cats": [
+        "see by looking",
+        "ask or test"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Pick a side",
+     [
+      {
+       "t": "write",
+       "p": "Pick a side. In the story, Kavya meets a visitor with horns and claws. Divya says: 'Horns and claws are scary. Kavya was right to be scared at first.' Meera says: 'You cannot tell what someone is like from how they look. Kavya should have asked first.' Who do you agree with? Give a reason. Then say what the other girl would answer back.",
+       "lines": 3,
+       "a": "A strong answer picks a side and gives a reason (being careful keeps you safe, or the visitor was kind and scared too). Then it answers back fairly from the other side. Both views have sense in them."
+      }
+     ]
+    ],
+    [
+     "C. What if?",
+     [
+      {
+       "t": "write",
+       "p": "What if every person in the world looked exactly the same? Write one good thing and one problem.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Your grandmother and you are very different in age. Write two ways you are still similar.",
+       "lines": 2
+      },
+      {
+       "t": "draw",
+       "p": "Draw yourself as a baby and yourself now. Circle one thing that changed and one thing that stayed the same."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Arm span and height",
+   "day": 2,
+   "question": "Is your arm span the same as your height?",
+   "need": [
+    "a ball of string or wool",
+    "scissors (a grown-up cuts)",
+    "a pencil",
+    "a wall and a flat floor"
+   ],
+   "steps": [
+    "Your child stands with their back and heels against a wall. Lay a book flat on top of their head and mark the wall under it with a pencil.",
+    "Hold the end of the string on the floor and stretch it up to the mark. Cut it there. This string is their height.",
+    "Your child stretches both arms out wide, flat against the wall. Stretch a new piece of string from the tip of one middle finger to the other. Cut it. This string is their arm span.",
+    "Lay the two strings side by side on the floor.",
+    "Do the same for two or three other people at home."
+   ],
+   "predict": "Ask your child to guess first: 'Will your arm span be longer than your height, shorter, or about the same? Why do you think so?'",
+   "observe": "For each person, the two strings are about the same length. They may differ by a few centimetres. A tall person has long strings and a short person has short strings, but the pair matches for each person.",
+   "why": "People are different sizes, but all human bodies grow on the same plan. As a body grows taller, the arms grow longer too, so arm span stays close to height. Tailors and doctors use patterns like this, because they are true for nearly everyone.",
+   "safety": "A grown-up uses the scissors.",
+   "time": "18 min"
+  },
+  {
+   "id": "e2",
+   "title": "The taste test",
+   "day": 4,
+   "question": "Does everyone like the same tastes?",
+   "need": [
+    "a small piece of jaggery",
+    "half a lemon",
+    "a pinch of salt",
+    "one slice of bitter gourd, or a few fenugreek seeds soaked overnight",
+    "a spoon for each person",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Draw a table. Write the four tastes along the top: sweet jaggery, sour lemon, salty salt, bitter karela or methi. Write each person's name down the side.",
+    "Give each person a tiny taste of one food at a time, with a sip of water between.",
+    "After each taste, the person shows thumbs up (I like it), thumbs sideways (it is all right) or thumbs down (I do not like it).",
+    "Your child draws the thumb in the table.",
+    "Look at each column. Did everyone choose the same?"
+   ],
+   "predict": "Ask: 'Will everyone like the same tastes? Which taste will most people like?'",
+   "observe": "Usually most people like the jaggery, but the lemon, salt and bitter taste get different thumbs from different people.",
+   "why": "Everyone has a tongue with taste buds that sense sweet, sour, salty and bitter. But people like different tastes. Part of it is the body: some people find bitter food much stronger than others do. Part of it is what each person grew up eating. So the same tongue can still have its own likes.",
+   "safety": "Tiny tastes only. Check for allergies first. Do not give whole fenugreek seeds to a child who might choke; one soft soaked seed is enough.",
+   "time": "14 min"
+  },
+  {
+   "id": "e3",
+   "title": "Whose voice is it?",
+   "day": 5,
+   "question": "Can you tell people apart by their voices alone?",
+   "need": [
+    "two or three people",
+    "a quiet room"
+   ],
+   "steps": [
+    "Your child sits on a chair with eyes shut, or with a soft cloth tied over the eyes.",
+    "Two or three people stand quietly behind them.",
+    "Point to one person. That person says: 'Good morning,' and your child's name.",
+    "Your child says who it was. Do this five times, in a mixed-up order.",
+    "Now one person changes their voice, deep or squeaky. Can your child still tell?"
+   ],
+   "predict": "Ask: 'Will you know who is speaking without looking? Will a changed voice fool you?'",
+   "observe": "Your child almost always knows each person. A changed voice is harder, but often they still guess right.",
+   "why": "Every person's voice is different, because the parts in the throat, mouth and nose that make the sound are a little different in each person, and each person has their own way of speaking. Babies learn their mother's voice even before they are born. So we know people by face, by voice, and even by smell.",
+   "safety": "Clear the floor around the chair, so nobody trips while eyes are shut.",
+   "time": "12 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "My self-portrait and my name",
+   "day": 3,
+   "mins": 14,
+   "need": [
+    "a mirror",
+    "paper, pencil and crayons"
+   ],
+   "steps": [
+    "Your child looks in the mirror for one minute without drawing. They notice the shape of the eyes, the eyebrows, the hair and any mole, scar or dimple.",
+    "They draw their face, large, filling the page.",
+    "A grown-up tells why they chose your child's name and what it means.",
+    "Write the name and its meaning under the drawing.",
+    "Put the page in the family book."
+   ],
+   "outcome": "A self-portrait with the meaning of your child's name, and the idea that there is only one person who looks like this."
+  },
+  {
+   "id": "a2",
+   "title": "Two circles",
+   "day": 4,
+   "mins": 10,
+   "need": [
+    "a big sheet of paper",
+    "pencil and crayons"
+   ],
+   "steps": [
+    "Draw two big circles that overlap in the middle.",
+    "Write your child's name above one circle and another person's name above the other.",
+    "Ask both people five questions: favourite food, favourite colour, favourite game, a food you dislike, something that scares you.",
+    "Same answer: draw it in the middle. Different answers: draw each in its own circle.",
+    "Count what is in the middle and what is outside."
+   ],
+   "outcome": "A picture that shows how two people are similar and different at the same time."
+  },
+  {
+   "id": "a3",
+   "title": "Draw and act feelings",
+   "day": 6,
+   "mins": 12,
+   "need": [
+    "paper and crayons"
+   ],
+   "steps": [
+    "Your child chooses five feelings from the list made today.",
+    "They draw one face for each feeling and write its name under it.",
+    "Take turns: one person acts a feeling with face and body, with no words.",
+    "The others guess the feeling.",
+    "After each guess, ask: 'What made you guess that? The eyes, the mouth, the shoulders?'"
+   ],
+   "outcome": "Five feeling faces for the family book, and practice reading feelings in faces and bodies."
+  },
+  {
+   "id": "a4",
+   "title": "Act the story, then swap",
+   "day": 7,
+   "mins": 14,
+   "need": [
+    "old newspaper",
+    "tape",
+    "paper and scissors (a grown-up cuts)"
+   ],
+   "steps": [
+    "Roll two sheets of newspaper into cones and tape them to a strip of paper, to make horns that tie round the head.",
+    "Cut ten paper claws and tape them lightly to the fingers.",
+    "Act the story: your child is Kavya and the grown-up is the visitor.",
+    "Swap: your child wears the horns and claws and plays the visitor.",
+    "Talk: 'How did it feel to be the one everyone was scared of?'"
+   ],
+   "outcome": "A short play acted twice, from both sides."
+  }
+ ],
+ "project": {
+  "title": "Our family book: alike and different",
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   8
+  ],
+  "steps": [
+   "Day 1: make the book and draw everyone at home on the cover.",
+   "Day 2: glue in the height and arm span strings, with each person's name.",
+   "Day 3: add the self-portrait with the meaning of the name, and the left-hand and right-hand groups.",
+   "Day 4: add the taste table and the two circles.",
+   "Day 6: add the five feeling faces.",
+   "Day 8: show the book to the family and explain each page."
+  ],
+  "outcome": "A home-made book that shows how the people in your family are all similar and each one different."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Guess Who I Am",
+  "kind": "cards",
+  "players": "2–5",
+  "need": [
+   "the printed cards, cut out"
+  ],
+  "rules": [
+   "Shuffle the cards and put them face down.",
+   "A grown-up picks up a card and reads the first clue only.",
+   "Anyone may guess. If nobody is right, read the next clue.",
+   "A right guess after one clue wins 3 points, after two clues 2 points, after three clues 1 point.",
+   "Turn the card over to check the answer.",
+   "After each card, ask: 'Which clue told you the most?'",
+   "The player with the most points at the end wins."
+  ],
+  "cards": [
+   {
+    "front": "1. I have two eyes and two ears. 2. I have black and grey feathers. 3. I call 'kaa, kaa' from the window.",
+    "back": "a crow"
+   },
+   {
+    "front": "1. I have four legs. 2. I have orange fur. 3. No one else has stripes exactly like mine.",
+    "back": "a tiger"
+   },
+   {
+    "front": "1. I am a mammal, like you. 2. I have a very long nose. 3. I pick up food with my trunk.",
+    "back": "an elephant"
+   },
+   {
+    "front": "1. I am a person. 2. I am the same height as my arm span. 3. I am reading this card to you.",
+    "back": "the grown-up reading the card"
+   },
+   {
+    "front": "1. I am a person. 2. I am older than you. 3. I was a baby long before your parents were born.",
+    "back": "a grandparent"
+   },
+   {
+    "front": "1. I am two people. 2. We were born on the same day from one tiny egg. 3. We look almost the same, but our fingerprints are different.",
+    "back": "identical twins"
+   },
+   {
+    "front": "1. I live in a forest in Tanzania. 2. A scientist named Jane Goodall gave me a name. 3. I use grass stems to catch termites.",
+    "back": "a chimpanzee"
+   },
+   {
+    "front": "1. I am tiny. 2. I walk in a line with my sisters. 3. I carry sugar crumbs from the kitchen.",
+    "back": "an ant"
+   },
+   {
+    "front": "1. I am a person. 2. I write with my left hand. 3. About 1 person in 10 is like me.",
+    "back": "a left-handed person"
+   },
+   {
+    "front": "1. I have four legs and a tail. 2. I know you by your smell. 3. I wag my tail when I am happy.",
+    "back": "a dog"
+   },
+   {
+    "front": "1. I am green. 2. I have no eyes, but I turn my leaves to the light. 3. I live in a pot on the balcony.",
+    "back": "a potted plant, like a tulsi"
+   },
+   {
+    "front": "1. I am a person. 2. I cannot see. 3. I read books with my fingers, using raised dots.",
+    "back": "a person who reads Braille"
+   },
+   {
+    "front": "1. I have black and white stripes. 2. I look like a horse. 3. My stripes are different from every other one of my kind.",
+    "back": "a zebra"
+   },
+   {
+    "front": "1. I am a feeling. 2. My heart beats fast. 3. I want to hide.",
+    "back": "scared"
+   },
+   {
+    "front": "1. I am a feeling. 2. I make your face go hot. 3. Your hands close into fists.",
+    "back": "angry"
+   },
+   {
+    "front": "1. I am a person. 2. I talk with my hands. 3. I cannot hear, but I can see every word you sign.",
+    "back": "a person who uses sign language"
+   }
+  ]
+ },
+ "big": [
+  "If everyone in the world looked exactly the same, what would be good and what would be hard?",
+  "What is the same about you and a crow? What is different?",
+  "Are you the same person you were when you were a baby?",
+  "Can you ever know exactly what another person is feeling?"
+ ],
+ "challenge": [
+  {
+   "q": "Many people say pink is for girls and blue is for boys. Is that true?",
+   "hint": "Very young babies show no such choice. Scientists who tested toddlers found the liking for pink in girls appears at about 2 to 3 years old, around the time children learn which colours they are 'supposed' to like. In other times and places, the colour rules were different. Ask: who decides which colour is for whom?"
+  },
+  {
+   "q": "People say identical twins are exactly the same. Are they?",
+   "hint": "Identical twins grow from one tiny egg that split in two, so they look almost the same. But their fingerprints are different, and they can like different foods, games and friends. Ask: what makes a person who they are, if not only their body?"
+  },
+  {
+   "q": "In many stories, the one who looks scary is the bad one. Is that how real life works?",
+   "hint": "How someone looks does not tell you if they are kind or unkind. Jane Goodall had to watch each chimpanzee for a long time before she knew what each one was like. Ask: how long does it take to know someone?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "a tailor in Madurai",
+   "view": "A tailor measures every customer, because no two people are the same size. But she also knows patterns, like arm span being close to height, that hold for nearly everyone. Which helps her more, the sameness or the differences?"
+  },
+  {
+   "who": "a doctor",
+   "view": "A doctor can treat people from any country, because every human body has the same parts that work the same way. But she gives a small child a smaller dose than a grown-up. Why does she need to know both how people are alike and how each one is different?"
+  },
+  {
+   "who": "a crow at the window",
+   "view": "To a crow, people might all look like big, two-legged animals. Yet crows learn to know the faces of people who feed them. What do you think a crow notices about you?"
+  },
+  {
+   "who": "a child who uses a wheelchair",
+   "view": "She moves in a different way from most children, but she likes to play, learn and laugh like everyone else. What would she want other children to know?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Jane Goodall (1934–2025), England, scientist who studied chimpanzees",
+   "idea": "In 1960 Goodall began watching wild chimpanzees at Gombe in Tanzania. She gave each one a name and wrote about each one's own way of behaving. She saw a chimpanzee she named David Greybeard use grass stems to fish termites out of a mound.",
+   "then": "Some scientists said she should give the animals numbers, not names, and that talking about an animal's personality and feelings was not science. Many were also surprised that an animal other than humans made and used tools.",
+   "now": "Scientists now agree that chimpanzees, and many other animals, have their own personalities and feelings, and that each one is an individual. Tool use has been seen in many animals, including crows.",
+   "status": "accepted",
+   "ask": "Why might a number make it easier to forget that a chimpanzee has feelings? What would you need to see to know an animal is feeling happy?",
+   "day": 5
+  },
+  {
+   "id": "v2",
+   "who": "K. Ullas Karanth (born 1948), Karnataka, India, tiger scientist",
+   "idea": "In the 1990s, in Nagarahole forest in Karnataka, Karanth set up camera traps: cameras that take a photo when an animal walks past. Because each tiger's stripes are different, he could tell from the photos which tiger was which, and count how many tigers lived there.",
+   "then": "Before this, tigers were often counted from their pawprints, which is much less reliable, because pawprints of different tigers can look alike.",
+   "now": "Counting tigers with camera traps and their stripe patterns is now used across India and other countries.",
+   "status": "accepted",
+   "ask": "Why are stripes better than pawprints for telling tigers apart? What makes you different from everyone else in a way a camera could see?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Paul Ekman, USA, psychologist, and Lisa Feldman Barrett (born 1963), USA, psychologist",
+   "idea": "From the 1960s, Ekman showed photos of faces to people in many countries, including people in Papua New Guinea who had seen few outsiders. He said six feelings (happy, sad, angry, scared, surprised and disgusted) show on faces the same way everywhere. Barrett and others later tested people in different places in a different way, and found that people often do not read faces the same way, and that one person's anger can look very different from another's.",
+   "then": "Ekman's idea became very popular, and many books and computer programs were built on it.",
+   "now": "Scientists still argue. Many agree that some face signals are common across people. Many also agree that faces alone do not reliably tell you what someone feels, and that you need to know the person and what is happening.",
+   "status": "debated",
+   "ask": "If someone is smiling, are they always happy? What else could you look at, or ask, to find out?",
+   "day": 6
+  }
+ ],
+ "books": [
+  {
+   "title": "Same, Same But Different",
+   "author": "Jenny Sue Kostecki-Shaw",
+   "for": "read together",
+   "age": "4–8",
+   "why": "Two pen pals, one in the USA and one in India, find their lives are alike and different at the same time."
+  },
+  {
+   "title": "The Colour Monster",
+   "author": "Anna Llenas",
+   "for": "read together",
+   "age": "3–6",
+   "why": "A girl helps a monster sort out his mixed-up feelings, each with its own colour. Read it on the feelings day."
+  },
+  {
+   "title": "Chuskit Goes to School!",
+   "author": "Sujatha Padmanabhan",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A girl in Ladakh who uses a wheelchair longs to go to school, and the children of her village find a way."
+  },
+  {
+   "title": "We're All Wonders",
+   "author": "R. J. Palacio",
+   "for": "read together",
+   "age": "4–7",
+   "why": "A boy who looks different from other children asks them to look with kindness."
+  },
+  {
+   "title": "Me... Jane",
+   "author": "Patrick McDonnell",
+   "for": "read together",
+   "age": "4–8",
+   "why": "The true story of Jane Goodall as a girl, with her toy chimpanzee, dreaming of Africa."
+  }
+ ],
+ "check": [
+  {
+   "q": "Tell me two ways every person in the world is similar.",
+   "a": "Any two: the same main body parts (two eyes, a nose, a heart), the same needs (air, water, food, sleep, a home, people who care), we all have feelings."
+  },
+  {
+   "q": "Tell me three ways people can be different.",
+   "a": "Any three: height, hair, eyes, face, voice, the hand they write with, the foods they like, what makes them scared."
+  },
+  {
+   "q": "What did you find when you measured arm span and height with string?",
+   "a": "For each person, the two strings were about the same length, even though the people were different sizes."
+  },
+  {
+   "q": "Is it better to be left-handed or right-handed?",
+   "a": "Neither. Both are normal. About 1 person in 10 is left-handed."
+  },
+  {
+   "q": "How did you know who was speaking when your eyes were shut?",
+   "a": "Every person's voice sounds different, so I knew them by their voices."
+  },
+  {
+   "q": "How did Ullas Karanth tell one tiger from another?",
+   "a": "From camera photos. No two tigers have the same stripes."
+  },
+  {
+   "q": "In the story, why was the visitor's hand shaking? What does that tell you?",
+   "a": "He was scared too. Someone who looks scary can be kind and scared inside, so you cannot tell what someone is like just from how they look."
+  }
+ ],
+ "story": {
+  "title": "The Visitor under Kavya's Bed",
+  "text": [
+   "I am the one who lives under Kavya's bed. I have two curly horns, a coat of thick blue fur, and long claws on every finger. I do not eat children. I eat dust, mostly, and sometimes a lost biscuit.",
+   "Kavya lives in a flat in Madurai, on the fourth floor. Every night her Amma reads her a story, switches on the little night lamp, and looks under the bed. Amma always looks right at me. She never sees me. Grown-ups usually don't.",
+   "That night the fan was going round and round, and the jasmine in the window smelled sweet. Kavya's eyes were almost shut. I had been alone under that bed for a very long time. So I did something I had never done before. I came out.",
+   "I climbed up slowly, one claw at a time. I sat on the end of the bed. The bed went 'creak'.",
+   "Kavya opened her eyes. She saw my horns. She saw my claws. She pulled the sheet up to her nose.",
+   "'Go away!' she said. Her voice was a squeak. 'You are a monster!'",
+   "'I only wanted to say hello,' I said.",
+   "'You have horns,' said Kavya. 'And claws. Things with claws are scary.'",
+   "I looked down at my claws. I had never thought of them as scary. They were just my hands. I use them to dig in the dust and to scratch my ears.",
+   "'I don't hurt anyone with them,' I said. 'This is just how I look.'",
+   "Kavya did not answer. She was looking at my hands. They were shaking. I tried to keep them still, but they would not stop.",
+   "'Why are your hands shaking?' she asked.",
+   "I did not want to tell her. But it was the truth. 'Because I am scared,' I said. 'You are much bigger than me. And you shouted.'",
+   "Kavya let the sheet slip down a little. 'You are scared of me?'",
+   "'Yes,' I said. 'When I am scared, my heart beats very fast. And I want to hide.'",
+   "'Mine too,' said Kavya slowly. 'My heart is beating fast right now.' She put her hand on her chest. Then she looked at me again, more carefully this time, the way you look at something new.",
+   "'You have two eyes,' she said. 'Like me.'",
+   "'And two ears,' I said, and wiggled them.",
+   "'I have ten fingers,' said Kavya, holding up her hands. I held up mine. 'Ten,' I said. Mine had claws on the end, and hers had small pink nails. But when we put our hands side by side, they were almost the same size.",
+   "'Are you hungry?' she asked. 'People get hungry at night sometimes.'",
+   "'Very,' I said. She reached under her pillow and found half a biscuit she was not supposed to have. She broke it in two and gave me the bigger piece.",
+   "We ate our biscuit pieces in the light of the night lamp. Kavya told me she was scared of the dark, and of the dog on the ground floor, and of the dentist. I told her I was scared of the broom, and of the loud pressure cooker, and of being alone.",
+   "'I am scared of being alone too,' said Kavya. 'That is why I like the night lamp.'",
+   "We sat for a while without saying anything. The fan went round. A scooter passed on the road below.",
+   "'Will you come out again tomorrow?' she asked.",
+   "'If you won't shout,' I said.",
+   "'I won't,' said Kavya. 'Now I know what you look like. And I know what you are like. Those are not the same thing.'",
+   "In the morning, Amma came in and looked under the bed, the way she always does. Kavya leaned over the side and waved at me. Amma looked where she was waving and saw only dust.",
+   "'Who are you waving at?' asked Amma.",
+   "'My friend,' said Kavya. 'He has horns. And he is scared of the pressure cooker, just like Thambi.'"
+  ],
+  "epiphany": "For the parent: the visitor looks completely different from Kavya, with horns, fur and claws. The story turns when Kavya sees his hands shaking and finds he is scared too. After that she notices how alike they are: two eyes, ten fingers, hungry at night, scared of being alone. What someone looks like does not tell you what they are like inside, and the feelings inside are often the same.",
+  "ask": [
+   "Why was Kavya scared at first?",
+   "Why were the visitor's hands shaking?",
+   "Name three ways Kavya and the visitor were similar.",
+   "Name two ways they were different.",
+   "Kavya says, 'Now I know what you look like. And I know what you are like.' What is the difference?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Every person is built on the same plan and needs the same things.",
+   "more": "Two eyes, a heart, bones inside, and the need for air, water, food, sleep and care are true for every person in the world. Show it with the arm span strings: different sizes, the same pattern. All people alive today are one kind of being, and far back in time we share the same great-great-grandparents."
+  },
+  {
+   "idea": "No two people, and no two tigers, are exactly alike.",
+   "more": "Even identical twins have different fingerprints and different likes. Every tiger has their own stripes and every chimpanzee their own way of behaving. Each one is an individual, with their own feelings and their own life."
+  },
+  {
+   "idea": "How someone looks does not tell you what they are like inside.",
+   "more": "In the story, the visitor with claws was scared, hungry and lonely, just like Kavya. Faces and bodies show some of what a person feels, but to really know someone, you watch, listen and ask."
+  }
+ ],
+ "unknowns": [
+  "Why are about 1 in 10 people left-handed? Genes play a small part, and so does what happens before birth, but nobody fully knows.",
+  "Animals clearly have feelings. Nobody knows yet whether a dog's happiness feels to the dog the way our happiness feels to us.",
+  "How much do we like a taste because of our body, and how much because of what we grew up eating? Scientists are still finding out."
+ ]
+}

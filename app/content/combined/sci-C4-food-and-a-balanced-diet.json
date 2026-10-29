@@ -1,0 +1,1282 @@
+{
+ "key": "combined|sci|4|food-and-a-balanced-diet",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "food-and-a-balanced-diet",
+ "title": "Food for health: where its energy comes from, and how food builds and protects us",
+ "source": "DeepKids Combined. Covers NCERT Class 4 Chapter 5 'Food for Health' (a food festival, balanced food with energy-giving, body-building and protective foods, and traditional foods). No textbook needed.",
+ "summary": "A peanut held in a candle flame keeps burning by itself for about a minute. The energy in that flame came from sunlight, caught by a peanut plant months ago. Your child burns foods to see the energy stored in them, reads kilocalories on labels, builds proteins with paper pieces to see why rice and dal work better together, finds out why plants make the vitamins and colours we eat, sets curd to watch microbes make food, and runs a family food festival of traditional dishes from across India.",
+ "builds_on": "In Class 3 your child named the nutrients, tested foods for starch, fat and vitamin C, learned go, grow and glow foods, the balanced plate, deficiency illnesses, sugar and salt, and food safety. In Class 4 they go deeper into each food group: how food energy comes from the Sun and is released by respiration, the kilocalorie, how proteins are built from amino acids, why grains and pulses are eaten together, why plants make vitamins and colours, how microbes make curd and idli, cooking methods, millets and regional foods. In Class 5 they study deficiency diseases in detail, cheap nutritious foods, storing food and the structure of the digestive system.",
+ "goals": [
+  "By the end your child can explain that the energy in food was first caught from sunlight by plants, and that our cells release it with oxygen.",
+  "By the end your child can read the kilocalories on a food label and explain why fatty foods hold the most energy.",
+  "By the end your child can explain that proteins are built from amino acids, and why rice with dal builds more protein than either alone.",
+  "By the end your child can say why plants make vitamins and colours for their own lives, and how vitamin C helps the body take in iron.",
+  "By the end your child can explain how bacteria and yeasts turn milk into curd and batter into idli, and why they need warmth.",
+  "By the end your child can sort dishes by cooking method and food group, and plan a balanced food festival of traditional dishes from different parts of India."
+ ],
+ "words": [
+  [
+   "photosynthesis",
+   "how a green plant uses sunlight to make sugar from air and water. All the energy in our food started this way"
+  ],
+  [
+   "respiration",
+   "how every cell uses oxygen to release the energy stored in food. It makes us able to move and keeps us warm"
+  ],
+  [
+   "kilocalorie",
+   "the unit for the energy in food. One kilocalorie warms one litre of water by one degree Celsius. Labels write it as kcal"
+  ],
+  [
+   "energy-giving food",
+   "food rich in carbohydrates or fat, such as rice, ragi, potato, jaggery, ghee and oil"
+  ],
+  [
+   "body-building food",
+   "food rich in protein, such as dal, chana, rajma, peanuts, milk, curd, paneer, eggs, fish and meat"
+  ],
+  [
+   "protective food",
+   "fruits and vegetables, rich in vitamins, minerals and fibre, which keep the body working well and help it fight illness"
+  ],
+  [
+   "amino acid",
+   "one of the small pieces that a protein is built from. Your body takes apart the protein in food and joins the amino acids again into your own proteins"
+  ],
+  [
+   "root nodule",
+   "a small lump on the roots of pulse plants, where bacteria live and take nitrogen from the air for the plant"
+  ],
+  [
+   "anaemia",
+   "having too little iron in the blood, so the blood carries less oxygen and a person feels tired and weak"
+  ],
+  [
+   "fermentation",
+   "when bacteria or yeasts feed on the sugars in food and change it, as when milk becomes curd or batter rises for idli"
+  ],
+  [
+   "millet",
+   "a small, hardy grain such as ragi, jowar, bajra, foxtail millet (thinai) and kodo millet"
+  ],
+  [
+   "balanced diet",
+   "eating foods from all the groups, in about the right amounts, over a day or a week"
+  ]
+ ],
+ "subconcepts": [
+  "the energy in all food starts as sunlight caught by plants (photosynthesis)",
+  "respiration: cells use oxygen to release food energy as movement and heat",
+  "the kilocalorie, and reading energy on a food label",
+  "energy-giving foods: carbohydrates and fats, and why fat holds about twice the energy",
+  "the body spends energy even at rest: heart, breathing, brain and keeping warm",
+  "body-building foods: proteins are built from amino acids",
+  "grains and pulses together build more protein than either alone",
+  "why pulses are rich in protein: bacteria in root nodules",
+  "protective foods: why plants make vitamins and colours for their own lives",
+  "iron and vitamin C work together, and tea with meals blocks iron",
+  "microbes make food: fermentation in curd and idli batter",
+  "cooking methods (steaming, boiling, frying, roasting) and why we cook",
+  "traditional and regional foods, and the food festival",
+  "millets: old grains that need little water",
+  "energy balance: too little and too much"
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "The energy in your lunch came from the Sun",
+   "goal": "Recall Class 3, read the story, and follow food energy from sunlight to the child's own moving body.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember Class 3",
+     "mins": 5,
+     "do": "Ask: 'What are the three jobs food does?' Good answer: 'It gives energy, it builds and mends the body, and it keeps the body working well.' Ask: 'What did iodine show us, and what did the paper show us?' Good answers: 'Iodine turns blue-black with starch. Fat leaves a see-through spot on paper.' Ask: 'Why did the sailors with oranges get better?' Good answer: 'Oranges have vitamin C, and their food had none.' Say: 'This year we go inside each of those jobs. Today: where does the energy in food come from?'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: Batter for Amma",
+     "mins": 12,
+     "do": "Read the story aloud. Ask only one question now: 'Why did the batter not rise on the first night?' Write your child's answer on the first page of a notebook called 'Food notebook 2'. Don't say whether it is right. You will test the idea with curd on Day 4."
+    },
+    {
+     "kind": "talk",
+     "title": "Where did the rice get its energy?",
+     "mins": 8,
+     "do": "Put a spoon of uncooked rice in your child's hand. Ask: 'This rice will give you energy. Where did the rice get that energy?' Wait for a guess and a reason. Good answers: 'From the soil', 'From the Sun'. Then say: 'A rice plant's leaves take in air and water, and use sunlight to make sugar. This is called photosynthesis. The plant packs the sugar into her seeds as starch, to feed her seedlings. When you eat the rice, you take that stored sunlight.' Ask: 'Can you think of any food whose energy did not start with a plant?' Help them check meat, milk and eggs: the animal ate plants. Good conclusion: 'Almost all of it began as sunlight caught by plants.'"
+    },
+    {
+     "kind": "act",
+     "title": "Skip and feel the heat",
+     "mins": 8,
+     "ref": "a1",
+     "do": "Do Activity a1. Your child skips or jumps on the spot for one minute, then feels their cheeks, chest and breathing. Ask: 'What changed? Why do you think you got hot?' Then say: 'Every cell in your body uses oxygen to release the energy stored in food. This is called respiration. Some of the energy moves your muscles. Much of it comes out as heat. That is why you breathe faster and get warm when you run.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Energy even when you are still",
+     "mins": 7,
+     "do": "Ask: 'Do you use energy when you are fast asleep?' Wait for an answer. Say: 'Yes. Your heart beats all night, you keep breathing, your body stays at about 37 degrees, and your brain keeps working. In a grown-up the brain uses about a fifth of the body's resting energy. In a young child the brain uses even more.' Ask: 'Your cells grow and mend while you sleep too. Where does the stuff for that come from?' Good answer: 'From food.' Say: 'That is the second job. We come to it on Day 3.'"
+    },
+    {
+     "kind": "think",
+     "title": "Start the festival list",
+     "mins": 5,
+     "do": "Say: 'On Day 8 we will hold a family food festival, with dishes from different parts of India.' Your child writes in the Food notebook three dishes from your own family and two from another state they would like to try. Examples: bisi bele bath, avial, pongal, appam with stew, dhokla, litti chokha, macher jhol, dal-baati. Keep the list for the project."
+    }
+   ],
+   "need": [
+    "a notebook for Food notebook 2",
+    "a spoon of uncooked rice",
+    "space to skip or jump"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Measuring the energy in food",
+   "goal": "See food energy as fire, learn the kilocalorie, and read energy on food labels.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Why did you get hot?",
+     "mins": 3,
+     "do": "Ask: 'Yesterday you skipped and got hot. Where did the heat come from?' Good answer: 'My cells used oxygen to release energy from food. Some of it came out as heat.' Ask: 'What is that called?' (Respiration.)"
+    },
+    {
+     "kind": "exp",
+     "title": "The burning peanut",
+     "mins": 17,
+     "ref": "e1",
+     "do": "Do Experiment e1. A grown-up does all the burning. Your child stands at arm's length and watches. First ask: 'Which will burn longest by itself: a peanut, a piece of puffed rice or a slice of cucumber? Why?' Write the guess. Good results: the peanut keeps burning by itself for about a minute, the puffed rice chars and goes out quickly, the cucumber only hisses and blackens. Ask: 'What does the peanut have that makes it burn so long?' Good answer: 'Fat. We saw on paper last year that peanuts have a lot of fat.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The kilocalorie",
+     "mins": 7,
+     "do": "Say: 'The fire and your cells both join food with oxygen and release energy. The fire does it in one go, as heat and light. Your cells do it slowly, in many small steps, with no flame.' Then say: 'Scientists measure food energy in kilocalories. One kilocalorie warms one litre of water by one degree. One gram of fat holds about 9 kilocalories. One gram of starch, sugar or protein holds about 4.' Ask: 'So which holds more than twice as much energy, a gram of ghee or a gram of rice?' (Ghee, because it is almost all fat.)"
+    },
+    {
+     "kind": "act",
+     "title": "Kitchen energy chart",
+     "mins": 15,
+     "ref": "a2",
+     "do": "Do Activity a2. Your child finds 'Energy (kcal)' per 100 grams on 4 to 6 packets in your kitchen and draws one bar for each. Ask: 'Which is tallest? Why?' Good answer: 'Oil or ghee, because they are all fat.' Ask: 'Why is cucumber so low?' Good answer: 'It is mostly water, and water holds no energy.' Ask: 'Is the tallest bar the best food?' Good answer: 'No. More energy is not always better. It depends on what else the food gives and how much you need.'"
+    },
+    {
+     "kind": "think",
+     "title": "Why does a peanut seed pack fat?",
+     "mins": 3,
+     "do": "Ask: 'A peanut is a seed. The baby plant inside needs food until her leaves can make sugar. Why might the peanut plant pack fat, not starch?' Wait for ideas. Say: 'Fat holds about twice the energy of starch in the same weight. So a small seed can carry a lot of food for her seedling. Many small seeds, like sesame and mustard, are rich in fat for the same reason.'"
+    }
+   ],
+   "need": [
+    "the things for Experiment e1",
+    "4 to 6 food packets with a nutrition label",
+    "paper, a ruler and crayons"
+   ],
+   "prep": [
+    {
+     "task": "Check that nobody in the family has a peanut allergy. If someone does, use a piece of dry coconut instead of the peanut in Experiment e1.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Body-building food: proteins and the rice-and-dal partnership",
+   "goal": "Learn that proteins are built from amino acids, and see why grains and pulses are eaten together.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Tallest bar",
+     "mins": 3,
+     "do": "Ask: 'Which food had the tallest bar on your energy chart, and why?' Good answer: 'Oil or ghee, because they are almost all fat, and fat holds about 9 kilocalories in each gram.' Ask: 'Energy is one job. What is the second job of food?' (Building and mending the body.)"
+    },
+    {
+     "kind": "talk",
+     "title": "What proteins are made of",
+     "mins": 8,
+     "do": "Say: 'Your muscles, skin, hair, nails and blood are built mainly from proteins. A protein is a long chain of small pieces called amino acids. There are 20 kinds.' Ask: 'When you eat dal, does the dal protein become your muscle just as it is?' Wait for a guess. Say: 'No. Your gut takes the dal protein apart into amino acids. Your blood carries them to every cell. Each cell joins them again, in its own order, into your proteins.' Say: 'Your body can make some amino acids itself. It cannot make 9 of them, so those must come from food. The lining of your gut is rebuilt every few days, so this building never stops.'"
+    },
+    {
+     "kind": "act",
+     "title": "Build protein chains",
+     "mins": 15,
+     "ref": "a3",
+     "do": "Do Activity a3. Your child builds protein chains from paper pieces, first from a 'rice bag', then from a 'dal bag', then from both bags together. Before the third round ask: 'Rice built 1 chain. Dal built 1 chain. How many will both together build? Why?' Most children guess 2. Count together: it is 5. Ask: 'Why did both together build more than 1 and 1?' Good answer: 'Rice has lots of the green piece and dal has lots of the red piece. Each fills the other's gap.' Tell your child the real names: rice is short of an amino acid called lysine, and dal is short of one called methionine."
+    },
+    {
+     "kind": "talk",
+     "title": "Grain-and-pulse dishes all over India",
+     "mins": 5,
+     "do": "Ask: 'Which dishes do we eat that join a grain and a pulse?' Help them find: idli and dosa (rice and urad dal), ven pongal (rice and moong dal), bisi bele bath (rice and toor dal), dal with roti, rajma chawal, khichdi, misal pav. Your child writes five in the Food notebook. Say: 'Cooks in every part of India found these pairs long before anyone knew about amino acids.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Why pulses are full of protein",
+     "mins": 7,
+     "do": "Say: 'A toor or moong plant has a problem. To build proteins, every plant needs nitrogen, and soil often has too little. The air is mostly nitrogen, but plants cannot use it from the air.' Show a picture of pulse roots on a phone, with small round lumps. Say: 'These lumps are called root nodules. Bacteria live inside them. The bacteria take nitrogen from the air and give it to the plant. The plant feeds the bacteria sugar. So pulse plants have plenty of nitrogen, and they pack protein into their seeds for their seedlings.' Ask: 'Who helped make the protein in your dal?' Good answer: 'The plant, the bacteria, the Sun, and the farmer.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Kamala Sohonie",
+     "mins": 7,
+     "ref": "v1",
+     "do": "Tell the story in Voice v1 in your own words: Kamala Sohonie was refused a research place because she was a woman, proved her work, and later studied neera, a cheap local drink, to help feed poor children. Ask Voice v1's question: 'Who decides who is allowed to be a scientist? What did the institute lose by saying no at first?'"
+    }
+   ],
+   "need": [
+    "the paper pieces for Activity a3",
+    "a phone to show a picture of root nodules on a pulse plant"
+   ],
+   "prep": [
+    {
+     "task": "Cut the paper pieces for Activity a3: 16 yellow, 5 green and 5 red pieces, each about the size of a stamp. Coloured magazine paper or crayon-coloured scrap paper works.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Protective food: why plants make vitamins and colours",
+   "goal": "Find out what vitamins and colours do for plants and for us, how iron and vitamin C work together, and set up the curd test.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Five, not two",
+     "mins": 3,
+     "do": "Ask: 'Why did rice and dal together build 5 chains, when each alone built 1?' Good answer: 'Each has plenty of the amino acid the other is short of.' Ask: 'Name one dish that joins a grain and a pulse.' (Idli, pongal, rajma chawal, dal-roti.)"
+    },
+    {
+     "kind": "act",
+     "title": "Kitchen colour hunt",
+     "mins": 10,
+     "ref": "a4",
+     "do": "Do Activity a4. Your child lays out the fruits and vegetables in the kitchen by colour. For each colour, ask: 'What might this colour do for the plant herself?' Then tell them the answers in the activity: green leaves catch light, the yellow and orange colours in leaves protect them from too much sunlight, and bright ripe fruit tells birds and animals to eat it and carry the seeds away. Say: 'Many of the substances plants make to protect themselves are vitamins for us. The orange colour in papaya and mango, called beta-carotene, becomes vitamin A in your body, which your eyes need to see in dim light.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Iron and its partner",
+     "mins": 8,
+     "do": "Say: 'Iron is a mineral. Your blood uses it to carry oxygen to every cell. Palak, ragi, dal, jaggery and eggs have iron.' Ask: 'If the blood has too little iron, what do you think happens?' Good answer: 'Less oxygen reaches the cells, so you feel tired.' Say: 'That is called anaemia. In India, more than half of all women have it.' Then say: 'The iron in plant food is hard for the gut to take in. Vitamin C changes it into a form the gut takes in more easily. So a squeeze of lemon on dal, or a guava after lunch, helps. Tea and coffee with a meal do the opposite. They hold on to the iron so less gets in.' Ask: 'In your home, who eats last? Do they get the dal and the vegetables?' Listen without judging."
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the curd test",
+     "mins": 12,
+     "ref": "e2",
+     "do": "Do steps 1 to 6 of Experiment e2. Ask first: 'Which bowl will turn to curd: warm milk with curd, cold milk with curd, or warm milk with no curd? Why?' Write the guesses. Remind your child of the story: 'Kavya thought the batter was too cold. We will test whether warmth matters.' Check the bowls before bed or tomorrow morning."
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 12,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1. Read each question aloud if needed. For the two writing questions, your child says the answer first, then writes it. Mark it together. For any wrong answer, go back to the day it came from: energy on Days 1 and 2, protein on Day 3, colours and iron today."
+    }
+   ],
+   "need": [
+    "all the fruits and vegetables in the kitchen",
+    "the things for Experiment e2",
+    "Worksheet ws1"
+   ],
+   "prep": [
+    {
+     "task": "Keep 2 teaspoons of fresh curd from today's curd, and 1 and a half cups of milk, for Experiment e2.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Microbes make food, and how we cook",
+   "goal": "Read the curd test, learn how idli batter ferments, and compare cooking methods.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Read the curd test",
+     "mins": 10,
+     "ref": "e2",
+     "do": "Finish Experiment e2. Your child tips each bowl a little and writes 'set' or 'liquid'. Good result: the warm bowl with curd has set thick, the fridge bowl with curd is still liquid, and the warm bowl with no curd is still liquid. Ask: 'What does this tell us?' Good answer: 'Curd needs the living bacteria from the starter, and they need warmth to work.' Ask: 'Was Kavya right about her batter?' (Yes. Her batter's microbes were too cold.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Batter is alive",
+     "mins": 8,
+     "do": "Say: 'This is called fermentation. Bacteria and yeasts feed on the sugars in food and change it. In curd, bacteria turn milk sugar into an acid, which makes the milk thick and sour. In idli batter, bacteria and yeasts give off a gas, and the bubbles make the batter rise.' Ask: 'Why might people have fermented food long before fridges?' Good answer: 'Sour, fermented food keeps longer, because the acid stops many harmful germs growing.' Say: 'Studies also find that fermenting batter raises some B vitamins and makes it easier to digest. Dosa, appam, dhokla, idli, curd, buttermilk and kanji are all fermented foods.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Why do we cook?",
+     "mins": 9,
+     "do": "Ask: 'Why don't we eat rice raw?' Wait for ideas. Say: 'Cooking does four jobs. It softens starch so the gut can take it apart easily. It kills germs. It makes some foods safe: raw or half-cooked rajma has a substance that makes people vomit, so rajma is soaked and boiled well. And it changes the taste.' Ask: 'Does cooking take away anything?' Good answer: 'Some vitamin C, especially with long boiling.' Then name four methods and one dish each: steaming (idli, puttu, dhokla), boiling (rice, dal), frying (vada, puri), roasting (bhutta, papad, peanuts)."
+    },
+    {
+     "kind": "exp",
+     "title": "Steamed or fried: the paper test",
+     "mins": 10,
+     "ref": "e3",
+     "do": "Do Experiment e3. Ask first: 'Idli and medu vada are both made from rice and urad dal. Which will leave the bigger see-through spot? Why?' Good result: the vada leaves a big spot that stays and the idli leaves almost none. Ask: 'Where did the vada's fat come from?' Good answer: 'From the oil it was fried in. The batter soaked it up.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Elsie Widdowson tests a diet on herself",
+     "mins": 8,
+     "ref": "v2",
+     "do": "Tell the story in Voice v2: in 1940, Elsie Widdowson and Robert McCance lived for three months on a plain wartime diet and then tested their fitness. Ask Voice v2's question: 'Why did they test the diet on themselves first? Would you trust a diet more if the scientists had tried it?'"
+    }
+   ],
+   "need": [
+    "the bowls from Experiment e2",
+    "the things for Experiment e3",
+    "a pencil"
+   ],
+   "prep": [
+    {
+     "task": "Get one idli and one medu vada, made at home or bought from any South Indian eatery. A piece of dhokla and a pakoda also work.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Millets and the food of many places",
+   "goal": "Meet millets, hear the story of the Green Revolution, plan the family food festival and play the game.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Set, or still liquid?",
+     "mins": 3,
+     "do": "Ask: 'Why did only one bowl turn to curd?' Good answer: 'It had the living bacteria from the starter, and it was warm.' Ask: 'Name a food made by fermentation.' (Idli, dosa, curd, dhokla, appam.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Millets: old grains",
+     "mins": 8,
+     "do": "Show a spoon of ragi flour or any millet you have, or a picture. Say: 'Millets are small grains such as ragi, jowar, bajra, thinai and kodo. People in India have grown them for thousands of years.' Ask: 'A ragi plant grows where rain is short. What problem does she have, and how might she manage?' Good answers: 'Not enough water. Deep roots, small tough leaves, a short life.' Say: 'Millets need much less water than rice. Ragi also has more than twenty times as much calcium as polished rice. The United Nations named 2023 the International Year of Millets, after India proposed it.' Ask: 'If millets are so good, why did many families stop eating them?'"
+    },
+    {
+     "kind": "talk",
+     "title": "M. S. Swaminathan and the Green Revolution",
+     "mins": 8,
+     "ref": "v4",
+     "do": "Tell the story in Voice v4. In the 1960s India could not grow enough grain, and new high-yield wheat and rice changed that. Later the same scientist warned about tired soil and falling water. Ask Voice v4's question: 'India grew much more rice and wheat, and less millet. What did we gain, and what did we lose?' Let your child give one gain and one loss."
+    },
+    {
+     "kind": "act",
+     "title": "Plan the food festival",
+     "mins": 14,
+     "do": "Start the project. Your child picks 5 or 6 dishes from the Day 1 list that the family can make or buy for Day 8, from at least three different states. For each one, they make a small card with: the dish, where it comes from, its energy-giving, body-building and protective parts, how it is cooked, and one living thing besides people that helped make it (a plant, a cow, bacteria). Check that together the dishes make a balanced meal: grain, pulse or milk, and vegetables or fruit. Example card: 'Bisi bele bath, Karnataka. Rice and toor dal (energy and protein), vegetables (protective). Boiled. Helped by a toor plant and her root bacteria.'"
+    },
+    {
+     "kind": "game",
+     "title": "Food Festival Trail",
+     "mins": 12,
+     "ref": "g1",
+     "do": "Play Game g1, Food Festival Trail, for one round. Each player must answer the question on a question square before moving on. If your child is alone, play with a parent or play against the clock: count how many turns it takes to reach the festival."
+    }
+   ],
+   "need": [
+    "a spoon of ragi flour or any millet, or a picture",
+    "card or paper for the dish cards",
+    "the printed game board, a die and a counter for each player"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Enough energy, and how cooking may have changed us",
+   "goal": "Understand energy balance, act out the journey of food energy, and do the stretch worksheet.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Millet or rice?",
+     "mins": 3,
+     "do": "Ask: 'Name one way millets are better for a dry place than rice.' Good answer: 'They need much less water.' Ask: 'Which millet has lots of calcium?' (Ragi.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Too little, too much, enough",
+     "mins": 10,
+     "do": "Say: 'A child your age needs roughly 1,500 to 2,000 kilocalories a day, depending on size and how active they are.' Ask: 'What happens if you take in less energy than you use, for many months?' Good answer: 'You get thin and tired and do not grow well.' Ask: 'And if you take in more than you use?' Good answer: 'The body stores the extra as fat.' Say: 'Fat is the body's energy store, and some is needed. Too much for many years can lead to illness. India has both problems: many children do not get enough food, and more and more people take in too much.' Ask: 'Can a person be getting too much energy and still be short of iron or vitamins?' Good answer: 'Yes, if they eat lots of fried and sweet food and few vegetables, pulses and fruit.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Did cooking make us human?",
+     "mins": 8,
+     "ref": "v3",
+     "do": "Tell the idea in Voice v3: Richard Wrangham thinks that cooking gave our ancestors so much more energy that their brains could grow bigger, and that it started almost 2 million years ago. Many archaeologists say the clear signs of fire are much later. Ask Voice v3's question: 'What would you need to find in the ground to believe that people cooked 2 million years ago?'"
+    },
+    {
+     "kind": "act",
+     "title": "Act the journey of energy",
+     "mins": 10,
+     "ref": "a5",
+     "do": "Do Activity a5. Your child acts out the journey of energy from the Sun to a running child, with a parent playing some parts. Ask after: 'At which step did the energy go into the food? At which step did it come out as heat?' Good answers: 'In the rice leaf, by photosynthesis. In my cells, by respiration.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 14,
+     "ref": "ws2",
+     "do": "Do Worksheet ws2. It applies the week to new cases: grain-and-pulse dishes, cooking methods, oil in a vada, iron and tea, and a school meal. For the perspective question, your child picks one side and argues for it aloud first, then writes. Then ask them to answer back from another side."
+    }
+   ],
+   "need": [
+    "space to act",
+    "a yellow cloth or paper sun, a green leaf or a green cloth",
+    "Worksheet ws2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Our food festival, and teach it back",
+   "goal": "Hold the family food festival, do the challenge worksheet, and teach the rung back.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "The family food festival",
+     "mins": 20,
+     "do": "Finish the project. Set out the festival dishes with their cards, at lunch or dinner. Your child is the guide: for each dish they say where it comes from, its food groups, how it was cooked, and one living thing that helped make it. Ask the family to taste each dish and guess the main tastes. Ask your child: 'Is the whole festival meal balanced? What would you add?' Good answer names a grain, a pulse or milk food, and vegetables or fruit, and says if one group is missing."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "ref": "ws3",
+     "do": "Do Worksheet ws3. It has puzzles about our tests, settled and debated ideas, and an argument about when cooking began. Your child can answer the writing items aloud while you write. Look for answers that use evidence from this week's tests."
+    },
+    {
+     "kind": "check",
+     "title": "Check and teach it back",
+     "mins": 13,
+     "do": "Ask the check questions aloud, one at a time. Tick the ones answered well. For any missed answer, go back for a minute to the day it came from and ask again in different words. Then your child teaches it back: in 5 minutes, using the energy chart, the paper chains and the curd bowl, they explain to someone in the family where food energy comes from, why rice and dal go together, and how bacteria make curd. The listener asks one question."
+    }
+   ],
+   "need": [
+    "the festival dishes and their cards",
+    "Worksheet ws3",
+    "the energy chart, the paper chains and the Food notebook"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Energy, building and protecting",
+   "day": 4,
+   "sections": [
+    [
+     "A. Where food energy comes from",
+     [
+      {
+       "t": "mcq",
+       "p": "Where did the energy in a plate of rice first come from?",
+       "opts": [
+        "sunlight caught by the rice plant",
+        "the soil the rice grew in",
+        "the water the rice was cooked in"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A green plant uses sunlight to make sugar from air and water. This is called ____.",
+       "a": [
+        "photosynthesis"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi, a girl in Class 4, reads two labels. Ghee has about 900 kilocalories in 100 grams. Raw rice has about 350. Why does ghee hold more?",
+       "opts": [
+        "ghee is almost all fat, and fat holds about twice the energy of starch",
+        "ghee is heavier than rice",
+        "ghee is a liquid when it is warm"
+       ],
+       "a": 0
+      },
+      {
+       "t": "draw",
+       "p": "Draw the path of the energy from the Sun to your legs when you run. Show the Sun, the rice plant, a plate of rice and you. Write one word on each arrow."
+      }
+     ]
+    ],
+    [
+     "B. Building and protecting",
+     [
+      {
+       "t": "sort",
+       "p": "Sort these foods by their main job.",
+       "items": [
+        "ragi",
+        "jaggery",
+        "coconut oil",
+        "toor dal",
+        "rajma",
+        "egg",
+        "papaya",
+        "drumstick leaves",
+        "tomato"
+       ],
+       "cats": [
+        "energy-giving",
+        "body-building",
+        "protective"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each word to what it means.",
+       "pairs": [
+        [
+         "amino acid",
+         "a small piece that proteins are built from"
+        ],
+        [
+         "respiration",
+         "cells using oxygen to release energy from food"
+        ],
+        [
+         "kilocalorie",
+         "the unit for energy in food"
+        ],
+        [
+         "anaemia",
+         "too little iron in the blood"
+        ],
+        [
+         "root nodule",
+         "a lump on pulse roots where bacteria live"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why do rice and dal together build more protein than either one alone?",
+       "opts": [
+        "each has plenty of an amino acid the other is short of",
+        "dal makes the rice grains bigger",
+        "rice has no protein at all"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Farida, a girl in Class 4, eats ragi roti and palak dal for lunch. Which drink helps her body take in the iron best?",
+       "opts": [
+        "a glass of lemon water",
+        "a cup of tea",
+        "a cup of coffee"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Farhan, a boy in Class 4, skips for one minute and feels hot and out of breath. Explain where the heat came from.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A ripe papaya turns orange and soft. How does this colour help the papaya tree?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Partners, kitchens and meals",
+   "day": 7,
+   "sections": [
+    [
+     "A. Partners and methods",
+     [
+      {
+       "t": "match",
+       "p": "Match each dish to the grain and the pulse in it.",
+       "pairs": [
+        [
+         "idli",
+         "rice and urad dal"
+        ],
+        [
+         "bisi bele bath",
+         "rice and toor dal"
+        ],
+        [
+         "rajma chawal",
+         "rice and kidney beans"
+        ],
+        [
+         "dal-baati",
+         "wheat and dal"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort these foods by how they are cooked.",
+       "items": [
+        "idli",
+        "puttu",
+        "medu vada",
+        "puri",
+        "plain rice",
+        "sambar",
+        "bhutta",
+        "roasted peanuts"
+       ],
+       "cats": [
+        "steaming",
+        "frying",
+        "boiling",
+        "roasting"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Rajma must be soaked and boiled well, because raw or half-cooked rajma can make people ____.",
+       "a": [
+        "ill",
+        "sick",
+        "vomit",
+        "unwell"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Energy and balance",
+     [
+      {
+       "t": "fill",
+       "p": "Suppose a vada soaks up 2 teaspoons of oil while frying. One teaspoon of oil holds about 40 kilocalories. The oil adds about ____ kilocalories.",
+       "a": [
+        "80"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Shalini, a woman of 30, takes in more food energy than her body uses, every day for many months. What happens to the extra?",
+       "opts": [
+        "her body stores it as fat",
+        "it all leaves as sweat",
+        "it turns into vitamins"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Arjun, a boy in Class 4, says: 'Cucumber gives almost no energy, so it is a useless food.' What is wrong with his idea?",
+       "opts": [
+        "cucumber gives water, fibre and some vitamins",
+        "cucumber has more energy than ghee",
+        "nothing is wrong"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Meenakshi, a girl in Class 4, wants to keep her curd from setting until tomorrow. Where should she keep the milk with the starter?",
+       "opts": [
+        "in the fridge",
+        "in a warm cupboard",
+        "wrapped in a shawl"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think and argue",
+     [
+      {
+       "t": "write",
+       "p": "A school is planning its free lunch for children. Three people give their views. Dr Revathi, a nutrition scientist says: 'Serve dal and an egg every day. Many children here are short of protein and iron.' Mrs Gupta, a parent says: 'My family does not eat eggs. Give peanuts, milk or sprouted moong instead, so every child can eat the same food.' Selvi, a ragi farmer says: 'Serve ragi and local vegetables. They grow here with little water, and farmers nearby would sell to the school.' Pick one view and argue for it, using what you learned about protein, iron, millets and partners. Then answer back from one of the other sides.",
+       "lines": 5,
+       "a": "A strong answer uses facts from this rung (grain and pulse partners, ragi's calcium, vitamin C with iron, millets needing little water) and then fairly states what the other side gets right."
+      },
+      {
+       "t": "write",
+       "p": "Meenakshi drinks a cup of tea with her lunch of ragi roti and palak dal every day. A doctor says she has too little iron. Suggest two changes and say why each helps.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "In the curd test, why did the warm bowl with no curd stay liquid?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Tests, puzzles and arguments",
+   "day": 8,
+   "sections": [
+    [
+     "A. Reading our tests",
+     [
+      {
+       "t": "mcq",
+       "p": "In the burning test, a peanut burned by itself for about a minute. Puffed rice went out in a few seconds. A friend says this shows peanuts have more starch. What is wrong?",
+       "opts": [
+        "the long flame comes mostly from fat, not starch",
+        "nothing is wrong",
+        "puffed rice holds no energy at all"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Riya, a girl in Class 4, wants to test whether warmth matters for idli batter. Which is the fairest test?",
+       "opts": [
+        "two bowls of the same batter, one in a warm place and one in a cool place",
+        "one bowl of batter with extra salt added",
+        "one bowl of batter made with a different rice"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "In the paper game, rice gave 4 green and 1 red. Dal gave 1 green and 4 red. Each chain needs 1 green and 1 red (and there is plenty of yellow). Rice and dal together make ____ chains.",
+       "a": [
+        "5",
+        "five"
+       ]
+      },
+      {
+       "t": "table",
+       "p": "Copy the energy from three packets in your kitchen. Then write which nutrient gives most of each food's energy.",
+       "cols": [
+        "Food",
+        "Kilocalories in 100 grams",
+        "Main nutrient giving the energy"
+       ],
+       "rows": 3
+      }
+     ]
+    ],
+    [
+     "B. Big puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "A goat eats only grass and leaves, yet she builds muscle full of protein. Where do her amino acids come from?",
+       "opts": [
+        "from the plants she eats, and from the microbes in her stomach, which she digests",
+        "she makes them from sunlight",
+        "from the water she drinks"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Is each idea settled, or still debated by scientists?",
+       "items": [
+        "fat holds more energy per gram than starch",
+        "vitamin C helps the body take in iron from plants",
+        "bacteria in root nodules give pulse plants nitrogen",
+        "people began cooking almost 2 million years ago",
+        "eating fermented food makes people healthier through their gut microbes"
+       ],
+       "cats": [
+        "settled",
+        "still debated"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each scientist to the question they worked on.",
+       "pairs": [
+        [
+         "Kamala Sohonie",
+         "Can a cheap local drink help feed poor children?"
+        ],
+        [
+         "Elsie Widdowson",
+         "Can people stay fit on a plain wartime diet?"
+        ],
+        [
+         "Richard Wrangham",
+         "Did cooking change how human bodies evolved?"
+        ],
+        [
+         "M. S. Swaminathan",
+         "How can India grow enough grain without harming the soil?"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and argue",
+     [
+      {
+       "t": "write",
+       "p": "When did people begin to cook? Three people disagree. Richard Wrangham, a scientist who studies chimpanzees and human evolution says: 'About 1.8 million years ago our ancestors got smaller teeth, smaller guts and bigger brains. Cooked food explains this best.' An archaeologist says: 'Show me the hearths. Clear signs of fire in the ground are much later than that.' Priya, a raw-food cook says: 'Raw fruit and vegetables keep more vitamin C than cooked ones, so cooking is not always better.' Which view do you find strongest, and why? Then say what the other two get right.",
+       "lines": 5,
+       "a": "A strong answer separates the two questions (when cooking began, and whether cooking is good), uses evidence (bones and teeth against hearths in the ground), and admits what is still unknown."
+      },
+      {
+       "t": "write",
+       "p": "Design a test to find out whether idli batter rises faster in a warm place or a cool place. Say what you will keep the same, and what you will measure.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Some people say the only rule for health is 'eat less and move more'. Using what you learned about protein and protective foods, what does this rule leave out?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The burning peanut: which food holds the most energy?",
+   "day": 2,
+   "question": "Which food holds enough energy to keep burning by itself: a peanut, puffed rice or cucumber?",
+   "need": [
+    "2 shelled, unsalted peanuts (or pieces of dry coconut)",
+    "a few pieces of puffed rice (murmura or pori)",
+    "a thin slice of cucumber",
+    "a candle, a matchbox and a candle stand or a steel lid to stand the candle on",
+    "kitchen tongs (a chimta)",
+    "a steel plate",
+    "a mug of water kept nearby"
+   ],
+   "steps": [
+    "Work near the kitchen sink with a window open. Tie back long hair. Your child stands at arm's length.",
+    "A grown-up lights the candle and stands it on the steel lid.",
+    "The grown-up holds a peanut in the tongs, in the flame, until the peanut catches fire. This takes 10 to 30 seconds.",
+    "Take the peanut out of the candle flame and hold it over the steel plate. Your child counts the seconds until the peanut stops burning.",
+    "Do the same with a piece of puffed rice, then with the cucumber slice. Hold each in the flame for 30 seconds before taking it out.",
+    "Write the seconds of burning for each food. Let everything cool on the plate, then throw it away."
+   ],
+   "predict": "Ask your child to guess first: 'Which will keep burning by itself after it leaves the candle? Which will not burn at all? Why do you think so?'",
+   "observe": "The peanut catches fire and keeps burning by itself, often for close to a minute, with a yellow, smoky flame. It leaves a black shell. Puffed rice chars and glows, and may flame for a moment, then goes out. The cucumber hisses and blackens on the outside but does not catch fire. If the peanut does not catch, hold it in the flame a little longer.",
+   "why": "Burning joins a fuel with oxygen and releases its stored energy as heat and light. A peanut is about half fat, and fat holds about 9 kilocalories in each gram, so there is a lot of fuel. Puffed rice is mostly starch, which holds about 4 kilocalories in each gram, and the pieces are tiny and light. A cucumber is about 95 out of every 100 parts water, and water does not burn. Your cells also join food with oxygen and release its energy. But they do it slowly, in many small steps, with no flame. That is respiration.",
+   "safety": "Only a grown-up handles the flame and the tongs. The child watches from arm's length. Keep a mug of water nearby and work on a steel plate, away from curtains and paper. Burning peanuts can spit, so keep faces back. Ask about peanut allergies first, and use dry coconut if anyone is allergic. Do not eat the burned food.",
+   "time": "17 min"
+  },
+  {
+   "id": "e2",
+   "title": "The curd test: do microbes need warmth?",
+   "day": 4,
+   "question": "Does milk become curd without living bacteria? Does it become curd in the cold?",
+   "need": [
+    "1 and a half cups of milk, boiled and then cooled until it feels warm but not hot on the inside of your wrist",
+    "2 teaspoons of fresh curd as the starter",
+    "3 small steel bowls or katoris with lids or plates on top",
+    "3 paper labels and a pencil",
+    "a towel or an old shawl",
+    "a fridge"
+   ],
+   "steps": [
+    "Label the bowls 'A: warm, with curd', 'B: fridge, with curd' and 'C: warm, no curd'.",
+    "Pour half a cup of the warm milk into each bowl.",
+    "Stir 1 teaspoon of curd into bowl A and 1 teaspoon into bowl B. Put nothing in bowl C.",
+    "Cover all three bowls.",
+    "Put bowl B in the fridge straight away.",
+    "Wrap bowls A and C together in the towel and put them in a warm, still place, such as a closed cupboard or a casserole box.",
+    "After 6 to 8 hours, tip each bowl a little and look. In cold weather wait up to 12 hours."
+   ],
+   "predict": "Ask your child to guess first: 'Which bowls will turn into curd? Why do you think so?'",
+   "observe": "Bowl A sets thick, smells sour and does not run when tipped. Bowl B is still runny milk. Bowl C is still runny milk. If bowl A has not set, the milk may have been too hot or too cold, so try again with milk that feels warm on the wrist.",
+   "why": "Curd is made by living bacteria from the starter. They feed on the sugar in milk, called lactose, and turn it into an acid, called lactic acid. The acid makes the milk's protein clump together, so the milk sets thick and tastes sour. Boiling the milk killed the bacteria that were in it, so bowl C had almost no bacteria to start with. In bowl B the bacteria were there, but in the cold they worked too slowly to change the milk. Kavya's batter in the story was like bowl B: it had living microbes, but they were too cold.",
+   "safety": "A grown-up boils and cools the milk. Bowl A is ordinary curd and can be eaten. Throw away bowl C if it was left out for more than a day.",
+   "time": "12 min, then 6 to 12 hours of waiting, then 10 min"
+  },
+  {
+   "id": "e3",
+   "title": "Steamed or fried: the paper test",
+   "day": 5,
+   "question": "Idli and medu vada are made from almost the same batter. Which carries more fat?",
+   "need": [
+    "one idli and one medu vada (or a piece of dhokla and a pakoda)",
+    "2 squares of brown paper bag or plain white paper, each about the size of your palm",
+    "a pencil",
+    "a window or a torch"
+   ],
+   "steps": [
+    "Write 'idli' on one square and 'vada' on the other, in pencil.",
+    "Break off a piece of each, about the size of your thumb.",
+    "Rub each piece on its own square, 10 firm rubs.",
+    "Leave the squares for 10 minutes so any water can dry. Use the time to sort dishes by cooking method.",
+    "Hold each square up to the window or a torch and look for a see-through spot."
+   ],
+   "predict": "Ask your child to guess first: 'Which will leave the bigger see-through spot that stays? Why?'",
+   "observe": "The vada leaves a large see-through spot that stays. The idli leaves a damp mark that dries to almost nothing.",
+   "why": "Fat soaks into paper and lets light through. Water dries away. The batter for both is mostly rice and urad dal, which have little fat. When a vada is fried, the hot oil dries the outside and some oil soaks into the batter. Steaming adds only water. So the same batter can become a low-fat food or a high-fat food, depending on how it is cooked. Fried food is fine sometimes, but eaten every day it adds a lot of energy.",
+   "safety": "Use small pieces. You can eat the leftover idli and vada, but not the pieces rubbed on paper.",
+   "time": "10 min, with the drying time used for talk"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Skip and feel the heat",
+   "day": 1,
+   "mins": 8,
+   "need": [
+    "space to skip or jump on the spot",
+    "a clock or phone timer"
+   ],
+   "steps": [
+    "Your child sits still for one minute and counts their breaths. Write the number.",
+    "Your child skips or jumps on the spot for one minute.",
+    "Straight away, they count their breaths for one minute again, and feel their cheeks, neck and chest with their hands.",
+    "Ask: 'What changed? Where did the heat come from?'"
+   ],
+   "outcome": "Two breath counts, and a child who has felt that moving turns food energy into heat. They breathe faster because their cells need more oxygen to release more energy."
+  },
+  {
+   "id": "a2",
+   "title": "Kitchen energy chart",
+   "day": 2,
+   "mins": 15,
+   "need": [
+    "4 to 6 food packets or bottles with a nutrition label, such as oil, ghee, atta, rice, sugar, biscuits or peanuts",
+    "a sheet of paper, a ruler and crayons"
+   ],
+   "steps": [
+    "On each packet, find the box called 'Nutrition information' and the line 'Energy (kcal)'. Use the number for 100 grams.",
+    "Write each food and its number in a list.",
+    "If a packet has no label, use these usual numbers for 100 grams: oil or ghee about 900, peanuts about 570, biscuits about 450 to 500, sugar about 400, raw rice or atta about 350, banana about 100, cucumber about 15.",
+    "Draw a bar chart. Make each bar 1 centimetre tall for every 100 kilocalories.",
+    "Ask: 'Ghee has about 900 and rice about 350. About how many times more energy does ghee hold?' (About two and a half times.)"
+   ],
+   "outcome": "A bar chart of the energy in kitchen foods, and a child who can read kilocalories on a label and say why oil and ghee hold the most."
+  },
+  {
+   "id": "a3",
+   "title": "Build protein chains: rice, dal, and both",
+   "day": 3,
+   "mins": 15,
+   "need": [
+    "16 yellow paper pieces, 5 green and 5 red, each about the size of a stamp",
+    "2 small bowls labelled 'rice bag' and 'dal bag'"
+   ],
+   "steps": [
+    "Put 8 yellow, 4 green and 1 red piece in the rice bag. Put 8 yellow, 1 green and 4 red in the dal bag. Say: 'Yellow stands for amino acids that both foods have plenty of. Green and red stand for two amino acids your body cannot make.'",
+    "Say: 'To build one protein chain, your body needs 2 yellow, 1 green and 1 red, in a row.'",
+    "Round 1: your child builds as many chains as they can from the rice bag only. They can build 1, because there is only 1 red. Count the pieces left over.",
+    "Round 2: put everything back. Build from the dal bag only. They can build 1, because there is only 1 green.",
+    "Round 3: first ask for a guess. Then build from both bags together. Now there are 5 green and 5 red, so they can build 5 chains.",
+    "Say: 'The numbers here are made up to make the idea easy to see. In real food the gap is smaller. Leftover amino acids are not stored for building. The body uses them for energy.'"
+   ],
+   "outcome": "Three rounds of chains (1, 1 and 5), and a child who can explain why grains and pulses together build more protein than either alone. Real names: rice is short of lysine, and dal is short of methionine."
+  },
+  {
+   "id": "a4",
+   "title": "Kitchen colour hunt: what the colours do for the plant",
+   "day": 4,
+   "mins": 10,
+   "need": [
+    "all the fruits and vegetables in the kitchen",
+    "a large plate or a sheet of newspaper"
+   ],
+   "steps": [
+    "Your child lays the fruits and vegetables on the newspaper in colour groups: green, yellow and orange, red, purple, white.",
+    "For each group, ask: 'What might this colour do for the plant herself?'",
+    "Tell them: 'Green leaves have chlorophyll, which catches sunlight for photosynthesis. Leaves also have yellow and orange colours, called carotenoids, which protect them from too much sunlight. Ripe fruit turns bright so that birds and animals see it, eat it and carry the seeds far away.'",
+    "Say: 'Carotenoids from papaya, mango, carrot and pumpkin become vitamin A in your body. Plants make vitamin C to protect their own cells too. Amla and guava have lots of it.'",
+    "Your child draws one fruit and one leaf in the Food notebook, and writes what the colour does for the plant and what it does for us."
+   ],
+   "outcome": "A colour-sorted kitchen display, and a child who knows that the vitamins in protective foods are substances plants make for their own lives."
+  },
+  {
+   "id": "a5",
+   "title": "Act the journey of energy",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "a yellow cloth or paper sun",
+    "a green leaf or green cloth",
+    "a bowl and a spoon"
+   ],
+   "steps": [
+    "Give the parts: the Sun (holds the yellow sun high), the rice plant (holds the green leaf), and the child who eats and runs.",
+    "The Sun shines on the rice plant. The rice plant says: 'I take in air and water and use sunlight to make sugar. I store it as starch in my seeds for my seedlings.'",
+    "The rice plant hands a bowl of 'rice' to the child. The child eats with the spoon.",
+    "The child says: 'My gut breaks the starch into sugar. My blood carries it to my cells. My cells join it with oxygen and release the energy.' Then they run on the spot and fan their face because they are hot.",
+    "Swap parts and play it again, this time with a dal plant and her root bacteria, to show protein."
+   ],
+   "outcome": "A short play that shows where food energy goes in and where it comes out, acted twice with different parts."
+  }
+ ],
+ "project": {
+  "title": "Our family food festival",
+  "days": [
+   6,
+   8
+  ],
+  "steps": [
+   "On Day 1, your child lists three dishes from your family and two from another state.",
+   "On Day 6, they choose 5 or 6 dishes from at least three different states that the family can make or buy.",
+   "They make one card for each dish: its name and where it comes from, its energy-giving, body-building and protective parts, how it is cooked, and one living thing besides people that helped make it.",
+   "They check that the dishes together make a balanced meal, and add a fruit, a salad or curd if a group is missing.",
+   "On Day 8, they set out the dishes with the cards and guide the family through the festival."
+  ],
+  "outcome": "A real meal of dishes from several parts of India, with a card for each, and a child who can explain the food groups, cooking methods and living helpers behind every dish."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Food Festival Trail",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a counter for each player, such as a button or a coin"
+  ],
+  "rules": [
+   "Everyone starts on START. Take turns to roll the die and move forward.",
+   "If you land on a square with a question, answer it aloud. If the other players agree you are right, stay there. If not, go back to where you were.",
+   "If you land on a square with an instruction, do what it says.",
+   "The first player to reach FOOD FESTIVAL wins. You do not need an exact roll.",
+   "Playing alone? Count your turns to reach the end, and try to beat it next time."
+  ],
+  "squares": [
+   "START",
+   "Sunlight! The rice plant makes sugar. Move forward 2.",
+   "Name an energy-giving food from South India.",
+   "What is respiration?",
+   "You drank tea with your iron-rich lunch. Go back 1.",
+   "Name a dish that joins a grain and a pulse.",
+   "Why does a peanut burn for so long?",
+   "Root bacteria give your toor plant nitrogen. Move forward 2.",
+   "Name a protective food that is orange.",
+   "You kept the curd in the fridge overnight. It did not set. Miss a turn.",
+   "Name a food made by fermentation.",
+   "Why must rajma be boiled well?",
+   "You squeezed lemon on your dal. Move forward 1.",
+   "Name a millet.",
+   "Which holds more energy per gram: fat or starch?",
+   "You only ate fried snacks today. Go back 2.",
+   "Name one way to cook food, and a dish cooked that way.",
+   "What does vitamin C do for the iron in plant food?",
+   "You shared your guava with a friend. Move forward 1.",
+   "What are proteins built from?",
+   "Name a dish from a state far from yours.",
+   "Why do millets suit dry places?",
+   "FOOD FESTIVAL"
+  ]
+ },
+ "big": [
+  "Almost all the energy in your body began as sunlight caught by a plant. In what sense are you running on sunlight?",
+  "Your proteins were built from amino acids taken from dal, rice, milk and microbes. When does food stop being food and start being you?",
+  "Bacteria and yeasts make our curd and idli, and bacteria in pulse roots help make our dal. Who should get credit for a meal?",
+  "India grew much more rice and wheat after the 1960s, and much less millet. Is growing more food always the best answer to hunger?",
+  "Is there one balanced diet for everyone, or should it depend on where you live, what grows there and what your family eats?"
+ ],
+ "challenge": [
+  {
+   "q": "Many people say you must eat rice and dal in the same meal, or the protein is wasted. Is that true?",
+   "hint": "In 1971 Frances Moore Lappé wrote 'Diet for a Small Planet', which taught people to combine proteins at every meal. In a later edition she said this was stricter than needed. The body keeps a supply of amino acids over the day, so grains and pulses eaten at different meals still work together. What matters most is eating both regularly. Ask: why might traditional dishes join them in one meal anyway?"
+  },
+  {
+   "q": "People often say fat is bad for you. Is that how scientists see it?",
+   "hint": "Every cell in your body has a skin made largely of fats, your brain is rich in fats, and some vitamins, such as vitamin A, need fat to be taken in. Too much energy from any food, eaten for years, can lead to illness. Scientists still argue about which kinds of fat are best. Ask: why might 'fat is bad' be too simple a rule?"
+  },
+  {
+   "q": "Some advertisements call millets a new 'superfood'. Are they new, and what does 'superfood' mean?",
+   "hint": "Millets are among the oldest grains grown in India, for thousands of years. They are rich in fibre and minerals, and ragi is rich in calcium. But 'superfood' is a word used to sell things, not a science term. No single food gives everything the body needs. Ask: why did people stop eating millets, and why are they coming back now?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A toor dal plant",
+   "view": "To build protein, she needs nitrogen, and the soil has little. Bacteria in her root nodules take nitrogen from the air and give it to her, and she feeds them sugar. After the harvest, her roots leave some nitrogen in the soil for the next crop. Ask: who should be thanked for the protein in your dal?"
+  },
+  {
+   "who": "The bacteria in curd",
+   "view": "They feed on the sugar in milk and turn it into lactic acid. The acid thickens the milk and keeps many harmful germs from growing in it. They need warmth to work. Ask: is a bowl of curd food made by people, or by bacteria?"
+  },
+  {
+   "who": "Selvi, a woman who farms ragi in the Kolli Hills of Tamil Nadu (a made-up person in a real place where millets are grown)",
+   "view": "Ragi grows on her dry hillside with the rain alone, and her family eats it as kali and roti. In the market, polished rice once sold faster than ragi. Ask: why might a farmer stop growing a crop that is good for people and for dry land?"
+  },
+  {
+   "who": "A cook in a school midday meal kitchen",
+   "view": "Every school day, she cooks rice, dal and vegetables for hundreds of children, for many of whom it is the biggest meal of the day. Ask: what does she need to know about food groups, cooking and safety, and what does it cost?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Kamala Sohonie (1911–1998), India",
+   "idea": "In 1933 Kamala Sohonie applied to do research at the Indian Institute of Science in Bangalore. The director, C. V. Raman, refused her at first because she was a woman. She insisted, and was admitted for one year on trial. Her work was so good that she was allowed to stay. In 1939 she earned a PhD at Cambridge University, one of the first Indian women to earn a PhD in science. Later, at the suggestion of President Rajendra Prasad, she studied neera, the sweet sap of palm trees, and found that it held vitamins and minerals, including vitamin C and iron. She showed that it could help poorly fed children and pregnant women.",
+   "then": "Many scientists of the time did not believe women could do serious research. After she proved herself, the Institute began to accept more women.",
+   "now": "She is remembered as a pioneer of Indian biochemistry, and as a scientist who studied cheap local foods to help the poorest families.",
+   "status": "accepted",
+   "ask": "Who decides who is allowed to be a scientist? What did the Institute lose by saying no at first?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Elsie Widdowson (1906–2000) and Robert McCance (1898–1993), Britain",
+   "idea": "Widdowson, a chemist, and McCance, a doctor, measured the nutrients in hundreds of foods and published them as 'The Chemical Composition of Foods' in 1940. In the Second World War, Britain feared it would run short of food. So they and a few colleagues lived for three months on a plain diet of mostly bread, potatoes and vegetables, with very little meat, milk or eggs. Then they tested their fitness with long, hard cycling and mountain walks. They stayed fit and healthy.",
+   "then": "Their results helped the government plan wartime rationing. Their work also led to calcium being added to bread in Britain.",
+   "now": "Their food tables, updated many times, are still used in Britain today. They worked together as equal partners for about 60 years.",
+   "status": "accepted",
+   "ask": "Why did they test the diet on themselves first? Would you trust a diet more if the scientists had tried it?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Richard Wrangham (born 1948), Britain and USA",
+   "idea": "Wrangham studies chimpanzees and human evolution. In his 2009 book 'Catching Fire: How Cooking Made Us Human', he argued that cooking made food much easier to digest, so our ancestors got more energy from the same food. He thinks this let them grow bigger brains and smaller guts and teeth, and that cooking began almost 2 million years ago.",
+   "then": "Many scientists liked the idea, because experiments show cooked food gives animals more energy than the same food raw.",
+   "now": "It is debated. Archaeologists find clear signs of controlled fire only from about 1 million years ago, and regular use of fire much later than that. Older signs may simply have been lost. Nobody yet knows when cooking began.",
+   "status": "debated",
+   "ask": "What would you need to find in the ground to believe that people cooked 2 million years ago?",
+   "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "M. S. Swaminathan (1925–2023), India",
+   "idea": "Swaminathan was a plant scientist born in Kumbakonam, Tamil Nadu. In the 1960s India could not grow enough grain and had to bring wheat from abroad. He worked with the American scientist Norman Borlaug to adapt new high-yield wheat for Indian fields, and India's wheat harvest grew fast. This was called the Green Revolution. Later he warned that too many chemicals and too much water were harming the soil, and he called for an 'evergreen revolution' that grows more food while keeping the land healthy.",
+   "then": "He was praised for helping end India's need to import grain. Critics pointed out that the new crops needed lots of water, fertiliser and money, and that millets and pulses were grown less.",
+   "now": "India now grows more than enough grain to feed everyone, though not everyone gets enough. In parts of Punjab the water under the ground is falling fast. Scientists still debate how to grow enough food while protecting soil, water and old crops like millets.",
+   "status": "debated",
+   "ask": "India grew much more rice and wheat, and less millet. What did we gain, and what did we lose?",
+   "day": 6
+  }
+ ],
+ "story": {
+  "title": "Batter for Amma",
+  "text": [
+   "In December, Amma worked nights at the hospital in Mysuru. She left at eight in the evening in her blue uniform and came home at seven in the morning, when the milk packets thumped onto our doorstep. I was ten. My brother Arjun was seven. Farida Aunty from the flat next door kept her door open a crack at night, so she could hear us.",
+   "Every Saturday that I could remember, Amma had soaked rice and urad dal, ground them into batter, and left it overnight. On Sunday we ate idli. That December she said, 'No idli this month. I'm too tired to grind.' She said it lightly, but she looked at the empty batter vessel on the shelf for a long time.",
+   "So Arjun and I made a plan. On Friday morning, before she woke, I measured four cups of idli rice into one bowl and one cup of urad dal into another, the way she did, and covered them with water. In the evening, after she left, Farida Aunty came over to work the mixie, because Amma did not let us use it alone. I scraped the thick white batter into the big steel vessel and stirred in the salt with my hand. I marked the level on the outside with a strip of tape. Then I covered it with a plate and went to sleep feeling very grown up.",
+   "On Saturday morning the batter had not moved. It sat exactly at the tape, flat and heavy. It smelled of wet rice and nothing else. When Amma's batter was ready on Sundays, it smelled sharp, like curd, and it puffed up above the tape like a cushion. Mine looked like wet cement.",
+   "'It's broken,' said Arjun. 'Throw it away before Amma sees.'",
+   "I didn't want to throw it away. Four cups of rice is a lot of rice. I knocked on Farida Aunty's door. She had taught chemistry at a girls' school for thirty years, and she still wore her reading glasses on a chain.",
+   "She looked into the vessel and sniffed. Then she asked me a strange question. 'When your Amma sets curd in winter, what does she do?'",
+   "'She puts the curd bowl in the hot-case and shuts the lid,' I said. 'Otherwise it stays as milk.'",
+   "'Why?'",
+   "I thought about it. Amma always started curd with a spoon of old curd. Farida Aunty had told us once that the spoon held millions of bacteria, too small to see, and that they ate the sugar in the milk and made it sour and thick. 'Because the bacteria need to be warm,' I said slowly. 'They don't work in the cold.'",
+   "Farida Aunty said nothing. She just waited, the way she did.",
+   "I looked at the batter. Our flat was cold that week. Even the floor was cold through my socks. 'There are bacteria in the batter too,' I said. 'And they're cold.'",
+   "'Bacteria and yeasts,' she said. 'They live on the rice and the dal, and on your hands. They eat the sugars in the batter and give off a gas. The gas makes bubbles, and the bubbles lift the batter. The urad dal makes the batter sticky, so the bubbles stay trapped inside. Your batter isn't broken. Its microbes are just too cold to eat.'",
+   "Arjun and I filled the biggest vessel in the kitchen with warm water from the geyser, as warm as a bath. We stood the batter vessel inside it and wrapped them both in Amma's old brown shawl. Every two hours we changed the water. Arjun wanted to know why we didn't just put it on the stove. I told him the microbes like it warm, like a bath, but too much heat would kill them, the same way boiling milk kills the bacteria in it. He nodded seriously and tested the water with his elbow, the way Amma tests his bath.",
+   "By the afternoon the top of the batter was dotted with tiny holes. By evening it had climbed two fingers above the tape, soft and round on top, and it smelled sharp and sour, like Sunday.",
+   "Amma left for work at eight. She kissed us both and didn't look at the shelf.",
+   "At six the next morning, Farida Aunty lit the stove and watched while I poured the batter into the idli plates and set them in the steamer. When I lifted the lid, the steam rolled up to the ceiling. The idlis were white and round and so soft they shook.",
+   "Amma came in at seven, smelling of hospital soap. She stopped in the kitchen doorway. Then she sat down at the table, still in her uniform, and ate three idlis with coconut chutney without saying a word.",
+   "'How did you make it rise?' she asked at last. 'It's so cold this week.'",
+   "'I kept them warm,' I said. 'Like the curd.'",
+   "'Them?' said Amma.",
+   "'The bacteria,' said Arjun, with his mouth full. 'And the yeasts. They were too cold to eat.'",
+   "Amma laughed. It was the first time I had heard her laugh all month. She pulled the brown shawl off the vessel and around her own shoulders, though it still smelled of batter. Then she went to bed. Arjun scraped the last of the batter into a small bowl and covered it with a plate. Next Saturday, he said, he would change the water himself."
+  ],
+  "epiphany": "For the parent: the batter does not rise on the first night, and the children think it is broken. The turn comes when Kavya connects it with curd: curd sets only when it is kept warm, because living bacteria make it. So the batter is not broken. It holds living bacteria and yeasts that are too cold to work. Idli is made by several living partners together: the rice plant, the urad plant, the microbes and the people. Let your child test this idea with the curd bowls on Days 4 and 5 before you explain fermentation. Kavya, Arjun, Amma and Farida Aunty are made up.",
+  "ask": [
+   "Why did the batter not rise on the first night?",
+   "What did setting curd have to do with the batter?",
+   "Why did Kavya use warm water and not the stove?",
+   "Which living things helped make those idlis?",
+   "Why do you think Amma laughed?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "The energy in your food is sunlight that plants caught.",
+   "more": "A leaf uses sunlight to make sugar from air and water. The plant stores it as starch or fat in seeds and roots for her own young. When you eat it, your cells join it with oxygen and release the energy as movement and heat. The burning peanut shows the same energy coming out quickly as a flame."
+  },
+  {
+   "idea": "Your body takes food apart and builds itself again from the pieces.",
+   "more": "Dal protein is broken into amino acids, and your cells join them in a new order to make your own muscle, skin and blood. Grains and pulses each lack a different amino acid, so together they build more than either alone. Cooks across India joined them in idli, pongal, rajma chawal and dal-roti long before anyone knew why."
+  },
+  {
+   "idea": "Much of our food is made by many living beings working together.",
+   "more": "Bacteria in pulse roots take nitrogen from the air for the plant. Bacteria and yeasts turn milk into curd and batter into idli. Plants make vitamins and colours to protect themselves, and these protect us too."
+  }
+ ],
+ "unknowns": [
+  "When did people begin to cook? Some scientists think it was almost 2 million years ago, but clear signs of fire in the ground are much later. Nobody knows yet.",
+  "Do fermented foods make people healthier? In a careful study in 2021, people who ate more fermented foods for ten weeks had more kinds of gut microbes. Nobody yet knows how much this matters for health.",
+  "Why do people with very different traditional diets, from fish and rice in Kerala to millet and milk in Rajasthan, all stay healthy? Scientists still argue about how much of a balanced diet is the same for everyone."
+ ],
+ "books": [
+  {
+   "title": "What Happens to a Hamburger?",
+   "author": "Paul Showers",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A clear picture book about how the body takes food apart and uses it for energy and growth."
+  },
+  {
+   "title": "Before We Eat: From Farm to Table",
+   "author": "Pat Brisson",
+   "for": "read together",
+   "age": "4–8",
+   "why": "Shows the many people who grow, catch, carry and sell food before it reaches the plate."
+  },
+  {
+   "title": "Catching Fire: How Cooking Made Us Human",
+   "author": "Richard Wrangham",
+   "for": "parent reads",
+   "age": "Adult. A parent can read parts aloud",
+   "why": "The book behind Voice v3. Explains why cooked food gives more energy, and the debate about when cooking began."
+  },
+  {
+   "title": "Diet for a Small Planet",
+   "author": "Frances Moore Lappé",
+   "for": "parent reads",
+   "age": "Adult",
+   "why": "The book that made grain-and-pulse partners famous, and later explained why they need not be in the same meal."
+  }
+ ],
+ "check": [
+  {
+   "q": "Where does the energy in food first come from?",
+   "a": "From sunlight. Green plants use it to make sugar from air and water, which is called photosynthesis. Animals that we eat got their energy by eating plants."
+  },
+  {
+   "q": "What is respiration, and why do you get hot when you run?",
+   "a": "Respiration is how every cell uses oxygen to release the energy stored in food. When you run, your cells release more energy. Some moves your muscles, and much comes out as heat."
+  },
+  {
+   "q": "Why did the peanut burn so much longer than the puffed rice?",
+   "a": "The peanut is about half fat. Fat holds about 9 kilocalories in each gram, more than twice the 4 in starch. Puffed rice is mostly starch and is very light."
+  },
+  {
+   "q": "Why do rice and dal build more protein together than alone?",
+   "a": "Proteins are built from amino acids. Rice is short of one, called lysine, and dal is short of another, called methionine. Each has plenty of what the other lacks, so together the body can build more."
+  },
+  {
+   "q": "Why do pulses have so much protein?",
+   "a": "Bacteria in their root nodules take nitrogen from the air and give it to the plant. Plants need nitrogen to build protein, and pulse plants store lots of protein in their seeds for their seedlings."
+  },
+  {
+   "q": "How can you help your body take in more iron from dal or palak?",
+   "a": "Eat something with vitamin C, such as lemon, amla or guava, in the same meal. Don't drink tea or coffee with the meal, because they hold on to the iron."
+  },
+  {
+   "q": "Why did only one curd bowl set?",
+   "a": "Curd is made by living bacteria from the starter. They turn milk sugar into acid, which thickens the milk. They need warmth. The fridge bowl was too cold, and the bowl with no starter had almost no bacteria."
+  },
+  {
+   "q": "Name four ways of cooking, with a dish for each, and say which adds the most fat.",
+   "a": "Steaming (idli), boiling (dal), frying (vada) and roasting (bhutta). Frying adds the most fat, because the food soaks up oil, as the paper test showed."
+  }
+ ]
+}

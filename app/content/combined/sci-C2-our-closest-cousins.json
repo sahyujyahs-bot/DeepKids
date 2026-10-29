@@ -1,0 +1,1198 @@
+{
+ "key": "combined|sci|2|our-closest-cousins",
+ "board": "combined",
+ "subj": "sci",
+ "level": 2,
+ "n": "our-closest-cousins",
+ "day_mins": 35,
+ "title": "Our closest cousins: the apes and monkeys who are family to us",
+ "source": "DeepKids Combined. A DeepKids topic: no board teaches it at Class 2. It covers primates, apes and monkeys, the great apes (chimpanzees, bonobos, gorillas, orangutans), gibbons and the monkeys of India, and what apes share with us. No textbook needed.",
+ "summary": "Chimpanzees are not our grandparents. They are our cousins, and we share a great-great-grandmother from about 6 to 7 million years ago. Your child grips a pencil with their toes, tests their eyes with two pencil tips, and fishes honey out of a bottle with a curry-leaf stalk, the way a chimpanzee fishes for termites. They try a mirror test, play a number memory game that a young chimpanzee is very good at, build an orangutan nest and sing a gibbon duet. They meet Jane Goodall, who started with no degree, and find out why many apes are in danger, and what that has to do with a biscuit packet.",
+ "builds_on": "Class 1 'Me and others' met Jane Goodall, who named chimpanzees instead of numbering them. Class 2 'Why we look like our family' showed that young get their features from their parents. This rung is the first one on our ape and monkey cousins. Class 4 'Where humans came from' tells the story of our own ancestors after we split from chimpanzees. Class 5 comes back to our closest cousins with DNA, ape cultures and how apes talk to each other.",
+ "subconcepts": [
+  "primates: the group that holds monkeys, apes and humans",
+  "apes have no tail, and most monkeys have one",
+  "the great apes: chimpanzees, bonobos, gorillas, orangutans and humans",
+  "cousins share an ancestor: we did not come from chimpanzees",
+  "the monkeys of India, from the bonnet macaque to the lion-tailed macaque",
+  "hands and feet that grip, with nails and thumbs, for life in trees",
+  "eyes at the front of the face judge how far away things are",
+  "chimpanzees make and use tools, and learn them from their mothers",
+  "ape feelings: laughing, grooming, comforting, making up and fairness",
+  "knowing yourself in a mirror, and other ways of knowing yourself",
+  "gorillas: the biggest apes, who eat plants and live in families",
+  "bonobos: peaceful groups led by females",
+  "orangutans: a long childhood and a new nest every night",
+  "gibbons: India's only ape, who sing duets every morning",
+  "our cousins are in danger: forests, palm oil and what we buy"
+ ],
+ "goals": [
+  "By the end your child can say what a primate is and tell an ape from a monkey.",
+  "By the end your child can explain that humans and chimpanzees are cousins who share an ancestor, and that we did not come from chimpanzees.",
+  "By the end your child can show, from their own tests, how gripping hands and front-facing eyes help an animal that lives in trees.",
+  "By the end your child can describe how a chimpanzee makes a tool, and make one themselves.",
+  "By the end your child can name the four great apes besides us, and one thing about how each one lives.",
+  "By the end your child can say why many apes are in danger and give two sides of the palm oil question."
+ ],
+ "words": [
+  [
+   "primate",
+   "an animal with hands that grip, nails instead of claws and eyes at the front of the face. Monkeys, apes and humans are primates."
+  ],
+  [
+   "ape",
+   "a primate with no tail, long arms and a big brain. Chimpanzees, gorillas, orangutans, gibbons and humans are apes."
+  ],
+  [
+   "monkey",
+   "a primate that usually has a tail. The bonnet macaques and langurs of India are monkeys."
+  ],
+  [
+   "cousin",
+   "someone who shares grandparents with you. Animal cousins share a grandmother from very long ago."
+  ],
+  [
+   "ancestor",
+   "a great-great-grandparent from long, long ago, whose children's children led to you"
+  ],
+  [
+   "tool",
+   "something an animal picks up or makes to help do a job, like a stick to reach food"
+  ],
+  [
+   "grooming",
+   "picking through a friend's fur or hair to clean it. Apes do it to stay clean and to stay friends."
+  ],
+  [
+   "DNA",
+   "the long list of instructions inside every cell that helps build a body"
+  ],
+  [
+   "endangered",
+   "so few are left that they could disappear from the Earth for ever"
+  ]
+ ],
+ "days": [
+  {
+   "n": 1,
+   "title": "Who are our cousins?",
+   "goal": "Meet the primates, tell apes from monkeys, and draw the tree that shows we are cousins of the apes.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What makes a cousin?",
+     "mins": 7,
+     "do": "Ask: 'Who are your cousins? What makes them your cousins?' Give your child time. Good answers: their Amma or Appa is the brother or sister of my Amma or Appa, we have the same Paati and Thatha. Say: 'Cousins share grandparents. Today you will meet some cousins who are not people. They share a grandmother with us from very, very long ago.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Meet the primates",
+     "mins": 13,
+     "do": "Show pictures on a phone, one at a time: a chimpanzee, a gorilla, an orangutan, a bonobo, a hoolock gibbon, a bonnet macaque and a grey langur. For each one ask: 'What is the same as you?' Good answers: hands with five fingers, nails, eyes at the front, a face that shows feelings. Say: 'All these animals, and us, belong to one group called primates. Primates have hands that grip, nails instead of claws, and eyes at the front of the face.' Then ask: 'Which of these have a tail?' Your child sorts the pictures into 'tail' and 'no tail'. Say: 'The ones with no tail are apes. Most monkeys have a tail. Humans have no tail, so we are apes too.' Ask: 'Have you seen monkeys in India?' Good answers: bonnet macaques at temples in the South, rhesus macaques in the North, grey langurs on rooftops. Say: 'India has only one ape: the hoolock gibbon, in the forests of the northeast.'"
+    },
+    {
+     "kind": "act",
+     "title": "The cousin tree",
+     "mins": 15,
+     "do": "Do Activity a1. First ask: 'Did people come from chimpanzees? What do you think?' Listen to the guess and the reason. Then draw the tree with your child, as the activity says. Point to the place where the human twig and the chimpanzee twig join. Say: 'We did not come from chimpanzees. Chimpanzees and we both came from the same great-great-grandmother. She lived about 6 or 7 million years ago. So chimpanzees are our closest cousins.' Say: 'Inside every cell is a long list of instructions called DNA. About 99 out of every 100 letters in our list are the same as in a chimpanzee's.' Ask: 'Who is a closer cousin to us, a gorilla or a monkey?' (A gorilla, because the gorilla branch joins ours nearer the top.)",
+     "ref": "a1"
+    }
+   ],
+   "need": [
+    "a phone to show pictures",
+    "a big sheet of paper",
+    "pencil and crayons",
+    "a sheet of paper for the cover of the cousin book"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Hands, feet and eyes for life in the trees",
+   "goal": "Find out, by testing, how gripping feet and front-facing eyes help an animal that lives high in the trees.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The tree problem",
+     "mins": 5,
+     "do": "Ask: 'Remember the cousin tree? Where do most of our ape and monkey cousins live?' (In trees, in forests.) Then ask: 'If you lived high up in a tree, what would be your biggest problem?' Good answers: falling, reaching the next branch, judging how far to jump. Say: 'Today we test two things that help primates with these problems.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Grip with your toes",
+     "mins": 13,
+     "do": "Do Experiment e1. First ask: 'Can you pick up a pencil with your toes? Will it be as quick as with your fingers?' Write down the guess. Your child sits on a chair and tries, as the experiment says, while you time each try. Then show a photo of a chimpanzee's foot on a phone. Ask: 'What is different about the chimpanzee's big toe?' (It sticks out to the side, like a thumb.) Say: 'Apes can hold a branch with their feet as well as their hands. Our big toe is in line with our other toes. That helps us walk and run, but not climb.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "exp",
+     "title": "Two pencil tips",
+     "mins": 12,
+     "do": "Do Experiment e2. Ask first: 'Will it be easier to touch two pencil tips together with both eyes open, or with one eye shut?' Write down the guess and the reason. Do five tries each way and count the hits. Ask: 'What happened with one eye shut?' (We missed more.) Say: 'Each eye sees things from a slightly different place. Your brain puts the two pictures together and works out how far away things are. A monkey jumping to a branch needs to know exactly how far it is.' Ask: 'A cow has eyes on the sides of her head. What does she see better than you?' (What is all around her, even behind.)",
+     "ref": "e2"
+    },
+    {
+     "kind": "think",
+     "title": "Nails, not claws",
+     "mins": 5,
+     "do": "Ask your child to look at their fingertips. Ask: 'What does a cat or a dog have at the end of each toe?' (Claws.) Say: 'Primates have flat nails instead. Under the nail is a soft pad with fingerprints, which grips well and feels very finely. Chimpanzees and gorillas have fingerprints too.' Your child draws their hand on a page for the cousin book and writes 'nails, fingerprints, thumb'."
+    }
+   ],
+   "need": [
+    "a pencil",
+    "a handkerchief",
+    "a chair",
+    "a phone with a timer",
+    "two more pencils",
+    "the cousin book"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Chimpanzees and their tools",
+   "goal": "Hear how Jane Goodall saw chimpanzees make tools, and make a tool to fish for food from a bottle.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Meet the chimpanzee",
+     "mins": 5,
+     "do": "Show a photo or short video of chimpanzees on a phone. Say: 'Chimpanzees live in the forests of Africa, in big groups. They eat mostly fruit, and also leaves, seeds, insects and sometimes meat.' Ask: 'What do you see them doing?' Good answers: climbing, eating, hugging, playing, carrying babies."
+    },
+    {
+     "kind": "talk",
+     "title": "Jane Goodall's notebook",
+     "mins": 8,
+     "do": "Tell voice v1 in your own words. In 1960 a young Englishwoman named Jane Goodall went to the Gombe forest in Tanzania to watch chimpanzees. She had no university degree. Her mother came with her for the first months. The chimpanzees ran away from her for a long time. Then one chimpanzee she named David Greybeard let her watch him. He pulled the leaves off a thin twig, pushed the twig into a termite mound, and pulled it out covered in termites to eat. Ask: 'Why were scientists surprised?' (Many thought only humans made tools.) Say: 'Her teacher, Louis Leakey, wrote that we must change what we mean by tool, or by human, or accept chimpanzees as human.'",
+     "ref": "v1"
+    },
+    {
+     "kind": "exp",
+     "title": "Fishing with a curry-leaf stalk",
+     "mins": 17,
+     "do": "Do Experiment e3. Say: 'The honey at the bottom of this bottle is the termites, deep inside the mound. Your finger is too short and too thick to reach it. That is the chimpanzee's problem.' Ask your child to guess which tool will work best, and why. Let them try each tool, as the experiment says. Ask: 'Why did the stalk work better after you pulled off the leaves?' (It is thin and smooth, so it slides through the narrow neck.) Say: 'That is what David Greybeard did. He did not only use a stick. He made it into a better tool.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Who taught the chimpanzee?",
+     "mins": 5,
+     "do": "Say: 'In some forests in West Africa, chimpanzees crack hard nuts with a stone, on a flat stone or a root. Some chimpanzees chew leaves into a sponge to soak up water.' Ask: 'How does a young chimpanzee learn this?' Good answer: by watching her mother for years. Ask: 'Who taught you to eat with your hand, or with a spoon?' Say: 'Chimpanzees in different forests have different ways, just as families do.' Your child draws David Greybeard's twig tool for the cousin book."
+    }
+   ],
+   "need": [
+    "a phone to show a photo",
+    "an empty 500 ml plastic water bottle, washed",
+    "2 spoons of honey or thick jaggery syrup",
+    "3 long curry-leaf stalks with leaves on",
+    "a toothpick",
+    "a teaspoon",
+    "a plate",
+    "the cousin book"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Feelings, friends and a mirror",
+   "goal": "Find out that apes laugh, groom, comfort and make up after fights, and try the mirror test.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the tool",
+     "mins": 4,
+     "do": "Ask: 'What tool did you make yesterday? What did you do to make it better?' (I pulled the leaves off the curry-leaf stalk so it fit into the bottle.) Ask: 'Which chimpanzee did the same thing?' (David Greybeard.)"
+    },
+    {
+     "kind": "act",
+     "title": "Groom a friend",
+     "mins": 9,
+     "do": "Say: 'Chimpanzees spend a long time every day grooming each other. They pick through each other's fur to take out dirt and ticks. It also keeps them friends.' Your child grooms your arm or hair gently for one minute, looking closely, the way a chimpanzee would. Then swap. Ask: 'How did it feel?' Then say: 'Young apes laugh when they are tickled. It sounds like panting: ah-ah-ah. After a fight, chimpanzees often hug or kiss to make up. Frans de Waal, a scientist, saw this again and again. A friend may also hug the one who lost the fight.' Ask: 'What do you do after you fight with a friend?'"
+    },
+    {
+     "kind": "exp",
+     "title": "The mirror test",
+     "mins": 7,
+     "do": "Do Experiment e4. First ask: 'When you see a mark on your face in the mirror, what will you do?' Then do the test, as the experiment says. Watch whether your child touches the mirror or their own face.",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "Gallup's chimpanzees",
+     "mins": 5,
+     "do": "Tell voice v2 in short: in 1970, a scientist named Gordon Gallup put a red mark on the faces of chimpanzees while they slept. When they woke and looked in a mirror, they touched the mark on their own face. Ask: 'What does that tell us?' (They knew the one in the mirror was themselves.) Say: 'Most monkeys and dogs do not touch the mark. But a dog knows his own smell very well. Each animal may know themselves in their own way.'",
+     "ref": "v2"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "do": "Do worksheet ws1 together. Read each question aloud. For the 'why' questions, let your child tell you the answer first, then help them write a few words or draw it.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a mirror",
+    "a small sticker bindi, or a dot of washable paint or kumkum",
+    "the worksheet"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Gorillas, bonobos and different kinds of clever",
+   "goal": "Meet gorillas and bonobos, move like our cousins, and play the memory game a young chimpanzee is very good at.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the mirror",
+     "mins": 4,
+     "do": "Ask: 'What did the chimpanzees do when they saw the red mark in the mirror?' (They touched their own face.) Ask: 'What did you do?' (The same.) Say: 'Today we meet two more of our cousins.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Gorillas and bonobos",
+     "mins": 8,
+     "do": "Show photos of gorillas. Say: 'Gorillas are the biggest apes. They eat mostly leaves, stems and fruit. Leaves give very little energy. So a gorilla eats a lot, has a big belly to digest it all, and rests for a long time.' Say: 'A grown male is called a silverback, because the hair on his back turns silver. He beats his chest with cupped hands to show how strong he is. This often stops a fight before it starts.' Then show photos of bonobos. Say: 'Bonobos look like chimpanzees. They live only in one country in Africa, the Democratic Republic of the Congo. In bonobo groups the females stick together and lead. They share food and calm fights.' Ask: 'Gorilla, chimpanzee or bonobo: which would you like to live with? Why?'"
+    },
+    {
+     "kind": "act",
+     "title": "Move like our cousins",
+     "mins": 13,
+     "do": "Do Activity a2. Play some music if you like. Call out an ape, and your child moves like them, as the activity says: a gorilla knuckle-walking and drumming on the chest, a chimpanzee climbing, an orangutan moving slowly and always holding on, a gibbon swinging arm over arm. Ask after each one: 'Which part of your body did the most work?' Ask: 'Which way of moving was the hardest for your body? Why?' (Knuckle-walking, because our arms are shorter than an ape's.)",
+     "ref": "a2"
+    },
+    {
+     "kind": "act",
+     "title": "Ayumu's number game",
+     "mins": 10,
+     "do": "Do Activity a3. Say first: 'In Japan, scientists tested a young chimpanzee named Ayumu. Numbers flashed on a screen for less than a second. Then they were covered with white squares. Ayumu touched the squares in order, 1, 2, 3, and he did it better than university students.' Ask: 'Do you think you can beat Ayumu?' Play the game with your child and a grown-up. Ask: 'Does this mean chimpanzees are cleverer than people?' Good answer: no, each kind of animal is clever in the ways their life needs. Chimpanzees cannot read, and we cannot climb like them.",
+     "ref": "a3"
+    }
+   ],
+   "need": [
+    "a phone to show photos",
+    "music to play (if you like)",
+    "10 small squares of paper and a pencil"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Orangutans and gibbons, high in the trees of Asia",
+   "goal": "Hear a story about a young orangutan, find out why orangutans have such a long childhood, build a nest and sing a gibbon duet.",
+   "steps": [
+    {
+     "kind": "read",
+     "title": "Read the story",
+     "mins": 12,
+     "do": "Say: 'Orangutans are the red-haired apes of Asia. They live on two big islands, Borneo and Sumatra.' Then read the story 'Lintang's First Nest' aloud. Stop at the line 'I sat in a tree and I did not know what to do.' Ask: 'What could Lintang do?' Let your child guess, then read to the end."
+    },
+    {
+     "kind": "talk",
+     "title": "Why does Lintang stay so long?",
+     "mins": 6,
+     "do": "Ask the story questions. Good answers: Lintang learned by watching her mother for years. Nobody told her in words. Then tell voice v3 in short: Birute Galdikas has watched orangutans in Borneo since 1971. She found that a mother orangutan has a new baby only about once in 8 years. The young one stays close all that time and learns where to find food in every season, and how to build a nest. Ask: 'Why does an orangutan need so many years to learn?' (The forest is big and food is in different places at different times.)",
+     "ref": "v3"
+    },
+    {
+     "kind": "act",
+     "title": "A nest and a duet",
+     "mins": 12,
+     "do": "Do Activity a4. Say: 'An orangutan builds a new nest high in a tree almost every night. It takes only a few minutes.' Your child builds a nest, as the activity says, in three minutes, then lies in it. Then say: 'India's only ape, the hoolock gibbon, lives in the forests of the northeast, in places like Assam. Every morning a gibbon couple sings a loud song together, called a duet. It tells other gibbons: this part of the forest is ours.' Sing the duet with your child, as the activity says.",
+     "ref": "a4"
+    },
+    {
+     "kind": "think",
+     "title": "Cousin book: four apes",
+     "mins": 5,
+     "do": "Your child makes a page with four boxes: chimpanzee, gorilla, orangutan, gibbon. In each box they draw the ape and write one thing that ape does. Good answers: makes tools, beats his chest, builds a nest every night, sings a duet in the morning."
+    }
+   ],
+   "need": [
+    "two chairs",
+    "a bedsheet",
+    "three or four cushions or pillows",
+    "a phone with a timer",
+    "the cousin book"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Our cousins need forests",
+   "goal": "Find out why many apes are in danger, hunt for palm oil on food packets, and act out a test about fairness.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the gibbons",
+     "mins": 4,
+     "do": "Ask: 'Where do hoolock gibbons live? What do they do every morning?' (In the forests of northeast India. They sing a duet.) Ask: 'What does a gibbon need to live?' Good answers: tall trees close together, fruit, a family."
+    },
+    {
+     "kind": "talk",
+     "title": "Why our cousins are in danger",
+     "mins": 7,
+     "do": "Say: 'All the great apes are endangered. That means so few are left that they could disappear for ever. The biggest danger is that their forests are cut down. Some are also hunted.' Say: 'In Borneo and Sumatra, where orangutans live, large parts of the forest were cut down to grow oil palm trees. Palm oil is made from their fruit.' Ask: 'Where do you think that palm oil goes?' Let your child guess. Say: 'India buys more palm oil from other countries than almost any other country. Let us look in our own kitchen.'"
+    },
+    {
+     "kind": "act",
+     "title": "The packet hunt",
+     "mins": 10,
+     "do": "Do Activity a5. Your child looks at the ingredients on five food packets and makes a tally, as the activity says. Ask: 'How many packets had palm oil, or palmolein?' Then say: 'Here is the other side. An oil palm field gives much more oil than a field of groundnuts or soybeans. If everyone used other oils instead, we might need even more land, and cut even more forest.' Ask: 'So what could people do?' Good answers: grow palms without cutting forests, use less oil, buy from farms that protect forests, eat fewer packet snacks. Say: 'Grown-ups are still arguing about the best answer.'",
+     "ref": "a5"
+    },
+    {
+     "kind": "act",
+     "title": "Is it fair?",
+     "mins": 7,
+     "do": "Tell voice v4 by acting it. Two people at home sit side by side. Each one hands you a spoon when you ask. Give the first person a raisin each time. Give the second person a small piece of cucumber. Do it three times. Ask the second person: 'How did you feel?' Then say: 'Sarah Brosnan and Frans de Waal tried this with capuchin monkeys. Many monkeys who got cucumber threw it away or stopped playing when they saw their neighbour get a grape.' Ask: 'What does that tell us about monkeys?' Say: 'Scientists still argue about whether the monkeys feel that it is unfair, or are just upset that they missed the grape.'",
+     "ref": "v4"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 7,
+     "do": "Do worksheet ws2 together. Read each question aloud. For the 'pick a side' question, let your child choose a side, give a reason, and then say what the other person would answer.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "5 food packets from the kitchen (biscuits, chips, noodles or namkeen)",
+    "a few raisins",
+    "a few small pieces of cucumber",
+    "two spoons",
+    "paper and pencil",
+    "the worksheet"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Through the treetops, and teach it back",
+   "goal": "Play the treetop game, do the last worksheet, answer the check questions and teach the family about our cousins.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Through the Treetops",
+     "mins": 12,
+     "do": "Play game g1 on the printed board. Read each square aloud when a player lands on it. When a square asks a question, the player answers before they move. After the game, ask: 'Which square was about something you tested yourself?' (The toes, the two pencils, the curry-leaf tool, the mirror.)",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 8,
+     "do": "Do worksheet ws3 together. Read each question aloud. For the 'pick a side' question, let your child choose, give a reason from this week, then answer back from the other side.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 8,
+     "do": "Ask the check questions aloud. Listen for answers that use what your child did: the tail sort, the cousin tree, the toe test, the two pencils, the curry-leaf tool, the mirror and the packet hunt. If an answer is unsure, open the cousin book to that page and look again."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 7,
+     "do": "Your child shows the cousin book to someone at home or on a video call. They explain why chimpanzees are our cousins and not our grandparents, show one test they did, and say one reason our cousins are in danger. Ask the listener to ask one question."
+    }
+   ],
+   "need": [
+    "the printed game board",
+    "a die",
+    "a coin or button for each player",
+    "the worksheet",
+    "the cousin book"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Apes, monkeys and your tests",
+   "day": 4,
+   "sections": [
+    [
+     "A. Who is who",
+     [
+      {
+       "t": "sort",
+       "p": "Is this animal an ape or a monkey? Remember: apes have no tail.",
+       "items": [
+        "chimpanzee",
+        "bonnet macaque",
+        "gorilla",
+        "orangutan",
+        "grey langur",
+        "hoolock gibbon",
+        "lion-tailed macaque"
+       ],
+       "cats": [
+        "ape (no tail)",
+        "monkey (has a tail)"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which sentence is true?",
+       "opts": [
+        "Humans came from chimpanzees.",
+        "Humans and chimpanzees share a great-great-grandmother from long ago.",
+        "Chimpanzees came from humans."
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Monkeys, apes and humans all belong to one group of animals called ____.",
+       "a": [
+        "primates",
+        "primate"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each animal to the forest where they live.",
+       "pairs": [
+        [
+         "chimpanzee",
+         "forests of Africa"
+        ],
+        [
+         "orangutan",
+         "forests of Borneo and Sumatra"
+        ],
+        [
+         "hoolock gibbon",
+         "forests of northeast India"
+        ],
+        [
+         "lion-tailed macaque",
+         "Western Ghats in South India"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Your tests",
+     [
+      {
+       "t": "mcq",
+       "p": "You picked up a pencil with your toes, then with your fingers. Why were your toes slower?",
+       "opts": [
+        "Our big toe is in line with the other toes, not out to the side like a thumb.",
+        "Toes cannot move at all.",
+        "The pencil was heavier for the toes."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "You tried to touch two pencil tips together. Why was it harder with one eye shut?",
+       "opts": [
+        "With two eyes, the brain can work out how far away things are.",
+        "One eye cannot see colours.",
+        "The pencils moved."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In the bottle test, why did you pull the leaves off the curry-leaf stalk?",
+       "opts": [
+        "So the stalk would be thin and slide into the narrow bottle.",
+        "So the honey would taste of curry leaves.",
+        "Because chimpanzees do not like leaves."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "A young chimpanzee watches her mother fish for termites for many years. Why can she not do it well on the first day?",
+       "lines": 2,
+       "a": "A strong answer says that making a good tool takes skill: choosing the right twig, stripping it, pushing it in gently. She learns it bit by bit by watching and trying, the way we learn to tie laces."
+      },
+      {
+       "t": "write",
+       "p": "A cow's eyes are on the sides of her head. Why are a monkey's eyes at the front of the face?",
+       "lines": 2,
+       "a": "A strong answer uses the pencil test: two eyes looking the same way help the brain judge how far away a branch is, so the monkey can jump and grab it safely. A cow needs to see all around to spot danger."
+      },
+      {
+       "t": "draw",
+       "p": "Draw your hand and a chimpanzee's foot side by side. Circle the part on each one that works like a thumb."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "How our cousins live",
+   "day": 7,
+   "sections": [
+    [
+     "A. Problems and answers",
+     [
+      {
+       "t": "match",
+       "p": "Each ape has a problem. Match the problem to what the ape does about it.",
+       "pairs": [
+        [
+         "An orangutan is too heavy to jump to the next tree.",
+         "She sways her tree until the next one comes close."
+        ],
+        [
+         "A gorilla eats leaves, which give little energy.",
+         "He eats a lot and rests for a long time."
+        ],
+        [
+         "A chimpanzee's termites are deep inside a mound.",
+         "She pokes in a thin stripped twig."
+        ],
+        [
+         "An orangutan is getting soaked in the rain.",
+         "She holds a big leaf over her head."
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "The hoolock gibbon lives in the trees of Assam. How do we know a gibbon is an ape and not a monkey?",
+       "opts": [
+        "A gibbon has no tail.",
+        "A gibbon lives in trees.",
+        "A gibbon eats fruit."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "An orangutan builds a new ____ high in a tree almost every night.",
+       "a": [
+        "nest"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Do these apes live in Africa or in Asia?",
+       "items": [
+        "chimpanzee",
+        "gorilla",
+        "bonobo",
+        "orangutan",
+        "hoolock gibbon"
+       ],
+       "cats": [
+        "Africa",
+        "Asia"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Minds of their own",
+     [
+      {
+       "t": "mcq",
+       "p": "A chimpanzee sees a red mark on her face in a mirror. She touches her own face. What does this show?",
+       "opts": [
+        "She knows the chimpanzee in the mirror is herself.",
+        "She thinks it is another chimpanzee.",
+        "She likes the colour red."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In the mirror test, a dog does not touch the mark on his face. What is the fairest thing to say?",
+       "opts": [
+        "The dog does not know himself at all.",
+        "The dog may know himself in another way, such as by his own smell.",
+        "Dogs cannot see mirrors."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "In a test, a capuchin monkey gets cucumber for a job. Her neighbour gets a grape for the same job. What did many capuchins do?",
+       "opts": [
+        "Threw the cucumber away or stopped playing.",
+        "Ate the cucumber happily.",
+        "Gave their cucumber to the neighbour."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Pick a side. Revathi runs a snack shop in Madurai. She says: 'Palm oil is cheap. With groundnut oil my murukku would cost more, and fewer people could buy it.' Kavitha studies orangutans. She says: 'Orangutan forests are cut down to grow oil palms. We should use less palm oil.' Who do you agree with? Give a reason. Then say what the other woman would answer back.",
+       "lines": 4,
+       "a": "A strong answer picks a side and gives a reason: cheap food matters to many families, or orangutans lose their homes. Then it answers back fairly. Revathi might also say that oil palms give more oil from each field, so other oils could need even more land. Kavitha might say palms can be grown on land that is already cleared. Both women have a real point."
+      },
+      {
+       "t": "write",
+       "p": "Ayumu, a young chimpanzee, remembered flashing numbers better than university students. Does this mean chimpanzees are cleverer than people? Explain.",
+       "lines": 3,
+       "a": "A strong answer says no single kind is cleverer in every way. Ayumu is very good at remembering what he sees in a flash, which helps in a busy forest. People are good at other things, such as reading and talking. Each animal is clever in the ways their life needs."
+      },
+      {
+       "t": "draw",
+       "p": "Draw an orangutan's nest in the fork of a tree. Label the strong bent branches and the soft leafy top."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking like Jane Goodall",
+   "day": 8,
+   "sections": [
+    [
+     "A. Think like a scientist",
+     [
+      {
+       "t": "mcq",
+       "p": "Jane Goodall saw one chimpanzee, David Greybeard, use a twig as a tool. How could she be sure that chimpanzees really make tools?",
+       "opts": [
+        "Keep watching for months to see if other chimpanzees do it too.",
+        "Stop watching, because once is enough.",
+        "Ask a scientist who had never seen a chimpanzee."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Chimpanzees in one forest crack nuts with stones. Chimpanzees in another forest have the same nuts and stones, but never crack them. What is the best reason?",
+       "opts": [
+        "Each group learns its own ways from the older chimpanzees.",
+        "The second group cannot hold stones.",
+        "The nuts in the second forest are soft."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Humans and chimpanzees share about 99 out of every 100 letters in the instructions inside our cells, called ____.",
+       "a": [
+        "DNA"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Is this done only by humans, or by humans and other apes too?",
+       "items": [
+        "laugh when tickled",
+        "make tools",
+        "know themselves in a mirror",
+        "cook food",
+        "groom their friends",
+        "write books"
+       ],
+       "cats": [
+        "only humans",
+        "humans and other apes"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which picture shows how humans, chimpanzees and gorillas are related?",
+       "opts": [
+        "A tree: humans and chimpanzees on two twigs of one branch, gorillas on a branch lower down.",
+        "A line: gorillas turned into chimpanzees, who turned into humans.",
+        "A ladder: humans at the top, gorillas at the bottom."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Pick a side",
+     [
+      {
+       "t": "write",
+       "p": "Pick a side. Divya says: 'Apes should live in zoos. There, children can see them and hunters cannot hurt them.' Lalitha is a forest guard in Assam. She says: 'Apes should live in their own forests, where they can climb far, find their own food and live with their families.' Who do you agree with? Give a reason. Then say what the other one would answer back.",
+       "lines": 4,
+       "a": "A strong answer picks a side and uses something from this week: an orangutan needs a big forest to find food in every season, gibbons sing to keep their own part of the forest, or many apes are endangered and some are killed by hunters. Then it answers back fairly from the other side. Many people say good zoos and safe forests can both help, and the forests matter most."
+      }
+     ]
+    ],
+    [
+     "C. What if?",
+     [
+      {
+       "t": "write",
+       "p": "What if an orangutan mother had a new baby every year, like a rhesus monkey mother? What problem would her young ones have?",
+       "lines": 3,
+       "a": "A strong answer says the young ones would have to leave their mother very early, before they had learned where to find food in every season and how to build a nest, like Lintang in the story. They might go hungry or cold."
+      },
+      {
+       "t": "write",
+       "p": "A gorilla in a zoo beats his chest loudly. A visitor says: 'He is angry and wants to fight.' Could she be wrong? What else could the chest beating be for?",
+       "lines": 3,
+       "a": "A strong answer says chest beating is mostly a show of strength. It tells others how big and strong he is, which often stops a fight before it starts. It can also be a way to be noticed, or to call others."
+      },
+      {
+       "t": "draw",
+       "p": "Draw yourself next to one of your ape cousins. Show three ways you are the same and one way you are different."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Grip with your toes",
+   "day": 2,
+   "question": "Can our feet grip as well as our hands?",
+   "need": [
+    "a pencil",
+    "a handkerchief",
+    "a chair",
+    "a phone with a timer"
+   ],
+   "steps": [
+    "Your child sits on a chair with bare feet. Put the handkerchief on the floor in front of them.",
+    "Start the timer. Your child picks up the handkerchief with their toes and lifts it to their knee. Write down the time.",
+    "Now put the pencil on the floor. Your child picks it up with their toes and lifts it as high as they can. Write down the time. Stop at one minute if it is too hard.",
+    "Do both again with their hand, and write down the times.",
+    "Look at your child's foot. Ask them to try to move the big toe out to the side, away from the other toes, like a thumb."
+   ],
+   "predict": "Ask your child to guess first: 'Will your toes be as quick as your fingers? Which will be harder for your toes, the handkerchief or the pencil? Why?'",
+   "observe": "The toes can pick up the soft handkerchief slowly, by curling. The thin pencil is much harder and often drops. The hand does both in a second or two. The big toe hardly moves out to the side.",
+   "why": "An ape's big toe sticks out to the side and can press against the other toes, the way our thumb presses against our fingers. So an ape's foot can wrap round a branch and hold on, which solves the problem of falling. Our big toe lines up with our other toes. That makes our feet good for walking and running on the ground, but poor at gripping.",
+   "safety": "Clear the floor around the chair.",
+   "time": "13 min"
+  },
+  {
+   "id": "e2",
+   "title": "Two pencil tips",
+   "day": 2,
+   "question": "Do we need two eyes to tell how far away something is?",
+   "need": [
+    "two pencils"
+   ],
+   "steps": [
+    "Your child holds one pencil in each hand, arms stretched out in front, with the pencil tips pointing at each other.",
+    "With both eyes open, they bring the two tips together slowly until they touch. Try five times and count how many times the tips touch.",
+    "Now they cover one eye with a hand, or shut it. Hold one pencil still. Try five times again to touch it with the other pencil tip. Count the hits.",
+    "Compare the two counts."
+   ],
+   "predict": "Ask: 'Will it be easier with both eyes, with one eye, or the same? Why do you think so?'",
+   "observe": "With both eyes open, the tips touch nearly every time. With one eye shut, the tips often miss, passing in front of or behind each other.",
+   "why": "Our two eyes are a little apart, so each one sees the pencil from a slightly different place. The brain puts the two pictures together and works out how far away the pencil is. With one eye, that is much harder. A monkey or ape jumping to a branch must know exactly how far away the branch is, so eyes at the front of the face help them not to fall.",
+   "safety": "Point the pencils at each other, never towards the face. Use pencils that are not freshly sharpened.",
+   "time": "12 min"
+  },
+  {
+   "id": "e3",
+   "title": "Fishing with a curry-leaf stalk",
+   "day": 3,
+   "question": "What makes a good tool for reaching food deep inside a narrow hole?",
+   "need": [
+    "an empty 500 ml plastic water bottle, washed",
+    "2 spoons of honey or thick jaggery syrup",
+    "3 long curry-leaf stalks with leaves on, washed",
+    "a toothpick",
+    "a teaspoon",
+    "a plate"
+   ],
+   "steps": [
+    "Pour two spoons of honey into the bottle so it sits at the bottom. Stand the bottle on a plate. Say: 'This is a termite mound, and the honey is the termites.'",
+    "Your child tries to reach the honey with a finger. They cannot.",
+    "Lay out the tools: the teaspoon, the toothpick and a curry-leaf stalk with all its leaves still on. Your child guesses which one will work best, and says why.",
+    "They try each tool. Count how many dips it takes to get a drop of honey out, or say 'cannot reach'.",
+    "Now your child pulls all the leaves off a second curry-leaf stalk, the way David Greybeard stripped his twig. They try again.",
+    "They lick the honey off the stripped stalk. Each dip, use a fresh part or a fresh stalk."
+   ],
+   "predict": "Ask: 'Which tool will reach the honey? What could you change to make a tool better?'",
+   "observe": "The spoon does not fit through the neck. The toothpick is too short to reach. The leafy stalk catches on the neck and the leaves bend and tear. The stripped stalk slides straight down and comes out coated in honey.",
+   "why": "A chimpanzee has a problem: termites hide deep in a hard mound, through holes too thin for a finger. So she chooses a twig or grass stem of the right length, and strips off its leaves so it is thin and smooth. That is making a tool, not only using one. Young chimpanzees learn this by watching their mothers for years.",
+   "safety": "Wash the curry-leaf stalks first. Wipe up any honey so ants do not come in.",
+   "time": "17 min"
+  },
+  {
+   "id": "e4",
+   "title": "The mirror test",
+   "day": 4,
+   "question": "Can you know yourself in a mirror? How would you show it?",
+   "need": [
+    "a mirror",
+    "a small sticker bindi, or a dot of washable paint or kumkum"
+   ],
+   "steps": [
+    "Ask your child to shut their eyes for a surprise.",
+    "Gently put a small sticker or dot on their cheek or forehead, where they cannot see it without a mirror.",
+    "Your child opens their eyes and looks into the mirror. Watch carefully: do they touch the mirror, or their own face?",
+    "If there is a baby under two years old at home, or a pet, a grown-up can try the same with them, very gently, and watch what they do.",
+    "Talk about what each one did."
+   ],
+   "predict": "Ask: 'When you see the mark in the mirror, what will you do? What would a baby do? What would a cat do?'",
+   "observe": "Your child touches the mark on their own face, not the mirror. Babies younger than about one and a half years usually do not. Most cats and dogs do not touch the mark.",
+   "why": "To touch the mark on your own face, you must know that the face in the mirror is you. Gordon Gallup found that chimpanzees do this. So do some other animals, such as an Asian elephant and magpies. Not touching the mark does not mean an animal has no sense of self. Dogs know a great deal about their own smell, and use their noses more than their eyes.",
+   "safety": "Use a sticker or washable colour only, away from the eyes. Never use force with a baby or a pet.",
+   "time": "12 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The cousin tree",
+   "day": 1,
+   "mins": 15,
+   "need": [
+    "a big sheet of paper",
+    "pencil and crayons"
+   ],
+   "steps": [
+    "Draw a thick trunk at the bottom of the paper. Write 'our great-great-grandmother, long ago' on it.",
+    "Draw the first branch going off to the side. Write 'monkeys' at the end.",
+    "Higher up, draw a branch for 'gibbons', then a branch for 'orangutans', then one for 'gorillas'.",
+    "At the very top, the trunk splits into two twigs. Write 'chimpanzees and bonobos' on one and 'humans' on the other.",
+    "Your child draws a small picture at the end of each branch.",
+    "Put a finger on 'humans' and trace down until you meet the chimpanzee twig. Then do the same for the gorilla and the monkey. The sooner you meet, the closer the cousin."
+   ],
+   "outcome": "A family tree of the primates for the first page of the cousin book, showing that the apes are our cousins and that chimpanzees are the closest."
+  },
+  {
+   "id": "a2",
+   "title": "Move like our cousins",
+   "day": 5,
+   "mins": 13,
+   "need": [
+    "a clear space on the floor",
+    "music (if you like)"
+   ],
+   "steps": [
+    "Gorilla: bend forward and walk on your feet and the knuckles of your curled fingers. Then stop, stand tall and drum on your chest with cupped hands: it makes a hollow sound.",
+    "Chimpanzee: pretend to climb a tall tree, hand over hand, holding on with feet too. Then sit and pretend to groom a friend.",
+    "Orangutan: move very slowly across the room, and never let go of a 'branch' (a chair, a table edge, a wall) until you hold the next one.",
+    "Gibbon: lift your arms high and walk on tiptoe, swinging one arm over the other, as if swinging from branch to branch.",
+    "End lying flat, breathing slowly, like an ape resting in a nest."
+   ],
+   "outcome": "A short dance of four apes, and a feel in the body for how each ape moves."
+  },
+  {
+   "id": "a3",
+   "title": "Ayumu's number game",
+   "day": 5,
+   "mins": 10,
+   "need": [
+    "10 small squares of paper",
+    "a pencil",
+    "a table"
+   ],
+   "steps": [
+    "Write the numbers 1 to 5 on five squares of paper, one number on each.",
+    "Your child turns away. Scatter the squares face up on the table, in no order.",
+    "Your child turns back and looks while you count slowly: 'one, two, three'. Then you turn all the squares face down quickly.",
+    "Your child touches the squares in order, 1, 2, 3, 4, 5, turning each one over. Count how many were right.",
+    "Let a grown-up try too. Then try with seven numbers, and look for only one count."
+   ],
+   "outcome": "A feel for one kind of memory that a young chimpanzee is very good at, and the idea that each kind of animal is clever in their own ways."
+  },
+  {
+   "id": "a4",
+   "title": "A nest and a duet",
+   "day": 6,
+   "mins": 12,
+   "need": [
+    "two chairs",
+    "a bedsheet",
+    "three or four cushions or pillows",
+    "a phone with a timer"
+   ],
+   "steps": [
+    "Set the timer for three minutes. Your child builds a nest on the floor between two chairs, with a bedsheet over the chairs for a roof and cushions for a soft bed.",
+    "When the timer rings, they lie in the nest. Ask: 'Could you build one every night?'",
+    "Now the duet. A hoolock gibbon couple sings together each morning. One sings a loud call that rises: 'whoo-up, whoo-up'. The other answers in a different voice.",
+    "You sing the first call. Your child answers. Go faster and louder, then stop together.",
+    "Ask: 'Why might a gibbon couple sing together every morning?'"
+   ],
+   "outcome": "A home-made orangutan nest and a two-voice gibbon song."
+  },
+  {
+   "id": "a5",
+   "title": "The packet hunt",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "5 food packets from the kitchen (biscuits, chips, noodles or namkeen)",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Draw two columns on paper: 'palm oil' and 'no palm oil'.",
+    "For each packet, find the list of ingredients with your child. Read it aloud.",
+    "Look for the words 'palm oil', 'palmolein' or 'edible vegetable oil'. Palmolein is made from palm oil.",
+    "Your child draws a tally mark in the right column for each packet.",
+    "Count the marks. Ask: 'Did palm oil come from near an orangutan forest? How could we find out?'"
+   ],
+   "outcome": "A tally of how many family snacks use palm oil, and a link from our kitchen to the forests of Borneo and Sumatra."
+  }
+ ],
+ "project": {
+  "title": "My cousin book",
+  "days": [
+   1,
+   2,
+   3,
+   6,
+   8
+  ],
+  "steps": [
+   "Day 1: staple five sheets of paper into a book. Stick or draw the cousin tree on the first page.",
+   "Day 2: draw your hand and write 'nails, fingerprints, thumb'. Write your toe test times and your pencil tip counts.",
+   "Day 3: draw David Greybeard's twig tool and your curry-leaf tool side by side.",
+   "Day 6: make the page of four apes, with one thing each ape does.",
+   "Day 8: show the book to someone and explain each page."
+  ],
+  "outcome": "A small home-made book about our ape and monkey cousins, with the child's own test results inside."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Through the Treetops",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a coin or button for each player"
+  ],
+  "rules": [
+   "Each player puts a coin on START.",
+   "Take turns to roll the die and move that many squares.",
+   "Read the square aloud. Do what it says. If it asks a question, answer it first. A grown-up checks the answer.",
+   "If the answer is wrong, stay where you are this turn.",
+   "The first player to reach HOME, the nest at the top of the tallest tree, wins.",
+   "At the end, each player says one thing they learned from a square."
+  ],
+  "squares": [
+   "START: the forest floor",
+   "A fig tree is full of ripe fruit. Move ahead 2.",
+   "Question: does an ape have a tail? (No.)",
+   "The next tree is too far. Sway your tree like an orangutan. Move ahead 1.",
+   "You did not look with both eyes and missed a branch. Go back 2.",
+   "Question: name one ape who lives in Africa. (Chimpanzee, bonobo or gorilla.)",
+   "A termite mound! Strip a twig to make a tool. Move ahead 2.",
+   "Grip a branch with your feet like a chimpanzee. Move ahead 1.",
+   "Question: what is India's only ape? (The hoolock gibbon.)",
+   "A friend grooms your fur. Rest here and miss nothing.",
+   "Question: who watched chimpanzees in Tanzania from 1960? (Jane Goodall.)",
+   "A storm comes. Hold a big leaf over your head. Move ahead 1.",
+   "The trees here were cut down. Go back 3.",
+   "Question: what do primates have on their fingers instead of claws? (Nails.)",
+   "A silverback beats his chest. Stay still and miss a turn.",
+   "Question: are humans the grandchildren of chimpanzees, or their cousins? (Cousins.)",
+   "Bonobo friends share their fruit with you. Move ahead 2.",
+   "Question: what does an orangutan build almost every night? (A nest.)",
+   "You see your face in a pool of water and know it is you. Move ahead 1.",
+   "Question: why do primates have eyes at the front? (To judge how far away a branch is.)",
+   "Gibbons sing their morning duet. Sing it too, then move ahead 1.",
+   "Question: why are many apes in danger? (Their forests are being cut down.)",
+   "HOME: the nest at the top of the tallest tree"
+  ]
+ },
+ "big": [
+  "If chimpanzees make tools, laugh and comfort each other, what makes a human a human?",
+  "A young orangutan learns for eight years without anyone using words. What have you learned just by watching?",
+  "Is it fair to call humans the cleverest animal, when a chimpanzee remembers numbers better than we do?",
+  "Who should decide what happens to a forest: the people who live near it, the people who buy what it grows, or the apes who live in it?"
+ ],
+ "challenge": [
+  {
+   "q": "Many people say humans came from monkeys. Is that true?",
+   "hint": "No. Humans did not come from monkeys or from chimpanzees. Humans, chimpanzees and all the other apes are cousins, who share ancestors from long ago. Our shared great-great-grandmother with chimpanzees lived about 6 to 7 million years ago, and she was neither a chimpanzee nor a human. Monkeys are more distant cousins. Ask: if you and your cousin share a grandmother, did you come from your cousin?"
+  },
+  {
+   "q": "People used to say that only humans make tools. Is that true?",
+   "hint": "No. In 1960 Jane Goodall saw chimpanzees strip twigs to fish for termites. Since then, scientists have seen chimpanzees crack nuts with stones, orangutans use leaves as umbrellas, and crows bend twigs into hooks. Ask: what would you need to see to believe an animal had made a tool?"
+  },
+  {
+   "q": "In films, gorillas are often shown as fierce monsters. Is that what gorillas are like?",
+   "hint": "Gorillas are very strong, and a silverback will defend his family. But they spend most of the day eating plants and resting, and they rarely fight. Chest beating is mostly a show of strength that often stops a fight before it starts. Ask: why might films show gorillas as monsters? Who made those films?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "a chimpanzee mother in Gombe",
+   "view": "She carries her baby for years, shows her where the termites are and lets her watch the twig tool up close. To her, the forest is a map of food, friends and danger. What would she want her daughter to learn first?"
+  },
+  {
+   "who": "a forest guard near the Hoollongapar Gibbon Sanctuary in Assam",
+   "view": "She hears the gibbon duet every morning and knows each family's part of the forest. She protects the trees from being cut, because gibbons need tall trees close together to swing from. What would you ask her?"
+  },
+  {
+   "who": "a farmer who grows oil palm",
+   "view": "Oil palm pays for her children's school. She may say: 'Why should my family stay poor so that people far away can see orangutans?' What would be a fair answer for both her family and the orangutans?"
+  },
+  {
+   "who": "a bonnet macaque at a temple in Mysuru",
+   "view": "People feed him sweets and bananas, so he stays near the temple and fights other monkeys for food. In a forest he would find many kinds of fruit, leaves and insects. Is feeding monkeys kind to them? What else could visitors do?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Jane Goodall (1934–2025), England, scientist who studied chimpanzees",
+   "idea": "In 1960, with no university degree, Goodall began watching wild chimpanzees at Gombe in Tanzania. Her mother came with her at first. She saw a chimpanzee she named David Greybeard strip the leaves off twigs and use them to fish termites out of a mound. She also saw chimpanzees hunt, hug, comfort each other and fight.",
+   "then": "Many scientists thought only humans made tools. Some said she should give the chimpanzees numbers, not names, and that talking about their feelings and personalities was not science. Her teacher, Louis Leakey, wrote that we must now redefine 'tool', redefine 'man', or accept chimpanzees as humans.",
+   "now": "Her findings were checked by many others and are accepted. She later earned a doctorate at Cambridge University, and her study at Gombe became one of the longest studies of wild animals ever. She spent the rest of her life working to protect chimpanzees and their forests.",
+   "status": "accepted",
+   "ask": "Goodall had no degree when she started. What did she have that made her a good scientist? What would you need to see to believe an animal made a tool?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Gordon Gallup, USA, psychologist",
+   "idea": "In 1970 Gallup gave chimpanzees mirrors. At first they acted as if they saw another chimpanzee. After some days they used the mirror to look at their own teeth and backs. Then, while they slept, he painted a red mark on their faces. When they woke and looked in the mirror, they touched the mark on their own face.",
+   "then": "Many people were surprised. The mirror test became a famous way of asking whether an animal knows themself.",
+   "now": "Chimpanzees, orangutans, an Asian elephant and magpies have passed. Most monkeys, cats and dogs do not. Scientists argue about what this means. Some say animals who fail may know themselves in other ways: dogs can tell their own smell from other dogs' smells.",
+   "status": "debated",
+   "ask": "If a dog does not touch the mark, does that mean the dog does not know who he is? What other test could you use for a dog?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "Birute Galdikas (born 1946), Canada, scientist who studies orangutans in Borneo",
+   "idea": "Galdikas began watching wild orangutans in Borneo in 1971, and has studied them ever since. She found that orangutan mothers have a baby only about once every 8 years, and that the young stay close to their mothers for years, learning where to find food and how to build nests.",
+   "then": "Orangutans live high in the trees and mostly alone, so they are very hard to follow. Little was known about how they lived in the wild before her long study.",
+   "now": "Her findings are accepted. She has also worked for decades to protect orangutan forests and to care for young orangutans whose mothers were killed or lost.",
+   "status": "accepted",
+   "ask": "Why does it take many years of watching to find out that a mother has a baby only once in 8 years?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "Sarah Brosnan, USA, and Frans de Waal (1948–2024), Netherlands and USA, scientists who study primates",
+   "idea": "In 2003 Brosnan and de Waal trained capuchin monkeys to hand back a small stone in return for food. When one monkey got a grape and her neighbour got cucumber for the same job, the neighbour often refused the cucumber or threw it away. De Waal also spent many years watching chimpanzees hug and kiss to make up after fights.",
+   "then": "The test became famous, because it seemed to show that monkeys notice when something is unfair.",
+   "now": "Scientists still argue. Some say the monkeys really react to unfairness. Others say they may just be upset that a better food was there and they did not get it. Similar reactions have been seen in chimpanzees and dogs.",
+   "status": "debated",
+   "ask": "How could you test whether the monkey is upset about her neighbour, or only about the grape?",
+   "day": 7
+  }
+ ],
+ "books": [
+  {
+   "title": "The Watcher: Jane Goodall's Life with the Chimps",
+   "author": "Jeanette Winter",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A picture book of Jane Goodall's life, from the girl who watched hens to the woman who watched chimpanzees at Gombe."
+  },
+  {
+   "title": "My Life with the Chimpanzees",
+   "author": "Jane Goodall",
+   "for": "parent reads",
+   "age": "7–12 (read parts aloud)",
+   "why": "Goodall tells her own story in simple words, with David Greybeard, Flo and the other chimpanzees of Gombe."
+  },
+  {
+   "title": "Gorilla",
+   "author": "Anthony Browne",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A lonely girl named Hannah who loves gorillas has a night-time adventure with one. Good for talking about what gorillas are really like."
+  },
+  {
+   "title": "Face to Face with Gorillas",
+   "author": "Michael Nichols with Elizabeth Carney",
+   "for": "read together",
+   "age": "6–10",
+   "why": "A wildlife photographer's close-up photos and stories of gorillas in their forests."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is a primate? Name three.",
+   "a": "An animal with hands that grip, nails instead of claws and eyes at the front of the face. For example a chimpanzee, a gorilla, a bonnet macaque, a langur, a gibbon, and a human."
+  },
+  {
+   "q": "How can you tell an ape from a monkey?",
+   "a": "Apes have no tail. Most monkeys have a tail. Apes also have longer arms and bigger brains."
+  },
+  {
+   "q": "Did humans come from chimpanzees?",
+   "a": "No. Humans and chimpanzees are cousins. We share a great-great-grandmother who lived about 6 to 7 million years ago."
+  },
+  {
+   "q": "What did you find in the toe test and the two-pencil test? How do these help an animal in the trees?",
+   "a": "My toes gripped badly, because my big toe does not stick out like a thumb. An ape's foot can hold a branch. With one eye shut I missed the pencil tip more often. Two eyes at the front help a monkey judge how far away a branch is."
+  },
+  {
+   "q": "How did you make your curry-leaf stalk a better tool? Which chimpanzee did the same?",
+   "a": "I pulled the leaves off so it was thin and slid into the bottle. David Greybeard stripped the leaves off twigs to fish for termites, and Jane Goodall saw him."
+  },
+  {
+   "q": "Name one thing about each of these apes: a gorilla, a bonobo, an orangutan, a hoolock gibbon.",
+   "a": "Gorillas are the biggest apes and eat mostly plants. Bonobo groups are led by females who share food. Orangutans build a new nest almost every night and stay with their mothers for years. Hoolock gibbons are India's only ape and sing duets every morning."
+  },
+  {
+   "q": "Why are many apes in danger, and what has palm oil got to do with it?",
+   "a": "Their forests are being cut down, and some are hunted. In Borneo and Sumatra, much forest was cut to grow oil palms. Palm oil is in many of our snacks. But oil palms give a lot of oil from a small field, so people still argue about the best answer."
+  }
+ ],
+ "story": {
+  "title": "Lintang's First Nest",
+  "text": [
+   "I am Lintang, and I am an orangutan. My home is a forest on Borneo, a big island far to the east of India. The trees here are so tall that the ground is a dim green floor I hardly ever visit.",
+   "For years I rode on my mother. First I clung to the long red hair of her belly. Later I rode on her back, with my fingers wound into her fur. Wherever she went, I went. Whatever she did, I watched.",
+   "I watched her eat. She knew which fig tree would be ripe after the rains, and which one, far across the valley, would ripen later. She knew how to open a spiky durian fruit without hurting her hands. She knew which tree had soft, sweet bark inside, for the days when there was no fruit at all.",
+   "I watched her travel. An orangutan is too heavy to jump far. So my mother would hold one tree and lean, slowly, until it bent towards the next tree. Then she grabbed the next one with a hand or a foot. Her feet hold on just like her hands do.",
+   "Every evening I watched her build a nest. She chose a strong fork in a tree. She bent the branches across it and pressed them down, crack, crack, crack. Then she pulled in leafy twigs for a soft top, and a few more for a pillow. It took her only a few minutes. In the morning we left it, and the next night she built a new one.",
+   "I tried too. My nests were small and wobbly. Once the branches sprang back up and nearly threw me off. My mother did not help. She just watched me, the way I watched her.",
+   "Then, one season, my mother had a new baby. He was tiny and wrinkled, and he clung to her belly where I used to ride. My mother still let me sit close to her. But there was no room for me on her body any more. I had to travel on my own arms.",
+   "For many days I followed close behind her. Then came the day of the storm.",
+   "The sky went dark in the afternoon. The wind roared through the treetops, and the branches swung so hard that I held on with all four hands. When the wind stopped, I looked around. I could not see my mother. I called and called. The rain was so loud that I could not hear my own voice.",
+   "I was alone for the first time in my life.",
+   "The rain did not stop. It came down cold on my back. My fur was soaked. I was shivering, and I was hungry, and the light was going.",
+   "I sat in a tree and I did not know what to do.",
+   "Then, in my head, I saw my mother on another rainy day. She was reaching for a huge leaf. She snapped the stem and held the leaf over her head, and the rain ran off its edges.",
+   "I looked around. A plant with big leaves was growing on the next branch. I reached out and snapped off a leaf, the way she did. I held it over my head. The rain drummed on it. Underneath, it was almost dry.",
+   "Then I remembered the bark. I climbed to a tree with smooth grey skin, the kind my mother chose when there was no fruit. I pulled the bark away with my teeth and chewed the soft part inside. It was not as sweet as figs. But it filled my stomach.",
+   "Now it was nearly dark. I needed a nest. I found a strong fork high in a tall tree. I bent the first branch across. It sprang back. I took a breath. I bent it again, and this time I held it down with my foot, the way my mother pressed with hers. Crack. Then the next one. Crack, crack. I pulled in leafy twigs for the top. I made a small pile for a pillow.",
+   "I lay down. The nest held me. It was a little wobbly at one end, but it held.",
+   "I lay there with the leaf over my head and listened to the rain. I thought about all those years of riding and watching. I had not known I was learning. I thought I was only looking.",
+   "In the morning the forest was dripping and bright. I heard branches creak, and there she was, my mother, two trees away, with my brother holding on to her belly. She looked at me. Then she looked at my nest for a long time.",
+   "That day she went to find breakfast, and I went with her, on my own arms. We travelled a long way, to the edge of our forest. Beyond it, where tall trees once stood, there were rows and rows of short palm trees, all the same, and not one fig. My mother looked for a while. Then she turned back into the forest, and I followed her."
+  ],
+  "epiphany": "For the parent: the story turns when Lintang, alone and cold, remembers what her mother did: the leaf umbrella, the bark, the way to press a branch down with a foot. Nobody ever taught her in words. She learned by watching through a very long childhood, which is how young apes, and young humans, learn most of what they know. The palm rows at the end are where her forest has been cut; let your child notice them without explaining.",
+  "ask": [
+   "Who taught Lintang how to build a nest? Did her mother ever explain it in words?",
+   "What did Lintang remember when she was cold and hungry?",
+   "Lintang says, 'I had not known I was learning. I thought I was only looking.' What does she mean?",
+   "What is something you learned just by watching someone at home?",
+   "What did Lintang and her mother see at the edge of the forest? Why do you think her mother turned back?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Apes are our cousins, not our grandparents.",
+   "more": "Humans did not come from chimpanzees. We share a great-great-grandmother with them from about 6 to 7 million years ago, and other ancestors further back with gorillas, orangutans, gibbons and monkeys. Show it on the cousin tree: trace down from humans, and the sooner you meet another branch, the closer the cousin."
+  },
+  {
+   "idea": "Each feature solves a problem in the animal's life.",
+   "more": "A primate in a tree must not fall and must judge how far the next branch is. Gripping hands and feet and eyes at the front solve these problems. A chimpanzee's termites are hidden deep in a mound, so she makes a thin tool. Start with the animal's problem, then look at the feature."
+  },
+  {
+   "idea": "Many things we thought were only human, our cousins do too.",
+   "more": "Chimpanzees make tools and pass their ways on to their young. Apes laugh, groom and comfort each other, make up after fights, and know themselves in a mirror. Young orangutans learn for years by watching their mothers. Humans are one kind of ape among several, with minds and feelings shared across the family."
+  }
+ ],
+ "unknowns": [
+  "How much does a chimpanzee understand about what another chimpanzee is thinking? Scientists have run many tests and still argue.",
+  "What exactly do gibbon songs say? Scientists know they help couples keep their part of the forest, but not everything the songs carry.",
+  "Why did humans lose most of their body hair, when all our ape cousins kept theirs? There are several ideas, and nobody knows for sure."
+ ]
+}

@@ -1,0 +1,1171 @@
+{
+ "key": "combined|sci|1|food-and-a-balanced-diet",
+ "board": "combined",
+ "subj": "sci",
+ "level": 1,
+ "n": "food-and-a-balanced-diet",
+ "day_mins": 30,
+ "title": "Food and drink: what your body needs to grow healthy and strong",
+ "source": "DeepKids Combined. Covers Cambridge Stage 1 Biology Unit 1.4 'Healthy food and drink' (eating fruit and vegetables, drinking water, fruit and vegetables come from plants, too much fat, sugar and salt is not healthy). No textbook needed.",
+ "summary": "Your body is built from the food you eat, and food gives you the energy to run and think. Your child watches ants find sugar, sorts the kitchen into foods from plants, animals and the Earth, finds out which part of a plant a carrot or a tomato is, and sees the water in their own breath on a mirror. They spoon out the sugar hidden in a sweet drink, watch vinegar soften an eggshell to see what acid does to teeth, and sort everyday foods from treats. They meet a scientist who helped India grow enough grain, and a doctor who drank germs to prove an idea.",
+ "builds_on": "This is the first rung. In Class 3 your child comes back to this topic, names the nutrients, tests foods for starch, fat and vitamin C, builds a balanced plate and learns about food safety. In Class 4 they study energy-giving, body-building and protective foods and traditional foods. In Class 5 they study illnesses caused by missing nutrients, cheap nutritious foods and how to store food.",
+ "subconcepts": [
+  "why we eat: food builds the body and gives energy",
+  "hunger is the body asking for food",
+  "plants make their own food from sunlight, air and water, and animals must eat",
+  "foods come from plants and animals, and salt and water come from the Earth",
+  "which part of a plant we eat: root, stem, leaf, flower, fruit or seed",
+  "fruits and vegetables every day, and eating many colours",
+  "water is the best drink: the body loses water when we breathe, sweat and go to the toilet",
+  "sugar dissolves and hides in drinks",
+  "a little sugar, salt and fat is needed, but too much every day is not healthy",
+  "germs on teeth make acid from sugar, and how to care for teeth",
+  "everyday foods and treats",
+  "the five tastes, and eating slowly until full",
+  "washing hands with soap before eating",
+  "farmers grow our food, and different animals eat different foods"
+ ],
+ "goals": [
+  "By the end your child can say two jobs that food does for the body.",
+  "By the end your child can sort foods into those from plants, from animals and from the Earth.",
+  "By the end your child can name which part of the plant a carrot, spinach, a cauliflower, peas and a tomato are.",
+  "By the end your child can explain why water is the best drink, using the misty mirror.",
+  "By the end your child can explain why too much sugar harms teeth, using the eggshell test.",
+  "By the end your child can sort foods into everyday foods and treats, and say why."
+ ],
+ "words": [
+  [
+   "food",
+   "what living things take in to grow and to get energy. Rice, dal, fruit and milk are foods."
+  ],
+  [
+   "energy",
+   "what lets you move, think and keep warm. Food gives your body energy."
+  ],
+  [
+   "healthy",
+   "well and strong in your body. Healthy food helps you grow and stay well."
+  ],
+  [
+   "fruit",
+   "the part of a plant that holds its seeds. A mango, a tomato and a bhindi are fruits."
+  ],
+  [
+   "vegetable",
+   "a part of a plant that we cook or eat raw, like a carrot root or a spinach leaf"
+  ],
+  [
+   "fibre",
+   "the stringy, chewy part of plant food. It helps food move through your tummy."
+  ],
+  [
+   "dissolve",
+   "when something breaks into pieces too tiny to see and spreads through water, like sugar in water"
+  ],
+  [
+   "germs",
+   "living things far too small to see. Some can make us ill or harm our teeth."
+  ],
+  [
+   "enamel",
+   "the hard white coat on the outside of your teeth"
+  ],
+  [
+   "acid",
+   "a sour liquid, like vinegar or lemon juice, that can slowly eat into hard things"
+  ],
+  [
+   "treat",
+   "a food we have sometimes, not every day, like jalebi or chips"
+  ]
+ ],
+ "days": [
+  {
+   "n": 1,
+   "title": "Why we eat",
+   "goal": "Find out that food gives us energy and builds our bodies, and that every living thing needs food.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "When do you feel hungry?",
+     "mins": 5,
+     "do": "Ask: 'How does your body tell you it is hungry?' Wait for an answer. Good answers: my tummy rumbles, I feel tired, I feel cross, I keep thinking about food. Then ask: 'What happens if you play for a long time and do not eat?' (I get tired and weak.) Say: 'Hunger is your body asking for food.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Two jobs of food",
+     "mins": 7,
+     "do": "Show your child a baby photo of them, or a small old shirt. Ask: 'Why do you not fit in this any more?' (I grew.) Ask: 'What did your body use to grow bigger?' Let them guess. Then say: 'Your body is built from the food you eat. Every new bit of hair, nail, skin and bone was made from food.' Ask: 'What else does food do?' Let them think. Say: 'Food also gives you energy. Energy is what lets you run, jump, think and keep warm.' Hold up two fingers: 'Food builds you, and food gives you energy.'"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Watch the ants eat",
+     "mins": 10,
+     "do": "Put 4 grains of sugar and 4 grains of raw rice on a small piece of paper, near a place where you have seen ants: the edge of a kitchen counter, a balcony or a window sill. Ask first: 'Which will the ants find first, sugar or rice? Why?' Watch together for 10 minutes. Ants usually find the sugar first and carry it away. Say: 'Ants carry food back to their nest and share it with the other ants.' Then point to a potted plant. Ask: 'Does the plant eat?' Say: 'Plants make their own food inside their leaves, using sunlight, air and water. Ants, crows, cows and people cannot. We have to eat.' If no ants come, look out of the window for a crow or a pigeon looking for food, and talk about what they eat."
+    },
+    {
+     "kind": "do",
+     "title": "Clean hands before food",
+     "mins": 4,
+     "do": "Before a snack, ask: 'Why do we wash our hands before we eat?' (To wash off dirt.) Say: 'On our hands live germs: living things far too small to see. Some can make us ill if they get into our mouth with our food.' Wash hands together with soap for as long as it takes to sing 'Happy Birthday' twice. Rub the fronts, the backs, between the fingers and under the nails."
+    },
+    {
+     "kind": "think",
+     "title": "Start the food book",
+     "mins": 4,
+     "do": "Staple six sheets of paper into a book. Your child writes 'My food book' on the cover. On the first page they draw the ants carrying sugar and write or say one sentence: 'Food builds me and gives me energy.' You can write their words for them."
+    }
+   ],
+   "need": [
+    "a baby photo of your child or a small old shirt",
+    "a few grains of sugar and raw rice",
+    "a small piece of paper",
+    "soap and water",
+    "six sheets of paper, a stapler, crayons"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Where our food comes from",
+   "goal": "Sort kitchen foods into those from plants, from animals and from the Earth, and meet the people who grow our food.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the ants",
+     "mins": 3,
+     "do": "Ask: 'What two jobs does food do for your body?' (It builds me and it gives me energy.) Ask: 'Who makes their own food?' (Plants, using sunlight, air and water.)"
+    },
+    {
+     "kind": "act",
+     "title": "Kitchen detective",
+     "mins": 12,
+     "do": "Do Activity a1. Your child fetches 12 foods from the kitchen and sorts them onto three plates: from a plant, from an animal, and from the Earth (never alive). For each one ask: 'Was this ever alive? Did it grow?' Count each plate at the end. Ask: 'Which plate has the most?' Usually the plant plate wins by far. Ask: 'What does a cow eat to make milk?' (Grass.) Say: 'So even milk starts with a plant.'",
+     "ref": "a1"
+    },
+    {
+     "kind": "act",
+     "title": "From seed to plate: act it out",
+     "mins": 7,
+     "do": "Do Activity a5. Your child acts the life of one rice grain, without words, while you say each step: a seed sleeping in the soil, rain falling, a shoot pushing up, a tall plant waving in the wind, the grains growing heavy, a farmer cutting the plant, the grains cooked in a pot, and a family eating together. Then swap: you act, and your child says the steps.",
+     "ref": "a5"
+    },
+    {
+     "kind": "talk",
+     "title": "M. S. Swaminathan and the farmers",
+     "mins": 8,
+     "do": "Tell your child about Voice v1. Say: 'About sixty years ago, India could not grow enough grain. Many families went hungry. A scientist named M. S. Swaminathan, born in Kumbakonam in Tamil Nadu, worked with farmers to grow new kinds of wheat and rice that gave much more grain. Soon India grew enough to feed its people.' Ask: 'Who did the work in the fields?' (The farmers, many of them women.) Say: 'He got many prizes. The millions of farmers who grew the grain did not get prizes, but without them there would be no food.' Ask the voice question.",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "3 plates",
+    "12 foods from the kitchen, such as rice, dal, an onion, a banana, milk, curd, an egg, ghee, salt, a cup of water, jaggery, a spoon of tea leaves"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Which part of the plant do we eat?",
+   "goal": "Find out that fruits and vegetables come from different parts of plants, and that eating many colours is good for us.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The plant plate",
+     "mins": 3,
+     "do": "Ask: 'Yesterday, which plate had the most food on it?' (The plant plate.) Ask: 'A plant has roots, a stem, leaves, flowers, fruits and seeds. Which part do you think we eat?' Let them guess. Say: 'Let us find out. The answer may surprise you.'"
+    },
+    {
+     "kind": "act",
+     "title": "Root, stem, leaf, flower, fruit or seed?",
+     "mins": 15,
+     "do": "Do Activity a2. Put out six cards: root, stem, leaf, flower, fruit, seed. Your child puts each vegetable on a card. Then a grown-up cuts a tomato and a bhindi in half. Ask: 'What is inside?' (Seeds.) Say: 'A part of a plant with seeds inside is a fruit. So a tomato, a bhindi and a brinjal are fruits, even though we cook them as vegetables.' Tricky ones: a potato is an underground stem, an onion is made of thick leaves, and a cauliflower is a big bunch of flower buds.",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "Why fruits and vegetables?",
+     "mins": 6,
+     "do": "Say: 'Fruits and vegetables are full of things your body needs to grow and stay well. They have water and fibre too. Fibre is the stringy, chewy part of plants. It helps food move through your tummy.' Ask: 'How many fruits or vegetables did you eat yesterday?' Count them together. Do not scold if it is few. Say: 'Doctors say to eat fruits and vegetables every day, at every meal if you can.'"
+    },
+    {
+     "kind": "act",
+     "title": "Rainbow hunt",
+     "mins": 6,
+     "do": "Your child hunts the kitchen for one fruit or vegetable of each colour: red (tomato), orange (carrot, papaya), yellow (banana, lemon), green (beans, spinach), purple (brinjal, onion), white (radish, cauliflower). Lay them in a row like a rainbow. Say: 'Different colours usually mean different good things inside. That is why we try to eat many colours.' Your child draws the rainbow row in the food book."
+    }
+   ],
+   "need": [
+    "a carrot or radish, a potato, an onion, spinach or curry leaves, a cauliflower or banana flower if you have one, a tomato, a bhindi, a few peas or a pod of beans",
+    "a knife for a grown-up",
+    "6 small cards",
+    "the food book and crayons"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Water, the best drink",
+   "goal": "See that your body loses water all the time, and learn why water is the best drink.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "How much did you drink?",
+     "mins": 4,
+     "do": "Ask: 'How many glasses of water did you drink yesterday?' Count together on your fingers: at breakfast, at lunch, after playing, at bedtime. Ask: 'What else did you drink?' (Milk, buttermilk, juice, tea.) Write the numbers down."
+    },
+    {
+     "kind": "exp",
+     "title": "Water in your breath",
+     "mins": 12,
+     "do": "Do Experiment e1. First ask: 'When you breathe out on a cold mirror, what will you see? Why?' Write down the guess. Then your child breathes slowly onto a mirror, or onto a steel plate kept in the fridge for 10 minutes. A misty patch appears and then fades. Rub a finger on it: it is a little wet. Ask: 'Where did the water come from?' (From inside me, in my breath.) Then feel the forehead after jumping 20 times: a little sweat. Lick the back of your hand after a hot day, or after the jumps: sweat tastes a little salty.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Why water is the best drink",
+     "mins": 7,
+     "do": "Say: 'More than half of your body is water. You lose water all the time: when you breathe out, when you sweat and when you go to the toilet. So you need to put water back every day.' Ask: 'When do you lose the most water?' (On hot days, and when I run and play.) Say: 'Water has no sugar, so it does not harm your teeth. It costs almost nothing. That is why it is the best drink when you are thirsty.' Ask: 'Milk and buttermilk are mostly water too. Are they good drinks?' (Yes, they are good too.)"
+    },
+    {
+     "kind": "do",
+     "title": "My water bottle chart",
+     "mins": 7,
+     "do": "Draw six empty glasses in a row on a page of the food book. Each time your child drinks a glass of water today and tomorrow, they colour one glass blue. Say: 'Most children your age need about five or six glasses of water and other drinks a day, and more on hot days or after playing.' Drink one glass together now, and colour the first glass."
+    }
+   ],
+   "need": [
+    "a mirror, or a steel plate kept in the fridge for 10 minutes",
+    "a glass of water",
+    "the food book and a blue crayon"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The hidden sugar",
+   "goal": "See that sugar disappears into a drink but is still there, and count the spoons of sugar in a sweet drink.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Water glasses",
+     "mins": 3,
+     "do": "Look at the water chart from yesterday. Ask: 'How many glasses did you colour?' Ask: 'When did you feel most thirsty?' Say: 'Today we will look at drinks that are not water.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Where did the sugar go?",
+     "mins": 15,
+     "do": "Do Experiment e2. Part 1: your child stirs one spoon of sugar into a glass of water. Ask first: 'Will the sugar still be there after stirring?' Stir until it vanishes. Ask: 'Where did it go?' Let your child taste a sip. (It is sweet, so the sugar is still there.) Say: 'The sugar dissolved. That means it broke into pieces too tiny to see and spread through the water.' Part 2: read the sugar on the label of a sweet drink. Work out the spoons together (one teaspoon of sugar is about 4 grams). Your child spoons that much sugar onto a plate next to the bottle. Ask: 'Did you guess so much?'",
+     "ref": "e2"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 12,
+     "do": "Do Worksheet ws1 (core) together. Read each question aloud. Your child answers aloud, by pointing or by drawing, and you write their words. It covers where food comes from, which part of the plant we eat, and water. Ask 'How do you know?' after each answer.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a glass of water, a bowl of sugar, a teaspoon, a plate",
+    "1 bottle, can or carton of a sweet drink, packaged juice or flavoured milk with its label (an empty one is fine)",
+    "Worksheet ws1"
+   ],
+   "prep": [
+    {
+     "task": "Keep one sweet drink bottle, can or carton with its label (an empty one is fine)",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Everyday foods and treats",
+   "goal": "Find out why too much sugar, salt and fat harm the body, start an eggshell test, and sort foods into everyday foods and treats.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Eggshell in vinegar: set it up",
+     "mins": 8,
+     "do": "Do Experiment e3. Say: 'Your teeth have a hard white coat called enamel. Let us see what acid does to something hard, like an eggshell.' Put a piece of clean eggshell into a small glass of vinegar, and another piece into a glass of plain water. Ask first: 'Will anything happen to the shells?' Look closely: tiny bubbles start to form on the shell in vinegar. Leave both glasses on a shelf until tomorrow.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Sugar and your teeth",
+     "mins": 6,
+     "do": "Say: 'Germs live on your teeth. They feed on the sugar left in your mouth, and they make acid. Acid slowly makes holes in the enamel. A hole in a tooth is called a cavity, and it can hurt.' Ask: 'What can we do to keep the germs from making acid?' Good answers: brush at night and in the morning, rinse the mouth with water after a sweet, eat sweets with a meal instead of all day long."
+    },
+    {
+     "kind": "act",
+     "title": "Everyday food or treat?",
+     "mins": 16,
+     "do": "Do Activity a3. Say: 'The body needs a little sugar, a little salt and a little fat. Too much of them every day is not healthy. Too much sugar harms teeth. Too much salt is hard on the heart. Too much fried food gives the body more fat than it can use.' Your child draws or names ten foods they eat, and sorts them into two groups: everyday foods (idli, dosa, rice, dal, roti, curd, fruit, vegetables, water) and treats for sometimes (jalebi, chips, cola, toffees, pakoras). Then they draw a plate with today's lunch and one treat they would choose for the weekend. Say: 'Treats are not bad. They are for sometimes, not every day.'",
+     "ref": "a3"
+    }
+   ],
+   "need": [
+    "2 small pieces of clean eggshell (rinsed and dried)",
+    "2 small glasses, about half a cup of white vinegar, water",
+    "paper and crayons, the food book"
+   ],
+   "prep": [
+    {
+     "task": "Save and rinse one eggshell, or ask a neighbour or an egg shop for one",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Taste, hunger and feeling full",
+   "goal": "Look at the eggshells, eat slowly with all the senses, and hear how a doctor proved what really causes stomach sores.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Look at the eggshells",
+     "mins": 5,
+     "do": "Take the shells out of both glasses with a spoon. Ask: 'Feel them. What is different?' The shell from the vinegar is thinner and softer, and may bend or break easily. The shell from the water is still hard. Say: 'Acid ate away part of the shell. The acid that germs make does the same to your teeth, only slowly, over many days.' Throw the vinegar away.",
+     "ref": "e3"
+    },
+    {
+     "kind": "act",
+     "title": "The slow eating game",
+     "mins": 8,
+     "do": "Do Activity a4. Give your child one piece of banana, one raisin or one piece of guava. Before they eat, ask them to look at it, smell it and feel it. Then they put it in their mouth, chew slowly ten times and notice the taste. Ask: 'Is it sweet, sour, salty or bitter?' Say: 'Your tongue senses five tastes: sweet, sour, salty, bitter and a meaty, savoury taste called umami.' Then say: 'It takes a little while for your tummy to tell your brain it is full. Eating slowly gives it time.'",
+     "ref": "a4"
+    },
+    {
+     "kind": "talk",
+     "title": "Barry Marshall drinks the germs",
+     "mins": 7,
+     "do": "Tell your child about Voice v2. Say: 'Some people get painful sores inside their stomach. For a long time, doctors said these came from worry or from spicy food. Two doctors in Australia, Robin Warren and Barry Marshall, found a germ living in the stomachs of these people. Other doctors did not believe them. So in 1984 Barry Marshall drank a cup of the germs himself. He got ill, and then medicine that kills germs made him well.' Ask the voice question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws2 (stretch) together. Read each question aloud and write your child's words. It asks about everyday foods and treats, hidden sugar, teeth, salt and a festival sweet. For the Onam payasam question, ask your child to choose one side and say why, then ask: 'What would the other person say back?'",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "the two glasses with eggshells",
+    "one piece of banana, one raisin or one piece of guava",
+    "Worksheet ws2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Sundari's story and the Thali Path game",
+   "goal": "Hear a story about a temple elephant who ate too many sweets, and play a board game about healthy food.",
+   "steps": [
+    {
+     "kind": "read",
+     "title": "Story: Sundari and the Sweet Rice Balls",
+     "mins": 12,
+     "do": "Read the story 'Sundari and the Sweet Rice Balls' aloud. It is told by Sundari, a temple elephant in Kumbakonam. Read slowly. Stop once, when Sundari arrives at the forest camp, and ask: 'What do you think Sundari will do when there are no sweets?' Then read to the end."
+    },
+    {
+     "kind": "talk",
+     "title": "Talk about the story",
+     "mins": 6,
+     "do": "Ask the story questions, one at a time. Listen to the answers. Do not explain the story. Good answers to listen for: the sweets filled Sundari up, so she did not eat the grass her body needed. In the forest she ate grass slowly all day and felt well. The single banana at the end tasted special because it was a treat."
+    },
+    {
+     "kind": "game",
+     "title": "Play the Thali Path",
+     "mins": 12,
+     "do": "Play Game g1, the Thali Path board game. Print or draw the board with its 20 squares. Each player moves a coin. When a player lands on a square, read it aloud and do what it says. When someone lands on a question square, everyone may help to answer it. Play once to HOME.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "the story",
+    "the printed Thali Path board, a die, a coin or button for each player"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Can children choose their own food? Teach it back",
+   "goal": "Think about a real debate, do the challenge worksheet, answer the check questions and teach the topic back.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Clara Davis and the babies",
+     "mins": 7,
+     "do": "Tell your child about Voice v3. Say: 'About a hundred years ago, a children's doctor in America named Clara Davis let some babies choose their own food. At every meal they were offered many plain foods, like milk, fruit, vegetables, grains, eggs and meat. Some days a baby ate only bananas. But over weeks, each baby ate a good mix and grew well.' Ask: 'There were no sweets or chips on the table. Would the babies have chosen so well if there were?' Ask the voice question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws3 (challenge) together. These are harder puzzles about where milk comes from, teeth, what different animals eat, and how to test an idea about the tongue. Read each one aloud. After each answer, ask: 'What did you see this week that tells you so?'",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 6,
+     "do": "Ask the check questions aloud, one at a time, without looking at the food book. Tick the ones answered well. If one is missed, open the food book at the right page, look together for a minute, and ask again in different words."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 7,
+     "do": "Your child is the teacher and you are the student. Using the food book, they teach you: why we eat, where food comes from, why water is the best drink, why too much sugar harms teeth, and what a treat is. Ask two student questions: 'Can I drink cola instead of water?' and 'Is a tomato a fruit or a vegetable?' Praise the reasons they give, not only the answers."
+    }
+   ],
+   "need": [
+    "Worksheet ws3",
+    "the food book"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Food, plants and water",
+   "day": 5,
+   "sections": [
+    [
+     "A. Where food comes from",
+     [
+      {
+       "t": "sort",
+       "p": "Where does each food come from?",
+       "items": [
+        "rice",
+        "milk",
+        "banana",
+        "egg",
+        "salt",
+        "spinach",
+        "paneer",
+        "water"
+       ],
+       "cats": [
+        "from a plant",
+        "from an animal",
+        "from the Earth, never alive"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each food to the part of the plant we eat.",
+       "pairs": [
+        [
+         "carrot",
+         "root"
+        ],
+        [
+         "spinach",
+         "leaf"
+        ],
+        [
+         "cauliflower",
+         "flower"
+        ],
+        [
+         "peas",
+         "seed"
+        ],
+        [
+         "tomato",
+         "fruit"
+        ]
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Plants do not eat food the way we do. How does a plant get its food?",
+       "lines": 2,
+       "a": "A strong answer says that plants make their own food in their leaves, using sunlight, air and water."
+      }
+     ]
+    ],
+    [
+     "B. Water",
+     [
+      {
+       "t": "mcq",
+       "p": "You breathed slowly on a cold mirror. What did you see?",
+       "opts": [
+        "a misty patch of tiny water drops",
+        "smoke",
+        "nothing at all"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "More than half of your body is ____.",
+       "a": [
+        "water"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Farhan has played football for an hour. He is hot and thirsty. Which drink is best for him?",
+       "opts": [
+        "a glass of water",
+        "a bottle of cola",
+        "a cup of sweet tea"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Why do you need to drink water every day, even on a cool day?",
+       "lines": 2,
+       "a": "A strong answer says we lose water all the time, when we breathe out, sweat and go to the toilet, so we must put it back. It may mention the misty mirror."
+      }
+     ]
+    ],
+    [
+     "C. My plate",
+     [
+      {
+       "t": "draw",
+       "p": "Draw everything on your plate at lunch today. Colour each food the colour it really is. Draw a ring around each food that came from a plant."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Sugar, salt and treats",
+   "day": 7,
+   "sections": [
+    [
+     "A. Everyday foods and treats",
+     [
+      {
+       "t": "sort",
+       "p": "Is this an everyday food, or a treat for sometimes?",
+       "items": [
+        "idli",
+        "a guava",
+        "a glass of water",
+        "jalebi",
+        "a bottle of cola",
+        "dal and rice",
+        "a packet of chips",
+        "a toffee"
+       ],
+       "cats": [
+        "everyday food",
+        "treat for sometimes"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each food to its main taste.",
+       "pairs": [
+        [
+         "jaggery",
+         "sweet"
+        ],
+        [
+         "lemon",
+         "sour"
+        ],
+        [
+         "karela",
+         "bitter"
+        ],
+        [
+         "papad",
+         "salty"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. What happened in our tests?",
+     [
+      {
+       "t": "mcq",
+       "p": "Kavya stirs a spoon of sugar into a glass of water. Soon she cannot see the sugar. Where is it?",
+       "opts": [
+        "still in the water, broken into pieces too tiny to see",
+        "gone, because it turned into air",
+        "at the bottom, hiding under the glass"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The eggshell in vinegar was covered in tiny ____.",
+       "a": [
+        "bubbles"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why can sugar left on your teeth make holes in them?",
+       "opts": [
+        "Germs on the teeth feed on the sugar and make acid.",
+        "Sugar is hard and scratches the teeth.",
+        "Sugar makes the teeth too cold."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "It is Onam. Divya's grandmother has made a big pot of payasam, a sweet made with milk, rice and jaggery. Divya's grandmother says: 'Payasam is part of our festival. We cook it together and share it with everyone.' Divya's dentist says: 'Sugar feeds the germs on your teeth. Too much sweet food makes holes in them.' Who do you agree with? Can they both be right? Use what you saw in the eggshell test. Then say what the other person would answer back.",
+       "lines": 3,
+       "a": "A strong answer sees that both have a point: a sweet on a festival is a treat to share, and sugar every day harms teeth. It may say Divya can enjoy payasam on Onam, then rinse her mouth and brush at night."
+      },
+      {
+       "t": "write",
+       "p": "A label says a bottle of sweet drink has 8 spoons of sugar. A guava has some sugar too. Why is the guava better for you?",
+       "lines": 2,
+       "a": "A strong answer says the guava has much less sugar, and it also has fibre, water and other good things that fill you up and help your body. The sweet drink is mostly water and sugar."
+      },
+      {
+       "t": "write",
+       "p": "Meenakshi, a girl in Class 1, says: 'Salt is bad, so I will never eat any salt at all.' Is she right? Why?",
+       "lines": 2,
+       "a": "A strong answer says she is not right. The body needs a little salt. Too much salt every day is what is unhealthy. Sweat tastes salty because the body loses salt in it."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Food puzzles",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "A cow eats only grass and drinks water, but she makes milk for her calf. Where does the milk come from?",
+       "opts": [
+        "Her body makes it from the grass and water.",
+        "She drinks milk from a shop.",
+        "The milk was inside her since she was born."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi eats her lunch very fast. Afterwards her tummy feels too full and uncomfortable. What could she try next time?",
+       "opts": [
+        "Eat slowly, so her tummy has time to tell her brain it is full.",
+        "Eat even faster.",
+        "Drink a bottle of cola after lunch."
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each animal to the food they mostly eat.",
+       "pairs": [
+        [
+         "cow",
+         "grass"
+        ],
+        [
+         "honeybee",
+         "nectar and pollen from flowers"
+        ],
+        [
+         "elephant",
+         "grass, leaves and bark"
+        ],
+        [
+         "caterpillar",
+         "leaves"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Barry Marshall, a doctor in Australia, showed that sores in the stomach are mostly caused by ____, not by spicy food.",
+       "a": [
+        "germs",
+        "bacteria",
+        "a germ"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Teeth",
+     [
+      {
+       "t": "sort",
+       "p": "Does this help your teeth, or is it hard on your teeth?",
+       "items": [
+        "brushing at bedtime",
+        "rinsing your mouth with water after a sweet",
+        "a sticky toffee left on the teeth all afternoon",
+        "sipping a sweet drink all morning",
+        "drinking water when you are thirsty"
+       ],
+       "cats": [
+        "helps my teeth",
+        "hard on my teeth"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think like a scientist",
+     [
+      {
+       "t": "write",
+       "p": "About a hundred years ago, a doctor named Clara Davis let some babies choose their own food from many plain foods. Over many weeks they chose a good mix. Gita, a girl in Class 1 says: 'If I could pick anything, my body would choose what it needs, just like those babies.' Gita's mother says: 'Those babies could only choose healthy foods. If jalebi and chips were on the table, would they still choose well?' Who do you agree with? What test could you do to find out? Then say what the other person would answer back.",
+       "lines": 3,
+       "a": "A strong answer picks a side and gives a reason, and notices that the babies had no sweets or chips to choose from. A very strong answer suggests a fair test, such as offering the same babies plain foods and sweets, and says it would be hard to do kindly."
+      },
+      {
+       "t": "write",
+       "p": "Your friend says your tongue tastes sweet things only at its tip. How could you test this at home?",
+       "lines": 3,
+       "a": "A strong answer describes dipping a clean cotton bud in sugar water and touching it to the tip, the sides and the back of the tongue, then asking which places taste sweet. It says to rinse with water between tries, and to try it on more than one person."
+      },
+      {
+       "t": "write",
+       "p": "In the story, Sundari the temple elephant ate many sweet rice balls every day and felt heavy and unwell. Why did she feel better after eating grass all day in the forest?",
+       "lines": 3,
+       "a": "A strong answer says an elephant's body needs lots of plants, eaten slowly through the day. The sweets filled her up quickly, so she did not eat the grass her body needed."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Water in your breath",
+   "day": 4,
+   "question": "Does your body lose water even when you are not sweating or going to the toilet?",
+   "need": [
+    "a mirror, or a steel plate kept in the fridge for 10 minutes"
+   ],
+   "steps": [
+    "Hold the mirror or the cold steel plate close to your child's mouth.",
+    "Your child breathes out slowly onto it, three times.",
+    "Look at the misty patch. Watch it fade.",
+    "Breathe on it again. Your child rubs a finger across the misty patch and feels it.",
+    "Then your child jumps 20 times. Feel the forehead for sweat."
+   ],
+   "predict": "Ask your child to guess first: 'When you breathe out on a cold mirror, what will you see? Why do you think so?'",
+   "observe": "A misty patch appears where the breath touched the mirror, then fades in a few seconds. The finger feels a little wet. After jumping, the forehead may be damp with sweat.",
+   "why": "The air you breathe out carries water from inside your body, as a gas too fine to see. When it touches the cold mirror, the water gas cools and turns back into tiny drops, which we see as mist. You breathe out water all day and all night. You also lose water when you sweat and when you go to the toilet. That is why you need to drink every day.",
+   "safety": "If you use a steel plate from the fridge, take it out after 10 minutes, before it gets too cold to hold. Do not use the freezer.",
+   "time": "12 min"
+  },
+  {
+   "id": "e2",
+   "title": "Where did the sugar go?",
+   "day": 5,
+   "question": "When sugar disappears into a drink, is it still there? How much sugar is hidden in a sweet drink?",
+   "need": [
+    "a glass of water",
+    "a bowl of sugar",
+    "a teaspoon",
+    "a plate",
+    "1 bottle, can or carton of a sweet drink, packaged juice or flavoured milk with its label (an empty one is fine)"
+   ],
+   "steps": [
+    "Your child stirs one level teaspoon of sugar into the glass of water until they cannot see it any more.",
+    "Your child takes one sip and says how it tastes.",
+    "A grown-up finds 'Sugars' or 'Total sugars' on the drink's label. If it gives the sugar for 100 ml, work out the sugar for the whole bottle (for a 300 ml bottle, the number times 3).",
+    "Divide the grams by 4. That is about how many level teaspoons of sugar are in the bottle.",
+    "Your child spoons that many level teaspoons of sugar onto the plate, next to the bottle.",
+    "Put the glass of plain water next to it: no sugar at all."
+   ],
+   "predict": "Ask your child to guess first: 'After we stir, will the sugar still be in the water?' Later ask: 'How many spoons of sugar do you think are in this bottle?' Write down the number.",
+   "observe": "The sugar vanishes, but the water tastes sweet, so the sugar is still there. The pile of sugar for the sweet drink is often much bigger than the child guessed. Many 300 ml bottles of sweet drink hold more than 6 teaspoons.",
+   "why": "Sugar dissolves in water. It breaks into pieces far too small to see and spreads all through the water, so we can taste it but not see it. That is why the sugar in drinks is easy to forget. Doctors advise children to have only a little added sugar each day, and one sweet drink can hold more than that.",
+   "safety": "Only one small sip of the sugar water. Do not eat the spooned-out sugar. Put it back in the jar or use it for cooking.",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "Eggshell in vinegar",
+   "day": 6,
+   "question": "What does acid do to something hard, like an eggshell or the outside of a tooth?",
+   "need": [
+    "2 small pieces of clean eggshell",
+    "2 small glasses",
+    "about half a cup of white vinegar",
+    "water",
+    "a spoon"
+   ],
+   "steps": [
+    "Rinse the eggshell pieces and let them dry.",
+    "Pour vinegar into one glass and plain water into the other.",
+    "Put one piece of eggshell into each glass.",
+    "Look closely at both glasses for a minute. Your child says what they see.",
+    "Leave both glasses on a shelf until the next day.",
+    "The next day, lift out each shell with a spoon, rinse it and feel it."
+   ],
+   "predict": "Ask your child to guess first: 'Will anything happen to the shells? Will the one in vinegar be different from the one in water?'",
+   "observe": "Within a minute, tiny bubbles form on the shell in vinegar. The next day that shell is thinner and softer, and bends or breaks easily. The shell in water has not changed.",
+   "why": "Vinegar is an acid. An eggshell is a hard material made with calcium. The acid eats into it, and the bubbles are a gas the reaction makes. The outside of your teeth, the enamel, is also a hard material made with calcium, and acid eats into it too. The germs on your teeth make acid when they feed on sugar. They make much less acid than vinegar, but over many days it can make a hole in a tooth.",
+   "safety": "Do not drink the vinegar or rub it in the eyes. Wash hands after touching raw eggshell. If your family does not use eggs, ask a neighbour or an egg shop for one shell, or use a clean sea shell.",
+   "time": "8 min + 5 min the next day"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Kitchen detective: plant, animal or Earth?",
+   "day": 2,
+   "mins": 12,
+   "need": [
+    "3 plates",
+    "12 foods from the kitchen"
+   ],
+   "steps": [
+    "Put a small drawing on each plate: a leaf (from a plant), a cow (from an animal), and a drop of water with a salt crystal (from the Earth, never alive).",
+    "Your child fetches 12 foods from the kitchen with your help.",
+    "For each food, ask: 'Was this ever alive? Did it grow on a plant, or come from an animal?'",
+    "Your child puts each food on a plate.",
+    "Count each plate and write the three numbers in the food book."
+   ],
+   "outcome": "Three plates of food, and the finding that most of our food comes from plants. Tricky ones: jaggery and sugar come from the sugarcane plant. Tea comes from leaves. Ghee and curd come from milk, so from an animal. Salt and water were never alive."
+  },
+  {
+   "id": "a2",
+   "title": "Root, stem, leaf, flower, fruit or seed?",
+   "day": 3,
+   "mins": 15,
+   "need": [
+    "6 small cards with the words root, stem, leaf, flower, fruit, seed",
+    "a carrot or radish, a potato, an onion, spinach or curry leaves, a cauliflower if you have one, a tomato, a bhindi, a few peas or beans",
+    "a knife for a grown-up"
+   ],
+   "steps": [
+    "Lay out the six cards in a row.",
+    "Your child picks up each vegetable and guesses which part of the plant it is.",
+    "A grown-up cuts a tomato and a bhindi in half. Your child looks for seeds inside.",
+    "Move any vegetable that is in the wrong place. Use the list in the outcome.",
+    "Your child draws one vegetable on each card's page in the food book."
+   ],
+   "outcome": "A sorted row of vegetables. Carrot and radish are roots. Potato is an underground stem. Spinach and curry leaves are leaves. An onion is made of thick leaves. Cauliflower is a bunch of flower buds. Tomato, bhindi and brinjal are fruits, because they have seeds inside. Peas are seeds."
+  },
+  {
+   "id": "a3",
+   "title": "Everyday food or treat?",
+   "day": 6,
+   "mins": 16,
+   "need": [
+    "paper and crayons",
+    "the food book"
+   ],
+   "steps": [
+    "Fold a page in half. Write 'Everyday foods' on one side and 'Treats for sometimes' on the other.",
+    "Your child names ten foods they eat in a week.",
+    "For each one, ask: 'Does this have a lot of sugar, salt or oil?' Then your child draws it on one side.",
+    "Your child draws today's lunch on a round plate on the next page.",
+    "Next to the plate, they draw one treat they would choose for the weekend."
+   ],
+   "outcome": "A two-sided page of everyday foods and treats, and the idea that treats are fine sometimes but not every day."
+  },
+  {
+   "id": "a4",
+   "title": "The slow eating game",
+   "day": 7,
+   "mins": 8,
+   "need": [
+    "one piece of banana, one raisin or one piece of guava"
+   ],
+   "steps": [
+    "Your child looks at the food for 10 seconds and says its colour and shape.",
+    "They smell it and say what it smells like.",
+    "They put it in their mouth without chewing, and feel it with the tongue.",
+    "They chew slowly, ten times, and say how the taste changes.",
+    "They say whether it is sweet, sour, salty, bitter or savoury."
+   ],
+   "outcome": "Your child notices much more about one small piece of food, and learns that eating slowly lets the tummy tell the brain when it is full."
+  },
+  {
+   "id": "a5",
+   "title": "From seed to plate: act it out",
+   "day": 2,
+   "mins": 7,
+   "need": [
+    "a little space to move"
+   ],
+   "steps": [
+    "Your child curls up small on the floor: a rice seed sleeping in the soil.",
+    "You say: 'The rain falls.' Your child wriggles their fingers above their head like rain.",
+    "You say: 'A shoot pushes up.' Your child slowly uncurls and kneels.",
+    "You say: 'The plant grows tall and waves in the wind.' Your child stands and sways.",
+    "You say: 'The grains grow heavy.' Your child bends their head down.",
+    "You say: 'The farmer cuts the plant, and the grains are cooked.' Your child sinks down and bubbles like a pot.",
+    "You say: 'A family eats together.' Your child pretends to eat with you.",
+    "Swap: you act and your child says the steps."
+   ],
+   "outcome": "Your child has acted out how a seed becomes food, and that a farmer grew it."
+  }
+ ],
+ "project": {
+  "title": "My food book",
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   9
+  ],
+  "steps": [
+   "Day 1: make the book, draw the ants carrying sugar, and write 'Food builds me and gives me energy'.",
+   "Day 2: write the three numbers from the kitchen detective plates.",
+   "Day 3: draw a vegetable for each plant part, and the rainbow row.",
+   "Day 4: start the water glasses chart and colour one glass each time you drink.",
+   "Day 6: add the everyday foods and treats page and today's lunch plate.",
+   "Day 9: use the book to teach the topic back to the family."
+  ],
+  "outcome": "A home-made book that shows where food comes from, which part of the plant we eat, why water is the best drink, and which foods are everyday foods and which are treats."
+ },
+ "game": {
+  "id": "g1",
+  "title": "The Thali Path",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a coin or button for each player"
+  ],
+  "rules": [
+   "Put every coin on START. The youngest player goes first.",
+   "Roll the die and move your coin that many squares.",
+   "Read the square aloud and do what it says.",
+   "On a question square, answer the question. If you are stuck, anyone may help you, and you both move on 1.",
+   "If a square sends you back, you never go back past START.",
+   "The first player to reach HOME wins. You do not need an exact roll.",
+   "After the game, each player says one thing they learned from a square."
+  ],
+  "squares": [
+   "START",
+   "You wash your hands with soap before lunch. Move on 2.",
+   "Question: name a food that comes from an animal.",
+   "You drink a glass of water after playing. Move on 2.",
+   "Question: which part of the plant is a carrot?",
+   "You eat ten toffees before dinner and are too full for your food. Miss a turn.",
+   "Question: what do plants use to make their own food?",
+   "You eat a fruit of a new colour today. Move on 1.",
+   "You sip a sweet drink all morning. Go back 2.",
+   "Question: why is water the best drink?",
+   "You help to shell peas for dinner. Move on 2.",
+   "Question: tomato, bhindi or brinjal: which one is not a fruit? (All three are fruits!)",
+   "You brush your teeth at bedtime. Move on 1.",
+   "You eat your lunch very fast and get a tummy ache. Go back 1.",
+   "Question: say one thing a farmer does to grow rice.",
+   "You share your snack with a friend. Move on 2.",
+   "Question: what do germs on your teeth make from sugar?",
+   "You eat your ragi dosa slowly and notice the taste. Move on 1.",
+   "Question: name an everyday food and a treat.",
+   "HOME"
+  ]
+ },
+ "big": [
+  "You are made from the food you ate. So is part of you a rice plant?",
+  "Is there any food that is good or bad, or only too much or too little?",
+  "Who should get the credit for your lunch: the cook, the farmer, the plant or the Sun?",
+  "Does an ant feel hungry the way you do?"
+ ],
+ "challenge": [
+  {
+   "q": "Many books show a map of the tongue, with sweet at the tip and bitter at the back. Is that true?",
+   "hint": "No. Every part of the tongue that has taste buds can sense all the tastes. The map came from a misreading of an old German study from 1901. You can test it yourself: touch a cotton bud dipped in sugar water to different parts of the tongue. Ask: why might a wrong picture stay in books for so long?"
+  },
+  {
+   "q": "People often say sugar makes children wild and over-excited. Does it?",
+   "hint": "Scientists tested this many times. They gave some children sugar and others a sweet taste with no sugar, without telling anyone which was which. The children behaved the same. In one study, parents who were told their child had eaten sugar said the child was more wild, even though there was no sugar. Sugar still harms teeth. Ask: why might parents see what they expect to see?"
+  },
+  {
+   "q": "Is a glass of packaged fruit juice as good as eating the fruit?",
+   "hint": "Not quite. Juice has most of the fibre taken out, and packaged juice often has extra sugar added. A whole orange or guava keeps its fibre, takes longer to eat and fills you up. Ask: how many oranges do you think go into one glass of juice? Would you eat that many oranges at once?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "a rice farmer in Thanjavur",
+   "view": "She plants, weeds and harvests the rice that feeds many families she will never meet. Her work depends on rain, soil and sunlight. What would happen to our lunch if farmers stopped farming?"
+  },
+  {
+   "who": "a rice plant",
+   "view": "The rice grain is food a rice plant stored for their own seed, so the baby plant can grow. We eat that store. What do you think a rice plant would say about being our lunch?"
+  },
+  {
+   "who": "a crow at the window",
+   "view": "A crow eats almost anything: fruit, insects, grain and our leftover rice. A cow eats only plants, and a honeybee drinks nectar from flowers. Why do you think each animal eats something different?"
+  },
+  {
+   "who": "a dentist",
+   "view": "She sees many children with holes in their teeth, often from sweets and sweet drinks eaten all day. She also enjoys a laddu at Deepavali. How can she do both?"
+  },
+  {
+   "who": "a grandmother who cooks",
+   "view": "She cooks different food in different seasons: buttermilk and watermelon in the hot months, hot rasam when it rains. Why do you think food changes with the weather?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "M. S. Swaminathan (1925–2023), India, plant scientist, born in Kumbakonam, Tamil Nadu",
+   "idea": "In the 1960s, India could not grow enough grain, and many people went hungry. Swaminathan worked with the American scientist Norman Borlaug and with Indian farmers to grow new kinds of wheat, and later rice, that gave much more grain. Within a few years India's harvests grew much bigger. Later he warned that using too many chemicals harms the soil and water, and he asked for farming that keeps the land healthy. He called it an 'Evergreen Revolution'.",
+   "then": "This change in farming was called the Green Revolution. Many people praised it for ending the worst hunger. Others worried that the new crops needed lots of water and chemicals, and that poorer farmers could not afford them.",
+   "now": "Everyone agrees the new crops helped India grow enough grain. People still argue about how to farm so that the soil, the water and small farmers stay healthy. Swaminathan himself spent his later life working on this.",
+   "status": "accepted",
+   "ask": "Swaminathan got many prizes. The farmers who grew the grain, many of them women, are not famous. Who do you think should get the credit for the food on your plate?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "Barry Marshall (born 1951) and Robin Warren (1937–2024), Australia, doctors",
+   "idea": "Warren saw tiny curved germs, a kind of bacteria, in the stomachs of people with stomach sores (ulcers). Marshall and Warren said these germs, now called Helicobacter pylori, cause most stomach ulcers, and that medicine that kills the germs can cure them.",
+   "then": "Most doctors did not believe them. They said ulcers came from worry and spicy food, and that no germ could live in the strong acid of the stomach. In 1984 Marshall drank a cup of the germs to test the idea. He became ill, the germs were found in his stomach, and medicine made him well.",
+   "now": "Their idea is accepted. In 2005 they won the Nobel Prize, one of the biggest prizes in science. Today most ulcers are cured with medicine that kills the germs.",
+   "status": "accepted",
+   "ask": "Many people believed spicy food caused stomach sores, because it seemed to make the pain worse. What would you need to see to be sure what really causes something?",
+   "day": 7
+  },
+  {
+   "id": "v3",
+   "who": "Clara Davis, USA, children's doctor in Chicago in the 1920s and 1930s",
+   "idea": "Davis let a small group of babies, who had just stopped drinking only milk, choose their own food at every meal for months and years. They were offered many plain foods, such as milk, fruit, vegetables, grains, eggs and meat. Some days a baby ate a lot of one food. But over weeks each baby ate a good mix and grew healthy.",
+   "then": "Many people took her study to mean that children's bodies know what they need, if they are left to choose.",
+   "now": "Scientists still discuss it. Her study had only a few babies, and every food on offer was plain and healthy, with no sweets or fried snacks. So it does not show what children would choose if sweets and chips were on the table. Davis herself said the choice of foods offered mattered.",
+   "status": "debated",
+   "ask": "If you could choose any food for a whole week, what do you think you would eat? How could we find out if your body knows what it needs?",
+   "day": 9
+  }
+ ],
+ "books": [
+  {
+   "title": "The Very Hungry Caterpillar",
+   "author": "Eric Carle",
+   "for": "read together",
+   "age": "2–6",
+   "why": "A caterpillar eats too many treats and gets a tummy ache, then feels better after one green leaf. Read it after Sundari's story and compare them."
+  },
+  {
+   "title": "Gregory, the Terrible Eater",
+   "author": "Mitchell Sharmat",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A young goat wants to eat fruit and vegetables instead of tin cans, which worries his parents. Funny, and good for talking about how each animal eats differently."
+  },
+  {
+   "title": "Oliver's Vegetables",
+   "author": "Vivian French",
+   "for": "read together",
+   "age": "3–6",
+   "why": "A boy who only eats chips finds vegetables in his grandfather's garden and tries a new one each day."
+  },
+  {
+   "title": "I Will Never Not Ever Eat a Tomato",
+   "author": "Lauren Child",
+   "for": "read together",
+   "age": "3–7",
+   "why": "Lola refuses many foods until her brother Charlie gives them new names. Good for talking about trying new foods."
+  }
+ ],
+ "check": [
+  {
+   "q": "What two jobs does food do for your body?",
+   "a": "Food builds my body, so I grow and mend. Food also gives me energy to move, think and keep warm."
+  },
+  {
+   "q": "How do plants get their food?",
+   "a": "Plants make their own food in their leaves, using sunlight, air and water."
+  },
+  {
+   "q": "Where does milk come from, and where did it start?",
+   "a": "Milk comes from a cow or a buffalo. She made it from the grass she ate, so it started with a plant."
+  },
+  {
+   "q": "Is a potato a root? What is it really?",
+   "a": "No. A potato is a stem that grows under the ground."
+  },
+  {
+   "q": "What did you see when you breathed on the cold mirror, and what does it tell you?",
+   "a": "A misty patch of tiny water drops. It tells me my breath carries water out of my body, so I need to drink water every day."
+  },
+  {
+   "q": "What happened to the eggshell in vinegar, and why does it matter for your teeth?",
+   "a": "It made bubbles and became thin and soft. Acid eats into hard things. Germs on my teeth make acid from sugar, so too much sugar can make holes in my teeth."
+  },
+  {
+   "q": "Is a jalebi a bad food?",
+   "a": "No food is bad. A jalebi is a treat: fine sometimes, but not every day, because it has a lot of sugar and oil."
+  }
+ ],
+ "story": {
+  "title": "Sundari and the Sweet Rice Balls",
+  "text": [
+   "My name is Sundari. I am an elephant, and I live at a big temple in Kumbakonam, a town of many temples near the Kaveri river.",
+   "Every morning, before the sun is hot, my keeper Selvi scrubs my back with a coconut husk and paints a white and red mark on my forehead. Then I walk to the temple gate and stand on the warm stone, and the people come.",
+   "They bring me gifts. Bananas, a stick of sugarcane, and best of all, sweet rice balls with jaggery. I reach out with the tip of my trunk, take each gift and pop it into my mouth. Then I touch each child's head gently with my trunk. The children squeal and laugh, and their mothers fold their hands.",
+   "I loved the sweet rice balls most. They were soft and warm, and the jaggery stuck to my tongue. One, then ten, then fifty. By evening I was so full that I did not want the grass Selvi brought me. I pushed the bundle away with my foot.",
+   "Months went by like that. I grew heavy. My feet ached on the hot stone. At night my tummy rumbled and grumbled, and I could not sleep. I was never hungry, but I was not happy either. Selvi stroked my ear and said nothing, but I could tell she was worried.",
+   "One day a young woman came to see me. She was Dr. Revathi, an animal doctor. She did not bring me a sweet. She sat on the temple steps with a notebook and watched me for the whole day. She counted the rice balls. She looked at my feet. She even looked at my dung, which I thought was rude.",
+   "In the evening she said to Selvi, 'Sundari is eating festival food every day. An elephant's body is made for plants: grass, leaves, branches and bark. In the forest, elephants walk and eat plants for most of the day and part of the night.'",
+   "'But she loves the sweets,' said Selvi.",
+   "'Everyone loves sweets,' said Dr. Revathi. 'That is why it is hard to stop.'",
+   "So when the hot months came, they took me on a long, bumpy ride in a truck to a camp in the forest by a river. I smelled the other elephants before I saw them. There were dozens of us, all temple elephants, all a little too heavy.",
+   "In the forest there were no rice balls. There were no bananas on plates. There was tall grass, and bamboo, and leafy branches piled high.",
+   "I sulked. I stood under a tree and did not eat. Selvi sat beside me and did not make me.",
+   "An old elephant named Kamakshi walked past. She wrapped her trunk around a clump of grass and pulled it up, roots and all. She knocked the soil off against her knee, thump, thump, and put the grass in her mouth. She chewed slowly, looking at nothing, and then she pulled up another clump.",
+   "By evening I was hungry. Not a little bit hungry, the way I felt at the temple when a child came late with a rice ball. This hunger was deep and loud. My tummy roared.",
+   "So I copied Kamakshi. I pulled up a clump of grass. I knocked off the soil, thump, thump. It was rough and it took a long time to chew. It was not sweet at all. I pulled up another clump, and another. I stripped the leaves off a branch with my trunk. I walked to the river and drank, and splashed water on my back, and came back for more.",
+   "That night I slept the whole night through.",
+   "The days went on like this. Walk, pull, thump, chew. Bathe. Walk, pull, thump, chew. I was eating almost all day, but I never felt stuffed. The ground was soft under my feet, and slowly the ache in them went away. My tummy was quiet. My body felt like my own again.",
+   "One afternoon Dr. Revathi came to the camp and found me by the river. She watched me for a while, the way she had on the temple steps. Then she smiled. 'Well, Sundari,' she said. 'Is grass as good as rice balls?'",
+   "I did not have words to answer her. I pulled up another clump, knocked it on my knee, the way Kamakshi does, and ate.",
+   "After many weeks I went home to the temple. Now, every morning, Selvi brings me a great heap of grass and palm leaves, and I eat it slowly while the bells ring. People still come to the gate.",
+   "Yesterday a small girl named Kavya came with her mother. She held up one banana in both hands, her arms stretched as high as they would go. I took it with the tip of my trunk, very gently, and put it in my mouth.",
+   "It was the sweetest thing I had tasted in weeks. It tasted like a festival."
+  ],
+  "epiphany": "For the parent: Sundari's own problem comes first. An elephant's body needs a lot of plants, eaten slowly through the day, but the sweet rice balls filled her so fast that she never ate the grass her body needed. The turn comes when she feels real hunger in the forest and copies Kamakshi: she eats plain food all day and her body feels well again. At the end, one banana tastes like a festival, because a treat is special when it comes sometimes, not all day.",
+  "ask": [
+   "Why did Sundari push away the grass at the temple?",
+   "How was the hunger in the forest different from how Sundari felt at the temple?",
+   "Why did Sundari feel better in the forest, even though she ate almost all day?",
+   "Why did one banana taste like a festival at the end?",
+   "What food is your 'festival food', the kind you have only sometimes?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Your body is built from the food you eat, and food gives you energy.",
+   "more": "Show the baby shirt that no longer fits. Every new bit of hair, nail and bone was made from food. Food also gives the energy to run, think and keep warm. Plants make their own food from sunlight, air and water, but ants, crows, cows and people have to eat."
+  },
+  {
+   "idea": "Almost all our food comes from plants, and every body needs many kinds.",
+   "more": "On the kitchen detective plates, the plant plate is usually the biggest, and even milk starts with the grass a cow ate. Roots, stems, leaves, flowers, fruits and seeds all end up on our plates. Many colours of fruit and vegetables bring many different good things."
+  },
+  {
+   "idea": "Water is the best drink, and sugar, salt and fat are for small amounts.",
+   "more": "The misty mirror shows water leaving the body in every breath. The sugar pile next to a sweet drink shows how much can hide in a bottle, and the soft eggshell shows what acid does to hard things like teeth. Treats are for sometimes, not every day."
+  }
+ ],
+ "unknowns": [
+  "Why does one child love a food that her sister cannot stand? Genes play a part, and so does what we ate when we were small, but scientists are still finding out how much each one matters.",
+  "Trillions of tiny living things live in our tummies and help digest our food. Scientists are only starting to find out whether they change what we feel like eating.",
+  "Does an ant feel hungry and full the way we do? Ants clearly sense food and share it, but nobody knows what hunger feels like to an ant."
+ ]
+}
