@@ -21,7 +21,7 @@ Ask: what fact or instruction is this? If you can't say it in a few words, rewri
 
 No riddles, no dramatic half-sentences, no clever images, no poetry where understanding is needed, no filler ("Let's explore", "Isn't that amazing?"), no formula pasted into every unit ("the One becoming the many").
 
-Living beings are never "it": she/he when the sex is known, otherwise they/them/their (WRITING.md rule 26).
+Living beings are never "it": she/he when the sex is known, otherwise they/them/their (WRITING.md rule 26). Made-up people are about 80% women and girls; in made-up stories women teach men, not the other way round (WRITING.md rule 27).
 
 ### 2. Is it the right word?
 Use the real term and explain it once, the first time: attract, repel, magnetic field, friction, force, evaporate, condense, photosynthesis, germinate, habitat, predator, organ, vibrate. Never swap it for a vague word ("pull" for attract, "stuff", "thing", "bits", "teams", "choosy", "wants"). Simple means clear, not vague.
