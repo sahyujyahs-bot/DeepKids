@@ -1,9 +1,9 @@
 # Adaptations: how living things are suited to heat, cold, water and darkness
 `sci.habitats.adaptations.L3`
 
-**Summary.** A camel can go for days in the Thar Desert without a drink. A snow leopard sleeps on ice in Ladakh. A fish breathes under water, and a cave fish finds food in total darkness. Each of them has features that solve the problems of its own place. A feature like this is called an adaptation. Desert plants keep their water with fat stems and waxy skins, because water escapes only through a surface that touches the air. Cold-place animals keep their warmth with thick fur, fat, small ears and huddling. Water animals have fins, webbed feet and oily feathers. Night and cave animals have huge eyes, shining eyes, whiskers, or senses that work with no light at all. Adaptations are passed down from parents to young, and build up over many, many generations.
+**Summary.** A camel can go for days in the Thar Desert without a drink. A snow leopard sleeps on ice in Ladakh. A fish breathes under water, and a cave fish finds food in total darkness. Each of them has features that solve the problems of their own place. A feature like this is called an adaptation. Desert plants keep their water with fat stems and waxy skins, because water escapes only through a surface that touches the air. Cold-place animals keep their warmth with thick fur, fat, small ears and huddling. Water animals have fins, webbed feet and oily feathers. Night and cave animals have huge eyes, shining eyes, whiskers, or senses that work with no light at all. Adaptations are passed down from parents to young, and build up over many, many generations.
 
-**Intro.** *Look at the washing on your line. A shirt pegged out flat dries by lunch. A towel left bundled up in a bucket is still damp at night. Both got just as wet. So why does one dry so much more slowly? What do you think?* A cactus in a hot desert has the same problem as the washing. Water slowly escapes from it into the dry air. A cactus that loses water too fast dries up and dies. In this unit you find out how a cactus keeps its water, how a camel lives with little water, and how a snow leopard stays warm in the snow. You also find out how fish and ducks are suited to water, and how some animals find their food in total darkness.
+**Intro.** *Look at the washing on your line. A shirt pegged out flat dries by lunch. A towel left bundled up in a bucket is still damp at night. Both got just as wet. So why does one dry so much more slowly? What do you think?* A cactus in a hot desert has the same problem as the washing. Water slowly escapes from the cactus into the dry air. A cactus that loses water too fast dries up and dies. In this unit you find out how a cactus keeps their water, how a camel lives with little water, and how a snow leopard stays warm in the snow. You also find out how fish and ducks are suited to water, and how some animals find their food in total darkness.
 
 ## Learning outcomes
 0. I can say what an adaptation is, and tell it apart from a body getting used to a place, which is called acclimatising.
@@ -15,106 +15,106 @@
 6. I can tell the true story of how Bodil and Knut Schmidt-Nielsen showed that a camel's hump is fat, not a water tank.
 
 ## Terms
-- **Habitat**: The place where a living thing lives, which gives it food, water, shelter and the right warmth. *e.g.* The Thar Desert is the habitat of the camel. A pond is the habitat of a frog.
-- **Adaptation**: A feature of a living thing's body, or a way it behaves, that helps it live and have young in its habitat. Adaptations are passed from parents to their young. *e.g.* A camel's wide, padded feet do not sink in soft sand. That is an adaptation to the desert.
+- **Habitat**: The place where a living thing lives, which gives them food, water, shelter and the right warmth. *e.g.* The Thar Desert is the habitat of the camel. A pond is the habitat of a frog.
+- **Adaptation**: A feature of a living thing's body, or a way they behave, that helps them live and have young in their habitat. Adaptations are passed from parents to their young. *e.g.* A camel's wide, padded feet do not sink in soft sand. That is an adaptation to the desert.
 - **Acclimatise**: To get used to a new place within your own life. Your body changes a little, but these changes are not passed on to your children. *e.g.* A family from Kochi who moves to Delhi starts to sweat sooner and drink more after a week or two of hot summer days.
 - **Evaporate**: When water evaporates, it turns into an invisible gas, water vapour, and goes into the air. *e.g.* Wet clothes on a line dry because their water evaporates.
 - **Surface**: The outside of a thing, where it touches the air or water around it. *e.g.* A sheet of paper spread flat has a big surface. Rolled up tight, most of its surface is hidden inside.
 - **Succulent**: A plant with thick, juicy leaves or stems that store water. Cactuses and aloe vera are succulents. *e.g.* Break an aloe vera leaf, and a clear, slimy jelly full of water oozes out.
 - **Waxy coat**: A thin, waterproof layer on the outside of leaves and stems. Scientists call it the cuticle. It slows down the water escaping from a plant. *e.g.* Water drops roll into beads on a cabbage leaf, because the leaf has a waxy coat.
-- **Stomata**: Tiny holes in a leaf, too small to see without a microscope. Air goes in and out through them, and water vapour escapes through them. A plant can open and close them. *e.g.* A cactus opens its stomata at night, when the air is cooler and less water escapes.
-- **Insulation**: A layer that slows down heat moving from a warm place to a cold place. *e.g.* A snow leopard's thick fur is insulation. It slows down the heat escaping from its warm body into the icy air.
+- **Stomata**: Tiny holes in a leaf, too small to see without a microscope. Air goes in and out through them, and water vapour escapes through them. A plant can open and close them. *e.g.* A cactus opens their stomata at night, when the air is cooler and less water escapes.
+- **Insulation**: A layer that slows down heat moving from a warm place to a cold place. *e.g.* A snow leopard's thick fur is insulation. It slows down the heat escaping from their warm body into the icy air.
 - **Blubber**: A thick layer of fat under the skin of whales, seals and some other animals. It works as insulation in icy water. *e.g.* Seals rest on ice and swim in freezing seas, kept warm by the blubber under their skin.
 - **Huddle**: When animals crowd close together, so that less of each body faces the cold air. *e.g.* Emperor penguins huddle in a big crowd through the Antarctic winter.
 - **Nocturnal**: Awake and active at night, and resting by day. *e.g.* Owls, bats and the slender loris are nocturnal.
 - **Eyeshine**: The glow of an animal's eyes when a light shines on them in the dark. It comes from a shiny layer at the back of the eye that reflects light back through it. *e.g.* A cat's eyes shine green in a torch beam at night. Human eyes do not shine like that.
-- **Whiskers**: Long, stiff hairs on the face of animals like cats, rats and seals. They feel the air and things nearby, even in the dark. *e.g.* A cat pokes its head into a gap, and its whiskers touch the sides first.
-- **Lateral line**: A row of tiny sensors along each side of a fish's body. It feels the water moving, so a fish can sense other animals nearby without seeing them. *e.g.* A blind cave fish swims round a rock without bumping it, using its lateral line.
+- **Whiskers**: Long, stiff hairs on the face of animals like cats, rats and seals. They feel the air and things nearby, even in the dark. *e.g.* A cat pokes their head into a gap, and their whiskers touch the sides first.
+- **Lateral line**: A row of tiny sensors along each side of a fish's body. It feels the water moving, so a fish can sense other animals nearby without seeing them. *e.g.* A blind cave fish swims round a rock without bumping it, using their lateral line.
 - **Echolocation**: Finding things by making sounds and listening to the echoes that bounce back. *e.g.* Bats and dolphins use echolocation to find food in the dark or in muddy water.
-- **Streamlined**: Shaped so that water or air slides past easily: smooth, rounded at the front and narrow at the back. *e.g.* A fish's body is streamlined, so it can swim fast with little effort.
+- **Streamlined**: Shaped so that water or air slides past easily: smooth, rounded at the front and narrow at the back. *e.g.* A fish's body is streamlined, so they can swim fast with little effort.
 - **Webbed feet**: Feet with skin stretched between the toes, which push against water like a paddle. *e.g.* Ducks, frogs and otters have webbed feet.
-- **Preen gland**: A small gland near the base of a bird's tail that makes oil. The bird spreads the oil over its feathers with its beak. *e.g.* Ducks preen often, so water runs off their feathers in drops.
+- **Preen gland**: A small gland near the base of a bird's tail that makes oil. The bird spreads the oil over their feathers with their beak. *e.g.* Ducks preen often, so water runs off their feathers in drops.
 - **Mangrove**: A tree that grows in salty mud on sea coasts, where the tide comes in and out every day. *e.g.* The Pichavaram mangrove forest in Tamil Nadu has narrow water paths between its trees.
 - **Breathing roots**: Roots that grow upwards out of the mud, so the plant can take in air. Mud under water has very little air in it. *e.g.* Around some mangrove trees, hundreds of pencil-like roots poke up out of the mud.
 - **Generation**: One step in a family line: parents are one generation, their children the next. *e.g.* You, your parents and your grandparents are three generations.
 
 ## Explanations
 ### What an adaptation is · *defined*
-**Definition:** An adaptation is a feature of a living thing's body, or a way it behaves, that helps it live and have young in its habitat. It is passed down from parents to young.
+**Definition:** An adaptation is a feature of a living thing's body, or a way they behave, that helps them live and have young in their habitat. It is passed down from parents to young.
 
-Every habitat has its own problems. A desert has little water and burning days. A snowy mountain is freezing. A pond means living in water. A cave is completely dark. To understand any adaptation, first ask: what is this living thing's problem here? Then ask: how does this feature help with it? A camel's problem is that water is scarce. Its body loses very little water, so it can go for days without drinking. Some adaptations are parts of the body, like a duck's webbed feet. Some are ways of behaving, like a desert lizard hiding in its burrow at noon. An adaptation is different from acclimatising. If you move from Kochi to a hot, dry Delhi summer, your body starts to sweat sooner within a week or two. That change happens in your own life, and it is not passed on to your children. A camel's way of saving water is built into every camel calf.
-- e.g. A cactus stores water in its fat stem. Its problem is that rain comes rarely.
-- e.g. A snow leopard has thick fur. Its problem is the freezing cold of the mountains.
-- e.g. A desert lizard hides under the sand at noon. That is a way of behaving that keeps it from overheating.
+Every habitat has its own problems. A desert has little water and burning days. A snowy mountain is freezing. A pond means living in water. A cave is completely dark. To understand any adaptation, first ask: what is this living thing's problem here? Then ask: how does this feature help with it? A camel's problem is that water is scarce. Their body loses very little water, so they can go for days without drinking. Some adaptations are parts of the body, like a duck's webbed feet. Some are ways of behaving, like a desert lizard hiding in their burrow at noon. An adaptation is different from acclimatising. If you move from Kochi to a hot, dry Delhi summer, your body starts to sweat sooner within a week or two. That change happens in your own life, and it is not passed on to your children. A camel's way of saving water is built into every camel calf.
+- e.g. A cactus stores water in their fat stem. Their problem is that rain comes rarely.
+- e.g. A snow leopard has thick fur. Their problem is the freezing cold of the mountains.
+- e.g. A desert lizard hides under the sand at noon. That is a way of behaving that keeps them from overheating.
 ### Keeping water in a hot, dry place: plants · *defined*
-**Definition:** Water evaporates from a plant into dry air, mostly through its leaves. Desert plants lose water slowly because they have little surface for their size, a thick waxy coat, and stomata that open mostly at night.
+**Definition:** Water evaporates from a plant into dry air, mostly through their leaves. Desert plants lose water slowly because they have little surface for their size, a thick waxy coat, and stomata that open mostly at night.
 
-A plant's problem in a desert is that rain may come only a few times a year, while the hot, dry air pulls water out of it every day. Water can only escape through a plant's outside, where it touches the air. A big, thin leaf has a lot of outside, so it loses water fast. A cactus has no flat leaves at all. Its leaves are spines, and its stem is fat and round. That shape holds a lot of water with little outside, just like the rolled-up towel in this unit's experiment. Its stem is covered with a thick waxy coat, which water hardly passes through. Its stomata, the tiny holes that let air in and water out, open mostly at night, when the air is cooler and less water escapes. Aloe vera stores water in thick, juicy leaves. Other desert plants solve the problem differently. The khejri tree of the Thar Desert, the state tree of Rajasthan, sends its roots very deep to reach water far underground. Some grasses, and rice in a dry spell, roll their leaves into thin tubes in the hot afternoon and open them again in the evening.
-- e.g. The spines of a cactus are its leaves. They also protect the juicy stem from thirsty animals.
+A plant's problem in a desert is that rain may come only a few times a year, while the hot, dry air pulls water out of the plant every day. Water can only escape through a plant's outside, where it touches the air. A big, thin leaf has a lot of outside, so it loses water fast. A cactus has no flat leaves at all. Their leaves are spines, and their stem is fat and round. That shape holds a lot of water with little outside, just like the rolled-up towel in this unit's experiment. Their stem is covered with a thick waxy coat, which water hardly passes through. Their stomata, the tiny holes that let air in and water out, open mostly at night, when the air is cooler and less water escapes. Aloe vera stores water in thick, juicy leaves. Other desert plants solve the problem differently. The khejri tree of the Thar Desert, the state tree of Rajasthan, sends their roots very deep to reach water far underground. Some grasses, and rice in a dry spell, roll their leaves into thin tubes in the hot afternoon and open them again in the evening.
+- e.g. The spines of a cactus are their leaves. They also protect the juicy stem from thirsty animals.
 - e.g. Rub a cabbage leaf with your finger and you feel a smooth wax. Many plants have a waxy coat, but desert plants have the thickest.
 - e.g. When paddy leaves roll up at midday in a dry spell, farmers know the plants are short of water.
 ### Keeping cool and saving water: desert animals · *defined*
 **Definition:** Desert animals keep cool and save water by hiding from the midday heat, by losing little water from their bodies, and by getting rid of heat through big ears and thin parts of the body.
 
-Sweating cools a body, because sweat takes heat away as it evaporates. But in a desert, every drop of sweat is water an animal may not be able to replace. So desert animals have other ways. The camel lets its body warm up by several degrees during a hot day, instead of sweating to stay cool. At night it cools down again. Its thick fur on its back shades its skin from the sun. Its hump is a store of fat, not water. It can close its nostrils against blowing sand, and its long eyelashes keep sand out of its eyes. Many small desert animals, like gerbils, lizards and beetles, spend the hot day in burrows under the sand, where it is cooler, and come out at night or at dawn. Desert foxes have big ears. Blood flows close to the thin skin of the ears, and heat leaves the blood into the air. A fennec fox of the Sahara has the biggest ears for its size of any fox. An Arctic fox has small ears, which lose little heat.
-- e.g. A camel can lose water equal to about a quarter of its body weight and still recover when it drinks. Most mammals would die long before that.
+Sweating cools a body, because sweat takes heat away as it evaporates. But in a desert, every drop of sweat is water an animal may not be able to replace. So desert animals have other ways. The camel lets their body warm up by several degrees during a hot day, instead of sweating to stay cool. At night their body cools down again. Their thick fur on their back shades their skin from the sun. Their hump is a store of fat, not water. They can close their nostrils against blowing sand, and their long eyelashes keep sand out of their eyes. Many small desert animals, like gerbils, lizards and beetles, spend the hot day in burrows under the sand, where it is cooler, and come out at night or at dawn. Desert foxes have big ears. Blood flows close to the thin skin of the ears, and heat leaves the blood into the air. A fennec fox of the Sahara has the biggest ears for their size of any fox. An Arctic fox has small ears, which lose little heat.
+- e.g. A camel can lose water equal to about a quarter of their body weight and still recover when they drink. Most mammals would die long before that.
 - e.g. Many desert animals get most of their water from their food, like seeds, leaves and the insects they eat.
 - e.g. Indian desert gerbils dig burrows and stay inside them through the hottest hours.
 ### Keeping warm in the cold · *defined*
 **Definition:** A warm body loses heat through its outside, into the cold air or water. Cold-place animals keep their warmth with thick fur or feathers, a layer of fat, small ears and tails, and by curling up or huddling together.
 
-A snow leopard's body is warm inside, and the air around it in winter can be far below freezing. Heat always moves from a warm place to a cold place. So the snow leopard's problem is that heat escapes from its body all the time, through its skin. Its thick fur is insulation. The fur traps still air between its hairs, and the still air slows the heat down. Its long, thick tail is almost as long as its body. When it rests, it wraps the tail round its body and face like a scarf. Its wide, furry paws spread its weight on the snow, and fur under the paws keeps them warm. Its ears are small and round, so little heat escapes from them. Yaks in Ladakh have long, shaggy hair that hangs almost to the ground, with soft wool underneath. Changthangi goats on the cold Changthang plateau of Ladakh grow a fine, soft underwool in winter. People comb it out in spring and spin it into pashmina. Whales and seals have blubber, a thick layer of fat under the skin. Curling up and huddling help too. A dog sleeping on a cold night curls into a ball and tucks its nose under its tail. Emperor penguins in the Antarctic winter crowd together in a huddle. The middle of a huddle can be warmer than 20 degrees Celsius while the wind outside is far below freezing. The birds keep shuffling, so each one takes turns on the cold outside.
+A snow leopard's body is warm inside, and the air around it in winter can be far below freezing. Heat always moves from a warm place to a cold place. So the snow leopard's problem is that heat escapes from their body all the time, through their skin. Their thick fur is insulation. The fur traps still air between its hairs, and the still air slows the heat down. Their long, thick tail is almost as long as their body. When they rest, they wrap the tail round their body and face like a scarf. Their wide, furry paws spread their weight on the snow, and fur under the paws keeps them warm. Their ears are small and round, so little heat escapes from them. Yaks in Ladakh have long, shaggy hair that hangs almost to the ground, with soft wool underneath. Changthangi goats on the cold Changthang plateau of Ladakh grow a fine, soft underwool in winter. People comb it out in spring and spin it into pashmina. Whales and seals have blubber, a thick layer of fat under the skin. Curling up and huddling help too. A dog sleeping on a cold night curls into a ball and tucks their nose under their tail. Emperor penguins in the Antarctic winter crowd together in a huddle. The middle of a huddle can be warmer than 20 degrees Celsius while the wind outside is far below freezing. The birds keep shuffling, so each one takes turns on the cold outside.
 - e.g. Pigeons puff up their feathers on a cold morning. The thicker coat traps more still air.
 - e.g. In the huddle test in this unit, ice cubes huddled together melted more slowly than ice cubes spread apart.
 - e.g. Mountain animals, like the Himalayan marmot, sleep through the coldest months in burrows. This deep winter sleep is called hibernation.
 ### Living through freezing · *defined*
 **Definition:** Some living things survive being frozen. Some frogs freeze solid in winter and thaw in spring. Many mountain plants grow low and close to the ground, out of the icy wind.
 
-Ice is a danger for a living thing, because sharp ice crystals can break its cells. Most animals must keep warm to avoid freezing. A few do something surprising instead. The wood frog of North America lets itself freeze in winter. Its heart stops beating and it stops breathing. About two thirds of the water in its body turns to ice. Before it freezes, its liver floods its body with sugar. The sugar keeps the inside of its cells from freezing and breaking. In spring it thaws, its heart starts again, and it hops away. The Canadian scientists Kenneth and Janet Storey studied these frogs for many years. High in the Himalaya, many plants grow as low, tight cushions or flat rosettes pressed against the ground. Near the ground, the wind is weaker and the sun warms the soil, so the plant stays warmer than the air just above it.
+Ice is a danger for a living thing, because sharp ice crystals can break their cells. Most animals must keep warm to avoid freezing. A few do something surprising instead. The wood frog of North America lets themself freeze in winter. Their heart stops beating and they stop breathing. About two thirds of the water in their body turns to ice. Before they freeze, their liver floods their body with sugar. The sugar keeps the inside of their cells from freezing and breaking. In spring they thaw, their heart starts again, and they hop away. The Canadian scientists Kenneth and Janet Storey studied these frogs for many years. High in the Himalaya, many plants grow as low, tight cushions or flat rosettes pressed against the ground. Near the ground, the wind is weaker and the sun warms the soil, so the plant stays warmer than the air just above.
 - e.g. Some insects in cold places make their own antifreeze, a substance that stops their body water from freezing.
 - e.g. Pine trees in snowy places have thin, waxy needles and sloping branches, so heavy snow slides off without breaking them.
 ### Suited to life in water · *defined*
 **Definition:** Water animals and plants have features that help them breathe, move, stay afloat and keep dry or warm in water.
 
-Water is a very different place from air. It is hard to push through, it holds much less oxygen than air, and it can be salty. A fish breathes with gills. Water flows in through its mouth and out over its gills, which take oxygen from the water. Its body is streamlined, smooth and narrow, so water slides past it. Its fins push and steer. Ducks have webbed feet. The skin between their toes pushes against the water like a paddle. When the foot comes forward, the toes fold together, so it does not push the duck back. A duck spreads oil from its preen gland over its feathers, so water runs off in drops instead of soaking in. Water plants have problems too. The water hyacinth floats because its leaf stalks are swollen and spongy, full of air. A lotus stem, sold in markets as kamal kakdi or thamarai thandu, is full of holes when you cut it. These are air channels that carry air down to the parts under the mud. Mangrove trees grow in salty mud on the coast. The mud under water has very little air, so some mangroves send up breathing roots out of the mud. Some, like the grey mangrove, push the extra salt out through their leaves. On a dry day you can sometimes see salt crystals on the leaves.
-- e.g. The mudskipper is a fish that lives in mangroves. It can climb out of the water on its fins, and breathes through its skin and the lining of its mouth while it is out.
+Water is a very different place from air. It is hard to push through, it holds much less oxygen than air, and it can be salty. A fish breathes with gills. Water flows in through their mouth and out over their gills, which take oxygen from the water. Their body is streamlined, smooth and narrow, so water slides past it. Their fins push and steer. Ducks have webbed feet. The skin between their toes pushes against the water like a paddle. When the foot comes forward, the toes fold together, so it does not push the duck back. A duck spreads oil from their preen gland over their feathers, so water runs off in drops instead of soaking in. Water plants have problems too. The water hyacinth floats because their leaf stalks are swollen and spongy, full of air. A lotus stem, sold in markets as kamal kakdi or thamarai thandu, is full of holes when you cut it. These are air channels that carry air down to the parts under the mud. Mangrove trees grow in salty mud on the coast. The mud under water has very little air, so some mangroves send up breathing roots out of the mud. Some, like the grey mangrove, push the extra salt out through their leaves. On a dry day you can sometimes see salt crystals on the leaves.
+- e.g. The mudskipper is a fish that lives in mangroves. They can climb out of the water on their fins, and breathe through their skin and the lining of their mouth while they are out.
 - e.g. Otters have webbed feet and thick fur that traps a layer of air, so the water does not reach their skin.
 - e.g. Dolphins and whales breathe air, so their nostril, the blowhole, is on the top of their head.
 ### Living in the dark · *defined*
 **Definition:** Animals that live at night, in caves or in the deep sea find their way and their food with very big eyes, eyes that shine, long whiskers, sound and touch.
 
-There are three main kinds of dark place. Night comes to every habitat. Caves are dark all the time. The deep sea, below about 1,000 metres, never gets any sunlight. The problem is the same in all three: how do you find food, and avoid being eaten, when you can hardly see? Many night animals have huge eyes that collect as much light as possible. The slender loris of the forests of South India and Sri Lanka has enormous round eyes for its small face. Owls have eyes so big that they cannot move them in their sockets. Instead, an owl turns its whole head, up to about three quarters of a full turn. Many night animals, like cats, cows and crocodiles, have a shiny layer at the back of the eye. It reflects light back through the eye, so the light gets a second chance to be caught. This is what makes their eyes shine in a torch beam. Other animals use other senses. A cat's whiskers feel the air and the walls. A barn owl can catch a mouse in total darkness by sound alone. The American scientist Roger Payne showed this by letting a barn owl hunt in a completely dark room. Small insect-eating bats and dolphins use echolocation. Many deep-sea fish make their own light.
-- e.g. The Ganges river dolphin, India's national aquatic animal, lives in muddy water where it can hardly see. Its eyes have no lens, so it can probably tell only light from dark. It finds fish by echolocation.
+There are three main kinds of dark place. Night comes to every habitat. Caves are dark all the time. The deep sea, below about 1,000 metres, never gets any sunlight. The problem is the same in all three: how do you find food, and avoid being eaten, when you can hardly see? Many night animals have huge eyes that collect as much light as possible. The slender loris of the forests of South India and Sri Lanka has enormous round eyes for their small face. Owls have eyes so big that they cannot move them in their sockets. Instead, an owl turns their whole head, up to about three quarters of a full turn. Many night animals, like cats, cows and crocodiles, have a shiny layer at the back of the eye. It reflects light back through the eye, so the light gets a second chance to be caught. This is what makes their eyes shine in a torch beam. Other animals use other senses. A cat's whiskers feel the air and the walls. A barn owl can catch a mouse in total darkness by sound alone. The American scientist Roger Payne showed this by letting a barn owl hunt in a completely dark room. Small insect-eating bats and dolphins use echolocation. Many deep-sea fish make their own light.
+- e.g. The Ganges river dolphin, India's national aquatic animal, lives in muddy water where they can hardly see. Their eyes have no lens, so they can probably tell only light from dark. They find fish by echolocation.
 - e.g. The big fruit bats you see hanging in trees in Indian cities find their food mostly with their eyes and noses. Most of them do not echolocate.
-- e.g. A fish's lateral line feels the water move, so it can sense another fish swimming nearby in the dark.
+- e.g. A fish's lateral line feels the water move, so they can sense another fish swimming nearby in the dark.
 ### Cave fish: why did they lose their eyes? · *debated*
 In about thirty caves in Mexico live pale, blind fish. They are the same kind of fish, the Mexican tetra, as the silvery fish with good eyes that swim in the rivers outside. Their eyes start to grow when the baby fish is forming, then shrink and get covered with skin. They also have more taste buds and bigger lateral line sensors than the river fish. In India, cave explorers found large, pale fish in a cave in the Jaintia Hills of Meghalaya in 2019. Scientists described them as a new kind of fish in 2023. Why do fish that live in the dark lose their eyes? Scientists have several ideas, and they still argue about how much each one matters.
 - e.g. In a completely dark cave, eyes cannot help a fish find food.
 - e.g. Cave fish from different caves lost their eyes separately, through changes in different genes.
 - e.g. Keeping eyes and the parts of the brain that see working uses a lot of energy, and caves have little food.
 - **Many scientists who study cave fish:** Eyes cost energy to keep working, and caves have very little food. Fish that spent less energy on useless eyes had more energy left for growing and having young. Over many generations, fish with smaller eyes did better.
-- **Other scientists, such as William Jeffery, who studied the Mexican cave fish for many years:** The same changes in the young fish's body that give it more taste buds and better jaw sensors also make its eyes shrink. Fish that were better at finding food by taste and touch did better, and they lost their eyes as a side effect.
+- **Other scientists, such as William Jeffery, who studied the Mexican cave fish for many years:** The same changes in the young fish's body that give them more taste buds and better jaw sensors also make their eyes shrink. Fish that were better at finding food by taste and touch did better, and they lost their eyes as a side effect.
 - **Some scientists who study genes:** In the dark, a fish with a broken eye gene is no worse off than one with good eyes. So changes that break eye genes are not weeded out. They simply build up over many generations.
 ### Where do adaptations come from? · *debated*
-A camel calf is born with a body that saves water. Nobody taught it. So how did camels come to be like this? People have given different answers. Today, almost all biologists agree that body features like a camel's are passed down in families, and that they built up over very many generations. They still discuss some of the details.
+A camel calf is born with a body that saves water. Nobody taught them. So how did camels come to be like this? People have given different answers. Today, almost all biologists agree that body features like a camel's are passed down in families, and that they built up over very many generations. They still discuss some of the details.
 - e.g. Children look a little like their parents, but no two are exactly alike. Living things in the same family vary.
 - e.g. In the 1880s, the German scientist August Weismann cut the tails off mice, generation after generation. Every new baby mouse was still born with a full tail. A change made to a parent's body was not passed on.
 - e.g. A lizard decides every day when to sit in the sun and when to hide in the shade. Behaviour can change within a day.
-- **Jean-Baptiste Lamarck, a French scientist, in 1809:** Animals change their bodies by using them. A giraffe that stretches for leaves gets a slightly longer neck, and passes that longer neck on to its young. Most scientists now say this is wrong for body features like necks. Weismann's mice were one test against it.
+- **Jean-Baptiste Lamarck, a French scientist, in 1809:** Animals change their bodies by using them. A giraffe that stretches for leaves gets a slightly longer neck, and passes that longer neck on to their young. Most scientists now say this is wrong for body features like necks. Weismann's mice were one test against it.
 - **Charles Darwin and Alfred Russel Wallace, two British scientists, in 1858:** Young living things vary a little, and they inherit features from their parents. In a desert, the ones that happen to lose less water are more likely to survive and have young. Over many generations, the whole group comes to save water better. This is called natural selection.
 - **Some scientists today:** Living things are not only shaped by their habitat. They also choose where to live and how to act, and they change their habitats. A beaver builds a dam, and earthworms change the soil. Those choices and changes decide which features help. Scientists call this niche construction.
 ### The same problem, the same answer · *defined*
 **Definition:** Living things that are not closely related often end up with similar adaptations when they live in similar places. Scientists call this convergent evolution.
 
 Cactuses grow wild in the Americas. Some euphorbias grow in the dry parts of Africa and India. They come from very different plant families. Yet both have fat, green, spiny stems and almost no leaves. The same problem, keeping water in the desert, led to the same shape twice. Look at a shark and a dolphin. A shark is a fish. A dolphin is a mammal, like a cow or you, and breathes air. Yet both have a streamlined body, a fin on the back and a strong tail, because both must swim fast through water. In caves all over the world, from Mexico to Meghalaya, fish, shrimps and beetles have turned pale and lost their eyes.
-- e.g. A fat, spiny euphorbia hedge in an Indian village can look so like a cactus that most people call it one. Break a stem carefully and look: a euphorbia has white, milky sap. Its sap stings eyes and skin, so only a grown-up should do this.
+- e.g. A fat, spiny euphorbia hedge in an Indian village can look so like a cactus that most people call these plants cactus. Break a stem carefully and look: a euphorbia has white, milky sap. Their sap stings eyes and skin, so only a grown-up should do this.
 - e.g. Penguins and dolphins both swim with flippers, though one is a bird and the other a mammal.
 ### Every adaptation has a cost · *defined*
-**Definition:** An adaptation that helps in one place can be a problem in another. Each living thing is suited to its own habitat, not to every habitat.
+**Definition:** An adaptation that helps in one place can be a problem in another. Each living thing is suited to their own habitat, not to every habitat.
 
-A yak's thick, shaggy coat keeps it warm in Ladakh. Down in the plains in summer, the same coat would make it dangerously hot. A cave fish without eyes does well in the dark, but in a sunny river it could not see a bird coming to catch it. An owl's huge eyes are excellent at night, but they cannot move in their sockets. A cactus grows slowly, partly because opening its stomata only at night lets in less air to make food. So no living thing is best everywhere. Each one fits its own place.
-- e.g. A polar bear in a hot zoo needs cold water and shade, because its fur and fat hold in so much heat.
-- e.g. A snow leopard's thick fur would make it far too hot in the forests of Kerala.
+A yak's thick, shaggy coat keeps them warm in Ladakh. Down in the plains in summer, the same coat would make them dangerously hot. A cave fish without eyes does well in the dark, but in a sunny river they could not see a bird coming to catch them. An owl's huge eyes are excellent at night, but they cannot move in their sockets. A cactus grows slowly, partly because opening their stomata only at night lets in less air to make food. So no living thing is best everywhere. Each one fits their own place.
+- e.g. A polar bear in a hot zoo needs cold water and shade, because their fur and fat hold in so much heat.
+- e.g. A snow leopard's thick fur would make them far too hot in the forests of Kerala.
 ### People adapt mostly with what they make · *defined*
 **Definition:** People live in deserts, on icy mountains, on boats and in the dark. Mostly we do it with clothes, homes, fire and tools, and with knowledge passed from person to person.
 
@@ -130,60 +130,60 @@ Our bodies have some adaptations of their own. We sweat a lot, which helps us ke
 - Similar places often give unrelated living things similar shapes. *How we know:* Cactuses and euphorbias, sharks and dolphins, and cave animals all over the world show the same answers to the same problems.
 
 ## How we found out
-**Bodil Schmidt-Nielsen and Knut Schmidt-Nielsen, scientists who studied how animals' bodies work, 1953 to 1954, at Béni Abbès in the Sahara. Their camel temperature results were published in 1957.** For hundreds of years, many people believed that a camel carries water in its hump, or in special pockets in its stomach. How else could it cross a desert for days without drinking? In the winter of 1953, two scientists set out to test it. Bodil Schmidt-Nielsen, from Denmark, and her husband Knut Schmidt-Nielsen, from Norway, took their equipment to Béni Abbès, an oasis in the Sahara Desert in Algeria. They kept camels without water, weighed them, took their temperatures and measured everything they lost. They found that the hump is mostly fat, not water. The stomach held no store of water either. Instead, a camel saves water by losing very little. A thirsty camel let its body warm up by about 6 degrees during the hot day, instead of sweating to stay cool. At night it cooled down again. It also made very little urine. A camel could lose water equal to a quarter of its body weight and still recover once it drank. Bodil later became the first woman to lead the American Physiological Society, in 1975.  
-*What people believed before:* People thought a camel's hump, or pockets in its stomach, held a store of water. The Schmidt-Nielsens measured camels in the Sahara and found the hump is fat and the stomach holds no water store. Camels survive by losing very little water, partly by letting their bodies warm up by day.
+**Bodil Schmidt-Nielsen and Knut Schmidt-Nielsen, scientists who studied how animals' bodies work, 1953 to 1954, at Béni Abbès in the Sahara. Their camel temperature results were published in 1957.** For hundreds of years, many people believed that a camel carries water in their hump, or in special pockets in their stomach. How else could they cross a desert for days without drinking? In the winter of 1953, two scientists set out to test it. Bodil Schmidt-Nielsen, from Denmark, and her husband Knut Schmidt-Nielsen, from Norway, took their equipment to Béni Abbès, an oasis in the Sahara Desert in Algeria. They kept camels without water, weighed them, took their temperatures and measured everything they lost. They found that the hump is mostly fat, not water. The stomach held no store of water either. Instead, a camel saves water by losing very little. A thirsty camel let their body warm up by about 6 degrees during the hot day, instead of sweating to stay cool. At night they cooled down again. They also made very little urine. A camel could lose water equal to a quarter of their body weight and still recover once they drank. Bodil later became the first woman to lead the American Physiological Society, in 1975.  
+*What people believed before:* People thought a camel's hump, or pockets in their stomach, held a store of water. The Schmidt-Nielsens measured camels in the Sahara and found the hump is fat and the stomach holds no water store. Camels survive by losing very little water, partly by letting their bodies warm up by day.
 
 ## Challenging perspectives
-- **A camel stores water in its hump.** (A very common idea, in many countries; *rejected*)  
+- **A camel stores water in their hump.** (A very common idea, in many countries; *rejected*)  
   For: A camel can go many days without drinking, and the hump looks like a tank.  
-  Against: The hump is mostly fat. A camel saves water by losing very little: it lets its body warm up by day instead of sweating, and loses little water in its droppings and urine. Bodil and Knut Schmidt-Nielsen showed this in the 1950s.
-- **An animal grows a new feature because it needs one. A giraffe's neck grew long because giraffes stretched for leaves.** (Jean-Baptiste Lamarck, in 1809, and many people today; *rejected*)  
+  Against: The hump is mostly fat. A camel saves water by losing very little: they let their body warm up by day instead of sweating, and lose little water in their droppings and urine. Bodil and Knut Schmidt-Nielsen showed this in the 1950s.
+- **An animal grows a new feature because they need one. A giraffe's neck grew long because giraffes stretched for leaves.** (Jean-Baptiste Lamarck, in 1809, and many people today; *rejected*)  
   For: Using a body part can make it stronger in your own life. Muscles grow with exercise.  
-  Against: Changes made to a parent's body in its own life are not passed on to its young in that way. August Weismann cut the tails off mice for many generations, and their babies always had tails. Long necks built up because giraffes with slightly longer necks survived and had more young.
+  Against: Changes made to a parent's body in their own life are not passed on to their young in that way. August Weismann cut the tails off mice for many generations, and their babies always had tails. Long necks built up because giraffes with slightly longer necks survived and had more young.
 - **Animals of the same kind are bigger in colder places.** (Carl Bergmann, a German scientist, in 1847; *debated*)  
   For: A big body has less outside for its size than a small one, so it loses heat more slowly. Many birds and mammals are bigger in colder places.  
   Against: Many animals do not follow this rule. Food, enemies and other things also change body size. Scientists still argue about how often it holds and why.
-- **A polar bear's see-through hairs carry sunlight down to its black skin, like glass tubes, to warm it.** (An idea once printed in many books and articles; *rejected*)  
-  For: A polar bear's hairs really are clear and hollow, and its skin really is black.  
+- **A polar bear's see-through hairs carry sunlight down to their black skin, like glass tubes, to warm them.** (An idea once printed in many books and articles; *rejected*)  
+  For: A polar bear's hairs really are clear and hollow, and their skin really is black.  
   Against: In 1998, the American scientist Daniel Koon tested polar bear hairs in the lab. They hardly carried light along at all. The fur looks white because the clear hairs scatter light, and it keeps the bear warm mostly by trapping still air.
 - **Bats are blind.** (A common saying, 'as blind as a bat'; *rejected*)  
   For: Many bats find their food in the dark by echolocation, not by sight.  
   Against: Every kind of bat can see. The big fruit bats of Indian cities find their food mostly with their eyes and noses.
-- **An owl can turn its head all the way round.** (A common idea; *rejected*)  
+- **An owl can turn their head all the way round.** (A common idea; *rejected*)  
   For: Owls turn their heads much further than we can, because their eyes cannot move in their sockets.  
-  Against: An owl can turn its head up to about three quarters of a full turn, not a full turn.
+  Against: An owl can turn their head up to about three quarters of a full turn, not a full turn.
 
 ## Roots
 We have learned how living things are suited to heat, cold, water and darkness. Now we ask what this tells us about living things and about ourselves.
 
-**Deep truth.** Your three wet towels held the same water, yet they dried at very different speeds. Water escapes only through a surface that touches the air. Rolled up or covered, a towel kept its water for hours. So a cactus's shape and waxy skin save its water every minute, even while it rests.  
-*Habit it breaks:* We think of saving water as something done on purpose, like turning off a tap. A cactus also decides things, such as when to open its tiny leaf holes. But much of its saving is done by its body's shape and coat, all the time.  
+**Deep truth.** Your three wet towels held the same water, yet they dried at very different speeds. Water escapes only through a surface that touches the air. Rolled up or covered, a towel kept its water for hours. So a cactus's shape and waxy skin save their water every minute, even while they rest.  
+*Habit it breaks:* We think of saving water as something done on purpose, like turning off a tap. A cactus also decides things, such as when to open their tiny leaf holes. But much of their saving is done by their body's shape and coat, all the time.  
 *Evidence:* The flat towel was dry within an hour or two. The rolled towel was still wet inside, and the covered towel was wet nearly all over. The same water, the same towel and the same fan: only the shape and covering changed.
 
 - *who am i:* Your body is adapted too. You sweat to cool down, and you curl up under a blanket to keep warm.
-- *what is life:* Every living thing carries features that suit the place its parents and grandparents lived, going back many generations.
+- *what is life:* Every living thing carries features that suit the place their parents and grandparents lived, going back many generations.
 - *what is this world:* The Earth has burning sand, ice, deep water and dark caves, and living things live in all of them.
 
 All living things on Earth share one family tree, going back to the first living cells. From that one beginning came the camel, the snow leopard, the cave fish and the cactus. Each place on Earth set its own problem: keep water, keep warm, move in water, find food in the dark. Life found a different shape for each. A dolphin's flipper, a bat's wing and your hand even have the same bones inside, shaped in different ways.
 
-- **Tirukkural 595:** The stalk of a water flower grows as long as the water is deep. In the same way, a person rises as high as their spirit. (Thiruvalluvar used a real fact about water plants: a lily's stalk really does grow longer in deeper water, so the flower reaches the surface. A living thing's body follows the needs of its place.)
+- **Tirukkural 595:** The stalk of a water flower grows as long as the water is deep. In the same way, a person rises as high as their spirit. (Thiruvalluvar used a real fact about water plants: a lily's stalk really does grow longer in deeper water, so the flower reaches the surface. A living thing's body follows the needs of their place.)
 - **Tao Te Ching 76:** Living plants are soft and full of sap. When they die, they become dry and brittle. (In the jelly coat test, the plain leaf lost its water and went limp. Keeping water inside is part of staying alive, and desert plants are shaped to do it.)
 - Science (settled): All living things share a common ancestry. The same bones are found in a dolphin's flipper, a bat's wing and a human hand.
 - Science (settled): Unrelated living things in similar places often end up with similar shapes. Scientists call this convergent evolution.
 - Other view, Many biologists: No one planned a camel or a cactus. Over many generations, the ones that happened to have features suited to the place survived and had more young. The fit between a body and its place is the result of who survived, not of anyone's purpose.
 - Practice, Curl up, stretch out (3 min): Let's lie on the floor. First, curl up into a tight ball, knees to your chest, arms round them. Stay still and breathe slowly five times. Notice the warmth between your arms and your tummy. Now stretch out wide, like a starfish, arms and legs spread. Breathe five times. Notice the air touching more of your skin. Which felt warmer? Your body did that by changing shape, without making any new heat.
-- Ask: A cactus saves water every minute just by its shape. Is a body's shape a kind of knowing how to live?
+- Ask: A cactus saves water every minute just by their shape. Is a body's shape a kind of knowing how to live?
 - Ask: The camel's way of saving water took many generations to build up. Is a camel calf born already knowing the desert?
-- Ask: A cave fish meets its world by touch and taste, and you meet yours mostly by sight. Which of you knows the cave better?
+- Ask: A cave fish meets their world by touch and taste, and you meet yours mostly by sight. Which of you knows the cave better?
 
 ## Deep and big questions
 - *deep:* Your flat towel and your rolled towel held the same water. Why did one dry so much faster? (hint: Where does the water leave from? How much of each towel touched the air?)
-- *deep:* Ice cubes in a huddle melted more slowly than ice cubes spread apart. Does a huddle of penguins lose its warmth more slowly for the same reason? (hint: Think about which parts of each cube or penguin touch the outside.)
-- *deep:* A cave fish has no eyes, but it finds food in the dark. Is it missing something, or does it have something we lack? (hint: Think about what its taste buds and lateral line can do.)
-- *deep:* A camel calf is born already able to save water. Who or what 'designed' it? (hint: Think about its parents, and their parents, going back many generations in the desert.)
+- *deep:* Ice cubes in a huddle melted more slowly than ice cubes spread apart. Does a huddle of penguins lose their warmth more slowly for the same reason? (hint: Think about which parts of each cube or penguin touch the outside.)
+- *deep:* A cave fish has no eyes, but they find food in the dark. Are they missing something, or do they have something we lack? (hint: Think about what their taste buds and lateral line can do.)
+- *deep:* A camel calf is born already able to save water. Who or what 'designed' them? (hint: Think about their parents, and their parents, going back many generations in the desert.)
 - *big:* If you could have one adaptation from another animal, which would you choose, and what problem of yours would it solve? (hint: Start with the problem: heat, cold, water or darkness?)
-- *big:* A bat hears its world, a fish feels its world through the water, and you see yours. Is it the same world for all three? (hint: Each of them meets the same pond or cave through a different sense.)
-- *big:* People go to Ladakh in woollen clothes, while a yak grows its own coat. Is a coat you make yourself different from a coat you grow? (hint: One is passed on by teaching, the other by being born.)
+- *big:* A bat hears their world, a fish feels their world through the water, and you see yours. Is it the same world for all three? (hint: Each of them meets the same pond or cave through a different sense.)
+- *big:* People go to Ladakh in woollen clothes, while a yak grows their own coat. Is a coat you make yourself different from a coat you grow? (hint: One is passed on by teaching, the other by being born.)
 - *big:* No living thing is best everywhere. Is that true of people too? (hint: Think of someone who is good at something you are not.)
 
 ## Story: Twenty Pots and One Bucket
@@ -191,7 +191,7 @@ All living things on Earth share one family tree, going back to the first living
 
 In the summer of 2019, the lakes that gave Chennai its water almost dried up. Water came to Kavya's building in a blue lorry, three mornings a week. Every bucket was counted.
 
-Kavya was nine. She lived on the fourth floor in Mylapore with her Paati, her grandmother. On the terrace above them, Paati kept twenty pots. There was tulsi, jasmine, curry leaf, a red hibiscus and two chilli plants. In the far corner stood one fat, spiny plant that nobody ever watered on purpose. Paati called it kalli.
+Kavya was nine. She lived on the fourth floor in Mylapore with her Paati, her grandmother. On the terrace above them, Paati kept twenty pots. There was tulsi, jasmine, curry leaf, a red hibiscus and two chilli plants. In the far corner stood one fat, spiny plant that nobody ever watered on purpose. Paati called this plant kalli.
 
 Then Paati's sister in Madurai fell ill, and Paati had to go to her for a week. Before she left, she put one steel bucket on the terrace.
 
@@ -201,9 +201,9 @@ Then Paati's sister in Madurai fell ill, and Paati had to go to her for a week. 
 
 'Then use your head,' said Paati, and she squeezed Kavya's hand and went down the stairs with her bag.
 
-The next morning, Kavya gave every pot the same mug of water. By eleven o'clock the sun was a white blaze over the water tank. When she went up at noon, the tulsi was drooping. Its leaves hung down like wet cloth. The jasmine leaves had curled at the edges. The soil in the pots by the parapet was already pale and dry on top.
+The next morning, Kavya gave every pot the same mug of water. By eleven o'clock the sun was a white blaze over the water tank. When she went up at noon, the tulsi was drooping. Their leaves hung down like wet cloth. The jasmine leaves had curled at the edges. The soil in the pots by the parapet was already pale and dry on top.
 
-Only the kalli looked exactly the same as it had at breakfast.
+Only the kalli looked exactly the same as at breakfast.
 
 Kavya sat in the strip of shade by the water tank and phoned her Thatha. He grew paddy near Thanjavur, and he knew everything about dry weather.
 
@@ -213,7 +213,7 @@ Kavya sat in the strip of shade by the water tank and phoned her Thatha. He grew
 
 'To hide from the sun,' he said. 'A flat leaf in the sun dries out. A rolled leaf keeps its water.' Then he had to go, because a cow was in the wrong field.
 
-Kavya went to look at the kalli. She had never really looked at it before. It had no flat leaves at all. Its stems were thick, round and green, like a bundle of fat green pencils. She pressed one with her fingernail. It was hard and smooth, as if someone had polished it. Then she touched a tulsi leaf. It was thin and soft, and wide for how thin it was.
+Kavya went to look at the kalli. She had never really looked at this plant before. The kalli had no flat leaves at all. Their stems were thick, round and green, like a bundle of fat green pencils. She pressed one with her fingernail. It was hard and smooth, as if someone had polished it. Then she touched a tulsi leaf. It was thin and soft, and wide for how thin it was.
 
 She thought about the washing on their balcony downstairs. A shirt pegged out flat was dry by lunch. A shirt left bundled in the bucket was still damp at night. The bundled shirt had the same water in it. It just had less of itself out in the air.
 
@@ -229,7 +229,7 @@ It took her the whole afternoon. She was sunburnt and sweaty and her arms ached.
 
 The next day was even hotter. At noon, Kavya went up the stairs two at a time. The crowd of pots was green. The tulsi was upright. She pushed a finger under the leaf blanket in one pot. The soil underneath was dark and cool and damp.
 
-Only one pot looked unhappy. It was a small chilli plant she had forgotten, left alone by the parapet in the full sun. Its leaves hung limp. Kavya carried it into the crowd and gave it half a mug from the bucket.
+Only one pot looked unhappy. It was a small chilli plant she had forgotten, left alone by the parapet in the full sun. Their leaves hung limp. Kavya carried the pot into the crowd and gave the little plant half a mug from the bucket.
 
 The bucket lasted two whole days. So did the next one.
 
@@ -245,11 +245,11 @@ She looked over at the corner, where the kalli still stood alone in the full sun
 
 'And that one?' she asked.
 
-'That one never needed help,' said Kavya. 'It has no thin leaves to lose water from. It keeps all its water inside a fat, waxy stem.'
+'That one never needed help,' said Kavya. 'They have no thin leaves to lose water from. They keep all their water inside a fat, waxy stem.'
 
 That night, Kavya wrote in her notebook in big letters. Water leaves through the outside. Less outside, less water lost. Then, underneath, smaller: Ask Thatha how the paddy knows when to roll up.
 
-**For the parent:** For the parent: water escapes from a plant through its surface, where it touches the hot, dry air. Kavya could not give the plants more water, so she cut the surface they lost water from. Pots crowded together shade each other and hide from the hot wind, the way huddled penguins or ice cubes hide most of their outsides. The dry leaves on the soil work like a waxy coat, slowing the water escaping from the soil. Rolled paddy leaves and the fat, waxy stem of the kalli, a euphorbia, are the plants' own ways of having less outside for the water they hold.
+**For the parent:** For the parent: water escapes from a plant through the plant's surface, where it touches the hot, dry air. Kavya could not give the plants more water, so she cut the surface they lost water from. Pots crowded together shade each other and hide from the hot wind, the way huddled penguins or ice cubes hide most of their outsides. The dry leaves on the soil work like a waxy coat, slowing the water escaping from the soil. Rolled paddy leaves and the fat, waxy stem of the kalli, a euphorbia, are the plants' own ways of having less outside for the water they hold.
 
 - Ask: Why did the tulsi droop by noon, while the kalli did not?
 - Ask: What did Thatha tell Kavya about the paddy leaves? Why do they roll up?
@@ -276,14 +276,14 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   *Parent does:* Take turns turning over place cards and playing feature cards, until all 8 places are played.  
   *Parent says:* Remember: problem first, then how the feature helps.  
   *Child mode:* Turn over a place. Play a card. Say the problem, then how it helps.
-  - Note: Some cards help in more than one place. Thick fur helps in Ladakh, and a camel's fur shades it from the desert sun too. If your child can explain it, give the points.
+  - Note: Some cards help in more than one place. Thick fur helps in Ladakh, and a camel's fur shades them from the desert sun too. If your child can explain it, give the points.
 - **s4 (2 min)**  
   *Parent does:* Add up the points and talk about the hardest place.  
   *Parent says:* Which place was hardest to survive? Which features did you wish you had?  
   *Child mode:* Add up your points. Which place was hardest?
   - Think: Is there one feature that would help in every place?
 ### g2 · Huddle Up! (10 min)
-- **rules:** Everyone is a penguin. Put a soft ball or a rolled sock on top of your feet. That is your egg. Never let it touch the ice, the floor.; One person is the weather and reads a weather card.; On a wind card, the penguins on that side shuffle round to the sheltered side of the huddle, without dropping their eggs.; A penguin who drops its egg becomes the weather.; Play until every card has been read twice.
+- **rules:** Everyone is a penguin. Put a soft ball or a rolled sock on top of your feet. That is your egg. Never let it touch the ice, the floor.; One person is the weather and reads a weather card.; On a wind card, the penguins on that side shuffle round to the sheltered side of the huddle, without dropping their eggs.; A penguin who drops their egg becomes the weather.; Play until every card has been read twice.
 - **Printable cards: 6 weather cards:** Calm, cold night: stand still in the huddle; Strong wind from the left: the left side shuffles to the back; Strong wind from the right: the right side shuffles to the back; Blizzard: squeeze in tight and count to 10; Sunny morning: spread out and stretch; Egg check: everyone checks the egg on their feet
 - **s1 (2 min)**  
   *Parent does:* Everyone stands in a tight group with a rolled sock on their feet.  
@@ -425,9 +425,9 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   - Note: Move the spoon about 5 centimetres from the hand first, then about 15, then about 30. Wait a few seconds between tries, and sometimes wait without moving the spoon, so your child cannot just guess. Most children feel the push of the water at 5 centimetres, and some can tell which side it came from.
 - **s3 (3 min)**  
   *Parent does:* Take off the blindfold and talk about what happened.  
-  *Parent says:* A cave fish has no eyes. How do you think it swims round rocks and finds food in the dark?  
-  *Child mode:* A cave fish has no eyes. How does it find food in the dark?
-  - Check: How does a blind cave fish find its way in the dark? → **It has a row of sensors along its sides that feel the water moving**
+  *Parent says:* A cave fish has no eyes. How do you think they swim round rocks and finds food in the dark?  
+  *Child mode:* A cave fish has no eyes. How do they find food in the dark?
+  - Check: How does a blind cave fish find their way in the dark? → **They have a row of sensors along their sides that feel the water moving**
 ### a2 · Whisker Walk: find your way without your eyes (10 min)
 - **safety:** Clear the floor of anything sharp or breakable. A grown-up walks right beside the child the whole time.
 - **record:** Write which way was easier, and why.
@@ -442,9 +442,9 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   - Note: Keep a hand near your child's shoulder. Stop them before they reach a wall or a door.
 - **s3 (3 min)**  
   *Parent does:* Take off the blindfold and talk about it.  
-  *Parent says:* Which way was easier? Why do you think a cat's whiskers are about as wide as its body?  
+  *Parent says:* Which way was easier? Why do you think a cat's whiskers are about as wide as their body?  
   *Child mode:* Which way was easier? Why do cats have long whiskers?
-  - Ask: Why are a cat's whiskers about as wide as its body? (good: So it can tell if a gap is wide enough to get through.; So it feels things before it bumps into them.)
+  - Ask: Why are a cat's whiskers about as wide as their body? (good: So they can tell if a gap is wide enough to get through.; So they feel things before they bump into them.)
   - Note: Blind people who use a long white cane find their way in a similar way. The cane touches things well ahead of the feet.
 ### a3 · The Webbed Hand: paddle like a duck (10 min)
 - **safety:** Plastic bags go only on hands, never near the face or head. A grown-up puts the bag away afterwards.
@@ -460,7 +460,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   - Check: Why is it harder to sweep the bag-covered hand through the water? → **The bag fills the gaps between the fingers, so the hand pushes more water**
 - **s3 (3 min)**  
   *Parent does:* Ask your child to sweep the bagged hand forward with the fingers closed together, then back with them spread.  
-  *Parent says:* A duck folds its toes together when its foot comes forward, and spreads them to push back. Can you feel why?  
+  *Parent says:* A duck folds their toes together when their foot comes forward, and spreads them to push back. Can you feel why?  
   *Child mode:* Fingers together, move your hand forward. Fingers spread, push back. Which is easier?
   - Think: Why would it be bad for a duck to push water forward as hard as backward?
 ### a4 · Shining Eyes: why a cat's eyes glow in the dark (15 min)
@@ -483,7 +483,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   *Child mode:* Look out for shining eyes at night, from a safe place. Do people's eyes shine?
   - Note: People's eyes do not have this shiny layer. The red eyes in some flash photos come from light bouncing off the blood-rich back of the eye, which is different.
 ### a5 · Leaf Coats in the Kitchen (10 min)
-- **safety:** Wash your hands after touching aloe vera, and keep its jelly away from your eyes.
+- **safety:** Wash your hands after touching aloe vera, and keep the jelly away from your eyes.
 - **record:** Make a table: leaf, thick or thin, do drops bead up or spread out?
 - **s1 (5 min)**  
   *Parent does:* 1. Lay the leaves on a plate. 2. Ask your child to drip a few drops of water onto each one. 3. Watch whether the drops sit up as beads or spread out flat.  
@@ -493,7 +493,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   *Parent does:* 1. Ask your child to rub each leaf gently between finger and thumb. 2. Sort the leaves into thick and waxy, and thin and soft.  
   *Parent says:* Which leaves feel smooth and waxy? Which are thin and soft? Which do you think would last longest in the desert?  
   *Child mode:* Rub each leaf gently. Smooth and waxy, or thin and soft? Which would last in a desert?
-  - Ask: Which leaf would last longest in the desert, and why? (good: The aloe, because it is thick and stores water.; The cabbage, because its drops beaded up, so it has a waxy coat.)
+  - Ask: Which leaf would last longest in the desert, and why? (good: The aloe, because the leaves are thick and store water.; The cabbage, because its drops beaded up, so it has a waxy coat.)
   - Note: Cabbage leaves show the waxy coat best: drops roll into shiny beads. Coriander and spinach leaves are thin and wilt quickly. Aloe vera is thick, juicy and waxy, a real succulent from dry places.
 ### a6 · Design an Animal for a Place (20 min)
 - **safety:** None.
@@ -506,7 +506,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   *Parent does:* 1. Ask your child to write down three problems of that place. 2. Then draw an animal or plant with one feature for each problem. 3. Label each feature with its problem.  
   *Parent says:* Start with the problem, then the feature. For the desert: little water, so what could your animal have?  
   *Child mode:* Write three problems of your place. Draw a creature with a feature for each. Label them.
-  - Note: Good drawings name the problem first: 'It is very cold, so it has thick fur and a short tail.' Any made-up feature is fine if your child can say how it helps. Ask what it would cost: thick fur would be too hot in summer.
+  - Note: Good drawings name the problem first: 'It is very cold, so they have thick fur and a short tail.' Any made-up feature is fine if your child can say how it helps. Ask what it would cost: thick fur would be too hot in summer.
 - **s3 (3 min)**  
   *Parent does:* Ask your child to show the drawing and explain one feature.  
   *Parent says:* Tell me about one feature. What problem does it solve? Is there a real animal with something like it?  
@@ -515,21 +515,21 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 ## Projects
 ### p1 · My Adaptation Notebook: ten living things near home (60 min, 3 days)
 - **safety:** Watch birds and animals from a window or balcony, and never touch or feed street animals without a grown-up.
-- **record:** One page for each living thing: its name, a drawing, its problem, its feature, and how the feature helps.
+- **record:** One page for each living thing: their name, a drawing, their problem, their feature, and how the feature helps.
 - **schedule:** day 1: From a window or balcony, find four living things, such as a crow, a pigeon, a potted plant and ants. Write one feature of each and the problem it solves. (20 min); day 2: In the kitchen or at the shop, find three more, such as a fish, a lotus stem or a cabbage. Write one feature of each. (20 min); day 3: Add three living things from books or this unit, from hot, cold, water and dark places. Make a page for each and share your notebook. (20 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Sit at a window or on a balcony for 10 minutes. 2. Ask your child to find four living things. 3. For each, write one feature and the problem it solves.  
   *Parent says:* Every living thing near us is adapted too. A crow has a strong beak. What problem does that solve? Let's start with the problem.  
   *Child mode:* Look out of the window for 10 minutes. Find four living things. For each one, write a problem and a feature.
-  - Note: Good examples: a crow's strong beak opens many kinds of food, so it can live on what people throw away. A pigeon puffs its feathers on cold mornings. Ants follow scent trails to food. A potted plant leans towards the window, towards the light.
+  - Note: Good examples: a crow's strong beak opens many kinds of food, so they can live on what people throw away. A pigeon puffs their feathers on cold mornings. Ants follow scent trails to food. A potted plant leans towards the window, towards the light.
 - **s2 (20 min)**  
   *Parent does:* 1. In the kitchen or at the shop, find three more living things, or parts of them. 2. Look closely at one feature of each.  
   *Parent says:* A fish has gills and fins. A lotus stem is full of holes. What problems do they solve?  
   *Child mode:* Find three more in the kitchen or the shop. A fish? A lotus stem? Write a problem and a feature for each.
-  - Note: If you buy a whole fish, look at its gills under the gill cover, and its streamlined shape. A cut lotus stem shows its air channels. A cabbage leaf shows its waxy coat with a drop of water.
+  - Note: If you buy a whole fish, look at their gills under the gill cover, and their streamlined shape. A cut lotus stem shows its air channels. A cabbage leaf shows its waxy coat with a drop of water.
 - **s3 (20 min)**  
   *Parent does:* 1. Choose three more living things from this unit, from hot, cold, wet or dark places. 2. Make a page for each. 3. Share the whole notebook with someone at home.  
-  *Parent says:* Now let's add three from far away. Can you explain each one, starting with its problem?  
+  *Parent says:* Now let's add three from far away. Can you explain each one, starting with their problem?  
   *Child mode:* Add three more from this unit. Hot, cold, water or dark. Then show your notebook to someone.
   - Check: Which is the best way to explain an adaptation? → **Say the problem, then how the feature helps: 'The desert has little water, so a camel's body loses very little.'**
 
@@ -559,7 +559,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   *Child mode:* Look at the usual ideas and the creative ones. Now invent your own.
   - Think: Rice leaves roll up only at midday and open again in the evening. Why is that better than staying rolled all the time?
 ### c2 · Float Like a Water Hyacinth (30 min)
-- **problem:** A water hyacinth floats because its leaf stalks are full of air. Build a floating raft, from home materials, that holds up 10 coins without sinking.
+- **problem:** A water hyacinth floats because their leaf stalks are full of air. Build a floating raft, from home materials, that holds up 10 coins without sinking.
 - **your turn:** Now design your own floating plant. Draw it, build it, and test it with 10 coins. How many more coins can it hold?
 - **constraints:** Use only drinking straws, aluminium foil, tape and a bottle cap.; It must float in a bucket for 2 minutes with 10 one-rupee coins on it.; No plastic bottles or boxes, which are too easy.
 - **general:** Tape straws side by side into a raft, with their ends sealed with tape so air stays inside.; Fold foil into a shallow boat with high sides.; Tape a bottle cap upside down under a foil sheet, to trap a pocket of air.
@@ -583,28 +583,28 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 ### Who Lives Where? (core) (core, 15 questions)
 1. (mcq) Which animal is best suited to the hot, dry Thar Desert?  
    Options: A fish / A camel / A penguin / A duck  
-   **Answer:** A camel. *Why:* A camel's body saves water and copes with heat, so it can live in a desert.
+   **Answer:** A camel. *Why:* A camel's body saves water and copes with heat, so they can live in a desert.
 2. (mcq) Which animal is best suited to icy Ladakh?  
    Options: A snow leopard / A frog / A camel / A mudskipper  
-   **Answer:** A snow leopard. *Why:* A snow leopard has thick fur, a long thick tail and small ears, which keep it warm in the snow.
+   **Answer:** A snow leopard. *Why:* A snow leopard has thick fur, a long thick tail and small ears, which keep them warm in the snow.
 3. (truefalse) A camel's hump is full of water.  
    **Answer:** False. *Why:* False. The hump is mostly fat. A camel saves water by losing very little.
 4. (truefalse) A wet towel that is rolled up dries more slowly than one spread flat.  
    **Answer:** True. *Why:* True. Rolling hides most of its surface from the air, so its water escapes more slowly.
 5. (truefalse) Bats are blind.  
    **Answer:** False. *Why:* False. All bats can see. Many small bats also use echolocation to hunt in the dark.
-6. (fill) A feature that helps a living thing live in its habitat is called an ____.  
+6. (fill) A feature that helps a living thing live in their habitat is called an ____.  
    **Answer:** ['adaptation']. *Why:* An adaptation can be part of the body or a way of behaving.
 7. (fill) Animals that are awake at night and rest by day are called ____.  
    **Answer:** ['nocturnal']. *Why:* Owls, bats and the slender loris are nocturnal.
 8. (fill) Water turning into an invisible gas and going into the air is called ____.  
    **Answer:** ['evaporating', 'evaporation']. *Why:* Wet towels dry because their water evaporates.
-9. (match) Match each animal or plant to its adaptation.  
+9. (match) Match each animal or plant to their adaptation.  
    **Answer:** Cactus → fat stem with a waxy coat; Duck → webbed feet and oily feathers; Snow leopard → thick fur and a long tail; Owl → huge eyes for seeing at night. *Why:* Each feature solves a problem of that living thing's habitat.
 10. (sort) Sort these features. Do they help with heat or with cold?  
    **Answer:** big ears → Helps in heat; thick fur → Helps in cold; hiding in a burrow at noon → Helps in heat; blubber → Helps in cold; small ears → Helps in cold; huddling → Helps in cold. *Why:* Big ears, burrows and a waxy coat help with heat and dryness. Fur, blubber, small ears and huddling help keep warmth in.
 11. (mcq) Why does a cactus have spines instead of flat leaves?  
-   Options: Flat leaves would lose too much water in the dry air / Spines make it grow faster / Spines help it swim  
+   Options: Flat leaves would lose too much water in the dry air / Spines make them grow faster / Spines help them swim  
    **Answer:** Flat leaves would lose too much water in the dry air. *Why:* Flat leaves have a big surface, and water escapes through it. Spines lose very little water, and also protect the cactus from thirsty animals.
 12. (mcq) Why do emperor penguins huddle together?  
    Options: To play / So that less of each body faces the icy wind, and they keep warm / To hide their food  
@@ -612,7 +612,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 13. (mcq) Which helps a fish swim fast?  
    Options: A streamlined body and fins / Thick fur / A waxy coat  
    **Answer:** A streamlined body and fins. *Why:* A streamlined body lets water slide past easily, and fins push and steer.
-14. (draw) Draw a duck's foot under water. Show the skin between its toes.  
+14. (draw) Draw a duck's foot under water. Show the skin between their toes.  
    **Answer:** A foot with three front toes joined by skin, spread out like a paddle.. *Why:* The skin between the toes pushes water like a paddle, so the duck moves forward.
 15. (write) Kavya puts all her plants close together in the shade on a hot day. Why does this help them keep their water?  
    **Answer:** The pots shade each other and hide from the hot wind, so less water evaporates from their leaves and soil.. *Why:* Crowding together means less of each plant faces the sun and hot air, like penguins huddling against the cold.
@@ -625,9 +625,9 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 3. (mcq) Ravi, a boy in Class 3, coats one spinach leaf with petroleum jelly and leaves another plain. After 4 hours the plain leaf is floppy. What does this show?  
    Options: Petroleum jelly is plant food / A coat on the surface slows down the water escaping from a leaf / Spinach does not need water  
    **Answer:** A coat on the surface slows down the water escaping from a leaf. *Why:* The jelly covered the leaf's surface and its tiny holes, so the coated leaf kept its water and stayed firm. Desert plants have a thick waxy coat that does the same.
-4. (mcq) A camel's body warms up by about 6 degrees on a hot day, and cools down at night. How does this help it?  
-   Options: It saves the water it would use up sweating to stay cool / It helps it run faster / It keeps it awake  
-   **Answer:** It saves the water it would use up sweating to stay cool. *Why:* Sweating cools a body but uses up water. By letting itself warm up, the camel sweats much less, and the night air cools it down again for free.
+4. (mcq) A camel's body warms up by about 6 degrees on a hot day, and cools down at night. How does this help them?  
+   Options: They save the water they would use up sweating to stay cool / It helps them run faster / It keeps them awake  
+   **Answer:** They save the water they would use up sweating to stay cool. *Why:* Sweating cools a body but uses up water. By letting their body warm up, the camel sweats much less, and the night air cools them down again for free.
 5. (mcq) An Arctic fox has small ears. A fennec fox in the desert has huge ears. Why the difference?  
    Options: Small ears lose less heat in the cold, and big ears get rid of heat in the desert / The desert fox needs to hear better / Arctic foxes are younger  
    **Answer:** Small ears lose less heat in the cold, and big ears get rid of heat in the desert. *Why:* Heat escapes from the blood through the thin skin of the ears. In the cold, small ears keep warmth in. In the heat, big ears help the fox cool down.
@@ -635,11 +635,11 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
    Options: Because they grow in salty sea water, and too much salt would harm them / To make the leaves taste good / To attract birds  
    **Answer:** Because they grow in salty sea water, and too much salt would harm them. *Why:* Mangroves grow where the sea comes in every day. Some keep salt out at their roots, and others, like the grey mangrove, push the extra salt out through their leaves.
 7. (mcq) The slender loris of South India has huge eyes. Why?  
-   Options: It is awake at night, and big eyes collect more light / It eats very big food / It lives under water  
-   **Answer:** It is awake at night, and big eyes collect more light. *Why:* The slender loris is nocturnal. Big eyes let in as much light as possible, so it can see insects in the dark.
-8. (mcq) A cave fish has no eyes, but it has many more taste buds than a river fish. How do the extra taste buds help it?  
-   Options: They help it find food in the dark by taste / They help it see / They keep it warm  
-   **Answer:** They help it find food in the dark by taste. *Why:* In total darkness, eyes cannot find food, but taste and touch can. Many cave fish have more taste buds and a bigger lateral line.
+   Options: They are awake at night, and big eyes collect more light / They eat very big food / They live under water  
+   **Answer:** They are awake at night, and big eyes collect more light. *Why:* The slender loris is nocturnal. Big eyes let in as much light as possible, so they can see insects in the dark.
+8. (mcq) A cave fish has no eyes, but they have many more taste buds than a river fish. How do the extra taste buds help them?  
+   Options: They help them find food in the dark by taste / They help them see / They keep them warm  
+   **Answer:** They help them find food in the dark by taste. *Why:* In total darkness, eyes cannot find food, but taste and touch can. Many cave fish have more taste buds and a bigger lateral line.
 9. (truefalse) Changes your body makes in your own life, like sweating sooner after two weeks of hot weather, are passed on to your children.  
    **Answer:** False. *Why:* False. That is acclimatising, and it is not passed on. Adaptations of the body are passed on from parents to young.
 10. (truefalse) A lotus stem has holes inside it that carry air down to the parts under the mud.  
@@ -650,10 +650,10 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
    **Answer:** ['echolocation']. *Why:* Small bats and dolphins use echolocation.
 13. (sort) Sort these living things by the main problem their adaptation solves.  
    **Answer:** aloe vera's thick leaves → Saving water; a yak's long shaggy hair → Keeping warm; an owl's huge eyes → Living in the dark; a seal's blubber → Keeping warm; a cactus's waxy coat → Saving water; a bat's echolocation → Living in the dark. *Why:* Each feature answers one problem: water, cold or darkness.
-14. (write) Choose one animal from this unit. Write its problem first, then its feature, then how the feature helps.  
-   **Answer:** For example: Ladakh is freezing. The snow leopard has thick fur. The fur traps still air, which slows down heat escaping from its body.. *Why:* A full answer has all three parts: problem, feature and how it helps.
+14. (write) Choose one animal from this unit. Write their problem first, then their feature, then how the feature helps.  
+   **Answer:** For example: Ladakh is freezing. The snow leopard has thick fur. The fur traps still air, which slows down heat escaping from their body.. *Why:* A full answer has all three parts: problem, feature and how it helps.
 15. (draw) Draw a fat cactus and a big thin leaf. Draw arrows to show where water escapes from each. Which has more arrows?  
-   **Answer:** The thin leaf has arrows all over its big surface. The cactus has fewer arrows for its size.. *Why:* Water escapes through the surface. The leaf has a lot of surface for the water it holds, the cactus has little.
+   **Answer:** The thin leaf has arrows all over its big surface. The cactus has fewer arrows for their size.. *Why:* Water escapes through the surface. The leaf has a lot of surface for the water it holds, the cactus has little.
 ### Shapes, Costs and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) Six ice cubes are spread out on a plate. How many faces of each cube touch the warm air? Remember that one face sits on the plate.  
    Options: 6 / 5 / 4  
@@ -662,47 +662,47 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
    Options: 16 / 30 / 6  
    **Answer:** 16. *Why:* There are 6 top faces. Around the edge, the long sides show 3 faces each and the short sides show 2 each: 3 + 3 + 2 + 2 = 10. 6 + 10 = 16. Spread out, they showed 30. So the huddle showed only about half as many faces to the air.
 3. (mcq) A yak would struggle in the plains of Tamil Nadu in summer. Why?  
-   Options: Its thick coat holds in so much heat that it would overheat / There is no grass in Tamil Nadu / Yaks are afraid of people  
-   **Answer:** Its thick coat holds in so much heat that it would overheat. *Why:* An adaptation that helps in one place can be a problem in another. The coat that keeps a yak warm in Ladakh would make it dangerously hot in a Tamil Nadu summer.
+   Options: Their thick coat holds in so much heat that they would overheat / There is no grass in Tamil Nadu / Yaks are afraid of people  
+   **Answer:** Their thick coat holds in so much heat that they would overheat. *Why:* An adaptation that helps in one place can be a problem in another. The coat that keeps a yak warm in Ladakh would make them dangerously hot in a Tamil Nadu summer.
 4. (mcq) A shark is a fish and a dolphin is a mammal. Why do they have such similar shapes?  
    Options: They are close cousins / Both must swim fast in water, and that problem led to the same shape / Dolphins copied sharks  
    **Answer:** Both must swim fast in water, and that problem led to the same shape. *Why:* Unrelated living things in similar places often end up with similar shapes. Scientists call this convergent evolution.
 5. (mcq) Lamarck said a giraffe's neck grew longer because giraffes stretched. August Weismann cut the tails off mice, generation after generation. What did the baby mice show?  
    Options: They were born with shorter tails / They were always born with full tails, so a change made to a parent's body was not passed on / They were born with no tails  
    **Answer:** They were always born with full tails, so a change made to a parent's body was not passed on. *Why:* Every baby mouse had a full tail. A change to the parents' bodies in their own lives was not passed on. That was one test against Lamarck's idea.
-6. (mcq) A wood frog freezes solid in winter and thaws in spring. What protects its cells from breaking?  
-   Options: Sugar that floods its body before it freezes / Thick fur / Hot water  
-   **Answer:** Sugar that floods its body before it freezes. *Why:* Before it freezes, the frog's liver floods its body with sugar, which keeps the inside of its cells from freezing.
+6. (mcq) A wood frog freezes solid in winter and thaws in spring. What protects their cells from breaking?  
+   Options: Sugar that floods their body before they freeze / Thick fur / Hot water  
+   **Answer:** Sugar that floods their body before they freeze. *Why:* Before they freeze, the frog's liver floods their body with sugar, which keeps the inside of their cells from freezing.
 7. (mcq) Which living thing's adaptation is a way of behaving, not a part of the body?  
-   Options: A desert lizard hiding in its burrow at noon / A cactus's spines / A duck's webbed feet  
-   **Answer:** A desert lizard hiding in its burrow at noon. *Why:* Hiding at noon is something the lizard does. Spines and webbed feet are parts of the body.
+   Options: A desert lizard hiding in their burrow at noon / A cactus's spines / A duck's webbed feet  
+   **Answer:** A desert lizard hiding in their burrow at noon. *Why:* Hiding at noon is something the lizard does. Spines and webbed feet are parts of the body.
 8. (mcq) Why might a cactus grow slowly?  
-   Options: Opening its tiny leaf holes only at night lets in less air for making food / It has too much water / It is always cold  
-   **Answer:** Opening its tiny leaf holes only at night lets in less air for making food. *Why:* Saving water has a cost. With its stomata closed by day, a cactus takes in less air, and it needs air to make food.
+   Options: Opening their tiny leaf holes only at night lets in less air for making food / They have too much water / They are always cold  
+   **Answer:** Opening their tiny leaf holes only at night lets in less air for making food. *Why:* Saving water has a cost. With their stomata closed by day, a cactus takes in less air, and they need air to make food.
 9. (truefalse) A plant that is completely covered in plastic would save water, but could not take in the air it needs to make food.  
    **Answer:** True. *Why:* True. Leaves need air coming in through their tiny holes to make food. A real leaf must balance saving water with letting air in.
-10. (truefalse) A polar bear's hairs carry sunlight down to its skin like glass tubes.  
+10. (truefalse) A polar bear's hairs carry sunlight down to their skin like glass tubes.  
    **Answer:** False. *Why:* False. In 1998, Daniel Koon tested this, and the hairs hardly carried light at all. The fur keeps the bear warm mostly by trapping still air.
 11. (fill) Unrelated living things ending up with similar shapes because they live in similar places is called ____ evolution.  
    **Answer:** ['convergent']. *Why:* Cactuses and euphorbias, and sharks and dolphins, are examples.
 12. (write) Bergmann said animals of the same kind are bigger in colder places. Many animals do not follow this rule. Write one reason a scientist might give for why a big body could help in the cold, and one reason the rule might not always hold.  
    **Answer:** A big body has less outside for its size, so it loses heat more slowly. But food, enemies and other things also change how big an animal grows.. *Why:* A good answer gives a reason for the rule and a reason it might fail. Scientists still argue about it.
 13. (write) Your rolled towel stayed wet inside. Explain, in your own words, what this tells you about why a cactus is fat and round.  
-   **Answer:** Water escapes only from the outside, where the air touches it. A fat, round cactus has little outside for all the water inside it, so it keeps its water, like the inside of the roll.. *Why:* A full answer links the towel's hidden inside to the cactus's small surface.
-14. (write) A bat hears its world, a cave fish feels its world through the water, and you see yours. Do you think they live in the same world? Give a reason.  
+   **Answer:** Water escapes only from the outside, where the air touches it. A fat, round cactus has little outside for all the water inside them, so they keep their water, like the inside of the roll.. *Why:* A full answer links the towel's hidden inside to the cactus's small surface.
+14. (write) A bat hears their world, a cave fish feels their world through the water, and you see yours. Do you think they live in the same world? Give a reason.  
    **Answer:** Any thoughtful answer. For example: It is the same cave, but each animal meets it through a different sense, so each knows a different side of it.. *Why:* There is no single right answer. A good answer gives a reason.
 15. (draw) Design a plant for the Thar Desert. Label three features and the problem each one solves.  
    **Answer:** For example: a fat stem to store water, a waxy coat to stop water escaping, and very deep roots to reach water underground.. *Why:* Each feature should answer a real problem of the desert: little water, hot sun or dry air.
 
 ## Videos
-- **How camels survive the desert** (to find, 5 min) id `to find`: To see a camel resting, drinking and walking on soft sand, and to hear how it saves water. *Check:* No video id was checked from here. A parent should find a short documentary clip about camels and water, and make sure it says the hump is fat, not water.
+- **How camels survive the desert** (to find, 5 min) id `to find`: To see a camel resting, drinking and walking on soft sand, and to hear how they save water. *Check:* No video id was checked from here. A parent should find a short documentary clip about camels and water, and make sure it says the hump is fat, not water.
 - **Emperor penguins huddling through the Antarctic winter** (to find, 4 min) id `to find`: To watch a real huddle move and shuffle, after doing the huddle test with ice cubes. *Check:* No video id was checked from here. Wildlife documentaries such as the BBC's often have short clips of penguin huddles. A parent should preview it.
 - **The blind cave fish of Mexico** (to find, 5 min) id `to find`: To see cave fish with no eyes swimming next to their river cousins, and how they find food. *Check:* No video id was checked from here. A parent should look for a clip about the Mexican cave fish (Astyanax mexicanus) from a museum, university or science channel, and preview it.
 
 ## Quiz
 1. (mcq) What is an adaptation?  
-   Options: Any change in the weather / A feature of body or behaviour that helps a living thing live in its habitat / A kind of habitat / Something a living thing buys  
-   **Answer:** A feature of body or behaviour that helps a living thing live in its habitat. *Why:* An adaptation is a feature, like a camel's padded feet, or a way of behaving, like a lizard hiding at noon, that helps a living thing live and have young in its habitat.
+   Options: Any change in the weather / A feature of body or behaviour that helps a living thing live in their habitat / A kind of habitat / Something a living thing buys  
+   **Answer:** A feature of body or behaviour that helps a living thing live in their habitat. *Why:* An adaptation is a feature, like a camel's padded feet, or a way of behaving, like a lizard hiding at noon, that helps a living thing live and have young in their habitat.
 2. (mcq) Meena moves from Bengaluru to hot Chennai. After two weeks she starts to sweat sooner on hot days. What is this called?  
    Options: An adaptation passed on to her children / Acclimatising: her body getting used to a new place in her own life / Hibernation / Echolocation  
    **Answer:** Acclimatising: her body getting used to a new place in her own life. *Why:* Changes that happen in your own life, as your body gets used to a place, are called acclimatising. They are not passed on to your children. Picking 'an adaptation passed on' mixes up the two.
@@ -710,23 +710,23 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
    Options: The flat one / The rolled one / The covered one / They all dry at the same time  
    **Answer:** The flat one. *Why:* Water escapes only where the towel touches the air. The flat towel has all of its surface open to the air, so its water escapes fastest. Rolling hides most of the surface, and the plastic covers it.
 4. (mcq) Why is a cactus fat and round, with no flat leaves?  
-   Options: So that it looks pretty / So that little of it touches the dry air, and it loses water slowly / So that it can grow fast / So that birds can sit on it  
-   **Answer:** So that little of it touches the dry air, and it loses water slowly. *Why:* A fat, round stem holds a lot of water with little surface. Like the rolled towel, it loses water slowly. Big flat leaves would lose water fast in the desert.
+   Options: So that they look pretty / So that little of their body touches the dry air, and they lose water slowly / So that they can grow fast / So that birds can sit on them  
+   **Answer:** So that little of their body touches the dry air, and they lose water slowly. *Why:* A fat, round stem holds a lot of water with little surface. Like the rolled towel, it loses water slowly. Big flat leaves would lose water fast in the desert.
 5. (mcq) What is inside a camel's hump?  
    Options: Water / Mostly fat / Air / Sand  
-   **Answer:** Mostly fat. *Why:* The hump is mostly fat. A camel saves water by losing very little of it, for example by letting its body warm up during the day instead of sweating. Picking 'water' is a very common idea, but Bodil and Knut Schmidt-Nielsen showed it is wrong.
-6. (mcq) A fennec fox lives in the hot Sahara Desert. It has very big ears. How do big ears help it?  
-   Options: They help it hear the rain / Heat leaves its blood through the thin skin of its ears, which cools it down / They keep sand out / They store water  
-   **Answer:** Heat leaves its blood through the thin skin of its ears, which cools it down. *Why:* Blood flows close to the skin in the big, thin ears, and heat escapes from it into the air. That cools the fox. An Arctic fox, which lives in the cold, has small ears that lose little heat.
-7. (mcq) A snow leopard lives in the snowy mountains of Ladakh. Which of these helps it most to keep warm?  
+   **Answer:** Mostly fat. *Why:* The hump is mostly fat. A camel saves water by losing very little of it, for example by letting their body warm up during the day instead of sweating. Picking 'water' is a very common idea, but Bodil and Knut Schmidt-Nielsen showed it is wrong.
+6. (mcq) A fennec fox lives in the hot Sahara Desert. They have very big ears. How do big ears help them?  
+   Options: They help them hear the rain / Heat leaves their blood through the thin skin of their ears, which cools them down / They keep sand out / They store water  
+   **Answer:** Heat leaves their blood through the thin skin of their ears, which cools them down. *Why:* Blood flows close to the skin in the big, thin ears, and heat escapes from it into the air. That cools the fox. An Arctic fox, which lives in the cold, has small ears that lose little heat.
+7. (mcq) A snow leopard lives in the snowy mountains of Ladakh. Which of these helps them most to keep warm?  
    Options: Big thin ears / Thick fur that traps still air / A waxy coat / Webbed feet  
    **Answer:** Thick fur that traps still air. *Why:* The still air trapped in thick fur slows down heat escaping from the snow leopard's warm body. Big thin ears would let heat escape. A waxy coat saves water in plants. Webbed feet help in water.
 8. (mcq) Kavin, a boy in Class 3, puts 6 ice cubes close together in a block, and 6 more spread apart. Which melt more slowly?  
    Options: The spread-out cubes / The cubes close together / Both melt at the same speed  
    **Answer:** The cubes close together. *Why:* In the block, many sides of each cube touch only other cold ice, so less heat from the warm air gets in. Penguins huddle for the same reason: less of each body faces the icy wind.
-9. (mcq) How does a duck keep its feathers from getting soaked?  
-   Options: It stays out of the water / It spreads oil from a gland near its tail over its feathers / Its feathers are made of plastic / It shakes itself all day  
-   **Answer:** It spreads oil from a gland near its tail over its feathers. *Why:* A duck rubs oil from its preen gland over its feathers with its beak. Water then runs off in drops instead of soaking in.
+9. (mcq) How does a duck keep their feathers from getting soaked?  
+   Options: They stay out of the water / They spread oil from a gland near their tail over their feathers / Their feathers are made of plastic / They shake themselves dry all day  
+   **Answer:** They spread oil from a gland near their tail over their feathers. *Why:* A duck rubs oil from their preen gland over their feathers with their beak. Water then runs off in drops instead of soaking in.
 10. (mcq) Some mangrove trees grow in salty mud on the coast. Why do they have roots that stick up out of the mud?  
    Options: To catch fish / Because the mud under water has very little air, and these roots take in air / To hold salt / To climb out  
    **Answer:** Because the mud under water has very little air, and these roots take in air. *Why:* Wet mud has very little air in it. Roots that poke up out of the mud can take in air, so the tree's roots get what they need.
@@ -746,12 +746,12 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 - Night-vision cameras, used by wildlife scientists and forest guards, collect very faint light, like a night animal's big eyes.
 - Ships and submarines use sonar, which works like echolocation, to find the sea floor and fish.
 - Road reflectors and the shiny strips on school bags reflect headlights back to the driver, like eyeshine.
-- Farmers choose crop varieties suited to dry or wet places, and scientists study rice that rolls its leaves in dry spells.
+- Farmers choose crop varieties suited to dry or wet places, and scientists study rice that rolls their leaves in dry spells.
 - Doctors and scientists study the freezing wood frog to learn how to keep organs for transplant cold without damaging them.
 
 ## Spotted around us
 - A pigeon on a cold winter morning, puffed up into a feather ball.
-- A street dog curled into a tight ball on a cold night, nose tucked under its tail.
+- A street dog curled into a tight ball on a cold night, nose tucked under their tail.
 - Aloe vera and cactus plants in pots on sunny balconies, which need watering far less than other plants.
 - Cats' and dogs' eyes shining in car headlights at night.
 - Fish at the market, with their gills, fins and streamlined bodies.
@@ -763,54 +763,54 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 
 ## Open questions
 - **Exactly why did cave fish lose their eyes?** Saving energy, side effects of better taste and touch, and broken genes that nobody weeds out may all play a part. Scientists still argue about how much each matters.
-- **How does a wood frog's heart know when to start beating again after it thaws?** Scientists know the frog's heart restarts as it thaws, but not fully how the signal begins.
+- **How does a wood frog's heart know when to start beating again after they thaw?** Scientists know the frog's heart restarts as it thaws, but not fully how the signal begins.
 - **How well do adaptations keep up when a place changes fast, as the climate is changing now?** Adaptations build up over many generations. Scientists are studying which animals and plants can change their behaviour or move in time, and which cannot.
 - **Does Bergmann's rule, that animals are bigger in colder places, really hold, and why?** Many animals follow it and many do not. Scientists still argue about how often it holds and what causes it.
 - **How many kinds of cave animals live in India's caves?** Many caves in Meghalaya and elsewhere have hardly been explored. New kinds of fish and other animals are still being found.
 - **How do penguins in a huddle decide when to move?** Filmed huddles move in small waves, but how each bird decides to take a step is still being studied.
 
 ## Questions to ask kids
-- What problem would a camel have if it lived in our flat?
+- What problem would a camel have if they lived in our flat?
 - Why do you think you curl up under a blanket on a cold night?
 - Why does a wet towel dry faster when you spread it out on the line?
 - Which plant on our balcony or in our kitchen do you think could live in a desert? Why?
 - If you lived in a dark cave, which sense would you need most?
-- Why do you think a pigeon puffs up its feathers in the cold?
-- What would happen to a duck if its feathers had no oil?
+- Why do you think a pigeon puffs up their feathers in the cold?
+- What would happen to a duck if their feathers had no oil?
 - If you went to Ladakh, how would you keep warm without growing fur?
 - Is there anything you are good at that would be useless somewhere else?
 - Why do you think ducks and frogs both have webbed feet, though one is a bird and one is not?
 
 ## Jokes
-- Why did the camel never get lost in the desert? *It always had a hump-y sense of direction.*
+- Why did the camel never get lost in the desert? *They always had a hump-y sense of direction.*
 - What do you call a camel with no hump? *Humphrey.*
-- Why was the cactus so calm on the hottest day? *It kept everything inside.*
+- Why was the cactus so calm on the hottest day? *They kept everything inside.*
 - Why don't cactuses need umbrellas? *They have a waxy coat on already.*
 - What did the rolled-up towel say to the flat towel? *You really need to stop putting yourself out there.*
 - Why did the penguins stand so close together? *They were having a cool-down meeting.*
-- How does a penguin build its house? *Igloos it together.*
-- What is a snow leopard's favourite scarf? *Its own tail.*
-- Why did the yak go to the hairdresser? *It was having a very long hair day.*
+- How does a penguin build their house? *Igloos it together.*
+- What is a snow leopard's favourite scarf? *Their own tail.*
+- Why did the yak go to the hairdresser? *They were having a very long hair day.*
 - Why don't ducks ever need towels? *They come out of the water already oiled and ready.*
-- What did the duck say when it bought lip balm? *Put it on my bill.*
+- What did the duck say when they bought lip balm? *Put it on my bill.*
 - Why are fish so good at swimming? *They're always in school.*
-- Why did the mangrove tree come up for air? *Its roots told it to.*
+- Why did the mangrove tree come up for air? *Their roots told them to.*
 - What kind of music does a mudskipper like? *Anything with a good beat on the mud.*
-- Why did the owl keep turning its head? *It didn't want to look the other way.*
+- Why did the owl keep turning their head? *They didn't want to look the other way.*
 - Why are owls so clever at night? *They're full of night-wisdom and very big eyes.*
-- What did the cat say when the torch shone in its eyes? *Excuse me, I'm trying to shine here.*
+- What did the cat say when the torch shone in their eyes? *Excuse me, I'm trying to shine here.*
 - Why do bats sing so well? *They have perfect echo.*
-- Why did the cave fish never play hide and seek? *It always felt where you were.*
+- Why did the cave fish never play hide and seek? *They always felt where you were.*
 - Why did the slender loris stay up all night? *It had big plans and even bigger eyes.*
 - What does a frozen frog say in spring? *Ribbit. I'm defrosted.*
 - Why did the ice cubes huddle together? *They didn't want to break the ice with strangers.*
-- Why did the fennec fox always hear the gossip? *It was all ears.*
-- Why did the camel bring a flask on its trip? *It didn't. It just packed less sweat.*
+- Why did the fennec fox always hear the gossip? *They were all ears.*
+- Why did the camel bring a flask on their trip? *They didn't. They just packed less sweat.*
 
 ## Connected maths
 - In the three wet leaves test, Lakshmi weighed her towels. In one hour, the flat towel lost 18 grams of water. The covered towel lost only 2 grams. How many times as much water did the flat towel lose? **9 times as much.**. The flat towel lost 18 grams and the covered towel lost 2 grams. 18 divided by 2 is 9. So the flat towel lost 9 times as much water. Check: 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 = 18. (queues `math.division.sharing-and-grouping.L3`)
 - In the huddle test, six ice cubes spread apart each had 5 faces touching the air. In a block of 2 rows of 3, the cubes had 16 faces touching the air altogether. How many faces touched the air when they were spread apart? How many fewer did the huddle have? **30 faces spread apart, and 14 fewer in the huddle.**. 6 cubes with 5 faces each is 6 groups of 5, which is 30. The huddle had 16. 30 take away 16 is 14. So the huddle hid 14 faces from the warm air, nearly half of them. (queues `math.shapes-3d.faces-edges-vertices.L3`)
-- Bodil and Knut Schmidt-Nielsen measured a thirsty camel in the Sahara. Its body was 34 degrees Celsius in the early morning and 40 degrees by late afternoon. How many degrees did it warm up during the day? **6 degrees.**. 40 take away 34 is 6. So the camel's body warmed up by 6 degrees. Your body stays close to 37 degrees all day. If it warmed up by 6 degrees, you would have a dangerous fever. (queues `math.temperature.reading-thermometers.L3`)
+- Bodil and Knut Schmidt-Nielsen measured a thirsty camel in the Sahara. Their body was 34 degrees Celsius in the early morning and 40 degrees by late afternoon. How many degrees did their body warm up during the day? **6 degrees.**. 40 take away 34 is 6. So the camel's body warmed up by 6 degrees. Your body stays close to 37 degrees all day. If it warmed up by 6 degrees, you would have a dangerous fever. (queues `math.temperature.reading-thermometers.L3`)
 - In the three wet leaves test, Farhan did the touch test every 15 minutes. The flat towel was dry at the 4th check. The rolled towel was still wet inside at the 8th check. How long did each take? **The flat towel was dry after 60 minutes. The rolled towel was still wet inside after 120 minutes, which is 2 hours.**. 4 checks of 15 minutes is 15 + 15 + 15 + 15 = 60 minutes. 8 checks is twice as many, 120 minutes. So the rolled towel kept its water for at least twice as long. (queues `math.multiplication.equal-groups.L3`)
 - In the huddle test, the spread-out cubes made 120 millilitres of meltwater in 30 minutes, and the huddle made 60 millilitres. Arjun says, 'If I spread the cubes even further apart, they will make even more meltwater.' Is he right? What would you test to find out? **Probably not much more. Once the cubes are apart, all 5 of their faces already touch the air. Spreading them further would not open up any more faces. You could test it by putting 6 cubes a finger-width apart and 6 cubes a hand-width apart.**. The huddle made half as much meltwater, 60 out of 120, because it hid faces from the air. Spread-out cubes already show every face except the bottom. So spreading them further should change little. A fair test would change only the distance between cubes. (queues `math.logic.puzzles.L3`)
 
@@ -824,7 +824,7 @@ Everybody Lives Somewhere (sci.habitats.L3): Topic-level song
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for its galleries on living things and the environment.
 - [Desert National Park]() · place · Near Jaisalmer, Rajasthan: A protected part of the Thar Desert, with desert foxes, chinkara and the great Indian bustard. Go with the forest department's guides.
 - [Nature Conservation Foundation](https://www.ncf-india.org) · interactive: An Indian group that studies snow leopards in the Himalaya and many other animals. Its website has stories and photos from the field.
-- [iNaturalist](https://www.inaturalist.org) · interactive: Photograph a living thing near your home and others help name it. Good for the adaptation notebook.
+- [iNaturalist](https://www.inaturalist.org) · interactive: Photograph a living thing near your home and others help name them. Good for the adaptation notebook.
 - [PhET Natural Selection](https://phet.colorado.edu/en/simulations/natural-selection) · simulation: For curious older children and parents: a free simulation where rabbits with different fur do better or worse in snow or desert, over many generations.
 
 ## Things to buy
@@ -833,14 +833,14 @@ Everybody Lives Somewhere (sci.habitats.L3): Topic-level song
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): To look closely at leaf surfaces, water drops on a cabbage leaf, and the holes in a lotus stem. Used in a5. 
 
 ## Warm-up
-- What is an adaptation? → A feature of body or behaviour that helps a living thing live in its habitat.
+- What is an adaptation? → A feature of body or behaviour that helps a living thing live in their habitat.
 - What is inside a camel's hump? → Mostly fat, not water.
 - Which dries faster: a towel spread flat or one rolled up? → The one spread flat, because more of it touches the air.
-- Why does a cactus have a waxy coat? → To slow down the water escaping from it.
+- Why does a cactus have a waxy coat? → To slow down the water escaping from them.
 - Why do penguins huddle? → So less of each body faces the icy wind, and they keep warm.
-- How does a snow leopard keep its face warm? → It wraps its long, thick tail round it.
-- What makes a cat's eyes shine at night? → A shiny layer at the back of its eye that reflects light.
-- How does a fish feel the water move? → With its lateral line, a row of sensors along its sides.
+- How does a snow leopard keep their face warm? → It wraps its long, thick tail round it.
+- What makes a cat's eyes shine at night? → A shiny layer at the back of their eye that reflects light.
+- How does a fish feel the water move? → With their lateral line, a row of sensors along their sides.
 - Why do some mangroves have roots sticking up out of the mud? → To take in air, because wet mud has very little.
 - What are animals that are awake at night called? → Nocturnal.
 

@@ -181,14 +181,14 @@ Inside a plain nail, countless tiny magnets point in every direction. Their forc
 - Practice, Be the needle (3 min): Let's stand up and close our eyes. Without peeking, point to where you think north is. Now open your eyes and check with the compass. Now let's all turn to face north together. Stand still and take six slow breaths. We are like the tiny magnets in a needle, all facing the same way. Each of us is still the same person. Only the direction we face has changed.
 - Ask: When a needle becomes a magnet, nothing is added to it. Is the magnetised needle a new object, or the same needle?
 - Ask: In a plain nail, the tiny magnets cancel out to zero. Is their magnetic force gone, or only hidden?
-- Ask: A turtle finds its beach without a map. What does it sense that we do not notice?
+- Ask: A turtle finds their beach without a map. What do they sense that we do not notice?
 
 ## Deep and big questions
 - *deep:* Every electron in your body is a tiny magnet. So why doesn't a fridge magnet stick to you? (hint: Put two magnets side by side, with one turned the opposite way. Can they attract a pin as strongly as one magnet alone?)
 - *deep:* A magnet attracts a pin through paper, through wood, even through your hand. How can its force act across a gap, with nothing touching? (hint: Scientists say the force acts through the magnet's magnetic field. Is the field something real in the space around the magnet, or only a way of describing what the magnet does?)
 - *deep:* When you stroke a needle and it becomes a magnet, nothing is added and nothing is taken away. So what changed? (hint: Think about the tiny magnets inside the needle. Which way did they point before the stroking, and which way after?)
 - *deep:* The Earth's magnetic field has flipped many times. What might happen to birds and turtles during a flip? (hint: A flip takes thousands of years. Turtles and birds have lived through many flips.)
-- *big:* A turtle can find the beach where it hatched, across a whole ocean, without a map. What does a turtle know that we don't? (hint: Do we sometimes think people are the cleverest animals only because we test the things we are good at?)
+- *big:* A turtle can find the beach where they hatched, across a whole ocean, without a map. What does a turtle know that we don't? (hint: Do we sometimes think people are the cleverest animals only because we test the things we are good at?)
 - *big:* A magnetised needle and a plain needle are made of the same steel. Only the direction of their tiny magnets is different. Are you, too, ordinary atoms arranged in a special way? Or is there more to you? (hint: The atoms in your body are replaced all the time, as you eat and breathe. Yet you are still you.)
 - *big:* Old names for the magnet mean 'the kisser', 'beloved of iron' and 'the loving stone'. Why do you think so many people thought of magnets as loving? (hint: Long ago, people saw a stone make iron move without touching it. What would that have looked like to them?)
 - *big:* Marie Curie's first research was on magnets in steel. Many books mention Pierre Curie's magnet work, but not hers. Why might that be? (hint: Who usually gets written down in history books? Who gets left out?)
@@ -704,7 +704,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 5. (mcq) Salvatore Bellini saw magnetic bacteria in 1963, but his notes were not published. Richard Blakemore described them in 1975. Who should get credit?  
    Options: Only Blakemore, because he published / Only Bellini, because he was first / Both, and we should say what each did / Neither  
    **Answer:** Both, and we should say what each did. *Why:* Science usually credits whoever publishes first. But being honest means saying who saw it first, too. Bellini's notes were published in English in 2009.
-6. (write) Andre Geim made a live frog float in a giant magnet. The frog has no iron in it. Explain how this can be.  
+6. (write) Andre Geim made a live frog float in a giant magnet. The frog has no iron in their body. Explain how this can be.  
    **Answer:** Every material responds to a magnet a little. Water, which makes up most of a frog, is very slightly repelled by a magnet. In a giant magnet, this force is strong enough to hold the frog up.. *Why:* This shows that 'non-magnetic' really means 'very, very weakly magnetic'.
 7. (mcq) Why do scientists think Mars lost much of its air?  
    Options: Without a strong magnetic field around the planet, the solar wind stripped it away / Martians breathed it all / It froze into ice caps / The Moon pulled it off  
@@ -822,7 +822,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 - Which way is north from where we're sitting? How could we check?
 - What would the iron fish in the story do if you put it next to the gas cylinder?
 - Is a magnet's magnetic field there even when there is nothing near it to attract?
-- How do you think a turtle senses its way home?
+- How do you think a turtle senses their way home?
 - Which do you think stays a magnet longer: a stroked needle or a stroked nail? Why?
 - If the Earth's magnetic field flipped tomorrow, what would change for us? And for birds?
 - Who in our family notices the small things, like Amina did?
@@ -842,7 +842,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 - Why did the electron refuse to pair up? *It wanted to make a magnet of itself.*
 - What did the domain say to its neighbours? *Let's all face the same way for once.*
 - Why was the red-hot needle so confused? *It completely lost its sense of direction.*
-- What does a turtle use to find its way? *Its shell-phone? No, the Earth's magnetic field!*
+- What does a turtle use to find their way? *Their shell-phone? No, the Earth's magnetic field!*
 - Why did the robin take a compass on holiday? *It didn't. Scientists think it may have one in its eyes.*
 - What is the Earth's favourite music? *Heavy metal, from its iron core.*
 - Why did the cooking pot get moved to the front of the ship? *It kept trying to steer.*

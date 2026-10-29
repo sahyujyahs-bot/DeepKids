@@ -98,18 +98,18 @@ Stand two mirrors like an open book, and put a toy between them. Some light from
 ### Mirrors in living things · *defined*
 **Definition:** Some animals have mirrors built into their bodies. They are made of tiny stacked crystals or layers that reflect light.
 
-A cat's eyes shine in torchlight. A layer at the back of each eye works like a mirror. It sends light back through the eye a second time, so the cat sees better in dim light. Many silvery fish have mirror scales. A scallop, a kind of shellfish, has up to 200 tiny eyes. Each eye has a curved mirror made of tiny square crystals. Scientists described it in 2017. A deep-sea fish called the spookfish uses mirrors in its eyes too.
+A cat's eyes shine in torchlight. A layer at the back of each eye works like a mirror. It sends light back through the eye a second time, so the cat sees better in dim light. Many silvery fish have mirror scales. A scallop, a kind of shellfish, has up to 200 tiny eyes. Each eye has a curved mirror made of tiny square crystals. Scientists described it in 2017. A deep-sea fish called the spookfish uses mirrors in their eyes too.
 - e.g. Cows, dogs and cats have eyes that shine in headlights. Human eyes do not.
 - e.g. Silvery fish like the sardine are hard to see in water, because their sides reflect the water around them.
 - e.g. The colours of shiny beetles and peacock feathers come from thin layers that reflect light, not from a coloured dye.
 ### Do animals know their own reflection? · *debated*
-When you look in a mirror, you know the face is you. Most animals do not seem to. They bark at it, or try to play with it. Scientists test this with a mark. They put a small dot on an animal where it can only see it in a mirror. If the animal touches the dot on its own body, it seems to know that the image is itself.
+When you look in a mirror, you know the face is you. Most animals do not seem to. They bark at it, or try to play with it. Scientists test this with a mark. They put a small dot on an animal where they can only see it in a mirror. If the animal touches the dot on their own body, they seem to know that the image is themself.
 - e.g. Babies start to pass the mark test at about 18 months old.
 - e.g. Chimpanzees passed it in 1970, in tests by the American scientist Gordon Gallup.
 - e.g. An elephant in a zoo passed it in 2006, and magpies, a kind of bird, in 2008.
-- **Gordon Gallup and many scientists:** Touching the dot shows the animal has an idea of itself. Only a few kinds of animals pass, such as great apes, elephants, dolphins and magpies.
-- **Masanori Kohda and his team in Japan, in 2019:** A tiny fish called the cleaner wrasse also scraped at a mark it could only see in a mirror. So either small fish know themselves, or the test does not measure what we think.
-- **Other scientists:** The test favours animals that use their eyes most. A dog knows the world by smell, so a mirror may just not interest it. Failing the test does not prove an animal has no sense of self.
+- **Gordon Gallup and many scientists:** Touching the dot shows the animal has an idea of themself. Only a few kinds of animals pass, such as great apes, elephants, dolphins and magpies.
+- **Masanori Kohda and his team in Japan, in 2019:** A tiny fish called the cleaner wrasse also scraped at a mark they could only see in a mirror. So either small fish know themselves, or the test does not measure what we think.
+- **Other scientists:** The test favours animals that use their eyes most. A dog knows the world by smell, so a mirror may just not interest them. Failing the test does not prove an animal has no sense of self.
 ### Is nature the same in a mirror? · *idea*
 Your two hands are mirror images of each other. Many tiny molecules come in two mirror forms too, like a left and a right glove. Living things almost always use only one of the two forms. Nobody knows for sure why. Some scientists think it happened by chance when life began. Others think something in nature tipped the balance.
 - e.g. In 1848 the French scientist Louis Pasteur found that some crystals come in left-handed and right-handed forms.
@@ -148,7 +148,7 @@ A curved mirror can gather lots of light into one small spot. In 1668 Isaac Newt
   For: Backwards letters are harder for others to read.  
   Against: Many children reverse letters while learning. Most grow out of it by about age 7 or 8. Leonardo da Vinci wrote backwards all his life and was one of the greatest thinkers ever. Mirror writing is a real skill.
 - **Our brains have special mirror cells that copy what others do.** (Giacomo Rizzolatti and his team in Parma, Italy, who studied monkeys in the 1990s; *debated*)  
-  For: Some brain cells in monkeys fired both when a monkey grabbed food and when it watched someone else grab food.  
+  For: Some brain cells in monkeys fired both when a monkey grabbed food and when they watched someone else grab food.  
   Against: In 2014 the scientist Gregory Hickok wrote a book called The Myth of Mirror Neurons. He and others say these cells do not explain how we understand each other.
 
 ## Roots
@@ -159,8 +159,8 @@ We have been learning how mirrors reflect light. Now we ask what mirrors tell us
 *Evidence:* At the mirror and in Mirror Twins, the raised hand and its image are on the same side of the room. Only front and back are swapped: the image faces you.
 
 - *who am i:* You have never seen your own face directly. You know it from mirrors, photos and what other people tell you.
-- *what is life:* Living things use reflection too. A cat has a mirror layer at the back of its eyes that helps it see in dim light.
-- *what is this world:* Almost everything you see is reflected light. A book or a tree makes no light of its own, yet you see it.
+- *what is life:* Living things use reflection too. A cat has a mirror layer at the back of their eyes that helps them see in dim light.
+- *what is this world:* Almost everything you see is reflected light. A book makes no light of its own, and neither does a tree, yet you see both.
 
 One lamp in the Sheesh Mahal shows up as hundreds of sparkles. Two mirrors turn one toy into many images. Nothing new is made: it is light from one source, sent different ways. The whole world is like this: one source, showing up in many forms. A mirror is a small, real example you can hold in your hand.
 
@@ -708,7 +708,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
    **Answer:** To measure how far away the Moon is, by bouncing laser light off them. *Why:* Scientists send a laser pulse to the Moon and time how long the reflection takes to come back. That tells them the distance very exactly. It shows the Moon moves about 3.8 cm further from Earth every year.
 4. (truefalse) The best mirrors scientists can make reflect every single bit of light.  
    **Answer:** False. *Why:* False. Even the best mirrors lose a tiny part of the light at every bounce, less than one part in ten thousand. No mirror is perfect.
-5. (mcq) A tiny fish, the cleaner wrasse, scraped at a mark it could only see in a mirror. Why did this surprise scientists?  
+5. (mcq) A tiny fish, the cleaner wrasse, scraped at a mark they could only see in a mirror. Why did this surprise scientists?  
    Options: They thought only big-brained animals could pass the mirror test / Fish cannot see / Fish hate mirrors / The mark was invisible  
    **Answer:** They thought only big-brained animals could pass the mirror test. *Why:* Before 2019, the animals that had passed were mostly great apes, elephants, dolphins and magpies. The fish result made scientists argue about what the test really shows.
 6. (write) Leonardo da Vinci wrote his notebooks in mirror writing. Give two reasons he might have done it. Then say which you think is most likely.  

@@ -321,7 +321,7 @@
    "examples": [
     "A key to find which of four fruits you are holding.",
     "A doctor's chart that asks yes or no questions to work out an illness.",
-    "A bird book key: 'Does it have a long beak?' Yes, go to question 4."
+    "A bird book key: 'Does the bird have a long beak?' Yes, go to question 4."
    ],
    "perspectives": [],
    "art": "A tree chart on its side: one starting question, two branches, two more questions, ending in four small drawings of a brick, ice, a balloon and paper.",
@@ -501,7 +501,7 @@
   {
    "concept": "Sorting living things: where does the platypus go?",
    "status": "debated",
-   "description": "Living things need sorting too. In the 1700s, a Swedish scientist, Carl Linnaeus, sorted plants and animals into groups inside groups. At first people sorted by looks. Whales were put with fish, because they live in water and have fins. But a whale breathes air and feeds its babies on milk. So whales belong with mammals. DNA shows that the whale's closest living relative is the hippo. Then came the platypus, an animal in Australia with fur and a duck-like bill, which lays eggs. In 1799 a British scientist, George Shaw, described a platypus skin sent from Australia. He wrote that it was hard to believe it was real, and he is said to have looked for stitches. But the platypus is real. It is a mammal that lays eggs. Biologists still argue about the most basic group of all, the species. They have written more than twenty different definitions. A tomato is a puzzle too. To a botanist it is a fruit. To a cook it is a vegetable. In 1893, the highest court in America decided that, for a tax on vegetables, a tomato counts as a vegetable. Each person used the rule that fit their job.",
+   "description": "Living things need sorting too. In the 1700s, a Swedish scientist, Carl Linnaeus, sorted plants and animals into groups inside groups. At first people sorted by looks. Whales were put with fish, because they live in water and have fins. But a whale breathes air, and a mother whale feeds her babies on milk. So whales belong with mammals. DNA shows that the whale's closest living relative is the hippo. Then came the platypus, an animal in Australia with fur and a duck-like bill, which lays eggs. In 1799 a British scientist, George Shaw, described a platypus skin sent from Australia. He wrote that it was hard to believe it was real, and he is said to have looked for stitches. But the platypus is real: a mammal who lays eggs. Biologists still argue about the most basic group of all, the species. They have written more than twenty different definitions. A tomato is a puzzle too. To a botanist it is a fruit. To a cook it is a vegetable. In 1893, the highest court in America decided that, for a tax on vegetables, a tomato counts as a vegetable. Each person used the rule that fit their job.",
    "examples": [
     "Whales are mammals, not fish.",
     "The platypus is a mammal that lays eggs.",
@@ -638,7 +638,7 @@
    "claim": "A whale is a fish.",
    "who": "Most people for thousands of years, and some old books",
    "for": "A whale lives in water, has fins and swims like a fish. Sorting by looks makes a whale a fish.",
-   "against": "A whale breathes air, is warm-blooded and feeds its baby on milk. Linnaeus put whales with mammals in 1758. DNA shows the whale's closest living relative is the hippopotamus.",
+   "against": "A whale breathes air and is warm-blooded, and a mother whale feeds her baby on milk. Linnaeus put whales with mammals in 1758. DNA shows the whale's closest living relative is the hippopotamus.",
    "status": "rejected",
    "context": "This card is about an old way of sorting whales, and why scientists gave it up."
   },
@@ -829,7 +829,7 @@
    "Hema took a breath. 'I can hear them,' she said. 'You tell me where to put each piece.'",
    "So they sorted me again, all that was left of me, piece by piece. Hema hung each one from a string on the beam, tapped it with her pencil, shut her eyes and listened. 'Sings,' she said, and Thatha laid the piece on a white cloth. 'Stops,' she said, and he laid the piece on a black one. Lamps. Handles. The tap. The bangles. By evening there were two piles. And they were not the piles that colour had made. Some red-gold pieces lay on the black cloth. Some pale ones lay on the white. Colour had been telling Thatha something true. It just had not been telling him what a bell needs to know.",
    "The short-ringing pile went off to be made into hinges and pots. The singing pile went into the fire. This time Thatha let Hema stand at the door of the furnace room, with his hand on her shoulder. She watched the orange river pour. Three days. The mould was broken. Thatha lifted the mallet, and then he did something I had not expected. He held it out to her.",
-   "She struck me once. I rang. It was not a clank. It was a note so clear and so long that it climbed the foundry roof and made the tin hum. It rolled out over the lane, where a dog lifted its head and the vegetable seller stopped weighing. It went on and on, thinning out like a thread drawn from a spool. When at last it ended, the lane was quiet for a moment, as if it were listening for more.",
+   "She struck me once. I rang. It was not a clank. It was a note so clear and so long that it climbed the foundry roof and made the tin hum. It rolled out over the lane, where a dog lifted their head and the vegetable seller stopped weighing. It went on and on, thinning out like a thread drawn from a spool. When at last it ended, the lane was quiet for a moment, as if it were listening for more.",
    "I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pulls my rope, and my voice goes out across the fields. Children come running from three villages. On my rim, in raised letters, is the name of the foundry. Nobody wrote Hema's name there. But stand underneath me and look up into the dark inside my rim. There you can find one small scratched letter. It was cut with a chisel by an old man who could no longer hear high notes. It is an H."
   ],
   "epiphany": "For the parent: the pieces of metal never changed. Only the rule for sorting them changed. Sorted by colour, the heap hid the difference that mattered. Sorted by sound, the heap split into two piles, and the bell sang. A rule is only good when it fits the job. The story also asks who notices what. The old man trusted his eyes because his ears had changed. The girl's ears, and her willingness to speak, made the difference.",
@@ -1674,15 +1674,15 @@
     },
     {
      "t": "mcq",
-     "p": "A whale lives in water and has fins. Why do scientists call it a mammal and not a fish?",
+     "p": "A whale lives in water and has fins. Why do scientists call a whale a mammal and not a fish?",
      "opts": [
-      "It breathes air and feeds its baby on milk",
-      "It is very big",
-      "It lives in cold water",
-      "It has no scales"
+      "They breathe air and feed their babies on milk",
+      "They are very big",
+      "They live in cold water",
+      "They have no scales"
      ],
      "a": 0,
-     "why": "Scientists sort by who the whale is related to, not only by how it looks. A whale breathes air, is warm-blooded and nurses its young. Picking 'very big' or 'cold water' uses things that are not what scientists sort by."
+     "why": "Scientists sort by who the whale is related to, not only by how they look. A whale breathes air and is warm-blooded, and a mother whale nurses her young. Picking 'very big' or 'cold water' uses things that are not what scientists sort by."
     },
     {
      "t": "write",

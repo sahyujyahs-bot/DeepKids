@@ -635,7 +635,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent does:* Swap. Your child calls the words and you dance. Talk about what changed.  
   *Parent says:* Now you call, and I will dance. Which veil is best for hiding? Which is best for watching?  
   *Child mode:* Swap places. You call the words now.
-  - Check: Early morning fog is thin. You can see a tree through it, but it looks blurry. Fog is… → **Translucent**
+  - Check: Early morning fog is thin. You can see a tree through it, but the tree looks blurry. Fog is… → **Translucent**
 - **s4 (3 min)**  
   *Parent does:* Draw the three veils and write transparent, translucent or opaque under each.  
   *Parent says:* Draw the three veils. Write a word under each one.  

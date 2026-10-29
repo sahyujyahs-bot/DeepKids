@@ -1,0 +1,1253 @@
+{
+ "key": "combined|sci|5|living-in-harmony",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "living-in-harmony",
+ "title": "Living in harmony: food chains, food webs and the balance of nature",
+ "source": "DeepKids Combined. Covers NIOS Class 5 'Life of Plants and Animals' (how plants and animals depend on each other, food chains and food webs, natural balance, protecting forests and animals). No textbook needed.",
+ "summary": "A forest can hold millions of plants, thousands of deer and only a few tigers. Your child finds out why, by tracing their own lunch back to the Sun and pouring a litre of water down a food chain until only a few drops are left. They learn feeding levels, food webs and why energy flows one way while atoms go round and round. They grow mould to see what decomposers need, play a rats-and-snakes game whose numbers rise and fall like real ones, and find out what happens when people remove a predator or bring in a new plant. They meet the people who protect forests, from the Bishnois to the women of Reni village.",
+ "builds_on": "Class 3 'Living in harmony': the five ways living things live together (mutualism, commensalism, parasites, predator and prey, competition). Class 3 'Caring for the environment': producers and consumers, simple food chains and webs, decomposers, keystone species and poison passing up a chain. Class 4 looks at ecosystems, energy and nature in daily life. This rung goes deeper: feeding levels, the energy pyramid, energy flowing one way and matter cycling, predator and prey numbers rising and falling, what breaks a balance, and how people protect forests and animals. Middle school goes on to ecosystems, the carbon cycle and the nitrogen cycle.",
+ "goals": [
+  "By the end your child can draw a food chain of four or five links, name each feeding level (producer, primary, secondary and tertiary consumer) and point every arrow the right way.",
+  "By the end your child can explain photosynthesis and respiration in plain words, and three ways plants and animals depend on each other.",
+  "By the end your child can explain, with the water-pouring model, why only about a tenth of food energy passes up each step, and why top predators are few.",
+  "By the end your child can explain that energy flows one way through a food web while atoms are used again and again, and say what decomposers need, from their own mould test.",
+  "By the end your child can describe how predator and prey numbers rise and fall, using a graph from their own game.",
+  "By the end your child can explain what happens when a predator is removed or a new plant invades, and describe how communities and laws protect forests and animals."
+ ],
+ "subconcepts": [
+  "plants and animals depend on each other: food, oxygen, shelter, pollination and seed dispersal",
+  "photosynthesis and respiration: plants make food and oxygen, and every living thing respires",
+  "food chains and feeding levels: producer, primary, secondary and tertiary consumer",
+  "herbivores, carnivores, omnivores, scavengers and decomposers",
+  "food webs: many chains joined, and why a web holds better than a single chain",
+  "the energy pyramid: only about a tenth of food energy passes up each step, the rest leaves as heat",
+  "why top predators are few and need large forests",
+  "energy flows one way, but atoms go round and round",
+  "what decomposers need: moisture, warmth and air",
+  "predator and prey numbers rise and fall in cycles",
+  "the balance of nature, and the debate about whether nature ever stays still",
+  "when the balance breaks: killing predators, overhunting and invasive plants like lantana",
+  "food chains without sunlight: bacteria at deep-sea vents",
+  "protecting forests and animals: Bishnois, Chipko, sacred groves, sanctuaries and national parks"
+ ],
+ "words": [
+  [
+   "producer",
+   "a living thing that makes their own food. Green plants and algae make food from sunlight, air and water."
+  ],
+  [
+   "consumer",
+   "a living thing that cannot make their own food, so they eat other living things. Every animal is a consumer."
+  ],
+  [
+   "feeding level",
+   "a step in a food chain. Plants are the first level, plant-eaters the second, and the animals that eat them the third. Scientists also call it a trophic level."
+  ],
+  [
+   "photosynthesis",
+   "the way green plants make sugar from carbon dioxide and water using the energy of sunlight. They give out oxygen as they do it."
+  ],
+  [
+   "respiration",
+   "the way every living thing, plants too, uses oxygen to release energy from food. It gives out carbon dioxide."
+  ],
+  [
+   "food web",
+   "many food chains joined together, because most animals eat more than one thing and are eaten by more than one thing"
+  ],
+  [
+   "energy pyramid",
+   "a drawing of how much food energy each feeding level holds. The plants at the bottom hold the most. Each step up holds about a tenth as much."
+  ],
+  [
+   "decomposer",
+   "a living thing that breaks down dead plants and animals, like mould, mushrooms and bacteria. They return nutrients to the soil."
+  ],
+  [
+   "scavenger",
+   "an animal that eats animals that are already dead, like a vulture or a crow"
+  ],
+  [
+   "natural balance",
+   "the way the numbers of plants, plant-eaters and meat-eaters in a place stay within limits over many years, though they rise and fall"
+  ],
+  [
+   "invasive species",
+   "a plant or animal brought to a new place, often by people, who spreads fast and pushes out the living things already there"
+  ],
+  [
+   "national park",
+   "an area where the law protects all wild animals and plants, and people may not graze cattle, hunt or cut trees. A wildlife sanctuary also protects animals but allows some local uses."
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Your lunch began in the Sun",
+   "goal": "Recall Class 3, trace a meal back to the Sun, and find out how plants and animals depend on each other.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Five ways to live together",
+     "mins": 5,
+     "do": "Recall the Class 3 lesson in two questions. Ask: 'In Class 3 we found five ways living things live together. Can you name them?' Good answers: both gain (mutualism, like a bee and a flower), one gains and the other is not harmed (commensalism, like an egret beside a buffalo), one lives on the other and harms them (a parasite, like a tick on a dog), one eats the other (predator and prey), and both need the same thing (competition). Then ask: 'In a food chain, which way does the arrow point?' (From the food to the eater.) Say: 'This week we follow the food itself: where it starts, where it goes, and what keeps the numbers of living things in check.'"
+    },
+    {
+     "kind": "act",
+     "title": "Trace your lunch to the Sun",
+     "mins": 12,
+     "ref": "a1",
+     "do": "Do Activity a1. Your child lists everything on their plate from today's lunch, for example rice, sambar, curd and a piece of fish or egg. For each item they work backwards to a plant, then draw the chain with arrows from the food to the eater, ending with themselves. Rice comes straight from the paddy plant. Curd comes from milk, which comes from a cow, who ate grass. Fish ate smaller fish, who ate tiny algae in the water. Ask: 'Did every line end at a plant or algae?' (Yes.) 'And where did the plant get the energy to make food?' (From sunlight.) Write SUN at the start of every line, with an arrow to the plant."
+    },
+    {
+     "kind": "talk",
+     "title": "What plants give, and what animals give",
+     "mins": 10,
+     "do": "Ask: 'How does a leaf make food?' Listen first. Then explain: 'A leaf takes in carbon dioxide from the air and water from the roots. Using the energy of sunlight, caught by the green chlorophyll, the leaf turns them into sugar. This is called photosynthesis. Oxygen is given out.' Then say: 'Every living thing respires, plants too, day and night. Respiration uses oxygen to release energy from food, and gives out carbon dioxide. You are doing it now.' Ask your child to breathe out onto their palm and feel the warmth. Then ask: 'What else do animals get from plants?' (Shelter, like a bird's nest in a tree.) 'What do animals give plants?' (Bees and butterflies carry pollen from flower to flower, which is pollination. Birds, bats and monkeys eat fruit and drop the seeds far away, which is seed dispersal. Animal dung feeds the soil.)"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the light and dark jars",
+     "mins": 8,
+     "ref": "e3",
+     "do": "Start Experiment e3 now, because it needs 7 to 10 days. Fill two clear glass jars with water that has stood overnight. Stir one teaspoon of soil from a flower pot into each. Cover each with a cloth and a rubber band, so mosquitoes can't lay eggs. Put jar A on a sunny windowsill and jar B in a dark cupboard. Ask: 'Which jar will change? How? Why do you think so?' Write the guess on a label."
+    },
+    {
+     "kind": "act",
+     "title": "Start the building food web",
+     "mins": 10,
+     "do": "Start the project. Choose two watching spots: a window or balcony, and one potted plant or a wall where ants walk. Watch together for 6 minutes. Your child writes down every time they see a living thing eating, or about to eat: a crow pecking at food waste, a pigeon eating grain, a lizard waiting by the tube light, ants carrying a crumb, a spider's web with a fly in it. Say: 'Every day we'll watch for 3 minutes. At the end, we'll draw the real food web of our building from what we saw.'"
+    }
+   ],
+   "need": [
+    "paper and a pencil",
+    "2 clear glass jars",
+    "water that has stood overnight",
+    "soil from a flower pot",
+    "2 pieces of cloth and 2 rubber bands",
+    "labels"
+   ],
+   "prep": [
+    {
+     "task": "Fill a jug with tap water and leave it uncovered overnight for the jar test.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Feeding levels and food webs",
+   "goal": "Name the feeding levels in a food chain, draw a real food web, and start the mould test.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Web watch",
+     "mins": 5,
+     "do": "Project step. Watch at one of your spots for 3 minutes and write down anything eating or being eaten. Then look at both jars from Experiment e3 without opening them. Ask: 'Any change yet?' (Probably not. The soil has settled at the bottom.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Who is on which step?",
+     "mins": 10,
+     "do": "Write this chain on paper: paddy plant → rat → rat snake → short-toed snake eagle. Say: 'Each step is a feeding level. The paddy plant is the producer, because they make their own food. The rat eats the plant, so the rat is a primary consumer, or first eater. The rat snake eats the rat, so the snake is a secondary consumer. The eagle, who eats snakes, is a tertiary consumer, the third eater.' Then ask your child to label each animal with a second word: herbivore (eats only plants), carnivore (eats only animals) or omnivore (eats both). Add two more groups: scavengers, like crows and vultures, eat animals that are already dead. Decomposers, like mould, mushrooms and bacteria, break down everything that dies, at every level."
+    },
+    {
+     "kind": "act",
+     "title": "Draw the paddy field web",
+     "mins": 14,
+     "ref": "a2",
+     "do": "Do Activity a2. Your child draws a food web for a paddy field in the Kaveri delta of Tamil Nadu. Write these names in a big circle on a sheet: paddy plant, grass, algae in the water, grasshopper, rat, frog, small fish, spider, dragonfly, rat snake, egret, barn owl, snake eagle, mould and bacteria. Read out who eats whom, one at a time, and your child draws each arrow from the food to the eater. Grasshoppers eat paddy and grass. Rats eat paddy. Frogs eat grasshoppers and spiders. Small fish eat algae. Spiders and dragonflies eat insects. Egrets eat frogs, fish and grasshoppers. Rat snakes eat rats and frogs. Barn owls eat rats. Snake eagles eat snakes. Decomposers get an arrow from everyone."
+    },
+    {
+     "kind": "think",
+     "title": "Pull out the frog",
+     "mins": 6,
+     "do": "Point at the frog on the web. Ask: 'If all the frogs disappeared, who would go hungry?' (The egret and the rat snake.) 'Would they starve?' (Probably not, because the egret also eats fish and the snake also eats rats.) 'Who would increase?' (Grasshoppers and spiders, because nobody eats them as much.) Then draw the simple chain grass → grasshopper → frog → snake. Ask: 'If the frog goes from this chain, what happens to the snake?' (The snake has nothing to eat.) Say: 'A web with many threads is harder to break than a single chain.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the mould test",
+     "mins": 10,
+     "ref": "e1",
+     "do": "Set up Experiment e1. Cut one slice of bread into three equal pieces. Piece A stays dry. Sprinkle 5 drops of water on pieces B and C. Put each piece in its own zip bag or small steel box with a lid, and close it tight. Label them. Put A and B on a kitchen shelf, and C in the fridge. Ask: 'Which piece will grow mould first? Why?' Write the guesses. Say: 'Mould is a decomposer. We are testing what decomposers need.'"
+    }
+   ],
+   "need": [
+    "paper and coloured pencils",
+    "1 slice of bread or 1 chapati",
+    "3 zip bags or small boxes with lids",
+    "a few drops of water",
+    "labels"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Where does the energy go?",
+   "goal": "Model how food energy shrinks at every step, and find out why there are so few tigers.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Watch and check",
+     "mins": 5,
+     "do": "Project step: watch at one spot for 3 minutes and write down any eating you see. Then look at the jars from Experiment e3 and the bread bags from Experiment e1 without opening them. Your child writes the day number and 'no change' or what they see."
+    },
+    {
+     "kind": "act",
+     "title": "Pour the energy",
+     "mins": 12,
+     "ref": "a3",
+     "do": "Do Activity a3 in the kitchen sink. Fill a jug with 1 litre of water and say: 'This is all the food energy the grass in a field holds.' Your child pours 100 ml into a steel tumbler using a measuring cup, and pours the rest away. Say: 'The grasshoppers got only this much. The rest was used by the grass to live, or was never eaten.' Then they pour 10 ml (2 teaspoons) from the tumbler into a small cup and pour the rest away: that is what reaches the frogs. Then a dropper or a teaspoon tip gives about 1 ml, around 20 drops, into a bottle cap: that is what reaches the snakes. Ask: 'Where did all the rest go?' Let your child guess before you explain."
+    },
+    {
+     "kind": "talk",
+     "title": "Why so few tigers?",
+     "mins": 10,
+     "do": "Say: 'At every step, the eater uses most of their food to move, breathe, keep their body working and stay warm. That energy leaves as heat. Some food also comes out as dung. Only about a tenth is built into new body for the next eater.' Ask your child to touch their own cheek: 'That warmth is energy from your food leaving you.' Then say: 'Tiger scientists in India, such as K. Ullas Karanth, have worked out that one tiger eats about 50 deer-sized animals a year. To feed one tiger year after year, a forest needs about 500 deer and other prey alive at any time. And those 500 need huge amounts of grass and leaves.' Ask: 'So why do tigers need big forests?' (There must be enough prey, and enough plants for the prey.) 'Who disappears first when a forest shrinks?' (The animals at the top.)"
+    },
+    {
+     "kind": "talk",
+     "title": "The man who measured a lake",
+     "mins": 10,
+     "ref": "v1",
+     "do": "Tell the story in Voice v1, about Raymond Lindeman and his lake in Minnesota. Point at the bottle cap of drops from Activity a3 and say: 'This is the drop in energy he measured.' Ask the voice question. Good answers: a paper can be right even if reviewers reject it, and new ideas often seem odd at first."
+    },
+    {
+     "kind": "think",
+     "title": "Rice or eggs?",
+     "mins": 8,
+     "do": "Ask: 'A farmer can feed a field of rice to people. Or she can feed the same rice to hens and people eat the eggs. Which feeds more people?' Let your child reason with the water model. (The rice eaten directly, because energy is lost at the extra step of the hen.) Then ask an open question: 'Food chains in nature rarely have more than four or five steps. Why might that be?' One idea is that the energy runs out, as in our cups. Say: 'Scientists still argue about this. Some think other things matter too, like how big a place is and how often it is disturbed.'"
+    }
+   ],
+   "need": [
+    "a 1-litre jug",
+    "a measuring cup",
+    "a steel tumbler",
+    "a small cup",
+    "a teaspoon or a dropper",
+    "a bottle cap"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The snake in the paddy store",
+   "goal": "Hear the story, find out how atoms go round while energy flows one way, and do the core worksheet.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Watch and peek",
+     "mins": 4,
+     "do": "Project step: watch at one spot for 3 minutes and write down any eating you see. Look at the bread bags without opening them. Is there any fuzz or spots yet? Write it down."
+    },
+    {
+     "kind": "read",
+     "title": "Story: Who Was Eating the Paddy?",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. When you finish, wait a moment before asking anything."
+    },
+    {
+     "kind": "talk",
+     "title": "Talk about the story",
+     "mins": 7,
+     "do": "Ask the story questions one at a time. Start with: 'Why were there so many rats this year?' Let your child give the reason in their own words. A good answer: last year people killed the snakes, so nobody was eating the rats, and the rats had many babies. Then ask: 'Why did Selvi's mother ask what the snake was eating?' and 'Draw the chain that was broken last year.' (Paddy → rat → rat snake.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Energy flows, atoms go round",
+     "mins": 10,
+     "do": "Ask: 'When the rat snake dies, where does the snake's body go?' (Decomposers break it down into the soil.) Say: 'Everything is made of tiny pieces called atoms. When a rat eats paddy, the paddy's carbon atoms become part of the rat. When the snake eats the rat, they become part of the snake. When the snake dies, mould and bacteria break the body down. Some atoms go back into the soil as nutrients, and some go into the air as carbon dioxide. The next paddy plant takes them in again.' Draw two pictures: a straight arrow for energy, from Sun to plant to animals to heat, and a circle for atoms. Say: 'Energy flows through once and leaves as heat. The atoms are used again and again. So the carbon in your body was once in plants, and maybe in other animals before that.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 12,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1 (core). Read the questions aloud if needed. Mark them together. For any mistake, go back to the paddy field web from Day 2 or the water cups from Day 3, and ask the question again in other words."
+    }
+   ],
+   "need": [
+    "the story",
+    "the paddy field web from Day 2",
+    "Worksheet ws1"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Rats and snakes: numbers that rise and fall",
+   "goal": "Play a model of predators and prey, chart the numbers, and read the mould results.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Web watch",
+     "mins": 4,
+     "do": "Project step: watch for 3 minutes and write down any eating you see. Ask: 'How many different eaters have we seen so far this week?' Count them on the list."
+    },
+    {
+     "kind": "exp",
+     "title": "The rats and snakes game",
+     "mins": 20,
+     "ref": "e2",
+     "do": "Do Experiment e2 on the floor. Mark a field 40 cm by 50 cm with tape or a drawn border. You need 100 paper squares of 2 cm (the rats) and 10 card squares of 12 cm (the snakes). Round 1: scatter 4 rats in the field. Your child stands one big step away and tosses 1 snake card. Every rat the card touches is eaten. A snake who ate 3 or more rats survives and has one baby, so add a snake card. A snake who ate fewer than 3 dies, but always keep at least 1 snake, as if one came from the next field. Then every rat left has one baby, so double the rats. Write the numbers of rats and snakes in a table. Play 10 to 12 rounds. Ask before starting: 'What will happen to the rats when there are lots of snakes?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Chart it, then meet the fur records",
+     "mins": 12,
+     "ref": "v2",
+     "do": "Your child draws a line graph: rounds along the bottom, numbers going up, one line for rats and one for snakes in another colour. Ask: 'Which line rose first? Why did the snakes rise after the rats? Why did the rats then fall?' (Plenty of rats let more snakes survive and breed. Then the many snakes ate most of the rats, and with too few rats, the snakes died back.) Then tell the story in Voice v2, about the Canadian fur records and Charles Elton. Ask the voice question."
+    },
+    {
+     "kind": "exp",
+     "title": "Mould results",
+     "mins": 9,
+     "ref": "e1",
+     "do": "Look at all three bread bags from Experiment e1 without opening them. Your child draws each one and writes how much of the piece is covered with mould: none, a little or a lot. Expect piece B, damp and warm, to have the most fuzzy white, green or black spots. Ask: 'Which one is mouldy, and what did it have that the others did not?' (Water and warmth.) Say: 'Decomposers need moisture, warmth and air. That is why food lasts longer in the fridge, and why dry dal keeps for months.' Throw all three bags away still closed."
+    }
+   ],
+   "need": [
+    "tape or a marker",
+    "100 paper squares of 2 cm",
+    "10 card squares of 12 cm, cut from a cereal box",
+    "paper and 2 colours of pencil",
+    "the bread bags"
+   ],
+   "prep": [
+    {
+     "task": "Cut 100 small paper squares (2 cm) and 10 card squares (12 cm) for the rats and snakes game.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "When the balance breaks",
+   "goal": "Find out what happens when people remove a predator or bring in a new plant, and play the web game.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Web watch",
+     "mins": 4,
+     "do": "Project step: watch for 3 minutes and write down any eating you see. Look at the jars from Experiment e3: is the sunny jar turning green yet? Write it down."
+    },
+    {
+     "kind": "talk",
+     "title": "Snakes, rats and sparrows",
+     "mins": 10,
+     "do": "Ask: 'In the story, what happened when the village killed its snakes?' (The rats multiplied.) Read your child the challenge about snakes, and talk about it. Then read the challenge about China's sparrows. Ask: 'Why did the posters show only one arrow into the sparrow?' (They saw the sparrow eat grain, but did not see the sparrow eat the insects that eat grain.) Ask: 'How could a village find out what an animal really eats before deciding they are a pest?' (Watch them over a whole year, and look at what they feed their young.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Newcomers, and food without sunlight",
+     "mins": 8,
+     "do": "Say: 'Lantana is a bush with small orange and pink flowers. People brought lantana to India as a garden plant about 200 years ago. Birds eat the berries and spread the seeds, and cattle don't eat the leaves. Now lantana covers huge areas of India's forests, and the grass and young trees that deer eat can't grow under it.' Ask: 'What happens to the deer, and then to the tigers?' (Less food for deer, so fewer deer, so less food for tigers.) Then read the challenge about deep-sea vents. Ask: 'Is it still true that every food chain needs a producer?' (Yes. At the vents the producers are bacteria using chemicals instead of sunlight.)"
+    },
+    {
+     "kind": "game",
+     "title": "Play Hold the Web",
+     "mins": 15,
+     "ref": "g1",
+     "do": "Play the board game g1. Everyone plays as one team. On each event square, the player says what changes next, and what changes after that, two steps along the web. The others decide whether the reason makes sense. Accept any answer with a good reason, even if it differs from yours."
+    },
+    {
+     "kind": "talk",
+     "title": "Is there a balance of nature?",
+     "mins": 8,
+     "ref": "v4",
+     "do": "Point at the rats and snakes graph from Day 5. Ask: 'Did the numbers ever stay still?' (No, they went up and down all the time.) Then tell the story in Voice v4, about Daniel Botkin. Ask the voice question. Say: 'There is no single right answer here. Scientists are still arguing about it.'"
+    }
+   ],
+   "need": [
+    "the printed Hold the Web board",
+    "a die",
+    "one counter",
+    "5 buttons or beans as web tokens",
+    "the rats and snakes graph from Day 5"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Protecting forests and animals",
+   "goal": "Read the jar results, find out how communities and laws protect forests, act a forest council, and do the stretch worksheet.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Web watch",
+     "mins": 4,
+     "do": "Project step: watch for 3 minutes and write down any eating you see. Say: 'Tomorrow we'll draw our building's food web from all the notes.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Jar results",
+     "mins": 7,
+     "ref": "e3",
+     "do": "Bring jar B out of the cupboard and put it beside jar A. Look at both against white paper. Expect jar A to have a green tinge, often thickest on the side that faced the light. Jar B stays clear or brownish, with no green. Ask: 'What grew in jar A?' (Algae, tiny producers that came in with the soil.) 'Why not in jar B?' (No light, so no photosynthesis.) Say: 'In a pond or the sea, every food chain starts with algae like these.' If jar A is not green yet, leave it for one more week."
+    },
+    {
+     "kind": "talk",
+     "title": "People who protect forests",
+     "mins": 8,
+     "do": "Read your child the perspectives about the Bishnois and the sacred groves. Then say: 'India also has laws. The Wildlife Protection Act of 1972 made it a crime to hunt protected animals. Project Tiger began in 1973 to protect tigers by protecting their whole forests. A national park protects all its wild animals and plants, and people may not graze cattle or cut trees there. A wildlife sanctuary also protects animals, but allows some local uses.' Ask: 'Why does protecting the tiger protect the deer, the grass and the river too?' (The tiger needs all of them, so the whole forest must be kept.)"
+    },
+    {
+     "kind": "talk",
+     "title": "The women of Reni",
+     "mins": 8,
+     "ref": "v3",
+     "do": "Tell the story in Voice v3, about Gaura Devi and the Chipko movement. Ask the voice question. Then ask: 'Whose names do people usually remember from Chipko? Whose did they forget?'"
+    },
+    {
+     "kind": "act",
+     "title": "The forest council",
+     "mins": 8,
+     "ref": "a4",
+     "do": "Do Activity a4. A builder wants to cut a small forest for a road. Each family member plays one being at the council: a tiger, a deer, a fig tree, a mushroom, and the builder. Each one says in two or three sentences what the forest gives them and what would happen to them. The builder speaks last. Then everyone decides together what to do."
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "ref": "ws2",
+     "do": "Do Worksheet ws2 (stretch). It uses new places and new animals. Your child may say the written answers aloud while you write them. Mark it together."
+    }
+   ],
+   "need": [
+    "the two jars",
+    "a sheet of white paper",
+    "Worksheet ws2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Our building's web, check and teach it back",
+   "goal": "Draw the real food web of your building, think hard, check, and teach it back.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Our building's food web",
+     "mins": 8,
+     "do": "Finish the project. Your child reads all the watching notes and draws the food web of your building: every living thing they saw, and an arrow from each food to each eater. Add the plants and the decomposers, even if you didn't see them eat. Ask: 'Who is the top predator in our building?' (Often the crow, a lizard, a spider or a cat.) 'What would happen if all the lizards left?' (More moths and mosquitoes.)"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "ref": "ws3",
+     "do": "Do Worksheet ws3 (challenge). It has number puzzles and questions scientists still argue about. Praise reasons and evidence more than the right letter. Your child may answer the written questions aloud while you write."
+    },
+    {
+     "kind": "check",
+     "title": "Check",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time, without looking at any notes. Tick the ones answered well. For any missed answer, look at the paddy field web, the water cups or the rats and snakes graph for a minute, then ask again in other words. If fewer than 5 are right, repeat the Day 3 water-pouring activity."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child is the teacher and you are the student. Using the building food web, the rats and snakes graph and the water cups, they teach you in 5 minutes: what a food web is, why there are so few top predators, and what happens when a predator is removed. Ask one 'why' question as the student, such as 'Why can't a lion live on sunlight?'"
+    },
+    {
+     "kind": "think",
+     "title": "One big question",
+     "mins": 5,
+     "do": "Choose one of the big questions and ask it. Listen to your child's answer and their reasons, and give your own view too. There is no right answer. End by asking: 'Which living thing in our building would you like to watch more closely?'"
+    }
+   ],
+   "need": [
+    "all the watching notes",
+    "a big sheet of paper",
+    "Worksheet ws3"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Chains, levels and energy",
+   "day": 4,
+   "sections": [
+    [
+     "A. Who makes, who eats, who breaks down",
+     [
+      {
+       "t": "sort",
+       "p": "Sort each living thing. Does this living thing make their own food, eat other living things, or break down dead things?",
+       "items": [
+        "paddy plant",
+        "neem tree",
+        "green algae in a pond",
+        "grasshopper",
+        "rat snake",
+        "crow",
+        "mushroom",
+        "mould on old bread"
+       ],
+       "cats": [
+        "producer",
+        "consumer",
+        "decomposer"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Look at this food chain: paddy plant → rat → rat snake → snake eagle. Which way do the arrows point?",
+       "opts": [
+        "from the food to the eater",
+        "from the eater to the food",
+        "from the biggest to the smallest"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A green plant makes sugar from carbon dioxide and water, using the energy of sunlight. This is called ____.",
+       "a": [
+        "photosynthesis"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each word to an example.",
+       "pairs": [
+        [
+         "herbivore",
+         "a goat eating grass"
+        ],
+        [
+         "carnivore",
+         "a rat snake eating a rat"
+        ],
+        [
+         "omnivore",
+         "a crow eating rice and insects"
+        ],
+        [
+         "scavenger",
+         "a vulture eating a dead cow"
+        ],
+        [
+         "decomposer",
+         "mould breaking down old bread"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Where the energy goes",
+     [
+      {
+       "t": "mcq",
+       "p": "The grass in a field holds 1,000 units of food energy. Grasshoppers eat the grass. About how many units become grasshopper body?",
+       "opts": [
+        "about 100",
+        "about 500",
+        "all 1,000"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "At each step of a food chain, most of the energy does not pass on. Where does most of it go?",
+       "opts": [
+        "it is used for living and leaves the body as heat",
+        "it is stored in the bones",
+        "it goes back to the Sun"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In the chain paddy plant → rat → rat snake → snake eagle, which feeding level is the rat snake on?",
+       "opts": [
+        "secondary consumer",
+        "producer",
+        "primary consumer"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "A forest has thousands of deer but only a few tigers. Explain why, using what you learned about energy.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Arjun draws a food chain: grass → grasshopper → frog → snake. He wants to add five more animals on top, each eating the one below. Why would that be very unlikely in a real field?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Webs, cycles and balance",
+   "day": 7,
+   "sections": [
+    [
+     "A. Change one thing",
+     [
+      {
+       "t": "mcq",
+       "p": "In a paddy field, rat snakes eat rats and frogs. The farmers kill all the rat snakes. What is most likely to happen next?",
+       "opts": [
+        "there will be more rats, and more paddy will be eaten",
+        "there will be fewer rats",
+        "nothing will change"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In the rats and snakes game, the rats rose first, and then the snakes rose. Why did the snakes rise after the rats?",
+       "opts": [
+        "with plenty of rats, more snakes caught enough to survive and have young",
+        "the snakes began to eat paddy",
+        "the rats turned into snakes"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Lantana was brought to India as a garden plant. Cattle don't eat lantana's leaves, and birds spread the seeds. Why has lantana spread so far in the forests?",
+       "opts": [
+        "few animals eat lantana, and birds carry the seeds far",
+        "lantana is taller than every tree",
+        "people plant lantana in every forest"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "A food web of 20 kinds of living things loses one kind of insect. Explain why a web is less likely to fall apart than a single food chain.",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "B. Decomposers and producers",
+     [
+      {
+       "t": "fill",
+       "p": "Mould, mushrooms and bacteria break down dead plants and animals. They are called ____.",
+       "a": [
+        "decomposers",
+        "decomposer"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Meenakshi left three pieces of bread in closed bags: one dry on a shelf, one damp on a shelf, and one damp in the fridge. Which one grew the most mould?",
+       "opts": [
+        "the damp piece on the shelf",
+        "the dry piece on the shelf",
+        "the damp piece in the fridge"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Deep in the sea, hot water with chemicals pours out of cracks in the sea floor. There is no sunlight. Who are the producers there?",
+       "opts": [
+        "bacteria that make food using chemicals from the water",
+        "green plants",
+        "fish"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "In the jar test, the jar on the sunny windowsill turned green, and the jar in the dark cupboard did not. What does this tell you about where food chains begin?",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "C. People who protect",
+     [
+      {
+       "t": "match",
+       "p": "Match each one to what it is.",
+       "pairs": [
+        [
+         "Chipko",
+         "village women in the Himalaya who held on to trees to stop them being cut"
+        ],
+        [
+         "Bishnois",
+         "a community in Rajasthan whose rules forbid cutting green trees"
+        ],
+        [
+         "sacred grove",
+         "a patch of forest that a village keeps uncut for its gods"
+        ],
+        [
+         "national park",
+         "land where the law protects all wild animals and plants"
+        ]
+       ]
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Numbers, puzzles and arguments",
+   "day": 8,
+   "sections": [
+    [
+     "A. Think with numbers",
+     [
+      {
+       "t": "mcq",
+       "p": "Scientists estimate that a forest needs about 500 deer and other prey animals alive to feed one tiger year after year. How many prey animals would it need to feed 4 tigers?",
+       "opts": [
+        "about 2,000",
+        "about 200",
+        "about 504"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Kavya's farm grows rice. She can feed the rice to people, or feed it to hens and sell the eggs. Which way feeds more people from the same field?",
+       "opts": [
+        "feeding the rice to people, because energy is lost at the extra step of the hen",
+        "feeding the hens, because hens make extra food",
+        "both feed the same number"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each living thing in this chain to their feeding level: paddy plant → rat → rat snake → snake eagle.",
+       "pairs": [
+        [
+         "paddy plant",
+         "producer"
+        ],
+        [
+         "rat",
+         "primary consumer"
+        ],
+        [
+         "rat snake",
+         "secondary consumer"
+        ],
+        [
+         "snake eagle",
+         "tertiary consumer"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Energy flows through a food chain once and leaves as heat. But ____ like carbon are used again and again.",
+       "a": [
+        "atoms",
+        "nutrients",
+        "matter"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. What scientists know, and what they argue about",
+     [
+      {
+       "t": "sort",
+       "p": "Is this settled, or are scientists still arguing about it?",
+       "items": [
+        "plants make food using sunlight",
+        "only part of the food's energy passes up each step",
+        "food chains are short only because the energy runs out",
+        "nature always goes back to one fixed balance",
+        "decomposers return nutrients to the soil",
+        "the numbers of hares and lynx in Canada rose and fell about every ten years"
+       ],
+       "cats": [
+        "settled",
+        "still argued about"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In 1958, China killed huge numbers of sparrows to save grain. A bird scientist, Zheng Zuoxin, looked at what sparrows had eaten. What did he find in spring and summer?",
+       "opts": [
+        "many insects, which they also fed to their chicks",
+        "only rice",
+        "nothing at all"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "In Canada, the hares and the lynx who hunt them rose and fell. One scientist says the lynx caused it. Another says the hares' food caused it. Plan a test that could tell which one matters more.",
+       "lines": 4
+      }
+     ]
+    ],
+    [
+     "C. Your view",
+     [
+      {
+       "t": "write",
+       "p": "Some people call the rat snake a pest. Others call the rat snake the farmer's friend. Who decides which word is right? What might the snake say?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Is there a 'balance of nature'? Use the rats and snakes game and one real example to give your view.",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "What do decomposers need?",
+   "day": 2,
+   "question": "Does mould grow faster when food is damp, dry, warm or cold?",
+   "need": [
+    "1 slice of bread from a local bakery, or 1 chapati",
+    "3 zip bags, or 3 small steel boxes with tight lids",
+    "a few drops of water",
+    "labels A, B and C",
+    "a fridge"
+   ],
+   "steps": [
+    "Cut the bread into three equal pieces.",
+    "Piece A: leave it dry. Pieces B and C: sprinkle 5 drops of water on each.",
+    "Put each piece in its own bag or box and close it tight. Label them A, B and C.",
+    "Put A and B side by side on a kitchen shelf. Put C in the fridge.",
+    "Look every day without opening them. Draw what you see and write the day.",
+    "After 3 days, compare the three pieces. Then throw them away still closed."
+   ],
+   "predict": "Ask: 'Which piece will grow mould first? Which will grow none? Why do you think so?' Write the guesses on the labels.",
+   "observe": "In 3 to 6 days the damp piece on the shelf (B) grows fuzzy white, green or black spots. The dry piece (A) grows little or none. The piece in the fridge (C) grows little or none in that time. Packaged bread often has substances added to slow mould, so it can take a week or more. Bread from a local bakery or a chapati moulds faster. In a cold month, keep the bags a few days longer.",
+   "why": "Mould is a fungus, a decomposer. Tiny mould spores float in the air everywhere and land on food. When a spore has water, warmth and food, they grow threads into the bread and digest it, and then make new spores, which are the coloured fuzz. Without water, as in the dry piece, they can't grow. In the cold, as in the fridge, they grow very slowly. Decomposers in soil need the same things, which is why dead leaves rot fast in the monsoon and slowly in a dry summer. This is also why we dry, salt or chill food to keep it.",
+   "safety": "Keep the bags or boxes closed. Don't smell or touch the mould, because breathing in the spores can make some people ill. Throw the bags away closed.",
+   "time": "10 min + check daily for 3 to 6 days"
+  },
+  {
+   "id": "e2",
+   "title": "The rats and snakes game",
+   "day": 5,
+   "question": "What happens to the numbers of predators and prey over many generations?",
+   "need": [
+    "tape or a marker to mark a field 40 cm by 50 cm on the floor",
+    "100 paper squares of 2 cm (the rats)",
+    "10 card squares of 12 cm, cut from a cereal box (the snakes)",
+    "paper and a pencil for the table",
+    "2 colours of pencil for the graph"
+   ],
+   "steps": [
+    "Mark a field 40 cm by 50 cm on the floor.",
+    "Make a table with three columns: round, rats, snakes.",
+    "Round 1 starts with 4 rats and 1 snake. Scatter the rats in the field.",
+    "Stand one big step from the field and toss each snake card once onto it. If a card lands outside the field, toss it again.",
+    "Every rat the card touches is eaten. Take them out.",
+    "A snake who ate 3 or more rats survives and has one baby, so add one snake card. A snake who ate fewer than 3 dies, so take that card away. If no snakes are left, add 1, as if a snake came from the next field.",
+    "Every rat left has one baby, so double the rats. If you run out of squares, stop at 100.",
+    "Write the numbers for the next round in the table. Play 10 to 12 rounds.",
+    "Draw a line graph with both lines: rounds along the bottom, numbers going up."
+   ],
+   "predict": "Ask: 'What will happen to the rats when there are many snakes? And to the snakes when there are few rats?'",
+   "observe": "The rats increase fast at first, because one snake card rarely touches a rat in a big field with few rats. When there are about 30 rats, the snakes start catching enough to survive and breed. Soon the snakes increase, the rats fall, and then the snakes starve back down. The two lines go up and down, with the snake line rising after the rat line. Every game is different, because the tosses are partly luck.",
+   "why": "Predators and prey control each other's numbers. Plenty of prey lets more predators survive and raise young. Many predators then eat so many prey that the prey become scarce. With few prey, many predators die or raise no young, and the prey recover. Real numbers, like the hares and lynx in Canada, rise and fall in a similar way, though food, weather and disease also matter. This is a model: it keeps only the main idea, so it can show the pattern quickly.",
+   "safety": "",
+   "time": "25 min"
+  },
+  {
+   "id": "e3",
+   "title": "The light jar and the dark jar",
+   "day": 1,
+   "question": "Do the tiny producers that start a water food chain need light?",
+   "need": [
+    "2 clear glass jars of the same size",
+    "water that has stood overnight",
+    "2 teaspoons of soil from a flower pot",
+    "2 pieces of cloth and 2 rubber bands",
+    "a sunny windowsill and a dark cupboard"
+   ],
+   "steps": [
+    "Fill both jars with the same amount of water that has stood overnight.",
+    "Stir one teaspoon of soil into each jar.",
+    "Cover each jar with cloth and a rubber band, so mosquitoes can't lay eggs.",
+    "Put jar A on a sunny windowsill. Put jar B in a dark cupboard.",
+    "After 3 or 4 days, look at both jars against white paper. Look again after 7 to 10 days.",
+    "If you have a phone camera, zoom in close on the green part of jar A and look for anything moving."
+   ],
+   "predict": "Ask: 'Which jar will change? What will you see? Why do you think so?'",
+   "observe": "In 7 to 10 days jar A usually has a green tinge, often thickest on the glass that faces the light. Jar B stays clear or turns slightly brown, with no green. Sometimes tiny swimming creatures appear in jar A. If jar A is still not green after 10 days, leave it for another week.",
+   "why": "Pot soil holds the tiny resting cells of algae. Algae are producers: like plants, they make food by photosynthesis. In the light they grow and multiply until there are enough to colour the water green. In the dark there is no energy for photosynthesis, so they can't grow. In a pond, a lake or the sea, almost every food chain starts with algae like these. Tiny algae and bacteria in the oceans make about half of all the oxygen that is made on Earth each year.",
+   "safety": "Keep the jars covered. Don't drink the water. Wash hands after handling the soil. Pour the water onto a plant pot when you finish.",
+   "time": "8 min + 7 to 10 days"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Trace your lunch to the Sun",
+   "day": 1,
+   "mins": 12,
+   "need": [
+    "paper and a pencil"
+   ],
+   "steps": [
+    "List everything on your plate from today's lunch.",
+    "For each item, ask: what did this come from? Write the answer with an arrow pointing from the food to the eater.",
+    "Keep going back until you reach a plant or algae. Curd: grass → cow → milk → curd → me. Fish: algae → small fish → bigger fish → me.",
+    "Write SUN at the start of every line, with an arrow to the plant.",
+    "Count how many steps each line has. Which of your foods came most directly from a plant?"
+   ],
+   "outcome": "A page of food chains that all start with the Sun and end with you."
+  },
+  {
+   "id": "a2",
+   "title": "The paddy field web",
+   "day": 2,
+   "mins": 14,
+   "need": [
+    "a big sheet of paper",
+    "coloured pencils"
+   ],
+   "steps": [
+    "Write these names in a big circle: paddy plant, grass, algae in the water, grasshopper, rat, frog, small fish, spider, dragonfly, rat snake, egret, barn owl, snake eagle, mould and bacteria.",
+    "Colour the producers green, the plant-eaters yellow, the meat-eaters red and the decomposers brown.",
+    "The parent reads out who eats whom. Draw each arrow from the food to the eater.",
+    "Draw an arrow from every living thing to the mould and bacteria, because decomposers break down everyone who dies.",
+    "Count the arrows going into each animal. Who has the most kinds of food?"
+   ],
+   "outcome": "A food web of a real Indian paddy field, with every feeding level coloured."
+  },
+  {
+   "id": "a3",
+   "title": "Pour the energy",
+   "day": 3,
+   "mins": 12,
+   "need": [
+    "a 1-litre jug of water",
+    "a measuring cup",
+    "a steel tumbler",
+    "a small cup",
+    "a teaspoon or a dropper",
+    "a bottle cap",
+    "a kitchen sink"
+   ],
+   "steps": [
+    "Fill the jug with 1 litre of water. This is all the food energy in the grass of one field.",
+    "Measure 100 ml into the tumbler. Pour the rest of the jug down the sink. The tumbler is what the grasshoppers get.",
+    "Measure 2 teaspoons (10 ml) from the tumbler into the small cup. Pour the rest away. This is what the frogs get.",
+    "Put about 20 drops (1 ml) from the small cup into the bottle cap. Pour the rest away. This is what the snakes get.",
+    "Line up the jug, the tumbler, the cup and the cap. Say what each one stands for."
+   ],
+   "outcome": "A row of containers that shows the energy pyramid: 1 litre for the grass, a few drops for the snakes."
+  },
+  {
+   "id": "a4",
+   "title": "The forest council",
+   "day": 7,
+   "mins": 8,
+   "need": [
+    "5 paper slips with the roles written on them"
+   ],
+   "steps": [
+    "Write five roles on slips: tiger, deer, fig tree, mushroom, builder. Each person takes one. If you are fewer, one person plays two.",
+    "The builder explains the plan: a road will be cut through the small forest.",
+    "Each being speaks for up to one minute: what the forest gives them, who they eat or feed, and what will happen to them if the forest is cut.",
+    "The builder speaks last and answers them.",
+    "Everyone decides together: cut, don't cut, or find another way. Say why."
+   ],
+   "outcome": "Each player has spoken for one being in the web, and the family has made a decision with reasons."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Raymond Lindeman (1915–1942), ecologist, USA",
+   "idea": "For his doctoral work, Lindeman studied a small lake in Minnesota called Cedar Bog Lake. His wife, Eleanor Hall Lindeman, worked beside him on the lake. They measured the living things at each feeding level, from the algae to the fish. Lindeman then worked out how much food energy passed from one level to the next. He showed that only a small part passes up each step, and the rest is used for living. His paper treated a lake as energy flowing through feeding levels.",
+   "then": "The reviewers of the journal Ecology recommended rejecting his paper, saying it was too much theory and too little data. His teacher at Yale, G. Evelyn Hutchinson, argued for it, and the journal printed it in 1942. Lindeman died of an illness that year, aged 27, months before it came out.",
+   "now": "Accepted. His paper is now one of the most famous in ecology. Later measurements in lakes, fields, forests and seas found that the share passed on is often between a twentieth and a fifth. People round this to a tenth, so it is easy to remember.",
+   "status": "accepted",
+   "ask": "Lindeman's paper was nearly rejected, and later became famous. How can a new idea be right even when experts first say no? What would you need to see to change your mind?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Charles Elton (1900–1991), Britain, the fur records of Canada, and Charles Krebs's test in the Yukon (1986–1996)",
+   "idea": "Elton was a young British ecologist who made food chains and the pyramid of numbers famous in his book Animal Ecology (1927). He studied the fur records of the Hudson's Bay Company in Canada, which counted the furs that trappers sold each year for about a hundred years. Many of the trappers were Indigenous people of Canada. The furs of snowshoe hares and of lynx, the wild cats who hunt them, rose and fell about every ten years, with the lynx a little behind the hares.",
+   "then": "Scientists argued about the cause. Some said the lynx and other predators drove the hares down. Others said the hares ran short of food, or caught diseases when there were too many of them.",
+   "now": "Debated, though much better understood. From 1986 to 1996, Charles Krebs and his team tested it near Kluane Lake in the Yukon. They gave extra food to hares in some areas and fenced out predators in others. The biggest rise in hares came where both were done together. So predators and food both matter. Scientists still discuss how much each one counts, and what part fear of predators plays.",
+   "status": "debated",
+   "ask": "The fur counts came from trappers, not scientists. What might such records get wrong? And whose work made Elton's discovery possible?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Gaura Devi (about 1925–1991) and the women of Reni village, Chipko movement, Uttarakhand (1974)",
+   "idea": "In the 1970s, forests in the Himalaya were being sold to contractors for felling, while the villagers who lived there were often refused wood and fodder. In 1973, villagers led by Chandi Prasad Bhatt said they would hug the trees ('chipko') rather than let them be cut. On 26 March 1974, the men of Reni village had been called away. Loggers came to cut the forest above the village. Gaura Devi, who led the village women's group, gathered about 27 women and girls. They stood in front of the loggers and refused to move. They said the forest was like their mother's home. The loggers left.",
+   "then": "The government set up a committee, which agreed that the Reni forest protected the slopes and streams. Felling was stopped there. Later, in 1980, cutting green trees in large parts of the Himalayan forests was banned for 15 years.",
+   "now": "Accepted as history. Chipko is famous around the world. But the men who wrote and spoke about it, such as Chandi Prasad Bhatt and Sunderlal Bahuguna, are often remembered better than Gaura Devi and the village women who stood in front of the axes.",
+   "status": "accepted",
+   "ask": "The women of Reni knew what the forest gave them: wood, fodder, water and safe slopes. The contractors knew what the trees were worth in money. Whose knowledge should count when deciding about a forest?",
+   "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "Daniel Botkin (1937–2020), ecologist, USA: is there a balance of nature?",
+   "idea": "For a long time, many people pictured nature as staying in one steady balance, unless people disturbed it. In 1990 Botkin wrote a book called 'Discordant Harmonies'. He argued that nature never stays still. Forests burn and grow back, rivers change course, the climate shifts and animal numbers rise and fall. He said it is a mistake to try to freeze a forest or a lake as it is in one photograph.",
+   "then": "Many ecologists agreed that nature changes all the time. Some worried that the idea could be misused, as if any harm people cause is fine because 'nature changes anyway'.",
+   "now": "Debated. Most ecologists now agree that nature is always changing, and that a healthy forest is one that can recover after a fire or a storm. But they also agree that some changes, like losing all the top predators or covering a forest with lantana, push a place into a new state that can last a very long time.",
+   "status": "debated",
+   "ask": "In our rats and snakes game, the numbers never stayed still. Would you call that a balance? What would you need to see to say a balance had been broken?",
+   "day": 6
+  }
+ ],
+ "project": {
+  "title": "The food web of our building",
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "steps": [
+   "Choose two watching spots: a window or balcony, and a potted plant or a wall where ants walk (Day 1).",
+   "Watch for 3 minutes every day and write down every time a living thing eats or is about to eat: who, what they ate and the time.",
+   "Count how many different eaters you have seen by Day 5.",
+   "On Day 8, draw the food web of your building from your notes, with an arrow from each food to each eater.",
+   "Add the plants and the decomposers, colour each feeding level, and mark the top predator.",
+   "Show it to the family and tell them one thing that surprised you."
+  ],
+  "outcome": "A real food web of your own building, drawn from eight days of watching."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Hold the Web",
+  "kind": "board",
+  "players": "2–4 (everyone plays together as one team)",
+  "need": [
+   "the printed board",
+   "a die",
+   "one counter for the team",
+   "5 buttons or beans as web tokens"
+  ],
+  "rules": [
+   "Everyone plays as one team. Put 5 web tokens in the middle.",
+   "Take turns to roll the die and move the team counter.",
+   "On an event square, read it aloud. Then say what changes next, and what changes after that: two steps along the web. For example: 'Snakes are killed, so rats increase, so more paddy is eaten.'",
+   "If the others agree the reason makes sense, the team gains 1 token. If nobody can explain it, the team loses 1 token.",
+   "On a square that says 'lose', lose that many tokens. On a square that says 'gain', gain them.",
+   "The team wins by reaching THE WEB HOLDS with at least 3 tokens. If the tokens run out, start again."
+  ],
+  "squares": [
+   "START: sunlight on a paddy field",
+   "A village kills every snake it sees",
+   "Barn owls nest in an old temple tower",
+   "Pesticide kills all the spiders in the field",
+   "Lantana spreads through the forest: lose 1",
+   "Volunteers clear lantana and grass grows back: gain 1",
+   "The frogs of a pond die of a disease",
+   "A tiger reserve is made bigger",
+   "Too many deer are hunted",
+   "Dead leaves are left to rot under the trees: gain 1",
+   "The decomposers in a field are poisoned",
+   "A sacred grove is kept uncut for 300 years: gain 1",
+   "Bees disappear from a mango orchard",
+   "A dry year: less grass grows",
+   "Wild dogs return to a forest full of deer",
+   "A river is dammed and the fish can't swim upstream",
+   "The women of a village stop the loggers: gain 2",
+   "Plastic is eaten by cows on the street: lose 1",
+   "A new road cuts a forest in two",
+   "THE WEB HOLDS"
+  ]
+ },
+ "story": {
+  "title": "Who Was Eating the Paddy?",
+  "text": [
+   "The rats came back to Selvi's village in the month of Thai, when the paddy was cut and carried home.",
+   "Selvi was ten. She lived with her mother and father in a village of Irula families near Chengalpattu, where the fields go flat and green to the edge of the sky. Their house had one room for sleeping and one small room for the paddy, which was stored in a tall bin of dried mud, as high as Selvi's chin.",
+   "A year ago, a cobra had slid into Kannan's kitchen two houses away. Kannan was four, and he screamed so loudly that the whole street came running. Nobody was bitten. But after that, the men of the street decided that every snake was an enemy. Whenever anyone saw a snake, they killed the snake with a stick. Cobras, yes. But also the long brown rat snakes that hunted along the field bunds, and the small striped snakes that lived in the cracks of the walls. By the end of the year, nobody saw snakes at all. People said the street was safe now.",
+   "Selvi's mother, Pachaiammal, said nothing then. Her family had caught snakes and rats for longer than anyone could remember. She knew every snake in the district by the shape of their head and the way they moved. When the men went past with their sticks, she only watched them go.",
+   "Now it was Thai again, and the rats were everywhere.",
+   "They ran along the roof beams at night. They chewed holes in the jute sacks. In the morning there were droppings on the floor of the paddy room and a fine dust of husk around the bottom of the bin, where something had been gnawing. Selvi's father, Murugan, set traps of bamboo and wire. He caught three rats one night, four the next. More came.",
+   "One evening Selvi walked along the bund at the edge of their field and counted the rat holes in the mud. She stopped at forty-two, and that was only one side.",
+   "'A rat mother can have six or eight babies,' her mother said, when Selvi told her. 'And again a few weeks later. And again.'",
+   "The next morning Selvi went into the paddy room to fetch a measure of rice for the pot, and stopped in the doorway.",
+   "Lying across the top of the mud bin was a snake. He was longer than the door was tall, olive-brown, with dark bars near his tail. His body was thick in one place, a round lump halfway along, as if he had swallowed a fist.",
+   "Selvi backed out without a sound and ran for her father.",
+   "Murugan picked up the stick that leaned by the door. He went in fast, his arm already lifting. And then Pachaiammal was in the doorway behind him, with her hand on his wrist.",
+   "'Wait,' she said. 'Look at him first.'",
+   "She held the oil lamp up. The snake lay very still in the light. Only his tongue moved, flicking out and in.",
+   "'That is a sarai pambu,' she said. 'A rat snake. He has no venom.'",
+   "'He is in our paddy,' said Murugan.",
+   "'Is he eating the paddy?'",
+   "Murugan opened his mouth and shut it again. Everybody knew snakes didn't eat paddy.",
+   "'Then what is he eating?' said Pachaiammal.",
+   "They all looked at the lump in the middle of the snake. Selvi looked too. It was about the size of a rat.",
+   "'Last Thai,' said Pachaiammal, 'how many rats did you catch in your traps?'",
+   "Murugan thought. 'Hardly any,' he said. 'Two, maybe. Three.'",
+   "'And this Thai?'",
+   "He didn't answer. He didn't need to.",
+   "Selvi stood very still, and something in her mind turned over. She saw the men with their sticks last year, walking along the bunds. She saw each snake they killed. And she saw what each of those snakes would have done afterwards, if they had been left alone: one rat, and another, and another, every week, all year long. The rats had still been born. They had still had their babies, and their babies had had babies. Only now, nobody had been eating them. All those rats had gone on eating the paddy instead.",
+   "'The snakes were eating the rats,' she said slowly. 'And we killed the snakes.'",
+   "Nobody said anything for a while. Murugan looked at the stick in his hand as if he had never seen it before. Then he leaned it against the wall.",
+   "Pachaiammal fetched a long bamboo pole with a small fork at the end. She slid the fork gently under the snake's body and lifted, and the snake came with it, looping and heavy, not hurrying. She carried him out of the paddy room, across the yard, and down to the edge of the bund where the rat holes were. She lowered the pole to the mud. The snake poured off the end of it and into the nearest hole, and was gone.",
+   "On the way back she stopped beside Selvi. 'Never you,' she said. 'Not until you know them all. The cobra and the viper are not like him.'",
+   "Selvi nodded.",
+   "That night, lying on her mat, she heard a sound from the paddy room: a long, dry rustle, like a rope being pulled slowly through grass. She thought about waking her father. She didn't. She lay in the dark and listened, and counted in her head. One rat, perhaps, before morning. Perhaps two.",
+   "Then she turned over and slept."
+  ],
+  "epiphany": "For the parent: the story turns when Selvi connects last year's killings to this year's rats. A predator keeps the numbers of their prey in check. Remove the predator and the prey multiply, and then they eat more of the plants at the bottom of the chain. The snake in the paddy store is protecting the paddy, not stealing it. Let your child find this from the questions, not from you.",
+  "ask": [
+   "Why were there so many rats this year, and so few last year?",
+   "Why did Pachaiammal ask what the snake was eating, instead of saying what she knew?",
+   "Draw the food chain that was broken last year. Which link was taken out?",
+   "Pachaiammal told Selvi never to catch a snake herself. Why is that wise, even though the rat snake was harmless?",
+   "At the end, why didn't Selvi wake her father?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Energy flows through a food web once, but atoms go round and round.",
+   "more": "Sunlight's energy passes from plant to animal to animal and leaves at every step as heat, so it must keep coming from the Sun. The atoms are different. Decomposers return them to the soil and air, and plants use them again. Show it with two drawings: a straight arrow for energy and a circle for atoms. The water cups show the energy shrinking, and the mouldy bread shows the decomposers at work."
+  },
+  {
+   "idea": "The higher the level, the fewer the eaters, and the easier they are to lose.",
+   "more": "Only about a tenth of the food energy passes up each step, so a field can feed many grasshoppers, fewer frogs and very few snakes. A tiger needs about 500 prey animals alive in their forest. That is why top predators need big, connected forests, and why they vanish first when forests shrink."
+  },
+  {
+   "idea": "Balance in nature is movement, not stillness.",
+   "more": "Predator and prey numbers rise and fall, as in the rats and snakes game and the Canadian fur records. A healthy web is one that keeps recovering. Removing a predator or adding an invasive plant like lantana can push it into a new state that lasts a very long time."
+  }
+ ],
+ "unknowns": [
+  "Why are food chains in nature so short, rarely more than four or five steps? Running out of energy is one reason, but scientists still argue about how much the size of a place and how often it is disturbed matter too.",
+  "How many kinds of living things are there? One careful estimate from 2011 suggests about 8.7 million kinds of plants, animals and fungi, and most have never been named. Nobody knows how many kinds of bacteria there are, and most of the food web in a handful of soil is still unknown.",
+  "When a forest is covered by lantana, or loses its top predators, will it ever go back to how it was? In many places nobody knows yet.",
+  "How much does a top predator shape a whole forest, compared with rain, fire and plants? Scientists are still arguing about famous cases like the wolves of Yellowstone in the USA."
+ ],
+ "big": [
+  "The carbon in your body was once in plants and other animals. When does a carrot become you?",
+  "If numbers in nature are always rising and falling, what does 'balance' mean?",
+  "Who should decide about a forest: the people who live in it, the people who buy its wood, or the animals who need it?",
+  "A tiger depends on the grass, but the grass does not depend on the tiger in the same way. So who is really at the top?",
+  "Is a rat snake in a paddy store an enemy, a friend or neither?"
+ ],
+ "challenge": [
+  {
+   "q": "'Every food chain starts with sunlight and green plants.'",
+   "hint": "Almost every food chain does. But in 1977, scientists in the submarine Alvin explored cracks in the deep sea floor near the Galápagos Islands, where hot water full of chemicals pours out. In total darkness they found giant tube worms, clams and crabs. The producers there are bacteria that make food using energy from chemicals in the water, not from sunlight. Ask: if life can run on chemicals in the dark, where else in the universe might it live?"
+  },
+  {
+   "q": "'Snakes are our enemies. A village without snakes is a safer village.'",
+   "hint": "Some snakes really are dangerous. India has more deaths from snakebite than any other country, and a cobra or a viper must never be touched. But most snakes have no venom, and many, like the rat snake, eat rats and mice that eat our grain and spread disease. Killing every snake lets the rats multiply. The Irula people of Tamil Nadu are famous snake catchers. Their cooperative near Chennai, started in 1978, catches venomous snakes to collect venom for making medicine against snakebite, and then releases them. Ask: what is safer, killing snakes or learning which is which and calling a trained rescuer?"
+  },
+  {
+   "q": "'The sparrows stole China's grain, so killing them would give people more food.'",
+   "hint": "In 1958, China's government listed four pests: rats, flies, mosquitoes and sparrows. People banged pots and drums until sparrows fell from the sky, too tired to fly. The bird scientist Zheng Zuoxin studied what sparrows ate. In winter it was mostly seeds, but in spring and summer, when they fed their chicks, it was mostly insects. He spoke against the killing. Insect pests did increase, and in 1960 the sparrow was taken off the list and the bedbug put on. A terrible famine followed from 1959 to 1961. Historians agree it had many causes, mainly the government's farming policies, so the sparrows were only a small part. Ask: how could you tell what an animal really does in a field before calling them a pest?"
+  },
+  {
+   "q": "'The lion is the king of the jungle and rules the other animals.'",
+   "hint": "A top predator rules nobody. Lions and tigers depend on every level below them, and because only a little energy reaches the top, they are always the fewest. That is why they are the first to disappear when a forest shrinks. And when a lion dies, flies, beetles, bacteria and fungi eat the lion. Ask: if you had to choose, which would a forest miss more, all its tigers or all its decomposers?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "Irula snake catchers of Tamil Nadu",
+   "view": "For generations the Irula people have known how to track, catch and handle snakes and rats in the fields. Today many work in their cooperative near Chennai, catching venomous snakes, collecting venom for medicine and releasing the snakes. Ask: whose knowledge keeps a village safe from both snakes and rats?"
+  },
+  {
+   "who": "Keepers of sacred groves in Kerala and Meghalaya",
+   "view": "Many villages keep a patch of forest that nobody cuts, for a god or the ancestors. In Kerala such a grove is called a kavu, and in Meghalaya there are groves like the one at Mawphlang. Some groves are hundreds of years old and hold plants and animals that have vanished from the land around. Ask: does the reason for keeping a forest matter, if the forest is kept?"
+  },
+  {
+   "who": "Bishnoi communities of Rajasthan",
+   "view": "Bishnoi rules forbid cutting green trees and harming animals. Bishnoi tradition tells that in 1730, at Khejarli near Jodhpur, Amrita Devi and many others gave their lives hugging khejri trees to stop them being cut. Ask: is protecting a tree the same as protecting a food web?"
+  },
+  {
+   "who": "A mushroom under a fig tree",
+   "view": "Nobody puts me at the top of a food chain. But every leaf, every deer and every tiger comes to me in the end, and I give their nutrients back to the soil for the fig tree's roots. Ask: why do food chain drawings usually stop at the tiger and leave out the decomposers?"
+  }
+ ],
+ "books": [
+  {
+   "title": "Who Eats What? Food Chains and Food Webs",
+   "author": "Patricia Lauber",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A clear picture book on how food chains join into webs, and what happens when one link is taken away."
+  },
+  {
+   "title": "Over and Under the Pond",
+   "author": "Kate Messner",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A mother and child canoe across a pond and find the hidden life above and below the water, who eats whom included."
+  },
+  {
+   "title": "Snakes of India: The Field Guide",
+   "author": "Romulus Whitaker and Ashok Captain",
+   "for": "parent reads",
+   "age": "8–10, with a parent",
+   "why": "The standard guide to India's snakes, with photographs. Look at the rat snake together, and learn the few venomous snakes to keep away from."
+  },
+  {
+   "title": "Silent Spring",
+   "author": "Rachel Carson",
+   "for": "parent reads",
+   "age": "adults, with short parts read aloud",
+   "why": "The 1962 book that showed how poisons sprayed on crops pass along food webs into birds, fish and people. A parent can read a page or two of the opening aloud."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is a producer, and why does almost every food chain start with one?",
+   "a": "A producer makes their own food, like a green plant or algae, using sunlight, air and water. Animals can't make food, so every chain needs a producer to bring the Sun's energy in at the start."
+  },
+  {
+   "q": "Name the feeding levels in this chain: paddy plant → rat → rat snake → snake eagle.",
+   "a": "The paddy plant is the producer. The rat is the primary consumer. The rat snake is the secondary consumer. The snake eagle is the tertiary consumer."
+  },
+  {
+   "q": "What is the difference between photosynthesis and respiration?",
+   "a": "Photosynthesis is how green plants make sugar from carbon dioxide and water using sunlight, giving out oxygen. Respiration is how every living thing, plants too, uses oxygen to release energy from food, giving out carbon dioxide."
+  },
+  {
+   "q": "Why are there so few tigers compared with deer and grass?",
+   "a": "Only about a tenth of the food energy passes up each step. The rest is used for living and leaves as heat. So there is a lot of grass, fewer deer and very few tigers. A tiger needs about 500 prey animals alive in their forest."
+  },
+  {
+   "q": "Energy flows one way. What goes round and round?",
+   "a": "Atoms, like carbon. Decomposers break down dead things and return the atoms to the soil and air, and plants take them in again."
+  },
+  {
+   "q": "What did the mould test show that decomposers need?",
+   "a": "Moisture and warmth. The damp piece on the shelf grew the most mould. The dry piece and the piece in the fridge grew little or none."
+  },
+  {
+   "q": "In the rats and snakes game, what happened to the two numbers?",
+   "a": "They rose and fell. The rats rose first. Then the snakes rose because there was plenty to eat. Then the rats fell, and after that the snakes died back. Then the rats rose again."
+  },
+  {
+   "q": "Give two ways people protect forests and animals in India.",
+   "a": "For example: the Chipko women of Reni stood in front of loggers, the Bishnois forbid cutting green trees, villages keep sacred groves, the Wildlife Protection Act of 1972 bans hunting protected animals, and national parks and Project Tiger protect whole forests."
+  }
+ ]
+}

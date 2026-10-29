@@ -1,0 +1,2841 @@
+{
+ "id": "sci.evolution.story-of-life.L3",
+ "title": "How life began: the oldest life and the RNA idea",
+ "level": 3,
+ "summary": {
+  "text": "Every living thing comes from another living thing. So how did the very first life begin? Nobody knows for sure yet. The Earth formed about 4.5 billion years ago. The oldest signs of life we have found are rocks about 3.5 billion years old, built in layers by mats of tiny microbes. These rocks are called stromatolites, and some are found in India too. Before life, the young sea held simple chemicals. Experiments show that some of the building blocks of life can form from these chemicals without any living thing. Many scientists think the first life was RNA, a chain molecule that can carry instructions and can also help make copies of itself. Later, tiny green microbes began to make oxygen. Their oxygen rusted the iron in the sea and changed the air for ever.",
+  "art": "A long ribbon of time across a page: on the left a young, steaming Earth with a dark sea, then domed striped rocks in shallow water, then a sea turning rusty red, and at the far right end a tiny child holding a magnifying glass."
+ },
+ "intro": {
+  "hook": "You came from your mother. She came from her mother, and so on, back and back. A curry leaf plant came from a seed, which came from another curry leaf plant. Every living thing comes from another living thing. So where did the very first living thing come from, when there was nothing alive to come from?",
+  "text": "This is one of the biggest questions in science, and it is still open. In this unit you meet the oldest life we know, which left striped rocks behind. You test what the first oxygen did to iron, with nails in jars of water. You see the white threads of DNA from a banana. And you learn the leading idea about how life began: the RNA idea. Scientists are still testing it, and you can weigh the evidence too.",
+  "art": "A child at a window, holding up a curry leaf, with a dotted line going back from the leaf to a seed, to an older plant, and on into a misty sea with a question mark in it."
+ },
+ "outcomes": [
+  "I can say that every living thing comes from another living thing, and explain why that makes the first life a puzzle.",
+  "I can say when the Earth formed and how old the oldest signs of life are, and place them on a timeline made to scale.",
+  "I can explain what stromatolites are and how tiny microbes built them in layers.",
+  "I can run a fair test with iron nails in water, and use it to explain how the first oxygen made by microbes rusted the iron in the sea.",
+  "I can explain that RNA is a chain of four kinds of letters that can carry instructions, and show how a chain is copied by matching pairs.",
+  "I can describe the RNA idea, and say why it is still an idea that scientists are testing.",
+  "I can tell how Wöhler and Miller showed that the chemicals of life can form without a living thing.",
+  "I can name the main ideas about where life began, and say that nobody knows yet."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Cell",
+   "meaning": "The smallest living unit. Every living thing is made of one cell or many cells. Each cell has a thin skin around a watery inside.",
+   "example": "A bacterium is one cell. Your body is made of tens of trillions of cells.",
+   "art": "A round cell with a thin skin, a watery inside and a tangle of thread in the middle."
+  },
+  {
+   "term": "Microbe",
+   "meaning": "A living thing too small to see without a microscope. Bacteria are microbes.",
+   "example": "The bacteria that turn milk into curd are microbes.",
+   "art": "A drop of water under a magnifying glass, full of tiny rod-shaped and round microbes."
+  },
+  {
+   "term": "Molecule",
+   "meaning": "A tiny group of atoms joined together. Everything around you is made of molecules.",
+   "example": "Water is made of water molecules. Each one is two hydrogen atoms joined to one oxygen atom.",
+   "art": "Three balls stuck together, one big and two small, labelled 'a water molecule'."
+  },
+  {
+   "term": "Billion",
+   "meaning": "A thousand million. Written out, it is 1 followed by 9 zeros: 1,000,000,000.",
+   "example": "The Earth is about 4.5 billion years old. In Indian numbers, one billion is 100 crore.",
+   "art": "A row of 1 followed by nine zeros, with the words 'one thousand million'."
+  },
+  {
+   "term": "Fossil",
+   "meaning": "Any trace of a living thing from long ago, kept in rock. It can be a bone, a shell, a print, or a shape left by tiny living things.",
+   "example": "A shell turned to stone, or a dinosaur footprint, is a fossil.",
+   "art": "A grey stone with the shape of a spiral shell pressed into it."
+  },
+  {
+   "term": "Stromatolite",
+   "meaning": "A rock built up in thin layers by mats of microbes in shallow water. The microbes trap mud and sand, then grow up through it, again and again.",
+   "example": "Stromatolites about 3.5 billion years old are found in Western Australia. Ones about 2 billion years old are found near Vempalle, in the Kadapa district of Andhra Pradesh.",
+   "art": "A cut-open dome of rock showing many thin wavy layers, like the inside of a stack of dosas."
+  },
+  {
+   "term": "Cyanobacteria",
+   "meaning": "Tiny bacteria that make their food from sunlight, water and air, as plants do. As they do this, they give out oxygen.",
+   "example": "The dark green or black film on a damp wall in the monsoon often holds cyanobacteria.",
+   "art": "A thread of tiny green beads, with little bubbles of oxygen rising from it."
+  },
+  {
+   "term": "Oxygen",
+   "meaning": "A gas in the air that we need to breathe. Almost all of it was made by living things that use sunlight, such as cyanobacteria, algae and plants.",
+   "example": "Every breath you take brings oxygen into your body.",
+   "art": "A child breathing in, with small O shapes floating into her nose from a green leaf."
+  },
+  {
+   "term": "Rust",
+   "meaning": "The orange-brown stuff that forms when iron joins with oxygen. Water helps rust form.",
+   "example": "An old iron gate that stays out in the rain turns rusty.",
+   "art": "An iron nail half grey and half covered in orange-brown rust."
+  },
+  {
+   "term": "DNA",
+   "meaning": "A very long chain molecule inside every cell. It holds the instructions for building and running that living thing. Its chain uses four kinds of chemical letters.",
+   "example": "Your DNA came half from your mother and half from your father.",
+   "art": "A twisted ladder with four colours of rungs."
+  },
+  {
+   "term": "RNA",
+   "meaning": "A chain molecule, a close cousin of DNA. Its four chemical letters are called A, U, C and G. In every cell, RNA carries copies of instructions from the DNA and helps build proteins.",
+   "example": "In your cells, RNA copies of instructions travel from the DNA to the cell's protein-building machines.",
+   "art": "A single wiggly strand with beads in four colours, labelled A, U, C and G."
+  },
+  {
+   "term": "Protein",
+   "meaning": "A molecule made of a chain of smaller molecules called amino acids, folded into a shape. Proteins do most of the work in a cell.",
+   "example": "Your hair and nails are mostly a protein called keratin. Dal is rich in protein.",
+   "art": "A long chain of beads folding up into a knotted ball."
+  },
+  {
+   "term": "Amino acid",
+   "meaning": "A small molecule. Living things join amino acids into chains to make proteins.",
+   "example": "Stanley Miller made amino acids in a glass flask with gases, water and electric sparks.",
+   "art": "A small bead with a tag on it, joining a chain of other beads."
+  },
+  {
+   "term": "Ribozyme",
+   "meaning": "A piece of RNA that does a job in the cell, such as cutting or joining other molecules. It is RNA acting like a tool.",
+   "example": "Thomas Cech and Sidney Altman found ribozymes in the early 1980s.",
+   "art": "A strand of RNA folded into a hook shape, holding two small molecules together."
+  },
+  {
+   "term": "Hydrothermal vent",
+   "meaning": "A crack in the sea floor where hot water full of minerals pours out from deep inside the Earth.",
+   "example": "Vents were first seen in 1977, deep in the Pacific Ocean near the Galápagos Islands.",
+   "art": "A tall chimney on a dark sea floor puffing out black, smoky water, with shrimps and worms around it."
+  },
+  {
+   "term": "Meteorite",
+   "meaning": "A rock from space that falls to the ground on Earth.",
+   "example": "The Murchison meteorite fell in Australia in 1969. It holds amino acids that formed in space.",
+   "art": "A dark, lumpy stone lying in a small dent in the ground."
+  },
+  {
+   "term": "Hypothesis",
+   "meaning": "An idea that tries to explain something, and that can be tested.",
+   "example": "'Life began as RNA' is a hypothesis. Scientists test it with experiments.",
+   "art": "A child with a speech bubble that says 'I think...' and a test tube in her hand."
+  },
+  {
+   "term": "Ancestor",
+   "meaning": "A living being that someone came from, long ago. Your grandmothers and great-grandmothers are your ancestors.",
+   "example": "All living things today share very old ancestors: the first cells.",
+   "art": "A family tree drawn as a banyan tree, with a small round cell at the bottom of the trunk."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "Every living thing comes from another living thing",
+   "status": "defined",
+   "definition": "Today, every living thing comes from another living thing of its own kind. A cell comes only from another cell.",
+   "description": "Puppies come from dogs. A mango tree grows from a mango seed, and the seed came from another mango tree. Even bacteria come only from other bacteria, by splitting in two. Scientists tested this for hundreds of years, and it has always held. That is what makes the first life such a puzzle. If life comes only from life, how did the first life begin? Something must once have been different.",
+   "examples": [
+    "You came from your parents, and they came from theirs.",
+    "Curd sets only when you add a little old curd, because the curd bacteria come from other curd bacteria."
+   ],
+   "perspectives": [],
+   "art": "A chain of mothers and babies going back: a girl, her mother, a grandmother, then a monkey-like ancestor, then a fish, then a single round cell at the end.",
+   "context": "This card says why the first life is a puzzle."
+  },
+  {
+   "concept": "The young Earth",
+   "status": "defined",
+   "definition": "The Earth formed about 4.5 billion years ago. It had oceans of liquid water by about 4.4 billion years ago. The air then had almost no oxygen.",
+   "description": "At first the Earth was very hot, and rocks from space crashed into it often. As it cooled, water fell as rain and filled the oceans. We know there was liquid water very early because of tiny crystals called zircons, found in Western Australia. Some are about 4.4 billion years old, and their chemistry shows they formed with water around. The young sea had no fish, no seaweed and no living thing at all. It held salts, iron, and simple chemicals made of carbon, nitrogen, hydrogen and oxygen.",
+   "examples": [
+    "Zircon crystals from the Jack Hills in Western Australia are about 4.4 billion years old.",
+    "A 4.5 metre time string, with one metre for each billion years, shows how long the Earth had no life."
+   ],
+   "perspectives": [],
+   "art": "A young Earth seen from space: dark seas, smoking volcanoes on small islands, and a big Moon close in the sky.",
+   "context": "This card is about what the Earth was like before there was any life."
+  },
+  {
+   "concept": "The oldest life we know: stromatolites",
+   "status": "defined",
+   "definition": "Stromatolites are rocks built in layers by mats of microbes in shallow water. The oldest ones we are fairly sure of are about 3.5 billion years old.",
+   "description": "A mat of microbes is a slimy carpet of millions of tiny living things. Mud and sand settle on the mat and stick to it. The microbes then grow up through the mud towards the light, and make a new mat on top. Year after year, this builds up a dome of thin layers. Over time the domes turn to stone. The oldest stromatolites we know are in the Pilbara, in Western Australia. Abigail Allwood, an Australian geologist, and her team showed in 2006 that a reef there, about 3.4 billion years old, was built by living things. Living stromatolites still grow today at Shark Bay, in Australia, where the water is too salty for snails that would eat the mats.",
+   "examples": [
+    "Stromatolites about 2 billion years old are found near Vempalle in the Kadapa district of Andhra Pradesh.",
+    "Jhamarkotra near Udaipur and Bhojunda near Chittorgarh, in Rajasthan, are stromatolite parks you can visit."
+   ],
+   "perspectives": [],
+   "art": "A row of living stromatolite domes, like grey cushions, sticking out of clear shallow water at Shark Bay, with a cut-open one beside it showing its layers.",
+   "context": "This card is about the oldest life we have found signs of, and how they left those signs."
+  },
+  {
+   "concept": "How the first oxygen rusted the sea",
+   "status": "defined",
+   "definition": "Cyanobacteria were among the first living things to make oxygen. Their oxygen joined with iron in the sea and made rust, which sank in layers. Later the oxygen filled the air.",
+   "description": "Iron rusts only when oxygen reaches it. The young sea had almost no oxygen, so iron could stay dissolved in the water, the way salt stays dissolved. Then cyanobacteria began making oxygen from sunlight and water. Where their oxygen met the iron, rust formed and settled on the sea floor. Layer after layer, it made striped rocks called banded iron formations. Most scientists think much of this rust formed because of the microbes. By about 2.4 billion years ago, the extra oxygen also began to fill the air. Scientists call this the Great Oxidation Event. Much of the iron ore mined in India, at Kudremukh, Sandur and Bailadila, comes from banded iron rocks.",
+   "examples": [
+    "In the nail test, the nail in open water rusted, but the nail sealed under oil stayed almost shiny.",
+    "Banded iron rock has red stripes of rust between grey or black stripes."
+   ],
+   "perspectives": [],
+   "art": "A cut piece of rock with red and grey stripes, and above it a sea where green microbes give out bubbles that turn the water rusty.",
+   "context": "This card explains what the first oxygen did, and what the nail test tells us about it."
+  },
+  {
+   "concept": "The building blocks of life can form without life",
+   "status": "defined",
+   "definition": "Some molecules that living things are made of, such as amino acids, can form from simple chemicals with no living thing involved.",
+   "description": "People once thought that only living things could make the chemicals of life. In 1828, Friedrich Wöhler made urea, a chemical found in urine, from chemicals that were not alive. In 1952, Stanley Miller filled a glass flask with water and the gases methane, ammonia and hydrogen. He made electric sparks in it, like lightning, for a week. The water turned brown, and in it he found amino acids, the building blocks of proteins. Amino acids have also been found in meteorites, such as the Murchison meteorite that fell in Australia in 1969. In 2008, Zita Martins and her team found uracil, one of the letters of RNA, in the same meteorite.",
+   "examples": [
+    "Miller's flask made the amino acid glycine, which is also in your body.",
+    "Meteorites show that some building blocks of life form even in space."
+   ],
+   "perspectives": [],
+   "art": "A glass flask of brownish water with two metal points making a spark, and the words 'amino acids' written beside it.",
+   "context": "This card is about the experiments that showed life's chemicals can be made without life."
+  },
+  {
+   "concept": "RNA: a chain of four letters",
+   "status": "defined",
+   "definition": "RNA is a chain molecule. Its chain is made of four kinds of small parts, written as A, U, C and G. The order of the letters can carry instructions.",
+   "description": "Think of a long bead necklace with beads in four colours. The order of the colours is a message. RNA is like that, but the beads are molecules. The letters also pair up: A pairs with U, and C pairs with G. So a chain can attract loose letters to make a partner chain, letter by letter. Copy the partner, and you get the first chain back. DNA works in the same way, with T in place of U. In your cells today, RNA carries copies of instructions from the DNA to the cell's protein-building machines.",
+   "examples": [
+    "The chain A-U-G-C has the partner chain U-A-C-G.",
+    "Copy the partner U-A-C-G again, and you get A-U-G-C back."
+   ],
+   "perspectives": [],
+   "art": "Two strips of paper side by side, one with A U G C and the other with U A C G, with lines joining the pairs.",
+   "context": "This card is about what RNA is and how its letters pair up to make copies."
+  },
+  {
+   "concept": "RNA that does jobs",
+   "status": "defined",
+   "definition": "Some RNA molecules fold into shapes that do jobs, such as cutting or joining other molecules. These are called ribozymes.",
+   "description": "For a long time, scientists thought only proteins could do the jobs in a cell. Then, in the early 1980s, Thomas Cech and Sidney Altman found RNA molecules that do jobs too. They won the Nobel Prize in 1989. Then came an even bigger find. Every cell has machines called ribosomes, which join amino acids into proteins. In 2000, scientists showed that the part of the ribosome that does the joining is made of RNA, not protein. Venkatraman Ramakrishnan, born in Chidambaram in Tamil Nadu, Ada Yonath from Israel and Thomas Steitz from the United States worked out the ribosome's shape. They won the Nobel Prize in 2009. Ada Yonath worked on it for about 20 years, while many scientists said it could not be done.",
+   "examples": [
+    "Every protein in your body was put together by ribosomes, at a working centre made of RNA.",
+    "Some medicines kill harmful bacteria by jamming their ribosomes."
+   ],
+   "perspectives": [],
+   "art": "A ribosome drawn as two lumpy halves, with an RNA strand threading through and a chain of beads coming out of the top.",
+   "context": "This card is about RNA that does jobs, which is a big clue in the RNA idea."
+  },
+  {
+   "concept": "The RNA idea",
+   "status": "idea",
+   "definition": "",
+   "description": "This is an idea, not a settled fact. In every cell today, DNA holds the instructions, and proteins do most of the work. But each needs the other: proteins are needed to copy DNA, and DNA is needed to make proteins. So which came first? RNA can do both jobs. It can carry instructions, like DNA, and some RNA can do jobs, like proteins. So many scientists think the first life was RNA that could help copy itself. Later, DNA took over keeping the instructions, and proteins took over most of the jobs. Francis Crick, Leslie Orgel and Carl Woese suggested this in the 1960s, and Walter Gilbert named it 'the RNA world' in 1986. In 2009, Tracey Lincoln and Gerald Joyce made two RNA molecules in the lab that copy each other. But nobody has yet made RNA that copies itself from scratch, the way the idea needs.",
+   "examples": [
+    "The ribosome's working centre is made of RNA, which may be left over from an RNA world.",
+    "In the lab, RNA molecules can be made that join other RNA pieces together."
+   ],
+   "perspectives": [
+    {
+     "who": "Scientists who favour the RNA idea",
+     "explanation": "RNA can carry instructions and do jobs, and the ribosome's working centre is made of RNA. So RNA could have come before DNA and proteins."
+    },
+    {
+     "who": "Scientists who favour 'metabolism first'",
+     "explanation": "RNA is hard to make and breaks easily. They think chains of chemical reactions, maybe on mineral surfaces at vents, came first, and RNA came later."
+    }
+   ],
+   "art": "A chicken and an egg with a question mark between them, and next to them a strand of RNA holding both a message scroll and a tiny tool.",
+   "context": "This card is about the leading idea of how life began. It is still being tested."
+  },
+  {
+   "concept": "Cell skins that form by themselves",
+   "status": "defined",
+   "definition": "Molecules called fatty acids can gather in water to make tiny hollow bubbles with a thin skin. Many scientists think the first cells had skins like these.",
+   "description": "A fatty acid molecule has one end that mixes with water and one end that stays away from water. In water, many of them line up side by side, with their water-shy ends tucked in. They close up into tiny hollow bubbles, each with a skin two molecules thick. In 1985, David Deamer showed that fatty acids taken from the Murchison meteorite form bubbles like these. In 2003, Jack Szostak's team showed that clay helps these bubbles form, and that RNA can stick to the same clay. A bubble with RNA inside might have been the first cell. Soap is made from fatty acids too.",
+   "examples": [
+    "Soap bubbles get their thin skin from soap molecules lining up.",
+    "A cell's skin today is made of similar molecules, called lipids."
+   ],
+   "perspectives": [],
+   "art": "Tiny round bubbles in water, each with a skin of little pins lined up with their heads out, and one bubble holding a short RNA strand.",
+   "context": "This card is about how the first cells might have got their skins."
+  },
+  {
+   "concept": "Copying with small mistakes makes new kinds",
+   "status": "defined",
+   "definition": "When a chain is copied, a few letters sometimes come out wrong. These changes are called mutations. Copies that last and copy well become more common.",
+   "description": "No copying is perfect. If a copy has one changed letter, its own copies carry that change too. Most changes make no difference, and some make a copy worse. A few make a copy better at lasting or copying. Over many copies, the better ones become more common. This is how one kind of life slowly becomes many kinds. It still happens today, in every living thing. Cells now have ways to check and fix their copies, so their mistakes are very rare.",
+   "examples": [
+    "Bacteria that change in a way that lets them survive a medicine become more common in a body that takes the medicine.",
+    "In the copy-mistakes activity, a chain copied ten times ends up with letters that differ from the first chain."
+   ],
+   "perspectives": [],
+   "art": "A row of RNA strands, each copied from the one before, with one letter changing colour along the way.",
+   "context": "This card is about how copying with small mistakes can make new kinds of life."
+  },
+  {
+   "concept": "Where did life begin?",
+   "status": "debated",
+   "definition": "",
+   "description": "Nobody knows where life began. There are a few main ideas, and each has some evidence for it.",
+   "examples": [
+    "At hot vents on the sea floor, where hot water full of minerals meets cold sea.",
+    "In warm pools on land, which fill with rain and dry out again and again.",
+    "Some think life, or its building blocks, came from space."
+   ],
+   "perspectives": [
+    {
+     "who": "Scientists who favour sea-floor vents, such as Michael Russell and Nick Lane",
+     "explanation": "Vents give warmth, minerals and a steady flow of energy. Deborah Kelley found a field of vents called the Lost City in 2000, and its chemistry may be like that of the first life."
+    },
+    {
+     "who": "Scientists who favour warm pools on land, such as David Deamer and John Sutherland",
+     "explanation": "On land, pools dry out and fill up again. Drying helps small molecules join into chains, and fatty acid bubbles form well in fresh water. Charles Darwin guessed a 'warm little pond' in a letter in 1871."
+    },
+    {
+     "who": "A few scientists, such as Fred Hoyle and Chandra Wickramasinghe",
+     "explanation": "They suggested that life itself came to Earth from space. Most scientists do not accept this. It would also not explain how life began in the first place."
+    }
+   ],
+   "art": "Three pictures side by side: a smoking chimney on a dark sea floor, a steaming pool on a volcanic island, and a meteorite falling through the sky.",
+   "context": "This card gives the main ideas about where life began. Scientists still argue about them."
+  },
+  {
+   "concept": "All life shares one family",
+   "status": "defined",
+   "definition": "All living things today share the same ancestors, far back in time. Scientists call the most recent ancestor of all life today LUCA, the Last Universal Common Ancestor.",
+   "description": "Bacteria, mushrooms, mango trees, crows and you all use DNA. All use RNA to carry instructions, and ribosomes to build proteins. All read the same three-letter code to choose amino acids. It is very unlikely that all of this matched by chance. So scientists agree that all life today comes from one shared family of early cells. Nobody knows exactly when LUCA lived. It was probably more than 3.5 billion years ago.",
+   "examples": [
+    "Your cells and a banana's cells both hold DNA, as the banana DNA test shows.",
+    "A bacterium's ribosome and your ribosome are built in a very similar way."
+   ],
+   "perspectives": [],
+   "art": "A huge family tree with bacteria, mushrooms, plants, birds, fish and people on its branches, all growing from one small trunk with a round cell at its root.",
+   "context": "This card is about why scientists say all life is one family."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "The Earth is about 4.5 billion years old.",
+   "evidence": "Scientists measure the age of rocks and meteorites from the slow, steady change of some atoms into others, called radioactive decay."
+  },
+  {
+   "text": "Life has been on Earth for at least 3.5 billion years.",
+   "evidence": "Stromatolites and the chemistry of very old rocks in Australia, and later ones in South Africa, India and elsewhere."
+  },
+  {
+   "text": "The first life was made of single cells, and it lived in water.",
+   "evidence": "The oldest fossils are all of microbes. Fossils of animals with many cells come much later, in the last 600 million years or so."
+  },
+  {
+   "text": "Oxygen in the air was made by living things that use sunlight.",
+   "evidence": "Very old rocks show no sign of oxygen in the air. Rocks younger than about 2.4 billion years show it. Banded iron rocks record when oxygen met iron in the sea."
+  },
+  {
+   "text": "Some building blocks of life can form without living things.",
+   "evidence": "Miller's spark experiment, many later lab experiments, and amino acids and RNA letters found in meteorites."
+  },
+  {
+   "text": "All living things today share the same ancestors.",
+   "evidence": "All life uses DNA, RNA, ribosomes and the same genetic code."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Only living things can make the chemicals of life.",
+   "who": "Many chemists until the 1800s",
+   "for": "For a long time, nobody could make sugar, urea or other chemicals of living bodies in the lab.",
+   "against": "Wöhler made urea in 1828, and Miller made amino acids in 1952. Chemists now make many such chemicals from non-living ones.",
+   "status": "rejected",
+   "context": "This card is about an old idea that experiments showed to be wrong."
+  },
+  {
+   "claim": "Life began as RNA, before DNA and proteins.",
+   "who": "Many scientists who study how life began",
+   "for": "RNA can carry instructions and do jobs, and the ribosome's working centre is made of RNA.",
+   "against": "RNA is hard to make without a cell, and it breaks easily. Nobody has yet made RNA that copies itself from scratch.",
+   "status": "debated",
+   "context": "This card is about the leading idea of how life began."
+  },
+  {
+   "claim": "Life began at hot vents on the sea floor.",
+   "who": "Michael Russell, Nick Lane and others",
+   "for": "Vents give warmth, minerals and energy, all day and night, safe from the harsh light of the young Sun.",
+   "against": "RNA and other chains break apart easily in hot water, and vents do not dry out, so it is hard to join small pieces into long chains there.",
+   "status": "debated",
+   "context": "This card is about one idea of where life began."
+  },
+  {
+   "claim": "Life began in warm pools on land.",
+   "who": "David Deamer, John Sutherland and others",
+   "for": "Pools dry and wet again, which helps small pieces join into chains. Lab chemistry with sunlight makes RNA letters.",
+   "against": "There was little dry land on the young Earth, and we have no rocks from the first pools.",
+   "status": "debated",
+   "context": "This card is about another idea of where life began."
+  },
+  {
+   "claim": "Life came to Earth from space.",
+   "who": "Svante Arrhenius in 1903, and later Fred Hoyle and Chandra Wickramasinghe",
+   "for": "Meteorites carry amino acids and RNA letters, and some microbes can survive a long time in space.",
+   "against": "No living thing has ever been found in a meteorite. And the idea only moves the question: how did life begin out there?",
+   "status": "minority",
+   "context": "This card is about the idea that life came from space."
+  },
+  {
+   "claim": "All life today comes from one shared family of early cells.",
+   "who": "Nearly all biologists",
+   "for": "All living things use DNA, RNA, ribosomes and the same genetic code.",
+   "against": "Some think life may have begun more than once, and the other kinds died out. Even so, all life alive today shares one family.",
+   "status": "accepted",
+   "context": "This card is about the idea that all life is one family."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "If a chain of RNA could copy itself in the sea, would that chain be alive?",
+   "kind": "deep",
+   "hint": "Think about what living things do. Which of those things would the chain do, and which would it not?"
+  },
+  {
+   "q": "Did life begin only once on Earth, or many times?",
+   "kind": "big",
+   "hint": "All life today shares one family. Could other kinds have begun and died out without leaving fossils?"
+  },
+  {
+   "q": "The first oxygen rusted the sea and changed the air. Is the Earth just a home for life, or partly made by life?",
+   "kind": "big",
+   "hint": "Think about the iron ore, the air you breathe and the soil in a flowerpot."
+  },
+  {
+   "q": "Every cell comes from a cell. If we follow your cells back, where does the chain end?",
+   "kind": "deep",
+   "hint": "Your mother's cells, her mother's cells, and on back for more than 3.5 billion years."
+  },
+  {
+   "q": "Is there life on other worlds, such as Mars or the moons of Jupiter and Saturn?",
+   "kind": "big",
+   "hint": "If life began easily here, could it begin wherever there is water and energy?"
+  },
+  {
+   "q": "Could people one day make life from chemicals in a lab? If they did, how would we know it was alive?",
+   "kind": "deep",
+   "hint": "What would the new thing need to do?"
+  }
+ ],
+ "story": {
+  "title": "The Stripes in the Hill",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "Stromatolites about 2 billion years old really are found near Vempalle in the Kadapa district of Andhra Pradesh, and banded iron rock really is found near Sandur in Karnataka. Nila, Karthik, Revathi and this trip are made up.",
+  "text": [
+   "Nila was nine, and her brother Karthik was seven. In the summer holidays they went to stay with their aunt, Revathi Athai, in Kadapa. Athai was a geologist. That means she studied rocks. Her house was full of them. There were rocks on the shelves, rocks on the windowsills, and one big striped rock that held the bathroom door open.",
+   "\"Tomorrow,\" said Athai at dinner, \"I'll show you the oldest living thing you have ever seen.\" Karthik stopped eating his curd rice. \"A tortoise?\" he asked. \"A banyan tree?\" Athai only smiled.",
+   "Early the next morning, they drove out past fields of groundnut to a low grey hill near Vempalle. There were no trees on the hill, only rock. Athai walked along slowly, looking down. Then she knelt and brushed away some dust with her hand. \"Here,\" she said.",
+   "Nila looked. The rock had thin wavy lines in it, hundreds of them, one on top of the other. In some places the lines curved up into little domes, like the tops of mushrooms. \"It looks like a stack of dosas,\" said Karthik. Athai laughed. \"It does. But a living thing made this.\"",
+   "\"These are called stromatolites,\" Athai said. \"About two billion years ago, this hill was the floor of a warm, shallow sea. On the sea floor lived a slimy mat of microbes, too small to see one by one. Mud settled on the mat. The microbes grew up through the mud towards the sunlight, and made a new mat on top. Then more mud came, and they grew up again.\" She ran her finger along one line. \"Each of these lines is one layer of that mat.\"",
+   "\"So the microbes are still in there?\" asked Karthik. \"Their bodies are long gone,\" said Athai. \"But the shape of their work is kept in the stone. It is like a footprint in dried mud. The foot has gone, but you can still see where it was.\"",
+   "Nila counted the lines on one dome. She got to forty and lost count. \"Two billion years,\" she said quietly. \"Is that the oldest life there is?\" \"Not quite,\" said Athai. \"In Australia there are stromatolites about three and a half billion years old. They are the oldest signs of life we are fairly sure of.\"",
+   "That evening, Athai took the big striped rock from the bathroom door and put it on the table. It had stripes of rusty red and stripes of shiny dark grey. \"This one is from Sandur, in Karnataka,\" she said. \"It is called banded iron. The red stripes are rust.\"",
+   "\"Rust? Like on our gate?\" asked Karthik. \"Exactly like that,\" said Athai. \"Long ago, the sea had almost no oxygen in it. Iron could stay in the water without rusting. Then microbes like the ones in the hill began to make oxygen from sunlight. Their oxygen met the iron, and rust formed. It sank to the sea floor in layers. So the microbes did not only make the stromatolites. They changed the whole sea, and in the end the air too. The oxygen you are breathing now was made by living things.\"",
+   "Karthik took a big breath and held it, as if it might run away. Nila was still thinking. \"Athai,\" she said, \"the microbes came from other microbes, right? Like curd comes from curd. But who did the very first microbes come from?\"",
+   "Athai was quiet for a moment. Then she got up and fetched a pencil and a strip of paper. She wrote four letters on it: A, U, C, G. \"Nobody knows yet,\" she said. \"That is the honest answer. But here is one idea that many scientists like. Inside every cell there is a chain molecule called RNA. Its chain is made of four kinds of letters. And the letters pair up: A with U, and C with G.\"",
+   "She wrote a short chain: A U G C. Under it, she wrote the partners: U A C G. \"Look. The first chain can make a partner chain, letter by letter. Copy the partner, and you get the first chain back. So a chain like this can make copies of itself, with a little help from the chemicals around it. Some RNA can also do jobs, like a tiny tool. Many scientists think life began as chains of RNA in the young sea, copying themselves.\"",
+   "\"Did that really happen?\" asked Karthik. \"We don't know,\" said Athai. \"Scientists are testing it. They have made some pieces of it work in the lab, but not the whole thing yet. Maybe one of you will find out.\"",
+   "Nila took the pencil and wrote a chain of her own. Then she made its partner, and the partner's partner. Her third chain matched her first one exactly, except for one letter, where she had written C instead of G. \"Oops,\" she said. \"A mistake.\"",
+   "\"Keep it,\" said Athai. \"Mistakes like that are how one kind of life slowly becomes many kinds.\" Nila looked at the striped rock, and at her paper chain, and at her brother, who was still holding his breath. \"Breathe out, Karthik,\" she said. \"The microbes will make more.\""
+  ],
+  "epiphany": "For the parent: the wavy lines in the hill are stromatolites, layers built by mats of microbes that trapped mud and grew up through it. The red stripes in the banded iron are rust that formed when the first oxygen, made by microbes, met iron dissolved in the sea. The paper chain shows how RNA letters pair up, A with U and C with G, so that a chain can make a partner and the partner can make the first chain again. Nila's mistake shows how copies slowly change. Athai's honest answer is the real state of science: the RNA idea is a hypothesis, still being tested.",
+  "ask": [
+   "How did tiny microbes make the wavy lines in the rock?",
+   "What are the red stripes in the banded iron rock, and how did they form?",
+   "Why could iron stay in the young sea without rusting?",
+   "Nila's third chain had one letter wrong. Why did Athai say to keep it?",
+   "Athai said 'Nobody knows yet.' Why is it good for a scientist to say that when it is true?"
+  ],
+  "art": [
+   "A woman geologist and two children walking up a bare grey hill past groundnut fields in the early morning.",
+   "A close-up of grey rock with hundreds of thin wavy lines curving up into small domes, a child's finger tracing one line.",
+   "A big rock with red and dark grey stripes on a dining table, two children leaning over it under a lamp.",
+   "A paper strip with the letters A U G C, and under it U A C G, with lines joining each pair.",
+   "A boy holding his breath with puffed cheeks while his sister laughs and points at the striped rock."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Copy Race: build the partner chain",
+   "mins": 15,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game about how RNA is copied. Each player has a chain, and races to build its partner chain by the pairing rule: A with U, and C with G.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "40 letter cards",
+     "items": [
+      "10 cards of A",
+      "10 cards of U",
+      "10 cards of C",
+      "10 cards of G"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "6 chain cards",
+     "items": [
+      "A U G C C A",
+      "G G C A U U",
+      "C A U G A C",
+      "U U A G C G",
+      "A C G U G A",
+      "G C A U C U"
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the letter cards and put them face down in a pile.",
+    "Each player takes one chain card and lays it face up.",
+    "On your turn, take the top letter card. If it is the partner of your next letter, lay it under that letter. If not, put it on a discard pile.",
+    "A pairs with U. C pairs with G.",
+    "The first player to finish the whole partner chain wins.",
+    "Playing alone: time yourself. Try to beat your time with a new chain card."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Shuffle the letter cards. Give each player a chain card.",
+     "say": "Each of you is a chain of RNA. You need to build your partner chain from the letters floating around.",
+     "kid": "Take a chain card. You are a chain of RNA. Build your partner chain."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Play until someone finishes their partner chain.",
+     "say": "Remember: A goes with U, C goes with G. You can only place the partner of your next letter.",
+     "kid": "Take a card. Is it the partner of your next letter? Place it. If not, throw it away.",
+     "parent": "If the pile runs out, shuffle the discards and use them again. This is a little like RNA letters floating in the sea, waiting to be picked up."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "After the game, check every partner chain together.",
+     "say": "Let's check each chain. Did anyone place a wrong partner?",
+     "kid": "Check your partner chain. Is every pair right?",
+     "check": {
+      "t": "mcq",
+      "q": "In Copy Race, Lakshmi's chain starts G G C. Which cards does she need for her partner chain, in order?",
+      "options": [
+       "G G C",
+       "C C G",
+       "U U A"
+      ],
+      "a": 1,
+      "why": "G pairs with C, and C pairs with G. So G G C needs C C G. Picking U U A mixes up the rules: U is the partner of A, not of G."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A chain card reading A U G C C A laid on a table, with a face-down pile of letter cards beside it.",
+     "caption": "1. Lay your chain card. Draw from the pile."
+    },
+    {
+     "art": "The chain card with partner cards U A C G G U placed under each letter.",
+     "caption": "2. Place each partner under its letter. First to finish wins."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Line Up Time: put the story of life in order",
+   "mins": 15,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game about the order of events in the story of life. Players place event cards in order on a line, and earn points for each card placed right.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "10 event cards",
+     "items": [
+      "The Earth forms (4.5 billion years ago)",
+      "The first oceans (about 4.4 billion years ago)",
+      "The oldest stromatolites (about 3.5 billion years ago)",
+      "Oxygen starts to fill the air (about 2.4 billion years ago)",
+      "Stromatolites grow at Vempalle, in India (about 2 billion years ago)",
+      "The first animals (about 600 million years ago)",
+      "The first land plants (about 470 million years ago)",
+      "Dinosaurs die out (66 million years ago)",
+      "The first people like us (about 300,000 years ago)",
+      "Wöhler makes urea (1828)"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet",
+     "items": [
+      "Player name",
+      "Cards placed right",
+      "Cards placed wrong"
+     ]
+    }
+   ],
+   "rules": [
+    "Put 'The Earth forms' at the start of the line, face up.",
+    "Shuffle the other cards with their dates covered, and deal them out.",
+    "On your turn, place one card on the line where you think it goes, then show its date.",
+    "If it is in the right place, score a point. If not, move it to the right place.",
+    "Playing alone: place all the cards, then check the dates and count how many you got right."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Cover the dates on the cards with a strip of paper. Put 'The Earth forms' down first.",
+     "say": "These cards are events in the story of life. We have to put them in order, oldest first.",
+     "kid": "These are events in the story of life. Put them in order, oldest first."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Take turns placing cards and checking the dates.",
+     "say": "Where does this one go? Before or after the stromatolites?",
+     "kid": "Place your card. Before or after the others? Then check its date.",
+     "parent": "The hardest ones are usually oxygen and animals. Many children put animals much earlier than they came. That surprise is the point."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Count the points.",
+     "say": "What surprised you most about the order?",
+     "kid": "Count your points. What surprised you most?",
+     "check": {
+      "t": "mcq",
+      "q": "Which came first?",
+      "options": [
+       "The first animals",
+       "Oxygen starts to fill the air",
+       "Dinosaurs die out"
+      ],
+      "a": 1,
+      "why": "Oxygen began to fill the air about 2.4 billion years ago. The first animals came about 600 million years ago, which is much later. Dinosaurs died out 66 million years ago. Many people think animals came soon after the first life, but for most of Earth's story the only life was tiny."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A row of cards on the floor with 'The Earth forms' at the left end, and a hand placing a stromatolite card.",
+     "caption": "1. Start with 'The Earth forms'. Place each card in order."
+    },
+    {
+     "art": "A card being turned over to show its date, with a score sheet beside it.",
+     "caption": "2. Show the date. Right place, one point."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Rusting Nails: what did the first oxygen do to the sea?",
+   "mins": 30,
+   "days": 3,
+   "context": "In this experiment you put iron nails in three jars of water. In one jar, you keep oxygen away from the nail. Over three days you find out what oxygen does to iron, the way the first oxygen made by microbes did to the iron in the young sea.",
+   "question": "Does an iron nail in water rust when very little oxygen can reach it?",
+   "predict": "Guess first. Which nail will rust most: the nail in open tap water, the nail in boiled water sealed under oil, or the nail in open salty water? Which will rust least? Why do you think so?",
+   "fair_test": "Use three nails of the same kind and size, three jars of the same size, and the same amount of water in each. Keep the jars side by side in the same place. Only one thing changes in each jar: open water, water with little oxygen, or salty water.",
+   "results_table": [
+    "Jar",
+    "What is in it",
+    "After 3 hours",
+    "After 1 day",
+    "After 2 days",
+    "After 3 days"
+   ],
+   "materials": [
+    {
+     "item": "plain grey iron nails, about 5 cm long, all the same kind. Shiny silver nails have a zinc coat and rust slowly. If you only have shiny ones, rub them well with sandpaper or a rough stone first.",
+     "qty": 3,
+     "buy": "b-nails"
+    },
+    {
+     "item": "small clear glass jars or glasses, the same size, with lids or a saucer to cover them",
+     "qty": 3
+    },
+    {
+     "item": "tap water",
+     "qty": "3 small glasses"
+    },
+    {
+     "item": "cooking oil",
+     "qty": "2 tablespoons"
+    },
+    {
+     "item": "salt",
+     "qty": "1 teaspoon"
+    },
+    {
+     "item": "a small steel vessel and a stove, for boiling water",
+     "qty": 1
+    },
+    {
+     "item": "paper labels and a pen: A, B and C",
+     "qty": 3
+    }
+   ],
+   "safety": "A grown-up boils the water and pours it. Let it cool until just warm before anyone touches the jar. Nails can be sharp at the tip.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Boil water for jar B. Set up the three jars. Make your guess. Look again after 3 hours."
+    },
+    {
+     "day": 2,
+     "mins": 5,
+     "what": "Look at all three nails. Write and draw what you see."
+    },
+    {
+     "day": 3,
+     "mins": 5,
+     "what": "Look again, take the nails out, and say what you found."
+    }
+   ],
+   "record": "Fill in the table each time you look. Draw each nail on day 3, colouring any rust orange.",
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "Jar",
+     "After 3 hours",
+     "After 1 day",
+     "After 3 days"
+    ],
+    "rows": [
+     [
+      "A: open tap water",
+      "No change",
+      "Small orange spots",
+      "Orange rust on much of the nail, orange flakes in the water"
+     ],
+     [
+      "B: boiled water under oil",
+      "No change",
+      "No change",
+      "Still grey, one or two tiny spots"
+     ],
+     [
+      "C: open salty water",
+      "Orange haze near the nail",
+      "Lots of rust",
+      "Thick rust, cloudy orange water"
+     ]
+    ]
+   },
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Show your child the three nails. 2. Ask them to guess which nail will rust most, and which least, and why.",
+     "say": "We'll put these iron nails in three jars of water. In one jar we'll keep oxygen away. Which nail do you think will rust most? Which will rust least? Why?",
+     "kid": "Look at the three nails. Which will rust most? Which will rust least? Why do you think so?",
+     "parent": "Write the guess and the reason down before you start. Don't say what you expect. Any guess with a reason is good."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "adult": true,
+     "do": "1. Boil about one glass of water in a small vessel for 5 minutes. 2. Put the lid on and let it cool for about 10 minutes, until warm.",
+     "say": "Boiling drives most of the air out of water. Air has oxygen in it. So boiled water has very little oxygen.",
+     "kid": "A grown-up boils some water. Boiling pushes the air out of it. So it has very little oxygen now.",
+     "parent": "Keep the lid on while it cools, so less air gets back in. You can set up jars A and C while it cools."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Label the jars A, B and C. 2. Fill jar A half full of tap water. 3. Fill jar C half full of tap water and stir in 1 teaspoon of salt. 4. Drop one nail into each.",
+     "say": "Jar A is plain water with air. Jar C is salty water with air, a bit like the sea.",
+     "kid": "Label the jars A, B and C. Put tap water in A. Put salty water in C. Drop a nail into each one."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "adult": true,
+     "do": "1. Gently pour the warm boiled water into jar B, half full, without splashing. 2. Drop in the third nail. 3. Slowly pour 2 tablespoons of oil on top, so it makes a layer. 4. Put a lid on jar B.",
+     "say": "The oil layer stops air from getting back into the water. So the nail in jar B gets very little oxygen, like the iron in the young sea.",
+     "kid": "A grown-up pours the boiled water into jar B. Drop in the nail. Pour oil on top. The oil keeps the air out.",
+     "parent": "Pour gently, because splashing mixes air back in. The oil should cover the whole surface. Put the three jars side by side, out of direct sun."
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "wait": "Leave the jars for 3 hours",
+     "do": "After about 3 hours, look closely at each nail. Write what you see in the table.",
+     "say": "Let's look. Has anything changed yet?",
+     "kid": "Look at each nail closely. Any orange yet? Write it down.",
+     "parent": "The nail in salty water often shows an orange haze first. Tap water may show nothing yet. That is fine. Rust takes time."
+    },
+    {
+     "id": "s6",
+     "mins": 5,
+     "wait": "Come back tomorrow",
+     "do": "1. Look at each nail on day 2. 2. Write and draw what you see. 3. Do not stir or move the jars.",
+     "say": "Which nail has changed most? Which has changed least?",
+     "kid": "Look at the nails again. Which one has the most orange? Which has none? Draw them.",
+     "check": {
+      "t": "mcq",
+      "q": "In jar B, the nail sat in boiled water under a layer of oil. Why did the oil matter?",
+      "options": [
+       "Oil makes nails shiny",
+       "The oil kept air, with its oxygen, out of the water",
+       "Oil makes water colder"
+      ],
+      "a": 1,
+      "why": "Iron rusts when oxygen reaches it, and water helps. Boiling took most of the air out of the water, and the oil stopped air getting back in. Picking 'oil makes nails shiny' mixes up the oil layer with oiling a nail. Here the oil floats on top and does not touch the nail."
+     }
+    },
+    {
+     "id": "s7",
+     "mins": 5,
+     "wait": "Come back the day after",
+     "do": "1. On day 3, look at all three nails. 2. Take them out with a spoon and lay them on a paper. 3. Compare them.",
+     "say": "Now let's see all three side by side. What do they tell us?",
+     "kid": "Take the nails out with a spoon. Lay them side by side. Which rusted most? Which least?",
+     "parent": "Usually C has rusted most, A has clear rust, and B is grey or has only a tiny spot or two. If B rusted a little, air got in, maybe from splashing or a gap in the oil. That is still a useful result: less oxygen gave less rust."
+    },
+    {
+     "id": "s8",
+     "mins": 5,
+     "do": "Ask your child for three short sentences: what I think, what I saw, and why I think it happened.",
+     "say": "Tell me three things. What do you think now? What did you see? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "This is claim, evidence and reasoning. A good answer sounds like this. What I think: iron rusts when oxygen reaches it, and salt makes it rust faster. What I saw: nails A and C turned orange, but the nail in boiled water under oil stayed grey. Why: the oil kept oxygen away from nail B. Afterwards, tell them this. The young sea had almost no oxygen, so its iron did not rust. When microbes began making oxygen, the iron in the sea rusted and sank in layers.",
+     "check": {
+      "t": "mcq",
+      "q": "Long ago, the sea had almost no oxygen. Then tiny microbes began making oxygen. What happened to the iron in the sea?",
+      "options": [
+       "Nothing, because iron never changes",
+       "It joined with the oxygen, made rust and sank in layers",
+       "It turned into microbes"
+      ],
+      "a": 1,
+      "why": "Your nail test showed that iron rusts where oxygen reaches it. In the sea, oxygen from microbes met the dissolved iron, and rust formed and settled on the sea floor. These layers became the red stripes in banded iron rock. Picking 'turned into microbes' mixes up the microbes with what their oxygen did."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "Three labelled glass jars side by side, A with tap water and a nail, B with water, a nail and a yellow oil layer on top with a lid, C with salty water and a nail.",
+     "caption": "1. Three jars, three nails: open water, water under oil, salty water."
+    },
+    {
+     "art": "A grown-up's hand pouring a thin stream of oil onto the water in jar B, making a yellow layer.",
+     "caption": "2. Pour oil on jar B to keep the air out."
+    },
+    {
+     "art": "Three nails on white paper: one very rusty, one with orange patches, one still grey.",
+     "caption": "3. After three days, compare the nails."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Banana Threads: can we see the instruction molecule?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this experiment you break open the cells of a banana and pull out their DNA, the chain molecule that holds a living thing's instructions. You compare it with green peas, and with a glass that has no food at all.",
+   "question": "Do a banana and green peas both hold white threads of DNA, and does a glass with no food give any?",
+   "predict": "Guess first. Will you see anything in the glass with no food? Will the banana or the peas give more threads? Why do you think so?",
+   "fair_test": "Use the same amounts of salt, washing liquid, water and spirit for every glass. Only the food changes: banana, green peas, or none.",
+   "results_table": [
+    "Glass",
+    "Food",
+    "What I saw in the spirit layer",
+    "How much (none, a little, a lot)"
+   ],
+   "materials": [
+    {
+     "item": "half a ripe banana",
+     "qty": 1
+    },
+    {
+     "item": "2 tablespoons of green peas, fresh, frozen or soaked overnight",
+     "qty": 1
+    },
+    {
+     "item": "salt",
+     "qty": "2 teaspoons"
+    },
+    {
+     "item": "dishwashing liquid",
+     "qty": "4 teaspoons"
+    },
+    {
+     "item": "warm water, not hot",
+     "qty": "1 cup"
+    },
+    {
+     "item": "surgical spirit or rubbing alcohol from a medical shop, chilled in the freezer for 30 minutes",
+     "qty": "half a cup",
+     "buy": "b-spirit"
+    },
+    {
+     "item": "3 clear glasses or small glass jars",
+     "qty": 3
+    },
+    {
+     "item": "a tea strainer or a clean thin cotton cloth",
+     "qty": 1
+    },
+    {
+     "item": "2 small zip bags or bowls, and a spoon for mashing",
+     "qty": 2
+    },
+    {
+     "item": "a toothpick or wooden skewer",
+     "qty": 1
+    }
+   ],
+   "safety": "Spirit catches fire easily and is poisonous to drink. A grown-up keeps the bottle, pours it, and keeps it far from the stove, lamps and flames. Wash hands afterwards. Don't eat anything used in the test.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Mash the foods, add salt and washing liquid, strain, add cold spirit, and look for white threads."
+    }
+   ],
+   "record": "Fill in the table. Draw what you saw in each glass.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "adult": true,
+     "do": "1. Put the spirit in the freezer 30 minutes before you start. 2. Show your child the banana, the peas and an empty glass. 3. Ask for a guess and a reason.",
+     "say": "Every cell holds a long chain molecule called DNA. It holds the instructions for that living thing. Do you think we can see it? Will the empty glass show anything? Why?",
+     "kid": "Every cell has instructions inside, in a chain called DNA. Can we see it? What will the empty glass show? Why?"
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Mix 1 cup warm water, 2 teaspoons salt and 4 teaspoons washing liquid. Stir gently, without making foam. 2. Mash the banana in one bag and the peas in another, with 2 spoons of the mix each, for 2 minutes.",
+     "say": "Mashing breaks the cells apart. The washing liquid breaks their thin skins. Salt helps the long DNA strands clump together, so we can see them.",
+     "kid": "Mash the banana well. Mash the peas well. You are breaking open millions of cells.",
+     "parent": "Keep the third portion of the mix with no food in it. That glass is the control. It shows what happens with no cells at all."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Add 4 more spoons of the mix to each bag. Squish gently for 1 minute. 2. Strain each one into its own glass, about a quarter full. 3. Pour the same amount of plain mix into the third glass.",
+     "say": "Now we strain out the lumps. The DNA is in the runny liquid now.",
+     "kid": "Strain each mash into its own glass. Pour plain mix into the third glass."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "adult": true,
+     "do": "1. Tilt each glass. 2. Pour the cold spirit very slowly down the inside wall, until there is a layer as deep as the liquid below. 3. Stand the glasses still.",
+     "say": "Pour gently, so the spirit floats on top as its own layer. Don't stir.",
+     "kid": "A grown-up pours cold spirit slowly down the side. It floats on top. Don't shake the glass.",
+     "parent": "Pouring slowly is the most important step. If it mixes in, the threads are harder to see. Keep the spirit bottle closed and away from the stove."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "1. Wait 3 to 5 minutes. 2. Look where the two layers meet. 3. Gently twirl the toothpick there in each glass.",
+     "say": "Look where the two layers meet. Can you see anything white and cloudy rising up?",
+     "kid": "Wait and watch where the layers meet. See white threads? Twirl the toothpick there.",
+     "parent": "White, cloudy, stringy stuff rises into the spirit layer in the banana and pea glasses. It winds onto the toothpick like wet cotton. The glass with no food stays clear. If you see little, the spirit may not be cold enough, or there may be too much liquid. Try again with less liquid and colder spirit.",
+     "check": {
+      "t": "mcq",
+      "q": "The glass with no food stayed clear. The banana and pea glasses made white threads. What does this show?",
+      "options": [
+       "The threads came from the salt and washing liquid",
+       "The threads came from the cells of the banana and the peas",
+       "The spirit makes threads by itself"
+      ],
+      "a": 1,
+      "why": "All three glasses had the same salt, washing liquid and spirit, but only the glasses with food made threads. So the threads came from the cells. They are mostly DNA, millions of strands clumped together. Picking 'salt and washing liquid' is a fair guess, and that is exactly what the clear control glass tests."
+     }
+    },
+    {
+     "id": "s6",
+     "mins": 4,
+     "do": "Ask for three short sentences: what I think, what I saw, and why.",
+     "say": "What do you think now? What did you see? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "A good answer: banana and peas both have DNA in their cells. I saw white threads in both, and none in the glass with no food. The cells broke open and the DNA clumped in the cold spirit. Then tell them this. Your cells have DNA too, made of the same four kinds of letters. Every living thing uses this same chain. RNA is its close cousin, and many scientists think RNA came first."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A child's hands mashing a banana in a zip bag with a little soapy salt water.",
+     "caption": "1. Mash the banana with salty, soapy water."
+    },
+    {
+     "art": "A grown-up pouring clear spirit slowly down the inside of a tilted glass, onto a yellowish liquid.",
+     "caption": "2. A grown-up pours cold spirit slowly on top."
+    },
+    {
+     "art": "Three glasses: two with white stringy clouds rising into the top layer, one clear, a toothpick lifting white threads.",
+     "caption": "3. Look for white threads where the layers meet."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The Chain of Mothers: who came before?",
+   "mins": 8,
+   "days": 1,
+   "context": "This short activity opens the unit. You draw where you came from, going back and back, until you reach the biggest question in this unit.",
+   "materials": [
+    {
+     "item": "a long strip of paper, or two sheets taped end to end",
+     "qty": 1
+    },
+    {
+     "item": "pencils or crayons",
+     "qty": 1
+    }
+   ],
+   "safety": "No safety needs.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 8,
+     "what": "Draw a chain of mothers going back in time, and ask what came first."
+    }
+   ],
+   "record": "Keep the drawing. You will add to it at the end of the unit.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. At the right end of the strip, ask your child to draw themself. 2. To the left, draw their mother, then her mother.",
+     "say": "Draw yourself at this end. Who did you come from? Draw her next to you. And who did she come from?",
+     "kid": "Draw yourself at the right end. Draw your mother next to you. Then her mother."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Keep going left with dotted lines, as far back as your child can imagine.",
+     "say": "Every living thing comes from another living thing. If we keep going back, and back, what do we reach?",
+     "kid": "Keep going back. Who came before her? And before that? Draw dots for the far past.",
+     "parent": "Children often draw cave people, then animals, then a fish. Let them. All are on the real path back. Don't correct the order now."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "At the far left end, draw a big question mark.",
+     "say": "Every living thing came from another living thing. So where did the very first one come from? That is what this unit is about.",
+     "kid": "Draw a big question mark at the far end. Who was first? Where did they come from?",
+     "think": "If life only comes from life, how could the first life begin?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A long paper strip with a child drawn at the right end and her mother and grandmother drawn to the left.",
+     "caption": "1. Draw yourself, your mother and her mother."
+    },
+    {
+     "art": "The same strip with dotted lines going far left and a big question mark at the end.",
+     "caption": "2. Keep going back. End with a question mark."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "The Time String: 4.5 billion years along a corridor",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you make a timeline of the whole Earth to scale, using a string. One metre stands for one billion years. You see how long the Earth had only microbes.",
+   "materials": [
+    {
+     "item": "a string, ribbon or old saree border at least 4.5 metres long, or newspaper strips taped together",
+     "qty": 1
+    },
+    {
+     "item": "a measuring tape or a 30 cm ruler",
+     "qty": 1
+    },
+    {
+     "item": "8 paper labels, tape and a pen",
+     "qty": 8
+    }
+   ],
+   "safety": "Lay the string along the floor where nobody will trip on it.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Lay out the string and stick on labels for the big events in the story of life."
+    }
+   ],
+   "record": "Take a photo of the string, or draw it with the labels in order.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Lay the string straight along a corridor or across two rooms. 2. Mark one end 'Earth forms, 4.5 billion years ago' and the other 'Today'.",
+     "say": "Each metre is one billion years. This end is when the Earth formed. That end is today.",
+     "kid": "Lay the string straight. One end is when the Earth formed. The other end is today. Each metre is a billion years."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "1. Measure from the Earth end. 2. Stick 'first oceans' at 10 cm and 'oldest stromatolites' at 1 metre. 3. Stick 'oxygen fills the air' at 2 metres 10 cm. 4. Stick 'Vempalle stromatolites in India' at 2 metres 50 cm.",
+     "say": "The oldest signs of life come one metre along. For the whole first metre, we have found no sure sign of life.",
+     "kid": "Measure and stick on each label. Where is the first life? How far from the start?",
+     "parent": "Children are often surprised that oxygen only fills the air halfway along. We have no sure fossils from the first metre, partly because very few rocks that old survive."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Now measure from the Today end. 2. Stick 'first animals' at 60 cm and 'dinosaurs die out' at 6.6 cm. 3. Make a pencil dot right at the end for 'first people'.",
+     "say": "Animals only appear in the last 60 centimetres. Dinosaurs died out about 6 and a half centimetres from the end. People are just the last pencil tip.",
+     "kid": "Measure from the Today end. Animals come 60 cm from the end. Where are people?",
+     "check": {
+      "t": "mcq",
+      "q": "On the time string, one metre is one billion years. The string is 4.5 metres long. For how much of it was there only life too small to see, or no life at all?",
+      "options": [
+       "Just the first metre",
+       "About 3.9 metres, until the first animals",
+       "Only the last 60 cm"
+      ],
+      "a": 1,
+      "why": "Animals appear about 60 cm from the Today end. Before that, for about 3.9 metres, the Earth had no life at all and then only microbes and other tiny living things. Picking 'only the last 60 cm' mixes up when animals came with when there was only tiny life."
+     },
+     "think": "For most of the Earth's story, the only life was too small to see. What were they doing all that time?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A long string laid along a flat's corridor, with a paper label at each end.",
+     "caption": "1. Lay a 4.5 metre string. One metre is a billion years."
+    },
+    {
+     "art": "A child with a measuring tape sticking a label on the string one metre from the start.",
+     "caption": "2. Measure and stick on the labels."
+    },
+    {
+     "art": "The Today end of the string, with labels at 60 cm and 6.6 cm, and a tiny pencil dot at the very end.",
+     "caption": "3. People are just the last tiny dot."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Copy the Chain: how RNA letters make a copy",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you use paper letter cards to see how a chain of RNA can be copied. The letters pair up, A with U and C with G, so a chain can make its own partner.",
+   "materials": [
+    {
+     "item": "24 small squares of paper or card, with 6 each of A, U, C and G. Colour each letter its own colour.",
+     "qty": 24
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "No safety needs.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Make a chain, build its partner chain by the pairing rule, then copy the partner."
+    }
+   ],
+   "record": "Write your first chain, its partner and the partner's partner, one under the other.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Make the letter cards. 2. Write the rule on a paper: A pairs with U, C pairs with G.",
+     "say": "RNA is a chain made of four kinds of letters: A, U, C and G. A always pairs with U. C always pairs with G.",
+     "kid": "Make your letter cards. Remember the rule. A pairs with U. C pairs with G."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Lay down a chain of 6 letters in a row, in any order you like.",
+     "say": "Make a chain of six letters. Any order you like. That order is your message.",
+     "kid": "Lay six letters in a row, any order. That is your chain."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Under each letter, lay its partner, to make a second chain.",
+     "say": "Now make the partner chain. Under each A put a U, under each U an A, under each C a G, under each G a C.",
+     "kid": "Under each letter, put its partner. A goes with U. C goes with G.",
+     "check": {
+      "t": "mcq",
+      "q": "A chain reads A C G U. Which is its partner chain?",
+      "options": [
+       "A C G U",
+       "U G C A",
+       "C A U G"
+      ],
+      "a": 1,
+      "why": "A pairs with U, C with G, G with C, and U with A. So A C G U has the partner U G C A. Picking 'A C G U' means copying the letters straight, but the chain is copied by partners, not by the same letters."
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Now make the partner of the partner chain, under it. Compare it with the first chain.",
+     "say": "Now make a partner for the partner. What do you notice when you compare it with your first chain?",
+     "kid": "Make a partner for the partner chain. Look at your first chain. What do you see?",
+     "parent": "The third chain matches the first exactly. That is how a chain can be copied: partner, then partner again. In cells, proteins help with this copying. In the RNA idea, the first RNA chains copied themselves with help only from chemicals around them, and maybe from other RNA."
+    }
+   ],
+   "setup": [
+    {
+     "art": "Coloured paper squares with the letters A, U, C and G spread on a table, and a note saying A–U, C–G.",
+     "caption": "1. Make letter cards and write the pairing rule."
+    },
+    {
+     "art": "Three rows of letter cards one under another: A C G U A G, then U G C A U C, then A C G U A G.",
+     "caption": "2. Build the partner, then the partner's partner."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Copy Mistakes: how one chain becomes many",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you copy a chain of letters again and again, each time from your last copy, with a timer running. You count how the chain slowly changes.",
+   "materials": [
+    {
+     "item": "a paper and pencil",
+     "qty": 1
+    },
+    {
+     "item": "a phone or clock with a timer",
+     "qty": 1
+    }
+   ],
+   "safety": "No safety needs.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Copy a 12-letter chain 8 times, fast, each from the last copy. Count the changes."
+    }
+   ],
+   "record": "Keep all the copies in a column. Circle every letter that is different from the first chain.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Write this chain at the top of the paper: A U G C C A U G G A C U.",
+     "say": "Here is a chain of 12 letters. You will copy it eight times, but each copy is made from the copy before.",
+     "kid": "Write this chain at the top. You will copy it eight times."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Give 10 seconds for each copy. 2. Each copy goes under the last one, copied only from the last one. 3. Cover the older lines with a hand.",
+     "say": "Ten seconds for each copy. Go! Only look at the line just above.",
+     "kid": "Copy the line above in 10 seconds. Cover the older lines. Go fast!",
+     "parent": "Fast copying gives some mistakes, which is the point. If there are no mistakes at all, try 6 seconds a copy."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Compare the last copy with the first chain. Circle every letter that changed.",
+     "say": "How many letters changed? Did a mistake, once made, carry on into the next copies?",
+     "kid": "Circle every letter that changed. Did a mistake stay in the copies after it?",
+     "check": {
+      "t": "mcq",
+      "q": "In the copying game, a mistake in copy 3 was still there in copies 4 to 8. Why?",
+      "options": [
+       "Each copy was made from the copy before, so the mistake was copied too",
+       "The pencil was blunt",
+       "Mistakes disappear after one copy"
+      ],
+      "a": 0,
+      "why": "Each copy is made from the one before it. So a change, once made, is passed on to every later copy. This is how changes add up in living things over many generations. Picking 'mistakes disappear' is a common guess, but a mistake is fixed only if someone checks the copy against the first chain."
+     },
+     "think": "Living cells copy their DNA with a checker that fixes most mistakes. Why might it be good to keep a few?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A sheet of paper with a chain of 12 letters at the top and a phone timer beside it.",
+     "caption": "1. Write the 12-letter chain."
+    },
+    {
+     "art": "A column of eight copied chains, with a few letters circled in red lower down.",
+     "caption": "2. Copy fast, line by line. Circle the changes."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Find a Living Film (in the monsoon, or by a damp corner)",
+   "mins": 10,
+   "days": 1,
+   "context": "This activity is for when you can find a damp wall, an old flowerpot or a wet drain cover. The green or black film on them often holds cyanobacteria and algae, cousins of the microbes that built the oldest stromatolites and first made oxygen.",
+   "materials": [
+    {
+     "item": "a damp wall, flowerpot or tank lid with a green or black film",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass, or a phone camera zoomed in",
+     "qty": 1,
+     "buy": "b-lens"
+    }
+   ],
+   "safety": "Look, don't lick. Wash hands after touching. Stay away from roads and deep drains.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Find a green or black film, look at it closely, and photograph or draw it."
+    }
+   ],
+   "record": "Draw or photograph the film. Write where you found it and whether it was in sun or shade.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "Look for a green or black slimy film on a damp wall, the outside of a clay pot, or a balcony drain.",
+     "say": "This green film is made of millions of tiny living things. Some of them make oxygen, like the microbes that built the oldest rocks.",
+     "kid": "Look for a green or black film on something damp. It is millions of tiny living things.",
+     "parent": "In the monsoon this is easy to find, especially on north-facing walls and old pots. In a dry season, look near a dripping tap or AC outlet. If you cannot find one, look at photos of Shark Bay stromatolites instead."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "Look through the magnifying glass, or zoom in with a phone camera.",
+     "say": "Can you see single living things? Or only a carpet? That carpet is called a mat.",
+     "kid": "Zoom in with the lens or the phone. Can you see one microbe? Or a carpet?",
+     "parent": "You won't see single cells, which are far too small. You may see threads or a velvety surface. A carpet of microbes like this is what built stromatolites."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Draw or photograph it, and write where you found it.",
+     "say": "Is it in the sun or the shade? Why might that matter to living things that make food from light?",
+     "kid": "Draw it. Was it in sun or shade? Write it down."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A damp wall at the corner of a balcony with dark green streaks running down it.",
+     "caption": "1. Find a green or black film on something damp."
+    },
+    {
+     "art": "A child holding a magnifying glass over the green film on the side of a clay pot.",
+     "caption": "2. Look closely with a lens or phone camera."
+    }
+   ]
+  },
+  {
+   "id": "a6",
+   "title": "Where Did Life Begin? A debate with evidence",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you weigh up three ideas about where life began: hot vents on the sea floor, warm pools on land, or space. Nobody knows the answer, so you argue from the evidence.",
+   "materials": [
+    {
+     "item": "3 sheets of paper, one for each idea",
+     "qty": 3
+    },
+    {
+     "item": "pencils",
+     "qty": 1
+    }
+   ],
+   "safety": "No safety needs.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Read the evidence for three ideas, argue for one, then argue against it."
+    }
+   ],
+   "record": "Write which idea you think is best, and your best reason.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Write one idea at the top of each sheet: sea-floor vents, warm pools on land, from space. Under each, write the evidence from the explanation card 'Where did life begin?'.",
+     "say": "Nobody knows where life began. Scientists argue about three main ideas. Let's write down the evidence for each.",
+     "kid": "Write one idea on each paper. Under each, write what supports it."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Your child picks one idea and argues for it for one minute. Then you argue against it for one minute.",
+     "say": "Pick the idea you think is best. Tell me why. Then I'll try to argue against it.",
+     "kid": "Pick one idea. Tell why it is best. Then hear the other side.",
+     "parent": "For vents: warmth, minerals and energy all the time. Against: chains break in hot water. For pools: drying helps chains join. Against: little dry land then. For space: meteorites carry amino acids. Against: it doesn't explain how life began out there."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Swap: now your child argues against their own idea. Then they say which idea they think best now, and why.",
+     "say": "Now argue against your own idea. Did you change your mind?",
+     "kid": "Now argue against your own idea. Do you still think the same? Why?",
+     "check": {
+      "t": "mcq",
+      "q": "Which of these is true about where life began?",
+      "options": [
+       "Scientists know it began at sea-floor vents",
+       "Scientists know it came from space",
+       "Nobody knows yet, and scientists are testing several ideas"
+      ],
+      "a": 2,
+      "why": "There is evidence for each idea, but none is proven. Picking a single place usually comes from hearing one idea told as if it were settled. Good scientists say 'nobody knows yet' when that is true."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "Three sheets of paper on a table, headed with a drawing of a sea-floor chimney, a steaming pool and a meteorite.",
+     "caption": "1. Three ideas, one sheet each, with the evidence."
+    },
+    {
+     "art": "A girl standing and arguing, with her mother listening and holding up a finger to answer.",
+     "caption": "2. Argue for an idea, then against it."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "The Story of Life, Told by RNA: make a picture book",
+   "mins": 60,
+   "days": 3,
+   "context": "In this 3-day project you make a short picture book in which RNA tells the story of life, from the young sea to you. It has to be true, and where nobody knows, it has to say so.",
+   "materials": [
+    {
+     "item": "4 sheets of paper folded in half and stapled, to make an 8-page book",
+     "qty": 4
+    },
+    {
+     "item": "pencils, crayons or paints",
+     "qty": 1
+    },
+    {
+     "item": "a picture book about the story of life, if you have one",
+     "qty": 1,
+     "buy": "b-book"
+    }
+   ],
+   "safety": "A grown-up does the stapling.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Plan 6 pages: the young Earth, the building blocks, RNA copying, the first cell skins, stromatolites, and the first oxygen."
+    },
+    {
+     "day": 2,
+     "mins": 25,
+     "what": "Draw and write each page, with one or two sentences in RNA's own voice."
+    },
+    {
+     "day": 3,
+     "mins": 15,
+     "what": "Add a last page, 'What nobody knows yet', and read the book aloud to your family."
+    }
+   ],
+   "record": "The finished book. On the back, list one thing in it that scientists know and one thing that is still an idea.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 20,
+     "do": "1. Fold and staple the book. 2. Together, list 6 page titles. 3. For each page, your child says one true sentence.",
+     "say": "RNA is telling the story. What happened first? What came next? Let's list six pages.",
+     "kid": "Make your book. Plan six pages. What does RNA say on each one?",
+     "parent": "Help with order: young Earth and sea, building blocks forming, RNA chains copying, chains inside fatty bubbles, stromatolites, oxygen rusting the sea. Keep each sentence true. Where it is only an idea, RNA can say 'Many scientists think...'."
+    },
+    {
+     "id": "s2",
+     "mins": 25,
+     "wait": "Come back tomorrow",
+     "do": "Draw and write each page.",
+     "say": "Draw each page and write RNA's words. Keep it true.",
+     "kid": "Draw each page. Write what RNA says. Is each sentence true?",
+     "check": {
+      "t": "mcq",
+      "q": "On one page, RNA says 'I was the very first life, for certain.' Is that a good sentence for a true book?",
+      "options": [
+       "Yes, scientists have proven it",
+       "No, it should say many scientists think so, but it is still being tested",
+       "Yes, because RNA is in every cell"
+      ],
+      "a": 1,
+      "why": "The RNA idea is a hypothesis. It has good evidence but is not proven. Picking 'RNA is in every cell' is a fair reason to like the idea, but it does not prove RNA came first."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "wait": "Come back the day after",
+     "do": "1. Add the last page, 'What nobody knows yet'. 2. Your child reads the book aloud to the family.",
+     "say": "What is the biggest thing nobody knows yet? Put it on the last page. Then read us your book.",
+     "kid": "Write the last page: what nobody knows yet. Read your book to your family."
+    }
+   ],
+   "setup": [
+    {
+     "art": "Four sheets folded and stapled into a small book, with a pencil and crayons beside it.",
+     "caption": "1. Make an 8-page book."
+    },
+    {
+     "art": "An open page showing a wiggly RNA strand with a smiling face and a speech bubble, in a blue sea.",
+     "caption": "2. Draw each page, with RNA telling the story."
+    },
+    {
+     "art": "A child reading her book aloud to her grandmother and brother on a sofa.",
+     "caption": "3. Read it aloud to your family."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Keep the Nail Grey",
+   "mins": 30,
+   "context": "This is a design challenge that follows the nail test. You find a way to stop an iron nail from rusting for three days, even though it sits in open tap water.",
+   "problem": "An iron nail in open tap water rusts within a day or two. Find a way to keep a nail grey for three days in open water, using things from home.",
+   "constraints": [
+    "The nail must sit in open tap water, with no lid and no oil layer on the water.",
+    "Use only things from home.",
+    "Put an untreated nail in another jar beside it, so you can compare."
+   ],
+   "materials": [
+    "2 plain iron nails",
+    "2 glasses of tap water",
+    "coatings to try: cooking oil, ghee, coconut oil, candle wax, nail polish, petroleum jelly, crayon"
+   ],
+   "general": [
+    "Coat the nail with grease or petroleum jelly, so water and air can't touch the iron.",
+    "Paint it with nail polish, as iron gates are painted.",
+    "Dip it in melted candle wax, with a grown-up."
+   ],
+   "creative": [
+    "Wrap the nail tightly in a strip of aluminium foil. Aluminium may protect the iron, a little like the zinc coat on shiny nails.",
+    "Rub the nail with a crayon until it is covered in wax.",
+    "Test which coating lasts longest when you rub the nail a little each day."
+   ],
+   "your_turn": "Invent your own way to keep a nail grey. Test it against an untreated nail for three days. Which worked best, and why?",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Remind your child of the nail test. Ask what a nail needs in order to rust.",
+     "say": "In the nail test, what did a nail need in order to rust?",
+     "kid": "What does a nail need to rust? Think back to the jars.",
+     "parent": "Iron needs oxygen and water to rust. So any coat that keeps both away should work."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Draw three ideas for keeping water and air away from the nail.",
+     "say": "Engineers draw before they build. Draw three ways to keep the nail grey.",
+     "kid": "Draw three ideas. How can you keep water and air off the nail?"
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "adult": true,
+     "do": "1. Coat one nail with the best idea. 2. Put it in a glass of tap water. 3. Put an uncoated nail in another glass beside it. 4. Check over three days.",
+     "say": "Now test it. We'll compare your coated nail with a plain one.",
+     "kid": "Coat one nail. Put both nails in water. Check them for three days.",
+     "parent": "Melted wax needs a grown-up and a low flame or a candle. Nail polish and petroleum jelly are easiest."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Read the usual and creative solutions, then invent one more.",
+     "say": "Here's what people usually do, and some creative ideas. Can you think of a better one?",
+     "kid": "Look at the usual ways and the creative ones. Invent your own.",
+     "think": "The iron in the young sea had no coat. What kept it from rusting for so long?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "Two glasses of water, each with a nail, one nail shiny with grease and one plain.",
+     "caption": "1. One coated nail, one plain nail, side by side."
+    },
+    {
+     "art": "Small bowls of oil, wax, nail polish and petroleum jelly on a table, with a nail in tongs.",
+     "caption": "2. Try different coatings."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "The Copying Machine",
+   "mins": 30,
+   "context": "This is a design challenge that follows the copy-mistakes activity. You invent a way to copy a 20-letter chain fast, with as few mistakes as possible.",
+   "problem": "Copy a 20-letter chain of A, U, C and G five times, each copy from the last, in under one minute per copy. Invent a way to make fewer mistakes.",
+   "constraints": [
+    "Each copy must take less than one minute.",
+    "Each copy is made from the copy before.",
+    "Count the mistakes in the fifth copy."
+   ],
+   "materials": [
+    "paper and pencil",
+    "a timer",
+    "letter cards from the Copy the Chain activity",
+    "a family member as a helper"
+   ],
+   "general": [
+    "Copy in groups of 4 letters at a time, so you don't lose your place.",
+    "After each copy, check it against the line above.",
+    "Use a ruler under the line you are copying."
+   ],
+   "creative": [
+    "Have a helper check each copy, like the checker in a cell that fixes mistakes.",
+    "Copy by partners instead, A to U and C to G, then partner again, so each letter is checked twice.",
+    "Give each letter a colour, so a wrong letter stands out."
+   ],
+   "your_turn": "Invent your own copying machine. Test it: how many mistakes in the fifth copy, compared with copying fast with no method?",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Write a 20-letter chain. Copy it five times fast, with no method, and count the mistakes.",
+     "say": "First, let's see how many mistakes we make with no method at all.",
+     "kid": "Copy the chain five times, fast. Count the mistakes in the last copy."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Draw or list three ideas for copying with fewer mistakes.",
+     "say": "How could you copy with fewer mistakes, and still be quick?",
+     "kid": "Think of three ways to make fewer mistakes. Write them down."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "Try the best idea. Copy five times again and count the mistakes.",
+     "say": "Test your best idea. Did you make fewer mistakes this time?",
+     "kid": "Try your best idea. Copy five times. Count the mistakes again.",
+     "parent": "Checking each copy against the one above usually cuts mistakes the most. Living cells do this too: some of their copying proteins check and fix mistakes."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Read the usual and creative ideas, then invent one more.",
+     "say": "Here are some ideas. Which would you add to your machine?",
+     "kid": "Read the ideas. Which one would you add?",
+     "think": "If the first RNA copied with no checker, it made many mistakes. Was that good or bad for life?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A child copying a long chain of coloured letters, with a timer showing 45 seconds.",
+     "caption": "1. Copy fast, five times. Count the mistakes."
+    },
+    {
+     "art": "A girl copying while her father checks each line with a ruler.",
+     "caption": "2. Add a checker. Count again."
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "What Was The Miller-Urey Experiment?",
+   "channel": "Stated Clearly",
+   "youtube": "NNijmxsKGbc",
+   "mins": 6,
+   "why": "A clear cartoon of Stanley Miller's spark experiment, and what it does and does not show about how life began.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'What Was The Miller-Urey Experiment?', channel Stated Clearly). Length not checked, and not watched from here: a parent should preview it."
+  },
+  {
+   "title": "DNA vs RNA - Differences in Form and Function",
+   "channel": "Stated Clearly",
+   "youtube": "FNynz6Q12Bw",
+   "mins": 6,
+   "why": "For the parent and curious older children: how RNA differs from DNA, and why RNA can do jobs as well as carry instructions.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'DNA vs RNA - Differences in Form and Function | Stated Clearly'). Length not checked, and not watched from here: a parent should preview it."
+  },
+  {
+   "title": "The Great Oxidation Event (GOE)",
+   "channel": "GEO GIRL",
+   "youtube": "LK6X3EGEdOY",
+   "mins": 10,
+   "why": "For the parent: a geologist explains how oxygen made by cyanobacteria built up, and how banded iron rocks record it. It goes with the nail test.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'The Great Oxidation Event (GOE) | GEO GIRL', channel GEO GIRL). Length not checked, and not watched from here: a parent should preview it and decide whether it suits the child."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Every living thing comes from another living thing. Why does that make the first life a puzzle?",
+   "a": 1,
+   "why": "If life only comes from life, then the first life had nothing alive to come from. So something must once have been different.",
+   "opts": [
+    "Because there are too many living things",
+    "Because the first life had no living thing to come from",
+    "Because life is very small",
+    "Because the Earth is round"
+   ],
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "The Earth is about 4.5 billion years old. About how old are the oldest signs of life we are fairly sure of?",
+   "a": 1,
+   "why": "About 3.5 billion years, from stromatolites in Western Australia. Picking 4.5 billion would mean life began the moment the Earth formed.",
+   "opts": [
+    "4.5 billion years",
+    "3.5 billion years",
+    "600 million years",
+    "6,000 years"
+   ],
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "On a time string where 1 metre is 1 billion years, how far from the start are the oldest stromatolites, from 3.5 billion years ago?",
+   "a": 0,
+   "why": "4.5 minus 3.5 is 1. So the oldest stromatolites are 1 metre from the start.",
+   "opts": [
+    "1 metre",
+    "3.5 metres",
+    "35 centimetres",
+    "4 metres"
+   ],
+   "outcome": 1,
+   "how": "a2"
+  },
+  {
+   "t": "mcq",
+   "p": "How did microbes build stromatolites?",
+   "a": 2,
+   "why": "Mud settled on a mat of microbes, and the microbes grew up through it to make a new mat. Layer after layer built a dome. Picking 'carried stones' gives microbes a job they cannot do at their size.",
+   "opts": [
+    "They carried small stones",
+    "They ate rock",
+    "Mud settled on their mat, and they grew up through it, again and again",
+    "They froze into ice"
+   ],
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Revathi puts an iron nail in boiled water, pours oil on top and closes the lid. Another nail sits in open tap water. After three days, what will she most likely see?",
+   "a": 1,
+   "why": "The nail in open water rusts, because oxygen reaches it. The nail sealed under oil gets very little oxygen, so it stays almost grey.",
+   "opts": [
+    "Both nails rusty",
+    "The open-water nail rusty, the sealed nail almost grey",
+    "The sealed nail rusty, the open-water nail grey",
+    "Both nails gone"
+   ],
+   "outcome": 3,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "What do the red stripes in banded iron rock show?",
+   "a": 0,
+   "why": "They are layers of rust that formed when oxygen made by microbes met iron in the sea.",
+   "opts": [
+    "Rust that formed when oxygen from microbes met iron in the sea",
+    "Dried blood of old animals",
+    "Paint from long ago",
+    "Red sand from deserts"
+   ],
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A chain of RNA reads C A G U. What is its partner chain?",
+   "a": 2,
+   "why": "C pairs with G, A with U, G with C, and U with A. So the partner is G U C A.",
+   "opts": [
+    "C A G U",
+    "A C U G",
+    "G U C A",
+    "U G A C"
+   ],
+   "outcome": 4,
+   "how": "a3"
+  },
+  {
+   "t": "mcq",
+   "p": "What does the RNA idea say?",
+   "a": 1,
+   "why": "It says that the first life may have been RNA, which can carry instructions and do jobs. DNA and proteins came later. It is still being tested.",
+   "opts": [
+    "DNA came before everything",
+    "The first life may have been RNA that could help copy itself",
+    "Life began with animals",
+    "RNA is a kind of rock"
+   ],
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Why do scientists call the RNA idea a hypothesis and not a fact?",
+   "a": 2,
+   "why": "It has good evidence, but nobody has yet shown RNA copying itself from scratch, as the idea needs.",
+   "opts": [
+    "Because nobody likes it",
+    "Because RNA does not exist",
+    "Because it has not yet been fully shown to work",
+    "Because it is too old"
+   ],
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "What did Stanley Miller's spark experiment show?",
+   "a": 0,
+   "why": "It showed that amino acids, building blocks of proteins, can form from water and simple gases with energy, without any living thing.",
+   "opts": [
+    "Building blocks of life can form without living things",
+    "Life can be made in a week",
+    "Lightning kills microbes",
+    "Gases cannot change"
+   ],
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Before 1828, many chemists believed something that Wöhler showed was wrong. What was it?",
+   "a": 1,
+   "why": "They believed only living things could make the chemicals of life. Wöhler made urea from non-living chemicals.",
+   "opts": [
+    "That the Earth is flat",
+    "That only living things could make the chemicals of life",
+    "That iron never rusts",
+    "That RNA was the first life"
+   ],
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Which is true about where life began?",
+   "a": 3,
+   "why": "Vents, warm pools and space all have supporters and evidence, but nobody knows yet.",
+   "opts": [
+    "It began at sea-floor vents, for certain",
+    "It began in warm pools, for certain",
+    "It came from space, for certain",
+    "Nobody knows yet"
+   ],
+   "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "In the banana test, white threads rose into the cold spirit. What were they?",
+   "a": 2,
+   "why": "They were mostly DNA, the chain molecule that holds the instructions in every cell, clumped together in millions of strands.",
+   "opts": [
+    "Banana fibres",
+    "Soap bubbles",
+    "Mostly DNA from the banana's cells",
+    "Salt crystals"
+   ],
+   "outcome": 4,
+   "how": "e2"
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "The First Life (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "About how old is the Earth?",
+     "a": 2,
+     "why": "The Earth is about 4.5 billion years old. Picking 4,500 years is a common mix-up between thousands and billions.",
+     "opts": [
+      "About 4,500 years",
+      "About 4.5 million years",
+      "About 4.5 billion years",
+      "About 45 years"
+     ]
+    },
+    {
+     "t": "mcq",
+     "p": "How old are the oldest signs of life we are fairly sure of?",
+     "a": 1,
+     "why": "Stromatolites about 3.5 billion years old, in Western Australia, are the oldest signs of life most scientists accept.",
+     "opts": [
+      "About 6,000 years",
+      "About 3.5 billion years",
+      "About 66 million years",
+      "About 1 billion years"
+     ]
+    },
+    {
+     "t": "truefalse",
+     "p": "Every living thing today comes from another living thing.",
+     "a": true,
+     "why": "True. Puppies come from dogs, plants from seeds, and bacteria from other bacteria."
+    },
+    {
+     "t": "truefalse",
+     "p": "Scientists know for sure how life began.",
+     "a": false,
+     "why": "False. Nobody knows yet. There are good ideas, such as the RNA idea, and scientists are testing them."
+    },
+    {
+     "t": "fill",
+     "p": "A rock built in thin layers by mats of microbes is called a ____.",
+     "a": [
+      "stromatolite"
+     ],
+     "why": "Stromatolites grow as microbe mats trap mud and grow up through it, layer after layer."
+    },
+    {
+     "t": "mcq",
+     "p": "In the nail test, which nail stayed grey the longest?",
+     "a": 1,
+     "why": "The nail in boiled water under oil got very little oxygen, so it hardly rusted. The salty water nail rusted fastest.",
+     "opts": [
+      "The nail in open tap water",
+      "The nail in boiled water under oil",
+      "The nail in open salty water"
+     ],
+     "how": "e1"
+    },
+    {
+     "t": "fill",
+     "p": "Iron joins with ____ to make rust.",
+     "a": [
+      "oxygen"
+     ],
+     "why": "Rust forms when oxygen reaches iron, and water helps."
+    },
+    {
+     "t": "match",
+     "p": "Match each RNA letter to its partner.",
+     "a": {
+      "A": "U",
+      "U": "A",
+      "C": "G",
+      "G": "C"
+     },
+     "why": "A pairs with U, and C pairs with G.",
+     "pairs": [
+      [
+       "A",
+       "U"
+      ],
+      [
+       "U",
+       "A"
+      ],
+      [
+       "C",
+       "G"
+      ],
+      [
+       "G",
+       "C"
+      ]
+     ]
+    },
+    {
+     "t": "write",
+     "p": "A chain reads A A C G. Write its partner chain.",
+     "a": "U U G C",
+     "why": "A pairs with U, and C pairs with G. So A A C G has the partner U U G C.",
+     "how": "a3"
+    },
+    {
+     "t": "mcq",
+     "p": "What did the first oxygen made by microbes do to the iron in the sea?",
+     "a": 0,
+     "why": "Oxygen met the dissolved iron and made rust, which sank in layers. These became banded iron rocks.",
+     "opts": [
+      "It made rust, which sank in layers",
+      "It made the iron float",
+      "Nothing happened",
+      "It turned the iron into salt"
+     ]
+    },
+    {
+     "t": "truefalse",
+     "p": "Almost all the oxygen in the air was made by living things that use sunlight.",
+     "a": true,
+     "why": "True. Cyanobacteria, algae and plants give out oxygen when they make food from sunlight."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, oldest first.",
+     "a": [
+      "The Earth forms",
+      "The oldest stromatolites",
+      "Oxygen fills the air",
+      "The first animals",
+      "People"
+     ],
+     "why": "The Earth formed 4.5 billion years ago, the oldest stromatolites are about 3.5 billion years old, oxygen filled the air from about 2.4 billion years ago, the first animals came about 600 million years ago, and people only about 300,000 years ago.",
+     "items": [
+      "The first animals",
+      "The Earth forms",
+      "People",
+      "Oxygen fills the air",
+      "The oldest stromatolites"
+     ]
+    },
+    {
+     "t": "mcq",
+     "p": "What is RNA?",
+     "a": 2,
+     "why": "RNA is a chain molecule with four kinds of letters: A, U, C and G. It is a close cousin of DNA.",
+     "opts": [
+      "A kind of rock",
+      "A tiny animal",
+      "A chain molecule of four kinds of letters",
+      "A gas in the air"
+     ]
+    },
+    {
+     "t": "draw",
+     "p": "Draw a stromatolite cut open, and show its layers.",
+     "a": "A dome of rock with many thin wavy layers, one on top of the other.",
+     "why": "Each layer was once a mat of microbes that grew up through the mud on top of it."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these: living thing, or once made by living things?",
+     "a": "see items",
+     "why": "Cyanobacteria and a curd bacterium are alive now. A stromatolite, banded iron rock and the oxygen in the air were made by living things.",
+     "cats": [
+      "Living thing",
+      "Made by living things"
+     ],
+     "items": [
+      [
+       "a cyanobacterium",
+       "Living thing"
+      ],
+      [
+       "a stromatolite",
+       "Made by living things"
+      ],
+      [
+       "a curd bacterium",
+       "Living thing"
+      ],
+      [
+       "banded iron rock",
+       "Made by living things"
+      ],
+      [
+       "the oxygen in the air",
+       "Made by living things"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Clues to the Beginning (stretch)",
+   "tier": "stretch",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Stanley Miller filled a flask with water and gases and made sparks in it for a week. What did he find?",
+     "a": 1,
+     "why": "He found amino acids, the building blocks of proteins. This showed they can form without living things.",
+     "opts": [
+      "Tiny living cells",
+      "Amino acids",
+      "Gold",
+      "Nothing at all"
+     ]
+    },
+    {
+     "t": "mcq",
+     "p": "Before 1828, many chemists believed the chemicals of living bodies could be made only by...",
+     "a": 0,
+     "why": "They believed only living things, with a 'life force', could make them. Wöhler made urea from non-living chemicals and showed this was wrong.",
+     "opts": [
+      "living things",
+      "the Sun",
+      "machines",
+      "lightning"
+     ]
+    },
+    {
+     "t": "fill",
+     "p": "Friedrich Wöhler made ____, a chemical found in urine, from non-living chemicals.",
+     "a": [
+      "urea"
+     ],
+     "why": "In 1828 he made urea from ammonium cyanate."
+    },
+    {
+     "t": "mcq",
+     "p": "Why is the RNA idea attractive to scientists?",
+     "a": 2,
+     "why": "RNA can both carry instructions, like DNA, and do some jobs, like proteins. So it could have come first.",
+     "opts": [
+      "Because RNA is a rock",
+      "Because RNA is found only in meteorites",
+      "Because RNA can carry instructions and also do some jobs",
+      "Because RNA makes oxygen"
+     ]
+    },
+    {
+     "t": "truefalse",
+     "p": "The RNA idea has been proven in the lab.",
+     "a": false,
+     "why": "False. Scientists have made parts of it work, such as RNA that copies other RNA, but not RNA that copies itself from scratch."
+    },
+    {
+     "t": "mcq",
+     "p": "In the banana test, the glass with no food stayed clear. Why was that glass useful?",
+     "a": 1,
+     "why": "It is the control. It showed that the threads came from the cells, not from the salt, washing liquid or spirit.",
+     "opts": [
+      "It made the banana taste better",
+      "It showed the threads came from the cells, not the other things",
+      "It was a spare glass"
+     ],
+     "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "Why did we boil the water for jar B in the nail test?",
+     "a": "Boiling drives most of the air, with its oxygen, out of the water.",
+     "why": "With little oxygen in the water, the nail could hardly rust.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "What is a ribozyme?",
+     "a": 0,
+     "why": "A ribozyme is a piece of RNA that does a job, like cutting or joining other molecules.",
+     "opts": [
+      "RNA that does a job",
+      "A kind of fossil",
+      "A meteorite",
+      "A sea-floor vent"
+     ]
+    },
+    {
+     "t": "fill",
+     "p": "The part of the ribosome that joins amino acids into proteins is made of ____.",
+     "a": [
+      "RNA"
+     ],
+     "why": "This was shown in 2000. It is one of the strongest clues for the RNA idea."
+    },
+    {
+     "t": "mcq",
+     "p": "Venkatraman Ramakrishnan, who shared the 2009 Nobel Prize for working out the shape of the ribosome, was born in which town?",
+     "a": 2,
+     "why": "He was born in Chidambaram, in Tamil Nadu. He shared the prize with Ada Yonath and Thomas Steitz.",
+     "opts": [
+      "Kolkata",
+      "Mumbai",
+      "Chidambaram",
+      "Delhi"
+     ]
+    },
+    {
+     "t": "truefalse",
+     "p": "Fatty acid molecules can form tiny hollow bubbles in water by themselves.",
+     "a": true,
+     "why": "True. Their water-shy ends tuck in, and they close up into bubbles. The first cell skins may have formed this way."
+    },
+    {
+     "t": "mcq",
+     "p": "Why are living stromatolites found at Shark Bay in Australia?",
+     "a": 1,
+     "why": "The water there is very salty, and few snails and other grazers can live in it to eat the microbe mats.",
+     "opts": [
+      "It is very cold there",
+      "The water is so salty that few grazers can eat the mats",
+      "Nobody has ever been there",
+      "People planted them"
+     ]
+    },
+    {
+     "t": "write",
+     "p": "Copy this chain twice by partners: G U U A. What is the second copy?",
+     "a": "G U U A",
+     "why": "The first partner is C A A U. Its partner is G U U A, the same as the start.",
+     "how": "a3"
+    },
+    {
+     "t": "mcq",
+     "p": "In the copy-mistakes activity, why did a mistake carry on into all the later copies?",
+     "a": 0,
+     "why": "Each copy was made from the one before, so a change was passed on.",
+     "opts": [
+      "Each copy was made from the one before",
+      "The timer was wrong",
+      "The letters were too small"
+     ],
+     "how": "a4"
+    },
+    {
+     "t": "odd",
+     "p": "Which one is the odd one out? A, U, C, G, T",
+     "a": "T",
+     "why": "A, U, C and G are the letters of RNA. T is used in DNA in place of U."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "The Open Question (challenge)",
+   "tier": "challenge",
+   "mins": 20,
+   "items": [
+    {
+     "t": "write",
+     "p": "Give one piece of evidence for the idea that life began at hot sea-floor vents, and one problem with it.",
+     "a": "For: vents give warmth, minerals and energy all the time. Against: long chains like RNA break apart easily in hot water.",
+     "why": "Both sides have evidence, which is why scientists still argue."
+    },
+    {
+     "t": "write",
+     "p": "Give one piece of evidence for the idea that life began in warm pools on land, and one problem with it.",
+     "a": "For: drying and wetting helps small molecules join into chains. Against: there was little dry land on the young Earth.",
+     "why": "Again, there is evidence on both sides."
+    },
+    {
+     "t": "mcq",
+     "p": "Some say life came to Earth from space. What is the biggest problem with this as an answer to how life began?",
+     "a": 2,
+     "why": "Even if life came from space, it still had to begin somewhere. The idea moves the question, but does not answer it.",
+     "opts": [
+      "Space is too dark",
+      "Meteorites are too small",
+      "It does not explain how life began out there",
+      "Nobody has looked"
+     ]
+    },
+    {
+     "t": "write",
+     "p": "In the nail test, Divya's nail in jar B rusted a little on day 3. Give one reason this might have happened.",
+     "a": "Some air got into the water: from splashing while pouring, a gap in the oil layer, or air dissolving back in while it cooled.",
+     "why": "An odd result is a clue. Less oxygen still gave much less rust than in jars A and C.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Long ago, iron could stay dissolved in the sea for a very long time. Why?",
+     "a": 1,
+     "why": "There was almost no oxygen in the sea to turn the iron into rust.",
+     "opts": [
+      "The sea was frozen",
+      "There was almost no oxygen to make rust",
+      "Iron cannot rust in water",
+      "The iron was hidden in fish"
+     ]
+    },
+    {
+     "t": "truefalse",
+     "p": "All living things today use DNA, RNA and ribosomes.",
+     "a": true,
+     "why": "True. This is one of the main reasons scientists think all life shares one family."
+    },
+    {
+     "t": "write",
+     "p": "If a chain of RNA could copy itself in the sea, would you call it alive? Give a reason.",
+     "a": "Any answer with a reason. For example: yes, because it makes copies of itself and can change. Or: no, because it has no skin and does not take in food.",
+     "why": "Scientists themselves disagree on where to draw the line between chemistry and life."
+    },
+    {
+     "t": "mcq",
+     "p": "Why is it hard to find fossils of the very first life?",
+     "a": 0,
+     "why": "Very few rocks older than about 3.5 billion years survive, and the first life was tiny and soft.",
+     "opts": [
+      "Very few rocks that old survive, and the first life was tiny and soft",
+      "Nobody has looked",
+      "The first life was made of iron",
+      "Fossils only form in India"
+     ]
+    },
+    {
+     "t": "write",
+     "p": "Proteins are needed to copy DNA, and DNA is needed to make proteins. Explain why this is a puzzle, and how the RNA idea tries to solve it.",
+     "a": "Each needs the other, so it is hard to see which came first. RNA can carry instructions and do jobs, so RNA could have come first, before both.",
+     "why": "This is like the chicken and the egg. The RNA idea says the first life used one molecule for both jobs."
+    },
+    {
+     "t": "mcq",
+     "p": "Zita Martins and her team found uracil in the Murchison meteorite. Why does this matter?",
+     "a": 1,
+     "why": "Uracil is one of the four letters of RNA. Finding it in a meteorite shows that RNA letters can form in space, without life.",
+     "opts": [
+      "It proves there are aliens",
+      "It shows that an RNA letter can form without life",
+      "It shows the meteorite came from India",
+      "It shows the meteorite was alive"
+     ]
+    },
+    {
+     "t": "write",
+     "p": "Kavya says: 'Oxygen was always in the air.' What would you tell her, using the nail test and banded iron rock?",
+     "a": "Iron rusts where oxygen reaches it. The young sea held dissolved iron without rusting, so it had little oxygen. Red rust layers in banded iron show when oxygen made by microbes arrived.",
+     "why": "Rocks older than about 2.4 billion years show almost no oxygen in the air."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these is NOT evidence that all life is one family?",
+     "a": 3,
+     "why": "All life using DNA, ribosomes and the same code points to one family. Being green does not: many living things are not green.",
+     "opts": [
+      "All life uses DNA",
+      "All life uses ribosomes",
+      "All life reads the same genetic code",
+      "All life is green"
+     ]
+    },
+    {
+     "t": "write",
+     "p": "On a time string where 1 metre is 1 billion years, how far from the Today end are the first animals, from about 600 million years ago?",
+     "a": "60 centimetres.",
+     "why": "600 million is 6 tenths of a billion. 6 tenths of a metre is 60 centimetres.",
+     "how": "a2"
+    },
+    {
+     "t": "write",
+     "p": "Ask one question about how life began that you think nobody has answered yet.",
+     "a": "Any honest question. For example: what was the first RNA chain? Did life begin more than once?",
+     "why": "Open questions drive science. Good ones can be tested."
+    },
+    {
+     "t": "draw",
+     "p": "Draw what you think the first cell looked like: a skin, and something inside that could be copied.",
+     "a": "A round bubble with a thin skin and a short chain of letters inside.",
+     "why": "Many scientists think the first cells were fatty acid bubbles with RNA inside."
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Searching for life on Mars: the Perseverance rover is collecting rock samples from Jezero Crater, an old lake bed, to look for signs of ancient microbes.",
+  "Space missions to the icy moons Europa and Enceladus, which have oceans under their ice, look for the chemistry life might need.",
+  "mRNA vaccines, such as some COVID-19 vaccines, use RNA to give cells instructions. Katalin Karikó and Drew Weissman won the 2023 Nobel Prize for the work behind them.",
+  "Some antibiotics, such as streptomycin and tetracycline, work by jamming the ribosomes of bacteria.",
+  "Painting, oiling and coating iron, such as gates, bridges and ship hulls, keeps oxygen and water away so it rusts less.",
+  "Geologists use stromatolites and banded iron rocks to find limestone, phosphate and iron ore. Jhamarkotra in Rajasthan is a phosphate mine near stromatolites.",
+  "DNA tests in hospitals and in forensic labs start with pulling DNA out of cells, as the banana test does.",
+  "Chemists who study how life began help design new ways to make medicines and materials from simple chemicals."
+ ],
+ "spotted": [
+  {
+   "text": "A rusty iron gate, grille or bicycle chain after the monsoon. Oxygen and water reached the iron.",
+   "art": "A rusty orange balcony grille with raindrops on it."
+  },
+  {
+   "text": "Green or black streaks on damp walls and old clay pots in the rainy season, made by cyanobacteria and algae.",
+   "art": "A white wall with dark green streaks running down below a dripping AC pipe."
+  },
+  {
+   "text": "Red, orange and grey striped rocks, used as building stone or seen on hillsides in Karnataka, Goa and Odisha, where iron ore is mined.",
+   "art": "A hillside cut showing red and grey bands of rock beside a road."
+  },
+  {
+   "text": "Shooting stars on a clear night. They are tiny bits of space dust burning up. Some bigger pieces land as meteorites.",
+   "art": "A night sky over a terrace with a short bright streak across it."
+  },
+  {
+   "text": "The sea at a beach such as Marina in Chennai or Kovalam in Kerala. Life lived only in water for most of the Earth's story.",
+   "art": "A beach at sunrise with waves rolling in and a child looking out to sea."
+  },
+  {
+   "text": "Curd setting overnight. Today, new microbes come only from living microbes.",
+   "art": "A clay pot of thick white curd with a spoon beside it."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "How did life begin?",
+   "why_open": "There are good ideas, but nobody has made life from non-living chemicals, and the first life left no fossils we have found."
+  },
+  {
+   "q": "Was RNA really first?",
+   "why_open": "RNA can carry instructions and do jobs, but it is hard to make without a cell and breaks easily. Some scientists think other chemistry came first."
+  },
+  {
+   "q": "Where did life begin: at sea-floor vents, in warm pools on land, or somewhere else?",
+   "why_open": "Each place has evidence for and against. There are no rocks left from the exact time and place."
+  },
+  {
+   "q": "When exactly did life begin?",
+   "why_open": "The oldest sure signs are about 3.5 billion years old. Some scientists think life is older, but older rocks are rare and changed by heat."
+  },
+  {
+   "q": "Did life begin once, or many times?",
+   "why_open": "All life today is one family. Other kinds may have begun and died out without a trace."
+  },
+  {
+   "q": "Is there life on other worlds?",
+   "why_open": "No life has been found beyond Earth yet. Mars, Europa and Enceladus are being studied."
+  },
+  {
+   "q": "How did the genetic code, the rules for turning RNA letters into proteins, begin?",
+   "why_open": "All life uses nearly the same code, but nobody knows how it first came about."
+  }
+ ],
+ "ask_kids": [
+  "Where did you come from? And where did she come from? How far back can we go?",
+  "Can you spot any rust today? What made it rust?",
+  "Every breath of oxygen was made by a living thing. Which living things near us make oxygen?",
+  "If the whole Earth's story was one day, what would people be? The last few seconds?",
+  "A, U, C, G. Can you make a partner chain for the letters of your name that are A, U, C or G?",
+  "What do you think the first cell looked like?",
+  "If we found tiny microbes on Mars, would they be our cousins or strangers? How could we tell?",
+  "Why do you think good scientists sometimes say 'Nobody knows yet'?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the RNA chain bring a partner to the party?",
+   "a": "Because A always dances with U."
+  },
+  {
+   "j": "What did the young Earth say to the first microbe?",
+   "a": "You're small, but you'll change everything."
+  },
+  {
+   "j": "Why was the iron nail so grumpy?",
+   "a": "It got rusty from all that oxygen."
+  },
+  {
+   "j": "How do stromatolites keep their secrets?",
+   "a": "In layers and layers."
+  },
+  {
+   "j": "What did C say to G?",
+   "a": "We make a great pair."
+  },
+  {
+   "j": "Why did the nail in the oil jar stay so calm?",
+   "a": "Nothing could get to it."
+  },
+  {
+   "j": "What is a microbe's favourite way to build a house?",
+   "a": "One thin layer at a time, for a billion years."
+  },
+  {
+   "j": "Why did the RNA chain cry after copying?",
+   "a": "It made a mistake, and now there were two of them."
+  },
+  {
+   "j": "What did the banana say to the spirit?",
+   "a": "Stop pulling my threads."
+  },
+  {
+   "j": "Why don't stromatolites ever hurry?",
+   "a": "They've had 3.5 billion years of practice at waiting."
+  },
+  {
+   "j": "What did the scientist say when asked how life began?",
+   "a": "Nobody knows yet, and that's the exciting part."
+  },
+  {
+   "j": "Why did the oxygen go to the sea?",
+   "a": "To meet some iron and get a little rusty."
+  },
+  {
+   "j": "How does a cyanobacterium say good morning?",
+   "a": "With a puff of fresh oxygen."
+  },
+  {
+   "j": "Why was the time string so humble?",
+   "a": "Because people only took up the very last dot."
+  },
+  {
+   "j": "What did the first cell say to its skin?",
+   "a": "Thanks for holding me together."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "On the time string, 1 metre stands for 1 billion years. The oldest stromatolites are from 3.5 billion years ago. How far from the Today end do they go?",
+   "answer": "3 metres and 50 centimetres.",
+   "explain": "Each billion years is 1 metre. So 3.5 billion years is 3.5 metres. 0.5 of a metre is 50 centimetres. So it is 3 metres and 50 centimetres from the Today end. That is 1 metre from the start, because 4.5 minus 3.5 is 1.",
+   "math_unit": "math.length.standard-units-length.L3",
+   "context": "This is about the Time String. You lay a 4.5 metre string along the floor, with one metre for each billion years.",
+   "how": "a2",
+   "why_maths": "A billion years is too long to imagine. Turning years into metres lets you see how long life has been here."
+  },
+  {
+   "problem": "On the time string, 1 centimetre stands for 10 million years. Dinosaurs died out 66 million years ago. About how far from the Today end should that label go? Is it nearer 6 cm or 7 cm?",
+   "answer": "About 6.6 centimetres, a little nearer 7 cm.",
+   "explain": "66 million years is 6 lots of 10 million, and 6 million more. 6 lots make 6 cm. 6 million is 6 tenths of 10 million, so it is about 6 tenths of a centimetre more. 6.6 cm is nearer 7 than 6.",
+   "math_unit": "math.measurement-basics.scale-models.L4",
+   "context": "This is about the Time String, where 1 metre is 1 billion years, so 1 centimetre is 10 million years.",
+   "how": "a2",
+   "why_maths": "A scale model only works if you change every date by the same rule. Then you can compare times by looking."
+  },
+  {
+   "problem": "You make the 4.5 metre time string from newspaper strips, each 50 centimetres long. How many strips do you need?",
+   "answer": "9 strips.",
+   "explain": "Two strips of 50 cm make 1 metre. 4 metres need 4 lots of 2, which is 8 strips. Half a metre more needs 1 more strip. 8 plus 1 is 9.",
+   "math_unit": "math.division.sharing-and-grouping.L3",
+   "context": "This is about making the Time String from newspaper if you have no long string.",
+   "how": "a2",
+   "why_maths": "Working out the strips first means you cut just enough paper and the timeline comes out the right length."
+  },
+  {
+   "problem": "Meenakshi counted rust spots on her nails after 2 days. The nail in open tap water had 10 spots. The nail in salty water had 30. The nail under oil had 1. How many times as many spots did the salty-water nail have as the tap-water nail? What does this tell you?",
+   "answer": "3 times as many. Salt makes iron rust faster.",
+   "explain": "30 divided by 10 is 3, so the salty-water nail had 3 times as many spots. Both nails had air and water. The only difference was salt, so salt made the rust form faster. The nail under oil had far fewer spots than either, because little oxygen reached it.",
+   "math_unit": "math.division.sharing-and-grouping.L3",
+   "context": "This is about the Rusting Nails test, with nails in open tap water, in salty water, and in boiled water under oil.",
+   "how": "e1",
+   "chart": {
+    "type": "bar",
+    "title": "Rust spots after 2 days (made-up example)",
+    "x": "Jar",
+    "y": "Rust spots",
+    "data": [
+     {
+      "label": "Open tap water",
+      "value": 10,
+      "emoji": "🟠"
+     },
+     {
+      "label": "Salty water",
+      "value": 30,
+      "emoji": "🟠"
+     },
+     {
+      "label": "Boiled water under oil",
+      "value": 1,
+      "emoji": "⚪"
+     }
+    ]
+   },
+   "why_maths": "Saying '3 times as many' shows how big the difference is, which a plain 'more' does not."
+  },
+  {
+   "problem": "Imagine one RNA chain that makes one copy of itself every hour, and every copy does the same. Start with 1 chain. How many chains are there after 5 hours?",
+   "answer": "32 chains.",
+   "explain": "The number doubles every hour: 1, 2, 4, 8, 16, 32. After 1 hour there are 2, and after 5 hours there are 32. Doubling grows very fast. After 10 hours there would be 1,024.",
+   "math_unit": "math.patterns.number-patterns.L3",
+   "context": "This is about the RNA idea, where chains of RNA make copies of themselves.",
+   "why_maths": "Spotting the doubling pattern shows why something that copies itself can fill a sea, even from one chain."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.evolution.L3",
+  "title": "A with U, C with G",
+  "note": "Topic-level song for Evolution L3"
+ },
+ "links": [
+  {
+   "title": "NOVA Labs: RNA Lab",
+   "url": "https://www.pbs.org/wgbh/nova/labs/lab/rna/",
+   "kind": "interactive",
+   "why": "Free online puzzles from PBS where you fold RNA chains into shapes. Best for older children with a parent."
+  },
+  {
+   "title": "Learn.Genetics: How to extract DNA from anything living",
+   "url": "https://learn.genetics.utah.edu/content/labs/extraction/howto/",
+   "kind": "interactive",
+   "why": "The University of Utah's step-by-step guide to the DNA extraction test, with pictures, for the parent."
+  },
+  {
+   "title": "Stromatolite (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Stromatolite",
+   "kind": "interactive",
+   "why": "Photos of living and fossil stromatolites, for the parent to show the child."
+  },
+  {
+   "title": "Banded iron formation (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Banded_iron_formation",
+   "kind": "interactive",
+   "why": "Photos of striped iron rocks, the rust layers left by the first oxygen."
+  },
+  {
+   "title": "Jhamarkotra Stromatolite Park",
+   "url": "https://en.wikipedia.org/wiki/Jhamarkotra_Stromatolite_Park",
+   "kind": "place",
+   "where": "Near Udaipur, Rajasthan",
+   "why": "A National Geological Monument where you can see fossil stromatolites in the rock."
+  },
+  {
+   "title": "Bhojunda Stromatolite Park",
+   "url": "https://en.wikipedia.org/wiki/Bhojunda_Stromatolite_Park",
+   "kind": "place",
+   "where": "Near Chittorgarh, Rajasthan",
+   "why": "Another National Geological Monument with fossil stromatolites."
+  },
+  {
+   "title": "National Fossil Wood Park, Tiruvakkarai",
+   "url": "https://en.wikipedia.org/wiki/National_Fossil_Wood_Park,_Tiruvakkarai",
+   "kind": "place",
+   "where": "Near Villupuram, Tamil Nadu",
+   "why": "Trees turned to stone, much younger than stromatolites, but a good place to see how fossils form."
+  },
+  {
+   "title": "List of National Geological Monuments in India",
+   "url": "https://en.wikipedia.org/wiki/List_of_National_Geological_Monuments_in_India",
+   "kind": "place",
+   "where": "All over India",
+   "why": "Find old rocks and fossil sites near you."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-nails",
+   "item": "Plain iron nails, about 5 cm, not shiny galvanised ones",
+   "kind": "material",
+   "why": "Plain iron nails rust within a day or two, so the nail test shows a clear result. A hardware shop sells them loose for a few rupees.",
+   "url": "https://www.amazon.in/s?k=iron+wire+nails+2+inch",
+   "used_in": [
+    "e1",
+    "c1"
+   ]
+  },
+  {
+   "id": "b-spirit",
+   "item": "Surgical spirit or rubbing alcohol, a small bottle",
+   "kind": "material",
+   "why": "Needed for the banana DNA test. Sold at medical shops. Keep it away from flames and children.",
+   "url": "https://www.amazon.in/s?k=surgical+spirit",
+   "used_in": [
+    "e2"
+   ]
+  },
+  {
+   "id": "b-lens",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "For looking at the green living film closely. A phone camera zoomed in also works.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
+   "used_in": [
+    "a5"
+   ]
+  },
+  {
+   "id": "b-book",
+   "item": "The Story of Life: A First Book about Evolution, by Catherine Barr and Steve Williams, illustrated by Amy Husband",
+   "kind": "book",
+   "why": "A picture book that tells the story of life from the first cells to today, for ages 5 to 8.",
+   "url": "https://www.amazon.in/s?k=The+Story+of+Life+Catherine+Barr",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Read it before day 2 of the picture book project, and compare its pages with your own."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "How old is the Earth?",
+   "a": "About 4.5 billion years."
+  },
+  {
+   "q": "How old are the oldest signs of life?",
+   "a": "About 3.5 billion years."
+  },
+  {
+   "q": "What builds a stromatolite?",
+   "a": "Mats of microbes that trap mud and grow up through it."
+  },
+  {
+   "q": "What does iron need to rust?",
+   "a": "Oxygen, and water helps."
+  },
+  {
+   "q": "Which letter pairs with A in RNA?",
+   "a": "U."
+  },
+  {
+   "q": "Which letter pairs with C in RNA?",
+   "a": "G."
+  },
+  {
+   "q": "Who made amino acids with sparks in a flask?",
+   "a": "Stanley Miller, in 1952."
+  },
+  {
+   "q": "Who made the oxygen in the air?",
+   "a": "Living things that use sunlight: cyanobacteria, algae and plants."
+  },
+  {
+   "q": "Does anyone know for sure how life began?",
+   "a": "No. Scientists are still testing ideas."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "a1",
+   "story",
+   "e1",
+   "e2",
+   "a2",
+   "g1",
+   "big_questions",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "summary",
+   "terms",
+   "explanations",
+   "a3",
+   "a2",
+   "e2",
+   "g1",
+   "videos",
+   "ws-core",
+   "a4",
+   "g2",
+   "agreed",
+   "challenging",
+   "a5",
+   "a6",
+   "c1",
+   "ws-stretch",
+   "p1",
+   "c2",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "a3",
+   "a2",
+   "e2",
+   "g1",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "a3",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/how-life-began.md: 'RNA's story of life', the founder's picture book narrated by RNA (nucleotides A, U, C and G pairing into chains that copy themselves; clay as a gathering place; RNA making peptides and proteins), used for the RNA pairing activity, the Copy Race game and the picture book project",
+   "ideas/by_topic/how-life-began.md: 'The Great Great Grandmother' (RNA in fatty acid bubbles as the first protocells), used in the cell skins card",
+   "ideas/by_topic/evolution-the-tree-of-life.md: the evolution picture book and species ladder, used for the time string and timeline game",
+   "Prerequisite units sci.what-is-life.signs-of-life.L3 and sci.what-is-life.cells.L3 (built on, not repeated: life from life, Pasteur, the curd test)"
+  ],
+  "science": [
+   "Wöhler, Annalen der Physik und Chemie 1828 (synthesis of urea)",
+   "Miller, Science 1953, 'A production of amino acids under possible primitive earth conditions'; Johnson and others, Science 2008 (re-analysis of Miller's samples)",
+   "Oparin 1924 and Haldane, Rationalist Annual 1929 (the primordial soup idea)",
+   "Wilde and others, Nature 2001 (4.4-billion-year-old Jack Hills zircons and early water)",
+   "Allwood and others, Nature 2006 (Strelley Pool stromatolite reef, about 3.43 billion years)",
+   "Banerjee and others, Chemical Geology 2023, and Geological Field Trips and Maps (Papaghni Group field guide), on the Vempalle Formation stromatolites, about 2.0 to 1.9 billion years",
+   "Lyons, Reinhard and Planavsky, Nature 2014 (the rise of oxygen and the Great Oxidation Event)",
+   "Kvenvolden and others, Nature 1970 (amino acids in the Murchison meteorite); Martins and others, Earth and Planetary Science Letters 2008 (uracil in Murchison)",
+   "Kruger and others (Cech lab), Cell 1982; Guerrier-Takada and others (Altman lab), Cell 1983 (ribozymes)",
+   "Gilbert, Nature 1986, 'The RNA world'",
+   "Nissen, Hansen, Ban, Moore and Steitz, Science 2000 (the ribosome is a ribozyme)",
+   "Lincoln and Joyce, Science 2009 (self-sustained replication of an RNA enzyme)",
+   "Deamer, Nature 1985 (Murchison fatty acids form membranes); Hanczyc, Fujikawa and Szostak, Science 2003 (clay and vesicles)",
+   "Kelley and others, Nature 2001 (the Lost City vent field)",
+   "Darwin, letter to J.D. Hooker, 1 February 1871 ('warm little pond')"
+  ]
+ },
+ "roots": {
+  "context": "We have learned about the oldest life, the first oxygen, and the RNA idea of how life began. Now we ask what this story tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Your nail in open water rusted, but the nail sealed under oil stayed almost grey. Iron rusts only where oxygen reaches it. Earth's early sea had almost no oxygen until tiny microbes began making it. Their oxygen rusted iron in the sea, and much of that rust became the iron ore India mines today.",
+   "habit": "We think of the Earth as a stage, and living things as the actors who live on it. But the oldest life changed the stage itself: the air, the sea and the rocks. The planet we live on is partly made by life.",
+   "evidence": "In the nail test, the nail with oxygen rusted and the nail without oxygen did not. Banded iron rocks, at Kudremukh, Sandur and Bailadila, hold red layers of rust that formed when oxygen made by microbes met iron in the sea."
+  },
+  "three": {
+   "who_am_i": "Your cells hold DNA and RNA written in the same four-letter way as a banana's and a microbe's. You come from the same first cells as every living thing.",
+   "what_is_life": "Life began small and stayed tiny for most of the Earth's story. Those tiny lives changed the sea, the rocks and the air.",
+   "what_is_this_world": "The air you breathe, and even the iron in a nail, carry the work of microbes from billions of years ago."
+  },
+  "thread": "Before life, the young sea held only a few kinds of simple molecules. Some joined into chains, and chains that could be copied made more of themselves. Small copying mistakes made new kinds, and those made more kinds still. From a few simple molecules came every living thing, from microbes to mango trees to you. And the living things, in turn, remade the sea, the air and the rocks they came from.",
+  "teachings": [
+   {
+    "source": "Taittiriya Upanishad 2.1",
+    "teaching": "From the Self came space, from space air, from air fire, from fire water, from water earth. From earth came plants, from plants food, and from food the person.",
+    "link": "Like the story science tells, it says the living came step by step out of simpler things, with water and earth before plants and people."
+   },
+   {
+    "source": "Rig Veda 10.121.7, the Hiranyagarbha hymn",
+    "teaching": "When the great waters came, holding the seed of everything and giving birth to fire, the one life-breath of the gods arose from them.",
+    "link": "The hymn places the first life-breath in the waters. Science too finds that the oldest life we know lived in water, and for most of the Earth's story, life lived only in water."
+   },
+   {
+    "source": "Thales of Miletus, about 600 BCE, as reported by Aristotle in Metaphysics, Book 1 (983b)",
+    "teaching": "Water is the origin of all things.",
+    "link": "Thales, one of the first Greek philosophers, guessed that water was first. The oldest life we know did grow in water, though not everything comes from water."
+   }
+  ],
+  "science": [
+   {
+    "text": "Life has been on Earth for at least 3.5 billion years, and all life today shares one family.",
+    "status": "settled"
+   },
+   {
+    "text": "Oxygen in the air was made by living things, beginning with cyanobacteria.",
+    "status": "settled"
+   },
+   {
+    "text": "Life may have begun as RNA that could help copy itself.",
+    "status": "idea"
+   },
+   {
+    "text": "How and where life began is not known.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Many chemists and biologists, and many faiths",
+   "view": "Many scientists see the start of life as chemistry following its own rules, with no aim or awareness behind it. Many faiths teach that life was made by God. Both views are held by thoughtful people, and the science does not settle that question either way."
+  },
+  "practice": {
+   "title": "Breathe the microbes' gift",
+   "mins": 3,
+   "say": "Let's sit still and close our eyes. Breathe in slowly through your nose. The oxygen in that breath was made by living things using sunlight. The first ones were tiny microbes, billions of years ago. Breathe out slowly. Your breath goes back to the plants and the sea. Let's take five slow breaths like that, in silence.",
+   "kid": "Close your eyes. Breathe in slowly. Living things made that oxygen. Tiny microbes made it first, long ago. Breathe out slowly. Do it five times."
+  },
+  "ask": [
+   "The microbes changed the whole Earth without knowing we would come. What might the living things around us now be changing?",
+   "If the first life was a chain of RNA that copied itself, where does chemistry end and life begin?",
+   "You come from the same first cells as a banana. In what ways is a banana your relative?"
+  ],
+  "art": "A child breathing in on a balcony at sunrise, with faint lines of air coming from a potted plant, and below, drawn like a dream, a shallow ancient sea with stromatolite domes and rusty layers forming on the sea floor."
+ },
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: shiny silver nails have a zinc coat and rust slowly, so the nail test asks for plain grey iron nails, or for shiny ones rubbed with sandpaper. The boiled water for jar B cools with its lid on, is poured gently, and gets a full layer of oil, because splashing lets air back in. The step says what to do if nail B rusts a little. The banana test needs ice-cold spirit and slow pouring, both stated, with a control glass of no food, and a grown-up keeps the spirit away from the stove. The green film search depends on the season, so it is not in the spine and gives an alternative. The time string fits along a corridor or across two rooms, and newspaper strips can replace string. Both games work for one child alone. Timings were checked step by step. The spine fits about 85 minutes.",
+ "how_we_found_out": {
+  "story": "For a long time, many chemists thought the chemicals in living bodies were special. They believed only a living thing, with a 'life force' inside it, could make them. In 1828, Friedrich Wöhler, a German chemist, heated a salt called ammonium cyanate, which is made from non-living chemicals. To his surprise, he got urea, a chemical found in urine. He wrote to a friend that he had made urea without needing a kidney. It took many more experiments to convince everyone, but the old idea began to crack. More than a hundred years later, in 1952, Stanley Miller was a young student working with Harold Urey in Chicago. He wanted to test an idea of Alexander Oparin in Russia and J.B.S. Haldane in Britain: that the young sea was a soup in which life's chemicals could form. He filled a flask with water, methane, ammonia and hydrogen, and made electric sparks in it for a week. The water turned brown. In it were amino acids, the building blocks of proteins. Haldane later moved to India and became an Indian citizen. He worked in Kolkata and Bhubaneswar until he died in 1964.",
+  "who": "Friedrich Wöhler, a German chemist, and Stanley Miller, an American student working with Harold Urey",
+  "when": "1828 (Wöhler makes urea) and 1952 (Miller's spark experiment, published in 1953)",
+  "wrong_idea": "People thought that the chemicals of living things could only be made by living things, with a special life force. Wöhler made urea from non-living chemicals, and Miller made amino acids from gases, water and sparks."
+ }
+}

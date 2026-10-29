@@ -244,14 +244,14 @@
    "concept": "See-through animals",
    "status": "defined",
    "definition": "Some animals are almost transparent. This helps them hide, because predators look straight through them.",
-   "description": "Being see-through is a clever way to hide. Many jellyfish are almost all water, so they are nearly invisible in the sea. Glass frogs in the rainforests of Central and South America have see-through skin on their bellies. But blood is red, and red is easy to spot. In 2022, scientists found that a sleeping glass frog hides almost all its red blood cells inside its liver. That makes it about two or three times more see-through. When it wakes, the blood flows out again. Nobody yet knows how the frog stops this packed blood from clotting.",
+   "description": "Being see-through is a clever way to hide. Many jellyfish are almost all water, so they are nearly invisible in the sea. Glass frogs in the rainforests of Central and South America have see-through skin on their bellies. But blood is red, and red is easy to spot. In 2022, scientists found that a sleeping glass frog hides almost all their red blood cells inside their liver. That makes them about two or three times more see-through. When they wake, the blood flows out again. Nobody yet knows how the frog stops this packed blood from clotting.",
    "examples": [
     "A jellyfish can be very hard to see in clear water.",
-    "A glass frog's heart can sometimes be seen beating through its skin.",
+    "A glass frog's heart can sometimes be seen beating through their skin.",
     "Some tiny shrimps and baby fish are almost transparent."
    ],
    "perspectives": [],
-   "art": "A glass frog asleep on a leaf, its body pale and see-through, with a small shiny liver visible inside.",
+   "art": "A glass frog asleep on a leaf, their body pale and see-through, with a small shiny liver visible inside.",
    "context": "This card is about animals that are almost see-through, and how it helps them."
   },
   {
@@ -445,7 +445,7 @@
    "hint": "Think of dark matter, which no light shows us."
   },
   {
-   "q": "A glass frog hides its blood to become see-through. If you could be see-through for a day, would you want to be?",
+   "q": "A glass frog hides their blood to become see-through. If you could be see-through for a day, would you want to be?",
    "kind": "big",
    "hint": "Would you feel safer, or more alone?"
   },
@@ -2399,12 +2399,12 @@
      "t": "mcq",
      "p": "A sleeping glass frog becomes more see-through. How?",
      "opts": [
-      "It stops breathing",
-      "It hides most of its red blood cells in its liver",
-      "It drinks lots of water"
+      "They stop breathing",
+      "They hide most of their red blood cells in their liver",
+      "They drink lots of water"
      ],
      "a": 1,
-     "why": "Scientists found this in 2022. Red blood is easy to spot, so the frog packs most of its red blood cells into its liver while it sleeps. When it wakes, the blood flows out again."
+     "why": "Scientists found this in 2022. Red blood is easy to spot, so the frog packs most of their red blood cells into their liver while they sleep. When they wake, the blood flows out again."
     },
     {
      "t": "mcq",
@@ -2807,7 +2807,7 @@
    "why_open": "It pulls on stars and galaxies, so we know something is there. But big experiments have not yet caught a single particle of it."
   },
   {
-   "q": "How does a glass frog keep its blood from clotting when it packs it into its liver?",
+   "q": "How does a glass frog keep their blood from clotting when they pack it into their liver?",
    "why_open": "In people, packed blood would clot dangerously. The frog does this every night and wakes up fine. Scientists are still studying how."
   },
   {
@@ -3252,7 +3252,7 @@
   },
   "three": {
    "who_am_i": "Your hand looks opaque, yet red light passes through your fingers. Even you are a little translucent.",
-   "what_is_life": "Some animals hide by being almost transparent. A sleeping glass frog even packs most of its red blood cells into its liver while it sleeps.",
+   "what_is_life": "Some animals hide by being almost transparent. A sleeping glass frog even packs most of their red blood cells into their liver while they sleep.",
    "what_is_this_world": "The whole universe was once like a thick fog. Then it cleared, and light could travel. We still see that first clear light today."
   },
   "thread": "Everything comes from one source and is connected. In this unit, the same torch light met glass, butter paper and a steel plate. Glass let it pass, butter paper scattered it, and steel sent it back or absorbed it. The light did not change, and neither did the materials. Transparent, translucent and opaque name what happens when the two meet.",

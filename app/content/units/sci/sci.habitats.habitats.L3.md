@@ -1,9 +1,9 @@
 # Habitats: the places that give living things what they need
 `sci.habitats.habitats.L3`
 
-**Summary.** Is there anywhere that nothing can live? In 1977, scientists in a small submarine went down to the dark floor of the Pacific Ocean. They expected warm springs and bare rock, and they found giant worms and clams. A habitat is the place where a living thing finds what it needs: food, water, air, shelter, space and the right warmth. A pond, a forest, a desert and the sea each give some things easily and make other things hard. Even a bowl of warm milk can be a habitat, for the bacteria that turn it into curd. Living things also change their habitats: trees make shade and damp air, and worms make soil. Your own body is a habitat for trillions of tiny living things. Nobody knows yet whether any other world has a habitat with life.
+**Summary.** Is there anywhere that nothing can live? In 1977, scientists in a small submarine went down to the dark floor of the Pacific Ocean. They expected warm springs and bare rock, and they found giant worms and clams. A habitat is the place where a living thing finds what they need: food, water, air, shelter, space and the right warmth. A pond, a forest, a desert and the sea each give some things easily and make other things hard. Even a bowl of warm milk can be a habitat, for the bacteria that turn it into curd. Living things also change their habitats: trees make shade and damp air, and worms make soil. Your own body is a habitat for trillions of tiny living things. Nobody knows yet whether any other world has a habitat with life.
 
-**Intro.** *Think of a place where you are sure nothing could live. The bottom of the deepest sea? A hot spring? The inside of a rock? Pick one, and say why nothing could live there.* In February 1977, a pilot and two scientists squeezed into a tiny submarine called Alvin. They sank about two and a half kilometres down into the dark Pacific Ocean, near the Galapagos Islands. No sunlight ever reaches that deep. They expected bare rock, cold and nearly empty. Instead, around cracks in the sea floor where warm water came seeping up, they found a crowd. There were giant worms in white tubes with red tips, some longer than your arm. There were clams as big as dinner plates, and pale crabs. How could so much life live where there is no sunlight? What was that place giving them? A place that gives a living thing what it needs is called its habitat.
+**Intro.** *Think of a place where you are sure nothing could live. The bottom of the deepest sea? A hot spring? The inside of a rock? Pick one, and say why nothing could live there.* In February 1977, a pilot and two scientists squeezed into a tiny submarine called Alvin. They sank about two and a half kilometres down into the dark Pacific Ocean, near the Galapagos Islands. No sunlight ever reaches that deep. They expected bare rock, cold and nearly empty. Instead, around cracks in the sea floor where warm water came seeping up, they found a crowd. There were giant worms in white tubes with red tips, some longer than your arm. There were clams as big as dinner plates, and pale crabs. How could so much life live where there is no sunlight? What was that place giving them? A place that gives a living thing what they need is called their habitat.
 
 ## Learning outcomes
 0. I can say what a habitat is, and name the things it gives a living thing: food, water, air, shelter, space and the right warmth.
@@ -15,7 +15,7 @@
 6. I can explain that my own body is a habitat, and follow the idea from a bowl of curd out to the deep sea, deep rock and other planets.
 
 ## Terms
-- **Habitat**: The place where a living thing lives and finds everything it needs to stay alive. *e.g.* A pond is the habitat of a frog. It finds water, insects to eat and mud to hide in.
+- **Habitat**: The place where a living thing lives and finds everything they need to stay alive. *e.g.* A pond is the habitat of a frog. They find water, insects to eat and mud to hide in.
 - **Needs**: The things a living thing must have to stay alive and grow. Most need food, water, air, shelter, space and the right warmth. *e.g.* You need food, water and air every day. You need a home to keep you safe from rain and sun.
 - **Shelter**: A safe place to rest, hide or sleep, away from hot sun, rain, cold and hungry animals. *e.g.* A tree hollow is a shelter for an owl. A burrow is a shelter for a desert rat.
 - **Pond**: A small, still body of fresh water. Fresh water is water that is not salty. *e.g.* The pond in a village has frogs, fish, snails, dragonflies and lotus plants.
@@ -26,23 +26,23 @@
 - **Living parts**: The parts of a habitat that are alive: plants, animals, fungi and tiny living things too small to see. *e.g.* In a forest, the trees, birds, mushrooms and ants are living parts.
 - **Non-living parts**: The parts of a habitat that are not alive, but that living things need: sunlight, water, air, soil, rocks and warmth. *e.g.* In a desert, the sand, the hot sun and the rare rain are non-living parts.
 - **Canopy**: The top layer of a forest, where the branches and leaves of the tall trees meet like a roof. *e.g.* Hornbills and many monkeys live high in the canopy.
-- **Mangrove**: A kind of tree that grows in salty mud where rivers meet the sea. Its roots stand up out of the mud. *e.g.* The Sundarbans in West Bengal is the biggest mangrove forest in the world.
+- **Mangrove**: A kind of tree that grows in salty mud where rivers meet the sea. Their roots stand up out of the mud. *e.g.* The Sundarbans in West Bengal is the biggest mangrove forest in the world.
 - **Coral reef**: A habitat in warm, shallow sea made by tiny animals called corals. They build hard homes that join into a huge reef. *e.g.* There are coral reefs around the Andaman and Nicobar Islands and in the Gulf of Mannar.
 - **Temperature**: How hot or cold something is. We measure it in degrees Celsius with a thermometer. *e.g.* A balcony floor in the noon sun can be over 40 degrees Celsius. Inside a fridge it is about 4 degrees.
 - **Fair test**: A test where you change only one thing and keep everything else the same, so you know what made the difference. *e.g.* To test whether warmth helps curd set, change only the warmth. Keep the milk, the amount of curd and the bowls the same.
 - **Habitat loss**: When a habitat is destroyed or changed so much that its living things can no longer live there. *e.g.* When a pond is filled in to build houses, the frogs and fish lose their habitat.
 - **Biodiversity**: How many different kinds of living things there are in a place. Bio means life. *e.g.* A forest in the Western Ghats has a huge biodiversity: thousands of kinds of plants and animals.
 - **Hydrothermal vent**: A crack in the deep sea floor where water heated inside the rock comes out, full of minerals. Some vents give warm water, others very hot water. Strange animals live around them. *e.g.* Giant tube worms live around hydrothermal vents, in the dark, more than two kilometres down.
-- **Microbe**: A living thing so small that you can only see it through a microscope. Bacteria are microbes. *e.g.* Microbes in milk turn it into curd. Microbes on your skin and in your tummy live with you all the time.
+- **Microbe**: A living thing so small that you can only see them through a microscope. Bacteria are microbes. *e.g.* Microbes in milk turn it into curd. Microbes on your skin and in your tummy live with you all the time.
 
 ## Explanations
 ### What a habitat is · *defined*
-**Definition:** A habitat is the place where a living thing lives and finds everything it needs to stay alive: food, water, air, shelter, space and the right warmth.
+**Definition:** A habitat is the place where a living thing lives and finds everything they need to stay alive: food, water, air, shelter, space and the right warmth.
 
-A habitat is a place that gives a living thing what it needs. A crow lives in a town because the town gives it scraps to eat, water in tanks and drains, trees and ledges to nest on, and room to fly. If one of these goes, the crow must move or it dies. So when you want to know if a place is a habitat for an animal, ask six questions. Is there food? Is there water? Is there air? Is there shelter? Is there enough space? Is it the right warmth? Plants need things too: sunlight, water, air, soil and space for their roots.
-- e.g. A fish's habitat is water. It gets food, oxygen from the water and places to hide among water plants.
-- e.g. A house sparrow's habitat is near people. It eats grain and insects, and nests in holes in walls and roofs.
-- e.g. A cactus's habitat is the dry desert. It gets plenty of sunlight, and it stores the little rain that falls.
+A habitat is a place that gives a living thing what they need. A crow lives in a town because the town gives them scraps to eat, water in tanks and drains, trees and ledges to nest on, and room to fly. If one of these goes, the crow must move or they die. So when you want to know if a place is a habitat for an animal, ask six questions. Is there food? Is there water? Is there air? Is there shelter? Is there enough space? Is it the right warmth? Plants need things too: sunlight, water, air, soil and space for their roots.
+- e.g. A fish's habitat is water. They get food, oxygen from the water and places to hide among water plants.
+- e.g. A house sparrow's habitat is near people. They eat grain and insects, and nest in holes in walls and roofs.
+- e.g. A cactus's habitat is the dry desert. They get plenty of sunlight, and they store the little rain that falls.
 ### Living and non-living parts work together · *defined*
 **Definition:** A habitat has living parts, such as plants, animals and microbes, and non-living parts, such as sunlight, water, air, soil and rocks. Each kind changes the other.
 
@@ -54,14 +54,14 @@ Every habitat has living parts, like plants, animals and microbes. It also has n
 **Definition:** A pond is a small, still body of fresh water. It is a habitat for living things that need to stay wet or live in water.
 
 A pond is a small, still pool of fresh water. Fresh water is water that is not salty. A pond gives water all the time, so it is a habitat for things that must stay wet, like fish, tadpoles and water snails. It gives food: tiny green algae, water plants, insects and worms. It gives shelter in the mud at the bottom and among the plants. Life in a pond lives at different levels. Some things float on top, like duckweed and water striders. Some swim in the middle, like fish. Some live in the mud, like worms and snails. What is hard about a pond? In summer, a small pond can dry up. Some frogs and fish then bury themselves in the mud and wait for rain.
-- e.g. A lotus roots in the mud, but its leaves float on top to catch sunlight.
+- e.g. A lotus roots in the mud, but their leaves float on top to catch sunlight.
 - e.g. A water strider is an insect that walks on top of the water without sinking.
 - e.g. Some tiny pond animals lay eggs that can lie in dry mud for years, then hatch when the rain comes back.
 ### The forest: homes at every level · *defined*
 **Definition:** A forest is a large area of trees growing close together, with different homes at each level, from the canopy at the top to the forest floor.
 
 A forest is a place with many trees growing close together. Trees make a forest a habitat at many levels, like a tall building with many floors. At the very top is the canopy, where leaves catch most of the sunlight. Hornbills, monkeys and many insects live there. In the middle are smaller trees and climbers. On the dark, damp forest floor, fallen leaves rot into soil. Worms, beetles, frogs, fungi and snakes live there. A forest gives food all year, because different trees flower and fruit at different times. It gives shelter in hollows, under bark and under leaves. It also gives shade and damp air. What is hard about a forest? On the floor, there is very little sunlight, so small plants must find ways to reach the light.
-- e.g. A tailorbird stitches leaves together with plant threads to make its nest.
+- e.g. A tailorbird stitches leaves together with plant threads to make their nest.
 - e.g. An owl rests by day in a tree hollow and hunts at night.
 - e.g. The Western Ghats forests are home to thousands of kinds of plants and animals. Many live nowhere else on Earth.
 ### The desert: little water, lots of life · *defined*
@@ -81,9 +81,9 @@ The sea is salty water that covers about seven parts out of every ten of the Ear
 ### Comparing the four habitats · *defined*
 **Definition:** Every habitat gives some needs easily and makes others hard to meet. Living things live where they can use what the place gives.
 
-Every habitat gives some things easily and makes other things hard. That is why different living things live in each one. Look at the table. A pond always has water but can dry up in summer. A forest has food and shelter but little light on the floor. A desert has lots of sun and space but little water. The sea has water everywhere, but it is salty, and deep down it is dark and cold. No habitat gives everything. Each living thing fits the place whose gifts it can use, and whose problems it can handle.
-- e.g. A camel can go days without drinking, so the desert suits it. It would not manage in a pond.
-- e.g. A frog's skin must stay wet, so it lives near ponds, not in the open desert.
+Every habitat gives some things easily and makes other things hard. That is why different living things live in each one. Look at the table. A pond always has water but can dry up in summer. A forest has food and shelter but little light on the floor. A desert has lots of sun and space but little water. The sea has water everywhere, but it is salty, and deep down it is dark and cold. No habitat gives everything. Each living thing fits the place whose gifts they can use, and whose problems they can handle.
+- e.g. A camel can go days without drinking, so the desert suits them. They would not manage in a pond.
+- e.g. A frog's skin must stay wet, so they live near ponds, not in the open desert.
 - e.g. A sea fish needs salty water. Most pond fish would die in the sea.
 ### Microhabitats: small worlds in small places · *defined*
 **Definition:** A microhabitat is a very small habitat inside a bigger habitat, with its own conditions of light, warmth and dampness.
@@ -103,7 +103,7 @@ We often say an animal lives in a habitat, as if the habitat were a box. But liv
 ### People destroy habitats, and people make them · *defined*
 **Definition:** Habitat loss is when a habitat is destroyed or changed so much that its living things can no longer live there. People can also protect and restore habitats.
 
-Scientists agree that the biggest danger to wild plants and animals today is losing their habitats. People cut forests for farms, roads and towns. They fill in ponds and wetlands, and dirty rivers and seas. When the habitat goes, the living things go with it. The great Indian bustard, a tall bird of the Thar grasslands, is now very rare, partly because its open grasslands have been turned into farms and crossed by power lines. But people also protect and make habitats. In 1974, in the village of Reni in the Himalaya, Gaura Devi led the women of the village into the forest. They stood in front of the loggers and would not let them cut the trees. This was part of the Chipko movement. In Assam, Jadav Payeng planted a forest on a bare sandbar, starting in 1979. Elephants, deer and birds now live in it.
+Scientists agree that the biggest danger to wild plants and animals today is losing their habitats. People cut forests for farms, roads and towns. They fill in ponds and wetlands, and dirty rivers and seas. When the habitat goes, the living things go with it. The great Indian bustard, a tall bird of the Thar grasslands, is now very rare, partly because their open grasslands have been turned into farms and crossed by power lines. But people also protect and make habitats. In 1974, in the village of Reni in the Himalaya, Gaura Devi led the women of the village into the forest. They stood in front of the loggers and would not let them cut the trees. This was part of the Chipko movement. In Assam, Jadav Payeng planted a forest on a bare sandbar, starting in 1979. Elephants, deer and birds now live in it.
 - e.g. People in Kerala, led by many groups and the poet Sugathakumari, protested to save the Silent Valley forest from being flooded by a dam. It became a national park in 1984.
 - e.g. Many villages in India keep sacred groves: patches of forest where no tree is cut. They are some of the oldest forests left.
 - e.g. A clay bowl of water on a balcony can make a small habitat for birds and insects in summer.
@@ -113,7 +113,7 @@ Scientists agree that the biggest danger to wild plants and animals today is los
 You live in habitats. But you are also a habitat. Tiny living things called microbes live on your skin, in your mouth and most of all in your tummy. Scientists have worked out roughly how many there are. A grown-up's body has about as many bacteria living in it as it has human cells. Most of them are harmless or helpful. The ones in your tummy help you break down food and help protect you from germs. Your body gives them food, water, warmth and shelter, just like a pond gives a frog. Most grown-ups even have tiny mites living in the roots of their eyelashes and face hairs. They are too small to see and do no harm.
 - e.g. Curd is made by bacteria. In the three bowls experiment, warm milk was a good habitat for them, and they turned it into curd. In the cold fridge, they slowed right down and waited.
 - e.g. Your skin is drier on your arms and damper in your armpits. Different microbes live in each place, like different animals in a desert and a pond.
-- e.g. When a baby is born, it picks up its first microbes from its mother and the world around it.
+- e.g. When a baby is born, they pick up their first microbes from their mother and the world around them.
 ### Habitats at the edge: is there anywhere life cannot live? · *idea*
 Scientists keep finding life in places that once seemed impossible. Around hydrothermal vents on the deep sea floor, there is no sunlight at all. There, bacteria make food from chemicals in the vent water, not from light. Worms, clams and crabs live off these bacteria. In 1969, Thomas Brock and his student Hudson Freeze described bacteria living in hot springs at about 70 degrees Celsius, in Yellowstone in the United States. Bacteria have been found living almost three kilometres down inside the rock, in a gold mine in South Africa. Tiny animals called tardigrades, or water bears, live in moss and can survive being dried out for years. So scientists now think life can live almost anywhere there is liquid water and some kind of energy. But nobody knows exactly where the limits are.
 - e.g. Tube worms near deep sea vents have no mouth. Bacteria living inside their bodies make their food.
@@ -129,8 +129,8 @@ On a map, we draw a neat line between a forest and a grassland, or between a pon
 - e.g. The muddy edge of a pond is part pond and part land. Frogs live in both.
 - e.g. Where a river meets the sea, the water is part fresh and part salty. Mangroves grow there.
 - **Frederic Clements, an American plant scientist, in 1916:** The plants in a place grow together like one big living thing, almost like a body. So a forest or a grassland is a real unit with a clear place where it ends.
-- **Henry Gleason, an American plant scientist, in 1926:** Each kind of plant grows wherever the conditions suit it, on its own. Plants do not grow in fixed groups. So habitats blend into each other with no real edges. Most scientists ignored him for about thirty years. In the 1950s, careful counts of plants along slopes showed he was largely right.
-- **Scientists today:** Both ideas help. Each kind of living thing does spread out on its own, as Gleason said. But some places do have fairly sharp edges, like where a forest meets a lake, or where a river bank drops. Naming habitats is useful, as long as we remember that nature does not draw the lines.
+- **Henry Gleason, an American plant scientist, in 1926:** Each kind of plant grows wherever the conditions suit them, on their own. Plants do not grow in fixed groups. So habitats blend into each other with no real edges. Most scientists ignored him for about thirty years. In the 1950s, careful counts of plants along slopes showed he was largely right.
+- **Scientists today:** Both ideas help. Each kind of living thing does spread out on their own, as Gleason said. But some places do have fairly sharp edges, like where a forest meets a lake, or where a river bank drops. Naming habitats is useful, as long as we remember that nature does not draw the lines.
 ### Should people live inside wild habitats? · *debated*
 To protect a habitat, should we keep people out of it, or should we let the people who have always lived there look after it? This is a real argument, in India and around the world.
 - e.g. The Bishnoi people of Rajasthan have protected khejri trees and blackbuck deer for hundreds of years.
@@ -140,7 +140,7 @@ To protect a habitat, should we keep people out of it, or should we let the peop
 - **Many people today:** It depends on the place and the animals. In many places, the best results come when local people share in decisions and in the benefits of protecting the habitat.
 
 ## Mostly agreed
-- Every living thing needs a habitat that gives it food, water, air, shelter, space and the right warmth. *How we know:* When scientists keep animals or plants in a place without one of these, they do not survive. When a habitat loses one of them, its animals move away or die.
+- Every living thing needs a habitat that gives them food, water, air, shelter, space and the right warmth. *How we know:* When scientists keep animals or plants in a place without one of these, they do not survive. When a habitat loses one of them, its animals move away or die.
 - Different habitats have different living things, because each habitat gives different things easily. *How we know:* Scientists have counted plants and animals in habitats all over the world for more than two hundred years. The same kinds of habitat, like deserts, have similar kinds of life, even on different continents.
 - Even small places, like under a stone or under a kitchen sink, are habitats with their own conditions. *How we know:* Thermometers and moisture meters show that under a stone, it is cooler and damper than on the open ground just next to it. Small animals that dry out easily, like earthworms and centipedes, are found mostly in such places.
 - Living things change their habitats, and the habitat changes them back. *How we know:* Measurements show that forests keep the air damp and help make rain. Charles Darwin measured how earthworms mix the soil, in his book of 1881.
@@ -159,10 +159,10 @@ To protect a habitat, should we keep people out of it, or should we let the peop
   Against: Living things build and change their habitats. Corals build reefs. Trees make shade, soil and damp air. A sandbar became a forest because plants and animals changed it. So the place and its life make each other.
 - **Every place has one clear habitat, with a sharp edge.** (Frederic Clements, a plant scientist, in 1916, and the way maps are drawn; *minority*)  
   For: Some edges are sharp, like where a lake meets a cliff.  
-  Against: In 1926, Henry Gleason argued that each kind of plant spreads out on its own, so most habitats blend into each other. In the 1950s, careful counts of plants along slopes supported him. Most scientists now agree habitats usually fade into each other.
+  Against: In 1926, Henry Gleason argued that each kind of plant spreads out on their own, so most habitats blend into each other. In the 1950s, careful counts of plants along slopes supported him. Most scientists now agree habitats usually fade into each other.
 - **Zoos and aquariums can be real habitats for wild animals.** (Some zoo keepers, and many visitors; *debated*)  
   For: Good zoos give animals food, water, shelter and medical care. Some rare animals survive only because they are bred in zoos.  
-  Against: A zoo cannot give the space many animals need. An elephant may walk many kilometres a day in the wild. Many scientists say the best way to save an animal is to save its wild habitat.
+  Against: A zoo cannot give the space many animals need. An elephant may walk many kilometres a day in the wild. Many scientists say the best way to save an animal is to save their wild habitat.
 - **Life needs sunlight to survive.** (Most scientists, until the late 1970s; *rejected*)  
   For: Almost all food chains on Earth start with plants, which need sunlight to make food.  
   Against: At deep sea vents, and deep inside rocks, bacteria make food from chemicals, with no sunlight at all. Whole communities live on them.
@@ -203,7 +203,7 @@ All life comes from one source, and this source shows itself in countless forms.
 - *deep:* Could there be living things in the ocean under the ice of Enceladus, a moon of Saturn? (hint: Remember the deep sea vents, where life lives with no sunlight.)
 - *big:* Is a city a habitat? For whom? (hint: Think of crows, pigeons, rats, geckos and the microbes in drains.)
 - *big:* When a habitat is destroyed, where do its animals go? (hint: Some move. Some cannot. What happens when there is nowhere left to move to?)
-- *deep:* Do the microbes in curd know they are living in milk? (hint: How might a tiny living thing know its home, without eyes or words?)
+- *deep:* Do the microbes in curd know they are living in milk? (hint: How might a tiny living thing know their home, without eyes or words?)
 
 ## Story: What the Sandbar Learned to Give
 *Jadav Payeng is real. He began planting on a bare sandbar of the Brahmaputra in 1979, when he was about sixteen, after a flood. The dead snakes on the shadeless sandbar, the bamboo, the red ants he carried from his village, and the elephants, deer, rhinos and tigers that came later are all from his own accounts and from news reports. The forest is now called the Molai forest, after his nickname. The river's voice, the old man's words, what Jadav said and the small details of each day are imagined.*
@@ -212,7 +212,7 @@ I am the river Brahmaputra. I come down from the snow, wide and brown, and I cro
 
 In 1979, after a great flood, I left one of my sandbars bare. It lay near Majuli, the big river island. When my water went down, the sun came out hard. There was no tree on that sandbar. There was no bush. There was no grass. There was only hot sand, shining white, and nowhere for anything to hide.
 
-Snakes had come down with my flood, clinging to logs and roots. They crawled up onto the sandbar to dry. A snake cannot make its own cool. It needs the world to give it shade when the sun is fierce. That day, the sandbar gave nothing. By afternoon, many of the snakes lay dead in the sand, dry and still.
+Snakes had come down with my flood, clinging to logs and roots. They crawled up onto the sandbar to dry. A snake cannot make their own cool. They need the world to give them shade when the sun is fierce. That day, the sandbar gave nothing. By afternoon, many of the snakes lay dead in the sand, dry and still.
 
 A boy found them. His name was Jadav. He was about sixteen years old, and people called him Molai. He walked among the snakes for a long time. I have watched many people look at my floods and blame me. Jadav did not blame me. He crouched down and pressed his palm on the sand. Then he pulled it back fast.
 
@@ -240,7 +240,7 @@ Birds came, and in their droppings came seeds of trees that Jadav had never plan
 
 For many years, almost nobody outside knew about this forest. Then forest officers, following a herd of elephants, walked into it. They could not believe one man had planted it.
 
-People ask Jadav how he made a forest. They want a secret. I watched the whole thing, so I will tell you what I saw. He did not make the deer, or the birds, or the elephants. He could not have carried a single elephant. What he made was shade, and soil, and damp leaves, and food. He made a place that could give. Everything else walked, flew and crawled in by itself. And each one that came gave something back: the ants made soil, the birds brought seeds, the elephants opened paths.
+People ask Jadav how he made a forest. They want a secret. I watched the whole thing, so I will tell you what I saw. He did not make the deer, or the birds, or the elephants. He could not have carried a single elephant. What he made was shade, and soil, and damp leaves, and food. He made a place that could give. All the rest walked, flew and crawled in by themselves. And each one that came gave something back: the ants made soil, the birds brought seeds, the elephants opened paths.
 
 I still make my sandbars, and I still take them away. That is what I am. But now, when I pass that forest, I slow down a little. The trees drink from me. Their leaves breathe me back into the sky, and the sky rains me onto the hills, and the hills send me down again past the trees. I am no longer sure where the river ends and the forest begins.
 
@@ -255,31 +255,31 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 
 ## Games
 ### g1 · Who Lives Where? (20 min)
-- **rules:** Lay out the six habitat mats. Shuffle the living-thing cards and put them face down. Put the need cards face up in a row.; On your turn, take a card and read it out. Put it on the habitat mat where it lives.; Then pick two need cards. Say how that habitat gives the living thing each of those needs. One leaf token for each good answer.; Anyone can say 'challenge!' if they think the card is on the wrong mat. If the group agrees, the challenger wins a token.; A TWIST card has no single right answer. Say what you think and why. A good reason wins two tokens.; When the cards run out, the player with the most leaf tokens wins.
-- **Printable cards: 24 living-thing cards to cut out:** Frog; Lotus; Dragonfly; Water snail; Hornbill; Tailorbird; Owl; Mushroom; Camel; Desert fox; Khejri tree; Chinkara gazelle; Olive ridley turtle; Coral; Dolphin; Crab; Centipede; Earthworm; Tube worm at a deep sea vent; Bacteria in your tummy; TWIST: a mudskipper, a fish that walks on mud. Where does it go?; TWIST: a crow. Where can it NOT live?; TWIST: a mangrove tree. Pond or sea?; TWIST: a tiger in the Sundarbans. Forest or sea?
+- **rules:** Lay out the six habitat mats. Shuffle the living-thing cards and put them face down. Put the need cards face up in a row.; On your turn, take a card and read it out. Put it on the habitat mat where they live.; Then pick two need cards. Say how that habitat gives the living thing each of those needs. One leaf token for each good answer.; Anyone can say 'challenge!' if they think the card is on the wrong mat. If the group agrees, the challenger wins a token.; A TWIST card has no single right answer. Say what you think and why. A good reason wins two tokens.; When the cards run out, the player with the most leaf tokens wins.
+- **Printable cards: 24 living-thing cards to cut out:** Frog; Lotus; Dragonfly; Water snail; Hornbill; Tailorbird; Owl; Mushroom; Camel; Desert fox; Khejri tree; Chinkara gazelle; Olive ridley turtle; Coral; Dolphin; Crab; Centipede; Earthworm; Tube worm at a deep sea vent; Bacteria in your tummy; TWIST: a mudskipper, a fish that walks on mud. Where do they go?; TWIST: a crow. Where can they NOT live?; TWIST: a mangrove tree. Pond or sea?; TWIST: a tiger in the Sundarbans. Forest or sea?
 - **Printable board: Six habitat mats:** POND; FOREST; DESERT; SEA; UNDER A STONE; INSIDE A BODY
 - **Printable tokens: 30 leaf tokens (small paper leaves):** 🍃
 - **Printable cards: 6 need cards:** FOOD; WATER; AIR; SHELTER; SPACE; RIGHT WARMTH
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the six habitat mats in a circle. 2. Shuffle the 24 living-thing cards and put them face down. 3. Put the six need cards face up in a row.  
-  *Parent says:* A habitat is a place that gives a living thing what it needs. In this game, we put each living thing where it lives. Then we say how that place gives it two of its needs.  
+  *Parent says:* A habitat is a place that gives a living thing what they need. In this game, we put each living thing where they live. Then we say how that place gives them two of their needs.  
   *Child mode:* Put the six habitat mats in a circle. Mix up the cards. Put them face down. Put the need cards in a row.
 - **s2 (3 min)**  
   *Parent does:* Find the Frog card. Play it together as a practice round.  
-  *Parent says:* Let's practise with the frog. Where does it go? Now pick two need cards. How does the pond give the frog water? How does it give it food?  
+  *Parent says:* Let's practise with the frog. Where do they go? Now pick two need cards. How does the pond give the frog water? How does it give them food?  
   *Child mode:* Practice card: the frog. Which mat does it go on? Tap your answer.
-  - Ask: How does a pond give a frog food and shelter? (good: There are insects and worms to eat.; It can hide in the mud or under lotus leaves.)
+  - Ask: How does a pond give a frog food and shelter? (good: There are insects and worms to eat.; They can hide in the mud or under lotus leaves.)
   - Check: Where does the frog card go? → **Pond**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns. Each player draws a card, reads it and places it. 2. They pick two need cards and explain them. 3. Give a leaf token for each good reason.  
-  *Parent says:* When you place your card, tell me two ways that habitat looks after it. If you think someone's card is on the wrong mat, say challenge.  
+  *Parent says:* When you place your card, tell me two ways that habitat looks after them. If you think someone's card is on the wrong mat, say challenge.  
   *Child mode:* Take turns. Read your card. Put it on a mat. Pick two needs. Say how the habitat gives them.
-  - Note: Good reasons are specific. 'The forest gives the hornbill fruit to eat and tall trees to nest in' is better than 'it lives there'. Tricky cards: the centipede goes under a stone, because it needs damp and dark. The tube worm goes in the sea, at the deep vents. Bacteria in your tummy go on 'inside a body': the body gives them food, water and warmth.
+  - Note: Good reasons are specific. 'The forest gives the hornbill fruit to eat and tall trees to nest in' is better than 'they live there'. Tricky cards: the centipede goes under a stone, because they need damp and dark. The tube worm goes in the sea, at the deep vents. Bacteria in your tummy go on 'inside a body': the body gives them food, water and warmth.
 - **s4 (3 min)**  
   *Parent does:* When a TWIST card comes up, everyone says where they would put it and why. Do not look for one right answer.  
   *Parent says:* This card is a twist. There may be more than one good answer. Where would you put it? Why?  
   *Child mode:* A TWIST card! There may be two right answers. Where would you put it? Say why.
-  - Ask: Where does a mangrove tree go: pond or sea? (good: Both, sort of. It grows where the river meets the sea, in water that is part salty.; It is on the edge between two habitats.)
+  - Ask: Where does a mangrove tree go: pond or sea? (good: Both, sort of. They grow where the river meets the sea, in water that is part salty.; They are on the edge between two habitats.)
   - Think: If some living things live on the edge between two habitats, are habitats really separate?
 - **s5 (2 min)**  
   *Parent does:* 1. Count the leaf tokens to find the winner. 2. Look at which mat has the most cards.  
@@ -288,7 +288,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   - Think: We put bacteria on the 'inside a body' mat. Are you a habitat too?
 ### g2 · Nature Bingo: Habitat Hunt (25 min)
 - **rules:** Each player gets a bingo sheet and a pencil.; Walk slowly together with a grown-up. When you find something on your sheet, show the others and tick it.; For each tick, say what that place gives to the living thing there.; Four ticks in a row, across, down or corner to corner, is BINGO.; Keep playing until everyone has a bingo, or for 20 minutes. Then share your best find.
-- **Printable board: A bingo sheet of 16 squares (4 by 4):** a living thing under a stone; something living in a crack in a wall; a nest or a web; a hole that something lives in; a leaf that has been nibbled; a damp, shady spot; a hot, dry, sunny spot; an animal drinking or a place it could drink; a living thing on another living thing (like moss on a tree); a flower being visited by an insect; an ant trail; something that gives shelter; a place with no living thing you can see; a puddle or wet patch; bird droppings or feathers; FREE: draw your favourite find
+- **Printable board: A bingo sheet of 16 squares (4 by 4):** a living thing under a stone; something living in a crack in a wall; a nest or a web; a hole that something lives in; a leaf that has been nibbled; a damp, shady spot; a hot, dry, sunny spot; an animal drinking or a place they could drink; a living thing on another living thing (like moss on a tree); a flower being visited by an insect; an ant trail; something that gives shelter; a place with no living thing you can see; a puddle or wet patch; bird droppings or feathers; FREE: draw your favourite find
 - **Printable score sheet: Find log:** Square; What I found; What it gives the living thing (food, water, shelter, space, warmth)
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Print a bingo sheet for each player. 2. Choose a safe place to walk: a park, a garden or around your building. 3. Agree on the rule: we look and lift gently, and put everything back.  
@@ -445,21 +445,21 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   - Think: Is the space under the stone a whole world? Whose habitat is it?
 ### a2 · What Does the Crow Need? (20 min)
 - **safety:** Watch animals from a distance. Do not go near street dogs or monkeys. Stay with a grown-up outdoors.
-- **record:** Draw your animal in the middle of a page. Draw six arrows to where it gets food, water, air, shelter, space and warmth.
+- **record:** Draw your animal in the middle of a page. Draw six arrows to where they get food, water, air, shelter, space and warmth.
 - **s1 (3 min)**  
   *Parent does:* Go to a window, a balcony or the gate. Choose one animal you can see often, such as a crow, a pigeon, a squirrel or a gecko.  
-  *Parent says:* Let's choose one animal we see every day. We will be detectives and find out what its habitat gives it.  
+  *Parent says:* Let's choose one animal we see every day. We will be detectives and find out what their habitat gives them.  
   *Child mode:* Choose one animal you see every day. A crow? A squirrel? A gecko on the wall?
 - **s2 (12 min)**  
-  *Parent does:* 1. Watch your animal for a few minutes. 2. For each of the six needs, ask: where does it get this? 3. Write or draw each answer.  
-  *Parent says:* Where does the crow find food? Water? Where does it sleep or nest? Where is it safe? Is there enough space for it? Where does it go when it is very hot?  
-  *Child mode:* Watch your animal. Where does it get food? Water? Shelter? Space? Where does it go when it's hot?
-  - Note: Good answers are places you can point to: 'the crow drinks from the leaking tap', 'it nests in the neem tree', 'it rests in shade on the water tank at noon'. If your child does not know, it is fine to say 'we don't know yet' and watch again tomorrow.
+  *Parent does:* 1. Watch your animal for a few minutes. 2. For each of the six needs, ask: where do they get this? 3. Write or draw each answer.  
+  *Parent says:* Where does the crow find food? Water? Where do they sleep or nest? Where are they safe? Is there enough space for them? Where do they go when it is very hot?  
+  *Child mode:* Watch your animal. Where do they get food? Water? Shelter? Space? Where do they go when it's hot?
+  - Note: Good answers are places you can point to: 'the crow drinks from the leaking tap', 'they nest in the neem tree', 'they rest in shade on the water tank at noon'. If your child does not know, it is fine to say 'we don't know yet' and watch again tomorrow.
 - **s3 (5 min)**  
   *Parent does:* Draw the animal in the middle of a page, with six arrows to the places you found.  
-  *Parent says:* Let's draw it. All these places together are your animal's habitat. Its habitat isn't one spot. It is everywhere it gets what it needs.  
-  *Child mode:* Draw your animal in the middle. Draw six arrows to where it gets each need. That is its habitat!
-  - Check: A crow drinks from a tap, eats from a dustbin, nests in a neem tree and flies over the whole street. What is its habitat? → **All of these places together**
+  *Parent says:* Let's draw it. All these places together are your animal's habitat. Their habitat isn't one spot. It is everywhere they get what they need.  
+  *Child mode:* Draw your animal in the middle. Draw six arrows to where they get each need. That is their habitat!
+  - Check: A crow drinks from a tap, eats from a dustbin, nests in a neem tree and flies over the whole street. What is their habitat? → **All of these places together**
   - Think: If the neem tree were cut down, what would the crow have to do?
 ### a3 · Square Metre Safari (25 min)
 - **safety:** Do this with a grown-up. Do not put hands into holes. Wash your hands afterwards.
@@ -587,8 +587,8 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - **creative:** Put a flat stone in the morning sun, for butterflies to warm their wings on.; Plant flowers that bloom at different times, so there is food all year, like a forest.; Join with neighbours, so many balconies make a long butterfly road through the city.
 - **s1 (5 min)**  
   *Parent does:* List a butterfly's needs together: nectar food, plants for caterpillars, water, shelter from wind, sun for warmth.  
-  *Parent says:* A butterfly's habitat must give food for the butterfly and food for its caterpillars. They need different plants! What else does it need?  
-  *Child mode:* What does a butterfly need? Food for itself. Food for its caterpillars. Water. Sun. Shelter.
+  *Parent says:* A butterfly's habitat must give food for the butterfly and food for their caterpillars. They need different plants! What else do they need?  
+  *Child mode:* What does a butterfly need? Food for the butterfly. Food for their caterpillars. Water. Sun. Shelter.
 - **s2 (15 min)**  
   *Parent does:* Draw a design for a space about 1 metre long. Label each part with the need it gives.  
   *Parent says:* Draw your balcony. Where will the flowers go? The caterpillar plants? The water? Label each part with its need.  
@@ -607,12 +607,12 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 ## Worksheets
 ### Habitat Detective (core) (core, 16 questions)
 1. (mcq) What is a habitat?  
-   Options: Any building where people live / The place where a living thing finds everything it needs to live / Only a forest / A cage in a zoo  
-   **Answer:** The place where a living thing finds everything it needs to live. *Why:* A habitat gives a living thing food, water, air, shelter, space and the right warmth. Picking 'any building' mixes up habitat with house. A house is part of a person's habitat. Picking 'only a forest' forgets ponds, deserts, the sea and even the space under a stone.
+   Options: Any building where people live / The place where a living thing finds everything they need to live / Only a forest / A cage in a zoo  
+   **Answer:** The place where a living thing finds everything they need to live. *Why:* A habitat gives a living thing food, water, air, shelter, space and the right warmth. Picking 'any building' mixes up habitat with house. A house is part of a person's habitat. Picking 'only a forest' forgets ponds, deserts, the sea and even the space under a stone.
 2. (fill) A habitat gives a living thing food, water, air, space, the right warmth and a safe place to hide, called ____.  
    **Answer:** ['shelter']. *Why:* Shelter is a safe place to rest and hide, away from sun, rain and hungry animals. A tree hollow is shelter for an owl.
-3. (match) Match each living thing to its habitat.  
-   **Answer:** Lotus → Pond; Hornbill → Forest; Camel → Desert; Coral → Sea; Curd bacteria → Warm milk. *Why:* Each one lives where its needs are met. The lotus needs still fresh water. The hornbill needs tall fruiting trees. The camel can manage with little water. Corals need warm, clear, salty water. Curd bacteria need warm milk to grow.
+3. (match) Match each living thing to their habitat.  
+   **Answer:** Lotus → Pond; Hornbill → Forest; Camel → Desert; Coral → Sea; Curd bacteria → Warm milk. *Why:* Each one lives where their needs are met. The lotus needs still fresh water. The hornbill needs tall fruiting trees. The camel can manage with little water. Corals need warm, clear, salty water. Curd bacteria need warm milk to grow.
 4. (sort) Sort these into the living parts and the non-living parts of a forest.  
    **Answer:** a tree → Living; sunlight → Non-living; a mushroom → Living; a rock → Non-living; an ant → Living; rain water → Non-living. *Why:* Living parts grow, need food and make more of their own kind. Non-living parts, like sunlight, rocks and water, are not alive, but living things need them.
 5. (mcq) Which habitat gets very little rain all year?  
@@ -639,8 +639,8 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 13. (mcq) A pond dries up in summer. What do some frogs do?  
    Options: Bury themselves in the mud and wait for rain / Move to the sea / Turn into fish / Climb tall trees in the desert  
    **Answer:** Bury themselves in the mud and wait for rain. *Why:* Some frogs dig into damp mud and stay there until the rain comes back. Picking 'move to the sea' forgets that sea water is salty and most frogs cannot live in it.
-14. (write) Choose one animal you see near your home. Write where it finds its food, water and shelter.  
-   **Answer:** For example: A crow finds food in dustbins and from people. It drinks from taps and water tanks. It nests in a big tree.. *Why:* Every place where an animal gets its needs is part of its habitat. A habitat is often more than one spot.
+14. (write) Choose one animal you see near your home. Write where they find their food, water and shelter.  
+   **Answer:** For example: A crow finds food in dustbins and from people. They drink from taps and water tanks. They nest in a big tree.. *Why:* Every place where an animal gets their needs is part of their habitat. A habitat is often more than one spot.
 15. (draw) Draw a pond. Show one living thing on top of the water, one in the middle and one in the mud at the bottom.  
    **Answer:** For example: a water strider or lotus leaf on top, a fish in the middle, a snail or worm in the mud.. *Why:* A pond has different homes at different levels.
 16. (truefalse) Your body is a habitat for tiny living things.  
@@ -674,9 +674,9 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 10. (mcq) Which is the biggest danger to wild plants and animals today, according to scientists?  
    Options: Losing their habitats / Too many zoos / Too much rain / Not enough people watching them  
    **Answer:** Losing their habitats. *Why:* A big United Nations study in 2019 found that changing land and sea for human use is the main cause. When the habitat goes, its living things go with it.
-11. (mcq) A gecko waits on the wall next to a tube light every night. What does that spot give it?  
-   Options: Food: insects fly to the light, and the gecko catches them / Water from the light / Nothing, it is there by chance / Sunlight to grow  
-   **Answer:** Food: insects fly to the light, and the gecko catches them. *Why:* Many insects fly to lights at night, so the wall by the light is full of food for a gecko. That spot is part of its habitat. Picking 'by chance' does not fit, because it comes back to the same spot every night.
+11. (mcq) A gecko waits on the wall next to a tube light every night. What does that spot give them?  
+   Options: Food: insects fly to the light, and the gecko catches them / Water from the light / Nothing, they are there by chance / Sunlight to grow  
+   **Answer:** Food: insects fly to the light, and the gecko catches them. *Why:* Many insects fly to lights at night, so the wall by the light is full of food for a gecko. That spot is part of their habitat. Picking 'by chance' does not fit, because they come back to the same spot every night.
 12. (write) Jadav Payeng could not carry elephants to his sandbar. So how did elephants end up living there? Use the word habitat.  
    **Answer:** He planted trees that gave shade, soil, food and shelter. The sandbar became a habitat that gave elephants what they need, so they came by themselves.. *Why:* Animals move to places that meet their needs. Making a habitat is how you bring life to a place.
 13. (write) Why does a desert look empty at noon but busy at night?  
@@ -697,7 +697,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
    **Answer:** Both, sort of: the water is part fresh and part salty, so they live on an edge. *Why:* Many living things live on the edges between habitats. This is why scientists like Henry Gleason argued that habitats blend into each other. Picking 'no habitat' forgets that mangroves get everything they need there.
 3. (mcq) Henry Gleason said in 1926 that habitats blend into each other with no sharp edges. Most scientists ignored him for about thirty years. What finally changed their minds?  
    Options: Careful counts of plants along slopes and across land / He shouted louder / A famous scientist agreed without looking / A vote  
-   **Answer:** Careful counts of plants along slopes and across land. *Why:* Evidence changed their minds: careful counts showed each kind of plant spreading out on its own. In science, careful evidence matters more than who is famous.
+   **Answer:** Careful counts of plants along slopes and across land. *Why:* Evidence changed their minds: careful counts showed each kind of plant spreading out on their own. In science, careful evidence matters more than who is famous.
 4. (mcq) Tube worms at deep sea vents have no mouth and no sunlight. How do they get food?  
    Options: Bacteria living inside them make food from chemicals in the vent water / They eat sunlight / They eat sand / They do not need food  
    **Answer:** Bacteria living inside them make food from chemicals in the vent water. *Why:* The bacteria use chemicals from the vent water to make food, and share it with the worm. Picking 'do not need food' forgets that every living thing needs energy.
@@ -706,7 +706,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
    **Answer:** Every living thing we know needs liquid water. *Why:* From deep sea vents to deep rock to very hot springs, every living thing we know needs liquid water. So it is the best clue we have. But nobody knows yet if life elsewhere would need it too.
 6. (truefalse) Scientists have found living things on another planet.  
    **Answer:** False. *Why:* False. So far, Earth is the only place where we know for sure that life lives. Scientists are searching on Mars and planning missions to icy moons like Europa and Enceladus.
-7. (mcq) A big tree gives off water from its leaves all day. What would happen to the air in a forest if many of its trees were cut down?  
+7. (mcq) A big tree gives off water from their leaves all day. What would happen to the air in a forest if many of its trees were cut down?  
    Options: It would become drier, and there might be less rain / It would become wetter / Nothing would change / It would rain salt  
    **Answer:** It would become drier, and there might be less rain. *Why:* Leaves give water to the air, as the bag test showed. Fewer trees means less water going up, so the air gets drier and less rain may fall. This is one way living things make their own habitat.
 8. (mcq) A grown-up's body has about as many bacteria living in it as human cells. Most of them are...  
@@ -736,8 +736,8 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 
 ## Quiz
 1. (mcq) What is a habitat?  
-   Options: The place where a living thing finds everything it needs / Any house / Only a forest / A cage  
-   **Answer:** The place where a living thing finds everything it needs. *Why:* A habitat gives food, water, air, shelter, space and the right warmth. Picking 'any house' mixes up habitat and house. Picking 'only a forest' forgets ponds, deserts, seas and tiny places.
+   Options: The place where a living thing finds everything they need / Any house / Only a forest / A cage  
+   **Answer:** The place where a living thing finds everything they need. *Why:* A habitat gives food, water, air, shelter, space and the right warmth. Picking 'any house' mixes up habitat and house. Picking 'only a forest' forgets ponds, deserts, seas and tiny places.
 2. (mcq) Which of these is NOT one of the needs a habitat gives?  
    Options: Food / Shelter / A television / Water  
    **Answer:** A television. *Why:* Living things need food, water, air, shelter, space and the right warmth. A television is not something any animal needs to stay alive.
@@ -761,7 +761,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
    **Answer:** Living and non-living parts of a habitat change each other. *Why:* The living tree and worms make the non-living soil, which feeds the tree again. Picking 'habitats never change' misses that living things change their habitats all the time.
 9. (mcq) In a flat, ants come to the corner by the kitchen sink, but hardly ever to a dry, clean bookshelf. Why?  
    Options: The sink corner gives them water and crumbs of food / Ants do not like books / Ants go anywhere by chance / The bookshelf is too high  
-   **Answer:** The sink corner gives them water and crumbs of food. *Why:* A habitat is where a living thing finds what it needs. The sink corner gives ants water and food, so it is part of their habitat. Picking 'by chance' does not fit, because they keep going to the same place. Ants climb walls easily, so height is not the reason.
+   **Answer:** The sink corner gives them water and crumbs of food. *Why:* A habitat is where a living thing finds what they need. The sink corner gives ants water and food, so it is part of their habitat. Picking 'by chance' does not fit, because they keep going to the same place. Ants climb walls easily, so height is not the reason.
 10. (mcq) What is the biggest danger to wild plants and animals today?  
    Options: Losing their habitats / Too many scientists / Rainbows / Too much birdsong  
    **Answer:** Losing their habitats. *Why:* Scientists agree that changing land and sea for human use, like cutting forests and filling ponds, is the main cause of the loss of wild species.
@@ -815,7 +815,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 ## Questions to ask kids
 - What does our home give us that makes it our habitat?
 - If you lifted that stone, who do you think would be under it?
-- Where does the crow on the wire get its water in summer?
+- Where does the crow on the wire get their water in summer?
 - Is it cooler under that tree than out here? Why?
 - Which animals do you think come out here at night?
 - If this pond dried up, where would the frogs go?
@@ -826,13 +826,13 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - Who lives in your tummy?
 
 ## Jokes
-- Why did the earthworm refuse to go to the beach? *It didn't want to dry out on holiday.*
+- Why did the earthworm refuse to go to the beach? *They didn't want to dry out on holiday.*
 - What did the desert say to the rain? *Long time, no sea!*
-- Why did the frog love its pond? *It was un-frog-gettable.*
+- Why did the frog love their pond? *It was un-frog-gettable.*
 - Why don't fish play cricket in the sea? *They're scared of the net.*
 - What's a tree's favourite drink? *Root beer.*
-- Why did the camel bring a water bottle to school? *Just in case it got a dry teacher.*
-- What do you call a crab that never shares its shell? *Shellfish.*
+- Why did the camel bring a water bottle to school? *Just in case they got a dry teacher.*
+- What do you call a crab that never shares their shell? *Shellfish.*
 - Why did the owl move into the tree hollow? *It was a hoot of a home.*
 - How do trees get on the internet? *They log in.*
 - Why was the sea so friendly? *It always gave a wave.*
@@ -841,15 +841,15 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - What do you call a forest that only has two trees? *A pair of trees.*
 - Why did the desert fox stay home at noon? *It was too hot to trot.*
 - Where do fish keep their money? *In the river bank.*
-- Why did the lotus never get wet feet? *It always stood above its troubles.*
+- Why did the lotus never get wet feet? *They always stood above their troubles.*
 - What did the big tree say to the little tree? *Leaf me alone, I'm growing.*
 - Why did the hornbill get a big beak? *To pick the best fruit off the top shelf.*
 - Why are deserts never hungry? *Because of all the sand-wiches.*
-- Why did the snail live under the tap? *It liked a drip-ping good habitat.*
-- Why did the tube worm never go out for lunch? *Its bacteria cooked for it at home.*
-- Why did the earthworm do so well at school? *It always dug deep.*
+- Why did the snail live under the tap? *They liked a drip-ping good habitat.*
+- Why did the tube worm never go out for lunch? *Their bacteria cooked for them at home.*
+- Why did the earthworm do so well at school? *They always dug deep.*
 - What do you call a pond with no frogs? *Unhoppy.*
-- Why did the mangrove stand on its roots? *It didn't want to get its trunk wet.*
+- Why did the mangrove stand on their roots? *They didn't want to get their trunk wet.*
 
 ## Connected maths
 - In the five worlds test, the sunny path was 41 degrees Celsius. Under the stone, it was 29 degrees Celsius. How many degrees cooler was it under the stone? **12 degrees cooler.**. The path was 41 degrees. Under the stone was 29 degrees. 41 take away 29 is 12. You can check by counting on: 29 and 1 makes 30, and 11 more makes 41. 1 + 11 = 12. (queues `math.temperature.reading-thermometers.L3`)
@@ -862,7 +862,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 Everybody Lives Somewhere (sci.habitats.L3): Topic-level song
 
 ## Links
-- [iNaturalist](https://www.inaturalist.org) · interactive: Take a photo of a living thing you find under a stone or on a walk, and people around the world help you name it.
+- [iNaturalist](https://www.inaturalist.org) · interactive: Take a photo of a living thing you find under a stone or on a walk, and people around the world help you name them.
 - [eBird India](https://ebird.org/india) · interactive: Record the birds that visit your habitat corner. Your sightings help scientists.
 - [NASA Climate Kids](https://climatekids.nasa.gov) · interactive: Free games and pages about Earth's water, weather and habitats, written for children.
 - [Nature Conservation Foundation](https://www.ncf-india.org) · interactive: An Indian group that studies and restores habitats, from rainforests to high mountains. It has nature stories for children.

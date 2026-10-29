@@ -83,7 +83,7 @@ Sometimes one rule is not enough. A Venn diagram uses two overlapping circles, o
 A branching key finds one thing in a group by asking yes or no questions, one after another. Each question splits the group into two smaller groups. Ask a new question for each smaller group. Keep going until each thing is alone at the end of a branch. Try it with four things: a brick, ice, a balloon and paper. 'Is it hard?' Brick and ice say yes. Balloon and paper say no. Next, 'Is it shiny?' separates the brick from the ice. 'Is it waterproof?' separates the balloon from the paper. If every question splits its group in half, each question doubles the number of branches. One question gives two. Two give four. Three give eight. So eight things can be found with just three good questions. A key that picks out only one thing with each question can need seven.
 - e.g. A key to find which of four fruits you are holding.
 - e.g. A doctor's chart that asks yes or no questions to work out an illness.
-- e.g. A bird book key: 'Does it have a long beak?' Yes, go to question 4.
+- e.g. A bird book key: 'Does the bird have a long beak?' Yes, go to question 4.
 ### Families of rules · *defined*
 **Definition:** The rules used for sorting materials come in families. They sort by material, property, use, origin or state.
 
@@ -127,7 +127,7 @@ Look at the night sky. Stars are not all the same colour. Some are blue-white, s
 - e.g. Rigel, in the Orion constellation, is a blue-white B star. Betelgeuse, in the same constellation, is a red M star.
 - e.g. The Sun is a yellow G star, with a surface at about 5,500 degrees Celsius.
 ### Sorting living things: where does the platypus go? · *debated*
-Living things need sorting too. In the 1700s, a Swedish scientist, Carl Linnaeus, sorted plants and animals into groups inside groups. At first people sorted by looks. Whales were put with fish, because they live in water and have fins. But a whale breathes air and feeds its babies on milk. So whales belong with mammals. DNA shows that the whale's closest living relative is the hippo. Then came the platypus, an animal in Australia with fur and a duck-like bill, which lays eggs. In 1799 a British scientist, George Shaw, described a platypus skin sent from Australia. He wrote that it was hard to believe it was real, and he is said to have looked for stitches. But the platypus is real. It is a mammal that lays eggs. Biologists still argue about the most basic group of all, the species. They have written more than twenty different definitions. A tomato is a puzzle too. To a botanist it is a fruit. To a cook it is a vegetable. In 1893, the highest court in America decided that, for a tax on vegetables, a tomato counts as a vegetable. Each person used the rule that fit their job.
+Living things need sorting too. In the 1700s, a Swedish scientist, Carl Linnaeus, sorted plants and animals into groups inside groups. At first people sorted by looks. Whales were put with fish, because they live in water and have fins. But a whale breathes air, and a mother whale feeds her babies on milk. So whales belong with mammals. DNA shows that the whale's closest living relative is the hippo. Then came the platypus, an animal in Australia with fur and a duck-like bill, which lays eggs. In 1799 a British scientist, George Shaw, described a platypus skin sent from Australia. He wrote that it was hard to believe it was real, and he is said to have looked for stitches. But the platypus is real: a mammal who lays eggs. Biologists still argue about the most basic group of all, the species. They have written more than twenty different definitions. A tomato is a puzzle too. To a botanist it is a fruit. To a cook it is a vegetable. In 1893, the highest court in America decided that, for a tax on vegetables, a tomato counts as a vegetable. Each person used the rule that fit their job.
 - e.g. Whales are mammals, not fish.
 - e.g. The platypus is a mammal that lays eggs.
 - e.g. A tomato is a fruit to a botanist and a vegetable to a cook.
@@ -180,7 +180,7 @@ People in different places have sorted the world in different ways. More than tw
   Against: A tomato is a fruit to a botanist and a vegetable to a cook. A brick is hard and dull at once. The right rule depends on the job.
 - **A whale is a fish.** (Most people for thousands of years, and some old books; *rejected*)  
   For: A whale lives in water, has fins and swims like a fish. Sorting by looks makes a whale a fish.  
-  Against: A whale breathes air, is warm-blooded and feeds its baby on milk. Linnaeus put whales with mammals in 1758. DNA shows the whale's closest living relative is the hippopotamus.
+  Against: A whale breathes air and is warm-blooded, and a mother whale feeds her baby on milk. Linnaeus put whales with mammals in 1758. DNA shows the whale's closest living relative is the hippopotamus.
 - **Pluto should still be called a planet.** (Some astronomers, including Alan Stern, a leader of the mission that flew past Pluto in 2015; *debated*)  
   For: Pluto was called a planet for 76 years. It is round, it has moons, and it has mountains and an atmosphere. Many people feel the new rule was drawn to cut it out.  
   Against: In 2006 the International Astronomical Union voted on a rule. A planet must orbit the Sun, be round, and have cleared other objects out of its path. Pluto shares its path with many other icy bodies, so it is now called a dwarf planet.
@@ -262,7 +262,7 @@ So they sorted me again, all that was left of me, piece by piece. Hema hung each
 
 The short-ringing pile went off to be made into hinges and pots. The singing pile went into the fire. This time Thatha let Hema stand at the door of the furnace room, with his hand on her shoulder. She watched the orange river pour. Three days. The mould was broken. Thatha lifted the mallet, and then he did something I had not expected. He held it out to her.
 
-She struck me once. I rang. It was not a clank. It was a note so clear and so long that it climbed the foundry roof and made the tin hum. It rolled out over the lane, where a dog lifted its head and the vegetable seller stopped weighing. It went on and on, thinning out like a thread drawn from a spool. When at last it ended, the lane was quiet for a moment, as if it were listening for more.
+She struck me once. I rang. It was not a clank. It was a note so clear and so long that it climbed the foundry roof and made the tin hum. It rolled out over the lane, where a dog lifted their head and the vegetable seller stopped weighing. It went on and on, thinning out like a thread drawn from a spool. When at last it ended, the lane was quiet for a moment, as if it were listening for more.
 
 I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pulls my rope, and my voice goes out across the fields. Children come running from three villages. On my rim, in raised letters, is the name of the foundry. Nobody wrote Hema's name there. But stand underneath me and look up into the dark inside my rim. There you can find one small scratched letter. It was cut with a chisel by an old man who could no longer hear high notes. It is an H.
 
@@ -771,9 +771,9 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 13. (mcq) Which star is hottest on its surface?  
    Options: A red star / A yellow star / A blue-white star / An orange star  
    **Answer:** A blue-white star. *Why:* Blue-white stars are the hottest. Red stars are the coolest. Picking red is very common, because red makes us think of fire. But a piece of iron that glows red is the coolest a glowing thing can be. Heated more, it glows yellow, then white.
-14. (mcq) A whale lives in water and has fins. Why do scientists call it a mammal and not a fish?  
-   Options: It breathes air and feeds its baby on milk / It is very big / It lives in cold water / It has no scales  
-   **Answer:** It breathes air and feeds its baby on milk. *Why:* Scientists sort by who the whale is related to, not only by how it looks. A whale breathes air, is warm-blooded and nurses its young. Picking 'very big' or 'cold water' uses things that are not what scientists sort by.
+14. (mcq) A whale lives in water and has fins. Why do scientists call a whale a mammal and not a fish?  
+   Options: They breathe air and feed their babies on milk / They are very big / They live in cold water / They have no scales  
+   **Answer:** They breathe air and feed their babies on milk. *Why:* Scientists sort by who the whale is related to, not only by how they look. A whale breathes air and is warm-blooded, and a mother whale nurses her young. Picking 'very big' or 'cold water' uses things that are not what scientists sort by.
 15. (write) A botanist says a tomato is a fruit. A cook says it is a vegetable. Can both be right? Explain.  
    **Answer:** Yes. They use different rules for different jobs. A botanist sorts by how the plant grows seeds. A cook sorts by taste and how food is used in meals.. *Why:* A sort depends on the rule and the job. Both rules can be right for their own purposes.
 16. (write) Design three questions for a key. A blind person must be able to use it to tell apart a spoon, a cloth and a stone. Use touch or sound only.  

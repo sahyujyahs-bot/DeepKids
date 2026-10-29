@@ -180,7 +180,7 @@ We have been learning that everything you can touch is made of atoms, and what a
 *Evidence:* In the paper-cutting experiment, the last sliver was still paper, and the magnifier showed its plant fibres. The halving chart shows that a piece one atom wide is still about 23 halvings further down. Paper is mostly cellulose, which is built from carbon, hydrogen and oxygen atoms. Sugar is built from the same three kinds of atom.
 
 - *who am i:* You are made mostly of atoms of oxygen, carbon, hydrogen and nitrogen, the same kinds as in air and food. None of those atoms is 'you' by itself.
-- *what is life:* A living thing is built from the same kinds of atom as a stone or a star. Its atoms keep coming and going as it eats and breathes, yet it stays itself.
+- *what is life:* A living thing is built from the same kinds of atom as a stone or a star. Their atoms keep coming and going as they eat and breathe, yet they stay themselves.
 - *what is this world:* In this world, about 90 kinds of atom make everything you can touch. All of them are built from just three kinds of particle.
 
 About 90 kinds of atom build everything you can touch. Each atom is built from only three kinds of particle: protons, neutrons and electrons. The same few particles become stars, rivers, mangoes and you, joined in different ways. Consciousness runs through all of it, down to every particle. So a mind is not something that appears only when atoms build a brain.

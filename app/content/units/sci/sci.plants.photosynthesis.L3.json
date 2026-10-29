@@ -3,12 +3,12 @@
  "title": "Photosynthesis: how leaves make food from air, water and light",
  "level": 3,
  "summary": {
-  "text": "A huge tree grows from a small seed, yet the soil it grows in hardly gets lighter. Most of the tree is built from the air. Green leaves take in carbon dioxide, a gas in the air, and water from the roots. They use the energy of sunlight to join them into sugar. This is called photosynthesis. Oxygen is left over and goes out into the air. The plant builds its whole body from that sugar, and almost every food we eat began this way. Scientists know the main steps well. Some details, like how a leaf moves the energy of light so quickly, are still being worked out.",
+  "text": "A huge tree grows from a small seed, yet the soil they grow in hardly gets lighter. Most of the tree is built from the air. Green leaves take in carbon dioxide, a gas in the air, and water from the roots. They use the energy of sunlight to join them into sugar. This is called photosynthesis. Oxygen is left over and goes out into the air. The plant builds their whole body from that sugar, and almost every food we eat began this way. Scientists know the main steps well. Some details, like how a leaf moves the energy of light so quickly, are still being worked out.",
   "art": "A neem tree in sunshine with arrows: sunlight arriving from the Sun, an invisible puff of air going into a leaf, water rising from the roots, and tiny bubbles of oxygen floating out to a child breathing in."
  },
  "intro": {
-  "hook": "Pick up a mango stone. It fits in your palm. A mango tree grown from it can weigh more than a lorry. Where does all that tree come from?",
-  "text": "Most people, even most grown-ups, guess the soil. That seems obvious, because a plant sits in soil all its life. Nearly 400 years ago, Jan Baptist van Helmont, a doctor in what is now Belgium, tested that guess. He dried and weighed a big pot of soil. He planted a small willow tree in it and gave it only rainwater for five years. Then he weighed everything again. The tree had gained about 75 kilograms. The soil had lost only about 60 grams. So the tree did not come from the soil. In this unit, you will find out where it did come from.",
+  "hook": "Pick up a mango stone. This seed fits in your palm, yet the mango tree they grow into can weigh more than a lorry. Where does all that tree come from?",
+  "text": "Most people, even most grown-ups, guess the soil. That seems obvious, because a plant sits in soil all their life. Nearly 400 years ago, Jan Baptist van Helmont, a doctor in what is now Belgium, tested that guess. He dried and weighed a big pot of soil. He planted a small willow tree in it and gave the tree only rainwater for five years. Then he weighed everything again. The tree had gained about 75 kilograms. The soil had lost only about 60 grams. So the tree did not come from the soil. In this unit, you will find out where the tree did come from.",
   "art": "A child holding a small mango seed in an open palm, with a huge mango tree towering behind, and a question mark drawn in the air between them."
  },
  "outcomes": [
@@ -30,7 +30,7 @@
   },
   {
    "term": "Leaf",
-   "meaning": "The flat, usually green part of a plant. Most of a plant's food is made inside its leaves.",
+   "meaning": "The flat, usually green part of a plant. Most of a plant's food is made inside their leaves.",
    "example": "A banana leaf, a neem leaf and a blade of grass are all leaves.",
    "art": "Three different leaves side by side: a wide banana leaf, a small toothed neem leaf, a thin grass blade."
   },
@@ -49,7 +49,7 @@
   {
    "term": "Sugar",
    "meaning": "The food a leaf makes. One sugar that leaves make is called glucose. The sugar in your kitchen is another sugar made by plants, in sugarcane. All sugars store energy.",
-   "example": "Sugarcane stores so much of its sugar in its stem that we squeeze it out as juice.",
+   "example": "Sugarcane stores so much of their sugar in their stem that we squeeze it out as juice.",
    "art": "A sugarcane stalk being pressed in a roadside juice machine, a glass of green-gold juice beside it."
   },
   {
@@ -115,7 +115,7 @@
   {
    "term": "Respiration",
    "meaning": "How living things get energy out of their food. They use oxygen to break sugar down, and give out carbon dioxide. Plants do it all day and all night, just like us.",
-   "example": "A sprouting seed is using its stored food by respiration. It even warms up a tiny bit.",
+   "example": "A sprouting seed is using their stored food by respiration. They even warm up a tiny bit.",
    "art": "A plant and a child side by side, both taking in oxygen and giving out carbon dioxide."
   },
   {
@@ -144,7 +144,7 @@
   },
   {
    "term": "Minerals",
-   "meaning": "Substances in the soil, such as nitrates and iron, that roots take in dissolved in water. A plant needs only small amounts. It uses them to make things like proteins and chlorophyll.",
+   "meaning": "Substances in the soil, such as nitrates and iron, that roots take in dissolved in water. Plants need only small amounts. They use them to make things like proteins and chlorophyll.",
    "example": "Farmers add manure or fertiliser so the soil has enough minerals.",
    "art": "A root hair taking in water with tiny coloured specks dissolved in it."
   }
@@ -158,7 +158,7 @@
    "examples": [
     "A tulsi leaf on a sunny windowsill is making sugar right now.",
     "Grass on a cricket ground makes food all day, and makes none at night.",
-    "A cactus has no proper leaves. Its green stem does the photosynthesis instead."
+    "A cactus has no proper leaves. Their green stem does the photosynthesis instead."
    ],
    "perspectives": [],
    "art": "A leaf with sunlight shining on it, an arrow of air going in through its underside, water rising up its stalk, a sugar cube inside it and oxygen bubbles leaving.",
@@ -172,7 +172,7 @@
    "examples": [
     "An old leaf on a peepal tree turns yellow before it falls.",
     "A strip of chalk dipped in leaf juice and spirit shows a green band and a yellow band.",
-    "Moong sprouts grown in a dark cupboard are pale yellow. Moong makes its green chlorophyll only in light."
+    "Moong sprouts grown in a dark cupboard are pale yellow. Moong makes their green chlorophyll only in light."
    ],
    "perspectives": [],
    "art": "A sunbeam split into rainbow colours falling on a leaf. Red and blue arrows go into the leaf, and a green arrow bounces off to a child's eye.",
@@ -182,7 +182,7 @@
    "concept": "Stomata: how the air gets into a leaf",
    "status": "defined",
    "definition": "Carbon dioxide gets into a leaf through tiny holes called stomata, mostly on the leaf's underside. Oxygen leaves through the same holes.",
-   "description": "A leaf looks solid, but its skin has many tiny holes called stomata. Each stoma is a gap between two curved cells shaped like beans, called guard cells. When the plant has plenty of water, the guard cells swell and the stoma opens. Carbon dioxide spreads in, and oxygen spreads out. Water also escapes through the stomata, as invisible water vapour. On a hot, dry day, the plant may close its stomata to save water. Then less carbon dioxide gets in, and the leaf makes less food. So every leaf balances two needs: letting air in, and keeping water. How water climbs up from the roots to replace what escapes is told in the unit 'How water travels through a plant'.",
+   "description": "A leaf looks solid, but its skin has many tiny holes called stomata. Each stoma is a gap between two curved cells shaped like beans, called guard cells. When the plant has plenty of water, the guard cells swell and the stoma opens. Carbon dioxide spreads in, and oxygen spreads out. Water also escapes through the stomata, as invisible water vapour. On a hot, dry day, the plant may close their stomata to save water. Then less carbon dioxide gets in, and the leaf makes less food. So every leaf balances two needs: letting air in, and keeping water. How water climbs up from the roots to replace what escapes is told in the unit 'How water travels through a plant'.",
    "examples": [
     "Paint clear nail polish on the underside of a leaf, let it dry, and peel it off with clear tape. Under a toy microscope you can see the shapes of the stomata.",
     "Many desert plants open their stomata only at night, when it is cooler, to save water."
@@ -194,8 +194,8 @@
   {
    "concept": "From sugar to everything: starch, wood, fruit and you",
    "status": "defined",
-   "definition": "A plant turns the sugar it makes into everything else it needs. It joins sugars into starch to store food, and into cellulose to build its walls. It also makes oils, proteins and many other things from sugar and minerals.",
-   "description": "Sugar is the plant's building material and its fuel. Some sugar is used straight away for energy, the way you use your breakfast. Some is joined into long chains called starch, a store for later. A leaf stores some starch during the day. At night it turns that starch back into sugar and sends it to the rest of the plant. Rice grains, potatoes and wheat are packed with stored starch. Some sugar is joined in a different, stiffer way into cellulose. Cellulose makes wood, cotton, jute and the strings in a banana stem. With minerals from the soil, the plant also turns sugar into oils, like coconut oil, and proteins, like those in dal. So your plate, your clothes and your notebook all began as sugar in a leaf.",
+   "definition": "Plants turn the sugar they make into everything else they need. They join sugars into starch to store food, and into cellulose to build their walls. They also make oils, proteins and many other things from sugar and minerals.",
+   "description": "Sugar is the plant's building material and their fuel. Some sugar is used straight away for energy, the way you use your breakfast. Some is joined into long chains called starch, a store for later. A leaf stores some starch during the day. At night it turns that starch back into sugar and sends it to the rest of the plant. Rice grains, potatoes and wheat are packed with stored starch. Some sugar is joined in a different, stiffer way into cellulose. Cellulose makes wood, cotton, jute and the strings in a banana stem. With minerals from the soil, the plant also turns sugar into oils, like coconut oil, and proteins, like those in dal. So your plate, your clothes and your notebook all began as sugar in a leaf.",
    "examples": [
     "A drop of iodine on a potato turns blue-black, because the potato is full of starch.",
     "Your notebook's paper is made of cellulose from trees.",
@@ -203,7 +203,7 @@
    ],
    "perspectives": [],
    "art": "A sugar cube in the middle with arrows out to a grain of rice, a wooden plank, a cotton boll, a bottle of oil and a bowl of dal.",
-   "context": "A leaf makes sugar. This card shows how a plant turns that sugar into its whole body, and into most of what we eat and use."
+   "context": "A leaf makes sugar. This card shows how a plant turns that sugar into their whole body, and into most of what we eat and use."
   },
   {
    "concept": "A tree is built mostly out of air",
@@ -216,7 +216,7 @@
     "A sack of rice grew out of carbon dioxide, water and sunlight in a paddy field."
    ],
    "perspectives": [],
-   "art": "A huge tree drawn as if made of see-through air, with sparkling carbon atoms forming its trunk, and only a tiny pile of soil at its roots.",
+   "art": "A huge tree drawn as if made of see-through air, with sparkling carbon atoms forming their trunk, and only a tiny pile of soil at their roots.",
    "context": "Where does a tree's wood come from? This card gives the surprising answer, and the evidence for it.",
    "chart": {
     "type": "pie",
@@ -283,10 +283,10 @@
    "concept": "Plants respire too, all day and all night",
    "status": "defined",
    "definition": "Plants use their own sugar for energy by respiration. They take in oxygen and give out carbon dioxide, day and night, just as we do. In daylight they make much more oxygen than they use, so overall they give it out.",
-   "description": "A plant needs energy to grow, to build flowers and to mend itself. It gets that energy by breaking down its own sugar, using oxygen. This is respiration, and every living cell does it, in plants and in people. Roots need oxygen from the air in the soil too. That is one reason plants in soggy, waterlogged soil droop. In the day, photosynthesis is much faster than respiration. So a leaf in sunlight gives out far more oxygen than it uses. At night there is no photosynthesis. The plant only respires, so it takes in a little oxygen and gives out a little carbon dioxide. An Indian scientist, Kamala Sohonie, helped show how alike plants and animals are inside. She worked in Cambridge in the late 1930s. She found that cytochrome c, a substance animals use in respiration, is in plants too.",
+   "description": "Plants need energy to grow, to build flowers and to mend themselves. They get that energy by breaking down their own sugar, using oxygen. This is respiration, and every living cell does it, in plants and in people. Roots need oxygen from the air in the soil too. That is one reason plants in soggy, waterlogged soil droop. In the day, photosynthesis is much faster than respiration. So a leaf in sunlight gives out far more oxygen than it uses. At night there is no photosynthesis. The plant only respires, so they take in a little oxygen and gives out a little carbon dioxide. An Indian scientist, Kamala Sohonie, helped show how alike plants and animals are inside. She worked in Cambridge in the late 1930s. She found that cytochrome c, a substance animals use in respiration, is in plants too.",
    "examples": [
     "A pile of fresh grass clippings gets warm inside, because the grass cells, and tiny microbes in the pile, are respiring.",
-    "A potato in a dark cupboard is respiring slowly. It slowly uses up some of its stored food, and goes soft."
+    "A potato in a dark cupboard is respiring slowly. They slowly use up some of their stored food, and go soft."
    ],
    "perspectives": [],
    "art": "A plant and a child under a day sky and a night sky. By day the plant breathes out big oxygen bubbles, by night both take in a little oxygen and give out a little carbon dioxide.",
@@ -310,9 +310,9 @@
    "concept": "Who made the air we breathe",
    "status": "defined",
    "definition": "There was almost no oxygen in Earth's air for the first two billion years. Tiny living things called cyanobacteria made it, by photosynthesis, very slowly over hundreds of millions of years.",
-   "description": "Young Earth's air had nitrogen and carbon dioxide, but hardly any oxygen. Then cyanobacteria appeared in the sea. They were the first to split water with light. Their spare oxygen bubbled out. About 2.4 billion years ago, enough had built up to change the air for ever. Scientists call it the Great Oxidation Event. Later, a bigger cell swallowed a cyanobacterium but did not digest it. The two lived on together. The swallowed one became the chloroplast. The cells that carried it on became algae, and later plants. An American scientist, Lynn Margulis, argued for this idea in 1967. Many scientists thought she was wrong, and her paper was rejected many times. Today the evidence shows she was right. Chloroplasts even have their own small set of genes, like a bacterium.",
+   "description": "Young Earth's air had nitrogen and carbon dioxide, but hardly any oxygen. Then cyanobacteria appeared in the sea. They were the first to split water with light. Their spare oxygen bubbled out. About 2.4 billion years ago, enough had built up to change the air for ever. Scientists call it the Great Oxidation Event. Later, a bigger cell swallowed a cyanobacterium but did not digest them. The two lived on together. The swallowed one became the chloroplast. The cells that carried it on became algae, and later plants. An American scientist, Lynn Margulis, argued for this idea in 1967. Many scientists thought she was wrong, and her paper was rejected many times. Today the evidence shows she was right. Chloroplasts even have their own small set of genes, like a bacterium.",
    "examples": [
-    "Every chloroplast in a leaf is descended from a cyanobacterium that once lived on its own.",
+    "Every chloroplast in a leaf is descended from a cyanobacterium that once lived on their own.",
     "In some places, like Shark Bay in Australia, cyanobacteria still build rocky mounds called stromatolites, as they did billions of years ago."
    ],
    "perspectives": [],
@@ -323,7 +323,7 @@
    "concept": "Half of the photosynthesis happens in the sea",
    "status": "defined",
    "definition": "Tiny floating living things in the oceans, called phytoplankton, do about half of all the photosynthesis on Earth. Land plants do the other half.",
-   "description": "Phytoplankton are algae and cyanobacteria so small that thousands fit in a drop of seawater. But there are so many of them that together they make about as much food and oxygen as all the forests and fields. One of them, called Prochlorococcus, is probably the most common living thing that does photosynthesis on Earth. Nobody knew it existed until 1988. That year, an American scientist, Penny Chisholm, and her colleagues found it in seawater samples. Scientists can even see phytoplankton from space. Satellites measure the green colour of the sea, which comes from their chlorophyll.",
+   "description": "Phytoplankton are algae and cyanobacteria so small that thousands fit in a drop of seawater. But there are so many of them that together they make about as much food and oxygen as all the forests and fields. One of them, called Prochlorococcus, is probably the most common living thing that does photosynthesis on Earth. Nobody knew they existed until 1988. That year, an American scientist, Penny Chisholm, and her colleagues found them in seawater samples. Scientists can even see phytoplankton from space. Satellites measure the green colour of the sea, which comes from their chlorophyll.",
    "examples": [
     "A satellite map of the Bay of Bengal shows greener water where phytoplankton are thick.",
     "About half of the oxygen made on Earth each year is made by tiny living things in the sea."
@@ -353,7 +353,7 @@
    "description": "When a photon hits a leaf, its energy must travel through a crowd of chlorophyll molecules. It has to reach a special spot where it is used. It gets there almost without losing any. How? Quantum physics is the science of the very tiniest things. It says that a tiny packet of energy can act like a spreading wave, trying many paths at once. In 2007, scientists in California reported signs of this wave-like spreading inside a light-catching part of a bacterium. It caused great excitement. Some people said plants were using quantum tricks. Since then, scientists have argued about what the signs really mean.",
    "examples": [
     "The energy of a photon reaches the right spot in a leaf in less than a billionth of a second.",
-    "The wave-like effects were first seen in a bacterium, not in a leaf. It lives in dim water with no oxygen."
+    "The wave-like effects were first seen in a bacterium, not in a leaf. This bacterium lives in dim water with no oxygen."
    ],
    "perspectives": [
     {
@@ -413,7 +413,7 @@
   {
    "concept": "Can we copy a leaf?",
    "status": "idea",
-   "description": "Scientists around the world are trying to build an artificial leaf. It would use sunlight to split water, or to turn carbon dioxide into fuel. Some early artificial leaves work, but they are expensive, or they break down too fast. Other scientists are trying to make crops better at photosynthesis. Sugarcane and maize use a different, faster way of catching carbon dioxide than rice and wheat do. Since 2008, scientists in a big project have been trying to give rice this sugarcane trick, so it grows more grain. It is much harder than anyone hoped, and is not finished yet.",
+   "description": "Scientists around the world are trying to build an artificial leaf. It would use sunlight to split water, or to turn carbon dioxide into fuel. Some early artificial leaves work, but they are expensive, or they break down too fast. Other scientists are trying to make crops better at photosynthesis. Sugarcane and maize use a different, faster way of catching carbon dioxide than rice and wheat do. Since 2008, scientists in a big project have been trying to give rice this sugarcane trick, so rice grows more grain. It is much harder than anyone hoped, and is not finished yet.",
    "examples": [
     "A real leaf mends itself every day. No machine can do that yet.",
     "Sugarcane is one of the best plants at turning sunlight into stored sugar."
@@ -443,7 +443,7 @@
   },
   {
    "text": "Most of a plant's dry weight comes from carbon dioxide in the air, not from the soil.",
-   "evidence": "Van Helmont's willow gained about 75 kilograms in five years while its soil lost about 60 grams. When wood burns, only a little ash is left. Chemists can measure that dry wood is about half carbon.",
+   "evidence": "Van Helmont's willow gained about 75 kilograms in five years while their soil lost about 60 grams. When wood burns, only a little ash is left. Chemists can measure that dry wood is about half carbon.",
    "chart": {
     "type": "pie",
     "title": "What dry wood is made from (a rough guide)",
@@ -549,7 +549,7 @@
  ],
  "big_questions": [
   {
-   "q": "If a tree is made mostly of air, why can't you see it being built?",
+   "q": "If a tree is made mostly of air, why can't you see the tree being built?",
    "kind": "deep",
    "hint": "Can you see the carbon dioxide you breathe out? Things can be real and still invisible."
   },
@@ -559,7 +559,7 @@
    "hint": "Follow your idli back: rice, leaf, sunlight. Where did the Sun get its energy?"
   },
   {
-   "q": "When a tree burns, where does it go?",
+   "q": "When a tree burns, where does the tree go?",
    "kind": "deep",
    "hint": "Look at how little ash is left. The rest went back to where it came from."
   },
@@ -610,24 +610,24 @@
   "read_aloud": true,
   "note": "Kalpatti, Malar, Govindan Mudalali, Saraswathi and the panchayat are made up. The science is real. Nearly 400 years ago, Jan Baptist van Helmont grew a willow in a weighed pot of soil for five years, and the soil hardly changed. In a real pot, the soil can settle a little as it packs together. So a family test may not be quite as tidy as Malar's.",
   "text": [
-   "In the village of Kalpatti, at the corner where Govindan Mudalali's paddy field met the dusty lane, there stood a mango tree so wide that a whole wedding party could sit in its shade. Nobody alive remembered planting it. But everybody remembered its mangoes.",
-   "Every summer, the children of the lane waited under it with their mouths already watering. Ripe mangoes thudded onto the lane, and into the field, and onto the tin roof of the little house where Malar lived with her mother. Her mother swept under the tree every morning. 'A tree that feeds everybody deserves a clean floor,' she said.",
+   "In the village of Kalpatti, at the corner where Govindan Mudalali's paddy field met the dusty lane, there stood a mango tree so wide that a whole wedding party could sit in their shade. Nobody alive remembered planting the tree. But everybody remembered their mangoes.",
+   "Every summer, the children of the lane waited under their branches with their mouths already watering. Ripe mangoes thudded onto the lane, and into the field, and onto the tin roof of the little house where Malar lived with her mother. Her mother swept under the tree every morning. 'A tree that feeds everybody deserves a clean floor,' she said.",
    "That summer, Govindan Mudalali, the richest man in the village, built a wall. He built it of new red bricks, right round the tree, with an iron gate and a padlock. He hung a board on the gate. It said PRIVATE.",
-   "'The tree stands in my field,' he told anyone who asked. 'Its roots go deep into my soil. Every mango is made of my land. So every mango is mine.'",
+   "'The tree stands in my field,' he told anyone who asked. 'Their roots go deep into my soil. Every mango is made of my land. So every mango is mine.'",
    "The children stopped waiting under the tree. The mangoes fell inside the wall and were loaded into the Mudalali's cart for the market. Malar's mother stopped sweeping. She did not say anything about it, which was worse.",
    "Malar was nine, and she did not like the word PRIVATE. She liked the word made even less. Made of my land. It sat in her head like a stone in a shoe.",
    "At school, Revathi Miss had once drawn a leaf on the blackboard with arrows going in and out. 'Leaves make food,' she had said, 'from sunlight, water and air.' Everybody had copied it into their notebooks. Nobody had believed it, least of all Malar. Air was nothing. You could not build a mango out of nothing.",
-   "That evening, Malar watered the tulsi in the clay pot by their door. Her mother had planted it the year Malar was born, from a seed no bigger than a mustard seed. Now it was a bush as tall as Malar's waist. Every winter her mother cut it back and gave bunches of it to the whole lane, and every spring it grew again.",
+   "That evening, Malar watered the tulsi in the clay pot by their door. Her mother had planted this tulsi the year Malar was born, from a seed no bigger than a mustard seed. Now the tulsi was a bush as tall as Malar's waist. Every winter her mother cut them back and gave bunches of their leaves to the whole lane, and every spring they grew again.",
    "On the inside of the pot, just above the soil, there was a scratch. Her mother had made it with a nail on the first day, so she would know when the soil sank and needed more.",
    "Malar looked at the scratch. She looked at the bush. She looked at the scratch again.",
    "The soil was still on the line.",
    "Nine years of leaves. Nine winters of tulsi for the whole lane. And the soil had not gone down. Malar sat back on her heels with her mouth open. The tulsi had not been eating the soil at all.",
    "The panchayat met on Thursday under the neem tree by the well. The sarpanch, Saraswathi, was a small woman with spectacles and a fat ledger. When Malar stood up and asked to speak, some of the men laughed. Govindan Mudalali laughed loudest.",
    "'Speak, kanna,' said Saraswathi.",
-   "Malar set the tulsi pot down on the mat. It was heavy, and she was out of breath from carrying it. 'Mudalali says the mangoes are made of his soil,' she said. 'This tulsi is nine years old. If it was made of soil, the soil would have gone down. But look. It is still on Amma's line.'",
+   "Malar set the tulsi pot down on the mat. It was heavy, and she was out of breath from carrying it. 'Mudalali says the mangoes are made of his soil,' she said. 'This tulsi is nine years old. If they were made of soil, the soil would have gone down. But look. It is still on Amma's line.'",
    "People leaned forward. Somebody held up a lantern. The soil sat exactly on the scratch.",
-   "'Then what is it made of?' said Saraswathi.",
-   "'Water, some of it,' said Malar. 'But when Amma dries tulsi leaves for tea, the water goes, and a big heap shrinks to a tiny pinch. The pinch is still there. Revathi Miss says leaves make food out of air, in the sunlight. I didn't believe her. But it can't be the soil. So it must be the air.'",
+   "'Then what are they made of?' said Saraswathi.",
+   "'Partly water,' said Malar. 'But when Amma dries tulsi leaves for tea, the water goes, and a big heap shrinks to a tiny pinch. The pinch is still there. Revathi Miss says leaves make food out of air, in the sunlight. I didn't believe her. But it can't be the soil. So it must be the air.'",
    "'Air!' Govindan Mudalali threw up his hands. 'Air is nothing! You cannot build a tree out of nothing.'",
    "Malar had thought about this all night. 'When your cook burns a big log in the kitchen fire, Mudalali, where does it go? There is only a handful of ash in the morning. The rest goes up in the smoke, into the air. It goes back where it came from.' She took a breath. 'The ash is the soil part. Only a handful.'",
    "Nobody laughed now. Old Muthu, who had burned wood in his kiln for fifty years, slowly nodded.",
@@ -652,7 +652,7 @@
    "Malar breathed out under the tree. Why did she think a bit of her would become a mango?"
   ],
   "art": [
-   "A huge old mango tree at the corner of a paddy field and a dusty lane, children waiting in its shade.",
+   "A huge old mango tree at the corner of a paddy field and a dusty lane, children waiting in their shade.",
    "A new brick wall around the tree, an iron gate with a padlock and a board that says PRIVATE.",
    "Malar kneeling by a clay tulsi pot at dusk, staring at a scratched line just above the soil.",
    "The panchayat under a neem tree by a well, a woman sarpanch with spectacles and a ledger, Malar standing beside the tulsi pot.",
@@ -679,7 +679,7 @@
      "kind": "cards",
      "title": "20 weather and life cards to cut out",
      "items": [
-      "NIGHT FALLS: no SUNLIGHT cards can be used this turn. Pay 1 SUGAR, because your plant still respires: it uses food for energy.",
+      "NIGHT FALLS: no SUNLIGHT cards can be used this turn. Pay 1 SUGAR, because your plant still respires: they use food for energy.",
       "CLOUDY DAY: you may use only 1 SUNLIGHT card this turn.",
       "BRIGHT SUNNY DAY: take 2 extra SUNLIGHT cards.",
       "RAIN: take 2 extra WATER cards.",
@@ -695,7 +695,7 @@
       "FALLEN LEAVES ROT: everyone takes 1 CARBON DIOXIDE.",
       "SMOKE FROM A FIRE: everyone takes 1 CARBON DIOXIDE, but loses 1 SUNLIGHT.",
       "SHADE FROM A BIG TREE: lose 1 SUNLIGHT.",
-      "NIGHT FALLS: no SUNLIGHT cards can be used this turn. Pay 1 SUGAR, because your plant still respires: it uses food for energy.",
+      "NIGHT FALLS: no SUNLIGHT cards can be used this turn. Pay 1 SUGAR, because your plant still respires: they use food for energy.",
       "QUESTION: say where the oxygen from your leaf goes. Right answer: take 1 SUGAR.",
       "QUESTION: say what the soil gives you. Right answer: take 1 SUGAR.",
       "QUESTION: say why leaves are green. Right answer: take 1 SUGAR."
@@ -734,7 +734,7 @@
      "do": "1. Give each player a plant mat, 1 LEAF tile and 2 of each ingredient card. 2. Put the ingredient piles, the sugar tokens and the oxygen bubbles in the middle. 3. Shuffle the weather and life cards face down.",
      "say": "In this game, each of us is a plant. We cannot eat. We must make our own food in our leaves, from sunlight, water and carbon dioxide.",
      "kid": "You are a plant! You cannot eat food. You make it in your leaves. You need sunlight, water and carbon dioxide.",
-     "context": "This is the first step of Leaf Kitchen. It is a card game where each player is a plant that makes its own food by photosynthesis. Here you set up the game."
+     "context": "This is the first step of Leaf Kitchen. It is a card game where each player is a plant that makes their own food by photosynthesis. Here you set up the game."
     },
     {
      "id": "s2",
@@ -792,7 +792,7 @@
      "mins": 2,
      "do": "Ask one last question about the game.",
      "say": "Where did your plant's whole body come from in this game? Did any of it come from the soil?",
-     "kid": "Look at your finished plant. What was it built from? Was any of it soil?",
+     "kid": "Look at your finished plant. What was your plant built from? Was any of that soil?",
      "check": {
       "t": "mcq",
       "q": "In the game, your plant was built from sugar. Where did the sugar come from?",
@@ -807,7 +807,7 @@
      }
     }
    ],
-   "context": "This is a card game about how a plant makes its food. Each player is a plant. You trade sunlight, water and carbon dioxide for sugar in your leaves, and spend the sugar to grow.",
+   "context": "This is a card game about how a plant makes their food. Each player is a plant. You trade sunlight, water and carbon dioxide for sugar in your leaves, and spend the sugar to grow.",
    "setup": [
     {
      "art": "A table with a paper plant mat for each player showing an empty pot and plant outline, three piles of cards marked with a sun, a water drop and a puff of air, and a bowl of sugar cubes.",
@@ -1061,9 +1061,9 @@
     },
     {
      "t": "truefalse",
-     "p": "A plant gets its food by eating the soil.",
+     "p": "A plant gets their food by eating the soil.",
      "a": false,
-     "why": "False. A plant makes its own food in its leaves, from air and water, using light. The soil gives only water and a pinch of minerals."
+     "why": "False. A plant makes their own food in their leaves, from air and water, using light. The soil gives only water and a pinch of minerals."
     },
     {
      "t": "truefalse",
@@ -1155,7 +1155,7 @@
      ],
      "a": 0,
      "why": "The closer the lamp, the brighter the light, and the faster the plant made oxygen. Picking 'switched off' usually means thinking plants make oxygen at night. They need light to do it.",
-     "context": "In the bubble count, a water plant sits in a glass of water. It gives off bubbles of oxygen as it makes food. A lamp is put close by, far away, or switched off.",
+     "context": "In the bubble count, a water plant sits in a glass of water. They give off bubbles of oxygen as they make food. A lamp is put close by, far away, or switched off.",
      "how": "e3",
      "chart": {
       "type": "bar",
@@ -1204,7 +1204,7 @@
     {
      "t": "draw",
      "p": "Draw a leaf. Draw arrows for sunlight, water and carbon dioxide going in, and oxygen coming out. Write where the sugar goes.",
-     "a": "Three arrows in, labelled sunlight, water and carbon dioxide. One arrow out labelled oxygen. A note saying the sugar stays in the plant, to make it grow.",
+     "a": "Three arrows in, labelled sunlight, water and carbon dioxide. One arrow out labelled oxygen. A note saying the sugar stays in the plant, to make them grow.",
      "why": "This drawing is a model of photosynthesis. It shows what goes in and what comes out.",
      "art": "An empty leaf outline with space around it for arrows."
     }
@@ -1226,8 +1226,8 @@
       "His scale was broken"
      ],
      "a": 0,
-     "why": "If the tree were made of soil, the soil would have lost about 75 kilograms. It lost only a tiny bit. Van Helmont thought the tree was made of water. We now know most of it came from carbon dioxide in the air. Picking 'his scale was broken' is a good scientist's doubt. But scientists have repeated tests like this many times.",
-     "context": "Nearly 400 years ago, Jan Baptist van Helmont planted a small willow in a weighed pot of soil. He gave it only water for five years, then weighed everything again.",
+     "why": "If the tree were made of soil, the soil would have lost about 75 kilograms. It lost only a tiny bit. Van Helmont thought the tree was made of water. We now know most of the tree came from carbon dioxide in the air. Picking 'his scale was broken' is a good scientist's doubt. But scientists have repeated tests like this many times.",
+     "context": "Nearly 400 years ago, Jan Baptist van Helmont planted a small willow in a weighed pot of soil. He gave the willow only water for five years, then weighed everything again.",
      "chart": {
       "type": "bar",
       "title": "Van Helmont's willow tree, nearly 400 years ago (rounded to kilograms)",
@@ -1439,14 +1439,14 @@
     },
     {
      "t": "write",
-     "p": "Why do you think a cactus can live in the desert with no proper leaves? Where does it make its food?",
+     "p": "Why do you think a cactus can live in the desert with no proper leaves? Where do they make their food?",
      "lines": 3,
-     "a": "A cactus makes its food in its thick green stem, which has chlorophyll. Having no wide leaves means less water escapes. Many cacti open their tiny holes only at night, when it is cooler.",
+     "a": "A cactus makes their food in their thick green stem, which has chlorophyll. Having no wide leaves means less water escapes. Many cacti open their tiny holes only at night, when it is cooler.",
      "why": "Any green part can do photosynthesis. A good answer names the green stem and links it to saving water."
     },
     {
      "t": "draw",
-     "p": "Draw the loop of air between you and a tree. Show what you give the tree and what it gives you.",
+     "p": "Draw the loop of air between you and a tree. Show what you give the tree and what they give you.",
      "a": "An arrow from the child to the tree labelled carbon dioxide, and an arrow from the tree to the child labelled oxygen. Better drawings add sunlight going into the tree.",
      "why": "People and plants share air. We breathe out carbon dioxide, which plants use. Plants give out oxygen, which we use.",
      "art": "A child on one side and a tree on the other, with space between for arrows."
@@ -1574,7 +1574,7 @@
     },
     {
      "t": "mcq",
-     "p": "Which of these living things makes its food WITHOUT any sunlight?",
+     "p": "Which of these living things makes their food WITHOUT any sunlight?",
      "opts": [
       "Bacteria by hot springs on the deep sea floor",
       "A mango tree",
@@ -1611,7 +1611,7 @@
      "lines": 4,
      "a": "A mango tree is built mostly from carbon dioxide in the air and water from rain, using sunlight. Only a tiny pinch comes from minerals in the soil. So if the Mudalali owns only the soil, he owns only a pinch of the tree.",
      "why": "A good answer says what the tree is made of, and links the tiny soil part to the 'pinch'.",
-     "context": "In the story A Pinch of Soil, a rich man claims a mango tree because it grows in his land. The village sarpanch says he may keep only a pinch of the mangoes."
+     "context": "In the story A Pinch of Soil, a rich man claims a mango tree because they grow in his land. The village sarpanch says he may keep only a pinch of the mangoes."
     },
     {
      "t": "mcq",
@@ -1957,7 +1957,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Practise the iodine test on potato and rice. In the evening, clip a black paper shape on both sides of one leaf. Put the plant in its sunniest place."
+     "what": "Practise the iodine test on potato and rice. In the evening, clip a black paper shape on both sides of one leaf. Put the plant in the sunniest place."
     },
     {
      "day": 2,
@@ -1994,7 +1994,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. In the evening, cut a simple shape from black paper, like a star or your child's first letter. Cut a matching plain square. 2. Clip the shape on top of one big leaf and the square underneath, so no light gets through. 3. Put the plant where it gets the most direct sun. Water it as usual.",
+     "do": "1. In the evening, cut a simple shape from black paper, like a star or your child's first letter. Cut a matching plain square. 2. Clip the shape on top of one big leaf and the square underneath, so no light gets through. 3. Put the plant where they get the most direct sun. Water them as usual.",
      "say": "Under the shape, the leaf will be in the dark for two whole days. All around it, the leaf gets sunshine. Our question is, where will it make starch?",
      "kid": "Cut a black paper star or your first letter. Clip it on a big leaf. Put the plant in the sun for two days.",
      "wait": "Leave the plant in the sun for 2 days.",
@@ -2028,7 +2028,7 @@
       "a": 0,
       "why": "Blue-black means starch. The covered star got no light, so that part made no food and stayed pale. The rest of the leaf got light, made sugar, and stored it as starch. Picking 'best in the dark' usually means mixing up starch with something that was kept safe under the paper. The paper only blocked the light."
      },
-     "parent": "Starch shows as dark blue, dark purple or almost black. Leaf with no starch stays yellow-brown. If the whole leaf stays brown, the plant did not get enough sun, or this plant stores little starch in its leaves. Try again in a sunnier spot, or with a leaf from another plant. If the star is only a little paler than the rest, leave the shape on for one more sunny day next time."
+     "parent": "Starch shows as dark blue, dark purple or almost black. Leaf with no starch stays yellow-brown. If the whole leaf stays brown, the plant did not get enough sun, or this plant stores little starch in their leaves. Try again in a sunnier spot, or with a leaf from another plant. If the star is only a little paler than the rest, leave the shape on for one more sunny day next time."
     },
     {
      "id": "s6",
@@ -2139,9 +2139,9 @@
      "mins": 5,
      "do": "1. Stir a pinch of baking soda into a tall glass of water. 2. A grown-up cuts the end of the water plant cleanly. 3. Slide a paper clip onto the sprig and drop it in, cut end up.",
      "say": "Pond plants make their food under water. The baking soda gives them extra carbon dioxide. Watch the cut end.",
-     "kid": "Stir a pinch of baking soda into the water. Clip the plant so it sinks. Put the cut end at the top.",
+     "kid": "Stir a pinch of baking soda into the water. Clip the plant so they sink. Put the cut end at the top.",
      "adult": true,
-     "context": "This is the first step of the bubble count. A water plant gives off bubbles of oxygen as it makes food. You count the bubbles with a lamp close by and far away."
+     "context": "This is the first step of the bubble count. A water plant gives off bubbles of oxygen as they make food. You count the bubbles with a lamp close by and far away."
     },
     {
      "id": "s2",
@@ -2175,7 +2175,7 @@
      "kid": "Draw one bar for each lamp place. Make each bar as tall as its number. Which is tallest?",
      "check": {
       "t": "mcq",
-      "q": "With the lamp 10 cm away, the plant made 30 bubbles a minute. At 40 cm, it made 6. With the lamp off, it made none. What does this show?",
+      "q": "With the lamp 10 cm away, the plant made 30 bubbles a minute. At 40 cm, they made 6. With the lamp off, they made none. What does this show?",
       "options": [
        "More light makes the plant make oxygen faster",
        "The lamp's heat makes the bubbles",
@@ -2183,7 +2183,7 @@
        "Distance does not matter"
       ],
       "a": 0,
-      "why": "The closer the lamp, the brighter the light on the plant, and the faster it made oxygen. With no light, it made none. Picking 'the lamp's heat' is a good scientist's worry. That is why we used a cool LED bulb. It hardly warmed the water, but it still changed the bubbles."
+      "why": "The closer the lamp, the brighter the light on the plant, and the faster they made oxygen. With no light, they made none. Picking 'the lamp's heat' is a good scientist's worry. That is why we used a cool LED bulb. It hardly warmed the water, but it still changed the bubbles."
      },
      "chart": {
       "type": "bar",
@@ -2221,10 +2221,10 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a water plant makes oxygen faster in brighter light. What I saw: with the lamp 10 cm away, it gave 30 bubbles a minute. At 40 cm it gave only 6, and with the lamp off, none. Why: the plant uses light's energy to make food and split water, so more light means more oxygen."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a water plant makes oxygen faster in brighter light. What I saw: with the lamp 10 cm away, they gave 30 bubbles a minute. At 40 cm it gave only 6, and with the lamp off, none. Why: the plant uses light's energy to make food and split water, so more light means more oxygen."
     }
    ],
-   "context": "In this experiment, a water plant sits in a glass of water. It gives off bubbles of oxygen as it makes food. You count the bubbles with a lamp close by, far away, and switched off.",
+   "context": "In this experiment, a water plant sits in a glass of water. They give off bubbles of oxygen as they make food. You count the bubbles with a lamp close by, far away, and switched off.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example: bubbles from a water plant in one minute",
@@ -2256,7 +2256,7 @@
    },
    "setup": [
     {
-     "art": "A sprig of hydrilla in a tall glass of water, held down by a paper clip, with its cut end at the top.",
+     "art": "A sprig of hydrilla in a tall glass of water, held down by a paper clip, with their cut end at the top.",
      "caption": "1. Put a water plant in a glass of water, cut end up."
     },
     {
@@ -2290,7 +2290,7 @@
      "qty": 1
     }
    ],
-   "safety": "If you go out to a tree, go with a grown-up. Do not climb it.",
+   "safety": "If you go out to a tree, go with a grown-up. Do not climb the tree.",
    "schedule": [
     {
      "day": 1,
@@ -2303,21 +2303,21 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Put a mango stone, or another big tree's seed, in your child's hand. 2. Look together at a big tree, from a window, on the street, or in a photo. 3. If a tree is close by, try to hug its trunk.",
+     "do": "1. Put a mango stone, or another big tree's seed, in your child's hand. 2. Look together at a big tree, from a window, on the street, or in a photo. 3. If a tree is close by, try to hug their trunk.",
      "say": "A big tree started as a seed like this one. Look at the trunk and the branches. What do you notice? What do you wonder?",
-     "kid": "Hold the seed. Now look at a big tree. A seed like this grew into it! What do you notice? What do you wonder?",
+     "kid": "Hold the seed. Now look at a big tree. A seed like this grew into this tree! What do you notice? What do you wonder?",
      "adult": false,
      "ask": [
       {
        "q": "What do you wonder about this tree?",
        "good": [
-        "How did it get so big?",
-        "What is it made of?",
-        "How old is it?"
+        "How did they get so big?",
+        "What are they made of?",
+        "How old are they?"
        ]
       }
      ],
-     "context": "This is the first step of Where Did the Giant Come From? You visit a big tree and hold one of its seeds. It is the noticing activity that starts the unit."
+     "context": "This is the first step of Where Did the Giant Come From? You visit a big tree and hold one of their seeds. It is the noticing activity that starts the unit."
     },
     {
      "id": "s2",
@@ -2345,7 +2345,7 @@
      "do": "Write your child's guess and reason on a page, with the date. Keep it.",
      "say": "Let's write your guess down, with your reason. At the end, we'll see if you still think the same.",
      "kid": "Write down your guess and why. Keep the page safe. You will check it at the end.",
-     "think": "If the tree really were made of soil, what would you see around its roots?"
+     "think": "If the tree really were made of soil, what would you see around their roots?"
     }
    ],
    "context": "This is the opening activity of the unit. You hold a big tree's seed, look at a tree, and guess where all the tree's wood came from.",
@@ -2430,9 +2430,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Sit facing a pot plant or a tree. Breathe out slowly towards it. Then breathe in slowly.",
-     "say": "Breathe out to the plant. It can take in your carbon dioxide. Breathe in. Some of the oxygen you take in was made by leaves. Let's do it five times, slowly.",
-     "kid": "Sit by a plant. Breathe out slowly to it. Then breathe in slowly. You and the plant are sharing air. Do it five times.",
+     "do": "Sit facing a pot plant or a tree. Breathe out slowly towards them. Then breathe in slowly.",
+     "say": "Breathe out to the plant. They can take in your carbon dioxide. Breathe in. Some of the oxygen you take in was made by leaves. Let's do it five times, slowly.",
+     "kid": "Sit by a plant. Breathe out slowly to them. Then breathe in slowly. You and the plant are sharing air. Do it five times.",
      "think": "The carbon dioxide you breathe out can become part of a leaf. Where does the air stop and the plant begin?"
     }
    ],
@@ -2527,7 +2527,7 @@
        "Yellow is made only in autumn"
       ],
       "a": 0,
-      "why": "The chalk shows that a green leaf already has yellow colours hidden in it. The green chlorophyll covers them up. When a leaf gets old, the plant breaks down its chlorophyll first, to save the useful parts. Then the yellow shows. Picking 'painted by the sun' usually means thinking the colour comes from outside the leaf."
+      "why": "The chalk shows that a green leaf already has yellow colours hidden in it. The green chlorophyll covers them up. When a leaf gets old, the plant breaks down their chlorophyll first, to save the useful parts. Then the yellow shows. Picking 'painted by the sun' usually means thinking the colour comes from outside the leaf."
      }
     },
     {
@@ -2887,7 +2887,7 @@
      "mins": 20,
      "do": "1. Once a week, measure the tallest plant with a ruler and draw the pot. 2. Water only with clean tap water or rainwater. 3. Do not add any manure or fertiliser. 4. Stop watering for the last three days, so the soil starts drying.",
      "say": "We are giving the plants only water. Watch what they build.",
-     "kid": "Each week, measure the tallest plant. Draw it. Give only clean water. No plant food!",
+     "kid": "Each week, measure the tallest plant. Draw them. Give only clean water. No plant food!",
      "wait": "Check once a week for about 4 weeks."
     },
     {
@@ -3312,7 +3312,7 @@
    "a": 1,
    "why": "The soil lost only about 60 grams. So the tree did not come from the soil. Picking '75 kilograms' is what you would expect if trees ate soil.",
    "outcome": 3,
-   "context": "Nearly 400 years ago, Jan Baptist van Helmont planted a small willow in a weighed pot of soil. He gave it only water for five years, then weighed everything again.",
+   "context": "Nearly 400 years ago, Jan Baptist van Helmont planted a small willow in a weighed pot of soil. He gave the willow only water for five years, then weighed everything again.",
    "chart": {
     "type": "bar",
     "title": "Van Helmont's willow tree, nearly 400 years ago (rounded to kilograms)",
@@ -3444,7 +3444,7 @@
   "Foresters measure how much carbon a forest stores by measuring its trees.",
   "Satellites measure the green of land and sea to check on crops, forests and ocean life.",
   "Plant breeders choose plants that give more food. In the 1930s, the Indian scientist Janaki Ammal helped breed sweeter sugarcane for India.",
-  "Scientists are trying to give rice the sugarcane way of catching carbon dioxide, so it grows more grain.",
+  "Scientists are trying to give rice the sugarcane way of catching carbon dioxide, so rice grows more grain.",
   "Artificial leaves are being built to use sunlight to make clean fuels.",
   "Coal, oil and gas are the remains of plants and tiny sea living things from millions of years ago. Burning them releases ancient stored sunlight and carbon.",
   "Biogas plants in Indian villages turn cow dung and plant waste into cooking gas. That energy began as sunlight caught by grass.",
@@ -3453,7 +3453,7 @@
  "spotted": [
   {
    "text": "Shiny green leaves turning to face the sun on a balcony plant.",
-   "art": "A pot plant on a balcony with its leaves turned towards the bright sky."
+   "art": "A pot plant on a balcony with their leaves turned towards the bright sky."
   },
   {
    "text": "Tiny silver bubbles on water plants in a pond or a temple tank on a sunny day.",
@@ -3554,12 +3554,12 @@
    "a": "I've got a photon for you!"
   },
   {
-   "j": "Why did the potato blush when it met iodine?",
-   "a": "It had been caught being starchy."
+   "j": "Why did the potato blush when they met iodine?",
+   "a": "They had been caught being starchy."
   },
   {
    "j": "Why did the sunflower get top marks?",
-   "a": "It was the brightest in the class."
+   "a": "They were the brightest in the class."
   },
   {
    "j": "What did the tree say to the person breathing out?",
@@ -3567,11 +3567,11 @@
   },
   {
    "j": "Why was the mushroom never invited to the Leaf Kitchen?",
-   "a": "It can't cook. It only eats."
+   "a": "They can't cook. They only eat."
   },
   {
    "j": "Why did the cactus not need any leaves?",
-   "a": "It liked to stem its own food."
+   "a": "They liked to stem their own food."
   },
   {
    "j": "What is a chloroplast's favourite colour?",
@@ -3583,15 +3583,15 @@
   },
   {
    "j": "Why did the tree go to the bank?",
-   "a": "To store its carbon."
+   "a": "To store their carbon."
   },
   {
-   "j": "What do you call a tree that makes its own lunch?",
+   "j": "What do you call a tree that makes their own lunch?",
    "a": "Self-made."
   },
   {
    "j": "Why did the plant keep the lights on at night?",
-   "a": "It was afraid of the dark. And hungry."
+   "a": "They were afraid of the dark. And hungry."
   },
   {
    "j": "What did the water say to the leaf?",
@@ -3623,7 +3623,7 @@
   },
   {
    "j": "Why was the willow tree so light-hearted?",
-   "a": "It was mostly made of air."
+   "a": "They were mostly made of air."
   },
   {
    "j": "How does a leaf say goodbye in autumn?",
@@ -3647,7 +3647,7 @@
   },
   {
    "j": "Why did the moong sprout in the cupboard look so pale?",
-   "a": "It hadn't seen the Sun in days."
+   "a": "They hadn't seen the Sun in days."
   }
  ],
  "maths": [
@@ -3751,11 +3751,11 @@
    "why_maths": "A chart lets you see how fast the leaf was working. Reading values off it, and finding the difference, turns a picture of floating discs into a number."
   },
   {
-   "problem": "Van Helmont's willow weighed about 2 kilograms at the start and about 77 kilograms after five years. How much weight did it gain? The soil lost only about 60 grams. Is that more or less than 1 kilogram?",
-   "answer": "It gained about 75 kilograms. 60 grams is much less than 1 kilogram.",
+   "problem": "Van Helmont's willow weighed about 2 kilograms at the start and about 77 kilograms after five years. How much weight did the willow gain? The soil lost only about 60 grams. Is that more or less than 1 kilogram?",
+   "answer": "The willow gained about 75 kilograms. 60 grams is much less than 1 kilogram.",
    "explain": "77 − 2 = 75. So the tree gained about 75 kilograms. 1 kilogram is 1,000 grams. 60 grams is much less than 1,000 grams. So the soil lost far less than 1 kilogram, while the tree gained 75 kilograms.",
    "math_unit": "math.weight-capacity.weight.L3",
-   "context": "Nearly 400 years ago, Jan Baptist van Helmont planted a small willow in a weighed pot of soil. He gave it only water for five years, then weighed everything again.",
+   "context": "Nearly 400 years ago, Jan Baptist van Helmont planted a small willow in a weighed pot of soil. He gave the willow only water for five years, then weighed everything again.",
    "chart": {
     "type": "bar",
     "title": "Van Helmont's willow tree, nearly 400 years ago (rounded to kilograms)",
@@ -3789,11 +3789,11 @@
    "why_maths": "Weighing is how van Helmont, and you, can prove where a tree came from. Comparing the tree's gain with the soil's loss shows the soil could not have been the source."
   },
   {
-   "problem": "In the bubble count, the water plant gave 30 bubbles in a minute with the lamp 10 cm away. It gave 16 at 20 cm, and 6 at 40 cm. Draw a bar chart. How many more bubbles were there at 10 cm than at 40 cm?",
+   "problem": "In the bubble count, the water plant gave 30 bubbles in a minute with the lamp 10 cm away. They gave 16 at 20 cm, and 6 at 40 cm. Draw a bar chart. How many more bubbles were there at 10 cm than at 40 cm?",
    "answer": "24 more bubbles. Here is the bar chart.",
    "explain": "Draw one bar for each lamp distance, as tall as its number. The tallest bar is 10 cm, at 30. The shortest is 40 cm, at 6. 30 − 6 = 24. So there were 24 more bubbles a minute with the lamp close.",
    "math_unit": "math.data.bar-charts.L3",
-   "context": "In the bubble count, a water plant sits in a glass of water. It gives off bubbles of oxygen as it makes food. A lamp is put close by, far away, or switched off.",
+   "context": "In the bubble count, a water plant sits in a glass of water. They give off bubbles of oxygen as they make food. A lamp is put close by, far away, or switched off.",
    "answer_chart": {
     "type": "bar",
     "title": "Made-up example: bubbles from a water plant in one minute",
@@ -3973,7 +3973,7 @@
    "used_in": [
     "e3"
    ],
-   "plan": "Aquarium shops in most Indian towns sell it cheaply. Keep it in a jar of water on a windowsill afterwards. It is a good home pond plant."
+   "plan": "Aquarium shops in most Indian towns sell these plants cheaply. Keep them in a jar of water on a windowsill afterwards. They make a good home pond plant."
   },
   {
    "id": "b-chuna",
@@ -4147,9 +4147,9 @@
  "roots": {
   "context": "We have been learning how a leaf makes food from air, water and sunlight. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Spinach leaf discs floated up only when they had both light and carbon dioxide. They were making food and oxygen from air and water, using light. Van Helmont's willow gained about 75 kilograms, while its soil lost only about 60 grams. So most of a tree's wood was once a gas in the air.",
-   "habit": "We assume a living thing is made of what it seems to feed on, and a plant seems to feed on soil through its roots. This mixes up what holds a plant in place and brings it water with what builds its body.",
-   "evidence": "In the rising leaf discs test, discs floated in the light with baking soda water, but not in the dark or in plain boiled water. Van Helmont's willow gained about 75 kilograms in five years, while its soil lost about 60 grams. Burn dry twigs, and only a little ash is left."
+   "truth": "Spinach leaf discs floated up only when they had both light and carbon dioxide. They were making food and oxygen from air and water, using light. Van Helmont's willow gained about 75 kilograms, while their soil lost only about 60 grams. So most of a tree's wood was once a gas in the air.",
+   "habit": "We assume a living thing is made of what they seem to feed on, and a plant seems to feed on soil through their roots. This mixes up what holds a plant in place and brings them water with what builds their body.",
+   "evidence": "In the rising leaf discs test, discs floated in the light with baking soda water, but not in the dark or in plain boiled water. Van Helmont's willow gained about 75 kilograms in five years, while their soil lost about 60 grams. Burn dry twigs, and only a little ash is left."
   },
   "three": {
    "who_am_i": "The energy in your breakfast came from sunlight caught by a leaf.",
@@ -4202,7 +4202,7 @@
   "art": "A child and a neem tree facing each other, with soft arrows of breath flowing from one to the other in sunlight."
  },
  "how_we_found_out": {
-  "story": "For about 2,000 years, most people believed that plants eat soil. In the first half of the 1600s, Jan Baptist van Helmont, a doctor in what is now Belgium, tested this. He dried and weighed 200 pounds of soil, about 91 kilograms, and planted a willow that weighed about 2 kilograms. For five years he gave it only rainwater, and covered the pot so that dust could not fall in. The willow grew to about 77 kilograms. The soil had lost only about 60 grams. So the tree was not made of soil. Van Helmont decided that it was made of water. That was only partly right, because he did not know that air holds a gas plants can use. In 1771, Joseph Priestley in England found that a sprig of mint could make used-up air fit for a candle again. In 1779, Jan Ingenhousz showed that only the green parts of a plant do this, and only in light. In 1804, Nicolas-Théodore de Saussure weighed plants and the air around them with great care. He showed that plants gain weight by taking in carbon dioxide as well as water.",
+  "story": "For about 2,000 years, most people believed that plants eat soil. In the first half of the 1600s, Jan Baptist van Helmont, a doctor in what is now Belgium, tested this. He dried and weighed 200 pounds of soil, about 91 kilograms, and planted a willow that weighed about 2 kilograms. For five years he gave the tree only rainwater, and covered the pot so that dust could not fall in. The willow grew to about 77 kilograms. The soil had lost only about 60 grams. So the tree was not made of soil. Van Helmont decided that the willow was made of water. That was only partly right, because he did not know that air holds a gas plants can use. In 1771, Joseph Priestley in England found that a sprig of mint could make used-up air fit for a candle again. In 1779, Jan Ingenhousz showed that only the green parts of a plant do this, and only in light. In 1804, Nicolas-Théodore de Saussure weighed plants and the air around them with great care. He showed that plants gain weight by taking in carbon dioxide as well as water.",
   "who": "Jan Baptist van Helmont; Joseph Priestley; Jan Ingenhousz; Nicolas-Théodore de Saussure",
   "when": "The first half of the 1600s (the willow, published in 1648); 1771 (Priestley's mint); 1779 (Ingenhousz); 1804 (de Saussure)",
   "wrong_idea": "Plants are made of the soil they grow in. Van Helmont's weighed pot showed that the soil hardly changed. His own idea, that the tree was made only of water, was shown wrong when de Saussure found that plants also build with carbon dioxide from the air."

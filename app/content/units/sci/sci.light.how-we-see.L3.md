@@ -96,7 +96,7 @@ Your pupil is like the door of a dark room. In the evening it opens wide, to let
 Walk from a bright room onto a dark balcony or terrace at night. At first you see almost nothing. Wait. After a few minutes, shapes appear. After about twenty minutes, you can see much more, and many more stars. This is called getting used to the dark. Your pupils open wide in a few seconds, but the bigger change is slower. The rods in your retina slowly build up a light-catching chemical. Rods are very good in dim light, but they do not see colours. So at night the world looks grey. Bright light uses up the chemical again in a moment. That is why one flash of a phone torch spoils your night eyes.
 - e.g. Astronomers looking at stars use dim red torches, so they do not spoil their night eyes.
 - e.g. Owls have huge eyes packed with rods, so they can hunt by starlight.
-- e.g. A cat sees in much less light than we do. But in a room with no light at all, a cat cannot see either. It uses its whiskers, ears and nose.
+- e.g. A cat sees in much less light than we do. But in a room with no light at all, a cat cannot see either. They use their whiskers, ears and nose.
 ### The brain helps make what we see · *idea*
 Your eyes catch light, but they do not send a ready-made picture to your brain. They send millions of tiny signals. Your brain puts these together, fills in gaps and decides what you are looking at. Here is some evidence. Each eye has a blind spot, a place with no light-catching cells at all. You never notice a hole in your sight, because your brain fills it in. More evidence comes from India. Some children are born with cloudy lenses and grow up nearly blind. After an operation, their eyes work. But at first, many cannot match a shape they have felt with their hands to the same shape they see. Their brains have to learn to see, and many of them learn within days. Exactly how a brain turns signals into the picture you see is one of the biggest unanswered questions in science.
 - e.g. Find your blind spot with a cross and a dot on a card. The dot vanishes, but you do not see a hole. You see plain card.
@@ -112,12 +112,12 @@ Light comes in tiny packets called photons. A torch sends out billions of billio
 ### Many kinds of eyes, and seeing without eyes · *defined*
 **Definition:** Living things have many different kinds of eyes, and some sense light with no eyes at all. All of them work by catching light that comes in.
 
-Our eyes are not the only design. Most spiders have eight eyes. A scallop, a kind of shellfish, can have up to two hundred tiny eyes along the edge of its shell. Each scallop eye uses a curved mirror at the back, made of tiny crystals, instead of a lens. A box jellyfish has twenty-four eyes. Scientists think eyes have appeared many separate times in the history of life. But every kind of eye works the same basic way. Light comes in, and a molecule catches it. Even living things with no eyes sense light. A money plant on a windowsill bends towards the window. Tiny one-celled living things in a pond swim towards light, using a little light-sensing spot.
+Our eyes are not the only design. Most spiders have eight eyes. A scallop, a kind of shellfish, can have up to two hundred tiny eyes along the edge of their shell. Each scallop eye uses a curved mirror at the back, made of tiny crystals, instead of a lens. A box jellyfish has twenty-four eyes. Scientists think eyes have appeared many separate times in the history of life. But every kind of eye works the same basic way. Light comes in, and a molecule catches it. Even living things with no eyes sense light. A money plant on a windowsill bends towards the window. Tiny one-celled living things in a pond swim towards light, using a little light-sensing spot.
 - e.g. A dragonfly's eyes are made of thousands of tiny eyes packed together.
-- e.g. A sunflower bud turns to follow the Sun across the sky. It has no eyes, but it senses light.
+- e.g. A sunflower bud turns to follow the Sun across the sky. They have no eyes, but they sense light.
 - e.g. Earthworms have no eyes, but their skin can sense light. They wriggle away from it.
 ### Do we see the world as it really is? · *debated*
-When you look at a tree, it feels as if you are seeing the tree itself, right there. But we know that light bounced off the tree, came into your eyes, became signals, and your brain built the picture. So what are you really seeing? People give different answers.
+When you look at a tree, it feels as if you are seeing the tree directly, right there. But we know that light bounced off the tree, came into your eyes, became signals, and your brain built the picture. So what are you really seeing? People give different answers.
 - e.g. A bee sees patterns on flowers that our eyes cannot catch. Which flower is the real one, the bee's or ours?
 - e.g. Two people can look at the same picture and see different things, like a duck or a rabbit.
 - **Many people, most of the time:** We see the world as it is. The tree is green and leafy, and that is what we see.
@@ -144,7 +144,7 @@ When you look at a tree, it feels as if you are seeing the tree itself, right th
   Against: That only works when there is a little light, like starlight or a crack under the door. In a room with no light at all, there is nothing for the eye to catch. No amount of waiting helps.
 - **Cats can see in complete darkness.** (A very common belief, because cats' eyes glow at night and cats move easily in dim light.; *rejected*)  
   For: Cats really can see in about one-sixth of the light we need. Their pupils open very wide, and a shiny layer behind the retina gives light a second chance to be caught.  
-  Against: The glow is light bouncing back, not light made by the eye. With no light at all, a cat sees nothing. It finds its way with its whiskers, ears and nose.
+  Against: The glow is light bouncing back, not light made by the eye. With no light at all, a cat sees nothing. They find their way with their whiskers, ears and nose.
 - **Eating lots of carrots lets you see in the dark.** (A story spread in Britain during the Second World War, about pilots who ate carrots.; *rejected*)  
   For: Carrots have something the body turns into vitamin A. The rod cells need vitamin A, and people who badly lack it get night blindness. Eating carrots and green leafy vegetables really does fix that.  
   Against: If your body already has enough vitamin A, extra carrots will not give you better night vision than normal. The wartime story also helped keep secret that the pilots were really using radar.
@@ -224,7 +224,7 @@ Zaynab had no answer. She waited for her eyes to work. They did not.
 
 And something happened that Zaynab never forgot.
 
-On the white wall opposite the hole, a picture appeared. It was faint and soft, as if painted in smoke. But it was the street outside. There was the fruit seller's yellow awning. There was a donkey, and a man leading it. They were upside down, and they were moving. The donkey walked slowly across the wall on its head.
+On the white wall opposite the hole, a picture appeared. It was faint and soft, as if painted in smoke. But it was the street outside. There was the fruit seller's yellow awning. There was a donkey, and a man leading them. They were upside down, and they were moving. The donkey walked slowly across the wall on their head.
 
 Zaynab cried out. "Is it magic?"
 
@@ -280,7 +280,7 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   *Child mode:* Put the chain mat on the floor. Mix the cards, but keep the BLOCKER cards apart. Take 5 cards each. You will build light's journey: source, thing, eye.
 - **s2 (3 min)**  
   *Parent does:* Play one practice chain together. Lay down 'A torch', then 'A cat', then 'Thatha's eye'. Point along the arrows as you say it.  
-  *Parent says:* Here is a practice chain. The torch makes light. The light lands on the cat and bounces off it. Some of it goes into Thatha's eye. So Thatha sees the cat.  
+  *Parent says:* Here is a practice chain. The torch makes light. The light lands on the cat and bounces off them. Some of it goes into Thatha's eye. So Thatha sees the cat.  
   *Child mode:* Practice chain: a torch, a cat, Thatha's eye. Light goes from the torch to the cat. It bounces into Thatha's eye. Which way do the arrows point?
   - Check: In the chain 'torch, cat, Thatha's eye', which way does the light go between the cat and Thatha? → **From the cat into Thatha's eye**
 - **s3 (10 min)**  
@@ -288,7 +288,7 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   *Parent says:* When you lay a chain, say where the light starts, what it bounces off, and whose eye it ends in.  
   *Child mode:* Take a card. Can you make a chain? Say it out loud. Where does the light start? What does it bounce off? Whose eye does it go into?
   - Ask: Why is the Moon an OBJECT card and not a SOURCE card? (good: The Moon makes no light of its own.; Sunlight bounces off the Moon.)
-  - Note: Watch for chains in the wrong order, like OBJECT first. Ask: 'Does a mango make its own light?' Watch the Moon card too. The Moon is an OBJECT, not a SOURCE, because it only bounces sunlight. The firefly is a SOURCE. It makes its own light. The camera works like an eye: light comes in and is caught.
+  - Note: Watch for chains in the wrong order, like OBJECT first. Ask: 'Does a mango make its own light?' Watch the Moon card too. The Moon is an OBJECT, not a SOURCE, because it only bounces sunlight. The firefly is a SOURCE. They make their own light. The camera works like an eye: light comes in and is caught.
 - **s4 (3 min)**  
   *Parent does:* When a chain is laid, let the next player put a BLOCKER card on one of its arrows. They say which part of the journey is broken.  
   *Parent says:* Blocker time. Put your blocker on an arrow. Tell us which part of the light's journey it breaks.  
@@ -301,7 +301,7 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   - Note: Every arrow points towards an eye. That is the big idea of the unit. Seeing is light arriving.
   - Think: Can you think of anything you can see that is not at the end of a chain like this?
 ### g2 · Photon Relay (15 min)
-- **rules:** One player is the SUN, one is the MANGO, one is the EYE and one is the BRAIN. Others can be CLOUDS.; The SUN holds a basket of balls or rolled-up yellow socks. Each one stands for a tiny packet of light, a photon.; The SUN throws light balls gently towards the MANGO. The MANGO catches them and throws them on in any direction. This is bouncing.; The EYE stands with a basket held in front of them. It cannot move its feet. It only catches the balls that come its way.; Each ball that lands in the EYE's basket is passed back to the BRAIN, who stands behind the EYE with closed eyes. The MANGO whispers one clue word with each ball, like 'yellow' or 'round'. The BRAIN guesses what the thing is.; CLOUDS can step between the SUN and the MANGO to block light. Then nothing reaches the EYE.
+- **rules:** One player is the SUN, one is the MANGO, one is the EYE and one is the BRAIN. Others can be CLOUDS.; The SUN holds a basket of balls or rolled-up yellow socks. Each one stands for a tiny packet of light, a photon.; The SUN throws light balls gently towards the MANGO. The MANGO catches them and throws them on in any direction. This is bouncing.; The EYE stands with a basket held in front of them. They cannot move their feet. They only catch the balls that come their way.; Each ball that lands in the EYE's basket is passed back to the BRAIN, who stands behind the EYE with closed eyes. The MANGO whispers one clue word with each ball, like 'yellow' or 'round'. The BRAIN guesses what the thing is.; CLOUDS can step between the SUN and the MANGO to block light. Then nothing reaches the EYE.
 - **Printable cards: Role cards to wear on a string:** SUN (the light source); MANGO (a lit object); EYE; BRAIN; CLOUD (a blocker)
 - **Printable score sheet: Relay record:** Round; How many light balls reached the EYE; Did the BRAIN guess the thing?
 - **s1 (3 min)**  
@@ -309,7 +309,7 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   *Parent says:* We are going to act out how you see a mango. Each sock ball is a tiny packet of light. Scientists call one tiny packet of light a photon.  
   *Child mode:* Pick a role: SUN, MANGO, EYE or BRAIN. The socks are packets of light. Get in your places.
 - **s2 (4 min)**  
-  *Parent does:* 1. The SUN throws sock balls gently to the MANGO, one at a time. 2. The MANGO throws each one on in any direction, without aiming. 3. The EYE catches what it can and passes it to the BRAIN.  
+  *Parent does:* 1. The SUN throws sock balls gently to the MANGO, one at a time. 2. The MANGO throws each one on in any direction, without aiming. 3. The EYE catches what they can and passes it to the BRAIN.  
   *Parent says:* SUN, send your light. MANGO, bounce it anywhere, don't aim. EYE, you can only catch what comes to you. You cannot reach out.  
   *Child mode:* SUN, throw the light gently. MANGO, bounce it any way at all. EYE, stand still and catch. Pass what you catch to the BRAIN.
   - Note: Throw softly, with socks, not hard balls. The point is that the EYE catches only a few of the bounced balls. Most go off in other directions, which is why everyone in a room can see the same mango.
@@ -328,7 +328,7 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   *Parent does:* Sit down together and ask your child to say what they think, what they saw, and why.  
   *Parent says:* Let's sit down and talk about the game. What do you think now about how we see? What happened in the game that shows it? And why does it work that way?  
   *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: we see when light comes into our eyes. What I saw: the EYE only knew about the mango when balls landed in its basket. Why: the mango makes no light, so it has to bounce light from the Sun to the eye.
+  - Note: A good answer sounds like this. What I think: we see when light comes into our eyes. What I saw: the EYE only knew about the mango when balls landed in their basket. Why: the mango makes no light, so it has to bounce light from the Sun to the eye.
 
 ## Experiments
 ### e1 · The Dark Box: can we see without light? (20 min)
@@ -673,8 +673,8 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
 6. (mcq) Which part of the eye turns light into signals for the brain?  
    Options: The iris / The retina / The eyelid  
    **Answer:** The retina. *Why:* The retina at the back of the eye has millions of light-catching cells, the rods and the cones. They turn light into signals. The iris only changes the size of the pupil, and the eyelid protects the eye.
-7. (match) Match each living thing to how it senses light.  
-   **Answer:** A scallop → up to 200 small eyes with tiny mirrors; A money plant → no eyes, but it bends towards the window; An owl → huge eyes full of rod cells; A spider → eight eyes. *Why:* Living things sense light in many ways, but all of them catch light that comes in.
+7. (match) Match each living thing to how they sense light.  
+   **Answer:** A scallop → up to 200 small eyes with tiny mirrors; A money plant → no eyes, but they bend towards the window; An owl → huge eyes full of rod cells; A spider → eight eyes. *Why:* Living things sense light in many ways, but all of them catch light that comes in.
 8. (fill) The cells in the retina that work best in dim light are called ____.  
    **Answer:** ['rods', 'rod cells']. *Why:* Rods work in dim light but do not see colours. Cones need brighter light and see colours.
 9. (mcq) Why do astronomers use red torches when looking at stars?  
@@ -759,7 +759,7 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
    **Answer:** Nothing. *Why:* With no light, there is nothing for the eye to catch. Grey shapes appear only when there is a little light. Waiting helps in dim light, not in total darkness.
 4. (mcq) Which drawing shows how you see a tree in sunshine?  
    Options: Sun → tree → eye / Eye → tree / Tree → Sun  
-   **Answer:** Sun → tree → eye. *Why:* Sunlight lands on the tree, bounces off it, and goes into the eye. An arrow from the eye to the tree is the old eye-rays idea.
+   **Answer:** Sun → tree → eye. *Why:* Sunlight lands on the tree, bounces off, and goes into the eye. An arrow from the eye to the tree is the old eye-rays idea.
 5. (mcq) Which part of the eye is a hole that lets light in?  
    Options: The retina / The pupil / The optic nerve  
    **Answer:** The pupil. *Why:* The pupil is the hole in the middle of the iris. The retina catches light at the back, and the optic nerve carries signals to the brain.

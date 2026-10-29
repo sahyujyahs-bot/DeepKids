@@ -107,7 +107,7 @@ The squash is too quick to see. Slow-motion films show a tennis ball going flat 
 Many living things store energy in springy parts and get it back. When you run, the tendon at the back of your ankle stretches as your foot lands. It springs back as you push off. Tests show that a tendon gives back about nine-tenths of the energy put into it, so your muscles do less work. The arch of your foot works as a spring too. Kangaroos hop a long way on long, springy tendons in their legs. A flea jumps with a pad of a rubbery material called resilin. Torkel Weis-Fogh, a Danish scientist, discovered resilin in insects in 1960. The flea's muscles squash the pad slowly and lock it in place. Then the pad is let go all at once, far faster than any muscle can move. Other elastic parts soak up a hit or keep a shape. A spider's sticky threads stretch to more than twice their length when an insect flies in, then pull back. Your skin springs back because of a stretchy material called elastin. Your biggest blood vessel, the aorta, stretches with each heartbeat and springs back. Inside your muscles, a giant protein called titin works like a tiny spring.
 - e.g. Pinch the skin on the back of your hand and let go. It springs back.
 - e.g. A spider's web sags when an insect hits it, instead of breaking, then springs back.
-- e.g. The mantis shrimp, a sea animal, punches with a spring in its arm. Sheila Patek and her team filmed it in 2004.
+- e.g. The mantis shrimp, a sea animal, punches with a spring in their arm. Sheila Patek and her team filmed the punch in 2004.
 ### Bend, don't break: why springy things survive · *defined*
 **Definition:** A thing that can bend and spring back can take a sudden heavy push without breaking. A stiff, brittle thing may snap instead.
 
@@ -548,9 +548,9 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   - Check: Your skin springs back after a pinch. That means skin is… → **Elastic**
 - **s4 (3 min)**  
   *Parent does:* Tell your child about the flea.  
-  *Parent says:* A flea jumps much faster than its muscles can move. How do you think it does it? Think of a catapult.  
-  *Child mode:* A flea jumps faster than its muscles can move. How? Think of a catapult.
-  - Note: After their guess: a flea's muscles slowly squash a pad of a rubbery stuff called resilin, and lock it. Then it lets go all at once, like a catapult.
+  *Parent says:* A flea jumps much faster than their muscles can move. How do you think they do it? Think of a catapult.  
+  *Child mode:* A flea jumps faster than their muscles can move. How? Think of a catapult.
+  - Note: After their guess: a flea's muscles slowly squash a pad of a rubbery stuff called resilin, and lock it. Then the flea lets go all at once, like a catapult.
   - Think: If you were an animal designer, where would you put springs?
 ### a4 · Rubber Band Galaxies (15 min)
 - **safety:** A grown-up cuts the band. Stretch it gently.
@@ -773,7 +773,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 11. (mcq) One rubber band stretches 4 cm with 20 coins. Two of the same bands hang side by side, holding the same 20 coins. About how far do they stretch?  
    Options: About 2 cm / About 4 cm / About 8 cm  
    **Answer:** About 2 cm. *Why:* Side by side, each band carries only half the coins, so each stretches about half as far: 2 cm. Picking 8 cm usually means two bands were pictured adding their stretch. That happens only when they are joined in a row.
-12. (match) Match each living thing to its spring.  
+12. (match) Match each living thing to their spring.  
    **Answer:** Flea → a pad of resilin; Kangaroo → long springy tendons; Spider → stretchy silk web; You → Achilles tendon and stretchy skin. *Why:* Living things use elastic parts to jump, catch food and stay in one piece.
 13. (mcq) Why does your skin spring back after a pinch?  
    Options: It has a stretchy stuff called elastin / It is made of rubber / Blood pushes it back / It is cold  
@@ -822,7 +822,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 14. (write) In the bungee doll challenge, 2 bands let the doll fall 30 cm, 3 bands 40 cm and 4 bands 50 cm. Describe the pattern. Then predict 8 bands.  
    **Answer:** Each extra band adds 10 cm. 4 bands is 50 cm, so 8 bands is 4 more bands, which is 40 cm more. 50 + 40 = 90 cm.. *Why:* The pattern goes up by the same amount each time, like the spring rule. Real rubber bands may curve a little near their limit.
 15. (write) Is it better to be stiff or to bend? Give one example where stiff is better and one where bending is better.  
-   **Answer:** A balanced answer. For example: a ruler for drawing lines should be stiff. A bridge in a storm, or a tree, is better if it can bend and spring back.. *Why:* There is no single right answer. What counts is a good example for each side.
+   **Answer:** A balanced answer. For example: a ruler for drawing lines should be stiff. A bridge in a storm is better if it can bend and spring back, and so is a tree.. *Why:* There is no single right answer. What counts is a good example for each side.
 16. (draw) Draw a model of atoms in a spring, as balls joined by tiny springs. Draw it again when the spring is stretched.  
    **Answer:** Two drawings. In the first, balls are evenly spaced with short springs between them. In the second, the balls are a little further apart and the springs are longer.. *Why:* Stretching a spring stretches the bonds between its atoms a tiny bit each.
 17. (write) Robert Hooke used a wire 20 to 40 feet long, about 6 to 12 metres, to measure stretch. Why does a long wire help?  
@@ -944,13 +944,13 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - What do you call a spring that tells stories? *A coil-teller.*
 - Why don't rubber bands ever win arguments? *They always come back to where they started.*
 - Why did the bouncy ball love the floor? *Every time they met, it got a lift.*
-- What did the spider say about its web? *It's a stretch, but it works.*
+- What did the spider say about their web? *It's a stretch, but it works.*
 - Why was the old rubber band so floppy? *It went past its limit and never got over it.*
 - How does a kangaroo stay so cheerful? *It keeps a spring in its step.*
 - Why did the papad refuse to do yoga? *It was afraid it would snap.*
 - What do you call a sleepy spring? *A coil napper.*
 - Why did the catapult go to the doctor? *It had a bad case of tension.*
-- What did the flea say after its big jump? *I'm on a spring roll!*
+- What did the flea say after their big jump? *I'm on a spring roll!*
 - Why did the slinky never get lost? *It always found its way down the stairs.*
 - What did the mango branch say after Onam? *I'm feeling a bit swung out.*
 - Why was the elastic band such a good friend? *It always held everyone together.*

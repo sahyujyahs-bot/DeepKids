@@ -143,11 +143,11 @@ Everything has mass. But where does mass come from? Scientists have found part o
 - **Most physicists:** The Higgs field gives only a small part of your mass. Most of it comes from the energy of quarks moving inside protons and neutrons, and of the strong force that holds them together.
 - **An open question:** Why does each tiny particle have exactly the mass it has? Why is the electron so light? Nobody knows. It is an open question.
 ### Living things are built for weight · *debated*
-Every living thing on Earth grew up with gravity pulling on it. Our bones grow strong because they carry our weight every day. In the space station, nothing presses on astronauts' bones, so they get weaker. The hip bones can lose about 1 to 1.5 parts in every 100 each month. So astronauts exercise for about two hours every day. Plants know which way is down too. Lay a seedling on its side, and its root bends to grow downwards again. How does a plant feel which way is down? Most scientists have one main idea, but the full answer is still being studied.
+Every living thing on Earth grew up with gravity pulling on them. Our bones grow strong because they carry our weight every day. In the space station, nothing presses on astronauts' bones, so they get weaker. The hip bones can lose about 1 to 1.5 parts in every 100 each month. So astronauts exercise for about two hours every day. Plants know which way is down too. Lay a seedling down sideways, and the root bends to grow downwards again. How does a plant feel which way is down? Most scientists have one main idea, but the full answer is still being studied.
 - e.g. Astronauts coming back from months in space often need help to walk at first.
-- e.g. A seed planted upside down still sends its root down and its shoot up.
-- **Gottlieb Haberlandt and Bohumil Němec, two scientists, in 1900, and most scientists today:** Special cells near the root tip hold tiny heavy grains of starch. The grains sink to the bottom of each cell, like sand in a jar of water. The cell feels where they settle, and so it knows which way is down.
-- **Other scientists:** Plants with no starch grains can still sense down, though more slowly. So there may be other ways too, like feeling the weight of the whole cell pressing on its walls.
+- e.g. A seed planted upside down still sends a root down and a shoot up.
+- **Gottlieb Haberlandt and Bohumil Němec, two scientists, in 1900, and most scientists today:** Special cells near the root tip hold tiny heavy grains of starch. The grains sink to the bottom of each cell, like sand in a jar of water. The cell feels where they settle, and so knows which way is down.
+- **Other scientists:** Plants with no starch grains can still sense down, though more slowly. So there may be other ways too, like feeling the weight of the whole cell pressing on the cell walls.
 ### Old ideas about heaviness · *debated*
 People have wondered about heaviness for thousands of years, in many places. Who first understood weight? It depends on what you count.
 - e.g. Ancient Indian thinkers used the word gurutva, heaviness, to explain falling.
@@ -231,7 +231,7 @@ Your weight is not one pull from somewhere under your feet. Every particle of th
 - *deep:* If you dug a tunnel right through the Earth and jumped in, what would you weigh at the very centre? (hint: At the centre, the Earth is all around you, pulling in every direction at once.)
 
 ## Story: What the Pond Holds
-*Made up. Gauri, her mother Sunaina, her uncle Bholu Mama and the pond are imagined. Makhana, the fox nut, really is grown in ponds in Mithila, in north Bihar, around Darbhanga and Madhubani. Harvesters really do dive to gather the seeds from the muddy bottom, and its leaves really can grow more than a metre across. The physics is true: water pushes up on whatever is in it, and arms and a head held out of the water get no help from it.*
+*Made up. Gauri, her mother Sunaina, her uncle Bholu Mama and the pond are imagined. Makhana, the fox nut, really is grown in ponds in Mithila, in north Bihar, around Darbhanga and Madhubani. Harvesters really do dive to gather the seeds from the muddy bottom, and the plant's leaves really can grow more than a metre across. The physics is true: water pushes up on whatever is in it, and arms and a head held out of the water get no help from it.*
 
 I am a pond in Mithila, in the north of Bihar. I am not deep, and I am not grand. I am brown in the monsoon and green in the winter. But I am old, and I hold many things.
 

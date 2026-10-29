@@ -80,7 +80,7 @@
    "term": "Symmetry",
    "meaning": "A shape has symmetry when one half is the mirror image of the other half.",
    "example": "A butterfly, a leaf and the letter A are symmetrical.",
-   "art": "A butterfly with a dotted line down its middle."
+   "art": "A butterfly with a dotted line down their middle."
   },
   {
    "term": "Line of symmetry",
@@ -250,20 +250,20 @@
    "concept": "Mirrors in living things",
    "status": "defined",
    "definition": "Some animals have mirrors built into their bodies. They are made of tiny stacked crystals or layers that reflect light.",
-   "description": "A cat's eyes shine in torchlight. A layer at the back of each eye works like a mirror. It sends light back through the eye a second time, so the cat sees better in dim light. Many silvery fish have mirror scales. A scallop, a kind of shellfish, has up to 200 tiny eyes. Each eye has a curved mirror made of tiny square crystals. Scientists described it in 2017. A deep-sea fish called the spookfish uses mirrors in its eyes too.",
+   "description": "A cat's eyes shine in torchlight. A layer at the back of each eye works like a mirror. It sends light back through the eye a second time, so the cat sees better in dim light. Many silvery fish have mirror scales. A scallop, a kind of shellfish, has up to 200 tiny eyes. Each eye has a curved mirror made of tiny square crystals. Scientists described it in 2017. A deep-sea fish called the spookfish uses mirrors in their eyes too.",
    "examples": [
     "Cows, dogs and cats have eyes that shine in headlights. Human eyes do not.",
     "Silvery fish like the sardine are hard to see in water, because their sides reflect the water around them.",
     "The colours of shiny beetles and peacock feathers come from thin layers that reflect light, not from a coloured dye."
    ],
    "perspectives": [],
-   "art": "A cat's eyes glowing in torchlight beside a scallop with a row of tiny blue eyes along its shell.",
+   "art": "A cat's eyes glowing in torchlight beside a scallop with a row of tiny blue eyes along their shell.",
    "context": "This card is about animals that carry real mirrors in their bodies. These animals do not make light. They reflect it."
   },
   {
    "concept": "Do animals know their own reflection?",
    "status": "debated",
-   "description": "When you look in a mirror, you know the face is you. Most animals do not seem to. They bark at it, or try to play with it. Scientists test this with a mark. They put a small dot on an animal where it can only see it in a mirror. If the animal touches the dot on its own body, it seems to know that the image is itself.",
+   "description": "When you look in a mirror, you know the face is you. Most animals do not seem to. They bark at it, or try to play with it. Scientists test this with a mark. They put a small dot on an animal where they can only see it in a mirror. If the animal touches the dot on their own body, they seem to know that the image is themself.",
    "examples": [
     "Babies start to pass the mark test at about 18 months old.",
     "Chimpanzees passed it in 1970, in tests by the American scientist Gordon Gallup.",
@@ -272,19 +272,19 @@
    "perspectives": [
     {
      "who": "Gordon Gallup and many scientists",
-     "explanation": "Touching the dot shows the animal has an idea of itself. Only a few kinds of animals pass, such as great apes, elephants, dolphins and magpies."
+     "explanation": "Touching the dot shows the animal has an idea of themself. Only a few kinds of animals pass, such as great apes, elephants, dolphins and magpies."
     },
     {
      "who": "Masanori Kohda and his team in Japan, in 2019",
-     "explanation": "A tiny fish called the cleaner wrasse also scraped at a mark it could only see in a mirror. So either small fish know themselves, or the test does not measure what we think."
+     "explanation": "A tiny fish called the cleaner wrasse also scraped at a mark they could only see in a mirror. So either small fish know themselves, or the test does not measure what we think."
     },
     {
      "who": "Other scientists",
-     "explanation": "The test favours animals that use their eyes most. A dog knows the world by smell, so a mirror may just not interest it. Failing the test does not prove an animal has no sense of self."
+     "explanation": "The test favours animals that use their eyes most. A dog knows the world by smell, so a mirror may just not interest them. Failing the test does not prove an animal has no sense of self."
     }
    ],
-   "art": "A chimpanzee touching a coloured dot on its own forehead while looking in a mirror.",
-   "context": "This card is about the mirror test, which asks whether an animal knows the face in the mirror is its own. Scientists disagree about what it shows."
+   "art": "A chimpanzee touching a coloured dot on their own forehead while looking in a mirror.",
+   "context": "This card is about the mirror test, which asks whether an animal knows the face in the mirror is their own. Scientists disagree about what it shows."
   },
   {
    "concept": "Is nature the same in a mirror?",
@@ -372,7 +372,7 @@
   {
    "claim": "Our brains have special mirror cells that copy what others do.",
    "who": "Giacomo Rizzolatti and his team in Parma, Italy, who studied monkeys in the 1990s",
-   "for": "Some brain cells in monkeys fired both when a monkey grabbed food and when it watched someone else grab food.",
+   "for": "Some brain cells in monkeys fired both when a monkey grabbed food and when they watched someone else grab food.",
    "against": "In 2014 the scientist Gregory Hickok wrote a book called The Myth of Mirror Neurons. He and others say these cells do not explain how we understand each other.",
    "status": "debated",
    "context": "This card is about a new and argued-about idea: that our brains mirror other people."
@@ -1158,7 +1158,7 @@
     },
     {
      "t": "mcq",
-     "p": "A tiny fish, the cleaner wrasse, scraped at a mark it could only see in a mirror. Why did this surprise scientists?",
+     "p": "A tiny fish, the cleaner wrasse, scraped at a mark they could only see in a mirror. Why did this surprise scientists?",
      "opts": [
       "They thought only big-brained animals could pass the mirror test",
       "Fish cannot see",
@@ -3410,8 +3410,8 @@
   },
   "three": {
    "who_am_i": "You have never seen your own face directly. You know it from mirrors, photos and what other people tell you.",
-   "what_is_life": "Living things use reflection too. A cat has a mirror layer at the back of its eyes that helps it see in dim light.",
-   "what_is_this_world": "Almost everything you see is reflected light. A book or a tree makes no light of its own, yet you see it."
+   "what_is_life": "Living things use reflection too. A cat has a mirror layer at the back of their eyes that helps them see in dim light.",
+   "what_is_this_world": "Almost everything you see is reflected light. A book makes no light of its own, and neither does a tree, yet you see both."
   },
   "thread": "One lamp in the Sheesh Mahal shows up as hundreds of sparkles. Two mirrors turn one toy into many images. Nothing new is made: it is light from one source, sent different ways. The whole world is like this: one source, showing up in many forms. A mirror is a small, real example you can hold in your hand.",
   "teachings": [

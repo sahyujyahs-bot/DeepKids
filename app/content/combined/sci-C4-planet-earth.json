@@ -1,0 +1,1219 @@
+{
+ "key": "combined|sci|4|planet-earth",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "planet-earth",
+ "title": "Inside the Earth: the layers under our feet, and how we know",
+ "source": "DeepKids Combined. Covers Cambridge Primary Science Stage 4, Unit 4.1 'The structure of the Earth' (crust, mantle, outer and inner core, and using models), and the ecosystem idea of the Earth's four spheres. Adds how earthquake waves reveal the layers, convection in the mantle, the Earth's magnetic field, land and water on the surface, and the ocean floor. No textbook needed.",
+ "summary": "The deepest hole people have ever drilled goes down about 12 km. The centre of the Earth is about 6,400 km down. So how do we know what is there? Your child spins a raw and a boiled egg to tell them apart without opening them, then learns how earthquake waves let scientists 'listen' to the inside of the planet. They draw the crust, mantle, outer core and inner core to scale, and find that the crust is thinner than a pencil line. They watch convection in a glass of water, float a needle compass to meet the field made by liquid iron, and share out a litre of water the way the Earth shares its water. On the way they meet Richard Oldham, Inge Lehmann and Marie Tharp, who found what no one could see.",
+ "builds_on": "Rocks and soil (Class 2): the Earth's crust is made of rock, and soil sits on top of it. Magnets (Class 3): the needle compass and the Earth as a magnet. In Class 4, When the Earth moves teaches plates, volcanoes and earthquakes, and this rung goes underneath them, to the layers and the heat inside. Next: Planet Earth (Class 5) follows a river from its source to the sea and looks at India's land, and Rocks and soil (Class 5) shows how rocks form and recycle.",
+ "subconcepts": [
+  "the Earth is a ball about 12,700 km across, with its centre about 6,400 km below us",
+  "the crust: a thin skin of rock, thinner under the oceans and thicker under mountains",
+  "the mantle: very hot rock that is solid but flows very slowly",
+  "the outer core: liquid iron and nickel",
+  "the inner core: solid iron and nickel, kept solid by enormous pressure",
+  "it gets hotter the deeper you go: deep mines and the deepest hole",
+  "how we know what is inside: earthquake waves bend, slow down or stop in different layers",
+  "models and scale: what a model shows, and what it gets wrong",
+  "convection: hot rock rises and cool rock sinks, slowly moving the plates",
+  "the Earth's magnetic field comes from moving liquid iron in the outer core",
+  "the surface: about 71 parts in 100 are water, with mountains, plateaus, plains and the ocean floor",
+  "water on Earth: almost all salty, very little fresh water we can reach",
+  "the four spheres: rock, water, air and life, working together as one system",
+  "life lives in a thin layer, from the deep sea to the lower air and a few km into the rock"
+ ],
+ "goals": [
+  "By the end your child can name the crust, mantle, outer core and inner core, and say for each how thick and how hot it is, what it is made of, and whether it is solid or liquid.",
+  "By the end your child can explain how scientists know what is inside the Earth, using earthquake waves and the fact that S waves cannot pass through liquid.",
+  "By the end your child can explain convection and how the slowly flowing mantle helps move the plates.",
+  "By the end your child can say where the Earth's magnetic field comes from and what it does.",
+  "By the end your child can describe how much of the surface is water, how little water is fresh, and what the ocean floor is like.",
+  "By the end your child can describe the four spheres of the Earth and give examples of how they change each other."
+ ],
+ "words": [
+  [
+   "crust",
+   "the thin, solid, rocky outer layer of the Earth that we live on"
+  ],
+  [
+   "mantle",
+   "the thick layer under the crust, made of very hot rock that is solid but flows very slowly"
+  ],
+  [
+   "core",
+   "the centre of the Earth, made mostly of iron and nickel: a liquid outer core around a solid inner core"
+  ],
+  [
+   "pressure",
+   "how hard something presses on each part of a surface. Deep inside the Earth, the weight of all the layers above makes the pressure enormous."
+  ],
+  [
+   "seismic waves",
+   "vibrations that travel through the Earth from an earthquake"
+  ],
+  [
+   "seismometer",
+   "a machine that records seismic waves"
+  ],
+  [
+   "convection",
+   "a loop in which hot material rises and cooler material sinks, in water, air or the Earth's mantle"
+  ],
+  [
+   "plate",
+   "one of the giant pieces that the crust and top of the mantle are broken into, which move a few cm each year"
+  ],
+  [
+   "magnetic field",
+   "the space around a magnet where its force acts. The Earth's field comes from the outer core."
+  ],
+  [
+   "model",
+   "something we make to show how a real thing works or looks, when we cannot see the real thing directly"
+  ],
+  [
+   "mid-ocean ridge",
+   "a long range of mountains on the ocean floor where new sea floor forms"
+  ],
+  [
+   "sphere",
+   "here, one of the four parts of the Earth: rock (geosphere), water (hydrosphere), air (atmosphere) and life (biosphere)"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "What is under our feet?",
+   "goal": "Recall rocks and soil, find out how little of the Earth people have ever reached, and discover that you can learn what is inside something without opening it.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Rock under the soil",
+     "mins": 6,
+     "do": "Remind your child of the rocks and soil lessons from Class 2. Ask: 'If you dug a hole in a field, what would you find under the soil?' (Rock. All soil sits on rock.) 'What is soil made of?' (Tiny bits of broken rock, rotted leaves called humus, water, air and living things.) Then ask: 'And under the rock? What is there if you keep digging?' Write down their answer and keep it for Day 8."
+    },
+    {
+     "kind": "talk",
+     "title": "How deep have people gone?",
+     "mins": 10,
+     "do": "Say: 'The centre of the Earth is about 6,400 km below us. That is about twice as far as from Kanyakumari to Kashmir.' Then tell them: the deepest mines are about 4 km deep, in South Africa. The Kolar Gold Fields in Karnataka went down more than 3 km, and the deeper the miners went, the hotter the rock became. The deepest hole ever drilled is the Kola Superdeep Borehole in Russia. Drillers started in 1970 and reached about 12 km in 1989. They stopped partly because the rock at the bottom was about 180 °C, hotter than they expected. Ask: 'What part of the way to the centre is 12 km?' (Less than one five-hundredth of the way.) Ask: 'So how could anyone know what is in the middle?' Listen to their ideas."
+    },
+    {
+     "kind": "exp",
+     "title": "The spinning egg test",
+     "mins": 15,
+     "do": "Do Experiment e1. Give your child a raw egg and a hard-boiled egg that look the same, without saying which is which. Ask: 'Can you find the boiled one without breaking either egg?' Let them try. Then show them the spin test: spin each egg on a plate, then touch it lightly to stop it and let go at once. The boiled egg spins fast and stops dead. The raw egg spins slowly and wobbles, and after you stop it, it starts turning again by itself. Ask: 'Why would the raw egg do that?' Wait for their idea. Good answer: the liquid inside keeps swirling after the shell stops, and it drags the shell round again. Say: 'You just found out that one egg is liquid inside, without opening it. Scientists find out about the inside of the Earth in a similar way: from how it behaves.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Coconut That Said Nothing",
+     "mins": 14,
+     "do": "Read the story aloud. It takes about 8 minutes. Meenakshi, a girl of nine, minds her aunt's coconut stall in Pollachi market and learns to tell what is inside a coconut by tipping the coconut beside her ear. Afterwards ask two of the story questions: 'How did Meenakshi tell a full coconut from an old one without cutting them?' (A full one is heavy and sloshes. An old one is light and rattles.) 'Why was the last coconut so strange?' (It was heavy, but silent. A soft, spongy ball had filled the inside.) Don't explain the link to the Earth yet. It will come on Day 3."
+    }
+   ],
+   "need": [
+    "1 raw egg and 1 hard-boiled egg (or the bottle version in Experiment e1)",
+    "a flat plate"
+   ],
+   "prep": [
+    {
+     "task": "Hard-boil one egg and let it cool. For the egg-free version, freeze one small bottle of water.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "The layers: crust, mantle and core",
+   "goal": "Learn the four main layers of the Earth, with their thickness, material and temperature, and draw them to scale.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Four layers, from the outside in",
+     "mins": 12,
+     "do": "Draw a big circle and divide it like an onion as you talk. Say: 'The outside layer is the crust. It is solid rock. Under the oceans it is only about 5 to 10 km thick. Under land it is about 30 to 50 km thick, and up to about 70 km under the Himalaya.' 'Below the crust is the mantle, about 2,900 km thick. That is nearly the length of India from north to south. The mantle is very hot rock, about 1,000 °C near the top and around 4,000 °C near the bottom. It is solid, but it can flow very, very slowly, over millions of years.' 'Then comes the core, made mostly of iron and nickel. The outer core is liquid metal, about 2,200 km thick. The inner core is a solid ball of iron and nickel, about 2,400 km across. That is about two-thirds the size of the Moon. It is about 5,000 to 6,000 °C, as hot as the surface of the Sun.' Ask: 'The inner core is the hottest part. Why would it be solid and not liquid?' Let them guess. Then say: 'The weight of all the rock and metal above squeezes it so hard that the iron cannot melt. This squeezing is called pressure.' The boundary between crust and mantle is called the Moho, after Andrija Mohorovičić, a Croatian scientist who found it in 1909."
+    },
+    {
+     "kind": "act",
+     "title": "Draw the Earth to scale",
+     "mins": 25,
+     "do": "Do Activity a1. Your child draws half of the Earth on an opened newspaper, using a string and pencil as a compass, at a scale of 1 cm for every 200 km. Help them measure each layer from the table in the activity. When they draw the crust, they will find it is thinner than the pencil line itself. Ask: 'Where on your drawing is every mountain, every ocean and every person who ever lived?' (All inside that pencil line.)",
+     "ref": "a1"
+    },
+    {
+     "kind": "think",
+     "title": "What does our drawing get wrong?",
+     "mins": 8,
+     "do": "Ask: 'Our drawing is a model. A model shows something we cannot see directly. What does it show well?' (The order of the layers and how thick each one is.) 'What does it get wrong?' Good answers: it is flat, but the Earth is a ball. It is paper, not hot rock and metal. The real layers do not have sharp lines. The mantle changes slowly from top to bottom. It is still, but the mantle and outer core are moving. Say: 'Every model leaves something out. A good scientist always asks what.'"
+    }
+   ],
+   "need": [
+    "2 sheets of newspaper taped together, or 1 chart paper",
+    "string, a pencil, a ruler, coloured pencils or crayons"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "How do we know? Listening to earthquakes",
+   "goal": "Find out how earthquake waves passing through the Earth show its layers, and meet the scientists who worked it out.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Back to the coconut",
+     "mins": 5,
+     "do": "Ask: 'In the story, how did Meenakshi know what was inside the coconuts?' (She listened to the sloshing and felt the weight.) 'What surprised her about the last one?' (It was heavy but silent, because a new, soft layer had grown inside.) Say: 'Today we find out how scientists listen to the inside of the whole Earth.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Ear on the table",
+     "mins": 8,
+     "do": "Do Experiment e2. Your child puts one ear flat on the dining table and covers the other ear with a hand. You scratch or tap the far end of the table very gently with a fingernail or spoon. Then they lift their head and you do it again, just as gently. Ask: 'When was it louder?' (With the ear on the table.) Say: 'Sound is a vibration, a fast shaking that passes from one thing to the next. It travels well through a solid like wood. Earthquakes send out vibrations too. They are called seismic waves, and they pass right through the Earth.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Two kinds of waves",
+     "mins": 10,
+     "do": "Say: 'An earthquake sends out two main kinds of waves through the inside of the Earth. P waves push and pull, like a crowd pushing forward in a queue. They can travel through solids and liquids. S waves shake from side to side, like a rope flicked up and down. S waves can travel through solids but not through liquids.' Ask: 'If S waves never come out on the far side of the Earth, what does that tell you?' (Something in the middle is liquid.) Say: 'That is how we know the outer core is liquid. The waves also change speed and bend when they enter a new layer, a bit like a torch beam bends when it goes into water. Machines called seismometers all over the world record when each wave arrives. From those times, scientists work out where each layer begins.' Tell them that India's National Center for Seismology runs seismometers across the country."
+    },
+    {
+     "kind": "think",
+     "title": "The scientists who listened",
+     "mins": 12,
+     "do": "Read Voice v1 about Richard Dixon Oldham, who studied the great Assam earthquake of 1897 and found the first signs of a core. Then read Voice v2 about Inge Lehmann, who found the solid inner core in 1936 from a few faint waves that should not have been there. Ask v2's question. Then ask: 'How was Lehmann like Meenakshi with the strange coconut?' (Both noticed a result that did not fit, and worked out there was a hidden layer inside.)",
+     "ref": "v2"
+    },
+    {
+     "kind": "act",
+     "title": "Be an earthquake wave",
+     "mins": 10,
+     "do": "Make a big circle on the floor with a dupatta or rope for the Earth, and a smaller circle of chappals in the middle for the liquid outer core. Your child is an earthquake wave starting at one edge. First they are a P wave: they walk across, but they must turn a little and slow down when they step into the core, then speed up and turn again when they step out. Then they are an S wave: they wiggle side to side as they walk, and they must stop at the edge of the core, because S waves cannot pass through liquid. You stand on the far side as a seismometer and say 'P wave arrived!' or 'No S wave here!' Ask: 'Standing here, how do I know the middle is liquid without going there?' (Because the S wave never arrived.)",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "a dining table or any long wooden table",
+    "a dupatta or a long rope, and some chappals"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The heat inside and the slowly flowing mantle",
+   "goal": "See how heat makes things rise and sink, and understand how the solid mantle flows and carries the plates.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Where is it hottest?",
+     "mins": 5,
+     "do": "Ask: 'Which layer is hottest?' (The inner core.) 'If the mantle is solid, how can it move?' Let them guess. Say: 'Think of a glacier. Glacier ice is solid, but it flows slowly downhill, a little every day. Very hot rock, pushed for millions of years, can creep and flow in a similar way, only far more slowly.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Hot rises, cold sinks",
+     "mins": 15,
+     "do": "Do Experiment e3. Fill a clear glass tumbler with warm tap water and let it go still. Drop in an ice cube made from coloured water. Watch from the side for 5 minutes. Ask first: 'What will the coloured water do as the ice melts?' Then watch. The coloured cold water falls in streams to the bottom and spreads out. Say: 'Cold water is heavier for its size, so it sinks. Warm water is lighter for its size, so it rises. This moving in a loop is called convection. Rock in the mantle does the same. Hot rock near the core rises very slowly, cools near the top and sinks again. One loop takes many millions of years.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Plates riding on the mantle",
+     "mins": 8,
+     "do": "Say: 'The crust and the very top of the mantle are broken into giant pieces called plates. The slowly moving mantle under them helps carry them along. You will remember plates from the volcanoes and earthquakes lessons.' Then tell them: the plate India sits on moves north by about 5 cm a year, about as fast as your fingernails grow. It has been pushing into Asia for tens of millions of years, and that push raised the Himalaya. Ask: 'If India moves 5 cm a year, how far will it move in your whole life, if you live 80 years?' (80 × 5 = 400 cm, which is 4 metres.) Say: 'Where does the heat come from? Some is left over from when the Earth formed, about 4.5 billion years ago. Some comes from radioactive atoms in the rock, which give out heat as they slowly change.'"
+    },
+    {
+     "kind": "act",
+     "title": "Convection dance",
+     "mins": 7,
+     "do": "Play slow music. Your child starts curled up on the floor: they are hot rock beside the core. As they warm, they rise very slowly to standing, arms up. At the top they spread their arms wide and drift sideways: this is the rock cooling under a plate. Then they sink slowly back down to the floor and creep back to where they started. Do the loop three times, slower each time. Ask: 'Which part of the loop pushes the plates along?' (The part where the rock drifts sideways under the crust.)"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "do": "Your child does worksheet ws1, the core worksheet on the layers and how we know about them. Sit beside them for the written questions. Check the answers together, and send them back to their scale drawing from Day 2 for any layer they mixed up.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a clear glass tumbler, warm tap water",
+    "an ice cube made from coloured water (food colour or beetroot juice)",
+    "music"
+   ],
+   "prep": [
+    {
+     "task": "Freeze some water mixed with a few drops of food colour or beetroot juice in an ice tray.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The Earth's iron heart and its magnetic field",
+   "goal": "Find out that the moving liquid iron in the outer core makes the Earth a magnet, and hear a live debate about the inner core.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "A needle that finds north",
+     "mins": 15,
+     "do": "Do Experiment e4. If your child made a needle compass in the magnets lessons, they will remember how. Stroke a sewing needle 50 times with a magnet, always in the same direction. Push the needle through a small piece of paper or lay it on a bottle cap, and float it in a bowl of water. Wait for it to stop turning. Ask: 'Which way does it point?' (North and south.) Turn the bowl gently. The needle swings back. Ask: 'What is turning it? Nothing is touching it.' Wait for their idea.",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "Why the Earth is a magnet",
+     "mins": 10,
+     "do": "Say: 'The needle lines up with the Earth's magnetic field. A magnetic field is the space around a magnet where its force acts. The Earth's field is made deep in the outer core. There, liquid iron flows and swirls, and moving iron that carries electric current makes a magnetic field.' Then say: 'This field reaches far out into space. It turns away most of the fast particles that stream out from the Sun. Near the North and South Poles, some of them get through and make the sky glow green and red. That glow is called an aurora.' And: 'Sea turtles and many birds can sense the magnetic field. They use it to find their way on long journeys.' Last: 'The field has flipped many times. The north end and the south end swap places. The last flip was about 780,000 years ago.'"
+    },
+    {
+     "kind": "think",
+     "title": "Is the inner core spinning differently?",
+     "mins": 10,
+     "do": "Read Voice v4 about the debate on the inner core's spin. Ask v4's question. Then ask: 'How can scientists study something spinning 5,000 km under their feet?' (By comparing earthquake waves that passed through the inner core in different years.) Say: 'Nobody has the answer yet. Scientists are still arguing, using new earthquake records each year.'",
+     "ref": "v4"
+    },
+    {
+     "kind": "game",
+     "title": "Journey to the Centre (board game)",
+     "mins": 10,
+     "do": "Play the board game g1. Each player starts on the surface and rolls a die to travel down through the crust, mantle and outer core to the centre. Squares tell you facts and moves. The first player to reach the centre wins. Before moving off a fact square, the player says the fact aloud in their own words.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "a sewing needle, a magnet (a strong toy magnet works better than a fridge magnet)",
+    "a bowl of water and a small piece of paper or a bottle cap",
+    "the printed board game, a die and a counter for each player"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The skin of the planet: land and water",
+   "goal": "Find how much of the Earth's surface is water, how little of that water is fresh, and what the hidden ocean floor looks like.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Land or water?",
+     "mins": 3,
+     "do": "Ask: 'If an astronaut looked down at the Earth, what would they see most of, land or water?' Ask for a guess as a number: 'Out of every 10 parts of the surface, how many are water?'"
+    },
+    {
+     "kind": "act",
+     "title": "Count land and water on a map",
+     "mins": 12,
+     "do": "Do Activity a2. Your child draws a grid of squares over a world map and counts the squares that are mostly water and mostly land. Work out the answer together. About 7 out of every 10 parts of the Earth's surface are water. Ask: 'Why might your count be a little different?' (A flat map stretches the land near the poles. Greenland looks as big as Africa on many maps, but Africa is about 14 times bigger.)",
+     "ref": "a2"
+    },
+    {
+     "kind": "act",
+     "title": "All the water on Earth in one bottle",
+     "mins": 12,
+     "do": "Do Activity a3. Pour 1 litre of water and share it out the way the Earth's water is shared out. Almost all of it, 975 ml, stays in the bottle as the salty sea. From the 25 ml of fresh water, about 17 ml goes into the freezer as the ice at the poles and in glaciers, and about 8 ml goes into a potted plant's soil as water under the ground. Only a few drops are left for all the lakes, rivers, clouds and living things. Ask: 'Which part do people drink?' (Mostly the drops, and some of the underground water from wells and borewells.) Ask: 'Who else shares those few drops?' (Every land animal and plant.)",
+     "ref": "a3"
+    },
+    {
+     "kind": "think",
+     "title": "Marie Tharp maps the ocean floor",
+     "mins": 8,
+     "do": "Say: 'Most of the Earth's solid surface is under the sea, and for a long time nobody knew what it looked like.' Read Voice v3 about Marie Tharp. Then tell them: the deepest place in the ocean, the Challenger Deep in the Pacific, is nearly 11 km down. If you put Mount Everest, 8,849 m tall, into it, the top would still be about 2 km under water. Ask v3's question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "do": "Your child does worksheet ws2, the stretch worksheet. It uses the layers, the waves and the water bottle in new cases. Read the questions aloud if they want. Check together and talk through any wrong answer.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "a world map (an atlas page, a printout, or the picture in the app), a pencil and ruler",
+    "a 1-litre bottle of water, a measuring cup or teaspoon (1 teaspoon is about 5 ml), an ice tray, a potted plant"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Four spheres and a thin home",
+   "goal": "See the Earth as four parts working together (rock, water, air and life) and find how thin the layer is where life lives.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "A jar with four spheres",
+     "mins": 12,
+     "do": "Do Activity a4. Put a layer of soil, some water and a few soaked moong seeds in a clear jar, close the lid and set the jar by a window. Say: 'Scientists split the Earth into four parts that touch and change each other. The geosphere is the rock and soil. The hydrosphere is all the water. The atmosphere is the air. The biosphere is all living things. Your jar has all four.' Ask: 'Name one way each sphere changes another.' (Water breaks rock into soil. Plant roots hold soil. Plants put water vapour and oxygen into the air. Rain from the air fills rivers.) Say: 'A place where living things and their water, air and soil work together is called an ecosystem. Your jar is a tiny one.'",
+     "ref": "a4"
+    },
+    {
+     "kind": "talk",
+     "title": "How thin is our home?",
+     "mins": 10,
+     "do": "Bring out the scale drawing from Day 2. Say: 'At this scale, half of all the air on Earth lies within about 0.3 mm of the surface. Mount Everest would stick up less than half a millimetre. The deepest ocean is about half a millimetre deep.' Ask: 'Where do living things live?' (In that thin layer.) Then tell them two surprises. Living things are found far down in the rock: in 2011, scientists found tiny worms living 1.3 km down in a gold mine in South Africa, and tiny single-celled living things live several km deep. And at the top of Everest, each breath holds only about one third as much air as a breath at the beach in Chennai. Ask: 'If you could shrink the Earth to the size of a football, how thick would the layer of life be?' (Thinner than a coat of paint.)"
+    },
+    {
+     "kind": "think",
+     "title": "Who gets what is under the ground?",
+     "mins": 8,
+     "do": "Read the perspective of a miner from the Kolar Gold Fields (in the Perspectives part of this lesson). Ask: 'Who do you think should own the gold, the oil or the water under the ground? The person whose land is on top? Everyone? Nobody? Why?' Listen and ask for reasons. There is no single right answer."
+    },
+    {
+     "kind": "act",
+     "title": "Project: start the Inside-Out book",
+     "mins": 15,
+     "do": "Start the project. Your child folds four A4 sheets in half to make a 16-page book called 'Journey to the Centre'. Each page is one stop on the way down: soil, the deepest mine, the Kola hole, the Moho, the mantle, the outer core, the inner core and the centre. On each page they draw the stop and write three things: how deep it is, how hot it is, and how we know. They finish it on Day 8."
+    }
+   ],
+   "need": [
+    "a clear jar with a lid, a cup of soil, water, a spoon of moong soaked overnight",
+    "the scale drawing from Day 2",
+    "4 sheets of A4 paper, coloured pencils, a stapler or thread"
+   ],
+   "prep": [
+    {
+     "task": "Soak a spoon of moong in water.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Review, challenge and teach it back",
+   "goal": "Think hard about the big questions, finish the Inside-Out book, check what your child knows and have them teach it back.",
+   "steps": [
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Your child does worksheet ws3, the challenge worksheet. It asks harder 'what if' questions and compares ideas. Look at the jar from Day 7 first: drops of water on the inside of the glass show water leaving the soil as vapour and turning back into drops. Talk about the written answers together.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "End check",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time. Let your child answer in their own words before you read the answer. For any they miss, go back to the scale drawing or the game board and find the answer there."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back with the Inside-Out book",
+     "mins": 15,
+     "do": "Your child finishes the last pages of the 'Journey to the Centre' book, then uses it to teach someone in the family: a grandparent, a younger cousin or a neighbour. They must name all four layers, say one fact about each, and explain how we know the outer core is liquid. Then the listener asks one question and your child tries to answer it."
+    },
+    {
+     "kind": "talk",
+     "title": "Back to the first question",
+     "mins": 8,
+     "do": "Read out your child's answer from Day 1: what is under the rock? Ask: 'What would you say now?' Then ask one of the big questions: 'No one has ever seen the core. Do we really know it is there?' Let them argue both sides. Good answers mention many seismometers in many countries, the S waves that never arrive, and the magnetic field that needs moving metal."
+    }
+   ],
+   "need": [
+    "the jar from Day 7",
+    "the scale drawing",
+    "the Inside-Out book and coloured pencils"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "The layers of the Earth and how we know",
+   "day": 4,
+   "sections": [
+    [
+     "A. The layers",
+     [
+      {
+       "t": "match",
+       "p": "Match each layer to what it is like.",
+       "pairs": [
+        [
+         "crust",
+         "thin solid rock that we live on"
+        ],
+        [
+         "mantle",
+         "very hot rock that is solid but flows slowly"
+        ],
+        [
+         "outer core",
+         "liquid iron and nickel"
+        ],
+        [
+         "inner core",
+         "solid iron and nickel at the centre"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which layer is the thinnest?",
+       "opts": [
+        "the crust",
+        "the mantle",
+        "the outer core"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which layer is the hottest?",
+       "opts": [
+        "the crust",
+        "the mantle",
+        "the inner core"
+       ],
+       "a": 2
+      },
+      {
+       "t": "fill",
+       "p": "The centre of the Earth is about ____ km below us.",
+       "a": [
+        "6,400",
+        "6400",
+        "6,370",
+        "6370"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The core is made mostly of iron and ____.",
+       "a": [
+        "nickel"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. How we know",
+     [
+      {
+       "t": "mcq",
+       "p": "Kavya spins a raw egg and a boiled egg on a plate. She stops each one with her finger and lets go. Which egg starts turning again?",
+       "opts": [
+        "the raw egg",
+        "the boiled egg",
+        "both eggs"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which earthquake waves cannot travel through liquid?",
+       "opts": [
+        "P waves",
+        "S waves",
+        "both kinds"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "A machine that records earthquake waves is called a ____.",
+       "a": [
+        "seismometer",
+        "seismograph"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "The inner core is hotter than the outer core. Why is the inner core solid?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Nobody has ever been to the core. Write one way scientists know the outer core is liquid.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Layers, waves and water in new cases",
+   "day": 6,
+   "sections": [
+    [
+     "A. Use what you know",
+     [
+      {
+       "t": "sort",
+       "p": "Sort these into the four spheres of the Earth.",
+       "items": [
+        "a granite hill",
+        "the Kaveri river",
+        "a crow",
+        "the wind",
+        "sand on Marina Beach",
+        "a glacier",
+        "a neem tree",
+        "a cloud of water vapour"
+       ],
+       "cats": [
+        "geosphere (rock)",
+        "hydrosphere (water)",
+        "atmosphere (air)",
+        "biosphere (life)"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi drops a coloured ice cube into a glass of warm water. Where does the coloured water go?",
+       "opts": [
+        "it sinks to the bottom",
+        "it floats on top",
+        "it stays where the ice was"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In the mantle, hot rock rises and cool rock sinks in a slow loop. What is this called?",
+       "opts": [
+        "convection",
+        "evaporation",
+        "magnetism"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "About ____ out of every 10 parts of the Earth's surface are covered by water.",
+       "a": [
+        "7",
+        "seven"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "If all the water on Earth were 1 litre, about how much would be fresh water in lakes and rivers?",
+       "opts": [
+        "a few drops",
+        "half the bottle",
+        "about 100 ml"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Numbers",
+     [
+      {
+       "t": "mcq",
+       "p": "The Indian plate moves north about 5 cm each year. How far does it move in 10 years?",
+       "opts": [
+        "5 cm",
+        "50 cm",
+        "500 cm"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Farhan draws the Earth with 1 cm for every 200 km. The mantle is about 2,900 km thick. About how thick is it on his drawing?",
+       "opts": [
+        "about 1.5 cm",
+        "about 14.5 cm",
+        "about 29 cm"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Mount Everest is 8,849 m tall. The deepest ocean is nearly 11,000 m deep. If Everest stood in the deepest ocean, its top would be about ____ km under water.",
+       "a": [
+        "2",
+        "two"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "A ship drops sound waves down to the sea floor. They bounce back fast in one place and slowly in another. What does that tell you about the sea floor in each place?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A compass needle points north. What deep inside the Earth makes this happen?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Hard questions about a planet we cannot open",
+   "day": 8,
+   "sections": [
+    [
+     "A. What if?",
+     [
+      {
+       "t": "mcq",
+       "p": "Imagine the outer core froze solid. Which earthquake waves would then be able to pass straight through the whole Earth?",
+       "opts": [
+        "P waves only",
+        "S waves only",
+        "both P and S waves"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "p": "Imagine the liquid iron in the outer core stopped moving. What would most likely happen to the Earth's magnetic field?",
+       "opts": [
+        "it would fade away",
+        "it would get stronger",
+        "nothing would change"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Divya hears a full coconut slosh and an old one rattle. Inge Lehmann found the inner core from faint waves where none should arrive. What did both of them do?",
+       "opts": [
+        "opened the thing to look",
+        "noticed how it behaved and worked out what was inside",
+        "guessed without any clues"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each scientist to what they found.",
+       "pairs": [
+        [
+         "Richard Dixon Oldham",
+         "the first signs of the Earth's core, from earthquake records"
+        ],
+        [
+         "Inge Lehmann",
+         "the solid inner core inside the liquid outer core"
+        ],
+        [
+         "Andrija Mohorovičić",
+         "the boundary between crust and mantle"
+        ],
+        [
+         "Marie Tharp",
+         "a long rift valley along the middle of the Atlantic Ocean floor"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Weigh it up",
+     [
+      {
+       "t": "mcq",
+       "p": "On many flat maps, Greenland looks about as big as Africa. What is true?",
+       "opts": [
+        "they are the same size",
+        "Greenland is bigger",
+        "Africa is about 14 times bigger"
+       ],
+       "a": 2
+      },
+      {
+       "t": "sort",
+       "p": "Sort these: which do scientists agree on, and which are they still arguing about?",
+       "items": [
+        "the outer core is liquid",
+        "the inner core spins at a slightly different speed from the rest of the Earth",
+        "there is a solid inner core",
+        "how much of the Earth's heat comes from radioactive atoms",
+        "the crust is thinnest under the oceans",
+        "where the Earth's water first came from"
+       ],
+       "cats": [
+        "agreed",
+        "still argued about"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The deepest hole people have ever drilled is about ____ km deep.",
+       "a": [
+        "12",
+        "twelve"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Marie Tharp was not allowed on the research ships, yet she found the rift valley in the ocean floor. How could she find it without going to sea?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Living things live only in a very thin layer of the Earth. If you could ask a worm living 1 km down in the rock what 'the world' is, what might they say? How is that like us?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "No one has seen the core. Write two pieces of evidence that it is there. Then write one question you would still want to ask.",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The spinning egg test",
+   "day": 1,
+   "question": "Can we tell what is inside something without opening it?",
+   "need": [
+    "1 raw egg and 1 hard-boiled egg (cooled)",
+    "a flat plate",
+    "Egg-free version: 2 small plastic bottles of the same size, one about three-quarters full of water and frozen solid, the other filled to the same level with liquid water, and a tray propped on a book"
+   ],
+   "steps": [
+    "Put both eggs on the plate. Ask your child to say which one is boiled, just by looking. They can't.",
+    "Spin the first egg on the plate, fast, like a top. Watch how fast it spins and whether it wobbles.",
+    "Spin it again. This time touch the top of the egg lightly with one finger to stop it, and lift your finger away at once. Watch.",
+    "Do the same with the second egg.",
+    "Say which egg is raw. Then crack only the raw one into a bowl to check (use it for cooking later).",
+    "Egg-free version: lay both bottles on their sides at the top of the sloping tray and let go at the same time. Watch which reaches the bottom first. Do it three times."
+   ],
+   "predict": "Ask your child to guess first: 'Which egg will spin longer, and why?'",
+   "observe": "The boiled egg spins fast and smoothly and stops dead when touched. The raw egg spins slowly, wobbles, and starts turning again by itself after you stop it. In the egg-free version, the bottle of liquid water usually rolls down faster than the frozen one.",
+   "why": "The inside of a boiled egg is solid, so the whole egg moves as one. The inside of a raw egg is liquid. When you stop the shell, the liquid inside keeps swirling, and it drags the shell round again. In the bottle version, the ice turns with the bottle, but most of the water inside stays still while the bottle rolls round it, so the water bottle needs less push to roll. In both tests, how the object moves tells you whether its inside is solid or liquid. Scientists use the way earthquake waves move through the Earth in a similar way.",
+   "safety": "Do this over a plate or tray in case the raw egg rolls off. Wash hands after handling raw egg.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "Ear on the table",
+   "day": 3,
+   "question": "Does a vibration travel better through a solid or through the air?",
+   "need": [
+    "a dining table or any long wooden table",
+    "a spoon"
+   ],
+   "steps": [
+    "Your child puts one ear flat on one end of the table and covers the other ear with their hand.",
+    "At the far end, scratch the table very gently with a fingernail, or tap it once very lightly with the spoon.",
+    "Your child sits up. Scratch or tap again in exactly the same way.",
+    "Ask which was louder. Swap places so the child can tap and you can listen."
+   ],
+   "predict": "Ask: 'Will you hear the scratch better with your ear on the table, or in the air?'",
+   "observe": "The scratch is much louder with the ear pressed to the table.",
+   "why": "Sound is a vibration that passes from one particle to the next. In a solid like wood, the particles are packed close and held together, so the vibration passes along well and fast. In air, the particles are far apart and the sound spreads out and fades. Earthquake vibrations, called seismic waves, also travel through rock. They change speed and direction when they reach a new layer. That is how scientists learn about layers they can never see.",
+   "safety": "Tap gently. A loud bang right next to an ear can hurt it.",
+   "time": "8 min"
+  },
+  {
+   "id": "e3",
+   "title": "Hot rises, cold sinks",
+   "day": 4,
+   "question": "How do warm and cold water move when they meet?",
+   "need": [
+    "a clear glass tumbler",
+    "warm tap water (not hot)",
+    "an ice cube made from water with a few drops of food colour or beetroot juice"
+   ],
+   "steps": [
+    "The night before, freeze water mixed with food colour or beetroot juice in an ice tray.",
+    "Fill the glass with warm tap water and leave it for 1 minute so the water goes still.",
+    "Gently drop one coloured ice cube in.",
+    "Watch from the side, at eye level, for 5 minutes. Do not stir or bump the glass.",
+    "Your child draws what the coloured water does, with arrows."
+   ],
+   "predict": "Ask: 'As the ice melts, where will the coloured water go: up, down, or stay at the top?'",
+   "observe": "Coloured streams fall from the ice cube to the bottom of the glass and spread out across the bottom. Later the colour slowly mixes upwards.",
+   "why": "Cold water is denser than warm water: the same cupful weighs a little more. So the cold coloured water sinks, and warm water is pushed up to take its place. This loop of rising warm and sinking cold is called convection. Deep in the Earth, rock near the hot core is heated and very slowly rises, cools near the top and sinks again. In the mantle one loop takes many millions of years, because the rock is solid and flows extremely slowly.",
+   "safety": "Use warm tap water only, not water from a kettle.",
+   "time": "15 min + freezing the night before"
+  },
+  {
+   "id": "e4",
+   "title": "A needle that finds north",
+   "day": 5,
+   "question": "Why does a magnetised needle always point the same way?",
+   "need": [
+    "a steel sewing needle",
+    "a magnet (a strong toy magnet or a magnet from an old speaker works better than a flat fridge magnet)",
+    "a small piece of paper or a plastic bottle cap",
+    "a bowl of water"
+   ],
+   "steps": [
+    "Stroke the needle with one end of the magnet 50 times. Always stroke the same way, from the eye to the point, lifting the magnet away at the end of each stroke.",
+    "Push the needle through the small piece of paper, or lay it on the bottle cap.",
+    "Float it in the middle of the bowl of water. Keep the magnet and any steel things far away.",
+    "Wait until it stops turning. Note which way it points. Find north using the morning Sun (in the morning, the Sun is in the east, so north is to your left when you face it).",
+    "Turn the bowl gently and watch the needle."
+   ],
+   "predict": "Ask: 'When I turn the bowl, will the needle turn with it or swing back?'",
+   "observe": "The needle settles pointing north and south. When the bowl turns, the needle swings back to the same direction.",
+   "why": "Stroking lines up the tiny magnets inside the steel, so the needle becomes a magnet. The Earth is a giant magnet too, and the needle lines up with the Earth's magnetic field. That field is made in the outer core, where liquid iron flows and carries electric currents. If the needle does not turn, stroke it 50 more times with a stronger magnet.",
+   "safety": "Needles are sharp. A grown-up holds the needle while the child strokes it, and puts it away afterwards.",
+   "time": "15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Draw the Earth to scale",
+   "day": 2,
+   "mins": 25,
+   "need": [
+    "2 sheets of newspaper taped together side by side, or 1 large chart paper",
+    "a piece of string about 40 cm long, a pencil, a ruler",
+    "coloured pencils or crayons"
+   ],
+   "steps": [
+    "Draw a straight line along the bottom of the paper. Mark a dot in the middle of the line. This dot is the centre of the Earth.",
+    "Our scale is 1 cm for every 200 km. Tie the string to the pencil. Hold the string on the dot and draw half circles at these distances from the dot: 6 cm (the edge of the inner core), 17.5 cm (the edge of the outer core) and 32 cm (the surface).",
+    "Colour the inner core yellow, the outer core orange and the mantle red.",
+    "Now try to draw the crust. Under the oceans it is about 5 to 10 km thick, which is 0.05 cm at this scale, half a millimetre or less. Under the Himalaya it is about 70 km, which is 3.5 mm. Draw the crust as one sharp pencil line, a little thicker in one place for the Himalaya.",
+    "Label each layer with its name, how thick it is, how hot it is, and whether it is solid or liquid.",
+    "Mark the Kola hole: 12 km is 0.06 cm, so it does not even get through the pencil line."
+   ],
+   "outcome": "A half-Earth drawn to scale, showing that the crust where everything lives is thinner than a pencil line."
+  },
+  {
+   "id": "a2",
+   "title": "Count land and water on a map",
+   "day": 6,
+   "mins": 12,
+   "need": [
+    "a world map (an atlas page, a printout, or the picture in the app)",
+    "a pencil and a ruler",
+    "a sheet of tracing paper or thin paper, if you don't want to draw on the map"
+   ],
+   "steps": [
+    "Draw a grid of 2 cm squares over the map, or on thin paper laid on top.",
+    "Go through the squares row by row. Mark each square W if it is mostly water and L if it is mostly land.",
+    "Count all the W squares and all the L squares.",
+    "Work out how many out of every 10 squares are water. For example, 140 water squares out of 200 is 7 out of 10."
+   ],
+   "outcome": "Your child finds that about 7 out of every 10 parts of the Earth's surface are water, and learns that flat maps stretch the land near the poles."
+  },
+  {
+   "id": "a3",
+   "title": "All the water on Earth in one bottle",
+   "day": 6,
+   "mins": 12,
+   "need": [
+    "a 1-litre bottle full of water",
+    "a measuring cup, or a teaspoon (about 5 ml)",
+    "a small cup, an ice tray",
+    "a potted plant",
+    "a spoon of salt"
+   ],
+   "steps": [
+    "Say: 'This litre is all the water on Earth.'",
+    "Pour out 25 ml, or 5 teaspoons, into the small cup. This is all the fresh water.",
+    "Stir the salt into the bottle. The 975 ml left is the salty sea. Nobody can drink it without taking the salt out.",
+    "From the cup, pour about 17 ml (3 and a half teaspoons) into the ice tray and put it in the freezer. This is the ice at the poles and in glaciers.",
+    "Pour about 8 ml (1 and a half teaspoons) into the soil of the potted plant. This is the water under the ground, which wells and borewells reach.",
+    "Look at what is left in the cup: a few drops. This is all the water in lakes, rivers, clouds, soil and living things."
+   ],
+   "outcome": "Your child sees that almost all the Earth's water is salty or frozen, and that the fresh water in rivers and lakes is only a few drops in a litre."
+  },
+  {
+   "id": "a4",
+   "title": "A jar with four spheres",
+   "day": 7,
+   "mins": 12,
+   "need": [
+    "a clear glass or plastic jar with a lid",
+    "about a cup of soil from a pot",
+    "a spoon of moong soaked overnight",
+    "water"
+   ],
+   "steps": [
+    "Put the soil in the bottom of the jar. Press it down gently.",
+    "Pour in water slowly until the soil is wet but not flooded.",
+    "Push the soaked moong just under the surface of the soil.",
+    "Close the lid. Leave the jar near a window, but not in strong sun.",
+    "Your child labels the jar with four stickers: geosphere (soil), hydrosphere (water), atmosphere (air above the soil) and biosphere (the seeds).",
+    "Look the next day and on Day 8. Draw what has changed."
+   ],
+   "outcome": "A tiny closed world. Within a day, drops form on the inside of the glass and the moong begin to sprout, showing rock, water, air and life changing each other."
+  }
+ ],
+ "project": {
+  "title": "Journey to the Centre: an Inside-Out book",
+  "days": [
+   7,
+   8
+  ],
+  "steps": [
+   "Fold four A4 sheets in half and staple or sew them along the fold to make a 16-page book.",
+   "On the cover, draw half the Earth with its layers and write the title 'Journey to the Centre'.",
+   "Give one page to each stop on the way down: soil, the deepest mine, the Kola hole, the Moho, the upper mantle, the lower mantle, the outer core, the inner core and the centre.",
+   "On each page draw the stop, and write how deep it is, how hot it is, whether it is solid or liquid, and how we know.",
+   "On the last page, write one question about the inside of the Earth that nobody can answer yet.",
+   "Use the book to teach someone in the family on Day 8."
+  ],
+  "outcome": "A home-made book that takes a reader from the front door to the centre of the Earth, with the evidence for each layer."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Journey to the Centre",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a counter for each player (a coin, a button or a bead)"
+  ],
+  "rules": [
+   "Everyone starts on START. Take turns to roll the die and move that many squares down towards the centre.",
+   "When you land on a square, read it aloud and do what it says.",
+   "On a fact square, say the fact in your own words before the next player rolls. If you can't, stay on that square and try again next turn.",
+   "You must land exactly on CENTRE to win. If your roll is too big, move to CENTRE and back again for the extra steps.",
+   "The first player to reach the CENTRE wins. Then play again, starting with the player who came last."
+  ],
+  "squares": [
+   "START: the surface, at your front door",
+   "Soil: rock bits, humus, water, air and life. Move ahead 1.",
+   "Bedrock: solid rock under all soil.",
+   "Deepest mine, about 4 km down. The rock is hot. Go back 1 to cool off.",
+   "Kola hole, 12 km: the deepest hole people ever drilled. Roll again!",
+   "CRUST: as thin as an apple skin, compared with the Earth. Say how thick it is under the ocean.",
+   "The Moho: the bottom of the crust, found in 1909. Move ahead 1.",
+   "Upper mantle: about 1,000 °C. Solid rock that flows slowly.",
+   "A rising hot plume of rock carries you up. Go back 2.",
+   "Convection: hot rises, cool sinks. Say what convection means.",
+   "MANTLE: about 2,900 km thick, nearly as long as India.",
+   "Earthquake! An S wave rushes past you. Move ahead 2.",
+   "Lower mantle: about 4,000 °C near the bottom.",
+   "Core boundary: S waves stop here. Miss a turn while you listen.",
+   "OUTER CORE: liquid iron and nickel. Swim ahead 1.",
+   "Swirling iron makes the magnetic field. Say what it protects us from.",
+   "A sea turtle far above feels the field and finds her way. Move ahead 1.",
+   "Inner core boundary: Inge Lehmann found it in 1936. Say how.",
+   "INNER CORE: solid iron, as hot as the Sun's surface. Say why it is solid.",
+   "Is the inner core spinning faster or slower? Scientists still argue. Give your guess.",
+   "CENTRE: 6,400 km down. You made it!"
+  ]
+ },
+ "big": [
+  "No one has ever seen the core. How sure can we be about something we can only know from its effects?",
+  "The rock under your feet is moving very slowly right now. Is anything truly still?",
+  "All of life lives in a layer thinner than a pencil line on our drawing. What does that tell you about how to treat it?",
+  "If a worm living deep in the rock, a fish in the deepest ocean and a bird in the sky each described 'the world', would they describe the same place?",
+  "Who should own what is under the ground: the gold, the oil, the water?"
+ ],
+ "challenge": [
+  {
+   "q": "Many people picture the inside of the Earth as a sea of red-hot melted rock, with a thin crust floating on top. Is that right?",
+   "hint": "Not quite. The mantle is extremely hot, but almost all of it is solid rock, because the pressure is so great. It flows only very slowly, like a glacier of rock. Melted rock, called magma, forms only in some places, such as under volcanoes and along rifts. The only big liquid layer is the outer core, which is liquid metal, not rock. Ask: why do you think the 'sea of fire' picture is so popular?"
+  },
+  {
+   "q": "Could you dig straight through the Earth from India and come out in America?",
+   "hint": "No. The point on the exact opposite side of the Earth from Chennai is in the Pacific Ocean, west of Peru in South America. And no one could dig that far: the deepest hole is about 12 km, and the rock at the bottom was already about 180 °C. Jules Verne wrote a famous novel, Journey to the Centre of the Earth (1864), about explorers walking down through caves. It is a great story, but the real inside has no caves, only hot rock and metal under huge pressure. Ask: what would a real explorer need to survive even 100 km down?"
+  },
+  {
+   "q": "The Earth is a perfect ball, and Mount Everest is the point farthest from its centre. True?",
+   "hint": "Both are not quite true. The Earth spins, and this makes it bulge at the equator. The distance through the Earth at the equator is about 43 km more than from pole to pole. Mount Everest is the highest point above sea level. But the top of Mount Chimborazo in Ecuador, near the equator, is farther from the Earth's centre, because it sits on the bulge. The American mathematician Gladys West helped build the detailed computer models of the Earth's real, lumpy shape that GPS uses. Ask: 'highest' depends on where you measure from. Which way of measuring would you choose, and why?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A miner at the Kolar Gold Fields, Karnataka",
+   "view": "For over a hundred years, thousands of miners worked in the hot, deep tunnels of Kolar, more than 3 km down. For much of that time a British company owned the mines, and most of the gold went far away. The mines closed in 2001. Ask: who did the hardest work, and who got the gold? Who should decide what happens to what is under the ground?"
+  },
+  {
+   "who": "Sudipta Sengupta and Aditi Pant, the first Indian women to work in Antarctica (1983)",
+   "view": "Sudipta Sengupta, a geologist, studied the ancient rocks of Antarctica. Aditi Pant, an ocean scientist, studied the chemistry of the cold sea there. Rocks in Antarctica match rocks in India, because the two lands were once joined. Ask: why would two places now so far apart have the same rocks?"
+  },
+  {
+   "who": "A tiny worm living 1.3 km down in a gold mine",
+   "view": "In 2011, scientists found a worm, less than a millimetre long, living in water deep inside the rock of a South African gold mine. They named this kind of worm Halicephalobus mephisto. These worms live without sunlight and eats bacteria that live on chemicals in the rock. Ask: for these worms, the 'surface world' is far away. Is their home less a part of the Earth's life than ours?"
+  },
+  {
+   "who": "A seismologist at India's National Center for Seismology",
+   "view": "Seismologists in India keep watch over a network of seismometers across the country. When an earthquake happens anywhere, even far away, its waves reach these machines within minutes. Ask: every earthquake is a danger and also a chance to learn about the inside of the Earth. How can both be true?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Richard Dixon Oldham (1858–1936), geologist with the Geological Survey of India",
+   "idea": "Oldham studied the great Assam earthquake of 12 June 1897, one of the strongest earthquakes ever recorded in India. He looked closely at the records made by early seismometers. He showed that an earthquake sends out separate kinds of waves that arrive at different times. In 1906 he used earthquake records from around the world to argue that the Earth has a core, different from the rock around it, because waves that passed through the middle arrived later than expected.",
+   "then": "Before this, many people pictured the inside of the Earth as solid rock all the way down, or as a sea of melted rock under a thin crust. Oldham's ideas were taken up by other seismologists, who improved his measurements.",
+   "now": "Accepted. Beno Gutenberg showed in 1914 that the core begins about 2,900 km down. Oldham's work on separate wave types is the start of how all scientists now study the Earth's inside.",
+   "status": "accepted",
+   "ask": "Oldham studied an earthquake that hurt many people in Assam. How can something harmful also teach us something new?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Inge Lehmann (1888–1993), seismologist, Denmark",
+   "idea": "Scientists knew there was a liquid core. They also knew that the core bends P waves so that there is a 'shadow zone' on the far side of the Earth, where P waves should not arrive. Lehmann studied records from a big earthquake in New Zealand in 1929. She saw faint P waves arriving inside the shadow zone. In 1936 she explained them: inside the liquid outer core is a solid inner core, and its edge bounces some waves into the shadow zone. Her paper had a famously short title: just P′, the name of a wave.",
+   "then": "She was head of the seismology department at Denmark's Geodetic Institute, but she worked mostly alone, and she had to struggle to be taken seriously as a woman scientist. She once wrote that you should know how many incompetent men she had to compete with, in vain. Within a few years, leading seismologists such as Beno Gutenberg and Charles Richter agreed with her.",
+   "now": "Accepted. Later, more sensitive instruments confirmed the solid inner core. Lehmann kept working into her nineties, and lived to 104.",
+   "status": "accepted",
+   "ask": "Lehmann found the inner core from a few faint waves that did not fit. Why is it important to notice the result that does not fit, instead of ignoring it?",
+   "day": 3
+  },
+  {
+   "id": "v3",
+   "who": "Marie Tharp (1920–2006), geologist and map-maker, USA",
+   "idea": "In the 1950s, Tharp worked with Bruce Heezen at Columbia University. Ships bounced sound off the sea floor and recorded how long the echo took to come back. Women were not allowed on the research ships, so Tharp stayed ashore and turned thousands of these depth readings into drawings of the ocean floor, by hand. In 1952 she found a deep valley running along the middle of a huge mountain range under the Atlantic Ocean. She said it was a rift, a place where the sea floor is being pulled apart.",
+   "then": "At first Heezen dismissed it as 'girl talk', because a rift fitted the idea that continents move, and most American geologists then rejected that idea. More data convinced him, and they published maps together. For years her name was often left out when the work was praised.",
+   "now": "Accepted. The mid-ocean ridge runs about 65,000 km around the Earth, the longest mountain range on the planet. Rifts along it are where new sea floor forms. Her maps helped convince geologists that the plates move.",
+   "status": "accepted",
+   "ask": "Tharp never saw the ocean floor, only numbers. What else in this lesson was found by people who never saw it?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "Xiaodong Song and colleagues, seismologists, Peking University (China), earlier at Columbia University (USA)",
+   "idea": "In 1996, Song and Paul Richards compared earthquake waves that passed through the inner core over about 30 years. The waves had slowly changed. They argued that the inner core spins a little faster than the rest of the Earth. In 2023, Song and Yi Yang at Peking University went further. They argued that the inner core's extra spin had recently paused, and that it may swing back and forth over about 70 years.",
+   "then": "The 1996 idea was exciting, but other scientists measured the speed differently and got different answers, from fast to almost nothing.",
+   "now": "Debated. Most seismologists agree that the waves through the inner core change over time. They disagree about why. Some think the inner core's spin speeds up and slows down. Others think its surface is changing shape. Still others suggest a cycle of only about 6 years. New records from every big earthquake add evidence.",
+   "status": "debated",
+   "ask": "Two teams look at the same earthquake records and reach different answers. What extra evidence would help you decide who is right?",
+   "day": 5
+  }
+ ],
+ "story": {
+  "title": "The Coconut That Said Nothing",
+  "text": [
+   "On market days, the coconut market in Pollachi smells of wet husk, diesel and filter coffee. Lorries come in from the farms before sunrise. By seven o'clock the ground is covered with green and brown coconuts, piled as high as my shoulder.",
+   "My aunt, Chitra athai, has sold coconuts there for twenty years. She can pick one up, shake it once beside her ear, and tell you what is inside. 'This one is full,' she says. 'This one is old and dry. This one has a crack, so the water has leaked out.' She has never once cut a coconut to check. She is always right.",
+   "I am nine, and I have been trying to hear what she hears for two years. When I shake a coconut, I hear a coconut. My cousin Arjun is seven, and he thinks this is very funny.",
+   "One market day, Chitra athai had to take the early bus to Coimbatore. Her daughter had an exam, and somebody had to go with her. 'You and Arjun will mind the stall until noon,' she told me. 'Don't sell anything you are not sure of.' Then she was gone, and the stall was mine.",
+   "At nine o'clock, Fathima akka came. She cooks for weddings, and she buys a lot. 'I need twenty good coconuts for a feast tomorrow,' she said. 'Last week another stall sold me five dry ones. My guests got thin chutney. Choose carefully, kanna.'",
+   "I picked up a coconut and shook the coconut beside my ear. Nothing. I shook harder. Arjun giggled. Fathima akka looked at her watch.",
+   "So I did what athai does, but slowly. I closed my eyes. I held the coconut in both hands, close to my ear, and I tipped it from side to side instead of shaking it hard.",
+   "This time I heard something. Inside, water slid from one end to the other and hit the shell with a soft slap. I opened my eyes. The coconut was heavy too. I had not noticed that before. Water and weight, both together. I put the coconut on the left.",
+   "The next one was light, and when I tipped it there was no slap at all, only a dry rattle, like a seed loose in a box. Old. That one went on the right. The next one was light and quiet, and when I turned it over my thumb found a wet line along the shell. A crack. The water had escaped. I put it on the right too.",
+   "I began to hear the difference in every one. A full coconut sloshes. An old one rattles. A cracked one is quiet and light. I was not guessing any more. I was listening to the inside through the outside.",
+   "'Show me,' said Arjun. So I gave him two coconuts, a full one and an old one, and told him to close his eyes and tip them slowly. His face went still. 'That one has a sea in it,' he said. Then he went off to test every coconut in reach.",
+   "I had eighteen for Fathima akka when I picked up a coconut that did not fit. The coconut was heavy, as heavy as the best ones. But when I tipped it, I heard nothing. No slap, no rattle. Just a dull, solid weight, as if the inside were packed full.",
+   "Heavy means full. Silent means empty. This coconut was both. I turned the coconut round and round. At one of the three dark eyes at the top there was a tiny pale bump, no bigger than a grain of rice.",
+   "I did not know what that meant. Athai had said not to sell anything I was not sure of. So I put the coconut aside, finished Fathima akka's twenty, and took her money. She shook two of them herself, nodded, and said, 'Your athai has taught you well.' I did not tell her that athai had not taught me. The coconuts had.",
+   "When athai came back at noon, I handed her the strange one. She weighed the coconut in her palm and smiled. Then she took her big knife and cut the coconut open.",
+   "There was no water inside. Instead, the hollow was filled with something white and soft, like a sponge, or like the inside of a rasgulla. It was sweet when I tasted it.",
+   "'This one has started to grow,' athai said. 'When a coconut begins to sprout, the baby plant inside makes this soft ball. The ball drinks up the water and feeds the shoot. That bump at the eye is the shoot starting to push out. You heard that the water was gone, and you felt that the weight was still there. Both were true.'",
+   "'So there was a new thing inside,' I said, 'that I could not see, but I could tell was there.'",
+   "'Yes,' said athai. 'And you were right not to sell it.'",
+   "That night, back in our house near the railway line, I lay on the cool floor with my ear pressed to the tiles. Far away, a train to Palakkad was coming. I heard it through the floor, a low hum in the ground, long before I heard it through the air. I lay there for a long time, listening to the ground, wondering what was under the tiles, and under the soil, and under the rock, all the way down."
+  ],
+  "epiphany": "For the parent: Meenakshi learns to tell what is inside a coconut from the outside, by listening to how the coconut sounds and feeling the weight. The turn comes with the last coconut: heavy, but silent. The two clues seem to disagree, so she does not guess. When it is cut open, a new solid layer (the spongy ball of a sprouting coconut) has grown inside, where liquid used to be. This is just how Inge Lehmann found a solid inner core inside the liquid outer core: from a clue that did not fit. The last scene, hearing the train through the floor, shows that vibrations travel through the ground. Let the questions draw this out. On Day 3 you will link it to earthquake waves.",
+  "ask": [
+   "How did Meenakshi tell a full coconut from an old one or a cracked one, without cutting any of them?",
+   "The last coconut was heavy but silent. Why did that puzzle her?",
+   "Why did she decide not to sell it? Was that the right choice?",
+   "At night, Meenakshi heard the train through the floor before she heard it through the air. Why might that be?",
+   "What do you think she was wondering about at the very end?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "We can know what is inside something without opening it, by watching how it behaves.",
+   "more": "A raw egg spins differently from a boiled one. A full coconut sloshes. In the same way, earthquake waves bend, slow down or stop as they pass through the Earth, and their arrival times at seismometers all over the world show the layers. No one has been below 12 km, but we know the core is there."
+  },
+  {
+   "idea": "Deep down, the solid Earth is slowly moving.",
+   "more": "The mantle is solid rock, but it is so hot that it flows, a few cm a year. Convection loops carry heat up from the core and help drag the plates along. The Himalaya are still rising because of it. The ground under your home is not still: it is just very slow."
+  },
+  {
+   "idea": "The Earth's deep inside protects life on the surface.",
+   "more": "Swirling liquid iron in the outer core makes the magnetic field. The field turns away most of the fast particles from the Sun, and turtles and birds use it to find their way. Something 3,000 km under our feet shapes life at the top."
+  },
+  {
+   "idea": "All of life lives in a very thin layer, where rock, water and air meet.",
+   "more": "On a scale drawing, the air we breathe, the deepest ocean and the deepest living things all fit inside one pencil line. The four spheres, rock, water, air and life, keep changing each other. People, worms, trees and bacteria all share this one thin home."
+  }
+ ],
+ "unknowns": [
+  "Is the inner core spinning faster, slower or at the same speed as the rest of the Earth? Different teams studying the same earthquake records disagree.",
+  "How much of the Earth's inner heat is left over from when the planet formed, and how much comes from radioactive atoms? Scientists have estimates, but not a firm answer.",
+  "Where did the Earth's water come from? It may have come with icy comets or rocky asteroids that crashed into the young Earth, or from water held inside the rocks the Earth was built from. Nobody knows for sure.",
+  "Deep in the mantle, under Africa and under the Pacific Ocean, there are two huge regions where earthquake waves travel slowly. Nobody yet knows what they are made of or how they formed."
+ ],
+ "books": [
+  {
+   "title": "The Magic School Bus Inside the Earth",
+   "author": "Joanna Cole, illustrated by Bruce Degen",
+   "for": "read together",
+   "age": "6–9",
+   "why": "Ms Frizzle's class digs down through rock layers and into the Earth. Funny, clear, and full of real facts about rocks and layers."
+  },
+  {
+   "title": "Planet Earth/Inside Out",
+   "author": "Gail Gibbons",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A simple picture book on how the Earth formed, its layers and how the surface changes."
+  },
+  {
+   "title": "Solving the Puzzle Under the Sea: Marie Tharp Maps the Ocean Floor",
+   "author": "Robert Burleigh, illustrated by Raúl Colón",
+   "for": "read together",
+   "age": "6–10",
+   "why": "The true story of Marie Tharp, told for children, with beautiful pictures of the hidden ocean floor."
+  },
+  {
+   "title": "Journey to the Centre of the Earth",
+   "author": "Jules Verne",
+   "for": "parent reads",
+   "age": "9+ (read a simplified retelling, or chapters aloud)",
+   "why": "The famous adventure story from 1864. Read a chapter and ask your child what the real inside of the Earth is like instead."
+  }
+ ],
+ "check": [
+  {
+   "q": "Name the four main layers of the Earth, from the outside in.",
+   "a": "The crust, the mantle, the outer core and the inner core."
+  },
+  {
+   "q": "Which layer do we live on, and how thick is it?",
+   "a": "The crust. It is about 5 to 10 km thick under the oceans and about 30 to 70 km thick under land. Compared with the whole Earth, it is thinner than the skin of an apple."
+  },
+  {
+   "q": "The inner core is the hottest layer, so why is it solid?",
+   "a": "The weight of all the layers above presses on it so hard that the iron cannot melt. This pressure keeps it solid even at about 5,000 to 6,000 °C."
+  },
+  {
+   "q": "How do scientists know the outer core is liquid?",
+   "a": "S waves from earthquakes cannot travel through liquid. They never come out on the far side of the Earth, so the layer in the middle must be liquid."
+  },
+  {
+   "q": "The mantle is solid. How can it move?",
+   "a": "It is so hot that the rock can flow extremely slowly, over millions of years. Hot rock rises, cools and sinks again. This loop is called convection, and it helps move the plates."
+  },
+  {
+   "q": "What makes a compass needle point north?",
+   "a": "The Earth's magnetic field. It is made by liquid iron moving and swirling in the outer core."
+  },
+  {
+   "q": "If all the water on Earth were one litre, how much would be fresh water in lakes and rivers?",
+   "a": "Only a few drops. About 975 ml would be salty sea, and most of the fresh water is frozen ice or water under the ground."
+  },
+  {
+   "q": "What are the four spheres of the Earth?",
+   "a": "The geosphere (rock and soil), the hydrosphere (water), the atmosphere (air) and the biosphere (all living things). They change each other all the time."
+  }
+ ]
+}

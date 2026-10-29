@@ -199,7 +199,7 @@ A clay pot, a sweater and a flask look like solid things. But each one works bec
 - *big:* People have used clay pots to cool water for thousands of years, long before anyone knew about evaporation. Can you know how to do something without knowing why it works? (hint: Think of something you can do, like riding a cycle, without being able to explain it.)
 - *big:* The person who invents a material often gets the credit. What about the workers who make it, or the people who first noticed the idea? (hint: Think of the potters who made clay water pots long before scientists explained them.)
 - *big:* The iron in your spoon was made inside a star. Does that change how you feel about ordinary things? (hint: Pick up a spoon. Imagine where each of its atoms has been.)
-- *deep:* Living things make bone, silk and shell without fire or factories. What can engineers learn from them? (hint: A spider makes silk from what it eats, at the temperature of a garden. A steel factory needs huge fires.)
+- *deep:* Living things make bone, silk and shell without fire or factories. What can engineers learn from them? (hint: Spiders make silk from what they eat, at the temperature of a garden. A steel factory needs huge fires.)
 - *big:* If you had to choose the materials for your own house, what would matter most to you: cost, comfort, beauty, how long it lasts, or the Earth? (hint: Would your answer change if you lived in Ladakh, or by the sea in Chennai?)
 - *big:* Some 'wonder materials' turn out not to work when others test them. Why do scientists test each other's claims? (hint: In 2023, some scientists said they had made an amazing new material. What happened when others tried to make it too?)
 

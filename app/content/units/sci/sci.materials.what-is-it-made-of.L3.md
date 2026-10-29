@@ -82,7 +82,7 @@ Everyone agrees on the easy cases. A pebble is natural, and a plastic bucket is 
 A sheep grows wool, and people only cut it. A silkworm, the caterpillar of a moth, spins a cocoon of one long silk thread. Bees make wax for their honeycomb. In Jharkhand and nearby states, tiny lac insects on trees make a resin. People scrape it off to make bangles, varnish and sealing wax. Spiders spin silk that is very strong for its weight. Paper wasps chew wood and spit it out as paper for their nests. In 1719 a French scientist, René Réaumur, watched these wasps. He wrote that people could learn to make paper from wood, as wasps do. In the 1840s, more than 120 years later, people in Germany and Canada did.
 - e.g. Wool from sheep, silk from silkworms, honey and wax from bees.
 - e.g. Lac from lac insects makes the bright lac bangles of Rajasthan.
-- e.g. A weaver bird weaves its nest from strips of grass.
+- e.g. A male weaver bird weaves his nest from strips of grass.
 ### Plants are built of a material called cellulose · *defined*
 **Definition:** Cellulose is the material that the walls of plant cells are made of. Wood, cotton, jute, coir and paper are mostly cellulose.
 
@@ -187,7 +187,7 @@ A steel spoon, a plastic bucket and a mango look as if they have nothing in comm
 - Science (settled): When people cook, melt or mix materials, no atoms are made or lost. They are only rearranged.
 - Science (settled): Almost every atom in your body, apart from hydrogen, was made inside a star.
 - Other view, The Charvaka school of India: Charvaka taught that everything is made of four elements: earth, water, fire and air. Even awareness comes from them, and it ends when the body ends.
-- Practice, Look deeply (3 min): Let's pick up one thing near us, maybe a sheet of paper or a cotton cloth. Hold it and look at it quietly for a minute. Now let's close our eyes and picture where it came from. A tree, or a cotton plant. The rain that fed it. The sun. The people who made it. Breathe slowly. Open your eyes. Is it still just paper?
+- Practice, Look deeply (3 min): Let's pick up one thing near us, maybe a sheet of paper or a cotton cloth. Hold it and look at it quietly for a minute. Now let's close our eyes and picture where it came from. A tree, or a cotton plant. The rain that fed them. The sun. The people who made it. Breathe slowly. Open your eyes. Is it still just paper?
 - Ask: If people only change what the Earth gives, is anything really unnatural?
 - Ask: When people make a material, what exactly do they make?
 - Ask: The atoms in your body were made in stars. In what way are you part of the stars' story?
@@ -479,7 +479,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 - **safety:** Walk with a grown-up. Do not pick up glass, sharp things, dirty wrappers or anything an animal has left. Wash hands afterwards.
 - **record:** Make a tally of how many things went in each heap. Draw a bar chart of the tally.
 - **s1 (12 min) · grown-up needed**  
-  *Parent does:* Walk around a garden, a park or your lane for 10 minutes. Collect about 15 small, clean things: leaves, stones, seeds, a feather, a bottle cap, a piece of string, a twig, a shell. If you cannot go out, collect things around your home. Try a dry leaf from a potted plant, a pebble from its pot, a peanut shell, a button and a cotton thread.  
+  *Parent does:* Walk around a garden, a park or your lane for 10 minutes. Collect about 15 small, clean things: leaves, stones, seeds, a feather, a bottle cap, a piece of string, a twig, a shell. If you cannot go out, collect things around your home. Try a dry leaf from a potted plant, a pebble from their pot, a peanut shell, a button and a cotton thread.  
   *Parent says:* Let's collect things nature made and things people made. Only clean things, and nothing sharp.  
   *Child mode:* Go on a walk with a grown-up. Collect 15 small, clean things. Nothing sharp!
 - **s2 (8 min)**  
@@ -793,7 +793,7 @@ She did not sell it. She gave a pinch to everyone who passed.
    **Answer:** A neem tree. *Why:* Nature made the neem tree. People made the others from natural materials. Picking 'a brick' means remembering that clay is natural, but forgetting that people baked it.
 5. (mcq) A potted tulsi plant. Which is right?  
    Options: The plant is natural and the pot is made by people / Both are made by people / Both are natural  
-   **Answer:** The plant is natural and the pot is made by people. *Why:* The tulsi grew by itself from a seed, so it is natural. The pot was made by people. Picking 'both made by people' usually means thinking that whatever people look after is made by them.
+   **Answer:** The plant is natural and the pot is made by people. *Why:* The tulsi grew from a seed all on their own, so they are natural. The pot was made by people. Picking 'both made by people' usually means thinking that whatever people look after is made by them.
 6. (mcq) How do people get glass from sand?  
    Options: Melt it in a furnace / Spin it / Dry it in the sun / Soak it in water  
    **Answer:** Melt it in a furnace. *Why:* Sand must be melted at a very high heat in a furnace. Picking 'dry it in the sun' mixes glass up with salt. The sun is far too cool to melt sand.

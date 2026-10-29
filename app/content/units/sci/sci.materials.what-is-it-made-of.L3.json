@@ -293,7 +293,7 @@
    "examples": [
     "Wool from sheep, silk from silkworms, honey and wax from bees.",
     "Lac from lac insects makes the bright lac bangles of Rajasthan.",
-    "A weaver bird weaves its nest from strips of grass."
+    "A male weaver bird weaves his nest from strips of grass."
    ],
    "perspectives": [],
    "art": "A paper wasp nest hanging from a branch, a silkworm cocoon, and a lac insect crust on a twig.",
@@ -1694,7 +1694,7 @@
      "mins": 12,
      "adult": true,
      "context": "This is the first step of the Three-Heap Walk. You collect small things on a walk.",
-     "do": "Walk around a garden, a park or your lane for 10 minutes. Collect about 15 small, clean things: leaves, stones, seeds, a feather, a bottle cap, a piece of string, a twig, a shell. If you cannot go out, collect things around your home. Try a dry leaf from a potted plant, a pebble from its pot, a peanut shell, a button and a cotton thread.",
+     "do": "Walk around a garden, a park or your lane for 10 minutes. Collect about 15 small, clean things: leaves, stones, seeds, a feather, a bottle cap, a piece of string, a twig, a shell. If you cannot go out, collect things around your home. Try a dry leaf from a potted plant, a pebble from their pot, a peanut shell, a button and a cotton thread.",
      "say": "Let's collect things nature made and things people made. Only clean things, and nothing sharp.",
      "kid": "Go on a walk with a grown-up. Collect 15 small, clean things. Nothing sharp!"
     },
@@ -3175,7 +3175,7 @@
     "Both are natural"
    ],
    "a": 0,
-   "why": "The tulsi grew by itself from a seed, so it is natural. The pot was made by people. Picking 'both made by people' usually means thinking that whatever people look after is made by them.",
+   "why": "The tulsi grew from a seed all on their own, so they are natural. The pot was made by people. Picking 'both made by people' usually means thinking that whatever people look after is made by them.",
    "outcome": 1
   },
   {
@@ -4006,7 +4006,7 @@
   "practice": {
    "title": "Look deeply",
    "mins": 3,
-   "say": "Let's pick up one thing near us, maybe a sheet of paper or a cotton cloth. Hold it and look at it quietly for a minute. Now let's close our eyes and picture where it came from. A tree, or a cotton plant. The rain that fed it. The sun. The people who made it. Breathe slowly. Open your eyes. Is it still just paper?",
+   "say": "Let's pick up one thing near us, maybe a sheet of paper or a cotton cloth. Hold it and look at it quietly for a minute. Now let's close our eyes and picture where it came from. A tree, or a cotton plant. The rain that fed them. The sun. The people who made it. Breathe slowly. Open your eyes. Is it still just paper?",
    "kid": "Hold a piece of paper. Look at it quietly. Close your eyes. Picture the tree, the rain and the sun in it."
   },
   "ask": [

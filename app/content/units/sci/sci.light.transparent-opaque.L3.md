@@ -98,9 +98,9 @@ Windows are transparent, so we can see out and let sunlight in. Bathroom windows
 ### See-through animals · *defined*
 **Definition:** Some animals are almost transparent. This helps them hide, because predators look straight through them.
 
-Being see-through is a clever way to hide. Many jellyfish are almost all water, so they are nearly invisible in the sea. Glass frogs in the rainforests of Central and South America have see-through skin on their bellies. But blood is red, and red is easy to spot. In 2022, scientists found that a sleeping glass frog hides almost all its red blood cells inside its liver. That makes it about two or three times more see-through. When it wakes, the blood flows out again. Nobody yet knows how the frog stops this packed blood from clotting.
+Being see-through is a clever way to hide. Many jellyfish are almost all water, so they are nearly invisible in the sea. Glass frogs in the rainforests of Central and South America have see-through skin on their bellies. But blood is red, and red is easy to spot. In 2022, scientists found that a sleeping glass frog hides almost all their red blood cells inside their liver. That makes them about two or three times more see-through. When they wake, the blood flows out again. Nobody yet knows how the frog stops this packed blood from clotting.
 - e.g. A jellyfish can be very hard to see in clear water.
-- e.g. A glass frog's heart can sometimes be seen beating through its skin.
+- e.g. A glass frog's heart can sometimes be seen beating through their skin.
 - e.g. Some tiny shrimps and baby fish are almost transparent.
 ### Light that takes thousands of years to leave the Sun · *debated*
 The inside of the Sun is not transparent. It is so packed with hot particles that light cannot travel straight. A packet of light made in the Sun's middle bumps into a particle, bounces off somewhere new, bumps again, and again, more times than anyone could count. So it takes a very long time to wander out to the surface. Once it is out, it reaches Earth in about eight minutes. Scientists agree on the wandering. They give different answers for how long it takes, because it is hard to work out.
@@ -166,7 +166,7 @@ We have been learning how light goes straight through some things, is scattered 
 *Evidence:* In the gap test, butter paper lying on the card let you read the word. Lifted 2 cm, it still glowed with light, but the word was gone.
 
 - *who am i:* Your hand looks opaque, yet red light passes through your fingers. Even you are a little translucent.
-- *what is life:* Some animals hide by being almost transparent. A sleeping glass frog even packs most of its red blood cells into its liver while it sleeps.
+- *what is life:* Some animals hide by being almost transparent. A sleeping glass frog even packs most of their red blood cells into their liver while they sleep.
 - *what is this world:* The whole universe was once like a thick fog. Then it cleared, and light could travel. We still see that first clear light today.
 
 Everything comes from one source and is connected. In this unit, the same torch light met glass, butter paper and a steel plate. Glass let it pass, butter paper scattered it, and steel sent it back or absorbed it. The light did not change, and neither did the materials. Transparent, translucent and opaque name what happens when the two meet.
@@ -192,7 +192,7 @@ Everything comes from one source and is connected. In this unit, the same torch 
 - *big:* When is it good to let people see through, and when is it good to hide? Think of homes, schools and governments. (hint: Some people say a fair government should be 'transparent'. What do you think they mean?)
 - *big:* Mica is a mineral that splits into thin, see-through sheets. Ground up, it makes the sparkle in some paints and make-up. Much of it is dug in Jharkhand, sometimes by children. Should we ask where our shiny things come from? (hint: Behind a shiny thing there are often hands we never see. Is it fair not to know?)
 - *big:* The universe was once a fog that light could not cross. What is still hidden from us today, like a fog? (hint: Think of dark matter, which no light shows us.)
-- *big:* A glass frog hides its blood to become see-through. If you could be see-through for a day, would you want to be? (hint: Would you feel safer, or more alone?)
+- *big:* A glass frog hides their blood to become see-through. If you could be see-through for a day, would you want to be? (hint: Would you feel safer, or more alone?)
 - *big:* In the story, Meenu's mother stitched white flowers on a curtain. Nobody saw how beautiful they were until a light shone behind them at night. Is there work in your home that is hard to see? (hint: Who does a quiet job that you only notice when it is not done?)
 
 ## Story: The Flowers That Bloomed at Night
@@ -670,8 +670,8 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
    Options: Nothing at all / Radio waves and Wi-Fi signals / Sunlight  
    **Answer:** Radio waves and Wi-Fi signals. *Why:* Radio waves are a kind of light we cannot see. They pass through brick. That is why your phone works indoors. So 'opaque' depends on the kind of light.
 4. (mcq) A sleeping glass frog becomes more see-through. How?  
-   Options: It stops breathing / It hides most of its red blood cells in its liver / It drinks lots of water  
-   **Answer:** It hides most of its red blood cells in its liver. *Why:* Scientists found this in 2022. Red blood is easy to spot, so the frog packs most of its red blood cells into its liver while it sleeps. When it wakes, the blood flows out again.
+   Options: They stop breathing / They hide most of their red blood cells in their liver / They drink lots of water  
+   **Answer:** They hide most of their red blood cells in their liver. *Why:* Scientists found this in 2022. Red blood is easy to spot, so the frog packs most of their red blood cells into their liver while they sleep. When they wake, the blood flows out again.
 5. (mcq) For about the first 380,000 years after the Big Bang, the universe was…  
    Options: Transparent, like clean glass / Opaque, like thick fog / Completely dark and empty  
    **Answer:** Opaque, like thick fog. *Why:* The early universe was hot and full of loose particles that light kept bumping into, like light in fog. When it cooled and atoms formed, it became transparent. Picking 'dark and empty' is a natural guess, but it was actually glowing hot.
@@ -777,7 +777,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 ## Open questions
 - **What exactly is glass?** Its atoms are in no neat order, like a liquid's, but it is stiff like a solid. How a liquid becomes glass as it cools is still one of the big puzzles of physics.
 - **What is dark matter, the matter that light passes straight through?** It pulls on stars and galaxies, so we know something is there. But big experiments have not yet caught a single particle of it.
-- **How does a glass frog keep its blood from clotting when it packs it into its liver?** In people, packed blood would clot dangerously. The frog does this every night and wakes up fine. Scientists are still studying how.
+- **How does a glass frog keep their blood from clotting when they pack it into their liver?** In people, packed blood would clot dangerously. The frog does this every night and wakes up fine. Scientists are still studying how.
 - **When a packet of light reaches a window, what decides whether it goes through or bounces back?** Only the share can be predicted. Most physicists say each packet is pure chance. Some think hidden details might decide. Experiments have not settled what this chance really is.
 - **Exactly how long does light take to escape from the middle of the Sun?** Estimates range from about 10,000 to 170,000 years, because it depends on details of the Sun's inside that we cannot measure directly.
 - **Could we make walls or cars that are see-through, but strong?** Scientists have made see-through wood and see-through ceramics. Making them cheap and strong enough for everyday use is still being worked on.

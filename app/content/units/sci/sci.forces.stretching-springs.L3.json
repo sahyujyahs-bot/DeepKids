@@ -327,7 +327,7 @@
    "examples": [
     "Pinch the skin on the back of your hand and let go. It springs back.",
     "A spider's web sags when an insect hits it, instead of breaking, then springs back.",
-    "The mantis shrimp, a sea animal, punches with a spring in its arm. Sheila Patek and her team filmed it in 2004."
+    "The mantis shrimp, a sea animal, punches with a spring in their arm. Sheila Patek and her team filmed the punch in 2004."
    ],
    "perspectives": [],
    "art": "A child mid-jump with the Achilles tendon glowing; around them a kangaroo, a flea, a spider web and a mantis shrimp.",
@@ -1368,7 +1368,7 @@
     },
     {
      "t": "match",
-     "p": "Match each living thing to its spring.",
+     "p": "Match each living thing to their spring.",
      "pairs": [
       [
        "Flea",
@@ -1582,7 +1582,7 @@
      "t": "write",
      "p": "Is it better to be stiff or to bend? Give one example where stiff is better and one where bending is better.",
      "lines": 4,
-     "a": "A balanced answer. For example: a ruler for drawing lines should be stiff. A bridge in a storm, or a tree, is better if it can bend and spring back.",
+     "a": "A balanced answer. For example: a ruler for drawing lines should be stiff. A bridge in a storm is better if it can bend and spring back, and so is a tree.",
      "why": "There is no single right answer. What counts is a good example for each side."
     },
     {
@@ -2705,10 +2705,10 @@
      "id": "s4",
      "mins": 3,
      "do": "Tell your child about the flea.",
-     "say": "A flea jumps much faster than its muscles can move. How do you think it does it? Think of a catapult.",
-     "kid": "A flea jumps faster than its muscles can move. How? Think of a catapult.",
+     "say": "A flea jumps much faster than their muscles can move. How do you think they do it? Think of a catapult.",
+     "kid": "A flea jumps faster than their muscles can move. How? Think of a catapult.",
      "think": "If you were an animal designer, where would you put springs?",
-     "parent": "After their guess: a flea's muscles slowly squash a pad of a rubbery stuff called resilin, and lock it. Then it lets go all at once, like a catapult."
+     "parent": "After their guess: a flea's muscles slowly squash a pad of a rubbery stuff called resilin, and lock it. Then the flea lets go all at once, like a catapult."
     }
    ],
    "context": "In this activity you find the springs in your own body: your tendons, your skin and the blood vessel that beats in your wrist."
@@ -3790,7 +3790,7 @@
    "a": "Every time they met, it got a lift."
   },
   {
-   "j": "What did the spider say about its web?",
+   "j": "What did the spider say about their web?",
    "a": "It's a stretch, but it works."
   },
   {
@@ -3814,7 +3814,7 @@
    "a": "It had a bad case of tension."
   },
   {
-   "j": "What did the flea say after its big jump?",
+   "j": "What did the flea say after their big jump?",
    "a": "I'm on a spring roll!"
   },
   {

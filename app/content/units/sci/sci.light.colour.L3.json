@@ -323,7 +323,7 @@
    "description": "Light has wavelengths, but the light itself is not 'red'. Red is what happens when that light reaches an eye and a brain. Most people have three kinds of colour-sensing cells in their eyes. Each kind is best at a different part of the rainbow. The brain compares them and makes the colours we feel. Some people have only two kinds working. They mix up some colours, like red and green. The pink-purple called magenta is not in the rainbow at all. Your brain makes it when red and blue light arrive together, with no green.",
    "examples": [
     "Magenta, the colour of many bougainvillea flowers, has no place of its own in the rainbow.",
-    "A mantis shrimp has 12 kinds of colour cells, but tests show it is worse than us at telling close colours apart.",
+    "A mantis shrimp has 12 kinds of colour cells, but tests show they are worse than us at telling close colours apart.",
     "John Dalton, an English scientist, described his own colour blindness in 1794."
    ],
    "perspectives": [
@@ -1360,7 +1360,7 @@
       "They use only ultraviolet"
      ],
      "a": 1,
-     "why": "A plant reflects the light it uses least. Green comes back to our eyes, so plants use mostly red and blue. Picking 'mostly green' is the most common mistake. Green is the light they absorb least."
+     "why": "A plant reflects the light they use least. Green comes back to our eyes, so plants use mostly red and blue. Picking 'mostly green' is the most common mistake. Green is the light they absorb least."
     },
     {
      "t": "write",
@@ -2780,7 +2780,7 @@
   },
   {
    "t": "mcq",
-   "p": "A bee looks at a flower. What can it see that we cannot?",
+   "p": "A bee looks at a flower. What can they see that we cannot?",
    "opts": [
     "Infrared heat",
     "Ultraviolet patterns",
@@ -2868,7 +2868,7 @@
   },
   {
    "text": "The blue of a peacock's neck, which changes as the bird turns.",
-   "art": "A peacock turning its shining blue neck."
+   "art": "A peacock turning his shining blue neck."
   },
   {
    "text": "Red and orange skies over the sea at Marine Drive or a lake at sunset.",
@@ -2894,7 +2894,7 @@
   },
   {
    "q": "How does the mantis shrimp's colour vision really work?",
-   "why_open": "It has 12 kinds of colour cells but is poor at telling close colours apart. Scientists have ideas but are not sure."
+   "why_open": "They have 12 kinds of colour cells but are poor at telling close colours apart. Scientists have ideas but are not sure."
   },
   {
    "q": "Do our colour words change what we see?",

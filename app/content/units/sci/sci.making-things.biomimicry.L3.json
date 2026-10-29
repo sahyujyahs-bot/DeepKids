@@ -4,16 +4,16 @@
  "level": 3,
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home today, with the materials listed. Fixes made. Leaves must be held by the stalk, because touching rubs off the wax (old or bruised leaves work less well, so pick a fresh one, and use an outer cabbage leaf if no chembu or lotus leaf can be found). The splash test counts wet spots on newspaper, because splash height is too hard to measure; the water must be 3 cm below the rim, and a beak that tumbles is dropped again from 20 cm. The ice test uses lidded cups and checks every 10 minutes. A bare cup's ice lasts about 20 to 40 minutes in strong sun. Wet cloth works less well on humid monsoon days. The Sock Walk works best from September to February and only on short weeds with a grown-up, because of snakes. Paperclip hooks must be small, and a grown-up bends them if the ends are sharp. Candle soot and the flame are grown-up steps, with a 2-minute cooling time. Cling film also holds partly by static, which the activity says honestly. Both games have rules for playing alone. Parents should know that the ice test needs about an hour, mostly waiting, so play the matching game in the shade meanwhile.",
  "summary": {
-  "text": "Every plant and animal has problems to solve in its own life. A burdock plant must send its seeds far away, so its burrs carry hooks that catch on animal fur. A lotus leaf must stay clean in a muddy pond, so tiny waxy bumps make rain roll off and take the dirt with it. A kingfisher must dive without a splash that warns the fish, so its beak widens very slowly. These designs got better over many generations. People who studied them closely copied them, and made Velcro, self-cleaning paint and a quieter bullet train. Copying how a living thing solves a problem is called biomimicry.",
+  "text": "Every plant and animal has problems to solve in their own life. A burdock plant must send their seeds far away, so their burrs carry hooks that catch on animal fur. A lotus leaf must stay clean in a muddy pond, so tiny waxy bumps make rain roll off and take the dirt with it. A kingfisher must dive without a splash that warns the fish, so their beak widens very slowly. These designs got better over many generations. People who studied them closely copied them, and made Velcro, self-cleaning paint and a quieter bullet train. Copying how a living thing solves a problem is called biomimicry.",
   "art": "A child's notebook page: on the left a burr, a lotus leaf, a kingfisher, a gecko and a termite mound, and on the right, joined by dotted arrows, a Velcro strap, a raindrop rolling off a wall, a bullet train, a robot hand and a cool building."
  },
  "intro": {
   "hook": "Find a shoe or a bag with a Velcro strap. Look closely at its two sides. One side has tiny stiff hooks. The other side has soft loops. A plant was using hooks like these long before anyone made Velcro. Why would a plant need hooks?",
-  "text": "A burdock plant cannot walk. If its seeds just dropped to the ground, they would grow right under the parent plant. There they would have to share its light, water and soil. So the burdock's seed heads, called burrs, are covered in stiff spines with tiny hooks at the tips. When a fox, a cow or a dog brushes past, the hooks catch in its fur. The animal carries the burr away, and the seeds fall off in new ground. Over many generations, burdock plants whose hooks gripped better spread further, so strong hooks became common. In 1941, a Swiss engineer called George de Mestral came home from a walk in the mountains with burrs all over his clothes and his dog. He looked at one under a microscope. He saw hundreds of tiny hooks caught in loops of fur and thread. He copied exactly that: one strip of hooks and one strip of loops. That became Velcro.",
-  "art": "A burdock plant with round prickly burrs, a dog walking past with burrs caught in its fur, and a round microscope view showing a burr's hooks caught in loops of fur."
+  "text": "A burdock plant cannot walk. If their seeds just dropped to the ground, they would grow right under the parent plant. There they would have to share their parent's light, water and soil. So the burdock's seed heads, called burrs, are covered in stiff spines with tiny hooks at the tips. When a fox, a cow or a dog brushes past, the hooks catch in their fur. The animal carries the burr away, and the seeds fall off in new ground. Over many generations, burdock plants whose hooks gripped better spread further, so strong hooks became common. In 1941, a Swiss engineer called George de Mestral came home from a walk in the mountains with burrs all over his clothes and his dog. He looked at one under a microscope. He saw hundreds of tiny hooks caught in loops of fur and thread. He copied exactly that: one strip of hooks and one strip of loops. That became Velcro.",
+  "art": "A burdock plant with round prickly burrs, a dog walking past with burrs caught in their fur, and a round microscope view showing a burr's hooks caught in loops of fur."
  },
  "outcomes": [
-  "I can say what biomimicry is: learning how a living thing solves a problem in its own life, and using the same idea for a human problem.",
+  "I can say what biomimicry is: learning how a living thing solves a problem in their own life, and using the same idea for a human problem.",
   "I can explain why a burdock plant has hooked burrs, how Velcro copies them, and test what hooks hold on to best.",
   "I can explain why a lotus leaf needs to stay clean, and how its tiny waxy bumps make water roll off and carry dirt away.",
   "I can explain how a kingfisher dives with little splash and how a gecko clings to walls, and what engineers copied from each.",
@@ -25,7 +25,7 @@
  "terms": [
   {
    "term": "Biomimicry",
-   "meaning": "Learning how a plant or an animal solves a problem in its own life, and using the same idea to solve a human problem. 'Bio' means life. 'Mimic' means copy.",
+   "meaning": "Learning how a plant or an animal solves a problem in their own life, and using the same idea to solve a human problem. 'Bio' means life. 'Mimic' means copy.",
    "example": "Velcro copies the hooks that a burdock burr uses to catch on animal fur.",
    "art": "A burr and a Velcro strap side by side, joined by a dotted arrow."
   },
@@ -122,7 +122,7 @@
   {
    "term": "Setae",
    "meaning": "The tiny hairs on a gecko's toes. Each one splits into hundreds of even tinier tips. Say it 'SEE-tee'.",
-   "example": "One gecko has millions of setae on its toes.",
+   "example": "One gecko has millions of setae on their toes.",
    "art": "A zoom from a gecko's toe to rows of hairs, to one hair splitting into a brush of tiny tips."
   },
   {
@@ -160,11 +160,11 @@
   {
    "concept": "What biomimicry is",
    "status": "defined",
-   "definition": "Biomimicry means studying how a plant or an animal solves a problem in its own life, and using the same idea to solve a human problem. People copy the idea, not the whole living thing.",
-   "description": "Every living thing has problems in its own life. A plant must spread its seeds and keep its leaves clean. An animal must catch food, grip a branch or keep its home cool. Over many generations, living things have worked out designs that solve these problems. A person who wants to copy one must first understand it. What problem does the living thing have? How exactly does its design solve it? Only then can the same idea be built from materials people can make. An American scientist, Otto Schmitt, used the word 'biomimetics' for this in the 1950s. In 1997, an American nature writer, Janine Benyus, wrote a book called 'Biomimicry'. It made the word famous around the world.",
+   "definition": "Biomimicry means studying how a plant or an animal solves a problem in their own life, and using the same idea to solve a human problem. People copy the idea, not the whole living thing.",
+   "description": "Every living thing has problems in their own life. A plant must spread their seeds and keep their leaves clean. An animal must catch food, grip a branch or keep their home cool. Over many generations, living things have worked out designs that solve these problems. A person who wants to copy one must first understand it. What problem does the living thing have? How exactly does its design solve it? Only then can the same idea be built from materials people can make. An American scientist, Otto Schmitt, used the word 'biomimetics' for this in the 1950s. In 1997, an American nature writer, Janine Benyus, wrote a book called 'Biomimicry'. It made the word famous around the world.",
    "examples": [
     "A burdock burr's hooks carry its seeds away on animal fur. Velcro copies them to fasten shoes.",
-    "A kingfisher's beak lets it dive without warning the fish. A bullet train's nose copies it to leave tunnels quietly.",
+    "A kingfisher's beak lets them dive without warning the fish. A bullet train's nose copies it to leave tunnels quietly.",
     "A lotus leaf's waxy bumps keep it clean in a muddy pond. Self-cleaning paint copies them."
    ],
    "perspectives": [],
@@ -175,7 +175,7 @@
    "concept": "Why a burdock burr has hooks, and how Velcro copied them",
    "status": "defined",
    "definition": "A burdock burr is covered in stiff spines with tiny hooks. The hooks catch in animal fur, so animals carry the seeds to new ground. Velcro copies this: one strip has hooks and the other has loops.",
-   "description": "A burdock plant stays rooted in one place all its life. Its seeds need to grow somewhere else. Under the parent plant, they would have to share light, water and soil with it, and with each other. The burdock's answer is the burr, a ball of seeds covered in hooked spines. When an animal brushes past, the hooks catch in its fur. The burr may ride a long way before it is scratched off or falls. Then its seeds can grow in new ground, with less crowding. Burdock plants whose hooks gripped well spread further, so over many generations strong hooks became the rule. In 1941, George de Mestral, a Swiss engineer, looked at burrs from his dog's fur under a microscope. He saw the hooks caught in loops of fur. He wanted two strips of cloth that would join in the same way. Making it work took about ten years. Cotton loops wore out fast, but nylon, a strong plastic thread, worked well. He applied for a patent in 1951. He named his fastener Velcro, from two French words: 'velours', meaning velvet, and 'crochet', meaning hook.",
+   "description": "A burdock plant stays rooted in one place all their life. Their seeds need to grow somewhere else. Under the parent plant, they would have to share light, water and soil with their parent, and with each other. The burdock's answer is the burr, a ball of seeds covered in hooked spines. When an animal brushes past, the hooks catch in their fur. The burr may ride a long way before it is scratched off or falls. Then its seeds can grow in new ground, with less crowding. Burdock plants whose hooks gripped well spread further, so over many generations strong hooks became the rule. In 1941, George de Mestral, a Swiss engineer, looked at burrs from his dog's fur under a microscope. He saw the hooks caught in loops of fur. He wanted two strips of cloth that would join in the same way. Making it work took about ten years. Cotton loops wore out fast, but nylon, a strong plastic thread, worked well. He applied for a patent in 1951. He named his fastener Velcro, from two French words: 'velours', meaning velvet, and 'crochet', meaning hook.",
    "examples": [
     "Velcro straps on school shoes, bags and blood pressure cuffs.",
     "Astronauts used Velcro to stop things floating away inside their spacecraft.",
@@ -189,7 +189,7 @@
    "concept": "Why a lotus leaf stays clean",
    "status": "defined",
    "definition": "A lotus leaf is covered in tiny bumps, and the bumps are coated in even tinier bits of wax. Water cannot spread on it, so it makes balls that roll off and carry dirt away. Scientists call this the lotus effect.",
-   "description": "A lotus grows in muddy ponds, and its big round leaves lie open to the sky. Dust, splashes of mud and the spores of fungi land on them all the time. Dirt on a leaf blocks the sunlight it needs to make its food. Spores and germs left on a leaf can make it sick. Yet lotus leaves look clean. In the 1970s, a German plant scientist called Wilhelm Barthlott looked at leaves with a very powerful microscope, called a scanning electron microscope. The lotus leaf was not smooth at all. It was covered in tiny bumps, and the bumps were coated with even tinier bits of wax. A water drop rests only on the tips of the bumps, with air underneath. So it stays round and rolls off at the smallest tilt. Dirt grips the water better than it grips the waxy tips, so each rolling drop picks up dirt and carries it away. Every shower of rain washes the leaf. Over many generations, lotus plants whose leaves stayed cleaner grew better and left more seeds. Barthlott and Christoph Neinhuis described the lotus effect in 1997. In the late 1990s, a paint company made an outside wall paint with the same kind of tiny bumps, so that rain washes the wall clean.",
+   "description": "A lotus grows in muddy ponds, and their big round leaves lie open to the sky. Dust, splashes of mud and the spores of fungi land on them all the time. Dirt on a leaf blocks the sunlight it needs to make its food. Spores and germs left on a leaf can make it sick. Yet lotus leaves look clean. In the 1970s, a German plant scientist called Wilhelm Barthlott looked at leaves with a very powerful microscope, called a scanning electron microscope. The lotus leaf was not smooth at all. It was covered in tiny bumps, and the bumps were coated with even tinier bits of wax. A water drop rests only on the tips of the bumps, with air underneath. So it stays round and rolls off at the smallest tilt. Dirt grips the water better than it grips the waxy tips, so each rolling drop picks up dirt and carries it away. Every shower of rain washes the leaf. Over many generations, lotus plants whose leaves stayed cleaner grew better and left more seeds. Barthlott and Christoph Neinhuis described the lotus effect in 1997. In the late 1990s, a paint company made an outside wall paint with the same kind of tiny bumps, so that rain washes the wall clean.",
    "examples": [
     "Chembu (colocasia, also called arbi) leaves, nasturtium leaves and cabbage leaves show the same effect.",
     "Self-cleaning paint, glass and cloth copy the lotus effect.",
@@ -197,7 +197,7 @@
    ],
    "perspectives": [],
    "art": "A zoom: a lotus leaf, then a close-up of bumps like tiny hills with frosty wax, then a round water drop sitting on the tips with air below.",
-   "context": "Lotus leaves grow in muddy ponds, yet they always look clean. This card explains why the plant needs clean leaves, and the surprising way it keeps them clean."
+   "context": "Lotus leaves grow in muddy ponds, yet they always look clean. This card explains why the plant needs clean leaves, and the surprising way the plant keeps them clean."
   },
   {
    "concept": "Deep down: why water makes balls",
@@ -215,8 +215,8 @@
   {
    "concept": "The kingfisher and the bullet train",
    "status": "defined",
-   "definition": "A kingfisher must dive from air into water fast, without a big splash that warns the fish. Its long beak widens very slowly, so it parts the water gently. Engineers copied that shape for the nose of a Japanese bullet train, so it left tunnels without a loud boom.",
-   "description": "A kingfisher lives by catching small fish. It sits still on a branch above the water, watching. When it sees a fish, it dives. Water is about 800 times heavier than the same amount of air, so it is hard to push aside. A blunt head would slap the water, slow the bird down and send out ripples that warn the fish. The kingfisher's beak is long and narrow, and it widens slowly towards the head. So it pushes the water aside a little at a time, and the bird slips in with only a small splash. Over many generations, kingfishers that dived more smoothly caught more fish and raised more chicks. Japan's bullet trains, called Shinkansen, had a problem like this. When a fast train rushed into a tunnel, it squeezed the air ahead of it. The squeezed air burst out of the far end with a boom that shook nearby houses. Eiji Nakatsu, an engineer and a birdwatcher, saw that the train and the kingfisher had the same problem. Each moves fast into a place where the water or air cannot easily get out of the way. His team tested many nose shapes. The shape most like a kingfisher's beak worked best. The 500 Series train, which began running in 1997, had a long beak-shaped nose. It was quieter in tunnels, and it used less electricity. Nakatsu has said that he also learned from owl feathers, to make the arm on the train's roof quieter.",
+   "definition": "A kingfisher must dive from air into water fast, without a big splash that warns the fish. Their long beak widens very slowly, so it parts the water gently. Engineers copied that shape for the nose of a Japanese bullet train, so it left tunnels without a loud boom.",
+   "description": "A kingfisher lives by catching small fish. The bird sits still on a branch above the water, watching. When they see a fish, they dive. Water is about 800 times heavier than the same amount of air, so it is hard to push aside. A blunt head would slap the water, slow the bird down and send out ripples that warn the fish. The kingfisher's beak is long and narrow, and it widens slowly towards the head. So it pushes the water aside a little at a time, and the bird slips in with only a small splash. Over many generations, kingfishers that dived more smoothly caught more fish and raised more chicks. Japan's bullet trains, called Shinkansen, had a problem like this. When a fast train rushed into a tunnel, it squeezed the air ahead of it. The squeezed air burst out of the far end with a boom that shook nearby houses. Eiji Nakatsu, an engineer and a birdwatcher, saw that the train and the kingfisher had the same problem. Each moves fast into a place where the water or air cannot easily get out of the way. His team tested many nose shapes. The shape most like a kingfisher's beak worked best. The 500 Series train, which began running in 1997, had a long beak-shaped nose. It was quieter in tunnels, and it used less electricity. Nakatsu has said that he also learned from owl feathers, to make the arm on the train's roof quieter.",
    "examples": [
     "A kingfisher dives into a pond and leaves only a small ring on the water.",
     "A pointed dough shape dropped into a bucket splashes far less than a flat one.",
@@ -224,7 +224,7 @@
    ],
    "perspectives": [],
    "art": "A kingfisher diving into water with a tiny splash, above a white bullet train with a long beak-shaped nose coming out of a tunnel quietly.",
-   "context": "The common kingfisher lives by ponds and canals across India and Japan. This card shows how its beak solves its own problem, and how it helped make a bullet train quieter."
+   "context": "The common kingfisher lives by ponds and canals across India and Japan. This card shows how their beak solves their own problem, and how it helped make a bullet train quieter."
   },
   {
    "concept": "The same shape, again and again",
@@ -243,7 +243,7 @@
   {
    "concept": "How a gecko sticks to a wall",
    "status": "debated",
-   "description": "A house gecko hunts insects on walls, windows and ceilings, often near a light at night. It must run up smooth glass, hang upside down and not fall. Its feet have no glue and no suckers. Each toe has rows of tiny hairs called setae. Each hair splits into hundreds of even tinier tips. The tips are so small and bendy that they get extremely close to the wall, even into its tiny dips. When atoms get that close, they pull on each other very slightly. One tip's pull is tiny. But a gecko has millions of hairs and hundreds of millions of tips. All those tiny pulls add up. Geckos whose feet gripped better caught more insects and escaped more snakes, so over many generations their feet became the grippers we see today. Scientists agree on this much. They argue about one part: does water help?",
+   "description": "A house gecko hunts insects on walls, windows and ceilings, often near a light at night. They must run up smooth glass, hang upside down and not fall. Its feet have no glue and no suckers. Each toe has rows of tiny hairs called setae. Each hair splits into hundreds of even tinier tips. The tips are so small and bendy that they get extremely close to the wall, even into its tiny dips. When atoms get that close, they pull on each other very slightly. One tip's pull is tiny. But a gecko has millions of hairs and hundreds of millions of tips. All those tiny pulls add up. Geckos whose feet gripped better caught more insects and escaped more snakes, so over many generations their feet became the grippers we see today. Scientists agree on this much. They argue about one part: does water help?",
    "examples": [
     "A house gecko walks upside down on the ceiling near the tube light.",
     "Geckos find it hard to grip Teflon, the very slippery coating on non-stick pans."
@@ -263,12 +263,12 @@
     }
    ],
    "art": "A zoom in four steps: a gecko on a window, a toe with lines of ridges, rows of tiny hairs, and one hair splitting into a brush of tips touching the glass.",
-   "context": "A gecko can hang from a ceiling by one toe, with no glue. This card explains how its tiny hairs grip, and what scientists still argue about."
+   "context": "A gecko can hang from a ceiling by one toe, with no glue. This card explains how their tiny hairs grip, and what scientists still argue about."
   },
   {
    "concept": "How a gecko lets go, and the inventions it inspired",
    "status": "defined",
-   "definition": "A gecko lets go by peeling its toes up from the tip, like peeling sticky tape. Engineers have copied gecko hairs to make dry tape and robot grippers that need no glue.",
+   "definition": "A gecko lets go by peeling their toes up from the tip, like peeling sticky tape. Engineers have copied gecko hairs to make dry tape and robot grippers that need no glue.",
    "description": "Holding on is only half of the gecko's problem. A gecko running up a wall must stick and unstick each foot many times every second. If you pull tape straight off a wall, it holds hard. If you peel it from one corner, it comes off easily. Gecko toes peel from the tip, a few hairs at a time. So letting go takes almost no effort. Gecko feet also stay clean. Dirt falls off the tiny tips as the gecko walks. In 2003, a team in Manchester, England, led by Andre Geim made a small patch of 'gecko tape' from plastic hairs. At Stanford University in the USA, engineers built a climbing robot called Stickybot in 2006. NASA engineers have built gecko-style grippers to grab things in space, where glue and suckers do not work well.",
    "examples": [
     "Peel sticky tape from a corner and it comes away easily. Pull it straight and it holds.",
@@ -395,13 +395,13 @@
   {
    "concept": "What engineers are copying now",
    "status": "idea",
-   "description": "Biomimicry is still young. Scientists are trying many new ideas, and most are not yet in our homes. The pitcher plant grows where the soil has little food in it for plants. It gets extra food by catching insects. Pitcher plants whose rims trapped more insects grew better and made more seeds, so over many generations the slippery rim spread. The rim of its pitcher is so slippery when wet that insects slide in and cannot climb out. India's own pitcher plant grows in the hills of Meghalaya. In 2011, a team led by Joanna Aizenberg at Harvard University made a coating that copies the slippery rim. Almost nothing sticks to it, not even oil. In the Namib Desert in Africa, almost no rain falls, but fog blows in from the sea. A beetle there stands with its back to the foggy wind. Water from the fog gathers on bumps on its back and runs down to its mouth. Over many generations, beetles that caught more fog water survived the dry times better. Scientists described it in 2001, and others are testing fog-catching surfaces like it. Some scientists are trying to build an 'artificial leaf' that makes fuel from sunlight and water, as a plant makes food. Nobody yet knows which of these will work well enough to use every day.",
+   "description": "Biomimicry is still young. Scientists are trying many new ideas, and most are not yet in our homes. The pitcher plant grows where the soil has little food in it for plants. They get extra food by catching insects. Pitcher plants whose rims trapped more insects grew better and made more seeds, so over many generations the slippery rim spread. The rim of their pitcher is so slippery when wet that insects slide in and cannot climb out. India's own pitcher plant grows in the hills of Meghalaya. In 2011, a team led by Joanna Aizenberg at Harvard University made a coating that copies the slippery rim. Almost nothing sticks to it, not even oil. In the Namib Desert in Africa, almost no rain falls, but fog blows in from the sea. A beetle there stands with their back to the foggy wind. Water from the fog gathers on bumps on their back and runs down to their mouth. Over many generations, beetles that caught more fog water survived the dry times better. Scientists described it in 2001, and others are testing fog-catching surfaces like it. Some scientists are trying to build an 'artificial leaf' that makes fuel from sunlight and water, as a plant makes food. Nobody yet knows which of these will work well enough to use every day.",
    "examples": [
     "A ketchup or honey bottle that empties completely, with nothing stuck to the sides.",
     "Nets that catch drinking water from fog on dry hills."
    ],
    "perspectives": [],
-   "art": "A pitcher plant with an ant sliding into it, a desert beetle with a fog drop on its back, and a green artificial leaf making bubbles in sunlight.",
+   "art": "A pitcher plant with an ant sliding into their pitcher, a desert beetle with a fog drop on their back, and a green artificial leaf making bubbles in sunlight.",
    "context": "Velcro and lotus paint are old now. This card is about new copies of nature that scientists are still testing."
   }
  ],
@@ -471,7 +471,7 @@
   {
    "claim": "A car shaped like a boxfish proved that fish shapes are the best for cars.",
    "who": "The company Mercedes-Benz, with its boxfish concept car in 2005",
-   "for": "The boxfish is a small reef fish that looks like a box. The car copied its shape, and in tests it slipped through the air very easily.",
+   "for": "The boxfish is a small reef fish that looks like a box. The car copied their shape, and in tests it slipped through the air very easily.",
    "against": "Later, scientists studied real boxfish. They found the boxfish's shape helps it turn quickly, more than it helps it swim straight with little drag. The car never went on sale. Copying a living thing needs a careful look at what its shape is really for.",
    "status": "debated",
    "context": "This card is about a car that copied a fish, and what scientists later found out about the fish."
@@ -562,7 +562,7 @@
   "epiphany": "For the parent: the train's boom and the kingfisher's splash are the same problem. A fast thing pushes into something that cannot easily get out of its way: water for the bird, the air inside a tunnel for the train. Hitting it with a blunt front shoves it all at once, which makes a slap or a boom. A long, slowly widening front pushes it aside a little at a time. The engineer did not copy the bird's look. He copied how the beak works. The story also quietly asks who teaches whom, and whether 'natural' and 'man-made' are really separate.",
   "ask": [
    "Why did the tunnel boom when the old trains came out?",
-   "How does the kingfisher dive without a big splash? What is special about the shape of its beak?",
+   "How does the kingfisher dive without a big splash? What is special about the shape of their beak?",
    "The man said, 'It is the same problem.' What did he mean?",
    "Why do you think the man sat so still for so long?",
    "At the end, the kingfisher says they were both listening to the same teacher. Who or what was the teacher?"
@@ -593,14 +593,14 @@
      "items": [
       "Burdock burr: hooked spines that catch on fur, so animals carry its seeds away",
       "Lotus leaf: tiny waxy bumps that make rain roll off and wash the leaf clean",
-      "Kingfisher: a long beak that widens slowly, so it dives without warning the fish",
-      "Owl: soft, fringed feather edges, so it flies almost silently to its prey",
-      "Gecko: millions of tiny toe hairs, so it can run up walls to catch insects",
+      "Kingfisher: a long beak that widens slowly, so they dive without warning the fish",
+      "Owl: soft, fringed feather edges, so they fly almost silently to their prey",
+      "Gecko: millions of tiny toe hairs, so they can run up walls to catch insects",
       "Termite mound: thick earth walls and air passages that keep the nest fresh and cool",
-      "Pitcher plant: a slippery rim, so insects slide in and become its food",
+      "Pitcher plant: a slippery rim, so insects slide in and become their food",
       "Honeybee comb: six-sided cells that hold the most honey for the least wax",
-      "Humpback whale: bumps on its flippers that help it turn tightly while hunting",
-      "Bird: twists the tips of its wings to balance and turn in the air"
+      "Humpback whale: bumps on their flippers that help them turn tightly while hunting",
+      "Bird: twists the tips of their wings to balance and turn in the air"
      ]
     },
     {
@@ -870,7 +870,7 @@
       "A lotus flower"
      ],
      "a": 0,
-     "why": "In 1941, burrs stuck to his clothes and his dog. Under a microscope, he saw tiny hooks. The burdock plant grows these hooks so that animals carry its seeds away. Picking 'sticky leaf' means thinking the burr sticks with glue. It holds on with hooks."
+     "why": "In 1941, burrs stuck to his clothes and his dog. Under a microscope, he saw tiny hooks. The burdock plant grows these hooks so that animals carry their seeds away. Picking 'sticky leaf' means thinking the burr sticks with glue. It holds on with hooks."
     },
     {
      "t": "fill",
@@ -887,16 +887,16 @@
       "Tiny waxy bumps make water roll off in balls, carrying dirt away",
       "It is very smooth and shiny, like glass",
       "Fish clean it every night",
-      "It grows a new leaf every day"
+      "The plant grows a new leaf every day"
      ],
      "a": 0,
      "why": "The lotus leaf is covered in tiny bumps with wax on them. Water drops sit on the tips, stay round and roll off, taking dirt with them. Picking 'smooth like glass' is the most common idea. The surprise is that the leaf is bumpy, not smooth."
     },
     {
      "t": "truefalse",
-     "p": "A burdock plant grows hooked burrs so that animals will carry its seeds to new ground.",
+     "p": "A burdock plant grows hooked burrs so that animals will carry their seeds to new ground.",
      "a": true,
-     "why": "True. Seeds that grow under the parent plant must share its light, water and soil. Seeds carried far away on fur get new ground with less crowding."
+     "why": "True. Seeds that grow under the parent plant must share their parent's light, water and soil. Seeds carried far away on fur get new ground with less crowding."
     },
     {
      "t": "mcq",
@@ -975,7 +975,7 @@
     },
     {
      "t": "truefalse",
-     "p": "A gecko sticks to walls using glue on its feet.",
+     "p": "A gecko sticks to walls using glue on their feet.",
      "a": false,
      "why": "False. Gecko feet leave no glue. They grip because hundreds of millions of tiny hair tips get so close to the wall that their atoms pull on the wall's atoms."
     },
@@ -1346,7 +1346,7 @@
     },
     {
      "t": "mcq",
-     "p": "A boxfish car was made to copy a fish's shape. Later, scientists found the boxfish's shape mainly helps it to…",
+     "p": "A boxfish car was made to copy a fish's shape. Later, scientists found the boxfish's shape mainly helps them to…",
      "opts": [
       "Turn quickly",
       "Swim very fast in a straight line",
@@ -1417,7 +1417,7 @@
      "t": "write",
      "p": "George de Mestral spent about ten years making Velcro work. Burdock plants worked out their hooks over many generations. Who do you think should get the credit for Velcro? Explain.",
      "lines": 4,
-     "a": "I think de Mestral should get the credit for the invention, because he did the work of making it. But the burdock plant should get credit for the idea, because its hooks came first.",
+     "a": "I think de Mestral should get the credit for the invention, because he did the work of making it. But the burdock plant should get credit for the idea, because their hooks came first.",
      "why": "This is a question about fairness, so any thoughtful answer with a reason is good. You might also think about the weaver who helped him."
     },
     {
@@ -1554,7 +1554,7 @@
       }
      ],
      "think": "Did you need to wipe or scrub the leaf? How did it clean itself?",
-     "parent": "On the leaf, each rolling drop gathers the dust and leaves a clean stripe behind. Look with the magnifying glass if you have one. On the paper, the water soaks in and the dust becomes a wet smudge. If drops stick on your leaf, try a fresher leaf, or a spot you have not touched. This is how a lotus keeps itself clean. Every shower of rain washes its leaves, so they stay clear for sunlight."
+     "parent": "On the leaf, each rolling drop gathers the dust and leaves a clean stripe behind. Look with the magnifying glass if you have one. On the paper, the water soaks in and the dust becomes a wet smudge. If drops stick on your leaf, try a fresher leaf, or a spot you have not touched. This is how a lotus keeps clean. Every shower of rain washes their leaves, so they stay clear for sunlight."
     },
     {
      "id": "s5",
@@ -1614,7 +1614,7 @@
    "title": "Splash Like a Kingfisher",
    "mins": 30,
    "days": 1,
-   "context": "In this unit's story, a kingfisher dives with hardly a splash, and a bullet train copies its beak. In this experiment you drop dough shapes into a bucket of water and count the splash drops.",
+   "context": "In this unit's story, a kingfisher dives with hardly a splash, and a bullet train copies their beak. In this experiment you drop dough shapes into a bucket of water and count the splash drops.",
    "question": "Which shape goes into water with the smallest splash: a flat pancake, a round ball, or a long pointed beak?",
    "predict": "Guess first. Put the three shapes in order, from the one you think will splash most to the one you think will splash least. Why do you think so?",
    "fair_test": "Keep everything the same except the shape. Use the same amount of dough for each shape. Drop each one from the same height, 30 cm above the water, measured with a ruler. Keep the water at the same level, 3 cm below the rim. Use a dry sheet of newspaper each time. Drop each shape 3 times.",
@@ -2101,7 +2101,7 @@
      "do": "1. Look at the feather. Gently pull two parts of it apart, then stroke them back together. 2. Look at the leaf. 3. Look at the wool.",
      "say": "Pull the feather apart a little, then stroke it from the bottom to the tip. Watch it zip back together. Feathers have tiny hooks too.",
      "kid": "Pull a feather apart gently. Now stroke it back together. It zips up! Feathers have tiny hooks inside.",
-     "parent": "Each feather has rows of branches called barbs. The barbs carry even smaller branches called barbules, and these have tiny hooks that zip them together, like Velcro. A bird needs its feathers zipped into smooth sheets to fly. It re-zips them by running them through its beak. A strong magnifying glass shows the rows. You may not see the hooks themselves, which is fine."
+     "parent": "Each feather has rows of branches called barbs. The barbs carry even smaller branches called barbules, and these have tiny hooks that zip them together, like Velcro. A bird needs their feathers zipped into smooth sheets to fly. They re-zip them by running them through their beak. A strong magnifying glass shows the rows. You may not see the hooks themselves, which is fine."
     },
     {
      "id": "s3",
@@ -2109,7 +2109,7 @@
      "do": "Help your child draw their two favourite things, very big, and label one feature on each.",
      "say": "Draw it as if it were the size of a house. What feature can you see? What do you think it is for?",
      "kid": "Draw your two favourite things, really big. Label one feature on each, like hooks, hairs or bumps.",
-     "think": "If a gecko walks on the outside of your window at night, look at its toes from inside. What do you see?"
+     "think": "If a gecko walks on the outside of your window at night, look at their toes from inside. What do you see?"
     }
    ],
    "setup": [
@@ -2195,7 +2195,7 @@
      "kid": "Walls are bumpy when you zoom in. Gecko hairs bend into the bumps, like your brush. More touching means more grip.",
      "check": {
       "t": "mcq",
-      "q": "Why do a gecko's tiny bendy hairs help it grip a bumpy wall?",
+      "q": "Why do a gecko's tiny bendy hairs help them grip a bumpy wall?",
       "options": [
        "They reach into the dips, so much more of the foot touches the wall",
        "They are covered in glue",
@@ -2526,7 +2526,7 @@
      "mins": 10,
      "do": "Choose one problem. Then ask: which living thing has a problem like this, and how does it solve it? Use the cards from Nature's Idea Match if you made them.",
      "say": "Pick one problem. Now ask the inventor's question. Which living thing has a problem like this in its own life? How does it solve it?",
-     "kid": "Pick one problem. Which plant or animal has this problem too? How does it solve it?",
+     "kid": "Pick one problem. Which plant or animal has this problem too? How do they solve it?",
      "parent": "Helpful pairs. Things slipping: burr hooks, gecko hairs, tree frog toe pads. Getting dirty or wet: the lotus leaf. Getting hot: the termite mound and the clay water pot. Moving through air or water: the kingfisher. Let the child choose, even if their idea seems odd. The test will show what works.",
      "ask": [
       {
@@ -2885,13 +2885,13 @@
    "t": "mcq",
    "p": "Why does a burdock plant have hooked burrs?",
    "opts": [
-    "So animals carry its seeds to new ground",
-    "So animals cannot eat it",
+    "So animals carry their seeds to new ground",
+    "So animals cannot eat them",
     "To catch insects for food",
-    "So it can climb up walls"
+    "So they can climb up walls"
    ],
    "a": 0,
-   "why": "Seeds that fall under the parent plant must share its light, water and soil. Hooks catch in fur, so animals carry the seeds far away. Picking 'so animals cannot eat it' is a fair guess, because spines often protect plants. But the burdock's hooks catch and hold on, which is what a seed needs to ride away.",
+   "why": "Seeds that fall under the parent plant must share their parent's light, water and soil. Hooks catch in fur, so animals carry the seeds far away. Picking 'so animals cannot eat them' is a fair guess, because spines often protect plants. But the burdock's hooks catch and hold on, which is what a seed needs to ride away.",
    "outcome": 1
   },
   {
@@ -2923,14 +2923,14 @@
   },
   {
    "t": "mcq",
-   "p": "Why does a lotus plant need its leaves to stay clean?",
+   "p": "Why does a lotus plant need their leaves to stay clean?",
    "opts": [
     "Dirt would block the sunlight the leaf uses to make food",
     "So people think it looks pretty",
     "So frogs can sit on it"
    ],
    "a": 0,
-   "why": "A leaf makes food from sunlight, so dirt on it means less food. Germs and spores left on a leaf can also make it sick. Picking 'so people think it looks pretty' looks at the lotus from our side. The lotus keeps clean for its own life.",
+   "why": "A leaf makes food from sunlight, so dirt on it means less food. Germs and spores left on a leaf can also make it sick. Picking 'so people think it looks pretty' looks at the lotus from our side. The lotus keeps clean for their own life.",
    "outcome": 2
   },
   {
@@ -3190,7 +3190,7 @@
   },
   {
    "q": "Can we make gecko tape that works as well as a gecko, for years?",
-   "why_open": "Copies grip well at first, but get dirty or worn. Real gecko feet clean themselves and grow new hairs when the gecko sheds its skin."
+   "why_open": "Copies grip well at first, but get dirty or worn. Real gecko feet clean themselves and grow new hairs when the gecko sheds their skin."
   },
   {
    "q": "How many of nature's designs have we not even noticed yet?",
@@ -3622,7 +3622,7 @@
  "warmup": [
   {
    "q": "What does biomimicry mean?",
-   "a": "Learning how a plant or an animal solves a problem in its own life, and copying the idea to solve a human problem."
+   "a": "Learning how a plant or an animal solves a problem in their own life, and copying the idea to solve a human problem."
   },
   {
    "q": "Which plant part gave us the idea for Velcro?",
@@ -3764,13 +3764,13 @@
  "roots": {
   "context": "We have been learning how burdock plants, lotus leaves, kingfishers, geckos and termites solve problems in their own lives, and how people copied them. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "On the chembu leaf, your drops rolled into balls and carried the dust away. The leaf needs this, because dirt would block its sunlight and germs could make it sick. Plants like it found this answer over many generations, long before people made self-cleaning paint. So the first inventors on Earth were living things solving their own problems.",
+   "truth": "On the chembu leaf, your drops rolled into balls and carried the dust away. The leaf needs this, because dirt would block its sunlight and germs could make it sick. Plants like chembu found this answer over many generations, long before people made self-cleaning paint. So the first inventors on Earth were living things solving their own problems.",
    "habit": "We think of inventing as something only people do, in workshops and labs. But the chembu leaf, the burdock and the kingfisher each solved a problem in their own lives long before any person copied them.",
    "evidence": "Drops roll off a chembu leaf and take the dust with them, while paper soaks them up. Self-cleaning wall paint, first sold in the late 1990s, copies the same tiny waxy bumps."
   },
   "three": {
    "who_am_i": "Your hands and your brain were shaped over many generations too. When you invent, you do what living things have always done: solve the problems of your life.",
-   "what_is_life": "Every living thing is solving problems all the time: spreading its seeds, keeping clean, catching food, keeping cool.",
+   "what_is_life": "Every living thing is solving problems all the time: spreading their seeds, keeping clean, catching food, keeping cool.",
    "what_is_this_world": "Water, air and heat follow the same rules for every living thing and every machine. That is why a bird's answer can work for a train."
   },
   "thread": "The burdock, the lotus and the kingfisher each solved a different problem. Yet they all worked with the same few rules: water pulling on itself more than on wax, water pushing back on a beak, a hook holding in a loop. From one set of rules for the whole world came countless different answers, one in each kind of living thing. A person who copies a burr is one living thing learning from another, and the idea passes from plant to person.",
@@ -3788,7 +3788,7 @@
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing'",
     "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain and the tree inside it. Nothing exists all by itself.",
-    "link": "Look deeply at a Velcro strap and you can see the burdock plant, the dog that carried its burrs, and the engineer who looked closely. The invention is made of all of them."
+    "link": "Look deeply at a Velcro strap and you can see the burdock plant, the dog that carried their burrs, and the engineer who looked closely. The invention is made of all of them."
    }
   ],
   "science": [
@@ -3814,7 +3814,7 @@
   "ask": [
    "Is a bullet train natural or man-made? Where would you draw the line?",
    "If a burdock plant gave us Velcro, who should get the credit: the plant, the dog or the engineer?",
-   "A burdock never saw a microscope, yet its hooks work very well. Is knowing why something works the same as being able to do it?"
+   "A burdock never saw a microscope, yet their hooks work very well. Is knowing why something works the same as being able to do it?"
   ],
   "art": "A child holding a lotus leaf with one silver drop rolling across it, a kingfisher and a bullet train reflected in the drop."
  },

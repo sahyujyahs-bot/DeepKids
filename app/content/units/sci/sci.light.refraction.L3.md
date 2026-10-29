@@ -3,7 +3,7 @@
 
 **Summary.** A straight pencil in a glass of water looks snapped at the water line. This happens because light bends when it passes at a slant from water into air. This bending is called refraction, and it happens because light travels more slowly in water and glass than in air. A lens is a curved piece of glass or plastic that bends light on purpose, and a magnifying glass uses it to make small things look bigger. Water drops, marbles and the lens inside your own eye bend light in the same way. The air around the Earth bends sunlight too, so we still see the Sun for about two minutes after it has set.
 
-**Intro.** *Put a pencil in a glass of water and look at it from the side. It looks snapped in two at the water line. Pull it out. It is whole. So which do you believe, your eyes or your hands?* About two thousand years ago, a Roman writer called Seneca noticed something odd. Small letters looked bigger and clearer when he read them through a glass ball filled with water. People who fish with spears know another puzzle. A fish is not quite where it looks, and a spear thrown straight at it passes above it. In this unit you will find out what happens to light at the edge of water and glass, and why it causes both of these surprises.
+**Intro.** *Put a pencil in a glass of water and look at it from the side. It looks snapped in two at the water line. Pull it out. It is whole. So which do you believe, your eyes or your hands?* About two thousand years ago, a Roman writer called Seneca noticed something odd. Small letters looked bigger and clearer when he read them through a glass ball filled with water. People who fish with spears know another puzzle. Fish are not quite where they look, and a spear thrown straight at them passes above them. In this unit you will find out what happens to light at the edge of water and glass, and why it causes both of these surprises.
 
 ## Learning outcomes
 0. I can say what refraction is: light bending as it goes from one see-through material into another, like from water into air.
@@ -48,7 +48,7 @@ In one material, like air, light travels in straight lines. When it reaches wate
 You see the pencil because light from it comes into your eyes. Light from the top part, in the air, comes straight to you. Light from the bottom part starts in the water. At the water's surface, or at the side of the glass, it bends. Your eyes and brain do not know about the bend. They follow the light straight back, as if it had never turned. So they see the underwater part a little higher, or a little to one side, of where it really is. The two parts do not line up, and the pencil looks snapped. Your hand feels the truth, because the pencil itself never changed.
 - e.g. A spoon in a glass of water looks broken and fatter under the water.
 - e.g. An oar dipped in a river looks bent at the water line.
-- e.g. A fish in a pond is a little lower and further away than it looks.
+- e.g. Fish in a pond are a little lower and further away than they look.
 ### Water looks shallower than it is · *defined*
 **Definition:** Because light bends as it leaves water, the bottom of a bucket, a tank or a pool looks closer to the top than it really is. Seen from straight above, water looks about three quarters as deep as it really is. From a slant, it looks even shallower.
 
@@ -108,7 +108,7 @@ In 1915, Albert Einstein worked out that gravity bends the paths of light. Light
 ### Living lenses: eyes, fish and archerfish · *defined*
 **Definition:** Animal eyes use lenses to bend light into a sharp picture. Animals that hunt across the water's surface have ways to deal with the bend.
 
-The clear front of your eye, the cornea, does most of the bending. The lens inside your eye does the fine focusing, by getting fatter or thinner. Under water, the cornea hardly bends light, because the eye and the water slow light by about the same amount. So fish have almost perfectly round lenses, which bend light strongly. The four-eyed fish of South America swims with its eyes half in and half out of the water. Each eye has two pupils, one looking up into the air and one looking down into the water. Its lens is shaped like an egg, so it can focus both views at once. The archerfish, found in mangroves including the Sundarbans, spits a jet of water at insects on leaves above the water. Scientists found that it aims correctly even though the bend at the surface moves the insect's picture. Pied kingfishers often hover and then dive almost straight down. Seen from straight above, the fish is right below where it looks, only a little deeper.
+The clear front of your eye, the cornea, does most of the bending. The lens inside your eye does the fine focusing, by getting fatter or thinner. Under water, the cornea hardly bends light, because the eye and the water slow light by about the same amount. So fish have almost perfectly round lenses, which bend light strongly. The four-eyed fish of South America swims with their eyes half in and half out of the water. Each eye has two pupils, one looking up into the air and one looking down into the water. Each lens is shaped like an egg, so it can focus both views at once. The archerfish, found in mangroves including the Sundarbans, spits a jet of water at insects on leaves above the water. Scientists found that they aim correctly even though the bend at the surface moves the insect's picture. Pied kingfishers often hover and then dive almost straight down. Seen from straight above, the fish is right below where they seem to be, only a little deeper.
 - e.g. When you go swimming without goggles, everything looks blurry. Your cornea cannot bend light properly when water touches it.
 - e.g. An archerfish can knock an insect off a leaf with a jet of water from below the surface.
 - e.g. A kingfisher on a wire over a paddy field dives almost straight down onto a fish.
@@ -152,7 +152,7 @@ All ordinary materials bend light to the same side. In 1967, the Russian physici
   Against: Feel it under the water. It is straight. Pull it out. It is straight. Look from straight above, and it looks almost straight. Only the light changes direction, not the pencil.
 - **A magnifying glass makes things bigger.** (Many young children, and the way we often talk: 'it makes the ant bigger'.; *rejected*)  
   For: Through the lens, the ant really looks bigger.  
-  Against: Measure the ant with a ruler without the lens. Then look again with the lens. The ant has not changed. Lift the lens away and it looks small again at once. Only the path of the light changes.
+  Against: Measure the ant with a ruler without the lens. Then look again with the lens. The ant has not changed. Lift the lens away and the ant looks small again at once. Only the path of the light changes.
 - **Light always travels in straight lines, so nothing can change its path.** (A common rule people learn first, and over-use.; *rejected*)  
   For: In one material, like air, light does go in straight lines. That is why a shadow has the shape of the thing that makes it.  
   Against: Light goes straight inside one material. But at the edge of water or glass, it changes direction. Huge masses in space bend it too.
@@ -193,8 +193,8 @@ One straight pencil looks broken from the side, almost straight from above, and 
 ## Deep and big questions
 - *deep:* If your eyes say the pencil is broken and your hands say it is straight, how do you decide which to believe? (hint: What happens when you use more than one sense, or look from a different place?)
 - *deep:* Why does light slow down in water? Does it get tired? (hint: Think about the marching line stepping onto the mattress. What is inside water that light has to pass through?)
-- *deep:* A fish under the water looks up at you. Does it see you where you really are? (hint: Light from you bends too, as it goes into the water.)
-- *big:* Does a magnifying glass show you more of the truth, or does it trick you? (hint: The ant looks bigger than it is. But you can see its legs that you could not see before.)
+- *deep:* A fish under the water looks up at you. Do they see you where you really are? (hint: Light from you bends too, as it goes into the water.)
+- *big:* Does a magnifying glass show you more of the truth, or does it trick you? (hint: The ant looks bigger than in real life. But you can see their legs that you could not see before.)
 - *big:* We see the Sun after it has set. What else might we be seeing that is not quite where it looks? (hint: Think about the stars, and the far galaxies bent by gravity.)
 - *big:* Is a picture of you in a phone camera really you? (hint: The lens only bends light that came from you. What is the picture made of?)
 - *big:* If everyone in the world wore the same tinted lens all their lives, would they ever know the world looked different? (hint: How do you find out about something that is always there?)
@@ -210,13 +210,13 @@ My mother could hang in the air above the water as if the sky were holding her u
 
 My name is Chhaya. It means shadow. I think my mother chose it because I was always close behind her. But that summer, the summer I had to learn to feed myself, I did not feel like her shadow. I felt like her opposite.
 
-Here is what I did. I sat on the wire, low over the water, where I could see the fish quite well. I chose one. It hung there, close to the top, slow and silver, so easy. I looked at it with both eyes and I dived, a long, beautiful slanting dive, like an arrow from a bow.
+Here is what I did. I sat on the wire, low over the water, where I could see the fish quite well. I chose one. The fish hung there, close to the top, slow and silver, so easy. I looked at them with both eyes and I dived, a long, beautiful slanting dive, like an arrow from a bow.
 
-And I hit the water, and I opened my beak, and there was nothing. Every time. The fish was always a little lower than I aimed, and a little further away. It would flick its tail and vanish into the green. I would come up with water up my nose and river weed on my head, and the crows on the bank would laugh their ugly laugh.
+And I hit the water, and I opened my beak, and there was nothing. Every time. The fish was always a little lower than I aimed, and a little further away. They would flick their tail and vanish into the green. I would come up with water up my nose and river weed on my head, and the crows on the bank would laugh their ugly laugh.
 
 On the ghat steps below my wire, a girl came every morning with her grandmother. The girl was called Mitali, and she had a small net on a bamboo pole. The grandmother had a very old basket and very sharp eyes. They fished for little puti fish for the evening curry. And I saw that Mitali missed too.
 
-She would see a fish, swing her net at it, and catch only water. She stamped her foot on the wet step. 'They move,' she said. 'They see me coming and they move.'
+She would see a fish, swing her net at them, and catch only water. She stamped her foot on the wet step. 'They move,' she said. 'They see me coming and they move.'
 
 Her grandmother laughed, not unkindly. 'They do not move, Mitali. They were never there.'
 
@@ -230,23 +230,23 @@ The grandmother pulled it out. It was straight. She put it in again. Broken. Out
 
 'Then how do you ever catch anything?' said Mitali.
 
-'Two ways,' said the grandmother. 'When you are looking at a slant, aim lower than the fish, below where it looks. Your hands learn it, slowly. Or else...' and she leaned right out over the step, and looked down, straight down, at her own feet in the water. 'Look from straight above. When you look straight down, the light comes straight up and does not turn its corner. The fish is right below you, where it looks, only a little deeper.'
+'Two ways,' said the grandmother. 'When you are looking at a slant, aim lower than the fish, below where they seem to be. Your hands learn it, slowly. Or else...' and she leaned right out over the step, and looked down, straight down, at her own feet in the water. 'Look from straight above. When you look straight down, the light comes straight up and does not turn its corner. The fish is right below you, where they seem to be, only a little deeper.'
 
 She stood the stick upright in the water, right under her eyes. 'Come and look from here,' she said. Mitali leaned over and looked straight down along it. This time it did not look broken at all. It went into the water like a finger into milk, straight all the way.
 
 I almost fell off my wire.
 
-Straight down. My mother never dived from the wire. She never slanted like an arrow. She climbed up into the air, high over the fish, and she hung there, whirring, until she was right above it. And then she dropped straight down, along the one path where the river cannot tell lies.
+Straight down. My mother never dived from the wire. She never slanted like an arrow. She climbed up into the air, high over the fish, and she hung there, whirring, until she was right above them. And then she dropped straight down, along the one path where the river cannot tell lies.
 
 I had thought her hovering was showing off. It was the whole secret.
 
 The next morning I did not sit on the wire. I flew out over the deep water and I tried to hover. It is very hard. You must beat your wings fast enough to stay still, which sounds impossible, but it is not. I wobbled. I sank. I flapped harder and rose too high. The crows laughed. Mitali, on the step, pointed up at me and laughed too, but it was a different laugh. Her grandmother shaded her eyes and watched me.
 
-At last I found the trick of it. The wind came up the river, and I leaned into it, and my head stayed still. Below me, a fish hung in the green. I did not dive at a slant. I waited until I was right above it. Then I folded, and dropped, straight as a stone down a well.
+At last I found the trick of it. The wind came up the river, and I leaned into it, and my head stayed still. Below me, a fish hung in the green. I did not dive at a slant. I waited until I was right above them. Then I folded, and dropped, straight as a stone down a well.
 
 Cold water. A flick of silver. And then a weight in my beak, wriggling, real.
 
-I flew back to the wire with my first fish. I banged it on the wire, the way my mother does, and I swallowed it. It was the best thing I have ever eaten, and it was very small.
+I flew back to the wire with my first fish. I banged my fish on the wire, the way my mother does, and I gulped them down. It was the best meal I have ever eaten, and it was very small.
 
 On the step below, Mitali was standing very still, right on the edge, looking straight down at her feet. She lowered her net slowly, straight down, upright, beside her toes. When she lifted it, a puti fish was jumping in it, bright as a coin.
 
@@ -254,7 +254,7 @@ Her grandmother did not say anything. She just tapped her stick twice on the ste
 
 Mitali looked up at me. I looked down at her. We had both learned the same thing in the same morning, and neither of us could have told the other about it. Then she laughed, and I flew up into the wind to hover again.
 
-**For the parent:** For the parent: the fish is never where it looks when you look at a slant, because light bends as it leaves the water. Your eyes follow the light straight back and see the fish higher and nearer than it is. But light that leaves the water straight up does not bend. So looking from straight above, the fish is right below where it looks, only a little deeper. This may be one reason pied kingfishers hover and dive almost straight down. The grandmother's stick shows refraction: it looks broken when you look at it at a slant, and straight when you look down along it from above. The story also quietly honours knowledge carried by ordinary people, like a grandmother who fishes, long before anyone wrote it down.
+**For the parent:** For the parent: the fish is never where they seem to be when you look at a slant, because light bends as it leaves the water. Your eyes follow the light straight back and see the fish higher and nearer than they really are. But light that leaves the water straight up does not bend. So looking from straight above, the fish is right below where they seem to be, only a little deeper. This may be one reason pied kingfishers hover and dive almost straight down. The grandmother's stick shows refraction: it looks broken when you look at it at a slant, and straight when you look down along it from above. The story also quietly honours knowledge carried by ordinary people, like a grandmother who fishes, long before anyone wrote it down.
 
 - Ask: Why did Chhaya keep missing the fish when she dived from the wire at a slant?
 - Ask: What happened to the grandmother's stick when she pushed it into the water at a slant? And when she pushed it in straight down?
@@ -265,7 +265,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 ## Games
 ### g1 · Bent, Big or Neither? (20 min)
 - **rules:** Cut out the 24 cards. Shuffle them and put them in a pile, face down.; On your turn, take the top card and read it out loud.; Decide: is light being bent here, so things look moved or broken? Is it being bent to make things look bigger? Or is light not bending at all? Put the card on the BENT, BIG or NEITHER mat.; Then say why, using the word 'bend' or 'straight'. A good reason wins one lens token.; If you draw a TEST IT card, everyone does the test together. The first person to explain the result wins two tokens.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 24 situation cards to cut out:** A straw in a glass of nimbu pani looks broken; A fish in the pond is not where it looks; Thatha's reading spectacles make letters clear; Your legs look short in the swimming pool; A dew drop on a leaf makes its veins look big; A watch-repair man's eye lens; A coin in a bucket looks closer to the top; A phone camera takes a photo; The setting Sun looks squashed at the bottom; A shadow of your hand on the wall; Your face in a steel plate; Stars twinkle at night; A glass marble on a newspaper; A round fish bowl makes the fish look fat; A torch beam in a dark room; The temple tank looks shallow, but is deep; A microscope shows onion cells; A water bottle stretches a word; A kingfisher dives straight down; Galaxies bent into rings in space photos; TEST IT: put a spoon in a glass of water. Look from the side. What happens?; TEST IT: lay a clear plastic bag over a newspaper word. Put one drop of water on it. Look at the word.; TEST IT: look at your fingertip through a glass of water. Is it bigger or smaller?; TEST IT: put a pencil straight down into water, upright. Does it look broken?
+- **Printable cards: 24 situation cards to cut out:** A straw in a glass of nimbu pani looks broken; A fish in the pond is not where they seem to be; Thatha's reading spectacles make letters clear; Your legs look short in the swimming pool; A dew drop on a leaf makes its veins look big; A watch-repair man's eye lens; A coin in a bucket looks closer to the top; A phone camera takes a photo; The setting Sun looks squashed at the bottom; A shadow of your hand on the wall; Your face in a steel plate; Stars twinkle at night; A glass marble on a newspaper; A round fish bowl makes the fish look fat; A torch beam in a dark room; The temple tank looks shallow, but is deep; A microscope shows onion cells; A water bottle stretches a word; A kingfisher dives straight down; Galaxies bent into rings in space photos; TEST IT: put a spoon in a glass of water. Look from the side. What happens?; TEST IT: lay a clear plastic bag over a newspaper word. Put one drop of water on it. Look at the word.; TEST IT: look at your fingertip through a glass of water. Is it bigger or smaller?; TEST IT: put a pencil straight down into water, upright. Does it look broken?
 - **Printable board: Three playing mats:** BENT: light bends, so things look moved or broken; BIG: a lens or drop bends light, so things look bigger; NEITHER: no bending of light here
 - **Printable tokens: 20 lens tokens (small paper circles):** 🔍
 - **s1 (2 min)**  
@@ -281,7 +281,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Parent does:* 1. Take turns. Each player draws a card, reads it and puts it on a mat. 2. They say why, using 'bend' or 'straight'. 3. Give one token for each good reason.  
   *Parent says:* When you put your card down, tell me why, using the word bend or straight.  
   *Child mode:* Take turns. Read your card. Put it on BENT, BIG or NEITHER. Say why. Each good reason wins a 🔍 token.
-  - Note: Tricky cards: the shadow, the face in a steel plate and the torch beam are NEITHER. A shadow is light blocked, and a steel plate bounces light back. Those belong to other units. Twinkling stars and the squashed Sun are BENT, by the air. The camera, microscope, spectacles, dew drop, marble, bottle and watch-repair lens are BIG, though the camera makes a small picture. The coin, the fish, the legs in the pool and the temple tank are BENT. The kingfisher card can go on BENT or NEITHER if the reason is good: it dives straight down, where the bend cannot fool it. Galaxies in rings are bent by gravity, not glass, so give a bonus token to anyone who says so.
+  - Note: Tricky cards: the shadow, the face in a steel plate and the torch beam are NEITHER. A shadow is light blocked, and a steel plate bounces light back. Those belong to other units. Twinkling stars and the squashed Sun are BENT, by the air. The camera, microscope, spectacles, dew drop, marble, bottle and watch-repair lens are BIG, though the camera makes a small picture. The coin, the fish, the legs in the pool and the temple tank are BENT. The kingfisher card can go on BENT or NEITHER if the reason is good: they dive straight down, where the bend cannot fool them. Galaxies in rings are bent by gravity, not glass, so give a bonus token to anyone who says so.
 - **s4 (3 min)**  
   *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first.  
   *Parent says:* Before we test it, everyone guess what will happen. Then we'll try it.  
@@ -631,7 +631,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
    Options: From the side / From a slant / From straight above  
    **Answer:** From straight above. *Why:* Light coming straight up out of the water hardly bends at all. So from straight above, the pencil looks almost straight. From a slant, the light bends the most.
 5. (truefalse) A magnifying glass makes an ant grow bigger.  
-   **Answer:** False. *Why:* False. The ant stays the same size. The lens bends the light from the ant, so it reaches your eye as if from a bigger ant. Take the lens away and it looks small again at once.
+   **Answer:** False. *Why:* False. The ant stays the same size. The lens bends the light from the ant, so it reaches your eye as if from a bigger ant. Take the lens away and the ant looks small again at once.
 6. (mcq) A magnifying glass is a lens. What shape is it?  
    Options: Fatter in the middle than at its edges / Thinner in the middle than at its edges / Flat like a window / Shaped like a cube  
    **Answer:** Fatter in the middle than at its edges. *Why:* A magnifying glass is a bulging lens, fatter in the middle. It bends light inwards. A flat window hardly changes how things look. Picking 'thinner in the middle' describes a different lens, which makes things look smaller.
@@ -678,12 +678,12 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 7. (truefalse) The Earth's air bends sunlight, so we can still see the Sun for about two minutes after it has really set.  
    **Answer:** True. *Why:* True. The air bends the Sun's light down around the curve of the Earth. So the Sun looks a little higher than it really is.
 8. (mcq) A fisher stands on the bank and sees a fish at a slant. Where is the real fish?  
-   Options: Exactly where it looks / Higher and nearer than it looks / Deeper and further away than it looks  
-   **Answer:** Deeper and further away than it looks. *Why:* Light from the fish bends as it leaves the water, so the fish looks higher and nearer than it is. Picking 'higher and nearer' is the picture, not the fish.
-9. (match) Match each animal to how it deals with bending light.  
-   **Answer:** pied kingfisher → hovers and dives almost straight down; archerfish → aims its jet of water correctly at insects above the surface; four-eyed fish → has eyes that look into air and water at the same time. *Why:* Animals that hunt across the water's surface have found ways to deal with the bend.
+   Options: Exactly where they seem to be / Higher and nearer than they seem / Deeper and further away than they seem  
+   **Answer:** Deeper and further away than they seem. *Why:* Light from the fish bends as it leaves the water, so the fish looks higher and nearer than they really are. Picking 'higher and nearer' is the picture, not the fish.
+9. (match) Match each animal to how they deal with bending light.  
+   **Answer:** pied kingfisher → hovers and dives almost straight down; archerfish → aims their jet of water correctly at insects above the surface; four-eyed fish → has eyes that look into air and water at the same time. *Why:* Animals that hunt across the water's surface have found ways to deal with the bend.
 10. (write) Your friend says, 'A magnifying glass makes things bigger.' Explain how you would test whether that is true.  
-   **Answer:** I would measure an ant or a word with a ruler, without the lens. Then I would look through the lens and see it looks bigger. Then I would take the lens away. The thing is the same size as before. So the lens makes it look bigger, but it does not make it bigger.. *Why:* A good test compares the thing with and without the lens, and measures it.
+   **Answer:** I would measure an ant or a word with a ruler, without the lens. Then I would look through the lens and see the ant or word look bigger. Then I would take the lens away. Nothing has changed size. So the lens makes things look bigger, but it does not make them bigger.. *Why:* A good test compares the thing with and without the lens, and measures it.
 11. (mcq) Why do things look blurry when you open your eyes under water without goggles?  
    Options: Water gets into your brain / The front of your eye cannot bend light properly when water touches it / There is no light under water / Your eyes close a little  
    **Answer:** The front of your eye cannot bend light properly when water touches it. *Why:* The clear front of your eye, the cornea, does most of the bending. It works because light goes from air into your eye. When water touches it, the light hardly bends there, so the picture is blurry. Goggles put air back in front of your eyes.
@@ -711,8 +711,8 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
    **Answer:** Ibn al-Haytham, in Cairo, about 1011 to 1021 → tested bending light with experiments and studied how a glass ball magnifies; Ibn Sahl, in Baghdad, about 984 → used the correct rule of bending to design lenses; Antonie van Leeuwenhoek, in Delft, from the 1670s → made tiny bead microscopes and saw bacteria; Priyamvada Natarajan, born in Coimbatore → maps invisible dark matter from how it bends light. *Why:* People in many lands, over a thousand years, worked out how light bends.
 6. (write) Sunsets often look squashed, flatter at the bottom. Use what you know about bending light to explain why.  
    **Answer:** The air bends sunlight downwards, and it bends light from low down the most. The bottom of the Sun is lowest, so its light is lifted the most. So the bottom of the Sun is pushed up more than the top, and the Sun looks squashed.. *Why:* Light from lower in the sky passes through more air at a bigger slant, so it bends more.
-7. (write) An archerfish under the water spits at a beetle on a leaf. The beetle looks to the fish to be in a different place from where it really is. Why must the fish aim cleverly?  
-   **Answer:** Light from the beetle bends as it goes into the water. So the fish sees the beetle in the wrong place. If it spat at the picture, it would miss. Scientists found archerfish aim correctly anyway.. *Why:* The bend works both ways. Things in the air look moved to an animal under the water, just as a fish looks moved to us.
+7. (write) An archerfish under the water spits at a beetle on a leaf. The beetle looks to the fish to be in a different place from where they really are. Why must the fish aim cleverly?  
+   **Answer:** Light from the beetle bends as it goes into the water. So the fish sees the beetle in the wrong place. If the fish spat at the picture, they would miss. Scientists found archerfish aim correctly anyway.. *Why:* The bend works both ways. Things in the air look moved to an animal under the water, just as a fish looks moved to us.
 8. (mcq) Scientists made materials that bend microwaves the opposite way to ordinary materials. What might these one day help build?  
    Options: A faster bicycle / A cloak that hides things by bending light around them / A louder drum / A heavier rock  
    **Answer:** A cloak that hides things by bending light around them. *Why:* In 2006, a team hid a small copper cylinder from microwaves by bending them around it. A cloak that hides a person from ordinary light is still only an idea.
@@ -814,7 +814,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 
 ## Questions to ask kids
 - Look at your glass of water at dinner. Can you find something that looks bent or big through it?
-- Is a fish in an aquarium or a river really where it looks?
+- Is a fish in an aquarium or a river really where they seem to be?
 - Why do you think Thatha's reading glasses make words look big?
 - If you were a kingfisher, where would you dive from?
 - Which is stronger: a tiny drop or a big drop?
@@ -848,7 +848,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 ## Connected maths
 - In the water-drop test, Kavya looked at a newspaper letter 2 millimetres tall. Through the tiny drop, it looked as tall as 4 millimetres on the ruler beside it. How many times taller did the drop make the letter look? **2 times taller.**. The letter is really 2 millimetres tall. Through the drop, it looked 4 millimetres tall. 4 divided by 2 is 2. So the drop made the letter look 2 times taller. You can check: 2 + 2 = 4. The letter itself is still 2 millimetres tall. (queues `math.division.sharing-and-grouping.L3`)
 - Look at the chart from the water-drop test. Which drop magnified most, and which magnified least? **The tiny drop magnified most, 2 times. The big drop magnified least, only 1 time, which means hardly at all.**. The tallest bar is the tiny drop, at 2. The medium drop is at 1 and a half. The big drop is at 1. A bar at 1 means the letters looked just the same size, so that drop hardly magnified. (queues `math.data.bar-charts.L3`)
-- A magnifying glass makes things look 3 times bigger. An ant is 4 millimetres long. How long does it look through the lens? **12 millimetres.**. 3 times bigger means 3 lots of the real size. The ant is 4 millimetres long. 3 lots of 4 is 4 + 4 + 4 = 12. So it looks 12 millimetres long, about as long as your fingernail is wide. The ant itself is still 4 millimetres. (queues `math.multiplication.equal-groups.L3`)
+- A magnifying glass makes things look 3 times bigger. An ant is 4 millimetres long. How long does the ant look through the lens? **12 millimetres.**. 3 times bigger means 3 lots of the real size. The ant is 4 millimetres long. 3 lots of 4 is 4 + 4 + 4 = 12. So the ant looks 12 millimetres long, about as long as your fingernail is wide. The real ant is still 4 millimetres. (queues `math.multiplication.equal-groups.L3`)
 - Seen from straight above, water looks about three quarters as deep as it really is. Looking straight down, a temple tank looks 3 metres deep. Is it really shallower than 3 metres, the same, or deeper? About how deep might it be? **Deeper. About 4 metres.**. If 3 metres is three quarters of the real depth, then each quarter is 1 metre. The whole depth is 4 quarters, so 4 metres. The tank is about 1 metre deeper than it looks. That is why we never jump into water because it looks shallow. (queues `math.fractions.fractions-of-a-whole.L3`)
 - In Spear the Coin, Kavya hit the coin 1 time out of 5 when she aimed at the coin's picture. After she learned to look from straight above, she hit it 4 times out of 5. How many more hits did she get? **3 more hits.**. She got 4 hits the second time and 1 hit the first time. 4 take away 1 is 3. So she got 3 more hits, out of the same 5 tries. (queues `math.addition-subtraction.word-problems.L3`)
 
@@ -877,7 +877,7 @@ Follow the Light (sci.light.L3): Topic-level song
 - Light slows down in water. Faster or slower in glass? → Slower still.
 - Can we see the Sun after it has really set? → Yes, for about two minutes, because the air bends its light.
 - What bends light from far galaxies into rings? → The gravity of huge clusters of galaxies.
-- Why does a kingfisher dive straight down? → From straight above, the fish is right below where it looks, only a little deeper.
+- Why does a kingfisher dive straight down? → From straight above, the fish is right below where they seem to be, only a little deeper.
 
 ## Plan
 - Start options: a1, story, e1, big_questions, cards, g1, e2

@@ -1,0 +1,1381 @@
+{
+ "key": "combined|sci|4|living-in-harmony",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "living-in-harmony",
+ "title": "Living in harmony: energy from the Sun, and living with nature",
+ "source": "DeepKids Combined. Covers Cambridge Class 4 Energy and living things (energy in ecosystems, producers, consumers and food chains) and NCERT Class 4 'Growing up with Nature' (nature and culture in daily life, special trees and flowers, tribal art, medicinal plants, sacred groves and sustainable living). No textbook needed.",
+ "summary": "The warmth in your child's body right now was sunlight on a rice field a few months ago. They follow that energy from the Sun into a leaf, through every eater, and out again as heat, and find out why a forest holds thousands of deer but only a few tigers. They grow seedlings in the dark, watch mould eat a chapati, and see why one forest in Meghalaya lets nobody take away even a dead leaf. Then they look at how Indian families live with nature: kolam that feeds ants, haldi dye, Warli painting, neem in the rice tin, medicine plants and how scientists test them, sacred groves, a clay pot that cools water, and sunlight that powers a whole airport.",
+ "builds_on": "Class 3 rung: the five ways living things live together (both gain, one gains, one harms, one eats the other, both need the same thing), curd made by bacteria, seeds carried by animals, and sharing land with elephants. This rung follows the energy that runs all of that: from the Sun to producers, consumers and decomposers, and out as heat. It also looks at how people have lived inside ecosystems without using them up. Class 5 goes on to food webs, the balance of nature, and protecting forests and animals.",
+ "goals": [
+  "By the end your child can say what energy is, and trace the energy in their food, a fan and a cooking fire back to the Sun.",
+  "By the end your child can explain how producers make food from light by photosynthesis, using their own seedlings grown in light and in the dark.",
+  "By the end your child can draw a food chain with the arrows pointing to the eater, and explain why only about a tenth of the energy passes on at each step.",
+  "By the end your child can explain what decomposers do, and why materials go round in an ecosystem while energy passes through once.",
+  "By the end your child can describe how Indian families use plants in daily life, art and medicine, and say how a fair test shows whether a remedy works.",
+  "By the end your child can explain what a sacred grove is and what sustainable living means, with examples from home."
+ ],
+ "subconcepts": [
+  "energy makes things move, grow, warm up and change, and it is never made or destroyed, only changed and passed on",
+  "almost all energy on Earth comes from the Sun, even the energy in coal and in our electricity",
+  "producers: plants use light energy to make food by photosynthesis",
+  "a plant's body is built mostly from air and water, and plants use some of their own food to stay alive",
+  "consumers: herbivores, carnivores and omnivores",
+  "a food chain shows which way the energy moves, from the food to the eater",
+  "at each step most energy is used for living and leaves as heat: the energy pyramid",
+  "decomposers return materials to the soil: materials go round, energy passes through once",
+  "an ecosystem: the living things of one place, with its light, air, water and soil",
+  "nature in daily life and culture: special trees and flowers, kolam, natural dyes and Warli art",
+  "medicinal plants, and how a fair test shows whether a remedy really works",
+  "sacred groves: forests shared and protected by communities",
+  "sustainable living: natural materials that keep homes cool, power from sunlight, and taking no faster than nature grows back"
+ ],
+ "words": [
+  [
+   "energy",
+   "what it takes to make something move, grow, warm up or change. We cannot see energy, but we can see what it does. It is never made or destroyed, only changed from one form to another."
+  ],
+  [
+   "producer",
+   "a living thing that makes their own food. Green plants and algae are producers."
+  ],
+  [
+   "photosynthesis",
+   "how a green plant makes food. The leaf uses the energy of light to turn water and carbon dioxide, a gas in the air, into sugar. It gives out oxygen."
+  ],
+  [
+   "consumer",
+   "a living thing that cannot make their own food, so they eat other living things. Herbivores eat plants, carnivores eat animals and omnivores eat both."
+  ],
+  [
+   "decomposer",
+   "a living thing that feeds on dead plants and animals and breaks them down, like mould, mushrooms and many bacteria. What is left goes back into the soil."
+  ],
+  [
+   "food chain",
+   "a line that shows who eats whom, with arrows from the food to the eater: grass → deer → tiger. The arrows show which way the energy moves."
+  ],
+  [
+   "energy pyramid",
+   "a drawing of how much food energy there is at each step of a food chain. The plants at the bottom have the most. Each step up has about ten times less."
+  ],
+  [
+   "ecosystem",
+   "all the living things in one place, together with the light, air, water and soil they use. A pond, a forest and a balcony garden are ecosystems."
+  ],
+  [
+   "sacred grove",
+   "a patch of forest that a community protects for worship, where trees are not cut. In Kerala it is called a kavu, and in Meghalaya a law kyntang."
+  ],
+  [
+   "medicinal plant",
+   "a plant whose parts people use to treat illness, like tulsi, ginger or karpooravalli."
+  ],
+  [
+   "placebo",
+   "a look-alike with no medicine in it, used in a fair test. People often feel better just because they believe they got medicine, so the real medicine must do better than the placebo."
+  ],
+  [
+   "sustainable",
+   "a way of living that can go on for ever, because it takes things no faster than nature can grow or replace them."
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Where does the energy come from?",
+   "goal": "Find out what energy is, trace it back to the Sun, and start growing seedlings in the light and in the dark.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the five ways",
+     "mins": 5,
+     "do": "Recall Class 3 in two questions. Ask: 'Name the five ways living things live together.' (Both gain, one gains and the other is not harmed, one lives on the other and harms them, one eats the other, both need the same thing.) 'When we made curd, what did we give the bacteria, and what did they give us?' (We gave them milk and warmth. They made curd.) Say: 'All of that living takes energy. This week we find out where the energy comes from, and where it goes.'"
+    },
+    {
+     "kind": "talk",
+     "title": "What is energy?",
+     "mins": 10,
+     "do": "Switch on the ceiling fan. Ask: 'What makes the fan go round?' (Electricity.) Say: 'Electricity carries energy. Energy is what it takes to make something move, grow, warm up or change. We can't see energy, but we can see what it does.' Ask your child to find three more things in the room that are using energy right now, and say what each one does with it. Good answers: the tube light makes light and a little heat, the fridge hums and keeps cold, and you breathe and stay warm. Then say: 'Scientists have found that energy is never made and never destroyed. It only changes from one form to another, and moves from one thing to another. The fan turns electrical energy into movement, a little sound and a little heat.'"
+    },
+    {
+     "kind": "act",
+     "title": "Energy chains back to the Sun",
+     "mins": 13,
+     "do": "Do Activity a1. Choose five things: the fan, the gas stove, the idli or rice you ate today, your own running legs, and a wooden chair or a piece of firewood if you have one. For each, ask 'Where did that energy come from before that?' and keep asking until you can't go further. Write each chain with arrows. For the fan: fan ← electricity ← power station ← coal ← plants that grew hundreds of millions of years ago ← the Sun. For the idli: your legs ← idli ← rice and urad plants ← the Sun. Ask: 'What do almost all the chains end with?' (The Sun.) Say: 'Most of India's electricity still comes from burning coal, and coal is made from ancient plants. So even the fan runs on old sunlight.'",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "Seeds in the light and in the dark",
+     "mins": 12,
+     "do": "Set up Experiment e1. Fill two small cups with soil from a pot, or put wet cotton on two small plates. Sow 20 methi seeds in each and water them with the same number of spoons. Ask: 'One cup goes on the sunny windowsill, and one goes in a closed cupboard. What will each look like in four days? Why do you think so?' Write the guesses on paper and keep them. Put the cups in their places. Say: 'We will water both the same way every day. Only the light is different, so if they grow differently, light is the reason.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "review",
+     "title": "One sentence",
+     "mins": 5,
+     "do": "Ask your child to finish this sentence aloud, then write it in their notebook: 'The energy in my lunch came from…' Good answer: 'the Sun. The rice plant caught sunlight and stored it in the grain, and I ate the grain.' If they say 'the shop', ask: 'And where did the shop get it?' and keep going until they reach the Sun."
+    }
+   ],
+   "need": [
+    "paper and a pencil",
+    "2 small cups with soil, or 2 small plates with wet cotton",
+    "40 methi seeds",
+    "a spoon"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Plants catch sunlight",
+   "goal": "Learn how producers make food from light, air and water, and act out the path of energy.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Check the seeds",
+     "mins": 5,
+     "do": "Look at both cups of Experiment e1 and water them the same way. Ask: 'Have the seeds in the dark sprouted too? How can they grow with no light?' Listen to the guess. Say: 'Keep that question. We will answer it in two days.' If nothing has sprouted yet, that is normal in cool weather. Check again tomorrow.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "How a leaf makes food",
+     "mins": 12,
+     "do": "Hold up a leaf from a potted plant. Say: 'Green plants are producers. They make their own food. The leaf takes in water from the roots and a gas called carbon dioxide from the air. It uses the energy of sunlight to join them into sugar. It gives out oxygen, the gas we breathe in. This is called photosynthesis.' Ask: 'So what is the tree's trunk built from?' Let your child guess. Most people say soil. Say: 'Scientists weighed it. A plant's body is built mostly from air and water. The soil gives only small amounts of minerals.' Then add: 'A plant also uses some of the sugar to stay alive, just as you use your food. In 1939, Kamala Sohonie, the first Indian woman to earn a PhD in science, found that plant cells use a substance called cytochrome C to release energy from food, as animal cells do.' Ask: 'So is a plant only a food factory, or is a plant also living their own life?'"
+    },
+    {
+     "kind": "act",
+     "title": "Which way do the leaves face?",
+     "mins": 10,
+     "do": "Stand by a potted plant near a window. A plant's problem is that light comes from one side, and a leaf in shade makes little food. Ask your child to look: 'Which way are most leaves facing? Are the leaves on top covering the ones below?' Good answers: towards the window, and the leaves are spread out so they don't shade each other much. Then turn the pot half way round, so the leaves face the room. Mark the pot with a pencil line on the side facing the window. Say: 'Check in three or four days. If the leaves have turned back towards the window, the plant has sensed where the light is and moved to catch more of it.'"
+    },
+    {
+     "kind": "act",
+     "title": "Dance: from the Sun to the soil",
+     "mins": 13,
+     "do": "Act out the path of energy with the whole family, or with soft toys standing in for extra people. One person is the Sun and holds a yellow cloth or dupatta, which is the energy. The Sun passes it to the Leaf, who stretches out wide to catch it. The Leaf passes it to the Caterpillar, who wriggles. The Caterpillar passes it to the Bulbul, who flaps. When the Bulbul dies, she lies down and the Mould spreads over her, wiggling fingers. At every pass, the dancer shakes out a corner of the cloth and says 'Some turns to heat!' Play it three times, with your child as a different dancer each time. Ask: 'Where did the cloth start every time?' (With the Sun.) 'What did each dancer do with some of the energy?' (Used it to move, and some turned to heat.)"
+    },
+    {
+     "kind": "review",
+     "title": "Say it back",
+     "mins": 5,
+     "do": "Ask your child to explain photosynthesis to another family member in three sentences, without using the word 'stuff'. Good answer: 'A leaf takes in water and carbon dioxide. It uses the energy of sunlight to make sugar. It gives out oxygen.' Ask the listener to ask one question, and let your child answer it."
+    }
+   ],
+   "need": [
+    "the methi cups",
+    "a potted plant near a window",
+    "a pencil",
+    "a yellow cloth or dupatta"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Food chains are paths for energy",
+   "goal": "Sort consumers, draw food chains that show where the energy goes, and draw a kolam that feeds small creatures.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Trace your breakfast",
+     "mins": 5,
+     "do": "Ask your child to list everything they ate for breakfast. For each food, ask: 'Which plant did this come from? Or which animal, and what did that animal eat?' Good answers: dosa from rice and urad dal plants, coconut chutney from a coconut palm, curd from a cow who ate grass. Say: 'Every food on the list goes back to a plant. And every plant caught sunlight.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Herbivores, carnivores, omnivores and arrows",
+     "mins": 12,
+     "do": "Say: 'Living things that cannot make their own food are consumers. They get energy by eating. A herbivore eats only plants, like a cow or a grasshopper. A carnivore eats only animals, like a tiger or a spider. An omnivore eats both, like a crow, a sloth bear and most people.' Draw a food chain: grass → grasshopper → frog → snake → eagle. Say: 'The arrow points from the food to the eater. It shows which way the energy moves.' Ask your child to draw two more chains, one from a rice field and one from a pond, with every arrow pointing to the eater. Good chains: rice plant → rat → rat snake → owl, and algae → mosquito larva → small fish → kingfisher. If an arrow points the wrong way, ask: 'Who is eating whom here?'"
+    },
+    {
+     "kind": "act",
+     "title": "A kolam that feeds",
+     "mins": 12,
+     "do": "Do Activity a2. At the front door or on the balcony floor, your child draws a small kolam with dry rice flour: four rows of four dots, then lines and loops around them. Say: 'In Tamil Nadu and in many other places, people draw kolam with rice flour every morning. Many say it is to feed ants, birds and other small creatures.' Ask: 'Who do you think will come to eat it? Where will the energy in the rice flour go?' Write the guess on a sticky note by the kolam.",
+     "ref": "a2"
+    },
+    {
+     "kind": "act",
+     "title": "Start the project: sunlight on our plate",
+     "mins": 8,
+     "do": "Start the project. Rule a page into three columns: 'Meal', 'Food from plants' and 'Food from animals'. Fill in today's lunch together. For each animal food, write what the animal ate: curd, from a cow, who ate grass. Count the steps from the Sun: rice is one step (Sun → rice → you), and curd is two steps (Sun → grass → cow → you). Say: 'Every day this week, fill in one meal. At the end we'll see how many steps from the Sun our family eats.'"
+    },
+    {
+     "kind": "review",
+     "title": "Who came to the kolam?",
+     "mins": 8,
+     "do": "After about an hour, go back to the kolam with a magnifying glass if you have one. Count any ants on the kolam and look for bird footprints or gaps in the lines. Ask your child to draw a food chain that starts with the rice plant and includes whoever came. Good answer: rice plant → ant → house lizard. If no one has come, say: 'Ants may find it tonight. We'll look again tomorrow morning.' If ants come in a line, say: 'One ant found it and left a scent trail for others to follow.'"
+    }
+   ],
+   "need": [
+    "paper and coloured pencils",
+    "a bowl of dry rice flour",
+    "a magnifying glass if you have one"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Where does the energy go?",
+   "goal": "See why each step of a food chain passes on only a little energy, and check the seedlings.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Light and dark seedlings",
+     "mins": 5,
+     "do": "Bring out both cups of Experiment e1. Measure the tallest three seedlings in each with a ruler and write the heights down. Ask: 'What is different?' Usually the dark ones are pale yellow, tall and thin, and the light ones are green, shorter, with open leaves. Now answer Day 2's question. Say: 'Each seed holds a small store of food that the parent plant made with sunlight. The dark seedlings grew on that store. Without light they can't make more, so they grow tall, looking for light. They have also not made the green colour, called chlorophyll, that catches light.' Put the dark cup on the windowsill too. Ask: 'What do you think will happen by tomorrow?' (They start turning green.)",
+     "ref": "e1"
+    },
+    {
+     "kind": "act",
+     "title": "Run and feel the heat",
+     "mins": 8,
+     "do": "Do Activity a3. Your child counts their breaths for 30 seconds while sitting still. Then they run on the spot as fast as they can for one minute. Straight away, count breaths again, and ask them to touch their cheeks and the back of their neck. Ask: 'Where did the energy for running come from?' (My food.) 'Where is it going now?' (Into heat. I feel hot.) Say: 'Running used energy from your food, and most of it turned into heat. That heat spreads into the air of the room. No one who ate you could ever get it back.'",
+     "ref": "a3"
+    },
+    {
+     "kind": "act",
+     "title": "One hundred grains",
+     "mins": 12,
+     "do": "Do Activity a4. Count 100 grains of rice onto a plate labelled 'Grass'. Say: 'Each grain is one unit of energy that the grass caught from the Sun.' A grasshopper eats the grass, but uses most of the energy to live, and some is never eaten. Your child moves 90 grains into a bowl labelled 'Used for living, turned to heat', and 10 onto a plate labelled 'Grasshopper'. Then a frog eats grasshoppers: move 9 into the heat bowl and 1 onto the 'Frog' plate. Ask: 'A snake eats frogs. How much will the snake get?' (A tenth of one grain.) Say: 'This drawing of less and less at each step is called the energy pyramid. Indian tiger scientists such as K. Ullas Karanth estimate that one tiger needs about 500 deer and other prey animals alive in the forest, and they need huge meadows of grass.' Ask: 'Who depends on whom more: the tiger on the grass, or the grass on the tiger?'",
+     "ref": "a4"
+    },
+    {
+     "kind": "talk",
+     "title": "The young scientist who measured the lake",
+     "mins": 10,
+     "do": "Read Voice v1 aloud: the story of Raymond Lindeman. Say: 'He measured what we just did with rice grains, but in a real lake.' Ask the voice's question: 'The reviewers said Lindeman had too little data. When is it right to say we need more evidence, and when might that stop a good idea?' Good answers: it is right when a claim is big and the data is small. It can stop a good idea if nobody lets the scientist test it further. Add: 'The real share passed on is often between one twentieth and one fifth. One tenth is an easy number to remember.'",
+     "ref": "v1"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "do": "Your child does Worksheet ws1 alone, on paper or in the app. Then go through it together. For each wrong answer, ask them to explain their thinking first, then use the rice grains or the seedlings to show the right answer.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "the methi cups",
+    "a ruler",
+    "a cup of rice",
+    "4 plates and a bowl",
+    "labels",
+    "Worksheet ws1"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The forest that keeps its leaves",
+   "goal": "Hear the story, learn what decomposers do, and see that materials go round while energy passes through once.",
+   "steps": [
+    {
+     "kind": "read",
+     "title": "Story: The Leaf I Did Not Take",
+     "mins": 12,
+     "do": "Look at the kolam first: what is left, and who came overnight? Then read the story aloud without explaining it. Ask: 'Why did Iba not let Meera take the leaf?' and 'What did Meera find when she pushed her fingers into the ground?' Listen to the answers. Don't correct them yet."
+    },
+    {
+     "kind": "talk",
+     "title": "Decomposers, and what goes round",
+     "mins": 12,
+     "do": "Say: 'Every living thing dies in the end. Decomposers feed on the dead plants and animals. They are fungi, like mould and mushrooms, and bacteria, too small to see. Earthworms and millipedes help by chewing dead leaves into small pieces.' Ask: 'What happens to the leaf after the decomposers eat it?' Good answer: it becomes soil, and the tree takes it in again through the roots. Then draw two pictures side by side. On the left, draw a circle: tree → leaf → decomposers → soil → tree. Say: 'The materials go round and round, for ever.' On the right, draw a straight line: Sun → leaf → millipede → bird → heat, going off the page. Say: 'Energy passes through only once. It leaves as heat. That is why life needs fresh sunlight every single day.' Finally say: 'All the living things of one place, together with its light, air, water and soil, are called an ecosystem. The Mawphlang forest is an ecosystem. So is a pond, or the pots on our balcony.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the chapati test",
+     "mins": 10,
+     "do": "Set up Experiment e2. Take three small pieces of chapati or bread. Sprinkle each with a few drops of water, except one. Put a damp piece in a closed box on the kitchen shelf, a dry piece in a second closed box next to it, and a damp piece in a closed box in the fridge. Label them. Ask: 'Which one will the decomposers eat first? Why?' Write the guesses on the labels. Say: 'Tiny spores of mould are floating in the air of every home. We will see which piece they grow on.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "think",
+     "title": "A world where nothing rots",
+     "mins": 6,
+     "do": "Ask: 'Imagine that from tomorrow, nothing ever rots. What would the world look like in one year?' Let your child think aloud. Good answers: dead leaves and bodies would pile up everywhere. The soil would run out of what plants need, and plants would grow less. Then everything that eats plants would go hungry. Then ask: 'Why do you think the Mawphlang forest has a rule that nothing is taken out, not even a dead leaf?'"
+    },
+    {
+     "kind": "review",
+     "title": "Draw the two pictures",
+     "mins": 5,
+     "do": "Your child draws the circle of materials and the line of energy in their notebook from memory, with labels. Check that the energy line starts at the Sun and ends with heat, and the circle has no beginning and no end."
+    }
+   ],
+   "need": [
+    "the story",
+    "paper and pencils",
+    "3 small pieces of chapati or bread",
+    "3 small boxes with lids",
+    "labels"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Nature in our daily life and art",
+   "goal": "Find the plants in Indian festivals, homes and art, make a haldi dye that changes colour, and paint an ecosystem in Warli style.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Look at the chapati boxes",
+     "mins": 5,
+     "do": "Look at the three boxes of Experiment e2 through the lids, without opening them. Ask: 'Has anything grown? On which piece? What colour is it?' Your child draws what they see. Fuzzy white, green or black spots are mould. If nothing has grown yet, that is normal, especially in cool weather. Look again on Day 8.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Trees and flowers we live with",
+     "mins": 10,
+     "do": "Talk about four plants, and for each one say the plant's own problem first, then how people use it. 1. Neem. Insects want to eat neem leaves. Neem makes bitter chemicals, such as azadirachtin, that keep many insects away. So families put dry neem leaves in rice and dal tins to keep weevils out. 2. Palash, the 'flame of the forest'. Palash trees flower in spring. The bright orange flowers are full of nectar, and birds come to drink their nectar and carry the pollen. People boil the flowers to make a natural orange colour. 3. Neelakurinji, a shrub of the hills of Kerala and Tamil Nadu. The plants on a hillside flower all together, only about once every 12 years, and turn the hills blue. The last big flowering around Munnar was in 2018. 4. Banana. Its leaves are big and waterproof. In South India, a meal on a banana leaf is common, and afterwards the leaf goes to a cow or onto the compost. Ask: 'Which plants does our family use, and for what?' Write a list."
+    },
+    {
+     "kind": "act",
+     "title": "Haldi dye that changes colour",
+     "mins": 15,
+     "do": "Do Activity a5. Stir 1 teaspoon of haldi into half a cup of warm water. Dip a strip of white cotton cloth in it for 10 minutes, then squeeze it and hang it to dry. While it dries, paint a stripe of the haldi water on white paper. When the paper stripe is dry, your child dabs a little soapy water or cooking-soda water on one end. Ask first: 'What will happen?' It turns red-brown. Then dab lemon juice on that red patch. It turns back towards yellow. Say: 'The yellow colour in haldi is a substance called curcumin. It turns red-brown in soapy water and yellow again in lemon juice. Dyers have used colours from plants for thousands of years.'",
+     "ref": "a5"
+    },
+    {
+     "kind": "act",
+     "title": "Paint an ecosystem in Warli style",
+     "mins": 15,
+     "do": "Do Activity a6. Say: 'Warli painters of Maharashtra paint village life with white rice paste on walls of red-brown mud, using circles, triangles and lines.' Your child paints in white on brown paper. They show the Sun as a circle, trees, people as two triangles touching at the tips, animals, a kolam, and the decomposers under the ground. Ask them to add arrows showing where the energy goes, from the Sun to the trees and on to the eaters. Ask: 'Where does the energy leave your painting?' (As heat, into the air.)",
+     "ref": "a6"
+    }
+   ],
+   "need": [
+    "the chapati boxes",
+    "1 teaspoon of haldi",
+    "a strip of white cotton cloth",
+    "a cup of warm water",
+    "soapy water or a pinch of cooking soda in water",
+    "half a lemon",
+    "brown paper or brown chart paper",
+    "white paint or rice flour mixed with water",
+    "a thin brush or a matchstick"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Medicine plants: how do we know a remedy works?",
+   "goal": "Survey the family's plant remedies, and find out how scientists test whether a remedy really works.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Our family's plant remedies",
+     "mins": 10,
+     "do": "Do Activity a7. Your child asks two grown-ups in the family, in person or on the phone: 'When someone is ill, which plants do you use, and for what?' They write each answer in a table: plant, which part, used for, who told you. Common answers: tulsi leaves or karpooravalli leaves for a cough, ginger for a cold, ajwain for a stomach ache, haldi in milk or on a cut, aloe vera on a burn. Ask: 'How sure is each person that it works? How do they know?'",
+     "ref": "a7"
+    },
+    {
+     "kind": "talk",
+     "title": "Tu Youyou and the old book",
+     "mins": 12,
+     "do": "Read Voice v2 aloud: Tu Youyou and the sweet wormwood. Ask: 'Why did the old book give her the idea to keep the medicine away from heat?' Good answer: the book said to soak the plant in cold water, and boiling may have destroyed the medicine. Then ask the voice's question: 'Her team tested hundreds of remedies and most did not work. Why test many remedies carefully, instead of trusting the oldest or most famous one?' Good answer: old and famous does not mean it works. Only a test shows which ones really do.",
+     "ref": "v2"
+    },
+    {
+     "kind": "talk",
+     "title": "Does haldi cure everything?",
+     "mins": 10,
+     "do": "Read Voice v3 aloud: the curcumin debate. Then design a fair test together for one remedy from your family's list. Ask: 'If we give ginger to people with colds, and they get better in a week, does that prove ginger works?' Good answer: no, because colds get better by themselves. Say: 'A fair test has two groups. One gets the remedy. The other gets a placebo, a look-alike with no remedy in it. Nobody knows who got which until the end, because believing you got medicine can make you feel better.' Ask your child to say which group they would put in which room, and what they would measure.",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 13,
+     "do": "Your child does Worksheet ws2 alone. Then talk through the two written answers together. Ask: 'What evidence would make your answer stronger?'",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "paper for the remedy table",
+    "a phone, if a grown-up lives elsewhere",
+    "Worksheet ws2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Sharing a forest, and living so it lasts",
+   "goal": "Learn about sacred groves and sustainable living, test how a clay pot cools water, and play the Grove Keepers game.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Set up the wet-cloth cooler",
+     "mins": 8,
+     "do": "Set up Experiment e3 at the start of today's session. Fill two steel tumblers with the same tap water. Wrap one in a wet cotton handkerchief and the other in a dry one. Stand both under a running fan. Ask: 'In 40 minutes, will the water in both be the same? If not, which will be cooler, and why?' Write the guess down. Say: 'A matka works in a similar way. We'll come back to these at the end of today.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Sacred groves",
+     "mins": 10,
+     "do": "Say: 'All over India, communities protect small forests where trees are not cut. In Kerala they are called kavu, in Karnataka devara kadu, in Maharashtra devrai, and in Meghalaya law kyntang, like the Mawphlang forest in the story.' Read Voice v4 aloud: Madhav Gadgil and V. D. Vartak. Then ask the voice's question: 'A grove is protected because people believe it is sacred, not because of a science rule. Does the reason matter, if the trees are saved? What might happen if the belief fades?' Let your child give a reason for their answer.",
+     "ref": "v4"
+    },
+    {
+     "kind": "game",
+     "title": "Play The Grove Keepers",
+     "mins": 17,
+     "do": "Play Game g1, The Grove Keepers, with the whole family. Everyone is on the same side. Before you start, read the two rule cards aloud. After the game, ask: 'When did the grove shrink fastest? What helped it grow back? Was there a moment when one family's need and the grove's future pulled in different directions?' Say: 'Using things no faster than nature can grow them back is called sustainable living.'",
+     "ref": "g1"
+    },
+    {
+     "kind": "exp",
+     "title": "Cooler results, and homes that work with the Sun",
+     "mins": 7,
+     "do": "Go back to Experiment e3. Your child dips a finger in each tumbler, or uses a kitchen thermometer if you have one. Usually the water under the wet cloth is clearly cooler. Say: 'The water in the wet cloth evaporates, and evaporating takes heat from the tumbler. A clay matka is full of tiny holes, so water seeps out and does the same thing. Thick mud walls keep homes cool too, because they warm up slowly in the day.' Then add: 'Cochin International Airport in Kerala became the first airport in the world to run fully on solar power, in 2015. Modhera, in Gujarat, was named India's first solar-powered village in 2022.' Ask: 'What is one thing in our home that could use the Sun's energy directly?' Good answers: drying clothes, a solar water heater, a solar lamp.",
+     "ref": "e3"
+    },
+    {
+     "kind": "review",
+     "title": "Chapati boxes, last look",
+     "mins": 3,
+     "do": "Look at the chapati boxes of Experiment e2 through the lids. Which piece has the most mould? Was the guess right? Then throw the closed boxes in the dustbin without opening them, or ask a grown-up to empty them outside, away from your face.",
+     "ref": "e2"
+    }
+   ],
+   "need": [
+    "2 steel tumblers",
+    "2 cotton handkerchiefs",
+    "a fan",
+    "a kitchen thermometer if you have one",
+    "the printed Grove Keepers cards, cut out",
+    "30 small paper squares for trees",
+    "paper for tally marks",
+    "the chapati boxes"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Check and teach it back",
+   "goal": "Finish the project, do the challenge worksheet, answer the check questions and teach the whole path of energy to the family.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Project report: sunlight on our plate",
+     "mins": 8,
+     "do": "Your child counts how many foods on their project sheet were one step from the Sun (plants) and how many were two steps (animal foods). They draw two bars. Ask: 'Which kind of food did our family eat more of? Why does it take more land to feed someone two steps from the Sun?' Good answer: only about a tenth of the energy passes on at each step, so an animal needs to eat a lot of plants to make a little food for us."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Your child does Worksheet ws3. The written questions have no single right answer. Ask them to give a reason for every answer, using something they saw or did this week.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time. Let your child answer in their own words before you read the answer. Mark which ones need another look, and go back to that day's activity for those."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 15,
+     "do": "Your child teaches the family the path of energy, using their own things: the Warli painting, the seedlings, the rice-grain plates and the circle and line from Day 5. They must explain: where energy comes from, what producers, consumers and decomposers do, why there are few tigers, what goes round and what passes through once, and one way our family lives with nature. The listeners ask one question each. End by asking your child: 'What surprised you most this week?'"
+    }
+   ],
+   "need": [
+    "the project sheet",
+    "Worksheet ws3",
+    "the Warli painting, the seedlings and the rice-grain plates"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Energy from the Sun, along a food chain",
+   "day": 4,
+   "sections": [
+    [
+     "A. Energy and producers",
+     [
+      {
+       "t": "mcq",
+       "p": "A ceiling fan is turning. Where did the fan get its energy just before?",
+       "opts": [
+        "electricity in the wires",
+        "the air in the room",
+        "the fan's own blades"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Is it a producer or a consumer?",
+       "items": [
+        "neem tree",
+        "cow",
+        "tulsi plant",
+        "crow",
+        "rice plant",
+        "house lizard",
+        "money plant",
+        "you"
+       ],
+       "cats": [
+        "producer",
+        "consumer"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Green plants make sugar from water and carbon dioxide, using the energy of light. This is called ____.",
+       "a": [
+        "photosynthesis"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi grew methi seeds in a dark cupboard. They sprouted, but came up yellow and thin. How could they grow at all?",
+       "opts": [
+        "They used food stored inside the seed",
+        "They made food in the dark",
+        "They took food from the cupboard"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Food chains",
+     [
+      {
+       "t": "match",
+       "p": "Match each word to what it means.",
+       "pairs": [
+        [
+         "producer",
+         "makes their own food from light"
+        ],
+        [
+         "herbivore",
+         "eats only plants, like a cow"
+        ],
+        [
+         "carnivore",
+         "eats only animals, like a tiger"
+        ],
+        [
+         "omnivore",
+         "eats plants and animals, like a crow"
+        ],
+        [
+         "decomposer",
+         "feeds on dead things and turns them to soil"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which food chain has the arrows pointing the right way?",
+       "opts": [
+        "grass → grasshopper → frog",
+        "frog → grasshopper → grass",
+        "grasshopper → grass → frog"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "In a food chain, each arrow points from the food to the ____.",
+       "a": [
+        "eater",
+        "consumer"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "The grass in a field holds 1,000 units of food energy. About how much passes on to the grasshoppers that eat it?",
+       "opts": [
+        "about 100 units",
+        "about 1,000 units",
+        "about 900 units"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "After you run, you feel hot. Where was that energy before it was in your food? Where does it go now?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A forest has thousands of deer but only a few tigers. Explain why, using what happened to the rice grains.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Following energy and testing remedies",
+   "day": 7,
+   "sections": [
+    [
+     "A. Back to the Sun",
+     [
+      {
+       "t": "mcq",
+       "p": "Farhan eats a boiled egg. Which chain shows where the egg's energy came from?",
+       "opts": [
+        "Sun → grain → hen → egg → Farhan",
+        "hen → Sun → egg → Farhan",
+        "Farhan → egg → hen → grain"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Most of India's electricity comes from burning coal. What was coal, long ago?",
+       "opts": [
+        "plants that grew in swamps hundreds of millions of years ago",
+        "rocks that were always black",
+        "electricity that went hard"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Did the energy come from the Sun?",
+       "items": [
+        "a solar panel",
+        "an idli",
+        "firewood",
+        "petrol in a scooter",
+        "a nuclear power station that splits uranium atoms"
+       ],
+       "cats": [
+        "came from the Sun",
+        "did not come from the Sun"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Decomposers and ecosystems",
+     [
+      {
+       "t": "fill",
+       "p": "Mould, mushrooms and many bacteria feed on dead things and break them down. They are called ____.",
+       "a": [
+        "decomposers",
+        "decomposer"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Kavya put a damp piece of chapati in a closed box on the kitchen shelf, and another damp piece in a closed box in the fridge. Mould grew on the shelf piece first. Why?",
+       "opts": [
+        "Mould grows faster where it is warm",
+        "The fridge has more food in it",
+        "Mould needs bright light"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each part of a forest ecosystem to what it does.",
+       "pairs": [
+        [
+         "sunlight",
+         "gives leaves the energy to make food"
+        ],
+        [
+         "rain",
+         "gives roots water"
+        ],
+        [
+         "fallen leaves",
+         "feed the decomposers"
+        ],
+        [
+         "fungi and bacteria",
+         "turn dead leaves into soil"
+        ],
+        [
+         "trees",
+         "give food and homes to animals"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Fair tests and plants",
+     [
+      {
+       "t": "mcq",
+       "p": "Scientists want to test a cough remedy fairly. Which test is fairest?",
+       "opts": [
+        "Half the people get the remedy and half get a look-alike, and nobody knows who got which",
+        "Everyone gets the remedy, then says if they feel better",
+        "Only people who believe in the remedy try it"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Why do many families put dry neem leaves in their rice tin?",
+       "opts": [
+        "Neem's bitter chemicals keep weevils away",
+        "Neem makes rice cook faster",
+        "Neem leaves add flavour to rice"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Tu Youyou, a scientist in China, read in a 1,600-year-old book that sweet wormwood should be soaked in cold water. Why did that make her try to get the medicine out without heating it?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Neem's bitter chemicals keep many insects from eating the neem tree's leaves. How does this help the tree? How do people use the same chemicals?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Puzzles about energy and sharing",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "Almost 400 years ago, Jan van Helmont, a scientist in what is now Belgium, grew a willow tree in a pot of soil for 5 years. The tree gained about 74 kilograms. The soil lost only about 60 grams. Where did most of the tree's new body come from?",
+       "opts": [
+        "the air and the water",
+        "the soil",
+        "the pot"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Scientists give every living thing a number for how far up the food chain they eat. Plants are 1, plant-eaters are 2. People came out at about 2.2. Why so low?",
+       "opts": [
+        "Most of what people eat is plants, such as rice, wheat and dal",
+        "People eat a lot of tigers",
+        "People make their own food from light"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Energy is never made or destroyed. At each step of a food chain, most of it leaves the living things as ____.",
+       "a": [
+        "heat"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "If every decomposer in a forest disappeared, what would happen?",
+       "opts": [
+        "Dead leaves and bodies would pile up, and the soil would slowly run short of what plants need",
+        "The trees would grow faster",
+        "Nothing would change"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Is it sustainable, so it could go on for ever, or not?",
+       "items": [
+        "picking a few leaves each week from a big curry-leaf plant",
+        "cutting a tree a day from a small grove",
+        "collecting rainwater from the roof",
+        "pumping out more groundwater each year than the rain puts back",
+        "drying clothes in the sun",
+        "buying a new plastic water bottle every day"
+       ],
+       "cats": [
+        "sustainable",
+        "not sustainable"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. What do you think?",
+     [
+      {
+       "t": "write",
+       "p": "The Mawphlang forest in Meghalaya has a rule: nothing may be taken out, not even a dead leaf. Using what you know about decomposers, give one way the rule helps the forest.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "A sacred grove is protected because people believe it is sacred. Scientists found it also saves rare plants. Does the reason matter, if the trees are saved? What might happen if the belief fades?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Curcumin, the yellow substance in haldi, has been studied in thousands of papers, but no big fair test has shown that it cures a disease. What evidence would convince you that it works?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Seeds in the light and in the dark",
+   "day": 1,
+   "question": "Do seedlings need light to grow well, and what happens to them without it?",
+   "need": [
+    "2 small cups with soil from a pot, or 2 small plates with wet cotton",
+    "40 methi seeds from the kitchen",
+    "a spoon for watering",
+    "a ruler",
+    "a sunny windowsill and a cupboard that closes"
+   ],
+   "steps": [
+    "Sow 20 methi seeds in each cup, pressed just under the soil, or spread on the wet cotton.",
+    "Water both with the same number of spoons of water.",
+    "Put one cup on a sunny windowsill. Put the other in a closed cupboard.",
+    "Every day, water both the same way. Open the cupboard only for a few seconds.",
+    "After 4 days, measure the three tallest seedlings in each cup, and look at their colour and leaves.",
+    "Then put the dark cup on the windowsill too, and look again the next day."
+   ],
+   "predict": "Ask: 'What will the seedlings in the dark look like in four days? Will they grow at all? Why do you think so?' Write the guesses down.",
+   "observe": "Both cups sprout, usually in 1 to 2 days in warm weather. The dark seedlings are pale yellow, taller and thinner, with small closed leaves. The light seedlings are green, shorter and sturdier, with open leaves, and often bend towards the window. A day after moving to the light, the yellow seedlings start to turn green. In cold weather everything is slower, so give it a few more days.",
+   "why": "A seed carries a small store of food that the parent plant made with sunlight. Both cups grew on that store at first. The dark seedlings could not make more food, so they grew tall and thin, searching for light. A plant makes chlorophyll, the green substance that catches light, only once light reaches it. That is why the dark seedlings were yellow, and why they turned green in the window. If they stayed in the dark, they would die once the seed's store ran out. Light is the energy every producer needs.",
+   "safety": "No special safety needs. Wash hands after handling soil.",
+   "time": "12 min + 1 min a day for 4 days"
+  },
+  {
+   "id": "e2",
+   "title": "Who eats the chapati?",
+   "day": 5,
+   "question": "Do decomposers need water and warmth to break food down?",
+   "need": [
+    "3 small pieces of chapati or bread, each about the size of a matchbox",
+    "3 small boxes with lids, or 3 small zip bags",
+    "a few drops of water",
+    "labels A, B and C"
+   ],
+   "steps": [
+    "Box A: sprinkle a piece with a few drops of water, close it and put it on the kitchen shelf.",
+    "Box B: put a dry piece in, close it and put it next to box A.",
+    "Box C: sprinkle a piece with a few drops of water, close it and put it in the fridge.",
+    "Look at each box through the lid, without opening it, every two or three days for about a week.",
+    "Draw what you see each time: colour, size and where the mould is."
+   ],
+   "predict": "Ask: 'Which piece will the mould grow on first? Which will stay clean longest? Why do you think so?' Write the guesses on the labels.",
+   "observe": "Usually box A gets fuzzy white, green or black mould first, often in 3 to 5 days in warm weather. Box B stays clean longer because the piece dries out. Box C changes slowly or not at all. In a cold month, wait a few more days.",
+   "why": "Mould is a fungus, a decomposer. Tiny mould spores float in the air of every home and land on everything. When a spore lands on damp, warm food, they grow threads into the food and feed on it, breaking it down. Water and warmth speed this up. Cold slows it down, which is why a fridge keeps food fresh longer. In a forest, mould and other fungi do the same to fallen leaves, and what is left becomes soil.",
+   "safety": "Never open the mouldy boxes or smell them. Mould spores can make some people ill, especially people with asthma. At the end, throw the boxes away closed, or let a grown-up empty them outside.",
+   "time": "10 min + a look every 2 or 3 days for a week"
+  },
+  {
+   "id": "e3",
+   "title": "The wet-cloth cooler",
+   "day": 8,
+   "question": "How can water stay cool without a fridge?",
+   "need": [
+    "2 steel tumblers of the same size",
+    "tap water",
+    "2 cotton handkerchiefs",
+    "a fan",
+    "a kitchen thermometer if you have one"
+   ],
+   "steps": [
+    "Fill both tumblers with the same amount of the same tap water.",
+    "Wet one handkerchief and squeeze it so it is not dripping. Wrap it round one tumbler.",
+    "Wrap the dry handkerchief round the other tumbler, so both are covered.",
+    "Stand both tumblers side by side under a running fan.",
+    "After about 40 minutes, dip a finger into each, or measure each with a thermometer."
+   ],
+   "predict": "Ask: 'After 40 minutes, will both be the same? If not, which will be cooler, and why?' Write the guess down.",
+   "observe": "The water in the tumbler with the wet cloth is usually clearly cooler, often by a few degrees. The wet cloth feels cold and starts to dry out. On a very humid, rainy day the difference is smaller.",
+   "why": "Water in the wet cloth evaporates: it turns from liquid into water vapour in the air. To evaporate, water needs heat energy, and it takes that heat from the cloth, the tumbler and the water inside. So the water cools. Moving, dry air makes evaporation faster. A clay matka works the same way, because baked clay is full of tiny holes and water slowly seeps to the outside and evaporates. This keeps water cool with no electricity at all.",
+   "safety": "Keep fingers and the cloth away from the fan blades.",
+   "time": "8 min + 40 min wait + 5 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Energy chains back to the Sun",
+   "day": 1,
+   "mins": 13,
+   "need": [
+    "paper and a pencil"
+   ],
+   "steps": [
+    "Choose five things that use energy: the fan, the gas stove, today's idli or rice, your running legs, and firewood or a wooden chair.",
+    "For each, write what gives it energy, with an arrow.",
+    "Ask 'Where did that energy come from before that?' and add another arrow.",
+    "Keep going until you cannot go further.",
+    "Circle the last thing in every chain. Count how many end with the Sun."
+   ],
+   "outcome": "Five energy chains, almost all ending with the Sun. The gas comes from the remains of tiny sea creatures and plants buried long ago, so it also goes back to sunlight."
+  },
+  {
+   "id": "a2",
+   "title": "A kolam that feeds",
+   "day": 3,
+   "mins": 12,
+   "need": [
+    "a small bowl of dry rice flour",
+    "a clean patch of floor at the front door or on the balcony",
+    "a sticky note"
+   ],
+   "steps": [
+    "Make four rows of four dots with pinches of rice flour.",
+    "Let the flour fall between your thumb and finger to draw lines and loops around the dots.",
+    "Write your guess of who will come on a sticky note next to the kolam.",
+    "Look after one hour and again the next morning. Count any ants. Look for bird footprints and gaps in the lines.",
+    "If no one has come by the morning, put a pinch of sugar on one corner and look again in an hour."
+   ],
+   "outcome": "A kolam, and a food chain that starts with the rice plant and goes on to the ants or birds that came to eat it."
+  },
+  {
+   "id": "a3",
+   "title": "Run and feel the heat",
+   "day": 4,
+   "mins": 8,
+   "need": [
+    "a clock or phone timer"
+   ],
+   "steps": [
+    "Sit still and count your breaths for 30 seconds. Write the number.",
+    "Run on the spot as fast as you can for one minute.",
+    "Straight away, count your breaths for 30 seconds again.",
+    "Touch your cheeks and the back of your neck. Are they warmer?",
+    "Write one sentence about where the energy came from and where it went."
+   ],
+   "outcome": "Two breath counts and a sentence: the energy came from food and turned into movement and heat."
+  },
+  {
+   "id": "a4",
+   "title": "One hundred grains",
+   "day": 4,
+   "mins": 12,
+   "need": [
+    "100 grains of uncooked rice",
+    "3 plates labelled Grass, Grasshopper and Frog",
+    "a bowl labelled 'Used for living, turned to heat'"
+   ],
+   "steps": [
+    "Count 100 grains onto the Grass plate. Each grain is one unit of energy from the Sun.",
+    "Move 10 grains to the Grasshopper plate and the other 90 into the heat bowl.",
+    "Move 1 grain from the Grasshopper plate to the Frog plate and the other 9 into the heat bowl.",
+    "Work out how much a snake that eats the frog would get.",
+    "Draw the three plates as a pyramid: a wide step for grass, a smaller one for grasshoppers, a tiny one for frogs."
+   ],
+   "outcome": "An energy pyramid drawn from real counts: 100, 10, 1, and a tenth of a grain for the snake."
+  },
+  {
+   "id": "a5",
+   "title": "Haldi dye that changes colour",
+   "day": 6,
+   "mins": 15,
+   "need": [
+    "1 teaspoon of haldi",
+    "half a cup of warm water",
+    "a strip of white cotton cloth",
+    "white paper and a brush",
+    "soapy water, or a pinch of cooking soda in water",
+    "half a lemon"
+   ],
+   "steps": [
+    "Stir the haldi into the warm water.",
+    "Dip the cloth strip in it for 10 minutes, then squeeze it and hang it in the shade to dry.",
+    "Paint a stripe of haldi water on white paper and let it dry.",
+    "Dab soapy water or soda water on one end of the paper stripe. Watch the colour.",
+    "Dab lemon juice on the red patch. Watch again."
+   ],
+   "outcome": "A haldi-yellow cloth, and a paper stripe that turned red-brown with soap and went back towards yellow with lemon."
+  },
+  {
+   "id": "a6",
+   "title": "An ecosystem in Warli style",
+   "day": 6,
+   "mins": 15,
+   "need": [
+    "brown paper or brown chart paper",
+    "white poster paint, or rice flour mixed with a little water",
+    "a thin brush or a matchstick"
+   ],
+   "steps": [
+    "Paint the Sun as a circle at the top.",
+    "Paint trees, a kolam, animals, and people as two triangles touching at the tips, with stick arms and legs.",
+    "Under the ground, paint the decomposers: worms, mushrooms and tiny dots for bacteria.",
+    "Paint arrows from the Sun to the trees, and from each food to its eater.",
+    "Paint small wavy lines rising from the animals to show the heat leaving."
+   ],
+   "outcome": "A Warli-style painting of one ecosystem, showing where its energy comes from and where it goes."
+  },
+  {
+   "id": "a7",
+   "title": "Our family's plant remedies",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "paper with a table: plant, part used, used for, who told us, how sure they are"
+   ],
+   "steps": [
+    "Ask two grown-ups: 'When someone is ill, which plants do you use, and for what?'",
+    "Write each answer in the table.",
+    "Ask them how they know it works, and write what they say.",
+    "Circle one remedy you would like to test fairly."
+   ],
+   "outcome": "A table of the family's plant remedies, with one chosen for a fair-test plan."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Raymond Lindeman (1915–1942), USA",
+   "idea": "Lindeman spent years studying Cedar Bog Lake, a small lake in Minnesota. He measured the water plants, the tiny animals that ate them, and the fish and other animals that ate those. He argued that a food chain is a path along which energy flows. He tried to measure how much of the energy at each step passes on to the next, and found that only a small part does. Most is used for living and leaves as heat.",
+   "then": "When he sent his paper to the journal Ecology, the reviewers recommended rejecting it. They said it was too theoretical and based on too little data. His teacher, G. Evelyn Hutchinson, argued for it, and it was published in 1942. Lindeman had died of an illness a few months earlier, in his twenties.",
+   "now": "His paper is now one of the most famous in ecology. Scientists accept that energy flows along food chains and that much of it leaves as heat at each step. The share passed on varies, often between one twentieth and one fifth.",
+   "status": "accepted",
+   "ask": "The reviewers said Lindeman had too little data. When is it right to say 'we need more evidence', and when might that stop a good idea?",
+   "day": 4
+  },
+  {
+   "id": "v2",
+   "who": "Tu Youyou (born 1930), China",
+   "idea": "In 1969 Tu Youyou, a scientist who studied medicines from plants, was put in charge of a team searching traditional Chinese remedies for a new cure for malaria. The malaria parasite had stopped dying from the old medicines. Her team tested hundreds of remedies. A book written about 1,600 years ago by Ge Hong told people to soak sweet wormwood, called qinghao, in cold water and drink the juice. This gave her the idea that heat might be destroying the medicine, so she extracted it at a low temperature. In 1971 her team got an extract that cleared the parasite from infected mice and monkeys. Its active substance was named artemisinin.",
+   "then": "Her work was done in secret during a hard time in China, and for years few scientists outside China knew about it. She had no doctorate and had never trained abroad, and she was often passed over for honours in her own country.",
+   "now": "Medicines based on artemisinin are now the main treatment for malaria recommended by the World Health Organization, and have saved millions of lives. In 2015 she shared the Nobel Prize in Physiology or Medicine. Her story shows that an old remedy can give a useful clue, but only careful testing shows whether it works.",
+   "status": "accepted",
+   "ask": "Tu Youyou's team tested hundreds of remedies, and most did not work. Why test many remedies carefully, instead of trusting the oldest or most famous one?",
+   "day": 7
+  },
+  {
+   "id": "v3",
+   "who": "Kathryn Nelson, Michael Walters and colleagues, USA (2017), and the curcumin debate",
+   "idea": "Curcumin, the yellow substance in haldi, has been studied in thousands of scientific papers and is sold as pills for many illnesses. In 2017 a team of chemists led by Kathryn Nelson and Michael Walters reviewed the research. They argued that curcumin is a poor medicine: the body absorbs very little of it from food, it breaks down quickly, and in laboratory tests it reacts with many things, which can make experiments look more successful than they are.",
+   "then": "Their review surprised many people who thought curcumin was a proven cure. Some researchers disagreed, pointing to small studies in people that seemed to show it helped, for example with joint pain.",
+   "now": "No large, well-designed trial has yet shown that curcumin cures any disease. Some small trials suggest it may help a little with some problems, and research goes on. Haldi is a safe and valued spice in food. Whether curcumin pills work as medicine is still debated.",
+   "status": "debated",
+   "ask": "Thousands of papers say curcumin might work, but no big fair test has proved it. What matters more: the number of papers, or how good the tests are?",
+   "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "Madhav Gadgil (born 1942) and V. D. Vartak, India (sacred grove surveys, 1970s)",
+   "idea": "The ecologist Madhav Gadgil and the botanist V. D. Vartak surveyed the devrais, the sacred groves of the Western Ghats in Maharashtra, in the 1970s. They found that these small forests, protected for centuries by village belief, held old trees, rare plants and climbers that had vanished from the cut and grazed land around them. They argued that sacred groves are living records of the old forest, and that village traditions of protecting them are a real form of conservation.",
+   "then": "At that time, protecting forests in India was mostly seen as the forest department's job, and village customs were often dismissed as superstition. Their work helped scientists take local traditions seriously.",
+   "now": "Scientists accept that many sacred groves hold rare plants and animals, and that some protect springs and streams. Many thousands of groves have been recorded across India. Many have also shrunk as beliefs weaken and land is needed, and ecologists now work with communities to protect them.",
+   "status": "accepted",
+   "ask": "A grove is protected because people believe it is sacred, not because of a science rule. Does the reason matter, if the trees are saved? What might happen if the belief fades?",
+   "day": 8
+  }
+ ],
+ "project": {
+  "title": "Sunlight on our plate",
+  "days": [
+   3,
+   9
+  ],
+  "steps": [
+   "Day 3: rule a page into three columns: 'Meal', 'Food from plants' and 'Food from animals'. Fill in today's lunch.",
+   "For each animal food, write what the animal ate: curd, from a cow, who ate grass.",
+   "Write the number of steps from the Sun next to each food: 1 for a plant food, 2 for a food from a plant-eating animal, 3 for a fish that ate smaller fish.",
+   "Days 4 to 8: fill in one meal each day, a different meal each time.",
+   "Day 9: count the foods with 1 step and with 2 or more steps. Draw a bar for each and tell the family what you found."
+  ],
+  "outcome": "A week's record of the family's food, traced back to the Sun, with a bar chart of how many steps from the Sun the family eats."
+ },
+ "game": {
+  "id": "g1",
+  "title": "The Grove Keepers",
+  "kind": "cards",
+  "players": "2–5, all on the same side",
+  "need": [
+   "the cards, cut out",
+   "30 small paper squares, each a tree",
+   "paper and a pencil for ticks and crosses"
+  ],
+  "rules": [
+   "Put 20 tree squares in the middle. This is the village's grove. Keep the other 10 in a box.",
+   "Put the two rule cards face up. Shuffle the other cards and put them face down in a pile.",
+   "On your turn, take the top card, read it aloud and do what it says. When a card gives you a choice, talk it over, but the player whose turn it is decides.",
+   "Keep a row on the paper for each family. A tick means your family's need was met. A cross means your family went without.",
+   "When everyone has had a turn, the round ends and the grove grows, following the rule card.",
+   "After 6 rounds, check the win rule. Read the backs of the cards you played to see the real thing behind each one.",
+   "If the pile runs out, shuffle the used cards and keep going."
+  ],
+  "cards": [
+   {
+    "job": true,
+    "front": "RULE CARD: THE GROVE GROWS. At the end of every round, count the trees. 15 or more: add 3. 8 to 14: add 2. Fewer than 8: add 1. Never more than 30."
+   },
+   {
+    "job": true,
+    "front": "RULE CARD: WIN TOGETHER. After 6 rounds, everyone wins if the grove has at least 20 trees and no family has more than one cross."
+   },
+   {
+    "front": "Cooking fuel. Your family needs firewood. Take 2 trees and give yourself a tick.",
+    "back": "Firewood is still the main cooking fuel in many Indian villages."
+   },
+   {
+    "front": "Cooking fuel. Take 2 trees and give yourself a tick. If anyone in the village has a solar cooker card, take none.",
+    "back": "A solar cooker is a box with a black inside and a glass lid. It traps the Sun's energy and cooks dal and rice slowly, with no fuel."
+   },
+   {
+    "front": "Cooking fuel, cold winter. Take 2 trees and give yourself a tick, or collect fallen branches and take 1.",
+    "back": "Many forest villages let people collect fallen wood but not cut living trees."
+   },
+   {
+    "front": "Solar cooker. Your family builds one. Keep this card face up. From now on, the village takes no trees on Cooking fuel cards.",
+    "back": "Sunlight reaches us free every day. Using it directly takes nothing from the forest."
+   },
+   {
+    "front": "Good monsoon. Add 2 trees.",
+    "back": "Rain is what young trees need most to grow."
+   },
+   {
+    "front": "The monsoon fails. Take away 2 trees.",
+    "back": "In a dry year, young trees die first, because their roots are short."
+   },
+   {
+    "front": "A new roof. Take 3 trees for timber, or build with mud, bamboo and grass and take 1. Give yourself a tick.",
+    "back": "Mud walls and grass roofs keep homes cool, and bamboo and grass grow back fast."
+   },
+   {
+    "front": "A timber trader offers money for 6 trees. Everyone votes. If most say yes, take away 6 trees and each player gets a coin. Coins do not help you win.",
+    "back": "Shared or owned? A few families get money, but the whole village loses part of the grove."
+   },
+   {
+    "front": "A great hornbill nests in the oldest tree. If 15 or more trees stand, add 1 tree now.",
+    "back": "Great hornbills eat forest fruits and drop the seeds far away, so new trees grow. They need big old trees to nest in."
+   },
+   {
+    "front": "Fever in the family. You need leaves of a medicine plant. Pick leaves only: take no trees. Give yourself a tick.",
+    "back": "Picking some leaves lets the plant keep growing. Digging up the whole plant does not."
+   },
+   {
+    "front": "A plant hunter wants to dig up a whole medicine plant to sell in town. Say yes: take 1 tree and get a coin. Or say no.",
+    "back": "Many medicine plants have become rare because whole plants were dug up and sold."
+   },
+   {
+    "front": "A wedding feast. Serve on banana leaves from the village gardens: take no trees. Give yourself a tick.",
+    "back": "After the meal, banana leaves go to the cows or the compost, where decomposers turn them into soil."
+   },
+   {
+    "front": "Forest fire! Take away 3 trees. If the village has the firebreak card, take away only 1.",
+    "back": "A fire spreads fastest through dry fallen leaves and grass in the hot months."
+   },
+   {
+    "front": "Firebreak. The village clears a strip of ground round the grove. Keep this card face up. Fires now take only 1 tree.",
+    "back": "A firebreak is a cleared strip with nothing to burn, so a fire cannot cross it."
+   },
+   {
+    "front": "Plant saplings grown from the grove's own seeds. Add 2 trees.",
+    "back": "Seeds from the grove's own trees come from parents that already grow well in that soil and weather."
+   },
+   {
+    "front": "Honey. Collect honey from a wild hive and leave part of the comb: take no trees. Give yourself a tick.",
+    "back": "Careful honey collectors leave part of the comb, so the bees can stay and make more."
+   },
+   {
+    "front": "Festival flowers. Pick flowers only: take no trees. Give yourself a tick.",
+    "back": "Picking flowers leaves the tree standing, so next year the tree flowers again."
+   },
+   {
+    "front": "Goats get into the grove and eat the young saplings. Take away 1 tree.",
+    "back": "Grazing animals eat seedlings, so a grazed forest can have old trees but no young ones."
+   },
+   {
+    "front": "Water. Your family needs water from the grove's spring. If 15 or more trees stand, the spring is flowing: tick. If fewer, it is dry: cross.",
+    "back": "Trees and fallen leaves help rain soak into the ground, so springs near forests often keep flowing in the dry months."
+   },
+   {
+    "front": "Water. If 15 or more trees stand, the spring is flowing: tick. If fewer, it is dry: cross.",
+    "back": "Many sacred groves in India are found around springs and streams."
+   },
+   {
+    "front": "A storm broke houses in the next village. They ask for 2 trees. Give them 2 trees, or say no.",
+    "back": "Neighbouring villages often share in hard times. What would you do if you needed help next year?"
+   },
+   {
+    "front": "Dead leaves. A visitor wants to take a sackful of dead leaves home for their garden. Say yes: take away 1 tree. Or say no.",
+    "back": "Dead leaves are food for the decomposers that make the forest's soil. Take them away, and the soil slowly gets poorer."
+   }
+  ]
+ },
+ "story": {
+  "title": "The Leaf I Did Not Take",
+  "text": [
+   "The rule was painted on a board at the gate, and I read it twice because I thought I had read it wrong.",
+   "Nothing may be taken out of this forest. Not a stone. Not a flower. Not even a dead leaf.",
+   "We had come up from Chennai in the October holidays. Amma's friend from college, Iba, lived in Mawphlang, a village in the hills of Meghalaya, and she showed visitors around the sacred forest there. 'Our people, the Khasi, have looked after this forest for hundreds of years,' Iba said. 'Nobody cuts a tree here. Nobody takes anything out.'",
+   "I was nine, and I had a school project in my bag. It was a leaf collection: twenty different leaves, pressed flat in a notebook, each with its name. I had fourteen. I was hoping the forest would give me the other six.",
+   "Inside, it was dim and cool, even at noon. The trees were so old that moss grew up their trunks like green socks, and ferns sat in the forks of the branches. Small orchids hung from the bark. Old standing stones leaned together in a clearing, grey and spotted with lichen. The ground was soft and springy, like walking on a mattress.",
+   "Then I saw it. A leaf, lying on the path, almost as big as my face. It was red-brown, and its veins stood out like the lines on the back of my hand. It was perfect for page fifteen. I picked it up before I remembered the board.",
+   "'Meera,' Iba said, not loudly.",
+   "'But it's dead,' I said. 'It's already fallen. Nobody needs it.'",
+   "Iba did not argue. She crouched down on the path and patted the ground beside her. 'Put your hand flat here,' she said. 'Now push your fingers down. Slowly.'",
+   "I pushed. On top, the leaves were whole and crackly. A little lower, they were soft and full of holes, like lace. Some had fine white threads running across them. Lower still, there was no leaf at all, only dark, damp earth that crumbled between my fingers and smelled like the first rain. A millipede curled into a tight coil next to my thumb. A tiny shiny beetle ran away into the dark.",
+   "'Who made the holes?' I asked.",
+   "'All of them,' Iba said. 'The millipede, the beetles, the worms. And the white threads are a fungus. There are bacteria too, far too small to see. They are all eating. Every leaf that falls here is somebody's food.'",
+   "I looked at the big leaf in my hand. 'But the tree made this leaf,' I said. 'Why would the tree want it back?'",
+   "'The tree built that leaf out of air and water, using sunlight,' Iba said. 'But it also put in a little of the soil: the minerals the roots pulled up. The tree cannot make those. When the leaf falls, the eaters break it down, and the minerals go back into the soil. Then the roots take them up again, for new leaves.' She shrugged. 'If every visitor took one leaf home, the forest would slowly get poorer. Nobody would notice for a long time. Then one day the trees would be hungry.'",
+   "I turned the leaf over. Somewhere above me, in the green roof, this leaf had spent a whole summer catching sunlight and turning it into food. Now, on the ground, it was still food. The millipede would eat it, and the millipede would use that energy to walk about, and get warm, and one day a bird might eat the millipede. The energy would keep moving on, and leave a little warmth behind at every step. But the leaf itself, what it was made of, would go down into the dark earth and come back up the tree.",
+   "The leaf was not finished. It was halfway through.",
+   "I put it down on the path, exactly where I had found it, with the veins facing up.",
+   "Iba didn't say anything. She stood up and brushed the soil off her knees, and we walked on. Later she showed me a seedling, no taller than my finger, growing out of a rotten log. 'That log fell before I was born,' she said.",
+   "On the way out, at the gate, a man in a cap was reading the board. He had a small branch of red berries in his hand. Iba went over to him and spoke quietly in Khasi, and then in English, and he laughed in an embarrassed way and laid the branch on the ground just inside the gate.",
+   "Back in Chennai, I finished my project. It had nineteen pressed leaves, each with its name. On the twentieth page, I drew the big red-brown leaf from memory, as well as I could. Under it, I drew the layers I had felt with my fingers: whole leaves, lace leaves, threads, soil. I drew the millipede too.",
+   "My teacher, Mrs Kavitha, turned the pages and stopped at the drawing. 'Where is this one?' she asked. 'You need a real leaf for every page.'",
+   "'It's still in the forest,' I said. 'Something is eating it.'",
+   "She looked at the drawing for a long time. Then she gave me full marks anyway."
+  ],
+  "epiphany": "For the parent: the turn comes when Meera feels the layers under the forest floor and realises the fallen leaf is 'not finished, but halfway through'. The leaf's materials go round: down into the soil through the decomposers and back up into the tree. Its energy, caught from sunlight, passes on through the millipede and the bird and leaves as warmth at each step. The rule that nothing leaves the forest keeps the materials in the circle. Mawphlang's sacred forest and its rule are real. Meera, Iba, the visitor and Mrs Kavitha are made up.",
+  "ask": [
+   "Why did Meera think nobody needed the dead leaf?",
+   "What did Meera find when she pushed her fingers down into the ground?",
+   "What happens to the minerals in a fallen leaf? Where do they go next?",
+   "Where does the sunlight energy in the leaf go, step by step?",
+   "Why do you think the teacher gave Meera full marks, even with one leaf missing?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Almost all the energy of life comes from the Sun.",
+   "more": "Plants catch sunlight and store its energy in food. Every animal gets energy by eating plants, or by eating animals that ate plants. Even coal and the electricity it makes go back to plants that grew long ago."
+  },
+  {
+   "idea": "Materials go round, but energy passes through once.",
+   "more": "Decomposers return what dead things are made of to the soil, and plants use it again and again. Energy leaves as heat at every step, so life needs fresh sunlight every day. Show it with the circle and the line from Day 5."
+  },
+  {
+   "idea": "People can live well inside an ecosystem by taking no faster than it grows back.",
+   "more": "Sacred groves, kolam, banana-leaf plates, neem in the rice tin, mud walls, matkas and solar power all use nature without using it up. The Grove Keepers game shows what happens when we take faster than the grove can grow."
+  }
+ ],
+ "unknowns": [
+  "Neelakurinji plants on a hillside in Kerala and Tamil Nadu flower all together, only about once every 12 years. Scientists have ideas, such as making so many seeds at once that seed-eaters cannot eat them all, but nobody knows for sure why.",
+  "Most of the kinds of fungi and bacteria in a handful of forest soil have never been named. Nobody knows how many kinds there are.",
+  "Some food chains pass on about one twentieth of their energy at each step, and others about one fifth. Scientists are still working out all the reasons."
+ ],
+ "big": [
+  "A tiger needs huge forests of grass and deer, but grass does not need a tiger. Who depends on whom?",
+  "The warmth in your body right now was sunlight on a field a few months ago. Where will it go next?",
+  "Should a forest belong to anyone? Who should decide what is taken from it?",
+  "If something is natural, does that make it safe? If an idea is old, does that make it true?",
+  "Can anyone live without taking anything from nature? How much is enough?"
+ ],
+ "challenge": [
+  {
+   "q": "'Humans are at the top of the food chain.' Is that true?",
+   "hint": "In 2013, scientists led by Sylvain Bonhommeau worked out how far up the food chain people eat, using what people around the world eat. Plants are 1 and plant-eaters are 2. People came out at about 2.2, close to a pig or an anchovy, a small fish, because most of what we eat is rice, wheat, dal and other plants. But people change food webs more than any other animal, by farming, fishing and cutting forests. Ask: what does 'top' mean? Highest up the chain, or having the biggest effect?"
+  },
+  {
+   "q": "'A plant medicine is safe because it is natural.' Is that true?",
+   "hint": "Many poisons come from plants. Oleander, often grown in South Indian gardens and called arali in Tamil, is poisonous if eaten. Some plant remedies work well, like artemisinin from sweet wormwood. Some do nothing, and some can harm, or can interfere with other medicines. Only a fair test shows which is which. Ask: what would you need to know before trying a plant remedy?"
+  },
+  {
+   "q": "'When we use energy, it gets used up.' Is that true?",
+   "hint": "Scientists have found that energy is never made or destroyed. When you run, or a fan turns, the energy is not lost. It turns into heat that spreads into the air, so thinly that nothing can use it again for work or food. That is why we need fresh energy from the Sun, or from fuel, every day. Ask: if energy is never used up, why do we still say we 'run out' of it?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A fungus in the forest floor",
+   "view": "A fungus spreads as fine white threads through dead leaves and wood, feeding on them. Without fungi, fallen leaves would pile up and the soil would grow poorer. People often see mould and mushrooms as dirty or spoiling things. Ask: if a fungus could speak, what would they say about the work they do for the forest?"
+  },
+  {
+   "who": "Families who keep a kavu in Kerala",
+   "view": "Many old family homes in Kerala have a kavu, a small sacred grove, often with a shrine to snake gods. The trees are not cut, and many kinds of plants and animals live there. Many kavus have been cleared for houses and farms. Ask: if your family had a kavu, and needed the land for a new house, what would you do?"
+  },
+  {
+   "who": "Warli painters of Maharashtra",
+   "view": "Warli paintings show farming, festivals, dances, animals and trees all together on one wall, with people as one part of the scene, not its centre. The painter Jivya Soma Mashe made Warli art known around the world. Ask: what does it tell you when people paint themselves as small triangles among the trees and animals?"
+  },
+  {
+   "who": "Indian scientists who fought the turmeric patent",
+   "view": "In 1995 a patent office in the United States let two researchers claim the use of turmeric to heal wounds as their own invention. India's Council of Scientific and Industrial Research, led by R. A. Mashelkar, showed old Indian writings proving people had used haldi on wounds for centuries, and the patent was cancelled in 1997. Ask: should knowledge that a whole people found together belong to one person or company?"
+  }
+ ],
+ "books": [
+  {
+   "title": "The Night Life of Trees",
+   "author": "Bhajju Shyam, Durga Bai and Ram Singh Urveti",
+   "for": "read together",
+   "age": "5–10",
+   "why": "Three Gond artists from central India paint the trees they know and tell the stories their communities tell about them."
+  },
+  {
+   "title": "Energy Island",
+   "author": "Allan Drummond",
+   "for": "read together",
+   "age": "6–10",
+   "why": "The true story of Samsø, a Danish island whose people worked together to make all their electricity from wind and sunlight."
+  },
+  {
+   "title": "The Boy Who Harnessed the Wind (picture book edition)",
+   "author": "William Kamkwamba and Bryan Mealer",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A true story of a boy in Malawi who built a windmill from scrap to bring electricity and water to his village during a famine."
+  },
+  {
+   "title": "This Fissured Land: An Ecological History of India",
+   "author": "Madhav Gadgil and Ramachandra Guha",
+   "for": "parent reads",
+   "age": "Adult (read short parts aloud)",
+   "why": "How Indian communities have used and protected forests over the centuries, including sacred groves, by the ecologist in Voice v4 and a historian."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is energy? Give two things in our home that use it.",
+   "a": "Energy is what it takes to make something move, grow, warm up or change. The fan turns electrical energy into movement, and the gas stove turns the energy in gas into heat and light."
+  },
+  {
+   "q": "Where did the energy in your idli come from?",
+   "a": "From the Sun. The rice and urad plants caught sunlight and stored its energy in their grains and seeds, and I ate them."
+  },
+  {
+   "q": "Why were the methi seedlings in the dark yellow, tall and thin?",
+   "a": "They grew on the food stored in the seed. Without light they could not make more food or the green chlorophyll, so they grew tall, searching for light."
+  },
+  {
+   "q": "Draw a food chain of four links. Which way do the arrows point, and what do they show?",
+   "a": "For example, rice plant → rat → rat snake → owl. The arrows point from the food to the eater. They show which way the energy moves."
+  },
+  {
+   "q": "Why does a forest have thousands of deer but only a few tigers?",
+   "a": "At each step, most energy is used for living and leaves as heat. Only about a tenth passes on. So there is much less energy for tigers than for deer, and each tiger needs about 500 prey animals."
+  },
+  {
+   "q": "What do decomposers do, and what goes round in an ecosystem?",
+   "a": "Decomposers such as mould, mushrooms and bacteria feed on dead things and break them down. The materials go back into the soil and are used by plants again and again. Energy does not go round. It leaves as heat."
+  },
+  {
+   "q": "How would you fairly test whether ginger helps a cold?",
+   "a": "Give ginger to half the people with colds and a look-alike with no ginger to the other half, without anyone knowing who got which. Then compare how fast each group gets better."
+  },
+  {
+   "q": "What is a sacred grove, and why does it matter to scientists?",
+   "a": "A patch of forest a community protects for worship, where trees are not cut. Scientists such as Madhav Gadgil found that sacred groves keep old trees and rare plants that have vanished from the land around them."
+  }
+ ]
+}

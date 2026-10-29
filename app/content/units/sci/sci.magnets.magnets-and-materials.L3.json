@@ -158,7 +158,7 @@
    "term": "Magnetic sense",
    "meaning": "The ability of some living things to sense the Earth's magnetic field and use it to find their way. Scientists call it magnetoreception.",
    "example": "Young sea turtles use it to find their way across the ocean.",
-   "art": "A baby sea turtle swimming in the dark ocean, with faint curved field lines around it."
+   "art": "A baby sea turtle swimming in the dark ocean, with faint curved field lines around them."
   }
  ],
  "explanations": [
@@ -404,7 +404,7 @@
     "Liquid oxygen hangs between the poles of a strong magnet, like a little bridge."
    ],
    "perspectives": [],
-   "art": "A small green frog floating calmly in the air inside a tall magnet tube, with lines of the magnetic field around it.",
+   "art": "A small green frog floating calmly in the air inside a tall magnet tube, with lines of the magnetic field around them.",
    "context": "We call many materials 'non-magnetic'. This card shows that every material responds a little to a strong enough magnet."
   }
  ],
@@ -510,7 +510,7 @@
    "hint": "A flip takes thousands of years. Turtles and birds have lived through many flips."
   },
   {
-   "q": "A turtle can find the beach where it hatched, across a whole ocean, without a map. What does a turtle know that we don't?",
+   "q": "A turtle can find the beach where they hatched, across a whole ocean, without a map. What does a turtle know that we don't?",
    "kind": "big",
    "hint": "Do we sometimes think people are the cleverest animals only because we test the things we are good at?"
   },
@@ -1760,7 +1760,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Act out a young turtle finding its way home by sensing the strength of the Earth's magnetic field."
+     "what": "Act out a young turtle finding their way home by sensing the strength of the Earth's magnetic field."
     }
    ],
    "record": "Draw the path the turtle took.",
@@ -1801,7 +1801,7 @@
      }
     }
    ],
-   "context": "In this activity you act out a young sea turtle finding its way home across the ocean, by sensing the strength of the Earth's magnetic field.",
+   "context": "In this activity you act out a young sea turtle finding their way home across the ocean, by sensing the strength of the Earth's magnetic field.",
    "setup": [
     {
      "art": "A room with a cushion at one end and four paper cards on the floor in a line leading to it.",
@@ -2927,7 +2927,7 @@
     },
     {
      "t": "write",
-     "p": "Andre Geim made a live frog float in a giant magnet. The frog has no iron in it. Explain how this can be.",
+     "p": "Andre Geim made a live frog float in a giant magnet. The frog has no iron in their body. Explain how this can be.",
      "lines": 3,
      "a": "Every material responds to a magnet a little. Water, which makes up most of a frog, is very slightly repelled by a magnet. In a giant magnet, this force is strong enough to hold the frog up.",
      "why": "This shows that 'non-magnetic' really means 'very, very weakly magnetic'."
@@ -3103,7 +3103,7 @@
   "Which way is north from where we're sitting? How could we check?",
   "What would the iron fish in the story do if you put it next to the gas cylinder?",
   "Is a magnet's magnetic field there even when there is nothing near it to attract?",
-  "How do you think a turtle senses its way home?",
+  "How do you think a turtle senses their way home?",
   "Which do you think stays a magnet longer: a stroked needle or a stroked nail? Why?",
   "If the Earth's magnetic field flipped tomorrow, what would change for us? And for birds?",
   "Who in our family notices the small things, like Amina did?",
@@ -3163,8 +3163,8 @@
    "a": "It completely lost its sense of direction."
   },
   {
-   "j": "What does a turtle use to find its way?",
-   "a": "Its shell-phone? No, the Earth's magnetic field!"
+   "j": "What does a turtle use to find their way?",
+   "a": "Their shell-phone? No, the Earth's magnetic field!"
   },
   {
    "j": "Why did the robin take a compass on holiday?",
@@ -3636,7 +3636,7 @@
   "ask": [
    "When a needle becomes a magnet, nothing is added to it. Is the magnetised needle a new object, or the same needle?",
    "In a plain nail, the tiny magnets cancel out to zero. Is their magnetic force gone, or only hidden?",
-   "A turtle finds its beach without a map. What does it sense that we do not notice?"
+   "A turtle finds their beach without a map. What do they sense that we do not notice?"
   ],
   "art": "A family standing in a row on a terrace at dawn, all facing the same way, with faint arrows over each of them like tiny compass needles, and a sea turtle drawn in the clouds."
  },

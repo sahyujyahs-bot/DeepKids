@@ -61,7 +61,7 @@
   },
   {
    "term": "Rot (decompose)",
-   "meaning": "When tiny living things feed on a dead plant or animal and break it down. What is left becomes part of the soil. Scientists call it decomposing.",
+   "meaning": "When tiny living things feed on a dead plant or animal and break them down. What is left becomes part of the soil. Scientists call it decomposing.",
    "example": "A fallen mango left under a tree turns soft, brown and then disappears into the soil.",
    "art": "A fallen mango shown four times, each softer and browner, until only a dark patch of soil is left."
   },
@@ -168,7 +168,7 @@
     "A plastic wrapper thrown on the same soil is still there years later."
    ],
    "perspectives": [],
-   "art": "A forest floor loop: a falling leaf, an earthworm eating it, dark soil, a seedling growing, and beside it a plastic wrapper lying outside the loop.",
+   "art": "A forest floor loop: a falling leaf, an earthworm eating it, dark soil, a seedling growing, and to one side a plastic wrapper lying outside the loop.",
    "context": "This card explains the main idea of the unit: what waste is, and why a forest makes almost none."
   },
   {
@@ -190,7 +190,7 @@
    "concept": "Why peels rot: microbes and their enzymes",
    "status": "defined",
    "definition": "A peel rots because microbes, such as bacteria and fungi, feed on it. They use enzymes, tiny cutting tools, to cut its long molecules into small pieces they can eat.",
-   "description": "A banana peel is made of long chain molecules, such as cellulose and starch. Microbes in the soil feed on them. But a microbe has no mouth, and it cannot swallow a whole chain. So it pours out enzymes around itself. Each enzyme is shaped to fit one kind of chain, like a key fits a lock. It snips the chain into small pieces. The microbe soaks the pieces in as food. What is left over becomes part of the soil. Microbes have been feeding on dead plants and animals for hundreds of millions of years. So for almost everything that was once alive, some microbe somewhere has the right enzyme. Warmth, water and air help them work faster. That is why peels rot quickly in a warm, damp pot, and slowly in a dry desert.",
+   "description": "A banana peel is made of long chain molecules, such as cellulose and starch. Microbes in the soil feed on them. But a microbe has no mouth, and cannot swallow a whole chain. So they pour out enzymes all around them. Each enzyme is shaped to fit one kind of chain, like a key fits a lock. It snips the chain into small pieces. The microbe soaks the pieces in as food. What is left over becomes part of the soil. Microbes have been feeding on dead plants and animals for hundreds of millions of years. So for almost everything that was once alive, some microbe somewhere has the right enzyme. Warmth, water and air help them work faster. That is why peels rot quickly in a warm, damp pot, and slowly in a dry desert.",
    "examples": [
     "Bread left in a damp box grows white and green fluffy mould. That mould is a fungus eating the bread.",
     "Leaves under a tree turn into dark soil in the monsoon.",
@@ -234,7 +234,7 @@
    "definition": "City waste goes along two main roads. Mixed waste is taken to a dumping ground. Sorted waste can be composted or sold for recycling, much of it by waste pickers and kabadiwalas.",
    "description": "India's towns and cities throw out more than a lakh tonnes of waste every day. About half of it is wet waste, like peels and leftover food. The rest is dry: paper, plastic, metal, glass and cloth. When it is all mixed in one bag, the wet part soaks and spoils the paper. Then most of it goes to a dumping ground on the edge of the city. Ghazipur in Delhi began in 1984. By 2019 its hill of waste was about 65 metres high, almost as tall as the Qutub Minar. Inside dumps like this, wet waste rots without air and makes methane gas. It catches fire, and the smoke harms the people and animals nearby. When waste is sorted at home, it goes a better way. Wet waste can become compost or cooking gas. Dry waste is picked up by waste pickers and kabadiwalas. They sort it and sell it on to recycling factories. Indore, in Madhya Pradesh, sorts almost all its waste. It has been ranked India's cleanest city again and again since 2017.",
    "examples": [
-    "A cow on the street eats a plastic bag with food inside. The plastic can block its stomach.",
+    "A cow on the street eats a plastic bag with food inside. The plastic can block her stomach.",
     "A rinsed, dry milk packet can be sold. A milk packet full of sour milk and peels usually ends up in the dump.",
     "In 2016, India made a rule that every home should sort its waste into wet, dry and hazardous."
    ],
@@ -287,7 +287,7 @@
   {
    "concept": "Plastic-eating microbes and worms",
    "status": "debated",
-   "description": "In 2016, a team of Japanese scientists led by Shosuke Yoshida and Kohei Oda made a surprise discovery. Near a bottle recycling plant in the city of Sakai, they found a bacterium living on PET plastic, the plastic of drinking bottles. They named it Ideonella sakaiensis. It makes two enzymes that cut PET into small pieces, which it eats. It is slow. It took about six weeks to eat a thin film of plastic. Scientists have since changed these enzymes to make them faster. And in 2017, Federica Bertocchini, an Italian scientist working in Spain, noticed that wax worms, the young of a moth, chewed holes in a plastic bag. She and her colleagues found that they seem to break down polyethylene, the plastic of most bags. How much they truly digest is still argued about.",
+   "description": "In 2016, a team of Japanese scientists led by Shosuke Yoshida and Kohei Oda made a surprise discovery. Near a bottle recycling plant in the city of Sakai, they found a bacterium living on PET plastic, the plastic of drinking bottles. They named this bacterium Ideonella sakaiensis. Ideonella makes two enzymes that cut PET into small pieces, and then eats the pieces. Ideonella is slow, and took about six weeks to eat a thin film of plastic. Scientists have since changed these enzymes to make them faster. And in 2017, Federica Bertocchini, an Italian scientist working in Spain, noticed that wax worms, the young of a moth, chewed holes in a plastic bag. She and her colleagues found that they seem to break down polyethylene, the plastic of most bags. How much they truly digest is still argued about.",
    "examples": [
     "A bacterium found near a Japanese recycling plant feeds on bottle plastic.",
     "Wax worms, which normally eat beeswax in beehives, chew through plastic bags."
@@ -491,7 +491,7 @@
   {
    "q": "Long ago, wood may have piled up because few living things could rot it. Will life learn to eat plastic? Should we wait for it?",
    "kind": "deep",
-   "hint": "A bacterium that eats bottle plastic was found in 2016. How fast do you think it works?"
+   "hint": "A bacterium that eats bottle plastic was found in 2016. How fast do you think they work?"
   },
   {
    "q": "Is a broken thing finished? Who decides when a thing becomes waste?",
@@ -504,7 +504,7 @@
    "hint": "Who cleans your lane? Do you know their name?"
   },
   {
-   "q": "A cow eats plastic, a turtle swallows a bag, a bird feeds plastic to its chicks. Do animals have a right to a clean world, even though they cannot make our laws?",
+   "q": "A cow eats plastic, a turtle swallows a bag, a bird feeds plastic to their chicks. Do animals have a right to a clean world, even though they cannot make our laws?",
    "kind": "big",
    "hint": "Animals cannot vote or write rules. Who should think of them when people make rules about waste?"
   },
@@ -545,7 +545,7 @@
    "Everyone in their part of the city had seen the thin man. He rode a bicycle with sacks tied to the back, and he picked broken things off rubbish heaps. Tiles, bits of sinks, bottle bottoms, smashed cups, broken bangles. Bimla often saved her broken glass for him. People said he was mad. His name was Nek Chand.",
    "Kamla found him at the edge of the forest near the lake, and held out her hand. He looked at the green pieces for a long time. Then he said, 'Can you keep a secret?'",
    "He led her down a narrow path between the trees. Kamla stood still and stared.",
-   "Among the trees stood hundreds of statues of people, in rows. There were dancers with skirts made of broken bangles. There were soldiers with faces of broken cups. There were monkeys made of pieces of pipe, and a whole crowd of women carrying pots on their heads, their bodies shining with chips of tile. A grey langur sat on a statue's head and scratched itself. Lizards ran over the mosaic walls. Birds had nested in a doorway made of an old sink.",
+   "Among the trees stood hundreds of statues of people, in rows. There were dancers with skirts made of broken bangles. There were soldiers with faces of broken cups. There were monkeys made of pieces of pipe, and a whole crowd of women carrying pots on their heads, their bodies shining with chips of tile. A grey langur sat on a statue's head and had a good scratch. Lizards ran over the mosaic walls. Birds had nested in a doorway made of an old sink.",
    "'All of this was thrown away,' said Nek Chand. 'When they built this new city, they knocked down the villages that were here before. I brought the villages here.'",
    "Kamla came back every evening after that. She sorted the pieces the way her mother had taught her. She noticed that Nek Chand never used peels or leaves or paper. 'Those rot in the rain,' he said. 'I only use things that do not rot. That is why the garden will last.' Kamla pressed her green bangle pieces into the skirt of a dancer, one by one.",
    "Then one morning, men in uniforms came through the trees with notebooks and long measuring tapes. They looked at the statues the way people look at a pile of rubbish.",
@@ -1034,7 +1034,7 @@
      "p": "A cow eats a plastic bag that had vegetables in it. What can happen?",
      "opts": [
       "The cow digests it like grass",
-      "The plastic can stay in the cow's stomach and make it very ill",
+      "The plastic can stay in the cow's stomach and make her very ill",
       "The plastic turns into milk",
       "Nothing at all"
      ],
@@ -1364,7 +1364,7 @@
     },
     {
      "t": "mcq",
-     "p": "In 2016, scientists found Ideonella sakaiensis, a bacterium that eats PET bottle plastic. Where did they find it?",
+     "p": "In 2016, scientists found Ideonella sakaiensis, a bacterium that eats PET bottle plastic. Where did they find this bacterium?",
      "opts": [
       "In a rainforest",
       "Near a bottle recycling plant in Japan",
@@ -1372,7 +1372,7 @@
       "In a cow's stomach"
      ],
      "a": 1,
-     "why": "It was found near a recycling plant in Sakai, Japan, where it had plenty of PET plastic to live on. Living things often turn up where their food is."
+     "why": "The bacterium was found near a recycling plant in Sakai, Japan, where they had plenty of PET plastic to live on. Living things often turn up where their food is."
     },
     {
      "t": "mcq",
@@ -1433,10 +1433,10 @@
     },
     {
      "t": "write",
-     "p": "A fungus is busy rotting a fallen log. Does it matter for itself, or only because it makes soil for us? Write what you think and why.",
+     "p": "A fungus is busy rotting a fallen log. Do they matter for their own sake, or only because they make soil for us? Write what you think and why.",
      "lines": 3,
-     "a": "I think it matters for itself, because it is alive and feeding, like we are. It also helps the forest, and that helps us too.",
-     "why": "There is no single right answer. Every living thing matters for itself, not only for what it gives us. Some people think a living thing matters mainly for what it does for people."
+     "a": "I think they matter for their own sake, because they are alive and feeding, like we are. It also helps the forest, and that helps us too.",
+     "why": "There is no single right answer. Every living thing matters for their own sake, not only for what they give us. Some people think a living thing matters mainly for what they do for people."
     },
     {
      "t": "write",
@@ -3012,15 +3012,15 @@
   },
   {
    "t": "mcq",
-   "p": "In 2016, scientists found a bacterium that eats PET bottle plastic. What do most scientists say about it?",
+   "p": "In 2016, scientists found a bacterium that eats PET bottle plastic. What do most scientists say about this bacterium?",
    "opts": [
-    "It has already cleaned up the oceans",
-    "It is real and exciting, but slow, and works mainly on one kind of plastic",
-    "It does not exist",
-    "It eats all plastic quickly"
+    "They have already cleaned up the oceans",
+    "They are real and exciting, but slow, and work mainly on one kind of plastic",
+    "They do not exist",
+    "They eat all plastic quickly"
    ],
    "a": 1,
-   "why": "Ideonella sakaiensis is real, but it took weeks to eat a thin film, and only PET. Scientists are still debating how much such microbes can help. Picking 'cleaned up the oceans' trusts a hopeful headline more than the evidence.",
+   "why": "Ideonella sakaiensis is real, but they took weeks to eat a thin film, and only PET. Scientists are still debating how much such microbes can help. Picking 'cleaned up the oceans' trusts a hopeful headline more than the evidence.",
    "outcome": 6
   },
   {
@@ -3212,7 +3212,7 @@
   },
   {
    "j": "Why did the cow refuse the plastic bag?",
-   "a": "It was a smart cow, and it only ate real food."
+   "a": "She was a smart cow, and she only ate real food."
   },
   {
    "j": "What do you call a party where everything is reused?",
@@ -3632,7 +3632,7 @@
   },
   "three": {
    "who_am_i": "Your food grew in soil that microbes made from old leaves and peels. So part of you was once something that rotted.",
-   "what_is_life": "Almost every living thing becomes food for others when it dies. Microbes take it apart, and new plants grow from what is left.",
+   "what_is_life": "Almost every living thing becomes food for others when they die. Microbes take them apart, and new plants grow from what is left.",
    "what_is_this_world": "A world where leaves, peels and bodies are taken apart and used again. Plastic is one of the few things it cannot yet take apart."
   },
   "thread": "In a forest, a fallen leaf feeds fungi and worms. What is left becomes soil, and the soil feeds a tree. The same atoms take turns as leaf, worm, soil and tree. Plastic stays out of this circle for now, because almost nothing can take it apart.",
@@ -3676,7 +3676,7 @@
   "ask": [
    "If one day a microbe evolves an enzyme that fits plastic, will plastic become biodegradable?",
    "If nothing ever really goes away, what does 'throwing away' mean?",
-   "Does a fungus rotting a log matter for itself, or only for the soil it makes for us?",
+   "Does a fungus rotting a log matter for their own sake, or only for the soil they make for us?",
    "Is anything truly yours, if its atoms were here before you and will stay after you?"
   ],
   "art": "A child sitting cross-legged holding a steel tumbler in both hands, eyes closed, with a faint circle around them showing a cloud, a tree, a mine, a kabadiwala's cart, a factory and a compost pot, all joined by one flowing line."

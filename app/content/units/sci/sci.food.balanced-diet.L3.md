@@ -35,7 +35,7 @@
 - **Fibre**: A kind of carbohydrate in plant foods that your body cannot break down. It keeps food moving through your gut and feeds your gut microbes. *e.g.* The skin of an apple, the green skin on whole moong and the strings in beans and bhindi are fibre.
 - **Digestion**: Breaking food into pieces small enough to pass into the blood. *e.g.* Digestion starts in your mouth when you chew, and goes on in your stomach and intestines.
 - **Enzyme**: A kind of protein that cuts big pieces of food into smaller ones, very fast. It works like tiny scissors. *e.g.* An enzyme in your spit cuts starch into sugar.
-- **Cell**: The tiny living unit that every living thing is made of. Your body has about 30 trillion cells. *e.g.* Skin cells, muscle cells, blood cells and brain cells are all cells, each with its own job.
+- **Cell**: The tiny living unit that every living thing is made of. Your body has about 30 trillion cells. *e.g.* Skin cells, muscle cells, blood cells and brain cells are all cells, each with their own job.
 - **Mitochondria**: Tiny parts inside your cells that burn food with oxygen to release energy. *e.g.* Your muscle cells are full of mitochondria. That is why they can work so hard.
 - **Gut microbes**: The trillions of tiny living things, mostly bacteria, that live in your gut, most of all in the large intestine. *e.g.* Gut microbes eat the fibre from your dal and poriyal, which you cannot digest yourself.
 - **Kilocalorie (kcal)**: A unit for measuring the energy in food. One kilocalorie is the energy needed to warm 1 litre of water by 1 degree Celsius. Food labels write it as kcal. People often just say 'calories'. *e.g.* A banana gives roughly 100 kcal. A child of eight uses very roughly 1,500 to 2,000 kcal in a day.
@@ -71,7 +71,7 @@ Food goes on a long trip through a tube called the gut. In your mouth, teeth cru
 - e.g. Vitamins and minerals do not need to be cut up. They are already small enough to pass into the blood.
 - e.g. The small intestine of a grown-up is several metres long. Laid out straight, it would stretch past two grown-ups lying head to toe.
 ### Your food travels to 30 trillion cells · *defined*
-**Definition:** After digestion, the blood carries the tiny food pieces to every cell in the body. Each cell takes what it needs.
+**Definition:** After digestion, the blood carries the tiny food pieces to every cell in the body. Each cell takes what they need.
 
 Your body is made of about 30 trillion cells. That is 30 followed by twelve zeros. Each one is alive and needs food. Your heart pumps blood past almost every cell, all the time. The blood carries glucose, amino acids, fats, vitamins, minerals and water. A muscle cell takes amino acids to build more muscle. A bone cell takes calcium. A cell in the bone marrow takes iron and folate to make new red blood cells. A brain cell takes glucose. Your body is always rebuilding itself like this. The lining of your gut is replaced every few days. So part of you next month will be built from this month's food.
 - e.g. Your red blood cells each live about four months. New ones are made all the time from the iron, protein and vitamins in your food.
@@ -268,24 +268,24 @@ When the first leaves came, small and round and green, I picked a handful. I was
 
 ## Games
 ### g1 · Cell Delivery (25 min)
-- **rules:** Each player has a My Body sheet. Shuffle the 24 food cards. Lay 5 face up in a row. This row is the market. Put the rest in a pile, face down.; On your turn, take one card from the market. Tick the boxes it fills on your sheet. Then fill the market back up to 5 from the pile.; Extra ticks are not kept. If your Brain cell already has its 2 energy, more energy does not count.; A cell is fed when all its boxes are ticked. Colour it in.; Each player gets 8 turns, like the meals and snacks of one day.; Your body also needs water. Tick the Water drop by taking the buttermilk card, or by using one turn to say 'I drink water' instead of taking a card. If your Water drop is empty at the end, none of your cells count.; With friends or a parent: after 8 turns each, the player with the most fed cells wins. A tie goes to whoever fed the Gut-lining cell.; Playing alone: try to feed all six cells and tick the Water drop within 8 turns. Then try in 7, then in 6. Doing it in 5 is very hard and needs luck.
+- **rules:** Each player has a My Body sheet. Shuffle the 24 food cards. Lay 5 face up in a row. This row is the market. Put the rest in a pile, face down.; On your turn, take one card from the market. Tick the boxes it fills on your sheet. Then fill the market back up to 5 from the pile.; Extra ticks are not kept. If your Brain cell already has their 2 energy, more energy does not count.; A cell is fed when all their boxes are ticked. Colour them in.; Each player gets 8 turns, like the meals and snacks of one day.; Your body also needs water. Tick the Water drop by taking the buttermilk card, or by using one turn to say 'I drink water' instead of taking a card. If your Water drop is empty at the end, none of your cells count.; With friends or a parent: after 8 turns each, the player with the most fed cells wins. A tie goes to whoever fed the Gut-lining cell.; Playing alone: try to feed all six cells and tick the Water drop within 8 turns. Then try in 7, then in 6. Doing it in 5 is very hard and needs luck.
 - **Printable cards: 24 food cards to cut out (each shows what it gives the body):** Rice: 2 energy; Chapati: 2 energy, 1 fibre; Ragi mudde: 2 energy, 1 calcium, 1 fibre; Poha with peanuts: 2 energy, 1 protein; Banana: 1 energy, 1 fibre; Moong dal: 2 protein, 1 iron, 1 fibre; Chana sundal: 2 protein, 1 iron, 1 fibre; Sprouts chaat: 1 protein, 1 vitamin C, 1 fibre; Boiled egg: 2 protein, 1 fat, 1 vitamin A; Fish curry: 2 protein, 1 fat; Paneer: 1 protein, 1 calcium, 1 fat; Glass of milk: 1 protein, 1 calcium; Bowl of curd: 1 protein, 1 calcium; Til laddoo: 1 energy, 1 calcium, 1 iron, 1 fat; Handful of peanuts: 1 protein, 1 fat, 1 energy; Keerai poriyal (spinach): 1 iron, 1 vitamin A, 1 fibre; Carrot sticks: 1 vitamin A, 1 fibre; Amla: 1 vitamin C; Guava: 1 vitamin C, 1 fibre; Mango: 1 energy, 1 vitamin A, 1 vitamin C; Spoon of ghee: 1 fat; Jalebi (festival treat): 2 energy; Packet of chips: 1 energy, 1 fat; Buttermilk: 1 protein, 1 calcium, 1 water
-- **Printable score sheet: My Body sheet: six cells, each with boxes to tick:** Muscle cell: needs 2 protein; Brain cell: needs 2 energy; Bone cell: needs 1 calcium; Blood-making cell: needs 1 iron and 1 vitamin C; Eye cell: needs 1 vitamin A and 1 fat; Gut-lining cell: needs 2 fibre (the microbes turn fibre into its food); Water drop: needs 1 water. Without it, the game ends with no cells fed.
+- **Printable score sheet: My Body sheet: six cells, each with boxes to tick:** Muscle cell: needs 2 protein; Brain cell: needs 2 energy; Bone cell: needs 1 calcium; Blood-making cell: needs 1 iron and 1 vitamin C; Eye cell: needs 1 vitamin A and 1 fat; Gut-lining cell: needs 2 fibre (the microbes turn fibre into their food); Water drop: needs 1 water. Without it, the game ends with no cells fed.
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 24 food cards. 2. Give each player a My Body sheet and a pencil. 3. Shuffle the cards and lay 5 face up as the market.  
   *Parent says:* Your body is made of trillions of cells. Each one needs different things from food. In this game, you are the blood. You carry food to six hungry cells.  
   *Child mode:* You are the blood. Your job is to feed six hungry cells. Each cell needs something different. Lay out 5 food cards as the market.
 - **s2 (3 min)**  
-  *Parent does:* Play one practice turn together. Point at the Muscle cell on the sheet and ask which market card would help it.  
-  *Parent says:* The Muscle cell needs 2 protein. Which card in the market would feed it best?  
-  *Child mode:* Look at the Muscle cell. It needs 2 protein. Which card gives protein?
-  - Check: The Muscle cell needs 2 protein. Which card feeds it in one go? → **Moong dal**
+  *Parent does:* Play one practice turn together. Point at the Muscle cell on the sheet and ask which market card would help them.  
+  *Parent says:* The Muscle cell needs 2 protein. Which card in the market would feed them best?  
+  *Child mode:* Look at the Muscle cell. They need 2 protein. Which card gives protein?
+  - Check: The Muscle cell needs 2 protein. Which card feeds them in one go? → **Moong dal**
 - **s3 (14 min)**  
   *Parent does:* 1. Take turns. 2. On each turn, take one market card, read it out and tick the boxes it fills. Or use the turn to drink water. 3. Refill the market. 4. Each player has 8 turns.  
   *Parent says:* Before you pick, look at which cells are still hungry. A card that gives three different things can be better than one that gives a lot of one thing.  
   *Child mode:* Take turns. Pick one market card. Tick the boxes it fills. Which cells are still hungry?
   - Ask: Why is the Gut-lining cell fed by fibre, when we cannot digest fibre? (good: Our gut microbes eat the fibre and make food for the gut cells.; The microbes turn fibre into something the gut lining can use.)
-  - Note: Good players notice that one-thing cards, like rice, jalebi or ghee, fill only one cell. Mixed cards, like ragi mudde, dal, egg or til laddoo, fill several. The Eye cell is tricky: it needs vitamin A and fat. Egg does both at once. Carrot and a spoon of ghee also work, just as carrots cooked in oil give more vitamin A. Don't call jalebi or chips a bad card. They are fine cards that give energy, just not much else.
+  - Note: Good players notice that one-thing cards, like rice, jalebi or ghee, fill only one cell. Mixed cards, like ragi mudde, dal, egg or til laddoo, fill several. The Eye cell is tricky: they need vitamin A and fat. Egg does both at once. Carrot and a spoon of ghee also work, just as carrots cooked in oil give more vitamin A. Don't call jalebi or chips a bad card. They are fine cards that give energy, just not much else.
 - **s4 (3 min)**  
   *Parent does:* When someone takes the jalebi or the chips, pause and ask the question below.  
   *Parent says:* Jalebi gives 2 energy, which is a lot. Why is it not enough to win on its own?  
@@ -395,24 +395,24 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the yeast. 2. Explain that each grain is a clump of tiny living fungi, resting until they get water, warmth and food. 3. Ask them to guess which food the yeast will like best.  
   *Parent says:* Yeast is a living thing, a tiny fungus. Each grain holds thousands of them, resting. When they eat, they make a gas. Your gut microbes do the same thing with the fibre you cannot digest. Which food will these ones like best?  
-  *Child mode:* Yeast is alive. It is a tiny fungus, resting. When it eats, it makes gas. Which food will it like best?
+  *Child mode:* Yeast is alive. They are a tiny fungus, resting. When they eat, they make gas. Which food will it like best?
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Label the bottles Sugar, Atta and Water. 2. Using a funnel, put 2 teaspoons of yeast in each. 3. Add 1 tablespoon of sugar to the first and 1 tablespoon of atta to the second. Add nothing to the third. 4. Pour 150 millilitres of warm water into each. 5. Swirl gently. 6. Stretch a balloon over each mouth.  
   *Parent says:* Same yeast, same warm water, same bottles. Only the food is different. That is what makes it a fair test.  
   *Child mode:* Put yeast in all three bottles. Add sugar to one and atta to one. Add warm water. Put on the balloons.
-  - Note: Test the water on the inside of your wrist. It should feel warm but not hot. Hot water kills yeast, and cold water keeps it resting. Stretch each balloon a few times first so it fills more easily.
+  - Note: Test the water on the inside of your wrist. It should feel warm but not hot. Hot water kills yeast, and cold water keeps them resting. Stretch each balloon a few times first so it fills more easily.
 - **s3 (45 min)**  
   *Parent does:* 1. Put the bottles in a warm spot, out of the fan. 2. Every 15 minutes, wrap a string round the fattest part of each balloon, then measure the string on a ruler. 3. Write the numbers. 4. In between, play Cell Delivery or read the story.  
   *Parent says:* Let's measure each balloon with the string. Which one is growing fastest?  
   *Child mode:* Every 15 minutes, measure each balloon with a string. Write down the numbers.
-  - Note: The sugar balloon usually starts to stand up within 15 to 20 minutes, and fills more by 45. The atta balloon grows slowly, because enzymes in the flour must first cut its starch into sugar for the yeast. The water balloon stays almost flat. If the balloons are still small at 45 minutes, keep going to 60 minutes. Sometimes nothing happens at all after 20 minutes. Then the water was too hot or too cold, or the yeast was old. Test the yeast: a spoon of it in warm sugar water should froth within 10 minutes. In cold months, stand the bottles in a bowl of warm water.
-  - Check: The sugar balloon grew big. The water balloon stayed flat. What does that show? → **Yeast makes gas only when it has food to eat**
+  - Note: The sugar balloon usually starts to stand up within 15 to 20 minutes, and fills more by 45. The atta balloon grows slowly, because enzymes in the flour must first cut its starch into sugar for the yeast. The water balloon stays almost flat. If the balloons are still small at 45 minutes, keep going to 60 minutes. Sometimes nothing happens at all after 20 minutes. Then the water was too hot or too cold, or the yeast was old. Test the yeast: a spoonful in warm sugar water should froth within 10 minutes. In cold months, stand the bottles in a bowl of warm water.
+  - Check: The sugar balloon grew big. The water balloon stayed flat. What does that show? → **Yeast makes gas only when they have food to eat**
   - Wait: Check every 15 minutes, three times.
 - **s4 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why. Then talk about how the yeast is like, and unlike, gut microbes.  
   *Parent says:* What do you think now? What did you see? Why? Now, your gut microbes are not yeast. They are mostly bacteria. But they also eat and make gas. What do they eat?  
   *Child mode:* Now say three things. What I think. What I saw. Why. What do your gut microbes eat?
-  - Note: A good answer sounds like this. What I think: yeast makes gas when it eats, and it likes sugar best. What I saw: the sugar balloon was 28 centimetres round after 45 minutes, atta 13 and water about 1. Why: the yeast ate the food and gave off carbon dioxide gas. Our gut microbes eat fibre from dal, poriyal and fruit. They also make gas, and acids that feed our gut cells. A model is never exactly the real thing. Yeast is a fungus, and most gut microbes are bacteria.
+  - Note: A good answer sounds like this. What I think: yeast makes gas when they eat, and they like sugar best. What I saw: the sugar balloon was 28 centimetres round after 45 minutes, atta 13 and water about 1. Why: the yeast ate the food and gave off carbon dioxide gas. Our gut microbes eat fibre from dal, poriyal and fruit. They also make gas, and acids that feed our gut cells. A model is never exactly the real thing. Yeast is a fungus, and most gut microbes are bacteria.
 
 ## Activities
 ### a1 · Yesterday's Plate: a colour sort (15 min)
@@ -651,7 +651,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
    Options: Fibre / Sugar / Protein  
    **Answer:** Fibre. *Why:* Your enzymes cannot cut fibre, so it travels to your large intestine. There the gut microbes eat it. Sugar and protein are digested by your own body. Picking sugar might mean remembering that yeast eats sugar. Gut microbes mostly get the fibre.
 12. (order) Put the journey of a spoon of dal in order.  
-   **Answer:** order shown. *Why:* The dal is chewed in the mouth. Acid and enzymes break it in the stomach. In the small intestine it is cut into amino acids. These pass into the blood. A muscle cell rebuilds them into its own protein.
+   **Answer:** order shown. *Why:* The dal is chewed in the mouth. Acid and enzymes break it in the stomach. In the small intestine it is cut into amino acids. These pass into the blood. A muscle cell rebuilds them into their own protein.
 13. (fill) Your body is made of about 30 ____ cells.  
    **Answer:** ['trillion']. *Why:* About 30 trillion. That is 30 followed by twelve zeros. Each cell is alive and needs food from your blood.
 14. (write) Write a balanced dinner using food your family often cooks. Label each food go, grow or glow.  
@@ -697,7 +697,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 15. (draw) Draw the journey of a chapati from your mouth to a brain cell, in four boxes.  
    **Answer:** Mouth (chewing and spit), stomach and small intestine (cut into glucose), blood (carrying glucose), brain cell (burning glucose for energy).. *Why:* Drawing the steps shows you understand that food must be broken down, carried by blood and used in cells.
 ### Thinking Like a Food Scientist (challenge) (challenge, 15 questions)
-1. (mcq) In Cell Delivery, the Eye cell needs vitamin A and fat. Which pair feeds it, just like in a real kitchen?  
+1. (mcq) In Cell Delivery, the Eye cell needs vitamin A and fat. Which pair feeds them, just like in a real kitchen?  
    Options: Carrot sticks and a spoon of ghee / Amla and rice / Rice and chapati  
    **Answer:** Carrot sticks and a spoon of ghee. *Why:* Carrots carry beta-carotene, which your body turns into vitamin A. It dissolves in fat. So carrots with a little ghee or oil help your body take in more of it. Picking amla and rice gives vitamin C and energy, but no vitamin A and no fat.
 2. (mcq) Lucy Wills found that richer women in Bombay rarely got the pale sickness. Why was this an important clue?  
@@ -847,7 +847,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - Why did the iron go to the lemon party? *It wanted to be absorbed into the group.*
 - Why was the egg so good at football? *It knew how to scramble.*
 - Why did the balloon on the sugar bottle look so pleased? *It was full of itself.*
-- Why was the cell so famous? *It was a real cell-ebrity.*
+- Why was the cell so famous? *They were a real cell-ebrity.*
 - Why did the ragi mudde roll out of the kitchen? *It was having a ball.*
 - What did the tooth say to the jalebi? *Please visit, but don't stay long.*
 - Why did the idli feel so light? *Its batter had microbes making bubbles all night.*
@@ -858,7 +858,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - Your thali has 8 equal spaces. About half the plate should be vegetables and fruit. A quarter should be grains. A quarter should be dal, curd or eggs. How many spaces does each get? **Vegetables and fruit 4 spaces, grains 2 spaces, dal, curd or eggs 2 spaces.**. Half of 8 is 8 divided by 2, which is 4. A quarter of 8 is 8 divided by 4, which is 2. Check: 4 + 2 + 2 = 8. All the spaces are used. (queues `math.fractions.fractions-of-a-whole.L3`)
 - In the 30-Plant Week, one leaf stands for 2 new plants. On Monday you found 10 new plants, on Tuesday 6, on Wednesday 5 and on Thursday 3. How many leaves do you draw for each day? How many plants is that so far? **Monday 5 leaves, Tuesday 3 leaves, Wednesday 2 and a half leaves, Thursday 1 and a half leaves. That is 24 plants so far.**. Divide each day's plants by 2. 10 divided by 2 is 5. 6 divided by 2 is 3. 5 divided by 2 is 2 with 1 left over, so 2 and a half leaves. 3 divided by 2 is 1 with 1 left over, so 1 and a half leaves. Total plants: 10 + 6 + 5 + 3 = 24. (queues `math.data.pictographs.L3`)
 - In the Vanishing Blue test, amla cleared the blue in 3 drops. Lemon needed 18 drops. About how many times more vitamin C is in a drop of amla than a drop of lemon? **About 6 times as much.**. The same amount of blue needs the same amount of vitamin C. Amla did it in 3 drops and lemon in 18. 18 divided by 3 is 6. So one drop of amla carries about as much vitamin C as 6 drops of lemon. (queues `math.division.division-facts.L3`)
-- In Balloon Bellies, the sugar balloon was 8 cm round at 15 minutes, 17 cm at 30 minutes and 28 cm at 45 minutes. How much did it grow in each 15 minutes? Was it growing faster at the start or at the end? **It grew 8 cm, then 9 cm, then 11 cm. It grew fastest at the end.**. From 0 to 8 is 8 cm. From 8 to 17 is 17 − 8 = 9 cm. From 17 to 28 is 28 − 17 = 11 cm. The growth got bigger each time, so it was fastest at the end. Dry yeast takes a while to wake up in warm water. As more of it starts eating, the gas comes faster. (queues `math.addition-subtraction.word-problems.L3`)
+- In Balloon Bellies, the sugar balloon was 8 cm round at 15 minutes, 17 cm at 30 minutes and 28 cm at 45 minutes. How much did it grow in each 15 minutes? Was it growing faster at the start or at the end? **It grew 8 cm, then 9 cm, then 11 cm. It grew fastest at the end.**. From 0 to 8 is 8 cm. From 8 to 17 is 17 − 8 = 9 cm. From 17 to 28 is 28 − 17 = 11 cm. The growth got bigger each time, so it was fastest at the end. Dry yeast takes a while to wake up in warm water. As more of the yeast starts eating, the gas comes faster. (queues `math.addition-subtraction.word-problems.L3`)
 
 ## Song
 Sunlight on My Plate (sci.food.L3): Topic-level song

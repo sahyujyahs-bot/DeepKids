@@ -54,7 +54,7 @@
   },
   {
    "term": "Virus",
-   "meaning": "A tiny packet of genes inside a coat, far smaller than a bacterium. It can make copies of itself only inside a living cell. Some viruses, such as flu, have an oily outer coat.",
+   "meaning": "A tiny packet of genes inside a coat, far smaller than a bacterium. They can make copies of themselves only inside a living cell. Some viruses, such as flu, have an oily outer coat.",
    "example": "The common cold and flu are caused by viruses.",
    "art": "A round virus with an oily bubble-like coat and little spikes, next to a much bigger bacterium for size."
   },
@@ -103,7 +103,7 @@
   {
    "term": "Resident and visitor microbes",
    "meaning": "Resident microbes live on your skin all the time, deep in its folds. Visitor microbes are picked up from things you touch. A wash with soap lifts off mostly the visitors.",
-   "example": "After you pat a street dog, its microbes are visitors on your hand.",
+   "example": "After you pat a street dog, their microbes are visitors on your hand.",
    "art": "A hand with small home-like microbes settled in the skin, and suitcase-carrying visitor microbes on top being washed away."
   },
   {
@@ -152,7 +152,7 @@
    "examples": [
     "A child plays with a ball outside, then eats a vada without washing. Germs ride from the ball, to the hand, to the mouth.",
     "A sneeze into the air can spray drops more than a metre. A sneeze into your elbow keeps most of them on your sleeve.",
-    "A fly on an open rubbish heap can carry germs on its feet to uncovered food."
+    "A fly on an open rubbish heap can carry germs on their feet to uncovered food."
    ],
    "perspectives": [],
    "art": "A chain of pictures joined by arrows: a dirty ball, a hand, a vada, a mouth, with a big soap bar breaking the chain between hand and vada.",
@@ -188,7 +188,7 @@
    "concept": "Why soap breaks some viruses but not your hands",
    "status": "defined",
    "definition": "Flu viruses and coronaviruses have an oily outer coat. It is built from two-ended molecules like soap's, so soap can pull it apart. Your living cells are protected by the tough top layer of your skin.",
-   "description": "Every cell in your body is wrapped in a thin skin called a membrane. It is made of two layers of molecules with water-loving heads and oil-loving tails, a little like soap. Some viruses take a piece of this membrane from the cell they grew in, and wear it as an outer coat. Soap molecules slip into that oily coat and break it apart. Without its coat, the virus cannot get into a new cell. A hand-wash does not reach your own living cells. The top layer of your skin is made of flat, dead cells packed tightly together, and soap cannot get through it. Soap does lift some of your skin's own oil, which is why washing very often can dry your hands.",
+   "description": "Every cell in your body is wrapped in a thin skin called a membrane. It is made of two layers of molecules with water-loving heads and oil-loving tails, a little like soap. Some viruses take a piece of this membrane from the cell they grew in, and wear it as an outer coat. Soap molecules slip into that oily coat and break it apart. Without their coat, the virus cannot get into a new cell. A hand-wash does not reach your own living cells. The top layer of your skin is made of flat, dead cells packed tightly together, and soap cannot get through it. Soap does lift some of your skin's own oil, which is why washing very often can dry your hands.",
    "examples": [
     "A soap bubble is a thin film of water held between two layers of soap molecules.",
     "Some viruses, such as the ones that cause many tummy upsets in children, have no oily coat. Soap cannot break them, but a good wash still lifts them off hands."
@@ -349,7 +349,7 @@
     "Ash was used to scrub steel and brass pots in many Indian homes, because it is alkaline and cuts grease."
    ],
    "perspectives": [],
-   "art": "A soapnut tree heavy with round fruits, and below it a bowl of reetha foam beside a modern bar of soap.",
+   "art": "A soapnut tree heavy with round fruits, and below them a bowl of reetha foam beside a modern bar of soap.",
    "context": "Long before soap bars, people cleaned with plants. This card explains why plants like reetha can clean."
   }
  ],
@@ -613,7 +613,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Print or draw the 20-square path. 2. Cut out the 24 hygiene cards and shuffle them face down. 3. Give each player a germ token. 4. Have one dice ready.",
-     "say": "In this game, you are a germ. A germ can't travel far on its own. It rides on hands, food and water. Your job is to ride from a dirty hand to someone's tummy.",
+     "say": "In this game, you are a germ. A germ can't travel far on their own. They ride on hands, food and water. Your job is to ride from a dirty hand to someone's tummy.",
      "kid": "In this game, you are a germ! You need rides. Start on a dirty hand. Try to reach a tummy.",
      "context": "This is the first step of Germ Journey. It is a board game where each player is a germ trying to travel from a dirty hand into someone's tummy. Here you set it up."
     },
@@ -621,8 +621,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Play one practice turn together. Draw the card 'Hands rinsed with water only for 2 seconds'.",
-     "say": "Here is a practice card. Hands were rinsed with water only. The germ moves ahead. Why didn't the water wash it off?",
-     "kid": "Practice card: hands rinsed with water only. The germ moves ahead! Why did water not wash it off?",
+     "say": "Here is a practice card. Hands were rinsed with water only. The germ moves ahead. Why didn't the water wash them off?",
+     "kid": "Practice card: hands rinsed with water only. The germ moves ahead! Why did water not wash them off?",
      "check": {
       "t": "mcq",
       "q": "Why does a quick rinse with water only leave most germs behind?",
@@ -639,7 +639,7 @@
      "id": "s3",
      "mins": 11,
      "do": "1. Take turns rolling and moving. 2. On a ★ square, read the card aloud and follow it. 3. When a TEST IT card comes, everyone does it.",
-     "say": "When you draw a card, tell us why it helps the germ or stops it.",
+     "say": "When you draw a card, tell us why it helps the germ or stops them.",
      "kid": "Roll and move. Landed on a star? Take a card. Say why it helps or stops your germ.",
      "parent": "Good reasons: soap lifts germs out of the oil, a clean towel dries without adding germs, short nails leave nowhere to hide, boiling kills germs in water, covered food keeps flies off. In the alone version, the child usually finds that the soap and boiling cards stop germs best. That is a real lesson about where to break the chain."
     },
@@ -1806,7 +1806,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Label the four bags: Not touched, Dirty hands, Water only, Soap. 2. Use the spoon to put slice 1 into 'Not touched' without touching it. Seal it.",
-     "say": "Mould is a tiny fungus, a living thing. Its seeds, called spores, are too small to see. If they land on damp bread, they grow into spots we can see. Let's see what our hands carry.",
+     "say": "Mould is a tiny fungus, a living thing. Their seeds, called spores, are too small to see. If they land on damp bread, they grow into spots we can see. Let's see what our hands carry.",
      "kid": "Label four bags. Use a spoon to put one slice in 'Not touched'. Do not touch it! Seal it.",
      "context": "This is the first step of the bread test. You touch slices of bread with hands cleaned in different ways, and watch what grows over a week."
     },
@@ -2915,7 +2915,7 @@
  "jokes": [
   {
    "j": "Why did the germ cross the road?",
-   "a": "It was riding on someone's hand."
+   "a": "They were riding on someone's hand."
   },
   {
    "j": "What did the soap say to the oil?",
@@ -2959,7 +2959,7 @@
   },
   {
    "j": "Why did the germ fail the test?",
-   "a": "It got washed out."
+   "a": "They got washed out."
   },
   {
    "j": "Why are bacteria such good maths students?",
@@ -2978,7 +2978,7 @@
    "a": "For culture."
   },
   {
-   "j": "What did the virus say when it met soap?",
+   "j": "What did the virus say when they met soap?",
    "a": "I think I'm coming apart."
   },
   {
@@ -3200,7 +3200,7 @@
    "id": "b-reetha",
    "item": "Dried reetha (soapnuts)",
    "kind": "material",
-   "why": "Shows that a plant makes its own soap-like molecules. Used in the reetha foam activity.",
+   "why": "Shows that a plant makes their own soap-like molecules. Used in the reetha foam activity.",
    "url": "https://www.amazon.in/s?k=reetha+soapnut+dried",
    "used_in": [
     "a2"
@@ -3414,7 +3414,7 @@
   ],
   "other_view": {
    "who": "Many doctors and nurses",
-   "view": "Whether a germ is killed or moved matters less than keeping it from the next person. In hospitals, alcohol hand rubs that kill germs are used, because they are fast and work very well. Killing germs on purpose, with medicines and boiling, has saved millions of lives."
+   "view": "Whether a germ is killed or moved matters less than keeping them from the next person. In hospitals, alcohol hand rubs that kill germs are used, because they are fast and work very well. Killing germs on purpose, with medicines and boiling, has saved millions of lives."
   },
   "practice": {
    "title": "A slow wash",
@@ -3425,7 +3425,7 @@
   "ask": [
    "When you wash, most microbes leave your hands alive. Where do you think they go next?",
    "Your skin's own microbes stay after a wash. Are they part of you, or neighbours living on you?",
-   "Is a microbe a germ wherever it is, or only when it reaches the wrong place?"
+   "Is a microbe a germ wherever they are, or only when they reach the wrong place?"
   ],
   "art": "A child's soapy hands under a tap, with a zoomed-in circle showing soap molecules wrapping a blob of oil with microbes inside, and the rinse water carrying it down towards a drain where many other microbes live."
  },

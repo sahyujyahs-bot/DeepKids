@@ -120,7 +120,7 @@ If white light can be split into colours, can the colours be put back into white
 ### Is colour in the light or in us? · *debated*
 Light has wavelengths, but the light itself is not 'red'. Red is what happens when that light reaches an eye and a brain. Most people have three kinds of colour-sensing cells in their eyes. Each kind is best at a different part of the rainbow. The brain compares them and makes the colours we feel. Some people have only two kinds working. They mix up some colours, like red and green. The pink-purple called magenta is not in the rainbow at all. Your brain makes it when red and blue light arrive together, with no green.
 - e.g. Magenta, the colour of many bougainvillea flowers, has no place of its own in the rainbow.
-- e.g. A mantis shrimp has 12 kinds of colour cells, but tests show it is worse than us at telling close colours apart.
+- e.g. A mantis shrimp has 12 kinds of colour cells, but tests show they are worse than us at telling close colours apart.
 - e.g. John Dalton, an English scientist, described his own colour blindness in 1794.
 - **Many physicists:** Colour is wavelength. Red light is light with long waves. The rest is just how eyes report it.
 - **Many brain scientists:** Colour is made by the brain. The same light can look different colours depending on what is around it. Magenta exists only in brains.
@@ -736,7 +736,7 @@ Hamid frowned at him, as if he had gone mad. But Yusuf only smiled, and stood ve
    **Answer:** Violet. *Why:* Violet light has shorter waves and more energy in each packet. Ultraviolet has even more, which is why it can burn skin. Picking red is common, because red looks warm and hot.
 12. (mcq) Plants are green. What does that tell us about which light they use most for food?  
    Options: They use mostly green light / They absorb mostly red and blue light, and reflect green / They use no light / They use only ultraviolet  
-   **Answer:** They absorb mostly red and blue light, and reflect green. *Why:* A plant reflects the light it uses least. Green comes back to our eyes, so plants use mostly red and blue. Picking 'mostly green' is the most common mistake. Green is the light they absorb least.
+   **Answer:** They absorb mostly red and blue light, and reflect green. *Why:* A plant reflects the light they use least. Green comes back to our eyes, so plants use mostly red and blue. Picking 'mostly green' is the most common mistake. Green is the light they absorb least.
 13. (write) A friend says: 'The rainbow is out there in the sky, in one place, and everyone sees the same one.' Give two pieces of evidence against this.  
    **Answer:** First, when you walk towards a rainbow, it moves with you, so it is not in one place. Second, each drop sends each colour in only one direction, so a person standing somewhere else gets colours from different drops. Also, in the spray rainbow test, when I took two steps sideways, the rainbow moved too.. *Why:* A rainbow depends on where the viewer stands. Each person sees their own.
 14. (mcq) Which is the best fair test of whether water depth changes a water-prism's rainbow?  
@@ -782,7 +782,7 @@ Hamid frowned at him, as if he had gone mad. But Yusuf only smiled, and stood ve
 10. (mcq) Which of these do scientists NOT know yet?  
    Options: That sunlight is many colours / Whether your red looks the same to you as my red does to me / That rainbows are made by raindrops / That violet bends more than red  
    **Answer:** Whether your red looks the same to you as my red does to me. *Why:* The other three are settled by experiments. What a colour feels like inside someone is still an open question.
-11. (mcq) A bee looks at a flower. What can it see that we cannot?  
+11. (mcq) A bee looks at a flower. What can they see that we cannot?  
    Options: Infrared heat / Ultraviolet patterns / Nothing at all / Radio waves  
    **Answer:** Ultraviolet patterns. *Why:* Bees see ultraviolet, just past violet. Many flowers have ultraviolet patterns that guide bees to nectar. Picking 'infrared' mixes up the two ends of the rainbow.
 12. (mcq) How do astronomers know what stars are made of?  
@@ -823,7 +823,7 @@ Hamid frowned at him, as if he had gone mad. But Yusuf only smiled, and stood ve
 - **Is the red you see the same as the red I see?** We can measure light and eyes. But nobody knows how to measure what a colour feels like inside another person.
 - **Why do colours feel like anything at all?** Scientists know a lot about eyes and brains. But how brain signals become the feeling of red is one of the biggest puzzles in science, called the hard problem of consciousness.
 - **How many women can see extra colours, and how much more do they see?** A few people may have four kinds of colour cells. They are rare and hard to find, and tests are difficult.
-- **How does the mantis shrimp's colour vision really work?** It has 12 kinds of colour cells but is poor at telling close colours apart. Scientists have ideas but are not sure.
+- **How does the mantis shrimp's colour vision really work?** They have 12 kinds of colour cells but are poor at telling close colours apart. Scientists have ideas but are not sure.
 - **Do our colour words change what we see?** Some studies find small effects. Others find none. Scientists still argue.
 - **What colours would we see if our eyes had more kinds of colour cells?** Most people find they cannot imagine a truly new colour. We can only guess from animals that see more.
 - **What is light, really, if it acts like a wave and also like tiny packets?** Physicists can predict what light does very well. But what it is underneath is still argued about.

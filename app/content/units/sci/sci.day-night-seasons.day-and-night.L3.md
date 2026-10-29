@@ -139,7 +139,7 @@ A Foucault pendulum keeps its swing still compared with the far-away stars and g
 ### Living things keep time with the spin · *defined*
 **Definition:** Plants, animals and people have body clocks inside them. Body clocks follow a rhythm of about 24 hours, matching the Earth's spin.
 
-In 1729, a French astronomer, Jean-Jacques d'Ortous de Mairan, put a touch-me-not plant in a dark cupboard. Its leaves still opened in the day and folded at night, without any sunlight. So the plant had its own clock. In 1962, a young French cave explorer, Michel Siffre, lived alone in a cave for about two months, with no clock and no daylight. He kept a rhythm of waking and sleeping. But it drifted, and when he came out he thought it was about 25 days earlier than it really was. In 2017, three American scientists won the Nobel Prize for finding the genes that work the clock, in fruit flies. Almost every cell in our body has a clock like that. Morning light reaching our eyes resets the main clock, in the brain, every day.
+In 1729, a French astronomer, Jean-Jacques d'Ortous de Mairan, put a touch-me-not plant in a dark cupboard. Their leaves still opened in the day and folded at night, without any sunlight. So the plant had their own clock. In 1962, a young French cave explorer, Michel Siffre, lived alone in a cave for about two months, with no clock and no daylight. He kept a rhythm of waking and sleeping. But it drifted, and when he came out he thought it was about 25 days earlier than it really was. In 2017, three American scientists won the Nobel Prize for finding the genes that work the clock, in fruit flies. Almost every cell in our body has a clock like that. Morning light reaching our eyes resets the main clock, in the brain, every day.
 - e.g. Owls, bats and many moths are active at night. Scientists call them nocturnal.
 - e.g. Long flights across the world give people jet lag. Their body clock is still on home time.
 ### Where daylight comes from · *defined*
@@ -570,7 +570,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **your turn:** Now invent your own way. Draw it, make a model in a shoebox, and test it on your family for one evening. Did it help anyone feel sleepy?
 - **constraints:** It cannot use the Sun to tell the time, because the Sun is up all day and all night.; It must help people's body clocks, not just tell the time.; Draw it, and make a small model from things at home.
 - **general:** Thick dark curtains, called blackout curtains, keep the bedroom dark.; Eye masks block light from your eyes.; Everyone agrees to follow one clock, and sticks to the same bedtime every day.; Keep the bedroom cool and quiet.
-- **creative:** A lamp that slowly turns orange and dim in the evening, like a sunset, and bright white in the morning.; A 'sunset song' that plays at bedtime, so the body learns the signal.; Grow a touch-me-not plant inside. Its leaves fold at its own 'night', like a living clock.; Astronauts on the space station see 16 sunsets a day. They use special lights that change colour to help their body clocks.
+- **creative:** A lamp that slowly turns orange and dim in the evening, like a sunset, and bright white in the morning.; A 'sunset song' that plays at bedtime, so the body learns the signal.; Grow a touch-me-not plant inside. Their leaves fold at their own 'night', like a living clock.; Astronauts on the space station see 16 sunsets a day. They use special lights that change colour to help their body clocks.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Look at the art of the Sun at midnight.  
   *Parent says:* Imagine the Sun is still up at midnight. How would you know it was time for bed?  
@@ -775,9 +775,9 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 14. (mcq) On Jupiter, a day lasts about 10 hours. On Venus, a day lasts longer than 100 of our days. Why are they so different?  
    Options: Each planet spins at its own speed / Jupiter is closer to the Sun / Venus has no Sun / They are not different  
    **Answer:** Each planet spins at its own speed. *Why:* The length of a day depends on how fast a planet spins. Jupiter spins fast, and Venus spins very slowly. Picking 'Jupiter is closer' is not true. Jupiter is much further from the Sun than Venus.
-15. (mcq) A touch-me-not plant was kept in a dark cupboard. Its leaves still opened and closed each day. What does this show?  
-   Options: The plant has its own body clock / Light got into the cupboard / Plants do not need light / The plant was broken  
-   **Answer:** The plant has its own body clock. *Why:* The plant kept its daily rhythm with no sunlight, so the timer must be inside it. Jean-Jacques d'Ortous de Mairan found this in 1729. Picking 'light got in' is a good scientist's doubt, and later tests ruled it out.
+15. (mcq) A touch-me-not plant was kept in a dark cupboard. Their leaves still opened and closed each day. What does this show?  
+   Options: The plant has their own body clock / Light got into the cupboard / Plants do not need light / The plant was broken  
+   **Answer:** The plant has their own body clock. *Why:* The plant kept their daily rhythm with no sunlight, so the timer must be inside them. Jean-Jacques d'Ortous de Mairan found this in 1729. Picking 'light got in' is a good scientist's doubt, and later tests ruled it out.
 
 ## Applications
 - Clocks and calendars are built on the Earth's spin. One spin is one day.

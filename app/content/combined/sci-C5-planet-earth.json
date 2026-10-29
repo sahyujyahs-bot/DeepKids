@@ -1,0 +1,1211 @@
+{
+ "key": "combined|sci|5|planet-earth",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "planet-earth",
+ "title": "How India's land and rivers were made",
+ "source": "DeepKids Combined. Covers NCERT Class 5 Chapter 2 'Journey of a River' (the Godavari from source to delta, tributaries, river life, dams, pollution, floods and dry rivers, and how rivers support people and culture) and NIOS Class 5 Lesson 5 'The States of India and their Physical Features' (states and union territories, India on the globe, the six physical divisions, climate, crops and forests). Goes further into how the Himalaya formed, the Deccan lava, watersheds, how rivers build land, and the green blanket of fertiliser. No textbook needed.",
+ "summary": "There are fossils of sea animals near the top of Mount Everest. Your child finds out how India's land was made: the Himalaya pushed up when India crashed into Asia, the plains built from river mud, and the Deccan plateau built from lava. They fold towels into mountains, find out why land heats faster than sea, and see why the Godavari starts near the Arabian Sea but flows to the Bay of Bengal. They watch mud build a delta in a tray, grow a green blanket with fertiliser, and weigh what dams give and take. They end knowing that the land, the rain, the crops and the rivers of India are all part of one system.",
+ "builds_on": "Class 4 planet-earth rung: the Earth has a thin crust, a hot mantle and a metal core, and the crust is broken into plates that move slowly, which makes volcanoes and earthquakes. This rung uses those moving plates to explain India's own land: the Himalaya, the plains, the Deccan plateau, the coasts and the islands. It adds latitude and climate, the monsoon, the crops and forests that rainfall decides, and the full journey of a river from source to delta, with dams, pollution, floods and droughts. Later (middle school): plate tectonics in detail, map reading with contours, and water management.",
+ "goals": [
+  "By the end your child can find India on a globe, explain latitude and the Tropic of Cancer, and name India's neighbours and some states and union territories.",
+  "By the end your child can name India's six physical divisions and explain how the Himalaya, the northern plains and the Deccan plateau were made.",
+  "By the end your child can explain how latitude, the sea, height and winds decide a place's climate, and why land heating faster than the sea helps bring the monsoon.",
+  "By the end your child can tell the journey of the Godavari from source to delta, using the words tributary, watershed, perennial, delta and mouth.",
+  "By the end your child can explain how rivers carry silt and build land, why mangroves matter, and what dams give and take away.",
+  "By the end your child can explain how fertiliser makes a green blanket on a river, and say what floods and dry rivers do to people."
+ ],
+ "subconcepts": [
+  "Earth's layers and the moving plates of the crust",
+  "India on the globe: hemispheres, latitude and the Tropic of Cancer",
+  "India's neighbours, states and union territories",
+  "the six physical divisions of India",
+  "how the Himalaya formed and is still rising",
+  "the northern plains built from river mud (alluvium)",
+  "the Deccan plateau, its lava and its black soil",
+  "what decides climate: latitude, the sea, height and winds",
+  "land heats faster than water, and the monsoon",
+  "rainfall decides forests and crops: kharif and rabi",
+  "a river's journey: source, tributaries, perennial and seasonal rivers, mouth",
+  "watersheds and river basins: why the Godavari flows east",
+  "rivers carry silt and build deltas, and mangroves hold them",
+  "dams and reservoirs: what they give and what they take",
+  "river pollution, the green blanket, floods and dry rivers"
+ ],
+ "words": [
+  [
+   "latitude",
+   "how far a place is north or south of the equator, measured in degrees. The equator is 0 degrees and the poles are 90 degrees."
+  ],
+  [
+   "Tropic of Cancer",
+   "an imaginary line about 23 and a half degrees north of the equator. It runs through the middle of India."
+  ],
+  [
+   "plate",
+   "one of the huge pieces that the Earth's crust is broken into. Plates move a few centimetres a year."
+  ],
+  [
+   "alluvium",
+   "fine soil and mud laid down by a river. The northern plains of India are made of it."
+  ],
+  [
+   "plateau",
+   "a large area of high, mostly flat land. The Deccan plateau covers much of southern and central India."
+  ],
+  [
+   "monsoon",
+   "the seasonal winds that bring most of India's rain, from about June to September, and to Tamil Nadu from October to December."
+  ],
+  [
+   "tributary",
+   "a smaller river or stream that flows into a bigger river"
+  ],
+  [
+   "watershed",
+   "the high ground that divides rain flowing to one river from rain flowing to another. The land that drains into one river is its river basin."
+  ],
+  [
+   "perennial river",
+   "a river that flows all year. A seasonal river flows only in the rainy season."
+  ],
+  [
+   "delta",
+   "flat, often triangle-shaped land built from mud a river drops where it meets the sea"
+  ],
+  [
+   "reservoir",
+   "the lake that forms behind a dam, where water is stored"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Where in the world is India?",
+   "goal": "Recall Class 4, hear the story, find India on the globe and start the green blanket jars.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What is under our feet?",
+     "mins": 7,
+     "do": "Recall the Class 4 rung in one quick round. Ask: 'If you could dig straight down, what layers would you pass through?' (The crust, then the hot mantle, then the outer core and the inner core, made mostly of iron and nickel.) 'Is the crust one piece?' (No. It is broken into huge plates that move a few centimetres a year.) 'What happens where plates push or slide past each other?' (Earthquakes, volcanoes and mountains.) Say: 'This time we will see how moving plates made India's own land, and how rivers shape it.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: Sand from Far Hills",
+     "mins": 11,
+     "do": "Read the story aloud. It is told by Sravani, a girl in a fishing village at the mouth of the Godavari in Andhra Pradesh. Don't explain it. Ask two questions: 'Where did the sand on Sravani's beach come from?' and 'Why is the beach getting narrower?' Write your child's answers on a sheet and keep it for Day 7."
+    },
+    {
+     "kind": "talk",
+     "title": "India on the globe",
+     "mins": 13,
+     "do": "Use a globe, or draw on a ball or an orange with a pen. Draw the equator round the middle and mark the North and South Poles. Say: 'The equator is 0 degrees of latitude. The poles are 90 degrees. Latitude tells you how far north or south you are.' Draw the Tropic of Cancer a quarter of the way from the equator to the North Pole (about 23 and a half degrees). Ask: 'Is India north or south of the equator?' (North, in the northern hemisphere.) Show on a world map on a phone that mainland India runs from about 8 degrees north at Kanyakumari to about 37 degrees north in Ladakh, and that the Tropic of Cancer cuts across the middle. Then name India's neighbours together: Pakistan and Afghanistan to the west, China, Nepal and Bhutan to the north, Bangladesh and Myanmar to the east, and Sri Lanka and the Maldives across the sea to the south. Say: 'India is the seventh largest country by area. It has 28 states and 8 union territories. A union territory is run more directly by the central government.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Start the green blanket jars",
+     "mins": 8,
+     "ref": "e3",
+     "do": "Set up Experiment e3 now, because it needs about 10 days. Fill two clear jars or cut plastic bottles with water from a plant saucer or flower vase, which already has a few tiny living algae in it. Label them 'Plain' and 'Plant food'. Add a small pinch of plant fertiliser to the 'Plant food' jar only. Stir both and put them side by side on a sunny windowsill. Ask: 'What do you think will happen in each jar? Why?' Write the guess and the date."
+    },
+    {
+     "kind": "talk",
+     "title": "Our place on the map",
+     "mins": 6,
+     "do": "Ask: 'Which state do we live in? What is its capital? Which states touch ours?' Find them on a phone map. Ask: 'Is our home north or south of the Tropic of Cancer?' (Chennai, Bengaluru, Hyderabad and Mumbai are south of it. Delhi, Lucknow and Srinagar are north of it. Ahmedabad, Bhopal, Ranchi and Kolkata are close to it.) Write the answers on the first page of a notebook called 'India's land and rivers'."
+    }
+   ],
+   "need": [
+    "a globe, or a ball or an orange and a marker",
+    "a phone with a map",
+    "two clear jars or plastic bottles",
+    "water from a plant saucer or flower vase",
+    "a pinch of plant fertiliser",
+    "a notebook"
+   ],
+   "prep": [
+    {
+     "task": "Buy a small packet of plant fertiliser (plant food) from a nursery or online, if you have none",
+     "when": "1 week before"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "The mountains that were a sea floor",
+   "goal": "Meet India's six divisions and find out how the Himalaya was pushed up.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Six kinds of land",
+     "mins": 8,
+     "do": "Show a physical map of India on a phone (search 'physical map of India'). Say: 'Brown means high land and green means low land.' Point to each of the six divisions and say its name: the northern mountains (the Himalaya), the northern plains, the peninsular plateau, the Thar desert, the coastal plains and the islands. Ask: 'Which part do we live in?' Ask: 'Where do you think most people live, on mountains or on plains? Why?' (Plains, because flat land with rich soil and rivers is easier to farm and build on.)"
+    },
+    {
+     "kind": "exp",
+     "title": "Fold a mountain range",
+     "mins": 12,
+     "ref": "e1",
+     "do": "Do Experiment e1. Stack three or four towels or old cloths flat on a table. Say: 'These are layers of mud and sand laid down on an old sea floor.' You hold one end firmly. That end is Asia. Ask your child to guess first: 'If India pushes against Asia, what will happen to the layers?' Then your child pushes the other end slowly towards you. The towels rise in folds. Ask: 'Where did the layers go when they had nowhere to go?' (Up, into folds.) Say: 'About 50 million years ago, the plate carrying India crashed into Asia. The rock between them folded and rose. That is the Himalaya. India is still pushing north about 4 to 5 centimetres a year, so the Himalaya is still rising, a few millimetres a year.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Sea fossils on top of the world",
+     "mins": 7,
+     "do": "Say: 'The rock near the top of Mount Everest is limestone with fossils of sea creatures in it. Shaligram stones, which many families keep in their puja room, come from the Kali Gandaki river in Nepal. Many of them are fossils of ammonites, sea animals with coiled shells.' Ask: 'How could sea animals end up at the top of the highest mountain?' Wait for an answer. (The layers were once sea floor. India's push lifted them up.) Then say: 'The Himalaya is one of the youngest mountain ranges on Earth. The Aravalli hills in Rajasthan are among the oldest. They have been worn down for so long that they are now low.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Who measured Everest?",
+     "mins": 6,
+     "ref": "v1",
+     "do": "Tell Voice v1 in your own words: Radhanath Sikdar, a mathematician from Kolkata, worked out from survey readings in 1852 that a peak the surveyors called Peak XV was the highest in the world. The British named it after George Everest, the former head of the survey. The people of the region already had a name for it: Chomolungma in Tibetan. Nepal later named it Sagarmatha. Ask the voice question and listen to the reasons."
+    },
+    {
+     "kind": "act",
+     "title": "Measure height with shadows",
+     "mins": 12,
+     "ref": "a1",
+     "do": "Do Activity a1. Say: 'Surveyors could not climb Everest, so they used angles and triangles to find its height. We will use shadows to find a bottle's height without measuring it.' If the pencil is 15 centimetres and its shadow is 30, ask: 'How many times longer is the shadow?' (2 times.) 'The bottle's shadow is 50 centimetres. How tall is the bottle?' (50 divided by 2 is 25 centimetres.) Then check with the ruler."
+    }
+   ],
+   "need": [
+    "three or four towels or old cloths",
+    "a phone with a map",
+    "a pencil, a ruler and a steel bottle or tumbler",
+    "sunlight on the floor, or a torch"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Plains, plateau, desert, coasts and islands",
+   "goal": "Find out how the plains and the Deccan were made, and colour a map of India's land.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Plains made by rivers",
+     "mins": 8,
+     "do": "Say: 'Rivers coming down from the Himalaya, like the Indus, the Ganga and the Brahmaputra, carry huge amounts of mud. For millions of years they dropped it on the low land south of the mountains. That fine mud is called alluvium. It built the northern plains, which are deep, flat and rich.' Ask: 'Remember Sravani's sand? What else did rivers build out of mud?' (The delta and the beach.) Ask: 'Why do you think the plains grow so much wheat, rice and sugarcane?' (Soft, rich soil, flat land and plenty of river water.)"
+    },
+    {
+     "kind": "talk",
+     "title": "A plateau built from lava",
+     "mins": 10,
+     "do": "Say: 'The peninsular plateau is a raised triangle of very old, hard rock. Much of its western part, the Deccan, is made of basalt. About 66 million years ago, lava poured out of long cracks in the ground, flow after flow, until it was more than a kilometre thick in places. These steps of lava are called the Deccan Traps. Trap comes from a Swedish word for stairs.' Ask: 'Basalt breaks down into a soil. What colour do you think it is?' (Black.) Say: 'This black soil, called regur, holds water well, so it is good for cotton. That is why Maharashtra and Gujarat grow so much cotton.' Point out the Western Ghats along the west coast and the lower Eastern Ghats along the east."
+    },
+    {
+     "kind": "think",
+     "title": "Did the lava kill the dinosaurs?",
+     "mins": 8,
+     "ref": "v2",
+     "do": "Tell Voice v2 in your own words: the Deccan lava poured out at about the same time the dinosaurs died out. Most scientists think a giant asteroid that hit Mexico was the main cause. Some, like Gerta Keller, think the Deccan eruptions mattered a lot too. Ask the voice question. Good answers: we would need exact dates of the lava flows and of the extinction, and see which came first."
+    },
+    {
+     "kind": "talk",
+     "title": "Desert, coasts and islands",
+     "mins": 7,
+     "do": "Say: 'West of the Aravalli is the Thar desert, hot and dry, with sand dunes and thorny bushes. The Luni river there flows only in the rainy season. The western coastal plain is narrow, between the Western Ghats and the Arabian Sea: Konkan, Kanara and Malabar. The eastern coastal plain is wider, because big rivers have built deltas there: the Mahanadi, the Godavari, the Krishna and the Kaveri. India's islands are the Andaman and Nicobar Islands in the Bay of Bengal and the Lakshadweep islands in the Arabian Sea, which are built of coral.' Ask: 'Why do you think the east coast has deltas and the west coast has very few?' (The big peninsular rivers flow east.)"
+    },
+    {
+     "kind": "act",
+     "title": "Map of India's land",
+     "mins": 12,
+     "ref": "a2",
+     "do": "Start Activity a2. Your child colours an outline map of India by the six divisions and marks the Tropic of Cancer, your home and your state capital. Finish it on Day 4 if needed."
+    }
+   ],
+   "need": [
+    "an outline map of India (print one, or trace from a phone)",
+    "colour pencils"
+   ],
+   "prep": [
+    {
+     "task": "Print or trace an outline map of India with state borders",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "What makes a climate?",
+   "goal": "Find out why places differ in heat and rain, and how rain decides forests and crops.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Set up sand and water in the sun",
+     "mins": 5,
+     "ref": "e2",
+     "do": "Set up Experiment e2. Put a steel bowl of dry sand or dry soil and a steel bowl of water, filled to the same level, side by side in the sun on a balcony or windowsill. Ask: 'Which do you think will get hot faster? Which will stay warm longer after we move them into the shade?' Write the guesses. Your child touches each and rates it from 1 (cool) to 5 (hot), or reads a thermometer."
+    },
+    {
+     "kind": "talk",
+     "title": "Four things that decide climate",
+     "mins": 10,
+     "do": "Say: 'Weather is what the air is like today. Climate is what it is usually like, year after year.' Then go through four things with an example each, and ask your child to guess before you say. 1. Latitude: 'Is it hotter near the equator or near the poles?' (Near the equator, because the Sun shines more directly.) 2. The sea: 'Chennai and Delhi are both hot in May. Which is hotter in May and colder in January?' (Delhi, because it is far from the sea. The sea keeps Chennai's temperature more even and its air humid.) 3. Height: 'Why is Ooty cool when Coimbatore below it is hot?' (Air gets cooler the higher you go, roughly 6 degrees for every kilometre.) 4. Mountains and winds: 'Mumbai gets much more rain than Pune, though they are close. Why?' (Wet winds from the sea rise over the Western Ghats and drop their rain on the sea side. Pune lies on the drier side, called the rain shadow.)"
+    },
+    {
+     "kind": "talk",
+     "title": "How the monsoon comes",
+     "mins": 8,
+     "do": "Say: 'In summer the land of India heats up much faster than the sea around it. Hot air over the land rises. Cooler, wet air from the sea flows in to take its place. That wet wind is the southwest monsoon.' Ask: 'Which part of the coast do you think gets the rain first?' (Kerala, around the start of June.) Say: 'This is the simple part of the story. The full reason also involves a band of rain clouds that moves north and south with the seasons across the whole world. In Tamil Nadu, most rain comes later, from October to December, with the northeast monsoon.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Read the sand and water",
+     "mins": 5,
+     "ref": "e2",
+     "do": "After at least 30 minutes in the sun, touch or measure both bowls again. Write the numbers. Then move both bowls into the shade. Ask: 'Which got hotter?' (Usually the sand.) Say: 'We will check again in 30 minutes to see which cools faster.' Check after the worksheet."
+    },
+    {
+     "kind": "talk",
+     "title": "Rain decides forests and crops",
+     "mins": 7,
+     "do": "Say: 'Where it rains more than 200 centimetres a year, as in the Western Ghats and the northeast, forests stay green all year. These are evergreen forests. With 100 to 200 centimetres, trees like teak drop their leaves in the dry season to save water. Where there is little rain, as in the Thar, there are thorny bushes.' Then do a quick sort aloud. Kharif crops are sown with the monsoon in June and July: rice, jowar, bajra, maize, cotton, groundnut. Rabi crops are sown after the rains in October and November and harvested in spring: wheat, mustard, chana, barley, peas. Ask: 'Why is rice a kharif crop?' (Rice needs a lot of water, and the monsoon gives it.)"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1 (core). Read items aloud if needed. For each wrong answer, look back at the map from Activity a2 together. Then check the sand and water bowls one last time. The sand usually cools faster too. Say: 'Land heats fast and cools fast. The sea heats slowly and cools slowly. That is why coastal places have milder weather.'"
+    }
+   ],
+   "need": [
+    "two steel bowls of the same size",
+    "dry sand or dry soil from a potted plant",
+    "water",
+    "a thermometer if you have one"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The journey of the Godavari",
+   "goal": "Follow a river from its source to the sea, and find out why rain goes to one river and not another.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Check the jars",
+     "mins": 3,
+     "ref": "e3",
+     "do": "Hold a white paper behind each jar of Experiment e3. Ask: 'Is either jar greener or cloudier yet?' There may be little change so far. Your child draws both jars with today's date."
+    },
+    {
+     "kind": "talk",
+     "title": "From Trimbakeshwar to the sea",
+     "mins": 12,
+     "do": "Show the Godavari on a phone map. Say: 'The Godavari begins as a small spring in the Brahmagiri hills at Trimbakeshwar, near Nashik in Maharashtra. It flows about 1,465 kilometres east, through Maharashtra, Telangana and Andhra Pradesh, to the Bay of Bengal. It is the longest river in peninsular India. Many people call it Dakshina Ganga, the Ganga of the south.' Trace it with a finger. Say: 'Smaller rivers that flow into a bigger one are called tributaries. The Godavari's tributaries include the Manjira, the Pranhita, the Indravati and the Sabari.' Ask: 'How does a small spring become a big river?' (Rain and many tributaries keep joining it.) Then ask: 'Some rivers flow all year and some only in the rains. Which kind do you think the Godavari is?' Say: 'It flows all year, so it is a perennial river, though it shrinks a lot in summer. It is fed by rain and by water that seeps out of the ground. Himalayan rivers like the Ganga are also fed by melting snow and glaciers. The Luni in the Thar is a seasonal river.'"
+    },
+    {
+     "kind": "exp",
+     "title": "A crumpled paper watershed",
+     "mins": 15,
+     "ref": "e4",
+     "do": "Do Experiment e4. Before you spray, ask: 'Where will the water go when it lands on the hills?' After spraying, ask: 'Did water from both sides of a ridge end up in the same valley?' (No. A ridge divides the water.) Say: 'A ridge that divides rain between two rivers is called a watershed. All the land that drains into one river is its river basin.'"
+    },
+    {
+     "kind": "think",
+     "title": "Why does the Godavari flow east?",
+     "mins": 8,
+     "do": "Say: 'The Godavari starts only about 80 kilometres from the Arabian Sea. But it flows over 1,400 kilometres the other way, to the Bay of Bengal.' Ask: 'Why do you think it doesn't take the short way?' Wait for a guess. Then fold a sheet of paper so that one side is a short, steep slope and the other is a long, gentle slope. Pour a spoon of water just on the long side of the ridge. Ask: 'Which way did it go?' Say: 'The Western Ghats are the ridge. The Deccan plateau tilts gently down to the east. So the Godavari, the Krishna and the Kaveri all flow east. Two big rivers, the Narmada and the Tapi, flow west through long valleys.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Our own river",
+     "mins": 7,
+     "do": "Start the project 'My river's passport'. Ask: 'Which river is nearest to our home? Where does it begin and where does it reach the sea or a bigger river?' Look it up together. For Chennai it may be the Adyar or the Cooum, for Bengaluru the Vrishabhavathi, which joins the Arkavathi and then the Kaveri, for Hyderabad the Musi, which joins the Krishna, for Delhi the Yamuna. Your child writes the first page: the river's name, where it starts, and the sea it reaches."
+    }
+   ],
+   "need": [
+    "a sheet of A4 paper",
+    "washable sketch pens",
+    "a spray bottle or a cup of water",
+    "a baking tray or a plate",
+    "a phone with a map"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Rivers build land",
+   "goal": "Watch mud build a delta, meet the mangroves, and see how a river supports life.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Build a delta in a tray",
+     "mins": 15,
+     "ref": "e5",
+     "do": "Do Experiment e5. Before you pour, ask: 'When the muddy water reaches the still sea, what will happen to the mud?' After three cups, ask: 'Where did the mud settle? What shape did it make?' (It settled where the water slowed down, in a fan shape.) Ask: 'Remember Sravani's beach and the pot of rice water. Why does still water drop its mud?' (Moving water can carry grains. When it slows, it can't, and they sink.)"
+    },
+    {
+     "kind": "talk",
+     "title": "The delta and the mangroves",
+     "mins": 10,
+     "do": "Say: 'Near Rajahmundry the Godavari splits into two main branches, the Gautami and the Vasishta, and spreads out over a wide delta before it reaches the sea. Rich delta soil grows a lot of rice and coconut.' Then talk about mangroves. Say: 'Mangroves are trees that live in the salty mud where rivers meet the sea. Their problem is hard: the mud is salty, the tide covers it twice a day, and there is almost no air in it for their roots.' Ask: 'How would you breathe if your feet were stuck in airless mud?' Say: 'Some mangroves grow breathing roots that poke up out of the mud like pencils and take in air. Others stand on arching stilt roots that hold them firm. Some push extra salt out through their leaves.' Say: 'The Coringa mangroves at the Godavari's mouth are a protected sanctuary. Mangrove roots slow the water so mud settles, and they protect the coast from storm waves.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Why people live by rivers",
+     "mins": 10,
+     "do": "Ask: 'Why do you think people have always built villages and cities by rivers?' Let your child list at least four reasons. (Water to drink and cook, water for fields, fish, rich soil, boats for travel.) Say: 'Rajahmundry holds the Godavari Pushkaram once every 12 years, when crowds come to bathe in the river. Nashik, near its source, holds the Kumbh Mela.' Say: 'The pulasa, a fish loved in the Godavari districts, swims up from the sea into the river during the monsoon floods to lay eggs.' Ask: 'Who else depends on the river besides people?' (Fish, birds, crocodiles, otters, the trees on the banks, the mangroves and the people of the sea who eat fish.)"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "ref": "ws2",
+     "do": "Do Worksheet ws2 (stretch). It uses the ideas in new places. Your child can answer the writing items aloud while you write. Praise answers that use the real words: tributary, watershed, delta, silt and rain shadow."
+    }
+   ],
+   "need": [
+    "a baking tray or a large steel plate",
+    "a folded card or a plastic file folder",
+    "two books",
+    "a cup",
+    "soil from a potted plant or a spoon of multani mitti"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Dams, a green blanket, floods and dry taps",
+   "goal": "Weigh what dams give and take, see the green blanket, and think about too much and too little water.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "What a dam gives and takes",
+     "mins": 8,
+     "do": "Say: 'A dam is a wall across a river. The water behind it forms a lake called a reservoir. The Godavari basin has hundreds of dams.' Ask: 'What can stored water be used for?' (Drinking water for cities, water for crops in the dry season, and electricity.) Then read back what your child said on Day 1 about why Sravani's beach is shrinking. Ask: 'Now that we built a delta, what do you think a dam does to the mud in a river?' (Water goes still behind the dam, so much of the mud settles there instead of reaching the delta.) Ask: 'Who gains from a dam? Who might lose?'"
+    },
+    {
+     "kind": "think",
+     "title": "Should big dams be built?",
+     "mins": 10,
+     "ref": "v3",
+     "do": "Tell Voice v3 in your own words: the Sardar Sarovar Dam on the Narmada in Gujarat brings water to dry parts of Gujarat and Rajasthan and makes electricity. Its reservoir also flooded the homes, farms and forests of many thousands of families, mostly Adivasi and farming families in Madhya Pradesh, Maharashtra and Gujarat. Medha Patkar and the Narmada Bachao Andolan fought for years for those families. Ask the voice question. Help your child list one gain and one cost on each side. There is no single right answer."
+    },
+    {
+     "kind": "exp",
+     "title": "Green blanket results",
+     "mins": 8,
+     "ref": "e3",
+     "do": "Look at the jars of Experiment e3 against white paper. By now the 'Plant food' jar is often greener or cloudier, or has a green film on the side facing the window. Your child draws both. Ask: 'We changed only one thing. What was it?' (The plant food.) 'So what made the extra green?' Say: 'Fertiliser washed off fields, and soapy water and sewage from towns, feed tiny water plants called algae. They grow into a green blanket. When they die and rot, bacteria use up the oxygen in the water, and fish can die.' If both jars look the same, wait a few more days in a sunnier spot."
+    },
+    {
+     "kind": "talk",
+     "title": "The lake with a curtain",
+     "mins": 7,
+     "ref": "v4",
+     "do": "Tell Voice v4 in your own words: in 1973 David Schindler and his team in Canada split a real lake in two with a plastic curtain. They fed one half phosphorus with carbon and nitrogen, and the other half only carbon and nitrogen. Only the phosphorus half turned bright green. Ask the voice question. Say: 'This helped many countries limit phosphate in detergents and sewage.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Too much water, too little water",
+     "mins": 12,
+     "do": "Ask: 'What happens when it rains far more than usual for days?' (The river rises and spills over its banks. That is a flood. It can wash away homes, fields and roads.) Say: 'Floods also spread fresh silt over fields, which is why delta soil is so rich. The danger comes when people live and build where the river needs room.' Then say: 'In June 2019, the four big lakes that supply Chennai nearly dried up after a weak monsoon. Many families waited for water tankers.' Ask: 'What would we do if our taps ran dry for a week?' Then do a one-minute test. Put a bucket under a tap and let it run for one minute, as some people do while brushing. Measure the water with a one-litre bottle. Ask: 'If each person in our family did that twice a day, how much would that be in a week?' Help with the multiplication."
+    }
+   ],
+   "need": [
+    "the jars from Day 1",
+    "a white paper",
+    "a bucket and a one-litre bottle"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Source to Sea: play, check and teach it back",
+   "goal": "Play the game, try the hardest questions, and teach the journey of India's land and rivers.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Play Source to Sea",
+     "mins": 12,
+     "ref": "g1",
+     "do": "Play Game g1, Source to Sea. Each player is a grain of sand travelling from the Western Ghats to the delta. Before moving on any square that sends you back or forward, the player says in one sentence why. If they can't, they stay where they are."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "ref": "ws3",
+     "do": "Do Worksheet ws3 (challenge) together. Section C has no single right answer. Praise reasons that use what we saw: the folded towels, the sand and water bowls, the paper watershed, the tray delta and the green jars."
+    },
+    {
+     "kind": "check",
+     "title": "Check",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time, without notes. Tick the ones answered well. For a miss, go back to the day's map or experiment for one minute and ask again in different words. Six or more right is good."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back with the river's passport",
+     "mins": 11,
+     "do": "Your child is the teacher and you are the student. Using the map from Activity a2 and the river's passport, they explain in about five minutes: how the Himalaya rose, what built the plains and the Deccan, why the Godavari flows east, how a delta is built and why dams and fertiliser change a river. Then ask: 'Sravani's sand came from the Western Ghats. Where do you think the soil in our own potted plant came from?'"
+    }
+   ],
+   "need": [
+    "the printed game board, a die and counters",
+    "the map from Activity a2",
+    "the river's passport"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "India's land and climate",
+   "day": 4,
+   "sections": [
+    [
+     "A. India on the globe",
+     [
+      {
+       "t": "fill",
+       "p": "The line of 0 degrees latitude round the middle of the Earth is called the ____.",
+       "a": [
+        "equator",
+        "the equator"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which line runs across the middle of India?",
+       "opts": [
+        "the equator",
+        "the Tropic of Cancer",
+        "the Tropic of Capricorn"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which of these is a neighbour of India?",
+       "opts": [
+        "Nepal",
+        "Japan",
+        "Egypt"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Six divisions",
+     [
+      {
+       "t": "match",
+       "p": "Match each part of India to how it was made.",
+       "pairs": [
+        [
+         "the Himalaya",
+         "rock folded up when India pushed into Asia"
+        ],
+        [
+         "the northern plains",
+         "mud laid down by rivers"
+        ],
+        [
+         "the Deccan plateau",
+         "layers of lava that cooled into basalt"
+        ],
+        [
+         "Lakshadweep",
+         "coral islands"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Fine mud laid down by a river is called ____.",
+       "a": [
+        "alluvium",
+        "silt"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort these crops by when they are sown.",
+       "items": [
+        "rice",
+        "wheat",
+        "cotton",
+        "mustard",
+        "bajra",
+        "chana"
+       ],
+       "cats": [
+        "kharif (sown with the monsoon)",
+        "rabi (sown after the monsoon)"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "mcq",
+       "p": "Mumbai and Pune are close together. Why does Mumbai get much more rain?",
+       "opts": [
+        "Mumbai is nearer the equator",
+        "wet sea winds drop their rain on the sea side of the Western Ghats",
+        "Pune is higher, so rain freezes"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Fossils of sea animals are found near the top of Mount Everest. Explain how they got there.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "In the sun test, the sand got hotter than the water. Explain how this helps bring the monsoon.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Rivers in new places",
+   "day": 6,
+   "sections": [
+    [
+     "A. A river's journey",
+     [
+      {
+       "t": "fill",
+       "p": "A smaller river that flows into a bigger river is called a ____.",
+       "a": [
+        "tributary"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A river flows all year. What kind of river is it?",
+       "opts": [
+        "seasonal",
+        "perennial",
+        "salty"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each word to its meaning.",
+       "pairs": [
+        [
+         "source",
+         "where a river begins"
+        ],
+        [
+         "mouth",
+         "where a river meets the sea"
+        ],
+        [
+         "watershed",
+         "high ground that divides rain between two rivers"
+        ],
+        [
+         "reservoir",
+         "the lake behind a dam"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Where does a river drop most of its mud?",
+       "opts": [
+        "where it flows fastest, high in the hills",
+        "where it slows down, as it reaches the sea",
+        "only behind waterfalls"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Other rivers",
+     [
+      {
+       "t": "mcq",
+       "p": "The Narmada begins in central India. Which sea does it flow into?",
+       "opts": [
+        "the Bay of Bengal",
+        "the Arabian Sea",
+        "the Indian Ocean near Sri Lanka"
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Sort these rivers by where most of their water comes from.",
+       "items": [
+        "Ganga",
+        "Brahmaputra",
+        "Godavari",
+        "Kaveri"
+       ],
+       "cats": [
+        "rain plus Himalayan snow and glaciers",
+        "rain only"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Kavya pours water on one side of a ridge in her paper model. Where does it go?",
+       "opts": [
+        "into the valley on that side",
+        "over the ridge to the other side",
+        "it stays on the ridge"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Mangroves live in salty mud with almost no air in it. Describe one root feature that helps them, and how it helps.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "The Kaveri begins in Kodagu, close to the Arabian Sea. Explain why it flows to the Bay of Bengal instead.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Puzzles and choices",
+   "day": 8,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "In Activity a1, a pencil 15 centimetres tall cast a shadow 30 centimetres long. At the same time a bottle cast a shadow 50 centimetres long. How tall was the bottle?",
+       "opts": [
+        "15 centimetres",
+        "25 centimetres",
+        "100 centimetres"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "The Himalaya rises a few millimetres a year, but its height changes slowly. Why?",
+       "opts": [
+        "rain, ice and rivers wear the mountains down at the same time",
+        "the mountains are too heavy to rise",
+        "the Sun melts the rock"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A river has a big dam halfway down. What will most likely happen to its delta over many years?",
+       "opts": [
+        "it grows faster",
+        "it gets less new mud and may shrink",
+        "nothing changes"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "The side of a mountain range that gets little rain, because the wind has already dropped its rain on the other side, is called the rain ____.",
+       "a": [
+        "shadow"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Clear is not always clean",
+     [
+      {
+       "t": "mcq",
+       "p": "Leela, a girl in Madurai, sees a pond with clear water. Can she be sure it has no fertiliser in it?",
+       "opts": [
+        "yes, fertiliser always makes water green at once",
+        "no, fertiliser dissolves and cannot be seen",
+        "yes, if fish are swimming in it"
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Sort these by whether they help or harm a river.",
+       "items": [
+        "planting trees on the banks",
+        "washing clothes with soap in the river",
+        "too much fertiliser on fields",
+        "mangroves at the mouth",
+        "treating sewage before it reaches the river"
+       ],
+       "cats": [
+        "helps",
+        "harms"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. What do you think?",
+     [
+      {
+       "t": "write",
+       "p": "A town wants a new dam for drinking water. It will flood three villages. Write one argument for it and one against it. Then say what you would decide, and why.",
+       "lines": 5
+      },
+      {
+       "t": "write",
+       "p": "Sravani's coast is shrinking. Scientists say dams are one reason but not the only one. How could you test whether dams are a cause?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Fold a mountain range",
+   "day": 2,
+   "question": "What happens to flat layers of rock when two plates push together?",
+   "need": [
+    "three or four towels or old cloths, different colours if you have them",
+    "a table"
+   ],
+   "steps": [
+    "Lay the towels flat in a neat stack on the table. They are layers of mud and sand on an old sea floor.",
+    "A grown-up holds one end firmly. That end is Asia.",
+    "Your child pushes the other end slowly and steadily towards the grown-up. That end is India moving north.",
+    "Watch the middle. Stop when the stack has risen into folds.",
+    "Push a little more and see whether the folds get higher or start to fold over each other."
+   ],
+   "predict": "Ask your child to guess first: 'If India pushes into Asia, where will the layers go?'",
+   "observe": "The flat layers buckle and rise into ridges and valleys. With more pushing, the folds get higher and some tip over.",
+   "why": "When two plates push together and the rock has nowhere to go, it is squeezed and lifted into folds. About 50 million years ago, the plate carrying India collided with Asia. The sea floor between them was squeezed and pushed up into the Himalaya. India is still moving north about 4 to 5 centimetres a year, so the mountains are still rising and the region still has earthquakes.",
+   "safety": "",
+   "time": "12 min"
+  },
+  {
+   "id": "e2",
+   "title": "Land or water: which heats up faster?",
+   "day": 4,
+   "question": "Does land heat up and cool down faster than water?",
+   "need": [
+    "two steel bowls of the same size",
+    "dry sand or dry soil from a potted plant",
+    "water",
+    "a sunny balcony or windowsill",
+    "a kitchen or room thermometer if you have one"
+   ],
+   "steps": [
+    "Fill one bowl with dry sand or soil and the other with water, to the same level.",
+    "Feel each one or take its temperature. With a thermometer, push it 1 centimetre into the sand, and dip it 1 centimetre into the water. Without one, rate each from 1 (cool) to 5 (hot) with a fingertip.",
+    "Put both side by side in full sun for at least 30 minutes.",
+    "Feel or measure both again and write the numbers.",
+    "Move both into the shade and feel or measure them again after 30 more minutes."
+   ],
+   "predict": "Ask: 'Which will get hot faster, the sand or the water? Which will cool faster?'",
+   "observe": "The sand gets noticeably hotter than the water in the sun, and cools faster in the shade.",
+   "why": "Water needs much more heat than sand to warm up by the same amount, and the Sun's heat stays near the top of the sand, while in water it spreads deeper. So land heats up and cools down faster than the sea. In summer the land of India gets much hotter than the seas around it. The hot air over the land rises, and moist air from the sea flows in. That is part of the reason for the monsoon. It is also why coastal cities have milder weather than inland cities.",
+   "safety": "Steel bowls in the sun can get hot. A grown-up should move them.",
+   "time": "5 min to set up, readings after 30 and 60 minutes"
+  },
+  {
+   "id": "e3",
+   "title": "The green blanket jars",
+   "day": 1,
+   "question": "Does fertiliser make algae grow in water?",
+   "need": [
+    "two clear jars or cut plastic bottles of the same size",
+    "water from a plant saucer, a flower vase or an aquarium, which has a few algae in it",
+    "a small pinch of plant fertiliser from a nursery",
+    "labels and a pen",
+    "a sunny windowsill",
+    "a white paper"
+   ],
+   "steps": [
+    "Fill both jars with the same water to the same level.",
+    "Label them 'Plain' and 'Plant food', with the date.",
+    "Add a small pinch of fertiliser to the 'Plant food' jar only. Stir both.",
+    "Put them side by side on a sunny windowsill.",
+    "Every 2 or 3 days, hold white paper behind each jar and draw what you see.",
+    "After about 10 days, compare the colour, the cloudiness and any green film or scum."
+   ],
+   "predict": "Ask: 'What will happen in each jar after a week? Why do you think so?'",
+   "observe": "The jar with plant food usually turns greener or cloudier, or grows a green film on the side facing the light. The plain jar changes much less. If neither changes, add a spoon of vase or saucer water to both and wait a few more days.",
+   "why": "Algae are tiny water plants. Like all plants they need light and nutrients, especially nitrogen and phosphorus, which fertiliser has. In a river or lake, fertiliser washed off fields, and soap and sewage from towns, feed algae until they cover the water like a blanket. When the algae die, bacteria break them down and use up the oxygen in the water, and fish and other water animals can die.",
+   "safety": "Fertiliser is not food. A grown-up handles it, and everyone washes hands afterwards. Pour the jars onto a potted plant at the end.",
+   "time": "8 min to set up, short checks on Days 5 and 7"
+  },
+  {
+   "id": "e4",
+   "title": "A crumpled paper watershed",
+   "day": 5,
+   "question": "When rain falls on hills, how does it decide which valley to flow into?",
+   "need": [
+    "a sheet of A4 paper",
+    "washable sketch pens (water-based)",
+    "a baking tray or a plate",
+    "a spray bottle, or a cup of water and your fingers"
+   ],
+   "steps": [
+    "Crumple the paper into a loose ball, then open it out partly so it has hills and valleys. Put it on the tray.",
+    "With a sketch pen, draw along the tops of the highest ridges.",
+    "Use a different colour to mark a dot on each side of one ridge.",
+    "Spray water gently over the paper, or flick water from your fingers, like rain.",
+    "Watch where the coloured water runs, and where the drops collect."
+   ],
+   "predict": "Ask: 'Where will the rain go when it lands on the hills? Will rain from both sides of a ridge end up in the same place?'",
+   "observe": "The ink runs down from the ridges into the valleys. Water from the two sides of a ridge flows away into different valleys and collects in the low parts.",
+   "why": "Water always flows downhill. A ridge divides rain into two directions. The high ground that divides two rivers is called a watershed, and all the land that drains into one river is its river basin. The Western Ghats are a long ridge near the west coast. Rain on the steep west side runs quickly to the Arabian Sea in short rivers. Rain on the east side flows down the gently tilted Deccan plateau to the Bay of Bengal.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e5",
+   "title": "Build a delta in a tray",
+   "day": 6,
+   "question": "What happens to the mud in a river when the river reaches the still sea?",
+   "need": [
+    "a baking tray or a large steel plate with a rim",
+    "a folded card or a plastic file folder bent into a gutter",
+    "two books",
+    "a cup",
+    "two spoons of soil from a potted plant, or multani mitti"
+   ],
+   "steps": [
+    "Pour water into the tray to about 1 centimetre deep. This is the sea.",
+    "Rest one end of the gutter on the books and the other end at the edge of the tray, just touching the water. This is the river.",
+    "Stir two spoons of soil into a cup of water to make muddy river water.",
+    "Pour it slowly into the top of the gutter.",
+    "Watch where the mud goes in the tray. Repeat with two more cups of muddy water, without stirring the tray.",
+    "Look at the shape of the mud on the bottom of the tray."
+   ],
+   "predict": "Ask: 'When the muddy river reaches the still sea, will the mud stay in the water, sink at once, or spread out first?'",
+   "observe": "The muddy water spreads out in a cloud where it enters the still water, then the mud settles on the bottom near the end of the gutter in a fan shape. Each cup adds to the fan. The bigger grains settle first, close to the gutter.",
+   "why": "Fast-moving water can carry grains of mud and sand. When it slows down, it can no longer hold them, and they sink. A river slows down where it meets the sea, so it drops its silt there, building flat land called a delta. The same thing happens behind a dam, where the water goes still, so much of the silt that would have reached the delta settles in the reservoir.",
+   "safety": "Use soil from a potted plant, and wash hands afterwards.",
+   "time": "15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Measure height with shadows",
+   "day": 2,
+   "mins": 12,
+   "need": [
+    "a pencil",
+    "a ruler",
+    "a steel bottle or tumbler",
+    "sunlight falling on the floor or a balcony, or a torch held still across the room"
+   ],
+   "steps": [
+    "Stand the pencil upright in sunlight. Measure its height and the length of its shadow.",
+    "Work out how many times longer the shadow is than the pencil.",
+    "Stand the bottle next to it. Measure only its shadow.",
+    "Use the same rule to guess the bottle's height. If the pencil's shadow is twice its height, the bottle's height is half its shadow.",
+    "Now measure the bottle with the ruler and see how close your guess was."
+   ],
+   "outcome": "Your child measures an object's height without measuring it directly, using a ratio, the same kind of thinking surveyors used with angles and triangles to find the height of mountains they could not climb."
+  },
+  {
+   "id": "a2",
+   "title": "Map of India's land",
+   "day": 3,
+   "mins": 12,
+   "need": [
+    "an outline map of India with state borders",
+    "colour pencils"
+   ],
+   "steps": [
+    "Colour the six divisions: the Himalaya brown, the northern plains light green, the peninsular plateau orange, the Thar desert yellow, the coastal plains dark green, the islands blue outlined.",
+    "Draw the Tropic of Cancer across the map in red.",
+    "Mark your home with a star and your state capital with a dot.",
+    "Draw the Godavari in blue from Trimbakeshwar to the Bay of Bengal.",
+    "Label the Western Ghats and the Eastern Ghats."
+   ],
+   "outcome": "A map of India's land that your child made and can use to explain how each part was formed."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Radhanath Sikdar (1813–1870), mathematician of the Great Trigonometrical Survey of India, Kolkata",
+   "idea": "The survey measured India using triangles. Surveyors measured one line on the ground very exactly, then the angles to far-off points, and calculated distances and heights. Sikdar was the survey's chief computer, the person who did the hardest calculations. He is widely credited with working out, in 1852, from readings taken from the plains, that the mountain the surveyors called Peak XV was the highest in the world.",
+   "then": "In 1856 the head of the survey, Andrew Waugh, announced the height as 29,002 feet. The peak was named after George Everest, the earlier head of the survey, who had not seen it and himself objected that local people could not easily say the name. Sikdar's part was rarely mentioned at the time.",
+   "now": "Sikdar's role as the chief computer is well recorded, and India issued a postage stamp in his honour in 2004. Some details of the popular story, such as him running into the office to announce the discovery, may not be true. The mountain already had local names, Chomolungma in Tibetan, and Sagarmatha was given in Nepal. A survey by Nepal and China in 2020 measured it as 8,848.86 metres.",
+   "status": "accepted",
+   "ask": "The people who lived near the mountain knew it for centuries. The survey measured it and named it after a man who never saw it. Who do you think should get to name a mountain?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "Luis and Walter Alvarez (asteroid idea, 1980) and Gerta Keller (Deccan volcano idea)",
+   "idea": "About 66 million years ago, most dinosaurs died out. In 1980 Luis and Walter Alvarez, a father and son, found a thin layer of clay rich in a rare metal, iridium, all over the world, and said a giant asteroid had hit the Earth. A huge crater of the right age was later found at Chicxulub in Mexico. Gerta Keller, a geologist, has argued that the Deccan lava eruptions in India, which poured out gas for hundreds of thousands of years around the same time, were a major cause.",
+   "then": "The asteroid idea was doubted at first, but the crater and other evidence convinced most scientists by the 1990s. Keller's view has been strongly opposed, and the argument has sometimes been bitter.",
+   "now": "Most scientists think the asteroid was the main cause. Many now agree the Deccan eruptions changed the climate and may have made life harder before or after the impact. Better dating of the lava flows has kept the question alive. Scientists still argue about how much each mattered.",
+   "status": "debated",
+   "ask": "If you wanted to know whether the lava or the asteroid came first, what would you need to measure?",
+   "day": 3
+  },
+  {
+   "id": "v3",
+   "who": "Medha Patkar (born 1954) and the Narmada Bachao Andolan, India",
+   "idea": "The Sardar Sarovar Dam on the Narmada in Gujarat was planned to bring drinking water and irrigation to dry parts of Gujarat and Rajasthan, and electricity to several states. Its reservoir would flood the land of many thousands of families, many of them Adivasi, in Madhya Pradesh, Maharashtra and Gujarat. Medha Patkar, a social worker, and the Narmada Bachao Andolan (Save the Narmada Movement) argued that these families were not being given fair land and homes, and that the costs to people and forests were too high.",
+   "then": "The movement held marches and long fasts from the late 1980s. The World Bank, which had helped fund the dam, withdrew in 1993 after an independent review. In 2000 the Supreme Court of India allowed the dam to be built, with rules on resettling families.",
+   "now": "The dam was completed and opened in 2017. It supplies water and power to millions. Many families were resettled. Others say they never got the land they were promised. People still disagree about whether the gains were worth the costs, and how the costs should have been shared.",
+   "status": "debated",
+   "ask": "The people who gain from a dam and the people who lose their homes are often not the same people. How should a country decide?",
+   "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "David Schindler (1940–2021), Canada (lake experiment, 1973)",
+   "idea": "In the 1960s many lakes were turning green with algae. Some scientists and detergent companies argued that carbon or nitrogen was the cause, not the phosphate in many detergents and in sewage. Schindler's team split a real lake in northwestern Ontario in two with a plastic curtain. Both halves got carbon and nitrogen. Only one half also got phosphorus. Within weeks, that half turned bright green and the other stayed clear.",
+   "then": "A photograph of the lake from the air, one half green and one half blue, was hard to argue with. It helped persuade governments in Canada and the USA to limit phosphate in detergents.",
+   "now": "Scientists agree that phosphorus is often the main nutrient behind green blankets in lakes, along with nitrogen in many rivers and seas. The experiment is still taught as a model of a clear test.",
+   "status": "accepted",
+   "ask": "Schindler changed only one thing between the two halves. Why did that make his result so convincing?",
+   "day": 7
+  }
+ ],
+ "project": {
+  "title": "My river's passport",
+  "days": [
+   5,
+   8
+  ],
+  "steps": [
+   "Choose the river nearest your home, or the Godavari if you have none nearby.",
+   "Page 1: its name, where it begins, and the sea or river it flows into.",
+   "Page 2: a map of its journey, with two tributaries, two towns and its mouth.",
+   "Page 3: is it perennial or seasonal? Is there a dam on it? What is the reservoir called?",
+   "Page 4: three ways people use it, and one creature that lives in it or by it.",
+   "Page 5: one problem the river faces, and one thing people are doing about it. Ask an elder what the river was like when they were young.",
+   "Use the passport to teach it back on Day 8."
+  ],
+  "outcome": "A five-page passport of a real river that your child researched, drew and can explain."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Source to Sea",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a counter for each player, such as a bead or a coin"
+  ],
+  "rules": [
+   "Each player is a grain of sand in the Western Ghats. Put all counters on START.",
+   "Take turns to roll the die and move that many squares.",
+   "Read the square aloud and do what it says.",
+   "If a square moves you, first say in one sentence why. If you can't, stay where you are.",
+   "The first grain to reach the DELTA wins. Then talk about which square was the luckiest for a real grain of sand."
+  ],
+  "squares": [
+   "START: a rock in the Brahmagiri hills",
+   "Rain and roots crack the rock. You break free. Move ahead 2.",
+   "A monsoon storm washes you into a stream. Move ahead 3.",
+   "You are stuck in a dry stream bed in summer. Miss a turn.",
+   "Your stream joins the Godavari at Nashik. Move ahead 1.",
+   "The river slows in a wide pool. You sink. Go back 1.",
+   "A flood lifts you off the bottom. Move ahead 3.",
+   "A tributary, the Manjira, joins. More water, more speed. Move ahead 2.",
+   "You enter a reservoir behind a dam. The water goes still. Miss two turns.",
+   "Water is let out of the dam's gates. Move ahead 2.",
+   "Say: what is a tributary? Right, move ahead 1.",
+   "The Pranhita and the Indravati join. Move ahead 2.",
+   "Sand miners dig you out for building. Go back 3.",
+   "You roll over rocks in the Papikonda gorge in the Eastern Ghats. Move ahead 2.",
+   "Say: why does the Godavari flow east? Right, move ahead 2.",
+   "The river splits near Rajahmundry. Move ahead 1.",
+   "You settle on a sandbank. Miss a turn.",
+   "Monsoon floods carry you on. Move ahead 3.",
+   "Mangrove roots slow the water. You settle among them. Move ahead to DELTA if you roll 4 or more.",
+   "DELTA: you become part of the land"
+  ]
+ },
+ "story": {
+  "title": "Sand from Far Hills",
+  "text": [
+   "My name is Sravani, and I live in a fishing village where the Godavari meets the sea, in Kakinada district of Andhra Pradesh. In front of our houses is the beach. Behind them are the mangrove creeks, where the water is brown and slow and the trees stand on their roots like women lifting their saris out of the mud.",
+   "When I was small, the beach was wide. Amma says that when she was a girl she could walk for a whole minute from our door before her feet touched wet sand. Now I can do it in twelve steps. I have counted. Last monsoon the sea came over the steps of the little temple near the school and pulled two of them away. The old women sat in a row on an upturned boat and said the sea was angry with us.",
+   "In January a woman came to the village with a long measuring tape, a notebook and a small machine that beeped. Her name was Dr. Farida Sheikh, and she studied coasts. She paid me twenty rupees a day to hold the end of the tape. My little brother Chinna came too, because he goes wherever I go.",
+   "Every morning we walked from a white post near the school to the edge of the water, and Dr. Farida wrote down the distance. Every afternoon she dug small holes and looked at the sand through a glass she wore on a string.",
+   "\"Is the sea angry?\" I asked her on the third day.",
+   "\"The sea is doing what it always does,\" she said. \"Every day the waves pick up some sand from this beach and carry it away along the shore.\"",
+   "\"Then how was the beach ever wide?\"",
+   "She smiled as if I had asked the right question. \"Something used to bring sand back. Come and look.\"",
+   "She tipped a pinch of sand into my palm and gave me her glass. Up close, the sand was not brown at all. It was hundreds of tiny stones: clear ones, pink ones and shiny black ones, each a different shape.",
+   "\"These were rocks once,\" she said. \"Big rocks, in hills far from here. Rain, roots and heat broke them into grains. The river carried the grains down, over years, and dropped them here where it meets the sea. Some came from the Western Ghats near Nashik, where the Godavari begins. That is more than a thousand kilometres away.\"",
+   "I looked at one grain on my fingertip. It was smaller than a mustard seed. It had travelled further than anyone in my family ever had.",
+   "That evening Chinna and I sat on the boat while Amma mended a net. I told her our sand came from Nashik. She laughed. \"Then Nashik must be very small by now.\" But she stopped mending and looked at the river mouth, where the brown water pushes out into the blue.",
+   "\"In my mother's time,\" she said, \"after the big rains the river came down so thick with mud that you could not see your hand in it. The pulasa fish came with the floods, swimming up against the current. Now the water at the mouth is clearer, even in the rains.\"",
+   "The next day I told Dr. Farida what Amma had said. She drew a long line in the wet sand with a stick. That was the river. Along it she pressed her thumb in many places. \"Dams,\" she said. \"Hundreds of them, big and small, on the Godavari and the rivers that join it. They store water for farms and cities, and some make electricity. Behind each dam the water goes still. When water goes still, what happens to the mud in it?\"",
+   "I thought of the rice water Amma leaves in a pot on the shelf. By morning the white starch has sunk to the bottom and the water on top is clear.",
+   "\"It sinks,\" I said. \"It stays behind the dam.\"",
+   "\"A lot of it does,\" she said. \"Scientists are still measuring how much. It is one reason the coast is shrinking, not the only one.\"",
+   "I walked home slowly and counted the twelve steps again. I thought of the water tank on our school roof. Water runs out of the tap at the bottom all day, and a pump fills it from the top. If the pump stops, the tank goes empty. Our sea had always been taking sand. The river had always been bringing more. For hundreds of years the two had balanced, and our whole village had been built on what the river brought.",
+   "Chinna asked if we could bring the sand back from Nashik in a lorry. Dr. Farida laughed, kindly. \"That would be a great many lorries.\"",
+   "Instead, at the end of the month, she took us into the creek with the women of the village self-help group. They kept a nursery of mangrove seedlings in small plastic bags. Mangroves slow the water down, Dr. Farida said. When the water slows, the mud it carries settles among their roots, and the ground there slowly builds up.",
+   "We planted forty seedlings that day in the soft grey mud, with crabs running over our feet. The mud smelled of salt and rotting leaves. Each seedling had four leaves, and Chinna gave every one of his a name.",
+   "Before she left, Dr. Farida gave me a small glass bottle with a cork. In it was a pinch of our sand. On the label she had written: \"From the Western Ghats, across the Deccan, through the Eastern Ghats, down the Godavari. Arrived here before Sravani was born.\"",
+   "I keep it on the shelf above the place where I sleep. Some nights I hold it up to the lamp and turn it slowly. The tiny stones tumble over each other, pink and black and clear, still travelling."
+  ],
+  "epiphany": "For the parent: the beach, the delta and the whole village stand on rock that came, grain by grain, from hills more than a thousand kilometres away. A coast is not fixed land. The sea takes sand every day, and the river brings more. The turn comes when Sravani thinks of the rice water settling in the pot and sees that still water behind a dam drops its mud. Then she understands the tank that empties when nobody fills it. Let your child find this through the questions. Don't tell them.",
+  "ask": [
+   "Where did the sand on Sravani's beach come from, and how did it get there?",
+   "Why did Sravani think of the rice water in the pot?",
+   "Amma said the river used to be thick with mud. What changed, and why?",
+   "Why did the women plant mangroves, and how could they help the beach?",
+   "The old women said the sea was angry. What would you say to them?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "The land of India is still being made.",
+   "more": "India is still pushing into Asia, so the Himalaya is still rising, and rivers are still carrying mud down to build plains and deltas. The folded towels and the tray delta show both at kitchen-table size."
+  },
+  {
+   "idea": "Rivers move mountains to the sea.",
+   "more": "Every grain of sand on a delta beach was once part of a hill upstream. The northern plains are the Himalaya, worn down and carried south. Sravani's bottle of sand holds this idea."
+  },
+  {
+   "idea": "Land, sea, rain, crops and forests are one connected system.",
+   "more": "Land heats faster than the sea, which helps draw in the monsoon. The mountains decide where the rain falls. The rain decides which forests grow and when farmers sow. The rivers carry the rain back to the sea. Change one part, such as building a dam, and the others change too."
+  }
+ ],
+ "unknowns": [
+  "Scientists are still working out exactly how India's plate pushes under Tibet: whether it slides far under the whole of Tibet or crumples and breaks up near the front.",
+  "Nobody can yet forecast a monsoon months ahead with confidence. India's weather scientists give a forecast every year, but a weak or strong year can still surprise everyone.",
+  "Scientists still argue about how much the Deccan lava eruptions, compared with the asteroid, caused the dinosaurs to die out.",
+  "Nobody knows exactly how much of the shrinking of India's deltas is caused by dams, by sand mining, by rising seas or by changing rain. Each delta seems to have a different mix."
+ ],
+ "big": [
+  "Who owns a river: the people upstream, the people downstream, the fish, or nobody?",
+  "A mountain looks still, but the Himalaya is rising and wearing away at the same time. Is anything on Earth really still?",
+  "The sand on a beach came from hills far away. Where did the soil under your home come from?",
+  "If a dam helps millions of people in a city and harms thousands in a village, is that fair? Who should decide?",
+  "Maps draw sharp lines between states and countries. Do rivers, winds and monsoons notice those lines?"
+ ],
+ "challenge": [
+  {
+   "q": "'Mount Everest was discovered in 1852.'",
+   "hint": "Survey mathematicians found in 1852 that it was the highest mountain. But the Sherpa and Tibetan people living around it had known it, and named it Chomolungma, for centuries. Ask: what does 'discover' mean when someone already knew?"
+  },
+  {
+   "q": "'Rivers flow from north to south.'",
+   "hint": "Water flows downhill, whatever the direction. The Godavari flows east, the Narmada flows west, and the Brahmaputra flows east through Tibet, then turns south and west into Assam. Ask: how could you tell which way a river flows from a map that shows height?"
+  },
+  {
+   "q": "'Clear water is clean water.'",
+   "hint": "Salt, sugar and fertiliser dissolve and cannot be seen. Germs are too small to see. Clear water can still be unsafe, and slightly muddy water from a clean stream can be harmless. Ask: what tests would you need to know if water is safe to drink?"
+  },
+  {
+   "q": "'Big mountains are old mountains.'",
+   "hint": "The Himalaya is one of the youngest ranges on Earth, about 50 million years old, and still rising. The Aravalli hills are hundreds of millions of years older and have been worn low. Ask: what would the Himalaya look like after the same time?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A fisherwoman in the Godavari delta",
+   "view": "She sells the catch at the market, and in the monsoon she waits for the pulasa to come up the river. To her, the river, the mangroves and the sea are one workplace. Ask: when a dam is planned far upstream, should people at the river's mouth have a say?"
+  },
+  {
+   "who": "A mangrove tree at Coringa",
+   "view": "Their roots live in salty, airless mud that the tide covers twice a day. Breathing roots and stilt roots let them live where few trees can, and their roots hold the mud that becomes land. Ask: if mangroves are cut to make fish ponds, who gains and who loses?"
+  },
+  {
+   "who": "A farmer in Marathwada, upstream on the Godavari",
+   "view": "Marathwada is often short of rain. For her, a dam on the river can mean a second crop or a failed one. Ask: how should water be shared between farms upstream and the delta downstream?"
+  },
+  {
+   "who": "A Sherpa guide in Nepal",
+   "view": "Many Sherpa families have lived below the mountain for generations and see it as sacred. Climbers pay to stand on top, and Sherpa guides carry much of the risk. Ask: who should get the credit when a climber reaches the top?"
+  }
+ ],
+ "books": [
+  {
+   "title": "Paddle-to-the-Sea",
+   "author": "Holling Clancy Holling",
+   "for": "read together",
+   "age": "7–10",
+   "why": "A carved wooden canoe travels from Canada's lakes and rivers all the way to the sea, with maps on every spread. It fits Days 5 and 6."
+  },
+  {
+   "title": "A River Ran Wild",
+   "author": "Lynne Cherry",
+   "for": "read together",
+   "age": "6–10",
+   "why": "The true story of the Nashua River in the USA, polluted by mills and then cleaned up by the people who lived along it. It fits Day 7."
+  },
+  {
+   "title": "One Well: The Story of Water on Earth",
+   "author": "Rochelle Strauss",
+   "for": "read together",
+   "age": "7–10",
+   "why": "Shows all the water on Earth as one shared well, with clear facts on rivers, use and pollution."
+  },
+  {
+   "title": "Chasing the Monsoon",
+   "author": "Alexander Frater",
+   "for": "parent reads",
+   "age": "adult, read short parts aloud",
+   "why": "A travel writer follows the monsoon from Kerala to Cherrapunji in 1987. Short passages bring Day 4 to life."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is latitude, and which important line of latitude runs across India?",
+   "a": "Latitude tells how far a place is north or south of the equator, in degrees. The Tropic of Cancer, about 23 and a half degrees north, runs across the middle of India."
+  },
+  {
+   "q": "Name India's six physical divisions.",
+   "a": "The northern mountains (the Himalaya), the northern plains, the peninsular plateau, the Thar desert, the coastal plains and the islands."
+  },
+  {
+   "q": "How were the Himalaya made, and why are sea fossils found on top?",
+   "a": "The plate carrying India pushed into Asia, and the sea floor between them was folded and pushed up. The rock near the top was once sea floor, so it has sea fossils."
+  },
+  {
+   "q": "Why does land heating faster than the sea help bring the monsoon?",
+   "a": "In summer the land gets much hotter than the sea. Hot air over the land rises, and wet air from the sea flows in to take its place, bringing rain."
+  },
+  {
+   "q": "The Godavari starts near the Arabian Sea. Why does it flow to the Bay of Bengal?",
+   "a": "It starts on the east side of the Western Ghats, and the Deccan plateau slopes down to the east, so the water flows east."
+  },
+  {
+   "q": "How does a river build a delta?",
+   "a": "Moving water carries mud and sand. Where the river reaches the still sea, it slows down and drops them, and over a long time they build flat land."
+  },
+  {
+   "q": "Give one thing a dam gives and one thing it takes away.",
+   "a": "It gives stored water for drinking and farms, and electricity. It can flood homes, farms and forests, and it traps mud that would have reached the delta."
+  },
+  {
+   "q": "How does fertiliser make a green blanket on a river, and why is that bad for fish?",
+   "a": "Fertiliser feeds algae, which grow very fast. When they die, bacteria break them down and use up the oxygen in the water, so fish can die."
+  }
+ ]
+}

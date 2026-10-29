@@ -457,11 +457,11 @@
   {
    "concept": "How living things know which way is down",
    "status": "debated",
-   "description": "Living things feel gravity all the time. Inside your ears are tiny stones, made of the same material as chalk. They rest on tiny hairs. When you tip your head, the stones slide and bend the hairs, and your brain knows which way is down. Plants feel gravity too. A seed planted upside down still sends its root down and its shoot up. Charles Darwin and his son Francis studied this in 1880. How plants sense down is still being studied. The unit on Weight and mass has a project where you watch a root find down.",
+   "description": "Living things feel gravity all the time. Inside your ears are tiny stones, made of the same material as chalk. They rest on tiny hairs. When you tip your head, the stones slide and bend the hairs, and your brain knows which way is down. Plants feel gravity too. A seed planted upside down still sends a root down and a shoot up. Charles Darwin and his son Francis studied this in 1880. How plants sense down is still being studied. The unit on Weight and mass has a project where you watch a root find down.",
    "examples": [
     "Tilt your head and you know at once that you tilted. Your ear stones told you.",
-    "A potted plant tipped on its side bends its shoot back up within a day or two.",
-    "A falling cat twists round to land on its feet."
+    "A potted plant tipped over sideways bends the shoot back up within a day or two.",
+    "A falling cat twists round to land on their feet."
    ],
    "perspectives": [
     {
@@ -470,10 +470,10 @@
     },
     {
      "who": "Other plant scientists",
-     "explanation": "Some plants with almost no starch grains still find down. So maybe the whole cell feels the weight of its own insides pressing down. Both ways may work together."
+     "explanation": "Some plants with almost no starch grains still find down. So maybe the whole cell feels the weight of their own insides pressing down. Both ways may work together."
     }
    ],
-   "art": "A bean seedling planted sideways in a glass jar, its root curving down and its shoot curving up, with a tiny zoom showing starch grains settling at the bottom of a root cell.",
+   "art": "A bean seedling planted sideways in a glass jar, the root curving down and the shoot curving up, with a tiny zoom showing starch grains settling at the bottom of a root cell.",
    "context": "Your body and plants both sense gravity. This card is about how, and what scientists are still unsure of."
   },
   {
@@ -631,7 +631,7 @@
   {
    "q": "A plant in the dark still knows which way is down. What might it be like to feel down without ears or eyes?",
    "kind": "deep",
-   "hint": "Its root cells have heavy grains that settle to the bottom. Plants feel what they sense."
+   "hint": "Their root cells have heavy grains that settle to the bottom. Plants feel what they sense."
   },
   {
    "q": "The word guru means heavy. Why might a wise person be called heavy? What gives a person weight with others?",
@@ -886,7 +886,7 @@
       "3 It landed almost with the coin. Same tissue, same weight, but less air pushing on it.",
       "4 Up. Going up, you work against gravity. Going down, gravity helps.",
       "5 Gravity. To escape the Earth, you would need to leave the ground at about 11 kilometres every second.",
-      "6 Nothing holds it up, so gravity always wins. A bird pushes air down with its wings. A gas balloon floats because the air around it pushes it up.",
+      "6 Nothing holds it up, so gravity always wins. A bird pushes air down with their wings. A gas balloon floats because the air around it pushes it up.",
       "7 Gravity is a very weak force. A tiny magnet beats the gravity of the whole Earth.",
       "8 Yes. Gravity never stops. It slowed the ball to a stop, then pulled it back.",
       "9 The book pushed the air out of the way, so no air pushed up on the paper.",
@@ -1351,7 +1351,7 @@
      "t": "order",
      "p": "Four things are dropped from a balcony. Put them in order, from FASTEST to SLOWEST. They are a fluffy semal seed, a cricket ball, a flat sheet of paper and a crumpled paper ball.",
      "a": "order shown",
-     "why": "The cricket ball is heavy and compact, so the air hardly slows it. The crumpled paper ball is light but compact, so the air slows it a little. The flat sheet is light and spread out, so the air slows it a lot. The fluffy seed has the most fluff for its tiny weight, so it drifts down slowest.",
+     "why": "The cricket ball is heavy and compact, so the air hardly slows it. The crumpled paper ball is light but compact, so the air slows it a little. The flat sheet is light and spread out, so the air slows it a lot. The fluffy seed has the most fluff for such a tiny weight, so the seed drifts down slowest.",
      "items": [
       "a cricket ball",
       "a crumpled paper ball",
@@ -1623,10 +1623,10 @@
     },
     {
      "t": "mcq",
-     "p": "A bean is planted upside down in a jar. Which way does its root grow?",
+     "p": "A bean is planted upside down in a jar. Which way does the root grow?",
      "opts": [
       "Down, towards gravity",
-      "Up, the way it was pointing",
+      "Up, the way the seed was pointing",
       "Sideways"
      ],
      "a": 0,
@@ -2928,21 +2928,21 @@
       "t": "mcq",
       "q": "Why does a fluffy semal seed fall so slowly?",
       "options": [
-       "Its fluff catches lots of air, so the air pushes up on it",
-       "It is too light for gravity to pull",
-       "It is made of air"
+       "Their fluff catches lots of air, so the air pushes up on them",
+       "They are too light for gravity to pull",
+       "They are made of air"
       ],
       "a": 0,
-      "why": "Gravity pulls on every seed, however light. The fluff spreads out and catches the air, so the air pushes up on it a lot. That slows it down, and the wind can carry it far from its parent tree. Picking 'too light for gravity' is a common mix-up. Gravity pulls everything, even fluff."
+      "why": "Gravity pulls on every seed, however light. The fluff spreads out and catches the air, so the air pushes up on it a lot. That slows the seed down, and the wind can carry them far from their parent tree. Picking 'too light for gravity' is a common mix-up. Gravity pulls everything, even fluff."
      }
     },
     {
      "id": "s3",
      "mins": 6,
      "do": "Talk about why plants do this.",
-     "say": "Why might a tree want its seeds to fall slowly? What happens to a seed that drops right under its parent?",
-     "kid": "Why would a tree want its seeds to fall slowly? Think about where the wind can carry them.",
-     "parent": "A seed that drifts far away does not have to share light and water with its parent tree. Over millions of years, plants with slow-falling, wind-carried seeds spread far. The winged seed is a living parachute or helicopter.",
+     "say": "Why might a tree want their seeds to fall slowly? What happens to a seed that drops right under their parent?",
+     "kid": "Why would a tree want their seeds to fall slowly? Think about where the wind can carry them.",
+     "parent": "A seed that drifts far away does not have to share light and water with their parent tree. Over millions of years, plants with slow-falling, wind-carried seeds spread far. The winged seed is a living parachute or helicopter.",
      "think": "Engineers copy seeds to design drones and parachutes. What else could we copy from a falling seed?"
     }
    ],
@@ -3694,7 +3694,7 @@
    "a": 0,
    "why": "Roots sense gravity. Most plant scientists think heavy starch grains settling in the root tip show it which way is down. Picking 'towards light' mixes roots up with shoots, which grow towards light and away from gravity.",
    "outcome": 6,
-   "context": "A bean seed is planted upside down in damp soil. After a few days it sprouts a root and a shoot."
+   "context": "A bean seed is planted upside down in damp soil. After a few days the seed sprouts a root and a shoot."
   },
   {
    "t": "mcq",
@@ -4352,7 +4352,7 @@
   },
   "three": {
    "who_am_i": "The Earth pulls on every part of you, and you pull on the Earth just as hard.",
-   "what_is_life": "A seed planted upside down still sends its root down. Living things sense gravity and grow with it.",
+   "what_is_life": "A seed planted upside down still sends a root down. Living things sense gravity and grow with it.",
    "what_is_this_world": "Without air, a hammer and a feather fall in exactly the same way. Gravity gives everything the same fall."
   },
   "thread": "Gravity does not sort the world into heavy and light. In the same place, a hammer, a feather, a mango and a planet all fall in exactly the same way. Einstein took this seriously. Because every thing falls alike, he said the fall belongs to the shape of space and time, not to the thing that falls. This is a sign that the world is one whole, with one shape that everything in it shares.",

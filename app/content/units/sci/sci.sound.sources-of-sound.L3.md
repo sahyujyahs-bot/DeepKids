@@ -45,7 +45,7 @@
 Hum with your fingers on your throat. You feel a buzz. Stop humming, and the buzz and the sound stop together. Pluck a stretched rubber band. It looks blurry, because it is moving back and forth too fast for your eyes to follow. Touch it, and the sound stops at once. Every sound works like this, from a mosquito to a thunderclap. Usually the vibration is too small and too fast to see. So scientists use tricks to show it, like rice grains on a drum skin.
 - e.g. A ringing steel plate goes quiet the moment you hold it.
 - e.g. A ruler twanged on a table edge blurs and buzzes.
-- e.g. A bee's wings beat about 230 times every second. That makes its buzz.
+- e.g. A bee's wings beat about 230 times every second. That makes their buzz.
 ### What vibrates in different sound sources · *defined*
 **Definition:** Different sources vibrate different parts. Strings, stretched skins, columns of air, solid things and living bodies can all vibrate and make sound.
 
@@ -79,7 +79,7 @@ Space between the planets is silent. But the Sun is a huge ball of hot gas, and 
 
 Hit a drum gently and its skin moves a little, so the sound is soft. Hit it hard and the skin swings further, so the sound is loud. Pitch is about speed. A short, tight or thin string vibrates fast and sounds high. A long, loose or thick string vibrates slowly and sounds low. People can hear vibrations from about 20 a second up to about 20,000 a second. A child's vocal folds open and shut a few hundred times a second when they talk. You will learn much more about loudness and pitch in Class 5.
 - e.g. Twang a ruler with only a little sticking out. It buzzes high. Let more stick out, and it wobbles slower and lower.
-- e.g. A mosquito's wings beat hundreds of times a second, so its whine is high.
+- e.g. A mosquito's wings beat hundreds of times a second, so the whine is high.
 - e.g. A veena player presses a string on a fret to make it shorter, and the note goes up.
 ### C.V. Raman and the drums that sing · *defined*
 **Definition:** Many drums make a thud with no clear note. The tabla and the mridangam ring with a clear note, like a string does. In 1920, C.V. Raman and Sivakali Kumar showed that the black syahi patch makes this happen.
@@ -102,7 +102,7 @@ Deep in your throat are two soft flaps called vocal folds. When you breathe quie
 ### Animals that make sound for their own lives · *defined*
 **Definition:** Many animals make sounds by vibrating a body part, and use sound to find each other, warn, court, hunt and find their way.
 
-Animals are not making sounds for us. Each one is busy with its own life. A cricket rubs a scraper on one wing against a row of tiny teeth on the other. Its ears are on its front legs. A cicada clicks two drum-like plates on its body very fast. A frog pushes air back and forth over its vocal folds, and its throat pouch swells like a balloon to make the call louder. Male and female mosquitoes change their buzz until their two tones fit together. Lauren Cator, Laura Harrington and colleagues found this in 2009. Elephants call with rumbles so low that people can hardly hear them. Katy Payne discovered this in 1984, when she felt a throbbing in the air beside elephants at a zoo. Caitlin O'Connell-Rodwell found that elephants may also feel these rumbles through their feet. In 2015, Angela Freeman and James Hare found that a peacock vibrating its tail makes infrasound too. Peahens may feel it. Bats and dolphins make squeaks or clicks and listen for the echoes. A snapping shrimp shuts its claw so fast that a bubble forms and bursts with a loud crack.
+Animals are not making sounds for us. Each one is busy with their own life. A cricket rubs a scraper on one wing against a row of tiny teeth on the other. Their ears are on their front legs. A cicada clicks two drum-like plates on their body very fast. A frog pushes air back and forth over their vocal folds, and their throat pouch swells like a balloon to make the call louder. Male and female mosquitoes change their buzz until their two tones fit together. Lauren Cator, Laura Harrington and colleagues found this in 2009. Elephants call with rumbles so low that people can hardly hear them. Katy Payne discovered this in 1984, when she felt a throbbing in the air beside elephants at a zoo. Caitlin O'Connell-Rodwell found that elephants may also feel these rumbles through their feet. In 2015, Angela Freeman and James Hare found that a peacock vibrating his tail makes infrasound too. Peahens may feel it. Bats and dolphins make squeaks or clicks and listen for the echoes. A snapping shrimp shuts their claw so fast that a bubble forms and bursts with a loud crack.
 - e.g. On a monsoon night, the loud chorus in a field is often frogs calling to each other.
 - e.g. Woodpeckers drum on dry branches. The branch is the instrument.
 - e.g. Humpback whales sing long songs that slowly change from year to year.
@@ -156,7 +156,7 @@ Every human culture ever found makes music. Some flutes made from bird bones and
 - **NASA recorded the Sun chanting 'Om'.** (A message shared widely on social media; *rejected*)  
   For: NASA has really turned the Sun's vibrations into sounds people can hear. Some of them are a low, steady hum.  
   Against: The Sun really does ring with sound waves. But to hear them, scientists speed them up many thousands of times. The result is a hum, not a word. NASA never said it was 'Om'.
-- **If a tree falls in a forest and nobody hears it, it makes no sound.** (An old puzzle. People often link it to the philosopher George Berkeley, but he never wrote it this way.; *debated*)  
+- **If a tree falls in a forest and nobody is there to hear, there is no sound.** (An old puzzle. People often link it to the philosopher George Berkeley, but he never wrote it this way.; *debated*)  
   For: If 'sound' means what we hear, then without a listener there is nothing heard.  
   Against: If 'sound' means the vibration in the air, the falling tree certainly makes it. And there are always listeners in a forest: birds, deer, insects. The puzzle is really about what we mean by the word 'sound'.
 - **Only people make real music. Animals just make noise.** (A common view; *debated*)  
@@ -193,7 +193,7 @@ One tap on a tabla starts one vibration. The air passes it on to billions of mol
 - *deep:* Is there anywhere on Earth that is perfectly silent? (hint: Even in the quietest room ever built, people hear their own heartbeat. What else is always moving?)
 - *deep:* Every atom in a stone is always jiggling. So is anything ever truly still? (hint: What would it mean for something to stop jiggling completely?)
 - *big:* Elephants talk below what we can hear, and bats above it. How much of the world's conversation do you think we are missing? (hint: People hear only from about 20 to 20,000 vibrations a second.)
-- *big:* If a tree falls and only a deer hears it, did it make a sound? (hint: Who counts as a listener? Does it have to be a person?)
+- *big:* If a tree falls and only a deer hears, was there a sound? (hint: Who counts as a listener? Does it have to be a person?)
 - *big:* The tabla makers worked out the syahi long before any scientist explained it. Who made the discovery: the makers, or Raman? (hint: Can you discover something without writing it down?)
 - *big:* Many families chant 'Om' and feel it buzz in their chest. Is the buzz you feel the same as what the chant means to them? (hint: Can something be a vibration and also mean something more?)
 - *big:* Is noise from crackers, horns and loudspeakers fair to the birds, dogs and people who live nearby? (hint: Who chooses the noise, and who has to hear it?)
@@ -261,7 +261,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 ## Games
 ### g1 · What Is Vibrating? (20 min)
 - **rules:** Cut out the 24 cards. Shuffle them and put them face down in a pile.; Lay the five mats in a row: STRING, SKIN, AIR, SOLID, BODY.; On your turn, take the top card and read it aloud.; Say what is vibrating to make that sound. Put the card on the right mat.; Turn the card over to check. If you were right, take a token.; If you draw a TEST IT card, everyone does the test. The first to explain what is vibrating takes two tokens.; Playing alone? Try to finish all 24 cards with as many tokens as you can. Then play again and try to beat your score.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 24 sound cards to cut out (answer on the back):** A veena being played (back: STRING); A tabla (back: SKIN); A bansuri flute (back: AIR); A temple bell (back: SOLID); You singing (back: BODY, your vocal folds); A dhol at a wedding (back: SKIN); A pressure cooker whistle (back: AIR); A conch shell being blown (back: AIR); A cricket chirping at night (back: BODY, its wings rubbing); A frog calling in the rain (back: BODY, vocal folds and throat pouch); A steel tumbler tapped with a spoon (back: SOLID); A sitar (back: STRING); A ghatam clay pot drum (back: SOLID, and the air inside); A mosquito whining (back: BODY, its wings); A shehnai (back: AIR, made to vibrate by a reed); A guitar (back: STRING); A damru (back: SKIN); A dog barking (back: BODY, vocal folds); Manjira cymbals (back: SOLID); An elephant rumbling (back: BODY, vocal folds); TEST IT: hum with your fingers on your throat, then whisper. When do you feel a buzz?; TEST IT: tap a steel plate with a spoon, then hold the plate. What happens to the sound?; TEST IT: stretch a rubber band and pluck it. Look closely. What do you see?; TEST IT: blow across the top of an empty bottle. What is vibrating?
+- **Printable cards: 24 sound cards to cut out (answer on the back):** A veena being played (back: STRING); A tabla (back: SKIN); A bansuri flute (back: AIR); A temple bell (back: SOLID); You singing (back: BODY, your vocal folds); A dhol at a wedding (back: SKIN); A pressure cooker whistle (back: AIR); A conch shell being blown (back: AIR); A cricket chirping at night (back: BODY, their wings rubbing); A frog calling in the rain (back: BODY, vocal folds and throat pouch); A steel tumbler tapped with a spoon (back: SOLID); A sitar (back: STRING); A ghatam clay pot drum (back: SOLID, and the air inside); A mosquito whining (back: BODY, their wings); A shehnai (back: AIR, made to vibrate by a reed); A guitar (back: STRING); A damru (back: SKIN); A dog barking (back: BODY, vocal folds); Manjira cymbals (back: SOLID); An elephant rumbling (back: BODY, vocal folds); TEST IT: hum with your fingers on your throat, then whisper. When do you feel a buzz?; TEST IT: tap a steel plate with a spoon, then hold the plate. What happens to the sound?; TEST IT: stretch a rubber band and pluck it. Look closely. What do you see?; TEST IT: blow across the top of an empty bottle. What is vibrating?
 - **Printable board: Five sorting mats:** STRING; SKIN; AIR; SOLID; BODY
 - **Printable tokens: 20 tokens (small paper circles):** 〰️
 - **s1 (2 min)**  
@@ -277,7 +277,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   *Parent does:* 1. Take turns drawing a card and reading it out. 2. The player puts it on a mat and says what is vibrating. 3. Turn the card over to check. 4. Give a token for each right answer.  
   *Parent says:* Tell me what is vibrating, and where it is. Then check the back.  
   *Child mode:* Read your card. What is vibrating? Put it on a mat. Turn it over. Right? Take a token!
-  - Note: Tricky cards: the ghatam is a solid clay pot, but the air inside it also vibrates. The shehnai's reed vibrates first, then the air in the tube. Animals are BODY: a cricket rubs its wings, a mosquito beats its wings, a frog and a dog use vocal folds. A pressure cooker whistle is air vibrating as it rushes out.
+  - Note: Tricky cards: the ghatam is a solid clay pot, but the air inside it also vibrates. The shehnai's reed vibrates first, then the air in the tube. Animals are BODY: a cricket rubs their wings, a mosquito beats their wings, a frog and a dog use vocal folds. A pressure cooker whistle is air vibrating as it rushes out.
 - **s4 (3 min)**  
   *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first.  
   *Parent says:* Before we test it, everyone guess. Then let's try it.  
@@ -511,16 +511,16 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   - Check: As the straw shehnai is cut shorter, what happens to its note? → **It goes higher**
 ### a6 · Animal Sound Makers (15 min)
 - **safety:** Blow up the balloon only part way. Rumble gently, never shout into anyone's ears.
-- **record:** Draw one animal making its sound. Label the part that vibrates.
+- **record:** Draw one animal making their sound. Label the part that vibrates.
 - **s1 (4 min)**  
   *Parent does:* 1. Run a fingernail or a card along the teeth of the comb, slowly, then fast. 2. Listen.  
-  *Parent says:* A cricket makes its chirp like this. It rubs a hard scraper on one wing across a row of tiny teeth on the other wing.  
-  *Child mode:* Run a fingernail along a comb. Slow, then fast. That's how a cricket chirps, with its wings!
+  *Parent says:* A cricket makes their chirp like this. They rub a hard scraper on one wing across a row of tiny teeth on the other wing.  
+  *Child mode:* Run a fingernail along a comb. Slow, then fast. That's how a cricket chirps, with their wings!
   - Ask: What happened to the sound when you went faster? (good: It got higher.; The clicks joined into a buzz.)
 - **s2 (5 min)**  
   *Parent does:* 1. Blow up a balloon part way and pinch its neck. 2. Stretch the neck sideways so the air squeals out. 3. Try stretching it more and less.  
-  *Parent says:* This squeal is like a frog's call. Air rushing past stretched rubber makes it vibrate. A frog's throat pouch swells like the balloon, which makes its call louder.  
-  *Child mode:* Pinch the balloon neck. Stretch it so it squeals. A frog's throat swells like a balloon when it calls!
+  *Parent says:* This squeal is like a frog's call. Air rushing past stretched rubber makes it vibrate. A frog's throat pouch swells like the balloon, which makes their call louder.  
+  *Child mode:* Pinch the balloon neck. Stretch it so it squeals. A frog's throat swells like a balloon when they call!
   - Note: Stretching the neck tighter usually makes the squeal higher, like tightening vocal folds.
 - **s3 (4 min)**  
   *Parent does:* 1. Everyone lies down with a palm or cheek flat on the floor. 2. One person hums the lowest 'mmm' they can, with their chest close to the floor. 3. The others try to feel it through the floor.  
@@ -640,8 +640,8 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 12. (draw) Draw a tabla. Draw arrows to show which part vibrates. Then draw the air molecules between the tabla and an ear, bunched up in some places.  
    **Answer:** The drawing shows arrows on the skin moving up and down, and dots between the drum and the ear in bunched and spread-out bands.. *Why:* The skin vibrates. It squashes and spreads the air molecules, and the pattern of bunches travels to the ear.
 13. (mcq) Which of these is a sound made by an animal's body vibrating?  
-   Options: A cricket rubbing its wings together / Wind in the trees / A ringing phone  
-   **Answer:** A cricket rubbing its wings together. *Why:* A cricket rubs a scraper on one wing against tiny teeth on the other. The wings vibrate. Wind and phones make sounds too, but not from an animal's body.
+   Options: A cricket rubbing their wings together / Wind in the trees / A ringing phone  
+   **Answer:** A cricket rubbing their wings together. *Why:* A cricket rubs a scraper on one wing against tiny teeth on the other. The wings vibrate. Wind and phones make sounds too, but not from an animal's body.
 14. (order) Put these in order, to show how the sound of a bell reaches you.  
    **Answer:** order shown. *Why:* The vibration starts at the source. Then each molecule pushes the next, until the push reaches you.
 15. (write) Hum with your fingers on your throat. Then whisper. Write what you felt each time, and why.  
@@ -662,8 +662,8 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 5. (mcq) Who worked out the syahi first?  
    Options: C.V. Raman / Drum makers, over hundreds of years, whose names were not written down / A European scientist  
    **Answer:** Drum makers, over hundreds of years, whose names were not written down. *Why:* Drum makers invented and improved the syahi by ear and hand, long before any scientist. Raman explained why it works. Picking Raman mixes up who explained it with who invented it.
-6. (match) Match each animal to how it makes or uses sound.  
-   **Answer:** Cricket → rubs a scraper on one wing against teeth on the other; Frog → a throat pouch swells to make its call louder; Bat → listens to the echoes of its own squeaks; Elephant → calls with very low rumbles. *Why:* Each animal uses sound in its own way, for its own life: finding mates, keeping in touch, or finding food in the dark.
+6. (match) Match each animal to how they make or use sound.  
+   **Answer:** Cricket → rubs a scraper on one wing against teeth on the other; Frog → a throat pouch swells to make their call louder; Bat → listens to the echoes of their own squeaks; Elephant → calls with very low rumbles. *Why:* Each animal uses sound in their own way, for their own life: finding mates, keeping in touch, or finding food in the dark.
 7. (mcq) Katy Payne discovered that elephants make very low rumbles. How did she first notice?  
    Options: She saw it on a computer / She felt a throbbing in the air near the elephants, but heard almost nothing / An elephant told her  
    **Answer:** She felt a throbbing in the air near the elephants, but heard almost nothing. *Why:* In 1984, at a zoo in the USA, she felt the air throb, the way it does near a big organ pipe. She guessed the elephants were making sounds too low to hear. Recordings proved it.
@@ -721,7 +721,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
    **Answer:** Jiggling all the time, too small and fast to see. *Why:* All atoms jiggle all the time. The warmer the stone, the faster they jiggle. Nothing is ever perfectly still.
 13. (fill) Elephants make rumbles too low for people to hear. Sound that is too low for us is called ____.  
    **Answer:** ['infrasound']. *Why:* Infrasound means sound below about 20 vibrations a second, too slow for human ears.
-14. (mcq) A peacock shakes its tail feathers. Scientists found in 2015 that this makes…  
+14. (mcq) A peacock shakes his tail feathers. Scientists found in 2015 that this makes…  
    Options: Infrasound that peahens may feel / A loud bang / No vibration at all  
    **Answer:** Infrasound that peahens may feel. *Why:* Angela Freeman and James Hare recorded very low sounds from shaking peacock tails. Peahens may sense them. The display is for peahens, not for us.
 15. (write) Think of the line of coins, where one flick made the last coin shoot off. Write how it is like a sound travelling, and one way it is different.  
@@ -763,9 +763,9 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 10. (mcq) Why does a veena have a big hollow wooden body?  
    Options: It vibrates with the strings and makes the sound much louder / It holds the musician's music books / It makes the veena easier to carry  
    **Answer:** It vibrates with the strings and makes the sound much louder. *Why:* A thin string pushes little air. The big body vibrates along with it and pushes far more. This hollow part is called a resonator.
-11. (mcq) How does a cricket make its chirp?  
-   Options: By singing with its mouth / By rubbing a scraper on one wing against tiny teeth on the other / By tapping its feet  
-   **Answer:** By rubbing a scraper on one wing against tiny teeth on the other. *Why:* Crickets rub their wings together. The wings vibrate and make the chirp. Picking 'with its mouth' comes from thinking all animal sounds are like our voices.
+11. (mcq) How does a cricket make their chirp?  
+   Options: By singing with their mouth / By rubbing a scraper on one wing against tiny teeth on the other / By tapping their feet  
+   **Answer:** By rubbing a scraper on one wing against tiny teeth on the other. *Why:* Crickets rub their wings together. The wings vibrate and make the chirp. Picking 'with their mouth' comes from thinking all animal sounds are like our voices.
 12. (mcq) Elephants call with rumbles too low for people to hear. What is sound this low called?  
    Options: Ultrasound / Infrasound / Echo  
    **Answer:** Infrasound. *Why:* Infrasound is too low for us. Ultrasound is too high for us, like bat squeaks. Katy Payne discovered elephant infrasound in 1984.
@@ -823,7 +823,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - Why did the drum take a nap? *It was beat.*
 - What do you call a cow that plays the tabla? *A moo-sician.*
 - Why was the veena so good at fixing problems? *It always knew how to strike the right note.*
-- What is a cricket's favourite instrument? *Its own wings. It never forgets to bring them.*
+- What is a cricket's favourite instrument? *Their own wings. They never forget to bring them.*
 - Why couldn't the astronaut hear the joke? *There was no air to carry the punchline.*
 - What kind of music do balloons hate? *Pop music.*
 - Why did the tumbler of water win the singing contest? *It had the most depth.*
@@ -880,7 +880,7 @@ Everything Hums (sci.sound.L3): Topic-level song
 - Is there sound in space? → No. There is almost no air to pass the vibration along.
 - Does air fly from a drum to your ear? → No. Only a pattern of pushes travels. The air stays where it is.
 - What is the black circle on a tabla called? → The syahi.
-- How does a cricket chirp? → It rubs its wings together.
+- How does a cricket chirp? → They rub their wings together.
 - Shorter ruler sticking out: higher or lower sound? → Higher. It vibrates faster.
 - Which Indian scientist studied the tabla and the veena? → C.V. Raman.
 - Sound too low for people to hear, like some elephant rumbles, is called… → Infrasound.

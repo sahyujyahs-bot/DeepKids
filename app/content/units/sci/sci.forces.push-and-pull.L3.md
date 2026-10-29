@@ -292,7 +292,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   - Note: A good answer: the team that pushes harder on the ground with their feet. The ground pushes them back, away from the middle. If your child is unsure, leave it as a puzzle. The story and the Push the Wall experiment come back to it.
 ### g2 · Push, Pull or Both? Force charades (20 min)
 - **rules:** Shuffle the action cards and put them face down.; On your turn, take a card and act it out without words.; The others guess the action. The first right guess wins an arrow token.; Then everyone points to the right mat: PUSH, PULL or BOTH. Then everyone points in the direction of the force with one arm.; BONUS cards are forces you cannot act with your hands. Act them out with your whole body. For each bonus card, also say: is it a touching force or a force from far away?; When the cards run out, the player with the most arrow tokens wins.
-- **Printable cards: 30 action cards to cut out:** Opening a fridge door; Shutting a drawer; Kicking a football; Pulling up your socks; Squeezing toothpaste; Flying a kite; Rowing a boat; Opening a jar lid; Brushing your teeth; Rolling out a chapati; Drawing water from a well; Ringing a temple bell; Pushing a swing; Lifting a school bag; Sweeping with a broom; Bowling a cricket ball; Pulling a cart; Turning a tap; Wringing out a wet towel; Throwing a frisbee; BONUS: a magnet picking up pins; BONUS: a mango falling from a tree; BONUS: a balloon rubbed on hair, pulling up bits of paper; BONUS: a seedling pushing up through soil; BONUS: a rocket blasting off; BONUS: a bird flapping its wings; BONUS: the Moon pulling the sea; BONUS: your heart beating; BONUS: the wind pushing a sailing boat; BONUS: a comet's tail pushed by sunlight
+- **Printable cards: 30 action cards to cut out:** Opening a fridge door; Shutting a drawer; Kicking a football; Pulling up your socks; Squeezing toothpaste; Flying a kite; Rowing a boat; Opening a jar lid; Brushing your teeth; Rolling out a chapati; Drawing water from a well; Ringing a temple bell; Pushing a swing; Lifting a school bag; Sweeping with a broom; Bowling a cricket ball; Pulling a cart; Turning a tap; Wringing out a wet towel; Throwing a frisbee; BONUS: a magnet picking up pins; BONUS: a mango falling from a tree; BONUS: a balloon rubbed on hair, pulling up bits of paper; BONUS: a seedling pushing up through soil; BONUS: a rocket blasting off; BONUS: a bird flapping their wings; BONUS: the Moon pulling the sea; BONUS: your heart beating; BONUS: the wind pushing a sailing boat; BONUS: a comet's tail pushed by sunlight
 - **Printable board: Three answer mats:** PUSH; PULL; BOTH: a push and a pull together
 - **Printable tokens: 20 arrow tokens (paper arrows to cut out):** ➡️
 - **s1 (2 min)**  
@@ -858,7 +858,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - A tug of war at a school sports day, or vadamvali at Onam in Kerala.
 - Kites on Makar Sankranti, each string pulling its kite towards a rooftop.
 - A boatman poling a boat on the Kerala backwaters, pushing the river bed.
-- A peepal tree growing out of an old wall, its roots pushing the bricks apart.
+- A peepal tree growing out of an old wall, their roots pushing the bricks apart.
 - The weather map on the news, with arrows showing the monsoon wind.
 - A temple bell, pulled by its rope or pushed by a hand.
 

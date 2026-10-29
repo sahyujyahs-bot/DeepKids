@@ -242,7 +242,7 @@ Bah Kyrmen did not laugh. He took her hand and walked her down the slippery step
 
 'This is where it is pushed the most,' he said. 'Every time someone walks across, the roots bend a little and stretch a little. And they answer. They grow.' He tapped her tied roots on the way back up. 'A root that is never pushed has no reason to grow.'
 
-Iba thought about the bamboo behind her house. In the storms it bent nearly to the ground, then sprang back. She thought about the dry stick she had snapped for the fire, which could not bend at all. She thought about her own legs. They used to ache on the steep steps to school. Now they ran up without stopping.
+Iba thought about the bamboo behind her house. In the storms they bent nearly to the ground, then sprang back. She thought about the dry stick she had snapped for the fire, which could not bend at all. She thought about her own legs. They used to ache on the steep steps to school. Now they ran up without stopping.
 
 That evening, she cut the cane. The roots sprang free and swayed a little in the breeze, as if they were stretching after a long sleep. It felt strange to let them go, like letting go of a little brother's hand at the edge of a road.
 
@@ -729,7 +729,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 6. (mcq) You are measured as soon as you wake up, and again at bedtime. What will you find?  
    Options: I am about 1 cm shorter at bedtime / I am about 1 cm taller at bedtime / Exactly the same / About 10 cm shorter at bedtime  
    **Answer:** I am about 1 cm shorter at bedtime. *Why:* During the day, the soft pads between the bones of your spine are squashed by your weight. At night, lying down, they spring back. Picking '10 cm' is a good guess about the direction, but far too big.
-7. (mcq) A tree tied tightly to a stake so it can never sway often grows a weaker trunk. Why?  
+7. (mcq) A tree tied tightly to a stake so they can never sway often grows a weaker trunk. Why?  
    Options: Trees grow thicker where wind bends them, and tight ties stop the bending / Stakes are poisonous / The tie stops water reaching it / It grows faster without wind  
    **Answer:** Trees grow thicker where wind bends them, and tight ties stop the bending. *Why:* Trees respond to bending by growing thicker, sturdier wood. Mark Jaffe named this in 1973: thigmomorphogenesis, 'shape made by touch'. Picking 'stops water' is a sensible worry, but water moves inside the trunk, not past the tie.
 8. (mcq) Fossil sea shells are found high in the Himalayas. What does this tell us?  

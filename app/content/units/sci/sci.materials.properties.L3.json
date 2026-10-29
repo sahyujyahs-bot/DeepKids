@@ -3166,7 +3166,7 @@
      "kid": "Swap places. You call the words now.",
      "check": {
       "t": "mcq",
-      "q": "Early morning fog is thin. You can see a tree through it, but it looks blurry. Fog is…",
+      "q": "Early morning fog is thin. You can see a tree through it, but the tree looks blurry. Fog is…",
       "options": [
        "Translucent",
        "Transparent",
