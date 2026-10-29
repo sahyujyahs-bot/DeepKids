@@ -7265,37 +7265,105 @@ async function fxPractise(id) {
   d.innerHTML = `<div class="fxtop"><button class="fxx" data-fx="close" aria-label="Close">✕</button><div class="fxbar"><i style="width:0"></i></div></div><div class="fxfeed">${items.map(({ r, it }, i) => `<section class="fxc" data-i="${i}" data-key="rf"><div class="fxin"><div class="fxcrumb">↻ Refresher · ${i + 1} of ${items.length}</div><div class="fxtxt">${fxItem(u, "rf." + Date.now() + "~" + r.k, { ...it, context: it.context || (r.sec ? "From: " + r.sec : "") }, i, items.length).replace(/Question \d+ of \d+/, "Let's try this one again")}</div></div></section>`).join("")}<section class="fxc"><div class="fxin"><div class="fxtxt fxlead"><div class="fxbige">🌱</div><h1>Practice done</h1><p class="fxsm">Right answers have left your refresher list. The rest stay for next time.</p><button class="fxb" data-fx="close">Close</button></div></div></section></div>`;
   if (!d.open) d.showModal();
 }
+// A worksheet as a printable A4 sheet: each question type in a form a child can do with a pencil, answers on their own page
+const WS_PRINT_CSS = `@page{size:A4;margin:14mm}*{box-sizing:border-box}body{margin:0;font:15px/1.45 Mukta,system-ui,sans-serif;color:#1f2440}
+header{display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid #1f2440;padding-bottom:6px;font-size:13px}
+.brand{font:400 20px 'Rozha One',serif}.brand b{color:#d7372b;font-weight:400}.brand span{font-size:15px}
+h1{font:400 28px/1.15 'Rozha One',serif;margin:12px 0 2px}.sub{margin:0 0 6px;color:#646985}
+ol.q>li{margin:0 0 16px;break-inside:avoid}ol.q>li>p{margin:0 0 6px;font-size:16px}
+.opts{display:flex;flex-wrap:wrap;gap:8px 22px}.opts span::before{content:"";display:inline-block;width:14px;height:14px;border:2px solid #1f2440;border-radius:50%;margin-right:7px;vertical-align:-2px}
+.line{border-bottom:1.5px solid #1f2440;height:28px}.box{border:2px solid #1f2440;border-radius:12px;height:150px}
+.cards{display:grid;grid-template-columns:repeat(4,1fr);border:2px dashed #9aa0b8}.cards span{border:1px dashed #9aa0b8;padding:12px 6px;text-align:center;font-weight:700}
+.cut{font-size:12px;color:#646985;margin:3px 0 8px}.cols{display:grid;gap:10px}.cols div{border:2.5px solid #1f2440;border-radius:12px;min-height:90px;padding:6px;text-align:center;font-weight:700}
+.match{display:grid;grid-template-columns:1fr 34px 1fr 1.4fr;row-gap:12px;align-items:center}.match .w{border:2px solid #1f2440;border-radius:10px;padding:6px 10px;font-weight:700}.match .m{border:2px solid #9aa0b8;border-radius:10px;padding:6px 10px}.dot{width:12px;height:12px;border-radius:50%;background:#1f2440;justify-self:center}
+.order div{display:flex;gap:10px;align-items:center;margin:5px 0}.order i{width:28px;height:28px;border:2px solid #1f2440;border-radius:6px;flex:none}
+.bank{display:flex;flex-wrap:wrap;gap:8px}.bank span{border:2px solid #1f2440;border-radius:999px;padding:2px 12px;font-weight:700}
+.ans{page-break-before:always}.ans li{margin:0 0 10px}.foot{margin-top:18px;font-size:11px;color:#646985;border-top:1px solid #dce0ea;padding-top:4px}`;
+// the same shuffle every time a sheet is printed, so a parent's copy matches the child's
+const fxShuffle = (L, seed) => {
+  let s = [...String(seed)].reduce((a, c) => (a * 31 + c.charCodeAt(0)) % 2147483647, 7);
+  return L.map((x) => [x, (s = (s * 16807) % 2147483647)])
+    .sort((a, b) => a[1] - b[1])
+    .map((x) => x[0]);
+};
+function fxWsItem(it, key) {
+  const o = it.opts || it.options,
+    lines = (n) => '<div class="line"></div>'.repeat(n);
+  if (it.t === "mcq" || it.t === "odd")
+    return `<div class="opts">${o.map((x) => `<span>${esc(x)}</span>`).join("")}</div>`;
+  if (it.t === "truefalse") return `<div class="opts"><span>True</span><span>False</span></div>`;
+  if (it.t === "fill" || it.t === "count") return it.p.includes("__") ? "" : lines(1);
+  if (it.t === "sort")
+    return `<div class="cards">${fxShuffle(it.items, key)
+      .map((x) => `<span>${esc(x[0])}</span>`)
+      .join(
+        "",
+      )}</div><div class="cut">✂ Cut out the cards and stick each one in the right box.</div><div class="cols" style="grid-template-columns:repeat(${it.cats.length},1fr)">${it.cats.map((c) => `<div>${esc(c)}</div>`).join("")}</div>`;
+  if (it.t === "match") {
+    const R = fxShuffle(
+      it.pairs.map((x) => x[1]),
+      key,
+    );
+    return `<div class="match">${it.pairs.map((x, i) => `<div class="w">${esc(x[0])}</div><div class="dot"></div><div></div><div class="m">${esc(R[i])}</div>`).join("")}</div>`;
+  }
+  if (it.t === "order")
+    return `<div class="order">${it.items.map((x) => `<div><i></i>${esc(x)}</div>`).join("")}</div>`;
+  if (it.t === "forces")
+    return `<div class="bank">${o.map((x) => `<span>${esc(x)}</span>`).join("")}</div><div class="box"></div>`;
+  if (it.t === "draw" || it.t === "label") return `<div class="box"></div>`;
+  return lines(it.lines || 3);
+}
+function fxWsAnswer(it) {
+  const o = it.opts || it.options,
+    a =
+      it.t === "mcq" || it.t === "odd"
+        ? o[it.a]
+        : it.t === "truefalse"
+          ? it.a
+            ? "True"
+            : "False"
+          : it.t === "sort"
+            ? it.cats
+                .map(
+                  (c) =>
+                    `${c}: ${it.items
+                      .filter((x) => x[1] === c)
+                      .map((x) => x[0])
+                      .join(", ")}`,
+                )
+                .join(". ")
+            : it.t === "match"
+              ? it.pairs.map((p) => p.join(" → ")).join("; ")
+              : it.t === "order"
+                ? it.a.join(" → ")
+                : it.t === "forces"
+                  ? it.a.map((f) => f.name + " " + f.dir).join(", ")
+                  : Array.isArray(it.a)
+                    ? it.a.join(" / ")
+                    : String(it.a ?? "");
+  return `<b>${esc(a)}</b>${it.why ? ` ${esc(it.why)}` : ""}`;
+}
+function fxWsPrintDoc(u, w) {
+  const head = `<header><div class="brand"><b>Deep</b>Kids <span>Gurukul</span></div><div>Name: ______________ &nbsp; Date: ________</div></header>`;
+  return `<!doctype html><meta charset="utf-8"><title>${esc(w.title)}</title><link href="https://fonts.googleapis.com/css2?family=Rozha+One&family=Mukta:wght@400;700&display=swap" rel="stylesheet"><style>${WS_PRINT_CSS}</style>
+  ${head}<h1>${esc(w.title)}</h1><p class="sub">${esc(u.title)} · ${w.items.length} questions · about ${w.mins} minutes</p>
+  <ol class="q">${w.items.map((it, i) => `<li><p>${esc(it.p.replace(/_{2,}/g, "__________"))}</p>${fxWsItem(it, w.id + i)}</li>`).join("")}</ol>
+  <div class="foot">DeepKids Gurukul · ${esc(u.title)}</div>
+  <section class="ans">${head}<h1>Answers, for grown-ups</h1><p class="sub">${esc(w.title)}</p><ol>${w.items.map((it) => `<li>${fxWsAnswer(it)}</li>`).join("")}</ol></section>`;
+}
 function fxPrint(id) {
-  const u = FXU;
-  let h = "";
-  const w = u.worksheets.find((x) => x.id === id),
+  const u = FXU,
+    w = u.worksheets.find((x) => x.id === id),
     g = [...u.games].find((x) => x.id === id);
-  if (w) {
-    h = `<h1>${esc(w.title)}</h1><p>Name: ______________ Date: ________</p><ol>${w.items
-      .map((it) => {
-        const o = it.opts || it.options;
-        return `<li><p>${esc(it.p)}</p>${o ? `<p>${o.map((x, i) => `${"abcd"[i]}) ${esc(x)}`).join(" &nbsp; ")}</p>` : ""}${it.t === "truefalse" ? "<p>True / False</p>" : ""}${it.t === "sort" ? `<p>${it.items.map((x) => esc(x[0])).join(" · ")}</p>` : ""}${
-          it.t === "match"
-            ? `<p>${it.pairs.map((p) => esc(p[0])).join(" · ")} | ${it.pairs
-                .map((p) => esc(p[1]))
-                .sort()
-                .join(" · ")}</p>`
-            : ""
-        }${["write", "draw"].includes(it.t) ? `<div style="height:${it.t === "draw" ? 120 : (it.lines || 3) * 26}px;border-bottom:1px solid #ccc"></div>` : ""}</li>`;
-      })
-      .join("")}</ol>
-    <h2 style="page-break-before:always">Answer key</h2><ol>${w.items
-      .map((it) => {
-        const o = it.opts || it.options;
-        return `<li><b>${esc(it.t === "mcq" ? o[it.a] : it.t === "sort" ? it.items.map((x) => x.join(" → ")).join("; ") : it.t === "match" ? it.pairs.map((p) => p.join(" → ")).join("; ") : it.t === "forces" ? it.a.map((f) => f.name + " " + f.dir).join(", ") : String(it.a))}</b> ${esc(it.why)}</li>`;
-      })
-      .join("")}</ol>`;
-  } else if (g) {
+  let h = "";
+  if (w) h = fxWsPrintDoc(u, w);
+  else if (g) {
     h = `<h1>${esc(g.title)}</h1><h3>Rules</h3><ol>${g.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>${g.printables.map((p) => `<h3>${esc(p.title)}</h3><div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px">${p.items.map((x) => `<div style="border:2px dashed #999;border-radius:10px;padding:10px;min-height:90px;font:600 14px sans-serif">${esc(x)}</div>`).join("")}</div>`).join("")}`;
+    h = `<!doctype html><meta charset="utf-8"><title>DeepKids</title><style>body{font:15px/1.5 Nunito,system-ui,sans-serif;padding:20px}li{margin:10px 0}</style>${h}`;
   }
   const f = document.createElement("iframe");
   f.style.cssText = "position:fixed;width:0;height:0;border:0";
-  f.srcdoc = `<!doctype html><meta charset="utf-8"><title>DeepKids</title><style>body{font:15px/1.5 Nunito,system-ui,sans-serif;padding:20px}li{margin:10px 0}</style>${h}`;
+  f.srcdoc = h;
   f.onload = () => {
     try {
       f.contentWindow.print();
