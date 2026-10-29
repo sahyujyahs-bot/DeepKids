@@ -76,6 +76,7 @@ These match the app's worksheet player:
 
 | t | fields | notes |
 |---|---|---|
+| `perspective` | `p`, `views` (2–3 of {"who", "says"}), `ask`, `lines`, `a` (what a strong answer does), `why` | pick a side: real points of view (a farmer, a bee, a scientist; Aristotle and Galileo). The child picks one, argues for it with evidence from the unit, then answers back from another side. No single right answer; `a` says what makes an answer strong |
 | `draw` | `p` | a drawing or labelling task |
 | `write` | `p`, `lines` | open answer; lines 1–6 |
 | `fill` | `p` (use `____`), `a` (list of accepted answers) | |

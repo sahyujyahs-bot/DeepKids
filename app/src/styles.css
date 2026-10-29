@@ -4877,6 +4877,12 @@ dialog .fxfab {
   gap: 10px;
   border: 2px solid var(--sun);
 }
+.fxviews p {
+  margin: 6px 0;
+  padding: 8px 12px;
+  border-radius: 12px;
+  background: var(--sunk);
+}
 .fxucard.locked {
   opacity: 0.7;
 }

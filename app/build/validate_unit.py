@@ -3,7 +3,7 @@ Usage: python3 app/build/validate_unit.py app/content/units/sci/sci.forces.frict
 Prints OK, or the problems. Also prints the unit's total minutes and the number of days at the class's daily minutes."""
 import json, sys, re, os, glob
 DAY_MINS = {1: 30, 2: 35, 3: 40, 4: 45, 5: 45}
-ITEM_T = {"mcq", "fill", "match", "sort", "truefalse", "order", "write", "draw", "label", "forces", "count", "odd"}
+ITEM_T = {"mcq", "fill", "match", "sort", "truefalse", "order", "write", "draw", "label", "forces", "count", "odd", "perspective"}
 FLOW = ("games", "projects", "experiments", "activities", "challenges")
 
 W = []
@@ -162,6 +162,26 @@ def check(path):
             if it.get("t") == "mcq" and not (isinstance(it.get("a"), int) and 0 <= it["a"] < len(it.get("opts", it.get("options", [])))): P(f"{owner} item {i + 1}: mcq answer out of range")
     for ws in u["worksheets"]: items(f"worksheet {ws.get('id')}", ws.get("items", []), 15)
     items("quiz", u["quiz"], 10)
+    # REWRITE_UNIT.md "Worksheets that make children think": every question asked once, a mix of forms on each sheet,
+    # thinking questions on every sheet, and at least one pick-a-side question
+    norm = lambda t: re.sub(r"[^a-z0-9 ]", "", (t or "").lower()).strip()
+    seen = {}
+    for src, L in [(f"worksheet {ws.get('id')}", ws.get("items", [])) for ws in u["worksheets"]] + [("quiz", u["quiz"])]:
+        for it in L:
+            k = norm(it.get("p"))
+            if k and k in seen and seen[k] != src: P(f"{src}: repeats a question from {seen[k]}: '{it.get('p', '')[:70]}'")
+            seen.setdefault(k, src)
+    THINK = {"write", "perspective", "draw", "label"}
+    for ws in u["worksheets"]:
+        L = ws.get("items", [])
+        if not L: continue
+        top, cnt = max(((t, sum(i.get("t") == t for i in L)) for t in {i.get("t") for i in L}), key=lambda x: x[1])
+        if cnt > 0.4 * len(L): P(f"worksheet {ws.get('id')}: {cnt} of {len(L)} questions are '{top}'; mix the forms (at most 40% of one kind)")
+        if sum(i.get("t") in THINK for i in L) < 3: P(f"worksheet {ws.get('id')}: needs 3+ thinking questions (write, perspective, draw or label)")
+    if not any(i.get("t") == "perspective" for ws in u["worksheets"] for i in ws.get("items", [])): P("worksheets: need at least one 'perspective' (pick a side) question")
+    for ws in u["worksheets"]:
+        for i, it in enumerate(ws.get("items", [])):
+            if it.get("t") == "perspective" and not (2 <= len(it.get("views", [])) <= 3 and it.get("ask")): P(f"worksheet {ws.get('id')} item {i + 1}: perspective needs 2-3 views and an ask")
     for q in u["quiz"]:
         if q.get("outcome") is None: P("quiz items need an outcome index"); break
     if len(u["videos"]) != 3: P("videos: exactly 3")
@@ -186,7 +206,7 @@ def check(path):
     if deny: W.append(f"check these don't deny a mind to anything ({', '.join(deny)}): PHILOSOPHY.md 'Everything is conscious'")
     # WRITING.md rule 26: a living being is she, he or they, never "it"
     LIVE = r"(?:plant|seed|seedling|tree|bean|sprout|animal|bird|crow|sparrow|pigeon|parrot|hen|chick|insect|ant|bee|butterfly|caterpillar|spider|worm|earthworm|snail|frog|tadpole|fish|cow|dog|cat|goat|elephant|lion|tiger|monkey|bat|lizard|gecko|snake|turtle|whale|dolphin|bacteri(?:um|a)|germ|microbe|virus|fungus|mushroom|mould|yeast|baby|kitten|puppy|calf)"
-    its = sorted({m.group(0)[:70] for m in re.finditer(LIVE + r"\b[^.!?\"]{0,40}?\b(?:it|its|itself)\b", json.dumps(u, ensure_ascii=False), re.I)})
+    its = sorted({m.group(0)[:70] for m in re.finditer(r"\b" + LIVE + r"\b[^.!?\"]{0,40}?\b(?:it|its|itself)\b", json.dumps(u, ensure_ascii=False), re.I)})
     if its: W.append(f"a living being may be called 'it' in {len(its)} places; use she, he or they (WRITING.md rule 26): " + " | ".join(its[:4]))
     dt = (u.get("roots") or {}).get("deep_truth", {}).get("truth", "")
     sens = [x for x in re.split(r"(?<=[.!?])\s+", dt) if x]

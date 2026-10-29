@@ -43,6 +43,14 @@ For every experiment, activity, game, project and challenge:
 - **Timings** match what the steps take.
 - **Buy items:** every `buy` entry must be something a parent really needs and can get; otherwise remove it and use a home item.
 
+## Worksheets that make children think
+Worksheets test the heart of the topic, not trivia. Every question asks about an idea the unit is really about (why a magnet attracts iron, why a seed needs water), never a side detail (who made the first fridge magnet).
+- **Substance first.** Most questions ask the child to explain, predict, apply the idea to something new, find the mistake in someone's thinking, or use evidence from their own experiment. Recall questions are few, and only for the words the child needs.
+- **Pick a side.** Every unit has at least one `perspective` question: two or three real points of view (a farmer, a bee and a scientist; Aristotle and Galileo; "Kavya says… Meena says…"). The child picks one, argues for it with evidence, then answers back from another side. Use real disagreements and real trade-offs, never a strawman with one obvious winner.
+- **Challenge the idea.** Include questions that test a popular belief or the child's own first guess ("Many people think heavy things fall faster. What would you test to find out?").
+- **Every sheet is different.** No question appears twice anywhere in the unit (core, stretch, challenge and quiz). Each sheet mixes forms: at most 40% of one kind, and at least 3 thinking questions (write, perspective, draw, label). Core, stretch and challenge climb in difficulty, and each asks new things, not harder copies of the same ones.
+- **Plain, fair and answerable.** Every question can be understood on one reading by a child of 8, every name is introduced, and the answer key says what a strong answer does, not just the answer.
+
 ## The deep truth and roots: think hard
 The founder found these "wild, completely wrong, meaningless, senseless". A deep truth must be:
 1. **True.** Every sentence would be accepted by a scientist as a correct statement of fact, or is our stance from PHILOSOPHY.md (everything is conscious; never deny a mind to anything), stated as plain fact like any science, never as "DeepKids believes".

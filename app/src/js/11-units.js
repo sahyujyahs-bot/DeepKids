@@ -316,6 +316,8 @@ function fxItem(u, key, it, i, n) {
           : it.t === "forces"
             ? it.a.map((f) => `${f.name}: ${f.dir}`).join(", ")
             : String(it.a);
+  // pick a side: two or three real points of view; the child chooses one, argues for it, then answers back from another
+  const views = (it.views || []).map((v) => `<p><b>${esc(v.who)}:</b> “${esc(v.says)}”</p>`).join("");
   const body =
     it.t === "match"
       ? `<p class="fxsm">Match: ${it.pairs.map((p) => esc(p[0])).join(" · ")} ⟷ ${it.pairs
@@ -329,7 +331,9 @@ function fxItem(u, key, it, i, n) {
           ? `<p class="fxsm">${it.items.slice().sort().map(esc).join(" · ")}</p>`
           : it.t === "forces"
             ? `<p class="fxsm">Draw arrows for: ${it.options.map(esc).join(", ")}</p>`
-            : `<p class="fxsm">${it.t === "draw" ? "Draw it on paper." : "Say it out loud or write it on paper."}</p>`;
+            : it.t === "perspective"
+              ? `<div class="fxviews">${views}</div><p class="fxsm">${esc(it.ask)}</p>`
+              : `<p class="fxsm">${it.t === "draw" ? "Draw it on paper." : "Say it out loud or write it on paper."}</p>`;
   return (
     head +
     `<div class="fxq">${fxCtx(it)}${fxHow(u, it)}${fxChart(it.chart)}<p class="fxqq">${esc(it.p)}</p>${body}<details class="fxask"><summary>Show the answer</summary><p><b>${esc(ans)}</b></p><p class="fxsm">${esc(it.why)}</p>${fxChart(it.answer_chart)}</details></div>`
@@ -1046,6 +1050,7 @@ ol.q>li{margin:0 0 16px;break-inside:avoid}ol.q>li>p{margin:0 0 6px;font-size:16
 .match{display:grid;grid-template-columns:1fr 34px 1fr 1.4fr;row-gap:12px;align-items:center}.match .w{border:2px solid #1f2440;border-radius:10px;padding:6px 10px;font-weight:700}.match .m{border:2px solid #9aa0b8;border-radius:10px;padding:6px 10px}.dot{width:12px;height:12px;border-radius:50%;background:#1f2440;justify-self:center}
 .order div{display:flex;gap:10px;align-items:center;margin:5px 0}.order i{width:28px;height:28px;border:2px solid #1f2440;border-radius:6px;flex:none}
 .bank{display:flex;flex-wrap:wrap;gap:8px}.bank span{border:2px solid #1f2440;border-radius:999px;padding:2px 12px;font-weight:700}
+.views p{margin:4px 0;padding:6px 10px;border:1.5px solid #9aa0b8;border-radius:10px}.pick{display:inline-block;width:14px;height:14px;border:2px solid #1f2440;border-radius:50%;margin-right:8px;vertical-align:-2px}
 .ans{page-break-before:always}.ans li{margin:0 0 10px}.foot{margin-top:18px;font-size:11px;color:#646985;border-top:1px solid #dce0ea;padding-top:4px}`;
 // the same shuffle every time a sheet is printed, so a parent's copy matches the child's
 const fxShuffle = (L, seed) => {
@@ -1076,6 +1081,8 @@ function fxWsItem(it, key) {
   }
   if (it.t === "order")
     return `<div class="order">${it.items.map((x) => `<div><i></i>${esc(x)}</div>`).join("")}</div>`;
+  if (it.t === "perspective")
+    return `<div class="views">${it.views.map((v) => `<p><span class="pick"></span><b>${esc(v.who)}:</b> “${esc(v.says)}”</p>`).join("")}</div><p>${esc(it.ask)}</p>${lines(it.lines || 5)}`;
   if (it.t === "forces")
     return `<div class="bank">${o.map((x) => `<span>${esc(x)}</span>`).join("")}</div><div class="box"></div>`;
   if (it.t === "draw" || it.t === "label") return `<div class="box"></div>`;
