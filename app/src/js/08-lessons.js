@@ -926,10 +926,14 @@ function chapterPage() {
   return h;
 }
 function chapterView() {
-  const h = chapterPage(),
-    u = unitBy(ui.sheet.k),
-    U = u?.c?.units || [];
+  const u = unitBy(ui.sheet.k),
+    U = u?.c?.units || [],
+    M = u?.c?.more || [],
+    h = chapterPage() + (M.length ? moreFromOtherSites(M) : "");
   return U.length
     ? `<section class="card fxnew"><span class="eyebrow">Go deeper: subtopic feeds</span>${fxUnitBtns(U)}</section>` + h
     : h;
 }
+// free sheets made by others for this chapter, as links to their own sites (content/curriculum/free_worksheets.json)
+const moreFromOtherSites = (M) =>
+  `<section class="card"><span class="eyebrow">More from other sites</span><p class="xs muted">Free sheets made by others for this chapter. They open on their own site.</p>${M.map((w) => `<a class="res" href="${esc(w.url)}" target="_blank" rel="noopener"><b>${esc(w.title)}</b><br><span class="xs muted">${esc(w.publisher)}${w.age ? " · " + esc(w.age) : ""}${w.what ? " · " + esc(w.what) : ""}</span></a>`).join("")}</section>`;

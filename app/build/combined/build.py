@@ -56,6 +56,12 @@ _wl = os.path.join(APP, 'content', 'curriculum', 'waldorf_links.json')
 WLINKS = json.load(open(_wl)) if os.path.exists(_wl) else {}
 _tg = os.path.join(APP, 'content', 'curriculum', 'unit_chapter_tags.json')   # extra unit tags per board chapter, by topic, at any class
 TAGS = json.load(open(_tg)) if os.path.exists(_tg) else {}
+# free worksheets on other sites, found per board chapter (content/curriculum/free_worksheets.json): shown as links
+_fw = os.path.join(APP, 'content', 'curriculum', 'free_worksheets.json')
+for it in data['items']:
+    (it.get('c') or {}).pop('more', None)
+    for w in (json.load(open(_fw)) if os.path.exists(_fw) else {}).get(it.get('k'), []):
+        it.setdefault('c', {}).setdefault('more', []).append({k: w.get(k, '') for k in ('title', 'url', 'publisher', 'age', 'what')})
 SUB = {x['id']: x for x in CUR['subtopic_levels']}
 SUBI = {x['id']: i for i, x in enumerate(CUR['subtopic_levels'])}   # curriculum order
 data['units'] = {}
