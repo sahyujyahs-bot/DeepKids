@@ -2,6 +2,10 @@
 
 Everything she asked for, 19–27 Oct, that is not done or only partly done. Ticked off here as it gets built.
 
+## 📌 Pinned for the kids app (founder, 29 Oct)
+- **Live AI canvas tutor (IAm on a whiteboard).** The child asks out loud, or snaps a worksheet. IAm talks and draws step by step on a shared board, using our unit's facts. The child draws back and IAm responds. "Save to Progress", with hard bits going to the refresher. Turn-based voice (the phone's own speech), Claude returns speech plus drawing steps, and the app animates them in the notebook style. Daily limit per family (Plus).
+- **AI explainer video maker** (like ToMotion): a prompt or a unit card becomes a script, then code-drawn diagram scenes, voice and music, then an MP4. Same drawing engine as the live canvas. Also gives short explainers for units (helps the reading load).
+
 ## Content
 1. **Classes 1, 2, 4 and 5 science, and all maths.** Only Class 3 science is complete: 61 units and 30 class lessons. Class lessons written: Class 1 10/15, Class 2 11/18, Class 4 9/24, Class 5 12/31. No maths units exist. Make Classes 1–2 shorter.
 2. ✅ **Done 27 Oct.** **The 16 older Class 3 lessons** were written before the new writing rules and need checking under them.
