@@ -184,6 +184,10 @@ def check(path):
     deny = sorted({m.group(0).lower() for m in DENY.finditer(json.dumps(u, ensure_ascii=False))})
     # a person must read these: "scales can't feel tiny forces" is fine, "a plant can't think" is not
     if deny: W.append(f"check these don't deny a mind to anything ({', '.join(deny)}): PHILOSOPHY.md 'Everything is conscious'")
+    # WRITING.md rule 26: a living being is she, he or they, never "it"
+    LIVE = r"(?:plant|seed|seedling|tree|bean|sprout|animal|bird|crow|sparrow|pigeon|parrot|hen|chick|insect|ant|bee|butterfly|caterpillar|spider|worm|earthworm|snail|frog|tadpole|fish|cow|dog|cat|goat|elephant|lion|tiger|monkey|bat|lizard|gecko|snake|turtle|whale|dolphin|bacteri(?:um|a)|germ|microbe|virus|fungus|mushroom|mould|yeast|baby|kitten|puppy|calf)"
+    its = sorted({m.group(0)[:70] for m in re.finditer(LIVE + r"\b[^.!?\"]{0,40}?\b(?:it|its|itself)\b", json.dumps(u, ensure_ascii=False), re.I)})
+    if its: W.append(f"a living being may be called 'it' in {len(its)} places; use she, he or they (WRITING.md rule 26): " + " | ".join(its[:4]))
     dt = (u.get("roots") or {}).get("deep_truth", {}).get("truth", "")
     sens = [x for x in re.split(r"(?<=[.!?])\s+", dt) if x]
     if len(sens) > 4 or any(len(x.split()) > 20 for x in sens): P("roots.deep_truth: 3-4 short sentences, each under 20 words (PHILOSOPHY.md, 'Simple and direct')")
