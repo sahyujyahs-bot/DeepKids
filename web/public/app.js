@@ -4043,7 +4043,7 @@ function chapterPage() {
             };
   const t = tabs[ui.ctab[u.k]] ? ui.ctab[u.k] : "overview",
     inPlan = everyUnit().some((z) => z.k === u.k) && plannedUnits(u.subj).some((z) => z.k === u.k);
-  let h = `<section class="chero ${SC(u.subj)}"><span class="n">${u.board === "combined" ? "" : /^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span class="eyebrow" style="color:#2B2340;opacity:.7">${u.board === "gen" ? "DeepKids topic · Level " + u.level : esc(u.book)}</span><h1>${esc(u.title)}</h1><span class="sticker ${cs}" style="justify-self:start">${STATUS[cs]}${cs === "learning" && done(u.k) ? ` · Part ${done(u.k)} of ${sessionsFor(u)}` : ""}</span><p>${c?.p ? `${c.p.days.length} parts · about ${c.p.day_mins} minutes each` : `${fh(hoursFor(u))} hours in all · ${sessionsFor(u)} lesson days at ${fh(hpdOf(u.subj))} h a day`}</p>${sblob(u.subj, "happy", "mascot sway")}</section>
+  let h = `<section class="chero ${SC(u.subj)}"><span class="n">${u.board === "combined" ? "" : /^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span class="eyebrow">${u.board === "gen" ? "DeepKids topic · Level " + u.level : esc(u.book)}</span><h1>${esc(u.title)}</h1><span class="sticker ${cs}" style="justify-self:start">${STATUS[cs]}${cs === "learning" && done(u.k) ? ` · Part ${done(u.k)} of ${sessionsFor(u)}` : ""}</span><p>${c?.p ? `${c.p.days.length} parts · about ${c.p.day_mins} minutes each` : `${fh(hoursFor(u))} hours in all · ${sessionsFor(u)} lesson days at ${fh(hpdOf(u.subj))} h a day`}</p>${sblob(u.subj, "happy", "mascot sway")}</section>
    ${u.board === "gen" && !u.gen.reviewed ? `<p class="note">Written by Claude when a parent searched for it. Not yet reviewed by DeepKids.</p>` : ""}
    <div class="row">${inPlan ? `<span class="pill completed" style="align-self:center">✓ ${isNextUp(u) ? "Next up" : "In the plan · no. " + qPos(u)} in ${SUBJ[u.subj]}</span>${isNextUp(u) ? "" : `<button class="btn sm" data-act="qnext" data-s="${u.subj}" data-k="${u.k}">Do this next</button>`}<button class="btn line sm" data-act="gotab" data-tab="week" data-seg="next" data-qs="${u.subj}">See the queue</button>` : u.board === "unit" && !dkUnitOpen(u.c?.unit) ? `<span class="xs muted">🔒 On the DeepKids track</span>` : qPick("les", u.subj, "les:" + u.k, icon("plus") + "Add to the plan")}</div>
    
@@ -6261,9 +6261,7 @@ function gamesView() {
       return `<button class="joke" data-act="joke" data-j="${k}"><span class="eyebrow">Joke ${i + 1}</span><span class="q">${esc(j[0])}</span>${ui.jokes[k] ? `<span class="a">${esc(j[1])}</span>` : `<span class="tap">Tap for the answer</span>`}</button>`;
     })
     .join("")}</div>`;
-  const song = sg
-    ? `<section class="card">${fxSongHtml(sg)}</section>`
-    : `<p class="xs muted">🎵 Song: ${esc(I.song?.title || "")} (being written)</p>`;
+  const song = sg ? `<section class="card">${fxSongHtml(sg)}</section>` : "";
   const rest = dailyUnit() ? jokesAndGames().replace(/^<div class="hs">[\s\S]*?<\/button><\/div>/, "") : "";
   return jokes + song + rest;
 }
@@ -6555,7 +6553,7 @@ function fxFlowCards(u, kind, x) {
             .join("")}</div>`
         : ""
     }${x.players ? `<p class="fxsm"><b>Players:</b> ${esc(x.players)}</p>` : ""}
-    ${x.safety ? `<p class="fxsm">⚠️ ${esc(x.safety)}</p>` : ""}${x.days > 1 && x.schedule ? `<p class="fxsm"><b>Over ${x.days} days:</b> ${x.schedule.map((s) => `Day ${s.day}: ${esc(s.what)}`).join(" · ")}</p>` : ""}
+    ${x.safety && !/^(none|no special|not needed|nothing)\b/i.test(x.safety) ? `<p class="fxsm">⚠️ ${esc(x.safety)}</p>` : ""}${x.days > 1 && x.schedule ? `<p class="fxsm"><b>Over ${x.days} days:</b> ${x.schedule.map((s) => `Day ${s.day}: ${esc(s.what)}`).join(" · ")}</p>` : ""}
     ${x.printables ? `<button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the game</button>` : ""}${x.example_chart ? `<p class="fxsm"><b>What results might look like (made-up example):</b></p>${fxChart(x.example_chart)}` : ""}<p class="fxhint">Scroll for ${x.printables ? "the game pieces and " : ""}the ${n} steps ↓</p></div>`,
   });
   if (x.printables)
@@ -6809,7 +6807,7 @@ function fxCards(u) {
         u.videos.forEach((v, i) =>
           add(
             "vid." + i,
-            `<div class="fxtxt"><span class="fxeb">▶️ Video ${i + 1} of ${u.videos.length} · ${v.mins} min · ${esc(v.channel)}</span><h2>${esc(v.title)}</h2>${v.youtube ? `<div class="fxvid" data-yt="${esc(v.youtube)}" style="background-image:url('https://i.ytimg.com/vi/${esc(v.youtube)}/hqdefault.jpg')"><button class="fxb" data-fx="play">▶ Play here</button></div><a class="fxsm" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=${esc(v.youtube)}">Open on YouTube</a>` : `<a class="fxb" target="_blank" rel="noopener" href="https://www.youtube.com/results?search_query=${encodeURIComponent(v.title + " " + v.channel)}">Find it on YouTube</a>`}<p class="fxsm">${esc(v.why)}</p><p class="fxpo pm">${esc(v.check)}</p></div>`,
+            `<div class="fxtxt"><span class="fxeb">▶️ Video ${i + 1} of ${u.videos.length} · ${v.mins} min · ${esc(v.channel)}</span><h2>${esc(v.title)}</h2>${v.youtube ? `<div class="fxvid" data-yt="${esc(v.youtube)}" style="background-image:url('https://i.ytimg.com/vi/${esc(v.youtube)}/hqdefault.jpg')"><button class="fxb" data-fx="play">▶ Play here</button></div><a class="fxsm" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=${esc(v.youtube)}">Open on YouTube</a>` : `<a class="fxb" target="_blank" rel="noopener" href="https://www.youtube.com/results?search_query=${encodeURIComponent(v.title + " " + v.channel)}">Find it on YouTube</a>`}<p class="fxsm">${esc(v.why)}</p></div>`,
             v.title,
           ),
         );
@@ -6877,19 +6875,27 @@ function fxCards(u) {
           u.ask_kids.join(" "),
         );
         break;
+      // a song card only once the song is written
       case "song": {
         const sg = Object.values(DATA.songs || {}).find((x) => (x.units || []).includes(u.id));
-        add(
-          "song",
-          `${fxImg(u, "song", "")}<div class="fxtxt">${sg ? fxSongHtml(sg) : `<span class="fxeb">🎵 Song</span><h2>${esc(u.song.title)}</h2><p class="fxsm">This song is still being written.</p>`}</div>`,
-          sg ? sg.sections.map((x) => x.lines.join(" ")).join(" ") : "",
-        );
+        if (sg)
+          add(
+            "song",
+            `${fxImg(u, "song", "")}<div class="fxtxt">${fxSongHtml(sg)}</div>`,
+            sg.sections.map((x) => x.lines.join(" ")).join(" "),
+          );
         break;
       }
       case "links":
         add(
           "links",
-          `${fxImg(u, "links", "")}<div class="fxtxt"><span class="fxeb">🌐 Try these and go see</span>${u.links.map((l) => `<div class="fxvoice"><b>${l.url ? `<a target="_blank" rel="noopener" href="${esc(l.url)}">${esc(l.title)}</a>` : esc(l.title)}</b> <span class="fxsm">${l.kind === "place" ? "📍 " + esc(l.where) : l.kind}</span><p class="fxsm">${esc(l.why)}</p></div>`).join("")}</div>`,
+          `${fxImg(u, "links", "")}<div class="fxtxt"><span class="fxeb">🌐 Try these and go see</span>${u.links
+            .filter((l) => l.url || (l.kind === "place" && l.where))
+            .map(
+              (l) =>
+                `<div class="fxvoice"><b>${l.url ? `<a target="_blank" rel="noopener" href="${esc(l.url)}">${esc(l.title)}</a>` : esc(l.title)}</b> <span class="fxsm">${l.kind === "place" ? "📍 " + esc(l.where) : l.kind}</span><p class="fxsm">${esc(l.why)}</p></div>`,
+            )
+            .join("")}</div>`,
           "",
         );
         break;
@@ -7372,7 +7378,9 @@ function fxWsItem(it, key) {
     return `<div class="match">${it.pairs.map((x, i) => `<div class="w">${esc(x[0])}</div><div class="dot"></div><div></div><div class="m">${esc(R[i])}</div>`).join("")}</div>`;
   }
   if (it.t === "order")
-    return `<div class="order">${it.items.map((x) => `<div><i></i>${esc(x)}</div>`).join("")}</div>`;
+    return `<div class="order">${fxShuffle(it.items, key)
+      .map((x) => `<div><i></i>${esc(x)}</div>`)
+      .join("")}</div>`;
   if (it.t === "perspective")
     return `<div class="views">${it.views.map((v) => `<p><span class="pick"></span><b>${esc(v.who)}:</b> “${esc(v.says)}”</p>`).join("")}</div><p>${esc(it.ask)}</p>${lines(it.lines || 5)}`;
   if (it.t === "forces")
@@ -7421,7 +7429,7 @@ function fxWsPrintDoc(u, w) {
 /* A game piece is text, or a card with a front and a back ({f, b}); on screen a two-sided card turns over when tapped */
 function fxPiece(it, j, kind) {
   const two = typeof it === "object";
-  return `<div class="fxpc${two ? " two" : ""}" data-fx="flip" style="--h:${(j * 47) % 360}">${kind === "tokens" ? "💡" : two ? `<span class="pcf">${it.img ? `<img src="${esc(it.img.src)}" alt="">` : ""}${esc(it.f)}</span><span class="pcb">${esc(it.b)}</span>` : esc(it)}</div>`;
+  return `<div class="fxpc${two ? " two" : ""}" data-fx="flip" style="--h:${(j * 47) % 360}">${two ? `<span class="pcf">${it.img ? `<img src="${esc(it.img.src)}" alt="">` : ""}${esc(it.f)}</span><span class="pcb">${esc(it.b)}</span>` : esc(it)}</div>`;
 }
 /* The game's print-out. Two-sided cards come first, a page of fronts then a page of their backs, each row mirrored so a
    back lands behind its own front when the sheet is printed on both sides (or turned over and fed in again);

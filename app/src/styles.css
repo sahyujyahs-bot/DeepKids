@@ -12,7 +12,7 @@
   --surface: #ffffff;
   --sunk: #f1f2f6;
   --ink: #1f2440;
-  --muted: #646985;
+  --muted: #4a4f6a;
   --line: #dce0ea;
   --tang: #d7372b;
   --sun: #e8a317;
@@ -5528,8 +5528,9 @@ strong {
   text-transform: none !important;
   color: var(--muted) !important;
 }
-/* on a coloured joke card the label takes the card's own text colour */
-.joke .eyebrow {
+/* on a coloured card the label takes the card's own text colour, never grey on colour */
+.joke .eyebrow,
+.chero .eyebrow {
   color: inherit !important;
 }
 .card,
