@@ -2197,9 +2197,9 @@
    "items": [
     {
      "t": "order",
-     "p": "Divya's mother eats idli and sambar for lunch. Put these steps in order, to show how that food reaches the baby in her womb.",
+     "p": "A mother eats idli and sambar for lunch. Put these steps in order, to show how that food reaches the baby in her womb.",
      "items": [
-      "Divya's mother eats the idli and sambar",
+      "the mother eats the idli and sambar",
       "her stomach and gut break the food into tiny pieces",
       "her blood carries the food to the placenta",
       "the food passes through a thin wall into the baby's blood",
@@ -2210,7 +2210,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nila's mother has blood group O. Her new baby sister has blood group B. How can the baby have a different blood group from the mother she grew inside?",
+     "p": "A mother has blood group O. Her new baby girl has blood group B. How can the baby have a different blood group from the mother she grew inside?",
      "opts": [
       "The baby's blood changed at birth",
       "In the placenta, the two bloods stay apart, with a thin wall between them",
@@ -2221,7 +2221,7 @@
     },
     {
      "t": "write",
-     "p": "Predict. Revathi is going to have a baby. She sings a low lullaby. Then she blows a high whistle on a toy. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.",
+     "p": "Predict. A woman who is going to have a baby sings a low lullaby. Then she blows a high whistle on a toy. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.",
      "lines": 3,
      "a": "The low lullaby. In my test, the low hum came through the bag of water clearly, but the high whistle sounded muffled. The baby is surrounded by water and the mother's body, so low sounds reach them best.",
      "why": "A strong answer makes a prediction, then backs it with what the child heard through the water bag.",
@@ -2354,7 +2354,7 @@
     },
     {
      "t": "write",
-     "p": "Shalini was born by caesarean birth. She was lifted out, not pushed out by the womb. Does she still have a belly button? Explain why.",
+     "p": "A girl was born by caesarean birth. She was lifted out, not pushed out by the womb. Does she still have a belly button? Explain why.",
      "lines": 3,
      "a": "Yes. She still grew in a womb and was joined to a placenta by a cord. When the cord was cut, the stump fell off and left a belly button, just like everyone else's.",
      "why": "A strong answer says the belly button comes from the cord, not from how the baby came out."

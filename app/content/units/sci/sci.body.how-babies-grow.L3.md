@@ -614,12 +614,12 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 16. (truefalse) Before birth, a baby swallows some of the water around them in the womb.  
    **Answer:** True. *Why:* True. The baby swallows a little of the warm water, again and again. This is practice for swallowing milk after birth. A strong answer knows the baby does many things in the womb: kick, hiccup, suck their thumb and swallow.
 ### Inside the Womb (stretch) (stretch, 16 questions)
-1. (order) Divya's mother eats idli and sambar for lunch. Put these steps in order, to show how that food reaches the baby in her womb.  
+1. (order) A mother eats idli and sambar for lunch. Put these steps in order, to show how that food reaches the baby in her womb.  
    **Answer:** order shown. *Why:* Food is broken down, carried by the mother's blood, passed across the thin wall in the placenta, and carried along the cord. A strong answer puts the placenta before the cord.
-2. (mcq) Nila's mother has blood group O. Her new baby sister has blood group B. How can the baby have a different blood group from the mother she grew inside?  
+2. (mcq) A mother has blood group O. Her new baby girl has blood group B. How can the baby have a different blood group from the mother she grew inside?  
    Options: The baby's blood changed at birth / In the placenta, the two bloods stay apart, with a thin wall between them / The doctor gave the baby new blood  
    **Answer:** In the placenta, the two bloods stay apart, with a thin wall between them. *Why:* Many people think the two bloods mix. They do not. Food and oxygen pass through a very thin wall, but the bloods stay mostly apart. So the baby can have their own blood group.
-3. (write) Predict. Revathi is going to have a baby. She sings a low lullaby. Then she blows a high whistle on a toy. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.  
+3. (write) Predict. A woman who is going to have a baby sings a low lullaby. Then she blows a high whistle on a toy. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.  
    **Answer:** The low lullaby. In my test, the low hum came through the bag of water clearly, but the high whistle sounded muffled. The baby is surrounded by water and the mother's body, so low sounds reach them best.. *Why:* A strong answer makes a prediction, then backs it with what the child heard through the water bag.
 4. (truefalse) If a pregnant mother looks at a rabbit every day, her baby may be born with long ears.  
    **Answer:** False. *Why:* False. This is an old belief. Thoughts and sights do not travel to the baby. Only things carried in the mother's blood reach the baby. How the baby looks comes from their DNA and how their cells grow.
@@ -639,7 +639,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 11. (mcq) Shalini, a girl in Class 4, was born by caesarean birth. What does that mean?  
    Options: She was born later than other babies / She did not grow in a womb / Doctors lifted her out through a careful cut in her mother's tummy and womb  
    **Answer:** Doctors lifted her out through a careful cut in her mother's tummy and womb. *Why:* In a caesarean birth, doctors open the mother's tummy and womb and lift the baby out. Shalini grew in the womb and was fed through a cord, like everyone else.
-12. (write) Shalini was born by caesarean birth. She was lifted out, not pushed out by the womb. Does she still have a belly button? Explain why.  
+12. (write) A girl was born by caesarean birth. She was lifted out, not pushed out by the womb. Does she still have a belly button? Explain why.  
    **Answer:** Yes. She still grew in a womb and was joined to a placenta by a cord. When the cord was cut, the stump fell off and left a belly button, just like everyone else's.. *Why:* A strong answer says the belly button comes from the cord, not from how the baby came out.
 13. (label) Label four places on this newborn: the lungs, the belly button, the soft spot on the head and a fingertip. Then write one fact next to each.  
    **Answer:** ['lungs: fill with air for the first time at birth', 'belly button: where the cord joined', 'soft spot: the skull bones are not joined yet', 'fingertip: fingerprints formed months before birth']. *Why:* Each label is a clue that the baby lived somewhere else before birth: in water, fed through a cord, and growing for months.

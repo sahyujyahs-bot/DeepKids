@@ -1239,7 +1239,7 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi found a lime butterfly caterpillar on the curry leaf plant on her balcony. Her family has different ideas.",
+     "p": "Lakshmi, a girl in Class 3, found a lime butterfly caterpillar on the curry leaf plant on her balcony. Her family has different ideas.",
      "views": [
       {
        "who": "Lakshmi, in Class 3",
@@ -3409,7 +3409,7 @@
    "why_maths": "Adding the stages tells you how long the whole project will take, so you know when to expect the butterfly."
   },
   {
-   "problem": "In the egg bubbles experiment, Lakshmi counted 17 trails of bubbles from the round half of the egg and 6 from the pointed half. Which end let out more air, and how many more trails did it have?",
+   "problem": "In the egg bubbles experiment, 17 trails of bubbles came from the round half of the egg and 6 from the pointed half. Which end let out more air, and how many more trails did it have?",
    "answer": "The round end, with 11 more trails.",
    "explain": "17 is more than 6, so the round end let out more air. 17 minus 6 is 11. This fits the egg: the air pocket is at the round end.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
