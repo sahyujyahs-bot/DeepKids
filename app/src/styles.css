@@ -3377,6 +3377,47 @@ a.btn {
 .nudge-card .nb {
   animation: bob 2.4s ease-in-out infinite;
 }
+.wk1 {
+  display: grid;
+  gap: 10px;
+  border: 2px solid var(--sun);
+}
+.wk1h {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+.wk1dots {
+  display: flex;
+  gap: 5px;
+}
+.wk1dots i {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--line);
+}
+.wk1dots i.on {
+  background: var(--sun);
+}
+.wk1dots i.cur {
+  background: var(--surface);
+  box-shadow: 0 0 0 2px var(--sun);
+}
+.wk1t {
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  gap: 10px;
+}
+.wk1t h3 {
+  font-size: 19px;
+}
+.wk1t > svg {
+  flex: none;
+  width: 40px;
+  height: 40px;
+}
 @keyframes dkglow {
   50% {
     box-shadow: 0 0 0 6px rgba(255, 214, 90, 0.35);

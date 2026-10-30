@@ -9525,6 +9525,69 @@ function offerList() {
     ? `<div class="col" style="gap:8px">${L.map(({ s, nx }) => `<div class="offer ${SC(s)}">${sblob(s)}<span style="min-width:0"><b style="font:600 16px var(--display)">${esc(chT(nx.u))}</b><br><span class="xs muted">${SUBJ[s]} · Part ${nx.n} of ${nx.tot}</span><br><span class="xs est">${estTxt(nx.u, nx.n, nx.tot)}</span></span><button class="btn sm" data-act="more" data-s="${s}">Start</button></div>`).join("")}</div>`
     : `<p class="sm muted">Everything planned is done. Explore anything you like.</p>`;
 }
+/* The first week: one small thing a day, so a new family meets the app a piece at a time.
+   [id, title, what to do, the "Show me" button's attributes, done already without a tick] */
+const WEEK1 = [
+  [
+    "lesson",
+    "Do one lesson together",
+    "Pick the first lesson on today's list below and do it with your child. Tick it when you finish.",
+    "",
+    () => S.log.length > 0,
+  ],
+  [
+    "unit",
+    "Try one experiment",
+    "Open a topic in the Library and do its experiment with things from your kitchen. Most take 15 minutes.",
+    'data-act="gotab" data-tab="library"',
+    () => Object.keys(fxSt().time).length > 0,
+  ],
+  [
+    "week",
+    "Tell DeepKids your week",
+    "Type or say your classes, outings and chores, like “Swimming Tue and Thu 5 pm”. Lessons fit around them.",
+    'data-act="gotab" data-tab="week" data-seg="cal"',
+    () => S.events.length > 0,
+  ],
+  [
+    "print",
+    "Print one worksheet",
+    "Open a lesson, find its worksheets and print one. Ten minutes at the table, away from the screen.",
+    'data-act="gotab" data-tab="library"',
+  ],
+  [
+    "iam",
+    "Ask the Guru a “why”",
+    "Children ask one every day. Tap IAm in the corner and ask it together, then try the answer out.",
+    'data-act="wk1iam"',
+  ],
+  [
+    "photo",
+    "Save your child's work",
+    "Take a photo of a drawing, a model or a worksheet. It goes into their learning diary and progress.",
+    'data-act="uploads"',
+  ],
+  [
+    "journey",
+    "See how far you've come",
+    "Open Progress: what's done, and how it matches the board. One week in!",
+    'data-act="gotab" data-tab="journey"',
+  ],
+];
+const wk1Done = ([id, , , , auto]) => !!(S.wk1?.done?.[id] || auto?.());
+function firstWeekCard() {
+  if (!S.setup || S.wk1?.off) return "";
+  const k = WEEK1.findIndex((s) => !wk1Done(s));
+  if (k < 0) return "";
+  const [id, t, d, go] = WEEK1[k],
+    dots = `<span class="wk1dots">${WEEK1.map((s, i) => `<i class="${wk1Done(s) ? "on" : i === k ? "cur" : ""}"></i>`).join("")}</span>`,
+    head = (n) => `<div class="wk1h"><span class="eyebrow">Your first week · Day ${n} of 7</span>${dots}</div>`;
+  // one a day: once today's is ticked, tomorrow's waits unless they want it now
+  if (Object.values(S.wk1?.done || {}).includes(today) && !ui.wk1now)
+    return `<section class="card wk1">${head(k)}<p class="sm"><b>Day ${k} done.</b> Tomorrow: ${esc(t)}.</p><button class="link sm" data-act="wk1now">Do it now</button></section>`;
+  return `<section class="card wk1">${head(k + 1)}<div class="row wk1t">${blob("var(--sun)", 6 + k, "wow", "nb", 'width="40" height="40"')}<div><h3>${t}</h3><p class="sm">${d}</p></div></div>
+   <div class="row">${go ? `<button class="btn sm" ${go}>Show me</button>` : ""}<button class="btn soft sm" data-act="wk1done" data-k="${id}">${icon("check")} Done</button><button class="link xs" data-act="wk1off">Hide this guide</button></div></section>`;
+}
 function viewToday() {
   const items = dayPlan(today),
     real = items.filter((i) => i.kind !== "brk"),
@@ -9540,7 +9603,7 @@ function viewToday() {
   if (S.setup && !S.parent?.saved && !S.parent?.name)
     h += `<button class="nudge" data-act="parent">${youBlob("", "happy", 'width="36" height="36"')}<span>${pname() ? "Set your wake-up and prep times" : "Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
   if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
-  h += fxTodayTop(!window.FXANIMED); // the summary animates in the first time only
+  h += firstWeekCard() + fxTodayTop(!window.FXANIMED); // the summary animates in the first time only
   window.FXANIMED = 1;
   // what to do next comes first; the day toggle sits right above the day's list, which marks the next thing
   h += `<section class="sec cal">${pastEvCard(real)}${f ? nowCard(f) : ""}${nudgeCard()}${calHead(today)}`;
@@ -16285,6 +16348,35 @@ function onAct(e) {
     }
     case "remics": {
       saveIcs();
+      break;
+    }
+    case "wk1done": {
+      S.wk1 = { ...(S.wk1 || {}), done: { ...(S.wk1?.done || {}), [b.dataset.k]: today } };
+      ui.wk1now = 0;
+      sfx("win");
+      toast(
+        WEEK1.every(wk1Done)
+          ? "Your first week is done. Well done, both of you!"
+          : "Lovely. The next one is waiting for tomorrow.",
+      );
+      commit();
+      break;
+    }
+    case "wk1now": {
+      ui.wk1now = 1;
+      sfx("flip");
+      render();
+      break;
+    }
+    case "wk1iam": {
+      document.getElementById("fxFab")?.click();
+      break;
+    }
+    case "wk1off": {
+      S.wk1 = { ...(S.wk1 || {}), off: true };
+      sfx("flip");
+      toast("Hidden. You can find every feature from the menu.");
+      commit();
       break;
     }
     case "nudgeoff": {

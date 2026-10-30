@@ -1481,6 +1481,35 @@ function onAct(e) {
       saveIcs();
       break;
     }
+    case "wk1done": {
+      S.wk1 = { ...(S.wk1 || {}), done: { ...(S.wk1?.done || {}), [b.dataset.k]: today } };
+      ui.wk1now = 0;
+      sfx("win");
+      toast(
+        WEEK1.every(wk1Done)
+          ? "Your first week is done. Well done, both of you!"
+          : "Lovely. The next one is waiting for tomorrow.",
+      );
+      commit();
+      break;
+    }
+    case "wk1now": {
+      ui.wk1now = 1;
+      sfx("flip");
+      render();
+      break;
+    }
+    case "wk1iam": {
+      document.getElementById("fxFab")?.click();
+      break;
+    }
+    case "wk1off": {
+      S.wk1 = { ...(S.wk1 || {}), off: true };
+      sfx("flip");
+      toast("Hidden. You can find every feature from the menu.");
+      commit();
+      break;
+    }
     case "nudgeoff": {
       S.nudgeOff = { ...(S.nudgeOff || {}), [today]: Date.now() + 2 * 36e5 };
       sfx("flip");
