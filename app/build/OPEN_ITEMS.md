@@ -6,6 +6,17 @@ Everything she asked for, 19–27 Oct, that is not done or only partly done. Tic
 - **Live AI canvas tutor (IAm on a whiteboard).** The child asks out loud, or snaps a worksheet. IAm talks and draws step by step on a shared board, using our unit's facts. The child draws back and IAm responds. "Save to Progress", with hard bits going to the refresher. Turn-based voice (the phone's own speech), Claude returns speech plus drawing steps, and the app animates them in the notebook style. Daily limit per family (Plus).
 - **AI explainer video maker** (like ToMotion): a prompt or a unit card becomes a script, then code-drawn diagram scenes, voice and music, then an MP4. Same drawing engine as the live canvas. Also gives short explainers for units (helps the reading load).
 
+## 📌 Pinned for the parents' app (founder, 30 Oct)
+- **Sign-in screen story** (ideas 2 + 4, ~20 s, notebook turning into night sky, sign-in button always visible):
+  1. The worry: the parent's pencil notebook at night, scribbles crossing out ("What do I teach tomorrow?", "Is she behind the NCERT syllabus?", "Plants? Again?", "Forgot the swimming fees…"). Words: "Every homeschooling parent knows this page."
+  2. The turn: a small star lands; the mess sweeps away and a neat plan writes itself (9:30 Magnets: a test with steel bowls ✓ · 11:00 A story from Madurai · 4:00 Swimming). Words: "You teach. DeepKids Gurukul plans, tracks and remembers."
+  3. The days add up: each ticked lesson floats up as a star; the page darkens to night. Words: "Every lesson your child really understands…"
+  4. The payoff: stars join into topic constellations (Magnets, Plants, the Sky, Water) tagged NCERT ✓ / Cambridge ✓; the sky forms a child looking up. Words: "…becomes a sky of their own." Then "DeepKids Gurukul · THE homeschooling app".
+  - Drawn in code (handwriting, paper, stars). A half-made notebook redesign is saved at scratchpad `signin-redesign.patch` (not live).
+- **IAm: guide, don't tell** (hints and questions instead of answers) and **worksheet grading** from a photo, with weak spots going to the refresher.
+- **Read-aloud practice** (like Google's Read Along): the child reads, the phone listens and marks hard words. For English and Hindi.
+- **Feature Reels** (15 s each, problem → app fixes it → surprise), and a faceless Instagram plan. OpenArt test clip offered.
+
 ## Content
 1. **Classes 1, 2, 4 and 5 science, and all maths.** Only Class 3 science is complete: 61 units and 30 class lessons. Class lessons written: Class 1 10/15, Class 2 11/18, Class 4 9/24, Class 5 12/31. No maths units exist. Make Classes 1–2 shorter.
 2. ✅ **Done 27 Oct.** **The 16 older Class 3 lessons** were written before the new writing rules and need checking under them.
