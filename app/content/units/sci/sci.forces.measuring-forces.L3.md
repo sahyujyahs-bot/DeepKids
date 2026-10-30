@@ -792,8 +792,8 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 8. (mcq) Revathi stands still on a bathroom scale, holding a heavy bag at her waist. Then she lifts the bag high above her head and holds it there, still. Once she is still again, what does the scale show?  
    Options: More than before / Less than before / The same as before  
    **Answer:** The same as before. *Why:* Wherever she holds the bag, its pull goes down through her arms and body into the scale. So once she is still, the number is the same. While she is lifting the bag, the number jumps up for a moment, because she pushes down to push the bag up. Many people guess 'less', because the bag is further from the scale.
-9. (fill) Two forcemeters are hooked together and pulled. One reads 4 newtons. The other one reads ____ newtons.  
-   **Answer:** ['4', 'four']. *Why:* Each forcemeter pulls on the other just as hard. Every pull comes with an equal pull back, so both always read the same.
+9. (fill) Shalini measures a pull of about 1 newton with a forcemeter that shows 0 to 500 newtons. The pointer hardly moves. To read this pull well, she should use a forcemeter with a ____ range.  
+   **Answer:** ['smaller', 'small', 'lower', 'low']. *Why:* A forcemeter built for big pulls has a stiff spring, so a small pull hardly stretches it and the reading is hard to see. A forcemeter with a small range, like 0 to 5 newtons, has a softer spring that stretches well for small pulls. Pick the range that fits the pull: not too small, and not too big.
 10. (mcq) Nila, a girl in Class 4, hooks her forcemeter to her uncle's and they pull. Nila says, 'My uncle is stronger, so his forcemeter will show more.' What is wrong with her idea?  
    Options: Nothing. The stronger person's forcemeter shows more / Both forcemeters always show the same, because each pull comes with an equal pull back / The weaker person's forcemeter shows more / Two forcemeters can't be hooked together  
    **Answer:** Both forcemeters always show the same, because each pull comes with an equal pull back. *Why:* When the uncle pulls harder, the pull on Nila's side grows too, by exactly the same amount. Both forcemeters feel the one pull that passes through them. Being stronger lets him pull Nila along, but the readings stay equal.
@@ -845,7 +845,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
    Options: It speeds up twice as fast / It moves at the same steady speed / It speeds up just as fast as with 1 newton / It stops  
    **Answer:** It speeds up twice as fast. *Why:* A force changes how a thing moves. Twice the push on the same thing gives twice the speeding up. Picking 'steady speed' is the old idea that a push only keeps things going. Newton showed that a push changes the speed.
 15. (order) Put these from the smallest force to the biggest: a small apple pulling on your hand, a feather pulling on your hand, the pull between the Earth and the Moon, a Saturn V rocket pushing off the ground.  
-   **Answer:** order shown. *Why:* A feather pulls with about one hundredth of a newton, and a small apple with about 1 newton. The Saturn V rocket pushed with about 34 million newtons. The Earth and the Moon pull on each other with about 200 million million million newtons. Most people guess the rocket is biggest, because a launch looks so huge.
+   **Answer:** order shown. *Why:* A feather pulls with less than one hundredth of a newton, and a small apple with about 1 newton. The Saturn V rocket pushed with about 34 million newtons. The Earth and the Moon pull on each other with about 200 million million million newtons. Most people guess the rocket is biggest, because a launch looks so huge.
 16. (truefalse) A forcemeter that shows the same number every time you hang the same bag must be showing the right number.  
    **Answer:** False. *Why:* False. A forcemeter whose pointer starts on 1 instead of 0 is wrong by the same amount every time. Giving the same answer again and again only shows it is steady. To know it is right, you must check it against something everyone trusts, like Pushpa's sealed salt packets.
 
@@ -870,9 +870,9 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 5. (mcq) The newton is named after Isaac Newton. Who decided how big one newton is?  
    Options: People agreed on it together, using the kilogram, the metre and the second / Newton measured it inside an apple / Nature made it that size  
    **Answer:** People agreed on it together, using the kilogram, the metre and the second. *Why:* The newton is an agreement between people. It was named in 1948, long after Newton died in 1727. Picking 'nature' mixes up the force, which is real, with the unit we count it in, which people chose.
-6. (mcq) Look at this forcemeter. Each small mark is half a newton. What is the reading?  
-   Options: 7 newtons / 7 and a half newtons / 8 newtons  
-   **Answer:** 7 and a half newtons. *Why:* The pointer is on the small mark between 7 and 8. Half a newton past 7 is 7 and a half newtons. Picking 7 or 8 means the small mark was not counted.
+6. (mcq) On this forcemeter, the numbers go 0, 5, 10, 15, 20. Each small mark is 1 newton. What is the reading?  
+   Options: 13 newtons / 3 newtons / 15 newtons  
+   **Answer:** 13 newtons. *Why:* The pointer is 3 small marks past 10, and each mark is 1 newton, so it reads 13 newtons. Picking 3 means only the small marks were counted. Picking 15 means the reading was rounded to the nearest number.
 7. (mcq) Ravi reads a forcemeter from far below, looking up at the pointer. What can go wrong?  
    Options: The pointer looks shifted, so he may read the wrong mark / The spring stretches more / Nothing can go wrong  
    **Answer:** The pointer looks shifted, so he may read the wrong mark. *Why:* Looking from below or above makes the pointer seem to sit on a different mark. Reading with your eyes level with the pointer gives the true reading.
@@ -888,9 +888,9 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 11. (mcq) Pooja tests two notebooks. She slides the thin one on a smooth table, and the thick one on a rough mat. What is unfair about her test?  
    Options: She changed two things at once, so she can't tell which one made the difference / Nothing is unfair / She should use more coins  
    **Answer:** She changed two things at once, so she can't tell which one made the difference. *Why:* In a fair test, you change only one thing. Pooja changed the notebook and the surface, so if the numbers differ, she can't say why.
-12. (mcq) A packet of rice is taken from the Earth to the Moon. What stays the same?  
-   Options: The amount of rice in it, its mass / The forcemeter reading / How hard it pulls down  
-   **Answer:** The amount of rice in it, its mass. *Why:* The mass stays the same, because no rice is added or taken away. The pull, its weight, is about one sixth on the Moon. Picking 'how hard it pulls' mixes up mass and weight.
+12. (mcq) On the Moon, Asha lifts a box of books with a mass of 6 kilograms. How does lifting it feel, compared with on Earth?  
+   Options: About as easy as lifting 1 kilogram on Earth, because the Moon pulls it less / Just the same, because it is still 6 kilograms / She can't lift it, because there is no gravity on the Moon  
+   **Answer:** About as easy as lifting 1 kilogram on Earth, because the Moon pulls it less. *Why:* The Moon pulls about one sixth as hard, so the box pulls down on her hands about as hard as 1 kilogram does on Earth. Its mass is still 6 kilograms: no book has gone. Picking 'just the same' mixes up mass and weight. Picking 'no gravity' forgets that the Moon does pull, just less.
 13. (mcq) On the Moon, a bathroom scale shows a 30 kilogram girl as about 5 kilograms. Did she lose 25 kilograms of her body?  
    Options: No. The scale shows her push, and the Moon pulls her less / Yes, the Moon makes people smaller / The scale must be broken  
    **Answer:** No. The scale shows her push, and the Moon pulls her less. *Why:* A bathroom scale measures how hard you push down on it. The Moon pulls about one sixth as hard, so she pushes about one sixth as hard. All of her is still there.

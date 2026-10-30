@@ -582,13 +582,13 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 1. (mcq) Friction is a force. Where does it act?  
    Options: Only on things that are moving fast, like cars / Where two surfaces touch / Only when things are wet / Anywhere, even in empty space  
    **Answer:** Where two surfaces touch. *Why:* Friction happens wherever two surfaces touch and one is trying to slide over the other. Picking 'moving fast' usually means friction is linked only with speed. But friction also holds still things in place, like a shoe on a slope. Picking 'empty space' usually mixes friction up with gravity, which pulls without touching.
-2. (mcq) Which way does friction push?  
-   Options: The same way the thing is moving / Against the sliding / Always downwards, like gravity / Nowhere, because friction is not a push or a pull  
-   **Answer:** Against the sliding. *Why:* Friction pushes against sliding. So it slows moving things down, or stops still things from starting to slide. Picking 'the same way' often means friction is seen as a helper that carries things along. Picking 'downwards' usually mixes friction up with gravity.
+2. (mcq) A book lies still on a flat table. Nobody is pushing it. Is friction acting on the book?  
+   Options: No, because nothing is trying to make it slide / Yes, a big friction holds it down / Yes, friction always pulls things downwards / Yes, but only at night  
+   **Answer:** No, because nothing is trying to make it slide. *Why:* Friction only appears when something tries to make a surface slide. Push the book gently, and friction pushes back just as hard, so it stays still. Stop pushing, and the friction goes too. Picking 'holds it down' mixes friction up with gravity. Gravity holds the book down. Friction only works along the surface.
 3. (fill) A ball rolling on grass slows down and stops because of ____.  
    **Answer:** ['friction']. *Why:* The grass rubs against the ball. That rubbing is friction, and it slows the ball down.
 4. (sort) Sort these moments. Do we want MORE friction or LESS friction?  
-   **Answer:** a shoe on a wet floor → More friction; a playground slide → Less friction; a bicycle brake → More friction; a carrom striker on the board → Less friction; holding a cricket bat → More friction; a squeaky door hinge → Less friction. *Why:* We want more friction where we need to hold on, stop or push off. We want less where things should glide smoothly.
+   **Answer:** a shoe on a wet floor → More friction; a playground slide → Less friction; a bicycle brake → More friction; a carrom striker on the board → Less friction; holding a cricket bat → More friction; a sliding drawer → Less friction. *Why:* We want more friction where we need to hold on, stop or push off. We want less where things should glide smoothly.
 5. (mcq) You give a toy car the same push on four different floors. Which floor will it roll furthest on?  
    Options: Carpet / Sand / Smooth tiles / Grass  
    **Answer:** Smooth tiles. *Why:* Smooth tiles have the least friction. So the car slows down the least and rolls furthest. Picking carpet or grass often means soft feels smooth. But soft surfaces squash under the wheels and hold them back.
@@ -610,8 +610,8 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
    **Answer:** There is very little friction between my shoes and the ice. When I push my foot back to step forward, it slides instead of gripping. So I can't push myself forward.. *Why:* Walking needs friction. Your foot pushes back on the ground, and friction pushes you forward.
 13. (write) Name two places at home where you are glad there is friction. Say why for each one.  
    **Answer:** Any two good examples. For example, the bathroom mat stops me slipping when the floor is wet. My pencil grips the paper, so it leaves a line when I write.. *Why:* Any two correct examples, each with a reason, are right.
-14. (draw) Draw a shoe resting on a slope. Draw one arrow for the way the shoe would slide. Draw another arrow for friction.  
-   **Answer:** The slide arrow points down the slope. The friction arrow points up the slope, along the surface.. *Why:* Friction acts along the surface, against the way the shoe would slide.
+14. (draw) Draw your two hands rubbing together, the right hand moving up and the left hand moving down. Draw an arrow for the friction on each hand.  
+   **Answer:** On the right hand, the friction arrow points down. On the left hand, it points up. Each arrow points against the way that hand is moving.. *Why:* Friction acts on both surfaces that touch. On each one, it works against that surface's own sliding.
 15. (write) Harini, a girl in Class 3, says, 'Friction only happens when things are moving. A shoe standing still on a slope has no friction on it.' What is wrong with her idea?  
    **Answer:** A strong answer says that friction also works on still things. Gravity tries to make the shoe slide down the slope, and friction pushes up the slope to stop it. That is why the shoe stays put. If there were no friction, the shoe would slide straight away, as it would on ice.. *Why:* Friction works against sliding, and that includes stopping a still thing from starting to slide. Scientists call this static friction.
 16. (perspective) Lakshmi's family in Madurai is choosing new tiles for the kitchen floor. They do not agree.  
@@ -629,7 +629,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
    Options: Polishing makes one side smooth, so the ball swings in the air. The spikes give grip on the pitch. / Both are to make more friction / Both are to make less friction / Polishing makes the ball sticky, so it grips the bat  
    **Answer:** Polishing makes one side smooth, so the ball swings in the air. The spikes give grip on the pitch.. *Why:* Polishing makes one side of the ball smoother. This changes how air flows round it, so it swings. Spikes dig into the ground and give the bowler more grip. Picking 'both more' or 'both less' usually means the child expects one rule for everything. In cricket, people want less friction in one place and more in another.
 5. (sort) Sort these ways people change friction.  
-   **Answer:** putting wheels on a cart → Makes friction less; sprinkling sand on a slippery path → Makes friction more; oiling a bicycle chain → Makes friction less; wearing rubber soles → Makes friction more; waxing a floor → Makes friction less; chalk on a gymnast's hands → Makes friction more. *Why:* Wheels, oil and wax help things move easily. Sand, rubber and chalk help things grip.
+   **Answer:** putting wheels on a cart → Makes friction less; putting a rubber mat under a mixie → Makes friction more; oiling a bicycle chain → Makes friction less; wearing rubber soles → Makes friction more; waxing a floor → Makes friction less; chalk on a gymnast's hands → Makes friction more. *Why:* Wheels, oil and wax help things move easily. A rubber mat, rubber soles and chalk help things grip.
 6. (mcq) Why do old temple steps have a dip worn in the middle?  
    Options: The builders made them that way / Millions of feet rubbed tiny bits away over hundreds of years / Rain fell only in the middle / Heavy people pressed the stone down, like clay  
    **Answer:** Millions of feet rubbed tiny bits away over hundreds of years. *Why:* Friction slowly rubs surfaces away, even hard stone. This is called wear. Picking 'pressed down like clay' usually means stone is pictured as soft. Hard stone does not squash. It slowly wears away.
@@ -663,14 +663,14 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 2. (mcq) If area hardly matters for a brick, why do racing cars have very wide tyres?  
    Options: The rule only works for hard things. Soft, sticky rubber grips more with more area. / Wide tyres look more exciting / Wide tyres are lighter / The rule is wrong for everything  
    **Answer:** The rule only works for hard things. Soft, sticky rubber grips more with more area.. *Why:* The 'area hardly matters' rule breaks down for soft, sticky things like tyre rubber. Picking 'wrong for everything' misses that the rule still works well for hard things like bricks and wooden blocks.
-3. (truefalse) Scientists completely understand why ice is slippery.  
-   **Answer:** False. *Why:* False. Scientists still argue about it. Ideas include a slippery, almost wet layer on top, melting caused by sliding, and loose molecules that roll.
+3. (truefalse) In the slope test, a shoe filled with coins will slide off at a much lower height than the same empty shoe.  
+   **Answer:** False. *Why:* False, or nearly so. The coins make the shoe press harder on the board, so friction grows. But gravity also pulls the heavier shoe down the slope harder. The two grow together, so the shoe slides at about the same height. Many people guess heavier things slide more easily. A test shows they don't.
 4. (mcq) What could change Aristotle's mind?  
    Options: Seeing a ball roll further and further on smoother surfaces, as if with no friction it would never stop / Seeing a ball stop on grass / Seeing a heavy ball stop sooner than a light one / Nothing could  
    **Answer:** Seeing a ball roll further and further on smoother surfaces, as if with no friction it would never stop. *Why:* Galileo saw that less friction means a longer roll. So friction stops things, not nature. Picking 'a ball stopping on grass' shows just what Aristotle already saw. It fits his idea, so it would not change his mind.
-5. (mcq) Which of these is NOT caused by friction?  
-   Options: A match lighting / A cycle stopping when you brake / A magnet pulling a pin from across the table / Your shoe wearing out  
-   **Answer:** A magnet pulling a pin from across the table. *Why:* The magnet pulls the pin without touching it. Friction only happens where surfaces touch. Picking the match or the shoe usually means heat and wear are not yet linked to rubbing. Both come from friction.
+5. (mcq) Rim brakes on a cycle squeeze rubber pads onto the wheel. They stop the cycle well on a dry day, but badly in heavy rain. Why?  
+   Options: Water between the pads and the wheel acts as a lubricant, so there is less grip / Rain makes the wheel heavier / Cold rain makes the rubber grip more / Rain pushes the cycle forward  
+   **Answer:** Water between the pads and the wheel acts as a lubricant, so there is less grip. *Why:* A thin layer of water keeps the pad and the wheel a little apart, just like oil on a hinge. Less grip means less friction, so the cycle takes longer to stop. Riders brake early in the monsoon for this reason. Picking 'heavier wheel' looks for a change in weight, but the real change is between the surfaces.
 6. (fill) Engineers estimate that nearly a ____ of all the energy people use is lost to friction and wear in machines.  
    **Answer:** ['quarter', 'fourth', '1/4']. *Why:* In 2017, two engineers, Holmberg and Erdemir, estimated about 23 out of every 100 units. That is nearly a quarter, which is 25 out of 100.
 7. (order) Put these in order, from MOST friction to LEAST: ice, rubber mat, polished floor, sandpaper.  
@@ -723,11 +723,11 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
    Options: The most slippery shoe / The grippiest shoe / The heaviest shoe  
    **Answer:** The grippiest shoe. *Why:* The tallest bar means that shoe stayed on the steepest slope. So it grips best. Picking 'slippery' often means the bar was read as 'how fast it slid'. The bar shows how high the board went before sliding.
 7. (mcq) Where do we want LESS friction?  
-   Options: Bicycle brakes / A playground slide / Shoes on a wet floor  
-   **Answer:** A playground slide. *Why:* A slide should be slippery, so you can whizz down it. Picking brakes or shoes means GRIP and SLIP got swapped. Those two need lots of friction.
+   Options: Bicycle brakes / The spinning parts inside a ceiling fan / Shoes on a wet floor  
+   **Answer:** The spinning parts inside a ceiling fan. *Why:* The fan's spinning parts should turn freely. Friction there wastes energy and makes them hot and noisy, so they are oiled. Picking brakes or shoes means grip and slip got swapped. Those two need lots of friction.
 8. (mcq) Which of these lowers friction?  
-   Options: Sand on an icy path / Oil on a door hinge / Rubber soles  
-   **Answer:** Oil on a door hinge. *Why:* Oil is a lubricant, a slippery layer that lowers friction. Picking sand often means tiny grains are pictured rolling like marbles. On ice, sand grains dig in and add grip.
+   Options: Sand on an icy path / Soap on your finger when a ring is stuck / Rubber soles  
+   **Answer:** Soap on your finger when a ring is stuck. *Why:* Soap is a lubricant, a slippery layer that lowers friction, so the ring slides off. Picking sand often means tiny grains are pictured rolling like marbles. On ice, sand grains dig in and add grip.
 9. (mcq) Your rubber eraser gets smaller the more you use it. Why?  
    Options: Friction with the paper rubs tiny bits off it / It dries up in the air / The pencil eats it  
    **Answer:** Friction with the paper rubs tiny bits off it. *Why:* Each rub tears off tiny crumbs of rubber. That is wear, caused by friction. Picking 'it dries up' is a fair guess, but an eraser left in a box stays the same size.
@@ -737,9 +737,9 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 11. (mcq) Do scientists fully know why ice is slippery?  
    Options: Yes, it is because pressure melts it / No, they are still studying it / Yes, it is because ice is always wet  
    **Answer:** No, they are still studying it. *Why:* Scientists still argue about it. Picking 'pressure melts it' means the old textbook idea has been met. Scientists now think that pressure is far too weak to explain it.
-12. (mcq) Who wrote down rules of friction first, but in notebooks that were never published?  
-   Options: Guillaume Amontons / Leonardo da Vinci / Isaac Newton  
-   **Answer:** Leonardo da Vinci. *Why:* Leonardo da Vinci wrote them around 1493. Amontons published them about 200 years later, in 1699. Picking Newton is a common guess, because he is famous for forces. But Newton was born more than 120 years after Leonardo died.
+12. (mcq) Which of these do scientists agree about?  
+   Options: Pressing two surfaces together harder gives more friction / How much grip a brand-new kind of sole will have, without testing it / Exactly how the atoms at every rubbing surface behave  
+   **Answer:** Pressing two surfaces together harder gives more friction. *Why:* Anyone can test the first one with a forcemeter and a box of books, and it has been checked for over 300 years. Friction depends on so many tiny details that a new sole must still be tested. How atoms behave at rubbing surfaces is still being studied with special microscopes.
 13. (mcq) Two very smooth, very clean pieces of glass, pressed together, can stick hard. Why?  
    Options: Their atoms come close enough to pull on each other / There is hidden glue on them / Glass is magnetic  
    **Answer:** Their atoms come close enough to pull on each other. *Why:* When surfaces are very smooth, many more atoms touch, and they pull on each other with electric force. Picking 'hidden glue' looks for something extra. The grip comes from the atoms themselves.

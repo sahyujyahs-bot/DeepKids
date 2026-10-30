@@ -3110,13 +3110,14 @@
     },
     {
      "t": "fill",
-     "p": "Two forcemeters are hooked together and pulled. One reads 4 newtons. The other one reads ____ newtons.",
+     "p": "Shalini measures a pull of about 1 newton with a forcemeter that shows 0 to 500 newtons. The pointer hardly moves. To read this pull well, she should use a forcemeter with a ____ range.",
      "a": [
-      "4",
-      "four"
+      "smaller",
+      "small",
+      "lower",
+      "low"
      ],
-     "why": "Each forcemeter pulls on the other just as hard. Every pull comes with an equal pull back, so both always read the same.",
-     "how": "a4"
+     "why": "A forcemeter built for big pulls has a stiff spring, so a small pull hardly stretches it and the reading is hard to see. A forcemeter with a small range, like 0 to 5 newtons, has a softer spring that stretches well for small pulls. Pick the range that fits the pull: not too small, and not too big."
     },
     {
      "t": "mcq",
@@ -3418,7 +3419,7 @@
       "the pull between the Earth and the Moon"
      ],
      "a": "order shown",
-     "why": "A feather pulls with about one hundredth of a newton, and a small apple with about 1 newton. The Saturn V rocket pushed with about 34 million newtons. The Earth and the Moon pull on each other with about 200 million million million newtons. Most people guess the rocket is biggest, because a launch looks so huge."
+     "why": "A feather pulls with less than one hundredth of a newton, and a small apple with about 1 newton. The Saturn V rocket pushed with about 34 million newtons. The Earth and the Moon pull on each other with about 200 million million million newtons. Most people guess the rocket is biggest, because a launch looks so huge."
     },
     {
      "t": "truefalse",
@@ -3494,21 +3495,21 @@
   },
   {
    "t": "mcq",
-   "p": "Look at this forcemeter. Each small mark is half a newton. What is the reading?",
+   "p": "On this forcemeter, the numbers go 0, 5, 10, 15, 20. Each small mark is 1 newton. What is the reading?",
    "opts": [
-    "7 newtons",
-    "7 and a half newtons",
-    "8 newtons"
+    "13 newtons",
+    "3 newtons",
+    "15 newtons"
    ],
-   "a": 1,
-   "why": "The pointer is on the small mark between 7 and 8. Half a newton past 7 is 7 and a half newtons. Picking 7 or 8 means the small mark was not counted.",
+   "a": 0,
+   "why": "The pointer is 3 small marks past 10, and each mark is 1 newton, so it reads 13 newtons. Picking 3 means only the small marks were counted. Picking 15 means the reading was rounded to the nearest number.",
    "chart": {
     "type": "scale",
-    "title": "A forcemeter. Each small mark is half a newton.",
+    "title": "A 0 to 20 newton forcemeter. Each small mark is 1 newton.",
     "min": 0,
-    "max": 10,
-    "step": 0.5,
-    "value": 7.5,
+    "max": 20,
+    "step": 1,
+    "value": 13,
     "unit": "N"
    },
    "outcome": 3
@@ -3578,14 +3579,14 @@
   },
   {
    "t": "mcq",
-   "p": "A packet of rice is taken from the Earth to the Moon. What stays the same?",
+   "p": "On the Moon, Asha lifts a box of books with a mass of 6 kilograms. How does lifting it feel, compared with on Earth?",
    "opts": [
-    "The amount of rice in it, its mass",
-    "The forcemeter reading",
-    "How hard it pulls down"
+    "About as easy as lifting 1 kilogram on Earth, because the Moon pulls it less",
+    "Just the same, because it is still 6 kilograms",
+    "She can't lift it, because there is no gravity on the Moon"
    ],
    "a": 0,
-   "why": "The mass stays the same, because no rice is added or taken away. The pull, its weight, is about one sixth on the Moon. Picking 'how hard it pulls' mixes up mass and weight.",
+   "why": "The Moon pulls about one sixth as hard, so the box pulls down on her hands about as hard as 1 kilogram does on Earth. Its mass is still 6 kilograms: no book has gone. Picking 'just the same' mixes up mass and weight. Picking 'no gravity' forgets that the Moon does pull, just less.",
    "how": "a5",
    "outcome": 6
   },

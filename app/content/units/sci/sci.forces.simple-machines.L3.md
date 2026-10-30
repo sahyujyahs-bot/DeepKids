@@ -735,8 +735,8 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** The bucket weighs just the same. The pulley only lets you pull down instead of up. *Why:* A single fixed pulley changes the direction of your pull, not its size. Pulling down is easier, because you can use your own weight. To need a smaller pull, you must use more pulleys together, and then you pull a longer length of rope.
 7. (perspective) Who should get the credit for the lever? Here are three views.  
    **Answer:** Each view has truth in it. The textbook is wrong that he discovered it, because people used levers long before. The historian is right about who invented and used it, often women working a dhenki and farmers at a shaduf, whose names were not written down. The scientist is right that proving the rule mattered. A strong answer might share the credit.. *Why:* A strong answer separates using an idea, inventing it and explaining it, and gives a reason for where the credit should go.
-8. (order) Put these from the smallest push needed to the biggest, to raise the same load 1 metre: lifting it straight up, a 2 metre ramp, a 4 metre ramp, a 3 metre ramp.  
-   **Answer:** order shown. *Why:* The longer the ramp to the same height, the smaller the push. Lifting straight up needs the biggest push.
+8. (fill) Thangam lifts a bucket that pulls down with 20 newtons, using two pulleys. Now she needs only 10 newtons of pull. To raise the bucket 1 metre, she must pull ____ metres of rope.  
+   **Answer:** ['2', 'two']. *Why:* Half the pull means twice the distance. 20 newtons for 1 metre is the same as 10 newtons for 2 metres. Pulleys, like every machine, never give something for nothing. Picking half a metre means the trade was thought to go both ways at once.
 9. (mcq) A screw is a ramp wrapped round a rod. Why does a screw grip wood so strongly?  
    Options: Many turns of a small push move it in only a little, with a big force / It is sharp / It is made of iron / It is glued  
    **Answer:** Many turns of a small push move it in only a little, with a big force. *Why:* A screw is a long ramp. Each turn moves it forward only a little, so a small twist gives a big push forward. Picking 'sharp' is part of it, since the tip is a wedge. But the thread is a ramp.
@@ -751,8 +751,8 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** Archimedes is right about the rule: weight times distance must match, so a far-out push can balance a huge load. Sunita is right about the real world: no material is that stiff, there is nowhere to stand, and the trade of a small push for a long distance makes the distance impossibly long.. *Why:* A strong answer uses the rule, and also the trade of push for distance. It sees that the idea is right while the plan is impossible.
 14. (write) A wheelbarrow carries a heavy load of bricks. Where are its fulcrum, load and effort? Why is it easier than carrying the bricks?  
    **Answer:** The fulcrum is the wheel. The load is the bricks in the middle. The effort is my hands lifting the handles. My hands are further from the wheel than the bricks, so I lift with a smaller force. The wheel also rolls instead of dragging.. *Why:* A wheelbarrow is a lever with the load in the middle, and it has a wheel, so it uses two simple machines.
-15. (write) A see-saw is level. A 30 kg child sits on one side, and a 15 kg child sits on the other. Where could each one be sitting? Give one answer and explain it.  
-   **Answer:** The 15 kg child sits twice as far from the middle as the 30 kg child. For example, the 30 kg child sits 1 metre from the middle and the 15 kg child sits 2 metres away. 30 times 1 is 30, and 15 times 2 is 30.. *Why:* Any answer where the lighter child is twice as far out is right. A good answer shows that weight times distance is the same on both sides.
+15. (write) Lavanya wants to crack a hard walnut with a nutcracker. Should she put the nut close to the hinge, or near the tips of the handles? Explain using fulcrum, load and effort.  
+   **Answer:** Close to the hinge. The hinge is the fulcrum, the nut is the load, and her hand at the end of the handles is the effort. With the nut near the fulcrum and her hand far away, a small squeeze becomes a big crush on the nut. Near the tips, her hand and the nut would be almost the same distance from the hinge, so there is no gain.. *Why:* A strong answer names the three parts, and uses the lever rule: the further the effort is from the fulcrum compared with the load, the smaller the push needed.
 16. (draw) Draw your own design for a machine that lifts a bucket of water from a well, using at least two simple machines. Label each one.  
    **Answer:** Any design using two or more simple machines, labelled. For example: a lever like a shaduf with a stone counterweight, and a pulley wheel.. *Why:* Real machines often combine simple machines.
 
@@ -777,9 +777,9 @@ That night, under the stars, the whole village ate together round the fires of U
 5. (mcq) A see-saw is level. Then the child on the left slides further out from the middle. What happens?  
    Options: The left side goes down / The right side goes down / Nothing changes  
    **Answer:** The left side goes down. *Why:* The same weight further from the fulcrum turns the plank more. So the left side goes down. Picking 'nothing changes' means only weight was counted, not distance.
-6. (mcq) 2 coins sit 6 cm from the pencil on a ruler see-saw. How far away must 1 coin sit, on the other side, to balance them?  
-   Options: 12 cm / 6 cm / 3 cm  
-   **Answer:** 12 cm. *Why:* 2 times 6 is 12, and 1 times 12 is 12. Picking 6 cm matches the place but forgets the weight. Picking 3 cm halves the distance instead of doubling it.
+6. (mcq) 1 coin sits 8 cm from the pencil on a ruler see-saw. How far away must 4 coins sit, on the other side, to balance it?  
+   Options: 2 cm / 8 cm / 32 cm  
+   **Answer:** 2 cm. *Why:* 1 times 8 is 8, and 4 times 2 is 8. The heavier side sits closer in. Picking 8 cm matches the place but forgets the weight. Picking 32 cm moves the heavy side further out instead of closer in.
 7. (mcq) Instead of the steps, Kamala pushes her grandmother's wheelchair up a long, gentle ramp. What does the ramp cost her?  
    Options: She must push for a longer way / She needs a bigger push / Nothing at all  
    **Answer:** She must push for a longer way. *Why:* A ramp trades a smaller push for a longer distance. Picking 'nothing at all' means the machine was thought to give something for nothing.
@@ -798,12 +798,12 @@ That night, under the stars, the whole village ate together round the fires of U
 12. (mcq) These are made-up results from the ramp test. Which way of going up needed the smallest pull?  
    Options: Lifted straight up / Short, steep ramp / Long, gentle ramp  
    **Answer:** Long, gentle ramp. *Why:* The shortest bar is the long, gentle ramp, so it needed the smallest pull. Picking 'straight up' may mean the tallest bar was read as the best. Here a taller bar means more pull.
-13. (mcq) Someone is selling a wheel that will turn for ever with no push. What should you think?  
-   Options: It cannot work, because energy cannot come from nothing / It will work if it is built carefully / It will work if it is big enough  
-   **Answer:** It cannot work, because energy cannot come from nothing. *Why:* People have tried to build such wheels since at least 1150, and every one has failed. A machine can only pass on the energy you put in.
-14. (mcq) On a see-saw, the heavy person sits close to the middle. What does this tell us about the shared balance point of the Earth and the Moon?  
-   Options: It is much closer to the Earth, and is inside the Earth / It is exactly halfway between them / It is inside the Moon  
-   **Answer:** It is much closer to the Earth, and is inside the Earth. *Why:* The Earth is about 81 times heavier than the Moon, so the balance point is close to the Earth, about 1,700 km under its surface. Picking 'halfway' forgets that the heavier one sits closer to the balance point.
+13. (mcq) Tara lifts a rock with a long crowbar. Her push is only one tenth as big as the rock's weight. The rock rises 1 cm. How far does her hand move down?  
+   Options: About 10 cm / About 1 cm / About one tenth of a centimetre  
+   **Answer:** About 10 cm. *Why:* A machine trades push for distance. One tenth of the push means about ten times the distance, so her hand moves about 10 cm. Picking 1 cm means she was thought to get a smaller push for free.
+14. (mcq) A long spanner and a short spanner turn the same tight nut. Which needs the smaller push, and what is the catch?  
+   Options: The long one, but your hand must go round a bigger circle / The short one, with no catch / The long one, with no catch  
+   **Answer:** The long one, but your hand must go round a bigger circle. *Why:* The long handle puts your push further from the nut, so a smaller push gives the same twist. But your hand travels round a much bigger circle for each turn. Picking 'no catch' means the spanner was thought to give something for nothing.
 15. (mcq) Your biceps pulls on your forearm very close to the elbow. What do you gain from that?  
    Options: Your hand moves far and fast / A stronger grip / Nothing. It is a mistake  
    **Answer:** Your hand moves far and fast. *Why:* With the muscle close to the fulcrum, a small shortening swings the hand a long way, fast. Picking 'a mistake' is a fair first guess, but it is a trade of strength for speed.

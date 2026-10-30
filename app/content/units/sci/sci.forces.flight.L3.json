@@ -2696,21 +2696,21 @@
     },
     {
      "t": "truefalse",
-     "p": "The air over the top of a wing goes faster only because it must meet the air from underneath at the back at the same time.",
+     "p": "If all of a plane's engines stop high in the sky, the plane falls straight down like a stone.",
      "a": false,
-     "why": "False. This 'equal time' idea is in many old books, but smoke tests in wind tunnels show the air on top reaches the back much sooner. Nothing makes the two streams meet again. The air on top is faster, but not for that reason."
+     "why": "False. Engines give thrust, the forward push. The wings give lift. With the engines off, the pilot points the nose a little down, so the plane keeps moving forward and the wings keep pushing air down. It glides, slowly sinking, like a paper plane. In 1983 a Canadian plane ran out of fuel high in the sky and glided safely to a runway."
     },
     {
      "t": "mcq",
      "p": "A flying squirrel glides from tree to tree. Why can't they keep flying upwards like a bird?",
      "opts": [
-      "It has no flapping wings, so it has no thrust. It can only glide down",
-      "It is too heavy",
+      "They have no flapping wings, so they have no thrust. They can only glide down",
+      "They are too heavy",
       "Squirrels are scared of heights",
       "Trees pull them back"
      ],
      "a": 0,
-     "why": "A glider makes lift, but nothing pushes it forward. So it must slowly sink to keep moving. Picking 'too heavy' often means weight is thought to be the only thing that matters. Many birds weigh more than flying squirrels and still fly."
+     "why": "A glider makes lift, but nothing pushes them forward. So they must slowly sink to keep moving. Picking 'too heavy' often means weight is thought to be the only thing that matters. Many birds weigh more than flying squirrels and still fly."
     },
     {
      "t": "write",
@@ -2751,36 +2751,10 @@
     },
     {
      "t": "write",
-     "p": "In the made-up Paper Clip Pilot results, 1 clip made the plane fly further, but 3 clips made it fly less far than no clip at all. Explain why both things can be true.",
-     "lines": 4,
-     "a": "A strong answer says that one clip moves the balance point forward, so the plane glides smoothly instead of swooping up and stalling. Three clips put too much weight on the nose, so the plane dives into the floor. The right balance matters more than more weight.",
-     "why": "A plane flies steadily only when its balance point is a little in front of the middle of its wings. Too little or too much weight at the front both spoil the glide.",
-     "how": "e1",
-     "context": "In the Paper Clip Pilot experiment, you throw one paper plane with 0, 1 and 3 clips on its nose. You measure how far it flies.",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up example results: how far each plane flew (middle of 3 throws)",
-      "x": "Plane",
-      "y": "Distance (metres)",
-      "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different.",
-      "data": [
-       {
-        "label": "No paper clip",
-        "value": 4,
-        "emoji": "✈️"
-       },
-       {
-        "label": "1 clip on the nose",
-        "value": 6,
-        "emoji": "📎"
-       },
-       {
-        "label": "3 clips on the nose",
-        "value": 3,
-        "emoji": "📎"
-       }
-      ]
-     }
+     "p": "After a plane takes off, the wheels fold up inside it. A flying crow tucks their feet in close to their body too. Why do both do this?",
+     "lines": 3,
+     "a": "A strong answer says that wheels and feet sticking out push on the air as the flyer moves, so they make drag, the push of the air backwards. Tucking them in makes the flyer smoother, so there is less drag. Then less thrust is needed, so the plane uses less fuel and the crow gets less tired.",
+     "why": "Drag works against the forward push. Anything sticking out into the moving air adds drag, so smooth shapes fly more easily."
     },
     {
      "t": "write",
@@ -2948,26 +2922,24 @@
     },
     {
      "t": "write",
-     "p": "Design a test to find out whether real mahogany seeds or paper spinners fall more slowly. Say what you will keep the same.",
+     "p": "Many people think a bird flies by flapping their wings straight up and down. But a crow's wings push the air down AND back. Why must the air be pushed back as well as down?",
      "lines": 4,
-     "a": "For example: drop 3 mahogany seeds and 3 paper spinners from the same height, 2 metres, in the same still room. Time each one. Keep the height and the room the same. Compare the middle times.",
-     "why": "A fair test changes only one thing, here which seed, and keeps everything else the same.",
-     "how": "e2",
-     "context": "In the Seed Spinners experiment, you make paper spinners like winged seeds. You drop them from 2 metres and time how long each takes to fall."
+     "a": "A strong answer says that pushing air down gives lift, which holds the bird up. Pushing air back makes the air push the bird forward. That is thrust. Without thrust, drag would slow the bird and they would have to glide down, like a flying squirrel. So a flapping bird does two jobs with one wing beat.",
+     "why": "Every push on the air comes back as a push the other way. Air pushed down lifts the bird. Air pushed back drives the bird forward."
     },
     {
      "t": "write",
-     "p": "In the story, Farah's kite sagged whenever the string went slack, and rose when she pulled it tight. Explain why. Use the words wind, string and push.",
+     "p": "In the story, Farah's kite rose when she pulled the string tight. Her friend says, 'If I pull harder and harder, my kite will end up straight above my head.' Is she right? Explain, using the words wind, string and push.",
      "lines": 4,
-     "a": "The wind pushes the kite back. When the string is tight, it holds the kite against that push. The kite is tilted, so the push of the wind is turned upwards and the kite rises. When the string goes slack, nothing holds the kite, so the wind just carries it and it sags.",
-     "why": "A good answer says that the string holds the kite against the wind, and that the tilted kite turns the wind's push upwards.",
+     "a": "A strong answer says no. The wind pushes the kite back, away from the flyer, and the string holds it against that push. The tilted kite turns the push upwards. Straight overhead, the wind would blow flat along the kite's face instead of against it, so there would be almost no push to hold it up. So a kite always stays a little downwind of the flyer, with the string slanting.",
+     "why": "A kite is held up by the wind pushing against a string. It needs the wind to hit its face, so it can never sit directly above the flyer.",
      "context": "In this unit's story, a girl called Farah can't fly her kite until she stands still and pulls the string tight. The wind pushes the kite, the string holds it, and so it rises."
     },
     {
      "t": "draw",
-     "p": "Draw a close-up of a wing with air molecules around it, as if you had a magic microscope. Show where the molecules push harder.",
-     "a": "A wing with crowded molecules bumping underneath and fewer on top, with a big up arrow labelled lift.",
-     "why": "More bumping underneath than on top gives lift."
+     "p": "A plane turns by tipping one wing down. Draw a plane from the front, tipped to its right. Draw the lift arrow at right angles to the wings. Which way will the plane turn?",
+     "a": "A strong drawing shows the wings sloping down to the right, with the lift arrow leaning to the right too. The plane turns right, because part of the lift now pulls it sideways. A cheel turning in a thermal tips their wings in just the same way.",
+     "why": "Lift always pushes at right angles to the wings. Tip the wings, and the lift tips too, so it pulls the flyer round in a curve."
     },
     {
      "t": "write",
@@ -2979,9 +2951,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw a cheel soaring over a hot city roof. Draw arrows to show the warm air rising, and the push of the air on the cheel's wings.",
-     "a": "Wavy arrows rise from the hot roof. The cheel circles inside the rising air with still, spread wings. An arrow under the wings points up.",
-     "why": "The Sun heats the roof, warm air rises from it, and the cheel's tilted wings ride the rising air. That is soaring."
+     "p": "Invent a new seed that flies. Draw it. Label the part that pushes on the air, and where the heavy seed sits. Say how your seed would slow their fall.",
+     "a": "A strong design has a wide wing, a parachute or fluff that pushes on lots of air, with the heavy seed low down or at one end, so the seed falls steadily instead of tumbling. It says how the shape slows the fall, so the wind can carry the seed far.",
+     "why": "Real flying seeds all slow their fall by pushing on air, and they keep their heavy part in one place so they stay steady."
     },
     {
      "t": "match",
@@ -3150,14 +3122,14 @@
   },
   {
    "t": "mcq",
-   "p": "Common swifts are birds that can stay in the air without landing for about…",
+   "p": "A sparrow and a vulture both fly by flapping. Which one beats their wings faster?",
    "opts": [
-    "10 months",
-    "10 minutes",
-    "10 days"
+    "The sparrow, because small wings push less air with each beat",
+    "The vulture, because a big bird needs more beats",
+    "Both beat at the same speed"
    ],
    "a": 0,
-   "why": "Scientists in Sweden fitted swifts with tiny trackers in 2016. Some stayed up for about 10 months, eating and even sleeping on the wing. Picking '10 minutes' is a fair guess for most birds, but swifts are special.",
+   "why": "Each beat of a small wing pushes only a little air down. So a sparrow must beat many times a second to stay up. A vulture's huge wings push lots of air with each slow beat, and they often soar without flapping at all. Picking 'the vulture' makes sense, since big birds are heavier. But their big wings push more air.",
    "outcome": 4
   },
   {

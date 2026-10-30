@@ -4,10 +4,10 @@
  "subj": "sci",
  "level": 2,
  "n": "changing-materials",
- "title": "Melt it, cook it, burn it: changes we can and can't undo",
+ "title": "Changes we can undo and changes we can't",
  "source": "DeepKids Combined. Covers Cambridge Stage 2 Chemistry: Unit 3.5 'Changing materials' (changing shape; heating and cooling; melting; changes that can and cannot be reversed; cooking and burning). No textbook needed.",
- "summary": "Your child already knows that people change natural materials into made ones. Now they become the changers: squashing, twisting, melting, freezing, cooking and (with a grown-up) burning. They sort changes into ones that can be undone (melting chocolate, freezing water, squashing dough) and ones that can't (cooking an egg, toasting bread, burning paper), and they find out that an irreversible change makes something new. They meet a candle that both melts and burns, and the big idea that nothing ever truly disappears: burnt wax goes into the air, and into the next breath of a tree.",
- "builds_on": "Materials (Classes 1 and 2): objects and materials, natural and made materials, properties and fair tests. Next: Changing materials (Class 4) explains melting points, why solids and liquids behave as they do, and chemical reactions such as rusting and fizzing; Matter and particles (Class 4) shows what happens to the tiny particles; Gases, evaporation and solutions (Class 5) gets dissolved salt back.",
+ "summary": "Melted chocolate sets again, but a cooked egg never turns raw. Why can some changes be undone and others not? Your child squashes, melts, freezes, cooks and, with a grown-up, burns everyday materials. They sort each change as reversible (it can be undone) or irreversible (it cannot), and find that an irreversible change makes a new material. They watch a candle melt and burn at the same time. They find out that burnt wax does not vanish: it becomes gases in the air, which a tree can take in.",
+ "builds_on": "Materials (Classes 1 and 2): objects and materials, natural and made materials, properties and fair tests. Next: Changing materials (Class 4) explains melting points, why solids and liquids behave as they do, and chemical reactions such as rusting and fizzing. Matter and particles (Class 4) shows what happens to the tiny particles. Gases, evaporation and solutions (Class 5) gets dissolved salt back.",
  "subconcepts": [
   "changing shape: squash, bend, twist, stretch",
   "heating and cooling change materials",
@@ -20,7 +20,7 @@
   "a candle melts and burns at the same time",
   "browning of cut fruit and how to slow it",
   "mixing: some mixtures can be separated, some can't",
-  "nothing disappears; it changes form",
+  "nothing disappears: it changes into something else",
   "fire and heat safety",
   "fire needs fuel, air and heat (the fire triangle)"
  ],
@@ -47,7 +47,7 @@
   ],
   [
    "freeze",
-   "to turn from liquid to solid when cooled; for water this happens at 0 °C"
+   "to turn from liquid to solid when cooled. Water freezes at 0 °C"
   ],
   [
    "solidify",
@@ -67,7 +67,7 @@
   ],
   [
    "burn",
-   "when a material reacts with air and gives out heat and light"
+   "when a material joins with oxygen from the air and gives out heat and light"
   ],
   [
    "ash",
@@ -93,18 +93,18 @@
      "kind": "warmup",
      "title": "Who changes materials?",
      "mins": 6,
-     "do": "Ask: 'Last time we followed sand on its journey to become glass. What changed it?' (people melted it in a very hot furnace). 'And clay to brick?' (baked in a kiln). Say: 'This week YOU are the changer. We'll find out which changes can be undone and which can't.'"
+     "do": "Ask: 'Glass is made from sand, and bricks are made from clay. What do people do to change them?' (they heat them: sand is melted in a very hot furnace, and clay is baked in a kiln). Say: 'This week you will change materials yourself. We will find out which changes can be undone and which can't.'"
     },
     {
      "kind": "do",
      "title": "The dough lab",
      "mins": 15,
-     "do": "Do Activity a1. Give your child a ball of atta dough (or play dough). Ask them to change its shape four ways: SQUASH (press flat), ROLL (into a snake), TWIST (snake into a rope), BEND (into a ring), STRETCH (pull gently). After each, ask: 'Is it still dough? Can you make it back into a ball?' (yes). Then give a rubber band, a paper clip and a sheet of paper. Twist, bend, crumple. Ask: 'Which go back by themselves? Which stay changed? Which can you change back with your hands?' Good answers: the rubber band springs back; the paper clip stays bent but you can bend it back (a bit wobbly); crumpled paper can be flattened, but the creases stay.",
+     "do": "Do Activity a1. Give your child a ball of atta dough or play dough. Ask them to change its shape in five ways: squash it flat, roll it into a snake, twist the snake into a rope, bend it into a ring, and stretch it gently. After each, ask: 'Is it still dough? Can you make it into a ball again?' (yes). Then give a rubber band, a paper clip and a sheet of paper to stretch, bend and crumple. Ask: 'Which one goes back by itself? Which can you change back with your hands?' Good answers: the rubber band springs back. The clip stays bent, but you can bend it back. Crumpled paper can be flattened, but the creases stay.",
      "ref": "a1"
     },
     {
      "kind": "talk",
-     "title": "Changing shape is not changing stuff",
+     "title": "Changing shape does not make a new material",
      "mins": 8,
      "do": "Ask: 'When you made the dough into a snake, did it become a new material?' (no, still dough). Say: 'Changing shape doesn't change what something is made of.' Then ask: 'What would we have to do to the dough to change it into something new?' Let your child guess. (Cook it! You'll find out on Day 3.)"
     },
@@ -130,20 +130,20 @@
      "kind": "exp",
      "title": "The melting race",
      "mins": 18,
-     "do": "Do Experiment e1. Put an ice cube, a square of chocolate, a small cube of butter, a piece of jaggery and a crayon stub on separate small steel plates in the sun (or near a warm window). Your child predicts the order they'll melt. Check every 3 minutes and write what you see. Then hold one ice cube in your child's hand and one on the table: which melts first? (the hand: it is warmer).",
+     "do": "Do Experiment e1. Put an ice cube, a square of chocolate, a small cube of butter, a piece of jaggery and a crayon stub on five small steel plates, in the sun at a window. First, your child guesses the order they will melt in, and says why. Check every 3 minutes and say what you see. Then your child holds an ice cube in their hand while another sits on the table. Ask: 'Which melts first?' (the one in the hand, because the hand is warmer).",
      "ref": "e1"
     },
     {
      "kind": "do",
      "title": "Can we undo it?",
      "mins": 10,
-     "do": "Put the plate of melted chocolate and the melted ice-water into the fridge (chocolate) and the freezer (water in a small cup). Ask your child to predict: 'Will they go back?' Check after 20 minutes or at the end of the day: the chocolate is solid again (a new shape, the shape of the plate!), and the water is ice again. Say: 'Melting and freezing can be undone. They are reversible changes. The chocolate is still chocolate.'"
+     "do": "Put the melted chocolate in the fridge. Pour the melted ice-water into a small cup and put it in the freezer. Ask: 'Will they go back to solid? Why do you think so?' Check after 20 minutes, or at the end of the day. The chocolate is solid again, now in the shape of the plate, and the water is ice again. Say: 'Melting and freezing can be undone. They are reversible changes. The chocolate is still chocolate.'"
     },
     {
      "kind": "talk",
      "title": "Hot and cold all around",
      "mins": 7,
-     "do": "Ask: 'Where do we see melting at home?' (ghee melts in a hot pan, ice cream melts, a candle's top). 'Where do we see freezing or setting?' (ice in the freezer, kulfi, ghee going solid in winter, melted jaggery setting into chikki). Ask: 'What is the same about all the melting ones?' (heat). 'And all the setting ones?' (cooling)."
+     "do": "Ask: 'Where do we see melting at home?' (ghee melting in a hot pan, ice cream melting, the top of a candle). 'Where do we see a liquid turn solid?' (water in the freezer, coconut oil going white and solid on a cold morning, ghee setting in winter). Ask: 'What makes all the melting ones happen?' (heat). 'And the ones that turn solid?' (cooling)."
     }
    ],
    "need": [
@@ -163,26 +163,26 @@
      "kind": "exp",
      "title": "Egg and toast",
      "mins": 15,
-     "do": "Do Experiment e2 with a grown-up at the stove. Crack an egg into a bowl: look at the runny, see-through white. Then cook it in a pan: the white turns solid and opaque. Toast a slice of bread (or a roti on the tawa) and compare with an untoasted one: colour, smell, crunch. Ask: 'Can we turn the cooked egg back into a raw egg? The toast back into bread?' (no). Say: 'Cooking made new materials. That's an irreversible change.'",
+     "do": "Do Experiment e2 with a grown-up at the stove. Crack an egg into a bowl and look at the runny, see-through white. A grown-up cooks it in a pan: the white turns solid and white. Then a grown-up pours a ladle of dosa batter on the hot tawa (or toasts a slice of bread). Compare the dosa with the raw batter: colour, smell, feel. Ask: 'Can we turn the cooked egg back into a raw egg? The dosa back into batter?' (no). Say: 'Cooking made new materials. That is an irreversible change.'",
      "ref": "e2"
     },
     {
      "kind": "talk",
      "title": "Did cooking make us human?",
      "mins": 10,
-     "do": "Tell voice v3. Ask: 'What would we eat if nobody could cook? How long would it take to chew raw rice, raw dal, raw potato?' Then ask the voice's question. Let your child weigh both sides: cooked food is softer and gives more energy; but scientists argue about when people first learned to control fire.",
+     "do": "Tell voice v3. Ask: 'What would we eat if nobody could cook? How long would it take to chew raw rice, raw dal or raw potato?' Then ask the voice's question. Let your child weigh both sides: cooked food is softer and gives the body more energy, but scientists argue about when people first learned to control fire.",
      "ref": "v3"
     },
     {
      "kind": "act",
      "title": "Start the kitchen change diary",
      "mins": 10,
-     "do": "Begin the project. Give your child a small notebook titled 'Kitchen change diary'. Today they write or draw three changes they saw while food was being cooked (dough to roti, raw egg to cooked egg, rice to cooked rice) and mark each R (reversible) or I (irreversible). They will add more each day until Day 9."
+     "do": "Begin the project. Give your child a small notebook called 'Kitchen change diary'. Today they write or draw three changes they saw while food was cooked (batter to dosa, idli batter to soft idli, raw egg to cooked egg). They mark each one R (reversible) or I (irreversible). They will add more each day until Day 9."
     }
    ],
    "need": [
-    "2 eggs",
-    "bread or atta",
+    "an egg",
+    "dosa batter or a slice of bread",
     "a pan and stove (a grown-up operates it)",
     "a small notebook"
    ]
@@ -202,14 +202,14 @@
      "kind": "exp",
      "title": "Watch a candle closely",
      "mins": 15,
-     "do": "Do Experiment e3 with a grown-up. Light a candle on a steel plate. Your child watches from a safe distance and describes: the solid top melting into a little pool of liquid wax, the wax climbing the wick, the flame, the drips running down and going solid again. Then hold a cold, dry steel spoon briefly above (not in) the flame with a pair of tongs: look for a mist of water and a little black soot. Ask: 'Where did the water come from?' (the burning wax: burning makes new materials, including water vapour and an invisible gas called carbon dioxide).",
+     "do": "Do Experiment e3 with a grown-up. Light a candle on a steel plate. Your child watches from a safe distance and says what they see: the solid top melting into a little pool of liquid wax, the wax climbing the wick, the flame, and drips running down and going solid again. Then a grown-up holds a cold, dry steel spoon with tongs, about two fingers above the flame, for 2 seconds. Look at it at once: there is a mist of tiny water drops, and perhaps a little black soot. Ask: 'Where did the water come from?' (from the burning wax. Burning makes new materials, including water and an invisible gas called carbon dioxide).",
      "ref": "e3"
     },
     {
      "kind": "talk",
      "title": "Michael Faraday's candle",
      "mins": 8,
-     "do": "Tell voice v2 about Michael Faraday's candle lectures for children. Ask its question. Say: 'He thought a candle could teach you almost all of science. You just did a little of what he did.'",
+     "do": "Tell voice v2, about Michael Faraday's candle talks for children. Ask the voice's question. Say: 'Faraday thought a candle could teach you a great deal of science. You just did some of what he did.'",
      "ref": "v2"
     }
    ],
@@ -229,20 +229,20 @@
      "kind": "exp",
      "title": "A paper burns",
      "mins": 10,
-     "do": "With the grown-up doing the burning, outdoors or by an open window, burn a small strip of newspaper on a steel plate over a bucket of water. Your child watches: the paper blackens, curls, flames, smoke rises, and grey-black ash is left. Ask: 'Can we turn the ash back into paper?' (no). 'Is there less stuff on the plate than before?' (yes, much less). 'Where did the rest go?' (into the air as smoke and invisible gases)."
+     "do": "A grown-up does the burning, by an open window or on a balcony. Put a small strip of newspaper on a steel plate, with a bucket of water beside it, and light it. Your child watches: the paper blackens, curls and flames, smoke rises, and grey-black ash is left. Ask: 'Can we turn the ash back into paper?' (no). 'Is there less material on the plate than before?' (yes, much less). 'Where did the rest go?' (into the air, as smoke and invisible gases)."
     },
     {
      "kind": "talk",
-     "title": "The fire-stuff that wasn't there",
+     "title": "The fire-stuff that was never there",
      "mins": 12,
-     "do": "Tell voice v1, the phlogiston idea. Say that 300 years ago, scientists believed burning things gave out a fire-stuff called phlogiston. Then tell how Antoine Lavoisier and Marie-Anne Paulze Lavoisier weighed everything very carefully and found that some things get HEAVIER when they burn, because they join with part of the air. Ask the voice's question.",
+     "do": "Tell voice v1. Say: 'About 300 years ago, scientists thought that burning things gave out a fire-stuff called phlogiston.' Then tell how Antoine Lavoisier and Marie-Anne Paulze Lavoisier, a husband and wife who did science together in France, weighed everything carefully. They found that some metals get heavier when they burn, because they join with part of the air. Ask the voice's question.",
      "ref": "v1"
     },
     {
      "kind": "ws",
      "title": "Core worksheet",
      "mins": 13,
-     "do": "Do Worksheet ws1. Read each item aloud; for the written ones, your child speaks first and then writes (or you write their words).",
+     "do": "Do Worksheet ws1. Read each item aloud. For the written ones, your child speaks first and then writes (or you write their words).",
      "ref": "ws1"
     }
    ],
@@ -263,14 +263,14 @@
      "kind": "exp",
      "title": "Stop the apple going brown",
      "mins": 18,
-     "do": "Do Experiment e4. A grown-up cuts an apple (or banana or potato) into 5 equal slices. Your child treats each one differently: nothing; lemon juice brushed on; dipped in salt water; wrapped tightly in cling film or a sealed box; dipped in plain water. Put them side by side. Ask: 'What are we changing? What are we keeping the same?' (changing what's on the slice; keeping the fruit, the size and the time the same). Check after 30 minutes and at the end of the day. Explain: the cut surface reacts with the air and makes new brown stuff; lemon and covering slow it down.",
+     "do": "Do Experiment e4. A grown-up cuts an apple, banana or potato into 5 equal slices. Your child treats each one differently: nothing, lemon juice brushed on, dipped in salt water, wrapped tightly in cling film, or dipped in plain water. Put them side by side. Ask: 'What are we changing? What are we keeping the same?' (we change what is on the slice. We keep the fruit, the size and the time the same). Ask which slice will stay pale longest, and why. Check after 30 minutes and at the end of the day.",
      "ref": "e4"
     },
     {
      "kind": "do",
      "title": "Mix it, unmix it",
      "mins": 10,
-     "do": "Mix: dry rice and dal in a bowl (can you unmix it? yes, by picking); sand and water (unmix by letting it settle, or pouring through a cloth); salt and water (stir: where did the salt go? You can't see it, but taste one drop. It's still there. Say: 'In Class 5 you'll get the salt back.'); a cooked egg mixed into rice (can't unmix the egg back to raw). Ask: 'Is mixing always reversible?'"
+     "do": "Make four mixtures and ask each time: 'Can we unmix it?' Dry rice and dal: yes, by picking them apart. Sand and water: yes, let the sand settle, or pour it through a cloth. Salt stirred into water: the salt seems to vanish, but taste one drop and it is still there (say: 'In Class 5 you will get the salt back'). A cooked egg stirred into rice: you can pick the egg out, but it can never be raw again. Ask: 'Is mixing always reversible?'"
     },
     {
      "kind": "ws",
@@ -296,19 +296,19 @@
      "kind": "game",
      "title": "Melting tag",
      "mins": 8,
-     "do": "Play outdoors or in a big room. One player is the Sun. When the Sun tags you, you start to melt: slowly, over a count of ten, you droop from a stiff ice statue into a puddle on the floor. Another player can 'freeze' you back by holding both your hands and counting 'one, two, three, FREEZE!', and you spring up stiff again. Ask afterwards: 'Was melting reversible in our game? What would an irreversible tag look like?' (once tagged you turn into toast and can never go back!). Play one round with toast rules."
+     "do": "Push the furniture back to make space. One player is the Sun. When the Sun tags you, you melt slowly, over a count of ten, from a stiff ice statue into a puddle on the floor. Another player can freeze you back by holding both your hands and counting 'one, two, three, FREEZE!', and you spring up stiff again. Ask afterwards: 'Was melting reversible in our game? What would an irreversible tag be like?' (once tagged, you turn into a dosa and can never go back). Play one round with dosa rules."
     },
     {
      "kind": "act",
      "title": "Fire: the drama",
      "mins": 12,
-     "do": "Act out the fire triangle. Three family members hold hands in a triangle: FUEL (wood, wax, paper), AIR (oxygen) and HEAT (a spark). When all three hold hands, your child, in the middle, dances as a flame: flickering, leaping, crackling. When any one lets go, the flame shrinks and dies. Ask: 'How does a fire blanket or a lid on a burning kadhai put out a fire?' (it takes away the air). 'How does water put out a campfire?' (it takes away the heat). Then act a second scene, quietly: a forest after a fire. The child lies curled as a seed in the ash, then slowly grows. Say: 'Some trees in Indian forests sprout again from their roots after a fire, and ash feeds the soil. Fire destroys and also starts new things.'"
+     "do": "Act out the fire triangle. Three family members hold hands in a triangle: FUEL (wood, wax, paper), AIR (the oxygen in it) and HEAT (a spark). While all three hold hands, your child, in the middle, dances as a flame. When any one lets go, the flame shrinks and dies. Ask: 'How does putting a lid on a pan of burning oil put out the fire?' (it keeps the air out). 'How does water put out a wood fire?' (it takes away the heat). Then act a second scene, quietly: a forest after a fire. Your child lies curled in the ash, then slowly grows up again. Say: 'Many trees in India's dry forests can sprout again from their roots after a fire.'"
     },
     {
      "kind": "do",
      "title": "Sun-melted crayon art",
      "mins": 15,
-     "do": "Do Activity a2. Your child scrapes small shavings of old wax crayons (use a blunt butter knife or a pencil sharpener) onto a sheet of butter paper, in a pattern or just scattered colours, and folds the paper over them. Put it in strong sunlight on a steel plate for 15 to 20 minutes, or a grown-up presses it with a warm (not hot) iron for a few seconds through a cloth. The wax melts and spreads, then sets again as it cools, making a stained-glass picture. Hold it up to the window. Ask: 'Did the crayon become a new material, or is it still wax?' (still wax: melting and setting are reversible, though the colours have mixed and can't easily be separated).",
+     "do": "Do Activity a2. Your child scrapes small shavings of old wax crayons onto a sheet of butter paper, with a blunt butter knife or a pencil sharpener, and folds the paper over them. Put it on a steel plate in strong sunlight for 15 to 20 minutes, or a grown-up presses it with a warm (not hot) iron for a few seconds through a cloth. The wax melts and spreads, then sets again as it cools, making a coloured window picture. Ask: 'Did the crayon become a new material, or is it still wax?' (still wax. Melting and setting are reversible, though the colours have mixed and can't easily be separated).",
      "ref": "a2"
     }
    ],
@@ -326,14 +326,14 @@
      "kind": "game",
      "title": "Can You Undo It? card game",
      "mins": 15,
-     "do": "Play the card game g1. Each card names a change; players sort it into REVERSIBLE or IRREVERSIBLE and must give a reason. The 'Argue it!' cards are tricky ones: let your child argue either side and then check the back.",
+     "do": "Play the card game g1. Each card names a change. Players sort it into REVERSIBLE or IRREVERSIBLE and must give a reason. The 'Argue it!' cards are tricky ones: let your child argue either side and then check the back.",
      "ref": "g1"
     },
     {
      "kind": "review",
      "title": "Check the fruit",
      "mins": 7,
-     "do": "Look at the five fruit slices from Experiment e4. Line them up from least brown to most brown. Ask: 'Which treatment worked best? Why might lemon and cling film both work?' (lemon juice slows the reaction; cling film keeps air away). Write the result in the diary."
+     "do": "Look at the five fruit slices from Experiment e4. Line them up from least brown to most brown. Ask: 'Which treatment worked best? Why might lemon and cling film both work?' (lemon juice slows the change, and cling film keeps the air away). Write the result in the diary."
     },
     {
      "kind": "ws",
@@ -365,7 +365,7 @@
      "kind": "ws",
      "title": "Challenge worksheet",
      "mins": 10,
-     "do": "Do Worksheet ws3 together. The last questions are big; there is no single right answer, but ask for reasons.",
+     "do": "Do Worksheet ws3 together. The last questions have no single right answer, so ask for reasons.",
      "ref": "ws3"
     },
     {
@@ -503,7 +503,7 @@
         "ghee melting in a pan",
         "water becoming ice",
         "dough rolled into a roti",
-        "roti puffing on the tawa",
+        "dosa cooking on the tawa",
         "kulfi setting",
         "clay squashed into a pot"
        ],
@@ -529,7 +529,7 @@
       },
       {
        "t": "mcq",
-       "p": "A candle's melted wax drip going hard again is…",
+       "p": "A drip of melted candle wax going hard again is…",
        "opts": [
         "reversible",
         "irreversible"
@@ -616,11 +616,11 @@
       },
       {
        "t": "mcq",
-       "p": "Long ago, people thought burning gave out a fire-stuff called…",
+       "p": "About 300 years ago, scientists thought burning gave out a fire-stuff. What did they call it?",
        "opts": [
         "phlogiston",
-        "chocolate",
-        "kevlar"
+        "oxygen",
+        "steam"
        ],
        "a": 0
       },
@@ -690,12 +690,12 @@
       },
       {
        "t": "write",
-       "p": "If burnt wax goes into the air, and trees take in that air, could part of a candle end up in a mango? Explain.",
+       "p": "Burnt wax becomes a gas in the air, and trees take in that gas to build leaves. Could part of a candle end up in a mango? Explain.",
        "lines": 3
       },
       {
        "t": "write",
-       "p": "The phlogiston idea was wrong, but clever people believed it for many years. Why do you think that was? How did careful weighing help?",
+       "p": "The phlogiston idea was wrong, but clever people believed it for many years. Why do you think that was? How did careful weighing show it was wrong?",
        "lines": 3
       }
      ]
@@ -723,12 +723,12 @@
     "Put each material on its own plate, all the same size if you can.",
     "Put the plates side by side in the sun.",
     "Check every 3 minutes for 15 minutes and write what you see.",
-    "Hold a second ice cube in your hand; compare with one on the table.",
+    "Hold a second ice cube in your hand and compare it with one on the table.",
     "Put the melted chocolate in the fridge and some melted ice-water in the freezer, and check later."
    ],
    "predict": "Ask your child to put the five in order: which will melt first, and which won't melt at all?",
-   "observe": "Ice and butter melt fast; chocolate soon after; jaggery goes soft and sticky; the crayon hardly changes in sunlight. In the fridge, the chocolate sets again in a new shape; in the freezer, the water becomes ice again.",
-   "why": "Every solid melts when it gets hot enough, but different materials need different amounts of heat (in Class 4 your child will learn the word melting point). Ice melts at 0 °C, so even a cool room melts it; butter and chocolate melt a little above body temperature; crayon wax needs more heat. Cooling turns the liquids solid again: melting and freezing are reversible.",
+   "observe": "Ice and butter melt first, then the chocolate. Jaggery only goes soft and sticky. The crayon may soften a little in hot sun, but it does not melt. In the fridge the chocolate sets again in a new shape, and in the freezer the water turns to ice again.",
+   "why": "Every solid melts when it gets hot enough, but each material needs a different amount of heat. Ice melts at 0 °C, so even a cool room melts it. Butter and chocolate melt a little below the temperature of your body, which is why chocolate melts in your hand. Crayon wax needs much more heat. Cooling turns the liquids solid again, so melting and freezing are reversible. In Class 4 your child will learn the term melting point.",
    "safety": "Don't eat the materials that have been on the plates outdoors.",
    "time": "20 min + check later"
   },
@@ -739,19 +739,19 @@
    "question": "Can cooking be undone?",
    "need": [
     "an egg",
-    "a slice of bread or a small roti",
+    "a ladle of dosa batter, or a slice of bread",
     "a pan or tawa and a stove",
     "a grown-up"
    ],
    "steps": [
     "Crack the egg into a bowl. Look at the white: runny and see-through.",
-    "A grown-up cooks it in the pan. Watch the white change.",
-    "Toast the bread or roti. Compare with an untoasted one: colour, smell, feel, sound when you break it.",
+    "A grown-up cooks the egg in the pan. Watch the white change.",
+    "A grown-up cooks a dosa on the tawa, or toasts the bread. Compare it with raw batter or untoasted bread: colour, smell, feel, and the sound when you break it.",
     "Try to turn either back."
    ],
    "predict": "Ask: 'What will the egg white look like when it's cooked? Can we make it raw again?'",
-   "observe": "The egg white turns from clear and runny to white and solid. The bread turns brown and crisp and smells different.",
-   "why": "Heat changes the materials in the egg and bread into new materials. In egg white, long, folded molecules called proteins unfold and tangle together, so the white sets solid and stops being see-through. In toast, sugars and proteins on the surface react to make brown, tasty new substances. These are irreversible changes: cooling them doesn't undo them.",
+   "observe": "The egg white turns from clear and runny to white and solid. The runny batter becomes a crisp, brown dosa that smells different.",
+   "why": "Heat changes the materials in the egg and the batter into new materials. In egg white, long folded molecules called proteins unfold and tangle together, so the white sets solid and stops being see-through. On a dosa or toast, sugars and proteins on the surface react and make brown, tasty new substances. These are irreversible changes: cooling does not undo them.",
    "safety": "A grown-up handles the stove and hot pan. Children watch from a safe distance.",
    "time": "15 min"
   },
@@ -772,12 +772,12 @@
     "Watch the top: a small pool of liquid wax forms.",
     "Watch the wick: the liquid wax climbs it.",
     "Watch drips run down the side and go solid.",
-    "A grown-up holds the cold spoon in tongs just above the flame for 2 seconds. Look at it.",
+    "A grown-up holds the cold spoon in tongs, about two fingers above the flame, for 2 seconds. Look at it at once.",
     "Blow the candle out gently and watch the white smoke."
    ],
    "predict": "Ask: 'Will the candle get shorter? Where will the wax go?'",
-   "observe": "Solid wax melts into a pool, climbs the wick and burns. Drips set hard again. A mist of water and a little black soot appear on the cold spoon. The candle gets shorter.",
-   "why": "Heat from the flame melts the wax (reversible). The liquid wax climbs the wick and turns into a gas, which burns with oxygen from the air (irreversible). Burning wax makes new materials: carbon dioxide and water vapour, both invisible gases, plus a little soot (black carbon) when burning isn't complete. The water vapour turns to mist on the cold spoon. The wax isn't destroyed; it has become part of the air.",
+   "observe": "Solid wax melts into a pool, climbs the wick and burns. Drips set hard again. A mist of water appears for a moment on the cold spoon, and perhaps a little black soot. The candle gets shorter.",
+   "why": "Heat from the flame melts the wax (reversible). The liquid wax climbs the wick and turns into a gas, which burns with oxygen from the air (irreversible). Burning wax makes new materials: carbon dioxide and water vapour, both invisible gases, plus a little soot (black carbon) when burning isn't complete. The water vapour turns to mist on the cold spoon. The wax isn't destroyed. It has become part of the air.",
    "safety": "A grown-up lights and handles the candle. Tie back long hair, keep sleeves away, never leave a candle alone, and keep water nearby.",
    "time": "15 min"
   },
@@ -796,14 +796,14 @@
    ],
    "steps": [
     "A grown-up cuts 5 equal slices.",
-    "Slice 1: nothing. Slice 2: brush with lemon juice. Slice 3: dip in salt water. Slice 4: wrap tightly in cling film. Slice 5: dip in plain water.",
+    "Slice 1: nothing. Slice 2: brush with lemon juice. Slice 3: dip in salt water. Slice 4: wrap tightly in cling film or close in a box. Slice 5: dip in plain water.",
     "Label the plates and put them side by side.",
     "Check after 30 minutes and at the end of the day.",
     "Line them up from least to most brown."
    ],
    "predict": "Ask your child which slice will stay freshest and which will go brownest.",
-   "observe": "The untreated slice browns most. Lemon and cling film usually keep the slices pale longest; salt water helps a little; plain water helps briefly.",
-   "why": "Cutting breaks open the fruit's cells. Chemicals inside meet oxygen from the air and, helped by a substance in the fruit called an enzyme, make new brown materials. This is an irreversible change. Lemon juice is acidic and contains vitamin C, which slow the reaction; cling film keeps the air away. Keeping the fruit, the slice size and the time the same makes it a fair test.",
+   "observe": "The untreated slice browns most. Lemon and cling film usually keep the slices pale longest. Salt water helps a little. Plain water helps briefly.",
+   "why": "Cutting breaks open the fruit's cells. Chemicals inside meet oxygen from the air and, helped by a substance in the fruit called an enzyme, make new brown materials. This is an irreversible change. Lemon juice is acidic and contains vitamin C, which slow the reaction. Cling film keeps the air away. Keeping the fruit, the slice size and the time the same makes it a fair test.",
    "safety": "A grown-up does the cutting.",
    "time": "18 min + checks"
   }
@@ -875,7 +875,7 @@
    "Put the REVERSIBLE and IRREVERSIBLE sheets in the middle.",
    "On your turn, pick a card, read it aloud, put it on one sheet and give a reason.",
    "Turn it over to check. A right answer with a reason wins the card.",
-   "If you pick an 'Argue it!' card, everyone says which sheet it belongs on and why; the best reason wins the card, then check the back together.",
+   "If you pick an 'Argue it!' card, everyone says which sheet it belongs on and why. The best reason wins the card, then check the back together.",
    "The player with the most cards at the end wins."
   ],
   "cards": [
@@ -1000,12 +1000,12 @@
  ],
  "perspectives": [
   {
-   "who": "A halwai (sweet-maker)",
-   "view": "A halwai knows exactly when melted sugar, milk and ghee will set, crack, or burn, by colour, smell and sound, without a thermometer. Ask: is that science? Where did the halwai learn it?"
+   "who": "A cook making Mysore pak in Mysuru",
+   "view": "She knows exactly when the sugar syrup, besan and ghee are ready to set, by colour, smell and feel, without a thermometer. If she waits too long, the mixture burns. Ask: is that science? Where did she learn it?"
   },
   {
    "who": "A forest",
-   "view": "Some forests, like many in central India, have burned in dry seasons for thousands of years, and some plants even sprout better after a fire. But too many fires, too often, destroy them. Ask: what does a forest need: no fire, some fire, or the right fire?"
+   "view": "Dry forests in India, such as Bandipur in Karnataka and Mudumalai in Tamil Nadu, often catch fire in the dry season. Many of their trees can sprout again after a fire. But fires that come too often destroy a forest. Ask: what does a forest need: no fire, some fire, or the right fire?"
   },
   {
    "who": "A tree near a candle",
@@ -1016,8 +1016,8 @@
   {
    "id": "v1",
    "who": "The phlogiston theory (Georg Ernst Stahl and others, early 1700s), and Antoine Lavoisier (1743–1794) and Marie-Anne Paulze Lavoisier (1758–1836), France",
-   "idea": "Phlogiston theory said that things which burn contain a fire-stuff, phlogiston, which escapes into the air as they burn; ash was what was left after the phlogiston had gone.",
-   "then": "Most chemists accepted it for most of the 1700s; it explained many things. But some metals got heavier when heated in air, which was hard to explain if something was escaping.",
+   "idea": "Phlogiston theory said that things which burn contain a fire-stuff, phlogiston, which escapes into the air as they burn. Ash was what was left after the phlogiston had gone.",
+   "then": "Most chemists accepted it for most of the 1700s. It explained many things. But some metals got heavier when heated in air, which was hard to explain if something was escaping.",
    "now": "Lavoisier weighed everything, including the air, and showed that burning is a material combining with part of the air, which he named oxygen. Marie-Anne worked beside him: she translated English chemistry papers for him, drew the detailed plates for his great book, and kept the laboratory records. Phlogiston theory was abandoned.",
    "status": "rejected",
    "ask": "Phlogiston was wrong, but it helped people ask good questions. What clue showed it was wrong? Why do you think Marie-Anne's name is less famous than Antoine's?",
@@ -1037,7 +1037,7 @@
    "id": "v3",
    "who": "Richard Wrangham (born 1948), Harvard University, USA, and his critics",
    "idea": "In his book Catching Fire: How Cooking Made Us Human (2009), Wrangham argued that our ancestors began cooking very early, perhaps nearly two million years ago, and that cooked food, being softer and giving more energy, helped human bodies change: smaller teeth and guts, bigger brains.",
-   "then": "Many scientists found the idea exciting. Others pointed out that clear evidence of controlled fire that old is rare; most strong evidence of regular fire use is much younger.",
+   "then": "Many scientists found the idea exciting. Others pointed out that clear evidence of controlled fire that old is rare. Most strong evidence of regular fire use is much younger.",
    "now": "Scientists agree cooking makes food easier to digest and gives more energy. They still argue about when cooking began and how much it changed our bodies.",
    "status": "debated",
    "ask": "What evidence would you need to find to show that people cooked nearly two million years ago? Where would you look?",
@@ -1050,7 +1050,7 @@
    "I am a candle. Plain white, as long as a pencil, bought for five rupees from the shop at the end of the lane in Kanpur. For months I lay in a kitchen drawer with a box of matches and a broken torch, waiting.",
    "One evening in May, the fan stopped. The tube light flickered and went dark. Outside, every window in the colony went black at once, and all along the street people groaned together, 'Light gone!'",
    "A hand found me in the drawer. A match scraped and flared, and then I felt it: the warm kiss at the top of my head. I was lit.",
-   "The hand belonged to a girl called Noor. She was eight, and she had an exam the next morning, and she was not happy about the dark. Her mother stood me on a steel plate on the floor, with a drop of my own wax to hold me straight, and the family sat around me: Noor, her mother, her little brother Faiz, and her Abbu, who had just come home from the factory and smelled of oil and hot metal.",
+   "The hand belonged to a girl called Noor. She was eight, she had an exam the next morning, and she was not happy about the dark. Her mother stood me on a steel plate on the floor, with a drop of my own wax to hold me straight. Her mother had just come home from the factory, and she smelled of oil and hot metal. The family sat around me: Noor, her mother, her Abbu and her little brother Faiz.",
    "Noor tried to read her book in my light. But after a while she stopped reading and watched me instead.",
    "'Ammi,' she said, 'the top of the candle is turning to water.'",
    "It was. Just below my flame, my solid wax was melting into a small clear pool. I felt it soften and spread, warm and liquid. The pool crept up my wick, the way water climbs a towel, and at the top it vanished into the flame.",
@@ -1063,20 +1063,20 @@
    "The next afternoon, after the exam, Noor came back to me. She had the ball of drips. Her mother helped her: they put the drips in a small steel bowl and set it in a pan of hot water until the wax melted, and they poured it into a little clay cup with a string for a wick. When it set, Noor had a new candle.",
    "But it was tiny. It was far smaller than the part of me that had been lost.",
    "Noor put the new little candle next to my stub, and she frowned. She took a ruler and measured both of us. She added them up. She measured where I used to be on the table edge, by the mark of my old wax.",
-   "'Abbu,' she said, 'where's the rest of the candle?'",
-   "Her Abbu was drinking his tea. He thought for a long time. Then he said, 'It burned.'",
+   "'Ammi,' she said, 'where's the rest of the candle?'",
+   "Her mother was drinking her tea. She thought for a long time. Then she said, 'It burned.'",
    "'But where did it go? Things can't go nowhere.'",
-   "He put down his glass. 'At the factory,' he said slowly, 'when we burn coal in the furnace, a mountain of coal goes in, and only a little ash comes out. The rest goes up the chimney. You can't see most of it. It goes into the air.'",
+   "She put down her glass. 'At the factory,' he said slowly, 'when we burn coal in the furnace, a mountain of coal goes in, and only a little ash comes out. The rest goes up the chimney. You can't see most of it. It goes into the air.'",
    "Noor looked at the window. Then she looked at the neem tree outside it, its leaves moving in the hot afternoon.",
    "I could have told her, if candles could speak. I could have told her that the wax she could not find had not been destroyed. In the flame it had joined with the air and become something new: invisible gas and invisible water, floating out of the window into the warm night over Kanpur. It could never come back to be a candle. But it was not gone.",
    "Some of it, even now, was drifting in and out of her own breath. And some of it, that very morning, had been drawn into the leaves of the neem, which were quietly building it into a new green leaf.",
    "Noor did not know this yet. But she stood at the window for a long time, breathing in, breathing out, looking at the tree."
   ],
-  "epiphany": "A candle changes in two ways. Melting is reversible: the drips set and can be remade into a candle. Burning is irreversible: the burned wax joins with the air to make new materials (carbon dioxide and water vapour) that drift away and can't become a candle again. The turn is Noor measuring and finding most of the candle 'missing', and Abbu's furnace: things don't vanish, they change form. Underneath: matter cycles from candle to air to tree to us (oneness).",
+  "epiphany": "A candle changes in two ways. Melting is reversible: the drips set and can be made into a candle again. Burning is irreversible: the burned wax joins with the air to make new materials (carbon dioxide and water vapour) that drift away and can't become a candle again. The turn is Noor measuring and finding most of the candle missing, and Ammi's furnace story: things don't vanish, they change into something else. A tree can then take in that gas and build leaves from it.",
   "ask": [
    "Which part of the candle could Noor get back? How?",
    "Why was her new candle so small?",
-   "Where did Abbu say the burnt coal goes?",
+   "Where did Ammi say the burnt coal goes?",
    "Was the candle destroyed? Where is it now?",
    "Why do you think Noor stood at the window breathing in and out?"
   ]
@@ -1088,11 +1088,11 @@
   },
   {
    "idea": "Nothing ever truly disappears. It changes form.",
-   "more": "Burnt wax becomes gases in the air; ash is what's left over. Lavoisier proved by weighing that the total amount of stuff stays the same. Your breath may hold atoms that were once in a candle, a tree or a dinosaur."
+   "more": "Burnt wax becomes gases in the air, and ash is what is left over. Lavoisier showed by weighing that the total amount of material stays the same. A tree can take in the gas from a candle and build it into a leaf."
   },
   {
    "idea": "Every kitchen is a chemistry laboratory.",
-   "more": "Roti puffing, egg setting, toast browning, ghee melting, fruit going brown: cooks have been doing chemistry for hundreds of thousands of years, long before anyone called it chemistry."
+   "more": "A dosa crisping, an egg setting, toast browning, ghee melting, fruit going brown: cooks have done chemistry for a very long time, long before anyone called it chemistry."
   }
  ],
  "unknowns": [
@@ -1126,7 +1126,7 @@
  "check": [
   {
    "q": "Name four ways to change the shape of dough. Is it still dough?",
-   "a": "Squash, roll, twist, bend, stretch. Yes, it's still dough; changing shape doesn't make a new material."
+   "a": "Squash, roll, twist, bend, stretch. Yes, it's still dough. Changing shape doesn't make a new material."
   },
   {
    "q": "What happens to chocolate when you heat it and then cool it?",
@@ -1146,14 +1146,14 @@
   },
   {
    "q": "What did Lavoisier find out by weighing?",
-   "a": "Burning is a material joining with part of the air (oxygen); nothing is destroyed, and some things even get heavier."
+   "a": "Burning is a material joining with part of the air (oxygen). Nothing is destroyed, and some things even get heavier."
   },
   {
    "q": "In the fruit test, what did we change and what did we keep the same?",
-   "a": "We changed what we put on the slice; we kept the fruit, size of slice and time the same."
+   "a": "We changed what we put on the slice. We kept the fruit, size of slice and time the same."
   },
   {
-   "q": "What three things does a fire need? How does a lid put out a burning kadhai?",
+   "q": "What three things does a fire need? How does a lid put out a pan of burning oil?",
    "a": "Fuel, air (oxygen) and heat. A lid cuts off the air."
   }
  ]

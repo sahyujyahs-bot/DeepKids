@@ -1077,25 +1077,25 @@
     },
     {
      "t": "perspective",
-     "p": "Kayal, her brother Arun and their grandmother are arguing about opening a door.",
+     "p": "Kayal, her brother Arun and their grandmother are arguing about turning a tap on.",
      "views": [
       {
        "who": "Kayal, a girl in Class 3",
-       "says": "Opening a door is a pull. I pull the handle towards me."
+       "says": "Turning a tap is a push. My fingers press on the side of the handle."
       },
       {
        "who": "Arun, her brother",
-       "says": "No, opening a door is a push. I push it away from me."
+       "says": "No, it is a pull. My fingers hook round the handle and pull it towards me."
       },
       {
        "who": "Their grandmother",
-       "says": "It depends on which side of the door you are standing."
+       "says": "A turn is not a push or a pull. It is a twist, a different kind of thing."
       }
      ],
-     "ask": "Who do you agree with most? Use what you found in your push and pull hunt. Then say what one of the others would answer back.",
+     "ask": "Who do you agree with most? Try it on a real tap or a bottle lid from your push and pull hunt. Then say what one of the others would answer back.",
      "lines": 5,
-     "a": "The grandmother has the key idea: a force is named by its direction. On one side of the door, you pull it towards you. On the other side, you push it away. So Kayal and Arun are each right about their own side.",
-     "why": "A strong answer uses a real door from the hunt, and says that the direction of the force decides whether it is a push or a pull.",
+     "a": "Each has a real point. Where the fingers press on one side of the handle, that is a push. Where they hook round and drag the other side, that is a pull. The grandmother is right that a twist is special: it turns the handle round instead of moving it along. A strong answer notices that a twist is often a push on one side and a pull on the other, at the same time.",
+     "why": "A strong answer uses a real tap or lid, says which part of the hand pushes and which pulls, and gives fair credit to another view. There is no single right answer.",
      "how": "a1"
     },
     {
@@ -1353,15 +1353,15 @@
    "items": [
     {
      "t": "mcq",
-     "p": "When you jump, the Earth pulls you down. What does your pull do to the Earth?",
+     "p": "Nandini, who weighs 30 kg, stands on roller skates facing her big brother, who weighs 60 kg and is also on skates. She gives him a hard push. What happens?",
      "opts": [
-      "Nothing, people can't pull planets",
-      "It pulls the Earth up towards you, just as hard, but the Earth is so huge it barely moves",
-      "It pushes the Earth away",
-      "It makes the Earth spin faster"
+      "Both roll apart, and Nandini rolls away faster, because she is lighter",
+      "Only her brother moves, because she did the pushing",
+      "Both roll apart at the same speed",
+      "Nobody moves, because the pushes cancel"
      ],
-     "a": 1,
-     "why": "Gravity comes in pairs. You pull the Earth up as hard as it pulls you down. The Earth is enormous, so it moves far too little to notice. Picking 'nothing' is what nearly everyone guesses."
+     "a": 0,
+     "why": "Her push on him comes with his push back on her, just as hard. The same push speeds up a lighter person more, so Nandini rolls back about twice as fast as her brother. Picking 'only her brother' forgets the push back. Picking 'the pushes cancel' forgets that the two pushes act on different people, so they can't cancel."
     },
     {
      "t": "mcq",
@@ -1484,26 +1484,40 @@
     },
     {
      "t": "forces",
-     "p": "A ping-pong ball is blown from the left and from below at the same time, equally hard. Which two pushes act on it, and which way does each point?",
-     "obj": "a ball blown from the left and from below",
+     "p": "A balloon car is speeding up to the right across the floor. Show the forces on the car with arrows, and make each arrow the right size.",
+     "obj": "a balloon car speeding up to the right",
      "options": [
-      "push from the left blow",
-      "push from the blow below",
-      "magnet pull",
-      "rope pull"
+      "push of the air rushing out",
+      "friction",
+      "gravity",
+      "floor pushes up",
+      "engine",
+      "magnet pull"
      ],
      "a": [
       {
-       "name": "push from the left blow",
-       "dir": "right"
+       "name": "push of the air rushing out",
+       "dir": "right",
+       "size": "big"
       },
       {
-       "name": "push from the blow below",
-       "dir": "up"
+       "name": "friction",
+       "dir": "left",
+       "size": "small"
+      },
+      {
+       "name": "gravity",
+       "dir": "down",
+       "size": "equal"
+      },
+      {
+       "name": "floor pushes up",
+       "dir": "up",
+       "size": "equal"
       }
      ],
-     "why": "A blow from the left pushes the ball right. A blow from below pushes it up. Together the ball goes slantwise, up and to the right.",
-     "how": "e3"
+     "why": "The air rushing out of the balloon pushes the car to the right. Friction and the air slow it, so they point left. The car is speeding up, so the push forward is bigger than the friction. Gravity pulls down and the floor pushes up just as hard, so the car does not sink or jump. There is no engine and no magnet.",
+     "how": "p1"
     },
     {
      "t": "write",

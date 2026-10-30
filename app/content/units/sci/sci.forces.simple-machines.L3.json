@@ -1654,16 +1654,13 @@
      "why": "A strong answer separates using an idea, inventing it and explaining it, and gives a reason for where the credit should go."
     },
     {
-     "t": "order",
-     "p": "Put these from the smallest push needed to the biggest, to raise the same load 1 metre: lifting it straight up, a 2 metre ramp, a 4 metre ramp, a 3 metre ramp.",
-     "items": [
-      "a 4 metre ramp",
-      "a 3 metre ramp",
-      "a 2 metre ramp",
-      "lifting it straight up"
+     "t": "fill",
+     "p": "Thangam lifts a bucket that pulls down with 20 newtons, using two pulleys. Now she needs only 10 newtons of pull. To raise the bucket 1 metre, she must pull ____ metres of rope.",
+     "a": [
+      "2",
+      "two"
      ],
-     "a": "order shown",
-     "why": "The longer the ramp to the same height, the smaller the push. Lifting straight up needs the biggest push."
+     "why": "Half the pull means twice the distance. 20 newtons for 1 metre is the same as 10 newtons for 2 metres. Pulleys, like every machine, never give something for nothing. Picking half a metre means the trade was thought to go both ways at once."
     },
     {
      "t": "mcq",
@@ -1732,10 +1729,10 @@
     },
     {
      "t": "write",
-     "p": "A see-saw is level. A 30 kg child sits on one side, and a 15 kg child sits on the other. Where could each one be sitting? Give one answer and explain it.",
+     "p": "Lavanya wants to crack a hard walnut with a nutcracker. Should she put the nut close to the hinge, or near the tips of the handles? Explain using fulcrum, load and effort.",
      "lines": 3,
-     "a": "The 15 kg child sits twice as far from the middle as the 30 kg child. For example, the 30 kg child sits 1 metre from the middle and the 15 kg child sits 2 metres away. 30 times 1 is 30, and 15 times 2 is 30.",
-     "why": "Any answer where the lighter child is twice as far out is right. A good answer shows that weight times distance is the same on both sides."
+     "a": "Close to the hinge. The hinge is the fulcrum, the nut is the load, and her hand at the end of the handles is the effort. With the nut near the fulcrum and her hand far away, a small squeeze becomes a big crush on the nut. Near the tips, her hand and the nut would be almost the same distance from the hinge, so there is no gain.",
+     "why": "A strong answer names the three parts, and uses the lever rule: the further the effort is from the fulcrum compared with the load, the smaller the push needed."
     },
     {
      "t": "draw",
@@ -3323,14 +3320,14 @@
   },
   {
    "t": "mcq",
-   "p": "2 coins sit 6 cm from the pencil on a ruler see-saw. How far away must 1 coin sit, on the other side, to balance them?",
+   "p": "1 coin sits 8 cm from the pencil on a ruler see-saw. How far away must 4 coins sit, on the other side, to balance it?",
    "opts": [
-    "12 cm",
-    "6 cm",
-    "3 cm"
+    "2 cm",
+    "8 cm",
+    "32 cm"
    ],
    "a": 0,
-   "why": "2 times 6 is 12, and 1 times 12 is 12. Picking 6 cm matches the place but forgets the weight. Picking 3 cm halves the distance instead of doubling it.",
+   "why": "1 times 8 is 8, and 4 times 2 is 8. The heavier side sits closer in. Picking 8 cm matches the place but forgets the weight. Picking 32 cm moves the heavy side further out instead of closer in.",
    "context": "A ruler laid across a round pencil makes a small see-saw. Coins are the weights.",
    "how": "e1",
    "outcome": 2
@@ -3437,27 +3434,26 @@
   },
   {
    "t": "mcq",
-   "p": "Someone is selling a wheel that will turn for ever with no push. What should you think?",
+   "p": "Tara lifts a rock with a long crowbar. Her push is only one tenth as big as the rock's weight. The rock rises 1 cm. How far does her hand move down?",
    "opts": [
-    "It cannot work, because energy cannot come from nothing",
-    "It will work if it is built carefully",
-    "It will work if it is big enough"
+    "About 10 cm",
+    "About 1 cm",
+    "About one tenth of a centimetre"
    ],
    "a": 0,
-   "why": "People have tried to build such wheels since at least 1150, and every one has failed. A machine can only pass on the energy you put in.",
+   "why": "A machine trades push for distance. One tenth of the push means about ten times the distance, so her hand moves about 10 cm. Picking 1 cm means she was thought to get a smaller push for free.",
    "outcome": 6
   },
   {
    "t": "mcq",
-   "p": "On a see-saw, the heavy person sits close to the middle. What does this tell us about the shared balance point of the Earth and the Moon?",
+   "p": "A long spanner and a short spanner turn the same tight nut. Which needs the smaller push, and what is the catch?",
    "opts": [
-    "It is much closer to the Earth, and is inside the Earth",
-    "It is exactly halfway between them",
-    "It is inside the Moon"
+    "The long one, but your hand must go round a bigger circle",
+    "The short one, with no catch",
+    "The long one, with no catch"
    ],
    "a": 0,
-   "why": "The Earth is about 81 times heavier than the Moon, so the balance point is close to the Earth, about 1,700 km under its surface. Picking 'halfway' forgets that the heavier one sits closer to the balance point.",
-   "how": "a5",
+   "why": "The long handle puts your push further from the nut, so a smaller push gives the same twist. But your hand travels round a much bigger circle for each turn. Picking 'no catch' means the spanner was thought to give something for nothing.",
    "outcome": 6
   },
   {

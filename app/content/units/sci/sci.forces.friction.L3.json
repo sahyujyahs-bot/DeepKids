@@ -956,15 +956,15 @@
     },
     {
      "t": "mcq",
-     "p": "Which way does friction push?",
+     "p": "A book lies still on a flat table. Nobody is pushing it. Is friction acting on the book?",
      "opts": [
-      "The same way the thing is moving",
-      "Against the sliding",
-      "Always downwards, like gravity",
-      "Nowhere, because friction is not a push or a pull"
+      "No, because nothing is trying to make it slide",
+      "Yes, a big friction holds it down",
+      "Yes, friction always pulls things downwards",
+      "Yes, but only at night"
      ],
-     "a": 1,
-     "why": "Friction pushes against sliding. So it slows moving things down, or stops still things from starting to slide. Picking 'the same way' often means friction is seen as a helper that carries things along. Picking 'downwards' usually mixes friction up with gravity."
+     "a": 0,
+     "why": "Friction only appears when something tries to make a surface slide. Push the book gently, and friction pushes back just as hard, so it stays still. Stop pushing, and the friction goes too. Picking 'holds it down' mixes friction up with gravity. Gravity holds the book down. Friction only works along the surface."
     },
     {
      "t": "fill",
@@ -1003,7 +1003,7 @@
        "More friction"
       ],
       [
-       "a squeaky door hinge",
+       "a sliding drawer",
        "Less friction"
       ]
      ],
@@ -1106,10 +1106,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw a shoe resting on a slope. Draw one arrow for the way the shoe would slide. Draw another arrow for friction.",
-     "a": "The slide arrow points down the slope. The friction arrow points up the slope, along the surface.",
-     "why": "Friction acts along the surface, against the way the shoe would slide.",
-     "art": "A blank slope with a shoe on it."
+     "p": "Draw your two hands rubbing together, the right hand moving up and the left hand moving down. Draw an arrow for the friction on each hand.",
+     "a": "On the right hand, the friction arrow points down. On the left hand, it points up. Each arrow points against the way that hand is moving.",
+     "why": "Friction acts on both surfaces that touch. On each one, it works against that surface's own sliding."
     },
     {
      "t": "write",
@@ -1256,7 +1255,7 @@
        "Makes friction less"
       ],
       [
-       "sprinkling sand on a slippery path",
+       "putting a rubber mat under a mixie",
        "Makes friction more"
       ],
       [
@@ -1277,7 +1276,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Wheels, oil and wax help things move easily. Sand, rubber and chalk help things grip."
+     "why": "Wheels, oil and wax help things move easily. A rubber mat, rubber soles and chalk help things grip."
     },
     {
      "t": "mcq",
@@ -1466,9 +1465,11 @@
     },
     {
      "t": "truefalse",
-     "p": "Scientists completely understand why ice is slippery.",
+     "p": "In the slope test, a shoe filled with coins will slide off at a much lower height than the same empty shoe.",
      "a": false,
-     "why": "False. Scientists still argue about it. Ideas include a slippery, almost wet layer on top, melting caused by sliding, and loose molecules that roll."
+     "why": "False, or nearly so. The coins make the shoe press harder on the board, so friction grows. But gravity also pulls the heavier shoe down the slope harder. The two grow together, so the shoe slides at about the same height. Many people guess heavier things slide more easily. A test shows they don't.",
+     "context": "In the slope test, you put a shoe on a flat board, then slowly lift one end until the shoe slides.",
+     "how": "e1"
     },
     {
      "t": "mcq",
@@ -1485,15 +1486,15 @@
     },
     {
      "t": "mcq",
-     "p": "Which of these is NOT caused by friction?",
+     "p": "Rim brakes on a cycle squeeze rubber pads onto the wheel. They stop the cycle well on a dry day, but badly in heavy rain. Why?",
      "opts": [
-      "A match lighting",
-      "A cycle stopping when you brake",
-      "A magnet pulling a pin from across the table",
-      "Your shoe wearing out"
+      "Water between the pads and the wheel acts as a lubricant, so there is less grip",
+      "Rain makes the wheel heavier",
+      "Cold rain makes the rubber grip more",
+      "Rain pushes the cycle forward"
      ],
-     "a": 2,
-     "why": "The magnet pulls the pin without touching it. Friction only happens where surfaces touch. Picking the match or the shoe usually means heat and wear are not yet linked to rubbing. Both come from friction."
+     "a": 0,
+     "why": "A thin layer of water keeps the pad and the wheel a little apart, just like oil on a hinge. Less grip means less friction, so the cycle takes longer to stop. Riders brake early in the monsoon for this reason. Picking 'heavier wheel' looks for a change in weight, but the real change is between the surfaces."
     },
     {
      "t": "fill",
@@ -3054,11 +3055,11 @@
    "p": "Where do we want LESS friction?",
    "opts": [
     "Bicycle brakes",
-    "A playground slide",
+    "The spinning parts inside a ceiling fan",
     "Shoes on a wet floor"
    ],
    "a": 1,
-   "why": "A slide should be slippery, so you can whizz down it. Picking brakes or shoes means GRIP and SLIP got swapped. Those two need lots of friction.",
+   "why": "The fan's spinning parts should turn freely. Friction there wastes energy and makes them hot and noisy, so they are oiled. Picking brakes or shoes means grip and slip got swapped. Those two need lots of friction.",
    "outcome": 3
   },
   {
@@ -3066,11 +3067,11 @@
    "p": "Which of these lowers friction?",
    "opts": [
     "Sand on an icy path",
-    "Oil on a door hinge",
+    "Soap on your finger when a ring is stuck",
     "Rubber soles"
    ],
    "a": 1,
-   "why": "Oil is a lubricant, a slippery layer that lowers friction. Picking sand often means tiny grains are pictured rolling like marbles. On ice, sand grains dig in and add grip.",
+   "why": "Soap is a lubricant, a slippery layer that lowers friction, so the ring slides off. Picking sand often means tiny grains are pictured rolling like marbles. On ice, sand grains dig in and add grip.",
    "outcome": 3
   },
   {
@@ -3111,14 +3112,14 @@
   },
   {
    "t": "mcq",
-   "p": "Who wrote down rules of friction first, but in notebooks that were never published?",
+   "p": "Which of these do scientists agree about?",
    "opts": [
-    "Guillaume Amontons",
-    "Leonardo da Vinci",
-    "Isaac Newton"
+    "Pressing two surfaces together harder gives more friction",
+    "How much grip a brand-new kind of sole will have, without testing it",
+    "Exactly how the atoms at every rubbing surface behave"
    ],
-   "a": 1,
-   "why": "Leonardo da Vinci wrote them around 1493. Amontons published them about 200 years later, in 1699. Picking Newton is a common guess, because he is famous for forces. But Newton was born more than 120 years after Leonardo died.",
+   "a": 0,
+   "why": "Anyone can test the first one with a forcemeter and a box of books, and it has been checked for over 300 years. Friction depends on so many tiny details that a new sole must still be tested. How atoms behave at rubbing surfaces is still being studied with special microscopes.",
    "outcome": 5
   },
   {
