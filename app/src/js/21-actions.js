@@ -1,5 +1,7 @@
 /* What every tap does (onAct) and the event dialog */
 function playItem(it) {
+  // a DeepKids-track unit opens as the unit itself, where the family left off
+  if (it.u.board === "unit") return fxOpen(it.u.c.unit);
   setTimeout(autoRead, 100);
   openSheet({
     mode: "player",
@@ -360,14 +362,14 @@ function onAct(e) {
       break;
     }
     case "tfind": {
-      ui.tq = document.getElementById("tq")?.value || "";
+      ui.libq = document.getElementById("tq")?.value || "";
       ui.terr = "";
       sfx("tap");
       render();
       break;
     }
     case "tsearch": {
-      ui.tq = b.dataset.q;
+      ui.libq = b.dataset.q;
       ui.lt = "topics";
       tab = "library";
       if (sheet.open) sheet.close();

@@ -537,7 +537,7 @@ function topicRow(u) {
   return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span style="min-width:0"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · ${u.board === "gen" ? "DeepKids topic" + (u.gen.reviewed ? "" : " · not yet reviewed") : u.board === "dk" ? "DeepKids Plus" : esc(T?.txt || u.book)}</span></span>${pillS(coverage(u))}</button></div>`;
 }
 function topicsTab() {
-  const q = ui.tq || "",
+  const q = ui.libq || "",
     hits = topicHits(q),
     gen = SHARED.topics
       .slice()
@@ -608,7 +608,7 @@ const slug = (s) =>
     .replace(/^-|-$/g, "")
     .slice(0, 60) || "topic";
 async function genTopic() {
-  const q = (ui.tq || "").trim();
+  const q = (ui.libq || "").trim();
   if (!q || !SAMPLE) return;
   ui.tgen = true;
   ui.terr = "";

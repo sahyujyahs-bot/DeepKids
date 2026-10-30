@@ -8506,7 +8506,7 @@ function topicRow(u) {
   return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span style="min-width:0"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · ${u.board === "gen" ? "DeepKids topic" + (u.gen.reviewed ? "" : " · not yet reviewed") : u.board === "dk" ? "DeepKids Plus" : esc(T?.txt || u.book)}</span></span>${pillS(coverage(u))}</button></div>`;
 }
 function topicsTab() {
-  const q = ui.tq || "",
+  const q = ui.libq || "",
     hits = topicHits(q),
     gen = SHARED.topics
       .slice()
@@ -8577,7 +8577,7 @@ const slug = (s) =>
     .replace(/^-|-$/g, "")
     .slice(0, 60) || "topic";
 async function genTopic() {
-  const q = (ui.tq || "").trim();
+  const q = (ui.libq || "").trim();
   if (!q || !SAMPLE) return;
   ui.tgen = true;
   ui.terr = "";
@@ -9267,11 +9267,9 @@ function paperView() {
         .filter(Boolean)
         .map((x) => esc(x.credit))
         .filter((x, k, a) => a.indexOf(x) === k)
-        .join(
-          " · ",
-        )}</p><div class="row"><button class="btn" data-act="rsdone" data-p="${esc(p.id)}">${st.read[p.id] ? "Read ✓" : "We read it"}</button><button class="btn soft" data-act="rslike" data-p="${esc(p.id)}" aria-pressed="${!!st.like[p.id]}">${st.like[p.id] ? "❤️ Liked" : "🤍 Like it"}</button></div>`
+        .join(" · ")}</p>`
     : `<span class="rsk">${RS_KIND[c.k] || "✨"}</span><h3>${esc(c.t)}</h3>${c.img ? `<figure><img src="${esc(c.img.src)}" alt="${esc(c.img.alt || "")}"><figcaption>${esc(c.img.credit)}</figcaption></figure>` : ""}${c.b ? `<p>${esc(c.b)}</p>` : ""}${c.words ? `<dl class="rswords">${c.words.map((w) => `<dt>${esc(w.w)}</dt><dd>${esc(w.m)}</dd>`).join("")}</dl>` : ""}`;
-  return `<section class="sec"><div class="rstop">${i ? "" : `<img src="${esc(p.cover.src)}" alt="${esc(p.cover.alt || "")}">`}<span class="eyebrow">${esc(p.source.name)} · ${p.year || p.source.year}</span><h2>${esc(p.title)}</h2></div>${nav}<div class="card rsflash rs-${last ? "src" : c.k}">${body}</div></section>`;
+  return `<section class="sec"><div class="rstop">${i ? "" : `<img src="${esc(p.cover.src)}" alt="${esc(p.cover.alt || "")}">`}<span class="eyebrow">${esc(p.source.name)} · ${p.year || p.source.year}</span><h2>${esc(p.title)}</h2></div>${nav}<div class="card rsflash rs-${last ? "src" : c.k}">${body}</div>${last ? `<div class="row rsend"><button class="btn" data-act="rsdone" data-p="${esc(p.id)}" ${st.read[p.id] ? "disabled" : ""}>${st.read[p.id] ? "✓ Marked as read" : "Mark this paper as read"}</button><button class="btn soft" data-act="rslike" data-p="${esc(p.id)}" aria-pressed="${!!st.like[p.id]}">${st.like[p.id] ? "❤️ Liked" : "🤍 Like it"}</button></div>` : ""}</section>`;
 }
 
 /* Today */
@@ -15015,6 +15013,8 @@ const fxHome = () => {
 
 /* What every tap does (onAct) and the event dialog */
 function playItem(it) {
+  // a DeepKids-track unit opens as the unit itself, where the family left off
+  if (it.u.board === "unit") return fxOpen(it.u.c.unit);
   setTimeout(autoRead, 100);
   openSheet({
     mode: "player",
@@ -15375,14 +15375,14 @@ function onAct(e) {
       break;
     }
     case "tfind": {
-      ui.tq = document.getElementById("tq")?.value || "";
+      ui.libq = document.getElementById("tq")?.value || "";
       ui.terr = "";
       sfx("tap");
       render();
       break;
     }
     case "tsearch": {
-      ui.tq = b.dataset.q;
+      ui.libq = b.dataset.q;
       ui.lt = "topics";
       tab = "library";
       if (sheet.open) sheet.close();

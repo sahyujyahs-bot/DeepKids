@@ -1815,19 +1815,20 @@ dialog.mini::backdrop {
   display: grid;
   gap: 6px;
 }
+/* the step's label sits above its title, so the title gets the full width on a phone */
 .dsteps li {
   display: grid;
-  grid-template-columns: auto 1fr auto;
-  gap: 8px;
+  grid-template-columns: 1fr auto;
+  gap: 0 8px;
   align-items: baseline;
   font-size: 14px;
 }
 .dsteps li span {
+  grid-column: 1/-1;
   font: 600 11px var(--display);
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--muted);
-  min-width: 76px;
 }
 .dsteps li i {
   font-style: normal;
@@ -6222,7 +6223,6 @@ body {
 .rsflash {
   display: grid;
   gap: 10px;
-  margin-bottom: 80px;
   min-height: 260px;
   align-content: start;
   border-top: 5px solid var(--peri);
@@ -6269,6 +6269,13 @@ body {
 }
 .rswords dd {
   margin: 0;
+}
+.rsflash,
+.rsend {
+  margin-bottom: 80px;
+}
+.rsflash.rs-src {
+  margin-bottom: 0;
 }
 .rsnav {
   display: flex;

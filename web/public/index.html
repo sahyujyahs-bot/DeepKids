@@ -1833,19 +1833,20 @@ dialog.mini::backdrop {
   display: grid;
   gap: 6px;
 }
+/* the step's label sits above its title, so the title gets the full width on a phone */
 .dsteps li {
   display: grid;
-  grid-template-columns: auto 1fr auto;
-  gap: 8px;
+  grid-template-columns: 1fr auto;
+  gap: 0 8px;
   align-items: baseline;
   font-size: 14px;
 }
 .dsteps li span {
+  grid-column: 1/-1;
   font: 600 11px var(--display);
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--muted);
-  min-width: 76px;
 }
 .dsteps li i {
   font-style: normal;
@@ -6240,7 +6241,6 @@ body {
 .rsflash {
   display: grid;
   gap: 10px;
-  margin-bottom: 80px;
   min-height: 260px;
   align-content: start;
   border-top: 5px solid var(--peri);
@@ -6288,6 +6288,13 @@ body {
 .rswords dd {
   margin: 0;
 }
+.rsflash,
+.rsend {
+  margin-bottom: 80px;
+}
+.rsflash.rs-src {
+  margin-bottom: 0;
+}
 .rsnav {
   display: flex;
   align-items: center;
@@ -6329,9 +6336,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="f9bf47153499e23342";window.DK_APPV="f9bf471534";window.DK_DATAV="99e29857a9"</script>
-<script src="/config.js?v=f9bf47153499e23342"></script>
+<script>window.DK_BUILD="207d2d87f599e23342";window.DK_APPV="207d2d87f5";window.DK_DATAV="99e29857a9"</script>
+<script src="/config.js?v=207d2d87f599e23342"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=f9bf47153499e23342"></script>
+<script src="/platform.js?v=207d2d87f599e23342"></script>
 </body>
 </html>
