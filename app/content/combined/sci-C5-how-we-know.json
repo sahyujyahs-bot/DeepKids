@@ -185,7 +185,7 @@
     }
    ],
    "need": [
-    "a die",
+    "a die (from a Ludo set)",
     "10 paper slips",
     "a coin",
     "paper, a pencil and a ruler"
@@ -455,8 +455,8 @@
          "writing the plan and prediction before the test"
         ],
         [
-         "anomaly",
-         "a result that does not fit what was expected"
+         "sample size",
+         "how many times you test"
         ]
        ]
       },
@@ -469,9 +469,10 @@
       },
       {
        "t": "fill",
-       "p": "Energy is never made from nothing and never destroyed. This law is called the conservation of ____.",
+       "p": "On a fair die, a six comes up about one time in every ____ rolls.",
        "a": [
-        "energy"
+        "six",
+        "6"
        ]
       }
      ]
@@ -532,7 +533,7 @@
      [
       {
        "t": "write",
-       "p": "Remember the bouncing ball on Day 6. It never bounced higher than where it was dropped. Where did its energy go?",
+       "p": "Revathi, a girl in Class 5, says her blue pen makes her score well in tests. She remembers the good marks she got with it. What might she be forgetting, and what result would show she is wrong?",
        "lines": 3
       },
       {
@@ -612,9 +613,9 @@
       },
       {
        "t": "fill",
-       "p": "If a test is small, chance can make a result look real. A bigger ____ size helps chance even out.",
+       "p": "Energy is never made from nothing and never destroyed. This law is called the conservation of ____.",
        "a": [
-        "sample"
+        "energy"
        ]
       },
       {
@@ -654,6 +655,11 @@
     [
      "C. Think",
      [
+      {
+       "t": "write",
+       "p": "Remember the bouncing ball on Day 6. It never bounced higher than where it was dropped. Where did its energy go?",
+       "lines": 3
+      },
       {
        "t": "write",
        "p": "Farhana's uncle says his new tonic made his cough go in a week. Plan a fair test of the tonic. What is the placebo, who must not know who got what, and how many people would you test?",
@@ -774,7 +780,7 @@
    "day": 3,
    "question": "If you test many things and pick the best result, will it be real or a fluke?",
    "need": [
-    "a die",
+    "a die (from a Ludo or snakes-and-ladders set)",
     "10 paper slips with snack names",
     "paper and pencil",
     "a slip for the sealed plan (Day 4)"

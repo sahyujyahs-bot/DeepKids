@@ -1,0 +1,1132 @@
+{
+ "key": "combined|sci|1|patterns-and-symmetry",
+ "board": "combined",
+ "subj": "sci",
+ "level": 1,
+ "n": "patterns-and-symmetry",
+ "title": "Patterns and symmetry: the same on both sides",
+ "source": "DeepKids Combined rung, built on the DeepKids founder's notebook on symmetry. No board teaches this topic on its own at Class 1. It supports shapes and patterns in maths and animal and plant bodies in science. No textbook needed.",
+ "summary": "Paint one half of a paper, fold it, and the other half gets the same pattern. Your child finds this sameness, called symmetry, in a paint butterfly, their own two hands, a mirror and a half rangoli. They find that no leaf or face is exactly the same on both sides, that flowers and starfish look the same when turned, and that a pattern which repeats lets you guess what comes next. They meet ants, crows, starfish and bees, and see how each one's shape helps them live.",
+ "builds_on": "This is the first rung on patterns and symmetry. In Class 3 your child comes back to it to name three kinds of symmetry (flip, turn and slide), count lines of symmetry, tile a floor, grow salt crystals and meet Emmy Noether, who found symmetry in the rules of nature.",
+ "subconcepts": [
+  "symmetry: the same on both sides",
+  "the line of symmetry",
+  "a mirror shows a shape flipped (a mirror image)",
+  "our body has two matching sides, with single parts on the middle line",
+  "our two hands are mirror images of each other",
+  "animals that move head first have two matching sides, which helps them go straight",
+  "no living thing is exactly symmetrical",
+  "shapes that look the same when you turn them: flowers, fans and the Ashoka Chakra",
+  "starfish arms around a middle",
+  "snowflakes have six arms",
+  "a pattern repeats, so you can guess what comes next",
+  "rhythm: patterns in time",
+  "why bees build six-sided cells (hexagons)",
+  "kolams and rangolis as patterns made by people"
+ ],
+ "goals": [
+  "By the end your child can say what symmetry means and show a line of symmetry on a paper heart.",
+  "By the end your child can use a mirror to finish half a picture, and finish half a rangoli by hand.",
+  "By the end your child can show that their two hands are a mirror pair, and say why an ant or a crow has two matching sides.",
+  "By the end your child can show that a leaf or a face is nearly, but not exactly, the same on both sides.",
+  "By the end your child can find shapes that look the same when turned, and say what comes next in a repeating pattern.",
+  "By the end your child can say one thing scientists still argue about: why people like symmetrical faces."
+ ],
+ "words": [
+  [
+   "symmetry",
+   "when one half of a shape matches the other half"
+  ],
+  [
+   "symmetrical",
+   "having two halves that match, like a butterfly"
+  ],
+  [
+   "line of symmetry",
+   "the line down the middle where a shape can be folded so the halves match"
+  ],
+  [
+   "mirror image",
+   "how a thing looks in a mirror: the same, but flipped"
+  ],
+  [
+   "pattern",
+   "something that repeats in the same way, again and again"
+  ],
+  [
+   "rhythm",
+   "a pattern of beats that repeats in time, like a heartbeat"
+  ],
+  [
+   "petal",
+   "one of the coloured parts around the middle of a flower"
+  ],
+  [
+   "hexagon",
+   "a flat shape with six straight sides, like a cell in a honeycomb"
+  ],
+  [
+   "kolam",
+   "a pattern drawn with rice flour at the door, in South India"
+  ]
+ ],
+ "day_mins": 30,
+ "days": [
+  {
+   "n": 1,
+   "title": "The same on both sides",
+   "goal": "Meet the word symmetry by folding paper and paint, and hear the story.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "A paper heart",
+     "mins": 5,
+     "do": "Fold a sheet of paper in half. Draw half a heart against the fold, like a big letter C, and let your child cut along the line with safe scissors. Before you open it, ask: 'What do you think it will look like?' Open it. Say: 'Both sides are the same. When one half matches the other half like this, we say the shape has symmetry. The fold line is called the line of symmetry.' Run a finger down the fold."
+    },
+    {
+     "kind": "read",
+     "title": "Story: Half a Kolam",
+     "mins": 12,
+     "do": "Read the story aloud slowly. Use a scratchy voice for Kaaki the crow. Do not explain it. Then ask: 'How did Meenu know how to finish Amma's half?' Good answer: the other side is the same, only flipped, so she copied it. Ask: 'Why does Kaaki need two wings that match?' Good answer: so she can fly straight."
+    },
+    {
+     "kind": "exp",
+     "title": "Paint butterfly",
+     "mins": 13,
+     "do": "Do experiment e1. Fold a paper in half and open it. Your child drops blobs of paint on one half only, close to the fold. Ask first: 'What will happen to the clean half when we fold the paper and press it?' Let them guess and say why. Fold, press with flat palms from the fold outwards, and open slowly. Ask: 'What do you see? Which half did you paint?' Good answer: both halves have the same blobs, flipped. Say: 'Pressing copied the paint across the fold. That is why it is the same on both sides.' Let it dry for the symmetry book.",
+     "ref": "e1"
+    }
+   ],
+   "need": [
+    "3 sheets of paper",
+    "safe scissors",
+    "poster colours, or turmeric mixed with a few drops of water into a thick paste",
+    "a spoon or brush",
+    "old newspaper to work on"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Our two sides",
+   "goal": "Find that our bodies have two matching sides, and that our hands are mirror pairs.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Twos and ones",
+     "mins": 5,
+     "do": "Stand in front of your child. Say: 'Touch everything on your body that comes in twos.' Good answers: eyes, ears, eyebrows, arms, hands, legs, feet, knees. Then say: 'Now touch the things you have only one of.' Good answers: nose, mouth, chin, belly button. Ask: 'Where are the ones?' Good answer: in the middle. Say: 'Our body has a line of symmetry down the middle. The pairs sit one on each side, and the single things sit on the line.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Two handprints",
+     "mins": 12,
+     "do": "Do experiment e2. Your child puts the left hand flat on a paper and you draw round it. Then draw round the right hand on a second paper. Cut both out. Ask first: 'Will the two hands match if we put one on top of the other?' Lay them both palm side up, thumbs the same way. They do not match: the thumbs point opposite ways. Now flip one over. Ask: 'Now?' Good answer: now they nearly match. Say: 'Your two hands are a pair. One is the other one flipped, like the two halves of the paint butterfly. We call that a mirror image.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Why an ant has two matching sides",
+     "mins": 8,
+     "do": "Look at ants on the kitchen floor or near a window, or at a picture of an ant. Ask: 'Where does an ant want to go?' Good answer: straight to food, and back home. Say: 'An ant walks head first. She has three legs on her left side and three on her right side. Both sides push the same, so she goes straight.' Ask: 'What would happen if one side had long legs and the other side had short legs?' Good answer: she would go round in circles. Say: 'Crows, dogs, fish and people also move head first, and all of us have two matching sides.'"
+    },
+    {
+     "kind": "act",
+     "title": "Balance pose",
+     "mins": 5,
+     "do": "Do activity a1. Stand together in mountain pose: feet together, arms by your sides, standing tall. Ask: 'Is your body the same on both sides now?' Then stand on one leg in tree pose, with the other foot on the inside of the standing leg and hands joined at the chest. Count to five slowly. Swap legs. Ask: 'Is tree pose the same on both sides? Was one side harder?' Many children find one side harder. Say: 'Our two sides look the same, but they are not exactly the same.'",
+     "ref": "a1"
+    }
+   ],
+   "need": [
+    "2 sheets of paper",
+    "a pencil",
+    "safe scissors",
+    "ants nearby, or a picture of an ant"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "A mirror finishes the picture",
+   "goal": "Use a mirror to see a whole shape from half, and finish a half rangoli.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Half pictures",
+     "mins": 14,
+     "do": "Do experiment e3. Before the lesson, draw half a butterfly, half a leaf and half a house on paper, each against a straight line. Your child stands a small mirror upright on the straight line and looks into it from the drawing's side. Ask first: 'What will you see in the mirror?' Good answer: the other half. Say: 'The mirror shows the drawing flipped, so you see the whole picture.' Then your child draws the missing half on the paper and checks it with the mirror. Ask: 'Does your half match?'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Letters in the mirror",
+     "mins": 6,
+     "do": "Write big capital letters on a paper: A, H, O, T, F, R. Your child stands the mirror down the middle of each letter, from top to bottom. Ask: 'Which letters still look right?' Good answer: A, H, O and T, because their two halves match. F and R look wrong, because their two halves are different. Say: 'A, H, O and T have a line of symmetry down the middle. F and R do not.'"
+    },
+    {
+     "kind": "act",
+     "title": "Finish the half rangoli",
+     "mins": 10,
+     "do": "Do activity a2. On a dark paper or a steel plate, draw half a simple flower rangoli with chalk or rice flour, up to a straight middle line. Your child finishes the other half. Say: 'Look at my half first. Each petal on my side needs a partner on your side, the same size, at the same distance from the middle, turning the other way, just like Meenu did.' Ask afterwards: 'Is it exactly the same? Where is it different?' Any small difference is fine. Take a photo for the symmetry book.",
+     "ref": "a2"
+    }
+   ],
+   "need": [
+    "a small hand mirror",
+    "3 half pictures drawn by you",
+    "a pencil",
+    "chalk or rice flour",
+    "a dark paper or a steel plate"
+   ],
+   "prep": [
+    {
+     "task": "Draw half a butterfly, half a leaf and half a house, each against a straight line",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Nearly the same, never exactly",
+   "goal": "Find that no living thing is exactly the same on both sides.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "The leaf fold",
+     "mins": 12,
+     "do": "Do experiment e4. Take three leaves: a curry leaf, a spinach or coriander leaf from the kitchen, and a leaf from a potted plant. Your child folds each leaf down the middle vein. Ask first: 'Will the two halves match exactly?' Look closely. Ask: 'Does one half stick out? Is one side wider?' Good answer: the halves nearly match, but one side is a little bigger or a different shape. Say: 'A leaf grows bit by bit, and each side grows a little differently. No living leaf is exactly the same on both sides.' Keep the best leaf for the symmetry book.",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "Is your face the same on both sides?",
+     "mins": 8,
+     "do": "Sit with your child in front of a mirror. Ask: 'Look at your eyebrows, eyes and smile. Is one side a little different?' Good answers: one eyebrow is a bit higher, the smile goes up more on one side, the hair parts on one side. Ask: 'Which hand do you write with? Which foot do you kick with?' Say: 'Even inside, we are not the same on both sides. Your heart sits a little more to the left side of your chest.' Put your child's hand on the left side of their chest to feel it beat. Then tell them about voice v3, and ask the voice question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "do": "Do worksheet ws1 together. Read each item aloud and let your child point or say the answer while you mark it. For the two 'why' items, write down exactly what your child says.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a curry leaf",
+    "a spinach or coriander leaf",
+    "a leaf from a potted plant",
+    "a mirror",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Turn it and it still matches",
+   "goal": "Find shapes that look the same after a turn, like flowers, fans and starfish.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Turning things hunt",
+     "mins": 14,
+     "do": "Do activity a3. Give your child a flower (from the puja plate, the market or a picture) and ask them to count the petals. Hold it facing them and turn it slowly. Ask first: 'Will it look the same before you have turned it all the way round?' Good answer: yes, each time a petal moves into the place where the last petal was. Then look at the ceiling fan (switched off), a steel plate with a pattern, and the Ashoka Chakra on a flag or a coin picture. Say: 'These shapes have their parts arranged around a middle, so they look the same when you turn them a little. Most ceiling fans have 3 blades. The Ashoka Chakra has 24 spokes.' Your child draws a flower with five petals around a middle.",
+     "ref": "a3"
+    },
+    {
+     "kind": "talk",
+     "title": "A starfish has no front",
+     "mins": 8,
+     "do": "Show a picture of a starfish. Say: 'Scientists call her a sea star, because she is not a fish. She has no bones and no fins.' Ask: 'How many arms?' (Most have five.) Say: 'A starfish moves slowly over rocks in the sea. Food can be on any side of her. Her arms go all round her middle, so she can reach in every direction. She does not need a front.' Ask: 'An ant runs straight to food. A starfish reaches all round. Which body would you like, and why?' Many starfish can grow back an arm they lose."
+    },
+    {
+     "kind": "talk",
+     "title": "The snowflake farmer",
+     "mins": 8,
+     "do": "Tell your child about voice v1, Wilson Bentley, who photographed snowflakes. If you can, show his snowflake photos in a book or on a phone. Ask: 'How many arms does each snowflake have?' (Six.) Say: 'A snowflake has six arms because of how water freezes. Tiny bits of water join together in rings of six.' Then ask the voice question.",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "a flower, or a picture of one",
+    "a picture of a starfish",
+    "pictures of snowflakes, if you can find them",
+    "paper and crayons"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Patterns that repeat",
+   "goal": "Make repeating patterns, use them to guess what comes next, and see why bees build hexagons.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What comes next?",
+     "mins": 5,
+     "do": "Clap, then pat your knees, then clap, then pat your knees. Stop. Ask: 'What comes next?' (Clap.) Try harder ones: clap, clap, stamp, clap, clap, stamp. Say: 'A pattern is something that repeats in the same way. Because it repeats, you can guess what comes next.' Let your child make one up for you to finish."
+    },
+    {
+     "kind": "act",
+     "title": "Dal pattern line",
+     "mins": 12,
+     "do": "Do activity a4. Put three bowls on a plate: rajma, chana and moong (any three dals or seeds work). Make a line on the plate: rajma, moong, rajma, moong. Ask: 'What comes next?' Then make a harder one: chana, chana, rajma, chana, chana, rajma. Then your child makes a pattern and you guess the next one. Ask: 'How did you know what came next?' Good answer: it repeats, so I looked at the part that repeats. Say: 'The part that repeats is the rule of the pattern.'",
+     "ref": "a4"
+    },
+    {
+     "kind": "talk",
+     "title": "Why bees build hexagons",
+     "mins": 8,
+     "do": "Show a picture of a honeycomb. Ask: 'How many sides does each little room have?' (Six. A shape with six sides is called a hexagon.) Say: 'A bee has a problem. She must store honey to eat later. She makes the walls from wax, and her body needs to eat a lot of honey to make wax.' Now push ten coins together on the table. Ask: 'Are there gaps between the round coins?' (Yes.) Say: 'Circles leave gaps. Hexagons fit together with no gaps, and they need very little wax for the space they hold. So the hexagon pattern saves the bees honey and space.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Kolams and patterns",
+     "mins": 5,
+     "do": "Tell your child about voice v2: in Chennai, scientists wrote down the rules of kolam patterns, the same kind of rules computers use. Say: 'Women who draw kolams have kept these rules in their heads and hands for hundreds of years.' Ask the voice question.",
+     "ref": "v2"
+    }
+   ],
+   "need": [
+    "3 kinds of dal or seeds, a handful each",
+    "3 small bowls and a plate",
+    "10 coins",
+    "a picture of a honeycomb"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Patterns in time",
+   "goal": "Hear and dance patterns that repeat in time, and play the pattern game.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Rhythm and mirror dance",
+     "mins": 8,
+     "do": "Do activity a5. First, your child puts a hand on their chest and feels the heartbeat: thump, thump, thump. Say: 'A beat that repeats is called a rhythm. Your heart has a rhythm. Day and night have a rhythm too: they come again and again.' Then clap a rhythm together: clap, clap, rest, clap, clap, rest. Then play any song and dance facing each other. When you raise your right arm, your child raises their left arm, like a mirror. Then swap who leads.",
+     "ref": "a5"
+    },
+    {
+     "kind": "game",
+     "title": "Pattern Path board game",
+     "mins": 12,
+     "do": "Play the board game g1. Read the rules aloud first. When a player lands on a task square, they do it before the next player rolls. Play until someone reaches HOME, or for 12 minutes.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "do": "Do worksheet ws2 together. Read each item aloud. For the 'why' items and the item about Kavya and Farhan, ask your child to explain while you write their words.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "music to dance to",
+    "the printed Pattern Path board",
+    "a die",
+    "a counter for each player",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "My symmetry book and teach it back",
+   "goal": "Finish the symmetry book, think hard, and teach the family.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "Finish the symmetry book",
+     "mins": 8,
+     "do": "Finish the project. Fold three sheets of paper in half and staple them at the fold to make a small book. Stick in the paint butterfly, the two handprints, the photo of the half rangoli, the folded leaf and the five-petal flower. Under each one, your child tells you what to write: 'same on both sides', 'nearly the same' or 'looks the same when turned'. On the last page, they draw one pattern that repeats."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 8,
+     "do": "Do worksheet ws3. Read each item aloud. Try the glove item with a real glove or a sock if you have one. For the written items, write down exactly what your child says. It is fine to do half today and half another day.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 8,
+     "do": "Ask the check questions aloud, one at a time. Let your child show the answer with their hands, the mirror or the symmetry book if that helps. Listen for the words symmetry, line of symmetry and pattern."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 6,
+     "do": "Your child shows the family the symmetry book and explains each page. Then they put a mirror on the half butterfly and ask the family to guess what they will see. Last, they make a clap pattern and the family must guess what comes next."
+    }
+   ],
+   "need": [
+    "3 sheets of paper and a stapler",
+    "glue",
+    "everything made this week",
+    "a glove or a sock",
+    "worksheet ws3",
+    "a mirror"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "The same on both sides",
+   "day": 4,
+   "sections": [
+    [
+     "A. Same on both sides",
+     [
+      {
+       "t": "fill",
+       "p": "A shape whose two halves match is ____.",
+       "a": [
+        "symmetrical",
+        "symmetric"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The fold line down the middle of a shape is called the line of ____.",
+       "a": [
+        "symmetry"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Are the two halves the same?",
+       "items": [
+        "a butterfly",
+        "the letter A",
+        "a heart shape",
+        "the letter F",
+        "the letter R",
+        "a star shape"
+       ],
+       "cats": [
+        "same on both sides",
+        "not the same"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "You paint blobs on one half of a paper, then fold it and press. What happens to the clean half?",
+       "opts": [
+        "It stays white",
+        "It gets the same blobs, flipped",
+        "It turns a new colour"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Bodies and leaves",
+     [
+      {
+       "t": "mcq",
+       "p": "Which part of your body is on the middle line, with only one of it?",
+       "opts": [
+        "an ear",
+        "the nose",
+        "a hand"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each being to the shape of their body.",
+       "pairs": [
+        [
+         "an ant",
+         "two matching sides"
+        ],
+        [
+         "a starfish",
+         "five arms around a middle"
+        ],
+        [
+         "a crow",
+         "two matching wings"
+        ],
+        [
+         "a person",
+         "a pair of eyes, ears, hands and feet"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Amma folds a curry leaf down the middle vein. What do the two halves do?",
+       "opts": [
+        "They match exactly",
+        "They nearly match, but not exactly",
+        "They look nothing alike"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Why did the paint butterfly come out the same on both sides?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Why does a crow need two wings that match?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Turning and repeating",
+   "day": 7,
+   "sections": [
+    [
+     "A. What comes next?",
+     [
+      {
+       "t": "fill",
+       "p": "Clap, stamp, clap, stamp, clap, ____.",
+       "a": [
+        "stamp"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Moong, rajma, rajma, moong, rajma, rajma, moong. What comes next?",
+       "opts": [
+        "moong",
+        "rajma",
+        "chana"
+       ],
+       "a": 1
+      },
+      {
+       "t": "draw",
+       "p": "Make your own pattern with two colours. Draw it, then draw what comes next."
+      }
+     ]
+    ],
+    [
+     "B. Turning shapes",
+     [
+      {
+       "t": "sort",
+       "p": "Does it look the same after a small turn, before you have turned it all the way round?",
+       "items": [
+        "a flower with 5 petals",
+        "a ceiling fan with 3 blades",
+        "the Ashoka Chakra",
+        "the letter F",
+        "your hand",
+        "a starfish"
+       ],
+       "cats": [
+        "looks the same after a small turn",
+        "does not"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why do bees build cells with six sides?",
+       "opts": [
+        "Six-sided cells fit together with no gaps and use little wax",
+        "Bees can only count to six",
+        "Round cells are too hard to clean"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Who made the pattern?",
+       "pairs": [
+        [
+         "a kolam",
+         "a person"
+        ],
+        [
+         "a honeycomb",
+         "honeybees"
+        ],
+        [
+         "a snowflake",
+         "water freezing in a cloud"
+        ],
+        [
+         "a spider's web",
+         "a spider"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "A pattern helps you guess what comes next. Give one pattern from your home or your day, and say what comes next.",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Kavya says a starfish's body is best, because she can reach food on every side. Farhan says an ant's body is best, because she runs straight to food. Who do you agree with? Why? What would the other one say back?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Pattern puzzles",
+   "day": 8,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "You hold up your right hand to a mirror. The hand in the mirror looks like your…",
+       "opts": [
+        "right hand",
+        "left hand",
+        "foot"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A right-hand glove will fit your left hand if you…",
+       "opts": [
+        "turn it inside out",
+        "pull it very hard",
+        "nothing: it can never fit"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Your heart sits a little more to the ____ side of your chest.",
+       "a": [
+        "left"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Exactly the same on both sides, or only nearly the same?",
+       "items": [
+        "a paper heart cut on a fold",
+        "your face",
+        "a leaf",
+        "a butterfly",
+        "the letter H printed in a book",
+        "a crow"
+       ],
+       "cats": [
+        "exactly the same",
+        "nearly the same"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each problem to the shape that helps.",
+       "pairs": [
+        [
+         "A bee must store honey using little wax.",
+         "six-sided cells"
+        ],
+        [
+         "A crow must fly straight.",
+         "two matching wings"
+        ],
+        [
+         "A starfish may find food on any side.",
+         "five arms around a middle"
+        ],
+        [
+         "A flower needs bees to find her.",
+         "bright petals in a pattern"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Rain washes away one half of a kolam that was the same on both sides. How can you draw it again?",
+       "opts": [
+        "Copy the half that is left, flipped, onto the other side",
+        "Guess any shape",
+        "You cannot"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. What do you think?",
+     [
+      {
+       "t": "write",
+       "p": "Is anything perfectly the same on both sides? How would you check?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A crow loses one big feather from each wing at the same time, not two from one wing. Why might that help her?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Lakshmi says things that are the same on both sides are the most beautiful. Arjun says things that are a little different are more beautiful. Who do you agree with? Why? What would the other one say back?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Paint butterfly",
+   "day": 1,
+   "question": "Does folding make both sides the same?",
+   "need": [
+    "a sheet of paper",
+    "poster colours, or turmeric mixed with a few drops of water into a thick paste",
+    "a spoon or brush",
+    "old newspaper"
+   ],
+   "steps": [
+    "Fold the paper in half and open it again.",
+    "Drop three or four blobs of paint on one half only, close to the fold.",
+    "Fold the paper again along the same line.",
+    "Press with flat palms, from the fold outwards.",
+    "Open it slowly and look at both halves.",
+    "Let it dry flat."
+   ],
+   "predict": "Ask your child to guess first: 'What will happen to the clean half when we fold and press?'",
+   "observe": "The clean half now has the same blobs as the painted half, flipped across the fold. The shape often looks like a butterfly.",
+   "why": "When the paper is folded, each blob touches the spot exactly opposite it on the other half. Pressing copies the paint there. So every blob gets a partner at the same distance from the fold, on the other side. This makes a shape with a line of symmetry: the fold.",
+   "safety": "Use child-safe paint. Turmeric stains clothes, so wear old clothes and work on newspaper.",
+   "time": "13 min"
+  },
+  {
+   "id": "e2",
+   "title": "Two handprints",
+   "day": 2,
+   "question": "Are your two hands the same, or a flipped pair?",
+   "need": [
+    "2 sheets of paper",
+    "a pencil",
+    "safe scissors"
+   ],
+   "steps": [
+    "Your child puts the left hand flat on a paper, fingers spread. Draw round it.",
+    "Do the same with the right hand on the second paper.",
+    "Cut out both hand shapes.",
+    "Lay both shapes the same way up and put one on top of the other.",
+    "Now flip one shape over and put it on top again."
+   ],
+   "predict": "Ask: 'Will the two hands match when we put one on top of the other?'",
+   "observe": "Laid the same way up, the thumbs point opposite ways and the hands do not match. Flipped, they nearly match. Small differences in finger length or width are normal.",
+   "why": "Our left and right hands are mirror images: each is the other one flipped. That is why they match only after one is flipped over. They are not exactly the same, because each hand grows a little differently and the one we use more is often a little bigger.",
+   "safety": "Use safe scissors. A grown-up cuts round the fingers if needed.",
+   "time": "12 min"
+  },
+  {
+   "id": "e3",
+   "title": "Half pictures and a mirror",
+   "day": 3,
+   "question": "Can a mirror show the missing half of a picture?",
+   "need": [
+    "a small hand mirror",
+    "3 half pictures drawn against a straight line",
+    "a pencil"
+   ],
+   "steps": [
+    "Stand the mirror upright on the straight line of the half butterfly.",
+    "Look into the mirror from the drawing's side.",
+    "Do the same with the half leaf and the half house.",
+    "Draw the missing half of each picture on the paper.",
+    "Check each one with the mirror."
+   ],
+   "predict": "Ask: 'What will you see in the mirror when it stands on the line?'",
+   "observe": "The mirror shows the half picture flipped, so the drawing and its reflection together look like a whole butterfly, leaf or house.",
+   "why": "A mirror shows things flipped: what is near the mirror on one side looks near it on the other side too. A shape with a line of symmetry is made of two halves that are flips of each other. So a mirror on the line of symmetry shows the missing half. If you have no mirror, fold the paper on the line and trace the half through against a sunny window.",
+   "safety": "Use a mirror with smooth edges, or tape the edges. Hold glass mirrors with care.",
+   "time": "14 min"
+  },
+  {
+   "id": "e4",
+   "title": "The leaf fold",
+   "day": 4,
+   "question": "Are the two halves of a leaf exactly the same?",
+   "need": [
+    "a curry leaf",
+    "a spinach or coriander leaf",
+    "a leaf from a potted plant"
+   ],
+   "steps": [
+    "Lay each leaf flat.",
+    "Find the main vein that runs down the middle.",
+    "Fold the leaf gently along that vein.",
+    "Look at the edges: do they meet all the way along?",
+    "Open the leaf. Is one side wider, longer or a different shape?"
+   ],
+   "predict": "Ask: 'Will the two halves match exactly?'",
+   "observe": "The two halves nearly match. Usually one half is a little wider, longer or differently curved, and the edges do not meet all the way.",
+   "why": "A leaf grows cell by cell, and each side grows a little differently. Light, wind and small bites also change each side. So a leaf is nearly symmetrical, but never exactly. The same is true of every living body.",
+   "safety": "",
+   "time": "12 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Balance pose",
+   "day": 2,
+   "mins": 5,
+   "need": [
+    "a little floor space"
+   ],
+   "steps": [
+    "Stand in mountain pose: feet together, arms by your sides, standing tall.",
+    "Check: is your body the same on both sides?",
+    "Stand on your left leg in tree pose. Put your right foot on the inside of your left leg and join your hands at your chest.",
+    "Count to five slowly. Then swap legs.",
+    "Talk about which side was harder."
+   ],
+   "outcome": "The child feels that the body looks the same on both sides but is not exactly the same."
+  },
+  {
+   "id": "a2",
+   "title": "Finish the half rangoli",
+   "day": 3,
+   "mins": 10,
+   "need": [
+    "chalk or rice flour",
+    "a dark paper or a steel plate"
+   ],
+   "steps": [
+    "A grown-up draws a straight middle line.",
+    "The grown-up draws half a simple flower rangoli, up to the line.",
+    "The child finishes the other half, petal by petal, at the same distances from the line.",
+    "Look together: where is it the same, and where is it different?",
+    "Take a photo for the symmetry book."
+   ],
+   "outcome": "A whole rangoli, with one half drawn by the child, and a photo of it."
+  },
+  {
+   "id": "a3",
+   "title": "Turning things hunt",
+   "day": 5,
+   "mins": 14,
+   "need": [
+    "a flower, or a picture of one",
+    "a steel plate with a pattern",
+    "a picture of the Ashoka Chakra",
+    "paper and crayons"
+   ],
+   "steps": [
+    "Count the petals of the flower.",
+    "Hold the flower facing you and turn it slowly. Stop each time it looks the same.",
+    "Look at the ceiling fan when it is switched off. Count the blades.",
+    "Look at the Ashoka Chakra and count its spokes together.",
+    "Draw a flower with five petals around a middle."
+   ],
+   "outcome": "A drawing of a five-petal flower, and a list of things at home that look the same after a small turn."
+  },
+  {
+   "id": "a4",
+   "title": "Dal pattern line",
+   "day": 6,
+   "mins": 12,
+   "need": [
+    "3 kinds of dal or seeds",
+    "3 small bowls",
+    "a plate"
+   ],
+   "steps": [
+    "Put each kind of dal in its own bowl.",
+    "A grown-up makes a pattern line on the plate: rajma, moong, rajma, moong.",
+    "The child adds the next two.",
+    "The grown-up makes a harder one: chana, chana, rajma, chana, chana, rajma.",
+    "The child makes a pattern, and the grown-up guesses what comes next.",
+    "Glue a short pattern line onto paper for the symmetry book, if you like."
+   ],
+   "outcome": "The child can find the part that repeats in a pattern and use it to say what comes next."
+  },
+  {
+   "id": "a5",
+   "title": "Rhythm and mirror dance",
+   "day": 7,
+   "mins": 8,
+   "need": [
+    "music to dance to"
+   ],
+   "steps": [
+    "Put a hand on your chest and feel the heartbeat.",
+    "Clap a rhythm together: clap, clap, rest, clap, clap, rest.",
+    "Stand facing each other and play a song.",
+    "The leader moves slowly. The other person copies like a mirror: the leader's right arm is the mirror's left arm.",
+    "Swap who leads."
+   ],
+   "outcome": "The child hears a pattern in time and feels what a mirror image is with the whole body."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Wilson Bentley (1865–1931), a farmer in Vermont, United States",
+   "idea": "Wilson Bentley joined a camera to a microscope and, in 1885, became the first person known to photograph a single snowflake. Over his life he photographed more than 5,000 snowflakes. They showed that each snowflake has six arms or six sides, and that big snowflakes differ from each other in many small ways.",
+   "then": "Many of his neighbours thought it was a waste of time for a farmer to spend snowy days looking at snowflakes. He sold copies of his photos for very little money.",
+   "now": "His photos are still famous and still used. Scientists agree that snow crystals have six sides because of how water particles join together when they freeze.",
+   "status": "accepted",
+   "ask": "People laughed at Wilson Bentley for looking closely at snowflakes. What small thing at home would you like to look at closely for a long time?",
+   "day": 5
+  },
+  {
+   "id": "v2",
+   "who": "Gift Siromoney, Rani Siromoney and Kamala Krithivasan, computer scientists in Chennai",
+   "idea": "In the 1970s, these three scientists studied kolams drawn in Tamil Nadu. They showed that many kolam patterns follow exact rules, of the same kind that computer scientists use to describe pictures and languages.",
+   "then": "Kolams were mostly seen as women's daily art, not as mathematics. Their work showed that the patterns hold real mathematical rules.",
+   "now": "Mathematicians and computer scientists around the world still study kolams. The rules were found in kolams that women had drawn from memory, and taught to their daughters, for hundreds of years.",
+   "status": "accepted",
+   "ask": "Is a woman who draws a kolam every morning doing mathematics, even if nobody calls her a mathematician? Why do you think so?",
+   "day": 6
+  },
+  {
+   "id": "v3",
+   "who": "Gillian Rhodes, a psychologist in Australia, and other scientists who study faces",
+   "idea": "Gillian Rhodes and others showed people many photos of faces. People usually liked faces that were more symmetrical, the same on both sides. Some scientists think we like symmetry because it is a sign of a healthy body.",
+   "then": "Many people liked the idea that symmetry shows health, and it spread quickly.",
+   "now": "It is still argued about. People do tend to like symmetrical faces. But when scientists checked, the link between a symmetrical face and good health was weak. Some think we like symmetry only because our brain finds it easier to take in.",
+   "status": "debated",
+   "ask": "No face is exactly the same on both sides. What would you need to find out to know whether a more symmetrical face means a healthier person?",
+   "day": 4
+  }
+ ],
+ "project": {
+  "title": "My symmetry book",
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   8
+  ],
+  "steps": [
+   "Keep everything you make this week in one folder: the paint butterfly, the two handprints, a photo of the half rangoli, the folded leaf, the five-petal flower and a pattern line.",
+   "On the last day, fold three sheets of paper in half and staple them at the fold to make a book.",
+   "Stick one thing on each page.",
+   "Under each one, write what your child says: 'same on both sides', 'nearly the same' or 'looks the same when turned'.",
+   "On the last page, your child draws a pattern that repeats."
+  ],
+  "outcome": "A small book that shows mirror symmetry, near symmetry, turning shapes and a repeating pattern, which the child can explain page by page."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Pattern Path",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a counter for each player",
+   "a mirror"
+  ],
+  "rules": [
+   "Put all counters on START. Take turns to roll the die and move.",
+   "If you land on a task square, do the task. The other players check it.",
+   "If you land on a forward or back square, do what it says.",
+   "The first player to reach HOME wins. Then everyone claps the winner's favourite pattern together."
+  ],
+  "squares": [
+   "START",
+   "Name a thing with two matching sides.",
+   "Clap, clap, stamp. The next player copies it.",
+   "Touch something on your body there is only one of.",
+   "A butterfly carries you: go forward 2.",
+   "What comes next? Red, blue, red, blue…",
+   "Draw half a heart in the air. The next player draws the other half.",
+   "Stand on one leg in tree pose and count to five.",
+   "You looked in the mirror too long: miss a turn.",
+   "How many arms do most starfish have?",
+   "Make your face the same on both sides. Now make it different.",
+   "Name a thing that looks the same when you turn it.",
+   "Bees build six-sided cells: go forward 2.",
+   "Hold the mirror on a letter on this board. Does it still look right?",
+   "Make a pattern with your hands. The next player says what comes next.",
+   "Your two hands are a pair: hold them up and flip one.",
+   "The rain washed half your kolam away: go back 2.",
+   "Say one thing that comes again every day.",
+   "Dance a mirror move with the player on your left.",
+   "HOME"
+  ]
+ },
+ "big": [
+  "Your left hand and right hand match, but a left glove will not fit your right hand. Are your two hands the same or different?",
+  "Nothing alive is exactly the same on both sides. Is anything in the world perfectly symmetrical? How would you check?",
+  "A starfish has no front. If you had no front, how would you decide which way to go?",
+  "A bee builds six-sided cells without a ruler, and a flower grows five petals without counting. How does a body know where to put each part?",
+  "Day and night, your heartbeat and the kolam each morning all repeat. Is your whole day a pattern?"
+ ],
+ "challenge": [
+  {
+   "q": "Many people say 'My two hands are the same.'",
+   "hint": "They are a mirror pair, not the same. A right glove does not fit the left hand, unless you turn it inside out. Your hands are also not exactly the same size: the one you use more is often a little bigger. Ask: what else on your body comes as a mirror pair?"
+  },
+  {
+   "q": "People say 'A starfish is a fish.'",
+   "hint": "A starfish is not a fish. She has no bones, no fins and no gills like a fish, and she walks on hundreds of tiny tube feet. Scientists prefer to call her a sea star. Ask: why do you think people gave her a name with 'fish' in it?"
+  },
+  {
+   "q": "People say 'Bees measure their hexagons like clever builders.'",
+   "hint": "Bees build their cells from wax without any ruler, and the cells come out as hexagons. Scientists still argue about how. Some think the bees shape every wall. Others think the bees make round cells and the warm, soft wax pulls itself into hexagons. Ask: how could you find out which idea is right?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A crow",
+   "view": "A crow must fly straight to food and home. Her two wings match, so they push the air the same on both sides. When she grows new feathers, she loses one from each wing at about the same time, so the wings stay matched. Ask: what would happen if she lost three feathers from one wing only?"
+  },
+  {
+   "who": "A honeybee worker",
+   "view": "Her problem is to store honey for the hive with as little wax as she can, because wax costs her a lot of honey to make. Six-sided cells pack with no gaps. Ask: if a bee could talk, which shape would she say is the most useful?"
+  },
+  {
+   "who": "A woman who draws a kolam every morning",
+   "view": "She draws from memory, around a grid of dots, without a ruler. Many kolams are the same on both sides, or look the same when turned. The rice flour also feeds ants and birds. Ask: who else is the kolam for, besides the people in the house?"
+  },
+  {
+   "who": "A starfish",
+   "view": "She meets the world on every side. Food might come from any direction, and she can move in any direction. Ask: is having a front better, or is having no front better? Better for whom?"
+  }
+ ],
+ "books": [
+  {
+   "title": "Seeing Symmetry",
+   "author": "Loreen Leedy",
+   "for": "read together",
+   "age": "5–9",
+   "why": "Clear pictures of symmetry in letters, shapes, nature and art, with ideas to try at home."
+  },
+  {
+   "title": "Let's Fly a Kite",
+   "author": "Stuart J. Murphy, illustrated by Brian Floca",
+   "for": "read together",
+   "age": "5–8",
+   "why": "Two children who fight over everything learn to split things in half fairly, using lines of symmetry."
+  },
+  {
+   "title": "Snowflake Bentley",
+   "author": "Jacqueline Briggs Martin, illustrated by Mary Azarian",
+   "for": "read together",
+   "age": "5–9",
+   "why": "The true story of Wilson Bentley, the farmer who photographed snowflakes. Read it on Day 5."
+  }
+ ],
+ "story": {
+  "title": "Half a Kolam",
+  "text": [
+   "I am a crow. The people in the flats call me Kaaki. Every morning, when the sky over Chennai turns from grey to pink, I fly to the same railing on the second floor of a building near the lake. I come at the same time every day, because something happens at the same time every day. That is how a crow lives. I watch, I remember, and I know what comes next.",
+   "At the door by my railing lives a girl called Meenu. She is six. Every morning her Amma sits on the corridor floor outside their door with a small steel bowl of rice flour. She pinches the flour between her fingers and lets it fall in a thin white line. A flower grows on the floor. First come dots, then curls around the dots, then petals. Meenu sits beside her with her chin on her knees and watches. When the kolam is done, a few grains of flour always lie where the ants can find them, and one or two where I can.",
+   "I like that kolam. Its left side is just like its right side. A line of dots runs down the middle, and every curl on one side has a curl on the other side, turning the other way. I understand that kind of shape. I have two wings, one on each side, and they match. If they did not match, I would fly round in circles instead of straight to my railing.",
+   "\"Can I draw it, Amma?\" Meenu asks most mornings. Amma always lets her try one corner. Meenu's line goes wobbly. Her curl turns the wrong way. She rubs it out with her palm and frowns. \"My side never looks like your side,\" she says.",
+   "\"Look at my side first,\" says Amma. \"The other half is the same as this half, only flipped over. Like your two hands.\" Meenu looks at her two hands. She does not understand, and she says so.",
+   "Then one morning, in the rainy weeks of November, Amma's phone rings very early. Amma is a nurse. \"They need me at the hospital now,\" she says. She has drawn only half the kolam. One side of the flower lies on the floor, up to the line of dots in the middle. The other side is bare grey floor. Amma ties Meenu's hair, kisses her forehead and runs for the bus.",
+   "Appa comes out with his coffee tumbler. He looks down at the half flower. \"Oh no,\" he says. \"Your Amma's kolam is only half done. I don't know how to draw kolams. Shall we sweep it away?\"",
+   "\"No!\" says Meenu. She kneels down and stares at the half. I stare too, from my railing. I want to help, but a crow can only say kaa. So I say it, loudly, and I stretch out both my wings to shake off the rain.",
+   "That week I was growing new feathers. A crow does not lose her big wing feathers all at once. She loses them in pairs, one from each wing, so the two wings stay the same and she can still fly straight. Meenu looks up. She sees my two wings, each with one feather missing in the same place.",
+   "\"Kaaki,\" she says slowly, \"your wings are like Amma's kolam.\" Then she puts her two hands flat on the floor, thumbs touching at the line of dots. Her left hand lies on the half that Amma drew. Her right hand lies on the bare half. Her right hand is just like her left hand, only flipped. Meenu's eyes go wide.",
+   "She counts. On Amma's side, there are four dots from the middle to the edge. So she will need four dots on her side too, at the same distances. Amma's top petal curls up and to the left. So her top petal must curl up and to the right.",
+   "\"Appa,\" says Meenu, \"you put the dots. I will tell you where. Count with me.\" Appa puts down his tumbler. He kneels on the wet floor in his office trousers. \"One, two, three, four,\" says Meenu, and Appa presses a dot of flour at each count. Then Meenu takes the bowl and draws the curls herself. She keeps looking back at Amma's half, petal by petal, and flips each one in her head before she draws it.",
+   "It takes a long time. One petal comes out fatter than its partner. One curl has a little wobble. A neighbour steps carefully around them on the way to the lift and smiles.",
+   "In the evening Amma comes home tired, with her bag on her shoulder. The kolam is still there, a little smudged by footsteps. She stops at the door and looks at it for a long time.",
+   "\"Who finished it?\" she asks.",
+   "\"I did,\" says Meenu. \"Appa did the dots. I just looked at your half and flipped it.\"",
+   "Amma bends down and touches the fat petal with one finger. \"This one is bigger than mine,\" she says.",
+   "\"Yes,\" says Meenu.",
+   "\"Good,\" says Amma. \"Now I can tell which half is yours.\"",
+   "The next morning I came at the same time, as I always do. There was a whole kolam on the floor, and the two halves almost matched. And on my railing, someone had left a small pinch of rice, just for me."
+  ],
+  "epiphany": "For the parent: the turn comes when Meenu sees Kaaki's two matching wings, each missing a feather in the same place, and then lays her own two hands on the kolam. She understands Amma's words: the missing half is the drawn half, flipped. A symmetrical shape holds the plan for its own missing half. The crow also shows a pattern in time: she comes at the same time each day because the kolam is drawn at the same time each day. The fat petal shows that hand-made and living things are never exactly symmetrical.",
+  "ask": [
+   "How did Meenu know how to finish the kolam?",
+   "What did Kaaki's wings show Meenu?",
+   "Why did Meenu count the dots on Amma's side first?",
+   "Why do you think Amma was happy that one petal was fatter?",
+   "Why does Kaaki come at the same time every morning?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Symmetry means one half matches the other half.",
+   "more": "Fold a paint blot, cut a paper heart on a fold, or stand a mirror on half a picture. Each time, one half is the other half flipped. The fold or the mirror sits on the line of symmetry."
+  },
+  {
+   "idea": "A living body's shape helps them live.",
+   "more": "An ant, a crow and a child move head first, so they have two matching sides and go straight. A starfish meets food on every side, so her arms go all round her middle. A bee saves wax with six-sided cells."
+  },
+  {
+   "idea": "Living things are nearly symmetrical, never exactly.",
+   "more": "Fold a leaf and the halves almost meet. Look in a mirror and one eyebrow is a little higher. Each side of a body grows bit by bit, and each side grows a little differently."
+  },
+  {
+   "idea": "A pattern repeats, so you can guess what comes next.",
+   "more": "Clap, clap, stamp. Rajma, moong, rajma, moong. Day, night, day, night. Find the part that repeats, and you know what comes next."
+  }
+ ],
+ "unknowns": [
+  "Nobody knows for sure why most people like symmetrical faces and patterns. Some scientists think it is because the brain takes them in more easily. Others think symmetry is a sign of health, but the evidence for that is weak.",
+  "Scientists still argue about how bees make six-sided cells: whether the bees shape each wall, or the warm wax pulls itself into shape.",
+  "A baby starfish has two matching sides, like an ant. As she grows, her body changes to arms around a middle. Scientists are still working out how this change came about, long ago."
+ ],
+ "check": [
+  {
+   "q": "What does symmetry mean?",
+   "a": "One half of a shape matches the other half, like the two wings of a butterfly."
+  },
+  {
+   "q": "Where is the line of symmetry on a paper heart?",
+   "a": "Down the middle, along the fold."
+  },
+  {
+   "q": "Why did the paint butterfly come out the same on both sides?",
+   "a": "When we folded and pressed, each blob was copied onto the spot opposite it, on the other half."
+  },
+  {
+   "q": "Are your two hands the same? How do you know?",
+   "a": "They are a mirror pair. The handprints matched only after we flipped one over."
+  },
+  {
+   "q": "Why does an ant have three legs on each side?",
+   "a": "She walks head first. Both sides push the same, so she goes straight to food."
+  },
+  {
+   "q": "Is a leaf exactly the same on both sides?",
+   "a": "No. When we folded it, the halves nearly matched, but one side was a bit different."
+  },
+  {
+   "q": "Name something that looks the same when you turn it a little.",
+   "a": "A flower with five petals, a ceiling fan, the Ashoka Chakra or a starfish."
+  },
+  {
+   "q": "What comes next: clap, clap, stamp, clap, clap…?",
+   "a": "Stamp. The pattern repeats: clap, clap, stamp."
+  }
+ ]
+}

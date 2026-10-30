@@ -111,7 +111,7 @@ In the Namib Desert in Africa, it almost never rains. Many beetles there need wa
 ## Roots
 We have seen water leave a wet cloth, wait in the air and come back as drops. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** In the closed box, the wet cloth stayed wet for hours. Yet drops kept forming under the cold lid. So water was still leaving the cloth, and the same amount was landing back. A thing dries only when more water leaves it than lands back on it.  
+**Deep truth.** In the closed box, the wet cloth stayed wet for hours. Yet ice on the lid brought drops out of the box's air, so water had been leaving the cloth. It stayed wet because about as much water landed back on it. A thing dries only when more water leaves it than lands back on it.  
 *Habit it breaks:* We think of drying as a one-way trip, where water leaves and is gone. We also call a cloth simply 'wet' or 'dry'. But water leaves and lands back on every wet thing all the time. What we see is which of the two is bigger.  
 *Evidence:* In the Closed Box Test, the cloth in the closed box stayed wet while the cloth in the open box dried. Ice on the lid made drops form inside, so water vapour from the cloth filled the box. When the lid came off, the same cloth dried.
 
@@ -119,7 +119,7 @@ We have seen water leave a wet cloth, wait in the air and come back as drops. No
 - *what is life:* Every plant and animal loses water to the air and must take more in. A beetle in the Namib Desert drinks the fog that condenses on their back.
 - *what is this world:* The air around you always holds water you cannot see. Every puddle, sea and leaf is giving water to the air and taking some back.
 
-A glass of water on a table looks completely still. Yet every moment, countless particles leave its surface and countless others land back. When the two are equal, they add up to zero change, and nothing seems to happen. A little warmth or a breeze tips the balance, and the water leaves for the sky. It comes back somewhere else as dew or rain. One water, always moving, shows up as puddles, clouds, breath and drops under a lid.
+A glass of water on a table looks completely still. Yet every moment, some water particles leave its surface and others land back. When the two are equal, the water level does not change. A little warmth or a breeze makes more leave than land, and the glass slowly empties. That water is not lost. It comes back down somewhere else as dew or rain.
 
 - **Tirukkural 17, in the chapter on the excellence of rain:** Even the wide sea will lose its richness if the clouds take up its water and do not give it back as rain. (The sea stays full because water that evaporates from it comes back as rain. Tiruvalluvar saw that the taking and the giving back must both go on, like the leaving and landing back in the closed box.)
 - **Bhagavad Gita 2.16:** What is not real never comes to be. What is real never stops being. (The Gita says this about the true self. Science found something like it for water. A puddle seems to vanish into nothing, but its water still exists as vapour, and comes back when it is cooled.)

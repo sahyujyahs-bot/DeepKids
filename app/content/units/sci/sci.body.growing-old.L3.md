@@ -44,7 +44,7 @@ Nobody skips a stage. Everybody you know is in one of them right now. The stages
 ### A baby's body is different · *defined*
 **Definition:** A baby's body is not a small adult body. It has different proportions, softer bones and it grows faster than at any other time of life.
 
-A newborn is about 50 centimetres long. By its first birthday it is about 75 centimetres. That is the fastest growing a person ever does. A baby's head is about one quarter of their whole length. In an adult, the head is only about one eighth. A baby's skull has soft spots, where the bones have not joined yet. This lets the skull grow with the brain. A baby is born with about 300 bones and soft parts that will become bone. Many of them join together as the child grows. An adult has 206 bones.
+A newborn is about 50 centimetres long. By their first birthday it is about 75 centimetres. That is the fastest growing a person ever does. A baby's head is about one quarter of their whole length. In an adult, the head is only about one eighth. A baby's skull has soft spots, where the bones have not joined yet. This lets the skull grow with the brain. A baby is born with about 300 bones and soft parts that will become bone. Many of them join together as the child grows. An adult has 206 bones.
 - e.g. A baby's legs are short compared to their body. In an adult, the legs are about half of the whole height.
 - e.g. Baby teeth are already hiding inside a baby's gums at birth.
 - e.g. A newborn's soft spot on top of the head closes by about age two.
@@ -81,7 +81,7 @@ Inside your skin are stretchy threads called collagen and elastin. They work lik
 
 To see something close, a tiny muscle lets the lens in your eye get fatter and rounder. Then the close thing looks sharp. A child's lens is soft, like jelly, and changes shape easily. The lens never throws away old cells. All through life it adds new layers around the old ones, so it gets thicker and stiffer every year. By about age 45, most people cannot see small print sharply at a normal reading distance. So they hold the newspaper further away. Reading glasses do the extra focusing for them. Far-away things usually still look sharp. Doctors call this change presbyopia, from a Greek word for an old man.
 - e.g. A child can read a book held 10 centimetres from the nose.
-- e.g. A grandfather may hold his phone at arm's length to read a message.
+- e.g. A grandmother may hold her phone at arm's length to read a message.
 - e.g. Reading glasses are often sold at chemist shops in steps like +1, +2 and +3.
 ### Ears, bones, muscles and joints · *defined*
 **Definition:** As years pass, ears hear high sounds less well, bones get thinner, muscles get smaller and joints get stiffer. Using the body slows these changes down.
@@ -211,60 +211,60 @@ A body is always being taken apart and built again. Food brings in new atoms, an
 - *big:* Why do we feel sad when someone we love dies? What does the sadness tell us? (hint: We do not miss people we never cared about.)
 
 ## Story: The Needle Who Knew Two Hands
-*Chikankari, the white-thread embroidery of Lucknow, is real, and so are the lanes of Chowk where it is sewn. Rahmat Chacha, Zoya and the needle are made up.*
+*Chikankari, the white-thread embroidery of Lucknow, is real, and so are the lanes of Chowk where it is sewn. Rehana Khala, Zubair and the needle are made up.*
 
-I am a needle. I am thin and silver, as long as your little finger. I have lived for sixty years in the cap of Rahmat Chacha, in a narrow lane in the old part of Lucknow.
+I am a needle. I am thin and silver, as long as your little finger. I have lived for sixty years in the cloth pincushion of Rehana Khala, in a narrow lane in the old part of Lucknow.
 
-When Rahmat first held me, he was eight years old. His fingers were small and quick. His eyes were sharp as a sparrow's. He held the cloth so close to his face that his nose almost touched it. He threaded me in one try, every time, and laughed at the grown-ups who squinted.
+When Rehana first held me, she was eight years old. Her fingers were small and quick. Her eyes were sharp as a sparrow's. She held the cloth so close to her face that her nose almost touched it. She threaded me in one try, every time, and laughed at the grown-ups who squinted.
 
-His teacher was an old woman called Bano Apa. She held the cloth far away, at the end of her long arms. 'My arms have grown too short,' she used to say. Rahmat thought it was a joke. He did not understand it. Not then.
+Her teacher was an old woman called Bano Apa. She held the cloth far away, at the end of her long arms. 'My arms have grown too short,' she used to say. Rehana thought it was a joke. She did not understand it. Not then.
 
-Rahmat grew. His voice cracked and dropped. He grew tall. His fingers got long and strong. Together we made a hundred kurtas, then a thousand. We made white flowers on white cloth, so fine that you had to tilt it to the light to see them. That is chikankari. It is a slow, patient kind of sewing.
+Rehana grew. She grew tall, and her plaits grew long. Her fingers got long and strong. Together we made a hundred kurtas, then a thousand. We made white flowers on white cloth, so fine that you had to tilt it to the light to see them. That is chikankari. It is a slow, patient kind of sewing.
 
-The years went by like threads through cloth. His black hair turned to salt and pepper, then to salt. Little lines grew at the corners of his eyes, in the places where he smiled. And slowly, so slowly that he did not notice at first, he began to hold the cloth further away.
+The years went by like threads through cloth. Her black hair turned to salt and pepper, then to salt. Little lines grew at the corners of her eyes, in the places where she smiled. And slowly, so slowly that she did not notice at first, she began to hold the cloth further away.
 
-One morning, he held me up to the window. He licked the end of the thread. He poked at my eye. He missed. He tried again. He missed again. My eye is the tiny hole at my top, and it had not changed at all. It was his eyes that had changed.
+One morning, she held me up to the window. She licked the end of the thread. She poked at my eye. She missed. She tried again. She missed again. My eye is the tiny hole at my top, and it had not changed at all. It was her eyes that had changed.
 
-'My arms have grown too short,' he said, and this time he did not laugh.
+'My arms have grown too short,' she said, and this time she did not laugh.
 
-That was the year Zoya came. She was eight, and she lived two doors down. After school she sat on his step, swinging her legs, and watched. One day he held me out to her. 'Can you?' he asked. She held me close to her nose, the way he once had, and threaded me in one try.
+That was the year Zubair came. He was eight, and he lived two doors down. After school he sat on her step, swinging his legs, and watched. One day she held me out to him. 'Can you?' she asked. He held me close to his nose, the way she once had, and threaded me in one try.
 
-After that she came every day. She threaded six needles for him, one after another, and stuck them in his cap like little flags. In return, he taught her stitches. The shadow stitch. The tiny knot called phanda, round as a mustard seed.
+After that he came every day. He threaded six needles for her, one after another, and stuck them in her pincushion like little flags. In return, she taught him stitches. The shadow stitch. The tiny knot called phanda, round as a mustard seed.
 
-'Why can't you see the hole any more?' she asked him once.
+'Why can't you see the hole any more?' he asked her once.
 
-Rahmat tapped the corner of his eye. 'There is a little window in here,' he said, 'that bends to look at near things. When you are young, it is soft, like jelly. Mine has gone stiff, like an old rubber band. Far away, I see the kites over the river. Near, everything is fog.'
+Rehana tapped the corner of her eye. 'There is a little window in here,' she said, 'that bends to look at near things. When you are young, it is soft, like jelly. Mine has gone stiff, like an old rubber band. Far away, I see the kites over the river. Near, everything is fog.'
 
-Zoya looked at her own hands. 'Will mine go stiff too?'
+Zubair looked at his own hands. 'Will mine go stiff too?'
 
-'If you are lucky,' he said, 'and live long enough.'
+'If you are lucky,' she said, 'and live long enough.'
 
-Then came the night of the wedding dupatta. It was the hottest week of the summer. A bride's family had ordered a long white dupatta, covered in flowers, for the morning. There were still three flowers to finish. Zoya had threaded a whole row of needles and was sitting with Rahmat by the lamp.
+Then came the night of the wedding dupatta. It was the hottest week of the summer. A bride's family had ordered a long white dupatta, covered in flowers, for the morning. There were still three flowers to finish. Zubair had threaded a whole row of needles and was sitting with Rehana by the lamp.
 
-Then the lights went out. The fan creaked to a stop. The whole lane went black. Somewhere a dog barked. Zoya's mother called from the next house that the power would not be back till morning.
+Then the lights went out. The fan creaked to a stop. The whole lane went black. Somewhere a dog barked. Zubair's mother called from the next house that the power would not be back till morning.
 
-Zoya held the cloth up to her face. She could see nothing at all. Not the flowers. Not the cloth. Not me. 'It's ruined,' she whispered. 'We can't see.'
+Zubair held the cloth up to his face. He could see nothing at all. Not the flowers. Not the cloth. Not me. 'It's ruined,' he whispered. 'We can't see.'
 
-In the dark, Rahmat laughed. It was a soft, surprised laugh. 'Now,' he said, 'we have the same eyes.'
+In the dark, Rehana laughed. It was a soft, surprised laugh. 'Now,' she said, 'we have the same eyes.'
 
-He took the cloth from her. He did not hold it near, and he did not hold it far. He laid it on his knee and closed his eyes. His fingertips moved across it like an ant across a leaf. They found the edge of the last flower. They counted the threads, one, two, three. Then I felt his hand pick me up and push me through, exactly where I needed to go.
+She took the cloth from him. She did not hold it near, and she did not hold it far. She laid it on her knee and closed her eyes. Her fingertips moved across it like an ant across a leaf. They found the edge of the last flower. They counted the threads, one, two, three. Then I felt her hand pick me up and push me through, exactly where I needed to go.
 
-For sixty years his eyes had been changing. But all that time his fingers had been learning. They had sewn so many flowers that they could feel where the next stitch belonged. His eyes had grown older. His hands had grown wiser.
+For sixty years her eyes had been changing. But all that time her fingers had been learning. They had sewn so many flowers that they could feel where the next stitch belonged. Her eyes had grown older. Her hands had grown wiser.
 
-'Give me your hand,' he said to Zoya. He put her fingers on the cloth and his own fingers over hers. 'Feel the bump? That is the last knot. Now one thread over. There.' He guided her hand. Together they made one phanda, then another, in the dark.
+'Give me your hand,' she said to Zubair. She put his fingers on the cloth and her own fingers over his. 'Feel the bump? That is the last knot. Now one thread over. There.' She guided his hand. Together they made one phanda, then another, in the dark.
 
 They sewed like that all night, two hands on one needle. A small soft hand, and a big wrinkled one. I could not tell where one ended and the other began.
 
-When the sky over the river turned grey, the lights flickered back on. Zoya blinked at the cloth. All three flowers were done. Some of the knots were tiny and perfect. A few were a little lumpy. Those were hers. Rahmat said those were his favourites.
+When the sky over the river turned grey, the lights flickered back on. Zubair blinked at the cloth. All three flowers were done. Some of the knots were tiny and perfect. A few were a little lumpy. Those were his. Rehana said those were her favourites.
 
-I am still a needle. I have been held by a boy who became an old man. Now I am held by a girl who will one day be an old woman. Some days, when she is sewing on his step, I think it is only one hand that holds me. It is just very long, and it reaches all the way across the years.
+I am still a needle. I have been held by a girl who became an old woman. Now I am held by a boy who will one day be an old man. Some days, when he is sewing on her step, I think it is only one hand that holds me. It is just very long, and it reaches all the way across the years.
 
-**For the parent:** For the parent: Rahmat cannot thread the needle because the lens in his eye has stiffened with age. This is presbyopia, and nearly everyone gets it by their mid-forties. The lens never sheds old cells. It keeps adding layers, so it gets thicker and stiffer. Zoya's young lens is soft, so she sees near things sharply. But ageing is not only losing things. While his lens stiffened, his hands were learning, and sixty years of practice let him sew by touch. In the dark, eyes stop mattering and the old man's skill becomes the key.
+**For the parent:** For the parent: Rehana cannot thread the needle because the lens in her eye has stiffened with age. This is presbyopia, and nearly everyone gets it by their mid-forties. The lens never sheds old cells. It keeps adding layers, so it gets thicker and stiffer. Zubair's young lens is soft, so he sees near things sharply. But ageing is not only losing things. While her lens stiffened, her hands were learning, and sixty years of practice let her sew by touch. In the dark, eyes stop mattering and the old woman's skill becomes the key.
 
-- Ask: In the story, why could Rahmat Chacha not thread the needle any more? Was something wrong with the needle?
-- Ask: Why could Zoya thread it in one try?
-- Ask: When the lights went out, why did Rahmat say they now had 'the same eyes'?
-- Ask: What had Rahmat's hands been learning while his eyes were getting older?
+- Ask: In the story, why could Rehana Khala not thread the needle any more? Was something wrong with the needle?
+- Ask: Why could Zubair thread it in one try?
+- Ask: When the lights went out, why did Rehana say they now had 'the same eyes'?
+- Ask: What had Rehana's hands been learning while her eyes were getting older?
 - Ask: At the end, the needle says it feels held by 'one hand' that reaches across the years. What do you think it means?
 
 ## Games
@@ -371,7 +371,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
   *Parent does:* Ask your child to say or write three sentences: what I think, what I saw, why.  
   *Parent says:* Now tell me three things. What do you think now? What did you see? Why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: older people need to hold small print further away. What I saw: I could read at 8 centimetres, but Thatha needed 60 centimetres. Why: the lens in his eye has got stiff, so it cannot focus up close.
+  - Note: A good answer sounds like this. What I think: older people need to hold small print further away. What I saw: I could read at 8 centimetres, but Paati needed 60 centimetres. Why: the lens in her eye has got stiff, so it cannot focus up close.
 ### e3 · The High Sound Test (20 min)
 - **question:** Can younger people hear higher sounds than older people?
 - **predict:** Before you start, guess. Who will hear the highest sound? Will anyone hear sounds the others cannot? Why do you think so?
@@ -561,115 +561,120 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
 
 ## Worksheets
 ### The Stages of a Life (core) (core, 16 questions)
-1. (order) Put these life stages in order, from first to last: adult, baby, older adult, teenager, child.  
-   **Answer:** order shown. *Why:* Every person goes through the stages in this order. Nobody skips one, and nobody goes backwards.
-2. (mcq) When does a person grow fastest?  
-   Options: In the first year of life / At age 30 / In old age / Everyone grows at the same speed all life  
-   **Answer:** In the first year of life. *Why:* A baby grows from about 50 to about 75 centimetres in their first year. That is faster than any other time. Picking 'the same speed' usually means growth has been pictured as steady, but it comes in fast and slow times.
-3. (fill) A baby in their first year of life is called an ____.  
-   **Answer:** ['infant']. *Why:* An infant is a baby in their first year.
-4. (truefalse) A baby's head is bigger compared to their body than an adult's head is.  
-   **Answer:** True. *Why:* True. A baby's head is about one quarter of their length. An adult's head is only about one eighth.
-5. (mcq) Why does hair turn grey or white?  
-   Options: The cells at the hair root stop making colour / Hair gets dusty with age / The sun bleaches the hair inside the head / Old hair changes colour overnight  
-   **Answer:** The cells at the hair root stop making colour. *Why:* Pigment cells at the root put colour into each new hair. As they run out, new hair grows white. Picking 'overnight' is a common story, but hair that has already grown cannot change colour.
-6. (mcq) Why does older skin get wrinkles?  
-   Options: It has fewer springy threads, and gets thinner and drier / It gets thicker every year / It is full of water / Wrinkles come from washing too much  
-   **Answer:** It has fewer springy threads, and gets thinner and drier. *Why:* Skin has springy threads called collagen and elastin. The body makes fewer of them as we age, so skin folds instead of bouncing back. Picking 'thicker' is the opposite of what happens.
-7. (fill) The clear, bendy part inside the eye that helps us focus is called the ____.  
-   **Answer:** ['lens']. *Why:* The lens changes shape to focus on near or far things.
-8. (truefalse) Most people need reading glasses by about age 45, because the lens in the eye gets stiffer.  
-   **Answer:** True. *Why:* True. A stiffer lens cannot focus on close things, so small print looks blurry.
-9. (match) Match each life stage to something that often happens in it.  
+1. (order) Put these people in order of their life stage, from the earliest stage to the latest: Paati, who is 72. Baby Nila, who is 6 months old. Arjun, who is 15. Kavya, who is 8. Amma, who is 38.  
+   **Answer:** order shown. *Why:* Every person goes through the same stages in the same order: baby, child, teenager, adult, older adult. Nobody skips one. A strong answer also names the stage of each person.
+2. (mcq) Kavya is 8. She thinks children her age grow faster than anyone. A baby grows from about 50 cm to about 75 cm in their first year. An 8-year-old grows about 6 cm in a year. Who grows fastest?  
+   Options: The baby, by about 25 cm in one year / Kavya, because she is older and bigger / They grow at the same speed / Nobody grows after they are born  
+   **Answer:** The baby, by about 25 cm in one year. *Why:* 75 take away 50 is 25 cm in one year. That is about four times what an 8-year-old grows. The first year is the fastest growing of a whole life. Kavya's guess is a common one, because children can see themselves growing out of clothes.
+3. (mcq) A baby's head is about one quarter of their length. A grown-up's head is only about one eighth. What does this tell you?  
+   Options: After birth, the arms, legs and body grow much more than the head / A grown-up's head shrinks / Babies have bigger heads than grown-ups / Heads stop growing at birth  
+   **Answer:** After birth, the arms, legs and body grow much more than the head. *Why:* The head is already big at birth, because the brain grows early. Then the legs and body do most of the growing. So the head becomes a smaller part of the whole. A grown-up's head is still bigger than a baby's, so 'bigger heads' is wrong.
+4. (mcq) Lakshmi Paati's hair has turned grey. Her granddaughter Meenakshi says, 'Paati's black hairs turned white.' What really happened?  
+   Options: Her black hairs stayed black. The cells at the roots stopped making colour, so new hairs grew in white. / Her black hairs slowly turned white from the tip down / Dust collected on her hair / The sun bleached every hair  
+   **Answer:** Her black hairs stayed black. The cells at the roots stopped making colour, so new hairs grew in white.. *Why:* A hair that has already grown cannot change colour. Pigment cells at the root put colour into each new hair. As they run out, new hairs grow white. White hairs mixed with dark ones look grey from far away.
+5. (write) Think of your snap-back skin test, where you gently pinched the back of a hand. Whose skin took longest to go flat? Use the springy threads inside skin to explain why.  
+   **Answer:** For example: Paati's skin took about 3 seconds. Mine went flat in less than 1 second. Skin has springy threads called collagen and elastin. Older skin has fewer of them, so it springs back more slowly.. *Why:* A strong answer uses the child's own numbers, puts the people in order of age, and explains the result with the springy threads, not with 'old skin is tired'.
+6. (fill) The clear, bendy part inside your eye changes shape to make close things look sharp. It is called the ____.  
+   **Answer:** ['lens', 'eye lens']. *Why:* The lens gets fatter and rounder to focus on near things. A child's lens is soft like jelly. An older lens is stiffer.
+7. (mcq) Before the near point test, Divya made a guess. She thought her mother, who is 46, would read the tiny card closer than Divya could. 'Grown-ups read more, so their eyes are better at it,' she said. What did the test most likely show?  
+   Options: Divya read it closer. Her mother had to hold it further away, because her lens is stiffer. / Her mother read it closer, because she reads more / They both read it at exactly the same distance / Neither could read it at all  
+   **Answer:** Divya read it closer. Her mother had to hold it further away, because her lens is stiffer.. *Why:* Reading a lot does not keep the lens soft. The lens adds new layers all through life and gets stiffer. By about 45, most people must hold small print further away. A strong reason uses the lens, not practice.
+8. (match) Match each life stage to something that often happens in it.  
    **Answer:** Baby → learns to walk; Child → milk teeth fall out; Teenager → growth spurt; Adult → bones at their strongest; Older adult → hair turns white. *Why:* Each stage has its own changes. Babies learn to walk, children lose milk teeth, teenagers grow fast, adults are strongest, and elders' hair often turns white.
-10. (sort) Sort these. Do they usually get HARDER or can they get BETTER with age?  
+9. (sort) Sort these. Do they usually get HARDER with age, or can they get BETTER?  
    **Answer:** reading tiny print → Often gets harder; knowing many words → Can get better; hearing very high sounds → Often gets harder; telling family stories → Can get better; running fast → Often gets harder; knowing what to do in a crisis → Can get better. *Why:* Bodies slow down with age, but knowledge, words and experience can keep growing all life.
-11. (write) Remember the snap-back skin test, where you gently pinched the back of a hand? Write what happened to an older person's skin compared to yours.  
-   **Answer:** The older person's skin took longer to go flat. Mine went flat in less than 1 second. Theirs took about 3 seconds. Older skin has fewer springy threads.. *Why:* Older skin has less collagen and elastin, so it springs back more slowly.
-12. (mcq) Your body makes millions of new cells every second. Which part is NOT replaced during your life?  
+10. (mcq) Your body makes millions of new cells every second. Which part is NOT replaced during your life?  
    Options: The outer layer of skin / Red blood cells / The cells in the middle of the eye lens / The lining of the gut  
-   **Answer:** The cells in the middle of the eye lens. *Why:* The cells in the middle of your eye lens were made before you were born and stay all your life. Skin, blood and gut lining are replaced again and again. Picking 'skin' usually means it has been pictured as fixed, but outer skin is replaced about every month.
-13. (truefalse) Muscles cannot get stronger after age 60.  
-   **Answer:** False. *Why:* False. In 1990, people aged about 90 got much stronger muscles after eight weeks of strength exercise. Muscles respond to exercise at any age.
-14. (draw) Draw the same person at three ages: 5, 35 and 75. Show at least three body changes.  
-   **Answer:** A small child with a big head and milk teeth, a tall adult, and an older person with grey hair, some wrinkles and reading glasses.. *Why:* Bodies change in size, proportion, hair, skin and eyes over a lifetime.
-15. (write) Name two ways you could help an elder in your home or neighbourhood.  
-   **Answer:** I could carry their bag. I could read small print for them. I could put a rubber mat in the bathroom.. *Why:* Good help fits the changes in older bodies: eyes, grip, balance and bones. Always ask first if they want help.
-16. (fill) When a living thing's body stops working for good, we say they have ____. It is the last stage of every life cycle.  
-   **Answer:** ['died']. *Why:* Death is the last stage of every life cycle, for plants, animals and people.
-### Bodies Through the Years (stretch) (stretch, 15 questions)
-1. (mcq) Remember the near point test, where people brought tiny print closer until it blurred? A child read it at 8 cm and a grandfather at 60 cm. What does this show?  
-   Options: The eye lens gets stiffer with age / Grandfathers have longer arms / Children's eyes are bigger / The print was different  
-   **Answer:** The eye lens gets stiffer with age. *Why:* In a fair test everyone used the same card. The grandfather's stiffer lens cannot focus up close. Picking 'longer arms' is the joke elders make, but arm length is not the cause.
-2. (mcq) In the high sound test, who is most likely to hear a sound of 15,000 hertz?  
-   Options: A child of 8 / A grandmother of 70 / Everyone hears it the same / Nobody can ever hear it  
-   **Answer:** A child of 8. *Why:* Hair cells for very high sounds wear out first with age, so young ears hear the highest sounds. Picking 'the same' means hearing has been pictured as fixed.
-3. (truefalse) Every cell in your body is replaced exactly every seven years.  
-   **Answer:** False. *Why:* False. There is no seven-year rule. Gut cells are replaced in days, skin in about a month, and some brain and eye lens cells never.
-4. (fill) A red blood cell lives for about ____ months.  
-   **Answer:** ['4', 'four']. *Why:* Red blood cells last about 120 days, which is about four months.
-5. (mcq) In 1951, life expectancy in India was about 32 years. Why was it so low?  
-   Options: Many babies and children died of illnesses, which pulled the average down / Everyone was old at 32 / People were shorter then / Nobody had birthdays  
-   **Answer:** Many babies and children died of illnesses, which pulled the average down. *Why:* An average counts every life, including the many babies who died of illnesses like cholera. Picking 'everyone was old at 32' is a common mistake. Many people then lived to 60 or 70.
-6. (match) Match the scientist to the discovery.  
-   **Answer:** Elizabeth Blackburn and Carol Greider → found telomerase, which rebuilds the caps on genes; Leonard Hayflick and Paul Moorhead → found cells in a dish stop splitting after 40 to 60 times; Kristen Hawkes → the grandmother idea; Cynthia Kenyon → made worms live twice as long by changing one gene. *Why:* These scientists each helped us understand ageing. Blackburn, Greider and Kenyon are among the women who led this science.
-7. (mcq) Why do many elders walk carefully on wet floors?  
-   Options: Bones get thinner with age, so a fall can break one / Elders' feet are too small / Elders cannot walk fast at all / Wet floors are only slippery for elders  
-   **Answer:** Bones get thinner with age, so a fall can break one. *Why:* Bones lose some hard minerals with age and can break in a fall. Picking 'cannot walk fast at all' is a belief about elders that is often wrong.
-8. (write) Give one thing that gets harder with age, and one thing that can get better. Explain each.  
-   **Answer:** Reading tiny print gets harder, because the eye lens gets stiffer. Knowing words can get better, because we keep learning new words all our lives.. *Why:* Ageing is not only losing. Some abilities slow down, but knowledge and experience can keep growing.
-9. (sort) Sort these by how often the body replaces them.  
+   **Answer:** The cells in the middle of the eye lens. *Why:* The cells in the middle of your eye lens were made before you were born, and they stay all your life. Skin, blood and gut lining are replaced again and again. Picking 'skin' usually means it has been pictured as fixed, but the outer skin is replaced about every month.
+11. (truefalse) Muscles cannot get stronger after age 60.  
+   **Answer:** False. *Why:* False. Many people believe this. But in 1990, people aged about 90 got much stronger in eight weeks of strength exercise. Muscles respond to exercise at any age.
+12. (truefalse) Grown-ups stop getting taller because they stop eating as much as children.  
+   **Answer:** False. *Why:* False. Bones grow longer at their ends, in places called growth plates. In the late teens the growth plates close and turn to solid bone. After that, no amount of food makes a person taller.
+13. (draw) Draw the same person at three ages: 5, 35 and 75. Show and label at least three body changes.  
+   **Answer:** A small child with a big head and milk teeth. A tall adult. An older person with grey hair, some wrinkles and reading glasses.. *Why:* A strong drawing shows changes in size, in how big the head is compared to the body, and in hair, skin and eyes, each one labelled.
+14. (write) Your Paati's knees are stiff, and small print looks blurry to her. Name two ways you could help her at home. For each one, say which body change it helps with.  
+   **Answer:** For example: I can read the small print on medicine boxes for her, because her eye lens is stiff. I can put a rubber mat in the bathroom, because stiff knees and thinner bones make a fall dangerous. I ask her first if she wants the help.. *Why:* A strong answer links each kind of help to a real body change, and remembers to ask first. Elders are capable people.
+15. (perspective) Three people talk about growing old. Is it mostly losing things, or mostly gaining things?  
+   **Answer:** A strong answer picks a side and backs it with evidence, such as the near point test, the skin test, or the fact that people keep learning words into their seventies. It then admits a fair point from another side.. *Why:* Ageing really has both sides. Some things get harder, like reading tiny print. Some can get better, like knowledge and experience. There is no single right answer.
+16. (fill) The last stage of every life cycle, for plants, animals and people, is ____.  
+   **Answer:** ['death', 'dying']. *Why:* Every living being is born, grows, and one day dies. It is a natural part of every life cycle. It is fine to feel sad about it.
+### Bodies Through the Years (stretch) (stretch, 16 questions)
+1. (mcq) In the near point test, Revathi, aged 9, read the card at 8 cm. Her mother, aged 38, read it at 15 cm. Her grandmother, aged 68, needed 60 cm. What pattern do you see?  
+   Options: The older the person, the further away they must hold small print / Mothers always read closest / Distance has nothing to do with age / The card was held differently for each person  
+   **Answer:** The older the person, the further away they must hold small print. *Why:* The closest sharp distance moved further away with each older person. The lens adds layers and gets stiffer all through life. In a fair test everyone used the same card, so the card was not the cause.
+2. (write) Revathi's teacher is 25 years old. She did the same near point test. Where do you predict her result fits among Revathi's family: 8 cm at 9, 15 cm at 38, 60 cm at 68? Explain your guess.  
+   **Answer:** For example: about 10 to 12 cm, between Revathi and her mother. The teacher is older than Revathi, so her lens is a bit stiffer. But she is younger than the mother, so it is softer than hers.. *Why:* A strong answer uses the pattern to place the new person in order of age, and gives the lens as the reason. Any guess between 8 and 15 cm with that reason is good.
+3. (mcq) In the high sound test, Anjali, aged 8, heard the 15,000 hertz beep. Her Thatha, aged 70, heard only up to 8,000. Anjali said, 'Thatha wasn't listening properly.' What is a better explanation?  
+   Options: The hair cells for very high sounds wear out first with age / Thatha's ears are blocked with wax / High sounds are too quiet for everyone / Thatha was sitting too close  
+   **Answer:** The hair cells for very high sounds wear out first with age. *Why:* Deep inside the ear, tiny hair cells pick up sounds. The ones for the highest sounds wear out first. So most older people stop hearing very high beeps, even when they listen hard.
+4. (write) In the high sound test, everyone hears the beeps from the same speaker, at the same volume and distance. Why does that matter? What could go wrong if Thatha sat further away than Anjali?  
+   **Answer:** Only age should be different, so we know age caused the result. If Thatha sat further away, the beep would be quieter for him. Then we could not tell if he missed it because of his age or because of the distance.. *Why:* A strong answer says that a fair test changes only one thing, and names how sitting further away would mix up the result.
+5. (truefalse) Every cell in your body is replaced exactly every seven years.  
+   **Answer:** False. *Why:* False. This is a popular saying, but there is no seven-year rule. Gut cells are replaced in days, and outer skin in about a month. Most brain cells and the cells in the middle of the eye lens are never replaced.
+6. (sort) Remember the Sticky-Note Body, where you swapped paper 'cells' on a body outline? Sort these by how often the body replaces them.  
    **Answer:** gut lining → Every few days or weeks; outer skin → Every few days or weeks; red blood cells → Every few months or years; bones → Every few months or years; middle of the eye lens → Never, they stay all life; most brain cells → Never, they stay all life. *Why:* Different parts of the body renew at very different speeds. So you are partly new and partly as old as you are.
-10. (mcq) What is the longest human lifespan that has been checked with proper records?  
-   Options: 122 years / 200 years / 90 years / 1,000 years  
-   **Answer:** 122 years. *Why:* Jeanne Calment of France lived 122 years, from 1875 to 1997. Stories of people living 200 years or more have no proper records.
-11. (truefalse) A hair that has already grown can turn white overnight from a shock.  
-   **Answer:** False. *Why:* False. A hair that has grown cannot change colour. Stress may make new hairs grow in grey sooner, which scientists are still studying.
-12. (write) Why do scientists ask everyone to use the same card in the near point test?  
-   **Answer:** So that only the person's age changes. If the print were bigger for some people, the test would not be fair.. *Why:* A fair test changes only one thing at a time.
-13. (mcq) What is the 'grandmother idea'?  
-   Options: Grandmothers who helped feed grandchildren helped humans evolve longer lives / Grandmothers never get old / Only grandmothers have grey hair / Grandmothers invented cooking  
-   **Answer:** Grandmothers who helped feed grandchildren helped humans evolve longer lives. *Why:* Kristen Hawkes and her team suggested in 1998 that grandmothers' help let more children survive. It is debated, and other scientists suggest other reasons.
-14. (fill) The closest distance at which you can still see something sharply is called your near ____.  
-   **Answer:** ['point']. *Why:* The near point moves further away as the eye lens stiffens with age.
-15. (draw) Draw an eye from the side with a soft, round lens for a child and a flatter, stiffer lens for an elder. Show a book close to each eye. Is it sharp or blurry?  
-   **Answer:** The child's round lens makes the close book sharp. The elder's stiff lens makes the close book blurry.. *Why:* A soft lens can bulge to focus on near things. A stiff one cannot.
-### The Big Questions of Ageing (challenge) (challenge, 15 questions)
-1. (write) Your body makes about 4 million new cells every second. Is it still the same body as last year? Give reasons for your answer.  
-   **Answer:** Any thoughtful answer. For example: Much of it is new, because skin, blood and gut cells have been replaced. But some cells, like brain and eye lens cells, are the same. And the pattern of my body, and my memories, carry on. So it is the same body, but rebuilt.. *Why:* This is a real puzzle that thinkers have argued about for thousands of years. Good answers use the facts about cell renewal.
-2. (mcq) Scientists argue about why bodies age. Which of these is NOT one of their main ideas?  
-   Options: Bodies age because birthdays make them older / Small damage builds up faster than it is repaired / The caps on the ends of genes get shorter / Nature mostly shapes how bodies work while young  
-   **Answer:** Bodies age because birthdays make them older. *Why:* Birthdays only count the years. They do not cause ageing. The other three are real scientific ideas, and many scientists think more than one is true.
-3. (write) A mouse lives about 2 years. A human lives about 80. Their cells are very alike. Suggest one reason for the difference.  
-   **Answer:** Their genes may set a different timetable. Or a mouse is eaten by cats and owls so young that nature never shaped them to live long. Humans are protected and cared for, so long life helped.. *Why:* This is an open question. Scientists point to genes, size, and how dangerous an animal's life is.
-4. (mcq) Killer whale grandmothers often lead their families to salmon. Which idea does this support?  
-   Options: Elders can help their families survive / Old animals are always weaker / Whales do not age / Salmon prefer grandmothers  
-   **Answer:** Elders can help their families survive. *Why:* Grandmother killer whales remember where food is, especially in hard years. This supports the idea that long life after having babies can help a family.
-5. (write) Some scientists say ageing is an illness that may one day be cured. Others disagree. What do you think? Give one reason.  
-   **Answer:** Any reasoned answer. For example: I think we can slow it, because scientists made worms live twice as long. Or: I think it cannot be cured, because ageing is many changes at once.. *Why:* This is debated. A good answer gives a reason and uses evidence.
-6. (truefalse) Life expectancy of 32 years in 1951 means most people in India died at 32.  
-   **Answer:** False. *Why:* False. An average includes the many babies who died very young. Many people who survived childhood lived into their sixties and seventies.
-7. (mcq) Telomeres are caps on the ends of the threads that hold your genes. They are often compared to what?  
-   Options: The plastic tips on shoelaces / Bottle tops / Hats / Batteries  
-   **Answer:** The plastic tips on shoelaces. *Why:* Like a shoelace tip stops fraying, a telomere protects the end of the gene thread. In many cells it gets shorter each time the cell splits.
-8. (write) Remember the snap-back skin test? The results can change if someone has drunk very little water. How would you make the test fairer?  
-   **Answer:** Ask everyone to drink a glass of water an hour before. Test everyone at the same time of day.. *Why:* Good scientists look for other things that could change the result, and keep them the same.
-9. (write) When a body dies, its atoms go back into soil, water and air. Where might they go next?  
-   **Answer:** Into a plant, which a cow or a person might eat. Into a tree. Into a river. Into a new living thing.. *Why:* Atoms are never lost. They move through the soil, plants and animals again and again.
-10. (mcq) Grandma's outer skin was made in the last few weeks. The middle of her eye lens was made before she was born. What does this show?  
+7. (mcq) In 1951, a baby born in India could expect to live about 32 years on average. Why was the number so low?  
+   Options: Many babies and children died of illnesses, which pulled the average down / Everyone was old by 32 / People were shorter then / People did not count birthdays then  
+   **Answer:** Many babies and children died of illnesses, which pulled the average down. *Why:* An average counts every life, including the many babies who died of illnesses like cholera and measles. Many people who lived through childhood reached 60 or 70. 'Everyone was old at 32' is a common mistake about averages.
+8. (mcq) Lakshmi Paati slipped on a wet bathroom floor and broke her wrist. Her granddaughter Kavya slipped on the same floor last week and was not hurt. What is the most likely reason?  
+   Options: Bones lose some hard minerals with age, so they break more easily / Kavya is lucky and Paati is not / Children's bones are made of rubber / Paati fell from much higher up  
+   **Answer:** Bones lose some hard minerals with age, so they break more easily. *Why:* Older bones slowly lose some of their hard minerals, so the same fall can break them. That is why a rubber mat and a handrail in the bathroom help elders.
+9. (perspective) Can worry turn hair grey? Three people give different answers.  
+   **Answer:** A strong answer picks a view and gives evidence, such as the mouse study, or the fact that grown hair cannot change colour. It then admits a fair point from another side. For example, Paati's new hairs may really have grown in grey sooner because of stress.. *Why:* This is still being studied. Stress used up pigment cells in mice, but more studies in humans are needed. The views fit together more than they first seem: stress may make new hairs grow in grey sooner, but old hairs do not change.
+10. (write) In the socks-on-hands activity, you tried tasks with socks on your hands and smeared glasses. Which task was slowest? What does this tell you about the help an elder might need?  
+   **Answer:** For example: doing up buttons was slowest. It took me more than a minute. This tells me stiff fingers make small, fiddly jobs hard. An elder might like big buttons, or help with a tight jar lid, if they want it.. *Why:* A strong answer uses what the child really timed, and turns it into a kind and useful idea for help.
+11. (mcq) Grandma's outer skin was made in the last few weeks. The middle of her eye lens was made before she was born. What does this show?  
    Options: One body has parts of many different ages / Skin is never replaced / The eye lens is replaced every week / Grandma's body is all new  
-   **Answer:** One body has parts of many different ages. *Why:* Skin is replaced again and again, but the lens keeps its oldest cells all life. So one body holds parts that are a few weeks old and parts older than the person.
-11. (write) Design a sign for a bus that would help elders. What would it say, and how would it look?  
-   **Answer:** A big sign in dark letters on a light background that says 'Seats for elders'. With a picture, so people who cannot read can understand it.. *Why:* Good design fits changes in older eyes: big, dark letters with strong contrast are easier to read.
-12. (mcq) Hydras are tiny water animals. In a 1998 study, they showed no signs of ageing for four years. What does this tell scientists?  
-   Options: Ageing is not the same for every living thing / Hydras live for ever, for sure / All animals live four years / Hydras are not alive  
-   **Answer:** Ageing is not the same for every living thing. *Why:* Hydras seem to keep renewing their bodies. This shows ageing is not fixed for all life. Scientists still do not know if hydras truly never age.
-13. (write) Why do we feel sad when someone dies? How do people in your family remember those who have died?  
-   **Answer:** Any honest answer. For example: We feel sad because we loved them and miss them. My family lights a lamp and cooks their favourite food on their day.. *Why:* Grief is a sign of love. Families and cultures have many ways of remembering.
-14. (sort) Sort these claims about ageing.  
+   **Answer:** One body has parts of many different ages. *Why:* Skin is replaced again and again, but the lens keeps its oldest cells all life. So one body holds parts that are a few weeks old and parts older than the person's birthday.
+12. (fill) A red blood cell lives for about 4 months. So in one year, your body replaces all its red blood cells about ____ times.  
+   **Answer:** ['3', 'three']. *Why:* A year has 12 months. 12 divided by 4 is 3. So you get a whole new set of red blood cells about three times a year.
+13. (draw) Draw two eyes from the side. Give one a soft, round lens for a child. Give the other a flatter, stiffer lens for an elder. Draw a book close to each eye. Label each book sharp or blurry.  
+   **Answer:** The child's round lens makes the close book sharp. The elder's stiff lens makes the close book blurry.. *Why:* A soft lens can bulge to focus on near things. A stiff one cannot bulge enough.
+14. (mcq) Jeanne Calment of France lived to 122. Some stories say a man in a village lived to 200. Why do scientists believe the 122 but not the 200?  
+   Options: Jeanne Calment's birth was written down in records, so her age could be checked / Scientists only believe stories from France / Nobody can live past 100 / 200 is too big a number to count  
+   **Answer:** Jeanne Calment's birth was written down in records, so her age could be checked. *Why:* Her birth certificate, school records and other papers showed when she was born. The 200-year stories have no records at all. Scientists trust a claim when it can be checked.
+15. (write) Arjun, a boy in Class 4, says, 'Old people can't learn new things.' Karthyayani Amma of Kerala passed a reading and writing exam at the age of 96. What would you tell Arjun?  
+   **Answer:** For example: That is not true. Karthyayani Amma learned to read and write in her nineties and passed the exam. Brains keep making new connections all life. Some fast things may get slower, but people can keep learning.. *Why:* A strong answer uses the real example as evidence against a common belief, and is fair that some quick tasks do get slower with age.
+16. (write) Meera, a girl in Class 4, wrote down made-up skin test results: Child, 8: 0.5 seconds. Parent, 38: 1 second. Grandparent, 68: 3 seconds. She says, 'So skin only starts changing after 38.' Is she right? Explain.  
+   **Answer:** No. The parent's skin already took twice as long as the child's. So the change starts early and builds slowly. It only looks big later because it has added up for many years.. *Why:* A strong answer reads the numbers carefully and notices the change is already there between 8 and 38, not only after.
+### The Big Questions of Ageing (challenge) (challenge, 16 questions)
+1. (write) Your body makes about 4 million new cells every second. Is it still the same body it was last year? Give reasons.  
+   **Answer:** Any thoughtful answer. For example: Much of it is new, because skin, blood and gut cells have been replaced. But my eye lens cells and most brain cells are the same. My memories carry on too. So it is the same body, but rebuilt.. *Why:* This is a real puzzle that thinkers have argued about for thousands of years. A strong answer uses facts about which cells are replaced and which stay.
+2. (perspective) Scientists still argue about why bodies age at all. Here are three of their main ideas.  
+   **Answer:** A strong answer picks an idea and gives a reason, such as 'the lens keeps old cells, so damage can build up in them'. It then says why another idea could also be true. Many scientists think more than one is true at once.. *Why:* This is a real, open question in science. The three ideas do not cancel each other out. Each explains some of what we see.
+3. (write) A mouse lives about 2 years. A human lives about 80. Their cells are very alike. Suggest one reason for the difference.  
+   **Answer:** For example: Mice are eaten by cats and owls so young that nature never shaped them to live long. Humans are protected and cared for, so a long life helped. Or their genes may set a different timetable.. *Why:* This is an open question. Scientists point to genes, body size, and how dangerous an animal's life is. A strong answer gives a reason that could be tested.
+4. (perspective) Will doctors one day cure ageing? Three people disagree.  
+   **Answer:** A strong answer picks a view and uses evidence, such as the worm study or the many different changes in the unit (lens, skin, bones, hearing). It then answers back fairly from another view.. *Why:* This is debated. Scientists have made worms, flies and mice live longer. No product has been shown to stop ageing in humans. Whether we should want to is also a real question.
+5. (mcq) Killer whales are big dolphins. Old grandmother killer whales often lead their families to salmon, mostly in years when food is hard to find. Which idea does this support?  
+   Options: Long life after having babies can help a family survive / Old animals are always weaker than young ones / Whales do not age / Salmon prefer grandmothers  
+   **Answer:** Long life after having babies can help a family survive. *Why:* The grandmothers remember where food was in past hard years. Their families do better with them. This supports the grandmother idea: that long-lived grandmothers help their grandchildren survive.
+6. (write) Remember the snap-back skin test? The result can change if someone has drunk very little water. Name two ways you would make the test fairer.  
+   **Answer:** Ask everyone to drink a glass of water an hour before. Test everyone at the same time of day, in the same room. Pinch the same place for the same 3 seconds.. *Why:* Good scientists look for other things that could change the result, and keep them the same. A strong answer names at least two.
+7. (mcq) Each time a cell splits, the caps on the ends of their gene threads get a little shorter. Skin cells split again and again all life. The cells in the middle of the eye lens hardly split at all. After 60 years, whose caps would you expect to be shorter?  
+   Options: The skin cells' caps / The lens cells' caps / Both exactly the same / Neither has caps  
+   **Answer:** The skin cells' caps. *Why:* The caps shorten with each split. Skin cells split many more times, so their caps shorten more. The lens shows that ageing is not only about splitting. It ages by keeping its old cells.
+8. (write) When a body dies, their atoms go back into the soil, water and air. Where might those atoms go next?  
+   **Answer:** Into a plant, which a cow or a person might eat. Into a tree. Into a river. Into a new living being.. *Why:* Atoms are never lost. They move through soil, plants and animals again and again. A strong answer follows the atoms for at least two steps.
+9. (mcq) Hydras are tiny water animals. In a 1998 study, hydras showed no signs of ageing for four years. What does this tell scientists?  
+   Options: Ageing is not the same for every living being / Hydras live for ever, for sure / All animals live four years / Hydras are not alive  
+   **Answer:** Ageing is not the same for every living being. *Why:* Hydras seem to keep renewing their bodies. This shows ageing is not fixed for all life. Scientists still do not know if hydras truly never age.
+10. (draw) Design a bus stop sign that an elder with a stiff eye lens can read from the bench. Label two choices you made, and which body change each one helps with.  
+   **Answer:** For example: big, dark letters on a light background, for older eyes. A picture of the bus number, so it can be read from far away. A loud and flashing light when the bus comes, for ears that hear less.. *Why:* Good design fits real changes in older bodies. Big letters with strong contrast are easier for a stiff lens and older eyes.
+11. (write) Why do we feel sad when someone dies? How do people in your family remember those who have died?  
+   **Answer:** Any honest answer. For example: We feel sad because we loved them and miss them. My family lights a lamp and cooks their favourite food on their day.. *Why:* Grief is a sign of love. Families and cultures have many ways of remembering. Every honest answer is a good one.
+12. (sort) Sort these claims about ageing.  
    **Answer:** Bodies go through stages in the same order → Scientists agree; Exercise helps at any age → Scientists agree; Why bodies age at all → Scientists still argue; Whether ageing can be cured → Scientists still argue; Grey hair comes from fewer pigment cells → Scientists agree; How many new brain cells old brains make → Scientists still argue. *Why:* Science is sure about many facts of ageing, but its deepest causes are still open.
-15. (write) Write a short letter to yourself at age 80. What do you hope your body and mind will be like?  
-   **Answer:** Any thoughtful letter that mentions some body changes and some things that grow with age, like knowledge or friendships.. *Why:* Imagining your own old age helps you see elders as people who were once just like you.
+13. (mcq) Here are made-up near point results: 8 cm at age 8, 10 cm at 20, 25 cm at 45, 60 cm at 65. Meera, a girl in Class 4, says, 'So the lens only starts to stiffen at 45.' What is wrong with her idea?  
+   Options: The distance already grew from 8 to 10 cm by age 20. The lens stiffens all life, slowly at first. / Nothing. The lens is soft until 45. / The lens gets softer after 45 / The numbers show nothing about the lens  
+   **Answer:** The distance already grew from 8 to 10 cm by age 20. The lens stiffens all life, slowly at first.. *Why:* The near point moves out a little every year. The change is small at first, so people notice it only in their forties, when small print starts to blur at a normal reading distance.
+14. (mcq) Scientists tested thousands of people. Quick puzzles were done fastest by people in their twenties. But people kept learning more words into their sixties and seventies. A company needs someone to help new workers with hard problems. Kavya, a girl of 9, says, 'Hire only young people.' What does the evidence say?  
+   Options: An older worker's knowledge and experience may help more with hard problems / Only young people can solve problems / Old people know fewer words / Age makes no difference to anything  
+   **Answer:** An older worker's knowledge and experience may help more with hard problems. *Why:* Different abilities peak at different ages. Speed on quick puzzles is highest when young. Knowledge, words and experience keep growing. A strong team often needs both.
+15. (truefalse) Animals with bigger bodies always live longer than animals with smaller bodies.  
+   **Answer:** False. *Why:* False. It is often true, but not always. Some bats, as small as mice, live for over 40 years, while mice live about 2. So body size is not the whole story.
+16. (draw) Draw a graph of a person's height from birth to age 90. Show where it rises fast, where it stops, and where it drops a little in old age.  
+   **Answer:** A steep rise in the first year, a slower rise in childhood, a fast rise in the teenage growth spurt, then flat from the late teens. Near the end it dips a little, because the spine gets a little shorter in old age.. *Why:* A strong graph shows the fast first year, the growth spurt, the flat grown-up years and a small drop in old age.
 
 ## Videos
 - **A clear explainer on why we age (for the parent and curious older children)** (to find, for example Kurzgesagt or TED-Ed, 8 min) id `to find`: Shows cell damage, repair and telomeres with good animations, so the parent can explain the debated card on why bodies age. *Check:* No id given, because none could be checked from here. Search for an explainer on why we age from a trusted science channel. Check it says that scientists still argue, and does not sell anti-ageing products.
@@ -677,51 +682,51 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
 - **Elders who stay active: a short film about masters athletes or older learners in India** (to find, for example a news channel feature on Man Kaur or Karthyayani Amma, 4 min) id `to find`: Real Indian elders running races or passing exams break the habit of thinking old means unable. *Check:* No id given. Find a short news feature. Check the facts it gives against the challenging card in this unit before showing.
 
 ## Quiz
-1. (mcq) Which list shows the life stages in the right order?  
-   Options: Baby, child, teenager, adult, older adult / Child, baby, adult, teenager, older adult / Baby, teenager, child, older adult, adult / Adult, child, baby, teenager, older adult  
-   **Answer:** Baby, child, teenager, adult, older adult. *Why:* Every person goes through the stages in this order. Picking a mixed-up order often means teenager and child have been confused.
-2. (mcq) A baby grows from about 50 cm to about 75 cm in a year. What does this tell us?  
-   Options: Babies grow faster than at any other age / Everyone grows 25 cm a year / Babies stop growing after one year / Babies shrink  
-   **Answer:** Babies grow faster than at any other age. *Why:* The first year is the fastest growth of a whole life. Children grow only about 5 to 6 cm a year. Picking 'everyone' means growth has been pictured as steady.
-3. (mcq) Why does a grandfather hold his newspaper far away to read it?  
-   Options: The lens in his eye has got stiffer and cannot focus up close / His arms have got longer / The print is too big / His eyes have got smaller  
-   **Answer:** The lens in his eye has got stiffer and cannot focus up close. *Why:* A stiffer lens cannot bulge to focus on close things. Picking 'arms got longer' turns his joke into a fact. Eyes do not shrink with age.
-4. (mcq) Why does an elder's hair look grey from far away?  
-   Options: It is a mix of white hairs with no colour and some dark hairs / Dark hair covered in dust / Hair that turned grey overnight / Hair dyed by the sun  
-   **Answer:** It is a mix of white hairs with no colour and some dark hairs. *Why:* Pigment cells at the roots run out, so new hairs grow white. Mixed with dark ones, they look grey. Already-grown hair cannot change colour overnight.
+1. (mcq) Arjun is 15, and he is growing very fast. Which life stage is he in, and which stage comes next?  
+   Options: Teenager, then adult / Child, then teenager / Adult, then older adult / Baby, then child  
+   **Answer:** Teenager, then adult. *Why:* A person aged about 13 to 19 is a teenager, and the teenage years have a growth spurt. Next comes the adult stage, when growing taller stops.
+2. (mcq) A newborn baby's skull has soft spots, where the bones have not joined yet. Why is this useful?  
+   Options: The skull can grow as the baby's brain grows / It makes the head lighter / It lets the baby hear better / It is a sign the baby is ill  
+   **Answer:** The skull can grow as the baby's brain grows. *Why:* A baby's brain grows very fast. The soft spots let the skull grow with it. Later the bones join together.
+3. (mcq) Meenakshi's mother is 45. She has started holding her phone far away to read messages. What would help her read up close?  
+   Options: Reading glasses, which do the extra bending her stiff lens cannot do / Longer arms / A brighter phone only / Closing one eye  
+   **Answer:** Reading glasses, which do the extra bending her stiff lens cannot do. *Why:* Her lens has got stiffer, so it cannot bulge enough to focus on near things. Reading glasses add the extra bending. This happens to almost everyone by their mid-forties.
+4. (mcq) Kavya's Paati often misses what little children say. But she hears Thatha's deep voice easily. Why?  
+   Options: Children's voices are high, and the hair cells for high sounds wear out first / Children speak too fast / Paati likes Thatha more / Deep voices are always louder  
+   **Answer:** Children's voices are high, and the hair cells for high sounds wear out first. *Why:* Tiny hair cells deep in the ear pick up sounds. The ones for high sounds wear out first with age. So high voices get harder to hear before deep ones do.
 5. (mcq) Meera, a girl in Class 3, gently pinched the skin on the back of her own hand. It went flat in less than 1 second. Her grandmother's skin took 3 seconds. Why?  
    Options: Older skin has fewer springy threads inside / The grandmother was pinched harder / Children's skin has no threads in it / The grandmother's hand was moving  
    **Answer:** Older skin has fewer springy threads inside. *Why:* Collagen and elastin threads make skin springy, and older skin has fewer. In a fair test, everyone is pinched the same way, so the pinch was not the cause.
 6. (mcq) In the skin test, you pinch the back of a hand and count how long the skin takes to go flat. To make it fair, what must stay the same for everyone?  
    Options: The place pinched and how long it is pinched / The person's age / Nothing, it does not matter / The colour of their clothes  
    **Answer:** The place pinched and how long it is pinched. *Why:* In a fair test you change only the thing you are testing, here the age. Everything else, like the place and time of the pinch, stays the same.
-7. (mcq) Which of these is true about the cells in your body?  
-   Options: Many are replaced all the time, but some stay all your life / None are ever replaced / All are replaced every 7 years / They are all as old as you  
-   **Answer:** Many are replaced all the time, but some stay all your life. *Why:* Skin, blood and gut cells are replaced often. Most brain cells and eye lens cells stay all life. Picking '7 years' repeats a popular saying that is not true.
-8. (mcq) Which of these can keep getting better as people grow old?  
-   Options: Knowing many words and skills / Hearing very high sounds / Reading tiny print up close / Growing taller  
-   **Answer:** Knowing many words and skills. *Why:* Knowledge and words can grow all life long. Hearing high sounds and reading tiny print usually get harder. Growing taller stops in the late teens.
+7. (mcq) Your body makes about 4 million new cells every second. So why don't you keep getting bigger and bigger?  
+   Options: Old cells die and are cleared away while new ones are made / The new cells are invisible / New cells are made only while you sleep / You do get bigger every second, for ever  
+   **Answer:** Old cells die and are cleared away while new ones are made. *Why:* Most new cells replace old ones that are worn out. Red blood cells last about four months, and skin cells about a month. So the body is rebuilt without growing.
+8. (mcq) Lakshmi Paati is 75. She can't run fast any more. But she finishes the newspaper word puzzle quicker than anyone in the house. What does this show?  
+   Options: Some abilities slow down with age, while knowing words can keep growing / Running and puzzles are the same skill / Paati is not really old / Word puzzles get easier every year  
+   **Answer:** Some abilities slow down with age, while knowing words can keep growing. *Why:* Speed and strength often fall with age. Knowledge and words can keep growing into the seventies. Ageing is not only losing.
 9. (mcq) What is the best way to help an elder who finds a task hard?  
    Options: Ask if they would like help, then help in the way they want / Do everything for them without asking / Laugh, so they feel better / Tell them they are too old  
    **Answer:** Ask if they would like help, then help in the way they want. *Why:* Elders are capable people. Good help starts by asking. Doing everything without asking can make someone feel they are not trusted.
-10. (mcq) Can a person of 90 make their muscles stronger?  
-   Options: Yes, muscles respond to exercise at any age / No, it is too late after 60 / Only if they were athletes when young / Only by eating more  
-   **Answer:** Yes, muscles respond to exercise at any age. *Why:* In 1990, people aged about 90 got much stronger in eight weeks of strength exercise. Picking 'too late' is a common belief that the evidence disproves.
-11. (mcq) What do scientists agree on about ageing?  
-   Options: Exercise, good food, sleep and friends help at every age / Exactly why bodies age / That ageing will be cured soon / That nobody can learn after 70  
-   **Answer:** Exercise, good food, sleep and friends help at every age. *Why:* Many large studies show healthy habits help at every age. Why bodies age, and whether it can be cured, are still argued about.
+10. (mcq) Revathi's Paati is 68. She wants to get up from a chair more easily. What is most likely to help?  
+   Options: Standing up and sitting down slowly, a few times every day, to build leg muscles / Staying sitting as much as she can, to rest her legs / Nothing can help after 60 / Only eating more sweets  
+   **Answer:** Standing up and sitting down slowly, a few times every day, to build leg muscles. *Why:* Muscles grow stronger with exercise at any age. In 1990, people aged about 90 got much stronger in eight weeks. Resting all the time makes muscles shrink.
+11. (mcq) A shop sells a cream that says it 'stops ageing'. What does the evidence say?  
+   Options: No product has been shown to stop ageing in humans. Scientists still argue whether it can even be slowed. / The cream will keep you young for ever / Creams make cells stop being replaced / Scientists all agree ageing is cured  
+   **Answer:** No product has been shown to stop ageing in humans. Scientists still argue whether it can even be slowed.. *Why:* Scientists have made worms and mice live longer in the lab. But nothing has been shown to stop human ageing. Healthy food, sleep, exercise and friends are what the evidence supports.
 12. (mcq) Why did life expectancy in India rise from about 32 years in 1951 to about 70 today?  
    Options: Clean water, vaccines, better food and doctors saved many babies and children / People started having more birthdays / Bodies became made of different cells / The weather got cooler  
    **Answer:** Clean water, vaccines, better food and doctors saved many babies and children. *Why:* Most of the change came from far fewer babies and children dying of illnesses. Picking 'more birthdays' mixes up counting years with the reasons people live longer.
 13. (mcq) What happens at the end of every life cycle?  
-   Options: The living thing dies, and their atoms return to the soil, water and air / They start again as a baby the next day / They turn into a different animal / Nothing ever dies  
-   **Answer:** The living thing dies, and their atoms return to the soil, water and air. *Why:* Death is the last stage of every life cycle, for plants, animals and people. The atoms of the body are not lost but become part of other living things. Families have many different beliefs about what happens after death.
+   Options: The living being dies, and their atoms return to the soil, water and air / They start again as a baby the next day / They turn into a different animal / Nothing ever dies  
+   **Answer:** The living being dies, and their atoms return to the soil, water and air. *Why:* Death is the last stage of every life cycle, for plants, animals and people. The atoms of the body are not lost but become part of other living beings. Families have many different beliefs about what happens after death.
 14. (mcq) Telomeres are tiny caps on the ends of the threads that hold our genes. What happens to them in many cells?  
    Options: They get shorter each time the cell splits / They grow longer every birthday / They turn into hair / They never change  
    **Answer:** They get shorter each time the cell splits. *Why:* In many cells the caps shorten with each split. When they get too short, the cell stops splitting. Elizabeth Blackburn and Carol Greider found the substance that can rebuild them.
-15. (mcq) What is the grandmother idea?  
-   Options: Grandmothers who helped care for grandchildren helped humans evolve long lives / Grandmothers never get old / Only humans have grandmothers / Grandmothers are always right  
-   **Answer:** Grandmothers who helped care for grandchildren helped humans evolve long lives. *Why:* Kristen Hawkes and her team suggested this in 1998. Killer whale grandmothers that lead their families to food fit the idea. Other scientists think there are other reasons too, so it is debated.
+15. (mcq) Kristen Hawkes, an American scientist, watched Hadza grandmothers in Tanzania dig up food for their grandchildren. Which idea did this lead to?  
+   Options: The grandmother idea: grandmothers who help feed grandchildren may have helped humans evolve long lives / Grandmothers never get old / Only humans have grandmothers / Children do not need food from grown-ups  
+   **Answer:** The grandmother idea: grandmothers who help feed grandchildren may have helped humans evolve long lives. *Why:* Hawkes and her team suggested in 1998 that long-lived grandmothers helped more children survive. It is debated, and other scientists suggest other reasons too.
 
 ## Applications
 - Doctors and health workers check babies' height and weight on growth charts to see they are growing well.

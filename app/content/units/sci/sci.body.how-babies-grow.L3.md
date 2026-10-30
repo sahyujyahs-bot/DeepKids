@@ -619,7 +619,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 2. (mcq) Nila's mother has blood group O. Her new baby sister has blood group B. How can the baby have a different blood group from the mother she grew inside?  
    Options: The baby's blood changed at birth / In the placenta, the two bloods stay apart, with a thin wall between them / The doctor gave the baby new blood  
    **Answer:** In the placenta, the two bloods stay apart, with a thin wall between them. *Why:* Many people think the two bloods mix. They do not. Food and oxygen pass through a very thin wall, but the bloods stay mostly apart. So the baby can have their own blood group.
-3. (write) Predict. Amma sings a low lullaby. Then she plays a high whistle on a toy. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.  
+3. (write) Predict. Revathi is going to have a baby. She sings a low lullaby. Then she blows a high whistle on a toy. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.  
    **Answer:** The low lullaby. In my test, the low hum came through the bag of water clearly, but the high whistle sounded muffled. The baby is surrounded by water and the mother's body, so low sounds reach them best.. *Why:* A strong answer makes a prediction, then backs it with what the child heard through the water bag.
 4. (truefalse) If a pregnant mother looks at a rabbit every day, her baby may be born with long ears.  
    **Answer:** False. *Why:* False. This is an old belief. Thoughts and sights do not travel to the baby. Only things carried in the mother's blood reach the baby. How the baby looks comes from their DNA and how their cells grow.
@@ -636,10 +636,10 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
    **Answer:** A strong answer uses the test: the bottle on the chest stayed warm because a body keeps making heat. It then admits the other side's point, for example that a very sick baby may need the machines and close watching of an incubator.. *Why:* Both are used in real hospitals. Kangaroo care was started in Bogotá, in Colombia, in 1978. Doctors found it keeps many small babies warm and well. Very sick babies may still need an incubator.
 10. (fill) A newborn sees most clearly things about 20 to 30 ____ away. That is about the distance to the face of the person holding them.  
    **Answer:** ['centimetres', 'cm']. *Why:* About 20 to 30 centimetres. You tested this with a plastic bag in front of your eyes. A face close up was clearer than a face far away.
-11. (mcq) Lakshmi was born by caesarean birth. What does that mean?  
+11. (mcq) Shalini, a girl in Class 4, was born by caesarean birth. What does that mean?  
    Options: She was born later than other babies / She did not grow in a womb / Doctors lifted her out through a careful cut in her mother's tummy and womb  
-   **Answer:** Doctors lifted her out through a careful cut in her mother's tummy and womb. *Why:* In a caesarean birth, doctors open the mother's tummy and womb and lift the baby out. Lakshmi grew in the womb and was fed through a cord, like everyone else.
-12. (write) Lakshmi was born by caesarean birth, not pushed out by the womb. Does she still have a belly button? Explain why.  
+   **Answer:** Doctors lifted her out through a careful cut in her mother's tummy and womb. *Why:* In a caesarean birth, doctors open the mother's tummy and womb and lift the baby out. Shalini grew in the womb and was fed through a cord, like everyone else.
+12. (write) Shalini was born by caesarean birth. She was lifted out, not pushed out by the womb. Does she still have a belly button? Explain why.  
    **Answer:** Yes. She still grew in a womb and was joined to a placenta by a cord. When the cord was cut, the stump fell off and left a belly button, just like everyone else's.. *Why:* A strong answer says the belly button comes from the cord, not from how the baby came out.
 13. (label) Label four places on this newborn: the lungs, the belly button, the soft spot on the head and a fingertip. Then write one fact next to each.  
    **Answer:** ['lungs: fill with air for the first time at birth', 'belly button: where the cord joined', 'soft spot: the skull bones are not joined yet', 'fingertip: fingerprints formed months before birth']. *Why:* Each label is a clue that the baby lived somewhere else before birth: in water, fed through a cord, and growing for months.
@@ -661,13 +661,12 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
    **Answer:** From one first cell, splitting again and again. *Why:* Every cell came from another cell, by splitting. Food is the building material, but it does not turn into cells by itself. A strong answer separates the builders (cells) from the bricks (food).
 5. (truefalse) A few of a baby's cells can stay inside the mother's body for many years after the birth.  
    **Answer:** True. *Why:* True. Scientists found cells from sons in their mothers' blood 27 years after birth. Nobody yet knows if these cells help, harm or do nothing.
-6. (write) Is a person the same person as the one cell they began as? Give one reason for yes and one reason for no.  
-   **Answer:** Yes: you grew from that cell without ever stopping, so it was the start of you. No: that cell had no brain, no memories and no body like yours, so it was very different from you now.. *Why:* There is no single right answer. A strong answer gives a real reason on each side.
+6. (perspective) Two cousins argue about the one cell they each began as.  
+   **Answer:** A strong answer picks a side and backs it with a fact from the unit: for example, the cell split again and again, with no break, into every cell of the body. Or: the first cell had no body parts at all. Then it fairly states the other cousin's best point.. *Why:* There is no single right answer. Philosophers still argue about what makes you the same person over time. A strong answer uses real facts about growing from one cell on both sides.
 7. (write) Your body was built from food your mother ate. Trace one grain of rice back as far as you can, to where its atoms came from.  
    **Answer:** The grain came from a rice plant. The plant built the grain from air, water and soil, using sunlight. The atoms in the soil and air were part of the Earth. Almost all atoms heavier than hydrogen and helium were made inside stars long ago.. *Why:* A strong answer goes back at least three steps. It shows that a baby is built from food, sunlight, soil and air.
-8. (mcq) A calf can stand within an hour of being born. A human baby takes about a year to walk. What is the best reason?  
-   Options: Human babies have weaker bones / Human babies are born with a brain that still has a lot of growing to do / Calves have four legs  
-   **Answer:** Human babies are born with a brain that still has a lot of growing to do. *Why:* A human newborn's brain is only about a quarter of its grown-up size. Much of its growing happens after birth. That is why human children need care for so long.
+8. (write) Challenge the belief. Many people say a pregnant mother must 'eat for two', so she should eat twice as much. Doctors say she needs only a little more, about one extra small meal a day, and only in the last six months. Think about how big the baby is. Who do you think is right, and why?  
+   **Answer:** The doctors. The baby is tiny for most of the nine months, smaller than a banana at 20 weeks. Even at birth, a baby weighs about 3 kilograms, far less than the mother. So the baby needs only a little extra food. What matters more is good food: dal, vegetables, milk, eggs or fish.. *Why:* A strong answer uses a size from the unit (rice-sized, banana-sized, about 3 kilograms at birth) to show the baby needs far less food than a grown-up. It may add that the food must be good, because it reaches the baby through the placenta.
 9. (mcq) In 1694 a scientist named Nicolaas Hartsoeker drew a tiny curled-up man inside a sperm cell. How did later scientists show this idea was wrong?  
    Options: They asked mothers what they felt / They weighed newborn babies / They watched hen's eggs day by day and saw the body parts form one after another  
    **Answer:** They watched hen's eggs day by day and saw the body parts form one after another. *Why:* In 1759 Caspar Friedrich Wolff watched chicks forming in hen's eggs. The parts appeared one by one. Later, better microscopes showed that the first cell has no body parts at all.
@@ -692,18 +691,18 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - **Kangaroo mother care for small babies** (World Health Organization, 4 min) id `to find`: Shows real parents holding tiny babies skin to skin, and why it keeps them warm and safe. *Check:* No id given. Search the WHO YouTube channel for 'kangaroo mother care'. Check it is the WHO's own video before showing.
 
 ## Quiz
-1. (mcq) Long ago, some scientists thought a tiny ready-made person hid inside the first cell. What do we know now?  
-   Options: The first cell has no body parts. They form step by step. / The tiny person is real, but too small to see / Only some babies start that way  
-   **Answer:** The first cell has no body parts. They form step by step.. *Why:* Better microscopes and careful watching showed the first cell has no body parts. Picking 'too small to see' is the old idea scientists gave up.
-2. (mcq) After 4 rounds of splitting, how many cells have grown from one cell?  
-   Options: 8 / 16 / 4  
-   **Answer:** 16. *Why:* 1 becomes 2, then 4, then 8, then 16. Picking 8 stops one round too early. Picking 4 counts the rounds, not the cells.
+1. (mcq) You began as one cell, smaller than a grain of salt. What was inside that first cell?  
+   Options: A tiny heart, tiny hands and tiny eyes / The instructions, called DNA, for building a body, but no body parts yet / Nothing at all  
+   **Answer:** The instructions, called DNA, for building a body, but no body parts yet. *Why:* The first cell had no heart, no hands and no eyes. It had DNA, the instruction book. The body parts were built later, step by step, as the cell split again and again. Picking 'a tiny heart' is the old idea scientists gave up.
+2. (mcq) Each round of splitting doubles the number of cells. Which takes more rounds: going from 1 cell to 8 cells, or going from 8 cells to 64 cells?  
+   Options: 1 to 8 takes more rounds / 8 to 64 takes more rounds / Both take 3 rounds  
+   **Answer:** Both take 3 rounds. *Why:* 1 to 2 to 4 to 8 is 3 rounds. 8 to 16 to 32 to 64 is also 3 rounds. Many children guess 8 to 64 takes longer, because 64 is a big number. But doubling grows faster and faster, so each round adds more cells than the last.
 3. (mcq) A cell splits into two. What is each new cell?  
    Options: Half of a cell / A dead piece of the old cell / A whole living cell with the same DNA  
    **Answer:** A whole living cell with the same DNA. *Why:* Each new cell is whole and alive, with a full copy of the instructions. Later, cells read different parts of them and become different kinds.
-4. (mcq) What is the placenta's main job?  
-   Options: To push the baby out at birth / To pass food and oxygen from the mother's blood to the baby's blood / To keep the baby's eyes shut  
-   **Answer:** To pass food and oxygen from the mother's blood to the baby's blood. *Why:* The placenta grows on the womb wall. Food and oxygen pass through it. Picking 'push the baby out' mixes it up with the womb's muscles.
+4. (mcq) Predict. A pregnant woman cooks every day on a smoky wood fire. Could the smoke matter for her baby in the womb?  
+   Options: No. The baby is safe inside the womb, away from the air / Yes. Smoke goes into the mother's blood from her lungs, and some of it can pass through the placenta to the baby / Only if the baby can smell it  
+   **Answer:** Yes. Smoke goes into the mother's blood from her lungs, and some of it can pass through the placenta to the baby. *Why:* Anything in the mother's blood can pass through the thin wall in the placenta. Some harmful things from smoke get into her blood, so they can reach the baby. This is why a clean stove or good air is better for a pregnant woman. Picking 'safe inside the womb' forgets that the baby is fed from the mother's blood.
 5. (mcq) Why does a baby in the womb hear their mother's voice best?  
    Options: Her voice travels through her own body to the baby / The womb has a little window / Babies can only hear high sounds  
    **Answer:** Her voice travels through her own body to the baby. *Why:* The mother's voice travels through her body and the water. Low sounds, like voices, get through water best.
@@ -713,21 +712,21 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 7. (mcq) Sarala, a girl in Class 3, says, 'The egg in the water jar did not crack. So water protects a baby.' Which part is her evidence?  
    Options: The egg in the water jar did not crack / Water protects a baby / Both parts are claims  
    **Answer:** The egg in the water jar did not crack. *Why:* Evidence is what she saw: the egg did not crack. The claim is the idea she draws from it: water protects a baby.
-8. (mcq) When does a baby's heart first start to beat?  
-   Options: On their birthday / About six weeks after the first cell / When they first cry  
-   **Answer:** About six weeks after the first cell. *Why:* A tiny heart beats by about six weeks, when the baby is no bigger than a grain of rice. Picking 'birthday' forgets the months of growing before birth.
-9. (mcq) About how long does a human baby grow in the womb?  
-   Options: About nine weeks / About two years / About nine months  
-   **Answer:** About nine months. *Why:* About nine months. Picking two years mixes it up with an elephant, whose baby grows for almost two years.
+8. (mcq) Find the mistake. Gowri, a girl in Class 3, says, 'A baby's heart starts beating on the day they are born.' What is wrong?  
+   Options: Nothing. She is right / The heart starts beating at about six weeks, months before birth / The heart starts beating at one year  
+   **Answer:** The heart starts beating at about six weeks, months before birth. *Why:* A tiny heart beats by about six weeks, when the baby is no bigger than a grain of rice. Doctors can hear it with an ultrasound machine. Gowri forgets the months of growing before birth.
+9. (mcq) A mother elephant carries her baby for almost two years. A mother mouse carries hers for about three weeks. About how long does a human baby grow in the womb?  
+   Options: About three weeks, like a mouse / About nine months, between the two / About two years, like an elephant  
+   **Answer:** About nine months, between the two. *Why:* About nine months, or 40 weeks. Bigger animals usually grow longer inside their mother. A human is bigger than a mouse but much smaller than an elephant.
 10. (mcq) Why does a newborn often cry right after birth?  
    Options: The cry helps air fill their lungs for the first time / The cord hurts them / They want to go back  
    **Answer:** The cry helps air fill their lungs for the first time. *Why:* Before birth, the lungs were full of fluid. A good cry helps open the lungs and fill them with air.
-11. (mcq) Once the baby is breathing, what do doctors do with the cord?  
-   Options: Pull the baby with it / Clamp it and cut it / Leave it on for a year  
-   **Answer:** Clamp it and cut it. *Why:* The baby now gets oxygen by breathing, so the cord is no longer needed. It is clamped and cut, and the stump later falls off.
-12. (mcq) Anjali was adopted when she was a baby. Which of these is true?  
-   Options: She began as one cell and grew in a womb, like everyone / She began life in a different way / Her family is not a real family  
-   **Answer:** She began as one cell and grew in a womb, like everyone. *Why:* Every person began as one cell. Adoption is about which family raises and loves a child. Every family is a real family.
+11. (mcq) Why can doctors cut the cord once a newborn is breathing well?  
+   Options: The baby now gets oxygen from the air in their own lungs, so the cord's job is done / The cord would grow too long / The cord makes the baby heavy  
+   **Answer:** The baby now gets oxygen from the air in their own lungs, so the cord's job is done. *Why:* Before birth, the cord brought oxygen and food from the placenta. Once the baby breathes air, their lungs bring the oxygen. So the cord can be clamped and cut. The stump dries and falls off, and leaves the belly button.
+12. (mcq) Which of these is true of every person in the world, whatever their family?  
+   Options: They were born in a hospital / They began as one cell and grew in a womb / They grew in the womb for exactly 40 weeks  
+   **Answer:** They began as one cell and grew in a womb. *Why:* Some babies are born at home and some in hospital. Some come early and some late. Some are raised by the family they were born into and some are adopted. But every person began as one cell and grew in a womb. Every family is a real family.
 13. (mcq) Which of these do scientists still not know for sure?  
    Options: Whether a baby needs oxygen / Whether a baby grows in a womb / Exactly what signal starts birth  
    **Answer:** Exactly what signal starts birth. *Why:* Scientists know the baby and the mother both seem to play a part. But exactly which signal starts birth is still being studied.

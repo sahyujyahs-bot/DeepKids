@@ -828,60 +828,34 @@
    "items": [
     {
      "t": "mcq",
-     "p": "What does homeostasis mean?",
+     "p": "On a May afternoon in Chennai, it is 40 degrees outside. On a January morning in Delhi, it is 5 degrees. About how warm is the inside of a healthy child on each day?",
      "opts": [
-      "Keeping the inside of the body steady and just right",
-      "Growing taller every year",
-      "Sleeping at night",
-      "Moving your muscles"
-     ],
-     "a": 0,
-     "why": "Homeostasis is the body keeping things like warmth and water just right. Picking 'growing' mixes it up with change. Homeostasis is about staying the same inside while the outside changes."
-    },
-    {
-     "t": "mcq",
-     "p": "About how warm is the inside of a healthy person?",
-     "opts": [
-      "About 20 degrees",
-      "About 37 degrees",
-      "About 50 degrees",
-      "It changes with the weather, from 10 to 45 degrees"
+      "About 40 degrees in Chennai and 5 degrees in Delhi",
+      "About 37 degrees on both days",
+      "About 45 degrees in Chennai and 20 degrees in Delhi"
      ],
      "a": 1,
-     "why": "A healthy body stays near 37 degrees. Picking 'it changes with the weather' is a common idea, because our skin feels hot or cold. But the inside stays steady. That is the whole point of homeostasis."
+     "why": "The inside of the body stays near 37 degrees in any weather. The skin may feel hot or cold, but the inside is kept steady. That is homeostasis. Picking 'it follows the weather' is the most common first guess."
     },
     {
-     "t": "fill",
-     "p": "When you are hot, your skin makes salty water called ____.",
-     "a": [
-      "sweat"
-     ],
-     "why": "Sweat comes from millions of tiny sweat glands in your skin."
-    },
-    {
-     "t": "mcq",
-     "p": "How does sweat cool you down?",
-     "opts": [
-      "It dries into the air and carries heat away",
-      "Sweat is cold when it comes out",
-      "It washes the heat off",
-      "It makes your skin shiny"
-     ],
-     "a": 0,
-     "why": "When sweat evaporates, the fastest water molecules fly off and take heat with them. Picking 'sweat is cold' is very common. But sweat comes out as warm as you are. The cooling comes from drying.",
-     "art": "A sweaty forehead with little wavy lines rising off it."
+     "t": "write",
+     "p": "Find the mistake. Priya, a girl in Class 3, says, 'Sweat cools me because sweat is cold water.' Use the Sweaty Tumbler Test to show what is wrong.",
+     "lines": 3,
+     "a": "Sweat is not cold. It comes out as warm as I am. In the Sweaty Tumbler Test, the hanky was wet with tap water, not cold water, and that tumbler still cooled much more. The cooling came from the water drying. When sweat dries, it carries heat away from my skin.",
+     "why": "A strong answer says sweat comes out warm, then uses the tumbler as evidence that drying, not coldness, does the cooling.",
+     "how": "e1"
     },
     {
      "t": "mcq",
-     "p": "What do your muscles do when you are very cold?",
+     "p": "Remember the Sweaty Tumbler Test? Two tumblers of warm water stood in front of a fan. One wore a wet hanky and one wore a dry hanky. Which cooled more?",
      "opts": [
-      "They shiver to make heat",
-      "They sweat",
-      "They stop working",
-      "They get longer"
+      "The dry hanky tumbler",
+      "Both cooled the same",
+      "The wet hanky tumbler"
      ],
-     "a": 0,
-     "why": "Shivering is fast shaking of the muscles, and working muscles make heat. Picking 'sweat' mixes up the cooling trick with the warming trick."
+     "a": 2,
+     "why": "Water drying from the wet cloth carried heat away. Picking 'both the same' often means thinking the fan does all the work. The fan helps, but it mostly works by drying the wet cloth.",
+     "how": "e1"
     },
     {
      "t": "sort",
@@ -920,70 +894,54 @@
      "why": "Sweating, red skin and panting all help heat escape. Shivering makes heat. Goosebumps and pale fingers help keep the heat in. Pale fingers might look like 'cold', but the body is saving heat for its middle."
     },
     {
-     "t": "truefalse",
-     "p": "Feeling thirsty is your body telling you it needs water.",
-     "a": true,
-     "why": "True. When you have lost water, your blood gets a little too salty. Your brain notices and makes you feel thirsty."
-    },
-    {
-     "t": "mcq",
-     "p": "Which part of your body decides when to sweat or shiver?",
-     "opts": [
-      "A small part of your brain called the hypothalamus",
-      "Your stomach",
-      "Your hair",
-      "Your toes"
+     "t": "fill",
+     "p": "Keeping the inside of the body steady while the outside changes is called ____.",
+     "a": [
+      "homeostasis"
      ],
-     "a": 0,
-     "why": "The hypothalamus is about the size of an almond, deep in your brain. It compares your warmth with 'just right' and decides. Your skin and muscles only carry out the order."
+     "why": "Homeostasis means 'staying the same'. Your warmth, your water and your saltiness are all kept just right, even when the weather changes."
     },
     {
      "t": "match",
-     "p": "Match each thing to what it does.",
+     "p": "A feedback loop has parts that notice, decide and act. Match each part of the sweating loop to its job.",
      "pairs": [
       [
-       "Sensor",
-       "notices a change"
+       "Sensors in the skin and blood",
+       "notice that you are getting hot"
       ],
       [
-       "Hypothalamus",
-       "decides what to do"
+       "The hypothalamus in the brain",
+       "decides to cool you down"
       ],
       [
        "Sweat glands",
-       "act to cool you"
+       "act by making sweat"
       ],
       [
-       "Thirst",
-       "tells you to drink"
+       "Drying sweat",
+       "carries heat away from the skin"
       ]
      ],
      "a": "pairs as given",
-     "why": "A feedback loop has something that notices, something that decides and something that acts."
+     "why": "Something notices, something decides and something acts. Then the loop checks again, and stops when you are just right."
     },
     {
      "t": "mcq",
-     "p": "Remember the sweaty tumbler test? One tumbler of warm water had a wet cloth, one had a dry cloth, both in front of a fan. Which cooled more?",
+     "p": "Janani, a girl in Class 4, is waiting for the school bus on a cold morning. Her arms and jaw start to shake. What is her body doing?",
      "opts": [
-      "The wet cloth tumbler",
-      "The dry cloth tumbler",
-      "Both cooled the same"
+      "Cooling her down",
+      "Shaking because she is scared",
+      "Working her muscles fast to make heat"
      ],
-     "a": 0,
-     "why": "Water drying from the wet cloth carried heat away. Picking 'both the same' often means thinking the fan does all the work. The fan helps, but it mostly works by drying the wet cloth.",
-     "how": "e1"
+     "a": 2,
+     "why": "This is shivering. Working muscles make heat, so shaking fast warms her up. Picking 'cooling down' mixes up shivering with sweating."
     },
     {
-     "t": "mcq",
-     "p": "Why do your cheeks go red after running?",
-     "opts": [
-      "More warm blood flows near the skin to let heat out",
-      "You are embarrassed",
-      "Your skin is burnt",
-      "Running paints your face"
-     ],
-     "a": 0,
-     "why": "When you are hot, the blood vessels near your skin open wider. More warm blood passes near the air, and heat escapes. Cheeks can also go red when you feel shy, but after running it is about cooling."
+     "t": "truefalse",
+     "p": "A clay matka keeps water cool because clay is a cold material.",
+     "a": false,
+     "how": "e3",
+     "why": "False. Many people believe this. A dry clay pot left in the sun gets very hot. A wet matka stays cool because water seeps through tiny holes and dries on the outside, carrying heat away, just like sweat."
     },
     {
      "t": "order",
@@ -1001,22 +959,34 @@
     },
     {
      "t": "mcq",
+     "p": "Why do your cheeks go red after running?",
+     "opts": [
+      "You are embarrassed",
+      "More warm blood flows near the skin to let heat out",
+      "Your skin is burnt",
+      "Running paints your face"
+     ],
+     "a": 1,
+     "why": "When you are hot, the blood vessels near your skin open wider. More warm blood passes near the air, and heat escapes. Cheeks can also go red when you feel shy, but after running it is about cooling."
+    },
+    {
+     "t": "mcq",
      "p": "Which of these is a good sign that you have drunk enough water?",
      "opts": [
-      "Pale yellow pee",
       "Very dark yellow pee",
       "Feeling dizzy",
+      "Pale yellow pee",
       "A dry mouth"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Pale yellow pee usually means your kidneys have plenty of water to let go. Dark pee, dizziness and a dry mouth can all mean you need to drink."
     },
     {
      "t": "write",
-     "p": "Why does a fan feel good when you are sweaty? Use the word 'dry' in your answer.",
+     "p": "A ceiling fan does not make the air any colder. So why does a fan feel good when you are sweaty? Use the word 'dry' in your answer.",
      "lines": 3,
-     "a": "The moving air helps my sweat dry faster. When sweat dries, it carries heat away from my skin, so I cool down.",
-     "why": "Sweat cools you by drying, and moving air helps it dry."
+     "a": "The fan only moves the air. But moving air helps my sweat dry faster. When sweat dries, it carries heat away from my skin, so I cool down.",
+     "why": "A strong answer says the fan does not cool the air, and that it helps sweat dry. This is why a fan does little for a dry person in a hot room."
     },
     {
      "t": "draw",
@@ -1026,17 +996,45 @@
      "art": "Two empty outlines of a child, one under a sun and one under a snowflake."
     },
     {
-     "t": "mcq",
-     "p": "A clay matka keeps water cool. Why?",
-     "opts": [
-      "Water seeps out and dries on its outside, carrying heat away",
-      "Clay is always cold",
-      "Matkas have ice inside",
-      "The water is magic"
+     "t": "perspective",
+     "p": "On a hot afternoon in Madurai, a family argues about the best drink for cooling down.",
+     "views": [
+      {
+       "who": "Amma, the mother",
+       "says": "Drink ice-cold water from the fridge. The colder the water, the faster you cool."
+      },
+      {
+       "who": "Paati, the grandmother",
+       "says": "Drink water from the matka and sit under the fan. Ice-cold water is not needed."
+      },
+      {
+       "who": "Akka, the big sister in Class 9",
+       "says": "How cold the water is matters only a little. What matters most is drinking enough, so you can keep sweating."
+      }
      ],
-     "a": 0,
-     "why": "The matka 'sweats'. Water creeps through tiny holes and dries on the outside. Picking 'clay is always cold' is common. But a dry clay pot left in the sun gets very hot.",
-     "how": "e3"
+     "ask": "Whose advice do you think is best? Give a reason from this unit. Then say one thing another person gets right.",
+     "lines": 5,
+     "a": "A strong answer uses the science: sweat cools you as it dries, and you need enough water to keep sweating. It then gives another person a fair point, for example that cold water does take a little heat from your inside, or that the fan helps sweat dry.",
+     "why": "Each person has part of it. Cold water takes in some heat. Matka water and a fan are cheap and work well. But the body's main cooler is drying sweat, and that needs enough water."
+    },
+    {
+     "t": "mcq",
+     "p": "Your skin is the first to feel the heat. But which part of you decides to start sweating?",
+     "opts": [
+      "Your skin itself",
+      "A small part of your brain called the hypothalamus",
+      "Your sweat"
+     ],
+     "a": 1,
+     "why": "The hypothalamus is about the size of an almond, deep inside the brain. Sensors send it messages. It compares your warmth with 'just right' and sends the order. The sweat glands only carry it out."
+    },
+    {
+     "t": "write",
+     "p": "Predict. Meera runs on the spot for 2 minutes. Her face feels very hot. Will the thermometer under her arm show a big jump, like 5 degrees, or only a small one? Why?",
+     "lines": 3,
+     "a": "Only a small one, less than a degree. Running makes extra heat, but her body gets rid of it fast. Warm blood goes to her skin, which is why her face feels hot, and she sweats. So the inside stays close to 37 degrees.",
+     "why": "A strong answer predicts a small change and explains it with the cooling tricks: blood to the skin and sweat. It notices that a hot face does not mean a hot inside. The My Steady Inside test checks this.",
+     "how": "e2"
     }
    ]
   },
@@ -1050,56 +1048,44 @@
      "t": "mcq",
      "p": "A sweaty child sits in a closed, humid room. Why do they still feel hot?",
      "opts": [
-      "The damp air makes sweat dry slowly, so it cools them less",
       "Humid air has more heat in it than any other air",
+      "The damp air makes sweat dry slowly, so it cools them less",
       "Sweat does not work indoors",
       "They are not really sweating"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Sweat cools only when it dries. In humid air, it dries slowly and drips off instead. Picking 'sweat does not work indoors' misses that it is the dampness of the air, not the room, that matters."
     },
     {
-     "t": "mcq",
-     "p": "Remember the My Steady Inside test, where you took your temperature under your arm before and after running? Your face felt very hot after running, but your temperature only went up a tiny bit. Why?",
-     "opts": [
-      "Your body got rid of the extra heat by sweating and sending blood to the skin",
-      "Running makes no heat",
-      "Your face is not part of your body"
-     ],
-     "a": 0,
-     "why": "Running made heat, but homeostasis got rid of it fast. Your skin felt hot because warm blood was flowing there to lose heat.",
-     "how": "e2"
-    },
-    {
-     "t": "fill",
-     "p": "The 'just right' number the body tries to stay at is called the ____ point.",
-     "a": [
-      "set"
-     ],
-     "why": "The set point is like the number on an AC remote."
+     "t": "write",
+     "p": "Remember the Matka Test? A soaked clay matka and a steel pot stood in the shade with the same water. Which kept its water cooler, and how is the matka like your sweaty skin?",
+     "lines": 3,
+     "a": "The matka kept its water cooler. Its outside felt damp and cool, and the steel pot felt dry. Water seeped through the clay and dried on the outside, carrying heat away. My skin does the same: sweat comes out and dries, and takes heat with it.",
+     "why": "A strong answer gives the result, the reason (drying water carries heat away) and the link to sweat.",
+     "how": "e3"
     },
     {
      "t": "mcq",
      "p": "A camel in the desert lets their body warm up by about 6 degrees during the day, then cools at night. Why might this help them?",
      "opts": [
-      "It sweats less, so it saves water",
       "Camels like being hot",
-      "It makes the camel run faster",
-      "It helps the camel see"
+      "It makes them run faster",
+      "They sweat less, so they save water",
+      "It helps them see"
      ],
-     "a": 0,
-     "why": "If the camel kept their body at one exact warmth, they would have to sweat a lot in the hot day. By letting their warmth rise, they save water. It cools off at night for free."
+     "a": 2,
+     "why": "If the camel kept their body at one exact warmth, they would have to sweat a lot in the hot day. By letting their warmth rise, they save water. Then they cool off at night for free."
     },
     {
      "t": "mcq",
-     "p": "Why do dogs pant on a hot day?",
+     "p": "Dogs have sweat glands only on their paw pads. Why do they pant on a hot day?",
      "opts": [
-      "Water dries from their tongue and mouth, carrying heat away",
       "They are always hungry",
+      "Water dries from their tongue and mouth, carrying heat away",
       "Panting makes heat",
       "They are trying to bark"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Dogs have sweat glands only on their paw pads. Panting moves air over their wet tongue, so water dries and cools them. It is the same trick as sweating."
     },
     {
@@ -1109,71 +1095,80 @@
      "why": "False. Sweat cools you when it dries on your skin, because drying takes heat from you. Sweat that drips off takes away very little heat."
     },
     {
-     "t": "mcq",
-     "p": "You drink a glass of water when you are thirsty. Your thirst goes away in about a minute, long before the water reaches your blood. What does this show?",
-     "opts": [
-      "The body predicts, using messages from the mouth and throat",
-      "Water goes straight into the brain",
-      "Thirst was never real",
-      "The tummy makes water"
-     ],
-     "a": 0,
-     "why": "In mice, scientists found that brain cells for thirst switch off soon after drinking. Your body predicts that water is coming. This is part of a debate about whether the body mostly reacts or mostly predicts."
-    },
-    {
      "t": "match",
-     "p": "Match each animal or plant to their balance trick.",
+     "p": "Match each animal to their trick for keeping just right.",
      "pairs": [
       [
        "Elephant",
-       "flaps big ears full of blood"
+       "flaps big ears full of warm blood"
       ],
       [
-       "Honeybees",
-       "fan their wings to cool the hive"
+       "Lizard",
+       "lies in the sun to warm up"
       ],
       [
        "Cat",
-       "fluffs up its fur to trap warm air"
+       "fluffs up their fur to trap warm air"
       ],
       [
        "Stork",
-       "wees on its legs to cool off"
+       "pees on their own legs, and the drying cools them"
       ]
      ],
      "a": "pairs as given",
-     "why": "Each living thing has their own ways to keep just right. Many of them use drying water or moving blood, like we do."
+     "why": "Each animal has their own ways to keep just right. Many of them use drying water or moving blood, like we do."
     },
     {
      "t": "mcq",
-     "p": "Why are your fingers and toes often the first to feel cold?",
+     "p": "In Cold Hands, Warm Hands, you pressed a fingertip and let go. On the cold hand, the white spot took longer to turn pink again. Why?",
      "opts": [
-      "The body sends less blood there in the cold, to keep the middle warm",
-      "Fingers have no blood",
-      "They are furthest from the sun",
-      "They are made of bone only"
+      "Less blood was flowing in the cold fingers, because the body was keeping heat for its middle",
+      "Cold fingers have no blood at all",
+      "The cold water washed the pink colour away"
      ],
      "a": 0,
-     "why": "In the cold, blood vessels near the skin and in the fingers squeeze narrow. The body is choosing to keep heat near the heart and brain."
+     "why": "In the cold, the blood vessels near the skin squeeze narrow. Less warm blood reaches the fingers, so less heat escapes. The body is choosing to keep the heart and brain warm. This is why fingers and toes feel cold first.",
+     "how": "a2"
     },
     {
      "t": "write",
-     "p": "A tumbler of hot filter coffee cools to the warmth of the room. Why doesn't your body cool to the warmth of the room too?",
+     "p": "A tumbler of hot filter coffee cools down to the warmth of the room. Why doesn't your body cool down to the warmth of the room too?",
      "lines": 3,
-     "a": "My body keeps burning food in my cells to make heat. My brain keeps checking and fixing my warmth. The chai has nothing inside to make heat.",
+     "a": "My body keeps using the food I eat to make heat in my cells. My brain keeps checking and fixing my warmth. The coffee has nothing inside it that makes heat.",
      "why": "Staying steady costs energy. Living things use food to keep themselves different from their surroundings."
     },
     {
-     "t": "mcq",
-     "p": "Which machine at home works most like your body's warmth loop?",
-     "opts": [
-      "An AC with a thermostat",
-      "A ceiling fan with no switch",
-      "A steel spoon",
-      "A pencil"
+     "t": "sort",
+     "p": "You went on a Thermostat Hunt round the house. Sort these. Does it notice a change and correct it, like your body, or not?",
+     "cats": [
+      "Notices and corrects",
+      "Does not"
      ],
-     "a": 0,
-     "why": "An AC notices the room's warmth, compares it with the set number, and switches cooling on or off. That is a feedback loop, like your hypothalamus and sweat."
+     "items": [
+      [
+       "an AC with a thermostat",
+       "Notices and corrects"
+      ],
+      [
+       "a fridge",
+       "Notices and corrects"
+      ],
+      [
+       "an overhead tank float that shuts the tap",
+       "Notices and corrects"
+      ],
+      [
+       "a ceiling fan stuck on one speed",
+       "Does not"
+      ],
+      [
+       "a steel spoon in hot rasam",
+       "Does not"
+      ]
+     ],
+     "a": "see items",
+     "how": "a3",
+     "why": "A feedback loop has something that notices, something that decides and something that acts. The fan and the spoon cannot notice anything, so they never correct."
     },
     {
      "t": "order",
@@ -1189,18 +1184,6 @@
      "why": "Again: change, notice, decide, act, and back to just right."
     },
     {
-     "t": "mcq",
-     "p": "Babies have something special to keep warm without shivering. What is it?",
-     "opts": [
-      "Brown fat that makes heat",
-      "Extra fur",
-      "A thicker skull",
-      "Sweat glands that make warm sweat"
-     ],
-     "a": 0,
-     "why": "Babies have patches of brown fat, especially around the neck and shoulders. It burns food to make heat directly. Adults have a little brown fat too."
-    },
-    {
      "t": "draw",
      "p": "Draw a feedback loop for being too cold. Use three arrows: notice, decide, act.",
      "a": "Skin sensors notice the cold. The hypothalamus decides. Muscles shiver and skin makes goosebumps. Then the body checks again.",
@@ -1208,16 +1191,66 @@
      "art": "Three empty circles joined by arrows in a loop."
     },
     {
-     "t": "mcq",
-     "p": "Why is 37 degrees our 'just right'?",
-     "opts": [
-      "Nobody knows for sure. One idea is that it is too warm for most fungi to grow in us",
-      "Because a doctor chose it in 1868",
-      "Because the Sun is 37 degrees",
-      "Because water boils at 37 degrees"
+     "t": "perspective",
+     "p": "People disagree about how much water a child should drink each day.",
+     "views": [
+      {
+       "who": "A poster at Nandhini's school",
+       "says": "Drink 8 glasses of water every day, thirsty or not."
+      },
+      {
+       "who": "Heinz Valtin, an American kidney doctor, in 2002",
+       "says": "There is no good evidence for 8 glasses. Food has water too. A healthy person can drink when thirsty."
+      },
+      {
+       "who": "A cricket coach in Chennai",
+       "says": "On a hot match day, drink before you feel thirsty. When you sweat a lot, thirst can come late."
+      }
      ],
-     "a": 0,
-     "why": "It is still an open question. The fungi idea is from Aviv Bergman and Arturo Casadevall, 2010. A doctor only measured it. He did not choose it. Water boils at 100 degrees, not 37."
+     "ask": "Which view do you agree with most? Use your Water Diary or what you learned about thirst. Then say one thing another view gets right.",
+     "lines": 5,
+     "a": "A strong answer uses evidence: for example, the child's own cups and pee colour from the Water Diary, or that thirst comes when the blood gets a little salty. Then it fairly gives another view's best point, for example that on very hot days we lose water faster than thirst warns us.",
+     "why": "This is a real argument. Thirst works well for most people on most days. But on hot, sweaty days, or for small children who forget to drink, it helps to drink before thirst comes.",
+     "how": "p1"
+    },
+    {
+     "t": "mcq",
+     "p": "You drink a glass of water when you are thirsty. Your thirst goes away in about a minute, long before the water reaches your blood. What does this show?",
+     "opts": [
+      "Water goes straight into the brain",
+      "Thirst was never real",
+      "The body predicts, using messages from the mouth and throat",
+      "The tummy makes water"
+     ],
+     "a": 2,
+     "why": "In mice, scientists found that brain cells for thirst switch off soon after drinking. Your body predicts that water is coming. This is part of a debate about whether the body mostly reacts or mostly predicts."
+    },
+    {
+     "t": "mcq",
+     "p": "In Goosebump Watch, a damp arm in front of the fan got goosebumps. What were the goosebumps trying to do?",
+     "opts": [
+      "Let more heat out of the skin",
+      "Make sweat",
+      "Lift the tiny hairs to trap a layer of warm air"
+     ],
+     "a": 2,
+     "why": "Goosebumps are tiny muscles pulling each hair upright. In a furry animal, like a cat, this traps a thick blanket of still, warm air. Our body does the same thing, even though our hairs are thin.",
+     "how": "a5"
+    },
+    {
+     "t": "fill",
+     "p": "The 'just right' number the body tries to stay at is called the ____ point.",
+     "a": [
+      "set"
+     ],
+     "why": "The set point is like the number on an AC remote."
+    },
+    {
+     "t": "write",
+     "p": "Predict. Kavitha comes out of a cool classroom into the noon sun to play kho-kho. Name two things her body will do in the next 10 minutes. Say how each one helps.",
+     "lines": 3,
+     "a": "She will sweat, and as the sweat dries it will carry heat away. Her cheeks will go red, because more warm blood flows near the skin to let heat out. She may also feel thirsty, because sweat takes water out of her.",
+     "why": "A strong answer names two real cooling tricks and says how each one works. Each trick is part of a loop: notice, decide, act."
     }
    ]
   },
@@ -1231,32 +1264,32 @@
      "t": "mcq",
      "p": "Remember the matka test, where a clay pot and a steel pot stood side by side with the same water? On which day would the matka cool its water best?",
      "opts": [
-      "A hot, dry, breezy day in May",
       "A humid, still monsoon day",
       "A day when the matka is painted with oil paint",
+      "A hot, dry, breezy day in May",
       "A day with no water inside"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Drying water cools the matka. Dry, moving air dries it fastest. Humid, still air dries it slowly. Oil paint would block the tiny holes, so no water could reach the outside.",
      "how": "e3"
     },
     {
      "t": "write",
-     "p": "In a heatwave, why is it more dangerous for a builder carrying bricks than for a person sitting under a fan? Give two reasons.",
+     "p": "In a heatwave, why is it more dangerous for a woman carrying bricks on a building site than for a woman sitting under a fan? Give two reasons.",
      "lines": 4,
-     "a": "The builder's muscles make much more heat while working. The builder is also in the sun, and may not have time to rest, drink or cool off. The person under the fan makes less heat, and the fan helps their sweat dry.",
-     "why": "Heat danger depends on how much heat you make, how much you get from outside, and how well your sweat can dry. It is also a question of fairness: who gets shade, water and rest."
+     "a": "The woman carrying bricks makes much more heat in her working muscles. She is also out in the sun, and may not have time to rest, drink or cool off. The woman under the fan makes less heat, and the fan helps her sweat dry.",
+     "why": "A strong answer gives two of these: how much heat the body makes, how much heat comes from outside, and how well sweat can dry. It is also a question of fairness: who gets shade, water and rest."
     },
     {
      "t": "mcq",
      "p": "Some scientists say the body mostly predicts what it will need, not only reacts. Which is an example of predicting?",
      "opts": [
-      "Your mouth waters when you smell food cooking",
       "You shiver after you are already cold",
+      "Your mouth waters when you smell food cooking",
       "You sweat after you are already hot",
       "You pull your hand from a hot pan after it hurts"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A watering mouth gets ready for food before it arrives. The other three happen after the change. This idea is called allostasis, and scientists still argue how important it is."
     },
     {
@@ -1273,30 +1306,42 @@
      "t": "mcq",
      "p": "A person who is very hot has stopped sweating and has hot, dry skin. They are confused. What should happen?",
      "opts": [
-      "Get them into shade, cool them with water, and call a doctor straight away",
       "Give them a blanket",
       "Tell them to run to cool down",
+      "Get them into shade, cool them with water, and call a doctor straight away",
       "Wait and see"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Hot, dry skin and confusion can be signs of heatstroke. The body's cooling has stopped working. This needs a doctor fast. Shade and wet cloths help while you wait."
     },
     {
-     "t": "truefalse",
-     "p": "Scientists all agree that the whole Earth keeps itself just right, exactly like a body.",
-     "a": false,
-     "why": "False. James Lovelock and Lynn Margulis's Gaia idea says something like this, but many scientists disagree. The Earth has balancing loops, but no fixed set point like a body."
+     "t": "perspective",
+     "p": "Scientists argue about whether the whole Earth keeps its own balance, like a body.",
+     "views": [
+      {
+       "who": "Lynn Margulis and James Lovelock, scientists, in the 1970s",
+       "says": "The Earth's living beings, air, water and rocks work together to keep the planet fit for life, a little like a body keeps itself just right."
+      },
+      {
+       "who": "Many other Earth scientists",
+       "says": "The Earth has some balancing loops, like the slow rock thermostat. But it has no brain and no set point, so it is not really like a body."
+      }
+     ],
+     "ask": "Which side do you find more convincing? Give a reason. Then say what the other side gets right.",
+     "lines": 5,
+     "a": "A strong answer uses what a feedback loop needs: something that notices, something that decides and something that acts. It might say the Earth has loops but nothing that decides, or that living beings change the air in ways that keep the Earth livable. Then it fairly gives the other side's point.",
+     "why": "This is still argued. Most scientists agree the Earth has balancing loops. They disagree about how much it is like a body. The slow rock loop also cannot fix fast changes, like the carbon dioxide people are adding today."
     },
     {
      "t": "mcq",
      "p": "Why does your body need food even when you are sitting still?",
      "opts": [
-      "To keep making heat and running the pumps in every cell",
       "It doesn't need any food when still",
+      "To keep making heat and running the pumps in every cell",
       "Only to grow hair",
       "To make your bones heavier"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Even at rest you give off about as much heat as an old 100 watt bulb. Every cell also pumps salt to keep their inside just right. All of this needs energy from food."
     },
     {
@@ -1307,16 +1352,11 @@
      "why": "Homeostasis keeps both water and salt just right. Losing one without the other upsets the balance."
     },
     {
-     "t": "mcq",
-     "p": "Studies suggest people's normal temperature is a little lower today than 150 years ago. What is one possible reason scientists give?",
-     "opts": [
-      "Fewer long-lasting illnesses and more comfortable homes",
-      "People eat more ice cream",
-      "The Sun is cooler now",
-      "Thermometers make people colder"
-     ],
-     "a": 0,
-     "why": "Myroslava Protsiv, Julie Parsonnet and others suggested less illness and comfortable homes. Others think old measuring methods were different. It is still debated."
+     "t": "write",
+     "p": "Studies suggest people's normal temperature is a little lower today than it was 150 years ago. Give one reason this might really be true. Then give one reason the old numbers might be wrong.",
+     "lines": 4,
+     "a": "It might be true because people today have fewer long-lasting illnesses, and illness can warm the body. Homes are also more comfortable. But the old numbers might be wrong because thermometers then were different, and they may have measured in a different place on the body.",
+     "why": "A strong answer gives a real reason on each side. Scientists, such as Julie Parsonnet and Myroslava Protsiv, still debate this. A good scientist asks both 'what changed?' and 'did we measure the same way?'"
     },
     {
      "t": "order",
@@ -1333,12 +1373,12 @@
      "t": "mcq",
      "p": "Why can't goosebumps keep us warm the way fur keeps a cat warm?",
      "opts": [
-      "Our body hair is too thin and short to trap a layer of air",
       "We have no muscles in our skin",
       "Goosebumps make us hotter than cats",
+      "Our body hair is too thin and short to trap a layer of air",
       "Cats don't have hair"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Goosebumps pull our hairs up, just like a cat's. But our hairs are too thin to trap a blanket of still air. So goosebumps are a leftover from our furry relatives."
     },
     {
@@ -1352,32 +1392,33 @@
      "t": "mcq",
      "p": "A lotus flower can keep itself at about 30 to 35 degrees on a cool night. What does this tell us?",
      "opts": [
-      "Some plants can do a kind of warmth homeostasis too",
       "Lotus flowers have fur",
+      "Some plants can do a kind of warmth homeostasis too",
       "Plants are animals",
       "The pond is boiling"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Scientists measured sacred lotus flowers in 1996 and found they keep themselves warm. Balance-keeping is not only for animals."
     },
     {
      "t": "write",
-     "p": "The matka in the story says: 'I stay cool because I let a little go.' How is your body like that?",
+     "p": "In the story The Pot That Sweats, the clay matka says, 'I stay cool because I let a little go.' How is your body like the matka?",
      "lines": 3,
      "a": "My body lets a little water out as sweat. When the sweat dries, it takes heat from my skin. So, like the matka, I cool down by losing a little water.",
      "why": "Sweat cools you the same way the matka cools its water: water evaporates from the outside and carries heat away."
     },
     {
-     "t": "mcq",
-     "p": "Which of these is NOT a feedback loop that keeps something steady?",
-     "opts": [
-      "A ball rolling down a hill",
-      "An overhead water tank float that shuts the tap when full",
-      "A geyser that switches off when the water is hot",
-      "Shivering when you are cold"
-     ],
-     "a": 0,
-     "why": "A rolling ball just keeps going. Nothing notices and corrects it. The other three all notice a change and act to undo it."
+     "t": "write",
+     "p": "Challenge the belief. Many people say a hot cup of tea on a hot day cools you down. Others say it can only make you hotter. Use what you know about sweat to explain how both could be partly right. Does the weather, dry or humid, change your answer?",
+     "lines": 5,
+     "a": "The hot tea adds a little heat to my inside. But it also makes me sweat more. On a dry day, the extra sweat dries fast and takes away more heat than the tea added, so I may end up cooler. On a humid day, the sweat cannot dry well, so the tea may just make me hotter.",
+     "why": "A strong answer weighs both: the heat the tea adds, and the cooling from extra sweat. It sees that the answer depends on whether the sweat can dry. A small study in 2012 found this in cyclists."
+    },
+    {
+     "t": "truefalse",
+     "p": "A healthy body keeps its temperature at exactly the same number all day long.",
+     "a": false,
+     "why": "False. Homeostasis keeps the temperature close to 37 degrees, not exactly on it. It is a little lower early in the morning and a little higher in the evening or after running. The body corrects big changes, not tiny ones."
     }
    ]
   }
@@ -2553,79 +2594,74 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "What does homeostasis mean?",
+   "p": "Gayathri, a girl in Class 3, plays in the noon sun. Then she sits in a room with the AC on. What happens to the temperature of her inside?",
    "opts": [
-    "The body keeping its inside steady and just right",
-    "The body growing bigger",
-    "The body getting tired",
-    "The body moving fast"
+    "It goes up to match the sun",
+    "It stays close to 37 degrees the whole time",
+    "It goes down to match the AC"
    ],
-   "a": 0,
-   "why": "Homeostasis means keeping things like warmth and water just right inside. Picking 'growing' mixes it up with change.",
+   "a": 1,
+   "why": "Her skin feels hot and then cool, but her inside stays near 37 degrees. Her body sweats in the sun and saves heat in the cold room. That is homeostasis.",
    "outcome": 0
   },
   {
    "t": "mcq",
-   "p": "About how warm is the inside of a healthy body?",
+   "p": "Which of these is an example of homeostasis?",
    "opts": [
-    "About 37 degrees",
-    "About 25 degrees",
-    "About 45 degrees",
-    "As warm as the weather outside"
+    "Your hair growing longer",
+    "A tumbler of tea cooling down",
+    "Your body keeping its water just right on a hot day"
    ],
-   "a": 0,
-   "why": "About 37 degrees. Picking 'as warm as the weather' comes from how our skin feels, but the inside stays steady.",
+   "a": 2,
+   "why": "Homeostasis means keeping the inside steady. The tea just drifts to the room's warmth, and growing hair is change, not balance.",
    "outcome": 0
   },
   {
    "t": "mcq",
-   "p": "How does sweat cool you?",
+   "p": "After a bath, you stand wet in front of a fan and feel chilly. Why?",
    "opts": [
-    "It dries and carries heat away",
-    "It is cold when it comes out",
-    "It makes your skin shiny",
-    "It blocks the sun"
+    "The water on your skin dries and carries heat away",
+    "The fan makes cold air inside itself",
+    "Bath water is always colder than the air"
    ],
    "a": 0,
-   "why": "Sweat comes out warm. It cools you when it evaporates. Picking 'cold when it comes out' is the most common mix-up.",
+   "why": "The fan does not make cold air. It helps the water on your skin dry, and drying takes heat from you. Sweat cools you in the same way.",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "What does shivering do?",
+   "p": "Lakshmi is shivering after a swim. What is the shivering doing for her?",
    "opts": [
-    "Makes heat with fast-shaking muscles",
-    "Cools you down",
-    "Makes sweat",
-    "Makes you thirsty"
+    "Cooling her down",
+    "Making her sweat",
+    "Making heat with fast-working muscles"
    ],
-   "a": 0,
-   "why": "Working muscles make heat. Picking 'cools you down' mixes up shivering with sweating.",
+   "a": 2,
+   "why": "Shivering is muscles shaking fast. Working muscles make heat, so shivering warms her up.",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "Why do you feel thirsty after playing in the sun?",
+   "p": "After a long game of cricket in the sun, Farzana feels thirsty. Why?",
    "opts": [
-    "You lost water in sweat, and your brain noticed",
-    "Because the sun is dry",
-    "Your tummy is empty",
-    "Thirst comes at random"
+    "She lost water in sweat, her blood got a little saltier, and her brain noticed",
+    "Her tummy is empty",
+    "The sun dried her mouth from the outside"
    ],
    "a": 0,
-   "why": "Sweat takes water out of you. Your blood gets a little saltier, and the hypothalamus makes you feel thirsty. Picking 'tummy is empty' mixes up thirst with hunger.",
+   "why": "Sweat takes water out of the body. The blood gets a little too salty, and the hypothalamus makes her feel thirsty. Picking 'tummy is empty' mixes up thirst with hunger.",
    "outcome": 2
   },
   {
    "t": "mcq",
    "p": "Dark yellow pee usually means…",
    "opts": [
-    "You need to drink more water",
     "You drank too much water",
+    "You need to drink more water",
     "You are very cold",
     "You ate too much sugar"
    ],
-   "a": 0,
+   "a": 1,
    "why": "When you are low on water, your kidneys save it, so your pee is smaller in amount and darker. Picking 'drank too much' is the opposite: lots of water makes pee pale.",
    "outcome": 2
   },
@@ -2633,38 +2669,37 @@
    "t": "mcq",
    "p": "In a feedback loop, what happens after the body acts?",
    "opts": [
-    "It checks again, and stops when things are just right",
     "It keeps acting for ever",
     "It forgets",
+    "It checks again, and stops when things are just right",
     "It starts growing"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A feedback loop checks again. If you kept sweating for ever, you would get too cold and lose too much water.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "Which part of you is the 'decider' for sweating and shivering?",
+   "p": "A geyser switches off when its water reaches the set warmth. Which part of your body does the same job as the geyser's thermostat?",
    "opts": [
-    "The hypothalamus in your brain",
     "Your sweat glands",
-    "Your stomach",
-    "Your hair"
+    "Your skin",
+    "The hypothalamus in your brain"
    ],
-   "a": 0,
-   "why": "The hypothalamus compares your warmth with the set point and decides. Sweat glands act on the brain's message.",
+   "a": 2,
+   "why": "The thermostat compares the water with the set number and decides. In you, the hypothalamus compares your warmth with 'just right' and decides. Sweat glands only act on the order.",
    "outcome": 3
   },
   {
    "t": "mcq",
    "p": "Remember the sweaty tumbler test, with a wet cloth and a dry cloth on two tumblers of warm water by a fan? Why did we use the same tumblers and the same water?",
    "opts": [
-    "To make it a fair test, so only the wet cloth was different",
     "To save washing up",
+    "To make it a fair test, so only the wet cloth was different",
     "Because the fan needs it",
     "So the water would boil"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In a fair test, you change only one thing. Then you know that thing caused the difference. Here, it was the wet cloth.",
    "outcome": 4,
    "how": "e1"
@@ -2673,12 +2708,12 @@
    "t": "mcq",
    "p": "Remember the sweaty tumbler test? The wet tumbler dropped 9 degrees and the dry one dropped 3 degrees. Which is true?",
    "opts": [
-    "The wet one cooled 3 times as much",
     "They cooled the same",
     "The dry one cooled more",
+    "The wet one cooled 3 times as much",
     "The wet one got warmer"
    ],
-   "a": 0,
+   "a": 2,
    "why": "9 divided by 3 is 3. So the wet one cooled 3 times as much. Drying water carried heat away.",
    "outcome": 4,
    "how": "e1",
@@ -2703,40 +2738,38 @@
   },
   {
    "t": "mcq",
-   "p": "How does an elephant cool down?",
+   "p": "Why does an elephant flap their big ears on a hot day?",
    "opts": [
-    "It flaps its big ears, which are full of blood vessels",
-    "It shivers",
-    "It grows thick fur",
-    "It stands in the sun"
+    "To make heat",
+    "Moving air cools the warm blood flowing through the ears",
+    "To shade their eyes from the sun"
    ],
-   "a": 0,
-   "why": "Moving air over the ears cools the blood flowing through them. Shivering and fur are for keeping warm.",
+   "a": 1,
+   "why": "An elephant's ears are thin and full of blood vessels. Flapping moves air over them, so the blood loses heat before it flows back into the body.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Which machine works like your body's warmth loop?",
+   "p": "Honeybees keep their hive close to 35 degrees. What do they do on a very hot day?",
    "opts": [
-    "An AC with a thermostat",
-    "A steel spoon",
-    "A pencil",
-    "A rolling ball"
+    "Fan their wings and spread drops of water, which dry and cool the hive",
+    "Fly towards the sun",
+    "Sit still and wait"
    ],
    "a": 0,
-   "why": "An AC notices, compares with its set number, and acts. A spoon, pencil or ball cannot notice and correct anything.",
+   "why": "Bees bring water and spread it in the hive. Then they fan their wings, and the drying water carries heat away. It is the same trick as sweating.",
    "outcome": 5
   },
   {
    "t": "mcq",
    "p": "Which of these do scientists still NOT know for sure?",
    "opts": [
-    "Why our just-right number is about 37 degrees",
     "That sweat cools us by drying",
+    "Why our just-right number is about 37 degrees",
     "That shivering makes heat",
     "That thirst makes us drink"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The other three are well tested. Why 37 is still an open question, with ideas like keeping fungi out.",
    "outcome": 6
   },
@@ -2744,27 +2777,14 @@
    "t": "mcq",
    "p": "Why is a very humid heatwave more dangerous than a dry one at the same temperature?",
    "opts": [
-    "Sweat cannot dry well, so the body cannot cool itself",
     "Humid air has no oxygen",
     "Humid air makes you shiver",
+    "Sweat cannot dry well, so the body cannot cool itself",
     "It isn't more dangerous"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Sweat cools only by drying. In very humid air it hardly dries, so the body heats up. Scientists are still working out exactly where the danger limit is.",
    "outcome": 6
-  },
-  {
-   "t": "mcq",
-   "p": "A tumbler of hot filter coffee cools to the warmth of the room, but you don't. Why?",
-   "opts": [
-    "Your body keeps using food to make heat and keep balance",
-    "You are made of clay",
-    "Coffee has no water",
-    "Rooms can't change your warmth"
-   ],
-   "a": 0,
-   "why": "Living things use energy all the time to stay just right. Without it, a body would drift to the room's warmth, like the coffee.",
-   "outcome": 0
   }
  ],
  "applications": [

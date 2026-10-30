@@ -1168,15 +1168,15 @@
     },
     {
      "t": "odd",
-     "p": "Which one is the odd one out? Earwax, tears, mucus, mud.",
+     "p": "Three of these habits protect a body part. One harms it. Which one is the odd one out?",
      "opts": [
-      "Earwax",
-      "Tears",
-      "Mucus",
-      "Mud"
+      "Cutting nails short every week or two",
+      "Wiping only the outside of the ear",
+      "Brushing teeth before bed",
+      "Rubbing an itchy eye hard"
      ],
      "a": 3,
-     "why": "Earwax, tears and mucus are made by the body to trap or wash away dust and germs. Mud comes from outside."
+     "why": "Short nails leave no gap for germs. Wiping only the outside lets earwax move out by itself. Brushing at night protects teeth when there is less spit. Rubbing hard can scratch the eye and push in germs, so it is the odd one out. Blink, or rinse with clean water, instead."
     },
     {
      "t": "perspective",
@@ -2871,15 +2871,16 @@
   },
   {
    "t": "mcq",
-   "p": "Why do we rub soapy hands for about 20 seconds, not just 2?",
+   "p": "Kavya's bread test gave these spots on day 6. Dirty hands: 11. Washed with water only: 6. Washed with soap: 2. Untouched: 1. What can she say?",
    "opts": [
-    "Rubbing takes time to loosen the oil and germs from every part of the hand",
-    "Soap needs 20 seconds to warm up",
-    "It uses up the soap",
-    "Germs fall asleep after 20 seconds"
+    "Soap took away far more germs than water alone, but not quite every one",
+    "Water works just as well as soap",
+    "Soap made the bread grow spots",
+    "Washing makes no difference"
    ],
    "a": 0,
-   "why": "The rubbing does much of the work. It takes time to reach the thumbs, fingertips, nails and the backs of the hands. Singing Happy Birthday twice takes about 20 seconds.",
+   "why": "The soap slice had 2 spots, much closer to the untouched slice than the water-only slice with 6. So soap removes most germs and spores. It does not remove every single one, and nothing needs to.",
+   "how": "e1",
    "outcome": 2
   },
   {

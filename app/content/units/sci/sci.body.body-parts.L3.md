@@ -712,9 +712,9 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** the hair you can see → Dead cells; the root of a hair, under the skin → Living cells; the white tip of a fingernail → Dead cells; the flakes on the sticky tape → Dead cells; the skin under a scab, making new skin → Living cells; the skin at the base of a nail, making new nail → Living cells. *Why:* Living cells at the roots keep making new cells. These get pushed out, harden and die. So what we see on the outside is mostly dead, and the living part is hidden underneath.
 9. (write) In the eyebrow test, the water dripped above your eyebrow ran off to the side. Why do you think eyebrows are curved? What might happen on a hot, sweaty day without them?  
    **Answer:** The curve works like a little roof gutter. It sends sweat and rain round the side of the eye. Without eyebrows, sweat would run straight into my eyes and sting, and I could not see well while playing.. *Why:* A strong answer uses what the child saw in the test and explains the shape by its job.
-10. (odd) Which one is the odd one out? Earwax, tears, mucus, mud.  
-   Options: Earwax / Tears / Mucus / Mud  
-   **Answer:** 3. *Why:* Earwax, tears and mucus are made by the body to trap or wash away dust and germs. Mud comes from outside.
+10. (odd) Three of these habits protect a body part. One harms it. Which one is the odd one out?  
+   Options: Cutting nails short every week or two / Wiping only the outside of the ear / Brushing teeth before bed / Rubbing an itchy eye hard  
+   **Answer:** 3. *Why:* Short nails leave no gap for germs. Wiping only the outside lets earwax move out by itself. Brushing at night protects teeth when there is less spit. Rubbing hard can scratch the eye and push in germs, so it is the odd one out. Blink, or rinse with clean water, instead.
 11. (perspective) People have argued for a long time about what the tiny ridges on our fingertips are for.  
    **Answer:** A strong answer picks an idea and gives evidence, such as 'I could feel a single grain of rice with my fingertip but not with my elbow'. It then admits a fair point from another side, for example that ridges may help grip on wet or rough things.. *Why:* Scientists still argue about this. Ridges may help us feel, may help grip on wet or rough surfaces, and may do several jobs at once.
 12. (write) Nails grow about 3 millimetres a month. How often do you think you should cut them? Why do germs collect under long nails?  
@@ -795,9 +795,9 @@ Many years later, the government gave her uncle a reward and an honour for his w
 7. (mcq) In the bread test, why was one slice slid into its bag with a spoon and never touched?  
    Options: To compare: it shows how much the bread grows with no hands at all / Because there were not enough hands / To make it go bad faster / It was the slice for eating  
    **Answer:** To compare: it shows how much the bread grows with no hands at all. *Why:* The untouched slice is the comparison. If the hand slices grew more spots than it, the extra spots came from the hands.
-8. (mcq) Why do we rub soapy hands for about 20 seconds, not just 2?  
-   Options: Rubbing takes time to loosen the oil and germs from every part of the hand / Soap needs 20 seconds to warm up / It uses up the soap / Germs fall asleep after 20 seconds  
-   **Answer:** Rubbing takes time to loosen the oil and germs from every part of the hand. *Why:* The rubbing does much of the work. It takes time to reach the thumbs, fingertips, nails and the backs of the hands. Singing Happy Birthday twice takes about 20 seconds.
+8. (mcq) Kavya's bread test gave these spots on day 6. Dirty hands: 11. Washed with water only: 6. Washed with soap: 2. Untouched: 1. What can she say?  
+   Options: Soap took away far more germs than water alone, but not quite every one / Water works just as well as soap / Soap made the bread grow spots / Washing makes no difference  
+   **Answer:** Soap took away far more germs than water alone, but not quite every one. *Why:* The soap slice had 2 spots, much closer to the untouched slice than the water-only slice with 6. So soap removes most germs and spores. It does not remove every single one, and nothing needs to.
 9. (mcq) Why is brushing at night most important?  
    Options: Your mouth makes less spit at night, so germs can make acid for hours / Teeth grow at night / It helps you sleep / Germs only come out at night  
    **Answer:** Your mouth makes less spit at night, so germs can make acid for hours. *Why:* Spit washes and protects teeth. At night there is less of it. Picking 'germs only come out at night' is a mix-up: germs are there all day.

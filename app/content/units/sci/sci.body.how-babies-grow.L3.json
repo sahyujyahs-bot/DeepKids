@@ -2221,7 +2221,7 @@
     },
     {
      "t": "write",
-     "p": "Predict. Amma sings a low lullaby. Then she plays a high whistle on a toy. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.",
+     "p": "Predict. Revathi is going to have a baby. She sings a low lullaby. Then she blows a high whistle on a toy. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.",
      "lines": 3,
      "a": "The low lullaby. In my test, the low hum came through the bag of water clearly, but the high whistle sounded muffled. The baby is surrounded by water and the mother's body, so low sounds reach them best.",
      "why": "A strong answer makes a prediction, then backs it with what the child heard through the water bag.",
@@ -2343,18 +2343,18 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi was born by caesarean birth. What does that mean?",
+     "p": "Shalini, a girl in Class 4, was born by caesarean birth. What does that mean?",
      "opts": [
       "She was born later than other babies",
       "She did not grow in a womb",
       "Doctors lifted her out through a careful cut in her mother's tummy and womb"
      ],
      "a": 2,
-     "why": "In a caesarean birth, doctors open the mother's tummy and womb and lift the baby out. Lakshmi grew in the womb and was fed through a cord, like everyone else."
+     "why": "In a caesarean birth, doctors open the mother's tummy and womb and lift the baby out. Shalini grew in the womb and was fed through a cord, like everyone else."
     },
     {
      "t": "write",
-     "p": "Lakshmi was born by caesarean birth, not pushed out by the womb. Does she still have a belly button? Explain why.",
+     "p": "Shalini was born by caesarean birth. She was lifted out, not pushed out by the womb. Does she still have a belly button? Explain why.",
      "lines": 3,
      "a": "Yes. She still grew in a womb and was joined to a placenta by a cord. When the cord was cut, the stump fell off and left a belly button, just like everyone else's.",
      "why": "A strong answer says the belly button comes from the cord, not from how the baby came out."
@@ -2455,11 +2455,22 @@
      "why": "True. Scientists found cells from sons in their mothers' blood 27 years after birth. Nobody yet knows if these cells help, harm or do nothing."
     },
     {
-     "t": "write",
-     "p": "Is a person the same person as the one cell they began as? Give one reason for yes and one reason for no.",
-     "lines": 4,
-     "a": "Yes: you grew from that cell without ever stopping, so it was the start of you. No: that cell had no brain, no memories and no body like yours, so it was very different from you now.",
-     "why": "There is no single right answer. A strong answer gives a real reason on each side."
+     "t": "perspective",
+     "p": "Two cousins argue about the one cell they each began as.",
+     "views": [
+      {
+       "who": "Anitha, aged 10",
+       "says": "That cell was me. I grew from it without ever stopping, so it was the very start of me."
+      },
+      {
+       "who": "Varun, her cousin, aged 9",
+       "says": "That cell was not really me. It had no brain, no memories and no body. It was only the seed of me."
+      }
+     ],
+     "ask": "Whose side are you on? Give one reason from this unit. Then say the best point the other cousin makes.",
+     "lines": 5,
+     "a": "A strong answer picks a side and backs it with a fact from the unit: for example, the cell split again and again, with no break, into every cell of the body. Or: the first cell had no body parts at all. Then it fairly states the other cousin's best point.",
+     "why": "There is no single right answer. Philosophers still argue about what makes you the same person over time. A strong answer uses real facts about growing from one cell on both sides."
     },
     {
      "t": "write",
@@ -2469,15 +2480,11 @@
      "why": "A strong answer goes back at least three steps. It shows that a baby is built from food, sunlight, soil and air."
     },
     {
-     "t": "mcq",
-     "p": "A calf can stand within an hour of being born. A human baby takes about a year to walk. What is the best reason?",
-     "opts": [
-      "Human babies have weaker bones",
-      "Human babies are born with a brain that still has a lot of growing to do",
-      "Calves have four legs"
-     ],
-     "a": 1,
-     "why": "A human newborn's brain is only about a quarter of its grown-up size. Much of its growing happens after birth. That is why human children need care for so long."
+     "t": "write",
+     "p": "Challenge the belief. Many people say a pregnant mother must 'eat for two', so she should eat twice as much. Doctors say she needs only a little more, about one extra small meal a day, and only in the last six months. Think about how big the baby is. Who do you think is right, and why?",
+     "lines": 4,
+     "a": "The doctors. The baby is tiny for most of the nine months, smaller than a banana at 20 weeks. Even at birth, a baby weighs about 3 kilograms, far less than the mother. So the baby needs only a little extra food. What matters more is good food: dal, vegetables, milk, eggs or fish.",
+     "why": "A strong answer uses a size from the unit (rice-sized, banana-sized, about 3 kilograms at birth) to show the baby needs far less food than a grown-up. It may add that the food must be good, because it reaches the baby through the placenta."
     },
     {
      "t": "mcq",
@@ -2593,28 +2600,28 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Long ago, some scientists thought a tiny ready-made person hid inside the first cell. What do we know now?",
+   "p": "You began as one cell, smaller than a grain of salt. What was inside that first cell?",
    "opts": [
-    "The first cell has no body parts. They form step by step.",
-    "The tiny person is real, but too small to see",
-    "Only some babies start that way"
+    "A tiny heart, tiny hands and tiny eyes",
+    "The instructions, called DNA, for building a body, but no body parts yet",
+    "Nothing at all"
    ],
-   "a": 0,
-   "why": "Better microscopes and careful watching showed the first cell has no body parts. Picking 'too small to see' is the old idea scientists gave up.",
+   "a": 1,
+   "why": "The first cell had no heart, no hands and no eyes. It had DNA, the instruction book. The body parts were built later, step by step, as the cell split again and again. Picking 'a tiny heart' is the old idea scientists gave up.",
    "outcome": 0
   },
   {
    "t": "mcq",
-   "p": "After 4 rounds of splitting, how many cells have grown from one cell?",
+   "p": "Each round of splitting doubles the number of cells. Which takes more rounds: going from 1 cell to 8 cells, or going from 8 cells to 64 cells?",
    "opts": [
-    "8",
-    "16",
-    "4"
+    "1 to 8 takes more rounds",
+    "8 to 64 takes more rounds",
+    "Both take 3 rounds"
    ],
-   "a": 1,
-   "why": "1 becomes 2, then 4, then 8, then 16. Picking 8 stops one round too early. Picking 4 counts the rounds, not the cells.",
-   "outcome": 1,
-   "how": "a1"
+   "a": 2,
+   "how": "a1",
+   "why": "1 to 2 to 4 to 8 is 3 rounds. 8 to 16 to 32 to 64 is also 3 rounds. Many children guess 8 to 64 takes longer, because 64 is a big number. But doubling grows faster and faster, so each round adds more cells than the last.",
+   "outcome": 1
   },
   {
    "t": "mcq",
@@ -2630,14 +2637,14 @@
   },
   {
    "t": "mcq",
-   "p": "What is the placenta's main job?",
+   "p": "Predict. A pregnant woman cooks every day on a smoky wood fire. Could the smoke matter for her baby in the womb?",
    "opts": [
-    "To push the baby out at birth",
-    "To pass food and oxygen from the mother's blood to the baby's blood",
-    "To keep the baby's eyes shut"
+    "No. The baby is safe inside the womb, away from the air",
+    "Yes. Smoke goes into the mother's blood from her lungs, and some of it can pass through the placenta to the baby",
+    "Only if the baby can smell it"
    ],
    "a": 1,
-   "why": "The placenta grows on the womb wall. Food and oxygen pass through it. Picking 'push the baby out' mixes it up with the womb's muscles.",
+   "why": "Anything in the mother's blood can pass through the thin wall in the placenta. Some harmful things from smoke get into her blood, so they can reach the baby. This is why a clean stove or good air is better for a pregnant woman. Picking 'safe inside the womb' forgets that the baby is fed from the mother's blood.",
    "outcome": 2
   },
   {
@@ -2681,26 +2688,27 @@
   },
   {
    "t": "mcq",
-   "p": "When does a baby's heart first start to beat?",
+   "p": "Find the mistake. Gowri, a girl in Class 3, says, 'A baby's heart starts beating on the day they are born.' What is wrong?",
    "opts": [
-    "On their birthday",
-    "About six weeks after the first cell",
-    "When they first cry"
+    "Nothing. She is right",
+    "The heart starts beating at about six weeks, months before birth",
+    "The heart starts beating at one year"
    ],
    "a": 1,
-   "why": "A tiny heart beats by about six weeks, when the baby is no bigger than a grain of rice. Picking 'birthday' forgets the months of growing before birth.",
+   "why": "A tiny heart beats by about six weeks, when the baby is no bigger than a grain of rice. Doctors can hear it with an ultrasound machine. Gowri forgets the months of growing before birth.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "About how long does a human baby grow in the womb?",
+   "p": "A mother elephant carries her baby for almost two years. A mother mouse carries hers for about three weeks. About how long does a human baby grow in the womb?",
    "opts": [
-    "About nine weeks",
-    "About two years",
-    "About nine months"
+    "About three weeks, like a mouse",
+    "About nine months, between the two",
+    "About two years, like an elephant"
    ],
-   "a": 2,
-   "why": "About nine months. Picking two years mixes it up with an elephant, whose baby grows for almost two years.",
+   "a": 1,
+   "how": "g2",
+   "why": "About nine months, or 40 weeks. Bigger animals usually grow longer inside their mother. A human is bigger than a mouse but much smaller than an elephant.",
    "outcome": 3
   },
   {
@@ -2717,26 +2725,26 @@
   },
   {
    "t": "mcq",
-   "p": "Once the baby is breathing, what do doctors do with the cord?",
+   "p": "Why can doctors cut the cord once a newborn is breathing well?",
    "opts": [
-    "Pull the baby with it",
-    "Clamp it and cut it",
-    "Leave it on for a year"
+    "The baby now gets oxygen from the air in their own lungs, so the cord's job is done",
+    "The cord would grow too long",
+    "The cord makes the baby heavy"
    ],
-   "a": 1,
-   "why": "The baby now gets oxygen by breathing, so the cord is no longer needed. It is clamped and cut, and the stump later falls off.",
+   "a": 0,
+   "why": "Before birth, the cord brought oxygen and food from the placenta. Once the baby breathes air, their lungs bring the oxygen. So the cord can be clamped and cut. The stump dries and falls off, and leaves the belly button.",
    "outcome": 4
   },
   {
    "t": "mcq",
-   "p": "Anjali was adopted when she was a baby. Which of these is true?",
+   "p": "Which of these is true of every person in the world, whatever their family?",
    "opts": [
-    "She began as one cell and grew in a womb, like everyone",
-    "She began life in a different way",
-    "Her family is not a real family"
+    "They were born in a hospital",
+    "They began as one cell and grew in a womb",
+    "They grew in the womb for exactly 40 weeks"
    ],
-   "a": 0,
-   "why": "Every person began as one cell. Adoption is about which family raises and loves a child. Every family is a real family.",
+   "a": 1,
+   "why": "Some babies are born at home and some in hospital. Some come early and some late. Some are raised by the family they were born into and some are adopted. But every person began as one cell and grew in a womb. Every family is a real family.",
    "outcome": 6
   },
   {

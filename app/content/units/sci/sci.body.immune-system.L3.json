@@ -504,7 +504,7 @@
   "text": [
    "My name is Olga. In the winter of 1882 I lived in a white house above the sea, in a town called Messina, on the island of Sicily. My husband was Élie Metchnikoff. He studied animals so small and so clear that you could see right through them.",
    "Our sitting room was not like other sitting rooms. There were glass dishes on every table. In every dish swam tiny baby starfish, each one smaller than a grain of rice. They were not star-shaped yet. They looked like little bells made of water. Élie would sit for hours with his eye pressed to a microscope, a tube of glass that makes small things look big.",
-   "\"Come and look, Olga,\" he would say. And I would look. Inside each baby starfish, you could see everything. Their tiny stomach. Its thin walls. And something else. Small round blobs that drifted about inside it, all by themselves, like boats with no oars.",
+   "\"Come and look, Olga,\" he would say. And I would look. Inside each baby starfish, you could see everything. Their tiny stomach. Its thin walls. And something else. Small round blobs that drifted about inside them, all by themselves, like boats with no oars.",
    "\"What are they?\" I asked.",
    "\"I do not know,\" said Élie. \"They wander. Nobody has told them where to go. And yet they go.\"",
    "My little brother Sasha was staying with us that winter. He was eight. He did not care for starfish. He cared for oranges, and for climbing the low wall at the end of the garden, and for the circus.",
@@ -514,7 +514,7 @@
    "\"Olga,\" he said. \"I have had an idea. It may be the most important idea of my life.\"",
    "This is what had happened. Alone in the quiet house, he had been watching the wandering blobs. And a thought had struck him, the way lightning strikes a tree. What if the blobs were guards? What if, when something got inside the starfish that should not be there, they came to fight it?",
    "\"But how can you know?\" I said.",
-   "\"I can poke it,\" said Élie. \"I can put something in, and see if they come.\"",
+   "\"I can test it,\" said Élie. \"I can put something into a starfish, and see if the blobs come.\"",
    "A few days before, we had made a Christmas tree for the children out of a small tangerine tree in the garden. Roses grew beside the tree. While we were at the circus, Élie had gone out into the garden and snapped off a few rose thorns.",
    "That evening, very gently, he pushed a single rose thorn into each baby starfish. Then he covered the dishes and went to bed. He did not sleep. I heard him get up twice in the night, and stand by the dishes, and sit down again.",
    "In the morning, Sasha woke with a cry. While climbing the garden wall the day before, he had pushed a splinter of wood into his finger. Now the finger was red and fat and hot. He held it up to me, frightened.",
@@ -525,12 +525,12 @@
    "\"They came,\" Élie whispered. \"In the night, they all came.\"",
    "Sasha pushed in to look. He squinted down the tube for a long time. Then he lifted his head and stared at his own red finger.",
    "\"Is that,\" he said slowly, \"what is happening in me?\"",
-   "Élie knelt down and took the boy's hand very gently. He looked at the red, fat finger. He touched the hot skin around the splinter.",
-   "\"Yes,\" he said. \"I think it is. This redness is not the splinter eating you, Sasha. It is you. Your own blood is rushing here, carrying your own guards. That warmth is the fire they are standing round. The swelling is the crowd. The splinter got through your wall, and your body has sent an army to the spot where it broke in.\"",
+   "I knelt down and took my brother's hand very gently. I looked at the red, fat finger, and then back at the dish. All at once I understood what Élie had found.",
+   "\"Yes,\" I said. \"I think it is. This redness is not the splinter eating you, Sasha. It is you. Your own blood is rushing here, carrying your own guards. That warmth is the fire they are standing round. The swelling is the crowd. The splinter got through your wall, and your body has sent an army to the spot where it broke in.\"",
    "Sasha looked at his finger as if he had never seen it before. \"So it is not getting worse?\"",
-   "\"It is getting busier,\" said Élie. \"That is different.\"",
+   "\"It is getting busier,\" I said. \"That is different.\" Behind me, Élie nodded, and he was smiling.",
    "I took a needle and cleaned it in a flame, and I eased the splinter out. A tiny bead of yellow came after it. Sasha made a face. \"What is that?\"",
-   "\"Those are guards that fought,\" Élie said quietly. \"Some of them did not survive. They gave themselves up to keep you well.\" He was silent for a moment. \"Every one of us is defended like this. Every second. And nobody notices.\"",
+   "\"Those are guards that fought,\" I said quietly. \"Some of them did not survive. They gave themselves up to keep you well.\" Élie was silent for a moment. Then he said, \"Every one of us is defended like this. Every second. And nobody notices.\"",
    "Within two days, Sasha's finger was pink and ordinary again. Over the next few years, Élie watched the same kind of guards in water fleas and in many other animals. He saw them swallow germs whole. The cells were given a name made from old Greek words. Phagocytes. The eating cells.",
    "Many great scientists disagreed with him. Germs are killed by chemicals in the blood, they said. Not by little wandering blobs. The argument went on for twenty-five years. Then, in 1908, Élie was given the Nobel Prize, the biggest prize in science. He shared it with Paul Ehrlich, who had studied the chemicals in the blood. They had both been right. The body uses chemicals and cells together.",
    "But the evening I remember best is not the evening of the prize. It is the evening of the circus, when we came home laughing and found him in the middle of the room with his hair on end. The monkeys and the fire-eater had been wonderful. But the real show had been in a glass dish, in a creature smaller than a grain of rice, where a crowd of tiny guards had gathered, in the dark, around a thorn from a Christmas rose."
@@ -549,7 +549,7 @@
    "Élie alone in a winter garden, snapping a thorn off a rose bush beside a small tangerine tree hung with decorations.",
    "Sasha holding up a red, swollen finger with a splinter in it, looking frightened.",
    "The view down the microscope: a dark thorn inside the clear starfish, crowded round by hundreds of tiny blobs.",
-   "Élie kneeling, holding the boy's hand, both looking at the finger with new eyes."
+   "Olga kneeling, holding her little brother's red finger, both looking at it with new eyes, while Élie watches from the microscope."
   ]
  },
  "games": [
@@ -830,153 +830,21 @@
    "items": [
     {
      "t": "mcq",
-     "p": "What is the immune system?",
+     "p": "Germs land on your hands all day long. Yet most days you do not fall ill. What is the best reason?",
      "opts": [
-      "Everything the body does to keep germs out and fight the ones that get in",
-      "One organ in the chest",
-      "A kind of medicine",
-      "The bones of the body"
+      "Germs are too small to hurt anyone",
+      "Your skin is a tight wall with no gaps, so most germs stay outside",
+      "Germs that land on hands always die at once"
      ],
-     "a": 0,
-     "why": "The immune system is not one organ. It is skin, tears, mucus, white blood cells and more, all working together. Picking 'one organ' is a common guess, because the heart and lungs are single organs. Picking 'medicine' mixes up the body's own defences with things we take."
-    },
-    {
-     "t": "mcq",
-     "p": "Which of these is the body's biggest outer wall against germs?",
-     "opts": [
-      "Skin",
-      "Hair",
-      "Teeth",
-      "Nails"
-     ],
-     "a": 0,
-     "why": "Skin covers the whole body. Its tight top layer of dead cells keeps germs out unless there is a cut. Hair and nails protect a little, but they do not wrap the whole body.",
-     "art": "A child's outline coloured all over in a soft skin tone, like a wall."
-    },
-    {
-     "t": "fill",
-     "p": "The sticky stuff in your nose that traps dust and germs is called ____.",
-     "a": [
-      "mucus"
-     ],
-     "why": "Mucus is sticky, so dust and germs that touch it get stuck. Then you blow it out or swallow it. Stomach acid kills many of the swallowed germs."
-    },
-    {
-     "t": "fill",
-     "p": "Tiny cells in your blood that find and eat germs are called ____ blood cells.",
-     "a": [
-      "white"
-     ],
-     "why": "White blood cells travel in the blood and hunt germs. They are almost see-through, but a big pile of them looks pale and creamy."
-    },
-    {
-     "t": "match",
-     "p": "Match each defence to the place it guards.",
-     "pairs": [
-      [
-       "Tears",
-       "eyes"
-      ],
-      [
-       "Mucus and hairs",
-       "nose"
-      ],
-      [
-       "Saliva",
-       "mouth"
-      ],
-      [
-       "Acid",
-       "stomach"
-      ],
-      [
-       "Skin",
-       "the whole outside of the body"
-      ]
-     ],
-     "a": "pairs as given",
-     "why": "Each wet wall guards its own door into the body. Skin guards everywhere else."
-    },
-    {
-     "t": "truefalse",
-     "p": "Your eyes only make tears when you are sad.",
-     "a": false,
-     "why": "False. Your eyes make tears all day. Every blink spreads them to wash the eye. You make extra tears when something stings, like onion gas or dust."
-    },
-    {
-     "t": "truefalse",
-     "p": "Most microbes are harmless or helpful.",
-     "a": true,
-     "why": "True. Only a few microbes are germs that make us ill. Many, like those in curd and on our skin, help us."
-    },
-    {
-     "t": "mcq",
-     "p": "Remember the apple skin test, with four apples in bags? Which apple stayed fresh longest?",
-     "opts": [
-      "The one with its skin whole",
-      "The one with a cut rubbed with soil",
-      "The one with a clean cut",
-      "They all went bad on the same day"
-     ],
-     "a": 0,
-     "why": "The apple with unbroken skin kept microbes out, so it stayed fresh. The cut ones let microbes in. Picking 'all the same day' would mean skin makes no difference, but the test showed it does.",
-     "how": "e1"
-    },
-    {
-     "t": "mcq",
-     "p": "Your knee is scraped. A few hours later the skin round it is red, warm and puffy. What is happening?",
-     "opts": [
-      "Extra blood is bringing white blood cells to fight germs",
-      "The scrape is spreading",
-      "The skin is dying",
-      "Nothing, it is just dirt"
-     ],
-     "a": 0,
-     "why": "Redness, warmth and swelling are signs of inflammation. Blood vessels widen to bring more white blood cells to the spot. Picking 'spreading' is the most common worry. Usually the redness means your body is busy fighting. If redness keeps spreading for days, or red lines appear, a grown-up should see a doctor."
-    },
-    {
-     "t": "mcq",
-     "p": "What is pus?",
-     "opts": [
-      "Mostly white blood cells that died fighting, with dead germs",
-      "Germs that are winning",
-      "Melted skin",
-      "Water from a drink"
-     ],
-     "a": 0,
-     "why": "Pus is the remains of the fight: tired white blood cells and broken germs. Picking 'germs that are winning' is a common fear, but pus shows that defenders have been working there."
-    },
-    {
-     "t": "mcq",
-     "p": "Normal body temperature is about…",
-     "opts": [
-      "37 degrees Celsius",
-      "20 degrees Celsius",
-      "50 degrees Celsius",
-      "100 degrees Celsius"
-     ],
-     "a": 0,
-     "why": "Healthy bodies stay at about 37 degrees Celsius. 20 is the temperature of a cool room. 100 degrees Celsius is boiling water. Many home thermometers in India show Fahrenheit, where normal is about 98.6 degrees. Do not mix up the two scales."
-    },
-    {
-     "t": "mcq",
-     "p": "Which temperature is a fever?",
-     "opts": [
-      "38.5 degrees Celsius",
-      "36.8 degrees Celsius",
-      "36.2 degrees Celsius",
-      "37 degrees Celsius"
-     ],
-     "a": 0,
-     "why": "Doctors usually call 38 degrees Celsius or more a fever. 36.2, 36.8 and 37 are all normal. Picking 37 often means thinking any number above 36 is too hot.",
-     "art": "A digital thermometer showing 38.5."
+     "a": 1,
+     "why": "Skin is the body's biggest wall. Its top layer is made of flat dead cells packed tightly together, so germs cannot get through unless there is a cut. Germs are small, but some can make you very ill if they get inside. A strong answer names the skin as a wall."
     },
     {
      "t": "sort",
-     "p": "Sort these. Is it a WALL that keeps germs out, or a FIGHTER inside the body?",
+     "p": "Sort these. Is it a WALL that keeps germs out, or a defence INSIDE the body that fights germs that got in?",
      "cats": [
       "Wall",
-      "Fighter inside"
+      "Inside"
      ],
      "items": [
       [
@@ -989,7 +857,7 @@
       ],
       [
        "white blood cells",
-       "Fighter inside"
+       "Inside"
       ],
       [
        "mucus",
@@ -997,7 +865,7 @@
       ],
       [
        "fever",
-       "Fighter inside"
+       "Inside"
       ],
       [
        "stomach acid",
@@ -1005,11 +873,80 @@
       ]
      ],
      "a": "see items",
-     "why": "Walls stop germs at the doors: skin, tears, mucus, stomach acid. Once germs are inside, white blood cells and fever fight them."
+     "why": "Walls stop germs at the doors: skin, tears, mucus and stomach acid. Once germs are inside, white blood cells fight them, and a fever helps the fight."
+    },
+    {
+     "t": "write",
+     "p": "Find the mistake. Divya, a girl in Class 3, says, 'Tears are only for when you are sad.' Use the onion activity and your blink count to show what is wrong.",
+     "lines": 3,
+     "a": "Divya is wrong. When the onion was cut, my eyes made tears even though I was not sad. The tears washed out the stinging gas. And we blink about 15 times a minute, all day. Each blink spreads a thin layer of tears to wash and wet the eye.",
+     "why": "A strong answer uses evidence the child saw: tears came with the onion, without any sadness, and blinking spreads tears all day. It ends with the job of tears: to wash dust and germs out of the eyes.",
+     "how": "a1"
+    },
+    {
+     "t": "mcq",
+     "p": "Remember the Apple Skin Test? Apple A was left whole. Apple B had one clean cut. Which apple went soft and brown first, and why?",
+     "opts": [
+      "Apple A, because whole apples rot from the inside",
+      "Both at the same time, because they are the same kind of apple",
+      "Apple B, because microbes got in through the cut"
+     ],
+     "a": 2,
+     "why": "Microbes landed on both apples. On apple A, the skin kept them out. On apple B, the cut was an open door. A strong answer gives the reason, not just the letter: the skin is the wall, and a cut is a hole in it.",
+     "how": "e1"
+    },
+    {
+     "t": "match",
+     "p": "Each wall stops germs in its own way. Match each wall to how it works.",
+     "pairs": [
+      [
+       "Skin",
+       "a tight cover of dead cells with no gaps"
+      ],
+      [
+       "Mucus",
+       "a sticky trap that catches dust and germs in the nose"
+      ],
+      [
+       "Tears",
+       "wash dust and germs out of the eyes"
+      ],
+      [
+       "Stomach acid",
+       "kills many germs that come in with food"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each wall guards a different door. The skin covers everything. Mucus traps, tears wash, and the acid in the stomach kills many germs that get swallowed."
+    },
+    {
+     "t": "fill",
+     "p": "When germs get past the walls, ____ blood cells find them and eat them.",
+     "a": [
+      "white"
+     ],
+     "why": "White blood cells travel in the blood and hunt germs. They are almost see-through, but a big crowd of them looks pale and creamy, like pus."
+    },
+    {
+     "t": "mcq",
+     "p": "Kavya, a girl in Class 4, scraped her knee. The next morning, the skin round the scrape is red, warm and puffy. What is most likely happening?",
+     "opts": [
+      "The scrape is spreading and getting worse",
+      "Extra blood is bringing white blood cells to fight germs at the scrape",
+      "The skin round the scrape is dying"
+     ],
+     "a": 1,
+     "why": "Redness, warmth and swelling are called inflammation. Blood vessels near the scrape widen, so more blood and more white blood cells reach the spot. It looks like damage, but it is the body at work. If the redness keeps spreading for days, or red lines appear, a grown-up should take her to a doctor."
+    },
+    {
+     "t": "truefalse",
+     "p": "Pus coming out of a cut means the germs are winning.",
+     "a": false,
+     "why": "False. Many people believe this. Pus is mostly white blood cells that died fighting, with broken germs. So pus shows that the defenders have been working there. A cut with lots of pus, or one that gets more painful, still needs a doctor."
     },
     {
      "t": "order",
-     "p": "Put in order what happens when you get a cut.",
+     "p": "You get a cut on your finger. Put these in order, from first to last.",
      "items": [
       "The skin is broken",
       "Germs get in",
@@ -1021,21 +958,81 @@
      "why": "First the wall breaks and germs get in. Then the defenders arrive through the blood and eat them. Last, the hole is sealed and new skin grows."
     },
     {
+     "t": "mcq",
+     "p": "Which of these temperatures is a fever?",
+     "opts": [
+      "36.6 degrees Celsius",
+      "37.0 degrees Celsius",
+      "38.4 degrees Celsius"
+     ],
+     "a": 2,
+     "why": "Doctors usually call 38 degrees Celsius or more a fever. 36.6 and 37 are both normal. Picking 37 often comes from thinking that anything above 36 is too hot."
+    },
+    {
      "t": "write",
-     "p": "Why do we wash a cut with clean water and cover it? Use the words skin and germs.",
+     "p": "Kavya says, 'Germs can only get inside you through a cut.' Name two other doors into the body that germs can use. Say which wall guards each one.",
      "lines": 3,
-     "a": "A cut is a hole in my skin, so germs can get in. Washing takes most germs away. Covering it keeps new germs out until new skin grows.",
-     "why": "Skin keeps germs out only when it has no holes. Washing and covering help it while it heals."
+     "a": "The eyes are a door, and tears guard them. The nose is a door, and mucus and nose hairs guard it. The mouth is a door, and saliva and stomach acid guard it.",
+     "why": "A strong answer names two real doors (eyes, nose, mouth) and the right wall for each. This is why we wash our hands before touching our face or eating."
     },
     {
      "t": "draw",
-     "p": "Draw a face. Label three defences: tears, nose hairs and mucus, and saliva.",
-     "a": "A face with tears at the eyes, hairs and sticky mucus in the nose, and saliva in the mouth, each labelled.",
-     "why": "The eyes, nose and mouth are open doors into the body. Each has its own wet wall.",
-     "art": "A blank face outline with three label lines."
+     "p": "Draw a scraped knee as if it were cut in half, seen from the side. Show the skin, a blood vessel, white blood cells, pus and a scab. Label each one.",
+     "a": "A side view with the skin on top and a gap where it was scraped. A blood vessel runs below. White blood cells are coming out of the vessel towards the gap. Pus sits in the gap, and a scab covers the top.",
+     "why": "A strong drawing shows the white blood cells coming from the blood, not from the air. It puts the scab on top, sealing the hole in the skin wall.",
+     "how": "a6"
+    },
+    {
+     "t": "perspective",
+     "p": "A family argues about whether children should play in mud.",
+     "views": [
+      {
+       "who": "Paati, the grandmother",
+       "says": "Mud is full of germs. Keep the children clean and indoors."
+      },
+      {
+       "who": "Amma, the mother",
+       "says": "Most microbes in mud are harmless. Children who meet lots of harmless microbes may get fewer allergies."
+      },
+      {
+       "who": "Dr Revathi, the family doctor",
+       "says": "Mud play is fine. But wash hands before eating, and wash and cover any cut."
+      }
+     ],
+     "ask": "Whose side are you on? Give a reason from this unit. Then say one thing another person gets right.",
+     "lines": 5,
+     "a": "A strong answer picks a side and uses the unit: for example, most microbes are harmless or helpful, or a cut is an open door for germs. Then it fairly gives another person's best point, for example that dirty hands carry germs into the mouth.",
+     "why": "There is no single winner. Paati is right that some germs live in soil, as apple C showed. Amma's idea about allergies is studied by scientists, but it is not settled. Dr Revathi joins both: play, then wash."
+    },
+    {
+     "t": "truefalse",
+     "p": "Most microbes are harmless or helpful.",
+     "a": true,
+     "why": "True. Only a few microbes are germs that make us ill. Many, like those in curd and on our skin, help us."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Sticky Nose Test, the sticky card caught many more dust specks than the smooth card. Which part of your nose works like the sticky card?",
+     "opts": [
+      "The mucus",
+      "The bone in your nose",
+      "The nostril holes"
+     ],
+     "a": 0,
+     "why": "Mucus is sticky, like the tape facing up. Dust and germs that touch it get stuck. Then you blow them out or swallow them, and stomach acid kills many of the swallowed germs.",
+     "how": "e3"
+    },
+    {
+     "t": "fill",
+     "p": "A healthy body stays at about ____ degrees Celsius.",
+     "a": [
+      "37",
+      "thirty-seven"
+     ],
+     "why": "About 37 degrees Celsius. It changes a little through the day. Many home thermometers in India show Fahrenheit, where normal is about 98.6 degrees. Do not mix up the two scales."
     }
    ],
-   "context": "This worksheet checks the main ideas: the body's walls, white blood cells, inflammation and fever."
+   "context": "This worksheet checks the main ideas: the body's walls, white blood cells, inflammation, fever and friendly microbes."
   },
   {
    "id": "ws-stretch",
@@ -1047,24 +1044,24 @@
      "t": "mcq",
      "p": "Why do you shiver at the start of a fever, even though you are getting hotter?",
      "opts": [
-      "The brain has turned the body's heat knob up, so normal now feels too cold",
       "Because the room is cold",
       "Because germs are cold",
+      "The brain has turned the body's heat knob up, so normal now feels too cold",
       "Because white blood cells are cold"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In a fever the brain sets a new, higher temperature. Until the body reaches it, normal 37 degrees feels too cold, so you shiver and want a blanket. Shivering makes heat. Picking 'the room is cold' is natural, but you shiver even in a warm room."
     },
     {
      "t": "mcq",
      "p": "Remember the sticky nose test, with a sticky tape card and a smooth tape card by the window? In one family's test, the sticky card held 42 specks and the smooth card held 6. What does this show?",
      "opts": [
-      "Sticky surfaces, like mucus, trap much more dust",
       "Smooth cards make dust disappear",
+      "Sticky surfaces, like mucus, trap much more dust",
       "Dust only lands on sticky things",
       "The test was not fair"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Both cards were in the same place for the same time. Only stickiness changed, so stickiness must trap more dust. Dust lands on the smooth card too, but most of it falls off when the card is tapped.",
      "how": "e3",
      "chart": {
@@ -1087,45 +1084,55 @@
      }
     },
     {
-     "t": "mcq",
-     "p": "Remember the four apples in bags? Apple C had soil rubbed in its cut. Apple D had soil, then was washed. Which went bad faster?",
-     "opts": [
-      "Apple C, because nobody washed the germs away",
-      "Apple D, because water makes apples rot",
-      "They were exactly the same",
-      "Neither, because soil has no microbes"
-     ],
-     "a": 0,
-     "why": "Washing took away many of the microbes from the soil. So the washed apple usually rots more slowly. Soil is full of microbes, which is why it made apple C go bad. This is why we wash a scrape.",
+     "t": "write",
+     "p": "Remember the four apples? Apple C had soil rubbed into its cut. Apple D had soil rubbed in too, and then was washed. Apple C went bad faster. What does this tell you about what to do with a scrape?",
+     "lines": 3,
+     "a": "Soil has many microbes, and some of them rot apples or cause illness. Washing took many of them away, so apple D rotted more slowly. So when I scrape my knee, I should wash it with clean water, and then cover it.",
+     "why": "A strong answer says what the apples showed, and then uses it for a new case: a scrape. It names washing as the thing that made the difference.",
      "how": "e1"
     },
     {
-     "t": "fill",
-     "p": "A white blood cell that eats germs is called a ____. The word means 'eating cell'.",
-     "a": [
-      "phagocyte"
+     "t": "perspective",
+     "p": "Lalitha, a girl in Class 4, has a fever of 38.5 degrees Celsius. She feels tired but is drinking water. Three people give different advice.",
+     "views": [
+      {
+       "who": "Her aunt",
+       "says": "Give her fever medicine now. A high number is dangerous, so bring it down fast."
+      },
+      {
+       "who": "Her grandmother",
+       "says": "Let the fever be. The body turned up the heat to fight the germs."
+      },
+      {
+       "who": "Dr Meera, a children's doctor",
+       "says": "Watch the child, not the number. Give medicine if she is uncomfortable or cannot sleep. Call me if there are warning signs."
+      }
      ],
-     "why": "Phagocyte comes from old Greek words for eating and cell. Élie Metchnikoff studied these cells, starting with baby starfish in 1882."
+     "ask": "Whose advice would you follow? Use what you know about fever. Then say one thing another person gets right.",
+     "lines": 5,
+     "a": "A strong answer uses the science: a fever is the brain turning up the heat, many germs grow more slowly in the heat, and sick lizards kept cool were more likely to die. It then admits another fair point, for example that medicine can help a child sleep and drink, or that some fevers need a doctor.",
+     "why": "This is a real argument. Doctors today mostly agree with Dr Meera: medicine is for comfort, and warning signs matter more than the number. The grandmother is right that fever helps. The aunt is right that a child who is very unwell needs care."
     },
     {
-     "t": "fill",
-     "p": "Alexander Fleming found a chemical in tears and mucus that breaks some germs open. It is called ____.",
-     "a": [
-      "lysozyme"
-     ],
-     "why": "Fleming found lysozyme in 1921, when a drop from his runny nose dissolved bacteria in a dish. Tears, saliva and egg white all contain it."
+     "t": "write",
+     "p": "Predict. Anu blinks about 15 times a minute while she chats. While she reads an exciting book, she blinks only about 5 times a minute. After an hour of reading, how might her eyes feel? Why?",
+     "lines": 3,
+     "a": "Her eyes might feel dry, tired or itchy. Each blink spreads tears over the eye to wet it and wash it. With fewer blinks, the eyes get less washing and dry out.",
+     "why": "A strong answer links blinking to tears, and tears to the eye's wall. It might add a fix: look up from the book and blink now and then.",
+     "how": "a4"
     },
     {
      "t": "mcq",
-     "p": "White blood cells are made…",
+     "p": "A white blood cell finds a germ by…",
      "opts": [
-      "Inside your bones, in the bone marrow",
-      "In your stomach",
-      "In your skin",
-      "In your hair"
+      "Looking with tiny eyes",
+      "Following chemical signals and feeling the germ's shapes",
+      "Listening for them",
+      "Waiting for the germ to come to them"
      ],
-     "a": 0,
-     "why": "White blood cells, and red blood cells too, are made in the soft middle of your bones, called bone marrow. Then they travel in the blood."
+     "a": 1,
+     "why": "Hurt cells release chemicals, and white blood cells crawl towards them. When they touch a germ, shapes fit together like a key in a lock. White blood cells have no eyes or ears. Picking 'eyes' is natural, because that's how we find things.",
+     "how": "a3"
     },
     {
      "t": "truefalse",
@@ -1134,60 +1141,11 @@
      "why": "False. Most fevers are the body fighting germs, and they pass in a few days. Doctors say to look after the child's comfort and watch for warning signs, rather than chase a number."
     },
     {
-     "t": "truefalse",
-     "p": "About as many bacteria live on and in your body as there are cells of your own.",
-     "a": true,
-     "why": "True. Scientists counted in 2016. A grown-up has roughly 38 trillion bacteria and 30 trillion human cells. Most of the bacteria are harmless or helpful."
-    },
-    {
-     "t": "mcq",
-     "p": "A white blood cell finds a germ by…",
-     "opts": [
-      "Following chemical signals and feeling the germ's shapes",
-      "Looking with tiny eyes",
-      "Listening for them",
-      "Waiting for the germ to come to them"
-     ],
-     "a": 0,
-     "why": "Hurt cells release chemicals, and white blood cells crawl towards them. When they touch a germ, shapes fit together like a key in a lock. White blood cells have no eyes or ears. Picking 'eyes' is natural, because that's how we find things.",
-     "how": "a3"
-    },
-    {
-     "t": "mcq",
-     "p": "Remember the lizard's fever activity? In real experiments, sick lizards crawled to warmer places. Why?",
-     "opts": [
-      "To give themselves a fever, which helps them fight germs",
-      "Because they were bored",
-      "Because they were hungry",
-      "Because cold makes germs grow"
-     ],
-     "a": 0,
-     "why": "Lizards make very little heat of their own, so they use warm rocks. Sick lizards chose warmer spots, and those kept cool were more likely to die. Fever is an old defence. Picking 'cold makes germs grow' is not right: many germs grow more slowly in heat.",
-     "how": "a5"
-    },
-    {
-     "t": "match",
-     "p": "Match each person to what they found.",
-     "pairs": [
-      [
-       "Élie Metchnikoff",
-       "cells that eat germs, seen around a thorn in a starfish"
-      ],
-      [
-       "Alexander Fleming",
-       "lysozyme, a germ-breaking chemical in tears"
-      ],
-      [
-       "Celsus",
-       "the four signs of inflammation: red, hot, swollen, sore"
-      ],
-      [
-       "Matthew Kluger",
-       "sick lizards give themselves a fever"
-      ]
-     ],
-     "a": "pairs as given",
-     "why": "Each person added one piece to what we know about the body's defences."
+     "t": "write",
+     "p": "Challenge the belief. Sneha's grandmother says, 'You went out with wet hair, so you caught a cold.' Sneha says, 'A cold is caused by a virus.' Who is right, and how could both be partly right?",
+     "lines": 3,
+     "a": "Sneha is right that a cold needs a virus. Without the virus, wet hair cannot give you a cold. But some studies suggest that a cold nose fights viruses a little less well. So getting chilly might help a virus that is already there.",
+     "why": "A strong answer says what causes a cold (a virus) and then treats the grandmother's idea fairly. Scientists are still studying how cold weather affects colds."
     },
     {
      "t": "sort",
@@ -1226,18 +1184,24 @@
      "why": "Sleep, varied food, play and handwashing help the body work well. No single drink boosts immunity, and scrubbing skin raw damages the wall and its friendly microbes."
     },
     {
-     "t": "write",
-     "p": "Your friend says the redness round her cut means the cut is getting worse. What would you tell her?",
-     "lines": 3,
-     "a": "The redness is your blood bringing white blood cells to fight germs. It means your body is busy. But if it keeps spreading for days, or gets very painful, tell a grown-up.",
-     "why": "Redness and warmth are usually signs of the body's fight, not damage. Spreading redness or red lines can mean the germs are winning, and need a doctor."
+     "t": "mcq",
+     "p": "Remember the lizard's fever activity? In real experiments, sick lizards crawled to warmer places. Why?",
+     "opts": [
+      "Because they were bored",
+      "Because they were hungry",
+      "To give themselves a fever, which helps them fight germs",
+      "Because cold makes germs grow"
+     ],
+     "a": 2,
+     "why": "Lizards make very little heat of their own, so they use warm rocks. Sick lizards chose warmer spots, and those kept cool were more likely to die. Fever is an old defence. Picking 'cold makes germs grow' is not right: many germs grow more slowly in heat.",
+     "how": "a5"
     },
     {
      "t": "write",
-     "p": "Why do doctors say to sneeze into your elbow and not your hand?",
+     "p": "Why do doctors say to sneeze into your elbow, not your hand? Use your Sneeze Stopper test.",
      "lines": 3,
-     "a": "My hand touches food, faces and door handles, so it would pass the germs on. My elbow doesn't touch much.",
-     "why": "Both catch drops, but hands spread germs afterwards. Remember the sneeze stopper challenge.",
+     "a": "Both catch the drops. But my hand then touches food, faces and door handles, and passes the germs on. My elbow hardly touches anything.",
+     "why": "A strong answer says that hands spread germs after the sneeze, and uses the spots on the paper from the Sneeze Stopper test as evidence that a sleeve catches drops.",
      "how": "c1"
     },
     {
@@ -1246,9 +1210,63 @@
      "a": "1. A blob cell touching a small germ. 2. The cell's edges wrapping around the germ. 3. The germ inside the cell.",
      "why": "Phagocytes eat germs by wrapping around them and pulling them inside, where chemicals break them down.",
      "how": "a3"
+    },
+    {
+     "t": "fill",
+     "p": "A white blood cell that eats germs is called a ____. The word means 'eating cell'.",
+     "a": [
+      "phagocyte"
+     ],
+     "why": "Phagocyte comes from old Greek words for eating and cell. Élie Metchnikoff studied these cells, starting with baby starfish in 1882."
+    },
+    {
+     "t": "mcq",
+     "p": "Antibiotics are medicines that kill bacteria. Shanthi, a girl in Class 4, has a cold, which is caused by a virus. Will an antibiotic help her get better?",
+     "opts": [
+      "Yes, antibiotics kill every kind of germ",
+      "No. Antibiotics do not work on viruses. Rest, water and her own immune system will beat the cold.",
+      "Only if she takes a double dose"
+     ],
+     "a": 1,
+     "why": "Many people think antibiotics cure colds. They do not, because a cold is caused by a virus, not bacteria. Taking antibiotics when they are not needed also helps bacteria learn to survive them. A strong answer says why: antibiotics work on bacteria only."
+    },
+    {
+     "t": "match",
+     "p": "After a cut, you can see signs of the body's fight. Match each sign to what is causing it.",
+     "pairs": [
+      [
+       "Redness",
+       "more blood flowing to the spot"
+      ],
+      [
+       "Swelling",
+       "fluid and white blood cells coming out of the blood vessels"
+      ],
+      [
+       "Pus",
+       "white blood cells that fought, with dead germs"
+      ],
+      [
+       "Scab",
+       "dried blood sealing the hole in the skin"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each sign has a cause inside the body. Together they show the steps: more blood comes, defenders leave the vessels, they fight, and the hole is sealed."
+    },
+    {
+     "t": "mcq",
+     "p": "A vaccine shows the immune system a harmless form of a germ, such as a dead or weakened one. Why does this help when the real germ comes later?",
+     "opts": [
+      "The body recognises the germ and fights them much faster",
+      "The vaccine makes the skin thicker",
+      "The vaccine kills every microbe in the body"
+     ],
+     "a": 0,
+     "why": "The immune system remembers the shapes on a germ. After a vaccine, the body has met those shapes already. When the real germ arrives, the body is ready, and fights before the germ can make you very ill."
     }
    ],
-   "context": "This worksheet goes further: how fever works, what the experiments showed, and the people who found these things out."
+   "context": "This worksheet uses the ideas on new cases: fever advice, colds, antibiotics, vaccines and what the tests showed."
   },
   {
    "id": "ws-challenge",
@@ -1260,78 +1278,60 @@
      "t": "mcq",
      "p": "Your immune system does not attack the food you eat, even though food comes from outside. What is one idea scientists have for why?",
      "opts": [
-      "It attacks only things that send 'danger' signals, like hurt cells",
       "Food has no shapes on it",
       "The stomach hides food from white blood cells forever",
+      "It attacks only things that send 'danger' signals, like hurt cells",
       "White blood cells are asleep after meals"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Polly Matzinger's 'danger model' says the immune system reacts to danger, not just to anything new. Food, friendly microbes and a growing baby don't send danger signals. Most scientists think danger and 'self' both matter. Food does have shapes, so that answer doesn't work."
     },
     {
      "t": "mcq",
      "p": "Plants have no blood and no white blood cells. How do they defend themselves?",
      "opts": [
-      "Waxy leaves, closing leaf pores, sticky sap and chemical alarms",
       "They can't defend themselves at all",
+      "Waxy leaves, closing leaf pores, sticky sap and chemical alarms",
       "They run away from germs",
       "They grow white blood cells in their roots"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Plants have their own defences. They close the tiny holes in their leaves when germs land, seal wounds with sap, and send chemical warnings to other leaves. Picking 'can't defend' is natural, because we can't see a plant's fight."
     },
     {
      "t": "mcq",
      "p": "Bacteria are single cells. Can they defend themselves against viruses?",
      "opts": [
-      "Yes, some cut up virus pieces and remember them, using a system called CRISPR",
       "No, bacteria have no defences",
       "Only if they live inside people",
+      "Yes, some cut up virus pieces and remember them, using a system called CRISPR",
       "Only in hot places"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In 2007, scientists found that some bacteria, like those used to make yoghurt, store bits of the viruses that attacked them. Next time, they use these bits to recognise the virus and cut them up. Even a single cell has an immune system."
-    },
-    {
-     "t": "fill",
-     "p": "A fever is controlled by the ____, which works like a heat knob.",
-     "a": [
-      "brain"
-     ],
-     "why": "A part of the brain sets the body's temperature. Chemicals from white blood cells reach it and turn the setting up."
-    },
-    {
-     "t": "fill",
-     "p": "Celsus, a Roman writer, said inflammation has four signs: redness, heat, swelling and ____.",
-     "a": [
-      "pain",
-      "soreness"
-     ],
-     "why": "Pain comes partly because swelling presses on nerves. Celsus wrote this about 2,000 years ago, and doctors still use his list."
     },
     {
      "t": "mcq",
      "p": "A body thermometer reads 101 degrees Fahrenheit. What is that in Celsius, roughly, and is it a fever?",
      "opts": [
-      "About 38.3 degrees Celsius: yes, a fever",
       "About 101 degrees Celsius: boiling hot",
+      "About 38.3 degrees Celsius: yes, a fever",
       "About 36 degrees Celsius: normal",
       "You can't tell"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Normal is about 98.6 degrees Fahrenheit, which is 37 degrees Celsius. A fever starts at about 100.4 degrees Fahrenheit, which is 38 degrees Celsius. So 101 Fahrenheit is about 38.3 Celsius, a fever. Picking 101 Celsius mixes up the two scales.",
      "art": "Two thermometer faces side by side, one in Celsius and one in Fahrenheit."
     },
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl in Class 3, took her temperature during the day. It read 36.3 degrees at 7 am and 36.9 after running. What is the best explanation?",
+     "p": "Meenakshi, a girl in Class 3, took her temperature four times in one day. It read 36.3 degrees Celsius at 7 am and 36.9 after running. What is the best explanation?",
      "opts": [
-      "Body temperature changes a little in a day, and exercise makes heat",
-      "The child had a fever after running",
-      "The thermometer broke",
-      "Temperature never changes"
+      "Her body has a fever after running",
+      "Body temperature changes a little through the day, and moving muscles make heat",
+      "The thermometer is broken"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A small change of half a degree or so is normal. Moving muscles make heat, and the body is coolest early in the morning. 36.9 is not a fever, because a fever is 38 or more.",
      "how": "e2",
      "chart": {
@@ -1364,12 +1364,6 @@
      "p": "White blood cells sometimes attack the body's own cells by mistake.",
      "a": true,
      "why": "True. This is called an autoimmune illness. It shows how hard the job of telling 'me' from 'not me' is. You will learn more in Class 5."
-    },
-    {
-     "t": "truefalse",
-     "p": "Getting your hair wet on a cold day is enough, by itself, to give you a cold.",
-     "a": false,
-     "why": "False. A cold is caused by a virus. Without the virus, you can't catch a cold. Some studies suggest a cold nose may fight viruses a little less well. So it is not a silly worry, but the virus is what matters."
     },
     {
      "t": "order",
@@ -1409,11 +1403,22 @@
      "why": "All living things defend themselves, each in their own way."
     },
     {
-     "t": "write",
-     "p": "Élie Metchnikoff and Paul Ehrlich argued for years. One said cells fight germs. The other said chemicals in the blood do. Who was right? What can we learn from this?",
-     "lines": 4,
-     "a": "They were both right. The body uses cells that eat germs and chemicals that grab germs. We can learn that two people who disagree can both see part of the truth.",
-     "why": "They shared the Nobel Prize in 1908. This is like the story of the blind men and the elephant: each saw part."
+     "t": "perspective",
+     "p": "Two real scientists argued for about 25 years about how the body kills germs that get inside.",
+     "views": [
+      {
+       "who": "Élie Metchnikoff, who studied baby starfish",
+       "says": "Cells kill germs. I saw wandering cells crowd round a thorn and swallow germs."
+      },
+      {
+       "who": "Paul Ehrlich, who studied blood",
+       "says": "Chemicals in the blood kill germs. Blood with no cells in it can still kill some bacteria."
+      }
+     ],
+     "ask": "Which scientist would you have backed in 1890? Give your reason. Then say what the other one had right.",
+     "lines": 5,
+     "a": "A strong answer backs one side with his own evidence: the crowd of cells round the thorn, or blood with no cells still killing bacteria. Then it says what the other got right. The best answers notice that both pieces of evidence were real, so both ideas could be true.",
+     "why": "In 1908 they shared the Nobel Prize. The body uses both: cells that eat germs, and chemicals in the blood that grab them. Two people who disagree can each see part of the truth."
     },
     {
      "t": "write",
@@ -1423,11 +1428,22 @@
      "why": "A fair test changes only one thing and counts the results. Pretend drinks help stop people's hopes from changing the results."
     },
     {
-     "t": "write",
-     "p": "About half the living cells on and in you are microbes. Do you think they are part of 'you'? Give a reason.",
-     "lines": 4,
-     "a": "Any honest answer with a reason. For example: Yes, because they help me digest food and keep germs away, and I can't live well without them. Or: No, because they are separate living things that came from outside.",
-     "why": "There is no single right answer. Scientists and philosophers argue about this too."
+     "t": "perspective",
+     "p": "About half the living cells on and in your body are microbes, mostly in your gut. Two cousins argue about them.",
+     "views": [
+      {
+       "who": "Revathi, aged 10",
+       "says": "My microbes are part of me. They help me digest food and keep germs away. I could not live well without them."
+      },
+      {
+       "who": "Karthik, her cousin, aged 9",
+       "says": "My microbes are not me. They are separate living beings who came from outside and could live somewhere else."
+      }
+     ],
+     "ask": "Whose side are you on? Give a reason. Then say the best point the other cousin makes.",
+     "lines": 5,
+     "a": "A strong answer picks a side and backs it with a fact: friendly microbes help digest food and crowd out germs, or microbes are separate beings with their own DNA. Then it fairly states the other cousin's best point.",
+     "why": "There is no single right answer. Scientists and philosophers argue about this too. The immune system itself has to decide, every day, which microbes belong."
     },
     {
      "t": "draw",
@@ -1435,6 +1451,62 @@
      "a": "A castle with a skin wall, eye, nose and mouth gates with tears, mucus and saliva, white blood cell guards on a blood road, and a heat knob for fever, all labelled.",
      "why": "A model drawing like this shows how the defences work in layers.",
      "how": "p1"
+    },
+    {
+     "t": "write",
+     "p": "What if your body could not make a fever at all? Predict what might happen when germs get in. Use the lizard experiment as evidence.",
+     "lines": 4,
+     "a": "The germs might grow faster, because many germs grow more slowly when it is hotter. Some white blood cells also work faster when warm. The lizards kept cool were more likely to die, so without fever I might get more ill, or stay ill longer.",
+     "why": "A strong answer gives a prediction and a reason, then uses the lizards as evidence. It might add that fever is not the only defence, so the walls and white blood cells would still help.",
+     "how": "a5"
+    },
+    {
+     "t": "write",
+     "p": "Find the mistake. An advert says, 'This cream kills 99.9% of germs on your skin. Use it every hour!' What is wrong with using it every hour?",
+     "lines": 4,
+     "a": "Most microbes on the skin are harmless or helpful. They take up space and food, so harmful germs find it harder to settle. Killing them every hour harms the skin's helpers, and rubbing the skin again and again can dry and crack it, which opens doors for germs.",
+     "why": "A strong answer uses two ideas from the unit: friendly microbes help guard the skin, and a cracked skin wall lets germs in. Washing hands with soap before eating is enough for most days."
+    },
+    {
+     "t": "fill",
+     "p": "Celsus, a Roman writer, said inflammation has four signs: redness, heat, swelling and ____.",
+     "a": [
+      "pain",
+      "soreness"
+     ],
+     "why": "Pain comes partly because swelling presses on nerves. Celsus wrote this about 2,000 years ago, and doctors still use his list."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these. Do scientists agree on this, or do they still argue about it?",
+     "cats": [
+      "Scientists agree",
+      "Scientists still argue"
+     ],
+     "items": [
+      [
+       "white blood cells eat germs",
+       "Scientists agree"
+      ],
+      [
+       "a cold is caused by a virus",
+       "Scientists agree"
+      ],
+      [
+       "skin keeps germs out unless it is broken",
+       "Scientists agree"
+      ],
+      [
+       "why allergies have become more common",
+       "Scientists still argue"
+      ],
+      [
+       "exactly how the body tells harmless microbes from harmful ones",
+       "Scientists still argue"
+      ]
+     ],
+     "a": "see items",
+     "why": "Some things have been tested again and again. Others are still open. A strong answer can say why an open question is hard: there are trillions of microbes, and each person's body is a little different."
     }
    ],
    "context": "This worksheet is for children who want a challenge: how the body tells self from not-self, defences in plants and bacteria, and open questions."
@@ -2338,7 +2410,7 @@
      "id": "s2",
      "mins": 7,
      "do": "Ask your child to close their eyes, feel for germs, and wrap the sock hand round each one. Each wrapped germ goes in the bowl.",
-     "say": "A white blood cell has no eyes. They find germs by touch and by chemical smells. Close your eyes. Feel each thing in the tray. Germs feel crumpled. Your own cells feel smooth. When you find a germ, close your sock hand round it and drop it in the bowl. Leave the smooth ones alone.",
+     "say": "A white blood cell has no eyes. They find germs by touch and by chemical smells. Close your eyes. Feel each thing in the tray. Germs feel crumpled. Your own cells feel smooth. When you find a germ, close your sock hand round them and drop it in the bowl. Leave the smooth ones alone.",
      "kid": "Close your eyes. Feel the things in the tray. Germs feel crumpled. Your own cells feel smooth. Wrap your sock round a germ. Drop it in the bowl.",
      "parent": "Feeling crumpled or smooth stands for the shapes on a germ's surface. Real white blood cells recognise germs by touch, when shapes fit together like a key in a lock.",
      "check": {
@@ -2950,40 +3022,38 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "What does the immune system do?",
+   "p": "Ravi, a boy in Class 3, says the immune system is one organ, like the heart. Is he right?",
    "opts": [
-    "Keeps germs out and fights the ones that get in",
-    "Pumps blood round the body",
-    "Digests food",
-    "Holds the body up"
+    "Yes. It sits in the chest",
+    "No. It is many parts working together, like skin, tears, mucus, white blood cells and fever",
+    "Yes. It is the stomach"
    ],
-   "a": 0,
-   "why": "The immune system is the body's defence. Pumping blood is the heart's job. Holding the body up is the skeleton's job.",
+   "a": 1,
+   "why": "The immune system is not one organ. It is everything the body does to keep germs out and to fight the ones that get in.",
    "outcome": 0
   },
   {
    "t": "mcq",
-   "p": "Germs land on your hand. What usually stops them getting inside you?",
+   "p": "Germs on an unwashed guava go into your mouth. Saliva washes some of them down. Which wall do the swallowed germs meet next?",
    "opts": [
-    "Unbroken skin",
-    "Your hair",
-    "Your fingernails",
-    "Nothing can stop them"
+    "Tears",
+    "Nose hairs",
+    "Stomach acid"
    ],
-   "a": 0,
-   "why": "Skin's tight top layer of dead cells is a wall. Germs get in through cuts, or when dirty hands touch the eyes, nose or mouth. Picking 'nothing' would mean we were ill all the time.",
+   "a": 2,
+   "why": "The acid in the stomach kills many germs that come in with food. Tears guard the eyes, and nose hairs guard the nose.",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "Why do your eyes fill with tears when a grown-up cuts an onion?",
+   "p": "Why do your eyes fill with tears when someone cuts an onion near you?",
    "opts": [
-    "Tears wash out the stinging gas",
     "You feel sad",
+    "Tears wash out the stinging gas",
     "Onions are full of water that jumps into your eyes",
     "Your eyes are tired"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Tears are a defence that washes the eye. Cut onions give off a gas that stings, so the eyes make extra tears. Picking 'sad' shows we often think tears are only for feelings.",
    "outcome": 1,
    "how": "a1",
@@ -2991,83 +3061,75 @@
   },
   {
    "t": "mcq",
-   "p": "What does the mucus in your nose do?",
+   "p": "When you have a cold, your nose runs with extra mucus. How might that help you?",
    "opts": [
-    "Traps dust and germs before they reach your lungs",
-    "Makes germs",
-    "Helps you smell food",
-    "Nothing useful"
+    "The extra mucus traps germs and carries them out",
+    "The extra mucus feeds the germs",
+    "It does not help at all"
    ],
    "a": 0,
-   "why": "Mucus is sticky. Dust and germs get stuck in it, and you blow them out or swallow them. Remember the sticky nose test: the sticky tape trapped far more dust.",
-   "outcome": 1,
-   "how": "e3",
-   "context": "This question is about the sticky nose test, with a sticky tape card and a smooth tape card by a window."
+   "why": "Mucus is a sticky trap. More mucus means more germs are caught and blown out or swallowed. A runny nose is annoying, but it is part of the fight.",
+   "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "What do white blood cells do?",
+   "p": "White blood cells and red blood cells both travel in the blood. Which job belongs to white blood cells?",
    "opts": [
-    "Find germs and destroy them",
-    "Carry oxygen round the body",
-    "Make your skin white",
-    "Make your bones strong"
+    "Carrying oxygen round the body",
+    "Finding germs and destroying them",
+    "Making the skin white"
    ],
-   "a": 0,
-   "why": "White blood cells hunt germs. Some eat them whole. Carrying oxygen is the job of red blood cells. Picking 'make skin white' comes from the name, but white blood cells live in the blood and have nothing to do with skin colour.",
+   "a": 1,
+   "why": "White blood cells hunt germs. Red blood cells carry oxygen. Picking 'making the skin white' comes from the name, but white blood cells have nothing to do with skin colour.",
    "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "Two hours after you scrape your knee, the skin round it is red and warm. Why?",
+   "p": "A splinter goes into Ammu's finger. Which sign shows that her body is fighting germs at that spot?",
    "opts": [
-    "More blood is bringing white blood cells to fight germs",
-    "The scrape is getting bigger",
-    "The skin is burning",
-    "The scrape is healed"
+    "Her finger turns blue and cold",
+    "Nothing changes at all",
+    "Her finger goes red, warm and a little puffy"
    ],
-   "a": 0,
-   "why": "This is inflammation. Blood vessels widen and bring defenders to the spot. Picking 'getting bigger' is a common worry. The redness usually means your body is busy fighting.",
+   "a": 2,
+   "why": "Redness, warmth and swelling are inflammation: more blood brings white blood cells to the spot. This is what Élie Metchnikoff saw round the thorn in the starfish.",
    "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "What is pus mostly made of?",
+   "p": "What does a phagocyte do when they touch a germ?",
    "opts": [
-    "White blood cells that died fighting, and dead germs",
-    "Living germs only",
-    "Skin cream",
-    "Water"
+    "Wraps round the germ and swallows them",
+    "Runs away from the germ",
+    "Turns into a germ"
    ],
    "a": 0,
-   "why": "Pus is the remains of a fight. It shows defenders have been working there. Picking 'living germs only' is a common fear.",
+   "why": "A phagocyte is a white blood cell that eats germs. They wrap round the germ, pull them inside and break them down with chemicals.",
    "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "Which temperature is a fever?",
+   "p": "Nila's temperature is 36.8 degrees Celsius in the morning and 37.2 after playing. Does she have a fever?",
    "opts": [
-    "38.6 degrees Celsius",
-    "36.5 degrees Celsius",
-    "37 degrees Celsius",
-    "36.9 degrees Celsius"
+    "Yes, because it went up",
+    "No. Both are normal, and a fever is 38 or more",
+    "Yes, because anything above 37 is a fever"
    ],
-   "a": 0,
-   "why": "Doctors usually call 38 degrees Celsius or more a fever. The others are normal. Remember taking your temperature through the day: it changed a little, but stayed well below 38.",
+   "a": 1,
+   "why": "A small change through the day is normal, and playing makes heat. Doctors usually call 38 degrees Celsius or more a fever.",
    "outcome": 3,
-   "how": "e2",
-   "context": "This question is about taking your temperature at different times of day."
+   "how": "e2"
   },
   {
    "t": "mcq",
    "p": "A child has a fever. Which of these means a grown-up should call a doctor quickly?",
    "opts": [
-    "The child has a stiff neck and a new rash",
     "The child feels warm and sleepy for one evening",
     "The child wants water",
+    "The child has a stiff neck and a new rash",
     "The child wants a blanket"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A doctor is needed for a stiff neck, a rash, trouble breathing or a fit. A doctor is also needed for a fever of 40 degrees or more, one lasting more than 3 days, or any fever in a baby under 3 months. Feeling warm, sleepy and thirsty is common in an ordinary fever.",
    "outcome": 3
   },
@@ -3075,12 +3137,12 @@
    "t": "mcq",
    "p": "In the apple skin test, why did we keep everything the same except the skin?",
    "opts": [
-    "So we could be sure the skin made the difference",
     "To make it quicker",
+    "So we could be sure the skin made the difference",
     "Because apples are all the same anyway",
     "So the apples taste the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In a fair test only one thing changes. Then, if the results differ, we know what caused it. Picking 'apples are all the same' misses why we chose them carefully.",
    "outcome": 4,
    "how": "e1",
@@ -3088,44 +3150,40 @@
   },
   {
    "t": "mcq",
-   "p": "Which is true about microbes?",
+   "p": "Curd is full of microbes. Is eating curd harmful?",
    "opts": [
-    "Most are harmless or helpful, and many live on us",
-    "All microbes are germs",
-    "Microbes only live in dirty places",
-    "Microbes are big enough to see"
+    "Yes. All microbes are germs",
+    "No. The microbes in curd are friendly, and many friendly microbes live in our gut and help us",
+    "Only if the curd is cold"
    ],
-   "a": 0,
-   "why": "Only a few microbes are germs. Friendly ones in curd, on our skin and in our gut help us. Picking 'all are germs' is the most common idea, and many adverts encourage it.",
+   "a": 1,
+   "why": "Only a few microbes are germs. The ones that turn milk into curd are friendly. Picking 'all microbes are germs' is the most common idea, and many adverts encourage it.",
    "outcome": 5
   },
   {
    "t": "mcq",
    "p": "A chemical in tears, called lysozyme, protects you by…",
    "opts": [
-    "Breaking open the outer coat of some bacteria",
     "Making your eyes see better",
     "Turning tears salty",
+    "Breaking open the outer coat of some bacteria",
     "Feeding friendly microbes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Lysozyme fits a part of a bacterium's coat, like a key in a lock, and snips it so the bacterium bursts. Alexander Fleming found it in 1921.",
    "outcome": 6
   },
   {
    "t": "mcq",
-   "p": "Sick lizards move to warmer places. What does that show?",
+   "p": "When a neem tree is cut, sticky gum oozes out and hardens over the cut. Which of your body's defences is this most like?",
    "opts": [
-    "Fever is an old defence that many animals use",
-    "Lizards don't get ill",
-    "Only people get fevers",
-    "Warmth makes germs stronger"
+    "A sneeze",
+    "A scab sealing a cut",
+    "Crying"
    ],
-   "a": 0,
-   "why": "Sick lizards give themselves a fever by basking. Those kept cool were more likely to die. Fever is ancient. Picking 'warmth makes germs stronger' is backwards for many germs.",
-   "outcome": 6,
-   "how": "a5",
-   "context": "This question is about the lizard's fever activity."
+   "a": 1,
+   "why": "Both the gum and the scab seal a hole in the outer wall, so germs cannot get in while it heals. Trees have no blood, but they defend themselves too.",
+   "outcome": 6
   }
  ],
  "applications": [

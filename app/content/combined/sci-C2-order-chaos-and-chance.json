@@ -1,0 +1,1280 @@
+{
+ "key": "combined|sci|2|order-chaos-and-chance",
+ "board": "combined",
+ "subj": "sci",
+ "level": 2,
+ "n": "order-chaos-and-chance",
+ "title": "Order, mess and chance: what we can and can't predict",
+ "source": "DeepKids Combined, The Deep End. A pure DeepKids topic built from the founder's Grade 2 concept grids ('Chaos, order, unpredictability, probability', 'Entropy', 'Causality, karma' and 'Zero sum'). No board teaches it at primary level, so there are no board subtopics to cover. No textbook needed.",
+ "summary": "Drop ten rajma beans twice from the same height and they never land the same way. Your child finds out why some things can be predicted and others only guessed. They toss coins, draw slips from a tumbler and test a lucky charm, and learn the words certain, likely, unlikely and impossible. They watch food colour spread in hot and cold water, shake rice and dal together and try to sort them back, and find that things mix by themselves but need work to tidy. They knock down a chain of standing notebooks, watch ants build a trail nobody planned, and sort things that shrink when shared from things that grow.",
+ "builds_on": "This is the first rung of this Deep End topic. It uses what children already know from Class 1 patterns and sorting, and from playing dice games like snakes and ladders. Class 4 goes much further: the butterfly effect and why weather can only be forecast about two weeks ahead, entropy and the arrow of time, randomness inside atoms, and games where both players can win.",
+ "goals": [
+  "By the end your child can tell a pattern (which follows a rule) from a random scatter, and say what comes next in a pattern.",
+  "By the end your child can sort events into certain, likely, unlikely and impossible, and give a reason for each.",
+  "By the end your child can work out a simple chance by counting the ways, such as 1 in 6 for a six on a die, and explain why each coin toss starts fresh.",
+  "By the end your child can show that things mix and spread by themselves (diffusion) and do not un-mix, and that making order needs energy.",
+  "By the end your child can describe a chain of causes and effects, and test whether something really causes a result or it was only chance.",
+  "By the end your child can sort things that get smaller when shared from things that do not, and give an example where both sides gain."
+ ],
+ "words": [
+  [
+   "pattern",
+   "an arrangement that follows a rule, so you can say what comes next. Red, yellow, red, yellow is a pattern."
+  ],
+  [
+   "order",
+   "things arranged by a rule or a plan, like books in size order or the dots of a kolam"
+  ],
+  [
+   "random",
+   "with no rule that lets anyone say exactly what comes next, like how dropped beans land"
+  ],
+  [
+   "chance",
+   "how likely something is to happen"
+  ],
+  [
+   "certain",
+   "sure to happen. The Sun will rise tomorrow."
+  ],
+  [
+   "likely",
+   "will probably happen, but not for sure"
+  ],
+  [
+   "unlikely",
+   "probably won't happen, but it could"
+  ],
+  [
+   "impossible",
+   "cannot happen at all, like a cat laying an egg"
+  ],
+  [
+   "probability",
+   "the way scientists measure chance with numbers: a six on a die has a probability of 1 in 6"
+  ],
+  [
+   "diffusion",
+   "tiny pieces of something spreading out by themselves, from where there are many to where there are few, like a smell crossing a room"
+  ],
+  [
+   "entropy",
+   "the scientists' word for how mixed and spread out things are. Left alone, entropy goes up."
+  ],
+  [
+   "cause and effect",
+   "a cause makes something happen, and the effect is what happens. Pushing the first notebook (cause) knocks down the whole row (effect)."
+  ]
+ ],
+ "subconcepts": [
+  "patterns follow a rule, so the next part can be predicted",
+  "random events: no rule tells exactly what comes next",
+  "certain, likely, unlikely and impossible",
+  "a fair coin: about half heads over many tosses, with streaks in short runs",
+  "probability: counting the ways (1 in 2, 3 in 4, 1 in 6)",
+  "each toss starts fresh: the last toss does not change the next",
+  "chance or cause? testing a lucky charm",
+  "weather forecasts give chances, not promises",
+  "is anything truly random? an open debate",
+  "diffusion: things spread out by themselves, faster when warmer",
+  "there are many more mixed ways than tidy ways (entropy)",
+  "one-way changes that cannot be undone",
+  "making and keeping order needs energy, in rooms and in living bodies",
+  "cause and effect, chain reactions, loops and delays",
+  "order nobody planned (ant trails, flocks) and things that grow when shared"
+ ],
+ "day_mins": 35,
+ "days": [
+  {
+   "n": 1,
+   "title": "Order and scatter",
+   "goal": "Find the difference between a pattern and a random scatter.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Tidy or messy?",
+     "mins": 5,
+     "do": "Ask: 'Think of your toy box or your shelf. Did it get messy by itself, or did someone make it messy?' Let them answer. Then ask: 'Has it ever got tidy by itself?' (No, someone had to tidy it.) Say: 'This week we find out why things go from tidy to messy so easily, and why some things can't be predicted.'"
+    },
+    {
+     "kind": "act",
+     "title": "Drop the beans",
+     "mins": 14,
+     "ref": "a1",
+     "do": "Do Activity a1. Spread a newspaper on the floor. Your child holds 10 rajma beans in a closed fist, one hand-span above the paper, and opens the fist. Draw a pencil ring around each bean. Pick them up and drop them again from the same height. Ask first: 'Will they land in the same places?' Then look: they never do. Now ask your child to put the 10 beans in a row, then lay 10 toor dal grains between them: bean, dal, bean, dal. Ask: 'What comes after the last bean?' (Dal.) Say: 'This row is a pattern. A pattern follows a rule, so you can say what comes next. The dropped beans are random: there is no rule that tells us exactly where each one will land.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Patterns all around",
+     "mins": 6,
+     "do": "Walk around the home for three minutes and find two patterns and two random scatters. Good patterns: tiles on the floor, the stripes on a shirt, the steps of a staircase, the dots of a kolam. Good scatters: crumbs on the table, spots of rain on a window, clothes on a chair. Ask about each: 'Can you say what comes next?' If yes, it is a pattern."
+    },
+    {
+     "kind": "do",
+     "title": "Dance from order to free",
+     "mins": 10,
+     "do": "Put on a song with a steady beat. Stand side by side and do a pattern dance: step right, clap, step left, clap, four times. Then say 'free!' and both dance any way you like for 30 seconds. Say 'pattern!' and go back to step, clap. Do this three times. Then ask: 'Can you do the free dance again, exactly the same as last time?' (No. Nobody can remember every move.) 'Can you do the pattern again?' (Yes, because it has a rule.) Say: 'A rule lets you repeat things and predict them. Without a rule, each time is new.'"
+    }
+   ],
+   "need": [
+    "a newspaper",
+    "10 rajma beans",
+    "10 toor dal grains or any small dal",
+    "a pencil",
+    "a song with a steady beat"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Certain, likely, unlikely, impossible",
+   "goal": "Learn the four chance words and toss a coin 20 times.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Today's weather guess",
+     "mins": 5,
+     "do": "Start the project (the weather guess diary). Look out of the window together. Ask: 'Will it rain today? Is it certain, likely, unlikely or impossible?' Write today's date and their word in a small notebook. Say: 'Tonight we will check if you were right.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The four chance words",
+     "mins": 8,
+     "do": "Write four words on four sheets and lay them in a line on the floor: impossible, unlikely, likely, certain. Say each one and what it means. Certain: sure to happen. Likely: will probably happen. Unlikely: probably won't happen, but could. Impossible: cannot happen. Read these out, and your child places a coin on the right sheet for each: 'The Sun will rise tomorrow.' (Certain.) 'A cat will lay an egg.' (Impossible.) 'It will be hot in Chennai in May.' (Likely: almost always, but not promised.) 'You will see an elephant walking down our street today.' (Unlikely in most cities, but in some towns in Kerala it happens.) 'You will eat something today.' (Likely or certain: ask why.) Say: 'How likely something is to happen is called its chance.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Twenty tosses",
+     "mins": 14,
+     "ref": "e1",
+     "do": "Do Experiment e1. Ask first: 'If we toss a coin 20 times, how many heads will we get?' Write down the guess. Your child tosses the coin 20 times. You make a tally mark under 'heads' or 'tails' each time. Count up. Ask: 'Did we get exactly 10?' (Often not: 8, 9, 11 or 12 is normal.) 'Did you see a streak, the same side three or four times in a row?' (Usually yes.) Say: 'Heads and tails are equally likely. Over many tosses, about half are heads. In a short run, streaks happen by chance.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The woman who measured the weather",
+     "mins": 8,
+     "ref": "v1",
+     "do": "Tell voice v1: 'Anna Mani grew up in Kerala about 100 years ago. She loved reading and wanted to be a scientist at a time when few women were allowed to. She worked in C. V. Raman's lab in Bengaluru, and wrote five research papers, but she was never given her doctor's degree because she had no master's degree. She went on to the India Meteorological Department, the government office that forecasts weather. There she built instruments that measure wind, sunshine and rain, so that forecasts could be made from good measurements.' Say: 'Weather forecasts say things like 70 percent chance of rain. That means: on days like this one, it rained on about 7 out of 10.' Ask v1's question."
+    }
+   ],
+   "need": [
+    "a small notebook for the weather diary",
+    "4 sheets of paper",
+    "a coin",
+    "a pencil"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Counting the ways",
+   "goal": "Work out chances by counting the ways something can happen.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Check the weather guess",
+     "mins": 4,
+     "do": "Open the weather diary. Did it rain yesterday? Put a tick if their guess word fitted, a cross if not. Ask: 'If you said likely and it didn't rain, were you wrong?' (Not exactly: likely is not certain.) Write today's guess."
+    },
+    {
+     "kind": "exp",
+     "title": "Slips in a tumbler",
+     "mins": 13,
+     "ref": "e2",
+     "do": "Do Experiment e2. Make 4 paper slips the same size. Colour 3 of them red and 1 blue. Fold them the same way and put them in a steel tumbler. Ask: 'If you pull out one slip without looking, which colour is more likely? Why?' (Red, because there are 3 red slips and only 1 blue.) Your child pulls a slip, you tally the colour, and the slip goes back in. Shake. Do this 20 times. Count up. Say: 'There are 4 slips, so 4 ways to pick. 3 of the ways give red. So the chance of red is 3 in 4. Counting the ways like this is called probability.' Expect about 15 red, but anywhere from about 12 to 18 is normal."
+    },
+    {
+     "kind": "talk",
+     "title": "A doctor who studied dice",
+     "mins": 8,
+     "ref": "v3",
+     "do": "Show a die (from a ludo or snakes and ladders set). Ask: 'How many faces does it have?' (6.) 'How many have a six?' (1.) 'So what is the chance of rolling a six?' (1 in 6.) Then tell voice v3, Gerolamo Cardano, the Italian doctor who worked out dice chances by counting the ways, about 470 years ago. Ask v3's question."
+    },
+    {
+     "kind": "think",
+     "title": "Is anything truly random?",
+     "mins": 10,
+     "ref": "v4",
+     "do": "Ask: 'When you toss a coin, why does it land heads or tails?' Let them think. Say: 'It depends on how hard you flick it, how fast it spins and how it hits the floor. Those are all real causes. We just can't measure them well enough to know.' Then tell voice v4, the argument between Albert Einstein and Niels Bohr. Ask v4's question. Say: 'Nobody has fully settled this. You could be the one who does.'"
+    }
+   ],
+   "need": [
+    "4 paper slips",
+    "a red and a blue crayon",
+    "a steel tumbler",
+    "a die",
+    "a coin"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Luck or chance?",
+   "goal": "Test whether a lucky charm changes a coin, and check the main ideas so far.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Five heads in a row",
+     "mins": 5,
+     "do": "Weather diary first: tick or cross yesterday, then write today's guess. Then ask: 'Suppose a coin lands heads five times in a row. What is the chance the next toss is tails?' Many children say tails is now more likely. Say: 'Each toss starts fresh. The last toss does not change the next one. The chance is still 1 in 2.' Toss once to show it."
+    },
+    {
+     "kind": "exp",
+     "title": "The lucky charm test",
+     "mins": 15,
+     "ref": "e3",
+     "do": "Do Experiment e3. Ask: 'Do you have something lucky, like a favourite pencil or a toy?' Let them choose it. Ask: 'Do you think holding it will give you more heads?' Write the guess. Your child holds the charm in the other hand and tosses the coin 20 times. Tally heads. Then put the charm in another room and toss 20 times again. Tally heads. Compare. Ask: 'Was there a big difference? Could a small difference be just chance, like the streaks we saw on Day 2?' Say: 'To find out if something is a cause, we test it with and without, many times. Scientists call the 'without' test the comparison.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 15,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1 together. Read each question aloud. For the two writing questions, your child tells you the answer first and then writes one or two sentences. On the patterns question, ask them to say the rule out loud before they fill the gap."
+    }
+   ],
+   "need": [
+    "a coin",
+    "the child's lucky thing",
+    "Worksheet ws1",
+    "a pencil"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Things spread out by themselves",
+   "goal": "Watch diffusion in water and air, and meet the man who explained it by counting.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Weather diary and a smell",
+     "mins": 4,
+     "do": "Weather diary: tick or cross, then today's guess. Then ask: 'When someone fries onions in the kitchen, can you smell it in the other room? How does the smell get there?' Let them guess. Don't answer yet."
+    },
+    {
+     "kind": "exp",
+     "title": "Colour in hot and cold water",
+     "mins": 15,
+     "ref": "e4",
+     "do": "Do Experiment e4. Fill one clear glass with cold water from the tap. A grown-up fills a second clear glass with hot water (hot to touch, not boiling). Let both stand still for one minute. Ask: 'If I drop a pinch of colour in each without stirring, what will happen? Which will spread faster?' Drop a small pinch of kesari food colour (or one drop of ink) into the middle of each at the same moment. Do not stir. Watch for 5 minutes and draw both glasses at 1 minute and at 5 minutes. Say: 'The colour is made of very tiny pieces. They spread out by themselves, from where there are many to where there are few. This is called diffusion. In hot water the tiny pieces move faster, and the water swirls more, so it spreads faster.' Then ask: 'Can we make the colour gather back into one spot?' (No. Stirring only spreads it more.)"
+    },
+    {
+     "kind": "act",
+     "title": "Smell across the room",
+     "mins": 6,
+     "do": "Your child stands in the far corner of the room with eyes closed. In the opposite corner, crush 2 elaichi pods between your fingers, or open a jar of jasmine oil or coffee powder. Your child raises a hand when they first smell it. Count the seconds. Say: 'Tiny pieces from the elaichi spread through the air until they reached your nose. That is diffusion in air. Moving air carries them faster.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The man who counted the ways",
+     "mins": 10,
+     "ref": "v2",
+     "do": "Tell voice v2, Ludwig Boltzmann. Say it simply: 'He said everything is made of tiny pieces called atoms, always jiggling. If the pieces of colour move about at random, there are only a few ways for them to stay bunched in one spot, and a huge number of ways to be spread all through the water. So they nearly always end up spread out.' Scientists call how mixed and spread out things are entropy. Left alone, entropy goes up. Ask v2's question."
+    }
+   ],
+   "need": [
+    "2 clear glasses or 2 clear plastic bottles with tops cut off by a grown-up",
+    "cold water and hot water",
+    "kesari food colour or ink",
+    "paper and crayons",
+    "2 elaichi pods, or jasmine oil or coffee powder",
+    "a clock or phone timer"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Tidying takes work",
+   "goal": "Find that mixing is easy, un-mixing is hard, and every living body keeps itself in order with energy.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Weather diary",
+     "mins": 4,
+     "do": "Tick or cross yesterday's guess and write today's. Count the ticks so far. Ask: 'Are you getting better at guessing? How do you decide?' (Clouds, wind, the season, yesterday's weather.)"
+    },
+    {
+     "kind": "act",
+     "title": "The rice and dal jar",
+     "mins": 14,
+     "ref": "a2",
+     "do": "Do Activity a2. In a clear jar or bottle, pour half a cup of rice, then half a cup of toor dal on top: two neat layers. Close the lid tightly. Ask: 'If you shake it, will it mix? If you keep shaking, will it ever go back into two layers?' Your child shakes 10 times and looks, then 50 more times and looks. (Mixed, and it never goes back.) Now tip one spoonful onto a plate and time how long it takes to sort that one spoonful into a rice heap and a dal heap with fingers. Say: 'Mixing took a few seconds and happened by itself. Sorting takes minutes and needs your work. There are very few ways to be in two neat layers, and a huge number of ways to be mixed.'"
+    },
+    {
+     "kind": "talk",
+     "title": "How living bodies stay in order",
+     "mins": 8,
+     "do": "Ask: 'Your body is very orderly: bones, heart, eyes, all in the right places. How do you keep it in order when things spread out by themselves?' Let them think. Say: 'You eat. Food gives your body energy, and your body uses it to build and mend itself every day. A plant does the same with energy from sunlight. As living beings do this, they give out heat and waste. Feel your hands: that warmth is part of it.' Ask: 'What happens to a banana skin that nobody uses any more?' (It goes brown and breaks down: its order spreads back out, and tiny living beings use it as food.)"
+    },
+    {
+     "kind": "act",
+     "title": "One-way changes",
+     "mins": 9,
+     "do": "Sort these out loud into 'can go back' and 'can't go back': ice melting (can freeze again), an egg cooked into an omelette (can't), sugar stirred into tea (can't easily), a balloon blown up (can let it down), paper torn into bits (can't become one sheet again), a candle's wax melting (can harden again, but the burnt part is gone). Then act one: your child is the smoke from an agarbatti, drifting out across the room. Then try to act it backwards: all the smoke rushing back into the stick. Ask: 'Have you ever seen that happen?' (Never.) Say: 'Many changes only go one way. That is one way we can tell which way time is going.'"
+    }
+   ],
+   "need": [
+    "a clear jar or bottle with a lid",
+    "half a cup of rice",
+    "half a cup of toor dal",
+    "a spoon and a plate",
+    "a clock or phone timer"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Causes, chains and loops",
+   "goal": "Build a chain reaction, find loops in nature, and watch ants make order nobody planned.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Weather diary and sugar for ants",
+     "mins": 5,
+     "ref": "a4",
+     "do": "Weather diary: tick or cross, then today's guess. Then start Activity a4: put a few grains of sugar on a small plate where you have seen ants (a window sill, the kitchen corner, the balcony). Say: 'We'll come back in a while to see who found it, and how they come.'"
+    },
+    {
+     "kind": "act",
+     "title": "Notebook dominoes",
+     "mins": 12,
+     "ref": "a3",
+     "do": "Do Activity a3. Stand 10 to 15 notebooks or thin books upright in a line on the floor, each about a palm-width from the next. Ask: 'If I push the first one, what will happen to the last one?' Your child pushes the first. Say: 'The push was the cause. Each book falling was an effect, and each effect became the cause of the next fall. This is called a chain reaction.' Now take out one book from the middle and try again. Ask: 'Why did it stop?' (The chain was broken: no book to pass on the push.) Try a gap of two palms, then half a palm, and see which work."
+    },
+    {
+     "kind": "talk",
+     "title": "Loops and delays",
+     "mins": 7,
+     "do": "Draw a circle with four stops: seed, tree, fruit, seed. Ask: 'Which comes first?' (Each one causes the next, so it goes round and round. This is a loop.) Then ask: 'If you plant a mango seed today, when will you eat a mango from that tree?' (Not for years: a mango tree grown from seed usually takes 5 or more years to fruit.) Say: 'Sometimes the effect comes long after the cause. That is a delay. Tiny causes can also add up: a tap dripping one drop a second can fill a bucket in a day or two.'"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Check the ant trail",
+     "mins": 11,
+     "do": "Go back to the sugar plate (it may take 20 minutes to an hour for ants to find it, so do this last, or later in the day). Look closely. Ask: 'Are the ants walking anywhere, or in a line?' (Usually a line.) 'Who is the leader?' (There isn't one.) Say: 'When an ant finds food, she walks home and leaves a scent on the ground. Other ants follow the scent, find the food, and lay more scent. Soon there is a clear trail. Nobody planned it. Each ant follows a simple rule, and order appears.' Draw the trail. If no ants come, leave the plate overnight and look in the morning."
+    }
+   ],
+   "need": [
+    "10 to 15 notebooks or thin books",
+    "a few grains of sugar",
+    "a small plate",
+    "paper and pencil"
+   ],
+   "prep": [
+    {
+     "task": "Notice where ants walk in the home, so you know where to put the sugar",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Rule art, chance art and sharing",
+   "goal": "Make one picture by rules and one by chance, and sort things that shrink when shared from things that grow.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Weather diary",
+     "mins": 3,
+     "do": "Tick or cross yesterday's guess and write today's. Ask: 'How many days were you right so far? Out of how many?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Shrinks or grows when shared",
+     "mins": 7,
+     "do": "Cut one laddu (or a biscuit) in two and share it. Ask: 'Now that I have half, how much do you have?' (Half. More for one means less for the other.) Then teach your child one line of a song, and ask: 'Now that you know the song, do I have less of it?' (No. We both have all of it.) Sort these aloud: a dosa, a joke, a seat on the swing, how to make a kolam, a story, a ball. Then say: 'A bee drinks nectar from a flower and carries the flower's pollen to the next flower. Who gains?' (Both: the bee gets food and the flower gets help to make seeds.)"
+    },
+    {
+     "kind": "act",
+     "title": "Kolam and splatter",
+     "mins": 13,
+     "ref": "a5",
+     "do": "Do Activity a5. First, rule art: draw a 3 by 3 grid of dots on paper. Show the kolam rule: one line curves around every dot without touching it, and comes back to where it began. Your child tries it. Then, chance art: spread newspaper, and your child flicks paint off an old toothbrush onto a second sheet (or drips watery paint from a spoon). Say: 'An American painter called Jackson Pollock made famous paintings by dripping and flicking paint. His wife Lee Krasner was also an important painter, though for years fewer people knew her name.' Ask: 'Which picture could you make again exactly? Which one surprised you?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 12,
+     "ref": "ws2",
+     "do": "Do Worksheet ws2. Read each question aloud and let your child answer aloud before writing. For the question about the two players, ask them to argue for one side, then for the other."
+    }
+   ],
+   "need": [
+    "one laddu or biscuit",
+    "paper and a pencil",
+    "watery paint",
+    "an old toothbrush or a spoon",
+    "newspaper",
+    "Worksheet ws2"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Play, check and teach it back",
+   "goal": "Play the Sure or Chance game, finish the weather diary and teach the ideas back.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Weather diary result",
+     "mins": 4,
+     "do": "Count the weather diary ticks and crosses. Ask: 'Out of all the days, how many were you right?' Ask: 'Were your likely days usually right? Were your certain days always right?' Say: 'Forecasters keep a diary like this too, to check how good their chances are.'"
+    },
+    {
+     "kind": "game",
+     "title": "Sure or Chance?",
+     "mins": 13,
+     "ref": "g1",
+     "do": "Play Game g1 with the printed board and a die. On each turn, a player chooses: move 2 squares for sure, or roll the die and move that many. After the game, ask: 'When did you choose sure? When did you take the chance? Why?' (Near the end, a sure 2 can be safer, because a big roll could overshoot HOME.)"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 10,
+     "ref": "ws3",
+     "do": "Do Worksheet ws3. These are harder: read each one twice. Let your child answer aloud first. It is fine if they answer only some of them."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 8,
+     "do": "Ask the check questions aloud. Then your child teaches you, using the rice and dal jar and a coin: 'Show me why things get mixed and stay mixed. Show me why a coin toss can't be predicted.' Listen for: many more mixed ways than tidy ways; tidying needs work; heads and tails are equally likely, and each toss starts fresh."
+    }
+   ],
+   "need": [
+    "the weather diary",
+    "the printed Sure or Chance board",
+    "a die and 2 to 4 counters",
+    "Worksheet ws3",
+    "the rice and dal jar",
+    "a coin"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Patterns, chance and luck",
+   "day": 4,
+   "sections": [
+    [
+     "A. Pattern or random?",
+     [
+      {
+       "t": "fill",
+       "p": "Look at this pattern: red, blue, blue, red, blue, blue, red, ____.",
+       "a": [
+        "blue"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Is it a pattern or random?",
+       "items": [
+        "floor tiles in a row",
+        "crumbs on a table",
+        "the days of the week",
+        "raindrops on a window",
+        "stripes on a zebra crossing",
+        "where dropped beans land"
+       ],
+       "cats": [
+        "pattern",
+        "random"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Kavya drops 10 beans from the same height twice. What happens?",
+       "opts": [
+        "They land in the same places both times",
+        "They land in different places",
+        "They don't fall"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. How likely?",
+     [
+      {
+       "t": "match",
+       "p": "Match each event to its chance word.",
+       "pairs": [
+        [
+         "The Sun will rise tomorrow.",
+         "certain"
+        ],
+        [
+         "A goat will fly to the Moon.",
+         "impossible"
+        ],
+        [
+         "It will be hot in Chennai in May.",
+         "likely"
+        ],
+        [
+         "You will find a ₹500 note on the stairs today.",
+         "unlikely"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Meenakshi tosses a coin 20 times. About how many heads should she expect?",
+       "opts": [
+        "about 2",
+        "about 10",
+        "exactly 20"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A tumbler holds 3 red slips and 1 blue slip. Arjun picks one without looking. Which is more likely?",
+       "opts": [
+        "red",
+        "blue",
+        "both are just as likely"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A die has 6 faces, and one of them is a six. The chance of rolling a six is 1 in ____.",
+       "a": [
+        "6",
+        "six"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and explain",
+     [
+      {
+       "t": "write",
+       "p": "A coin landed heads 4 times in a row. Your friend says tails must come next. Is your friend right? Explain why.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "In the lucky charm test, why did we also toss the coin without the charm?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Write one thing that is certain, one that is likely and one that is impossible, from your own day.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Mixing, causes and sharing",
+   "day": 8,
+   "sections": [
+    [
+     "A. Spreading out",
+     [
+      {
+       "t": "mcq",
+       "p": "Selvi drops food colour into a glass of hot water and a glass of cold water, without stirring. What happens?",
+       "opts": [
+        "It spreads faster in the cold water",
+        "It spreads faster in the hot water",
+        "It stays in one spot in both"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Tiny pieces of something spreading out by themselves, like a smell crossing a room, is called ____.",
+       "a": [
+        "diffusion"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Can it go back the way it was?",
+       "items": [
+        "ice melted into water",
+        "an egg cooked into an omelette",
+        "a balloon blown up",
+        "paper torn into bits",
+        "a folded towel unfolded",
+        "salt stirred into hot water"
+       ],
+       "cats": [
+        "easy to go back",
+        "can't go back easily"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Causes and chains",
+     [
+      {
+       "t": "mcq",
+       "p": "Farhan stands 12 notebooks in a row and pushes the first one. The row stops falling at the sixth. What is the most likely cause?",
+       "opts": [
+        "The gap after the sixth was too big",
+        "The notebooks were tired",
+        "Pushing never works"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each cause to its effect.",
+       "pairs": [
+        [
+         "A seed is planted and watered",
+         "a plant grows, weeks later"
+        ],
+        [
+         "The first notebook is pushed",
+         "the whole row falls"
+        ],
+        [
+         "An ant finds sugar and lays scent",
+         "other ants follow the trail"
+        ],
+        [
+         "Food colour is dropped in water",
+         "the water slowly turns coloured"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Who is the leader of an ant trail?",
+       "opts": [
+        "The biggest ant",
+        "No ant: each follows the scent",
+        "The queen walks in front"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Think and explain",
+     [
+      {
+       "t": "write",
+       "p": "Lakshmi shakes a jar of rice and dal 100 times. Her little brother says, 'Shake it 100 more times and it will go back into two layers.' What do you think? Why?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Your body stays in order even though things spread out by themselves. How does it do it?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Two children have one swing. Divya says, 'If I swing, Riya can't, so one of us always loses.' Riya says, 'We can push each other in turns, and both have more fun.' Pick one side and give a reason. Then say one good point the other side makes.",
+       "lines": 4
+      },
+      {
+       "t": "sort",
+       "p": "Does it get smaller when shared?",
+       "items": [
+        "a dosa",
+        "a song",
+        "a seat on the bus",
+        "how to make a kolam",
+        "a joke",
+        "a bottle of water"
+       ],
+       "cats": [
+        "gets smaller",
+        "does not get smaller"
+       ]
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking harder about chance and order",
+   "day": 9,
+   "sections": [
+    [
+     "A. Counting the ways",
+     [
+      {
+       "t": "mcq",
+       "p": "A bag has 2 green marbles and 2 yellow marbles. Ishita picks one without looking. What is the chance it is green?",
+       "opts": [
+        "1 in 4",
+        "2 in 4 (half)",
+        "certain"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "A tumbler has 5 slips: 4 say 'idli' and 1 says 'dosa'. The chance of picking 'idli' is ____ in 5.",
+       "a": [
+        "4",
+        "four"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In the Sure or Chance game, you are 2 squares from HOME and you need an exact landing. What is the best choice?",
+       "opts": [
+        "Roll the die",
+        "Move 2 for sure",
+        "Both are just as good"
+       ],
+       "a": 1
+      },
+      {
+       "t": "table",
+       "p": "Toss a coin 10 times and fill in the table. Then write how many heads you got.",
+       "cols": [
+        "Toss",
+        "Heads or tails"
+       ],
+       "rows": 10,
+       "prefill": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Is it true?",
+     [
+      {
+       "t": "mcq",
+       "p": "Gurpreet's uncle says a black cat crossing the road brings bad luck. What would be a fair test?",
+       "opts": [
+        "Ask one person who saw a black cat",
+        "Keep a diary for many days of cat days and no-cat days, and compare what happened",
+        "Believe it because many people say so"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Sorting a mixed spoonful of rice and dal takes a long time. Why?",
+       "opts": [
+        "There are many more mixed ways than sorted ways, so sorting needs work",
+        "Rice and dal stick together like glue",
+        "Dal is heavier than rice"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Big thinking",
+     [
+      {
+       "t": "write",
+       "p": "A weather app said '80 percent chance of rain', and it did not rain. Was the app wrong? Explain.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Einstein thought nothing is truly random: we just don't know enough. Bohr thought some tiny events have no cause that decides them. Which do you agree with, and why?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "A kolam is made fresh every morning and scattered by feet, wind and ants every day. Is making it a waste of time? Give a reason, then give a reason for the other side.",
+       "lines": 4
+      },
+      {
+       "t": "draw",
+       "p": "Draw a chain of at least four causes and effects from your own home, with arrows. For example: the alarm rings, so Amma wakes up, so the milk is boiled, so you have tea."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Twenty tosses",
+   "day": 2,
+   "question": "If heads and tails are equally likely, do we get exactly half heads?",
+   "need": [
+    "a coin",
+    "paper with two columns, 'heads' and 'tails'",
+    "a pencil"
+   ],
+   "steps": [
+    "Write down your guess: how many heads in 20 tosses?",
+    "Toss the coin so it spins in the air, and let it land on a bed or a mat.",
+    "Make a tally mark under 'heads' or 'tails'.",
+    "Do this 20 times.",
+    "Count the heads and the tails. Circle any streak of 3 or more of the same side in a row."
+   ],
+   "predict": "Ask: 'How many heads will we get in 20 tosses? Will we see the same side many times in a row?'",
+   "observe": "Usually somewhere between 7 and 13 heads, not always exactly 10. Most runs of 20 tosses have a streak of 3 or 4 of the same side.",
+   "why": "A fair coin has two sides and each is equally likely, so over many tosses about half are heads. But each toss is random, so a short run wanders away from exactly half, and streaks happen by chance. The more tosses you make, the closer the share of heads usually gets to half.",
+   "safety": "",
+   "time": "10–15 min"
+  },
+  {
+   "id": "e2",
+   "title": "Slips in a tumbler",
+   "day": 3,
+   "question": "Can we work out which colour is more likely by counting?",
+   "need": [
+    "4 paper slips of the same size",
+    "a red and a blue crayon",
+    "a steel tumbler",
+    "paper and pencil for a tally"
+   ],
+   "steps": [
+    "Colour 3 slips red and 1 slip blue. Fold them all the same way.",
+    "Put them in the tumbler and shake.",
+    "Pull one out without looking. Tally its colour.",
+    "Put it back and shake again.",
+    "Do this 20 times and count the reds and blues."
+   ],
+   "predict": "Ask: 'Which colour will come out more? About how many reds in 20 picks?'",
+   "observe": "Red comes out much more often, usually about 15 times out of 20, but anywhere from about 12 to 18 is normal.",
+   "why": "There are 4 slips, so there are 4 ways the pick can go, all equally likely. Three of those ways give red. So the probability of red is 3 in 4, and of blue 1 in 4. Counting the ways tells us what to expect over many picks, but not what the next pick will be. Putting the slip back each time keeps the chances the same.",
+   "safety": "",
+   "time": "12–15 min"
+  },
+  {
+   "id": "e3",
+   "title": "The lucky charm test",
+   "day": 4,
+   "question": "Does holding a lucky thing give you more heads?",
+   "need": [
+    "a coin",
+    "your child's lucky thing (a pencil, a toy, a bangle)",
+    "paper and pencil for a tally"
+   ],
+   "steps": [
+    "Write your guess: will the charm give more heads?",
+    "Hold the charm in one hand. Toss the coin 20 times with the other. Tally the heads.",
+    "Put the charm in another room.",
+    "Toss the coin 20 times again. Tally the heads.",
+    "Compare the two numbers."
+   ],
+   "predict": "Ask: 'Will you get more heads with the charm? How many more?'",
+   "observe": "The two numbers are usually close, often within 2 or 3 of each other, and sometimes the no-charm tosses win.",
+   "why": "To find out whether something is a cause, you test with it and without it and compare. A small difference can happen just by chance, as the streaks on Day 2 showed. If you did this test many times, the charm and no-charm numbers would stay about the same. How a coin lands depends on how it is flicked and how it hits the floor, not on what you hold in your other hand.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e4",
+   "title": "Colour in hot and cold water",
+   "day": 5,
+   "question": "Does food colour spread out by itself, and is it faster in hot water?",
+   "need": [
+    "2 clear glasses, or 2 clear plastic bottles with tops cut off by a grown-up",
+    "cold tap water",
+    "hot water from a kettle or geyser (hot to touch, not boiling)",
+    "a small pinch of kesari food colour, or ink",
+    "paper and crayons",
+    "a timer"
+   ],
+   "steps": [
+    "Fill one glass with cold water.",
+    "A grown-up fills the other glass with hot water.",
+    "Let both stand still for one minute so the water stops moving.",
+    "Drop a small pinch of colour into the middle of each glass at the same moment. Do not stir.",
+    "Watch for 5 minutes. Draw both glasses at 1 minute and at 5 minutes.",
+    "Leave the cold glass for an hour and look again."
+   ],
+   "predict": "Ask: 'Will the colour stay in one spot? Which glass will turn coloured first?'",
+   "observe": "In the hot glass the colour swirls and spreads through most of the water in a few minutes. In the cold glass it sinks and spreads slowly. After an hour, the cold glass is evenly coloured too. Neither ever gathers back into a spot.",
+   "why": "Water and colour are made of very tiny pieces that are always moving and bumping. The colour pieces spread out from where there are many to where there are few. This is diffusion. In hot water the tiny pieces move faster, and warm water also swirls more, so the colour spreads faster. There are only a few ways for the colour to stay in one spot and a huge number of ways to be spread out, so it spreads and stays spread.",
+   "safety": "Only a grown-up pours the hot water. Use water that is hot, not boiling, and keep the glass on a flat table away from the edge.",
+   "time": "15 min + a look after an hour"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Drop the beans",
+   "day": 1,
+   "mins": 14,
+   "need": [
+    "a newspaper",
+    "10 rajma beans",
+    "10 toor dal grains",
+    "a pencil"
+   ],
+   "steps": [
+    "Spread the newspaper on the floor.",
+    "Hold 10 beans in a closed fist, one hand-span above the paper. Open your fist.",
+    "Draw a pencil ring around each bean.",
+    "Pick them up and drop them again from the same height.",
+    "Compare: did any bean land in its old ring?",
+    "Now make a pattern: bean, dal, bean, dal, in a row. Say what comes next."
+   ],
+   "outcome": "A newspaper with two sets of rings that don't match, and a pattern row. The child sees the difference between random and a rule."
+  },
+  {
+   "id": "a2",
+   "title": "The rice and dal jar",
+   "day": 6,
+   "mins": 14,
+   "need": [
+    "a clear jar or bottle with a lid",
+    "half a cup of rice",
+    "half a cup of toor dal",
+    "a spoon and a plate",
+    "a timer"
+   ],
+   "steps": [
+    "Pour the rice into the jar, then the dal on top, in two neat layers.",
+    "Close the lid tightly.",
+    "Shake 10 times and look. Shake 50 more times and look.",
+    "Tip one spoonful onto the plate.",
+    "Time how long it takes to sort that spoonful into a rice heap and a dal heap.",
+    "Keep the jar for the teach-back on Day 9."
+   ],
+   "outcome": "The child sees that mixing happens fast by itself and sorting is slow work, because there are many more mixed ways than sorted ways."
+  },
+  {
+   "id": "a3",
+   "title": "Notebook dominoes",
+   "day": 7,
+   "mins": 12,
+   "need": [
+    "10 to 15 notebooks or thin books"
+   ],
+   "steps": [
+    "Stand the notebooks upright in a line on the floor, a palm-width apart.",
+    "Push the first one gently.",
+    "Watch the whole row fall.",
+    "Take one out of the middle and try again.",
+    "Try gaps of two palms and of half a palm. Which work?"
+   ],
+   "outcome": "A chain reaction the child built, and the finding that a chain breaks where one link is missing."
+  },
+  {
+   "id": "a4",
+   "title": "The ant trail",
+   "day": 7,
+   "mins": 11,
+   "need": [
+    "a few grains of sugar",
+    "a small plate",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Put a few grains of sugar on a plate where ants walk.",
+    "Come back after 20 minutes to an hour.",
+    "Look for a line of ants between the sugar and a crack or corner.",
+    "Draw the trail.",
+    "Put a finger across the trail for a moment (without hurting any ant) and watch how they find the way again.",
+    "If no ants come, leave the plate overnight and look in the morning."
+   ],
+   "outcome": "A drawing of an ant trail, and the idea that order can appear when each being follows a simple rule, with no plan and no leader."
+  },
+  {
+   "id": "a5",
+   "title": "Kolam and splatter",
+   "day": 8,
+   "mins": 13,
+   "need": [
+    "2 sheets of paper",
+    "a pencil or chalk",
+    "watery paint",
+    "an old toothbrush or a spoon",
+    "newspaper"
+   ],
+   "steps": [
+    "Rule art: draw a 3 by 3 grid of dots.",
+    "Draw one line that curves around every dot, never touches a dot, and comes back to where it began.",
+    "Chance art: cover the floor with newspaper.",
+    "Dip the toothbrush in paint and flick the bristles with a finger over the second sheet, or drip paint from a spoon.",
+    "Put the two pictures side by side."
+   ],
+   "outcome": "Two pictures: one made by a rule that could be made again, and one made by chance that can never be made exactly again."
+  }
+ ],
+ "project": {
+  "title": "Weather guess diary",
+  "days": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "steps": [
+   "On Day 2, give your child a small notebook and write 'My Weather Guesses' on the cover.",
+   "Each morning, look at the sky together. Your child says whether rain today is certain, likely, unlikely or impossible, and why (clouds, wind, the season).",
+   "Write the date, the word and the reason.",
+   "Each evening, tick if the word fitted and cross if it did not.",
+   "On Day 9, count the ticks and crosses. Ask: were the likely days usually right? Were any certain days wrong?",
+   "Compare with a weather app's 'chance of rain' on two of the days."
+  ],
+  "outcome": "A week-long diary of chance guesses, and the discovery that a good guess about something likely can still miss."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Sure or Chance?",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a counter for each player (a button or a coin)",
+   "a coin for the toss squares"
+  ],
+  "rules": [
+   "Everyone starts on START.",
+   "On your turn, choose: SURE (move 2 squares) or CHANCE (roll the die and move that many). Say your choice out loud before you roll.",
+   "Do what the square says. If it asks a question, answer it to stay; if you can't, go back 1.",
+   "You must land exactly on HOME. If your roll is too big, stay where you are.",
+   "The first player home wins. After the game, each player says one time they chose SURE and one time they chose CHANCE, and why."
+  ],
+  "squares": [
+   "START",
+   "Bean, dal, bean, dal... say what comes next",
+   "Spilled the dal! Go back 1",
+   "Toss a coin: heads move on 2, tails stay",
+   "Name something certain",
+   "Ice melted. It can't un-melt by itself. Move on 1",
+   "Colour spreads in hot water: move on 2",
+   "Name something impossible",
+   "Found the ant trail! Follow it to square 12",
+   "A black cat crossed. Nothing happens. Stay",
+   "Roll the die: a 6 moves you on 3",
+   "You taught a song: you and the next player both move on 1",
+   "Notebook dominoes: move on 1, and so does the player behind you",
+   "Name something likely",
+   "Sorting rice from dal takes work: say why, then stay",
+   "Toss a coin: heads move on 3, tails go back 2",
+   "Guess: will it rain tomorrow? Say your chance word",
+   "The egg is cooked. It can't uncook. Go back 2",
+   "Name something unlikely",
+   "Bee and flower both gain: move on 2",
+   "Holding a lucky charm? Toss a coin. Either way, stay: charms don't change coins",
+   "Kolam rule: go round the dot and come home. Move on 1",
+   "Two to go: SURE or CHANCE?",
+   "HOME"
+  ]
+ },
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Anna Mani (1918–2001), India",
+   "idea": "Born in Peermade in the hills of Kerala, she studied physics in Madras and researched diamonds and rubies in C. V. Raman's lab in Bengaluru. She then joined the India Meteorological Department, where she designed and built instruments to measure weather, sunshine, ozone and wind, so that India could make its own instruments and good measurements.",
+   "then": "She wrote five research papers in Raman's lab, but was not given her doctorate because she had no master's degree. In the weather department she rose to become a deputy director general.",
+   "now": "She is honoured as one of India's first women scientists in weather science. Her instruments and measurements helped make Indian weather records more accurate. Forecasts today still give chances, not promises, because weather can only be predicted as more or less likely.",
+   "status": "accepted",
+   "ask": "Why would a weather forecaster need careful measurements to say how likely rain is? What would go wrong with a broken rain gauge?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "Ludwig Boltzmann (1844–1906), Austria",
+   "idea": "He explained heat and mixing using the idea that everything is made of tiny atoms moving at random. He showed that things spread out because there are far more ways for atoms to be spread out than bunched up. His way of counting ways is the root of the idea scientists call entropy.",
+   "then": "Many leading scientists of his time, such as Ernst Mach and Wilhelm Ostwald, did not believe atoms were real, and argued hard against him. He was often unhappy about being doubted, and died in 1906.",
+   "now": "Within a few years of his death, experiments on tiny jiggling particles in water (explained by Albert Einstein in 1905 and tested by Jean Perrin) convinced nearly everyone that atoms are real. His counting idea is now a basic part of physics and chemistry.",
+   "status": "accepted",
+   "ask": "Boltzmann was right but many people did not believe him. What kind of evidence would have convinced you that atoms are real?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Gerolamo Cardano (1501–1576), Italy",
+   "idea": "A doctor and mathematician who also loved playing dice games. He wrote a book about games of chance, one of the first to count the ways dice can fall. He saw that with a fair die each face is equally likely.",
+   "then": "His book on chance was only printed in 1663, long after he died. By then Blaise Pascal and Pierre de Fermat had worked out probability in their letters of 1654, and they usually get the credit for starting it.",
+   "now": "Historians agree that Cardano had many of the key ideas first, even though few people read them in his lifetime. Probability is now used everywhere, from weather forecasts to medicine.",
+   "status": "accepted",
+   "ask": "Cardano wrote his ideas first, but Pascal and Fermat usually get the credit. Who do you think should be remembered, and why? Does it matter when a book gets printed?",
+   "day": 3
+  },
+  {
+   "id": "v4",
+   "who": "Albert Einstein (1879–1955) and Niels Bohr (1885–1962)",
+   "idea": "Both helped build the science of the very tiny pieces that make up atoms. Bohr said that some tiny events, like exactly when one atom breaks apart, are truly random: nothing decides them in advance. Einstein disagreed. In a 1926 letter he wrote that he was convinced God 'does not throw dice'. He thought there must be hidden causes we have not found yet.",
+   "then": "The two argued about this, as friends, for many years. Most physicists of the time sided with Bohr.",
+   "now": "Experiments since the 1970s and 1980s (which won the 2022 Nobel Prize in Physics) ruled out the simple kind of hidden causes Einstein hoped for. Most physicists today think tiny events really are random, but some still argue for other explanations. It is not fully settled.",
+   "status": "debated",
+   "ask": "A coin toss looks random, but we know real causes decide it. Could the tiniest events also have causes we just can't see? What would help you decide?",
+   "day": 3
+  }
+ ],
+ "story": {
+  "title": "Rice Flour Mornings",
+  "text": [
+   "I am a worker ant. Like every worker in my nest, I am a she. Our nest is a crack under the front step of house number nine, on a narrow street in Mylapore, in Chennai.",
+   "Every morning, before the sun is hot, the door above us opens. A girl called Lakshmi comes out with a steel bowl of rice flour and a small pot of water. She is eight. She sprinkles water on the step to settle the dust. Then she squats down and begins.",
+   "First she makes dots. Five rows of five, each dot the same distance from the next. Then she pinches the flour between her thumb and finger and lets it fall in a thin white line. The line curves around one dot, then the next, then the next. It never touches a dot. It never crosses itself in a muddle. It does not stop until it comes back to where it began. Her mother taught her the rule: go around every dot, and come home.",
+   "From our crack, the kolam looks like a map of a city with no wrong turns. I have walked a great deal of ground, and nothing else on our street looks like that. The dust lies where the wind drops it. Dry leaves fall wherever they fall. Bits of paper blow into corners. The kolam is the only thing that looks as if somebody meant it.",
+   "Then the day begins.",
+   "The milkman's cycle tyre runs over one corner. A dog sniffs the middle and sneezes. The vegetable seller puts her basket down on the edge. Lakshmi's little brother, Arun, runs out late for his bus, and his chappal smudges a whole curve. In the afternoon the breeze comes in from the sea, and the thin white lines blur and drift.",
+   "And we come. My sisters and I. The first ant to find the flour runs home, touching her body to the ground as she goes, leaving a trail of scent. The rest of us follow the scent out. Each of us lays more scent on the way back. By noon there is a black line of ants from our crack to the kolam, and we are carrying it away, one tiny white crumb at a time. Nobody tells us where to walk. We just follow the smell of the sisters who went before.",
+   "By evening, the kolam is gone. Not gone, exactly. It is everywhere. Some is on the tyres of the milkman's cycle. Some is on Arun's chappals. Some is in the gutter, and some went up the dog's nose. A great deal of it is down in our nest, where it will feed the young ones.",
+   "One evening Lakshmi came out and stood looking at the bare grey step. Her mother, Meenakshi, was sitting there shelling peas.",
+   "\"All that work,\" Lakshmi said. \"And it's just dust again.\"",
+   "Her mother didn't answer straight away. She held out the empty steel bowl. \"Put it back,\" she said. \"Pick up this morning's flour and put it back in the bowl.\"",
+   "Lakshmi looked at her as if she were joking. Then she knelt and tried. She pinched at the dusty corners of the step. She got a little grey flour mixed with sand, half a dry leaf, and one very surprised ant, who was my cousin. Lakshmi let her go.",
+   "\"I can't,\" Lakshmi said. \"It's gone everywhere. Into a hundred places.\"",
+   "\"How long did it take you to make it?\"",
+   "Lakshmi thought. \"Twenty minutes.\"",
+   "\"And how long did it take the street to spread it out?\"",
+   "\"All day.\" She frowned. \"But nobody even tried to spread it. The street didn't do any work.\"",
+   "\"No,\" said her mother. \"It didn't need to.\" She went back to her peas.",
+   "Lakshmi sat on the step beside her. For a long time she said nothing. Then she bent down close to the crack, close to us. Her face was so big I could see my sisters reflected in her eye. She watched the line of us going in and out.",
+   "\"Amma,\" she said. \"They're carrying it home.\"",
+   "\"That's why we use rice flour and not chalk powder,\" said her mother. \"Your paati always said the kolam is the first meal of the day. For the ants and the sparrows.\"",
+   "Lakshmi watched us for a while longer. I was carrying a crumb from what had been the top curve, the one she had drawn first that morning, when her hand was still steady and cold. I took it down into the nest. It fed a young one who will grow into a worker. One day she will walk out of this crack, follow the scent, and find a new kolam.",
+   "The next morning, before the sun was hot, the door above us opened. Water fell on the step. Then the first white dot."
+  ],
+  "epiphany": "For the parent: the turn comes when Lakshmi tries to put the flour back in the bowl and can't. Making the kolam took twenty minutes of her work, while spreading it out took the whole street all day with no effort at all. This is the rung's main idea: order needs energy to make, and things spread out by themselves and don't gather back. The second idea is in the ants: their tidy trail has no leader and no plan, only each ant following the scent. And the spread-out flour is not lost: it becomes food, and so becomes part of other lives. Don't explain this at the end. Let the questions bring it out.",
+  "ask": [
+   "Why couldn't Lakshmi put the flour back in the bowl?",
+   "Who did the work of making the kolam? Who did the work of spreading it out?",
+   "How did the ants make a neat line with no leader?",
+   "Was Lakshmi's work wasted? Why do you think so?",
+   "Why does Lakshmi's family use rice flour and not chalk powder?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Some things can only be guessed as likely, never known for sure.",
+   "more": "A coin toss, a drop of beans and tomorrow's rain have real causes, but too many small ones for us to track. So we use chance words (certain, likely, unlikely, impossible) and count the ways (3 red slips out of 4 means a 3 in 4 chance). Counting tells you what to expect over many tries, not what happens next."
+  },
+  {
+   "idea": "Left alone, things mix and spread, and don't un-mix.",
+   "more": "Food colour, smells and rice and dal all spread out by themselves, because there are far more mixed ways than tidy ways. Scientists call how mixed things are entropy. Many changes, like a cooked egg, only go one way."
+  },
+  {
+   "idea": "Making and keeping order needs energy.",
+   "more": "Sorting dal, drawing a kolam, building a body: all take work. Living beings use energy from food or sunlight to stay in order, and give out heat and waste as they do."
+  },
+  {
+   "idea": "Causes come before effects, and chance can hide them.",
+   "more": "One push can knock down a whole row of notebooks, and a seed causes a tree years later. To know if something is really a cause, test with it and without it many times, as in the lucky charm test. Order can also appear with no planner, as in an ant trail."
+  }
+ ],
+ "unknowns": [
+  "Is anything truly random, or are there always hidden causes we haven't found? Experiments point to true randomness in the tiniest pieces of matter, but scientists still argue about what it means.",
+  "Everything in the universe slowly spreads and mixes. So why was the universe so un-mixed at the very beginning? Nobody knows yet.",
+  "How do thousands of birds in a flock turn together in a split second, with no leader? Scientists think each bird watches a few birds near them, but they are still working out exactly how it happens."
+ ],
+ "big": [
+  "Is there such a thing as luck, or only chance?",
+  "If you knew everything about a coin and your hand, could you know how it would land?",
+  "Your body keeps itself in order every day. Where does the mess go?",
+  "Is a random splatter painting less beautiful than a kolam made by a rule?",
+  "If something grows when you share it, like a song, whose is it?"
+ ],
+ "challenge": [
+  {
+   "q": "'Lucky charms bring good luck.' Do they?",
+   "hint": "In our test, the charm did not change the coin. A coin lands by how it is flicked and how it hits the floor. In 2010 one study found people holding a lucky charm did a little better at a puzzle, perhaps because they felt more confident. When other scientists repeated it with more people, they did not find the effect. What would convince you either way?"
+  },
+  {
+   "q": "'After five heads in a row, tails is due.'",
+   "hint": "Each toss starts fresh, so the chance of tails is still 1 in 2. Streaks feel strange, but in many tosses they happen by chance. People who bet money often lose by believing a result is 'due'. Can you think of a time you felt something was 'due'?"
+  },
+  {
+   "q": "'Things get messy only because people are careless.'",
+   "hint": "Food colour spreads in water and smells cross a room with no person doing anything. Mixing happens by itself because there are so many more mixed ways than tidy ways. Tidying needs energy, whoever does it. Does that change how you feel about a messy room?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A paddy farmer in Thanjavur",
+   "view": "Waits for the northeast monsoon from October to December. The rain is likely, but never certain: some years it comes late or too heavy. Farmers plan for chances: when to sow, how much to save, which seeds to keep. Ask: how would you plan if rain were only likely?"
+  },
+  {
+   "who": "The idea of karma in Indian traditions (Hindu, Buddhist and Jain)",
+   "view": "Teaches that actions have results that come back to the doer, often long after. This is like a chain of causes and effects with a delay. Some people also take it to mean that everything that happens to us was caused by what we did. Ask: is everything that happens to you caused by you, or is some of it chance?"
+  },
+  {
+   "who": "An ant in a trail",
+   "view": "Follows the scent of the ant ahead and lays her own. No ant sees the whole trail, yet together they make a neat path to food. Ask: can something be orderly if nobody planned it?"
+  },
+  {
+   "who": "A kolam artist in Madurai",
+   "view": "Draws a new kolam every morning, knowing that feet, wind and ants will scatter it by evening. Ask: is something worth making if it won't last?"
+  }
+ ],
+ "books": [
+  {
+   "title": "A Very Improbable Story",
+   "author": "Edward Einhorn",
+   "for": "read together",
+   "age": "6–9",
+   "why": "A boy wakes up with a cat called Odds stuck on his head, and must win a game of chance to get rid of him. A funny way into likely and unlikely."
+  },
+  {
+   "title": "Probably Pistachio",
+   "author": "Stuart J. Murphy",
+   "for": "read together",
+   "age": "6–9",
+   "why": "A boy guesses what will happen on a bad day, and learns the language of probably and probably not."
+  },
+  {
+   "title": "Lucky Beans",
+   "author": "Becky Birtha",
+   "for": "read together",
+   "age": "6–9",
+   "why": "A boy wins a bean-guessing contest not by luck but by careful counting. Good after the slips-in-a-tumbler day."
+  },
+  {
+   "title": "The Drunkard's Walk: How Randomness Rules Our Lives",
+   "author": "Leonard Mlodinow",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "A clear adult book on chance, streaks and luck, with the story of Cardano. Read the coin and streak parts and retell them simply."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is the difference between a pattern and a random scatter?",
+   "a": "A pattern follows a rule, so you can say what comes next, like bean, dal, bean, dal. A random scatter has no rule that tells exactly what comes next, like where dropped beans land."
+  },
+  {
+   "q": "Give one thing that is certain, one likely, one unlikely and one impossible.",
+   "a": "For example: the Sun rising tomorrow is certain; heat in Chennai in May is likely; finding a ₹500 note on the stairs is unlikely; a cat laying an egg is impossible. Any examples with a good reason are fine."
+  },
+  {
+   "q": "A tumbler has 3 red slips and 1 blue. What is the chance of picking red, and why?",
+   "a": "3 in 4. There are 4 slips, so 4 ways to pick, and 3 of the ways give red."
+  },
+  {
+   "q": "Why did the food colour spread faster in hot water?",
+   "a": "The tiny pieces of colour and water move faster when they are hot, and warm water swirls more, so the colour spreads out faster. This spreading by itself is called diffusion."
+  },
+  {
+   "q": "Why did the rice and dal never go back into two layers, however much you shook?",
+   "a": "There are only a few ways to be in two neat layers, and a huge number of ways to be mixed. So shaking almost always gives a mix. Sorting needs work."
+  },
+  {
+   "q": "How would you test whether a lucky pencil gives you more heads?",
+   "a": "Toss a coin many times holding the pencil, then many times without it, and compare the number of heads. A small difference can just be chance."
+  },
+  {
+   "q": "Name one thing that gets smaller when shared and one that doesn't.",
+   "a": "For example: a laddu gets smaller when shared; a song, a joke or knowing how to make a kolam does not. A bee and a flower both gain when the bee drinks nectar and carries pollen."
+  }
+ ]
+}
