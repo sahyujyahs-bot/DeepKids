@@ -1,0 +1,2917 @@
+{
+ "id": "sci.community.festivals.L3",
+ "title": "Festivals and the mela: how India celebrates, and why turmeric turns red",
+ "level": 3,
+ "summary": {
+  "text": "Yellow turmeric turns red when it meets soap or lime, and that is how aarathi water and kumkum get their colour. India's festivals are full of science like this, and full of people. At a mela you find stalls of bamboo and cloth, sellers, cooks, toy makers, police and volunteers. Each festival has its own food, clothes and customs, and one January harvest festival has five names across India. Some festivals follow the Sun and come on almost the same date each year. Others follow the Moon and move. India also has three national festivals that mark its history.",
+  "art": "A plate of red aarathi water with a small brass lamp beside it, and behind it a busy mela with a giant wheel, bamboo stalls and families in festival clothes."
+ },
+ "intro": {
+  "hook": "Stir a pinch of turmeric into a little water. It is yellow. Now add a drop of soapy water. Why does yellow turmeric turn red?",
+  "text": "Turmeric is yellow in sambar and red in aarathi water, yet it is the same turmeric. In this unit you find out why, with a test of your own. You also visit a mela in your mind, meet the people who make it work, and see what it is built from. You learn the foods, clothes and customs of festivals from Kerala to Assam. You find out why Pongal comes on almost the same date every year, while Diwali and Eid move. And you learn what India's three national festivals remember.",
+  "art": "A child's hand dropping soapy water from a spoon into a steel bowl of yellow turmeric water, with a red swirl spreading where the drop lands."
+ },
+ "outcomes": [
+  "I can describe a mela: what the stalls and toys are made of, who works there, and what people do there.",
+  "I can name festivals from different parts of India, and give a food, a dress or a custom for each one.",
+  "I can explain that one harvest festival in January has different names across India, such as Pongal, Makara Sankranti, Lohri, Bihu and Uttarayan.",
+  "I can explain why some festivals, like Pongal, fall on almost the same date every year, while others, like Diwali and Eid, move.",
+  "I can say what Independence Day, Republic Day and Gandhi Jayanti remember, with their dates.",
+  "I can test kitchen liquids with turmeric, sort them into acids and bases by the colour, and explain how aarathi water and kumkum get their red.",
+  "I can tell how Lavoisier's idea that every acid contains oxygen was shown to be wrong."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Festival",
+   "meaning": "A special day or days that people celebrate together every year, often with special food, clothes, prayers, music and decorations.",
+   "example": "Onam is a festival of Kerala, with a big feast called a sadya served on a banana leaf.",
+   "art": "A family sitting on the floor in a row, eating a sadya from banana leaves."
+  },
+  {
+   "term": "Mela",
+   "meaning": "A fair: a big gathering in an open ground with stalls, rides, food, shows and many people. Many melas are held at festival time.",
+   "example": "At the Mysuru Dasara exhibition, families shop at stalls and ride the giant wheel.",
+   "art": "An open ground at dusk with a lit giant wheel, rows of stalls and crowds of people."
+  },
+  {
+   "term": "Stall",
+   "meaning": "A small shop set up for a short time, often from bamboo poles, wooden boards and cloth or plastic sheets.",
+   "example": "A bangle seller's stall at a mela has bangles hanging on strings from a bamboo frame.",
+   "art": "A bamboo stall with a striped cloth roof and glass bangles hanging on strings."
+  },
+  {
+   "term": "Custom",
+   "meaning": "Something people of a place have done in the same way for a long time, passed on from older people to younger ones.",
+   "example": "Drawing a kolam with rice flour at the door every morning is a custom in many Tamil homes.",
+   "art": "A woman drawing a white dotted kolam on the floor at a doorstep in the early morning."
+  },
+  {
+   "term": "Harvest",
+   "meaning": "The time when ripe crops, such as rice or sugarcane, are cut and gathered from the fields.",
+   "example": "Pongal is celebrated after the rice harvest in Tamil Nadu.",
+   "art": "Farmers cutting golden rice plants in a field, with bundles stacked behind them."
+  },
+  {
+   "term": "National festival",
+   "meaning": "A day the whole country celebrates together, whatever their religion or state, to remember something in the country's history.",
+   "example": "On Independence Day, 15 August, schools and offices hoist the national flag.",
+   "art": "Children in a school ground saluting the Indian flag on a pole."
+  },
+  {
+   "term": "Constitution",
+   "meaning": "The book of rules for how a country is run, and of the rights every person in it has.",
+   "example": "India's Constitution came into force on 26 January 1950. We remember that day as Republic Day.",
+   "art": "A large old handwritten book lying open on a table, with decorated borders on its pages."
+  },
+  {
+   "term": "Solar calendar",
+   "meaning": "A calendar that follows the Sun. Its year is about 365 days, the time Earth takes to go round the Sun once.",
+   "example": "Pongal follows the Sun, so it comes on 14 or 15 January almost every year.",
+   "art": "A drawing of Earth going round the Sun in a big circle, with the months marked along it."
+  },
+  {
+   "term": "Lunar calendar",
+   "meaning": "A calendar whose months follow the Moon, from one new moon to the next, about 29 and a half days.",
+   "example": "Diwali falls on a new moon night, so its date moves between October and November.",
+   "art": "A row of Moon shapes, from a thin crescent to a full Moon and back to dark."
+  },
+  {
+   "term": "Acid",
+   "meaning": "A substance that tastes sour and turns some plant colours a different shade. Lemon juice, tamarind and vinegar are weak acids.",
+   "example": "Lemon juice is an acid, so turmeric stays yellow in it.",
+   "art": "Half a lemon, a small bowl of tamarind water and a bottle of vinegar on a kitchen counter."
+  },
+  {
+   "term": "Base",
+   "meaning": "A substance that is the chemical opposite of an acid. Bases feel slippery, like soap. Baking soda, soap and lime are bases.",
+   "example": "Soapy water is a base, so turmeric turns red in it.",
+   "art": "A bar of soap, a small tin of baking soda and a tiny box of white lime paste."
+  },
+  {
+   "term": "Indicator",
+   "meaning": "A substance that changes colour to show whether something is an acid or a base. Turmeric and red hibiscus flowers are indicators.",
+   "example": "A turmeric stain on a white shirt turns red when you wash it with soap, because turmeric is an indicator.",
+   "art": "A white shirt with a yellow turmeric stain, and the same stain turning red where soap foam touches it."
+  },
+  {
+   "term": "Lime (chuna or sunnambu)",
+   "meaning": "A white paste made from limestone or shells, used in paan and in whitewash. Its chemical name is slaked lime. It is a strong base and burns the eyes.",
+   "example": "A pinch of sunnambu turns turmeric water deep red.",
+   "art": "A small brass paan box open, with a little white paste of lime in one corner."
+  },
+  {
+   "term": "Kolam",
+   "meaning": "A pattern drawn on the floor at the doorway, made with rice flour or white stone powder. In the North and West a similar pattern, often coloured, is called a rangoli.",
+   "example": "At Pongal, families draw big kolams with a pot shape in the middle.",
+   "art": "A large white kolam of loops around dots on a doorstep, with a pongal pot drawn in the centre."
+  },
+  {
+   "term": "Volunteer",
+   "meaning": "A person who helps others without being paid.",
+   "example": "At a big mela, volunteers at the Lost and Found booth look after lost children until their families come.",
+   "art": "A volunteer in a badge kneeling to talk to a small child at a booth marked 'Lost and Found'."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "What you find at a mela",
+   "status": "defined",
+   "definition": "A mela is a fair held in an open ground for a few days, with stalls, rides, food and shows. Many are held at festival time.",
+   "description": "A mela is built quickly and taken down quickly, so it is made of light things. Stalls are bamboo poles tied with rope, with cloth or plastic sheets for a roof. Toys are made of clay, paper, wood, bamboo, tin and plastic. Many kinds of people work there. Sellers run the stalls. Potters, bangle makers and toy makers sell what they made. Cooks fry bajji, vadai and jalebi. Electricians light the rides. Police, first-aid workers and volunteers keep people safe, and cleaners clear the ground every night. People come to shop, eat, ride the giant wheel, watch shows and meet friends.",
+   "examples": [
+    "At the Mysuru Dasara exhibition, the stalls stay open for weeks after Dasara.",
+    "At the Thrissur Pooram festival in Kerala, crowds come to see decorated elephants and fireworks, and stalls sell food and toys.",
+    "At the Pushkar fair in Rajasthan, camel herders come to buy and sell camels."
+   ],
+   "perspectives": [],
+   "art": "A labelled drawing of a mela: a bamboo stall, a potter with clay pots, a cook frying vadai, a giant wheel, a police booth and a Lost and Found booth.",
+   "context": "This card is about a mela: what it is built from, who works there, and what people do."
+  },
+  {
+   "concept": "Food, dress and customs at festivals",
+   "status": "defined",
+   "definition": "Each festival has its own special foods, clothes and customs, which families pass on from older people to younger ones.",
+   "description": "Festival food often uses the crop that has just been harvested. At Pongal, families cook new rice with moong dal, jaggery and ghee in a new pot, and let it boil over as a sign of plenty. At Onam in Kerala, families eat a sadya, a feast of many dishes on a banana leaf. They wear kasavu, white cotton with a gold border, and make a pookalam, a carpet of flower petals. At Ugadi in Karnataka, Andhra Pradesh and Telangana, people eat Ugadi pachadi. It mixes neem flowers, jaggery, tamarind, raw mango, salt and chilli, for all the tastes of the year ahead. At Eid, families make sweet seviyan and visit friends. At Christmas, homes in Kerala hang paper star lanterns.",
+   "examples": [
+    "In Assam, families make rice cakes called pitha for Bihu.",
+    "In Karnataka, people share ellu bella, a mix of sesame, jaggery, coconut and groundnut, at Sankranti.",
+    "At Durga Puja in Kolkata, people visit pandals, big decorated tents built for the festival."
+   ],
+   "perspectives": [],
+   "art": "Four small pictures: a pongal pot boiling over, a sadya on a banana leaf, a plate of Ugadi pachadi, and a bowl of seviyan.",
+   "context": "This card is about what people eat, wear and do at festivals in different parts of India."
+  },
+  {
+   "concept": "One harvest festival with many names",
+   "status": "defined",
+   "definition": "In mid-January, people across India celebrate the end of the winter harvest. The festival has different names and customs in different states.",
+   "description": "In Tamil Nadu it is Pongal, four days long. On the third day, Mattu Pongal, families wash and decorate their cows and bulls, who help with the farm work. In Karnataka, Andhra Pradesh, Telangana, Maharashtra and many other states it is Makara Sankranti. In Punjab it is Lohri, with a bonfire on the night before. In Assam it is Magh Bihu, with feasts and bonfires. In Gujarat it is Uttarayan, and the sky fills with kites. The names differ, but each one thanks the Sun, the land and the animals for the harvest.",
+   "examples": [
+    "In Gujarat, families fly kites from their rooftops at Uttarayan.",
+    "In Punjab, people throw sesame seeds and popcorn into the Lohri bonfire.",
+    "In Tamil Nadu, the cows wear painted horns and bells on Mattu Pongal."
+   ],
+   "perspectives": [],
+   "art": "A map of India with five small pictures: a pongal pot in Tamil Nadu, ellu bella in Karnataka, a bonfire in Punjab, pitha in Assam and kites in Gujarat.",
+   "context": "This card is about the January harvest festival, and its different names across India."
+  },
+  {
+   "concept": "Festivals that follow the Sun, and festivals that follow the Moon",
+   "status": "defined",
+   "definition": "Some festivals are fixed by the Sun's place in the sky and fall on nearly the same date every year. Others are fixed by the Moon and move.",
+   "description": "Our school calendar follows the Sun. Its year is about 365 days, the time Earth takes to go round the Sun. Pongal and Makara Sankranti follow the Sun too, so they come on 14 or 15 January almost every year. Vishu in Kerala and Puthandu, the Tamil New Year, come in mid-April for the same reason. Diwali falls on a new moon night, when no Moon can be seen, so its date moves. Twelve Moon months are only about 354 days, 11 days short of a Sun year. The Hindu calendar adds an extra month about every three years to catch up. That keeps Diwali in October or November. The Islamic calendar adds no extra month. So Eid comes about 11 days earlier each year, and moves through every season.",
+   "examples": [
+    "Christmas follows the Sun calendar and is always on 25 December.",
+    "Eid-ul-Fitr begins when the new crescent Moon is seen at the end of Ramzan.",
+    "Buddha Purnima falls on a full moon day in April or May."
+   ],
+   "perspectives": [],
+   "art": "Two calendar pages side by side: one with Pongal circled on 14 January in three different years, and one with Diwali circled on a different date each year.",
+   "context": "This card is about why some festival dates stay the same and others move each year."
+  },
+  {
+   "concept": "Our national festivals",
+   "status": "defined",
+   "definition": "National festivals are days the whole country celebrates, whatever their religion or state. India has three.",
+   "description": "Independence Day, on 15 August, remembers the day in 1947 when India became free from British rule. The Prime Minister hoists the flag at the Red Fort in Delhi. Republic Day, on 26 January, remembers the day in 1950 when India's Constitution came into force. The Constitution is the book of rules for how India is run, and of every person's rights. Republic Day has a big parade in New Delhi, with floats from each state. Gandhi Jayanti, on 2 October, is the birthday of Mahatma Gandhi, born in 1869 in Porbandar, Gujarat. He led millions of people to struggle for freedom without violence. These three days follow the Sun calendar, so their dates never move.",
+   "examples": [
+    "Schools and housing societies hoist the flag and sing the national anthem on Independence Day.",
+    "On Republic Day, each state sends a decorated float called a tableau to the parade in New Delhi.",
+    "Many people clean their streets and parks on Gandhi Jayanti."
+   ],
+   "perspectives": [],
+   "art": "Three small pictures: the flag at the Red Fort, a decorated tableau in the Republic Day parade, and a portrait of Gandhi with a spinning wheel.",
+   "context": "This card is about India's three national festivals and what each one remembers."
+  },
+  {
+   "concept": "Why turmeric turns red",
+   "status": "defined",
+   "definition": "Turmeric is an indicator: it stays yellow in acids and in plain water, and turns red-brown in bases.",
+   "description": "Turmeric gets its yellow colour from a substance called curcumin. In plain water or in an acid, such as lemon juice, curcumin looks yellow. In a base, such as soap, baking soda or lime, the tiny particles of curcumin change shape a little. The changed particles take in different colours of light, so we see red-brown. Nothing red has been added. Add enough lemon juice, and the particles change back, and the colour turns yellow again. A substance that changes colour like this is called an indicator. That is why a turmeric stain on a shirt turns red when you wash it with soap.",
+   "examples": [
+    "A turmeric stain turns red with soap, then fades back to yellow as it dries and rinses.",
+    "A pinch of lime in turmeric water makes the deep red water used for aarathi.",
+    "Red hibiscus juice is an indicator too. It turns pink in acids and green in bases."
+   ],
+   "perspectives": [],
+   "art": "Three steel bowls in a row: yellow turmeric water, the same water turned red with soap, and the red water turning yellow again where lemon juice is poured in.",
+   "context": "This card explains the turmeric test: why turmeric turns red with soap and yellow again with lemon."
+  },
+  {
+   "concept": "Where festival colours come from",
+   "status": "defined",
+   "definition": "Festival colours come from plants, minerals and chemicals made in factories.",
+   "description": "Kumkum, the red powder worn on the forehead, has long been made by drying turmeric with a little lime. The lime is a base, so the turmeric turns red. A kolam is drawn with rice flour, or with powdered white stone. Rice flour kolams are also food for ants and small birds. Holi colours were once made from flowers, such as the orange flowers of the palash tree, and from turmeric and leaves. Today many colours are made in factories. Some cheap colours have been found to hold harmful chemicals that hurt the skin and eyes. So it is safest to buy colours from a trusted maker, or to make your own from kitchen things.",
+   "examples": [
+    "In Tamil Nadu and Kerala, people use turmeric and lime to make kumkum and aarathi water.",
+    "Families in many cities make Holi colours from beetroot, spinach and turmeric.",
+    "Rangoli powder sold in shops is often ground stone, coloured with dyes."
+   ],
+   "perspectives": [],
+   "art": "A plate holding small heaps of yellow turmeric, red kumkum, white rice flour and orange palash flowers.",
+   "context": "This card is about the colours of festivals, and what they are made of."
+  },
+  {
+   "concept": "Why do people celebrate festivals?",
+   "status": "debated",
+   "description": "Every group of people in the world has festivals. People who study festivals give different reasons for them, and each reason fits some festivals better than others. Most festivals do more than one of these jobs at once.",
+   "examples": [
+    "Pongal marks the harvest, thanks the Sun and brings families together.",
+    "Republic Day remembers a day in history.",
+    "Eid-ul-Fitr ends a month of fasting and is a time to give to people in need."
+   ],
+   "perspectives": [
+    {
+     "who": "A farmer",
+     "explanation": "Festivals mark the seasons of farm work. We celebrate when the crop is in and the hard work is done, and we thank the Sun, the rain and the animals."
+    },
+    {
+     "who": "A person of faith",
+     "explanation": "Festivals remember stories of gods, saints and teachers, and help us live the way they taught."
+    },
+    {
+     "who": "A scientist who studies people",
+     "explanation": "Sharing food, music and work on the same days makes people feel they belong together. That helps a big group trust and help each other."
+    }
+   ],
+   "art": "A crowd of people of all ages pulling a big temple chariot together with long ropes.",
+   "context": "This card is about the reasons people give for having festivals. There is more than one answer."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Turmeric stays yellow in acids and plain water, and turns red-brown in bases such as soap, baking soda and lime.",
+   "evidence": "Anyone can test it with turmeric and kitchen liquids. Chemists have studied the colour change of curcumin, the yellow substance in turmeric, for over a hundred years."
+  },
+  {
+   "text": "The January harvest festival is celebrated in most of India under different names.",
+   "evidence": "Pongal, Makara Sankranti, Lohri, Magh Bihu and Uttarayan all fall in mid-January and all celebrate the winter harvest."
+  },
+  {
+   "text": "Festivals that follow the Sun fall on nearly the same date each year. Festivals that follow only the Moon move by about 11 days each year.",
+   "evidence": "Pongal falls on 14 or 15 January every year. Eid-ul-Fitr comes about 11 days earlier each year, because twelve Moon months are about 354 days."
+  },
+  {
+   "text": "India's national festivals are Independence Day on 15 August, Republic Day on 26 January and Gandhi Jayanti on 2 October.",
+   "evidence": "India became independent on 15 August 1947. The Constitution came into force on 26 January 1950. Gandhi was born on 2 October 1869."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Turmeric turns red because the soap has burnt it or spoilt it.",
+   "who": "A common first guess among children",
+   "for": "The red looks like a stain, and red-brown can look like something burnt.",
+   "against": "Add lemon juice to the red turmeric, and it turns yellow again. Something burnt or spoilt cannot be changed back. The curcumin particles only change shape in a base, and change back in an acid.",
+   "status": "rejected",
+   "context": "This card is about a common guess about the turmeric colour change."
+  },
+  {
+   "claim": "Makara Sankranti is the day the Sun starts moving north in the sky.",
+   "who": "A common saying, and the meaning of the word Uttarayan",
+   "for": "About 1,700 years ago the two days nearly fell together, so the saying was close to true then.",
+   "against": "Today the Sun starts moving north on about 21 or 22 December, the shortest day of the year. Earth's tilted axis slowly wobbles, so the two dates have drifted about 24 days apart.",
+   "status": "rejected",
+   "context": "This card is about a famous saying about Sankranti and the Sun."
+  },
+  {
+   "claim": "Colours from plants are always safe, and colours from factories are always harmful.",
+   "who": "A common idea at Holi time",
+   "for": "Some cheap factory colours do contain harmful chemicals. Turmeric and beetroot are foods.",
+   "against": "Lime is natural, but it is a strong base and burns the eyes. Some plants make the skin itch. Many factory colours are tested and safe. What matters is what the colour is, not where it came from.",
+   "status": "rejected",
+   "context": "This card is about whether natural colours are always the safe ones."
+  },
+  {
+   "claim": "Every festival belongs to one religion.",
+   "who": "A common idea",
+   "for": "Many festivals, such as Diwali, Eid and Christmas, began in one religion and tell its stories.",
+   "against": "Harvest festivals and national festivals belong to everyone who lives there. And many people join their neighbours' festivals, sharing seviyan at Eid or cake at Christmas.",
+   "status": "rejected",
+   "context": "This card is about whether festivals belong only to one religion."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Turmeric looked yellow in water and red in soap. Which one is its real colour?",
+   "kind": "deep",
+   "hint": "Think about whether the turmeric changed, or only what it was mixed with."
+  },
+  {
+   "q": "Why does turmeric change colour, but salt stays white in soapy water?",
+   "kind": "deep",
+   "hint": "Think about what is special about the curcumin in turmeric."
+  },
+  {
+   "q": "If the Moon calendar were the only calendar, what would happen to Pongal?",
+   "kind": "deep",
+   "hint": "Think about the 11 days a Moon year is short, and the harvest that comes at the same season every year."
+  },
+  {
+   "q": "Why do people all over the world have festivals, even people who have never met?",
+   "kind": "big",
+   "hint": "Think about the seasons, the harvest, and how it feels to do something together."
+  },
+  {
+   "q": "If a festival changes a little every year, is it still the same festival?",
+   "kind": "big",
+   "hint": "Think about the festivals your grandparents tell you about, and how they celebrate now."
+  },
+  {
+   "q": "A mela is built in a week and gone in a week. What stays behind after it ends?",
+   "kind": "big",
+   "hint": "Think about memories, friends, money for the toy makers, and the rubbish on the ground."
+  }
+ ],
+ "story": {
+  "title": "The Red Water at the Door",
+  "mins": 12,
+  "read_aloud": true,
+  "note": "The story is made up. The science is true: turmeric turns red in a base such as lime or soap, and yellow again in an acid such as lemon juice. Lime paste is a strong base and must be kept away from the eyes.",
+  "text": [
+   "It was the morning of Thai Pongal in Chennai. Meenakshi was eight, and she had been awake since five. Her grandmother, Paati, had already drawn a big kolam at the door of their flat. It had a pot in the middle, with lines of steam curling out of it. Meenakshi had filled in the steam with red kolam powder.",
+   "\"Arjun is coming today,\" said Paati. \"And his amma, your Athai. They have been on the bus all night from Bengaluru. We will welcome them with aarathi.\" Arjun was Meenakshi's cousin. He was seven, and he thought he knew everything.",
+   "Paati put a brass plate on the floor. She poured in a glass of water and stirred in a big spoon of turmeric. The water turned cloudy yellow, like sambar without the dal. Then Paati opened her old paan box. In one corner was a little white paste.",
+   "\"That is sunnambu,\" said Paati. \"Lime. It goes in paan. It is strong, so you must never touch it or let it near your eyes.\" She took a tiny bit on the tip of a matchstick and swirled it in the plate. A red cloud spread through the yellow water. In a few seconds the whole plate was deep red, like a hibiscus flower.",
+   "The doorbell rang. There stood Athai with a big bag, and Arjun, sleepy, with his hair standing up on one side. Paati lifted the plate and moved it in circles in front of them, three times. Then she dipped her thumb in the red water and touched it to their foreheads. \"Now you are home,\" she said.",
+   "Arjun looked at the plate. \"How did you make it red?\" he asked. \"Did you put in red colour?\"",
+   "\"No,\" said Meenakshi. \"I watched. It was yellow turmeric, and then Paati added lime, and it went red.\"",
+   "\"That is impossible,\" said Arjun. \"Yellow cannot just turn into red. She must have put red powder in when you weren't looking.\"",
+   "Meenakshi thought about it. Then she remembered something. Last week she had dropped sambar on her white school shirt. When Amma scrubbed it with soap, the yellow stain went red. Amma had laughed and said, \"Turmeric does that.\"",
+   "\"I can show you without any lime,\" said Meenakshi. \"Come.\" She took Arjun into the kitchen. She put a pinch of turmeric in a steel bowl with a little water. It was yellow. She rubbed the bar of soap in a cup of water until it was cloudy. Then she let Arjun pour in one spoon of the soapy water himself.",
+   "The yellow turned orange, then red. Arjun stared. \"There is no red in soap,\" he said slowly. \"Soap is white.\"",
+   "\"So the red was waiting in the turmeric,\" said Meenakshi. \"The soap only helped it show.\"",
+   "Athai had come in behind them. She was cutting lemons for the lemon rice. \"Try this,\" she said, and handed Meenakshi half a lemon.",
+   "Meenakshi squeezed the lemon over the red bowl. Drop by drop, the red faded. The water turned orange, and then yellow again, the same yellow as at the start.",
+   "\"It went back!\" said Arjun. \"So it isn't burnt or spoilt. If you burn a roti, it never comes back.\"",
+   "\"Lemon is sour,\" said Athai. \"Sour things like lemon and tamarind are called acids. Soap and lime are the opposite. They are called bases. Turmeric is yellow with acids and red with bases. Your great-grandmother made her kumkum this way, by drying turmeric with lime.\"",
+   "Arjun went quiet. Then he ran to the kitchen shelf. \"What about salt? What about sugar? What about curd?\" he asked. \"Can we test all of them?\"",
+   "\"After the pongal,\" said Paati, laughing. \"The pot is on the stove.\"",
+   "They all crowded onto the balcony, where Paati had put a new clay pot on a small gas stove. Inside, milk and new rice were bubbling. Sugarcane stood against the wall, and the sun was coming up over the buildings. Everyone watched the white foam climb up the pot. It reached the top, and then it spilled over the side.",
+   "\"Pongalo pongal!\" they all shouted, as the neighbours shouted it on their balconies too.",
+   "That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, each with a pinch of turmeric. Into one went salt water. Into one went sugar water, then curd, then tamarind water. Last came baking soda, from the tin Athai used for bajji. Only the baking soda bowl turned red, like the soap.",
+   "\"Write it down,\" said Meenakshi, handing Arjun a pencil. \"That is what scientists do.\" And for once, Arjun did exactly what she said."
+  ],
+  "epiphany": "For the parent: turmeric's yellow colour comes from curcumin. In a base, such as lime, soap or baking soda, curcumin particles change shape a little and look red-brown. In an acid, such as lemon juice, they change back and look yellow. Nothing red is ever added, and the change can go back and forth. Salt, sugar and curd are not bases, so turmeric stays yellow in them.",
+  "ask": [
+   "Why did Arjun think Paati had put red powder in the water?",
+   "How did Meenakshi show him that the red came from the turmeric and the soap?",
+   "Why did the lemon juice make Arjun sure the turmeric was not burnt or spoilt?",
+   "Which bowls stayed yellow in the afternoon test, and which one turned red?",
+   "Why did Paati say never to let lime near your eyes?"
+  ],
+  "art": [
+   "A grandmother drawing a big white kolam with a pot shape at the door of a city flat at dawn, a girl filling in the steam lines with red powder.",
+   "A brass plate of yellow turmeric water on the floor, and a red cloud spreading from the tip of a matchstick.",
+   "A grandmother moving a plate of red water in circles in front of a tired boy and his mother at the door.",
+   "A girl and a boy in a kitchen, watching yellow turmeric water turn red in a steel bowl as soapy water is poured in.",
+   "A family on a balcony shouting with joy as white foam spills over the side of a clay pot, with sugarcane and city buildings behind.",
+   "A row of steel bowls on a kitchen floor, all yellow except one red bowl, and a boy writing in a notebook."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Festival Pairs: a memory card game",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a memory game. Each festival card has a partner card showing its food, dress or custom. Turn two cards over at a time and find the pairs.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "24 cards to cut out: 12 festivals and their 12 partners",
+     "items": [
+      "PONGAL (Tamil Nadu)",
+      "Rice, dal and jaggery boiled in a new pot until it spills over",
+      "ONAM (Kerala)",
+      "A sadya feast on a banana leaf, and a pookalam of flower petals",
+      "UGADI (Karnataka, Andhra Pradesh, Telangana)",
+      "Pachadi made with neem flowers, jaggery, tamarind and raw mango",
+      "MAKARA SANKRANTI (Karnataka)",
+      "Ellu bella: sesame, jaggery, coconut and groundnut, shared with neighbours",
+      "VISHU (Kerala)",
+      "Vishukkani: rice, fruit, gold and yellow konna flowers to see first in the morning",
+      "LOHRI (Punjab)",
+      "A bonfire, with sesame and popcorn thrown into it",
+      "MAGH BIHU (Assam)",
+      "Rice cakes called pitha, and a bonfire",
+      "UTTARAYAN (Gujarat)",
+      "Kites flown from every rooftop",
+      "DURGA PUJA (West Bengal)",
+      "Pandals, big decorated tents, to visit at night",
+      "EID-UL-FITR",
+      "Sweet seviyan, and gifts for people in need",
+      "CHRISTMAS",
+      "Paper star lanterns and plum cake",
+      "REPUBLIC DAY",
+      "A parade in New Delhi with a decorated float from each state"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet",
+     "items": [
+      "Player name",
+      "Pairs found",
+      "Pairs explained"
+     ]
+    }
+   ],
+   "rules": [
+    "Cut out the 24 cards. Shuffle them and lay them face down in 4 rows of 6.",
+    "On your turn, turn over any two cards and read them aloud.",
+    "If they are a festival and its partner, keep them. Then say one more thing you know about that festival, and score a bonus point.",
+    "If they do not match, turn them face down again in the same places. The next player has a turn.",
+    "When all the pairs are found, the player with the most points wins.",
+    "Playing alone, count how many turns you need. Next time, try to beat it."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut out the cards. 2. Read all 24 cards together once, face up. 3. Shuffle and lay them face down.",
+     "say": "Each festival card has a partner card about its food or custom. Let's read them all once before we hide them.",
+     "kid": "Read all the cards once. Then turn them face down.",
+     "context": "This is the first step of Festival Pairs, a memory game about festivals across India."
+    },
+    {
+     "id": "s2",
+     "mins": 14,
+     "do": "Take turns. Turn over two cards each turn. Read them aloud.",
+     "say": "Your turn. Turn over two cards and read them to me. Is it a pair?",
+     "kid": "Turn over two cards. Read them. Is it a festival and its partner?",
+     "parent": "When a pair is found, ask for one more fact about the festival. Any true fact counts: where it is, what people wear, or a family memory.",
+     "check": {
+      "t": "mcq",
+      "q": "Which festival goes with kites flown from every rooftop?",
+      "options": [
+       "Onam",
+       "Uttarayan",
+       "Durga Puja"
+      ],
+      "a": 1,
+      "why": "Uttarayan is the January harvest festival in Gujarat, when families fly kites from their rooftops. Onam is Kerala's festival with a sadya and a pookalam. Durga Puja is known for its pandals."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Count the pairs and bonus points. Ask the closing question.",
+     "say": "Five of these festivals come in the middle of January. Can you find them in your pile?",
+     "kid": "Find the five festivals that come in mid-January.",
+     "ask": [
+      {
+       "q": "Which five festivals come in mid-January?",
+       "good": [
+        "Pongal, Makara Sankranti, Lohri, Magh Bihu and Uttarayan.",
+        "They are all the same harvest festival with different names."
+       ]
+      }
+     ]
+    }
+   ],
+   "setup": [
+    {
+     "art": "24 small cards laid face down in 4 rows of 6 on a floor mat.",
+     "caption": "1. Lay the cards face down in rows."
+    },
+    {
+     "art": "Two cards turned face up: 'PONGAL' and a picture of a pot boiling over.",
+     "caption": "2. Turn two over. A festival and its partner make a pair."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Sun or Moon? A festival sorting race",
+   "mins": 15,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a sorting race. Each card names a festival. Sort it into the Sun pile, if its date stays the same every year, or the Moon pile, if its date moves.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "14 festival cards (the answer is on the back)",
+     "items": [
+      {
+       "f": "Pongal",
+       "b": "Sun: 14 or 15 January every year"
+      },
+      {
+       "f": "Makara Sankranti",
+       "b": "Sun: 14 or 15 January every year"
+      },
+      {
+       "f": "Vishu",
+       "b": "Sun: about 14 or 15 April every year"
+      },
+      {
+       "f": "Christmas",
+       "b": "Sun: always 25 December"
+      },
+      {
+       "f": "Independence Day",
+       "b": "Sun: always 15 August"
+      },
+      {
+       "f": "Republic Day",
+       "b": "Sun: always 26 January"
+      },
+      {
+       "f": "Gandhi Jayanti",
+       "b": "Sun: always 2 October"
+      },
+      {
+       "f": "Diwali",
+       "b": "Moon: a new moon night in October or November"
+      },
+      {
+       "f": "Eid-ul-Fitr",
+       "b": "Moon: about 11 days earlier each year"
+      },
+      {
+       "f": "Holi",
+       "b": "Moon: a full moon day in February or March"
+      },
+      {
+       "f": "Buddha Purnima",
+       "b": "Moon: a full moon day in April or May"
+      },
+      {
+       "f": "Ganesh Chaturthi",
+       "b": "Moon: the fourth day after a new moon, in August or September"
+      },
+      {
+       "f": "Guru Nanak Jayanti",
+       "b": "Moon: a full moon day in October or November"
+      },
+      {
+       "f": "Navaratri and Dasara",
+       "b": "Moon: nine nights after a new moon, in September or October"
+      }
+     ]
+    },
+    {
+     "kind": "board",
+     "title": "Sorting mat",
+     "items": [
+      "SUN: same date every year",
+      "MOON: the date moves"
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the cards and put them face down in a pile. Put the sorting mat in the middle.",
+    "Turn over one card at a time. Say 'Sun' or 'Moon', and put it on that side of the mat.",
+    "When all 14 are sorted, turn each card over and check the back. Score one point for each card in the right place.",
+    "Playing with others, take turns. Playing alone, try to get all 14 right."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Explain the two piles with one example each.",
+     "say": "Christmas is on 25 December every year, so it goes on the Sun side. Diwali moves from year to year, so it goes on the Moon side.",
+     "kid": "Same date every year? Sun side. Date moves? Moon side.",
+     "context": "This is the first step of Sun or Moon?, a game about why some festival dates move."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Turn over the cards one at a time and sort them. Then check the backs.",
+     "say": "Turn over a card. Do you remember if its date moves? If you are not sure, guess and give a reason.",
+     "kid": "Turn a card. Sun or Moon? Put it on the mat.",
+     "check": {
+      "t": "mcq",
+      "q": "Republic Day remembers the day India's Constitution came into force. Which pile does it go in?",
+      "options": [
+       "Sun, because it is always 26 January",
+       "Moon, because it moves each year"
+      ],
+      "a": 0,
+      "why": "Republic Day is always on 26 January, the date in 1950 when the Constitution came into force. Our national festivals follow the Sun calendar, so their dates never move."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Look at the two piles together.",
+     "say": "Look at the Moon pile. What do many of these festivals have in common?",
+     "kid": "Look at the Moon pile. What do the backs say about the Moon?",
+     "ask": [
+      {
+       "q": "What do the Moon festivals have in common?",
+       "good": [
+        "They fall on a new moon or a full moon.",
+        "They are counted from the Moon's shape."
+       ]
+      }
+     ]
+    }
+   ],
+   "setup": [
+    {
+     "art": "A sorting mat with a Sun drawn on one half and a Moon on the other, and a pile of face-down cards.",
+     "caption": "1. Put the sorting mat in the middle."
+    },
+    {
+     "art": "A child's hand placing a card marked 'Diwali' on the Moon side of the mat.",
+     "caption": "2. Turn a card and put it on the Sun side or the Moon side."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Turmeric Test: which kitchen liquids turn turmeric red?",
+   "mins": 30,
+   "days": 1,
+   "context": "In this experiment you add eight kitchen liquids to turmeric water, one by one, and see which ones turn it red. Then you try to turn the red back to yellow.",
+   "question": "Which liquids from our kitchen turn turmeric water red, and which leave it yellow? Can the red be turned back?",
+   "predict": "Look at the eight liquids. Which ones do you think will turn the turmeric red? Why do you think so? Then guess: if a bowl turns red, can lemon juice make it yellow again, and why?",
+   "fair_test": "Every bowl gets the same amount of turmeric water and the same spoonful of liquid. We wait the same one minute before we look. One bowl gets plain water, so we can see what no change looks like. We look at every bowl on the same white paper, in the same light.",
+   "results_table": [
+    "Liquid",
+    "My guess: red or yellow?",
+    "Colour after 1 minute",
+    "Acid, base or neither?",
+    "Lemon added: what happened?"
+   ],
+   "materials": [
+    {
+     "item": "turmeric powder",
+     "qty": "1 teaspoon"
+    },
+    {
+     "item": "small steel bowls or katoris, or small glass tumblers",
+     "qty": 8
+    },
+    {
+     "item": "a sheet of white paper to stand the bowls on",
+     "qty": 1
+    },
+    {
+     "item": "a teaspoon and a tablespoon",
+     "qty": 2
+    },
+    {
+     "item": "the liquids to test: plain water, lemon juice, tamarind water, curd mixed with a little water, salt water, sugar water, baking soda water and soapy water",
+     "qty": 8
+    },
+    {
+     "item": "baking soda (cooking soda), half a teaspoon",
+     "qty": 1,
+     "buy": "b-soda"
+    },
+    {
+     "item": "a bar of bathing or washing soap",
+     "qty": 1
+    },
+    {
+     "item": "half a lemon, for the change-back test",
+     "qty": 1
+    },
+    {
+     "item": "an old cloth, because turmeric stains",
+     "qty": 1
+    }
+   ],
+   "safety": "Soapy water and baking soda water sting the eyes, so keep hands away from the face and wash them afterwards. Do not taste the test liquids. Turmeric stains clothes and counters, so wear old clothes and work on an old cloth or a steel plate.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Make turmeric water. Guess, then test eight kitchen liquids. Try to turn the red bowls yellow again with lemon juice."
+    }
+   ],
+   "record": "Fill in the table. Then draw your row of bowls in colour, and write 'acid', 'base' or 'neither' under each one.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. Stir half a teaspoon of turmeric into one cup of water. 2. Pour 2 tablespoons into each of the 8 bowls. 3. Stand the bowls in a row on the white paper.",
+     "say": "This is turmeric water. It stays a bit cloudy, because turmeric does not dissolve fully. That is fine. Look at the colour of every bowl.",
+     "kid": "Stir turmeric into water. Pour some into each bowl. What colour is it?",
+     "parent": "The water looks cloudy yellow, and some turmeric settles at the bottom. Stir each bowl before you add a liquid.",
+     "context": "This is the first step of the Turmeric Test. You make turmeric water and pour it into eight bowls."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "1. Make the test liquids, about 3 tablespoons each. 2. Salt, sugar and baking soda: half a teaspoon each in 3 tablespoons of water. 3. Soapy water: rub the soap bar in water for 10 seconds. 4. Curd: one spoon of curd stirred into 2 spoons of water.",
+     "say": "These are the eight liquids we will test. Lemon and tamarind are sour. Soap feels slippery. Look at each one and smell it, but do not taste.",
+     "kid": "Help make the eight liquids. Smell them, but do not taste.",
+     "parent": "Lemon juice can be squeezed straight into a cup. Tamarind water is a small piece of tamarind soaked in warm water for 5 minutes. No tamarind? Leave it out and test seven liquids."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Put a small paper label in front of each bowl. 2. Ask your child to guess red or yellow for each. 3. Ask why. 4. Write the guesses in the table.",
+     "say": "Which of these liquids do you think will turn the turmeric red? Why do you think so?",
+     "kid": "Guess for each bowl: red or yellow? Why do you think so?",
+     "ask": [
+      {
+       "q": "Why do you think that one will turn red?",
+       "good": [
+        "Because soap turned a turmeric stain red.",
+        "Because it is slippery, like soap.",
+        "Because the lemon is sour and the soap is not."
+       ]
+      }
+     ],
+     "parent": "Do not say what will happen. Any reason is good if your child says it."
+    },
+    {
+     "id": "s4",
+     "mins": 8,
+     "do": "1. Add one teaspoon of the first liquid to its bowl. 2. Stir once. 3. Wait one minute. 4. Write the colour. 5. Go on to the next bowl.",
+     "say": "One teaspoon in, one stir, then we wait a whole minute. Compare it with the plain water bowl. Has it changed?",
+     "kid": "Add one spoon. Stir. Wait one minute. Is it red or yellow?",
+     "parent": "Soapy water and baking soda water turn the turmeric orange-red or red-brown. If the baking soda bowl is only orange, add a pinch of dry baking soda and stir. Lemon, tamarind, curd, salt and sugar leave it yellow, like the plain water. Lemon may make it a little paler.",
+     "check": {
+      "t": "mcq",
+      "q": "Which bowl did you keep with only plain water added?",
+      "options": [
+       "None, every bowl had a different liquid",
+       "One bowl, so we can see what no change looks like"
+      ],
+      "a": 1,
+      "why": "The plain water bowl shows what turmeric water looks like when nothing special is added. Every other bowl is compared with it. Scientists call this a control."
+     }
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "1. Squeeze lemon juice into the reddest bowl, a few drops at a time. 2. Stir after each few drops. 3. Keep going until the colour changes.",
+     "say": "Before we start, what do you think will happen? Now watch closely as I add lemon, drop by drop.",
+     "kid": "Squeeze lemon into the red bowl, a few drops at a time. Watch!",
+     "parent": "The red fades to orange and then back to yellow. You may need a whole teaspoon or more of lemon juice. This shows the turmeric was not burnt or spoilt. The change goes both ways."
+    },
+    {
+     "id": "s6",
+     "mins": 2,
+     "do": "Talk about the results. Ask for a claim, the evidence and the reason.",
+     "say": "Which liquids turned the turmeric red? What did they have in common? What did the lemon do?",
+     "kid": "Which ones went red? How are they alike? What did lemon do?",
+     "ask": [
+      {
+       "q": "What is the same about the liquids that turned it red?",
+       "good": [
+        "Soap and baking soda are both slippery when wet.",
+        "They are not sour.",
+        "They are bases."
+       ]
+      },
+      {
+       "q": "What does the lemon test show?",
+       "good": [
+        "The red can go back to yellow, so the turmeric was not spoilt.",
+        "Lemon is an acid, and it undoes what the base did."
+       ]
+      }
+     ]
+    }
+   ],
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "Liquid",
+     "Guess",
+     "After 1 minute",
+     "Group"
+    ],
+    "rows": [
+     [
+      "Plain water",
+      "Yellow",
+      "Yellow",
+      "Neither"
+     ],
+     [
+      "Lemon juice",
+      "Red",
+      "Pale yellow",
+      "Acid"
+     ],
+     [
+      "Curd",
+      "Yellow",
+      "Yellow",
+      "Acid"
+     ],
+     [
+      "Salt water",
+      "Red",
+      "Yellow",
+      "Neither"
+     ],
+     [
+      "Baking soda water",
+      "Yellow",
+      "Orange-red",
+      "Base"
+     ],
+     [
+      "Soapy water",
+      "Red",
+      "Red-brown",
+      "Base"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "Eight small steel bowls of yellow turmeric water in a row on a white sheet, each with a paper label.",
+     "caption": "1. Pour the same turmeric water into eight bowls."
+    },
+    {
+     "art": "A teaspoon of soapy water being poured into one bowl, and the water turning red.",
+     "caption": "2. Add one spoon of a liquid. Wait one minute."
+    },
+    {
+     "art": "Lemon juice dripping into a red bowl, and the red fading back to yellow.",
+     "caption": "3. Add lemon to a red bowl. Does it turn yellow again?"
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "The Hibiscus Test: is a festival flower an indicator too?",
+   "mins": 25,
+   "days": 1,
+   "context": "Turmeric changes colour in bases. In this experiment you test the juice of a red hibiscus flower, the sembaruthi used in temples and pookalams, with an acid and a base.",
+   "question": "Does red hibiscus juice change colour with lemon juice and with soap, the way turmeric does?",
+   "predict": "Guess what colour hibiscus juice will turn with lemon, and what colour with soapy water. Why do you think so?",
+   "fair_test": "Use the same hibiscus juice in three bowls, the same spoonful of liquid, and wait the same one minute. Keep one bowl with plain water, to compare.",
+   "results_table": [
+    "Liquid added",
+    "My guess",
+    "Colour after 1 minute",
+    "Same as turmeric, or different?"
+   ],
+   "materials": [
+    {
+     "item": "one or two red hibiscus flowers (sembaruthi, gudhal). Flower sellers and temple flower stalls sell them. Use only the petals.",
+     "qty": 2
+    },
+    {
+     "item": "warm water from the tap, not hot",
+     "qty": "half a cup"
+    },
+    {
+     "item": "a steel tea strainer",
+     "qty": 1
+    },
+    {
+     "item": "three small glass tumblers or white cups, so the colour shows well",
+     "qty": 3
+    },
+    {
+     "item": "lemon juice, soapy water, plain water",
+     "qty": 3
+    },
+    {
+     "item": "baking soda",
+     "qty": "half a teaspoon",
+     "buy": "b-soda"
+    }
+   ],
+   "safety": "Keep soapy water away from the eyes. Wash hands after. Do not drink any of the juices.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Make hibiscus juice, then test it with lemon juice and soapy water."
+    }
+   ],
+   "record": "Draw the three tumblers in colour. Write one sentence on how hibiscus is like turmeric, and one on how it is different.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "1. Tear the petals of two flowers into small pieces. 2. Put them in half a cup of warm water. 3. Squeeze and rub them with your fingers for 3 minutes. 4. Strain the juice.",
+     "say": "Rub the petals hard. The colour comes out into the water. What colour is the juice?",
+     "kid": "Tear the petals. Rub them in warm water. What colour is the water?",
+     "parent": "The juice is pale purple or dull red. The darker it is, the clearer the result. If it is very pale, add more petals.",
+     "context": "This is the first step of the Hibiscus Test. You make juice from red hibiscus petals."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Pour the juice into three tumblers. 2. Ask your child to guess the colour with lemon and with soap, and why.",
+     "say": "Turmeric went red with soap. What do you think hibiscus will do with soap? And with lemon? Why?",
+     "kid": "Guess: what colour with lemon? What colour with soap? Why?",
+     "ask": [
+      {
+       "q": "Why did you guess that?",
+       "good": [
+        "I think it will go red like turmeric.",
+        "Lemon and soap did different things to turmeric, so maybe they will here too."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "1. Add one teaspoon of lemon juice to the first tumbler. 2. Add one teaspoon of soapy water to the second. 3. Add plain water to the third. 4. Wait one minute and compare.",
+     "say": "Lemon in the first, soap in the second, plain water in the third. Now we wait one minute.",
+     "kid": "Lemon in one. Soap in one. Plain water in one. Wait. Look!",
+     "parent": "With lemon, the juice turns bright pink. With soapy water it turns green or blue-green. If the soap bowl does not change, add a pinch of baking soda. The plain water bowl stays the same."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Compare with the turmeric results.",
+     "say": "Turmeric changed colour only with the base. Hibiscus changed with both. What does that tell you?",
+     "kid": "Turmeric changed with soap only. Hibiscus changed with both. Why might that be?",
+     "ask": [
+      {
+       "q": "Which is the better indicator for telling an acid from plain water?",
+       "good": [
+        "Hibiscus, because it turns pink in acid, and turmeric stays yellow in acid and in water."
+       ]
+      }
+     ]
+    }
+   ],
+   "setup": [
+    {
+     "art": "Red hibiscus petals torn into a cup of warm water, and fingers rubbing them.",
+     "caption": "1. Rub hibiscus petals in warm water. Strain the juice."
+    },
+    {
+     "art": "Three glass tumblers: one bright pink with a lemon beside it, one green with a soap bar beside it, and one purple with plain water.",
+     "caption": "2. Add lemon to one, soap to one, and plain water to one."
+    }
+   ]
+  },
+  {
+   "id": "e3",
+   "title": "Which festivals move? A calendar hunt",
+   "mins": 20,
+   "days": 1,
+   "context": "In this investigation you look up the dates of six festivals in three different years, on a phone calendar or printed calendars, and find out which dates stay the same and which move.",
+   "question": "Do festivals fall on the same date every year? If some move, which ones, and by how much?",
+   "predict": "Look at the list: Pongal, Christmas, Independence Day, Diwali, Eid-ul-Fitr and Holi. Which do you think will fall on the same date every year? Why do you think so?",
+   "fair_test": "Look up all six festivals in the same three years, from the same calendar. Write the date exactly, with the day and the month.",
+   "results_table": [
+    "Festival",
+    "My guess: same date or moves?",
+    "Date in year 1",
+    "Date in year 2",
+    "Date in year 3",
+    "Sun or Moon?"
+   ],
+   "materials": [
+    {
+     "item": "a phone calendar with Indian festivals shown, or printed calendars for three years (many shops and banks give them free), or a panchangam",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up holds the phone and helps find the dates.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Guess, then look up six festival dates in three years. Sort the festivals into Sun and Moon."
+    }
+   ],
+   "record": "Fill in the table. Circle in one colour the festivals that stayed the same. Circle in another colour the ones that moved.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Read out the six festivals. 2. Ask your child to guess which stay on the same date, and why. 3. Write the guesses.",
+     "say": "Your birthday is on the same date every year. Is every festival like that? Which ones do you think move? Why?",
+     "kid": "Which festivals come on the same date every year? Guess, and say why.",
+     "context": "This is the first step of the calendar hunt, where you find out which festival dates move.",
+     "ask": [
+      {
+       "q": "Why do you think Diwali might move?",
+       "good": [
+        "Because last year it was in a different month.",
+        "Because it comes on a dark night with no Moon."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Choose three years in a row, such as last year, this year and next year. 2. Look up each festival in each year. 3. Write each date in the table.",
+     "say": "Let's find Pongal first. What date is it this year? Now last year? Now next year?",
+     "kid": "Find each festival in each year. Write the date.",
+     "adult": true,
+     "parent": "On a phone, search the calendar app for the festival name, or open the month. Some festivals differ by a day between states, so pick one calendar and stick to it. Pongal stays on 14 or 15 January. Christmas and Independence Day never move. Diwali and Holi jump about by up to a few weeks. Eid comes about 11 days earlier each year."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "Sort the six festivals into Sun and Moon. Work out how many days Eid moved.",
+     "say": "Which festivals stayed put? Which moved? Count how many days earlier Eid came each year.",
+     "kid": "Which stayed? Which moved? How many days did Eid move?",
+     "ask": [
+      {
+       "q": "Why does Eid move earlier and earlier, but Diwali stays in October or November?",
+       "good": [
+        "Twelve Moon months are about 11 days shorter than a Sun year.",
+        "The Hindu calendar adds an extra month every few years, and the Islamic calendar does not."
+       ]
+      }
+     ]
+    }
+   ],
+   "setup": [
+    {
+     "art": "A parent and child looking at a phone calendar together, with a notebook table beside them.",
+     "caption": "1. Look up each festival in three years."
+    },
+    {
+     "art": "A notebook table with six festivals, three dates for each, and two coloured circles marking 'same' and 'moves'.",
+     "caption": "2. Circle the ones that stayed and the ones that moved."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Yellow to Red: the first look",
+   "mins": 8,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a pinch of turmeric powder",
+     "qty": 1
+    },
+    {
+     "item": "a small steel bowl of water",
+     "qty": 1
+    },
+    {
+     "item": "a bar of soap and a cup of water",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep soapy water away from the eyes. Wash hands afterwards.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 8,
+     "what": "Watch yellow turmeric water turn red with a spoon of soapy water. Say what you notice and what you wonder."
+    }
+   ],
+   "record": "Draw the bowl before and after. Write one thing you wonder about it.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Stir a pinch of turmeric into the bowl of water. 2. Rub the soap in the cup of water for 10 seconds. 3. Let your child pour one spoon of soapy water into the turmeric.",
+     "say": "Here is turmeric water. Pour in one spoon of soapy water. Watch the colour closely.",
+     "kid": "Pour one spoon of soapy water into the turmeric. Watch the colour!",
+     "context": "This is a quick start to the festivals unit. You watch turmeric change colour, the way it does in aarathi water."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Ask what your child noticed and what they wonder. Write down their questions. Do not explain yet.",
+     "say": "What did you notice? What do you wonder about it? Did we add anything red?",
+     "kid": "What did you see? What do you wonder? Was anything red added?",
+     "ask": [
+      {
+       "q": "What do you wonder?",
+       "good": [
+        "Why did it turn red?",
+        "Will other things turn it red?",
+        "Can it go back to yellow?"
+       ]
+      }
+     ],
+     "parent": "Keep their questions. The Turmeric Test answers them. If your family uses aarathi water, ask if they have seen it made."
+    }
+   ],
+   "context": "This is a quick start to the unit. You watch turmeric turn red with soap, and ask your own questions about it.",
+   "setup": [
+    {
+     "art": "A steel bowl of yellow turmeric water and a cup of cloudy soapy water side by side.",
+     "caption": "1. Turmeric water and soapy water."
+    },
+    {
+     "art": "A spoon pouring soapy water into the turmeric bowl, with red swirling out.",
+     "caption": "2. Pour in one spoon. What happens?"
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Plan a Mela",
+   "mins": 20,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a big sheet of paper or two notebook pages taped together",
+     "qty": 1
+    },
+    {
+     "item": "pencils and colours",
+     "qty": 1
+    }
+   ],
+   "safety": "None.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Draw a map of a mela from above. Mark the stalls, rides and safety places. Label what each stall is made of and who works there."
+    }
+   ],
+   "record": "Keep the map. Under it, list the people who work at your mela and their jobs.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Talk about a mela, a fair or a big festival ground your child has seen. If they have not, talk about a busy temple festival or a railway station.",
+     "say": "Think of a mela or a big festival crowd. What did you see, hear and smell? Who was working there?",
+     "kid": "Think of a mela or a busy festival. What did you see? Who was working?",
+     "context": "This is a drawing activity. You plan your own mela on paper, with stalls, rides and the people who keep it safe."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "1. Draw the ground from above, the way a bird sees the ground. 2. Draw at least six stalls, one ride, a first-aid booth, a Lost and Found booth, dustbins and an entrance. 3. Label what each stall sells and what it is made of.",
+     "say": "Draw the mela the way a bird flying over sees the ground. Where will lost children go? Where will people throw their rubbish?",
+     "kid": "Draw your mela from above. Add stalls, a ride and a Lost and Found booth.",
+     "parent": "Good stall materials: bamboo poles, rope, cloth or plastic sheets, wooden boards. Good jobs: sellers, cooks, potters, toy makers, ride workers, electricians, police, first-aid workers, volunteers and cleaners."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Ask the closing question.",
+     "say": "Your mela has to be built in a week and taken down in a day. Why are bamboo and cloth good for that?",
+     "kid": "Why is a stall made of bamboo and cloth, not bricks?",
+     "ask": [
+      {
+       "q": "Why bamboo and cloth?",
+       "good": [
+        "They are light and quick to put up and take down.",
+        "They can be used again at the next mela.",
+        "Bricks would take too long and leave a mess."
+       ]
+      }
+     ]
+    }
+   ],
+   "context": "In this activity you draw a map of your own mela, with its stalls, rides and the people who work there.",
+   "setup": [
+    {
+     "art": "A child drawing a map of a mela from above on a big sheet, with rows of stall squares and a circle for a giant wheel.",
+     "caption": "1. Draw the mela from above."
+    },
+    {
+     "art": "A close-up of the map with labels: 'bangle stall: bamboo and cloth', 'Lost and Found', 'first aid', 'dustbin'.",
+     "caption": "2. Label each stall, and the safety places."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "A Rice-Flour Kolam: who comes to eat it?",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "rice flour",
+     "qty": "2 tablespoons"
+    },
+    {
+     "item": "a small bowl",
+     "qty": 1
+    },
+    {
+     "item": "a corner of the balcony floor or the doorstep",
+     "qty": 1
+    }
+   ],
+   "safety": "Draw it where no one will slip on it.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Draw a small rice-flour kolam. Check it after two hours and the next morning to see if ants have come to eat it."
+    }
+   ],
+   "record": "Draw the kolam when it is new, and again the next morning. Mark where parts are missing.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Put the rice flour in a bowl. 2. Show your child how to pinch it between thumb and finger and let it fall in a thin line. 3. Make 9 dots in a square and draw loops around them.",
+     "say": "Pinch the flour and move your hand slowly. Let it fall in a thin line, like a thread.",
+     "kid": "Pinch the flour. Move your hand slowly. Draw loops round the dots.",
+     "context": "This is a kolam activity. Rice-flour kolams are drawn at the door, and they are food for ants and small birds."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Come back after two hours, and again the next morning. Look closely for ants and gaps in the lines.",
+     "say": "Is the kolam the same as before? Can you see any ants? Are any parts of the line missing?",
+     "kid": "Look at your kolam. Any ants? Any gaps in the lines?",
+     "wait": "Check again the next morning.",
+     "parent": "Ants usually find rice flour within a day in most Indian homes. If none come, the kolam may be too far from where ants walk. Try a few grains of the flour near the kitchen wall."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Talk about who the kolam fed.",
+     "say": "Many families say a rice-flour kolam is a way to share food with the ants and birds. Did yours feed anyone?",
+     "kid": "Did your kolam feed anyone? Who?",
+     "ask": [
+      {
+       "q": "Why do you think people used rice flour, not chalk?",
+       "good": [
+        "So the ants and birds can eat it.",
+        "Because rice was in every home."
+       ]
+      }
+     ]
+    }
+   ],
+   "context": "In this activity you draw a small rice-flour kolam and watch whether ants come to eat it.",
+   "setup": [
+    {
+     "art": "A child's fingers letting a thin line of rice flour fall around a square of 9 dots on a balcony floor.",
+     "caption": "1. Draw a small kolam with rice flour."
+    },
+    {
+     "art": "A close-up of a kolam line with a few ants carrying white grains, and a gap in the line.",
+     "caption": "2. Check later. Have the ants come?"
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Make Aarathi Water with a Grown-up",
+   "mins": 10,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a steel or brass plate",
+     "qty": 1
+    },
+    {
+     "item": "water",
+     "qty": "1 glass"
+    },
+    {
+     "item": "turmeric powder",
+     "qty": "1 teaspoon"
+    },
+    {
+     "item": "lime paste (chuna or sunnambu), from a paan shop. No lime? Use a teaspoon of baking soda instead.",
+     "qty": "a matchstick tip",
+     "buy": "b-lime"
+    },
+    {
+     "item": "a matchstick",
+     "qty": 1
+    }
+   ],
+   "safety": "Lime paste is a strong base and can burn the eyes and skin. Only a grown-up touches it, with a matchstick. Keep it far from the child's face. If any gets in an eye, wash the eye with plenty of running water and see a doctor.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Make red aarathi water from turmeric and a tiny bit of lime, the way many families do."
+    }
+   ],
+   "record": "Draw the plate before and after. Write what the lime did.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Pour a glass of water into the plate. 2. Stir in one teaspoon of turmeric.",
+     "say": "This is how many families start aarathi water. Turmeric and water. What colour is it?",
+     "kid": "Turmeric in water. What colour is it?",
+     "context": "This is an activity with a grown-up. You make aarathi water, the red water used to welcome people home."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Take a tiny bit of lime on the tip of a matchstick. 2. Swirl it in the plate. 3. Close the lime box at once.",
+     "say": "I will add only a tiny bit of lime. Stand back and watch the colour.",
+     "kid": "Stand back. Watch the grown-up add the lime. What happens?",
+     "adult": true,
+     "parent": "A tiny amount turns the plate deep red in seconds. With baking soda instead, the colour is orange-red, a little less deep. Lime is a stronger base than baking soda."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Talk about why it turned red, using the Turmeric Test.",
+     "say": "Remember the Turmeric Test? Which liquids turned it red? So what kind of substance is lime?",
+     "kid": "Soap turned turmeric red. Lime did too. So what is lime?",
+     "ask": [
+      {
+       "q": "What kind of substance is lime?",
+       "good": [
+        "A base, like soap and baking soda."
+       ]
+      }
+     ],
+     "parent": "Pour the aarathi water onto a plant pot or down the drain afterwards, not where children play."
+    }
+   ],
+   "context": "In this activity a grown-up makes aarathi water from turmeric and lime, and you see a base at work.",
+   "setup": [
+    {
+     "art": "A brass plate of yellow turmeric water on a floor.",
+     "caption": "1. Stir turmeric into a plate of water."
+    },
+    {
+     "art": "A grown-up's hand swirling a matchstick with a white tip in the plate, the water turning deep red.",
+     "caption": "2. A grown-up adds a tiny bit of lime. It turns red."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "A Timeline of Our National Festivals",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a long strip of paper, about 60 cm, made from notebook pages taped together",
+     "qty": 1
+    },
+    {
+     "item": "a ruler, pencil and colours",
+     "qty": 1
+    }
+   ],
+   "safety": "None.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Make a timeline from 1869 to today, and mark the three events our national festivals remember."
+    }
+   ],
+   "record": "Keep the timeline. Write one sentence under each mark.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Draw a line along the strip. 2. Mark 1850 at the left end and this year at the right. 3. Mark every 10 years in between, about 3 cm apart.",
+     "say": "A timeline is a line where each centimetre stands for some years. Let's put 1850 at one end and this year at the other.",
+     "kid": "Draw a line. Put 1850 at one end. Put this year at the other.",
+     "context": "This is a timeline activity. You mark the three days our national festivals remember."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "Mark 1869 (Gandhi is born, 2 October), 1947 (India becomes independent, 15 August) and 1950 (the Constitution comes into force, 26 January). Mark your own birth year too.",
+     "say": "Gandhi was born in 1869. India became free in 1947. The Constitution came into force in 1950. Where does each one go?",
+     "kid": "Mark 1869, 1947 and 1950. Then mark the year you were born.",
+     "parent": "1947 and 1950 are very close on the line, only 3 years apart. That surprises many children."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Ask the closing question.",
+     "say": "Gandhi was 77 years old when India became independent. Can you see that gap on your line?",
+     "kid": "Find the gap from 1869 to 1947. How long is it?",
+     "ask": [
+      {
+       "q": "How many years after independence did the Constitution come into force?",
+       "good": [
+        "Two and a half years: from August 1947 to January 1950."
+       ]
+      }
+     ]
+    }
+   ],
+   "context": "In this activity you make a timeline of the events our three national festivals remember.",
+   "setup": [
+    {
+     "art": "A long paper strip with a line and years marked every 10 years from 1850.",
+     "caption": "1. Draw a line and mark the years."
+    },
+    {
+     "art": "The same strip with three coloured flags at 1869, 1947 and 1950, and a star at a recent year.",
+     "caption": "2. Mark the three national festival years, and your own."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Our Family Festival Book",
+   "days": 3,
+   "mins": 60,
+   "context": "In this project you interview an older family member about a festival, cook or help with one festival food, and make a small book about your family's festival.",
+   "materials": [
+    {
+     "item": "4 sheets of paper folded in half and stapled into a booklet",
+     "qty": 1
+    },
+    {
+     "item": "pencils and colours",
+     "qty": 1
+    },
+    {
+     "item": "a grandparent, parent or older neighbour to interview, in person or on the phone",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up does any cutting, frying or work at the stove.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Interview an older family member about one festival when they were young."
+    },
+    {
+     "day": 2,
+     "mins": 25,
+     "what": "Help make one food from that festival, and write down the recipe."
+    },
+    {
+     "day": 3,
+     "mins": 15,
+     "what": "Finish the book with drawings of the food, the clothes and the custom."
+    }
+   ],
+   "record": "The finished book: the interview, the recipe, and drawings of the food, the clothes and one custom.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 20,
+     "do": "1. Choose one festival. 2. Ask the five interview questions. 3. Write short answers in the book.",
+     "say": "Ask: Which festival did you love most as a child? What did you eat? What did you wear? What did your family do? What has changed since then?",
+     "kid": "Ask five questions. Write short answers. What has changed since then?",
+     "context": "This is day 1 of the Family Festival Book project. You interview an older person about a festival."
+    },
+    {
+     "id": "s2",
+     "mins": 25,
+     "do": "1. Choose one food from the interview. 2. Help a grown-up make it, or a simple part of it. 3. Write the ingredients and the steps.",
+     "say": "Which ingredients come from a plant? Which from an animal? Which were harvested this season?",
+     "kid": "Help make the food. Write what goes in it.",
+     "adult": true,
+     "wait": "Do this on day 2.",
+     "parent": "Simple choices: ellu bella, sakkarai pongal, lemon rice, payasam or seviyan. Let your child measure and stir away from the flame."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "Draw the food, the festival clothes and one custom. Add a cover.",
+     "say": "Draw the food, the clothes and one custom. Give your book a title.",
+     "kid": "Draw the food, the clothes and a custom. Make a cover.",
+     "wait": "Do this on day 3.",
+     "ask": [
+      {
+       "q": "What has changed in this festival since your grandparent was young? What has stayed the same?",
+       "good": [
+        "We buy sweets now, but they made them.",
+        "We still draw a kolam."
+       ]
+      }
+     ]
+    }
+   ],
+   "setup": [
+    {
+     "art": "A girl with a notebook interviewing her grandmother on a sofa.",
+     "caption": "1. Interview an older family member."
+    },
+    {
+     "art": "A small handmade booklet open to a page with a drawing of a pongal pot and a recipe list.",
+     "caption": "2. Make the book: recipe, drawings and the interview."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Build a Mela Stall That Stands Up",
+   "mins": 35,
+   "problem": "Build a model mela stall that stands on its own, has a roof, and does not fall over when the fan is on.",
+   "constraints": [
+    "Use only newspaper, string or thread, cello tape, ice-cream sticks and a cloth or paper roof.",
+    "The stall must be at least 20 cm tall.",
+    "It must stay standing for one minute in front of a fan on low speed."
+   ],
+   "materials": [
+    "4 sheets of newspaper",
+    "cello tape",
+    "string or thread",
+    "ice-cream sticks or straws",
+    "a handkerchief or a sheet of paper for the roof",
+    "a table fan or ceiling fan"
+   ],
+   "general": [
+    "Roll newspaper tightly into poles, like bamboo, and tape the four corners of the roof to the tops.",
+    "Tie the poles together at the top with string, the way stall makers tie bamboo with rope.",
+    "Add slanted poles from each corner to the base, to make triangles."
+   ],
+   "creative": [
+    "Weigh down the base with a few coins in a paper cup, as stall makers tie their poles to stakes.",
+    "Cut small slits in the cloth roof so the wind passes through.",
+    "Make the roof slope, so the wind slides over it."
+   ],
+   "your_turn": "Now design your own stall. Draw it first, then build it and test it with the fan.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "Look at the problem. Draw two ideas.",
+     "say": "A real stall is bamboo, rope and cloth. Our poles will be rolled newspaper. Draw two ideas before you build.",
+     "kid": "Draw two ideas for your stall. How will it stand up?",
+     "context": "This is an engineering challenge. You build a model mela stall that stands up in the wind."
+    },
+    {
+     "id": "s2",
+     "mins": 20,
+     "do": "Build the stall. Test it in front of the fan on low speed for one minute.",
+     "say": "Build your best idea. Then let's test it with the fan.",
+     "kid": "Build it. Test it in front of the fan.",
+     "parent": "Most first stalls wobble. Slanted poles that make triangles, and a heavy base, help the most."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "Improve the weakest part and test again.",
+     "say": "Where did it bend or fall? What one change will fix that?",
+     "kid": "Where did it wobble? Change one thing. Test again.",
+     "ask": [
+      {
+       "q": "What made the biggest difference?",
+       "good": [
+        "Adding slanted poles.",
+        "Weighing down the base.",
+        "Letting wind through the roof."
+       ]
+      }
+     ]
+    }
+   ],
+   "setup": [
+    {
+     "art": "Rolled newspaper poles taped into a box frame with a handkerchief roof on a table.",
+     "caption": "1. Roll newspaper poles and build a frame."
+    },
+    {
+     "art": "A small newspaper stall in front of a table fan, its cloth roof fluttering.",
+     "caption": "2. Test it in front of the fan."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "A Secret Festival Greeting",
+   "mins": 30,
+   "problem": "Write a festival greeting that cannot be seen until someone brushes turmeric water over it, and then it appears in red.",
+   "constraints": [
+    "Use only kitchen things.",
+    "The message must be hard to see before the turmeric goes on.",
+    "The writing must turn red, not just yellow."
+   ],
+   "materials": [
+    "baking soda, 1 teaspoon in 3 tablespoons of water",
+    "a cotton bud or a thin paintbrush",
+    "white paper",
+    "turmeric water: half a teaspoon of turmeric in half a cup of water",
+    "a wide paintbrush or a cotton ball"
+   ],
+   "general": [
+    "Write the message with baking soda water and a cotton bud. Let it dry fully. Then brush turmeric water over the whole page.",
+    "Write with soapy water instead of baking soda water."
+   ],
+   "creative": [
+    "Draw a kolam or a diya with baking soda water, so the picture appears too.",
+    "Make a turmeric card first, then write on it with baking soda water, so the message turns red at once.",
+    "Write a second, hidden word in lemon juice, and see whether it shows."
+   ],
+   "your_turn": "Make your own secret greeting for a festival your family celebrates, and give it to someone with the turmeric water to reveal it.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Look at the problem. Remember the Turmeric Test.",
+     "say": "In the Turmeric Test, which liquids turned turmeric red? Which one could you write with?",
+     "kid": "Which liquids turned turmeric red? Which one can you write with?",
+     "context": "This is a design challenge. You use what you learned in the Turmeric Test to make a secret message."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. Write the greeting in baking soda water with a cotton bud. 2. Press firmly and go over each letter twice. 3. Let it dry for 10 minutes under the fan.",
+     "say": "Write in big letters and go over each one twice. The more baking soda on the paper, the redder it will turn.",
+     "kid": "Write big letters. Go over each one twice. Let it dry.",
+     "parent": "Thin writing gives faint results. Big, thick letters show best."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "Brush the turmeric water over the whole page in one smooth layer. Watch the letters.",
+     "say": "Brush gently over the whole page. Watch the letters appear. Why are they red and the rest yellow?",
+     "kid": "Brush turmeric over the page. Watch! Why are the letters red?",
+     "ask": [
+      {
+       "q": "Why did the lemon word stay hidden?",
+       "good": [
+        "Lemon is an acid, and turmeric stays yellow in acids."
+       ]
+      }
+     ]
+    }
+   ],
+   "setup": [
+    {
+     "art": "A child writing 'HAPPY PONGAL' with a cotton bud dipped in a cup of clear liquid on white paper.",
+     "caption": "1. Write with baking soda water. Let it dry."
+    },
+    {
+     "art": "A brush spreading yellow turmeric water over the page, and red letters appearing.",
+     "caption": "2. Brush turmeric water over it. The message turns red."
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "Turmeric and Red Rose as Indicators | Exploring substances | Grade 7 | Science | Khan Academy",
+   "channel": "Khan Academy India - English",
+   "youtube": "PmjT6Z_Cz5c",
+   "mins": 6,
+   "why": "Shows turmeric changing colour with acids and bases, and a flower indicator too. It is made for older children, so watch it after the Turmeric Test, and pause to talk.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so the length is a guess: a parent should preview it."
+  },
+  {
+   "title": "What is Pongal? | Pongal Festival Explained for Kids",
+   "channel": "Tales Old 'N' New",
+   "youtube": "ogcx-yH1zJY",
+   "mins": 5,
+   "why": "A short explainer of Pongal and its four days, made for children. Good after the harvest festival card.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check that it matches the unit."
+  },
+  {
+   "title": "Make Your Own pH Indicator at Home with HIBISCUS FLOWERS",
+   "channel": "The Aspiring Chemist",
+   "youtube": "hzKcpghAyBI",
+   "mins": 5,
+   "why": "Shows hibiscus juice turning pink in acids and green in bases, the same as the Hibiscus Test. Watch before you try it.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so the length is a guess: a parent should preview it."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Why are mela stalls usually made of bamboo poles, rope and cloth?",
+   "opts": [
+    "They are light, and quick to put up and take down",
+    "They are the strongest materials there are",
+    "Bricks are not allowed at a mela"
+   ],
+   "a": 0,
+   "why": "A mela lasts a few days or weeks, so its stalls must go up and come down quickly. Bamboo and cloth are light and can be used again. Bamboo is strong for its weight, but bricks and steel are stronger. They would just take too long.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Kavya, a girl in Class 3, gets lost at a big mela. What is the best thing for her to do?",
+   "opts": [
+    "Walk around until she finds her family",
+    "Go to the Lost and Found booth, or ask a police officer or a volunteer",
+    "Leave the mela and walk home"
+   ],
+   "a": 1,
+   "why": "The Lost and Found booth, the police and the volunteers are there to help lost children. Her family will look for her there. Walking around makes her harder to find.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "At which festival do families in Kerala eat a sadya on a banana leaf and make a pookalam of flower petals?",
+   "opts": [
+    "Lohri",
+    "Onam",
+    "Durga Puja"
+   ],
+   "a": 1,
+   "why": "Onam is Kerala's harvest festival, with a sadya and a pookalam. Lohri is a Punjabi bonfire festival in January. Durga Puja is best known in West Bengal, for its pandals.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Pongal, Lohri, Magh Bihu and Uttarayan all come in mid-January. What do they have in common?",
+   "opts": [
+    "They are all festivals of Tamil Nadu",
+    "They all celebrate the winter harvest, under different names",
+    "They all have kite flying"
+   ],
+   "a": 1,
+   "why": "They are the same harvest festival in different states: Tamil Nadu, Punjab, Assam and Gujarat. Kites are the custom in Gujarat, but not everywhere.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why does Pongal come on 14 or 15 January almost every year?",
+   "opts": [
+    "It follows the Sun, like our school calendar",
+    "It follows the Moon",
+    "The government chose the date"
+   ],
+   "a": 0,
+   "why": "Pongal is fixed by the Sun's place in the sky, so it stays in step with our Sun calendar. Festivals that follow the Moon, like Diwali, move.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Eid-ul-Fitr comes about 11 days earlier every year. Why?",
+   "opts": [
+    "People choose an earlier day each year",
+    "Twelve Moon months are about 11 days shorter than a Sun year",
+    "The Earth is speeding up"
+   ],
+   "a": 1,
+   "why": "Twelve Moon months are about 354 days, and a Sun year is about 365. The Islamic calendar follows only the Moon, so Eid slides 11 days earlier on our calendar each year.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "What does Republic Day, on 26 January, remember?",
+   "opts": [
+    "The day India became free from British rule",
+    "The day India's Constitution came into force, in 1950",
+    "Mahatma Gandhi's birthday"
+   ],
+   "a": 1,
+   "why": "Republic Day remembers 26 January 1950, when the Constitution came into force. Independence Day, 15 August 1947, is the day India became free. Gandhi Jayanti, 2 October, is his birthday.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is a national festival, celebrated by the whole country?",
+   "opts": [
+    "Vishu",
+    "Gandhi Jayanti",
+    "Durga Puja"
+   ],
+   "a": 1,
+   "why": "Gandhi Jayanti, on 2 October, is one of India's three national festivals, with Independence Day and Republic Day. Vishu and Durga Puja are celebrated mostly in some states.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Meena, a girl in Class 3, adds a spoon of soapy water to yellow turmeric water. What will she most likely see?",
+   "opts": [
+    "It stays yellow",
+    "It turns red-brown",
+    "It turns blue"
+   ],
+   "a": 1,
+   "why": "Soap is a base, and turmeric turns red-brown in bases. If you chose 'stays yellow', you might be thinking of lemon or salt, which leave it yellow.",
+   "how": "e1",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Turmeric water has turned red with baking soda. What will turn it yellow again?",
+   "opts": [
+    "More baking soda",
+    "Lemon juice",
+    "Sugar"
+   ],
+   "a": 1,
+   "why": "Lemon juice is an acid. Enough of it changes the curcumin back, and the colour turns yellow again. More baking soda makes it redder. Sugar is neither an acid nor a base, so it does nothing.",
+   "how": "e1",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "How does a pinch of lime turn turmeric water into red aarathi water?",
+   "opts": [
+    "Lime is a base, and turmeric turns red in bases",
+    "Lime has red colour hidden inside it",
+    "Lime makes the water hot, and it burns"
+   ],
+   "a": 0,
+   "why": "Lime is white, so it adds no red. It is a strong base, and turmeric turns red in bases. The same happens with soap and baking soda in the Turmeric Test.",
+   "how": "a4",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Antoine Lavoisier, a French chemist, thought every acid contains oxygen. How was this shown to be wrong?",
+   "opts": [
+    "Humphry Davy showed that the acid from salt has no oxygen in it",
+    "Lavoisier tasted an acid with no oxygen",
+    "Nobody has ever found an acid without oxygen"
+   ],
+   "a": 0,
+   "why": "In 1810 Humphry Davy showed that the acid made from salt is made of hydrogen and chlorine, with no oxygen. This acid is in your stomach. So oxygen is not what makes something an acid.",
+   "outcome": 6
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Festivals and the Turmeric Test (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "match",
+     "p": "Match each festival to its state.",
+     "pairs": [
+      [
+       "Pongal",
+       "Tamil Nadu"
+      ],
+      [
+       "Onam",
+       "Kerala"
+      ],
+      [
+       "Lohri",
+       "Punjab"
+      ],
+      [
+       "Magh Bihu",
+       "Assam"
+      ],
+      [
+       "Uttarayan",
+       "Gujarat"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each of these is a festival of one state. A strong answer also notices that four of them are the January harvest festival."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into things you would find at a mela, and the people who work there.",
+     "cats": [
+      "Things",
+      "People"
+     ],
+     "items": [
+      [
+       "bamboo poles",
+       "Things"
+      ],
+      [
+       "giant wheel",
+       "Things"
+      ],
+      [
+       "clay pots",
+       "Things"
+      ],
+      [
+       "Lost and Found booth",
+       "Things"
+      ],
+      [
+       "bangle seller",
+       "People"
+      ],
+      [
+       "volunteer",
+       "People"
+      ],
+      [
+       "cook frying vadai",
+       "People"
+      ],
+      [
+       "cleaner",
+       "People"
+      ]
+     ],
+     "a": "see items",
+     "why": "A mela needs both: things to build and sell, and many people to sell, cook, help and clean."
+    },
+    {
+     "t": "write",
+     "p": "Your neighbour says, \"A mela is only about buying toys.\" Name three other things people do at a mela.",
+     "lines": 3,
+     "a": "People eat festival food, ride the giant wheel, watch shows, meet friends and relatives, and buy things for the home.",
+     "why": "A strong answer names three different kinds of things, such as eating, riding and meeting people."
+    },
+    {
+     "t": "fill",
+     "p": "A thin pattern drawn at the door with rice flour is called a ____.",
+     "a": [
+      "kolam"
+     ],
+     "why": "A kolam is drawn with rice flour or white stone powder. Rice-flour kolams also feed ants and small birds."
+    },
+    {
+     "t": "mcq",
+     "p": "Which food is made at Pongal by boiling rice, moong dal, jaggery and ghee in a new pot?",
+     "opts": [
+      "Pitha",
+      "Sakkarai pongal",
+      "Seviyan"
+     ],
+     "a": 1,
+     "why": "Sakkarai pongal, sweet pongal, is cooked in a new pot until it boils over. Pitha is a rice cake of Assam, and seviyan is a sweet made at Eid."
+    },
+    {
+     "t": "truefalse",
+     "p": "A festival that falls on a new moon night will come on the same date every year.",
+     "a": false,
+     "why": "False. New moons fall on different dates of our Sun calendar each year, so the festival moves. Diwali is an example."
+    },
+    {
+     "t": "order",
+     "p": "Put these steps of the Turmeric Test in order.",
+     "items": [
+      "Wait one minute and look at the colour",
+      "Pour turmeric water into each bowl",
+      "Add one spoon of a liquid",
+      "Write the colour in the table"
+     ],
+     "a": [
+      "Pour turmeric water into each bowl",
+      "Add one spoon of a liquid",
+      "Wait one minute and look at the colour",
+      "Write the colour in the table"
+     ],
+     "why": "The turmeric water goes in first, then the liquid. Waiting the same minute for every bowl makes the test fair.",
+     "how": "e1"
+    },
+    {
+     "t": "sort",
+     "p": "In the Turmeric Test, which liquids turn turmeric red, and which leave it yellow?",
+     "cats": [
+      "Turns red",
+      "Stays yellow"
+     ],
+     "items": [
+      [
+       "soapy water",
+       "Turns red"
+      ],
+      [
+       "baking soda water",
+       "Turns red"
+      ],
+      [
+       "lemon juice",
+       "Stays yellow"
+      ],
+      [
+       "tamarind water",
+       "Stays yellow"
+      ],
+      [
+       "salt water",
+       "Stays yellow"
+      ],
+      [
+       "sugar water",
+       "Stays yellow"
+      ]
+     ],
+     "a": "see items",
+     "why": "Soap and baking soda are bases, so they turn turmeric red. Lemon and tamarind are acids, and salt and sugar are neither, so turmeric stays yellow.",
+     "how": "e1"
+    },
+    {
+     "t": "draw",
+     "p": "Draw two bowls of turmeric water: one after you add lemon juice, one after you add soapy water. Colour them and label each one acid or base.",
+     "a": "A yellow bowl labelled 'lemon: acid', and a red-brown bowl labelled 'soap: base'.",
+     "why": "A strong drawing uses the right colours and the right labels, and may show the lemon and the soap beside each bowl.",
+     "how": "e1",
+     "art": "Two empty bowls drawn in outline, side by side, with a label line under each."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Turmeric Test, one bowl got only plain water. Why?",
+     "opts": [
+      "To have something to drink",
+      "To show what turmeric water looks like with no change, so we can compare",
+      "Because we ran out of liquids"
+     ],
+     "a": 1,
+     "why": "The plain water bowl is the control. Every other bowl is compared with it, so we can tell whether a colour really changed.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Arjun, a boy of 7, says the red aarathi water must have red powder in it. How could you show him he is wrong, using only things from the kitchen?",
+     "lines": 4,
+     "a": "Put a pinch of turmeric in water so he sees it is yellow. Let him add soapy water or baking soda himself. It turns red with no red powder. Then add lemon juice, and it turns yellow again.",
+     "why": "A strong answer lets Arjun do the test himself, uses a base that is plainly not red, and may use lemon to show the change goes back."
+    },
+    {
+     "t": "match",
+     "p": "Match each national festival to its date.",
+     "pairs": [
+      [
+       "Independence Day",
+       "15 August"
+      ],
+      [
+       "Republic Day",
+       "26 January"
+      ],
+      [
+       "Gandhi Jayanti",
+       "2 October"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These three national festivals follow the Sun calendar, so their dates never change."
+    },
+    {
+     "t": "truefalse",
+     "p": "Lime paste from a paan shop is natural, so it is safe to touch and rub near the eyes.",
+     "a": false,
+     "why": "False. Lime is a strong base and can burn the eyes and skin. Being natural does not make something safe. Only a grown-up should handle it."
+    },
+    {
+     "t": "perspective",
+     "p": "Meera and Farhan, two friends in Class 3, are talking about why we have festivals.",
+     "views": [
+      {
+       "who": "Meera",
+       "says": "Festivals are about the harvest. Pongal comes when the rice is cut, and we thank the Sun."
+      },
+      {
+       "who": "Farhan",
+       "says": "Festivals are about being together. At Eid we visit everyone and share food, and that is the best part."
+      }
+     ],
+     "ask": "Whose reason fits the festivals in your family best? Give an example. Then say what the other friend gets right.",
+     "lines": 5,
+     "a": "A strong answer picks one reason and gives a real festival as evidence. It then grants the other reason, because most festivals do both: Pongal is a harvest festival and a family gathering, and Eid brings people together after a month of fasting.",
+     "why": "Both friends are right about some festivals. A strong answer sees that one festival can do more than one job."
+    },
+    {
+     "t": "label",
+     "p": "Here is a drawing of a mela. Label the bamboo stall, the giant wheel, the Lost and Found booth and the first-aid booth.",
+     "labels": [
+      "bamboo stall",
+      "giant wheel",
+      "Lost and Found booth",
+      "first-aid booth"
+     ],
+     "a": [
+      "bamboo stall",
+      "giant wheel",
+      "Lost and Found booth",
+      "first-aid booth"
+     ],
+     "why": "A strong answer finds each place and can say what it is for: selling, riding, finding lost children, and helping people who are hurt.",
+     "how": "a2",
+     "art": "A drawing of a mela from above with four empty label boxes pointing to a stall, a big wheel, a booth with a child and a booth with a red cross."
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Sun, Moon and Indicators (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "write",
+     "p": "Pongal falls in January every year, but Eid-ul-Fitr has come in many different months over the years. Explain why, in your own words.",
+     "lines": 4,
+     "a": "Pongal follows the Sun, so it stays in January. Eid follows only the Moon. Twelve Moon months are about 354 days, 11 days shorter than a Sun year, so Eid comes 11 days earlier each year and moves through all the months.",
+     "why": "A strong answer names the Sun and the Moon, and gives the 11-day difference."
+    },
+    {
+     "t": "mcq",
+     "p": "Eid-ul-Fitr was on about 10 April one year. About when will it be the next year?",
+     "opts": [
+      "About 30 March",
+      "About 10 April again",
+      "About 21 April"
+     ],
+     "a": 0,
+     "why": "Eid comes about 11 days earlier each year. 11 days before 10 April is about 30 March. Picking 21 April means adding the days instead of taking them away."
+    },
+    {
+     "t": "truefalse",
+     "p": "Diwali also follows the Moon, so it moves through all the months of the year, just like Eid.",
+     "a": false,
+     "why": "False. The Hindu calendar adds an extra month about every three years to catch up with the Sun, so Diwali always stays in October or November. The Islamic calendar adds no extra month."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these festivals by what decides their date.",
+     "cats": [
+      "The Sun",
+      "The Moon"
+     ],
+     "items": [
+      [
+       "Pongal",
+       "The Sun"
+      ],
+      [
+       "Christmas",
+       "The Sun"
+      ],
+      [
+       "Republic Day",
+       "The Sun"
+      ],
+      [
+       "Diwali",
+       "The Moon"
+      ],
+      [
+       "Holi",
+       "The Moon"
+      ],
+      [
+       "Buddha Purnima",
+       "The Moon"
+      ]
+     ],
+     "a": "see items",
+     "why": "Pongal, Christmas and Republic Day fall on the same date every year. Diwali, Holi and Buddha Purnima fall on a new moon or a full moon, so they move.",
+     "how": "e3"
+    },
+    {
+     "t": "odd",
+     "p": "Three of these are bases that turn turmeric red. Which one is the odd one out?",
+     "opts": [
+      "soap",
+      "lime paste",
+      "tamarind water",
+      "baking soda"
+     ],
+     "a": 2,
+     "why": "Tamarind is sour, so it is an acid, and turmeric stays yellow in it. Soap, lime and baking soda are bases."
+    },
+    {
+     "t": "write",
+     "p": "A turmeric stain on a white shirt turned red when Lakshmi's mother scrubbed it with soap. Then it turned yellow again after rinsing for a long time. Explain both changes.",
+     "lines": 4,
+     "a": "Soap is a base, so it turned the turmeric red. Rinsing washed the soap away, so the turmeric was in plain water again and turned back to yellow.",
+     "why": "A strong answer explains the red with the base and the change back with the base being washed away."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Hibiscus Test, hibiscus juice turned pink with lemon and green with soap. Which can hibiscus do that turmeric cannot?",
+     "opts": [
+      "Show that something is a base",
+      "Show that something is an acid",
+      "Make red aarathi water"
+     ],
+     "a": 1,
+     "why": "Turmeric stays yellow in acids and in plain water, so it cannot tell them apart. Hibiscus turns pink in acids, so it shows an acid clearly.",
+     "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "Ravi, a boy in Class 3, adds baking soda water to turmeric water. It turns only a little orange. What could he change to make the colour stronger? Why would it work?",
+     "lines": 3,
+     "a": "He could add more baking soda, or a pinch of dry baking soda. More base makes the change stronger, so the colour turns redder.",
+     "why": "A strong answer changes the amount of base and explains it with the idea of a stronger base.",
+     "how": "e1"
+    },
+    {
+     "t": "fill",
+     "p": "A substance, like turmeric, that changes colour to show whether something is an acid or a base is called an ____.",
+     "a": [
+      "indicator"
+     ],
+     "why": "Turmeric and hibiscus are both indicators. Scientists use many indicators to test liquids."
+    },
+    {
+     "t": "match",
+     "p": "Match each harvest festival custom to its festival.",
+     "pairs": [
+      [
+       "Cows decorated with painted horns",
+       "Mattu Pongal"
+      ],
+      [
+       "Kites flown from rooftops",
+       "Uttarayan"
+      ],
+      [
+       "Sesame thrown into a bonfire",
+       "Lohri"
+      ],
+      [
+       "Rice cakes called pitha",
+       "Magh Bihu"
+      ],
+      [
+       "Ellu bella shared with neighbours",
+       "Makara Sankranti in Karnataka"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each state celebrates the same harvest in its own way. A strong answer can say which state each custom belongs to."
+    },
+    {
+     "t": "order",
+     "p": "Put these events in order, from the earliest to the latest.",
+     "items": [
+      "India's Constitution comes into force",
+      "Mahatma Gandhi is born",
+      "India becomes independent"
+     ],
+     "a": [
+      "Mahatma Gandhi is born",
+      "India becomes independent",
+      "India's Constitution comes into force"
+     ],
+     "why": "Gandhi was born in 1869. India became independent in 1947. The Constitution came into force in 1950.",
+     "how": "a5"
+    },
+    {
+     "t": "perspective",
+     "p": "At Holi, two neighbours argue about colours.",
+     "views": [
+      {
+       "who": "Suma, who sells colours",
+       "says": "Factory colours are bright and cheap, and the good ones are tested and safe."
+      },
+      {
+       "who": "Aunty Rekha, who makes her own",
+       "says": "I make colours from turmeric, beetroot and flowers. I know what is in them."
+      },
+      {
+       "who": "Dr Anjali, a skin doctor",
+       "says": "Some cheap colours hurt the skin and eyes. But natural things, like lime, can burn too. Check what is in any colour."
+      }
+     ],
+     "ask": "Which person would you listen to when choosing Holi colours? Give a reason. Then say one thing another person is right about.",
+     "lines": 5,
+     "a": "A strong answer picks one view and backs it with a reason, such as knowing what is in the colour. It then grants another view, for example that natural lime is not safe, or that tested factory colours can be safe.",
+     "why": "Each person sees part of the truth. Safety depends on what a colour is made of, not only on whether it is natural."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a mela stall made of bamboo, rope and cloth. Label each material and say why it was chosen.",
+     "a": "A stall with bamboo poles at the corners, rope tying them, and a cloth roof, each labelled: bamboo is light and strong, rope is quick to tie and untie, cloth gives shade and folds small.",
+     "why": "A strong drawing names each material and gives a reason tied to a mela being put up and taken down quickly."
+    },
+    {
+     "t": "truefalse",
+     "p": "Curd is sour, so it is an acid, and turmeric stays yellow in it.",
+     "a": true,
+     "why": "True. Curd is sour because the bacteria in it make an acid. Turmeric stays yellow in acids.",
+     "how": "e1"
+    },
+    {
+     "t": "label",
+     "p": "Here is a picture of a row of bowls from the Turmeric Test. Label each bowl 'acid', 'base' or 'neither'.",
+     "labels": [
+      "lemon juice",
+      "soapy water",
+      "salt water",
+      "baking soda water"
+     ],
+     "a": [
+      "lemon juice: acid",
+      "soapy water: base",
+      "salt water: neither",
+      "baking soda water: base"
+     ],
+     "why": "The red bowls had bases. Lemon is an acid. Salt water is neither, so it stays yellow like plain water.",
+     "how": "e1",
+     "art": "Four small bowls in a row, two yellow and two red, each with a liquid name under it and an empty label box."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Think Like a Chemist and a Calendar Maker (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "write",
+     "p": "Some people say Makara Sankranti is the day the Sun starts moving north in the sky. Today that happens on about 21 or 22 December. How could both be true about 1,700 years ago, but not today?",
+     "lines": 5,
+     "a": "Sankranti is fixed by where the Sun is against the stars. The shortest day is fixed by the tilt of Earth's axis. The axis slowly wobbles, so the two days drift apart, about one day in 70 years. Long ago they fell together. Now they are about 24 days apart.",
+     "why": "A strong answer sees that the two days are measured in different ways, and that one of them slowly drifts."
+    },
+    {
+     "t": "perspective",
+     "p": "In the 1770s, Antoine Lavoisier said all acids contain oxygen. In 1810, Humphry Davy studied the acid made from salt.",
+     "views": [
+      {
+       "who": "Antoine Lavoisier, a French chemist",
+       "says": "Every acid I have made has oxygen in it. So oxygen must be what makes a thing an acid. I named oxygen 'acid maker'."
+      },
+      {
+       "who": "Humphry Davy, an English chemist",
+       "says": "The acid from salt is made of hydrogen and chlorine. It has no oxygen at all, yet it is a strong acid."
+      }
+     ],
+     "ask": "Whose idea fits the evidence better? Explain. Then say what Lavoisier did right, even though his idea was wrong.",
+     "lines": 5,
+     "a": "Davy's, because one acid with no oxygen is enough to show the rule is wrong. Lavoisier did right to look for a pattern in his results and to test many acids. His pattern was true for the acids he had tested.",
+     "why": "One clear case that breaks a rule shows the rule is wrong. A strong answer also respects Lavoisier for making a rule that could be tested."
+    },
+    {
+     "t": "write",
+     "p": "Kavya, a girl in Class 4, says, \"Turmeric is yellow. That is just what it is.\" After the Turmeric Test, what would you tell her?",
+     "lines": 4,
+     "a": "Turmeric is yellow in water and in acids, but red in bases like soap. Its colour depends on what it is mixed with. And the red can be turned back to yellow with lemon, so both colours belong to the same turmeric.",
+     "why": "A strong answer uses evidence from the test, and both the red change and the change back.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Tara mixes a mystery white powder in water and adds it to turmeric water. It stays yellow. What can she say for sure?",
+     "opts": [
+      "The powder is an acid",
+      "The powder is not a base",
+      "The powder is salt"
+     ],
+     "a": 1,
+     "why": "Turmeric stays yellow in acids and in things that are neither, so she cannot tell which. She can only say it is not a base. Hibiscus juice would tell her more."
+    },
+    {
+     "t": "write",
+     "p": "Design a test to find out whether toothpaste is a base. Say what you would use, what you would do, and what each result would mean.",
+     "lines": 5,
+     "a": "Mix a pea-sized blob of toothpaste in 3 spoons of water. Add one spoon to a bowl of turmeric water, and keep a bowl with plain water to compare. Wait one minute. If it turns red, the toothpaste is a base. If it stays yellow, it is not a base.",
+     "why": "A strong design has a control, the same amounts and wait, and says what red and yellow would each mean."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these festivals fall on almost the same date every year. Which one is the odd one out?",
+     "opts": [
+      "Vishu",
+      "Christmas",
+      "Ganesh Chaturthi",
+      "Independence Day"
+     ],
+     "a": 2,
+     "why": "Ganesh Chaturthi is counted from a new moon, so it moves between August and September. Vishu, Christmas and Independence Day follow the Sun."
+    },
+    {
+     "t": "mcq",
+     "p": "A seller at a mela wants her stall to survive a windy evening. Which change helps most?",
+     "opts": [
+      "A heavier cloth roof",
+      "Slanted poles from the corners to the ground, making triangles",
+      "Taller poles"
+     ],
+     "a": 1,
+     "why": "Triangles do not change shape when pushed, so slanted poles stop the stall leaning over. A heavier roof or taller poles make it more likely to tip.",
+     "how": "c1"
+    },
+    {
+     "t": "write",
+     "p": "A mela is built in a week and gone in a week. Think of three people whose work keeps going after it ends, and say why.",
+     "lines": 4,
+     "a": "The potter and toy maker, who start making things for the next mela. The cleaners, who clear the ground. The families who earned money, who use it for the rest of the year.",
+     "why": "A strong answer thinks past the mela days, about makers, cleaners and the money and memories people take home."
+    },
+    {
+     "t": "truefalse",
+     "p": "Every festival's date could be worked out from the Sun alone, if we tried.",
+     "a": false,
+     "why": "False. Festivals like Diwali and Eid are fixed by the Moon's shape. The Sun alone cannot tell you when the new moon or the crescent comes."
+    },
+    {
+     "t": "draw",
+     "p": "Draw the secret greeting from the challenge: the paper before, and after the turmeric water. Add arrows to show where the base is.",
+     "a": "Before: a plain white page with faint marks. After: a yellow page with red letters, and arrows pointing to the letters labelled 'baking soda, a base'.",
+     "why": "A strong drawing shows that only the parts with base turn red.",
+     "how": "c2",
+     "art": "Two empty paper outlines side by side, labelled 'before' and 'after'."
+    },
+    {
+     "t": "match",
+     "p": "Match each colour change to what it tells you.",
+     "pairs": [
+      [
+       "Turmeric turns red",
+       "the liquid is a base"
+      ],
+      [
+       "Hibiscus turns pink",
+       "the liquid is an acid"
+      ],
+      [
+       "Hibiscus turns green",
+       "the liquid is a base"
+      ],
+      [
+       "Turmeric stays yellow",
+       "the liquid is an acid, or neither"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "The two indicators give different clues. Using both tells you more than using one."
+    },
+    {
+     "t": "label",
+     "p": "Here is a calendar page with Eid marked in three years. Label each mark with the year, from the latest date in the year to the earliest.",
+     "labels": [
+      "10 April",
+      "30 March",
+      "19 March"
+     ],
+     "a": [
+      "10 April: first year",
+      "30 March: second year",
+      "19 March: third year"
+     ],
+     "why": "Eid comes about 11 days earlier each year, so the latest date in the year is the first year. 10 April, then 30 March, then 19 March.",
+     "how": "e3",
+     "art": "A calendar page for March and April with three circled dates: 19 March, 30 March and 10 April."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these by what they are made of.",
+     "cats": [
+      "From a plant",
+      "From a mineral or rock"
+     ],
+     "items": [
+      [
+       "turmeric",
+       "From a plant"
+      ],
+      [
+       "rice flour kolam",
+       "From a plant"
+      ],
+      [
+       "palash flower colour",
+       "From a plant"
+      ],
+      [
+       "lime paste",
+       "From a mineral or rock"
+      ],
+      [
+       "white stone kolam powder",
+       "From a mineral or rock"
+      ]
+     ],
+     "a": "see items",
+     "why": "Turmeric is a root, rice is a seed and palash is a flower. Lime is made by heating limestone or shells and adding water. Stone powder is ground rock."
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of making the secret greeting in order.",
+     "items": [
+      "Brush turmeric water over the page",
+      "Write with baking soda water",
+      "Let it dry for 10 minutes",
+      "Watch the red letters appear"
+     ],
+     "a": [
+      "Write with baking soda water",
+      "Let it dry for 10 minutes",
+      "Brush turmeric water over the page",
+      "Watch the red letters appear"
+     ],
+     "why": "The base must go on first and dry. The turmeric goes on last, and it turns red only where the base is.",
+     "how": "c2"
+    },
+    {
+     "t": "fill",
+     "p": "Twelve Moon months add up to about ____ days, which is 11 days shorter than a Sun year.",
+     "a": [
+      "354"
+     ],
+     "why": "One Moon month is about 29 and a half days. Twelve of them make about 354 days. A Sun year is about 365."
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Making kumkum and aarathi water from turmeric and lime.",
+  "Testing soil: farmers and gardeners check whether soil is acidic or basic before they choose a crop.",
+  "Testing water in swimming pools and fish tanks, with indicator strips that change colour.",
+  "Doctors and labs use indicator strips to test urine.",
+  "Planning the school year and holidays around festival dates from the Sun and Moon calendars.",
+  "Panchangams, printed every year, work out the Moon days for festivals ahead of time.",
+  "Organising a big mela: maps, Lost and Found booths, first aid and crowd control.",
+  "Dyers in India use acids and bases, such as lime and tamarind, to change and fix the colours of cloth."
+ ],
+ "spotted": [
+  {
+   "text": "A yellow turmeric stain on a shirt turning red when it is scrubbed with soap.",
+   "art": "A white shirt sleeve with a turmeric stain turning red under soap foam."
+  },
+  {
+   "text": "Red aarathi water in a plate, held up to welcome someone home.",
+   "art": "Hands holding a plate of red water with a small lamp at a doorway."
+  },
+  {
+   "text": "Rice-flour kolams at doorsteps in the morning, and ants at their edges by afternoon.",
+   "art": "A doorstep kolam with a line of ants along one loop."
+  },
+  {
+   "text": "Kites over rooftops in Ahmedabad and Hyderabad at Sankranti.",
+   "art": "City rooftops with children flying many coloured kites."
+  },
+  {
+   "text": "A printed calendar on the kitchen wall with festival days marked in red.",
+   "art": "A wall calendar with several dates circled in red."
+  },
+  {
+   "text": "Bamboo stalls and a giant wheel going up on an empty ground before a festival.",
+   "art": "Workers tying bamboo poles with rope on an open ground, a half-built giant wheel behind."
+  },
+  {
+   "text": "The flag hoisted on a housing society terrace on Independence Day.",
+   "art": "A group of families on a building terrace saluting the Indian flag."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "When and where did people first notice that turmeric turns red with lime?",
+   "why_open": "Turmeric and lime have been used in India for thousands of years, but nobody wrote down who first saw the change."
+  },
+  {
+   "q": "Why do people everywhere make festivals?",
+   "why_open": "Scientists who study people have many ideas, such as the harvest, faith and belonging. Nobody knows which came first, or whether one reason explains them all."
+  },
+  {
+   "q": "Which was the first festival people ever celebrated?",
+   "why_open": "Festivals are much older than writing, so no record of the first one is left."
+  },
+  {
+   "q": "Is there any one reason why some plant colours, like hibiscus, change with acids and others, like spinach green, hardly do?",
+   "why_open": "Chemists know how many plant colours change, but why plants make colours that change in this way is still studied."
+  }
+ ],
+ "ask_kids": [
+  "When you wash your hands after eating sambar, does the turmeric on your fingers change colour with the soap?",
+  "Which festival is coming next? Does it follow the Sun or the Moon?",
+  "What would you sell at your own mela stall? What would you build it from?",
+  "Which festival foods use something just harvested?",
+  "Who works hardest at a festival in our home? What do they do?",
+  "If you could join one festival from another state, which would it be? Why?",
+  "Is curd an acid or a base? How could we test it?",
+  "What do you think Gandhi would want us to do on Gandhi Jayanti?",
+  "Why do you think people let the Pongal pot boil over on purpose?",
+  "What is something the whole country does together on Republic Day?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the turmeric blush?",
+   "a": "It met a bar of soap."
+  },
+  {
+   "j": "What did the lemon say to the red turmeric?",
+   "a": "Calm down, I'll bring you back to yellow."
+  },
+  {
+   "j": "Why was the kolam always happy to have guests?",
+   "a": "The ants came to visit every day."
+  },
+  {
+   "j": "Why was the Pongal pot so happy?",
+   "a": "It was overflowing with joy."
+  },
+  {
+   "j": "Why did the kite go to school at Uttarayan?",
+   "a": "To get higher marks."
+  },
+  {
+   "j": "What did the giant wheel say at the end of the mela?",
+   "a": "I've been going round all week. Time for a rest."
+  },
+  {
+   "j": "Why did Eid tell Christmas to hurry up?",
+   "a": "Because Eid comes 11 days earlier every year."
+  },
+  {
+   "j": "Why don't calendars ever win races?",
+   "a": "Their days are numbered."
+  },
+  {
+   "j": "Why did the bamboo pole join the mela?",
+   "a": "It wanted to stand up for something."
+  },
+  {
+   "j": "What is a sadya's favourite game?",
+   "a": "Leaf it to me."
+  },
+  {
+   "j": "Why was the Moon never on time for Diwali?",
+   "a": "It kept changing its phase."
+  },
+  {
+   "j": "What did the soap say to the turmeric stain?",
+   "a": "I'm sorry, I didn't mean to make you red."
+  },
+  {
+   "j": "Why did the baking soda write secret letters?",
+   "a": "It wanted its message to turn up in red."
+  },
+  {
+   "j": "Why did the Lost and Found booth always smile?",
+   "a": "It loved happy endings."
+  },
+  {
+   "j": "What did one hibiscus say to the other in the lemon juice?",
+   "a": "You look tickled pink."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "Twelve Moon months are about 354 days. A Sun year is about 365 days. How many days shorter is the Moon year?",
+   "answer": "11 days.",
+   "explain": "365 minus 354 is 11. Count up from 354: 6 more makes 360, and 5 more makes 365. 6 and 5 make 11.",
+   "math_unit": "math.addition-subtraction.mental-strategies.L3",
+   "context": "This is about why Eid moves on our calendar.",
+   "why_maths": "Taking one year from the other shows exactly how far Eid slides each year.",
+   "how": "e3"
+  },
+  {
+   "problem": "Eid moves about 11 days earlier every year. About how many years does it take to move 33 days, more than a whole month?",
+   "answer": "3 years.",
+   "explain": "Each year it moves 11 days. 11, 22, 33: that is 3 years. So in 3 years Eid moves back by more than a month.",
+   "math_unit": "math.multiplication.equal-groups.L3",
+   "context": "This is about how fast Eid moves through the year.",
+   "why_maths": "Counting in equal steps of 11 lets us predict where Eid will be years from now.",
+   "how": "e3"
+  },
+  {
+   "problem": "In the Turmeric Test, Lakshmi tested 8 liquids. 2 turned red. Write the fraction that turned red, and the fraction that stayed yellow.",
+   "answer": "2 out of 8, which is 1 quarter, turned red. 6 out of 8, which is 3 quarters, stayed yellow.",
+   "explain": "2 out of 8 is the same as 1 out of 4, a quarter. The rest, 6 out of 8, is 3 out of 4. Most kitchen liquids were not bases.",
+   "math_unit": "math.fractions.fractions-of-a-whole.L3",
+   "context": "This is about the results of the Turmeric Test.",
+   "why_maths": "A fraction shows at a glance how rare bases were among the kitchen liquids.",
+   "how": "e1"
+  },
+  {
+   "problem": "India's Constitution came into force in 1950. How many years ago was that, this year? How old was Gandhi in 1947, if he was born in October 1869 and India became free in August 1947?",
+   "answer": "This year minus 1950. For 2026, that is 76 years. Gandhi was 77 years old in August 1947.",
+   "explain": "From 1869 to 1947 is 78 years. But in August 1947 he had not yet had his birthday in October, so he was still 77.",
+   "math_unit": "math.time.calendar.L3",
+   "context": "This is about the national festivals timeline.",
+   "why_maths": "Counting years between dates, and checking the month, shows how long ago these events really were.",
+   "how": "a5"
+  },
+  {
+   "problem": "Pongal is on 14 January and Republic Day is on 26 January. How many days after Pongal is Republic Day? Predict: will the gap be the same next year? Why?",
+   "answer": "12 days. Yes, the gap stays about the same, because both follow the Sun calendar.",
+   "explain": "26 minus 14 is 12. Both dates are fixed by the Sun, so they stay together. If Pongal falls on 15 January in some year, the gap is 11.",
+   "math_unit": "math.addition-subtraction.word-problems.L3",
+   "context": "This is about two January festivals that follow the Sun.",
+   "why_maths": "Comparing two dates, and predicting next year's gap, tests whether we really understand which calendar each follows."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.community.L3",
+  "title": "Our Street, Our Mela",
+  "note": "Topic-level song for Community and neighbourhood L3"
+ },
+ "links": [
+  {
+   "title": "PhET Acid-Base Solutions",
+   "url": "https://phet.colorado.edu/en/simulations/acid-base-solutions",
+   "kind": "simulation",
+   "why": "A free online simulation. Test acids and bases, and see an indicator paper change colour. Best done with a grown-up."
+  },
+  {
+   "title": "PhET pH Scale: Basics",
+   "url": "https://phet.colorado.edu/en/simulations/ph-scale-basics",
+   "kind": "simulation",
+   "why": "Test everyday liquids, like soap, milk and juice, and see where each sits from acid to base."
+  },
+  {
+   "title": "DakshinaChitra Heritage Museum",
+   "url": "https://www.dakshinachitra.net",
+   "kind": "place",
+   "where": "Chennai (on the East Coast Road)",
+   "why": "Old houses, crafts and festivals of South India, with potters and weavers at work."
+  },
+  {
+   "title": "National Handicrafts and Handlooms Museum (Crafts Museum)",
+   "url": "https://www.nationalcraftsmuseum.nic.in",
+   "kind": "place",
+   "where": "New Delhi",
+   "why": "Toys, pots, textiles and festival crafts from every state, often with crafts people showing their work."
+  },
+  {
+   "title": "Mysuru Dasara exhibition",
+   "url": "https://www.mysoredasara.gov.in",
+   "kind": "place",
+   "where": "Mysuru",
+   "why": "A big mela held every year at Dasara time, with stalls, rides and food."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-soda",
+   "item": "A small packet of baking soda (cooking soda)",
+   "kind": "material",
+   "why": "Many kitchens have it. If yours does not, any grocery shop sells it cheaply. It is the base that turns turmeric red in the tests and the secret greeting. Soapy water works in its place for most steps.",
+   "url": "https://www.amazon.in/s?k=baking+soda",
+   "used_in": [
+    "e1",
+    "e2",
+    "c2"
+   ],
+   "plan": "Keep it in the kitchen. It is used in cooking too."
+  },
+  {
+   "id": "b-lime",
+   "item": "A small tube or packet of lime paste (chuna or sunnambu)",
+   "kind": "material",
+   "why": "Only for making aarathi water with a grown-up. Paan shops sell it in small amounts. Baking soda can be used instead, for a lighter red.",
+   "url": "https://www.amazon.in/s?k=chuna+lime+paste",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Keep it closed, high up, and out of children's reach."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What colour does turmeric turn in soapy water?",
+   "a": "Red-brown."
+  },
+  {
+   "q": "Is lemon juice an acid or a base?",
+   "a": "An acid."
+  },
+  {
+   "q": "What is the January harvest festival called in Tamil Nadu?",
+   "a": "Pongal."
+  },
+  {
+   "q": "What date is Republic Day?",
+   "a": "26 January."
+  },
+  {
+   "q": "What date is Independence Day?",
+   "a": "15 August."
+  },
+  {
+   "q": "Does Diwali follow the Sun or the Moon?",
+   "a": "The Moon."
+  },
+  {
+   "q": "What is a stall at a mela usually made of?",
+   "a": "Bamboo poles, rope and cloth."
+  },
+  {
+   "q": "What do you call a substance that changes colour in acids or bases?",
+   "a": "An indicator."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "a1",
+   "story",
+   "e1",
+   "g1",
+   "big_questions",
+   "cards",
+   "a2"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "summary",
+   "terms",
+   "explanations",
+   "story",
+   "g1",
+   "a2",
+   "e3",
+   "g2",
+   "videos",
+   "ws-core",
+   "a4",
+   "e2",
+   "a3",
+   "a5",
+   "agreed",
+   "challenging",
+   "p1",
+   "ws-stretch",
+   "c1",
+   "c2",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "e3",
+   "g1",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/society-community-culture-and-festivals.md: read for this topic. Its science cards (Ray, Kang, Darwin, Brahe) do not fit a Class 3 festivals unit, so none were used. P.C. Ray's point that India's chemical crafts are real chemistry shaped the turmeric and lime focus.",
+   "NCERT Our Wondrous World Class 3, Chapter 2 Going to the Mela and Chapter 3 Celebrating Festivals (app/content/ncert/sci-L3-02.json, sci-L3-03.json): coverage only, no text copied: the mela, its people and safety, seasonal festivals and foods, Moon calendars",
+   "NIOS Environmental Studies Level A, Lesson 3 Our Festivals (app/content/nios/sci-L3-03.json): coverage only: festivals of many religions, Makara Sankranti under many names, national festivals, natural colours"
+  ],
+  "science": [
+   "Priyadarsini, 'The Chemistry of Curcumin: From Extraction to Therapeutic Agent', Molecules 19, 2014 (curcumin is yellow in acid and neutral solution and turns red above about pH 8)",
+   "Boyle, Experiments and Considerations Touching Colours, London, 1664 (plant juices that change colour with acids and alkalis)",
+   "Lavoisier, Traité élémentaire de chimie, Paris, 1789 (oxygen as the 'acid former')",
+   "Davy, 'On the oxymuriatic acid, and its combinations', Philosophical Transactions of the Royal Society 100, 1810 (chlorine is an element, and muriatic acid contains no oxygen)",
+   "NCERT Science Class 7, Acids, Bases and Salts (turmeric and China rose as indicators)",
+   "Wikipedia, Kumkuma (kumkum made from turmeric with slaked lime)",
+   "Government of India, national festivals: Independence Day 15 August 1947, Republic Day 26 January 1950, Gandhi Jayanti 2 October (born 1869, Porbandar)",
+   "Precession of the equinoxes: about 1 degree in 72 years, so sidereal Makara Sankranti and the December solstice drift apart by about one day every 70 years"
+  ]
+ },
+ "roots": {
+  "context": "We have turned turmeric red and yellow again, and learned how festivals mark the Sun, the Moon and the harvest. Now we ask what the turmeric tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Turmeric water turned red with soap, and yellow again with lemon juice. You added no red colour, and took nothing out. Turmeric shows yellow among acids and red among bases. So the colour you see belongs to turmeric and its surroundings together.",
+   "habit": "We give each thing one fixed colour, as if 'turmeric is yellow' says everything about it. The test shows that what a thing looks like also depends on what it is with.",
+   "evidence": "In the Turmeric Test, the same turmeric water turned red-brown with soap and baking soda, stayed yellow with lemon, tamarind, salt and sugar, and went back to yellow when lemon was added to a red bowl."
+  },
+  "three": {
+   "who_am_i": "Like turmeric, you show different sides with different people: one way with your grandmother, another way with your friends, and you are still you.",
+   "what_is_life": "Curd bacteria make the acid that makes curd sour. Living things change the world around them, and that changes how other things look and act.",
+   "what_is_this_world": "A world where yellow turmeric and white lime together make red is a world where meetings make new things."
+  },
+  "thread": "Turmeric on its own looks yellow. Lime on its own looks white. Put them together, and a red appears that neither had alone. A festival works the same way. Rice, jaggery, a pot, the Sun and many people are each ordinary on their own. Brought together on one morning, they make Pongal.",
+  "teachings": [
+   {
+    "source": "Jain teaching of anekantavada (many-sidedness), and the story of the blind men and the elephant",
+    "teaching": "Several blind men touch one elephant. One feels the trunk and says it is a rope. One feels the leg and says it is a pillar. Each is partly right, and none sees the whole.",
+    "link": "Someone who has only seen turmeric in sambar would say it is yellow. Someone who has only seen aarathi water would say it is red. Each is partly right. The Turmeric Test shows both sides of one turmeric."
+   },
+   {
+    "source": "Tao Te Ching 2",
+    "teaching": "Long and short shape each other. High and low lean on each other. Each is what it is because of the other.",
+    "link": "Turmeric looks red only next to a base, and yellow next to an acid. What it looks like depends on what it is with."
+   }
+  ],
+  "science": [
+   {
+    "text": "Curcumin, the yellow substance in turmeric, changes shape in a base and looks red-brown. In an acid it changes back.",
+    "status": "settled"
+   },
+   {
+    "text": "How festivals began, and why every human group has them, is still studied and argued about.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "A chemist who keeps to the facts",
+   "view": "The colour change is curcumin gaining and losing tiny particles called hydrogen ions. That is all there is to it. Comparing it with people, or with festivals, is a nice picture, but it tells us nothing new about turmeric."
+  },
+  "practice": {
+   "title": "Watching one colour change",
+   "mins": 3,
+   "say": "Let's put a little turmeric water in a white cup. Sit still and breathe slowly three times. Now add one drop of soapy water. Watch the red spread without speaking. Then add a drop of lemon, and watch it fade. Where did the red go? Was it ever away?",
+   "kid": "Sit still. Breathe slowly three times. Add one drop of soap. Watch the red spread. Now add lemon. Where did the red go?"
+  },
+  "ask": [
+   "If turmeric is yellow in one place and red in another, what is its real colour?",
+   "Do you act differently with different people? Are you still the same person?",
+   "Lime and turmeric made a red that neither had alone. What else is made only when two things meet?"
+  ],
+  "art": "A white cup of yellow turmeric water on a windowsill at dawn, a single red swirl spreading from one drop, and a family drawing a kolam outside the door behind it."
+ },
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. The Turmeric Test uses only kitchen things: turmeric, lemon, tamarind, curd, salt, sugar, baking soda and soap. Soap and baking soda are the bases most homes have. Bar soap gives a clear red-brown, and baking soda an orange-red, so the step says to add a pinch of dry baking soda if the colour is weak. Turmeric does not dissolve fully in water, so the turmeric water stays cloudy, and the step says so. Lemon turns a red bowl yellow again, but may need a teaspoon or more. Lime paste is a strong base, so only the grown-up handles it, in the aarathi water activity, which is outside the spine. Baking soda works in its place. The hibiscus test needs a flower, which flower sellers and temple stalls sell, so it is outside the spine. The rice-flour kolam relies on ants, so the step says what to do if none come, and it is outside the spine. The calendar hunt needs a phone calendar or printed calendars, and a grown-up. The spine is the first look at turmeric, the Turmeric Test, the explanation cards, roots and the quiz, about 85 minutes.",
+ "how_we_found_out": {
+  "story": "In 1664, Robert Boyle in England wrote that some plant juices change colour with sour things and with soapy things. He used these colour changes to sort substances into acids and alkalis, which we now call bases. About a hundred years later, in Paris, Antoine Lavoisier and his wife Marie-Anne Paulze Lavoisier worked together in their laboratory. She kept the records, drew the equipment and translated English science papers for him. Lavoisier noticed that every acid he made had oxygen in it. So he decided that oxygen is what makes a substance an acid. He even named the gas oxygen from Greek words meaning 'acid maker'. In 1810, Humphry Davy in London tested the strong acid made from salt. He showed that it is made of hydrogen and chlorine, with no oxygen at all. One acid without oxygen was enough to show that Lavoisier's rule was wrong. Later chemists found that acids share hydrogen instead. The acid Davy studied is the same acid your stomach makes to break down food.",
+  "who": "Robert Boyle in England, Antoine and Marie-Anne Paulze Lavoisier in Paris, and Humphry Davy in London",
+  "when": "1664 (Boyle's book on colours), the 1770s and 1780s (Lavoisier's oxygen idea), and 1810 (Davy's work on the acid from salt)",
+  "wrong_idea": "Lavoisier thought every acid must contain oxygen, and named oxygen 'acid maker'. Davy showed that the acid made from salt contains only hydrogen and chlorine, so oxygen is not what makes an acid."
+ }
+}

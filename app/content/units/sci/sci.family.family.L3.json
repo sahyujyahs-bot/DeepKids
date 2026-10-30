@@ -1,0 +1,2424 @@
+{
+ "id": "sci.family.family.L3",
+ "title": "Family: who we are to each other, and the work that keeps a home going",
+ "level": 3,
+ "summary": {
+  "text": "Every family runs on hours of cooking, washing and caring each day, and most of that work is never paid. In this unit you name your relatives and find that English has one word, uncle, for four different relations. You count and time every job done in your home for one evening, and draw a pictograph of who did what. You learn what parents and guardians must give a child, how girls and women were kept out of school and other rights, and how that is changing. You also meet animal families, where a father, a group or even another kind of bird raises the young.",
+  "art": "A busy kitchen and living room in an Indian flat seen from above, with a grandmother cooking, a mother bathing a toddler, a father washing tumblers and a girl with a notebook and a wall clock writing down times."
+ },
+ "intro": {
+  "hook": "Who in your home works the most? Before you answer, think about yesterday. Who cooked, washed the vessels, folded clothes, and put the baby to sleep?",
+  "text": "A family is a group of people who look after each other. Some families are big, with grandparents, aunts and cousins under one roof. Some are small, with one parent and one child. In every family, someone cooks, cleans, shops and cares for the youngest and the oldest. This work takes many hours, and in most homes nobody is paid for it. In this unit you find out exactly how many minutes of work your own home needs in one evening, and who does it. You will be surprised.",
+  "art": "A girl at a dining table looking at a wall clock, with a notebook in front of her, while behind her people in her family cook, sweep and fold clothes."
+ },
+ "outcomes": [
+  "I can name the people in my family, say how each one is related to me, and use the right relation word in my home language and in English.",
+  "I can explain that families come in many shapes, such as joint, nuclear, one-parent and adoptive families, and that care is what holds each of them together.",
+  "I can count and time the jobs done in my home, show the minutes in a table and a pictograph, and say what the numbers show.",
+  "I can explain why unpaid home work and care work are real work, and say who does most of this work in India.",
+  "I can list what parents and guardians must give a child, and what a child can do for the family.",
+  "I can give examples of how girls and women were kept out of school and other rights in India, and how people such as Savitribai Phule changed this.",
+  "I can describe how some animals raise their young, and who helps them."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Family",
+   "meaning": "A group of people who care for each other and are joined by birth, marriage, adoption or by choosing to live as a family.",
+   "example": "Kavya lives with her Amma, her Appa, her Ajji and her little brother. They are her family. Her Mama in Bengaluru is family too, though he lives far away.",
+   "art": "A family of five in a flat in Mysuru sitting together on a mat, eating from steel plates."
+  },
+  {
+   "term": "Relative",
+   "meaning": "A person who belongs to your family, even if they live far away.",
+   "example": "Your mother's brother, your father's sister and your cousins are all relatives.",
+   "art": "A family tree on paper with small faces in circles, joined by lines."
+  },
+  {
+   "term": "Generation",
+   "meaning": "All the people in a family who were born at about the same time. Grandparents are one generation, parents the next, and children the next.",
+   "example": "Ajji, Appa and Kavya belong to three different generations.",
+   "art": "Three steps going down: a grandmother on the top step, a father on the middle step, a girl on the bottom step."
+  },
+  {
+   "term": "Mother's side and father's side",
+   "meaning": "Your relatives through your mother are on your mother's side. Your relatives through your father are on your father's side.",
+   "example": "In Tamil, Mama is your mother's brother and Chithappa is your father's younger brother. In English, both are called uncle.",
+   "art": "A tree with two big branches, one labelled Amma's side and one labelled Appa's side."
+  },
+  {
+   "term": "Joint family and nuclear family",
+   "meaning": "A joint family is a big family where grandparents, parents, uncles, aunts and cousins live together. A nuclear family is parents, or one parent, living with their children.",
+   "example": "Farhan lives with his grandparents, his parents, his uncle, his aunt and two cousins. That is a joint family.",
+   "art": "Two houses side by side: a big one with many people at the windows, and a small flat with three people."
+  },
+  {
+   "term": "Guardian",
+   "meaning": "A grown-up who takes the place of a parent and is responsible for a child.",
+   "example": "Meenakshi's grandmother is her guardian, because her parents work in another country.",
+   "art": "A grandmother walking a girl to school, holding her hand and her school bag."
+  },
+  {
+   "term": "Unpaid work",
+   "meaning": "Work that nobody pays money for, such as cooking for your own family, washing your own clothes or looking after a sick grandparent.",
+   "example": "When a house help washes the vessels, she is paid. When Amma washes the same vessels, nobody pays her. Both are doing work.",
+   "art": "Two pictures side by side of hands washing the same steel vessels, one with a small pile of coins next to them and one without."
+  },
+  {
+   "term": "Care work",
+   "meaning": "Looking after people who need help: feeding a baby, bathing a toddler, giving medicine, helping with homework, sitting with someone who is ill.",
+   "example": "Lakshmi spends half an hour each evening helping her grandfather with his eye drops and his walk. That is care work.",
+   "art": "A girl holding her grandfather's arm as he walks slowly down a corridor in a flat."
+  },
+  {
+   "term": "Discrimination",
+   "meaning": "Treating someone unfairly because of who they are, for example because she is a girl.",
+   "example": "Sending a son to school but keeping a daughter at home to do housework is discrimination.",
+   "art": "A boy walking to school with a bag, while his sister watches from the doorway holding a broom."
+  },
+  {
+   "term": "Equal rights",
+   "meaning": "Rights that every person has in the same way, whoever they are. India's Constitution gives women and men equal rights.",
+   "example": "Every girl and every boy in India from 6 to 14 has the right to go to school for free.",
+   "art": "A girl and a boy walking side by side to school, each with a bag."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "What a family is",
+   "status": "defined",
+   "context": "This card is about what makes a group of people a family.",
+   "definition": "A family is a group of people who care for each other and are joined by birth, marriage, adoption or by choosing to live as a family.",
+   "description": "Families come in many shapes. A joint family has grandparents, parents, uncles, aunts and cousins under one roof. A nuclear family is parents and their children. Some children live with one parent, some with grandparents, and some were adopted. Some families live apart, with a parent working in another city or country. What makes all of these families is the same: the people in them look after each other.",
+   "examples": [
+    "Farhan in Hyderabad lives in a joint family of eight people.",
+    "Divya in Kochi lives with her mother only. They are a family of two.",
+    "Arjun was adopted as a baby. His parents are his parents, just as much as anyone's."
+   ],
+   "perspectives": [],
+   "art": "Four small pictures of different families: a big joint family, a mother and daughter, two grandparents with a grandson, and a couple with an adopted baby."
+  },
+  {
+   "concept": "How relatives are related",
+   "status": "defined",
+   "context": "This card is about how the people in a family are connected, and the words we use for them.",
+   "definition": "A relation is the way two people in a family are connected, such as 'my mother's brother'. A relation word is the name we call them, such as Mama.",
+   "description": "Each person has two parents, four grandparents and eight great-grandparents. Your relatives come through your mother's side and your father's side. Many Indian languages have a separate word for each relation. In Tamil, Mama is your mother's brother, Chithappa is your father's younger brother and Periyappa is your father's elder brother. Hindi has Mama, Chacha and Tau. English calls all of them uncle. The words tell you exactly how a person is related. Children also get about half of their genes from their mother and half from their father. Genes are the instructions inside every cell of a body.",
+   "examples": [
+    "Tamil: Paati and Thatha are grandmother and grandfather. Athai is your father's sister.",
+    "Kannada: Ajji is grandmother.",
+    "Hindi: Bua is your father's sister and Mausi is your mother's sister."
+   ],
+   "perspectives": [],
+   "art": "A family tree with Tamil and English names under each face: Amma, Appa, Mama, Athai, Paati, Thatha."
+  },
+  {
+   "concept": "Home work is work",
+   "status": "defined",
+   "context": "This card is about the cooking, cleaning and caring done at home, and why it counts as work.",
+   "definition": "Unpaid work is work done for your own home or family that nobody pays for. Care work is looking after people who need help.",
+   "description": "Cooking, washing, cleaning, shopping and caring take hours every day in every home. When a house help or a cook does this work, she is paid. When a family member does the same work, nobody pays. When India adds up the value of all the work done in the country, it leaves out unpaid home work. In 2019, India's Time Use Survey asked people how they spent each minute of a day. It found that women who did unpaid home work spent about 299 minutes a day on it. Men who did any spent about 97 minutes.",
+   "examples": [
+    "Cooking three meals for a family of five can take more than three hours a day.",
+    "Sitting with a sick grandparent at night is care work.",
+    "A house help who sweeps and mops is doing paid work. The same sweeping by Amma is unpaid work."
+   ],
+   "perspectives": [],
+   "art": "A bar chart drawn on a kitchen wall: a tall bar for women's minutes of home work and a short bar for men's."
+  },
+  {
+   "concept": "What parents and guardians must give a child",
+   "status": "defined",
+   "context": "This card is about what parents and guardians are responsible for.",
+   "definition": "Parents and guardians are responsible for a child's food, home, health, safety, schooling and love.",
+   "description": "A child cannot feed, clothe or protect themself for many years. So parents and guardians must give enough good food, a safe home and clothes. They take the child to a doctor and get them vaccinated. A vaccine teaches the body to fight a disease before the child catches it. They must send every child to school, daughters and sons alike. In India, the Right to Education Act of 2009 says every child from 6 to 14 can go to school for free. The law also says children under 14 must not be sent to work for money. Parents also give time: talking, listening and helping a child to decide things. Children help the family too, with jobs that suit their age.",
+   "examples": [
+    "Getting polio drops and other vaccines on time.",
+    "Sending a daughter to school just as a son is sent.",
+    "Listening when a child says they are scared."
+   ],
+   "perspectives": [],
+   "art": "A mother holding a girl's hand at a vaccination counter, with a school bag on the girl's back."
+  },
+  {
+   "concept": "Girls and women, then and now",
+   "status": "defined",
+   "context": "This card is about how girls and women have been treated in India, and what has changed.",
+   "definition": "Discrimination against girls and women means treating them unfairly because they are female, for example by giving them less schooling, food, money or say.",
+   "description": "For a long time, many Indian families sent sons to school and kept daughters at home to work. In 1848 in Pune, Savitribai Phule and Jyotirao Phule opened a school for girls. People threw mud and stones at Savitribai on her way to school, and she carried a spare sari to change into. In 1950, India's Constitution gave women and men equal rights. Many things have changed, but not all. In the 2011 Census, about 82 in every 100 men could read and write, but only about 65 in every 100 women. Women still do most of the unpaid work at home.",
+   "examples": [
+    "Savitribai Phule, who opened a girls' school in Pune in 1848 and wrote poems.",
+    "In Kerala, more than 90 in every 100 women could read and write in the 2011 Census.",
+    "A daughter now has the same right as a son to go to school, by law."
+   ],
+   "perspectives": [],
+   "art": "Savitribai Phule walking to school with a cloth bag, and a group of girls waiting for her at the door."
+  },
+  {
+   "concept": "How animal families raise their young",
+   "status": "defined",
+   "context": "This card is about how other animals care for their young, and who helps them.",
+   "definition": "Parental care is everything a parent or helper does to keep the young alive until they can live on their own.",
+   "description": "Animals share this work in many ways. A cow feeds her calf with her milk. A pair of house crows build the nest together, and both feed the chicks. A male emperor penguin keeps the egg warm on his feet for about two months while the mother is at sea. A mother mugger crocodile guards her nest and carries her hatchlings to the water in her mouth. Jungle babblers live in groups, and older birds in the group help to feed the chicks. An Asian koel lays her eggs in a crow's nest, and the crows raise the koel chicks as their own. An olive ridley turtle lays her eggs on a beach and swims away. Her hatchlings live on their own from the start.",
+   "examples": [
+    "House crows: both parents feed the chicks.",
+    "Seahorses: the father carries the eggs in a pouch until they hatch.",
+    "Elephants: a herd of related females, led by an older female, looks after the calves together."
+   ],
+   "perspectives": [],
+   "art": "A row of animal families: two crows feeding chicks in a nest, a penguin father with an egg on his feet, a mugger crocodile with babies in her mouth, and jungle babblers feeding a chick together."
+  },
+  {
+   "concept": "Why human children need so many helpers",
+   "status": "debated",
+   "context": "This card is about why people take so long to grow up, and who helps raise them.",
+   "description": "A calf walks within hours of being born. A human baby takes about a year to walk and many more years to look after themself. Scientists are still arguing about how human families managed this for most of history.",
+   "examples": [
+    "Grandmothers, aunts, older brothers and sisters often feed and carry babies in Indian families.",
+    "In many homes, a neighbour or a house help also cares for a child."
+   ],
+   "perspectives": [
+    {
+     "who": "Sarah Blaffer Hrdy, an American scientist who studies animals and people, in her book Mothers and Others (2009)",
+     "explanation": "Human mothers have always had help from others, such as grandmothers, fathers and older children. Without these helpers, our long childhood would not have been possible."
+    },
+    {
+     "who": "Kristen Hawkes and her team, who studied the Hadza people of Tanzania",
+     "explanation": "Grandmothers matter most. Hadza grandmothers dig food for their grandchildren, so mothers can have the next baby sooner. This is called the grandmother idea."
+    },
+    {
+     "who": "John Bowlby, a British doctor, in his early writing",
+     "explanation": "A baby needs one main carer, usually the mother, above all others. Later studies found that most babies attach to several people."
+    }
+   ],
+   "art": "A baby being passed from a mother to a grandmother while an older sister holds out a toy."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Babies and children need comfort and touch from people who care for them, not only food.",
+   "evidence": "Harry Harlow's studies of baby monkeys in the 1950s, John Bowlby's work, and Mary Ainsworth's studies of mothers and babies in Uganda and the United States."
+  },
+  {
+   "text": "In India, women do much more unpaid home work and care work than men.",
+   "evidence": "India's Time Use Survey of 2019 found that women who did this work spent about 299 minutes a day on it, and men who did any spent about 97 minutes."
+  },
+  {
+   "text": "Each child gets about half of their genes from their mother and half from their father.",
+   "evidence": "Studies of how features are passed on in families, and the reading of human DNA."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Housework is not real work, because nobody is paid for it.",
+   "who": "A common view, and the way countries add up their income",
+   "context": "This card is about whether home work counts as work.",
+   "for": "Nobody pays money for it, so it does not appear in a country's income figures.",
+   "against": "The same jobs are paid when a house help or a cook does them. Without this work, nobody could eat, stay clean or go out to a paid job. Many countries now measure it with time use surveys.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Hugging and comforting a child too much spoils them.",
+   "who": "John B. Watson and Rosalie Rayner Watson, in their book for parents, 1928",
+   "context": "This card is about an old idea of how to bring up children.",
+   "for": "They thought children who were cuddled would grow up weak and clingy.",
+   "against": "Harlow's baby monkeys ran to a soft cloth mother when scared. Children's studies since then show that comfort makes children braver, not weaker.",
+   "status": "rejected"
+  },
+  {
+   "claim": "A child needs only their mother to grow up well.",
+   "who": "John Bowlby's early writing, in the 1950s",
+   "context": "This card is about who a child needs.",
+   "for": "Babies often cling most to one person, and are upset when that person goes away.",
+   "against": "Rudolph Schaffer and Peggy Emerson followed babies in Glasgow in 1964 and found most of them grew attached to several people. Grandmothers, fathers and others raise children well.",
+   "status": "minority"
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "When a house help cooks, she is paid. When Ajji cooks the same meal, she is not. Is it the same work?",
+   "kind": "big",
+   "hint": "Think about what the food does for the family, and why one person gets money."
+  },
+  {
+   "q": "Is a family made by birth, or by people caring for each other?",
+   "kind": "big",
+   "hint": "Think about an adopted child, or a grandmother who raises her granddaughter."
+  },
+  {
+   "q": "Why does a human child need looking after for so many more years than a calf?",
+   "kind": "deep",
+   "hint": "Think about what a child must learn before they can live on their own."
+  },
+  {
+   "q": "A koel chick is raised by crows. Who is the koel's family?",
+   "kind": "deep",
+   "hint": "Think about who fed the chick, and who laid the egg."
+  },
+  {
+   "q": "If nobody counts a piece of work, is it still there?",
+   "kind": "big",
+   "hint": "Think about your own work count, and what would happen if a job was not done for a week."
+  }
+ ],
+ "story": {
+  "title": "Ajji's Minutes",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "The story is made up. What it shows is true: home work takes many hours, it is often unpaid, and many girls of earlier generations left school to do it.",
+  "text": [
+   "Kavya was eight, and she lived in a flat in Mysuru with her Amma, her Appa, her Ajji and her little brother Chintu, who was three.",
+   "Amma was a nurse. That week she worked at night. Appa worked in a bank. Ajji was Appa's mother, and she had lived with them since Kavya was born.",
+   "One Saturday Kavya had a science job. She had to write down every home job done that day, who did it, and how many minutes it took.",
+   "She took a notebook and sat where she could see the kitchen clock.",
+   "Ajji was already awake. At half past five she swept the doorstep and drew a rangoli with white powder. Then she boiled the milk and made coffee for everyone. Kavya wrote it all down.",
+   "Gowramma came at seven to sweep and mop the floors. She worked for an hour, and Appa paid her at the end of every month. Kavya wrote, \"Gowramma, 60 minutes, paid.\"",
+   "Amma came home from the hospital at eight. She was tired, but she bathed Chintu and fed him idli before she went to sleep. Kavya wrote, \"Amma, 40 minutes.\"",
+   "Appa read the newspaper. Then he washed his own tiffin box. Kavya wrote, \"Appa, 5 minutes.\"",
+   "All day the list grew. Ajji ground the batter, cut vegetables, cooked lunch, washed the vessels, folded the clothes and took Chintu to the park. When Chintu cried, Ajji picked him up. When the gas cylinder ran out, Ajji called the gas agency.",
+   "At night Kavya added up the minutes. She added them again, because she could not believe it.",
+   "\"Ajji did six hours and ten minutes,\" she said. \"Appa did thirty-five minutes. I did twenty.\"",
+   "Appa put down his phone. \"Six hours?\"",
+   "\"And Gowramma did one hour, and she was paid,\" said Kavya. \"Ajji, who pays you?\"",
+   "Ajji laughed. \"Nobody pays me, kanda. Nobody ever has.\"",
+   "\"But it's the same work,\" said Kavya. \"Gowramma sweeps, and you sweep.\"",
+   "Ajji sat down on the mat next to her. \"When I was your age, I lived in a village near Mandya,\" she said. \"I went to school until Class 4. Then my mother had my fourth brother, and she needed help at home. So I stayed home and looked after the babies. My brothers went to school.\"",
+   "\"Did you want to go?\" asked Kavya.",
+   "\"I loved sums,\" said Ajji. \"I was the fastest in my class. I still add the vegetable bill before the shopkeeper does.\"",
+   "\"That's not fair,\" said Kavya.",
+   "\"No,\" said Ajji. \"It was not fair. Things are better now. Your Amma studied nursing. You will study whatever you like.\"",
+   "Kavya looked at her notebook. Every line was a job that had to be done, or nobody would have eaten, and nobody would have had clean clothes. Ajji's minutes had held up the whole day, and nobody had counted them before.",
+   "\"Can I draw a picture of the minutes?\" she asked. \"One clock for every half hour?\"",
+   "She drew it. Ajji's row had twelve clocks and a bit. Appa's row had one clock and a bit.",
+   "Appa looked at the picture for a long time. \"I don't know how to make ragi mudde,\" he said at last.",
+   "\"I will teach you,\" said Ajji. \"Tomorrow.\"",
+   "The next evening Ajji stood next to Appa at the stove. She showed him how to stir the ragi flour into the boiling water with a wooden stick, fast, so no lumps formed. His first mudde was lumpy. His second was better. Chintu ate both.",
+   "Kavya stuck the picture on the fridge. A week later she did the count again. Appa's row had four clocks. Kavya's had two. Ajji's had nine.",
+   "That evening Ajji had an hour with nothing to do. She sat with Kavya at the table, and they did sums together. Ajji won."
+  ],
+  "epiphany": "Work is work even when nobody pays for it. Ajji's minutes kept the whole family going, and they only became visible when Kavya counted them.",
+  "ask": [
+   "Why did Kavya add up the minutes twice?",
+   "Why did Ajji leave school when she was a girl? Was that fair to her?",
+   "What changed in the family after Kavya drew the picture of the minutes?",
+   "Who taught Appa to make ragi mudde, and why do you think he had never learned?"
+  ],
+  "art": [
+   "A girl in a Mysuru flat writing in a notebook while looking at a kitchen clock, as her grandmother draws a rangoli at the door.",
+   "A grandmother and a girl sitting on a mat at night, the grandmother telling a story about her village school.",
+   "A pictograph of clocks on a sheet of paper stuck to a fridge door, with one long row and two short rows.",
+   "A grandmother standing beside a father at a stove, showing him how to stir ragi flour with a wooden stick."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Who Raises the Babies? An animal family matching game",
+   "mins": 20,
+   "players": [
+    "with a parent",
+    "with friends",
+    "with the family"
+   ],
+   "context": "This is a card game about animal families. You match each animal to the ones who look after their young.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "12 animal cards to cut out (who looks after the young is on the back)",
+     "items": [
+      {
+       "f": "Cow and her calf",
+       "b": "The mother. She feeds the calf with her milk."
+      },
+      {
+       "f": "House crow chicks",
+       "b": "Both parents. They build the nest together and both feed the chicks."
+      },
+      {
+       "f": "Emperor penguin egg",
+       "b": "The father keeps the egg warm on his feet for about two months. Then both parents feed the chick."
+      },
+      {
+       "f": "Seahorse eggs",
+       "b": "The father. He carries the eggs in a pouch until they hatch."
+      },
+      {
+       "f": "Mugger crocodile hatchlings",
+       "b": "The mother. She guards the nest and carries the hatchlings to water in her mouth."
+      },
+      {
+       "f": "Jungle babbler chicks",
+       "b": "A group. The parents and older birds in their group all feed the chicks."
+      },
+      {
+       "f": "Asian koel chick",
+       "b": "House crows. The koel mother lays her egg in a crow's nest, and the crows raise the chick."
+      },
+      {
+       "f": "Olive ridley turtle hatchlings",
+       "b": "Nobody. The mother lays her eggs on a beach and swims away. The hatchlings live on their own."
+      },
+      {
+       "f": "Elephant calf",
+       "b": "A group. The calf's mother and the other related females in the herd look after the calf."
+      },
+      {
+       "f": "Great hornbill chicks",
+       "b": "Both parents. The mother seals herself into a tree hole with the eggs. The father brings food to both."
+      },
+      {
+       "f": "House sparrow chicks",
+       "b": "Both parents. They take turns to bring insects to the chicks."
+      },
+      {
+       "f": "Human baby",
+       "b": "Parents and many helpers: grandparents, older children, relatives and others."
+      }
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "5 carer cards",
+     "items": [
+      "Mother",
+      "Father",
+      "Both parents",
+      "A group",
+      "Nobody, or someone else"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet",
+     "items": [
+      "Player name",
+      "Pairs matched right",
+      "Surprises"
+     ]
+    }
+   ],
+   "rules": [
+    "Lay the 5 carer cards face up in a row.",
+    "Shuffle the 12 animal cards and put them in a pile, animal side up.",
+    "On your turn, take the top animal card. Place the card below the carer you think is right, and say why.",
+    "Turn the card over and read the back aloud. If you were right, keep the card. If not, put it under the right carer card.",
+    "The player with the most cards at the end wins. Playing with one grown-up, try to beat your own score in a second round."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut out the cards. 2. Lay out the 5 carer cards. 3. Read the rules together.",
+     "say": "In this game you guess who looks after each animal's babies. Some answers will surprise you.",
+     "kid": "Who looks after each animal's babies? Guess, then turn the card over.",
+     "context": "This is the first step of Who Raises the Babies, a matching game about animal families."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "Play the game. Each player places a card, says why, and then turns the card over.",
+     "say": "Before you turn it over, tell us why you chose that carer.",
+     "kid": "Pick a carer card. Say why. Then turn it over.",
+     "parent": "Many children put every animal under 'Mother'. The penguin, seahorse, babbler and koel cards show that this is not always so.",
+     "check": {
+      "t": "mcq",
+      "q": "Who carries a seahorse's eggs until they hatch?",
+      "options": [
+       "The mother",
+       "The father",
+       "Nobody"
+      ],
+      "a": 1,
+      "why": "In seahorses, the father has a pouch, and he carries the eggs in it until they hatch. If you chose the mother, that is the usual guess, because in most animals she does it."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Talk about the surprises.",
+     "say": "Which card surprised you most? Under which card would you put our family?",
+     "kid": "Which card surprised you? Where does our family go?",
+     "ask": [
+      {
+       "q": "Where would you put our family, and why?",
+       "good": [
+        "Both parents, because Amma and Appa both look after us.",
+        "A group, because Paati and my aunt also look after me."
+       ]
+      }
+     ],
+     "think": "The crows raised a koel chick. Did they know the chick was not theirs?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "Five carer cards in a row on a floor mat: Mother, Father, Both parents, A group, Nobody.",
+     "caption": "1. Lay the 5 carer cards in a row."
+    },
+    {
+     "art": "A child placing a seahorse card under the Father card, with other animal cards already placed.",
+     "caption": "2. Place each animal card, say why, then read the back."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Home Work Count: who keeps our home running in one evening?",
+   "mins": 45,
+   "days": 1,
+   "context": "In this experiment you write down every home job done in your home in one evening, who did it and how long it took.",
+   "question": "How many minutes of home work does our home need in one evening, and who does it?",
+   "predict": "Before you start, guess. Who will do the most minutes of home work this evening? How many minutes will all the jobs add up to? Why do you think so?",
+   "fair_test": "Count every person in the same way: the job, the start time and the end time, all from the same clock. Count everyone, including yourself, any house help or cook, and anyone looking after a baby or an elder. Ask everyone to have a normal evening, so the count shows a usual day. Count from 5 o'clock until bedtime.",
+   "results_table": [
+    "Job",
+    "Who did it",
+    "Start time",
+    "End time",
+    "Minutes",
+    "Paid or unpaid?"
+   ],
+   "materials": [
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a wall clock, or a phone clock that the child can see",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of paper and coloured pencils for the pictograph",
+     "qty": 1
+    }
+   ],
+   "safety": "Nothing in this experiment is unsafe. The child watches jobs and writes. They do not need to go near the stove.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 45,
+     "what": "Guess first. Then write down every home job from 5 o'clock until bedtime. Add up the minutes for each person and draw a pictograph."
+    }
+   ],
+   "record": "Fill in the table. Then draw a pictograph with one clock for every 15 minutes of work, one row for each person.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Sit together before 5 o'clock. 2. Ask your child to name the home jobs that happen in an evening. 3. Write their guesses in the notebook.",
+     "say": "Tonight we will count every home job and time it. First, guess. Who will do the most minutes of work? How many minutes will it be in all? Why do you think so?",
+     "kid": "Tonight you count every home job. Guess first. Who will work the most? How many minutes in all? Why?",
+     "ask": [
+      {
+       "q": "Why do you think that person will do the most?",
+       "good": [
+        "Because Ajji does the cooking, and cooking takes long.",
+        "Because Amma comes home and starts the dinner and the washing."
+       ]
+      }
+     ],
+     "parent": "Write down the guess with the reason. It is the child's prediction, and it matters more when it turns out wrong.",
+     "context": "This is the first step of the Home Work Count. You guess who will do the most home work this evening."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Draw the results table in the notebook. 2. Tell the family about the count. 3. Ask everyone to have a normal evening.",
+     "say": "Please do everything as you always do. Kavya is only counting, not checking anyone.",
+     "kid": "Draw the table. Ask everyone to do what they always do.",
+     "parent": "This count is not about blaming anyone. Nobody should be told off for doing few minutes. If people change what they do because they are being watched, the count will not show a usual evening. Remember to count jobs such as feeding a baby, helping with homework and giving medicine. These are care work."
+    },
+    {
+     "id": "s3",
+     "mins": 20,
+     "do": "1. From 5 o'clock, each time someone starts a home job, your child writes the job, the person and the start time. 2. When the job ends, they write the end time. 3. Write whether the person is paid for it.",
+     "say": "Someone is starting the cooking. What time is it now? Write it down. Tell me when they finish.",
+     "kid": "Someone starts a job. Look at the clock. Write the time. Write it again when they stop.",
+     "parent": "Spread this over the evening. If reading the clock is hard, you can read out the times and your child writes the job and the person. If two jobs happen at once, write both. Count your child's own jobs too, such as setting the plates.",
+     "check": {
+      "t": "mcq",
+      "q": "Ajji starts cooking at 6:10 and stops at 7:00. How long did she cook?",
+      "options": [
+       "10 minutes",
+       "50 minutes",
+       "70 minutes"
+      ],
+      "a": 1,
+      "why": "Count on from 6:10. To 6:30 is 20 minutes, and 6:30 to 7:00 is 30 more. 20 and 30 make 50 minutes. If you chose 10 minutes, you only looked at the minute numbers."
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 7,
+     "do": "1. After the evening, work out the minutes for each job. 2. Add up the minutes for each person. 3. Write each person's total in a list.",
+     "say": "Now add up each person's minutes. Who did the most? Who did the least? Was any of it paid?",
+     "kid": "Add up each person's minutes. Who did the most?",
+     "parent": "Help with the adding if the numbers are big. In most Indian homes, one or two people, very often women, do most of the minutes. Your result may be different. Whatever you found is a real result."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "1. Draw a pictograph. 2. Draw one clock for every 15 minutes, in one row for each person. 3. Draw part of a clock for a part of 15 minutes.",
+     "say": "Let's draw the minutes as clocks. One clock is 15 minutes. How many clocks does each person get?",
+     "kid": "Draw one clock for every 15 minutes. One row for each person.",
+     "parent": "If one person's total is 140 minutes, that is 9 clocks and a bit more, because 9 times 15 is 135."
+    },
+    {
+     "id": "s6",
+     "mins": 5,
+     "do": "Ask your child for a claim, the evidence and a reason. Compare with the guess from the start.",
+     "say": "Was your guess right? What did the count show? Who was paid, and who was not? Why do you think it is like that?",
+     "kid": "Was your guess right? Who did most? Who was paid?",
+     "ask": [
+      {
+       "q": "What did the count show you that you did not know before?",
+       "good": [
+        "Ajji did much more work than I thought.",
+        "The jobs added up to more than three hours.",
+        "The house help is paid, but Amma is not, for the same kind of work."
+       ]
+      }
+     ],
+     "think": "If nobody did any of these jobs for a week, what would our home be like?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A girl at a dining table with a notebook, looking up at a wall clock, while her grandmother cooks at the stove in the background.",
+     "caption": "1. Write the job, the person and the start time from the clock."
+    },
+    {
+     "art": "A notebook page with a table of jobs, names, start times and end times, and the minutes worked out in the last column.",
+     "caption": "2. Work out the minutes for each job and add up each person's total."
+    },
+    {
+     "art": "A pictograph on paper with small clock pictures in rows, one row for each family member, one clock for every 15 minutes.",
+     "caption": "3. Draw one clock for every 15 minutes of work."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Many Hands: do two people fold clothes twice as fast?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this experiment you time how long it takes to fold a pile of clothes alone, with two people and with three.",
+   "question": "If two people fold a pile of clothes together, do they finish in half the time?",
+   "predict": "Guess how long it will take you to fold 20 clothes alone. Then guess how long it will take with two people, and with three. Why do you think so?",
+   "fair_test": "Use the same 20 clothes each time, and shake them out flat before each try. Fold them the same way each time. Time each try with the same clock. Fold alone at the start and again at the end, because practice can make you faster.",
+   "results_table": [
+    "Try",
+    "How many people",
+    "Time in minutes and seconds"
+   ],
+   "materials": [
+    {
+     "item": "20 dry clothes from the washing, or 20 hand towels and handkerchiefs",
+     "qty": 20
+    },
+    {
+     "item": "a phone stopwatch or a wall clock with a second hand",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Nothing in this experiment is unsafe.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Fold the same 20 clothes alone, with two people, with three people, and alone again. Time each try."
+    }
+   ],
+   "record": "Fill in the table, and draw a bar for each try.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Put 20 dry clothes in a heap on a mat or a bed. 2. Agree on one way to fold each kind. 3. Ask for guesses.",
+     "say": "How long will 20 clothes take you alone? With two people? With three? Why do you think so?",
+     "kid": "How long will 20 clothes take you alone? With two? Why?",
+     "parent": "Write down the guesses. Most children guess that two people take exactly half the time.",
+     "context": "This is the first step of the Many Hands test. You time how long it takes to fold clothes alone and with helpers."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "1. Start the stopwatch. 2. Your child folds all 20 alone. 3. Stop it and write the time.",
+     "say": "Go! Fold as you always do, not in a rush.",
+     "kid": "Fold all 20 alone. Write the time.",
+     "parent": "If your child is very slow, use 10 clothes for every try instead. Keep the number the same for every try."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "1. Shake out all the clothes. 2. Two people fold them together. Time it. 3. Shake them out again. 4. Three people fold them. Time it.",
+     "say": "Now we shake them out and fold together. Let's see if two of us take half the time.",
+     "kid": "Now fold with two people. Then with three. Time each one.",
+     "check": {
+      "t": "mcq",
+      "q": "Alone, Divya took 8 minutes to fold the clothes. With her mother, they took 5 minutes. Was that exactly half the time?",
+      "options": [
+       "Yes, 5 is half of 8",
+       "No, half of 8 is 4, so it took a little longer than half",
+       "No, it took twice as long"
+      ],
+      "a": 1,
+      "why": "Half of 8 minutes is 4 minutes. They took 5, which is more than half. Helpers can get in each other's way or wait for each other. If you chose 'Yes', check by doubling 5: that is 10, not 8."
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "Shake out the clothes again. Your child folds all 20 alone a second time. Time it.",
+     "say": "One more alone. Were you faster this time? Why might that be?",
+     "kid": "Fold alone once more. Were you faster?",
+     "parent": "If the second try alone is much faster, practice helped. Compare the helper tries with the average of the two alone tries."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "Look at the results together. Ask for a claim, the evidence and a reason.",
+     "say": "Did two people take exactly half the time? Did three take a third? Why not?",
+     "kid": "Did two of you take half the time? Why or why not?",
+     "ask": [
+      {
+       "q": "Why might two people not take exactly half the time?",
+       "good": [
+        "Because we bumped into each other.",
+        "Because one of us was faster than the other.",
+        "Because we had to decide who folds what."
+       ]
+      }
+     ],
+     "think": "Is the work of a home done faster when it is shared? Is it done more fairly?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A heap of 20 clothes on a mat, with a phone stopwatch beside it.",
+     "caption": "1. Put 20 dry clothes in a heap and get a stopwatch ready."
+    },
+    {
+     "art": "A girl folding clothes alone on a mat while the stopwatch runs.",
+     "caption": "2. Fold them alone, and time it."
+    },
+    {
+     "art": "A girl, her mother and her grandmother folding the same clothes together on the mat.",
+     "caption": "3. Fold them with two people, then three, and time each try."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "One Word, Four Uncles: the relation words in your home language",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you list your relatives and find the word for each one, in your home language and in English.",
+   "materials": [
+    {
+     "item": "a sheet of paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Nothing in this activity is unsafe.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Make a table of relatives, with the relation, the word in your home language and the word in English."
+    }
+   ],
+   "record": "A table with three columns: how the person is related to me, our word, the English word.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Draw a table with three columns: 'How they are related to me', 'Our word', 'English word'. 2. Fill in Amma's brother, Amma's sister, Appa's brother and Appa's sister.",
+     "say": "What do we call Amma's brother? And Appa's younger brother? Let's write our words, then the English words.",
+     "kid": "Write what you call Amma's brother. Then Appa's brother. Then the English words.",
+     "parent": "In Tamil, for example: Amma's brother is Mama, Appa's younger brother is Chithappa, Appa's elder brother is Periyappa, Appa's sister is Athai. In Hindi: Mama, Chacha, Tau, Bua. Use your own family's words.",
+     "context": "This is a short activity to start the unit. You find the words your family uses for relatives."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Add more rows: grandmothers and grandfathers on both sides, cousins, and the wives and husbands of aunts and uncles.",
+     "say": "What do you call Amma's mother? Appa's mother? Are they the same word?",
+     "kid": "Add your grandmothers. Is there one word or two?",
+     "parent": "In some languages there are two different words for the two grandmothers. In Telugu, for example, Ammamma is your mother's mother and Nannamma is your father's mother. English says grandmother for both."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Count the people English calls uncle. Then count the words your language has for the same people.",
+     "say": "How many different people did English call uncle? How many words did our language use?",
+     "kid": "Count. How many people are 'uncle' in English? How many words do we have?",
+     "check": {
+      "t": "mcq",
+      "q": "Arjun's Mama is his mother's brother. His Chithappa is his father's younger brother. What does English call both of them?",
+      "options": [
+       "Uncle",
+       "Cousin",
+       "Grandfather"
+      ],
+      "a": 0,
+      "why": "English uses one word, uncle, for a mother's brother, a father's brother and the husbands of aunts. Many Indian languages have a separate word for each, so the word tells you exactly how the person is related."
+     },
+     "think": "Why might a language have so many words for relatives?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A sheet of paper with a table of three columns and rows for Amma's brother, Appa's brother and Appa's sister.",
+     "caption": "1. Make a table: the relation, our word, the English word."
+    },
+    {
+     "art": "The same table filled in, with the word 'uncle' circled four times in the English column.",
+     "caption": "2. Count how many people English calls uncle."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Our Family Tree: three generations",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you draw your family tree, from your grandparents down to you.",
+   "materials": [
+    {
+     "item": "a large sheet of paper or newspaper",
+     "qty": 1
+    },
+    {
+     "item": "pencils and coloured pencils",
+     "qty": 1
+    },
+    {
+     "item": "old family photos, if you have some to look at",
+     "qty": 1
+    }
+   ],
+   "safety": "Nothing in this activity is unsafe. Ask before cutting any photo.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Draw a family tree with your grandparents at the top, your parents, aunts and uncles in the middle, and you and your cousins at the bottom."
+    }
+   ],
+   "record": "The family tree, with each person's name and their relation word.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "1. At the top, draw both pairs of grandparents. 2. Below, draw the parents and their brothers and sisters. 3. At the bottom, draw your child, their brothers and sisters, and their cousins.",
+     "say": "Who is at the top of our tree? Who comes from Ajji and Thatha? Let's draw them in a row.",
+     "kid": "Draw your grandparents at the top. Then your parents. Then you.",
+     "parent": "Join people with lines: a line across for a married couple and a line down to their children. If your family has a different shape, such as one parent, adoption or step-parents, draw it the way it really is. Every shape is a real family tree.",
+     "context": "This is the first step of drawing your family tree, from grandparents to you."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "1. Write each person's name and the word your child calls them. 2. Colour your mother's side one colour and your father's side another.",
+     "say": "Write what you call each person. Use one colour for Amma's side and another for Appa's side.",
+     "kid": "Write what you call each person. Colour Amma's side and Appa's side."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "Count the people in each generation. Then ask how many great-grandparents your child has.",
+     "say": "You have two parents and four grandparents. Each grandparent had two parents. How many great-grandparents is that?",
+     "kid": "Two parents. Four grandparents. How many great-grandparents?",
+     "check": {
+      "t": "mcq",
+      "q": "Each person has 2 parents and 4 grandparents. How many great-grandparents does each person have?",
+      "options": [
+       "6",
+       "8",
+       "16"
+      ],
+      "a": 1,
+      "why": "Each of your 4 grandparents had 2 parents, and 4 times 2 is 8. The number doubles every generation you go back. If you chose 6, you added 2 instead of doubling."
+     },
+     "think": "If the number doubles each generation, how many people were your family 10 generations ago?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A large sheet with two pairs of grandparents drawn at the top, joined by lines to their children below.",
+     "caption": "1. Draw the grandparents at the top and their children below."
+    },
+    {
+     "art": "A finished family tree with names, relation words and two colours for the mother's and father's sides.",
+     "caption": "2. Write the names and colour each side."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Family Handprints: what each pair of hands does",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity everyone in the family traces a hand on one sheet and writes one job their hands do for the family.",
+   "materials": [
+    {
+     "item": "a large sheet of paper",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and coloured pencils",
+     "qty": 1
+    },
+    {
+     "item": "a ruler or a tailor's tape",
+     "qty": 1
+    }
+   ],
+   "safety": "Nothing in this activity is unsafe.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Trace everyone's hand on one sheet, measure each hand span, and write one job each person's hands do for the family."
+    }
+   ],
+   "record": "The handprint sheet, with each person's name, hand span and job.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. Each person spreads one hand on the sheet. 2. Your child traces round it with a pencil. 3. Write the person's name inside.",
+     "say": "Spread your fingers wide. I'll trace round them. Whose hand is biggest? Whose is smallest?",
+     "kid": "Trace round each person's hand. Write their name inside.",
+     "context": "This is the first step of Family Handprints. Everyone traces a hand on one sheet."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Measure each hand span with a ruler, from the tip of the thumb to the tip of the little finger. Write it next to the hand.",
+     "say": "Measure from the thumb tip to the little finger tip. Write the number of centimetres.",
+     "kid": "Measure from thumb tip to little finger tip. Write it down."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Ask each person to say one job their hands do for the family. Write it inside the hand.",
+     "say": "What do your hands do for our family? Tell Kavya, and she will write it in.",
+     "kid": "Ask each person. What do your hands do for the family?",
+     "think": "Does the biggest hand do the most work?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A large sheet of paper with five traced hands of different sizes overlapping, from a grandmother's to a toddler's.",
+     "caption": "1. Trace everyone's hand on one sheet."
+    },
+    {
+     "art": "A ruler laid across a traced hand from the thumb tip to the little finger tip, with a job written in the palm.",
+     "caption": "2. Measure each hand span and write one job inside."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Games Our Grandparents Played",
+   "mins": 25,
+   "days": 1,
+   "context": "In this activity a grandparent or another elder teaches you a game they played as a child.",
+   "materials": [
+    {
+     "item": "whatever the game needs: for pallanguzhi, 14 small steel katoris or cups drawn on paper and about 70 tamarind seeds, beans or shells. For nondi, a chalk or tape to mark squares on the floor.",
+     "qty": 1
+    }
+   ],
+   "safety": "For nondi (hopscotch), clear a space and play barefoot on a dry floor, not on a slippery one.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Ask an elder what games they played as a child. Learn one and play it."
+    }
+   ],
+   "record": "Write the name of the game, who taught you, and the rules in three sentences.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Your child asks a grandparent or another elder: What games did you play when you were my age? Where? With whom?",
+     "say": "Ask Paati what games she played when she was eight. Ask her who she played with and where.",
+     "kid": "Ask Paati: What games did you play at my age?",
+     "parent": "Pallanguzhi is a Tamil seed game played on a board of 14 pits. Nondi is hopscotch. Elders may also remember kho-kho, gilli-danda or five stones. Let the elder choose.",
+     "context": "This is the first step of learning a game an elder played as a child."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "The elder teaches the game, and your child plays it with them.",
+     "say": "Paati, please teach us. We will follow your rules.",
+     "kid": "Let Paati teach you the game. Play it with her."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Your child asks two more questions: What jobs did you do at home when you were my age? Did you go to school?",
+     "say": "Ask Paati what work she did at home when she was your age.",
+     "kid": "Ask: What work did you do at home at my age?",
+     "think": "How was Paati's childhood like yours? How was it different?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A grandmother and a girl sitting on the floor with a row of steel katoris and a heap of tamarind seeds between them.",
+     "caption": "1. Ask an elder about the games they played, and set up one game."
+    },
+    {
+     "art": "The grandmother dropping seeds one by one into the katoris while the girl watches.",
+     "caption": "2. Learn the game from the elder and play it together."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "A Thank-You Card for the Hidden Work",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you make a card for someone whose home work you counted, saying exactly what they did.",
+   "materials": [
+    {
+     "item": "a sheet of paper or card folded in half",
+     "qty": 1
+    },
+    {
+     "item": "coloured pencils",
+     "qty": 1
+    }
+   ],
+   "safety": "Nothing in this activity is unsafe.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Make a thank-you card naming the jobs and the minutes from your Home Work Count."
+    }
+   ],
+   "record": "The card, or a photo of it.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Look at the results table from the Home Work Count. Choose one person and list their jobs and minutes.",
+     "say": "Whose minutes surprised you most? Let's list what they did, with the minutes.",
+     "kid": "Look at your table. Pick one person. List their jobs.",
+     "context": "This activity uses your Home Work Count. You make a card for someone whose work you counted."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Your child writes the card: the jobs, the minutes, and one sentence on why each job matters. Then gives it.",
+     "say": "Write what they did and why it mattered. For example: You cooked for 70 minutes, so all five of us had dinner.",
+     "kid": "Write the jobs and the minutes. Say why each one mattered. Give the card.",
+     "think": "How did the person feel when they read the minutes?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A folded card with drawings of a pressure cooker, a broom and a baby, and minutes written beside each.",
+     "caption": "1. Write each job and its minutes on the card."
+    },
+    {
+     "art": "A girl handing the card to her grandmother in the kitchen.",
+     "caption": "2. Give the card to the person."
+    }
+   ],
+   "how": "e1"
+  },
+  {
+   "id": "a6",
+   "title": "Then and Now: how far did each woman in the family study?",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you ask the women and girls in your family up to which class they studied, and compare generations.",
+   "materials": [
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a phone, to call relatives who live far away",
+     "qty": 1
+    }
+   ],
+   "safety": "Ask kindly, and stop if someone does not want to answer.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Ask women and girls in your family, from different generations, how far they studied and who decided. Make a table."
+    }
+   ],
+   "record": "A table: name, generation, up to which class they studied, who decided, what work they did at home as a child.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 12,
+     "do": "Your child asks three or four women or girls from different generations: Up to which class did you study? Who decided? What work did you do at home as a child?",
+     "say": "Ask Ajji first, then Amma, then your cousin. Write down each answer.",
+     "kid": "Ask three women in your family. How far did you study? Who decided?",
+     "adult": true,
+     "parent": "Phone calls to aunts and grandmothers far away work well. Some answers may be painful. Let the elder say as much or as little as they want.",
+     "context": "This is the first step of Then and Now. You ask women in your family how far they studied."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Put the answers in a table, oldest first. Ask what changed from one generation to the next.",
+     "say": "Look down the table from Ajji to you. What changed? What stayed the same?",
+     "kid": "Look from Ajji down to you. What changed?",
+     "think": "Why did girls in the past leave school earlier than boys?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A girl on a phone call, writing in a notebook, with a photo of an aunt on the screen.",
+     "caption": "1. Ask women in your family how far they studied."
+    },
+    {
+     "art": "A table with rows for a grandmother, a mother and a girl, and the class each one reached.",
+     "caption": "2. Put the answers in a table, oldest first."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "The Family Job Wheel: share the home work for a week",
+   "mins": 60,
+   "days": 7,
+   "context": "In this week-long project the family shares out home jobs with a turning wheel, and you count again at the end to see what changed.",
+   "materials": [
+    {
+     "item": "two circles of cardboard from an old box, one a little smaller than the other",
+     "qty": 2
+    },
+    {
+     "item": "a split pin, or a pencil pushed through the middle",
+     "qty": 1
+    },
+    {
+     "item": "sketch pens",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up makes the hole in the middle of the circles with a pencil or a compass point.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Make a job wheel: jobs on the big circle, family names on the small circle. Turn it to share out the jobs."
+    },
+    {
+     "day": 2,
+     "mins": 5,
+     "what": "Turn the wheel and check yesterday's jobs were done."
+    },
+    {
+     "day": 3,
+     "mins": 5,
+     "what": "Turn the wheel and check."
+    },
+    {
+     "day": 4,
+     "mins": 5,
+     "what": "Turn the wheel and check."
+    },
+    {
+     "day": 5,
+     "mins": 5,
+     "what": "Turn the wheel and check."
+    },
+    {
+     "day": 7,
+     "mins": 20,
+     "what": "Do the Home Work Count again for one evening. Draw a new pictograph next to the first one and compare."
+    }
+   ],
+   "record": "The job wheel, a tick chart for the week, and two pictographs side by side.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 20,
+     "do": "1. Write a job on each slice of the big circle, such as setting plates, washing tumblers, folding clothes and watering plants. 2. Write family names round the small circle. 3. Pin the circles together through the middle so the small one turns.",
+     "say": "Let's make a wheel to share the jobs. Which jobs should go on it? Can Chintu do one too?",
+     "kid": "Write a job on each slice. Write names on the small circle. Turn it.",
+     "adult": true,
+     "parent": "Choose jobs that suit each person's age and health. A three-year-old can put spoons on the table. A grandparent with bad knees can sort vegetables sitting down.",
+     "context": "This is the first day of a week-long project. You make a wheel to share home jobs."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Each morning, turn the wheel one slice. Each evening, tick the jobs that were done.",
+     "say": "Turn the wheel. What is your job today?",
+     "kid": "Turn the wheel. Read your job. Tick it tonight.",
+     "wait": "Do this each day for 5 days"
+    },
+    {
+     "id": "s3",
+     "mins": 20,
+     "do": "On day 7, do the Home Work Count again for one evening. Draw a new pictograph and put it next to the first.",
+     "say": "Let's count again. Did the rows of clocks change?",
+     "kid": "Count again. Compare the two pictographs. What changed?",
+     "wait": "Day 7",
+     "think": "Was the work shared more fairly this week? How can you tell?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "Two cardboard circles pinned together, the big one with jobs written in slices and the small one with family names.",
+     "caption": "1. Make a job wheel from two cardboard circles."
+    },
+    {
+     "art": "Two pictographs of clocks side by side on a fridge, the second with more even rows.",
+     "caption": "2. On day 7, count again and compare the pictographs."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "A Dinner Everyone Helps Make",
+   "mins": 30,
+   "context": "This is a planning challenge. You plan a simple dinner that every person in the family helps to make.",
+   "problem": "In many homes one person makes the whole dinner. Plan a simple dinner that the whole family makes together in 30 minutes, with a safe job for every person, from the youngest to the oldest.",
+   "constraints": [
+    "Every person has at least one job.",
+    "Only grown-ups use the stove, knives and the pressure cooker.",
+    "The dinner is ready in 30 minutes."
+   ],
+   "materials": [
+    "paper and a pencil",
+    "the food your family usually eats"
+   ],
+   "general": [
+    "Make a list of jobs: washing, cutting, cooking, setting plates, serving, washing up.",
+    "Give each job to someone who can do it safely.",
+    "Put the jobs in order, so nobody waits too long."
+   ],
+   "creative": [
+    "Give the youngest child a job that matters, such as tearing curry leaves or counting out the plates.",
+    "Choose a meal where most of the work is mixing, not cooking, such as curd rice with cucumber.",
+    "Make a picture menu so a child who cannot read yet knows their job."
+   ],
+   "your_turn": "Now plan your own family dinner. Write each person's job, then make it together and time it.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "Choose a simple meal. List every job it needs.",
+     "say": "What will we make? What jobs does it need, from washing the rice to washing the plates?",
+     "kid": "Pick a meal. List every job, from start to end.",
+     "context": "This is the first step of the Dinner Everyone Helps Make challenge."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Give each job to a person. Check that every job is safe for that person.",
+     "say": "Who can do each job safely? Does everyone have one?",
+     "kid": "Give each person a job. Is it safe for them?",
+     "parent": "Keep the stove, knives and pressure cooker with grown-ups."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "Make the dinner together, or plan it for tomorrow. Time how long it takes.",
+     "say": "Let's try it. Did it take less than 30 minutes?",
+     "kid": "Make it together. Time it.",
+     "adult": true,
+     "think": "How did it feel to eat a meal everyone made?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A sheet of paper with a list of dinner jobs and a family member's name next to each one.",
+     "caption": "1. List the jobs and give each one to a person."
+    },
+    {
+     "art": "A family in a small kitchen, a grown-up at the stove, a girl mixing curd rice and a toddler counting plates.",
+     "caption": "2. Make the dinner together and time it."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "A Steady Tray for Thatha",
+   "mins": 30,
+   "context": "This is a design challenge. You make something that helps an elder with shaky hands carry a drink without spilling.",
+   "problem": "Thatha's hands shake a little, and he spills his coffee when he carries the tumbler from the kitchen. Design a tray that keeps a steel tumbler from tipping or sliding.",
+   "constraints": [
+    "Use only things from home, such as a cardboard box, a steel plate or an old cloth.",
+    "The tray must hold one tumbler of water.",
+    "It must be easy to hold with two hands."
+   ],
+   "materials": [
+    "a shoebox lid or a piece of cardboard",
+    "an old cloth or a rubber mat",
+    "a steel tumbler and water",
+    "scissors, used by a grown-up, and tape"
+   ],
+   "general": [
+    "Put a cloth or rubber on the tray so the tumbler grips and does not slide.",
+    "Cut a hole in a layer of cardboard so the tumbler sits in it.",
+    "Add raised edges so a tipped tumbler stays on the tray."
+   ],
+   "creative": [
+    "Make handles on both sides, so two hands share the weight.",
+    "Use a lid with a hole for a straw, so nothing splashes out.",
+    "Test it by walking across the room with a tumbler of water."
+   ],
+   "your_turn": "Ask an elder in your family what job is hard for their hands. Design something that makes it easier.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Fill a tumbler with water and walk across the room on a plain plate, fast. Watch it slide.",
+     "say": "Why does the tumbler slide on the plate? What could stop it?",
+     "kid": "Carry water on a plate. Does it slide? Why?",
+     "context": "This is the first step of the Steady Tray challenge."
+    },
+    {
+     "id": "s2",
+     "mins": 20,
+     "do": "Build a tray from cardboard, cloth and tape. A grown-up does the cutting.",
+     "say": "What will stop the tumbler sliding? What will stop it tipping?",
+     "kid": "Build your tray. Stop the slide. Stop the tip.",
+     "adult": true
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Test it by walking across the room. Count the drops spilled on a dry towel.",
+     "say": "Walk across. How many drops fell? Can you make it better?",
+     "kid": "Walk across with the tray. Count the drops.",
+     "think": "Who in your family could use this tray?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A steel tumbler of water sliding on a plain steel plate as a child walks.",
+     "caption": "1. Test a plain plate first."
+    },
+    {
+     "art": "A cardboard tray with a cloth lining, a ring to hold the tumbler and two handles.",
+     "caption": "2. Build a tray that stops the slide and the tip, and test it."
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "What is the real value of unpaid work?",
+   "channel": "UN Women",
+   "youtube": "fcqt0QzgUFU",
+   "mins": 3,
+   "why": "For the parent, and a child who has done the Home Work Count: a short film on cooking, cleaning and caring as work that keeps the world going.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'What is the real value of unpaid work?', channel UN Women). Not watched from here, so the length is a guess: a parent should preview it."
+  },
+  {
+   "title": "The Jungle Babblers: Jungle's Best-Kept Secret",
+   "channel": "Roundglass Sustain",
+   "youtube": "fn46Yaf-2eI",
+   "mins": 5,
+   "why": "Jungle babblers, the 'seven sisters' of Indian gardens, live in family groups that raise chicks together. This film shows the birds and their group life.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (channel Roundglass Sustain). Not watched from here, so the length is a guess: a parent should preview it."
+  },
+  {
+   "title": "Harlow's Studies on Dependency in Monkeys",
+   "channel": "Michael Baker",
+   "youtube": "OrNBEhzjg8I",
+   "mins": 6,
+   "why": "For the parent first. The old film of Harry Harlow's baby monkeys choosing a soft cloth mother over a wire one with milk, from the How We Found Out story. Some scenes show frightened baby monkeys, so watch the film alone before deciding whether to show your child.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'Harlow's Studies on Dependency in Monkeys', channel Michael Baker). Not watched from here, so the length is a guess: a parent should preview it."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Kavya counts the home work in her flat one evening. Her Ajji cooks for 70 minutes and nobody pays her. Their house help sweeps for 60 minutes and is paid. Who did work?",
+   "opts": [
+    "Only the house help, because she was paid",
+    "Both of them",
+    "Only Ajji, because she worked longer"
+   ],
+   "a": 1,
+   "why": "Both did work. Cooking and sweeping both need time and effort, and the family needs both. Being paid or not does not change whether it is work. Choosing 'only the house help' means thinking only paid jobs count.",
+   "outcome": 3,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Farhan lives with his grandparents, his parents, his uncle, his aunt and two cousins in one home. What kind of family is this?",
+   "opts": [
+    "A nuclear family",
+    "A joint family",
+    "Not a family, because there are too many people"
+   ],
+   "a": 1,
+   "why": "A joint family has grandparents, parents, uncles, aunts and cousins under one roof. A nuclear family is only parents and their children.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Divya lives in Kochi with only her mother. Are they a family?",
+   "opts": [
+    "Yes, because they live together and care for each other",
+    "No, a family needs a mother and a father",
+    "Only if grandparents live with them"
+   ],
+   "a": 0,
+   "why": "Care is what makes a family, not how many people there are. A mother and a daughter are a family of two. Choosing 'No' means thinking there is only one shape of family.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "In Tamil, Arjun calls his mother's brother Mama. What does English call this person?",
+   "opts": [
+    "Cousin",
+    "Uncle",
+    "Brother"
+   ],
+   "a": 1,
+   "why": "English uses uncle for a mother's brother, a father's brother and the husband of an aunt. Tamil has a separate word for each.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Each person has 2 parents and 4 grandparents. How many great-grandparents does each person have?",
+   "opts": [
+    "6",
+    "8",
+    "12"
+   ],
+   "a": 1,
+   "why": "Each of the 4 grandparents had 2 parents. 4 times 2 is 8. The number doubles each generation back. Choosing 6 means adding 2 instead of doubling.",
+   "outcome": 0,
+   "how": "a2"
+  },
+  {
+   "t": "mcq",
+   "p": "India's Time Use Survey in 2019 found that women who did unpaid home work spent about 299 minutes a day on it. What did it find for men who did any?",
+   "opts": [
+    "About 300 minutes, the same",
+    "About 97 minutes",
+    "About 600 minutes"
+   ],
+   "a": 1,
+   "why": "Men who did any unpaid home work spent about 97 minutes a day. That is about one third of the women's 299 minutes. Women in India do most of this work.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these must parents or guardians in India do for a child of 8?",
+   "opts": [
+    "Send the child out to work for money",
+    "Send the child to school",
+    "Keep the child at home to do housework"
+   ],
+   "a": 1,
+   "why": "The Right to Education Act of 2009 says every child from 6 to 14 has the right to free schooling. Parents must send daughters and sons alike. Sending a child under 14 to work for money is against the law.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "In 1848 in Pune, Savitribai Phule and Jyotirao Phule did something new. What was it?",
+   "opts": [
+    "They opened a school for girls",
+    "They built a hospital",
+    "They started a newspaper"
+   ],
+   "a": 0,
+   "why": "They opened a school for girls, at a time when most girls were not sent to school. People threw mud at Savitribai on her way to teach, but she kept going.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Harry Harlow gave baby monkeys two model mothers. One was wire and gave milk. One was soft cloth and gave no milk. Which did the babies cling to?",
+   "opts": [
+    "The wire one, because it gave milk",
+    "The cloth one",
+    "Neither of them"
+   ],
+   "a": 1,
+   "why": "The babies drank from the wire mother, then went back to cling to the cloth one, and ran to her when scared. Comfort mattered to them as much as food. Choosing the wire one is the old idea that babies love whoever feeds them.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "An Asian koel lays her egg in a house crow's nest. Who feeds the koel chick?",
+   "opts": [
+    "The koel mother",
+    "The house crows",
+    "Nobody"
+   ],
+   "a": 1,
+   "why": "The crows raise the koel chick along with their own chicks. The koel mother does not come back to feed the chick.",
+   "outcome": 6,
+   "how": "g1"
+  },
+  {
+   "t": "mcq",
+   "p": "Who keeps an emperor penguin egg warm through the cold winter?",
+   "opts": [
+    "The mother",
+    "The father",
+    "The egg is left on the ice alone"
+   ],
+   "a": 1,
+   "why": "The father holds the egg on his feet under a fold of skin for about two months. The mother is at sea, feeding. Choosing 'the mother' is the usual guess, because in many animals she does it.",
+   "outcome": 6,
+   "how": "g1"
+  },
+  {
+   "t": "mcq",
+   "p": "Meena and her brother fold 20 clothes together. Alone, Meena took 10 minutes. What is the most likely time for the two of them?",
+   "opts": [
+    "Exactly 5 minutes",
+    "A bit more than 5 minutes",
+    "20 minutes"
+   ],
+   "a": 1,
+   "why": "Two people often take a little more than half the time, because they wait for each other or get in each other's way. Exactly 5 minutes would happen only if both worked at the same speed with no waiting.",
+   "outcome": 2,
+   "how": "e2"
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Who Does the Work at Home? (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Lakshmi times her Amma washing the vessels. Amma starts at 8:15 and finishes at 8:40. How long did Amma wash the vessels?",
+     "opts": [
+      "15 minutes",
+      "25 minutes",
+      "40 minutes"
+     ],
+     "a": 1,
+     "why": "Count on from 8:15: to 8:30 is 15 minutes, and to 8:40 is 10 more. 15 and 10 make 25. A strong answer counts on from the start time.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "Cooking for your own family is work, even when nobody pays for it.",
+     "a": true,
+     "why": "True. It takes time and effort, and the family cannot eat without it. Paid or unpaid, it is work."
+    },
+    {
+     "t": "match",
+     "p": "Match each word to what it means.",
+     "pairs": [
+      [
+       "Generation",
+       "people in a family born at about the same time"
+      ],
+      [
+       "Guardian",
+       "a grown-up who takes the place of a parent"
+      ],
+      [
+       "Care work",
+       "looking after people who need help"
+      ],
+      [
+       "Relative",
+       "someone who belongs to your family"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These words come up all through the unit."
+    },
+    {
+     "t": "fill",
+     "p": "A family with grandparents, parents, uncles, aunts and cousins under one roof is called a ____ family.",
+     "a": [
+      "joint"
+     ],
+     "why": "A joint family has several generations and branches living together."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these jobs. Is each one paid or unpaid?",
+     "cats": [
+      "Paid",
+      "Unpaid"
+     ],
+     "items": [
+      [
+       "a house help sweeping the floor for a salary",
+       "Paid"
+      ],
+      [
+       "Ajji cooking lunch for the family",
+       "Unpaid"
+      ],
+      [
+       "Amma bathing her own baby",
+       "Unpaid"
+      ],
+      [
+       "a cook making dinner in someone else's home",
+       "Paid"
+      ],
+      [
+       "Appa folding the family's clothes",
+       "Unpaid"
+      ],
+      [
+       "a nurse giving medicine in a hospital",
+       "Paid"
+      ]
+     ],
+     "a": "see items",
+     "why": "The same kind of job can be paid or unpaid. It is paid when someone outside the family is given money to do it. A strong sorter looks at who pays, not at the job."
+    },
+    {
+     "t": "write",
+     "p": "In your Home Work Count, who did the most minutes of work? Write the number of minutes, and one reason why that person did the most.",
+     "lines": 3,
+     "a": "For example: Ajji did 150 minutes, because she cooks dinner and puts Chintu to sleep.",
+     "why": "A strong answer gives the real number from the count and a reason that comes from what the child saw.",
+     "how": "e1"
+    },
+    {
+     "t": "draw",
+     "p": "Draw your family tree with three generations: grandparents at the top, parents in the middle, and you at the bottom. Write what you call each person.",
+     "a": "A tree with grandparents at the top, parents in the middle and the child at the bottom, with relation words.",
+     "why": "A strong tree joins couples with a line across and children with a line down, and shows both sides of the family.",
+     "how": "a2"
+    },
+    {
+     "t": "mcq",
+     "p": "In Hindi, Bua is your father's sister and Mausi is your mother's sister. What does English call both of them?",
+     "opts": [
+      "Aunt",
+      "Cousin",
+      "Grandmother"
+     ],
+     "a": 0,
+     "why": "English uses aunt for both. Hindi has two words, so the word tells you which side of the family she is on."
+    },
+    {
+     "t": "truefalse",
+     "p": "A baby monkey in Harlow's study loved the wire mother most, because she gave milk.",
+     "a": false,
+     "why": "False. The babies drank from the wire mother but clung to the soft cloth mother, and ran to her when scared."
+    },
+    {
+     "t": "fill",
+     "p": "Treating someone unfairly because of who they are, for example because she is a girl, is called ____.",
+     "a": [
+      "discrimination"
+     ],
+     "why": "Discrimination means unfair treatment because of who a person is."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these are jobs a parent or guardian must do for a young child. Which is the odd one out?",
+     "opts": [
+      "Get the child vaccinated",
+      "Send the child to school",
+      "Send the child to work in a shop",
+      "Give the child good food"
+     ],
+     "a": 2,
+     "why": "Vaccines, school and good food are what a child needs. Sending a child under 14 to work for money is against the law in India."
+    },
+    {
+     "t": "label",
+     "p": "Here is a picture of a family tree with three rows. Label each row with its generation: grandparents, parents or children.",
+     "labels": [
+      "Top row",
+      "Middle row",
+      "Bottom row"
+     ],
+     "a": [
+      "Top row: grandparents",
+      "Middle row: parents",
+      "Bottom row: children"
+     ],
+     "why": "Each row of a family tree is one generation. The oldest are at the top.",
+     "art": "A simple family tree with three rows of faces joined by lines, with an empty label box beside each row."
+    },
+    {
+     "t": "write",
+     "p": "Kavya's Ajji left school after Class 4 to look after her baby brothers, while her brothers went to school. Was that fair? Give a reason.",
+     "lines": 3,
+     "a": "No. Ajji wanted to learn and loved sums, but she lost her schooling only because she was a girl.",
+     "why": "A strong answer says it was unfair and gives the reason: the choice was made because she was a girl, not because of what she wanted or could do."
+    },
+    {
+     "t": "perspective",
+     "p": "Meenakshi and her brother Arjun disagree about who should wash the dinner plates.",
+     "views": [
+      {
+       "who": "Meenakshi, aged 9",
+       "says": "Amma cooked dinner, so the rest of us should wash up. That way everyone does a share."
+      },
+      {
+       "who": "Arjun, aged 7",
+       "says": "Amma is the fastest at washing up, so it makes sense for her to do it. We would be slow and break things."
+      }
+     ],
+     "ask": "Who do you agree with? Give a reason from your Home Work Count. Then say one thing the other person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side with evidence, for example that Amma already did the most minutes in the count. It also says what the other side has right: Arjun is right that some jobs go faster with practice, and Meenakshi is right that sharing makes it fairer.",
+     "why": "Both have a point. Being fastest is a reason, but it can also mean one person ends up doing everything. Practice makes other people faster too.",
+     "how": "e1"
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of the Home Work Count in order.",
+     "items": [
+      "Add up each person's minutes",
+      "Guess who will do the most",
+      "Write the start and end time of each job",
+      "Draw a pictograph of the minutes"
+     ],
+     "a": [
+      "Guess who will do the most",
+      "Write the start and end time of each job",
+      "Add up each person's minutes",
+      "Draw a pictograph of the minutes"
+     ],
+     "why": "You guess first, so the guess is a real prediction. Then you collect the times, add them up, and show them.",
+     "how": "e1"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Paid, Unpaid and Shared (stretch)",
+   "tier": "stretch",
+   "mins": 20,
+   "items": [
+    {
+     "t": "write",
+     "p": "Gowramma sweeps Kavya's flat and is paid. Ajji sweeps the same floor on Sundays and is not paid. Write why both are doing work.",
+     "lines": 4,
+     "a": "Both use time and effort, and the floor gets clean either way. Whether someone pays does not change what the work does for the family.",
+     "why": "A strong answer says the work is the same job with the same result, and only the payment is different."
+    },
+    {
+     "t": "mcq",
+     "p": "When India adds up the value of all the work done in the country in a year, which of these is left out?",
+     "opts": [
+      "A cook paid to make meals in a hotel",
+      "Ajji cooking lunch for her own family",
+      "A factory making bicycles"
+     ],
+     "a": 1,
+     "why": "Unpaid home work is left out. So cooking, cleaning and caring for your own family are not counted, though every family needs them. The paid cook and the factory are counted."
+    },
+    {
+     "t": "count",
+     "p": "In a Home Work Count, Amma did 90 minutes, Appa did 30 minutes, Paati did 120 minutes and the child did 15 minutes. How many minutes of home work were done in all?",
+     "a": 255,
+     "why": "90 + 30 + 120 + 15 = 255 minutes. That is 4 hours and 15 minutes in one evening. A strong answer also says who did the most.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "In the Many Hands test, three people took longer than a third of the time one person took. Give two reasons why.",
+     "lines": 4,
+     "a": "They had to wait for each other, they got in each other's way, and some folders were slower than others.",
+     "why": "A strong answer gives two different reasons that come from what really happens when people work together.",
+     "how": "e2"
+    },
+    {
+     "t": "perspective",
+     "p": "Two grown-ups in a family talk about how to share the home work.",
+     "views": [
+      {
+       "who": "Shalini, who works in an office",
+       "says": "We should share every job equally, half each, so that it is fair."
+      },
+      {
+       "who": "Rekha, her sister-in-law, who stays home with the children",
+       "says": "It is fair if each person does what they are best at. I cook well, so I cook, and she earns money for the family."
+      }
+     ],
+     "ask": "Who do you agree with? Give a reason. Then say one thing the other person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side with a reason, for example that splitting by skill can leave one person with far more hours. It also says what the other side has right: Rekha is right that skills differ, and Shalini is right that hours should be fair.",
+     "why": "This is a real disagreement among economists and families. A fair answer looks at hours as well as skills."
+    },
+    {
+     "t": "truefalse",
+     "p": "An olive ridley turtle mother stays with her hatchlings until they can swim.",
+     "a": false,
+     "why": "False. She lays her eggs on a beach and swims away. The hatchlings find their way to the sea on their own."
+    },
+    {
+     "t": "match",
+     "p": "Match each animal to who looks after their young.",
+     "pairs": [
+      [
+       "Seahorse",
+       "the father carries the eggs"
+      ],
+      [
+       "Jungle babbler",
+       "the parents and older birds in the group"
+      ],
+      [
+       "Cow",
+       "the mother feeds the calf her milk"
+      ],
+      [
+       "Asian koel",
+       "house crows raise the chick"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Animals share the care of their young in very different ways.",
+     "how": "g1"
+    },
+    {
+     "t": "mcq",
+     "p": "John B. Watson and Rosalie Rayner Watson wrote a book for parents in 1928. What did they tell parents?",
+     "opts": [
+      "Hug your children often",
+      "Do not hug or kiss your children",
+      "Let grandparents raise your children"
+     ],
+     "a": 1,
+     "why": "They told parents not to hug or kiss their children. Later studies, such as Harlow's, showed that comfort and touch are what children need."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a pictograph of these minutes, with one clock for every 15 minutes: Ajji 60 minutes, Appa 30 minutes, Kavya 15 minutes.",
+     "a": "Ajji: 4 clocks. Appa: 2 clocks. Kavya: 1 clock.",
+     "why": "60 divided by 15 is 4, 30 divided by 15 is 2, and 15 divided by 15 is 1. A strong pictograph has a key that says one clock is 15 minutes."
+    },
+    {
+     "t": "fill",
+     "p": "Each child gets about half of their genes from their mother and about half from their ____.",
+     "a": [
+      "father"
+     ],
+     "why": "Genes come from both parents, about half from each."
+    },
+    {
+     "t": "write",
+     "p": "Kerala had more women who could read and write than any other state in the 2011 Census. What could have helped girls there go to school?",
+     "lines": 4,
+     "a": "For example: many schools close to home, families who wanted their daughters to study, and women who were teachers.",
+     "why": "A strong answer gives reasons a child can think through, such as schools nearby and families choosing to send girls. Scientists still study exactly why."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these. Is each one a right every child in India has by law, or a job a child can help with at home?",
+     "cats": [
+      "A right by law",
+      "A job a child can help with"
+     ],
+     "items": [
+      [
+       "free school from 6 to 14",
+       "A right by law"
+      ],
+      [
+       "setting the plates",
+       "A job a child can help with"
+      ],
+      [
+       "not being sent to work under 14",
+       "A right by law"
+      ],
+      [
+       "watering the plants",
+       "A job a child can help with"
+      ],
+      [
+       "folding small clothes",
+       "A job a child can help with"
+      ]
+     ],
+     "a": "see items",
+     "why": "A child has rights that grown-ups must protect, and can also help the family with jobs that suit their age."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these are care work. Which is the odd one out?",
+     "opts": [
+      "Feeding a baby",
+      "Giving Thatha his medicine",
+      "Watching a cricket match",
+      "Helping with homework"
+     ],
+     "a": 2,
+     "why": "Feeding, giving medicine and helping with homework are all looking after someone who needs help. Watching cricket is rest, which everyone also needs."
+    },
+    {
+     "t": "label",
+     "p": "Here is a picture of a family tree. Label the two sides of the family.",
+     "labels": [
+      "The left branch, with Amma's parents",
+      "The right branch, with Appa's parents"
+     ],
+     "a": [
+      "Mother's side",
+      "Father's side"
+     ],
+     "why": "Relatives through your mother are on your mother's side, and relatives through your father are on your father's side.",
+     "how": "a2",
+     "art": "A family tree with two big branches, the left one with a grandmother and grandfather marked 'Amma's parents', the right one marked 'Appa's parents', and empty label boxes."
+    },
+    {
+     "t": "mcq",
+     "p": "Which is the best reason to do the Home Work Count on a normal evening, not a festival day?",
+     "opts": [
+      "Festival days have no work",
+      "So the count shows a usual day",
+      "Because clocks do not work on festivals"
+     ],
+     "a": 1,
+     "why": "On festival days there is often much more cooking and cleaning. A normal evening shows what a usual day needs. That makes it a fair test.",
+     "how": "e1"
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Families, Then and Now (challenge)",
+   "tier": "challenge",
+   "mins": 20,
+   "items": [
+    {
+     "t": "write",
+     "p": "Many people say a mother who stays at home 'does not work'. Use evidence from your Home Work Count to explain whether that is true.",
+     "lines": 5,
+     "a": "It is not true. In our count, the person at home did many minutes of cooking, washing and caring. That is work. It is just unpaid.",
+     "why": "A strong answer uses real numbers from the count and says the difference is payment, not work.",
+     "how": "e1"
+    },
+    {
+     "t": "perspective",
+     "p": "Three people talk about why human children need so many years of care.",
+     "views": [
+      {
+       "who": "Sarah Blaffer Hrdy, a scientist who studies animals and people",
+       "says": "Human mothers always had help from grandmothers, fathers and older children. That help made our long childhood possible."
+      },
+      {
+       "who": "Kristen Hawkes, a scientist who studied Hadza grandmothers in Tanzania",
+       "says": "Grandmothers matter most. They find food for grandchildren, so mothers can care for new babies."
+      },
+      {
+       "who": "John Bowlby, in his early writing",
+       "says": "A baby needs one main carer above all, usually the mother."
+      }
+     ],
+     "ask": "Whose idea fits your own family best? Give a reason. Then say one thing another person has right.",
+     "lines": 6,
+     "a": "A strong answer picks one idea and links it to real people in the child's family, such as a grandmother who cooks. It also says what another view has right, for example that babies often do cling most to one person.",
+     "why": "Scientists still argue about this. Each idea fits some families and some evidence."
+    },
+    {
+     "t": "write",
+     "p": "The koel chick is raised by crows that did not lay the egg. An adopted child is raised by parents who did not give birth to them. What makes someone a parent?",
+     "lines": 5,
+     "a": "For example: a parent is the one who feeds, protects and cares for a child every day, whoever gave birth.",
+     "why": "A strong answer uses both examples and says what parents do, not only who gave birth. There is more than one good answer."
+    },
+    {
+     "t": "mcq",
+     "p": "In the 2011 Census, about 82 in every 100 men in India could read and write, and about 65 in every 100 women. What is the best explanation?",
+     "opts": [
+      "Women are not as good at learning to read",
+      "For many years, fewer girls were sent to school",
+      "Women did not want to read"
+     ],
+     "a": 1,
+     "why": "For many years, many families kept daughters at home to work, so fewer women learned to read. It is about who got the chance, not about ability."
+    },
+    {
+     "t": "count",
+     "p": "A family's Home Work Count showed 240 minutes in one evening. If the family does this every evening, how many minutes is that in a week?",
+     "a": 1680,
+     "why": "240 times 7 is 1680 minutes, which is 28 hours. A strong answer also says that this is more than a whole day and night of work each week, in one evening slot alone.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "If every person in your home stopped all unpaid home work for one week, what would happen? Name three things.",
+     "lines": 5,
+     "a": "For example: no cooked food, dirty plates and clothes piling up, a baby or grandparent not looked after, and nobody able to go out to a paid job.",
+     "why": "A strong answer shows that paid work and school depend on unpaid home work being done."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a bar chart of the Many Hands test: one person, two people and three people. Use your own times, or these: 10 minutes, 6 minutes, 5 minutes.",
+     "a": "Three bars of 10, 6 and 5, getting shorter, but not halving each time.",
+     "why": "A strong chart has labels on both axes and shows that adding helpers saves time, but less and less with each extra person.",
+     "how": "e2"
+    },
+    {
+     "t": "mcq",
+     "p": "Selvi folded 20 clothes alone in 12 minutes, then with her aunt in 7 minutes, then alone again in 9 minutes. Why was her second try alone faster than her first?",
+     "opts": [
+      "Practice made her faster",
+      "The clothes got smaller",
+      "Her aunt was still helping"
+     ],
+     "a": 0,
+     "why": "She had folded the same clothes twice before, so she had practised. This is why the test folds alone at the start and the end.",
+     "how": "e2"
+    },
+    {
+     "t": "truefalse",
+     "p": "India's Constitution, from 1950, gives women and men equal rights.",
+     "a": true,
+     "why": "True. The Constitution says nobody can be treated unfairly by the government because of their sex. But laws alone do not change every home."
+    },
+    {
+     "t": "write",
+     "p": "Savitribai Phule kept teaching though people threw mud at her. Why do you think some people were so against girls going to school?",
+     "lines": 4,
+     "a": "For example: they thought girls should only do housework, they were afraid of change, or they wanted girls to depend on others.",
+     "why": "A strong answer gives a real reason people held then, and does not make it seem like the reason was right."
+    },
+    {
+     "t": "label",
+     "p": "Here is a picture of the results table from the Home Work Count. Label the column that shows how you know who was paid.",
+     "labels": [
+      "Job",
+      "Who did it",
+      "Start time",
+      "End time",
+      "Minutes",
+      "Paid or unpaid?"
+     ],
+     "a": [
+      "Paid or unpaid?"
+     ],
+     "why": "The last column records whether the person is paid for the job. A strong answer also says that the 'Minutes' column comes from the start and end times.",
+     "how": "e1",
+     "art": "A results table with six empty columns and an arrow pointing to one of them."
+    },
+    {
+     "t": "match",
+     "p": "Match each person to what they found or did.",
+     "pairs": [
+      [
+       "Savitribai Phule",
+       "opened a school for girls in Pune in 1848"
+      ],
+      [
+       "Harry Harlow",
+       "found baby monkeys clung to a soft cloth mother"
+      ],
+      [
+       "Mary Ainsworth",
+       "showed babies use a trusted grown-up as a safe base"
+      ],
+      [
+       "Kristen Hawkes",
+       "studied how Hadza grandmothers feed grandchildren"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each of these people changed how we understand families."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these animals. Does the father help to look after the young, or not?",
+     "cats": [
+      "Father helps",
+      "Father does not help"
+     ],
+     "items": [
+      [
+       "emperor penguin",
+       "Father helps"
+      ],
+      [
+       "house crow",
+       "Father helps"
+      ],
+      [
+       "cow",
+       "Father does not help"
+      ],
+      [
+       "seahorse",
+       "Father helps"
+      ],
+      [
+       "olive ridley turtle",
+       "Father does not help"
+      ]
+     ],
+     "a": "see items",
+     "why": "In penguins, crows and seahorses the father cares for the eggs or young. A bull does not look after the calf, and turtle hatchlings get no care at all.",
+     "how": "g1"
+    },
+    {
+     "t": "fill",
+     "p": "A survey that asks people how they spent every part of their day is called a time ____ survey.",
+     "a": [
+      "use"
+     ],
+     "why": "A time use survey shows how many minutes people spend on paid work, home work, care, rest and sleep."
+    },
+    {
+     "t": "mcq",
+     "p": "A scientist wants to know if fathers in a city do more home work than fathers did 20 years ago. What is the best way to find out?",
+     "opts": [
+      "Ask one father what he thinks",
+      "Compare time use surveys from 20 years ago and today",
+      "Look at old family photos"
+     ],
+     "a": 1,
+     "why": "Time use surveys measure the minutes for many people in the same way, so you can compare them fairly across years. One person's opinion is not enough."
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Governments use time use surveys to plan for childcare, water taps near homes and cooking gas, which save women hours of unpaid work every day.",
+  "Doctors and hospitals now let parents stay with young children in hospital, because studies showed children suffer when kept apart from their carers.",
+  "Schemes that pay for girls' schooling and bicycles for girls going to school are based on studies of why girls drop out.",
+  "Family trees help doctors understand illnesses that run in families.",
+  "Adoption laws protect children who need a family, and make adoptive parents full parents."
+ ],
+ "spotted": [
+  {
+   "text": "A grandmother drawing a kolam or a rangoli at the door before sunrise: an hour of home work that many people never see being done.",
+   "art": "A grandmother bending to draw a white kolam at the door of a flat at dawn."
+  },
+  {
+   "text": "A house crow carrying twigs to a nest in a tree or on a building ledge, with the other parent nearby.",
+   "art": "Two house crows on a ledge, one holding a twig in her beak."
+  },
+  {
+   "text": "Jungle babblers, the brown 'seven sisters', hopping in a noisy group on the ground in a park or a campus.",
+   "art": "A group of brown jungle babblers hopping together on dry leaves."
+  },
+  {
+   "text": "A school van in the morning with as many girls as boys inside.",
+   "art": "A school van full of girls and boys in uniform waving from the windows."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Why do human children take so many years to grow up, when most animals grow up in months?",
+   "why_open": "Scientists have several ideas, such as big brains that need time to learn, and grandmothers who help. Nobody knows which matters most."
+  },
+  {
+   "q": "What is the fairest way to share home work in a family?",
+   "why_open": "Families, economists and thinkers disagree. Some say half each, some say by skill, and some say by how much time each person has."
+  },
+  {
+   "q": "Do crows know that a koel chick in their nest is not theirs?",
+   "why_open": "Some birds throw out eggs that look different. House crows often raise koel chicks. How much they notice, and what they feel about it, is not known."
+  }
+ ],
+ "ask_kids": [
+  "Who made the food on your plate today? How many people's work is in this meal?",
+  "What is one job you could take over from someone this week?",
+  "What do you call Amma's sister? And Appa's sister? Why do we have two words?",
+  "If you could ask Ajji one question about when she was eight, what would it be?",
+  "Which animal family would you like to be part of, and why?",
+  "Who looked after you when you were ill last time? What did they do?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the pressure cooker whistle at Appa?",
+   "a": "To remind him it was his turn to cook."
+  },
+  {
+   "j": "Why did Kavya bring a clock to dinner?",
+   "a": "She wanted to count the minutes of everyone's work."
+  },
+  {
+   "j": "What did the broom say to the mop?",
+   "a": "Let's share the floor. You take the wet half."
+  },
+  {
+   "j": "Why did the family tree go to school?",
+   "a": "To learn more about its roots."
+  },
+  {
+   "j": "Why did the penguin father never get cold feet?",
+   "a": "He had an egg to keep warm on them."
+  },
+  {
+   "j": "Why was the koel chick so big in the crow's nest?",
+   "a": "The crows kept feeding the guest."
+  },
+  {
+   "j": "How many uncles does English have?",
+   "a": "Just one word for all of them, so they have to share it."
+  },
+  {
+   "j": "What did the tumbler say to the plate after dinner?",
+   "a": "Who's washing us tonight?"
+  },
+  {
+   "j": "Why did the seahorse father look so tired?",
+   "a": "He had been carrying the babies all week."
+  },
+  {
+   "j": "Why did Ajji win every game of pallanguzhi?",
+   "a": "She had seventy years of practice with the seeds."
+  },
+  {
+   "j": "What do you call a job wheel that never turns?",
+   "a": "A job stuck on one person."
+  },
+  {
+   "j": "Why do jungle babblers always have company?",
+   "a": "There are always seven sisters around."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In Kavya's Home Work Count, Ajji did 135 minutes, Amma did 60 minutes, Appa did 30 minutes and Kavya did 15 minutes. In a pictograph, one clock is 15 minutes. How many clocks does each person get?",
+   "answer": "Ajji 9 clocks, Amma 4, Appa 2, Kavya 1.",
+   "explain": "135 divided by 15 is 9, because 9 times 15 is 135. 60 divided by 15 is 4. 30 divided by 15 is 2. 15 divided by 15 is 1.",
+   "math_unit": "math.data.pictographs.L3",
+   "context": "This is about the Home Work Count, where you time every home job in one evening.",
+   "why_maths": "A pictograph shows at a glance who did the most, without reading every number.",
+   "how": "e1"
+  },
+  {
+   "problem": "Ajji starts making dinner at 6:20 and finishes at 7:35. How long did she cook?",
+   "answer": "1 hour and 15 minutes, which is 75 minutes.",
+   "explain": "From 6:20 to 7:20 is 1 hour. From 7:20 to 7:35 is 15 more minutes. 60 and 15 make 75 minutes.",
+   "math_unit": "math.time.duration.L3",
+   "context": "This is about the Home Work Count, where you write the start and end time of each job.",
+   "why_maths": "Counting on from a start time to an end time turns two clock readings into the minutes a job really took.",
+   "how": "e1"
+  },
+  {
+   "problem": "In the Many Hands test, Meena folded 20 clothes alone in 10 minutes. With her sister they took 6 minutes. With three people they took 5 minutes. How much time did the second helper save? How much did the third helper save?",
+   "answer": "The second helper saved 4 minutes. The third helper saved only 1 more minute.",
+   "explain": "10 minus 6 is 4 minutes saved. 6 minus 5 is only 1 more minute. Each extra helper saved less time than the one before.",
+   "math_unit": "math.addition-subtraction.word-problems.L3",
+   "context": "This is about the Many Hands test, where you time folding clothes alone and with helpers.",
+   "why_maths": "Taking one time from another shows how much each helper really changed, which a list of times hides.",
+   "how": "e2"
+  },
+  {
+   "problem": "You have 2 parents, 4 grandparents and 8 great-grandparents. How many great-great-grandparents do you have? How many generations back do you go before you have more than 100 ancestors in one generation?",
+   "answer": "16 great-great-grandparents. At 7 generations back you have 128, which is more than 100.",
+   "explain": "The number doubles each generation: 2, 4, 8, 16, 32, 64, 128. The seventh number, 128, is the first one over 100.",
+   "math_unit": "math.patterns.number-patterns.L3",
+   "context": "This is about the family tree, where each person has two parents.",
+   "why_maths": "Spotting the doubling pattern lets you work out your ancestors without drawing a giant tree.",
+   "how": "a2"
+  }
+ ],
+ "song": {
+  "topic_level": "sci.family.L3",
+  "title": "Many Hands at Home",
+  "note": "Topic-level song for Family and friends L3"
+ },
+ "links": [
+  {
+   "title": "Our World in Data: Time Use",
+   "url": "https://ourworldindata.org/time-use",
+   "kind": "interactive",
+   "why": "For the parent. Charts from time use surveys in many countries, including how many hours women and men spend on unpaid home work and care."
+  },
+  {
+   "title": "DakshinaChitra Heritage Museum",
+   "url": "https://www.dakshinachitra.net/",
+   "kind": "place",
+   "where": "Chennai (Muttukadu, on the East Coast Road)",
+   "why": "Walk through real old homes from Tamil Nadu, Kerala, Karnataka and Andhra Pradesh, and see how big joint families lived, cooked and shared work."
+  }
+ ],
+ "buy": [],
+ "warmup": [
+  {
+   "q": "What does English call your mother's brother?",
+   "a": "Uncle."
+  },
+  {
+   "q": "How many great-grandparents does each person have?",
+   "a": "Eight."
+  },
+  {
+   "q": "Is cooking for your own family work, even if nobody pays?",
+   "a": "Yes. It takes time and effort, and the family needs it."
+  },
+  {
+   "q": "Which bird father keeps an egg warm on his feet all winter?",
+   "a": "The emperor penguin."
+  },
+  {
+   "q": "Who opened a school for girls in Pune in 1848?",
+   "a": "Savitribai Phule and Jyotirao Phule."
+  },
+  {
+   "q": "Did Harlow's baby monkeys cling to the wire mother or the cloth mother?",
+   "a": "The soft cloth mother."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "a1",
+   "e1",
+   "story",
+   "g1",
+   "big_questions",
+   "cards",
+   "a2"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "summary",
+   "terms",
+   "e1",
+   "explanations",
+   "story",
+   "a2",
+   "g1",
+   "videos",
+   "ws-core",
+   "e2",
+   "a3",
+   "a5",
+   "agreed",
+   "challenging",
+   "a4",
+   "a6",
+   "p1",
+   "ws-stretch",
+   "c1",
+   "c2",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "a2",
+   "g1",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/family.md: Week 13.0 'Games your grand dad and grand moms played' (pallanguzhi, nondi), used for the activity Games Our Grandparents Played",
+   "ideas/by_topic/family.md: Week 19.0 'Family Handprint, family bonding activity', used for Family Handprints",
+   "ideas/by_topic/family.md: Week 20.0 'Express love: handmade cards for family and friends', used for A Thank-You Card for the Hidden Work",
+   "ideas/by_topic/family.md: science journal pages p2 and p3 (family tree and traits), used for Our Family Tree"
+  ],
+  "science": [
+   "Ministry of Statistics and Programme Implementation, Time Use in India 2019 (minutes a day spent on unpaid domestic services by women and men who took part in them)",
+   "Census of India 2011, literacy rates by sex and by state",
+   "Watson and Watson, Psychological Care of Infant and Child, 1928",
+   "Harlow, The Nature of Love, American Psychologist 13, 1958",
+   "Bowlby, Maternal Care and Mental Health, World Health Organization, 1951",
+   "Ainsworth, Infancy in Uganda, 1967, and Ainsworth and others, Patterns of Attachment, 1978",
+   "Schaffer and Emerson, The development of social attachments in infancy, Monographs of the Society for Research in Child Development 29, 1964",
+   "Hrdy, Mothers and Others, 2009",
+   "Hawkes and others, Grandmothering, menopause, and the evolution of human life histories, PNAS 95, 1998",
+   "Becker, A Treatise on the Family, 1981",
+   "The Right of Children to Free and Compulsory Education Act, 2009, and the Child and Adolescent Labour (Prohibition and Regulation) Act, as amended in 2016"
+  ]
+ },
+ "roots": {
+  "context": "We have named our relatives, counted every minute of home work in one evening, and met animal families. Now we ask what this tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Your count found that cooking, washing and caring take hours in a home every evening. A house help is paid for this work, but a family member doing it is not. When India adds up the value of all its work, it leaves out unpaid home work. So the work that keeps every family alive is missing from the count.",
+   "habit": "We use the word 'work' for a paid job. People say 'Appa goes to work' and 'Amma doesn't work', even when Amma works for hours at home. The word hides the work that everything else depends on.",
+   "evidence": "In the Home Work Count, the jobs added up to hours in one evening, and only a house help, if there was one, was paid. India's Time Use Survey of 2019 found women doing about 299 minutes of unpaid home work a day."
+  },
+  "three": {
+   "who_am_i": "You are someone who has been fed, washed and carried by other people's hands, every day of your life.",
+   "what_is_life": "Every young being, a crow chick, a calf or you, stays alive because someone gives them time and care.",
+   "what_is_this_world": "It is a world where some of the most needed work is done without pay, and often without being counted."
+  },
+  "thread": "A home looks like one thing from outside. Inside, it is many people and many jobs: one person cooks, one washes, one carries the baby, one earns money. Each job needs the others. A crow pair building a nest, a group of babblers feeding chicks and a family sharing dinner are the same care, done by many bodies. The one life of a family shows up as many hands.",
+  "teachings": [
+   {
+    "source": "Tirukkural 101",
+    "teaching": "Help given to you when you had done nothing for the helper is so great that even the earth and the sky together cannot repay it.",
+    "link": "Most of the minutes in the Home Work Count are help of this kind. They are given every day, and the person who receives them, often a child, has done nothing to earn them."
+   },
+   {
+    "source": "Taittiriya Upanishad 1.11",
+    "teaching": "A teacher tells students who are leaving: treat your mother as a god, treat your father as a god, treat your teacher as a god, treat your guest as a god.",
+    "link": "The mother is named first. The work count shows one reason why: in many homes, her minutes are the ones the whole day stands on."
+   },
+   {
+    "source": "Ubuntu, a teaching of the Nguni-speaking peoples of southern Africa",
+    "teaching": "A person is a person through other people.",
+    "link": "Nobody grows up alone. Human children, like jungle babbler chicks, are raised by many helpers."
+   }
+  ],
+  "science": [
+   {
+    "text": "Countries leave unpaid home work and care out of their income figures. They measure it separately, with time use surveys.",
+    "status": "settled"
+   },
+   {
+    "text": "Human mothers have always raised children with help from others, such as grandmothers, fathers and older children. Scientists still argue about which helpers mattered most.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Gary Becker, an American economist, in A Treatise on the Family (1981)",
+   "view": "It can make sense for one person in a family to do most of the home work and another to earn money, because each gets good at their part. On this view, an unequal split of minutes is not always unfair, if the family chose it and shares what it earns."
+  },
+  "practice": {
+   "title": "Count the hands in your meal",
+   "mins": 3,
+   "say": "Before we eat, let's sit still for a moment. Look at the food on your plate. Breathe in slowly, and out slowly. Now, without speaking, count the people whose work is in this meal. Who bought the rice? Who cooked it? Who washed the plate? Who grew it? Breathe out. Now tell me your number.",
+   "kid": "Look at your plate. Breathe slowly. Count the people whose work is in this meal. Who cooked it? Who grew it? Say your number."
+  },
+  "ask": [
+   "If nobody counts a piece of work, is it still there?",
+   "Can you ever pay back someone who looked after you before you could say thank you?",
+   "Is a family one thing, or many people? Could it be both?"
+  ],
+  "art": "A family's hands around a dining table, each doing something different: one serving rasam, one holding a baby, one pouring water, one writing in a notebook."
+ },
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat. The Home Work Count needs only a notebook and a clock the child can see. Counting from 5 o'clock to bedtime keeps it to one evening, and a grown-up can read out times if the child cannot yet read a clock. The parent note asks the family to act as usual and says the count is not about blame. Homes with a house help or cook count her too, which shows the same job paid and unpaid. The Many Hands test uses 20 clothes from the washing and folds alone at the start and the end, because practice speeds people up. Pallanguzhi can be played with 14 katoris or circles drawn on paper and tamarind seeds or rajma. The interview about schooling is marked for a grown-up, because answers can be painful. The spine is the intro, One Word Four Uncles, the Home Work Count, the explanation cards, roots and the quiz, about 85 minutes.",
+ "how_we_found_out": {
+  "story": "In 1928, John B. Watson, a famous American psychologist, wrote a book for parents with Rosalie Rayner Watson. It told them never to hug or kiss their children. Many scientists then thought a baby loves their mother only because she feeds them. In the 1950s, Harry Harlow tested this idea at the University of Wisconsin in the United States. He took baby rhesus monkeys from their mothers and gave each baby two model mothers. One was made of wire and held a bottle of milk. The other was covered in soft cloth and gave no milk. The babies drank from the wire mother, then went straight back to cling to the cloth one. When something frightened them, they ran to the cloth mother. Harlow reported this in 1958, in a talk called The Nature of Love. Comfort mattered to the babies as much as food. John Bowlby in Britain, and Mary Ainsworth, who worked with him, showed that human children also need a trusted carer to feel safe. Harlow's experiments hurt the baby monkeys, and many scientists today say they were cruel.",
+  "who": "John B. Watson and Rosalie Rayner Watson, Harry Harlow at the University of Wisconsin, John Bowlby and Mary Ainsworth",
+  "when": "1928 (Watson's book), 1950s (Harlow's experiments, reported in 1958)",
+  "wrong_idea": "People thought babies love their mother only because she feeds them, and that hugging spoils children. Harlow's baby monkeys chose a soft cloth mother with no milk over a wire mother with milk, and ran to her when afraid."
+ }
+}
