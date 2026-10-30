@@ -4,10 +4,10 @@
  "subj": "sci",
  "level": 5,
  "n": "society-community-culture-and-festivals",
- "title": "Culture, heritage and democracy: how a country of many peoples lives together",
+ "title": "How a country of many peoples lives together",
  "source": "DeepKids Combined. Covers NCERT Class 5 'Our Vibrant Country' (Republic Day, national symbols, currency, languages, clothing, dance and music, unity in diversity) and NIOS Class 5 Lessons 1 to 4 and 6 (culture and heritage and their conservation, natural heritage, peace, unity and harmony with Ashoka and Akbar, social issues, the freedom struggle, democracy and public administration). No textbook needed.",
- "summary": "India has more than 120 languages, every major religion and thousands of festivals, and yet works as one country. How? Your child builds paper towers in a chain to see how culture piles up, watches acid eat a shell the way polluted air eats marble, and makes a drum to hear why a tight skin sounds higher. They decode where everyday words came from, make salt as the Dandi marchers did, and use coin tosses to see how numbers can reveal unfairness to girls. They find out that the voting rule can change the winner, and why a country chose to give every adult one equal vote.",
- "builds_on": "Class 3 'Society, community, culture and festivals': the breakfast chain of many helpers, sharing out work, public services, shared things and their rules, ant and bee colonies, culture as something learned (the Koshima monkeys), Sun and Moon calendars, India's symbols and three rights in law. There is no Class 4 rung written yet. This rung goes deeper: how culture accumulates, heritage and why it wears away, why diversity can make a community stronger, how people of many faiths have lived together, the freedom struggle, fairness between girls and boys, and how a democracy is run. Middle school goes on to history, civics and the Constitution in detail.",
+ "summary": "India has more than 120 languages, every major religion and thousands of festivals, and yet works as one country. How? Your child builds paper towers in a chain to see how culture piles up, watches vinegar dissolve a shell, the way polluted air wears away marble, and makes a drum to hear why a tight skin sounds higher. They decode where everyday words came from, make salt as the Dandi marchers did, and use coin tosses to see how numbers can reveal unfairness to girls. They find out that the voting rule can change the winner, and why a country chose to give every adult one equal vote.",
+ "builds_on": "Class 3: the breakfast chain of helpers, culture as something learned (the Koshima monkeys), festival calendars, India's symbols and rights. Class 4: how one neighbourhood works, why beings cooperate, festivals as sharing, and money as a promise everyone trusts. This rung goes deeper: how culture accumulates, heritage and why it wears away, why diversity can make a community stronger, how people of many faiths have lived together, the freedom struggle, fairness between girls and boys, and how a democracy is run. Middle school goes on to history, civics and the Constitution in detail.",
  "subconcepts": [
   "culture: the seen and unseen ways of living that are learned, piled up, changed and varied",
   "cumulative culture: each generation keeps what worked and adds to it",
@@ -93,9 +93,9 @@
    "steps": [
     {
      "kind": "warmup",
-     "title": "What we found in Class 3",
+     "title": "What we found in Classes 3 and 4",
      "mins": 5,
-     "do": "Ask: 'In Class 3, who helped make your breakfast?' Good answers: the cook, the shopkeeper, the miller, the truck driver, the farmer. Ask: 'What did the young monkey Imo on Koshima island do, and how did the others learn it?' (She washed sweet potatoes in water. Other monkeys watched and copied her, so it spread.) Say: 'Things that are learned and passed on are called culture. This week we look at the culture of a whole country, and at how millions of different people live together and run the country.'"
+     "do": "Ask: 'Last year we made a web of everyone our family depends on. Who was on it?' Good answers: the milk seller, the bus driver, the doctor, the neighbours, the trees on our street. Ask: 'Why will a shopkeeper give you real rice for a ₹100 note, which is only paper?' (Because millions of people trust that note.) Ask: 'What did the young monkey Imo on Koshima island do, and how did the others learn it?' (She washed sweet potatoes in water. Other monkeys watched and copied her, so it spread.) Say: 'Things that are learned and passed on are called culture. This week we look at the culture of a whole country, and at how millions of different people live together and run the country.'"
     },
     {
      "kind": "read",
@@ -108,7 +108,7 @@
      "title": "Seen and unseen culture hunt",
      "mins": 13,
      "ref": "a1",
-     "do": "Do Activity a1. Say first: 'Some culture you can touch: a steel tumbler, a kolam, a sari, a temple. That is seen culture. Some you can't touch: our language, a lullaby, how we greet elders, a recipe in someone's head. That is unseen culture.' Your child finds 6 seen and 6 unseen things at home and writes them in two columns. Then ask four questions, one for each feature of culture. 'Who taught you this?' (Culture is learned.) 'Is it older than Paati?' (It piles up over time.) 'Did Paati do it the same way?' (It changes.) 'Does our neighbour's family do it the same way?' (It varies.) Keep the page for the project."
+     "do": "Do Activity a1. Say first: 'Some culture you can touch: a steel tumbler, a kolam, a sari, a temple. That is seen culture. Some you can't touch: our language, a lullaby, how we greet elders, a recipe in someone's head. That is unseen culture.' Your child finds 6 seen and 6 unseen things at home and writes them in two columns. Then ask four questions, one for each feature of culture. 'Who taught you this?' (Culture is learned.) 'Is it older than your grandparents?' (It piles up over time.) 'Did your grandparents do it the same way?' (It changes.) 'Does our neighbour's family do it the same way?' (It varies.) Keep the page for the project."
     },
     {
      "kind": "exp",
@@ -195,7 +195,7 @@
      "title": "Make a drum",
      "mins": 12,
      "ref": "e4",
-     "do": "Do Experiment e4. Ask first: 'If the drum skin is pulled tighter, will the sound get higher or lower? Why do you think so?' Write the guess. Test it. Say: 'A tighter skin vibrates faster. Faster vibration gives a higher pitch. That is why a mridangam player taps the straps to tune the drum, and a tabla player taps the small wooden blocks with a hammer.' Ask: 'Why does the big steel bowl drum sound lower than the small tumbler drum?' (A bigger skin vibrates more slowly.)"
+     "do": "Do Experiment e4. Ask first: 'If the drum skin is pulled tighter, will the sound get higher or lower? Why do you think so?' Write the guess. Test it. Say: 'A tighter skin vibrates faster. Faster vibration gives a higher pitch. That is why a mridangam player tunes the drum by tapping the edge of the skin with a small stone, and a tabla player taps the small wooden blocks with a hammer.' Ask: 'Why does the big steel bowl drum sound lower than the small tumbler drum?' (A bigger skin vibrates more slowly.)"
     },
     {
      "kind": "talk",
@@ -227,7 +227,7 @@
     },
     {
      "kind": "talk",
-     "title": "Ashoka, Akbar and the rocks that speak",
+     "title": "Ashoka, Akbar and the carved edicts",
      "mins": 12,
      "ref": "v2",
      "do": "Tell Voice v2. Say: 'About 2,300 years ago, Emperor Ashoka fought a war in Kalinga, which is in today's Odisha. His own words, carved on a rock, say that a hundred thousand people were killed. He wrote that he felt deep sorrow. After that he asked people to follow Dhamma: kindness, truth and respect for all faiths.' Read his line from Rock Edict 12 in plain words: 'Whoever praises only his own faith and puts down others harms his own faith.' Then say: 'Nobody could read his letters until 1837, when James Prinsep worked out the script. An edict found at Maski in Karnataka in 1915 named him Ashoka.' Then say: 'About 1,800 years after Ashoka, the Mughal emperor Akbar held debates at Fatehpur Sikri between Hindu, Muslim, Jain, Zoroastrian and Christian scholars. He called his rule sulh-i-kul, peace with all.' Ask: 'Ashoka also warned forest peoples that he could still punish them. Does that change what you think of him?' There is no single right answer."
@@ -598,7 +598,7 @@
      [
       {
        "t": "sort",
-       "p": "Put these in time order. Sort each into the right century.",
+       "p": "Sort each event by when it happened.",
        "items": [
         "the East India Company is formed",
         "the Battle of Plassey",
@@ -740,7 +740,7 @@
        "t": "mcq",
        "p": "For centuries nobody could read Ashoka's edicts. What finally proved that the king called 'Piyadasi' in the edicts was Ashoka?",
        "opts": [
-        "an edict found at Maski in Karnataka that used both names",
+        "an edict found at Maski in Karnataka that called the king Ashoka",
         "a painting of Ashoka",
         "a story told by grandparents"
        ],
@@ -768,7 +768,7 @@
      [
       {
        "t": "mcq",
-       "p": "In David Tilman's experiment, which grass plots kept growing best through a drought?",
+       "p": "David Tilman, an American scientist, grew many small plots of grassland. Then a drought came. Which plots kept growing best?",
        "opts": [
         "plots with many kinds of plants",
         "plots with only one kind of plant",
@@ -778,7 +778,7 @@
       },
       {
        "t": "mcq",
-       "p": "Gordon Allport said meeting people of another group reduces prejudice best when...",
+       "p": "Gordon Allport, an American psychologist, studied prejudice. He said meeting people of another group reduces prejudice best when...",
        "opts": [
         "they meet as equals and work towards a shared goal",
         "one group is in charge of the other",
@@ -824,7 +824,7 @@
      [
       {
        "t": "mcq",
-       "p": "Researchers compared villages where the women's seat was chosen by lottery. Why did the lottery matter?",
+       "p": "In some Indian villages, a lottery decided which panchayats must have a woman as president. Researchers then compared those villages with the others. Why did the lottery matter?",
        "opts": [
         "the villages were picked by chance, so the comparison was fair",
         "lotteries are fun",
@@ -834,7 +834,7 @@
       },
       {
        "t": "write",
-       "p": "Valli, in the story, said a vote must belong to one person, not to a house or a husband. If you were writing a new country's rules, who would you allow to vote, and why?",
+       "p": "Valli, the mother in this week's story 'Her Own Name', said a vote must belong to one person, not to a house or a husband. If you were writing a new country's rules, who would you allow to vote, and why?",
        "lines": 4
       }
      ]
@@ -937,7 +937,7 @@
    ],
    "predict": "Ask: 'Will a tighter skin sound higher or lower? Will the big bowl drum sound higher or lower than the tumbler drum?'",
    "observe": "The tighter the skin, the higher the sound. The big bowl drum sounds lower than the small tumbler drum.",
-   "why": "A sound is made when something vibrates, moving quickly back and forth. A drum skin vibrates when it is struck. A tight skin springs back faster, so it vibrates faster and gives a higher pitch. A bigger skin vibrates more slowly and gives a lower pitch. Drummers use this to tune. A mridangam player taps the leather straps around the drum to tighten or loosen the skin, and a tabla player taps the wooden blocks under the straps with a small hammer.",
+   "why": "A sound is made when something vibrates, moving quickly back and forth. A drum skin vibrates when it is struck. A tight skin springs back faster, so it vibrates faster and gives a higher pitch. A bigger skin vibrates more slowly and gives a lower pitch. Drummers use this to tune. A mridangam player taps the edge of the skin with a small stone to tighten or loosen it, and a tabla player taps the wooden blocks under the straps with a small hammer.",
    "safety": "An adult uses the scissors. Don't let small children put balloon pieces in their mouths.",
    "time": "12 min"
   },
@@ -960,13 +960,13 @@
     "Pour half the cup into the wide steel plate and leave it on a sunny windowsill.",
     "Adult: hold a steel tablespoon of the salt water over a low flame, with a cloth around the handle, until the water has boiled away.",
     "Look at the spoon when it has cooled. What is left?",
-    "Check the plate after a few hours or the next day, and compare the crystals."
+    "Check the plate the next day or the day after, and compare the crystals."
    ],
    "predict": "Ask: 'When all the water goes, will anything be left? What will it look like?'",
    "observe": "A white crust is left on the spoon. On the plate, which dries slowly, the crystals are usually bigger and cube-shaped.",
    "why": "Salt dissolves in water. Its tiny particles spread out among the water particles, so you can't see it, but you can still taste it. When water is heated, it evaporates: it turns into water vapour and goes into the air. Salt does not evaporate at these temperatures, so it is left behind. Slow drying gives the salt particles time to line up into larger, neat crystals. Salt makers on the coasts of Gujarat and Tamil Nadu still let sea water dry in big shallow pans in the sun. In 1930 the British government controlled salt and taxed it. By making natural salt, Gandhiji and lakhs of others broke this law in a way anyone could copy.",
    "safety": "Only an adult holds the spoon over the flame, with a cloth round the handle, because the spoon gets very hot. Keep hair and dupattas away from the flame.",
-   "time": "10 min + check after a few hours"
+   "time": "10 min + check after one or two days"
   },
   {
    "id": "e6",
@@ -1009,7 +1009,7 @@
     "Compare the winners of the two rounds. With few voters, add voter cards. For example: 4 cards that say 'idli first', 3 that say 'poori first, then pongal', and 3 that say 'pongal first, then poori'."
    ],
    "predict": "Ask: 'Will the same dish win in both rounds?'",
-   "observe": "Often the same dish wins both times. But sometimes the Round 1 winner had less than half the votes. In the run-off, the voters whose choice was knocked out switch, and a different dish wins. With the voter cards above, idli wins Round 1 with 4 votes, but if pongal is knocked out, poori wins Round 2 with 6 votes.",
+   "observe": "Often the same dish wins both times. But sometimes the Round 1 winner had less than half the votes. In the run-off, the voters whose choice was knocked out switch, and a different dish wins. With the voter cards above, idli wins Round 1 with 4 votes. Whichever of poori or pongal is knocked out, the other wins Round 2 with 6 votes.",
    "why": "With more than two choices, the 'most votes wins' rule, called first-past-the-post, can choose a winner that most voters did not pick first, because the others' votes are split. India uses this rule for the Lok Sabha and state assemblies. A run-off makes sure the winner has more than half, but needs a second vote. Mathematicians have shown that every voting method has some weakness. That is why the rules of an election are written in law, decided in advance, and the same for everyone.",
    "safety": "",
    "time": "15 min"
@@ -1262,7 +1262,7 @@
   "Is a country more like one family, or like a forest of many kinds of trees?",
   "A banknote is only paper. What makes it worth something?",
   "Who should be allowed to vote? Should children have a say in decisions about their school?",
-  "A forest is our natural heritage. Whose heritage is it for the elephants and the trees who live there?"
+  "We call a forest our natural heritage. But elephants and trees lived there long before us. Whose forest is it?"
  ],
  "challenge": [
   {
@@ -1293,7 +1293,7 @@
   },
   {
    "who": "An elephant in the Western Ghats",
-   "view": "Elephants walk the same routes through the forest for generations, and the oldest females lead the herd and remember where water is in a dry year. For an elephant, the forest is not heritage. It is home and memory. Ask: who should decide whether a road is built through it?"
+   "view": "Elephants walk the same routes through the forest for generations, and the oldest females lead the herd and remember where water is in a dry year. A road through the forest can cut these old routes. Ask: who should decide whether a road is built through it?"
   }
  ],
  "story": {

@@ -163,7 +163,7 @@
      "kind": "talk",
      "title": "Recycling and downcycling",
      "mins": 10,
-     "do": "Say: 'Glass and metal can be melted and made into new bottles and cans again and again. Paper can be recycled only a few times, because its fibres get shorter each time. Most plastic is downcycled. That means it is made into something of lower quality. Old water bottles are often made into polyester fibre for clothes, carpets and pillow filling, and that fibre is hardly ever recycled again.' Hold up the chips packet. Say: 'This shines like metal. It is made of thin layers of different plastics and aluminium stuck together, so it is very hard to separate and recycle.' Ask: 'Which of our heaps would a kabadiwala buy? Which would nobody buy?' Good answers: kabadiwalas usually buy PET bottles and hard plastic, and often milk packets. Few buy chips packets or thermocol. Say: 'In 2017, scientists in the USA worked out that only about 9 out of every 100 kilograms of plastic ever made had been recycled.'"
+     "do": "Say: 'Glass and metal can be melted and made into new bottles and cans again and again. Paper can be recycled only a few times, because its fibres get shorter each time. Most plastic is downcycled. That means it is made into something of lower quality. Old water bottles are often made into polyester fibre for clothes, carpets and pillow filling, and that fibre is hardly ever recycled again.' Hold up the chips packet. Say: 'This shines like metal. It is made of thin layers of different plastics and aluminium stuck together, so it is very hard to separate and recycle.' Ask: 'Which of our heaps would a kabadiwala buy? Which would nobody buy?' Good answers: kabadiwalas usually buy PET bottles and hard plastic, and often milk packets. Few buy chips packets or thermocol. Say: 'In 2017, scientists in the USA worked out that of all the plastic ever thrown away, only about 9 kilograms in every 100 had been recycled.'"
     },
     {
      "kind": "act",
@@ -209,7 +209,7 @@
      "kind": "talk",
      "title": "Aerobic and anaerobic",
      "mins": 10,
-     "do": "Say: 'Some microbes need oxygen from the air to feed. Rotting done by them is called aerobic rotting. It gives off carbon dioxide and water, and smells earthy, like wet soil. Other microbes can feed without any oxygen. Rotting done by them is called anaerobic rotting. It is slower, and it makes sour and rotten-smelling gases. In a big heap with no air, after some weeks, a group of microbes makes a gas called methane. Methane burns. It is the same gas as in the biogas that some villages make from cow dung for cooking.' Ask: 'Why do we stir the open bowl every day?' (to let air in, so the aerobic microbes keep working). 'Why does a closed dustbin smell so bad after a few days?' (no air reaches the bottom, so anaerobic microbes take over). Add to the arrow drawing from Day 1: 'buried in a dump with no air: makes methane'."
+     "do": "Say: 'Some microbes need oxygen from the air to feed. Rotting done by them is called aerobic rotting. It gives off carbon dioxide and water, and smells earthy, like wet soil. Other microbes can feed without any oxygen. Rotting done by them is called anaerobic rotting. It is slower, and it makes sour and rotten-smelling gases. In a big heap with no air, after some weeks, a group of microbes makes a gas called methane. Methane burns. It is the main gas in biogas, which some villages make from cow dung for cooking.' Ask: 'Why do we stir the open bowl every day?' (to let air in, so the aerobic microbes keep working). 'Why does a closed dustbin smell so bad after a few days?' (no air reaches the bottom, so anaerobic microbes take over). Add to the arrow drawing from Day 1: 'buried in a dump with no air: makes methane'."
     },
     {
      "kind": "read",
@@ -245,7 +245,7 @@
      "kind": "exp",
      "title": "Rain on a garbage heap",
      "mins": 16,
-     "do": "Do Experiment e2. Cut a plastic bottle in half. Put the top half upside down into the bottom half, like a funnel in a cup, with a piece of cloth in the neck. Fill the funnel two-thirds with soil. On top make a small heap of 'garbage': a used tea bag torn open, a spoon of turmeric, five drops of cooking oil and a few scraps of peel. Ask: 'If rain falls on this heap, what will come out at the bottom: clean water or dirty water? Why?' Pour a quarter tumbler of water slowly over the heap, like rain. Wait three minutes and look at the water in the bottom. Compare it with a second bottle that has only soil, with the same water poured through it. Say: 'The yellow, oily water is called leachate. It is rain that has soaked through garbage and carried dissolved things down with it.'",
+     "do": "Do Experiment e2. Cut a plastic bottle in half. Put the top half upside down into the bottom half, like a funnel in a cup, with a piece of cloth in the neck. Put soil in the funnel, about four fingers deep. Make a second funnel the same way. Pour half a tumbler of water through each to wet the soil, then empty the bottoms. On one funnel make a small heap of 'garbage': a used tea bag torn open, a pinch of turmeric, five drops of cooking oil and a few scraps of peel. Ask: 'If rain falls on this heap, what will come out at the bottom: clean water or dirty water? Why?' Slowly pour one tumbler of water over each funnel, like rain. Wait five minutes and compare the water in the two bottoms. Say: 'The yellow-brown water is called leachate. It is rain that has soaked through garbage and carried dissolved things down with it.'",
      "ref": "e2"
     },
     {
@@ -274,7 +274,7 @@
     "two small pieces of cloth",
     "soil from an old plant pot",
     "a used tea bag, turmeric, cooking oil, a few peels",
-    "a tumbler of water",
+    "two tumblers of water",
     "the diary and the scale"
    ],
    "prep": [
@@ -307,7 +307,7 @@
      "kind": "talk",
      "title": "Does burning make waste go away?",
      "mins": 9,
-     "do": "Ask: 'When someone burns a heap of dry leaves and plastic on the street, what is left?' (a small heap of ash). 'Where did the rest go?' Let your child think. Then say: 'Nothing is destroyed. The leaves and plastic join with oxygen from the air and become smoke, carbon dioxide, water vapour and other gases. The gases weigh as much as everything that went missing from the heap. So burning moves waste into the air we breathe. Burning plastic makes thick black smoke and harmful gases that can make people ill. That is why open burning of waste is banned in India.' Ask: 'Who breathes the smoke from a heap burnt on the corner?'"
+     "do": "Ask: 'When someone burns a heap of dry leaves and plastic on the street, what is left?' (a small heap of ash). 'Where did the rest go?' Let your child think. Then say: 'Nothing is destroyed. The leaves and plastic join with oxygen from the air and become smoke, carbon dioxide, water vapour and other gases. Oxygen from the air joins in, so the smoke and gases together weigh even more than what went missing from the heap. So burning moves waste into the air we breathe. Burning plastic makes thick black smoke and harmful gases that can make people ill. That is why open burning of waste is banned in India.' Ask: 'Who breathes the smoke from a heap burnt on the corner?'"
     },
     {
      "kind": "talk",
@@ -346,7 +346,7 @@
      "kind": "review",
      "title": "Weigh yesterday's waste",
      "mins": 4,
-     "do": "Do Activity a1. Weigh yesterday's wet bag and dry bag, as on Day 1, and write both numbers in the diary. Count any hazardous items and write the number. Then empty the bags into the right bins. This is the last weighing.",
+     "do": "Do Activity a1. Weigh yesterday's wet bag and dry bag, as on Day 1, and write both numbers in the diary. Count any hazardous items and write the number. Then empty the bags into the right bins.",
      "ref": "a1"
     },
     {
@@ -398,7 +398,7 @@
      "kind": "review",
      "title": "Add up the week",
      "mins": 8,
-     "do": "Do Activity a1. Add up the six wet weights and the six dry weights. Ask: 'What is our total? How many kilograms a day, on average?' (Divide the total by 6.) 'What part of it was wet?' Then ask: 'If every one of the 30 families in our building threw out the same, how much would the building make in a day?' Multiply together. Compare the totals with the guesses from Day 1.",
+     "do": "Do Activity a1. Weigh yesterday's bags one last time and write the numbers in. Then add up the six wet weights and the six dry weights. Ask: 'What is our total? How many kilograms a day, on average?' (Divide the total by 6.) 'What part of it was wet?' Then ask: 'If every one of the 30 families in our building threw out the same, how much would the building make in a day?' Multiply together. Compare the totals with the guesses from Day 1.",
      "ref": "a1"
     },
     {
@@ -568,7 +568,7 @@
      [
       {
        "t": "mcq",
-       "p": "Anjali poured water over turmeric, tea leaves and oil on top of soil in a bottle funnel. The water that came out was yellow and oily. What does this show?",
+       "p": "Anjali poured water over turmeric, tea leaves and oil on top of soil in a bottle funnel. The water that came out was yellow-brown. What does this show?",
        "opts": [
         "Rain carries dissolved things from garbage down through soil.",
         "Soil turns water yellow.",
@@ -909,17 +909,17 @@
     "two small pieces of cloth",
     "soil from an old plant pot",
     "a used tea bag",
-    "a spoon of turmeric",
+    "a pinch of turmeric",
     "five drops of cooking oil",
     "a few peel scraps",
-    "a tumbler of water"
+    "two tumblers of water"
    ],
    "steps": [
     "Put a piece of cloth in the neck of each top half. Turn each top half upside down into its bottom half, like a funnel in a cup.",
-    "Fill both funnels two-thirds full with soil.",
-    "On one funnel only, make a small heap of 'garbage': the tea leaves from the torn tea bag, the turmeric, the oil drops and the peel scraps.",
-    "Pour a quarter tumbler of water slowly over each funnel, like rain.",
-    "Wait three minutes. Hold both bottoms up to the light and compare the water.",
+    "Put soil in both funnels, about four fingers deep. Pour half a tumbler of water through each to wet the soil, then empty the bottoms. Dry soil would soak up all the rain.",
+    "On one funnel only, make a small heap of 'garbage': the tea leaves from the torn tea bag, the pinch of turmeric, the oil drops and the peel scraps.",
+    "Slowly pour one tumbler of water over each funnel, like rain.",
+    "Wait five minutes. Hold both bottoms up to the light and compare the water.",
     "Throw the water away. Do not drink it."
    ],
    "setup": [
@@ -932,7 +932,7 @@
      "caption": "2. Put 'garbage' on one funnel. Leave the other plain."
     },
     {
-     "art": "Water being poured from a steel tumbler onto the garbage heap, with yellow, oily water dripping into the bottle below, beside clearer water under the plain funnel.",
+     "art": "Water being poured from a steel tumbler onto the garbage heap, with yellow-brown water dripping into the bottle below, beside clearer water under the plain funnel.",
      "caption": "3. Pour water like rain, and compare what drips out."
     }
    ],
@@ -1112,7 +1112,7 @@
   "If our waste goes to a hill near someone else's home, who should decide where the hill goes?",
   "The people who clean up after a city are often paid the least. What would a fair city look like?",
   "Is it better for every home to compost its own waste, or for the city to do it in one big plant?",
-  "If a thing will last 500 years, should we use it for five minutes?"
+  "If a plastic bag can last hundreds of years, should we use it for five minutes?"
  ],
  "challenge": [
   {
@@ -1121,7 +1121,7 @@
   },
   {
    "q": "Burning waste makes it disappear.",
-   "hint": "Matter is never destroyed. Burnt waste joins with oxygen and becomes smoke, carbon dioxide, water vapour and other gases, plus a small heap of ash. The gases weigh as much as everything that went missing. Ask: if you could catch all the smoke from a burning heap, what would you find in it?"
+   "hint": "Matter is never destroyed. Burnt waste joins with oxygen and becomes smoke, carbon dioxide, water vapour and other gases, plus a small heap of ash. Because oxygen joins in, the smoke and gases weigh even more than what went missing from the heap. Ask: if you could catch all the smoke from a burning heap, what would you find in it?"
   },
   {
    "q": "A bag marked 'biodegradable' rots away in a home compost pot.",
@@ -1143,7 +1143,7 @@
   },
   {
    "who": "A waste picker in Bengaluru",
-   "view": "She starts at dawn and can tell at a glance which plastic sells and which does not. She knows more about the city's waste than most engineers do, but she is rarely asked. Ask: whose knowledge counts when a city plans what to do with waste?"
+   "view": "She starts at dawn and can tell at a glance which plastic sells and which does not. She knows a great deal about the city's waste, but the people who plan for it rarely ask her. Ask: whose knowledge counts when a city plans what to do with waste?"
   },
   {
    "who": "An earthworm in a compost pot",
@@ -1227,7 +1227,7 @@
   },
   {
    "q": "What is leachate, and why is it harmful?",
-   "a": "Leachate is the dirty liquid that drains out of garbage when rain soaks through it, as the yellow water did in the garbage heap test. It carries dissolved juices and harmful metals down into groundwater and into lakes and rivers."
+   "a": "Leachate is the dirty liquid that drains out of garbage when rain soaks through it, as the yellow-brown water did in the garbage heap test. It carries dissolved juices and harmful metals down into groundwater and into lakes and rivers."
   },
   {
    "q": "Does burning waste make it go away?",

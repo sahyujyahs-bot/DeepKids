@@ -119,7 +119,7 @@
      "kind": "talk",
      "title": "Interdependence",
      "mins": 8,
-     "do": "Say: 'When people or beings need each other, so that what happens to one affects the others, we call it interdependence.' Ask: 'If the water tanker did not come for three days, who in our building would feel it?' (Every family who uses the tank, the cook, the people who wash clothes.) Then turn it round. Ask: 'Who depends on us?' Good answers: the guard and the presswala depend on the money we pay them, the shop depends on our buying, a neighbour's child may depend on us to walk them to the bus, and the crow eats what falls from our balcony. Say: 'A neighbourhood is not a ladder with important people at the top. It is a web.'"
+     "do": "Say: 'When people or beings need each other, so that what happens to one affects the others, we call it interdependence.' Ask: 'If the water tanker did not come for three days, who in our building would feel it?' (Every family who uses the tank, the cook, the people who wash clothes.) Then turn it round. Ask: 'Who depends on us?' Good answers: the guard and the person who irons our clothes depend on the money we pay them, the shop depends on our buying, a neighbour's child may depend on us to walk them to the bus, and the crow eats what falls from our balcony. Say: 'A neighbourhood is not a ladder with important people at the top. It is a web.'"
     },
     {
      "kind": "read",
@@ -180,7 +180,7 @@
     }
    ],
    "need": [
-    "40 dry beans, chana or tamarind seeds in a bowl",
+    "60 dry beans, chana or tamarind seeds in a bowl",
     "paper and a pencil for scores"
    ]
   },
@@ -268,7 +268,7 @@
      "kind": "ws",
      "title": "Core worksheet",
      "mins": 15,
-     "do": "Do Worksheet ws1. Read each item aloud if needed. For the two 'write' items, your child can answer aloud while you write. For the item about the leaf bag, let your child look at the bag from yesterday again if they are unsure.",
+     "do": "Do Worksheet ws1. Read each item aloud if needed. For the two 'write' items, your child can answer aloud while you write. For the item about the leaf bag, remind your child what they saw in the bag yesterday.",
      "ref": "ws1"
     }
    ],
@@ -394,7 +394,7 @@
      "kind": "talk",
      "title": "Money is a promise",
      "mins": 10,
-     "do": "Show a ₹10 or ₹50 note. Ask your child to find the line that begins 'I promise to pay the bearer'. Say: 'The Reserve Bank of India prints notes, and its Governor signs this promise. The note itself is only paper. It works because everyone trusts that the next person will take it too.' Ask: 'What would happen in the market if nobody trusted notes any more?' Then say: 'Now many people pay with UPI on a phone. No paper changes hands. The money is numbers in bank records, and it works for the same reason: trust.' Ask: 'Who might find phone payments hard?' (Old people without smartphones, places with no network, people without bank accounts.)"
+     "do": "Show a ₹10 or ₹50 note. Ask your child to find the line that begins 'I promise to pay the bearer'. Say: 'The Reserve Bank of India issues our notes, and its Governor signs this promise. The note itself is only paper. It works because everyone trusts that the next person will take it too.' Ask: 'What would happen in the market if nobody trusted notes any more?' Then say: 'Now many people pay with UPI on a phone. No paper changes hands. The money is numbers in bank records, and it works for the same reason: trust.' Ask: 'Who might find phone payments hard?' (Old people without smartphones, places with no network, people without bank accounts.)"
     },
     {
      "kind": "talk",
@@ -446,7 +446,7 @@
      "kind": "talk",
      "title": "Nain Singh counts his steps",
      "mins": 8,
-     "do": "Say: 'About 160 years ago, the rulers of India wanted a map of Tibet, but foreigners were not allowed in. A schoolteacher from Kumaon named Nain Singh Rawat walked there in disguise. He trained himself to make every step the same length. He counted his steps with a string of 100 beads instead of the usual 108, moving one bead every 100 steps. He hid his notes inside a prayer wheel.' Ask: 'Why did every step have to be the same length?' (So the count of steps measured the distance.) Ask: 'How is that like our step map?' Then ask the other Day 1 story questions about Paati's Map."
+     "do": "Say: 'About 160 years ago, the British, who ruled India then, wanted a map of Tibet. But Tibet did not let foreigners in. A schoolteacher from Kumaon named Nain Singh Rawat walked there in disguise. He trained himself to make every step the same length. He counted his steps with a string of 100 beads instead of the usual 108, moving one bead every 100 steps. He hid his notes inside a prayer wheel.' Ask: 'Why did every step have to be the same length?' (So the count of steps measured the distance.) Ask: 'How is that like our step map?' Then ask the other Day 1 story questions about Paati's Map."
     },
     {
      "kind": "game",
@@ -464,7 +464,7 @@
    ],
    "prep": [
     {
-     "task": "Do steps 1 to 3 of Experiment e3: stand the pencil in dough on paper in a sunny spot and mark the first shadow tip with the time.",
+     "task": "About an hour before the lesson, do steps 1 to 3 of Experiment e3: stand the pencil in dough on paper in a sunny spot and mark the first shadow tip with the time.",
      "when": "morning"
     }
    ]
@@ -787,8 +787,7 @@
        "p": "In Robert Axelrod's contest, the winning plan was: share first, then ____ what the other player did last time.",
        "a": [
         "copy",
-        "repeat",
-        "do"
+        "repeat"
        ]
       },
       {
@@ -892,7 +891,7 @@
    "steps": [
     "Water the plant well the night before.",
     "In the morning, slip one clear bag over a leafy branch, so that only leaves are inside, not soil. Tie the bag's mouth gently round the stem with a rubber band.",
-    "Blow a little air into the second bag, tie it shut and put it next to the plant. This is the empty bag to compare with.",
+    "Open the second bag by waving it through the air, tie it shut and put it next to the plant. This is the empty bag to compare with.",
     "Put the plant in the sun. Ask your child to guess what they will see inside each bag after a few hours, and write the guess.",
     "After 2 to 3 hours, look at both bags. Touch the inside of the plant's bag with a finger.",
     "Take the bag off the branch so the leaves don't get too hot."
@@ -941,7 +940,7 @@
     "a phone with a compass app, if you have one"
    ],
    "steps": [
-    "Tape the paper flat in the sunny spot. Stand the pencil upright in the dough in the middle of the paper.",
+    "Tape the paper flat in the sunny spot. Stand the pencil upright in the dough in the middle of the paper. Do this about an hour before the lesson.",
     "Mark the tip of the pencil's shadow with a dot. Write '1' and the time next to it.",
     "Leave everything exactly where it is for 45 minutes to an hour.",
     "Before marking again, ask your child where they think the shadow tip will be now.",
@@ -976,7 +975,7 @@
    ],
    "predict": "Ask: 'Which will move more people in 10 minutes along our road, cars or buses? Why do you think so?' Write the guess.",
    "observe": "On most city roads, many more cars pass than buses. But each bus carries so many people that a few buses often move as many people as all the cars together, while taking much less road. On a quiet lane with no buses, compare walking with cars instead.",
-   "why": "A road has only so much space. A car about 4 metres long usually carries 1 or 2 people. A bus about 12 metres long can carry 40 to 50. So a bus moves many more people for each metre of road, and uses less fuel for each person. That is why cities with good buses and metros have fewer jams. People still choose cars because a car goes door to door, and a bus may be late or crowded. The numbers in step 5 are typical. They change from road to road.",
+   "why": "A road has only so much space. A car about 4 metres long usually carries 1 or 2 people. A bus about 12 metres long can carry 40 to 50. So a bus moves many more people for each metre of road, and uses less fuel for each person. That is why good buses and metros let a city move many more people on the same roads. People still choose cars because a car goes door to door, and a bus may be late or crowded. The numbers in step 5 are typical. They change from road to road.",
    "safety": "Count from inside a balcony, a window or a gate. An adult stays with the child. Never stand on the road.",
    "time": "15 min"
   }
@@ -993,7 +992,7 @@
     "a pencil"
    ],
    "steps": [
-    "Write one role on each slip: milk seller, vegetable farmer, water tanker driver, building guard, electrician, cook, bus driver, shopkeeper, doctor, garbage collector, presswala, teacher, crow on the water tank, neem tree by the gate, ants in the kitchen, our family.",
+    "Write one role on each slip: milk seller, vegetable farmer, water tanker driver, building guard, electrician, cook, bus driver, shopkeeper, doctor, garbage collector, the person who irons clothes, teacher, crow on the water tank, neem tree by the gate, ants in the kitchen, our family.",
     "Share the slips out so each person holds two or three. In a small family, put the extra slips on chairs round you.",
     "The person with the ball names a role they depend on and says why: 'Our family depends on the milk seller for milk.' They keep hold of the end and pass the ball to that role.",
     "Keep passing until every role holds at least two strings.",
@@ -1008,7 +1007,7 @@
    "day": 2,
    "mins": 15,
    "need": [
-    "40 dry beans, chana or tamarind seeds in a bowl",
+    "60 dry beans, chana or tamarind seeds in a bowl",
     "paper and a pencil"
    ],
    "steps": [
@@ -1145,7 +1144,7 @@
   },
   {
    "id": "v4",
-   "who": "Saalumarada Thimmakka (born about 1911), Karnataka, India",
+   "who": "Saalumarada Thimmakka (about 1911–2025), Karnataka, India",
    "idea": "Thimmakka and her husband Chikkaiah worked as labourers. They planted banyan saplings along about 4 kilometres of road between the villages of Hulikal and Kudur. They carried water to the saplings in pots and protected them from cattle with thorny fences, until the trees could look after themselves. They raised 385 trees. People named her Saalumarada, which means row of trees in Kannada.",
    "then": "For many years the work was known only to the people who used the road.",
    "now": "The banyans still shade the road. Thimmakka became famous across India and received the Padma Shri in 2019. Studies of city streets agree that rows of shade trees keep roads and the air under them cooler on hot days.",

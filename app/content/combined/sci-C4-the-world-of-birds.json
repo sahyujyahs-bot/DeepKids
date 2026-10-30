@@ -205,7 +205,7 @@
      "kind": "talk",
      "title": "A hot body needs fuel",
      "mins": 7,
-     "do": "Ask: 'Why does a sparrow seem to eat all day?' Wait for a guess. Say: 'Birds are warm-blooded. They make their own body heat from food. A bird's body is about 41 degrees Celsius, warmer than ours at 37. Flying and staying warm burn a lot of food, so small birds must eat often. On a cold night, a small bird can burn up much of the fat they stored during the day.' Ask: 'What does that tell us about a bird bowl of water or a tree full of fruit near our home?'"
+     "do": "Ask: 'Why does a sparrow seem to eat all day?' Wait for a guess. Say: 'Birds are warm-blooded. They make their own body heat from food. A bird's body is about 41 degrees Celsius, warmer than ours at 37. Flying and staying warm burn a lot of food, so small birds must eat often. On a cold night, a small bird can burn up much of the fat they stored during the day.' Ask: 'How could a bowl of water or a fruit tree near our home help a small bird?'"
     },
     {
      "kind": "ws",
@@ -219,7 +219,7 @@
     "two sheets of the same notebook paper",
     "sticky tape",
     "two thick books the same height",
-    "a small plastic bag with a handle, and thread",
+    "a small plastic bag with a handle, thread, a strip of card and a ruler",
     "about 50 coins, or dry rice and a spoon",
     "worksheet ws1"
    ]
@@ -246,7 +246,7 @@
      "kind": "do",
      "title": "The parts of an egg",
      "mins": 12,
-     "do": "If your family uses eggs, a grown-up cracks one raw egg gently onto a white plate. If not, draw an egg cut in half, large, on paper. Point to each part and say its job. 'The yellow yolk is food for the growing chick. The white, called albumen, gives water and protein and cushions the yolk. The two twisted white cords are called chalazae, and they hold the yolk in the middle. Inside the shell is a thin skin, the shell membrane.' Then look at the broad end of the boiled egg from e3 after peeling: there is a small empty space. Say: 'This is the air cell. Just before hatching, the chick pokes her beak into it and takes her first breath of air.' Ask: 'Why do you think the yolk needs to be held in the middle?' Wash hands after touching raw egg."
+     "do": "If your family uses eggs, a grown-up cracks one raw egg gently onto a white plate. If not, draw an egg cut in half, large, on paper. Point to each part and say its job. 'The yellow yolk is food for the growing chick. The white, called albumen, gives water and protein and cushions the yolk. The two twisted white cords are called chalazae, and they hold the yolk in the middle. Inside the shell is a thin skin, the shell membrane.' Then look again at the dent at the broad end of the peeled boiled egg from e3. Say: 'This is the air cell. Just before hatching, the chick pokes her beak into it and takes her first breath of air.' Ask: 'Why do you think the yolk needs to be held in the middle?' Wash hands after touching raw egg."
     },
     {
      "kind": "talk",
@@ -301,7 +301,7 @@
     }
    ],
    "need": [
-    "a clothes peg and a pair of tweezers, or two toothpicks held like chopsticks",
+    "a clothes peg and two toothpicks",
     "a cup of raw rice and a cup of dry chana or rajma",
     "a plate",
     "a timer",
@@ -368,7 +368,7 @@
      "title": "The dinosaur to bird timeline",
      "mins": 10,
      "ref": "a4",
-     "do": "Do Activity a4. When the string is laid out, ask: 'Where would you put yourself?' Point out that all of human history fits in the last few millimetres. Say: 'Feathered dinosaurs who could not fly lived long before the first flying birds. So feathers came first, probably for warmth and for display, and flight came later.'"
+     "do": "Do Activity a4. When the string is laid out, ask: 'Where would you put yourself?' Point out that all of human history fits in the last few millimetres. Say: 'Feathered dinosaurs who could not fly lived before the first flying birds. So feathers came first, probably for warmth and for display, and flight came later.'"
     },
     {
      "kind": "talk",
@@ -743,7 +743,7 @@
         "Birds came from dinosaurs.",
         "Some dinosaurs had feathers but could not fly.",
         "Birds can sense the Earth's magnetism.",
-        "Exactly which part of a bird senses magnetism.",
+        "Which part of a bird's body senses magnetism.",
         "Whether flight began with gliding from trees or running up slopes.",
         "A medicine in dead cattle killed most of India's vultures."
        ],
@@ -883,7 +883,7 @@
     "sticky tape",
     "two thick books of the same height",
     "a small plastic bag with handles",
-    "a short piece of thread",
+    "a short piece of thread, a strip of card about 3 centimetres wide, and a ruler",
     "about 50 coins of one kind, or a small cup of dry rice and a spoon"
    ],
    "steps": [
@@ -906,7 +906,7 @@
    "day": 4,
    "question": "Can air pass through an eggshell?",
    "need": [
-    "one raw egg at room temperature, and one boiled egg",
+    "one raw egg, cold from the fridge if you can, and one boiled egg",
     "a clear glass bowl",
     "warm water: half hot water from the kettle and half tap water",
     "a spoon"
@@ -954,7 +954,7 @@
    "mins": 22,
    "need": [
     "a clothes peg (a big, deep beak)",
-    "a pair of tweezers, or two toothpicks held like chopsticks (a small, thin beak)",
+    "two toothpicks held like chopsticks (a small, thin beak)",
     "a cup of raw rice (small soft seeds)",
     "a cup of dry chana or rajma (big hard seeds)",
     "a plate",
@@ -963,9 +963,9 @@
    ],
    "steps": [
     "Lay out 10 bird cards: 5 BIG-beak birds and 5 SMALL-beak birds. Each card is one finch on the island.",
-    "Round 1, a normal year: spread a mix of rice and chana on the plate. Your child uses the tweezers for 20 seconds and counts the seeds picked up, then the peg for 20 seconds. Write both counts.",
+    "Round 1, a normal year: spread a mix of rice and chana on the plate. Your child uses the toothpicks for 20 seconds and counts the seeds picked up, then the peg for 20 seconds. Write both counts.",
     "Round 2, the drought: put only chana on the plate. Test each beak again for 20 seconds and write the counts.",
-    "Rule: a beak that picks up at least 5 seeds in a round survives. If a beak gets fewer than 5, remove 2 cards of that beak. If a beak gets 5 or more, add 1 new card of the same beak, a chick like the parent.",
+    "Rule: compare the two counts. The beak that picked up more seeds did better: add 1 new card of that beak, a chick like the parent. The beak that picked up fewer starved: remove 2 cards of that beak. If the counts are equal, play the round again. A beak with no cards left has died out on the island.",
     "Play three drought rounds, using the rule after each one. Count the BIG and SMALL cards after every round and write them down.",
     "Look at the numbers. Ask: which beak is now most common, and did any card change from SMALL to BIG?"
    ],
@@ -1186,7 +1186,7 @@
   "A bird's body solves many problems at once. If one part of a bird changed, which other parts would have to change too?",
   "No finch changed their own beak, yet the finches changed. Who or what did the choosing?",
   "Kuyil needed no teacher, but a young sparrow does. Which things do you know without learning, and which did you have to learn?",
-  "Birds have been flying for over 150 million years, and people for about 120. What could people still learn from birds?",
+  "Birds have been flying for over 150 million years, and people have flown aeroplanes for about 120. What could people still learn from birds?",
   "When the vultures vanished, people suffered too. What other living things might we need without knowing it?"
  ],
  "challenge": [
@@ -1218,7 +1218,7 @@
   },
   {
    "who": "A vulture",
-   "view": "To a vulture, a dead cow is a meal and the job of cleaning up a village. Ask: why did people once think vultures were ugly, and what do they think now?"
+   "view": "For a vulture, a dead cow is a meal. A flock of vultures can strip a dead cow to the bones within an hour, so nothing is left to rot. Ask: what happens to a dead cow in a village with no vultures?"
   }
  ],
  "voices": [
@@ -1330,7 +1330,7 @@
  "story": {
   "title": "Across the water",
   "text": [
-   "I was born in a hole in a dead tree, beside a wide river that the people there call the Amur. My mother and father were small falcons with orange legs. They brought us beetles and grasshoppers all summer, and by the end of summer I could catch my own.",
+   "I was born in an old magpie's nest high in a tree, beside a wide river that the people there call the Amur. My mother and father were small falcons with orange legs. They brought us beetles and grasshoppers all summer, and by the end of summer I could catch my own.",
    "Then the nights grew cold. The insects grew fewer. One morning my mother lifted off and did not circle back. Others were leaving too, hundreds of us, flying south and west. I did not decide to go. My wings decided. Something in me knew the direction, the way your feet know the stairs in the dark.",
    "We flew for weeks. In the day the Sun showed us the way. At night, when we flew, there were the stars. When clouds hid both, I could still feel the direction somewhere behind my eyes, faint and steady, like a hum.",
    "In October we came down over green hills in a place the people call Nagaland. Below was a long lake held back by a dam, the Doyang. The trees around it were black with falcons. I had never seen so many of my own kind. Thousands landed each evening, and the branches bent.",
@@ -1348,7 +1348,7 @@
    "I climbed again with the wind behind me. I flew another night.",
    "On the next morning there was a brown line at the edge of the world. It grew. It became cliffs, and sand, and thorn trees. I came down on a branch in a land I had never seen, and my feet held on, and I slept.",
    "Later we flew on south, through the grasslands, to where the summer rains were beginning, and the insects were rising from the ground again.",
-   "Next year, when the nights grow cold here, I will turn north and east. I will cross the sea again, and come down over the green hills, by the long lake. I wonder if the girl in the red shawl will be on the hill, still counting, still crossing out the numbers and trying again."
+   "Next year, when the nights grow cold here, I will turn north and east. I will cross the sea again and fly home to the wide river. In the autumn after that, I will come down over the green hills, by the long lake. I wonder if the girl in the red shawl will be on the hill, still counting, still crossing out the numbers and trying again."
   ],
   "epiphany": "A small bird can cross thousands of kilometres of open sea because she carries her fuel as fat, flies with the wind behind her, and finds her way with the Sun, the stars and a magnetic sense. The turn is the moment over the sea when she finds food in the air. The true facts behind the story: Amur falcons breed around the Amur river, gather in huge numbers near the Doyang reservoir in Nagaland each October and November, feed on winged termites there, and then cross the Arabian Sea to Africa without landing. Villages that once trapped them now protect them. Globe skimmer dragonflies also cross that sea, and some scientists think the falcons feed on them on the way, but this has not been proven.",
   "ask": [

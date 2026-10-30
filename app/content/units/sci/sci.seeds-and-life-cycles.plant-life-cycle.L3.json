@@ -918,36 +918,23 @@
    "items": [
     {
      "t": "order",
-     "p": "Put these stages of a moong plant's life in order, starting with the seed: flower, seedling, seed, pod, grown plant.",
+     "p": "A moong plant's life goes round in a circle. Put these stages in order, starting with the flower.",
      "items": [
+      "flower",
+      "pod",
       "seed",
       "seedling",
-      "grown plant",
-      "flower",
-      "pod"
+      "grown plant"
      ],
      "a": "order shown",
-     "why": "A seed sprouts into a seedling. The seedling grows into a grown plant. The plant makes flowers, and each flower can grow into a pod full of new seeds."
+     "why": "The flower grows into a pod. The pod holds seeds. A seed sprouts into a seedling, and the seedling grows into a grown plant, which makes flowers again. A cycle can start at any stage."
     },
     {
-     "t": "mcq",
-     "p": "Why is it called a life CYCLE?",
-     "opts": [
-      "Because plants grow fast, like a bicycle",
-      "Because the new seeds start the same stages again, so it goes round in a circle",
-      "Because it happens once and then stops",
-      "Because plants move in circles to follow the Sun"
-     ],
-     "a": 1,
-     "why": "The last stage, new seeds, is also the first stage of the next plant. So it goes round. Picking 'happens once and then stops' usually means thinking of one plant only. One plant does die, but their seeds carry on the cycle."
-    },
-    {
-     "t": "fill",
-     "p": "A fruit grows from a ____.",
-     "a": [
-      "flower"
-     ],
-     "why": "After pollen reaches the middle of the flower, its petals fall and its base swells into the fruit."
+     "t": "write",
+     "p": "Saranya says a plant's life is a straight line, from a seed to the day the plant dies. Her friend Malar says it is a circle. Who is right? Explain.",
+     "lines": 4,
+     "a": "Both have a point, but Malar is closer. One plant's life does end when they die. But before they die, they make seeds, and each seed can grow into a new plant that goes through the same stages. So the stages go round and round.",
+     "why": "A strong answer agrees that one plant dies, and then explains that their seeds carry the stages on. That is why it is called a life cycle."
     },
     {
      "t": "mcq",
@@ -1003,22 +990,26 @@
      "why": "A fruit grows from a flower and holds seeds. Tomatoes, bhindi, chillies and pea pods all have seeds inside. A potato is a swollen stem, a carrot is a root and palak is a leaf."
     },
     {
-     "t": "truefalse",
-     "p": "The green star on top of a tomato was part of the tomato's flower.",
-     "a": true,
-     "why": "True. The green star is made of the sepals, the small green leaves that wrapped the flower bud. They stay on while the fruit grows."
+     "t": "fill",
+     "p": "Moving pollen from one flower to the middle of another flower is called ____.",
+     "a": [
+      "pollination"
+     ],
+     "why": "Bees, butterflies, birds and the wind move pollen. Without pollination, most flowers fall off without making a fruit."
     },
     {
      "t": "mcq",
-     "p": "What is a seedling?",
+     "p": "You tag a bhindi flower with a thread. Six days later, what will you most likely find on that spot?",
      "opts": [
-      "A very young plant that has just come out of their seed",
-      "A seed that has not been planted",
-      "A plant that is about to flower",
-      "A dead plant"
+      "The same flower, still open",
+      "A young bhindi pod",
+      "A new leaf",
+      "Nothing at all"
      ],
-     "a": 0,
-     "why": "A seedling has just sprouted, with a tiny root, a short stem and their first leaves. Picking 'a seed that has not been planted' mixes up the seed and the seedling. The seedling comes after the seed wakes up."
+     "a": 1,
+     "why": "A bhindi flower opens for one morning. Then its petals fall and its base grows into a pod, about a finger long after five or six days. Picking 'the same flower' means thinking flowers last a long time. Many last only a day. Some tagged flowers do fall off with no pod, which is normal.",
+     "context": "In the Flower to Fruit experiment, you tie a loose thread around the stalk of an open flower, so you can find it again every day.",
+     "how": "e1"
     },
     {
      "t": "match",
@@ -1049,16 +1040,10 @@
      "why": "Each stage has its own job. Together they make the whole circle."
     },
     {
-     "t": "mcq",
-     "p": "Where does a growing plant get most of their food?",
-     "opts": [
-      "They eat soil through their roots",
-      "Their green leaves make food from air and water, using sunlight",
-      "From the seed, for their whole life",
-      "From rain only"
-     ],
-     "a": 1,
-     "why": "Green leaves make sugar from carbon dioxide and water, using sunlight. This is called photosynthesis. Picking 'eats soil' is a very common idea. But the soil gives only water and small amounts of minerals. Picking 'from the seed' is true only for the first few days."
+     "t": "truefalse",
+     "p": "A seedling's very first food comes from inside the seed.",
+     "a": true,
+     "why": "True. A seed carries a store of food for the baby plant. Once their green leaves open, the seedling starts making their own food from air and water, using sunlight."
     },
     {
      "t": "fill",
@@ -1067,32 +1052,6 @@
       "annual"
      ],
      "why": "Moong, rice and marigold are annuals. Plants that live for many years are called perennials."
-    },
-    {
-     "t": "truefalse",
-     "p": "Every new plant must grow from a seed.",
-     "a": false,
-     "why": "False. Potatoes grow from their eyes, onions from bulbs, money plants from cuttings and bananas from shoots at the base of the old plant."
-    },
-    {
-     "t": "mcq",
-     "p": "You tag a bhindi flower with a thread. Six days later, what will you most likely find on that spot?",
-     "opts": [
-      "The same flower, still open",
-      "A young bhindi pod",
-      "A new leaf",
-      "Nothing at all"
-     ],
-     "a": 1,
-     "why": "A bhindi flower opens for one morning. Then its petals fall and its base grows into a pod, about a finger long after five or six days. Picking 'the same flower' means thinking flowers last a long time. Many last only a day. Some tagged flowers do fall off with no pod, which is normal.",
-     "context": "In the Flower to Fruit experiment, you tie a loose thread around the stalk of an open flower, so you can find it again every day.",
-     "how": "e1"
-    },
-    {
-     "t": "draw",
-     "p": "Draw the life cycle of a moong plant as a circle with arrows. Label each stage.",
-     "a": "A circle with five or six stages joined by arrows: seed, seedling, grown plant, flower, pod, and back to seed.",
-     "why": "A good drawing joins the last stage back to the first one. That is what makes it a cycle."
     },
     {
      "t": "mcq",
@@ -1115,10 +1074,56 @@
     },
     {
      "t": "draw",
-     "p": "Draw a pumpkin flower from the back. Show the tiny pumpkin behind the petals.",
-     "a": "A yellow flower with a small green ball where it joins its stalk.",
-     "why": "Female pumpkin flowers have a tiny baby pumpkin behind them, even before pollen arrives.",
-     "art": "An empty box with the outline of a big yellow flower seen from the side."
+     "p": "Draw the life cycle of a moong plant as a circle with arrows. Label each stage.",
+     "a": "A circle with five or six stages joined by arrows: seed, seedling, grown plant, flower, pod, and back to seed.",
+     "why": "A good drawing joins the last stage back to the first one. That is what makes it a cycle."
+    },
+    {
+     "t": "perspective",
+     "p": "Gowri's family grows bhindi in a pot on their balcony. They disagree about when to pick the bhindi.",
+     "views": [
+      {
+       "who": "Amma, Gowri's mother, who cooks",
+       "says": "Pick every bhindi while they are young, about a finger long. Old bhindi are hard and stringy to eat."
+      },
+      {
+       "who": "Paati, Gowri's grandmother, who saves seeds",
+       "says": "Leave a few pods on the plant until they turn dry and brown. Then we have seeds to sow next year."
+      },
+      {
+       "who": "Gowri, aged 8",
+       "says": "If we pick them young, the plant makes more flowers. So we get more bhindi."
+      }
+     ],
+     "ask": "What would you do with your bhindi plant? Give a reason from the life cycle. Then say one thing another person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a plan and explains it with the life cycle. For example: pick most pods young to eat, as Amma and Gowri say, but leave two or three to ripen for seeds, as Paati says. It explains that a ripe pod holds the seeds that start the next cycle.",
+     "why": "There is a real trade-off. Young pods are best to eat, and picking them often makes the plant keep flowering. But only a pod left to ripen gives seeds for next year."
+    },
+    {
+     "t": "mcq",
+     "p": "Thenmozhi finds a pumpkin flower with no tiny green ball behind the petals. Will this flower turn into a pumpkin?",
+     "opts": [
+      "Yes, if a bee visits",
+      "No. It is a male flower: it makes pollen, but no fruit",
+      "Yes, every flower becomes a fruit"
+     ],
+     "a": 1,
+     "why": "A pumpkin plant has two kinds of flower. The female flower has a tiny green pumpkin behind the petals. The male flower has none, and only makes pollen. Picking 'if a bee visits' misses that there is nothing in this flower to grow into a pumpkin."
+    },
+    {
+     "t": "draw",
+     "p": "Cut a tomato across the middle. Draw what you see. Label the seeds, and the green star on top. What was the green star before the fruit grew?",
+     "a": "A circle with seeds in jelly, in two or more parts. The green star is labelled 'sepals'. They wrapped the flower bud before it opened.",
+     "why": "The tomato's seeds and their green star both show that the fruit was once a flower.",
+     "art": "An empty box with a faint outline of a tomato cut in half."
+    },
+    {
+     "t": "write",
+     "p": "Look at one plant in your home or on your street today. Which stage of their life cycle are they in? What clues tell you?",
+     "lines": 3,
+     "a": "Any honest answer with a clue. For example: the tulsi on our balcony is a grown plant that is flowering, because they have thin purple flower spikes. Some spikes are dry and brown, so they may have seeds.",
+     "why": "A strong answer names a stage and gives a clue the child really saw."
     }
    ]
   },
@@ -1228,66 +1233,13 @@
      "how": "e1"
     },
     {
-     "t": "mcq",
-     "p": "You tagged 5 flowers on a chilli plant. After a week, only 3 had become baby chillies. The other 2 fell off. What does this mean?",
-     "opts": [
-      "The experiment went wrong",
-      "Not every flower becomes a fruit. Some fall, often when pollen does not reach them, or when the plant is too hot or short of water.",
-      "The plant is dying",
-      "Chillies only make fruit at night"
-     ],
-     "a": 1,
-     "why": "Plants make more flowers than they can turn into fruit. Some flowers do not get pollen, and some drop in very hot or dry weather. Picking 'the experiment went wrong' is a common worry. But a flower falling off is a real result, and worth writing down.",
-     "context": "In the Flower to Fruit experiment, you tie threads on open flowers and check them every day for a week.",
+     "t": "write",
+     "p": "Ammu tagged 10 brinjal flowers in a very hot week in May. Only 2 became brinjals. Her friend Farhan tagged 10 brinjal flowers in cool December, and 7 became brinjals. Give a reason for the difference.",
+     "lines": 3,
+     "a": "In great heat, many plants drop their flowers, and pollen can stop working. Fewer insects may visit in the hottest hours too. In cool December the plant was not stressed, so more flowers got pollen and grew into fruits.",
+     "why": "A strong answer links the season to the flower falling, and knows that a flower must get pollen to become a fruit.",
+     "context": "In the Flower to Fruit experiment, you tie a loose thread around the stalk of an open flower, so you can find it again every day.",
      "how": "e1"
-    },
-    {
-     "t": "mcq",
-     "p": "Look at the chart of five pea pods. How many peas did Pod 4 have?",
-     "opts": [
-      "6",
-      "7",
-      "8",
-      "5"
-     ],
-     "a": 2,
-     "why": "Pod 4's bar reaches up to 8. Picking 6 usually means reading the bar next to it.",
-     "context": "In the Inside the Fruit experiment, you open fruits from the kitchen and count the seeds inside. Peas are the seeds of a pea pod.",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up example: peas counted in five pea pods",
-      "x": "Pod",
-      "y": "Number of peas",
-      "data": [
-       {
-        "label": "Pod 1",
-        "value": 6,
-        "emoji": "🫛"
-       },
-       {
-        "label": "Pod 2",
-        "value": 7,
-        "emoji": "🫛"
-       },
-       {
-        "label": "Pod 3",
-        "value": 5,
-        "emoji": "🫛"
-       },
-       {
-        "label": "Pod 4",
-        "value": 8,
-        "emoji": "🫛"
-       },
-       {
-        "label": "Pod 5",
-        "value": 6,
-        "emoji": "🫛"
-       }
-      ],
-      "note": "These numbers are made up. Your pods will be different."
-     },
-     "how": "e2"
     },
     {
      "t": "fill",
@@ -1361,48 +1313,23 @@
      "why": "Moong takes 2 to 3 months, rice about 4 months, a mango tree 5 to 8 years before their first fruit, and neelakurinji 12 years to flower."
     },
     {
-     "t": "mcq",
-     "p": "In the 1600s, van Helmont grew a willow tree in a pot for five years. The tree gained about 75 kilograms. The soil lost only about 60 grams. Where did most of the tree come from?",
-     "opts": [
-      "From the soil",
-      "From water and carbon dioxide in the air",
-      "From the pot",
-      "From fertiliser"
-     ],
-     "a": 1,
-     "why": "The soil hardly changed, so the tree did not come from soil. We now know it was built from water and carbon dioxide from the air, using sunlight. Picking 'from the soil' is what nearly everyone expects, and it is exactly what this test disproved."
+     "t": "write",
+     "p": "In the 1600s, van Helmont grew a willow tree in a pot for five years. The tree gained about 74 kilograms. The soil lost only about 57 grams. What does this show? What did van Helmont himself get wrong?",
+     "lines": 4,
+     "a": "It shows that the tree's body did not come from the soil, because the soil hardly changed. Van Helmont decided the tree was made from water alone. He missed the air. Most of a tree's dry body is built from carbon dioxide in the air, joined with water using sunlight.",
+     "why": "A strong answer uses the numbers as evidence, then says that water was only part of the answer. Most people today still guess 'the soil'."
     },
     {
      "t": "mcq",
-     "p": "You put leaf circles in a glass of water with a pinch of baking soda. One glass is in bright light, one in a dark cupboard. Look at the chart. Why did the circles in the light float?",
+     "p": "Indu does the Floating Leaves test again, but forgets the pinch of baking soda. In bright light, hardly any leaf circles float. Why?",
      "opts": [
-      "The light made them lighter",
-      "The leaves made oxygen gas while making food, and the bubbles lifted them",
-      "The water got hot and boiled",
-      "The dark glass had more water"
+      "Baking soda gives the water carbon dioxide, which the leaf needs to make food and oxygen",
+      "Baking soda makes leaves lighter",
+      "The water was too cold"
      ],
-     "a": 1,
-     "why": "In light, leaves make sugar and give out oxygen. Tiny bubbles of oxygen gather inside the leaf circles, and lift them up. In the dark, no food is made, so they stay down. Picking 'the light made them lighter' is a fair guess. But light does not make anything lighter. It gives the leaf the energy to make oxygen.",
-     "context": "In the Floating Leaves experiment, you push the air out of small circles of palak leaf so they sink. Then you watch them in bright light and in the dark.",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up example: leaf circles floating after 20 minutes (out of 10 in each glass)",
-      "x": "Glass",
-      "y": "Leaf circles floating",
-      "data": [
-       {
-        "label": "In bright light",
-        "value": 9,
-        "emoji": "☀️"
-       },
-       {
-        "label": "In a dark cupboard",
-        "value": 0,
-        "emoji": "🌑"
-       }
-      ],
-      "note": "These numbers are made up, to show what often happens. Your numbers will be different."
-     },
+     "a": 0,
+     "why": "To make food, a leaf needs carbon dioxide as well as light. Baking soda gives off carbon dioxide into the water. Without it, the leaf can make very little oxygen, so few bubbles lift the circles. Picking 'makes leaves lighter' misses that the bubbles are what lift them.",
+     "context": "In the Floating Leaves experiment, you push the air out of small circles of palak leaf so they sink, in water with a pinch of baking soda. Then you watch them in bright light.",
      "how": "e4"
     },
     {
@@ -1479,11 +1406,33 @@
      "why": "Starting with the fruit shows the child understands that a cycle can start at any stage."
     },
     {
+     "t": "perspective",
+     "p": "The neem tree outside Shanthi's building drops hundreds of fruits every year. Almost none of them grow into new trees.",
+     "views": [
+      {
+       "who": "Shanthi, aged 9",
+       "says": "The tree wastes almost all their fruits. Making so many is pointless."
+      },
+      {
+       "who": "Shanthi's grandmother",
+       "says": "Nothing is wasted. Birds and squirrels eat the fruits, and the fallen ones rot and feed the soil."
+      },
+      {
+       "who": "A botanist, a scientist who studies plants",
+       "says": "Making many seeds is how a tree makes sure that a few of them land in a good place and grow."
+      }
+     ],
+     "ask": "Is the neem tree wasteful? Pick a side and give your evidence. Then answer back from another side.",
+     "lines": 5,
+     "a": "A strong answer picks a side with evidence. For Shanthi: each fruit costs the tree food to make, and most never grow. For the grandmother: the fruits feed birds, and their atoms go back to the soil for other plants. For the botanist: most seeds fail, so a tree that makes many seeds is more likely to have a few young trees. A strong answer then gives another side its due.",
+     "why": "This is a real trade-off. Fruits cost a tree a lot to make, but most seeds never find a good place to grow. Many plants make huge numbers of seeds, and the fruits that don't grow still feed other living beings."
+    },
+    {
      "t": "draw",
-     "p": "Draw a tomato and label the green star. Then draw the flower it came from.",
-     "a": "A tomato with its green star of sepals on top, and a small yellow star-shaped flower with green sepals behind its petals.",
-     "why": "The sepals that wrapped the flower bud stay on as the tomato grows.",
-     "art": "Two empty boxes side by side, one labelled 'fruit' and one labelled 'flower'."
+     "p": "Draw a bar chart of how long these plants take to go from sowing a seed to their first new seeds: moong 3 months, rice 4 months, tomato 4 months, papaya 10 months. Label the bottom line and the side line.",
+     "a": "Four bars. Moong 3 squares, rice 4, tomato 4, papaya 10. The bottom line says 'Plant' and the side line says 'Months'.",
+     "why": "A bar chart shows at a glance that papaya takes much longer than the others. The times are rounded, and real plants vary with the weather.",
+     "art": "Empty squared graph paper with a bottom line and a side line numbered 0 to 12."
     }
    ]
   },
@@ -1519,22 +1468,11 @@
      "why": "Each seed gets instructions from both parents, so they can be a little different. That is why farmers grow their best mangoes by joining a twig of the sweet tree onto a young tree. This makes a copy. Picking 'yes, always' is a natural guess, since a mango seed always grows a mango tree. But the mangoes on the new tree can be different."
     },
     {
-     "t": "truefalse",
-     "p": "Scientists know exactly how bamboo counts 48 years before flowering.",
-     "a": false,
-     "why": "False. It is an open question. Nobody has found the bamboo's clock."
-    },
-    {
-     "t": "mcq",
-     "p": "When a big tree burns, only a small heap of ash is left. Where did the rest of the tree go?",
-     "opts": [
-      "Back into the air, as carbon dioxide and water vapour",
-      "It vanished completely",
-      "Down into the soil",
-      "It all turned into the ash"
-     ],
-     "a": 0,
-     "why": "Burning turns the tree's carbon and water back into gases. The tree was built mostly from air and water, and fire sends it back there. The ash is the small part that came from the soil. Picking 'vanished completely' usually means thinking matter can disappear. It cannot. It changes form."
+     "t": "write",
+     "p": "When a big tree burns, only a small heap of ash is left. Where did the rest of the tree go? What does this tell you about what the tree was made of?",
+     "lines": 4,
+     "a": "Most of the tree went back into the air, as carbon dioxide and water vapour. The ash is the small part that came from the soil, the minerals. This shows the tree was built mostly from air and water, and burning sends it back there.",
+     "why": "A strong answer says the wood did not vanish. The wood changed into gases. Matter cannot disappear. It changes form."
     },
     {
      "t": "mcq",
@@ -1549,11 +1487,26 @@
      "why": "In 2001, scientists found that the heat keeps away mammals, which chew the seeds. The hot taste does not burn birds, so they eat the chillies and carry the seeds far away. Picking 'birds like spicy food' misses the point. Birds do not taste the burn at all."
     },
     {
-     "t": "write",
-     "p": "Moong is an annual: they live one season, make seeds and die. A mango tree can live for a hundred years or more. Which is the better way to live? Give one good reason for each.",
-     "lines": 4,
-     "a": "A balanced answer. For example: moong is quick, so they can make lots of seeds before the dry season comes. A mango tree takes years to start, but then they give fruit every year and grow big and strong.",
-     "why": "There is no single right answer. Both ways work, in different places and seasons."
+     "t": "perspective",
+     "p": "Plants live their lives in very different ways. Imagine three of them could speak.",
+     "views": [
+      {
+       "who": "A moong plant",
+       "says": "I live fast. In about 3 months I make around 200 seeds, before the dry season comes."
+      },
+      {
+       "who": "A mango tree",
+       "says": "I take years to make my first fruit. But then I fruit every summer for a hundred years."
+      },
+      {
+       "who": "A bamboo in Mizoram",
+       "says": "I wait about 48 years and flower once, all at the same time as my neighbours. Then I die."
+      }
+     ],
+     "ask": "Which way of living would work best in a place with a long dry season every year? Pick one and give your reasons. Then say what another plant's way does well.",
+     "lines": 6,
+     "a": "A strong answer uses the life cycle. For moong: the plant finishes before the dry season, and the dry seeds wait safely for the rain. For mango: deep roots can reach water, and a big tree survives many dry seasons. A strong answer then gives another way its due. For bamboo, flowering all together makes so many seeds that animals cannot eat them all. Scientists think this may be why.",
+     "why": "Every way works somewhere. A short life suits a short wet season. A long life suits a plant that can survive bad years. The bamboo's reason is still being studied."
     },
     {
      "t": "fill",
@@ -1577,16 +1530,10 @@
      "why": "Bananas are grown from shoots, so the plants are clones. A disease that can harm one can harm them all. Picking 'too much rain' is a sensible guess about plant diseases. But the real problem was that there was no difference between the plants."
     },
     {
-     "t": "mcq",
-     "p": "Which of these plants has no flowers and no seeds at all?",
-     "opts": [
-      "A cactus",
-      "A fern",
-      "A mango tree",
-      "Rice"
-     ],
-     "a": 1,
-     "why": "Ferns spread by spores, a fine dust made under their leaves. Ferns are older than flowering plants. Picking cactus is a common idea, because cactus flowers are rare to see. But cactuses do have flowers and fruits."
+     "t": "truefalse",
+     "p": "Every kind of plant makes flowers and seeds.",
+     "a": false,
+     "why": "False. Ferns and mosses have no flowers and no seeds. Ferns spread by spores, a fine dust made under their leaves. Ferns are much older than flowering plants."
     },
     {
      "t": "write",
@@ -1594,19 +1541,6 @@
      "lines": 4,
      "a": "A rice leaf takes in carbon dioxide from the air. It uses sunlight to make sugar, and stores some as starch in the rice grain. The rice is ground into batter and steamed into an idli. I eat the idli, and my body uses the carbon in it to build itself.",
      "why": "This follows a carbon atom through photosynthesis and food. It is a real path that carbon atoms take every day."
-    },
-    {
-     "t": "mcq",
-     "p": "In the story, Edmond saw a pumpkin flower that had been dusted with pollen grow into a pumpkin, and one left alone shrivel. What was the one thing that was different between them?",
-     "opts": [
-      "Pollen reached the middle of one flower and not the other",
-      "One got more sunlight",
-      "One was older",
-      "One was on a different plant"
-     ],
-     "a": 0,
-     "why": "Both were female flowers, which the story calls mother flowers, on the same patch. Only one had pollen pressed into its middle. That was the one thing changed, like a fair test. Picking 'more sunlight' means looking for a difference the story does not show.",
-     "context": "In this unit's story, a boy named Edmond watches two pumpkin flowers. His owner dabs yellow dust from a male flower into one female flower, and leaves the other alone."
     },
     {
      "t": "mcq",
@@ -1654,6 +1588,48 @@
      "p": "Draw the life cycle of a moong plant inside a bigger circle that shows where their atoms come from and go to: air, water, soil, and decomposers.",
      "a": "An inner circle of seed, seedling, plant, flower, pod and seed. Around it, arrows from the air and the soil into the plant, and arrows from the dead plant through decomposers back to the air and soil.",
      "why": "A plant's life cycle sits inside a bigger cycle of atoms going round through air, soil and living things."
+    },
+    {
+     "t": "truefalse",
+     "p": "Big trees grow from big seeds, and small plants grow from small seeds.",
+     "a": false,
+     "why": "False. A banyan tree, one of the biggest trees in India, grows from a seed about as small as a mustard seed. A coconut is a huge seed, but a coconut palm is far smaller than a big banyan. Seed size does not tell you how big the plant will be."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these. Did each one need pollen to reach a flower first?",
+     "cats": [
+      "Needed pollen first",
+      "No pollen needed"
+     ],
+     "items": [
+      [
+       "a mango",
+       "Needed pollen first"
+      ],
+      [
+       "a new potato plant from an eye",
+       "No pollen needed"
+      ],
+      [
+       "a pumpkin",
+       "Needed pollen first"
+      ],
+      [
+       "a money plant from a cutting",
+       "No pollen needed"
+      ],
+      [
+       "a pea pod full of peas",
+       "Needed pollen first"
+      ],
+      [
+       "a banana shoot at the base of the old plant",
+       "No pollen needed"
+      ]
+     ],
+     "a": "see items",
+     "why": "A fruit with seeds grows only after pollen reaches a flower. A new plant grown from a part of the old plant, like an eye, a cutting or a shoot, needs no flower and no pollen."
     }
    ]
   }
@@ -3715,8 +3691,8 @@
    "a": "They were on a life cycle!"
   },
   {
-   "j": "Why did the farmer plant his money?",
-   "a": "He wanted it to grow."
+   "j": "Why did the farmer plant her money?",
+   "a": "She wanted it to grow."
   },
   {
    "j": "Why did the brinjal wear a green cap?",

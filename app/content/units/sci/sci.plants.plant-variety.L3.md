@@ -230,13 +230,13 @@ All plants come from the same ancient ancestors. Over millions of years, their f
 - *deep:* Wood stores the energy of sunlight for years. When we burn wood, where does that energy go? (hint: Hold your hands near a fire. What do you feel? Where did that warmth start?)
 
 ## Story: The Pepper Tree That Wasn't
-*The book is real. Hortus Malabaricus, 'The Garden of Malabar', was made for the Dutch governor Hendrik van Rheede and printed in Amsterdam in 12 volumes between 1678 and 1693. Itty Achuden, a healer from the Ezhava community, really was its main plant expert, and his statement in Malayalam really is printed in the first volume. Ranga Bhat, Vinayaka Pandit and Appu Bhat really helped too. Kunjan, Pieter and the pepper drawing are made up.*
+*The book is real. Hortus Malabaricus, 'The Garden of Malabar', was made for the Dutch governor Hendrik van Rheede and printed in Amsterdam in 12 volumes between 1678 and 1693. Itty Achuden, a healer from the Ezhava community, really was its main plant expert, and his statement in Malayalam really is printed in the first volume. Ranga Bhat, Vinayaka Pandit and Appu Bhat really helped too. Ammini, the girl who tells the story, Pieter and the pepper drawing are made up.*
 
 In the year 1675, when I was nine years old, a Dutch governor in Kochi decided he wanted to know every plant in Malabar. His name was Hendrik van Rheede. He wanted a book so big and so true that nobody in Europe would ever again have to guess what grew on our coast. But a governor cannot learn a thousand plants by himself. So he sent for my uncle.
 
 My uncle was Itty Achuden. He was a vaidyan, a healer, from a village by the sea, south of Kochi. He knew plants the way other people know their cousins. He knew them by their leaves and their bark, by their smell when you crushed them, and by the way they grew. He carried palm-leaf books that his family had copied and recopied for longer than anyone could remember. Three learned men came too: Ranga Bhat, Vinayaka Pandit and Appu Bhat, who knew the old Sanskrit books of healing. But when the governor wanted to see a plant alive, it was my uncle who walked out and found one.
 
-My job was small. I carried the baskets. I held leaves flat on the table while the painters drew them. The painters were young Dutchmen with ink on their cuffs and sweat on their noses. The youngest was called Pieter. Pieter was the one who could not find the pepper.
+My job was small. I was a girl of nine, and I carried the baskets. I held leaves flat on the table while the painters drew them. The painters were young Dutchmen with ink on their cuffs and sweat on their noses. The youngest was called Pieter. Pieter was the one who could not find the pepper.
 
 This seemed very funny to me, and also a little sad. The Dutch had sailed halfway round the world for pepper. Their ships left Kochi so full of black pepper that the sailors said they could smell it from the mast. Pieter had eaten pepper every day of his life. But he had never once seen the plant growing.
 
@@ -248,7 +248,7 @@ On the fourth day he came back cross. He spread a drawing on the floor of our ve
 
 'There,' he said. 'Pepper growing on a jackfruit tree. Your uncle says it is wrong. He says a jackfruit cannot make pepper. Then where do the berries come from?'
 
-Uncle only smiled, and said, 'Kunjan will show you.' He liked to let people find things for themselves. He said a thing you find stays with you, and a thing you are told falls out of your pocket on the way home.
+Uncle only smiled, and said, 'Ammini will show you.' He liked to let people find things for themselves. He said a thing you find stays with you, and a thing you are told falls out of your pocket on the way home.
 
 So I took Pieter back to the garden behind the market, where he had sat drawing. I walked up to the jackfruit tree and put my hand flat on their trunk. The bark was rough and warm. 'This is one plant,' I said. Then I moved my hand a little to one side, onto a thin green rope pressed tight against the bark. 'And this is another.'
 
@@ -260,7 +260,7 @@ Pieter stared. He touched the stem. He tugged it, gently, and it held on.
 
 'They don't need one,' I said. 'The jackfruit made the trunk. The pepper climbs it.'
 
-Then I told him what every child in our village knew. When people plant pepper, they never plant them alone. First they plant a tree, or set a strong post in the ground. Then they plant the pepper at their foot. The pepper stem is soft and bendy. Left on the ground, they creep about in the shade and gives you hardly a handful of berries. Give them something to hold, and up they go, towards the sun, gripping with their little roots all the way.
+Then I told him what every child in our village knew. When people plant pepper, they never plant them alone. First they plant a tree, or set a strong post in the ground. Then they plant the pepper at their foot. The pepper stem is soft and bendy. Left on the ground, they creep about in the shade and give you hardly a handful of berries. Give them something to hold, and up they go, towards the sun, gripping with their little roots all the way.
 
 'Then I have drawn two plants as if they were one,' said Pieter. He looked at his picture for a long time. I thought he would be ashamed. Instead, he laughed, so loudly that a crow flew off the wall. 'All the way from Amsterdam,' he said, 'to find out that pepper is a climber.'
 
@@ -268,7 +268,7 @@ That evening he made a new drawing. This time he drew only the pepper. He drew t
 
 Uncle looked at the drawing for a long time. 'It is correct,' he said at last. 'But it is also strange. Nobody has ever seen pepper growing alone like that.'
 
-Pieter thought about this. Then he dipped his pen and, very lightly, at the edge of the page, drew a single strip of rough bark. 'There,' he said. 'Now it remembers what it leans on.'
+Pieter thought about this. Then he dipped his pen and, very lightly, at the edge of the page, drew a single strip of rough bark. 'There,' he said. 'Now the pepper remembers what they lean on.'
 
 Many years later, the governor's book was printed far away in Amsterdam. It came in twelve great volumes, with hundreds of drawings of the plants of our coast. In the very first volume, there is a page printed in our own Malayalam letters. It is my uncle's statement, telling every reader who he was, and how he knew these plants. Most people who open that book look only at the pictures. I always look for that page first.
 
@@ -279,7 +279,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 - Ask: Why couldn't Pieter find a 'pepper tree' anywhere?
 - Ask: How does the pepper plant hold on to the jackfruit tree?
 - Ask: What happens to a pepper plant if they have nothing to climb?
-- Ask: Uncle said 'Kunjan will show you' instead of explaining. Why do you think he did that?
+- Ask: Uncle said 'Ammini will show you' instead of explaining. Why do you think he did that?
 - Ask: The book was the governor's idea, but the plant knowledge was Itty Achuden's. Whose name do you think should be on the cover?
 
 ## Games
@@ -660,119 +660,121 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   - Think: Could your plan help birds and bees too?
 
 ## Worksheets
-### Five Kinds of Plants (core) (core, 15 questions)
-1. (mcq) A tree has one thick, hard stem. What is this stem called?  
-   Options: A tendril / A trunk / A creeper / A leaf  
-   **Answer:** A trunk. *Why:* The thick woody stem of a tree is their trunk. Picking 'tendril' means mixing it up with the thin curly threads climbers use to hold on.
+### Five Kinds of Plants (core) (core, 16 questions)
+1. (sort) Sort these plants into their kinds.  
+   **Answer:** neem → Tree; peepal → Tree; rose → Shrub; mehendi → Shrub; coriander → Herb; spinach → Herb; money plant → Climber; bitter gourd → Climber; pumpkin → Creeper; watermelon → Creeper. *Why:* Trees have one woody trunk. Shrubs have many woody stems. Herbs have soft stems. Climbers hold on to grow up. Creepers spread on the ground.
 2. (mcq) Which plant is a shrub?  
    Options: Mango / Hibiscus / Pumpkin / Coriander  
    **Answer:** Hibiscus. *Why:* Hibiscus has several woody stems from near the ground, so hibiscus is a shrub. Mango is a tree, pumpkin is a creeper and coriander is a herb. Picking 'mango' often means choosing any plant with flowers or fruit.
-3. (mcq) Which plant is a herb?  
-   Options: Neem / Rose / Mint / Money plant  
-   **Answer:** Mint. *Why:* Mint has a soft, green stem that never becomes woody, so mint is a herb. Rose has woody stems, so rose is a shrub.
-4. (fill) A plant with a thin stem that spreads along the ground is called a ____.  
-   **Answer:** ['creeper']. *Why:* Pumpkin, watermelon and sweet potato are creepers. They spread over the ground.
-5. (fill) A plant that holds on to a wall or a stick to grow upward is called a ____.  
-   **Answer:** ['climber']. *Why:* Money plant, pepper and bitter gourd are climbers.
-6. (sort) Sort these plants into their kinds.  
-   **Answer:** neem → Tree; peepal → Tree; rose → Shrub; mehendi → Shrub; coriander → Herb; spinach → Herb; money plant → Climber; bitter gourd → Climber; pumpkin → Creeper; watermelon → Creeper. *Why:* Trees have one woody trunk. Shrubs have many woody stems. Herbs have soft stems. Climbers hold on to grow up. Creepers spread on the ground.
-7. (truefalse) All tall plants are trees.  
-   **Answer:** False. *Why:* False. Bamboo grows as tall as a house, but bamboo is a grass. A banana plant is tall too, but they have no wood, so they are a giant herb.
-8. (truefalse) A shrub's stems are woody.  
-   **Answer:** True. *Why:* True. Shrubs have hard, woody stems, like trees. But they have many stems from near the ground, not one trunk.
-9. (mcq) In the Stem Test, a stem dented easily under your fingernail and bent over when you held it up. What kind of plant did it most likely come from?  
+3. (mcq) In the Stem Test, a stem dented easily under your fingernail and bent over when you held it up. What kind of plant did it most likely come from?  
    Options: A tree / A herb / A shrub  
    **Answer:** A herb. *Why:* A soft stem that dents and flops has no wood in it, so the plant is most likely a herb. Trees and shrubs have woody stems that hardly dent.
-10. (match) Match each climber to how they hold on.  
+4. (truefalse) All tall plants are trees.  
+   **Answer:** False. *Why:* False. Bamboo grows as tall as a house, but bamboo is a grass. A banana plant is tall too, but they have no wood, so they are a giant herb.
+5. (fill) A plant with a thin stem that spreads along the ground is called a ____.  
+   **Answer:** ['creeper']. *Why:* Pumpkin, watermelon and sweet potato are creepers. They spread over the ground.
+6. (match) Match each climber to how they hold on.  
    **Answer:** Bitter gourd → curly tendrils; Money plant → little roots on the stem; Bean → twisting their stem round a stick; Bougainvillea → hooked thorns. *Why:* Climbers hold on in different ways: tendrils, little roots, twisting stems or thorns.
-11. (mcq) Why does a pumpkin grow along the ground instead of standing up?  
+7. (mcq) Why does a pumpkin grow along the ground instead of standing up?  
    Options: Their stem is too thin and weak to hold them up / They are afraid of the sun / They are a tree that fell over  
    **Answer:** Their stem is too thin and weak to hold them up. *Why:* A pumpkin's stem is long and soft, and their fruits are heavy. Lying on the ground, the stem does not have to hold them up. Picking 'a tree that fell' means thinking every plant wants to be a tree.
-12. (match) Match each thing to the plant it came from.  
+8. (match) Match each thing to the plant it came from.  
    **Answer:** Cotton T-shirt → cotton plant; Natural rubber → rubber tree; Coir doormat → coconut palm; Sugar → sugarcane; Wooden door → a tree like teak or sal. *Why:* Every one of these everyday things began as part of a plant.
-13. (mcq) Which of these is NOT a way people use plants?  
+9. (write) Look at a plant near you. Are they a tree, shrub, herb, climber or creeper? Write how you know.  
+   **Answer:** Any honest answer with a reason about the stem. For example, they are a shrub, because they have many hard, woody stems coming up from the soil.. *Why:* The best clue is the stem: hard or soft, one or many, standing up, climbing or spreading.
+10. (draw) Draw one tree, one shrub and one herb. Show how their stems are different.  
+   **Answer:** A tree with one thick trunk, a shrub with many woody stems from the ground, and a small herb with a soft green stem.. *Why:* The stem is the main way to tell these three kinds apart.
+11. (write) Nila, a girl in Class 3, says, 'A rose is a tree, because their stems are woody.' What has Nila got right, and what is her mistake?  
+   **Answer:** Nila is right that a rose has woody stems. But a tree has one thick trunk. A rose has many woody stems coming up from near the ground, and stays small. So a rose is a shrub.. *Why:* A strong answer uses two clues, not one: how hard the stem is, and how many main stems there are. Woody alone does not make a tree.
+12. (odd) Which one is the odd one out, and why? Neem, mango, rose, peepal.  
+   **Answer:** Rose, because they are a shrub. The others are trees.. *Why:* Rose has many woody stems from near the ground. Neem, mango and peepal each have one big trunk.
+13. (perspective) A family in a Chennai flat has room for one pot on their sunny balcony. They are deciding what to grow.  
+   **Answer:** A strong answer links the choice to the plant's kind. A curry leaf shrub has woody stems and grows big, so it needs a deep pot, but it gives leaves for years. A tulsi is a herb that grows fast in a small pot and is used as a home remedy. A money plant is a climber, so it needs the grill as a support, and it can shade a window. A strong answer then admits another person's good point.. *Why:* Each choice is sensible. They trade off food, medicine, shade and space. What matters is using the plant's kind to say how it will grow in one small pot.
+14. (mcq) Which of these is NOT a way people use plants?  
    Options: Food / Medicine / Shade / Making iron  
    **Answer:** Making iron. *Why:* Iron is a metal dug from rocks. Food, medicine and shade all come from plants. Picking 'shade' often means forgetting that shade is a use too. People plant trees on purpose to cool their streets.
-14. (write) Look at a plant near you. Are they a tree, shrub, herb, climber or creeper? Write how you know.  
-   **Answer:** Any honest answer with a reason about the stem. For example, they are a shrub, because they have many hard, woody stems coming up from the soil.. *Why:* The best clue is the stem: hard or soft, one or many, standing up, climbing or spreading.
-15. (draw) Draw one tree, one shrub and one herb. Show how their stems are different.  
-   **Answer:** A tree with one thick trunk, a shrub with many woody stems from the ground, and a small herb with a soft green stem.. *Why:* The stem is the main way to tell these three kinds apart.
-### Plants and People (stretch) (stretch, 15 questions)
+15. (truefalse) A shrub is just a baby tree that has not grown up yet.  
+   **Answer:** False. *Why:* False. A hibiscus or a rose stays a shrub all their life. They keep many woody stems from near the ground and never grow one big trunk. A young mango tree is small, but they already have one main stem.
+16. (fill) A plant that holds on to a wall or a stick to grow upward is called a ____.  
+   **Answer:** ['climber']. *Why:* Money plant, pepper and bitter gourd are climbers.
+### Plants and People (stretch) (stretch, 16 questions)
 1. (mcq) In the story 'The Pepper Tree That Wasn't', why did the painter think pepper grew on a jackfruit tree?  
    Options: The pepper climber was holding on to the jackfruit trunk, so they looked like one plant / Jackfruit trees really do make pepper / Someone tied pepper on the tree  
    **Answer:** The pepper climber was holding on to the jackfruit trunk, so they looked like one plant. *Why:* Pepper is a climber. They grow up a tree, holding on with little roots. From a distance, the two plants look like one. Picking 'jackfruit trees make pepper' is exactly the painter's mistake.
 2. (mcq) In the Shade Detective test, the sunny ground was 46 degrees and the ground under a tree was 31 degrees. How much cooler was the shade?  
    Options: 15 degrees / 77 degrees / 31 degrees  
    **Answer:** 15 degrees. *Why:* 46 minus 31 is 15. So the shade was 15 degrees cooler. Picking 77 means adding instead of taking away.
-3. (mcq) Why might a tree's shade be cooler than an umbrella's shade?  
-   Options: The tree also gives off water from their leaves, which cools the air / Trees are cold inside / Umbrellas make heat  
-   **Answer:** The tree also gives off water from their leaves, which cools the air. *Why:* Both block sunlight. But a tree also gives off water vapour from their leaves, and turning water into vapour takes heat away. Picking 'trees are cold inside' is a common guess. But a tree trunk is about the same temperature as the air around it.
+3. (write) Kavya, a girl in Class 4, puts a thermometer on the ground in three places at noon: in the sun, under an umbrella and under a neem tree. Predict which place will be coolest, and explain why.  
+   **Answer:** Under the neem tree will be coolest. The umbrella and the tree both block the sunlight. But the tree's leaves also let out water, and water turning into vapour takes heat away. So the air under the tree is cooled twice over.. *Why:* A strong answer says both block the Sun, and then gives the extra reason for the tree: water evaporating from the leaves cools them and the air around them.
 4. (truefalse) A banana plant is a tree, because they are tall.  
    **Answer:** False. *Why:* False. Their trunk has no wood. It is made of rolled-up leaf bottoms. So botanists call the banana a giant herb.
-5. (fill) Bamboo is a very tall plant, but they belong to the ____ family.  
-   **Answer:** ['grass']. *Why:* Bamboo is a giant grass. Their stem is hollow and jointed, like a wheat stalk.
-6. (mcq) Which medicine was first found in sweet wormwood, by the scientist Tu Youyou?  
-   Options: Aspirin / A malaria medicine called artemisinin / A cough syrup  
-   **Answer:** A malaria medicine called artemisinin. *Why:* Tu Youyou found artemisinin, a malaria medicine, in sweet wormwood. She won a Nobel Prize in 2015. Aspirin came from a chemical in willow bark.
-7. (truefalse) If a plant is natural, they are always safe to eat.  
+5. (mcq) Bamboo grows taller than a house. Which clue shows that bamboo is a grass, not a tree?  
+   Options: Their stem is hollow with joints, and it never grows fatter year after year / Bamboo has green leaves / Bamboo is very tall / Bamboo grows in India  
+   **Answer:** Their stem is hollow with joints, and it never grows fatter year after year. *Why:* A tree trunk adds a new layer of wood every year, so it grows fatter. A bamboo stem is hollow and jointed, like a wheat stalk, and stays the same thickness. Picking 'very tall' is the mistake this question tests. Height does not tell you the kind.
+6. (truefalse) If a plant is natural, they are always safe to eat.  
    **Answer:** False. *Why:* False. Kaner, datura and castor seeds are natural, but very poisonous. Never taste a plant unless a grown-up who truly knows them says they are safe.
-8. (mcq) A 'weed' is…  
+7. (mcq) What does the word 'weed' really mean?  
    Options: A special poisonous kind of plant / A plant growing where people do not want it / Any plant with no flowers  
    **Answer:** A plant growing where people do not want it. *Why:* 'Weed' is a word about our wishes. The same grass can be a weed in a vegetable patch and a lawn on a cricket field. Picking 'poisonous' often comes from hearing weeds called bad plants.
-9. (mcq) Why do some plants, like mint and tulsi, have strong smells?  
+8. (mcq) Why do some plants, like mint and tulsi, have strong smells?  
    Options: To protect themselves from insects and animals that eat leaves / Because they are rotting / To call the rain  
    **Answer:** To protect themselves from insects and animals that eat leaves. *Why:* Many plants make strong-smelling chemicals that keep leaf-eaters away. People use these same chemicals as spices and medicines.
-10. (write) Why does a climber not need a thick trunk? Use the words 'support' and 'light' in your answer.  
+9. (write) Why does a climber not need a thick trunk? Use the words 'support' and 'light' in your answer.  
    **Answer:** A climber holds on to a support, like a tree or a wall. They climb up the support towards the light. So they do not need to spend food building their own thick trunk.. *Why:* Climbers borrow someone else's trunk to reach the light.
-11. (order) Put these in order, from the plant that gives the most shade to the least: a big banyan tree, a rose shrub, a coriander herb.  
+10. (order) Put these in order, from the plant that gives the most shade to the least: a big banyan tree, a rose shrub, a coriander herb.  
    **Answer:** ['a big banyan tree', 'a rose shrub', 'a coriander herb']. *Why:* The bigger the plant and the more leaves high above you, the more shade they give.
-12. (mcq) In Hug a Tree, the trunk measured 50 cm around. With the rough rule of 2 and a half cm a year, about how old is the tree?  
+11. (mcq) In Hug a Tree, the trunk measured 50 cm around. With the rough rule of 2 and a half cm a year, about how old is the tree?  
    Options: About 20 years / About 50 years / About 125 years  
    **Answer:** About 20 years. *Why:* 50 divided by 2 and a half is 20. Check: 20 times 2 and a half is 50. So the tree is roughly 20 years old. Remember the rule is only a rough guess.
-13. (odd) Which one is the odd one out, and why? Neem, mango, rose, peepal.  
-   **Answer:** Rose, because they are a shrub. The others are trees.. *Why:* Rose has many woody stems from near the ground. Neem, mango and peepal each have one big trunk.
-14. (mcq) Who led village women in Reni, in the Himalayas, to hug trees to stop them being cut, in 1974?  
-   Options: Gaura Devi / Wangari Maathai / Marie Curie  
-   **Answer:** Gaura Devi. *Why:* Gaura Devi led the women of Reni in the Chipko movement. Wangari Maathai planted trees in Kenya. Marie Curie studied radioactivity.
-15. (write) Name three things in your home that came from plants. Say which plant, and which part of the plant, if you know.  
+12. (write) Name three things in your home that came from plants. Say which plant, and which part of the plant, if you know.  
    **Answer:** Any three good answers. For example: my cotton shirt came from the fluffy seed hairs of the cotton plant. Paper came from wood. Rice came from the seeds of a grass.. *Why:* Plants give us food, cloth, wood, paper, rubber, oil, colours and medicine.
-### Puzzling Plants and Big Ideas (challenge) (challenge, 15 questions)
+13. (match) Match each thing to the part of the plant it is made from.  
+   **Answer:** Cotton cloth → the fluffy hairs on cotton seeds; Jute sack → the stem of the jute plant; Coir rope → the husk round a coconut; Paper → wood from tree trunks; Sugar → the juicy stem of sugarcane. *Why:* People use almost every part of a plant: seeds, stems, fruits and wood. Knowing the part tells you how the plant must be grown and harvested.
+14. (odd) Which one is the odd one out, and why? Money plant, pepper, bitter gourd, pumpkin.  
+   **Answer:** Pumpkin, because a pumpkin is a creeper that spreads along the ground. The others are climbers.. *Why:* Money plant, pepper and bitter gourd grow upwards by holding on to a support. A pumpkin usually spreads on the soil. But if their tendrils find a fence, they will climb it, so the boxes are not perfectly neat.
+15. (perspective) In 1974, men came to cut down a forest near the village of Reni in the Himalayas. The trees had been sold for their wood. The women of the village hugged the trees to stop them. This was part of the Chipko movement.  
+   **Answer:** A strong answer picks a side and gives a reason. For Gaura Devi: the forest gave the village food, fuel and medicine every day, and tree roots hold soil on slopes. For the carpenter: wood really is useful, and people need it. A strong answer then gives the other side its due, and may suggest a middle way, like planting trees to cut later and protecting forests on steep hills.. *Why:* This was a real conflict between people who lived from the forest and people who wanted its wood. Both needs are real. Gaura Devi and the women of Reni saved their forest, and the movement led to new laws protecting Himalayan forests.
+16. (draw) Draw the view from your window or balcony. Mark one tree, one shrub, one herb and one climber or creeper, if you can see them. Label how you knew each kind.  
+   **Answer:** A drawing with plants labelled by kind, and a short clue for each, like 'one thick trunk' or 'soft green stem'.. *Why:* Sorting real plants you can see is harder than sorting names. The labels show which stem clue you used.
+### Puzzling Plants and Big Ideas (challenge) (challenge, 16 questions)
 1. (mcq) A coconut palm and a mango are both trees. Which is the coconut more closely related to?  
    Options: Mango / Rice and bamboo / Neem  
    **Answer:** Rice and bamboo. *Why:* Coconut palms belong to a big group of plants that also includes grasses like rice and bamboo. 'Tree' is a way of growing, not a family. Picking 'mango' means thinking trees must be cousins.
-2. (truefalse) All trees on Earth came from one 'tree family'.  
-   **Answer:** False. *Why:* False. Plants from many different families became trees separately. Trees are a way of growing, not one family.
-3. (mcq) The first trees grew on Earth about how long ago?  
-   Options: About 390 million years ago / About 1,000 years ago / About 10,000 years ago  
-   **Answer:** About 390 million years ago. *Why:* The oldest fossil forests found so far are about 385 to 390 million years old. One is at Gilboa, in New York State. That is long before dinosaurs.
-4. (fill) The hard material that makes wood strong, like a glue in the walls of its cells, is called ____.  
+2. (truefalse) A tree trunk that is 2 metres around must be older than a trunk that is 1 metre around.  
+   **Answer:** False. *Why:* False. Different kinds of trees grow at different speeds. A fast tree in a wet, sunny place can grow fat quickly. A slow tree on a dry hill may take far longer. The rule of 2 and a half cm a year in Hug a Tree is only a rough guess.
+3. (fill) The hard material that makes wood strong, like a glue in the walls of its cells, is called ____.  
    **Answer:** ['lignin']. *Why:* Lignin and cellulose together make wood strong. Herbs have very little lignin, so their stems are soft.
-5. (mcq) The Great Banyan in Howrah has thousands of prop roots that look like trunks. Their first trunk was removed in 1925. What is the best way to describe them?  
-   Options: Thousands of separate trees / One plant, whose prop roots became new trunks / A dead tree  
-   **Answer:** One plant, whose prop roots became new trunks. *Why:* All those trunks grew from one banyan's branches, so most botanists call them one plant. Some scientists point out that a prop root trunk could live on its own if it were cut off. So whether to call them one plant or many is still argued about.
-6. (write) Tulsi starts with a soft stem and later grows a woody one. Is tulsi a herb or a shrub? Explain your answer.  
+4. (perspective) The Great Banyan in the Botanic Garden at Howrah, near Kolkata, has thousands of prop roots that have become trunks. Their first trunk died and was removed in 1925. Scientists disagree about how to count them.  
+   **Answer:** A strong answer picks a side with a reason. For one plant: every trunk grew from the same seed, and they still share one body of branches. For many: each trunk can stand and feed themselves on their own. A strong answer then sees that the word 'one plant' was made for animals like us, and does not fit plants neatly.. *Why:* This is still argued about. There is no single right answer. The puzzle shows that our ideas of 'one living thing' come from animals, and plants do not always fit them.
+5. (write) Tulsi starts with a soft stem and later grows a woody one. Is tulsi a herb or a shrub? Explain your answer.  
    **Answer:** Both, at different times. A young tulsi has a soft stem, so they are like a herb. An old tulsi has a woody stem, so they are a small shrub. The kinds are boxes we made, and some plants move between them.. *Why:* Plants change as they grow. Our kinds are useful guides, not walls.
-7. (mcq) Scientists have named more than 350,000 kinds of plants. About how many new ones are named each year?  
+6. (mcq) Scientists have named more than 350,000 kinds of plants. About how many new ones are named each year?  
    Options: None, they have found them all / About 2,000 / About 2 million  
    **Answer:** About 2,000. *Why:* About 2,000 new plant species are named every year. Many places, like rainforest treetops and remote hills, are still little explored.
-8. (write) Pepper is a climber. Farmers in Kerala plant a tree or a post first, then plant pepper beside it. Explain why.  
-   **Answer:** Pepper has a soft, thin stem that cannot stand up alone. They need a support to climb towards the light. Without one, they creep on the ground in the shade and give very little fruit.. *Why:* A climber needs a support. Knowing a plant's kind tells a farmer how to grow them.
-9. (mcq) In the Circling Shoot, a climber's tip moved in slow loops. A child says the wind did it. How could you test this?  
+7. (write) In a thick forest, very little light reaches the ground. Why might being a climber help a plant there? Why might being a climber be harder in an open field with no trees?  
+   **Answer:** In a forest, a climber can use the tree trunks as supports and reach the light at the top, without building a trunk of their own. In an open field there is plenty of light, but nothing to climb, so the climber has to creep along the ground and may be trampled or shaded by grass.. *Why:* A strong answer says a climber's way of growing works only when there is a support, and that the best kind of plant depends on the place.
+8. (mcq) In the Circling Shoot, a climber's tip moved in slow loops. Revathi, a girl in Class 4, says the wind did it. How could you test her idea?  
    Options: Keep the pot indoors with no fan or breeze, and see if it still circles / Shout at the plant / Water them more  
    **Answer:** Keep the pot indoors with no fan or breeze, and see if it still circles. *Why:* To test one idea, take away just that one thing. If the tip still circles with no wind, the plant is moving on their own. This is a fair test.
-10. (truefalse) Some herbs come from woody ancestors, and on some islands herbs have turned back into woody shrubs.  
+9. (truefalse) Some herbs come from woody ancestors, and on some islands herbs have turned back into woody shrubs.  
    **Answer:** True. *Why:* True. Plants have switched between woody and soft many times in their history. It is one reason 'tree' and 'herb' are not families.
-11. (write) A company makes a medicine from a plant that village healers have used for hundreds of years. Who do you think should get credit, and why?  
+10. (write) A company makes a medicine from a plant that village healers have used for hundreds of years. Who do you think should get credit, and why?  
    **Answer:** Any thoughtful answer with a reason. For example, the healers should get credit, because they found the plant first. The scientists should too, because they tested it and made it safe. The village could share the money.. *Why:* This is a real question. India and other countries have laws about sharing benefits from plants with the people who knew them first.
-12. (mcq) In the Smell Test, three people gave mint the scores 3, 5 and 4. What is the middle score?  
+11. (mcq) In the Smell Test, three people gave mint the scores 3, 5 and 4. What is the middle score?  
    Options: 3 / 4 / 5  
    **Answer:** 4. *Why:* Put them in order: 3, 4, 5. The middle one is 4. Using the middle stops one very high or very low score from changing the result too much.
-13. (order) Put these in order of when they first appeared on Earth, oldest first: flowering plants, the first trees, the first tiny land plants.  
+12. (order) Put these in order of when they first appeared on Earth, oldest first: flowering plants, the first trees, the first tiny land plants.  
    **Answer:** ['the first tiny land plants', 'the first trees', 'flowering plants']. *Why:* Tiny land plants came first, about 470 million years ago. Trees came about 390 million years ago. Flowering plants came much later, more than 130 million years ago.
-14. (write) Aristotle said plants exist for the sake of animals and people. Do you agree? Give one reason for and one reason against.  
+13. (write) Aristotle said plants exist for the sake of animals and people. Do you agree? Give one reason for and one reason against.  
    **Answer:** Any answer with a reason each way. For: people use plants for almost everything. Against: plants lived for hundreds of millions of years before any people, and most plants are never used by people.. *Why:* This is a debate, so there is no single right answer. A good answer gives reasons on both sides.
-15. (draw) Draw a forest with a tree, a climber, a shrub and a creeper. Draw arrows to show how each one reaches the sunlight.  
+14. (draw) Draw a forest with a tree, a climber, a shrub and a creeper. Draw arrows to show how each one reaches the sunlight.  
    **Answer:** A tall tree reaching up, a climber climbing the tree, a shrub in a sunny gap and a creeper spreading in an open patch, each with an arrow to the sun.. *Why:* All the kinds are different ways of reaching the same light.
+15. (mcq) In the Banana Plant Puzzle, a grown-up cut across a banana stem. Inside were soft, rolled layers, and no wood at all. Which conclusion fits best?  
+   Options: The banana is a giant herb, because their stem has no wood / The banana is a tree, because they are tall / The banana is a shrub, because they have leaves / The banana is a climber, because the layers wrap round  
+   **Answer:** The banana is a giant herb, because their stem has no wood. *Why:* The kind of plant is decided by the stem. A tree's trunk is wood. A banana's 'trunk' is rolled leaf bottoms, soft and full of water. So botanists call the banana a giant herb. Picking 'tree' trusts the height, not the evidence inside.
+16. (mcq) About 390 million years ago, plants that could make wood began to grow much taller than all the others. Why did wood let them grow tall?  
+   Options: Wood is stiff and strong, so a woody stem can hold leaves high up in the light / Wood is heavy, so the wind cannot move the plant / Wood makes seeds / Wood soaks up sunlight  
+   **Answer:** Wood is stiff and strong, so a woody stem can hold leaves high up in the light. *Why:* The lignin in wood makes the stem stiff. A stiff stem can stand tall and lift leaves above the plants around them, where they catch more light. Picking 'heavy' misses the point. Wood is strong for its weight, not just heavy.
 
 ## Videos
 - **Types of plants: trees, shrubs, herbs, climbers and creepers (for Class 3)** (Learning Junction, 5 min) id `DHGQ3elHDIE`: A short, clear look at real examples of the five kinds, to watch after the Plant Count. *Check:* Found by YouTube search: "Types of Plants - Herbs, Shrubs,Trees, Climbers and Creepers - Learning Junction #plants #kidsvideo" by learning junction. Title checked automatically; a parent may still preview it.
@@ -788,34 +790,34 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
    **Answer:** Money plant. *Why:* Money plant holds on to a wall or pole with little roots and grows up it. Mango is a tree, rose is a shrub and spinach is a herb.
 3. (mcq) Which plant is a creeper?  
    Options: Neem / Watermelon / Tulsi / Bamboo  
-   **Answer:** Watermelon. *Why:* A watermelon plant spreads along the ground. Picking 'tulsi' often means thinking every small plant creeps. Tulsi stands up by itself. Neem is a tree, and bamboo is a tall grass.
+   **Answer:** Watermelon. *Why:* A watermelon plant spreads along the ground. Picking 'tulsi' often means thinking every small plant creeps. Tulsi stands up by themselves. Neem is a tree, and bamboo is a tall grass.
 4. (mcq) Arjun, a boy in Class 3, pressed a stem with his fingernail. It did not dent. When he bent it, it snapped. What kind of stem is it most likely?  
    Options: Woody, from a tree or shrub / Soft, from a herb / From a creeper  
    **Answer:** Woody, from a tree or shrub. *Why:* Woody stems are hard and often snap. Herb stems are soft and flop. Picking 'creeper' means mixing up stiffness with where the plant grows.
 5. (mcq) A climber has only a thin stem. How do they get their leaves up high?  
    Options: They hold on to a support and grow up it / They do not need light / They grow underground  
    **Answer:** They hold on to a support and grow up it. *Why:* A climber holds on to a tree, a wall or a stick, so they can reach the light with a thin stem. Picking 'they do not need light' is a common mistake. Climbers climb because they need light.
-6. (mcq) Which of these comes from a plant?  
-   Options: A cotton shirt / A steel tumbler / A glass bottle  
-   **Answer:** A cotton shirt. *Why:* Cotton cloth is made from the fluffy fibres of the cotton plant. Steel is made from iron in rocks, and glass is made from sand.
-7. (mcq) A medicine for a blood cancer in children was found in a common Indian garden plant. Which plant?  
-   Options: Sadabahar, the periwinkle / Grass / Kaner  
-   **Answer:** Sadabahar, the periwinkle. *Why:* Sadabahar gave the medicines vincristine and vinblastine. Kaner is poisonous. Picking 'kaner' is a reminder that only scientists and doctors who test plants can tell a medicine from a poison.
-8. (mcq) Kavya, a girl in Class 3, put a thermometer on sunny ground. It read 44 degrees. Under a tree, it read 30 degrees. How much cooler was the shade?  
-   Options: 14 degrees / 74 degrees / 30 degrees  
-   **Answer:** 14 degrees. *Why:* 44 minus 30 is 14. So the shade was 14 degrees cooler. Picking 74 means adding instead of taking away.
-9. (mcq) A banana plant is tall, but botanists call them a giant herb. Why?  
-   Options: Their stem has no wood / They have no leaves / They grow on the ground  
-   **Answer:** Their stem has no wood. *Why:* The banana's trunk is rolled leaf bottoms, with no wood. A herb is a plant whose stem does not become wood. Picking 'no leaves' is wrong, because bananas have huge leaves.
+6. (mcq) Which of these is made from a plant?  
+   Options: A paper notebook / A steel spoon / A glass bottle  
+   **Answer:** A paper notebook. *Why:* Paper is made from wood, which comes from tree trunks. Steel is made from iron in rocks, and glass is made from sand. Picking glass often means thinking anything see-through comes from leaves.
+7. (mcq) Why do towns plant big trees like neem along hot streets?  
+   Options: Their shade and their leaves cool the street / Trees make the road stronger / Trees keep the street dark at night  
+   **Answer:** Their shade and their leaves cool the street. *Why:* The leaves block sunlight, and water evaporating from them cools the air. Shade is one of the most important ways people use trees. Picking 'make the road stronger' mixes up shade with roots.
+8. (mcq) In Shade Detective, why do we leave the thermometer for 3 minutes in each place before reading it?  
+   Options: So it has time to warm up or cool down to that place / So the thermometer can rest / Because 3 is a lucky number  
+   **Answer:** So it has time to warm up or cool down to that place. *Why:* A thermometer takes a little time to reach the temperature around it. If you read it at once, it still shows the last place. Waiting the same time everywhere also keeps the test fair.
+9. (mcq) A papaya plant has one tall trunk, but the trunk is soft and spongy inside, with no hard wood. What is the best way to describe papaya?  
+   Options: A plant that does not fit neatly into the five kinds / A climber / A creeper  
+   **Answer:** A plant that does not fit neatly into the five kinds. *Why:* Papaya stands up like a tree, but their trunk is not woody like a tree's. So they sit between the boxes. The five kinds are a useful guide, but some plants do not fit them well.
 10. (mcq) Which of these is true about trees?  
    Options: All trees belong to one family / Plants from many different families became trees separately / Trees were the first plants on Earth  
    **Answer:** Plants from many different families became trees separately. *Why:* 'Tree' is a way of growing. Many unrelated families found it. Tiny land plants came long before trees.
 11. (mcq) Which of these do scientists still not know?  
    Options: Whether bamboo is a grass / How many kinds of plants exist on Earth / Whether trees have trunks  
    **Answer:** How many kinds of plants exist on Earth. *Why:* More than 350,000 plant species are named, and about 2,000 new ones are named each year. Nobody knows the true total.
-12. (mcq) Is it safe to taste a wild plant to find out if they are a medicine?  
-   Options: Yes, if they are natural / No, some plants are poisonous / Yes, if they smell nice  
-   **Answer:** No, some plants are poisonous. *Why:* Some plants, like kaner and datura, are very poisonous, even though they are natural. Never taste a plant unless a grown-up who truly knows them says they are safe.
+12. (mcq) Many medicines first came from plants. Why must a new plant medicine be tested by scientists before people use it?  
+   Options: Some plant chemicals are poisonous, and the safe amount must be found / Plants are always safe, so testing is only for fun / To make the medicine taste nice  
+   **Answer:** Some plant chemicals are poisonous, and the safe amount must be found. *Why:* The same plant can help in a small amount and harm in a large one. Kaner and datura are natural but very poisonous. Testing finds out what works and how much is safe. Picking 'always safe' is the mistake of thinking natural means harmless.
 
 ## Applications
 - Farmers choose kinds of plants by how they grow. Pepper and gourds need supports, pumpkins need space to creep.

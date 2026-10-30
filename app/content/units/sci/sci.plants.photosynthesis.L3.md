@@ -91,7 +91,7 @@ Plants need energy to grow, to build flowers and to mend themselves. They get th
 - e.g. A pile of fresh grass clippings gets warm inside, because the grass cells, and tiny microbes in the pile, are respiring.
 - e.g. A potato in a dark cupboard is respiring slowly. They slowly use up some of their stored food, and go soft.
 ### Nearly every food chain starts with a leaf · *defined*
-**Definition:** Plants and algae make their own food from light. Almost every other living thing gets its food by eating them, or by eating something that ate them.
+**Definition:** Plants and algae make their own food from light. Almost every other living being gets their food by eating them, or by eating something that ate them.
 
 Think of your lunch. The rice and dal came from plants. The milk came from a cow that ate grass. The fish ate smaller animals, which ate tiny algae in the sea. Follow any food back far enough and you reach a green thing in the sunlight. Living things that make their own food are called producers. Animals, which must eat, are called consumers. Mushrooms and many bacteria feed on dead plants and animals. They return carbon dioxide and minerals to the air and soil, so plants can use them again. The atoms go round and round. Only the energy comes in fresh each day, as sunlight. The unit on food chains follows this much further.
 - e.g. Grass to goat to leopard.
@@ -463,7 +463,7 @@ Next summer, she thought, a little bit of me will be a mango.
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a water plant makes oxygen faster in brighter light. What I saw: with the lamp 10 cm away, they gave 30 bubbles a minute. At 40 cm it gave only 6, and with the lamp off, none. Why: the plant uses light's energy to make food and split water, so more light means more oxygen.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a water plant makes oxygen faster in brighter light. What I saw: with the lamp 10 cm away, they gave 30 bubbles a minute. At 40 cm they gave only 6, and with the lamp off, none. Why: the plant uses light's energy to make food and split water, so more light means more oxygen.
 
 ## Activities
 ### a1 · Where Did the Giant Come From? (12 min)
@@ -677,125 +677,120 @@ Next summer, she thought, a little bit of me will be a mango.
 
 ## Worksheets
 ### Leaf Kitchen Detective (core) (core, 16 questions)
-1. (mcq) What does a green leaf make by photosynthesis?  
-   Options: Soil / Sugar, its food / Water / Carbon dioxide  
-   **Answer:** Sugar, its food. *Why:* A leaf makes sugar, the plant's food. Picking 'soil' usually means thinking plants are made of soil. Picking 'carbon dioxide' mixes up what goes in with what comes out. Carbon dioxide goes in.
-2. (sort) Sort these. Which go INTO a leaf for photosynthesis, and which come OUT?  
-   **Answer:** sunlight → Goes in; water → Goes in; carbon dioxide → Goes in; sugar → Comes out; oxygen → Comes out. *Why:* Light, water and carbon dioxide go in. The leaf makes sugar, which it keeps, and oxygen, which it lets go into the air.
-3. (fill) The green colouring in leaves that catches sunlight is called ____.  
-   **Answer:** ['chlorophyll']. *Why:* Chlorophyll soaks up red and blue light and uses its energy to make food.
-4. (mcq) Which gas do leaves take in from the air to make food?  
-   Options: Oxygen / Carbon dioxide / Steam / Smoke  
-   **Answer:** Carbon dioxide. *Why:* Leaves take in carbon dioxide and build it into sugar. Picking 'oxygen' is very common, because people and animals take in oxygen. Leaves give oxygen out while they make food.
-5. (mcq) Which cup's discs floated up?  
-   Options: The cup in the dark, with baking soda / The cup in the light, with baking soda / The cup in the light, with plain water / All three cups  
-   **Answer:** The cup in the light, with baking soda. *Why:* Only the cup with both light and carbon dioxide from the baking soda floated. The leaf needs both to make oxygen. Picking 'all three' usually means thinking leaves float anyway. But the discs in the other two cups stayed sunk.
-6. (truefalse) A plant gets their food by eating the soil.  
-   **Answer:** False. *Why:* False. A plant makes their own food in their leaves, from air and water, using light. The soil gives only water and a pinch of minerals.
-7. (truefalse) Brown iodine turns blue-black on starch.  
-   **Answer:** True. *Why:* True. That is how we test foods and leaves for starch, the food store plants make from sugar.
-8. (match) Match each food to what iodine does to it.  
-   **Answer:** raw potato → turns blue-black; cooked rice → turns blue-black; sugar → stays brown; salt → stays brown. *Why:* Potato and rice are full of starch, so iodine turns blue-black. Sugar is not starch, though plants join sugars to make starch. Salt is not from a plant at all.
-9. (mcq) The leaf turned blue-black, except under the black paper star. Why was the star part pale?  
-   Options: It got no light, so it made no food there / The paper ate the starch / The iodine missed it / That part was too wet  
-   **Answer:** It got no light, so it made no food there. *Why:* Without light, a leaf cannot make sugar, so it stores no starch. Picking 'the iodine missed it' is a careful thought. But the whole leaf was covered in iodine, and only the star stayed pale.
-10. (mcq) Why do leaves look green?  
-   Options: They soak up green light / They bounce green light back to our eyes / They are full of green water / They are painted by the Sun  
-   **Answer:** They bounce green light back to our eyes. *Why:* Chlorophyll soaks up red and blue light and bounces most green light back. The colour that bounces back is the colour we see. Picking 'soak up green' is a very common mix-up. Things look the colour they do not soak up.
-11. (fill) The tiny holes in a leaf that let carbon dioxide in are called ____.  
-   **Answer:** ['stomata', 'stoma']. *Why:* Stomata are tiny holes, mostly on the underside of a leaf. Carbon dioxide comes in and oxygen goes out through them.
-12. (mcq) Where does most of a tree's wood come from?  
-   Options: The soil / Carbon dioxide in the air / The roots / The rain only  
-   **Answer:** Carbon dioxide in the air. *Why:* Leaves build wood from carbon dioxide in the air, joined with a little water, using sunlight. Picking 'the soil' is the most common idea, even among grown-ups. Van Helmont showed the soil hardly changes as a tree grows.
-13. (mcq) In the bubble count, when did the water plant give off the most bubbles?  
-   Options: Lamp 10 cm away / Lamp 40 cm away / Lamp switched off / It was always the same  
-   **Answer:** Lamp 10 cm away. *Why:* The closer the lamp, the brighter the light, and the faster the plant made oxygen. Picking 'switched off' usually means thinking plants make oxygen at night. They need light to do it.
-14. (write) Your friend says, 'Plants eat soil.' Write two sentences to tell them what really happens.  
-   **Answer:** Plants make their own food in their leaves. They use sunlight to join carbon dioxide from the air with water, and make sugar. The soil only gives water and a few minerals.. *Why:* A good answer says the food is made in the leaves, names light, air and water, and says the soil gives only a little.
-15. (write) Name three foods you ate today. Say how each one began with a leaf in the sun.  
-   **Answer:** For example: rice grew from a rice plant whose leaves made sugar in the sun. Milk came from a cow that ate grass. Banana came from a banana plant's leaves.. *Why:* Every food can be traced back to photosynthesis. Animal foods count too, because animals eat plants.
-16. (draw) Draw a leaf. Draw arrows for sunlight, water and carbon dioxide going in, and oxygen coming out. Write where the sugar goes.  
-   **Answer:** Three arrows in, labelled sunlight, water and carbon dioxide. One arrow out labelled oxygen. A note saying the sugar stays in the plant, to make them grow.. *Why:* This drawing is a model of photosynthesis. It shows what goes in and what comes out.
-### A Tree Made of Air (stretch) (stretch, 15 questions)
-1. (mcq) Van Helmont's willow gained about 75 kilograms. The soil lost only about 60 grams. What does this show?  
-   Options: The tree was not built from soil / The soil was magic / The willow ate the pot / His scale was broken  
-   **Answer:** The tree was not built from soil. *Why:* If the tree were made of soil, the soil would have lost about 75 kilograms. It lost only a tiny bit. Van Helmont thought the tree was made of water. We now know most of the tree came from carbon dioxide in the air. Picking 'his scale was broken' is a good scientist's doubt. But scientists have repeated tests like this many times.
-2. (mcq) When a big log burns, only a small heap of ash is left. Where did most of the log go?  
-   Options: Into the air, as carbon dioxide and water vapour / Into the ground / It turned into nothing / Into the fire's light only  
-   **Answer:** Into the air, as carbon dioxide and water vapour. *Why:* Burning turns the wood back into the gases it was built from. The ash is the minerals that came from the soil. Picking 'nothing' usually means thinking things can vanish. Atoms never vanish.
-3. (fill) Limewater turns ____ when you breathe carbon dioxide into it.  
-   **Answer:** ['milky', 'cloudy', 'white']. *Why:* Carbon dioxide reacts with the lime to make tiny bits of chalk, which make the water milky.
-4. (mcq) The oxygen that bubbles out of a leaf comes from which ingredient?  
-   Options: Water / Carbon dioxide / The soil / The sunlight  
-   **Answer:** Water. *Why:* Light's energy splits water. The leaf keeps the hydrogen and lets the oxygen go. Picking 'carbon dioxide' was what scientists thought too, until 1941. Then a test with a special kind of oxygen showed it comes from water.
-5. (truefalse) Plants use oxygen too, all day and all night.  
-   **Answer:** True. *Why:* True. Every plant cell respires, using oxygen to get energy from sugar. In daylight, plants make far more oxygen than they use.
-6. (mcq) At night, what does a plant do?  
-   Options: Makes lots of oxygen / Only respires, taking in a little oxygen / Stops being alive / Makes sugar from moonlight  
-   **Answer:** Only respires, taking in a little oxygen. *Why:* With no light, there is no photosynthesis. The plant only respires, like us. Picking 'sugar from moonlight' is a fair guess. Moonlight is sunlight bounced off the Moon, but it is far too dim to make much food.
-7. (sort) Sort these into things that MAKE their own food from light, and things that must EAT.  
-   **Answer:** grass → Makes food from light; seaweed → Makes food from light; cyanobacteria in a pond → Makes food from light; goat → Must eat; mushroom → Must eat; person → Must eat. *Why:* Plants, algae like seaweed and cyanobacteria make their own food from light. Animals and fungi like mushrooms must take food from others. A mushroom is not a plant.
-8. (order) Put this food chain in order, starting with where the energy comes from: goat, Sun, leopard, grass.  
-   **Answer:** order shown. *Why:* Energy comes from the Sun. Grass catches it by photosynthesis. The goat eats the grass. The leopard eats the goat.
-9. (mcq) Old peepal leaves turn yellow before they fall. Why?  
-   Options: The green chlorophyll breaks down, and the hidden yellow shows / The leaves fill up with yellow water / Yellow is the colour of tiredness / The Sun paints them  
-   **Answer:** The green chlorophyll breaks down, and the hidden yellow shows. *Why:* The chalk test showed green leaves already have yellow colours inside. The green covers them up until the chlorophyll breaks down. Picking 'yellow water' usually means thinking colour comes from what the plant drinks.
-10. (mcq) In the Build a Sugar activity, you used 6 black carbon balls to build one sugar. Where did those carbons come from?  
-   Options: The 6 carbon dioxide molecules / The 6 water molecules / The soil / Nowhere, they were new  
-   **Answer:** The 6 carbon dioxide molecules. *Why:* Each carbon dioxide has one carbon. Six carbon dioxides give six carbons, exactly what one sugar needs. Water has no carbon. Picking 'they were new' usually means thinking atoms can be made from nothing. They are only rearranged.
-11. (match) Match each scientist to what they found.  
-   **Answer:** Jan Baptist van Helmont → a tree is not made of soil; Joseph Priestley → a mint plant 'restored' air in a jar; Jan Ingenhousz → plants freshen air only in light, with their green parts; Penny Chisholm → found one of the commonest tiny living things in the sea, in 1988. *Why:* Photosynthesis was worked out by many people, over hundreds of years, each adding one piece.
-12. (mcq) Some people say the Amazon rainforest makes 20 out of every 100 parts of the world's oxygen. What is wrong with this?  
-   Options: The forest's animals, fungi and microbes use up almost all the oxygen it makes / Rainforests make no oxygen at all / The Amazon is too small to matter / Oxygen only comes from the sea  
-   **Answer:** The forest's animals, fungi and microbes use up almost all the oxygen it makes. *Why:* The Amazon makes huge amounts of oxygen. But almost everything living in it breathes, and rotting uses oxygen too. So it adds very little extra. Picking 'no oxygen at all' goes too far the other way. The forest is still hugely important for storing carbon and for life.
-13. (write) Malar in the story said the tulsi was not made of soil. What was her evidence?  
-   **Answer:** The tulsi had grown for nine years, but the soil was still on the line her mother had scratched in the pot. If the tulsi were made of soil, the soil would have gone down.. *Why:* A good answer names the scratch, the nine years of growth, and what would have happened if the plant ate soil.
-14. (write) Why do you think a cactus can live in the desert with no proper leaves? Where do they make their food?  
-   **Answer:** A cactus makes their food in their thick green stem, which has chlorophyll. Having no wide leaves means less water escapes. Many cacti open their tiny holes only at night, when it is cooler.. *Why:* Any green part can do photosynthesis. A good answer names the green stem and links it to saving water.
-15. (draw) Draw the loop of air between you and a tree. Show what you give the tree and what they give you.  
-   **Answer:** An arrow from the child to the tree labelled carbon dioxide, and an arrow from the tree to the child labelled oxygen. Better drawings add sunlight going into the tree.. *Why:* People and plants share air. We breathe out carbon dioxide, which plants use. Plants give out oxygen, which we use.
+1. (sort) During photosynthesis, some things go into a leaf, some are made and kept, and one goes out into the air. Sort them.  
+   **Answer:** sunlight → Goes into the leaf; water → Goes into the leaf; carbon dioxide → Goes into the leaf; sugar → Made and kept in the plant; starch → Made and kept in the plant; oxygen → Goes out into the air. *Why:* Light, water and carbon dioxide go in. The plant makes sugar, and stores some of it as starch. Oxygen is left over and goes out. A strong answer does not put oxygen and carbon dioxide the wrong way round.
+2. (fill) The green colouring in leaves that catches sunlight is called ____.  
+   **Answer:** ['chlorophyll']. *Why:* Chlorophyll catches the energy in sunlight. The leaf uses that energy to make food.
+3. (mcq) Arjun says, 'Plants take in oxygen to make their food, just like we do.' What has he mixed up?  
+   Options: To make food, a leaf takes in carbon dioxide and gives out oxygen / Plants do not make food at all / Plants take in smoke / Nothing, he is right  
+   **Answer:** To make food, a leaf takes in carbon dioxide and gives out oxygen. *Why:* Photosynthesis takes in carbon dioxide and gives out oxygen. Arjun is half right about one thing: plants also use a little oxygen all the time to get energy from their sugar, as we do. A strong answer separates making food from using it.
+4. (mcq) Meenakshi puts sunk spinach discs in baking-soda water, and leaves the cup in a dark cupboard for 25 minutes. What will she see?  
+   Options: The discs stay at the bottom / The discs all float up / The discs turn blue-black / The water turns milky  
+   **Answer:** The discs stay at the bottom. *Why:* In the dark, the leaf cannot make food, so it makes no oxygen. With no bubbles, the discs stay sunk. Picking 'all float up' means thinking carbon dioxide alone is enough. The leaf needs light as well.
+5. (truefalse) Plants grow big because they suck food up out of the soil.  
+   **Answer:** False. *Why:* False. A plant makes their own food, sugar, in their leaves, from carbon dioxide and water, using light. The roots take up water and a pinch of minerals. A strong answer says where the food is really made.
+6. (match) Each of these foods is a part of a plant, full of food that the leaves made. Match each food to the part it is.  
+   **Answer:** a grain of rice → a seed; a potato → a swollen stem under the ground; sugarcane → a stem full of sugar; spinach → leaves. *Why:* Leaves make sugar. The plant sends it to other parts and stores it, often as starch. That is why seeds, stems and roots can be full of food.
+7. (mcq) In the starch picture experiment, the black paper is clipped on both sides of the leaf, top and bottom. Why?  
+   Options: So no light at all reaches that part of the leaf / So the leaf does not fall off / To keep the leaf warm / To stop the iodine getting in  
+   **Answer:** So no light at all reaches that part of the leaf. *Why:* The test asks: does a leaf make starch only where light falls? So the covered part must get no light at all, from above or below. A strong answer says what the test is checking.
+8. (write) Your aunt adds fertiliser to her potted plant and says, 'This is the plant's food.' Is she right? Explain.  
+   **Answer:** A strong answer says not quite. Fertiliser gives minerals, which a plant needs in small amounts, a bit like vitamins. The plant's real food is sugar, which the leaves make from carbon dioxide and water, using sunlight.. *Why:* Many people call fertiliser 'plant food'. The answer should say what fertiliser does and where the real food is made.
+9. (fill) Carbon dioxide gets into a leaf through tiny holes, mostly on the underside. These holes are called ____.  
+   **Answer:** ['stomata', 'stoma']. *Why:* Stomata open to let carbon dioxide in and oxygen out. They close when the plant is short of water.
+10. (mcq) Lakshmi moves a lamp from 40 cm away to 10 cm away from a water plant. What happens to the bubbles?  
+   Options: More bubbles come, because the light is brighter / Fewer bubbles come, because the plant gets too hot / The bubbles stop / Nothing changes  
+   **Answer:** More bubbles come, because the light is brighter. *Why:* Brighter light gives the plant more energy, so they make food and oxygen faster. Picking 'too hot' is a careful thought, which is why the lamp should be an LED that stays cool. A strong answer links light to how fast oxygen is made.
+11. (write) After the Rising Leaf Discs, write three sentences. What did you guess before? What did you see? Why do you think it happened?  
+   **Answer:** For example: I guessed the discs in the dark would float too. I saw all 10 discs float in the sunny baking-soda cup, and none in the other two. I think the leaf needs light and carbon dioxide to make oxygen, and the oxygen bubbles lifted the discs.. *Why:* A strong answer is honest about the guess, gives what was seen with a number, and gives a reason using light and carbon dioxide.
+12. (draw) Draw a leaf. Draw arrows for what goes in and what comes out. Then draw where the sugar goes.  
+   **Answer:** Arrows in for sunlight, water and carbon dioxide. An arrow out for oxygen. An arrow from the leaf down the stem to the roots, fruit or a growing tip, labelled sugar.. *Why:* A strong drawing shows the sugar staying inside the plant, because the plant uses it to live and grow.
+13. (perspective) Three people in Chennai argue about keeping plants in a bedroom at night.  
+   **Answer:** A strong answer uses the science. For example: I agree with Dr Revathi, because plants only respire in the dark and use very little oxygen. Then it is fair to another view, for example: Paati is right that plants give out carbon dioxide at night.. *Why:* Each person is partly right. Plants do respire at night, and they do give out oxygen in the day. The amounts in a bedroom are small either way.
+14. (truefalse) A leaf can make food only while light falls on it.  
+   **Answer:** True. *Why:* True. Light gives the energy to join carbon dioxide and water into sugar. In the dark, the leaf stops making food, though the plant keeps using the food already made.
+15. (write) Name three foods you ate today. For each one, say how it began with a leaf in the sunlight.  
+   **Answer:** For example: my dosa was made from rice and urad dal, the seeds of plants whose leaves made sugar in the sun. My curd came from a cow who ate grass. My banana grew on a banana plant whose leaves made the sugar in it.. *Why:* A strong answer traces each food back to a plant, even animal foods, because animals eat plants.
+16. (order) Put these steps of photosynthesis in order.  
+   **Answer:** order shown. *Why:* Light comes first, because it gives the energy. Sugar and oxygen come out of the joining. A strong answer puts the sugar to use at the end.
+### A Tree Made of Air (stretch) (stretch, 16 questions)
+1. (mcq) Look at the chart from the bubble count. About how many bubbles would you expect in one minute with the lamp 30 cm away?  
+   Options: About 10 / About 40 / None / About 30  
+   **Answer:** About 10. *Why:* 30 cm is between 20 cm, which gave 16 bubbles, and 40 cm, which gave 6. So the answer should be between 6 and 16. Picking 'about 40' would mean the plant made more oxygen in dimmer light. A strong answer uses the pattern to predict.
+2. (mcq) In Burn It Back to Air, the dry twigs weighed 50 grams. After burning, the ash weighed about 1 gram. Where did the other 49 grams go?  
+   Options: Into the air, as carbon dioxide and water vapour / Into the steel bowl / They turned into nothing / Into the light of the fire  
+   **Answer:** Into the air, as carbon dioxide and water vapour. *Why:* Burning turns the wood back into the gases it was built from. The ash is the small part that came from the soil. Picking 'nothing' means thinking things can vanish. A strong answer says the wood went back where it came from: the air.
+3. (fill) When you blew into limewater through a straw, it turned ____. This showed that your breath has carbon dioxide in it.  
+   **Answer:** ['milky', 'cloudy', 'white']. *Why:* Carbon dioxide reacts with the lime and makes tiny bits of chalk, which make the water milky. The same gas is what trees are built from.
+4. (write) Most people guess that a tree is built from soil. Give two pieces of evidence from this unit that it is not.  
+   **Answer:** Any two. For example: Van Helmont's willow gained about 75 kilograms while the soil lost only about 60 grams. Burning twigs leaves only a tiny heap of ash. In the story, the soil in the tulsi pot stayed on the scratched line for nine years. In my own pot, the plants got heavier but the soil did not get lighter.. *Why:* A strong answer gives real evidence, with numbers where it can, and says what each one shows.
+5. (mcq) Scientists once thought the oxygen a leaf gives out comes from carbon dioxide. In 1941, a test with a special kind of oxygen showed where it really comes from. Where?  
+   Options: From water, split by light's energy / From the soil / From the sunlight itself / From the leaf's own body  
+   **Answer:** From water, split by light's energy. *Why:* The leaf uses light's energy to split water. It keeps the hydrogen to build sugar, and lets the oxygen go. Picking 'carbon dioxide' was a sensible guess, and scientists believed it for years. A test settled it.
+6. (truefalse) A plant uses oxygen only at night.  
+   **Answer:** False. *Why:* False. A plant respires all the time, day and night, using oxygen to get energy from sugar. In daylight they make much more oxygen than they use, so we only notice the using at night.
+7. (sort) Sort these living beings. Who makes their own food from light, and who must eat?  
+   **Answer:** grass → Makes food from light; seaweed → Makes food from light; cyanobacteria in a pond → Makes food from light; a neem tree → Makes food from light; a goat → Must eat; a mushroom → Must eat; a crow → Must eat; you → Must eat. *Why:* Plants, seaweed and cyanobacteria photosynthesise. A mushroom is not a plant. They feed on dead leaves and wood. A strong answer puts the mushroom with the eaters, even though they grow in the ground.
+8. (order) Put this food chain from the sea near Kochi in order, starting with where the energy comes from: sardine, Sun, a person eating fish curry, tiny floating algae, tiny shrimp.  
+   **Answer:** order shown. *Why:* In the sea, tiny algae do the photosynthesis. Shrimp eat the algae, sardines eat the shrimp, and people eat the sardines. Every step started with sunlight caught by the algae.
+9. (mcq) In the Hidden Colours activity, yellow and orange bands climbed the chalk with the green. Old peepal leaves turn yellow before they fall. Why?  
+   Options: The green chlorophyll breaks down, and the yellow that was always there shows / The leaves fill up with yellow water / Yellow is the colour of tired leaves / The Sun paints them  
+   **Answer:** The green chlorophyll breaks down, and the yellow that was always there shows. *Why:* The chalk showed that green leaves already hold yellow colours. The green covers them until the chlorophyll breaks down. A strong answer uses the chalk result as evidence.
+10. (mcq) In Build a Sugar, you took apart 6 carbon dioxides and 6 waters and built one sugar. You had 12 red oxygen balls left over. What are they in a real leaf?  
+   Options: The oxygen the leaf gives out into the air / Spare sugar / Carbon dioxide / Soil  
+   **Answer:** The oxygen the leaf gives out into the air. *Why:* The 12 leftover oxygen atoms pair up into 6 oxygen molecules, which go out of the leaf. Nothing was lost and nothing new was made. A strong answer says atoms are only rearranged.
+11. (perspective) Where does the oxygen we breathe come from? Three people answer differently.  
+   **Answer:** A strong answer picks one and gives evidence, for example: Dr Shalini, because half of photosynthesis is in the sea, which most people forget. Then it is fair to another, for example: Kavya is right that forests make a lot of oxygen, and Selvi is right that they also use it.. *Why:* This is a real argument. In 2019 many news stories called the Amazon the lungs of the world. Scientists pointed out that a mature forest uses up almost all the oxygen it makes. Each view has some truth.
+12. (write) In the story, Malar's mother scratched a line inside the tulsi pot, just above the soil. If the tulsi really ate soil, what would the line show after nine years?  
+   **Answer:** A strong answer says the soil would have sunk far below the line, because nine years of leaves and stems would have used it up. But the soil was still on the line. So the tulsi was not built from soil.. *Why:* This asks the child to say what the evidence would look like if the wrong idea were true. That is how a test tells two ideas apart.
+13. (write) A cactus has no proper leaves, only spines. Where does a cactus make their food? Why might this help in a desert?  
+   **Answer:** A strong answer says a cactus makes food in their thick green stem, which has chlorophyll. Without wide leaves, less water escapes. Many cacti open their stomata only at night, when it is cooler.. *Why:* Any green part of a plant can photosynthesise. The answer should name the green stem and link it to saving water.
+14. (draw) Draw yourself and a tree. Draw the gases that pass between you, with arrows and labels. Add the sunlight.  
+   **Answer:** An arrow from me to the tree labelled carbon dioxide. An arrow from the tree to me labelled oxygen. Sunlight shining on the tree's leaves.. *Why:* A strong drawing shows the loop: we breathe out what plants build with, and plants give out what we breathe in.
+15. (match) Match each part of a plant to its job in photosynthesis.  
+   **Answer:** leaf → catches light and makes sugar; root → takes in water and a few minerals; stomata → let carbon dioxide in and oxygen out; stem → carries water up and sugar around the plant. *Why:* Photosynthesis happens in the leaves, but the whole plant helps. A strong answer gives each part a different job.
+16. (mcq) Van Helmont decided that his willow tree was made of water. What did he not know about?  
+   Options: The carbon dioxide in the air, which plants build with / The soil / The rain / The roots  
+   **Answer:** The carbon dioxide in the air, which plants build with. *Why:* He saw that the soil hardly changed, and he gave only water, so water seemed the only answer. Nobody yet knew that air has a gas in it that plants build into sugar. Water does give the hydrogen. A strong answer says he was partly right.
 ### Light, Atoms and the History of Air (challenge) (challenge, 16 questions)
-1. (mcq) Dry wood is about half carbon. Where did that carbon come from?  
-   Options: Carbon dioxide in the air / Coal in the soil / Water / Sunlight  
-   **Answer:** Carbon dioxide in the air. *Why:* The carbon came from carbon dioxide that the leaves took in. Sunlight gave the energy, but light is not made of atoms. Picking 'sunlight' is a deep mix-up. Light gives the energy to build, but the building blocks are atoms from the air.
-2. (mcq) Sunlight reaching Earth left the Sun about how long ago?  
-   Options: About 8 minutes ago / About 8 seconds ago / About 8 years ago / It arrives at the same instant  
-   **Answer:** About 8 minutes ago. *Why:* Light is the fastest thing there is, but the Sun is very far away. Its light takes about 8 minutes to reach us. Picking 'the same instant' is natural, because light seems instant on Earth.
-3. (truefalse) There has always been plenty of oxygen in Earth's air.  
-   **Answer:** False. *Why:* False. For the first two billion years there was almost none. Tiny cyanobacteria made it by photosynthesis, very slowly. Enough had built up by about 2.4 billion years ago to change the air.
-4. (mcq) Chloroplasts, the tiny green parts in leaf cells, were once what?  
-   Options: Free-living cyanobacteria, swallowed by a bigger cell long ago / Grains of soil / Drops of rain / Tiny insects  
-   **Answer:** Free-living cyanobacteria, swallowed by a bigger cell long ago. *Why:* Lynn Margulis argued for this in 1967, and many scientists thought she was wrong. The evidence now shows she was right. Chloroplasts even have their own small set of genes. Picking 'tiny insects' is a fun idea, but chloroplasts are much smaller and much older than insects.
-5. (fill) About ____ out of every 100 parts of the world's photosynthesis happens in the sea.  
-   **Answer:** ['50', 'fifty', 'half']. *Why:* Tiny floating algae and cyanobacteria, called phytoplankton, do about half of it. Land plants do the other half.
-6. (mcq) A field of crops stores only about 2 out of every 100 parts of the sunlight that falls on it. What happens to most of the rest?  
-   Options: It bounces away or warms the leaves / It is stored in the soil / It is turned into oxygen / It goes back to the Sun  
-   **Answer:** It bounces away or warms the leaves. *Why:* Most sunlight is reflected, or soaks in and becomes warmth. Leaves often get more light than they can use. Picking 'turned into oxygen' mixes up energy and matter. Oxygen comes from water, not from light.
-7. (mcq) Which of these living things makes their food WITHOUT any sunlight?  
-   Options: Bacteria by hot springs on the deep sea floor / A mango tree / Seaweed on a rocky beach / Algae in a pond  
-   **Answer:** Bacteria by hot springs on the deep sea floor. *Why:* Near deep-sea hot springs, bacteria make food using energy from chemicals in the water. This is called chemosynthesis. The other three all need light. Picking seaweed often means thinking 'in the sea' means 'in the dark'. Seaweed grows where light reaches.
-8. (write) Some scientists think quantum physics helps leaves pass on light's energy. Others disagree. How could scientists find out who is right?  
-   **Answer:** For example: they could build two copies of a light-catching part, one where the wave-like effect can happen and one where it cannot. Then they could measure which one passes on the energy better.. *Why:* A good test changes only the one thing being argued about, and measures the result.
-9. (mcq) Why do scientists still not know why plants are green rather than black?  
-   Options: There are several good ideas, and none has been proved yet / Nobody has ever asked / Plants are not really green / Black plants exist everywhere  
-   **Answer:** There are several good ideas, and none has been proved yet. *Why:* Ideas include the Purple Earth idea, keeping the energy supply steady, and protection from too much light. Each has some evidence, but none is settled. Picking 'nobody has ever asked' is not right. Many scientists are working on it.
-10. (write) In the story, Saraswathi said the Mudalali could keep a pinch of the mangoes. Explain the science behind her joke.  
-   **Answer:** A mango tree is built mostly from carbon dioxide in the air and water from rain, using sunlight. Only a tiny pinch comes from minerals in the soil. So if the Mudalali owns only the soil, he owns only a pinch of the tree.. *Why:* A good answer says what the tree is made of, and links the tiny soil part to the 'pinch'.
-11. (mcq) Melvin Calvin won a Nobel Prize for working out how plants build sugar. Many scientists now call it the Calvin-Benson-Bassham cycle. Why?  
-   Options: Andrew Benson and James Bassham did much of the work too / Calvin asked them to / It sounds better / Three cycles were found  
-   **Answer:** Andrew Benson and James Bassham did much of the work too. *Why:* Benson and Bassham were key members of the team, but only Calvin got the prize. Adding their names shares the credit more fairly. Picking 'it sounds better' misses the reason, which is fairness about who did the work.
-12. (mcq) Your neighbour says, 'Don't keep plants in the bedroom at night. They will steal your oxygen.' What would you tell her?  
-   Options: Plants use a tiny bit of oxygen at night, far less than a sleeping person. It is safe. / She is right, plants are dangerous at night / Plants make extra oxygen at night / Plants stop breathing at night  
-   **Answer:** Plants use a tiny bit of oxygen at night, far less than a sleeping person. It is safe.. *Why:* Plants do respire at night, using a little oxygen. But the amount is tiny. Picking 'extra oxygen at night' is backwards. Without light, plants make no oxygen.
-13. (write) If every plant and alga on Earth stopped doing photosynthesis, what would happen? Think about food AND air.  
-   **Answer:** Animals would soon run out of food, because every food chain starts with plants and algae. Over a much longer time, the oxygen in the air would slowly be used up by breathing and rotting, and not replaced.. *Why:* A good answer covers both food and oxygen. It notices that food would run out first, because the air holds a huge store of oxygen.
-14. (write) Planting trees takes carbon dioxide out of the air. Is planting trees enough to stop the world getting warmer? Give one reason for and one against.  
-   **Answer:** For: growing trees lock carbon from the air into wood. Against: people put carbon dioxide into the air far faster than trees can take it up. Trees also give it back when they burn or rot. So we also need to burn less coal, oil and gas.. *Why:* There is no single right answer. What counts is a reason for each side.
-15. (mcq) A Mars greenhouse uses red and blue lamps, not green ones. Why?  
-   Options: Chlorophyll soaks up red and blue light best / Green lamps are too bright / Plants on Mars are red / Red and blue lamps are warmer  
-   **Answer:** Chlorophyll soaks up red and blue light best. *Why:* Leaves use mostly red and blue light. Much of the green light bounces off, so green lamps would feed the plants less well for the same electricity. Picking 'warmer' is a guess about heat. LED lamps are chosen for their colour, not their warmth.
-16. (draw) Draw the journey of one carbon atom: from your breath, into a leaf, into a mango, into you, and back into the air.  
-   **Answer:** A loop of at least four pictures. A child breathes out, a leaf takes in carbon dioxide, a mango grows, and the child eats it. An arrow goes back to the breath.. *Why:* Carbon atoms go round and round between air, plants and animals. Only the energy comes in fresh, from the Sun.
+1. (write) Sunlight gives a leaf the energy to make sugar. But light is not made of atoms. So is a tree 'made of sunlight'? Explain your thinking.  
+   **Answer:** A strong answer says no, not the material. A tree's body is built of atoms, mostly carbon and oxygen from carbon dioxide, and hydrogen from water. Sunlight gives the energy that joins them. Some of that energy is stored in the wood, which is why wood burns and gives out heat and light.. *Why:* This separates the building blocks, atoms from air and water, from the energy, which comes from the Sun.
+2. (mcq) Deep inside the Sun, hydrogen atoms join to make helium and give off energy. How is this linked to the idli you ate for breakfast?  
+   Options: The energy reached Earth as light, a rice plant stored it in starch, and you got it from the idli / The idli was cooked by the Sun / The idli is made of helium / There is no link  
+   **Answer:** The energy reached Earth as light, a rice plant stored it in starch, and you got it from the idli. *Why:* Sunlight carries the Sun's energy. Rice leaves caught it and stored it in the grain as starch. Eating the idli gives you that energy. A strong answer follows the energy step by step.
+3. (truefalse) Earth's air has had plenty of oxygen ever since Earth formed.  
+   **Answer:** False. *Why:* False. For about the first two billion years there was almost no oxygen. Tiny cyanobacteria in the sea made it by photosynthesis, very slowly. A strong answer says oxygen in the air was made by living beings.
+4. (mcq) Lynn Margulis argued in 1967 that chloroplasts, the tiny green parts in leaf cells, were once something else. Many scientists thought she was wrong. Now most agree with her. What were chloroplasts once?  
+   Options: Free-living cyanobacteria, taken inside a bigger cell long ago / Grains of soil / Drops of rain / Tiny insects  
+   **Answer:** Free-living cyanobacteria, taken inside a bigger cell long ago. *Why:* Chloroplasts have their own small set of genes and split in two like bacteria. That evidence convinced other scientists. A strong answer notes that an idea many people rejected turned out to be right.
+5. (perspective) Is planting trees enough to stop the world getting warmer? Three people disagree.  
+   **Answer:** A strong answer uses the science, for example: trees do lock carbon from the air into wood, so planting helps. It also weighs another side, for example: Farzana is right that trees are too slow on their own, and trees give their carbon back when they burn or rot.. *Why:* Most scientists say planting trees helps, but it is not enough by itself. Land and water are real limits too. There is no single right answer.
+6. (mcq) In 1771, Joseph Priestley put a mint plant in a closed jar where a candle had burned out. Some days later, a candle could burn in the jar again. Why?  
+   Options: The plant had given out oxygen, which a flame needs / The plant had made the jar warmer / The plant had eaten the smoke / The candle had grown back  
+   **Answer:** The plant had given out oxygen, which a flame needs. *Why:* A flame uses up oxygen. In light, the mint plant made oxygen by photosynthesis, so the air could keep a flame going again. Priestley did not yet know the name of the gas. A strong answer names oxygen and the light the plant needed.
+7. (write) Scientists still argue about why leaves are green and not black. One idea is that black leaves would soak up too much light and get damaged. How could you test whether too much light harms a leaf?  
+   **Answer:** For example: take two of the same potted plant. Keep one in normal sunlight and put the other under much stronger light for the same number of hours. Give both the same water. After a week, compare the leaves for pale or brown patches.. *Why:* A strong test changes only the amount of light, keeps everything else the same, and says what to look for. It is fine to say the answer is not known yet.
+8. (mcq) A field of crops stores only about 2 out of every 100 parts of the sunlight that falls on it. What happens to most of the rest?  
+   Options: It bounces away, or warms the leaves and the ground / It is stored in the soil / It is turned into oxygen / It goes back to the Sun  
+   **Answer:** It bounces away, or warms the leaves and the ground. *Why:* Most sunlight is reflected, or soaks in and becomes warmth. Leaves often get more light than they can use. Picking 'turned into oxygen' mixes up energy with atoms. The oxygen comes from water.
+9. (write) In the story, Saraswathi told the Mudalali he could keep 'a pinch of the mangoes'. Explain the science behind her joke.  
+   **Answer:** A strong answer says a mango tree is built mostly from carbon dioxide in the air and water from rain, using sunlight. Only a tiny pinch, the minerals, comes from the soil. So if the Mudalali owns only the soil, he owns only a pinch of the tree.. *Why:* The answer should say what the tree is made of, and link the tiny soil part to the pinch.
+10. (write) Imagine every plant and alga on Earth stopped photosynthesis tomorrow. What would run out first, food or oxygen? Explain.  
+   **Answer:** A strong answer says food would run out first. Every food chain starts with plants and algae, and animals would soon have nothing to eat. The air holds a huge store of oxygen, so it would last much longer, but slowly be used up by breathing and rotting.. *Why:* This asks the child to compare two effects and reason about which is faster.
+11. (mcq) Astronauts are planning a greenhouse on Mars, lit by lamps. Why would they choose red and blue lamps, not green ones?  
+   Options: Chlorophyll soaks up red and blue light best, and bounces much of the green away / Green lamps are too bright / Plants on Mars are red / Red and blue lamps are warmer  
+   **Answer:** Chlorophyll soaks up red and blue light best, and bounces much of the green away. *Why:* Leaves use mostly red and blue light. Much green light bounces off, so green lamps would feed the plants less well for the same electricity. A strong answer links the lamp colour to what chlorophyll does.
+12. (fill) Plants join many sugars together into a long chain to store food for later. This store is called ____.  
+   **Answer:** ['starch']. *Why:* Rice, potatoes and wheat are full of starch. Iodine turns blue-black on it.
+13. (draw) Draw the journey of one carbon atom: from your breath, into a leaf, into a mango, into you, and back into the air.  
+   **Answer:** A loop of at least four pictures with arrows: a child breathing out, a leaf taking in carbon dioxide, a mango growing, the child eating the mango, and an arrow back to the breath.. *Why:* A strong drawing shows the atom going round. Carbon is used again and again. Only the energy comes in fresh, from the Sun.
+14. (match) Match each test in this unit to what it showed.  
+   **Answer:** the Rising Leaf Discs → a leaf needs light and carbon dioxide to make oxygen; the starch picture → a leaf makes starch only where light falls; the bubble count → brighter light means more oxygen; blowing into limewater → your breath has carbon dioxide; burning dry twigs → most of the wood goes back into the air. *Why:* Each test gives one piece of evidence. Together they show how a leaf builds food from air and water, using light.
+15. (truefalse) Every food chain on Earth begins with sunlight.  
+   **Answer:** False. *Why:* False, though nearly all do. Near hot springs on the deep sea floor, bacteria make food using energy from chemicals in the water, with no light at all. Worms, crabs and fish live on them. A strong answer says 'nearly all' and names the exception.
+16. (mcq) Dry wood is about half carbon. Most of the rest is oxygen, with a little hydrogen. Scientists say a tree is built mostly from air, not mostly from water. Why?  
+   Options: Most of the dry wood's weight is carbon and oxygen that came from carbon dioxide / Trees drink very little water / Water is too heavy to build with / The pie chart is only a guess  
+   **Answer:** Most of the dry wood's weight is carbon and oxygen that came from carbon dioxide. *Why:* Dry wood is about half carbon, and most of the rest is oxygen, and both came from carbon dioxide in the air. Water gives the hydrogen, which is light. Picking 'trees drink very little water' is not right. Trees take up huge amounts of water, but most of it goes out of the leaves again.
 
 ## Videos
 - **Photosynthesis: Crash Course Biology #8** (CrashCourse, 13 min) id `sQK3Yr4Sc_k`: For the parent and curious older children: the whole story of photosynthesis, including light reactions and the Calvin cycle, told fast and clearly. *Check:* Video id recalled, not opened from here. A parent should check that it plays and is the CrashCourse photosynthesis episode before showing it.
@@ -815,18 +810,18 @@ Next summer, she thought, a little bit of me will be a mango.
 4. (mcq) Look at the chart. Which cup made oxygen?  
    Options: Light and baking soda / Dark and baking soda / Light and plain water / None of them  
    **Answer:** Light and baking soda. *Why:* Only the cup with light and carbon dioxide made oxygen, so only its discs floated. Picking 'light and plain water' misses the carbon dioxide. Plain water has almost none.
-5. (mcq) A drop of iodine on a food turns blue-black. What does the food contain?  
-   Options: Starch / Salt / Water / Oxygen  
-   **Answer:** Starch. *Why:* Iodine turns blue-black only on starch. Picking 'water' is a common guess. But iodine stays brown in plain water.
+5. (mcq) Divya drops iodine on a slice of raw potato and on a spoon of sugar. The potato turns blue-black. The sugar stays brown. What does this show?  
+   Options: The potato has starch in it, and the sugar does not / The sugar has more starch than the potato / Iodine only works on cold foods / Both have the same amount of starch  
+   **Answer:** The potato has starch in it, and the sugar does not. *Why:* Iodine turns blue-black only on starch. Sugar is what leaves make first, and plants join sugars into starch to store them. So sugar itself stays brown. Picking 'sugar has more starch' mixes up the two.
 6. (mcq) A leaf with a paper star on it is tested with iodine. Where will it stay pale?  
    Options: Under the star, where no light fell / Everywhere except the star / All over / Only at the stalk  
    **Answer:** Under the star, where no light fell. *Why:* No light under the star means no food made there, so no starch. Picking 'everywhere except the star' has the answer backwards.
 7. (mcq) Most of a tree's dry weight came from where?  
    Options: The soil / Carbon dioxide in the air / Fertiliser / Sunlight  
    **Answer:** Carbon dioxide in the air. *Why:* Leaves build the tree from carbon dioxide, with a little water. Picking 'sunlight' is close. Sunlight gives the energy, but the building blocks come from air. Picking 'the soil' is the oldest wrong idea.
-8. (mcq) Van Helmont's willow grew by about 75 kilograms in five years. How much did the soil lose?  
-   Options: About 75 kilograms / About 60 grams, a tiny amount / Nothing at all, not even a gram / Half its weight  
-   **Answer:** About 60 grams, a tiny amount. *Why:* The soil lost only about 60 grams. So the tree did not come from the soil. Picking '75 kilograms' is what you would expect if trees ate soil.
+8. (mcq) Van Helmont's willow gained about 75 kilograms in five years. If the tree had been built from soil, what would he have found?  
+   Options: The soil had lost about 75 kilograms / The soil had gained weight / The soil weighed exactly the same / The tree had lost weight  
+   **Answer:** The soil had lost about 75 kilograms. *Why:* If the tree were built from soil, the soil would have lost as much as the tree gained. In fact it lost only about 60 grams. Picking 'exactly the same' is close to what he really saw, which is why it shows the tree was not built from soil.
 9. (mcq) Why do leaves look green?  
    Options: Chlorophyll bounces green light back / Chlorophyll soaks up green light / Leaves drink green water / Leaves are green on the inside only  
    **Answer:** Chlorophyll bounces green light back. *Why:* We see the colour that bounces back. Chlorophyll uses red and blue, and bounces green. Picking 'soaks up green' is the most common mix-up.
@@ -839,9 +834,9 @@ Next summer, she thought, a little bit of me will be a mango.
 12. (mcq) A leopard eats a goat. Where did the leopard's energy first come from?  
    Options: The Sun, caught by the grass the goat ate / The goat only / The leopard's own body / The soil  
    **Answer:** The Sun, caught by the grass the goat ate. *Why:* Energy passes along a food chain. It starts as sunlight caught by a plant. Picking 'the goat only' stops one step too soon.
-13. (mcq) Who showed, in 1779, that plants freshen air only in light, and only with their green parts?  
-   Options: Jan Ingenhousz / Isaac Newton / Joseph Priestley / Charles Darwin  
-   **Answer:** Jan Ingenhousz. *Why:* Ingenhousz did hundreds of tests in one summer. Picking Priestley is natural. He showed plants restore air, but not that light is needed.
+13. (mcq) Priestley's plants sometimes freshened the air in a jar and sometimes did not. In 1779, Jan Ingenhousz found what made the difference. What was it?  
+   Options: Light: plants freshen air only in light, with their green parts / The size of the jar / The colour of the flowers / The kind of soil  
+   **Answer:** Light: plants freshen air only in light, with their green parts. *Why:* Ingenhousz did hundreds of tests in one summer. Plants gave out oxygen only in light, and only from their green parts. Picking 'the kind of soil' is the old idea that plants are made of soil.
 14. (mcq) Where did the oxygen in Earth's air first come from?  
    Options: Tiny cyanobacteria in the sea, over a very long time / Volcanoes / The first trees / It was always there  
    **Answer:** Tiny cyanobacteria in the sea, over a very long time. *Why:* Cyanobacteria made it by photosynthesis, long before trees existed. Picking 'the first trees' is a common guess. But trees came about 2 billion years later.

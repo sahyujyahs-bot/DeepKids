@@ -6,13 +6,13 @@
  "n": "living-in-harmony",
  "title": "Living in harmony: food chains, food webs and the balance of nature",
  "source": "DeepKids Combined. Covers NIOS Class 5 'Life of Plants and Animals' (how plants and animals depend on each other, food chains and food webs, natural balance, protecting forests and animals). No textbook needed.",
- "summary": "A forest can hold millions of plants, thousands of deer and only a few tigers. Your child finds out why, by tracing their own lunch back to the Sun and pouring a litre of water down a food chain until only a few drops are left. They learn feeding levels, food webs and why energy flows one way while atoms go round and round. They grow mould to see what decomposers need, play a rats-and-snakes game whose numbers rise and fall like real ones, and find out what happens when people remove a predator or bring in a new plant. They meet the people who protect forests, from the Bishnois to the women of Reni village.",
- "builds_on": "Class 3 'Living in harmony': the five ways living things live together (mutualism, commensalism, parasites, predator and prey, competition). Class 3 'Caring for the environment': producers and consumers, simple food chains and webs, decomposers, keystone species and poison passing up a chain. Class 4 looks at ecosystems, energy and nature in daily life. This rung goes deeper: feeding levels, the energy pyramid, energy flowing one way and matter cycling, predator and prey numbers rising and falling, what breaks a balance, and how people protect forests and animals. Middle school goes on to ecosystems, the carbon cycle and the nitrogen cycle.",
+ "summary": "A forest can hold millions of plants, thousands of deer and only a few tigers. Your child finds out why, by tracing their own lunch back to the Sun and pouring a litre of water down a food chain until only a few drops are left. They learn feeding levels, food webs and why energy flows one way while atoms go round and round. They catch the gas that decomposers breathe out from rotting peels, play a rats-and-snakes game whose numbers rise and fall like real ones, and find out what happens when people remove a predator or bring in a new plant. They meet the people who protect forests, from the Bishnois to the women of Reni village.",
+ "builds_on": "Class 3 'Living in harmony': the five ways living things live together (mutualism, commensalism, parasites, predator and prey, competition). Class 4 'Living in harmony': energy from the Sun, photosynthesis, simple food chains, the energy pyramid with 100 rice grains, Raymond Lindeman's lake, decomposers and the chapati mould test, and sacred groves. This rung goes deeper: feeding levels, food webs, where the carbon goes when decomposers feed, predator and prey numbers rising and falling, what breaks a balance, and how people protect forests and animals. Middle school goes on to ecosystems, the carbon cycle and the nitrogen cycle.",
  "goals": [
   "By the end your child can draw a food chain of four or five links, name each feeding level (producer, primary, secondary and tertiary consumer) and point every arrow the right way.",
   "By the end your child can explain photosynthesis and respiration in plain words, and three ways plants and animals depend on each other.",
   "By the end your child can explain, with the water-pouring model, why only about a tenth of food energy passes up each step, and why top predators are few.",
-  "By the end your child can explain that energy flows one way through a food web while atoms are used again and again, and say what decomposers need, from their own mould test.",
+  "By the end your child can explain that energy flows one way through a food web while atoms are used again and again, and show with their own balloon test that decomposers return carbon to the air.",
   "By the end your child can describe how predator and prey numbers rise and fall, using a graph from their own game.",
   "By the end your child can explain what happens when a predator is removed or a new plant invades, and describe how communities and laws protect forests and animals."
  ],
@@ -25,7 +25,7 @@
   "the energy pyramid: only about a tenth of food energy passes up each step, the rest leaves as heat",
   "why top predators are few and need large forests",
   "energy flows one way, but atoms go round and round",
-  "what decomposers need: moisture, warmth and air",
+  "decomposers breathe out carbon dioxide, returning carbon to the air",
   "predator and prey numbers rise and fall in cycles",
   "the balance of nature, and the debate about whether nature ever stays still",
   "when the balance breaks: killing predators, overhunting and invasive plants like lantana",
@@ -91,9 +91,9 @@
    "steps": [
     {
      "kind": "warmup",
-     "title": "Five ways to live together",
+     "title": "Remember Class 4",
      "mins": 5,
-     "do": "Recall the Class 3 lesson in two questions. Ask: 'In Class 3 we found five ways living things live together. Can you name them?' Good answers: both gain (mutualism, like a bee and a flower), one gains and the other is not harmed (commensalism, like an egret beside a buffalo), one lives on the other and harms them (a parasite, like a tick on a dog), one eats the other (predator and prey), and both need the same thing (competition). Then ask: 'In a food chain, which way does the arrow point?' (From the food to the eater.) Say: 'This week we follow the food itself: where it starts, where it goes, and what keeps the numbers of living things in check.'"
+     "do": "Recall the Class 4 lesson in three questions. Ask: 'Where does almost all the energy in our food come from?' (The Sun.) 'Remember the 100 rice grains. How many reached the grasshoppers, and where did the rest go?' (About 10. The rest was used for living and left as heat.) 'In the chapati boxes, which piece grew mould?' (The damp piece on the shelf.) Say: 'This week we follow the food further: who eats whom in a whole field, where the atoms go, and what keeps the numbers of living things in check.'"
     },
     {
      "kind": "act",
@@ -106,7 +106,7 @@
      "kind": "talk",
      "title": "What plants give, and what animals give",
      "mins": 10,
-     "do": "Ask: 'How does a leaf make food?' Listen first. Then explain: 'A leaf takes in carbon dioxide from the air and water from the roots. Using the energy of sunlight, caught by the green chlorophyll, the leaf turns them into sugar. This is called photosynthesis. Oxygen is given out.' Then say: 'Every living thing respires, plants too, day and night. Respiration uses oxygen to release energy from food, and gives out carbon dioxide. You are doing it now.' Ask your child to breathe out onto their palm and feel the warmth. Then ask: 'What else do animals get from plants?' (Shelter, like a bird's nest in a tree.) 'What do animals give plants?' (Bees and butterflies carry pollen from flower to flower, which is pollination. Birds, bats and monkeys eat fruit and drop the seeds far away, which is seed dispersal. Animal dung feeds the soil.)"
+     "do": "Ask: 'Remember from Class 4: how does a leaf make food?' Listen first. Then sum it up: 'A leaf takes in carbon dioxide from the air and water from the roots. Using the energy of sunlight, caught by the green chlorophyll, the leaf turns them into sugar. This is called photosynthesis. Oxygen is given out.' Then say: 'Every living thing respires, plants too, day and night. Respiration uses oxygen to release energy from food, and gives out carbon dioxide. You are doing it now.' Ask your child to breathe out onto their palm and feel the warmth. Then ask: 'What else do animals get from plants?' (Shelter, like a bird's nest in a tree.) 'What do animals give plants?' (Bees and butterflies carry pollen from flower to flower, which is pollination. Birds, bats and monkeys eat fruit and drop the seeds far away, which is seed dispersal. Animal dung feeds the soil.)"
     },
     {
      "kind": "exp",
@@ -140,7 +140,7 @@
   {
    "n": 2,
    "title": "Feeding levels and food webs",
-   "goal": "Name the feeding levels in a food chain, draw a real food web, and start the mould test.",
+   "goal": "Name the feeding levels in a food chain, draw a real food web, and start the balloon test.",
    "steps": [
     {
      "kind": "warmup",
@@ -169,17 +169,17 @@
     },
     {
      "kind": "exp",
-     "title": "Set up the mould test",
+     "title": "Set up the balloon bottles",
      "mins": 10,
      "ref": "e1",
-     "do": "Set up Experiment e1. Cut one slice of bread into three equal pieces. Piece A stays dry. Sprinkle 5 drops of water on pieces B and C. Put each piece in its own zip bag or small steel box with a lid, and close it tight. Label them. Put A and B on a kitchen shelf, and C in the fridge. Ask: 'Which piece will grow mould first? Why?' Write the guesses. Say: 'Mould is a decomposer. We are testing what decomposers need.'"
+     "do": "Set up Experiment e1. Put 3 tablespoons of chopped fruit peel and a spoonful of mashed ripe banana into bottle 1, with half a cup of water. Put only half a cup of water into bottle 2. Stretch a balloon over the neck of each. Stand both side by side in a warm spot, out of direct sun. Ask: 'Which balloon will grow? Why do you think so?' Write the guesses. Say: 'Yeasts and bacteria on the peels are decomposers. We are finding out whether they give off anything as they feed.'"
     }
    ],
    "need": [
     "paper and coloured pencils",
-    "1 slice of bread or 1 chapati",
-    "3 zip bags or small boxes with lids",
-    "a few drops of water",
+    "2 empty plastic bottles of the same size, and 2 balloons",
+    "3 tablespoons of chopped fruit peel and a little ripe banana",
+    "1 cup of water",
     "labels"
    ]
   },
@@ -192,7 +192,7 @@
      "kind": "warmup",
      "title": "Watch and check",
      "mins": 5,
-     "do": "Project step: watch at one spot for 3 minutes and write down any eating you see. Then look at the jars from Experiment e3 and the bread bags from Experiment e1 without opening them. Your child writes the day number and 'no change' or what they see."
+     "do": "Project step: watch at one spot for 3 minutes and write down any eating you see. Then look at the jars from Experiment e3 and the balloons from Experiment e1. Your child writes the day number and whether each balloon is flat, standing up a little or round."
     },
     {
      "kind": "act",
@@ -209,10 +209,10 @@
     },
     {
      "kind": "talk",
-     "title": "The man who measured a lake",
+     "title": "Lindeman's lake, and who helped",
      "mins": 10,
      "ref": "v1",
-     "do": "Tell the story in Voice v1, about Raymond Lindeman and his lake in Minnesota. Point at the bottle cap of drops from Activity a3 and say: 'This is the drop in energy he measured.' Ask the voice question. Good answers: a paper can be right even if reviewers reject it, and new ideas often seem odd at first."
+     "do": "Say: 'In Class 4 you heard about Raymond Lindeman, who measured the energy in a lake.' Point at the bottle cap of drops from Activity a3 and say: 'This is the drop in energy he found.' Then read Voice v1, which tells the part about his wife Eleanor. Ask the voice question. Good answers: everyone who did the work should be named, and a lot of science is done by people whose names are left out."
     },
     {
      "kind": "think",
@@ -239,7 +239,7 @@
      "kind": "warmup",
      "title": "Watch and peek",
      "mins": 4,
-     "do": "Project step: watch at one spot for 3 minutes and write down any eating you see. Look at the bread bags without opening them. Is there any fuzz or spots yet? Write it down."
+     "do": "Project step: watch at one spot for 3 minutes and write down any eating you see. Look at the two balloons. Is either one standing up yet? Write it down."
     },
     {
      "kind": "read",
@@ -257,7 +257,7 @@
      "kind": "talk",
      "title": "Energy flows, atoms go round",
      "mins": 10,
-     "do": "Ask: 'When the rat snake dies, where does the snake's body go?' (Decomposers break it down into the soil.) Say: 'Everything is made of tiny pieces called atoms. When a rat eats paddy, the paddy's carbon atoms become part of the rat. When the snake eats the rat, they become part of the snake. When the snake dies, mould and bacteria break the body down. Some atoms go back into the soil as nutrients, and some go into the air as carbon dioxide. The next paddy plant takes them in again.' Draw two pictures: a straight arrow for energy, from Sun to plant to animals to heat, and a circle for atoms. Say: 'Energy flows through once and leaves as heat. The atoms are used again and again. So the carbon in your body was once in plants, and maybe in other animals before that.'"
+     "do": "Ask: 'When the rat snake dies, where does the snake's body go?' (Decomposers break it down into the soil.) Say: 'Everything is made of tiny pieces called atoms. When a rat eats paddy, the paddy's carbon atoms become part of the rat. When the snake eats the rat, they become part of the snake. When the snake dies, mould and bacteria break the body down. Some atoms go back into the soil as nutrients, and some go into the air as carbon dioxide. That is the gas the decomposers in our peel bottle are breathing out. The next paddy plant takes them in again.' Draw two pictures: a straight arrow for energy, from Sun to plant to animals to heat, and a circle for atoms. Say: 'Energy flows through once and leaves as heat. The atoms are used again and again. So the carbon in your body was once in plants, and maybe in other animals before that.'"
     },
     {
      "kind": "ws",
@@ -276,7 +276,7 @@
   {
    "n": 5,
    "title": "Rats and snakes: numbers that rise and fall",
-   "goal": "Play a model of predators and prey, chart the numbers, and read the mould results.",
+   "goal": "Play a model of predators and prey, chart the numbers, and read the balloon results.",
    "steps": [
     {
      "kind": "warmup",
@@ -289,7 +289,7 @@
      "title": "The rats and snakes game",
      "mins": 20,
      "ref": "e2",
-     "do": "Do Experiment e2 on the floor. Mark a field 40 cm by 50 cm with tape or a drawn border. You need 100 paper squares of 2 cm (the rats) and 10 card squares of 12 cm (the snakes). Round 1: scatter 4 rats in the field. Your child stands one big step away and tosses 1 snake card. Every rat the card touches is eaten. A snake who ate 3 or more rats survives and has one baby, so add a snake card. A snake who ate fewer than 3 dies, but always keep at least 1 snake, as if one came from the next field. Then every rat left has one baby, so double the rats. Write the numbers of rats and snakes in a table. Play 10 to 12 rounds. Ask before starting: 'What will happen to the rats when there are lots of snakes?'"
+     "do": "Do Experiment e2 on the floor. First ask: 'What will happen to the rats when there are lots of snakes?' Mark a field 40 cm by 50 cm with tape or a drawn border. You need 100 paper squares of 2 cm (the rats) and 10 card squares of 12 cm (the snakes). Round 1: scatter 4 rats in the field. Your child stands one big step away and tosses 1 snake card. Every rat the card touches is eaten. A snake who ate 3 or more rats survives and has one baby, so add a snake card. A snake who ate fewer than 3 dies, but always keep at least 1 snake, as if one came from the next field. Then every rat left has one baby, so double the rats. Write the numbers of rats and snakes in a table. Play 10 to 12 rounds."
     },
     {
      "kind": "talk",
@@ -300,10 +300,10 @@
     },
     {
      "kind": "exp",
-     "title": "Mould results",
+     "title": "Balloon results",
      "mins": 9,
      "ref": "e1",
-     "do": "Look at all three bread bags from Experiment e1 without opening them. Your child draws each one and writes how much of the piece is covered with mould: none, a little or a lot. Expect piece B, damp and warm, to have the most fuzzy white, green or black spots. Ask: 'Which one is mouldy, and what did it have that the others did not?' (Water and warmth.) Say: 'Decomposers need moisture, warmth and air. That is why food lasts longer in the fridge, and why dry dal keeps for months.' Throw all three bags away still closed."
+     "do": "Put the two bottles side by side. Your child draws both balloons. Expect the peel bottle's balloon to stand up or be round, and the water-only balloon to stay flat. Ask: 'What filled the balloon? Where did it come from?' Listen first. Then say: 'Yeasts and bacteria fed on the sugar in the peels and breathed out carbon dioxide, just as you do. The carbon in that gas was in the peel. A plant can now take it in again.' A grown-up takes the balloons off outdoors and tips the peels into the wet-waste bin. If neither balloon has grown, move both bottles somewhere warmer for two more days."
     }
    ],
    "need": [
@@ -311,7 +311,7 @@
     "100 paper squares of 2 cm",
     "10 card squares of 12 cm, cut from a cereal box",
     "paper and 2 colours of pencil",
-    "the bread bags"
+    "the two balloon bottles"
    ],
    "prep": [
     {
@@ -642,11 +642,11 @@
       },
       {
        "t": "mcq",
-       "p": "Meenakshi left three pieces of bread in closed bags: one dry on a shelf, one damp on a shelf, and one damp in the fridge. Which one grew the most mould?",
+       "p": "Meenakshi puts fruit peels and water in one bottle, and only water in another. She stretches a balloon over each. After 3 days, the balloon on the peel bottle is round. What filled it?",
        "opts": [
-        "the damp piece on the shelf",
-        "the dry piece on the shelf",
-        "the damp piece in the fridge"
+        "carbon dioxide breathed out by decomposers feeding on the peels",
+        "oxygen made by the peels",
+        "water that turned into air"
        ],
        "a": 0
       },
@@ -815,29 +815,29 @@
  "experiments": [
   {
    "id": "e1",
-   "title": "What do decomposers need?",
+   "title": "Where does the carbon go when decomposers feed?",
    "day": 2,
-   "question": "Does mould grow faster when food is damp, dry, warm or cold?",
+   "question": "Do decomposers feeding on fruit peels give off a gas?",
    "need": [
-    "1 slice of bread from a local bakery, or 1 chapati",
-    "3 zip bags, or 3 small steel boxes with tight lids",
-    "a few drops of water",
-    "labels A, B and C",
-    "a fridge"
+    "2 empty plastic water bottles of the same size",
+    "2 balloons of the same size (sold in most general stores)",
+    "3 tablespoons of chopped fruit peel (banana, mango or papaya) and a spoonful of mashed ripe banana",
+    "1 cup of water",
+    "labels 1 and 2"
    ],
    "steps": [
-    "Cut the bread into three equal pieces.",
-    "Piece A: leave it dry. Pieces B and C: sprinkle 5 drops of water on each.",
-    "Put each piece in its own bag or box and close it tight. Label them A, B and C.",
-    "Put A and B side by side on a kitchen shelf. Put C in the fridge.",
-    "Look every day without opening them. Draw what you see and write the day.",
-    "After 3 days, compare the three pieces. Then throw them away still closed."
+    "Put the chopped peel and mashed banana into bottle 1. Add half a cup of water.",
+    "Put only half a cup of water into bottle 2. Label the bottles.",
+    "Stretch each balloon a few times, then stretch one over the neck of each bottle.",
+    "Stand both bottles side by side in a warm spot, out of direct sun.",
+    "Look once a day for 3 days. Write down whether each balloon is flat, standing up a little or round.",
+    "A grown-up takes the balloons off outdoors and empties the bottles into the wet-waste bin."
    ],
-   "predict": "Ask: 'Which piece will grow mould first? Which will grow none? Why do you think so?' Write the guesses on the labels.",
-   "observe": "In 3 to 6 days the damp piece on the shelf (B) grows fuzzy white, green or black spots. The dry piece (A) grows little or none. The piece in the fridge (C) grows little or none in that time. Packaged bread often has substances added to slow mould, so it can take a week or more. Bread from a local bakery or a chapati moulds faster. In a cold month, keep the bags a few days longer.",
-   "why": "Mould is a fungus, a decomposer. Tiny mould spores float in the air everywhere and land on food. When a spore has water, warmth and food, they grow threads into the bread and digest it, and then make new spores, which are the coloured fuzz. Without water, as in the dry piece, they can't grow. In the cold, as in the fridge, they grow very slowly. Decomposers in soil need the same things, which is why dead leaves rot fast in the monsoon and slowly in a dry summer. This is also why we dry, salt or chill food to keep it.",
-   "safety": "Keep the bags or boxes closed. Don't smell or touch the mould, because breathing in the spores can make some people ill. Throw the bags away closed.",
-   "time": "10 min + check daily for 3 to 6 days"
+   "predict": "Ask: 'Which balloon will grow, the peel bottle or the water-only bottle? Why do you think so?' Write the guesses on the labels.",
+   "observe": "In a warm room the peel bottle's balloon usually starts to stand up within 1 to 3 days, and can grow to about the size of a fist. The water-only balloon stays flat. In a cold month it can take a few days longer, so move both bottles somewhere warmer.",
+   "why": "Yeasts and bacteria live on fruit peels. They are decomposers. They feed on the sugar in the peels and, like you, respire: they use the food for energy and breathe out carbon dioxide. That gas filled the balloon. The bottle with only water had no food for them. The carbon in the gas was part of the peel, and before that part of a fruit tree, which took it from the air. A plant can take it in again. So decomposers return carbon to the air, and the same atoms are used again and again.",
+   "safety": "Don't sniff the bottle. A grown-up takes the balloons off outdoors. Keep balloons away from babies and small children, who can choke on them.",
+   "time": "10 min + a look each day for 3 days"
   },
   {
    "id": "e2",
@@ -857,7 +857,7 @@
     "Round 1 starts with 4 rats and 1 snake. Scatter the rats in the field.",
     "Stand one big step from the field and toss each snake card once onto it. If a card lands outside the field, toss it again.",
     "Every rat the card touches is eaten. Take them out.",
-    "A snake who ate 3 or more rats survives and has one baby, so add one snake card. A snake who ate fewer than 3 dies, so take that card away. If no snakes are left, add 1, as if a snake came from the next field.",
+    "A snake who ate 3 or more rats survives and has one baby, so add one snake card. A snake who ate fewer than 3 dies, so take that card away. If no snakes are left, add 1, as if a snake came from the next field. If you run out of snake cards, stop at 10.",
     "Every rat left has one baby, so double the rats. If you run out of squares, stop at 100.",
     "Write the numbers for the next round in the table. Play 10 to 12 rounds.",
     "Draw a line graph with both lines: rounds along the bottom, numbers going up."
@@ -977,10 +977,10 @@
    "id": "v1",
    "who": "Raymond Lindeman (1915–1942), ecologist, USA",
    "idea": "For his doctoral work, Lindeman studied a small lake in Minnesota called Cedar Bog Lake. His wife, Eleanor Hall Lindeman, worked beside him on the lake. They measured the living things at each feeding level, from the algae to the fish. Lindeman then worked out how much food energy passed from one level to the next. He showed that only a small part passes up each step, and the rest is used for living. His paper treated a lake as energy flowing through feeding levels.",
-   "then": "The reviewers of the journal Ecology recommended rejecting his paper, saying it was too much theory and too little data. His teacher at Yale, G. Evelyn Hutchinson, argued for it, and the journal printed it in 1942. Lindeman died of an illness that year, aged 27, months before it came out.",
+   "then": "The reviewers of the journal Ecology recommended rejecting his paper, saying it was too much theory and too little data. His teacher at Yale, G. Evelyn Hutchinson, argued for it, and the journal printed it in 1942. Lindeman died of an illness that year, aged 26, months before it came out.",
    "now": "Accepted. His paper is now one of the most famous in ecology. Later measurements in lakes, fields, forests and seas found that the share passed on is often between a twentieth and a fifth. People round this to a tenth, so it is easy to remember.",
    "status": "accepted",
-   "ask": "Lindeman's paper was nearly rejected, and later became famous. How can a new idea be right even when experts first say no? What would you need to see to change your mind?",
+   "ask": "Eleanor worked on the lake beside Raymond, but only his name is on the famous paper. Whose names should go on a discovery? How could you find out who really did the work?",
    "day": 3
   },
   {
@@ -1005,7 +1005,7 @@
   },
   {
    "id": "v4",
-   "who": "Daniel Botkin (1937–2020), ecologist, USA: is there a balance of nature?",
+   "who": "Daniel Botkin, ecologist, USA: is there a balance of nature?",
    "idea": "For a long time, many people pictured nature as staying in one steady balance, unless people disturbed it. In 1990 Botkin wrote a book called 'Discordant Harmonies'. He argued that nature never stays still. Forests burn and grow back, rivers change course, the climate shifts and animal numbers rise and fall. He said it is a mistake to try to freeze a forest or a lake as it is in one photograph.",
    "then": "Many ecologists agreed that nature changes all the time. Some worried that the idea could be misused, as if any harm people cause is fine because 'nature changes anyway'.",
    "now": "Debated. Most ecologists now agree that nature is always changing, and that a healthy forest is one that can recover after a fire or a storm. But they also agree that some changes, like losing all the top predators or covering a forest with lantana, push a place into a new state that can last a very long time.",
@@ -1082,9 +1082,9 @@
   "title": "Who Was Eating the Paddy?",
   "text": [
    "The rats came back to Selvi's village in the month of Thai, when the paddy was cut and carried home.",
-   "Selvi was ten. She lived with her mother and father in a village of Irula families near Chengalpattu, where the fields go flat and green to the edge of the sky. Their house had one room for sleeping and one small room for the paddy, which was stored in a tall bin of dried mud, as high as Selvi's chin.",
+   "Selvi was ten. She lived with her mother and father in a village near Chengalpattu, where the fields go flat and green to the edge of the sky. Their house had one room for sleeping and one small room for the paddy, which was stored in a tall bin of dried mud, as high as Selvi's chin.",
    "A year ago, a cobra had slid into Kannan's kitchen two houses away. Kannan was four, and he screamed so loudly that the whole street came running. Nobody was bitten. But after that, the men of the street decided that every snake was an enemy. Whenever anyone saw a snake, they killed the snake with a stick. Cobras, yes. But also the long brown rat snakes that hunted along the field bunds, and the small striped snakes that lived in the cracks of the walls. By the end of the year, nobody saw snakes at all. People said the street was safe now.",
-   "Selvi's mother, Pachaiammal, said nothing then. Her family had caught snakes and rats for longer than anyone could remember. She knew every snake in the district by the shape of their head and the way they moved. When the men went past with their sticks, she only watched them go.",
+   "Selvi's mother, Pachaiammal, said nothing then. She was Irula, and her family had caught snakes and rats for longer than anyone could remember. She knew every snake in the district by the shape of their head and the way they moved. When the men went past with their sticks, she only watched them go.",
    "Now it was Thai again, and the rats were everywhere.",
    "They ran along the roof beams at night. They chewed holes in the jute sacks. In the morning there were droppings on the floor of the paddy room and a fine dust of husk around the bottom of the bin, where something had been gnawing. Selvi's father, Murugan, set traps of bamboo and wire. He caught three rats one night, four the next. More came.",
    "One evening Selvi walked along the bund at the edge of their field and counted the rat holes in the mud. She stopped at forty-two, and that was only one side.",
@@ -1109,7 +1109,7 @@
    "'The snakes were eating the rats,' she said slowly. 'And we killed the snakes.'",
    "Nobody said anything for a while. Murugan looked at the stick in his hand as if he had never seen it before. Then he leaned it against the wall.",
    "Pachaiammal fetched a long bamboo pole with a small fork at the end. She slid the fork gently under the snake's body and lifted, and the snake came with it, looping and heavy, not hurrying. She carried him out of the paddy room, across the yard, and down to the edge of the bund where the rat holes were. She lowered the pole to the mud. The snake poured off the end of it and into the nearest hole, and was gone.",
-   "On the way back she stopped beside Selvi. 'Never you,' she said. 'Not until you know them all. The cobra and the viper are not like him.'",
+   "On the way back she stopped beside Selvi. 'Never pick up a snake yourself,' she said. 'Not until you know them all. The cobra and the viper are not like him.'",
    "Selvi nodded.",
    "That night, lying on her mat, she heard a sound from the paddy room: a long, dry rustle, like a rope being pulled slowly through grass. She thought about waking her father. She didn't. She lay in the dark and listened, and counted in her head. One rat, perhaps, before morning. Perhaps two.",
    "Then she turned over and slept."
@@ -1126,7 +1126,7 @@
  "ideas": [
   {
    "idea": "Energy flows through a food web once, but atoms go round and round.",
-   "more": "Sunlight's energy passes from plant to animal to animal and leaves at every step as heat, so it must keep coming from the Sun. The atoms are different. Decomposers return them to the soil and air, and plants use them again. Show it with two drawings: a straight arrow for energy and a circle for atoms. The water cups show the energy shrinking, and the mouldy bread shows the decomposers at work."
+   "more": "Sunlight's energy passes from plant to animal to animal and leaves at every step as heat, so it must keep coming from the Sun. The atoms are different. Decomposers return them to the soil and air, and plants use them again. Show it with two drawings: a straight arrow for energy and a circle for atoms. The water cups show the energy shrinking, and the balloon bottle shows decomposers sending carbon back into the air."
   },
   {
    "idea": "The higher the level, the fewer the eaters, and the easier they are to lose.",
@@ -1139,7 +1139,7 @@
  ],
  "unknowns": [
   "Why are food chains in nature so short, rarely more than four or five steps? Running out of energy is one reason, but scientists still argue about how much the size of a place and how often it is disturbed matter too.",
-  "How many kinds of living things are there? One careful estimate from 2011 suggests about 8.7 million kinds of plants, animals and fungi, and most have never been named. Nobody knows how many kinds of bacteria there are, and most of the food web in a handful of soil is still unknown.",
+  "How many kinds of living things are there? One careful estimate from 2011 suggests about 8.7 million kinds of plants, animals, fungi and other living things whose cells have a nucleus, and most have never been named. Nobody knows how many kinds of bacteria there are, and most of the food web in a handful of soil is still unknown.",
   "When a forest is covered by lantana, or loses its top predators, will it ever go back to how it was? In many places nobody knows yet.",
   "How much does a top predator shape a whole forest, compared with rain, fire and plants? Scientists are still arguing about famous cases like the wolves of Yellowstone in the USA."
  ],
@@ -1238,8 +1238,8 @@
    "a": "Atoms, like carbon. Decomposers break down dead things and return the atoms to the soil and air, and plants take them in again."
   },
   {
-   "q": "What did the mould test show that decomposers need?",
-   "a": "Moisture and warmth. The damp piece on the shelf grew the most mould. The dry piece and the piece in the fridge grew little or none."
+   "q": "In the balloon test, what filled the balloon on the peel bottle, and what does it show?",
+   "a": "Carbon dioxide. Yeasts and bacteria fed on the peels and breathed it out. It shows that decomposers return carbon from dead things to the air, where plants can take it in again."
   },
   {
    "q": "In the rats and snakes game, what happened to the two numbers?",

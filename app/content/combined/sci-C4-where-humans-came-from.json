@@ -4,12 +4,12 @@
  "subj": "sci",
  "level": 4,
  "n": "where-humans-came-from",
- "title": "Where humans came from: our cousins, our ancestors and the long walk",
+ "title": "Where humans came from: from the ancestor we share with chimpanzees to the first people in India",
  "source": "DeepKids Combined, a DeepKids-only topic that no board teaches in Class 4. Class 4: humans as mammals, primates and apes, the shared ancestor with chimpanzees, natural selection, deep time, walking on two legs, hands and the first stone tools (including the hand-axes of Tamil Nadu), fire and the growing brain, long childhood and grandmothers, the many kinds of humans, the journey out of Africa to India, and skin colour as an answer to sunlight. No textbook needed.",
- "summary": "Chimpanzees are not our grandparents. They are our cousins, and we share a great-great-grandmother who lived about 6 to 7 million years ago. Your child ties down a thumb to find out what hands are for, reads their own wet footprint, counts chews of raw and cooked carrot, and plays a game where paper insects survive or get eaten. They lay 7 million years along a string, meet Lucy and the Laetoli footprints, and hear about hand-axes made near Chennai about 1.5 million years ago. They find out that several kinds of humans once lived at the same time, that many of us carry a little Neanderthal DNA, and that every person alive today belongs to one young family that began in Africa.",
+ "summary": "Chimpanzees are not our grandparents. They are our cousins, and we share an ancestor who lived about 6 to 7 million years ago. Your child ties down a thumb to find out what hands are for, reads their own wet footprint, counts chews of raw and cooked carrot, and plays a game where paper insects survive or get eaten. They lay 7 million years along a string, meet Lucy and the Laetoli footprints, and hear about hand-axes made near Chennai about 1.5 million years ago. They find out that several kinds of humans once lived at the same time, that many of us carry a little Neanderthal DNA, and that every person alive today belongs to one young family that began in Africa.",
  "subconcepts": [
   "humans are animals: mammals, primates and apes",
-  "humans and chimpanzees share an ancestor; we did not come from chimpanzees",
+  "humans and chimpanzees share an ancestor, and we did not come from chimpanzees",
   "natural selection: variation, inheritance and survival over many generations",
   "evolution is a branching tree, not a ladder, and every living line is still evolving",
   "deep time for humans: hominins about 7 million years, our species about 300,000 years",
@@ -23,7 +23,7 @@
   "out of Africa: how and when people reached India",
   "one human family: skin colour as an answer to sunlight"
  ],
- "builds_on": "Class 2 'Why we look like our family' showed that young inherit genes from their parents and that copies are never perfect. Class 3 'How life began on Earth' showed deep time and that every living thing shares one ancestor. Class 4 is the first rung of this topic: it uses both ideas to tell the story of humans, from the ancestor we share with chimpanzees to the first people in India. Class 5 goes further into the evidence: how fossils are dated, what DNA tells us, and our closest cousins in more detail.",
+ "builds_on": "Class 2 'Our closest cousins' showed that apes are our cousins, with forward-facing eyes and gripping hands. Class 2 'Evolution' showed variation and natural selection with paper moths. Class 3 'How life began on Earth' showed deep time and that every living thing shares one ancestor. Class 4 is the first rung of this topic: it uses both ideas to tell the story of humans, from the ancestor we share with chimpanzees to the first people in India. Class 5 goes further into the evidence: how fossils are dated, what DNA tells us, and our closest cousins in more detail.",
  "goals": [
   "By the end your child can say which animal groups humans belong to (mammals, primates, apes) and name features we share with each.",
   "By the end your child can explain why humans and chimpanzees are cousins who share an ancestor, not grandchildren and grandparents.",
@@ -89,7 +89,7 @@
      "kind": "warmup",
      "title": "What do we already know?",
      "mins": 7,
-     "do": "Ask these and wait for each answer. 'How old is the Earth?' (About 4.5 billion years.) 'What were the first living things like?' (Single cells, too small to see.) 'Do all living things share one ancestor?' (Yes, one very old single cell.) 'Is a baby an exact copy of the parents?' (No. The baby gets a mix of genes from both, and copies are never perfect.) Then take a big sheet and write at the top: 'Where did humans come from?' Write down every idea your child has, without correcting any. Keep the sheet for Day 9. Say: 'For the next nine days we will build a small museum in a shoebox. Each day we add one thing we made or found.'"
+     "do": "Ask these and wait for each answer. 'Are chimpanzees our grandparents or our cousins?' (Cousins. We share an ancestor.) 'How old is the Earth?' (About 4.5 billion years.) 'What were the first living things like?' (Single cells, too small to see.) 'Do all living things share one ancestor?' (Yes, one very old single cell.) 'In the paper moth game, which moths did the bird catch most?' (The ones easiest to see.) Then take a big sheet and write at the top: 'Where did humans come from?' Write down every idea your child has, without correcting any. Keep the sheet for Day 9. Say: 'For the next nine days we will build a small museum in a shoebox. Each day we add one thing we made or found.'"
     },
     {
      "kind": "act",
@@ -108,7 +108,7 @@
      "kind": "do",
      "title": "The primate check",
      "mins": 8,
-     "do": "Say: 'The first primates lived in trees. Their problem was jumping from branch to branch without falling. A mistake about distance meant a fall.' Ask: 'Why do you think their eyes face forward, not out to the sides like a cow's?' Wait for a guess. Then test it. Hold two pencils, one in each hand, points facing each other, at arm's length. Ask your child to touch the two points together with both eyes open, three times. Then again with one eye covered, three times. Ask: 'Which was harder?' (One eye.) Say: 'Two eyes facing forward see the same thing from two slightly different places. Your brain uses the difference to judge how far away it is. Primates got this from life in the trees, and you still have it.'"
+     "do": "Say: 'The first primates lived in trees. Their problem was jumping from branch to branch without falling. A mistake about distance meant a fall.' Ask: 'Why do you think their eyes face forward, not out to the sides like a cow's?' Wait for a guess. You may remember this test from Class 2. Hold two pencils, one in each hand, points facing each other, at arm's length. Ask your child to touch the two points together with both eyes open, three times. Then again with one eye covered, three times. Ask: 'Which was harder?' (One eye.) Say: 'Two eyes facing forward see the same thing from two slightly different places. Your brain uses the difference to judge how far away it is. Primates got this from life in the trees, and you still have it.'"
     }
    ],
    "need": [
@@ -135,13 +135,13 @@
      "title": "Paper insects and a hungry bird",
      "mins": 18,
      "ref": "e2",
-     "do": "Do Experiment e2. Before the first round, ask: 'Which insects will the bird catch more of: the newspaper ones or the bright ones? Why?' Write the guess. After round 3, ask: 'Which kind is more common now? Did any insect try to change colour?' (No. Nobody chose anything. The bright ones were simply easier to see and caught more often.) Tape the last round's counts into the museum box."
+     "do": "Do Experiment e2. Say: 'In Class 2 you hunted paper moths. Today we add a twist: in round 4 the ground changes.' Before the first round, ask: 'Which insects will the bird catch more of: the newspaper ones or the bright ones? Why?' Write the guess. After round 4, ask: 'Which kind did the bird catch more of on the new ground?' (The newspaper ones, which now stand out.) Say: 'A feature helps only in certain surroundings. When the surroundings change, a different feature wins.' Also ask: 'Which kind is more common now? Did any insect try to change colour?' (No. Nobody chose anything. The bright ones were simply easier to see and caught more often.) Tape the counts into the museum box."
     },
     {
      "kind": "talk",
      "title": "Darwin, Wallace and natural selection",
      "mins": 10,
-     "do": "Say: 'About 165 years ago, two British naturalists worked this out separately. Charles Darwin studied plants and animals for over 20 years. Alfred Russel Wallace collected insects and birds in the islands of what is now Indonesia and Malaysia. In 1858 Wallace sent Darwin a letter with the same idea. Their ideas were read out together that year. Darwin became far more famous, partly because he was rich and well known. Wallace had to sell his specimens to earn a living.' Then say the idea in three parts: 'One: living things of one kind are all a little different. Two: young inherit features from their parents. Three: more young are born than can survive, and those whose features suit their surroundings survive more often and have more young. Over many generations, the whole group changes. This is natural selection.' Go back to the giraffe sheet. Ask: 'If a giraffe stretches her neck, does her calf get a longer neck?' (No. The calf inherits genes, not stretching. But giraffes born with slightly longer necks reached more leaves in dry times, so more of their calves survived.)"
+     "do": "Say: 'About 165 years ago, two British naturalists worked this out separately. Charles Darwin studied plants and animals for over 20 years. Alfred Russel Wallace collected insects and birds in the islands of what is now Indonesia and Malaysia. In 1858 Wallace sent Darwin a letter with the same idea. Their ideas were read out together that year. Darwin became far more famous, partly because he was rich and well known, and partly because he published a whole book on it the next year. Wallace had to sell his specimens to earn a living.' Then say the idea in three parts: 'One: living things of one kind are all a little different. Two: young inherit features from their parents. Three: more young are born than can survive, and those whose features suit their surroundings survive more often and have more young. Over many generations, the whole group changes. This is natural selection.' Go back to the giraffe sheet. Ask: 'If a giraffe stretches her neck, does her calf get a longer neck?' (No. The calf inherits genes, not stretching. But giraffes born with slightly longer necks reached more leaves in dry times, so more of their calves survived. Scientists still argue whether reaching leaves was the main reason.)"
     },
     {
      "kind": "act",
@@ -153,7 +153,7 @@
    ],
    "need": [
     "a sheet of newspaper",
-    "a sheet of brightly coloured paper, or a bright page from a magazine",
+    "a sheet of brightly coloured paper, or a bright page from a magazine, and a bright bedsheet, dupatta or towel",
     "scissors",
     "a phone timer",
     "about 4 metres of string or wool",
@@ -170,14 +170,14 @@
      "kind": "warmup",
      "title": "How do apes move?",
      "mins": 5,
-     "do": "Ask: 'How does a chimpanzee move on the ground?' (On all fours, leaning on the knuckles of the hands. In trees they climb and swing.) Ask: 'How do you move?' (On two legs, all the time.) Say: 'Walking on two legs is called being bipedal. Among living mammals, only humans do it all the time.'"
+     "do": "Ask: 'How does a chimpanzee move on the ground?' (On all fours, leaning on the knuckles of the hands. In trees they climb and swing.) Ask: 'How do you move?' (On two legs, all the time.) Say: 'Walking on two legs is called being bipedal. Among living apes, only humans do it all the time.'"
     },
     {
      "kind": "talk",
      "title": "Why stand up? Lucy and the footprints",
      "mins": 10,
      "ref": "v1",
-     "do": "Say: 'Over millions of years, East Africa slowly became drier. Thick forest broke into patches of trees with open, grassy land between. Food was spread far apart. An ape had to walk long distances on open ground, often in hot sun.' Ask: 'How might walking on two legs help with that problem? Why do you think so?' Wait for ideas. Good answers: hands are free to carry food or babies, you can see over tall grass, less of your body faces the midday sun, walking on two legs uses less energy over long distances. Say: 'Scientists still argue about which reason mattered most.' Then say: 'In 1974, in Ethiopia, Donald Johanson and Tom Gray found about 40 out of every 100 bones of one small skeleton. She lived about 3.2 million years ago. They named her Lucy. Her brain was about the size of a chimpanzee's, but her hips and knees show she walked upright. In 1978, Mary Leakey's team in Tanzania found footprints pressed into volcanic ash about 3.6 million years old. Ash from a volcano fell, rain made it wet like cement, two or three walkers crossed it, and more ash covered it. So we know someone was walking upright before anyone made stone tools.' Read Voice v1 about Mary Leakey and ask its question."
+     "do": "Say: 'Over millions of years, East Africa slowly became drier. Thick forest broke into patches of trees with open, grassy land between. Food was spread far apart. An ape had to walk long distances on open ground, often in hot sun.' Ask: 'How might walking on two legs help with that problem? Why do you think so?' Wait for ideas. Good answers: hands are free to carry food or babies, you can see over tall grass, less of your body faces the midday sun, walking on two legs uses less energy over long distances. Say: 'Scientists still argue about which reason mattered most. Later, our ancestors also lost most of their body hair and sweated a lot. That keeps a body cool while moving in the heat.' Then say: 'In 1974, in Ethiopia, Donald Johanson and Tom Gray found about 40 out of every 100 bones of one small skeleton. She lived about 3.2 million years ago. They named her Lucy. Her brain was about the size of a chimpanzee's, but her hips and knees show she walked upright. In 1978, Mary Leakey's team in Tanzania found footprints pressed into volcanic ash about 3.6 million years old. Ash from a volcano fell, rain made it wet like cement, two or three walkers crossed it, and more ash covered it. So we know someone was walking upright before the oldest stone tools found so far.' Read Voice v1 about Mary Leakey and ask its question."
     },
     {
      "kind": "exp",
@@ -197,7 +197,7 @@
     "a mirror",
     "a plate of water and an old towel",
     "2 sheets of newspaper and a pencil or marker",
-    "6 lemons, onions or small plastic cups",
+    "6 lemons, onions or small plastic cups, and a steel plate",
     "a clear floor and a folded towel or mat for the knees"
    ]
   },
@@ -264,7 +264,7 @@
      "kind": "talk",
      "title": "Brains in bottles",
      "mins": 12,
-     "do": "Put three clear bottles or tumblers on the table. Pour 400 millilitres of water into the first (two 200 ml cups), 900 ml into the second and 1,300 ml into the third. Say: 'The first is about the size of a chimpanzee's brain, and of Lucy's. The second is about the size of the brain of a kind of human called Homo erectus, who lived about 1.5 million years ago. The third is about the size of yours.' Ask: 'What problem comes with a bigger brain?' (It needs much more food energy.) Say: 'The scientist Richard Wrangham thinks cooking was the answer. Cooked food gives more energy with less chewing, so a bigger brain could be fed. Other scientists point out that clear signs of fire, like burnt bones in a cave in South Africa, are only about 1 million years old, while brains had already started growing before that. So this is still debated.'"
+     "do": "Put three clear bottles or jugs on the table. The biggest must hold at least 1.5 litres. Pour 400 millilitres of water into the first (two 200 ml cups), 900 ml into the second and 1,300 ml into the third. Say: 'The first is about the size of a chimpanzee's brain, and of Lucy's. The second is about the size of the brain of a kind of human called Homo erectus, who lived about 1.5 million years ago. The third is about the size of yours.' Ask: 'What problem comes with a bigger brain?' (It needs much more food energy.) Say: 'The scientist Richard Wrangham thinks cooking was the answer. Cooked food gives more energy with less chewing, so a bigger brain could be fed. Other scientists point out that clear signs of fire, like burnt bones in a cave in South Africa, are only about 1 million years old, while brains had already started growing before that. So this is still debated.'"
     },
     {
      "kind": "talk",
@@ -278,7 +278,7 @@
     "a carrot, half of it boiled soft (see prep)",
     "a knife and a board for the grown-up",
     "a pencil and paper",
-    "3 clear bottles or large steel tumblers",
+    "3 clear bottles or jugs, the biggest holding at least 1.5 litres",
     "a 200 ml cup and water"
    ],
    "prep": [
@@ -304,7 +304,7 @@
      "title": "Cousins who are gone",
      "mins": 15,
      "ref": "v4",
-     "do": "Draw a bush with many branches, not a ladder. Label branches as you talk. Say: 'Homo erectus was the first kind of human known to leave Africa, almost 2 million years ago. They reached as far as Java in Indonesia. Neanderthals lived in Europe and West Asia. They were strong, made fine stone tools, used fire and wore clothes. Denisovans lived in Asia. We know them mostly from their DNA, read from a finger bone and teeth in a cave in Siberia. On the island of Flores in Indonesia lived Homo floresiensis, about 1 metre tall, until about 50,000 years ago. Our own kind, Homo sapiens, began in Africa about 300,000 years ago.' Ask: 'So for most of human history, how many kinds of humans were alive at once?' (Several.) Say: 'For over 100 years, books showed Neanderthals as stooped and stupid. That picture came from one old man's skeleton, wrongly put together. He had a joint disease called arthritis. Neanderthals in fact stood as upright as we do.' Read Voice v4 about Svante Pääbo and ask its question. Add the bush drawing to the museum box."
+     "do": "Draw a bush with many branches, not a ladder. Label branches as you talk. Say: 'Homo erectus was the first kind of human known to leave Africa, almost 2 million years ago. They reached as far as Java in Indonesia. Neanderthals lived in Europe and West Asia. They were strong, made fine stone tools, used fire and wore clothes. Denisovans lived in Asia. We know them mostly from their DNA, read from a finger bone and teeth in a cave in Siberia. On the island of Flores in Indonesia lived Homo floresiensis, about 1 metre tall, until about 50,000 years ago. Our own kind, Homo sapiens, began in Africa about 300,000 years ago.' Ask: 'So for most of human history, how many kinds of humans were alive at once?' (Several.) Say: 'For about 50 years, books showed Neanderthals as stooped and stupid. That picture came from one old man's skeleton, wrongly put together. He had a joint disease called arthritis. Neanderthals in fact stood as upright as we do.' Read Voice v4 about Svante Pääbo and ask its question. Add the bush drawing to the museum box."
     },
     {
      "kind": "ws",
@@ -848,10 +848,11 @@
    "id": "e2",
    "title": "Paper insects and a hungry bird",
    "day": 2,
-   "question": "If a bird eats the insects that are easiest to see, what happens to the group over several generations?",
+   "question": "If a bird eats the insects that are easiest to see, what happens to the group over several generations, and what happens when the surroundings change?",
    "need": [
     "a sheet of newspaper",
     "a sheet of brightly coloured paper, or a bright magazine page",
+    "a brightly coloured bedsheet, dupatta or towel, for round 4",
     "scissors",
     "a phone timer",
     "paper and a pencil"
@@ -862,11 +863,12 @@
     "Your child is the bird. They pick up insects one at a time, with one hand only, for 15 seconds.",
     "Count the insects left on the ground of each kind. Write the numbers down.",
     "The survivors have young: for each insect left, add one new insect of the same kind. Cut more squares if you need them. Scatter them again while the bird looks away.",
-    "Play three rounds. After each round, write how many of each kind are left."
+    "Play three rounds on the newspaper. After each round, write how many of each kind are left.",
+    "Round 4: the surroundings change. Spread the bright cloth on the floor as the new ground. Scatter all the survivors on it while the bird looks away, and play one more round. Count again."
    ],
    "predict": "Ask: 'Which kind will the bird catch more of? After three rounds, which kind will be more common? Why?'",
-   "observe": "The bright insects are caught much more often. After three rounds, most of the insects left are newspaper ones.",
-   "why": "This is natural selection. The insects were different (variation). The survivors' young were like their parents (inheritance). The bird caught the ones easiest to see, so the newspaper ones survived more often and had more young. No insect chose to change. The group changed because of who survived. Real living things change this way too, over many generations.",
+   "observe": "The bright insects are caught much more often. After three rounds, most of the insects left are newspaper ones. In round 4, on the bright cloth, the newspaper insects stand out and are caught more often.",
+   "why": "This is natural selection. The insects were different (variation). The survivors' young were like their parents (inheritance). The bird caught the ones easiest to see, so the newspaper ones survived more often and had more young. No insect chose to change. When the ground changed, the feature that helped changed too. The group changed because of who survived. Real living things change this way too, over many generations.",
    "safety": "A grown-up helps with the scissors. Pick up every square at the end.",
    "time": "18 min"
   },
@@ -880,7 +882,7 @@
     "2 sheets of newspaper",
     "a pencil or marker",
     "an old towel",
-    "6 lemons, onions or small plastic cups",
+    "6 lemons, onions or small plastic cups, and a steel plate",
     "a phone timer",
     "a folded towel or mat for the knees"
    ],
@@ -917,7 +919,7 @@
     "Add up each set of 3 and compare. Draw two bars, one for raw and one for cooked."
    ],
    "predict": "Ask: 'Which will need more chews? How many more? Why do you think so?'",
-   "observe": "Raw carrot usually needs several times as many chews as cooked carrot. Many children count about 25 to 40 chews for raw and under 10 for cooked.",
+   "observe": "Raw carrot usually needs several times as many chews as cooked carrot.",
    "why": "Heat softens the walls of plant cells and breaks down some of the tough parts of food. Cooked food takes less chewing, and the body can take more of its energy. Some scientists think cooking helped our ancestors get enough energy for a bigger brain. This is debated, because clear signs of fire appear later than the first growth in brain size.",
    "safety": "A grown-up does the cutting and cooking. Let the cooked carrot cool before eating. Sit down while eating, and chew carefully.",
    "time": "15 min"
@@ -938,7 +940,7 @@
     "Draw a table. Write the six animals across the top: cow, cat, crow, monkey, chimpanzee, human.",
     "Write these features down the side, one per row: has a backbone, has hair or fur, babies drink milk, hands that grip, flat nails, eyes that face forward, no tail.",
     "For each animal and each feature, your child puts a tick or a cross. Look at the pictures to check. Ask 'How do you know?' for each one.",
-    "Colour in the ticks. Look for the pattern: the ticks form a staircase. Every animal with flat nails also has hair. Every animal with hair also has a backbone.",
+    "Colour in the ticks. Look for the pattern: the ticks form a staircase. Every animal with flat nails also has hair. Every animal with hair also has a backbone. One tick breaks the pattern: a cat's eyes face forward too. Cats are hunters, and they must judge how far away a mouse is before they pounce.",
     "Draw circles inside circles: a big circle labelled 'animals with backbones', a smaller one inside it labelled 'mammals', a smaller one 'primates', and a smallest one 'apes'. Write each animal in the smallest circle it fits."
    ],
    "outcome": "A table and a set of circles showing that humans are mammals, primates and apes, and that the groups fit inside each other like a family tree."
@@ -1079,7 +1081,7 @@
  "perspectives": [
   {
    "who": "A chimpanzee mother in Gombe, Tanzania",
-   "view": "'You call yourselves the clever ones. I know hundreds of plants and which ones to eat. I teach my daughter to fish for termites with a stem, and it takes her years to learn. I have evolved as long as you have.' Ask: if a chimpanzee wrote the story of evolution, who would be the hero?"
+   "view": "'You call yourselves the clever ones. I know many plants and which parts to eat. My daughter watches me fish for termites with a stem, and it takes her years to learn. I have evolved as long as you have.' Ask: if a chimpanzee wrote the story of evolution, who would be the hero?"
   },
   {
    "who": "A Hadza grandmother in Tanzania",
@@ -1100,7 +1102,7 @@
    "who": "Mary Leakey (1913–1996), Britain, worked in Tanzania and Kenya",
    "idea": "Mary Leakey spent most of her life digging for human fossils in East Africa. In 1959 at Olduvai Gorge in Tanzania, she found a skull about 1.8 million years old, now called Paranthropus boisei. In 1978 her team found the Laetoli footprints: a trail made about 3.6 million years ago by upright walkers in wet volcanic ash.",
    "then": "Mary had no university degree. When she found the 1959 skull, her husband Louis Leakey announced it and gave the talks, and for years many people spoke of it as his find. She ran the digs at Laetoli herself, and the footprints made her famous in her own right.",
-   "now": "Accepted. The Laetoli footprints are some of the strongest evidence that our ancestors walked upright long before they made stone tools. Mary Leakey is now known as one of the great field scientists of the 20th century.",
+   "now": "Accepted. The Laetoli footprints are some of the strongest evidence that our ancestors walked upright before the oldest stone tools found so far. Mary Leakey is now known as one of the great field scientists of the 20th century.",
    "status": "accepted",
    "ask": "Mary found the skull but Louis got much of the credit at first. Why do you think the person who gives the talks often gets the credit? How could we make it fairer?",
    "day": 3
@@ -1148,7 +1150,7 @@
    "The boy tried with a stone of his own. His blows went everywhere. His stone cracked in two, and he threw it down. The woman laughed, but kindly. She took his hand in hers. She showed him the angle, the place on the edge, and how hard to strike. He tried again. A small flake came off cleanly. He looked up at her, and she nodded.",
    "When she finished, I was sharp along both edges. She used me that same day to cut meat from an animal and to dig up a root. I was a good tool. I did my job for many days.",
    "Then, one rainy season, the river rose. I was left on the bank, and the brown water came over me. Mud settled on top. Then more mud the next year, and more the year after. Layer upon layer, the clay piled over me. It turned red and hard. I lay in the dark.",
-   "How long did I wait? I did not count. But while I lay there, the world above me changed many times. Rivers moved. Forests came and went. The woman and the boy were long gone, and their children, and their children's children. In time, their kind of human disappeared from the Earth. A new kind of human was born far away in Africa. Over many thousands of years, their families walked all the way to the land above me. They built villages, and much later a city called Chennai, not far away.",
+   "How long did I wait? I did not count. But while I lay there, the world above me changed many times. Rivers moved. Forests came and went. The woman and the boy were long gone, and their children, and their children's children. In time, their kind of human disappeared from the Earth. A new kind of human began far away in Africa. Over many thousands of years, their families walked all the way to the land above me. They built villages, and much later a city called Chennai, not far away.",
    "I waited for about one and a half million years.",
    "Then one hot morning, I heard a scraping. Light came in. A brush swept the clay off my face.",
    "'Selvi, come and see,' said a voice. It was a woman in a wide hat, kneeling in a deep, square pit. Her name was Dr Thenmozhi. She was an archaeologist, a scientist who studies the things people made long ago. A girl climbed down the ladder. Selvi was ten. Her mother farmed the fields beside the dig, and Selvi came every day after school.",
@@ -1164,7 +1166,7 @@
    "'Somebody must have,' said Dr Thenmozhi. 'Nobody makes a hand-axe on the first try.'",
    "That evening, at the edge of the field, Selvi found two river stones. She struck one with the other. It cracked in two. She tried again. Nothing. Dr Thenmozhi walked over, wiping her hands. She took Selvi's hand in hers and turned it a little. 'Here,' she said. 'Strike the edge. Not the middle.'",
    "Selvi struck. A flake came off, thin and sharp.",
-   "I lay on the table under the lamp, with a number written on me in white ink. I had seen that before."
+   "I lay on the table under the lamp, with a number written on me in white ink. I had watched a woman guide a child's hand to strike a stone. I had seen that once before, a million and a half years ago."
   ],
   "epiphany": "For the parent: the story turns when Selvi asks whether 'a person like us' made the hand-axe, and learns it was made by a different kind of human, more than a million years before our species existed. The hand-axe shows a mind that plans ahead, and a skill that had to be taught. The last scene repeats the first: a woman takes a child's hand to show the angle. The skill passed from hand to hand across kinds of humans, and the stone has 'seen that before'. Let your child notice the echo. Do not explain it.",
   "ask": [
@@ -1197,7 +1199,7 @@
   "Why did our ancestors first start walking on two legs? Saving energy, carrying, seeing over grass and keeping cool are all ideas. Nobody knows which mattered most.",
   "Why is our species the only kind of human left? Climate change, illness, larger groups that shared more, and mixing into our kind are all possible. Nobody knows.",
   "When did people of our kind first reach India, and who made the older stone tools at Jwalapuram? DNA points to at least about 50,000 years ago, and some tools may be older.",
-  "What did the Denisovans look like? Very few of their bones have been found, so we know them mainly from their DNA."
+  "What did the Denisovans look like, and how did they live? Only a few of their bones and teeth have been found, so we know them mainly from their DNA."
  ],
  "books": [
   {

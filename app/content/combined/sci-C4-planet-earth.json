@@ -6,7 +6,7 @@
  "n": "planet-earth",
  "title": "Inside the Earth: the layers under our feet, and how we know",
  "source": "DeepKids Combined. Covers Cambridge Primary Science Stage 4, Unit 4.1 'The structure of the Earth' (crust, mantle, outer and inner core, and using models), and the ecosystem idea of the Earth's four spheres. Adds how earthquake waves reveal the layers, convection in the mantle, the Earth's magnetic field, land and water on the surface, and the ocean floor. No textbook needed.",
- "summary": "The deepest hole people have ever drilled goes down about 12 km. The centre of the Earth is about 6,400 km down. So how do we know what is there? Your child spins a raw and a boiled egg to tell them apart without opening them, then learns how earthquake waves let scientists 'listen' to the inside of the planet. They draw the crust, mantle, outer core and inner core to scale, and find that the crust is thinner than a pencil line. They watch convection in a glass of water, float a needle compass to meet the field made by liquid iron, and share out a litre of water the way the Earth shares its water. On the way they meet Richard Oldham, Inge Lehmann and Marie Tharp, who found what no one could see.",
+ "summary": "The deepest hole people have ever drilled goes down about 12 km. The centre of the Earth is about 6,400 km down. So how do we know what is there? Your child spins a raw and a boiled egg to tell them apart without opening them, then learns how earthquake waves let scientists 'listen' to the inside of the planet. They draw the crust, mantle, outer core and inner core to scale, and find that under the oceans the crust is no thicker than a pencil line. They watch convection in a glass of water, float a needle compass to meet the field made by liquid iron, and share out a litre of water the way the Earth shares its water. On the way they meet Richard Oldham, Inge Lehmann and Marie Tharp, who found what no one could see.",
  "builds_on": "Rocks and soil (Class 2): the Earth's crust is made of rock, and soil sits on top of it. Magnets (Class 3): the needle compass and the Earth as a magnet. In Class 4, When the Earth moves teaches plates, volcanoes and earthquakes, and this rung goes underneath them, to the layers and the heat inside. Next: Planet Earth (Class 5) follows a river from its source to the sea and looks at India's land, and Rocks and soil (Class 5) shows how rocks form and recycle.",
  "subconcepts": [
   "the Earth is a ball about 12,700 km across, with its centre about 6,400 km below us",
@@ -121,7 +121,7 @@
    ],
    "prep": [
     {
-     "task": "Hard-boil one egg and let it cool. For the egg-free version, freeze one small bottle of water.",
+     "task": "Hard-boil one egg and let it cool. For the egg-free version, fill one small bottle three-quarters full of water and freeze it.",
      "when": "night before"
     }
    ]
@@ -141,7 +141,7 @@
      "kind": "act",
      "title": "Draw the Earth to scale",
      "mins": 25,
-     "do": "Do Activity a1. Your child draws half of the Earth on an opened newspaper, using a string and pencil as a compass, at a scale of 1 cm for every 200 km. Help them measure each layer from the table in the activity. When they draw the crust, they will find it is thinner than the pencil line itself. Ask: 'Where on your drawing is every mountain, every ocean and every person who ever lived?' (All inside that pencil line.)",
+     "do": "Do Activity a1. Your child draws half of the Earth on an opened newspaper, using a string and pencil as a compass, at a scale of 1 cm for every 200 km. Help them measure each layer from the table in the activity. When they draw the crust, they will find that under the oceans it is no thicker than the pencil line itself. Ask: 'Where on your drawing is every mountain, every ocean and every person who ever lived?' (All inside that pencil line.)",
      "ref": "a1"
     },
     {
@@ -178,7 +178,7 @@
      "kind": "talk",
      "title": "Two kinds of waves",
      "mins": 10,
-     "do": "Say: 'An earthquake sends out two main kinds of waves through the inside of the Earth. P waves push and pull, like a crowd pushing forward in a queue. They can travel through solids and liquids. S waves shake from side to side, like a rope flicked up and down. S waves can travel through solids but not through liquids.' Ask: 'If S waves never come out on the far side of the Earth, what does that tell you?' (Something in the middle is liquid.) Say: 'That is how we know the outer core is liquid. The waves also change speed and bend when they enter a new layer, a bit like a torch beam bends when it goes into water. Machines called seismometers all over the world record when each wave arrives. From those times, scientists work out where each layer begins.' Tell them that India's National Center for Seismology runs seismometers across the country."
+     "do": "Say: 'An earthquake sends out two main kinds of waves through the inside of the Earth. P waves push and pull, like a crowd pushing forward in a queue. They can travel through solids and liquids. S waves shake from side to side, like a rope shaken from side to side. S waves can travel through solids but not through liquids.' Ask: 'If S waves never come out on the far side of the Earth, what does that tell you?' (Something in the middle is liquid.) Say: 'That is how we know the outer core is liquid. The waves also change speed and bend when they enter a new layer, a bit like a torch beam bends when it goes into water. Machines called seismometers all over the world record when each wave arrives. From those times, scientists work out where each layer begins.' Tell them that India's National Center for Seismology runs seismometers across the country."
     },
     {
      "kind": "think",
@@ -215,7 +215,7 @@
      "kind": "exp",
      "title": "Hot rises, cold sinks",
      "mins": 15,
-     "do": "Do Experiment e3. Fill a clear glass tumbler with warm tap water and let it go still. Drop in an ice cube made from coloured water. Watch from the side for 5 minutes. Ask first: 'What will the coloured water do as the ice melts?' Then watch. The coloured cold water falls in streams to the bottom and spreads out. Say: 'Cold water is heavier for its size, so it sinks. Warm water is lighter for its size, so it rises. This moving in a loop is called convection. Rock in the mantle does the same. Hot rock near the core rises very slowly, cools near the top and sinks again. One loop takes many millions of years.'",
+     "do": "Do Experiment e3. Fill a clear glass tumbler with warm water and let it go still. Drop in an ice cube made from coloured water. Watch from the side for 5 minutes. Ask first: 'What will the coloured water do as the ice melts?' Then watch. The coloured cold water falls in streams to the bottom and spreads out. Say: 'Cold water is heavier for its size, so it sinks. Warm water is lighter for its size, so it rises. This moving in a loop is called convection. Rock in the mantle does the same. Hot rock near the core rises very slowly, cools near the top and sinks again. One loop takes many millions of years.'",
      "ref": "e3"
     },
     {
@@ -239,7 +239,7 @@
     }
    ],
    "need": [
-    "a clear glass tumbler, warm tap water",
+    "a clear glass tumbler, warm water (tap water mixed with a little hot water)",
     "an ice cube made from coloured water (food colour or beetroot juice)",
     "music"
    ],
@@ -311,7 +311,7 @@
      "kind": "act",
      "title": "All the water on Earth in one bottle",
      "mins": 12,
-     "do": "Do Activity a3. Pour 1 litre of water and share it out the way the Earth's water is shared out. Almost all of it, 975 ml, stays in the bottle as the salty sea. From the 25 ml of fresh water, about 17 ml goes into the freezer as the ice at the poles and in glaciers, and about 8 ml goes into a potted plant's soil as water under the ground. Only a few drops are left for all the lakes, rivers, clouds and living things. Ask: 'Which part do people drink?' (Mostly the drops, and some of the underground water from wells and borewells.) Ask: 'Who else shares those few drops?' (Every land animal and plant.)",
+     "do": "Do Activity a3. Pour 1 litre of water and share it out the way the Earth's water is shared out. Almost all of it, 975 ml, stays in the bottle as the salty sea. From the 25 ml of fresh water, about 17 ml goes into the freezer as the ice at the poles and in glaciers, and about 8 ml goes into a potted plant's soil as water under the ground. Only a few drops are left for all the lakes, rivers, clouds and living things. Ask: 'Which parts can people drink?' (The drops in rivers and lakes, and the underground water that wells and borewells reach. In India, much of the drinking water comes from under the ground.) Ask: 'Who else shares those few drops?' (Every land animal and plant.)",
      "ref": "a3"
     },
     {
@@ -331,7 +331,7 @@
    ],
    "need": [
     "a world map (an atlas page, a printout, or the picture in the app), a pencil and ruler",
-    "a 1-litre bottle of water, a measuring cup or teaspoon (1 teaspoon is about 5 ml), an ice tray, a potted plant"
+    "a 1-litre bottle of water, a spoon of salt, a small cup, a teaspoon (about 5 ml), an ice tray, a potted plant"
    ]
   },
   {
@@ -350,7 +350,7 @@
      "kind": "talk",
      "title": "How thin is our home?",
      "mins": 10,
-     "do": "Bring out the scale drawing from Day 2. Say: 'At this scale, half of all the air on Earth lies within about 0.3 mm of the surface. Mount Everest would stick up less than half a millimetre. The deepest ocean is about half a millimetre deep.' Ask: 'Where do living things live?' (In that thin layer.) Then tell them two surprises. Living things are found far down in the rock: in 2011, scientists found tiny worms living 1.3 km down in a gold mine in South Africa, and tiny single-celled living things live several km deep. And at the top of Everest, each breath holds only about one third as much air as a breath at the beach in Chennai. Ask: 'If you could shrink the Earth to the size of a football, how thick would the layer of life be?' (Thinner than a coat of paint.)"
+     "do": "Bring out the scale drawing from Day 2. Say: 'At this scale, half of all the air on Earth lies within about 0.3 mm of the surface. Mount Everest would stick up less than half a millimetre. The deepest ocean is about half a millimetre deep.' Ask: 'Where do living things live?' (In that thin layer.) Then tell them two surprises. Living things are found far down in the rock: in 2011, scientists found tiny worms living 1.3 km down in a gold mine in South Africa, and tiny single-celled living things live several km deep. And at the top of Everest, each breath holds only about one third as much air as a breath at the beach in Chennai. Ask: 'If you could shrink the Earth to the size of a football, how thick would the layer of life be?' (Thinner than your fingernail.)"
     },
     {
      "kind": "think",
@@ -362,7 +362,7 @@
      "kind": "act",
      "title": "Project: start the Inside-Out book",
      "mins": 15,
-     "do": "Start the project. Your child folds four A4 sheets in half to make a 16-page book called 'Journey to the Centre'. Each page is one stop on the way down: soil, the deepest mine, the Kola hole, the Moho, the mantle, the outer core, the inner core and the centre. On each page they draw the stop and write three things: how deep it is, how hot it is, and how we know. They finish it on Day 8."
+     "do": "Start the project. Your child folds four A4 sheets in half to make a 16-page book called 'Journey to the Centre'. Each page is one stop on the way down: soil, the deepest mine, the Kola hole, the Moho, the upper mantle, the lower mantle, the outer core, the inner core and the centre. On each page they draw the stop and write three things: how deep it is, how hot it is, and how we know. They finish it on Day 8."
     }
    ],
    "need": [
@@ -491,7 +491,7 @@
      [
       {
        "t": "mcq",
-       "p": "Kavya spins a raw egg and a boiled egg on a plate. She stops each one with her finger and lets go. Which egg starts turning again?",
+       "p": "Kavya, a girl in Class 4, spins a raw egg and a boiled egg on a plate. She stops each one with her finger and lets go. Which egg starts turning again?",
        "opts": [
         "the raw egg",
         "the boiled egg",
@@ -556,7 +556,7 @@
         "sand on Marina Beach",
         "a glacier",
         "a neem tree",
-        "a cloud of water vapour"
+        "the air in a balloon"
        ],
        "cats": [
         "geosphere (rock)",
@@ -567,7 +567,7 @@
       },
       {
        "t": "mcq",
-       "p": "Lakshmi drops a coloured ice cube into a glass of warm water. Where does the coloured water go?",
+       "p": "Lakshmi, a girl in Class 4, drops a coloured ice cube into a glass of warm water. Where does the coloured water go?",
        "opts": [
         "it sinks to the bottom",
         "it floats on top",
@@ -620,7 +620,7 @@
       },
       {
        "t": "mcq",
-       "p": "Farhan draws the Earth with 1 cm for every 200 km. The mantle is about 2,900 km thick. About how thick is it on his drawing?",
+       "p": "Farhan, a boy in Class 4, draws the Earth with 1 cm for every 200 km. The mantle is about 2,900 km thick. About how thick is it on his drawing?",
        "opts": [
         "about 1.5 cm",
         "about 14.5 cm",
@@ -643,7 +643,7 @@
      [
       {
        "t": "write",
-       "p": "A ship drops sound waves down to the sea floor. They bounce back fast in one place and slowly in another. What does that tell you about the sea floor in each place?",
+       "p": "A ship drops sound waves down to the sea floor. In one place the echo comes back quickly. In another place it takes much longer. What does that tell you about the sea in each place?",
        "lines": 3
       },
       {
@@ -686,7 +686,7 @@
       },
       {
        "t": "mcq",
-       "p": "Divya hears a full coconut slosh and an old one rattle. Inge Lehmann found the inner core from faint waves where none should arrive. What did both of them do?",
+       "p": "Divya, a girl in Class 4, can tell a full coconut from an old one by tipping each one beside her ear. Inge Lehmann, a scientist, found the inner core from faint earthquake waves that should not have arrived. What did both of them do?",
        "opts": [
         "opened the thing to look",
         "noticed how it behaved and worked out what was inside",
@@ -762,7 +762,7 @@
      [
       {
        "t": "write",
-       "p": "Marie Tharp was not allowed on the research ships, yet she found the rift valley in the ocean floor. How could she find it without going to sea?",
+       "p": "Marie Tharp, an American map-maker, was not allowed on the research ships, yet she found the rift valley in the ocean floor. How could she find it without going to sea?",
        "lines": 4
       },
       {
@@ -833,12 +833,12 @@
    "question": "How do warm and cold water move when they meet?",
    "need": [
     "a clear glass tumbler",
-    "warm tap water (not hot)",
+    "warm water: tap water mixed with a little hot water, so it feels warm but not hot to a finger",
     "an ice cube made from water with a few drops of food colour or beetroot juice"
    ],
    "steps": [
     "The night before, freeze water mixed with food colour or beetroot juice in an ice tray.",
-    "Fill the glass with warm tap water and leave it for 1 minute so the water goes still.",
+    "Fill the glass with the warm water and leave it for 1 minute so the water goes still.",
     "Gently drop one coloured ice cube in.",
     "Watch from the side, at eye level, for 5 minutes. Do not stir or bump the glass.",
     "Your child draws what the coloured water does, with arrows."
@@ -846,7 +846,7 @@
    "predict": "Ask: 'As the ice melts, where will the coloured water go: up, down, or stay at the top?'",
    "observe": "Coloured streams fall from the ice cube to the bottom of the glass and spread out across the bottom. Later the colour slowly mixes upwards.",
    "why": "Cold water is denser than warm water: the same cupful weighs a little more. So the cold coloured water sinks, and warm water is pushed up to take its place. This loop of rising warm and sinking cold is called convection. Deep in the Earth, rock near the hot core is heated and very slowly rises, cools near the top and sinks again. In the mantle one loop takes many millions of years, because the rock is solid and flows extremely slowly.",
-   "safety": "Use warm tap water only, not water from a kettle.",
+   "safety": "A grown-up mixes the warm water. It should feel warm, not hot, to a finger.",
    "time": "15 min + freezing the night before"
   },
   {
@@ -889,11 +889,11 @@
     "Draw a straight line along the bottom of the paper. Mark a dot in the middle of the line. This dot is the centre of the Earth.",
     "Our scale is 1 cm for every 200 km. Tie the string to the pencil. Hold the string on the dot and draw half circles at these distances from the dot: 6 cm (the edge of the inner core), 17.5 cm (the edge of the outer core) and 32 cm (the surface).",
     "Colour the inner core yellow, the outer core orange and the mantle red.",
-    "Now try to draw the crust. Under the oceans it is about 5 to 10 km thick, which is 0.05 cm at this scale, half a millimetre or less. Under the Himalaya it is about 70 km, which is 3.5 mm. Draw the crust as one sharp pencil line, a little thicker in one place for the Himalaya.",
+    "Now try to draw the crust. Under the oceans it is about 5 to 10 km thick, which is 0.05 cm at this scale, half a millimetre or less. Under the Himalaya it is about 70 km, which is 3.5 mm. Draw the crust as one sharp pencil line, thicker in one place for the Himalaya.",
     "Label each layer with its name, how thick it is, how hot it is, and whether it is solid or liquid.",
     "Mark the Kola hole: 12 km is 0.06 cm, so it does not even get through the pencil line."
    ],
-   "outcome": "A half-Earth drawn to scale, showing that the crust where everything lives is thinner than a pencil line."
+   "outcome": "A half-Earth drawn to scale, showing that the crust where everything lives is about as thin as a pencil line."
   },
   {
    "id": "a2",
@@ -930,7 +930,7 @@
     "Pour out 25 ml, or 5 teaspoons, into the small cup. This is all the fresh water.",
     "Stir the salt into the bottle. The 975 ml left is the salty sea. Nobody can drink it without taking the salt out.",
     "From the cup, pour about 17 ml (3 and a half teaspoons) into the ice tray and put it in the freezer. This is the ice at the poles and in glaciers.",
-    "Pour about 8 ml (1 and a half teaspoons) into the soil of the potted plant. This is the water under the ground, which wells and borewells reach.",
+    "Pour almost all the rest, about 8 ml (1 and a half teaspoons), into the soil of the potted plant. Leave a few drops in the cup. This is the water under the ground, which wells and borewells reach.",
     "Look at what is left in the cup: a few drops. This is all the water in lakes, rivers, clouds, soil and living things."
    ],
    "outcome": "Your child sees that almost all the Earth's water is salty or frozen, and that the fresh water in rivers and lakes is only a few drops in a litre."
@@ -1017,7 +1017,7 @@
  "big": [
   "No one has ever seen the core. How sure can we be about something we can only know from its effects?",
   "The rock under your feet is moving very slowly right now. Is anything truly still?",
-  "All of life lives in a layer thinner than a pencil line on our drawing. What does that tell you about how to treat it?",
+  "All of life lives in a layer about as thin as a pencil line on our drawing. What does that tell you about how to treat it?",
   "If a worm living deep in the rock, a fish in the deepest ocean and a bird in the sky each described 'the world', would they describe the same place?",
   "Who should own what is under the ground: the gold, the oil, the water?"
  ],
@@ -1046,7 +1046,7 @@
   },
   {
    "who": "A tiny worm living 1.3 km down in a gold mine",
-   "view": "In 2011, scientists found a worm, less than a millimetre long, living in water deep inside the rock of a South African gold mine. They named this kind of worm Halicephalobus mephisto. These worms live without sunlight and eats bacteria that live on chemicals in the rock. Ask: for these worms, the 'surface world' is far away. Is their home less a part of the Earth's life than ours?"
+   "view": "In 2011, scientists found a worm, less than a millimetre long, living in water deep inside the rock of a South African gold mine. They named this kind of worm Halicephalobus mephisto. These worms live without sunlight and eat bacteria that live on chemicals in the rock. Ask: for these worms, the 'surface world' is far away. Is their home less a part of the Earth's life than ours?"
   },
   {
    "who": "A seismologist at India's National Center for Seismology",
@@ -1100,7 +1100,7 @@
   "text": [
    "On market days, the coconut market in Pollachi smells of wet husk, diesel and filter coffee. Lorries come in from the farms before sunrise. By seven o'clock the ground is covered with green and brown coconuts, piled as high as my shoulder.",
    "My aunt, Chitra athai, has sold coconuts there for twenty years. She can pick one up, shake it once beside her ear, and tell you what is inside. 'This one is full,' she says. 'This one is old and dry. This one has a crack, so the water has leaked out.' She has never once cut a coconut to check. She is always right.",
-   "I am nine, and I have been trying to hear what she hears for two years. When I shake a coconut, I hear a coconut. My cousin Arjun is seven, and he thinks this is very funny.",
+   "My name is Meenakshi. I am nine, and I have been trying to hear what she hears for two years. When I shake a coconut, I hear a coconut. My cousin Arjun is seven, and he thinks this is very funny.",
    "One market day, Chitra athai had to take the early bus to Coimbatore. Her daughter had an exam, and somebody had to go with her. 'You and Arjun will mind the stall until noon,' she told me. 'Don't sell anything you are not sure of.' Then she was gone, and the stall was mine.",
    "At nine o'clock, Fathima akka came. She cooks for weddings, and she buys a lot. 'I need twenty good coconuts for a feast tomorrow,' she said. 'Last week another stall sold me five dry ones. My guests got thin chutney. Choose carefully, kanna.'",
    "I picked up a coconut and shook the coconut beside my ear. Nothing. I shook harder. Arjun giggled. Fathima akka looked at her watch.",
@@ -1143,7 +1143,7 @@
   },
   {
    "idea": "All of life lives in a very thin layer, where rock, water and air meet.",
-   "more": "On a scale drawing, the air we breathe, the deepest ocean and the deepest living things all fit inside one pencil line. The four spheres, rock, water, air and life, keep changing each other. People, worms, trees and bacteria all share this one thin home."
+   "more": "On a scale drawing, the air we breathe, the deepest ocean and the deepest living things all lie within about half a millimetre of the surface. The four spheres, rock, water, air and life, keep changing each other. People, worms, trees and bacteria all share this one thin home."
   }
  ],
  "unknowns": [

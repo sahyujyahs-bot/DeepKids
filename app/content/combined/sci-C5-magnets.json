@@ -114,7 +114,7 @@
      "title": "Alloys and coins",
      "mins": 13,
      "ref": "a1",
-     "do": "Do Activity a1. Say: 'Most metal things at home are not pure metals. They are alloys, mixtures of a metal with other elements. Steel is iron with a little carbon. Brass is copper and zinc.' Your child sorts the objects and tests each with the magnet, coins too. Ask: 'Steel and brass are both alloys. Why is one magnetic and the other not?' Good answer: 'Steel is mostly iron. Brass has no iron in it.' Ask: 'Why do some steel tumblers not stick?' (Some stainless steel has nickel mixed in a way that stops a magnet attracting it.)"
+     "do": "Do Activity a1. Say: 'Most metal things at home are not pure metals. They are alloys, mixtures of a metal with other elements. Steel is iron with a little carbon. Brass is copper and zinc.' Your child sorts the objects and tests each with the magnet, coins too. Ask: 'Steel and brass are both alloys. Why is one magnetic and the other not?' Good answer: 'Steel is mostly iron. Brass has no iron in it.' Ask: 'Why do some steel tumblers not stick?' (Most stainless steel tumblers have nickel and chromium mixed in. This changes how the iron atoms are arranged, so a magnet hardly attracts them.)"
     }
    ],
    "need": [
@@ -167,7 +167,7 @@
      "kind": "talk",
      "title": "The Curies and their steel",
      "mins": 5,
-     "do": "Say: 'In 1895 Pierre Curie, a French scientist, found that every magnetic material has a temperature above which it stops being magnetic. We call it the Curie temperature after him. For iron it is about 770 °C.' Say: 'Marie Curie, his wife, did her first research on magnets too. A group of French industries paid her to measure how magnetic different steels were, and she published the results. Later she won two Nobel Prizes for other work.' Ask: 'Why do you think people mostly remember Pierre's name for the magnet discovery and Marie's for other things?'"
+     "do": "Say: 'In 1895 Pierre Curie, a French scientist, found that every magnetic material has a temperature above which it stops being magnetic. We call it the Curie temperature after him. For iron it is about 770 °C.' Say: 'Marie Curie, his wife, did her first research on magnets too. A French society that supported industry paid her to measure how magnetic different steels were, and she published the results. Later she won two Nobel Prizes for other work.' Ask: 'Why do you think people mostly remember Pierre's name for the magnet discovery and Marie's for other things?'"
     }
    ],
    "need": [
@@ -214,7 +214,7 @@
      "kind": "talk",
      "title": "Was our test really fair?",
      "mins": 7,
-     "do": "Say: 'A heavy magnet has to hold up more weight than a light one. So it may slide off sooner, even if it is strong.' Ask: 'Was our test fair to the heavy magnet?' Let your child argue both ways. Then slide two bendy fridge magnets back to back, slowly. Ask: 'What do you feel?' (Little bumps.) Say: 'A bendy fridge magnet is made in thin stripes, north, south, north, south. That is why it grips flat steel hard but reaches only a tiny distance.'"
+     "do": "Say: 'A heavy magnet has to hold up more weight than a light one. So it may slide off sooner, even if it is strong.' Ask: 'Was our test fair to the heavy magnet?' Let your child argue both ways. Then slide two bendy fridge magnets over each other slowly, with their black magnetic sides together. Ask: 'What do you feel?' (Little bumps.) Say: 'A bendy fridge magnet is made in thin stripes, north, south, north, south. That is why it grips flat steel hard but reaches only a tiny distance.'"
     }
    ],
    "need": [
@@ -315,12 +315,12 @@
      "kind": "talk",
      "title": "Moving magnets make electricity",
      "mins": 6,
-     "do": "Say: 'Eleven years after Ørsted, in 1831, Michael Faraday did the opposite. He moved a magnet in and out of a coil of wire, and a current flowed in the wire. Every power station still works this way: something turns big magnets inside coils, or coils near magnets.' Ask: 'A bicycle dynamo lights a lamp only while the wheel turns. Why?' Good answer: 'It has a magnet that spins next to a coil. The moving magnet makes the current.' Say: 'Electromagnets are in scrap-yard cranes, electric bells, the motors of fans and mixers, and MRI scanners in hospitals.'"
+     "do": "Say: 'Eleven years after Ørsted, in 1831, Michael Faraday did the opposite. He moved a magnet in and out of a coil of wire, and a current flowed in the wire. Almost every power station, except solar panels, still works this way: something turns big magnets inside coils, or coils near magnets.' Ask: 'A bicycle dynamo lights a lamp only while the wheel turns. Why?' Good answer: 'It has a magnet that spins next to a coil. The moving magnet makes the current.' Say: 'Electromagnets are in scrap-yard cranes, electric bells, the motors of fans and mixers, and MRI scanners in hospitals.'"
     }
    ],
    "need": [
     "a 1.5 volt AA cell (a new one works best)",
-    "3 metres of thin insulated copper wire with 2 cm of bare wire at each end",
+    "3.5 metres of thin insulated copper wire: 50 cm for the first test and 3 metres for the electromagnet, each with 2 cm of bare wire at each end",
     "a large steel nail, 7 to 10 cm long",
     "sticky tape",
     "a box of stapler pins or steel pins",
@@ -426,7 +426,7 @@
    "need": [
     "3 empty matchboxes",
     "a small magnet that fits in a matchbox",
-    "2 small things of about the same weight that are not magnetic, such as a small stone or a piece of clay",
+    "2 small things of about the same weight that are not magnetic, such as an eraser and a lump of atta dough",
     "a compass, or a magnetised needle on a thread",
     "the printed game board, a die and counters"
    ],
@@ -466,7 +466,7 @@
      "title": "Build the electromagnet crane",
      "mins": 24,
      "ref": "e8",
-     "do": "Start the project. Use the electromagnet from Experiment e8. Your child builds the crane: tape a ruler or a stick across the top of a tall box so that one end sticks out, and hang the electromagnet from that end by its wire, so the nail points down. Put a 'scrap heap' under it: stapler pins, small paper clips, a few bits of aluminium foil and paper. Ask: 'What will the crane pick up, and what will it leave?' Your child touches the wire to the cell to lift, swings the stick round, and lets go to drop the load in an empty bowl. Ask: 'How is this like a real scrap-yard crane?' (It picks up only iron and steel, and drops them when the current stops.)"
+     "do": "Start the project with the electromagnet from Experiment e8. Your child builds the crane by following project steps 2 to 4. Before the first lift, ask: 'What will the crane pick up, and what will it leave?' After a few lifts, ask: 'How is this like a real scrap-yard crane?' (It picks up only iron and steel, and drops them when the current stops.)"
     }
    ],
    "need": [
@@ -763,7 +763,7 @@
        "options": [
         "gravity",
         "friction",
-        "magnet attracts the door",
+        "pull towards the door",
         "door pushes back",
         "air resistance",
         "upthrust"
@@ -778,7 +778,7 @@
          "dir": "up"
         },
         {
-         "name": "magnet attracts the door",
+         "name": "pull towards the door",
          "dir": "left"
         },
         {
@@ -794,7 +794,7 @@
      [
       {
        "t": "mcq",
-       "p": "A magnetotactic bacterium lives in the mud of a lake in Bengaluru. Why do they carry a chain of magnetite crystals?",
+       "p": "A magnetotactic bacterium lives in the mud of a lake in Bengaluru. Why does this bacterium carry a chain of magnetite crystals?",
        "opts": [
         "to find food floating near the top of the water",
         "to line up with the Earth's field, which slants down into the mud where they live best",
@@ -804,7 +804,7 @@
       },
       {
        "t": "write",
-       "p": "Pick a side. Strong magnets made with rare earth metals are in phones, electric cars and wind turbines. Should we make many more of them? Lakshmi, a wind turbine engineer says: 'Strong magnets make lighter motors and generators. Wind turbines with them make electricity without burning coal.' Sheeba, who fishes off a beach in Kerala where rare earth sands are mined says: 'Mining and cleaning the sand can harm the beach and the sea, and the people who live there do not decide.' Rupa, who runs a recycling shop says: 'Old hard disks and motors are full of these magnets, but almost all are thrown away. We could reuse them before we dig up more.' Pick one view. Give a reason for it from what you learned. Then say what one of the other people would answer back.",
+       "p": "Pick a side. Strong magnets made with rare earth metals are in phones, electric cars and wind turbines. Should we make many more of them? Lakshmi, a wind turbine engineer, says: 'Strong magnets make lighter motors and generators. Wind turbines with them make electricity without burning coal.' Sheeba, who fishes off a beach in Kerala where rare earth sands are mined, says: 'Mining and cleaning the sand can harm the beach and the sea, and the people who live there do not decide.' Rupa, who runs a recycling shop, says: 'Old hard disks and motors are full of these magnets, but almost all are thrown away. We could reuse them before we dig up more.' Pick one view. Give a reason for it from what you learned. Then say what one of the other people would answer back.",
        "lines": 5,
        "a": "A strong answer picks one view and backs it with a real reason (for example, cleaner electricity, harm to the beach, or reuse of old magnets). It then fairly states another person's reply, and may suggest a way to meet both needs, such as recycling more."
       },
@@ -833,9 +833,9 @@
       },
       {
        "t": "fill",
-       "p": "Tanvi tested her magnet four times and got 14, 16, 3 and 15 paper squares. She leaves out the reading that does not fit. The mean of the other three is ____.",
+       "p": "Tanvi tested her magnet four times and got 18, 20, 5 and 19 paper squares. She leaves out the reading that does not fit. The mean of the other three is ____.",
        "a": [
-        "15"
+        "19"
        ]
       },
       {
@@ -995,7 +995,7 @@
    ],
    "steps": [
     "Check that the magnetised needle still lifts pins. Count them.",
-    "A grown-up holds the needle by its eye end with the pliers and holds the point in the hottest part of the gas flame until the needle glows red. This takes about one minute.",
+    "A grown-up holds the needle by its eye end with the pliers and holds the needle across the hottest part of the gas flame, moving it slowly so that as much of it as possible glows red. This takes about one minute.",
     "The grown-up lays the needle on a steel plate to cool for five minutes. Nobody touches it while it cools.",
     "Dip the cooled needle into the pins. Count them.",
     "Stroke it 40 times again and test once more."
@@ -1027,7 +1027,7 @@
    ],
    "predict": "Ask your child to line the magnets up from strongest to weakest by guessing, and to give a reason.",
    "observe": "A bendy fridge magnet usually holds only one to three squares. A ceramic or bar magnet holds many more. The three tries for one magnet are close but not always the same.",
-   "why": "Paper is not magnetic, so each square adds a little gap between the magnet and the steel door. Magnetic force gets weaker as the gap grows. A stronger magnet still grips the door across a bigger gap. We do three tries because one try can be a fluke, and the mean gives a fair middle value. Strength depends on what the magnet is made of and how well its domains line up, not on its size.",
+   "why": "Paper is not magnetic, so each square adds a little gap between the magnet and the steel door. Magnetic force gets weaker as the gap grows. A stronger magnet still grips the door across a bigger gap. We do three tries because one try can be a fluke, and the mean gives a fair middle value. Strength depends on what the magnet is made of and how well its domains line up, not only on its size.",
    "safety": "Keep magnets away from phones and bank cards. If you have small neodymium magnets, keep them away from children under 5: swallowed magnets are an emergency.",
    "time": "22 min"
   },
@@ -1048,7 +1048,7 @@
     "Tie one end of the thread to the clip. Tape the other end of the thread to the table.",
     "Make a stack of books about 20 cm high next to the taped end. Tape the magnet under the top book so that it sticks out over the edge.",
     "Lift the clip on its thread up towards the magnet, until it jumps up but cannot reach the magnet because the thread is tight.",
-    "If the clip touches the magnet, move the stack a little to make the thread shorter. Let go. The clip should stay in the air.",
+    "If the clip touches the magnet, untape the thread and tape it down again a little shorter. Let go. The clip should stay in the air.",
     "Measure the gap between clip and magnet. Take a thin book off the stack to lower the magnet, or add one to raise it, and find the biggest gap where the clip still floats."
    ],
    "predict": "Ask: 'If you let go of the clip under the magnet, will it stay in the air? How big a gap can there be?'",
@@ -1078,7 +1078,7 @@
    ],
    "predict": "Before each material, ask: 'Will the clip keep floating? Why do you think so?'",
    "observe": "The clip keeps floating with paper, plastic and aluminium foil in the gap. When the steel jar lid slides in, the clip drops, or jumps to the lid.",
-   "why": "Paper, plastic and aluminium are not magnetic materials, so the field passes through them as if they were not there. The jar lid is made of steel. Its domains line up with the magnet, and the field runs through the lid itself instead of crossing to the clip. This is called magnetic shielding. It is why the steel case of a compass would spoil it, and why the cases around some machines are made of iron.",
+   "why": "Paper, plastic and aluminium are not magnetic materials, so the field passes through them as if they were not there. The jar lid is made of steel. Its domains line up with the magnet, and the field runs through the lid itself instead of crossing to the clip. This is called magnetic shielding. It is why some delicate instruments are kept inside iron boxes.",
    "safety": "Jar lids can have sharp edges. Hold them by the flat part.",
    "time": "15 min"
   },
@@ -1125,7 +1125,7 @@
     "Leave the rest of the wire loose and straight, not bunched up. Do not cut it.",
     "Hold one bare end on each end of the cell. Dip the nail tip in the pins, lift, and count the pins. Then let go of the cell. Keep each lift to 10 seconds.",
     "Do it three times, waiting 30 seconds between tries. Write the number each time.",
-    "Now wind more of the loose wire on, to make 60 turns in all. The same length of wire is still connected. Test three times again.",
+    "Now wind more of the loose wire on, to make 60 turns in all, in the same direction. If the nail is full, wind the new turns over the first ones. The same length of wire is still connected. Test three times again.",
     "Last, slide the nail out of the coil, hold the empty coil over the pins and connect the cell."
    ],
    "predict": "Ask: 'Will 60 turns lift more pins than 30? What will the coil do without the nail inside it?'",
@@ -1207,7 +1207,7 @@
    "need": [
     "3 empty matchboxes",
     "a small magnet that fits inside one",
-    "2 small things about the same weight that are not magnetic, such as a small stone and a lump of clay",
+    "2 small things about the same weight that are not magnetic, such as an eraser and a lump of atta dough",
     "a compass, or a magnetised needle on a thread",
     "the Magnet notebook"
    ],
@@ -1311,11 +1311,11 @@
   },
   {
    "who": "A magnetotactic bacterium",
-   "view": "Their problem is to stay in a thin layer of mud with just a little oxygen, when every storm throws them up into the water. Their magnetite chain lines them up with the Earth's field and steers them back down. Ask: we call bacteria 'simple'. Each one builds their own compass out of iron from the water. What can you build out of nothing but what you eat?"
+   "view": "Their problem is to stay in a thin layer of mud with just a little oxygen, when every storm throws them up into the water. Their magnetite chain lines them up with the Earth's field and steers them back down. Ask: we often call bacteria 'simple'. Each one builds their own compass from iron in the water. Does 'simple' describe them well?"
   },
   {
    "who": "A fisherwoman in Thoothukudi",
-   "view": "Her boat now has a phone with satellite maps, but she still keeps a compass, because the phone can lose its signal or its charge out at sea. Ask: when is an old, simple tool better than a new one?"
+   "view": "Her family's boat now carries a phone with satellite maps, but they still keep a compass on board, because a phone can lose its signal or its charge out at sea. Ask: when is an old, simple tool better than a new one?"
   },
   {
    "who": "An MRI technician in a hospital in Kochi",
@@ -1358,9 +1358,9 @@
    "who": "Wolfgang and Roswitha Wiltschko, Germany, and scientists studying how birds sense the Earth's field today",
    "idea": "In 1972 the Wiltschkos showed that European robins kept in a cage at migration time hop towards the direction they would migrate, and change direction when the magnetic field around the cage is turned. So the birds have a magnetic compass.",
    "then": "Many scientists doubted that a bird could sense a field so weak. Over the next decades, tests on many kinds of birds found the same thing.",
-   "now": "That birds sense the field is accepted. How they do it is still debated. One idea is a protein called cryptochrome in their eyes, which may let them see the field as a pattern. Another was magnetite in their beaks, but in 2012 the iron-rich cells in pigeon beaks turned out to be blood-cleaning cells, not sense cells. Some scientists still look for magnetite sensors elsewhere in the body.",
+   "now": "That birds sense the field is accepted. How they do it is still debated. One idea is a protein called cryptochrome in their eyes, which may let them see the field as a pattern. Another was magnetite in their beaks, but in 2012 the iron-rich cells in pigeon beaks turned out to be immune cells that store iron, not sense cells. Some scientists still look for magnetite sensors elsewhere in the body.",
    "status": "debated",
-   "ask": "If a robin could see the Earth's field, what might it look like to them? What experiment could show whether her eyes are involved?",
+   "ask": "If a robin could see the Earth's field, what might it look like to them? What experiment could show whether their eyes are involved?",
    "day": 8
   }
  ],
@@ -1368,7 +1368,7 @@
   "title": "The Line in the Mud",
   "text": [
    "I live at the bottom of a lake in Bengaluru, in the soft grey mud. You could line up a hundred of me across the full stop at the end of this sentence, and still have room. I am a bacterium. I have no eyes and no ears. But I know a great deal about mud.",
-   "Mud is not the same all the way down. Near the top, where the water touches it, there is a lot of oxygen. Too much oxygen harms me. Deep down, there is none at all, and I cannot live there either. In between is a thin layer, thinner than a page of your notebook, where there is just a little. That is where I belong. That is home.",
+   "Mud is not the same all the way down. Near the top, where the water touches it, there is a lot of oxygen. Too much oxygen harms me. Deep down, there is none at all, and I cannot live there either. In between is a thin layer, often only a few millimetres thick, where there is just a little. That is where I belong. That is home.",
    "The trouble is that the lake does not keep still. A fish turns, and their tail stirs the mud into a cloud. A heron steps on the bottom. Rain pours in from the drains. When that happens I am thrown up into the bright water, spinning, and I have no idea which way is down. You might think a creature could just fall. But I am so small that the water holds me up like dust in a sunbeam. Falling does not work for something my size.",
    "So I carry something inside me. Along the middle of my body runs a row of tiny crystals, like beads on a thread. I built them myself, one by one, out of iron I took from the water. The crystals are magnetite, the same black mineral that lodestones are made of. Each crystal is a tiny magnet. Lined up in a row, they add together into one long needle, and the needle turns my whole body.",
    "I do not feel it as a pull. I only find myself facing a certain way. And when I swim forward, the way I am facing, I go a little north and a little down. Down is home. So after every storm, I turn, I swim, and I find the thin layer again. So do all the others like me.",
@@ -1388,18 +1388,18 @@
    "Then I turned. I did not know where down was. I never had. I only knew which way the line ran, the line that runs through the whole Earth, from the turning liquid iron deep inside it, up through the rock, the lake and the mud, and through the needle inside me. I faced along it, and I swam.",
    "A little north. A little down. Home."
   ],
-  "epiphany": "For the parent: the bacterium thinks she knows the way down, but she never did. The magnetite chain only lines her up with the Earth's magnetic field, which in the northern half of the Earth slants down into the ground. The turn comes when Dr Revathi's small magnet makes a stronger field than the Earth's nearby, and every bacterium turns to follow it: they are lined up by the field, not by any sense of up and down. This is the same thing the child's floating needle does on Day 5, and the same domains-lining-up idea from Day 2, inside a living being.",
+  "epiphany": "For the parent: the bacterium thinks they know the way down, but they never did. The magnetite chain only lines them up with the Earth's magnetic field, which in the northern half of the Earth slants down into the ground. The turn comes when Dr Revathi's small magnet makes a stronger field than the Earth's nearby, and every bacterium turns to follow it: they are lined up by the field, not by any sense of up and down. This is the same thing the child's floating needle does on Day 5, and the same domains-lining-up idea from Day 2, inside a living being.",
   "ask": [
    "Why did the bacteria swim to one edge of the drop, even though there was no mud to reach?",
    "How did Dr Revathi show that it was not the lamp?",
    "What would happen to the bacteria if you put a strong magnet near the lake bottom?",
-   "The bacterium says she never knew where down was. What did she know instead?",
+   "The bacterium says they never knew where down was. What did they know instead?",
    "What else do you know about the world without being able to sense it yourself?"
   ]
  },
  "ideas": [
   {
-   "idea": "Being a magnet is about arrangement, not about a special material.",
+   "idea": "Being a magnet depends on how the domains are arranged, not only on what the material is.",
    "more": "The same steel needle became a magnet when it was stroked, stopped being one when it was heated, and became one again when stroked again. Nothing was added or taken away. Only the direction of its domains changed. Use the domain dance on Day 2 to show it."
   },
   {
@@ -1440,7 +1440,7 @@
    "title": "Electric Universe",
    "author": "David Bodanis",
    "for": "parent reads",
-   "age": "adult. Read the chapters on Faraday and on Ørsted's discovery aloud in parts.",
+   "age": "adult. Read the chapters on Faraday aloud in parts.",
    "why": "True stories of the people who found how electricity and magnetism are linked, told like an adventure."
   }
  ],
