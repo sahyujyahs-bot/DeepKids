@@ -5785,7 +5785,8 @@ function pickType(mix, h) {
   return T[0][0];
 }
 /* the day's refresher: topics due by their list's frequency, a mix of short bits by their list's mix */
-function rfPlanFromAnswers(date) {
+// `seen`: topics the refresher will already have covered on the days before (when planning days ahead)
+function rfPlanFromAnswers(date, seen = {}) {
   if (S.rfp?.[date]) return S.rfp[date];
   const R = RFS();
   if (!R.days.includes(parse(date).getDay())) return null;
@@ -5797,6 +5798,9 @@ function rfPlanFromAnswers(date) {
       (p.topics || []).forEach((t) => {
         if (!lastRef[t.k] || d > lastRef[t.k]) lastRef[t.k] = d;
       });
+  });
+  Object.entries(seen).forEach(([k, d]) => {
+    if (d < date && (!lastRef[k] || d > lastRef[k])) lastRef[k] = d;
   });
   const due = [];
   learnedUnits().forEach((u) => {
@@ -5810,8 +5814,10 @@ function rfPlanFromAnswers(date) {
   if (!due.length) return null;
   const ord = { not: 0, grasped: 1, mastered: 2 };
   due.sort((a, b) => ord[a.g] - ord[b.g] || b.gap - a.gap || hsh(date + a.u.k) - hsh(date + b.u.k));
+  // about 15 minutes a topic, up to the daily time, so one topic isn't stretched over the whole refresher
   const T = due.slice(0, 3),
-    n = Math.max(3, Math.round(R.mins / 3)),
+    mins = Math.min(R.mins, 15 * T.length),
+    n = Math.max(3, Math.round(mins / 3)),
     slots = [];
   for (let i = 0; i < n; i++) {
     const t = T[i % T.length],
@@ -5842,7 +5848,7 @@ function rfPlanFromAnswers(date) {
   }
   const p = {
     date,
-    mins: R.mins,
+    mins,
     topics: T.map((t) => ({ k: t.u.k, g: t.g })),
     slots,
     title:
@@ -5856,8 +5862,8 @@ function rfPlanFromAnswers(date) {
   }
   return p;
 }
-function rfPlan(date) {
-  const p = rfPlanFromAnswers(date),
+function rfPlan(date, seen) {
+  const p = rfPlanFromAnswers(date, seen),
     U = fxRefs(),
     V = fxReviews(date),
     n = U.reduce((a, x) => a + x.n, 0);
@@ -6011,15 +6017,28 @@ function rfsetBody() {
         : `<p class="xs muted">None yet.</p>`
     }</section>`;
   // what the refresher goes over on each of the next seven days
-  const soon = [0, 1, 2, 3, 4, 5, 6]
-    .map((i) => [addDays(today, i), rfPlan(addDays(today, i))])
-    .filter(([, p]) => p && (p.topics?.length || p.fxOnly));
+  const seen = {},
+    soon = [0, 1, 2, 3, 4, 5, 6]
+      .map((i) => {
+        const d = addDays(today, i),
+          p = rfPlan(d, seen);
+        (p?.topics || []).forEach((t) => (seen[t.k] = d));
+        return [d, p];
+      })
+      .filter(([, p]) => p && (p.topics?.length || p.fxOnly));
   const coming = soon.length
     ? `<section class="card"><b style="font:600 17px var(--display)">Coming up</b><div class="col" style="gap:6px">${soon
         .map(
           ([d, p]) =>
             `<div class="sm"><b>${d === today ? "Today" : esc(fmt(d))}</b> · ${p.mins} min · ${
-              p.topics?.length ? p.topics.map((t) => esc(chT(unitByK(t.k)) || t.k)).join(", ") : esc(p.sub || p.title)
+              p.topics?.length
+                ? p.topics
+                    .map(
+                      (t) =>
+                        `<button class="link sm" data-act="chapter" data-k="${t.k}">${esc(chT(unitByK(t.k)) || t.k)}</button>`,
+                    )
+                    .join(", ")
+                : esc(p.sub || p.title)
             }</div>`,
         )
         .join("")}</div></section>`
@@ -8153,7 +8172,7 @@ function lessonExtras(u) {
   }
   const shelf = shelfFor(u);
   if (!pick.length && !shelf.length) return "";
-  return `<div class="extras">${shelf.length ? `<div class="sm"><b style="font-family:var(--display)">From your shelf:</b> ${shelf.map((i) => esc(i.name)).join(" · ")}</div>` : ""}${pick.length ? `<div class="sm"><b style="font-family:var(--display)">Good extras for this chapter</b></div>${pick.map((r) => `<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><span class="xs muted">${RTYPE[r.type]} · ${esc(r.source)} ↗</span><b>${esc(r.title)}</b></a>`).join("")}<button class="link xs" data-act="chapter" data-k="${u.k}" data-t="res" style="justify-self:start">All resources for this chapter</button>` : ""}</div>`;
+  return `<div class="extras">${shelf.length ? `<div class="sm"><b style="font-family:var(--display)">From your shelf:</b> ${shelf.map((i) => esc(i.name)).join(" · ")}</div>` : ""}${pick.length ? `<h4 class="extrash">More for this chapter, from other sites</h4>${pick.map((r) => `<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><span class="xs muted">${RTYPE[r.type]} · ${esc(r.source)} ↗</span><b>${esc(r.title)}</b></a>`).join("")}<button class="link xs" data-act="chapter" data-k="${u.k}" data-t="res" style="justify-self:start">All resources for this chapter</button>` : ""}</div>`;
 }
 // what the family owns that goes with a lesson: tagged to it when sorted, or (added by hand, untagged)
 // sharing a real word with the lesson's title, like "bar magnets" and "Magnets: …"

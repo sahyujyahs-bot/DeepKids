@@ -170,7 +170,7 @@ function lessonExtras(u) {
   }
   const shelf = shelfFor(u);
   if (!pick.length && !shelf.length) return "";
-  return `<div class="extras">${shelf.length ? `<div class="sm"><b style="font-family:var(--display)">From your shelf:</b> ${shelf.map((i) => esc(i.name)).join(" · ")}</div>` : ""}${pick.length ? `<div class="sm"><b style="font-family:var(--display)">Good extras for this chapter</b></div>${pick.map((r) => `<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><span class="xs muted">${RTYPE[r.type]} · ${esc(r.source)} ↗</span><b>${esc(r.title)}</b></a>`).join("")}<button class="link xs" data-act="chapter" data-k="${u.k}" data-t="res" style="justify-self:start">All resources for this chapter</button>` : ""}</div>`;
+  return `<div class="extras">${shelf.length ? `<div class="sm"><b style="font-family:var(--display)">From your shelf:</b> ${shelf.map((i) => esc(i.name)).join(" · ")}</div>` : ""}${pick.length ? `<h4 class="extrash">More for this chapter, from other sites</h4>${pick.map((r) => `<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><span class="xs muted">${RTYPE[r.type]} · ${esc(r.source)} ↗</span><b>${esc(r.title)}</b></a>`).join("")}<button class="link xs" data-act="chapter" data-k="${u.k}" data-t="res" style="justify-self:start">All resources for this chapter</button>` : ""}</div>`;
 }
 // what the family owns that goes with a lesson: tagged to it when sorted, or (added by hand, untagged)
 // sharing a real word with the lesson's title, like "bar magnets" and "Magnets: …"

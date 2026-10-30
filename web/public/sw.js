@@ -1,7 +1,7 @@
 /* DeepKids service worker
    1. /_blob/<id> serves a photo or file from the family's private Supabase storage, adding their sign-in token.
    2. The app shell is cached so DeepKids opens on a weak connection (network first, cache as fallback). */
-const SHELL="dk-shell-280819f4bd07d03342";
+const SHELL="dk-shell-d6df0944db07d03342";
 let AUTH={token:"",base:"",key:""};
 self.addEventListener("install",e=>{self.skipWaiting();e.waitUntil(caches.open(SHELL).then(c=>c.addAll(["/","/index.html","/config.js","/platform.js","/vendor/supabase-2.118.0.js","/manifest.webmanifest"]).catch(()=>{})))});
 self.addEventListener("activate",e=>{e.waitUntil((async()=>{for(const k of await caches.keys())if(k.startsWith("dk-shell-")&&k!==SHELL)await caches.delete(k);await self.clients.claim()})())});
