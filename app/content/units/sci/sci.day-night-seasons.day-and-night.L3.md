@@ -1,7 +1,7 @@
 # Day and night: how the spinning Earth makes them
 `sci.day-night-seasons.day-and-night.L3`
 
-**Summary.** The Sun never stops shining. When it is night here, our side of the Earth has simply turned away from it. The Earth is a huge ball that spins once in about 24 hours. Half of it always faces the Sun and has day. The other half has night. The spin carries every place into the light and out again. That is why the Sun seems to rise in the east and set in the west. We cannot feel the spin, but a swinging pendulum, the stars turning round the Pole Star and photos from space all show it. The spin is very slowly getting slower. Scientists are still working out the details of how the Earth first got its spin.
+**Summary.** The Sun never stops shining. When it is night here, our side of the Earth has simply turned away from it. The Earth is a huge ball that spins once in about 24 hours. Half of it always faces the Sun and has day. The other half has night. The spin carries every place into the light and out again. That is why the Sun seems to rise in the east and set in the west. We notice no spin, but a swinging pendulum, the stars turning round the Pole Star and photos from space all show it. The spin is very slowly getting slower. Scientists are still working out the details of how the Earth first got its spin.
 
 **Intro.** *Right now, as you read this, you are moving faster than an aeroplane. You are not in a car or a train. You are sitting still. So how can that be?* In most of India, the ground under your feet is moving at about 1,500 kilometres an hour. A passenger jet flies at about 900. Your house, the trees, the air and you all move together, so you feel nothing. In the afternoon here, it is night for children in America, and their Sun has not gone anywhere. Their side of the Earth is facing away from it. So why can't we feel the Earth spin, and how does the spin give us day and night?
 
@@ -67,8 +67,8 @@ Sit in a train as it pulls out of the station. The platform seems to slide backw
 Aryabhata lived in Kusumapura, near today's Patna. When he was 23 years old, he finished a book called the Aryabhatiya. In it he gave an example. A man in a boat moving forward sees the trees on the bank moving backwards. In the same way, he said, the still stars seem to move west. So the Earth must be turning. Most astronomers of his time disagreed. Later Indian astronomers, including Brahmagupta, argued against him. Aryabhata had no way to prove it. About a thousand years later, Copernicus in Poland also wrote that the Earth spins, in 1543. Today we know Aryabhata was right.
 - e.g. From a boat on the Ganga, the ghats seem to glide past, though the boat is the thing that moves.
 - e.g. Greek thinkers also had this idea. Heraclides of Pontus said the Earth turns, about 2,300 years ago.
-### Why we do not feel the Earth spin · *defined*
-**Definition:** We do not feel the spin because it is smooth and steady, and everything around us moves with us.
+### Why the Earth's spin goes unnoticed · *defined*
+**Definition:** The spin is smooth and steady, and everything around us moves with us, so we notice nothing.
 
 You only feel movement when it changes: a speed-up, a slow-down, a bump or a sharp turn. In a smooth train, with your eyes shut, you can hardly tell that you are moving. The Earth's spin is smoother than any train. It never brakes and never bumps. The ground, the air, the birds and you all move together. So when you jump, you land in the same place. The ground does not slide away under you, because you were already moving with it. Galileo, an Italian scientist, explained this in 1632. He said a stone dropped from the top of a ship's mast lands at the foot of the mast, even while the ship sails.
 - e.g. Toss a ball straight up in a smoothly moving train. It falls back into your hand.
@@ -152,7 +152,7 @@ In 1925, a young astronomer, Cecilia Payne, showed that the Sun and the stars ar
 ## Mostly agreed
 - Day and night happen because the Earth spins. At any moment, half of the Earth faces the Sun and has day. *How we know:* Photos from satellites show the Earth half lit and half dark, with the day-night line moving across it. A ball and a torch show the same thing at home.
 - The Earth spins once in about 24 hours, from west to east. *How we know:* Every place on Earth gets one sunrise and one sunset in about 24 hours, except near the poles. The Sun, Moon and stars all seem to move from east to west.
-- The Sun's movement across our sky is only apparent. The Sun is not going round the Earth each day. *How we know:* Foucault's pendulum, first shown in Paris in 1851, turns its swing as the floor turns. Stars trace circles around the Pole Star. Spacecraft have filmed the Earth turning.
+- The Sun's movement across our sky is only apparent. The Sun is not going round the Earth each day. *How we know:* Foucault's pendulum, first shown in Paris in 1851, keeps its swing while the floor turns under it, so the swing seems to turn round the room. Stars trace circles around the Pole Star. Spacecraft have filmed the Earth turning.
 - Places further east see the Sun rise earlier. *How we know:* Sunrise times printed in newspapers show it. In June, the Sun rises in Dong, in Arunachal Pradesh, about two hours before it rises in Bhuj, in Kutch.
 - The Earth's spin is very slowly slowing down, so days are getting longer. *How we know:* Records of ancient eclipses, daily growth lines in fossil corals and shells, and laser measurements of the Moon all agree. A day gets about 2 thousandths of a second longer every 100 years.
 
@@ -163,7 +163,7 @@ In 1925, a young astronomer, Cecilia Payne, showed that the Sun and the stars ar
 ## Challenging perspectives
 - **The Earth stands still at the centre, and the Sun goes round it every day.** (Most people in most places for thousands of years, and Ptolemy, a Greek astronomer in Egypt, about 1,900 years ago; *rejected*)  
   For: It is exactly what we see. The ground feels still. The Sun really does seem to travel across the sky.  
-  Against: Seeming to move is not the same as moving. A Foucault pendulum's swing turns as the Earth turns under it. Stars wheel around the Pole Star. Photos from space show the Earth spinning. The Sun stays put, and we turn.
+  Against: Seeming to move is not the same as moving. A Foucault pendulum keeps swinging the same way while the Earth turns under it, so its swing seems to turn round the room. Stars wheel around the Pole Star. Photos from space show the Earth spinning. The Sun stays put, and we turn.
 - **If the Earth were spinning, birds and clouds would be left behind, and we would be thrown off.** (Ptolemy, in his book the Almagest, and many people since; *rejected*)  
   For: The ground would be moving very fast. Fast spinning things, like a merry-go-round, can throw you off.  
   Against: The air, the birds and the clouds all move along with the Earth, just as the air inside a train moves with the train. The Earth spins once a day, which is very gentle compared with a merry-go-round. Gravity holds us on far more strongly than the spin could throw us off.
@@ -199,13 +199,13 @@ Day and night look like two opposite things. But they are made by one Sun shinin
 - Science (settled): The Earth spins once in about 24 hours, and the Sun's daily movement across the sky is only apparent. This is shown by Foucault pendulums, star trails and photos from space.
 - Science (idea): The Sun and the planets formed from one slowly swirling cloud of gas and dust, about 4.6 billion years ago. Most of the planets' spin comes from that cloud's turning, though giant crashes changed some of it.
 - Other view, Most physicists: Day and night are fully explained by physics: leftover spin from the cloud the Earth formed from, light travelling in straight lines, and a ball blocking it. They see no need for any deeper oneness behind it. That is an honest view, and it is how science works.
-- Practice, Feel the ground turn (3 min): Let's go to a window or terrace at sunset, or stand facing a lamp. Stand still, facing the light, but don't look straight at the Sun. Look at the glow on the buildings or the sky beside it. Don't think of the Sun going down. Imagine the ground under your feet slowly tipping you backwards, away from it. Breathe in slowly. Breathe out slowly. The whole Earth is turning with you. Stay quiet for a moment. Who else is turning with us right now?
+- Practice, Feel the ground turn (3 min): Let's go to a window or terrace at sunset, or stand facing a lamp. Stand still, facing the light, but don't look straight at the Sun. Look at the glow on the buildings or the sky beside it. Try not to picture the Sun going down. Imagine the ground under your feet slowly tipping you backwards, away from it. Breathe in slowly. Breathe out slowly. The whole Earth is turning with you. Stay quiet for a moment. Who else is turning with us right now?
 - Ask: At night, the ground under you is between you and the Sun. Is night something that comes to us, or somewhere we go?
 - Ask: When it is night for you, is it night for the Earth?
 - Ask: The Sun moves too, round the middle of our galaxy. Is anything in the universe really still?
 
 ## Deep and big questions
-- *big:* You are moving at nearly 1,500 kilometres an hour right now, and you cannot feel it. What else might be true that you cannot feel? (hint: Think of the air pressing on you, the blood moving in you, and the light from stars arriving in your eyes.)
+- *big:* You are moving at nearly 1,500 kilometres an hour right now, and you notice nothing. What else might be true that you do not notice? (hint: Think of the air pressing on you, the blood moving in you, and the light from stars arriving in your eyes.)
 - *big:* Somewhere on the Earth, it is always sunrise. Is there ever a moment when the whole world is asleep? (hint: Spin a ball under a torch slowly. Is there ever a moment with no place on the day-night line?)
 - *deep:* If you lived on the Moon, where one day lasts about a month, how would you know when to sleep? (hint: Think about body clocks, and the astronauts who see 16 sunrises a day.)
 - *big:* We still say 'the Sun rises', though we know the Earth turns. Are there other things we say that are not really true? (hint: Think of 'the Moon follows our car', or 'a shooting star'. What is really happening?)
@@ -242,7 +242,7 @@ I did not eat my rice that day. Mili noticed. In the evening, she carried me up 
 
 'Is it dark there yet?' Mili asked.
 
-'Dark?' said Grandmother. 'Child, the Sun set here an hour and a half ago. The stars are out. I am about to go to bed.' She turned her phone to show us. Her screen was black, with a few small stars. Mili looked at Grandmother's dark screen. Then she looked at our Sun, still sitting there, orange, over Kutch.
+'Dark?' said Grandmother. 'Child, the Sun set here nearly two hours ago. The stars are out. I am about to go to bed.' She turned her phone to show us. Her screen was black, with a few small stars. Mili looked at Grandmother's dark screen. Then she looked at our Sun, still sitting there, orange, over Kutch.
 
 Mili ran downstairs. She came back with a mausambi from the kitchen, a pen and her father's torch. On one side of the mausambi she drew a dot and wrote 'Dong'. A little way round, she drew another dot and wrote 'Bhuj'. She pushed a pencil through the fruit, from top to bottom, and shone the torch at it. 'Look, Raja,' she said. 'This is the Earth. The torch is the Sun.'
 
@@ -256,7 +256,7 @@ That night, I thought about the line of light. It swept across India every morni
 
 The next day, I woke at my Dong time. I waited in the dark, quietly, for about two hours. When the first grey came, I climbed onto the wall and crowed, softly at first, then loud. Not to call the Sun. Just to tell Bhuj that it had turned round into the morning once again.
 
-**For the parent:** For the parent: the rooster thinks the Sun comes to him. The turn comes when the Sun rises without his crow, and Grandmother's sky in Dong is dark while Bhuj still has sunset. The mausambi on a pencil shows why. The Earth turns from west to east, so Dong turns into the sunlight about two hours before Bhuj. Nothing rises. The ground turns. The rooster's crow was not wrong, only still on Dong time, the way our body clocks keep home time after a long journey. The story also gently asks what happens when we think we are the centre that everything moves around.
+**For the parent:** For the parent: the rooster thinks the Sun comes to him. The turn comes when the Sun rises without his crow, and Grandmother's sky in Dong is dark while Bhuj still has sunset. The mausambi on a pencil shows why. The Earth turns from west to east, so Dong turns into the sunlight about two hours before Bhuj. Nothing rises. The ground turns. The rooster's crow was not wrong, only still on Dong time, the way our body clocks keep home time after a long journey.
 
 - Ask: Why did Raja think he made the Sun rise?
 - Ask: On the train, why did the dark after Raja's crow last a little longer every morning?
@@ -266,12 +266,12 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 
 ## Games
 ### g1 · Who Sees the Sun First? (20 min)
-- **rules:** Cut out the cards. Lay the sunrise line strip on the floor. Have a ball and a torch ready.; Shuffle the place cards and deal 3 to each player. Put the rest face down in a pile.; On your turn, put one of your place cards on the sunrise line. It must be in the right order, east first. Then take a new card from the pile.; If someone thinks it is in the wrong place, check on a map or a globe. A right card wins one paper sun. A wrong card goes back in the pile.; If you get a SPIN CARD, read it out. Everyone answers it together using the ball and the torch. The first right answer wins two suns.; When the pile runs out, the player with the most suns wins.
-- **Printable cards: 20 cards to cut out: 15 place cards, each with a small map dot, and 5 SPIN CARDS:** Dong, Arunachal Pradesh (far east of India); Guwahati, Assam; Kolkata, West Bengal; Bhubaneswar, Odisha; Chennai, Tamil Nadu; Delhi; Mumbai, Maharashtra; Bhuj, Kutch, Gujarat (far west of India); Tokyo, Japan (east of India); Singapore (east of India); Dhaka, Bangladesh (just east of India); Dubai, United Arab Emirates (west of India); Nairobi, Kenya (west of India); London, England (far west of India); New York, USA (even further west); SPIN CARD: spin the ball one quarter turn. Which places are now in the light?; SPIN CARD: it is noon in Chennai. Name one place on the cards where it is night.; SPIN CARD: it is sunset in Chennai. Is it still day in Mumbai?; SPIN CARD: a rooster in Dong crows at sunrise. Who crows next, Kolkata or Mumbai?; SPIN CARD: it is midnight in India. Is anyone having sunrise?
+- **rules:** Cut out the cards and the strip. Lay the sunrise line strip on the floor, with the 'first' end towards the east if you know which way it is. Have a ball and a torch ready.; Shuffle the 15 place cards and deal 3 to each player. Put the rest face down in a pile. Keep the 5 SPIN CARDS in their own face-down pile.; On your turn, put one place card on the strip, in the right order, east first. Say why it goes there. Then take a new card from the pile, if there is one. When the pile is empty, keep playing the cards in your hand.; Anyone who doubts a card can say so. Check it on a map or a globe. A right card wins its player one paper sun. A wrong card is put aside, and the player who doubted it wins the sun. A card nobody doubts also wins its player a sun.; After every third card is placed, turn over the top SPIN CARD and read it out. Everyone answers it together using the ball and the torch. The first right answer wins one sun.; The game ends when every place card has been placed or put aside. The player with the most suns wins. If two players have the same number, they win together.
+- **Printable cards: 20 cards to cut out: 15 place cards and 5 SPIN CARDS:** Dong, Arunachal Pradesh (far east of India); Guwahati, Assam; Kolkata, West Bengal; Bhubaneswar, Odisha; Chennai, Tamil Nadu; Delhi; Mumbai, Maharashtra; Bhuj, Kutch, Gujarat (far west of India); Tokyo, Japan (east of India); Singapore (east of India); Dhaka, Bangladesh (just east of India); Dubai, United Arab Emirates (west of India); Nairobi, Kenya (west of India); London, England (far west of India); New York, USA (even further west); SPIN CARD: spin the ball one quarter turn. Which places are now in the light?; SPIN CARD: it is noon in Chennai. Name one place on the cards where it is night.; SPIN CARD: it is sunset in Chennai. Is it still day in Mumbai?; SPIN CARD: a rooster in Dong crows at sunrise. Who crows next, Kolkata or Mumbai?; SPIN CARD: it is midnight in India. Is anyone having sunrise?
 - **Printable board: A sunrise line strip:** Sees the Sun first (east); Sees the Sun later (west)
-- **Printable tokens: 20 small paper suns:** ☀️
+- **Printable tokens: 20 small paper suns:** ☀️; ☀️; ☀️; ☀️; ☀️; ☀️; ☀️; ☀️; ☀️; ☀️; ☀️; ☀️; ☀️; ☀️; ☀️; ☀️; ☀️; ☀️; ☀️; ☀️
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay the sunrise line strip on the floor. If you know which way is east, put the 'first' end on that side. 2. Shuffle the place cards. Deal 3 to each player. 3. Put a ball and a torch nearby.  
+  *Parent does:* 1. Lay the sunrise line strip on the floor. If you know which way is east, put the 'first' end on that side. 2. Shuffle the 15 place cards. Deal 3 to each player and put the rest in a pile. 3. Keep the SPIN CARDS in a separate pile. 4. Put a ball and a torch nearby.  
   *Parent says:* The Earth spins from west to east. So places in the east turn into the sunlight first. Let's put places in the order they see sunrise.  
   *Child mode:* Lay out the sunrise line. Deal 3 cards each. Places in the east see the Sun first. Let's put them in order.
 - **s2 (3 min)**  
@@ -280,12 +280,12 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Child mode:* Practice round. Dong is in the far east of India. Bhuj is in the far west. Who sees the Sun first?
   - Check: Who sees the sunrise first, Dong in the east or Bhuj in the west? → **Dong, in the east**
 - **s3 (9 min)**  
-  *Parent does:* 1. Take turns placing cards on the line. 2. Check any argued card on a map or globe. 3. Give one paper sun for each right card.  
+  *Parent does:* 1. Take turns placing cards on the line. 2. Check any doubted card on a map or globe. 3. Give one paper sun to the player of each right card. 4. After every third card, turn over a SPIN CARD.  
   *Parent says:* Put your card down and tell us why it goes there. Is it east or west of its neighbour?  
   *Child mode:* Your turn. Put a card on the line. Say why it goes there. Is it more east, or more west?
   - Note: A rough order from east to west is this. Tokyo, Singapore, Dong, Guwahati, Dhaka, Kolkata, Bhubaneswar, Chennai, Delhi, Mumbai, Bhuj, Dubai, Nairobi, London, New York. Singapore and Tokyo are east of India, so they see the Sun before us. How far north or south a place is also changes sunrise a little. In June, Dong sees the Sun even before Singapore, because Dong is further north. So close calls are fine. Focus on east and west. The noon Sun follows the east-to-west order exactly.
 - **s4 (3 min)**  
-  *Parent does:* When someone draws a SPIN CARD, stop. Use the ball and the torch to find the answer together.  
+  *Parent does:* When a SPIN CARD is turned over, stop. Use the ball and the torch to find the answer together.  
   *Parent says:* Let's check it on our Earth ball. Shine the torch from one side, and turn the ball slowly from west to east.  
   *Child mode:* A SPIN CARD! Guess first. Then turn the ball under the torch to check.
   - Ask: It is midnight in India. Is anyone having sunrise? (good: Yes. Places about a quarter of the way round the world to the east, like islands in the Pacific Ocean, are just turning into the light.; Yes. Somewhere is always on the day-night line.)
@@ -296,19 +296,19 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Child mode:* Count your suns. Who won? Now read the line from east to west. That is how the morning travels.
   - Think: When New York has its sunrise, what time of day is it for you?
 ### g2 · Turn, Earth, Turn! (15 min)
-- **rules:** One player holds the yellow SUN sign and stands still at one side. The Sun never moves.; Everyone else holds hands in a small ring in the middle, facing outwards. The ring is the Earth.; The ring walks slowly round, anticlockwise when seen from above, one step at a time.; When the Sun calls 'Freeze!', everyone stops. Players facing the Sun take a DAY card and act it. Players facing away take a NIGHT card and act it. A player at the side who is turning towards the Sun says 'Sunrise!'. One turning away says 'Sunset!'.; Then swap so a new player is the Sun. Keep a count of the turns on the spin counter.
+- **rules:** One player holds the yellow SUN sign and stands still at one side. The Sun never moves.; Everyone else stands in a small ring in the middle, holding hands and facing outwards. The ring is the Earth. With only two players, the Earth is one person standing on the spot.; The Earth turns on the spot, anticlockwise when seen from above. The ring shuffles slowly sideways, or the single player turns in small steps. The ring does not walk anywhere.; When the Sun calls 'Freeze!', everyone stops. Players facing the Sun take a DAY card and act it. Players facing away take a NIGHT card and act it. A player who has just turned to face the Sun says 'Sunrise!'. A player who has just turned away says 'Sunset!'.; Then swap, so a new player is the Sun, and add one to the turns made on the spin counter. If a pile of cards runs out, shuffle the used cards back in. Play until everyone has been the Sun once.
 - **Printable cards: 16 action cards:** DAY: a farmer ploughing a field; DAY: a sunbird sipping from a flower; DAY: children playing cricket; DAY: a lotus flower opening in the morning; DAY: a vendor selling vegetables; DAY: a butterfly visiting flowers; DAY: a squirrel running along a wall; DAY: drying clothes on a line; NIGHT: an owl hunting; NIGHT: a bat catching moths; NIGHT: a baker making bread for morning; NIGHT: a nurse looking after patients; NIGHT: a gecko catching insects by a lamp; NIGHT: a firefly flashing; NIGHT: a family sleeping; NIGHT: an astronomer looking through a telescope
 - **Printable board: A big yellow Sun sign to hold:** SUN
 - **Printable score sheet: Spin counter:** Number of turns made; Sunrises seen; Sunsets seen
 - **s1 (2 min)**  
-  *Parent does:* 1. Choose one player to be the Sun. Give them the yellow sign. 2. The others hold hands in a ring, facing outwards. 3. Shuffle the DAY and NIGHT cards into two piles.  
+  *Parent does:* 1. Choose one player to be the Sun. Give them the yellow sign. 2. The others hold hands in a ring, facing outwards. 3. Sort the cards into a DAY pile and a NIGHT pile, and shuffle each.  
   *Parent says:* The Sun stands still. We are the Earth. We will turn slowly, and see who gets day and who gets night.  
   *Child mode:* One person is the Sun, and stands still. Everyone else makes a ring, facing out. You are the Earth!
 - **s2 (8 min)**  
-  *Parent does:* 1. The ring turns slowly. 2. The Sun calls 'Freeze!' every few steps. 3. Players facing the Sun act a DAY card. Players facing away act a NIGHT card. 4. Players at the edges call 'Sunrise!' or 'Sunset!'.  
+  *Parent does:* 1. The ring turns slowly on the spot. 2. The Sun calls 'Freeze!' every few steps. 3. Players facing the Sun act a DAY card. Players facing away act a NIGHT card. 4. Players who have just turned towards the Sun call 'Sunrise!', and those who have just turned away call 'Sunset!'.  
   *Parent says:* Turn slowly. Freeze! Who can see the Sun? You have day. Who has their back to it? You have night.  
   *Child mode:* Turn slowly. When the Sun says freeze, stop. Can you see the Sun? Act a day card. Can't see it? Act a night card.
-  - Note: Turn anticlockwise, seen from above. A child on the edge who is just turning towards the Sun is at sunrise. One just turning away is at sunset. Notice that the Sun player never moves. Every change comes from the turning ring.
+  - Note: Turn anticlockwise, seen from above. The Sun player never moves. Every change comes from the turning ring.
   - Check: In the game, why did some players have night? → **Their backs were turned to the Sun**
 - **s3 (3 min)**  
   *Parent does:* Let the ring turn once all the way round. Count how many 'Sunrise!' calls each player makes.  
@@ -326,7 +326,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **question:** Can a torch that stays still, and a ball that turns, make day and night? And which place sees the sunrise first?
 - **predict:** Before you start, guess. Put three stickers on the ball for Dong, your home and Bhuj. Which sticker will come into the light first when you turn the ball, Dong in the east or Bhuj in the west? Why do you think so?
 - **fair test:** To make it fair, keep the torch still in one place the whole time. Only the ball moves. Turn it the same slow way each time, from west to east. Try it 3 times, because one try can be a mistake.
-- **safety:** A grown-up pushes the pencil or needle through the fruit. Do not shine the torch into anyone's eyes.
+- **safety:** A grown-up pushes the pencil or needle through the fruit.
 - **record:** Fill in the table for 3 tries. Then draw the ball and the torch, and shade the night half.
 - **results table:** Try | First sticker into the light | Second sticker | Last sticker | How much of the ball was lit (about half? more? less?)
 - **s1 (3 min)**  
@@ -335,10 +335,10 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Child mode:* Where does the Sun go at night? Say your idea. Write it down. We will test it.
   - Note: All answers are welcome. Many children say the Sun goes behind the hills, into the sea, or to sleep. Keep their answer. They will check it themselves at the end.
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* 1. Push the pencil through the fruit, from top to bottom. 2. Tell your child the top is the North Pole. 3. Stick three dots in a row a little above the middle, about two finger-widths apart. As you look at it, put Dong on the right, home in the middle and Bhuj on the left.  
+  *Parent does:* 1. Push the pencil through the fruit, from top to bottom. 2. Tell your child the top is the North Pole. 3. Stick three dots in a row a little above the middle, about one finger-width apart. As you look at it, put Dong on the right, home in the middle and Bhuj on the left.  
   *Parent says:* This ball is the Earth. The pencil is its axis, the line it spins around. The top is the North Pole. These dots are three places in India.  
   *Child mode:* This ball is the Earth. The pencil is its axis. The top is the North Pole. Stick on three dots for three places.
-  - Note: Seen from the front, with the North Pole on top, east is to the right on the ball. So Dong goes to the right of Bhuj, with your home in between. India is north of the equator, so the dots go a little above the middle. The real places are closer together than this, but spacing them out makes the order easy to see.
+  - Note: Seen from the front, with the North Pole on top, east is to the right on the ball. So Dong goes to the right of Bhuj, with your home in between. India is north of the equator, so the dots go a little above the middle. The real places are much further apart than this, but a ball this small needs the dots close together.
 - **s3 (4 min)**  
   *Parent does:* 1. Make the room dark. 2. Put the torch on a pile of books, shining at the ball. 3. Hold the ball still by its pencil, about an arm's length from the torch. 4. Sit beside the ball so the torch shines on it from your right side.  
   *Parent says:* The torch is the Sun. Look at the ball. How much of it is lit up?  
@@ -346,14 +346,14 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   - Ask: How much of the ball is lit? (good: About half.; The side facing the torch is bright, and the back is dark.)
   - Check: The torch shines at the ball. How much of the ball is lit? → **About half, the side facing the torch**
 - **s4 (6 min)**  
-  *Parent does:* 1. Turn the ball slowly by its pencil, so the front moves from left to right. That is west to east. 2. Stop each time a dot crosses into the light. 3. Write it in the table. 4. Do it 3 times.  
+  *Parent does:* 1. Before each try, put all three dots in the dark, on the left, with Dong nearest the light. 2. Turn the ball slowly by its pencil, so the front moves from left to right. That is west to east. 3. Stop when each dot crosses into the light, and write it in the table. 4. Do it 3 times.  
   *Parent says:* Now the Earth spins. Turn it slowly, west to east. Which dot comes into the sunlight first?  
-  *Child mode:* Turn the ball slowly by the pencil. Which dot comes into the light first? Write it down. Do it 3 times.
+  *Child mode:* Start with all three dots in the dark. Turn the ball slowly by the pencil. Which dot comes into the light first? Write it down. Do it 3 times.
   - Note: Dong should come into the light first, then home, then Bhuj. If it goes the other way, the ball is turning the wrong way. Check that the torch is on your right, and turn the ball so the side facing you moves from left to right.
 - **s5 (3 min)**  
-  *Parent does:* Turn the ball until Dong is just going into the dark, while Bhuj is still in the light.  
+  *Parent does:* Keep turning until Dong has gone round the back of the ball into the dark, while Bhuj is still in the light. Lean over to look round the back.  
   *Parent says:* Look. Here it is already night in Dong, but still evening in Bhuj. Did the torch move at all?  
-  *Child mode:* Turn until Dong is in the dark. Is Bhuj still in the light? Did the torch move?
+  *Child mode:* Keep turning. Look round the back of the ball. Is Dong in the dark while Bhuj is still in the light? Did the torch move?
   - Check: In the experiment, what made the dots go from day into night? → **The ball turning**
   - Think: Right now, is somebody on the real Earth just going into the night?
 - **s6 (4 min)**  
@@ -368,33 +368,33 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **safety:** Never look straight at the Sun, not even for a moment. Look only at the shadow. Wear a cap in the midday sun, and drink water.
 - **record:** Fill in the table. Draw a line from the stick to each mark. Then draw a line chart of shadow length against clock time.
 - **results table:** Clock time | Length of the shadow (cm) | Which way it points
-- **s1 (4 min) · grown-up needed**  
+- **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. In the morning, find the spot that gets the most sun: a balcony, a terrace or a sunny window sill. 2. Stand the stick straight up in the pot. 3. Put the paper under it, and weigh the corners down with books or steel tumblers.  
   *Parent says:* This stick will be our clock. Do you think its shadow will stay the same all day?  
   *Child mode:* Stand the stick straight up in a sunny spot. Put the paper under it. Will its shadow stay the same all day?
   - Note: Never let anyone look at the Sun itself. Shadows tell us everything we need. If no spot in your home gets sun all day, mark only the hours it does. Even three marks an hour apart show the shadow moving.
-- **s2 (14 min)**  
+- **s2 (16 min)**  
   *Parent does:* 1. Every hour, mark the tip of the shadow with a cross. 2. Write the clock time next to it. 3. Measure the shadow from the stick to the cross, and write it in the table.  
   *Parent says:* It's on the hour. Let's mark the tip of the shadow, and measure it.  
   *Child mode:* Every hour, mark the tip of the shadow. Write the time. Measure it with the ruler. Write it in the table.
   - Note: Set an alarm on a phone for each hour. About 2 minutes each time is enough. If clouds come, skip that hour and carry on.
   - Wait: Come back every hour until about 4 in the afternoon.
-- **s3 (5 min)**  
+- **s3 (4 min)**  
   *Parent does:* Look at all the marks together.  
   *Parent says:* Look at all the crosses. When was the shadow longest? When was it shortest? Which way did it move?  
   *Child mode:* Look at all your crosses. When was the shadow longest? When was it shortest? Which way did it swing?
   - Ask: Why was the shadow short around noon? (good: Because the Sun was high in the sky.; Because the light came from above, so the stick blocked only a little.)
   - Check: In the shadow stick experiment, when was the shadow shortest? → **Around noon**
 - **s4 (3 min)**  
-  *Parent does:* Ask: is the Sun moving, or are we? Take the ball and torch from the torch and ball experiment. Push a tiny matchstick into the ball as a stick.  
+  *Parent does:* Ask: is the Sun moving, or are we? Take the ball and torch from the torch and ball experiment. Push a toothpick into the ball as a tiny stick.  
   *Parent says:* The shadow moved because the Sun seemed to move across the sky. But remember the ball and the torch. Let's put a tiny stick on our ball and turn it.  
-  *Child mode:* Push a tiny stick into your Earth ball. Shine the torch. Turn the ball. Watch the tiny shadow move!
+  *Child mode:* Push a toothpick into your Earth ball. Shine the torch. Turn the ball. Watch the tiny shadow move!
   - Think: If the torch stays still and the ball turns, does the little shadow still move?
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write: what I think, what I saw, and why.  
   *Parent says:* Now tell me three things. What do you think made the shadow move? What did you see? Why did it happen?  
   *Child mode:* Now say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the shadow moves because the Earth turns, so the Sun seems to cross the sky. What I saw: the shadow was 40 cm at 9, only 8 cm at 1, then long again by 4. It swung from one side to the other. Why: when the Sun is low, the stick blocks a long strip of light.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the shadow moves because the Earth turns, so the Sun seems to cross the sky. What I saw: the shadow was longest in the morning, shortest around noon, and long again by 4. It swung from one side to the other. Why: when the Sun is low, the stick blocks a long strip of light.
 ### e3 · Foucault's Pendulum on a Stool (20 min)
 - **question:** If the floor turns under a swinging pendulum, does the swing turn with it?
 - **predict:** Before you start, guess. When we turn the stool, will the pendulum's swing turn with it, or stay the same? Why do you think so?
@@ -410,13 +410,13 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Parent does:* 1. Pull the weight to one end of the chalk line, and let it go gently, without pushing it sideways. 2. When it swings neatly along the line, turn the stool very slowly a quarter turn. 3. Do it 3 times.  
   *Parent says:* Now I'll turn the stool very slowly. Watch the swing. Does it turn with the stool?  
   *Child mode:* Let the weight swing along the line. Now turn the stool very slowly. Watch the swing closely.
+  - Note: The swing may drift a little on its own, because the string twists. A quarter turn of the stool is far bigger than that drift, so you can still see the difference.
   - Check: When the stool turned, what did the pendulum's swing do? → **It kept swinging the same way, and the line turned under it**
 - **s3 (5 min)**  
   *Parent does:* Tell your child about Foucault's real pendulum in Paris.  
   *Parent says:* In 1851, Léon Foucault hung a heavy ball on a 67-metre wire in a great hall in Paris. Nobody turned the floor. But over the hours, the swing seemed to turn round the room. What was turning?  
   *Child mode:* In 1851, Foucault hung a giant pendulum in Paris. Nobody turned the floor. But the swing seemed to turn. What was really turning?
   - Ask: In Paris, what was really turning? (good: The floor, because the whole Earth was turning.; The Earth turned under the pendulum, like our stool.)
-  - Note: In Paris the swing goes all the way round in about 32 hours. In Delhi, it takes about 50 hours. India's new Parliament building has one, opened in 2023.
 - **s4 (4 min)**  
   *Parent does:* Ask your child to say or write: what I think, what I saw, and why.  
   *Parent says:* Now tell me three things. What do you think the pendulum does when the floor turns? What did you see? Why?  
@@ -425,7 +425,6 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 
 ## Activities
 ### a1 · Be the Earth (10 min)
-- **safety:** Turn slowly so nobody gets dizzy. Clear away anything you could bump into.
 - **record:** Draw yourself as the Earth, with your face in the light and your back in the dark.
 - **s1 (2 min)**  
   *Parent does:* 1. Stand still in the middle of the room. You are the Sun. 2. Your child stands facing you, a few steps away.  
@@ -443,7 +442,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   - Note: Go slowly. Spinning makes day and night. Travelling round the Sun takes a year. This helps your child feel the difference.
   - Think: Which takes longer, one spin or one trip round the Sun?
 ### a2 · The Train Window Trick (10 min)
-- **safety:** Spin slowly and stop if you feel dizzy. Never lean out of a moving vehicle.
+- **safety:** Never lean out of a moving vehicle.
 - **record:** Draw what you saw from the chair or the window, with arrows for which way things seemed to move.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Your child sits on a swivel chair, looking straight ahead. 2. Turn the chair very slowly to the left.  
@@ -462,7 +461,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 ### a3 · Sunrise and Sunset Diary (20 min, 7 days)
 - **safety:** Never look straight at the Sun. Look at the sky near it, or at the light on buildings.
 - **record:** A table with the date, sunrise time, sunset time and hours of daylight, for 7 days.
-- **schedule:** day 1: Set up the diary. Write today's sunrise and sunset times. (5 min); day 2: Write today's times. (2 min); day 3: Write today's times. Watch one sunset from a window, if you can. (5 min); day 4: Write today's times. (2 min); day 5: Write today's times. (2 min); day 6: Write today's times. Look up the times for one city far to the east and one far to the west. (2 min); day 7: Write today's times. Work out how many hours of daylight you had, and compare. (2 min)
+- **schedule:** day 1: Set up the diary. Write today's sunrise and sunset times. (5 min); day 2: Write today's times. (2 min); day 3: Write today's times. Watch one sunset from a window, if you can. (3 min); day 4: Write today's times. (2 min); day 5: Write today's times. (2 min); day 6: Write today's times. (1 min); day 7: Write today's times. Work out how many hours of daylight you had. Look up the times for one city far to the east and one far to the west, and compare. (5 min)
 - **s1 (5 min)**  
   *Parent does:* Help your child draw a table with 4 columns: date, sunrise, sunset, hours of light. Find today's times.  
   *Parent says:* Every day this week, we'll write down when the Sun rises and sets here. Let's see if the times change.  
@@ -477,9 +476,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Parent does:* On day 7, work out the hours of daylight. Then look up today's sunrise in a city far east and far west of you.  
   *Parent says:* Say sunrise was at 6 in the morning and sunset at 6 in the evening. How many hours of light is that? Now, when did the Sun rise in Guwahati and in Ahmedabad today?  
   *Child mode:* Count the hours from sunrise to sunset. Now find sunrise in a city far east, and far west. Which was first?
-  - Check: Guwahati is far east of Ahmedabad. Whose sunrise comes first? → **Guwahati**
 ### a4 · What Is Happening Around the World Right Now? (15 min)
-- **safety:** Call people only with a grown-up, and only at a sensible time for them.
 - **record:** Write 4 places, their time now, and whether it is day or night there.
 - **s1 (5 min)**  
   *Parent does:* Look up the time now in London, New York, Tokyo and Sydney.  
@@ -496,13 +493,13 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Child mode:* Shine the torch on India. Is New York in the light, or the dark?
   - Think: If you call a friend in New York at bedtime, what will they be doing?
 ### a5 · The Star Clock: stars turning round Dhruva Tara (15 min)
-- **safety:** Go out at night only with a grown-up. Stay in a safe, familiar place.
+- **safety:** Go out at night only with a grown-up.
 - **record:** One drawing with two sets of stars in two colours, and the rooftop or tree that stayed still.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. After dark, go out to a spot with a view north. 2. Find the Saptarishi, seven bright stars shaped like a big ladle. 3. Follow the two stars at the end of the ladle's cup to the Pole Star. 4. Draw them, with a rooftop or tree below. Write the time.  
   *Parent says:* Those seven stars are the Saptarishi. The two at the end point to Dhruva Tara, the Pole Star. Let's draw them, and the rooftop.  
   *Child mode:* Find the seven stars of the Saptarishi. The two end stars point to Dhruva Tara. Draw them. Draw a rooftop too.
-  - Note: The Saptarishi is easiest to see in the evening from about February to June. In other months, look for Cassiopeia, a W shape, on the other side of the Pole Star. In very southern India, the Pole Star is low, near the horizon.
+  - Note: The Saptarishi is easiest to see in the evening from about February to June. In other months, look for Cassiopeia, a W shape, on the other side of the Pole Star. In very southern India, the Pole Star is low, near the horizon. In a bright city only the brightest stars show. If you cannot find the Pole Star, draw any bright star beside a fixed rooftop edge instead, and see how it moves.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* Two hours later, stand in exactly the same spot. Draw the stars again on the same paper, in a new colour.  
   *Parent says:* Same spot, same rooftop. Have the stars moved?  
@@ -538,16 +535,16 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **safety:** Never look straight at the Sun. Wear a cap in the midday sun.
 - **record:** The sundial plate with hour marks, and a note of the clock time when the shadow was shortest.
 - **schedule:** day 1: Build the sundial. Put it in a sunny spot. Mark the shadow every hour. (25 min); day 2: Check the sundial against the clock at three times in the day. (10 min); day 3: Find the time of the shortest shadow. That is your true noon. Compare it with 12 by the clock, and with other towns. (15 min)
-- **s1 (8 min) · grown-up needed**  
+- **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Push the pencil straight up through the middle of the plate. 2. Stand it in a lump of clay. 3. Put it in a spot that will be sunny all day. 4. Mark where the plate sits, so you can put it back in the same place tomorrow.  
   *Parent says:* People told the time with shadows for thousands of years before clocks. Let's make our own Sun clock.  
   *Child mode:* Push the pencil through the plate's middle. Stand it up in clay. Put it in a sunny spot.
-- **s2 (12 min)**  
+- **s2 (15 min)**  
   *Parent does:* Every hour on the hour, draw a line along the shadow and write the clock time at its end.  
   *Parent says:* It's 10 o'clock. Let's draw along the shadow and write 10.  
   *Child mode:* Every hour, draw a line along the shadow. Write the time at the end.
   - Wait: Mark the shadow every hour for the rest of the day.
-- **s3 (5 min)**  
+- **s3 (10 min)**  
   *Parent does:* The next day, put the sundial back in the same place. Read the time from the shadow, then check the clock.  
   *Parent says:* What time does our sundial say? And the clock? Are they close?  
   *Child mode:* Put the sundial back in its spot. What time does the shadow say? Check the clock.
@@ -634,7 +631,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
    **Answer:** The side facing away from the torch. *Why:* The side facing away from the torch gets no light, like the night side of the Earth. Picking 'the whole ball' forgets that the torch always lights one half.
 9. (sort) Sort these. Does each one mostly happen in the day or at night?  
    **Answer:** an owl hunting mice → Night; a sunbird sipping nectar → Day; bats flying round a street lamp → Night; clothes drying in sunshine → Day; fireflies flashing → Night; your long shadow in the evening sunlight → Day. *Why:* Owls, bats and fireflies are nocturnal, which means active at night. Sunbirds feed in the day. Clothes dry in sunshine, and shadows from the Sun only happen in the day.
-10. (write) In a smooth train with your eyes shut, you can hardly tell you are moving. Use this to explain why we cannot feel the Earth spin.  
+10. (write) In a smooth train with your eyes shut, you can hardly tell you are moving. Use this to explain why we notice no spin.  
    **Answer:** We only feel movement when it changes, like a bump, a speed-up or a brake. A smooth train hardly changes, so it is hard to feel. The Earth's spin is smoother than any train. It never bumps or brakes, and the air and everything around us move with us. So we feel nothing.. *Why:* A strong answer says what we really feel: changes in movement, not movement itself. Feeling nothing is not evidence that nothing moves.
 11. (match) Match each word to what it means.  
    **Answer:** Sunrise → our place turns into the sunlight; Sunset → our place turns away from the sunlight; Noon → the Sun is at its highest; Axis → the line the Earth spins around. *Why:* These are the key words of the unit. Sunrise and sunset are really about our place on the turning Earth.
@@ -643,49 +640,46 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 13. (mcq) In the morning, the Sun is in the east. Which way does your shadow point?  
    Options: East, towards the Sun / West, away from the Sun / Straight down / There is no shadow in the morning  
    **Answer:** West, away from the Sun. *Why:* A shadow always falls on the side away from the light. Picking 'towards the Sun' is a common mix-up. Try it outside tomorrow morning and see.
-14. (write) Your little cousin says, 'The Sun goes to sleep at night.' What would you tell them? Use the word spin.  
+14. (write) A younger child says, 'The Sun goes to sleep at night.' What would you tell them? Use the word spin.  
    **Answer:** The Sun does not sleep. It shines all the time. Our Earth spins, so at night our side has turned away from the Sun. Children on the other side of the Earth have day then.. *Why:* A good answer says the Sun keeps shining, and that the Earth's spin turns us away from it.
 15. (draw) Draw the Sun on one side and the Earth on the other. Shade the night half of the Earth. Draw a small person on the day half.  
    **Answer:** The half of the Earth facing the Sun is left bright, with the person on it. The far half is shaded dark.. *Why:* The Sun lights the half of the Earth that faces it. The other half is night.
 16. (label) Label the globe: North Pole, South Pole, axis, day side, night side.  
    **Answer:** North Pole at the top end of the axis, South Pole at the bottom end. The axis is the line through both. The side facing the Sun is the day side. The side away is the night side.. *Why:* These five labels show the whole idea of the unit in one picture.
-### The Turning World (stretch) (stretch, 16 questions)
+### The Turning World (stretch) (stretch, 15 questions)
 1. (mcq) In June, the Sun rises in Dong, Arunachal Pradesh, at about 4 in the morning by the clock. In Bhuj, Kutch, it rises at about 6. Why?  
    Options: Dong is higher up in the mountains / Dong is further east, so it turns into the sunlight first / The clocks in Dong are wrong / The Sun is closer to Dong  
    **Answer:** Dong is further east, so it turns into the sunlight first. *Why:* The Earth turns from west to east, so eastern places turn into the sunlight first. Picking 'higher up' sounds sensible, but height makes only a tiny difference. Picking 'closer to Dong' imagines the Sun as a nearby lamp. It is 150 million kilometres away, the same for both.
 2. (truefalse) All of India uses one clock time, even though the Sun rises at different times across the country.  
    **Answer:** True. *Why:* True. India uses Indian Standard Time, set by the Sun near Mirzapur, close to the middle of the country.
-3. (write) It is 8 at night in Chennai. Your aunt lives in New York, on the other side of the world. Is she more likely having breakfast or going to bed? Explain using the spinning Earth.  
+3. (write) It is 8 at night in Chennai. A friend of the family lives in New York, on the other side of the world. Is she more likely having breakfast or going to bed? Explain using the spinning Earth.  
    **Answer:** She is more likely having breakfast. New York is on the other side of the Earth. When Chennai has turned away from the Sun, New York is turning into the light. So it is morning there, about 9:30 or 10:30.. *Why:* A strong answer places the two cities on opposite sides of the ball. When one side faces away from the Sun, the other side faces it.
-4. (mcq) A man in a moving boat sees the trees on the bank move backwards. What did Aryabhata use this example to explain?  
-   Options: Why rivers flow / Why the stars seem to move west, though it is the Earth that turns / Why trees grow near rivers / Why boats float  
-   **Answer:** Why the stars seem to move west, though it is the Earth that turns. *Why:* Aryabhata said the still stars seem to move west because the Earth turns, just as the trees seem to move for the man in the boat. Picking any other answer misses the point of the example: what seems to move is not always what moves.
-5. (fill) The imaginary line round the middle of the Earth, halfway between the North Pole and the South Pole, is called the ____.  
+4. (fill) The imaginary line round the middle of the Earth, halfway between the North Pole and the South Pole, is called the ____.  
    **Answer:** ['equator']. *Why:* The equator is the fattest part of the Earth. Places on it, like Singapore, have about 12 hours of day and 12 hours of night all year.
-6. (mcq) You set up a pendulum over a stool with a chalk line. You turn the stool slowly while the pendulum swings. What happens?  
-   Options: The pendulum turns with the stool / The pendulum keeps swinging the same way, and the line turns under it / The pendulum stops / The pendulum swings in a circle  
-   **Answer:** The pendulum keeps swinging the same way, and the line turns under it. *Why:* A pendulum keeps swinging the same way unless something pushes it sideways. Turning the stool does not push the pendulum. So the line turns under the swing. Picking 'turns with the stool' is what most people expect. Try it and see.
-7. (mcq) Dhruva Tara, the Pole Star, sits almost exactly above the North Pole. If you stood at the North Pole, where would you see the Pole Star?  
-   Options: Low down, near the horizon / Almost straight above your head / You could not see her at all / In the east, rising  
+5. (mcq) Dhruva Tara, the Pole Star, sits almost exactly above the North Pole. If you stood at the North Pole, where would you see the Pole Star?  
+   Options: Low down, near the horizon / Almost straight above your head / You could not see it at all / In the east, rising  
    **Answer:** Almost straight above your head. *Why:* The Pole Star is on the line of the Earth's axis. At the North Pole, that line goes straight up through your head. So the star sits almost overhead, and all the other stars circle round it.
-8. (truefalse) Places near the equator move faster as the Earth spins than places near the poles.  
+6. (mcq) The Earth turns 360 degrees in 24 hours. About how many degrees does it turn in 2 hours?  
+   Options: 15 degrees / 30 degrees / 45 degrees / 60 degrees  
+   **Answer:** 30 degrees. *Why:* The Earth turns 15 degrees every hour, because 360 divided by 24 is 15. In 2 hours that is 30 degrees. Picking 15 forgets the second hour.
+7. (truefalse) Places near the equator move faster as the Earth spins than places near the poles.  
    **Answer:** True. *Why:* True. The equator is the fattest part of the Earth, so it has the longest circle to go round in the same 24 hours.
-9. (perspective) Long ago, two great astronomers disagreed about whether the Earth spins. Imagine you lived then, with no pendulum and no photos from space.  
+8. (perspective) Long ago, two great astronomers disagreed about whether the Earth spins. Imagine you lived then, with no pendulum and no photos from space.  
    **Answer:** A strong answer works with what people knew then. For Ptolemy: it really does look and feel as if the Earth is still, and nobody could see it move. For Aryabhata: the boat shows that what seems to move is not always what moves. The answer-back uses something from this unit, for example: the air and the birds are already moving with the Earth, like a ball tossed up in a smooth train.. *Why:* Both men had good reasons. Ptolemy trusted what he felt. Aryabhata trusted a clever argument. Proof came much later, with Foucault's pendulum in 1851.
-10. (match) Match each world to its day.  
+9. (match) Match each world to its day.  
    **Answer:** Jupiter → about 10 hours; Earth → 24 hours; Mars → a little more than 24 hours; Venus → longer than 100 of our days. *Why:* Every planet spins at its own speed. Jupiter is the fastest. Venus is very slow, and spins backwards.
-11. (mcq) After sunset, the sky stays light for a while. Why?  
+10. (mcq) After sunset, the sky stays light for a while. Why?  
    Options: The Sun is still just above the horizon / High air is still catching sunlight and glowing / The Moon lights it up / The clouds keep the light in  
    **Answer:** High air is still catching sunlight and glowing. *Why:* This soft glow is twilight. The Sun is below the horizon for us, but the air high above is still in sunlight. Picking 'the Moon' often comes from linking all night-time light with the Moon.
-12. (sort) Sort these into what is really moving and what only seems to move.  
+11. (sort) Sort these into what is really moving and what only seems to move.  
    **Answer:** the Earth, spinning → Really moving; the Sun crossing the sky → Only seems to move; trees outside a train window → Only seems to move; the train → Really moving; stars wheeling round the Pole Star → Only seems to move; a swinging pendulum → Really moving. *Why:* When you move, still things seem to move the other way. The Earth and the train really move. The Sun, the trees and the stars only seem to.
-13. (write) A friend says, 'If the Earth spins so fast, a ball thrown up should land far behind you.' Explain why it does not.  
+12. (write) A friend says, 'If the Earth spins so fast, a ball thrown up should land far behind you.' Explain why it does not.  
    **Answer:** The ball is already moving with the Earth when I throw it, and so is the air. So it keeps moving along with me and lands back in my hand, like a ball tossed up in a smooth train.. *Why:* Galileo used this kind of reasoning in 1632, with a stone dropped from a ship's mast.
-14. (write) Michel Siffre lived in a cave for two months with no clocks and no daylight. When he came out, he thought far fewer days had passed. What does this tell us about our body clocks?  
+13. (write) Michel Siffre lived in a cave for two months with no clocks and no daylight. When he came out, he thought far fewer days had passed. What does this tell us about our body clocks?  
    **Answer:** We have a body clock that keeps a rough rhythm of sleeping and waking. But without daylight to reset it, it drifts, so he lost count of the days.. *Why:* Body clocks run close to 24 hours. Daylight resets them each morning. Without it, they slowly drift.
-15. (draw) Draw the Earth from above the North Pole as a circle. Draw an arrow showing which way it spins. Draw the Sun on the left. Mark where it is sunrise.  
+14. (draw) Draw the Earth from above the North Pole as a circle. Draw an arrow showing which way it spins. Draw the Sun on the left. Mark where it is sunrise.  
    **Answer:** The arrow goes anticlockwise. The Sun is on the left. Sunrise is on the edge where places are just turning from the dark side into the light.. *Why:* Seen from above the North Pole, the Earth turns anticlockwise. Sunrise happens on the edge turning towards the Sun.
-16. (write) A friend says, 'When it is noon in Chennai, it is noon everywhere on Earth.' Use the torch and ball to show what she has missed.  
+15. (write) A friend says, 'When it is noon in Chennai, it is noon everywhere on Earth.' Use the torch and ball to show what she has missed.  
    **Answer:** Noon is when your place faces the Sun most directly. On the ball, only one line of places faces the torch straight on at a time. Places to the east have already passed their noon. Places to the west have not reached it. On the far side of the ball, it is midnight.. *Why:* A strong answer finds the mistake and uses the model: noon moves round the Earth as it spins, just like sunrise does.
 ### Puzzles of the Spinning Earth (challenge) (challenge, 16 questions)
 1. (mcq) A star rises above a rooftop at 9:00 tonight. When will it rise above the same rooftop tomorrow?  
@@ -728,9 +722,9 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
    **Answer:** Chennai would only turn towards the Sun and away again as the Earth went round the Sun. So one day and one night would last a whole year: about six months of daylight, then about six months of night. The day side would get very hot and the night side very cold.. *Why:* A strong answer sees that the spin is what makes days short. Without it, only the trip round the Sun would change which side faces the light.
 
 ## Videos
-- **Following the Sun: Crash Course Kids #8.2** (Crash Course Kids, 4 min) id `1SN1BOpLZAs`: A short, clear episode on why the Sun seems to move across the sky and what that does to shadows. It fits after the shadow stick experiment. *Check:* Found by YouTube search. The title and channel were checked automatically through YouTube's oEmbed service. The length is estimated. A parent should preview it once.
-- **Sunset, Nighttime and Sunrise from the International Space Station** (NASA, 3 min) id `6jq8-UjhHh4`: Real footage from space of the day-night line passing over the Earth. Children see sunset, the night side with city lights, and sunrise in a few minutes. *Check:* Found by YouTube search. The title and channel were checked automatically through YouTube's oEmbed service. The length is estimated. A parent should preview it once.
-- **Testing Earth's Rotation: How a Foucault Pendulum Works** (Bob the Science Guy, 5 min) id `9SdIBzZl5WA`: Shows a real Foucault pendulum and explains why its swing seems to turn. Watch it after the pendulum on a stool experiment. *Check:* Found by YouTube search. The title and channel were checked automatically through YouTube's oEmbed service, but the content was not watched from here. A parent should preview it before showing, to check it is accurate and suitable.
+- **Following the Sun: Crash Course Kids #8.2** (Crash Course Kids, 4 min) id `1SN1BOpLZAs`: A short, clear episode on why the Sun seems to move across the sky and what that does to shadows. It fits after the shadow stick experiment. *Check:* Preview it once before showing your child.
+- **Sunset, Nighttime and Sunrise from the International Space Station** (NASA, 3 min) id `6jq8-UjhHh4`: Real footage from space of the day-night line passing over the Earth. Children see sunset, the night side with city lights, and sunrise in a few minutes. *Check:* Preview it once before showing your child.
+- **Testing Earth's Rotation: How a Foucault Pendulum Works** (Bob the Science Guy, 5 min) id `9SdIBzZl5WA`: Shows a real Foucault pendulum and explains why its swing seems to turn. Watch it after the pendulum on a stool experiment. *Check:* Preview it once before showing your child.
 
 ## Quiz
 1. (mcq) Right now it is night in Chennai. What is the Sun doing?  
@@ -785,7 +779,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - Countries set their own time zones so that noon comes roughly in the middle of their day.
 - Pilots, ships' navigators and travellers once used the Sun and the stars to find their way.
 - Solar panels make most power around noon, and none at night. Power companies plan for this every day.
-- Weather forecasters use the Earth's spin to predict which way cyclones will turn.
+- Weather forecasters include the Earth's spin in their models, because it bends the paths of winds and cyclones.
 - Rockets are often launched towards the east, to get a free push from the Earth's spin.
 - Doctors and scientists study body clocks to help night-shift workers, travellers with jet lag and people who cannot sleep.
 - Astronomers plan when to observe a star by working out when the Earth will turn it into view.
@@ -827,35 +821,24 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 ## Jokes
 - Why did the Sun go to school? *To get a little brighter.*
 - Why is the Earth never bored? *It always has something to spin about.*
-- Why didn't the rooster believe in sunsets? *He only ever saw the bright side.*
-- What did the Earth say after one full spin? *That was a good day's work!*
-- Why did the night sky go to the doctor? *It was feeling a bit starry-eyed.*
-- How does the Earth keep fit? *It does one big turn every day.*
-- Why did the shadow get so tall in the evening? *It ate all its dinner early.*
 - What did the Moon say to the Sun at sunset? *My turn now. You've had a long day.*
-- Why was the owl always late for breakfast? *Breakfast was in the middle of its night.*
 - Why did the clock in Arunachal feel tired? *The Sun kept getting up before it.*
-- Why can't you keep a secret on a sunny day? *Your shadow always follows you.*
 - What did the North Pole say to the South Pole? *We're poles apart, but we turn together.*
-- Why did the bat stay up all night? *It had a lot of hanging out to do.*
+- Why did the bat stay up all night? *He had a lot of hanging out to do.*
 - Why did the student bring a torch to the astronomy class? *To shed some light on day and night.*
-- Why don't we feel the Earth spinning? *It's very smooth about it.*
 - What does a sundial say on a cloudy day? *Sorry, I'm off duty.*
-- Why did the pendulum never get lost? *It always knew which way to swing.*
 - How does the Sun drink its tea? *In a sun-cer.*
-- What is a sunset's favourite colour? *Any colour, as long as it's going down well.*
 - Why did the Earth get dizzy? *It had been spinning for 4.5 billion years.*
-- Why did night fall? *Day pushed it.*
 
 ## Connected maths
-- In the shadow stick experiment, the shadow was 40 cm long at 9 in the morning and 8 cm long at 1 in the afternoon. How many centimetres shorter was it at 1 o'clock? **32 cm shorter.**. The shadow was 40 cm at 9. It was 8 cm at 1. 40 take away 8 is 32. So the shadow was 32 cm shorter at 1 o'clock. You can check: 8 + 32 = 40. (queues `math.addition-subtraction.mental-strategies.L3`)
+- In a shadow stick test, the shadow was 40 cm long at 9 in the morning and 8 cm long at 1 in the afternoon. How many centimetres shorter was it at 1 o'clock? **32 cm shorter.**. The shadow was 40 cm at 9. It was 8 cm at 1. 40 take away 8 is 32. So the shadow was 32 cm shorter at 1 o'clock. You can check: 8 + 32 = 40. (queues `math.addition-subtraction.mental-strategies.L3`)
 - In Pune, the Sun rose at 6 o'clock in the morning and set at 7 o'clock in the evening. How many hours of daylight were there? **13 hours.**. From 6 in the morning to 12 noon is 6 hours. From 12 noon to 7 in the evening is 7 hours. 6 + 7 = 13. So there were 13 hours of daylight. (queues `math.time.duration.L3`)
 - The Earth turns all the way round, 360 degrees, in 24 hours. How many degrees does it turn in 1 hour? **15 degrees.**. We share 360 degrees equally among 24 hours. 24 × 15 = 360. So 360 divided by 24 is 15. The Earth turns 15 degrees every hour. That is why the Sun seems to move about one and a half fist-widths across the sky every hour, with your arm held out straight. (queues `math.division.sharing-and-grouping.L3`)
 - Read the clock. It shows the time the Sun rose in Dong, Arunachal Pradesh, on a June morning. The Sun rose in Bhuj, Kutch, 2 hours later. What time did it rise in Bhuj? **6 o'clock, or 6:05 to be exact.**. The clock shows 4:05. The short hand is just past 4, and the long hand is on 1, which means 5 minutes. Add 2 hours: 4:05 becomes 6:05. So the Sun rose in Bhuj at about 6:05. (queues `math.time.telling-time.L3`)
 - Fossil corals show that 400 million years ago a year had about 400 days. Today a year has about 365 days. How many more days did a year have then? **About 35 more days.**. 400 take away 365 is 35. So a year had about 35 more days. The year was about as long as now, but each day was shorter, because the Earth spun faster. (queues `math.addition-subtraction.written-methods.L3`)
 
 ## Song
-Turning Into the Light (sci.day-night-seasons.L3): Topic-level song for Day, night and seasons L3. The Day and night, Seasons and Rhythms of nature units share it.
+Turning Into the Light (sci.day-night-seasons.L3): One song for the whole topic of day, night and seasons. It is shared with the Seasons and Rhythms of nature units.
 
 ## Links
 - [Day and Night World Map, timeanddate.com](https://www.timeanddate.com/worldclock/sunearth.html) · interactive: A live map of the Earth showing where it is day and where it is night right now, with the day-night line.
@@ -868,12 +851,11 @@ Turning Into the Light (sci.day-night-seasons.L3): Topic-level song for Day, nig
 - [M.P. Birla Planetarium]() · place · Kolkata: One of the oldest and largest planetariums in Asia, with shows about the night sky.
 - [Jawaharlal Nehru Planetarium]() · place · Bengaluru: Sky shows, and events on Zero Shadow Day each year.
 - [Kodaikanal Solar Observatory, Indian Institute of Astrophysics](https://www.iiap.res.in) · place · Kodaikanal: An observatory that has photographed the Sun almost every day for more than a hundred years. It has a small museum for visitors.
-- [Your own terrace, a beach or a field at sunrise or sunset]() · place · anywhere: Watch the Earth turn you into the light or out of it. Look for the Earth's shadow in the east after sunset.
 
 ## Things to buy
-- [A small spinning globe](https://www.amazon.in/s?k=world+globe+for+kids) (tool): Optional. A globe already has an axis and real places on it, so the torch and ball experiment shows exactly which cities see the Sun first. An orange works too. Used in e1, a4. Used again in the Seasons and Time zones units.
-- [What Makes Day and Night, by Franklyn M. Branley (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=What+Makes+Day+and+Night+Franklyn+Branley) (book): A clear picture book that explains the spinning Earth with a lamp and a ball, for ages 4 to 8. Used in e1. If bought, read it on day 1 straight after the torch and ball experiment. It can replace the first two explanation cards.
-- [The Sun Is Kind of a Big Deal, by Nick Seluk](https://www.amazon.in/s?k=The+Sun+Is+Kind+of+a+Big+Deal+Nick+Seluk) (book): A funny, comic-style book about the Sun and the planets, for ages 5 to 9. Used in g1. If bought, read it on the game day, before Who Sees the Sun First?.
+- [A small spinning globe](https://www.amazon.in/s?k=world+globe+for+kids) (tool): Optional. A globe already has an axis and real places on it, so the torch and ball experiment shows exactly which cities see the Sun first. An orange works too. Used in e1, a4. 
+- [What Makes Day and Night, by Franklyn M. Branley (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=What+Makes+Day+and+Night+Franklyn+Branley) (book): A clear picture book that explains the spinning Earth with a lamp and a ball, for ages 4 to 8. If you buy it, read it on day 1, straight after the torch and ball experiment. Used in e1. 
+- [The Sun Is Kind of a Big Deal, by Nick Seluk](https://www.amazon.in/s?k=The+Sun+Is+Kind+of+a+Big+Deal+Nick+Seluk) (book): A funny, comic-style book about the Sun and the planets, for ages 5 to 9. If you buy it, read it before the game Who Sees the Sun First?. Used in g1. 
 
 ## Warm-up
 - Day and night happen because the Earth ____. → spins
@@ -891,7 +873,7 @@ Turning Into the Light (sci.day-night-seasons.L3): Topic-level song for Day, nig
 ## Plan
 - Start options: a1, e1, story, g2, cards, big_questions, e2
 - Default order: intro → a1 → e1 → summary → terms → explanations → story → roots → quiz → a2 → g1 → e2 → videos → ws-core → a4 → g2 → e3 → agreed → challenging → a3 → a5 → a6 → ws-stretch → p1 → c1 → c2 → big_questions → ws-challenge → open_questions
-- Core: a1, e1, e2, e3, g1, g2, ws-core, a2, a4, a5
+- Core: a1, e1, e2, e3, g1, g2, ws-core, a2, a4
 
 ## Sources
 - DeepKids HomeSchooling Track, Physics sheet, 'Day Night cycles, Earth's Rotation': spin and revolve around mom (facing mom is day, back is night), count spins per revolution and say Earth's 365. Used in Be the Earth and Turn, Earth, Turn!.

@@ -3,7 +3,7 @@
  "title": "Day and night: how the spinning Earth makes them",
  "level": 3,
  "summary": {
-  "text": "The Sun never stops shining. When it is night here, our side of the Earth has simply turned away from it. The Earth is a huge ball that spins once in about 24 hours. Half of it always faces the Sun and has day. The other half has night. The spin carries every place into the light and out again. That is why the Sun seems to rise in the east and set in the west. We cannot feel the spin, but a swinging pendulum, the stars turning round the Pole Star and photos from space all show it. The spin is very slowly getting slower. Scientists are still working out the details of how the Earth first got its spin.",
+  "text": "The Sun never stops shining. When it is night here, our side of the Earth has simply turned away from it. The Earth is a huge ball that spins once in about 24 hours. Half of it always faces the Sun and has day. The other half has night. The spin carries every place into the light and out again. That is why the Sun seems to rise in the east and set in the west. We notice no spin, but a swinging pendulum, the stars turning round the Pole Star and photos from space all show it. The spin is very slowly getting slower. Scientists are still working out the details of how the Earth first got its spin.",
   "art": "A blue Earth ball lit from one side by a bright Sun, half in daylight and half in night, with a small curved arrow showing the spin and a tiny child standing on the line between light and dark."
  },
  "intro": {
@@ -213,9 +213,9 @@
    "context": "Who first said that the Earth spins? This card is about an Indian astronomer who said it about 1,500 years ago."
   },
   {
-   "concept": "Why we do not feel the Earth spin",
+   "concept": "Why the Earth's spin goes unnoticed",
    "status": "defined",
-   "definition": "We do not feel the spin because it is smooth and steady, and everything around us moves with us.",
+   "definition": "The spin is smooth and steady, and everything around us moves with us, so we notice nothing.",
    "description": "You only feel movement when it changes: a speed-up, a slow-down, a bump or a sharp turn. In a smooth train, with your eyes shut, you can hardly tell that you are moving. The Earth's spin is smoother than any train. It never brakes and never bumps. The ground, the air, the birds and you all move together. So when you jump, you land in the same place. The ground does not slide away under you, because you were already moving with it. Galileo, an Italian scientist, explained this in 1632. He said a stone dropped from the top of a ship's mast lands at the foot of the mast, even while the ship sails.",
    "examples": [
     "Toss a ball straight up in a smoothly moving train. It falls back into your hand.",
@@ -238,7 +238,7 @@
    ],
    "perspectives": [],
    "art": "A tall hall with a heavy brass ball swinging on a long wire over a circle of little pegs, some knocked over, a curved arrow on the floor.",
-   "context": "How can we be sure the Earth spins, when we cannot feel it? This card gives the evidence.",
+   "context": "How can we be sure the Earth spins, when we notice nothing? This card gives the evidence.",
    "show": [
     {
      "art": "A pendulum swinging along a chalk line drawn on a round stool.",
@@ -507,7 +507,7 @@
   },
   {
    "text": "The Sun's movement across our sky is only apparent. The Sun is not going round the Earth each day.",
-   "evidence": "Foucault's pendulum, first shown in Paris in 1851, turns its swing as the floor turns. Stars trace circles around the Pole Star. Spacecraft have filmed the Earth turning."
+   "evidence": "Foucault's pendulum, first shown in Paris in 1851, keeps its swing while the floor turns under it, so the swing seems to turn round the room. Stars trace circles around the Pole Star. Spacecraft have filmed the Earth turning."
   },
   {
    "text": "Places further east see the Sun rise earlier.",
@@ -523,7 +523,7 @@
    "claim": "The Earth stands still at the centre, and the Sun goes round it every day.",
    "who": "Most people in most places for thousands of years, and Ptolemy, a Greek astronomer in Egypt, about 1,900 years ago",
    "for": "It is exactly what we see. The ground feels still. The Sun really does seem to travel across the sky.",
-   "against": "Seeming to move is not the same as moving. A Foucault pendulum's swing turns as the Earth turns under it. Stars wheel around the Pole Star. Photos from space show the Earth spinning. The Sun stays put, and we turn.",
+   "against": "Seeming to move is not the same as moving. A Foucault pendulum keeps swinging the same way while the Earth turns under it, so its swing seems to turn round the room. Stars wheel around the Pole Star. Photos from space show the Earth spinning. The Sun stays put, and we turn.",
    "status": "rejected",
    "context": "This card is about the oldest idea of all about day and night, and why scientists gave it up."
   },
@@ -570,7 +570,7 @@
  ],
  "big_questions": [
   {
-   "q": "You are moving at nearly 1,500 kilometres an hour right now, and you cannot feel it. What else might be true that you cannot feel?",
+   "q": "You are moving at nearly 1,500 kilometres an hour right now, and you notice nothing. What else might be true that you do not notice?",
    "kind": "big",
    "hint": "Think of the air pressing on you, the blood moving in you, and the light from stars arriving in your eyes."
   },
@@ -642,7 +642,7 @@
    "And then, while I sat there silent, the sky turned grey. Then pink. Then gold. And the Sun came up over the flat land of Kutch, big and round, as if nothing were wrong at all. I had not made a single sound.",
    "I did not eat my rice that day. Mili noticed. In the evening, she carried me up onto the flat roof to watch the sunset. The Sun hung low and orange over the salty plain. Then Mili's phone buzzed. It was Grandmother, calling from Dong.",
    "'Is it dark there yet?' Mili asked.",
-   "'Dark?' said Grandmother. 'Child, the Sun set here an hour and a half ago. The stars are out. I am about to go to bed.' She turned her phone to show us. Her screen was black, with a few small stars. Mili looked at Grandmother's dark screen. Then she looked at our Sun, still sitting there, orange, over Kutch.",
+   "'Dark?' said Grandmother. 'Child, the Sun set here nearly two hours ago. The stars are out. I am about to go to bed.' She turned her phone to show us. Her screen was black, with a few small stars. Mili looked at Grandmother's dark screen. Then she looked at our Sun, still sitting there, orange, over Kutch.",
    "Mili ran downstairs. She came back with a mausambi from the kitchen, a pen and her father's torch. On one side of the mausambi she drew a dot and wrote 'Dong'. A little way round, she drew another dot and wrote 'Bhuj'. She pushed a pencil through the fruit, from top to bottom, and shone the torch at it. 'Look, Raja,' she said. 'This is the Earth. The torch is the Sun.'",
    "She turned the mausambi slowly on its pencil. The dot that said Dong came round into the torchlight first. Bhuj was still in the dark. She kept turning. Only later did Bhuj come round into the light too. 'The Sun doesn't come up,' Mili whispered. 'We go round to meet it. Dong turns into the light first. Bhuj turns into it two hours later. Your crow was right on time, Raja. You were just still on Dong time.'",
    "I looked at the mausambi turning in the torchlight. Then I looked at the real Sun. It was sitting quite still. It had always been sitting still. It was the roof under my feet that was moving. The whole of Kutch, with its salt and dust and dogs, was tipping slowly backwards, away from the light. I could almost feel it, a slow, enormous lean, like a boat on a calm river.",
@@ -650,7 +650,7 @@
    "That night, I thought about the line of light. It swept across India every morning, like a lamp carried slowly through a house. First it touched Dong, where Grandmother's rooster would be crowing. Then the tea gardens of Assam. Then Kolkata, then Delhi, then Mumbai, and at last, Bhuj. Then it would go on, across the sea, to Arabia and Africa, and on and on around the whole turning world. Somewhere along that line, a rooster was always crowing. Somewhere, it was always morning.",
    "The next day, I woke at my Dong time. I waited in the dark, quietly, for about two hours. When the first grey came, I climbed onto the wall and crowed, softly at first, then loud. Not to call the Sun. Just to tell Bhuj that it had turned round into the morning once again."
   ],
-  "epiphany": "For the parent: the rooster thinks the Sun comes to him. The turn comes when the Sun rises without his crow, and Grandmother's sky in Dong is dark while Bhuj still has sunset. The mausambi on a pencil shows why. The Earth turns from west to east, so Dong turns into the sunlight about two hours before Bhuj. Nothing rises. The ground turns. The rooster's crow was not wrong, only still on Dong time, the way our body clocks keep home time after a long journey. The story also gently asks what happens when we think we are the centre that everything moves around.",
+  "epiphany": "For the parent: the rooster thinks the Sun comes to him. The turn comes when the Sun rises without his crow, and Grandmother's sky in Dong is dark while Bhuj still has sunset. The mausambi on a pencil shows why. The Earth turns from west to east, so Dong turns into the sunlight about two hours before Bhuj. Nothing rises. The ground turns. The rooster's crow was not wrong, only still on Dong time, the way our body clocks keep home time after a long journey.",
   "ask": [
    "Why did Raja think he made the Sun rise?",
    "On the train, why did the dark after Raja's crow last a little longer every morning?",
@@ -671,12 +671,12 @@
    "id": "g1",
    "title": "Who Sees the Sun First?",
    "mins": 20,
-   "players": "2 to 4 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "context": "This is a card game about sunrise travelling around the spinning Earth. Players race to put places in the order they turn into the sunlight, from east to west.",
    "printables": [
     {
      "kind": "cards",
-     "title": "20 cards to cut out: 15 place cards, each with a small map dot, and 5 SPIN CARDS",
+     "title": "20 cards to cut out: 15 place cards and 5 SPIN CARDS",
      "items": [
       "Dong, Arunachal Pradesh (far east of India)",
       "Guwahati, Assam",
@@ -712,17 +712,36 @@
      "kind": "tokens",
      "title": "20 small paper suns",
      "items": [
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
+      "☀️",
       "☀️"
      ]
     }
    ],
    "rules": [
-    "Cut out the cards. Lay the sunrise line strip on the floor. Have a ball and a torch ready.",
-    "Shuffle the place cards and deal 3 to each player. Put the rest face down in a pile.",
-    "On your turn, put one of your place cards on the sunrise line. It must be in the right order, east first. Then take a new card from the pile.",
-    "If someone thinks it is in the wrong place, check on a map or a globe. A right card wins one paper sun. A wrong card goes back in the pile.",
-    "If you get a SPIN CARD, read it out. Everyone answers it together using the ball and the torch. The first right answer wins two suns.",
-    "When the pile runs out, the player with the most suns wins."
+    "Cut out the cards and the strip. Lay the sunrise line strip on the floor, with the 'first' end towards the east if you know which way it is. Have a ball and a torch ready.",
+    "Shuffle the 15 place cards and deal 3 to each player. Put the rest face down in a pile. Keep the 5 SPIN CARDS in their own face-down pile.",
+    "On your turn, put one place card on the strip, in the right order, east first. Say why it goes there. Then take a new card from the pile, if there is one. When the pile is empty, keep playing the cards in your hand.",
+    "Anyone who doubts a card can say so. Check it on a map or a globe. A right card wins its player one paper sun. A wrong card is put aside, and the player who doubted it wins the sun. A card nobody doubts also wins its player a sun.",
+    "After every third card is placed, turn over the top SPIN CARD and read it out. Everyone answers it together using the ball and the torch. The first right answer wins one sun.",
+    "The game ends when every place card has been placed or put aside. The player with the most suns wins. If two players have the same number, they win together."
    ],
    "setup": [
     {
@@ -742,10 +761,10 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay the sunrise line strip on the floor. If you know which way is east, put the 'first' end on that side. 2. Shuffle the place cards. Deal 3 to each player. 3. Put a ball and a torch nearby.",
+     "do": "1. Lay the sunrise line strip on the floor. If you know which way is east, put the 'first' end on that side. 2. Shuffle the 15 place cards. Deal 3 to each player and put the rest in a pile. 3. Keep the SPIN CARDS in a separate pile. 4. Put a ball and a torch nearby.",
      "say": "The Earth spins from west to east. So places in the east turn into the sunlight first. Let's put places in the order they see sunrise.",
      "kid": "Lay out the sunrise line. Deal 3 cards each. Places in the east see the Sun first. Let's put them in order.",
-     "context": "This is the first step of Who Sees the Sun First?. It is a card game about sunrise travelling across the spinning Earth."
+     "context": "This is the first step of Who Sees the Sun First?, a card game about sunrise travelling across the spinning Earth."
     },
     {
      "id": "s2",
@@ -768,7 +787,7 @@
     {
      "id": "s3",
      "mins": 9,
-     "do": "1. Take turns placing cards on the line. 2. Check any argued card on a map or globe. 3. Give one paper sun for each right card.",
+     "do": "1. Take turns placing cards on the line. 2. Check any doubted card on a map or globe. 3. Give one paper sun to the player of each right card. 4. After every third card, turn over a SPIN CARD.",
      "say": "Put your card down and tell us why it goes there. Is it east or west of its neighbour?",
      "kid": "Your turn. Put a card on the line. Say why it goes there. Is it more east, or more west?",
      "parent": "A rough order from east to west is this. Tokyo, Singapore, Dong, Guwahati, Dhaka, Kolkata, Bhubaneswar, Chennai, Delhi, Mumbai, Bhuj, Dubai, Nairobi, London, New York. Singapore and Tokyo are east of India, so they see the Sun before us. How far north or south a place is also changes sunrise a little. In June, Dong sees the Sun even before Singapore, because Dong is further north. So close calls are fine. Focus on east and west. The noon Sun follows the east-to-west order exactly."
@@ -776,7 +795,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "When someone draws a SPIN CARD, stop. Use the ball and the torch to find the answer together.",
+     "do": "When a SPIN CARD is turned over, stop. Use the ball and the torch to find the answer together.",
      "say": "Let's check it on our Earth ball. Shine the torch from one side, and turn the ball slowly from west to east.",
      "kid": "A SPIN CARD! Guess first. Then turn the ball under the torch to check.",
      "ask": [
@@ -804,7 +823,7 @@
    "id": "g2",
    "title": "Turn, Earth, Turn!",
    "mins": 15,
-   "players": "3 or more players: one is the Sun, the others are the Earth",
+   "players": "2 or more players: one is the Sun, the others are the Earth",
    "context": "This is a moving game. Children hold hands in a ring and turn slowly, acting as the spinning Earth. Whoever faces the Sun acts out a day job or a day animal. Whoever faces away acts out a night one.",
    "printables": [
     {
@@ -848,10 +867,10 @@
    ],
    "rules": [
     "One player holds the yellow SUN sign and stands still at one side. The Sun never moves.",
-    "Everyone else holds hands in a small ring in the middle, facing outwards. The ring is the Earth.",
-    "The ring walks slowly round, anticlockwise when seen from above, one step at a time.",
-    "When the Sun calls 'Freeze!', everyone stops. Players facing the Sun take a DAY card and act it. Players facing away take a NIGHT card and act it. A player at the side who is turning towards the Sun says 'Sunrise!'. One turning away says 'Sunset!'.",
-    "Then swap so a new player is the Sun. Keep a count of the turns on the spin counter."
+    "Everyone else stands in a small ring in the middle, holding hands and facing outwards. The ring is the Earth. With only two players, the Earth is one person standing on the spot.",
+    "The Earth turns on the spot, anticlockwise when seen from above. The ring shuffles slowly sideways, or the single player turns in small steps. The ring does not walk anywhere.",
+    "When the Sun calls 'Freeze!', everyone stops. Players facing the Sun take a DAY card and act it. Players facing away take a NIGHT card and act it. A player who has just turned to face the Sun says 'Sunrise!'. A player who has just turned away says 'Sunset!'.",
+    "Then swap, so a new player is the Sun, and add one to the turns made on the spin counter. If a pile of cards runs out, shuffle the used cards back in. Play until everyone has been the Sun once."
    ],
    "setup": [
     {
@@ -871,7 +890,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Choose one player to be the Sun. Give them the yellow sign. 2. The others hold hands in a ring, facing outwards. 3. Shuffle the DAY and NIGHT cards into two piles.",
+     "do": "1. Choose one player to be the Sun. Give them the yellow sign. 2. The others hold hands in a ring, facing outwards. 3. Sort the cards into a DAY pile and a NIGHT pile, and shuffle each.",
      "say": "The Sun stands still. We are the Earth. We will turn slowly, and see who gets day and who gets night.",
      "kid": "One person is the Sun, and stands still. Everyone else makes a ring, facing out. You are the Earth!",
      "context": "This is the first step of Turn, Earth, Turn!. In this game, children act as the spinning Earth and find out who has day and who has night."
@@ -879,10 +898,10 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. The ring turns slowly. 2. The Sun calls 'Freeze!' every few steps. 3. Players facing the Sun act a DAY card. Players facing away act a NIGHT card. 4. Players at the edges call 'Sunrise!' or 'Sunset!'.",
+     "do": "1. The ring turns slowly on the spot. 2. The Sun calls 'Freeze!' every few steps. 3. Players facing the Sun act a DAY card. Players facing away act a NIGHT card. 4. Players who have just turned towards the Sun call 'Sunrise!', and those who have just turned away call 'Sunset!'.",
      "say": "Turn slowly. Freeze! Who can see the Sun? You have day. Who has their back to it? You have night.",
      "kid": "Turn slowly. When the Sun says freeze, stop. Can you see the Sun? Act a day card. Can't see it? Act a night card.",
-     "parent": "Turn anticlockwise, seen from above. A child on the edge who is just turning towards the Sun is at sunrise. One just turning away is at sunset. Notice that the Sun player never moves. Every change comes from the turning ring.",
+     "parent": "Turn anticlockwise, seen from above. The Sun player never moves. Every change comes from the turning ring.",
      "check": {
       "t": "mcq",
       "q": "In the game, why did some players have night?",
@@ -1044,7 +1063,7 @@
     },
     {
      "t": "write",
-     "p": "In a smooth train with your eyes shut, you can hardly tell you are moving. Use this to explain why we cannot feel the Earth spin.",
+     "p": "In a smooth train with your eyes shut, you can hardly tell you are moving. Use this to explain why we notice no spin.",
      "lines": 3,
      "a": "We only feel movement when it changes, like a bump, a speed-up or a brake. A smooth train hardly changes, so it is hard to feel. The Earth's spin is smoother than any train. It never bumps or brakes, and the air and everything around us move with us. So we feel nothing.",
      "why": "A strong answer says what we really feel: changes in movement, not movement itself. Feeling nothing is not evidence that nothing moves."
@@ -1105,7 +1124,7 @@
     },
     {
      "t": "write",
-     "p": "Your little cousin says, 'The Sun goes to sleep at night.' What would you tell them? Use the word spin.",
+     "p": "A younger child says, 'The Sun goes to sleep at night.' What would you tell them? Use the word spin.",
      "lines": 3,
      "a": "The Sun does not sleep. It shines all the time. Our Earth spins, so at night our side has turned away from the Sun. Children on the other side of the Earth have day then.",
      "why": "A good answer says the Sun keeps shining, and that the Earth's spin turns us away from it."
@@ -1152,22 +1171,10 @@
     },
     {
      "t": "write",
-     "p": "It is 8 at night in Chennai. Your aunt lives in New York, on the other side of the world. Is she more likely having breakfast or going to bed? Explain using the spinning Earth.",
+     "p": "It is 8 at night in Chennai. A friend of the family lives in New York, on the other side of the world. Is she more likely having breakfast or going to bed? Explain using the spinning Earth.",
      "lines": 3,
      "a": "She is more likely having breakfast. New York is on the other side of the Earth. When Chennai has turned away from the Sun, New York is turning into the light. So it is morning there, about 9:30 or 10:30.",
      "why": "A strong answer places the two cities on opposite sides of the ball. When one side faces away from the Sun, the other side faces it."
-    },
-    {
-     "t": "mcq",
-     "p": "A man in a moving boat sees the trees on the bank move backwards. What did Aryabhata use this example to explain?",
-     "opts": [
-      "Why rivers flow",
-      "Why the stars seem to move west, though it is the Earth that turns",
-      "Why trees grow near rivers",
-      "Why boats float"
-     ],
-     "a": 1,
-     "why": "Aryabhata said the still stars seem to move west because the Earth turns, just as the trees seem to move for the man in the boat. Picking any other answer misses the point of the example: what seems to move is not always what moves."
     },
     {
      "t": "fill",
@@ -1179,29 +1186,28 @@
     },
     {
      "t": "mcq",
-     "p": "You set up a pendulum over a stool with a chalk line. You turn the stool slowly while the pendulum swings. What happens?",
-     "opts": [
-      "The pendulum turns with the stool",
-      "The pendulum keeps swinging the same way, and the line turns under it",
-      "The pendulum stops",
-      "The pendulum swings in a circle"
-     ],
-     "a": 1,
-     "why": "A pendulum keeps swinging the same way unless something pushes it sideways. Turning the stool does not push the pendulum. So the line turns under the swing. Picking 'turns with the stool' is what most people expect. Try it and see.",
-     "how": "e3"
-    },
-    {
-     "t": "mcq",
      "p": "Dhruva Tara, the Pole Star, sits almost exactly above the North Pole. If you stood at the North Pole, where would you see the Pole Star?",
      "opts": [
       "Low down, near the horizon",
       "Almost straight above your head",
-      "You could not see her at all",
+      "You could not see it at all",
       "In the east, rising"
      ],
      "a": 1,
      "why": "The Pole Star is on the line of the Earth's axis. At the North Pole, that line goes straight up through your head. So the star sits almost overhead, and all the other stars circle round it.",
      "how": "a5"
+    },
+    {
+     "t": "mcq",
+     "p": "The Earth turns 360 degrees in 24 hours. About how many degrees does it turn in 2 hours?",
+     "opts": [
+      "15 degrees",
+      "30 degrees",
+      "45 degrees",
+      "60 degrees"
+     ],
+     "a": 1,
+     "why": "The Earth turns 15 degrees every hour, because 360 divided by 24 is 15. In 2 hours that is 30 degrees. Picking 15 forgets the second hour."
     },
     {
      "t": "truefalse",
@@ -1544,7 +1550,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pushes the pencil or needle through the fruit. Do not shine the torch into anyone's eyes.",
+   "safety": "A grown-up pushes the pencil or needle through the fruit.",
    "schedule": [
     {
      "day": 1,
@@ -1580,11 +1586,11 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Push the pencil through the fruit, from top to bottom. 2. Tell your child the top is the North Pole. 3. Stick three dots in a row a little above the middle, about two finger-widths apart. As you look at it, put Dong on the right, home in the middle and Bhuj on the left.",
+     "do": "1. Push the pencil through the fruit, from top to bottom. 2. Tell your child the top is the North Pole. 3. Stick three dots in a row a little above the middle, about one finger-width apart. As you look at it, put Dong on the right, home in the middle and Bhuj on the left.",
      "say": "This ball is the Earth. The pencil is its axis, the line it spins around. The top is the North Pole. These dots are three places in India.",
      "kid": "This ball is the Earth. The pencil is its axis. The top is the North Pole. Stick on three dots for three places.",
      "adult": true,
-     "parent": "Seen from the front, with the North Pole on top, east is to the right on the ball. So Dong goes to the right of Bhuj, with your home in between. India is north of the equator, so the dots go a little above the middle. The real places are closer together than this, but spacing them out makes the order easy to see."
+     "parent": "Seen from the front, with the North Pole on top, east is to the right on the ball. So Dong goes to the right of Bhuj, with your home in between. India is north of the equator, so the dots go a little above the middle. The real places are much further apart than this, but a ball this small needs the dots close together."
     },
     {
      "id": "s3",
@@ -1616,9 +1622,9 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. Turn the ball slowly by its pencil, so the front moves from left to right. That is west to east. 2. Stop each time a dot crosses into the light. 3. Write it in the table. 4. Do it 3 times.",
+     "do": "1. Before each try, put all three dots in the dark, on the left, with Dong nearest the light. 2. Turn the ball slowly by its pencil, so the front moves from left to right. That is west to east. 3. Stop when each dot crosses into the light, and write it in the table. 4. Do it 3 times.",
      "say": "Now the Earth spins. Turn it slowly, west to east. Which dot comes into the sunlight first?",
-     "kid": "Turn the ball slowly by the pencil. Which dot comes into the light first? Write it down. Do it 3 times.",
+     "kid": "Start with all three dots in the dark. Turn the ball slowly by the pencil. Which dot comes into the light first? Write it down. Do it 3 times.",
      "parent": "Dong should come into the light first, then home, then Bhuj. If it goes the other way, the ball is turning the wrong way. Check that the torch is on your right, and turn the ball so the side facing you moves from left to right.",
      "chart": {
       "type": "table",
@@ -1651,9 +1657,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Turn the ball until Dong is just going into the dark, while Bhuj is still in the light.",
+     "do": "Keep turning until Dong has gone round the back of the ball into the dark, while Bhuj is still in the light. Lean over to look round the back.",
      "say": "Look. Here it is already night in Dong, but still evening in Bhuj. Did the torch move at all?",
-     "kid": "Turn until Dong is in the dark. Is Bhuj still in the light? Did the torch move?",
+     "kid": "Keep turning. Look round the back of the ball. Is Dong in the dark while Bhuj is still in the light? Did the torch move?",
      "check": {
       "t": "mcq",
       "q": "In the experiment, what made the dots go from day into night?",
@@ -1765,7 +1771,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
+     "mins": 3,
      "do": "1. In the morning, find the spot that gets the most sun: a balcony, a terrace or a sunny window sill. 2. Stand the stick straight up in the pot. 3. Put the paper under it, and weigh the corners down with books or steel tumblers.",
      "say": "This stick will be our clock. Do you think its shadow will stay the same all day?",
      "kid": "Stand the stick straight up in a sunny spot. Put the paper under it. Will its shadow stay the same all day?",
@@ -1775,7 +1781,7 @@
     },
     {
      "id": "s2",
-     "mins": 14,
+     "mins": 16,
      "do": "1. Every hour, mark the tip of the shadow with a cross. 2. Write the clock time next to it. 3. Measure the shadow from the stick to the cross, and write it in the table.",
      "say": "It's on the hour. Let's mark the tip of the shadow, and measure it.",
      "kid": "Every hour, mark the tip of the shadow. Write the time. Measure it with the ruler. Write it in the table.",
@@ -1784,7 +1790,7 @@
     },
     {
      "id": "s3",
-     "mins": 5,
+     "mins": 4,
      "do": "Look at all the marks together.",
      "say": "Look at all the crosses. When was the shadow longest? When was it shortest? Which way did it move?",
      "kid": "Look at all your crosses. When was the shadow longest? When was it shortest? Which way did it swing?",
@@ -1853,9 +1859,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask: is the Sun moving, or are we? Take the ball and torch from the torch and ball experiment. Push a tiny matchstick into the ball as a stick.",
+     "do": "Ask: is the Sun moving, or are we? Take the ball and torch from the torch and ball experiment. Push a toothpick into the ball as a tiny stick.",
      "say": "The shadow moved because the Sun seemed to move across the sky. But remember the ball and the torch. Let's put a tiny stick on our ball and turn it.",
-     "kid": "Push a tiny stick into your Earth ball. Shine the torch. Turn the ball. Watch the tiny shadow move!",
+     "kid": "Push a toothpick into your Earth ball. Shine the torch. Turn the ball. Watch the tiny shadow move!",
      "think": "If the torch stays still and the ball turns, does the little shadow still move?"
     },
     {
@@ -1864,7 +1870,7 @@
      "do": "Ask your child to say or write: what I think, what I saw, and why.",
      "say": "Now tell me three things. What do you think made the shadow move? What did you see? Why did it happen?",
      "kid": "Now say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the shadow moves because the Earth turns, so the Sun seems to cross the sky. What I saw: the shadow was 40 cm at 9, only 8 cm at 1, then long again by 4. It swung from one side to the other. Why: when the Sun is low, the stick blocks a long strip of light."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the shadow moves because the Earth turns, so the Sun seems to cross the sky. What I saw: the shadow was longest in the morning, shortest around noon, and long again by 4. It swung from one side to the other. Why: when the Sun is low, the stick blocks a long strip of light."
     }
    ],
    "example_chart": {
@@ -1994,7 +2000,8 @@
       ],
       "a": 1,
       "why": "A swinging pendulum keeps swinging the same way unless something pushes it sideways. Turning the stool does not push the weight. So the line turns away under the swing. Picking 'turned with the stool' is what most people expect. That is why this test is so surprising."
-     }
+     },
+     "parent": "The swing may drift a little on its own, because the string twists. A quarter turn of the stool is far bigger than that drift, so you can still see the difference."
     },
     {
      "id": "s3",
@@ -2010,8 +2017,7 @@
         "The Earth turned under the pendulum, like our stool."
        ]
       }
-     ],
-     "parent": "In Paris the swing goes all the way round in about 32 hours. In Delhi, it takes about 50 hours. India's new Parliament building has one, opened in 2023."
+     ]
     },
     {
      "id": "s4",
@@ -2041,7 +2047,6 @@
      "qty": 1
     }
    ],
-   "safety": "Turn slowly so nobody gets dizzy. Clear away anything you could bump into.",
    "schedule": [
     {
      "day": 1,
@@ -2118,7 +2123,7 @@
      "qty": 1
     }
    ],
-   "safety": "Spin slowly and stop if you feel dizzy. Never lean out of a moving vehicle.",
+   "safety": "Never lean out of a moving vehicle.",
    "schedule": [
     {
      "day": 1,
@@ -2209,7 +2214,7 @@
     },
     {
      "day": 3,
-     "mins": 5,
+     "mins": 3,
      "what": "Write today's times. Watch one sunset from a window, if you can."
     },
     {
@@ -2224,13 +2229,13 @@
     },
     {
      "day": 6,
-     "mins": 2,
-     "what": "Write today's times. Look up the times for one city far to the east and one far to the west."
+     "mins": 1,
+     "what": "Write today's times."
     },
     {
      "day": 7,
-     "mins": 2,
-     "what": "Write today's times. Work out how many hours of daylight you had, and compare."
+     "mins": 5,
+     "what": "Write today's times. Work out how many hours of daylight you had. Look up the times for one city far to the east and one far to the west, and compare."
     }
    ],
    "record": "A table with the date, sunrise time, sunset time and hours of daylight, for 7 days.",
@@ -2267,18 +2272,7 @@
      "mins": 5,
      "do": "On day 7, work out the hours of daylight. Then look up today's sunrise in a city far east and far west of you.",
      "say": "Say sunrise was at 6 in the morning and sunset at 6 in the evening. How many hours of light is that? Now, when did the Sun rise in Guwahati and in Ahmedabad today?",
-     "kid": "Count the hours from sunrise to sunset. Now find sunrise in a city far east, and far west. Which was first?",
-     "check": {
-      "t": "mcq",
-      "q": "Guwahati is far east of Ahmedabad. Whose sunrise comes first?",
-      "options": [
-       "Guwahati",
-       "Ahmedabad",
-       "The same time"
-      ],
-      "a": 0,
-      "why": "The Earth turns west to east, so Guwahati turns into the sunlight first, more than an hour before Ahmedabad. Picking 'the same time' comes from India having one clock time."
-     }
+     "kid": "Count the hours from sunrise to sunset. Now find sunrise in a city far east, and far west. Which was first?"
     }
    ]
   },
@@ -2301,9 +2295,12 @@
      "item": "a world map or globe",
      "qty": 1,
      "buy": "b-globe"
+    },
+    {
+     "item": "small paper flags or stickers, one for each place",
+     "qty": 4
     }
    ],
-   "safety": "Call people only with a grown-up, and only at a sensible time for them.",
    "schedule": [
     {
      "day": 1,
@@ -2377,7 +2374,7 @@
      "qty": 1
     }
    ],
-   "safety": "Go out at night only with a grown-up. Stay in a safe, familiar place.",
+   "safety": "Go out at night only with a grown-up.",
    "schedule": [
     {
      "day": 1,
@@ -2408,7 +2405,7 @@
      "say": "Those seven stars are the Saptarishi. The two at the end point to Dhruva Tara, the Pole Star. Let's draw them, and the rooftop.",
      "kid": "Find the seven stars of the Saptarishi. The two end stars point to Dhruva Tara. Draw them. Draw a rooftop too.",
      "adult": true,
-     "parent": "The Saptarishi is easiest to see in the evening from about February to June. In other months, look for Cassiopeia, a W shape, on the other side of the Pole Star. In very southern India, the Pole Star is low, near the horizon.",
+     "parent": "The Saptarishi is easiest to see in the evening from about February to June. In other months, look for Cassiopeia, a W shape, on the other side of the Pole Star. In very southern India, the Pole Star is low, near the horizon. In a bright city only the brightest stars show. If you cannot find the Pole Star, draw any bright star beside a fixed rooftop edge instead, and see how it moves.",
      "context": "This is the first step of the Star Clock. You draw the stars around the Pole Star so you can see them turn."
     },
     {
@@ -2585,7 +2582,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 8,
+     "mins": 10,
      "do": "1. Push the pencil straight up through the middle of the plate. 2. Stand it in a lump of clay. 3. Put it in a spot that will be sunny all day. 4. Mark where the plate sits, so you can put it back in the same place tomorrow.",
      "say": "People told the time with shadows for thousands of years before clocks. Let's make our own Sun clock.",
      "kid": "Push the pencil through the plate's middle. Stand it up in clay. Put it in a sunny spot.",
@@ -2594,7 +2591,7 @@
     },
     {
      "id": "s2",
-     "mins": 12,
+     "mins": 15,
      "do": "Every hour on the hour, draw a line along the shadow and write the clock time at its end.",
      "say": "It's 10 o'clock. Let's draw along the shadow and write 10.",
      "kid": "Every hour, draw a line along the shadow. Write the time at the end.",
@@ -2602,7 +2599,7 @@
     },
     {
      "id": "s3",
-     "mins": 5,
+     "mins": 10,
      "do": "The next day, put the sundial back in the same place. Read the time from the shadow, then check the clock.",
      "say": "What time does our sundial say? And the clock? Are they close?",
      "kid": "Put the sundial back in its spot. What time does the shadow say? Check the clock.",
@@ -2786,7 +2783,7 @@
    "youtube": "1SN1BOpLZAs",
    "mins": 4,
    "why": "A short, clear episode on why the Sun seems to move across the sky and what that does to shadows. It fits after the shadow stick experiment.",
-   "check": "Found by YouTube search. The title and channel were checked automatically through YouTube's oEmbed service. The length is estimated. A parent should preview it once."
+   "check": "Preview it once before showing your child."
   },
   {
    "title": "Sunset, Nighttime and Sunrise from the International Space Station",
@@ -2794,7 +2791,7 @@
    "youtube": "6jq8-UjhHh4",
    "mins": 3,
    "why": "Real footage from space of the day-night line passing over the Earth. Children see sunset, the night side with city lights, and sunrise in a few minutes.",
-   "check": "Found by YouTube search. The title and channel were checked automatically through YouTube's oEmbed service. The length is estimated. A parent should preview it once."
+   "check": "Preview it once before showing your child."
   },
   {
    "title": "Testing Earth's Rotation: How a Foucault Pendulum Works",
@@ -2802,7 +2799,7 @@
    "youtube": "9SdIBzZl5WA",
    "mins": 5,
    "why": "Shows a real Foucault pendulum and explains why its swing seems to turn. Watch it after the pendulum on a stool experiment.",
-   "check": "Found by YouTube search. The title and channel were checked automatically through YouTube's oEmbed service, but the content was not watched from here. A parent should preview it before showing, to check it is accurate and suitable."
+   "check": "Preview it once before showing your child."
   }
  ],
  "quiz": [
@@ -3008,7 +3005,7 @@
   "Countries set their own time zones so that noon comes roughly in the middle of their day.",
   "Pilots, ships' navigators and travellers once used the Sun and the stars to find their way.",
   "Solar panels make most power around noon, and none at night. Power companies plan for this every day.",
-  "Weather forecasters use the Earth's spin to predict which way cyclones will turn.",
+  "Weather forecasters include the Earth's spin in their models, because it bends the paths of winds and cyclones.",
   "Rockets are often launched towards the east, to get a free push from the Earth's spin.",
   "Doctors and scientists study body clocks to help night-shift workers, travellers with jet lag and people who cannot sleep.",
   "Astronomers plan when to observe a star by working out when the Earth will turn it into view.",
@@ -3102,40 +3099,12 @@
    "a": "It always has something to spin about."
   },
   {
-   "j": "Why didn't the rooster believe in sunsets?",
-   "a": "He only ever saw the bright side."
-  },
-  {
-   "j": "What did the Earth say after one full spin?",
-   "a": "That was a good day's work!"
-  },
-  {
-   "j": "Why did the night sky go to the doctor?",
-   "a": "It was feeling a bit starry-eyed."
-  },
-  {
-   "j": "How does the Earth keep fit?",
-   "a": "It does one big turn every day."
-  },
-  {
-   "j": "Why did the shadow get so tall in the evening?",
-   "a": "It ate all its dinner early."
-  },
-  {
    "j": "What did the Moon say to the Sun at sunset?",
    "a": "My turn now. You've had a long day."
   },
   {
-   "j": "Why was the owl always late for breakfast?",
-   "a": "Breakfast was in the middle of its night."
-  },
-  {
    "j": "Why did the clock in Arunachal feel tired?",
    "a": "The Sun kept getting up before it."
-  },
-  {
-   "j": "Why can't you keep a secret on a sunny day?",
-   "a": "Your shadow always follows you."
   },
   {
    "j": "What did the North Pole say to the South Pole?",
@@ -3143,89 +3112,33 @@
   },
   {
    "j": "Why did the bat stay up all night?",
-   "a": "It had a lot of hanging out to do."
+   "a": "He had a lot of hanging out to do."
   },
   {
    "j": "Why did the student bring a torch to the astronomy class?",
    "a": "To shed some light on day and night."
   },
   {
-   "j": "Why don't we feel the Earth spinning?",
-   "a": "It's very smooth about it."
-  },
-  {
    "j": "What does a sundial say on a cloudy day?",
    "a": "Sorry, I'm off duty."
-  },
-  {
-   "j": "Why did the pendulum never get lost?",
-   "a": "It always knew which way to swing."
   },
   {
    "j": "How does the Sun drink its tea?",
    "a": "In a sun-cer."
   },
   {
-   "j": "What is a sunset's favourite colour?",
-   "a": "Any colour, as long as it's going down well."
-  },
-  {
    "j": "Why did the Earth get dizzy?",
    "a": "It had been spinning for 4.5 billion years."
-  },
-  {
-   "j": "Why did night fall?",
-   "a": "Day pushed it."
   }
  ],
  "maths": [
   {
-   "problem": "In the shadow stick experiment, the shadow was 40 cm long at 9 in the morning and 8 cm long at 1 in the afternoon. How many centimetres shorter was it at 1 o'clock?",
+   "problem": "In a shadow stick test, the shadow was 40 cm long at 9 in the morning and 8 cm long at 1 in the afternoon. How many centimetres shorter was it at 1 o'clock?",
    "answer": "32 cm shorter.",
    "explain": "The shadow was 40 cm at 9. It was 8 cm at 1. 40 take away 8 is 32. So the shadow was 32 cm shorter at 1 o'clock. You can check: 8 + 32 = 40.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
    "context": "This is about the shadow stick experiment. You stand a stick in the sun and measure the length of its shadow every hour.",
    "how": "e2",
-   "chart": {
-    "type": "line",
-    "title": "Shadow length through one day (made-up results)",
-    "x": "Clock time",
-    "y": "Shadow length (cm)",
-    "data": [
-     {
-      "label": "9:00",
-      "value": 40
-     },
-     {
-      "label": "10:00",
-      "value": 25
-     },
-     {
-      "label": "11:00",
-      "value": 15
-     },
-     {
-      "label": "12:00",
-      "value": 9
-     },
-     {
-      "label": "13:00",
-      "value": 8
-     },
-     {
-      "label": "14:00",
-      "value": 13
-     },
-     {
-      "label": "15:00",
-      "value": 22
-     },
-     {
-      "label": "16:00",
-      "value": 37
-     }
-    ]
-   },
    "why_maths": "Saying 'the shadow got shorter' is a start. Taking one number from the other tells us exactly how much shorter, so we can compare days and places."
   },
   {
@@ -3266,7 +3179,7 @@
  "song": {
   "topic_level": "sci.day-night-seasons.L3",
   "title": "Turning Into the Light",
-  "note": "Topic-level song for Day, night and seasons L3. The Day and night, Seasons and Rhythms of nature units share it."
+  "note": "One song for the whole topic of day, night and seasons. It is shared with the Seasons and Rhythms of nature units."
  },
  "links": [
   {
@@ -3334,13 +3247,6 @@
    "kind": "place",
    "where": "Kodaikanal",
    "why": "An observatory that has photographed the Sun almost every day for more than a hundred years. It has a small museum for visitors."
-  },
-  {
-   "title": "Your own terrace, a beach or a field at sunrise or sunset",
-   "url": "",
-   "kind": "place",
-   "where": "anywhere",
-   "why": "Watch the Earth turn you into the light or out of it. Look for the Earth's shadow in the east after sunset."
   }
  ],
  "buy": [
@@ -3353,30 +3259,27 @@
    "used_in": [
     "e1",
     "a4"
-   ],
-   "plan": "Used again in the Seasons and Time zones units."
+   ]
   },
   {
    "id": "b-book1",
    "item": "What Makes Day and Night, by Franklyn M. Branley (Let's-Read-and-Find-Out Science)",
    "kind": "book",
-   "why": "A clear picture book that explains the spinning Earth with a lamp and a ball, for ages 4 to 8.",
+   "why": "A clear picture book that explains the spinning Earth with a lamp and a ball, for ages 4 to 8. If you buy it, read it on day 1, straight after the torch and ball experiment.",
    "url": "https://www.amazon.in/s?k=What+Makes+Day+and+Night+Franklyn+Branley",
    "used_in": [
     "e1"
-   ],
-   "plan": "If bought, read it on day 1 straight after the torch and ball experiment. It can replace the first two explanation cards."
+   ]
   },
   {
    "id": "b-book2",
    "item": "The Sun Is Kind of a Big Deal, by Nick Seluk",
    "kind": "book",
-   "why": "A funny, comic-style book about the Sun and the planets, for ages 5 to 9.",
+   "why": "A funny, comic-style book about the Sun and the planets, for ages 5 to 9. If you buy it, read it before the game Who Sees the Sun First?.",
    "url": "https://www.amazon.in/s?k=The+Sun+Is+Kind+of+a+Big+Deal+Nick+Seluk",
    "used_in": [
     "g1"
-   ],
-   "plan": "If bought, read it on the game day, before Who Sees the Sun First?."
+   ]
   }
  ],
  "warmup": [
@@ -3475,8 +3378,7 @@
    "g2",
    "ws-core",
    "a2",
-   "a4",
-   "a5"
+   "a4"
   ],
   "spine": [
    "intro",
@@ -3560,7 +3462,7 @@
   "practice": {
    "title": "Feel the ground turn",
    "mins": 3,
-   "say": "Let's go to a window or terrace at sunset, or stand facing a lamp. Stand still, facing the light, but don't look straight at the Sun. Look at the glow on the buildings or the sky beside it. Don't think of the Sun going down. Imagine the ground under your feet slowly tipping you backwards, away from it. Breathe in slowly. Breathe out slowly. The whole Earth is turning with you. Stay quiet for a moment. Who else is turning with us right now?",
+   "say": "Let's go to a window or terrace at sunset, or stand facing a lamp. Stand still, facing the light, but don't look straight at the Sun. Look at the glow on the buildings or the sky beside it. Try not to picture the Sun going down. Imagine the ground under your feet slowly tipping you backwards, away from it. Breathe in slowly. Breathe out slowly. The whole Earth is turning with you. Stay quiet for a moment. Who else is turning with us right now?",
    "kid": "Face the setting Sun, or a lamp. Do not look straight at the Sun. Stand very still. Imagine the ground tipping you slowly backwards. Breathe slowly, three times."
   },
   "ask": [

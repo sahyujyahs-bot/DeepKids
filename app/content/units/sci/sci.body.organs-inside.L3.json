@@ -263,9 +263,9 @@
    "definition": "Organs are made of cells. Almost every cell uses oxygen, breaks down food and sends and receives signals, in a tiny way of their own.",
    "description": "Look at a cell in your toe. This cell is far from your lungs, but still uses oxygen. Tiny parts inside the cell, called mitochondria, use oxygen and food to make energy. They give out carbon dioxide, which the blood carries back to the lungs. The cell also has tiny bags of strong juice that break down food and worn-out parts, a little like a tiny stomach. And the cell has sensors on the outside that notice chemicals and pass on signals. Organs are what happens when huge numbers of cells share out the work. Heart cells are very good at squeezing. Nerve cells are very good at carrying messages. But almost every cell still uses oxygen, breaks down food and senses in their own small way. The first living things, long ago, were single cells, and each one did every job alone.",
    "examples": [
-    "A single amoeba in pond water has no stomach. They wrap themselves around food and breaks it down inside a little bubble.",
+    "Amoebas in pond water have no stomach. They wrap themselves around food and break it down inside a little bubble.",
     "Heart muscle cells grown in a dish in a lab start to twitch and beat by themselves.",
-    "A bacterium has no brain, but they can sense food and swim towards it."
+    "Bacteria have no brain, but they can sense food and swim towards it."
    ],
    "perspectives": [],
    "art": "A zoomed-in circle on a toe showing one cell, with a bean-shaped mitochondrion and a small bubble of juice inside, and tiny sensors on the outside.",
@@ -327,11 +327,11 @@
    "concept": "Other animals, other plans",
    "status": "defined",
    "definition": "Most animals have organs for pumping, breathing, digesting and sensing, but they come in many shapes and numbers.",
-   "description": "An octopus has three hearts. Two pump blood through their gills and one pumps blood round their body. They also have a brain, and most of their nerve cells are in their eight arms. A cow's stomach has four parts. She brings grass back up to chew again, which is called chewing the cud. A fish has no lungs. They breathe with gills. But many fish have an air bag inside called a swim bladder, and scientists have found that lungs and swim bladders come from the same ancient beginning. A starfish can push their stomach out of their mouth to digest a mussel outside their body. And a sponge, one of the oldest kinds of animals, has no organs at all. Every cell does their own breathing and eating.",
+   "description": "Octopuses have three hearts. Two pump blood through the gills and one pumps blood round the body. They also have a brain, and most of their nerve cells are in the eight arms. A cow's stomach has four parts. A cow brings grass back up to chew again, which is called chewing the cud. Fish have no lungs. They breathe with gills. But many fish have an air bag inside called a swim bladder, and scientists have found that lungs and swim bladders come from the same ancient beginning. Starfish can push their stomach out of their mouth to digest a mussel outside the body. And sponges, among the oldest kinds of animals, have no organs at all. Every cell does its own breathing and eating.",
    "examples": [
     "Cows and buffaloes chewing slowly while resting are chewing the cud.",
-    "An earthworm has five pairs of pumping tubes near their front end, often called their five hearts.",
-    "A jellyfish has no brain. They have a net of nerves spread all through their body."
+    "Earthworms have five pairs of pumping tubes near the front end, often called five hearts.",
+    "Jellyfish have no brain. They have a net of nerves spread all through the body."
    ],
    "perspectives": [],
    "art": "Four small panels: an octopus with three hearts glowing, a cow with a four-part stomach, a fish with gills and a swim bladder, a sponge full of holes.",
@@ -341,7 +341,7 @@
    "concept": "How we found out what is inside",
    "status": "defined",
    "definition": "People learned about organs by looking carefully inside bodies, by testing ideas, and later by using X-rays and scanners.",
-   "description": "For thousands of years, nobody could see inside a living body. The ancient Egyptians, when they made mummies, took out the brain and threw it away, but kept the heart in the body. They thought the heart was where a person's thinking lived. The Greek thinker Aristotle thought so too. About 2,300 years ago, Herophilus, a Greek doctor in Alexandria, cut open human bodies and traced the nerves back to the brain. About 450 years later, the Greek doctor Galen, working in Rome, cut nerves in living animals and showed that the brain controls the voice and movement. In India, the Sushruta Samhita, an old book of surgery, told students to soak a body in a stream for seven days, then gently brush away the skin and flesh layer by layer. In 1543, Andreas Vesalius printed careful drawings of the inside of the human body, and fixed many old mistakes. In 1895, Wilhelm Röntgen found X-rays, and for the first time doctors could see bones inside a living person. Today, scanners like ultrasound and MRI let doctors see a beating heart and a working brain, without any cutting.",
+   "description": "For thousands of years, nobody could see inside a living body. In India, the Sushruta Samhita, an old book of surgery, told students to soak a body in a stream for seven days, then gently brush away the skin and flesh layer by layer. In 1543, Andreas Vesalius printed careful drawings of the inside of the human body, and fixed many old mistakes. In 1895, Wilhelm Röntgen found X-rays, and for the first time doctors could see bones inside a living person. Today, scanners like ultrasound and MRI let doctors see a beating heart and a working brain, without any cutting.",
    "examples": [
     "A pregnant mother can see her baby's beating heart on an ultrasound screen.",
     "The very first X-ray of a hand was of the hand of Röntgen's wife, Anna Bertha, wearing her ring.",
@@ -408,7 +408,7 @@
    "claim": "Stomach ulcers, sore patches in the stomach, are caused by stress and spicy food.",
    "who": "Most doctors, until the 1980s",
    "for": "Many people with ulcers were worried and busy. Spicy food can make a sore stomach feel worse.",
-   "against": "In Australia, Robin Warren found a germ in the stomachs of people with ulcers. Barry Marshall then drank a cup of these germs to prove it, and his stomach became sore and swollen inside. Medicines that kill the germ cure most ulcers. They won the Nobel Prize in 2005.",
+   "against": "In Australia, Robin Warren found a germ in the stomachs of people with ulcers. Barry Marshall then drank a cup of these germs to prove it, and his stomach became sore and swollen inside. Medicines that kill the germ cure most ulcers. Both men won the Nobel Prize in 2005.",
    "status": "rejected",
    "context": "This card is about a medical idea that turned out to be wrong, and the scientist who proved it."
   },
@@ -479,9 +479,9 @@
    "hint": "Remember the egg test: something soft in an empty jar, and something soft in a jar full of water."
   },
   {
-   "q": "A sponge has no organs, but they are alive. What is the smallest thing that can still be alive?",
+   "q": "Sponges have no organs, but they are alive. What is the smallest thing that can still be alive?",
    "kind": "deep",
-   "hint": "Remember that every cell breathes, eats and senses in their own small way."
+   "hint": "Remember that every cell breathes, eats and senses in its own small way."
   },
   {
    "q": "People used to think the heart did the thinking. Which of our ideas today might turn out to be wrong?",
@@ -498,7 +498,7 @@
   "title": "The Marble and the Pomfret",
   "mins": 10,
   "read_aloud": true,
-  "note": "Meenu, Appu, Amma and the doctor are made up. The facts are real: X-rays show glass and bones, the stomach sits under the left ribs, a fish's heart sits low behind their gills, and lungs and the swim bladders of fish come from the same ancient beginning. Small smooth swallowed things usually pass through safely, but a child who swallows anything must always see a doctor. On an X-ray the lungs look dark, because air lets X-rays through, and the heart looks paler.",
+  "note": "Meenu, Appu, Amma and the doctor are made up. The facts are real: X-rays show glass and bones, the stomach sits under the left ribs, a fish's heart sits low behind the gills, and lungs and the swim bladders of fish come from the same ancient beginning. Small smooth swallowed things usually pass through safely, but a child who swallows anything must always see a doctor. On an X-ray the lungs look dark, because air lets X-rays through, and the heart looks paler.",
   "text": [
    "Meenu did not like insides. She liked outsides. She liked the shine on a fish's skin, the blue on a crab's claw, the pink of a sunset over the Versova boats. Insides were dark and squishy and secret. When Amma cleaned fish on the back step, Meenu looked at the sky.",
    "\"You eat fish,\" said Amma, her knife quick and sure. \"You can look at fish.\"",
@@ -563,19 +563,12 @@
    "id": "g1",
    "title": "Where Am I? The Organ Clue Game",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
-   "context": "This is a clue card game about the organs inside you. A player reads a clue, and everyone races to put the right organ token in the right place on a body board.",
+   "players": "2 to 5 players",
+   "context": "This is a clue card game about the organs inside you. A player reads a clue, and the others race to put the right organ token in the right place on a body outline.",
    "printables": [
     {
-     "kind": "board",
-     "title": "A body outline board, about A3 size",
-     "items": [
-      "An outline of a child's body, front view, with the skull, rib cage and backbone drawn lightly in grey, and no organs drawn in."
-     ]
-    },
-    {
      "kind": "tokens",
-     "title": "Organ tokens to cut out, one set per player",
+     "title": "Organ tokens: draw each one on coloured paper and cut it out (one set)",
      "items": [
       "Brain",
       "Heart",
@@ -640,7 +633,7 @@
        "b": "Heart: in the middle of the chest, tipped a little to the left"
       },
       {
-       "f": "I keep you breathing even when you are fast asleep. Who am I?",
+       "f": "I take in air all night, even when you are fast asleep. Who am I?",
        "b": "Lungs: in the chest. The brain tells them to keep going."
       },
       {
@@ -668,7 +661,7 @@
        "b": "The brain"
       },
       {
-       "f": "TEAM CARD: You hold your breath. Which organ is telling you to breathe again?",
+       "f": "TEAM CARD: You smell hot pakoras and your mouth fills with water. Which organ sends that message?",
        "b": "The brain"
       },
       {
@@ -688,31 +681,21 @@
        "b": "Down the food pipe to the stomach"
       }
      ]
-    },
-    {
-     "kind": "score sheet",
-     "title": "A simple score sheet",
-     "items": [
-      "Player name",
-      "Tokens placed right",
-      "Team cards answered",
-      "Total"
-     ]
     }
    ],
    "rules": [
-    "Lay the body board in the middle. Give each player a set of organ tokens.",
-    "Shuffle the clue cards and put them face down.",
-    "One player reads the front of the top card out loud. The back has the answer.",
-    "Everyone races to put the right token in the right place on their own board outline, or points to it on the shared board.",
-    "The first player to get both the organ and the place right wins the card. Check the back.",
-    "On a TEAM card, everyone answers together and each right answer wins a card. On a FEEL IT card, everyone does it together, then says what they felt.",
-    "When the cards run out, the player with the most cards wins."
+    "Draw a big body outline on paper, about A3 size. Add a head, ribs and a backbone, but no organs. Or trace your child and add the ribs.",
+    "Cut out the organ tokens and spread them beside the outline. Shuffle the clue cards and put them face down.",
+    "Take turns to be the reader. The reader turns over the top card, reads the front out loud and checks the back. The reader does not race for that card.",
+    "Everyone else races to put the right organ token in the right place on the outline. For the lungs, place both lung tokens.",
+    "The first player to get both the organ and the place right wins the card. A player who gets it wrong sits out that card. Tokens go back beside the outline.",
+    "On a TEAM card, point to the organs on the outline. The first right answer wins the card. On a FEEL IT card, everyone does it first, and then the first right answer wins the card.",
+    "When the cards run out, the player with the most cards wins. If players tie, they share the win."
    ],
    "setup": [
     {
      "art": "A large paper body outline on the floor with grey ribs and skull, and a pile of small coloured organ cut-outs beside it.",
-     "caption": "1. Lay out the body board and the organ tokens."
+     "caption": "1. Lay out the body outline and the organ tokens."
     },
     {
      "art": "A child reading a clue card aloud while two others hold organ tokens ready to place.",
@@ -727,9 +710,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay the body board on the floor. 2. Give each player a set of organ tokens. 3. Shuffle the clue cards and put them face down.",
+     "do": "1. Draw a big body outline on paper. Add ribs and a backbone, but no organs. 2. Cut out the organ tokens. 3. Shuffle the clue cards and put them face down.",
      "say": "This is a game about the organs inside us. An organ is a body part with a special job. I read a clue, and you race to put that organ in the right place.",
-     "kid": "Lay out the body board. Take your organ tokens. Mix the clue cards. Put them face down.",
+     "kid": "Draw a big body outline. Cut out the organ tokens. Mix the clue cards. Put them face down.",
      "context": "This is the first step of Where Am I?, a clue game about where organs sit in your body. Here you set up the game."
     },
     {
@@ -737,10 +720,10 @@
      "mins": 3,
      "do": "Play one practice card together: 'I am shaped like a J. I sit under your ribs on the left. Who am I?'",
      "say": "Practice card. 'I am shaped like a J. I sit under your ribs on the left.' Who am I? And where do I go?",
-     "kid": "Practice card. A J shape, under the ribs on the left. Who is it? Put it on the board.",
+     "kid": "Practice card. A J shape, under the ribs on the left. Who is it? Put it on the outline.",
      "check": {
       "t": "mcq",
-      "q": "Where does the stomach go on the body board?",
+      "q": "Where does the stomach go on the body outline?",
       "options": [
        "Behind the belly button",
        "Under the ribs, on the left",
@@ -753,7 +736,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Take turns reading cards. 2. Everyone races to place the token. 3. Check the place on the board together before giving the card.",
+     "do": "1. Take turns to read a card. 2. Everyone else races to place the token. 3. Check the place on the outline together before giving the card.",
      "say": "Read your card. Everyone race! Then we check together: is that the right organ, in the right place?",
      "kid": "Read the clue. Race to place the organ. Check it together. Right organ and right place wins the card.",
      "parent": "Common mix-ups: putting the heart far to the left, putting the stomach low behind the belly button, and making the lungs tiny. The lungs fill most of the chest, from just above the collarbones to low down inside the ribs. The heart sits between them in the middle."
@@ -761,7 +744,7 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "When a TEAM card comes up, everyone answers together.",
+     "do": "When a TEAM card comes up, everyone races to answer.",
      "say": "Team card! 'You are running for the bus. Point to the two organs that speed up.'",
      "kid": "Team card. You are running for the bus. Which two organs speed up?",
      "check": {
@@ -780,7 +763,7 @@
      "id": "s5",
      "mins": 2,
      "do": "Count the cards. Then ask each player to point to all four big organs on their own body.",
-     "say": "Count your cards! Now, without the board, point to your own brain, heart, lungs and stomach.",
+     "say": "Count your cards! Now, without the outline, point to your own brain, heart, lungs and stomach.",
      "kid": "Count your cards. Now point to your own brain, heart, lungs and stomach.",
      "think": "Which organ was hardest to place? Why do you think so?"
     }
@@ -791,7 +774,7 @@
    "title": "Busy Day: The Body Team Game",
    "mins": 20,
    "players": "2 to 4 players",
-   "context": "This is a board game about organs working as a team. Each player looks after one organ, and event cards from a busy day tell you which organs must work harder.",
+   "context": "This is a card game about organs working as a team. Each player looks after one organ, and event cards from a busy day tell you which organs must work harder.",
    "printables": [
     {
      "kind": "cards",
@@ -829,31 +812,59 @@
     },
     {
      "kind": "tokens",
-     "title": "30 energy tokens (small paper circles)",
+     "title": "36 energy tokens (small paper circles)",
      "items": [
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
+      "⚡",
       "⚡"
-     ]
-    },
-    {
-     "kind": "board",
-     "title": "A day track from morning to night",
-     "items": [
-      "A winding track of 18 squares, from a rising sun at the start to a moon at the end."
      ]
     }
    ],
    "rules": [
-    "Each player takes an organ role card. With fewer than 4 players, some players take two.",
-    "Shuffle the event cards and put them face down.",
-    "On your turn, turn over an event card and move one square along the day track.",
-    "Every player whose organ works harder in that event says why, and takes one energy token.",
-    "If a player says why clearly, they get one more token.",
-    "The brain player can take a token on most cards, but must say what message the brain sends.",
-    "When the day ends at the moon, everyone counts tokens. Then talk: did any organ get through the day alone?"
+    "Each player takes an organ role card. With 3 players, one player takes two organs. With 2 players, each takes two.",
+    "Shuffle the event cards and put them face down. Put the energy tokens in a bowl.",
+    "On your turn, turn over an event card and read it out.",
+    "Every player whose organ works harder says why. If the others agree it is a good reason, that player takes one energy token.",
+    "The brain player must say what message the brain sends.",
+    "If the bowl runs empty, the day ends there.",
+    "When the cards run out, the team wins the day if every organ has at least 3 tokens. Then talk: did any organ get through the day alone?"
    ],
    "setup": [
     {
-     "art": "Four role cards laid out with drawings of a heart, lungs, stomach and brain, and a winding day track from a sun to a moon.",
+     "art": "Four role cards laid out with drawings of a heart, lungs, stomach and brain, and a bowl of paper lightning tokens.",
      "caption": "1. Each player takes an organ card."
     },
     {
@@ -895,17 +906,17 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Take turns turning over cards and moving along the track. 2. Players whose organ works harder take a token and say why.",
+     "do": "1. Take turns turning over cards. 2. Players whose organ works harder say why, and take a token.",
      "say": "Your turn. Read the event. Who works harder? Tell us why.",
-     "kid": "Turn a card. Move one square. Does your organ work harder? Take a token and say why.",
+     "kid": "Turn a card. Does your organ work harder? Say why. Then take a token.",
      "parent": "Good answers: running, kabaddi, swimming and stairs make the heart and lungs work harder. Meals make the stomach work harder. Hard sums, reading and dreaming keep the brain busy. A fright makes the brain speed up the heart. Sleep slows the heart and breathing, but the brain stays busy."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "At the moon, count tokens. Then ask the team question.",
-     "say": "Let's count. Now the big question. Did any organ get through the whole day alone, without the others?",
-     "kid": "Count your tokens. Did any organ do the day alone?",
+     "do": "At the end, check that every organ has at least 3 tokens. Then ask the team question.",
+     "say": "Let's count. Does every organ have 3 tokens? Now the big question. Did any organ get through the whole day alone?",
+     "kid": "Count your tokens. Does every organ have 3? Did any organ do the day alone?",
      "ask": [
       {
        "q": "Could the brain do its work without the heart?",
@@ -915,7 +926,7 @@
        ]
       }
      ],
-     "think": "Which event card made all four organs busy at once?"
+     "think": "Which event card made the most organs busy at once?"
     }
    ]
   }
@@ -1041,19 +1052,6 @@
      "why": "The brain is at the top, in the skull. The heart and both lungs share the chest, inside the ribs. The stomach is at the very top of the belly, under the left ribs, and the intestines fill the rest."
     },
     {
-     "t": "mcq",
-     "p": "Remember the egg in the jar test? You shook one egg in an empty jar and one egg in a jar full of water. Which egg cracked first?",
-     "opts": [
-      "The egg in the jar full of water",
-      "The egg in the empty jar",
-      "Both cracked at the same time",
-      "Neither egg could crack"
-     ],
-     "a": 1,
-     "why": "The egg in the empty jar banged against the hard sides and cracked. The water slowed the other egg down, so it moved with the jar. A strong answer says what was seen, not only which jar.",
-     "how": "e1"
-    },
-    {
      "t": "write",
      "p": "Your brain floats in a clear liquid inside your skull. Use what you saw in the egg in the jar test to explain how that liquid helps.",
      "lines": 3,
@@ -1144,7 +1142,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the squish bag test, the squished biscuit broke up faster. What does the squishing in your real stomach?",
+     "p": "In the squish bag test, the squished biscuit broke up faster. Which part does the squishing in your real stomach?",
      "opts": [
       "The stomach's muscle walls",
       "Your teeth",
@@ -1205,19 +1203,6 @@
      ],
      "a": 2,
      "why": "The brain sends messages along nerves that speed the heart up. The heart starts each beat by itself, but the brain changes how fast. So 'the heart decides alone' is half right, which makes this worth thinking about."
-    },
-    {
-     "t": "mcq",
-     "p": "Your left lung is a little smaller than your right lung. Why?",
-     "opts": [
-      "It is still growing",
-      "It has a dent to make room for the heart",
-      "It needs less air",
-      "It sits behind the stomach"
-     ],
-     "a": 1,
-     "why": "The heart's pointy end tips to the left, so the left lung has a dent for it. You found this when you packed the chest with dough. Both lungs grow at the same speed.",
-     "how": "c2"
     },
     {
      "t": "perspective",
@@ -1324,15 +1309,15 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A sponge is an animal that lives in the sea. Sponges have no heart, no stomach and no brain. How does a sponge stay alive?",
+     "p": "Sponges are animals that live in the sea. They have no heart, no stomach and no brain. How do sponges stay alive?",
      "opts": [
-      "They do not, sponges are not really alive",
-      "Water flows through her, and her cells take oxygen and food straight from the water",
+      "They do not need oxygen or food",
+      "Water flows through them, and their cells take oxygen and food straight from the water",
       "They borrow organs from fish",
       "They only live for one day"
      ],
      "a": 1,
-     "why": "Water flows through tiny holes in a sponge's body. Each cell takes oxygen straight from the water, and some cells catch bits of food and share them. A sponge grows, feeds and has babies, so they are alive. Organs are what happens when cells share out jobs in a bigger body."
+     "why": "Water flows through tiny holes in a sponge's body. Each cell takes oxygen straight from the water, and some cells catch bits of food and share them. Sponges grow, feed and have babies, so they are alive. Organs are what happens when cells share out jobs in a bigger body."
     },
     {
      "t": "mcq",
@@ -1379,17 +1364,10 @@
      "why": "This is a real, open debate. Both sides agree on the facts but disagree about the name."
     },
     {
-     "t": "write",
-     "p": "Every cell in your toe uses oxygen. A sponge's cells get oxygen straight from the water. So why do you need lungs and a heart at all?",
-     "lines": 4,
-     "a": "A sponge is thin, so every cell is close to the water. My toe is far from the air, deep inside a big body. Oxygen cannot reach it by itself. My lungs take oxygen into the blood, and my heart pumps the blood all the way to my toe.",
-     "why": "A strong answer compares a small, thin body with a big one. Big bodies need organs to carry things to cells far from the outside."
-    },
-    {
      "t": "odd",
-     "p": "Which is the odd one out: heart, lungs, stomach, gills? Say why.",
+     "p": "Three of these belong in your body. Which one does not: heart, lungs, stomach or gills? Say why.",
      "a": "Gills",
-     "why": "You have a heart, lungs and a stomach. Gills belong to fish. They are a fish's breathing organs, doing the job our lungs do. A heart, a stomach and gills are all in a fish, so another strong answer is 'lungs', if the child explains it."
+     "why": "You have a heart, lungs and a stomach. Gills are the breathing organs of fish, and they do the job our lungs do."
     },
     {
      "t": "fill",
@@ -1407,13 +1385,13 @@
     },
     {
      "t": "truefalse",
-     "p": "A fish's swim bladder, the air bag that helps them float, and our lungs began long ago as the same thing.",
+     "p": "The swim bladder, the air bag that helps a fish float, and our lungs began long ago as the same thing.",
      "a": true,
      "why": "True. Lungs and swim bladders come from the same ancient beginning in early fish. Some fish today, called lungfish, still breathe air with lung-like bags."
     },
     {
      "t": "match",
-     "p": "Match each animal to their surprising organ fact.",
+     "p": "Match each kind of animal to a surprising organ fact.",
      "pairs": [
       [
        "Octopus",
@@ -1425,7 +1403,7 @@
       ],
       [
        "Starfish",
-       "pushes their stomach out of their mouth to eat"
+       "push their stomach out of their mouth to eat"
       ],
       [
        "Sponge",
@@ -1475,9 +1453,9 @@
     },
     {
      "t": "write",
-     "p": "A starfish pushes their stomach out of their mouth to eat a mussel. A cow has a stomach with four parts to break down grass. Why might different animals have such different stomachs?",
+     "p": "Starfish push their stomach out of their mouth to eat a mussel. A cow has a stomach with four parts to break down grass. Why might different animals have such different stomachs?",
      "lines": 4,
-     "a": "Each stomach fits the food that animal eats. Grass is tough and hard to break down, so a cow needs four parts and a long time. A mussel is shut inside a shell, so the starfish pushes their stomach in through the gap. Same job, different food, different stomach.",
+     "a": "Each stomach fits the food that animal eats. Grass is tough and hard to break down, so a cow needs four parts and a long time. A mussel is shut inside a shell, so a starfish pushes the stomach in through the gap. Same job, different food, different stomach.",
      "why": "A strong answer links each stomach to that animal's food. The job, breaking down food, stays the same."
     }
    ]
@@ -1591,7 +1569,8 @@
       ],
       "a": 1,
       "why": "In the empty jar, the egg flies across and hits the hard sides. In the full jar, the water fills all the space. The egg moves along with the water and the jar, so it never crashes into the sides. The liquid around your brain does the same job. Picking 'both are the same' often means thinking only the hard jar protects. The jar helps, but the water protects the egg much better."
-     }
+     },
+     "parent": "If neither egg is cracked, say so honestly. Look for tiny cracks or a leak. Then try 5 more shakes, a little harder."
     },
     {
      "id": "s5",
@@ -1653,7 +1632,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do not eat the mixture. Close the bags tightly before squishing.",
    "schedule": [
     {
      "day": 1,
@@ -1783,7 +1761,7 @@
      "qty": 1
     }
    ],
-   "safety": "Crush the lump inside a folded cloth, so no bits fly. Wipe up spills so nobody slips.",
+   "safety": "Crush the lump inside a folded cloth, so no bits fly.",
    "schedule": [
     {
      "day": 1,
@@ -1802,7 +1780,7 @@
     "data": [
      {
       "label": "Whole lump",
-      "value": 8,
+      "value": 6,
       "emoji": "🧊"
      },
      {
@@ -1837,7 +1815,7 @@
     },
     {
      "id": "s2",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Put one lump inside a folded cloth. 2. Tap it with a heavy steel tumbler or a rolling pin until it is small bits. 3. Ask for a guess, and write it down.",
      "say": "This lump is now lots of small bits. Nothing was added or taken away. Which do you think will disappear into the water first, the whole lump or the bits? Why?",
      "kid": "Crush one lump inside a cloth. Tap it until it is small bits. Which will disappear first? Why? Write your guess.",
@@ -1845,11 +1823,11 @@
     },
     {
      "id": "s3",
-     "mins": 10,
-     "do": "1. Tip the whole lump into one glass and the crushed bits into the other, at the same moment. 2. You stir one and your child stirs the other, about one stir each second. 3. Write down how many minutes each takes until you can see no sugar. 4. Do it again with the other two lumps, swapping who stirs which.",
+     "mins": 12,
+     "do": "1. Tip the whole lump into one glass and the crushed bits into the other, at the same moment. 2. You stir one and your child stirs the other, about one stir each second. 3. Write down how many minutes each takes until you can see no sugar. 4. Stop timing at 6 minutes. 5. Do it again with the other two lumps, crushing one, and swap who stirs which.",
      "say": "Ready? Tip them in together. Stir gently, one stir each second. Tell me when you can see no sugar at all. Then we do it again, because one try can be a fluke.",
-     "kid": "Tip both in at the same time. Stir, one stir each second. Watch the clock. When is the sugar gone? Do it twice.",
-     "parent": "The crushed bits usually vanish in a minute or two. The whole lump takes several minutes, often much longer. If it is still there after 10 minutes, write '10 minutes and still there'. Swapping who stirs keeps the test fair."
+     "kid": "Tip both in at the same time. Stir, one stir each second. Watch the clock. Stop at 6 minutes. Do it twice.",
+     "parent": "The crushed bits usually vanish in a minute or two. The whole lump takes several minutes, often longer. If it is still there after 6 minutes, write '6 minutes and still there'. Swapping who stirs keeps the test fair."
     },
     {
      "id": "s4",
@@ -1865,7 +1843,7 @@
       "data": [
        {
         "label": "Whole lump",
-        "value": 8,
+        "value": 6,
         "emoji": "🧊"
        },
        {
@@ -1890,11 +1868,11 @@
     },
     {
      "id": "s5",
-     "mins": 4,
+     "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer for the lump test sounds like this. What I think: small bits go into water faster than one lump. What I saw: the crushed sugar was gone in 2 minutes, and the whole lump took 8 minutes. Why: the bits had much more outside touching the water. My lungs have hundreds of millions of tiny air bags, so lots of air touches my blood."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer for the lump test sounds like this. What I think: small bits go into water faster than one lump. What I saw: the crushed sugar was gone in 2 minutes, and the whole lump took 6 minutes. Why: the bits had much more outside touching the water. My lungs have hundreds of millions of tiny air bags, so lots of air touches my blood."
     }
    ]
   }
@@ -1920,7 +1898,6 @@
      "buy": "b-stethoscope"
     }
    ],
-   "safety": "No special safety needed. Press gently.",
    "schedule": [
     {
      "day": 1,
@@ -1965,7 +1942,8 @@
        ]
       }
      ],
-     "context": "This is the first step of Feel Your Inside, a short activity to notice your organs from the outside. Here you feel for your heart."
+     "context": "This is the first step of Feel Your Inside, a short activity to notice your organs from the outside. Here you feel for your heart.",
+     "parent": "If you have a stethoscope, or a tube of rolled-up paper, listen through it too. Hold it against the chest."
     },
     {
      "id": "s2",
@@ -2083,7 +2061,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Ask your child to place each organ on the map. Then read the body map card together and move any that are wrong.",
+     "do": "Ask your child to place each organ on the map. Then check the places together and move any that are wrong.",
      "say": "Put each organ where you think it goes. Now let's check with the card. Heart in the middle, tipped left. Lungs on both sides. Stomach under the ribs on the left. Brain in the head.",
      "kid": "Put each organ on your map. Now check. Heart in the middle. Lungs on both sides. Stomach under the left ribs. Brain in the head.",
      "check": {
@@ -2121,7 +2099,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer for the organ map sounds like this. What I think: my stomach is under my ribs on the left, not behind my belly button. What I saw: the body map card put it there, and I felt full there after lunch. Why: the food pipe goes down the chest and ends there."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer for the organ map sounds like this. What I think: my stomach is under my ribs on the left, not behind my belly button. What I saw: it fitted under my left ribs on the map, and I felt full there after lunch. Why: the food pipe goes down the chest and ends there."
     }
    ]
   },
@@ -2145,12 +2123,11 @@
      "qty": 1
     }
    ],
-   "safety": "Do not lift heavy bags. A grown-up handles anything breakable.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Find kitchen things that weigh about the same as a grown-up's heart, brain and lungs, and things that hold as much as a full stomach."
+     "what": "Find kitchen things that weigh about the same as a grown-up's heart and brain, and something that holds as much as a full stomach."
     }
    ],
    "record": "Make a table: organ, what weighs the same, its weight in grams.",
@@ -2176,7 +2153,7 @@
      "do": "Weigh things until you find something close to 300 grams. Let your child hold it.",
      "say": "A grown-up's heart weighs about 300 grams. Let's find something that weighs the same. Hold it. Your heart is a bit lighter, because you are smaller.",
      "kid": "A grown-up's heart is about 300 grams. Find something that weighs that much. Hold it.",
-     "context": "This is the first step of the kitchen organ weigh-in. You find kitchen things as heavy as a grown-up's heart, brain and lungs."
+     "context": "This is the first step of the kitchen organ weigh-in. You find kitchen things as heavy as a grown-up's heart and brain."
     },
     {
      "id": "s2",
@@ -2228,7 +2205,6 @@
      "qty": 4
     }
    ],
-   "safety": "Act in a clear space with nothing to trip on.",
    "schedule": [
     {
      "day": 1,
@@ -2244,11 +2220,11 @@
      "caption": "1. Make signs. The child is the Brain Mayor."
     },
     {
-     "art": "The child pointing and giving orders while the parent with the HEART sign drums fast on a tin.",
+     "art": "The child pointing and giving orders while the parent with the HEART sign taps fast on a table.",
      "caption": "2. Act out a moment. The brain sends messages."
     },
     {
-     "art": "The child slumped sleepily while the STOMACH toy is wiggled and the HEART drums slowly.",
+     "art": "The child slumped sleepily while the STOMACH toy is wiggled and the HEART taps slowly.",
      "caption": "3. Change the moment. Watch how each organ changes."
     }
    ],
@@ -2312,7 +2288,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "the printed animal cards from this activity, or a library book of animal bodies",
+     "item": "pictures of the inside of a person, a fish, a cow and an octopus, from a library book of animal bodies or a picture search on a phone",
      "qty": 1
     },
     {
@@ -2336,8 +2312,8 @@
    "context": "This activity compares our organs with the organs of other animals. You find out which animals have the same plan as us, and which are very different.",
    "setup": [
     {
-     "art": "Four picture cards laid out: a child, a fish, a cow and an octopus, each with a see-through body showing organs.",
-     "caption": "1. Lay out the animal cards."
+     "art": "Four pictures laid out: a child, a fish, a cow and an octopus, each with a see-through body showing organs.",
+     "caption": "1. Lay out the animal pictures."
     },
     {
      "art": "A child pointing at the heart on the fish card and then on the child card.",
@@ -2352,18 +2328,18 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Look at the fish card, or a real fish being cleaned if your family eats fish. Find their heart, stomach, brain and swim bladder.",
-     "say": "A fish has a brain in a bony box, a small heart low behind the gills, a stomach and a gut. They breathe with gills. It also has an air bag called a swim bladder. That air bag is a distant cousin of your lungs.",
-     "kid": "Find the fish's brain, heart and stomach. They breathe with gills. Its air bag is a cousin of your lungs.",
+     "do": "Look at the fish picture, or a real fish being cleaned if your family eats fish. Find the heart, stomach, brain and swim bladder.",
+     "say": "Fish have a brain in a bony box, a small heart low behind the gills, a stomach and a gut. They breathe with gills. They also have an air bag called a swim bladder. That air bag is a distant cousin of your lungs.",
+     "kid": "Find the fish's brain, heart and stomach. Fish breathe with gills. Their air bag is a cousin of your lungs.",
      "adult": true,
      "context": "This is the first step of Same Plan, Different Animals. You compare a fish's organs with yours.",
-     "parent": "If your family does not eat fish, use the picture card only. The swim bladder and lungs come from the same ancient beginning in early fish."
+     "parent": "If your family does not eat fish, use the picture only. The swim bladder and lungs come from the same ancient beginning in early fish."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Look at the cow and the octopus cards. Count the stomach parts and the hearts.",
-     "say": "A cow's stomach has four parts. An octopus has three hearts. Most of their nerve cells are in their arms, not its head.",
+     "do": "Look at the cow and the octopus pictures. Count the stomach parts and the hearts.",
+     "say": "A cow's stomach has four parts. An octopus has three hearts. Most of an octopus's nerve cells are in the arms, not the head.",
      "kid": "Count the cow's stomach parts. Count the octopus's hearts.",
      "check": {
       "t": "mcq",
@@ -2380,15 +2356,15 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Talk about the sponge: an animal with no organs.",
-     "say": "A sponge is one of the oldest kinds of animal. They have no heart, no stomach and no brain. So how does it stay alive?",
-     "kid": "A sponge has no heart, no stomach and no brain. How are they alive?",
+     "do": "Talk about sponges: animals with no organs.",
+     "say": "Sponges are among the oldest kinds of animal. They have no heart, no stomach and no brain. So how do they stay alive?",
+     "kid": "Sponges have no heart, stomach or brain. How do they stay alive?",
      "ask": [
       {
-       "q": "How does a sponge eat and breathe without organs?",
+       "q": "How do sponges eat and breathe without organs?",
        "good": [
         "Each cell does it alone.",
-        "Water flows through them and every cell takes what they need."
+        "Water flows through them and every cell takes what it needs."
        ]
       }
      ]
@@ -2418,7 +2394,6 @@
      "qty": 3
     }
    ],
-   "safety": "No special safety needed.",
    "schedule": [
     {
      "day": 1,
@@ -2503,9 +2478,8 @@
    "days": 3,
    "materials": [
     {
-     "item": "4 sheets of thick paper or card",
-     "qty": 4,
-     "buy": "b-chartpaper"
+     "item": "6 sheets of thick paper or card",
+     "qty": 6
     },
     {
      "item": "coloured pencils or crayons",
@@ -2514,9 +2488,14 @@
     {
      "item": "safety scissors, glue and a stapler",
      "qty": 1
+    },
+    {
+     "item": "optional: the picture book The Magic School Bus Inside the Human Body, to see what each organ looks like",
+     "qty": 1,
+     "buy": "b-bodybook"
     }
    ],
-   "safety": "A grown-up uses the stapler. Use safety scissors.",
+   "safety": "A grown-up uses the stapler.",
    "schedule": [
     {
      "day": 1,
@@ -2582,7 +2561,7 @@
      "id": "s3",
      "mins": 20,
      "wait": "Come back tomorrow to finish and share the book.",
-     "do": "1. Staple the pages together behind the cover. 2. Read the book to a younger child or a grandparent. 3. Ask them to point to their own organs.",
+     "do": "1. Staple the pages together behind the cover. 2. Read the book to a younger child, or to any other person. 3. Ask them to point to their own organs.",
      "say": "Now you are the teacher. Read your book and ask them to point to their own heart and stomach.",
      "kid": "Staple your book. Read it to someone. Ask them to point to their own heart and stomach.",
      "ask": [
@@ -2703,7 +2682,7 @@
    ],
    "general": [
     "Make the heart first, as wide as your fist and about one finger thick, and put it in the middle.",
-    "Mould the lungs around it, one on each side.",
+    "Shape the lungs around the heart, one on each side.",
     "Leave a dent in the left lung so the heart fits."
    ],
    "creative": [
@@ -2965,12 +2944,12 @@
    "p": "An octopus has three hearts. Two of them pump blood only through their gills. What does the third one do?",
    "opts": [
     "Pumps blood round the rest of the body",
-    "Helps her think",
+    "Helps the octopus think",
     "Digests food",
     "Nothing"
    ],
    "a": 0,
-   "why": "Two hearts push blood through the gills, where it picks up oxygen. The third pumps it round her body. Our one heart does both jobs, with two sides.",
+   "why": "Two hearts push blood through the gills, where it picks up oxygen. The third pumps it round the rest of the body. Our one heart does both jobs, with two sides.",
    "outcome": 7
   },
   {
@@ -3068,12 +3047,8 @@
   }
  ],
  "ask_kids": [
-  "Put your hand on your chest. Can you find your heartbeat?",
   "You just ate. Where is the food right now?",
-  "Is your brain awake while you sleep? What is it doing?",
   "Which organ is working hardest while you climb the stairs?",
-  "Can you stop your heart just by deciding to? Can you hold your breath?",
-  "Why do you think we wear helmets on scooters?",
   "If you were an organ, which would you be? Why?",
   "What do you think a fish has instead of lungs?",
   "Where do you feel it when you are nervous? Why there?",
@@ -3081,18 +3056,6 @@
   "Which organ do you think is hungriest for energy?"
  ],
  "jokes": [
-  {
-   "j": "Why did the heart get a medal?",
-   "a": "It never skipped a beat at work."
-  },
-  {
-   "j": "What did the left lung say to the right lung?",
-   "a": "Take a deep breath. We're in this together."
-  },
-  {
-   "j": "Why was the stomach so good at school?",
-   "a": "It could really digest the lessons."
-  },
   {
    "j": "Why did the brain go to the party?",
    "a": "It wanted to make some new connections."
@@ -3110,14 +3073,6 @@
    "a": "Crunches."
   },
   {
-   "j": "Why are lungs never lonely?",
-   "a": "They always come in a pair."
-  },
-  {
-   "j": "What did the brain say to the skull?",
-   "a": "Thanks for keeping a lid on things."
-  },
-  {
    "j": "Why did the stomach rumble at the cinema?",
    "a": "It heard there was a lot of popcorn."
   },
@@ -3130,52 +3085,16 @@
    "a": "Don't worry, we've got you covered."
   },
   {
-   "j": "Why did the octopus win the running race?",
-   "a": "It had three hearts in it."
-  },
-  {
-   "j": "Where does a stomach keep its savings?",
-   "a": "In the food bank."
-  },
-  {
-   "j": "Why did the cow need four stomachs?",
-   "a": "It could never decide what to have for lunch."
-  },
-  {
    "j": "What did the food pipe say to the vada?",
    "a": "Down you go!"
-  },
-  {
-   "j": "What did the doctor say to the lungs?",
-   "a": "Take a deep breath. You're doing great."
-  },
-  {
-   "j": "Why was the brain so tired?",
-   "a": "It had been thinking all night, even in its sleep."
-  },
-  {
-   "j": "What did one heart cell say to the other?",
-   "a": "Let's beat it, together."
-  },
-  {
-   "j": "Why did the sponge feel calm?",
-   "a": "It just soaked everything up."
   },
   {
    "j": "Why did the stomach write a diary?",
    "a": "It wanted to keep track of everything that went down."
   },
   {
-   "j": "What's a brain's favourite game?",
-   "a": "Mind-reading."
-  },
-  {
    "j": "Why did the X-ray machine see right through the joke?",
    "a": "It was too thin."
-  },
-  {
-   "j": "Why did the heart go to the gym?",
-   "a": "To pump some iron. Well, it pumps blood, which has iron in it."
   }
  ],
  "maths": [
@@ -3225,9 +3144,9 @@
    "context": "This is about the kitchen organ weigh-in, where you held a 1-litre bottle to feel how much a full stomach holds."
   },
   {
-   "problem": "Say that in the lump or bits test, the whole lump of mishri took 8 minutes to disappear and the crushed lump took 2 minutes. How many times as long did the whole lump take?",
-   "answer": "4 times as long.",
-   "explain": "The whole lump took 8 minutes. The crushed lump took 2 minutes. 8 divided by 2 is 4. You can check: 2 plus 2 plus 2 plus 2 is 8. So the whole lump took 4 times as long.",
+   "problem": "Say that in the lump or bits test, the whole lump of mishri took 6 minutes to disappear and the crushed lump took 2 minutes. How many times as long did the whole lump take?",
+   "answer": "3 times as long.",
+   "explain": "The whole lump took 6 minutes. The crushed lump took 2 minutes. 6 divided by 2 is 3. You can check: 2 plus 2 plus 2 is 6. So the whole lump took 3 times as long.",
    "math_unit": "math.division.sharing-and-grouping.L3",
    "how": "e3",
    "why_maths": "Dividing tells us 'how many times as long', which shows how much breaking sugar into small bits speeds it up.",
@@ -3240,7 +3159,7 @@
     "data": [
      {
       "label": "Whole lump",
-      "value": 8,
+      "value": 6,
       "emoji": "🧊"
      },
      {
@@ -3324,12 +3243,6 @@
    "kind": "place",
    "where": "Kolkata",
    "why": "A science museum with galleries on the human body."
-  },
-  {
-   "title": "TED: Suzana Herculano-Houzel, What is so special about the human brain?",
-   "url": "https://www.ted.com/",
-   "kind": "interactive",
-   "why": "For the parent: search the TED site for this talk by the scientist who counted the brain's nerve cells."
   }
  ],
  "buy": [
@@ -3337,11 +3250,10 @@
    "id": "b-chartpaper",
    "item": "Large chart paper or a roll of brown paper",
    "kind": "material",
-   "why": "For tracing your child for the life-size organ map, and for the lift-the-flap book.",
+   "why": "For tracing your child for the life-size organ map.",
    "url": "https://www.amazon.in/s?k=chart+paper+roll",
    "used_in": [
-    "a2",
-    "p1"
+    "a2"
    ]
   },
   {
@@ -3352,8 +3264,7 @@
    "url": "https://www.amazon.in/s?k=digital+kitchen+scale",
    "used_in": [
     "a3"
-   ],
-   "plan": "Used again in other measuring units."
+   ]
   },
   {
    "id": "b-stethoscope",
@@ -3363,8 +3274,7 @@
    "url": "https://www.amazon.in/s?k=stethoscope+for+kids",
    "used_in": [
     "a1"
-   ],
-   "plan": "Used much more in the Heart, blood and breath unit."
+   ]
   },
   {
    "id": "b-bodybook",
@@ -3373,20 +3283,7 @@
    "why": "A picture-book trip through the stomach, blood, heart and brain.",
    "url": "https://www.amazon.in/s?k=magic+school+bus+inside+the+human+body",
    "used_in": [
-    "a2",
     "p1"
-   ],
-   "plan": "Read one part each day after the organ map, and look for each organ in the book."
-  },
-  {
-   "id": "b-model",
-   "item": "Human body torso model with removable organs",
-   "kind": "tool",
-   "why": "A 3D model where your child can lift out the heart, lungs and stomach and put them back.",
-   "url": "https://www.amazon.in/s?k=human+torso+model+kids",
-   "used_in": [
-    "a2",
-    "c2"
    ]
   }
  ],
@@ -3420,16 +3317,12 @@
    "a": "The stomach."
   },
   {
-   "q": "How many hearts does an octopus have?",
-   "a": "Three."
+   "q": "What is a cell?",
+   "a": "The tiniest living piece of a body."
   },
   {
    "q": "What floats around your brain to cushion it?",
    "a": "A clear liquid."
-  },
-  {
-   "q": "True or false: we only use ten per cent of our brain.",
-   "a": "False. We use almost all of it."
   }
  ],
  "plan": {
@@ -3516,9 +3409,9 @@
  "roots": {
   "context": "We have been learning where the heart, lungs, stomach and brain are, and what they do. Now we ask what these organs tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Shake a raw egg or a ripe banana piece in an empty jar, and it cracks or squashes. In a jar filled to the top with water, it stays whole. Your brain floats in liquid inside your skull, and that liquid protects it the same way. Hard bone alone would not keep a soft brain safe.",
+   "truth": "Shake a raw egg or a ripe banana piece in an empty jar, and it usually cracks or squashes. In a jar filled to the top with water, it stays whole. Your brain floats in liquid inside your skull, and that liquid protects it the same way. Hard bone alone would not keep a soft brain safe.",
    "habit": "We often think that keeping something safe means making it hard, like armour. But a soft thing inside a hard case can still crash into the walls and break. Your body keeps its softest organ safe with liquid as well as bone.",
-   "evidence": "In the egg in the jar test, the egg in the empty jar cracked first, and the egg in the jar full of water stayed whole. Inside your skull, your brain floats in a clear liquid in the same way. A cricket helmet copies the idea, with a hard shell outside and soft foam inside."
+   "evidence": "In the egg in the jar test, the egg in the empty jar usually cracks first, and the egg in the jar full of water stays whole. Inside your skull, your brain floats in a clear liquid in the same way. A cricket helmet copies the idea, with a hard shell outside and soft foam inside."
   },
   "three": {
    "who_am_i": "You are a team of organs, from your brain to your stomach, and every one of them is made of living cells.",
@@ -3564,17 +3457,15 @@
    "kid": "Sit still. Close your eyes. Hand on your chest. Feel your heart. Feel your breath. Feel your tummy. Stay for five slow breaths."
   },
   "ask": [
-   "Who is beating your heart? Is it you?",
    "If you are made of many organs, are you one thing or many things?",
-   "A heart from one person can keep another person alive. Whose heart is it then?",
    "Which part of you is noticing all your other parts?"
   ],
   "art": "A child sitting cross-legged with eyes closed, a soft glow showing a heart, two lungs, a stomach and a brain inside, joined by gentle golden threads into one shape."
  },
  "how_we_found_out": {
-  "story": "About 2,350 years ago, the Greek thinker Aristotle taught that the heart does our thinking and feeling. He thought the brain was there to cool the blood. Many people agreed, because the heart races when we are scared or excited. Some Greek doctors disagreed. In Alexandria, about 2,300 years ago, Herophilus cut open human bodies and traced the nerves back to the brain. About 1,850 years ago, the Greek doctor Galen, working in Rome, tested the idea in front of an audience. He cut two thin nerves in the neck of a squealing pig. The pig went silent, though their heart kept beating and they kept breathing. Galen showed that these nerves came from the brain, not the heart. So the brain, he said, controls the voice. He also cut the spinal cord of animals at different places, and showed which parts of the body could no longer move. Today we have even stronger proof. People living with a machine that pumps their blood still think, laugh and remember.",
+  "story": "About 2,350 years ago, the Greek thinker Aristotle taught that the heart does our thinking and feeling. He thought the brain was there to cool the blood. Many people agreed, because the heart races when we are scared or excited. Some Greek doctors disagreed. In Alexandria, about 2,300 years ago, Herophilus cut open human bodies and traced the nerves back to the brain. About 1,850 years ago, the Greek doctor Galen, working in Rome, tested the idea in front of an audience. He cut two thin nerves in the neck of a squealing pig. The pig went silent, though the heart kept beating and the pig kept breathing. Galen showed that these nerves came from the brain, not the heart. So the brain, he said, controls the voice. He also cut the spinal cord of animals at different places, and showed which parts of the body could no longer move. Today we have even stronger proof. People living with a machine that pumps their blood still think, laugh and remember.",
   "who": "Aristotle, Herophilus and Galen",
   "when": "About 350 BCE (Aristotle), about 300 BCE (Herophilus) and about 160 CE (Galen's pig experiment)",
-  "wrong_idea": "Aristotle taught that the heart does the thinking and the brain only cools the blood. Galen cut the nerves that control a pig's voice, and showed that they come from the brain. The pig fell silent while their heart kept beating."
+  "wrong_idea": "Aristotle taught that the heart does the thinking and the brain only cools the blood. Galen cut the nerves that control a pig's voice, and showed that they come from the brain. The pig fell silent while the heart kept beating."
  }
 }
