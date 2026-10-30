@@ -15,7 +15,7 @@
 6. I can name living things that sense the Earth's magnetic field, and say what scientists do not yet know about how they do it.
 
 ## Terms
-- **Magnet**: An object that attracts iron without touching it. Two magnets can attract each other or repel each other. *e.g.* A fridge magnet holds a list on the fridge door, because the door has iron in it.
+- **Magnet**: A magnet is a piece of metal or stone that pulls things made of iron or steel towards it. Its pull works even across a small gap, through air or paper. Every magnet has two ends, called poles, where the pull is strongest. *e.g.* A fridge magnet holds a list on the fridge door, because the door has iron in it.
 - **Attract**: To draw something closer. A magnet attracts iron: the iron moves towards the magnet and sticks to it. *e.g.* Hold a magnet a little above a steel pin. The magnet attracts the pin, and the pin jumps up to it.
 - **Repel**: To push something away. Two magnets can repel each other. If two magnets attract each other, turn one of them round. Now they push apart instead. *e.g.* Slide two ring magnets onto a pencil. If they snap together, take one off and turn it over. Now it floats above the other, because they repel.
 - **Magnetic force**: A force is a push or a pull. A magnetic force is the force a magnet puts on iron, or on another magnet. It can attract or repel, it acts without touching, and it gets weaker quickly with distance. *e.g.* A fridge magnet's force is strong enough to hold a sheet of paper on the fridge door.
