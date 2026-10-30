@@ -1,0 +1,116 @@
+{
+  "id": "ice-storm-forest",
+  "title": "What does an ice storm do to a forest?",
+  "blurb": "Instead of waiting for a real ice storm, scientists in the USA made their own, spraying water over trees on freezing nights.",
+  "topics": [
+    "sci.earth.weather-and-climate.L3",
+    "sci.water.water-cycle.L3",
+    "sci.habitats.habitats.L3"
+  ],
+  "tags": [
+    "weather",
+    "ice",
+    "trees",
+    "climate"
+  ],
+  "year": 2020,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/ice-storm-forest-1.jpg",
+    "alt": "A scientist in an orange suit spraying water from a hose over frosted trees at night",
+    "credit": "Figure 1, Rustad and Leuenberger, Frontiers for Young Minds, CC BY 4.0"
+  },
+  "source": {
+    "name": "Frontiers for Young Minds",
+    "title": "Ice Storms: Not as Cool as They Seem",
+    "authors": "Lindsey Rustad, Wendy Leuenberger",
+    "year": 2024,
+    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2024.1371125",
+    "license": "CC BY 4.0"
+  },
+  "original": {
+    "title": "Experimental approach and initial forest response to a simulated ice storm experiment in a northern hardwood forest",
+    "authors": "Lindsey E. Rustad, John L. Campbell, Charles T. Driscoll, Timothy J. Fahey, Peter M. Groffman, Paul G. Schaberg and others",
+    "journal": "PLoS ONE",
+    "year": 2020,
+    "url": "https://doi.org/10.1371/journal.pone.0239619"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "An ice storm happens when rain falls through freezing air and turns to ice as it lands. Every twig gets a glassy coat. It looks beautiful, but ice is heavy. Ice storms are hard to study. Nobody knows when one will come, and it is not safe to be outside in one. So how can scientists learn what they do to trees?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Lindsey Rustad is a senior research ecologist with the USDA Forest Service in the USA. She worked with a big team at the Hubbard Brook Experimental Forest in New Hampshire, an outdoor laboratory since 1955. Wendy Leuenberger, a PhD student at Michigan State University, helped tell the story for kids. The first results came out in 2020."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "They marked 10 forest plots, each about the size of a basketball court. Plots got no ice, light ice, medium ice or heavy ice. Two medium plots were iced again the next winter. On 4 freezing, still nights in January 2016, 40 scientists sprayed stream water over the trees with firefighting pumps. The fine mist froze as it landed.",
+      "img": {
+        "src": "media/research/ice-storm-forest-2.jpg",
+        "alt": "A scientist watching at night as crews spray water high over the forest",
+        "credit": "Figure 2, Rustad and Leuenberger, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "Light ice did little harm. Medium and heavy ice snapped many branches and toppled some trees. Maple branches often broke, while spruce branches bent down like folded umbrellas and sprang back when the ice melted. One heavy storm brought down almost 5 times the branches that fall in a normal year. A second storm the next winter brought down twice as much as the first.",
+      "img": {
+        "src": "media/research/ice-storm-forest-3.jpg",
+        "alt": "Wendy Leuenberger measuring the ice on twigs in a forest coated with ice",
+        "credit": "Figure 3, Rustad and Leuenberger, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "The team measured the ice to check their storms matched real ones. But this is one forest, and the story is not over. Damage kept growing for years. Some healthy trees grew weak, and some weak trees died. How long the forest takes to recover fully is still unknown, so the scientists will keep watching for decades."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Scientists think large ice storms may happen more often as the climate changes, and in places that rarely had them. Forests give us clean air and water, wood, nuts and homes for animals. They also store carbon. Knowing how ice harms trees helps people look after forests and get ready for storms."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Make a tiny ice storm, with a grown-up's help. Kavya bends a pipe cleaner into a little tree and dips it in water. She puts it in the freezer for 20 minutes. She dips and freezes it three more times. Now hold it out sideways. Does it droop more than before? Why?"
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "The scientists harmed some trees on purpose to learn about ice storms. Is it fair to hurt a small part of a forest to help forests everywhere? If you were in charge, what rules would you set for an experiment like this?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "ice storm",
+          "m": "rain that freezes the moment it touches trees, roads and wires"
+        },
+        {
+          "w": "experiment",
+          "m": "a fair test to find out what happens"
+        },
+        {
+          "w": "plot",
+          "m": "a marked patch of land used in an experiment"
+        },
+        {
+          "w": "canopy",
+          "m": "the top layer of a forest, where branches and leaves meet like a roof"
+        },
+        {
+          "w": "climate",
+          "m": "the usual weather of a place over many years"
+        }
+      ]
+    }
+  ]
+}

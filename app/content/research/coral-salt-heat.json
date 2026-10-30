@@ -1,0 +1,117 @@
+{
+  "id": "coral-salt-heat",
+  "title": "Can salty water help corals survive a heatwave?",
+  "blurb": "Corals turn white when the sea gets too hot. Tiny sea anemones kept in saltier water lost less colour, a clue to the tough corals of the Red Sea.",
+  "topics": [
+    "sci.habitats.water-habitats.L3",
+    "sci.ecology.interdependence.L3",
+    "sci.states.dissolving.L3",
+    "sci.earth.oceans.L3"
+  ],
+  "tags": [
+    "coral",
+    "ocean",
+    "salt",
+    "heat"
+  ],
+  "year": 2017,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/coral-salt-heat-1.jpg",
+    "alt": "Drawings and photos of tiny sea anemones after heat: see-through in low salt, brownest in high salt, with a bar chart",
+    "credit": "Figure 2, Gegner and Voolstra, Frontiers for Young Minds, CC BY 4.0"
+  },
+  "source": {
+    "name": "Frontiers for Young Minds",
+    "title": "A Salty Coral Secret: How High Salinity Helps Corals To Be Stronger",
+    "authors": "Hagen M. Gegner, Christian R. Voolstra",
+    "year": 2019,
+    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2019.00038",
+    "license": "CC BY 4.0"
+  },
+  "original": {
+    "title": "High salinity conveys thermotolerance in the coral model Aiptasia",
+    "authors": "Hagen M. Gegner, Maren Ziegler, Nils Rädecker, Carol Buitrago-López, Manuel Aranda, Christian R. Voolstra",
+    "journal": "Biology Open",
+    "year": 2017,
+    "url": "https://doi.org/10.1242/bio.028878"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "Corals are animals that build reefs. Tiny algae live inside them and give them food and colour. When the sea gets too hot, corals lose their algae and turn white. This is called bleaching. Yet corals in the Red Sea cope with very hot water. The Red Sea is also very salty. Could the salt be part of their secret?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Hagen Gegner did this research for his PhD in Saudi Arabia, working with Christian Voolstra and their colleagues. Christian studies how animals and plants team up with tiny living things. Their study was published in 2017."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "Corals are hard to keep in a lab. So the team used Aiptasia, a tiny sea anemone. These anemones are close cousins of corals and carry the same algae. The team kept them in low, medium or high salt water at 25°C. Then they heated half of each group to 34°C for 8 days, and counted the algae left inside.",
+      "img": {
+        "src": "media/research/coral-salt-heat-2.jpg",
+        "alt": "A drawing comparing the simple cell layers of a coral and an Aiptasia anemone, with algae living inside",
+        "credit": "Figure 1, Gegner and Voolstra, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "All the heated anemones bleached, but not equally. In low salt, only about 14 of every 100 algae stayed. In medium salt about 31 stayed, and in high salt about 37. So the saltiest water protected them best. The photos agreed. High-salt anemones stayed brownish, and low-salt ones went see-through."
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "This was one experiment, on anemones, not on real corals. The team does not yet know how the salt helps. Here is one idea. In salty water, the animals make more of some molecules called osmolytes. These balance the salt in their cells. Osmolytes may also clean up harmful molecules made during heat. Next they plan to test real Red Sea corals.",
+      "img": {
+        "src": "media/research/coral-salt-heat-3.jpg",
+        "alt": "A cherry split open after rain, and a diagram of water moving towards the sugary side, which is called osmosis",
+        "credit": "Figure 3, Gegner and Voolstra, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Coral reefs are colourful homes for sea life, and they are in danger as the oceans warm up quickly. Not all corals bleach at the same temperature. Finding out why some corals are tougher could help scientists understand bleaching and look after reefs."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "See salt pull water. Lakshmi puts a cucumber slice in a bowl of plain water. She puts another in very salty water: three big spoons of salt in one cup of water. After 30 minutes, she bends each slice gently. Which one is floppy? The salt pulled water out of the cucumber's cells."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "Red Sea corals live in hot, salty water and seem tougher for it. Should people make reefs saltier to protect them? Or should we first find out exactly why salt helps? What could go wrong if we changed the sea?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "bleaching",
+          "m": "when corals lose their algae in hot water and turn white"
+        },
+        {
+          "w": "algae",
+          "m": "tiny water plants that make food from sunlight"
+        },
+        {
+          "w": "salinity",
+          "m": "how salty the water is"
+        },
+        {
+          "w": "anemone",
+          "m": "a soft sea animal, a close cousin of corals, with no skeleton"
+        },
+        {
+          "w": "osmosis",
+          "m": "water moving towards the side with more salt or sugar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "aditya-l1-solar-flare",
+  "title": "What did India's Sun telescope see during a giant solar flare?",
+  "blurb": "Aditya-L1's ultraviolet camera caught a huge flare on 22 February 2024, in colours of light where no one had pictured a flare up close before.",
+  "topics": [
+    "sci.sky.the-sun.L3",
+    "sci.sky.sun-moon-stars.L3",
+    "sci.light.what-is-light.L3",
+    "sci.light.colour.L3"
+  ],
+  "tags": [
+    "Sun",
+    "Aditya-L1",
+    "India",
+    "light"
+  ],
+  "year": 2025,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/aditya-l1-solar-flare-1.jpg",
+    "alt": "Part of the Sun in ultraviolet light, with a bright flare inside a blue box",
+    "credit": "Figure 1a, Roy, Tripathi and others, The Astrophysical Journal Letters (2025), CC BY 4.0"
+  },
+  "source": {
+    "name": "The Astrophysical Journal Letters",
+    "title": "Near- and Mid-ultraviolet Observations of X-6.3 Flare on 2024 February 22 Recorded by the Solar Ultraviolet Imaging Telescope on board Aditya-L1",
+    "authors": "Soumya Roy, Durgesh Tripathi, Sreejith Padinhatteeri, A. N. Ramaprakash and others",
+    "year": 2025,
+    "url": "https://doi.org/10.3847/2041-8213/adb0be",
+    "license": "facts retold in our own words"
+  },
+  "original": {
+    "title": "Near- and Mid-ultraviolet Observations of X-6.3 Flare on 2024 February 22 Recorded by the Solar Ultraviolet Imaging Telescope on board Aditya-L1",
+    "authors": "Soumya Roy, Durgesh Tripathi, Sreejith Padinhatteeri, A. N. Ramaprakash, Abhilash R. Sarwade and others",
+    "journal": "The Astrophysical Journal Letters",
+    "year": 2025,
+    "url": "https://doi.org/10.3847/2041-8213/adb0be"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "A solar flare is a sudden, huge burst of energy on the Sun. Scientists often study flares in X-rays. But there are very few pictures of flares in near and middle ultraviolet light. Ultraviolet is light just beyond violet, which our eyes cannot see. What does a big flare look like in those colours?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Soumya Roy and Durgesh Tripathi work at the Inter-University Centre for Astronomy and Astrophysics, IUCAA, in Pune. With scientists from ISRO, IISER Kolkata, Manipal and other places, they studied pictures from SUIT, the Solar Ultraviolet Imaging Telescope. SUIT rides on India's Aditya-L1, launched on 2 September 2023. They published in 2025."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "SUIT has 11 filters, and 8 of them are narrow. Each narrow filter lets through just one thin slice of ultraviolet light. On 22 February 2024, a big flare called X6.3 burst near a sunspot. SUIT photographed it through 8 narrow filters, about once a minute. The team compared these pictures with data from other telescopes, in space and on the ground.",
+      "img": {
+        "src": "media/research/aditya-l1-solar-flare-2.jpg",
+        "alt": "Eight small ultraviolet pictures of the same flare, one for each SUIT filter, each in a different false colour",
+        "credit": "Figure 2, Roy, Tripathi and others, The Astrophysical Journal Letters (2025), CC BY 4.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "The flare showed up in all 8 filters. In four of them, it was brightest at the same moment as its strongest X-rays. In two, it peaked about 2 minutes later. In the last two, it peaked later still. In one ultraviolet colour, they saw small bright spots called kernels, for the first time. It was also the first close look at a flare in four of these colours.",
+      "img": {
+        "src": "media/research/aditya-l1-solar-flare-3.jpg",
+        "alt": "The flare region in eight ultraviolet colours, with black arrows pointing to two small bright kernels",
+        "credit": "Figure 1b to 1i, Roy, Tripathi and others, The Astrophysical Journal Letters (2025), CC BY 4.0"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "This is one flare, the first big flare SUIT saw on the face of the Sun. Many instruments agreed on its timing, which makes the results stronger. Some questions are still open. Why do the colours peak at different times? What makes the kernels? Answering these needs many more flares."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Flares suddenly heat the Sun's layers. Scientists still argue about where some of a flare's light comes from. Seeing flares in new colours gives new clues. SUIT watches the Sun regularly, so it will catch many more flares. This study shows what the telescope can do."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Find the edge of the rainbow. Never look straight at the Sun. Harini puts a glass tumbler full of water on a sunny windowsill, with white paper on the floor below. She moves the paper until she sees a little rainbow. Which colour is at each end? Just beyond the violet end is ultraviolet, the light SUIT sees."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "Each SUIT filter shows the same flare a little differently. Which picture shows the real flare? Or are they all real, each showing one part of the truth? Can you think of something at home that looks different in different light?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "solar flare",
+          "m": "a sudden, huge burst of energy on the Sun"
+        },
+        {
+          "w": "ultraviolet",
+          "m": "light just beyond violet, which our eyes cannot see"
+        },
+        {
+          "w": "filter",
+          "m": "something that lets only certain colours of light through"
+        },
+        {
+          "w": "sunspot",
+          "m": "a dark, cooler patch on the Sun"
+        },
+        {
+          "w": "kernel",
+          "m": "a small, very bright spot in a flare"
+        }
+      ]
+    }
+  ]
+}

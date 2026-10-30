@@ -1,0 +1,112 @@
+{
+  "id": "super-saturn-rings",
+  "title": "Did astronomers find a planet with rings far bigger than Saturn's?",
+  "blurb": "A faraway star dimmed and flickered for two months. The best explanation is a giant set of rings, about 200 times wider than Saturn's.",
+  "topics": [
+    "sci.sky.solar-system.L3",
+    "sci.sky.sun-moon-stars.L3",
+    "sci.light.transparent-opaque.L3"
+  ],
+  "tags": [
+    "planets",
+    "rings",
+    "stars",
+    "telescopes"
+  ],
+  "year": 2015,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/super-saturn-rings-1.jpg",
+    "alt": "A drawing of giant rings in the evening sky above an old university building in Leiden",
+    "credit": "Figure 5, Kenworthy, Frontiers for Young Minds, CC BY 4.0 (image: Kenworthy, Leiden)"
+  },
+  "source": {
+    "name": "Frontiers for Young Minds",
+    "title": "Seeing the Shadow of Rings around a “Super Saturn”",
+    "authors": "Matthew Kenworthy",
+    "year": 2016,
+    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2016.00025",
+    "license": "CC BY 4.0"
+  },
+  "original": {
+    "title": "Modeling giant extrasolar ring systems in eclipse and the case of J1407b: sculpting by exomoons?",
+    "authors": "Matthew A. Kenworthy, Eric E. Mamajek",
+    "journal": "The Astrophysical Journal",
+    "year": 2015,
+    "url": "https://doi.org/10.1088/0004-637X/800/2/126"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "Saturn has beautiful rings. Could a planet going round another star have rings too? Planets around other stars are very hard to see. They are too far away and too faint. So how could anyone find rings around a planet that nobody can see?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Eric Mamajek is a professor at the University of Rochester in the USA. He and his student Mark Pecaut spotted a very strange star. Matthew Kenworthy, an astronomer at Leiden Observatory in the Netherlands, worked with Eric to explain it. They published their model of the rings in 2015."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "A set of eight cameras called SuperWASP photographs the night sky every night. By 2010 it had measured the light of over 18 million stars, and the data was shared online. Eric and Mark searched it for young stars. One star, called J1407, did something odd in 2007. Over two months it faded, brightened, almost vanished for a week, then came back.",
+      "img": {
+        "src": "media/research/super-saturn-rings-2.jpg",
+        "alt": "A graph of the star's brightness dipping down and up many times in April and May 2007",
+        "credit": "Figure 2, Kenworthy, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "The only idea that made sense was rings inside rings, passing in front of the star. From how fast the light changed, they worked out the size. The rings are over 180 million kilometres across, about 200 times wider than Saturn's rings. They circle an unseen planet, which was named J1407b.",
+      "img": {
+        "src": "media/research/super-saturn-rings-3.jpg",
+        "alt": "A diagram of the planet J1407b and its huge rings going round the star J1407, seen from above and from Earth",
+        "credit": "Figure 4, Kenworthy, Frontiers for Young Minds, CC BY 4.0 (image: Kenworthy, Leiden)"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "Rings are the simplest explanation for the light pattern, but nobody has seen the planet itself. A telescope that sees heat found no glow. So the planet must be at most 80 times heavier than Jupiter. The team is waiting for the rings to cross the star again. Nobody knows when that will happen."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Rings around young planets may slowly clump together into moons. Saturn probably once had much bigger rings, which became its moons. J1407b may let us watch that happen. It also shows that just measuring a star's light, night after night, can reveal things we cannot see."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Make a flickering star. In a dark room, Kavya's mother shines a phone torch at a wall. Kavya cuts rings with gaps from a paper plate. She moves the rings slowly through the beam. Watch the bright spot on the wall. When does it dim? When does it brighten? Never point the torch at anyone's eyes."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "Nobody has seen J1407b or its rings. We only saw a star's light flicker for two months. Is that enough to say the rings are real? Or should we wait until we see them cross the star again? What would it take to convince you?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "astronomer",
+          "m": "a scientist who studies stars, planets and space"
+        },
+        {
+          "w": "transit",
+          "m": "when a planet or its rings pass in front of a star and block some of its light"
+        },
+        {
+          "w": "ring system",
+          "m": "a flat circle of rocks, ice and dust going round a planet"
+        },
+        {
+          "w": "telescope",
+          "m": "a tool that collects light to see faraway things"
+        }
+      ]
+    }
+  ]
+}

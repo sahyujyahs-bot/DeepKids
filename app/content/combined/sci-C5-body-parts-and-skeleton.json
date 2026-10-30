@@ -5,22 +5,22 @@
  "level": 5,
  "n": "body-parts-and-skeleton",
  "day_mins": 45,
- "title": "Inside the cage: the organs that keep us alive, and how they work together",
- "source": "DeepKids Combined. Covers NIOS Class 5 Lesson 13 'Internal Organs of the Human Body' (skeleton, joints and muscles; digestive organs; lungs; heart and blood; kidneys; brain and nerves; reproductive organs). No textbook needed.",
- "summary": "Your child opens the skeleton's cage from Class 4 and finds what it protects: lungs that pull in air with a muscle underneath them, a heart that pumps blood round in a circle, kidneys that filter all your blood many times a day, and a brain that runs it all through nerves. They build a bottle lung, listen to a heartbeat with a funnel, filter 'blood' through a model kidney and time their own reflexes. Then they find out that organs work as teams, that we carry spares, that a kidney can live on in someone else, and that scientists are still arguing about what counts as an organ.",
- "builds_on": "Class 1: body parts, bones, joints and muscles. Class 4: the skeleton's four jobs, including protecting organs (skull, ribs, spine), muscle pairs, and other kinds of skeleton. Here: the organs themselves and the systems they form. The Class 5 Digestion rung follows food through the gut in detail.",
+ "title": "Organs: what is inside the body, and how the parts work together",
+ "source": "DeepKids Combined. Covers NIOS Class 5 Lesson 13 'Internal Organs of the Human Body' (skeleton, joints and muscles, digestive organs, lungs, heart and blood, kidneys, brain and nerves, reproductive organs). No textbook needed.",
+ "summary": "Your heart has beaten hundreds of millions of times, and you never once told it to. Your child finds out what the skeleton protects: lungs that fill when a muscle underneath pulls down, a heart that pumps blood round in a circle, kidneys that filter all the blood many times a day, and a brain that controls it all through nerves. They build a bottle lung, listen to a heartbeat through a funnel, filter model blood and time their own reactions. Then they find out that organs work as a team, that the body has spare capacity, that a kidney can work inside another person, and that scientists still argue about what counts as an organ.",
+ "builds_on": "Class 1: body parts, bones, joints and muscles. Class 4: the skeleton's four jobs, including protecting organs (skull, ribs, spine), muscle pairs, and other kinds of skeleton. Here: the organs themselves and the systems they form. The Class 5 lesson on digestion follows food through the gut in detail.",
  "subconcepts": [
   "an organ is a body part with a special job, made of tissues and cells",
   "organ systems: organs working as a team",
   "voluntary and involuntary muscles, and the heart muscle that never rests",
   "lungs, the diaphragm and the alveoli: getting oxygen in and carbon dioxide out",
   "the heart, a four-chambered pump, and blood going round in a circle (circulation and the pulse)",
-  "kidneys filter the blood and make urine; the bladder stores it",
+  "kidneys filter the blood and make urine, and the bladder stores it",
   "the brain, spinal cord and nerves: messages and reflexes",
   "the digestive organs in one journey, and the liver's hundreds of jobs",
   "homeostasis: feedback loops keep the body just right",
   "nerves send fast messages, hormones send slow ones",
-  "your body is a history book: each system was inherited from older life",
+  "where our organs came from: each one first appeared in older animals and was passed down",
   "reproductive organs, with their correct names, and how every baby begins",
   "spare capacity and organ donation: one kidney can be enough, and can live on in another person",
   "how we came to know: from Ibn al-Nafis to Harvey",
@@ -46,7 +46,7 @@
   ],
   [
    "diaphragm",
-   "the dome-shaped muscle under the lungs that pulls down to suck air in"
+   "the dome-shaped muscle under the lungs. When it pulls down, air flows in."
   ],
   [
    "alveoli",
@@ -89,38 +89,38 @@
   {
    "n": 1,
    "title": "What is inside the cage?",
-   "goal": "Recall the skeleton's job of protecting, and start a life-size organ map.",
+   "goal": "Recall the skeleton's job of protecting, and start a life-size map of the organs.",
    "steps": [
     {
      "kind": "warmup",
      "title": "Remember the cage",
      "mins": 7,
-     "do": "Ask your child: 'In Class 4 you learnt four jobs of the skeleton. Which one is about protecting?' (skull guards the brain, ribs guard the heart and lungs, the spine guards the spinal cord). 'What do you think is so precious it needs a bone cage?' Write their guesses down. Then ask them to name every muscle pair they remember (biceps and triceps)."
+     "do": "Ask your child: 'In Class 4 you learnt four jobs of the skeleton. Which one is about protecting?' (the skull covers the brain, the ribs cover the heart and lungs, the spine covers the spinal cord). 'What do you think is so important that it needs a cage of bone?' Write their guesses down. Then ask them to name a pair of muscles that work together (biceps and triceps)."
     },
     {
      "kind": "talk",
      "title": "What is an organ?",
      "mins": 10,
-     "do": "Say: 'Your body is made of trillions of tiny living cells. Cells of the same kind join to make tissues, like muscle or nerve. Different tissues join to make an organ, a part with a special job. Organs that work together make a system.' Show it with a pile of bricks (cells), a wall (tissue), a room (organ) and a house (system). Ask: 'Is your skin an organ?' (yes, the biggest one: it has several tissues and jobs). 'Is a bone?' (yes, each bone counts as an organ too)."
+     "do": "Say: 'Your body is made of trillions of tiny living cells. Cells of the same kind join to make a tissue, like muscle or nerve. Different tissues join to make an organ, a body part with a special job. Organs that work together make an organ system.' Show it with blocks: one block is a cell, a row is a tissue, a small tower is an organ and a whole building is a system. Ask: 'Is your skin an organ?' (yes, the biggest one: it has several tissues and several jobs). 'Is a bone an organ?' (yes, each bone counts as an organ too)."
     },
     {
      "kind": "act",
      "title": "Life-size organ map",
      "mins": 22,
-     "do": "Start Activity a1 and the project. Draw round your child on a big sheet. Cut organ shapes from coloured paper using the sizes in the activity: a brain, two lungs, a heart, a liver, a stomach, a long strip of small intestine, a fat strip of large intestine, two kidneys and a bladder. Place them where your child thinks they go before checking against your hand guide. Do not glue yet: you will move them as you learn. Ask: 'Which surprised you most?' (often that the heart is in the middle, slightly left, not far left; and that the liver is so big).",
+     "do": "Start Activity a1 and the project. Draw round your child on a big sheet. Cut organ shapes from coloured paper, using the sizes in the activity: a brain, two lungs, a heart, a liver, a stomach, a long strip of small intestine, a fat strip of large intestine, two kidneys and a bladder. Your child places them where they think they go. Do not glue yet: you will move them as you learn. Ask: 'Which surprised you most?' (often that the heart is near the middle, and that the liver is so big).",
      "ref": "a1"
     },
     {
      "kind": "talk",
      "title": "Your hand is a ruler",
      "mins": 6,
-     "do": "Show that your child's fist is about the size of their own heart, and two fists side by side are about the size of the two kidneys together. Put a fist in the middle of the chest, tipped slightly left: 'That is where your heart is.' Put both fists on the back, just above the waist on either side of the spine: 'Your kidneys are here, tucked under the bottom ribs.'"
+     "do": "Show your child that their fist is about the size of their own heart. Put the fist in the middle of the chest, tipped slightly to the left: 'That is where your heart is.' Put both fists on the back, just above the waist, one on each side of the spine: 'Your kidneys are here, tucked under the bottom ribs. Each one is a little smaller than your fist.'"
     }
    ],
    "need": [
     "a big sheet of paper or newspaper taped together",
     "coloured paper, scissors, a marker",
-    "a few bricks or blocks (optional)"
+    "a few blocks or small boxes (optional)"
    ]
   },
   {
@@ -132,26 +132,26 @@
      "kind": "warmup",
      "title": "Breath count",
      "mins": 6,
-     "do": "Your child sits still for one minute while you count their breaths (one in-and-out is one). Then they hop on the spot for one minute and you count again. Write both numbers. Ask: 'Why did it go up?' (muscles need more oxygen and make more carbon dioxide). Then: 'Put your hands on your lower ribs and breathe in deeply. What moves?' (the ribs lift out, the tummy pushes out)."
+     "do": "Your child sits still for one minute while you count their breaths (one in and one out is one breath). Then they hop on the spot for one minute and you count again. Write both numbers. Ask: 'Why do you think it went up?' (working muscles need more oxygen and make more carbon dioxide). Then: 'Put your hands on your lower ribs and breathe in deeply. What moves?' (the ribs lift out and the tummy pushes out)."
     },
     {
      "kind": "exp",
      "title": "The bottle lung",
      "mins": 18,
-     "do": "Do Experiment e1: a plastic bottle with its bottom cut off, a balloon inside as a lung and a stretched balloon or plastic sheet across the bottom as the diaphragm. Pull the bottom sheet down: the balloon fills. Push it up: the balloon empties. Ask: 'What is the bottom sheet pretending to be?' (the diaphragm). 'What fills the lung, a push from outside or the air rushing in?' (air rushes in because the space got bigger).",
+     "do": "Do Experiment e1. A grown-up makes the model first: a plastic bottle with its bottom cut off, a balloon inside as a lung, and a balloon sheet stretched across the bottom as the diaphragm. Ask: 'What will happen to the balloon inside if you pull the bottom sheet down?' Your child pulls it down: the balloon fills. They push it up: the balloon empties. Ask: 'What is the bottom sheet standing for?' (the diaphragm). 'Did we blow air into the balloon?' (no, air flowed in by itself because the space inside the bottle got bigger).",
      "ref": "e1"
     },
     {
      "kind": "talk",
      "title": "Into the blood",
      "mins": 12,
-     "do": "Say: 'Air goes in at the nose, down the windpipe, which splits into two tubes, one for each lung, and these branch like a tree into smaller and smaller tubes. At the very ends are about 500 million tiny bags called alveoli, each wrapped in tiny blood tubes. Oxygen slips through their thin walls into the blood. Carbon dioxide, a waste gas from your cells, slips the other way and you breathe it out.' Ask: 'If you spread out all the alveoli flat, how big would they be?' (about the size of a badminton court or bigger, which is why so much oxygen gets in). Ask: 'Where does the carbon dioxide you breathe out go next?' (into the air, where plants take it in: the breath we share with trees)."
+     "do": "Say: 'Air goes in at the nose and down the windpipe. The windpipe splits into two tubes, one for each lung, and these branch again and again into smaller tubes. At the very ends are about 500 million tiny air bags called alveoli. Each one is wrapped in tiny blood tubes. Oxygen passes through their thin walls into the blood. Carbon dioxide, a waste gas from your cells, passes the other way, and you breathe it out.' Ask: 'If you spread all the alveoli out flat, how big do you think they would be?' (nearly the size of a badminton court, which is why so much oxygen can get in)."
     },
     {
      "kind": "think",
      "title": "Smoke and dust",
      "mins": 9,
-     "do": "Ask: 'What happens to smoke and dust that we breathe in?' Explain that the tubes are lined with sticky mucus and tiny hairs that sweep dirt up and out, which is why we cough. But smoke from cigarettes, beedis, burning rubbish and the thick air of a polluted winter in many Indian cities damages the alveoli. Ask: 'Who in our town breathes the most smoke?' (people working near traffic, children in homes cooking on wood fires without a chimney). 'What could change that?' Listen; don't give the answer."
+     "do": "Ask: 'What do you think happens to the smoke and dust we breathe in?' Then explain: the tubes are lined with sticky mucus and tiny hairs that sweep dirt up and out, which is why we cough. But smoke from cigarettes and beedis, burning rubbish and the smoggy winter air in many Indian cities damages the alveoli. Ask: 'Who in our town breathes the most smoke?' (people who work near traffic, families who cook on wood fires without a chimney). 'What could change that?' Listen, and let your child give their own ideas."
     }
    ],
    "need": [
@@ -167,14 +167,14 @@
      "kind": "exp",
      "title": "Funnel stethoscope and pulse",
      "mins": 15,
-     "do": "Do Experiment e2. Fit a kitchen funnel into a length of plastic tube. Your child holds the open end gently to their ear while you hold the funnel on their chest, a little left of the middle. Listen for 'lub-dub'. Then find the pulse on the inside of the wrist with two fingers (not the thumb) and count for 30 seconds; double it. Count again after one minute of skipping.",
+     "do": "Do Experiment e2. Push a kitchen funnel into a length of plastic tube. Your child holds the open end of the tube gently near their ear while you hold the funnel on their chest, a little left of the middle. Listen for 'lub-dub'. Then find the pulse on the inside of the wrist with two fingers, not the thumb. Count for 30 seconds and double it. Count again after one minute of skipping.",
      "ref": "e2"
     },
     {
      "kind": "talk",
      "title": "A pump with four rooms",
      "mins": 12,
-     "do": "Draw a heart as a box with four rooms: two small ones on top (atria) and two big ones below (ventricles), the left side and right side separated by a wall. Explain: 'The right side pumps tired blood to the lungs to pick up oxygen. It comes back to the left side, which pumps it, full of oxygen, all round the body. So blood goes through the heart twice on every round trip.' Ask: 'Why is the left side's wall thicker?' (it has to push blood all the way to the toes and brain). The 'lub-dub' is the sound of valves, little doors, snapping shut to stop blood flowing backwards."
+     "do": "Draw a heart as a box with four rooms, called chambers: two small ones on top (the atria) and two big ones below (the ventricles). A wall separates the left side from the right side. Explain: 'The right side pumps blood that has used up its oxygen to the lungs. There it picks up fresh oxygen and comes back to the left side. The left side pumps it all round the body. So blood goes through the heart twice on every round trip.' Ask: 'The wall of the left side is thicker. Why do you think that is?' (it has to push blood all the way to the toes and the brain). Say: 'The lub-dub you heard is the sound of valves, small flaps like doors, snapping shut so blood cannot flow backwards.'"
     },
     {
      "kind": "talk",
@@ -206,31 +206,31 @@
      "kind": "warmup",
      "title": "How much water?",
      "mins": 6,
-     "do": "Ask: 'How much water do you think your two kidneys filter in one day?' Let them guess, then say: 'About 180 litres of liquid from your blood, roughly a big drum full. They put back almost all of it and send only one or two litres out as urine.' Ask: 'Why not throw it all away?' (you would dry out)."
+     "do": "Ask: 'How much liquid do you think your two kidneys filter out of your blood in one day?' Let them guess. Then say: 'About 180 litres, nearly a big drum full. They put back almost all of it, and send only one or two litres out as urine.' Ask: 'Why not throw it all away?' (you would dry out)."
     },
     {
      "kind": "exp",
      "title": "A model kidney",
      "mins": 15,
-     "do": "Do Experiment e3. Mix 'blood': water, a few drops of food colouring (waste), a handful of dried peas or rajma (blood cells) and some rice (proteins). Pour it through a sieve lined with a coffee filter or thin cloth over a jar. Ask: 'What went through? What stayed behind?' Explain that real kidneys work like a million tiny sieves, then take back the water and useful things the body needs.",
+     "do": "Do Experiment e3. Make model blood: water with a few drops of food colouring (the waste), a handful of dried peas or rajma (the blood cells) and some rice (the proteins). Ask: 'What will go through the sieve, and what will stay behind?' Pour it through a sieve lined with a thin cloth over a jar. Look at what went through. Explain that each kidney has about a million tiny filters. Then the kidney takes back the water and the useful things the body needs, which our sieve cannot do.",
      "ref": "e3"
     },
     {
      "kind": "read",
      "title": "Read the story",
      "mins": 16,
-     "do": "Read aloud 'Half of Enough', the story in this rung, narrated by a kidney. Before reading, say: 'This story is told by a kidney. It is gentle; nobody is hurt.' After reading, ask the story questions."
+     "do": "Read aloud 'Half of Enough', the story in this lesson. It is told by a kidney. Before reading, say: 'This story is told by a kidney. Nobody dies in it.' After reading, ask the story questions."
     },
     {
      "kind": "talk",
      "title": "The first kidney gift",
      "mins": 8,
-     "do": "Tell your child about voice v3: the first successful kidney transplant, between twin brothers in 1954. Ask: 'Why do you think the first one was between identical twins?' (their bodies are so alike that one body does not attack the other's organ as a stranger). Then the voice question.",
+     "do": "Tell your child about voice v3: the first successful kidney transplant, between twin brothers in 1954. Ask: 'Why do you think the first one was between identical twins?' (their bodies are so alike that one body does not attack the other's kidney as a stranger). Then ask the voice question.",
      "ref": "v3"
     }
    ],
    "need": [
-    "water, food colouring, dried peas or rajma, rice, a sieve, a coffee filter or thin cotton cloth, two jars",
+    "water, food colouring, dried peas or rajma, rice, a sieve, a thin cotton cloth such as an old handkerchief, two jars",
     "the story text"
    ]
   },
@@ -243,26 +243,26 @@
      "kind": "warmup",
      "title": "Did you choose that?",
      "mins": 6,
-     "do": "Ask your child to do these and say 'chose' or 'didn't choose' for each: wave, blink (after keeping eyes open a long time), swallow, heartbeat, breathe, scratch nose, sneeze. Say: 'Muscles you control are voluntary, like your arm. Muscles that work by themselves are involuntary, like your heart and stomach. Your breathing is both: it goes by itself, but you can hold it for a while.'"
+     "do": "Ask your child to do each of these and say 'I chose it' or 'I didn't choose it': wave, blink (after keeping the eyes open a long time), swallow, heartbeat, breathe, scratch the nose, sneeze. Say: 'Muscles you control are called voluntary, like your arm muscles. Muscles that work by themselves are involuntary, like your heart and stomach. Breathing is both: it goes on by itself, but you can hold your breath for a while.'"
     },
     {
      "kind": "exp",
      "title": "The ruler drop",
      "mins": 14,
-     "do": "Do Experiment e4. You hold a 30 cm ruler at the top; your child holds finger and thumb open at the zero end without touching. Drop it without warning; they catch it as fast as they can. Read the centimetre where they caught it. Try five times with each hand, and then once while they count backwards from 50. Ask: 'Did counting make you slower? Why?' (the brain was busy).",
+     "do": "Do Experiment e4. Hold a 30 cm ruler at the top. Your child holds finger and thumb open at the zero end, without touching it. Drop it without warning, and they catch it as fast as they can. Read the centimetre mark where they caught it. Try five times with each hand, then three times while they count backwards from 50. Ask first: 'Will counting backwards make you faster or slower? Why?' Afterwards ask what happened (most children are slower, because the brain is busy with another job).",
      "ref": "e4"
     },
     {
      "kind": "talk",
      "title": "Brain, cord and nerves",
      "mins": 15,
-     "do": "Say: 'Your brain is about 1.3 kilograms of soft tissue, protected by the skull and floating in liquid. It has about 86 billion nerve cells. Nerves run from it, down the spinal cord inside your backbone, to every part of you, carrying messages as tiny electrical signals.' Draw the brain and show three parts: the big wrinkly cerebrum (thinking, seeing, feeling, choosing), the cerebellum at the back (balance and smooth movement) and the brain stem joining the spinal cord (breathing and heartbeat). Then the reflex: your child sits with legs crossed and you tap gently just below the kneecap with the side of your hand: the leg kicks. Say: 'That message went to the spinal cord and straight back, without asking the brain. Reflexes keep you safe fast: pulling your hand off a hot tawa before you even feel it.'"
+     "do": "Say: 'Your brain weighs about 1.3 kilograms. It is soft, and it floats in liquid inside the skull. It has about 86 billion nerve cells. Nerves run from it, down the spinal cord inside your backbone, to every part of you. They carry messages as tiny electrical signals.' Draw the brain and show three parts: the big wrinkled cerebrum (thinking, seeing, feeling, choosing), the cerebellum at the back (balance and smooth movement), and the brain stem, which joins the spinal cord (breathing and heartbeat). Then try a reflex. Your child sits with legs crossed, and you tap gently just below the kneecap with the side of your hand. The leg kicks. Say: 'That message went to the spinal cord and straight back, without waiting for the brain. A reflex is a fast action you do not choose. It keeps you safe: you pull your hand off a hot tawa almost before you feel the pain.'"
     },
     {
      "kind": "think",
      "title": "Heart or brain?",
      "mins": 10,
-     "do": "Tell your child the challenge: Aristotle, a great Greek thinker, believed the heart was where we think and feel, and that the brain cooled the blood. Ask: 'Why might he have thought so?' (the heart races when we are scared or excited; it is warm; the brain looks like grey jelly). 'What evidence shows it is the brain?' (head injuries change thinking; people live with artificial hearts and think perfectly well). Ask: 'Why do we still say \"I love you with all my heart\"?'"
+     "do": "Tell your child: Aristotle, a great thinker in ancient Greece, believed that the heart was where we think and feel, and that the brain only cooled the blood. Ask: 'Why might he have thought so?' (the heart races when we are scared or excited, it is warm, and the brain looks like grey jelly). 'What evidence shows that we think with the brain?' (head injuries change thinking, and people with machine hearts think perfectly well). Ask: 'Why do we still say \"I love you with all my heart\"?'"
     }
    ],
    "need": [
@@ -285,14 +285,14 @@
      "kind": "talk",
      "title": "The food organs in one journey",
      "mins": 10,
-     "do": "Trace a mouthful of food with a finger on the map: mouth, food pipe (oesophagus), stomach, small intestine (about 6 metres, coiled), large intestine, out. Point to the liver: 'The biggest organ inside you. It makes bile to break up fat, stores sugar, and cleans poisons out of the blood: it does hundreds of jobs.' Tell your child about voice v4, Gerty Cori, who found how the liver and muscles pass sugar back and forth, and ask its question. Say: 'The Digestion rung will follow food in much more detail.'",
+     "do": "Trace a mouthful of food with a finger on the map: mouth, food pipe (oesophagus), stomach, small intestine (about 6 metres long in a grown-up, coiled up), large intestine, and out. Point to the liver: 'This is the biggest organ inside you. It makes bile, which breaks fat into small drops. It stores sugar and removes poisons from the blood. It has hundreds of jobs.' Tell your child about voice v4, Gerty Cori, who found how the liver and the muscles pass sugar back and forth, and ask her question. Say: 'Another lesson, on digestion, follows food in much more detail.'",
      "ref": "v4"
     },
     {
      "kind": "game",
      "title": "The Red Cell Run",
      "mins": 15,
-     "do": "Play the board game g1. Each player is a red blood cell carrying oxygen round the body, and the squares are organs. Talk about each square as you land on it.",
+     "do": "Play the board game g1. Each player is a red blood cell carrying oxygen round the body, and the squares are parts of the body. Talk about each square as you land on it.",
      "ref": "g1"
     },
     {
@@ -311,36 +311,36 @@
   },
   {
    "n": 7,
-   "title": "Keeping just right: nerves, hormones and the body's history",
-   "goal": "See how the body keeps itself balanced with fast nerve messages and slow hormone messages, and read the body as a history book.",
+   "title": "Keeping just right, and where our organs came from",
+   "goal": "See how the body keeps itself balanced with fast nerve messages and slow hormone messages, and find out where our organs first came from.",
    "steps": [
     {
      "kind": "warmup",
      "title": "A bell and a drop",
      "mins": 7,
-     "do": "Ring a bell (or clap) in one room: your child, in the next room, hears it at once. Then drop one drop of food colouring into a still glass of water and watch it spread slowly for a minute. Say: 'Your body has two ways of sending messages. Nerves are like the bell: fast electric signals along wires, for right now. Hormones are like the colour: chemicals let into the blood that spread everywhere, slowly, and last a long time.'"
+     "do": "Clap in one room while your child stands in the next room: they hear it at once. Then put one drop of food colouring into a still glass of water and watch it spread slowly for a minute. Say: 'Your body sends messages in two ways. Nerves are like the clap: fast electrical signals, for right now. Hormones are like the colour: chemicals let out into the blood. They spread everywhere slowly, and their effect lasts longer.'"
     },
     {
      "kind": "talk",
      "title": "The slow messengers",
      "mins": 9,
-     "do": "Name four hormones and where they come from. Adrenaline, from the adrenal glands that sit like little caps on top of the kidneys: when a dog barks suddenly, it makes the heart race and the breath quicken, ready to run. Insulin, from the pancreas behind the stomach: after a meal it tells cells to take sugar out of the blood. Growth hormone, from the pituitary, a gland the size of a pea under the brain: much of it is let out during deep sleep at night. Melatonin, which rises in the dark and helps us feel sleepy. Ask: 'Which hormone could explain why you grow while you sleep?' and 'Why might bright screens at bedtime make it hard to fall asleep?'"
+     "do": "Name four hormones and where they come from. Adrenaline comes from the adrenal glands, which sit like small caps on top of the kidneys. When a dog barks suddenly, adrenaline makes the heart race and the breathing speed up, ready to run. Insulin comes from the pancreas, behind the stomach. After a meal it tells cells to take sugar out of the blood. Growth hormone comes from the pituitary, a gland the size of a pea under the brain. Much of it is let out during deep sleep. Melatonin comes from a tiny gland in the brain. It rises in the dark and helps us feel sleepy. Ask: 'Which hormone could explain why children grow while they sleep?' and 'Why might a bright screen at bedtime make it hard to fall asleep?'"
     },
     {
      "kind": "act",
      "title": "Drama: the Body Council",
      "mins": 15,
-     "do": "Your child is the Brain Mayor, sitting on a chair. You and any toys are the Council: Skin Sensor, Sweat Team, Heart Drummer, Adrenal Gland. Act out four emergencies, one at a time: a hot kitchen in May, a dog that barks suddenly, skipping lunch, bedtime. For each: the sensor reports ('Cheeks hot!'), the Mayor decides, the team acts ('Sweat on!'), and then the sensor reports again ('Cooler now') so the Mayor can switch it off. Say: 'This loop, notice, act, check, stop, is called a feedback loop. Your body keeps itself at about 37 degrees, with just enough water and sugar, by running loops like this all day. That balance is homeostasis.' End with bee breath (bhramari): hum on five slow out-breaths and feel how the heart calms. Ask: 'Which system did that, fast or slow?'"
+     "do": "Your child is the Brain, sitting on a chair. You and some toys are the helpers: Skin Sensor, Sweat Team, Heart Drummer and Adrenal Gland. Act out four situations, one at a time: a hot kitchen in May, a dog that barks suddenly, skipping lunch, and bedtime. For each one, the sensor reports ('Cheeks hot!'), the Brain decides, the team acts ('Sweat on!'), and the sensor reports again ('Cooler now'), so the Brain can switch it off. Say: 'Notice, act, check, stop: this is called a feedback loop. Your body keeps itself at about 37 degrees, with just enough water and sugar, by running loops like this all day. Keeping the body steady like this is called homeostasis.' End with bee breath (bhramari): hum softly on five slow breaths out. Say: 'Long, slow breaths out help your heart beat a little slower.'"
     },
     {
      "kind": "act",
-     "title": "Your body is a history book",
+     "title": "Where our organs came from",
      "mins": 14,
-     "do": "Draw a long strip of paper as a timeline. Mark, from left to right, with a small drawing each: the first cells with an oily skin around them, about 3.8 billion years ago (scientists think); bacteria swallowed by another cell that stayed and became mitochondria, the tiny power stations in nearly every one of your cells, roughly 2 billion years ago; the first animals with nerves and muscles, more than 600 million years ago; the first backbones in fish-like swimmers, over 500 million years ago; lungs, which first grew in fish over 400 million years ago, long before any animal walked on land; four limbs, about 370 million years ago; and you, today. Say: 'Your skin, your nerves, your lungs and your backbone were each invented long ago by some other creature and handed down. None of them was made just for humans.' Ask: 'Which page of the history book surprised you most?'"
+     "do": "Draw a long strip of paper as a timeline. From left to right, mark each of these with a small drawing. The first cells, with a thin oily covering, about 3.5 to 4 billion years ago (scientists think). Bacteria that went to live inside another cell and became mitochondria, the tiny parts that release energy in nearly every one of your cells, roughly 2 billion years ago. The first animals with nerves and muscles, more than 550 million years ago. The first backbones, in small fish-like swimmers, over 500 million years ago. Lungs, which first grew in fish over 400 million years ago, before any animal walked on land. Four limbs, about 370 million years ago. And you, today. Say: 'The covering of your cells, your nerves, your lungs and your backbone first appeared in other animals long ago, and were passed down to you.' Ask: 'Which of these surprised you most?'"
     }
    ],
    "need": [
-    "a bell, a glass of water and food colouring",
+    "a glass of water and food colouring",
     "a chair and some toys",
     "a long strip of paper and pencils"
    ]
@@ -354,26 +354,26 @@
      "kind": "talk",
      "title": "A note for the parent, then the talk",
      "mins": 15,
-     "do": "Parent note: children who know the correct names for their private parts are safer and less embarrassed, and doctors recommend using them. Keep your voice calm and matter-of-fact, the same as for the heart. Say: 'Every person has reproductive organs, which are for making babies when grown up. A girl has two ovaries inside her belly, which hold tiny eggs, and a uterus, also called the womb, where a baby can grow; the opening outside is the vulva, and the passage inside is the vagina. A boy has two testes in a bag of skin called the scrotum, which will make sperm when he is grown, and a penis. When a grown-up woman's egg and a grown-up man's sperm join, the joined cell can grow in the uterus for about nine months into a baby. You began as one cell smaller than a full stop.' Answer questions simply and truthfully; it is fine to say 'That is a good question for when you are older' about anything you do not want to go into today."
+     "do": "Parent note: children who know the correct names for their private parts are safer and less embarrassed, and doctors advise using them. Keep your voice calm and matter-of-fact, the same as for the heart. Say: 'Every person has reproductive organs. They are for making babies when a person is grown up. A girl has two ovaries inside her belly, which hold tiny eggs. She has a uterus, also called the womb, where a baby can grow. The opening outside is the vulva, and the passage inside is the vagina. A boy has two testes in a bag of skin called the scrotum. When he is grown, they will make sperm. He also has a penis. When a grown-up woman's egg and a grown-up man's sperm join, the joined cell can grow in the uterus for about nine months into a baby. You began as one cell, smaller than a full stop.' Answer questions simply and truthfully. It is fine to say 'That is a good question for when you are older' about anything you do not want to go into today."
     },
     {
      "kind": "talk",
      "title": "My body, my rules",
      "mins": 8,
-     "do": "Agree your family's body-safety rules together and write them on the organ map: the parts covered by a swimsuit are private; nobody should touch them or ask to see them except a parent or doctor helping to keep you clean or healthy, and then a trusted grown-up is there; no secrets about touching, ever; you can always tell a trusted grown-up, and you will never be in trouble for telling. Name three trusted grown-ups."
+     "do": "Agree your family's body-safety rules together and write them on the organ map. The parts covered by a swimsuit are private. Nobody should touch them or ask to see them, except a parent or doctor helping to keep you clean or healthy, and then a trusted grown-up is there. No secrets about touching, ever. You can always tell a trusted grown-up, and you will never be in trouble for telling. Name three trusted grown-ups."
     },
     {
      "kind": "think",
      "title": "Is the list of organs finished?",
      "mins": 12,
-     "do": "Tell your child about voice v2: the 2018 claim that a network of fluid-filled spaces all through the body, the interstitium, is a newly noticed organ. Also tell them that in 2016 an Irish surgeon, J. Calvin Coffey, argued that the mesentery, the folded sheet that holds the intestines in place, should count as one organ, not many bits. Ask: 'Who decides what counts as an organ? What would you need to see?'",
+     "do": "Tell your child about voice v2: the claim in 2018 that a network of spaces filled with fluid, all through the body, is an organ that had not been noticed. It is called the interstitium. Also tell them that in 2016 an Irish surgeon, J. Calvin Coffey, argued that the mesentery, the folded sheet that holds the intestines in place, should count as one organ. Ask: 'Who decides what counts as an organ? What would you need to see?'",
      "ref": "v2"
     },
     {
      "kind": "do",
      "title": "Spare parts",
      "mins": 10,
-     "do": "Ask: 'How many kidneys does Rekha have at the end of the story?' (one). 'Is she ill?' (no). Explain: 'Most of our organs can do much more than we usually need. One kidney can do the work of two; it even grows a little bigger. A person can live a healthy life with one lung, or after losing a large part of the liver, which regrows.' Ask: 'Why might a body be built with spare capacity?' (for emergencies, for hard work, for getting older). Then: 'Is spare capacity wasted, or is it wise?'"
+     "do": "Ask: 'How many kidneys does Revathi have at the end of the story?' (one). 'Is she ill?' (no). Explain: 'Most organs can do much more work than we usually need. One kidney can do the work of two, and it grows a little bigger. A person can live with one lung, or after losing a large part of the liver, which grows back.' Ask: 'Why might a body be built with spare capacity?' (for emergencies, for hard work, and for getting older). Then ask: 'Is spare capacity wasted, or is it wise?'"
     }
    ],
    "need": [
@@ -384,7 +384,7 @@
   {
    "n": 9,
    "title": "Teach it back",
-   "goal": "Review all the organs, do the challenge sheet and teach the rung back.",
+   "goal": "Review all the organs, do the challenge worksheet and teach it all back.",
    "steps": [
     {
      "kind": "review",
@@ -396,14 +396,14 @@
      "kind": "ws",
      "title": "Challenge worksheet",
      "mins": 15,
-     "do": "Do Worksheet ws3. These are hard; let your child think aloud and argue with you.",
+     "do": "Do Worksheet ws3. These questions are hard. Let your child think aloud and argue with you.",
      "ref": "ws3"
     },
     {
      "kind": "think",
      "title": "Big questions",
      "mins": 5,
-     "do": "Ask one: 'Your heart has beaten about 300 million times since you were born, and you never once told it to. Who is in charge of your body: you, or your body?'"
+     "do": "Ask: 'Your heart has beaten about 300 million times since you were born, and you never once told it to. Who is in charge of your body: you, or your body?'"
     },
     {
      "kind": "check",
@@ -485,7 +485,7 @@
       },
       {
        "t": "mcq",
-       "p": "What does the 'lub-dub' sound come from?",
+       "p": "Your heart makes a 'lub-dub' sound. What makes that sound?",
        "opts": [
         "valves snapping shut",
         "food in the stomach",
@@ -538,7 +538,7 @@
      [
       {
        "t": "match",
-       "p": "Each organ needs another. Match them.",
+       "p": "Each part of the body needs another. Match them.",
        "pairs": [
         [
          "muscles need oxygen from",
@@ -570,8 +570,8 @@
         "chewing"
        ],
        "cats": [
-        "voluntary (I choose)",
-        "involuntary (it happens)"
+        "voluntary (I choose it)",
+        "involuntary (it happens by itself)"
        ]
       },
       {
@@ -601,11 +601,11 @@
       },
       {
        "t": "mcq",
-       "p": "The left side of the heart has a thicker wall because…",
+       "p": "The left side of the heart has a thicker wall than the right side. Why?",
        "opts": [
         "it pumps blood all round the body",
         "it is older",
-        "it holds food"
+        "it pumps blood only to the lungs"
        ],
        "a": 0
       },
@@ -629,7 +629,7 @@
       },
       {
        "t": "write",
-       "p": "A runner at the end of a race is puffing and red-faced. Explain what her lungs, heart and blood are doing, and why.",
+       "p": "Meenakshi has just finished a race. She is breathing fast and her face is red. Explain what her lungs, heart and blood are doing, and why.",
        "lines": 4
       }
      ]
@@ -657,17 +657,17 @@
       },
       {
        "t": "mcq",
-       "p": "Ibn al-Nafis described blood going from the heart to the lungs and back in the 1200s. Why did most European doctors not know about it until the 1900s?",
+       "p": "Ibn al-Nafis, a doctor in Cairo, described blood going from the heart to the lungs and back in the 1200s. Why did most doctors in Europe not know about it?",
        "opts": [
-        "his writing was in Arabic and was rediscovered only in 1924",
-        "it was wrong",
+        "his book was in Arabic, was hardly read in Europe, and was found again only in 1924",
+        "his idea was wrong",
         "he hid it on purpose"
        ],
        "a": 0
       },
       {
        "t": "mcq",
-       "p": "Why was the first transplant between identical twins?",
+       "p": "The first kidney transplant that worked was between identical twins. Why?",
        "opts": [
         "their bodies are so alike the organ is not attacked as a stranger",
         "twins have three kidneys",
@@ -677,7 +677,7 @@
       },
       {
        "t": "mcq",
-       "p": "You catch the ruler at 15 cm on one try and 25 cm while counting backwards. What does that show?",
+       "p": "Kavya catches a falling ruler at 15 cm. When she counts backwards at the same time, she catches it at 25 cm. What does that show?",
        "opts": [
         "a busy brain reacts more slowly",
         "your hand got tired",
@@ -687,7 +687,7 @@
       },
       {
        "t": "fill",
-       "p": "The network of fluid-filled spaces some scientists called a new organ in 2018 is the ____.",
+       "p": "In 2018 some scientists said a network of fluid-filled spaces in the body is a new organ. It is called the ____.",
        "a": [
         "interstitium"
        ]
@@ -714,17 +714,17 @@
      [
       {
        "t": "write",
-       "p": "Aristotle thought we think with our hearts. What evidence would you show him to change his mind? What might he say back?",
+       "p": "Aristotle, a thinker in ancient Greece, thought we think with our hearts. What evidence would you show him to change his mind? What might he say back?",
        "lines": 4
       },
       {
        "t": "write",
-       "p": "Should giving an organ after you die be something people choose to sign up for, or something that happens unless they say no? Give one reason for each side.",
+       "p": "People can give their organs after they die. Should this happen only for people who sign up for it, or for everyone except those who say no? Give one reason for each side.",
        "lines": 4
       },
       {
        "t": "write",
-       "p": "Your body has spare capacity: two kidneys when one is enough. Is that wasteful or wise? Can you think of something else in life that is better with a spare?",
+       "p": "Your body has spare capacity: two kidneys when one is enough. Is that wasteful or wise? Name something else in life that is better with a spare.",
        "lines": 3
       }
      ]
@@ -748,15 +748,15 @@
    ],
    "steps": [
     "A grown-up cuts the bottom off the bottle.",
-    "Push one balloon into the neck of the bottle so it hangs inside, and fold its mouth over the bottle neck. Seal with clay so air can enter only through the balloon.",
+    "Push one balloon into the neck of the bottle so that it hangs inside, and stretch its mouth over the bottle neck. Seal the neck with clay so air can go in and out only through the balloon.",
     "Cut the neck off the second balloon and stretch the rest over the open bottom of the bottle. Hold with a rubber band and tape.",
     "Pinch the bottom sheet and pull it down gently. Watch the inside balloon.",
     "Push the sheet up. Watch again."
    ],
    "predict": "Ask: 'When you pull the bottom sheet down, will the balloon inside fill up or empty?'",
-   "observe": "Pulling the sheet down makes the inside balloon inflate; pushing it up makes it shrink.",
-   "why": "The bottom sheet is the diaphragm. When the diaphragm contracts it pulls down and the rib muscles lift the ribs out, so the space in the chest gets bigger. The air pressure inside the lungs drops, and air from outside rushes in. When the diaphragm relaxes, the space gets smaller and air is pushed out. We do not blow air into our lungs; the world pushes it in.",
-   "safety": "Only a grown-up cuts the bottle; the cut edge can be sharp, so cover it with tape.",
+   "observe": "Pulling the sheet down makes the balloon inside fill up. Pushing it up makes the balloon shrink. If nothing happens, air is leaking: press the clay and tape tighter.",
+   "why": "The bottom sheet is the diaphragm. When the diaphragm contracts, it pulls down, and rib muscles lift the ribs out, so the space in the chest gets bigger. The air pressure inside the lungs drops, and air from outside flows in. When the diaphragm relaxes, the space gets smaller and air is pushed out. We do not suck air in. The air outside pushes in to fill the space.",
+   "safety": "Only a grown-up cuts the bottle. The cut edge can be sharp, so cover it with tape.",
    "time": "18 min"
   },
   {
@@ -775,12 +775,12 @@
     "Your child holds the tube end gently near (not inside) their ear.",
     "Hold the funnel flat on their chest, a little to the left of the middle, in a quiet room.",
     "Listen for the 'lub-dub'.",
-    "Find the pulse on the thumb side of the inside wrist with two fingers. Count beats for 30 seconds and double it.",
+    "Find the pulse on the thumb side of the inside of the wrist with two fingers. Count the beats for 30 seconds and double it.",
     "Skip or jog on the spot for one minute and count again. Count again after two minutes of rest."
    ],
    "predict": "Ask: 'How many beats in a minute? Will it go up or down after skipping?'",
-   "observe": "A resting pulse for children of this age is often around 70–110 beats a minute. It rises after exercise and falls again with rest.",
-   "why": "Each beat is the heart squeezing blood into the arteries, which stretch with each push: that is the pulse. When muscles work hard they need more oxygen and food, so the brain tells the heart to beat faster and harder. The 'lub-dub' is the sound of the heart's valves closing to stop blood flowing backwards.",
+   "observe": "A resting pulse for children of this age is often between 70 and 110 beats a minute. It goes up after exercise and comes down again with rest.",
+   "why": "Each beat is the heart squeezing blood into the arteries. The arteries stretch with each push, and that is the pulse. When muscles work hard they need more oxygen and food, so the brain tells the heart to beat faster. The 'lub-dub' is the sound of the heart's valves closing to stop blood flowing backwards.",
    "safety": "Never put the tube inside the ear, and never shout into it.",
    "time": "15 min"
   },
@@ -795,19 +795,19 @@
     "a handful of dried peas or rajma",
     "a handful of rice",
     "a kitchen sieve",
-    "a coffee filter or a piece of thin cotton cloth",
+    "a thin cotton cloth, such as an old handkerchief",
     "two clear jars"
    ],
    "steps": [
     "Make the 'blood': water with a few drops of food colouring (dissolved waste), peas (blood cells) and rice (big proteins).",
-    "Line the sieve with the coffee filter or cloth and hold it over a clear jar.",
+    "Line the sieve with the cloth and hold it over a clear jar.",
     "Pour the 'blood' through slowly.",
     "Look at what went through and what stayed behind.",
     "Talk about what is missing from the model."
    ],
    "predict": "Ask: 'Which parts of the blood will go through the filter?'",
-   "observe": "The coloured water goes through; peas and rice stay behind.",
-   "why": "Each kidney has around a million tiny filtering units called nephrons. Blood is pushed through very small filters that let water, salts, sugar and wastes such as urea through, but keep back blood cells and big proteins. Then the tubes of each nephron take back almost all the water, sugar and salt the body needs and leave the waste in a little water: urine. The model shows the first step but not the clever taking-back step.",
+   "observe": "The coloured water goes through. The peas and rice stay behind.",
+   "why": "Each kidney has about a million tiny filtering units called nephrons. Blood is pushed through very small filters. Water, salts, sugar and wastes such as urea get through, but blood cells and big proteins stay in the blood. Then the tubes of each nephron take back almost all the water, sugar and salt the body needs. What is left is waste in a little water: urine. Our model shows the first step but not the taking-back step.",
    "safety": "Do not drink the coloured water. Food colouring can stain clothes.",
    "time": "15 min"
   },
@@ -828,9 +828,9 @@
     "Do five tries with each hand, then three tries while they count backwards from 50 out loud."
    ],
    "predict": "Ask: 'Which hand will be faster? Will counting backwards change it?'",
-   "observe": "Catches are often between 10 and 25 cm. A catch at about 15 cm means a reaction time of about one-sixth of a second. Distraction usually makes catches lower down the ruler.",
-   "why": "The eyes see the ruler fall, a message goes along nerves to the brain, the brain decides and sends a message down nerves to the muscles of the fingers. Each step takes time. When the brain is busy with another job, deciding takes longer. A reflex, like the knee jerk, is faster because it skips the brain.",
-   "safety": "",
+   "observe": "Catches are often between 10 and 25 cm. A catch at about 15 cm means the child took about one-sixth of a second to react. Counting backwards usually makes the catch lower down the ruler, which means slower.",
+   "why": "The eyes see the ruler fall. A message goes along nerves to the brain. The brain decides and sends a message along nerves to the finger muscles. Each step takes time. When the brain is busy with another job, deciding takes longer. A reflex, like the knee jerk, is faster because the message does not go through the brain.",
+   "safety": "Safe. Hold the ruler only a little above your child's hand, so it does not hit anyone as it falls.",
    "time": "14 min"
   }
  ],
@@ -849,9 +849,9 @@
    ],
    "steps": [
     "Draw round your child lying on the paper.",
-    "Cut organs to these rough sizes for your child's body: brain (two fists), each lung (a hand and a half, cone-shaped), heart (one fist), liver (a wide wedge under the right ribs, as big as two hands), stomach (a J shape the size of a hand, on the left), small intestine (a strip three times your child's height, coiled), large intestine (a fat strip framing the coils), two kidney beans the size of a small fist each, a bladder (a small balloon shape low in the middle).",
+    "Cut organs to these rough sizes for your child's body: brain (two fists), each lung (a cone about one and a half hands long), heart (one fist), liver (a wide wedge as big as two hands, under the right ribs), stomach (a J shape the size of a hand, on the left), small intestine (a strip about three times your child's height, coiled), large intestine (a fat strip around the coils), two kidneys (bean shapes a little smaller than a fist) and a bladder (a small balloon shape low in the middle).",
     "Place them where your child thinks they go.",
-    "Check on Day 6 and move them; then glue them down.",
+    "On Day 6, move them to the right places and glue them down.",
     "Add the body-safety rules on Day 7."
    ],
    "outcome": "A life-size map of your child's own organs, used and corrected through the week."
@@ -866,10 +866,10 @@
   ],
   "steps": [
    "Make the life-size organ map (Activity a1).",
-   "Draw lines between organs that depend on each other and write why on each line ('lungs give oxygen to blood').",
-   "Add the path of one breath of oxygen in red and one bit of waste in yellow (blood to kidneys to bladder).",
+   "Draw lines between organs that depend on each other, and write why on each line, for example 'the lungs give oxygen to the blood'.",
+   "Draw the path of one breath of oxygen in red, and the path of some waste in yellow (blood to kidneys to bladder).",
    "Write the body-safety rules in a corner.",
-   "Use it on the last day to teach someone the rung."
+   "On the last day, use it to teach someone what you learnt."
   ],
   "outcome": "A life-size organ map with team lines showing how organs depend on each other."
  },
@@ -886,8 +886,8 @@
   "rules": [
    "You are a red blood cell. Start in the LUNGS and pick up 3 oxygen tokens.",
    "Roll and move along the path, which goes round in a loop.",
-   "Each time you land on a body square, drop off one oxygen token there and say why that organ needs it.",
-   "When you run out of oxygen, you must go back to the LUNGS square to fill up (move straight there on your next turn).",
+   "Each time you land on a body square, drop off one oxygen token there and say why that part of the body needs oxygen.",
+   "When you run out of oxygen, go straight back to the LUNGS square on your next turn to fill up.",
    "Follow the square's instructions.",
    "The first player to deliver 10 oxygen tokens wins."
   ],
@@ -896,7 +896,7 @@
    "Left atrium: blood rushes in",
    "Left ventricle: a big squeeze, +2",
    "Aorta, the biggest artery",
-   "BRAIN: drop oxygen, it uses one-fifth of all you carry",
+   "BRAIN: drop 1 oxygen. The brain uses about one-fifth of all the oxygen you breathe in",
    "Skipping rope! Muscles need more: drop 2",
    "Stomach after lunch",
    "Valve slams shut: no going back",
@@ -904,7 +904,7 @@
    "Liver: poisons cleaned",
    "Leg muscle",
    "Toe: the furthest point!",
-   "Cold day: skin sends you deeper, back 1",
+   "Cold day: blood is kept away from the skin, go back 1",
    "Vein: slow and steady",
    "Smoke breathed in: lose 1 oxygen",
    "Right atrium: tired blood returns",
@@ -915,52 +915,52 @@
   ]
  },
  "big": [
-  "Your skin, nerves, lungs and backbone were each first made by some other creature long ago. Is your body really yours, or is it a gift from all of life?",
+  "Your nerves, lungs and backbone first appeared in other animals long ago. What does that tell you about how you are related to them?",
   "Your heart has beaten about 300 million times and you never told it to. Who is in charge of your body?",
-  "If a kidney from one sister can live and work inside the other, where does one person end and another begin?",
+  "A kidney from one sister can live and work inside the other. Is that kidney now part of the second sister?",
   "Is it fair that some people wait years for an organ and others never need one? Who should decide who gets one first?",
   "Scientists still argue about what counts as an organ. Can a list of body parts ever be finished?",
   "Is a body with spare parts wasteful or wise?"
  ],
  "challenge": [
   {
-   "q": "Your heart is on the left side of your chest.",
-   "hint": "Your heart sits almost in the middle, behind the breastbone, tipped so its bottom points to the left, which is why the beat feels strongest on the left. In about 1 person in 10,000 it is tipped to the right instead, and they are usually perfectly healthy. Ask: why do you think people believe it is far on the left?"
+   "q": "People say your heart is on the left side of your chest. Is that right?",
+   "hint": "Your heart sits almost in the middle, behind the breastbone. It is tipped so that its lower end points to the left, which is why the beat feels strongest on the left. In about 1 person in 10,000 the heart is on the right instead, and they are usually perfectly healthy. Ask: why do you think people believe the heart is far on the left?"
   },
   {
-   "q": "We think with our hearts and love with our hearts.",
-   "hint": "Aristotle thought the heart did the thinking. The evidence now is clear that the brain does: injuries to the brain change thinking and feeling, and people with mechanical heart pumps think and love as before. But the heart does respond to feelings, racing when we are scared or excited, because the brain sends it messages. Ask: why do you think so many languages kept the heart for love?"
+   "q": "People say we think and love with our hearts. Is that right?",
+   "hint": "Aristotle thought the heart did the thinking. The evidence now clearly shows that the brain does. Injuries to the brain change thinking and feeling, and people with machine heart pumps think and love as before. But the heart does respond to feelings. It races when we are scared or excited, because the brain sends it messages. Ask: why do you think so many languages kept the heart for love?"
   },
   {
-   "q": "We only use 10 per cent of our brain.",
-   "hint": "This is a myth. Brain scans show that over a day almost every part of the brain is active, and damage to any part causes problems. The brain uses about a fifth of the body's oxygen, which a body would not spend on parts it did not use. Ask: why might a myth like this spread?"
+   "q": "People say we use only 10 per cent of our brain. Is that true?",
+   "hint": "This is a myth. Brain scans show that over a day almost every part of the brain is active, and damage to any part causes problems. The brain uses about a fifth of the body's oxygen, and a body would not spend that on parts it did not use. Ask: why might a myth like this spread?"
   },
   {
-   "q": "Organs are like machine parts that can be swapped like a car's.",
-   "hint": "A transplanted organ can work beautifully, but the new body's defences see it as a stranger and try to attack it, so most people with a transplant take medicines every day for life. Organs are part of a living whole, not bolted on. Ask: how is a body different from a machine?"
+   "q": "People say organs are like machine parts that can be swapped like a car's. Is that true?",
+   "hint": "A transplanted organ can work very well. But the new body's defences see it as a stranger and try to attack it, so most people with a transplant take medicines every day for life. Ask: how is a body different from a machine?"
   }
  ],
  "perspectives": [
   {
-   "who": "A dialysis nurse in a city hospital",
-   "view": "She looks after people whose kidneys have stopped, whose blood is cleaned by a machine for four hours, three times a week. Ask: what would you miss most if you had to spend twelve hours a week attached to a machine?"
+   "who": "A dialysis nurse in a hospital in Chennai",
+   "view": "She looks after people whose kidneys have stopped working. A machine cleans their blood for about four hours, three times a week. Ask: what would you miss most if you had to spend twelve hours a week attached to a machine?"
   },
   {
    "who": "A family who agreed to donate their son's organs after he died in an accident",
-   "view": "In India, families of people who have died can choose to give their organs; one donor can save several lives. Many families say it gave meaning to their loss. Ask: why might a family find it hard to decide, and why might it help them?"
+   "view": "In India, the family of a person who has died can choose to give that person's organs, and one donor can save several lives. Many families say it gave meaning to their loss. Ask: why might a family find it hard to decide, and why might it help them?"
   },
   {
    "who": "An ancient Indian vaidya following the Charaka Samhita",
-   "view": "Ayurveda describes the body through doshas, dhatus (tissues) and channels called srotas, a different map from modern anatomy. Some of its observations about digestion and daily habits match modern ideas; its picture of how organs work does not. Ask: can two different maps of the same body both teach us something?"
+   "view": "Ayurveda describes the body through doshas, dhatus (tissues) and channels called srotas. This is a different map from modern anatomy. Some of its advice about digestion and daily habits matches modern ideas, but its picture of how organs work does not. Ask: can two different maps of the same body both teach us something?"
   }
  ],
  "voices": [
   {
    "id": "v1",
    "who": "Ibn al-Nafis (about 1213–1288), Damascus and Cairo, and William Harvey (1578–1657), England",
-   "idea": "For over a thousand years doctors followed Galen, who taught that blood seeped through tiny holes in the wall of the heart and was made fresh in the liver and used up. In about 1242 Ibn al-Nafis, an Arab physician, wrote that there are no such holes: blood must go from the right side of the heart through the lungs, mix with air there, and come back to the left side. In 1628 Harvey showed by careful measuring that the heart pumps far more blood in an hour than the body could make, so it must go round and round: circulation.",
-   "then": "Ibn al-Nafis's work was hardly known in Europe. Harvey was mocked by some doctors, lost patients, and was called a crank, but within his lifetime many accepted his idea.",
-   "now": "Both were right. Ibn al-Nafis's description was rediscovered only in 1924, by the Egyptian doctor Muhyo Al-Deen Altawi, reading old manuscripts in Berlin. Many textbooks still give Harvey all the credit.",
+   "idea": "For over a thousand years, doctors followed Galen, a Greek doctor in Rome. He taught that blood seeped through tiny holes in the wall of the heart, and that it was made fresh in the liver and used up. In about 1242 Ibn al-Nafis, an Arab doctor, wrote that there are no such holes. Blood must go from the right side of the heart through the lungs, mix with air there, and come back to the left side. In 1628 William Harvey showed by careful measuring that the heart pumps far more blood in an hour than the body could make. So the same blood must go round and round. This is called circulation.",
+   "then": "Ibn al-Nafis's work was hardly known in Europe. Some doctors mocked Harvey and called him a crank, and he lost patients. But within his lifetime many doctors accepted his idea.",
+   "now": "Both were right. Ibn al-Nafis's description was found again only in 1924, by the Egyptian doctor Muhyo Al-Deen Altawi, who read an old manuscript in Berlin. Many textbooks still give Harvey all the credit.",
    "status": "accepted",
    "ask": "Ibn al-Nafis worked out the lung circuit 400 years before Harvey, but nearly nobody in Europe read his book. Is a discovery that nobody hears about still a discovery? Who should get the credit?",
    "day": 3
@@ -968,9 +968,9 @@
   {
    "id": "v2",
    "who": "Petros Benias, Neil Theise and colleagues (New York, published 2018), and their critics",
-   "idea": "Using a new kind of microscope inside living patients, the team saw a network of fluid-filled spaces held up by fibres in layers all through the body: under the skin, around the gut, lungs and blood vessels. They argued this 'interstitium' should be counted as an organ in its own right, perhaps one of the biggest in the body.",
+   "idea": "Using a new kind of microscope inside living patients, the team saw a network of spaces filled with fluid and held up by fibres, in layers all through the body: under the skin, and around the gut, lungs and blood vessels. They argued that this 'interstitium' should be counted as an organ, perhaps one of the biggest in the body.",
    "then": "Newspapers called it a 'new organ'. Many anatomists objected that the spaces were already known and that calling them an organ was a change of name, not a discovery.",
-   "now": "Scientists still disagree. Everyone agrees that tissue fluid and these spaces exist; the argument is about whether they make one organ. A similar argument happened in 2016 when the surgeon J. Calvin Coffey argued that the mesentery should be counted as one organ.",
+   "now": "Scientists still disagree. Everyone agrees that these spaces and their fluid exist. The argument is about whether they make one organ. A similar argument happened in 2016, when the surgeon J. Calvin Coffey argued that the mesentery should be counted as one organ.",
    "status": "debated",
    "ask": "If two people agree on what they see but disagree on what to call it, is that a science argument or a word argument? Does it matter?",
    "day": 8
@@ -978,9 +978,9 @@
   {
    "id": "v4",
    "who": "Gerty Cori (1896–1957), born in Prague, worked in the USA",
-   "idea": "With her husband Carl Cori, Gerty Cori found how the body stores and uses sugar. Working muscles break down their stored sugar (glycogen) and make a waste called lactate. The blood carries the lactate to the liver, which rebuilds it into glucose and sends it back to the muscles. This loop is called the Cori cycle: the body recycles its fuel.",
-   "then": "Universities repeatedly offered Carl a job and Gerty none, or a junior one at a fraction of his pay. For years at Washington University in St Louis she was a 'research associate', paid far less, though they worked side by side as equals.",
-   "now": "The Cori cycle is in every biology textbook. In 1947 Gerty and Carl Cori shared the Nobel Prize (with Bernardo Houssay), and she became the first woman to win the Nobel Prize in Physiology or Medicine. She was made a full professor only that same year.",
+   "idea": "With her husband Carl Cori, Gerty Cori found how the body stores and uses sugar. Working muscles break down their stored sugar, called glycogen, and make a substance called lactate. The blood carries the lactate to the liver, which turns it back into sugar (glucose) and sends it back to the muscles. This loop is called the Cori cycle: the body reuses its fuel.",
+   "then": "Universities kept offering Carl a job and Gerty none, or only a junior one at a small part of his pay. For years at Washington University in St Louis she was a 'research associate', paid far less, though they worked side by side as equals.",
+   "now": "The Cori cycle is in biology textbooks everywhere. In 1947 Gerty and Carl Cori shared the Nobel Prize with Bernardo Houssay, and she became the first woman to win the Nobel Prize in Physiology or Medicine. She was made a full professor only that same year.",
    "status": "accepted",
    "ask": "Gerty and Carl did the same work. Why do you think she was paid so much less? How could you check, today, whether two people doing the same work are treated fairly?",
    "day": 6
@@ -988,9 +988,9 @@
   {
    "id": "v3",
    "who": "Joseph Murray (1919–2012) and the brothers Ronald and Richard Herrick, Boston, USA, 1954",
-   "idea": "Richard Herrick was dying of kidney failure. His identical twin Ronald offered one of his own kidneys. On 23 December 1954, Joseph Murray's team moved Ronald's healthy kidney into Richard. It was the first organ transplant to work for a long time, because a twin's body does not attack the organ as a stranger.",
+   "idea": "Richard Herrick was dying because his kidneys had failed. His identical twin Ronald offered one of his own kidneys. On 23 December 1954, Joseph Murray's team moved Ronald's healthy kidney into Richard. It was the first organ transplant that kept working for a long time, because a twin's body does not attack the organ as a stranger.",
    "then": "Some doctors thought it was wrong to operate on a healthy person who gained nothing for himself. Ronald decided anyway.",
-   "now": "Richard lived another eight years and married one of his nurses; Ronald lived until 2010 with one kidney. Medicines now let organs be given between people who are not twins, and kidney transplants save many thousands of lives every year, including in India. Murray shared the Nobel Prize in 1990; the donor's courage is less often remembered.",
+   "now": "Richard lived another eight years and married one of his nurses. Ronald lived until 2010 with one kidney. Medicines now let organs be given between people who are not twins, and kidney transplants save many thousands of lives every year, including in India. Murray shared the Nobel Prize in 1990. The donor's courage is less often remembered.",
    "status": "accepted",
    "ask": "The doctor got the Nobel Prize. What did Ronald give? How should we remember people like him?",
    "day": 4
@@ -1015,7 +1015,7 @@
    "title": "The Body: A Guide for Occupants",
    "author": "Bill Bryson",
    "for": "parent reads",
-   "age": "adult; read short passages aloud",
+   "age": "adult, read short passages aloud",
    "why": "Full of astonishing true facts and stories of the people who found them, including some who were forgotten."
   },
   {
@@ -1037,11 +1037,11 @@
   },
   {
    "q": "Describe blood's journey through the heart.",
-   "a": "The right side pumps blood to the lungs to get oxygen; it returns to the left side, which pumps it round the body; then it comes back to the right side. It goes round in a circle."
+   "a": "The right side pumps blood to the lungs to get oxygen. The blood comes back to the left side, which pumps it round the body. Then it comes back to the right side. It goes round in a circle."
   },
   {
    "q": "What do the kidneys do?",
-   "a": "They filter waste and extra water out of the blood, keep what the body needs and make urine, which is stored in the bladder."
+   "a": "They filter waste and extra water out of the blood, keep what the body needs, and make urine, which is stored in the bladder."
   },
   {
    "q": "What is a reflex? Give an example.",
@@ -1053,36 +1053,36 @@
   },
   {
    "q": "How can someone give a kidney and stay healthy?",
-   "a": "One kidney can do the work of two (it grows a little bigger), so the body has spare capacity."
+   "a": "One kidney can do the work of two, and it grows a little bigger. The body has spare capacity."
   }
  ],
  "story": {
   "title": "Half of Enough",
   "text": [
-   "I am a kidney. I am the shape of a rajma bean and the size of a fist, dark red and smooth, and for thirty-four years I lived on the right side of a woman called Rekha, tucked in under her bottom ribs, close to her back.",
-   "You will not have thought about me much. Nobody does. I am not like the heart, who gets songs written about her, or the brain, who thinks she runs the place. I work in the dark and I do not make a sound. But here is what I do: every few minutes, all of Rekha's blood passes through me and my twin on the left side. We let the water and the salts and the wastes slip through a million tiny sieves, and then, very carefully, we take back what she needs: the water, the sugar, the salt. What is left over, the waste in a little water, trickles down a long thin tube to the bladder. In a day, my twin and I sift through enough liquid to fill a drum. We keep almost all of it. We send away only what would harm her.",
+   "I am a kidney. I am the shape of a rajma bean and the size of a fist, dark red and smooth, and for thirty-four years I lived on the right side of a woman called Revathi, tucked in under her bottom ribs, close to her back.",
+   "You will not have thought about me much. Nobody does. I am not like the heart, who gets songs written about her, or the brain, who thinks she runs the place. I work in the dark and I do not make a sound. But here is what I do: every few minutes, all of Revathi's blood passes through me and my twin on the left side. We let the water and the salts and the wastes slip through a million tiny sieves, and then, very carefully, we take back what she needs: the water, the sugar, the salt. What is left over, the waste in a little water, trickles down a long thin tube to the bladder. In a day, my twin and I sift through enough liquid to fill a drum. We keep almost all of it. We send away only what would harm her.",
    "We are a pair, my twin and I. For thirty-four years we shared the work, and I will tell you a secret that only kidneys know. Either one of us could have done it alone. We were each half of enough. We were never more than half-busy.",
-   "Rekha has a younger sister, Sunita. They grew up in a two-room house in Nagpur, sharing a bed, a tiffin, and every secret. When Sunita was twenty-eight, her kidneys began to fail. Nobody quite knew why. They got smaller and slower, and the wastes began to build up in her blood, and she grew tired and puffy and pale, and her skin itched, and food tasted of metal.",
-   "Three times a week, Sunita went to a hospital and sat for four hours with a tube in her arm while a machine cleaned her blood. It did a little of what her kidneys used to do. Only a little. On the other days she was too tired to play with her small son, Bunty, who did not understand why his mother slept so much.",
-   "I heard all this from inside Rekha. When she was worried, her heart beat faster, and the blood rushed through me quicker, and I could feel the change. When she cried at night, the salt in her blood went up a little, and I adjusted. I know Rekha's moods better than she does.",
-   "One evening Rekha said to the doctor, “Take one of mine.”",
-   "There were many tests after that. Doctors took Rekha's blood and Sunita's blood and looked at them side by side. They were checking whether Sunita's body would be gentle with a stranger. Bodies are fierce about strangers. They have armies of white cells that hunt down anything that is not themselves. The doctors found that Rekha's blood and Sunita's were close enough, as sisters often are, and that with the right medicines every day, Sunita's armies could be calmed.",
+   "Revathi has a younger sister, Sudha. They grew up in a two-room house in Madurai, sharing a bed, a tiffin, and every secret. When Sudha was twenty-eight, her kidneys began to fail. Nobody quite knew why. They got smaller and slower, and the wastes began to build up in her blood, and she grew tired and puffy and pale, and her skin itched, and food tasted of metal.",
+   "Three times a week, Sudha went to a hospital and sat for four hours with a tube in her arm while a machine cleaned her blood. It did a little of what her kidneys used to do. Only a little. On the other days she was too tired to play with her small son, Kannan, who did not understand why his mother slept so much.",
+   "I heard all this from inside Revathi. When she was worried, her heart beat faster, and the blood rushed through me quicker, and I could feel the change. On hot days, when she sweated a lot, I kept back more water for her, and her urine grew darker. I know Revathi's body better than she does.",
+   "One evening Revathi said to the doctor, “Take one of mine.”",
+   "There were many tests after that. Doctors took Revathi's blood and Sudha's blood and looked at them side by side. They were checking whether Sudha's body would be gentle with a stranger. Bodies are fierce about strangers. They have armies of white cells that hunt down anything that is not themselves. The doctors found that Revathi's blood and Sudha's were close enough, as sisters often are, and that with the right medicines every day, Sudha's armies could be calmed.",
    "And then they chose me. The right one. I do not know why. Perhaps it was the shape of my blood tubes.",
-   "I will not tell you about the operation, because I was asleep, in a way, kept cold in an icy liquid in a steel dish. I remember Rekha's warmth, and then the cold, and then a long stillness. It was the first time in thirty-four years that no blood had passed through me.",
+   "I will not tell you about the operation, because I was asleep, in a way, kept cold in an icy liquid in a steel dish. I remember Revathi's warmth, and then the cold, and then a long stillness. It was the first time in thirty-four years that no blood had passed through me.",
    "Then there was warmth again.",
-   "But it was different. The doctors had not put me where I used to live, high and close to the back. They had put me low down, at the front, near Sunita's hip, and they had joined me to a big artery and a big vein there, and stitched my thin tube into her bladder. And then they let the blood in.",
-   "Oh, the blood. It came rushing in, red and fast, and it was full of waste: so much waste, months and months of it that no kidney had cleared. And it was Sunita's blood. It had a different taste. Her heart beat in a different rhythm, a little quicker than Rekha's, and her blood had different moods in it.",
+   "But it was different. The doctors had not put me where I used to live, high and close to the back. They had put me low down, at the front, near Sudha's hip, and they had joined me to a big artery and a big vein there, and stitched my thin tube into her bladder. And then they let the blood in.",
+   "Oh, the blood. It came rushing in, red and fast, and it was full of waste: so much waste, months and months of it that no kidney had cleared. And it was Sudha's blood. It had a different taste. Her heart beat in a different rhythm, a little quicker than Revathi's, and her blood had different moods in it.",
    "I did not stop to think. I did what kidneys do. I let the water and the salts and the wastes slip through my million sieves, and I took back what she needed, and I sent the rest away down the tube. The doctors were watching the tube. Before they had even finished sewing, there was urine in it.",
    "Somebody in the operating room laughed out loud.",
-   "It has been a year now. I am doing the work of two, here near Sunita's hip, and I find I can. I was always able to. I was only ever half-busy before.",
-   "In the next room of my old home, Rekha's left kidney, my twin, is doing the work of two as well. It has grown a little bigger to manage. Rekha says she feels exactly the same as she ever did.",
-   "Last week Bunty climbed onto Sunita's lap, right on top of the place where I live, and asked her to come to the park. She went. I felt her heart speed up as she ran, and her blood rushing through me faster, and I worked faster, and I thought: so this is what all that spare was for."
+   "It has been a year now. I am doing the work of two, here near Sudha's hip, and I find I can. I was always able to. I was only ever half-busy before.",
+   "In the next room of my old home, Revathi's left kidney, my twin, is doing the work of two as well. My twin has grown a little bigger to manage. Revathi says she feels exactly the same as she ever did.",
+   "Last week Kannan climbed onto Sudha's lap, right on top of the place where I live, and asked her to come to the park. She went. I felt her heart speed up as she ran, and her blood rushing through me faster, and I worked faster, and I thought: so this is what all that spare was for."
   ],
-  "epiphany": "Organs do their jobs as part of a team (the heart pushes blood through the kidney, the kidney cleans it, the bladder stores the urine), and the body is built with spare capacity: one kidney can do the work of two. The turn is the kidney's secret ('we were each half of enough') and the moment urine appears in the tube in Sunita's body. Underneath: one person's organ can live and work in another, because our bodies are made of the same stuff; and the gift was quiet.",
+  "epiphany": "Organs do their jobs as a team: the heart pushes blood through the kidney, the kidney cleans it, and the bladder stores the urine. And the body is built with spare capacity: one kidney can do the work of two. The turn is the kidney's secret ('we were each half of enough') and the moment urine appears in the tube in Sudha's body. Underneath: one person's organ can work in another person, because human bodies share one plan, and the gift was a quiet one.",
   "ask": [
    "What does a kidney do, in your own words?",
    "What did the kidney mean by 'half of enough'?",
-   "Why did the doctors need to check Rekha's and Sunita's blood first?",
+   "Why did the doctors need to check Revathi's and Sudha's blood first?",
    "What was different about the kidney's new home?",
    "The kidney says, 'So this is what all that spare was for.' What was it for?"
   ]
@@ -1090,19 +1090,19 @@
  "ideas": [
   {
    "idea": "You are a team of organs, and no organ works alone.",
-   "more": "The heart feeds the kidneys and brain; the lungs feed the blood; the brain runs the heart's speed; the kidneys keep the blood clean for all of them. Draw the team lines on the organ map and they become a web."
+   "more": "The heart pumps blood to the kidneys and the brain. The lungs put oxygen into the blood. The brain controls how fast the heart beats. The kidneys keep the blood clean for all of them. Draw these links on the organ map and they make a web."
   },
   {
    "idea": "The body carries spares.",
-   "more": "One kidney, one lung or part of a liver can be enough. Spare capacity is why people can give organs, run marathons and recover from illness."
+   "more": "One kidney, one lung or part of a liver can be enough. Spare capacity is why people can give organs, run long races and recover from illness."
   },
   {
-   "idea": "Our bodies are made of the same stuff, so parts can be shared.",
-   "more": "A kidney from a sister, a cornea from a stranger, blood from a donor: they can work in another person because all human bodies share one plan. The air you breathe out is breathed in by plants; the oxygen they make is in your blood right now."
+   "idea": "All human bodies share one plan, so parts can be shared.",
+   "more": "A kidney from a sister, a cornea from a stranger, blood from a donor: they can work in another person because all human bodies are built the same way. Medicines help the new body accept them."
   }
  ],
  "unknowns": [
-  "Why do some people's kidneys fail with no known cause? In parts of Andhra Pradesh, Odisha, Sri Lanka and Central America many farm workers get kidney disease that is not explained by diabetes or high blood pressure. Heat, dehydration, chemicals and water have all been suggested; nobody knows for sure.",
+  "Why do some people's kidneys fail with no known cause? In parts of Andhra Pradesh, Odisha, Sri Lanka and Central America, many farm workers get kidney disease that is not explained by diabetes or high blood pressure. Heat, losing too much water, farm chemicals and drinking water have all been suggested. Nobody knows for sure.",
   "How does the brain, made of 86 billion nerve cells, produce thoughts and feelings? Nobody knows.",
   "Could we one day grow new organs from a person's own cells, so nobody waits for a donor? Scientists are trying, but no grown organ is in regular use yet."
  ]

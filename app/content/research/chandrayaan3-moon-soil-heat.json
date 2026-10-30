@@ -1,0 +1,118 @@
+{
+  "id": "chandrayaan3-moon-soil-heat",
+  "title": "How hot is the Moon's soil near its south pole?",
+  "blurb": "India's Chandrayaan-3 pushed a heat probe into the Moon's soil. A gentle slope made the ground much hotter than expected, a clue for finding ice.",
+  "topics": [
+    "sci.sky.moon-phases.L3",
+    "sci.energy.heat-moves.L3",
+    "sci.energy.heat.L3",
+    "sci.sky.sun-moon-stars.L3"
+  ],
+  "tags": [
+    "Moon",
+    "Chandrayaan-3",
+    "heat",
+    "India",
+    "ice"
+  ],
+  "year": 2025,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/chandrayaan3-moon-soil-heat-1.jpg",
+    "alt": "A photo map of the Moon's south pole region, covered in craters",
+    "credit": "NASA/GSFC/Arizona State University (Lunar Reconnaissance Orbiter), public domain"
+  },
+  "source": {
+    "name": "ISRO",
+    "title": "India Bags the Credit for First-Ever In-Situ Measurement of the Topmost Fluffy Layer of the Moon’s Surface at Southern Higher Latitudes",
+    "authors": "Indian Space Research Organisation",
+    "year": 2025,
+    "url": "https://www.isro.gov.in/India_Bags_Credit_First-Ever_In-Situ_Measurement.html",
+    "license": "facts retold in our own words"
+  },
+  "original": {
+    "title": "Higher surface temperatures near south polar region of the Moon measured by ChaSTE experiment on-board Chandrayaan-3",
+    "authors": "K. Durga Prasad, Chandan Kumar, G. Ambily, P. Kalyana Reddy, Sanjeev K. Mishra and others, with Anil Bhardwaj",
+    "journal": "Communications Earth & Environment",
+    "year": 2025,
+    "url": "https://doi.org/10.1038/s43247-025-02114-6"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "The Moon has no air, so its ground gets very hot by day and very cold at night. Before Chandrayaan-3, only Apollo 15 and 17 had measured temperatures inside the Moon's ground. Both were near the Moon's middle. Nobody had measured the top few centimetres near a pole. How hot does it get there? And could ice hide nearby?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "The team came from the Physical Research Laboratory in Ahmedabad, ISRO, and the Space Physics Laboratory in Thiruvananthapuram. That lab is part of the Vikram Sarabhai Space Centre. The team includes K. Durga Prasad and Anil Bhardwaj. Their instrument, called ChaSTE, rode on Chandrayaan-3's Vikram lander, which landed in August 2023. They published the results in March 2025."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "After Vikram landed at the Shiv Shakti point, ChaSTE pushed a probe 10 cm into the soil. The probe carries 10 temperature sensors along its length, like marks on a ruler. From 24 August to 2 September 2023, about 10 Earth days, it measured temperatures about once every second. Another sensor, about a metre away on flat ground, measured too.",
+      "img": {
+        "src": "media/research/chandrayaan3-moon-soil-heat-2.jpg",
+        "alt": "A mosaic of the Moon's south polar region made from about 1,500 pictures by the Clementine spacecraft",
+        "credit": "NASA/JPL/USGS (Clementine), public domain"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "The ground where the probe went in reached 355 kelvin, about 82°C. Orbiting spacecraft had predicted about 330 kelvin. The reason: the probe sat on ground tilted about 6 degrees towards the Sun. The flat ground a metre away reached about 332 kelvin, about 59°C. So near the poles, temperatures can change a lot within a few steps."
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "These are real measurements, but from one spot, over part of one lunar day. A computer model built by the Physical Research Laboratory agrees with them. The idea about ice comes from that model. Nobody has found ice at these places yet. Future missions will need to dig and test them."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "The model suggests something exciting. Slopes tilted more than 14 degrees towards the pole could stay cold enough to keep water ice. The ice could be a few tens of centimetres down. Such places are easier to reach than the poles themselves. Knowing how heat moves through Moon soil also helps engineers plan safe places for people to live.",
+      "img": {
+        "src": "media/research/chandrayaan3-moon-soil-heat-3.jpg",
+        "alt": "A Moon crater seen by NASA's Lunar Reconnaissance Orbiter, which found a little more hydrogen on slopes facing the south pole",
+        "credit": "NASA/GSFC (Lunar Reconnaissance Orbiter), public domain"
+      }
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Does a slope change the heat? On a sunny windowsill, Meenakshi puts two small squares of chocolate on two pieces of cardboard. One card lies flat. The other is propped up on a slipper so it faces the Sun. After 10 minutes, which chocolate is softer? Now tilt a card away from the Sun and try again."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "If there is ice on the Moon, people may one day melt it for water. Should the Moon's ice belong to whichever country reaches it first? Or should it belong to everyone on Earth? How would you share it fairly?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "lander",
+          "m": "a spacecraft that lands gently on the Moon or a planet"
+        },
+        {
+          "w": "probe",
+          "m": "a long, thin tool pushed into the ground to measure it"
+        },
+        {
+          "w": "sensor",
+          "m": "a small part that measures something, like temperature"
+        },
+        {
+          "w": "kelvin",
+          "m": "a temperature scale scientists use; 355 kelvin is about 82°C"
+        },
+        {
+          "w": "slope",
+          "m": "ground that is tilted, not flat"
+        }
+      ]
+    }
+  ]
+}

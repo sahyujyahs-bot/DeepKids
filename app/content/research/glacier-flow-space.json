@@ -1,0 +1,116 @@
+{
+  "id": "glacier-flow-space",
+  "title": "Can we watch a glacier move from space?",
+  "blurb": "Glaciers look frozen still, but they creep downhill. Satellite photos showed a glacier in Canada speeding up every spring.",
+  "topics": [
+    "sci.water.water-cycle.L3",
+    "sci.forces.friction.L3",
+    "sci.earth.weather-and-climate.L3"
+  ],
+  "tags": [
+    "glaciers",
+    "ice",
+    "satellites",
+    "friction"
+  ],
+  "year": 2017,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/glacier-flow-space-1.jpg",
+    "alt": "A glacier in Norway flowing down between mountains, with snowfall at the top and melting ice at the bottom",
+    "credit": "Figure 1, Altena and Kääb, Frontiers for Young Minds, CC BY 4.0 (photo: Markus Engelhardt)"
+  },
+  "source": {
+    "name": "Frontiers for Young Minds",
+    "title": "Observing Change in Glacier Flow from Space",
+    "authors": "Bas Altena, Andreas Kääb",
+    "year": 2018,
+    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2018.00009",
+    "license": "CC BY 4.0"
+  },
+  "original": {
+    "title": "Weekly glacier flow estimation from dense satellite time series using adapted optical flow technology",
+    "authors": "Bas Altena, Andreas Kääb",
+    "journal": "Frontiers in Earth Science",
+    "year": 2017,
+    "url": "https://doi.org/10.3389/feart.2017.00053"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "A glacier is a huge river of ice between mountains. If you stand and look at one, nothing seems to move. But glaciers do move, very slowly, like thick honey. Does their speed change? There are almost 200,000 glaciers on Earth, many far from anyone. How can scientists keep watch on them?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Bas Altena and Andreas Kääb are researchers at the University of Oslo in Norway. They study snow and ice using pictures taken from space. Their study came out in 2017. Gwenn Flowers of Simon Fraser University in Canada had set up a weather station on the glacier they studied."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "Scientists already tracked some glaciers with GPS stakes. A GPS stake is a pole drilled into the ice that records where it is. But you cannot put stakes on every glacier. So the team got photos from the SPOT5 satellite. It passed over the Kaskawulsh Glacier in Canada every 5 days, all summer. They compared the photos to see how far the ice moved.",
+      "img": {
+        "src": "media/research/glacier-flow-space-2.jpg",
+        "alt": "Jack Kohler and Kirsty Langley setting up a tall GPS stake on a cracked glacier in Svalbard",
+        "credit": "Figure 2, Altena and Kääb, Frontiers for Young Minds, CC BY 4.0 (photo: Elvar Orn Kjartansson)"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "In early spring the glacier moved about 1 metre a day. Then it suddenly sped up to about 3 metres a day, and later slowed down again. The speed-up came when the air warmed above freezing. The lower part of the glacier sped up first. The upper part followed several days later, as the spring melt climbed uphill.",
+      "img": {
+        "src": "media/research/glacier-flow-space-3.jpg",
+        "alt": "Three graphs from April to August: glacier speed at an upper spot, at a lower spot, and the air temperature",
+        "credit": "Figure 6, Altena and Kääb, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "This was a test on two glaciers over one summer. The satellite showed the same uphill speed-up that GPS stakes had found on this glacier before, so the method works. But clouds and fresh snow hide the ice in some photos. And nobody can see under the thick ice, so the exact rules of glacier sliding are still argued about."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Glaciers are big stores of fresh water for people who live along the rivers below them. They also hold clues about past weather. Meltwater under a glacier makes it slide faster, by cutting the friction with the rock. Watching many glaciers from space helps scientists work out what will happen to these huge masses of ice."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Does water help ice slide? Meenakshi puts one ice cube on a dry steel plate. She puts another on a plate with a thin layer of water. She lifts one edge of both plates together, slowly, one finger-width at a time. Which cube slides first? Water under a glacier works the same way."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "A glacier looks still, yet it moves up to 3 metres a day. What else around you might be moving too slowly to see? A growing plant? Your hair? How could you prove it moves, the way these scientists did with photos taken days apart?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "glacier",
+          "m": "a huge, heavy mass of ice that slowly flows downhill"
+        },
+        {
+          "w": "satellite",
+          "m": "a machine that circles the Earth in space, often with a camera"
+        },
+        {
+          "w": "friction",
+          "m": "the grip between two things that rub, like ice and rock"
+        },
+        {
+          "w": "meltwater",
+          "m": "water that comes from melting snow and ice"
+        },
+        {
+          "w": "GPS stake",
+          "m": "a pole drilled into a glacier that records exactly where it is"
+        }
+      ]
+    }
+  ]
+}

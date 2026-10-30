@@ -1,0 +1,117 @@
+{
+  "id": "see-through-solar-windows",
+  "title": "Can a window make electricity and still let you see through it?",
+  "blurb": "Scientists in Japan made colourless solar windows from thin layers of coloured chemicals. One big window can make about 100 watts.",
+  "topics": [
+    "sci.electricity.simple-circuits.L3",
+    "sci.light.colour.L3",
+    "sci.light.transparent-opaque.L3",
+    "sci.energy.energy-around-us.L3"
+  ],
+  "tags": [
+    "solar",
+    "electricity",
+    "light",
+    "colour"
+  ],
+  "year": 2019,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/see-through-solar-windows-1.jpg",
+    "alt": "Mount Fuji hidden behind dark silicon solar panels, and Mount Fuji seen through see-through solar windows",
+    "credit": "Figure 1, Vohra and Sano, Frontiers for Young Minds, CC BY 4.0"
+  },
+  "source": {
+    "name": "Frontiers for Young Minds",
+    "title": "Colorless Windows That Transform Sunlight Into Electricity",
+    "authors": "Varun Vohra, Takashi Sano",
+    "year": 2021,
+    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2021.552439",
+    "license": "CC BY 4.0"
+  },
+  "original": {
+    "title": "Ternary active layers for neutral color semitransparent organic solar cells with PCEs over 4%",
+    "authors": "Takashi Sano, S. Inaba, Varun Vohra",
+    "journal": "ACS Applied Energy Materials",
+    "year": 2019,
+    "url": "https://doi.org/10.1021/acsaem.8b02144"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "Most solar panels are made of silicon. They are dark, and you cannot see through them, so they cannot be windows. Scientists can make see-through solar windows from coloured chemicals. But the view through them looks orange or red. Can a solar window make electricity and still show the world in its true colours?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Varun Vohra is an associate professor at the University of Electro-Communications in Japan. He studies special plastics and other materials that carry electricity. Takashi Sano was his student there. Together with a colleague, they published this work in 2019."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "They made a layer of colourants 1,000 times thinner than paper. Colourants are chemicals that catch light. They put it between two see-through electrodes, sheets that collect the electricity. Their first windows used two red colourants. These let extra red light through, so the view looked red. So they added a third colourant that catches red light.",
+      "img": {
+        "src": "media/research/see-through-solar-windows-2.jpg",
+        "alt": "A diagram of a solar window: a thin active layer between two electrodes, catching light and sending electrons one way",
+        "credit": "Figure 2, Vohra and Sano, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "With three colourants, the window let through about the same amount of red, green and blue light. So colours looked true, just a little darker. The window let through about 43 of every 100 parts of light. An ordinary window lets through about 70. It turned about 4 of every 100 parts of sunlight into electricity. One big window makes about 100 watts.",
+      "img": {
+        "src": "media/research/see-through-solar-windows-3.jpg",
+        "alt": "A graph showing red, green and blue light passing equally through the new window, and a view through it beside a normal window",
+        "credit": "Figure 3, Vohra and Sano, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "These are lab results from one team. Oxygen in the air breaks down many colourants, so making windows that last for years is still a challenge. Brighter, stronger windows are hard too. A 500-watt window would look too dark to see through well. The team is now testing new colourants for 250-watt windows."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Most electricity comes from burning coal, gas or oil, which warms our planet. Sunlight is a clean source. Cheap, colourless windows could make electricity on buildings everywhere. A home with a TV, two laptops, a tablet and two phones needs about 212 watts. Three of these windows could run them all at once."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Which colours get through? Divya shines a phone torch at a white wall through a red plastic folder. Then she tries a blue folder, then a clear plastic bag. Which lets the most light through? Which changes the colour most? A red sheet lets red light through. The scientists wanted all colours to pass equally."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "Every window already lets sunlight in for free. Should all new buildings have solar windows, even if rooms get a little darker? Or should each family choose for themselves? What would you choose for your own room?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "solar cell",
+          "m": "something that turns sunlight into electricity"
+        },
+        {
+          "w": "colourant",
+          "m": "a chemical that catches light and gives things colour, like the orange in carrots"
+        },
+        {
+          "w": "electrode",
+          "m": "a sheet that catches or releases electrons, so electricity can flow"
+        },
+        {
+          "w": "electron",
+          "m": "a tiny particle; when electrons flow, that is electricity"
+        },
+        {
+          "w": "watt",
+          "m": "a unit for how much electric power something makes or uses"
+        }
+      ]
+    }
+  ]
+}
