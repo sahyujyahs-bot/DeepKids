@@ -314,6 +314,7 @@ const KICO = {
   mynote: "read",
   refresh: "game",
   plan: "week",
+  paper: "learn",
 };
 function pathMap(units, covOf) {
   const n = units.length;

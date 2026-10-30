@@ -233,6 +233,7 @@ function renderSheetBody(top) {
     exam: examView,
     told: toldView,
     uploads: uploadsView,
+    paper: paperView,
     track: trackView,
     school: schoolView,
     hist: historyView,

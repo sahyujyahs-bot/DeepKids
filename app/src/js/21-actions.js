@@ -1503,6 +1503,41 @@ function onAct(e) {
       document.getElementById("fxFab")?.click();
       break;
     }
+    case "paper": {
+      sfx("flip");
+      if (ui.sheet?.mode === "paper") {
+        ui.sheet = { mode: "paper", p: b.dataset.p, i: 0 };
+        renderSheet(true);
+      } else openSheet({ mode: "paper", p: b.dataset.p, i: 0 });
+      break;
+    }
+    case "rsgo": {
+      ui.sheet.i = Math.max(0, +b.dataset.i);
+      sfx("flip");
+      renderSheet(true);
+      break;
+    }
+    case "rsf": {
+      ui.rsf = b.dataset.f;
+      sfx("tap");
+      render();
+      break;
+    }
+    case "rslike":
+    case "rsdone": {
+      const st = rsSt(),
+        id = b.dataset.p;
+      if (b.dataset.act === "rslike") st.like[id] = st.like[id] ? 0 : 1;
+      else if (!st.read[id]) {
+        st.read[id] = today;
+        sfx("win");
+        toast("Lovely. Your next one will be ready next week.");
+      }
+      if (b.dataset.act === "rslike") sfx(st.like[id] ? "ok" : "tap");
+      commit();
+      if (ui.sheet) renderSheet();
+      break;
+    }
     case "wk1off": {
       S.wk1 = { ...(S.wk1 || {}), off: true };
       sfx("flip");

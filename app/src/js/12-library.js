@@ -134,6 +134,7 @@ const storyHtml = (st) =>
   `<article class="story"><h2>${esc(st.title)}</h2>${st.text.map((p, i) => `<p${i ? "" : ' class="first"'}>${esc(p)}</p>`).join("")}<div class="storyask"><b>Talk about it</b><ol>${st.ask.map((q) => `<li>${esc(q)}</li>`).join("")}</ol></div></article>`;
 const LIBT = [
   ["topics", "Syllabus", "Every chapter of every board, by subject and class"],
+  ["research", "Research", "Real research papers, retold for children as flashcards"],
   ["science", "Resources", "Free activities, simulations and videos, tagged to chapters"],
   [
     "have",
@@ -913,6 +914,7 @@ function viewLibrary() {
     inv = S.inv || [];
   let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">Library</h1>${blob("var(--gum)", 7, "happy", "", 'width="50" height="50"')}</div><div class="seg">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
   if (t === "topics") h += topicsTab();
+  if (t === "research") h += researchTab();
   if (t === "science") h += scienceTab();
   if (t === "mine") h += myBooksTab();
   if (t === "have") {

@@ -191,6 +191,7 @@ function itemAction(it, a) {
         it.id === "pm" ? [`data-act="night"`, "Get tomorrow ready"] : [`data-act="tlopen" ${a}`, "Open the checklist"],
       warm: [`data-act="games"`, "Start the warm-up"],
       plan: [`data-act="quickplan"`, "Open the Planner"],
+      paper: [`data-act="paper" data-p="${it.p?.id}"`, "Read it together"],
       exps: [`data-act="tlcheck" ${a}`, "Checked them all"],
       refresh: [`data-act="refresh" data-date="${today}"`, "Play it"],
       finish: [`data-act="tofinish"`, "Open the list"],

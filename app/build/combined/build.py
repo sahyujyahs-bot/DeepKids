@@ -176,6 +176,22 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'songs', '*.json'))):
     if os.path.exists(abcf): sg['abc'] = open(abcf).read()
     data['songs'][sg['id']] = sg
 print('songs:', len(data['songs']))
+# research retold for kids (app/content/research/SPEC.md): each paper checked, then all of them go in data.json
+RKINDS = ["q", "who", "how", "found", "sure", "why", "try", "think", "words"]
+def research_errors(r):
+    e = [k for k in ("id", "title", "blurb", "topics", "tags", "cover", "source", "cards") if not r.get(k)]
+    if [c.get("k") for c in r.get("cards", [])] != RKINDS: e.append("cards must be " + ",".join(RKINDS))
+    imgs = [r.get("cover")] + [c["img"] for c in r.get("cards", []) if c.get("img")]
+    for i in imgs:
+        if not i or not i.get("credit") or not os.path.exists(os.path.join(APP, "content", i.get("src", "-"))): e.append("image missing or uncredited: " + str((i or {}).get("src")))
+    if not (r.get("source") or {}).get("url"): e.append("source url")
+    return e
+data['research'] = []
+for f in sorted(glob.glob(os.path.join(APP, 'content', 'research', '*.json'))):
+    r = json.load(open(f)); e = research_errors(r)
+    if e: print('research skipped', os.path.basename(f), e[:3]); continue
+    data['research'].append(r)
+print('research:', len(data['research']))
 data['combined'] = plan
 data.pop('notebook', None)
 json.dump(data, open(DATA, 'w'), ensure_ascii=False, separators=(",", ":"))

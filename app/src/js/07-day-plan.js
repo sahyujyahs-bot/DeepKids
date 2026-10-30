@@ -550,6 +550,20 @@ function buildDayPlan(date) {
       done: !!td.done && td.doneOn === date,
     }),
   );
+  const rs = date === today && rsToday(date);
+  if (rs)
+    items.push({
+      id: "paper",
+      at: 24 * 60 - 1,
+      dur: rs.p.mins || 6,
+      anytime: true,
+      who: "both",
+      kind: "paper",
+      p: rs.p,
+      title: "Real research: " + rs.p.title,
+      sub: "This week's research paper, picked from what you like · " + rs.p.source.name,
+      done: rs.done || !!S.tl[date + "|paper"],
+    });
   if (parse(date).getDay() === 0)
     items.push({
       id: "weekplan",

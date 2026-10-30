@@ -6125,6 +6125,155 @@ body {
   margin-left: auto;
   flex-wrap: nowrap;
 }
+/* research for kids */
+.rshead {
+  display: grid;
+  gap: 6px;
+  background: var(--night);
+  color: #fff;
+}
+.rshead .eyebrow,
+.rshead p {
+  color: #e6e1f5;
+}
+.rshead h2 {
+  font: 400 26px var(--poster);
+  color: #fff;
+}
+.rsgrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 14px;
+}
+.rscard {
+  position: relative;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-lg);
+  overflow: hidden;
+}
+.rsopen {
+  display: grid;
+  width: 100%;
+  text-align: left;
+  color: inherit;
+}
+.rsopen img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  background: var(--sunk);
+}
+.rsbody {
+  display: grid;
+  gap: 4px;
+  padding: 12px 14px 14px;
+}
+.rsbody b {
+  font: 600 18px/1.25 var(--display);
+}
+.rslike {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 40px;
+  height: 40px;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.92);
+  font-size: 20px;
+  cursor: pointer;
+}
+.rstop {
+  display: grid;
+  gap: 6px;
+}
+.rstop img {
+  width: 100%;
+  max-height: 220px;
+  object-fit: cover;
+  border-radius: var(--r-lg);
+}
+.rstop h2 {
+  font: 400 24px/1.2 var(--poster);
+}
+.rsdots {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+.rsdots button {
+  width: 12px;
+  height: 8px;
+  padding: 0;
+  border: 0;
+  border-radius: 4px;
+  background: var(--line);
+  cursor: pointer;
+}
+.rsdots button.cur {
+  background: var(--peri);
+}
+.rsflash {
+  display: grid;
+  gap: 10px;
+  min-height: 260px;
+  align-content: start;
+  border-top: 5px solid var(--peri);
+}
+.rsflash h3 {
+  font-size: 21px;
+}
+.rsflash p {
+  font-size: 18px;
+  line-height: 1.55;
+}
+.rsflash.rs-found,
+.rsflash.rs-think {
+  border-top-color: var(--sun);
+}
+.rsflash.rs-try {
+  border-top-color: var(--forest);
+}
+.rsk {
+  font-size: 34px;
+}
+.rsflash figure {
+  margin: 0;
+  display: grid;
+  gap: 4px;
+}
+.rsflash figure img {
+  width: 100%;
+  border-radius: var(--r);
+  background: var(--sunk);
+}
+.rsflash figcaption {
+  font-size: 12.5px;
+  color: var(--muted);
+}
+.rswords {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 6px 14px;
+  margin: 0;
+}
+.rswords dt {
+  font-weight: 700;
+}
+.rswords dd {
+  margin: 0;
+}
+.rsnav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+.rsnav .rsdots {
+  flex: 1;
+  justify-content: center;
+}
 </style>
 
 <header class="top"><div class="wrap">
@@ -6647,6 +6796,7 @@ const KICO = {
   mynote: "read",
   refresh: "game",
   plan: "week",
+  paper: "learn",
 };
 function pathMap(units, covOf) {
   const n = units.length;
@@ -8100,6 +8250,20 @@ function buildDayPlan(date) {
       done: !!td.done && td.doneOn === date,
     }),
   );
+  const rs = date === today && rsToday(date);
+  if (rs)
+    items.push({
+      id: "paper",
+      at: 24 * 60 - 1,
+      dur: rs.p.mins || 6,
+      anytime: true,
+      who: "both",
+      kind: "paper",
+      p: rs.p,
+      title: "Real research: " + rs.p.title,
+      sub: "This week's research paper, picked from what you like · " + rs.p.source.name,
+      done: rs.done || !!S.tl[date + "|paper"],
+    });
   if (parse(date).getDay() === 0)
     items.push({
       id: "weekplan",
@@ -14218,6 +14382,7 @@ const storyHtml = (st) =>
   `<article class="story"><h2>${esc(st.title)}</h2>${st.text.map((p, i) => `<p${i ? "" : ' class="first"'}>${esc(p)}</p>`).join("")}<div class="storyask"><b>Talk about it</b><ol>${st.ask.map((q) => `<li>${esc(q)}</li>`).join("")}</ol></div></article>`;
 const LIBT = [
   ["topics", "Syllabus", "Every chapter of every board, by subject and class"],
+  ["research", "Research", "Real research papers, retold for children as flashcards"],
   ["science", "Resources", "Free activities, simulations and videos, tagged to chapters"],
   [
     "have",
@@ -14997,6 +15162,7 @@ function viewLibrary() {
     inv = S.inv || [];
   let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">Library</h1>${blob("var(--gum)", 7, "happy", "", 'width="50" height="50"')}</div><div class="seg">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
   if (t === "topics") h += topicsTab();
+  if (t === "research") h += researchTab();
   if (t === "science") h += scienceTab();
   if (t === "mine") h += myBooksTab();
   if (t === "have") {
@@ -15304,6 +15470,89 @@ function myBookRemove(id) {
   mbSaved();
 }
 
+/* Research for kids: real papers retold as flashcards (app/content/research). What the family reads and
+   likes picks the next one, on the phone, with no AI. */
+const RS_KIND = {
+  q: "🔎",
+  who: "👩‍🔬",
+  how: "🧪",
+  found: "💡",
+  sure: "⚖️",
+  why: "🌍",
+  try: "🏠",
+  think: "🤔",
+  words: "📖",
+};
+const rsAll = () => DATA.research || [];
+const rsBy = (id) => rsAll().find((p) => p.id === id);
+const rsSt = () => (S.rs = S.rs || { read: {}, like: {} });
+// a paper scores for each tag or topic it shares with papers they liked, and for topics the child has worked on
+function rsScore(p) {
+  const st = rsSt(),
+    liked = rsAll().filter((x) => st.like[x.id]),
+    tags = new Set(liked.flatMap((x) => x.tags)),
+    tops = new Set(liked.flatMap((x) => x.topics)),
+    learnt = Object.keys(fxSt().time),
+    base = (id) => id.split(".").slice(0, 2).join(".");
+  return (
+    3 * p.tags.filter((t) => tags.has(t)).length +
+    3 * p.topics.filter((t) => tops.has(t)).length +
+    2 * p.topics.filter((t) => learnt.includes(t)).length +
+    p.topics.filter((t) => learnt.some((u) => base(u) === base(t))).length
+  );
+}
+const rsForYou = () =>
+  rsAll()
+    .filter((p) => !rsSt().read[p.id])
+    .sort((a, b) => rsScore(b) - rsScore(a));
+// Today's list gets one paper when none was read in the past week; once read, it shows as done that day
+function rsToday(date) {
+  const R = Object.entries(rsSt().read),
+    readNow = R.find(([, d]) => d === date);
+  if (readNow) return { p: rsBy(readNow[0]), done: true };
+  if (R.some(([, d]) => d < date && d > addDays(date, -7))) return null;
+  const p = rsForYou()[0];
+  return p ? { p, done: false } : null;
+}
+function rsCard(p) {
+  const st = rsSt();
+  return `<article class="rscard"><button class="plain rsopen" data-act="paper" data-p="${esc(p.id)}"><img src="${esc(p.cover.src)}" alt="${esc(p.cover.alt || "")}" loading="lazy"><span class="rsbody"><span class="eyebrow">${esc(p.source.name)} · ${p.year || p.source.year}${st.read[p.id] ? " · Read ✓" : ""}</span><b>${esc(p.title)}</b><span class="sm muted">${esc(p.blurb)}</span><span class="xs muted">≈ ${p.mins || 6} min together · ${p.tags.slice(0, 3).map(esc).join(" · ")}</span></span></button><button class="rslike" data-act="rslike" data-p="${esc(p.id)}" aria-pressed="${!!st.like[p.id]}" aria-label="${st.like[p.id] ? "Liked" : "Like"}: ${esc(p.title)}">${st.like[p.id] ? "❤️" : "🤍"}</button></article>`;
+}
+function researchTab() {
+  const f = ui.rsf || "you",
+    st = rsSt(),
+    L = f === "you" ? rsForYou() : f === "read" ? rsAll().filter((p) => st.read[p.id]) : rsAll();
+  const chip = (k, n) => `<button class="chip" data-act="rsf" data-f="${k}" aria-pressed="${f === k}">${n}</button>`;
+  return `<section class="sec"><div class="card rshead"><span class="eyebrow">Real science, told for children</span><h2>What scientists found out</h2><p class="sm">Real research papers, retold in a few flashcards: the question, who found out, how, and what they found. Read one together each week. Tap 🤍 on the ones you enjoy, and we'll pick more like them.</p></div>
+   <div class="row">${chip("you", "Picked for you")}${chip("all", "All " + rsAll().length)}${chip("read", "Read already")}</div>
+   ${L.length ? `<div class="rsgrid">${L.map(rsCard).join("")}</div>` : `<p class="sm muted">${f === "read" ? "Nothing read yet. Pick one above." : "You've read them all. New ones come every week."}</p>`}</section>`;
+}
+function paperView() {
+  const p = rsBy(ui.sheet.p);
+  if (!p) return "";
+  const i = ui.sheet.i || 0,
+    n = p.cards.length,
+    last = i === n,
+    c = p.cards[i],
+    st = rsSt();
+  document.getElementById("sheetTitle").textContent = "Research for kids";
+  // Back and Next sit with the dots above the card, clear of the IAm button in the corner
+  const nav = `<div class="rsnav"><button class="btn soft sm" data-act="rsgo" data-i="${i - 1}" ${i ? "" : "disabled"} aria-label="Back">${icon("back")}</button><div class="rsdots">${[...p.cards, null].map((x, k) => `<button data-act="rsgo" data-i="${k}" class="${k === i ? "cur" : ""}" aria-label="${x ? esc(x.t) : "Where this comes from"}"></button>`).join("")}</div><button class="btn sm" data-act="rsgo" data-i="${i + 1}" ${last ? "disabled" : ""}>Next ${icon("next")}</button></div>`;
+  const body = last
+    ? `<span class="rsk">📚</span><h3>Where this comes from</h3><p class="sm">Retold by DeepKids from <a href="${esc(p.source.url)}" target="_blank" rel="noopener">${esc(p.source.title || p.source.name)} ↗</a>${p.source.authors ? ", by " + esc(p.source.authors) : ""}, ${esc(p.source.name)}${p.source.year ? ", " + p.source.year : ""}${p.source.license ? " (" + esc(p.source.license) + ")" : ""}.</p>${p.original ? `<p class="sm">The scientists' own paper: <a href="${esc(p.original.url)}" target="_blank" rel="noopener">${esc(p.original.title)} ↗</a>${p.original.journal ? ", " + esc(p.original.journal) : ""}${p.original.year ? ", " + p.original.year : ""}.</p>` : ""}<p class="xs muted">Pictures: ${[
+        p.cover,
+        ...p.cards.map((x) => x.img),
+      ]
+        .filter(Boolean)
+        .map((x) => esc(x.credit))
+        .filter((x, k, a) => a.indexOf(x) === k)
+        .join(
+          " · ",
+        )}</p><div class="row"><button class="btn" data-act="rsdone" data-p="${esc(p.id)}">${st.read[p.id] ? "Read ✓" : "We read it"}</button><button class="btn soft" data-act="rslike" data-p="${esc(p.id)}" aria-pressed="${!!st.like[p.id]}">${st.like[p.id] ? "❤️ Liked" : "🤍 Like it"}</button></div>`
+    : `<span class="rsk">${RS_KIND[c.k] || "✨"}</span><h3>${esc(c.t)}</h3>${c.img ? `<figure><img src="${esc(c.img.src)}" alt="${esc(c.img.alt || "")}"><figcaption>${esc(c.img.credit)}</figcaption></figure>` : ""}${c.b ? `<p>${esc(c.b)}</p>` : ""}${c.words ? `<dl class="rswords">${c.words.map((w) => `<dt>${esc(w.w)}</dt><dd>${esc(w.m)}</dd>`).join("")}</dl>` : ""}`;
+  return `<section class="sec"><div class="rstop">${i ? "" : `<img src="${esc(p.cover.src)}" alt="${esc(p.cover.alt || "")}">`}<span class="eyebrow">${esc(p.source.name)} · ${p.year || p.source.year}</span><h2>${esc(p.title)}</h2></div>${nav}<div class="card rsflash rs-${last ? "src" : c.k}">${body}</div></section>`;
+}
+
 /* Today */
 const OURS = (i) => !["event", "todo", "prep", "plan"].includes(i.kind);
 const snzd = (i, date) => (S.snz?.[date + "|" + i.id] || 0) > nowMin();
@@ -15497,6 +15746,7 @@ function itemAction(it, a) {
         it.id === "pm" ? [`data-act="night"`, "Get tomorrow ready"] : [`data-act="tlopen" ${a}`, "Open the checklist"],
       warm: [`data-act="games"`, "Start the warm-up"],
       plan: [`data-act="quickplan"`, "Open the Planner"],
+      paper: [`data-act="paper" data-p="${it.p?.id}"`, "Read it together"],
       exps: [`data-act="tlcheck" ${a}`, "Checked them all"],
       refresh: [`data-act="refresh" data-date="${today}"`, "Play it"],
       finish: [`data-act="tofinish"`, "Open the list"],
@@ -20855,6 +21105,7 @@ function renderSheetBody(top) {
     exam: examView,
     told: toldView,
     uploads: uploadsView,
+    paper: paperView,
     track: trackView,
     school: schoolView,
     hist: historyView,
@@ -22527,6 +22778,41 @@ function onAct(e) {
     }
     case "wk1iam": {
       document.getElementById("fxFab")?.click();
+      break;
+    }
+    case "paper": {
+      sfx("flip");
+      if (ui.sheet?.mode === "paper") {
+        ui.sheet = { mode: "paper", p: b.dataset.p, i: 0 };
+        renderSheet(true);
+      } else openSheet({ mode: "paper", p: b.dataset.p, i: 0 });
+      break;
+    }
+    case "rsgo": {
+      ui.sheet.i = Math.max(0, +b.dataset.i);
+      sfx("flip");
+      renderSheet(true);
+      break;
+    }
+    case "rsf": {
+      ui.rsf = b.dataset.f;
+      sfx("tap");
+      render();
+      break;
+    }
+    case "rslike":
+    case "rsdone": {
+      const st = rsSt(),
+        id = b.dataset.p;
+      if (b.dataset.act === "rslike") st.like[id] = st.like[id] ? 0 : 1;
+      else if (!st.read[id]) {
+        st.read[id] = today;
+        sfx("win");
+        toast("Lovely. Your next one will be ready next week.");
+      }
+      if (b.dataset.act === "rslike") sfx(st.like[id] ? "ok" : "tap");
+      commit();
+      if (ui.sheet) renderSheet();
       break;
     }
     case "wk1off": {
