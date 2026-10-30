@@ -2058,17 +2058,6 @@
      "why": "A strong answer names what you can see: a wire and a plug for mains, a cell door for cells."
     },
     {
-     "t": "mcq",
-     "p": "Revathi has just washed her hands. The light switch is next to the sink. What should she do before she presses it?",
-     "opts": [
-      "Dry her hands first, because wet skin lets electricity through far more easily",
-      "Press it very quickly, so there is no time for a shock",
-      "Nothing. Switches are plastic, so water does not matter"
-     ],
-     "a": 0,
-     "why": "Wet skin lets electricity through far more easily than dry skin. Water can also run into the gaps round a switch and reach the metal inside. Being quick does not help, because a shock happens at once."
-    },
-    {
      "t": "write",
      "p": "Grown-ups tell children never to plug in or pull out plugs. Give the reason behind this rule, not just the rule.",
      "lines": 3,
@@ -2246,7 +2235,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Anjali makes a loop with a wire 2 metres long, as long as a door is tall. She closes the gap. When does the bulb light?",
+     "p": "Arjun makes a loop with a wire 2 metres long, as long as a door is tall. She closes the gap. When does the bulb light?",
      "opts": [
       "At once",
       "After about a second",
@@ -2488,14 +2477,14 @@
     },
     {
      "t": "mcq",
-     "p": "A crow sits on a power line and is not hurt. A person on a ladder who touches the same line can be killed. Why the difference?",
+     "p": "A crow sits on a power line and is not hurt. A person standing on the ground who touches the same line can be killed. Why the difference?",
      "opts": [
-      "The crow touches only one wire, so there is no loop through her body",
+      "The crow touches only one wire, so there is no loop through their body",
       "Crows have thick feathers that are conductors",
       "The person is heavier than the crow"
      ],
      "a": 0,
-     "why": "Electricity flows only round a loop. The crow touches one wire and nothing else, so there is no path through her body. The person also touches the ladder and the ground, so there is a path through the body to the earth."
+     "why": "Electricity flows only round a loop. The crow touches one wire and nothing else, so there is no path through their body. The person also touches the ground, so there is a path through the body to the earth."
     },
     {
      "t": "mcq",
@@ -2539,15 +2528,15 @@
     },
     {
      "t": "mcq",
-     "p": "Many people think electricity comes out of one end of the cell and is used up in the bulb. Which result from your tests shows this is wrong?",
+     "p": "Before testing anything, Swati touches the two loose wire ends of her circuit tester together, and the bulb lights. Why is this a good first step?",
      "opts": [
-      "A gap on the far side of the bulb puts the bulb out too",
-      "The bulb gets warm",
-      "The cell feels heavy"
+      "It shows the tester works, so a dark bulb later means the thing is an insulator, not that the tester is broken",
+      "It charges the cell",
+      "It warms up the bulb so it lights faster"
      ],
      "a": 0,
-     "why": "If the electricity stopped at the bulb, a gap after the bulb would not matter. But it puts the bulb out at once. So the electricity must go all the way round and back to the cell.",
-     "how": "e2"
+     "why": "A dark bulb could mean two things: the thing is an insulator, or the tester itself has a gap or a flat cell. Checking that the tester lights on its own rules out the second. A good scientist checks the tool before trusting a result.",
+     "how": "e1"
     },
     {
      "t": "mcq",
@@ -2588,12 +2577,13 @@
     },
     {
      "t": "fill",
-     "p": "One AA cell pushes with 1.5 volts. Two AA cells in a row, facing the same way, push with ____ volts.",
+     "p": "Three AA cells sit in a row. Two face the same way, and the third is turned round. Together they push with ____ volts.",
      "a": [
-      "3",
-      "three"
+      "1.5",
+      "1.5 volts"
      ],
-     "why": "The pushes add up when the cells face the same way: 1.5 + 1.5 = 3 volts. If one is turned round, they cancel and make 0."
+     "why": "The two cells facing the same way push with 3 volts. The turned-round cell pushes back with 1.5 volts. 3 minus 1.5 leaves 1.5 volts, the same as one cell on its own.",
+     "how": "e3"
     },
     {
      "t": "write",

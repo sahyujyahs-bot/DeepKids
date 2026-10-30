@@ -976,12 +976,16 @@
      "why": "The Earth turns from west to east, so the Sun seems to come up in the east. Picking 'west' swaps sunrise and sunset."
     },
     {
-     "t": "fill",
-     "p": "The Sun seems to set in the ____.",
-     "a": [
-      "west"
+     "t": "mcq",
+     "p": "Today the Earth spins once in about 24 hours, so Chennai gets about 12 hours of night. If the Earth spun twice as fast, about how long would the night be?",
+     "opts": [
+      "About 6 hours",
+      "About 12 hours",
+      "About 24 hours",
+      "There would be no night"
      ],
-     "why": "The Sun seems to slide across the sky from east to west, so it sets in the west."
+     "a": 0,
+     "why": "Twice as fast means one spin takes 12 hours instead of 24. Chennai would spend about half of that turned away from the Sun, so about 6 hours of night. A strong answer links the length of a night to how fast the Earth spins."
     },
     {
      "t": "truefalse",
@@ -1167,11 +1171,11 @@
     },
     {
      "t": "fill",
-     "p": "In 1851, Léon Foucault showed the Earth spins with a long swinging ____ in Paris.",
+     "p": "The imaginary line round the middle of the Earth, halfway between the North Pole and the South Pole, is called the ____.",
      "a": [
-      "pendulum"
+      "equator"
      ],
-     "why": "His pendulum kept swinging the same way, while the floor and the Earth turned underneath it."
+     "why": "The equator is the fattest part of the Earth. Places on it, like Singapore, have about 12 hours of day and 12 hours of night all year."
     },
     {
      "t": "mcq",
@@ -1188,7 +1192,7 @@
     },
     {
      "t": "mcq",
-     "p": "Dhruva Tara, the Pole Star, sits almost exactly above the North Pole. If you stood at the North Pole, where would you see her?",
+     "p": "Dhruva Tara, the Pole Star, sits almost exactly above the North Pole. If you stood at the North Pole, where would you see the Pole Star?",
      "opts": [
       "Low down, near the horizon",
       "Almost straight above your head",
@@ -1196,7 +1200,7 @@
       "In the east, rising"
      ],
      "a": 1,
-     "why": "The Pole Star is on the line of the Earth's axis. At the North Pole, that line goes straight up through your head. So she sits almost overhead, and all the other stars circle round her.",
+     "why": "The Pole Star is on the line of the Earth's axis. At the North Pole, that line goes straight up through your head. So the star sits almost overhead, and all the other stars circle round it.",
      "how": "a5"
     },
     {
@@ -1358,9 +1362,9 @@
     },
     {
      "t": "truefalse",
-     "p": "On the equator, a Foucault pendulum's swing would not turn at all.",
-     "a": true,
-     "why": "True. On the equator, the floor is not turning round under the pendulum the way it is near the poles. It is just carried along. This is one more clue that the turning comes from the Earth."
+     "p": "In summer the Earth spins more slowly, and that is why summer days are longer.",
+     "a": false,
+     "why": "False. The Earth spins at the same speed all year, so a day and a night together always take about 24 hours. In summer, more of those 24 hours are daylight, and the night is shorter. That comes from the tilt of the Earth's axis, not from a slower spin."
     },
     {
      "t": "mcq",
@@ -2817,15 +2821,15 @@
   },
   {
    "t": "mcq",
-   "p": "You shine a torch at a ball in a dark room. How much of the ball is lit?",
+   "p": "Nithya says, 'At night, we are in the Earth's own shadow.' Is she right?",
    "opts": [
-    "All of it",
-    "About half",
-    "None of it",
-    "Only the top"
+    "Yes. Night is when our place is on the far side of the Earth, which the Earth itself shades from the Sun",
+    "No. Night is the Moon's shadow",
+    "No. Night is when clouds cover the Sun",
+    "No. Shadows only happen in the day"
    ],
-   "a": 1,
-   "why": "The torch lights the half facing it. The real Earth is the same: half has day and half has night. Picking 'all of it' forgets that light travels in straight lines and cannot reach round the back.",
+   "a": 0,
+   "why": "The Earth blocks sunlight from reaching its far side, just as the ball shades its back from the torch. So the night half of the Earth is in the Earth's own shadow. Picking 'the Moon's shadow' gives the Moon a job it does not do.",
    "outcome": 1,
    "context": "In the torch and ball experiment, a torch is the Sun and a ball is the Earth.",
    "how": "e1"
@@ -2911,14 +2915,15 @@
   },
   {
    "t": "mcq",
-   "p": "It is evening in Bhuj, in Kutch, and the Sun is just setting. In Dong, in Arunachal Pradesh, it is…",
+   "p": "The Earth spins fast: at the equator, the ground moves about 1,670 kilometres every hour. Why are we not thrown off?",
    "opts": [
-    "Still afternoon",
-    "Already dark, night",
-    "Early morning"
+    "The Earth's pull, called gravity, holds us far more strongly than the spin pushes us out",
+    "The air presses us down",
+    "We are glued on by our shoes",
+    "The spin stops at night"
    ],
-   "a": 1,
-   "why": "Dong is far to the east, so it turned away from the Sun first. Its sunset was about an hour and a half earlier. Picking 'still afternoon' gets the direction backwards.",
+   "a": 0,
+   "why": "Gravity pulls everything towards the middle of the Earth. The spin does push us outwards a tiny bit, but gravity is about 300 times stronger. Picking 'the air presses us down' is a common idea, but air pressure pushes from every side, not only down.",
    "outcome": 4
   },
   {
@@ -2958,15 +2963,15 @@
   },
   {
    "t": "mcq",
-   "p": "What do scientists agree is slowly happening to the Earth's spin?",
+   "p": "Why do we use a model, like a torch and a ball, to understand day and night?",
    "opts": [
-    "It is speeding up a lot",
-    "It is slowly slowing down, so days get a tiny bit longer",
-    "It will stop next year",
-    "It never changes at all"
+    "We are tiny and stand on the Earth, so we cannot see it turn from where we are",
+    "Because the real Sun is switched off at night",
+    "Because the Earth is flat",
+    "Because models are always more correct than the real thing"
    ],
-   "a": 1,
-   "why": "The tides rub on the sea floor and act like a gentle brake. A day gets about 2 thousandths of a second longer every 100 years. Picking 'it will stop' turns a tiny change into a scary one. It is far too slow to matter to us.",
+   "a": 0,
+   "why": "From the ground, it looks as if the Sun moves and the Earth stands still. A model lets us look from outside, the way an astronaut would, and see the turning. Picking 'models are always more correct' goes too far: a model is only useful if it matches what we see.",
    "outcome": 6
   },
   {

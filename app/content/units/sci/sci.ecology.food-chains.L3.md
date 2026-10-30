@@ -602,22 +602,22 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 2. (mcq) Which of these is a producer?  
    Options: A cow / A mango tree / A mushroom / A tiger  
    **Answer:** A mango tree. *Why:* A mango tree makes their own food from sunlight, air and water, so the tree is a producer. Picking the mushroom is a common mix-up, because mushrooms grow from the ground like plants. But a mushroom cannot make food from light. They eat dead things, so they are a decomposer.
-3. (fill) Almost every food chain starts with a green ____.  
-   **Answer:** ['plant', 'plants']. *Why:* Green plants, and algae, make food from sunlight. Animals cannot, so every animal's food comes from a plant in the end.
+3. (fill) Animals cannot make their own food. They must eat other living things, so they are called ____.  
+   **Answer:** ['consumers', 'consumer']. *Why:* To consume means to eat or use up. A deer, a frog and a tiger are all consumers. Only plants and algae are producers.
 4. (sort) Sort these animals. Do they eat plants, animals, or both?  
    **Answer:** chital deer → Herbivore (plants); grasshopper → Herbivore (plants); tiger → Carnivore (animals); frog → Carnivore (animals); crow → Omnivore (both); sloth bear → Omnivore (both). *Why:* Deer and grasshoppers eat only plants. Tigers and frogs eat only animals. Crows and sloth bears eat fruit, insects and much more, so they are omnivores.
 5. (order) Put this food chain in the right order: snake, grass, frog, grasshopper.  
    **Answer:** order shown. *Why:* The chain starts with the producer, grass. The grasshopper eats grass, the frog eats the grasshopper, and the snake eats the frog.
-6. (truefalse) A mushroom is a kind of plant, because a mushroom grows out of the ground.  
-   **Answer:** False. *Why:* False. Many people think this. But a mushroom has no green parts and cannot make food from sunlight. Mushrooms feed on dead leaves and wood, so they are decomposers, not producers. Scientists put fungi in a group of their own.
-7. (truefalse) Most animals eat only one kind of food.  
-   **Answer:** False. *Why:* False. Most animals eat several kinds of food. That is why food chains join up into food webs.
+6. (truefalse) A cow never eats sunlight. But the energy in her body first came from the Sun.  
+   **Answer:** True. *Why:* True. The cow eats grass. The grass made their food using energy from sunlight. So the cow's energy came from the Sun, one step back. A strong answer follows the energy back along the chain.
+7. (truefalse) A food chain's arrows show which animal is bigger.  
+   **Answer:** False. *Why:* False. The arrows show which way the food goes, from the food to the eater. A tiny mosquito drinks a big buffalo's blood, and a huge whale eats tiny krill. Size has nothing to do with the direction.
 8. (fill) Many food chains joined together make a food ____.  
    **Answer:** ['web']. *Why:* A food web shows all the 'who eats whom' links in one place, crossing like the threads of a net.
 9. (match) Match each word to what it means.  
    **Answer:** Predator → an animal that hunts other animals; Prey → an animal that is hunted; Scavenger → an animal that eats animals already dead; Decomposer → a living thing that breaks down dead plants and animals into nutrients for the soil. *Why:* A kingfisher is a predator and a small fish their prey. A vulture is a scavenger. A mushroom is a decomposer.
 10. (odd) Which is the odd one out: tiger, kingfisher, frog, goat? Say why.  
-   **Answer:** The goat. *Why:* The goat eats only plants, so she is a herbivore. The tiger, the kingfisher and the frog all eat animals, so they are carnivores.
+   **Answer:** The goat. *Why:* The goat eats only plants, so goats are herbivores. The tiger, the kingfisher and the frog all eat animals, so they are carnivores.
 11. (mcq) Look at the chart. Ants came most to the sugar and the chapati, and not to the salt. Why?  
    Options: Ants cannot see salt / Ants only like white things / Salt is too heavy for ants / Sugar and chapati came from plants and carry food energy. Salt has none.  
    **Answer:** Sugar and chapati came from plants and carry food energy. Salt has none.. *Why:* Sugar comes from sugarcane and chapati from wheat. Both carry energy a plant made from sunlight. Salt comes from the sea or rocks and gives no energy. Picking 'only like white things' cannot be right: salt is white too, and the ants ignored it.
@@ -636,8 +636,8 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 1. (mcq) Look at the chart. The grass in a field holds 1,000 units of food energy. About how much reaches the frogs?  
    Options: About 1,000 units / About 500 units / About 250 units / About 10 units  
    **Answer:** About 10 units. *Why:* Only about a tenth passes on at each step. 1,000 becomes 100 for the grasshoppers, then 10 for the frogs. Picking 250 usually means sharing the energy equally among four animals. But each animal only gets what the one before did not use up.
-2. (fill) In One Hundred Grains, the grass had 100 grains. The grasshoppers got 10. The frog got ____.  
-   **Answer:** ['1', 'one', '1 grain', 'one grain']. *Why:* 10 divided by 10 is 1. Each step keeps one tenth.
+2. (fill) A species who holds a whole food web together, so that the web changes a lot without them, is called a ____ species.  
+   **Answer:** ['keystone']. *Why:* A keystone is the top stone in an arch. Take it out, and the arch falls. A strong answer can name an example, like the starfish on a rocky shore or the tiger in a forest.
 3. (mcq) Where does most of the food energy go at each step of a food chain?  
    Options: It goes back into the Sun / It is used for living, and ends up as heat / It is passed on to the next animal / It is stored for ever in the animal's bones  
    **Answer:** It is used for living, and ends up as heat. *Why:* Animals use most of their food to move, breathe, grow and stay warm. That energy leaves as heat. Picking 'passed on' is the very idea this question tests: only a small part is passed on.
@@ -677,8 +677,8 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 2. (mcq) Scientists worked out how far up the food chain humans are, on average. What did they find?  
    Options: 1, the same as a plant / 5, the very top, above the tiger / 10, far above everything / About 2.2, close to a pig or an anchovy  
    **Answer:** About 2.2, close to a pig or an anchovy. *Why:* In 2013, scientists found that humans eat mostly plants, so on average we are about 2.2. Picking 5 is what most people expect. It is how strongly we change food webs, not what we eat, that makes us powerful.
-3. (truefalse) Chief Seattle really said: 'Man did not weave the web of life. He is merely a strand in it.'  
-   **Answer:** False. *Why:* False. Those words were written by a screenwriter, Ted Perry, in 1971. The idea is beautiful, but it is always worth checking who really said something.
+3. (truefalse) If all the decomposers on Earth vanished, plants would slowly run short of the nutrients they need.  
+   **Answer:** True. *Why:* True. Decomposers, such as fungi and bacteria, break dead leaves and bodies down into nutrients. Plants take these up from the soil. Without decomposers, dead things would pile up, and the soil would slowly run out of what plants need.
 4. (perspective) In 1995, wolves were brought back to Yellowstone, a huge park in the USA. Wolves hunt elk, a kind of large deer. Scientists still disagree about what happened next.  
    **Answer:** A strong answer uses the food web: wolves eat elk, and elk eat young willows. For the first side: fewer elk should mean more willows. For the second side: when many things change at once, you cannot be sure the wolves caused it. A strong answer may also say what you could measure to find out, such as the willows where there are wolves and where there are none.. *Why:* This is a real and open argument. A popular video told the story as if all scientists agreed. They do not.
 5. (mcq) What happens to the carbon atoms in a leaf that a goat eats?  
@@ -692,7 +692,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 8. (write) Rachel Carson was attacked when she said DDT was harming birds. Why do you think some people did not want to hear it?  
    **Answer:** Any thoughtful answer. For example: companies were making money from selling DDT. Farmers found it useful. It is hard to hear that something you rely on is causing harm.. *Why:* This question links science to people. Evidence is not always welcome, and the people who bring it may need courage.
 9. (write) Is the tiger at the 'top' of the food chain the most powerful living thing in the forest? Give one reason for yes and one for no.  
-   **Answer:** Yes: nothing hunts a grown tiger. No: the tiger depends on 500 prey animals and huge amounts of grass. If the grass fails, the tiger starves, but the grass does not need the tiger.. *Why:* There is no single right answer. A good answer gives a reason for each side.
+   **Answer:** Yes: nothing hunts a grown tiger. No: the tiger depends on hundreds of prey animals, and they depend on plants. If the plants fail, the tiger starves. Plants can live without tigers, although without tigers the deer may eat too many of them.. *Why:* There is no single right answer. A good answer gives a reason for each side.
 10. (write) A farmer sprays a strong poison to kill insects on her crop. Next year the insects come back worse. Use the food web to explain how this could happen.  
    **Answer:** The poison also killed the frogs, spiders, birds and helpful insects that ate the crop insects. The crop insects breed faster than their predators, so they came back first, with fewer hunters.. *Why:* Killing one part of a web can harm the pest's predators more than the pest.
 11. (mcq) Why was what happened to India's vultures not quite the same as DDT biomagnification?  
@@ -705,8 +705,8 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
    **Answer:** A web where each animal eats many different things. *Why:* If an animal has many foods, losing one food is not a disaster. Picking 'only one thing' is the opposite: then losing one food means starving. Scientists still argue about very big, complicated webs, but this simple idea holds well.
 14. (perspective) In a market in Kozhikode, rats are eating the stored rice. People argue about what to do.  
    **Answer:** A strong answer uses the web and thinks about what else would change. For Fathima: disease and lost grain are real harms. For Meera: poison climbs the chain, as in the poison game, and rats breed faster than owls. For Ravi: less food means fewer rats, without harming owls. The answer-back must give a reason, not just disagree.. *Why:* There is no single right answer. Each plan has a cost. The food web shows what each plan might change beyond the rats.
-15. (draw) Draw the food web from the story: rice, caterpillar, sparrow. Draw every arrow Lan drew.  
-   **Answer:** Three arrows: rice → sparrow, rice → caterpillar, caterpillar → sparrow.. *Why:* Two arrows go into the sparrow. The sparrow eats rice, and also eats the caterpillars that eat rice.
+15. (draw) Draw this food web from a city balcony: a tulsi plant, aphids (tiny sap-sucking insects), a ladybird, a spider, a house gecko and a crow. Join them with arrows that point to the eater. Then cross out the spider and circle every living thing whose life would change.  
+   **Answer:** Arrows: tulsi → aphids, aphids → ladybird, aphids → spider, spider → gecko, gecko → crow. Without the spider, more aphids survive, so the tulsi loses more sap. The ladybird has more aphids to eat. The gecko loses a food, so the crow may find fewer geckos. Almost everything is circled.. *Why:* A strong answer follows the arrows both ways from the missing spider: down to what the spider ate, and up to who ate the spider.
 16. (mcq) Some places put gambusia fish in ponds to eat mosquito larvae. Later, the fish also ate the eggs of local fish and frogs. What does this show?  
    Options: Frogs eat gambusia / Adding an animal to a web can change more than you planned / Mosquitoes are not in food webs / Fish never eat mosquito larvae  
    **Answer:** Adding an animal to a web can change more than you planned. *Why:* Most animals eat more than one thing, so a new animal touches many threads in the web. Picking 'fish never eat larvae' is wrong: gambusia do eat them. The problem is what else they eat.
@@ -717,9 +717,9 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 - **India's vanishing vultures** (to find, 6 min) id `Jo0LTZQ3KA4`: Real footage of India's vultures, the diclofenac story and the breeding centres trying to bring them back. *Check:* Found by YouTube search: "Why India's Vultures Are Disappearing: The Veterinary Drugs Impact Explained | Connecting The Dots" by DD India. Title checked automatically; a parent may still preview it.
 
 ## Quiz
-1. (mcq) One link is missing from this food chain: ____ → caterpillar → bulbul → cat. What should go at the start?  
-   Options: A tiger / A hibiscus leaf / Sunlight / A stone  
-   **Answer:** A hibiscus leaf. *Why:* Every food chain starts with a producer, a plant. The caterpillar eats the leaf. Picking 'sunlight' is a clever guess, because sunlight feeds the plant. But sunlight is not a living thing, so it is not a link in the chain.
+1. (mcq) One link is missing from this food chain: ____ → grasshopper → garden lizard → crow. What should go at the start?  
+   Options: A tiger / Grass / Sunlight / A stone  
+   **Answer:** Grass. *Why:* Every food chain starts with a producer, a plant. The grasshopper eats the grass. Picking 'sunlight' is a clever guess, because sunlight feeds the plant. But sunlight is not a living thing, so it is not a link in the chain.
 2. (mcq) Why does almost every food chain start with a plant?  
    Options: Plants make their own food from sunlight, air and water / Plants are the smallest living things / Plants live the longest / Plants cannot move  
    **Answer:** Plants make their own food from sunlight, air and water. *Why:* Animals cannot make food from light. Only plants and algae can. So every animal's food comes from a plant in the end. Picking 'cannot move' is true of most plants, but it is not why they come first.
@@ -729,15 +729,15 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 4. (mcq) A mongoose eats snakes, eggs, insects and fruit. What is the mongoose?  
    Options: A producer / A herbivore / An omnivore  
    **Answer:** An omnivore. *Why:* An omnivore eats both plants and animals. The fruit is from a plant. The snakes, eggs and insects come from animals. Picking 'herbivore' counts only the fruit.
-5. (mcq) Which living thing breaks down dead plants and animals into nutrients for the soil?  
-   Options: A tiger, which is a predator / A mushroom, which is a decomposer / A mango tree, which is a producer  
-   **Answer:** A mushroom, which is a decomposer. *Why:* Mushrooms and other fungi, and bacteria, are decomposers. Picking the mango tree may come from thinking that whatever grows in soil also feeds it. But trees take nutrients from the soil. Decomposers give them back.
+5. (mcq) A dead leaf falls on the soil in a flowerpot. A few months later, the leaf has gone. Where did the leaf go?  
+   Options: The wind blew it away, bit by bit / Decomposers such as fungi and bacteria broke it down into nutrients for the soil / It melted in the sun  
+   **Answer:** Decomposers such as fungi and bacteria broke it down into nutrients for the soil. *Why:* Fungi and bacteria feed on dead leaves and break them down. What is left becomes nutrients in the soil, which the plant can take up again. Picking 'melted' treats a leaf like ice. A leaf does not melt.
 6. (mcq) In a pond, kingfishers eat small fish, and small fish eat mosquito larvae. If all the kingfishers left, what would most likely happen first?  
    Options: The mosquito larvae would increase / The pond plants would die / The small fish would increase  
    **Answer:** The small fish would increase. *Why:* With no kingfishers eating them, more small fish survive. Later, with more small fish, fewer mosquito larvae would be left. Picking 'larvae increase' skips a step in the web.
-7. (mcq) A bulbul eats figs, insects and flower nectar. One year the fig tree near her has no fruit. Why does she not starve?  
-   Options: Bulbuls do not need food / Another bird brings her figs / She is part of a food web, so she can eat insects and nectar instead  
-   **Answer:** She is part of a food web, so she can eat insects and nectar instead. *Why:* Most animals eat many kinds of food. In a web, losing one food is not a disaster. If she ate only figs, she would be in trouble.
+7. (mcq) A bulbul eats figs, insects and flower nectar. One year the fig tree nearby has no fruit. Why does the bulbul not starve?  
+   Options: Bulbuls do not need food / Another bird brings figs / The bulbul is part of a food web, so they can eat insects and nectar instead  
+   **Answer:** The bulbul is part of a food web, so they can eat insects and nectar instead. *Why:* Most animals eat many kinds of food. In a web, losing one food is not a disaster. If the bulbul ate only figs, they would be in trouble.
 8. (mcq) In One Hundred Grains, why did the snake at the end get almost nothing?  
    Options: The snake was not hungry / The frog hid the grains / There were too many snakes / At each step, nine out of every ten grains were used up for living  
    **Answer:** At each step, nine out of every ten grains were used up for living. *Why:* 100 became 10, then 1, then a tiny part of one grain for the snake. Each animal uses most of their food to move, breathe and stay warm.
@@ -750,9 +750,9 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 11. (mcq) In the Leaf Bite Survey, the hibiscus had 9 bitten leaves out of 20, the grass had 5 and the tulsi had 2. What is a good way to compare them at a glance?  
    Options: A bar chart with one bar for each plant / A drawing of one leaf / Writing the numbers in one long sentence  
    **Answer:** A bar chart with one bar for each plant. *Why:* A bar chart puts the three numbers side by side. The tallest bar shows the plant eaten most. A table works well too.
-12. (mcq) In Poison Climbs the Chain, each plankton had 1 red dot. The osprey, a fish-eating bird, ended up with 40. Why did she get so many?  
-   Options: The dots grew on their own / Ospreys make poison / She ate many fish, and each fish had eaten many plankton  
-   **Answer:** She ate many fish, and each fish had eaten many plankton. *Why:* Each eater keeps the poison from everything they ate. So it builds up at every step, and the top eater holds the most. This is called biomagnification.
+12. (mcq) In Poison Climbs the Chain, each plankton had 1 red dot. The osprey, a fish-eating bird, ended up with 40. Why did the osprey get so many?  
+   Options: The dots grew on their own / Ospreys make poison / The osprey ate many fish, and each fish had eaten many plankton  
+   **Answer:** The osprey ate many fish, and each fish had eaten many plankton. *Why:* Each eater keeps the poison from everything they ate. So it builds up at every step, and the top eater holds the most. This is called biomagnification.
 13. (mcq) In 2006, India banned the painkiller diclofenac for cattle. Why did this help vultures?  
    Options: Cattle stopped dying / Vultures were taking the medicine themselves / Vultures eat dead cattle, so the medicine no longer reached them  
    **Answer:** Vultures eat dead cattle, so the medicine no longer reached them. *Why:* Vultures ate dead cattle that had been given diclofenac, and it destroyed their kidneys. With the ban, their food became safe again. Vulture numbers are now slowly recovering in some places.

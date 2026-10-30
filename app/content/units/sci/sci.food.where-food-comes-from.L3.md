@@ -664,8 +664,8 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Their seeds ca
 7. (mcq) In the Milk to Curd test, which katori set into thick curd by morning?  
    Options: Milk with curd added, kept warm / Milk with nothing added, kept warm / Milk with curd added, kept in the fridge  
    **Answer:** Milk with curd added, kept warm. *Why:* The curd bacteria need to be added, and they need warmth to work. If you picked 'nothing added', you may think milk sets by itself. If you picked 'the fridge', remember that cold slows the bacteria down.
-8. (write) Revathi stirs a spoon of curd into cold milk and leaves the bowl in the fridge overnight. What will she find in the morning? Why do you think so?  
-   **Answer:** I think the milk will still be runny. The curd bacteria are in the milk, but the fridge is cold. Cold slows the bacteria down, so they cannot turn the milk into curd by morning.. *Why:* A strong answer makes a clear guess and gives the reason: the bacteria need warmth.
+8. (write) Revathi finds mushrooms growing on a damp log in a dark corner of the garden. A tulsi plant kept in a dark cupboard turns pale and weak. Why can the mushrooms grow in the dark when the tulsi cannot?  
+   **Answer:** The tulsi is a plant and makes her food from air and water using sunlight, so in the dark she cannot make new food. Mushrooms are fungi. They do not make food from light. They feed on the dead wood of the log, so they can grow in the dark.. *Why:* A strong answer says how each one gets food: the plant makes it with light, the fungus takes it from dead things.
 9. (fill) Milk turns into curd because of tiny living beings called ____.  
    **Answer:** ['bacteria', 'microbes']. *Why:* Bacteria from a spoon of old curd feed on the sugar in warm milk. They make an acid that turns the milk thick and sour.
 10. (order) Put this food chain in order, starting from the beginning.  
@@ -682,46 +682,43 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Their seeds ca
    **Answer:** Water. *Why:* The only difference was water, and only the wet seeds sprouted. 'Soil' is a common guess. But neither plate had soil, and the wet seeds still grew, using the food stored inside them.
 15. (draw) Draw a soaked chana seed split open. Label the baby plant and the food store.  
    **Answer:** A split seed with a small curled baby plant at one edge, and the two big halves labelled 'food store'.. *Why:* A seed holds a baby plant and a store of food. The big halves hold the food the baby plant uses when they start to grow.
-### Food Journeys (stretch) (stretch, 16 questions)
-1. (mcq) Which of these spices is a dried flower bud?  
-   Options: Clove / Jeera / Cinnamon / Haldi  
-   **Answer:** Clove. *Why:* A clove is a flower bud, picked and dried before it opens. Jeera is a seed. Cinnamon is the bark of a tree. Haldi is an underground stem. Brown spices look alike, but they come from very different parts of plants.
-2. (match) Each masala comes from one part of a plant. Match each masala to that part.  
+### Food Journeys (stretch) (stretch, 15 questions)
+1. (match) Each masala comes from one part of a plant. Match each masala to that part.  
    **Answer:** jeera → seed; cinnamon → bark; haldi → underground stem; clove → flower bud; curry leaves → leaf; black pepper → fruit. *Why:* Jeera is a seed. Cinnamon is bark, the outside of a tree's stem. Haldi is an underground stem. A clove is a dried flower bud. Curry leaves are leaves. Each peppercorn is a small dried fruit.
-3. (mcq) A botanist is a scientist who studies plants. To a botanist, which of these is a fruit?  
+2. (mcq) A botanist is a scientist who studies plants. To a botanist, which of these is a fruit?  
    Options: Bhindi / Potato / Radish / Keerai  
    **Answer:** Bhindi. *Why:* Botanists call any part that grows from a flower and holds seeds a fruit. Bhindi is full of seeds, so it is a fruit, even though a cook calls it a vegetable. Potato is a stem, radish is a root and keerai is leaves.
-4. (write) Ghee comes from a cow. Write the whole chain, going back from ghee to where its energy began.  
+3. (write) Ghee comes from a cow. Write the whole chain, going back from ghee to where its energy began.  
    **Answer:** Ghee is made from butter. Butter is made from milk. The cow made milk from the grass she ate. The grass made their food using sunlight. So the chain is: Sun, grass, cow, milk, butter, ghee.. *Why:* A strong answer reaches the Sun with no missing steps. Every animal food goes back to a plant, and every plant goes back to the Sun.
-5. (mcq) In the iodine test, which food turned blue-black?  
+4. (mcq) In the iodine test, which food turned blue-black?  
    Options: Cooked rice / Paneer / Salt / Sugar  
    **Answer:** Cooked rice. *Why:* Rice is a seed, full of the starch the plant packed for their baby. Iodine turns blue-black on starch. Paneer comes from milk and salt from the Earth. Sugar is a clever trap: sugar comes from a plant, but sugar is a different kind of food from starch.
-6. (truefalse) Animals store their food as starch, just like plants.  
+5. (truefalse) Animals store their food as starch, just like plants.  
    **Answer:** False. *Why:* False. Starch is how plants store food. That is why paneer did not turn blue-black in the iodine test. Animals store food mostly as fat, and a little as glycogen, a starch-like store in the liver and muscles.
-7. (fill) Making food with the help of microbes, like curd and idli batter, is called ____.  
+6. (fill) Making food with the help of microbes, like curd and idli batter, is called ____.  
    **Answer:** ['fermentation']. *Why:* In fermentation, microbes feed on a food and slowly change it. The food often turns sour, bubbly or thick.
-8. (write) In a warm Chennai kitchen, idli batter rises overnight. In a cold Delhi winter, it often stays flat unless it is kept somewhere warm. Use what you found in the Milk to Curd test to explain why.  
+7. (write) In a warm Chennai kitchen, idli batter rises overnight. In a cold Delhi winter, it often stays flat unless it is kept somewhere warm. Use what you found in the Milk to Curd test to explain why.  
    **Answer:** Idli batter rises because microbes in it feed and make gas. In the curd test, the bacteria worked only when the milk was warm. The cold fridge katori stayed runny. So in a cold kitchen the batter microbes work very slowly, and the batter stays flat.. *Why:* A strong answer links the two: both are microbes at work, and both need warmth.
-9. (perspective) Three friends are arguing about where curd comes from.  
+8. (perspective) Three friends are arguing about where curd comes from.  
    **Answer:** A strong answer picks one and backs it up, for example with the Milk to Curd test, where milk with no curd added stayed runny. It then admits that the others are right too, because curd needs a plant, an animal and microbes.. *Why:* All three are partly right. Curd needs grass that grew in sunlight, a cow who made milk, and bacteria who turned the milk sour and thick. The strength is in the reasons.
-10. (mcq) Honey is sweet. Where did that sweetness first come from?  
+9. (mcq) Honey is sweet. Where did that sweetness first come from?  
    Options: Sugar made by a flowering plant, using sunlight / The bee's own body fat / The wax of the hive  
    **Answer:** Sugar made by a flowering plant, using sunlight. *Why:* Bees drink nectar, a sugary juice made by flowers. The plant made that sugar using the energy of sunlight. The bees thicken it into honey, but the sweetness began in the plant.
-11. (sort) Sort these foods into usual summer foods and usual winter foods in north India.  
+10. (sort) Sort these foods into usual summer foods and usual winter foods in north India.  
    **Answer:** mango → Summer; sarson ka saag → Winter; buttermilk → Summer; gajar halwa → Winter; watermelon → Summer; til laddoo → Winter. *Why:* Mangoes and watermelons ripen in summer, and buttermilk cools us. Mustard greens and carrots grow in winter, and til laddoo gives lots of energy in the cold.
-12. (mcq) Which of these came to India from the Americas only about 500 years ago?  
+11. (mcq) Which of these came to India from the Americas only about 500 years ago?  
    Options: Chilli / Black pepper / Haldi / Moong  
    **Answer:** Chilli. *Why:* Chilli, potato, tomato and peanut all came from the Americas, many of them on Portuguese ships. Black pepper grows wild in Kerala and is one of India's oldest spices. Both taste hot, but they came from opposite sides of the world.
-13. (mcq) In the Windowsill Farm, the seedlings in the dark cupboard grew tall, thin and pale yellow. What were they living on?  
+12. (mcq) In the Windowsill Farm, the seedlings in the dark cupboard grew tall, thin and pale yellow. What were they living on?  
    Options: The food packed in their seeds / Food they made from light / The soil / Food from the dark  
    **Answer:** The food packed in their seeds. *Why:* In the dark, a seedling cannot make new food. They live on the food stored in their seed, stretching to look for light. 'The soil' is the old idea that plants eat soil, which van Helmont's willow tree showed was wrong.
-14. (truefalse) A dry moong seed sitting in a jar in the kitchen is not alive.  
+13. (truefalse) A dry moong seed sitting in a jar in the kitchen is not alive.  
    **Answer:** False. *Why:* False. A dry seed is alive, but resting. Scientists call this dormant. Give the seed water and warmth, and the baby plant inside wakes up and grows. A dead seed would never sprout.
-15. (write) In the sprouting test, 20 dry moong seeds weighed 10 grams. After a night in water, the same seeds weighed 20 grams. What happened, and why does a seed need to do this?  
+14. (write) In the sprouting test, 20 dry moong seeds weighed 10 grams. After a night in water, the same seeds weighed 20 grams. What happened, and why does a seed need to do this?  
    **Answer:** The seeds took in 10 grams of water, because 20 minus 10 is 10. That doubled their weight. A seed needs water to wake up the baby plant and to soften the food store, so the baby plant can use the food to grow.. *Why:* A strong answer works out the 10 grams of water and links it to what the seed needs to start growing.
-16. (draw) Draw a whole plant and label the parts that we eat: root, stem, leaf, flower, fruit, seed. Next to each label, write one food that is that part.  
-   **Answer:** Root at the bottom under the soil, for example radish. Stem going up, for example sugarcane. Leaves on the sides, for example methi. A flower near the top, for example vazhaipoo. A fruit, for example guava. Seeds inside the fruit, for example moong.. *Why:* Every part of a plant can be food. A strong drawing puts each part in the right place and gives a real food for each.
-### From the Sun to the Sea Floor (challenge) (challenge, 16 questions)
+15. (draw) Draw a whole plant and label six parts: root, stem, leaf, flower, fruit, seed. Next to each label, write a food from your own kitchen that is that part. Try not to use radish, sugarcane, methi, vazhaipoo, guava or moong.  
+   **Answer:** Root under the soil, for example carrot or beetroot. Stem, for example potato, an underground stem. Leaves, for example curry leaves or keerai. A flower, for example cauliflower. A fruit, for example tomato or brinjal. Seeds, for example rice or peanut.. *Why:* Every part of a plant can be food. A strong drawing puts each part in the right place and finds a new, real food for each one.
+### From the Sun to the Sea Floor (challenge) (challenge, 15 questions)
 1. (write) Before 1977, scientists thought every food chain began with sunlight. Then they found crabs and tube worms living around hot vents deep under the sea, where no light reaches. Why was this a surprise? What feeds these animals?  
    **Answer:** It was a surprise because no plant can grow without light, so there seemed to be nothing to start a food chain. The animals are fed by microbes that make food from chemicals in the hot vent water, the way plants use sunlight.. *Why:* A strong answer says why scientists expected nothing, and names the microbes that use chemicals instead of light. This is called chemosynthesis.
 2. (write) About 380 years ago, a scientist called van Helmont grew a willow tree in a pot for five years. The tree got about 30 times heavier, but the soil hardly changed. What does this tell us about what plants are made of?  
@@ -738,27 +735,24 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Their seeds ca
 7. (mcq) An old Indian book of medicine, the Charaka Samhita, named six tastes. Taste scientists today say chilli's 'spicy' is not really a taste. What do they say it is?  
    Options: A feeling of heat and pain from nerves / A mix of sweet and sour / A smell / Just a made-up idea  
    **Answer:** A feeling of heat and pain from nerves. *Why:* Chilli switches on the nerve sensors that warn us about heat. So the mouth feels hot, though the chilli itself is not hot. 'Just a made-up idea' would be unfair to the old book. The burning is completely real. Scientists only explain it as a feeling rather than a taste.
-8. (mcq) Many people believed that spicy food causes stomach ulcers, which are painful sores. In 1982, two doctors in Australia, Robin Warren and Barry Marshall, found something else. What was it?  
-   Options: Most stomach ulcers are caused by a bacterium / Spicy food causes every ulcer / Ulcers are caused by drinking water  
-   **Answer:** Most stomach ulcers are caused by a bacterium. *Why:* They found a bacterium in the stomachs of people with ulcers. Other doctors did not believe them, so Marshall drank the bacteria himself, and his stomach became sore. They won a Nobel Prize in 2005. A popular belief can be wrong, and a test can show it.
-9. (write) In the story A Field in Every Packet, Nina's mother and the other scientists in Leningrad in 1941 were starving, but they did not eat their seed collection. This really happened. Give two reasons why saving the seeds was so important.  
+8. (write) In the story A Field in Every Packet, Nina's mother and the other scientists in Leningrad in 1941 were starving, but they did not eat their seed collection. This really happened. Give two reasons why saving the seeds was so important.  
    **Answer:** First, each seed is a baby plant that can grow into a plant that makes many more seeds. Eaten, a seed is one mouthful, but planted, a seed becomes a field. Second, the collection held many kinds of crops from all over the world. If they were lost, farmers might never get them back.. *Why:* Seeds are both food and the future of food. A strong answer gives both reasons: one seed grows into many, and many kinds of crops must not be lost.
-10. (mcq) In the iodine test, sugar did not turn blue-black. Sugar comes from sugarcane, a plant. What does that tell us?  
+9. (mcq) In the iodine test, sugar did not turn blue-black. Sugar comes from sugarcane, a plant. What does that tell us?  
    Options: Not every plant food is starch / Sugar is from an animal / The iodine was broken / Sugarcane is not a plant  
    **Answer:** Not every plant food is starch. *Why:* Plants make many kinds of food: sugar, starch, oil and protein. Iodine shows only starch. 'The iodine was broken' is a good question to ask. The potato test at the start showed the iodine worked.
-11. (mcq) You want to find out if the added curd is what turns milk into curd. Which test is best?  
+10. (mcq) You want to find out if the added curd is what turns milk into curd. Which test is best?  
    Options: Compare warm milk with curd to warm milk without curd / Compare warm milk with curd to cold milk without curd / Taste lots of curd / Use a bigger katori  
    **Answer:** Compare warm milk with curd to warm milk without curd. *Why:* To test one thing, change only that one thing. Both katoris are warm, so only the curd is different. Cold milk without curd changes two things at once, so you could not tell which one mattered.
-12. (sort) Sort these by what was at the very start of their food chain.  
+11. (sort) Sort these by what was at the very start of their food chain.  
    **Answer:** chapati → Sunlight; honey → Sunlight; tube worm → Chemicals from a deep-sea vent; salt → Never alive; fish curry → Sunlight; vent crab → Chemicals from a deep-sea vent. *Why:* Chapati, honey and fish curry all trace back to plants or algae using sunlight. Tube worms and vent crabs depend on microbes that use chemicals from the vents. Salt was never alive.
-13. (write) Some people say old food traditions are just superstition. Others say they are always right. What do you think? Give one example that supports your answer.  
+12. (write) Some people say old food traditions are just superstition. Others say they are always right. What do you think? Give one example that supports your answer.  
    **Answer:** Any answer with a reason and an example. For example: some old traditions were clever, because people made curd and idli with microbes long before microbes were discovered. But each old rule should be tested, because some have never been checked.. *Why:* The fair way is to test each idea, not to accept or reject them all. A strong answer gives a real example and a reason.
-14. (mcq) Millets like ragi, jowar and bajra are being grown more again in India. What is one big reason?  
-   Options: They need much less water than rice / They grow only in the sea / They have no food value / They came from the Moon  
-   **Answer:** They need much less water than rice. *Why:* Millets grow well with little rain, while rice needs a lot of water. In places like Punjab, pumping water for rice is making the water under the ground fall. Millets are also full of good food.
-15. (truefalse) Fungi, like mushrooms, are more closely related to animals than to plants.  
+13. (mcq) Millets like ragi, jowar and bajra are being grown more again in India. What is one big reason?  
+   Options: They need much less water than rice / They grow without any sunlight / They are new crops that were never grown in India before  
+   **Answer:** They need much less water than rice. *Why:* Millets grow well with little rain, while rice needs a lot of water. In places like Punjab, pumping water for rice is making the water under the ground fall. Millets are not new: people in India have grown them for thousands of years. Like every plant, they need sunlight.
+14. (truefalse) Fungi, like mushrooms, are more closely related to animals than to plants.  
    **Answer:** True. *Why:* True. Studies of their cells and their genes show that fungi and animals share a closer ancestor than fungi and plants do. That surprised many people, because mushrooms grow in one place like plants.
-16. (write) The carbon atoms in your rice were carbon dioxide in the air a few months ago. Where might they go after you eat them? Write two places.  
+15. (write) The carbon atoms in your rice were carbon dioxide in the air a few months ago. Where might they go after you eat them? Write two places.  
    **Answer:** Some will become part of my body, like my blood or muscles. Some I will breathe out as carbon dioxide, and a plant may take them in again to make new food.. *Why:* Atoms do not wear out. They move from air to plant to animal and back to the air, again and again. A strong answer names one place in the body and one way back to a plant.
 
 ## Videos
@@ -782,34 +776,31 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Their seeds ca
 5. (mcq) When we eat rice, dal or peanuts, which part of the plant are we eating?  
    Options: Seeds / Roots / Leaves  
    **Answer:** Seeds. *Why:* Rice, dal and peanuts are all seeds: baby plants with their food packed around them. Picking 'roots' happens with peanuts, because they grow under the ground. But a peanut is a seed inside a pod.
-6. (mcq) Honey comes from bees. Where do the bees get what they need to make it?  
-   Options: Nectar from flowers / Milk from cows / Salt from the sea  
-   **Answer:** Nectar from flowers. *Why:* Bees drink sweet nectar from flowers and turn it into honey in the hive. So honey is really plant food, passed through an animal. Picking 'milk' mixes up two different animal foods.
-7. (mcq) A cow gives milk. What did the cow eat to make her milk?  
+6. (mcq) A cow gives milk. What did the cow eat to make her milk?  
    Options: Grass and fodder / Milk / Nothing  
    **Answer:** Grass and fodder. *Why:* A cow makes milk from the grass and fodder she eats. That is why animal food is really plant food that has passed through an animal. Picking 'nothing' means imagining milk just appears inside the cow.
-8. (mcq) What is at the very start of almost every food chain on land?  
+7. (mcq) What is at the very start of almost every food chain on land?  
    Options: A plant, using sunlight / A lion / A shop / A cow  
    **Answer:** A plant, using sunlight. *Why:* Every food chain on land starts with a plant, which makes food from sunlight. Picking 'a cow' means starting in the middle. The cow ate grass first.
-9. (mcq) What do plants make most of their own body from?  
+8. (mcq) What do plants make most of their own body from?  
    Options: Air and water / Soil / Fertiliser  
    **Answer:** Air and water. *Why:* Plants use sunlight to join carbon dioxide from the air with water. Picking 'soil' is the old idea that van Helmont tested. His tree grew huge, but the soil in their pot hardly changed.
-10. (mcq) In the Milk to Curd test, why do we keep everything the same except one thing?  
+9. (mcq) In the Milk to Curd test, why do we keep everything the same except one thing?  
    Options: So we know which change made the difference / Because it looks neater / To use less milk  
    **Answer:** So we know which change made the difference. *Why:* If only one thing changes, that one thing must have caused the difference. That is a fair test. Picking 'looks neater' misses the reason. A test can be messy and still fair, or neat and still unfair.
-11. (mcq) Look at the bar chart from the sprouting test. Which plate had more sprouted seeds?  
+10. (mcq) Look at the bar chart from the sprouting test. Which plate had more sprouted seeds?  
    Options: The wet cloth / The dry cloth / They were the same  
    **Answer:** The wet cloth. *Why:* The wet cloth's bar is much taller: 18 seeds sprouted, and none on the dry cloth. Seeds need water to sprout. Picking 'the same' might mean the chart was not read. The dry bar is at zero.
-12. (mcq) Old Indian books named six tastes, or rasas. Which one of these is in that list?  
+11. (mcq) Old Indian books named six tastes, or rasas. Which one of these is in that list?  
    Options: Astringent, the dry puckery feel of raw banana / Crunchy / Cold / Colourful  
    **Answer:** Astringent, the dry puckery feel of raw banana. *Why:* The six rasas are sweet, sour, salty, pungent, bitter and astringent. Astringent is the dry feeling from raw banana or strong tea. Crunchy and cold are about texture and temperature, not taste.
-13. (mcq) Why do many families eat watery foods like watermelon and buttermilk in summer?  
+12. (mcq) Why do many families eat watery foods like watermelon and buttermilk in summer?  
    Options: They help replace the water we lose in sweat / They are only sold in summer by law / They make us sweat more  
    **Answer:** They help replace the water we lose in sweat. *Why:* On hot days we sweat a lot, and watery foods help replace that water. This is old knowledge that science agrees with. Picking 'make us sweat more' turns the idea upside down.
-14. (mcq) What did scientists find at deep-sea vents in 1977?  
+13. (mcq) What did scientists find at deep-sea vents in 1977?  
    Options: Animals living without sunlight, fed by microbes that use chemicals / Plants growing in the dark / Nothing alive at all  
    **Answer:** Animals living without sunlight, fed by microbes that use chemicals. *Why:* At the vents, microbes make food from chemicals in the hot water, and whole communities of animals depend on them. Before 1977, most scientists thought every community of animals depended on sunlight. Picking 'plants growing in the dark' means forgetting that plants need light.
-15. (mcq) Why do seed banks, like the one in Svalbard in Norway, keep seeds very dry and very cold?  
+14. (mcq) Why do seed banks, like the one in Svalbard in Norway, keep seeds very dry and very cold?  
    Options: So the baby plants stay dormant and alive for many years / To make the seeds taste better / To kill the seeds  
    **Answer:** So the baby plants stay dormant and alive for many years. *Why:* Water and warmth start a seed growing. Kept dry and cold, the baby plant inside stays dormant and alive for a very long time. Picking 'to kill the seeds' is the opposite of the plan. A dead seed can never be grown again.
 

@@ -624,8 +624,9 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 5. (mcq) In which direction does the Sun seem to rise?  
    Options: North / South / East / West  
    **Answer:** East. *Why:* The Earth turns from west to east, so the Sun seems to come up in the east. Picking 'west' swaps sunrise and sunset.
-6. (fill) The Sun seems to set in the ____.  
-   **Answer:** ['west']. *Why:* The Sun seems to slide across the sky from east to west, so it sets in the west.
+6. (mcq) Today the Earth spins once in about 24 hours, so Chennai gets about 12 hours of night. If the Earth spun twice as fast, about how long would the night be?  
+   Options: About 6 hours / About 12 hours / About 24 hours / There would be no night  
+   **Answer:** About 6 hours. *Why:* Twice as fast means one spin takes 12 hours instead of 24. Chennai would spend about half of that turned away from the Sun, so about 6 hours of night. A strong answer links the length of a night to how fast the Earth spins.
 7. (truefalse) The Sun really moves across the sky every day.  
    **Answer:** False. *Why:* False. The Sun only seems to move. Our Earth turns, and carries us past the Sun, the way trees seem to rush past a moving train.
 8. (mcq) You shine a torch at a ball in a dark room. Which part of the ball is like night?  
@@ -659,14 +660,14 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 4. (mcq) A man in a moving boat sees the trees on the bank move backwards. What did Aryabhata use this example to explain?  
    Options: Why rivers flow / Why the stars seem to move west, though it is the Earth that turns / Why trees grow near rivers / Why boats float  
    **Answer:** Why the stars seem to move west, though it is the Earth that turns. *Why:* Aryabhata said the still stars seem to move west because the Earth turns, just as the trees seem to move for the man in the boat. Picking any other answer misses the point of the example: what seems to move is not always what moves.
-5. (fill) In 1851, Léon Foucault showed the Earth spins with a long swinging ____ in Paris.  
-   **Answer:** ['pendulum']. *Why:* His pendulum kept swinging the same way, while the floor and the Earth turned underneath it.
+5. (fill) The imaginary line round the middle of the Earth, halfway between the North Pole and the South Pole, is called the ____.  
+   **Answer:** ['equator']. *Why:* The equator is the fattest part of the Earth. Places on it, like Singapore, have about 12 hours of day and 12 hours of night all year.
 6. (mcq) You set up a pendulum over a stool with a chalk line. You turn the stool slowly while the pendulum swings. What happens?  
    Options: The pendulum turns with the stool / The pendulum keeps swinging the same way, and the line turns under it / The pendulum stops / The pendulum swings in a circle  
    **Answer:** The pendulum keeps swinging the same way, and the line turns under it. *Why:* A pendulum keeps swinging the same way unless something pushes it sideways. Turning the stool does not push the pendulum. So the line turns under the swing. Picking 'turns with the stool' is what most people expect. Try it and see.
-7. (mcq) Dhruva Tara, the Pole Star, sits almost exactly above the North Pole. If you stood at the North Pole, where would you see her?  
+7. (mcq) Dhruva Tara, the Pole Star, sits almost exactly above the North Pole. If you stood at the North Pole, where would you see the Pole Star?  
    Options: Low down, near the horizon / Almost straight above your head / You could not see her at all / In the east, rising  
-   **Answer:** Almost straight above your head. *Why:* The Pole Star is on the line of the Earth's axis. At the North Pole, that line goes straight up through your head. So she sits almost overhead, and all the other stars circle round her.
+   **Answer:** Almost straight above your head. *Why:* The Pole Star is on the line of the Earth's axis. At the North Pole, that line goes straight up through your head. So the star sits almost overhead, and all the other stars circle round it.
 8. (truefalse) Places near the equator move faster as the Earth spins than places near the poles.  
    **Answer:** True. *Why:* True. The equator is the fattest part of the Earth, so it has the longest circle to go round in the same 24 hours.
 9. (perspective) Long ago, two great astronomers disagreed about whether the Earth spins. Imagine you lived then, with no pendulum and no photos from space.  
@@ -693,8 +694,8 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 2. (mcq) In Paris, a Foucault pendulum's swing goes all the way round in about 32 hours. In Delhi it takes about 50 hours. At the North Pole, how long would it take?  
    Options: About 24 hours / About 100 hours / It would never turn / About 1 hour  
    **Answer:** About 24 hours. *Why:* At the North Pole, the floor turns all the way round under the pendulum once a day, so the swing goes round in about 24 hours. Closer to the equator it takes longer. Exactly on the equator, it would not turn at all. Picking 'about 100 hours' follows the wrong direction of the pattern.
-3. (truefalse) On the equator, a Foucault pendulum's swing would not turn at all.  
-   **Answer:** True. *Why:* True. On the equator, the floor is not turning round under the pendulum the way it is near the poles. It is just carried along. This is one more clue that the turning comes from the Earth.
+3. (truefalse) In summer the Earth spins more slowly, and that is why summer days are longer.  
+   **Answer:** False. *Why:* False. The Earth spins at the same speed all year, so a day and a night together always take about 24 hours. In summer, more of those 24 hours are daylight, and the night is shorter. That comes from the tilt of the Earth's axis, not from a slower spin.
 4. (mcq) On the International Space Station, astronauts see about 16 sunrises every 24 hours. Why?  
    Options: The Sun moves faster in space / The station goes round the Earth about 16 times a day, in and out of the Earth's shadow / Space has no night / They have very short days because they sleep less  
    **Answer:** The station goes round the Earth about 16 times a day, in and out of the Earth's shadow. *Why:* The station circles the Earth every 90 minutes or so. Each time round, it passes into the Earth's shadow and out again. Picking 'the Sun moves faster in space' still pictures the Sun as the mover.
@@ -735,9 +736,9 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 1. (mcq) Right now it is night in Chennai. What is the Sun doing?  
    Options: Still shining, on the side of the Earth that faces it / Switched off until morning / Hiding behind the Moon / Resting behind the hills  
    **Answer:** Still shining, on the side of the Earth that faces it. *Why:* The Sun never stops shining. Chennai has simply turned away from it. On the other side of the Earth, it is daytime.
-2. (mcq) You shine a torch at a ball in a dark room. How much of the ball is lit?  
-   Options: All of it / About half / None of it / Only the top  
-   **Answer:** About half. *Why:* The torch lights the half facing it. The real Earth is the same: half has day and half has night. Picking 'all of it' forgets that light travels in straight lines and cannot reach round the back.
+2. (mcq) Nithya says, 'At night, we are in the Earth's own shadow.' Is she right?  
+   Options: Yes. Night is when our place is on the far side of the Earth, which the Earth itself shades from the Sun / No. Night is the Moon's shadow / No. Night is when clouds cover the Sun / No. Shadows only happen in the day  
+   **Answer:** Yes. Night is when our place is on the far side of the Earth, which the Earth itself shades from the Sun. *Why:* The Earth blocks sunlight from reaching its far side, just as the ball shades its back from the torch. So the night half of the Earth is in the Earth's own shadow. Picking 'the Moon's shadow' gives the Moon a job it does not do.
 3. (mcq) In the torch and ball experiment, the torch stays still. What makes a dot on the ball go from day into night?  
    Options: Turning the ball / Moving the torch / Switching off the torch  
    **Answer:** Turning the ball. *Why:* Only the ball turned, so the turning made the night. Picking 'moving the torch' is the feeling that the Sun travels. The test kept the torch still to show it does not need to.
@@ -756,9 +757,9 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 8. (mcq) Which sees the sunrise first, Chennai or Mumbai?  
    Options: Chennai, because it is further east / Mumbai, because it is a bigger city / Both at the same time, because India has one clock  
    **Answer:** Chennai, because it is further east. *Why:* The Earth turns from west to east, so eastern places turn into the sunlight first. Picking 'the same time' is a common mix-up. India has one clock time, but the Sun does not follow our clock.
-9. (mcq) It is evening in Bhuj, in Kutch, and the Sun is just setting. In Dong, in Arunachal Pradesh, it is…  
-   Options: Still afternoon / Already dark, night / Early morning  
-   **Answer:** Already dark, night. *Why:* Dong is far to the east, so it turned away from the Sun first. Its sunset was about an hour and a half earlier. Picking 'still afternoon' gets the direction backwards.
+9. (mcq) The Earth spins fast: at the equator, the ground moves about 1,670 kilometres every hour. Why are we not thrown off?  
+   Options: The Earth's pull, called gravity, holds us far more strongly than the spin pushes us out / The air presses us down / We are glued on by our shoes / The spin stops at night  
+   **Answer:** The Earth's pull, called gravity, holds us far more strongly than the spin pushes us out. *Why:* Gravity pulls everything towards the middle of the Earth. The spin does push us outwards a tiny bit, but gravity is about 300 times stronger. Picking 'the air presses us down' is a common idea, but air pressure pushes from every side, not only down.
 10. (mcq) In 1851, Léon Foucault hung a long pendulum in Paris. Over many hours, its swing seemed to turn round the floor. What did this show?  
    Options: The pendulum was broken / The Earth turns under the pendulum / Wind pushed it / The Sun pulled it  
    **Answer:** The Earth turns under the pendulum. *Why:* A pendulum keeps swinging the same way unless something pushes it sideways. So it was the floor, and the Earth, that turned. Picking 'wind' is a sensible doubt. But the swing turned at the same slow, steady rate, in the same direction, hour after hour, which wind would not do.
@@ -767,9 +768,9 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
    **Answer:** The Earth spins, and the Pole Star is above the North Pole. *Why:* As the Earth spins, the whole sky seems to turn round the point above the North Pole. Picking 'the stars orbit it' is the same mix-up as thinking the Sun goes round us.
 12. (truefalse) Scientists know for certain exactly how fast the Earth spun when it was first formed.  
    **Answer:** False. *Why:* False. Scientists agree the young Earth spun much faster, so days were shorter. But how short the very first days were is still uncertain.
-13. (mcq) What do scientists agree is slowly happening to the Earth's spin?  
-   Options: It is speeding up a lot / It is slowly slowing down, so days get a tiny bit longer / It will stop next year / It never changes at all  
-   **Answer:** It is slowly slowing down, so days get a tiny bit longer. *Why:* The tides rub on the sea floor and act like a gentle brake. A day gets about 2 thousandths of a second longer every 100 years. Picking 'it will stop' turns a tiny change into a scary one. It is far too slow to matter to us.
+13. (mcq) Why do we use a model, like a torch and a ball, to understand day and night?  
+   Options: We are tiny and stand on the Earth, so we cannot see it turn from where we are / Because the real Sun is switched off at night / Because the Earth is flat / Because models are always more correct than the real thing  
+   **Answer:** We are tiny and stand on the Earth, so we cannot see it turn from where we are. *Why:* From the ground, it looks as if the Sun moves and the Earth stands still. A model lets us look from outside, the way an astronaut would, and see the turning. Picking 'models are always more correct' goes too far: a model is only useful if it matches what we see.
 14. (mcq) Roja's aunt flies from Chennai to New York, on the other side of the world. For a few days she feels sleepy at lunchtime and wide awake at night. Why?  
    Options: Her body clock is still on Chennai time / The air on the plane made her tired / New York has no proper night / She ate too much  
    **Answer:** Her body clock is still on Chennai time. *Why:* Lunchtime in New York is night-time in Chennai. Her body clock keeps home time until a few days of New York daylight reset it. This is called jet lag.

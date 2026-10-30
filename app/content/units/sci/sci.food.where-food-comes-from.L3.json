@@ -1025,12 +1025,10 @@
     },
     {
      "t": "write",
-     "p": "Revathi stirs a spoon of curd into cold milk and leaves the bowl in the fridge overnight. What will she find in the morning? Why do you think so?",
+     "p": "Revathi finds mushrooms growing on a damp log in a dark corner of the garden. A tulsi plant kept in a dark cupboard turns pale and weak. Why can the mushrooms grow in the dark when the tulsi cannot?",
      "lines": 3,
-     "a": "I think the milk will still be runny. The curd bacteria are in the milk, but the fridge is cold. Cold slows the bacteria down, so they cannot turn the milk into curd by morning.",
-     "why": "A strong answer makes a clear guess and gives the reason: the bacteria need warmth.",
-     "how": "e1",
-     "context": "In the Milk to Curd test, you put warm milk in three katoris and changed one thing in each."
+     "a": "The tulsi is a plant and makes her food from air and water using sunlight, so in the dark she cannot make new food. Mushrooms are fungi. They do not make food from light. They feed on the dead wood of the log, so they can grow in the dark.",
+     "why": "A strong answer says how each one gets food: the plant makes it with light, the fungus takes it from dead things."
     },
     {
      "t": "fill",
@@ -1144,18 +1142,6 @@
    "tier": "stretch",
    "mins": 25,
    "items": [
-    {
-     "t": "mcq",
-     "p": "Which of these spices is a dried flower bud?",
-     "opts": [
-      "Clove",
-      "Jeera",
-      "Cinnamon",
-      "Haldi"
-     ],
-     "a": 0,
-     "why": "A clove is a flower bud, picked and dried before it opens. Jeera is a seed. Cinnamon is the bark of a tree. Haldi is an underground stem. Brown spices look alike, but they come from very different parts of plants."
-    },
     {
      "t": "match",
      "p": "Each masala comes from one part of a plant. Match each masala to that part.",
@@ -1357,9 +1343,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw a whole plant and label the parts that we eat: root, stem, leaf, flower, fruit, seed. Next to each label, write one food that is that part.",
-     "a": "Root at the bottom under the soil, for example radish. Stem going up, for example sugarcane. Leaves on the sides, for example methi. A flower near the top, for example vazhaipoo. A fruit, for example guava. Seeds inside the fruit, for example moong.",
-     "why": "Every part of a plant can be food. A strong drawing puts each part in the right place and gives a real food for each.",
+     "p": "Draw a whole plant and label six parts: root, stem, leaf, flower, fruit, seed. Next to each label, write a food from your own kitchen that is that part. Try not to use radish, sugarcane, methi, vazhaipoo, guava or moong.",
+     "a": "Root under the soil, for example carrot or beetroot. Stem, for example potato, an underground stem. Leaves, for example curry leaves or keerai. A flower, for example cauliflower. A fruit, for example tomato or brinjal. Seeds, for example rice or peanut.",
+     "why": "Every part of a plant can be food. A strong drawing puts each part in the right place and finds a new, real food for each one.",
      "art": "A simple drawing of a whole plant with six empty label lines."
     }
    ]
@@ -1444,17 +1430,6 @@
      "why": "Chilli switches on the nerve sensors that warn us about heat. So the mouth feels hot, though the chilli itself is not hot. 'Just a made-up idea' would be unfair to the old book. The burning is completely real. Scientists only explain it as a feeling rather than a taste."
     },
     {
-     "t": "mcq",
-     "p": "Many people believed that spicy food causes stomach ulcers, which are painful sores. In 1982, two doctors in Australia, Robin Warren and Barry Marshall, found something else. What was it?",
-     "opts": [
-      "Most stomach ulcers are caused by a bacterium",
-      "Spicy food causes every ulcer",
-      "Ulcers are caused by drinking water"
-     ],
-     "a": 0,
-     "why": "They found a bacterium in the stomachs of people with ulcers. Other doctors did not believe them, so Marshall drank the bacteria himself, and his stomach became sore. They won a Nobel Prize in 2005. A popular belief can be wrong, and a test can show it."
-    },
-    {
      "t": "write",
      "p": "In the story A Field in Every Packet, Nina's mother and the other scientists in Leningrad in 1941 were starving, but they did not eat their seed collection. This really happened. Give two reasons why saving the seeds was so important.",
      "lines": 4,
@@ -1537,12 +1512,11 @@
      "p": "Millets like ragi, jowar and bajra are being grown more again in India. What is one big reason?",
      "opts": [
       "They need much less water than rice",
-      "They grow only in the sea",
-      "They have no food value",
-      "They came from the Moon"
+      "They grow without any sunlight",
+      "They are new crops that were never grown in India before"
      ],
      "a": 0,
-     "why": "Millets grow well with little rain, while rice needs a lot of water. In places like Punjab, pumping water for rice is making the water under the ground fall. Millets are also full of good food."
+     "why": "Millets grow well with little rain, while rice needs a lot of water. In places like Punjab, pumping water for rice is making the water under the ground fall. Millets are not new: people in India have grown them for thousands of years. Like every plant, they need sunlight."
     },
     {
      "t": "truefalse",
@@ -3069,18 +3043,6 @@
    "a": 0,
    "why": "Rice, dal and peanuts are all seeds: baby plants with their food packed around them. Picking 'roots' happens with peanuts, because they grow under the ground. But a peanut is a seed inside a pod.",
    "outcome": 1
-  },
-  {
-   "t": "mcq",
-   "p": "Honey comes from bees. Where do the bees get what they need to make it?",
-   "opts": [
-    "Nectar from flowers",
-    "Milk from cows",
-    "Salt from the sea"
-   ],
-   "a": 0,
-   "why": "Bees drink sweet nectar from flowers and turn it into honey in the hive. So honey is really plant food, passed through an animal. Picking 'milk' mixes up two different animal foods.",
-   "outcome": 2
   },
   {
    "t": "mcq",

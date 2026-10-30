@@ -636,8 +636,9 @@ When the first leaves came, small and round and green, I picked a handful. I was
    **Answer:** ['blood', 'bloodstream']. *Why:* Digestion breaks food into tiny building blocks. These pass through the wall of the gut into the blood. The blood carries them to all your cells.
 6. (truefalse) Eating one plate of jalebis at a wedding makes your whole diet unhealthy.  
    **Answer:** False. *Why:* False. A diet is what you usually eat over many days. Sweets on special days are part of a balanced diet. What matters is the everyday pattern.
-7. (truefalse) If your stomach feels full, your body has got everything it needs.  
-   **Answer:** False. *Why:* False. Feeling full tells you the stomach has enough food in it. It does not tell you whether that food had protein, iron or vitamins. That is why we eat many kinds of food.
+7. (mcq) Why is it better to eat vegetables of many colours, not the same one every day?  
+   Options: Different vegetables carry different vitamins and minerals, so a mix gives the body more of what it needs / Bright colours make food taste better / One vegetable has every vitamin, so the colour does not matter  
+   **Answer:** Different vegetables carry different vitamins and minerals, so a mix gives the body more of what it needs. *Why:* Orange carrots and pumpkin give beta-carotene, which the body turns into vitamin A. Dark green keerai gives iron and folate. Tomatoes and amla give vitamin C. No one vegetable has everything, so a mix fills more gaps.
 8. (mcq) Remember the Paper Window Test. Which food left a see-through spot that stayed?  
    Options: Peanut / Apple / Water  
    **Answer:** Peanut. *Why:* Peanuts carry fat, which leaves a see-through spot that does not dry. Apple has almost no fat, and water dries away. If you picked water, you may have looked at the paper before the water had time to dry.
@@ -655,16 +656,16 @@ When the first leaves came, small and round and green, I picked a handful. I was
    **Answer:** Any meal with all three kinds. For example: rice (go), sambar with toor dal (grow), beans poriyal (glow) and a glass of water.. *Why:* A balanced meal has at least one food from each group, with water. Using your own family's food shows you can do it at home.
 15. (truefalse) Water has no energy in it, so it is not a nutrient.  
    **Answer:** False. *Why:* False. A nutrient is anything the body needs from food and drink, not only things with energy. Water makes up more than half of your body. Blood, spit and the inside of every cell are mostly water.
-### Inside My Body (stretch) (stretch, 16 questions)
+### Inside My Body (stretch) (stretch, 15 questions)
 1. (mcq) Why do dal and rice make such a good pair?  
    Options: Each fills the other's gap in amino acids / They taste the same / Rice has no protein at all  
    **Answer:** Each fills the other's gap in amino acids. *Why:* Proteins are built from small pieces called amino acids. Grains are a little low in one of them, and dals are low in another. Eaten over the same day, they give the body the full set. Rice does have some protein, just not the perfect mix.
 2. (mcq) Why is a little oil or ghee useful when cooking carrots or keerai?  
    Options: It helps the body take in vitamin A / It makes them grow / It removes their fibre  
    **Answer:** It helps the body take in vitamin A. *Why:* Carrots and keerai have beta-carotene, which your body turns into vitamin A. It dissolves in fat. A little fat in the cooking helps the gut take more of it into the blood.
-3. (mcq) Remember the Vanishing Blue test. Amla cleared the blue in 3 drops, and mosambi took 24. What does that tell you?  
-   Options: Amla has much more vitamin C than mosambi / Mosambi has more vitamin C / Both have the same  
-   **Answer:** Amla has much more vitamin C than mosambi. *Why:* Fewer drops means more vitamin C in each drop. 24 divided by 3 is 8. So each drop of amla has about eight times as much vitamin C as a drop of mosambi. More drops does not mean more vitamin C. It is the other way round.
+3. (mcq) Remember the Vanishing Blue test. Amla cleared the blue in 3 drops, and mosambi took 24. About how many times as much vitamin C is in a drop of amla as in a drop of mosambi?  
+   Options: About 8 times as much / About 3 times as much / About 24 times as much / Less, because amla needed fewer drops  
+   **Answer:** About 8 times as much. *Why:* Mosambi needed 24 drops to do the job that 3 drops of amla did. 24 divided by 3 is 8, so each drop of amla holds about eight times as much vitamin C. Picking 'less' reads the test backwards: fewer drops means more vitamin C in each drop.
 4. (write) Guess before you test. In the Vanishing Blue test, will a packet fruit drink need more drops than fresh amla juice, or fewer? Why do you think so? What should you read on the packet first?  
    **Answer:** I think the packet drink will need many more drops, because it is mostly water and sugar, with little real fruit. Vitamin C also breaks down over time. But I should read the label first, because some drinks have vitamin C added.. *Why:* A strong answer gives a guess and a reason, and knows that the label can change the guess.
 5. (truefalse) Squeezing lemon on dal helps your body take in the iron from the dal.  
@@ -683,16 +684,14 @@ When the first leaves came, small and round and green, I picked a handful. I was
    **Answer:** A strong answer picks a side and gives evidence. For example, fat helps the body take in vitamin A from carrots. Or, scientists still argue about which fats are best for the heart. It then gives a fair point from another side, and may say that the amount and the whole diet matter.. *Why:* This is a real argument. Fat is needed, ghee helps take in some vitamins, and scientists still disagree about how much saturated fat is too much.
 11. (sort) Is each one mostly settled by science, or still argued about?  
    **Answer:** We need vitamin C to stay free of scurvy → Settled; Sugar eaten often helps cause tooth decay → Settled; Exactly which fats are best for the heart → Still argued about; How much gut microbes change our mood → Still argued about. *Why:* Vitamin C and scurvy, and sugar and tooth decay, have been tested for many years. Which fats are best, and how much microbes affect the mind, are still being studied.
-12. (fill) The tiny parts inside cells that burn food with oxygen to release energy are called ____.  
-   **Answer:** ['mitochondria', 'mitochondrion']. *Why:* Mitochondria join glucose or fat with oxygen and release energy. Muscle cells are packed with them.
-13. (match) Each of these illnesses happens when the body is missing one nutrient. Match each illness to the nutrient.  
+12. (match) Each of these illnesses happens when the body is missing one nutrient. Match each illness to the nutrient.  
    **Answer:** Scurvy → vitamin C; Goitre → iodine; One kind of anaemia in pregnant mothers → folate; Beriberi → vitamin B1. *Why:* Each illness was found to be caused by missing one nutrient, and cured by eating it. Lucy Wills's work in Bombay led to the discovery of folate.
-14. (mcq) How does a sugary drink harm teeth?  
+13. (mcq) How does a sugary drink harm teeth?  
    Options: Bacteria in the mouth eat the sugar and make acid that eats holes in teeth / Sugar is sharp and scratches teeth / Sugar turns teeth into sugar  
    **Answer:** Bacteria in the mouth eat the sugar and make acid that eats holes in teeth. *Why:* Bacteria living in your mouth feed on sugar and make acid. The acid slowly dissolves the hard outside of the tooth, making holes. The harm comes from living bacteria, not from the sugar scratching.
-15. (draw) Draw the journey of a chapati from your mouth to a brain cell, in four boxes.  
+14. (draw) Draw the journey of a chapati from your mouth to a brain cell, in four boxes.  
    **Answer:** Mouth (chewing and spit), stomach and small intestine (cut into glucose), blood (carrying glucose), brain cell (burning glucose for energy).. *Why:* A strong drawing shows the three big ideas: food is broken down, carried by the blood, and used in a cell.
-16. (write) Nila is 9 and growing fast. Her grandmother is 70. They eat the same dal. Why might they need different amounts of food?  
+15. (write) Nila is 9 and growing fast. Her grandmother is 70. They eat the same dal. Why might they need different amounts of food?  
    **Answer:** Nila is growing, so her cells need extra protein and minerals to build new bone and muscle. She also runs about a lot and burns more energy for her size. Her grandmother has stopped growing, so she may need less food, but still all the same kinds.. *Why:* A strong answer says that growing and moving use extra food, and that both still need many kinds.
 ### Thinking Like a Food Scientist (challenge) (challenge, 15 questions)
 1. (perspective) Trillions of tiny living beings called microbes live in your gut. They eat the fibre you cannot digest. People disagree about whether they are part of you.  
@@ -777,9 +776,6 @@ When the first leaves came, small and round and green, I picked a handful. I was
 13. (mcq) Your friend says 'sweets are bad food'. What does science say?  
    Options: No single food is good or bad. The whole diet over many days matters. / Sweets are poison / Sweets are the best food  
    **Answer:** No single food is good or bad. The whole diet over many days matters.. *Why:* Scientists look at the overall pattern. Sweets give quick energy and are fine sometimes. Lots of added sugar every day is linked to tooth decay and other problems. Picking 'sweets are poison' goes far beyond the evidence.
-14. (mcq) Which of these do scientists still argue about?  
-   Options: Exactly which fats are best for the heart / Whether we need vitamin C / Whether food gives us energy  
-   **Answer:** Exactly which fats are best for the heart. *Why:* We know for sure that we need vitamin C and that food gives energy. Which fats are best, and how much, is still debated. Picking 'whether we need vitamin C' forgets the many tests since 1747.
 
 ## Applications
 - School midday meals (PM POSHAN), planned to give children energy, protein and vitamins every school day.

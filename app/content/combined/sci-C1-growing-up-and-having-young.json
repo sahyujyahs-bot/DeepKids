@@ -53,7 +53,7 @@
   ],
   [
    "hatch",
-   "when a baby breaks out of its egg"
+   "when a baby animal breaks out of their egg"
   ],
   [
    "life cycle",
@@ -65,7 +65,7 @@
   ],
   [
    "chrysalis",
-   "the hard case a caterpillar makes before it becomes a butterfly"
+   "the hard case a caterpillar makes before they become a butterfly"
   ],
   [
    "mammal",
@@ -83,20 +83,20 @@
      "kind": "warmup",
      "title": "Who is this?",
      "mins": 6,
-     "do": "Show your child a photo of themselves as a baby (or a younger cousin). Ask: 'Who is this? What could this baby do? What can you do now?' (Walk, talk, eat roti, ride a cycle.) Say: 'You were once a tiny baby. And so was every animal: every dog, every crow, every elephant. This week we find out how.'"
+     "do": "Show your child a photo of themselves as a baby, or of a younger cousin. Ask: 'Who is this? What could this baby do? What can you do now?' (Walk, talk, eat idli by myself, ride a cycle.) Say: 'You were once a tiny baby. So was every animal: every dog, every crow, every elephant. This week we find out how animals grow up.'"
     },
     {
      "kind": "game",
      "title": "Baby names",
      "mins": 12,
-     "do": "Say an adult animal; your child says the baby's name, then you swap: cow (calf), dog (puppy), cat (kitten), hen (chick), goat (kid), horse (foal), lion and tiger (cub), elephant (calf), duck (duckling), frog (tadpole), butterfly (caterpillar), human (baby). Give a clue if stuck ('it says moo and its baby says...'). Then do section A of Worksheet ws1 together.",
+     "do": "Say an adult animal and your child says the baby's name. Then swap. Cow (calf), dog (puppy), cat (kitten), hen (chick), goat (kid), horse (foal), lion and tiger (cub), elephant (calf), duck (duckling), frog (tadpole), butterfly (caterpillar), human (baby). If your child is stuck, give a clue: 'She says moo, and her baby is a…' Then do section A of Worksheet ws1 together.",
      "ref": "ws1"
     },
     {
      "kind": "exp",
      "title": "Plants have babies too",
      "mins": 12,
-     "do": "Start Experiment e1. Ask: 'Do plants have babies?' Show a methi seed: 'This is a plant's baby, sleeping. Let's plant it and watch it grow up.' Your child plants the seeds, waters them and puts the cup in a bright place. Give it a name card.",
+     "do": "Start Experiment e1. Ask: 'Do plants have babies?' Show a methi seed and say: 'A seed is a baby plant, resting. Let's plant some and watch them grow up.' Your child plants the seeds, waters them and puts the cup in a bright place. They make a name card for the cup.",
      "ref": "e1"
     }
    ],
@@ -117,19 +117,19 @@
      "kind": "warmup",
      "title": "Seed check",
      "mins": 3,
-     "do": "Look at the methi cup. Anything yet? Water it a little. Ask: 'When it grows, will it look like its parent?'"
+     "do": "Look at the methi cup. Anything yet? Water it a little. Ask: 'When the seeds grow, will they look like the plant they came from?'"
     },
     {
      "kind": "read",
      "title": "Story: Run to the Bright Edge",
      "mins": 12,
-     "do": "Read the story aloud (Story tab). It is told by a baby olive ridley turtle on a beach in Odisha. Ask the questions after. Listen for: 'The mother packed everything into the egg' and 'The village kept the lights off.'"
+     "do": "Read the story aloud (Story tab). A baby olive ridley turtle tells the story, on a beach in Odisha. Ask the questions after. Listen for: 'The mother put everything the baby needed into the egg' and 'The village kept the lights off.'"
     },
     {
      "kind": "talk",
      "title": "Look-alike or not?",
      "mins": 15,
-     "do": "Show pictures (in a book or on a phone) of pairs: cat and kitten, cow and calf, elephant and calf, duck and duckling, then frog and tadpole, butterfly and caterpillar. For each ask: 'Does the baby look like its mother? What is the same? What is different?' Say: 'A kitten is a small cat. But a tadpole has a tail and no legs and lives only in water, and a caterpillar has no wings. They change a lot as they grow. That big change is called metamorphosis, a long word for a big change.' Your child says the word slowly and shows it with their body: curl up small, then open out like wings."
+     "do": "Show pictures, in a book or on a phone, of these pairs: cat and kitten, cow and calf, duck and duckling, then frog and tadpole, butterfly and caterpillar. For each, ask: 'Does the baby look like their mother? What is the same? What is different?' Say: 'A kitten looks like a small cat. But a tadpole has a tail, no legs, and lives only in water. A caterpillar has no wings. These babies change a lot as they grow. A big change in body shape like this is called metamorphosis.' Your child says the word slowly and acts it: curl up small, then open out like wings."
     }
    ],
    "need": [
@@ -151,14 +151,14 @@
      "kind": "act",
      "title": "Life-cycle wheel",
      "mins": 16,
-     "do": "Do Activity a1: make a butterfly life-cycle wheel on a paper plate: egg (on a leaf), caterpillar (eating), chrysalis (a hard case hanging still), butterfly. Tell the story while you draw: 'The butterfly lays a tiny egg on a leaf. A caterpillar hatches and eats and eats and grows, and splits its skin to grow bigger. Then it hangs still and makes a hard case, a chrysalis. Inside, its body changes completely. Then out comes a butterfly, which lays eggs, and round it goes.' Then tell the frog's cycle the same way: frogspawn (eggs in jelly), tadpole, tadpole with legs, froglet, frog. If you have a lemon or curry-leaf plant, look under the leaves together for small caterpillars of the lime butterfly; look, don't pick.",
+     "do": "Do Activity a1: make a butterfly life-cycle wheel on a paper plate with four stages: egg on a leaf, caterpillar, chrysalis, butterfly. Tell the story as you draw: 'A butterfly lays a tiny egg on a leaf. A caterpillar hatches and eats and eats. As the caterpillar grows, they split their skin and grow a new, bigger one. Then the caterpillar hangs still inside a hard case called a chrysalis. Inside, their body changes completely. Out comes a butterfly, who lays eggs, and the cycle starts again.' Then tell the frog's life cycle: frogspawn (eggs in jelly), tadpole, tadpole with legs, froglet, frog. If you have a lemon or curry-leaf plant, look under the leaves for small caterpillars of the lime butterfly. Look, but don't pick them.",
      "ref": "a1"
     },
     {
      "kind": "talk",
      "title": "Voice v1: the girl who watched caterpillars",
      "mins": 10,
-     "do": "Tell your child about voice v1, Maria Sibylla Merian, who as a girl raised caterpillars and drew every stage, at a time when many grown-ups thought insects grew out of mud. Ask its question.",
+     "do": "Tell your child about voice v1, Maria Sibylla Merian. As a girl she raised caterpillars and painted every stage, at a time when many grown-ups thought insects grew out of mud. Ask: 'How did Merian find out that insects come from eggs?'",
      "ref": "v1"
     }
    ],
@@ -178,13 +178,13 @@
      "kind": "warmup",
      "title": "Seed check",
      "mins": 4,
-     "do": "Look at the methi seedlings. Your child cuts a paper strip the same height as the tallest one and sticks it on a chart with today's date. Ask: 'Will it be taller tomorrow?'"
+     "do": "Look at the methi seedlings. Your child cuts a paper strip the same height as the tallest one and sticks it on a chart with today's date. Ask: 'Will the seedling be taller tomorrow?'"
     },
     {
      "kind": "exp",
      "title": "The strong egg",
      "mins": 12,
-     "do": "Do Experiment e2. First crack an egg into a bowl (for cooking later) and look: the white and the yellow yolk. Say: 'If a chick were growing in this egg, the yolk would be its packed lunch. It grows on the yolk until it is ready to hatch.' Then do the squeeze test with a second egg in a plastic bag over a bowl. Ask: 'Why does an egg need to be strong?' (So the mother can sit on it, and the baby is safe inside.) 'But how does the chick get out?' (It has a tiny hard tip on its beak, an egg tooth, to break the shell from inside.)",
+     "do": "Do Experiment e2. First crack an egg into a bowl and look at the white and the yellow yolk. Keep it for cooking. Say: 'If a chick were growing in this egg, the yolk would be the chick's food until they hatch.' Then do the squeeze test with a second egg in a plastic bag over a bowl. Ask: 'Why does an egg need to be strong?' (So the mother can sit on it, and the baby is safe inside.) 'Then how does a chick get out?' (The chick has a tiny hard tip on their beak, called an egg tooth, to break the shell from inside.)",
      "ref": "e2"
     },
     {
@@ -211,19 +211,19 @@
      "kind": "warmup",
      "title": "Measure the seedling",
      "mins": 4,
-     "do": "Cut a new paper strip for the tallest methi seedling and stick it next to yesterday's. Ask: 'Is it taller? How do you know?'"
+     "do": "Cut a new paper strip for the tallest methi seedling and stick it next to yesterday's. Ask: 'Is the seedling taller? How do you know?'"
     },
     {
      "kind": "talk",
      "title": "Many ways of caring",
      "mins": 12,
-     "do": "Tell your child about these real animals and ask after each, 'Who looks after the baby?': a cow licks her new calf and feeds it milk (mother); a hen sits on her eggs to keep them warm, then shows the chicks how to peck (mother); a mother crocodile guards her nest and carries her hatchlings gently to the water in her mouth (mother); a male pheasant-tailed jacana, a bird of Indian lakes, sits on the eggs and guards the chicks while the mother flies off (father); a seahorse father carries the eggs in a pouch until they hatch (father); in an elephant herd the grandmother leads, and aunties and big sisters help look after the calves (the whole group); a turtle mother lays her eggs in the sand and goes back to the sea (nobody, but the egg holds everything). Ask: 'Which way is best?' There is no single answer; each works for that animal. Then ask: 'What does every baby need, whoever looks after it?' Good answers: food (milk for mammal babies), water, warmth, a safe place, and for many, someone to learn from."
+     "do": "Tell your child about these real animals. After each, ask: 'Who looks after the baby?' A cow licks her new calf and feeds the calf milk (the mother). A hen sits on her eggs to keep them warm, then shows the chicks what to peck (the mother). A mother crocodile guards her nest, then carries her hatchlings gently to the water in her mouth (the mother). The pheasant-tailed jacana is a bird of Indian lakes. The father sits on the eggs and guards the chicks, while the mother goes off to lay more eggs (the father). A seahorse father carries the eggs in a pouch until they hatch (the father). In an elephant herd the grandmother leads, and aunts and big sisters help look after the calves (the whole group). A turtle mother lays her eggs in the sand and goes back to the sea (nobody, but the egg holds what the baby needs). Ask: 'Which way is best?' Each way works for that animal. Then ask: 'What does every baby need, whoever looks after them?' Good answers: food (milk for mammal babies), water, warmth, a safe place, and for many, someone to learn from."
     },
     {
      "kind": "game",
      "title": "Grow Up! board game",
      "mins": 14,
-     "do": "Play the board game (g1): race from egg to adult, picking up help and dodging dangers. Read the squares aloud as you land.",
+     "do": "Play the board game g1: race from egg to grown up, getting help and avoiding dangers. Read each square aloud when someone lands on it.",
      "ref": "g1"
     }
    ],
@@ -241,32 +241,32 @@
      "kind": "warmup",
      "title": "Measure the seedling",
      "mins": 4,
-     "do": "Add today's paper strip for the methi. Line up all the strips: they make a little staircase. Say: 'That's what growing looks like.'"
+     "do": "Add today's paper strip for the methi. Line up all the strips: they make a little staircase. Ask: 'What does the staircase show?' (The plant grew taller each day.)"
     },
     {
      "kind": "do",
      "title": "Project: My Growing-Up Book",
      "mins": 8,
-     "do": "Start the project. Your child lays out family photos (or you draw them): a baby, a toddler, a child, a teenager, a grown-up, an older person. Put them in order and name each stage. Ask: 'Which one are you?' Then on the first pages of the book: a baby photo or drawing, their birth weight if you know it ('you weighed about as much as three packets of sugar'), and their first word. Say: 'Families are made in many ways: babies are born into them, adopted into them, fostered, raised by grandparents. All are real families.' Ask: 'What could you do then? What can you do now?' Feel for a wobbly tooth or a gap: 'Milk teeth fall out and bigger teeth grow: that's growing too.' Add: 'People stop getting taller when they are grown up, but some animals, like crocodiles and many fish, keep growing slowly all their lives.'"
+     "do": "Start the project. Lay out family photos, or draw them: a baby, a toddler, a child, a teenager, a grown-up, an older person. Your child puts them in order and names each stage. Ask: 'Which one are you?' On the first page of the book: a baby photo or drawing, their birth weight if you know it ('you weighed about as much as three packets of sugar'), and their first word. Say: 'Families are made in many ways. Babies are born into them, adopted, fostered or raised by grandparents. All are real families.' Ask: 'What could you do then? What can you do now?' Feel for a wobbly tooth or a gap: 'Milk teeth fall out and bigger teeth grow. That is growing too.'"
     },
     {
      "kind": "talk",
      "title": "Voice v2: Jane and the chimp families",
      "mins": 8,
-     "do": "Tell your child about voice v2, Jane Goodall, who sat quietly in a forest for years watching chimpanzee mothers and babies. Ask its question.",
+     "do": "Tell your child about voice v2, Jane Goodall, who sat quietly in a forest for years watching chimpanzee mothers and babies. Ask: 'Jane gave the chimps names. Does naming an animal help you see them better?'",
      "ref": "v2"
     },
     {
      "kind": "act",
      "title": "Life-stage parade and lullaby",
      "mins": 4,
-     "do": "Put on slow music. Your child acts each stage as you call it: a baby curled up and wriggling, a toddler wobbling, a child skipping, a teenager striding, a grown-up carrying a heavy bag, an older person walking slowly with a stick. Then they rock a doll or soft toy and sing it a lullaby (any one your family knows). Ask: 'Why do babies like slow, soft songs?' (They feel calm and safe; a slow beat is a bit like the heartbeat they heard before they were born.)"
+     "do": "Put on slow music. Call out each stage and your child acts it: a baby curled up and wriggling, a toddler wobbling, a child skipping, a teenager striding, a grown-up carrying a heavy bag, an older person walking slowly with a stick. Then your child rocks a soft toy and sings a lullaby your family knows. Ask: 'Why do we sing slow, soft songs to babies?' (Slow, soft songs help babies feel calm and fall asleep.)"
     },
     {
      "kind": "ws",
      "title": "Stretch worksheet",
      "mins": 6,
-     "do": "Your child does Worksheet ws2 (stretch). Read each item aloud and let them point or answer aloud while you write.",
+     "do": "Do Worksheet ws2 (stretch). Read each item aloud. Your child points or answers aloud, and you write.",
      "ref": "ws2"
     }
    ],
@@ -286,26 +286,26 @@
      "kind": "review",
      "title": "The seedling staircase",
      "mins": 6,
-     "do": "Look at the methi staircase chart. Ask: 'How did our seed change?' (Seed, then a shoot, then leaves, then taller.) 'Is it an adult yet?' (No, it's a young plant; one day it will flower and make seeds.) 'So does a plant have a life cycle too?' (Yes.)"
+     "do": "Look at the methi staircase chart. Ask: 'How did our seeds change?' (Seed, then a shoot, then leaves, then taller.) 'Are the plants grown up yet?' (No, they are young plants. One day they will flower and make seeds.) 'So does a plant have a life cycle too?' (Yes.)"
     },
     {
      "kind": "do",
      "title": "Finish the Growing-Up Book",
      "mins": 10,
-     "do": "Finish the project: a page for 'Now' (height, a handprint, a favourite thing to do) and a page for 'When I am grown up' (what might I look like, what might I do). Measure your child's height against a door frame with a pencil line and the date, so you can measure again in a year."
+     "do": "Finish the project: a page for 'Now' (height, a handprint, a favourite thing to do) and a page for 'When I am grown up'. Mark your child's height on a door frame with a pencil line and the date, so you can measure again in a year."
     },
     {
      "kind": "think",
      "title": "Challenge worksheet",
      "mins": 6,
-     "do": "Do Worksheet ws3 (challenge) together. Read each question aloud. For the 'why' questions, write your child's own words; any answer with a reason is a good answer.",
+     "do": "Do Worksheet ws3 (challenge) together. Read each question aloud. For the 'why' questions, write your child's own words. Any answer with a reason is a good answer.",
      "ref": "ws3"
     },
     {
      "kind": "check",
      "title": "Teach it back",
      "mins": 8,
-     "do": "Your child shows the family the Growing-Up Book and the life-cycle wheel and teaches: 'All animals have young. Some look like their parents and some change a lot. Some come from eggs and some are born alive. Animals look after their young in different ways.' Ask the check questions."
+     "do": "Your child shows the family the Growing-Up Book and the life-cycle wheel, and teaches: 'All animals have young. Some look like their parents and some change a lot. Some hatch from eggs and some are born alive. Animals look after their young in different ways.' Then ask the check questions."
     }
    ],
    "need": [
@@ -328,7 +328,7 @@
      [
       {
        "t": "match",
-       "p": "Match the animal to its baby.",
+       "p": "Match the animal to their baby.",
        "pairs": [
         [
          "cow",
@@ -365,7 +365,7 @@
       },
       {
        "t": "mcq",
-       "p": "A baby cat is a…",
+       "p": "A baby cat is called a…",
        "opts": [
         "puppy",
         "kitten",
@@ -380,7 +380,7 @@
      [
       {
        "t": "sort",
-       "p": "Does the baby hatch from an egg or is it born alive?",
+       "p": "Does the baby hatch from an egg, or is the baby born alive?",
        "items": [
         "hen",
         "cow",
@@ -413,7 +413,7 @@
      [
       {
        "t": "sort",
-       "p": "Does the baby look like its parent?",
+       "p": "Does the baby look like their parent?",
        "items": [
         "kitten",
         "tadpole",
@@ -423,7 +423,7 @@
         "puppy"
        ],
        "cats": [
-        "looks like its parent",
+        "looks like their parent",
         "looks very different"
        ]
       },
@@ -487,7 +487,7 @@
      [
       {
        "t": "match",
-       "p": "Match the animal to who looks after its young.",
+       "p": "Match the animal to who looks after their young.",
        "pairs": [
         [
          "seahorse",
@@ -499,11 +499,11 @@
         ],
         [
          "turtle",
-         "nobody; the egg holds what it needs"
+         "nobody: the egg holds what the baby needs"
         ],
         [
          "cow",
-         "the mother feeds it milk"
+         "the mother feeds her calf milk"
         ]
        ]
       },
@@ -531,7 +531,7 @@
      [
       {
        "t": "write",
-       "p": "Your child says, you write: A baby turtle never meets its mother. How does it know what to do?",
+       "p": "Your child says, you write: A baby turtle never meets their mother. How does the baby turtle know which way to go to reach the sea?",
        "lines": 2
       },
       {
@@ -554,7 +554,7 @@
      [
       {
        "t": "mcq",
-       "p": "A bat flies like a bird. Its baby drinks milk. So a bat is a…",
+       "p": "A bat can fly. A baby bat drinks their mother's milk. So a bat is a…",
        "opts": [
         "bird",
         "mammal",
@@ -564,7 +564,7 @@
       },
       {
        "t": "mcq",
-       "p": "A caterpillar and the butterfly it becomes are…",
+       "p": "A caterpillar and the butterfly they become are…",
        "opts": [
         "two different animals",
         "the same animal at two stages",
@@ -576,15 +576,15 @@
        "t": "mcq",
        "p": "Hen's eggs from the shop don't hatch into chicks. Why?",
        "opts": [
-        "they have no baby inside to grow",
-        "they are too cold to ever be eggs",
-        "shops paint them"
+        "there is no baby growing inside them",
+        "their shells are too hard to break",
+        "they are kept in the light"
        ],
        "a": 0
       },
       {
        "t": "mcq",
-       "p": "Which animal keeps growing bigger all its life?",
+       "p": "Which animal keeps growing slowly for most of their life?",
        "opts": [
         "a human",
         "a crocodile",
@@ -599,7 +599,7 @@
      [
       {
        "t": "sort",
-       "p": "Who mostly cares for the young?",
+       "p": "Who mostly cares for the young? Sort each animal.",
        "items": [
         "jacana",
         "cow",
@@ -616,7 +616,7 @@
       },
       {
        "t": "fill",
-       "p": "When a chick breaks out of its egg, we say it ____.",
+       "p": "When a chick breaks out of their egg, we say the chick ____.",
        "a": [
         "hatches",
         "hatched"
@@ -629,7 +629,7 @@
      [
       {
        "t": "write",
-       "p": "Your child says, you write: A turtle lays 100 eggs and leaves. A human has one baby and looks after it for years. Why do you think they are so different?",
+       "p": "Your child says, you write: A turtle mother lays about 100 eggs and leaves. A human mother usually has one baby and looks after the baby for years. Why do you think they are so different?",
        "lines": 3
       },
       {
@@ -661,15 +661,15 @@
     "a chart paper"
    ],
    "steps": [
-    "Sprinkle about 20 methi seeds on the soil and cover with a thin layer of soil.",
-    "Water gently and keep in a bright place.",
+    "Sprinkle about 20 methi seeds on the soil and cover them with a thin layer of soil.",
+    "Water gently and keep the cup in a bright place.",
     "Water a little every day.",
-    "From Day 4, cut a paper strip the height of the tallest seedling each day and stick the strips side by side on the chart with the date."
+    "From Day 4, cut a paper strip as tall as the tallest seedling each day. Stick the strips side by side on the chart, with the date."
    ],
-   "predict": "Ask: 'How many days until we see a shoot? Will it grow the same amount every day?'",
-   "observe": "Shoots in 2–3 days, then two small leaves, then more; the strips making a staircase.",
-   "why": "A seed is a plant's young, a baby plant with a store of food. With water and warmth it wakes and grows: first a root down, then a shoot up, then leaves that make food from sunlight. Growing means more than getting bigger: the seedling also changes shape, just as a baby becomes a child.",
-   "safety": "",
+   "predict": "Ask: 'How many days until we see a shoot? Will the seedlings grow the same amount every day?'",
+   "observe": "Shoots in 2 to 3 days, then two small leaves, then more. The strips make a staircase.",
+   "why": "A seed is a plant's young: a baby plant with a store of food. With water and warmth the seed wakes and grows: first a root down, then a shoot up, then leaves that make food from sunlight. Growing is more than getting bigger. The seedling also changes shape, just as a baby becomes a child.",
+   "safety": "Wash hands after touching soil.",
    "time": "12 min + a few minutes a day for a week"
   },
   {
@@ -685,13 +685,13 @@
    "steps": [
     "Crack one egg into a bowl and look at the white and the yolk. Keep it for cooking.",
     "Check the second egg has no cracks. Put it inside the plastic bag.",
-    "Your child holds the egg in their palm, over the bowl, and wraps their whole hand around it evenly.",
-    "Squeeze hard, evenly, with the whole hand (no rings on, no fingertips poking).",
+    "Your child holds the egg in their palm, over the bowl, and wraps their whole hand around the egg.",
+    "Squeeze hard and evenly with the whole hand. Take off any rings, and don't poke with fingertips.",
     "Then a grown-up shows how a gentle tap on the edge of the bowl cracks it easily."
    ],
    "predict": "Ask: 'Can you break the egg by squeezing it in your hand?'",
    "observe": "Squeezed evenly, the egg usually doesn't break; tapped on one spot, it cracks.",
-   "why": "The egg's curved dome shape spreads the push all over the shell, so it is very strong when pressed evenly, strong enough for a hen to sit on. But a sharp push on one small spot, like a tap or a chick's egg tooth from inside, cracks it. The shell protects the baby, the yolk feeds it, and tiny holes in the shell let air in for it to breathe.",
+   "why": "The egg's curved shape spreads a push all over the shell, so the shell is very strong when pressed evenly, strong enough for a hen to sit on. But a sharp push on one small spot, like a tap or a chick's egg tooth from inside, cracks the shell. The shell protects the baby, the yolk feeds the baby, and tiny holes in the shell let air in so the baby can breathe.",
    "safety": "Do it over a bowl inside a bag. Wash hands with soap after touching raw egg.",
    "time": "12 min"
   }
@@ -712,8 +712,8 @@
     "Draw two lines across the plate to make four parts.",
     "In each part draw one stage: egg on a leaf, caterpillar, chrysalis, butterfly.",
     "Draw arrows going round from one to the next.",
-    "Pin the paper arrow in the middle so it spins.",
-    "Spin it and tell the story of each stage. On the back, draw the frog's cycle: frogspawn, tadpole, froglet, frog."
+    "Pin the paper arrow in the middle so the arrow spins.",
+    "Spin the arrow and tell the story of each stage. On the back, draw the frog's life cycle: frogspawn, tadpole, froglet, frog."
    ],
    "outcome": "A spinning life-cycle wheel your child can use to tell the story of metamorphosis."
   }
@@ -747,7 +747,7 @@
   "rules": [
    "Everyone starts on EGG. Take turns to roll the die and move.",
    "Read the square aloud and do what it says.",
-   "The first to reach GROWN UP! wins, and then says the name of the baby animal they would like to be."
+   "The first to reach GROWN UP! wins, and says which baby animal they would like to be."
   ],
   "squares": [
    "EGG",
@@ -756,9 +756,9 @@
    "A crow looks at you. Go back 1",
    "Drink milk. Move on 1",
    "Say the name of a baby cow, then move on 1",
-   "Hide in the grass. Miss nothing!",
+   "Hide in the grass from a hawk. Stay where you are.",
    "You shed your skin to grow. Move on 2",
-   "Rain! Shelter under a leaf.",
+   "Rain! Shelter under a leaf. Stay where you are.",
    "Your father guards you. Move on 2",
    "Aunty elephant helps you cross the river. Move on 3",
    "You wandered off. Go back 2",
@@ -766,46 +766,46 @@
    "Name an animal that lays eggs. Move on 1",
    "Make a chrysalis. Miss a turn while you change.",
    "You grow legs! Move on 2",
-   "The lights went out, you found the sea. Move on 2",
-   "Name a baby that looks different from its parent. Move on 1",
-   "Sleep well: growing happens when you sleep. Move on 1",
+   "The beach lights are off, so you find the sea. Move on 2",
+   "Name a baby that looks different from their parent. Move on 1",
+   "Sleep well: children grow while they sleep. Move on 1",
    "Learn to find food. Move on 2",
    "GROWN UP!"
   ]
  },
  "big": [
   "Why does a human baby need looking after for years, when a baby turtle needs no one?",
-  "Is a caterpillar the same animal as the butterfly it becomes?",
+  "Is a caterpillar the same animal as the butterfly they become?",
   "Do animal mothers and fathers love their babies?",
-  "You were once smaller than a full stop. Where did all of you come from?",
+  "You were once one tiny cell, smaller than a full stop. How did you get so big?",
   "Which is better: lots of babies and no care, or one baby and lots of care?"
  ],
  "challenge": [
   {
    "q": "In a famous picture book, a hungry caterpillar builds a cocoon and comes out a butterfly. Is that right?",
-   "hint": "Not quite. Butterfly caterpillars make a hard case called a chrysalis. Moth caterpillars spin a soft silk cocoon. Even good books can get things a little wrong. How could you check a book?"
+   "hint": "Not quite. A butterfly caterpillar makes a hard case called a chrysalis. A moth caterpillar spins a soft silk case called a cocoon. Even good books can get things wrong. How could you check what a book says?"
   },
   {
    "q": "People say: 'If you touch a baby bird, its mother will smell you and leave it.' Is that true?",
-   "hint": "Most birds have a weak sense of smell, and scientists say parents don't abandon chicks just because they were touched. But we still shouldn't touch nests: it can frighten the parents and lead cats or crows to the nest. A rule can be good even when the reason people give is wrong."
+   "hint": "No. Most birds have a weak sense of smell, and scientists have found that parents don't leave chicks just because a person touched them. But we still shouldn't touch nests. It frightens the parents and can lead cats or crows to the nest. A rule can be good even when the reason people give for it is wrong."
   },
   {
    "q": "'Mothers look after babies.' Is it always the mother?",
-   "hint": "No. Jacana and seahorse fathers do the caring, elephant aunties help, and in many human families fathers, grandparents and neighbours share the work. Look around you: who looks after babies in your family and street?"
+   "hint": "No. Jacana and seahorse fathers do the caring, and elephant aunts help. In many human families, fathers, grandparents and neighbours share the work. Who looks after babies in your family and your street?"
   }
  ],
  "perspectives": [
   {
    "who": "A koel",
-   "view": "The koel lays her eggs in a crow's nest, and the crow raises the koel chick as its own. People sometimes call the koel lazy or a cheat. Ask: is that fair? Does the koel think so? What does the crow lose?"
+   "view": "A koel mother lays her eggs in a crow's nest, and the crows raise the koel chick as their own. People sometimes call the koel lazy or a cheat. Ask: is that fair? What does the crow lose? What might the koel say?"
   },
   {
    "who": "A grandmother elephant",
-   "view": "In an elephant herd the oldest female leads. She remembers where water is in a dry year, and the whole family helps raise each calf. Ask: who in your family remembers things that help everyone?"
+   "view": "In an elephant herd the oldest female leads. She remembers where to find water in a dry year, and the whole family helps raise each calf. Ask: why might the oldest elephant be the best leader in a dry year?"
   },
   {
-   "who": "The villagers of Rushikulya, Odisha",
-   "view": "Every year volunteers guard turtle nests on the beach from dogs and crows, and lights are dimmed in hatching season. Ask: whose babies are these turtles? Who should look after them?"
+   "who": "Turtle volunteers in Chennai",
+   "view": "Olive ridley turtles also nest on the beaches of Chennai, from January to March. Every year volunteers walk the beaches at night, move the eggs to a safe fenced hatchery, and let the hatchlings go into the sea. Ask: whose babies are these turtles? Who should look after them?"
   }
  ],
  "voices": [
@@ -816,24 +816,24 @@
    "then": "She was a woman with no university training, and for a long time scientists treated her more as an artist than a scientist. Some later writers doubted her observations.",
    "now": "Her observations of insect life cycles are accepted, and she is now honoured as one of the first people to study how animals change as they grow, and how they live with the plants they eat.",
    "status": "accepted",
-   "ask": "People thought insects came from mud. How did Merian find out they come from eggs? What would you need to watch to be sure?",
+   "ask": "People thought insects came from mud. How did Merian find out that insects come from eggs? What would you need to watch to be sure?",
    "day": 3
   },
   {
    "id": "v2",
    "who": "Jane Goodall (1934–2025), England, working in Tanzania",
-   "idea": "In 1960, without a university degree, Goodall began watching chimpanzees at Gombe in Tanzania. She sat quietly for years until they trusted her. She saw that chimp mothers carry, feed, play with and teach their babies for years, that young chimps learn by watching, and that each chimp has its own character.",
+   "idea": "In 1960, without a university degree, Goodall began watching chimpanzees at Gombe in Tanzania. She sat quietly for years until the chimps trusted her. She saw that chimp mothers carry, feed, play with and teach their babies for years, that young chimps learn by watching, and that each chimp has their own character.",
    "then": "Some scientists criticised her for giving the chimps names instead of numbers and for saying they had feelings and personalities.",
    "now": "Her findings are accepted; long childhoods and learning from mothers are now known in chimps, elephants, whales and many birds. Scientists still discuss how to study animal feelings carefully.",
    "status": "accepted",
-   "ask": "Jane gave the chimps names, like Flo and David Greybeard. Some scientists said that was not scientific. What do you think? Does naming an animal help you see it better, or make you see what you want to see?",
+   "ask": "Jane gave the chimps names, like Flo and David Greybeard. Some scientists said that was not scientific. What do you think? Does naming an animal help you see them better, or make you see what you want to see?",
    "day": 6
   }
  ],
  "story": {
   "title": "Run to the Bright Edge",
   "text": [
-   "Before I had eyes, I had an egg. It was round and soft, like a ball of wet atta, and it was buried deep in the sand of a beach called Rushikulya, in Odisha, beside the sea. I didn't know any of those names then. I knew only warm, and dark, and the slow, steady feeling of growing.",
+   "Before I had eyes, I had an egg. The egg was round and white, with a soft, leathery shell, about as big as a lime. It was buried deep in the sand of a beach called Rushikulya, in Odisha, beside the sea. I didn't know any of those names then. I knew only warm, and dark, and the slow, steady feeling of growing.",
    "Inside my egg there was a golden ball of food, the yolk, and I lived on it. Every day the sun warmed the sand above me and every night it cooled, and every day I was a little bigger and the golden ball was a little smaller. I grew a shell on my back. I grew four flippers. I grew a beak the size of a grain of rice, with a tiny hard point on the tip. I didn't know what the point was for. I would soon.",
    "All around me in the dark were my brothers and sisters, more than a hundred of us, each in our own egg, each growing. We could not see each other. But sometimes I felt them move.",
    "I did not count the days. Turtles in eggs don't count. But after about fifty of them the golden ball was gone, and I was folded so tight I could hardly turn, and something inside me said: now.",
@@ -846,22 +846,22 @@
    "\"Where's their mother?\" he said. \"Shouldn't their mother be here?\"",
    "\"She came in the spring, at night, with thousands of other mothers,\" said Lipi. \"She dug a hole with her back flippers, laid her eggs, covered them with sand, and went back into the sea. That was nearly two months ago.\"",
    "Jitu's face crumpled. \"So nobody looks after them? Nobody shows them the way?\"",
-   "I didn't know the way. I had never seen anything at all. But when my head came out of the sand, I looked, and in one direction the world was dark: the land, the casuarina trees, the sleeping village. In the other direction it was a little brighter, where the moonlight and starlight lay on the moving water. And something inside me said: run to the bright edge.",
+   "I didn't know the way. I had never seen anything at all. But when my head came out of the sand, I looked. In one direction the world was dark: the land, the casuarina trees, the sleeping village. In the other direction it was a little brighter, where the moonlight and starlight lay on the moving water. And something inside me said: run to the bright edge.",
    "I ran. My flippers had never run before, but they knew how. Sand, then wet sand, then a crab that scuttled sideways, then more sand. A dog came trotting down the beach and Lipi jumped up and waved her arms until it ran off.",
-   "\"How does it know where to go?\" asked Jitu.",
-   "\"Its mother told it,\" said Lipi.",
+   "\"How do the babies know where to go?\" asked Jitu.",
+   "\"Their mother told them,\" said Lipi.",
    "\"But she isn't here!\"",
-   "\"She told it before,\" said Lipi. \"She packed everything into the egg. The yolk to grow on. The hard point on its beak to break out. The flippers. And the knowing: run to the brightest part of the sky, because that's the sea.\" She switched her torch off. \"That's why we turn the lights off on the beach road at hatching time. If there's a bright light on the land, the babies run the wrong way.\"",
+   "\"She told them before,\" said Lipi. \"She put everything they need into the egg. The yolk to grow on. The hard point on the beak to break out. The flippers. And the knowing: run to the brightest part of the sky, because that's the sea.\" She switched her torch off. \"That's why we turn the lights off on the beach road at hatching time. If there's a bright light on the land, the babies run the wrong way.\"",
    "Jitu thought about that. Then he reached over and switched off the little torch hanging round his own neck.",
    "The first wave hit me like a wall. It rolled me over and pulled me back, and then the water lifted me, and I was swimming. I had never swum, but I knew how.",
-   "I am far out at sea now. I eat small crabs and jellyfish and floating things, and I am growing, the way I grew in the egg, a little every day. In many years, when my shell is as wide as Jitu's arms can stretch, something inside me will say: now. And I will swim back across the whole wide sea to the beach where I was an egg. I don't know how I will find it. Nobody quite knows.",
+   "I am far out at sea now. I eat small crabs and jellyfish, and I am growing, the way I grew in the egg, a little every day. In many years, when I am grown, something inside me will say: now. And I will swim back across the sea to the beach where I was an egg. I don't know how I will find it. Nobody quite knows.",
    "I will dig a hole with my back flippers, and lay my eggs, each with its golden ball of food, and cover them, and go back into the sea before they wake.",
    "And on that beach, I hope, there will be a girl with her torch switched off, waiting."
   ],
-  "epiphany": "Animals look after their young in many different ways. The turtle mother never meets her babies, but she 'cares' by packing everything into the egg: the yolk to grow on, the egg tooth to hatch, the instinct to run to the bright sea. The turn is Lipi's answer, 'She told it before.' Underneath: the hatchlings can only dig out together, and a whole village chooses to care for babies that are not their own. The life cycle closes as the grown turtle returns to lay eggs.",
+  "epiphany": "Animals look after their young in many different ways. The turtle mother never meets her babies, but she gives them everything in the egg: the yolk to grow on, the egg tooth to hatch, and the instinct to run to the bright sea. The turn is Lipi's answer, 'She told them before.' Underneath: the hatchlings can only dig out together, and a whole village chooses to care for babies that are not their own. The life cycle closes as the grown turtle comes back to lay eggs.",
   "ask": [
-   "What did the baby turtle eat inside its egg?",
-   "Why couldn't one baby turtle have dug out alone?",
+   "What did the baby turtle eat inside the egg?",
+   "Why couldn't one baby turtle have dug out of the sand alone?",
    "How did the turtle know which way to run?",
    "Jitu was sad that the mother had gone. Was anyone looking after the babies?",
    "Why did Jitu switch off his torch?"
@@ -870,20 +870,20 @@
  "ideas": [
   {
    "idea": "Every animal starts small and grows.",
-   "more": "An elephant, a crow, a crocodile and you each began as one tiny egg cell. Show the egg yolk, the baby photo and the methi seedling side by side: three beginnings."
+   "more": "An elephant, a crow, a crocodile and you each began as one tiny egg cell. Put an egg yolk, a baby photo and a methi seedling side by side: three beginnings."
   },
   {
    "idea": "Growing up can mean changing completely.",
-   "more": "A caterpillar and a butterfly are the same animal. A tadpole lives in water and breathes there; the frog it becomes breathes air. Growing is about changing shape, not just getting bigger."
+   "more": "A caterpillar and a butterfly are the same animal. A tadpole lives in water and breathes there, and the frog the tadpole becomes breathes air. Growing up means changing shape, not just getting bigger."
   },
   {
    "idea": "There are many ways to care for young.",
-   "more": "Mothers, fathers, aunties, grandmothers, whole herds and whole villages, or an egg packed with everything the baby needs. Ask your child who cared for them, and who they could help care for."
+   "more": "Mothers, fathers, aunts, grandmothers, whole herds and whole villages care for young. Some mothers, like the turtle, put everything the baby needs into the egg. Ask your child who cared for them, and who they could help care for."
   }
  ],
  "unknowns": [
   "How do baby turtles find their way back, years later, to the beach where they hatched? Scientists think they may remember the Earth's magnetism there, but nobody is sure.",
-  "Does a butterfly remember anything from being a caterpillar? Some experiments with moths hint that a little learning survives the change. Nobody knows what, if anything, it feels like.",
+  "Does a butterfly remember anything from being a caterpillar? Some experiments with moths show that a little learning lasts through the change. Nobody knows what the change feels like to the caterpillar.",
   "Do animal parents feel love for their young the way people do? We can watch what they do, but we can't yet see inside their feelings."
  ],
  "books": [
@@ -920,7 +920,7 @@
    "author": "P.D. Eastman",
    "for": "read together",
    "age": "3–6",
-   "why": "A baby bird hatches alone and goes looking for its mother: a funny way into who cares for babies."
+   "why": "A baby bird hatches alone and goes looking for his mother: a funny way into who cares for babies."
   }
  ],
  "check": [
@@ -929,8 +929,8 @@
    "a": "A calf, a tadpole, a caterpillar."
   },
   {
-   "q": "Name an animal whose baby looks like it, and one whose baby looks very different.",
-   "a": "e.g. a cat and kitten look alike; a frog and tadpole look very different."
+   "q": "Name an animal whose baby looks like their parent, and one whose baby looks very different.",
+   "a": "For example, a kitten looks like a cat, but a tadpole looks very different from a frog."
   },
   {
    "q": "What are the stages of a butterfly's life?",
@@ -938,19 +938,19 @@
   },
   {
    "q": "Name two animals that hatch from eggs and two that are born alive.",
-   "a": "e.g. hen and crocodile; cow and human."
+   "a": "For example, a hen and a crocodile hatch from eggs. A cow and a human are born alive."
   },
   {
-   "q": "What does a chick eat while it is inside the egg?",
-   "a": "The yolk."
+   "q": "What does a chick eat while the chick is inside the egg?",
+   "a": "The yolk inside the egg."
   },
   {
    "q": "Tell me two different ways animals look after their young.",
-   "a": "e.g. a cow feeds her calf milk; a seahorse father carries the eggs; a turtle leaves everything the baby needs in the egg."
+   "a": "For example, a cow feeds her calf milk, a seahorse father carries the eggs, and a turtle mother puts everything the baby needs into the egg."
   },
   {
    "q": "How have you changed since you were a baby?",
-   "a": "Taller, heavier, more teeth, can walk, talk and eat by myself."
+   "a": "I am taller and heavier, I have more teeth, and I can walk, talk and eat by myself."
   }
  ]
 }

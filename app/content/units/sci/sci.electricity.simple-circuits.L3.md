@@ -534,45 +534,42 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
   - Check: Why does the sponge need a hole in it? → **So the two foils can touch through it when pressed, and close the circuit**
 
 ## Worksheets
-### Circuit Detective (core) (core, 16 questions)
+### Circuit Detective (core) (core, 15 questions)
 1. (sort) Sort these things you might find at home. Does each one run on mains electricity from the wall, or on cells?  
    **Answer:** fridge → Mains; TV remote → Cells; geyser → Mains; wall clock → Cells; mixer-grinder → Mains; torch → Cells; ceiling fan → Mains; toy car → Cells. *Why:* Things with a wire and a plug use mains electricity. Things with a little door for cells run on cells. A strong sorter looks for the plug or the cell door, not for how big the thing is.
 2. (write) Lakshmi, a girl in Class 3, says, "A ceiling fan and a torch both use electricity, so they get it the same way." How can you tell, just by looking, that they do not?  
    **Answer:** The fan has a wire going into the wall, so it uses mains electricity. The torch has no wire. It has cells inside, behind a little cap or door. So they get their electricity in different ways.. *Why:* A strong answer names what you can see: a wire and a plug for mains, a cell door for cells.
-3. (mcq) Revathi has just washed her hands. The light switch is next to the sink. What should she do before she presses it?  
-   Options: Dry her hands first, because wet skin lets electricity through far more easily / Press it very quickly, so there is no time for a shock / Nothing. Switches are plastic, so water does not matter  
-   **Answer:** Dry her hands first, because wet skin lets electricity through far more easily. *Why:* Wet skin lets electricity through far more easily than dry skin. Water can also run into the gaps round a switch and reach the metal inside. Being quick does not help, because a shock happens at once.
-4. (write) Grown-ups tell children never to plug in or pull out plugs. Give the reason behind this rule, not just the rule.  
+3. (write) Grown-ups tell children never to plug in or pull out plugs. Give the reason behind this rule, not just the rule.  
    **Answer:** A wall socket in India is 230 volts. That is a strong enough push to send electricity through a person's body and badly hurt or kill them. Fingers can slip onto the metal pins while a plug is going in or coming out, so grown-ups do it.. *Why:* A strong answer gives the number, 230 volts, and says what can go wrong: fingers touching the metal pins.
-5. (mcq) Divya joins a wire from the top of a cell to the tip of a bulb. She joins a second wire from the bottom of the cell to the tip of the bulb too. The bulb stays dark. What went wrong?  
+4. (mcq) Divya joins a wire from the top of a cell to the tip of a bulb. She joins a second wire from the bottom of the cell to the tip of the bulb too. The bulb stays dark. What went wrong?  
    Options: Both wires touch the same place on the bulb, so the electricity does not go through the bulb / Her wires are too short / The cell is upside down  
    **Answer:** Both wires touch the same place on the bulb, so the electricity does not go through the bulb. *Why:* A bulb has two metal contacts: the tip at the bottom and the metal side. The electricity must go in at one and out at the other, through the thin wire inside the bulb. With both wires on the tip, it never passes through the bulb.
-6. (draw) Draw a cell, a bulb and two wires joined so that the bulb lights. Then draw arrows to show the path of the electricity, all the way round.  
+5. (draw) Draw a cell, a bulb and two wires joined so that the bulb lights. Then draw arrows to show the path of the electricity, all the way round.  
    **Answer:** A loop: from one end of the cell, along a wire to the bulb's tip, through the bulb, out of its metal side, along the second wire, and back to the other end of the cell. The arrows go round in one direction.. *Why:* A strong drawing has no gaps, uses both contacts of the bulb, and brings the path back to the other end of the cell.
-7. (sort) You test each of these in a circuit tester. Sort them. Will the bulb light, or stay dark?  
+6. (sort) You test each of these in a circuit tester. Sort them. Will the bulb light, or stay dark?  
    **Answer:** steel spoon → Bulb lights; one-rupee coin → Bulb lights; aluminium foil → Bulb lights; safety pin → Bulb lights; plastic ruler → Bulb stays dark; rubber band → Bulb stays dark; wooden ice-cream stick → Bulb stays dark; paper → Bulb stays dark. *Why:* The metal things are conductors, so they complete the loop. Plastic, rubber, wood and paper are insulators, so they leave a gap.
-8. (mcq) In the conductor test, what did all the things that lit the bulb have in common?  
+7. (mcq) In the conductor test, what did all the things that lit the bulb have in common?  
    Options: They were all metal / They were all shiny / They were all hard / They were all heavy  
    **Answer:** They were all metal. *Why:* Every thing that lit the bulb was metal. Shiny is not the reason: a glass bangle is shiny but does not conduct. Hard is not the reason either: wood is hard, and soft foil conducts.
-9. (truefalse) Aluminium foil is thin and soft, not hard like a key. So foil will not light the bulb.  
+8. (truefalse) Aluminium foil is thin and soft, not hard like a key. So foil will not light the bulb.  
    **Answer:** False. *Why:* False. Foil is a metal, so it is a conductor, however thin and soft it is. What matters is the material, not how hard or thick it is.
-10. (fill) A material that lets electricity through, like copper or steel, is called a ____.  
+9. (fill) A material that lets electricity through, like copper or steel, is called a ____.  
    **Answer:** ['conductor']. *Why:* Conductors let electricity flow through them. Most conductors are metals.
-11. (fill) A switch works by making or closing a ____ in the circuit.  
+10. (fill) A switch works by making or closing a ____ in the circuit.  
    **Answer:** ['gap', 'break']. *Why:* When a switch is off, there is a gap and the loop is broken. When it is on, the gap closes and the loop is complete.
-12. (match) Match each word to what it means.  
+11. (match) Match each word to what it means.  
    **Answer:** Cell → pushes electricity round a circuit; Circuit → a complete loop for electricity; Conductor → a material that lets electricity through; Insulator → a material that stops electricity; Switch → opens and closes a gap in a circuit. *Why:* These five words come up all through the unit. Knowing them makes the rest easier to explain.
-13. (write) Shalini's lamp wire has a crack in the plastic, and shiny copper shows through. Why is this dangerous? What should she do?  
+12. (write) Shalini's lamp wire has a crack in the plastic, and shiny copper shows through. Why is this dangerous? What should she do?  
    **Answer:** The copper is a conductor and carries electricity from the wall, at 230 volts. The plastic was the insulator that kept it away from hands. Now a finger could touch the copper and get a shock. She should not touch it, and should tell a grown-up, who switches off and unplugs the lamp.. *Why:* A strong answer says what the copper does, what the plastic was doing, and what to do: don't touch, tell a grown-up.
-14. (mcq) A bulb in a circuit is lit. Where does the electricity go after it has passed through the bulb?  
+13. (mcq) A bulb in a circuit is lit. Where does the electricity go after it has passed through the bulb?  
    Options: It stays inside the bulb and is used up / It carries on along the wire, back to the cell / It leaks out into the air as light  
    **Answer:** It carries on along the wire, back to the cell. *Why:* The electricity goes on round the loop, back to the cell. That is why a wire is needed on both sides of the bulb. The light comes from energy the cell gives, not from the electricity leaking away.
-15. (truefalse) A torch bulb lights whichever way round you join it to the cell.  
+14. (truefalse) A torch bulb lights whichever way round you join it to the cell.  
    **Answer:** True. *Why:* True. A torch bulb lights either way round, because the electricity just needs a complete loop through it. A small LED light is different: it lights only one way round.
-16. (write) A doorbell rings only while you press the button. What happens inside the button when you press it, and when you let go?  
+15. (write) A doorbell rings only while you press the button. What happens inside the button when you press it, and when you let go?  
    **Answer:** When I press, two metal parts inside touch, so the loop is complete and the bell rings. When I let go, a spring pushes them apart. Now there is a gap of air, the loop is broken, and the bell stops.. *Why:* A strong answer uses the idea of a gap: touching metal closes the loop, a gap of air breaks it.
 ### Inside the Wire (stretch) (stretch, 16 questions)
-1. (mcq) Anjali makes a loop with a wire 2 metres long, as long as a door is tall. She closes the gap. When does the bulb light?  
+1. (mcq) Arjun makes a loop with a wire 2 metres long, as long as a door is tall. She closes the gap. When does the bulb light?  
    Options: At once / After about a second / After about a minute  
    **Answer:** At once. *Why:* The bulb lights at once. The tiny moving bits called electrons are already in the wire all the way round. The cell pushes them all at the same moment, so none has to travel from the cell to the bulb first.
 2. (write) When you push a cycle pedal, the back wheel turns at once, even though each link of the chain moves slowly. How is a circuit like a cycle chain?  
@@ -620,9 +617,9 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 4. (mcq) A touch-me-not plant folds their leaves when you touch them. What travels along the leaf stalk to make this happen?  
    Options: A sound / An electrical signal / A drop of water  
    **Answer:** An electrical signal. *Why:* A touch starts an electrical signal that travels along the leaf stalk, and the leaves fold. Jagadish Chandra Bose measured electrical signals in plants in Kolkata over a hundred years ago.
-5. (mcq) A crow sits on a power line and is not hurt. A person on a ladder who touches the same line can be killed. Why the difference?  
-   Options: The crow touches only one wire, so there is no loop through her body / Crows have thick feathers that are conductors / The person is heavier than the crow  
-   **Answer:** The crow touches only one wire, so there is no loop through her body. *Why:* Electricity flows only round a loop. The crow touches one wire and nothing else, so there is no path through her body. The person also touches the ladder and the ground, so there is a path through the body to the earth.
+5. (mcq) A crow sits on a power line and is not hurt. A person standing on the ground who touches the same line can be killed. Why the difference?  
+   Options: The crow touches only one wire, so there is no loop through their body / Crows have thick feathers that are conductors / The person is heavier than the crow  
+   **Answer:** The crow touches only one wire, so there is no loop through their body. *Why:* Electricity flows only round a loop. The crow touches one wire and nothing else, so there is no path through their body. The person also touches the ground, so there is a path through the body to the earth.
 6. (mcq) Why does a plug have at least two pins?  
    Options: One pin is a spare / The electricity needs a way in and a way back, to make a loop / So that the plug stands up straight  
    **Answer:** The electricity needs a way in and a way back, to make a loop. *Why:* An iron or a fan is part of a loop, just like a bulb. The electricity needs one path in and one path back. Many plugs have a third pin, called earth, for safety.
@@ -630,9 +627,9 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
    **Answer:** ['the socket', 'one pin of the plug', 'one wire in the cable', 'the heating coil inside the iron', 'the other wire in the cable', 'the other pin, back into the socket']. *Why:* An iron is one big loop, like a torch. The electricity goes out through one pin and wire, through the coil that gets hot, and back through the other wire and pin.
 8. (write) Your friend says, "A cell is like a water tank full of electricity, and the bulb drinks it up." What would you tell her? Use evidence from your experiments.  
    **Answer:** I would tell her the electricity is not drunk up. It goes round the loop and back to the cell. My evidence is that a gap after the bulb puts it out, just like a gap before it. What a cell runs out of is the energy in its chemicals.. *Why:* A strong answer corrects the idea and backs it with a result from the gap test.
-9. (mcq) Many people think electricity comes out of one end of the cell and is used up in the bulb. Which result from your tests shows this is wrong?  
-   Options: A gap on the far side of the bulb puts the bulb out too / The bulb gets warm / The cell feels heavy  
-   **Answer:** A gap on the far side of the bulb puts the bulb out too. *Why:* If the electricity stopped at the bulb, a gap after the bulb would not matter. But it puts the bulb out at once. So the electricity must go all the way round and back to the cell.
+9. (mcq) Before testing anything, Swati touches the two loose wire ends of her circuit tester together, and the bulb lights. Why is this a good first step?  
+   Options: It shows the tester works, so a dark bulb later means the thing is an insulator, not that the tester is broken / It charges the cell / It warms up the bulb so it lights faster  
+   **Answer:** It shows the tester works, so a dark bulb later means the thing is an insulator, not that the tester is broken. *Why:* A dark bulb could mean two things: the thing is an insulator, or the tester itself has a gap or a flat cell. Checking that the tester lights on its own rules out the second. A good scientist checks the tool before trusting a result.
 10. (mcq) In a steady hand game, the bulb lights when the wand touches the foil path. Sunitha covers the start of the path with tape, so she can rest the wand there. Why does this work?  
    Options: Tape is an insulator, so touching it leaves a gap / Tape makes the cell weaker / Tape is a conductor  
    **Answer:** Tape is an insulator, so touching it leaves a gap. *Why:* The wand and the path are the two sides of a gap. Touching metal to metal closes it. Tape is an insulator, so the gap stays open and the bulb stays dark.
@@ -643,8 +640,8 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 13. (mcq) An electrician's gloves are made of thick rubber. Why rubber, and not cotton?  
    Options: Rubber is an insulator, and it stays one even when it is wet / Rubber is a conductor / Cotton is too hot to wear  
    **Answer:** Rubber is an insulator, and it stays one even when it is wet. *Why:* Rubber stops electricity, and water cannot soak into it. Cotton soaks up sweat and water, and wet cloth lets electricity through. So rubber keeps the hands safe.
-14. (fill) One AA cell pushes with 1.5 volts. Two AA cells in a row, facing the same way, push with ____ volts.  
-   **Answer:** ['3', 'three']. *Why:* The pushes add up when the cells face the same way: 1.5 + 1.5 = 3 volts. If one is turned round, they cancel and make 0.
+14. (fill) Three AA cells sit in a row. Two face the same way, and the third is turned round. Together they push with ____ volts.  
+   **Answer:** ['1.5', '1.5 volts']. *Why:* The two cells facing the same way push with 3 volts. The turned-round cell pushes back with 1.5 volts. 3 minus 1.5 leaves 1.5 volts, the same as one cell on its own.
 15. (write) Your nerves carry electrical signals, and so does a touch-me-not plant. Is a thought just electricity? Write what you think, and why.  
    **Answer:** Any honest answer with a reason. For example: signals in the brain are electrical, and scientists can measure them. But nobody can measure what a thought feels like from the inside. So I think a thought is more than the signals.. *Why:* This is an open question that scientists and thinkers still argue about. A strong answer gives a view and a reason.
 

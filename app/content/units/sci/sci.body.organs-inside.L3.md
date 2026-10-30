@@ -681,7 +681,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 ### Inside Explorer (core) (core, 16 questions)
 1. (mcq) An organ is a body part with a special job, made of many living cells. Which of these is an organ?  
    Options: One hair / Your heart / One tear / One drop of sweat  
-   **Answer:** Your heart. *Why:* The heart is made of millions of living cells working together on one big job: pumping blood. A hair, a tear or a drop of sweat has no job of its own like that. A strong answer says both parts: many cells, and one special job.
+   **Answer:** Your heart. *Why:* The heart is made of millions of living cells working together on one big job: pumping blood. A hair is made of cells that are no longer alive. A tear and a drop of sweat are liquids, not made of cells at all. A strong answer says both parts: many living cells, and one special job.
 2. (mcq) Put your hand where you think your heart is. Most people put it far over on the left. Where is the heart really?  
    Options: Far over on the left, under the arm / In the middle of the chest, behind the breastbone, tipped a little to the left / Low in the belly / Just under the neck  
    **Answer:** In the middle of the chest, behind the breastbone, tipped a little to the left. *Why:* The heart sits in the middle of the chest, behind the flat breastbone. Only its pointy bottom end tips to the left. That is why so many people guess 'far left'.
@@ -742,8 +742,8 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
    **Answer:** It has a dent to make room for the heart. *Why:* The heart's pointy end tips to the left, so the left lung has a dent for it. You found this when you packed the chest with dough. Both lungs grow at the same speed.
 11. (perspective) Three girls in a Class 3 group are arguing about which organ is the boss of the body.  
    **Answer:** A strong answer picks a side and backs it with a real fact. For Nandini: the brain speeds up the heart when you run or are scared. For Revathi: the brain dies within minutes without blood, and the heart starts its own beat. For Usha: the heart needs oxygen from the lungs, and the lungs need the brain's messages to speed up. The answer-back must use a fact too, not just 'she is wrong'.. *Why:* Scientists still describe the body in different ways. Some see the brain as a control centre. Others see a team. Each side has real evidence.
-12. (write) You run to catch the school bus. Say what your brain, your heart and your lungs each do.  
-   **Answer:** My brain notices my legs need more oxygen. It sends messages to my heart and lungs. My lungs breathe faster and take in more oxygen. My heart beats faster and pumps that oxygen to my leg muscles.. *Why:* A strong answer gives each organ its own job, and shows the brain's messages linking them. This is organs working as a team.
+12. (write) Riya holds her breath under water in a swimming pool. After about half a minute she has to come up and breathe, even though she wants to stay down. Which organ makes her breathe again, and why?  
+   **Answer:** Her brain. While she holds her breath, her cells keep using oxygen and making a waste gas called carbon dioxide. The waste gas builds up in her blood. Her brain senses it and sends strong messages to her diaphragm to breathe. That is why she cannot hold her breath for ever.. *Why:* A strong answer names the brain and says what it notices: waste gas building up in the blood. Breathing is controlled by the brain, even while we are busy with something else.
 13. (match) Match each bone to the soft part it protects.  
    **Answer:** Skull → brain; Ribs → heart and lungs; Backbone → spinal cord, the thick nerve down your back. *Why:* Hard bones guard soft organs. The skull is a box, the ribs are a cage, and the backbone is a tube of small bones that the spinal cord runs through.
 14. (draw) Draw the rib cage around a heart and two lungs. Show the gaps between the ribs.  
@@ -754,9 +754,9 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 16. (sort) Does this job happen in your chest or in your belly? Swapping air with the blood, pumping blood, churning food, soaking food into the blood.  
    **Answer:** swapping air with the blood → Chest; pumping blood → Chest; churning food → Belly; soaking food into the blood → Belly. *Why:* The lungs and heart are in the chest. The stomach churns food, and the intestines soak the broken-down food into the blood. Both are in the belly.
 ### Body Puzzles and Arguments (challenge) (challenge, 16 questions)
-1. (mcq) A sponge is an animal that lives in the sea. She has no heart, no stomach and no brain. How does she stay alive?  
-   Options: She does not, sponges are not really alive / Water flows through her, and her cells take oxygen and food straight from the water / She borrows organs from fish / She only lives for one day  
-   **Answer:** Water flows through her, and her cells take oxygen and food straight from the water. *Why:* Water flows through tiny holes in a sponge's body. Each cell takes oxygen straight from the water, and some cells catch bits of food and share them. A sponge grows, feeds and has babies, so she is alive. Organs are what happens when cells share out jobs in a bigger body.
+1. (mcq) A sponge is an animal that lives in the sea. Sponges have no heart, no stomach and no brain. How does a sponge stay alive?  
+   Options: They do not, sponges are not really alive / Water flows through her, and her cells take oxygen and food straight from the water / They borrow organs from fish / They only live for one day  
+   **Answer:** Water flows through her, and her cells take oxygen and food straight from the water. *Why:* Water flows through tiny holes in a sponge's body. Each cell takes oxygen straight from the water, and some cells catch bits of food and share them. A sponge grows, feeds and has babies, so they are alive. Organs are what happens when cells share out jobs in a bigger body.
 2. (mcq) Scientists put some heart muscle cells in a dish, with no brain anywhere. The cells start to beat by themselves. What does this show?  
    Options: The heart needs the brain to start every beat / Heart cells have their own beat built in / The dish is shaking / The cells are copying each other's colour  
    **Answer:** Heart cells have their own beat built in. *Why:* Heart cells beat on their own. The brain only speeds them up or slows them down. Most people guess the brain starts every beat. This test shows that guess is only half true.
@@ -772,24 +772,24 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
    **Answer:** Gills. *Why:* You have a heart, lungs and a stomach. Gills belong to fish. They are a fish's breathing organs, doing the job our lungs do. A heart, a stomach and gills are all in a fish, so another strong answer is 'lungs', if the child explains it.
 8. (fill) The brain has about 86 ____ nerve cells.  
    **Answer:** ['billion']. *Why:* 86 billion is about ten times the number of people on Earth. The Brazilian scientist Suzana Herculano-Houzel counted them in 2009. She turned brains into a soup, then counted the cell centres in a few drops.
-9. (truefalse) Scientists have grown full-sized working hearts in a lab and put them into people.  
-   **Answer:** False. *Why:* False. Scientists can grow tiny, simple mini-organs, called organoids, from a few cells. Nobody has yet grown a full working heart for a person.
-10. (truefalse) A fish's swim bladder, the air bag that helps her float, and our lungs began long ago as the same thing.  
-   **Answer:** True. *Why:* True. Lungs and swim bladders come from the same ancient beginning in early fish. That is why the story's pomfret and Appu share a plan.
+9. (truefalse) A person can live after doctors take out their whole stomach because of an illness.  
+   **Answer:** True. *Why:* True. The stomach churns food and starts breaking it down, but the intestines do most of the breaking down and soak the food into the blood. Without a stomach, the person eats small meals often, because there is no stretchy bag to hold a big one. A strong answer says which organ takes over the work.
+10. (truefalse) A fish's swim bladder, the air bag that helps them float, and our lungs began long ago as the same thing.  
+   **Answer:** True. *Why:* True. Lungs and swim bladders come from the same ancient beginning in early fish. Some fish today, called lungfish, still breathe air with lung-like bags.
 11. (match) Match each animal to their surprising organ fact.  
-   **Answer:** Octopus → three hearts; Cow → a stomach with four parts; Starfish → pushes her stomach out of her mouth to eat; Sponge → no organs at all. *Why:* Animals solve the same problems, pumping, breathing, digesting and sensing, in many different ways.
+   **Answer:** Octopus → three hearts; Cow → a stomach with four parts; Starfish → pushes their stomach out of their mouth to eat; Sponge → no organs at all. *Why:* Animals solve the same problems, pumping, breathing, digesting and sensing, in many different ways.
 12. (draw) Draw one cell. Inside, draw a mitochondrion, the part that uses oxygen, and a small bag of juice that breaks down food. On the outside, draw a few sensors. Write what each one does.  
    **Answer:** A round cell with a small bean shape (uses oxygen to make energy), a small bubble (breaks down food and old bits) and little feelers on the outside (sense chemicals around the cell).. *Why:* Almost every cell does small versions of the jobs that organs do. Organs are teams of cells sharing out those jobs.
 13. (mcq) A grown-up's heart weighs about 300 grams. A grown-up's brain weighs about 1,300 grams. About how many hearts weigh the same as one brain?  
    Options: 2 / 4 / 10 / 1  
-   **Answer:** 4. *Why:* 4 hearts weigh 4 times 300, which is 1,200 grams. That is close to 1,300. So the brain is about 4 times as heavy as the heart, even though it does not move at all.
+   **Answer:** 4. *Why:* 4 hearts weigh 4 times 300, which is 1,200 grams. That is close to 1,300. So the brain is about 4 times as heavy as the heart.
 14. (write) What if your skull were made of soft rubber instead of bone? What would change when you bump your head? What would stay the same?  
    **Answer:** A rubber skull would bend in when I bump my head, so the bump would reach my brain and could hurt it. The liquid would still cushion my brain a little, like the water around the egg. My brain would still think and send messages, as long as it was not hurt.. *Why:* A strong answer uses both protections: the hard skull stops the bump, and the liquid cushions what gets through.
 15. (mcq) Ammu, who is 8, says, 'Bones are not organs, because organs are soft.' Is she right?  
    Options: No. A bone is made of many living cells and has jobs, so scientists count each bone as an organ / Yes. Only soft parts are organs / Yes. Bones are not alive / Only the skull is an organ  
    **Answer:** No. A bone is made of many living cells and has jobs, so scientists count each bone as an organ. *Why:* Most organs are soft, so her guess makes sense. But bones are alive. They grow, mend when broken, and make new blood cells inside. So each bone is an organ too.
-16. (write) A starfish pushes her stomach out of her mouth to eat a mussel. A cow has a stomach with four parts to break down grass. Why might different animals have such different stomachs?  
-   **Answer:** Each stomach fits the food that animal eats. Grass is tough and hard to break down, so a cow needs four parts and a long time. A mussel is shut inside a shell, so the starfish pushes her stomach in through the gap. Same job, different food, different stomach.. *Why:* A strong answer links each stomach to that animal's food. The job, breaking down food, stays the same.
+16. (write) A starfish pushes their stomach out of their mouth to eat a mussel. A cow has a stomach with four parts to break down grass. Why might different animals have such different stomachs?  
+   **Answer:** Each stomach fits the food that animal eats. Grass is tough and hard to break down, so a cow needs four parts and a long time. A mussel is shut inside a shell, so the starfish pushes their stomach in through the gap. Same job, different food, different stomach.. *Why:* A strong answer links each stomach to that animal's food. The job, breaking down food, stays the same.
 
 ## Videos
 - **The human body: organs and what they do, an introduction for children** (to find (for example SciShow Kids or Peekaboo Kidz), 5 min) id `to find`: A short, clear tour of the heart, lungs, stomach and brain for a child, with simple animation. *Check:* No video id was verified. A parent should search, preview and check it places the stomach under the left ribs and the heart in the middle of the chest.
@@ -800,15 +800,15 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 1. (mcq) What makes your heart an organ, and not just one cell?  
    Options: It is a team of millions of cells doing one big job together / It is very small / It is a bone / It is made of one giant cell  
    **Answer:** It is a team of millions of cells doing one big job together. *Why:* An organ is a body part with a special job, made of many living cells. One cell is the tiny living unit that organs are built from.
-2. (mcq) Kavya, who is 9, feels for her stomach just under her ribs on the left. Her little brother says the stomach is behind the belly button. Who is right?  
-   Options: Her brother / Kavya / Both of them / Neither of them  
-   **Answer:** Kavya. *Why:* The stomach sits under the ribs on the left. Behind the belly button are mostly the intestines. Her brother's guess is the most common one.
+2. (mcq) Stretched out, a grown-up's intestines are several metres long, longer than a car. How do they fit inside the belly?  
+   Options: They are folded and coiled up tightly / They shrink when you are not eating / Half of them hang down inside the legs / Most of them are kept in the chest  
+   **Answer:** They are folded and coiled up tightly. *Why:* The intestines are folded and coiled, like a long rope packed into a small box. That is why they fill most of the belly, below the stomach. A long tube gives food plenty of time and surface to soak into the blood.
 3. (mcq) On an X-ray of the chest, two big dark patches fill most of the space inside the ribs. What are they?  
    Options: The heart / The stomach / The lungs / The ribs  
    **Answer:** The lungs. *Why:* The lungs are full of air, and air lets X-rays through, so they look dark. They are big, filling most of the chest on both sides of the heart.
-4. (mcq) Which organ sits behind your flat breastbone, tipped a little to the left?  
-   Options: The brain / The heart / The stomach / The left lung  
-   **Answer:** The heart. *Why:* The heart is in the middle of the chest, behind the breastbone, with its pointy end tipped left.
+4. (mcq) Malini laughs while eating a murukku, and a crumb goes 'down the wrong way'. She coughs hard. Where did the crumb go, and why does she cough?  
+   Options: Into her windpipe, which leads to the lungs, so the cough blasts it back out / Into her stomach too early / Up into her brain / Into her heart  
+   **Answer:** Into her windpipe, which leads to the lungs, so the cough blasts it back out. *Why:* Food and air both pass the back of the throat. A small flap usually closes the windpipe when you swallow. If you laugh or talk, it can stay open. The lungs are only for air, so the body coughs to push the crumb out.
 5. (mcq) A person's lungs are working well, but their heart stops. Why are they in danger?  
    Options: The lungs will fill with food / Oxygen gets into the blood, but the blood stops moving to the brain and body / The stomach will stop churning / Nothing changes  
    **Answer:** Oxygen gets into the blood, but the blood stops moving to the brain and body. *Why:* The lungs put oxygen into the blood. But only the heart moves that blood around. Without the heart, the brain runs out of oxygen within minutes.
@@ -816,14 +816,14 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
    Options: Pumping it into the lungs / Squeezing and churning it with strong juices into a thick soup / Sending it to the brain / Just holding it still  
    **Answer:** Squeezing and churning it with strong juices into a thick soup. *Why:* The muscle walls churn the food, like the squish bag, and strong juices break it down. Then it goes on to the intestines.
 7. (mcq) What is your brain doing while you sleep?  
-   Options: Nothing, it is switched off / It is still busy, keeping you breathing, keeping your heart beating and sorting your memories / Only dreaming / Digesting food  
-   **Answer:** It is still busy, keeping you breathing, keeping your heart beating and sorting your memories. *Why:* The brain never switches off. It runs breathing and heartbeat all night, and sorts what you learned in the day. Many people think it 'turns off' in sleep.
+   Options: Nothing, it is switched off / It is still busy, keeping you breathing and sorting your memories / Only dreaming / Digesting food  
+   **Answer:** It is still busy, keeping you breathing and sorting your memories. *Why:* The brain never switches off. It keeps you breathing all night, and sorts what you learned in the day. Many people think it 'turns off' in sleep.
 8. (mcq) Your ribs have gaps, and they can swing up and out. Why are they not one solid shell?  
    Options: So the chest can get bigger when the lungs fill with air / So food can get out / To make you lighter / Because they are still growing  
    **Answer:** So the chest can get bigger when the lungs fill with air. *Why:* When you breathe in, the ribs swing out and the diaphragm pulls down. The chest gets bigger and air rushes into the lungs. A solid shell would not let it grow.
-9. (mcq) A bicycle helmet is hard outside and soft inside. Which two parts of your head match it?  
-   Options: Hair outside, skin inside / The skull is the hard part, and the liquid around the brain is the soft cushion / The brain is hard, and the skull is soft / The ears and the nose  
-   **Answer:** The skull is the hard part, and the liquid around the brain is the soft cushion. *Why:* The hard skull stops bumps. The clear liquid cushions the brain, like the water around the egg in the jar.
+9. (mcq) Before a big race, Ishita's tummy feels fluttery and her heart thumps. Which is the best explanation?  
+   Options: Her brain sends 'get ready' messages along nerves to her gut as well as her heart / Her stomach has moved up into her chest / Her lungs have stopped working / Her heart has dropped into her tummy  
+   **Answer:** Her brain sends 'get ready' messages along nerves to her gut as well as her heart. *Why:* When you are nervous, the brain sends messages along nerves to many organs at once. The heart speeds up, and the gut slows down or squeezes oddly. That fluttery feeling shows the organs are linked by nerves.
 10. (mcq) In the egg in the jar test, we used the same kind of jar, the same size of egg and the same number of shakes. Why?  
    Options: So that only the water was different, and the test was fair / To save eggs / Because the jars were the only ones at home / It does not matter  
    **Answer:** So that only the water was different, and the test was fair. *Why:* If only one thing changes, we know that thing caused the difference. Here the only change was the water.
@@ -833,9 +833,9 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 12. (mcq) Which of these is still a mystery to scientists?  
    Options: Where the heart sits / How the brain makes a thought or a feeling / What the stomach does / How many lungs we have  
    **Answer:** How the brain makes a thought or a feeling. *Why:* Where organs are and what they do is well known. How a brain makes the feeling of being you is one of the biggest open questions in science.
-13. (mcq) An octopus has three hearts. Two of them pump blood only through her gills. What does the third one do?  
-   Options: Pumps blood round the rest of her body / Helps her think / Digests food / Nothing  
-   **Answer:** Pumps blood round the rest of her body. *Why:* Two hearts push blood through the gills, where it picks up oxygen. The third pumps it round her body. Our one heart does both jobs, with two sides.
+13. (mcq) An octopus has three hearts. Two of them pump blood only through their gills. What does the third one do?  
+   Options: Pumps blood round the rest of the body / Helps her think / Digests food / Nothing  
+   **Answer:** Pumps blood round the rest of the body. *Why:* Two hearts push blood through the gills, where it picks up oxygen. The third pumps it round her body. Our one heart does both jobs, with two sides.
 14. (mcq) Scientists can grow 'mini-organs', called organoids, from a few cells in a lab. What are they?  
    Options: Full-sized organs ready to put in people / Tiny, simple versions of organs like the brain or gut, used to study them and test medicines / Toys / Plastic models  
    **Answer:** Tiny, simple versions of organs like the brain or gut, used to study them and test medicines. *Why:* Organoids are about the size of a pea or smaller. They help scientists learn how organs grow and test medicines safely.

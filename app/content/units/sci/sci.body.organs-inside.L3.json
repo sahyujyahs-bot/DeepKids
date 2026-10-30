@@ -865,7 +865,7 @@
       "One drop of sweat"
      ],
      "a": 1,
-     "why": "The heart is made of millions of living cells working together on one big job: pumping blood. A hair, a tear or a drop of sweat has no job of its own like that. A strong answer says both parts: many cells, and one special job."
+     "why": "The heart is made of millions of living cells working together on one big job: pumping blood. A hair is made of cells that are no longer alive. A tear and a drop of sweat are liquids, not made of cells at all. A strong answer says both parts: many living cells, and one special job."
     },
     {
      "t": "mcq",
@@ -1171,10 +1171,10 @@
     },
     {
      "t": "write",
-     "p": "You run to catch the school bus. Say what your brain, your heart and your lungs each do.",
+     "p": "Riya holds her breath under water in a swimming pool. After about half a minute she has to come up and breathe, even though she wants to stay down. Which organ makes her breathe again, and why?",
      "lines": 4,
-     "a": "My brain notices my legs need more oxygen. It sends messages to my heart and lungs. My lungs breathe faster and take in more oxygen. My heart beats faster and pumps that oxygen to my leg muscles.",
-     "why": "A strong answer gives each organ its own job, and shows the brain's messages linking them. This is organs working as a team."
+     "a": "Her brain. While she holds her breath, her cells keep using oxygen and making a waste gas called carbon dioxide. The waste gas builds up in her blood. Her brain senses it and sends strong messages to her diaphragm to breathe. That is why she cannot hold her breath for ever.",
+     "why": "A strong answer names the brain and says what it notices: waste gas building up in the blood. Breathing is controlled by the brain, even while we are busy with something else."
     },
     {
      "t": "match",
@@ -1252,15 +1252,15 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A sponge is an animal that lives in the sea. She has no heart, no stomach and no brain. How does she stay alive?",
+     "p": "A sponge is an animal that lives in the sea. Sponges have no heart, no stomach and no brain. How does a sponge stay alive?",
      "opts": [
-      "She does not, sponges are not really alive",
+      "They do not, sponges are not really alive",
       "Water flows through her, and her cells take oxygen and food straight from the water",
-      "She borrows organs from fish",
-      "She only lives for one day"
+      "They borrow organs from fish",
+      "They only live for one day"
      ],
      "a": 1,
-     "why": "Water flows through tiny holes in a sponge's body. Each cell takes oxygen straight from the water, and some cells catch bits of food and share them. A sponge grows, feeds and has babies, so she is alive. Organs are what happens when cells share out jobs in a bigger body."
+     "why": "Water flows through tiny holes in a sponge's body. Each cell takes oxygen straight from the water, and some cells catch bits of food and share them. A sponge grows, feeds and has babies, so they are alive. Organs are what happens when cells share out jobs in a bigger body."
     },
     {
      "t": "mcq",
@@ -1329,15 +1329,15 @@
     },
     {
      "t": "truefalse",
-     "p": "Scientists have grown full-sized working hearts in a lab and put them into people.",
-     "a": false,
-     "why": "False. Scientists can grow tiny, simple mini-organs, called organoids, from a few cells. Nobody has yet grown a full working heart for a person."
+     "p": "A person can live after doctors take out their whole stomach because of an illness.",
+     "a": true,
+     "why": "True. The stomach churns food and starts breaking it down, but the intestines do most of the breaking down and soak the food into the blood. Without a stomach, the person eats small meals often, because there is no stretchy bag to hold a big one. A strong answer says which organ takes over the work."
     },
     {
      "t": "truefalse",
-     "p": "A fish's swim bladder, the air bag that helps her float, and our lungs began long ago as the same thing.",
+     "p": "A fish's swim bladder, the air bag that helps them float, and our lungs began long ago as the same thing.",
      "a": true,
-     "why": "True. Lungs and swim bladders come from the same ancient beginning in early fish. That is why the story's pomfret and Appu share a plan."
+     "why": "True. Lungs and swim bladders come from the same ancient beginning in early fish. Some fish today, called lungfish, still breathe air with lung-like bags."
     },
     {
      "t": "match",
@@ -1353,7 +1353,7 @@
       ],
       [
        "Starfish",
-       "pushes her stomach out of her mouth to eat"
+       "pushes their stomach out of their mouth to eat"
       ],
       [
        "Sponge",
@@ -1379,7 +1379,7 @@
       "1"
      ],
      "a": 1,
-     "why": "4 hearts weigh 4 times 300, which is 1,200 grams. That is close to 1,300. So the brain is about 4 times as heavy as the heart, even though it does not move at all.",
+     "why": "4 hearts weigh 4 times 300, which is 1,200 grams. That is close to 1,300. So the brain is about 4 times as heavy as the heart.",
      "how": "a3"
     },
     {
@@ -1403,9 +1403,9 @@
     },
     {
      "t": "write",
-     "p": "A starfish pushes her stomach out of her mouth to eat a mussel. A cow has a stomach with four parts to break down grass. Why might different animals have such different stomachs?",
+     "p": "A starfish pushes their stomach out of their mouth to eat a mussel. A cow has a stomach with four parts to break down grass. Why might different animals have such different stomachs?",
      "lines": 4,
-     "a": "Each stomach fits the food that animal eats. Grass is tough and hard to break down, so a cow needs four parts and a long time. A mussel is shut inside a shell, so the starfish pushes her stomach in through the gap. Same job, different food, different stomach.",
+     "a": "Each stomach fits the food that animal eats. Grass is tough and hard to break down, so a cow needs four parts and a long time. A mussel is shut inside a shell, so the starfish pushes their stomach in through the gap. Same job, different food, different stomach.",
      "why": "A strong answer links each stomach to that animal's food. The job, breaking down food, stays the same."
     }
    ]
@@ -2746,15 +2746,15 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, who is 9, feels for her stomach just under her ribs on the left. Her little brother says the stomach is behind the belly button. Who is right?",
+   "p": "Stretched out, a grown-up's intestines are several metres long, longer than a car. How do they fit inside the belly?",
    "opts": [
-    "Her brother",
-    "Kavya",
-    "Both of them",
-    "Neither of them"
+    "They are folded and coiled up tightly",
+    "They shrink when you are not eating",
+    "Half of them hang down inside the legs",
+    "Most of them are kept in the chest"
    ],
-   "a": 1,
-   "why": "The stomach sits under the ribs on the left. Behind the belly button are mostly the intestines. Her brother's guess is the most common one.",
+   "a": 0,
+   "why": "The intestines are folded and coiled, like a long rope packed into a small box. That is why they fill most of the belly, below the stomach. A long tube gives food plenty of time and surface to soak into the blood.",
    "outcome": 1
   },
   {
@@ -2772,15 +2772,15 @@
   },
   {
    "t": "mcq",
-   "p": "Which organ sits behind your flat breastbone, tipped a little to the left?",
+   "p": "Malini laughs while eating a murukku, and a crumb goes 'down the wrong way'. She coughs hard. Where did the crumb go, and why does she cough?",
    "opts": [
-    "The brain",
-    "The heart",
-    "The stomach",
-    "The left lung"
+    "Into her windpipe, which leads to the lungs, so the cough blasts it back out",
+    "Into her stomach too early",
+    "Up into her brain",
+    "Into her heart"
    ],
-   "a": 1,
-   "why": "The heart is in the middle of the chest, behind the breastbone, with its pointy end tipped left.",
+   "a": 0,
+   "why": "Food and air both pass the back of the throat. A small flap usually closes the windpipe when you swallow. If you laugh or talk, it can stay open. The lungs are only for air, so the body coughs to push the crumb out.",
    "outcome": 1
   },
   {
@@ -2814,12 +2814,12 @@
    "p": "What is your brain doing while you sleep?",
    "opts": [
     "Nothing, it is switched off",
-    "It is still busy, keeping you breathing, keeping your heart beating and sorting your memories",
+    "It is still busy, keeping you breathing and sorting your memories",
     "Only dreaming",
     "Digesting food"
    ],
    "a": 1,
-   "why": "The brain never switches off. It runs breathing and heartbeat all night, and sorts what you learned in the day. Many people think it 'turns off' in sleep.",
+   "why": "The brain never switches off. It keeps you breathing all night, and sorts what you learned in the day. Many people think it 'turns off' in sleep.",
    "outcome": 2
   },
   {
@@ -2837,15 +2837,15 @@
   },
   {
    "t": "mcq",
-   "p": "A bicycle helmet is hard outside and soft inside. Which two parts of your head match it?",
+   "p": "Before a big race, Ishita's tummy feels fluttery and her heart thumps. Which is the best explanation?",
    "opts": [
-    "Hair outside, skin inside",
-    "The skull is the hard part, and the liquid around the brain is the soft cushion",
-    "The brain is hard, and the skull is soft",
-    "The ears and the nose"
+    "Her brain sends 'get ready' messages along nerves to her gut as well as her heart",
+    "Her stomach has moved up into her chest",
+    "Her lungs have stopped working",
+    "Her heart has dropped into her tummy"
    ],
-   "a": 1,
-   "why": "The hard skull stops bumps. The clear liquid cushions the brain, like the water around the egg in the jar.",
+   "a": 0,
+   "why": "When you are nervous, the brain sends messages along nerves to many organs at once. The heart speeds up, and the gut slows down or squeezes oddly. That fluttery feeling shows the organs are linked by nerves.",
    "outcome": 3
   },
   {
@@ -2890,9 +2890,9 @@
   },
   {
    "t": "mcq",
-   "p": "An octopus has three hearts. Two of them pump blood only through her gills. What does the third one do?",
+   "p": "An octopus has three hearts. Two of them pump blood only through their gills. What does the third one do?",
    "opts": [
-    "Pumps blood round the rest of her body",
+    "Pumps blood round the rest of the body",
     "Helps her think",
     "Digests food",
     "Nothing"

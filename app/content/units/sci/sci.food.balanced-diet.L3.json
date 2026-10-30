@@ -935,10 +935,15 @@
      "why": "False. A diet is what you usually eat over many days. Sweets on special days are part of a balanced diet. What matters is the everyday pattern."
     },
     {
-     "t": "truefalse",
-     "p": "If your stomach feels full, your body has got everything it needs.",
-     "a": false,
-     "why": "False. Feeling full tells you the stomach has enough food in it. It does not tell you whether that food had protein, iron or vitamins. That is why we eat many kinds of food."
+     "t": "mcq",
+     "p": "Why is it better to eat vegetables of many colours, not the same one every day?",
+     "opts": [
+      "Different vegetables carry different vitamins and minerals, so a mix gives the body more of what it needs",
+      "Bright colours make food taste better",
+      "One vegetable has every vitamin, so the colour does not matter"
+     ],
+     "a": 0,
+     "why": "Orange carrots and pumpkin give beta-carotene, which the body turns into vitamin A. Dark green keerai gives iron and folate. Tomatoes and amla give vitamin C. No one vegetable has everything, so a mix fills more gaps."
     },
     {
      "t": "mcq",
@@ -1064,14 +1069,15 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the Vanishing Blue test. Amla cleared the blue in 3 drops, and mosambi took 24. What does that tell you?",
+     "p": "Remember the Vanishing Blue test. Amla cleared the blue in 3 drops, and mosambi took 24. About how many times as much vitamin C is in a drop of amla as in a drop of mosambi?",
      "opts": [
-      "Amla has much more vitamin C than mosambi",
-      "Mosambi has more vitamin C",
-      "Both have the same"
+      "About 8 times as much",
+      "About 3 times as much",
+      "About 24 times as much",
+      "Less, because amla needed fewer drops"
      ],
      "a": 0,
-     "why": "Fewer drops means more vitamin C in each drop. 24 divided by 3 is 8. So each drop of amla has about eight times as much vitamin C as a drop of mosambi. More drops does not mean more vitamin C. It is the other way round.",
+     "why": "Mosambi needed 24 drops to do the job that 3 drops of amla did. 24 divided by 3 is 8, so each drop of amla holds about eight times as much vitamin C. Picking 'less' reads the test backwards: fewer drops means more vitamin C in each drop.",
      "how": "e2",
      "context": "In the Vanishing Blue test, vitamin C makes a blue iodine and starch liquid turn clear. You count the drops of juice needed."
     },
@@ -1175,15 +1181,6 @@
      ],
      "a": "see items",
      "why": "Vitamin C and scurvy, and sugar and tooth decay, have been tested for many years. Which fats are best, and how much microbes affect the mind, are still being studied."
-    },
-    {
-     "t": "fill",
-     "p": "The tiny parts inside cells that burn food with oxygen to release energy are called ____.",
-     "a": [
-      "mitochondria",
-      "mitochondrion"
-     ],
-     "why": "Mitochondria join glucose or fat with oxygen and release energy. Muscle cells are packed with them."
     },
     {
      "t": "match",
@@ -3011,18 +3008,6 @@
    ],
    "a": 0,
    "why": "Scientists look at the overall pattern. Sweets give quick energy and are fine sometimes. Lots of added sugar every day is linked to tooth decay and other problems. Picking 'sweets are poison' goes far beyond the evidence.",
-   "outcome": 7
-  },
-  {
-   "t": "mcq",
-   "p": "Which of these do scientists still argue about?",
-   "opts": [
-    "Exactly which fats are best for the heart",
-    "Whether we need vitamin C",
-    "Whether food gives us energy"
-   ],
-   "a": 0,
-   "why": "We know for sure that we need vitamin C and that food gives energy. Which fats are best, and how much, is still debated. Picking 'whether we need vitamin C' forgets the many tests since 1747.",
    "outcome": 7
   }
  ],

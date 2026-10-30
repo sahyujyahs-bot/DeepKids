@@ -1082,7 +1082,7 @@
      "t": "truefalse",
      "p": "A force can make a moving thing faster or slower, but it can never make it go a different way.",
      "a": false,
-     "why": "False. A push from the side turns a moving thing. A carrom striker turns when it hits the edge of the board, because the edge pushes it. Speed and direction can both be changed by a force."
+     "why": "False. A push from the side turns a moving thing. Kick a rolling football from the side, and it goes off a new way. Speed and direction can both be changed by a force."
     },
     {
      "t": "mcq",
@@ -1146,10 +1146,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw a ball of dough before and after you squash it. Draw an arrow to show your push.",
-     "a": "A round ball, then a flat round shape. The arrow points down into the dough.",
-     "why": "A squash is a push inwards, so the arrow points into the dough.",
-     "art": "Two empty boxes labelled BEFORE and AFTER."
+     "p": "Draw a tennis ball at the moment it hits a cricket bat. Show how the ball's shape changes. Draw an arrow for the bat's push on the ball.",
+     "a": "A strong drawing shows the ball flattened on the side touching the bat. The arrow starts at the bat and points into the ball, back the way the ball came. The best drawings say the ball will then spring back and fly off the other way.",
+     "why": "One push from the bat does two jobs. It squashes the ball and it turns the ball round. Shape and movement change together."
     },
     {
      "t": "perspective",
@@ -1330,9 +1329,9 @@
     },
     {
      "t": "truefalse",
-     "p": "A paper clip that springs back after a small bend will spring back however hard you bend it.",
+     "p": "A metal hair clip that springs back after a small bend will spring back however hard you bend it.",
      "a": false,
-     "why": "False. A small bend is elastic, so the clip springs back. A big bend is plastic, so the clip stays bent. Push hard enough, again and again, and it snaps. The same thing can behave in all three ways."
+     "why": "False. A small bend is elastic, so the clip springs back. A big bend is plastic, so the clip stays bent. The same thing can be elastic for a small force and plastic for a big one."
     },
     {
      "t": "mcq",
@@ -1388,7 +1387,7 @@
      "a": "A strong answer says that both balls squash, but the rubber ball is elastic. It springs back into shape, and that pushes on the floor, so the floor pushes it back up. The clay is plastic. It stays squashed, so nothing pushes it up again.",
      "why": "A bounce is a squash and a spring back. Without the spring back, there is no bounce.",
      "how": "e3",
-     "context": "In the wet ball prints test, you drop a wet ball onto newspaper and look at the wet circle it leaves."
+     "context": "In the wet ball prints test, you drop a wet ball onto newspaper. The size of the wet circle shows how much the ball squashed when it landed."
     },
     {
      "t": "order",
@@ -1448,7 +1447,7 @@
      "views": [
       {
        "who": "Nandini, who works at the post office",
-       "says": "Use a thick, stiff cardboard box. It does not change shape, so a bump never reaches the bottle."
+       "says": "Use a thick, stiff cardboard box with no gaps. It spreads a knock over the whole box, and nothing sharp can poke through to the glass."
       },
       {
        "who": "Priya, her neighbour",
@@ -1674,17 +1673,17 @@
     },
     {
      "t": "write",
-     "p": "In the story, Iba tied the young roots tightly so the storm couldn't touch them. They stayed thin. Was she wrong to protect them? Explain what you think.",
+     "p": "In the story, Iba tied the young roots tightly so the storm couldn't move them. The loose roots, thrashed by the wind, grew thicker. Why do you think the tied roots stayed thin?",
      "lines": 4,
-     "a": "Any thoughtful answer. For example: she wanted to help, but the roots needed to be pushed and pulled to grow strong. Protecting something from every force can keep it weak.",
-     "why": "This links the science to life. Living things grow stronger where they are pushed and pulled.",
+     "a": "A strong answer says that the loose roots were bent and pulled by the wind every day, and a living root answers those forces by growing thicker, stronger wood. The tied roots felt no bending, so they had nothing to answer. It may link this to swaying trees or to bones that grow stronger with exercise.",
+     "why": "Living beings reshape their bodies to match the forces on them. Trees, roots and bones all grow stronger where they are pushed and pulled.",
      "context": "In this unit's story, Iba helps her aunt grow a living root bridge in Meghalaya. She ties the young roots so they can't move, while some loose roots are thrashed by the wind."
     },
     {
      "t": "draw",
-     "p": "Draw what you think happens to the atoms inside a steel ruler when you bend it a little, and when you let go.",
-     "a": "Atoms joined by little springs. While bent, they are closer together on the inside of the curve and further apart on the outside. When let go, they go back to their old spacing.",
-     "why": "Bonds between atoms act like tiny springs. Squashed or stretched, they pull back."
+     "p": "Draw how the Himalayas were made. First draw India's plate moving north towards Asia, with an arrow for the push. Then draw the rock between them after the push, folded up into mountains.",
+     "a": "A strong drawing shows two blocks of land with flat layers of rock between them, and an arrow pushing one block towards the other. The second picture shows the layers crumpled and folded upwards, like a towel pushed against a wall.",
+     "why": "A slow, huge push changes the shape of rock, just as a hand changes the shape of dough. The Himalayas are still being pushed up today."
     },
     {
      "t": "write",
@@ -3292,7 +3291,7 @@
    "opts": [
     "Stops the ball",
     "Speeds it up",
-    "Turns it into clay"
+    "Makes it heavier"
    ],
    "a": 0,
    "why": "The hands push against the ball's movement and stop it. Picking 'speeds it up' means the push was thought to go the same way as the ball.",
