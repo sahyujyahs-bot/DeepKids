@@ -422,14 +422,31 @@ const WEEK1 = [
   ],
 ];
 const wk1Done = ([id, , , , auto]) => !!(S.wk1?.done?.[id] || auto?.());
+// Day 1 starts the lesson from the card: today's first one, or, on a day with none planned, the next one
+function wk1Lesson(d0) {
+  const L = dayPlan(today).find((i) => i.kind === "lesson" && !i.done),
+    o = !L && offers()[0];
+  if (L)
+    return [
+      `Today's first lesson is “${chT(L.u)}”. Start it here and do it with your child.`,
+      `<button class="btn sm" data-act="play" data-id="${L.id}">${icon("play")}Start the lesson</button>`,
+    ];
+  if (o)
+    return [
+      `No lesson is planned for today. If you like, start the next one now: “${chT(o.nx.u)}”.`,
+      `<button class="btn sm" data-act="more" data-s="${o.s}">${icon("play")}Start it now</button>`,
+    ];
+  return [d0, ""];
+}
 function firstWeekCard() {
   if (!S.setup || S.wk1?.off) return "";
   const k = WEEK1.findIndex((s) => !wk1Done(s));
   if (k < 0) return "";
   // the dots and arrows look back or ahead; on its own the card shows the step to do next
   const v = ui.wk1at ?? k,
-    [id, t, d, go] = WEEK1[v],
+    [id, t, d0, go] = WEEK1[v],
     done = wk1Done(WEEK1[v]),
+    [d, show] = id === "lesson" ? wk1Lesson(d0) : [d0, go ? `<button class="btn sm" ${go}>Show me</button>` : ""],
     step = (i, ic, label) =>
       `<button type="button" class="wk1arr" data-act="wk1go" data-i="${i}" aria-label="${label}" ${i < 0 || i > 6 ? "disabled" : ""}>${icon(ic)}</button>`,
     head = (n) =>
@@ -438,7 +455,7 @@ function firstWeekCard() {
   if (ui.wk1at == null && Object.values(S.wk1?.done || {}).includes(today))
     return `<section class="card wk1">${head(k - 1)}<p class="sm"><b>Day ${k} done.</b> Tomorrow: ${esc(t)}.</p><button class="link sm" data-act="wk1go" data-i="${k}">Do it now</button></section>`;
   return `<section class="card wk1">${head(v)}<div class="row wk1t">${blob("var(--sun)", 6 + v, done ? "happy" : "wow", "nb", 'width="40" height="40"')}<div><h3>${t}</h3><p class="sm">${d}</p></div></div>
-   <div class="row">${go ? `<button class="btn sm" ${go}>Show me</button>` : ""}${done ? `<span class="wk1ok">${icon("check")} Done</span>` : `<button class="btn soft sm" data-act="wk1done" data-k="${id}">${icon("check")} Done</button>`}<button class="link xs" data-act="wk1off">Hide this guide</button></div></section>`;
+   <div class="row">${show}${done ? `<span class="wk1ok">${icon("check")} Done</span>` : `<button class="btn soft sm" data-act="wk1done" data-k="${id}">${icon("check")} Done</button>`}<button class="link xs" data-act="wk1off">Hide this guide</button></div></section>`;
 }
 function viewToday() {
   const items = dayPlan(today),

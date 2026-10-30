@@ -1024,15 +1024,37 @@ function addedUnits(subj, lvl) {
 const collate = (s) => collateAt(s, S.levels[s]);
 function notesFor(subj, lvl) {
   const n = [];
-  boardsOn().forEach((b) => {
-    const x =
-      b === "ncert" ? DATA.notes.ncert[subj + "|" + lvl] : (DATA.notes[b]?.[subj + "|" + lvl] ?? DATA.notes[b]?.[subj]);
-    if (x) n.push(BOARDS[b] + ": " + x);
-  });
-  if (S.plus && subj === "sci" && lvl !== 1)
-    n.push("DeepKids Plus Science for Level " + lvl + " is being written. Level 1 is ready.");
-  if (S.plus && subj !== "sci") n.push("DeepKids Plus " + SUBJ[subj] + " is being written.");
+  // the DeepKids track plans from its own lessons, so the boards' notes don't apply to it
+  if (S.board !== "combined")
+    boardsOn().forEach((b) => {
+      const x =
+        b === "ncert"
+          ? DATA.notes.ncert[subj + "|" + lvl]
+          : (DATA.notes[b]?.[subj + "|" + lvl] ?? DATA.notes[b]?.[subj]);
+      if (x) n.push(BOARDS[b] + ": " + x);
+    });
+  if (subj !== "sci" && (S.plus || S.board === "combined")) {
+    const bd = plannedAt(subj, lvl).find((u) => BOARDS[u.board])?.board;
+    n.push(
+      `DeepKids ${SUBJ[subj]} is being written.${S.board === "combined" && bd ? " Until then, it follows the " + BOARDS[bd] + " book." : ""}`,
+    );
+  }
   return n;
+}
+// What a year's plan is made of, one line per part, as the family will see it
+function planParts(subj, lvl) {
+  const N = {
+      combined: "DeepKids lessons",
+      unit: "DeepKids topic units",
+      dk: "Extra DeepKids topics",
+      gen: "Extra topics",
+    },
+    g = new Map();
+  plannedAt(subj, lvl).forEach((u) => {
+    const k = N[u.board] || u.book;
+    g.set(k, (g.get(k) || 0) + 1);
+  });
+  return [...g].map(([k, n]) => `${k}: ${n}${Object.values(N).includes(k) ? "" : " chapters"}`);
 }
 function plannedAt(s, l) {
   // the DeepKids track follows its own topic list for the class
@@ -9676,14 +9698,31 @@ const WEEK1 = [
   ],
 ];
 const wk1Done = ([id, , , , auto]) => !!(S.wk1?.done?.[id] || auto?.());
+// Day 1 starts the lesson from the card: today's first one, or, on a day with none planned, the next one
+function wk1Lesson(d0) {
+  const L = dayPlan(today).find((i) => i.kind === "lesson" && !i.done),
+    o = !L && offers()[0];
+  if (L)
+    return [
+      `Today's first lesson is “${chT(L.u)}”. Start it here and do it with your child.`,
+      `<button class="btn sm" data-act="play" data-id="${L.id}">${icon("play")}Start the lesson</button>`,
+    ];
+  if (o)
+    return [
+      `No lesson is planned for today. If you like, start the next one now: “${chT(o.nx.u)}”.`,
+      `<button class="btn sm" data-act="more" data-s="${o.s}">${icon("play")}Start it now</button>`,
+    ];
+  return [d0, ""];
+}
 function firstWeekCard() {
   if (!S.setup || S.wk1?.off) return "";
   const k = WEEK1.findIndex((s) => !wk1Done(s));
   if (k < 0) return "";
   // the dots and arrows look back or ahead; on its own the card shows the step to do next
   const v = ui.wk1at ?? k,
-    [id, t, d, go] = WEEK1[v],
+    [id, t, d0, go] = WEEK1[v],
     done = wk1Done(WEEK1[v]),
+    [d, show] = id === "lesson" ? wk1Lesson(d0) : [d0, go ? `<button class="btn sm" ${go}>Show me</button>` : ""],
     step = (i, ic, label) =>
       `<button type="button" class="wk1arr" data-act="wk1go" data-i="${i}" aria-label="${label}" ${i < 0 || i > 6 ? "disabled" : ""}>${icon(ic)}</button>`,
     head = (n) =>
@@ -9692,7 +9731,7 @@ function firstWeekCard() {
   if (ui.wk1at == null && Object.values(S.wk1?.done || {}).includes(today))
     return `<section class="card wk1">${head(k - 1)}<p class="sm"><b>Day ${k} done.</b> Tomorrow: ${esc(t)}.</p><button class="link sm" data-act="wk1go" data-i="${k}">Do it now</button></section>`;
   return `<section class="card wk1">${head(v)}<div class="row wk1t">${blob("var(--sun)", 6 + v, done ? "happy" : "wow", "nb", 'width="40" height="40"')}<div><h3>${t}</h3><p class="sm">${d}</p></div></div>
-   <div class="row">${go ? `<button class="btn sm" ${go}>Show me</button>` : ""}${done ? `<span class="wk1ok">${icon("check")} Done</span>` : `<button class="btn soft sm" data-act="wk1done" data-k="${id}">${icon("check")} Done</button>`}<button class="link xs" data-act="wk1off">Hide this guide</button></div></section>`;
+   <div class="row">${show}${done ? `<span class="wk1ok">${icon("check")} Done</span>` : `<button class="btn soft sm" data-act="wk1done" data-k="${id}">${icon("check")} Done</button>`}<button class="link xs" data-act="wk1off">Hide this guide</button></div></section>`;
 }
 function viewToday() {
   const items = dayPlan(today),
@@ -13250,12 +13289,12 @@ function viewOnboarding() {
     S = { ...S, ...d };
     const h = `<div class="ob">${fxObBar(5)}<h1>${esc(d.child || "Your child")}'s year</h1><div class="col">${d.subjects
       .map((s) => {
-        const c = collate(s),
-          books = [...new Set(c.board.map((u) => u.book))];
-        return `<div class="card ${SC(s)}"><div class="row" style="gap:10px">${sblob(s, "happy", "", 'width="40" height="40"')}<b style="font:600 18px var(--display)">${SUBJ[s]}</b><span class="xs muted">${lvlLabel(d.levels[s])}</span></div>${books.map((b) => `<span class="sm">${esc(b)}: ${c.board.filter((u) => u.book === b).length} chapters</span>`).join("")}${c.dk.length ? `<span class="sm">DeepKids Plus: ${c.dk.length} topics</span>` : ""}${notesFor(
+        return `<div class="card ${SC(s)}"><div class="row" style="gap:10px">${sblob(s, "happy", "", 'width="40" height="40"')}<b style="font:600 18px var(--display)">${SUBJ[s]}</b><span class="xs muted">${lvlLabel(d.levels[s])}</span></div>${planParts(
           s,
           d.levels[s],
         )
+          .map((x) => `<span class="sm">${esc(x)}</span>`)
+          .join("")}${notesFor(s, d.levels[s])
           .map((n) => `<span class="xs muted">${esc(n)}</span>`)
           .join("")}</div>`;
       })

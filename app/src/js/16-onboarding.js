@@ -136,12 +136,12 @@ function viewOnboarding() {
     S = { ...S, ...d };
     const h = `<div class="ob">${fxObBar(5)}<h1>${esc(d.child || "Your child")}'s year</h1><div class="col">${d.subjects
       .map((s) => {
-        const c = collate(s),
-          books = [...new Set(c.board.map((u) => u.book))];
-        return `<div class="card ${SC(s)}"><div class="row" style="gap:10px">${sblob(s, "happy", "", 'width="40" height="40"')}<b style="font:600 18px var(--display)">${SUBJ[s]}</b><span class="xs muted">${lvlLabel(d.levels[s])}</span></div>${books.map((b) => `<span class="sm">${esc(b)}: ${c.board.filter((u) => u.book === b).length} chapters</span>`).join("")}${c.dk.length ? `<span class="sm">DeepKids Plus: ${c.dk.length} topics</span>` : ""}${notesFor(
+        return `<div class="card ${SC(s)}"><div class="row" style="gap:10px">${sblob(s, "happy", "", 'width="40" height="40"')}<b style="font:600 18px var(--display)">${SUBJ[s]}</b><span class="xs muted">${lvlLabel(d.levels[s])}</span></div>${planParts(
           s,
           d.levels[s],
         )
+          .map((x) => `<span class="sm">${esc(x)}</span>`)
+          .join("")}${notesFor(s, d.levels[s])
           .map((n) => `<span class="xs muted">${esc(n)}</span>`)
           .join("")}</div>`;
       })

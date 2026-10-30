@@ -87,15 +87,37 @@ function addedUnits(subj, lvl) {
 const collate = (s) => collateAt(s, S.levels[s]);
 function notesFor(subj, lvl) {
   const n = [];
-  boardsOn().forEach((b) => {
-    const x =
-      b === "ncert" ? DATA.notes.ncert[subj + "|" + lvl] : (DATA.notes[b]?.[subj + "|" + lvl] ?? DATA.notes[b]?.[subj]);
-    if (x) n.push(BOARDS[b] + ": " + x);
-  });
-  if (S.plus && subj === "sci" && lvl !== 1)
-    n.push("DeepKids Plus Science for Level " + lvl + " is being written. Level 1 is ready.");
-  if (S.plus && subj !== "sci") n.push("DeepKids Plus " + SUBJ[subj] + " is being written.");
+  // the DeepKids track plans from its own lessons, so the boards' notes don't apply to it
+  if (S.board !== "combined")
+    boardsOn().forEach((b) => {
+      const x =
+        b === "ncert"
+          ? DATA.notes.ncert[subj + "|" + lvl]
+          : (DATA.notes[b]?.[subj + "|" + lvl] ?? DATA.notes[b]?.[subj]);
+      if (x) n.push(BOARDS[b] + ": " + x);
+    });
+  if (subj !== "sci" && (S.plus || S.board === "combined")) {
+    const bd = plannedAt(subj, lvl).find((u) => BOARDS[u.board])?.board;
+    n.push(
+      `DeepKids ${SUBJ[subj]} is being written.${S.board === "combined" && bd ? " Until then, it follows the " + BOARDS[bd] + " book." : ""}`,
+    );
+  }
   return n;
+}
+// What a year's plan is made of, one line per part, as the family will see it
+function planParts(subj, lvl) {
+  const N = {
+      combined: "DeepKids lessons",
+      unit: "DeepKids topic units",
+      dk: "Extra DeepKids topics",
+      gen: "Extra topics",
+    },
+    g = new Map();
+  plannedAt(subj, lvl).forEach((u) => {
+    const k = N[u.board] || u.book;
+    g.set(k, (g.get(k) || 0) + 1);
+  });
+  return [...g].map(([k, n]) => `${k}: ${n}${Object.values(N).includes(k) ? "" : " chapters"}`);
 }
 function plannedAt(s, l) {
   // the DeepKids track follows its own topic list for the class
