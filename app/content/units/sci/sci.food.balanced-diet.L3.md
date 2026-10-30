@@ -52,7 +52,7 @@ Your body needs many different things from food. No single food has all of them.
 ### Go, grow and glow: three jobs food does · *defined*
 **Definition:** Energy foods (go foods) give the body fuel. Body-building foods (grow foods) give protein to build and mend. Protecting foods (glow foods) give vitamins, minerals and fibre that keep the body working well.
 
-An easy way to plan a meal is to think of three jobs. Go foods are rice, chapati, millets like ragi and bajra, potatoes and bananas. Grow foods are dal, chana, rajma, sprouts, milk, curd, paneer, eggs, fish, meat and nuts. Glow foods are vegetables and fruits. Water and a little fat are needed too. Many foods do more than one job. Dal gives protein and also fibre and iron. Peanuts give protein, fat and energy. Milk gives protein and calcium. So the groups are a helpful map, not strict boxes. Different countries draw them differently. Some use five groups, some use a plate and some used a pyramid.
+An easy way to plan a meal is to think of three jobs. Go foods are rice, chapati, millets like ragi and bajra, potatoes and bananas. Grow foods are dal, chana, rajma, sprouts, milk, curd, paneer, eggs, fish, meat and nuts. Glow foods are vegetables and fruits. Water and a little fat are needed too. Many foods do more than one job. Dal gives protein and also fibre and iron. Peanuts give protein, fat and energy. Milk gives protein and calcium. So the groups are a helpful map, not strict boxes. Different countries draw them differently. Some use five groups, some use a plate and some have used a pyramid.
 - e.g. A lunch of rice (go), dal (grow) and bhindi poriyal (glow) does all three jobs.
 - e.g. Egg bhurji with chapati and tomato does all three jobs too.
 - e.g. A plate of rice and potato curry is mostly go. Adding a bowl of curd and a cucumber adds grow and glow.
@@ -213,7 +213,7 @@ Food does not stay food inside you. The fat in a peanut becomes the skin of your
 
 In the winter of 1929, in the city of Bombay, my mother began to turn the colour of the moon.
 
-My name is Kamal. I was ten. We lived in one room of a chawl in Parel, on the third floor, where the mill whistle woke us before the crows did. My mother, Sakhu, worked at a spinning machine in the cotton mill, twelve hours a day. There was a baby growing inside her. And every week she grew paler.
+My name is Kamal. I was ten. We lived in one room of a chawl in Parel, on the third floor, where the mill whistle woke us before the crows did. My mother, Sakhu, whom I called Aai, worked at a spinning machine in the cotton mill, twelve hours a day. There was a baby growing inside her. And every week she grew paler.
 
 First it was her lips. Then it was the inside of her eyelids, which should be red like a guava and were white like a radish. On the stairs she stopped at every landing, holding the rail, breathing as if she had run all the way from the sea. 'It is nothing,' she said. 'It is the cotton dust.' Our neighbour said it was the heat. Another said it was the evil eye, and tied a black thread on Aai's wrist.
 
@@ -257,7 +257,7 @@ That summer I found a broken kerosene tin and filled it with earth from the rail
 
 When the first leaves came, small and round and green, I picked a handful. I washed them at the tap, chopped them as fine as I could, and stirred them into my mother's dal.
 
-**For the parent:** For the parent: the turn is the doctor's sentence, 'Enough food is not the same as the right food.' Sakhu's stomach was full of rice every day, but her diet was not balanced. It was missing a vitamin, later named folate, that the body needs only in tiny amounts to make new blood cells. Kamal's ending joins the two ideas without saying so: the missing thing was in leaves. The story also shows that whether a family eats a balanced diet often depends on money and work, not on knowing better. It quietly credits a woman scientist, a girl who asked the right question, and the women whose illness was taken seriously at last.
+**For the parent:** For the parent: the turn is the doctor's sentence, 'Enough food is not the same as the right food.' Sakhu's stomach was full of rice every day, but her diet was not balanced. It was missing a vitamin, later named folate, that the body needs only in tiny amounts to make new blood cells. Kamal's ending joins the two ideas without saying so: the missing thing was in leaves. Whether a family eats a balanced diet often depends on money and work, not on knowing better.
 
 - Ask: Aai said she was not hungry. Why was she still ill?
 - Ask: What did the doctor mean when she said 'enough food is not the same as the right food'?
@@ -268,9 +268,9 @@ When the first leaves came, small and round and green, I picked a handful. I was
 
 ## Games
 ### g1 · Cell Delivery (25 min)
-- **rules:** Each player has a My Body sheet. Shuffle the 24 food cards. Lay 5 face up in a row. This row is the market. Put the rest in a pile, face down.; On your turn, take one card from the market. Tick the boxes it fills on your sheet. Then fill the market back up to 5 from the pile.; Extra ticks are not kept. If your Brain cell already has their 2 energy, more energy does not count.; A cell is fed when all their boxes are ticked. Colour them in.; Each player gets 8 turns, like the meals and snacks of one day.; Your body also needs water. Tick the Water drop by taking the buttermilk card, or by using one turn to say 'I drink water' instead of taking a card. If your Water drop is empty at the end, none of your cells count.; With friends or a parent: after 8 turns each, the player with the most fed cells wins. A tie goes to whoever fed the Gut-lining cell.; Playing alone: try to feed all six cells and tick the Water drop within 8 turns. Then try in 7, then in 6. Doing it in 5 is very hard and needs luck.
+- **rules:** Each player has a My Body sheet. Shuffle the 24 food cards. Lay 5 face up in a row. This row is the market. Put the rest in a pile, face down.; On your turn, take one card from the market. Tick the boxes it fills on your sheet, then put the card on a discard pile. Fill the market back up to 5 from the pile. When the pile is empty, shuffle the discard pile and turn it face down as the new pile.; Extra ticks are not kept. If your Brain cell already has their 2 energy, more energy does not count.; A cell is fed when all their boxes are ticked. Colour them in.; Each player gets 8 turns, like the meals and snacks of one day.; Your body also needs water. Tick the Water drop by taking the buttermilk card, or by using one turn to say 'I drink water' instead of taking a card. If your Water drop is empty at the end, none of your cells count.; With friends or a parent: after 8 turns each, the player with the most fed cells wins. A tie goes to whoever fed the Gut-lining cell. If that is tied too, share the win.; Playing alone: try to feed all six cells and tick the Water drop within 8 turns. Then try in 7, then in 6. Doing it in 5 is very hard and needs luck.
 - **Printable cards: 24 food cards to cut out (each shows what it gives the body):** Rice: 2 energy; Chapati: 2 energy, 1 fibre; Ragi mudde: 2 energy, 1 calcium, 1 fibre; Poha with peanuts: 2 energy, 1 protein; Banana: 1 energy, 1 fibre; Moong dal: 2 protein, 1 iron, 1 fibre; Chana sundal: 2 protein, 1 iron, 1 fibre; Sprouts chaat: 1 protein, 1 vitamin C, 1 fibre; Boiled egg: 2 protein, 1 fat, 1 vitamin A; Fish curry: 2 protein, 1 fat; Paneer: 1 protein, 1 calcium, 1 fat; Glass of milk: 1 protein, 1 calcium; Bowl of curd: 1 protein, 1 calcium; Til laddoo: 1 energy, 1 calcium, 1 iron, 1 fat; Handful of peanuts: 1 protein, 1 fat, 1 energy; Keerai poriyal (spinach): 1 iron, 1 vitamin A, 1 fibre; Carrot sticks: 1 vitamin A, 1 fibre; Amla: 1 vitamin C; Guava: 1 vitamin C, 1 fibre; Mango: 1 energy, 1 vitamin A, 1 vitamin C; Spoon of ghee: 1 fat; Jalebi (festival treat): 2 energy; Packet of chips: 1 energy, 1 fat; Buttermilk: 1 protein, 1 calcium, 1 water
-- **Printable score sheet: My Body sheet: six cells, each with boxes to tick:** Muscle cell: needs 2 protein; Brain cell: needs 2 energy; Bone cell: needs 1 calcium; Blood-making cell: needs 1 iron and 1 vitamin C; Eye cell: needs 1 vitamin A and 1 fat; Gut-lining cell: needs 2 fibre (the microbes turn fibre into their food); Water drop: needs 1 water. Without it, the game ends with no cells fed.
+- **Printable score sheet: My Body sheet: six cells and a water drop, each with boxes to tick:** Muscle cell: needs 2 protein; Brain cell: needs 2 energy; Bone cell: needs 1 calcium; Blood-making cell: needs 1 iron and 1 vitamin C; Eye cell: needs 1 vitamin A and 1 fat; Gut-lining cell: needs 2 fibre (the microbes turn fibre into their food); Water drop: needs 1 water. Without it, the game ends with no cells fed.
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 24 food cards. 2. Give each player a My Body sheet and a pencil. 3. Shuffle the cards and lay 5 face up as the market.  
   *Parent says:* Your body is made of trillions of cells. Each one needs different things from food. In this game, you are the blood. You carry food to six hungry cells.  
@@ -298,12 +298,12 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Check: Which set of cards feeds the most different cells? → **Moong dal, ragi mudde, amla, boiled egg**
   - Think: In the game, extra energy was thrown away. In a real body, what happens to extra energy?
 ### g2 · What's Missing? (a thali puzzle game) (15 min)
-- **rules:** Shuffle the thali cards and put them face down.; One player turns over a card and reads the meal out loud.; Everyone secretly holds up the token for the colour that is most missing: yellow for go foods, red for grow foods or green for glow foods.; Everyone who picked the right colour scores 1 point.; Then each player says one real food from your kitchen that would fill the gap. A food that is really in the kitchen right now scores 1 extra point.; Some cards are already balanced. If you think nothing is missing, hold up all three tokens together. That scores 2 points if you are right.; Playing alone: read each card, put your token on it, then check the answer list. Try to beat your own score next time.
-- **Printable cards: 16 thali cards to cut out (each lists one meal):** Rice, potato curry, papad; Chapati, dal, a glass of water; Idli, coconut chutney; Poha, a cup of tea; Rice, fish curry, a glass of water; Aloo paratha, pickle; Bhakri, pitla, onion; Curd rice, a glass of water; Rajma, rice; Bread, jam, a glass of milk; Instant noodles; Egg bhurji, chapati; Upma, banana; Ven pongal, ghee; Puri, chole, lassi; Ragi dosa, sambar with drumstick and pumpkin, buttermilk
-- **Printable tokens: Three colour tokens per player: yellow (go), red (grow), green (glow):** 🟡; 🔴; 🟢
+- **rules:** Shuffle the 16 thali cards and put them in a pile, meal side up when turned. You will play 8 cards.; One player turns over the top card and reads the meal on the front out loud. The answer on the back stays hidden.; Everyone holds up, at the same time, the token for the colour they think is most missing: yellow for go foods, red for grow foods or green for glow foods.; Turn the card over. Everyone whose colour is named on the back scores 1 point.; Then each player says one real food from the kitchen that would fill the gap. A food that is really in the kitchen right now scores 1 extra point.; One card is already balanced. If you think nothing is missing, hold up all three tokens together. That scores 2 points if the back says the meal is balanced.; After 8 cards, the player with the most points wins. A tie is a shared win.; Playing alone: read each card, hold up a token, then turn the card over and score yourself. Try to beat your own score next time.
+- **Printable cards: 16 thali cards to cut out (the meal on the front, the answer on the back):** Rice, potato curry, papad (back: Missing: grow (red) and glow (green). Either colour scores. Add dal or curd, and a green poriyal or salad. Potato is mostly starch, like rice.); Chapati, dal, a glass of water (back: Missing: glow (green). Add a poriyal or a salad.); Idli, coconut chutney (back: Missing: grow (red) and glow (green). Either colour scores. Add sambar with vegetables.); Poha, a cup of tea (back: Missing: grow (red) and glow (green). Either colour scores. Add peanuts, peas or a fruit.); Rice, fish curry, a glass of water (back: Missing: glow (green). Add a vegetable dish.); Aloo paratha, pickle (back: Missing: grow (red) and glow (green). Either colour scores. Add curd and a salad.); Bhakri, pitla, onion (back: Only a little missing: glow (green). Pitla is made from besan, a pulse, so it gives protein. Add a green leaf.); Curd rice, a glass of water (back: Missing: glow (green). Add cucumber or a fruit.); Rajma, rice (back: Missing: glow (green). Add a vegetable or a salad.); Bread, jam, a glass of milk (back: Missing: glow (green). Add a fruit or a vegetable.); Instant noodles (back: Missing: grow (red) and glow (green). Either colour scores. Add an egg or peanuts, and vegetables.); Egg bhurji, chapati (back: Missing: glow (green). Add a salad or a vegetable.); Upma, banana (back: Missing: grow (red). Add peanuts or curd.); Ven pongal, ghee (back: Missing: glow (green). Cook vegetables into the pongal, or add a salad.); Puri, chole, lassi (back: Missing: glow (green). Add a salad or a vegetable.); Ragi dosa, sambar with drumstick and pumpkin, buttermilk (back: Balanced! Nothing is missing. Everyone who held up all three tokens scores 2 points.)
+- **Printable tokens: Three colour tokens per player: yellow (go), red (grow), green (glow):** Yellow token (go foods): cut one for each player; Red token (grow foods): cut one for each player; Green token (glow foods): cut one for each player
 - **Printable score sheet: A tally sheet with each player's name:** Player; Points
 - **s1 (2 min)**  
-  *Parent does:* 1. Cut out the cards. 2. Give each player three tokens. 3. Shuffle the cards face down.  
+  *Parent does:* 1. Cut out the cards and the tokens. 2. Give each player three tokens. 3. Shuffle the cards and put them in a pile.  
   *Parent says:* Every card is a real meal people eat. Our job is not to say a meal is bad. Our job is to spot which colour is missing, and find a food to fill the gap.  
   *Child mode:* Each card is a real meal. Find the colour that is missing. Then find a food to fill the gap.
 - **s2 (3 min)**  
@@ -312,10 +312,10 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Child mode:* Rice, potato curry, papad. Which colour is missing most? Hold up your token.
   - Check: Rice, potato curry and papad. Which kind of food is missing most? → **Grow foods (protein) and glow foods (vegetables)**
 - **s3 (8 min)**  
-  *Parent does:* 1. Take turns turning over a card. 2. Everyone holds up a token. 3. Score points. 4. Each player names a food from your kitchen to fill the gap.  
+  *Parent does:* 1. Take turns turning over a card and reading the meal. 2. Everyone holds up a token. 3. Turn the card over and score points. 4. Each player names a food from the kitchen to fill the gap.  
   *Parent says:* Hold up your token. Now tell me a food in our kitchen right now that would fill the gap.  
   *Child mode:* Turn over a card. Hold up the missing colour. Then name a food from your kitchen to add.
-  - Note: Here are the answers. Chapati and dal need green, so add poriyal or salad. Idli and chutney are low in grow and green, so add sambar with vegetables. Poha and tea need grow and green, so add peanuts, peas or a fruit. Rice and fish curry need green. Aloo paratha and pickle need grow and green, so add curd and salad. Bhakri, pitla and onion is fairly balanced, because pitla is made from besan, a pulse. Accept green or all three tokens. Add a green leaf if you can. Curd rice needs green, so add cucumber or a fruit. Rajma rice needs green. Bread, jam and milk need green. Instant noodles need grow and green, so add an egg or peanuts and vegetables. Egg bhurji and chapati need green. Upma and banana need grow, so add peanuts or curd. Ven pongal and ghee need green, so cook vegetables into the pongal. Puri, chole and lassi need green. Ragi dosa, sambar and buttermilk are already balanced, so that card wins all three tokens.
+  - Note: The answers are on the back of each card. Turn the card over only after everyone has held up a token. Most meals here miss green, so expect many green answers. Every card is a real meal that people eat, so do not call any of them bad.
 - **s4 (2 min)**  
   *Parent does:* Count the points and find the winner. Then ask the question below.  
   *Parent says:* Most meals were missing the same colour. Which one? Why do you think that is?  
@@ -324,11 +324,11 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Think: Is it easy for every family to add vegetables to every meal? What makes it hard?
 
 ## Experiments
-### e1 · The Paper Window Test: which foods carry fat? (25 min)
+### e1 · The Paper Window Test: which foods carry fat? (28 min)
 - **question:** Which of our everyday foods carry fat, and which carry a lot?
 - **predict:** Before you start, guess. Which foods will leave a see-through spot on the paper? Which will leave nothing? Write your guess next to each food, and say why you think so.
 - **fair test:** To make it fair, change only the food. Use the same paper, squares of the same size, a piece of food about the size of your thumbnail, and rub each one for the same time, 10 rubs. Oil and water are tested too, so you can see what a fat spot and a water spot look like.
-- **safety:** Only small pieces are used. Wash your hands afterwards. You can eat the leftover food, but not the pieces that were rubbed on paper.
+- **safety:** Skip the peanut if anyone in your family has a nut allergy. Wash your hands afterwards, and do not eat the pieces rubbed on paper.
 - **record:** Fill in the table. Then draw a bar for each food, as tall as its spot: 0 for none, 1 for small, 2 for medium, 3 for big.
 - **results table:** Food | My guess: fat or no fat? | Spot after 15 minutes: none, small, medium or big
 - **s1 (4 min)**  
@@ -342,10 +342,10 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Child mode:* Rub each food on its own square. Count ten rubs. Put oil and water on the last two squares.
   - Note: Use chapati made without ghee, or the test will find the ghee. Squash hard foods so that their insides touch the paper.
 - **s3 (15 min)**  
-  *Parent does:* 1. Leave the squares flat for 15 minutes so the water can dry. 2. Meanwhile, put 2 drops of oil into a tumbler of water and look from the top. 3. Read the card on why the body needs fat. 4. After 15 minutes, hold each square up to a window or a torch.  
+  *Parent does:* 1. Leave the squares flat for 15 minutes so the water can dry. 2. Meanwhile, put 2 drops of oil into a tumbler of water and look from the top. 3. Read the card 'Why the body needs fat'. 4. After 15 minutes, hold each square up to a window or a torch.  
   *Parent says:* Water dries away. Fat does not. After 15 minutes, any spot still see-through is fat. Let's look.  
   *Child mode:* Wait 15 minutes. Meanwhile, drop 2 drops of oil into a tumbler of water. Does it mix? Then hold each square up to the light.
-  - Note: Expect big spots from oil, peanut and coconut, and medium ones from paneer and chips. Plain chapati and apple usually leave nothing once dry. If a spot still looks wet, wait 10 minutes more, because water spots can take time to dry. If the paper is very thin, use two layers. The oil in the tumbler floats as round drops and does not mix, even if you stir. Apple can leave a faint sticky mark from its sugar, but a fat spot is much clearer.
+  - Note: Expect big spots from oil, peanut and coconut, and a medium spot from chips or namkeen. Paneer is mostly water, so its spot may be small or faint. Plain chapati and apple usually leave nothing once dry. If a spot still looks wet, wait 10 minutes more, because water spots can take time to dry. If the paper is very thin, use two layers. The oil in the tumbler floats as round drops and does not mix, even if you stir. Apple can leave a faint sticky mark from its sugar, but a fat spot is much clearer.
   - Check: The water spot dried and disappeared. The oil spot stayed see-through. What does a spot that stays tell you? → **The food carries fat**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why it matters.  
@@ -385,17 +385,16 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Parent says:* Vitamin C has another job. It helps your body take in the iron from dal, palak and bajra. So the old habit of squeezing lemon on dal also helps your body.  
   *Child mode:* Vitamin C helps your body take iron from dal. Squeeze lemon on your dal at dinner.
   - Think: Old recipes put lemon on dal and amla in chutney, long before anyone knew about vitamins. Why do you think these habits lasted?
-### e3 · Balloon Bellies: what do microbes like to eat? (50 min)
+### e3 · Balloon Bellies: what do microbes like to eat? (61 min)
 - **question:** Do tiny living things make more gas when they are fed sugar, flour or nothing at all?
 - **predict:** Before you start, guess. Which balloon will grow biggest: the sugar bottle, the atta bottle or the plain water bottle? Will any stay flat? Why do you think so?
 - **fair test:** To make it fair, change only the food. Every bottle gets the same yeast, 2 teaspoons, the same warm water, 150 millilitres, and sits in the same place for the same time. The plain water bottle has no food, so you can see what happens without any.
-- **safety:** A grown-up mixes the warm water so it is never hot. Don't drink the mixture. When you finish, take the balloons off outside or over a sink, because the gas smells of yeast.
 - **record:** Fill in the table. Then draw a bar for each bottle, as tall as its balloon was round after 45 minutes.
 - **results table:** Bottle | Balloon round after 15 minutes (cm) | After 30 minutes (cm) | After 45 minutes (cm)
 - **s1 (4 min)**  
-  *Parent does:* 1. Show your child the yeast. 2. Explain that each grain is a clump of tiny living fungi, resting until they get water, warmth and food. 3. Ask them to guess which food the yeast will like best.  
-  *Parent says:* Yeast is a living thing, a tiny fungus. Each grain holds thousands of them, resting. When they eat, they make a gas. Your gut microbes do the same thing with the fibre you cannot digest. Which food will these ones like best?  
-  *Child mode:* Yeast is alive. They are a tiny fungus, resting. When they eat, they make gas. Which food will it like best?
+  *Parent does:* 1. Show your child the yeast. 2. Explain that each grain holds a great many tiny living fungi, resting until they get water, warmth and food. 3. Ask them to guess which food the yeast will like best.  
+  *Parent says:* Yeast is a living thing, a tiny fungus. Each grain holds a great many of them, resting. When they eat, they make a gas. Your gut microbes do the same thing with the fibre you cannot digest. Which food will these ones like best?  
+  *Child mode:* Yeast is alive. Each grain holds a great many tiny fungi, resting. When they eat, they make gas. Which food will they like best?
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Label the bottles Sugar, Atta and Water. 2. Using a funnel, put 2 teaspoons of yeast in each. 3. Add 1 tablespoon of sugar to the first and 1 tablespoon of atta to the second. Add nothing to the third. 4. Pour 150 millilitres of warm water into each. 5. Swirl gently. 6. Stretch a balloon over each mouth.  
   *Parent says:* Same yeast, same warm water, same bottles. Only the food is different. That is what makes it a fair test.  
@@ -406,7 +405,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Parent says:* Let's measure each balloon with the string. Which one is growing fastest?  
   *Child mode:* Every 15 minutes, measure each balloon with a string. Write down the numbers.
   - Note: The sugar balloon usually starts to stand up within 15 to 20 minutes, and fills more by 45. The atta balloon grows slowly, because enzymes in the flour must first cut its starch into sugar for the yeast. The water balloon stays almost flat. If the balloons are still small at 45 minutes, keep going to 60 minutes. Sometimes nothing happens at all after 20 minutes. Then the water was too hot or too cold, or the yeast was old. Test the yeast: a spoonful in warm sugar water should froth within 10 minutes. In cold months, stand the bottles in a bowl of warm water.
-  - Check: The sugar balloon grew big. The water balloon stayed flat. What does that show? → **Yeast makes gas only when they have food to eat**
+  - Check: The sugar balloon grew big. The water balloon stayed flat. What does that show? → **Yeast cells make gas only when they have food to eat**
   - Wait: Check every 15 minutes, three times.
 - **s4 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why. Then talk about how the yeast is like, and unlike, gut microbes.  
@@ -416,7 +415,6 @@ When the first leaves came, small and round and green, I picked a handful. I was
 
 ## Activities
 ### a1 · Yesterday's Plate: a colour sort (15 min)
-- **safety:** None. This is a looking and thinking activity.
 - **record:** Your list of yesterday's food, with coloured dots beside each one, and one sentence about what you noticed.
 - **s1 (5 min)**  
   *Parent does:* 1. Ask your child to tell you everything they ate and drank yesterday, from waking up to bedtime. 2. Write it as a list, one food per line. 3. Include drinks, snacks and anything nibbled.  
@@ -480,9 +478,9 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Note: If your child threads the chain through one clip at a time, say that this is like cutting it: the real gut wall takes in only single pieces, one at a time, never a whole chain.
   - Check: Why won't the whole chain fit through the gut wall? → **It is too big. It must be cut into single pieces first.**
 - **s3 (5 min)**  
-  *Parent does:* 1. Your child is now the enzymes. They unhook the clips one at a time. 2. Push each single clip through the slot into the 'blood' side. 3. Try to unhook the ball of wool. It cannot be cut up.  
-  *Parent says:* You are the enzymes now, the tiny scissors in your spit and gut. Unhook each clip and send it through. Now try the fibre.  
-  *Child mode:* You are the enzymes. Unhook the clips one by one. Push each one through. Now try to cut the wool.
+  *Parent does:* 1. Your child is now the enzymes. They unhook the clips one at a time. 2. Push each single clip through the slot into the 'blood' side. 3. Now try to push the ball of wool through the slot. It will not go, and enzymes cannot cut it.  
+  *Parent says:* You are the enzymes now, the tiny scissors in your spit and gut. Unhook each clip and send it through. Now try the fibre. Can the wool get through?  
+  *Child mode:* You are the enzymes. Unhook the clips one by one. Push each one through. Now try to push the wool through. Can you cut it?
   - Note: The ball of wool is fibre. Our enzymes cannot cut it, so it cannot pass through the wall. It travels on to the large intestine, where the gut microbes eat it. Put it in the Gut microbes bowl.
 - **s4 (5 min)**  
   *Parent does:* 1. On the blood side, take the single clips to the cell bowls. 2. In the Muscle cell bowl, join the mixed clips into a new chain in a new order. 3. Put the same-colour clips in the Brain cell bowl, where they are burned for energy.  
@@ -495,7 +493,6 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Parent says:* Draw the four steps: the chain, the cutting, the slot and the cells.  
   *Child mode:* Draw four pictures: the chain, the cutting, the slot and the cells.
 ### a4 · How Many Spoons? Reading a packet label (20 min)
-- **safety:** None. Pour the sugar back into the jar afterwards, so it is not wasted.
 - **record:** A table with each packet, its grams of sugar, and its teaspoons, plus a photo or drawing of the saucers.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Find the Nutrition Information box on each packet. 2. Find the line 'Sugars' or 'Total sugars'. 3. Check whether the number is for 100 millilitres or for the whole pack.  
@@ -518,29 +515,27 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Child mode:* Which saucer surprised you? What would you drink on a hot day? What on a birthday?
   - Ask: What could we drink instead on an ordinary hot day? (good: Water.; Buttermilk.; Nimbu pani with less sugar.; Coconut water.)
   - Think: Why do you think sugary drinks have such bright packets and adverts?
-### a5 · Grandmother's Plate: an interview (20 min)
-- **safety:** None.
+### a5 · An Elder's Plate: an interview (20 min)
 - **record:** A drawing of the elder's childhood plate next to your own, with three differences written underneath.
 - **s1 (10 min)**  
   *Parent does:* Help your child ask these questions and write down the answers. What did you eat for breakfast when you were my age? What grains did you eat? Which vegetables and leaves? Where did your food come from? Did you have sweets, and when? Who cooked, and who ate first?  
-  *Parent says:* Let's be food historians. We'll ask Paati, Aaji or Nani what she ate when she was your age. Real scientists collect old knowledge like this.  
+  *Parent says:* Let's be food historians. We'll ask a grandparent, an older relative or an older neighbour what they ate when they were your age. Real scientists collect old knowledge like this.  
   *Child mode:* Ask your grandparent what they ate when they were your age. Write down their answers.
   - Note: Many elders will mention millets like ragi, bajra or jowar, wild or seasonal leaves, and fewer packet foods. Some will mention hunger or hard times. Listen with respect. The question 'who ate first?' often shows that women and girls ate last and least. That is worth talking about gently.
 - **s2 (6 min)**  
   *Parent does:* Draw two plates side by side: the elder's childhood plate and your plate from yesterday.  
   *Parent says:* Let's draw both plates. What is the same? What is different?  
   *Child mode:* Draw their plate and your plate side by side. What is the same? What is different?
-  - Ask: Why do you think people stopped eating millets so much? (good: Rice and wheat became cheaper.; Shops sell more rice and wheat.; People moved to cities.)
+  - Ask: What is the biggest difference between the two plates? (good: Theirs had millets, and mine has rice.; Theirs had fewer packet foods.; Theirs had more leaves.)
 - **s3 (4 min)**  
   *Parent does:* Talk about what you have both learned. Ask your elder which of their old foods they miss.  
   *Parent says:* Which of their old foods would you like to try? Could we cook one this week?  
   *Child mode:* Which old food would you like to try? Ask if you can cook it together.
-  - Think: India asked the United Nations to name 2023 the International Year of Millets. Why might old grains be important for the future?
+  - Think: Is there a food from their childhood that is hard to find today? Why do you think that is?
 ### a6 · Hungry or Full? Listening to your body (10 min)
-- **safety:** None. There is no right or wrong number.
 - **record:** Your two numbers, before and after the meal, and one sentence on what you noticed.
 - **s1 (3 min)**  
-  *Parent does:* Before a meal, show your child the five-face scale. Ask them to point to how hungry they feel right now.  
+  *Parent does:* First draw five faces in a row on a paper, from a very hungry face (1) to a very full face (5). Before a meal, show your child the scale and ask them to point to how hungry they feel right now.  
   *Parent says:* Your body tells you when it needs food, and when it has had enough. Point to how hungry you feel now. 1 is very hungry, 5 is very full.  
   *Child mode:* Before you eat, point to how hungry you feel. 1 is very hungry. 5 is very full.
 - **s2 (4 min)**  
@@ -557,13 +552,13 @@ When the first leaves came, small and round and green, I picked a handful. I was
 
 ## Projects
 ### p1 · The 30-Plant Week: feed your gut microbes (50 min, 7 days)
-- **safety:** None. Eat only foods your family normally eats. This is counting, not a challenge to eat strange things.
 - **record:** The week's plant list, the total, and a pictograph where one leaf stands for 2 new plants.
-- **schedule:** day 1: Write down every different plant you ate today. Grains, dals, vegetables, fruits, nuts, seeds and spices all count. (5 min); day 2: Add today's new plants. A plant counts only once in the week. (5 min); day 3: Add today's new plants. (5 min); day 4: Add today's new plants. Ask the cook which spices went into the dal. (5 min); day 5: Add today's new plants. (5 min); day 6: Add today's new plants. Try one plant you have not eaten this week, if your family has one. (5 min); day 7: Add today's plants, count the week's total, and draw a pictograph of the new plants each day. (20 min)
+- **schedule:** day 1: Write down every different plant you ate today. Grains, dals, vegetables, fruits, nuts, seeds and spices all count. (5 min); day 2: Add today's new plants. A plant counts only once in the week. (5 min); day 3: Add today's new plants. (5 min); day 4: Add today's new plants. Ask whoever cooked which spices went into the dal. (5 min); day 5: Add today's new plants. (5 min); day 6: Add today's new plants. Try one plant you have not eaten this week, if your family has one. (5 min); day 7: Add today's plants, count the week's total, and draw a pictograph of the new plants each day. (20 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Draw a table with 7 rows, one for each day. 2. After dinner on day 1, list every different plant your child ate. 3. Remember the hidden ones: rice, wheat, the dal, onion, tomato, ginger, jeera, haldi and coriander.  
   *Parent says:* Your gut microbes come in hundreds of kinds. Different kinds like different plants. Let's count how many plant kinds you eat this week.  
   *Child mode:* Every kind of plant feeds different gut microbes. Write every plant you ate today. Spices count too.
+  - Note: Count only foods your family normally eats. This is counting, not a challenge to eat strange things.
 - **s2 (25 min)**  
   *Parent does:* Each day for days 2 to 6, add only the plants not already on the list. Write the number of new plants for each day.  
   *Parent says:* A plant counts only once in the week. Is there anything new on your plate today?  
@@ -583,7 +578,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - **your turn:** Draw your five tiffins, one for each school day, and colour each part yellow, red or green. Make at least one with your own hands this week. Check how it looked at lunchtime.
 - **constraints:** No fridge between morning and lunch, and Indian summer heat.; Your family's usual budget, with no special shopping.; Made in 15 minutes, with you helping.; Something you will happily eat. No point in a tiffin that comes home full.
 - **general:** Idli or dosa with a dry chutney powder and a fruit.; Chapati rolled with paneer or egg bhurji and vegetables.; Poha or upma with peanuts and peas, and a banana.; Vegetable pulao with a small box of roasted chana.
-- **creative:** Sprouted moong chaat with tomato and lemon, which stays fresh and has all three colours.; Ragi or bajra roti with a dry poriyal, using the old grains your grandparents ate.; Last night's dal kneaded into the dough as dal paratha, so leftovers turn into tomorrow's tiffin.
+- **creative:** Sprouted moong chaat with tomato and lemon, which stays fresh and has all three colours.; Ragi or bajra roti with a dry poriyal, using old grains that many families used to eat.; Last night's dal kneaded into the dough as dal paratha, so leftovers turn into tomorrow's tiffin.
 - **s1 (8 min)**  
   *Parent does:* 1. Look in the kitchen with your child. 2. List the go, grow and glow foods your family usually has.  
   *Parent says:* Let's be tiffin engineers. What do we usually have at home that could go into a tiffin?  
@@ -642,8 +637,8 @@ When the first leaves came, small and round and green, I picked a handful. I was
 8. (mcq) Remember the Paper Window Test. Which food left a see-through spot that stayed?  
    Options: Peanut / Apple / Water  
    **Answer:** Peanut. *Why:* Peanuts carry fat, which leaves a see-through spot that does not dry. Apple has almost no fat, and water dries away. If you picked water, you may have looked at the paper before the water had time to dry.
-9. (write) Before the Paper Window Test, make a guess. Will a piece of fresh coconut leave a see-through spot? Why do you think so? How would the test show whether you were right?  
-   **Answer:** I think yes, because coconut is oily and we make coconut oil from it. If the spot is still see-through after 15 minutes, that shows fat. If it dries away, my guess was wrong. Fresh coconut is about one third fat, so it does leave a spot.. *Why:* A strong answer gives a guess with a reason, then says what result would prove it right or wrong.
+9. (write) In the Paper Window Test, two friends rub plain chapati on paper. One friend's chapati leaves a see-through spot that stays. The other friend's leaves none. What could explain the difference?  
+   **Answer:** The first chapati may have had ghee or oil on it. Fat leaves a see-through spot that stays, so the spot shows fat. The second chapati was plain.. *Why:* A strong answer says the first chapati carried some fat, such as ghee, and connects a spot that stays with fat.
 10. (match) Match each nutrient to one of its jobs.  
    **Answer:** Protein → builds muscles, hair and skin; Calcium → makes bones and teeth hard; Iron → helps the blood carry oxygen; Vitamin C → helps mend cuts and take in iron. *Why:* Each nutrient has its own jobs. Protein builds the body. Calcium hardens bones. Iron carries oxygen in the blood. Vitamin C helps mend skin and take in iron from plant foods.
 11. (order) Put the journey of a spoon of dal in order.  
@@ -663,16 +658,16 @@ When the first leaves came, small and round and green, I picked a handful. I was
 2. (mcq) Why is a little oil or ghee useful when cooking carrots or keerai?  
    Options: It helps the body take in vitamin A / It makes them grow / It removes their fibre  
    **Answer:** It helps the body take in vitamin A. *Why:* Carrots and keerai have beta-carotene, which your body turns into vitamin A. It dissolves in fat. A little fat in the cooking helps the gut take more of it into the blood.
-3. (mcq) Remember the Vanishing Blue test. Amla cleared the blue in 3 drops, and mosambi took 24. About how many times as much vitamin C is in a drop of amla as in a drop of mosambi?  
-   Options: About 8 times as much / About 3 times as much / About 24 times as much / Less, because amla needed fewer drops  
-   **Answer:** About 8 times as much. *Why:* Mosambi needed 24 drops to do the job that 3 drops of amla did. 24 divided by 3 is 8, so each drop of amla holds about eight times as much vitamin C. Picking 'less' reads the test backwards: fewer drops means more vitamin C in each drop.
-4. (write) Guess before you test. In the Vanishing Blue test, will a packet fruit drink need more drops than fresh amla juice, or fewer? Why do you think so? What should you read on the packet first?  
-   **Answer:** I think the packet drink will need many more drops, because it is mostly water and sugar, with little real fruit. Vitamin C also breaks down over time. But I should read the label first, because some drinks have vitamin C added.. *Why:* A strong answer gives a guess and a reason, and knows that the label can change the guess.
+3. (mcq) In the Vanishing Blue test, amla also contains other substances, called tannins, that clear the blue. What does this mean for the results?  
+   Options: The drop counts are a good guide to vitamin C, but not an exact measure / The test measures only vitamin C, exactly / The test cannot tell juices apart  
+   **Answer:** The drop counts are a good guide to vitamin C, but not an exact measure. *Why:* The test clears the blue with vitamin C and with some similar substances. So fewer drops usually points to more vitamin C, but it is a guide, not an exact measure.
+4. (write) In the Vanishing Blue test, a packet fruit drink is still blue after 40 drops. Does that prove it has no vitamin C? What would you check first?  
+   **Answer:** No. It may have only a little, too little to show in 40 drops. I would read the packet first, because some drinks have vitamin C added. The test is only a rough guide.. *Why:* A strong answer does not claim proof, and knows the label and the limit of 40 drops matter.
 5. (truefalse) Squeezing lemon on dal helps your body take in the iron from the dal.  
    **Answer:** True. *Why:* True. Vitamin C in lemon helps the gut take in iron from plant foods like dal and keerai. Iron then helps the blood carry oxygen.
-6. (mcq) Remember Balloon Bellies. The sugar balloon grew big and the plain water balloon stayed flat. Why was the plain water bottle in the test?  
-   Options: To show what happens with no food, so we can compare / To keep the yeast cool / Because water makes gas  
-   **Answer:** To show what happens with no food, so we can compare. *Why:* The plain water bottle had the same yeast and warm water, but no food. It stayed flat. That shows the gas came from the yeast eating, not from the warmth or the water.
+6. (mcq) In Balloon Bellies, the atta balloon grew more slowly than the sugar balloon. Why?  
+   Options: Enzymes in the flour must first cut its starch into sugar for the yeast / Atta is poison for yeast / Atta has no energy in it  
+   **Answer:** Enzymes in the flour must first cut its starch into sugar for the yeast. *Why:* Yeast eats sugar. Atta is mostly starch, which has to be cut into sugar first, so the yeast starts later. Atta does have energy, and the yeast does eat atta in the end.
 7. (truefalse) Most of the mass of the food your body burns for energy leaves through your breath, as carbon dioxide.  
    **Answer:** True. *Why:* True. Your cells burn glucose and fat with oxygen. The carbon from the food leaves as carbon dioxide when you breathe out. Many people guess it leaves in poo or sweat, but scientists showed in 2014 that most leaves through the lungs.
 8. (truefalse) Gut microbes are only harmful germs.  
@@ -705,7 +700,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
    Options: It is broken into small pieces, and cells burn it for energy or use it to build their thin skins / It sticks to the belly as it is / All of it leaves the body unused  
    **Answer:** It is broken into small pieces, and cells burn it for energy or use it to build their thin skins. *Why:* Fat is digested like other food. Its pieces go into the blood. Cells burn some for energy and use some to build the thin skin around every cell. The body stores fat only when it gets more energy than it uses, from any food.
 5. (mcq) A scientist wants to test whether a food helps children's teeth. Which test is fair?  
-   Options: Two groups of children, the same in every way except that one group eats the food, checked for months / Ask children if they like the food / Give the food to one child and look at her teeth the next day  
+   Options: Two groups of children, the same in every way except that one group eats the food, checked for months / Ask children if they like the food / Give the food to one child and look at that child's teeth the next day  
    **Answer:** Two groups of children, the same in every way except that one group eats the food, checked for months. *Why:* A fair test changes only one thing, and uses enough people and enough time. Two matching groups, followed for months, can show a real difference. One child for one day can show almost nothing. Liking a food tells you nothing about teeth.
 6. (truefalse) Scientists have proved that eating curd every day makes you live longer.  
    **Answer:** False. *Why:* False. Ilya Mechnikov suggested this in 1907, but it has not been proved. Curd is a good food, but most of its microbes only pass through the gut, and a long life has many causes.
@@ -717,8 +712,8 @@ When the first leaves came, small and round and green, I picked a handful. I was
 9. (write) Why might a family not be able to eat a balanced diet, even if they know what one is? Give two reasons.  
    **Answer:** For example: vegetables, dals and milk can cost more than rice. There may be no market nearby. Parents may work long hours with no time to cook. In some homes, women and girls eat last and get less.. *Why:* Eating well depends on money, time, distance and fairness, not only on knowing. This is why India gives free cooked lunches in government schools.
 10. (mcq) Most of the mass of the food your body burns leaves as carbon dioxide in your breath. Where can that carbon go next?  
-   Options: Into a plant, who uses the carbon to make food / Nowhere. It disappears / Back into the same chapati  
-   **Answer:** Into a plant, who uses the carbon to make food. *Why:* Plants take in carbon dioxide from the air and use sunlight to build sugar and starch. So the carbon you breathe out can become part of a plant, and maybe someone's food. Matter is never lost, only moved.
+   Options: Into a plant, which uses the carbon to make food / Nowhere. It disappears / Back into the same chapati  
+   **Answer:** Into a plant, which uses the carbon to make food. *Why:* Plants take in carbon dioxide from the air and use sunlight to build sugar and starch. So the carbon you breathe out can become part of a plant, and maybe someone's food. Matter is never lost, only moved.
 11. (fill) The energy in your food was first caught from the ____ by plants.  
    **Answer:** ['Sun', 'sun', 'sunlight']. *Why:* Plants use sunlight to build sugar and starch. Rice, dal and even milk and eggs carry energy that a plant first caught from the Sun.
 12. (truefalse) A growing child needs some protein most days, because the body cannot store much of it.  
@@ -815,7 +810,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - Can you feel the warmth of your breath? Which meal is that from?
 - What do you think your gut microbes are eating right now?
 - If you could add one thing to this meal to balance it, what would it be?
-- Which food did your grandparents eat that we don't eat any more?
+- Which food did people eat long ago that we eat much less now?
 - Is anything on this plate made from a seed? A leaf? A root?
 - How hungry are you, from 1 to 5?
 - Who grew this food, and who cooked it?
@@ -824,26 +819,15 @@ When the first leaves came, small and round and green, I picked a handful. I was
 
 ## Jokes
 - Why did the chapati go to school? *To get a little more well-rounded.*
-- What did the dal say to the rice? *We make a great pair, we complete each other!*
-- Why did the carrot win a prize? *It was outstanding in its field.*
-- Why was the gut microbe never lonely? *It lived with trillions of roommates.*
-- Why did the chapati taste sweet after thirty chews? *Your spit had been busy cutting its starch into sugar.*
 - Why did the banana go to the doctor? *It wasn't peeling well.*
-- What is a mitochondrion's favourite game? *Burning rubber. No, burning glucose!*
-- Why did the amla sit alone at the party? *It was too sour to mix, but everyone needed its vitamin C.*
-- Why did the paneer cube blush? *It saw the salad dressing.*
-- What did the stomach say to the vada? *I'll break you down, but nicely.*
-- Why did the glass of water join the thali? *Because every plate needs a little support.*
 - Why do skeletons never eat too much? *They don't have the stomach for it.*
-- What did the gut microbe say to the fibre? *You are too tough for the human, but you are my favourite meal.*
-- Why did the iron go to the lemon party? *It wanted to be absorbed into the group.*
 - Why was the egg so good at football? *It knew how to scramble.*
-- Why did the balloon on the sugar bottle look so pleased? *It was full of itself.*
-- Why was the cell so famous? *They were a real cell-ebrity.*
+- Why were the cells so famous? *They were real cell-ebrities.*
 - Why did the ragi mudde roll out of the kitchen? *It was having a ball.*
-- What did the tooth say to the jalebi? *Please visit, but don't stay long.*
+- Why did the glass of water join the thali? *Because every plate needs a little support.*
+- Why did the balloon on the sugar bottle look so pleased? *It was full of itself.*
 - Why did the idli feel so light? *Its batter had microbes making bubbles all night.*
-- What did one red blood cell say to the other? *Let's go round together, it's in our blood.*
+- What did the tooth say to the jalebi? *Please visit, but don't stay long.*
 
 ## Connected maths
 - A juice box says 'Sugars: 12 grams per 100 millilitres'. The box holds 200 millilitres. A level teaspoon of sugar weighs about 4 grams. How many teaspoons of sugar are in the whole box? **6 teaspoons.**. The box is 200 millilitres, which is 2 lots of 100. So the sugar is 12 + 12 = 24 grams. Each teaspoon is 4 grams. 24 divided by 4 is 6. So there are 6 teaspoons of sugar in the box. (queues `math.division.sharing-and-grouping.L3`)
@@ -870,8 +854,8 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - [Instant dry yeast](https://www.amazon.in/s?k=instant+dry+yeast) (material): For Balloon Bellies. Leftover yeast can make bread or pizza dough. Used in e3. 
 - [Balloons](https://www.amazon.in/s?k=balloons) (material): For Balloon Bellies. Used in e3. 
 - [Coloured paper clips](https://www.amazon.in/s?k=coloured+paper+clips) (material): For the Paper-Clip Journey model of digestion. Used in a3. 
-- [What Happens to a Hamburger? by Paul Showers (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=What+Happens+to+a+Hamburger+Paul+Showers) (book): A clear picture book on digestion for ages 5 to 9. Used in a3. Read it after the Paper-Clip Journey, and ask your child to point to where each clip would be in the book's pictures.
-- [Good Enough to Eat: A Kid's Guide to Food and Nutrition by Lizzy Rockwell](https://www.amazon.in/s?k=Good+Enough+to+Eat+Lizzy+Rockwell) (book): A friendly picture book on nutrients and a balanced diet. Used in a2, g1. Read one section a day during the unit, then find the same nutrients in your own thali.
+- [What Happens to a Hamburger? by Paul Showers (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=What+Happens+to+a+Hamburger+Paul+Showers) (book): A clear picture book on digestion for ages 5 to 9. Used in a3. 
+- [Good Enough to Eat: A Kid's Guide to Food and Nutrition by Lizzy Rockwell](https://www.amazon.in/s?k=Good+Enough+to+Eat+Lizzy+Rockwell) (book): A friendly picture book on nutrients and a balanced diet. Used in a2. 
 
 ## Warm-up
 - Name one go food, one grow food and one glow food. → For example: rice (go), dal (grow), palak (glow).

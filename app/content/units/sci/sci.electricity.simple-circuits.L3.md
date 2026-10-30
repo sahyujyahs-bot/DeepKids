@@ -105,7 +105,7 @@ In 1791, an Italian doctor called Luigi Galvani said that living bodies use elec
 - A cell does not make electric charge. It uses the energy of a chemical reaction to push charge round a circuit. *How we know:* Volta's pile, built in 1799, and every cell since then work this way. When the chemicals are used up, the cell stops pushing.
 
 ## How we found out
-**Luigi Galvani, a doctor in Bologna, and Alessandro Volta, a physicist in Pavia, 1791 (Galvani's book on animal electricity) and 1799 to 1800 (Volta's pile).** In the 1780s, Luigi Galvani, a doctor in Bologna in Italy, was studying how frog legs move. His wife, Lucia Galeazzi, also worked in his laboratory. Galvani found that a dead frog's leg twitched when he touched it with two different metals, such as a brass hook and an iron rail. In 1791 he wrote that the frog had their own 'animal electricity' in their body, and the metals let it flow. Alessandro Volta, a physicist in Pavia, repeated the experiments. He thought the electricity came from the two metals, and the frog only showed it. To prove it, he left the frog out. He piled up discs of zinc and copper, with card soaked in salty water between them. The pile gave a steady flow of electricity, and he could feel it as a tingle. In 1800 he described it in a letter to the Royal Society in London. It was the first battery. So Galvani's idea that the metals' electricity came from the frog was wrong. But he was right that living bodies use electricity. Our nerves really do send electrical signals.  
+**Luigi Galvani, a doctor in Bologna, and Alessandro Volta, a physicist in Pavia, 1791 (Galvani's book on animal electricity) and 1799 to 1800 (Volta's pile).** In the 1780s, Luigi Galvani, a doctor in Bologna in Italy, was studying how frog legs move. His wife, Lucia Galeazzi, also worked in his laboratory. Galvani found that a dead frog's leg twitched when he touched the leg with two different metals, such as a brass hook and an iron rail. In 1791 he wrote that the frog's body held 'animal electricity', and the metals only let that electricity flow. Alessandro Volta, a physicist in Pavia, repeated the experiments. He thought the electricity came from the two metals, and the frog only showed that electricity was there. To prove it, he left the frog out. He piled up discs of zinc and copper, with card soaked in salty water between them. The pile gave a steady flow of electricity, and he could feel it as a tingle. In 1800 he described it in a letter to the Royal Society in London. It was the first battery. So Galvani's idea that the metals' electricity came from the frog was wrong. But he was right that living bodies use electricity. Our nerves really do send electrical signals.  
 *What people believed before:* Galvani thought the electricity that made the frog legs twitch was stored in the frog's body. Volta showed that two different metals with something salty and wet between them make electricity on their own, with no frog. Galvani was still right that nerves use electricity.
 
 ## Challenging perspectives
@@ -119,7 +119,7 @@ In 1791, an Italian doctor called Luigi Galvani said that living bodies use elec
   For: Paper clips are made of steel, and steel is a conductor.  
   Against: A paper clip with a plastic coat does not light the bulb, because the plastic is an insulator. Scrape a little plastic off each end, and it conducts.
 - **A small cell cannot hurt anyone, so any cell is safe for children.** (A common belief; *rejected*)  
-  For: You cannot feel any shock from an AA cell, even when you touch both ends.  
+  For: You do not notice any shock from an AA cell, even when you touch both ends.  
   Against: An AA cell is safe to touch, but a swallowed button cell can badly burn a child's food pipe in as little as two hours. A shorted cell can make a wire hot. Cells that are opened or burnt can leak harmful chemicals or burst.
 - **The electricity in a frog's legs came from the frog's own body.** (Luigi Galvani, in Bologna, in 1791; *accepted*)  
   For: The legs twitched when touched with metal, and Galvani later made them twitch with no metal at all, using the frog's own nerve.  
@@ -145,14 +145,13 @@ In a wire with no cell, the electrons drift about in every direction. Their move
 - Science (open): How the brain's electrical signals become thoughts and feelings is not known.
 - Other view, Many physicists and engineers: A circuit is electrons pushed round by a chemical reaction, and nothing more. Comparing it with a wheel's empty hub or with hidden salt is a nice picture. But it tells us nothing new about the wire.
 - Practice, The family circuit (3 min): Let's stand in a circle and hold hands. Close your eyes. I will squeeze the hand on my right. When you feel a squeeze, pass it on to the next person. Let's see it come back to me. Now one person lets go. I squeeze again. Does it come back? Hold hands again and breathe slowly three times.
-- Ask: The electrons in your circuit were already in the wire. So what did joining the cell really change?
+- Ask: How did a gap in your circuit show you that electricity goes round the loop, and not just along it?
 - Ask: A switch works because of a gap. Can an empty space do a job?
 - Ask: Your thoughts travel as electrical signals. Is a thought something that moves, or something more?
 
 ## Deep and big questions
 - *deep:* The electrons were already in the wire before you joined it to the cell. So what did the cell actually give the bulb? (hint: Think about what runs out when a cell goes flat, and what goes round and comes back.)
 - *deep:* Why does a copper wire let electricity through, while the plastic around it does not? (hint: Think about whether the electrons in each material are free to move, or held tight by their atoms.)
-- *big:* Your nerves carry electrical signals. Is a thought a kind of electricity, or something more? (hint: Scientists can measure the signals in a brain. Can they measure what it feels like to have a thought?)
 - *big:* Nerve cells do not quite touch. A signal must cross a tiny gap between one nerve cell and the next. Is that gap a kind of switch? (hint: A switch decides when electricity can cross. Think about when a signal in your body crosses the gap, and when it stops.)
 - *deep:* Electricity from a power station travels hundreds of kilometres along wires to your fan. Does it come back to the power station? (hint: Every plug has at least two pins. Why do you think it needs more than one?)
 - *big:* Imagine a world with no electricity at all, not even in living things. Could anything in it be alive? (hint: Your heart beats because of electrical signals. A touch-me-not folds their leaves because of one too.)
@@ -226,35 +225,35 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 
 ## Games
 ### g1 · Close the Loop: a circuit card game (20 min)
-- **rules:** Shuffle the circuit cards and deal 5 to each player. Put the rest face down.; Your circuit must start at the + end of a CELL card, go through a BULB card, and come back to the − end of the same cell. The loop needs at least 3 cards besides the cell and the bulb.; On your turn, take one card. Then play one card on your circuit, or play a GAP! card on someone else's.; WIRE and CONDUCTOR cards join your loop. An INSULATOR card cannot be used as a wire. If you have to play one, put it aside.; A GAP! card breaks a circuit. That player must play a FIX IT card, or take the broken card out and replace it.; When your loop is complete, read the front of a question card and answer it. Turn the card over to check. Right? Your bulb lights: score 1 bulb and start a new circuit. Wrong? Try again on your next turn.; A SWITCH card in your loop protects it: a GAP! card played on you only opens the switch, and you can close it again on your next turn.; The first player to light 2 bulbs wins. Playing alone, try to light 2 bulbs in 15 turns.
-- **Printable cards: 40 circuit cards to cut out:** 4 CELL cards: 1.5 V AA cell, with + and − ends; 4 BULB cards: torch bulb; 14 WIRE cards: copper wire in plastic; 4 CONDUCTOR cards: a steel spoon, a coin, aluminium foil, a steel key. Each works like a wire.; 4 INSULATOR cards: a wooden stick, a plastic ruler, a rubber band, a glass bangle. Each makes a gap.; 4 GAP! cards: play on another player's circuit to break it; 3 FIX IT cards: mend a gap in your own circuit; 3 SWITCH cards: close it to light your bulb
-- **Printable cards: 12 question cards (the answer is on the back):** Name a conductor in this room. (back: Any metal thing, such as a spoon or a key); Name an insulator in this room. (back: Plastic, wood, rubber, glass, paper or cloth); Why are wires covered in plastic? (back: Plastic is an insulator. It keeps the electricity in.); How many volts is a wall socket in India? (back: 230 volts); How many volts is an AA cell? (back: 1.5 volts); Who is allowed to plug things in? (back: Only grown-ups); Why never touch a switch with wet hands? (back: Water lets electricity through your skin); What does a switch do? (back: Opens and closes a gap in the circuit); What tiny particles move in a wire? (back: Electrons); Who made the first battery? (back: Alessandro Volta); Do the electrons get used up in the bulb? (back: No, they go round and come back); A gap is after the bulb. Does the bulb light? (back: No)
+- **rules:** Take out the 4 CELL cards. Give each player 1 CELL and put it in front of them. Put any spare CELL cards away. Shuffle the other 36 circuit cards, deal 5 to each player, and put the rest face down as the draw pile. Put the question cards in a second pile.; Your aim is a loop that starts at your CELL, goes through a BULB card and at least 3 WIRE, CONDUCTOR or SWITCH cards, and comes back to your CELL. Lay your cards in a ring round your CELL.; On your turn, draw one card. Then do one thing: play a BULB, WIRE, CONDUCTOR or SWITCH card on your own loop, or play a GAP! or INSULATOR card on another player's loop, or play a FIX IT card. If you cannot or do not want to play, put one card from your hand on the discard pile.; A GAP! or INSULATOR card on your loop breaks it. Your loop cannot light until the gap is mended. To mend it, play a FIX IT card (then you may also play one more card), or spend your whole turn taking the card out.; A SWITCH card in your loop protects it. When a GAP! or INSULATOR lands on you, turn the SWITCH face down instead. At the start of your next turn, turn it face up again for free.; When your loop is complete, trace it with a finger from + round to −. Then another player reads you a question card, or you read it yourself if you are alone. Right? Your bulb lights: score 1 bulb, put all the cards in your loop except the CELL on the discard pile, and start a new loop. Wrong? Put the question card at the bottom of its pile. Your loop stays, and you try again next turn.; When the draw pile is empty, shuffle the discard pile and use it as the new draw pile. When the question cards run out, shuffle them again.; The first player to light 2 bulbs wins. Playing alone, take out the 4 GAP! and 4 INSULATOR cards and try to light 2 bulbs in 15 turns.
+- **Printable cards: 40 circuit cards to cut out:** CELL: a 1.5 V AA cell, with + at the bump and − at the flat end; CELL: a 1.5 V AA cell, with + at the bump and − at the flat end; CELL: a 1.5 V AA cell, with + at the bump and − at the flat end; CELL: a 1.5 V AA cell, with + at the bump and − at the flat end; BULB: a torch bulb; BULB: a torch bulb; BULB: a torch bulb; BULB: a torch bulb; WIRE: copper wire in plastic; WIRE: copper wire in plastic; WIRE: copper wire in plastic; WIRE: copper wire in plastic; WIRE: copper wire in plastic; WIRE: copper wire in plastic; WIRE: copper wire in plastic; WIRE: copper wire in plastic; WIRE: copper wire in plastic; WIRE: copper wire in plastic; WIRE: copper wire in plastic; WIRE: copper wire in plastic; WIRE: copper wire in plastic; WIRE: copper wire in plastic; CONDUCTOR: a steel spoon. Works like a wire.; CONDUCTOR: a coin. Works like a wire.; CONDUCTOR: aluminium foil. Works like a wire.; CONDUCTOR: a steel key. Works like a wire.; INSULATOR: a wooden stick. Play it on another player's loop to make a gap.; INSULATOR: a plastic ruler. Play it on another player's loop to make a gap.; INSULATOR: a rubber band. Play it on another player's loop to make a gap.; INSULATOR: a glass bangle. Play it on another player's loop to make a gap.; GAP!: play on another player's loop to break it; GAP!: play on another player's loop to break it; GAP!: play on another player's loop to break it; GAP!: play on another player's loop to break it; FIX IT: take a GAP! or INSULATOR card out of your loop, then play one more card; FIX IT: take a GAP! or INSULATOR card out of your loop, then play one more card; FIX IT: take a GAP! or INSULATOR card out of your loop, then play one more card; SWITCH: part of your loop. If a GAP! or INSULATOR lands on you, turn the switch face down instead of losing a card; SWITCH: part of your loop. If a GAP! or INSULATOR lands on you, turn the switch face down instead of losing a card; SWITCH: part of your loop. If a GAP! or INSULATOR lands on you, turn the switch face down instead of losing a card
+- **Printable cards: 12 question cards (the answer is on the back):** A bulb stands on top of a cell with no wire. Why does it stay dark? (back: The bulb's metal side has no path back to the bottom of the cell. The loop is not complete.); You lift one wire off a bulb that is lit. Does the bulb slowly dim, or go out at once? (back: It goes out at once. A gap anywhere stops the flow everywhere.); A paper clip is covered in coloured plastic. Will it light the bulb in a tester? Why? (back: Not until you scrape the plastic off the ends. Plastic is an insulator.); Two AA cells in a row, facing the same way. How many volts do they push with? (back: 3 volts, twice as much as one cell); In a torch, one cell is turned the wrong way round. What happens? (back: The two cells push against each other, their pushes cancel, and the bulb stays dark.); Why is a wire from one end of a cell straight to the other end a bad idea? (back: It is a short circuit. The wire gets hot and the cell runs down fast.); A cell leaked and left a white crust on the torch spring. Why does the torch fail? (back: The crust is a poor conductor, so it makes a gap in the loop.); Can a pencil lead complete a circuit? (back: Yes, but only weakly. Graphite conducts a little, so the bulb glows very dimly.); Which would complete a circuit, a steel spoon or a wooden spoon? Why? (back: The steel spoon. Steel is a metal and a conductor. Wood is an insulator and leaves a gap.); Name something at home that has a press switch. (back: A doorbell, or the light in a fridge. It is on only while the button is pressed or the door is open.); What is the difference between a cell and a battery? (back: A battery is two or more cells joined together. People often call a single cell a battery too.); What does an MCB in the switch box do? (back: It opens the circuit by itself if too much electricity flows.)
 - **Printable score sheet: Score sheet:** Player name; Bulbs lit; Questions right
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the cards. 2. Deal 5 cards each. 3. Each player puts a CELL card in front of them, if they have one.  
+  *Parent does:* 1. Cut out the cards. 2. Give each player a CELL card and deal 5 cards each. 3. Put a CELL card in front of each player.  
   *Parent says:* Each of us is going to build a circuit, card by card. It must go from the cell, through a bulb, and all the way back.  
-  *Child mode:* Take 5 cards. Put a cell in front of you. Build a loop to a bulb and back!
+  *Child mode:* Take 5 cards. Your cell is in front of you. Build a loop to a bulb and back!
 - **s2 (3 min)**  
   *Parent does:* Play one practice turn together.  
   *Parent says:* Practice turn. I have a wooden stick card. Can I use it as part of my loop?  
-  *Child mode:* Practice turn. Can a wooden stick card join your loop? Tap your answer.
-  - Check: Can a wooden stick card join your loop like a wire? → **No, wood is an insulator, so it makes a gap**
+  *Child mode:* Practice turn. Can a wooden stick card join your loop? Say your answer.
+  - Check: Can a wooden stick card be part of your own loop, like a wire? → **No, wood is an insulator, so it makes a gap**
 - **s3 (12 min)**  
-  *Parent does:* 1. Take turns: take a card, play a card. 2. When a loop is complete, read a question card. 3. Keep score on the sheet.  
+  *Parent does:* 1. Take turns: draw a card, play a card. 2. When a loop is complete, trace it and answer a question card. 3. Keep score on the sheet.  
   *Parent says:* Take a card and play a card. Watch out for GAP! cards. When your loop is complete, answer a question to light your bulb.  
   *Child mode:* Take a card. Play a card. Loop complete? Answer a question to light it!
-  - Note: Before each player's bulb lights, ask them to trace the loop with a finger from + round to −. If they find a gap, they must fix it first. The game is quicker with fewer GAP! cards for younger players.
+  - Note: Before each bulb lights, ask the player to trace the loop with a finger from + round to −. If they find a gap, they must mend it first. With younger players, take some GAP! cards out.
 - **s4 (2 min)**  
-  *Parent does:* Finish and talk about the switch card.  
+  *Parent does:* Finish the game and talk about the SWITCH card.  
   *Parent says:* Why did the switch card protect your circuit? What does a real switch do?  
   *Child mode:* Why did the switch card help you? What does a real switch do?
   - Think: Is a switch a gap, or a bridge? Or both?
 ### g2 · Safe or Danger? a quick sorting game (10 min)
-- **rules:** Each player has a green SAFE card and a red DANGER card.; A grown-up reads a situation card aloud. Everyone holds up SAFE or DANGER at the same time.; Each player who is right scores 1 point. Say why, and score 1 more point.; Playing alone, read each card yourself and check the answer in the brackets.; After 16 cards, the most points wins.
-- **Printable cards: 16 situation cards:** A girl tests a steel spoon with an AA cell and a bulb. (Safe); A boy pushes a hairpin into a wall socket. (Danger); A girl switches on the fan with wet hands after a bath. (Danger); A mother switches off the socket before pulling out the plug. (Safe); A kite is stuck on a power line, and a girl climbs up to get it. (Danger); A girl tells a grown-up that the iron's wire has cracked plastic. (Safe); A man pulls the mixer plug out by its wire. (Danger); A baby plays with a button cell from a watch. (Danger); A girl touches both ends of an AA cell with her dry fingers. (Safe); A boy puts four plugs into one extension board for the heater, the iron, the mixer and the kettle. (Danger); A girl keeps the radio far away from the bath bucket. (Safe); A boy opens up an old cell to see what is inside. (Danger); A girl waits for her mother to plug in the phone charger. (Safe); A man touches a fallen electric wire on the road after the rain. (Danger); A girl joins the two ends of a cell with just foil, and it gets hot. (Danger); A woman stays indoors when there is lightning. (Safe)
-- **Printable cards: One green SAFE card and one red DANGER card for each player:** SAFE; DANGER
+- **rules:** Each player takes a green SAFE card and a red DANGER card. One player is the reader. The reader does not answer that card.; The reader reads the front of a situation card aloud. Everyone else holds up SAFE or DANGER at the same time.; The reader turns the card over and reads the answer. Each player who is right scores 1 point. A player who also says why scores 1 more point.; After every 4 cards, the next player becomes the reader. Keep going until all 16 cards are used. The most points wins.; Playing alone, read the front, say your answer and why, then check the back. Try to get 12 of the 16 right.
+- **Printable cards: 16 situation cards (the answer is on the back):** A girl tests a steel spoon with an AA cell and a bulb. (back: Safe. An AA cell is only 1.5 volts.); A boy pushes a hairpin into a wall socket. (back: Danger. The socket is 230 volts and the hairpin is metal.); A girl switches on the fan with wet hands after a bath. (back: Danger. Wet skin lets electricity through easily.); A mother switches off the socket before pulling out the plug. (back: Safe. A grown-up unplugs, with the power off.); A kite is stuck on a power line, and a girl climbs up to get it. (back: Danger. Power lines can kill. Leave the kite and tell a grown-up.); A girl tells a grown-up that the iron's wire has cracked plastic. (back: Safe. Cracked plastic can show bare copper, so a grown-up must deal with it.); A man pulls the mixer plug out by its wire. (back: Danger. The wire can break inside and show bare copper.); A baby plays with a button cell from a watch. (back: Danger. A swallowed button cell can badly burn the food pipe.); A girl touches both ends of an AA cell with her dry fingers. (back: Safe. An AA cell is too weak to push electricity through dry skin.); A boy puts four plugs into one extension board for the heater, the iron, the mixer and the kettle. (back: Danger. Too much electricity flows, and the board can overheat.); A girl keeps the radio far away from the bath bucket. (back: Safe. Water and mains electricity must stay apart.); A boy opens up an old cell to see what is inside. (back: Danger. The chemicals inside are harmful.); A girl waits for her mother to plug in the phone charger. (back: Safe. Only grown-ups plug things in.); A man touches a fallen electric wire on the road after the rain. (back: Danger. A fallen wire can still carry mains electricity, and wet ground makes it worse.); A girl joins the two ends of a cell with just foil, and it gets hot. (back: Danger. This is a short circuit. The foil gets hot and the cell runs down.); A woman stays indoors when there is lightning. (back: Safe. Lightning is very strong electricity, and indoors is safer than open ground.)
+- **Printable cards: 4 green SAFE cards and 4 red DANGER cards:** SAFE (colour it green); SAFE (colour it green); SAFE (colour it green); SAFE (colour it green); DANGER (colour it red); DANGER (colour it red); DANGER (colour it red); DANGER (colour it red)
 - **s1 (2 min)**  
-  *Parent does:* Hand out the cards and read the first situation.  
+  *Parent does:* Hand out the SAFE and DANGER cards and read the first situation.  
   *Parent says:* Listen carefully. Then hold up green for safe or red for danger. A girl tests a steel spoon with an AA cell and a bulb.  
   *Child mode:* Hold up green for safe. Red for danger. Ready?
 - **s2 (6 min)**  
@@ -291,7 +290,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
   *Parent does:* 1. Press both bare wire ends firmly onto the first object, about 2 cm apart. 2. Look at the bulb. 3. Write the answer. 4. Try again, then go on to the next object.  
   *Parent says:* Let's test them one at a time. Press both ends on firmly. Watch the bulb closely. A dim glow counts too.  
   *Child mode:* Press both wire ends onto the object. Look at the bulb. Write yes or no. Try it twice.
-  - Note: The steel spoon, coin, plain paper clip, foil and key should light the bulb brightly. The wood, plastic, rubber, paper, cloth and glass should not. The coated paper clip will not light it until you scrape the plastic off each end. For the pencil, touch one wire to the lead at each sharpened end. The bulb may glow only very dimly, or not at all, because graphite conducts much less well than metal. If it does not glow, try a short piece of lead, about 2 cm, between the two wire ends.
+  - Note: The steel spoon, coin, plain paper clip, foil and key should light the bulb brightly. The wood, plastic, rubber, paper and glass should not. The coated paper clip will not light it until you scrape the plastic off each end. For the pencil, touch one wire to the lead at each sharpened end. The bulb may glow only very dimly, or not at all, because graphite conducts much less well than metal. If it does not glow, try a short piece of lead, about 2 cm, between the two wire ends.
 - **s4 (3 min)**  
   *Parent does:* Look at the coated paper clip result together.  
   *Parent says:* The plain clip lit the bulb, but the coloured clip did not. Both are steel inside. Why do you think that happened?  
@@ -349,10 +348,10 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
   *Child mode:* Join two cells in a row, plus to minus. Guess first. Brighter or dimmer?
   - Note: The bulb is clearly brighter, because two cells in a row push twice as hard, 3 volts instead of 1.5 volts. Red wires usually come from the plus end and black from the minus end. Check yours.
 - **s3 (6 min) · grown-up needed**  
-  *Parent does:* 1. Take one cell out of its holder and put it back the other way round. 2. Look at the bulb. 3. If the turned cell does not touch at both ends, put it back the right way. Then join the red wire to the red wire, and the two black wires to the bulb.  
+  *Parent does:* 1. Take one cell out of its holder and put it back the other way round. 2. Look at the bulb.  
   *Parent says:* Now one cell faces the wrong way. What will happen this time? Why?  
   *Child mode:* Turn one cell round. Now what does the bulb do?
-  - Note: The bulb does not light, or glows only faintly. Each cell pushes the electricity one way round the loop. Turned round, the two pushes are against each other and cancel out. This is the mistake Kavya made in the story.
+  - Note: The bulb does not light, or glows only faintly. Each cell pushes the electricity one way round the loop. Turned round, the two pushes are against each other and cancel out. This is the mistake made in the story. Turn the cell back, and the bulb is bright again.
   - Check: Two cells face opposite ways, and the bulb does not light. Why? → **The two cells push opposite ways round the loop, so their pushes cancel**
 - **s4 (4 min)**  
   *Parent does:* Ask for claim, evidence and reasoning.  
@@ -413,7 +412,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 - **s3 (3 min)**  
   *Parent does:* Read the rules back and check one with a question.  
   *Parent says:* Here is a question. Why do you think wires have plastic around them?  
-  *Child mode:* Why do wires have plastic around them? Tap your answer.
+  *Child mode:* Why do wires have plastic around them? Pick your answer.
   - Check: Why is there plastic around the copper in a fan's wire? → **Plastic is an insulator, so it keeps the electricity inside the copper and away from us**
 ### a4 · Inside a Torch (15 min)
 - **safety:** Do not take apart a torch with a battery you cannot take out, such as a charging torch. If you see white crust on the cells or spring, a grown-up wipes it off with a dry cloth and everyone washes their hands.
@@ -459,7 +458,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 - **safety:** Hold the string loosely. Do not wrap it round fingers or necks.
 - **record:** Draw the loop of people, with arrows for which way the string moved.
 - **s1 (3 min)**  
-  *Parent does:* 1. Everyone stands in a circle holding the string loop loosely. 2. One person is the cell. 3. One person is the bulb, and holds the string very lightly so it rubs their hands.  
+  *Parent does:* 1. Everyone stands in a circle holding the string loop loosely. (With 2 people, stand facing each other.) 2. One person is the cell. 3. One person is the bulb, and holds the string very lightly so it rubs their hands.  
   *Parent says:* The string is like the electrons in a wire. They are already there, all the way round. The cell pulls the string round. Let's see what the bulb feels.  
   *Child mode:* Stand in a circle. Hold the string loosely. Who is the cell? Who is the bulb?
 - **s2 (4 min)**  
@@ -476,7 +475,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 
 ## Projects
 ### p1 · Light Up a Shoebox Room (50 min, 2 days)
-- **safety:** Scissors and drawing pins: a grown-up helps. Use only AA cells, never a wall socket or a charger. Never join the two ends of a cell with just a wire or foil, because the wire gets hot. A grown-up strips the wire ends and stays close. Switch the light off when you finish, so the cells do not run down.
+- **safety:** Scissors: a grown-up helps. Use only AA cells, never a wall socket or a charger. Never join the two ends of a cell with just a wire or foil, because the wire gets hot. A grown-up strips the wire ends and stays close. Switch the light off when you finish, so the cells do not run down.
 - **record:** Draw the circuit plan before you build it. After building, write what you changed and why.
 - **schedule:** day 1: Decorate a shoebox as a room. Plan where the light and the switch go, and draw the circuit. (25 min); day 2: Fix the bulb in the roof and the switch on the outside wall. Join the circuit and test it. (25 min)
 - **s1 (25 min)**  
@@ -485,7 +484,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
   *Child mode:* Make a room in a shoebox. Draw a plan. Where do the bulb, switch and cell go?
 - **s2 (25 min) · grown-up needed**  
   *Parent does:* 1. Make a small hole in the roof and push the bulb holder's wires through. 2. Fix the switch on the outside wall with tape. 3. Join the cell, the switch and the bulb in one loop. 4. Test it, find any gaps and fix them.  
-  *Parent says:* Now we follow the plan. If it doesn't light, we hunt for the gap, the way Kavya did with the torch in the story.  
+  *Parent says:* Now we follow the plan. If it doesn't light, we hunt for the gap, the way the girl in the story did with the torch.  
   *Child mode:* Fix the bulb in the roof. Put the switch outside. Join the loop. Does it light?
   - Note: Most problems are loose joins. Twist bare wire ends together tightly and wrap them in tape. If the light is dim and your bulb is marked 2.5 V, join a second cell in a row, plus to minus. A 1.5 V bulb may burn out on two cells.
   - Check: Your shoebox light does not come on when you close the switch. What do you check first? → **Follow the loop with your finger and look for a loose join or gap**
@@ -555,100 +554,95 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
    **Answer:** False. *Why:* False. Foil is a metal, so it is a conductor, however thin and soft it is. What matters is the material, not how hard or thick it is.
 9. (fill) A material that lets electricity through, like copper or steel, is called a ____.  
    **Answer:** ['conductor']. *Why:* Conductors let electricity flow through them. Most conductors are metals.
-10. (fill) A switch works by making or closing a ____ in the circuit.  
+10. (fill) A switch works by opening and closing a ____ in the circuit.  
    **Answer:** ['gap', 'break']. *Why:* When a switch is off, there is a gap and the loop is broken. When it is on, the gap closes and the loop is complete.
 11. (match) Match each word to what it means.  
    **Answer:** Cell → pushes electricity round a circuit; Circuit → a complete loop for electricity; Conductor → a material that lets electricity through; Insulator → a material that stops electricity; Switch → opens and closes a gap in a circuit. *Why:* These five words come up all through the unit. Knowing them makes the rest easier to explain.
 12. (write) A lamp wire has a crack in the plastic, and shiny copper shows through. Why is this dangerous? What should you do?  
-   **Answer:** The copper is a conductor and carries electricity from the wall, at 230 volts. The plastic was the insulator that kept it away from hands. Now a finger could touch the copper and get a shock. She should not touch it, and should tell a grown-up, who switches off and unplugs the lamp.. *Why:* A strong answer says what the copper does, what the plastic was doing, and what to do: don't touch, tell a grown-up.
-13. (mcq) A bulb in a circuit is lit. Where does the electricity go after it has passed through the bulb?  
-   Options: It stays inside the bulb and is used up / It carries on along the wire, back to the cell / It leaks out into the air as light  
-   **Answer:** It carries on along the wire, back to the cell. *Why:* The electricity goes on round the loop, back to the cell. That is why a wire is needed on both sides of the bulb. The light comes from energy the cell gives, not from the electricity leaking away.
-14. (truefalse) A torch bulb lights whichever way round you join it to the cell.  
+   **Answer:** The copper is a conductor and carries electricity from the wall, at 230 volts. The plastic was the insulator that kept it away from hands. Now a finger could touch the copper and get a shock. You should not touch it, and should tell a grown-up, who switches off and unplugs the lamp.. *Why:* A strong answer says what the copper does, what the plastic was doing, and what to do: don't touch, tell a grown-up.
+13. (truefalse) A torch bulb lights whichever way round you join it to the cell.  
    **Answer:** True. *Why:* True. A torch bulb lights either way round, because the electricity just needs a complete loop through it. A small LED light is different: it lights only one way round.
-15. (write) A doorbell rings only while you press the button. What happens inside the button when you press it, and when you let go?  
+14. (write) A doorbell rings only while you press the button. What happens inside the button when you press it, and when you let go?  
    **Answer:** When I press, two metal parts inside touch, so the loop is complete and the bell rings. When I let go, a spring pushes them apart. Now there is a gap of air, the loop is broken, and the bell stops.. *Why:* A strong answer uses the idea of a gap: touching metal closes the loop, a gap of air breaks it.
-### Inside the Wire (stretch) (stretch, 16 questions)
+15. (fill) A torch bulb has two metal contacts. One is the tip at the bottom. The other is the metal ____.  
+   **Answer:** ['side']. *Why:* The electricity goes in at one contact, through the thin wire inside, and out at the other. That is why one wire to the tip alone does not light it.
+### Inside the Wire (stretch) (stretch, 15 questions)
 1. (mcq) You make a loop with a wire 2 metres long, as long as a door is tall. You close the gap. When does the bulb light?  
    Options: At once / After about a second / After about a minute  
    **Answer:** At once. *Why:* The bulb lights at once. The tiny moving bits called electrons are already in the wire all the way round. The cell pushes them all at the same moment, so none has to travel from the cell to the bulb first.
 2. (write) When you push a cycle pedal, the back wheel turns at once, even though each link of the chain moves slowly. How is a circuit like a cycle chain?  
    **Answer:** In a circuit, the wire is full of electrons all the way round, like the chain is full of links. The cell pushes them all at once, like the pedal pushes the whole chain. So the bulb lights at once, even though each electron moves very slowly.. *Why:* A strong answer matches the parts: links and electrons, pedal and cell, wheel and bulb. It says why the bulb lights at once.
-3. (truefalse) When a cell goes flat, it has run out of electrons.  
-   **Answer:** False. *Why:* False. The electrons go round the loop and come back to the cell. What a flat cell has used up is the energy stored in its chemicals. Many people think a cell is a tank of electricity, but it is more like a pump.
-4. (mcq) In the two-cell test, you join two cells in a row, both facing the same way, with one bulb. What does the bulb do?  
+3. (mcq) In the two-cell test, you join two cells in a row, both facing the same way, with one bulb. What does the bulb do?  
    Options: It is brighter than with one cell / It is dimmer than with one cell / It is the same as with one cell  
    **Answer:** It is brighter than with one cell. *Why:* Two cells in a row, facing the same way, push together. That is 3 volts instead of 1.5 volts, so more electricity flows and the bulb is brighter.
-5. (mcq) A girl puts two cells into a torch. One goes in bump first, the other flat end first. The torch stays dark. What is really wrong?  
-   Options: The two cells push against each other, so their pushes cancel / The torch is broken / One of the cells must be flat  
-   **Answer:** The two cells push against each other, so their pushes cancel. *Why:* Each cell pushes one way round the loop. Turned round, the second cell pushes back just as hard, so there is no push at all. Turning it round fixes it. Before blaming the torch, check which way the cells face.
-6. (fill) A wire joined straight from one end of a cell to the other, with nothing else in the loop, is called a ____ circuit.  
-   **Answer:** ['short']. *Why:* A short circuit has no bulb in it. The bulb was what slowed the flow, so now a lot flows, the wire gets hot and the cell runs down fast.
-7. (write) Why does the wire in a short circuit get hot, when the wires in a circuit with a bulb stay cool?  
+4. (write) Why does the wire in a short circuit get hot, when the wires in a circuit with a bulb stay cool?  
    **Answer:** The thin wire inside a bulb slows the flow of electricity. Without the bulb, nothing slows it, so a lot of electricity rushes round. All that flow heats the wire. With a bulb in the loop, less flows, so the wires stay cool and the bulb's thin wire glows instead.. *Why:* A strong answer says the bulb slows the flow, and more flow means more heat.
-8. (mcq) Pencil lead is made of a material called graphite. Touched to both ends of the tester, it makes the bulb glow very dimly. What does that show?  
+5. (mcq) Pencil lead is made of a material called graphite. Touched to both ends of the tester, it makes the bulb glow very dimly. What does that show?  
    Options: Graphite is an insulator / Graphite conducts, but much less well than metal / The cell has gone flat  
    **Answer:** Graphite conducts, but much less well than metal. *Why:* A dim glow means some electricity got through, but less than through a metal. So graphite is a conductor that is not a metal. Not every conductor is a metal, though most are.
-9. (sort) Each of these is touched to both ends of a circuit tester. Sort them. Will the bulb light, or stay dark?  
+6. (sort) Each of these is touched to both ends of a circuit tester. Sort them. Will the bulb light, or stay dark?  
    **Answer:** paper clip with a plastic coat → Bulb stays dark; the same clip with the coat scraped off the ends → Bulb lights; a pencil, touching only the wood → Bulb stays dark; pencil lead touching both ends → Bulb lights; a steel tumbler → Bulb lights; a key wrapped in tape → Bulb stays dark. *Why:* Only the material the wire ends touch matters. A plastic coat, wood or tape is an insulator and leaves a gap, even with metal inside. Pencil lead lights the bulb only dimly.
-10. (mcq) An old string of festival lights goes dark when just one bulb breaks. Why?  
+7. (mcq) An old string of festival lights goes dark when just one bulb breaks. Why?  
    Options: The broken bulb makes a gap in the one loop that all the bulbs share / All the other bulbs broke at the same moment / The plug got too hot and switched off  
    **Answer:** The broken bulb makes a gap in the one loop that all the bulbs share. *Why:* In old light strings, every bulb is in one loop. A broken bulb leaves a gap, so electricity stops flowing through all of them. Many new strings are wired so that each bulb has its own path.
-11. (order) Put these in order, from the weakest push to the strongest.  
+8. (order) Put these in order, from the weakest push to the strongest.  
    **Answer:** ['one AA cell', 'two AA cells in a row', 'a wall socket in India']. *Why:* One AA cell is 1.5 volts. Two in a row facing the same way are 3 volts. A wall socket is 230 volts, about 150 times one cell, which is why it is never for experiments.
-12. (draw) Draw a circuit with a cell, a bulb and a paper clip switch. Draw it twice: once with the switch open, once with it closed.  
+9. (draw) Draw a circuit with a cell, a bulb and a paper clip switch. Draw it twice: once with the switch open, once with it closed.  
    **Answer:** Two loops. In the open one, the clip is off one pin, there is a gap, and the bulb is dark. In the closed one, the clip touches both pins and the bulb is lit.. *Why:* The only difference between the two drawings is the gap at the switch. A strong drawing shows that clearly.
-13. (write) Your torch does not light. Write three things you would check, and say why you would check each one.  
+10. (write) Your torch does not light. Write three things you would check, and say why you would check each one.  
    **Answer:** I would check that both cells face the same way, because cells facing opposite ways cancel. I would check the spring and the metal contacts for crust or rust, because those make a gap. I would try new cells, because the old ones may be flat.. *Why:* A strong answer hunts for gaps in the loop and thinks about the cells, with a reason for each check.
-14. (perspective) A family is deciding who should change the cells in the torch and the TV remote.  
+11. (perspective) A family is deciding who should change the cells in the torch and the TV remote.  
    **Answer:** A strong answer picks a side and backs it with a fact: an AA cell is only 1.5 volts, so it is safe to touch, but a swallowed button cell can badly burn a child's food pipe within two hours. It then admits a fair point from another side.. *Why:* There is a real trade-off here. Children learn by doing, and AA cells are safe to touch. But button cells are dangerous for babies, so where they are kept matters.
-15. (mcq) In an old torch, the spring is covered in a white crust from a cell that leaked. New cells face the right way. The torch stays dark. Why?  
-   Options: The crust does not let electricity through, so it makes a gap at the spring / The crust makes the cells weaker / The spring is too tight  
-   **Answer:** The crust does not let electricity through, so it makes a gap at the spring. *Why:* The crust is not shiny metal, and it is a poor conductor. It sits between the spring and the cell, so the loop has a gap. Scrubbing the spring clean closes the gap.
-16. (truefalse) Tap water lets a little electricity through, because of the salts dissolved in it.  
+12. (truefalse) Tap water lets a little electricity through, because of the salts dissolved in it.  
    **Answer:** True. *Why:* True. Very pure water hardly conducts, but tap water has salts dissolved in it. That is one reason water near sockets and switches is dangerous.
+13. (match) Match each part of a torch to its job.  
+   **Answer:** Cells → store energy and push the electricity round; Spring → presses the cells against the contacts and carries the electricity; Switch → opens and closes a gap in the loop; Plastic case → an insulator that you can hold safely; Bulb → its thin wire gets hot and glows. *Why:* A torch is one loop. Every part has a job in keeping the loop complete, or in keeping it safe to hold.
+14. (write) A table lamp goes dark, but its bulb is fine. List three places where a gap could be, and say how a grown-up could find it. The lamp must be unplugged first.  
+   **Answer:** A gap could be at the switch, if its metal parts no longer touch. It could be in the cable, if the copper has snapped inside the plastic. It could be where the wire joins the plug or the bulb holder, if a connection is loose. The grown-up checks each place, one at a time.. *Why:* A strong answer thinks of the lamp as one loop and names real places a gap could hide.
+15. (truefalse) Three AA cells in a row, all facing the same way, push with 4.5 volts.  
+   **Answer:** True. *Why:* True. Each cell adds 1.5 volts when they face the same way. 3 times 1.5 is 4.5. That is far less than the 230 volts of a wall socket.
 ### Frogs, Metals and Big Ideas (challenge) (challenge, 15 questions)
 1. (perspective) In the 1790s, two Italian scientists argued about why a dead frog's leg twitched when touched with two different metals.  
    **Answer:** A strong answer picks a side with evidence. For Volta: his pile of zinc, copper and salty cloth made electricity with no frog at all. For Galvani: our nerves and muscles really do use electrical signals. A strong answer then gives the other side its due, because both were partly right.. *Why:* Volta was right that two metals and something wet make electricity, and he built the first battery in 1799. Galvani was right that living bodies use electricity. Each was partly right.
 2. (write) Galvani's test had a brass hook, an iron rail and a wet frog's leg. Volta's pile had zinc discs, copper discs and cloth soaked in salty water. What did both set-ups have in common?  
    **Answer:** Both had two different metals: brass and iron, or zinc and copper. Both had something wet and salty between them: the frog's leg or the salty cloth. Two different metals with something wet between them make electricity.. *Why:* A strong answer finds both things they share: two different metals, and something wet between them.
-3. (truefalse) Galvani was completely wrong about animal electricity.  
-   **Answer:** False. *Why:* False. Galvani was wrong that the electricity in his test came from the frog. But he was right that living bodies use electricity. Your nerves carry electrical signals to your muscles.
-4. (mcq) A touch-me-not plant folds their leaves when you touch them. What travels along the leaf stalk to make this happen?  
+3. (mcq) A touch-me-not plant folds their leaves when you touch them. What travels along the leaf stalk to make this happen?  
    Options: A sound / An electrical signal / A drop of water  
    **Answer:** An electrical signal. *Why:* A touch starts an electrical signal that travels along the leaf stalk, and the leaves fold. Jagadish Chandra Bose measured electrical signals in plants in Kolkata over a hundred years ago.
-5. (mcq) A crow sits on a power line and is not hurt. A person standing on the ground who touches the same line can be killed. Why the difference?  
+4. (mcq) A crow sits on a power line and is not hurt. A person standing on the ground who touches the same line can be killed. Why the difference?  
    Options: The crow touches only one wire, so there is no loop through their body / Crows have thick feathers that are conductors / The person is heavier than the crow  
    **Answer:** The crow touches only one wire, so there is no loop through their body. *Why:* Electricity flows only round a loop. The crow touches one wire and nothing else, so there is no path through their body. The person also touches the ground, so there is a path through the body to the earth.
-6. (mcq) Why does a plug have at least two pins?  
+5. (mcq) Why does a plug have at least two pins?  
    Options: One pin is a spare / The electricity needs a way in and a way back, to make a loop / So that the plug stands up straight  
    **Answer:** The electricity needs a way in and a way back, to make a loop. *Why:* An iron or a fan is part of a loop, just like a bulb. The electricity needs one path in and one path back. Many plugs have a third pin, called earth, for safety.
-7. (order) Put these in order, following the electricity from the socket, round an iron and back.  
+6. (order) Put these in order, following the electricity from the socket, round an iron and back.  
    **Answer:** ['the socket', 'one pin of the plug', 'one wire in the cable', 'the heating coil inside the iron', 'the other wire in the cable', 'the other pin, back into the socket']. *Why:* An iron is one big loop, like a torch. The electricity goes out through one pin and wire, through the coil that gets hot, and back through the other wire and pin.
-8. (write) Your friend says, "A cell is like a water tank full of electricity, and the bulb drinks it up." What would you tell her? Use evidence from your experiments.  
+7. (write) Your friend says, "A cell is like a water tank full of electricity, and the bulb drinks it up." What would you tell your friend? Use evidence from your experiments.  
    **Answer:** I would tell her the electricity is not drunk up. It goes round the loop and back to the cell. My evidence is that a gap after the bulb puts it out, just like a gap before it. What a cell runs out of is the energy in its chemicals.. *Why:* A strong answer corrects the idea and backs it with a result from the gap test.
-9. (mcq) Before testing anything, you touch the two loose wire ends of your circuit tester together, and the bulb lights. Why is this a good first step?  
+8. (mcq) Before testing anything, you touch the two loose wire ends of your circuit tester together, and the bulb lights. Why is this a good first step?  
    Options: It shows the tester works, so a dark bulb later means the thing is an insulator, not that the tester is broken / It charges the cell / It warms up the bulb so it lights faster  
    **Answer:** It shows the tester works, so a dark bulb later means the thing is an insulator, not that the tester is broken. *Why:* A dark bulb could mean two things: the thing is an insulator, or the tester itself has a gap or a flat cell. Checking that the tester lights on its own rules out the second. A good scientist checks the tool before trusting a result.
-10. (mcq) In a steady hand game, the bulb lights when the wand touches the foil path. You cover the start of the path with tape, so you can rest the wand there. Why does this work?  
+9. (mcq) In a steady hand game, the bulb lights when the wand touches the foil path. You cover the start of the path with tape, so you can rest the wand there. Why does this work?  
    Options: Tape is an insulator, so touching it leaves a gap / Tape makes the cell weaker / Tape is a conductor  
    **Answer:** Tape is an insulator, so touching it leaves a gap. *Why:* The wand and the path are the two sides of a gap. Touching metal to metal closes it. Tape is an insulator, so the gap stays open and the bulb stays dark.
-11. (draw) Design a steady hand game. Draw the foil path, the wand, the cell and the bulb, and mark where the gap is.  
+10. (draw) Design a steady hand game. Draw the foil path, the wand, the cell and the bulb, and mark where the gap is.  
    **Answer:** A wavy foil path joined to one end of the cell. A wand joined to the bulb, and the bulb joined to the other end of the cell. The gap is between the wand and the path.. *Why:* The game works because the wand and the path are the two ends of a gap. A shaky hand closes it.
-12. (draw) Draw a loop with one cell, one bulb and two paper clip switches, so the bulb lights only when both switches are closed.  
+11. (draw) Draw a loop with one cell, one bulb and two paper clip switches, so the bulb lights only when both switches are closed.  
    **Answer:** One loop with both switches in it, one after the other. If either switch is open, there is a gap, so the bulb is dark. Only when both are closed is the loop complete.. *Why:* A strong drawing puts both switches in the same loop, so each one can make a gap. A machine that must not start by accident can use two switches like this.
-13. (mcq) An electrician's gloves are made of thick rubber. Why rubber, and not cotton?  
+12. (mcq) An electrician's gloves are made of thick rubber. Why rubber, and not cotton?  
    Options: Rubber is an insulator, and it stays one even when it is wet / Rubber is a conductor / Cotton is too hot to wear  
    **Answer:** Rubber is an insulator, and it stays one even when it is wet. *Why:* Rubber stops electricity, and water cannot soak into it. Cotton soaks up sweat and water, and wet cloth lets electricity through. So rubber keeps the hands safe.
-14. (fill) Three AA cells sit in a row. Two face the same way, and the third is turned round. Together they push with ____ volts.  
+13. (fill) Three AA cells sit in a row. Two face the same way, and the third is turned round. Together they push with ____ volts.  
    **Answer:** ['1.5', '1.5 volts']. *Why:* The two cells facing the same way push with 3 volts. The turned-round cell pushes back with 1.5 volts. 3 minus 1.5 leaves 1.5 volts, the same as one cell on its own.
-15. (write) Your nerves carry electrical signals, and so does a touch-me-not plant. Is a thought just electricity? Write what you think, and why.  
-   **Answer:** Any honest answer with a reason. For example: signals in the brain are electrical, and scientists can measure them. But nobody can measure what a thought feels like from the inside. So I think a thought is more than the signals.. *Why:* This is an open question that scientists and thinkers still argue about. A strong answer gives a view and a reason.
+14. (write) To test his idea, Volta left the frog out and still made electricity. Why was leaving the frog out a good test? Think of another idea you could test by leaving something out.  
+   **Answer:** Leaving the frog out showed whether the frog was needed. The electricity still appeared, so the frog was not the source. I could test whether a bulb needs a cell by taking the cell away, or whether a plant needs light by keeping a plant in the dark.. *Why:* A strong answer says a test removes one thing to see if the result still happens, and gives another example.
+15. (fill) Drawings show electricity going from plus to minus, but the electrons really move from ____ to plus.  
+   **Answer:** ['minus']. *Why:* People drew the arrows before electrons were found in 1897. The electrons are pushed out of the minus end of the cell and come back in at the plus end.
 
 ## Videos
-- **#1 Battery bulb switch** (Michael Kavanagh, 2 min) id `f139wZft1xg`: A short, plain video of a real circuit with a battery, a bulb and a switch, showing the bulb light when the switch closes. Good to watch before building your own. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title '#1 Battery bulb switch', channel Michael Kavanagh). Not watched from here, so the length is a guess: a parent should preview it.
-- **How batteries work - Adam Jacobson** (TED-Ed, 5 min) id `9OVtk6G2TnQ`: For the parent and older children: a cartoon about how a cell pushes electricity, and the Galvani and Volta story behind the first battery. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'How batteries work - Adam Jacobson', channel TED-Ed). Not watched from here: a parent should preview it.
-- **How ELECTRICITY works - working principle** (The Engineering Mindset, 10 min) id `mc979OhitAg`: For the parent: a clear animated explanation of electrons, conductors, insulators and circuits, to help you answer your child's questions. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'How ELECTRICITY works - working principle', channel The Engineering Mindset). Not watched from here: preview it, and note that it goes further than this unit.
+- **#1 Battery bulb switch** (Michael Kavanagh, 2 min) id `f139wZft1xg`: A short, plain video of a real circuit with a battery, a bulb and a switch, showing the bulb light when the switch closes. Good to watch before building your own. *Check:* A parent should preview it first.
+- **How batteries work - Adam Jacobson** (TED-Ed, 5 min) id `9OVtk6G2TnQ`: For the parent and older children: a cartoon about how a cell pushes electricity, and the Galvani and Volta story behind the first battery. *Check:* A parent should preview it first.
+- **How ELECTRICITY works - working principle** (The Engineering Mindset, 10 min) id `mc979OhitAg`: For the parent: a clear animated explanation of electrons, conductors, insulators and circuits, to help you answer your child's questions. *Check:* A parent should preview it first. It goes further than this unit.
 
 ## Quiz
 1. (mcq) Which of these runs on mains electricity from the wall?  
@@ -672,19 +666,16 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 7. (mcq) A girl tests a paper clip with a pink plastic coat. The bulb does not light. Why?  
    Options: Steel is an insulator / The plastic coat is an insulator, so the electricity cannot reach the steel / Pink things never conduct  
    **Answer:** The plastic coat is an insulator, so the electricity cannot reach the steel. *Why:* The steel inside conducts, but the wire ends touch only plastic. Scrape the plastic off each end, and the bulb lights. Colour has nothing to do with it.
-8. (mcq) Why are electric wires made of copper covered in plastic?  
-   Options: Copper conducts and plastic insulates, so electricity flows inside and stays away from us / Plastic conducts and copper insulates / Both are conductors, to make it faster  
-   **Answer:** Copper conducts and plastic insulates, so electricity flows inside and stays away from us. *Why:* Copper is a metal and a very good conductor, so it carries the electricity. Plastic is an insulator, so it keeps the electricity inside the wire and away from our hands.
-9. (mcq) A switch is turned off. What is inside it?  
+8. (mcq) A switch is turned off. What is inside it?  
    Options: Two metal parts touching / A gap of air between two metal parts / A tiny cell  
    **Answer:** A gap of air between two metal parts. *Why:* When a switch is off, its metal parts are apart, with air between them. Air is an insulator, so the loop is broken. When it is on, they touch and the loop is complete.
-10. (mcq) Why was the paper clip switch built on cardboard and not on a steel plate?  
+9. (mcq) Why was the paper clip switch built on cardboard and not on a steel plate?  
    Options: Cardboard is cheaper / Steel would join the pins, so the bulb would never turn off / Steel would make the bulb dimmer  
    **Answer:** Steel would join the pins, so the bulb would never turn off. *Why:* Steel is a conductor. It would join the two pins all the time, so opening the clip would not break the loop. Cardboard is an insulator, so only the clip can join the pins.
-11. (mcq) When a bulb lights, what happens to the electrons in the wire?  
+10. (mcq) When a bulb lights, what happens to the electrons in the wire?  
    Options: They are used up in the bulb / They go round the loop and come back to the cell / They stay still and the bulb pulls in light  
    **Answer:** They go round the loop and come back to the cell. *Why:* The electrons go round the loop and come back. The same ones go round again and again. What the cell uses up is the energy in its chemicals. Picking 'used up' is the common idea that a cell is a tank of electricity.
-12. (mcq) Galvani thought the twitching frog legs were caused by electricity inside the frog. What did Volta show?  
+11. (mcq) Galvani thought the twitching frog legs were caused by electricity inside the frog. What did Volta show?  
    Options: Frogs make no electricity at all / Two different metals with something wet between them make electricity, even with no frog / The twitching was caused by the weather  
    **Answer:** Two different metals with something wet between them make electricity, even with no frog. *Why:* Volta made electricity with discs of two metals and salty cloth, with no frog, and built the first battery in 1799. Galvani was partly right too, because nerves really do use electrical signals. Picking 'frogs make no electricity' goes too far.
 
@@ -720,8 +711,6 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 - Can you trace the loop in this torch with your finger?
 - Is this spoon a conductor or an insulator? How could we test it?
 - Why do you think the plug has more than one pin?
-- Why is there plastic around the fan wire?
-- Why must we dry our hands before touching a switch?
 - What do you think is moving inside the wire when the light is on?
 - Where is the switch for this light? What does it do to the loop?
 - What would our day be like with no electricity at all?
@@ -731,21 +720,13 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 - Why was the bulb so bad at school? *It wasn't very bright without its cell.*
 - What did the wire say to the cell? *I'm totally attached to you.*
 - Why did the circuit go to the doctor? *It had a break.*
-- What is a cell's favourite dance? *The current shuffle.*
-- Why did the plastic ruler never get any messages? *It was an insulator.*
 - What did the switch say to the bulb? *Without me, you'd be in the dark.*
 - Why was the steel spoon so popular? *Everyone found it very conducting.*
-- What do you call a cell that tells jokes? *A pun-ch of energy.*
 - Why did the torch stop talking to the cell? *The cell was too negative.*
 - How did the frog feel after meeting Galvani? *A bit jumpy.*
-- What did Volta say when he built his battery? *This pile is going to be big.*
 - Why did the electron never get lost? *It always went round in circles.*
-- What is a paper clip's favourite job? *Switching careers.*
-- Why was the wire always calm? *It was well insulated.*
-- What did the bulb say when the loop broke? *Lights out!*
 - Why don't cells ever argue? *They always face the same way.*
 - What do you call a wire that tells stories? *A live wire. But don't touch it!*
-- Why did the foil strip join the circuit? *It wanted to be a good conductor.*
 
 ## Connected maths
 - A wall socket in India pushes at 230 volts. An AA cell pushes at 1.5 volts. Two AA cells in a row push at 3 volts. How many AA cells in a row would push as hard as 30 volts? **20 cells.**. Each cell adds 1.5 volts. Two cells make 3 volts. 30 is 10 lots of 3. So 10 lots of 2 cells, which is 20 cells. Check: 20 times 1.5 is 30. (queues `math.multiplication.equal-groups.L3`)
@@ -765,8 +746,8 @@ Round and Round the Loop (sci.electricity.L3): Topic-level song for Electricity 
 - [Shivanasamudra Falls and power station](https://en.wikipedia.org/wiki/Shivanasamudra_Falls) · place · Mandya district, Karnataka: One of the oldest hydroelectric power stations in Asia, started in 1902. The falls can be seen from viewpoints, and the page explains its history.
 
 ## Things to buy
-- [A school electric circuit kit: two single AA cell holders with wires, two torch bulbs (1.5 V or 2.5 V) with holders, connecting wires, and a switch](https://www.amazon.in/s?k=electric+circuit+kit+for+school+bulb+holder) (tool): Every experiment in this unit needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. Foil strips can stand in for wires. Used in e1, e2, e3, a1, a5, p1. Used again in later electricity units, for brighter and dimmer bulbs and for electromagnets.
-- [A pack of AA cells](https://www.amazon.in/s?k=aa+battery+pack) (material): Fresh cells make the bulb clearly bright. Old or cheap cells may give only a faint glow. Used in e1, e2, e3, a1, a5, p1, c1, c2. Keep used cells in a box and drop them at an e-waste collection point.
+- [A school electric circuit kit: two single AA cell holders with wires, two torch bulbs (1.5 V or 2.5 V) with holders, connecting wires, and a switch](https://www.amazon.in/s?k=electric+circuit+kit+for+school+bulb+holder) (tool): Every experiment in this unit needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. Foil strips can stand in for wires. Used in e1, e2, e3, a1, a5, p1, c1, c2. 
+- [A pack of AA cells](https://www.amazon.in/s?k=aa+battery+pack) (material): Fresh cells make the bulb clearly bright. Old or cheap cells may give only a faint glow. Keep used cells in a box and drop them at an e-waste collection point. Used in e1, e2, e3, a1, a5, p1, c1, c2. 
 
 ## Warm-up
 - How many volts is an AA cell? → 1.5 volts.

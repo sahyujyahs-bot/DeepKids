@@ -452,7 +452,7 @@
    ],
    "perspectives": [],
    "art": "A food chain from water to plankton to small fish to big fish to an osprey, with the DDT drawn as red dots, a few at the start and crowds of them in the osprey's cracked egg.",
-   "context": "Remember the Poison Climbs the Chain activity, with beads passed up from plankton to fish to heron? This card tells the real story behind it.",
+   "context": "Remember the Poison Climbs the Chain activity, with red dots passed up from plankton to fish to an osprey? This card tells the real story behind it.",
    "how": "a5"
   },
   {
@@ -784,8 +784,67 @@
     },
     {
      "kind": "tokens",
-     "title": "40 arrow strips (thin strips of paper, about as long as a finger, with an arrowhead drawn at one end)",
+     "title": "60 arrow strips (thin strips of paper, about as long as a finger, with an arrowhead drawn at one end)",
      "items": [
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
+      "→",
       "→"
      ]
     },
@@ -805,8 +864,8 @@
     "On your turn, play one card from your hand. Put it near the cards it eats. A producer goes near the SUN.",
     "Lay one arrow strip from each food already on the floor to your card. The arrow always points to the eater. Score 1 point for each arrow.",
     "A CLEAN-UP card can join to up to 3 cards already on the floor, because everything dies in the end. It scores 1 point for each arrow.",
-    "If you cannot play, take a card from the pile and miss your turn. If someone lays a wrong arrow, any player can say 'Wrong way!' and take that point.",
-    "When nobody can play, the player with the most points wins. Then play the last round: Pull One Card.",
+    "If you cannot play, take a card from the pile and miss your turn. If the pile is empty, just miss your turn. If someone lays a wrong arrow, any player can say 'Wrong way!' and take that point.",
+    "When nobody can play, or the arrow strips run out, the player with the most points wins. Then play the last round: Pull One Card.",
     "Playing alone: play every card yourself, one at a time, as cleverly as you can. Count all your arrows. Write your score and try to beat it next time. The best scores are over 40."
    ],
    "flow": [
@@ -823,17 +882,7 @@
      "mins": 3,
      "do": "Play the first two cards together as practice. Put Grass next to the SUN with one arrow. Then put Grasshopper next to Grass with one arrow.",
      "say": "Let's practise. Grass needs the Sun, so the arrow goes from the Sun to the grass. Now the grasshopper eats the grass. Which way does that arrow point?",
-     "kid": "Practice! Put Grass by the SUN. Lay an arrow. Now put Grasshopper by the Grass. Which way does the arrow point?",
-     "check": {
-      "t": "mcq",
-      "q": "The grasshopper eats the grass. Which arrow is right?",
-      "options": [
-       "Grass → Grasshopper",
-       "Grasshopper → Grass"
-      ],
-      "a": 0,
-      "why": "In a food chain, the arrow points from the food to the eater. It shows which way the food goes: out of the grass and into the grasshopper. Picking 'Grasshopper → Grass' is very common. It is like a finger pointing at dinner. Scientists draw it the other way, so you can follow the food."
-     }
+     "kid": "Practice! Put Grass by the SUN. Lay an arrow. Now put Grasshopper by the Grass. Which way does the arrow point?"
     },
     {
      "id": "s3",
@@ -875,7 +924,7 @@
    "context": "This is a card game about food webs. You build a web on the floor, card by card, with a paper arrow from each food to the eater. Then you pull one card out and see what breaks.",
    "setup": [
     {
-     "art": "A floor with a sun card in the middle, a few plant cards around it, and paper arrow strips pointing outwards from the sun to the plants.",
+     "art": "A floor with a sun card in the middle, a few plant cards around the sun, and paper arrow strips pointing outwards from the sun to the plants.",
      "caption": "1. Put the SUN in the middle. Plants go next to it."
     },
     {
@@ -902,6 +951,45 @@
      "kind": "tokens",
      "title": "40 deer squares (cut from paper, each about 2 cm across, the size of a fingernail)",
      "items": [
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
+      "🦌",
       "🦌"
      ]
     },
@@ -909,6 +997,13 @@
      "kind": "tokens",
      "title": "8 tiger squares (cut from thick card, each about 10 cm across, the size of a hand)",
      "items": [
+      "🐅",
+      "🐅",
+      "🐅",
+      "🐅",
+      "🐅",
+      "🐅",
+      "🐅",
       "🐅"
      ]
     },
@@ -936,9 +1031,9 @@
    "rules": [
     "Put one A4 sheet on the floor. This is the forest.",
     "Round 1: scatter 6 deer squares on the forest. Put 1 tiger on the side.",
-    "Hunting: kneel beside the forest. Drop each tiger square from about the height of your head, so it lands on the forest. Every deer it touches is eaten. Take those deer away.",
-    "A tiger that ate 0 or 1 deer starves. Take that tiger away. A tiger that ate 2 or 3 survives. A tiger that ate 4 or more survives and also has a cub: add one tiger for the next round.",
-    "Then the deer have babies. Count the deer left, and add the same number again. The forest only has grass for 40 deer, so never go over 40.",
+    "Hunting: kneel beside the forest. Players take turns to drop each tiger square, one at a time, from about the height of your head. Every deer square she touches is eaten. Take those deer away before the next tiger drops. If a tiger lands completely off the paper, drop her again.",
+    "A tiger that ate 0 or 1 deer starves. Take her away. A tiger that ate 2 or 3 survives. A tiger that ate 4 or more survives and also has a cub: add one tiger for the next round, up to 8 tigers in all.",
+    "Then the deer have babies. Count the deer left, and add the same number of new deer squares. Scatter them on the forest. The forest only has grass for 40 deer, so never go over 40.",
     "If all the tigers starve, one new tiger wanders in from the next forest at the start of the next round. If all the deer are eaten, 2 deer wander in.",
     "Write the numbers on the record sheet. Play 12 rounds. Then look at your numbers: what happened to the deer, and to the tigers?"
    ],
@@ -946,17 +1041,17 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Cut 40 small paper squares for deer and 8 hand-sized card squares for tigers. 2. Put one A4 sheet on the floor as the forest. 3. Put 6 deer on the forest and 1 tiger beside it.",
+     "do": "1. Cut 40 small paper squares for deer and 8 hand-sized card squares for tigers. 2. Put one A4 sheet on the floor as the forest. 3. Put 6 deer on the forest and 1 tiger beside the forest.",
      "say": "This paper is a forest. These little squares are deer. This big square is a tiger. Let's see what happens to them over many years.",
-     "kid": "Cut 40 small deer squares and 8 big tiger squares. One sheet of paper is the forest. Put 6 deer on it. One tiger waits beside it.",
+     "kid": "Cut 40 small deer squares and 8 big tiger squares. One sheet of paper is the forest. Put 6 deer on the forest. One tiger waits beside the paper.",
      "context": "This is the first step of Deer and Tiger Toss. It is a game about how the numbers of predators and prey change each other, one year at a time."
     },
     {
      "id": "s2",
      "mins": 14,
-     "do": "1. Each round, drop each tiger once from head height onto the forest. 2. Remove the deer the tiger touches. 3. Decide which tigers starve or have a cub. 4. Double the deer that are left, up to 40. 5. Write the numbers on the record sheet. 6. Play 12 rounds.",
-     "say": "Drop the tiger. How many deer did they catch? Is that enough to survive? Now the deer have babies. Let's write down the numbers.",
-     "kid": "Drop each tiger from head height. Take away every deer they touch. Did they eat 2? They live. 4? They have a cub! Then double the deer. Write it down.",
+     "do": "1. Each round, players take turns to drop each tiger once from head height onto the forest. 2. Remove the deer she touches. 3. Decide which tigers starve or have a cub. 4. Double the deer that are left, up to 40. 5. Write the numbers on the record sheet. 6. Play 12 rounds.",
+     "say": "Drop the tiger. How many deer did she catch? Is that enough to survive? Now the deer have babies. Let's write down the numbers.",
+     "kid": "Drop each tiger from head height. Take away every deer she touches. Did she eat 2? She lives. 4? She has a cub! Then double the deer. Write it down.",
      "parent": "The numbers depend on luck, so every game is different. Usually the deer increase for a few rounds while the single tiger struggles. Then, with lots of deer, the tigers catch more and have cubs. With many tigers, the deer fall. Then the tigers starve, and the deer rise again. Each round takes about a minute. If your game does not show this in 12 rounds, play 5 more. If the deer reach 40 and stay there, the tigers will catch up soon. Drop the tigers, don't aim them, or the game stops being fair.",
      "ask": [
       {
@@ -1012,19 +1107,6 @@
    "tier": "core",
    "mins": 20,
    "items": [
-    {
-     "t": "mcq",
-     "p": "In a food chain, which way does the arrow point?",
-     "opts": [
-      "From the eater to their food",
-      "From the food to the eater",
-      "From the biggest animal to the smallest",
-      "Always upwards"
-     ],
-     "a": 1,
-     "why": "The arrow points from the food to the eater. It shows which way the food goes. Picking 'from the eater to their food' is the most common mistake: it draws the arrow like a finger pointing at dinner.",
-     "art": "Grass with an arrow pointing to a goat."
-    },
     {
      "t": "mcq",
      "p": "Which of these is a producer?",
@@ -1205,7 +1287,7 @@
      "t": "write",
      "p": "Remember the ant test? Predict: if you added a fifth square with a piece of ripe banana, would ants come to it? Why do you think so?",
      "lines": 3,
-     "a": "Yes, I think many ants would come. A banana grew on a plant, and it is full of sugar. The sugar carries energy the plant made from sunlight. The ants came to sugar and chapati, which also came from plants, but not to salt, which has no food energy.",
+     "a": "Yes, I think many ants would come. A banana grew on a plant and is full of sugar. The sugar carries energy the plant made from sunlight. The ants came to sugar and chapati, which also came from plants, but not to salt, which has no food energy.",
      "why": "A strong answer makes a prediction and backs it with the test: ants came to foods made by plants, and ignored salt.",
      "context": "In the ant test, you put four paper squares near some ants: one with sugar, one with salt, one with a piece of chapati, and one with nothing. Then you count the ants on each.",
      "how": "e1"
@@ -1478,7 +1560,7 @@
     },
     {
      "t": "truefalse",
-     "p": "A poison like DDT can build up, so that a fish-eating bird holds far more of it than the same weight of lake water.",
+     "p": "A poison like DDT can build up, so that a fish-eating bird holds far more DDT than the same weight of lake water.",
      "a": true,
      "why": "True. Each eater keeps the poison from everything they ate, so it builds up at each step. This is called biomagnification.",
      "how": "a5",
@@ -1700,7 +1782,7 @@
    "days": 1,
    "question": "Which food do ants come to most: sugar, salt, chapati or nothing at all?",
    "predict": "Before you start, guess. Which square will have the most ants after 30 minutes? Which will have none? Why do you think so? Write your guess and your reason down.",
-   "fair_test": "To make it fair, change only the food. Use the same size of paper square, the same amount of each food, the same distance from the ants, and the same start time. One square has no food at all, so you can see how many ants wander onto a square by chance. Count all four squares at the same moment.",
+   "fair_test": "To make it fair, change only the food. Use the same size of paper square, a similar small amount of each food (a pinch, or a piece the size of a thumbnail), the same distance from the ants, and the same start time. One square has no food at all, so you can see how many ants wander onto a square by chance. Count all four squares at the same moment.",
    "results_table": [
     "Square",
     "Ants after 10 minutes",
@@ -1730,7 +1812,7 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "Some ants bite, especially big red ants. Watch them, but don't touch them. Wipe the place with soapy water afterwards, so the ants don't keep coming back. Don't do this next to food jars or the baby's things.",
+   "safety": "Some ants bite, especially big red ants. Watch them, but don't touch them. Wipe the place with soapy water afterwards, so the ants don't keep coming back. Don't set this up next to food jars or little children's things.",
    "schedule": [
     {
      "day": 1,
@@ -1761,7 +1843,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Find a place where you have seen ants. 2. Lay the 4 squares in a row, about one hand-width apart and about two hand-widths from the ants' path. 3. Put sugar on one, salt on the next, chapati on the third, and nothing on the fourth. 4. Note the time.",
+     "do": "1. Find a place where you have seen ants. 2. Lay the 4 squares in a row alongside the ants' path, about one hand-width apart and about two hand-widths from the path. 3. Put sugar on one, salt on the next, chapati on the third, and nothing on the fourth. 4. Note the time.",
      "say": "Let's put them all the same distance from the ants. This empty square tells us how many ants walk onto a square just by chance.",
      "kid": "Lay 4 squares in a row, one hand apart. Put sugar, salt and chapati on three. Leave one empty. Note the time.",
      "parent": "If you have not seen ants anywhere, leave a pinch of sugar in a balcony corner or by the kitchen door the evening before. Ants usually find it by morning, and then you know where to set up. You can also try the base of a tree, a crack near the kitchen door, or a balcony corner. Ants are busiest in warm weather and in the late afternoon. In the cold months there may be fewer.",
@@ -1819,7 +1901,7 @@
      "kid": "Draw one bar for each square. Make it as tall as the number of ants at 30 minutes.",
      "check": {
       "t": "mcq",
-      "q": "Ants came to the sugar and the chapati, but not to the salt. What do sugar and chapati have in common?",
+      "q": "In a test like this, ants come to sugar and chapati but not to salt. What do sugar and chapati have in common?",
       "options": [
        "Both were made by plants",
        "Both are white",
@@ -1915,7 +1997,7 @@
   {
    "id": "e2",
    "title": "Leaf Bite Survey: who is eating our plants?",
-   "mins": 30,
+   "mins": 27,
    "days": 1,
    "question": "Which plant near us gets eaten the most? And who is eating them?",
    "predict": "Look at three plants without touching them. Guess which one has the most leaves with bites or holes in them, and say why you think so. Then guess what is doing the biting.",
@@ -1946,7 +2028,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 30,
+     "mins": 27,
      "what": "Count bitten leaves on three plants. Hunt for the eaters, and for who eats them."
     }
    ],
@@ -1957,7 +2039,7 @@
      "mins": 3,
      "do": "Choose three different plants with your child. Ask them to guess which has the most bitten leaves.",
      "say": "Plants are producers. They make food, and lots of animals eat them. Which of these three plants do you think gets eaten the most?",
-     "kid": "Pick three different plants. Look, don't touch. Which one has the most bites? Guess first.",
+     "kid": "Pick three different plants. Look, don't pick. Which one has the most bites? Guess first.",
      "context": "This is the first step of the Leaf Bite Survey. You count bitten leaves on three plants, then hunt for the animals that bit them.",
      "adult": true
     },
@@ -2059,14 +2141,6 @@
        }
       ]
      }
-    },
-    {
-     "id": "s5",
-     "mins": 3,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Now say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the hibiscus gets eaten most, and tulsi least. What I saw: 9 of 20 hibiscus leaves had bites, but only 2 of 20 tulsi leaves. I found two caterpillars on the hibiscus. Why: caterpillars like hibiscus leaves, and tulsi smells strong, which may keep insects away."
     }
    ],
    "context": "This is a survey of plants near your home. You count how many leaves have bites in them, then hunt for the animals that are eating them, and the animals that eat those.",
@@ -2112,11 +2186,11 @@
   {
    "id": "e3",
    "title": "The Tube-Light Food Chain",
-   "mins": 25,
+   "mins": 22,
    "days": 1,
    "question": "Do house lizards wait where their food gathers?",
    "predict": "Guess. If one outside light is left on after dark, will more insects come to it as time goes on? Will a lizard come too? Why do you think so?",
-   "fair_test": "Watch the same light at three times: 15 minutes after sunset, 30 minutes later, and 30 minutes after that. Count for one full minute each time, from the same spot. If you can, also watch a second outside light that you keep switched off, so you can compare.",
+   "fair_test": "Watch the same light at three times: 15 minutes after sunset, 30 minutes later, and 30 minutes after that. Count for one full minute each time, from the same spot. If you have a second outside light, keep it switched off and count insects near it too, so you can compare.",
    "results_table": [
     "Time",
     "Insects near the light that is on",
@@ -2129,7 +2203,7 @@
      "qty": 1
     },
     {
-     "item": "a torch, or the torch on a phone, for checking the switched-off light",
+     "item": "a torch, or the torch on a phone, only for a quick look at the switched-off light",
      "qty": 1
     },
     {
@@ -2137,11 +2211,11 @@
      "qty": 1
     }
    ],
-   "safety": "Watch from inside a closed window or from a doorway, so insects and mosquitoes don't come in. Don't touch the lizards. A grown-up should be with you outside after dark.",
+   "safety": "Watch from inside a closed window or from a doorway, so insects and mosquitoes don't come in. Don't touch the lizards. If you go outside after dark, a grown-up should go with you.",
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 22,
      "what": "Count insects and lizards by a light three times in the evening, 30 minutes apart."
     }
    ],
@@ -2158,7 +2232,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Switch on the light about 15 minutes after sunset. Count the insects near it for one minute, and look for lizards. 2. Count again 30 minutes later. 3. Count again 30 minutes after that. 4. Each time, shine the torch near a light that is off and count the insects there.",
+     "do": "1. Switch on the light about 15 minutes after sunset. Count the insects near it for one minute, and look for lizards. 2. Do something else for 30 minutes, then count again. 3. Wait 30 minutes more, and count a third time. 4. If you have a second light that is off, count the insects near it too, with a quick look by torch.",
      "say": "Let's count for one whole minute. How many insects? Any lizards? Where are they waiting?",
      "kid": "Count the insects by the light for one minute. Look for lizards. Do it again in 30 minutes, and again 30 minutes later.",
      "adult": true,
@@ -2190,14 +2264,6 @@
       "a": 0,
       "why": "Food chains start with the producer, the plant that made the food. The moth's body was built from leaves they ate as a caterpillar. The gecko eats the moth. Picking 'light' is a clever mistake: the light brought the moth there, but the light is not food. The moth's energy came from leaves, and the leaves' energy came from the Sun."
      }
-    },
-    {
-     "id": "s4",
-     "mins": 3,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Now say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: lizards wait where their food gathers. What I saw: there were 3 insects at the first count, 12 at the second and 20 at the third. One lizard came at the second count, and two at the third. The light that was off had almost no insects. Why: the light attracts the insects to one place, so the lizards can catch them easily."
     }
    ],
    "context": "In this experiment, you watch an outside light after dark. You count the insects that gather there, and the house lizards that come to eat them.",
@@ -2259,7 +2325,6 @@
      "qty": 1
     }
    ],
-   "safety": "Go outside only with a grown-up. Watch animals from a distance.",
    "schedule": [
     {
      "day": 1,
@@ -2307,7 +2372,7 @@
    "context": "This is a short looking activity to start the unit. You find any living thing that is eating, and build their food chain back to a plant.",
    "setup": [
     {
-     "art": "A child sitting quietly at a window, looking out at a tree with a myna in it and a notebook on their lap.",
+     "art": "A child sitting quietly at a window, looking out at a tree with a myna sitting in the branches, and a notebook on their lap.",
      "caption": "1. Sit and look for 5 minutes. Find something eating."
     },
     {
@@ -2371,7 +2436,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. The grasshoppers use most of their food to hop, breathe and keep warm, and some comes out as poo. Move 9 grains into USED FOR LIVING. 2. Move 1 grain into the FROG bowl. 3. Now break that one grain into 10 crumbs. Move 9 crumbs to USED FOR LIVING, and 1 crumb to the SNAKE bowl.",
+     "do": "1. The grasshoppers use 9 of their 10 grains to hop, breathe and keep warm, and some comes out as poo. Move 9 grains into USED FOR LIVING. 2. Move 1 grain into the FROG bowl. 3. Now break that one grain into 10 crumbs. Move 9 crumbs to USED FOR LIVING, and 1 crumb to the SNAKE bowl.",
      "say": "The grasshoppers use most of their food too. Only one grain in ten passes to the frog. And the frog uses most of that. The snake gets one tiny crumb.",
      "kid": "The grasshoppers use 9 grains to live. The frog gets just 1 grain. Break it into 10 crumbs. The snake gets one crumb!",
      "check": {
@@ -2407,7 +2472,7 @@
      "caption": "2. Nine heaps are used for living. One heap goes to the grasshoppers."
     },
     {
-     "art": "A single puffed rice grain broken into crumbs, with one crumb in a small bowl with a snake drawn on it.",
+     "art": "A single puffed rice grain broken into crumbs, with one crumb in a small bowl labelled SNAKE.",
      "caption": "3. One grain reaches the frog. One crumb reaches the snake."
     }
    ]
@@ -2423,7 +2488,6 @@
      "qty": 1
     }
    ],
-   "safety": "Run on the spot on a non-slip floor. Stop if you feel dizzy.",
    "schedule": [
     {
      "day": 1,
@@ -2496,7 +2560,7 @@
      "qty": 1
     },
     {
-     "item": "12 role cards: Sun, grass, neem tree, grasshopper, caterpillar, chital deer, frog, bulbul, rat snake, tiger, vulture, mushroom",
+     "item": "12 role cards, one scrap of paper for each, with the name written on it: Sun, grass, neem tree, grasshopper, caterpillar, chital deer, frog, bulbul, rat snake, tiger, vulture, mushroom",
      "qty": 12
     },
     {
@@ -2504,7 +2568,6 @@
      "qty": 1
     }
    ],
-   "safety": "Pull gently. Wind the wool up afterwards so nobody trips on it.",
    "schedule": [
     {
      "day": 1,
@@ -2551,7 +2614,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Build the web again. This time take away the vulture and the mushroom, and talk about what would happen to dead animals and plants.",
+     "do": "Wind the wool back into the same web. This time take away the vulture and the mushroom, and talk about what would happen to dead animals and plants.",
      "say": "Now let's take away the vulture and the mushroom. What happens to every animal that dies? Where do the grass's new nutrients come from?",
      "kid": "Now take away the vulture and the mushroom. What happens to dead animals? Who cleans up now?",
      "think": "Which living thing in our web held the most threads? Is that the most important one, or just the busiest?"
@@ -2679,7 +2742,6 @@
      "qty": 1
     }
    ],
-   "safety": "Walk between the sheets, don't run on a slippery floor.",
    "schedule": [
     {
      "day": 1,
@@ -2693,14 +2755,14 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Put the six sheets around the room. 2. Put the button on AIR. 3. Explain that the button is one carbon atom, the kind every living thing is built from.",
-     "say": "This button is one carbon atom. Every leaf, goat, tiger and you are built of atoms like it. It starts in the air. Let's see where it travels.",
+     "say": "This button is one carbon atom. Every leaf, goat, tiger and you are built of atoms like this one. It starts in the air. Let's see where it travels.",
      "kid": "This button is a carbon atom. You are built from atoms like it. It starts in the AIR. Where will it go?",
      "context": "This is the first step of Journey of a Carbon Atom. You roll a dice to move one atom from the air, through living things, and back again."
     },
     {
      "id": "s2",
      "mins": 9,
-     "do": "Roll the dice at each sheet and move the atom. At AIR: 1 to 4, a leaf takes it in (go to LEAF). 5 or 6, stay in the air. At LEAF: 1 to 3, a goat eats it (GOAT). 4 to 6, the leaf falls and rots (SOIL). At GOAT: 1 or 2, a tiger eats the goat (TIGER). 3 to 6, the goat breathes it out (AIR). At TIGER: 1 to 4, the tiger breathes it out (AIR). 5 or 6, the tiger dies (SOIL). At SOIL: 1 to 6, a mushroom eats it (MUSHROOM). At MUSHROOM: 1 to 6, it is breathed out (AIR). Write each move down. Play 15 moves.",
+     "do": "Roll the dice at each sheet and move the atom. At AIR: 1 to 4, a leaf takes the atom in (go to LEAF). 5 or 6, the atom stays in the air. At LEAF: 1 to 3, a goat eats the leaf (GOAT). 4 to 6, the leaf falls and rots (SOIL). At GOAT: 1 or 2, a tiger eats the goat (TIGER). 3 to 6, the goat breathes the atom out (AIR). At TIGER: 1 to 4, the tiger breathes the atom out (AIR). 5 or 6, the tiger dies (SOIL). At SOIL: 1 to 6, a mushroom feeds on the dead body (MUSHROOM). At MUSHROOM: 1 to 6, the atom goes back into the air (AIR). Write each move down. Play 15 moves.",
      "say": "Roll the dice and read what happens. Walk the atom to its next home. Let's write down each move.",
      "kid": "Roll the dice. Read what happens. Carry the atom to its next home. Write it down. Do 15 moves.",
      "parent": "The real numbers are different, and much slower: an atom may stay in a tree for a hundred years. But the idea is right. Atoms go round and round between air, plants, animals, soil and decomposers, and are never used up."
@@ -2720,9 +2782,8 @@
        "They stay in the bones for ever"
       ],
       "a": 0,
-      "why": "Atoms are never destroyed. Beetles, fungi and bacteria eat the tiger's body. They breathe out some of the tiger's carbon into the air, and some goes into the soil. A plant can then use it again. Picking 'disappear' mixes up atoms with energy. Energy is used up as heat. Atoms are not."
-     },
-     "think": "Could one of the atoms in your hand once have been inside a tiger, or a dinosaur?"
+      "why": "Atoms are never destroyed. Beetles, fungi and bacteria eat the tiger's body. They breathe out some of the tiger's carbon into the air, and some goes into the soil. A plant can then use that carbon again. Picking 'disappear' mixes up atoms with energy. Energy is used up as heat. Atoms are not."
+     }
     }
    ],
    "context": "This is a dice game. You move one carbon atom around six homes: the air, a leaf, a goat, a tiger, the soil and a mushroom. It shows that atoms go round and round, while food energy is used up.",
@@ -2931,8 +2992,7 @@
      "mins": 5,
      "do": "Put a reminder on the calendar to check for still water again in one week.",
      "say": "Mosquitoes grow from egg to flying in about a week. So we check every week.",
-     "kid": "Mosquitoes grow up in about a week. Put a reminder to check again next week.",
-     "think": "Some places brought in a fish called gambusia to eat mosquito larvae. The gambusia then ate the eggs of local fish and frogs too. How can a helper become a problem?"
+     "kid": "Mosquitoes grow up in about a week. Put a reminder to check again next week."
     }
    ],
    "context": "This is a design challenge. You look for places where mosquitoes breed in your home, and plan how to cut them down using predators and the food web, instead of poison.",
@@ -2995,7 +3055,7 @@
       "a": 0,
       "why": "2,000 divided by 20 is 100. You can check: 100 × 20 = 2,000. Picking 40 means dividing by 50, the number of animals one tiger eats in a year, instead of by 20. Picking 2,000 forgets that each square holds many deer."
      },
-     "context": "This is the first step of the Room for a Tiger challenge. You work out how much forest a family of tigers needs, using the one-tenth rule of food chains."
+     "context": "This is the first step of the Room for a Tiger challenge. You work out how much forest a family of tigers needs, from how many prey animals each tiger needs."
     },
     {
      "id": "s2",
@@ -3014,7 +3074,7 @@
      "think": "A tiger at the top of the chain needs a whole forest of deer and grass. Who does the tiger depend on most?"
     }
    ],
-   "context": "This is a design challenge. You work out how much forest a family of tigers needs, using the one-tenth rule of food chains, and then design that forest.",
+   "context": "This is a design challenge. You work out how much forest a family of tigers needs, using how many prey animals each tiger needs, and then design that forest.",
    "setup": [
     {
      "art": "A sheet of paper with working: 4 × 500 = 2,000 and 2,000 ÷ 20 = 100, with a tiger drawn in the corner.",
@@ -3038,23 +3098,23 @@
    "youtube": "ysa5OBhXz-Q",
    "mins": 5,
    "why": "A beautiful short film about wolves returning to Yellowstone. After watching, read the card 'Did wolves change Yellowstone's rivers?' Then ask which parts scientists agree with, and which they argue about.",
-   "check": "Video id recalled, not opened from here. A parent should check it plays and is the 2014 Sustainable Human film narrated by George Monbiot. Its claims about rivers go further than the evidence, and the unit says so."
+   "check": "This 2014 film goes further than the evidence about rivers. The card 'Did wolves change Yellowstone's rivers?' says where scientists disagree."
   },
   {
-   "title": "Food chains and food webs, for children",
-   "channel": "to find",
+   "title": "What Is A Food Chain? (The Dr. Binocs Show)",
+   "channel": "Peekaboo Kidz",
    "youtube": "YuO4WB4SwCg",
    "mins": 5,
    "why": "A clear, friendly animation of food chains, food webs and producers and consumers, to watch after the explanation cards.",
-   "check": "Found by YouTube search: \"What Is A Food Chain? | The Dr. Binocs Show | Educational Videos For Kids\" by Peekaboo Kidz. Title checked automatically; a parent may still preview it."
+   "check": "Opened and checked: plays, matches the title."
   },
   {
-   "title": "India's vanishing vultures",
-   "channel": "to find",
+   "title": "Why India's Vultures Are Disappearing",
+   "channel": "DD India",
    "youtube": "Jo0LTZQ3KA4",
    "mins": 6,
-   "why": "Real footage of India's vultures, the diclofenac story and the breeding centres trying to bring them back.",
-   "check": "Found by YouTube search: \"Why India's Vultures Are Disappearing: The Veterinary Drugs Impact Explained | Connecting The Dots\" by DD India. Title checked automatically; a parent may still preview it."
+   "why": "Explains why India's vultures disappeared and how a veterinary drug was involved.",
+   "check": "Opened and checked: plays, matches the title."
   }
  ],
  "quiz": [
@@ -3113,7 +3173,7 @@
    "p": "A dead leaf falls on the soil in a flowerpot. A few months later, the leaf has gone. Where did the leaf go?",
    "opts": [
     "The wind blew it away, bit by bit",
-    "Decomposers such as fungi and bacteria broke it down into nutrients for the soil",
+    "Decomposers such as fungi and bacteria broke the leaf down into nutrients for the soil",
     "It melted in the sun"
    ],
    "a": 1,
@@ -3345,111 +3405,43 @@
  "jokes": [
   {
    "j": "Why did the grasshopper go to the doctor?",
-   "a": "It was feeling a little jumpy."
-  },
-  {
-   "j": "What did the frog order for lunch?",
-   "a": "A burger with flies on the side."
+   "a": "She was feeling a little jumpy."
   },
   {
    "j": "Why don't tigers play cards in the forest?",
    "a": "There are too many cheetahs."
   },
   {
-   "j": "What do you call a food chain with only plants?",
-   "a": "A salad."
-  },
-  {
-   "j": "Why did the vulture refuse to fly with their suitcase?",
-   "a": "It only had carrion luggage."
-  },
-  {
-   "j": "What is a mushroom's favourite room?",
-   "a": "The mush-room, of course."
-  },
-  {
-   "j": "Why was the caterpillar always late?",
-   "a": "They kept stopping for a leaf snack."
-  },
-  {
    "j": "Why did the snake study maths?",
-   "a": "It wanted to be an adder."
-  },
-  {
-   "j": "What did the grass say to the cow?",
-   "a": "Please, chew on someone else for a change."
+   "a": "He wanted to be an adder."
   },
   {
    "j": "Why did the spider become a web designer?",
-   "a": "It was great at catching things."
-  },
-  {
-   "j": "How do decomposers say goodbye?",
-   "a": "See you in the soil!"
-  },
-  {
-   "j": "What did the plankton say to the whale?",
-   "a": "You're not so big without us."
-  },
-  {
-   "j": "Why did the ant cross the kitchen?",
-   "a": "The sugar was on the other side."
-  },
-  {
-   "j": "Why are earthworms good at parties?",
-   "a": "They know how to turn things over."
-  },
-  {
-   "j": "What did the deer say when the tiger fell asleep?",
-   "a": "Phew, that was a close call!"
-  },
-  {
-   "j": "Why did the lizard sit under the tube light?",
-   "a": "It liked fast food."
+   "a": "She was already great at catching things on the web."
   },
   {
    "j": "What is a crocodile's favourite card game?",
    "a": "Snap!"
   },
   {
-   "j": "Why did the bee get married?",
-   "a": "It found its honey."
-  },
-  {
-   "j": "Why was the food web so popular?",
-   "a": "Everyone was connected."
-  },
-  {
    "j": "What is a kingfisher's favourite school subject?",
    "a": "Dive-ision."
   },
   {
-   "j": "Why did the sun go to school?",
-   "a": "To get a little brighter."
-  },
-  {
-   "j": "What did one carbon atom say to the other?",
-   "a": "I've been everywhere, and I keep coming back to you."
-  },
-  {
-   "j": "Why don't owls go out in the rain?",
-   "a": "Nobody gives a hoot about a wet owl."
+   "j": "Why did the tiger eat the clown?",
+   "a": "He wanted something that tasted funny."
   },
   {
    "j": "What did the mongoose say to the snake after their fight?",
    "a": "Let's hiss and make up."
   },
   {
-   "j": "Why did the mosquito larva love the pond?",
-   "a": "It was a great place to hang around."
+   "j": "Why did the gecko sit under the tube light?",
+   "a": "She liked fast food."
   },
   {
-   "j": "Why did the tiger eat the clown?",
-   "a": "It wanted something that tasted funny."
-  },
-  {
-   "j": "What does a crow say at dinner?",
-   "a": "I'll have a bit of everything, please."
+   "j": "Why did the bee get married?",
+   "a": "She found her honey."
   }
  ],
  "maths": [
@@ -3702,35 +3694,33 @@
    "id": "b-lens",
    "item": "A magnifying glass for children",
    "kind": "tool",
-   "why": "For looking closely at ants, caterpillars and bitten leaves.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "e1",
     "e2",
     "p1"
-   ]
+   ],
+   "why": "For looking closely at ants, caterpillars and bitten leaves."
   },
   {
    "id": "b-book",
    "item": "Who Eats What? Food Chains and Food Webs, by Patricia Lauber (Let's-Read-and-Find-Out Science)",
    "kind": "book",
-   "why": "A clear picture book about food chains and webs, for ages 5 to 9.",
    "url": "https://www.amazon.in/s?k=Who+Eats+What+Food+Chains+and+Food+Webs+Patricia+Lauber",
    "used_in": [
     "a1"
    ],
-   "plan": "If bought, read it on day 1 after Spot an Eater. Its pages can replace the first three explanation cards."
+   "why": "A clear picture book about food chains and webs, for ages 5 to 9."
   },
   {
    "id": "b-silent",
    "item": "Silent Spring, by Rachel Carson (for the parent)",
    "kind": "book",
-   "why": "The 1962 book that showed how DDT passed up food chains. A parent can read a chapter and retell it.",
    "url": "https://www.amazon.in/s?k=Silent+Spring+Rachel+Carson",
    "used_in": [
     "a5"
    ],
-   "plan": "Optional, for the parent. Read the chapter 'Elixirs of Death' or 'And No Birds Sing' before doing Poison Climbs the Chain."
+   "why": "The 1962 book that showed how DDT passed up food chains. A parent can read a chapter and retell it."
   }
  ],
  "warmup": [
@@ -3922,9 +3912,9 @@
   ],
   "art": "A circle of living things drawn as one loop, grass to deer to tiger to beetles and mushrooms to soil and back to grass, with a single golden stream of sunlight flowing into the circle from above."
  },
- "playtest": "Every activity was walked through as if done at home. The ant test (e1) needs a spot where ants already walk. It says what to do if none come in 15 minutes, and that results vary with the ant kind and season. The Leaf Bite Survey (e2) works with any three plants. Strong-smelling plants like tulsi often have few bites, which is a real result. The Tube-Light Food Chain (e3) is spread over about an hour after sunset, with about 25 minutes of watching. It works best in warm months, and says to look for spiders if no gecko comes. Deer and Tiger Toss (g2) was checked with a computer model of the rules: on one A4 sheet, with deer doubling and tigers needing 2 deer to live and 4 to have a cub, the deer usually rise, then the tigers, then both fall, within 12 rounds. This changed the game from two sheets to one sheet and from 10 to 12 rounds, and added the rule that 2 deer wander in if all are eaten. One Hundred Grains (a2) uses 10 heaps of 10 so a child is not counting 100 grains one by one. Pull One Thread (a4) works with 2 people if toys or chair legs hold the extra cards. Hungry Web (g1) and Journey of a Carbon Atom (a6) can be played alone. Use puffed rice rather than chana, and keep beads away, if a toddler is near. The mosquito challenge (c1) checks real water at home with a grown-up and empties it. It never asks you to leave water out to breed mosquitoes.",
+ "playtest": "Every game, experiment and activity was walked through as if done at home. Hungry Web: 28 cards and 60 arrow strips are listed one by one, and the game ends when no one can play or the arrows run out. Deer and Tiger Toss: 40 deer and 8 tigers are listed, tigers are capped at 8, and a tiger that lands off the paper is dropped again. The ant test (e1) needs a spot where ants already walk, results vary, and the steps say what to do if none come. The Leaf Bite Survey (e2) works with any three plants. The Tube-Light Food Chain (e3) takes about 75 minutes from first to last count, with about 22 minutes of work, works best in warm months, and says to look for spiders if no gecko comes. Use puffed rice rather than chana, and keep beads away, if a toddler is near.",
  "how_we_found_out": {
-  "story": "In the late 1990s, Vibhu Prakash of the Bombay Natural History Society saw that the vultures at Keoladeo, in Bharatpur, were dying. Sick birds sat hunched with drooping heads for days, then fell from their perches. Soon vultures were vanishing all over India and Pakistan. Most scientists first thought a new disease was spreading, perhaps a virus, because so many birds died so fast. Others blamed pesticides. A team led by Lindsay Oaks, an American vet working with the Peregrine Fund, examined dead vultures in Pakistan. Most had kidneys that had failed, but the team found no germ that could explain it. So they asked what all the birds had eaten: dead cattle. They tested the birds for medicines given to cattle. They found the painkiller diclofenac in the vultures whose kidneys had failed. Then captive vultures fed meat from a treated animal died in the same way. The answer was published in 2004. The vultures had been poisoned by their food, one step up the food chain.",
+  "story": "In the late 1990s, Vibhu Prakash of the Bombay Natural History Society saw that the vultures at Keoladeo, in Bharatpur, were dying. Sick birds sat hunched with drooping heads for days, then fell from their perches. Soon vultures were vanishing all over India and Pakistan. Most scientists first thought a new disease was spreading, perhaps a virus, because so many birds died so fast. Others blamed pesticides. A team led by Lindsay Oaks, an American vet working with the Peregrine Fund, examined dead vultures in Pakistan. Most had kidneys that had failed, but the team found no germ that could explain the deaths. So they asked what all the birds had eaten: dead cattle. They tested the birds for medicines given to cattle. They found the painkiller diclofenac in the vultures whose kidneys had failed. Then captive vultures fed meat from a treated animal died in the same way. The answer was published in 2004. The vultures had been poisoned by their food, one step up the food chain.",
   "who": "Vibhu Prakash of the Bombay Natural History Society, and Lindsay Oaks and his team",
   "when": "Late 1990s to 2004",
   "wrong_idea": "Many scientists first thought a new infectious disease, perhaps a virus, was killing the vultures."

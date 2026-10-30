@@ -141,7 +141,7 @@ People have long said that nature has a balance: if nothing disturbs it, every a
 - Some poisons build up as they pass up a food chain. *How we know:* DDT was measured in water, plankton, fish and birds. It was weakest in the water and strongest in the birds at the top. Ospreys' and eagles' eggshells got thinner, then thicker again after DDT was banned.
 
 ## How we found out
-**Vibhu Prakash of the Bombay Natural History Society, and Lindsay Oaks and his team, Late 1990s to 2004.** In the late 1990s, Vibhu Prakash of the Bombay Natural History Society saw that the vultures at Keoladeo, in Bharatpur, were dying. Sick birds sat hunched with drooping heads for days, then fell from their perches. Soon vultures were vanishing all over India and Pakistan. Most scientists first thought a new disease was spreading, perhaps a virus, because so many birds died so fast. Others blamed pesticides. A team led by Lindsay Oaks, an American vet working with the Peregrine Fund, examined dead vultures in Pakistan. Most had kidneys that had failed, but the team found no germ that could explain it. So they asked what all the birds had eaten: dead cattle. They tested the birds for medicines given to cattle. They found the painkiller diclofenac in the vultures whose kidneys had failed. Then captive vultures fed meat from a treated animal died in the same way. The answer was published in 2004. The vultures had been poisoned by their food, one step up the food chain.  
+**Vibhu Prakash of the Bombay Natural History Society, and Lindsay Oaks and his team, Late 1990s to 2004.** In the late 1990s, Vibhu Prakash of the Bombay Natural History Society saw that the vultures at Keoladeo, in Bharatpur, were dying. Sick birds sat hunched with drooping heads for days, then fell from their perches. Soon vultures were vanishing all over India and Pakistan. Most scientists first thought a new disease was spreading, perhaps a virus, because so many birds died so fast. Others blamed pesticides. A team led by Lindsay Oaks, an American vet working with the Peregrine Fund, examined dead vultures in Pakistan. Most had kidneys that had failed, but the team found no germ that could explain the deaths. So they asked what all the birds had eaten: dead cattle. They tested the birds for medicines given to cattle. They found the painkiller diclofenac in the vultures whose kidneys had failed. Then captive vultures fed meat from a treated animal died in the same way. The answer was published in 2004. The vultures had been poisoned by their food, one step up the food chain.  
 *What people believed before:* Many scientists first thought a new infectious disease, perhaps a virus, was killing the vultures.
 
 ## Challenging perspectives
@@ -253,9 +253,9 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 
 ## Games
 ### g1 · Hungry Web (20 min)
-- **rules:** Put the SUN card in the middle of the floor. Shuffle the other 27 cards and deal 5 to each player. Put the rest face down in a pile.; On your turn, play one card from your hand. Put it near the cards it eats. A producer goes near the SUN.; Lay one arrow strip from each food already on the floor to your card. The arrow always points to the eater. Score 1 point for each arrow.; A CLEAN-UP card can join to up to 3 cards already on the floor, because everything dies in the end. It scores 1 point for each arrow.; If you cannot play, take a card from the pile and miss your turn. If someone lays a wrong arrow, any player can say 'Wrong way!' and take that point.; When nobody can play, the player with the most points wins. Then play the last round: Pull One Card.; Playing alone: play every card yourself, one at a time, as cleverly as you can. Count all your arrows. Write your score and try to beat it next time. The best scores are over 40.
+- **rules:** Put the SUN card in the middle of the floor. Shuffle the other 27 cards and deal 5 to each player. Put the rest face down in a pile.; On your turn, play one card from your hand. Put it near the cards it eats. A producer goes near the SUN.; Lay one arrow strip from each food already on the floor to your card. The arrow always points to the eater. Score 1 point for each arrow.; A CLEAN-UP card can join to up to 3 cards already on the floor, because everything dies in the end. It scores 1 point for each arrow.; If you cannot play, take a card from the pile and miss your turn. If the pile is empty, just miss your turn. If someone lays a wrong arrow, any player can say 'Wrong way!' and take that point.; When nobody can play, or the arrow strips run out, the player with the most points wins. Then play the last round: Pull One Card.; Playing alone: play every card yourself, one at a time, as cleverly as you can. Count all your arrows. Write your score and try to beat it next time. The best scores are over 40.
 - **Printable cards: 28 living-thing cards to cut out (each card says what that living thing eats):** SUN: the start of everything. Goes in the middle.; Grass: a producer. Needs the SUN.; Neem tree: a producer. Needs the SUN.; Rice plant: a producer. Needs the SUN.; Mango tree: a producer. Needs the SUN.; Pond algae: a producer. Needs the SUN.; Flowers: a producer. Needs the SUN.; Grasshopper: eats grass, rice plant.; Caterpillar: eats mango tree leaves, rice plant, flowers.; Chital deer: eats grass, neem tree leaves, mango tree leaves.; Rat: eats rice plant, grass seeds, mango.; Honeybee: eats flowers (nectar and pollen).; Mosquito larva: eats pond algae.; Parrot: eats mango, rice plant, neem tree fruit.; Frog: eats grasshopper, caterpillar, honeybee, mosquito larva.; Spider: eats grasshopper, honeybee, caterpillar.; Small fish: eats mosquito larva, pond algae.; Rat snake: eats rat, frog.; Kingfisher: eats small fish, frog.; Owl: eats rat, frog.; Crested serpent eagle: eats rat snake, frog.; Tiger: eats chital deer.; Crow: eats rice plant, mango, caterpillar, frog, rat.; Mongoose: eats rat, rat snake, frog, grasshopper.; Human: eats rice plant, mango, small fish, honeybee's honey.; CLEAN-UP Vulture: eats any dead animal. Join to up to 3 animals.; CLEAN-UP Mushroom: eats any dead plant or animal. Join to up to 3 cards.; CLEAN-UP Earthworm: eats dead leaves. Join to up to 3 plants.
-- **Printable tokens: 40 arrow strips (thin strips of paper, about as long as a finger, with an arrowhead drawn at one end):** →
+- **Printable tokens: 60 arrow strips (thin strips of paper, about as long as a finger, with an arrowhead drawn at one end):** →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →; →
 - **Printable score sheet: Hungry Web score sheet:** Player; Card played; Arrows made; Running total
 - **s1 (3 min)**  
   *Parent does:* 1. Put the SUN card in the middle of the floor. 2. Shuffle the other cards and deal 5 to each player. 3. Put the arrow strips in a bowl.  
@@ -265,7 +265,6 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Parent does:* Play the first two cards together as practice. Put Grass next to the SUN with one arrow. Then put Grasshopper next to Grass with one arrow.  
   *Parent says:* Let's practise. Grass needs the Sun, so the arrow goes from the Sun to the grass. Now the grasshopper eats the grass. Which way does that arrow point?  
   *Child mode:* Practice! Put Grass by the SUN. Lay an arrow. Now put Grasshopper by the Grass. Which way does the arrow point?
-  - Check: The grasshopper eats the grass. Which arrow is right? → **Grass → Grasshopper**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns. Each player plays one card and lays arrows from its foods. 2. Count the arrows and write the score. 3. Ask each player to read their new arrows out loud.  
   *Parent says:* Read your arrows out loud. For example: the frog eats the grasshopper, and the frog eats the caterpillar. That's two points.  
@@ -279,19 +278,19 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   - Check: If all the frogs disappeared from a rice field, what would most likely happen to the grasshoppers? → **They would increase, because fewer animals eat them**
   - Think: Which card, if you pulled it out, would break the most arrows? Is that the most important living thing in the web?
 ### g2 · Deer and Tiger Toss (25 min)
-- **rules:** Put one A4 sheet on the floor. This is the forest.; Round 1: scatter 6 deer squares on the forest. Put 1 tiger on the side.; Hunting: kneel beside the forest. Drop each tiger square from about the height of your head, so it lands on the forest. Every deer it touches is eaten. Take those deer away.; A tiger that ate 0 or 1 deer starves. Take that tiger away. A tiger that ate 2 or 3 survives. A tiger that ate 4 or more survives and also has a cub: add one tiger for the next round.; Then the deer have babies. Count the deer left, and add the same number again. The forest only has grass for 40 deer, so never go over 40.; If all the tigers starve, one new tiger wanders in from the next forest at the start of the next round. If all the deer are eaten, 2 deer wander in.; Write the numbers on the record sheet. Play 12 rounds. Then look at your numbers: what happened to the deer, and to the tigers?
-- **Printable tokens: 40 deer squares (cut from paper, each about 2 cm across, the size of a fingernail):** 🦌
-- **Printable tokens: 8 tiger squares (cut from thick card, each about 10 cm across, the size of a hand):** 🐅
+- **rules:** Put one A4 sheet on the floor. This is the forest.; Round 1: scatter 6 deer squares on the forest. Put 1 tiger on the side.; Hunting: kneel beside the forest. Players take turns to drop each tiger square, one at a time, from about the height of your head. Every deer square she touches is eaten. Take those deer away before the next tiger drops. If a tiger lands completely off the paper, drop her again.; A tiger that ate 0 or 1 deer starves. Take her away. A tiger that ate 2 or 3 survives. A tiger that ate 4 or more survives and also has a cub: add one tiger for the next round, up to 8 tigers in all.; Then the deer have babies. Count the deer left, and add the same number of new deer squares. Scatter them on the forest. The forest only has grass for 40 deer, so never go over 40.; If all the tigers starve, one new tiger wanders in from the next forest at the start of the next round. If all the deer are eaten, 2 deer wander in.; Write the numbers on the record sheet. Play 12 rounds. Then look at your numbers: what happened to the deer, and to the tigers?
+- **Printable tokens: 40 deer squares (cut from paper, each about 2 cm across, the size of a fingernail):** 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌; 🦌
+- **Printable tokens: 8 tiger squares (cut from thick card, each about 10 cm across, the size of a hand):** 🐅; 🐅; 🐅; 🐅; 🐅; 🐅; 🐅; 🐅
 - **Printable board: The forest: one sheet of A4 paper, or a page of a school notebook opened flat:** FOREST
 - **Printable score sheet: Deer and tiger record:** Round; Deer at the start; Deer eaten; Deer left; Tigers at the start; Tigers that starved; New cubs
 - **s1 (6 min)**  
-  *Parent does:* 1. Cut 40 small paper squares for deer and 8 hand-sized card squares for tigers. 2. Put one A4 sheet on the floor as the forest. 3. Put 6 deer on the forest and 1 tiger beside it.  
+  *Parent does:* 1. Cut 40 small paper squares for deer and 8 hand-sized card squares for tigers. 2. Put one A4 sheet on the floor as the forest. 3. Put 6 deer on the forest and 1 tiger beside the forest.  
   *Parent says:* This paper is a forest. These little squares are deer. This big square is a tiger. Let's see what happens to them over many years.  
-  *Child mode:* Cut 40 small deer squares and 8 big tiger squares. One sheet of paper is the forest. Put 6 deer on it. One tiger waits beside it.
+  *Child mode:* Cut 40 small deer squares and 8 big tiger squares. One sheet of paper is the forest. Put 6 deer on the forest. One tiger waits beside the paper.
 - **s2 (14 min)**  
-  *Parent does:* 1. Each round, drop each tiger once from head height onto the forest. 2. Remove the deer the tiger touches. 3. Decide which tigers starve or have a cub. 4. Double the deer that are left, up to 40. 5. Write the numbers on the record sheet. 6. Play 12 rounds.  
-  *Parent says:* Drop the tiger. How many deer did they catch? Is that enough to survive? Now the deer have babies. Let's write down the numbers.  
-  *Child mode:* Drop each tiger from head height. Take away every deer they touch. Did they eat 2? They live. 4? They have a cub! Then double the deer. Write it down.
+  *Parent does:* 1. Each round, players take turns to drop each tiger once from head height onto the forest. 2. Remove the deer she touches. 3. Decide which tigers starve or have a cub. 4. Double the deer that are left, up to 40. 5. Write the numbers on the record sheet. 6. Play 12 rounds.  
+  *Parent says:* Drop the tiger. How many deer did she catch? Is that enough to survive? Now the deer have babies. Let's write down the numbers.  
+  *Child mode:* Drop each tiger from head height. Take away every deer she touches. Did she eat 2? She lives. 4? She has a cub! Then double the deer. Write it down.
   - Ask: Why do the tigers do badly when there are only a few deer? (good: There isn't enough food for them.; The tiger misses because the deer are spread out.)
   - Note: The numbers depend on luck, so every game is different. Usually the deer increase for a few rounds while the single tiger struggles. Then, with lots of deer, the tigers catch more and have cubs. With many tigers, the deer fall. Then the tigers starve, and the deer rise again. Each round takes about a minute. If your game does not show this in 12 rounds, play 5 more. If the deer reach 40 and stay there, the tigers will catch up soon. Drop the tigers, don't aim them, or the game stops being fair.
 - **s3 (5 min)**  
@@ -305,8 +304,8 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 ### e1 · Sugar, Salt or Chapati? What do ants choose? (45 min)
 - **question:** Which food do ants come to most: sugar, salt, chapati or nothing at all?
 - **predict:** Before you start, guess. Which square will have the most ants after 30 minutes? Which will have none? Why do you think so? Write your guess and your reason down.
-- **fair test:** To make it fair, change only the food. Use the same size of paper square, the same amount of each food, the same distance from the ants, and the same start time. One square has no food at all, so you can see how many ants wander onto a square by chance. Count all four squares at the same moment.
-- **safety:** Some ants bite, especially big red ants. Watch them, but don't touch them. Wipe the place with soapy water afterwards, so the ants don't keep coming back. Don't do this next to food jars or the baby's things.
+- **fair test:** To make it fair, change only the food. Use the same size of paper square, a similar small amount of each food (a pinch, or a piece the size of a thumbnail), the same distance from the ants, and the same start time. One square has no food at all, so you can see how many ants wander onto a square by chance. Count all four squares at the same moment.
+- **safety:** Some ants bite, especially big red ants. Watch them, but don't touch them. Wipe the place with soapy water afterwards, so the ants don't keep coming back. Don't set this up next to food jars or little children's things.
 - **record:** Fill in the table. Then draw a bar chart with one bar for each square, as tall as the number of ants after 30 minutes.
 - **results table:** Square | Ants after 10 minutes | Ants after 20 minutes | Ants after 30 minutes
 - **s1 (4 min)**  
@@ -315,7 +314,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Child mode:* Ants can't make their own food. They must find it. Will they go to the sugar, the salt or the chapati? Write your guess.
   - Ask: Why did you choose that one? (good: Ants like sweet things.; I have seen ants on sugar.; Chapati is food, but salt is not really food.)
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* 1. Find a place where you have seen ants. 2. Lay the 4 squares in a row, about one hand-width apart and about two hand-widths from the ants' path. 3. Put sugar on one, salt on the next, chapati on the third, and nothing on the fourth. 4. Note the time.  
+  *Parent does:* 1. Find a place where you have seen ants. 2. Lay the 4 squares in a row alongside the ants' path, about one hand-width apart and about two hand-widths from the path. 3. Put sugar on one, salt on the next, chapati on the third, and nothing on the fourth. 4. Note the time.  
   *Parent says:* Let's put them all the same distance from the ants. This empty square tells us how many ants walk onto a square just by chance.  
   *Child mode:* Lay 4 squares in a row, one hand apart. Put sugar, salt and chapati on three. Leave one empty. Note the time.
   - Note: If you have not seen ants anywhere, leave a pinch of sugar in a balcony corner or by the kitchen door the evening before. Ants usually find it by morning, and then you know where to set up. You can also try the base of a tree, a crack near the kitchen door, or a balcony corner. Ants are busiest in warm weather and in the late afternoon. In the cold months there may be fewer.
@@ -328,13 +327,13 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Parent does:* Draw a bar chart together, with one bar for each square, using the 30-minute numbers.  
   *Parent says:* Each square gets one bar. The taller the bar, the more ants came to that food.  
   *Child mode:* Draw one bar for each square. Make it as tall as the number of ants at 30 minutes.
-  - Check: Ants came to the sugar and the chapati, but not to the salt. What do sugar and chapati have in common? → **Both were made by plants**
+  - Check: In a test like this, ants come to sugar and chapati but not to salt. What do sugar and chapati have in common? → **Both were made by plants**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Now say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: ants choose food that came from plants, most of all sugar. What I saw: 23 ants on the sugar and 7 on the chapati after 30 minutes, but none on the salt. Why: sugar and chapati carry energy that plants made from sunlight, and salt has no energy for ants. So the ants are part of a food chain: sugarcane → ant.
-### e2 · Leaf Bite Survey: who is eating our plants? (30 min)
+### e2 · Leaf Bite Survey: who is eating our plants? (27 min)
 - **question:** Which plant near us gets eaten the most? And who is eating them?
 - **predict:** Look at three plants without touching them. Guess which one has the most leaves with bites or holes in them, and say why you think so. Then guess what is doing the biting.
 - **fair test:** To make it fair, look at the same number of leaves on each plant: 20. Take them in order along a stem, not just the ones that look interesting. Count a leaf as bitten if it has any hole, chewed edge or trail on it.
@@ -344,7 +343,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Choose three different plants with your child. Ask them to guess which has the most bitten leaves.  
   *Parent says:* Plants are producers. They make food, and lots of animals eat them. Which of these three plants do you think gets eaten the most?  
-  *Child mode:* Pick three different plants. Look, don't touch. Which one has the most bites? Guess first.
+  *Child mode:* Pick three different plants. Look, don't pick. Which one has the most bites? Guess first.
 - **s2 (10 min)**  
   *Parent does:* 1. On each plant, look at 20 leaves in a row along a stem. 2. Count how many have a hole, a chewed edge or a wiggly trail. 3. Write the numbers in the table.  
   *Parent says:* Count 20 leaves on each plant, one after another. Any hole, chewed edge or wiggly trail counts as a bite.  
@@ -361,16 +360,11 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Parent says:* Let's draw a bar for each plant. Then let's draw one real food chain from our plants.  
   *Child mode:* Draw a bar for each plant. Then draw one real chain, like hibiscus → caterpillar → bulbul.
   - Check: You found a caterpillar on a hibiscus leaf, and saw a bulbul eat a caterpillar. Which food chain is right? → **Hibiscus → caterpillar → bulbul**
-- **s5 (3 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Now say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the hibiscus gets eaten most, and tulsi least. What I saw: 9 of 20 hibiscus leaves had bites, but only 2 of 20 tulsi leaves. I found two caterpillars on the hibiscus. Why: caterpillars like hibiscus leaves, and tulsi smells strong, which may keep insects away.
-### e3 · The Tube-Light Food Chain (25 min)
+### e3 · The Tube-Light Food Chain (22 min)
 - **question:** Do house lizards wait where their food gathers?
 - **predict:** Guess. If one outside light is left on after dark, will more insects come to it as time goes on? Will a lizard come too? Why do you think so?
-- **fair test:** Watch the same light at three times: 15 minutes after sunset, 30 minutes later, and 30 minutes after that. Count for one full minute each time, from the same spot. If you can, also watch a second outside light that you keep switched off, so you can compare.
-- **safety:** Watch from inside a closed window or from a doorway, so insects and mosquitoes don't come in. Don't touch the lizards. A grown-up should be with you outside after dark.
+- **fair test:** Watch the same light at three times: 15 minutes after sunset, 30 minutes later, and 30 minutes after that. Count for one full minute each time, from the same spot. If you have a second outside light, keep it switched off and count insects near it too, so you can compare.
+- **safety:** Watch from inside a closed window or from a doorway, so insects and mosquitoes don't come in. Don't touch the lizards. If you go outside after dark, a grown-up should go with you.
 - **record:** Fill in the table. Draw the food chain you saw. Write what time the first lizard came.
 - **results table:** Time | Insects near the light that is on | Lizards near the light that is on | Insects near the light that is off
 - **s1 (4 min)**  
@@ -378,7 +372,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Parent says:* Tonight we'll be nature detectives at our own window. Lots of insects fly to lights at night. Who do you think comes to eat them?  
   *Child mode:* Tonight you will watch a light after dark. Will insects come? Will anything come to eat them? Guess first.
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* 1. Switch on the light about 15 minutes after sunset. Count the insects near it for one minute, and look for lizards. 2. Count again 30 minutes later. 3. Count again 30 minutes after that. 4. Each time, shine the torch near a light that is off and count the insects there.  
+  *Parent does:* 1. Switch on the light about 15 minutes after sunset. Count the insects near it for one minute, and look for lizards. 2. Do something else for 30 minutes, then count again. 3. Wait 30 minutes more, and count a third time. 4. If you have a second light that is off, count the insects near it too, with a quick look by torch.  
   *Parent says:* Let's count for one whole minute. How many insects? Any lizards? Where are they waiting?  
   *Child mode:* Count the insects by the light for one minute. Look for lizards. Do it again in 30 minutes, and again 30 minutes later.
   - Ask: Where did the lizard wait? (good: Right next to the light.; On the wall, near where the insects land.)
@@ -388,15 +382,9 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Parent says:* The moth grew up as a caterpillar, eating leaves. So what is the whole food chain?  
   *Child mode:* Draw the chain. Start with a plant. The moth was a caterpillar once, eating leaves.
   - Check: A gecko eats a moth by the light. The moth, when they were a caterpillar, ate leaves. Which is the full food chain? → **Leaves → moth → gecko**
-- **s4 (3 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Now say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: lizards wait where their food gathers. What I saw: there were 3 insects at the first count, 12 at the second and 20 at the third. One lizard came at the second count, and two at the third. The light that was off had almost no insects. Why: the light attracts the insects to one place, so the lizards can catch them easily.
 
 ## Activities
 ### a1 · Spot an Eater (15 min)
-- **safety:** Go outside only with a grown-up. Watch animals from a distance.
 - **record:** Write or draw one food chain of four links, with arrows that point to the eater.
 - **s1 (7 min)**  
   *Parent does:* 1. Sit at a window, on a balcony or in a garden for 5 minutes. 2. Together, look for any living thing that is eating, or hunting. 3. Write down who is eating, and what.  
@@ -425,7 +413,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Parent says:* Grasshoppers eat only some of the grass. The rest dies and feeds the decomposers. And the grasshoppers use most of what they eat just to live. Out of 100 grains, how many do you think become grasshopper?  
   *Child mode:* Grasshoppers eat only some of the grass. They use most of it just to live. Put 9 heaps in USED FOR LIVING. Only 1 heap becomes grasshopper. That is 10 grains.
 - **s3 (4 min)**  
-  *Parent does:* 1. The grasshoppers use most of their food to hop, breathe and keep warm, and some comes out as poo. Move 9 grains into USED FOR LIVING. 2. Move 1 grain into the FROG bowl. 3. Now break that one grain into 10 crumbs. Move 9 crumbs to USED FOR LIVING, and 1 crumb to the SNAKE bowl.  
+  *Parent does:* 1. The grasshoppers use 9 of their 10 grains to hop, breathe and keep warm, and some comes out as poo. Move 9 grains into USED FOR LIVING. 2. Move 1 grain into the FROG bowl. 3. Now break that one grain into 10 crumbs. Move 9 crumbs to USED FOR LIVING, and 1 crumb to the SNAKE bowl.  
   *Parent says:* The grasshoppers use most of their food too. Only one grain in ten passes to the frog. And the frog uses most of that. The snake gets one tiny crumb.  
   *Child mode:* The grasshoppers use 9 grains to live. The frog gets just 1 grain. Break it into 10 crumbs. The snake gets one crumb!
   - Check: The field started with 100 grains of food. How much reached the snake? → **One tiny crumb, a tenth of one grain**
@@ -436,7 +424,6 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   - Note: A real field has many grasshoppers, frogs and snakes, but the pattern is the same. Scientists find that usually between one twentieth and one fifth passes on, so one tenth is a good round number. This is why chains are short, and why there are so few top predators.
   - Think: If an eagle ate the snake, how much would the eagle get? Could anything big live above the eagle?
 ### a3 · Run and Feel the Warmth (10 min)
-- **safety:** Run on the spot on a non-slip floor. Stop if you feel dizzy.
 - **record:** Write three ways you could tell your body was using energy: for example, hot face, fast breathing, sweat.
 - **s1 (3 min)**  
   *Parent does:* 1. Feel your child's forehead and count their breaths for 15 seconds. 2. Run on the spot together, fast, for one minute.  
@@ -454,7 +441,6 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   - Note: People, birds and other mammals use a large share of their food just to stay warm, all day and all night. Cold-blooded animals like frogs, snakes and lizards do not, so they need far less food. A snake can live for weeks on one meal. A shrew must eat almost all the time.
   - Think: You are warm right now, even sitting still. How much of your food do you think goes into just keeping warm?
 ### a4 · Pull One Thread: a wool food web (20 min)
-- **safety:** Pull gently. Wind the wool up afterwards so nobody trips on it.
 - **record:** Draw the web you made. Circle the living thing that had the most threads.
 - **s1 (4 min)**  
   *Parent does:* 1. Sit in a circle. 2. Give each person one or more role cards. 3. With only 2 or 3 people, tie the extra cards to chair legs, toys or bottles placed around the circle.  
@@ -471,7 +457,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Child mode:* Pull the web tight. A drought kills the grass! Grass lets go. Did you feel a tug? Who is still holding on?
   - Check: In the wool web, the grass let go. Which living thing felt it, even though they never eat grass? → **The tiger, because the deer they eat needed the grass**
 - **s4 (3 min)**  
-  *Parent does:* Build the web again. This time take away the vulture and the mushroom, and talk about what would happen to dead animals and plants.  
+  *Parent does:* Wind the wool back into the same web. This time take away the vulture and the mushroom, and talk about what would happen to dead animals and plants.  
   *Parent says:* Now let's take away the vulture and the mushroom. What happens to every animal that dies? Where do the grass's new nutrients come from?  
   *Child mode:* Now take away the vulture and the mushroom. What happens to dead animals? Who cleans up now?
   - Think: Which living thing in our web held the most threads? Is that the most important one, or just the busiest?
@@ -497,14 +483,13 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Child mode:* India's vultures were poisoned by a cow medicine. One meal could kill them. What an animal eats passes up the web.
   - Think: Is there anything we put into the world that ends up coming back to us through our food?
 ### a6 · Journey of a Carbon Atom (a dice game) (15 min)
-- **safety:** Walk between the sheets, don't run on a slippery floor.
 - **record:** Write the atom's whole journey with arrows. Count how many times it came back to the AIR.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the six sheets around the room. 2. Put the button on AIR. 3. Explain that the button is one carbon atom, the kind every living thing is built from.  
-  *Parent says:* This button is one carbon atom. Every leaf, goat, tiger and you are built of atoms like it. It starts in the air. Let's see where it travels.  
+  *Parent says:* This button is one carbon atom. Every leaf, goat, tiger and you are built of atoms like this one. It starts in the air. Let's see where it travels.  
   *Child mode:* This button is a carbon atom. You are built from atoms like it. It starts in the AIR. Where will it go?
 - **s2 (9 min)**  
-  *Parent does:* Roll the dice at each sheet and move the atom. At AIR: 1 to 4, a leaf takes it in (go to LEAF). 5 or 6, stay in the air. At LEAF: 1 to 3, a goat eats it (GOAT). 4 to 6, the leaf falls and rots (SOIL). At GOAT: 1 or 2, a tiger eats the goat (TIGER). 3 to 6, the goat breathes it out (AIR). At TIGER: 1 to 4, the tiger breathes it out (AIR). 5 or 6, the tiger dies (SOIL). At SOIL: 1 to 6, a mushroom eats it (MUSHROOM). At MUSHROOM: 1 to 6, it is breathed out (AIR). Write each move down. Play 15 moves.  
+  *Parent does:* Roll the dice at each sheet and move the atom. At AIR: 1 to 4, a leaf takes the atom in (go to LEAF). 5 or 6, the atom stays in the air. At LEAF: 1 to 3, a goat eats the leaf (GOAT). 4 to 6, the leaf falls and rots (SOIL). At GOAT: 1 or 2, a tiger eats the goat (TIGER). 3 to 6, the goat breathes the atom out (AIR). At TIGER: 1 to 4, the tiger breathes the atom out (AIR). 5 or 6, the tiger dies (SOIL). At SOIL: 1 to 6, a mushroom feeds on the dead body (MUSHROOM). At MUSHROOM: 1 to 6, the atom goes back into the air (AIR). Write each move down. Play 15 moves.  
   *Parent says:* Roll the dice and read what happens. Walk the atom to its next home. Let's write down each move.  
   *Child mode:* Roll the dice. Read what happens. Carry the atom to its next home. Write it down. Do 15 moves.
   - Note: The real numbers are different, and much slower: an atom may stay in a tree for a hundred years. But the idea is right. Atoms go round and round between air, plants, animals, soil and decomposers, and are never used up.
@@ -513,7 +498,6 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Parent says:* Did the atom ever stop for good? Did it ever get used up? Food energy gets used up at every step. But the atoms just keep going round.  
   *Child mode:* Read your atom's journey. Did it ever get used up? Food energy gets used up. Atoms just keep going round.
   - Check: What happens to the carbon atoms in a tiger's body after they die? → **Decomposers break the body down, and the atoms go back to the soil and air**
-  - Think: Could one of the atoms in your hand once have been inside a tiger, or a dinosaur?
 
 ## Projects
 ### p1 · Our Street's Food Web (70 min, 5 days)
@@ -571,7 +555,6 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Parent does:* Put a reminder on the calendar to check for still water again in one week.  
   *Parent says:* Mosquitoes grow from egg to flying in about a week. So we check every week.  
   *Child mode:* Mosquitoes grow up in about a week. Put a reminder to check again next week.
-  - Think: Some places brought in a fish called gambusia to eat mosquito larvae. The gambusia then ate the eggs of local fish and frogs too. How can a helper become a problem?
 ### c2 · Room for a Tiger (30 min)
 - **problem:** Your job is to design a forest that can feed a family of 4 tigers, year after year. Each tiger needs about 500 deer and other prey animals alive in their forest. In our made-up forest, one square of land, 1 kilometre on each side, has grass and leaves for about 20 deer.
 - **your turn:** Lay out your own tiger forest with paper squares. Mark water, cover, villages and corridors. Explain why your forest will still feed the tigers in ten years.
@@ -595,42 +578,39 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   - Think: A tiger at the top of the chain needs a whole forest of deer and grass. Who does the tiger depend on most?
 
 ## Worksheets
-### Who Eats Whom? (core) (core, 16 questions)
-1. (mcq) In a food chain, which way does the arrow point?  
-   Options: From the eater to their food / From the food to the eater / From the biggest animal to the smallest / Always upwards  
-   **Answer:** From the food to the eater. *Why:* The arrow points from the food to the eater. It shows which way the food goes. Picking 'from the eater to their food' is the most common mistake: it draws the arrow like a finger pointing at dinner.
-2. (mcq) Which of these is a producer?  
+### Who Eats Whom? (core) (core, 15 questions)
+1. (mcq) Which of these is a producer?  
    Options: A cow / A mango tree / A mushroom / A tiger  
    **Answer:** A mango tree. *Why:* A mango tree makes their own food from sunlight, air and water, so the tree is a producer. Picking the mushroom is a common mix-up, because mushrooms grow from the ground like plants. But a mushroom cannot make food from light. They eat dead things, so they are a decomposer.
-3. (fill) Animals cannot make their own food. They must eat other living things, so they are called ____.  
+2. (fill) Animals cannot make their own food. They must eat other living things, so they are called ____.  
    **Answer:** ['consumers', 'consumer']. *Why:* To consume means to eat or use up. A deer, a frog and a tiger are all consumers. Only plants and algae are producers.
-4. (sort) Sort these animals. Do they eat plants, animals, or both?  
+3. (sort) Sort these animals. Do they eat plants, animals, or both?  
    **Answer:** chital deer → Herbivore (plants); grasshopper → Herbivore (plants); tiger → Carnivore (animals); frog → Carnivore (animals); crow → Omnivore (both); sloth bear → Omnivore (both). *Why:* Deer and grasshoppers eat only plants. Tigers and frogs eat only animals. Crows and sloth bears eat fruit, insects and much more, so they are omnivores.
-5. (order) Put this food chain in the right order: snake, grass, frog, grasshopper.  
+4. (order) Put this food chain in the right order: snake, grass, frog, grasshopper.  
    **Answer:** order shown. *Why:* The chain starts with the producer, grass. The grasshopper eats grass, the frog eats the grasshopper, and the snake eats the frog.
-6. (truefalse) A cow never eats sunlight. But the energy in her body first came from the Sun.  
+5. (truefalse) A cow never eats sunlight. But the energy in her body first came from the Sun.  
    **Answer:** True. *Why:* True. The cow eats grass. The grass made their food using energy from sunlight. So the cow's energy came from the Sun, one step back. A strong answer follows the energy back along the chain.
-7. (truefalse) A food chain's arrows show which animal is bigger.  
+6. (truefalse) A food chain's arrows show which animal is bigger.  
    **Answer:** False. *Why:* False. The arrows show which way the food goes, from the food to the eater. A tiny mosquito drinks a big buffalo's blood, and a huge whale eats tiny krill. Size has nothing to do with the direction.
-8. (fill) Many food chains joined together make a food ____.  
+7. (fill) Many food chains joined together make a food ____.  
    **Answer:** ['web']. *Why:* A food web shows all the 'who eats whom' links in one place, crossing like the threads of a net.
-9. (match) Match each word to what it means.  
+8. (match) Match each word to what it means.  
    **Answer:** Predator → an animal that hunts other animals; Prey → an animal that is hunted; Scavenger → an animal that eats animals already dead; Decomposer → a living thing that breaks down dead plants and animals into nutrients for the soil. *Why:* A kingfisher is a predator and a small fish their prey. A vulture is a scavenger. A mushroom is a decomposer.
-10. (odd) Which is the odd one out: tiger, kingfisher, frog, goat? Say why.  
+9. (odd) Which is the odd one out: tiger, kingfisher, frog, goat? Say why.  
    **Answer:** The goat. *Why:* The goat eats only plants, so goats are herbivores. The tiger, the kingfisher and the frog all eat animals, so they are carnivores.
-11. (mcq) Look at the chart. Ants came most to the sugar and the chapati, and not to the salt. Why?  
+10. (mcq) Look at the chart. Ants came most to the sugar and the chapati, and not to the salt. Why?  
    Options: Ants cannot see salt / Ants only like white things / Salt is too heavy for ants / Sugar and chapati came from plants and carry food energy. Salt has none.  
    **Answer:** Sugar and chapati came from plants and carry food energy. Salt has none.. *Why:* Sugar comes from sugarcane and chapati from wheat. Both carry energy a plant made from sunlight. Salt comes from the sea or rocks and gives no energy. Picking 'only like white things' cannot be right: salt is white too, and the ants ignored it.
-12. (mcq) In the ant test, why did we put one square with nothing on it?  
+11. (mcq) In the ant test, why did we put one square with nothing on it?  
    Options: To see how many ants walk onto a square just by chance / To make the test harder / To give the ants a rest / Because we ran out of food  
    **Answer:** To see how many ants walk onto a square just by chance. *Why:* The empty square shows how many ants arrive by accident. If the sugar square has many more than the empty one, we know the sugar attracted them. Picking 'to give the ants a rest' is a kind idea, but it would not help us learn anything.
-13. (write) Remember the ant test? Predict: if you added a fifth square with a piece of ripe banana, would ants come to it? Why do you think so?  
-   **Answer:** Yes, I think many ants would come. A banana grew on a plant, and it is full of sugar. The sugar carries energy the plant made from sunlight. The ants came to sugar and chapati, which also came from plants, but not to salt, which has no food energy.. *Why:* A strong answer makes a prediction and backs it with the test: ants came to foods made by plants, and ignored salt.
-14. (write) Write a food chain of four links from near your home. Use arrows that point to the eater.  
+12. (write) Remember the ant test? Predict: if you added a fifth square with a piece of ripe banana, would ants come to it? Why do you think so?  
+   **Answer:** Yes, I think many ants would come. A banana grew on a plant and is full of sugar. The sugar carries energy the plant made from sunlight. The ants came to sugar and chapati, which also came from plants, but not to salt, which has no food energy.. *Why:* A strong answer makes a prediction and backs it with the test: ants came to foods made by plants, and ignored salt.
+13. (write) Write a food chain of four links from near your home. Use arrows that point to the eater.  
    **Answer:** Any correct chain that starts with a plant. For example: mango leaf → caterpillar → bulbul → cat.. *Why:* A good chain starts with a producer and each arrow points from the food to the eater.
-15. (draw) Draw a food web with at least five living things from a pond. Join them with arrows that point to the eater.  
+14. (draw) Draw a food web with at least five living things from a pond. Join them with arrows that point to the eater.  
    **Answer:** For example: algae → mosquito larva, algae → tadpole, mosquito larva → small fish, tadpole → small fish, small fish → kingfisher, tadpole → heron.. *Why:* A web shows that most animals eat more than one thing, and are eaten by more than one thing.
-16. (write) Why can there never be a food chain that starts with a tiger?  
+15. (write) Why can there never be a food chain that starts with a tiger?  
    **Answer:** A tiger cannot make their own food. They have to eat deer, and the deer eat plants. So every chain with a tiger starts with a plant.. *Why:* Food chains start with producers. Tigers are consumers.
 ### Energy, Pyramids and Webs (stretch) (stretch, 16 questions)
 1. (mcq) Look at the chart. The grass in a field holds 1,000 units of food energy. About how much reaches the frogs?  
@@ -663,7 +643,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
    **Answer:** Mussels took over, and the number of kinds of living things fell from 15 to 8. *Why:* Starfish eat mussels. Without them, mussels covered the rocks and crowded out other living things. Picking 'more kinds' is a natural guess, since one predator was gone. But that predator kept the mussels from taking over.
 12. (match) Match each scientist to what they found.  
    **Answer:** Rachel Carson → showed that DDT was harming birds, in Silent Spring, 1962; Raymond Lindeman → measured how food energy passes up the chain in a lake; Vibhu Prakash → counted India's vultures and found them disappearing; Robert Paine → named keystone species after his starfish test. *Why:* Each of them changed how people understand food webs. Carson and Prakash also helped save animals.
-13. (truefalse) A poison like DDT can build up, so that a fish-eating bird holds far more of it than the same weight of lake water.  
+13. (truefalse) A poison like DDT can build up, so that a fish-eating bird holds far more DDT than the same weight of lake water.  
    **Answer:** True. *Why:* True. Each eater keeps the poison from everything they ate, so it builds up at each step. This is called biomagnification.
 14. (write) In the 1990s, India's vultures began to die. At first scientists thought a disease was killing them. If you were on the team, how would you find out what was really killing them?  
    **Answer:** I would look at many dead vultures and check what was wrong inside them. Then I would ask what they had all eaten: dead cattle. I would test those dead cattle for medicines and poisons. The team found that most vultures had failed kidneys and had eaten cattle treated with a painkiller called diclofenac.. *Why:* A strong answer looks for what all the dead birds had in common, then tests that idea. This is how Vibhu Prakash and Lindsay Oaks's team found the cause in 2004.
@@ -712,9 +692,9 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
    **Answer:** Adding an animal to a web can change more than you planned. *Why:* Most animals eat more than one thing, so a new animal touches many threads in the web. Picking 'fish never eat larvae' is wrong: gambusia do eat them. The problem is what else they eat.
 
 ## Videos
-- **How Wolves Change Rivers** (Sustainable Human, 5 min) id `ysa5OBhXz-Q`: A beautiful short film about wolves returning to Yellowstone. After watching, read the card 'Did wolves change Yellowstone's rivers?' Then ask which parts scientists agree with, and which they argue about. *Check:* Video id recalled, not opened from here. A parent should check it plays and is the 2014 Sustainable Human film narrated by George Monbiot. Its claims about rivers go further than the evidence, and the unit says so.
-- **Food chains and food webs, for children** (to find, 5 min) id `YuO4WB4SwCg`: A clear, friendly animation of food chains, food webs and producers and consumers, to watch after the explanation cards. *Check:* Found by YouTube search: "What Is A Food Chain? | The Dr. Binocs Show | Educational Videos For Kids" by Peekaboo Kidz. Title checked automatically; a parent may still preview it.
-- **India's vanishing vultures** (to find, 6 min) id `Jo0LTZQ3KA4`: Real footage of India's vultures, the diclofenac story and the breeding centres trying to bring them back. *Check:* Found by YouTube search: "Why India's Vultures Are Disappearing: The Veterinary Drugs Impact Explained | Connecting The Dots" by DD India. Title checked automatically; a parent may still preview it.
+- **How Wolves Change Rivers** (Sustainable Human, 5 min) id `ysa5OBhXz-Q`: A beautiful short film about wolves returning to Yellowstone. After watching, read the card 'Did wolves change Yellowstone's rivers?' Then ask which parts scientists agree with, and which they argue about. *Check:* This 2014 film goes further than the evidence about rivers. The card 'Did wolves change Yellowstone's rivers?' says where scientists disagree.
+- **What Is A Food Chain? (The Dr. Binocs Show)** (Peekaboo Kidz, 5 min) id `YuO4WB4SwCg`: A clear, friendly animation of food chains, food webs and producers and consumers, to watch after the explanation cards. *Check:* Opened and checked: plays, matches the title.
+- **Why India's Vultures Are Disappearing** (DD India, 6 min) id `Jo0LTZQ3KA4`: Explains why India's vultures disappeared and how a veterinary drug was involved. *Check:* Opened and checked: plays, matches the title.
 
 ## Quiz
 1. (mcq) One link is missing from this food chain: ____ → grasshopper → garden lizard → crow. What should go at the start?  
@@ -730,8 +710,8 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
    Options: A producer / A herbivore / An omnivore  
    **Answer:** An omnivore. *Why:* An omnivore eats both plants and animals. The fruit is from a plant. The snakes, eggs and insects come from animals. Picking 'herbivore' counts only the fruit.
 5. (mcq) A dead leaf falls on the soil in a flowerpot. A few months later, the leaf has gone. Where did the leaf go?  
-   Options: The wind blew it away, bit by bit / Decomposers such as fungi and bacteria broke it down into nutrients for the soil / It melted in the sun  
-   **Answer:** Decomposers such as fungi and bacteria broke it down into nutrients for the soil. *Why:* Fungi and bacteria feed on dead leaves and break them down. What is left becomes nutrients in the soil, which the plant can take up again. Picking 'melted' treats a leaf like ice. A leaf does not melt.
+   Options: The wind blew it away, bit by bit / Decomposers such as fungi and bacteria broke the leaf down into nutrients for the soil / It melted in the sun  
+   **Answer:** Decomposers such as fungi and bacteria broke the leaf down into nutrients for the soil. *Why:* Fungi and bacteria feed on dead leaves and break them down. What is left becomes nutrients in the soil, which the plant can take up again. Picking 'melted' treats a leaf like ice. A leaf does not melt.
 6. (mcq) In a pond, kingfishers eat small fish, and small fish eat mosquito larvae. If all the kingfishers left, what would most likely happen first?  
    Options: The mosquito larvae would increase / The pond plants would die / The small fish would increase  
    **Answer:** The small fish would increase. *Why:* With no kingfishers eating them, more small fish survive. Later, with more small fish, fewer mosquito larvae would be left. Picking 'larvae increase' skips a step in the web.
@@ -810,33 +790,16 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 - If you were a sparrow, what would you eat in spring?
 
 ## Jokes
-- Why did the grasshopper go to the doctor? *It was feeling a little jumpy.*
-- What did the frog order for lunch? *A burger with flies on the side.*
+- Why did the grasshopper go to the doctor? *She was feeling a little jumpy.*
 - Why don't tigers play cards in the forest? *There are too many cheetahs.*
-- What do you call a food chain with only plants? *A salad.*
-- Why did the vulture refuse to fly with their suitcase? *It only had carrion luggage.*
-- What is a mushroom's favourite room? *The mush-room, of course.*
-- Why was the caterpillar always late? *They kept stopping for a leaf snack.*
-- Why did the snake study maths? *It wanted to be an adder.*
-- What did the grass say to the cow? *Please, chew on someone else for a change.*
-- Why did the spider become a web designer? *It was great at catching things.*
-- How do decomposers say goodbye? *See you in the soil!*
-- What did the plankton say to the whale? *You're not so big without us.*
-- Why did the ant cross the kitchen? *The sugar was on the other side.*
-- Why are earthworms good at parties? *They know how to turn things over.*
-- What did the deer say when the tiger fell asleep? *Phew, that was a close call!*
-- Why did the lizard sit under the tube light? *It liked fast food.*
+- Why did the snake study maths? *He wanted to be an adder.*
+- Why did the spider become a web designer? *She was already great at catching things on the web.*
 - What is a crocodile's favourite card game? *Snap!*
-- Why did the bee get married? *It found its honey.*
-- Why was the food web so popular? *Everyone was connected.*
 - What is a kingfisher's favourite school subject? *Dive-ision.*
-- Why did the sun go to school? *To get a little brighter.*
-- What did one carbon atom say to the other? *I've been everywhere, and I keep coming back to you.*
-- Why don't owls go out in the rain? *Nobody gives a hoot about a wet owl.*
+- Why did the tiger eat the clown? *He wanted something that tasted funny.*
 - What did the mongoose say to the snake after their fight? *Let's hiss and make up.*
-- Why did the mosquito larva love the pond? *It was a great place to hang around.*
-- Why did the tiger eat the clown? *It wanted something that tasted funny.*
-- What does a crow say at dinner? *I'll have a bit of everything, please.*
+- Why did the gecko sit under the tube light? *She liked fast food.*
+- Why did the bee get married? *She found her honey.*
 
 ## Connected maths
 - In One Hundred Grains, the grass had 100 grains. At each step, only one tenth passes on. How many grains does each animal get: grasshopper, frog, snake? **Grasshopper 10, frog 1, snake one tenth of a grain.**. One tenth of 100 is 100 divided by 10, which is 10. One tenth of 10 is 10 divided by 10, which is 1. One tenth of 1 is a crumb, one tenth of a grain. You can check: 10 groups of 10 make 100. (queues `math.division.sharing-and-grouping.L3`)
@@ -860,8 +823,8 @@ Everybody Eats (sci.ecology.L3): Topic-level song
 
 ## Things to buy
 - [A magnifying glass for children](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking closely at ants, caterpillars and bitten leaves. Used in e1, e2, p1. 
-- [Who Eats What? Food Chains and Food Webs, by Patricia Lauber (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Who+Eats+What+Food+Chains+and+Food+Webs+Patricia+Lauber) (book): A clear picture book about food chains and webs, for ages 5 to 9. Used in a1. If bought, read it on day 1 after Spot an Eater. Its pages can replace the first three explanation cards.
-- [Silent Spring, by Rachel Carson (for the parent)](https://www.amazon.in/s?k=Silent+Spring+Rachel+Carson) (book): The 1962 book that showed how DDT passed up food chains. A parent can read a chapter and retell it. Used in a5. Optional, for the parent. Read the chapter 'Elixirs of Death' or 'And No Birds Sing' before doing Poison Climbs the Chain.
+- [Who Eats What? Food Chains and Food Webs, by Patricia Lauber (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Who+Eats+What+Food+Chains+and+Food+Webs+Patricia+Lauber) (book): A clear picture book about food chains and webs, for ages 5 to 9. Used in a1. 
+- [Silent Spring, by Rachel Carson (for the parent)](https://www.amazon.in/s?k=Silent+Spring+Rachel+Carson) (book): The 1962 book that showed how DDT passed up food chains. A parent can read a chapter and retell it. Used in a5. 
 
 ## Warm-up
 - In a food chain, does the arrow point to the food or to the eater? → To the eater. It means 'is eaten by'.

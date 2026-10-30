@@ -12,7 +12,7 @@
   "art": "A chapati on a plate with a long winding path behind it going back through a shop, a flour mill, a wheat field and a single wheat seed, ending at a bright Sun."
  },
  "outcomes": [
-  "I can trace a food back to where it came from: a plant, an animal, a fungus or tiny living thing, or the Earth itself.",
+  "I can trace a food back to where it came from: a plant, an animal, a fungus or tiny living thing, or the non-living Earth.",
   "I can say which part of a plant a food comes from: root, stem, leaf, flower, fruit or seed.",
   "I can name foods we get from animals, and say what those animals eat.",
   "I can explain that every food chain starts with plants, and that plants make food from sunlight, air and water.",
@@ -193,7 +193,7 @@
    "description": "Look at any meal and sort it. Rice, dal, vegetables, fruit and spices come from plants. Milk, curd, ghee, eggs, fish and honey come from animals. Mushrooms are fungi, and curd and idli batter are changed by microbes, tiny living things. Salt and water are the odd ones out. They were never alive. They come from the sea, the rocks and the rain. So almost all of our food was once part of something alive.",
    "examples": [
     "A plate of idli, sambar and coconut chutney: rice and urad dal (plants), tiny microbes that made the batter rise, tamarind and vegetables (plants), salt (the Earth), water (the Earth).",
-    "A glass of lassi: milk from a cow or buffalo, microbes that turned it into curd, sugar from sugarcane, and water.",
+    "A glass of lassi: milk from a cow or buffalo, microbes that turned the milk into curd, sugar from sugarcane, and water.",
     "A mushroom masala: mushrooms (fungi), onion and tomato (plants), oil from mustard or groundnut seeds, and salt."
    ],
    "perspectives": [],
@@ -260,7 +260,7 @@
    "concept": "Food made by fungi and microbes",
    "status": "defined",
    "definition": "Fungi and microbes are living things that are not plants and not animals. Mushrooms are fungi we eat. Many microbes help make our food, by fermenting it.",
-   "description": "A mushroom is not a plant. They have no green leaves and cannot make food from sunlight. It feeds on dead leaves, wood or soil. Scientists have found that fungi are actually more closely related to animals than to plants. Microbes are even smaller living things. Put a spoon of curd into warm milk and leave it overnight. Bacteria from the old curd feed on the sugar in the milk. They make lactic acid, which turns the milk thick and sour. By morning there are billions of them, and the milk has become curd. Idli and dosa batter rise and turn sour for the same reason. Bacteria and yeasts feed on the soaked rice and urad dal. Yeasts are tiny fungi, each just one cell. People in India have used microbes to make curd, idli, dhokla, kanji and appam for many hundreds of years. They did it long before anyone knew microbes existed.",
+   "description": "Mushrooms are not plants. They have no green leaves and cannot make food from sunlight. They feed on dead leaves, wood or soil. Scientists have found that fungi are actually more closely related to animals than to plants. Microbes are even smaller living things. Put a spoon of curd into warm milk and leave it overnight. Bacteria from the old curd feed on the sugar in the milk. They make lactic acid, which turns the milk thick and sour. By morning there are billions of them, and the milk has become curd. Idli and dosa batter rise and turn sour for the same reason. Bacteria and yeasts feed on the soaked rice and urad dal. Yeasts are tiny fungi, each just one cell. People in India have used microbes to make curd, idli, dhokla, kanji and appam for many hundreds of years. They did it long before anyone knew microbes existed.",
    "examples": [
     "Curd is milk changed by bacteria.",
     "Bread and bhatura rise because yeast makes tiny bubbles of gas.",
@@ -301,7 +301,7 @@
    "concept": "What plants make their food from",
    "status": "defined",
    "definition": "Green plants make their food from air, water and sunlight. Their leaves take in a gas from the air called carbon dioxide. Their roots take in water. Sunlight gives the energy to join them into sugar. This is called photosynthesis.",
-   "description": "Most people guess that plants eat soil. About 380 years ago, a scientist named Jan Baptist van Helmont, in what is now Belgium, tested this. He weighed some dry soil and put it in a pot. He planted a small willow tree in it and only gave them rainwater. Five years later, the tree had grown about 30 times heavier. But the soil had lost only a tiny pinch of weight. So the tree had not eaten the soil. Van Helmont thought the tree was made of water. Scientists later found that most of the tree's dry wood was built from carbon dioxide, a gas in the air. A wheat grain, a mango and a grain of rice are mostly built out of air and water, joined together using the energy of sunlight. The soil gives only small amounts of minerals.",
+   "description": "Most people guess that plants eat soil. About 380 years ago, a scientist named Jan Baptist van Helmont, in what is now Belgium, tested this. He weighed some dry soil and put the soil in a pot. He planted a small willow tree in the pot and gave the tree only rainwater. Five years later, the tree had grown about 30 times heavier. But the soil had lost only a tiny pinch of weight. So the tree had not eaten the soil. Van Helmont thought the tree was made of water. Scientists later found that most of the tree's dry wood was built from carbon dioxide, a gas in the air. A wheat grain, a mango and a grain of rice are mostly built out of air and water, joined together using the energy of sunlight. The soil gives only small amounts of minerals.",
    "examples": [
     "A tall coconut tree is built mostly from air and water.",
     "A few months ago, the rice on your plate was carbon dioxide gas in the air over a paddy field."
@@ -502,7 +502,7 @@
    "for": "People with ulcers often felt worse after spicy food or a worrying day.",
    "against": "In 1982, two doctors in Australia, Robin Warren and Barry Marshall, found that most ulcers are caused by a bacterium. Other doctors did not believe them. So in 1984 Marshall drank a cup of the bacteria himself. His stomach became sore and swollen, and medicine that kills bacteria cured him. They won a Nobel Prize in 2005. Spicy food can still upset some stomachs, but it is not the main cause of ulcers.",
    "status": "rejected",
-   "context": "This card is about an old belief about spicy food and the stomach, and the doctor who drank bacteria to prove it wrong."
+   "context": "This card is about an old belief about spicy food and the stomach, and the doctor who drank bacteria to show the old belief was wrong."
   },
   {
    "claim": "Old food traditions are just superstition, and only modern science knows about food.",
@@ -610,11 +610,11 @@
    "In her mouth, the pea would be gone in one swallow. In the ground, the pea was a field.",
    "Nina wiped the pea on her sleeve and put the seed back in the packet. Then she found every other pea on the floor, even the one that had rolled under the radiator. She counted them twice. Forty-seven. She tied the packet tight with a piece of string, and on the paper, in her best handwriting, she wrote: 47. All here.",
    "In the morning her mother woke stiff and blinking. She saw the box, and the tied packet, and the number written on it. She looked at Nina for a long moment. Then she took a pencil, and beside the 47 she wrote her own initials, very small, as if signing something important.",
-   "The siege lasted two more winters. Some of the people in the seed library did not live to see the end of it. They died of hunger at their desks, beside sacks of rice and boxes of seeds they never opened. Nikolai Vavilov, the man who had gathered the seeds so that nobody would ever starve, died of hunger in a prison far away.",
+   "The siege lasted two more winters. Some of the people in the seed library did not live to see the end of the siege. They died of hunger at their desks, beside sacks of rice and boxes of seeds they never opened. Nikolai Vavilov, the man who had gathered the seeds so that nobody would ever starve, died of hunger in a prison far away.",
    "But the seeds survived. After the war, they went out from St Isaac's Square to farms across the country, packet by packet. They were sown in spring soil. They woke up and ate their lunch and pushed out roots and shoots, and grew, and made more seeds, and those seeds made more.",
    "Somewhere, a pea plant is climbing a stick in a garden right now. Their seeds came, many generations later, from seeds that lived through that winter. Now they turn their leaves to the Sun."
   ],
-  "epiphany": "For the parent: Nina's turn comes when she sees that a seed is not only food. They are a living baby plant with a store of food, waiting to grow. Eaten, they are one mouthful. Planted, they become a plant that makes many more seeds. Most of our food is seeds or other plant parts. Every bit of it comes from living things that keep making more of themselves. That is why farmers have always kept back their best seeds, even in hungry years. The story also quietly asks about saving for the future. It remembers people whose sacrifice was never written in the history books.",
+  "epiphany": "For the parent: Nina's turn comes when she sees that seeds are not only food. Each seed is a living baby plant with a store of food, waiting to grow. Eaten, a seed is one mouthful. Planted, it becomes a plant that makes many more seeds. Most of our food is seeds or other plant parts. Every bit of it comes from living things that keep making more of themselves. That is why farmers have always kept back their best seeds, even in hungry years.",
   "ask": [
    "Why did the scientists in the story not cook the seeds, even though they were starving?",
    "What did Nina remember about the inside of a pea? What were the two fat halves for?",
@@ -636,11 +636,11 @@
    "id": "g1",
    "title": "Pass the Sunlight",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "printables": [
     {
      "kind": "cards",
-     "title": "36 chain cards to cut out",
+     "title": "37 chain cards to cut out",
      "items": [
       "SUN",
       "SUN",
@@ -673,60 +673,40 @@
       "Jaggery",
       "Coconut chutney",
       "Dal",
+      "Idli",
       "HELPER: curd bacteria",
-      "HELPER: idli yeast",
+      "HELPER: idli microbes",
       "EARTH: salt",
       "EARTH: water",
       "SURPRISE: deep-sea vent microbes"
      ]
-    },
-    {
-     "kind": "board",
-     "title": "A long table mat with five spaces in a row",
-     "items": [
-      "SUN",
-      "PLANT",
-      "ANIMAL or HELPER",
-      "FOOD",
-      "MY PLATE"
-     ]
-    },
-    {
-     "kind": "score sheet",
-     "title": "Sunlight score sheet",
-     "items": [
-      "Player",
-      "Chains built",
-      "Links in each chain",
-      "Bonus points",
-      "Total"
-     ]
     }
    ],
    "rules": [
-    "Shuffle all the cards. Deal 6 to each player. Put the rest face down as a pile.",
-    "On your turn, take one card from the pile. Then try to build a food chain on the table, starting with a SUN card.",
-    "A chain must make sense going forwards. For example: SUN, then Grass, then Cow, then Milk, then Curd.",
-    "Say the chain out loud: 'The Sun fed the grass. The grass fed the cow. The cow made milk.' If everyone agrees each step is true, you score 1 point for each card in the chain.",
-    "HELPER cards can join a chain where microbes change a food, like Milk then HELPER: curd bacteria then Curd.",
-    "EARTH cards can be added to any finished plate for 1 bonus point, if you say where that salt or water came from.",
-    "The SURPRISE card starts a chain with no SUN at all. If you can explain it, score 3 bonus points.",
-    "When the pile runs out, the player with the most points wins."
+    "Put the 4 SUN cards in a row in the middle of the table. Every chain starts from a SUN card, and any number of chains can start from the same SUN. Shuffle the other 33 cards and deal 5 to each player. Put the rest face down as a pile.",
+    "On your turn, play cards from your hand to start a new chain or to add to a chain already on the table, yours or anyone's. To start a chain, put a plant (or Tiny algae in the sea) next to a SUN card. To add to a chain, put the next card at its end.",
+    "A chain must make sense going forwards. For example: SUN, Grass, Cow, Milk, Curd. A chain does not need an animal: SUN, Rice plant, Rice is a full chain.",
+    "Say the chain out loud: 'The Sun fed the grass. The grass fed the cow. The cow made milk.' If everyone agrees each step is true, you score 1 point for each card you played this turn. If anyone thinks a step is wrong, talk it over; a wrong card goes back to your hand and scores nothing.",
+    "HELPER cards join a chain where microbes change a food: Milk, HELPER: curd bacteria, Curd. Rice plant, HELPER: idli microbes, Idli.",
+    "EARTH cards: play one next to your chain for 1 bonus point if you can say where that salt or water came from (the sea, the rocks, the rain).",
+    "The SURPRISE card needs no SUN. Play it alone and explain what feeds the animals at a deep-sea vent. A good explanation scores 3 points.",
+    "At the end of your turn, draw cards from the pile until you hold 5 again. If you could not play any card, put back up to 2 cards at the bottom of the pile and draw 2 new ones.",
+    "Keep score on a piece of paper. When the pile is empty, play on until nobody can play any more card. The player with the most points wins. If points are equal, the players share the win."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay the five-space mat on the floor. 2. Shuffle the cards and deal 6 each. 3. Put the rest in a pile.",
-     "say": "In this game, you build food chains. Each chain shows how energy from the Sun passes from one living thing to the next, until it reaches your plate. Every chain must start with the Sun.",
-     "kid": "Every chain starts with the SUN. Each card passes the energy on. End on a plate!",
+     "do": "1. Put the 4 SUN cards in a row in the middle of the table. 2. Shuffle the other 33 cards and deal 5 to each player. 3. Put the rest in a face-down pile.",
+     "say": "In this game, you build food chains. Each chain shows how energy from the Sun passes from one living thing to the next, until it reaches a plate. Every chain starts from a SUN card.",
+     "kid": "Every chain starts from a SUN card. Each card passes the energy on. Play cards from your hand to make chains!",
      "context": "This is the first step of Pass the Sunlight. It is a card game where you build food chains that carry the Sun's energy all the way to your plate."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "Build one practice chain together: SUN, Mustard flower, Honeybee, Honey.",
-     "say": "Let's build one together. The Sun feeds the mustard flower. The bee drinks its nectar. The bee makes honey. Four cards, four points.",
+     "say": "Let's build one together. The Sun feeds the mustard flower. The bee drinks nectar from the flower. The bee makes honey. The SUN card was already on the table, so we score for the three cards we play: 3 points.",
      "kid": "Practice chain: SUN, mustard flower, bee, honey. Say each step out loud.",
      "check": {
       "t": "mcq",
@@ -743,10 +723,10 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Take turns drawing a card and building chains. 2. Each player says their chain aloud. 3. Others agree or challenge each step. 4. Score on the sheet.",
+     "do": "1. Take turns playing cards and building chains. 2. Say your chain out loud. 3. Others agree or challenge each step. 4. Write each score on paper. 5. Draw cards back up to 5.",
      "say": "Say each step of your chain. If anyone thinks a step is wrong, they can challenge it, and we decide together.",
-     "kid": "Draw a card. Build a chain. Say every step. Others can challenge a wrong step!",
-     "parent": "Good chains: SUN, Rice plant, Rice. SUN, Grass, Cow, Milk, HELPER: curd bacteria, Curd. SUN, Tiny algae, Small fish, Big fish, Fish curry. SUN, Sugarcane, Jaggery. Challenge wrong steps kindly: 'Does a hen make honey?' For the SURPRISE card, a good answer is this. Deep-sea microbes make food from chemicals in hot vent water. They need no sunlight at all."
+     "kid": "Play cards to make a chain. Say every step. Others can challenge a wrong step! Then draw back up to 5 cards.",
+     "parent": "Good chains: SUN, Rice plant, Rice. SUN, Grass, Cow, Milk, HELPER: curd bacteria, Curd. SUN, Tiny algae in the sea, Small fish, Big fish, Fish curry. SUN, Sugarcane, Jaggery. Challenge wrong steps kindly: 'Does a hen make honey?' For the SURPRISE card, a good answer is this. Deep-sea microbes make food from chemicals in hot vent water. They need no sunlight at all."
     },
     {
      "id": "s4",
@@ -760,8 +740,8 @@
    "context": "This is a card game about food chains. Every food chain carries energy from the Sun, through plants and animals, to your plate.",
    "setup": [
     {
-     "art": "A long paper mat with five spaces in a row, labelled with a sun, a leaf, a cow, a bowl and a plate.",
-     "caption": "1. Lay out the chain mat and deal 6 cards each."
+     "art": "Four SUN cards in a row in the middle of a table, with five cards dealt face up in front of each of two players.",
+     "caption": "1. Put the SUN cards in a row and deal 5 cards to each player."
     },
     {
      "art": "Cards laid in a row on the mat: a sun, grass, a cow, a glass of milk, a bowl of curd.",
@@ -810,8 +790,8 @@
      ]
     },
     {
-     "kind": "board",
-     "title": "A question helper card",
+     "kind": "cards",
+     "title": "7 question helper cards (lay them out in a row)",
      "items": [
       "Did I grow on a plant?",
       "Did I grow under the ground?",
@@ -824,24 +804,34 @@
     },
     {
      "kind": "tokens",
-     "title": "10 question tokens for each player",
+     "title": "10 question tokens (print one set for each player)",
      "items": [
+      "❓",
+      "❓",
+      "❓",
+      "❓",
+      "❓",
+      "❓",
+      "❓",
+      "❓",
+      "❓",
       "❓"
      ]
     }
    ],
    "rules": [
     "One player takes a mystery food card without looking at it, and holds it to their forehead. Everyone else can see it.",
-    "The player asks yes or no questions to work out what food they are. Each question costs one token.",
-    "The others answer only 'yes', 'no' or 'sort of'.",
-    "Guess the food before your tokens run out to win the card.",
-    "Then pass the turn to the next player. The player with the most cards at the end wins."
+    "The player asks yes or no questions to work out what food they are. Each question costs one token. The others answer only 'yes', 'no' or 'sort of'.",
+    "The player may guess the food at any time. A wrong guess costs 2 tokens.",
+    "Guess the food before your 10 tokens run out to win the card. If the tokens run out first, the card goes back under the pile. Take all 10 tokens back at the start of your turn.",
+    "Then the next player takes a card. With two players, you take turns, parent and child.",
+    "Play until everyone has had three turns, or the cards run out. The player with the most cards wins. If the cards are equal, share the win."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Shuffle the mystery cards and put them face down. 2. Give each player 10 tokens. 3. Put the question helper card where everyone can see it.",
+     "do": "1. Shuffle the mystery cards and put them face down. 2. Give each player a set of 10 tokens. 3. Lay the 7 question helper cards in a row where everyone can see them.",
      "say": "You will be a mystery food. You can't see your card, but we can. Ask questions to work out where you came from.",
      "kid": "You are a mystery food! You can't see your card. Ask yes or no questions to find out what you are.",
      "context": "This is the first step of Where Am I From?, a guessing game. You ask questions about where a food came from until you can name it."
@@ -849,7 +839,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Take turns being the mystery food. Use the helper card for good questions.",
+     "do": "Take turns being the mystery food. Use the helper cards for good questions.",
      "say": "Good detectives start with big questions. Was I ever alive? Did I come from a plant? Then they get smaller.",
      "kid": "Start with big questions. Was I ever alive? Then smaller ones. Did I grow underground?",
      "parent": "Watch for the 'sort of' answers. They lead to the best talk. Honey: 'Did I come from an animal?' Sort of, from bees, but bees made it from flowers. Curd: 'Did tiny living things help make me?' Yes. Potato: 'Am I a root?' No, I'm an underground stem.",
@@ -862,7 +852,7 @@
        "Peanut"
       ],
       "a": 0,
-      "why": "A potato grows underground, its eyes are buds that sprout, and it is a stem, not a root. Picking 'carrot' is a good guess, but a carrot is a true root with no eyes. Peanuts do grow under the ground too, but a peanut is a seed, and has no eyes."
+      "why": "A potato grows underground, its eyes are buds that sprout, and the potato is a stem, not a root. Picking 'carrot' is a good guess, but a carrot is a true root with no eyes. Peanuts do grow under the ground too, but a peanut is a seed, and has no eyes."
      }
     },
     {
@@ -986,18 +976,6 @@
      "why": "A radish is a root. Sugarcane is a stem. Methi is a leaf. Vazhaipoo is the flower of the banana plant. A guava is a fruit. Moong is a seed."
     },
     {
-     "t": "mcq",
-     "p": "A potato grows under the ground. Which part of the plant is a potato?",
-     "opts": [
-      "A root",
-      "An underground stem",
-      "A seed",
-      "A leaf"
-     ],
-     "a": 1,
-     "why": "A potato is a fat underground stem. Its 'eyes' are buds that can grow shoots, and only stems have buds. 'Root' is a very natural first guess, because a potato grows underground. But true roots, like radishes, have no eyes."
-    },
-    {
      "t": "write",
      "p": "Farhan, a boy in Class 3, says, \"Paneer comes from a cow, not from a plant. So paneer has nothing to do with plants.\" What has he missed?",
      "lines": 3,
@@ -1028,7 +1006,7 @@
      "p": "A girl finds mushrooms growing on a damp log in a dark corner of the garden. A tulsi plant kept in a dark cupboard turns pale and weak. Why can the mushrooms grow in the dark when the tulsi cannot?",
      "lines": 3,
      "a": "The tulsi is a plant and makes her food from air and water using sunlight, so in the dark she cannot make new food. Mushrooms are fungi. They do not make food from light. They feed on the dead wood of the log, so they can grow in the dark.",
-     "why": "A strong answer says how each one gets food: the plant makes it with light, the fungus takes it from dead things."
+     "why": "A strong answer says how each one gets food: the plant makes food with light, the fungus takes food from dead things."
     },
     {
      "t": "fill",
@@ -1058,18 +1036,6 @@
       "curd"
      ],
      "why": "The Sun gives grass the energy to make food. The cow eats the grass. The cow makes milk. Bacteria turn the milk into curd."
-    },
-    {
-     "t": "mcq",
-     "p": "A tulsi plant is kept in a dark cupboard for two weeks. She has soil and water, but she turns pale and weak. What is missing?",
-     "opts": [
-      "Sunlight, which plants need to make their food",
-      "More soil",
-      "Fertiliser",
-      "Nothing. Plants always go pale"
-     ],
-     "a": 0,
-     "why": "Plants make their food from air and water, using the energy of sunlight. With no light, the plant cannot make new food, so she grows weak and pale. More soil would not help."
     },
     {
      "t": "sort",
@@ -1114,25 +1080,57 @@
      "why": "True. Dals are the dried seeds of pulse plants. Soak whole moong and they will sprout a root."
     },
     {
-     "t": "mcq",
-     "p": "In the sprouting test, the seeds on the wet cloth sprouted. The seeds on the dry cloth did not. What did the seeds need?",
-     "opts": [
-      "Water",
-      "Soil",
-      "Sugar",
-      "Darkness"
-     ],
-     "a": 0,
-     "why": "The only difference was water, and only the wet seeds sprouted. 'Soil' is a common guess. But neither plate had soil, and the wet seeds still grew, using the food stored inside them.",
-     "context": "In the sprouting test, you put 20 soaked moong on a wet cloth and 20 dry moong on a dry cloth.",
-     "how": "e2"
-    },
-    {
      "t": "draw",
      "p": "Draw a soaked chana seed split open. Label the baby plant and the food store.",
      "a": "A split seed with a small curled baby plant at one edge, and the two big halves labelled 'food store'.",
      "why": "A seed holds a baby plant and a store of food. The big halves hold the food the baby plant uses when they start to grow.",
      "art": "An outline of a split chana seed with two empty label lines."
+    },
+    {
+     "t": "match",
+     "p": "Match each food to the living thing that helped make it.",
+     "pairs": [
+      [
+       "honey",
+       "honeybee"
+      ],
+      [
+       "curd",
+       "bacteria"
+      ],
+      [
+       "egg",
+       "hen"
+      ],
+      [
+       "paneer",
+       "cow or buffalo"
+      ],
+      [
+       "bread",
+       "yeast"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Bees make honey from nectar. Bacteria turn milk into curd. A hen lays an egg. Paneer is made from the milk of a cow or buffalo. Yeast makes bread rise."
+    },
+    {
+     "t": "truefalse",
+     "p": "A hen is an animal, so an egg has nothing to do with plants.",
+     "a": false,
+     "why": "False. A hen eats grain and other plant food, and makes the egg from that food. So an egg is plant food that has passed through an animal."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these food chains is the longest?",
+     "opts": [
+      "Sun, algae, small fish, big fish, fish curry",
+      "Sun, rice plant, rice",
+      "Sun, sugarcane, jaggery",
+      "Sun, mango tree, mango"
+     ],
+     "a": 0,
+     "why": "The fish curry chain has five links. Each of the others has only three. Every extra animal in a chain adds one more link."
     }
    ]
   },
@@ -1233,7 +1231,7 @@
     },
     {
      "t": "perspective",
-     "p": "Three friends are arguing about where curd comes from.",
+     "p": "Three girls are arguing about where curd comes from.",
      "views": [
       {
        "who": "Lakshmi, in Class 3",
@@ -1302,18 +1300,6 @@
     },
     {
      "t": "mcq",
-     "p": "Which of these came to India from the Americas only about 500 years ago?",
-     "opts": [
-      "Chilli",
-      "Black pepper",
-      "Haldi",
-      "Moong"
-     ],
-     "a": 0,
-     "why": "Chilli, potato, tomato and peanut all came from the Americas, many of them on Portuguese ships. Black pepper grows wild in Kerala and is one of India's oldest spices. Both taste hot, but they came from opposite sides of the world."
-    },
-    {
-     "t": "mcq",
      "p": "In the Windowsill Farm, the seedlings in the dark cupboard grew tall, thin and pale yellow. What were they living on?",
      "opts": [
       "The food packed in their seeds",
@@ -1333,20 +1319,40 @@
      "how": "e2"
     },
     {
-     "t": "write",
-     "p": "In the sprouting test, 20 dry moong seeds weighed 10 grams. After a night in water, the same seeds weighed 20 grams. What happened, and why does a seed need to do this?",
-     "lines": 4,
-     "a": "The seeds took in 10 grams of water, because 20 minus 10 is 10. That doubled their weight. A seed needs water to wake up the baby plant and to soften the food store, so the baby plant can use the food to grow.",
-     "why": "A strong answer works out the 10 grams of water and links it to what the seed needs to start growing.",
-     "how": "e2",
-     "context": "In the sprouting test, you put 20 soaked moong on a wet cloth and 20 dry moong on a dry cloth."
-    },
-    {
      "t": "draw",
      "p": "Draw a whole plant and label six parts: root, stem, leaf, flower, fruit, seed. Next to each label, write a food from your own kitchen that is that part. Try not to use radish, sugarcane, methi, vazhaipoo, guava or moong.",
      "a": "Root under the soil, for example carrot or beetroot. Stem, for example potato, an underground stem. Leaves, for example curry leaves or keerai. A flower, for example cauliflower. A fruit, for example tomato or brinjal. Seeds, for example rice or peanut.",
      "why": "Every part of a plant can be food. A strong drawing puts each part in the right place and finds a new, real food for each one.",
      "art": "A simple drawing of a whole plant with six empty label lines."
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of making salt in the salt pans in order.",
+     "items": [
+      "The Sun dries the water",
+      "Workers rake the white salt into heaps",
+      "Sea water flows into shallow fields",
+      "White salt crystals are left behind"
+     ],
+     "a": [
+      "Sea water flows into shallow fields",
+      "The Sun dries the water",
+      "White salt crystals are left behind",
+      "Workers rake the white salt into heaps"
+     ],
+     "why": "Sea water is let into the fields. The Sun dries the water away, and the salt that was in the water stays behind as crystals. Then the workers rake it into heaps."
+    },
+    {
+     "t": "mcq",
+     "p": "About how long ago did people begin farming?",
+     "opts": [
+      "About 11,000 years ago",
+      "About 100 years ago",
+      "About 500 years ago",
+      "Before there were any people"
+     ],
+     "a": 0,
+     "why": "Farming began about 11,000 years ago, in several parts of the world. Before that, people gathered wild plants and hunted. The Green Revolution in India was only about 60 years ago."
     }
    ]
   },
@@ -1418,20 +1424,8 @@
      "why": "True. Each red blood cell lasts only about 120 days, about four months. Your body keeps making new ones, built from what you eat."
     },
     {
-     "t": "mcq",
-     "p": "An old Indian book of medicine, the Charaka Samhita, named six tastes. Taste scientists today say chilli's 'spicy' is not really a taste. What do they say it is?",
-     "opts": [
-      "A feeling of heat and pain from nerves",
-      "A mix of sweet and sour",
-      "A smell",
-      "Just a made-up idea"
-     ],
-     "a": 0,
-     "why": "Chilli switches on the nerve sensors that warn us about heat. So the mouth feels hot, though the chilli itself is not hot. 'Just a made-up idea' would be unfair to the old book. The burning is completely real. Scientists only explain it as a feeling rather than a taste."
-    },
-    {
      "t": "write",
-     "p": "In the story A Field in Every Packet, Nina's mother and the other scientists in Leningrad in 1941 were starving, but they did not eat their seed collection. This really happened. Give two reasons why saving the seeds was so important.",
+     "p": "In the story A Field in Every Packet, the real scientists of the Leningrad seed collection in 1941 were starving, but they did not eat their seeds. Give two reasons why saving the seeds was so important.",
      "lines": 4,
      "a": "First, each seed is a baby plant that can grow into a plant that makes many more seeds. Eaten, a seed is one mouthful, but planted, a seed becomes a field. Second, the collection held many kinds of crops from all over the world. If they were lost, farmers might never get them back.",
      "why": "Seeds are both food and the future of food. A strong answer gives both reasons: one seed grows into many, and many kinds of crops must not be lost."
@@ -1530,6 +1524,14 @@
      "lines": 3,
      "a": "Some will become part of my body, like my blood or muscles. Some I will breathe out as carbon dioxide, and a plant may take them in again to make new food.",
      "why": "Atoms do not wear out. They move from air to plant to animal and back to the air, again and again. A strong answer names one place in the body and one way back to a plant."
+    },
+    {
+     "t": "fill",
+     "p": "Microbes at deep-sea vents make food from chemicals instead of sunlight. This is called ____.",
+     "a": [
+      "chemosynthesis"
+     ],
+     "why": "Chemosynthesis means making food with chemicals. Plants do the same job with sunlight, which is called photosynthesis."
     }
    ]
   }
@@ -1541,7 +1543,7 @@
    "mins": 25,
    "days": 2,
    "question": "Milk turns into curd because of tiny living things called bacteria. Do they need a spoon of old curd to start, and do they need warmth?",
-   "predict": "Before you start, look at the three katoris. Guess which ones will be thick curd by morning, and which will still be runny milk. Why do you think so?",
+   "predict": "Before you start, read how the three katoris will be set up: A has curd and stays warm, B has no curd and stays warm, C has curd and goes in the fridge. Guess which ones will be thick curd by morning, and which will still be runny milk. Why do you think so?",
    "fair_test": "To make it fair, use the same milk, the same amount in each katori, and the same size katoris. Change only one thing at a time: whether we add curd, or where we keep it.",
    "results_table": [
     "Katori",
@@ -1576,12 +1578,12 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
+     "mins": 13,
      "what": "Guess. Set up three katoris of warm milk: A with curd in a warm place, B with no curd in a warm place, C with curd in the fridge."
     },
     {
      "day": 2,
-     "mins": 10,
+     "mins": 12,
      "what": "Do the tilt test on all three. Fill in the table. Say what you think, what you saw and why."
     }
    ],
@@ -1774,9 +1776,9 @@
   {
    "id": "e2",
    "title": "Sprouting Moong: do seeds need water to grow?",
-   "mins": 30,
+   "mins": 35,
    "days": 3,
-   "question": "A dry moong seed holds a baby plant that is resting. Do they need water to start growing? And how much water does it take in?",
+   "question": "Dry moong seeds each hold a baby plant that is resting. Do seeds need water to start growing? And how much water does a seed take in?",
    "predict": "Guess first. Will the seeds on the dry cloth sprout? Will soaked seeds weigh more, less or the same as dry seeds? Why do you think so?",
    "fair_test": "To make it fair, use the same kind of seed, the same number of seeds and the same place. Change only one thing: wet cloth or dry cloth. Count 20 seeds on each, because a few seeds may not sprout at all.",
    "results_table": [
@@ -1814,12 +1816,12 @@
     {
      "day": 2,
      "mins": 10,
-     "what": "Weigh the soaked moong. Put 20 soaked seeds on a wet cloth. Count sprouts on both plates."
+     "what": "Weigh the soaked moong. Put 20 soaked seeds on a wet cloth."
     },
     {
      "day": 3,
-     "mins": 8,
-     "what": "Count sprouts on both plates again. Measure the longest root. Say what you think, what you saw and why."
+     "mins": 13,
+     "what": "Count the sprouts on both plates. Measure the longest root. Split a sprout open. Say what you think, what you saw and why."
     }
    ],
    "record": "Write the dry weight and the soaked weight. Fill in the sprout table for each day. Draw one dry seed and one sprout, the size they really are.",
@@ -1872,8 +1874,8 @@
     },
     {
      "id": "s4",
-     "mins": 8,
-     "do": "1. On days 2 and 3, count how many seeds have a tiny white root on each plate. 2. On day 3, measure the longest root with a ruler. 3. Write the numbers in the table.",
+     "mins": 6,
+     "do": "1. On day 3, count how many seeds have a tiny white root on each plate. 2. Measure the longest root with a ruler. 3. Write the numbers in the table.",
      "say": "Count the seeds that have sprouted. You can tell by the little white root poking out.",
      "kid": "Count the seeds with a white root on each plate. Write the numbers. Measure the longest root.",
      "chart": {
@@ -1887,16 +1889,10 @@
       ],
       "rows": [
        [
-        "Day 2",
-        "12",
-        "0",
-        "3"
-       ],
-       [
         "Day 3",
         "18",
         "0",
-        "15"
+        "8"
        ]
       ]
      },
@@ -2111,7 +2107,7 @@
      "qty": 4
     },
     {
-     "item": "about 20 small things from the kitchen, such as rice, dal, an onion, a potato, a lemon, haldi, jeera, a clove, tea leaves, jaggery, sugar, a spoon of curd, ghee, an egg, honey, a mushroom, salt and a cup of water",
+     "item": "about 20 small things from the kitchen, such as rice, dal, an onion, a potato, a lemon, haldi, jeera, a clove, tea leaves, jaggery, sugar, a spoon of curd, ghee, an egg, honey, salt, a cup of water and a mushroom if you have one",
      "qty": 20
     }
    ],
@@ -2219,7 +2215,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Show the six spots on the thali. Name each plant part and what it does.",
+     "do": "Show the six spots on the thali. Name each plant part and say what each one does.",
      "say": "A plant has six main parts. Roots take in water. Stems hold the plant up. Leaves make food. Flowers make seeds. Fruits hold seeds. Seeds hold baby plants. We eat all six!",
      "kid": "Plants have six parts. Root, stem, leaf, flower, fruit, seed. We eat all of them. Can you find one of each?",
      "context": "This is the first step of the Plant-Part Thali. You find one food from each part of a plant."
@@ -2295,7 +2291,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -2517,7 +2512,7 @@
       "a": 0,
       "why": "These foods are more than 90 parts water out of every 100. On a hot day we lose water in sweat, and they help replace it. Picking 'keep well for a year' mixes them up with seeds and grains. Watery fruits go off quickly, which is one reason we eat them fresh, in season."
      },
-     "think": "Why can we buy some foods in every season now, but our grandparents could not?"
+     "think": "Why can we buy some foods in every season now, but people long ago could not?"
     }
    ],
    "context": "This is an interview at a vegetable cart or market. You find out which foods are fresh in each season, and where in India they grow.",
@@ -2538,12 +2533,12 @@
   },
   {
    "id": "a6",
-   "title": "The Travelling Masala Box: grandmother's recipe",
+   "title": "The Travelling Masala Box: a family recipe",
    "mins": 25,
    "days": 1,
    "materials": [
     {
-     "item": "a phone or a visit to a grandparent or elder, a notebook, and the family masala box",
+     "item": "an elder to ask, in person or on the phone (a grandparent, a neighbour or a family friend), a notebook, and the family masala box",
      "qty": 1
     }
    ],
@@ -2588,7 +2583,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Look at how many ingredients came from far away.",
-     "say": "How many of our grandmother's ingredients travelled across the world to reach this kitchen?",
+     "say": "How many of the dish's ingredients travelled across the world to reach this kitchen?",
      "kid": "Count the ingredients from far away. Are you surprised?",
      "think": "If a dish uses chilli from the Americas, is it still an Indian dish? What makes a food belong to a place?"
     }
@@ -2596,7 +2591,7 @@
    "context": "This is a family interview. You collect a recipe from an elder and discover that many everyday Indian ingredients first came from far across the world.",
    "setup": [
     {
-     "art": "A child on a phone call with a grandmother, writing in a small notebook labelled 'Our Family Cookbook'.",
+     "art": "A child on a phone call with an elder, writing in a small notebook labelled 'Our Family Cookbook'.",
      "caption": "1. Ask an elder about a dish they loved as a child."
     },
     {
@@ -2635,7 +2630,7 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands after touching soil. Wash the greens before eating, and eat only the ones from the sunny tray that look fresh and green.",
+   "safety": "Wash the greens before eating, and eat only the ones from the sunny tray that look fresh and green.",
    "schedule": [
     {
      "day": 1,
@@ -2813,14 +2808,14 @@
      "id": "s1",
      "mins": 5,
      "do": "Explain the problem. Put 50 seeds on an open plate in the bathroom as the comparison.",
-     "say": "In the story of the seed library, the seeds were the most precious thing in the city. Farmers have the same job every year. Can we keep seeds safe from damp?",
+     "say": "In the story A Field in Every Packet, the seeds were the most precious thing in the city. Farmers have the same job every year. Can we keep seeds safe from damp?",
      "kid": "Seeds must stay dry and safe until sowing time. Put 50 seeds on an open plate in the bathroom. That is the comparison.",
      "context": "This is the first step of the Seed Safe challenge. You design a way to keep seeds dry and safe in a damp place, the way farmers store seed between seasons."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "List three ideas together before building any.",
+     "do": "Draw three ideas together before building any.",
      "say": "Before we build, let's think like engineers. Three ideas first.",
      "kid": "Think like an engineer. Draw three ideas before you build anything."
     },
@@ -2961,7 +2956,7 @@
    "youtube": "DTK-uWx_VQo",
    "mins": 4,
    "why": "A clear, friendly look at why a botanist calls tomatoes and cucumbers fruits. It matches the card on fruits and vegetables.",
-   "check": "Found by YouTube search. The title and channel checked automatically. Length is an estimate. A parent should preview it before showing. Video title: \"What's the Difference Between Fruits and Vegetables?\" by SciShow Kids."
+   "check": "Preview it before showing it to your child."
   },
   {
    "title": "How does milk turn into curd? Kitchen Chemistry",
@@ -2969,7 +2964,7 @@
    "youtube": "1mJjajDylxA",
    "mins": 4,
    "why": "An Indian explainer on how bacteria in curd turn milk thick and sour. Watch it after the Milk to Curd test.",
-   "check": "Found by YouTube search. The title and channel checked automatically. Length is an estimate. A parent should preview it before showing. Video title: \"How does milk turn into curd? | Kitchen Chemistry\" by Pratham Open School English."
+   "check": "Preview it before showing it to your child."
   },
   {
    "title": "What are hydrothermal vents?",
@@ -2977,7 +2972,7 @@
    "youtube": "xFAu8CqCtR8",
    "mins": 3,
    "why": "Real footage from the deep sea, from the scientists who run the submarine Alvin. It shows life that lives without sunlight. Good for the parent and curious older children.",
-   "check": "Found by YouTube search. The title and channel checked automatically. Length is an estimate. A parent should preview it before showing. Video title: \"What are hydrothermal vents?\" by Woods Hole Oceanographic Institution."
+   "check": "Preview it before showing it to your child."
   }
  ],
  "quiz": [
@@ -2991,7 +2986,7 @@
     "Paneer"
    ],
    "a": 0,
-   "why": "Jaggery is made from sugarcane juice, so it comes from a plant stem. Ghee and paneer come from milk, and eggs come from hens. Picking ghee often happens because it is yellow and oily like plant oil, but it is made from butter.",
+   "why": "Jaggery is made from sugarcane juice, so it comes from a plant stem. Ghee and paneer come from milk, and eggs come from hens. Picking ghee often happens because ghee is yellow and oily like plant oil, but ghee is made from butter.",
    "outcome": 0
   },
   {
@@ -3275,87 +3270,43 @@
  "jokes": [
   {
    "j": "Why did the tomato blush?",
-   "a": "They found out they were a fruit all along."
-  },
-  {
-   "j": "What did the moong say to the water?",
-   "a": "Wake me up when it's time to grow!"
+   "a": "Because she saw the salad dressing."
   },
   {
    "j": "Why did the potato go to the eye doctor?",
-   "a": "It had too many eyes to look after."
-  },
-  {
-   "j": "Why do bees have sticky hair?",
-   "a": "Because they use honeycombs."
+   "a": "She had too many eyes to look after."
   },
   {
    "j": "What do you call a mushroom that tells good jokes?",
    "a": "A fun-gi."
   },
   {
-   "j": "Why did the milk go to bed early?",
-   "a": "It wanted to wake up as curd."
-  },
-  {
-   "j": "What did the cow say to the grass?",
-   "a": "Thanks for lunch. I'll pass it on."
-  },
-  {
-   "j": "Why did the seed keep their lunchbox closed?",
-   "a": "It was saving it for when it grows up."
-  },
-  {
-   "j": "What is a chilli's favourite place to travel from?",
-   "a": "Far away. It came all the way from the Americas!"
-  },
-  {
-   "j": "Why was the salt so proud?",
-   "a": "It was the only one at dinner that had never been alive."
-  },
-  {
-   "j": "What did the Sun say to the mango?",
-   "a": "I'm in every bite of you."
-  },
-  {
-   "j": "Why don't dals ever get lost?",
-   "a": "They always stick together in the pot."
-  },
-  {
-   "j": "Why did the seed stay in bed all winter?",
-   "a": "It was waiting for water and warmth before getting up."
-  },
-  {
-   "j": "Why did the cauliflower get a prize?",
-   "a": "They were the best flower in the vegetable shop."
-  },
-  {
-   "j": "What did the idli batter say in the morning?",
-   "a": "I feel so much better after a good rise."
+   "j": "Why do bees have sticky hair?",
+   "a": "Because they use honeycombs."
   },
   {
    "j": "Why did the carrot get a medal?",
-   "a": "It was outstanding in its field."
-  },
-  {
-   "j": "What did the peanut say to the ground?",
-   "a": "Don't tell anyone, but I'm a seed, not a root."
+   "a": "She was outstanding in her field."
   },
   {
    "j": "Why did the honeybee go to school?",
    "a": "To get a little more buzz-ness sense."
   },
   {
+   "j": "What did the idli batter say in the morning?",
+   "a": "I feel so much better after a good rise."
+  },
+  {
    "j": "What did the tube worm say when asked about sunshine?",
    "a": "Never heard of it. I eat chemicals."
   },
   {
-   "j": "Why did the clove feel so young?",
-   "a": "It was picked while it was still a bud."
+   "j": "What did the cow say to the grass?",
+   "a": "Thanks for lunch. I'll pass it on."
   },
   {
-   "j": "What did the rice say to the chapati?",
-   "a": "We're both just seeds having a good day."
+   "j": "Why did the milk go to bed early?",
+   "a": "It wanted to wake up as curd."
   }
  ],
  "maths": [
@@ -3369,11 +3320,11 @@
    "why_maths": "Weighing before and after, then subtracting, tells us exactly how much water the seeds took in before they sprouted."
   },
   {
-   "problem": "In the sprouting test, a child counted the sprouted seeds on the wet cloth each day: day 1, 3 seeds. Day 2, 12 seeds. Day 3, 18 seeds. Draw a bar chart. On which day did the most new seeds sprout?",
-   "answer": "Day 2. 9 new seeds sprouted that day. Here is the bar chart.",
-   "explain": "Draw one bar for each day, as tall as its count. To find the new seeds each day, subtract the day before. Day 2: 12 take away 3 is 9 new seeds. Day 3: 18 take away 12 is 6 new seeds. 9 is more than 6 and more than 3, so day 2 had the most new sprouts.",
+   "problem": "In a sprouting test, a child counted the sprouted seeds on the wet cloth each day: after 1 day, 3 seeds. After 2 days, 12 seeds. After 3 days, 18 seeds. Draw a bar chart. On which day did the most new seeds sprout?",
+   "answer": "The second day. 9 new seeds sprouted that day. Here is the bar chart.",
+   "explain": "Draw one bar for each day, as tall as its count. To find the new seeds each day, subtract the day before. Second day: 12 take away 3 is 9 new seeds. Third day: 18 take away 12 is 6 new seeds. 9 is more than 6 and more than 3, so the second day had the most new sprouts.",
    "math_unit": "math.data.bar-charts.L3",
-   "context": "This is about the sprouting test. You put 20 soaked moong seeds on a wet cloth and counted how many had a white root each day.",
+   "context": "This is about the sprouting test. You put soaked moong seeds on a wet cloth and counted how many had a white root each day.",
    "how": "e2",
    "answer_chart": {
     "type": "bar",
@@ -3438,7 +3389,7 @@
    "why_maths": "Counting and drawing the groups shows how much of our food depends on plants, more clearly than a long list."
   },
   {
-   "problem": "In the Plant-Part Thali, a child opened a pea pod and counted 6 peas. Suppose one pea plant grows 5 pods like it. How many peas is that? If every one of those peas were planted and grew the same, how many pea plants would there be next year?",
+   "problem": "In the Plant-Part Thali, a child opened a pea pod and counted 6 peas. Suppose one pea plant grows 5 pods like this one. How many peas is that? If every one of those peas were planted and grew the same, how many pea plants would there be next year?",
    "answer": "30 peas, and so 30 pea plants next year.",
    "explain": "5 pods with 6 peas in each is 5 groups of 6. 6 + 6 + 6 + 6 + 6 = 30. So one plant makes 30 peas. Each pea is a baby plant, so planting all 30 could give 30 new pea plants. This is the sum Nina did in the story.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -3524,13 +3475,6 @@
    "kind": "place",
    "where": "Idukki district, Kerala",
    "why": "Walk past black pepper vines, cardamom bushes, cinnamon trees and clove trees, and see which part of each one goes in the masala box."
-  },
-  {
-   "title": "A farm, a dairy, a mill or the vegetable market near you",
-   "url": "",
-   "kind": "place",
-   "where": "anywhere",
-   "why": "Every food has a story before the shop. Ask the farmer, the milkman or the miller one question about their work."
   }
  ],
  "buy": [
@@ -3538,12 +3482,11 @@
    "id": "b-scale",
    "item": "Digital kitchen scale (up to 5 kg, shows single grams)",
    "kind": "tool",
-   "why": "Weighs the moong before and after soaking in the sprouting test.",
+   "why": "Weighs the moong before and after soaking in the sprouting test. It is useful in cooking too.",
    "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
    "used_in": [
     "e2"
-   ],
-   "plan": "Used again in the Weight L3 maths unit and in cooking."
+   ]
   },
   {
    "id": "b-iodine",
@@ -3580,23 +3523,21 @@
    "id": "b-tops",
    "item": "Tops and Bottoms, by Janet Stevens",
    "kind": "book",
-   "why": "A funny picture book about a clever hare who tricks a lazy bear by knowing which part of each plant we eat.",
+   "why": "A funny picture book about a clever hare who tricks a lazy bear by knowing which part of each plant we eat. Read it just before the Plant-Part Thali, then hunt for the 'tops', 'bottoms' and 'middles' in your own vegetable basket.",
    "url": "https://www.amazon.in/s?k=Tops+and+Bottoms+Janet+Stevens",
    "used_in": [
     "a2"
-   ],
-   "plan": "If bought, read it just before the Plant-Part Thali, then hunt for the 'tops', 'bottoms' and 'middles' in your own vegetable basket."
+   ]
   },
   {
    "id": "b-vavilov",
    "item": "The Murder of Nikolai Vavilov, by Peter Pringle",
    "kind": "book",
-   "why": "For the parent: the true history behind the story, about Vavilov, his seed collection and the siege of Leningrad.",
+   "why": "For the parent: the true history behind the story, about Vavilov, his seed collection and the siege of Leningrad. Read the siege chapter before telling the story, to answer your child's questions about what really happened.",
    "url": "https://www.amazon.in/s?k=The+Murder+of+Nikolai+Vavilov+Peter+Pringle",
    "used_in": [
     "c1"
-   ],
-   "plan": "For the parent only. Read the siege chapter before telling the story, to answer children's questions about what really happened."
+   ]
   }
  ],
  "warmup": [
@@ -3618,7 +3559,7 @@
   },
   {
    "q": "Is a mushroom a plant?",
-   "a": "No. They are a fungus."
+   "a": "No. Mushrooms are fungi."
   },
   {
    "q": "Name a food that was never alive.",
@@ -3665,6 +3606,8 @@
    "e2",
    "a2",
    "g1",
+   "p1",
+   "c1",
    "videos",
    "ws-core",
    "e1",
@@ -3676,9 +3619,7 @@
    "challenging",
    "a5",
    "a6",
-   "p1",
    "ws-stretch",
-   "c1",
    "c2",
    "big_questions",
    "ws-challenge",
@@ -3789,7 +3730,7 @@
   "art": "A child holding a single chapati up to the light, and inside the chapati, faintly, a whole wheat field, rain clouds and a Sun, with a thin golden line running from the chapati to the child's heart."
  },
  "how_we_found_out": {
-  "story": "For thousands of years, people made curd, bread and idli without knowing why the food changed. In the 1830s, a few scientists looked at fermenting liquids under microscopes and saw tiny yeast cells. But the famous German chemist Justus von Liebig said fermentation was only a chemical breakdown, like rotting. The yeast cells, he said, were not doing the work. In 1857, the French scientist Louis Pasteur studied liquids that were turning sour, like souring milk. Under his microscope he found living cells far smaller than yeast. When he added a few of them to a fresh sugary liquid, they multiplied, and the liquid turned sour. Without them, it stayed fresh. He showed that each kind of fermentation is done by its own kind of living microbe. In 1897, Eduard Buchner found that juice squeezed out of yeast, with no living cells in it, could also ferment sugar. It held enzymes, chemicals the yeast makes. So both sides were partly right: living microbes do the work, using chemicals they make.",
+  "story": "For thousands of years, people made curd, bread and idli without knowing why the food changed. In the 1830s, a few scientists looked at fermenting liquids under microscopes and saw tiny yeast cells. But the famous German chemist Justus von Liebig said fermentation was only a chemical breakdown, like rotting. The yeast cells, he said, were not doing the work. In 1857, the French scientist Louis Pasteur studied liquids that were turning sour, like souring milk. Under his microscope he found living cells far smaller than yeast. When he added a few of them to a fresh sugary liquid, they multiplied, and the liquid turned sour. Without them, it stayed fresh. He showed that each kind of fermentation is done by its own kind of living microbe. In 1897, Eduard Buchner found that juice squeezed out of yeast, with no living cells left inside, could also ferment sugar. It held enzymes, chemicals the yeast makes. So both sides were partly right: living microbes do the work, using chemicals they make.",
   "who": "Louis Pasteur, Justus von Liebig and Eduard Buchner",
   "when": "1857 to 1897",
   "wrong_idea": "Fermentation is only a chemical breakdown, like rotting, and the tiny living cells in it play no part."

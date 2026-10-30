@@ -187,7 +187,7 @@
    "concept": "Go, grow and glow: three jobs food does",
    "status": "defined",
    "definition": "Energy foods (go foods) give the body fuel. Body-building foods (grow foods) give protein to build and mend. Protecting foods (glow foods) give vitamins, minerals and fibre that keep the body working well.",
-   "description": "An easy way to plan a meal is to think of three jobs. Go foods are rice, chapati, millets like ragi and bajra, potatoes and bananas. Grow foods are dal, chana, rajma, sprouts, milk, curd, paneer, eggs, fish, meat and nuts. Glow foods are vegetables and fruits. Water and a little fat are needed too. Many foods do more than one job. Dal gives protein and also fibre and iron. Peanuts give protein, fat and energy. Milk gives protein and calcium. So the groups are a helpful map, not strict boxes. Different countries draw them differently. Some use five groups, some use a plate and some used a pyramid.",
+   "description": "An easy way to plan a meal is to think of three jobs. Go foods are rice, chapati, millets like ragi and bajra, potatoes and bananas. Grow foods are dal, chana, rajma, sprouts, milk, curd, paneer, eggs, fish, meat and nuts. Glow foods are vegetables and fruits. Water and a little fat are needed too. Many foods do more than one job. Dal gives protein and also fibre and iron. Peanuts give protein, fat and energy. Milk gives protein and calcium. So the groups are a helpful map, not strict boxes. Different countries draw them differently. Some use five groups, some use a plate and some have used a pyramid.",
    "examples": [
     "A lunch of rice (go), dal (grow) and bhindi poriyal (glow) does all three jobs.",
     "Egg bhurji with chapati and tomato does all three jobs too.",
@@ -512,7 +512,7 @@
   "note": "Lucy Wills (1888 to 1964) was a real British doctor and scientist. From 1928 she worked in Bombay, studying a dangerous anaemia in pregnant women who worked in the textile mills. She noticed that richer women rarely got it, so she suspected their food. She tested diets on animals in her laboratory, then found that Marmite, a cheap spread made from yeast left over from brewing, cured the women. She published this in the British Medical Journal in 1931. The missing nutrient, first called the 'Wills factor', was later named folic acid, or folate, in 1941, after it was found in spinach leaves. Kamal, her mother, the nurse, how Dr Wills looks, the conversations, the microscope scene and the methi tin are made up.",
   "text": [
    "In the winter of 1929, in the city of Bombay, my mother began to turn the colour of the moon.",
-   "My name is Kamal. I was ten. We lived in one room of a chawl in Parel, on the third floor, where the mill whistle woke us before the crows did. My mother, Sakhu, worked at a spinning machine in the cotton mill, twelve hours a day. There was a baby growing inside her. And every week she grew paler.",
+   "My name is Kamal. I was ten. We lived in one room of a chawl in Parel, on the third floor, where the mill whistle woke us before the crows did. My mother, Sakhu, whom I called Aai, worked at a spinning machine in the cotton mill, twelve hours a day. There was a baby growing inside her. And every week she grew paler.",
    "First it was her lips. Then it was the inside of her eyelids, which should be red like a guava and were white like a radish. On the stairs she stopped at every landing, holding the rail, breathing as if she had run all the way from the sea. 'It is nothing,' she said. 'It is the cotton dust.' Our neighbour said it was the heat. Another said it was the evil eye, and tied a black thread on Aai's wrist.",
    "I carried her tiffin to the mill gate at noon. It was always the same. Rice, a little thin dal water and a slice of onion. On good days, a green chilli. She always made me eat first. 'I am not hungry,' she said, and she meant it. Her stomach was full. It was the rest of her that was empty, but none of us knew that yet.",
    "Many women in our chawl were pale like her. Some of the pregnant ones went to hospital and did not come back. People said that is how it is for mill women. Nobody asked why.",
@@ -535,7 +535,7 @@
    "That summer I found a broken kerosene tin and filled it with earth from the railway side. I begged a pinch of methi seeds from the vegetable woman and pushed them in with my finger. I watered them every morning before the mill whistle.",
    "When the first leaves came, small and round and green, I picked a handful. I washed them at the tap, chopped them as fine as I could, and stirred them into my mother's dal."
   ],
-  "epiphany": "For the parent: the turn is the doctor's sentence, 'Enough food is not the same as the right food.' Sakhu's stomach was full of rice every day, but her diet was not balanced. It was missing a vitamin, later named folate, that the body needs only in tiny amounts to make new blood cells. Kamal's ending joins the two ideas without saying so: the missing thing was in leaves. The story also shows that whether a family eats a balanced diet often depends on money and work, not on knowing better. It quietly credits a woman scientist, a girl who asked the right question, and the women whose illness was taken seriously at last.",
+  "epiphany": "For the parent: the turn is the doctor's sentence, 'Enough food is not the same as the right food.' Sakhu's stomach was full of rice every day, but her diet was not balanced. It was missing a vitamin, later named folate, that the body needs only in tiny amounts to make new blood cells. Kamal's ending joins the two ideas without saying so: the missing thing was in leaves. Whether a family eats a balanced diet often depends on money and work, not on knowing better.",
   "ask": [
    "Aai said she was not hungry. Why was she still ill?",
    "What did the doctor mean when she said 'enough food is not the same as the right food'?",
@@ -596,7 +596,7 @@
     },
     {
      "kind": "score sheet",
-     "title": "My Body sheet: six cells, each with boxes to tick",
+     "title": "My Body sheet: six cells and a water drop, each with boxes to tick",
      "items": [
       "Muscle cell: needs 2 protein",
       "Brain cell: needs 2 energy",
@@ -610,12 +610,12 @@
    ],
    "rules": [
     "Each player has a My Body sheet. Shuffle the 24 food cards. Lay 5 face up in a row. This row is the market. Put the rest in a pile, face down.",
-    "On your turn, take one card from the market. Tick the boxes it fills on your sheet. Then fill the market back up to 5 from the pile.",
+    "On your turn, take one card from the market. Tick the boxes it fills on your sheet, then put the card on a discard pile. Fill the market back up to 5 from the pile. When the pile is empty, shuffle the discard pile and turn it face down as the new pile.",
     "Extra ticks are not kept. If your Brain cell already has their 2 energy, more energy does not count.",
     "A cell is fed when all their boxes are ticked. Colour them in.",
     "Each player gets 8 turns, like the meals and snacks of one day.",
     "Your body also needs water. Tick the Water drop by taking the buttermilk card, or by using one turn to say 'I drink water' instead of taking a card. If your Water drop is empty at the end, none of your cells count.",
-    "With friends or a parent: after 8 turns each, the player with the most fed cells wins. A tie goes to whoever fed the Gut-lining cell.",
+    "With friends or a parent: after 8 turns each, the player with the most fed cells wins. A tie goes to whoever fed the Gut-lining cell. If that is tied too, share the win.",
     "Playing alone: try to feed all six cells and tick the Water drop within 8 turns. Then try in 7, then in 6. Doing it in 5 is very hard and needs luck."
    ],
    "flow": [
@@ -696,7 +696,7 @@
        "Ghee, chips, peanuts, paneer"
       ],
       "a": 1,
-      "why": "Dal, ragi mudde, amla and egg give protein, energy, calcium, iron, fibre, vitamin C, vitamin A and fat. That feeds all six cells. The first set is all energy foods. The third set is mostly fat. Picking the first set usually means counting how much food there is, not how many kinds."
+      "why": "Dal, ragi mudde, amla and egg give protein, energy, calcium, iron, fibre, vitamin C, vitamin A and fat. That feeds all six cells. The first set gives only energy and a little fibre. The third set has no vitamin A or vitamin C. Picking the first set usually means counting how much food there is, not how many kinds."
      }
     }
    ],
@@ -728,33 +728,81 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "16 thali cards to cut out (each lists one meal)",
+     "title": "16 thali cards to cut out (the meal on the front, the answer on the back)",
      "items": [
-      "Rice, potato curry, papad",
-      "Chapati, dal, a glass of water",
-      "Idli, coconut chutney",
-      "Poha, a cup of tea",
-      "Rice, fish curry, a glass of water",
-      "Aloo paratha, pickle",
-      "Bhakri, pitla, onion",
-      "Curd rice, a glass of water",
-      "Rajma, rice",
-      "Bread, jam, a glass of milk",
-      "Instant noodles",
-      "Egg bhurji, chapati",
-      "Upma, banana",
-      "Ven pongal, ghee",
-      "Puri, chole, lassi",
-      "Ragi dosa, sambar with drumstick and pumpkin, buttermilk"
+      {
+       "f": "Rice, potato curry, papad",
+       "b": "Missing: grow (red) and glow (green). Either colour scores. Add dal or curd, and a green poriyal or salad. Potato is mostly starch, like rice."
+      },
+      {
+       "f": "Chapati, dal, a glass of water",
+       "b": "Missing: glow (green). Add a poriyal or a salad."
+      },
+      {
+       "f": "Idli, coconut chutney",
+       "b": "Missing: grow (red) and glow (green). Either colour scores. Add sambar with vegetables."
+      },
+      {
+       "f": "Poha, a cup of tea",
+       "b": "Missing: grow (red) and glow (green). Either colour scores. Add peanuts, peas or a fruit."
+      },
+      {
+       "f": "Rice, fish curry, a glass of water",
+       "b": "Missing: glow (green). Add a vegetable dish."
+      },
+      {
+       "f": "Aloo paratha, pickle",
+       "b": "Missing: grow (red) and glow (green). Either colour scores. Add curd and a salad."
+      },
+      {
+       "f": "Bhakri, pitla, onion",
+       "b": "Only a little missing: glow (green). Pitla is made from besan, a pulse, so it gives protein. Add a green leaf."
+      },
+      {
+       "f": "Curd rice, a glass of water",
+       "b": "Missing: glow (green). Add cucumber or a fruit."
+      },
+      {
+       "f": "Rajma, rice",
+       "b": "Missing: glow (green). Add a vegetable or a salad."
+      },
+      {
+       "f": "Bread, jam, a glass of milk",
+       "b": "Missing: glow (green). Add a fruit or a vegetable."
+      },
+      {
+       "f": "Instant noodles",
+       "b": "Missing: grow (red) and glow (green). Either colour scores. Add an egg or peanuts, and vegetables."
+      },
+      {
+       "f": "Egg bhurji, chapati",
+       "b": "Missing: glow (green). Add a salad or a vegetable."
+      },
+      {
+       "f": "Upma, banana",
+       "b": "Missing: grow (red). Add peanuts or curd."
+      },
+      {
+       "f": "Ven pongal, ghee",
+       "b": "Missing: glow (green). Cook vegetables into the pongal, or add a salad."
+      },
+      {
+       "f": "Puri, chole, lassi",
+       "b": "Missing: glow (green). Add a salad or a vegetable."
+      },
+      {
+       "f": "Ragi dosa, sambar with drumstick and pumpkin, buttermilk",
+       "b": "Balanced! Nothing is missing. Everyone who held up all three tokens scores 2 points."
+      }
      ]
     },
     {
      "kind": "tokens",
      "title": "Three colour tokens per player: yellow (go), red (grow), green (glow)",
      "items": [
-      "🟡",
-      "🔴",
-      "🟢"
+      "Yellow token (go foods): cut one for each player",
+      "Red token (grow foods): cut one for each player",
+      "Green token (glow foods): cut one for each player"
      ]
     },
     {
@@ -767,19 +815,20 @@
     }
    ],
    "rules": [
-    "Shuffle the thali cards and put them face down.",
-    "One player turns over a card and reads the meal out loud.",
-    "Everyone secretly holds up the token for the colour that is most missing: yellow for go foods, red for grow foods or green for glow foods.",
-    "Everyone who picked the right colour scores 1 point.",
-    "Then each player says one real food from your kitchen that would fill the gap. A food that is really in the kitchen right now scores 1 extra point.",
-    "Some cards are already balanced. If you think nothing is missing, hold up all three tokens together. That scores 2 points if you are right.",
-    "Playing alone: read each card, put your token on it, then check the answer list. Try to beat your own score next time."
+    "Shuffle the 16 thali cards and put them in a pile, meal side up when turned. You will play 8 cards.",
+    "One player turns over the top card and reads the meal on the front out loud. The answer on the back stays hidden.",
+    "Everyone holds up, at the same time, the token for the colour they think is most missing: yellow for go foods, red for grow foods or green for glow foods.",
+    "Turn the card over. Everyone whose colour is named on the back scores 1 point.",
+    "Then each player says one real food from the kitchen that would fill the gap. A food that is really in the kitchen right now scores 1 extra point.",
+    "One card is already balanced. If you think nothing is missing, hold up all three tokens together. That scores 2 points if the back says the meal is balanced.",
+    "After 8 cards, the player with the most points wins. A tie is a shared win.",
+    "Playing alone: read each card, hold up a token, then turn the card over and score yourself. Try to beat your own score next time."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Cut out the cards. 2. Give each player three tokens. 3. Shuffle the cards face down.",
+     "do": "1. Cut out the cards and the tokens. 2. Give each player three tokens. 3. Shuffle the cards and put them in a pile.",
      "say": "Every card is a real meal people eat. Our job is not to say a meal is bad. Our job is to spot which colour is missing, and find a food to fill the gap.",
      "kid": "Each card is a real meal. Find the colour that is missing. Then find a food to fill the gap.",
      "context": "This is the first step of What's Missing?, a quick game about balancing a plate. You spot which kind of food a meal is missing, and suggest one to add."
@@ -805,10 +854,10 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Take turns turning over a card. 2. Everyone holds up a token. 3. Score points. 4. Each player names a food from your kitchen to fill the gap.",
+     "do": "1. Take turns turning over a card and reading the meal. 2. Everyone holds up a token. 3. Turn the card over and score points. 4. Each player names a food from the kitchen to fill the gap.",
      "say": "Hold up your token. Now tell me a food in our kitchen right now that would fill the gap.",
      "kid": "Turn over a card. Hold up the missing colour. Then name a food from your kitchen to add.",
-     "parent": "Here are the answers. Chapati and dal need green, so add poriyal or salad. Idli and chutney are low in grow and green, so add sambar with vegetables. Poha and tea need grow and green, so add peanuts, peas or a fruit. Rice and fish curry need green. Aloo paratha and pickle need grow and green, so add curd and salad. Bhakri, pitla and onion is fairly balanced, because pitla is made from besan, a pulse. Accept green or all three tokens. Add a green leaf if you can. Curd rice needs green, so add cucumber or a fruit. Rajma rice needs green. Bread, jam and milk need green. Instant noodles need grow and green, so add an egg or peanuts and vegetables. Egg bhurji and chapati need green. Upma and banana need grow, so add peanuts or curd. Ven pongal and ghee need green, so cook vegetables into the pongal. Puri, chole and lassi need green. Ragi dosa, sambar and buttermilk are already balanced, so that card wins all three tokens."
+     "parent": "The answers are on the back of each card. Turn the card over only after everyone has held up a token. Most meals here miss green, so expect many green answers. Every card is a real meal that people eat, so do not call any of them bad."
     },
     {
      "id": "s4",
@@ -960,10 +1009,10 @@
     },
     {
      "t": "write",
-     "p": "Before the Paper Window Test, make a guess. Will a piece of fresh coconut leave a see-through spot? Why do you think so? How would the test show whether you were right?",
-     "lines": 4,
-     "a": "I think yes, because coconut is oily and we make coconut oil from it. If the spot is still see-through after 15 minutes, that shows fat. If it dries away, my guess was wrong. Fresh coconut is about one third fat, so it does leave a spot.",
-     "why": "A strong answer gives a guess with a reason, then says what result would prove it right or wrong.",
+     "p": "In the Paper Window Test, two friends rub plain chapati on paper. One friend's chapati leaves a see-through spot that stays. The other friend's leaves none. What could explain the difference?",
+     "lines": 3,
+     "a": "The first chapati may have had ghee or oil on it. Fat leaves a see-through spot that stays, so the spot shows fat. The second chapati was plain.",
+     "why": "A strong answer says the first chapati carried some fat, such as ghee, and connects a spot that stays with fat.",
      "how": "e1",
      "context": "In the Paper Window Test, you rub foods on paper and wait 15 minutes. A see-through spot that stays means fat."
     },
@@ -1069,24 +1118,23 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the Vanishing Blue test. Amla cleared the blue in 3 drops, and mosambi took 24. About how many times as much vitamin C is in a drop of amla as in a drop of mosambi?",
+     "p": "In the Vanishing Blue test, amla also contains other substances, called tannins, that clear the blue. What does this mean for the results?",
      "opts": [
-      "About 8 times as much",
-      "About 3 times as much",
-      "About 24 times as much",
-      "Less, because amla needed fewer drops"
+      "The drop counts are a good guide to vitamin C, but not an exact measure",
+      "The test measures only vitamin C, exactly",
+      "The test cannot tell juices apart"
      ],
      "a": 0,
-     "why": "Mosambi needed 24 drops to do the job that 3 drops of amla did. 24 divided by 3 is 8, so each drop of amla holds about eight times as much vitamin C. Picking 'less' reads the test backwards: fewer drops means more vitamin C in each drop.",
+     "why": "The test clears the blue with vitamin C and with some similar substances. So fewer drops usually points to more vitamin C, but it is a guide, not an exact measure.",
      "how": "e2",
      "context": "In the Vanishing Blue test, vitamin C makes a blue iodine and starch liquid turn clear. You count the drops of juice needed."
     },
     {
      "t": "write",
-     "p": "Guess before you test. In the Vanishing Blue test, will a packet fruit drink need more drops than fresh amla juice, or fewer? Why do you think so? What should you read on the packet first?",
+     "p": "In the Vanishing Blue test, a packet fruit drink is still blue after 40 drops. Does that prove it has no vitamin C? What would you check first?",
      "lines": 4,
-     "a": "I think the packet drink will need many more drops, because it is mostly water and sugar, with little real fruit. Vitamin C also breaks down over time. But I should read the label first, because some drinks have vitamin C added.",
-     "why": "A strong answer gives a guess and a reason, and knows that the label can change the guess.",
+     "a": "No. It may have only a little, too little to show in 40 drops. I would read the packet first, because some drinks have vitamin C added. The test is only a rough guide.",
+     "why": "A strong answer does not claim proof, and knows the label and the limit of 40 drops matter.",
      "how": "e2",
      "context": "In the Vanishing Blue test, vitamin C makes a blue iodine and starch liquid turn clear. You count the drops of juice needed."
     },
@@ -1098,14 +1146,14 @@
     },
     {
      "t": "mcq",
-     "p": "Remember Balloon Bellies. The sugar balloon grew big and the plain water balloon stayed flat. Why was the plain water bottle in the test?",
+     "p": "In Balloon Bellies, the atta balloon grew more slowly than the sugar balloon. Why?",
      "opts": [
-      "To show what happens with no food, so we can compare",
-      "To keep the yeast cool",
-      "Because water makes gas"
+      "Enzymes in the flour must first cut its starch into sugar for the yeast",
+      "Atta is poison for yeast",
+      "Atta has no energy in it"
      ],
      "a": 0,
-     "why": "The plain water bottle had the same yeast and warm water, but no food. It stayed flat. That shows the gas came from the yeast eating, not from the warmth or the water.",
+     "why": "Yeast eats sugar. Atta is mostly starch, which has to be cut into sugar first, so the yeast starts later. Atta does have energy, and the yeast does eat atta in the end.",
      "how": "e3",
      "context": "In Balloon Bellies, you feed yeast sugar, atta or nothing, and balloons on the bottles fill with gas."
     },
@@ -1296,7 +1344,7 @@
      "opts": [
       "Two groups of children, the same in every way except that one group eats the food, checked for months",
       "Ask children if they like the food",
-      "Give the food to one child and look at her teeth the next day"
+      "Give the food to one child and look at that child's teeth the next day"
      ],
      "a": 0,
      "why": "A fair test changes only one thing, and uses enough people and enough time. Two matching groups, followed for months, can show a real difference. One child for one day can show almost nothing. Liking a food tells you nothing about teeth."
@@ -1335,7 +1383,7 @@
      "t": "mcq",
      "p": "Most of the mass of the food your body burns leaves as carbon dioxide in your breath. Where can that carbon go next?",
      "opts": [
-      "Into a plant, who uses the carbon to make food",
+      "Into a plant, which uses the carbon to make food",
       "Nowhere. It disappears",
       "Back into the same chapati"
      ],
@@ -1390,7 +1438,7 @@
   {
    "id": "e1",
    "title": "The Paper Window Test: which foods carry fat?",
-   "mins": 25,
+   "mins": 28,
    "days": 1,
    "question": "Which of our everyday foods carry fat, and which carry a lot?",
    "predict": "Before you start, guess. Which foods will leave a see-through spot on the paper? Which will leave nothing? Write your guess next to each food, and say why you think so.",
@@ -1418,12 +1466,12 @@
      "qty": 1
     }
    ],
-   "safety": "Only small pieces are used. Wash your hands afterwards. You can eat the leftover food, but not the pieces that were rubbed on paper.",
+   "safety": "Skip the peanut if anyone in your family has a nut allergy. Wash your hands afterwards, and do not eat the pieces rubbed on paper.",
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
-     "what": "Guess, rub each food on its own square, wait 15 minutes, then hold each square up to the light and record the spots."
+     "mins": 28,
+     "what": "Guess, rub each food on its own square, wait 15 minutes, then hold each square up to the light and record the spots. Tell what you think, saw and why."
     }
    ],
    "record": "Fill in the table. Then draw a bar for each food, as tall as its spot: 0 for none, 1 for small, 2 for medium, 3 for big.",
@@ -1457,10 +1505,10 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. Leave the squares flat for 15 minutes so the water can dry. 2. Meanwhile, put 2 drops of oil into a tumbler of water and look from the top. 3. Read the card on why the body needs fat. 4. After 15 minutes, hold each square up to a window or a torch.",
+     "do": "1. Leave the squares flat for 15 minutes so the water can dry. 2. Meanwhile, put 2 drops of oil into a tumbler of water and look from the top. 3. Read the card 'Why the body needs fat'. 4. After 15 minutes, hold each square up to a window or a torch.",
      "say": "Water dries away. Fat does not. After 15 minutes, any spot still see-through is fat. Let's look.",
      "kid": "Wait 15 minutes. Meanwhile, drop 2 drops of oil into a tumbler of water. Does it mix? Then hold each square up to the light.",
-     "parent": "Expect big spots from oil, peanut and coconut, and medium ones from paneer and chips. Plain chapati and apple usually leave nothing once dry. If a spot still looks wet, wait 10 minutes more, because water spots can take time to dry. If the paper is very thin, use two layers. The oil in the tumbler floats as round drops and does not mix, even if you stir. Apple can leave a faint sticky mark from its sugar, but a fat spot is much clearer.",
+     "parent": "Expect big spots from oil, peanut and coconut, and a medium spot from chips or namkeen. Paneer is mostly water, so its spot may be small or faint. Plain chapati and apple usually leave nothing once dry. If a spot still looks wet, wait 10 minutes more, because water spots can take time to dry. If the paper is very thin, use two layers. The oil in the tumbler floats as round drops and does not mix, even if you stir. Apple can leave a faint sticky mark from its sugar, but a fat spot is much clearer.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: how big was each see-through spot after 15 minutes?",
@@ -1620,7 +1668,7 @@
      "buy": "b-iodine"
     },
     {
-     "item": "6 small steel bowls or glasses, and a tablespoon",
+     "item": "6 small steel bowls or glasses, a tablespoon, and a jug or large glass for mixing",
      "qty": 6
     },
     {
@@ -1807,7 +1855,7 @@
   {
    "id": "e3",
    "title": "Balloon Bellies: what do microbes like to eat?",
-   "mins": 50,
+   "mins": 61,
    "days": 1,
    "question": "Do tiny living things make more gas when they are fed sugar, flour or nothing at all?",
    "predict": "Before you start, guess. Which balloon will grow biggest: the sugar bottle, the atta bottle or the plain water bottle? Will any stay flat? Why do you think so?",
@@ -1846,12 +1894,11 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up mixes the warm water so it is never hot. Don't drink the mixture. When you finish, take the balloons off outside or over a sink, because the gas smells of yeast.",
    "schedule": [
     {
      "day": 1,
-     "mins": 50,
-     "what": "Set up three bottles of yeast with sugar, atta or nothing. Measure the balloons every 15 minutes for 45 minutes."
+     "mins": 61,
+     "what": "Set up three bottles of yeast with sugar, atta or nothing. Measure the balloons every 15 minutes for 45 minutes. Then talk about what you saw."
     }
    ],
    "record": "Fill in the table. Then draw a bar for each bottle, as tall as its balloon was round after 45 minutes.",
@@ -1859,9 +1906,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Show your child the yeast. 2. Explain that each grain is a clump of tiny living fungi, resting until they get water, warmth and food. 3. Ask them to guess which food the yeast will like best.",
-     "say": "Yeast is a living thing, a tiny fungus. Each grain holds thousands of them, resting. When they eat, they make a gas. Your gut microbes do the same thing with the fibre you cannot digest. Which food will these ones like best?",
-     "kid": "Yeast is alive. They are a tiny fungus, resting. When they eat, they make gas. Which food will it like best?",
+     "do": "1. Show your child the yeast. 2. Explain that each grain holds a great many tiny living fungi, resting until they get water, warmth and food. 3. Ask them to guess which food the yeast will like best.",
+     "say": "Yeast is a living thing, a tiny fungus. Each grain holds a great many of them, resting. When they eat, they make a gas. Your gut microbes do the same thing with the fibre you cannot digest. Which food will these ones like best?",
+     "kid": "Yeast is alive. Each grain holds a great many tiny fungi, resting. When they eat, they make gas. Which food will they like best?",
      "context": "This is the first step of Balloon Bellies. You feed yeast, a tiny living fungus, three different foods and watch balloons fill with the gas they make. It is a model of how gut microbes eat."
     },
     {
@@ -1909,7 +1956,7 @@
       "t": "mcq",
       "q": "The sugar balloon grew big. The water balloon stayed flat. What does that show?",
       "options": [
-       "Yeast makes gas only when they have food to eat",
+       "Yeast cells make gas only when they have food to eat",
        "Balloons grow by themselves in warm places",
        "Sugar makes gas without the yeast"
       ],
@@ -1983,7 +2030,6 @@
      "qty": 1
     }
    ],
-   "safety": "None. This is a looking and thinking activity.",
    "schedule": [
     {
      "day": 1,
@@ -2243,9 +2289,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Your child is now the enzymes. They unhook the clips one at a time. 2. Push each single clip through the slot into the 'blood' side. 3. Try to unhook the ball of wool. It cannot be cut up.",
-     "say": "You are the enzymes now, the tiny scissors in your spit and gut. Unhook each clip and send it through. Now try the fibre.",
-     "kid": "You are the enzymes. Unhook the clips one by one. Push each one through. Now try to cut the wool.",
+     "do": "1. Your child is now the enzymes. They unhook the clips one at a time. 2. Push each single clip through the slot into the 'blood' side. 3. Now try to push the ball of wool through the slot. It will not go, and enzymes cannot cut it.",
+     "say": "You are the enzymes now, the tiny scissors in your spit and gut. Unhook each clip and send it through. Now try the fibre. Can the wool get through?",
+     "kid": "You are the enzymes. Unhook the clips one by one. Push each one through. Now try to push the wool through. Can you cut it?",
      "parent": "The ball of wool is fibre. Our enzymes cannot cut it, so it cannot pass through the wall. It travels on to the large intestine, where the gut microbes eat it. Put it in the Gut microbes bowl."
     },
     {
@@ -2314,7 +2360,6 @@
      "qty": 1
     }
    ],
-   "safety": "None. Pour the sugar back into the jar afterwards, so it is not wasted.",
    "schedule": [
     {
      "day": 1,
@@ -2398,12 +2443,12 @@
   },
   {
    "id": "a5",
-   "title": "Grandmother's Plate: an interview",
+   "title": "An Elder's Plate: an interview",
    "mins": 20,
    "days": 1,
    "materials": [
     {
-     "item": "a grandparent or older person to talk to, in person or on the phone",
+     "item": "a grandparent or another older person to talk to, in person or on the phone",
      "qty": 1
     },
     {
@@ -2411,7 +2456,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -2425,10 +2469,10 @@
      "id": "s1",
      "mins": 10,
      "do": "Help your child ask these questions and write down the answers. What did you eat for breakfast when you were my age? What grains did you eat? Which vegetables and leaves? Where did your food come from? Did you have sweets, and when? Who cooked, and who ate first?",
-     "say": "Let's be food historians. We'll ask Paati, Aaji or Nani what she ate when she was your age. Real scientists collect old knowledge like this.",
+     "say": "Let's be food historians. We'll ask a grandparent, an older relative or an older neighbour what they ate when they were your age. Real scientists collect old knowledge like this.",
      "kid": "Ask your grandparent what they ate when they were your age. Write down their answers.",
      "parent": "Many elders will mention millets like ragi, bajra or jowar, wild or seasonal leaves, and fewer packet foods. Some will mention hunger or hard times. Listen with respect. The question 'who ate first?' often shows that women and girls ate last and least. That is worth talking about gently.",
-     "context": "This is the first step of Grandmother's Plate. You interview an elder about what they ate as a child."
+     "context": "This is the first step of An Elder's Plate. You interview an elder about what they ate as a child."
     },
     {
      "id": "s2",
@@ -2438,11 +2482,11 @@
      "kid": "Draw their plate and your plate side by side. What is the same? What is different?",
      "ask": [
       {
-       "q": "Why do you think people stopped eating millets so much?",
+       "q": "What is the biggest difference between the two plates?",
        "good": [
-        "Rice and wheat became cheaper.",
-        "Shops sell more rice and wheat.",
-        "People moved to cities."
+        "Theirs had millets, and mine has rice.",
+        "Theirs had fewer packet foods.",
+        "Theirs had more leaves."
        ]
       }
      ]
@@ -2453,13 +2497,13 @@
      "do": "Talk about what you have both learned. Ask your elder which of their old foods they miss.",
      "say": "Which of their old foods would you like to try? Could we cook one this week?",
      "kid": "Which old food would you like to try? Ask if you can cook it together.",
-     "think": "India asked the United Nations to name 2023 the International Year of Millets. Why might old grains be important for the future?"
+     "think": "Is there a food from their childhood that is hard to find today? Why do you think that is?"
     }
    ],
    "context": "This is an interview activity. You ask a grandparent or another elder what they ate when they were your age, and compare it with your plate today.",
    "setup": [
     {
-     "art": "A girl sitting beside her grandmother on the front step, notebook open, listening.",
+     "art": "A girl sitting beside an older woman on the front step, notebook open, listening.",
      "caption": "1. Ask an elder what they ate at your age."
     },
     {
@@ -2467,7 +2511,7 @@
      "caption": "2. Draw their plate and your plate side by side."
     },
     {
-     "art": "A girl pointing at the two plates and talking to her grandmother, who is laughing.",
+     "art": "A girl pointing at the two plates and talking to an older woman, who is laughing.",
      "caption": "3. Find three differences. Ask why things changed."
     }
    ]
@@ -2487,7 +2531,6 @@
      "qty": 1
     }
    ],
-   "safety": "None. There is no right or wrong number.",
    "schedule": [
     {
      "day": 1,
@@ -2500,7 +2543,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Before a meal, show your child the five-face scale. Ask them to point to how hungry they feel right now.",
+     "do": "First draw five faces in a row on a paper, from a very hungry face (1) to a very full face (5). Before a meal, show your child the scale and ask them to point to how hungry they feel right now.",
      "say": "Your body tells you when it needs food, and when it has had enough. Point to how hungry you feel now. 1 is very hungry, 5 is very full.",
      "kid": "Before you eat, point to how hungry you feel. 1 is very hungry. 5 is very full.",
      "context": "This is the first step of Hungry or Full? You notice the signals your body sends about hunger and fullness, before and after a meal."
@@ -2565,7 +2608,6 @@
      "qty": 1
     }
    ],
-   "safety": "None. Eat only foods your family normally eats. This is counting, not a challenge to eat strange things.",
    "schedule": [
     {
      "day": 1,
@@ -2585,7 +2627,7 @@
     {
      "day": 4,
      "mins": 5,
-     "what": "Add today's new plants. Ask the cook which spices went into the dal."
+     "what": "Add today's new plants. Ask whoever cooked which spices went into the dal."
     },
     {
      "day": 5,
@@ -2612,7 +2654,8 @@
      "do": "1. Draw a table with 7 rows, one for each day. 2. After dinner on day 1, list every different plant your child ate. 3. Remember the hidden ones: rice, wheat, the dal, onion, tomato, ginger, jeera, haldi and coriander.",
      "say": "Your gut microbes come in hundreds of kinds. Different kinds like different plants. Let's count how many plant kinds you eat this week.",
      "kid": "Every kind of plant feeds different gut microbes. Write every plant you ate today. Spices count too.",
-     "context": "This is the first step of the 30-Plant Week. You count every kind of plant you eat in a week, because different gut microbes eat different plants."
+     "context": "This is the first step of the 30-Plant Week. You count every kind of plant you eat in a week, because different gut microbes eat different plants.",
+     "parent": "Count only foods your family normally eats. This is counting, not a challenge to eat strange things."
     },
     {
      "id": "s2",
@@ -2684,7 +2727,7 @@
    ],
    "creative": [
     "Sprouted moong chaat with tomato and lemon, which stays fresh and has all three colours.",
-    "Ragi or bajra roti with a dry poriyal, using the old grains your grandparents ate.",
+    "Ragi or bajra roti with a dry poriyal, using old grains that many families used to eat.",
     "Last night's dal kneaded into the dough as dal paratha, so leftovers turn into tomorrow's tiffin."
    ],
    "your_turn": "Draw your five tiffins, one for each school day, and colour each part yellow, red or green. Make at least one with your own hands this week. Check how it looked at lunchtime.",
@@ -3091,7 +3134,7 @@
   "Can you feel the warmth of your breath? Which meal is that from?",
   "What do you think your gut microbes are eating right now?",
   "If you could add one thing to this meal to balance it, what would it be?",
-  "Which food did your grandparents eat that we don't eat any more?",
+  "Which food did people eat long ago that we eat much less now?",
   "Is anything on this plate made from a seed? A leaf? A root?",
   "How hungry are you, from 1 to 5?",
   "Who grew this food, and who cooked it?",
@@ -3104,84 +3147,40 @@
    "a": "To get a little more well-rounded."
   },
   {
-   "j": "What did the dal say to the rice?",
-   "a": "We make a great pair, we complete each other!"
-  },
-  {
-   "j": "Why did the carrot win a prize?",
-   "a": "It was outstanding in its field."
-  },
-  {
-   "j": "Why was the gut microbe never lonely?",
-   "a": "It lived with trillions of roommates."
-  },
-  {
-   "j": "Why did the chapati taste sweet after thirty chews?",
-   "a": "Your spit had been busy cutting its starch into sugar."
-  },
-  {
    "j": "Why did the banana go to the doctor?",
    "a": "It wasn't peeling well."
-  },
-  {
-   "j": "What is a mitochondrion's favourite game?",
-   "a": "Burning rubber. No, burning glucose!"
-  },
-  {
-   "j": "Why did the amla sit alone at the party?",
-   "a": "It was too sour to mix, but everyone needed its vitamin C."
-  },
-  {
-   "j": "Why did the paneer cube blush?",
-   "a": "It saw the salad dressing."
-  },
-  {
-   "j": "What did the stomach say to the vada?",
-   "a": "I'll break you down, but nicely."
-  },
-  {
-   "j": "Why did the glass of water join the thali?",
-   "a": "Because every plate needs a little support."
   },
   {
    "j": "Why do skeletons never eat too much?",
    "a": "They don't have the stomach for it."
   },
   {
-   "j": "What did the gut microbe say to the fibre?",
-   "a": "You are too tough for the human, but you are my favourite meal."
-  },
-  {
-   "j": "Why did the iron go to the lemon party?",
-   "a": "It wanted to be absorbed into the group."
-  },
-  {
    "j": "Why was the egg so good at football?",
    "a": "It knew how to scramble."
   },
   {
-   "j": "Why did the balloon on the sugar bottle look so pleased?",
-   "a": "It was full of itself."
-  },
-  {
-   "j": "Why was the cell so famous?",
-   "a": "They were a real cell-ebrity."
+   "j": "Why were the cells so famous?",
+   "a": "They were real cell-ebrities."
   },
   {
    "j": "Why did the ragi mudde roll out of the kitchen?",
    "a": "It was having a ball."
   },
   {
-   "j": "What did the tooth say to the jalebi?",
-   "a": "Please visit, but don't stay long."
+   "j": "Why did the glass of water join the thali?",
+   "a": "Because every plate needs a little support."
+  },
+  {
+   "j": "Why did the balloon on the sugar bottle look so pleased?",
+   "a": "It was full of itself."
   },
   {
    "j": "Why did the idli feel so light?",
    "a": "Its batter had microbes making bubbles all night."
   },
   {
-   "j": "What did one red blood cell say to the other?",
-   "a": "Let's go round together, it's in our blood."
+   "j": "What did the tooth say to the jalebi?",
+   "a": "Please visit, but don't stay long."
   }
  ],
  "maths": [
@@ -3438,8 +3437,7 @@
    "url": "https://www.amazon.in/s?k=What+Happens+to+a+Hamburger+Paul+Showers",
    "used_in": [
     "a3"
-   ],
-   "plan": "Read it after the Paper-Clip Journey, and ask your child to point to where each clip would be in the book's pictures."
+   ]
   },
   {
    "id": "b-book2",
@@ -3448,10 +3446,8 @@
    "why": "A friendly picture book on nutrients and a balanced diet.",
    "url": "https://www.amazon.in/s?k=Good+Enough+to+Eat+Lizzy+Rockwell",
    "used_in": [
-    "a2",
-    "g1"
-   ],
-   "plan": "Read one section a day during the unit, then find the same nutrients in your own thali."
+    "a2"
+   ]
   }
  ],
  "warmup": [

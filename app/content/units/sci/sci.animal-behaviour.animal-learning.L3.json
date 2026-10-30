@@ -1,0 +1,2464 @@
+{
+ "id": "sci.animal-behaviour.animal-learning.L3",
+ "title": "How animals learn: by trying, and by copying others",
+ "level": 3,
+ "summary": {
+  "text": "Watch someone tap a box twice before opening it, and you will probably tap it too, even if the tap does nothing. Animals learn in three main ways: from what happened before, by watching others, and by working things out. A dog learns a trick because the trick brought a treat, or because she watched her owner do it first. Crows learn from other crows which people are dangerous, and some crows use one stick to reach another stick. Young chimpanzees learn to fish for termites by watching their mothers for years. You will test whether people copy a step that does nothing, and compare your results with what chimpanzees did.",
+  "art": "A child tapping the lid of a clear plastic box with a steel spoon while a grandmother watches. Around them, small pictures: a dog watching her owner, two crows on a railing, and a young chimpanzee watching her mother poke a stick into a termite mound."
+ },
+ "intro": {
+  "hook": "Try this with a grown-up. Put a sweet inside a clear box and close the lid. Tap the lid twice with a spoon, then open it and take the sweet out. Put the sweet back and say, 'Your turn.' Did they tap the lid too? The tap did nothing, so why would anyone copy it?",
+  "text": "Learning means changing what you do because of what you have seen or what has happened to you. Every animal learns, from a bee to an elephant. Some animals mostly learn alone, by trying. Others learn a lot by watching. In this unit you find out how dogs, crows and chimpanzees learn, and you test how closely people copy.",
+  "art": "A grown-up's hand tapping the lid of a clear plastic box with a spoon, a toffee visible inside, and a child watching closely."
+ },
+ "outcomes": [
+  "I can explain the difference between something an animal is born knowing and something they learn.",
+  "I can give true examples of animals learning from what happened before, such as a dog learning a trick for a treat.",
+  "I can give true examples of animals learning by watching others, such as young chimpanzees learning to fish for termites.",
+  "I can explain the difference between copying every step and copying only what works.",
+  "I can run a fair test on how people copy, record the results in a table and say what they show.",
+  "I can explain how a way of doing things can spread through a group and become a tradition."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Learning",
+   "meaning": "Learning is changing what you do because of what you saw or what happened to you before.",
+   "example": "A street dog who was once given biscuits at a tea stall comes back to the same stall every evening.",
+   "art": "A street dog sitting hopefully beside a tea stall at dusk."
+  },
+  {
+   "term": "Instinct",
+   "meaning": "An instinct is something an animal can do without learning. They are born able to do so.",
+   "example": "A baby spider spins her first web without ever having seen one made.",
+   "art": "A tiny spider spinning a neat web in the corner of a window."
+  },
+  {
+   "term": "Reward",
+   "meaning": "A reward is something good that comes after an action, so the animal is more likely to do that action again.",
+   "example": "A dog gets a piece of chapati each time she sits when asked, so she sits more quickly next time.",
+   "art": "A dog sitting and a hand giving her a small piece of chapati."
+  },
+  {
+   "term": "Trial and error",
+   "meaning": "Trial and error means trying different ways until one works, then keeping the way that worked.",
+   "example": "A crow pecks at a tied plastic bag in different places until one peck tears it open.",
+   "art": "A crow pecking at a knotted plastic bag on a ledge."
+  },
+  {
+   "term": "Social learning",
+   "meaning": "Social learning is learning from others: by watching them, listening to them or following them.",
+   "example": "A young elephant learns which plants to eat by eating what her mother eats.",
+   "art": "A baby elephant reaching her trunk towards the leaves her mother is chewing."
+  },
+  {
+   "term": "Imitation",
+   "meaning": "Imitation is copying the exact actions you saw someone do, step by step.",
+   "example": "Your little cousin holds a phone to her ear and nods, just the way her mother does.",
+   "art": "A small girl holding a toy phone to her ear and nodding, her mother on a real phone behind her."
+  },
+  {
+   "term": "Emulation",
+   "meaning": "Emulation is copying the goal, not the exact actions. You see what someone got, then find your own way to get it.",
+   "example": "You see your friend get a mango off a branch with a stick. You get one by climbing a stool instead.",
+   "art": "One child reaching a mango with a stick, another child standing on a stool to reach a mango."
+  },
+  {
+   "term": "Overimitation",
+   "meaning": "Overimitation is copying steps that do nothing, even when you could see that they do nothing.",
+   "example": "A girl watches her uncle tap a jar lid three times before opening it, and taps it three times too.",
+   "art": "A girl tapping a jar lid with a spoon, three small marks showing the taps."
+  },
+  {
+   "term": "Tool",
+   "meaning": "A tool is an object an animal holds or moves to get something done, such as a stick for reaching food.",
+   "example": "A chimpanzee pokes a grass stem into a termite mound and pulls it out covered in termites.",
+   "art": "A chimpanzee holding a thin grass stem coming out of a termite mound, termites clinging to it."
+  },
+  {
+   "term": "Tradition",
+   "meaning": "A tradition is a way of doing something that spreads through a group by social learning and lasts for a long time.",
+   "example": "Some groups of chimpanzees in West Africa crack nuts with stones. Many other groups of chimpanzees never do.",
+   "art": "A chimpanzee mother cracking a nut on a flat stone with another stone, her young one watching."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "Born knowing, or learned?",
+   "status": "defined",
+   "definition": "An instinct is something an animal can do without learning. Learning is changing what you do because of what you saw or what happened before.",
+   "description": "A baby sea turtle hatches at night and crawls towards the sea. Nobody showed her the way. That is an instinct. A street dog who runs to the gate when the milk van comes has learned it, because the van has meant food before. Most of what animals do mixes the two. A weaver bird is born able to weave, but young males make messy nests at first and better ones with practice.",
+   "examples": [
+    "A chick pecks at grains soon after hatching. That is an instinct.",
+    "A cat runs to the kitchen at the sound of the fish seller's bicycle bell. That is learned.",
+    "A koel chick raised by crows still grows up calling 'koo-oo' like a koel, not like a crow."
+   ],
+   "perspectives": [],
+   "art": "Two pictures side by side: a baby turtle crawling down a moonlit beach to the sea, and a street dog running to a gate as a milk van arrives.",
+   "context": "This card is about the difference between what an animal is born able to do and what they learn."
+  },
+  {
+   "concept": "Learning from what happened before",
+   "status": "defined",
+   "definition": "When an action brings something good, an animal does it more often. When an action brings something bad, they do it less. The good thing is called a reward.",
+   "description": "This is how most dogs learn tricks. The dog sits, and a treat comes. After a few times, she sits as soon as she hears 'sit'. Trainers reward small steps, one at a time, to build a long trick. Some dogs also learn tricks by watching. Claudia Fugazza and Adam Miklósi, scientists in Hungary, tried another way. The owner did an action with an object, then said 'Do it!'. Dogs taught this way learned some object tricks faster than dogs taught only with rewards.",
+   "examples": [
+    "A dog learns to give her paw because a treat followed each time.",
+    "Pigeons fly down to a man who scatters grain at the same spot every morning.",
+    "Honeybees learn which colour of flower has the most nectar after a few visits."
+   ],
+   "perspectives": [],
+   "art": "A woman touching a small box with her hand while her dog watches, then the dog touching the same box with her nose.",
+   "context": "This card is about learning from what happened before, the way most dogs learn tricks."
+  },
+  {
+   "concept": "Learning by working it out",
+   "status": "defined",
+   "definition": "Working it out means solving a new problem by putting together what you already know, without trying every way first.",
+   "description": "Chaser was a border collie, a kind of sheepdog, in America. Her owner, John Pilley, taught her the names of 1,022 toys over three years. Then he put one new toy among toys she knew, and asked for it by a name she had never heard. She picked the new toy. She worked out that the new name must belong to the new toy. New Caledonian crows, from islands in the Pacific Ocean, solve puzzles with several steps. In one test in 2010, crows used a short stick to pull out a longer stick, then used the long stick to reach meat.",
+   "examples": [
+    "Chaser picked the only new toy when she heard a new name.",
+    "A crow used a short stick to get a long stick, then the long stick to get food.",
+    "You can do the same. If someone asks for 'the dax' and only one thing on the table is new to you, you pick that one."
+   ],
+   "perspectives": [],
+   "art": "A black-and-white border collie with a pile of soft toys, one toy picked up in her mouth.",
+   "context": "This card is about animals solving new problems by working them out."
+  },
+  {
+   "concept": "Learning by watching others",
+   "status": "defined",
+   "definition": "Social learning is learning from others. Animals learn which foods are safe, which places are dangerous and how to use tools by watching others.",
+   "description": "At Gombe in Tanzania, young chimpanzees learn to fish for termites. They poke a grass stem into the mound, wait, and pull it out covered in termites. It takes years to learn. In 2004, Elizabeth Lonsdorf and her team found that daughters watched their mothers fish more than sons did. The daughters learned it younger, and they pushed their stems in as deep as their mothers did. Crows learn this way too. In Seattle, crows that had never been caught learned to scold a mask that other crows scolded.",
+   "examples": [
+    "A young chimpanzee watches her mother fish for termites, then tries with her own stem.",
+    "A crow that was never harmed scolds a person whom other crows scold.",
+    "A young elephant eats the plants her mother eats."
+   ],
+   "perspectives": [],
+   "art": "A young chimpanzee sitting close to her mother at a termite mound, watching her pull out a grass stem.",
+   "context": "This card is about learning by watching, the way young chimpanzees learn to use tools."
+  },
+  {
+   "concept": "Copying every step, or copying what works?",
+   "status": "debated",
+   "description": "Chimpanzees shown a clear puzzle box skipped a step that did nothing. Children copied it. This is called overimitation. Grown-ups do it even more than children. Scientists agree that it happens, in children from Scotland to the Kalahari Desert in Africa. They argue about why people do it.",
+   "examples": [
+    "Most children aged 3 and 4 copied a useless poke into a puzzle box, even when the box was clear.",
+    "In a 2011 study in Scotland, grown-ups copied useless steps even more than children did.",
+    "Chimpanzees copied the useless step only when they could not see inside the box."
+   ],
+   "perspectives": [
+    {
+     "who": "Some scientists, such as Derek Lyons and Frank Keil",
+     "explanation": "People think that every step a grown-up shows must have a reason, even if they cannot see it. So they copy everything, to be safe."
+    },
+    {
+     "who": "Other scientists, such as Harriet Over and Malinda Carpenter",
+     "explanation": "People copy to fit in and to show they are like the person who showed them. Copying exactly is a way of being friends."
+    },
+    {
+     "who": "Others again",
+     "explanation": "Copying everything is a quick way to pick up skills too hard to work out alone, such as making a fishing net. It helps more often than it wastes time."
+    }
+   ],
+   "art": "A clear puzzle box with a hole on top and a door at the front. On one side a chimpanzee opens the door directly. On the other side a child pokes a stick into the top hole first.",
+   "context": "This card is about the difference between how chimpanzees and people copy. Scientists agree on what happens and still argue about why."
+  },
+  {
+   "concept": "Do animals have traditions?",
+   "status": "debated",
+   "description": "In 1953, on the island of Koshima in Japan, a young macaque monkey called Imo began washing sweet potatoes in water. Over the next years, most of her group did it too. In 2015, Lucy Aplin and her team in Wytham Woods, near Oxford, taught two great tits in each of several groups to open a puzzle box by sliding its door one way. Each group spread its own way, and the habit was still there the next year. Scientists argue about whether to call these traditions 'culture'.",
+   "examples": [
+    "Macaques on Koshima wash sweet potatoes, a habit that began with Imo.",
+    "Great tits in each group slid the puzzle door the same way as their group.",
+    "Some groups of chimpanzees crack nuts with stones, and others nearby do not."
+   ],
+   "perspectives": [
+    {
+     "who": "Many animal scientists, such as Andrew Whiten and Lucy Aplin",
+     "explanation": "Animals have culture: ways of doing things that are learned from others and last in a group."
+    },
+    {
+     "who": "Some other scientists",
+     "explanation": "Animal traditions are real, but human culture is different, because people build on each other's ideas for thousands of years. They keep the word 'culture' for that."
+    }
+   ],
+   "art": "A young macaque in shallow sea water washing a sweet potato, other macaques watching from the sand.",
+   "context": "This card is about habits that spread through a group of animals and last."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Almost all animals learn, from bees and fish to birds and apes.",
+   "evidence": "Scientists have trained bees, fish, birds and mammals to tell colours, smells or sounds apart for a reward."
+  },
+  {
+   "text": "Many animals learn by watching others, not only by trying alone.",
+   "evidence": "Crows that were never caught learned to scold a dangerous mask. Young chimpanzees copy their mothers' termite fishing."
+  },
+  {
+   "text": "People copy steps that do nothing more often than chimpanzees do.",
+   "evidence": "In puzzle box tests, chimpanzees skipped a useless step when they could see it did nothing. Children and grown-ups kept copying it."
+  },
+  {
+   "text": "Some animals keep ways of doing things in their group for years.",
+   "evidence": "Great tits in Wytham Woods kept their group's way of opening a puzzle box into the next year. Koshima macaques still wash food in water."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Monkey see, monkey do: apes copy everything without thinking.",
+   "who": "An old saying",
+   "for": "Apes do copy a lot, and they learn to use tools by watching.",
+   "against": "Chimpanzees shown a clear puzzle box skipped the useless step and went straight for the reward. People were the ones who copied everything.",
+   "status": "rejected",
+   "context": "This card is about an old saying that turned out to be wrong."
+  },
+  {
+   "claim": "Animals act only by instinct. Only people really learn.",
+   "who": "A common idea in the past",
+   "for": "Many animals do things they were never taught, such as a spider spinning a web.",
+   "against": "Dogs, crows, bees, fish and chimpanzees all change what they do after experience. Chaser learned over 1,000 names.",
+   "status": "rejected",
+   "context": "This card is about an old idea that animals cannot learn."
+  },
+  {
+   "claim": "Copying is the lazy way to learn. Working things out yourself is always better.",
+   "who": "A common idea",
+   "for": "Working it out helps you understand why something works.",
+   "against": "Some skills, like termite fishing or weaving a basket, are too hard to work out alone. Young chimpanzees take years and learn faster by watching.",
+   "status": "debated",
+   "context": "This card asks whether copying is a good way to learn."
+  },
+  {
+   "claim": "Only people have culture.",
+   "who": "Some scientists today",
+   "for": "People build on each other's ideas over thousands of years, from the wheel to the phone. No animal does that as far as we know.",
+   "against": "Chimpanzees, macaques, great tits, whales and dolphins keep group habits learned from each other for years.",
+   "status": "debated",
+   "context": "This card is about whether animals have culture."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "If you copy a step and never find out why, have you learned it?",
+   "kind": "deep",
+   "hint": "Think of the tap in the useless step test. Then think of something your family always does, but nobody knows why."
+  },
+  {
+   "q": "The chimpanzees skipped the useless step, and the children copied it. Who was cleverer?",
+   "kind": "deep",
+   "hint": "Skipping saves time. Copying keeps steps that might matter. Which would help more in a forest full of new things?"
+  },
+  {
+   "q": "Chaser knew the names of 1,022 toys. Did she understand them the way you understand words?",
+   "kind": "deep",
+   "hint": "She could fetch a toy by name. Could she tell you about it? What else does knowing a word mean?"
+  },
+  {
+   "q": "How many things you do each day did you learn by copying someone?",
+   "kind": "big",
+   "hint": "Brushing your teeth, folding your hands, the way you say hello."
+  },
+  {
+   "q": "If every crow in a city learned from other crows that a person is dangerous, does the city's crow group know something no single crow found out?",
+   "kind": "big",
+   "hint": "Who knows a tradition: each animal, or the group?"
+  }
+ ],
+ "story": {
+  "title": "The Tap on the Plate",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "Meenakshi, her grandmother, Arjun and the crows are made up. Feeding crows a little rice before lunch is a real custom in many Tamil homes. Animals learning that a sound comes before food is real and well studied, but this story's crows are invented.",
+  "text": [
+   "Meenakshi was nine. She lived with her Paati, her grandmother, on the fourth floor of a building in Madurai.",
+   "Every day, just before lunch, Paati did the same three things. She put a spoonful of rice on a small steel plate. She tapped the edge of the plate three times with a steel ladle. Ting, ting, ting. Then she turned the plate around once, set it on the balcony ledge, and stepped back.",
+   "Soon, the crows came. One, then two, sometimes four. They hopped along the ledge, looked at Paati with one eye, and ate the rice.",
+   "\"Paati, why do you tap the plate?\" Meenakshi asked one day.",
+   "Paati thought about it. \"My mother tapped it,\" she said. \"So I tap it.\"",
+   "\"And why do you turn it around?\"",
+   "\"My mother turned it too.\" Paati laughed. \"I never asked her why. I just did what she did.\"",
+   "That summer, Meenakshi's cousin Arjun came from Bengaluru to stay. He was seven. On his first day, he watched Paati feed the crows. On the second day, he asked if he could do it.",
+   "He put rice on the plate. Ting, ting, ting. He turned the plate around once, exactly as Paati did. He even stepped back and stood with his hands behind his back, the way Paati stood.",
+   "Meenakshi giggled. \"You copied everything,\" she said. \"Even the hands.\"",
+   "\"That's how you do it,\" said Arjun.",
+   "Meenakshi wasn't sure. The tapping and the turning looked useless. Crows eat rice. Why should they care about a ting or a turn?",
+   "So she decided to find out. She would do one test each day, and change only one thing.",
+   "On Monday, she put the rice on the plate. She did not tap. She turned the plate, put it on the ledge and stepped back. Then she waited.",
+   "Two crows were sitting on the neighbour's water tank. They did not look round. Five minutes went by, then ten. A pigeon came. At last, after nearly twenty minutes, one crow flew down.",
+   "On Tuesday, she did everything the usual way. Ting, ting, ting. The two crows on the water tank turned their heads at once. In less than a minute, they were on the ledge.",
+   "Meenakshi ran to Paati. \"The crows know the tap!\" she said. \"They hear the ting, and they know rice is coming.\"",
+   "Paati put down her vegetables. \"So that is why my mother tapped,\" she said slowly. \"She was calling them. And I never knew.\"",
+   "On Wednesday, Meenakshi tested the turn. She tapped, but she did not turn the plate. The crows came just as fast as on Tuesday.",
+   "\"The turning does nothing,\" she told Arjun. \"The crows don't see it, and they don't care.\"",
+   "Arjun frowned. \"Then why did Paati's mother turn it?\"",
+   "Nobody knew. Paati rang her older sister in Thanjavur that evening. Her sister remembered. Their mother's old plate had a dent in one side. Rice rolled into the dent, so she always turned the plate to put the dent at the back.",
+   "\"That plate was thrown away forty years ago,\" Paati said. \"And I have been turning a plate with no dent ever since.\"",
+   "Everyone laughed, Paati most of all.",
+   "The next day, Meenakshi showed Arjun how to feed the crows. \"Tap three times,\" she said. \"That part calls them. You can skip the turn. That part was for a plate with a dent.\"",
+   "Arjun tapped. Ting, ting, ting. The crows came. Then, very quickly, he turned the plate around anyway.",
+   "\"Arjun!\"",
+   "\"Just in case,\" he said, and grinned.",
+   "Meenakshi wrote it all in her notebook. Some steps we copy carry a reason that people have forgotten. Some steps are left over from a time that is gone. The only way to tell which is which is to test them, one at a time.",
+   "And the crows? The crows had been learning all along. They had learned that a ting from the fourth floor meant rice. Nobody had taught them. They had worked it out from what happened, day after day, for years."
+  ],
+  "epiphany": "For the parent: the crows had learned that the tap comes before the rice, so the tap really did call them. That is learning from what happened before. The turning was a step copied from a mother whose plate had a dent, long after the plate was gone. Paati and Arjun copied both steps without knowing which one mattered. That is overimitation, and people do it all the time. Meenakshi changed one thing at a time to find out which step mattered. That is a fair test.",
+  "ask": [
+   "Why did the crows come so quickly when Meenakshi tapped the plate?",
+   "Why did Paati turn the plate around? Did the crows care?",
+   "Meenakshi changed only one thing each day. Why was that important?",
+   "Arjun turned the plate 'just in case'. Do you think he was being silly or careful?",
+   "Is there something in your home that everyone does, but nobody knows why?"
+  ],
+  "art": [
+   "A grandmother on a fourth-floor balcony in Madurai tapping a small steel plate of rice with a ladle, crows watching from a water tank.",
+   "A small boy turning a steel plate around on a balcony ledge, his hands copying his grandmother's.",
+   "A girl in a school uniform sitting on the balcony floor with a notebook, two crows on the ledge eating rice.",
+   "A grandmother on the phone laughing, holding a plain steel plate up to the light.",
+   "The girl showing the boy how to tap the plate, the boy sneaking a quick turn, both laughing."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "How Did They Learn?",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game about true animal facts. Each card shows something an animal does, and the players guess how the animal learned it.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "20 animal cards to cut out (how they learned is on the back)",
+     "items": [
+      {
+       "f": "A baby spider spins her first web without ever seeing one made.",
+       "b": "Born knowing"
+      },
+      {
+       "f": "A newly hatched sea turtle crawls down the beach to the sea at night.",
+       "b": "Born knowing"
+      },
+      {
+       "f": "A chick pecks at grains soon after hatching.",
+       "b": "Born knowing"
+      },
+      {
+       "f": "A koel chick raised by crows grows up calling 'koo-oo' like a koel.",
+       "b": "Born knowing"
+      },
+      {
+       "f": "A newborn calf stands up and walks within a few hours of birth.",
+       "b": "Born knowing"
+      },
+      {
+       "f": "A dog sits when asked, because sitting has brought a treat many times.",
+       "b": "From what happened before"
+      },
+      {
+       "f": "Pigeons fly down to a man who scatters grain at the same spot every morning.",
+       "b": "From what happened before"
+      },
+      {
+       "f": "A cat runs to the kitchen at the sound of the fish seller's bell.",
+       "b": "From what happened before"
+      },
+      {
+       "f": "Honeybees go back to the flower colour that gave them the most nectar.",
+       "b": "From what happened before"
+      },
+      {
+       "f": "A young male weaver bird builds a messy nest at first, and better nests with practice.",
+       "b": "From what happened before"
+      },
+      {
+       "f": "A young chimpanzee watches her mother fish for termites, then pokes her own stem in just as deep.",
+       "b": "By watching others"
+      },
+      {
+       "f": "Crows that were never caught scold a mask that other crows scold.",
+       "b": "By watching others"
+      },
+      {
+       "f": "A great tit opens a puzzle door by sliding it the same way as the rest of her group.",
+       "b": "By watching others"
+      },
+      {
+       "f": "Imo, a young macaque in Japan, washed sweet potatoes in water. Soon, others in her group did too.",
+       "b": "By watching others"
+      },
+      {
+       "f": "A young elephant learns which plants to eat by eating what her mother eats.",
+       "b": "By watching others"
+      },
+      {
+       "f": "Some young dolphins in Australia carry a sea sponge on their snout while digging for fish, as their mothers do.",
+       "b": "By watching others"
+      },
+      {
+       "f": "Chaser, a dog, heard a toy name she had never heard before. She picked the only new toy.",
+       "b": "By working it out"
+      },
+      {
+       "f": "A crow uses a short stick to pull out a long stick, then uses the long stick to reach meat.",
+       "b": "By working it out"
+      },
+      {
+       "f": "A chimpanzee sees through a clear box that one step does nothing, and skips it.",
+       "b": "By working it out"
+      },
+      {
+       "f": "Rooks dropped stones into a tube of water to raise a floating worm within reach.",
+       "b": "By working it out"
+      }
+     ]
+    },
+    {
+     "kind": "board",
+     "title": "A sorting mat with 4 boxes",
+     "items": [
+      "Box 1: Born knowing",
+      "Box 2: From what happened before",
+      "Box 3: By watching others",
+      "Box 4: By working it out"
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the 20 cards. Put them in a pile with the fronts up. Lay the sorting mat in the middle.",
+    "On your turn, read the top card aloud. Say which box you think it goes in, and why.",
+    "Turn the card over. If you were right, keep the card. If not, put it in the right box on the mat.",
+    "Any player can say 'Challenge!' if they think the card could fit two boxes. If they can give a good reason, they win a card from the mat.",
+    "When the pile is finished, the player with the most cards wins. Playing alone, try to keep 15 or more."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut out the 20 cards and the sorting mat. 2. Shuffle the cards. 3. Put the pile face up next to the mat.",
+     "say": "Animals learn in different ways. Each card is a true fact about an animal. Your job is to guess how they learned it.",
+     "kid": "Cut out the cards. Mix them up. Each card is a true animal fact. Guess how the animal learned it.",
+     "context": "This is the first step of How Did They Learn?, a card game about the ways animals learn."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Play the spider card as a practice round.",
+     "say": "A baby spider spins her first web without ever seeing one made. Which box?",
+     "kid": "A baby spider spins her first web. She never saw one made. Which box?",
+     "check": {
+      "t": "mcq",
+      "q": "A baby spider spins her first web without ever seeing one made. How did she learn it?",
+      "options": [
+       "She was born knowing",
+       "By watching her mother",
+       "From a reward"
+      ],
+      "a": 0,
+      "why": "Spiders spin webs by instinct. Most baby spiders never meet their mother at all. Picking 'by watching her mother' is a good guess for a chimpanzee, but not for a spider."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 12,
+     "do": "Take turns reading cards, guessing and turning them over. Stop to talk about any card where people disagree.",
+     "say": "Before you turn it over, tell me why you chose that box.",
+     "kid": "Read the card. Pick a box. Say why. Then turn it over.",
+     "ask": [
+      {
+       "q": "The weaver bird card says 'from what happened before'. But weaving is also an instinct. Can it be both?",
+       "good": [
+        "Yes. He is born able to weave, but he gets better with practice.",
+        "Most things animals do mix instinct and learning."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Count the cards. Look at the box with the most cards on the mat.",
+     "say": "Which box was hardest to guess? Why do you think so?",
+     "kid": "Count your cards. Which box was hardest to guess?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "Twenty small cards spread on a table, each with an animal drawing, next to a mat with four boxes.",
+     "caption": "1. Cut out the cards and the mat."
+    },
+    {
+     "art": "A child holding up a card with a spider on it, pointing at the box marked 'Born knowing'.",
+     "caption": "2. Read a card and pick a box."
+    },
+    {
+     "art": "The child turning the card over to read the answer on the back.",
+     "caption": "3. Turn it over to check."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Action Telephone",
+   "mins": 15,
+   "players": [
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a copying game, like passing a whisper along a line, but with actions instead of words. It shows how a way of doing something changes, or stays the same, as it passes from one person to the next.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "8 secret action cards to cut out",
+     "items": [
+      "Clap twice. Touch your nose. Turn around once. Wave.",
+      "Tap the table three times. Pat your head. Stamp one foot. Bow.",
+      "Pretend to pour tea. Blow on it. Sip. Say 'Aaah'.",
+      "Fold your arms. Nod twice. Touch both ears. Jump once.",
+      "Pretend to draw a kolam dot. Draw a loop round it. Brush your hands. Smile.",
+      "Pretend to open a door. Look left. Look right. Tiptoe two steps.",
+      "Pretend to roll a dosa on a tawa. Flip it. Sniff it. Give a thumbs up.",
+      "Point at the ceiling. Wiggle your fingers. Hug yourself. Sit down."
+     ]
+    }
+   ],
+   "rules": [
+    "Stand in a line. The first player picks a secret card and reads it alone.",
+    "The first player does the four actions for the second player, without words. The others look away.",
+    "The second player does what they remember for the third player, and so on to the end of the line.",
+    "The last player does the actions for everyone. Then the first player reads the card aloud.",
+    "Everyone scores a point if all four actions arrived. With only 2 players, go first player, second player, then back to the first player, who copies the second player's version, not the card."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Cut out the 8 cards and shuffle them. 2. Make a line of players.",
+     "say": "We are going to pass actions along a line, without any words. Let's see if they arrive the same.",
+     "kid": "Make a line. You will copy actions with no words. Will they arrive the same?",
+     "context": "This is the first step of Action Telephone, a copying game."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Play 3 or 4 rounds, starting with a different player each time. After each round, read the card and compare.",
+     "say": "What changed on the way? What stayed the same?",
+     "kid": "Copy what you see. At the end, check the card. What changed?",
+     "ask": [
+      {
+       "q": "Which actions got lost or changed most often?",
+       "good": [
+        "The small ones, like touching an ear.",
+        "The ones in the middle of the list."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Talk about why some actions arrived and others did not.",
+     "say": "Young chimpanzees and children were tested in lines like this, with a puzzle box. A way of opening the box passed along a line of six chimpanzees.",
+     "kid": "Scientists tested chimpanzees in lines like this. They passed on a way to open a box.",
+     "check": {
+      "t": "mcq",
+      "q": "In Action Telephone, why do some actions change along the line?",
+      "options": [
+       "Each player copies what the player before them did, not the card",
+       "The card changes by magic",
+       "Players always change actions on purpose"
+      ],
+      "a": 0,
+      "why": "Each player sees only the player before them. A small slip is copied by everyone after. Traditions in animal groups and in people change in the same way, one copy at a time."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A girl reading a small card secretly while three family members wait in a line.",
+     "caption": "1. The first player reads a secret card."
+    },
+    {
+     "art": "The girl clapping and touching her nose while her mother watches.",
+     "caption": "2. Show the actions to the next player, with no words."
+    },
+    {
+     "art": "The last player doing the actions while everyone laughs and checks the card.",
+     "caption": "3. The last player shows everyone. Check the card."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Useless Step Test: do people copy a step that does nothing?",
+   "mins": 30,
+   "days": 1,
+   "context": "This is the main test of the unit. You show people how to open a clear box with a prize inside. One step does nothing. Do they copy it?",
+   "question": "If you show people how to open a box, and one step clearly does nothing, will they copy that step?",
+   "predict": "Guess first. When each person opens the box, will they tap the lid like you did? Will they turn the box around? Why do you think so?",
+   "fair_test": "Every person sees exactly the same show, with the same words. Test one person at a time, while the others wait in another room, so nobody copies anybody but you. Put the box, the spoon and the prize back in the same place each time.",
+   "results_table": [
+    "Person",
+    "Tapped the lid? (yes or no)",
+    "Turned the box around? (yes or no)",
+    "Opened the lid and took the prize? (yes or no)",
+    "Why they said they did it"
+   ],
+   "materials": [
+    {
+     "item": "a clear plastic box with a lid that lifts off, such as a takeaway container or a clear lunch box",
+     "qty": 1
+    },
+    {
+     "item": "a small prize: a toffee, a groundnut, a raisin or a folded paper star",
+     "qty": 1
+    },
+    {
+     "item": "a steel spoon",
+     "qty": 1
+    },
+    {
+     "item": "2 to 4 people who have not seen this test: grown-ups, grandparents, older cousins, neighbours or friends",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and pencil for the results table",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Practise the show. Test each person on their own. Ask them why. Compare with what chimpanzees did."
+    }
+   ],
+   "record": "Fill in the results table, one line for each person. Then write: what I think, what I saw, and why.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Put the prize in the clear box and close the lid. 2. Put the box and the spoon on a table. 3. Practise the show three times. Tap the lid twice with the spoon. Turn the box around once. Lift the lid and take the prize.",
+     "say": "You are the scientist today. You will show people how to open this box. The tap and the turn do nothing. Only lifting the lid matters.",
+     "kid": "Put the prize in the box. Close the lid. Tap the lid twice with the spoon. Turn the box around once. Lift the lid and take the prize. Practise three times.",
+     "parent": "The box must be clear, so everyone can see that tapping and turning do nothing. Your child should do the same show every time, at the same speed.",
+     "context": "This is the first step of the Useless Step Test. Here you get the box ready and practise the show."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Ask your child to guess what the people will do, and why. Write the guess at the top of the table.",
+     "say": "What do you think? Will they tap the lid too? Will they turn the box? Why do you think so?",
+     "kid": "Guess first. Will they tap the lid? Will they turn the box? Why? Write your guess.",
+     "ask": [
+      {
+       "q": "Why might someone copy the tap, even though it does nothing?",
+       "good": [
+        "They think it might matter.",
+        "They want to do it the right way.",
+        "They just copy what they see."
+       ]
+      }
+     ],
+     "parent": "Don't say whether the guess is right. The test will answer it."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Bring in the first person. Everyone else waits in another room. 2. Your child says: 'Watch me.' 3. Your child does the show. 4. They put the prize back, close the lid and say: 'Now you get the prize out.' 5. Watch and write down what the person does.",
+     "say": "Say only 'Watch me', and then 'Now you get the prize out'. Don't say 'copy me'.",
+     "kid": "Say 'Watch me.' Do the show. Put the prize back. Say 'Now you get the prize out.' Watch what they do. Write it down.",
+     "parent": "Saying 'copy me' would make people copy everything. The test is whether they choose to."
+    },
+    {
+     "id": "s4",
+     "mins": 8,
+     "do": "Test each other person the same way, one at a time. Don't let the next person watch.",
+     "say": "Same show, same words, for every person. Then it is fair.",
+     "kid": "Test the next person. Same show. Same words. Write what they do.",
+     "parent": "If you can, include one younger child and one grown-up. In a 2011 study in Scotland, grown-ups copied useless steps even more than children did."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "When everyone has had a turn, ask each person why they tapped the lid, or why not. Write their answers.",
+     "say": "Now we ask them why. Their answers are evidence too.",
+     "kid": "Ask each person why they tapped, or why they didn't. Write their answer.",
+     "ask": [
+      {
+       "q": "What did people say when you asked why they tapped?",
+       "good": [
+        "'I thought I had to.'",
+        "'You did it, so I did it.'",
+        "'I didn't think about it.'"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s6",
+     "mins": 5,
+     "do": "1. Count how many people tapped and how many turned the box. 2. Help your child say: what I think, what I saw, and why. 3. Then tell them what chimpanzees did.",
+     "say": "Scientists did this test with chimpanzees and a clear box. Most chimpanzees skipped the useless step and went straight for the reward. Children kept copying it.",
+     "kid": "Count how many people tapped. Say what you think, what you saw, and why. Then hear what the chimpanzees did.",
+     "check": {
+      "t": "mcq",
+      "q": "Chimpanzees were shown a clear puzzle box with a useless step. Most skipped that step. What did most children do?",
+      "options": [
+       "They skipped it too",
+       "They copied the useless step",
+       "They would not open the box"
+      ],
+      "a": 1,
+      "why": "Most children copied the useless step, even though the clear box showed it did nothing. This is called overimitation. Picking 'they skipped it too' is a good guess, because the step was clearly useless. But people copy more exactly than chimpanzees do."
+     },
+     "parent": "If nobody tapped, that is a real result too. Ask them why. Perhaps they saw the tap did nothing, as the chimpanzees did, or guessed it was a test. Scientists find that most people copy, but not everyone."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A clear plastic takeaway box with a toffee inside, and a steel spoon beside it on a table.",
+     "caption": "1. Put the prize in a clear box. Put a spoon next to it."
+    },
+    {
+     "art": "A child tapping the lid of the clear box twice with a steel spoon, while a grandmother watches.",
+     "caption": "2. Tap the lid twice, turn the box around, then open it."
+    },
+    {
+     "art": "The grandmother opening the box while the child writes in a notebook.",
+     "caption": "3. Put the prize back. Watch what the other person does. Write it down."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Pass It On: does a way of opening a box travel down a chain?",
+   "mins": 30,
+   "days": 1,
+   "context": "This test copies a real experiment with chimpanzees. A box can be opened two ways. You show one person one way. They show the next person. Does the same way arrive at the end?",
+   "question": "If a box can be opened two ways, and each person shows the next, will the way you showed travel down the whole chain?",
+   "predict": "Guess first. Will the last person in the chain open the box the same way you showed the first person? Why do you think so?",
+   "fair_test": "Each person sees only the person just before them. Nobody sees the card that says which way you chose. If you can, one extra person gets the box with no show at all, so you can see which door people pick on their own.",
+   "results_table": [
+    "Person in the chain",
+    "Who showed them",
+    "Door they used (top or side)",
+    "Did they also show the next person? (yes or no)"
+   ],
+   "materials": [
+    {
+     "item": "the two-door prize box from the challenge 'Build a Two-Door Prize Box', or a shoebox with a flap cut in the top and a flap cut in one side",
+     "qty": 1
+    },
+    {
+     "item": "a small prize, such as a toffee or a groundnut",
+     "qty": 1
+    },
+    {
+     "item": "at least 2 people besides you, and one more if you can for the no-show person",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up cuts the flaps in the box with scissors or a cutter.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Show the first person one door. Each person shows the next. Record the door each one uses."
+    }
+   ],
+   "record": "Fill in the table. Draw the chain as a row of stick people, with an arrow from each to the next and the door they used.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Put the prize in the box. 2. Choose a door in secret: top or side. 3. Write it on a slip of paper and fold it.",
+     "say": "This box opens two ways. Both work. You choose one way to show, and keep it secret.",
+     "kid": "Put the prize in the box. Choose a door: top or side. Write it on paper. Keep it secret.",
+     "adult": true,
+     "parent": "If you are making the box now, cut the flaps for your child. Both flaps must open just as easily, or people will choose the easy one.",
+     "context": "This is the first step of Pass It On, a test of how a way of doing things travels from person to person."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Write the guess.",
+     "say": "Will the last person use the door you chose? Why do you think so?",
+     "kid": "Guess. Will the last person use your door? Why?"
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Bring in person 1. 2. Open your door, take the prize, put it back and close the door. 3. Say: 'Now you get the prize out.' 4. Write which door they use.",
+     "say": "Show your door once, slowly. Say only, 'Now you get the prize out.'",
+     "kid": "Show your door once. Put the prize back. Say 'Now you get the prize out.' Which door did they use?"
+    },
+    {
+     "id": "s4",
+     "mins": 10,
+     "do": "1. Ask person 1 to show person 2 how they got the prize. 2. If there is a person 3, person 2 shows them. 3. Record each door.",
+     "say": "Now you only watch. Each person shows the next.",
+     "kid": "Now just watch. Each person shows the next one. Write which door each person uses."
+    },
+    {
+     "id": "s5",
+     "mins": 3,
+     "do": "If you have one more person, give them the box with no show. Just say: 'There is a prize inside. Get it out.'",
+     "say": "This person had no show. Which door do they pick on their own?",
+     "kid": "Give the box to one more person. Show them nothing. Which door do they pick?",
+     "parent": "This is the comparison. If the no-show person picks a door at random, and the chain kept yours, the chain shows copying, not just the easy door."
+    },
+    {
+     "id": "s6",
+     "mins": 4,
+     "do": "Read the secret slip aloud. Compare it with the doors in the table.",
+     "say": "In 2006, scientists did this with chimpanzees. The 'lift the door' way travelled down a chain of six chimpanzees.",
+     "kid": "Read your secret slip. Did your door reach the end of the chain?",
+     "check": {
+      "t": "mcq",
+      "q": "A box opens by the top door or the side door. You showed the side door. Everyone in the chain then used the side door. What does that show?",
+      "options": [
+       "The side door is the only way to open the box",
+       "Each person learned the way from the person before them",
+       "Everyone guessed the side door by luck"
+      ],
+      "a": 1,
+      "why": "Both doors worked, so each person used the side door because they saw it. This is how traditions travel. Picking 'only way' forgets that the top door works too. Luck is possible with only a few people, which is why the no-show person helps."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A shoebox with a flap cut in the top and another flap cut in the side, a toffee inside.",
+     "caption": "1. A box that opens two ways."
+    },
+    {
+     "art": "A girl opening the side flap while her mother watches.",
+     "caption": "2. Show the first person one way."
+    },
+    {
+     "art": "The mother opening the side flap while the father watches, and the girl writing in a notebook.",
+     "caption": "3. Each person shows the next. Write which door each one uses."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Who Taught You That?",
+   "mins": 10,
+   "days": 1,
+   "context": "This activity starts the unit with you. You list things you can do, and work out how you learned each one.",
+   "materials": [
+    {
+     "item": "a sheet of paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "List 8 things you can do and sort them by how you learned them."
+    }
+   ],
+   "record": "A table with four columns: born knowing, from what happened before, by watching others, by being told.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Draw four columns on the paper. 2. Label them: born knowing, from what happened before, by watching others, by being told. 3. Ask your child to name 8 things they can do.",
+     "say": "Tell me 8 things you can do. Anything at all: eat with your hand, ride a cycle, whistle, cry, draw a kolam.",
+     "kid": "Name 8 things you can do. Anything: eat, cycle, whistle, cry, draw a kolam.",
+     "context": "This is the first step of Who Taught You That?, about how you learned what you can do."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "Put each thing in a column. Talk about the ones that fit two columns.",
+     "say": "Who taught you that? Did you watch someone, or try until it worked, or were you born able to do it?",
+     "kid": "Put each thing in a column. Who taught you? Did you watch, try, or just know?",
+     "ask": [
+      {
+       "q": "Which column has the most things?",
+       "good": [
+        "By watching others.",
+        "From trying."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Look at the 'born knowing' column.",
+     "say": "Babies are born able to cry, suck and grab a finger. Almost everything else you can do, you learned.",
+     "kid": "Babies can cry and grab a finger from birth. Almost everything else, you learned.",
+     "think": "Which of your things did you learn by copying someone, without knowing why each step mattered?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A sheet of paper with four columns, the headings born knowing, from what happened before, by watching others, by being told.",
+     "caption": "1. Draw four columns."
+    },
+    {
+     "art": "A child writing 'ride a cycle' in one column and 'draw a kolam' in another.",
+     "caption": "2. Put each thing you can do in a column."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Pick the New One: learning a name like Chaser",
+   "mins": 10,
+   "days": 1,
+   "context": "Chaser, a dog in America, learned new toy names by working them out. In this activity you find out if you work out new names the same way.",
+   "materials": [
+    {
+     "item": "5 things from home that everyone knows the name of, such as a spoon, a comb, a pencil, a cup and a key",
+     "qty": 1
+    },
+    {
+     "item": "1 thing your child has no name for, such as an odd kitchen tool, a part from a broken toy or a strange bottle cap",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Lay out 6 things. Ask for 'the dax'. See which one your child picks."
+    }
+   ],
+   "record": "Write what you picked and why.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Lay the 6 things in a row on the floor, mixed up. 2. Say: 'Please pass me the dax.' 3. Don't point or look at any of them.",
+     "say": "Please pass me the dax.",
+     "kid": "Your grown-up will ask for 'the dax'. Pick the one you think it is.",
+     "parent": "'Dax' is a made-up word. Most children pick the one thing they have no name for. Look at the floor, not at the new thing, so your eyes don't give a clue.",
+     "context": "This is the first step of Pick the New One, an activity about learning new names."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "Ask your child why they picked that one.",
+     "say": "Why did you pick that one? Had you ever heard the word 'dax'?",
+     "kid": "Why did you pick that one? Had you heard 'dax' before?",
+     "ask": [
+      {
+       "q": "How did you know which one was the dax?",
+       "good": [
+        "The others already have names, so the new word must be the new thing."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Tell your child about Chaser.",
+     "say": "Chaser was a sheepdog who knew the names of 1,022 toys. Given a new name, she picked the only new toy, just as you did.",
+     "kid": "Chaser was a dog who knew 1,022 toy names. She picked the new toy for a new name. Just like you!",
+     "check": {
+      "t": "mcq",
+      "q": "Chaser heard a name she had never heard. Several toys were in front of her, and only one was new to her. Which did she pick?",
+      "options": [
+       "The biggest toy",
+       "The new toy",
+       "Her favourite toy"
+      ],
+      "a": 1,
+      "why": "She worked out that a new name must belong to the toy with no name yet. Picking 'her favourite toy' would mean she just picked what she liked. Scientists checked that she picked the new one again and again."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "Six objects in a row on a floor: a spoon, a comb, a pencil, a cup, a key and a strange metal kitchen tool.",
+     "caption": "1. Lay out 5 things everyone knows and 1 strange thing."
+    },
+    {
+     "art": "A child picking up the strange kitchen tool while her mother asks for 'the dax'.",
+     "caption": "2. Ask for 'the dax'. Which one does your child pick?"
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Termite Fishing: watch first, then copy",
+   "mins": 20,
+   "days": 1,
+   "context": "Young chimpanzees learn to fish for termites by watching their mothers. In this activity you fish for puffed rice with a sticky stick, before and after watching someone who knows how.",
+   "materials": [
+    {
+     "item": "a plastic bottle with a narrow neck, or a tall steel tumbler",
+     "qty": 1
+    },
+    {
+     "item": "2 handfuls of puffed rice (pori or murmura)",
+     "qty": 1
+    },
+    {
+     "item": "a thin stick from a coconut-leaf broom, or a bamboo skewer with the point cut off",
+     "qty": 1
+    },
+    {
+     "item": "a teaspoon of honey or thick jaggery syrup on a small plate",
+     "qty": 1
+    },
+    {
+     "item": "a tray or a newspaper to catch crumbs",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Fish 5 times on your own. Watch a grown-up fish. Fish 5 more times, copying them."
+    }
+   ],
+   "record": "Write how many puffed rice grains came out on each dip, before watching and after watching.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Put the puffed rice in the bottle. 2. Put the bottle on the tray. 3. Put the honey on the plate next to it.",
+     "say": "The puffed rice are termites inside a mound. The stick is your grass stem. Chimpanzees use stems like this.",
+     "kid": "The puffed rice are termites. The bottle is their mound. The stick is your fishing stem.",
+     "context": "This is the first step of Termite Fishing, an activity about learning a tool skill by watching."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Let your child dip the stick in the honey and fish 5 times on their own. Count the grains each time.",
+     "say": "Try on your own first. Count how many come out each time.",
+     "kid": "Dip the tip in honey. Push the stick in. Pull it out. Count the grains. Do it 5 times."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Now show your child a good way, slowly. 1. Dip only the tip in honey. 2. Push the stick right to the bottom. 3. Twist it once and hold for 3 seconds. 4. Pull it out slowly and straight.",
+     "say": "Watch me closely. Watch how deep I go, and how slowly I pull out.",
+     "kid": "Watch closely. How deep does the stick go? How slowly does it come out?",
+     "parent": "Don't explain each part. Just do it slowly twice, so your child learns by watching."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Your child fishes 5 more times, copying you. Count the grains each time.",
+     "say": "Now you try, the way you saw me do it.",
+     "kid": "Now copy what you saw. Fish 5 more times. Count the grains."
+    },
+    {
+     "id": "s5",
+     "mins": 3,
+     "do": "Add up the grains before watching and after watching. Clean up the honey.",
+     "say": "At Gombe in Tanzania, young chimpanzee daughters watched their mothers fish a lot. They pushed their stems in just as deep as their mothers.",
+     "kid": "Add up your grains. Did watching help? Chimpanzee daughters copied how deep their mothers went.",
+     "check": {
+      "t": "mcq",
+      "q": "Young chimpanzees at Gombe learn termite fishing. What did the daughters do that helped them learn younger?",
+      "options": [
+       "They watched their mothers fish more",
+       "They played more",
+       "They were born knowing how"
+      ],
+      "a": 0,
+      "why": "Daughters watched their mothers fish more than sons did, and they learned it younger. Termite fishing is not born knowing: it takes young chimpanzees years to learn."
+     },
+     "parent": "Wipe up any honey straight away, or ants will find it."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A narrow plastic bottle with puffed rice inside, on a tray, next to a thin broom stick and a plate of honey.",
+     "caption": "1. Puffed rice in a bottle, a thin stick and some honey."
+    },
+    {
+     "art": "A mother pushing the honey-tipped stick right to the bottom of the bottle, a child watching closely.",
+     "caption": "2. Watch a grown-up fish slowly and deeply."
+    },
+    {
+     "art": "The child pulling the stick out slowly, puffed rice stuck to the tip.",
+     "caption": "3. Copy them and count the grains."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "What Have They Learned? A window watch",
+   "mins": 15,
+   "days": 1,
+   "context": "City animals learn a lot about people. In this activity you watch from a window or balcony and look for animals doing something they must have learned.",
+   "materials": [
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    },
+    {
+     "item": "a window or balcony with a view of a road, a ledge, a tree or rooftops",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Watch for 10 minutes. Write each animal and one thing they seem to have learned."
+    }
+   ],
+   "record": "A list: the animal, what they did, and how you think they learned it.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "Sit at the window for 10 minutes. Write down every animal you see and what they do.",
+     "say": "Look for animals doing something they must have learned. A crow waiting near the bins. Pigeons gathering where someone throws grain. A dog at the tea stall.",
+     "kid": "Watch for 10 minutes. Which animals do you see? What are they doing?",
+     "parent": "Early morning or evening is best. Even ants on the sill count. If you see nothing, try again at a different time.",
+     "context": "This is the first step of What Have They Learned?, a window watch about city animals."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "For each animal, talk about how they might have learned what they did.",
+     "say": "Do you think that crow was born knowing the bins have food? Or did they learn it? How?",
+     "kid": "Pick one animal. Do you think they learned it? How?",
+     "ask": [
+      {
+       "q": "How could you test whether the pigeons learned the feeding time?",
+       "good": [
+        "Watch the same spot at the same time on a day when nobody feeds them.",
+        "See if they come before the grain is thrown."
+       ]
+      }
+     ]
+    }
+   ],
+   "setup": [
+    {
+     "art": "A child sitting at a window with a notebook, looking out at a road with a tea stall and crows on a wire.",
+     "caption": "1. Watch from a window for 10 minutes."
+    },
+    {
+     "art": "A notebook page with a list: crow, waits by bins; pigeons, gather at grain spot; dog, sits by tea stall.",
+     "caption": "2. Write each animal and what they seem to have learned."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "The Plate Lesson: can a bird learn which plate has food?",
+   "mins": 55,
+   "days": 5,
+   "context": "This 5-day project is for homes where crows, pigeons, mynas or squirrels visit a window or balcony. You find out if they learn which plate has food.",
+   "materials": [
+    {
+     "item": "2 plates or lids of different colours, such as a red plastic lid and a blue one",
+     "qty": 2
+    },
+    {
+     "item": "a little cooked rice or some grains, about a spoonful a day",
+     "qty": 1
+    },
+    {
+     "item": "a window ledge or balcony where birds already come",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Put food only on the red plate. Put the empty blue plate next to it. Watch for 5 minutes. Write which plate the first bird lands at."
+    },
+    {
+     "day": 2,
+     "mins": 10,
+     "what": "Same as day 1, but swap the places of the two plates."
+    },
+    {
+     "day": 3,
+     "mins": 10,
+     "what": "Same again, plates swapped back."
+    },
+    {
+     "day": 4,
+     "mins": 10,
+     "what": "Test day. Put a little food on both plates. Which plate does the first bird go to?"
+    },
+    {
+     "day": 5,
+     "mins": 15,
+     "what": "Test again. Make a tally chart of all 5 days and say what the birds learned."
+    }
+   ],
+   "record": "A tally chart: day, which plate the first bird went to, and how long they took to come.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Put a spoonful of rice on the red plate only. 2. Put both plates on the ledge, a hand-width apart. 3. Step back from the window. 4. Watch for up to 5 minutes and write which plate the first bird lands at.",
+     "say": "Birds learn from what happened before. Let's see if they learn that red means food.",
+     "kid": "Put rice on the red plate only. Put both plates out. Step back. Which plate does the first bird go to?",
+     "parent": "Put the plates out at the same time each day. Many families in Tamil Nadu already give crows a little rice before lunch, so that time often works.",
+     "context": "This is the first step of The Plate Lesson, a 5-day project about whether birds learn a colour."
+    },
+    {
+     "id": "s2",
+     "mins": 20,
+     "do": "On days 2 and 3, do the same, but swap the places of the plates each day.",
+     "say": "Why do we swap the places?",
+     "kid": "Swap the plates' places today. Watch again. Write it down.",
+     "ask": [
+      {
+       "q": "Why swap the plates' places each day?",
+       "good": [
+        "So the birds have to learn the colour, not the place."
+       ]
+      }
+     ],
+     "wait": "Come back tomorrow at the same time."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "On day 4, put a little rice on both plates. Write which plate the first bird goes to.",
+     "say": "Both plates have food today. Which one will the first bird pick?",
+     "kid": "Put rice on both plates. Which one does the first bird go to?",
+     "wait": "Come back tomorrow."
+    },
+    {
+     "id": "s4",
+     "mins": 15,
+     "do": "1. On day 5, test again with food on both plates. 2. Make a tally chart of all 5 days.",
+     "say": "What does the chart show? Did the birds learn the red plate?",
+     "kid": "Test again. Make a tally chart. Did the birds learn the red plate?",
+     "parent": "Birds may not learn in 3 days, or the first bird may be a new one each day. That is still a result. Say what you would change, such as more days.",
+     "check": {
+      "t": "mcq",
+      "q": "For 3 days, only the red plate had food. On day 4, both plates had food, and the first bird went straight to the red plate. Why?",
+      "options": [
+       "Birds are born liking red",
+       "The bird learned that the red plate had food before",
+       "The red plate was closer"
+      ],
+      "a": 1,
+      "why": "The bird learned from what happened before. Swapping the places each day means it was the colour, not the place. To check 'born liking red', you could start a new test where the blue plate has the food."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A red lid with rice and an empty blue lid side by side on a balcony ledge, a crow watching from a railing.",
+     "caption": "1. Rice on the red plate only, for 3 days."
+    },
+    {
+     "art": "The same two lids with their places swapped, an arrow showing the swap.",
+     "caption": "2. Swap the places each day."
+    },
+    {
+     "art": "Both lids with rice, a crow landing at the red one, and a child writing a tally mark.",
+     "caption": "3. On days 4 and 5, put food on both. Which plate does the first bird pick?"
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Build a Two-Door Prize Box",
+   "mins": 30,
+   "problem": "Scientists who test copying use a box that opens two different ways, both equally easy. Build one at home for the Pass It On test.",
+   "constraints": [
+    "Use only things from home.",
+    "Both doors must open just as easily.",
+    "A prize inside must be reachable through either door.",
+    "Nobody can see which door you used from the outside after it is closed."
+   ],
+   "materials": [
+    "a shoebox or a cardboard carton",
+    "scissors (a grown-up cuts)",
+    "tape",
+    "2 bottle caps or paper loops for handles",
+    "a toffee or a groundnut as the prize"
+   ],
+   "general": [
+    "Cut a flap in the top and a flap in one side. Tape a handle to each.",
+    "Cut one sliding door from cardboard that can slide left or slide right, like the box used for great tits.",
+    "Use a steel dabba with a lid that can be lifted, or twisted off."
+   ],
+   "creative": [
+    "Make one door push in and the other pull out.",
+    "Hang the prize on a thread in the middle, so it can be reached from either side.",
+    "Make the box clear by using a plastic bottle, so people can see inside."
+   ],
+   "your_turn": "Now design your own two-way box. Test it: time how long each door takes to open. If one is much quicker, change it until they match.",
+   "context": "This is an engineering challenge. You build the box used in the Pass It On test.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Look at the materials. Talk about what makes two doors equally easy.",
+     "say": "If one door is easier, everyone will pick that one, and the test won't tell us anything about copying.",
+     "kid": "Plan your box. Both doors must be just as easy. Why does that matter?",
+     "context": "This is the first step of the Two-Door Prize Box challenge."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "Draw the design. A grown-up cuts the flaps. Your child tapes on the handles.",
+     "say": "Draw it first. Show me where each door goes.",
+     "kid": "Draw your box. Show both doors. A grown-up cuts the flaps. You tape the handles.",
+     "adult": true
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "Time how long each door takes to open, three times each.",
+     "say": "Let's check they are equally easy. Time each door.",
+     "kid": "Open each door three times. Time it. Are they the same?",
+     "check": {
+      "t": "mcq",
+      "q": "Your top door takes 2 seconds to open. Your side door takes 10 seconds. What should you do before the Pass It On test?",
+      "options": [
+       "Nothing, it's fine",
+       "Make the side door easier, so both take about the same time",
+       "Tape the top door shut"
+      ],
+      "a": 1,
+      "why": "If one door is much easier, people will pick it whatever they saw. Then the test can't show copying. Taping one shut leaves only one way, so there is nothing to choose."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A shoebox with a pencil outline of a flap on the top and another on the side.",
+     "caption": "1. Mark a door on the top and a door on the side."
+    },
+    {
+     "art": "A grown-up cutting the flap with scissors while a child holds the box steady.",
+     "caption": "2. A grown-up cuts the flaps."
+    },
+    {
+     "art": "The finished box with bottle-cap handles on both doors and a toffee inside.",
+     "caption": "3. Add handles and test both doors."
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "Termite Fishing",
+   "channel": "Dr. Jane Goodall & the Jane Goodall Institute USA",
+   "youtube": "inFkERO30oM",
+   "mins": 3,
+   "why": "Wild chimpanzees fishing for termites with grass stems, the tool skill young chimpanzees learn by watching their mothers.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length."
+  },
+  {
+   "title": "Chaser the Dog Shows Off Her Smarts to Neil deGrasse Tyson",
+   "channel": "NOVA PBS Official",
+   "youtube": "omaHv5sxiFI",
+   "mins": 5,
+   "why": "Chaser, the border collie who learned the names of over 1,000 toys, picks out toys by name and works out a new name.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length."
+  },
+  {
+   "title": "Are crows the ultimate problem solvers? - Inside the Animal Mind: Episode 2",
+   "channel": "BBC",
+   "youtube": "AVaITA7eBZE",
+   "mins": 3,
+   "why": "A New Caledonian crow solves a puzzle with several steps, using one tool to reach the next.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "A baby sea turtle hatches on a dark beach and crawls straight to the sea. Nobody showed her. How does she know what to do?",
+   "opts": [
+    "She learned it by watching her mother",
+    "She was born knowing: it is an instinct",
+    "She was rewarded for it",
+    "She worked it out from a map"
+   ],
+   "a": 1,
+   "why": "Sea turtle mothers lay their eggs and swim away, so the babies never meet them. Crawling to the sea is an instinct. Picking 'watching her mother' would fit a chimpanzee, but not a turtle.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Revathi, a girl in Kochi, gives her dog a biscuit each time he gives his paw. Soon he gives his paw as soon as she holds out her hand. How did he learn?",
+   "opts": [
+    "He was born knowing it",
+    "From what happened before: the paw brought a biscuit",
+    "By watching another dog",
+    "By luck"
+   ],
+   "a": 1,
+   "why": "The biscuit is a reward. Actions that bring a reward happen more often. That is how most dogs learn tricks.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "At Gombe in Tanzania, young chimpanzees learn to fish for termites with grass stems. How do they mostly learn it?",
+   "opts": [
+    "They are born knowing how",
+    "By watching their mothers, for years",
+    "Scientists teach them",
+    "They read the termites' smell"
+   ],
+   "a": 1,
+   "why": "Young chimpanzees watch their mothers fish and practise for years. Daughters who watched more learned it younger. Termite fishing is not an instinct.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Crows in Seattle, in America, scolded a person wearing a certain mask. Some of the scolding crows had never been caught or harmed. How did they learn the mask was dangerous?",
+   "opts": [
+    "From other crows scolding the mask",
+    "They were born afraid of masks",
+    "The mask smelled bad",
+    "The person shouted at them"
+   ],
+   "a": 0,
+   "why": "Crows that had never been caught learned from seeing other crows scold the mask. That is social learning. The scolding spread over the years.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Chimpanzees and children watched a person open a clear puzzle box. First the person poked a stick in a top hole that did nothing. Then they opened the door. What happened?",
+   "opts": [
+    "Both chimpanzees and children skipped the poke",
+    "Both copied the poke",
+    "Most chimpanzees skipped the poke, and most children copied it",
+    "Most children skipped the poke, and chimpanzees copied it"
+   ],
+   "a": 2,
+   "why": "The clear box showed the poke did nothing. Most chimpanzees went straight for the door. Most children copied every step. This is overimitation.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "What is the difference between imitation and emulation?",
+   "opts": [
+    "Imitation copies the exact actions. Emulation copies the goal, in your own way.",
+    "They mean the same thing",
+    "Imitation is for animals, emulation is for people",
+    "Emulation is copying sounds"
+   ],
+   "a": 0,
+   "why": "Imitation copies every step. Emulation sees what someone got, and gets it your own way. The chimpanzees with the clear box emulated. The children imitated.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "In the Useless Step Test, why do you test one person at a time, with the others in another room?",
+   "opts": [
+    "So it is quicker",
+    "So each person copies only you, not the person before them",
+    "So nobody eats the prize",
+    "Because the box is small"
+   ],
+   "a": 1,
+   "why": "If the next person watched, they might copy the person before instead of you. Then you would not know what your show did. Keeping things the same for every person makes the test fair.",
+   "outcome": 4,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Lakshmi, a girl in Mysuru, does the Useless Step Test with 4 people. 3 of them tap the lid. What can she say?",
+   "opts": [
+    "Everyone in the world taps the lid",
+    "Most of the people she tested copied the useless tap",
+    "The tap opens the box",
+    "Nobody copies"
+   ],
+   "a": 1,
+   "why": "Her evidence is about the 4 people she tested. 3 out of 4 is most of them. To say more, she would need to test many more people.",
+   "outcome": 4,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Great tits in Wytham Woods, in England, were shown a puzzle box that opened by sliding a door left or right. Each group kept using the way their first birds were taught. What is this called?",
+   "opts": [
+    "An instinct",
+    "A tradition",
+    "Trial and error",
+    "An accident"
+   ],
+   "a": 1,
+   "why": "A way of doing something that spreads by social learning and lasts in a group is a tradition. Both ways worked, so the birds were copying their group.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "In 1953, a young macaque called Imo, on the island of Koshima in Japan, began washing sweet potatoes in water. What happened next?",
+   "opts": [
+    "She stopped after a day",
+    "Over the next years, most of her group began washing their food too",
+    "Only Imo ever did it",
+    "The sweet potatoes stopped growing"
+   ],
+   "a": 1,
+   "why": "Others watched Imo and began to wash their food too. The habit spread and lasted. Macaques on Koshima still wash food today.",
+   "outcome": 5
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "How Animals Learn (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "fill",
+     "p": "Something an animal can do without learning, from birth, is called an ____.",
+     "a": [
+      "instinct"
+     ],
+     "why": "An instinct is something an animal is born able to do, like a spider spinning a web."
+    },
+    {
+     "t": "sort",
+     "p": "Sort each one: is it an instinct, or is it learned?",
+     "cats": [
+      "Instinct",
+      "Learned"
+     ],
+     "items": [
+      [
+       "A chick pecks at grains soon after hatching",
+       "Instinct"
+      ],
+      [
+       "A dog sits when asked, for a treat",
+       "Learned"
+      ],
+      [
+       "A baby turtle crawls to the sea",
+       "Instinct"
+      ],
+      [
+       "Pigeons gather where a man scatters grain every morning",
+       "Learned"
+      ],
+      [
+       "A young chimpanzee fishes for termites with a stem",
+       "Learned"
+      ],
+      [
+       "A baby spider spins her first web",
+       "Instinct"
+      ]
+     ],
+     "a": "see items",
+     "why": "Instincts need no teaching and no practice. Learned things come from what happened before or from watching others. A strong answer says how each learned thing was learned."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these is a reward for a dog learning to sit?",
+     "opts": [
+      "A piece of chapati",
+      "A loud noise",
+      "Being ignored",
+      "A bath"
+     ],
+     "a": 0,
+     "why": "A reward is something good that comes after an action, so the action happens more. Food is a reward for most dogs. A loud noise would make sitting happen less."
+    },
+    {
+     "t": "truefalse",
+     "p": "A friend says: 'Only people can learn. Animals do everything by instinct.' Is your friend right?",
+     "a": false,
+     "why": "False. Dogs learn tricks, crows learn which people are dangerous, and bees learn flower colours. A strong answer gives one example."
+    },
+    {
+     "t": "write",
+     "p": "Remember the Useless Step Test, where you tapped the lid of a clear box before opening it. What did the people you tested do? Use your results table.",
+     "lines": 4,
+     "a": "A strong answer gives the numbers, such as '3 out of 4 people tapped the lid', and says what they said when asked why.",
+     "why": "Using your own results is the evidence. A strong answer gives a number and a reason someone gave.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "In the Useless Step Test, why does the box need to be clear?",
+     "opts": [
+      "So people can see that the tap does nothing",
+      "So it looks nice",
+      "So the prize stays fresh",
+      "Because steel boxes are heavy"
+     ],
+     "a": 0,
+     "why": "With a clear box, anyone can see the tap and the turn do nothing. If people copy them anyway, they are copying a step they can see is useless. That is what makes the test interesting.",
+     "how": "e1"
+    },
+    {
+     "t": "match",
+     "p": "Match each word to what it means.",
+     "pairs": [
+      [
+       "Imitation",
+       "copying the exact actions you saw"
+      ],
+      [
+       "Emulation",
+       "copying the goal, in your own way"
+      ],
+      [
+       "Reward",
+       "something good that comes after an action"
+      ],
+      [
+       "Tool",
+       "an object used to get something done"
+      ],
+      [
+       "Tradition",
+       "a way of doing things that spreads and lasts in a group"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These words come up all through the unit. A strong answer could also give an animal example of each."
+    },
+    {
+     "t": "mcq",
+     "p": "A young elephant eats the same plants her mother eats. How is she learning?",
+     "opts": [
+      "By instinct",
+      "By watching others",
+      "By a reward from people",
+      "She is not learning"
+     ],
+     "a": 1,
+     "why": "She learns which plants are good by following her mother. That is social learning. It also keeps her from eating plants that might harm her."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a young chimpanzee learning to fish for termites. Show who she is watching and what tool she uses.",
+     "a": "A young chimpanzee next to her mother at a termite mound, both holding grass stems, the mother's stem covered in termites.",
+     "why": "A strong drawing shows the mother as the one being watched, and a thin stem or stick as the tool.",
+     "art": "A blank space with a termite mound drawn at one side."
+    },
+    {
+     "t": "truefalse",
+     "p": "Chaser, a sheepdog in America, learned the names of more than 1,000 toys.",
+     "a": true,
+     "why": "True. Her owner, John Pilley, taught her 1,022 toy names over three years. A strong answer may add that she could also work out a new name."
+    },
+    {
+     "t": "fill",
+     "p": "Copying a step that does nothing, even when you can see it does nothing, is called ____.",
+     "a": [
+      "overimitation"
+     ],
+     "why": "Over means too much. Overimitation is copying more than you need to. People do it far more than chimpanzees."
+    },
+    {
+     "t": "perspective",
+     "p": "Two sisters in Chennai watched the Useless Step Test. They argue about the tap.",
+     "views": [
+      {
+       "who": "Divya, aged 9",
+       "says": "People who copied the tap were being silly. They could see it did nothing."
+      },
+      {
+       "who": "Kavya, aged 7",
+       "says": "Copying the tap was sensible. Maybe it matters in a way you can't see."
+      }
+     ],
+     "ask": "Which sister do you agree with? Use what you found in your test. Then say one thing the other sister has right.",
+     "lines": 5,
+     "a": "A strong answer uses evidence from the test, such as how many people tapped and why they said they did. It sees both sides. Divya is right that the tap did nothing in a clear box. Kavya is right that copying every step is often useful, because some steps matter in ways we can't see, like Paati's tap that called the crows.",
+     "why": "Scientists still argue about why people overimitate. Both sisters have part of the answer.",
+     "how": "e1"
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of the Useless Step Test in order.",
+     "items": [
+      "Ask the person why they tapped the lid",
+      "Do the show: tap, turn, open",
+      "Say 'Now you get the prize out'",
+      "Put the prize back and close the lid"
+     ],
+     "a": [
+      "Do the show: tap, turn, open",
+      "Put the prize back and close the lid",
+      "Say 'Now you get the prize out'",
+      "Ask the person why they tapped the lid"
+     ],
+     "why": "First the show, then reset the box, then let them try, and ask why only at the end, so the question doesn't change what they do.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "A crow pecks at a tied plastic bag in different places until one peck tears it open. What is this way of learning called?",
+     "opts": [
+      "Trial and error",
+      "Instinct",
+      "Imitation",
+      "A tradition"
+     ],
+     "a": 0,
+     "why": "Trying different ways until one works, and keeping the way that works, is trial and error. Imitation would mean copying another crow."
+    },
+    {
+     "t": "write",
+     "p": "Name one thing you learned by watching someone in your family. Who did you watch, and what did you copy?",
+     "lines": 3,
+     "a": "A strong answer names a real skill, such as drawing a kolam, folding a dhoti or making a dosa round, and says who was watched.",
+     "why": "Most of what children can do, they learned by watching. This connects the science to the child's own life."
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Copy or Work It Out? (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "odd",
+     "p": "Three of these were learned by watching others. Which one is the odd one out?",
+     "opts": [
+      "A young chimpanzee fishing for termites like her mother",
+      "A crow scolding a mask that other crows scold",
+      "A baby spider spinning her first web",
+      "A great tit sliding a puzzle door the same way as her group"
+     ],
+     "a": 2,
+     "why": "The spider spins by instinct. She never watches another spider. The other three learned from others."
+    },
+    {
+     "t": "mcq",
+     "p": "Chaser heard a toy name she had never heard. Only one toy in front of her was new to her. She picked it. What did she do?",
+     "opts": [
+      "She worked out that a new name must go with a new toy",
+      "She picked at random",
+      "She smelled the name",
+      "She was born knowing the toy"
+     ],
+     "a": 0,
+     "why": "She worked it out by leaving out the toys she already had names for. You do the same with a new word. Picking at random would not give the new toy every time."
+    },
+    {
+     "t": "write",
+     "p": "In the Pass It On test, a box opens by the top door or the side door. Why do both doors need to be equally easy to open?",
+     "lines": 3,
+     "a": "If one door is easier, people might pick it whatever they saw. Then you couldn't tell whether they copied or just chose the easy one.",
+     "why": "A strong answer explains that a fair test lets only the show make a difference.",
+     "how": "e2"
+    },
+    {
+     "t": "truefalse",
+     "p": "In puzzle box tests, grown-ups copied useless steps less than children did.",
+     "a": false,
+     "why": "False. In a 2011 study in Scotland, grown-ups copied useless steps even more than children did. Copying exactly seems to grow stronger as people grow up."
+    },
+    {
+     "t": "label",
+     "p": "Here is a picture of the clear puzzle box from the chimpanzee test. Label the part that did nothing and the part that gave the reward.",
+     "labels": [
+      "the hole on top",
+      "the door at the front"
+     ],
+     "a": [
+      "the hole on top: did nothing",
+      "the door at the front: gave the reward"
+     ],
+     "why": "The poke into the top hole was the useless step. The reward came out through the front door. Chimpanzees who could see this skipped the top hole.",
+     "art": "A clear box with a hole on top and a small door at the front, a sweet visible inside behind the door, and two empty label boxes."
+    },
+    {
+     "t": "mcq",
+     "p": "In Termite Fishing, a girl caught 2 grains per dip on her own, and 6 per dip after watching her aunt. What is the best explanation?",
+     "opts": [
+      "Watching showed her how deep and how slowly to fish",
+      "The honey got stickier",
+      "She was born knowing",
+      "The bottle got bigger"
+     ],
+     "a": 0,
+     "why": "She copied the way her aunt pushed in deep and pulled out slowly. To be sure, she could try a few more dips without watching, to check it wasn't just practice.",
+     "how": "a3"
+    },
+    {
+     "t": "write",
+     "p": "In the story 'The Tap on the Plate', Meenakshi tested the tap one day and the turn the next. Why didn't she change both on the same day?",
+     "lines": 3,
+     "a": "If she changed both, and the crows came slowly, she wouldn't know which change caused it. Changing one thing at a time shows what each one does.",
+     "why": "A strong answer explains changing only one thing at a time, which makes a test fair."
+    },
+    {
+     "t": "sort",
+     "p": "Sort each one by how the animal learned.",
+     "cats": [
+      "From what happened before",
+      "By watching others",
+      "By working it out"
+     ],
+     "items": [
+      [
+       "A cat runs to the kitchen at the fish seller's bell",
+       "From what happened before"
+      ],
+      [
+       "Young dolphins carry sponges on their snouts, as their mothers do",
+       "By watching others"
+      ],
+      [
+       "A crow uses a short stick to get a long stick, then reaches the meat",
+       "By working it out"
+      ],
+      [
+       "Honeybees return to the colour of flower with most nectar",
+       "From what happened before"
+      ],
+      [
+       "Imo's group began washing sweet potatoes",
+       "By watching others"
+      ]
+     ],
+     "a": "see items",
+     "why": "The bell and the flower colour came before food many times. The dolphins and macaques watched others. The crow put two steps together to solve a new problem."
+    },
+    {
+     "t": "fill",
+     "p": "When a chimpanzee sees what someone got, and finds their own way to get it, this is called ____.",
+     "a": [
+      "emulation"
+     ],
+     "why": "Emulation copies the goal, not the exact actions. The chimpanzees with the clear box emulated."
+    },
+    {
+     "t": "perspective",
+     "p": "A family in Hyderabad argues about how a child should learn to ride a cycle.",
+     "views": [
+      {
+       "who": "Amma",
+       "says": "Let her try again and again. She will find her balance herself."
+      },
+      {
+       "who": "Her older cousin, Farah",
+       "says": "Let her watch me first, many times. Then she will know what to do."
+      },
+      {
+       "who": "Grandfather",
+       "says": "Tell her the rules: pedal fast, look ahead, don't look down."
+      }
+     ],
+     "ask": "Which way of learning do you think works best for a cycle? Give a reason from this unit. Then say when one of the other ways would be better.",
+     "lines": 5,
+     "a": "A strong answer names a way, such as trying, and gives a reason, such as 'balance is something you feel, so you must try it'. It then says when another way helps, for example watching first to see where to put your feet, as the chimpanzee daughters watched their mothers.",
+     "why": "Animals use all three ways. The best one depends on the skill."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Plate Lesson project, why do you swap the places of the red and blue plates each day?",
+     "opts": [
+      "So the birds must learn the colour, not the place",
+      "So the plates get the same sun",
+      "To confuse the birds",
+      "Because birds like change"
+     ],
+     "a": 0,
+     "why": "If the red plate was always on the left, a bird might learn 'left means food'. Swapping makes the colour the only clue.",
+     "how": "p1"
+    },
+    {
+     "t": "truefalse",
+     "p": "A tradition is something an animal is born knowing.",
+     "a": false,
+     "why": "False. A tradition is learned from others in the group. Different groups of chimpanzees have different traditions, which shows they are not born with them."
+    },
+    {
+     "t": "write",
+     "p": "A family in Madurai always turned the crows' plate around, because a plate long ago had a dent. How could you test whether a step like this still matters?",
+     "lines": 3,
+     "a": "Do it with the step one day and without it the next, keeping everything else the same. If nothing changes, the step doesn't matter any more.",
+     "why": "A strong answer describes changing only that step and comparing."
+    },
+    {
+     "t": "order",
+     "p": "Put the Pass It On test in order.",
+     "items": [
+      "Person 2 shows person 3",
+      "You show person 1 one door",
+      "Read the secret slip and compare",
+      "Person 1 shows person 2"
+     ],
+     "a": [
+      "You show person 1 one door",
+      "Person 1 shows person 2",
+      "Person 2 shows person 3",
+      "Read the secret slip and compare"
+     ],
+     "why": "Each person shows the next, like passing a message along a line. Only at the end do you check whether your door arrived.",
+     "how": "e2"
+    },
+    {
+     "t": "draw",
+     "p": "Draw the Pass It On chain as stick people in a row, with an arrow from each person to the next. Write the door each person used.",
+     "a": "A row of stick people with arrows, each labelled 'side door' or 'top door'.",
+     "why": "A strong drawing makes it easy to see where the chain kept your door and where it changed.",
+     "how": "e2",
+     "art": "A blank strip with space for four stick people."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Traditions and Tests (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "write",
+     "p": "Chimpanzees with a clear box skipped the useless step. Children copied it. Give one reason why copying every step might help a young person learn.",
+     "lines": 4,
+     "a": "A strong answer says that some steps matter in ways you can't see, so copying everything is safer, for example when learning to make a medicine from leaves or to weave a net.",
+     "why": "Scientists think overimitation helps people learn hard skills whose reasons are hidden."
+    },
+    {
+     "t": "mcq",
+     "p": "Some chimpanzee groups in West Africa crack nuts with stones. Many other chimpanzee groups never do. What is the best explanation?",
+     "opts": [
+      "Nut cracking is a tradition, learned from others in the group",
+      "Only some chimpanzees are born knowing it",
+      "The other chimpanzees don't like nuts",
+      "Stones are only found in West Africa"
+     ],
+     "a": 0,
+     "why": "Differences between groups that are not explained by instinct or by what is around them point to traditions. Young chimpanzees learn nut cracking by watching for years."
+    },
+    {
+     "t": "perspective",
+     "p": "Scientists argue about whether animals have culture.",
+     "views": [
+      {
+       "who": "Dr Meera, an animal scientist",
+       "says": "Great tits, macaques and chimpanzees keep group habits learned from others for years. That is culture."
+      },
+      {
+       "who": "Dr Rao, another scientist",
+       "says": "Those are traditions, but people build on each other's ideas for thousands of years. Only that should be called culture."
+      }
+     ],
+     "ask": "Which scientist do you agree with? Give evidence from this unit. Then say what the other scientist has right.",
+     "lines": 6,
+     "a": "A strong answer uses real examples, such as the great tits keeping their door into the next year, or people building from the wheel to the cycle. It sees that the two scientists agree on the facts and disagree about the word 'culture'.",
+     "why": "This is a real debate. Both sides use true evidence."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Pass It On test, a no-show person picked the top door. Everyone in the chain used the side door, the one you showed. What does the no-show person tell you?",
+     "opts": [
+      "The side door is not the obvious choice, so the chain was copying",
+      "The test failed",
+      "The top door is broken",
+      "Nothing at all"
+     ],
+     "a": 0,
+     "why": "The no-show person shows what people do on their own. If they pick differently from the chain, the chain's choice came from copying. One person is a small sample, so more no-show people would be better.",
+     "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "Ramya, a girl in Class 3, tested only her mother in the Useless Step Test. Her mother tapped the lid. Ramya says, 'Everybody copies useless steps.' What is wrong with her claim, and what should she do?",
+     "lines": 4,
+     "a": "One person is not enough to say 'everybody'. She should test more people, one at a time, and say 'most of the people I tested' only if most of them copied.",
+     "why": "A strong answer explains that a claim should be as big as the evidence."
+    },
+    {
+     "t": "truefalse",
+     "p": "Crows that had never been caught could still learn that a mask was dangerous.",
+     "a": true,
+     "why": "True. In Seattle, crows that were never caught learned to scold the mask by seeing other crows scold it. A strong answer names this as social learning."
+    },
+    {
+     "t": "fill",
+     "p": "Changing what you do because of what you saw or what happened to you before is called ____.",
+     "a": [
+      "learning"
+     ],
+     "why": "Learning can come from rewards, from watching or from working things out. It is different from instinct."
+    },
+    {
+     "t": "mcq",
+     "p": "Claudia Fugazza and Adam Miklósi trained dogs by doing an action and then saying 'Do it!'. What were the dogs learning from?",
+     "opts": [
+      "Watching a person do the action",
+      "Smelling the object",
+      "Being punished",
+      "Instinct"
+     ],
+     "a": 0,
+     "why": "This method uses the dog's ability to copy what they saw a person do. For some object tricks, it was quicker than rewards alone."
+    },
+    {
+     "t": "write",
+     "p": "In the Plate Lesson, the first bird went to the red plate on day 4, but to the blue plate on day 5. Give two reasons this could happen.",
+     "lines": 4,
+     "a": "It might be a different bird who never learned the red plate. The bird may not have learned the colour well in only 3 days. A strong answer suggests a fix, such as more days.",
+     "why": "Odd results are a clue. A strong answer thinks about who the bird was and how much time they had to learn.",
+     "how": "p1"
+    },
+    {
+     "t": "match",
+     "p": "Match each scientist to what they found.",
+     "pairs": [
+      [
+       "Victoria Horner and Andrew Whiten",
+       "chimpanzees skipped a useless step that children copied"
+      ],
+      [
+       "Elizabeth Lonsdorf",
+       "chimpanzee daughters learned termite fishing by watching their mothers"
+      ],
+      [
+       "John Pilley",
+       "a dog learned the names of 1,022 toys"
+      ],
+      [
+       "Lucy Aplin",
+       "great tits kept their group's way of opening a puzzle box"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each of these scientists found out something about how animals learn from others or from what happened before."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these are traditions. Which one is the odd one out?",
+     "opts": [
+      "Koshima macaques washing sweet potatoes",
+      "Some chimpanzee groups cracking nuts with stones",
+      "A great tit group sliding a puzzle door left",
+      "A baby turtle crawling to the sea"
+     ],
+     "a": 3,
+     "why": "The turtle acts by instinct, the same on every beach. The other three were learned from others and differ from group to group."
+    },
+    {
+     "t": "draw",
+     "p": "Invent a new puzzle box for testing copying. Draw it, and label one useless step and the step that really opens it.",
+     "a": "Any clear drawing with one labelled useless step, such as a button that does nothing, and one real way in.",
+     "why": "A strong design makes the useless step easy to see, so the test shows whether people copy what they can see is useless.",
+     "art": "A blank square for the drawing."
+    },
+    {
+     "t": "mcq",
+     "p": "Meenakshi's crows came quickly after the tap, and slowly without it. What had the crows learned?",
+     "opts": [
+      "That the tap comes before the rice",
+      "That tapping is fun",
+      "Nothing, it was luck",
+      "That the plate is steel"
+     ],
+     "a": 0,
+     "why": "The tap came before the rice, day after day, so the crows linked the sound with food. That is learning from what happened before. One day each is few, so more days would make it surer."
+    },
+    {
+     "t": "truefalse",
+     "p": "Children in many countries, including children in the Kalahari Desert in Africa, copy useless steps.",
+     "a": true,
+     "why": "True. Overimitation has been found in children in many places, not just in one country. That suggests it is a deep part of how people learn."
+    },
+    {
+     "t": "write",
+     "p": "Think of one thing your family always does in a special way. Is every step needed? How could you find out without upsetting anyone?",
+     "lines": 4,
+     "a": "A strong answer names a real habit, says which step might not be needed, and suggests a gentle, fair test, such as trying it once without that step and comparing.",
+     "why": "This uses the idea of the unit, that copied steps may or may not still matter, on the child's own life."
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Dog trainers use rewards to teach guide dogs, rescue dogs and sniffer dogs at airports.",
+  "Some trainers use 'Do as I do', where the dog watches a person first.",
+  "Zoos give animals puzzle feeders, so they can learn and solve problems every day.",
+  "Teachers show a skill step by step, because children learn so well by watching.",
+  "Scientists who protect animals teach young ones raised by people the skills their parents would have shown them, such as which foods are safe.",
+  "Farmers and city workers learn how monkeys, crows and pigeons learn, to keep them away from crops and food without harming them."
+ ],
+ "spotted": [
+  {
+   "text": "Crows waiting on a wall when a family puts out rice before lunch.",
+   "art": "Three crows on a compound wall watching a woman with a steel plate of rice."
+  },
+  {
+   "text": "Pigeons flying down to a grain seller who feeds them at the same spot each morning.",
+   "art": "A crowd of pigeons around a man scattering grain near a temple."
+  },
+  {
+   "text": "Street dogs sitting by the tea stall at the time it gets busy.",
+   "art": "Two street dogs lying beside a busy tea stall in the evening."
+  },
+  {
+   "text": "Monkeys at a temple who have learned to snatch bags that may hold food.",
+   "art": "A macaque on a temple wall holding a plastic bag."
+  },
+  {
+   "text": "A younger child copying exactly how an older cousin folds their hands, or draws a kolam.",
+   "art": "A small girl drawing kolam dots beside her older cousin."
+  },
+  {
+   "text": "A pet dog sitting, giving a paw or waiting for a word before eating.",
+   "art": "A dog waiting in front of a full bowl, looking up at a child."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Why do people copy useless steps so much more than chimpanzees do?",
+   "why_open": "Some scientists say we think every step must have a reason. Others say we copy to fit in. The evidence supports parts of both."
+  },
+  {
+   "q": "What did Chaser understand when she heard a toy's name?",
+   "why_open": "She could fetch the right toy, but scientists can't ask her what the word meant to her. People still argue about how close it is to understanding a word."
+  },
+  {
+   "q": "Do crows teach their young, or do the young just watch?",
+   "why_open": "Teaching means changing what you do to help another learn. It is hard to tell from watching wild crows."
+  },
+  {
+   "q": "How many animals have traditions that we haven't noticed yet?",
+   "why_open": "Finding a tradition takes years of watching many groups. Most animals have never been watched that long."
+  }
+ ],
+ "ask_kids": [
+  "Who did you learn to draw a kolam, fold clothes or tie a knot from?",
+  "Is there something our family always does, but nobody knows why?",
+  "What do you think the crows on our building have learned about us?",
+  "If a dog watched you every day, what would they learn about you?",
+  "Would you rather learn a new game by trying it, by watching it, or by being told the rules?",
+  "Did you ever copy something and later find out it wasn't needed?",
+  "What could a young chimpanzee learn from you, if you lived in the forest?",
+  "What is something you worked out on your own, with nobody showing you?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the crow tap the plate?",
+   "a": "He was taking notes from Paati."
+  },
+  {
+   "j": "What did the dog say after learning 1,000 words?",
+   "a": "Woof. Just kidding, I'll fetch the dictionary."
+  },
+  {
+   "j": "Why did the chimpanzee bring a stick to the party?",
+   "a": "She heard there would be termite snacks."
+  },
+  {
+   "j": "Why did the great tit open the door to the left?",
+   "a": "Because that's how all the birds in her wood do it."
+  },
+  {
+   "j": "What do you call a dog who copies everything you do?",
+   "a": "A copy-cat. She's very confused about it."
+  },
+  {
+   "j": "Why did the student tap the lid three times?",
+   "a": "Nobody knows. Not even the student."
+  },
+  {
+   "j": "What did the macaque say to her sweet potato?",
+   "a": "You look a little dirty. Let's go for a swim."
+  },
+  {
+   "j": "Why did the crow wear a mask?",
+   "a": "He didn't. The scientist did, and the crows never forgot."
+  },
+  {
+   "j": "Why did Chaser pick the new toy?",
+   "a": "Because all the old ones already had names."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the Useless Step Test, Nandini tested 4 people in her family. 3 of them tapped the lid. What fraction of the people tapped the lid?",
+   "answer": "3 out of 4, or three quarters.",
+   "explain": "4 people were tested, so the whole is 4. 3 of them tapped. That is 3 out of 4, which we write as 3/4, three quarters. Only 1 out of 4 did not tap.",
+   "math_unit": "math.fractions.fractions-of-a-whole.L3",
+   "context": "This is about the Useless Step Test. You show people how to open a clear box, with a tap on the lid that does nothing, and see who copies the tap.",
+   "how": "e1",
+   "why_maths": "A fraction tells you how many out of the whole group, so you can compare a family of 4 with a class of 30."
+  },
+  {
+   "problem": "In Termite Fishing, Kavya caught 2, 1, 3, 2 and 2 grains in her 5 dips before watching. After watching, she caught 5, 6, 4, 7 and 8. How many grains did she catch before watching, and after? How many times as many did she catch after?",
+   "answer": "10 before, 30 after. 3 times as many.",
+   "explain": "Before: 2 + 1 + 3 + 2 + 2 = 10. After: 5 + 6 + 4 + 7 + 8 = 30. 30 divided by 10 is 3, so she caught 3 times as many after watching.",
+   "math_unit": "math.division.sharing-and-grouping.L3",
+   "context": "This is about Termite Fishing. You fish for puffed rice in a bottle with a honey-tipped stick, before and after watching someone who knows how.",
+   "how": "a3",
+   "why_maths": "Adding up all 5 dips is fairer than looking at one dip, and dividing tells you how much watching helped."
+  },
+  {
+   "problem": "Chaser learned the names of 1,022 toys. Rico, another dog, learned about 200 names. About how many more names did Chaser learn than Rico?",
+   "answer": "About 822 more.",
+   "explain": "Take the smaller number from the bigger one. 1,022 take away 200 is 822. So Chaser learned about 822 more names. Rico's number is rounded, so the answer is also 'about'.",
+   "math_unit": "math.addition-subtraction.word-problems.L3",
+   "context": "This is about dogs who learn names. Chaser, a border collie in America, learned the names of 1,022 toys.",
+   "why_maths": "Taking one number from the other tells you how big the difference really is, not just which is bigger."
+  },
+  {
+   "problem": "In the Plate Lesson, the first bird each day went to: day 1 red, day 2 red, day 3 blue, day 4 red, day 5 red. Make a tally. How many times was it red, and how many blue? Do the results suggest the birds learned red means food?",
+   "answer": "Red 4 times, blue once. Yes, it suggests they learned, but 5 days is a small test.",
+   "explain": "Count the reds: days 1, 2, 4 and 5, so 4. Blue: day 3, so 1. If birds picked at random, you would expect about half red and half blue. 4 out of 5 is more than half, which suggests learning. More days would make it surer.",
+   "math_unit": "math.data.sorting-and-tallies.L3",
+   "context": "This is about the Plate Lesson project. You put food on a red plate only for 3 days, then put food on both and see which plate birds go to first.",
+   "how": "p1",
+   "why_maths": "A tally shows the pattern across days, and comparing it with half and half tells you whether it could be luck."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.animal-behaviour.L3",
+  "title": "Watch Me, Then You Try",
+  "note": "Topic-level song for Animal behaviour L3"
+ },
+ "links": [
+  {
+   "title": "All About Birds: American Crow",
+   "url": "https://www.allaboutbirds.org/guide/American_Crow",
+   "kind": "interactive",
+   "why": "For the parent. Facts, sounds and videos of crows, the bird family that includes our house crows and jungle crows."
+  },
+  {
+   "title": "Bird Count India",
+   "url": "https://birdcount.in",
+   "kind": "interactive",
+   "why": "Join bird counts with families across India. You can record the crows and mynas you see in the Plate Lesson."
+  },
+  {
+   "title": "Mysuru Zoo (Sri Chamarajendra Zoological Gardens)",
+   "url": "",
+   "kind": "place",
+   "where": "Mysuru",
+   "why": "Watch the primates and birds. Look for one animal learning from another, or solving a feeder."
+  },
+  {
+   "title": "Arignar Anna Zoological Park, Vandalur",
+   "url": "",
+   "kind": "place",
+   "where": "Chennai",
+   "why": "A large zoo with monkeys, birds and elephants. Watch how the young ones copy the adults."
+  },
+  {
+   "title": "Any temple, market or railway station with monkeys or pigeons",
+   "url": "",
+   "kind": "place",
+   "where": "Your own city",
+   "why": "Watch from a safe distance. What have the animals learned about people? Never feed monkeys."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-chaser",
+   "item": "Chaser: Unlocking the Genius of the Dog Who Knows a Thousand Words, by John W. Pilley with Hilary Hinzmann",
+   "kind": "book",
+   "why": "For the parent, or to read aloud in parts. The true story of how Chaser learned her toy names.",
+   "url": "https://www.amazon.in/s?k=Chaser+Pilley+dog+who+knows+a+thousand+words",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "If bought, read a chapter aloud after Pick the New One."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What is an instinct?",
+   "a": "Something an animal can do without learning, from birth."
+  },
+  {
+   "q": "How do most dogs learn tricks?",
+   "a": "From rewards: the trick brings a treat, so they do it again."
+  },
+  {
+   "q": "How do young chimpanzees learn to fish for termites?",
+   "a": "By watching their mothers, for years."
+  },
+  {
+   "q": "How many toy names did Chaser learn?",
+   "a": "1,022."
+  },
+  {
+   "q": "What is overimitation?",
+   "a": "Copying a step that does nothing, even when you can see it does nothing."
+  },
+  {
+   "q": "Who skipped the useless step in the clear box: chimpanzees or children?",
+   "a": "Most chimpanzees."
+  },
+  {
+   "q": "What did Imo the macaque begin to wash?",
+   "a": "Sweet potatoes."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "a1",
+   "intro",
+   "e1",
+   "story",
+   "g1",
+   "big_questions",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "summary",
+   "terms",
+   "explanations",
+   "story",
+   "g1",
+   "a2",
+   "videos",
+   "ws-core",
+   "a3",
+   "g2",
+   "a4",
+   "agreed",
+   "challenging",
+   "c1",
+   "e2",
+   "big_questions",
+   "ws-stretch",
+   "p1",
+   "ws-challenge",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "g1",
+   "a2",
+   "a3",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "Founder's notebook, Biology list: items 98 to 104 (habituation; learning and cognition; classical conditioning, Pavlov; operant conditioning, Skinner; observational learning and imitation; problem-solving and tool use; animal memory). Pavlov and Thorndike are taught in sci.animals.animal-minds.L3, so this unit builds on observational learning, imitation and tool learning.",
+   "Curriculum entry sci.animal-behaviour.animal-learning.L3: 'Dogs learn tricks; crows solve puzzles; chimps use tools.' No board chapters are mapped.",
+   "Nearby units checked so nothing repeats: sci.animals.animal-minds.L3 (thirsty crow, Clever Hans, pointing test, clap training game, Betty the crow), sci.animals.animals-around-us.L3 (Jane Goodall's first tool sighting), sci.mind.thinking-and-memory.L3."
+  ],
+  "science": [
+   "Horner and Whiten, 'Causal knowledge and imitation/emulation switching in chimpanzees and children', Animal Cognition 8, 2005 (clear and opaque puzzle box)",
+   "Lyons, Young and Keil, 'The hidden structure of overimitation', PNAS 104, 2007 (the word overimitation)",
+   "McGuigan, Makinson and Whiten, 'From over-imitation to super-copying', British Journal of Psychology 102, 2011 (adults copy useless steps more than children)",
+   "Nielsen and Tomaselli, 'Overimitation in Kalahari Bushman children', Psychological Science 21, 2010",
+   "Over and Carpenter, 'Putting the social into social learning', Journal of Comparative Psychology 126, 2012 (the social explanation)",
+   "Horner, Whiten, Flynn and de Waal, 'Faithful replication of foraging techniques along cultural transmission chains by chimpanzees and children', PNAS 103, 2006 (lift and slide doors, chain of six)",
+   "Lonsdorf, Eberly and Pusey, 'Sex differences in learning in chimpanzees', Nature 428, 2004 (termite fishing at Gombe)",
+   "Pilley and Reid, 'Border collie comprehends object names as verbal referents', Behavioural Processes 86, 2011 (1,022 names, learning by exclusion)",
+   "Kaminski, Call and Fischer, 'Word learning in a domestic dog', Science 304, 2004 (Rico, about 200 words)",
+   "Fugazza and Miklósi, 'Should old dog trainers learn new tricks?', Applied Animal Behaviour Science 153, 2014, and the 2015 follow-up ('Do as I do' compared with shaping)",
+   "Cornell, Marzluff and Pecoraro, 'Social learning spreads knowledge about dangerous humans among American crows', Proceedings of the Royal Society B 279, 2012",
+   "Taylor, Elliffe, Hunt and Gray, 'Complex cognition and behavioural innovation in New Caledonian crows', Proceedings of the Royal Society B 277, 2010 (three-stage tool use)",
+   "Aplin and others, 'Experimentally induced innovations lead to persistent culture via conformity in wild birds', Nature 518, 2015",
+   "Kawai, 'Newly-acquired pre-cultural behavior of the natural troop of Japanese monkeys on Koshima Islet', Primates 6, 1965 (Imo and sweet potato washing)",
+   "Whiten and others, 'Cultures in chimpanzees', Nature 399, 1999 (nut cracking in some groups and not others)",
+   "Mann and others, on sponging dolphins in Shark Bay, mostly learned from mothers",
+   "Collias and Collias, on village weaver birds improving nests with experience, 1964"
+  ]
+ },
+ "roots": {
+  "context": "We have learned how animals learn by trying, by watching and by working things out, and we tested how people copy. Now we ask what copying tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "In your test, most people copied the tap, though the clear box showed it did nothing. Chimpanzees shown a clear box mostly skipped such a step. People copy whole ways of doing things before they understand them. So a habit can pass down for generations without anyone knowing why.",
+   "habit": "We call copying the simple way to learn, and say 'monkey see, monkey do'. But the chimpanzees skipped the useless step, and the people copied it. Copying every step exactly is a strong human way of learning, and it carries reasons we may have forgotten.",
+   "evidence": "In Horner and Whiten's clear box test, most chimpanzees skipped the useless poke and most children copied it. Grown-ups copy useless steps even more. In your own test, count how many people tapped the lid and how many could say why."
+  },
+  "three": {
+   "who_am_i": "Much of what you do, from how you eat to how you draw a kolam, you copied from people before you understood it.",
+   "what_is_life": "A crow, a dog and a chimpanzee keep learning all their lives, from what happens and from each other.",
+   "what_is_this_world": "Ways of doing things travel from mind to mind, among birds, apes and people, and some last for years."
+  },
+  "thread": "One great tit in each group was shown one way to open a box. Within weeks, most of the group used that same way. One bird's way became the way of many birds, carried by watching. Every tradition, in a crow family, a chimpanzee group or a home in Madurai, began as one mind's way of doing something and spread into many minds.",
+  "teachings": [
+   {
+    "source": "Taittiriya Upanishad 1.11.2",
+    "teaching": "The teacher tells the students who are leaving: follow the good things we did, and not the others.",
+    "link": "The teacher asks the students to copy only what is good, not every step. That is the choice the chimpanzees made with the clear box, and the one people often skip."
+   },
+   {
+    "source": "Kalama Sutta (Anguttara Nikaya 3.65)",
+    "teaching": "The Buddha tells the Kalama people not to accept something only because it has been handed down, or because a teacher said it. Test it for yourself, and keep what you find to be good.",
+    "link": "Meenakshi tested the tap and the turn one at a time. She kept the tap, which really called the crows, and dropped the turn."
+   }
+  ],
+  "science": [
+   {
+    "text": "Children in many countries, from Scotland to the Kalahari Desert, copy useless steps, and grown-ups copy them even more.",
+    "status": "settled"
+   },
+   {
+    "text": "Why people overimitate is still argued. Some scientists say we expect every step to have a reason. Others say we copy to fit in.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Harriet Over and Malinda Carpenter, psychologists",
+   "view": "Over-copying may not be about learning at all. Children copy useless steps mainly to show they are like the person who showed them, the way friends copy each other's words."
+  },
+  "practice": {
+   "title": "Copy the breath",
+   "mins": 3,
+   "say": "Sit facing each other. I will breathe in a slow way. Watch my shoulders and my belly, and breathe the same way as me. Now close your eyes and breathe your own way. Did your breath change after copying mine? Whose breath is it now?",
+   "kid": "Sit facing your grown-up. Watch how they breathe. Breathe the same way. Now close your eyes. Breathe your own way. Did your breath change?"
+  },
+  "ask": [
+   "If you copied a step and never found out why, is it still yours?",
+   "Is there a step in your home that holds a reason nobody remembers?",
+   "When is it wise to copy everything, and when is it wise to test each step?"
+  ],
+  "art": "A grandmother, a girl and a small boy on a balcony, each tapping a steel plate the same way, with crows watching from a water tank."
+ },
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home in a city flat. The Useless Step Test needs only a clear takeaway box, a spoon and a sweet, and two or more people who haven't seen it. Grown-ups usually copy the tap, since adults copied useless steps even more than children in published studies. The step says what to do if nobody copies. The test uses 'Watch me' and 'Now you get the prize out', never 'copy me', and tests people one at a time. Pass It On needs at least two people besides the child, so it is outside the spine, and both doors must open equally easily, which the Two-Door Prize Box challenge checks with timing. Termite Fishing with honey on a broom stick reliably picks up puffed rice, and the step says to wipe up honey before ants come. The Plate Lesson is only for homes where birds already visit, and says what to do if results are mixed. Both games work with 2 players. Timings were checked step by step. The spine fits about 80 minutes.",
+ "how_we_found_out": {
+  "story": "People have long said 'monkey see, monkey do'. They thought apes copy everything they see, without thinking. In 2005, Victoria Horner and Andrew Whiten, scientists at the University of St Andrews in Scotland, tested this. They made a puzzle box with a reward inside. A person showed young chimpanzees how to open it. First the person poked a stick into a hole at the top. That step did nothing. Then the person opened a door at the front and pulled the reward out. When the box was black, so nobody could see inside, the chimpanzees copied both steps. When the box was clear, they could see that the top hole led nowhere. Then most chimpanzees skipped it and went straight to the door. Children aged 3 and 4 were shown the same boxes. Most of them copied the useless poke, even with the clear box. So the old saying was wrong. Chimpanzees copied what worked. The children copied everything. In 2007, other scientists gave this a name: overimitation.",
+  "who": "Victoria Horner and Andrew Whiten, at the University of St Andrews, Scotland",
+  "when": "2005",
+  "wrong_idea": "People thought apes copy everything they see without thinking: 'monkey see, monkey do'. The clear box showed that chimpanzees skip a step they can see is useless, while children copy it."
+ }
+}
