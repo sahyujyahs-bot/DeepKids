@@ -164,7 +164,7 @@
    "examples": [
     "Squash: pressing a ball of chapati dough flat.",
     "Stretch: pulling a rubber band, or chewing gum.",
-    "Twist: wringing out a wet towel, or opening a bottle cap.",
+    "Twist: wringing out a wet towel, or twisting a strip of dough into a rope.",
     "Bend: a bamboo in the wind, or a ruler pressed in the middle."
    ],
    "perspectives": [],
@@ -301,7 +301,7 @@
    "concept": "Forces change speed and direction",
    "status": "defined",
    "definition": "A force can start a thing moving, stop it, speed it up, slow it down, or turn it in a new direction.",
-   "description": "Think of one cricket ball. The bowler's push starts it and speeds it up. The bat's push turns it the other way. The grass slows it down. A fielder's hands stop it. Every one of these changes needs a force. The more mass a thing has, the bigger the force needed to change its speed or direction by the same amount. That is why a full trolley is harder to start and stop than an empty one. If no force acts, a moving thing keeps going at the same speed in a straight line. On Earth, friction and air usually slow things down, so we hardly ever see that. When two forces on a thing are equal and opposite, they cancel out, and its movement does not change. You can read about that in the unit 'Pushes and pulls'.",
+   "description": "Think of one cricket ball. The bowler's push starts it and speeds it up. The bat's push turns the ball the other way. The grass slows it down. A fielder's hands stop it. Every one of these changes needs a force. The more mass a thing has, the bigger the force needed to change its speed or direction by the same amount. That is why a full trolley is harder to start and stop than an empty one. If no force acts, a moving thing keeps going at the same speed in a straight line. On Earth, friction and air usually slow things down, so we hardly ever see that. When two forces on a thing are equal and opposite, they cancel out, and its movement does not change. You can read about that in the unit 'Pushes and pulls'.",
    "examples": [
     "A carrom striker hits a coin. The coin starts moving, and the striker slows and turns.",
     "A kite string's tug turns the kite.",
@@ -380,7 +380,7 @@
   {
    "concept": "What is glass, really?",
    "status": "debated",
-   "description": "Glass is hard like a solid. But its atoms are jumbled, like a liquid frozen in the middle of moving. You may hear that old church windows are thicker at the bottom because glass slowly flows downwards. Scientists tested this. It is not true. The old windows were made unevenly, and builders often put the thick edge at the bottom. A study in 1998 by Edgar Zanotto, a Brazilian scientist, worked out that glass at room temperature would take far longer than the age of the universe to sag. But what glass really is remains a puzzle. In 1995, a famous American physicist, Philip Anderson, called it perhaps the deepest unsolved problem about solids.",
+   "description": "Glass is hard like a solid. But its atoms are jumbled, like a liquid frozen in the middle of moving. In 1998, Edgar Zanotto, a Brazilian scientist, worked out that glass at room temperature would take far longer than the age of the universe to sag. But what glass really is remains a puzzle. In 1995, a famous American physicist, Philip Anderson, called it perhaps the deepest unsolved problem about solids.",
    "examples": [
     "Old Roman glass bowls, about 2,000 years old, have not sagged at all.",
     "A window pane at home is the same shape it was when it was made."
@@ -399,8 +399,8 @@
      "explanation": "Glass is its own kind of matter, neither a normal solid nor a liquid. Exactly why it goes stiff as it cools is still being studied."
     }
    ],
-   "art": "An old church window with a thick bottom edge beside a zoom of jumbled glass atoms, and a question mark between them.",
-   "context": "Glass is hard and brittle. This card is about a surprise: scientists still argue about what kind of stuff it is."
+   "art": "A sheet of glass beside a zoom of jumbled glass atoms, with a question mark between them.",
+   "context": "Glass is hard and brittle. This card is about a surprise: scientists still argue about what kind of stuff it is. The card on old church windows busts a popular myth about it."
   },
   {
    "concept": "Living things grow to match the forces on them",
@@ -586,11 +586,6 @@
    "hint": "Look closely at a sponge. It is full of holes with thin walls. What happens to those walls when you squeeze? What happens inside dough when it moves?"
   },
   {
-   "q": "Is it better for a thing to bend or to be stiff?",
-   "kind": "big",
-   "hint": "A bamboo bends in a storm and does not snap. A bridge must stay stiff, so it does not sag under trucks. Which jobs need which?"
-  },
-  {
    "q": "Your bones grow stronger where they are pushed. How does a bone sense where it is being pushed?",
    "kind": "deep",
    "hint": "Bone cells can sense being squeezed and stretched. Scientists are still finding out exactly how they decide where to build more bone."
@@ -654,13 +649,13 @@
    "Iba thought about the bamboo behind her house. In the storms they bent nearly to the ground, then sprang back. She thought about the dry stick she had snapped for the fire, which could not bend at all. She thought about her own legs. They used to ache on the steep steps to school. Now they ran up without stopping.",
    "That evening, she cut the cane. The roots sprang free and swayed a little in the breeze, as if they were stretching after a long sleep. It felt strange to let them go, like letting go of a little brother's hand at the edge of a road.",
    "The next day she did something else. She wove a tiny basket and hung it from the young roots, with one smooth river stone inside. The roots dipped under it, and swung. 'Something to carry,' she told them. Every week she added one more stone. Every week the roots bent down a little further. And every week, when she measured with her thread, they were a little thicker.",
-   "Kong Kyrmen watched her. 'Now,' he said, 'you are building.'",
+   "Kong Kyrmen watched her. 'Now,' she said, 'you are building.'",
    "Years went by. The roots crossed the stream and wrapped round a tree on the other side. Kong Kyrmen laid flat stones between them for a floor. Her hair turned white. Iba grew tall.",
    "When Iba was nineteen, the young bridge was finally strong enough to hold a child. She was standing on the bank, wondering who should be the first to cross, when a small boy from the next village ran straight past her. He did not ask anyone. He ran out onto the roots.",
    "The bridge dipped under his feet. It swayed, and creaked, and sprang back. The boy laughed out loud.",
    "Iba opened her mouth to shout at him. Then she closed it again. She watched the roots bend under his weight and stretch, and come back. Under her breath, she said one word to them. 'Grow.'"
   ],
-  "epiphany": "For the parent: every push and pull changes the shape of what it touches, even a little. The wind bends the roots, and a stone in a basket stretches them. Living things respond to those changes by growing stronger where they are pushed and pulled. Iba's tight ties protected the roots from every force, so they had no reason to grow, and stayed thin. Trees staked too tightly, and astronauts' bones in space, behave the same way. The bamboo that bends and the stick that snaps also hint at the difference between elastic and brittle. The story quietly asks about care that protects, and care that lets go.",
+  "epiphany": "For the parent: every push and pull changes the shape of what it touches, even a little. The wind bends the roots, and a stone in a basket stretches them. Living things respond to those changes by growing stronger where they are pushed and pulled. Iba's tight ties protected the roots from every force, so they had no reason to grow, and stayed thin. Trees staked too tightly, and astronauts' bones in space, behave the same way. The bamboo that bends and the stick that snaps also hint at the difference between elastic and brittle.",
   "ask": [
    "In the story, Iba tied the young roots so they could not move. Why did they stay thin?",
    "The wild roots were thrashed by the storm. Why did they grow thicker?",
@@ -683,7 +678,7 @@
    "id": "g1",
    "title": "Squash, Stretch, Twist or Bend?",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "printables": [
     {
      "kind": "cards",
@@ -694,7 +689,7 @@
       "Wringing out a wet towel",
       "A bamboo in a strong wind",
       "Sitting on a cushion",
-      "Opening a bottle cap",
+      "Winding a rubber band round and round a pencil",
       "Kneading chapati dough",
       "Plucking a sitar string",
       "Pressing a thumb into clay",
@@ -706,12 +701,12 @@
       "Stamping on an empty can",
       "Snapping a papad",
       "A cricket ball hitting the bat",
-      "Turning a tap on",
+      "Twisting a long balloon into the shape of a dog",
       "A goldsmith hammering a bangle",
       "Biting into an apple",
       "TEST IT: squeeze a sponge, then let go. What happens?",
       "TEST IT: bend a paper clip a little, then a lot. What happens each time?",
-      "TEST IT: twist a strip of paper with lines drawn across it. What happens to the lines?",
+      "TEST IT: twist a strip of paper with lines drawn across it, then let go. What happens to the lines?",
       "TEST IT: press a biscuit gently between two fingers, harder and harder. What happens?"
      ]
     },
@@ -727,23 +722,31 @@
     },
     {
      "kind": "tokens",
-     "title": "Three answer tokens for each player, and 20 point tokens",
+     "title": "Answer tokens: 3 for each player, for up to 4 players (12 tokens)",
      "items": [
       "STAYS CHANGED",
       "SPRINGS BACK",
       "BREAKS",
-      "⭐"
+      "STAYS CHANGED",
+      "SPRINGS BACK",
+      "BREAKS",
+      "STAYS CHANGED",
+      "SPRINGS BACK",
+      "BREAKS",
+      "STAYS CHANGED",
+      "SPRINGS BACK",
+      "BREAKS"
      ]
     }
    ],
    "rules": [
-    "Cut out the 24 cards. Shuffle them and put them face down in a pile.",
+    "Cut out the 24 cards. Shuffle them and put them face down in a pile. Keep score on a sheet of paper.",
     "On your turn, take the top card and read it out loud. Act it out with your hands.",
     "Put the card on the mat that fits: SQUASH, STRETCH, TWIST or BEND. Some cards fit two mats. Choose one and say why.",
-    "Then everyone holds up one answer token. After the force stops, does the thing stay changed, spring back, or break?",
-    "Everyone who agrees with the right answer wins a point token. The player who placed the card wins one more for a good reason.",
-    "A TEST IT card means everyone does the test together. The first to explain the result wins two tokens.",
-    "When the cards run out, the player with the most tokens wins."
+    "Then everyone shows one of their answer tokens at the same time. After the force stops, does the thing stay changed, spring back, or break?",
+    "Everyone who shows the right token scores one point. The player who placed the card scores one more for a good reason. If players disagree, a grown-up decides, using the notes in the steps.",
+    "A TEST IT card goes on no mat. Everyone does the test together. The first player to explain the result scores two points.",
+    "When the cards run out, the player with the most points wins. Players with the same points share the win."
    ],
    "setup": [
     {
@@ -763,7 +766,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Lay the four mats on the floor. 2. Shuffle the 24 cards and put them face down. 3. Give each player their three answer tokens.",
+     "do": "1. Lay the four mats on the floor. 2. Shuffle the 24 cards and put them face down. 3. Give each player their three answer tokens. 4. Get a sheet of paper for the score.",
      "say": "A force is a push or a pull. It can squash, stretch, twist or bend things. Each card shows a force changing a shape. You decide which kind.",
      "kid": "Put the four mats on the floor. Mix up the cards. Put them face down. Each card shows a force changing a shape.",
      "context": "This is the first step of the Squash, Stretch, Twist or Bend game. It is a card game about the ways forces change shape. Here you set up the game."
@@ -773,7 +776,7 @@
      "mins": 3,
      "do": "Find the card 'Wringing out a wet towel'. Play it together as a practice round.",
      "say": "Practice card. Wringing out a wet towel. Which mat? And when you let go, does the towel stay twisted, spring back, or break?",
-     "kid": "Practice card: wringing a wet towel. Which mat does it go on? Tap your answer.",
+     "kid": "Practice card: wringing a wet towel. Which mat does it go on? Say your answer.",
      "ask": [
       {
        "q": "Why does the towel go on the TWIST mat?",
@@ -799,10 +802,10 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Take turns. Each player reads a card, acts it out and places it on a mat. 2. Everyone shows an answer token. 3. Give out point tokens.",
+     "do": "1. Take turns. Each player reads a card, acts it out and places it on a mat. 2. Everyone shows an answer token. 3. Write the points on the score sheet.",
      "say": "Show me the force with your hands first. Then put it on a mat. Now everyone, does it stay changed, spring back, or break?",
      "kid": "Take turns. Read your card. Act it out. Put it on a mat. Then hold up a token. Stays changed, springs back, or breaks?",
-     "parent": "Tricky cards: the chapati is a squash and a stretch. The diving board bends, then springs back. The sitar string is stretched, and springs back. The bangle stays changed. The papad and the apple break. The can stays squashed. The bottle cap and tap twist, but do not change shape much. That is fine, a force can turn a thing too."
+     "parent": "Tricky cards: the chapati is a squash and a stretch, and it stays changed. The diving board bends, then springs back. The sitar string is stretched, and springs back. The wound rubber band springs back. The bangle stays changed, and so does the balloon dog. The papad and the apple break. The can stays squashed."
     },
     {
      "id": "s4",
@@ -825,9 +828,9 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "1. Count tokens to find the winner. 2. Look at the four piles together.",
+     "do": "1. Add up the points to find the winner. 2. Look at the four mats together.",
      "say": "Which mat got the most cards? Which kind of shape change do we use most at home?",
-     "kid": "Count your tokens. Who won? Which mat has the most cards? Why do you think that is?",
+     "kid": "Add up your points. Who won? Which mat has the most cards? Why do you think that is?",
      "think": "Which jobs at home need things that stay changed? Which need things that spring back?"
     }
    ],
@@ -837,7 +840,7 @@
    "id": "g2",
    "title": "Six Things a Force Can Do",
    "mins": 20,
-   "players": "2 to 6 players, in any room with some clear floor",
+   "players": "2 to 4 players, in any room with some clear floor",
    "printables": [
     {
      "kind": "cards",
@@ -881,12 +884,13 @@
     }
    ],
    "rules": [
-    "Put the object cards face down. Put the real objects nearby.",
-    "On your turn, roll a dice and take an object card. The dice chart tells you what your force must do.",
-    "Use a push or a pull to do it to the object. For example, 'turn it' with a toy car.",
-    "Say whether you used a push or a pull. Write it on the force log.",
+    "Put the object cards face down. Put the real objects nearby. You also need one dice, for example from a Ludo set.",
+    "On your turn, roll the dice and take an object card. The dice chart tells you what your force must do.",
+    "If the object is not moving and the dice says stop, slow down, speed up or turn, first start it moving with a push. Then do the job.",
+    "Use a push or a pull to do it to the object. For example, \"turn it\" with a toy car.",
+    "Say whether you used a push or a pull. Write it on the force log. Everyone shares one force log.",
     "If the others agree you did it, you win a point. If it is impossible, explain why, and you still win a point.",
-    "After everyone has had 4 turns, the player with the most points wins."
+    "Put your card back at the bottom of the pile. After everyone has had 3 turns, the player with the most points wins. Players with the same points share the win."
    ],
    "setup": [
     {
@@ -928,20 +932,21 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "A batsman hits the ball back the way it came. What did the bat's force do?",
+      "q": "You catch a rolling ball and hold it still. Which of the six things did your hands do?",
       "options": [
-       "Only changed the ball's shape",
-       "Changed its direction",
-       "Nothing, the ball was already moving"
+       "Start it moving",
+       "Stop it",
+       "Turn it",
+       "Speed it up"
       ],
       "a": 1,
-      "why": "It changed the ball's direction, so you win the practice point. Picking 'only changed its shape' notices the tiny squash but misses the turn. Picking 'nothing' means thinking a moving ball needs no force to turn. It does."
+      "why": "Your hands pushed against the ball's movement and stopped it, so you win the practice point. Your hands also squashed the ball a tiny bit, so a stop can change a shape too."
      }
     },
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Take turns rolling the dice and taking a card. 2. Each player does the action to that object. 3. They say push or pull and fill in the force log.",
+     "do": "1. Take turns rolling the dice and taking a card. 2. Each player does the action to that object. 3. They say push or pull and fill in the force log. 4. Everyone has 3 turns.",
      "say": "What did the dice say? How will you do that to this object? Was it a push or a pull?",
      "kid": "Roll the dice. Take a card. Do what the dice says to that object. Push or pull? Write it down.",
      "parent": "Some turns are puzzles. Speeding up a bowl of water: stir it faster. Changing the shape of a carrom coin: almost impossible by hand. That is a good answer if explained, because hard things need enormous forces to change shape. Turning a sheet of paper: blow on it from the side. One action can do two jobs. A kick from the side turns a ball and speeds it up."
@@ -1110,7 +1115,7 @@
        "stretch"
       ],
       [
-       "Opening a bottle cap",
+       "Twisting coconut fibres into coir rope",
        "twist"
       ],
       [
@@ -1119,7 +1124,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Rolling presses the dough flat. A hair band is pulled longer. A cap is turned. A diving board curves down."
+     "why": "Rolling presses the dough flat. A hair band is pulled longer. Coir fibres are twisted into rope. A diving board curves down."
     },
     {
      "t": "write",
@@ -1180,48 +1185,6 @@
    "tier": "stretch",
    "mins": 25,
    "items": [
-    {
-     "t": "mcq",
-     "p": "Look at the chart from the clay drop test. What pattern does it show?",
-     "opts": [
-      "The higher the drop, the wider the flat patch",
-      "The higher the drop, the smaller the flat patch",
-      "Height makes no difference"
-     ],
-     "a": 0,
-     "why": "The bars get taller as the height goes up. So a higher drop squashes the clay more. Picking 'smaller' often means the bars were read the wrong way round. Taller bars mean wider patches.",
-     "how": "e1",
-     "context": "In the clay drop test, you drop equal clay balls onto a steel plate from different heights, and measure each flat patch.",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up example results: how wide the flat patch was after each drop",
-      "x": "Drop height",
-      "y": "Width of the flat patch (cm)",
-      "data": [
-       {
-        "label": "10 cm",
-        "value": 1,
-        "emoji": "🟤"
-       },
-       {
-        "label": "20 cm",
-        "value": 2,
-        "emoji": "🟤"
-       },
-       {
-        "label": "40 cm",
-        "value": 3,
-        "emoji": "🟤"
-       },
-       {
-        "label": "80 cm",
-        "value": 4,
-        "emoji": "🟤"
-       }
-      ],
-      "note": "These numbers are made up, to show what results can look like. Your numbers will be different."
-     }
-    },
     {
      "t": "fill",
      "p": "In these made-up clay drop results, every time the height doubles, the patch gets 1 cm wider. Predict how wide the patch would be from 160 cm: ____ cm.",
@@ -1403,10 +1366,9 @@
     },
     {
      "t": "write",
-     "p": "You want to make a fair test of which drop height squashes clay most. Write what you will change, what you will measure, and what you will keep the same.",
+     "p": "A rubber band hangs from a hook. You hang a small bag from it and add coins one at a time. You want a fair test of whether more coins stretch the band longer. Write what you will change, what you will measure, and what you will keep the same.",
      "lines": 4,
-     "how": "e1",
-     "a": "I will change the drop height. I will measure the width of the flat patch. I will keep the same size ball, the same clay, the same plate, and I will drop it, not throw it.",
+     "a": "I will change the number of coins. I will measure how long the rubber band is each time. I will keep the same rubber band, the same bag, the same hook, and measure from the same starting point.",
      "why": "A fair test changes one thing and keeps the rest the same."
     },
     {
@@ -1484,6 +1446,12 @@
      "why": "Bonds between atoms act a little like tiny springs. Squash them or stretch them, and they pull the atoms back into place. Picking 'air inside' is a sensible guess for a sponge, but a steel ruler has no air holes. Bending does not make atoms bigger. It moves them closer or further apart."
     },
     {
+     "t": "truefalse",
+     "p": "A steel ruler springs back after a small bend. This means its atoms moved to new places and stayed there.",
+     "a": false,
+     "why": "False. When a steel ruler springs back, its atoms were only pushed closer or pulled apart a little, and the bonds pulled them back. Atoms that slide to new places and stay there give a plastic change, like a bent paper clip."
+    },
+    {
      "t": "mcq",
      "p": "A gold bangle can be hammered into a new shape without breaking. A glass bangle cannot. Why?",
      "opts": [
@@ -1508,12 +1476,6 @@
      "why": "Alan Griffith showed in 1921 that tiny scratches make glass weak, because the push gathers at their tips. A scratched line makes the crack go exactly where the glass-cutter wants. Picking 'softer' mixes up weak with soft."
     },
     {
-     "t": "truefalse",
-     "p": "Old church windows are thicker at the bottom because glass slowly flows down over hundreds of years.",
-     "a": false,
-     "why": "False. The windows were made unevenly, and builders often put the thick edge at the bottom. Roman glass 2,000 years old has not sagged. Glass at room temperature would take far longer than the age of the universe to flow."
-    },
-    {
      "t": "mcq",
      "p": "Astronauts living in space for months lose some of their bone. Why?",
      "opts": [
@@ -1529,7 +1491,7 @@
      "t": "write",
      "p": "Ritu, a girl in Class 4, measures her height against a wall. In the morning she is 128.5 cm. At bedtime she is 127.5 cm. Her brother Arun says, 'Your tape must be wrong.' Is he right? Explain.",
      "lines": 4,
-     "a": "A strong answer says the tape is probably fine. During the day, Ritu's weight squashes the soft pads between the bones of her spine, so she gets about 1 cm shorter. At night, lying down, the pads spring back. To check, she could measure the same way for three days and see if it happens each time.",
+     "a": "A strong answer says the tape is probably fine. During the day, Ritu's weight squashes the soft pads between the bones of her spine, so she gets about 1 cm shorter. At night, lying down, the pads spring back. To check, she could measure the same way on a few days and see if it happens each time.",
      "why": "People really are about 1 cm taller in the morning. Repeating a measurement is how you tell a real change from a mistake.",
      "how": "p1",
      "context": "In the morning and night project, you measure your height against a wall as soon as you wake up, and again at bedtime."
@@ -1641,15 +1603,6 @@
      "why": "Springing back means the atoms return to their places. Staying changed means rows of atoms have slid. Breaking means a crack has opened between atoms."
     },
     {
-     "t": "write",
-     "p": "Dry spaghetti almost always snaps into three or more pieces. Scientists explained why in 2005. Try to explain it in your own words.",
-     "lines": 4,
-     "how": "a4",
-     "a": "When it first snaps, the two halves spring back fast. That sends a wave of extra bending along each half, which snaps them again.",
-     "why": "The first break releases a sudden spring-back, which bends the pieces past breaking.",
-     "context": "In the spaghetti puzzle activity, you bend dry spaghetti until it snaps, and count the pieces."
-    },
-    {
      "t": "perspective",
      "p": "People who build bridges do not all agree on whether a bridge should bend.",
      "views": [
@@ -1736,7 +1689,6 @@
      "qty": 1
     }
    ],
-   "safety": "Drop the clay onto a plate on the floor. 80 cm is about the height of a dining table, so nobody needs to climb.",
    "schedule": [
     {
      "day": 1,
@@ -1904,7 +1856,7 @@
    ],
    "materials": [
     {
-     "item": "a biscuit, a lump of chapati dough, a slice of raw potato, a piece of boiled potato, a kitchen sponge, and a small stone from a plant pot or a steel spoon",
+     "item": "a biscuit, a lump of chapati dough, a slice of raw potato, a piece of boiled potato, a kitchen sponge, and a small stone from a plant pot",
      "qty": 6
     },
     {
@@ -1920,7 +1872,7 @@
      "qty": 6
     }
    ],
-   "safety": "Keep fingers away from the bottom of the tube. A grown-up holds the tube steady. Eat nothing that has been tested.",
+   "safety": "A heavy ball can chip a tile or hurt toes. Keep feet away, and let a grown-up hold the tube steady. Eat nothing that has been tested.",
    "schedule": [
     {
      "day": 1,
@@ -1939,7 +1891,7 @@
      "caption": "2. Stand the paper tube on one thing. Drop the ball down the tube."
     },
     {
-     "art": "Three labelled baskets: STAYS CHANGED, SPRINGS BACK, BREAKS, with the tested things sorted into them.",
+     "art": "Three groups on the table labelled STAYS CHANGED, SPRINGS BACK, BREAKS, with the tested things sorted into them.",
      "caption": "3. Sort each thing: stays changed, springs back, or breaks."
     }
    ],
@@ -1955,12 +1907,12 @@
     },
     {
      "id": "s2",
-     "mins": 12,
+     "mins": 13,
      "do": "1. Roll the newspaper into a tube just wide enough for the ball. 2. Stand it upright on the first thing. 3. Drop the ball into the top. 4. Lift the tube and look. 5. Write what happened. 6. Repeat for each thing.",
      "say": "Same ball, same tube, same height every time. Now what happened? Was your guess right?",
      "kid": "Stand the tube on one thing. Drop the ball in the top. Lift the tube. What happened? Write it down.",
      "adult": true,
-     "parent": "Expect: the biscuit breaks. The dough and boiled potato stay squashed. The sponge springs back. The raw potato may dent a little or crack. The stone or spoon does not change at all that you can see. That is a useful result, not a failure.",
+     "parent": "Expect: the biscuit breaks. The dough and boiled potato stay squashed. The sponge springs back. The raw potato may dent a little or crack. The stone does not change at all that you can see. That is a useful result, not a failure.",
      "how": "e2",
      "example_chart": {
       "type": "table",
@@ -2048,7 +2000,7 @@
   {
    "id": "e3",
    "title": "Wet Ball Prints: catching a bounce",
-   "mins": 20,
+   "mins": 22,
    "days": 1,
    "question": "Does a bouncing ball really squash? Does a higher drop squash it more?",
    "predict": "Before you test, guess. Will the wet circle from shoulder height be bigger, smaller, or the same as from knee height? Why do you think so?",
@@ -2080,11 +2032,10 @@
      "buy": "b-ruler"
     }
    ],
-   "safety": "Wipe up water straight away, so nobody slips.",
    "schedule": [
     {
      "day": 1,
-     "mins": 20,
+     "mins": 22,
      "what": "Drop a wet ball from three heights, measure the prints, and compare."
     }
    ],
@@ -2115,17 +2066,17 @@
     },
     {
      "id": "s2",
-     "mins": 10,
-     "do": "1. Dip the bottom half of the ball in water and shake off the drips. 2. Drop it from knee height onto a dry part of the paper. 3. Catch it after one bounce, so it doesn't print twice. 4. Draw round the wet circle with a pencil straight away, before it dries. 5. Measure across the pencil circle. 6. Repeat from waist and shoulder height, 3 times each, on dry paper.",
+     "mins": 12,
+     "do": "1. Dip the bottom half of the ball in water and shake off the drips. 2. Drop it from knee height onto a dry part of the paper. 3. Catch it after one bounce, so it doesn't print twice. 4. Draw round the wet circle with a pencil straight away, before it dries. 5. Measure across the pencil circle. 6. Do steps 1 to 5 three times from knee height, then three times from waist height, then three times from shoulder height. Wet the ball again each time.",
      "say": "Look at the wet circle. Is it bigger or smaller than the dot? Now let's try from higher.",
      "kid": "Dip the ball in water. Shake off the drips. Drop it from your knee. Catch it after one bounce. Draw round the wet circle and measure it. Now try waist and shoulder height.",
-     "parent": "The wet circle is clearly bigger than the dot the ball made resting on the paper. That shows the ball squashed flatter for a moment. A tennis ball works best, because its fuzz holds water. A smooth rubber ball can leave a patchy print, so wipe it all over with a wet cloth instead of dipping it. The prints dry fast, so draw round them at once. If a circle is hard to see, look at the paper from a slant, against the light.",
+     "parent": "The wet circle is clearly bigger than the dot the ball made resting on the paper. That shows the ball squashed flatter for a moment. A tennis ball works best, because its fuzz holds water. A smooth rubber ball can leave a patchy print, so wipe it all over with a wet cloth instead of dipping it. The prints dry fast, so draw round them at once. If a circle is hard to see, look at the paper from a slant, against the light. The circles from the three heights differ by only a few millimetres, so some of your results may be close or in a different order. That is an honest result. Look at the average of the three tries, not one.",
      "how": "e3"
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "Put the three middle values side by side. Then drop a ball of dough from the same height, for comparison.",
+     "do": "For each height, put the three widths in order and write the middle one in the last column. Put the three middle values side by side. Then drop a ball of dough from waist height onto a clean sheet of paper, for comparison.",
      "say": "Which height made the biggest circle? Now let's drop a ball of dough from waist height. What do you think it will do?",
      "kid": "Which circle is biggest? Now drop a ball of dough. Does it bounce? Why not?",
      "check": {
@@ -2229,7 +2180,7 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands before and after. Don't eat raw dough.",
+   "safety": "Do not eat raw dough.",
    "schedule": [
     {
      "day": 1,
@@ -2244,7 +2195,7 @@
      "caption": "1. Squash the dough flat."
     },
     {
-     "art": "Hands pulling a dough snake longer, and then twisting it like a rope.",
+     "art": "Hands pulling a dough snake longer, and then twisting the snake like a rope.",
      "caption": "2. Roll a snake. Stretch it. Twist it."
     },
     {
@@ -2324,7 +2275,7 @@
      "qty": 1
     }
    ],
-   "safety": "Press gently on the ruler. A snapped ruler can have sharp edges.",
+   "safety": "Press gently on the ruler. A snapped plastic ruler can have sharp edges.",
    "schedule": [
     {
      "day": 1,
@@ -2335,8 +2286,8 @@
    "record": "Draw the bent sponge and its lines. Write which way the ruler bent less.",
    "setup": [
     {
-     "art": "A long kitchen sponge with five straight lines drawn across its wide side in marker.",
-     "caption": "1. Draw straight lines across a long sponge."
+     "art": "A long kitchen sponge with five straight lines drawn down its thin side in marker, from the top face to the bottom face.",
+     "caption": "1. Draw straight lines across the thin side of a long sponge."
     },
     {
      "art": "Two hands bending the sponge into a curve: the lines are squeezed together on the inside and spread apart on the outside.",
@@ -2351,16 +2302,16 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw five straight lines across the wide side of the sponge, each about two fingers apart.",
+     "do": "Draw five straight lines from top to bottom on the thin side of the sponge, each about two fingers apart.",
      "say": "Let's draw lines on this sponge, so we can see what happens inside it when it bends.",
-     "kid": "Draw five straight lines across the sponge. Leave two fingers between them.",
+     "kid": "Turn the sponge on its side. Draw five straight lines from top to bottom. Leave two fingers between them.",
      "context": "This is the first step of the bendy sponge activity. You find out what happens inside a bend.",
      "how": "a2"
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "Bend the sponge into a curve. Look at the lines on the inside of the curve, then on the outside.",
+     "do": "Bend the sponge into a curve, with the lined side facing you. Look at the lines on the inside of the curve, then on the outside.",
      "say": "Look at the inside of the bend. What happened to the lines? Now the outside?",
      "kid": "Bend the sponge. Look inside the curve. Are the lines closer? Now look outside. Are they further apart?",
      "ask": [
@@ -2388,18 +2339,18 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Lay the ruler flat across the two tins. 2. Put the small book on its middle and watch it sag. 3. Take the book off. Stand the ruler on its thin edge across the tins, and hold its ends upright. 4. Your child presses the middle down with one finger.",
+     "do": "1. Lay the ruler flat across the two tins. 2. Put the small book on its middle and watch it sag. 3. Take the book off. Stand the ruler on its thin edge across the tins. Your child steadies it with one hand. 4. Your child presses the middle down with one finger.",
      "say": "Same ruler. Lying flat, it sags under the book. On its edge, push it with your finger. Does it bend? Why do you think so?",
-     "kid": "Lay the ruler flat on two tins. Put a book on it. It sags! Now stand it on its edge. Press its middle.",
-     "parent": "A book will not balance on the thin edge, so your child presses with a finger instead. On its edge, the top and bottom of the ruler are far apart. To bend, the top must squash a lot and the bottom must stretch a lot. So it resists. This is why steel beams have an I shape, and why bamboo, a hollow tube, is so stiff.",
+     "kid": "Lay the ruler flat on two tins. Put a book on it. It sags! Now stand it on its edge. Press its middle with one finger.",
+     "parent": "A book will not balance on the thin edge, so your child presses with a finger instead. A plastic ruler on its edge may tip sideways, so steady it. On its edge, the top and bottom of the ruler are far apart. To bend, the top must squash a lot and the bottom must stretch a lot. So it resists. This is why steel beams have an I shape, and why bamboo, a hollow tube, is so stiff.",
      "how": "a2"
     },
     {
      "id": "s4",
      "mins": 2,
-     "do": "Look around the home and outside for beams, tubes and bent things.",
-     "say": "Can you spot I-shaped beams, pipes or bamboo near us? They are all built to resist bending.",
-     "kid": "Look for tubes, pipes and bamboo. They are hard to bend. Can you find one?",
+     "do": "Look around the home for tubes, rods and bars: a broom handle, a curtain rod, a steel pipe, a bamboo stick.",
+     "say": "Can you spot tubes and pipes near us? Hollow tubes are hard to bend for how light they are.",
+     "kid": "Look for tubes, pipes and sticks. A tube is hard to bend. Can you find one?",
      "think": "Your leg bones are tubes too. Why might a tube be a good shape for a bone?",
      "how": "a2"
     }
@@ -2429,7 +2380,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do the wringing outside or over a bucket.",
    "schedule": [
     {
      "day": 1,
@@ -2486,7 +2436,7 @@
      "say": "The loose strand pulls apart easily. Now the wick, made from the same amount of cotton. How many coins will it hold? Why?",
      "kid": "Pull the loose cotton gently. It comes apart! Now twist the same amount of cotton round and round. Hold its two ends together and let it twist into a cord. Hang the bag on the loop. Add coins.",
      "adult": true,
-     "parent": "Try hanging the empty bag from the loose strand too. It usually pulls apart at once. The twisted cord should hold many coins. Folding it makes two twisted strands wind round each other, like a real rope, and the loop means no knot is needed. If the bag fills before it breaks, that is a good result. The twist squeezes the short fibres against each other. Friction, the grip between them, makes them share the pull. Cotton thread and coir rope are made this way.",
+     "parent": "Try hanging the empty bag from the loose strand too. It usually pulls apart at once. The twisted cord should hold many coins. Folding it makes two twisted strands wind round each other, like a real rope, and the loop means no knot is needed. How many coins it holds depends on the cotton and how tightly you twist. Even a few coins, when the loose strand holds none, is a clear result. If the bag fills before it breaks, that is a good result too. The twist squeezes the short fibres against each other. Friction, the grip between them, makes them share the pull. Cotton thread and coir rope are made this way.",
      "how": "a3",
      "check": {
       "t": "mcq",
@@ -2506,7 +2456,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. Does twisting make cotton stronger? What did you see that shows it? Why do you think it happens?",
      "kid": "Say or write three things. What you think now. What you saw. Why it happened.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: twisting cotton makes it much stronger. What I saw: the loose strand pulled apart, but the twisted wick held 15 coins. Why: the twist squeezes the fibres together, so they grip each other and share the pull.",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: twisting cotton makes it much stronger. What I saw: the loose strand pulled apart, but the twisted wick held several coins. Why: the twist squeezes the fibres together, so they grip each other and share the pull.",
      "how": "a3"
     }
    ],
@@ -2632,8 +2582,8 @@
      "caption": "2. A grown-up shines a laser onto the mirror. Find the dot on the wall."
     },
     {
-     "art": "A child pressing down gently near the table's edge while the red dot on the wall moves down a little from a tape mark.",
-     "caption": "3. Press the table firmly. Watch the dot move."
+     "art": "A child pressing down gently on the table, a hand-width from the mirror, while the red dot on the wall moves a little from a tape mark.",
+     "caption": "3. Press the table firmly next to the mirror. Watch the dot move."
     }
    ],
    "flow": [
@@ -2651,11 +2601,11 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Your child presses down firmly with both hands near the edge of the table, then lets go. Everyone watches the dot against the edge of the tape.",
+     "do": "Your child presses down firmly with both hands on the table, a hand-width away from the mirror, then lets go. Everyone watches the dot against the edge of the tape.",
      "say": "Press down. Watch the dot. Now press harder. What happens?",
-     "kid": "Press the table with both hands. Watch the dot. Did it move? Now press a bit harder.",
+     "kid": "Press the table next to the mirror with both hands. Watch the dot. Did it move? Now press a bit harder.",
      "adult": true,
-     "parent": "The table bends a tiny bit, which tilts the mirror. The long beam to the wall turns that tiny tilt into a movement of the dot that you can see, usually a few millimetres. A harder press moves it more. If you can't see it move, use a wall further away, or let a grown-up lean on the table. A wooden table bends more than a stone or steel one.",
+     "parent": "The table bends a tiny bit, which tilts the mirror. The long beam to the wall turns that tiny tilt into a movement of the dot, usually only a millimetre or two. Look closely at the tape edge. A harder press moves it more. If you can't see it move, use a wall further away, or let a grown-up lean on the table. A wooden table bends more than a stone or steel one. If the dot still does not move, that does not show the table stayed still. It only means the bend was too small for this set-up.",
      "check": {
       "t": "mcq",
       "q": "Why did the dot move when you pressed the table?",
@@ -2700,7 +2650,7 @@
      "qty": 1
     }
    ],
-   "safety": "Spin the pencil between your palms, away from faces.",
+   "safety": "Keep the sharp pencil tip pointing down, away from faces.",
    "schedule": [
     {
      "day": 1,
@@ -2726,7 +2676,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 6,
+     "mins": 8,
      "do": "1. Lay the towel flat on the floor, one end against a wall. 2. Put a small object, like a toy shell or a button, on the towel. 3. Your child pushes the other end slowly towards the wall.",
      "say": "This towel is the old sea floor. The wall is Asia. You are India, pushing north. Watch what happens.",
      "kid": "The towel is the sea floor. The wall is Asia. You are India. Push slowly towards the wall!",
@@ -2768,7 +2718,7 @@
      "say": "This is the Earth. Spin it fast. What happens to its shape?",
      "kid": "Make a paper globe on a pencil. Spin the pencil fast between your hands. What happens to the shape?",
      "adult": true,
-     "parent": "As the rings spin, they flatten at the top and bottom and bulge at the middle. The real Earth spins too. It is about 43 kilometres wider across the equator than from pole to pole. The top of the rings must be free to slide down the pencil, or they can't flatten. If the rings hardly change, spin faster, or use thinner paper.",
+     "parent": "As the rings spin, they flatten at the top and bottom and bulge at the middle. The real Earth spins too. It is about 43 kilometres wider across the equator than from pole to pole. The top of the rings must be free to slide down the pencil, or they can't flatten. If the rings hardly change, spin faster, or use thinner paper. The change is small, just as the real Earth is only a little squashed. A small bulge is a fair result.",
      "how": "a6",
      "chart": {
       "type": "bar",
@@ -2816,22 +2766,21 @@
      "qty": 1
     }
    ],
-   "safety": "Measure barefoot, standing straight, with heels against the wall.",
    "schedule": [
     {
      "day": 1,
-     "mins": 10,
+     "mins": 4,
      "what": "Set up the wall strip. Measure at bedtime. Guess what the morning will show."
     },
     {
      "day": 2,
-     "mins": 10,
+     "mins": 6,
      "what": "Measure as soon as you wake up, and again at bedtime."
     },
     {
      "day": 3,
-     "mins": 10,
-     "what": "Measure in the morning, find the difference, and talk about astronauts' bones."
+     "mins": 20,
+     "what": "Measure first thing in the morning, find the differences, and talk about astronauts' bones."
     }
    ],
    "record": "Fill in the table: day, morning height, bedtime height, difference. Draw the two heights as two bars.",
@@ -2873,35 +2822,29 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Do bedtime and morning measurements for two more days. Write each one in the table.",
-     "say": "Three days, three tries, because one try can be a fluke.",
-     "kid": "Measure every morning and every bedtime. Write each number in the table.",
-     "wait": "Repeat each morning and bedtime for 2 more days.",
+     "do": "At bedtime on day 2, measure again in the same way. First thing on the morning of day 3, measure once more. Write every number in the table.",
+     "say": "Two nights, two tries, because one try can be a fluke.",
+     "kid": "Measure at bedtime tonight. Measure again first thing tomorrow morning. Write each number in the table.",
+     "wait": "Measure at bedtime on day 2, and first thing on day 3.",
      "how": "p1",
      "example_chart": {
       "type": "table",
       "title": "Made-up example results",
       "cols": [
-       "Day",
+       "Night to next morning",
        "Bedtime (cm)",
        "Next morning (cm)",
        "Difference (cm)"
       ],
       "rows": [
        [
-        "1",
+        "Night 1 to morning 2",
         "129",
         "130",
         "1"
        ],
        [
-        "2",
-        "129",
-        "130",
-        "1"
-       ],
-       [
-        "3",
+        "Night 2 to morning 3",
         "128.5",
         "130",
         "1.5"
@@ -2912,7 +2855,7 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Find the difference each day. Then talk about why.",
+     "do": "Find the difference between each bedtime and the next morning. Then talk about why.",
      "say": "You were taller in the morning! During the day, your weight squashes the soft pads between the bones of your back. At night, lying down, they spring back.",
      "kid": "Were you taller in the morning? Your back squashes a little during the day. At night it springs back!",
      "check": {
@@ -2924,7 +2867,7 @@
        "The wall moved"
       ],
       "a": 0,
-      "why": "The soft pads in your spine spring back while you lie down. Picking 'bones grow 1 cm a night' would make you 3 metres taller in a year. The wall did not move."
+      "why": "The soft pads in your spine spring back while you lie down. Picking 'bones grow 1 cm a night' would make you more than 3 metres taller in a year. The wall did not move."
      },
      "how": "p1"
     },
@@ -3059,7 +3002,7 @@
      "do": "Read the usual solutions and the creative ideas together. Then invent a new shape.",
      "say": "Here's what engineers usually do, and some creative ideas. Can you invent something better?",
      "kid": "Look at the usual ways and the creative ideas. Now invent your own. Can you beat them?",
-     "think": "Bamboo, bones and bicycle frames are tubes. Why do nature and engineers keep using the same shapes?",
+     "think": "Why can a rolled-up newspaper stand up on its own, when a flat sheet flops over?",
      "how": "c1"
     }
    ],
@@ -3084,7 +3027,7 @@
    "general": [
     "Wrap the egg in lots of crumpled paper or cloth, which squashes and slows the egg gently.",
     "Put the egg in a cup stuffed with sponge.",
-    "Make a parachute, so it lands more slowly."
+    "Pack the egg tightly into a box with sponge or crumpled paper on every side."
    ],
    "creative": [
     "Build a cage of straws that bend and crumple on landing, like the crumple zone at the front of a car.",
@@ -3153,7 +3096,8 @@
      "how": "c2"
     }
    ],
-   "context": "This is an engineering challenge. You protect a raw egg dropped from 1 metre, using things that squash so the egg doesn't have to."
+   "context": "This is an engineering challenge. You protect a raw egg dropped from 1 metre, using things that squash so the egg doesn't have to.",
+   "safety": "Raw egg can carry germs. Wash your hands after handling it, and clean the floor."
   }
  ],
  "videos": [
@@ -3163,23 +3107,23 @@
    "youtube": "1yT0hxplVBg",
    "mins": 4,
    "why": "Shows a ball squashing flat when it bounces, which is too fast to see with our eyes. It matches the wet ball prints test.",
-   "check": "Found by YouTube search: \"The Beauty of Slow Motion - Tennis Ball Bounce\" by ScienceLuxembourg. Title checked automatically; a parent may still preview it."
+   "check": "Title and channel confirmed on YouTube. A parent may still preview it."
   },
   {
-   "title": "Breaking spaghetti in two (MIT, 2018)",
+   "title": "Why spaghetti usually breaks into more than two pieces",
    "channel": "Everyday, Explained in lines",
    "youtube": "UWmq1pDC-qI",
    "mins": 3,
-   "why": "Shows the spaghetti puzzle and the twist trick in high-speed video.",
-   "check": "Found by YouTube search: \"Why Spaghetti Usually Breaks Into More Than Two Pieces\" by Everyday, Explained in lines. Title checked automatically; a parent may still preview it."
+   "why": "Explains the spaghetti puzzle from the spaghetti activity: why dry spaghetti breaks into three or more pieces.",
+   "check": "Title and channel confirmed on YouTube. A parent may still preview it."
   },
   {
-   "title": "How the Himalayas were made",
+   "title": "The birth of the Himalayas",
    "channel": "The Infinite Madness",
    "youtube": "QLmiNnbETqE",
    "mins": 5,
-   "why": "Shows the Indian plate pushing into Asia and folding rock into mountains.",
-   "check": "Found by YouTube search: \"The Birth of the Himalayas: A Geological Journey | How the Himalayas formed  #continentaldrift #vfx\" by The Infinite Madness. Title checked automatically; a parent may still preview it. It uses computer animation, so a parent should check it shows the Indian plate moving north into Asia."
+   "why": "A computer animation of how the Himalayas formed. A parent should check that it shows the Indian plate moving north into Asia.",
+   "check": "Title and channel confirmed on YouTube. It uses computer animation, so a parent should preview it."
   }
  ],
  "quiz": [
@@ -3221,14 +3165,14 @@
   },
   {
    "t": "mcq",
-   "p": "You squeeze a sponge and let go. It goes back to its old shape. A word for this is…",
+   "p": "Which of these stays squashed after you press it, so it has a plastic change?",
    "opts": [
-    "Elastic",
-    "Plastic",
-    "Brittle"
+    "A lump of clay",
+    "A tennis ball",
+    "A sponge"
    ],
    "a": 0,
-   "why": "Elastic things spring back into shape. Picking 'plastic' is the everyday word. In science, plastic means it stays changed.",
+   "why": "Clay keeps its new shape. In science, that is a plastic change. A tennis ball and a sponge are elastic, so they spring back.",
    "outcome": 1
   },
   {
@@ -3273,17 +3217,15 @@
   },
   {
    "t": "mcq",
-   "p": "Why can a folded paper fan hold more coins than a flat sheet?",
+   "p": "A cardboard box has a wavy layer between two flat layers. Why?",
    "opts": [
-    "Its folds stand on their edges, so it is hard to bend",
-    "Folding adds more paper",
-    "Coins slide off a flat sheet"
+    "The waves stand on their edges, so the box is stiff but light",
+    "The waves make the box heavier",
+    "The waves are only there for decoration"
    ],
    "a": 0,
-   "why": "Same paper, new shape. Each fold acts like a ruler standing on its edge. Picking 'more paper' misses that the amount of paper didn't change.",
-   "outcome": 3,
-   "how": "c1",
-   "context": "In the paper bridge challenge, one sheet of paper must hold coins over a gap between two books."
+   "why": "Each wave is a little wall standing on its edge, so it is hard to bend. The paper is the same, but the shape makes it stronger. The waves do not add weight on purpose.",
+   "outcome": 3
   },
   {
    "t": "mcq",
@@ -3458,12 +3400,12 @@
   }
  ],
  "ask_kids": [
-  "You just sat on that cushion. What happened to its shape? Did it spring back?",
-  "Is this chapati dough elastic or does it stay changed?",
-  "When you wring that cloth, which way do your hands turn?",
-  "That bus is turning a corner. What force is turning it?",
-  "Did the floor change shape when you jumped on it? How could we tell?",
-  "Why do you think this pipe is a tube and not a solid rod?",
+  "When you sit on a cushion, what happens to its shape? Does it spring back?",
+  "Think of chapati dough. Is it elastic, or does it stay changed?",
+  "When you wring a wet cloth, which way do your hands turn?",
+  "When a bus turns a corner, what force is turning it?",
+  "When you jump on the floor, does the floor change shape? How could we tell?",
+  "Why do you think a steel pipe is a tube and not a solid rod?",
   "Are you taller now, or were you taller this morning?",
   "What gets stronger when you push it? What gets weaker?",
   "Is it better to be a bamboo or a dry stick in a storm?",
@@ -3480,24 +3422,12 @@
    "a": "That was a real stretch!"
   },
   {
-   "j": "Why was the towel so tired?",
-   "a": "It had been through a lot of twists."
-  },
-  {
-   "j": "Why did the bamboo win the argument with the storm?",
-   "a": "It knew when to bend."
-  },
-  {
    "j": "What did the sponge say when it was squeezed?",
    "a": "Don't worry, I'll bounce back."
   },
   {
    "j": "Why did the papad never play games?",
    "a": "It always cracked under pressure."
-  },
-  {
-   "j": "What's a clay ball's favourite exercise?",
-   "a": "Squats. It just stays down."
   },
   {
    "j": "Why did the tennis ball go to the doctor?",
@@ -3508,63 +3438,19 @@
    "a": "Stop pushing me!"
   },
   {
-   "j": "Why are the Himalayas so good at keeping secrets?",
-   "a": "They've been folded up for millions of years."
-  },
-  {
-   "j": "What did the bottle cap say to the hand?",
-   "a": "You really know how to turn me around."
-  },
-  {
-   "j": "Why did the cricket ball love the bat?",
-   "a": "It always changed its direction in life."
-  },
-  {
    "j": "What did the spaghetti say when it snapped into three?",
    "a": "I just went to pieces."
-  },
-  {
-   "j": "Why was the Earth so relaxed?",
-   "a": "It just let its middle go a bit."
-  },
-  {
-   "j": "What do you call a rope that tells jokes?",
-   "a": "A real twister."
-  },
-  {
-   "j": "Why did the ruler stand on its edge?",
-   "a": "It didn't want to bend the rules."
   },
   {
    "j": "Why did the egg hire a bodyguard?",
    "a": "It was always cracking up."
   },
   {
-   "j": "What did the bone say to the astronaut?",
-   "a": "Don't forget your exercise, or I'll get weak!"
+   "j": "Why did the ruler stand on its edge?",
+   "a": "It didn't want to bend the rules."
   },
   {
-   "j": "Why did the chapati look so calm?",
-   "a": "It was rolled out nice and flat."
-  },
-  {
-   "j": "What did the steel table say when you pressed it?",
-   "a": "I bent a little, but don't tell anyone."
-  },
-  {
-   "j": "Why was the glass window always worried?",
-   "a": "Everyone kept saying it was going to run."
-  },
-  {
-   "j": "What's a merry-go-round's favourite thing to say?",
-   "a": "Hold on, I'll pull you in!"
-  },
-  {
-   "j": "Why did the root bridge love visitors?",
-   "a": "Every footstep made it stronger."
-  },
-  {
-   "j": "How did the clay feel after the 80 cm drop?",
+   "j": "How did the clay ball feel after it was dropped on the floor?",
    "a": "Totally floored."
   }
  ],
@@ -3789,13 +3675,6 @@
    "kind": "place",
    "where": "Sohra (Cherrapunji), Meghalaya",
    "why": "The real root bridges from this unit's story. The walk down to the double-decker bridge at Nongriat is steep, and best for older children with grown-ups."
-  },
-  {
-   "title": "A sugarcane juice cart, a goldsmith's shop and a building site near you",
-   "url": "",
-   "kind": "place",
-   "where": "anywhere",
-   "why": "Watch forces squash, hammer and bend things. Ask the goldsmith how gold changes shape without breaking."
   }
  ],
  "buy": [
@@ -3853,8 +3732,7 @@
    "url": "https://www.amazon.in/s?k=Forces+Make+Things+Move+Kimberly+Brubaker+Bradley",
    "used_in": [
     "g2"
-   ],
-   "plan": "If bought, read it before the Six Things a Force Can Do game. Its pages can replace the 'Forces change speed and direction' card."
+   ]
   },
   {
    "id": "b-book2",
@@ -3864,8 +3742,7 @@
    "url": "https://www.amazon.in/s?k=The+Way+Things+Work+Now+David+Macaulay",
    "used_in": [
     "c1"
-   ],
-   "plan": "If bought, look at its pages on beams and arches after the paper bridge challenge."
+   ]
   },
   {
    "id": "b-laser",
