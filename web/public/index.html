@@ -620,10 +620,12 @@ main {
 }
 .joke:nth-child(4n + 1) {
   background: var(--aqua);
+  color: #fff;
   transform: rotate(-2.5deg);
 }
 .joke:nth-child(4n + 2) {
   background: var(--gum);
+  color: #fff;
   transform: rotate(2deg);
 }
 .joke:nth-child(4n + 3) {
@@ -632,6 +634,7 @@ main {
 }
 .joke:nth-child(4n) {
   background: var(--pist);
+  color: #fff;
   transform: rotate(2.5deg);
 }
 .joke .q {
@@ -650,8 +653,10 @@ main {
   opacity: 0.75;
 }
 .joke .eyebrow {
+  opacity: 0.85;
+}
+.joke .a {
   color: #2b2340;
-  opacity: 0.7;
 }
 .expi {
   display: grid;
@@ -2470,6 +2475,12 @@ dialog.mini::backdrop {
 }
 .calt b {
   font: 600 18px var(--display);
+}
+/* Library card lists (resources, worth buying, watch): cards side by side where there is room, with space between */
+.grid2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 14px;
 }
 .grid2:has(.rescard) {
   grid-template-columns: minmax(0, 1fr);
@@ -5496,6 +5507,10 @@ strong {
   text-transform: none !important;
   color: var(--muted) !important;
 }
+/* on a coloured joke card the label takes the card's own text colour */
+.joke .eyebrow {
+  color: inherit !important;
+}
 .card,
 .menurow,
 .focus,
@@ -6343,9 +6358,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="42b03d173248c13342";window.DK_APPV="42b03d1732";window.DK_DATAV="48c1196894"</script>
-<script src="/config.js?v=42b03d173248c13342"></script>
+<script>window.DK_BUILD="4eb1cb6cc348c13342";window.DK_APPV="4eb1cb6cc3";window.DK_DATAV="48c1196894"</script>
+<script src="/config.js?v=4eb1cb6cc348c13342"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=42b03d173248c13342"></script>
+<script src="/platform.js?v=4eb1cb6cc348c13342"></script>
 </body>
 </html>

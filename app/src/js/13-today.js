@@ -131,7 +131,7 @@ function moreView() {
   const du = dailyUnit(),
     open = S.exps.filter((e) => !e.closed),
     li = learnItems().length;
-  let h = `<section class="card"><span class="eyebrow">Today is a</span><div class="whos"><button aria-pressed="${dayTypeOf(today) === "full"}" data-act="daytype" data-t="full">Full day</button><button aria-pressed="${dayTypeOf(today) === "busy"}" data-act="daytype" data-t="busy">Busy day</button></div><p class="xs muted">Busy days use the short lesson plans.</p></section>`;
+  let h = `<section class="card"><span class="eyebrow">Today is a</span><div class="whos"><button aria-pressed="${dayTypeOf(today) === "full"}" data-act="daytype" data-t="full">Full day</button><button aria-pressed="${dayTypeOf(today) === "busy"}" data-act="daytype" data-t="busy">Busy day</button></div><p class="xs muted">On a busy day, each lesson shrinks to its short version, about 30 minutes, so the day still fits.</p></section>`;
   h += `<button class="menurow" data-act="learn">${youBlob("", "calm", 'width="40" height="40"')}<span><b>For you</b><br><span class="xs muted">${li ? li + " guides and readings for today and tomorrow" : "Guides for teaching each topic"}</span></span>${icon("next")}</button>`;
   h += `<button class="menurow" data-act="games">${blob("var(--gum)", 21, "wow", "", 'width="40" height="40"')}<span><b>Jokes and games</b><br><span class="xs muted">Word of the Day, True or False, Odd One Out</span></span>${icon("next")}</button>`;
   if (du)

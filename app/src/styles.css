@@ -602,10 +602,12 @@ main {
 }
 .joke:nth-child(4n + 1) {
   background: var(--aqua);
+  color: #fff;
   transform: rotate(-2.5deg);
 }
 .joke:nth-child(4n + 2) {
   background: var(--gum);
+  color: #fff;
   transform: rotate(2deg);
 }
 .joke:nth-child(4n + 3) {
@@ -614,6 +616,7 @@ main {
 }
 .joke:nth-child(4n) {
   background: var(--pist);
+  color: #fff;
   transform: rotate(2.5deg);
 }
 .joke .q {
@@ -632,8 +635,10 @@ main {
   opacity: 0.75;
 }
 .joke .eyebrow {
+  opacity: 0.85;
+}
+.joke .a {
   color: #2b2340;
-  opacity: 0.7;
 }
 .expi {
   display: grid;
@@ -2452,6 +2457,12 @@ dialog.mini::backdrop {
 }
 .calt b {
   font: 600 18px var(--display);
+}
+/* Library card lists (resources, worth buying, watch): cards side by side where there is room, with space between */
+.grid2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 14px;
 }
 .grid2:has(.rescard) {
   grid-template-columns: minmax(0, 1fr);
@@ -5477,6 +5488,10 @@ strong {
   letter-spacing: 0 !important;
   text-transform: none !important;
   color: var(--muted) !important;
+}
+/* on a coloured joke card the label takes the card's own text colour */
+.joke .eyebrow {
+  color: inherit !important;
 }
 .card,
 .menurow,
