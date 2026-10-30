@@ -676,9 +676,7 @@ function gamesView() {
       return `<button class="joke" data-act="joke" data-j="${k}"><span class="eyebrow">Joke ${i + 1}</span><span class="q">${esc(j[0])}</span>${ui.jokes[k] ? `<span class="a">${esc(j[1])}</span>` : `<span class="tap">Tap for the answer</span>`}</button>`;
     })
     .join("")}</div>`;
-  const song = sg
-    ? `<section class="card">${fxSongHtml(sg)}</section>`
-    : `<p class="xs muted">🎵 Song: ${esc(I.song?.title || "")} (being written)</p>`;
+  const song = sg ? `<section class="card">${fxSongHtml(sg)}</section>` : "";
   const rest = dailyUnit() ? jokesAndGames().replace(/^<div class="hs">[\s\S]*?<\/button><\/div>/, "") : "";
   return jokes + song + rest;
 }

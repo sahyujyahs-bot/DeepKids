@@ -42,6 +42,36 @@ def plain(u, P):
         walk(u.get(k, []))
     walk(u.get("roots", {}).get("practice", {}))
     if long_: P(f"{len(long_)} sentences too long for who reads them (child 12 words, parent 20; WRITING.md rule 2), for example " + " | ".join(long_[:3]))
+NUMW = {"two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "eight": 8, "ten": 10, "twelve": 12}
+LEAK = re.compile(r"title checked automatically|video id|recalled, not opened|still being written|used in [gaepc]\d|can replace the first|deepkids list|the founder|founder's|app/content|\.json\b", re.I)
+STOCKL = re.compile(r"the story also quietly asks|one source,? showing up in many forms", re.I)
+def playtest(u):
+    """The rules in PLAYTEST.md that a script can see. Each is a to-do for the checker, not a hard stop."""
+    out = []
+    for g in u.get("games", []):
+        for pr in g.get("printables", []):
+            m = re.match(r"\s*(\d+|" + "|".join(NUMW) + r")\b", pr.get("title", ""), re.I)
+            n = m and (int(m.group(1)) if m.group(1).isdigit() else NUMW[m.group(1).lower()])
+            items = pr.get("items", [])
+            if n and pr.get("kind") in ("cards", "tokens", "board") and len(items) < n:
+                out.append(f"game {g['id']}: '{pr['title'][:50]}' promises {n} but has {len(items)} items: write every one out (PLAYTEST 1-2)")
+            if "picture" in (pr.get("title", "") + " ".join(g.get("rules", []))).lower() and not any(isinstance(x, dict) and x.get("img") for x in items):
+                out.append(f"game {g['id']}: mentions a picture but the cards have none (PLAYTEST 3)")
+        if re.search(r"\btap\b", " ".join(g.get("rules", [])), re.I): out.append(f"game {g['id']}: rules say 'tap' in a paper game (PLAYTEST 29)")
+    text = json.dumps(u, ensure_ascii=False)
+    if re.search(r"the app prints", text, re.I): out.append("says 'the app prints it': make it a printable or say how to draw it (PLAYTEST 4)")
+    for k in ("experiments", "activities", "projects", "challenges"):
+        for x in u.get(k, []):
+            if re.match(r"\s*(none|no special|not needed|nothing)\b", x.get("safety") or "", re.I): out.append(f"{x.get('id')}: safety says '{x['safety'][:30]}': leave the field out (PLAYTEST 23)")
+    # what families see: everything but the sources list and the video notes (the app doesn't show those)
+    shown = json.dumps({**{k: v for k, v in u.items() if k != "sources"}, "videos": [{k: v for k, v in x.items() if k != "check"} for x in u.get("videos", [])]}, ensure_ascii=False)
+    leaks = sorted({m.group(0) for m in LEAK.finditer(shown)})
+    if leaks: out.append("internal notes a family would see: " + ", ".join(leaks) + " (PLAYTEST 21)")
+    if STOCKL.search(text): out.append("stock line: " + STOCKL.search(text).group(0) + " (PLAYTEST 26)")
+    empty = [l.get("title", "")[:30] for l in u.get("links", []) if not l.get("url") and l.get("kind") != "place"]
+    if empty: out.append(f"links with no address: {', '.join(empty)} (PLAYTEST 22)")
+    return out
+
 def check(path):
     e = []; P = lambda m: e.append(m)
     try: u = json.load(open(path))
@@ -196,7 +226,8 @@ def check(path):
     mins = sum(x.get("mins", 0) for k in ("games", "worksheets", "projects", "experiments", "activities", "challenges") for x in u.get(k, []) if pick(x))
     mins += sum(v.get("mins", 0) for v in u["videos"]) + u["story"].get("mins", 10) + u.get("cards_mins", 15) + len(u["quiz"])
     days = max(1, round(mins / DAY_MINS[level]))
-    if len(u["jokes"]) < 3 * days: P(f"jokes: {len(u['jokes'])} for {days} days (needs {3 * days})")
+    if len(u["jokes"]) < 8: P(f"jokes: {len(u['jokes'])}; 8 to 10 good ones (PLAYTEST.md 27)")
+    if len(u["jokes"]) > 12: W.append(f"jokes: {len(u['jokes'])}; keep the 8 to 10 best (PLAYTEST.md 27)")
     for b in u["buy"]:
         if not b.get("used_in") or any(x not in ids for x in b["used_in"]): P(f"buy item {b.get('item')}: used_in must list element ids")
     for mth in u["maths"]:
@@ -211,6 +242,8 @@ def check(path):
     LIVE = r"(?:plant|seed|seedling|tree|bean|sprout|animal|bird|crow|sparrow|pigeon|parrot|hen|chick|insect|ant|bee|butterfly|caterpillar|spider|worm|earthworm|snail|frog|tadpole|fish|cow|dog|cat|goat|elephant|lion|tiger|monkey|bat|lizard|gecko|snake|turtle|whale|dolphin|bacteri(?:um|a)|germ|microbe|virus|fungus|mushroom|mould|yeast|baby|kitten|puppy|calf)"
     its = sorted({m.group(0)[:70] for m in re.finditer(r"\b" + LIVE + r"\b[^.!?\"]{0,40}?\b(?:it|its|itself)\b", json.dumps(u, ensure_ascii=False), re.I)})
     if its: W.append(f"a living being may be called 'it' in {len(its)} places; use she, he or they (WRITING.md rule 26): " + " | ".join(its[:4]))
+    # PLAYTEST.md: what a family prints, plays and reads
+    W.extend(playtest(u))
     dt = (u.get("roots") or {}).get("deep_truth", {}).get("truth", "")
     sens = [x for x in re.split(r"(?<=[.!?])\s+", dt) if x]
     if len(sens) > 4 or any(len(x.split()) > 20 for x in sens): P("roots.deep_truth: 3-4 short sentences, each under 20 words (PHILOSOPHY.md, 'Simple and direct')")
