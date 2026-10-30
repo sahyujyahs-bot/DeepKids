@@ -720,7 +720,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    **Answer:** False. *Why:* False. A starfish has no backbone, no fins and no gills like a fish. A name can fool you. Scientists often say 'sea star' instead. A jellyfish is not a fish either.
 7. (truefalse) An animal with no backbone has no skeleton of any kind.  
    **Answer:** False. *Why:* False, though many people think so. A crab and an ant wear a skeleton on the outside, as armour. A snail makes a shell. An earthworm uses liquid held tight by muscles, a water skeleton. Only a few, like the jellyfish, lean on the sea instead.
-8. (mcq) Kavya finds a small animal on her balcony plant. They have 6 legs and a body in 3 parts. Which group are they in?  
+8. (mcq) A small animal on a balcony plant has 6 legs and a body in 3 parts. Which group does the animal belong to?  
    Options: Insects / Arachnids, like spiders / Crabs and prawns / Centipedes  
    **Answer:** Insects. *Why:* 6 legs and 3 body parts, a head, a middle and a back end, means an insect. Ants, ladybirds and aphids on plants are all insects. Spiders have 8 legs, and crabs have 10.
 9. (mcq) Many people call spiders insects. A spider has 8 legs, 2 body parts and no feelers. Is a spider an insect?  
@@ -830,7 +830,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 3. (mcq) Out of every 100 named kinds of animal, about how many have no backbone?  
    Options: About 5 / About 50 / About 95 / None  
    **Answer:** About 95. *Why:* About 95 out of 100 kinds of animal are invertebrates. Picking 5 swaps the numbers: animals with a backbone are the small group.
-4. (mcq) Lakshmi counts the kinds of animal on her balcony. She finds 2 kinds with a backbone, a pigeon and a gecko, and 9 kinds without one. Is that unusual?  
+4. (mcq) A girl counts the kinds of animal on her balcony. She finds 2 kinds with a backbone, a pigeon and a gecko, and 9 kinds without one. Is that unusual?  
    Options: No. Most kinds of animal have no backbone, so most homes show the same. / Yes. Most animals have a backbone. / Yes. Balconies only have insects. / No. Animals with backbones are not real animals.  
    **Answer:** No. Most kinds of animal have no backbone, so most homes show the same.. *Why:* About 95 out of 100 kinds of animal have no backbone. Small animals fit into cracks, corners and plant pots. So finding more kinds without a backbone is what we expect.
 5. (mcq) An earthworm left out in the hot sun dries out and goes soft and floppy. Why?  

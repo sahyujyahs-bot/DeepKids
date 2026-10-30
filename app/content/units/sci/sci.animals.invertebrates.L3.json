@@ -966,7 +966,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya finds a small animal on her balcony plant. They have 6 legs and a body in 3 parts. Which group are they in?",
+     "p": "A small animal on a balcony plant has 6 legs and a body in 3 parts. Which group does the animal belong to?",
      "opts": [
       "Insects",
       "Arachnids, like spiders",
@@ -1042,11 +1042,11 @@
      "p": "After heavy rain, two cousins find lots of earthworms lying on the wet road. Nobody is sure why worms come up in rain.",
      "views": [
       {
-       "who": "Nila",
+       "who": "Nila, one cousin",
        "says": "Their burrows fill with water, so they come up so they don't drown."
       },
       {
-       "who": "Arjun",
+       "who": "Arjun, the other cousin",
        "says": "Wet ground lets them travel far to a new place without drying out. So they come up to travel."
       },
       {
@@ -3327,7 +3327,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi counts the kinds of animal on her balcony. She finds 2 kinds with a backbone, a pigeon and a gecko, and 9 kinds without one. Is that unusual?",
+   "p": "A girl counts the kinds of animal on her balcony. She finds 2 kinds with a backbone, a pigeon and a gecko, and 9 kinds without one. Is that unusual?",
    "opts": [
     "No. Most kinds of animal have no backbone, so most homes show the same.",
     "Yes. Most animals have a backbone.",
