@@ -35,10 +35,14 @@ Real research, retold for a parent and a child aged 6 to 10. One JSON file per p
 }
 ```
 - All nine kinds, in this order. `t` may be reworded to fit (keep it short). `b` is 25 to 70 words, plain enough for a parent to read aloud once and a 7-year-old to follow.
+- A card may have a `note`: a side remark (a safety tip, an aside) shown apart, in a small box. Never put a side remark in `b`.
 - At least 2 cards have an `img`, and the cover is set. Images live in `app/content/media/research/<id>-N.jpg`, at most 900 px wide.
 - Every image has a credit. Every fact comes from the source; if unsure, leave it out.
 
 ## Writing rules (from WRITING.md)
+- It must make sense when read aloud once, card by card: each card follows from the one before, says what the reader needs to know, and nothing is assumed that was not said. Not "simple": clear.
+- No one appears without being introduced. In "try" cards, speak to the family ("Put a glass of water…"), or say who a person is before they act.
+- Warnings only when the activity has a real risk, and then as a `note`, in one short line.
 - Plain words, short sentences, no poetry where understanding is needed. Explain any hard word, and list it under "New words".
 - Never call a living being "it": she, he or they.
 - Real scientists keep their real names and genders. In the "try it" and "think" cards, any made-up people are mostly women and girls.
