@@ -1,0 +1,2920 @@
+{
+ "id": "sci.sky.history-of-astronomy.L3",
+ "title": "How people learned about the sky, and made clocks and calendars from it",
+ "level": 3,
+ "summary": {
+  "text": "Long before clocks and phones, people in Babylon, Greece, India, China and the Maya lands watched the sky every night and wrote down what they saw. They found that the sky repeats: the Sun gives the day, the Moon gives the month, and the Sun's slow journey gives the year. Every calendar in the world is built from these three repeats. To count time at night, people made water clocks, such as the Indian ghati, a bowl with a hole that sinks in a set time. In this unit you build one, and find out how steady it really is. You also meet Parameshvara, a Kerala astronomer who showed that old tables of the sky had drifted, by watching eclipses for most of his life.",
+  "art": "A night sky over a flat terrace, with faint pictures around the edge: a Babylonian clay tablet, a Greek stick and shadow, an Indian copper bowl floating in water, a Chinese star map and a Maya stone calendar."
+ },
+ "intro": {
+  "hook": "Close your eyes. Say 'now' when you think one minute has passed. A grown-up checks with a clock. Were you early or late? Before clocks, how did people know the time at night?",
+  "text": "Your own sense of time drifts, so people looked for something steadier. They found it in the sky. The Sun rises again every morning. The Moon grows full about every 29 and a half days. The Sun comes back to the same place among the seasons every 365 days. People counted these repeats and made calendars. They made water clocks to count the hours between sunset and sunrise. In this unit you make a sinking cup clock, test how steady it is, and meet the sky-watchers who taught the world to count time.",
+  "art": "A child sitting with eyes closed on a sofa, and a mother beside her watching the seconds on a wall clock."
+ },
+ "outcomes": [
+  "I can name the three repeats in the sky that give us the day, the month and the year, and say how long each one takes.",
+  "I can explain why a calendar that counts only Moon months drifts away from the seasons.",
+  "I can build a sinking cup water clock, time it three times, and say how steady it was, using my own results.",
+  "I can say one thing that each of these people found out about the sky: the Babylonians, the Greeks, Indian astronomers, the Chinese and the Maya.",
+  "I can tell how Parameshvara of Kerala showed that old tables of the sky had drifted, by watching eclipses.",
+  "I can explain why people checked their clocks and calendars against the sky for thousands of years.",
+  "I can find the sky in our own calendar: in nazhigai, in month names, and in festivals that follow the Sun or the Moon."
+ ],
+ "cards_mins": 20,
+ "terms": [
+  {
+   "term": "Astronomy",
+   "meaning": "The study of the Sun, Moon, stars, planets and everything else in the sky.",
+   "example": "Watching the Moon each night and drawing its shape is a small piece of astronomy.",
+   "art": "A girl on a balcony drawing the Moon in a notebook."
+  },
+  {
+   "term": "Astronomer",
+   "meaning": "A person who studies the sky. Long ago, astronomers watched with their eyes and wrote down what they saw.",
+   "example": "Aryabhata was an astronomer in India about 1,500 years ago.",
+   "art": "An old astronomer sitting on a roof at night, pointing at a star and writing on a palm leaf."
+  },
+  {
+   "term": "Calendar",
+   "meaning": "A way of counting days, months and years, so people can plan ahead and agree on dates.",
+   "example": "The calendar on your kitchen wall shows Pournami, Amavasya and festival days.",
+   "art": "A wall calendar in a kitchen with small Moon shapes printed on some dates."
+  },
+  {
+   "term": "Lunar month",
+   "meaning": "The time from one full Moon to the next, about 29 and a half days. 'Lunar' means to do with the Moon.",
+   "example": "From one Pournami to the next is one lunar month.",
+   "art": "A row of Moon shapes from full to thin to full again, with '29 and a half days' written under them."
+  },
+  {
+   "term": "Solar year",
+   "meaning": "The time the Earth takes to go once round the Sun, about 365 and a quarter days. It brings the seasons back. 'Solar' means to do with the Sun.",
+   "example": "Pongal comes in the middle of January every year, because it follows the Sun.",
+   "art": "The Earth on a circle round the Sun, with mango trees in four seasons drawn around the circle."
+  },
+  {
+   "term": "Nakshatra",
+   "meaning": "One of 27 star groups along the Moon's path in Indian astronomy. The Moon moves into a new one about every day.",
+   "example": "Onam falls when the Moon is in the nakshatra Thiruvonam.",
+   "art": "A curved band of stars with 27 small star groups, and the Moon sitting in one of them."
+  },
+  {
+   "term": "Nazhigai",
+   "meaning": "An old Indian unit of time, 24 minutes long. There are 60 nazhigai in one day and night. In Sanskrit it is called a ghatika or ghati.",
+   "example": "A Tamil panchangam still gives some times in nazhigai.",
+   "art": "A clock face split into 60 small parts, with one part shaded and labelled 24 minutes."
+  },
+  {
+   "term": "Water clock",
+   "meaning": "A clock that measures time by water flowing in or out of a bowl at a steady rate.",
+   "example": "The Indian ghati was a copper bowl with a tiny hole. Floating in water, it filled and sank in one nazhigai.",
+   "art": "A copper bowl floating in a big pot of water, half full, with a tiny stream of water coming in through its hole."
+  },
+  {
+   "term": "Sundial",
+   "meaning": "A clock that tells the time from the shadow of a stick or a wall in sunlight.",
+   "example": "The huge sundial at Jantar Mantar in Jaipur casts a shadow that moves across a curved scale.",
+   "art": "A stick standing in sunlight on a flat stone, with its shadow pointing to a marked line."
+  },
+  {
+   "term": "Eclipse",
+   "meaning": "When one sky body blocks the light of another. In a lunar eclipse, the Earth's shadow falls on the Moon.",
+   "example": "Old astronomers could say in advance on which night a lunar eclipse would happen.",
+   "art": "A full Moon with a curved dark shadow covering part of it."
+  },
+  {
+   "term": "Record",
+   "meaning": "A written note of what you saw and when, kept so you or others can look back at it.",
+   "example": "Babylonian sky-watchers wrote nightly records on clay tablets for hundreds of years.",
+   "art": "A clay tablet covered in small wedge-shaped marks, next to a child's notebook with dates and drawings."
+  },
+  {
+   "term": "Cycle",
+   "meaning": "Something that happens again and again in the same order, taking the same time.",
+   "example": "Full Moon, half Moon, no Moon, half Moon, full Moon again is a cycle.",
+   "art": "A circle of arrows with the Moon's shapes around it."
+  },
+  {
+   "term": "Prediction",
+   "meaning": "A careful guess about what will happen, made from what you already know.",
+   "example": "Knowing the Moon's cycle, you can predict the date of the next Pournami.",
+   "art": "A girl pointing at a future date on a calendar where she has drawn a full Moon."
+  },
+  {
+   "term": "Observatory",
+   "meaning": "A place built for watching the sky and measuring it.",
+   "example": "Jantar Mantar in Jaipur and Delhi are observatories built of stone, nearly 300 years ago.",
+   "art": "Large stone instruments with staircases and curved scales at Jantar Mantar, under a blue sky."
+  },
+  {
+   "term": "Solstice",
+   "meaning": "The day when the Sun rises and sets furthest north or furthest south in the year. It seems to stop there and turn back.",
+   "example": "Around 21 June, the Sun sets at its furthest point north, so the day is longest in India.",
+   "art": "A window with tape marks showing where the Sun set on different dates, the marks bunched together at one end."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "The sky repeats",
+   "status": "defined",
+   "definition": "The sky has three big repeats. The Earth turns once a day. The Moon goes through its shapes in about 29 and a half days. The Earth goes round the Sun in about 365 and a quarter days.",
+   "description": "Every morning the Sun rises in the east, crosses the sky and sets in the west. This happens because the Earth turns once each day. Every night the Moon looks a little different. After about 29 and a half days it comes back to the same shape. Over the year, the Sun rises a little further north or south each day, and the noon shadow grows longer and shorter. After about 365 days it starts again. People everywhere noticed these three repeats. Each one became a unit for counting time: the day, the month and the year.",
+   "examples": [
+    "The word 'month' comes from the same old word as 'Moon'.",
+    "In Tamil, 'thingal' can mean both the Moon and a month.",
+    "The Sun takes about 365 days to come back to rising at the same point on the horizon."
+   ],
+   "perspectives": [],
+   "art": "Three circles side by side: the Earth spinning, the Moon's shapes in a ring, and the Earth going round the Sun.",
+   "context": "This card is about the three repeats in the sky that every calendar is built from."
+  },
+  {
+   "concept": "Calendars from the Sun and from the Moon",
+   "status": "defined",
+   "definition": "A solar calendar follows the Sun, so it stays with the seasons. A lunar calendar follows the Moon's months. A calendar that uses both adds an extra month now and then to stay in step.",
+   "description": "Twelve Moon months add up to about 354 days. That is about 11 days short of the Sun's year. So a calendar of only Moon months slides away from the seasons. The Islamic Hijri calendar is a Moon calendar, so Ramzan comes about 11 days earlier each year. Most Indian Hindu calendars use both. They count Moon months, but add an extra month, the adhika masa, about every two and a half to three years. Then the festivals stay in their seasons. The calendar on most Indian walls today, the Gregorian calendar, follows only the Sun. It adds a leap day on 29 February in most fourth years.",
+   "examples": [
+    "Pongal follows the Sun, so it falls in the middle of January every year.",
+    "Deepavali follows the Moon, so its date moves between October and November.",
+    "Onam needs both: the Sun's month of Chingam and the Moon in the nakshatra Thiruvonam."
+   ],
+   "perspectives": [],
+   "art": "Two wheels side by side, one with a Sun in the middle and 12 seasons, one with a Moon in the middle and 12 Moon shapes, with a small extra slice added to the Moon wheel.",
+   "context": "This card is about the two kinds of calendar, and why Moon months need an extra month added now and then."
+  },
+  {
+   "concept": "Clocks before machines",
+   "status": "defined",
+   "definition": "Before clocks with gears, people used shadows to tell the time by day, and water flowing through a small hole to measure time at night.",
+   "description": "A stick in the sun casts a shadow that moves as the Earth turns. That is a sundial. But a sundial is no use at night or on a cloudy day. So people made water clocks. In Babylon, Egypt and China, water dripped out of one pot into another, and marks showed the time. In India, astronomers used the ghati, also called the ghatika. It was a copper bowl with a tiny hole in the bottom. It floated in a big pot of water, slowly filled, and sank. Then someone emptied it and floated it again. The old Indian astronomy book called the Surya Siddhanta describes such a bowl. The bowl was made so that it sank 60 times in one day and night, once every 24 minutes. The Tamil word for this time is nazhigai, and the Hindi word for a clock, ghadi, comes from ghati.",
+   "examples": [
+    "The Tamil unit nazhigai is 24 minutes, one sixtieth of a day.",
+    "An old water pot found at Karnak in Egypt, more than 3,000 years old, has marks inside for the hours.",
+    "In China, an official named Su Song built a tall water-powered clock tower that also turned a model of the sky, around the year 1090."
+   ],
+   "perspectives": [],
+   "art": "A copper bowl floating in a large brass pot of water, beside a sundial stick on a stone, under a half-day, half-night sky.",
+   "context": "This card is about how people told the time before clocks with gears: sundials by day and water clocks by night."
+  },
+  {
+   "concept": "The Babylonians: writing the sky down",
+   "status": "defined",
+   "definition": "The Babylonians lived in what is now Iraq. They wrote down what they saw in the sky night after night on clay tablets, and found patterns that let them predict eclipses.",
+   "description": "The Babylonians wrote by pressing a reed into wet clay. For hundreds of years, their sky-watchers kept records of the Moon, the planets and the weather. Many of these tablets still survive. Because they kept records for so long, they found repeats too slow to notice in one lifetime. Eclipses of the Moon follow a pattern that repeats about every 18 years, and the Babylonians used it to say in advance when one might happen. They counted in sixties. That is why we still have 60 seconds in a minute, 60 minutes in an hour and 360 degrees in a circle.",
+   "examples": [
+    "Babylonian records of the planet Venus rising and setting were written on clay more than 2,500 years ago.",
+    "Thousands of Babylonian sky tablets are kept in the British Museum in London.",
+    "Every time you read a clock, you count minutes the Babylonian way, in sixties."
+   ],
+   "perspectives": [],
+   "art": "A woman pressing a reed into a wet clay tablet by lamplight, with the Moon and a bright planet outside a doorway.",
+   "context": "This card is about the Babylonians, who kept written records of the sky for centuries."
+  },
+  {
+   "concept": "The Greeks: asking why, and measuring the Earth",
+   "status": "defined",
+   "definition": "Greek thinkers tried to explain why the sky moves as it does, and used shadows and angles to measure the size of the Earth.",
+   "description": "Around 240 BCE, Eratosthenes worked in the great library of Alexandria in Egypt. He learned that at noon on one day of the year, the Sun shone straight down a well in the town of Syene, further south. On the same day in Alexandria, a stick cast a short shadow. From the angle of that shadow and the distance between the towns, he worked out the size of the whole Earth, and got close to the real size. Hipparchus made a list of about 850 stars and found that the stars slowly shift over centuries. Most Greeks thought the Earth stood still in the middle of everything, with the Sun and planets on perfect circles. Hypatia, a woman astronomer and teacher in Alexandria, worked on the great astronomy book by Ptolemy about 1,600 years ago.",
+   "examples": [
+    "Eratosthenes measured the Earth with a shadow, a distance and some careful thinking, without leaving Egypt.",
+    "Aristarchus, a Greek, said the Earth goes round the Sun, but almost nobody agreed with him for nearly 1,800 years.",
+    "Hypatia taught astronomy and mathematics in Alexandria until she was killed in the year 415."
+   ],
+   "perspectives": [],
+   "art": "A stick casting a short shadow in Alexandria and a well with sunlight going straight down in Syene, with a curved Earth drawn between them.",
+   "context": "This card is about the Greek sky-watchers, who asked why the sky moves and measured the Earth with a shadow."
+  },
+  {
+   "concept": "India: Jyotisha, nakshatras and the Kerala astronomers",
+   "status": "defined",
+   "definition": "Jyotisha is the old Indian study of the sky and of time. Indian astronomers divided the Moon's path into 27 nakshatras, worked out calendars, and calculated eclipses.",
+   "description": "The oldest Indian book about the sky is the Vedanga Jyotisha. It is more than 2,000 years old, though its exact age is argued about. It sets out a calendar for rituals, using the Sun, the Moon and the nakshatras. The Moon takes about 27 days to go round the sky past the same stars, so it spends about one day in each nakshatra. Many month names come from the nakshatra where the full Moon sits. Chaitra comes from Chitra, and Karthigai from Krittika. In 499, Aryabhata wrote that the Earth spins, and that eclipses are shadows. Much later, astronomers in Kerala, such as Madhava, Parameshvara and Nilakantha, did new mathematics and checked their numbers against the sky. Around 1730, Raja Jai Singh II built huge stone observatories, the Jantar Mantars, in Delhi, Jaipur, Ujjain, Varanasi and Mathura.",
+   "examples": [
+    "The Tamil month Karthigai is named after Krittika, the star group also called the Pleiades.",
+    "Karthigai Deepam is lit on the full Moon when the Moon is in Krittika.",
+    "The Jantar Mantar in Jaipur has a sundial as tall as a nine-storey building."
+   ],
+   "perspectives": [],
+   "art": "A palm-leaf manuscript with star diagrams beside an oil lamp, and behind it the outline of the Jaipur Jantar Mantar under stars.",
+   "context": "This card is about sky-watching in India: the nakshatras, Aryabhata, the Kerala astronomers and Jantar Mantar."
+  },
+  {
+   "concept": "China: the longest records of the sky",
+   "status": "defined",
+   "definition": "Chinese astronomers kept careful written records of the sky for over 2,000 years, including comets, eclipses and new stars.",
+   "description": "In China, astronomers worked for the emperor. Their job was to watch the sky every night and write down anything new. They noted comets, sunspots and eclipses. In the year 1054, they wrote about a 'guest star' that suddenly appeared, so bright it could be seen in the daytime for weeks. Today we know it was an exploding star. Its cloud of leftover gas, the Crab Nebula, is still there, and it is still spreading out. Chinese astronomers also divided the sky along the Moon's path into 28 parts, called lodges, a little like the Indian nakshatras.",
+   "examples": [
+    "Chinese records of Halley's Comet go back to 240 BCE.",
+    "Astronomers today still use the Chinese record of 1054 to work out how old the Crab Nebula is.",
+    "Wang Zhenyi, a young woman in China in the 1700s, wrote books on astronomy and explained how eclipses happen."
+   ],
+   "perspectives": [],
+   "art": "A Chinese astronomer at night on a tiled roof, brush in hand, looking up at an unusually bright new star.",
+   "context": "This card is about Chinese astronomers, who kept records of the sky for over 2,000 years."
+  },
+  {
+   "concept": "The Maya: counting Venus",
+   "status": "defined",
+   "definition": "The Maya lived in what is now Mexico and Central America. They tracked the planet Venus and built calendars that fit several sky cycles together.",
+   "description": "The Maya watched Venus very closely. Venus appears as a bright morning star, disappears, then appears as an evening star, and comes back to the morning about every 584 days. A Maya book called the Dresden Codex has a table of Venus's appearances, worked out far into the future. Five Venus cycles are 2,920 days, which is exactly eight years of 365 days. The Maya also used a 365-day year and a 260-day count. The two counts line up again every 52 years.",
+   "examples": [
+    "5 times 584 is 2,920, and 8 times 365 is also 2,920.",
+    "The Dresden Codex is a folded Maya book about 800 years old, now kept in Dresden in Germany.",
+    "At the pyramid of El Castillo in Mexico, around 21 March and 22 September, the late afternoon Sun casts a shadow on the staircase that looks like a snake."
+   ],
+   "perspectives": [],
+   "art": "A painted Maya book page with dots and bars for numbers, and a bright Venus low over a stone pyramid at dawn.",
+   "context": "This card is about the Maya, who counted the cycles of the planet Venus."
+  },
+  {
+   "concept": "Why people checked their clocks and calendars against the sky",
+   "status": "defined",
+   "definition": "A water clock or a calculated table drifts a little from the truth over time. The sky's repeats are much steadier, so people corrected their clocks and calendars by watching the sky.",
+   "description": "A ghati bowl sinks a little faster or slower if the water is warmer, if the hole wears or if it is put down roughly. So astronomers checked it against the Sun and stars. Calculated tables of the sky drift too. Small errors in the numbers add up over hundreds of years. Parameshvara, in Kerala, saw that eclipses were not happening at the times the old tables said. He watched eclipses for decades and wrote a new, corrected system in 1431. Even the second was measured from the Earth's movement until 1967. Since then, it is measured with atomic clocks, which are steadier still.",
+   "examples": [
+    "The sinking cup in this unit sinks in a slightly different time each round.",
+    "Old tables made in 683 had drifted from the sky by the 1400s, and Parameshvara corrected them.",
+    "Since 1972, a leap second has sometimes been added to clocks, because the Earth's spin is not perfectly steady."
+   ],
+   "perspectives": [],
+   "art": "A copper water bowl next to a night sky with the Moon partly in shadow, and an astronomer comparing a palm-leaf table with the eclipse.",
+   "context": "This card explains why clocks and calendars were always corrected by watching the sky."
+  },
+  {
+   "concept": "Why do we count minutes in sixties?",
+   "status": "idea",
+   "definition": "",
+   "description": "We know that the Babylonians counted in sixties, and that we got 60 minutes and 360 degrees from their astronomy. Why they chose 60 is not known for sure. There are a few ideas.",
+   "examples": [
+    "60 can be split evenly into 2, 3, 4, 5, 6, 10, 12, 15, 20 and 30 parts.",
+    "You can count 12 finger joints on one hand with your thumb, and 5 fingers on the other hand make 5 lots of 12, which is 60."
+   ],
+   "perspectives": [
+    {
+     "who": "Many historians of mathematics",
+     "explanation": "60 splits evenly in many ways, so it is easy to share things into halves, thirds, quarters and fifths without fractions."
+    },
+    {
+     "who": "Some historians",
+     "explanation": "Two older counting systems, one in tens and one in sixes or twelves, may have been joined together."
+    },
+    {
+     "who": "Others",
+     "explanation": "People may have counted 12 finger joints on one hand with the thumb, and kept track of 5 lots of 12 on the other hand."
+    }
+   ],
+   "art": "A child's two hands, the right thumb touching the joints of the right fingers, and the left hand holding up fingers to keep count.",
+   "context": "This card is about why we count 60 minutes in an hour. Nobody knows for sure, so here are the main ideas."
+  },
+  {
+   "concept": "Did sky-watchers learn from each other?",
+   "status": "debated",
+   "definition": "",
+   "description": "Some ideas clearly travelled. Greek astronomy reached India about 1,800 years ago, and Indian books from that time use some Greek words. Later, Indian numbers and astronomy reached Baghdad, and from there Europe. For older times, historians argue.",
+   "examples": [
+    "The Sanskrit word 'hora', for an hour, is thought to come from Greek.",
+    "Indian books on astronomy were translated into Arabic in Baghdad in the 700s."
+   ],
+   "perspectives": [
+    {
+     "who": "Some historians",
+     "explanation": "The Vedanga Jyotisha calendar has numbers similar to Babylonian ones, so they think Babylonian ideas reached India early."
+    },
+    {
+     "who": "Other historians",
+     "explanation": "The Vedanga Jyotisha grew out of Indian ritual needs, and anyone watching the same sky would find similar numbers. So the likeness does not prove copying."
+    },
+    {
+     "who": "Everyone agrees",
+     "explanation": "The Maya had no contact with Asia or Europe, and still found the same Moon month and year, because they watched the same sky."
+    }
+   ],
+   "art": "A map with arrows between Babylon, Greece, India, China and Baghdad, and the Maya lands far away across the ocean with no arrow.",
+   "context": "This card is about whether sky-watchers in different lands learned from each other. Historians argue, and here are the sides."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "The day comes from the Earth turning, the month from the Moon's cycle, and the year from the Earth going round the Sun.",
+   "evidence": "Anyone can watch the Sun rise each day, the Moon change over a month, and the noon shadow change through the year."
+  },
+  {
+   "text": "Twelve Moon months are about 11 days shorter than a solar year.",
+   "evidence": "Twelve times 29 and a half is 354 days, and a solar year is about 365 days. Ramzan moves about 11 days earlier each year in the Gregorian calendar."
+  },
+  {
+   "text": "Babylonian astronomers kept written records of the sky for centuries, and we still count 60 minutes in an hour and 360 degrees in a circle because of them.",
+   "evidence": "Thousands of their clay tablets survive and have been read by historians."
+  },
+  {
+   "text": "Chinese astronomers recorded a new star in 1054, and it was an exploding star whose remains are the Crab Nebula.",
+   "evidence": "The Crab Nebula is spreading out. Working backwards from its speed gives a start date close to 1054."
+  },
+  {
+   "text": "Indian astronomers used sinking bowl water clocks that measured one ghatika, 24 minutes.",
+   "evidence": "They are described in Indian astronomy books such as the Surya Siddhanta, and the unit survives in Tamil as nazhigai."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Ancient people did not know the Earth is round.",
+   "who": "A common idea today",
+   "for": "Many old pictures show a flat world, and people often say that sailors feared falling off the edge.",
+   "against": "Greek thinkers knew the Earth is round by about 350 BCE, from the curved shadow of the Earth on the Moon during eclipses. Eratosthenes measured its size. Aryabhata in India also wrote that the Earth is a sphere.",
+   "status": "rejected",
+   "context": "This card is about a common mistake: that people long ago all thought the Earth was flat."
+  },
+  {
+   "claim": "The Earth stands still in the middle, and the Sun, Moon and stars go round it.",
+   "who": "Most Greek astronomers, including Ptolemy, and most of the world for about 1,800 years",
+   "for": "The ground feels still, and the Sun really does seem to go round us every day.",
+   "against": "Aryabhata said the Earth spins. Copernicus and Galileo showed that the Earth goes round the Sun. Today spacecraft see it.",
+   "status": "rejected",
+   "context": "This card is about the old idea that the Earth stands still at the centre of everything."
+  },
+  {
+   "claim": "The heavens are perfect and never change.",
+   "who": "Many Greek thinkers, following Aristotle",
+   "for": "The stars keep the same patterns year after year, so the sky seems fixed for ever.",
+   "against": "Chinese astronomers recorded a 'guest star' in 1054 that appeared and faded. Comets come and go. The stars also shift slowly over centuries, as Hipparchus found.",
+   "status": "rejected",
+   "context": "This card is about the old idea that nothing in the sky ever changes."
+  },
+  {
+   "claim": "The Maya calendar said the world would end in 2012.",
+   "who": "Many films, websites and newspapers around 2012",
+   "for": "One long Maya count of days reached a round number in December 2012.",
+   "against": "Maya experts say it was like a car's meter rolling over to a new round number. Maya writings mention dates long after 2012. Nothing happened.",
+   "status": "rejected",
+   "context": "This card is about a popular story that the Maya predicted the end of the world."
+  },
+  {
+   "claim": "The positions of the planets when you are born decide what kind of person you will be.",
+   "who": "Astrology, in many cultures. In India, the old Jyotisha books included both astronomy and astrology.",
+   "for": "Astrology is very old, many families use it, and people often feel their reading fits them.",
+   "against": "When scientists tested it, astrologers could not match birth charts to people's characters better than by chance. One such test was published in the journal Nature in 1985. Astronomy, the study of where things are and how they move, works very well.",
+   "status": "rejected",
+   "context": "This card is about astrology, the idea that the sky shapes our lives, and what tests have found."
+  },
+  {
+   "claim": "Water clocks were too rough to be useful.",
+   "who": "A common idea today",
+   "for": "A bowl with a hole can be put down roughly, the hole can wear, and the water temperature changes.",
+   "against": "Astronomers checked them against the stars, and made them carefully. Water clocks were used for over 2,000 years in Egypt, Babylon, Greece, China, India and the Arab world. Your own cup clock may be steady to within a few seconds.",
+   "status": "rejected",
+   "context": "This card is about whether old water clocks were any good."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Your sense of a minute drifted, and your cup clock drifted a little too. Is there any clock that does not drift at all?",
+   "kind": "deep",
+   "hint": "Think about the cup, the Moon, the turning Earth and the atomic clocks that set your phone."
+  },
+  {
+   "q": "If you lived in a cave with no clocks and no sky, how would you know how many days had passed?",
+   "kind": "deep",
+   "hint": "Think about sleep, hunger and your heartbeat. People who have tried this lost count."
+  },
+  {
+   "q": "The Maya and the Babylonians never met, yet both counted a month of about 29 and a half days. What does that tell us about the sky?",
+   "kind": "big",
+   "hint": "Two people measuring the same thing carefully get the same answer."
+  },
+  {
+   "q": "Is time something that exists out there, or is it only our way of counting the sky's repeats?",
+   "kind": "big",
+   "hint": "Would time still pass if nothing in the universe repeated?"
+  },
+  {
+   "q": "A plant flowers when the nights grow long enough. Does a plant have a calendar?",
+   "kind": "big",
+   "hint": "Many plants measure the length of the night. What else in nature keeps count of the seasons?"
+  },
+  {
+   "q": "Parameshvara spent 55 years watching eclipses to correct one table. Is that a good way to spend a life?",
+   "kind": "big",
+   "hint": "Think about who used his tables after him, and what it is like to find something out for certain."
+  }
+ ],
+ "story": {
+  "title": "Paati's Night Clock",
+  "mins": 12,
+  "read_aloud": true,
+  "note": "The story is made up. The facts in it are true: a nazhigai is 24 minutes, the old Indian ghati bowl sank once each nazhigai, and the Moon moves across the sky by about one fist held at arm's length every 40 minutes.",
+  "text": [
+   "It was a Sunday night in Madurai, and Sunday nights in Meenakshi's family had one rule. No phones, no TV, no screens of any kind. All the phones went into a steel box on top of the fridge at six o'clock.",
+   "Meenakshi was nine. Her brother Karthik was six. Amma had gone to Chennai for work, and her train would reach Madurai at nine o'clock. Appa was going to the station on his scooter to fetch her.",
+   "\"How long till nine?\" asked Karthik, for the fourth time.",
+   "Just before Appa went out to buy milk, he had said, \"It is half past seven.\" Now he was gone. The wall clock in the hall had stopped, because its cell was flat. And the phones were in the box.",
+   "\"We could open the box,\" said Karthik.",
+   "\"Rule is rule,\" said Paati, their grandmother. She was sitting on the swing on the balcony, looking at the sky. \"When I was small, in our village, there was no clock in our house at all. Do you know how my own paati knew the time?\"",
+   "Karthik shook his head.",
+   "\"By day, she looked at shadows. At night, she looked up.\" Paati pointed. The Moon was rising over the temple towers, big and nearly full. \"The sky turns all night, slowly and steadily. Watch the Moon, and you can tell how much time has gone by.\"",
+   "\"But how much is a lot of Moon?\" asked Karthik.",
+   "Paati held her fist out at the end of her straight arm. \"The Moon moves about this far, one fist, in a little less than an hour. About 40 minutes.\" She closed one eye. \"Right now, the Moon is one fist above the top of the east tower.\"",
+   "\"That is too slow to watch,\" said Karthik. \"I want to count.\"",
+   "Meenakshi had an idea. She had read about it in her science book. \"In the old days, astronomers had a clock made of water. A copper bowl with a tiny hole. It floats in a big pot, fills up slowly and sinks. Then you empty it and float it again.\"",
+   "\"The ghati,\" said Paati, smiling. \"In Tamil we called that time a nazhigai. Twenty-four minutes. Sixty of them in a day and a night.\"",
+   "Meenakshi ran to the kitchen. She found a small plastic cup, the kind left over from a birthday party. Paati heated a needle over the gas flame and made a small hole in the bottom. Meenakshi taped two one-rupee coins inside, so it would sink when full. Karthik dragged in the big steel vessel they used for soaking rice, and filled it with water.",
+   "Meenakshi set the cup gently on the water. It bobbed and floated. Then, very slowly, water started to come up through the hole, like a tiny spring.",
+   "They waited. The cup sat lower and lower. Then, with a soft gulp, it tipped and went under.",
+   "\"One!\" shouted Karthik.",
+   "Meenakshi fished the cup out, poured the water away and floated it again. Karthik made a mark on a paper for each sinking. Two. Three. Four. Five.",
+   "\"Now we know how long one sinking is,\" said Karthik proudly.",
+   "\"Do we?\" asked Paati. \"What does one sinking mean? Is it one minute? Ten minutes?\"",
+   "Karthik frowned. The cup could count. But it could not tell him what it was counting.",
+   "Meenakshi looked up. She held out her fist at the end of her arm, the way Paati had. The Moon was now about one fist higher than before, two fists above the tower.",
+   "\"The Moon has moved one fist,\" she said slowly. \"That is about 40 minutes. And the cup sank five times. So one sinking is about 8 minutes.\"",
+   "Paati clapped her hands. \"Now your clock has a meaning. The cup counts. The sky tells you what the count is worth.\"",
+   "\"So how long till nine?\" asked Karthik.",
+   "They worked it out together. Appa had said half past seven just when Paati first looked at the Moon. Forty minutes later made it about ten past eight. That left about 50 minutes till nine, which was about six more sinkings.",
+   "Karthik counted every one. The cup filled, tipped and sank. Meenakshi emptied it each time. On the sixth sinking, Karthik shouted, \"Nine o'clock!\"",
+   "Just then Appa came up the stairs with the milk. He had stopped to talk to a neighbour on the way. \"What time is it?\" both children shouted. Appa looked at his watch. \"Six minutes past nine. Why?\"",
+   "\"We were only six minutes off!\" said Meenakshi. \"And we used a cup and the Moon.\" Appa laughed, picked up his keys and hurried off to the station.",
+   "\"The cup was not quite the same each time,\" Meenakshi told Paati. \"Once I put it down hard, and it sank faster.\"",
+   "\"That is why the old astronomers checked their water clocks against the sky,\" said Paati. \"The cup can be bumped. The Moon cannot.\"",
+   "When Amma came home, Karthik was already asleep on the swing, with five marks, and then six more, on his paper."
+  ],
+  "epiphany": "For the parent: a water clock counts steadily, but on its own it does not say how long each count is. Meenakshi gave her cup a meaning by comparing it with the sky. The Moon moved one fist, about 40 minutes, while the cup sank five times, so each sinking was about 8 minutes. Old astronomers did the same with the ghati bowl. They made it sink in one nazhigai, and kept checking it against the Sun and stars, because a bowl can drift and the sky drifts far less.",
+  "ask": [
+   "Why could the cup count, but not tell Karthik the time on its own?",
+   "How did Meenakshi work out how long one sinking took?",
+   "Why did the cup sink faster when Meenakshi put it down hard?",
+   "Paati said the cup can be bumped but the Moon cannot. What did she mean?",
+   "How could you use your fist and the Moon to tell how long a film lasts?"
+  ],
+  "art": [
+   "A balcony in Madurai at night, a grandmother on a swing, two children, and a nearly full Moon rising beside temple towers.",
+   "A grandmother holding her fist out at arm's length towards the Moon, one eye closed, the children copying her.",
+   "A small plastic cup floating in a big steel vessel of water, with a tiny jet of water coming up through a hole in its bottom.",
+   "A boy making tally marks on a paper while his sister lifts a dripping cup out of the vessel.",
+   "A mother with a travel bag in the doorway, laughing, and the boy asleep on the swing holding his paper of marks."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Sky-Watchers of the World: a memory pairs game",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a memory game. Each pair is a sky-watching people and something they found out. Find the pairs, and say the fact out loud to keep them.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "20 cards: 10 pairs to cut out",
+     "items": [
+      "BABYLON: clay tablets from what is now Iraq",
+      "PAIR: wrote down the sky every night for hundreds of years, and counted in sixties",
+      "GREECE: Eratosthenes in Alexandria",
+      "PAIR: measured the size of the Earth from a noon shadow",
+      "INDIA: the Vedanga Jyotisha",
+      "PAIR: the oldest Indian book of the sky, a calendar using the Sun, the Moon and the nakshatras",
+      "INDIA: Aryabhata, 499",
+      "PAIR: wrote that the Earth spins, and that eclipses are shadows",
+      "KERALA: Parameshvara, 1431",
+      "PAIR: watched eclipses for decades and corrected the old tables",
+      "CHINA: astronomers of the Song emperors, 1054",
+      "PAIR: recorded a 'guest star', an exploding star",
+      "MAYA: the Dresden Codex",
+      "PAIR: a table of the planet Venus, which returns every 584 days",
+      "INDIA: the ghati bowl",
+      "PAIR: a water clock that sank once every 24 minutes, one nazhigai",
+      "EGYPT: Hypatia of Alexandria",
+      "PAIR: a woman who taught astronomy and worked on Ptolemy's astronomy book",
+      "JAIPUR: Jai Singh II, about 1730",
+      "PAIR: built stone observatories called Jantar Mantar"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet",
+     "items": [
+      "Player name",
+      "Pairs kept",
+      "Facts said in your own words"
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle all 20 cards and lay them face down in rows.",
+    "On your turn, turn over two cards.",
+    "If they are a people and their discovery, read both aloud. Then say the fact in your own words to keep the pair.",
+    "If they do not match, turn them back face down. The next player has a turn.",
+    "When all the pairs are found, the player with the most pairs wins.",
+    "Playing alone: count how many turns you take, and try to beat it next time."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut out the 20 cards. 2. Read all the pairs together once, face up. 3. Shuffle and lay them face down.",
+     "say": "Each pair is a people who watched the sky and something they found out. Let's read them all first. Then we hide them.",
+     "kid": "Read all the cards first. Then turn them face down and mix them.",
+     "context": "This is the first step of Sky-Watchers of the World, a memory game about who found out what about the sky."
+    },
+    {
+     "id": "s2",
+     "mins": 14,
+     "do": "Take turns turning over two cards. Keep a pair only if the player can say the fact in their own words.",
+     "say": "You found Kerala and the eclipse card. Can you tell me in your own words what Parameshvara did?",
+     "kid": "Turn over two cards. A match? Say the fact in your own words. Then keep the pair.",
+     "parent": "Help with the harder ones. 'Corrected the old tables' means he made new numbers that matched the eclipses he saw.",
+     "check": {
+      "t": "mcq",
+      "q": "Which people kept a table of the planet Venus coming back every 584 days?",
+      "options": [
+       "The Maya",
+       "The Babylonians",
+       "The Greeks"
+      ],
+      "a": 0,
+      "why": "The Maya Dresden Codex has a Venus table. The Babylonians also watched Venus and wrote about it on clay. But the 584-day table in the game is the Maya one."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Count the pairs. Ask one question.",
+     "say": "Which sky-watcher would you most like to meet? What would you ask them?",
+     "kid": "Count your pairs. Who would you like to meet? What would you ask?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "Twenty cards face down in four rows on a mat, two turned up: 'KERALA: Parameshvara, 1431' and 'watched eclipses for decades and corrected the old tables'.",
+     "caption": "1. Lay the cards face down. Turn over two."
+    },
+    {
+     "art": "A child holding a matched pair and talking, while her grandfather listens.",
+     "caption": "2. A match? Say the fact in your own words to keep it."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "How Long Till It Comes Back? a sky repeats card game",
+   "mins": 15,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This card game is about repeats in the sky and in life. Each card shows something that comes back again and again. Players put them in order, from the quickest to come back to the slowest.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "12 repeat cards to cut out",
+     "items": [
+      "Your heartbeat: about 1 second",
+      "Your breath: about 4 seconds",
+      "One nazhigai, the ghati bowl sinking: 24 minutes",
+      "Day and night, one turn of the Earth: 24 hours",
+      "The Moon moving into the next nakshatra: about 1 day",
+      "A week: 7 days",
+      "Full Moon to full Moon: about 29 and a half days",
+      "The Sun's year and the seasons: about 365 days",
+      "Venus back in the morning sky: about 584 days",
+      "Indian calendars adding an extra month: about every 2 and a half to 3 years",
+      "A similar eclipse coming back: about 18 years",
+      "Halley's Comet coming back: about 76 years"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet",
+     "items": [
+      "Player name",
+      "Cards placed right"
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the cards. Put one card face up in the middle to start the line.",
+    "Deal the rest out, face down.",
+    "On your turn, turn over your top card. Without looking at its time, say where it goes in the line, before or after the cards already there.",
+    "Now read the time. If you were right, it stays and you score 1. If not, put it in the right place and score nothing.",
+    "When all the cards are placed, the player with the most points wins.",
+    "Playing alone: see how many of the 12 you place right."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Cut out the cards. Cover the times with a finger as you read each card's name.",
+     "say": "Each card is something that comes back again and again. We put them in order, quickest first.",
+     "kid": "Each card is something that comes back. Put them in order. Quickest first.",
+     "context": "This is the first step of How Long Till It Comes Back?, a card game about the sky's repeats."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Play the game, taking turns.",
+     "say": "Your card is Venus. Does it come back faster or slower than the Moon's month? Than a year?",
+     "kid": "Where does your card go? Before or after? Then check.",
+     "check": {
+      "t": "mcq",
+      "q": "Which comes back more often?",
+      "options": [
+       "The full Moon",
+       "The Sun's year",
+       "Halley's Comet"
+      ],
+      "a": 0,
+      "why": "The full Moon comes back about every 29 and a half days. The year takes about 365 days and Halley's Comet about 76 years. Sky-watchers needed long records to find the slow repeats, like eclipses and comets."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Look at the finished line together.",
+     "say": "Which of these repeats did people use to make calendars? Which ones needed hundreds of years of records to find?",
+     "kid": "Which ones make our calendar? Which ones are very slow?",
+     "parent": "The day, the month and the year make calendars. Eclipse patterns and comets needed records kept over many lifetimes, like the Babylonian and Chinese records."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A line of cards on a table, from a heart card on the left to a comet card on the right, with a child placing a Venus card in the middle.",
+     "caption": "1. Put each card in the line, quickest to slowest."
+    },
+    {
+     "art": "A child turning over a card to read its time, with a parent keeping score.",
+     "caption": "2. Then read the time to check."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Sinking Cup Clock: does it sink in the same time every round?",
+   "mins": 40,
+   "days": 1,
+   "question": "Indian astronomers used a bowl with a hole that sank in a set time. If you float the same cup again and again, does it sink in exactly the same time each round?",
+   "predict": "Will the cup take exactly the same time each round, nearly the same, or very different times? Why do you think so? Then guess: if the hole is made a little bigger, will the cup sink faster or slower, and why?",
+   "fair_test": "Use the same cup, the same hole, the same vessel and the same water for rounds 1, 2 and 3. Lower the cup gently, flat on the water, each time. Start the timer the moment the cup touches the water, and stop it the moment the rim goes under. Empty and shake the cup dry before each round. Only in round 4 do you change one thing, the size of the hole.",
+   "results_table": [
+    "Round",
+    "Hole",
+    "Time to sink (minutes and seconds)",
+    "Anything that went differently"
+   ],
+   "materials": [
+    {
+     "item": "a light plastic cup, about 150 to 200 ml, such as a disposable cup or a clean curd cup with straight sides. Not a paper cup, which goes soft.",
+     "qty": 2,
+     "buy": "b-cups"
+    },
+    {
+     "item": "two coins of the same kind, such as one-rupee or two-rupee coins, and cello tape",
+     "qty": 1
+    },
+    {
+     "item": "a big steel vessel, patila or bucket, with water at least 12 cm deep, wider than the cup by a hand on each side",
+     "qty": 1
+    },
+    {
+     "item": "a drawing pin or a thick sewing needle, and a ballpoint pen refill to widen the hole",
+     "qty": 1
+    },
+    {
+     "item": "a phone stopwatch, or a clock with a seconds hand",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up makes the hole, because pins and needles are sharp. Do it on a wooden board, pushing away from the hand. Wipe up spilt water at once so nobody slips.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 40,
+     "what": "Make a sinking cup clock. Time it three times, then once with a bigger hole. Compare the times."
+    }
+   ],
+   "record": "Fill in the table. Then circle the shortest and the longest time from rounds 1 to 3, and write how many seconds apart they are.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 7,
+     "do": "1. Tape the two coins flat in the centre of the cup's bottom, inside. 2. Push the pin through the middle of the bottom, between the coins if there is a gap, or next to them. 3. Twist the pen refill tip in the hole to widen it to about 2 millimetres, the width of the refill's tip.",
+     "say": "Long ago in India, astronomers used a copper bowl with a tiny hole, called a ghati. It floated, slowly filled, and sank. We are making our own. The coins make sure it sinks when it is full.",
+     "kid": "We are making a water clock. It is a cup with a tiny hole. The coins help it sink.",
+     "adult": true,
+     "parent": "The hole size decides the time. A hole about 2 millimetres across in a 200 ml cup usually takes about 2 to 8 minutes. You will test this in the next step and adjust if needed.",
+     "context": "This is the first step of the Sinking Cup Clock. Here you make the cup: coins inside, and a small hole in the bottom."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Fill the vessel with water at least 12 cm deep. 2. Lower the cup gently, flat on the water. 3. Start the stopwatch. 4. Watch until the rim goes under, and stop the stopwatch.",
+     "say": "Let's try it once, just to see. Watch the bottom of the cup. Can you see water coming in? Tell me when the rim goes under.",
+     "kid": "Put the cup gently on the water. Start the timer. Watch the water come in. Stop the timer when it sinks.",
+     "parent": "This is a practice round. If the cup takes more than 8 minutes, widen the hole a little and try again. If it sinks in under a minute, start again with a new cup and a smaller hole. Once it takes between 2 and 8 minutes, keep this cup. If the cup tips over early, move the coins to the very centre.",
+     "context": "This is the practice round of the Sinking Cup Clock. You check that your cup takes between 2 and 8 minutes to sink."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Ask for a prediction and a reason, and write both down before the timed rounds.",
+     "say": "Now we will float it three times in exactly the same way. Will it take exactly the same time each round? Nearly the same? Or very different? Why do you think so?",
+     "kid": "Guess. Same time every round? Nearly the same? Very different? Why?",
+     "ask": [
+      {
+       "q": "Why do you think the times will be the same, or different?",
+       "good": [
+        "Same, because it is the same cup and the same hole.",
+        "A little different, because I might put it down differently."
+       ]
+      }
+     ],
+     "parent": "Do not say what will happen. Any reason your child gives is good. Write down the guess, so you can compare it with the results."
+    },
+    {
+     "id": "s4",
+     "mins": 18,
+     "do": "1. Empty the cup, shake out the water and float it gently. 2. Time it until the rim goes under. 3. Write the time. 4. Do rounds 2 and 3 in exactly the same way.",
+     "say": "Let's do round 1. Put it down as gently as you can. Start the timer the moment it touches the water. Now we wait and watch.",
+     "kid": "Round 1. Shake the cup dry. Float it gently. Start the timer. Write the time when it sinks. Do it three times.",
+     "parent": "The times are usually close but not exactly the same, often a few seconds to about half a minute apart. A drop of water left in the cup, a tilt as it goes down, or a bump on the vessel can change the time. Write down anything that happened differently in the last column. If all three times match to the second, that is a real result too. Ask your child what would happen over 60 rounds.",
+     "think": "If each round can be a few seconds off, how far off could the cup be after 60 rounds, a whole day and night?"
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "1. Ask for a guess: will a bigger hole make it sink faster or slower, and why? 2. Widen the hole by pushing the refill tip in a little further. 3. Time one more round.",
+     "say": "Now we change just one thing, the hole. If the hole is bigger, will the cup sink faster or slower? Why do you think so? Let's find out.",
+     "kid": "Now the hole is bigger. Will it sink faster or slower? Why? Try it.",
+     "adult": true,
+     "parent": "A bigger hole lets water in faster, so the cup sinks sooner. Old clock makers had to get the hole exactly right, so that the bowl sank once every 24 minutes, one nazhigai.",
+     "check": {
+      "t": "mcq",
+      "q": "Round 4 had a bigger hole. What happened?",
+      "options": [
+       "The cup sank sooner, because water came in faster",
+       "The cup sank later, because the hole let air out",
+       "It made no difference"
+      ],
+      "a": 0,
+      "why": "A bigger hole lets more water in each second, so the cup fills and sinks sooner. If your cup sank later, check that the hole really got bigger and that the cup went down gently. The hole size is what sets the clock's time, which is why makers of the ghati were careful with it."
+     }
+    },
+    {
+     "id": "s6",
+     "mins": 4,
+     "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
+     "say": "Tell me three things. What do you think about our cup clock now? What did you see that shows it? And why do you think the times were not all exactly the same?",
+     "kid": "Say three things. What I think. What I saw. Why.",
+     "parent": "This is called claim, evidence and reasoning. A good answer: what I think, the cup clock is nearly steady but not perfect. What I saw, rounds 1 to 3 took 3 minutes 10, 3 minutes 22 and 3 minutes 5 seconds, so 17 seconds between the shortest and longest. Why, small changes in how I put it down and leftover water changed the time a little. That is why astronomers checked their water clocks against the Sun and stars.",
+     "check": {
+      "t": "mcq",
+      "q": "Your cup sank in slightly different times each round. What did old astronomers do about this in their water clocks?",
+      "options": [
+       "They checked them against the Sun and stars, which repeat more steadily",
+       "They used a new cup every round",
+       "They did nothing, because a few seconds never matter"
+      ],
+      "a": 0,
+      "why": "The sky's repeats, the day and the turning stars, are much steadier than any bowl of water. So astronomers set their water clocks by the sky. A new cup every round would make things worse, because each hole is a little different. A few seconds each round add up to minutes over a whole night."
+     }
+    }
+   ],
+   "context": "In this experiment you build a sinking cup water clock like the Indian ghati, and test whether it sinks in exactly the same time every round.",
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "Round",
+     "Hole",
+     "Time to sink",
+     "Anything different"
+    ],
+    "rows": [
+     [
+      "1",
+      "small",
+      "3 min 10 s",
+      "none"
+     ],
+     [
+      "2",
+      "small",
+      "3 min 22 s",
+      "I left a little water in the cup"
+     ],
+     [
+      "3",
+      "small",
+      "3 min 5 s",
+      "none"
+     ],
+     [
+      "4",
+      "bigger",
+      "2 min 15 s",
+      "hole made bigger"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A plastic cup upside down on a wooden board, two coins taped inside, and a grown-up's hand pushing a drawing pin through the middle of the bottom.",
+     "caption": "1. Tape two coins inside. A grown-up makes a small hole."
+    },
+    {
+     "art": "The cup floating in a big steel vessel of water, a thin jet of water coming up through the hole inside, and a phone stopwatch beside it.",
+     "caption": "2. Float the cup gently and start the timer."
+    },
+    {
+     "art": "The cup tipping under the water at the rim, and a child pressing stop on the stopwatch and writing in a table.",
+     "caption": "3. Stop the timer when the rim goes under. Repeat three times."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?",
+   "mins": 25,
+   "days": 1,
+   "question": "Sky-watchers measured how far apart things in the sky were by holding up a fist at arm's length. A child's fist is smaller than a grown-up's. Do they measure the same distance across the sky?",
+   "predict": "Stand in one spot and measure the gap between two things on a far wall, in fists. Who will count more fists, you or your grown-up? Why do you think so?",
+   "fair_test": "Both of you stand on the same spot, with one eye closed, and the arm fully straight. Measure the same gap three times each and take the middle answer.",
+   "results_table": [
+    "Person",
+    "Fist width (cm)",
+    "Arm length, eye to fist (cm)",
+    "Fists across the gap: try 1, 2, 3"
+   ],
+   "materials": [
+    {
+     "item": "two things on a far wall or across the room to measure between, such as the two edges of a door or a window",
+     "qty": 1
+    },
+    {
+     "item": "a measuring tape or a long ruler",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Never measure near the Sun. Do this indoors or at night.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Measure a gap in fists, child and grown-up. Then measure your fists and arms. Compare."
+    }
+   ],
+   "record": "Fill in the table. Write who counted more fists, and whose fist covers a bigger piece of the view.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Stand about 4 metres from a wall with a door or window. 2. Show how to hold a fist at the end of a straight arm, with one eye closed. 3. Ask for a guess and a reason.",
+     "say": "Sky-watchers used their fists as a ruler for the sky. Hold your fist out like this, with one eye closed. My fist is bigger than yours. Who do you think will count more fists across that door? Why?",
+     "kid": "Hold your fist out on a straight arm. Close one eye. Who will count more fists across the door? Why?",
+     "ask": [
+      {
+       "q": "Why do you think so?",
+       "good": [
+        "You, because my fist is smaller.",
+        "The same, because your arm is longer too."
+       ]
+      }
+     ],
+     "parent": "Let the reason come from your child. Many say the child will count more fists, because a child's fist is smaller. Don't correct them."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "1. Start with your fist on one edge of the door. 2. Stack fists one on top of the other, sideways, to the other edge. 3. Count. 4. Each of you does it three times.",
+     "say": "Put the side of your fist on the left edge of the door. Now put your other fist next to it, then move the first one along. Count until you reach the right edge.",
+     "kid": "Fist on the edge. Next fist beside it. Keep going. Count the fists. Do it three times.",
+     "parent": "Keep the arm straight and the head still. Counts usually come out close for the child and the grown-up, because a bigger hand comes with a longer arm. But they can differ by half a fist or more. Whatever you find is a real result."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "1. Measure each fist across the knuckles, in cm. 2. Measure from the eye to the fist with the arm held out. 3. Write both numbers in the table.",
+     "say": "Let's measure. How wide is your fist? How far is it from your eye? Now mine.",
+     "kid": "Measure your fist. Measure your arm, eye to fist. Write both numbers.",
+     "parent": "A grown-up's fist is often about 9 or 10 cm wide at about 60 cm from the eye. A child's might be 6 or 7 cm at about 45 cm. In both, the arm is about 6 to 7 times the fist's width, which is why the counts are often close. An adult's fist at arm's length covers about 10 degrees of sky."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Ask your child to say or write what they think, what they saw, and why.",
+     "say": "What do you think now? What did you see? Why do you think the counts came out the way they did?",
+     "kid": "What do you think now? What did you see? Why?",
+     "check": {
+      "t": "mcq",
+      "q": "A grown-up's fist is bigger than a child's. Why can they still measure nearly the same piece of sky?",
+      "options": [
+       "The grown-up holds the fist further away, on a longer arm",
+       "Fists do not really have sizes",
+       "The sky is closer to children"
+      ],
+      "a": 0,
+      "why": "A fist further from the eye covers less of the view. The grown-up's longer arm puts their bigger fist further away, so it often covers about the same piece of view as a child's. If your counts were very different, this is why astronomers later built instruments with marked scales."
+     },
+     "parent": "A good answer: I thought I would count more fists. We counted 5 and 4 and a half. My arm is shorter, so my small fist is closer and covers more of the view."
+    }
+   ],
+   "context": "In this experiment you test the sky-watchers' fist ruler, and find out if a child's fist and a grown-up's fist measure the same.",
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "Person",
+     "Fist",
+     "Eye to fist",
+     "Fists across door"
+    ],
+    "rows": [
+     [
+      "Kavya, 8",
+      "6.5 cm",
+      "44 cm",
+      "5, 5, 4 and a half"
+     ],
+     [
+      "Amma",
+      "9 cm",
+      "62 cm",
+      "5, 5, 5"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A girl and her mother standing side by side across a room, each holding a fist out at arm's length towards a door, one eye closed.",
+     "caption": "1. Stand on the same spot. Fist out on a straight arm."
+    },
+    {
+     "art": "Close-up of fists stacked side by side across the width of the door, as seen from the child's eye.",
+     "caption": "2. Count fists from one edge to the other."
+    },
+    {
+     "art": "A measuring tape across a child's knuckles, and another from her eye to her outstretched fist.",
+     "caption": "3. Measure your fist and your arm."
+    }
+   ]
+  },
+  {
+   "id": "e3",
+   "title": "The Leaking Bottle Clock: does water run out at the same speed all the way?",
+   "mins": 25,
+   "days": 1,
+   "question": "Some old water clocks let water drip out of a pot, with marks inside for the hours. Does the water level drop by the same amount every minute?",
+   "predict": "Make a mark on the bottle every 30 seconds as it empties. Will the marks be the same distance apart, closer together at the bottom, or further apart? Why do you think so?",
+   "fair_test": "Use one bottle, one hole, and mark every 30 seconds exactly. Stand the bottle on the same flat place the whole time.",
+   "results_table": [
+    "Mark number",
+    "Time (seconds)",
+    "Gap from the last mark (cm)"
+   ],
+   "materials": [
+    {
+     "item": "a clear plastic bottle, 1 litre, with straight sides, label removed",
+     "qty": 1
+    },
+    {
+     "item": "a drawing pin to make the hole",
+     "qty": 1
+    },
+    {
+     "item": "a permanent marker or a strip of cello tape to write on",
+     "qty": 1
+    },
+    {
+     "item": "a bucket or the bathroom floor to catch the water",
+     "qty": 1
+    },
+    {
+     "item": "a phone stopwatch, and a ruler",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up makes the hole with the drawing pin. Do this in the bathroom or over a bucket, and wipe up spills.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Make a hole near the bottom of a bottle. Mark the water level every 30 seconds as it empties. Measure the gaps."
+    }
+   ],
+   "record": "Write the gaps between marks in the table. Draw the bottle with its marks.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Push the drawing pin through the side of the bottle about 3 cm from the bottom. 2. Take the pin out and push it through again to make the hole round. 3. Put a strip of tape from top to bottom on the bottle.",
+     "say": "In Egypt and Babylon, water clocks let water drip out of a pot. Marks inside showed how much time had passed. Let's make one from a bottle.",
+     "kid": "We are making a dripping water clock. A grown-up makes a small hole near the bottom.",
+     "adult": true,
+     "parent": "Keep the bottle cap off, or water will not flow. A hole made with a drawing pin gives a thin jet that empties a litre bottle in a few minutes."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "Ask for a guess and a reason before filling the bottle.",
+     "say": "We will mark the water level every 30 seconds. Will the marks be the same distance apart? Closer together near the bottom? Or further apart? Why do you think so?",
+     "kid": "We mark the water every 30 seconds. Same gaps? Bigger gaps? Smaller gaps? Why?"
+    },
+    {
+     "id": "s3",
+     "mins": 12,
+     "do": "1. Hold a finger over the hole and fill the bottle to the top. 2. Stand it over the bucket. 3. Take your finger away and start the stopwatch. 4. Every 30 seconds, mark the water level on the tape.",
+     "say": "Ready? Finger off. Start the timer. Every time I say 'mark', draw a line where the water is.",
+     "kid": "Take your finger off. Every 30 seconds, draw a line at the water.",
+     "parent": "Watch the jet. At first it shoots far. As the water gets lower, it shoots less far, and the level drops more slowly. So the marks get closer together near the bottom. If the hole clogs, poke it again with the pin.",
+     "think": "Why does the jet shoot less far when the bottle is nearly empty?"
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "Measure the gaps between the marks with a ruler. Ask your child what they think, what they saw and why.",
+     "say": "Let's measure the gaps. What do you notice? Why do you think the water slowed down?",
+     "kid": "Measure each gap. Do they get bigger or smaller? Why?",
+     "check": {
+      "t": "mcq",
+      "q": "The marks got closer together near the bottom. Why?",
+      "options": [
+       "Less water above the hole pushes less hard, so it flows out more slowly",
+       "The hole got smaller",
+       "Water gets tired"
+      ],
+      "a": 0,
+      "why": "The weight of the water above the hole pushes the water out. When the bottle is full, it pushes hard and the jet is fast. When there is little water left, the push is smaller and the flow is slow. The Egyptian water pot found at Karnak had sloping sides, wider at the top, to make up for this."
+     },
+     "parent": "A good answer: what I think, water runs out slower as the bottle empties. What I saw, the first gap was 3 cm and the last was 1 cm. Why, less water is pushing down on the hole."
+    }
+   ],
+   "context": "In this experiment you make a dripping bottle clock and test whether the water drops by the same amount every 30 seconds.",
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "Mark",
+     "Time",
+     "Gap from last mark"
+    ],
+    "rows": [
+     [
+      "1",
+      "30 s",
+      "3.2 cm"
+     ],
+     [
+      "2",
+      "60 s",
+      "2.8 cm"
+     ],
+     [
+      "3",
+      "90 s",
+      "2.3 cm"
+     ],
+     [
+      "4",
+      "120 s",
+      "1.9 cm"
+     ],
+     [
+      "5",
+      "150 s",
+      "1.4 cm"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A grown-up pushing a drawing pin through the side of a clear plastic bottle near its bottom, a strip of tape running up the bottle.",
+     "caption": "1. A grown-up makes a hole near the bottom."
+    },
+    {
+     "art": "The full bottle standing over a bucket, a thin jet of water shooting out, a child marking the water level on the tape.",
+     "caption": "2. Every 30 seconds, mark the water level."
+    },
+    {
+     "art": "The empty bottle with marks on the tape, the marks wide apart at the top and close together near the bottom, a ruler beside it.",
+     "caption": "3. Measure the gaps between the marks."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "How Long Is a Minute? Test your own sense of time",
+   "mins": 10,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a phone stopwatch or a clock with a seconds hand",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "None.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Guess when one minute has passed, three times, with eyes closed. A grown-up times it."
+    }
+   ],
+   "record": "Write your three guesses in seconds. Circle the one closest to 60.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Ask your child to sit, close their eyes and say 'now' when they think one minute has passed. 2. Start the stopwatch when you say 'go'. 3. Stop it when they say 'now'. 4. Don't tell them the time yet.",
+     "say": "Close your eyes. When I say go, wait until you think exactly one minute has passed. Then say now. No counting out loud. Go.",
+     "kid": "Close your eyes. Wait one minute. Say now when you think it is a minute.",
+     "parent": "Most children and grown-ups are off by 10 to 30 seconds, sometimes more. Write the time down quietly.",
+     "context": "This is a starting activity for the unit on how people learned to count time from the sky. You test how good your own sense of a minute is."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Try twice more: once sitting still, once while your child does something fun, such as drawing. 2. Then show all three times.",
+     "say": "Let's try again, twice. This time, draw something while you wait. Then I will show you all three times.",
+     "kid": "Try again two times. Once still, once drawing. Then look at your times.",
+     "parent": "Time often feels shorter when we are busy, so the drawing round is often longer than 60 seconds."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Talk about the results.",
+     "say": "Were your guesses the same each time? If nobody had a clock, how could people agree on what a minute is, or when to meet?",
+     "kid": "Were your times the same? How could people agree on time with no clocks?",
+     "check": {
+      "t": "mcq",
+      "q": "Your three guesses of a minute were all different. What does that show?",
+      "options": [
+       "Our own sense of time drifts, so we need something steadier to count with",
+       "A minute is a different length each time",
+       "The stopwatch was broken"
+      ],
+      "a": 0,
+      "why": "A minute is always 60 seconds. Your feeling of a minute changes with what you are doing. That is why people looked for something steadier, and found it in the sky's repeats and in water clocks."
+     }
+    }
+   ],
+   "context": "This short activity opens the unit. You find out how steady your own sense of time is.",
+   "setup": [
+    {
+     "art": "A child sitting with eyes closed on a sofa, a mother beside her holding a phone with a stopwatch running.",
+     "caption": "1. Close your eyes. Say 'now' after one minute."
+    },
+    {
+     "art": "A notebook with three times written in it, 47 seconds, 52 seconds and 74 seconds, and the 52 circled.",
+     "caption": "2. Write your three times. Which was closest to 60?"
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "A Day of 60 Nazhigai: draw the old Indian day wheel",
+   "mins": 20,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a steel plate or a lid to draw round, about 20 cm across",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of paper, a pencil, a ruler and crayons",
+     "qty": 1
+    }
+   ],
+   "safety": "None.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Draw a day as a circle. Split it into 24 hours and into 60 nazhigai. Mark sunrise, noon, sunset and your bedtime."
+    }
+   ],
+   "record": "Keep your day wheel. Write on it how many nazhigai you sleep.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Draw round the plate. 2. Mark the top 'sunrise, 6 o'clock'. 3. Mark the bottom 'sunset, 6 o'clock'. 4. Mark noon on the right and midnight on the left.",
+     "say": "Old Indian astronomers counted the day from sunrise. They split the whole day and night into 60 parts, called ghatika in Sanskrit and nazhigai in Tamil. Let's draw it.",
+     "kid": "Draw a big circle. Sunrise at the top. Sunset at the bottom.",
+     "context": "This activity shows the old Indian way of splitting a day into 60 nazhigai of 24 minutes each."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "1. Split each half of the circle into 30 equal parts, roughly, so there are 60 in all. 2. Shade every fifth mark darker.",
+     "say": "Each half of the circle has 30 nazhigai. 30 for the day, from sunrise to sunset, and 30 for the night.",
+     "kid": "Split each half into 30 parts. Make every fifth line dark.",
+     "parent": "It does not need to be exact. Help your child mark 5 big parts in each quarter first, then split each one into 3. That gives 15 in each quarter."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "1. Work out together: how many nazhigai from sunrise to noon? 2. Colour your sleeping time. 3. Count how many nazhigai you sleep.",
+     "say": "One nazhigai is 24 minutes. Sunrise to noon is 6 hours. How many nazhigai is that? If you sleep from 9 at night to 6 in the morning, how many nazhigai do you sleep?",
+     "kid": "Count the parts from sunrise to noon. Colour your sleep. How many nazhigai do you sleep?",
+     "check": {
+      "t": "mcq",
+      "q": "From sunrise at 6 to noon at 12 is 6 hours. How many nazhigai is that?",
+      "options": [
+       "15",
+       "6",
+       "60"
+      ],
+      "a": 0,
+      "why": "There are 60 nazhigai in 24 hours, so 15 nazhigai in 6 hours, a quarter of the day. Check: 15 times 24 minutes is 360 minutes, which is 6 hours. If you said 6, you counted hours, not nazhigai."
+     },
+     "parent": "9 at night to 6 in the morning is 9 hours, which is 22 and a half nazhigai."
+    }
+   ],
+   "context": "In this activity you draw a day as a wheel of 60 nazhigai, the old Indian unit of 24 minutes.",
+   "setup": [
+    {
+     "art": "A child drawing round a steel plate on paper, with 'sunrise' written at the top of the circle.",
+     "caption": "1. Draw round a plate. Sunrise at the top."
+    },
+    {
+     "art": "A paper circle divided into 60 small parts with every fifth line dark, and the bottom half coloured dark blue for night.",
+     "caption": "2. Split it into 60 nazhigai. Colour the night."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Count to 60 on Two Hands, perhaps the Babylonian way",
+   "mins": 10,
+   "days": 1,
+   "materials": [
+    {
+     "item": "your two hands",
+     "qty": 1
+    }
+   ],
+   "safety": "None.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Count to 12 on one hand's finger joints with the thumb. Use the other hand to count lots of 12, up to 60."
+    }
+   ],
+   "record": "Draw your hand and number its 12 finger joints.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Show your child the three joint sections on each finger, not counting the thumb. 2. Touch each section with the thumb of the same hand, counting 1 to 12.",
+     "say": "Each finger has three sections, between the joints. Four fingers have 12 sections. Touch each one with your thumb and count to 12.",
+     "kid": "Touch each finger section with your thumb. Count to 12.",
+     "context": "This activity tries one idea about why the Babylonians counted in sixties: counting finger joints."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Each time your child reaches 12, they hold up one finger on the other hand. 2. Keep going until all five fingers are up.",
+     "say": "When you get to 12, hold up one finger on your other hand. Start again at 1. How far can you count before the other hand is full?",
+     "kid": "At 12, hold up one finger on your other hand. Start again. Keep going.",
+     "check": {
+      "t": "mcq",
+      "q": "Five fingers, each standing for 12. How many is that?",
+      "options": [
+       "60",
+       "17",
+       "12"
+      ],
+      "a": 0,
+      "why": "5 lots of 12 is 60. That is one idea for why the Babylonians counted in sixties. Nobody knows for sure. Another idea is that 60 splits evenly into many parts."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Talk about it.",
+     "say": "The Babylonians counted in sixties. Where do we still count in sixties today?",
+     "kid": "Where do we still count in sixties?",
+     "parent": "60 seconds in a minute, 60 minutes in an hour, and 360 degrees in a circle. Historians are not sure why the Babylonians chose 60, so this is only one idea."
+    }
+   ],
+   "context": "This short activity tries one possible way the Babylonians counted to 60 on their hands.",
+   "setup": [
+    {
+     "art": "A child's right hand with the thumb touching the top section of the little finger, small numbers 1 to 12 on the finger sections.",
+     "caption": "1. Count 12 finger sections with your thumb."
+    },
+    {
+     "art": "The child's left hand holding up three fingers, and the right thumb counting again.",
+     "caption": "2. Each finger on the other hand is one lot of 12."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Eratosthenes on the Phone: compare noon shadows with someone in another city",
+   "mins": 20,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a pencil or a stick exactly 30 cm long, standing upright in a lump of atta dough or clay",
+     "qty": 1
+    },
+    {
+     "item": "a ruler, and a flat sunny spot on a balcony or windowsill at about 12:30",
+     "qty": 1
+    },
+    {
+     "item": "a phone call or message with a relative or friend in another city, far to the north or south, who does the same at the same time",
+     "qty": 1
+    }
+   ],
+   "safety": "Never look at the Sun. Look only at the shadow on the ground.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "At 12:30, measure the shadow of a 30 cm stick. A relative in another city does the same at the same time. Compare."
+    }
+   ],
+   "record": "Write both cities and both shadow lengths. Which city is further north?",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Choose a day and a time, about 12:30, with someone in a city far to the north or south of yours. 2. Each family stands a 30 cm stick upright on a flat sunny spot.",
+     "say": "About 2,200 years ago, Eratosthenes in Egypt found that shadows at noon are different lengths in different towns. Let's test it with Chitti in Delhi.",
+     "kid": "Stand the stick up straight in the sun. Someone in another city does the same.",
+     "parent": "This works only if your balcony or window gets sun around midday. The further apart the two cities are north to south, the bigger the difference. Chennai and Delhi, or Kochi and Lucknow, work well.",
+     "context": "This activity repeats the idea Eratosthenes used to measure the Earth: noon shadows have different lengths in different cities."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. At the agreed time, both measure the shadow from the bottom of the stick to the tip of the shadow. 2. Share the numbers.",
+     "say": "Measure from the bottom of the stick to the end of the shadow. What did you get? What did they get?",
+     "kid": "Measure the shadow. Share your number. Whose shadow is longer?",
+     "parent": "In most months, the shadow in the northern city will be longer. In Chennai, around late April and again in mid-August, the noon Sun is almost straight overhead, and the shadow is very short."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Talk about why.",
+     "say": "The same Sun, at the same moment. Why do you think the shadows are different lengths?",
+     "kid": "Same Sun. Same time. Why are the shadows different?",
+     "check": {
+      "t": "mcq",
+      "q": "At the same moment, the noon shadow in Delhi is longer than in Chennai. What did Eratosthenes say this shows?",
+      "options": [
+       "The Earth's ground is curved, so the Sun hits it at different slants",
+       "Delhi sticks are taller",
+       "The Sun is closer to Chennai"
+      ],
+      "a": 0,
+      "why": "Because the Earth is round, the ground in Delhi is tilted a little compared with the ground in Chennai. The sunlight hits it at a bigger slant, so the shadow is longer. Eratosthenes used the difference in angle, and the distance between two towns, to work out the size of the Earth."
+     }
+    }
+   ],
+   "context": "In this activity, you and someone in another city measure noon shadows at the same time, as Eratosthenes did. It works if your balcony gets sun around midday.",
+   "setup": [
+    {
+     "art": "A 30 cm stick upright in a lump of dough on a sunny balcony floor, its shadow falling beside a ruler.",
+     "caption": "1. Stand a 30 cm stick in the sun at 12:30."
+    },
+    {
+     "art": "A map of India with Chennai and Delhi marked, a short shadow drawn at Chennai and a longer one at Delhi.",
+     "caption": "2. Compare with someone far north or south."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Be a Babylonian Sky-Writer: tonight's sky on a dough tablet",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a ball of atta dough, or clay, flattened into a tablet about the size of your palm",
+     "qty": 1
+    },
+    {
+     "item": "an ice-cream stick or a pencil with a flat end, to press wedge marks",
+     "qty": 1
+    }
+   ],
+   "safety": "Wash hands after handling dough. Don't eat raw dough.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Look at the evening sky. Record it on a dough tablet with wedge marks. Leave it to dry."
+    }
+   ],
+   "record": "Keep the dried tablet, and write what each mark means on a paper beside it.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Go to the window or balcony after sunset. 2. Note three things: the Moon's shape and where it is, whether it is cloudy, and any bright star or planet.",
+     "say": "Babylonian sky-watchers wrote down the sky every night, for hundreds of years. Tonight you are one of them. What do you see?",
+     "kid": "Look at the sky. What shape is the Moon? Is it cloudy? Can you see a bright star?",
+     "parent": "In a city you may see only the Moon and one or two bright planets or stars. That is enough. If the Moon is not up, record that too.",
+     "context": "In this activity, you record tonight's sky the way Babylonian astronomers did, by pressing marks into a soft tablet."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Flatten the dough. 2. Help your child make up simple wedge signs: one for the Moon, one for cloud, one for a star. 3. Press in today's date with wedge tally marks. 4. Leave the tablet on a window sill to dry for two days.",
+     "say": "The Babylonians pressed a reed into wet clay to make wedge-shaped marks. Make your own signs. What will be your sign for the Moon? For cloud?",
+     "kid": "Make your own signs. Press them into the dough. Leave it to dry.",
+     "parent": "The Babylonian writing is called cuneiform, which means wedge-shaped. Thousands of their sky tablets survive because baked or dried clay lasts a very long time."
+    }
+   ],
+   "context": "This activity turns tonight's sky into a record, like a Babylonian clay tablet.",
+   "setup": [
+    {
+     "art": "A child at a balcony railing looking up at a half Moon and one bright star over city buildings.",
+     "caption": "1. Look at the sky. Note three things."
+    },
+    {
+     "art": "A palm-sized flat dough tablet with wedge-shaped marks pressed in by an ice-cream stick.",
+     "caption": "2. Press your record into the dough."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "The Window Calendar: does the Sun set in the same place every day?",
+   "days": 28,
+   "mins": 40,
+   "materials": [
+    {
+     "item": "a window or balcony facing west, where you can see the Sun set behind buildings or the horizon. A window facing east works for sunrise.",
+     "qty": 1
+    },
+    {
+     "item": "small pieces of masking tape or paper stickers, and a pen",
+     "qty": 10
+    },
+    {
+     "item": "a chair or a mark on the floor, so you always stand in the same place",
+     "qty": 1
+    }
+   ],
+   "safety": "Never look straight at the Sun. Mark the place just after the Sun has gone behind the buildings, or where the glow is brightest, with a grown-up.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Choose a spot to stand. Mark where the Sun sets on the window glass with tape. Write the date."
+    },
+    {
+     "day": 7,
+     "mins": 5,
+     "what": "Stand on the same spot. Mark the sunset place again."
+    },
+    {
+     "day": 14,
+     "mins": 5,
+     "what": "Mark it again. Is it moving? Which way?"
+    },
+    {
+     "day": 21,
+     "mins": 5,
+     "what": "Mark it again."
+    },
+    {
+     "day": 28,
+     "mins": 15,
+     "what": "Mark it once more. Measure how far the marks have moved. Talk about how builders long ago used this."
+    }
+   ],
+   "record": "A row of tape marks on the window with dates, and a drawing of the skyline with the marks on it.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Choose a spot to stand, and mark it on the floor. 2. Wait until the Sun has just gone behind the buildings. Put a small piece of tape on the glass where it went down. 3. Write the date on the tape.",
+     "say": "Every evening the Sun sets in the west. But does it set in exactly the same place every day? Let's mark it and find out. What do you think, and why?",
+     "kid": "Stand on your spot. Put tape where the Sun went down. Write the date.",
+     "adult": true,
+     "parent": "Do not let your child look at the Sun itself. Wait until it has just set, and mark where the bright glow is. Your eyes must be in the same place each time, so sit on the same chair or stand on the floor mark.",
+     "context": "This is the first day of the Window Calendar, a four-week project where you mark where the Sun sets."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Each week, on the same spot, mark the new sunset place with a new piece of tape.",
+     "say": "Has it moved? Which way? Left or right? Is it moving towards the north or the south?",
+     "kid": "Mark the sunset again. Has it moved? Which way?",
+     "wait": "Do this once a week for four weeks.",
+     "parent": "Near the end of March and September, the sunset point moves quickly, by about its own width every day or two. Near late June and late December, it hardly moves for weeks. That is what solstice means: the Sun stands still, then turns back."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "After four weeks, look at the row of marks. Measure the distance between the first and last. Talk about it.",
+     "say": "The marks show the Sun's journey through the year. People long ago used walls, stones and temple doors to mark this, so they knew when the seasons would come. If you kept going for a whole year, what would happen?",
+     "kid": "Look at your marks. The Sun is moving along the skyline. What will it do in a year?",
+     "check": {
+      "t": "mcq",
+      "q": "Your sunset marks move along the skyline over four weeks. What would happen if you kept marking for a whole year?",
+      "options": [
+       "The marks would go to one end, turn back, go to the other end, and return to the start",
+       "The marks would keep going in one direction for ever",
+       "The marks would jump about with no pattern"
+      ],
+      "a": 0,
+      "why": "The sunset point swings north until about 21 June, then back south until about 21 December, then north again. After one year it is back where it started. That swing is the solar year, and builders and farmers long ago used it as a calendar."
+     },
+     "parent": "In Mexico, the Maya city of Chichen Itza has buildings lined up with the Sun on special days. In Chennai or Kochi, the sunset point moves by about 50 degrees along the skyline over the year, about five fists at arm's length."
+    }
+   ],
+   "context": "In this four-week project, you mark where the Sun sets on your window glass once a week, and see the Sun's yearly journey begin.",
+   "setup": [
+    {
+     "art": "A child on a chair by a west-facing window at dusk, pressing a piece of tape on the glass where the glow sits over a row of buildings.",
+     "caption": "1. Week 1: mark the sunset place on the glass."
+    },
+    {
+     "art": "The same window with five dated tape marks in a row along the skyline, spreading to one side.",
+     "caption": "2. Weeks 2 to 4: mark it again. Which way does it move?"
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Make a 3-Minute Water Clock",
+   "mins": 30,
+   "problem": "Old clock makers had to make a ghati bowl that sank in exactly one nazhigai, 24 minutes. Your challenge is smaller: make a cup clock that sinks in exactly 3 minutes, and does it three times in a row within 10 seconds.",
+   "constraints": [
+    "Use one plastic cup, coins, tape, a pin and water.",
+    "You may change the hole, the number of coins, or how full the vessel is.",
+    "Test with a stopwatch, but no looking at it while the cup sinks."
+   ],
+   "materials": [
+    "two or three plastic cups",
+    "coins and cello tape",
+    "a drawing pin and a pen refill",
+    "a big steel vessel or bucket of water",
+    "a phone stopwatch"
+   ],
+   "general": [
+    "Start with a small hole and widen it a little at a time, testing after each change.",
+    "Keep everything else the same, such as the coins and how you put the cup down.",
+    "Write each test's time, so you can see if you are getting closer."
+   ],
+   "creative": [
+    "Put tape over part of the hole to make it a little smaller if you went too far.",
+    "Use a smaller cup, which fills sooner.",
+    "Mark a line inside the cup and time how long the water takes to reach it, instead of waiting for the cup to sink."
+   ],
+   "your_turn": "Design your own clock that measures exactly 1 minute, using only things from the kitchen. Draw it, build it and test it three times.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Read the challenge. Ask your child to plan their first try before touching anything.",
+     "say": "We need a cup that sinks in 3 minutes, three times in a row. What will you change if it is too slow? What if it is too fast?",
+     "kid": "Make a cup that sinks in 3 minutes. Too slow? Too fast? What will you change?",
+     "context": "This is the start of the 3-Minute Water Clock challenge. You tune a cup clock to sink in exactly 3 minutes."
+    },
+    {
+     "id": "s2",
+     "mins": 20,
+     "do": "Let your child test and adjust. A grown-up makes or widens the hole each time.",
+     "say": "That took 4 minutes 20 seconds. Too slow or too fast? What will you change?",
+     "kid": "Test it. Write the time. Change one thing. Test again.",
+     "adult": true,
+     "parent": "Changing more than one thing at once makes it hard to know what helped. Encourage one change at a time."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Do three final rounds and check they are all within 10 seconds of 3 minutes.",
+     "say": "Three rounds in a row. Were they all close to 3 minutes?",
+     "kid": "Three last tests. Were they all near 3 minutes?",
+     "check": {
+      "t": "mcq",
+      "q": "Your cup sinks in 4 minutes. You want 3 minutes. What should you change?",
+      "options": [
+       "Make the hole a little bigger",
+       "Make the hole smaller",
+       "Use a bigger cup"
+      ],
+      "a": 0,
+      "why": "A bigger hole lets water in faster, so the cup fills and sinks sooner. A smaller hole or a bigger cup would make it slower still."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "Three plastic cups with different-sized holes beside a steel vessel of water, and a page of test times.",
+     "caption": "1. Test, change one thing, test again."
+    },
+    {
+     "art": "A child pointing proudly at a stopwatch showing 3 minutes 2 seconds as a cup goes under.",
+     "caption": "2. Three rounds near 3 minutes? You did it."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "A Calendar for Planet Kuyil",
+   "mins": 25,
+   "problem": "Kuyil is a made-up planet. It turns once a day, like Earth. Its moon goes from full to full in exactly 10 days. Kuyil goes round its sun in 73 days, and then the seasons start again. Design a calendar for the people of Kuyil, so their festivals stay in the same season every year.",
+   "constraints": [
+    "Your calendar must have months that follow the moon.",
+    "Festivals must stay in the same season every year.",
+    "You must be able to explain it to a friend in one minute."
+   ],
+   "materials": [
+    "paper, pencil and crayons"
+   ],
+   "general": [
+    "Count how many moon months fit in one year: 7 months is 70 days, which leaves 3 days over.",
+    "Add the 3 extra days at the end of each year as a festival week that belongs to no month.",
+    "Or add an extra month every few years, the way Indian calendars add an adhika masa."
+   ],
+   "creative": [
+    "Name the months after the star groups the moon passes, like the nakshatras.",
+    "Make a calendar wheel that turns, with the 3 extra days as a special colour.",
+    "Give the people of Kuyil a 5-day week, so two weeks make one moon month."
+   ],
+   "your_turn": "Now design a calendar for your own made-up planet. Choose how long its day, month and year are, and decide how to make them fit.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Read the problem together. Work out how many 10-day months fit into 73 days.",
+     "say": "How many 10-day moon months fit into a 73-day year? How many days are left over?",
+     "kid": "Months are 10 days. The year is 73 days. How many months fit? How many days are left?",
+     "context": "This challenge asks you to design a calendar for a made-up planet, Kuyil, where the moon month and the year do not fit evenly."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "Let your child design their calendar on paper.",
+     "say": "What will you do with the 3 extra days? What happens after 10 years if you just ignore them?",
+     "kid": "What will you do with the extra 3 days? Draw your calendar.",
+     "parent": "If they ignore the 3 days, festivals slip 3 days each year, 30 days in 10 years, a whole month. This is the real problem every Moon calendar on Earth has."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Your child explains their calendar to you in one minute.",
+     "say": "Explain your calendar to me in one minute. Will a festival in the first month stay in the same season?",
+     "kid": "Explain your calendar in one minute.",
+     "check": {
+      "t": "mcq",
+      "q": "On Kuyil, 7 moon months are 70 days, and the year is 73 days. What happens if nobody adds the 3 extra days?",
+      "options": [
+       "Festivals come 3 days earlier in the seasons each year",
+       "Nothing, 3 days do not matter",
+       "The moon changes to fit"
+      ],
+      "a": 0,
+      "why": "Each year the moon months finish 3 days before the seasons do. After 10 years, festivals would be a whole month out of season. On Earth, 12 Moon months fall 11 days short of the year, and the same thing happens."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A child's drawing of a made-up planet with one moon and a sun, and a calendar wheel with 7 slices and a small extra slice.",
+     "caption": "1. Count the months in Kuyil's year."
+    },
+    {
+     "art": "A paper calendar for Kuyil with month names and three extra days shaded as a festival.",
+     "caption": "2. Design a calendar that keeps festivals in their season."
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "The history of keeping time - Karen Mensing",
+   "channel": "TED-Ed",
+   "youtube": "74I0M0RKNIE",
+   "mins": 5,
+   "why": "An animated history of how people kept time, from the sky and shadow clocks to water clocks and modern clocks. Good after the sinking cup experiment.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'The history of keeping time - Karen Mensing', channel TED-Ed). Not watched from here, so the length is a guess and a parent should preview it."
+  },
+  {
+   "title": "Naked Eye Observations: Crash Course Astronomy #2",
+   "channel": "CrashCourse",
+   "youtube": "L-Wtlev6suc",
+   "mins": 11,
+   "why": "How much of the sky you can learn just by watching with your eyes, as all the old sky-watchers did. Made for older students, so watch it together and pause to explain.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (channel CrashCourse). Not watched from here. A parent should preview it."
+  },
+  {
+   "title": "Cycles in the Sky: Crash Course Astronomy #3",
+   "channel": "CrashCourse",
+   "youtube": "01QWC-rZcfE",
+   "mins": 11,
+   "why": "The day, the month and the year, and why calendars need leap days. Made for older students, so watch in parts and talk about each one.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (channel CrashCourse). Not watched from here. A parent should preview it."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "What gives us the day?",
+   "opts": [
+    "The Earth turning once",
+    "The Moon going round the Earth",
+    "The Earth going round the Sun"
+   ],
+   "a": 0,
+   "why": "One turn of the Earth gives one day and night. The Moon gives the month, and the Earth going round the Sun gives the year.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "About how long is a solar year?",
+   "opts": [
+    "365 days",
+    "29 and a half days",
+    "584 days"
+   ],
+   "a": 0,
+   "why": "The Earth goes round the Sun in about 365 and a quarter days. 29 and a half days is a lunar month, and 584 days is the Venus cycle.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Twelve Moon months make about 354 days. What happens to a calendar that counts only Moon months?",
+   "opts": [
+    "Its festivals slide about 11 days earlier through the seasons each year",
+    "It stays exactly with the seasons",
+    "It adds a day every week"
+   ],
+   "a": 0,
+   "why": "354 days is about 11 days short of the solar year, so a Moon-only calendar moves through the seasons. Indian calendars fix this with an extra month now and then.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Vani, a girl in Class 3, timed her sinking cup clock: 2 minutes 40 seconds, 2 minutes 48 seconds and 2 minutes 37 seconds. What is the best way to describe it?",
+   "opts": [
+    "Nearly steady, within about 10 seconds each round",
+    "Exactly the same every time",
+    "Completely different every time"
+   ],
+   "a": 0,
+   "why": "The times are all between 2 minutes 37 and 2 minutes 48 seconds, only 11 seconds apart. So it is nearly steady but not perfect, like every water clock.",
+   "how": "e1",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why did the ghati bowl sink?",
+   "opts": [
+    "Water came in slowly through a small hole until it was full",
+    "It was too heavy to float",
+    "Someone pushed it under"
+   ],
+   "a": 0,
+   "why": "The bowl floated at first. Water came in through the tiny hole, and when it was full enough, it sank. The hole size set the time.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Who wrote in 499 that the Earth spins?",
+   "opts": [
+    "Aryabhata",
+    "Eratosthenes",
+    "Jai Singh II"
+   ],
+   "a": 0,
+   "why": "Aryabhata wrote it in his book, the Aryabhatiya. Eratosthenes measured the Earth's size, and Jai Singh II built Jantar Mantar.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "What did the Maya track very carefully?",
+   "opts": [
+    "The planet Venus",
+    "Halley's Comet only",
+    "The Earth's shadow on Mars"
+   ],
+   "a": 0,
+   "why": "The Maya Dresden Codex has a table of Venus, which comes back every 584 days.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "What did Chinese astronomers record in 1054?",
+   "opts": [
+    "A new 'guest star', which was an exploding star",
+    "The first telescope",
+    "The Earth going round the Sun"
+   ],
+   "a": 0,
+   "why": "They recorded a guest star bright enough to see by day. It was an exploding star, and its leftover cloud is the Crab Nebula.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Parameshvara was an astronomer in Kerala about 600 years ago. How did he find that the old eclipse tables were wrong?",
+   "opts": [
+    "He watched real eclipses for many years and compared them with the tables",
+    "He read it in a Greek book",
+    "He used a telescope"
+   ],
+   "a": 0,
+   "why": "He recorded eclipses for decades and saw they did not come when the old Parahita tables said. In 1431 he wrote a corrected system, Drigganita. Telescopes had not been invented yet.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why did astronomers check their water clocks against the Sun and stars?",
+   "opts": [
+    "Water clocks drift a little, and the sky's repeats are much steadier",
+    "Water clocks only work in the daytime",
+    "The stars told them to"
+   ],
+   "a": 0,
+   "why": "A water clock can run fast or slow if it is bumped, if the water warms, or if the hole changes. The turning sky is much steadier, so it was used to set them right.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "How long is one nazhigai?",
+   "opts": [
+    "24 minutes",
+    "60 minutes",
+    "24 hours"
+   ],
+   "a": 0,
+   "why": "There are 60 nazhigai in a day and night of 24 hours, so each one is 24 minutes.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Karthigai Deepam is lit on a full Moon. Which star group is the Moon in that night?",
+   "opts": [
+    "Krittika, the Pleiades",
+    "The Great Bear",
+    "Orion's belt"
+   ],
+   "a": 0,
+   "why": "The month Karthigai is named after Krittika. On Karthigai Deepam, the full Moon sits in Krittika.",
+   "outcome": 6
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Sky Clock Detective (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which repeat in the sky gives us the month?",
+     "opts": [
+      "The Moon going from full to full again",
+      "The Earth turning once",
+      "The Sun coming back to the same season"
+     ],
+     "a": 0,
+     "why": "The Moon goes from full to full in about 29 and a half days, and that is where the month comes from. The Earth turning once gives the day. The Sun coming back to the same season gives the year."
+    },
+    {
+     "t": "fill",
+     "p": "From one full Moon to the next takes about ____ days.",
+     "a": [
+      "29 and a half",
+      "29.5",
+      "29½"
+     ],
+     "why": "A lunar month is about 29 and a half days. That is why some Moon months have 29 days and some 30."
+    },
+    {
+     "t": "match",
+     "p": "Match each word to its meaning.",
+     "pairs": [
+      [
+       "Day",
+       "one turn of the Earth"
+      ],
+      [
+       "Lunar month",
+       "full Moon to full Moon"
+      ],
+      [
+       "Solar year",
+       "the Earth going once round the Sun"
+      ],
+      [
+       "Nazhigai",
+       "24 minutes, one sixtieth of a day"
+      ],
+      [
+       "Eclipse",
+       "one sky body blocking the light of another"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These words come up all through the unit. The first three are the sky's three big repeats."
+    },
+    {
+     "t": "truefalse",
+     "p": "A calendar that counts only Moon months would keep Pongal in the middle of January every year.",
+     "a": false,
+     "why": "False. Twelve Moon months are about 11 days shorter than a year, so a Moon-only calendar slides away from the seasons. Pongal follows the Sun, which is why it stays in mid-January."
+    },
+    {
+     "t": "write",
+     "p": "Kavya, a girl in Class 3, timed her sinking cup clock three times: 3 minutes 10 seconds, 3 minutes 25 seconds and 3 minutes 5 seconds. Her brother says the clock is broken. Do you agree? Explain using her numbers.",
+     "lines": 4,
+     "how": "e1",
+     "a": "No. The times are close, all between 3 minutes 5 and 3 minutes 25 seconds, only 20 seconds apart. Small things change the time a little, such as how gently the cup is put down or water left inside. So it is a fairly steady clock, but not a perfect one.",
+     "why": "A strong answer uses the numbers, works out the gap of 20 seconds, and gives a reason for the small differences."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these festivals and days. Does each one follow the Sun, or the Moon?",
+     "cats": [
+      "Follows the Sun",
+      "Follows the Moon"
+     ],
+     "items": [
+      [
+       "Pongal",
+       "Follows the Sun"
+      ],
+      [
+       "Vishu",
+       "Follows the Sun"
+      ],
+      [
+       "1 January, New Year's Day",
+       "Follows the Sun"
+      ],
+      [
+       "Christmas",
+       "Follows the Sun"
+      ],
+      [
+       "Deepavali",
+       "Follows the Moon"
+      ],
+      [
+       "Ramzan Eid",
+       "Follows the Moon"
+      ],
+      [
+       "Karthigai Deepam",
+       "Follows the Moon"
+      ],
+      [
+       "Holi",
+       "Follows the Moon"
+      ]
+     ],
+     "a": "see items",
+     "why": "Festivals on the same date every year, like Pongal, Vishu and Christmas, follow the Sun. Festivals that move each year, like Deepavali, Eid and Holi, follow the Moon. A strong sorter checks whether the date moves."
+    },
+    {
+     "t": "mcq",
+     "p": "Selvi, a girl in Class 4, wants her cup clock to sink faster. What should she change?",
+     "opts": [
+      "Make the hole a little bigger",
+      "Use colder water",
+      "Put the cup in a smaller vessel"
+     ],
+     "a": 0,
+     "why": "A bigger hole lets more water in each second, so the cup fills and sinks sooner. The size of the vessel does not change how fast water comes through the hole.",
+     "how": "e1"
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from the shortest to the longest.",
+     "items": [
+      "a solar year",
+      "a nazhigai",
+      "a lunar month",
+      "a day"
+     ],
+     "a": [
+      "a nazhigai",
+      "a day",
+      "a lunar month",
+      "a solar year"
+     ],
+     "why": "A nazhigai is 24 minutes. A day is 24 hours. A lunar month is about 29 and a half days. A solar year is about 365 days."
+    },
+    {
+     "t": "draw",
+     "p": "Draw your sinking cup clock floating in the vessel. Label the hole, the coins, the water coming in, and the water in the vessel.",
+     "a": "A cup floating in a larger vessel, with coins taped inside at the bottom, a small hole in the bottom, an arrow showing water coming up through the hole, and the water level of the vessel.",
+     "why": "A strong drawing shows that water enters through the hole from below, and the coins sit at the bottom.",
+     "how": "e1",
+     "art": "A blank box with the outline of a big vessel of water drawn in it."
+    },
+    {
+     "t": "mcq",
+     "p": "Which people wrote down the sky on clay tablets, night after night, for hundreds of years?",
+     "opts": [
+      "The Babylonians",
+      "The Maya",
+      "The Chinese"
+     ],
+     "a": 0,
+     "why": "The Babylonians, in what is now Iraq, pressed marks into wet clay. The Maya painted their books on bark paper. The Chinese wrote with brushes on silk, bamboo and paper."
+    },
+    {
+     "t": "truefalse",
+     "p": "The word 'ghadi', used for a clock in many Indian languages, comes from the ghati, an old Indian water clock.",
+     "a": true,
+     "why": "True. The ghati, or ghatika, was a bowl that sank once every 24 minutes. Its name lives on in 'ghadi'."
+    },
+    {
+     "t": "write",
+     "p": "A sundial tells the time from the Sun's shadow. Why did astronomers in India still need the ghati water clock?",
+     "lines": 3,
+     "a": "A sundial needs sunlight. It does not work at night or on cloudy days. Astronomers watched the sky at night, so they needed a clock that works without the Sun, like a water clock.",
+     "why": "A strong answer says when a sundial fails, and why night-time astronomers needed time most."
+    },
+    {
+     "t": "perspective",
+     "p": "Two friends are arguing about time.",
+     "views": [
+      {
+       "who": "Meena, aged 9",
+       "says": "The phone gives us the real time. The sky is just pretty to look at."
+      },
+      {
+       "who": "Farhan, aged 8",
+       "says": "The phone's time came from the sky. A day is one turn of the Earth, and hours are parts of it."
+      }
+     ],
+     "ask": "Who do you agree with more? Give a reason from this unit. Then say one thing the other friend has right.",
+     "lines": 5,
+     "a": "A strong answer might side with Farhan: the day, the month and the year all come from the sky, and hours and minutes were made by splitting the day. It might then grant Meena that today's phones are set by atomic clocks, which are steadier than the Earth's spin.",
+     "why": "Both have a point. The units of time came from the sky, but today the most exact clocks are atomic clocks, not the sky."
+    },
+    {
+     "t": "fill",
+     "p": "There are ____ nazhigai in one day and night.",
+     "a": [
+      "60",
+      "sixty"
+     ],
+     "why": "A day and night is 24 hours, or 1,440 minutes. 1,440 divided by 24 is 60."
+    },
+    {
+     "t": "mcq",
+     "p": "Arjun, a boy in Class 3, closed his eyes and said 'now' when he thought a minute had passed. His three tries were 45, 52 and 71 seconds. What does this show?",
+     "opts": [
+      "Our feeling of time is not steady, so we need a clock or the sky to count",
+      "Arjun was cheating",
+      "A minute is not always 60 seconds"
+     ],
+     "a": 0,
+     "why": "A minute is always 60 seconds, but our own sense of it drifts. That is why people looked for steadier ways to count time.",
+     "how": "a1"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Sky-Watchers of the World (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Eratosthenes found that at noon, a stick in Alexandria cast a short shadow, while the Sun shone straight down a well in Syene. What did this tell him?",
+     "opts": [
+      "The Earth's surface is curved",
+      "The Sun is very small",
+      "Alexandria had taller sticks"
+     ],
+     "a": 0,
+     "why": "If the Earth were flat, the Sun would make the same shadow everywhere at once. The different shadows showed the ground is curved, and the size of the difference let him work out how big the Earth is."
+    },
+    {
+     "t": "write",
+     "p": "An eclipse pattern repeats about every 18 years. Why could the Babylonians find this pattern, when one sky-watcher on their own probably could not?",
+     "lines": 4,
+     "a": "The Babylonians kept written records for hundreds of years. Later sky-watchers could read what earlier ones saw. One person sees only a few eclipses in a lifetime and might not remember them exactly. Long written records show patterns that are too slow for one person to notice.",
+     "why": "A strong answer links the long records to slow patterns."
+    },
+    {
+     "t": "match",
+     "p": "Match each sky-watcher to what they did.",
+     "pairs": [
+      [
+       "Aryabhata",
+       "wrote that the Earth spins"
+      ],
+      [
+       "Eratosthenes",
+       "measured the size of the Earth"
+      ],
+      [
+       "Parameshvara",
+       "corrected old eclipse tables by watching"
+      ],
+      [
+       "Jai Singh II",
+       "built the Jantar Mantar observatories"
+      ],
+      [
+       "Hypatia",
+       "taught astronomy in Alexandria"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each one added something different: an idea, a measurement, a correction, a building and teaching."
+    },
+    {
+     "t": "perspective",
+     "p": "People long ago argued about whether the Earth moves.",
+     "views": [
+      {
+       "who": "A follower of Ptolemy, about 1,800 years ago",
+       "says": "The Earth stands still. If it spun, we would feel a great wind and birds would be left behind."
+      },
+      {
+       "who": "Aryabhata, in 499",
+       "says": "The Earth spins. The stars only seem to move, like the shore seems to move to a person in a boat."
+      },
+      {
+       "who": "Sneha, a girl in Class 4 today",
+       "says": "I can't feel the Earth move, so I would have believed Ptolemy's follower."
+      }
+     ],
+     "ask": "Which view do you think is best supported? Give a reason. Then say why the view you did not pick seemed sensible at the time.",
+     "lines": 5,
+     "a": "A strong answer picks Aryabhata, with evidence such as photos from space or Foucault's pendulum, and the boat example. It then says that the follower of Ptolemy had a fair point, because we really do not feel any motion, and Sneha is honest about that.",
+     "why": "This was a real argument for centuries. Not feeling motion was a reasonable objection, until people understood that the air and birds move with the Earth."
+    },
+    {
+     "t": "truefalse",
+     "p": "The Maya learned how to count Venus from the Babylonians.",
+     "a": false,
+     "why": "False. The Maya lived across the ocean, in what is now Mexico and Central America, with no contact with Asia. They found the Venus cycle by watching it themselves."
+    },
+    {
+     "t": "mcq",
+     "p": "Five Venus cycles of 584 days make 2,920 days. Eight years of 365 days also make 2,920 days. Why was this useful to the Maya?",
+     "opts": [
+      "Every 8 years, Venus came back to the same place on the same date of their calendar",
+      "Venus disappeared after 8 years",
+      "It meant Venus is 8 times bigger than Earth"
+     ],
+     "a": 0,
+     "why": "Because the two counts meet at 2,920 days, the Venus pattern lines up with the year every 8 years. That made it easy to predict Venus far ahead."
+    },
+    {
+     "t": "order",
+     "p": "Put these in time order, from the oldest to the most recent.",
+     "items": [
+      "Jai Singh II builds Jantar Mantar",
+      "Eratosthenes measures the Earth",
+      "Aryabhata writes that the Earth spins",
+      "Chinese astronomers record a guest star",
+      "Parameshvara writes Drigganita"
+     ],
+     "a": [
+      "Eratosthenes measures the Earth",
+      "Aryabhata writes that the Earth spins",
+      "Chinese astronomers record a guest star",
+      "Parameshvara writes Drigganita",
+      "Jai Singh II builds Jantar Mantar"
+     ],
+     "why": "Eratosthenes about 240 BCE, Aryabhata 499, the guest star 1054, Drigganita 1431, and Jantar Mantar around 1730."
+    },
+    {
+     "t": "write",
+     "p": "Rekha, a girl in Class 4, made a bottle clock with a hole near the bottom. She marked the water level every 30 seconds. The marks were 3 cm apart at the top, but only 1 cm apart near the bottom. Why? How could a clock maker fix this?",
+     "lines": 4,
+     "how": "e3",
+     "a": "When the bottle is full, lots of water presses down on the hole and pushes water out fast. When there is little water, the push is small and it flows out slowly. A clock maker could space the hour marks closer together near the bottom, or make the pot wider at the top, as the Egyptians did.",
+     "why": "A strong answer explains the slowing with the push of the water above, and gives a fix."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a stick and its noon shadow in Chennai, and the same stick and its noon shadow in Delhi on the same day. Show which shadow is longer.",
+     "a": "Two sticks of the same height. The Delhi shadow is longer than the Chennai shadow, because Delhi is further north and the Sun is lower in its sky at noon.",
+     "why": "A strong drawing keeps the sticks the same height and makes the northern shadow longer.",
+     "how": "a4",
+     "art": "A blank box split in two, labelled Chennai and Delhi."
+    },
+    {
+     "t": "fill",
+     "p": "Indian astronomers split the Moon's path into 27 star groups, called ____.",
+     "a": [
+      "nakshatras",
+      "nakshatra"
+     ],
+     "why": "The Moon takes about 27 days to go round the sky past the same stars, so it spends about one day in each nakshatra."
+    },
+    {
+     "t": "mcq",
+     "p": "The Tamil month Karthigai is named after Krittika, a star group. Why name a month after a star group?",
+     "opts": [
+      "The full Moon in that month sits in or near that star group",
+      "Krittika can only be seen in that month",
+      "Krittika was the name of a queen"
+     ],
+     "a": 0,
+     "why": "Many Indian month names come from the nakshatra where the full Moon sits in that month. Karthigai Deepam is lit on the full Moon in Krittika."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these sky patterns. Could one person find each one in a few weeks of watching, or did it need records kept for many years?",
+     "cats": [
+      "A few weeks of watching",
+      "Records over many years"
+     ],
+     "items": [
+      [
+       "the Moon's shapes repeating",
+       "A few weeks of watching"
+      ],
+      [
+       "the sunset point moving along the skyline",
+       "A few weeks of watching"
+      ],
+      [
+       "day and night",
+       "A few weeks of watching"
+      ],
+      [
+       "an eclipse pattern repeating every 18 years",
+       "Records over many years"
+      ],
+      [
+       "Halley's Comet coming back every 76 years",
+       "Records over many years"
+      ],
+      [
+       "the stars slowly shifting over centuries",
+       "Records over many years"
+      ]
+     ],
+     "a": "see items",
+     "why": "Fast repeats can be seen by one person. Slow repeats were found only because people like the Babylonians and Chinese kept written records for hundreds of years."
+    },
+    {
+     "t": "write",
+     "p": "Riya, a girl aged 8, and her grandfather each measured the gap between two walls in fists, holding their arms straight. Both counted 5 fists, though his fist is much bigger. How can that be?",
+     "lines": 4,
+     "how": "e2",
+     "a": "Her grandfather's arm is longer, so his bigger fist is further from his eye. Things further away cover less of the view. So his big far fist and her small near fist cover about the same part of the view.",
+     "why": "A strong answer names both the bigger fist and the longer arm, and says why they balance."
+    },
+    {
+     "t": "truefalse",
+     "p": "We have 60 minutes in an hour because the Babylonians counted in sixties.",
+     "a": true,
+     "why": "True. Babylonian astronomers used sixties, and later Greek and Arab astronomers kept them. Why the Babylonians chose 60 is still not known for sure."
+    },
+    {
+     "t": "mcq",
+     "p": "Chinese astronomers wrote about a 'guest star' in the year 1054. Why do astronomers today still use this record?",
+     "opts": [
+      "It tells them when the star exploded, so they know how old the Crab Nebula is",
+      "It proves the Chinese had telescopes",
+      "It shows the star is still bright"
+     ],
+     "a": 0,
+     "why": "The guest star was an exploding star. Its leftover cloud is the Crab Nebula. The Chinese record gives its birth date. No telescopes existed then. The record was made by eye."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Clocks, Calendars and Big Ideas (challenge)",
+   "tier": "challenge",
+   "mins": 25,
+   "items": [
+    {
+     "t": "write",
+     "p": "The Parahita tables were made in 683 and matched the sky well. By the 1400s, Parameshvara found eclipses coming at different times from what they said. How can tables that were good once become wrong?",
+     "lines": 5,
+     "a": "The numbers in the tables had tiny errors. Each year the error added a little more. After about 700 years, the small errors had added up to a big difference. Parameshvara found it only because he watched real eclipses and compared them.",
+     "why": "A strong answer explains that small errors add up over many years, and that only watching the sky shows the drift."
+    },
+    {
+     "t": "perspective",
+     "p": "A family is talking about which calendar Indian festivals should use.",
+     "views": [
+      {
+       "who": "Paati, the grandmother",
+       "says": "Keep the Moon and nakshatra calendar. Our festivals belong to the full Moon and the stars, as they always have."
+      },
+      {
+       "who": "Kavitha, a school principal",
+       "says": "Fix all festivals on Gregorian dates. Then schools and offices can plan holidays years ahead."
+      },
+      {
+       "who": "Nila, aged 10",
+       "says": "Keep both. The Moon calendar for festivals, the Gregorian one for school."
+      }
+     ],
+     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one good point from another person.",
+     "lines": 5,
+     "a": "A strong answer picks one and gives a reason: for example, that the full Moon of Karthigai Deepam means something only if it falls on the full Moon, or that fixed dates help planning. It then grants a fair point from another view.",
+     "why": "This is a real trade-off. Moon-based festivals keep their link to the sky, but their Gregorian dates move each year, which makes planning harder."
+    },
+    {
+     "t": "mcq",
+     "p": "A ghati bowl sinks 5 seconds too slowly each round. It sinks 60 times in a day and night. How far off is it after a day and night?",
+     "opts": [
+      "5 minutes",
+      "5 seconds",
+      "60 minutes"
+     ],
+     "a": 0,
+     "why": "60 rounds times 5 seconds is 300 seconds, which is 5 minutes. A tiny error each round adds up. That is why astronomers checked their water clocks against the stars."
+    },
+    {
+     "t": "draw",
+     "p": "Design a water clock that shows each minute with a mark, so you can read the time without counting sinkings. Draw it and label the parts.",
+     "a": "For example, a tall clear bottle filled slowly by a dripping cup above, with lines on the side marked 1, 2, 3 minutes, made by timing the rising water. Or a floating stick rising in a pot as it fills, pointing to marks.",
+     "why": "A strong design explains how the marks were made, by timing with a clock first, and keeps the drip steady."
+    },
+    {
+     "t": "write",
+     "p": "Your phone shows the time to the second. Where does that time come from? Is the sky still involved?",
+     "lines": 4,
+     "a": "Phones get their time over the network from very exact atomic clocks. Since 1967, the second is measured with atoms, not the Earth. But the day, the month and the year still come from the sky, and leap seconds have been added to keep clocks in step with the Earth's spin.",
+     "why": "A strong answer names atomic clocks, and says that days and years still come from the sky."
+    },
+    {
+     "t": "truefalse",
+     "p": "When scientists tested astrology, astrologers could match people's birth charts to their characters much better than by guessing.",
+     "a": false,
+     "why": "False. In careful tests, such as one published in the journal Nature in 1985, astrologers did no better than chance. Astronomy, the study of where things in the sky are and how they move, makes predictions that do come true, such as eclipses."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from the least steady to the most steady way to keep time.",
+     "items": [
+      "the turning Earth",
+      "your own feeling of a minute",
+      "an atomic clock",
+      "a cup water clock"
+     ],
+     "a": [
+      "your own feeling of a minute",
+      "a cup water clock",
+      "the turning Earth",
+      "an atomic clock"
+     ],
+     "why": "Our feeling drifts by many seconds a minute. A cup clock drifts by seconds each round. The Earth's spin changes by only thousandths of a second a day. Atomic clocks are steadier still."
+    },
+    {
+     "t": "write",
+     "p": "The Maya and the Babylonians never met. Yet both counted a month of about 29 and a half days. What does this tell us?",
+     "lines": 4,
+     "a": "They were both watching the same Moon. If two people measure the same real thing carefully, they get the same answer, even without talking to each other. This shows the Moon's cycle is a real thing in the sky, not an idea one people made up.",
+     "why": "A strong answer says the agreement comes from measuring the same sky carefully."
+    },
+    {
+     "t": "fill",
+     "p": "Indian Hindu calendars add an extra month now and then to stay with the seasons. It is called adhika ____.",
+     "a": [
+      "masa",
+      "maasa",
+      "masam"
+     ],
+     "why": "Adhika masa means 'extra month'. It is added about every two and a half to three years."
+    },
+    {
+     "t": "mcq",
+     "p": "Ramzan began on about 1 March 2025. About when did it begin in 2026?",
+     "opts": [
+      "About 18 February 2026, about 11 days earlier",
+      "1 March 2026, the same date",
+      "About 12 March 2026, about 11 days later"
+     ],
+     "a": 0,
+     "why": "The Hijri calendar counts 12 Moon months, about 354 days, which is about 11 days shorter than the Gregorian year. So Ramzan begins about 11 days earlier each year."
+    },
+    {
+     "t": "match",
+     "p": "Match each word we use today to where it came from.",
+     "pairs": [
+      [
+       "ghadi, a clock",
+       "the ghati water clock of India"
+      ],
+      [
+       "hora, an hour in Sanskrit",
+       "the Greek word for an hour"
+      ],
+      [
+       "month",
+       "an old word for the Moon"
+      ],
+      [
+       "60 minutes",
+       "Babylonian counting in sixties"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Our words for time carry the history of sky-watching from many lands."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these festivals follow the Moon. Which one is the odd one out?",
+     "opts": [
+      "Pongal",
+      "Deepavali",
+      "Holi",
+      "Karthigai Deepam"
+     ],
+     "a": 0,
+     "why": "Pongal follows the Sun, so it falls in mid-January each year. Deepavali, Holi and Karthigai Deepam follow the Moon, so their dates move."
+    },
+    {
+     "t": "write",
+     "p": "Think about this. If nothing in the universe ever repeated, no day, no heartbeat, no Moon, could anyone count time? Write what you think and why.",
+     "lines": 5,
+     "a": "Any honest answer with a reason is good. For example: we could still notice that things change, such as a candle getting shorter, but without repeats it would be hard to count equal pieces of time. Or: time would still pass, but we would have no clock.",
+     "why": "This is an open question. A strong answer gives a reason and an example."
+    },
+    {
+     "t": "mcq",
+     "p": "To work out the size of the whole Earth, what did Eratosthenes need?",
+     "opts": [
+      "The angle of a noon shadow in one town, and the distance to another town where there was no shadow",
+      "A telescope and a ship",
+      "The weight of the Earth"
+     ],
+     "a": 0,
+     "why": "The difference in the Sun's angle between two towns, and the distance between them, tell you what part of the Earth's circle lies between them. From that, he worked out the whole circle."
+    },
+    {
+     "t": "write",
+     "p": "Choose one sky-watcher from this unit. Write three questions you would ask them if you could meet them, and say why you chose them.",
+     "lines": 5,
+     "a": "Any three real questions, for example to Parameshvara: How did you record the time of an eclipse? Were you ever wrong? Why did you keep watching for 55 years?",
+     "why": "A strong answer asks questions that show what the child knows about the person's work."
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Every calendar, from the wall calendar to the panchangam, counts the sky's repeats.",
+  "Farmers use the seasons of the solar year to decide when to sow and harvest.",
+  "Festival dates for Deepavali, Eid, Onam and Karthigai Deepam are worked out from the Moon and stars.",
+  "The 60 minutes on every clock and the 360 degrees in a protractor come from Babylonian astronomy.",
+  "Leap years keep the Gregorian calendar in step with the solar year.",
+  "Eclipse predictions today use the same idea as the Babylonians: find the pattern, then predict.",
+  "Old Chinese and Babylonian records help astronomers today date exploding stars and comets.",
+  "Sailors once used the angle of the Pole Star and the Sun to find how far north they were.",
+  "The panchangam in many Tamil and Kerala homes still gives times in nazhigai."
+ ],
+ "spotted": [
+  {
+   "text": "The panchangam or calendar on your kitchen wall, with Pournami and Amavasya marked.",
+   "art": "A Tamil calendar hanging on a kitchen wall with small full Moon and new Moon signs on some dates."
+  },
+  {
+   "text": "The word 'ghadi' on a watch shop sign, which comes from the ghati water clock.",
+   "art": "A small watch shop in a market with a painted sign reading 'Ghadi'."
+  },
+  {
+   "text": "The 60 little marks on a clock face, the Babylonian way of counting.",
+   "art": "A round wall clock with 60 small minute marks."
+  },
+  {
+   "text": "Jantar Mantar in Delhi and Jaipur, giant stone instruments for measuring the sky.",
+   "art": "The huge stone sundial at Jantar Mantar in Jaipur, with a staircase rising to the sky."
+  },
+  {
+   "text": "Karthigai Deepam lamps lit on the full Moon in Krittika, in homes and on the hill at Tiruvannamalai.",
+   "art": "Rows of small clay lamps on a doorstep at night, with a full Moon above."
+  },
+  {
+   "text": "The new crescent Moon that families watch for to begin and end Ramzan.",
+   "art": "A thin crescent Moon low in the western sky at dusk over rooftops, with people pointing up."
+  },
+  {
+   "text": "Your balcony: the Sun setting in a slightly different place each week.",
+   "art": "A balcony at sunset, with the Sun going down between two buildings."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Why did the Babylonians count in sixties?",
+   "why_open": "We know they did, but no writing survives that says why. There are several ideas, such as 60 splitting evenly into many parts."
+  },
+  {
+   "q": "Exactly how old is the Vedanga Jyotisha?",
+   "why_open": "Its sky positions and its language point to different dates, and scholars argue over dates from more than 3,000 years ago to about 2,400 years ago."
+  },
+  {
+   "q": "Did Babylonian astronomy reach early India?",
+   "why_open": "Some numbers are similar, but people watching the same sky would find similar numbers anyway. There is no clear record of the journey."
+  },
+  {
+   "q": "Were Maya and other ancient buildings lined up with the Sun on purpose?",
+   "why_open": "Some line up with sunrise or sunset on special days. For many, it is hard to know if the builders meant it, or if it is chance."
+  },
+  {
+   "q": "How exactly were the old ghati bowls checked and made the right size?",
+   "why_open": "The books describe the bowl, but few real old bowls survive, and the details of how makers tested them are not well known."
+  },
+  {
+   "q": "Why does the Earth's spin speed up and slow down by tiny amounts?",
+   "why_open": "Tides, the Earth's core, ice and oceans all play a part. Scientists are still working out exactly how much each one does."
+  }
+ ],
+ "ask_kids": [
+  "If our phones stopped working, how could we tell the time tonight?",
+  "Is today's festival a Sun festival or a Moon festival? How can you tell?",
+  "How many nazhigai until dinner?",
+  "Where did the Sun set today, compared with last week?",
+  "What shape is the Moon tonight? When will it be full?",
+  "Why do you think every people in the world made a calendar?",
+  "Which sky-watcher from this unit would you like to be, and why?",
+  "Can you count to 60 on your hands the Babylonian way?",
+  "What else at home repeats steadily, like a clock?",
+  "If you wrote down the sky every night for a year, what patterns might you find?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the Moon skip dinner?",
+   "a": "It was already full."
+  },
+  {
+   "j": "Why was the water clock always calm?",
+   "a": "It knew how to go with the flow."
+  },
+  {
+   "j": "What did the calendar say when it was nervous?",
+   "a": "My days are numbered!"
+  },
+  {
+   "j": "Why did the sundial refuse to work at night?",
+   "a": "It had no shadow of a doubt that it was off duty."
+  },
+  {
+   "j": "Why did the cup clock get a medal?",
+   "a": "It always went down on time."
+  },
+  {
+   "j": "What do you call a Babylonian who loves maths?",
+   "a": "A sixty-mentalist."
+  },
+  {
+   "j": "Why did the astronomer bring a pillow to work?",
+   "a": "Her job was to watch the night shift."
+  },
+  {
+   "j": "How does the Moon cut his hair?",
+   "a": "Eclipse it."
+  },
+  {
+   "j": "Why was the calendar so popular?",
+   "a": "It had a lot of dates."
+  },
+  {
+   "j": "What did one nazhigai say to the next?",
+   "a": "See you in 24 minutes!"
+  },
+  {
+   "j": "Why didn't the year go to the party?",
+   "a": "It was running out of days."
+  },
+  {
+   "j": "Why did Venus take so long to come back?",
+   "a": "She was on Maya time."
+  },
+  {
+   "j": "What is a clock's favourite food?",
+   "a": "Seconds."
+  },
+  {
+   "j": "Why did the leap year feel special?",
+   "a": "It got an extra day off to think."
+  },
+  {
+   "j": "Why did the star group sit next to the Moon?",
+   "a": "It saved a seat in its nakshatra."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "One nazhigai is 24 minutes. Meenakshi's family watched a film that lasted 5 nazhigai. How many minutes is that? How many hours?",
+   "answer": "120 minutes, which is 2 hours.",
+   "explain": "5 lots of 24 minutes. 24 plus 24 is 48. 48 plus 48 is 96. 96 plus 24 is 120. 120 minutes is 2 hours, because each hour is 60 minutes.",
+   "math_unit": "math.multiplication.equal-groups.L3",
+   "context": "This is about the nazhigai, the old Indian unit of 24 minutes.",
+   "why_maths": "Changing nazhigai into minutes shows how the old Indian day fits into our hours.",
+   "how": "a2"
+  },
+  {
+   "problem": "Kavya's sinking cup took 3 minutes 10 seconds, 3 minutes 25 seconds and 3 minutes 5 seconds. What is the gap between her fastest and slowest round? Which round was the odd one out?",
+   "answer": "20 seconds. Round 2 was the odd one out.",
+   "explain": "The fastest was 3 minutes 5 seconds, and the slowest 3 minutes 25 seconds. 25 minus 5 is 20 seconds. Rounds 1 and 3 are only 5 seconds apart, but round 2 is 15 seconds slower than round 1. So round 2 was the odd one out. Maybe the cup was put down differently.",
+   "math_unit": "math.time.duration.L3",
+   "context": "This is about the times from the Sinking Cup Clock experiment.",
+   "why_maths": "Finding the gap between times tells you how steady a clock is, and spotting the odd one out tells you what to check.",
+   "how": "e1"
+  },
+  {
+   "problem": "Venus comes back to the morning sky every 584 days. A year is 365 days. Is the Venus cycle less than one year, between one and two years, or more than two years?",
+   "answer": "Between one and two years.",
+   "explain": "584 is more than 365, so it is longer than one year. Two years are 365 plus 365, which is 730 days. 584 is less than 730. So it is between one and two years, about one year and seven months.",
+   "math_unit": "math.addition-subtraction.word-problems.L3",
+   "context": "This is about the Maya Venus cycle of 584 days.",
+   "why_maths": "Comparing the Venus cycle with the year shows why the Maya needed long counts to make the two fit."
+  },
+  {
+   "problem": "Ramzan began on about 1 March in 2025. A Moon calendar year is about 11 days shorter than our year. About when will Ramzan begin in 2026, and in 2027?",
+   "answer": "About 18 February 2026, and about 7 February 2027.",
+   "explain": "11 days before 1 March is 18 February, because February 2026 has 28 days: 1 March minus 1 day is 28 February, minus 10 more days is 18 February. 11 days before 18 February is 7 February.",
+   "math_unit": "math.time.calendar.L3",
+   "context": "This is about the Hijri calendar, which counts only Moon months.",
+   "why_maths": "Counting back on a calendar shows how a Moon-only calendar moves through the year."
+  },
+  {
+   "problem": "The marks on Rekha's bottle clock were 3.2 cm, 2.8 cm, 2.3 cm and 1.9 cm apart, one every 30 seconds. About how far apart do you think the next mark will be? Why?",
+   "answer": "About 1.4 or 1.5 cm.",
+   "explain": "Each gap is about half a centimetre, or a little less, smaller than the one before: 3.2 to 2.8 is 0.4 less, 2.8 to 2.3 is 0.5 less, 2.3 to 1.9 is 0.4 less. So the next is about 1.9 minus 0.4 or 0.5, which is about 1.4 or 1.5 cm. The water slows down as the bottle empties.",
+   "math_unit": "math.patterns.repeating-patterns.L2",
+   "context": "This is about the Leaking Bottle Clock experiment, where water slows as the bottle empties.",
+   "why_maths": "Spotting the pattern in the gaps lets you predict the next mark, and shows that the flow is slowing.",
+   "how": "e3"
+  },
+  {
+   "problem": "The sky turns about one fist, held at arm's length, every 40 minutes. Meenakshi saw the Moon one fist above a tower at 7:30. About what time will it be three fists above the tower?",
+   "answer": "About 8:50.",
+   "explain": "From one fist to three fists is two fists more. Two lots of 40 minutes is 80 minutes, which is 1 hour 20 minutes. 7:30 plus 1 hour is 8:30, plus 20 minutes is 8:50.",
+   "math_unit": "math.time.telling-time.L3",
+   "context": "This is about telling time from how far the Moon has moved across the sky.",
+   "why_maths": "Adding time in equal steps turns the turning sky into a clock."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.sky.L3",
+  "title": "Star, Planet, Moon",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "Stellarium Web",
+   "url": "https://stellarium-web.org",
+   "kind": "simulation",
+   "why": "A free sky map in your browser. Set your town and a time to see where the Moon, planets and stars are. You can also move the date to see the Sun's setting point change."
+  },
+  {
+   "title": "timeanddate: Sunrise and sunset times",
+   "url": "https://www.timeanddate.com/sun/",
+   "kind": "interactive",
+   "why": "Sunrise and sunset times and directions for your city, useful for the Window Calendar project."
+  },
+  {
+   "title": "Jantar Mantar, Jaipur",
+   "url": "https://en.wikipedia.org/wiki/Jantar_Mantar,_Jaipur",
+   "kind": "place",
+   "where": "Jaipur",
+   "why": "Stone instruments for measuring the sky, built by Jai Singh II around 1730. A World Heritage Site, with a huge sundial you can watch move."
+  },
+  {
+   "title": "Jantar Mantar, New Delhi",
+   "url": "https://en.wikipedia.org/wiki/Jantar_Mantar,_New_Delhi",
+   "kind": "place",
+   "where": "Delhi",
+   "why": "The first of Jai Singh II's observatories, in the middle of Delhi."
+  },
+  {
+   "title": "B. M. Birla Planetarium, Chennai",
+   "url": "https://en.wikipedia.org/wiki/Birla_Planetarium",
+   "kind": "place",
+   "where": "Chennai",
+   "why": "A planetarium show lets you see the night sky as old sky-watchers saw it, without city lights."
+  },
+  {
+   "title": "Kodaikanal Solar Observatory",
+   "url": "https://en.wikipedia.org/wiki/Kodaikanal_Solar_Observatory",
+   "kind": "place",
+   "where": "Kodaikanal",
+   "why": "A working observatory since 1899, with a small museum. It has kept records of the Sun for over a hundred years."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-cups",
+   "item": "A small pack of plain plastic cups, about 150 to 200 ml",
+   "kind": "material",
+   "why": "The sinking cup clock needs a light plastic cup that will not go soft. A clean curd or ice-cream cup works too, if you have one. Packs are sold in any general store.",
+   "url": "https://www.amazon.in/s?k=plastic+disposable+cups+200+ml",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Keep two or three spare cups, because the challenge needs a few tries with different holes."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What does one turn of the Earth give us?",
+   "a": "One day and night."
+  },
+  {
+   "q": "About how many days from one full Moon to the next?",
+   "a": "About 29 and a half days."
+  },
+  {
+   "q": "How many minutes is one nazhigai?",
+   "a": "24 minutes."
+  },
+  {
+   "q": "Which people wrote down the sky on clay tablets?",
+   "a": "The Babylonians."
+  },
+  {
+   "q": "Which planet did the Maya track every 584 days?",
+   "a": "Venus."
+  },
+  {
+   "q": "Who wrote in 499 that the Earth spins?",
+   "a": "Aryabhata."
+  },
+  {
+   "q": "Why do we have 60 minutes in an hour?",
+   "a": "Because the Babylonians counted in sixties."
+  },
+  {
+   "q": "Which Kerala astronomer corrected the old eclipse tables in 1431?",
+   "a": "Parameshvara."
+  },
+  {
+   "q": "Does Pongal follow the Sun or the Moon?",
+   "a": "The Sun."
+  },
+  {
+   "q": "What did Chinese astronomers see in 1054?",
+   "a": "A guest star, an exploding star."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "a1",
+   "story",
+   "e1",
+   "big_questions",
+   "cards",
+   "g1",
+   "a2"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "summary",
+   "terms",
+   "explanations",
+   "story",
+   "a2",
+   "a3",
+   "g1",
+   "videos",
+   "ws-core",
+   "e2",
+   "e3",
+   "a5",
+   "g2",
+   "agreed",
+   "challenging",
+   "a4",
+   "p1",
+   "ws-stretch",
+   "c1",
+   "c2",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "a2",
+   "g1",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Cards for Khana, Wang Zhenyi, Hypatia, Madhava and Galileo (Hypatia and Wang Zhenyi used in the explanations; the Kerala school thread led to Parameshvara)",
+   "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: concept activities on the Sun's movement (track the Sun's path; used as the Window Calendar project, measuring the sunset point rather than the shadow)",
+   "Curriculum entry sci.sky.history-of-astronomy.L3 (covers Babylonian, Greek, Indian, Chinese and Maya sky-watchers and calendars from the sky). No board chapters are mapped to it, so no board text was used."
+  ],
+  "science": [
+   "Burgess, translation of the Surya Siddhanta, 1860, chapter 13 (the sinking bowl water clock)",
+   "Fleet, 'The Ancient Indian Water-Clock', Journal of the Royal Asiatic Society, 1915",
+   "Sarma, K. V., A History of the Kerala School of Hindu Astronomy, 1972 (Parameshvara, Parahita and Drigganita)",
+   "Plofker, Mathematics in India, Princeton University Press, 2009 (Vedanga Jyotisha, Aryabhata, the Kerala school)",
+   "Sachs and Hunger, Astronomical Diaries and Related Texts from Babylonia, 1988 onwards",
+   "Steele, A Brief Introduction to Astronomy in the Middle East, 2008 (Babylonian eclipse cycles and sexagesimal counting)",
+   "Aveni, Skywatchers, University of Texas Press, 2001 (Maya Venus table in the Dresden Codex, calendar round)",
+   "Stephenson and Green, Historical Supernovae and their Remnants, 2002 (the 1054 guest star and the Crab Nebula)",
+   "Carlson, 'A double-blind test of astrology', Nature 318, 1985",
+   "Bureau International des Poids et Mesures, SI Brochure (definition of the second since 1967; leap seconds since 1972)"
+  ]
+ },
+ "roots": {
+  "context": "We have built a water clock, tested how steady it is, and met the people who learned to count time from the sky. Now we ask what this tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Your cup sank in nearly the same time each round, but never exactly the same. Clocks made of water, sand or springs drift a little like this. The Sun, Moon and stars repeat far more steadily. So for thousands of years, people set their clocks and calendars by the sky.",
+   "habit": "We think time comes from the clock on the wall or the phone, and the sky just goes along with it. It is the other way round. The day, the month and the year were all counted from the sky, and the second itself was measured from the Earth's movement until 1967.",
+   "evidence": "In the Sinking Cup Clock, three rounds with the same cup gave close but different times. Parameshvara found that even very good tables of the sky drifted over 700 years, and he corrected them by watching real eclipses."
+  },
+  "three": {
+   "who_am_i": "Your body keeps rhythms too: a heartbeat, a breath, and sleep each night. They drift, like your guess of a minute.",
+   "what_is_life": "Many plants measure how long the night is, and flower when the nights reach the right length. They keep a calendar of their own.",
+   "what_is_this_world": "The world turns, the Moon circles and the seasons return. Every calendar on Earth is a way of counting those repeats."
+  },
+  "thread": "Everything people count as time comes from a few movements in the sky. One turn of the Earth gives the day. The Moon going round gives the month. The Earth going round the Sun gives the year. From these few movements came many counts: nazhigai and hours, weeks and months, festivals, harvests and birthdays. Babylonians, Greeks, Indians, Chinese and Maya made very different calendars, and all of them count the same sky.",
+  "teachings": [
+   {
+    "source": "Rig Veda 1.164.48",
+    "teaching": "There is one wheel with twelve parts and three hubs. Three hundred and sixty spokes are fixed in it, and they cannot come loose. Who understands it?",
+    "link": "The wheel is the year. Its twelve parts are like the months, and the 360 spokes are like the days. Old Indian sky-watchers saw the year as one turning wheel, the same repeat your Window Calendar shows."
+   },
+   {
+    "source": "Ecclesiastes 3.1, in the Bible",
+    "teaching": "For everything there is a season, and a time for every purpose under heaven.",
+    "link": "Farmers everywhere needed to know when to sow and when to harvest. Calendars from the sky told them, because the seasons come back with the Sun's year."
+   }
+  ],
+  "science": [
+   {
+    "text": "The day, the month and the year come from the Earth's spin, the Moon's orbit and the Earth's orbit round the Sun.",
+    "status": "settled"
+   },
+   {
+    "text": "The Earth's spin is very slowly getting slower, mostly because of the Moon's pull on the oceans, so days were shorter long ago.",
+    "status": "settled"
+   },
+   {
+    "text": "What time itself is, and why it seems to flow only one way, is not known.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Many physicists and clock makers today",
+   "view": "The sky is no longer the best clock. Since 1967, the second is measured with atoms, which are far steadier than the Earth's spin. We now correct our clocks against atoms, and add leap seconds to keep them near the Earth."
+  },
+  "practice": {
+   "title": "Feel your own clocks",
+   "mins": 3,
+   "say": "Sit still and close your eyes. Put two fingers on the side of your neck. Can you feel your heartbeat? Count your heartbeats while I count 15 seconds. Now count your breaths for one minute. Open your eyes. Look out of the window at the sky. Your heart and breath are clocks inside you. The sky is the big clock outside.",
+   "kid": "Sit still. Close your eyes. Feel your heartbeat on your neck. Count the beats. Count your breaths. Now look at the sky."
+  },
+  "ask": [
+   "Your heartbeat, your cup clock and the turning Earth all repeat. Which one would you trust to count a whole year, and why?",
+   "If people on Mars made a calendar, would it be the same as ours? What would be different?",
+   "Is time something real in the world, or only our way of counting the sky's repeats?"
+  ],
+  "art": "A child sitting on a balcony at dusk with eyes closed, two fingers on her neck, a cup clock floating in a steel vessel beside her and a thin crescent Moon in the sky."
+ },
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home with the materials listed. Choices made: the sinking cup uses a light plastic cup with two coins taped inside, because a plastic cup on its own may float even when full, and a paper cup goes soft. A steel katori was not used, because a home cannot drill a hole in steel. The hole is about 2 millimetres, the width of a pen refill tip, because a pinhole alone can take 20 minutes or more to fill a 200 ml cup. The practice round tells the parent how to adjust the hole until the cup sinks in 2 to 8 minutes, and the timed rounds allow for this. The steps say to lower the cup flat and gently, because tipping lets water over the rim. The bottle clock uses a hole near the bottom, with the cap off, over a bucket. The fist ruler is measured indoors across a door, because the sky may be cloudy or full of buildings, and its result is honestly uncertain. The Eratosthenes activity and the Window Calendar project depend on a sunny balcony or a west-facing window, so they are not in the spine. No step asks anyone to look at the Sun.",
+ "how_we_found_out": {
+  "story": "In Kerala, astronomers worked out eclipses with a system of tables called Parahita. It was made by Haridatta in 683. For centuries, people trusted it to say when the Moon would be eclipsed. Parameshvara was born in about 1380 in Vatasseri, a village on the Nila river in Kerala. He did not only calculate. He went out and watched. He recorded eclipses from 1393 onwards, and he wrote that he had observed the sky for 55 years. He found that the eclipses came at different times from what the Parahita tables said. The old numbers had been very good once, but small errors had added up over 700 years. So in 1431 he wrote a new system with corrected numbers. He called it Drigganita, which means 'calculation that matches what is seen'. The wrong idea was that good tables could predict the sky for ever. The sky itself showed they had drifted. Astronomers in Kerala used his system for centuries.",
+  "who": "Parameshvara of Vatasseri, a Kerala astronomer (about 1380 to 1460)",
+  "when": "Eclipse records from 1393. The Drigganita system was written in 1431.",
+  "wrong_idea": "People thought the Parahita tables, made in 683, could predict eclipses correctly for ever. Parameshvara watched real eclipses for decades and showed that the tables had drifted from the sky, so he made corrected ones."
+ }
+}

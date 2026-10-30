@@ -4,9 +4,9 @@
  "subj": "sci",
  "level": 5,
  "n": "health-hygiene-exercise-and-illness",
- "title": "How diseases travel, and how we stop them: infectious and non-infectious illness",
- "source": "DeepKids Combined. Covers NIOS Level C Lesson 14 'Common Diseases: their Reasons, Prevention and Protection' (infectious and non-infectious diseases; symptoms and how diseases spread; prevention and protection). No textbook needed.",
- "summary": "Your child becomes a disease detective. They sort illnesses into infectious and non-infectious, follow the four great roads germs travel (air, water and food, insects, and touch or blood), test what a cloth mask stops and what a water filter doesn't, make ORS, and solve a cholera map the way John Snow did. Then they look at illnesses that don't spread, from diabetes to heart disease, ask who decides what we eat and who paid for the research, and find that the line between 'catching' and 'not catching' a disease is blurrier than anyone thought.",
+ "title": "How diseases spread, and how we stop them",
+ "source": "DeepKids Combined. Covers NIOS Level C Lesson 14 'Common Diseases: their Reasons, Prevention and Protection' (infectious and non-infectious diseases. Symptoms and how diseases spread. Prevention and protection). No textbook needed.",
+ "summary": "Some illnesses spread from person to person, and some do not. Your child sorts diseases into infectious and non-infectious. They learn the four main routes germs travel: air, water and food, insects, and touch or blood. They test what a cloth stops, build a water filter that cannot remove germs, and make ORS. They find the source of an outbreak on a map, as John Snow did in London in 1854. Then they look at diseases that do not spread, such as diabetes, and ask who pays for health research.",
  "builds_on": "Class 2: germs, soap, teeth. Class 3: caring for outer organs, clean surroundings, fitness, sleep and feelings. Class 4: the journey of food, the immune system, vaccines, community protection and safe medicines. Here: how particular diseases spread and are stopped, non-infectious diseases, and health as something a whole town shares. Later (beyond Class 5): cells, microbiology and how epidemics are modelled with maths.",
  "goals": [
   "By the end your child can sort diseases into infectious and non-infectious and explain the difference.",
@@ -91,28 +91,28 @@
    "steps": [
     {
      "kind": "warmup",
-     "title": "The castle remembers",
+     "title": "Remember the castle",
      "mins": 6,
-     "do": "Ask: 'Last year, how did we say the body fights germs?' (Walls: skin, mucus, stomach acid; soldiers: white blood cells; fever; memory, or immunity.) 'How does a vaccine work?' (It shows the body a harmless form of a germ so it remembers.) 'How do vaccines protect people who can't have them?' (They break the chain.) Say: 'This year we become detectives: we find out exactly how diseases travel, and how to stop them.'"
+     "do": "Ask: 'Last year we drew the body as a castle. What were its walls, and what were its soldiers?' (Walls: skin, mucus and stomach acid. Soldiers: white blood cells. Fever helps too, and the body remembers germs it has beaten.) Ask: 'How does a vaccine work?' (It shows the body a harmless form of a germ, so the body remembers it.) Say: 'This year we find out how diseases travel from person to person, and how to stop them.'"
     },
     {
      "kind": "talk",
      "title": "The last time you were ill",
      "mins": 10,
-     "do": "Ask: 'When were you last ill? What did you feel?' (Fever, cough, runny nose, tummy ache, rash, tired.) Say: 'Those are symptoms, signs that something's going on.' Then the surprise: 'Many symptoms are your body fighting. Fever makes it hard for germs to grow. Coughing and sneezing push germs out. Diarrhoea flushes them out, though it also loses water.' Ask: 'So is a fever the illness, or the fight?' (Often the fight.) Say: 'A doctor may still bring a high fever down so you feel better and don't lose too much water.'"
+     "do": "Ask: 'When were you last ill? What did you feel?' (Fever, cough, runny nose, tummy ache, rash, tiredness.) Say: 'These are symptoms. A symptom is a sign that something is wrong in the body.' Ask: 'Is a fever the illness, or your body fighting it? Why do you think so?' Wait for a guess and a reason. Then say: 'Many symptoms are the body fighting. Fever makes it harder for many germs to grow. Coughs and sneezes push germs out. Diarrhoea flushes germs out, but the body also loses water. A doctor may still bring a high fever down, so you feel better and drink enough.'"
     },
     {
      "kind": "ws",
      "title": "Sort the diseases",
      "mins": 14,
-     "do": "Do Worksheet ws1 section A. Then explain: 'Infectious diseases are caused by germs that can spread: colds, flu, TB, cholera, malaria, dengue, chickenpox. Non-infectious diseases don't spread from person to person: diabetes, most heart disease, asthma, most cancers, a broken bone.' Ask: 'Can you catch diabetes from a friend?' (No.) 'Can you catch a cold?' (Yes.)",
+     "do": "Do section A of Worksheet ws1. Then say: 'Infectious diseases are caused by germs that can spread from one person to another. Colds, flu, TB, cholera, malaria, dengue and chickenpox are infectious. Non-infectious diseases do not spread from person to person. Diabetes, most heart disease, asthma and most cancers are non-infectious. So is a broken bone.' Ask: 'Can you catch diabetes from a friend?' (No.) 'Can you catch a cold?' (Yes.)",
      "ref": "ws1"
     },
     {
      "kind": "talk",
      "title": "Start the health map",
      "mins": 15,
-     "do": "Start the project: your child draws a map of your street or building: houses, taps, wells, tanks, drains, bins, shops, a clinic. Over the week they'll add where water comes from, places where water stands, and where rubbish goes. Ask: 'Where would a germ find the easiest road here?' Mark one guess with a question mark."
+     "do": "Start the project. Your child draws a map of your street or building. Mark homes, taps, water tanks, drains, bins, shops and the nearest clinic. Over the week they will add where water comes from, where water stands still, and where rubbish goes. Ask: 'Where could germs spread most easily here?' Mark that guess with a question mark."
     }
    ],
    "need": [
@@ -123,14 +123,14 @@
   },
   {
    "n": 2,
-   "title": "The road through the air",
+   "title": "Germs that travel through air",
    "goal": "Find out how some germs travel through the air, and test what stops them.",
    "steps": [
     {
      "kind": "warmup",
      "title": "How far does a sneeze go?",
      "mins": 5,
-     "do": "Ask your child to guess: 'If you sneeze without covering, how far do the droplets go: your arm's length, across the room, or further?' Write the guess. (Scientists filming sneezes have found the finest droplets can travel several metres and hang in still air.)"
+     "do": "Ask: 'If you sneeze without covering your nose, how far do the droplets go? An arm's length, across the room, or further?' Write down the guess. (Scientists filming sneezes with fast cameras found that the finest droplets can travel several metres and hang in still air.)"
     },
     {
      "kind": "exp",
@@ -141,20 +141,20 @@
     },
     {
      "kind": "talk",
-     "title": "Air diseases",
+     "title": "Diseases that spread through air",
      "mins": 12,
-     "do": "Say: 'Colds, flu, measles, chickenpox and TB (tuberculosis) travel in tiny droplets when people cough, sneeze, talk or even breathe. TB is caused by bacteria that attack the lungs; it can be cured with medicines taken every day for months, and India has more TB patients than any country, so finishing the medicine matters for everyone.' Ask: 'What stops air germs?' (Covering coughs into the elbow, masks, fresh air through open windows, staying home when ill, vaccines for measles and flu.) Then: 'Why do grown-ups need a new flu vaccine every year?' (The flu virus keeps changing its outside coat, so last year's memory doesn't fit perfectly. The Indian-born scientist Sunetra Gupta has used maths to study how such germs change to escape our immunity.)"
+     "do": "Say: 'Colds, flu, measles, chickenpox and TB travel in tiny droplets. These come out when people cough, sneeze, talk or even breathe. TB, or tuberculosis, is caused by bacteria that attack the lungs. It can be cured with medicines taken every day for months. India has more people with TB than any other country, so finishing the medicine matters for everyone.' Ask: 'What could stop germs that travel through air?' (Covering coughs with the elbow, masks, open windows, staying home when ill, and vaccines for measles and flu.) Ask: 'Why do grown-ups need a new flu vaccine every year?' (Flu viruses keep changing their outer coat. So the body's memory of last year's viruses no longer fits well.)"
     },
     {
      "kind": "do",
      "title": "Open the windows",
      "mins": 8,
-     "do": "Light an incense stick (a grown-up holds it) in a closed room and watch how the smoke hangs and drifts. Then open two windows on opposite sides and watch how quickly it clears. Ask: 'If the smoke were cough droplets, which room would be safer?' (The airy one.) Add to the health map: which rooms in your home get through-air?"
+     "do": "A grown-up lights an incense stick in a room with the windows and door shut. Watch how the smoke hangs and drifts. Then open two windows, on opposite sides if you can, and watch how quickly the smoke clears. Ask: 'If the smoke were cough droplets, which room would be safer?' (The room with air moving through it.) On the health map, mark which rooms in your home get air flowing through."
     }
    ],
    "need": [
     "a spray bottle, water, a few drops of food colour",
-    "a sheet of white chart paper or old newspaper",
+    "old newspaper or chart paper, about 2 metres long when laid end to end",
     "a cotton handkerchief or cloth mask",
     "a measuring tape",
     "an incense stick and matches (grown-up only)"
@@ -162,80 +162,80 @@
   },
   {
    "n": 3,
-   "title": "The road through water",
-   "goal": "Find out how dirty water spreads disease, and why filtering isn't enough.",
+   "title": "Germs that travel through water",
+   "goal": "Find out how dirty water spreads disease, and why filtering is not enough.",
    "steps": [
     {
      "kind": "warmup",
      "title": "Where does our water come from?",
      "mins": 6,
-     "do": "Ask: 'Where does our drinking water come from? Where does it go after the toilet?' Trace both on the health map. Ask: 'Is there anywhere the two could meet?' (A leaking pipe, a well near a toilet pit, a flooded drain.)"
+     "do": "Ask: 'Where does our drinking water come from? Where does the water from the toilet go?' Trace both on the health map. Ask: 'Is there any place where the two could meet?' (A leaking pipe, a well near a toilet pit, or a flooded drain.)"
     },
     {
      "kind": "read",
      "title": "Story: What the Pump Remembered",
      "mins": 14,
-     "do": "Read the story aloud (Story tab). Ask the story questions. Don't explain how Snow found the pump; tomorrow your child will do it themselves."
+     "do": "Read the story aloud (Story tab). It is told by a water pump in London in 1854. Ask the story questions. Don't explain how John Snow found the pump. Tomorrow your child will work it out on a map."
     },
     {
      "kind": "exp",
      "title": "Make a water filter",
      "mins": 20,
-     "do": "Do Experiment e2: build a filter from a bottle, cloth, sand, charcoal and gravel, and find out what it can and can't do.",
+     "do": "Do Experiment e2. Build a filter from a plastic bottle, cloth, sand and small stones, and find out what it can and cannot do.",
      "ref": "e2"
     },
     {
      "kind": "talk",
      "title": "Cholera, typhoid and diarrhoea",
      "mins": 5,
-     "do": "Say: 'Cholera, typhoid and many kinds of diarrhoea spread when germs from a sick person's poo get into water or food. That's why toilets, clean water, washing hands after the toilet, and covering food save more lives than almost any medicine. Diarrhoea is still one of the biggest killers of small children in the world.' Ask: 'Which part of the story shows this?' (The baby's washing water got into the well.)"
+     "do": "Say: 'Cholera, typhoid and many kinds of diarrhoea spread when germs from a sick person's poo get into water or food. That is why toilets, clean water, washing hands after the toilet, and covering food save so many lives. Diarrhoea is still one of the biggest killers of small children in the world.' Ask: 'Where in the story did this happen?' (Water from washing the sick baby's cloths leaked into the well.)"
     }
    ],
    "need": [
     "a large plastic bottle cut in half (a grown-up cuts it)",
     "a clean cotton cloth",
-    "clean sand, gravel, crushed charcoal (from a chemist, or cooled charcoal from a chulha)",
+    "clean sand and small stones (from a hardware shop or a building site), or cotton wool and tissue paper, and a little crushed charcoal if you have it",
     "muddy water",
     "a glass"
    ],
    "prep": [
     {
-     "task": "Collect a jar of muddy water from a puddle or mix soil into tap water",
+     "task": "Stir two spoons of soil from a potted plant into a glass of tap water",
      "when": "morning"
     }
    ]
   },
   {
    "n": 4,
-   "title": "Be John Snow, and the drink that saves millions",
+   "title": "Be John Snow, and make ORS",
    "goal": "Solve an outbreak map and make ORS.",
    "steps": [
     {
      "kind": "act",
      "title": "Be John Snow",
      "mins": 17,
-     "do": "Do Activity a2: the outbreak map puzzle. Draw the grid together, then let your child find the pattern alone before you give any clue. Ask: 'Which well? What evidence convinced you? What would make you change your mind?'",
+     "do": "Do Activity a2, the outbreak map. Draw the grid together. Then let your child find the pattern alone before you give any clue. Ask: 'Which well? What evidence convinced you? What would make you change your mind?'",
      "ref": "a2"
     },
     {
      "kind": "talk",
      "title": "The doctor in the refugee camps",
      "mins": 10,
-     "do": "Tell voice v3: in 1971, in refugee camps near the India–Bangladesh border, cholera struck and there wasn't enough drip fluid. Dr Dilip Mahalanabis gave people a simple drink of salt, sugar and clean water by mouth, and far fewer died. Ask the voice question.",
+     "do": "Tell voice v3, about Dr Dilip Mahalanabis. In 1971, cholera broke out in crowded refugee camps in West Bengal, and there was not enough drip fluid. He gave patients a drink of salt, sugar and clean water by mouth, and far fewer died. Ask the voice question.",
      "ref": "v3"
     },
     {
      "kind": "act",
      "title": "Make ORS",
      "mins": 13,
-     "do": "Do Activity a1: make ORS with a grown-up, taste it and compare.",
+     "do": "Do Activity a1. Make ORS with a grown-up, and taste a sip to learn what it should taste like.",
      "ref": "a1"
     },
     {
      "kind": "think",
      "title": "Why does the body need salt and water?",
      "mins": 5,
-     "do": "Ask: 'When you have diarrhoea, what do you lose?' (Water and salts.) 'Why does ORS have sugar?' (Sugar helps the gut pull salt and water into the body.) 'Why not just drink lots of sweet juice or cola?' (Too much sugar and too little salt can make diarrhoea worse.)"
+     "do": "Ask: 'When you have diarrhoea, what does your body lose?' (Water and salts.) 'Why does ORS have sugar in it?' (Sugar helps the gut take salt and water into the body.) 'Why not just drink lots of juice or cola?' (They have too much sugar and too little salt, which can make diarrhoea worse.)"
     }
    ],
    "need": [
@@ -247,40 +247,40 @@
   },
   {
    "n": 5,
-   "title": "The road through insects",
-   "goal": "Find out how mosquitoes carry disease, and meet the doctor nobody believed.",
+   "title": "Germs carried by insects, touch and blood",
+   "goal": "Find out how mosquitoes carry disease, how some germs spread by touch and blood, and meet the doctor nobody believed.",
    "steps": [
     {
      "kind": "warmup",
      "title": "Who's biting whom?",
      "mins": 7,
-     "do": "Ask: 'Why do mosquitoes bite?' (Female mosquitoes need blood to make their eggs. Males drink plant juices.) 'Does a mosquito mean to make you ill?' (No: it's just feeding. The germ is a passenger.) Say: 'An animal that carries a germ from one host to another is called a vector.' Then hold a 2-minute court: 'The mosquito is on trial for malaria.' Your child is the mosquito's lawyer and argues for one minute; you are the judge. (A good defence: she only wanted blood for her eggs; the parasite is the real culprit, and it was in the last person she bit.)"
+     "do": "Ask: 'Why do mosquitoes bite?' (Female mosquitoes need blood to make their eggs. Males drink plant juices.) Ask: 'Does a mosquito mean to make you ill?' (No. She is only feeding. The germ is a passenger.) Say: 'An animal that carries a germ from one host to another is called a vector.' Then hold a two-minute pretend court. The mosquito is on trial for malaria. Your child speaks for the mosquito for one minute, and you are the judge. (A good defence: she needed blood for her eggs, and the parasite came from the last person she bit.)"
     },
     {
      "kind": "talk",
-     "title": "Mosquitoes and their passengers",
+     "title": "Mosquitoes, touch and blood",
      "mins": 12,
-     "do": "Say: 'Malaria is caused by a tiny parasite, a single-celled living thing that lives in our blood and in the Anopheles mosquito, which bites mostly at night. Dengue and chikungunya are viruses carried by Aedes mosquitoes, which have white stripes and bite in the daytime, and breed in clean still water: coolers, pots, tyres.' Explain the life cycle: eggs on water, wrigglers (larvae), tumblers (pupae), adults, in about a week. Ask: 'So where is the best place to stop a mosquito?' (As a wriggler, in still water, before it can fly.) Mention: in 1897, at Secunderabad, Ronald Ross found the malaria parasite inside a mosquito, and Italian scientists led by Giovanni Battista Grassi soon showed exactly which mosquitoes carry human malaria."
+     "do": "Say: 'Malaria is caused by a parasite, a tiny living being made of one cell. They live in our blood and in the Anopheles mosquito, who bites mostly at night. Dengue and chikungunya are viruses carried by Aedes mosquitoes. Aedes mosquitoes have white stripes, bite in the daytime, and lay eggs in clean still water, such as coolers, pots and tyres.' Explain the life cycle: eggs on water, wrigglers (larvae), tumblers (pupae), then adults, in about a week. Ask: 'So where is the best place to stop mosquitoes?' (As wrigglers in still water, before they can fly.) Say: 'In 1897, in Secunderabad, Ronald Ross found the malaria parasite inside a mosquito. Soon after, Italian scientists led by Giovanni Battista Grassi showed which mosquitoes carry human malaria.' Then the fourth route: 'Some germs spread by touch, like the virus that causes conjunctivitis, or eye flu. A few live in blood. HIV spreads through blood, for example on shared needles, and from a mother to her baby. HIV does not spread through hugs, shared food, toilets or mosquito bites.'"
     },
     {
      "kind": "talk",
      "title": "The mosquito man of Havana",
      "mins": 10,
-     "do": "Tell voice v1: in 1881 the Cuban doctor Carlos Finlay said a mosquito carried yellow fever. He was laughed at for nearly 20 years, until an American team tested his idea in 1900 and found he was right. Ask the voice question.",
+     "do": "Tell voice v1, about Carlos Finlay. In 1881 this Cuban doctor said that a mosquito carried yellow fever. Most doctors ignored or mocked him for nearly 20 years. In 1900 an American team tested his idea and found he was right. Ask the voice question.",
      "ref": "v1"
     },
     {
-     "kind": "outdoor",
+     "kind": "act",
      "title": "Wriggler hunt",
      "mins": 16,
-     "do": "Do Activity a3: hunt for mosquito larvae in still water around your home, look at them, then tip the water out. Add every breeding spot to the health map.",
+     "do": "Do Activity a3. Look for mosquito wrigglers in still water in and around your home, look at them closely, then pour the water away. Add every breeding spot to the health map.",
      "ref": "a3"
     }
    ],
    "need": [
     "a torch",
     "a white bowl or cup",
-    "a magnifying glass",
+    "a magnifying glass, if you have one",
     "the health map"
    ]
   },
@@ -293,24 +293,24 @@
      "kind": "warmup",
      "title": "Infectious or not?",
      "mins": 5,
-     "do": "Quick-fire: you name a disease, your child shouts 'catch' or 'don't catch'. Cold, diabetes, malaria, asthma, TB, broken arm, chickenpox, heart attack, dengue, a cavity in a tooth (trick: tooth decay is caused by bacteria, but it doesn't spread like a cold)."
+     "do": "Quick game: you name a disease and your child says 'catch' or 'don't catch'. Use: cold, diabetes, malaria, asthma, TB, broken arm, chickenpox, heart attack, dengue and tooth decay. (Tooth decay is a trick one. Bacteria cause it, but you do not catch a cavity from a friend the way you catch a cold.)"
     },
     {
      "kind": "talk",
      "title": "Diabetes, hearts, lungs and cancer",
      "mins": 15,
-     "do": "Explain simply: 'Diabetes: the body can't control the sugar in the blood, because it doesn't make enough insulin or doesn't respond to it. Some kinds start in childhood and nobody knows exactly why; the commonest kind is linked to age, family, and too little activity and too much sugary, heavy food. India has one of the largest numbers of people with diabetes in the world. Heart disease and stroke: blood vessels get narrow or blocked; smoking, too much salt, too little movement and stress make it more likely. Asthma: the airways get narrow and tight; polluted air and dust make it worse. Cancer: some of the body's own cells start growing out of control; tobacco is the biggest single cause in India.' Then make two lists with your child: 'risk factors a person can change' (tobacco, exercise, food, sleep) and 'risk factors a person can't change alone' (age, genes, the air in their city, whether they can afford fresh food, how far the nearest park is). Ask: 'Is it fair to blame someone for their illness? Who else has a part to play?'"
+     "do": "Say: 'Diabetes means the body cannot control the sugar in the blood. Insulin is a substance the body makes that lets sugar move from the blood into the cells. In diabetes, the body does not make enough insulin, or does not respond to it. One kind often starts in childhood, and nobody knows exactly why. The most common kind is linked to age, family, too little exercise and too much sugary food. India has one of the largest numbers of people with diabetes in the world.' Say: 'In heart disease and stroke, blood vessels become narrow or blocked. Smoking, too much salt and too little movement make this more likely. In asthma, the airways become narrow and tight, and dust and polluted air make it worse. In cancer, some of the body's own cells grow out of control. In India, tobacco is the biggest preventable cause of cancer.' Then make two lists with your child. One list is risk factors a person can change: tobacco, exercise, food and sleep. The other is risk factors a person cannot change alone: age, genes, the air in their city, the price of fresh food, and whether there is a safe place to walk. Ask: 'Is it fair to blame someone for their illness? Who else has a part to play?'"
     },
     {
      "kind": "talk",
      "title": "Who paid for the research?",
      "mins": 13,
-     "do": "Tell voice v4: in the 1960s and 70s, scientists argued whether sugar or fat was the bigger danger to the heart. Documents found in 2016 showed that a sugar industry group had paid Harvard scientists for a 1967 review that played down sugar. Ask the voice question. Then ask: 'When you read a health claim on a packet or an advert, what questions should you ask?' (Who says so? Who paid? How did they test it? Who's missing?)",
+     "do": "Tell voice v4. In the 1960s and 1970s, scientists argued about whether sugar or fat was the bigger danger to the heart. In 2016, old documents showed that a sugar industry group had paid Harvard scientists for a 1967 review that played down sugar. Ask the voice question. Then look at the food packet together and read what it claims. Ask: 'What questions should you ask about a health claim on a packet or an advert?' (Who says so? Who paid for the study? How did they test it?)",
      "ref": "v4"
     },
     {
      "kind": "ws",
-     "title": "Worksheet: roads and risks (stretch)",
+     "title": "Worksheet: routes and risks (stretch)",
      "mins": 12,
      "do": "Do Worksheet ws2. Let your child use the health map and their notes. Ask 'why' for every answer.",
      "ref": "ws2"
@@ -330,26 +330,26 @@
      "kind": "warmup",
      "title": "Check the map",
      "mins": 5,
-     "do": "Look at the health map: count the breeding spots, open drains and water sources your child has marked. Ask: 'Which one thing would protect the most people on our street?'"
+     "do": "Look at the health map. Count the breeding spots, open drains and water sources your child has marked. Ask: 'Which one change would protect the most people on our street?'"
     },
     {
      "kind": "talk",
      "title": "The doctor who drank the germs",
      "mins": 12,
-     "do": "Tell voice v2: for decades doctors said stomach ulcers were caused by stress and spicy food. In the 1980s, Robin Warren and Barry Marshall showed that a bacterium caused most of them; when nobody believed them, Marshall drank the bacteria. Ask the voice question. Then: 'Some cancers are also started by germs: a virus called HPV can cause cancer of the cervix, and now there's a vaccine for girls (and boys) that prevents it. In 2024 the Indian government announced it would encourage this vaccine for girls aged 9 to 14.' Ask: 'So is cancer infectious?' (Mostly no, but a few kinds are started by infections. The line is blurry.)",
+     "do": "Tell voice v2. For decades, doctors said stomach ulcers were caused by stress and spicy food. An ulcer is a sore in the lining of the stomach. In the 1980s, two Australian doctors, Robin Warren and Barry Marshall, showed that a bacterium causes most ulcers. When other doctors did not believe them, Marshall drank the bacteria. Ask the voice question. Then say: 'Some cancers are also started by germs. A virus called HPV can cause cancer of the cervix, a part of a woman's body. A vaccine now prevents this. In 2024 the Indian government said it would encourage this vaccine for girls aged 9 to 14.' Ask: 'So is cancer infectious?' (Mostly not, but a few kinds are started by infections. The line between the two groups is blurry.)",
      "ref": "v2"
     },
     {
      "kind": "talk",
      "title": "Diseases from animals",
      "mins": 13,
-     "do": "Say: 'Many human diseases began in animals: flu from birds and pigs, rabies from dogs and other mammals, Nipah from fruit bats. When forests are cut, animals are crowded, or wild animals are sold in markets, germs get more chances to jump. Doctors now talk about One Health: the health of people, animals and the environment are one.' Tell this gently: in 2018, a virus called Nipah broke out in Kozhikode, Kerala. Health workers traced every contact and isolated them, and the outbreak was stopped; a young nurse, Lini Puthussery, caught the virus while caring for patients and died, and she is remembered across India. Ask: 'Why would a nurse keep working when it's dangerous?' Ask: 'What does a bat in the forest have to do with a hospital in a town?'"
+     "do": "Say: 'Many human diseases began in animals. Some kinds of flu came from birds and pigs. Rabies comes from dogs and other mammals. Nipah comes from fruit bats. A disease that jumps from animals to people is called a zoonosis. When forests are cut, animals are crowded together, or wild animals are sold in markets, germs get more chances to jump. Doctors call this idea One Health: the health of people, animals and the environment are linked.' Then tell this gently. In 2018, Nipah broke out in Kozhikode, Kerala. Health workers traced everyone the patients had met and kept them apart, and the outbreak was stopped. A young nurse, Lini Puthussery, caught the virus while caring for patients and died. She is remembered across India. Ask: 'Why would a nurse keep working when it is dangerous?' Ask: 'How could a fruit bat in a forest lead to patients in a town hospital?'"
     },
     {
      "kind": "think",
      "title": "Worksheet: thinking like an epidemiologist (challenge)",
      "mins": 15,
-     "do": "Do Worksheet ws3. The written answers matter most; let your child argue both sides before writing.",
+     "do": "Do Worksheet ws3. The written answers matter most. Let your child argue both sides before writing.",
      "ref": "ws3"
     }
    ],
@@ -360,31 +360,31 @@
   },
   {
    "n": 8,
-   "title": "Break the chain: game, report and teach it back",
+   "title": "Break the chain: report, game and teach it back",
    "goal": "Present the health map, play the game, and teach someone else.",
    "steps": [
     {
      "kind": "do",
      "title": "Project: our street's health report",
      "mins": 15,
-     "do": "Your child finishes the health map and writes a short report: the four roads diseases could take on our street, the riskiest spot, and three things that would protect everyone (e.g. cover the water tank, clear the drain, empty coolers weekly). Talk about whom to send it to: the building society, the ward office or the panchayat. Ask: 'Who is responsible for a street's health: each family, the council, or both?'"
+     "do": "Your child finishes the health map and writes a short report. It says how diseases could spread on your street, which spot is riskiest, and three things that would protect everyone. For example: cover the water tank, clear the drain, and empty coolers every week. Decide together whom to send it to: the building association, the ward office or the panchayat. Ask: 'Who is responsible for a street's health: each family, the local council, or both?'"
     },
     {
      "kind": "game",
      "title": "Break the Chain",
      "mins": 15,
-     "do": "Play the board game g1. On each disease square, the player must name the road it takes and one way to break it.",
+     "do": "Play the board game g1. On each disease square, the player names how that disease spreads and one way to stop it.",
      "ref": "g1"
     },
     {
      "kind": "check",
      "title": "Teach it back",
      "mins": 15,
-     "do": "Your child teaches a family member the four roads diseases travel, using the map, and shows how to make ORS (talking it through; no need to make it again). Then ask the check questions. Ask what they noticed this week that surprised them most."
+     "do": "Your child teaches a family member the four routes diseases travel, using the map, and explains how to make ORS (no need to make it again). Then your child does section B of Worksheet ws1. Then ask the check questions, and ask what surprised them most this week."
     }
    ],
    "need": [
-    "the health map and report",
+    "the health map and report, and section B of worksheet ws1",
     "the printed game board, a die, counters"
    ]
   }
@@ -441,17 +441,17 @@
       },
       {
        "t": "write",
-       "p": "Your friend has diabetes. Another child says 'Don't sit near him, you'll catch it.' What would you say, and why?",
+       "p": "Your friend Lakshmi has diabetes. Another child says, 'Don't sit near her, you'll catch it.' What would you say, and why?",
        "lines": 3
       }
      ]
     ],
     [
-     "B. The four roads",
+     "B. The four routes",
      [
       {
        "t": "match",
-       "p": "Match the disease to its road.",
+       "p": "Match each disease to how it spreads.",
        "pairs": [
         [
          "cholera",
@@ -480,7 +480,7 @@
       },
       {
        "t": "mcq",
-       "p": "Which stops air germs best?",
+       "p": "Which of these best stops germs that spread through air?",
        "opts": [
         "covering coughs and opening windows",
         "drinking boiled water",
@@ -490,7 +490,7 @@
       },
       {
        "t": "mcq",
-       "p": "Which stops water germs best?",
+       "p": "Which of these best stops germs that spread through water?",
        "opts": [
         "a mask",
         "boiling or chlorinating water and using toilets",
@@ -500,7 +500,7 @@
       },
       {
        "t": "write",
-       "p": "Choose one disease. Describe its road, and one way to block it.",
+       "p": "Choose one disease. Write how it spreads, and one way to stop it spreading.",
        "lines": 3
       }
      ]
@@ -518,7 +518,7 @@
      [
       {
        "t": "sort",
-       "p": "Which protect against which road?",
+       "p": "Which route does each one block?",
        "items": [
         "mosquito net",
         "boiling water",
@@ -537,9 +537,9 @@
        "t": "mcq",
        "p": "Your filter made muddy water look clear. Is it safe to drink?",
        "opts": [
-        "yes, it's clear",
-        "not yet: germs are too small to be caught; it must be boiled or chlorinated",
-        "only in the morning"
+        "Yes, because it is clear",
+        "No. Germs are too small for the filter to catch, so it must be boiled or chlorinated",
+        "Yes, if you filter it twice"
        ],
        "a": 1
       },
@@ -564,9 +564,9 @@
        "t": "mcq",
        "p": "Aedes mosquitoes, which carry dengue, bite mostly…",
        "opts": [
-        "in the daytime",
-        "only at midnight",
-        "never"
+        "mostly in the daytime",
+        "only at night",
+        "only in winter"
        ],
        "a": 0
       }
@@ -598,7 +598,7 @@
       },
       {
        "t": "write",
-       "p": "A family can't afford fresh vegetables. Is it fair to blame them if someone gets ill? Who else could help?",
+       "p": "A family cannot afford fresh vegetables, and someone in the family becomes ill. Is it fair to blame them? Who else could help?",
        "lines": 3
       }
      ]
@@ -616,21 +616,21 @@
      [
       {
        "t": "mcq",
-       "p": "John Snow noticed brewery workers near the pump didn't get cholera. Why did that matter?",
+       "p": "John Snow, the doctor in the story, found that workers at a brewery near the pump did not get cholera. Why did that matter?",
        "opts": [
-        "they drank beer from the brewery's own water, not the pump, so it pointed to the pump",
-        "beer cures cholera",
-        "brewery workers are stronger"
+        "They drank beer and water from the brewery's own well, not from the pump. So the pump was the likely cause",
+        "Beer cures cholera",
+        "Brewery workers are stronger"
        ],
        "a": 0
       },
       {
        "t": "mcq",
-       "p": "Barry Marshall drank bacteria to prove a point. What kind of evidence is one person's experiment?",
+       "p": "Barry Marshall, an Australian doctor, drank bacteria to test his own idea. What kind of evidence is one person's experiment?",
        "opts": [
-        "perfect proof",
-        "strong but not enough alone; you need many patients and careful trials",
-        "useless"
+        "Perfect proof",
+        "Useful, but not enough alone. You need careful tests on many patients",
+        "Useless"
        ],
        "a": 1
       },
@@ -678,7 +678,7 @@
      [
       {
        "t": "write",
-       "p": "Finlay was right but was laughed at for 20 years. Then an American team got most of the credit. Why do you think that happened?",
+       "p": "Carlos Finlay was right about mosquitoes, but he was laughed at for 20 years. Then an American team got most of the credit. Why do you think that happened?",
        "lines": 4
       },
       {
@@ -714,20 +714,20 @@
    "need": [
     "a spray bottle",
     "water with a few drops of food colour",
-    "a big sheet of white chart paper or old newspaper on the floor or taped to a wall",
+    "old newspaper or chart paper, laid in a line about 2 metres long on the floor",
     "a cotton handkerchief or cloth mask",
     "a measuring tape"
    ],
    "steps": [
-    "Tape the paper to a wall or lay it on the floor. Mark distances on it: 30 cm, 60 cm, 1 m.",
-    "Stand the spray bottle (the 'sneeze') at the start and give one hard squirt towards the paper. Measure how far the coloured drops reached.",
+    "Lay the paper in a line on the floor, about 2 metres long. Mark 30 cm, 60 cm, 1 metre and 1.5 metres on it.",
+    "Stand at the start of the paper. Hold the spray bottle (the 'sneeze') at waist height, pointing along the paper, and give one hard squirt. Measure how far the coloured drops reached.",
     "Now hold the cloth tightly over the nozzle (the 'mask') and squirt again from the same place.",
-    "Compare the spots. Look at the cloth too.",
-    "Try two layers of cloth, and an elbow (your child's sleeve) in front of the nozzle."
+    "Compare the spots on the paper. Look at the cloth too.",
+    "Try two layers of cloth. Then try your child's elbow, in a sleeve, in front of the nozzle."
    ],
    "predict": "Ask: 'How far will the spray reach? How much will the cloth stop?'",
-   "observe": "Without the cloth, drops spread far and wide; through the cloth, far fewer drops get through, and the cloth is wet. Two layers stop more.",
-   "why": "Coughs and sneezes spray droplets carrying germs. Big drops fall within a metre or two; tiny ones float longer in still air. A mask or elbow catches most big drops at the source, which is why covering a cough protects the people around you more than it protects you. A spray bottle is only a model: real sneezes are faster and make even smaller droplets, which a cloth stops less well than a good medical mask. That's why fresh air matters too.",
+   "observe": "Without the cloth, drops spread far and wide. Through the cloth, far fewer drops get through, and the cloth is wet. Two layers stop more.",
+   "why": "Coughs and sneezes spray droplets that carry germs. Big drops fall within a metre or two. Tiny ones float for longer in still air. A cloth or an elbow catches most big drops where they start. That is why covering a cough protects the people around you. A spray bottle is only a model. Real sneezes are faster and make even smaller droplets, which a cloth stops less well than a good medical mask. That is why fresh air matters too.",
    "safety": "Food colour can stain: use old clothes and newspaper. Never spray at anyone's face.",
    "time": "20 min"
   },
@@ -739,19 +739,19 @@
    "need": [
     "a large plastic bottle, cut in half by a grown-up",
     "a clean cotton cloth and a rubber band",
-    "clean gravel, clean sand, crushed charcoal",
+    "clean sand and small stones, or cotton wool and tissue paper, and a little crushed charcoal if you have it",
     "muddy water",
     "a glass"
    ],
    "steps": [
     "Put the cloth over the neck of the top half and fix it with a rubber band. Turn the top half upside down into the bottom half, like a funnel.",
-    "Layer inside, from the bottom up: crushed charcoal, then sand, then gravel.",
+    "Layer inside, from the bottom up: a little crushed charcoal if you have it, then sand, then small stones. If you have no sand, use a thick layer of cotton wool, then folded tissue paper.",
     "Pour the muddy water in slowly and collect what drips out.",
     "Compare the dripped water with the muddy water in a glass held to the light."
    ],
    "predict": "Ask: 'Will the water come out clear? Will it be safe to drink?'",
-   "observe": "The water comes out much clearer, sometimes almost clear.",
-   "why": "Gravel and sand trap bits of dirt, and charcoal can hold some colours and smells. But bacteria and viruses are far smaller than the gaps between sand grains, so many germs pass straight through. Clear water can still carry cholera. To make water safe it must also be boiled (a rolling boil for at least a minute), chlorinated, or passed through a filter made specially to stop germs. Never judge water safe by its looks: that was the mistake in the Broad Street story.",
+   "observe": "The water comes out much clearer, though often still a little cloudy.",
+   "why": "Stones and sand trap bits of dirt. Charcoal can hold back some colours and smells. But bacteria and viruses are far smaller than the gaps between sand grains, so many germs pass straight through. Clear water can still carry cholera. To make water safe, boil it at a rolling boil for at least a minute, add chlorine, or use a filter made to stop germs. Never judge water by its looks. The Broad Street pump water looked clear too.",
    "safety": "Do NOT drink the filtered water. A grown-up cuts the bottle. Wash hands after handling muddy water.",
    "time": "20 min"
   }
@@ -772,10 +772,10 @@
    "steps": [
     "Wash hands with soap.",
     "Pour the cooled boiled water into the jug.",
-    "A grown-up measures exactly 6 level teaspoons of sugar and half a level teaspoon of salt, and your child stirs until they dissolve. (This is the home recipe recommended by health workers; ready ORS packets from a chemist are even better because they also contain potassium.)",
-    "Taste a sip: it should taste no saltier than tears.",
+    "A grown-up measures exactly 6 level teaspoons of sugar and half a level teaspoon of salt. Your child stirs until both dissolve. This is the home recipe that health workers teach. ORS packets from a chemist are better, because they also contain potassium and other salts.",
+    "Taste a sip. It should taste no saltier than tears.",
     "Ask: 'Why must we measure exactly?' (Too much salt or sugar can make dehydration worse.)",
-    "Throw it away after 24 hours, and know where the ORS packets are kept at home."
+    "Throw it away after 24 hours. Find out where the ORS packets are kept at home."
    ],
    "outcome": "Your child knows how to make ORS and why each part matters."
   },
@@ -789,12 +789,12 @@
     "red and blue pencils"
    ],
    "steps": [
-    "Draw a grid 10 squares wide and 10 tall: this is a town. Mark three wells: Well A at square (2,2), Well B at (5,6), Well C at (8,3). Mark a school at (7,8) and a factory at (5,8).",
-    "Mark red dots for the homes of people who fell ill: (4,5), (5,5), (6,5), (4,6), (6,6), (5,7), (4,7), (6,7), (5,4), (3,6), (7,6), (2,3) and (8,8).",
+    "Draw a grid 10 squares wide and 10 squares tall. This is a town. The first number of a square counts across, the second counts up. Mark three wells: Well A at (2,2), Well B at (5,6) and Well C at (8,3). Mark a factory at (5,8).",
+    "Mark red dots for the homes of people who fell ill: (4,5), (5,5), (6,5), (4,6), (6,6), (5,7), (4,7), (6,7), (5,4), (3,6), (7,6) and (2,3).",
     "Your child looks at the pattern and finds the well the dots crowd around (Well B).",
-    "Now add clues: the people at (2,3) say they always fetch water from Well B because it tastes nicer. The factory at (5,8) is right next to Well B, but nobody there fell ill: it has its own well. Ask: 'Do these clues make you more or less sure?' (More sure; the exceptions fit the idea.)",
+    "Now add clues. The family at (2,3) lives next to Well A, but they always fetch water from Well B because they like the taste. The factory at (5,8) is close to Well B, but nobody there fell ill, because the factory has its own well. Ask: 'Do these clues make you more sure or less sure?' (More sure. The odd cases fit the idea.)",
     "Ask: 'What would you do first?' (Close Well B, tell people to boil water, test the well and find out how dirt got into it.)",
-    "Then tell the real story: in 1854 Snow did exactly this in London, and the brewery workers who drank beer instead of pump water stayed well."
+    "Then tell the real story. In 1854 John Snow did this in London. Workers at a brewery near the pump drank beer and water from the brewery's own well, and none of them died."
    ],
    "outcome": "Your child has solved an outbreak with a map, the way the first epidemiologists did."
   },
@@ -802,22 +802,23 @@
    "id": "a3",
    "title": "Wriggler hunt",
    "day": 5,
-   "mins": 18,
+   "mins": 16,
    "need": [
     "a torch",
     "a white bowl or cup",
-    "a magnifying glass",
+    "a magnifying glass, if you have one",
     "slippers",
     "the health map"
    ],
    "steps": [
-    "With a grown-up, look in every place water stands for more than a few days: cooler trays, flowerpot saucers, old tyres, buckets, coconut shells, the water tank, the fridge drip tray, blocked gutters.",
-    "Shine the torch in. Look for tiny wrigglers that jerk up and down and hang just under the surface (larvae), and comma-shaped tumblers (pupae).",
-    "Scoop a little water into the white bowl and look closely with the magnifier.",
-    "Then tip all the water out onto dry ground or a drain, and scrub the container, because eggs can stick to the sides.",
-    "Mark every spot you found on the health map, and set a family rule: empty and scrub every container once a week."
+    "With a grown-up, check every place where water stands for more than a few days: cooler trays, flowerpot saucers, buckets, the fridge drip tray, and corners of the balcony. If you have a garden, check old tyres and coconut shells too.",
+    "Shine the torch in. Look for tiny wrigglers that jerk up and down and hang just under the surface. These are larvae. Comma-shaped ones are pupae, or tumblers.",
+    "Scoop a little water into the white bowl and look closely, with the magnifying glass if you have one.",
+    "Then pour all the water down a drain and scrub the container, because eggs can stick to the sides.",
+    "If you find no wrigglers, that is good news. Still mark the places where water stood, because mosquitoes could breed there next.",
+    "Mark every spot on the health map. Set a family rule: empty and scrub every container once a week."
    ],
-   "outcome": "A mosquito-free home this week, and a map of where mosquitoes could come back."
+   "outcome": "Your home has no mosquito breeding spots this week, and your map shows where they could come back."
   }
  ],
  "project": {
@@ -848,9 +849,9 @@
   "rules": [
    "Print the board: 26 squares in a winding path.",
    "Take turns to roll and move.",
-   "On a disease square, say which road it travels (air, water and food, insect, or touch and blood) and one way to break the chain. If you can, move forward 2; if not, stay.",
-   "On a 'chain broken' square, move forward as shown; on a 'chain made' square, move back.",
-   "First HOME wins, but every player gets to tell one way their family will break a chain this week."
+   "On a disease square, say how that disease spreads (air, water and food, insects, or touch and blood) and one way to stop it. If you can, move forward 2. If not, stay where you are.",
+   "On a good-habit square, move forward as shown. On a bad-habit square, move back.",
+   "The first player to reach HOME wins. At the end, every player names one thing their family will do this week to stop a disease spreading."
   ],
   "squares": [
    "START",
@@ -887,14 +888,14 @@
    "who": "Carlos Juan Finlay (1833–1915), Cuba",
    "idea": "In 1881 Finlay, a doctor in Havana, proposed that yellow fever, a deadly disease of the tropics, was carried from person to person by a particular mosquito, now called Aedes aegypti. Most doctors then blamed dirt, bad air or contact with the sick.",
    "then": "He presented his idea for about twenty years and was widely ignored or mocked. In 1900 a United States Army commission led by Walter Reed came to Cuba, met Finlay, used mosquitoes he had raised, and in experiments with volunteers confirmed that he was right.",
-   "now": "Finlay was right. Mosquito control then helped wipe out yellow fever in Havana and made it possible to build the Panama Canal. Reed's team became famous in the United States; Finlay was nominated for the Nobel Prize several times but never won. Cuba celebrates him, and many historians now say the credit belongs first to him.",
+   "now": "Finlay was right. Mosquito control then helped wipe out yellow fever in Havana and made it possible to build the Panama Canal. Reed's team became famous in the United States. Finlay was nominated for the Nobel Prize several times but never won. Cuba celebrates him, and many historians now say the credit belongs first to him.",
    "status": "accepted",
    "ask": "Finlay had the right idea, but Reed's team did the experiments that convinced the world. Who deserves more credit: the one with the idea, or the ones who proved it?",
    "day": 5
   },
   {
    "id": "v2",
-   "who": "Robin Warren (born 1937) and Barry Marshall (born 1951), Australia",
+   "who": "Robin Warren (1937–2024) and Barry Marshall (born 1951), Australia",
    "idea": "In the early 1980s, Warren, a pathologist, kept seeing curved bacteria in samples from people with inflamed stomachs. Marshall, a young doctor, worked with him and found that these bacteria, now called Helicobacter pylori, were present in most people with stomach ulcers. They argued that most ulcers were an infection, not caused by stress or spicy food.",
    "then": "Most doctors refused to believe that any bacterium could live in the acid of the stomach. In 1984, frustrated, Marshall drank a broth of the bacteria, became ill with stomach inflammation within days, and then treated himself with antibiotics.",
    "now": "After many careful trials, they were proved right. They won the Nobel Prize in 2005. Most stomach ulcers are now cured with antibiotics. Marshall's self-experiment is famous, but it was the careful studies of many patients that settled the question.",
@@ -905,19 +906,19 @@
   {
    "id": "v3",
    "who": "Dilip Mahalanabis (1934–2022), India",
-   "idea": "In 1971, during the Bangladesh Liberation War, millions of refugees crowded into camps near Bongaon in West Bengal, and cholera broke out. There was not enough intravenous (drip) fluid. Mahalanabis, a doctor from Kolkata, had his team give patients oral rehydration solution, clean water with salt and sugar, to drink, even letting family members give it. In camps treated other ways, about 30 in every 100 cholera patients died; in his camp, fewer than 4 in 100 did.",
+   "idea": "In 1971, during the Bangladesh Liberation War, millions of refugees crowded into camps near Bongaon in West Bengal, and cholera broke out. There was not enough intravenous (drip) fluid. Mahalanabis, a doctor from Kolkata, had his team give patients oral rehydration solution, clean water with salt and sugar, to drink, even letting family members give it. In camps treated other ways, about 30 in every 100 cholera patients died. In his camp, fewer than 4 in 100 did.",
    "then": "Many doctors then believed severe cholera could only be treated with a drip. His results, published in 1973, helped convince the world.",
-   "now": "ORS is now estimated to have saved tens of millions of lives, most of them children, and The Lancet called it one of the most important medical advances of the 20th century. Mahalanabis was little known even in India; in 2023 he was given the Padma Vibhushan after his death. Many other scientists in Dhaka and Kolkata helped develop ORS.",
+   "now": "ORS is now estimated to have saved tens of millions of lives, most of them children, and The Lancet called it one of the most important medical advances of the 20th century. Mahalanabis was little known even in India. In 2023 he was given the Padma Vibhushan after his death. Many other scientists in Dhaka and Kolkata helped develop ORS.",
    "status": "accepted",
    "ask": "A cheap drink saved more lives than many expensive medicines. Why do you think simple discoveries are sometimes ignored?",
    "day": 4
   },
   {
    "id": "v4",
-   "who": "John Yudkin (1910–1995), Britain; Ancel Keys (1904–2004), USA; and the sugar research papers",
-   "idea": "In the 1960s and 1970s, two famous nutrition scientists disagreed. Yudkin argued that sugar was a main cause of heart disease; Keys argued that saturated fat was. Keys's view won and shaped diet advice for decades. In 2016, researchers led by Cristin Kearns published old documents showing that in the 1960s a sugar industry group, the Sugar Research Foundation, had paid Harvard scientists to write a 1967 review that played down sugar's role and blamed fat.",
+   "who": "John Yudkin (1910–1995) of Britain, Ancel Keys (1904–2004) of the USA, and the sugar industry papers",
+   "idea": "In the 1960s and 1970s, two famous nutrition scientists disagreed. Yudkin argued that sugar was a main cause of heart disease. Keys argued that saturated fat was. Keys's view won and shaped diet advice for decades. In 2016, researchers led by Cristin Kearns published old documents showing that in the 1960s a sugar industry group, the Sugar Research Foundation, had paid Harvard scientists to write a 1967 review that played down sugar's role and blamed fat.",
    "then": "Yudkin was mocked and his career suffered. Diet advice told people to cut fat, and many 'low-fat' foods were filled with sugar instead.",
-   "now": "Scientists still argue about exactly how fat and sugar each affect the heart; most now agree that too much sugar, especially in drinks, is harmful, and that the whole pattern of eating matters more than any one food. The bigger lesson, everyone agrees, is that who pays for research must be made public.",
+   "now": "Scientists still argue about exactly how fat and sugar each affect the heart. Most now agree that too much sugar, especially in drinks, is harmful, and that the whole pattern of eating matters more than any one food. The bigger lesson, everyone agrees, is that who pays for research must be made public.",
    "status": "debated",
    "ask": "If a study is paid for by a company that sells the product, should we ignore it, trust it, or check it more carefully? Why?",
    "day": 6
@@ -944,23 +945,23 @@
    "Years later, long after I was gone, people put up a pump just like me near that corner, with no handle, as a reminder. Children come and look at it. They put their hands on its cold iron side.",
    "If I could, I would tell them what I learned that summer. You cannot always see it. You cannot always smell it. But you can count. You can ask at every door. And you can draw a map."
   ],
-  "epiphany": "Diseases travel along roads we can't see, and the way to find the road is to collect evidence carefully (who fell ill, where they got water) rather than trusting appearances or the popular explanation. The turn is the brewery workers and the Hampstead woman: the exceptions that only make sense if the water is the road. Underneath: clear does not mean clean; a curate who set out to prove someone wrong and changed his mind; and a town's health shared through one pump.",
+  "epiphany": "Diseases travel along routes we can't see, and the way to find the route is to collect evidence carefully (who fell ill, where they got water) rather than trusting appearances or the popular explanation. The turn is the brewery workers and the Hampstead woman: the exceptions that only make sense if the water is the route. Underneath: clear does not mean clean. A curate who set out to prove someone wrong and changed his mind. And a town's health shared through one pump.",
   "ask": [
    "Why did people keep drinking from the pump, even while people were dying?",
    "What did John Snow do differently from the doctors who blamed bad air?",
    "Why were the brewery workers and the woman in Hampstead so important to his idea?",
    "Henry Whitehead set out to prove Snow wrong. What happened? What do you think of him?",
-   "The pump says, 'You can count. You can ask every door.' What does it mean?"
+   "The pump says, 'You can count. You can ask at every door.' What does the pump mean?"
   ]
  },
  "ideas": [
   {
-   "idea": "Every infectious disease travels a road, and every road can be blocked.",
-   "more": "Air, water and food, insects, touch and blood. Name the road, then block it: masks and fresh air, boiled water and toilets, nets and empty coolers, care with blood. Use the health map to make it real."
+   "idea": "Every infectious disease spreads by a route, and every route can be blocked.",
+   "more": "The routes are air, water and food, insects, and touch and blood. Name the route, then block it: masks and fresh air, boiled water and toilets, nets and empty coolers, care with blood. The health map makes it real."
   },
   {
    "idea": "Health is shared.",
-   "more": "One leaking cesspit made a whole street ill; one cleared drain protects everyone; clean water, toilets and vaccines are public goods. The biggest falls in disease in history came from towns acting together, not only from medicines."
+   "more": "One leaking cesspit made a whole street ill. One cleared drain protects everyone. Clean water, toilets and vaccines are public goods. The biggest falls in disease in history came from towns acting together, not only from medicines."
   },
   {
    "idea": "The line between 'catching' and 'not catching' is blurry.",
@@ -986,7 +987,7 @@
   },
   {
    "q": "'Clear water is clean water.'",
-   "hint": "No. Germs are far too small to see; the Broad Street water was famous for being clear and sparkling. Only boiling, chlorinating or a germ-proof filter makes water safe. Ask: what other dangers can't we see?"
+   "hint": "No. Germs are far too small to see. The Broad Street water was famous for being clear and sparkling. Only boiling, chlorinating or a germ-proof filter makes water safe. Ask: what other dangers can't we see?"
   },
   {
    "q": "'Antibiotics cured ulcers, so stress has nothing to do with stomachs.'",
@@ -996,7 +997,7 @@
  "perspectives": [
   {
    "who": "A mosquito",
-   "view": "A female mosquito bites because she needs blood to make her eggs. She doesn't know about malaria; the parasite is a passenger using her. Only a few hundred of the 3,500 or so kinds of mosquito bite humans at all, and mosquito larvae are food for fish, frogs and dragonflies. Ask: should we wipe out mosquitoes, or just the few kinds that carry disease? What might happen if we did?"
+   "view": "A female mosquito bites because she needs blood to make her eggs. She doesn't know about malaria. The parasite is a passenger using her. Only a few hundred of the 3,500 or so kinds of mosquito bite humans at all, and mosquito larvae are food for fish, frogs and dragonflies. Ask: should we wipe out mosquitoes, or just the few kinds that carry disease? What might happen if we did?"
   },
   {
    "who": "Alice Ball (1892–1916), chemist, Hawaii",
@@ -1030,33 +1031,33 @@
    "title": "The Ghost Map",
    "author": "Steven Johnson",
    "for": "parent reads",
-   "age": "adult; read parts aloud",
+   "age": "adult. Read parts aloud",
    "why": "The full story of the Broad Street cholera outbreak, John Snow and Henry Whitehead."
   },
   {
    "title": "The Immortal Life of Henrietta Lacks",
    "author": "Rebecca Skloot",
    "for": "parent reads",
-   "age": "adult; read parts aloud",
+   "age": "adult. Read parts aloud",
    "why": "The story of the woman whose cells changed medicine, and of her family."
   }
  ],
  "check": [
   {
    "q": "What's the difference between an infectious and a non-infectious disease? Give two examples of each.",
-   "a": "Infectious: caused by germs and can spread (cold, malaria); non-infectious: doesn't spread (diabetes, asthma)."
+   "a": "Infectious: caused by germs and can spread (cold, malaria). Non-infectious: doesn't spread (diabetes, asthma)."
   },
   {
-   "q": "Name the four roads germs travel, with a disease and a protection for each.",
+   "q": "Name the four routes germs travel, with a disease and a protection for each.",
    "a": "Air (flu: cover coughs, fresh air), water and food (cholera: boil water, toilets), insects (dengue: empty still water, nets), touch and blood (HIV: never share needles)."
   },
   {
    "q": "Your filter made muddy water clear. Why isn't it safe yet?",
-   "a": "Germs are too small to be caught; it must be boiled or chlorinated."
+   "a": "Germs are too small to be caught. It must be boiled or chlorinated."
   },
   {
    "q": "How do you make ORS, and why does it work?",
-   "a": "1 litre of clean water, 6 level teaspoons of sugar, half a teaspoon of salt; sugar helps the gut take in salt and water."
+   "a": "1 litre of clean water, 6 level teaspoons of sugar, half a teaspoon of salt. Sugar helps the gut take in salt and water."
   },
   {
    "q": "How did John Snow find the source of the cholera?",
@@ -1072,7 +1073,7 @@
   },
   {
    "q": "Who was Carlos Finlay, and why does his story matter?",
-   "a": "A Cuban doctor who said mosquitoes carry yellow fever; he was ignored for 20 years and others got much of the credit."
+   "a": "A Cuban doctor who said mosquitoes carry yellow fever. He was ignored for 20 years and others got much of the credit."
   }
  ]
 }

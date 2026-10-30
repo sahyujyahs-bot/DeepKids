@@ -4,10 +4,10 @@
  "subj": "sci",
  "level": 1,
  "n": "how-we-know",
- "title": "How do we know? Noticing, testing and asking 'Says who?'",
+ "title": "How do we know? Finding out by noticing and testing",
  "source": "DeepKids Combined, The Deep End: a DeepKids topic from the founder's Grade 1 concept grid (Fringe Science: wild ideas must be tested, not just imagined). No board teaches it at this class, so there are no board subtopics to cover. No textbook needed.",
- "summary": "Your child finds out that science is not a book of answers but a way of finding out: notice, wonder, make a guess you can test, test it fairly, repeat it, and tell others. They drop heavy and light things, test whether blowing on a die brings a six, grow a mould garden, and hear how mistakes and accidents opened doors (the mould that became penicillin). They meet Mary Anning, a poor girl whose fossils changed science while others took the credit, Alfred Wegener, whose 'wild' idea of moving continents was laughed at and turned out right, and C.V. Raman, who asked 'Says who?' of a famous scientist on a ship to England. They learn three questions to ask of every claim, including ours: Says who? How do they know? Who's missing?",
- "builds_on": "This is the first rung. It needs nothing earlier except a child who asks 'why?'. Class 3 adds fair tests with controls, 'a claim that can't be wrong can't be known right', extraordinary claims, cold fusion and plate tectonics, and the people left out of discovery stories. Class 5 adds blinding, replication, the difference between bold frontier science and fringe claims, and how science checks itself.",
+ "summary": "How do you know the Moon is not following you, or that blowing on a die does not bring a six? You test it. Your child learns what scientists do: notice, ask a question, make a guess they can test, test it fairly, repeat it, and tell others. They drop a full and a nearly empty bottle together, test the 'lucky blow' on a die, and watch mould grow in sealed bags. They hear true stories: Alexander Fleming's mouldy dish that led to penicillin, Mary Anning, a poor girl whose fossils changed science while others took the credit, Alfred Wegener, who was laughed at for saying the continents move and turned out right, and C.V. Raman, who tested a famous scientist's idea about why the sea is blue. They learn three questions to ask about any claim, including ours: Says who? How do they know? Who's missing?",
+ "builds_on": "This is the first rung. It needs only a child who asks 'why?'. Class 3 adds fair tests with a control, claims that can never be tested, and the people left out of discovery stories. Class 5 adds blind tests, repeating other people's experiments, and how science checks itself.",
  "subconcepts": [
   "science is a way of finding out, not a list of answers",
   "observation: noticing carefully with all the senses",
@@ -61,7 +61,7 @@
   ],
   [
    "fossil",
-   "the remains or print of a living thing from long ago, turned to stone"
+   "the bones, shell or print of a living being from long ago, kept in rock"
   ],
   [
    "discovery",
@@ -70,6 +70,10 @@
   [
    "mould",
    "a fuzzy fungus that grows on old food"
+  ],
+  [
+   "extinct",
+   "when every one of a kind of animal or plant has died, so none are left"
   ],
   [
    "credit",
@@ -87,19 +91,19 @@
      "kind": "warmup",
      "title": "How do you know?",
      "mins": 6,
-     "do": "Ask three questions and, after each answer, ask 'How do you know?': 'Is it day or night now?' (I can see the sky is light.) 'Is the milk hot?' (I touched it, I saw steam.) 'Is there a Moon in the sky right now?' (Maybe I don't know; I'd have to look.) Say: 'Every time you said I saw, I touched, I heard, you were using evidence. Some things we know, some we guess, and some we don't know yet.' Write those three words on a big sheet: KNOW, GUESS, DON'T KNOW YET."
+     "do": "Ask three questions. After each answer, ask 'How do you know?' 'Is it day or night now?' (I can see the sky is light.) 'Is the milk hot?' (I touched the glass. I saw steam.) 'Is the Moon in the sky right now?' (I don't know. I would have to look.) Say: 'Each time you said I saw, I touched or I heard, you were using evidence. Evidence is what we can see, hear, count or measure. Some things we know, some we guess, and some we don't know yet.' Write three words on a big sheet: KNOW, GUESS, DON'T KNOW YET."
     },
     {
      "kind": "read",
      "title": "Story: The Moon That Came Along",
      "mins": 13,
-     "do": "Read the story aloud (Story tab). Then ask the story questions. Don't explain why the Moon seems to follow; ask: 'Ishaan thought the Moon was following only him. How did they find out it wasn't?' (They asked Aaji far away, and she saw it too.) 'What did the far mountain do that the near trees didn't?'"
+     "do": "Read the story aloud (Story tab). Don't explain yet why the Moon seems to follow. Ask: 'Arun thought the Moon was following only him. How did they find out it wasn't?' (They phoned Paati far away, and she saw it too.) 'The trees rushed past, but the far hill moved slowly. Why do you think that was?'"
     },
     {
      "kind": "talk",
      "title": "Know, guess, don't know yet",
      "mins": 11,
-     "do": "Say each sentence and your child points to KNOW, GUESS or DON'T KNOW YET on the sheet: 'The Sun will rise tomorrow' (know: it always has, and we know why). 'It will rain tomorrow' (guess). 'There are animals on other planets' (don't know yet: nobody knows!). 'Our cat loves us' (guess: how could we test it?). 'Ice melts in the sun' (know: we've seen it many times). Say: 'Scientists are people who move things from GUESS to KNOW by testing. And they are honest about DON'T KNOW YET.' Start a Wonder Wall: your child says three things they wonder about, and you write them on slips and stick them up (this is the start of the project)."
+     "do": "Say each sentence. Your child points to KNOW, GUESS or DON'T KNOW YET on the sheet. 'The Sun will rise tomorrow.' (Know: it has risen every day, because the Earth keeps spinning.) 'It will rain tomorrow.' (Guess.) 'There are animals on other planets.' (Don't know yet: nobody knows.) 'Our cat loves us.' (Guess: how could we test it?) 'Ice melts in the sun.' (Know: we have seen it many times.) Say: 'Scientists move things from GUESS to KNOW by testing. They are also honest about DON'T KNOW YET.' Then start the Wonder Wall project: your child says three things they wonder about. Write each on a slip and stick it on a wall or door."
     }
    ],
    "need": [
@@ -116,28 +120,28 @@
      "kind": "outdoor",
      "title": "The ten-things walk",
      "mins": 10,
-     "do": "Walk round the garden, terrace or lane for 10 minutes. Your child must notice ten things using at least four senses (the smell of wet soil, a bird call, rough bark, a line of ants). For each, ask 'What do you wonder about it?' and write one 'why' question. Say: 'This is what scientists do first: they notice. Most people walk past an ant line. A scientist stops.'"
+     "do": "Walk round your home, balcony or building for 10 minutes. Your child notices ten things, using at least four senses: the smell of the kitchen, a crow calling, a rough wall, a line of ants. For each one, ask: 'What do you wonder about it?' Write down one 'why' question for each. Say: 'To observe is to notice carefully. This is what scientists do first. Most people walk past a line of ants. A scientist stops and looks.'"
     },
     {
      "kind": "exp",
      "title": "Heavy and light: which lands first?",
      "mins": 12,
-     "do": "Do Experiment e1. First ask: 'If I drop a heavy steel ball and a light plastic ball at the same time, which will land first?' Write your child's guess: that is a hypothesis, a guess you can test. Drop them together from the same height onto a cushion, five times. Your child watches and listens for two thuds or one. Then drop a flat sheet of paper and a crumpled one. Ask: 'Was your guess right? What's different about the flat paper?' (The air pushes on it.)",
+     "do": "Do Experiment e1. First ask: 'If I drop a full bottle of water and a nearly empty one at the same time, which will land first? Why do you think so?' Write down your child's guess. A guess you can test is called a hypothesis. Drop the bottles together from shoulder height, five times. Your child listens: one thud or two? Then drop a flat sheet of paper and a crumpled one. Ask: 'Was your guess right? Why did the flat paper fall slowly?' (Air pushes up on it.)",
      "ref": "e1"
     },
     {
      "kind": "exp",
      "title": "Start the mould garden",
      "mins": 8,
-     "do": "Set up Experiment e3: put a slice of bread, a piece of roti and a piece of orange peel, each lightly dampened, in three zip bags. Seal them and tape them shut. Ask: 'What do you think will happen in a week?' Draw them as they look today. Say: 'We'll come back to these. Some of the biggest discoveries started with old, mouldy things.'",
+     "do": "Set up Experiment e3. Sprinkle a few drops of water on a slice of bread, a piece of idli and a piece of orange peel. Put each in its own zip bag, seal it and tape it shut. Ask: 'What do you think will happen in a week? Why?' Your child draws the three foods as they look today. Say: 'We will look again on Day 4 and Day 7, without opening the bags.'",
      "ref": "e3"
     }
    ],
    "need": [
-    "a heavy steel ball or a stone and a light plastic ball of similar size",
+    "two same-size plastic bottles with caps: one full of water, one with only a little water",
     "two sheets of paper",
     "a cushion",
-    "a slice of bread, a piece of roti, orange peel",
+    "a slice of bread, a piece of idli, orange peel",
     "3 zip bags and tape",
     "a few drops of water",
     "a notebook"
@@ -158,7 +162,7 @@
      "kind": "exp",
      "title": "The dice test",
      "mins": 17,
-     "do": "Do Experiment e2. Throw the die 20 times without blowing and 20 times with blowing, the same way each time, onto the same tray. Your child makes a tally mark for every six. Ask before you start: 'What must stay the same so the test is fair?' (Same die, same tray, same way of throwing. The only change is the blowing.) After 5 throws each, stop and ask: 'Can we decide now?' After 20 each, compare. Usually both get about three or four sixes, and the numbers wobble up and down.",
+     "do": "Do Experiment e2. Throw the die 20 times without blowing and 20 times with blowing, the same way each time, onto the same tray. Your child makes a tally mark for every six. Ask before you start: 'What must stay the same so the test is fair?' (Same die, same tray, same way of throwing. The only change is the blowing.) After 5 throws each, stop and ask: 'Can we decide now?' After 20 each, compare. Usually each way gets about three or four sixes, and the numbers change from one try to the next.",
      "ref": "e2"
     },
     {
@@ -183,20 +187,20 @@
      "kind": "exp",
      "title": "Mould garden check",
      "mins": 7,
-     "do": "Look at the three sealed bags from Experiment e3 without opening them. Your child draws what they see: fuzzy patches? What colours? Which food has the most? Ask: 'Where did the mould come from? We didn't put any in.' (Tiny mould spores float in the air all the time, too small to see. They landed on the food before we sealed it.)",
+     "do": "Look at the three sealed bags from Experiment e3 without opening them. Your child draws what they see. Are there fuzzy patches? What colours? Which food has the most? If nothing has grown yet, look again tomorrow. Ask: 'Where did the mould come from? We didn't put any in.' (Tiny mould spores, too small to see, float in the air all the time. They landed on the food before we sealed it.)",
      "ref": "e3"
     },
     {
      "kind": "talk",
      "title": "The mould that saved lives",
      "mins": 11,
-     "do": "Tell this true story: 'In 1928 a scientist in London, Alexander Fleming, came back from a holiday to his messy lab. He had left out little glass dishes of germs (bacteria). One dish had a blue-green mould on it, a mistake. Most people would have thrown it away. But Fleming noticed something odd: around the mould, the germs had died. He wondered why. That mould made a juice that kills germs, and it became the first antibiotic medicine, penicillin.' Then add: 'Fleming couldn't turn it into a medicine. Years later, a team in Oxford did it, with a lab helper called Norman Heatley who built the machines out of milk churns and bedpans. Who do you think should get the credit?' Ask: 'What was the mistake? What turned the mistake into a discovery?' (Noticing, and asking why.)"
+     "do": "Tell this true story. 'In 1928 a scientist in London, Alexander Fleming, came back from a holiday to his untidy lab. He had left out small glass dishes with bacteria growing in them. Bacteria are living beings too small to see, and some of them make us ill. One dish had a blue-green mould on it by mistake. Most people would have thrown it away. But Fleming noticed something odd: around the mould, the bacteria had died. He asked why. The mould made a chemical that kills bacteria. Years later it became the medicine penicillin.' Ask: 'What was the mistake? What turned the mistake into a discovery?' (Fleming noticed, and asked why.) Then add: 'Fleming could not make enough penicillin to use as a medicine. About 12 years later, a team in Oxford did it. One of them, Norman Heatley, built the equipment out of milk churns and bedpans. Who should get the credit?'"
     },
     {
      "kind": "act",
      "title": "Oops paintings",
      "mins": 12,
-     "do": "Do Activity a1: each of you drops a blob of paint on paper, folds it, opens it, and turns the accidental blob into something (a butterfly, a monster, a map). Say: 'An accident only becomes a discovery when someone notices it and asks a question.' Your child tells you what they noticed in their blot.",
+     "do": "Do Activity a1. Each of you drops a blob of paint on paper, folds the paper, presses and opens it. Turn the accidental shape into something: a butterfly, a monster, a map. Your child says one thing they noticed that they did not plan. Say: 'An accident only becomes a discovery when someone notices it and asks a question.'",
      "ref": "a1"
     }
    ],
@@ -216,14 +220,14 @@
      "kind": "talk",
      "title": "Mary Anning",
      "mins": 11,
-     "do": "Talk about voice v1. Tell it as a story: 'Mary Anning was born in 1799 in a seaside town in England called Lyme Regis. Her family was poor. She and her brother Joseph searched the crumbling cliffs for stone shells and bones to sell to tourists. When she was about 12, they dug out a whole skeleton of a giant sea creature with a long snout and huge eyes, an ichthyosaur (say ik-thee-oh-sor). People thought it was a crocodile. It wasn't: it was an animal that no longer lives anywhere. That was evidence that some kinds of animals die out for ever.' Ask the voice question. Then: 'Rich gentlemen bought her fossils and wrote about them, often without her name. She wasn't allowed to join their science club because she was a woman.' Ask: 'Who's missing from the story when only their names are written down?'",
+     "do": "Talk about voice v1. Tell it as a story: 'Mary Anning was born in 1799 in a seaside town in England called Lyme Regis. Her family was poor. She and her brother Joseph searched the crumbling cliffs for stone shells and bones to sell to visitors. In 1811 Joseph found a huge skull. About a year later Mary, aged about 12, found the rest of the skeleton. It belonged to a giant sea animal with a long snout and huge eyes, an ichthyosaur (say ik-thee-oh-sor). People thought it was a crocodile. It was not. It was a kind of animal that no longer lives anywhere: it was extinct. Finds like hers showed that whole kinds of animals can die out for ever.' Ask the voice question. Then say: 'Rich men bought her fossils and wrote about them, often without her name. She could not join the Geological Society, the club of scientists in London, because women were not allowed.' Ask: 'When only their names are written down, who is missing from the story?'",
      "ref": "v1"
     },
     {
      "kind": "act",
      "title": "Make a fossil",
      "mins": 8,
-     "do": "Press a shell, a leaf or a toy dinosaur's foot into a flat ball of atta dough or clay, lift it out, and leave the print to dry. Say: 'A fossil is often just a print like this, or bones that slowly turned to stone, kept for millions of years in mud that became rock. Mary Anning learned to read them.' Ask: 'If someone finds your fossil in a million years, what could they tell about the thing that made it? What couldn't they tell?' (Its shape and size; not its colour, its sound, whether it was kind.)"
+     "do": "Press a shell, a leaf or a toy dinosaur's foot into a flat ball of atta dough or clay, lift it out, and leave the print to dry. Say: 'A fossil is often a print like this, or bones that slowly turned to stone. They stay for millions of years in mud that became rock. Mary Anning learned to read them.' Ask: 'If someone finds your fossil in a million years, what could they tell about the thing that made it? What couldn't they tell?' (They could tell its shape and size. They could not tell its colour or its sound.)"
     },
     {
      "kind": "ws",
@@ -255,7 +259,7 @@
      "kind": "talk",
      "title": "Alfred Wegener's wild idea",
      "mins": 4,
-     "do": "Talk about voice v3, Alfred Wegener, and ask its question. Say: 'He had a wild idea. Wild ideas are welcome in science, but they must be tested. His was tested for 50 years, and it won. Most wild ideas don't.' Ask: 'What else could explain why the coasts fit?' (Coincidence, which is why he also looked for matching fossils and rocks.)",
+     "do": "Talk about voice v3, Alfred Wegener, and ask its question. Say: 'He had a wild idea. Wild ideas are welcome in science, but they must be tested. His idea was tested for about 50 years, and the evidence showed he was mostly right. Most wild ideas turn out wrong.' Ask: 'What else could explain why the coasts fit?' (It could be chance. That is why he also looked for the same fossils and rocks on both sides of the ocean.)",
      "ref": "v3"
     },
     {
@@ -269,7 +273,7 @@
      "kind": "game",
      "title": "True, False or Scientists Disagree?",
      "mins": 14,
-     "do": "Play the card game (g1). Each player takes a card, reads it (or you read it), and puts it on TRUE, FALSE or SCIENTISTS DISAGREE / NOBODY KNOWS. Before turning it over they must say how they know or how someone could find out. Turn it over. Talk about the surprises: dinosaurs aren't all gone (birds are dinosaurs), and whether trees talk is still argued about.",
+     "do": "Play the card game (g1). Each player takes a card, reads it (or you read it), and puts it under TRUE, FALSE or SCIENTISTS DISAGREE OR DON'T KNOW. Before turning it over, they say how they know, or how someone could find out. Turn it over. Talk about the surprises: some dinosaurs are still alive, because birds are dinosaurs, and scientists still argue about whether trees talk.",
      "ref": "g1"
     }
    ],
@@ -280,7 +284,7 @@
    ],
    "prep": [
     {
-     "task": "Print a world map and the True/False cards; cut the cards out",
+     "task": "Print a world map and the game cards, and cut the cards out",
      "when": "night before"
     }
    ]
@@ -421,7 +425,7 @@
         "it will rain tomorrow",
         "there is life on other planets",
         "ice melts in the sun",
-        "my cat dreams"
+        "the Moon will be in the sky tonight"
        ],
        "cats": [
         "know",
@@ -441,7 +445,7 @@
       },
       {
        "t": "write",
-       "p": "Mary Anning found the fossils, but other people wrote about them. Why do you think that was unfair?",
+       "p": "Mary Anning found the fossils, but rich men wrote about them, often without her name. Was that fair? Why or why not?",
        "lines": 2
       }
      ]
@@ -459,9 +463,9 @@
      [
       {
        "t": "mcq",
-       "p": "Riya says, 'My plant grows better when I sing to it.' Which test is fairest?",
+       "p": "Meenakshi, a girl in Class 1, says, 'My tulsi plants grow better when I sing to them.' Which test is fairest?",
        "opts": [
-        "sing to one plant and not to another, same pot, same water, same sunlight",
+        "two tulsi plants in the same size pots, with the same water and sunlight: sing to one and not the other",
         "sing to a big plant and look at a small one",
         "ask her friend"
        ],
@@ -487,11 +491,11 @@
       },
       {
        "t": "mcq",
-       "p": "A heavy ball and a light ball of the same size are dropped together. They…",
+       "p": "A full bottle of water and a nearly empty bottle of the same size are dropped together. They…",
        "opts": [
-        "land at almost the same time",
-        "the heavy one lands much, much sooner",
-        "the light one floats"
+        "land at the same time",
+        "the full one lands much sooner",
+        "the nearly empty one floats down slowly"
        ],
        "a": 0
       }
@@ -636,7 +640,7 @@
       },
       {
        "t": "write",
-       "p": "Your Nani says the crows cawing means guests are coming. How could you test it? What would you count?",
+       "p": "Your Paati (grandmother) says that when a crow caws at the door, guests are coming. How could you test it? What would you count?",
        "lines": 3
       },
       {
@@ -656,22 +660,22 @@
    "day": 2,
    "question": "Do heavy things fall faster than light things?",
    "need": [
-    "a heavy ball (steel, or a smooth stone) and a light ball of about the same size",
+    "two same-size plastic bottles with caps: one full of water, one with only a little water",
     "two sheets of paper",
     "a cushion"
    ],
    "steps": [
-    "Your child writes or says their guess.",
-    "Stand on the floor (not a chair) and hold both balls at the same height, about as high as your shoulders.",
+    "Your child says their guess and why. Write it down.",
+    "Stand on the floor, not a chair. Hold one bottle in each hand over the cushion, both at the same height, about as high as your shoulders.",
     "Let go at exactly the same moment over the cushion. Listen: one thud or two?",
-    "Repeat five times, taking turns to drop and to watch.",
+    "Do it five times, taking turns to drop and to watch, because one try can be a fluke.",
     "Now drop a flat sheet of paper and a crumpled sheet of paper together.",
-    "Drop a flat sheet and a heavy book together, then put the flat sheet on top of the book and drop them."
+    "Last, put the flat sheet on top of a book and drop the book. Watch the sheet."
    ],
-   "predict": "Ask: 'Which will land first, the heavy ball or the light ball? How much sooner?'",
-   "observe": "The two balls land at almost the same moment. The crumpled paper falls much faster than the flat sheet. A sheet resting on top of a book falls with the book.",
-   "why": "Gravity pulls on heavy things more, but heavy things are also harder to get moving, and the two effects cancel out, so without air everything falls at the same speed. Air pushes back on falling things (air resistance). It hardly matters for balls, but a flat sheet of paper catches a lot of air and floats down. On top of the book, the book pushes the air away. In 1971 an astronaut on the Moon, where there is no air, dropped a hammer and a feather together and they landed at the same time.",
-   "safety": "Drop from standing height onto a cushion, away from toes and glass. Don't climb on furniture.",
+   "predict": "Ask: 'Which will land first, the full bottle or the nearly empty one? Why do you think so?'",
+   "observe": "The two bottles land at the same moment, with one thud. The crumpled paper falls much faster than the flat sheet. The sheet on top of the book falls with the book.",
+   "why": "Gravity is the force that pulls things down towards the Earth. It pulls harder on the full bottle. But the full bottle is also harder to get moving. The two cancel out, so both bottles fall at the same speed. Air pushes up on falling things. This is called air resistance. It hardly slows a bottle, but a flat sheet catches a lot of air and floats down. On top of the book, the book pushes the air out of the way. In 1971 the astronaut David Scott dropped a hammer and a feather together on the Moon, where there is no air. They landed at the same time.",
+   "safety": "Drop from standing height onto a cushion, away from toes and glass. Keep the caps tight. Don't climb on furniture.",
    "time": "12 min"
   },
   {
@@ -692,7 +696,7 @@
     "Compare the totals. If you have time, do 20 more of each and add them up."
    ],
    "predict": "Ask: 'Will blowing give us more sixes? How many sixes do you expect out of 20 throws?'",
-   "observe": "Both ways usually give about three or four sixes in 20 throws, but it wobbles: sometimes one, sometimes six. After only 5 throws the results can look very different; after 40 they get closer.",
+   "observe": "Both ways usually give about three or four sixes in 20 throws, but it changes: sometimes one, sometimes six. After only 5 throws the results can look very different. After 40 they get closer.",
    "why": "A fair die has six faces, so each face comes up about one time in every six throws, whatever you do before throwing. Small numbers of throws can look 'lucky' just by chance, which is why scientists repeat tests many times before deciding. Testing a belief fairly, instead of arguing about it, is the heart of science.",
    "safety": "",
    "time": "17 min"
@@ -703,7 +707,7 @@
    "day": 2,
    "question": "Where does mould grow, and where does it come from?",
    "need": [
-    "a slice of bread, a piece of roti, a piece of orange peel",
+    "a slice of bread, a piece of idli, a piece of orange peel",
     "3 zip bags",
     "sticky tape",
     "a few drops of water"
@@ -712,11 +716,11 @@
     "Sprinkle a few drops of water on each food.",
     "Put each in its own zip bag, seal it, and tape the seal shut.",
     "Label the bags and leave them in a warm, dark cupboard.",
-    "Draw the food on Day 2, Day 4 and Day 7. Never open the bags.",
+    "Draw the food on Day 2, Day 4 and Day 7. Never open the bags. In cool weather the mould may take a few more days.",
     "On Day 7, throw the bags in the bin still sealed."
    ],
    "predict": "Ask: 'Will anything grow? Which food will grow the most?'",
-   "observe": "Fuzzy patches of white, green, blue-green or black mould appear, usually first on the bread. They spread and change colour.",
+   "observe": "In a few days, fuzzy patches of white, green, blue-green or black mould appear. They spread and change colour.",
    "why": "Moulds are fungi. Their spores, far too small to see, float in the air everywhere and land on food. With water, warmth and food, they grow into the fuzzy threads you see. One blue-green mould, Penicillium, makes a chemical that kills some bacteria: Alexander Fleming noticed this in 1928, and it became the medicine penicillin.",
    "safety": "Never open the bags or sniff the mould: the spores can make people ill, especially anyone with asthma or allergies. Throw them away sealed. Wash hands after handling.",
    "time": "8 min, then 3 short checks over 5 days"
@@ -765,8 +769,8 @@
   {
    "id": "v1",
    "who": "Mary Anning (1799–1847), England",
-   "idea": "A poor, self-taught fossil hunter from Lyme Regis. With her brother Joseph she uncovered the first ichthyosaur skeleton to be recognised (about 1811–1812), and later the first nearly complete plesiosaur (1823). Her finds were key evidence that some kinds of animals had gone extinct, and that Earth's past was very long.",
-   "then": "Rich collectors and scientists bought her fossils and wrote about them, often without naming her. As a woman she could not join the Geological Society of London. When she found the plesiosaur, the famous French scientist Georges Cuvier at first thought it might be a fake, because its neck was so long; when he looked closely, he agreed it was real.",
+   "idea": "A poor fossil hunter from Lyme Regis who taught herself. With her brother Joseph she found the first ichthyosaur skeleton to be correctly identified (about 1811 to 1812), and later the first nearly complete plesiosaur (1823). Her finds were key evidence that some kinds of animals had gone extinct, and that the Earth's past was very long.",
+   "then": "Rich collectors and scientists bought her fossils and wrote about them, often without naming her. As a woman she could not join the Geological Society of London. When she found the plesiosaur, the famous French scientist Georges Cuvier at first thought it might be a fake, because its neck was so long. When he looked closely, he agreed it was real.",
    "now": "She is now remembered as one of the great fossil hunters. In 2010 the Royal Society named her among the most influential British women in science, and in 2022 a statue of her was put up in Lyme Regis after a campaign started by a schoolgirl.",
    "status": "accepted",
    "ask": "Cuvier thought the plesiosaur might be fake. What should he do before deciding: trust his feeling, trust Mary, or look at the bones?",
@@ -777,7 +781,7 @@
    "who": "C.V. Raman (1888–1970), India",
    "idea": "In 1921, on a ship to England, Raman looked at the deep blue Mediterranean Sea. The famous scientist Lord Rayleigh had said the sea is blue mainly because it reflects the blue sky. Raman used a small prism that blocks reflected light, looked at the water, and it was still blue. He decided that water itself scatters light and makes the blue.",
    "then": "He published his idea in 1921. It led him and his student K.S. Krishnan to a new discovery about how light scatters, the Raman effect, in 1928.",
-   "now": "Scientists agree that the sea's blue comes mostly from the water itself, which soaks up red light, and partly from scattering and the sky's reflection. Raman won the Nobel Prize in 1930. Krishnan, who did much of the work with him, was not included.",
+   "now": "Scientists agree that the sea's blue comes mostly from the water itself, which soaks up red light, and partly from scattering and the sky's reflection. Raman won the Nobel Prize in 1930. Krishnan, who worked with him on the discovery, was not included.",
    "status": "accepted",
    "ask": "Raman checked an idea from a very famous scientist. Is it rude to test what a famous person says? Why or why not?",
    "day": 6
@@ -812,15 +816,15 @@
   },
   {
    "q": "How did a messy mistake help Alexander Fleming?",
-   "a": "Mould grew on his dish by accident; he noticed the germs around it had died, asked why, and found penicillin."
+   "a": "Mould grew on his dish by accident. He noticed that the bacteria around it had died, asked why, and found penicillin."
   },
   {
    "q": "Who was Mary Anning and why do we tell her story?",
-   "a": "A poor girl in England who found giant fossils that showed some animals had died out for ever; others often took the credit and she was not allowed into the science club."
+   "a": "A poor girl in England who found giant fossils. They showed that some kinds of animals had died out for ever. Others often took the credit, and she was not allowed to join the scientists' club."
   },
   {
    "q": "Should we believe every wild idea? What should we do?",
-   "a": "No: we should test it. Some wild ideas, like Wegener's moving continents, turn out right; most turn out wrong."
+   "a": "No: we should test it. Some wild ideas, like Wegener's moving continents, turn out right. Most turn out wrong."
   }
  ],
  "project": {
@@ -849,7 +853,7 @@
    "scissors"
   ],
   "rules": [
-   "Put the three category cards face up in a row: TRUE, FALSE and SCIENTISTS DISAGREE / NOBODY KNOWS. Shuffle the other cards face down.",
+   "Put the three category cards face up in a row: TRUE, FALSE and SCIENTISTS DISAGREE OR DON'T KNOW. Shuffle the other cards face down.",
    "On your turn, take the top card and read it (a grown-up can read for younger players).",
    "Put it under the category you think is right, and say how you know, or how someone could find out.",
    "Turn it over. If you are right, keep it. If not, put it at the bottom of the pile.",
@@ -867,7 +871,7 @@
    },
    {
     "job": true,
-    "front": "SCIENTISTS DISAGREE / NOBODY KNOWS"
+    "front": "SCIENTISTS DISAGREE OR DON'T KNOW"
    },
    {
     "front": "The Earth is shaped like a ball.",
@@ -935,7 +939,7 @@
    },
    {
     "front": "Rats and humans are cousins.",
-    "back": "TRUE: all mammals share ancestors; all living things are related"
+    "back": "TRUE: all mammals share ancestors, and all living things are related"
    },
    {
     "front": "There are about as many bacteria living in and on you as there are cells in your body.",
@@ -943,11 +947,11 @@
    },
    {
     "front": "Plants feel pain.",
-    "back": "SCIENTISTS DISAGREE: plants sense touch and damage and send signals; whether they feel anything, nobody knows"
+    "back": "SCIENTISTS DISAGREE: plants sense touch and damage, and send warning signals through their bodies. Some scientists call this feeling. Others say pain needs a brain."
    },
    {
     "front": "Trees talk to each other through fungi in the soil.",
-    "back": "SCIENTISTS DISAGREE: fungi link roots and pass some food and signals; how much trees 'talk' is argued about"
+    "back": "SCIENTISTS DISAGREE: fungi link the roots of trees and pass some food and signals between them. How much trees 'talk' is argued about."
    },
    {
     "front": "The universe has an edge you could reach.",
@@ -955,7 +959,7 @@
    },
    {
     "front": "There is life on other planets.",
-    "back": "NOBODY KNOWS YET"
+    "back": "DON'T KNOW: nobody knows yet"
    },
    {
     "front": "Space between faraway galaxies is stretching.",
@@ -963,7 +967,7 @@
    },
    {
     "front": "Animals dream.",
-    "back": "SCIENTISTS DISAGREE: many animals' brains do in sleep what ours do when we dream, but nobody knows what they experience"
+    "back": "SCIENTISTS DISAGREE: in sleep, many animals' brains do what ours do when we dream. Many scientists think they dream. What they see, nobody knows."
    }
   ]
  },
@@ -985,7 +989,7 @@
   },
   {
    "q": "Fleming discovered penicillin all by himself. True?",
-   "hint": "Fleming noticed the mould in 1928, but he could not make enough of it to use as a medicine. In Oxford, Howard Florey, Ernst Chain and the lab helper Norman Heatley made it work about 12 years later, and a lab worker in America, Mary Hunt, found a mouldy melon at a market that grew much more of it. Fleming, Florey and Chain shared the Nobel Prize; Heatley and Hunt did not. Ask: who else should be in the story?"
+   "hint": "Fleming noticed the mould in 1928, but he could not make enough of it to use as a medicine. In Oxford, Howard Florey, Ernst Chain and the lab helper Norman Heatley made it work about 12 years later. A lab worker in America, Mary Hunt, found a mouldy melon at a market, and its mould made much more penicillin. Fleming, Florey and Chain shared the Nobel Prize. Heatley and Hunt did not. Ask: who else should be in the story?"
   }
  ],
  "perspectives": [
@@ -995,7 +999,7 @@
   },
   {
    "who": "A dog",
-   "view": "A dog finds out about the world mainly through its nose: who walked by, what they ate, how they felt. It 'knows' things we can't. Ask: is smelling a kind of evidence? What do we miss because we use mostly our eyes?"
+   "view": "A dog finds out about the world mainly through their nose: who walked by, and what they ate. They know things we can't. Ask: is smelling a kind of evidence? What do we miss because we use mostly our eyes?"
   },
   {
    "who": "A detective",
@@ -1009,47 +1013,47 @@
  "story": {
   "title": "The Moon That Came Along",
   "text": [
-   "The night bus from Pune to Kolhapur smelled of oranges, diesel and somebody's jasmine. Ishaan had the window seat because he was six and his sister Tara was nine, and Amma said that was the rule, though Tara said it was a rule that had been invented on the spot.",
-   "The bus roared out of the city, past the last petrol pump and the last chai stall, and the dark came up on both sides. Then Ishaan saw it. A huge, round, white Moon, sitting just above the hills.",
+   "The night bus from Chennai to Madurai smelled of oranges, diesel and somebody's jasmine. Arun had the window seat because he was six and his sister Kavya was nine. Amma said that was the rule. Kavya said Amma had made the rule up on the spot.",
+   "The bus left the city, past the last petrol pump and the last tea stall, and the dark came up on both sides. Then Arun saw it. A huge, round, white Moon sat just above the hills.",
    "He watched it for a long time. The bus went round a bend. The Moon came too. The bus climbed a slope. The Moon climbed with it. The bus stopped at a red light in a small town where one dog was asleep in the road, and the Moon stopped, and waited.",
-   "'Tara,' he whispered. 'The Moon is following me.'",
-   "Tara did not look up from her book. 'It's following me,' she said. 'I'm older.'",
+   "'Akka,' he whispered. 'The Moon is following me.'",
+   "Kavya did not look up from her book. 'It's following me,' she said. 'I'm older.'",
    "'It's following me. It stopped when we stopped. I saw.'",
    "'You can't both be right,' said Amma sleepily from the seat in front. 'Unless you are.'",
    "This was the kind of thing Amma said, and it was very annoying.",
-   "Ishaan pressed his nose to the glass. The trees beside the road rushed past, whoosh, whoosh, whoosh, gone before he could count them. The electric poles flicked by like the ticks of a clock. But far away, a long dark mountain with one light on top did not rush. It slid along slowly, almost keeping up with the bus. And the Moon did not move at all. It just came along.",
-   "Tara had put her book down. She was watching too.",
-   "'Here's a test,' she said, because she had just learned about tests at school and she said it a lot now. 'If the Moon is following you, then when you close your eyes it won't know where you are.'",
-   "Ishaan closed his eyes and counted to twenty. When he opened them, the Moon was right there, exactly where it had been, as if it had been politely waiting.",
+   "Arun pressed his nose to the glass. The trees beside the road rushed past, whoosh, whoosh, whoosh, gone before he could count them. The electric poles flicked by like the ticks of a clock. But far away, a long dark hill with one light on top did not rush. It slid along slowly. And the Moon did not move at all. It just came along.",
+   "Kavya had put her book down. She was watching too.",
+   "'Here's a test,' she said, because she had just learned about tests at school. 'If the Moon is following you, then when you close your eyes it won't know where you are.'",
+   "Arun closed his eyes and counted to twenty. When he opened them, the Moon was right there, exactly where it had been.",
    "'That proves it,' he said. 'It likes me.'",
-   "'That proves nothing,' said Tara. 'Let's do another test.' She took Amma's phone, which she was not supposed to do, and called Aaji.",
-   "Aaji lived in Nagpur, which was very, very far, a whole night's train away in the other direction. She answered on the second ring, because she never slept before eleven.",
-   "'Aaji,' said Tara. 'Go outside and look at the sky. Is there a Moon?'",
-   "They heard the creak of Aaji's terrace door and the slap of her chappals on the steps and the far-off sound of somebody's television. Then Aaji's voice came back, soft with wonder.",
+   "'That proves nothing,' said Kavya. 'Let's do another test.' She took Amma's phone, which she was not supposed to do, and called Paati.",
+   "Paati lived in Hyderabad, a whole night's train away in the other direction. She answered on the second ring, because she never slept before eleven.",
+   "'Paati,' said Kavya. 'Go outside and look at the sky. Is there a Moon?'",
+   "They heard the creak of Paati's terrace door, the slap of her chappals on the steps and somebody's television far off. Then Paati's voice came back, soft and surprised.",
    "'Oh,' she said. 'Yes. It's big tonight. Round and white, just over the water tank. I'm sitting on my chair and it is sitting with me.'",
-   "Ishaan stared at the Moon outside the bus window. Then he stared at the phone.",
+   "Arun stared at the Moon outside the bus window. Then he stared at the phone.",
    "'But it's here,' he said. 'It's with me.'",
-   "'It's with me too,' said Aaji.",
-   "Nobody said anything for a while. The bus hummed. The trees went whoosh, whoosh. The far mountain slid slowly. The Moon did not move at all.",
-   "Ishaan thought about the trees, which were close, and rushed. And the mountain, which was far, and slid. And the Moon, which did not move even a little.",
-   "'Tara,' he said slowly. 'What if the things that are close go fast, and the things that are far go slow, and the Moon is so far away that it doesn't go at all?'",
-   "Tara opened her mouth to say something clever, and closed it again.",
-   "'So far,' said Ishaan, 'that it can be with me, and with Aaji, and with that dog in the road, all at the same time.'",
-   "'That's a hypothesis,' said Tara at last. 'That's a guess you can test.' But she said it in a different voice, a quieter one, not the voice for winning.",
-   "For a moment Ishaan felt a little sad. He had liked the Moon being his. It had felt like a secret friend. Then he looked at the phone, where Aaji's face was a small bright square, her silver hair lit up by the very same light that was coming through the bus window and landing on his hands.",
-   "'Aaji,' he said. 'Can you see it now?'",
+   "'It's with me too,' said Paati.",
+   "Nobody said anything for a while. The bus hummed. The trees went whoosh, whoosh. The far hill slid slowly. The Moon did not move at all.",
+   "Arun thought about the trees, which were close and rushed past. He thought about the hill, which was far and slid slowly. And he thought about the Moon, which did not move even a little.",
+   "'Akka,' he said slowly. 'What if close things seem to go fast, and far things seem to go slow, and the Moon is so far away that it doesn't seem to move at all?'",
+   "Kavya opened her mouth to say something clever, and closed it again.",
+   "'So far away,' said Arun, 'that it can be with me, and with Paati, and with that dog in the road, all at the same time.'",
+   "'That's a hypothesis,' said Kavya at last. 'A guess you can test.' But she said it in a quieter voice, not the voice for winning.",
+   "For a moment Arun felt a little sad. He had liked the Moon being his, like a secret friend. Then he looked out at the Moon again, and thought of Paati on her terrace, looking at the very same Moon.",
+   "'Paati,' he said. 'Can you see it now?'",
    "'I can see it.'",
    "'I'm looking at it too,' he said. 'So we're looking at the same thing.'",
-   "'We are,' said Aaji.",
-   "They stayed on the phone a long time, not talking much, an old woman on a terrace in Nagpur and a small boy on a bus near Satara and his sister, who had given up being older for one night, all three of them looking up.",
-   "The Moon came along, all the way to Kolhapur, and all the way to everywhere."
+   "'We are,' said Paati.",
+   "They stayed on the phone a long time, not talking much: an old woman on a terrace in Hyderabad, and a small boy and his sister on a bus near Tiruchirappalli, all three of them looking up.",
+   "The Moon came along, all the way to Madurai."
   ],
-  "epiphany": "For the parent: the story turns twice. First, Ishaan's belief is tested with someone else's evidence: Aaji, far away, sees the Moon 'following' her too, so it cannot be following only him. Then he notices that near things rush past and far things slide slowly, and guesses that the Moon is so far away it doesn't seem to move at all. That is a real explanation (it is called parallax), reached by noticing and guessing, and it is a hypothesis he could test. The loss of the Moon as 'his' becomes something shared: the same light on everyone.",
+  "epiphany": "For the parent: the story turns twice. First, Arun's belief is tested with someone else's evidence: Paati, far away, sees the Moon 'following' her too, so it cannot be following only him. Then he notices that near things rush past and far things slide slowly, and guesses that the Moon is so far away that it hardly seems to move. That is a real explanation, called parallax, reached by noticing and guessing, and it is a hypothesis he could test. He also finds that the Moon is not his alone: everyone under the sky sees the same Moon.",
   "ask": [
-   "Ishaan thought the Moon was following only him. What evidence changed his mind?",
-   "Why did the trees rush past but the mountain slide slowly?",
-   "Tara said 'That's a hypothesis.' What was the guess, and how could you test it on your next car or bus ride?",
-   "How did Ishaan feel when he found out the Moon wasn't only his? Did the feeling change?",
+   "Arun thought the Moon was following only him. What evidence changed his mind?",
+   "Why did the trees rush past but the hill slide slowly?",
+   "Kavya said 'That's a hypothesis.' What was the guess, and how could you test it on your next car or bus ride?",
+   "How did Arun feel when he found out the Moon wasn't only his? Did the feeling change?",
    "Who else in the whole world might have been looking at the same Moon that night?"
   ]
  },
@@ -1060,11 +1064,11 @@
   },
   {
    "idea": "Evidence beats 'because I said so', even from famous people.",
-   "more": "Raman tested Lord Rayleigh's idea; Mary Anning's bones beat the experts' doubts. Teach the three questions with hand signs: Says who? How do they know? Who's missing? And invite your child to ask them of you."
+   "more": "Raman tested Lord Rayleigh's idea, and Mary Anning's bones beat the experts' doubts. Teach the three questions with hand signs: Says who? How do they know? Who's missing? And invite your child to ask them of you."
   },
   {
    "idea": "Mistakes and wild ideas can be doors, if someone notices and tests them.",
-   "more": "Fleming's messy dish became penicillin; Wegener's 'silly' idea became plate tectonics. But most wild ideas turn out wrong, so they must be tested, not just believed."
+   "more": "Fleming's messy dish became penicillin. Wegener's 'silly' idea became the science of moving plates. But most wild ideas turn out wrong, so they must be tested, not just believed."
   },
   {
    "idea": "The story of a discovery is also a story of who was left out.",

@@ -4,20 +4,20 @@
  "subj": "sci",
  "level": 2,
  "n": "what-is-real",
- "title": "Real, pretend and in between: dreams, senses and other worlds",
+ "title": "Real or pretend? What our senses show and what they miss",
  "source": "DeepKids Combined, The Deep End. A pure DeepKids topic built from the founder's Grade 1–5 concept grid ('Reality' and 'Consciousness, awareness, subjective experience', Grades 1–2); no board teaches it at primary level, so there are no board subtopics to cover. No textbook needed.",
- "summary": "Your child asks the oldest question there is: what is real? They keep a dream journal and meet the boy whose darting eyes revealed dreaming sleep, catch their own senses disagreeing, make an illusion spin into life, and find real things that no eye can see, from air to the ultraviolet road signs bees follow on flowers. They meet camouflage, mirages and echoes, test whether they recognise themselves in a mirror and whether animals do, and puzzle over a tower whose every block has been swapped. They find that 'real' is bigger than 'what I can see', that every being lives in its own world of senses, and that some of these questions are still wide open.",
- "builds_on": "This is the first rung of this Deep End topic. It builds on what children already know from Class 1 senses work (five senses, light and shadows) and from their own dreams. Class 4 climbs much further: Plato's cave, how the brain builds what we see (the blind spot), the 'what it feels like' question, theories of consciousness, the ship of Theseus in full, and whether the world could be a simulation.",
+ "summary": "While you dream, the dream feels real. So how do you know what is real when you are awake? Your child keeps a dream journal and learns what scientists found out about dreaming sleep. They feel one bowl of water as warm and cold at the same time, measure two lines that look different but are the same, and spin a card that puts a bird inside a cage. They find real things no eye can see, such as air and the ultraviolet patterns bees see on flowers. They learn how camouflage and mimicry keep animals alive, test who knows their own face in a mirror, and argue about a broom with a new handle and new bristles. Some of these questions are still open, and the lesson says so.",
+ "builds_on": "This is the first rung of this topic. It builds on the Class 1 senses lesson (the five senses) and on the child's own dreams. Class 4 goes much further: Plato's cave, how the brain builds what we see (the blind spot), what it is like to see red, theories of consciousness, and whether the world could be a simulation.",
  "goals": [
   "By the end your child can sort things into real, pretend and puzzling, and give a reason for each.",
   "By the end your child can explain that dreams feel real, that dreaming sleep (REM) shows in darting eyes, and suggest one way to test whether they are awake.",
   "By the end your child can show, with the three bowls and an illusion, that our senses and brain make guesses that can be wrong.",
   "By the end your child can give examples of real things we cannot sense (air, ultraviolet, very low and very high sounds) and say which animals can sense them.",
-  "By the end your child can explain camouflage, mimicry, reflections, mirages and echoes as tricks of light and sound.",
+  "By the end your child can explain how camouflage and mimicry help animals stay alive, and how reflections, mirages and echoes happen.",
   "By the end your child can describe the mirror test, say why scientists argue about it, and give their own view on whether a broom with all-new parts is the same broom."
  ],
  "words": [
-  ["real", "there whether or not you think about it; others can check it too"],
+  ["real", "there whether or not you think about it, and other people can check it too"],
   ["pretend", "made up, in play, a story or the mind"],
   ["dream", "a story your brain makes while you sleep, which feels real at the time"],
   ["REM sleep", "rapid eye movement sleep: the part of sleep when the eyes dart under the lids and dreams are most common"],
@@ -26,7 +26,7 @@
   ["ultraviolet", "a kind of light just beyond violet that bees can see and we cannot"],
   ["camouflage", "looking like your background so you are not seen"],
   ["mimicry", "looking like another, often dangerous, animal or thing"],
-  ["mirage", "a shimmer that looks like water on a hot road; the light is real, the water is not there"],
+  ["mirage", "a shimmer on a hot road that looks like water. The light is real, but no water is there."],
   ["aware", "noticing, and knowing that you are noticing"],
   ["reflex", "something your body does by itself, before you choose, like blinking"]
  ],
@@ -53,14 +53,14 @@
      "kind": "talk",
      "title": "The man who dreamed he was a butterfly",
      "mins": 10,
-     "do": "Tell voice v1, Zhuangzi's butterfly dream, slowly, as a story: 'Long ago in China, a thinker called Zhuangzi dreamed he was a butterfly, fluttering happily, not knowing he was a man at all. Then he woke up, and he was Zhuangzi, lying in bed. And he wondered: am I a man who dreamed I was a butterfly, or am I a butterfly now dreaming that I am a man?' Then dance it: put on slow music; your child is a butterfly floating in slow motion around the room. When you clap and say 'wake up!', they freeze and become themselves. Ask v1's question. Good answers: 'I can pinch myself', 'I can read words twice and they stay the same', 'other people remember the same things I do'. Say: 'Those are good tests. Philosophers still argue about this puzzle.'",
+     "do": "Tell voice v1, Zhuangzi's butterfly dream, slowly, as a story: 'Long ago in China, a thinker called Zhuangzi dreamed he was a butterfly, fluttering happily, not knowing he was a man at all. Then he woke up, and he was Zhuangzi, lying in bed. And he wondered: am I a man who dreamed I was a butterfly, or am I a butterfly now dreaming that I am a man?' Then dance it. Put on slow music. Your child is a butterfly floating in slow motion around the room. When you clap and say 'wake up!', they freeze and become themselves. Ask v1's question. Good answers: 'I can pinch myself', 'I can read words twice and they stay the same', 'other people remember the same things I do'. Say: 'Those are good tests. Philosophers still argue about this puzzle.'",
      "ref": "v1"
     },
     {
      "kind": "do",
      "title": "Start a dream journal",
      "mins": 10,
-     "do": "Do Activity a1. Give your child a small notebook as their dream journal. Today they draw last night's dream (or any dream they remember) and you write one line they dictate under it. Keep it by the bed with a pencil. Say: 'Dreams run away fast in the morning, like water through fingers. Tomorrow, before you even get up, tell me or draw what you dreamed.'",
+     "do": "Do Activity a1. Give your child a small notebook as their dream journal. Today they draw last night's dream (or any dream they remember) and you write one line they dictate under it. Keep it by the bed with a pencil. Say: 'Dreams are easy to forget once you are awake. Tomorrow, before you even get up, tell me or draw what you dreamed.'",
      "ref": "a1"
     }
    ],
@@ -79,9 +79,9 @@
     },
     {
      "kind": "talk",
-     "title": "The boy whose eyes danced",
+     "title": "The scientist who watched sleeping eyes",
      "mins": 10,
-     "do": "Tell voice v2: 'About 70 years ago, a young scientist called Eugene Aserinsky stuck wires near the eyes of sleeping people, starting with his own 8-year-old son, Armond. He saw that a few times every night, the eyes darted quickly under the closed eyelids. When he woke people up at those times, most said they had been dreaming. He called it rapid eye movement sleep, REM sleep.' Ask your child to close their eyes and move them about under their lids while you watch: 'That's what Armond's eyes did.' Then ask v2's question. Good answers: 'Do it again', 'try it on other people', 'ask someone else to check the machine'.",
+     "do": "Tell voice v2: 'About 70 years ago, in America, a young scientist called Eugene Aserinsky put wires near the eyes of sleeping people. One of the first people he tested was his own 8-year-old son, Armond. He saw that a few times every night, the eyes darted quickly under the closed eyelids. When he woke people up at those times, most said they had been dreaming. He named it rapid eye movement sleep, or REM sleep.' Ask your child to close their eyes and move them about under their lids while you watch: 'That's what Armond's eyes did.' Then ask v2's question. Good answers: 'Do it again', 'try it on other people', 'ask someone else to check the machine'.",
      "ref": "v2"
     },
     {
@@ -115,7 +115,7 @@
      "kind": "exp",
      "title": "The three bowls",
      "mins": 12,
-     "do": "Do Experiment e2. Before starting, ask your child to predict: 'If both hands go into the same bowl, will they feel the same?' After it, ask: 'Was the middle water warm or cold?' (One hand said warm, the other said cold, at the same time!) 'So which hand told the truth?' (Neither, exactly: skin tells you about change, not the real temperature. A thermometer would agree with itself.)",
+     "do": "Do Experiment e2. Before starting, ask your child to predict: 'If both hands go into the same bowl, will they feel the same?' After it, ask: 'Was the middle water warm or cold?' (One hand said warm and the other said cold, at the same time.) 'So which hand told the truth?' (Neither, exactly. Skin mostly tells you whether something is warmer or colder than what it touched before. A thermometer would show that the water has one temperature.)",
      "ref": "e2"
     },
     {
@@ -129,10 +129,10 @@
      "kind": "talk",
      "title": "Your brain is a guesser",
      "mins": 7,
-     "do": "Say: 'Your eyes send signals to your brain, and your brain makes its best guess about what is out there. Most of the time it guesses well, or we'd bump into everything. Illusions are the times it guesses wrong, and they show us that seeing is something the brain does, not just a window.' Then listening: both close eyes; you tap a spoon on a steel glass somewhere in the room, and your child points to where the sound came from. Try a few places. Ask: 'Did your ears ever guess wrong?' Then: 'When your eyes and the ruler disagreed, which did you trust? Why?' (The ruler, because anyone can check it.)"
+     "do": "Say: 'Your eyes send signals to your brain, and your brain makes its best guess about what is out there. Most of the time it guesses well. Illusions are the times it guesses wrong. They show that seeing is something your brain does, not only your eyes.' Then a listening test: both close your eyes. You tap a spoon on a steel tumbler somewhere in the room, and your child points to where the sound came from. Try a few places. Ask: 'Did your ears ever guess wrong?' Then: 'When your eyes and the ruler disagreed, which did you trust? Why?' (The ruler, because anyone can check it.)"
     }
    ],
-   "need": ["three bowls, ice, warm tap water, room-temperature water, a towel", "paper, a ruler, a pencil", "a small card circle, string or a rubber band, sticky tape", "a steel glass and spoon"],
+   "need": ["three bowls, ice, warm tap water, room-temperature water, a towel", "paper, a ruler, a pencil", "a small card circle, string or a rubber band, sticky tape", "a steel tumbler and a spoon"],
    "prep": [{"task": "Make a tray of ice cubes", "when": "night before"}]
   },
   {
@@ -163,7 +163,7 @@
      "kind": "talk",
      "title": "Other beings, other worlds",
      "mins": 7,
-     "do": "Say: 'Every animal lives in its own world of senses.' Go through them, acting each one out: a honeybee sees ultraviolet patterns on flowers but sees red as dark; a dog smells about the world the way we see it, and a lamp post is like a newspaper full of news; an elephant rumbles to friends kilometres away with sounds too low for our ears; a bat squeaks too high for us to hear and listens for the echoes to 'see' in the dark; some snakes, like the pit vipers, sense the warmth of a mouse in the dark. Ask: 'Which world would you most like to live in for a day? What would you miss from ours?'"
+     "do": "Say: 'Every animal lives in its own world of senses.' Act out each one. A honeybee sees ultraviolet patterns on flowers, but red looks dark to her. A dog learns who passed a lamp post by sniffing it. An elephant calls to friends kilometres away with rumbles too low for our ears. A bat squeaks too high for us to hear, and listens for the echoes to find her way and catch insects in the dark. Some snakes, the pit vipers, such as the Malabar pit viper of the Western Ghats, sense the warmth of a mouse in the dark. Ask: 'Which world would you most like to live in for a day? What would you miss from ours?'"
     }
    ],
    "need": ["a newspaper", "a glass, a tissue, a bucket or big bowl of water", "a yellow flower if you can find one"]
@@ -171,36 +171,36 @@
   {
    "n": 5,
    "title": "Tricks of nature",
-   "goal": "Meet camouflage, mimicry, reflections, mirages and echoes, and check the core ideas.",
+   "goal": "Find out how camouflage and mimicry help animals stay alive, test mirrors, shadows and echoes, and check the core ideas.",
    "steps": [
     {
      "kind": "warmup",
      "title": "Spot the hider",
      "mins": 4,
-     "do": "Ask: 'Have you ever looked straight at a garden lizard on a tree and not seen it?' Talk about animals that hide by looking like their background: a stick insect like a twig, a green caterpillar on a leaf, a leopard's spots in dappled shade. Say: 'That is called camouflage.' Then: 'Some harmless animals copy dangerous ones, like hoverflies that look like wasps. That is mimicry. Both trick the eyes of hungry hunters.'"
+     "do": "Ask: 'Have you ever looked straight at a garden lizard on a tree and not seen them?' Then say: 'A caterpillar is soft and slow, and many birds eat caterpillars. A green caterpillar on a green leaf is hard for a bird to spot, so they are more likely to live and grow into a butterfly. Looking like your background is called camouflage. A stick insect looks like a twig for the same reason. Some harmless animals look like dangerous ones. A hoverfly cannot sting, but their yellow and black stripes look like a wasp's, so birds leave them alone. That is called mimicry.'"
     },
     {
-     "kind": "outdoor",
+     "kind": "do",
      "title": "Camouflage hunt",
      "mins": 15,
-     "do": "Do Activity a3 on a patch of grass or a garden bed. Ask before the hunt: 'Which colours will you find first? Which will you miss?' Afterwards count each colour and ask: 'If you were a bird and these were caterpillars, which would get eaten first? Which would live to have babies?' (Red and yellow get found first; green and brown survive.) Say: 'Over many, many years, that is how camouflage animals came to be.'",
+     "do": "Do Activity a3 on newspaper spread on the floor. Ask before the hunt: 'Which bits will you find first? Which will you miss? Why?' Afterwards count each kind and ask: 'If you were a bird and these were caterpillars, which would get eaten first? Which would live to have babies?' (The coloured bits get found first. The newspaper bits hide best.) Say: 'Caterpillars that are hard to see are more likely to live and have babies, and the babies look like them. Over a very long time, this is how camouflage came about.'",
      "ref": "a3"
     },
     {
      "kind": "do",
      "title": "Mirror, shadow, echo",
      "mins": 8,
-     "do": "Three quick tests. Mirror: your child writes their name and holds it up to a mirror. 'Why is it backwards?' (The mirror bounces light straight back, flipping front and back.) Shadow: stand in sunlight or by a torch. 'Is your shadow real?' (Yes, a real patch where your body blocks the light, but it's not a thing you can pick up.) Echo: go to a stairwell, tank or empty room and call out. 'Who answered?' (Your own voice, bouncing back.) Then tell them about mirages: on a hot road, far ahead, there seems to be a pool of water that vanishes as you get close. The light is real, bent by hot air, but no water is there."
+     "do": "Three quick tests. Mirror: your child writes their name and holds it up to a mirror. 'Why is it backwards?' (The mirror sends the light straight back to you, so the writing looks back to front.) Shadow: stand in sunlight or by a torch. 'Is your shadow real?' (Yes. It is a real patch where your body blocks the light, but it is not a thing you can pick up.) Echo: go to a stairwell or an empty room and call out. 'Who answered?' (Your own voice, bouncing back.) Then tell them about mirages: on a hot road, far ahead, there seems to be a pool of water that vanishes as you get close. Hot air near the road bends light from the sky, so you see a patch of sky on the road. The light is real, but no water is there."
     },
     {
      "kind": "ws",
      "title": "Core worksheet",
      "mins": 8,
-     "do": "Your child does Worksheet ws1 (core). Read each item aloud if needed and scribe the two written answers. For each slip, ask: 'How could we check?'",
+     "do": "Your child does Worksheet ws1 (core). Read each item aloud if needed and write down the two written answers for them. For each answer, ask: 'How could we check?'",
      "ref": "ws1"
     }
    ],
-   "need": ["30 short pieces of wool or coloured toothpicks (red, yellow, blue, green, brown)", "a patch of grass", "a mirror, paper and pencil", "a torch", "worksheet ws1"]
+   "need": ["3 sheets of newspaper and a sheet of coloured paper (red, yellow or blue)", "a timer", "a mirror, paper and pencil", "a torch", "worksheet ws1"]
   },
   {
    "n": 6,
@@ -224,7 +224,7 @@
      "kind": "talk",
      "title": "Elephants, magpies and a little fish",
      "mins": 10,
-     "do": "Tell voice v3: chimpanzees in 1970, then an elephant called Happy, magpies, and in 2019 a tiny cleaner fish that seemed to try to scrape a mark off its throat after seeing a mirror, and the scientists who doubt it. Then act it: your child is an octopus asleep. Scientists have filmed sleeping octopuses flickering through colours. Give them coloured scarves or dupattas to swap slowly, as if colours ripple across their skin while they sleep. Ask: 'Are you dreaming, octopus?' Then ask v3's question. Good answers: 'A dog lives by smell, so a smell test is fairer', 'maybe knowing yourself has many kinds'.",
+     "do": "Tell voice v3. In 1970 chimpanzees passed the mirror test. Later an Asian elephant called Happy passed it, and so did magpies, a kind of bird. In 2019 scientists reported that a tiny cleaner fish seemed to try to scrape a mark off their throat after seeing themselves in a mirror. Other scientists doubt this. Then act it out: your child is an octopus asleep. Scientists have filmed sleeping octopuses changing colour. Give them coloured scarves or dupattas to swap slowly, as if colours ripple across their skin while they sleep. Ask: 'Are you dreaming, octopus?' Then ask v3's question. Good answers: 'A dog lives by smell, so a smell test is fairer', 'maybe there are many ways of knowing yourself'.",
      "ref": "v3"
     },
     {
@@ -245,9 +245,9 @@
    "steps": [
     {
      "kind": "warmup",
-     "title": "The old jhadu",
+     "title": "The old broom",
      "mins": 4,
-     "do": "Tell this puzzle: 'A family had a jhadu, a broom. The handle broke, so they put on a new handle. Years later the bristles wore out, so they put on new bristles. Is it the same jhadu?' Let your child argue. Don't settle it."
+     "do": "Tell this puzzle: 'A family had a broom. The handle broke, so they put on a new handle. Years later the bristles wore out, so they put on new bristles. Is it the same broom?' Let your child argue. Don't settle it."
     },
     {
      "kind": "do",
@@ -260,7 +260,7 @@
      "kind": "do",
      "title": "Project: Five worlds in one room",
      "mins": 10,
-     "do": "Start the project. Fold two A4 sheets to make a little four-page book. Page 1: your child draws their room as they see it. Page 2: the same room for a bee (no red: colour red things dark; add secret ultraviolet stripes on any flowers). Talk while they draw: 'What would a bee notice first?'"
+     "do": "Start the project. Fold two A4 sheets in half, one inside the other, to make a little book. Page 1: your child draws their room as they see it. Page 2: the same room for a bee. Colour red things dark, and add ultraviolet stripes on any flowers. Talk while they draw: 'What would a bee notice first?'"
     },
     {
      "kind": "game",
@@ -281,27 +281,27 @@
      "kind": "do",
      "title": "What does the word mean to me?",
      "mins": 8,
-     "do": "Do Activity a4, the notebook's 'All perception is subjective' game. Afterwards ask: 'We had the same word, but we drew different things. Whose drawing is the real one?' Good answers: 'Both', 'each person's mind makes its own picture', 'the word is the same but the pictures are different'."
+     "do": "Do Activity a4, the word-drawing game. Afterwards ask: 'We had the same word, but we drew different things. Whose drawing is the real one?' Good answers: 'Both', 'each person's mind makes its own picture', 'the word is the same but the pictures are different'.",
+     "ref": "a4"
     },
     {
      "kind": "ws",
      "title": "Challenge worksheet",
      "mins": 10,
-     "do": "Your child does Worksheet ws3 (challenge). Read the questions aloud and scribe the long answers word for word. There are no single right answers to the last three; listen for reasons.",
+     "do": "Your child does Worksheet ws3 (challenge). Read the questions aloud and write down the long answers word for word. The last three have no single right answer. Listen for reasons.",
      "ref": "ws3"
     },
     {
      "kind": "do",
      "title": "Finish the project",
      "mins": 9,
-     "do": "Finish 'Five worlds in one room'. Page 3: the room for a dog, drawn as smell clouds (strong smells big and dark, like the shoe rack and the kitchen). Page 4: the room for a bat, drawn as echo lines bouncing off walls and furniture. On the back cover your child writes or dictates: 'Which room is the real room?'",
-     "ref": "a4"
+     "do": "Finish 'Five worlds in one room'. Page 3: the room for a dog, drawn as smell clouds (strong smells big and dark, like the shoe rack and the kitchen). Page 4: the room for a bat, drawn as echo lines bouncing off walls and furniture. On the back cover your child writes or dictates: 'Which room is the real room?'"
     },
     {
      "kind": "check",
      "title": "Teach it back",
      "mins": 8,
-     "do": "Your child shows the family the little book, does the three-bowl trick or the spinning card on someone, and explains: one real thing we can't see, why illusions happen, and the jhadu puzzle. Then ask the check questions. End by reading the question from Day 1 on the wall: 'How do you know you are not dreaming right now?' and hear their answer now."
+     "do": "Your child shows the family the little book, does the three-bowl trick or the spinning card on someone, and explains three things: one real thing we can't see, why illusions happen, and the broom puzzle. Then ask the check questions. End by reading the question from Day 1 on the wall: 'How do you know you are not dreaming right now?' Hear their answer now."
     }
    ],
    "need": ["paper and crayons for each player", "worksheet ws3", "the project book", "the three bowls or the spinning card", "the big sheet from Day 1"]
@@ -349,8 +349,8 @@
      {"t": "mcq", "p": "Which animal has passed the mirror test in an experiment?", "opts": ["an Asian elephant", "an earthworm", "a starfish"], "a": 0}
     ]],
     ["C. Explain", [
-     {"t": "write", "p": "A dog twitches and whimpers in its sleep. Do you think it is dreaming? What would you need to know to be sure?", "lines": 3},
-     {"t": "write", "p": "The bee cannot see red, and Meher cannot see ultraviolet. Who sees the 'real' flower? Explain your answer.", "lines": 3}
+     {"t": "write", "p": "A dog twitches and whimpers in their sleep. Do you think they are dreaming? What would you need to know to be sure?", "lines": 3},
+     {"t": "write", "p": "In the story, the bee cannot see red, and Malar, the girl, cannot see ultraviolet. Who sees the 'real' flower? Explain your answer.", "lines": 3}
     ]]
    ]
   },
@@ -413,7 +413,7 @@
    ],
    "predict": "Ask: 'When both hands are in the same middle bowl, will they feel the same?'",
    "observe": "The hand that was in cold water says the middle bowl is warm. The hand that was in warm water says it is cold. Both at once, in the same water.",
-   "why": "The nerves in your skin mostly tell you about change: warmer or colder than before. After a minute, each hand got used to its own bowl, so the middle water felt warmer to one and colder to the other. The water has one temperature, which a thermometer would show. Your senses are not windows; they are reporters, and they can disagree.",
+   "why": "The nerves in your skin mostly tell you about change: warmer or colder than before. After a minute, each hand got used to its own bowl. So the middle water felt warm to one hand and cold to the other. The water has one temperature, which a thermometer would show. Your senses report to your brain, and two senses can disagree.",
    "safety": "A grown-up checks the warm water is comfortable, not hot. Wipe spills so nobody slips.",
    "time": "10 min"
   },
@@ -445,14 +445,14 @@
    "steps": [
     "Earlier in the day, during a hug or tickle, put a bindi or sticker on your child's forehead without saying anything.",
     "Later, hand them a mirror and watch: do they reach up and touch their own forehead?",
-    "Hold the mirror in front of a pet. Does it look behind the mirror, bark, ignore it or touch itself?",
+    "Hold the mirror in front of a pet, if you have one. Do they look behind the mirror, bark, ignore it or touch themselves?",
     "If a toddler is visiting and their parent agrees, try the bindi and mirror with them too.",
     "Write down what each one did."
    ],
-   "predict": "Ask: 'Will the cat know it's looking at itself? Will a baby?'",
-   "observe": "Your child touches their own forehead. Pets usually ignore the mirror or treat the reflection as another animal. Children from about 18 months to 2 years old usually touch the mark; younger babies often treat the mirror baby as a playmate.",
+   "predict": "Ask: 'Will a cat know that the cat in the mirror is herself? Will a baby?'",
+   "observe": "Your child touches their own forehead. Pets usually ignore the mirror or treat the reflection as another animal. Children from about 18 months to 2 years old usually touch the mark. Younger babies often treat the mirror baby as a playmate.",
    "why": "Touching the mark on your own face, after seeing it in a mirror, shows you understand the reflection is you. This is the mirror test, invented by Gordon Gallup in 1970. Chimpanzees, Asian elephants and magpies have passed versions of it. But animals that live by smell or sound, like dogs, may know themselves in other ways, so a mirror may be an unfair test for them.",
-   "safety": "Use a skin-safe sticker. Never force an animal to look in a mirror; stop if it seems upset.",
+   "safety": "Use a skin-safe sticker. Never force an animal to look in a mirror. Stop if they seem upset.",
    "time": "10 min"
   }
  ],
@@ -486,22 +486,22 @@
     "Make a hole on each side of the circle and tie a string through each hole.",
     "Hold the strings, twist the card many times, then pull the strings tight so it spins fast. Watch the bird appear inside the cage."
    ],
-   "outcome": "A measured illusion and a spinning toy that shows how the brain joins pictures, the secret of every cartoon and film."
+   "outcome": "A measured illusion, and a spinning toy that shows how the brain joins two pictures into one. Cartoons and films use the same trick."
   },
   {
    "id": "a3",
    "title": "Camouflage hunt",
    "day": 5,
    "mins": 15,
-   "need": ["30 short pieces of wool or coloured toothpicks: 6 each of red, yellow, blue, green and brown", "a patch of grass or a garden bed", "a timer"],
+   "need": ["3 sheets of newspaper", "a sheet of coloured paper (red, yellow or blue)", "a timer"],
    "steps": [
-    "While your child looks away, scatter all 30 pieces over a patch of grass about two big steps square.",
-    "Your child is a hungry bird. They have 1 minute to pick up as many 'caterpillars' as they can.",
-    "Count how many of each colour they found.",
-    "Do it again for another minute, then count again.",
+    "Tear 15 small bits, each about the size of a fingernail, from one newspaper sheet, and 15 bits the same size from the coloured paper.",
+    "Spread the other two newspaper sheets flat on the floor. While your child looks away, scatter all 30 bits over them.",
+    "Your child is a hungry bird. They have 30 seconds to pick up as many 'caterpillars' as they can, one at a time.",
+    "Count how many of each kind they found. Then do it again for another 30 seconds, and count again.",
     "Look together for the ones still hidden."
    ],
-   "outcome": "A count showing that red, yellow and blue are found first and green and brown hide best: how camouflage protects animals."
+   "outcome": "A count showing that the coloured bits are found first and the newspaper bits hide best. This is how camouflage protects animals."
   },
   {
    "id": "a4",
@@ -569,12 +569,12 @@
    {"front": "The dark ring a bee sees on a sunflower.", "back": "Real: ultraviolet patterns our eyes can't see."},
    {"front": "Your reflection in a mirror.", "back": "Real light bouncing back, but nobody is behind the glass."},
    {"front": "An echo answering you in a stairwell.", "back": "Real sound: your own voice bouncing back."},
-   {"front": "A stick insect that looks like a twig.", "back": "A real insect pretending to be a twig: camouflage."},
+   {"front": "A stick insect that looks like a twig.", "back": "A real insect whose body looks like a twig: camouflage."},
    {"front": "Two lines that look different lengths but measure the same.", "back": "An illusion: your brain guessed wrong."},
    {"front": "A friend's sadness that you can't see.", "back": "Real: feelings are real even though they're inside."},
    {"front": "A rainbow.", "back": "Puzzle: real light, but no object in the sky, and everyone sees their own."},
-   {"front": "A jhadu with a new handle and new bristles.", "back": "Puzzle: is it the same broom? People still argue."},
-   {"front": "A dog running in its sleep.", "back": "Puzzle: really asleep, but is it dreaming? Maybe; we can't ask."},
+   {"front": "A broom with a new handle and new bristles.", "back": "Puzzle: is it the same broom? People still argue."},
+   {"front": "A dog running in their sleep.", "back": "Puzzle: they are really asleep, but are they dreaming? Maybe. We can't ask."},
    {"front": "The number 7.", "back": "Puzzle: you can't touch it, but it's the same for everyone everywhere."},
    {"front": "An elephant's rumble too low for you to hear.", "back": "Real: elephants call to each other below what our ears can hear."}
   ]
@@ -607,7 +607,7 @@
    "then": "Gallup and others doubted the fish result. They said the scraping might mean something else, and that a test designed for apes may not tell us about fish.",
    "now": "Great apes, Asian elephants (an elephant called Happy, in 2006) and Eurasian magpies have passed versions of the test. Dogs usually fail it, yet experiments suggest dogs know their own smell. Whether the mirror test really measures knowing yourself, and whether the fish passed, is still argued.",
    "status": "debated",
-   "ask": "A dog fails the mirror test but knows its own smell from other dogs'. Does the dog know itself? Is a mirror a fair test for a dog?",
+   "ask": "A dog fails the mirror test but can tell their own smell from other dogs' smells. Does the dog know themself? Is a mirror a fair test for a dog?",
    "day": 6
   }
  ],
@@ -616,48 +616,48 @@
   "text": [
    "I am a worker bee from the hive in the hollow of the old drumstick tree behind Building C. I am twenty-one days old, which, for a bee, is old enough to be trusted with the sky.",
    "Every morning, when the sun clears the water tank, I fly the same road: over the wall, past the washing lines, up to the fourth-floor balcony where the girl keeps her pots. There are marigolds there, and tulsi, and a hibiscus, and one tall sunflower that leans over the railing as if it is trying to see the street.",
-   "The girl is called Meher. I know because her mother calls it out of the kitchen window twenty times a day. Meher is seven. She is a great deal bigger than me and a great deal slower, and she smells of soap and mango and the sticky chalk she draws with.",
+   "The girl is called Malar. I know because her mother calls it out of the kitchen window twenty times a day. Malar is seven. She is a great deal bigger than me and a great deal slower, and she smells of soap and mango and the sticky chalk she draws with.",
    "She has been watching me.",
    "Yesterday she sat on a stool beside the sunflower with a notebook on her knees. She was painting it. I came in as I always do, straight to the middle of the flower, and walked down the dark road to where the nectar is. She leaned so close that her breath ruffled my wings.",
-   "“Ammi,” she called. “Why do the bees always land in the same place? Right in the middle. Every time. As if somebody drew a circle for them.”",
-   "Somebody did draw a circle, I wanted to tell her. Can't you see it? The sunflower's petals are not one colour. Near the tips they glow, and near the middle they go dark, darker, darkest, in a great ring, like the lights on a runway at night, all pointing in. Any bee can see it from three balconies away. It is the loudest thing on the whole street.",
-   "But Meher's painting had petals of one plain yellow, from tip to tip. She had not drawn the ring at all.",
-   "I thought she must be careless. Then I thought she must be strange. Then I flew home with my nectar and thought nothing at all, because two hundred of my sisters were dancing in the warm dark of the hive, and the dance said: marigolds, east, past the temple, very good.",
+   "“Amma,” she called. “Why do the bees always land in the same place? Right in the middle. Every time. As if somebody drew a circle for them.”",
+   "Somebody did draw a circle, I wanted to tell her. Can't you see it? The sunflower's petals are not one colour. Near the tips they glow, and near the middle they go dark, darker, darkest, in a great ring, like the lights on a runway at night, all pointing in. Any bee can see it.",
+   "But Malar's painting had petals of one plain yellow, from tip to tip. She had not drawn the ring at all.",
+   "I thought she must be careless. Then I thought she must be strange. Then I flew home with my nectar and forgot her, because my sisters were dancing in the warm dark of the hive. A bee's dance tells the others which way to fly and how far. Today's dance said: flowers, towards the morning sun, not far.",
    "Today she was waiting for me with a book.",
-   "Her mother sat beside her, still in her office clothes, glasses pushed up into her hair. The book was open at two pictures of the same flower. In the first, the flower was plain yellow, like Meher's painting. In the second, the petals had gone pale at the tips and dark in the middle: a great ring, pointing in.",
+   "Her mother sat beside her, still in her office clothes, glasses pushed up into her hair. The book was open at two pictures of the same flower. In the first, the flower was plain yellow, like Malar's painting. In the second, the petals had gone pale at the tips and dark in the middle: a great ring, pointing in.",
    "“This one is taken with an ordinary camera,” said her mother. “And this one with a special camera that can see a kind of light called ultraviolet. Our eyes can't see it. Bees can.”",
-   "Meher looked at the second picture for a long time. Then she looked at the sunflower. Then she looked at me.",
+   "Malar looked at the second picture for a long time. Then she looked at the sunflower. Then she looked at me.",
    "“So it's there,” she said slowly. “The circle is really there. Right now. I just can't see it.”",
    "“It's there for the bee,” said her mother.",
    "“But is it real?”",
    "Her mother smiled. “What do you think?”",
-   "Meher frowned the frown I have seen on bees deciding whether a flower is worth the trip. “It must be real,” she said. “Because the bee lands on it. Every time. If it wasn't real, she'd miss.”",
+   "Malar frowned the frown I have seen on bees deciding whether a flower is worth the trip. “It must be real,” she said. “Because the bee lands on it. Every time. If it wasn't real, she'd miss.”",
    "I did not miss. I landed, I walked the dark road, I drank.",
-   "Then Meher asked a question that no human has asked in all my twenty-one days. It was a question about me that was really a question about herself.",
-   "“Ammi, if there's a colour I can't see, are there colours I can see that the bee can't?”",
+   "Then Malar asked a question that no human has asked in all my twenty-one days. It was a question about me that was really a question about herself.",
+   "“Amma, if there's a colour I can't see, are there colours I can see that the bee can't?”",
    "Her mother turned towards the hibiscus. “Red,” she said. “Honeybees can't see red the way we do. To a bee, that hibiscus probably looks dark. Almost like a shadow.”",
-   "Meher stared at the hibiscus. It is the flower she loves best; I have heard her tell it so. To me it has always been a dull, quiet thing, a dark cup that only the sunbirds bother with.",
+   "Malar stared at the hibiscus. It is the flower she loves best. I have heard her tell it so. To me it has always been a dull, quiet thing, a dark cup that only the sunbirds bother with.",
    "“But it's the brightest thing on the balcony,” she whispered. “It's practically shouting.”",
    "“For you,” said her mother.",
-   "Meher was quiet for a while. A crow went past. Somebody downstairs was frying mustard seeds, and the smell came up the building in a warm cloud that I could have followed with my eyes shut. Then Meher tore yesterday's page out of her notebook and began again.",
+   "Malar was quiet for a while. A crow went past. Somebody downstairs was frying mustard seeds, and the smell came up the building in a warm cloud that I could have followed with my eyes shut. Then Malar tore yesterday's page out of her notebook and began again.",
    "This time she painted the petals pale at the tips and dark at the base, and in the middle a ring, dark as she could make it, pointing in. Next to it she painted the hibiscus, but grey, the colour of a shadow. Underneath she wrote big crooked letters, which I cannot read. Her mother read them aloud: “The balcony, for a bee.”",
    "When she propped the painting against the pot and went inside for lunch, I did something foolish. I flew to the painting. I landed right in the middle of her dark ring and walked the road inwards, and of course there was no nectar at all, only paper and the bitter smell of paint.",
-   "I stayed anyway, longer than a sensible bee should. The sun was warm on my back. Somewhere inside, Meher was laughing at something her mother had said.",
+   "I stayed anyway, longer than a sensible bee should. The sun was warm on my back. Somewhere inside, Malar was laughing at something her mother had said.",
    "She is trying to see my world, I thought. She will never quite manage it. And I have never once seen her red, the shouting red, and I never will.",
    "I flew home with no nectar and danced no dance. I stood for a long time in the warm dark among my sisters, thinking about the girl and the grey hibiscus, and about all the things that might be shining, right now, right in front of both of us, that neither of us can see."
   ],
-  "epiphany": "For the parent: the turn comes when Meher realises the ring is 'really there' because the bee never misses, and then flips the question: are there colours she sees that the bee can't? The idea hidden in the story is that what is real is bigger than what any one being senses. Every creature lives in its own world of senses (bees see ultraviolet but not red; humans the reverse), so no one sees 'the whole flower'. The bee's last thought keeps the question open rather than answering it.",
+  "epiphany": "For the parent: the turn comes when Malar realises the ring is 'really there' because the bee never misses. Then she turns the question round: are there colours she sees that the bee can't? The idea in the story is that what is real is bigger than what any one being senses. Bees see ultraviolet but not red, and people see red but not ultraviolet, so nobody sees 'the whole flower'. The bee's last thought keeps the question open.",
   "ask": [
-   "What did the bee see on the sunflower that Meher couldn't?",
-   "How did Meher work out that the ring was real, even though she couldn't see it?",
-   "What did the hibiscus look like to the bee? Why was Meher surprised?",
+   "What did the bee see on the sunflower that Malar couldn't?",
+   "How did Malar work out that the ring was real, even though she couldn't see it?",
+   "What did the hibiscus look like to the bee? Why was Malar surprised?",
    "Why do you think the bee landed on the painting, even though there was no nectar?",
-   "Who sees the real flower: Meher, the bee, or neither?"
+   "Who sees the real flower: Malar, the bee, or neither?"
   ]
  },
  "ideas": [
   {"idea": "Real is bigger than what we can see.", "more": "Air, ultraviolet light, sounds too high or low for our ears and the warmth of a body in the dark are all real, though our senses miss them. We know they are there because they push, they can be measured, or other beings use them."},
-  {"idea": "Our senses report and our brain guesses.", "more": "The three bowls and the arrow lines show that seeing and feeling are things the brain does, not windows. Usually the guesses are good; illusions show the guessing. Checking with a ruler, a thermometer or another person helps."},
+  {"idea": "Our senses report and our brain guesses.", "more": "The three bowls and the arrow lines show that seeing and feeling are done by the brain, not only by the eyes and skin. Usually the brain's guesses are good. Illusions show when it guesses wrong. Checking with a ruler, a thermometer or another person helps."},
   {"idea": "Every being lives in its own world.", "more": "A bee, a dog, a bat and a child in the same room live in different worlds of senses. None of them sees the whole room. Asking 'What does it seem like to them?' is a scientist's question and a kind one."},
   {"idea": "Being aware is noticing that you notice.", "more": "In dreams we notice things but don't know we are dreaming. Awake, we can catch ourselves noticing. Whether other animals do this too is one of the great open questions."}
  ],
@@ -679,10 +679,10 @@
   {"q": "'Dreams are just nonsense.'", "hint": "Many scientists think dreams may help with memory and feelings. Rats that ran a maze by day show the same brain patterns again while they sleep, as if replaying it. But why we dream is not settled. Have your dreams ever helped you with something?"}
  ],
  "perspectives": [
-  {"who": "Advaita Vedanta, an old Indian school of thought (Adi Shankara, about the 8th century CE)", "view": "Its famous example: in dim light you see a snake on the path and jump back, heart pounding. A lamp shows it was a coiled rope. The fear was real; the snake was not. Shankara used this to ask how much of what we see is the mind's own making. Ask: was your fear real if the snake wasn't?"},
-  {"who": "A honeybee", "view": "Sees ultraviolet patterns that guide it to nectar, but sees red as dark. To a bee, a 'plain yellow' flower is covered in signs. Ask: whose colours are the true colours of the flower?"},
-  {"who": "A kathputli puppeteer in Rajasthan", "view": "Makes wooden puppets on strings dance, fight and fall in love, and the audience laughs and cries. Ask: when you cry at a puppet show, is the feeling real even though the puppet isn't alive?"},
-  {"who": "A dog", "view": "Lives in a world of smells, where a lamp post is like a newspaper full of news about who passed by. Ask: if a dog could talk, what might it say about the 'real' world that you miss every day?"}
+  {"who": "Advaita Vedanta, an old Indian school of thought (Adi Shankara, about the 8th century CE)", "view": "Its famous example: in dim light you see a snake on the path and jump back, heart pounding. A lamp shows it was a coiled rope. The fear was real, but the snake was not. Shankara used this to ask how much of what we see is made by our own mind. Ask: was your fear real if the snake wasn't?"},
+  {"who": "A honeybee", "view": "She sees ultraviolet patterns that guide her to nectar, but red looks dark to her. To a bee, a 'plain yellow' flower is covered in signs. Ask: whose colours are the true colours of the flower?"},
+  {"who": "A tholu bommalata puppeteer in Andhra Pradesh", "view": "She moves painted leather puppets behind a lit cloth screen. The audience sees only coloured shadows, yet they laugh and cry at the story. Ask: when you cry at a puppet show, is the feeling real even though the puppets are not alive?"},
+  {"who": "A dog", "view": "They live in a world of smells. Sniffing a lamp post tells them who passed by. Ask: if a dog could talk, what might they say about the 'real' world that you miss every day?"}
  ],
  "books": [
   {"title": "They All Saw a Cat", "author": "Brendan Wenzel", "for": "read together", "age": "4–8", "why": "One cat seen by a child, a dog, a fish, a bee, a bat and more, each in its own way. The perfect partner to this rung."},
@@ -691,13 +691,13 @@
   {"title": "An Immense World: How Animal Senses Reveal the Hidden Realms Around Us", "author": "Ed Yong", "for": "parent reads", "age": "adult (read parts aloud)", "why": "A wonderful book about how bees, bats, dogs, snakes and others sense the world. Read the bee and bat passages aloud."}
  ],
  "check": [
-  {"q": "Give one test to check whether you are awake.", "a": "e.g. read some words, look away and read again (in dreams they often change); pinch yourself; check with another person."},
-  {"q": "What is REM sleep and how can you spot it?", "a": "Rapid eye movement sleep, when dreams are most common; the eyes dart about under the closed lids."},
-  {"q": "In the three bowls, why did one hand feel warm and the other cold in the same water?", "a": "Skin mostly senses change; each hand had got used to a different bowl first."},
-  {"q": "Name a real thing we can't see, and an animal that can sense something we can't.", "a": "e.g. air; ultraviolet patterns that bees see; low rumbles elephants hear; high squeaks bats hear."},
-  {"q": "What is the difference between camouflage and mimicry?", "a": "Camouflage is looking like your background; mimicry is looking like another (often dangerous) animal."},
-  {"q": "What does the mirror test try to find out, and why do scientists argue about it?", "a": "Whether an animal knows the reflection is itself; some say it isn't fair for animals that live by smell, and the fish result is doubted."},
-  {"q": "A jhadu has a new handle and new bristles. Is it the same jhadu?", "a": "Any answer with a reason: e.g. yes, because it has the same job and story; no, because no part is left; people still argue."}
+  {"q": "Give one test to check whether you are awake.", "a": "For example, read some words, look away and read them again: in dreams they often change. Or pinch yourself, or check with another person."},
+  {"q": "What is REM sleep and how can you spot it?", "a": "Rapid eye movement sleep. It is when dreams are most common, and the eyes dart about under the closed lids."},
+  {"q": "In the three bowls, why did one hand feel warm and the other cold in the same water?", "a": "Skin mostly senses change. Each hand had got used to a different bowl first."},
+  {"q": "Name a real thing we can't see, and an animal that can sense something we can't.", "a": "For example, air. Bees see ultraviolet patterns, elephants hear very low rumbles, and bats hear very high squeaks."},
+  {"q": "What is the difference between camouflage and mimicry?", "a": "Camouflage is looking like your background. Mimicry is looking like another animal, often a dangerous one."},
+  {"q": "What does the mirror test try to find out, and why do scientists argue about it?", "a": "Whether an animal knows that the reflection shows them. Some scientists say it is unfair to animals that live by smell, and the fish result is doubted."},
+  {"q": "A broom has a new handle and new bristles. Is it the same broom?", "a": "Any answer with a reason. For example, yes, because it does the same job for the same family. Or no, because no old part is left. People still argue."}
  ],
  "subconcepts": [
   "real and pretend: what is there whether or not we think about it",
@@ -709,7 +709,7 @@
   "animation: still pictures joined by the brain",
   "hidden but real: air, ultraviolet, sounds too high and too low",
   "every animal lives in its own world of senses (bees, dogs, bats, elephants, snakes)",
-  "camouflage and mimicry trick hunters' eyes",
+  "camouflage and mimicry help animals hide from hunters",
   "reflections, shadows, echoes and mirages",
   "self-recognition and the mirror test debate",
   "do other beings feel and dream?",

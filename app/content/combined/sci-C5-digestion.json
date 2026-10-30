@@ -5,10 +5,10 @@
  "level": 5,
  "n": "digestion",
  "day_mins": 45,
- "title": "Digestion: the long tube that turns a roti into you",
+ "title": "Digestion: how food is broken down and taken into the body",
  "source": "DeepKids Combined. Covers Cambridge Stage 5 Biology Unit 4.1 'Parts and functions of the digestive system' (mouth, oesophagus, stomach, small intestine, large intestine, rectum and anus, with the liver and pancreas), and goes further into enzymes, absorption, gut microbes and other animals' guts. No textbook needed.",
- "summary": "Your child follows one roti and dal from the plate to the toilet: teeth that cut and grind, saliva that turns starch into sugar, a food pipe that squeezes even when you are upside down, a stomach of acid, a small intestine as long as a room and lined with millions of tiny fingers, bile that breaks fat like soap, and a large intestine full of trillions of helpful microbes. They test saliva with iodine, squeeze a 'stomach' in a bag and an 'intestine' made of tights, and measure their own gut with a rope. Along the way they meet the fur trapper whose open stomach taught the world how digestion works, the doctor who drank bacteria to prove a point, and the cow, the rabbit and the termite, who digest what we cannot.",
- "builds_on": "This topic starts in Class 5. It builds on the Class 5 body rung (the organs and the food journey in one sentence) and the food rungs of Classes 1–4 (what food is made of, food groups and nutrients). It goes with the Class 5 food rung, which looks at a balanced diet and deficiency diseases.",
+ "summary": "Food in your gut is not yet inside your body. It gets in only when it is broken into pieces small enough to pass into the blood. Your child follows a meal of rice and sambar from the mouth to the toilet. They test whether warmth changes what saliva does to starch, knead a model stomach in a bag, and squeeze the soup through a cloth 'intestine'. They lay out a rope as long as a grown-up's gut. They meet the fur trader whose open stomach showed that digestion is chemical, the doctors who found that a germ causes most ulcers, and the cow and the termite, who digest grass and wood with the help of microbes.",
+ "builds_on": "Class 4: saliva turns starch into sugar (the sweet roti test), and what food is made of. Class 5 organs lesson: the food organs in one journey. Here: each part of the gut in detail, enzymes, absorption, gut microbes and other animals' guts. It goes with the Class 5 food lesson on a balanced diet.",
  "subconcepts": [
   "digestion: breaking food into pieces small enough to pass into the blood",
   "mechanical digestion: teeth, chewing and churning",
@@ -28,7 +28,7 @@
  "goals": [
   "By the end your child can name, in order, the parts of the digestive system and say what each does.",
   "By the end your child can explain the difference between mechanical and chemical digestion, with an example of each.",
-  "By the end your child can show, with iodine, that saliva breaks down starch.",
+  "By the end your child can show, with iodine, that saliva breaks down starch, and that it works better when warm.",
   "By the end your child can explain how villi help absorption and why the small intestine is so long.",
   "By the end your child can explain what gut microbes do and why a cow can live on grass but we cannot.",
   "By the end your child can tell the stories of Alexis St Martin and of Barry Marshall and Robin Warren, and say what they show about how science works."
@@ -68,7 +68,7 @@
   ],
   [
    "bile",
-   "a green juice from the liver that breaks fat into tiny drops"
+   "a yellow-green juice from the liver that breaks fat into tiny drops"
   ],
   [
    "large intestine",
@@ -87,75 +87,75 @@
   {
    "n": 1,
    "title": "Where does lunch go?",
-   "goal": "Recall what the body rung said about the food organs, draw what we think, and find out how long the gut is.",
+   "goal": "Recall what we know, draw the path of food, and find out how long the gut is.",
    "steps": [
     {
      "kind": "warmup",
-     "title": "Remember the organ map",
+     "title": "Remember what you know",
      "mins": 8,
-     "do": "Ask your child: 'On the organ map in the body rung, where did food go after the mouth?' (food pipe, stomach, small intestine, large intestine, out). 'And from the food rungs, what is food made of?' (carbohydrates, proteins, fats, vitamins, minerals, fibre, water). Then hand them a blank body outline and ask them to draw the path of food as they imagine it, with no help. Keep the drawing: you will compare it on the last day."
+     "do": "Ask: 'In the organs lesson, where did food go after the mouth?' (Food pipe, stomach, small intestine, large intestine, then out.) Ask: 'In Class 4, you chewed a piece of roti for a long time. What happened to the taste, and why?' (It turned slightly sweet, because saliva turns starch into sugar.) Then give your child a blank body outline and ask them to draw the path of food as they imagine it, with no help. Keep the drawing. You will compare it on the last day."
     },
     {
      "kind": "act",
      "title": "How long is your gut?",
      "mins": 15,
-     "do": "Do Activity a1. Cut a rope or string about 7 metres long (for a child) and mark it: 25 cm for the oesophagus, a knot for the stomach, about 5 metres for the small intestine and 1.25 metres for the large intestine. Stretch it across the room or down the corridor. Ask: 'How does all this fit inside you?' (it is folded and coiled). Then stand your child next to it: 'Your gut is about four times as long as you are tall.'",
+     "do": "Do Activity a1. Cut a rope or string about 8 metres long. Mark it: 25 cm for the oesophagus, a knot for the stomach, about 6 metres for the small intestine and about 1.5 metres for the large intestine. These are a grown-up's sizes, measured laid out straight. Stretch it across the room, round the furniture, or along the corridor outside. Ask: 'How does all this fit inside a person?' (It is folded and coiled.) Measure your child's height and ask: 'How many of you would fit along the rope?'",
      "ref": "a1"
     },
     {
      "kind": "talk",
      "title": "A tube through you",
      "mins": 12,
-     "do": "Hold up a doughnut, a bangle, or a vada with a hole. Say: 'Your body is a bit like this. The gut is a tube from your mouth right through to your bottom. So, strange as it sounds, food inside your gut is not yet inside your body: it is in the hole of the doughnut. It only gets inside you when it is broken into tiny pieces small enough to pass through the gut wall into your blood. That breaking-down is called digestion.' Ask: 'So when you swallow a cherry seed and it comes out the other end, was it ever inside you?' Let them argue."
+     "do": "Hold up a bangle or a medu vada with a hole. Say: 'Your gut is a tube from your mouth right through to your bottom, like the hole through this vada.' Ask: 'Is food in your stomach inside your body, or still outside it? Why do you think so?' Let them argue. Then say: 'Food in the gut is still in the hole of the tube. It only gets inside your body when it is broken into pieces small enough to pass through the gut wall into your blood. This breaking down is called digestion.' Ask: 'If you swallow a watermelon seed whole and it comes out the other end, was it ever inside your body?'"
     },
     {
      "kind": "talk",
-     "title": "Your body is a history book",
+     "title": "Where the gut tube came from",
      "mins": 10,
-     "do": "Say: 'The very first animals, like sponges, had no gut at all: they caught food in tiny cells. Later animals, like jellyfish and sea anemones, had a bag with one opening, a mouth that is also the exit. Then, more than 550 million years ago, scientists think, worm-like animals grew a tube with a mouth at one end and an exit at the other. That was a great invention: food could move one way, and different parts of the tube could do different jobs, like a factory line. You inherited that tube.' Ask: 'What would be the problem with a gut that has only one opening?'"
+     "do": "Say: 'Sponges, among the simplest animals, have no gut at all. Their cells catch tiny bits of food from the water. Jellyfish and sea anemones have a gut like a bag, with one opening that is both the way in and the way out. Scientists think that more than 550 million years ago, worm-like animals had a gut tube with a mouth at one end and an exit at the other. Food could then move one way, and each part of the tube could do a different job. Your gut is that kind of tube.' Ask: 'What would be the problem with a gut that has only one opening?'"
     }
    ],
    "need": [
     "a body outline on paper and pencils",
-    "a rope or string about 7 metres long, a marker, a measuring tape",
-    "a bangle, vada or doughnut"
+    "a rope or string about 8 metres long, a marker, a measuring tape",
+    "a bangle or a medu vada"
    ]
   },
   {
    "n": 2,
    "title": "The mouth: cutting, grinding and the first enzyme",
-   "goal": "Find out what teeth and saliva do, and prove that saliva digests starch.",
+   "goal": "Find out what teeth and saliva do, and test whether warmth changes how saliva digests starch.",
    "steps": [
     {
      "kind": "warmup",
      "title": "Teeth tour",
      "mins": 8,
-     "do": "With a mirror and clean fingers, your child finds their own teeth: flat, sharp front teeth for cutting (incisors), pointed teeth beside them for gripping and tearing (canines), and broad bumpy back teeth for grinding (molars). Bite into an apple and notice which teeth do it; chew a peanut and notice which do that. Say: 'Breaking food into smaller pieces by cutting and grinding is mechanical digestion. Smaller pieces give the digestive juices much more surface to work on.'"
+     "do": "With a mirror and clean fingers, your child finds their own teeth. Incisors are the flat, sharp front teeth, for cutting. Canines are the pointed teeth beside them, for gripping and tearing. Molars are the broad, bumpy back teeth, for grinding. Bite into an apple and notice which teeth do it. Chew a peanut and notice which teeth do that. Say: 'Breaking food into smaller pieces by cutting, grinding and churning is called mechanical digestion. Smaller pieces give the digestive juices much more surface to work on.'"
     },
     {
      "kind": "do",
-     "title": "The sweet bread test",
+     "title": "Starch and sugar",
      "mins": 7,
-     "do": "Your child chews a small piece of plain bread or a bit of plain boiled rice for two whole minutes without swallowing. Ask: 'Did the taste change?' (it gets slightly sweet). Say: 'Bread is full of starch, which is long chains of sugar stuck together. Saliva has an enzyme called amylase that cuts the chains into sugar. That is chemical digestion, and it starts in your mouth.'"
+     "do": "Ask: 'In Class 4, roti turned sweet after long chewing. What do you think happened inside your mouth?' Listen. Then say: 'Roti and rice are full of starch. Starch is made of long chains of sugar joined together. Saliva has an enzyme called amylase that cuts the chains into sugar. An enzyme is a substance the body makes that speeds up one chemical change. Changing food into different, smaller substances like this is called chemical digestion.' Ask: 'Will saliva work better warm or cold? Why do you think so?' Write down the guess."
     },
     {
      "kind": "exp",
-     "title": "Saliva and the iodine test",
+     "title": "Does warmth matter?",
      "mins": 22,
-     "do": "Do Experiment e1: prove it with iodine. Iodine turns blue-black when there is starch. Put a teaspoon of starchy water (water that rice or potato was boiled in, cooled) in two cups. Add a teaspoon of your child's saliva to one and a teaspoon of water to the other. Wait 10 minutes in a warm place, then add two drops of iodine to each. Ask: 'Which turned dark, and which did not? Why?'",
+     "do": "Do Experiment e1. Your child sets up three cups of starchy water: one with saliva kept warm, one with plain water kept warm, and one with saliva kept in the fridge. After 15 minutes, a grown-up adds iodine. Iodine turns blue-black where there is starch. Ask: 'Which cup turned darkest, and which stayed lightest? Why?'",
      "ref": "e1"
     },
     {
      "kind": "talk",
-     "title": "Enzymes: tiny scissors",
+     "title": "Enzymes",
      "mins": 8,
-     "do": "Say: 'Your body makes many enzymes, each like a pair of scissors that cuts one kind of food. Amylase cuts starch. Others in the stomach and intestine cut proteins and fats. Without enzymes, digesting a meal would take years.' Ask: 'Why did we keep the saliva cup warm?' (enzymes work best at body temperature)."
+     "do": "Say: 'Your body makes many enzymes, and each one works on one kind of food. Amylase works on starch. Pepsin in the stomach works on proteins. Enzymes from the pancreas work on starch, proteins and fats. Without enzymes, digestion would be far too slow to keep us alive.' Ask: 'Why did the cold saliva work less well?' (The enzymes in our body work best near body temperature, about 37 degrees Celsius.)"
     }
    ],
    "need": [
     "a mirror, an apple, a few peanuts (check allergies)",
-    "plain bread or rice",
-    "two cups, starchy water from boiled rice or potato, a teaspoon, tincture of iodine or povidone-iodine (Betadine), a dropper"
+    "a small piece of potato or bread",
+    "three small clear cups, starchy water from boiled rice or potato, a teaspoon, iodine antiseptic solution from a chemist (tincture of iodine or povidone-iodine), a dropper, a bowl of warm water"
    ],
    "prep": [
     {
@@ -173,26 +173,26 @@
      "kind": "warmup",
      "title": "Swallowing uphill",
      "mins": 7,
-     "do": "Your child lies flat on a bed with the head a little lower than the feet and takes one small sip of water through a straw, and swallows (stay with them; small sips only). Ask: 'Did the water fall up into your stomach?' (no, it was pushed). Squeeze a marble or a small ball along the inside of an old sock or stocking with your hands, squeezing behind it. Say: 'Rings of muscle in the oesophagus squeeze behind the food in waves, pushing it along. This is called peristalsis. It works upside down, and it works for astronauts in space.'"
+     "do": "Your child lies flat on a bed with the head a little lower than the feet. They take one small sip of water through a straw and swallow. Stay with them, and use small sips only. Ask: 'Did the water fall up into your stomach?' (No. It was pushed.) Then put a marble inside an old sock and squeeze the sock just behind the marble, moving your hands along. Say: 'Rings of muscle in the oesophagus squeeze behind the food in waves and push it along. This is called peristalsis. It works even upside down, and it works for astronauts in space.'"
     },
     {
      "kind": "exp",
      "title": "A stomach in a bag",
      "mins": 12,
-     "do": "Do Experiment e2. Put a piece of bread, a few pieces of cooked dal or banana and three tablespoons of vinegar or lemon juice (the 'acid') into a strong zip bag, squeeze the air out and close it. Your child squeezes and kneads the bag for five minutes, like the stomach's strong muscle walls. Ask: 'What does the food look like now?' (a thick soup). Say: 'A real stomach churns food for a few hours with acid strong enough to dissolve metal over time, and an enzyme that cuts protein. The soup it makes is called chyme.'",
+     "do": "Do Experiment e2. Put a piece of bread, a little cooked dal or banana and three tablespoons of lemon juice or vinegar into a strong zip bag. Squeeze the air out and close it. Your child squeezes and kneads the bag for five minutes, the way the stomach's muscle walls churn food. Ask: 'What does the food look like now?' (A thick soup.) Say: 'A real stomach churns food for a few hours. It adds hydrochloric acid, and an enzyme called pepsin that breaks down proteins. The soup it makes is called chyme.'",
      "ref": "e2"
     },
     {
      "kind": "talk",
      "title": "Why doesn't the stomach digest itself?",
      "mins": 6,
-     "do": "Ask your child to guess. Then say: 'The stomach lines itself with a thick layer of slimy mucus that the acid cannot get through, and it replaces its lining cells every few days.' Ask: 'What might happen if the mucus layer was damaged?' (the acid could make a sore, an ulcer). Say: 'Hold that thought for Day 7.'"
+     "do": "Ask your child to guess why the stomach does not digest itself. Then say: 'The stomach lines itself with a thick layer of slimy mucus that the acid cannot get through. It also replaces its lining cells every few days.' Ask: 'What might happen if the mucus layer was damaged?' (The acid could make a sore, called an ulcer.) Say: 'We will come back to ulcers on Day 7.'"
     },
     {
      "kind": "read",
      "title": "Read the story",
      "mins": 15,
-     "do": "Read aloud 'The Window in My Side', the story in this rung, told by Alexis St Martin. Tell your child first that it is about a real man who was hurt and got better, and that nothing frightening is described. After reading, tell them about voice v1 and ask its question.",
+     "do": "Read aloud 'The Window in My Side', the story in this lesson. It is told by Alexis St Martin, a real man who was shot by accident in 1822 and got better. Tell your child that nothing frightening is described. After reading, tell them about voice v1 and ask its question.",
      "ref": "v1"
     },
     {
@@ -205,7 +205,7 @@
    ],
    "need": [
     "a straw and a little water, an old sock and a marble or small ball",
-    "a strong zip bag, bread, cooked dal or banana, vinegar or lemon juice",
+    "a strong zip bag, bread, cooked dal or banana, lemon juice or vinegar",
     "the story text",
     "worksheet ws1"
    ]
@@ -213,41 +213,41 @@
   {
    "n": 4,
    "title": "The small intestine: where food gets into you",
-   "goal": "Model absorption with tights, see why villi matter, and watch bile at work.",
+   "goal": "Model absorption with a cloth, see why villi matter, and watch how bile works.",
    "steps": [
     {
      "kind": "warmup",
      "title": "Finish the core sheet",
      "mins": 7,
-     "do": "Finish Worksheet ws1 from yesterday. Then ask: 'Our chyme soup is still in the doughnut hole. How does it get into your blood?'",
+     "do": "Finish Worksheet ws1 from yesterday. Then ask: 'Our chyme soup is still inside the tube. How does it get into your blood?'",
      "ref": "ws1"
     },
     {
      "kind": "exp",
-     "title": "The tights intestine",
+     "title": "The cloth intestine",
      "mins": 14,
-     "do": "Do Experiment e3. Cut one leg from an old pair of tights. Pour the stomach-bag soup from yesterday (or make a fresh one) into the tights over a bowl. Your child squeezes it along from top to bottom. Ask: 'What comes through the tights into the bowl? What stays inside?' Say: 'The liquid that passes through is like digested food passing through the wall of the small intestine into the blood. What stays inside goes on to the large intestine.'",
+     "do": "Do Experiment e3. Pour the soup from the stomach bag into a thin cotton cloth held over a bowl, and gather the cloth into a bag. Your child squeezes it gently from the top down. Ask: 'What comes through the cloth into the bowl? What stays inside?' Say: 'The liquid that passes through is like digested food passing through the wall of the small intestine into the blood. What stays inside goes on to the large intestine.'",
      "ref": "e3"
     },
     {
      "kind": "do",
      "title": "Towel villi",
      "mins": 10,
-     "do": "Pour 100 ml of water onto a smooth plastic tray and 100 ml onto a small towel lying on a tray. Lift each: the smooth tray holds almost nothing; the towel soaks most of it up. Say: 'The wall of your small intestine is not smooth. It is covered in millions of tiny fingers called villi, each covered in even tinier ones. Spread out flat, the lining would cover a big room, not just a corridor. More surface means more food gets absorbed.' Ask: 'Why is a long, folded, furry tube better than a short, smooth one?'"
+     "do": "Pour 100 ml of water onto a smooth tray, and 100 ml onto a small hand towel lying on a second tray. Lift each one. The smooth tray holds almost nothing. The towel soaks up most of the water. Say: 'A towel's loops give it a huge surface. The wall of your small intestine is like that. It is covered in millions of tiny finger-like bumps called villi, and the cells on each villus have even tinier bumps. Spread out flat, the lining of the small intestine would cover about 30 square metres, the floor of a big room. More surface means more digested food is absorbed.' Ask: 'Why is a long, folded tube with villi better than a short, smooth one?'"
     },
     {
      "kind": "exp",
      "title": "Bile and the oil drop",
      "mins": 14,
-     "do": "Do Experiment e4. Put a few drops of cooking oil in a glass of water. Ask: 'Do oil and water mix?' (no, the oil floats in blobs). Add a drop of washing-up liquid and stir. The oil breaks into tiny drops. Say: 'Your liver makes bile, a green juice stored in a little bag called the gall bladder. Bile does to fat what the soap did to the oil: breaks it into tiny drops so enzymes from the pancreas can cut them. The pancreas, a long gland behind the stomach, pours enzymes for starch, protein and fat into the small intestine too.'",
+     "do": "Do Experiment e4. Pour a teaspoon of cooking oil into a glass of water and stir. Ask: 'Do oil and water mix?' (No. The oil floats back up in blobs.) Add one drop of dishwashing liquid and stir again. The oil breaks into tiny drops. Say: 'Your liver makes bile, a yellow-green juice stored in a small bag called the gall bladder. Bile does to fat what the soap did to the oil. It breaks fat into tiny drops, so the enzymes can reach more of it. The pancreas, a gland behind the stomach, sends enzymes for starch, protein and fat into the small intestine.'",
      "ref": "e4"
     }
    ],
    "need": [
-    "the bag of stomach soup, or bread, banana and vinegar to make more",
-    "an old pair of tights, scissors, a bowl",
+    "the bag of stomach soup, or bread, banana and lemon juice to make more",
+    "a thin cotton cloth and a bowl",
     "a smooth tray, a small towel, a measuring jug",
-    "a glass, cooking oil, washing-up liquid, a spoon"
+    "a glass, cooking oil, dishwashing liquid, a spoon"
    ]
   },
   {
@@ -259,31 +259,31 @@
      "kind": "warmup",
      "title": "What's left?",
      "mins": 8,
-     "do": "Look at what stayed inside the tights yesterday (or think about it). Ask: 'What is left after the small intestine has taken the food?' (water, fibre from plants, old cells, bacteria). Say: 'The large intestine is wider and shorter. It takes back most of the water, so we do not dry out, and it shapes what is left into faeces, which wait in the rectum until we go to the toilet. If too little water is taken back, we get diarrhoea; if too much, we get constipation.' Ask: 'Why do doctors tell people to eat fibre and drink water?'"
+     "do": "Look at what stayed inside the cloth yesterday, or think back to it. Ask: 'What is left after the small intestine has taken in the digested food?' (Water, fibre from plants, old cells and bacteria.) Say: 'The large intestine is wider and shorter. It takes back most of the water, so we do not dry out. It shapes what is left into faeces, which wait in the rectum until we go to the toilet. If too little water is taken back, the faeces are runny, which is diarrhoea. If too much is taken back, they become hard and dry, which is constipation.' Ask: 'Why do doctors tell people to eat fibre and drink water?'"
     },
     {
      "kind": "talk",
      "title": "The microbes in you",
      "mins": 12,
-     "do": "Say: 'In your large intestine live trillions of bacteria and other microbes, hundreds of different kinds. The best count, from 2016, says there are about as many bacteria in you as there are human cells. They eat the fibre we cannot digest, and in return make vitamins and substances that feed the cells of your gut wall and help train your body's defences. They are not invaders. They are partners.' Show a bowl of dahi: 'Dahi is milk changed by helpful bacteria. Idli batter, dosa batter, kanji and pickles are made by microbes too.'"
+     "do": "Say: 'Your large intestine is home to trillions of bacteria and other microbes, of hundreds of different kinds. The best count, from 2016, found about as many bacteria in a person as human cells. These microbes eat the fibre we cannot digest. In return, they make some vitamins and substances that feed the cells of the gut wall, and they help train the body's defences. Most of them are helpful, not harmful.' Show a bowl of curd. Say: 'Curd is milk changed by helpful bacteria. Idli, dosa, appam and dhokla batters rise because of microbes too.'"
     },
     {
      "kind": "act",
-     "title": "You are One and Many",
+     "title": "Me and my microbes",
      "mins": 13,
-     "do": "Do Activity a2, the journal page 'You are One and Many'. On the left your child draws themselves as one person. On the right they draw a 'zoom' into the large intestine, crowded with different shaped microbes (rods, balls, spirals, chains), and label three things the microbes do: eat fibre, make vitamins, crowd out harmful germs. Ask: 'If about half of the living cells in and on you are not human, who is \"you\"?' Listen; there is no right answer.",
+     "do": "Do Activity a2, a journal page. On the left half, your child draws themselves. On the right half, they draw a zoomed-in circle of the large intestine, crowded with microbes of different shapes: rods, balls, spirals and chains. They label three things the microbes do: eat fibre, make vitamins, and crowd out harmful germs. Ask: 'What would happen to you if all these microbes disappeared?' (We could not use the fibre we eat, we would lose some vitamins, and harmful germs could grow more easily.)",
      "ref": "a2"
     },
     {
      "kind": "think",
      "title": "Do gut microbes affect how we feel?",
      "mins": 12,
-     "do": "Tell your child about voice v4, the debate over whether gut microbes affect mood and behaviour. Also say: 'Your gut has its own network of hundreds of millions of nerve cells, sometimes called the \"second brain\". It runs digestion by itself and sends messages to the brain. That is one reason you feel \"butterflies\" when nervous.' Ask the voice question.",
+     "do": "Say: 'Your gut has its own network of hundreds of millions of nerve cells. It runs digestion by itself and sends messages to the brain. This is part of why you can feel nervousness in your tummy.' Then tell your child about voice v4, the debate over whether gut microbes affect mood. Ask the voice question.",
      "ref": "v4"
     }
    ],
    "need": [
-    "a bowl of dahi",
+    "a bowl of curd",
     "paper and coloured pencils for the journal page"
    ]
   },
@@ -296,27 +296,27 @@
      "kind": "talk",
      "title": "Grass-eaters and meat-eaters",
      "mins": 14,
-     "do": "Say: 'Grass and leaves are full of cellulose, a tough fibre that no animal can digest by itself. So plant-eaters keep armies of microbes to do it.' The cow: a stomach with four chambers; the biggest, the rumen, is a giant vat of microbes digesting grass; the cow brings food back up and chews it again (chewing the cud). The rabbit: a big pouch called the caecum full of microbes, and it eats some of its own soft droppings to digest the food a second time. The cat: a meat-eater with a short, simple gut, because meat is easy to digest. The termite: eats wood, and the microbes in its gut digest it. Ask: 'Which animals are really doing the digesting, the cow or its microbes?' (both, together)."
+     "do": "Say: 'Grass and leaves are full of cellulose, a tough fibre. Most animals, including us, cannot digest cellulose by themselves. So many plant-eaters carry microbes that do it for them.' Then describe each animal. The cow has a stomach with four parts. The biggest part, the rumen, is a huge chamber of microbes digesting grass. She brings food back up and chews it again, which is called chewing the cud. The rabbit has a big pouch called the caecum, full of microbes. Rabbits eat some of their own soft droppings, to digest the food a second time. Cats eat meat, which is easier to digest, so they have a short, simple gut. Termites eat wood, and microbes in their gut help digest it. Ask: 'Who is really digesting the grass, the cow or her microbes?' (Both, working together.)"
     },
     {
      "kind": "act",
-     "title": "Drama: the journey of a roti",
+     "title": "Drama: the journey of an idli",
      "mins": 12,
-     "do": "Do Activity a3. Each family member (or toy) is a part: Mouth, Oesophagus, Stomach, Small Intestine, Liver, Large Intestine, Microbes. A ball of paper is the roti. Pass it along; each part says its line and does its action (Mouth: 'Cut and grind, and here's some saliva!'; Oesophagus: squeeze; Stomach: churn and pour acid; Liver: squirt bile; Small Intestine: tear off little bits of paper and 'absorb' them into a box marked BLOOD; Microbes: nibble the 'fibre'; Large Intestine: squeeze out the water). End at a bin marked EXIT.",
+     "do": "Do Activity a3. Each family member, or a toy, plays one part of the gut. A ball of paper is an idli. Pass it along the line, and each part says one line and does one action. The Small Intestine tears off little bits of paper and puts them in a box marked BLOOD. The Large Intestine squeezes out the 'water' and drops what is left into a bin marked EXIT.",
      "ref": "a3"
     },
     {
      "kind": "think",
      "title": "The appendix debate",
      "mins": 9,
-     "do": "Tell your child about voice v3, the appendix. Ask the voice question and ask your child which side they lean to, and why.",
+     "do": "Tell your child about voice v3, the debate about the appendix. The appendix is a small pouch at the start of the large intestine. Ask the voice question, and ask which side your child leans to, and why.",
      "ref": "v3"
     },
     {
      "kind": "ws",
      "title": "Stretch worksheet",
      "mins": 10,
-     "do": "Do Worksheet ws2 together on the intestines, microbes and other animals' guts.",
+     "do": "Do Worksheet ws2 together. It covers the intestines, microbes and other animals' guts.",
      "ref": "ws2"
     }
    ],
@@ -341,19 +341,19 @@
      "kind": "game",
      "title": "The Long Tube board game",
      "mins": 13,
-     "do": "Play the board game g1, from MOUTH to EXIT. Each square is a part of the gut or a helper; say what happens there as you land.",
+     "do": "Play the board game g1, from MOUTH to EXIT. On each square, the player says what happens to the food there.",
      "ref": "g1"
     },
     {
      "kind": "act",
      "title": "Start the project",
      "mins": 20,
-     "do": "Start the project: build a model of the whole digestive system from things at home. Choose a material for each part that matches its job: a funnel or cup for the mouth, a long straw or pipe for the oesophagus, a balloon or zip bag for the stomach, a long coiled tube or tights for the small intestine, a wider tube (a toilet-roll chain) for the large intestine, a sponge for the liver. Glue or tape them onto a big card in the right places and order. Today: plan and gather; finish tomorrow."
+     "do": "Start the project: a model of the whole digestive system made from things at home. Choose a material for each part that matches its job. For example: a funnel for the mouth, a straw or pipe for the oesophagus, a balloon or zip bag for the stomach, a long coiled tube or cloth strip for the small intestine, a chain of toilet rolls for the large intestine, and a sponge for the liver. Tape them onto a big card in the right order and places. Today, plan and gather. Finish tomorrow."
     }
    ],
    "need": [
     "the printed board game, a die and counters",
-    "funnel, straws or pipe, a balloon or bag, tights or tubing, toilet rolls, a sponge, tape, glue and a big card"
+    "a funnel, straws or a pipe, a balloon or bag, a cloth strip or tubing, toilet rolls, a sponge, tape, glue and a big card"
    ]
   },
   {
@@ -371,14 +371,14 @@
      "kind": "ws",
      "title": "Challenge worksheet",
      "mins": 12,
-     "do": "Do Worksheet ws3. These ask for reasons; let your child argue.",
+     "do": "Do Worksheet ws3. These questions ask for reasons, so let your child argue.",
      "ref": "ws3"
     },
     {
      "kind": "think",
      "title": "Big question",
      "mins": 6,
-     "do": "Ask: 'The roti you ate yesterday is now part of your blood and your muscles, and some of it fed your microbes. Where does food end and you begin?'"
+     "do": "Ask: 'The idli you ate yesterday is now part of your blood and your muscles, and some of it fed your microbes. Where does food end and you begin?' Listen, and ask for a reason."
     },
     {
      "kind": "check",
@@ -475,7 +475,7 @@
         "saliva cutting starch into sugar",
         "the stomach churning",
         "stomach acid and enzymes",
-        "bile breaking fat into tiny drops",
+        "molars grinding a peanut",
         "pancreas enzymes cutting protein"
        ],
        "cats": [
@@ -499,7 +499,7 @@
       },
       {
        "t": "mcq",
-       "p": "In the iodine test, the cup with saliva…",
+       "p": "In the iodine test, the cup with warm saliva…",
        "opts": [
         "stayed lighter because the starch was broken down",
         "turned blue-black",
@@ -514,7 +514,7 @@
      [
       {
        "t": "write",
-       "p": "Why did the bread taste sweeter after two minutes of chewing?",
+       "p": "Why does roti taste sweet after two minutes of chewing?",
        "lines": 3
       },
       {
@@ -588,7 +588,7 @@
         ],
         [
          "rabbit",
-         "eats some of its own droppings to digest twice"
+         "eats some of their own droppings to digest them twice"
         ],
         [
          "cat",
@@ -604,7 +604,7 @@
        "t": "mcq",
        "p": "Why can a cow live on grass but we cannot?",
        "opts": [
-        "its gut microbes digest cellulose for it",
+        "her gut microbes digest cellulose for her",
         "cows have stronger teeth only",
         "grass is easy to digest"
        ],
@@ -632,7 +632,7 @@
      [
       {
        "t": "write",
-       "p": "Your food is not 'inside' you until it passes through the gut wall. Explain what that means using the doughnut idea.",
+       "p": "Food in your gut is not inside your body until it passes through the gut wall. Explain what that means, using the vada with a hole.",
        "lines": 3
       },
       {
@@ -655,7 +655,7 @@
      [
       {
        "t": "mcq",
-       "p": "Beaumont put stomach juice and meat in a warm bottle. The meat dissolved. What did that show?",
+       "p": "William Beaumont, the doctor in the story, put stomach juice and meat in a warm bottle. The meat broke down. What did that show?",
        "opts": [
         "digestion is chemical, not only grinding",
         "the bottle was dirty",
@@ -665,7 +665,7 @@
       },
       {
        "t": "mcq",
-       "p": "Why did saliva work better kept warm than in the fridge?",
+       "p": "In your test, why did the warm saliva work better than the saliva from the fridge?",
        "opts": [
         "enzymes work best near body temperature",
         "cold saliva is thicker",
@@ -675,7 +675,7 @@
       },
       {
        "t": "mcq",
-       "p": "Marshall and Warren were believed after…",
+       "p": "Robin Warren and Barry Marshall, two Australian doctors, said a germ causes most stomach ulcers. Other doctors finally believed them after…",
        "opts": [
         "careful evidence, Marshall's self-experiment and antibiotics curing ulcers",
         "they shouted louder",
@@ -709,11 +709,14 @@
        ]
       },
       {
-       "t": "fill",
-       "p": "The famous self-experimenter who drank Helicobacter pylori was Barry ____.",
-       "a": [
-        "Marshall"
-       ]
+       "t": "mcq",
+       "p": "Kavya has a stomach ulcer. Her grandmother says, 'No more chilli for you.' What would a doctor most likely test for first?",
+       "opts": [
+        "the bacterium Helicobacter pylori",
+        "how much chilli she eats",
+        "how tall she is"
+       ],
+       "a": 0
       }
      ]
     ],
@@ -743,26 +746,28 @@
  "experiments": [
   {
    "id": "e1",
-   "title": "Saliva and the iodine test",
+   "title": "Saliva, warmth and starch",
    "day": 2,
-   "question": "Does saliva digest starch?",
+   "question": "Does saliva digest starch, and does warmth matter?",
    "need": [
     "half a cup of cooled starchy water (from boiling rice or potato)",
-    "two small clear cups",
+    "three small clear cups, labelled A, B and C",
     "a teaspoon",
-    "tincture of iodine or povidone-iodine (Betadine), and a dropper",
-    "a white plate"
+    "iodine antiseptic solution from a chemist (tincture of iodine or povidone-iodine), and a dropper",
+    "a bowl of warm water, about as warm as a bath",
+    "a white plate and a small piece of potato or bread"
    ],
    "steps": [
-    "First test: put a drop of iodine on a piece of bread or potato on a white plate. It turns blue-black: that shows starch.",
-    "Put two teaspoons of starchy water in each cup.",
-    "Your child spits about a teaspoon of saliva into cup A. Add a teaspoon of plain water to cup B. Label them.",
-    "Stir and leave both somewhere warm (in a bowl of warm water) for 10–15 minutes.",
-    "Add two drops of iodine to each cup and compare the colour."
+    "First, a grown-up puts one drop of iodine on a piece of potato or bread on the white plate. It turns blue-black. This shows that starch is there.",
+    "Put one teaspoon of starchy water in each cup.",
+    "Your child spits about half a teaspoon of saliva into cup A, and the same into cup C. Add half a teaspoon of plain water to cup B. Stir each one.",
+    "Stand cups A and B in the bowl of warm water. Put cup C in the fridge.",
+    "After 15 minutes, take cup C out. A grown-up adds two drops of iodine to each cup. Compare the colours, holding the cups against the white plate.",
+    "If all three are equally dark, add more saliva to cups A and C and wait 10 minutes more."
    ],
-   "predict": "Ask: 'Which cup will turn blue-black? Will the saliva make a difference?'",
-   "observe": "Cup B (water) turns dark blue-black. Cup A (saliva) stays lighter, brown or yellow, because much of the starch has gone.",
-   "why": "Iodine sticks to the long coiled chains of starch and turns blue-black. Saliva contains the enzyme amylase, which cuts starch chains into smaller sugars that iodine does not colour. Warmth helps because enzymes work best near body temperature. Cup B is the control: everything the same except the saliva, so the saliva must be what made the difference.",
+   "predict": "Ask: 'Which cup will turn darkest? Will the cold cup be different from the warm one?'",
+   "observe": "Cup B (water) turns dark blue-black. Cup A (warm saliva) stays lightest, brown or yellow, because much of the starch has gone. Cup C (cold saliva) is usually in between, often still quite dark.",
+   "why": "Iodine sticks to the long coiled chains of starch and turns blue-black. Saliva contains amylase, which cuts starch into smaller sugars that iodine does not colour. In the cold, amylase works much more slowly. Cup B is the control: everything is the same except the saliva, so the saliva made the difference. Cups A and C differ only in temperature, so warmth made that difference.",
    "safety": "Iodine is poisonous if swallowed and stains skin and clothes. An adult handles it, and nothing from the cups is tasted. Wash hands afterwards. Do not use iodine if anyone at home has an iodine allergy.",
    "time": "22 min"
   },
@@ -775,44 +780,43 @@
     "a strong zip bag",
     "a slice of bread",
     "a small banana or cooked dal",
-    "three tablespoons of vinegar or lemon juice",
+    "three tablespoons of lemon juice or vinegar",
     "a little water"
    ],
    "steps": [
     "Tear the bread and break the banana into the bag.",
-    "Add the vinegar or lemon juice and a splash of water.",
+    "Add the lemon juice or vinegar and a splash of water.",
     "Squeeze out the air and seal it well.",
     "Your child kneads and squeezes the bag for five minutes.",
     "Look at and describe the mixture. Keep it for tomorrow's experiment."
    ],
    "predict": "Ask: 'What will the food look like after five minutes of squeezing in acid?'",
    "observe": "The food breaks down into a lumpy, then smoother, soup.",
-   "why": "The stomach's thick muscle walls squeeze and churn food for a few hours (mechanical digestion), while hydrochloric acid and the enzyme pepsin start breaking proteins apart (chemical digestion). The acid also kills many germs swallowed with food. Vinegar and lemon juice are much weaker acids than stomach acid, so the model shows the idea, not the strength.",
+   "why": "The stomach's thick muscle walls squeeze and churn food for a few hours. This is mechanical digestion. At the same time, hydrochloric acid and the enzyme pepsin start breaking proteins apart. This is chemical digestion. The acid also kills many germs swallowed with food. Lemon juice and vinegar are weaker acids than stomach acid, and the bag has no pepsin, so the model shows the churning, not the real chemistry.",
    "safety": "Use a strong bag and check the seal. Do not eat the mixture.",
    "time": "12 min"
   },
   {
    "id": "e3",
-   "title": "The tights intestine",
+   "title": "The cloth intestine",
    "day": 4,
    "question": "How does digested food get out of the gut and into the blood?",
    "need": [
-    "the stomach soup from e2",
-    "one leg cut from an old pair of tights",
-    "a bowl",
-    "scissors (adult)"
+    "the stomach soup from e2, or a fresh one",
+    "a thin cotton cloth, such as a muslin cloth for making paneer, a thin hanky or an old dupatta",
+    "a bowl"
    ],
    "steps": [
-    "Hold the tights leg over the bowl.",
-    "Pour the soup into the open end.",
-    "Your child squeezes from the top down, slowly, like peristalsis.",
-    "Watch what drips into the bowl.",
-    "At the end, cut open the foot and look at what is left inside."
+    "Hold the cloth over the bowl like a shallow bag.",
+    "Pour the soup into the cloth.",
+    "Gather the top of the cloth and twist it closed.",
+    "Your child squeezes gently from the top down, slowly, like peristalsis.",
+    "Watch what drips into the bowl. At the end, open the cloth and look at what is left inside."
    ],
-   "predict": "Ask: 'What will get through the tights, and what will stay inside?'",
-   "observe": "Liquid with tiny particles passes through into the bowl; lumps and fibres stay inside.",
-   "why": "In the small intestine, food is digested into molecules small enough to pass through the gut wall into the blood, which carries them to every cell. The liquid in the bowl is like absorbed food. What stays behind, like fibre, goes on to the large intestine. Real absorption is much more selective than a filter: the gut wall cells actively take up sugars and other nutrients.",
-   "safety": "Wash hands after. Do not eat the mixture.",
+   "predict": "Ask: 'What will get through the cloth, and what will stay inside?'",
+   "observe": "Liquid with tiny bits passes through into the bowl. Lumps and fibres stay inside.",
+   "why": "In the small intestine, food is digested into molecules small enough to pass through the gut wall into the blood. The blood carries them to every cell. The liquid in the bowl is like absorbed food. What stays behind, like fibre, goes on to the large intestine. Real absorption is much more selective than a cloth: the cells of the gut wall actively take up sugars and other nutrients.",
+   "safety": "Wash hands afterwards, and wash the cloth well. Do not eat the mixture.",
    "time": "14 min"
   },
   {
@@ -823,18 +827,18 @@
    "need": [
     "a clear glass of water",
     "cooking oil",
-    "washing-up liquid",
+    "dishwashing liquid",
     "a spoon"
    ],
    "steps": [
     "Pour a teaspoon of oil into the water. Stir and watch.",
     "Leave it for a minute: the oil floats back up in blobs.",
-    "Add one drop of washing-up liquid and stir again.",
+    "Add one drop of dishwashing liquid and stir again.",
     "Compare how the oil looks now."
    ],
    "predict": "Ask: 'Can we make the oil mix into the water?'",
    "observe": "Without soap, oil makes big blobs that float. With soap, it breaks into many tiny drops that stay in the water and make it cloudy.",
-   "why": "Fat does not mix with water, so enzymes in the watery gut can only reach the outside of big fat blobs. Bile from the liver acts like soap: it breaks fat into tiny drops (emulsifies it), giving the fat-cutting enzymes from the pancreas much more surface to work on. This is mechanical help for chemical digestion.",
+   "why": "Fat does not mix with water, so enzymes in the watery gut can only reach the outside of big fat blobs. Bile from the liver acts like soap. It breaks fat into tiny drops, which is called emulsifying. This gives the fat-cutting enzymes from the pancreas much more surface to work on.",
    "safety": "Do not drink the water. Washing-up liquid stings eyes.",
    "time": "14 min"
   }
@@ -846,22 +850,22 @@
    "day": 1,
    "mins": 15,
    "need": [
-    "a rope or string about 7 metres long",
+    "a rope or string about 8 metres long",
     "a marker or coloured tape",
     "a measuring tape"
    ],
    "steps": [
     "Measure and mark: 25 cm for the oesophagus.",
     "Tie a big knot for the stomach.",
-    "Measure about 5 metres for the small intestine and mark its end.",
-    "Measure about 1.25 metres for the large intestine.",
-    "Lay it straight across the floor or a corridor, then coil it up into a space the size of your child's belly."
+    "Measure about 6 metres for the small intestine and mark its end.",
+    "Measure about 1.5 metres for the large intestine.",
+    "Lay it straight across the floor or along a corridor. Then coil it up into a space the size of a grown-up's belly."
    ],
-   "outcome": "A feel for how long the gut is (about four times your child's height) and how much folding it takes to fit inside."
+   "outcome": "A feel for how long a grown-up's gut is, about 8 metres or five times their height, and how much folding it takes to fit inside."
   },
   {
    "id": "a2",
-   "title": "You are One and Many (journal page)",
+   "title": "Me and my microbes (journal page)",
    "day": 5,
    "mins": 13,
    "need": [
@@ -869,21 +873,21 @@
     "coloured pencils"
    ],
    "steps": [
-    "On the left half, draw yourself whole: the One.",
+    "On the left half, draw yourself.",
     "On the right half, draw a big circle as if zooming into the large intestine.",
     "Fill it with microbes of many shapes: rods, balls, spirals, chains.",
     "Label three jobs they do for you.",
-    "Write underneath: 'I am one, and I am many.'"
+    "Write underneath: 'About half the living cells in and on me are microbes.'"
    ],
-   "outcome": "A journal page showing your child as one person and as a community of trillions of living things."
+   "outcome": "A journal page showing your child as one person who is also home to trillions of microbes."
   },
   {
    "id": "a3",
-   "title": "Drama: the journey of a roti",
+   "title": "Drama: the journey of an idli",
    "day": 6,
    "mins": 12,
    "need": [
-    "a ball of paper as the roti",
+    "a ball of paper as the idli",
     "small paper scraps",
     "a box marked BLOOD",
     "a bin marked EXIT",
@@ -892,7 +896,7 @@
    "steps": [
     "Give each person or toy a role: Mouth, Oesophagus, Stomach, Liver, Pancreas, Small Intestine, Microbes, Large Intestine.",
     "Each makes up one line and one action for their job.",
-    "Pass the roti along the line, each doing their action.",
+    "Pass the idli along the line, each person doing their action.",
     "The Small Intestine tears off pieces and puts them in BLOOD.",
     "The Large Intestine squeezes out 'water' and drops what is left in EXIT.",
     "Swap roles and play again faster."
@@ -908,13 +912,13 @@
   ],
   "steps": [
    "List each part of the digestive system and its job.",
-   "Choose a material for each part that matches its shape and job (a balloon stretches like a stomach; tights let liquid through like the intestine wall).",
+   "Choose a material for each part that matches its shape and job. A balloon stretches like a stomach. Cloth lets liquid through like the wall of the intestine.",
    "Fix the parts onto a big card in the right order and place, with the liver and pancreas beside the tube.",
    "Label each part and its job.",
    "Write two ways your model is like the real system and two ways it is not.",
    "Use it to teach someone."
   ],
-  "outcome": "A labelled model digestive system made from waste materials, with an honest comparison to the real thing."
+  "outcome": "A labelled model digestive system made from waste materials, with an honest comparison to the real one."
  },
  "game": {
   "id": "g1",
@@ -926,7 +930,7 @@
    "a counter for each player"
   ],
   "rules": [
-   "You are a mouthful of roti and dal. Start at MOUTH.",
+   "You are a mouthful of rice and sambar. Start at MOUTH.",
    "Roll and move along the tube.",
    "On each square, say what happens to you there before you can roll again next turn.",
    "Follow the square's instruction.",
@@ -959,16 +963,15 @@
   ]
  },
  "big": [
-  "The roti you ate is now part of your blood and muscle. Where does food end and you begin?",
+  "The idli you ate is now part of your blood and muscle. Where does food end and you begin?",
   "About half the living cells in and on you are microbes. Who is 'you'?",
-  "A cow cannot digest grass without its microbes. Who is really the grass-eater?",
-  "If food in your gut is still 'outside' you, is anything really inside you?",
+  "A cow cannot digest grass without her microbes. Who is really the grass-eater?",
   "Alexis St Martin's body taught the world about digestion. Who owns what we learn from a person's body?"
  ],
  "challenge": [
   {
    "q": "Spicy food and stress cause stomach ulcers.",
-   "hint": "For decades doctors thought so. Robin Warren and Barry Marshall showed that most stomach ulcers are caused by a bacterium, Helicobacter pylori, and can be cured with antibiotics; they won the Nobel Prize in 2005. Some ulcers are caused by painkiller medicines like aspirin. Chilli does not cause ulcers. Ask: why do you think the old idea lasted so long?"
+   "hint": "For decades doctors thought so. Robin Warren and Barry Marshall showed that most stomach ulcers are caused by a bacterium, Helicobacter pylori, and can be cured with antibiotics. They won the Nobel Prize in 2005. Some ulcers are caused by painkiller medicines like aspirin. Chilli does not cause ulcers. Ask: why do you think the old idea lasted so long?"
   },
   {
    "q": "Swallowed chewing gum stays in your stomach for seven years.",
@@ -976,7 +979,7 @@
   },
   {
    "q": "Bacteria are germs, and germs are bad.",
-   "hint": "A few kinds of bacteria cause disease. Most of the trillions in your gut are helpful partners that digest fibre, make vitamins and crowd out harmful ones. Dahi, idli and dosa batter are made by bacteria. Ask: is it fair to judge a whole kingdom of life by its worst members?"
+   "hint": "A few kinds of bacteria cause disease. Most of the trillions in your gut are helpful partners that digest fibre, make vitamins and crowd out harmful ones. Curd, and idli and dosa batter, are made with the help of bacteria. Ask: is it fair to judge a whole group of living beings by their most harmful members?"
   },
   {
    "q": "The stomach does most of the digesting.",
@@ -990,7 +993,7 @@
   },
   {
    "who": "An Ayurveda practitioner",
-   "view": "Ayurveda speaks of 'agni', the digestive fire, and teaches eating at regular times, eating warm, freshly cooked food and not eating too much at once. Some of these habits fit modern advice; the idea of agni is a way of describing digestion, not a thing a scientist can measure. Ask: can an old way of describing something still give good advice?"
+   "view": "Ayurveda speaks of 'agni', the digestive fire, and teaches eating at regular times, eating warm, freshly cooked food and not eating too much at once. Some of these habits fit modern advice. The idea of agni is a way of describing digestion, not a thing a scientist can measure. Ask: can an old way of describing something still give good advice?"
   },
   {
    "who": "A dung beetle",
@@ -1006,8 +1009,8 @@
    "id": "v1",
    "who": "Alexis St Martin (about 1794–1880), a French-Canadian fur trader, and William Beaumont (1785–1853), a US army surgeon",
    "idea": "In June 1822, on Mackinac Island in North America, a gun went off by accident and wounded the young fur trader Alexis St Martin in the side. The army surgeon William Beaumont saved his life, but the wound healed leaving a small opening into his stomach. Over about ten years Beaumont did experiments through it: lowering food on a silk thread and pulling it out to see how much was digested, and taking out stomach juice and showing that it digested meat in a warm bottle outside the body. He published a famous book in 1833.",
-   "then": "Before this many people thought the stomach mostly ground or cooked food. Beaumont showed that digestion was chemical, done by an acid juice. He became famous as the 'father of gastric physiology'.",
-   "now": "Historians now also ask about St Martin. He was poor and could not read; he signed contracts to work as Beaumont's servant so the experiments could go on, sometimes ran away, and was often unwell from them. He outlived Beaumont by 27 years. When he died, his family let his body be buried very deep so that no doctor could take it.",
+   "then": "Before this, many people thought the stomach mostly ground or cooked food. Beaumont showed that digestion was chemical, done by an acid juice. He became famous as the 'father of gastric physiology'.",
+   "now": "Historians now also ask about St Martin. He was poor and could not read. He signed contracts to work as Beaumont's servant so the experiments could go on, sometimes ran away, and was often unwell from them. He outlived Beaumont by 27 years. When he died, his family let his body be buried very deep so that no doctor could take it.",
    "status": "accepted",
    "ask": "The knowledge came from St Martin's body, and the fame went to Beaumont. Was the arrangement fair? What would have made it fairer?",
    "day": 3
@@ -1055,15 +1058,8 @@
    "title": "Gut: The Inside Story of Our Body's Most Underrated Organ",
    "author": "Giulia Enders",
    "for": "parent reads",
-   "age": "adult; read short passages aloud",
+   "age": "adult. Read short passages aloud",
    "why": "A funny, warm and accurate book by a young German doctor about digestion and gut microbes, with cartoons by her sister Jill."
-  },
-  {
-   "title": "Gajapati Kulapati",
-   "author": "Ashok Rajagopalan",
-   "for": "read together",
-   "age": "3–7",
-   "why": "A big elephant eats too many coconuts and gets a terrible tummy ache: a funny Indian picture book for talking about what happens in the gut."
   },
   {
    "title": "The Way We Work",
@@ -1076,15 +1072,15 @@
  "check": [
   {
    "q": "Name the parts of the digestive system in order.",
-   "a": "Mouth, oesophagus, stomach, small intestine, large intestine, rectum, anus; with the liver, gall bladder and pancreas as helpers."
+   "a": "Mouth, oesophagus, stomach, small intestine, large intestine, rectum, anus. With the liver, gall bladder and pancreas as helpers."
   },
   {
    "q": "What is the difference between mechanical and chemical digestion? Give an example of each.",
-   "a": "Mechanical breaks food into smaller pieces (chewing, churning); chemical breaks it into different, smaller substances with enzymes and acid (amylase turning starch into sugar)."
+   "a": "Mechanical breaks food into smaller pieces (chewing, churning). Chemical breaks it into different, smaller substances with enzymes and acid (amylase turning starch into sugar)."
   },
   {
    "q": "What did the iodine test show?",
-   "a": "Starch with saliva stayed light because amylase broke the starch down; starch with water turned blue-black."
+   "a": "Starch with warm saliva stayed light, because amylase broke the starch down. Starch with water turned blue-black. Cold saliva worked more slowly."
   },
   {
    "q": "Why is the small intestine long and covered in villi?",
@@ -1092,11 +1088,11 @@
   },
   {
    "q": "What do the large intestine and its microbes do?",
-   "a": "The large intestine takes back water and forms faeces; microbes digest fibre, make vitamins and help keep us healthy."
+   "a": "The large intestine takes back water and forms faeces. Microbes digest fibre, make vitamins and help keep us healthy."
   },
   {
    "q": "How does a cow digest grass?",
-   "a": "Microbes in its rumen digest the cellulose; it chews the cud to break it down more."
+   "a": "Microbes in her rumen digest the cellulose. She chews the cud to break it down more."
   },
   {
    "q": "What did Alexis St Martin's stomach teach Beaumont?",
@@ -1107,7 +1103,7 @@
   "title": "The Window in My Side",
   "text": [
    "My name is Alexis St Martin. I was born in Canada, near Montreal, and I cannot read or write, so I am telling you this out loud. I am an old man now, and I have been famous for most of my life, though hardly anybody knows my face. What they know is my stomach.",
-   "When I was young I was a voyageur. I paddled great canoes loaded with furs across the lakes and rivers of the north, singing to keep the rhythm, for the American Fur Company. In the summer of 1822 I was at the trading post on Mackinac Island, in the middle of the great lakes, with all the other paddlers and trappers. The store was crowded. Somebody's gun went off by accident. It went into my side.",
+   "When I was young I was a voyageur. I paddled great canoes loaded with furs across the lakes and rivers of the north, singing to keep the rhythm, for the American Fur Company. In the summer of 1822 I was at the trading post on Mackinac Island, among the Great Lakes, with all the other paddlers and trappers. The store was crowded. Somebody's gun went off by accident. It went into my side.",
    "I will not tell you about that part. I was asleep for most of it, I think. What matters is that an army doctor called William Beaumont came running from the fort, and he looked at me and said I would not live through the day. He was wrong. I was young and strong, and he was a good doctor, and he cleaned the wound and dressed it every day for many months, and slowly I got better.",
    "But the wound did not close all the way. It left a little opening in my side, about as wide as a finger, that went right into my stomach. Over time a soft fold of skin grew over it, like a little door, so that my dinner stayed inside. If you pressed on the fold, the door opened, and you could look straight into me.",
    "The doctor could look into me. He was the first person in the world who had ever been able to watch, day after day, what a living stomach does.",
@@ -1120,7 +1116,7 @@
    "Then we waited.",
    "Over the hours, the beef in the water just sat there, getting soft. But the beef in my juice began to change. Its edges went fuzzy. It broke into threads. Then the threads broke. By the next day there was hardly any beef left at all: only a cloudy soup.",
    "The doctor held the bottle up to the window, and his hand was shaking. My stomach was not in the bottle. Nothing was grinding. Nothing was churning. It was only the juice, alone, outside of any body, and still it was eating the meat.",
-   "“It is the juice,” he said. “Alexis, it is a chemical. Digestion is a chemical.”",
+   "“It is the juice,” he said. “Alexis, the juice digests the meat by itself. Digestion is chemistry.”",
    "I looked at the bottle of cloudy soup, and then down at my side, at the little door, and I thought: so that is what has been going on in there, all my life, without my knowing. A sour juice, quietly turning beef into me.",
    "The doctor wrote a famous book. It has his name on it. Doctors in many countries read it, and he became known as the father of something with a long name. In the book I am 'the subject'.",
    "I have lived a long time since. I went back to Canada and worked as a farmer and a woodcutter and raised my family. Doctors still write to me, asking me to come and be looked at, offering money. Once one of them asked whether, after I die, he could have my stomach for his museum.",
@@ -1138,21 +1134,21 @@
  },
  "ideas": [
   {
-   "idea": "You are a tube, and food is outside you until it is digested.",
-   "more": "The gut runs from mouth to anus like the hole in a doughnut. Food enters your body only when it is broken into molecules small enough to pass through the wall of the small intestine into the blood."
+   "idea": "Your gut is a tube through you, and food is outside your body until it is digested.",
+   "more": "The gut runs from mouth to anus like the hole through a vada. Food enters your body only when it is broken into molecules small enough to pass through the wall of the small intestine into the blood."
   },
   {
    "idea": "Digestion is chemistry and teamwork.",
-   "more": "Enzymes in saliva, stomach, pancreas and intestine cut food into its building blocks; the liver's bile breaks up fat; and trillions of gut microbes digest the fibre we cannot. A cow eating grass is really a cow and her microbes eating grass together."
+   "more": "Enzymes in saliva, stomach, pancreas and intestine cut food into its building blocks. The liver's bile breaks up fat. And trillions of gut microbes digest the fibre we cannot. A cow eating grass is really a cow and her microbes eating grass together."
   },
   {
-   "idea": "Your gut is a history book.",
-   "more": "The one-way gut tube was invented by worm-like animals over 550 million years ago, and plant-eaters everywhere solved cellulose the same way: by partnering with microbes."
+   "idea": "The one-way gut tube is very old.",
+   "more": "Scientists think worm-like animals had a one-way gut tube more than 550 million years ago. Most plant-eaters digest cellulose the same way: with the help of microbes."
   }
  ],
  "unknowns": [
   "How much do gut microbes affect our mood, thinking and health? Scientists are just beginning to find out, and many claims go beyond the evidence.",
-  "What is the appendix really for, and how much does it matter? Still debated.",
+  "What is the appendix really for, and how much does it matter? Scientists still debate this.",
   "Why do some people's guts react badly to foods that others digest easily? Scientists understand some cases, like lactose intolerance, but not many others."
  ]
 }
