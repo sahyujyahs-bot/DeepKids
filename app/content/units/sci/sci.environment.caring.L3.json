@@ -1,0 +1,2970 @@
+{
+ "id": "sci.environment.caring.L3",
+ "title": "Our environment: the living and non-living world around us, and how we care for it",
+ "level": 3,
+ "summary": {
+  "text": "Shut a few moong seeds in a clear box with damp cotton and close the lid. No water is added for a week, yet they stay green, while the seeds in an open box dry out. Everything around a living thing is their environment. It has living parts, such as plants, animals, microbes and people, and non-living parts, such as air, water, soil, light and warmth. Some things in it are natural, and some are made by people. All these parts keep changing each other. Earth works like the closed box: sunlight comes in, but the same water and air go round and round, so what we pour or throw out stays in our shared home.",
+  "art": "Two clear takeaway boxes side by side on a windowsill: the closed one misty with drops and full of green moong sprouts, the open one with dry cotton and drooping sprouts."
+ },
+ "intro": {
+  "hook": "Can a plant live inside a closed box, with no new water and no new air? Before you answer, say why you think so. In England, a man named David Latimer planted a bottle garden in 1960. He last watered it in 1972 and closed it with a cork. News reports say the plants were still growing more than forty years later.",
+  "text": "In this unit you look at everything around you: the living things, the non-living things, and the things people have made. You find out how they change each other. You shut moong seeds in a box and see how they manage. You follow your kitchen water and your rubbish to find where 'away' really is. And you hear about eight people who lived for two years inside a sealed glass building.",
+  "art": "A large round glass bottle with a cork, full of green plants, on a wooden shelf, with tiny drops on the inside of the glass."
+ },
+ "outcomes": [
+  "I can say what the environment is, and name living and non-living parts of the environment around my home.",
+  "I can sort things into natural and made by people, and explain why some things are a bit of both.",
+  "I can give examples of how living and non-living parts of the environment change each other.",
+  "I can explain, from the closed box test, why the seeds in the closed box kept their water and the open box dried out.",
+  "I can explain why Earth is like a closed box: sunlight comes in, but the same water and air go round.",
+  "I can follow my kitchen water and my rubbish to where they really go, and suggest a way to send less out.",
+  "I can plan and carry out one real way my family can care for the environment, and check whether it worked."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Environment",
+   "meaning": "Everything around a living thing that affects them: air, water, soil, light, warmth, other living things and the things people make.",
+   "example": "Your environment today includes the air in your room, the fan, the crow at the window and the people at home.",
+   "art": "A child at a window with labels pointing to the air, a tree, a crow, the sun, a road and a building."
+  },
+  {
+   "term": "Living thing",
+   "meaning": "Something that is alive: they take in food, breathe, grow, make young like themselves, sense and respond, and one day die.",
+   "example": "A crow, a tulsi plant, an ant and you are all living things.",
+   "art": "A crow, a tulsi plant in a pot, an ant and a girl in a row."
+  },
+  {
+   "term": "Non-living thing",
+   "meaning": "Something that is not alive and does not grow, breathe or make young by itself.",
+   "example": "A stone, the air, water, a steel tumbler and a chair are non-living things.",
+   "art": "A stone, a glass of water, a steel tumbler and a plastic chair in a row."
+  },
+  {
+   "term": "Physical environment",
+   "meaning": "The non-living part of the environment: air, water, soil, rocks, light and warmth, and also buildings and roads.",
+   "example": "In a Chennai flat, the physical environment includes the hot afternoon air, the tap water and the concrete walls.",
+   "art": "A flat's balcony with labels for sunlight, air, a water tap, a concrete wall and a pot of soil."
+  },
+  {
+   "term": "Living environment",
+   "meaning": "The living part of the environment: plants, animals, fungi, microbes and people. Books also call it the biological environment.",
+   "example": "The living environment of a balcony may hold a money plant, ants, a pigeon and the family.",
+   "art": "A balcony with a money plant, a line of ants, a pigeon on the rail and a family member watering."
+  },
+  {
+   "term": "Natural",
+   "meaning": "Made by nature, not by people.",
+   "example": "A river, a rock, a cloud, a coconut and a neem tree are natural.",
+   "art": "A river with rocks, a coconut palm and clouds above."
+  },
+  {
+   "term": "Made by people",
+   "meaning": "Made by people from natural materials, using their skill and work. Books also say 'man-made' or 'human-made'.",
+   "example": "A road, a steel tumbler, a plastic bucket and a cotton shirt are made by people.",
+   "art": "A road, a steel tumbler, a plastic bucket and a folded cotton shirt."
+  },
+  {
+   "term": "Evaporate",
+   "meaning": "When a liquid evaporates, it slowly turns into a gas that mixes into the air. Water that evaporates becomes water vapour, which we cannot see.",
+   "example": "A wet floor dries because its water evaporates into the air.",
+   "art": "A wet footprint on a tiled floor, fading, with faint dots rising from it."
+  },
+  {
+   "term": "Condense",
+   "meaning": "When water vapour in the air cools, it condenses: it turns back into tiny drops of liquid water.",
+   "example": "Drops form on the outside of a cold steel tumbler because water vapour in the air condenses on it.",
+   "art": "A cold steel tumbler with small drops of water on its outside."
+  },
+  {
+   "term": "Oxygen",
+   "meaning": "A gas in the air that people and animals breathe in, and that plants and many microbes use too. Green plants and algae give it out when they make food in light.",
+   "example": "Every breath you take carries oxygen into your lungs.",
+   "art": "A child breathing in beside a green plant, with small arrows of air between them."
+  },
+  {
+   "term": "Microbe",
+   "meaning": "A living thing too small to see without a microscope, such as a bacterium or a yeast cell.",
+   "example": "The bacteria that turn milk into curd are microbes.",
+   "art": "A bowl of curd with a magnified circle showing tiny rod-shaped bacteria."
+  },
+  {
+   "term": "Pollution",
+   "meaning": "Something harmful added to air, water or land, usually by people, in amounts the living things there cannot cope with.",
+   "example": "Smoke from burning rubbish is air pollution. Soapy water and sewage in a lake is water pollution.",
+   "art": "A lake with white froth on the water and a drain pipe pouring into it."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "What the environment is",
+   "status": "defined",
+   "definition": "The environment is everything around a living thing that affects them.",
+   "description": "Look out of any window and you see part of your environment. It is the air you breathe and the water you drink. It is the sun that warms you, the floor under you and the noise of the road. It is also the crow on the wall, the ants in the kitchen, the people at home and the microbes in your curd. Every living thing has their own environment. An ant's environment is the floor, the crumbs, the other ants and the smell trails they leave. A fish's environment is mostly water. The word comes from an old French word for 'surroundings'.",
+   "examples": [
+    "A pigeon's environment includes the ledge they nest on, the grain people throw and the cats that hunt them.",
+    "A tulsi plant's environment includes the pot of soil, the sunlight, the water you pour and the ants that visit.",
+    "Your environment at school is different from your environment at home, though you are the same person."
+   ],
+   "perspectives": [],
+   "art": "A girl standing at a window in a Madurai flat, with the view labelled: sun, air, neem tree, crow, auto-rickshaw, temple tower.",
+   "context": "This card says what the word 'environment' means, with examples from a home in India."
+  },
+  {
+   "concept": "Living and non-living parts",
+   "status": "defined",
+   "definition": "The environment has a living part (plants, animals, fungi, microbes and people) and a non-living, or physical, part (air, water, soil, rocks, light, warmth, and the things people build).",
+   "description": "Books split the environment into two parts. The living part is also called the biological environment. It holds every plant, animal, fungus and microbe, and people too. The non-living part is called the physical environment. It holds air, water, soil, rocks, sunlight and warmth. Buildings, roads and fans are non-living too, so they belong to the physical environment. To decide which part something belongs to, ask: does this grow, breathe and make young like itself? A dry seed is tricky. They look lifeless, but they are alive and will sprout when given water.",
+   "examples": [
+    "Living: the money plant, the gecko on the wall, the bacteria in curd, your grandmother.",
+    "Non-living: the tap water, the sunlight on the floor, the concrete wall, the ceiling fan.",
+    "Tricky: a dry moong seed is alive, though they seem to do nothing. A wooden door was once part of a living tree, but the door is not alive."
+   ],
+   "perspectives": [],
+   "art": "A page split down the middle: on one side a plant, an ant, a bird and a person, on the other side the sun, a glass of water, a stone and a fan.",
+   "context": "This card is about the two parts of the environment: the living part and the non-living, or physical, part."
+  },
+  {
+   "concept": "Natural, made by people, or both",
+   "status": "defined",
+   "definition": "Natural things are made by nature. Things made by people are made from natural materials using human skill and work.",
+   "description": "A river, a cloud and a coconut are natural. A road, a steel tumbler and a plastic bucket are made by people. But everything people make starts as something natural. Steel is made from iron ore dug out of the ground. Plastic is made mostly from oil or gas from deep under the ground. Paper is made from wood. Many things are a bit of both. Curd is made by people, but microbes do the work. A potted tulsi is a natural plant, placed and cared for by people. Many old lakes in Tamil Nadu and Karnataka, called eri or kere, were dug and banked by people long ago, and now fish and birds live in them.",
+   "examples": [
+    "Natural: a neem tree, rain, a crow, sand.",
+    "Made by people: a bus, a steel plate, a nylon rope, a brick.",
+    "Both: curd, a mango tree planted by your grandfather, a temple tank full of fish."
+   ],
+   "perspectives": [],
+   "art": "Three boxes: Natural (a cloud, a coconut, a rock), Made by people (a bus, a steel plate, a bucket), Both (a bowl of curd, a potted tulsi, a temple tank with fish).",
+   "context": "This card is about telling natural things from things made by people, and about the things that are a bit of both."
+  },
+  {
+   "concept": "The parts change each other",
+   "status": "defined",
+   "definition": "The living and non-living parts of the environment change each other all the time.",
+   "description": "The non-living parts decide who can live where. Moss grows in a damp corner, not on a dry, sunny wall. Geckos wait near the tube light, because insects come to the light at night. Living things change the non-living parts too. Plants take water from the soil and give it out through tiny holes in their leaves, into the air. In light, green plants take carbon dioxide from the air and give out oxygen. Earthworms and microbes turn dead leaves into soil. A peepal seed that lands in a crack in a wall can grow roots that split the wall. People change the environment most of all. We build roads and flats, dig lakes, cut forests, plant trees, and send smoke, sewage and rubbish out of our homes.",
+   "examples": [
+    "A moong seedling drinks water from the cotton and gives some of it to the air.",
+    "A peepal growing on an old wall slowly breaks the bricks with their roots.",
+    "A city built of concrete gets hotter in summer than the green land around it."
+   ],
+   "perspectives": [],
+   "art": "A peepal sapling growing out of a crack in an old brick wall, with roots spreading into the cracks.",
+   "context": "This card is about how living things and non-living things around us keep changing each other."
+  },
+  {
+   "concept": "Earth is like a closed box",
+   "status": "defined",
+   "definition": "Earth gets energy from outside, as sunlight, but almost no new water or air. The same water and air are used again and again.",
+   "description": "Remember the closed box test, with moong seeds on damp cotton? In the closed box, water evaporated from the cotton and the leaves, condensed on the cold lid, and ran back down. The water went round inside the box. Earth works the same way. Earth has no lid, but gravity holds the air and water close to Earth. Sunlight comes in from outside, and heat goes back out to space. But almost no new water arrives, and almost none leaves. So the water in your glass has fallen as rain and flowed in rivers many times. It has been inside many plants and animals before you. The oxygen in the air was made by plants, algae and some bacteria, and it is breathed in and given out again and again.",
+   "examples": [
+    "Water you pour down the sink does not disappear. It goes to a drain, a treatment plant, a river, a lake or the sea, and later rises again as water vapour.",
+    "Smoke from burning rubbish spreads through the air and comes down with rain, or is breathed in by people far away.",
+    "Plastic thrown into a drain can reach the sea and stay there for many years."
+   ],
+   "perspectives": [],
+   "art": "Earth seen from space, with a thin blue layer of air, sunlight arriving from one side and small arrows showing water going round between sea, cloud, rain and river.",
+   "context": "This card explains why Earth is like the closed box in our experiment: sunlight comes in, but the water and air go round and round."
+  },
+  {
+   "concept": "Where is 'away'?",
+   "status": "defined",
+   "definition": "When we throw something away or wash it away, it does not leave the Earth. It only goes somewhere else in the environment.",
+   "description": "We say 'throw it away' as if 'away' were a place outside the world. It is not. In Chennai, much of the city's rubbish is taken to big dump yards at Kodungaiyur and Perungudi. In Mumbai, much of it goes to Deonar. Waste water from homes flows through drains. Some of it is cleaned at sewage treatment plants, and some flows straight into rivers, lakes or the sea. In Bengaluru, soap and sewage flowing into Bellandur Lake made thick white froth that blew onto the roads. Food peels can rot back into soil, if they are kept apart from plastic. Plastic and glass stay much as they are for a very long time. So caring for the environment starts with asking, 'Where will this go next?'",
+   "examples": [
+    "A banana peel in a compost pot becomes soil in a few weeks.",
+    "A plastic wrapper thrown on the road can be washed into a drain by the rain.",
+    "Cooking oil poured down a sink can stick inside the pipes and block them."
+   ],
+   "perspectives": [],
+   "art": "A kitchen sink with its pipe followed down the side of a building, into a street drain, and on to a lake with froth on it.",
+   "context": "This card follows our rubbish and kitchen water to where they really go."
+  },
+  {
+   "concept": "What helps most when we care for the environment?",
+   "status": "debated",
+   "definition": "",
+   "description": "Everyone agrees that air, water and land need care. People disagree about what helps most. Some say small changes by every family matter most: carrying a cloth bag, sorting waste, not wasting water. Others say the big changes matter most: how cities treat sewage, how factories work, and how much forest is kept. Many people say both are needed, because big changes start when many people care.",
+   "examples": [
+    "A family in Mysuru sorts their waste into wet and dry, so the wet waste can be composted.",
+    "A city builds a sewage treatment plant, so far less dirty water reaches the lake.",
+    "Women in Reni village in the Himalayas, led by Gaura Devi, stood around their trees in 1974 to stop them being cut. This was part of the Chipko movement."
+   ],
+   "perspectives": [
+    {
+     "who": "Many teachers and families",
+     "explanation": "Each family's choices add up, because a city is made of families. Small habits, done every day by millions of people, change how much waste and dirty water there is."
+    },
+    {
+     "who": "Many environmental scientists and planners",
+     "explanation": "Most pollution comes from big sources: cities without sewage treatment, factories, power plants and vehicles. Changing those makes the biggest difference, so laws and city plans matter most."
+    },
+    {
+     "who": "People in movements like Chipko and Appiko",
+     "explanation": "Ordinary people acting together can change what governments and companies do. In 1983, villagers near Sirsi in Karnataka hugged trees to stop them being felled. 'Appiko' means 'hug' in Kannada."
+    }
+   ],
+   "art": "A family sorting waste into two bins in their kitchen, and behind them, through the window, a city sewage plant and a green hill.",
+   "context": "This card is about a real disagreement: does caring for the environment depend most on what each family does, or on what cities and companies do?"
+  }
+ ],
+ "agreed": [
+  {
+   "text": "The environment has living parts and non-living parts, and they change each other all the time.",
+   "evidence": "We can watch it: plants give water to the air, moss grows only in damp places, and people build, dig and plant."
+  },
+  {
+   "text": "Earth gets energy from the Sun but almost no new water or air. Water and air go round and round.",
+   "evidence": "Scientists measure the water cycle and the air. Only tiny amounts of matter arrive from space as dust and meteorites."
+  },
+  {
+   "text": "Almost all the oxygen in the air was made by living things.",
+   "evidence": "Rocks show that early Earth had almost no oxygen in the air. Oxygen built up after tiny living things in the sea, called cyanobacteria, began making it in sunlight, over two billion years ago."
+  },
+  {
+   "text": "What we throw out or pour away stays somewhere in the environment.",
+   "evidence": "Dump yards, plastic found on beaches and in the sea, and froth on city lakes show where waste ends up."
+  },
+  {
+   "text": "A closed container with plants, water and light can keep the plants alive for a long time without new water.",
+   "evidence": "Bottle gardens and the closed box test both show water going round inside: drops on the lid, then back into the soil or cotton."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "The environment means wild places far away, like forests and the sea, not the city.",
+   "who": "A very common idea",
+   "for": "Forests and seas have many more wild plants and animals than a city street.",
+   "against": "A city flat has an environment too: air, water, light, ants, geckos, pigeons, potted plants and people. City life also depends on rivers, lakes and farms far away.",
+   "status": "rejected",
+   "context": "This card is about a common idea: that only far-away wild places count as 'the environment'."
+  },
+  {
+   "claim": "Natural things are always good and things made by people are always bad for the environment.",
+   "who": "A common idea",
+   "for": "Many things people make, like plastic bags and smoke, do harm, and natural forests and lakes support a lot of life.",
+   "against": "Some natural things are harmful, like a snake's venom or a flood. Some made things help, like a sewage treatment plant, a water filter or a bird bath. What matters is what a thing does, not who made it.",
+   "status": "rejected",
+   "context": "This card is about the idea that 'natural' means good and 'made by people' means bad."
+  },
+  {
+   "claim": "One family is far too small to change the environment.",
+   "who": "Some people",
+   "for": "One family's rubbish is a tiny part of a whole city's.",
+   "against": "A city is made of families, and habits spread from family to family. Laws such as India's 2022 ban on many single-use plastic items came after many people asked for change.",
+   "status": "debated",
+   "context": "This card is about whether the choices of one family make any difference."
+  },
+  {
+   "claim": "Biosphere 2 showed that people can never build a working closed world.",
+   "who": "Some writers after the first Biosphere 2 mission",
+   "for": "The oxygen fell so low that fresh oxygen had to be pumped in, and many plants and animals died out.",
+   "against": "The mission taught scientists exactly why the oxygen fell: rich soil full of microbes and fresh concrete. Small closed worlds, like bottle gardens, can run for decades. Space agencies still study closed life-support systems.",
+   "status": "debated",
+   "context": "This card is about Biosphere 2, a large sealed glass building in the USA, and what it really showed."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "The water in your closed box went from cotton to air to lid and back again. Is the water in your body part of you, or part of the environment passing through?",
+   "kind": "deep",
+   "hint": "Think about where the water in you came from this morning, and where it goes when you breathe out or sweat."
+  },
+  {
+   "q": "If a pigeon lives on our balcony, is the balcony part of the pigeon's home or ours?",
+   "kind": "big",
+   "hint": "Think about who uses the balcony, for what, and at what time of day."
+  },
+  {
+   "q": "Is a city natural or made by people?",
+   "kind": "deep",
+   "hint": "Think about what a city is built from, and about the trees, crows and microbes living in it."
+  },
+  {
+   "q": "If there is no 'away', what should we do with things we no longer need?",
+   "kind": "big",
+   "hint": "Think of things that can rot, things that can be used again, and things that can be made into something new."
+  },
+  {
+   "q": "The moong seedlings in the closed box kept growing. Did they notice the lid?",
+   "kind": "deep",
+   "hint": "Plants sense light, water, touch and gravity. Did the seedlings change the way they grew when they reached the lid?"
+  },
+  {
+   "q": "Which living things share your environment without you ever seeing them?",
+   "kind": "big",
+   "hint": "Think of microbes in the soil, in curd and on your skin, and of animals that come out at night."
+  }
+ ],
+ "story": {
+  "title": "The Bottle on Ammamma's Shelf",
+  "mins": 12,
+  "read_aloud": true,
+  "note": "The story is made up. The science in it is true: water in a closed bottle evaporates, condenses on the cool glass and runs back down, and kitchen water really does travel through drains to treatment plants, lakes, rivers or the sea.",
+  "text": [
+   "In the summer holidays, Arjun came from Hyderabad to stay with his cousin Kavya in Madurai. Arjun was seven. Kavya was nine, and she knew every corner of their grandmother's flat.",
+   "On the first morning, Arjun found a big glass bottle on the shelf by the window. It was round like a pot, with a narrow neck and a cork pushed in tight. Inside was a little green world. A money plant curled along the bottom. Soft moss covered a few stones. A tiny fern stood in one corner.",
+   "\"Who waters it?\" Arjun asked.",
+   "\"Nobody,\" said Ammamma, from the kitchen. \"I closed that bottle eight years ago. I have not opened it since.\"",
+   "Arjun looked at the plants. They were green and fresh. One money plant leaf was new and still pale. \"That's not possible,\" he said. \"Plants need water. You must be watering it at night when nobody sees.\"",
+   "Ammamma laughed. \"Ask Kavya to help you find out.\"",
+   "Kavya pulled a stool up to the shelf. \"Look at the glass, Arjun. Not the plants. The glass.\"",
+   "Arjun pressed his nose close. The inside of the glass was covered with tiny drops, like the outside of a cold tumbler of water. Near the top, the drops were so small they made the glass misty. Lower down, some drops had joined into bigger ones. As he watched, one big drop slid down the glass and disappeared into the moss.",
+   "\"Water,\" said Arjun. \"But where did it come from? There's a cork.\"",
+   "\"Let's watch it all day,\" said Kavya. \"Then you tell me.\"",
+   "So they did. In the cool early morning, the glass was misty all over. Kavya touched the outside. \"Feel. The glass is cooler than the air inside the bottle. Water vapour from the soil and the leaves turns back into drops on the cool glass. That's called condensing.\"",
+   "By the afternoon, the sun had warmed the room. The mist on the glass was almost gone. Kavya pointed at the soil. \"The drops ran down into the soil this morning. Now the warm soil and the leaves are giving the water back to the air inside. That's called evaporating. You can't see water vapour, but it's in there.\"",
+   "\"So the same water goes up and down,\" said Arjun slowly. \"Up from the soil and the leaves. Onto the glass. Down into the soil again.\"",
+   "\"Every day,\" said Ammamma, \"for eight years.\"",
+   "\"What about air?\" asked Arjun. \"The plants need air too.\"",
+   "\"In the light, the leaves make their food from water and a gas in the air called carbon dioxide,\" said Kavya. \"They give out oxygen. Then the plants, and the tiny microbes in the soil, breathe some of that oxygen and give out carbon dioxide again. So the air goes round too.\"",
+   "Arjun sat back on the stool. He was quiet for a while. Then he said, \"Nothing new goes in. Nothing goes out. Only the light.\"",
+   "That evening, after dinner, Arjun scraped the leftover rasam from his plate into the sink. He turned on the tap and washed it down. \"There,\" he said. \"Gone.\"",
+   "Kavya looked at him. \"Gone where?\"",
+   "Arjun opened his mouth and shut it again.",
+   "\"Come,\" said Kavya. She took a torch, and they went out to the balcony. A grey pipe ran from under the kitchen sink, through the wall, and down the side of the building. They followed it with the torch, down past the flat below, and the one below that, to the ground. There it joined a bigger pipe that went under the road.",
+   "\"Where does that one go?\" Arjun asked.",
+   "Ammamma had come out behind them. \"To a big drain, and then to a plant where the dirty water is cleaned,\" she said. \"Then the cleaner water goes into a river or out to the sea. Not every city cleans all its drain water. In some places, it flows straight into a lake.\"",
+   "\"So the rasam isn't gone,\" said Arjun. \"It's just somewhere else.\"",
+   "\"The water in it will rise from the sea one day as water vapour,\" said Kavya. \"Then it will come down as rain. Maybe on Madurai.\"",
+   "Arjun looked up at the sky. The first stars were coming out above the temple towers. \"Is the whole world like Ammamma's bottle?\"",
+   "\"In one way, yes,\" said Ammamma. \"There is no glass around the Earth. But the Earth's pull holds the air and the water close. The sunlight comes in. The same water and the same air go round and round. Whatever we pour out or throw out stays in the bottle with us.\"",
+   "The next morning, Arjun was up before Kavya. She found him at the shelf, watching a drop slide down the glass. Beside him, on the floor, was a small steel bowl.",
+   "\"What's that for?\" Kavya asked.",
+   "\"For the rice water,\" said Arjun. \"Ammamma says it's good for her tulsi. I'm not washing it away any more. I'm sending it somewhere on purpose.\""
+  ],
+  "epiphany": "For the parent: a closed bottle garden keeps going because water evaporates from the soil and leaves, condenses on the cooler glass and runs back down, and because plants and soil microbes keep passing oxygen and carbon dioxide between them. Only light enters. Earth works the same way for water and air: sunlight comes in and heat leaves, but almost no matter arrives or escapes. Arjun's leap is that 'washing it away' only moves the rasam somewhere else in that shared bottle.",
+  "ask": [
+   "Where did the drops on the inside of Ammamma's bottle come from?",
+   "Why was the glass misty in the morning but clear in the afternoon?",
+   "What happened to Arjun's rasam after it went down the sink?",
+   "In what way is the Earth like Ammamma's bottle? In what way is it different?",
+   "What did Arjun decide to do with the rice water, and why?"
+  ],
+  "art": [
+   "A round glass bottle with a cork on a shelf by a window in a Madurai flat, with a money plant, moss and a small fern inside.",
+   "A boy pressing his nose to the bottle, a girl on a stool beside him pointing at drops sliding down the glass.",
+   "The two children on a balcony at night with a torch, following a grey pipe down the side of a building.",
+   "The children and their grandmother on the balcony looking up at stars above temple towers.",
+   "The boy on the floor by the shelf in the morning, a small steel bowl of rice water beside him."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Four Corners: living or not, natural or made",
+   "mins": 20,
+   "players": [
+    "alone",
+    "2 to 4 players",
+    "a whole family"
+   ],
+   "context": "This is a card game about sorting the things around us. Each card shows one thing. Players place it in one of four corners of a grid, and must give a reason.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "32 thing cards to cut out",
+     "items": [
+      "Easy cards: crow, neem tree, stone, rain cloud, steel tumbler, plastic bucket, ant, sand, auto-rickshaw, coconut, river, brick",
+      "Tricky cards: curd, wooden spoon, potted tulsi, dry moong seed, cotton shirt, temple tank with fish, paper, salt from the salt pans, a dog, a mango tree your grandfather planted",
+      "More tricky cards: honey, a pearl, a silk saree, glass, a road with grass growing through cracks, a bird's nest, a beehive, a snake skin, a candle, a clay pot"
+     ]
+    },
+    {
+     "kind": "board",
+     "title": "The four-corner grid",
+     "items": [
+      "A big square split into four boxes: Living and natural, Living and placed or cared for by people, Non-living and natural, Non-living and made by people",
+      "A small 'Argue it!' circle in the middle, for cards that could go in two boxes"
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "Reason tokens",
+     "items": [
+      "20 small paper circles. A player earns one for every good reason that the others accept."
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the cards and put them face down in a pile.",
+    "Take turns to turn over one card.",
+    "Put the card in one of the four boxes, and say why in one sentence.",
+    "If another player thinks it belongs somewhere else, put it in the 'Argue it!' circle. Each of you gives a reason.",
+    "If the others agree with a reason, that player earns a reason token. A good reason can earn a token even if you change your mind.",
+    "When all cards are placed, the player with the most reason tokens wins.",
+    "Playing alone? Sort all the cards, then pick the three hardest and write a reason for each."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut out the cards and lay out the grid. 2. Read the four box names aloud. 3. Place one easy card together, such as the crow.",
+     "say": "Each card is something in our environment. We put it in a box and say why. Let's try the crow together. Is the crow living? Is the crow natural?",
+     "kid": "Turn over a card. Is the thing living? Is it natural? Put it in a box.",
+     "context": "This is the first step of Four Corners, a card game about sorting the things around us."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "Take turns turning over cards. When a card is argued, both players give a reason before you decide.",
+     "say": "Curd! Is curd living? Who made it? Tell me your reason before you put it down.",
+     "kid": "Say your reason out loud. Others can argue. Good reasons win tokens.",
+     "parent": "Expect real arguments over curd (made by people, but full of living bacteria), the wooden spoon (made by people from a natural, once-living tree), honey and the beehive (made by bees, not people) and the dry seed (alive though still). These are the point of the game. Reward the reason, not the box.",
+     "check": {
+      "t": "mcq",
+      "q": "Which box suits a dry moong seed best?",
+      "options": [
+       "Non-living and natural",
+       "Living and natural",
+       "Non-living and made by people"
+      ],
+      "a": 1,
+      "why": "A dry moong seed is alive, though they seem to do nothing. Given water, they sprout. Many people first say 'non-living', because the seed does not move or grow while dry."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Count the tokens. 2. Look at the 'Argue it!' cards together. 3. Ask which card was hardest.",
+     "say": "Which card was hardest to place? Why? Did anything belong to two boxes at once?",
+     "kid": "Which card was hardest? Why was it hard?",
+     "ask": [
+      {
+       "q": "Why is a beehive hard to place?",
+       "good": [
+        "It is made, but by bees, not by people.",
+        "It is natural, though it is built.",
+        "The box names only talk about people making things."
+       ]
+      }
+     ]
+    }
+   ],
+   "setup": [
+    {
+     "art": "A table with a square grid split into four boxes, a pile of picture cards face down, and a few cards already placed: a crow, a stone, a bucket.",
+     "caption": "1. Lay out the grid and shuffle the cards."
+    },
+    {
+     "art": "Two children pointing at a card of a bowl of curd placed in the middle circle of the grid, each holding up a paper token.",
+     "caption": "2. Argue the tricky cards. Good reasons win tokens."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "No Away: a board game where everything comes back round",
+   "mins": 20,
+   "players": [
+    "2 to 4 players"
+   ],
+   "context": "This is a board game played on a loop. Players move water drops round the loop from home to drain to lake to cloud and back. Anything a player 'throws away' stays on the board and comes back round.",
+   "printables": [
+    {
+     "kind": "board",
+     "title": "The loop board",
+     "items": [
+      "A ring of 20 squares: Home tap, Kitchen sink, Drain, Treatment plant, River, Lake, Sea, Water vapour, Cloud, Rain, Hill, Stream, Eri (village lake), Paddy field, Well, Tank on the roof, Home tap again, and three 'Choice' squares",
+      "A 'Dump yard' space beside the board"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "16 choice cards",
+     "items": [
+      "Pour leftover oil down the sink: put a black oil token on the Drain square",
+      "Wipe the oily pan with old newspaper first: no token",
+      "Throw a plastic wrapper from the bus window: put a wrapper token on the River square",
+      "Put peels in the compost pot: move 2 squares ahead",
+      "Wash the scooter with a running pipe: lose your next turn",
+      "Water the plants with rice water: move 1 square ahead",
+      "Plus 10 more cards of the same kind, written by your family"
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "Tokens",
+     "items": [
+      "4 blue water-drop tokens, one per player",
+      "10 black oil tokens",
+      "10 wrapper tokens"
+     ]
+    }
+   ],
+   "rules": [
+    "Each player puts a water drop on Home tap.",
+    "Take turns to roll a dice and move round the loop.",
+    "On a Choice square, take a choice card and do what it says. Tokens put on the board stay there.",
+    "If you land on a square with an oil or wrapper token, you are stuck there for one turn. Your drop is dirty and must be cleaned at the Treatment plant before it can go on.",
+    "A player can spend a turn to pick up one token and take it to the Dump yard. The dump yard is still part of the board.",
+    "The first drop to go all the way round twice wins. But if more than 10 tokens are on the board, everyone loses."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Lay out the board. 2. Put the drops on Home tap. 3. Read the squares round the loop aloud.",
+     "say": "This board is one loop. Our water starts at the tap and goes to the sink, the drain, the river, the cloud and the rain. Then it comes back to the tap.",
+     "kid": "Put your drop on Home tap. Follow the loop with your finger.",
+     "context": "This is the first step of No Away, a board game where everything you throw out stays on the board."
+    },
+    {
+     "id": "s2",
+     "mins": 14,
+     "do": "Play. When someone places a token, ask where that thing would really go.",
+     "say": "You poured oil down the sink. Look, the oil stays on the Drain square. Who will land there next?",
+     "kid": "Roll and move. Read your card. Tokens stay on the board!",
+     "parent": "The point is that nothing leaves the loop. Even the Dump yard sits beside the board. If tokens pile up, everyone loses, so players soon start cleaning up together. Let that happen without telling them to."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Count the tokens left on the board. Talk about which choice cards put the most on it.",
+     "say": "How many tokens are still on the board? Which choices put them there? Where would they be in real life?",
+     "kid": "Count the tokens left. Which cards made the most mess?",
+     "check": {
+      "t": "mcq",
+      "q": "In the game, what happens to a wrapper token put on the River square?",
+      "options": [
+       "It leaves the board",
+       "It stays on the board until someone moves it",
+       "It turns into a water drop"
+      ],
+      "a": 1,
+      "why": "Nothing leaves the board, just as nothing thrown away leaves the Earth. Even the Dump yard is beside the board. Choosing 'it leaves the board' is the 'away' habit the game is testing."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A ring-shaped board of 20 squares labelled tap, sink, drain, river, lake, sea, cloud, rain and well, with blue drop tokens on the tap square.",
+     "caption": "1. Put every drop on Home tap."
+    },
+    {
+     "art": "The same board later, with a few black oil tokens and wrapper tokens on the drain and river squares, and a child carrying one to a box marked Dump yard beside the board.",
+     "caption": "2. Tokens stay on the board unless someone moves them."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Closed Box Test: can moong seedlings live with the lid on?",
+   "mins": 30,
+   "days": 7,
+   "context": "In this experiment you grow moong seeds in two clear boxes. One box is closed tight. The other is left open. You add no more water for a week, and watch what happens to the water and the seedlings in each.",
+   "question": "If we shut moong seeds in a closed box with damp cotton, and add no more water or air, will they live longer or shorter than seeds in an open box?",
+   "predict": "Which box will keep its seedlings green longer, the closed one or the open one? Why do you think so? Think about water, and think about air.",
+   "fair_test": "Both boxes are the same size. Each gets the same cotton, the same 3 tablespoons of water and 10 soaked moong seeds from the same bowl. Both stand side by side in the same place. Only one thing is different: one box has its lid on. We use 10 seeds, not 1, because one seed might be dead.",
+   "results_table": [
+    "Day",
+    "Closed box: drops on the lid?",
+    "Closed box: cotton damp or dry?",
+    "Closed box: seedlings",
+    "Open box: cotton damp or dry?",
+    "Open box: seedlings"
+   ],
+   "materials": [
+    {
+     "item": "two clear plastic boxes of the same size with lids, such as takeaway food boxes. Two glass jars with lids also work, but the open jar dries more slowly, so the test takes longer.",
+     "qty": 2
+    },
+    {
+     "item": "cotton wool, enough for a layer about 1 cm thick in each box. No cotton? Use a folded cotton hanky or soil from a potted plant.",
+     "qty": 1
+    },
+    {
+     "item": "whole green moong seeds, soaked in water overnight",
+     "qty": 20,
+     "buy": "b-moong"
+    },
+    {
+     "item": "a tablespoon and water",
+     "qty": 1
+    },
+    {
+     "item": "a pen and two paper labels: 'Lid on' and 'Lid off'",
+     "qty": 1
+    },
+    {
+     "item": "a kitchen weighing scale, if you have one (not needed)",
+     "qty": 1
+    }
+   ],
+   "safety": "Wash hands after handling the seeds and cotton. If white or grey fuzzy mould grows, do not open the box near your face. Throw the cotton and seeds in the wet waste at the end, and wash the boxes.",
+   "schedule": [
+    {
+     "day": 0,
+     "mins": 2,
+     "what": "The night before: soak 20 moong seeds in a bowl of water."
+    },
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Set up both boxes. Guess what will happen and why. Close one lid. Weigh both boxes if you have a scale."
+    },
+    {
+     "day": 2,
+     "mins": 3,
+     "what": "Look for drops on the lid of the closed box. Touch the cotton in the open box. Fill in the table."
+    },
+    {
+     "day": 4,
+     "mins": 3,
+     "what": "Look at both boxes again and fill in the table."
+    },
+    {
+     "day": 7,
+     "mins": 10,
+     "what": "Last look and weighing. Say your claim, your evidence and your reasoning."
+    }
+   ],
+   "record": "Fill in the table on days 2, 4 and 7. On day 7, draw both boxes side by side and draw arrows where you think the water went in each.",
+   "flow": [
+    {
+     "id": "s0",
+     "mins": 2,
+     "do": "The night before, put 20 whole moong seeds in a bowl and cover them with water.",
+     "say": "Tonight we soak some moong seeds, so they are ready to sprout tomorrow.",
+     "kid": "Put 20 moong seeds in a bowl. Cover them with water.",
+     "parent": "Soaking for 8 to 12 hours makes the seeds sprout within a day. Any whole green moong from the kitchen works. Split moong dal will not sprout.",
+     "context": "This is the first step of the Closed Box Test. You soak moong seeds the night before."
+    },
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. Lay cotton wool about 1 cm thick in each box. 2. Pour 3 tablespoons of water evenly over each cotton. 3. Spread 10 soaked seeds on each. 4. Label one box 'Lid on' and one 'Lid off'.",
+     "say": "Both boxes get exactly the same cotton, the same water and the same number of seeds. Why do you think that matters?",
+     "kid": "Put cotton in both boxes. Add 3 spoons of water to each. Put 10 seeds on each.",
+     "parent": "Count the spoons aloud together. Keeping everything the same means any difference must come from the lid. The cotton should be damp all through, with no pool of water on top.",
+     "context": "This is the setting-up step of the Closed Box Test."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Hold up the lid. Ask your child to guess before you close it. Wait for a guess and a reason.",
+     "say": "I'm going to close this box tight and leave the other one open. We won't add any more water for a week. Which seeds do you think will do better? Why?",
+     "kid": "Guess first. Which box will keep its seedlings green? Why?",
+     "ask": [
+      {
+       "q": "What do you think will happen in the closed box?",
+       "good": [
+        "Any guess with a reason. Many children say the closed seeds will die because they have no air. Others say the closed box will keep its water. Both are good guesses."
+       ]
+      }
+     ],
+     "parent": "Do not hint. Write the guess and the reason on the label or in the notebook, so you can look back on day 7."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Press the lid on one box firmly all round. 2. Put both boxes side by side in a bright place, out of direct sun. 3. If you have a kitchen scale, weigh each box and write the weights down.",
+     "say": "Now the closed box has nothing coming in except light. Let's put them where it is bright, but not in hot sun.",
+     "kid": "Close one lid tight. Put both boxes in a bright spot. No hot sun!",
+     "parent": "Direct sun can heat a closed box enough to cook the seedlings, so choose a bright windowsill that gets no midday sun, or a table near a window. A sunny balcony is too hot."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Next morning: look closely at the lid of the closed box. Touch the cotton in the open box with one finger. Fill in the table.",
+     "say": "Look at the lid of the closed box. What do you see on it? Now feel the cotton in the open box. Is it as wet as yesterday?",
+     "kid": "Look at the closed lid. Drops? Feel the open box cotton. Still wet?",
+     "parent": "By morning, the inside of the closed lid is usually misty or covered with drops. Most seeds in both boxes have small white roots. Do not open the closed box at any point.",
+     "wait": "Next morning (day 2)"
+    },
+    {
+     "id": "s5",
+     "mins": 3,
+     "do": "On day 4: look at both boxes and fill in the table again.",
+     "say": "What has changed in each box since day 2? Look at the cotton, the drops and the seedlings.",
+     "kid": "Look at both boxes. What changed? Fill in your table.",
+     "parent": "In a warm Indian home, the open box's cotton is often dry by day 3 or 4, and those seedlings start to droop. In cool or rainy weather it may take a few days longer, so keep checking until there is a clear difference. The closed box should still be misty, with seedlings growing up towards the lid.",
+     "wait": "Day 4"
+    },
+    {
+     "id": "s6",
+     "mins": 6,
+     "do": "On day 7: 1. Look at both boxes. 2. Weigh them again, if you weighed them on day 1. 3. Ask for a claim, evidence and reasoning.",
+     "say": "What happened in each box? What did you see that tells you so? Why do you think it happened? If we weighed them, what happened to each weight?",
+     "kid": "What happened? What did you see? Why do you think so?",
+     "ask": [
+      {
+       "q": "Where did the water in the open box go?",
+       "good": [
+        "Into the air of the room.",
+        "It evaporated.",
+        "Some went into the seedlings and out of their leaves into the room."
+       ]
+      },
+      {
+       "q": "Where did the water in the closed box go?",
+       "good": [
+        "It went into the air in the box, onto the lid, and dripped back down.",
+        "It went round and round inside the box.",
+        "Nowhere outside the box."
+       ]
+      }
+     ],
+     "parent": "With a scale, the closed box weighs almost the same as on day 1, within a few grams, even though the seedlings grew. Almost nothing left it. A takeaway lid is not perfectly airtight, so a tiny loss is normal. The open box is lighter, because water left it as vapour. If your closed box grew mould, that is another living thing that lived on the same water and air.",
+     "wait": "Day 7"
+    },
+    {
+     "id": "s7",
+     "mins": 5,
+     "do": "Talk about why the closed seedlings did not run out of air. Then talk about Earth.",
+     "say": "The closed box never got new air. In the light, the leaves make oxygen, and the seedlings and microbes breathe it again. Earth is a bit like this box. What comes in from outside?",
+     "kid": "Nothing new came into the closed box. Only light. Is Earth like that?",
+     "check": {
+      "t": "mcq",
+      "q": "What came into the closed box from outside during the week?",
+      "options": [
+       "Water",
+       "Fresh air",
+       "Only light"
+      ],
+      "a": 2,
+      "why": "The lid kept water and air in and kept new water and air out. Only light came through the clear plastic. Picking 'fresh air' is a common guess, because we feel plants must need new air. The seedlings used the same air again and again."
+     }
+    }
+   ],
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results from a warm flat in Chennai",
+    "cols": [
+     "Day",
+     "Closed box",
+     "Open box"
+    ],
+    "rows": [
+     [
+      "Day 2",
+      "Lid covered in drops. Cotton wet. 9 seeds with roots.",
+      "Cotton damp. 9 seeds with roots."
+     ],
+     [
+      "Day 4",
+      "Drops on lid. Cotton wet. Green shoots 3 cm tall.",
+      "Cotton dry on top. Shoots 2 cm, some drooping."
+     ],
+     [
+      "Day 7",
+      "Shoots 6 cm, touching the lid, still green. Weight 2 grams less than day 1.",
+      "Cotton dry. Seedlings floppy and dry. 38 grams lighter."
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "Two clear takeaway boxes on a table, each with a layer of white cotton and 10 swollen moong seeds, and a tablespoon of water being poured on one.",
+     "caption": "1. Same cotton, same water, same seeds in both boxes."
+    },
+    {
+     "art": "One box with its lid pressed on and labelled 'Lid on', the other open and labelled 'Lid off', side by side near a bright window but out of the sun's rays.",
+     "caption": "2. Close one lid. Put both in a bright place, out of hot sun."
+    },
+    {
+     "art": "Day 7: the closed box misty with drops and tall green seedlings bending under the lid, the open box with dry cotton and drooping seedlings.",
+     "caption": "3. Compare after a week. Where did each box's water go?"
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "The Drain Test: does washing powder in water change how seeds sprout?",
+   "mins": 25,
+   "days": 4,
+   "context": "In this experiment you sprout moong seeds with plain water, a little washing powder in water, and a lot of washing powder in water. Soapy water from our homes goes down drains and reaches lakes and rivers, where seeds and plants live.",
+   "question": "Do moong seeds sprout and grow the same in soapy water as in plain water? Does the amount of soap matter?",
+   "predict": "Which cup of seeds will grow the longest roots by day 3: plain water, a little soap or a lot of soap? Why do you think so?",
+   "fair_test": "Each cup gets the same cotton, 10 seeds from the same packet and 2 tablespoons of its own water. All three cups stand together in the same place. Only the water changes. We keep adding the same water to each cup if it dries.",
+   "results_table": [
+    "Cup",
+    "Seeds sprouted on day 2 (out of 10)",
+    "Seeds sprouted on day 3 (out of 10)",
+    "Longest root on day 3 (cm)",
+    "What the roots look like"
+   ],
+   "materials": [
+    {
+     "item": "three small cups or steel katoris of the same size",
+     "qty": 3
+    },
+    {
+     "item": "cotton wool or a folded cotton cloth for each cup",
+     "qty": 3
+    },
+    {
+     "item": "30 whole green moong seeds, not soaked",
+     "qty": 30,
+     "buy": "b-moong"
+    },
+    {
+     "item": "washing powder, the kind used for clothes",
+     "qty": 1
+    },
+    {
+     "item": "three tumblers of water, labelled 'Plain', 'A little' and 'A lot'",
+     "qty": 3
+    },
+    {
+     "item": "a teaspoon, a tablespoon and a ruler",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up mixes the washing powder. Keep it away from eyes and mouths. Wash hands after touching soapy cotton. Pour the soapy water away at the end into the toilet, not onto a potted plant.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Mix the three waters. Set up three cups with 10 seeds each. Guess and give a reason."
+    },
+    {
+     "day": 2,
+     "mins": 3,
+     "what": "Count the sprouted seeds in each cup. Add a spoon of the right water to any cup that is drying."
+    },
+    {
+     "day": 3,
+     "mins": 7,
+     "what": "Count again and measure the longest root in each cup. Say your claim, evidence and reasoning."
+    },
+    {
+     "day": 4,
+     "mins": 2,
+     "what": "One last look. Clear up."
+    }
+   ],
+   "record": "Fill in the table on days 2 and 3. Draw one seedling from each cup, the same size as in real life.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. Fill three tumblers with water. 2. Leave the first plain. 3. Stir a small pinch of washing powder into the second. 4. Stir 1 level teaspoon into the third. 5. Label them.",
+     "say": "Water from our washing goes down the drain. Some of it reaches lakes, where seeds and plants live. Let's see what soapy water does to seeds.",
+     "kid": "A grown-up mixes the soap. One plain, one a little, one a lot.",
+     "adult": true,
+     "parent": "A pinch is about what you hold between two fingers. A level teaspoon in a tumbler is far stronger than most drain water, so it makes the effect easy to see.",
+     "context": "This is the first step of the Drain Test, which compares seeds in plain water and soapy water."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Put cotton in each cup. 2. Pour 2 tablespoons of the matching water on each. 3. Put 10 dry moong seeds on each cup. 4. Label the cups.",
+     "say": "Which cup do you think will grow the longest roots? Why do you think so?",
+     "kid": "Put 10 seeds on each cup. Guess which grows best. Why?",
+     "adult": true,
+     "ask": [
+      {
+       "q": "What do you think the soap will do?",
+       "good": [
+        "Any guess with a reason, for example that soap cleans, so it cannot hurt, or that soap is not meant for plants, so it may harm them."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Put the three cups side by side in the same place, out of direct sun.",
+     "say": "All three cups sit together, so they get the same warmth and light. Only the water is different.",
+     "kid": "Put the three cups together. Wait till tomorrow.",
+     "parent": "If the cups dry out on day 2, add one more spoon of each cup's own water."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Day 2: count how many seeds in each cup have a white root. Fill in the table.",
+     "say": "How many seeds have sprouted in each cup? Let's count them together.",
+     "kid": "Count the seeds with roots in each cup.",
+     "wait": "Day 2"
+    },
+    {
+     "id": "s5",
+     "mins": 7,
+     "do": "Day 3: 1. Count again. 2. Measure the longest root in each cup with a ruler. 3. Ask for a claim, evidence and reasoning.",
+     "say": "What did the soap do? What did you see that shows it? Why do you think that happened?",
+     "kid": "What did the soap do? Show me how you know.",
+     "parent": "Usually the plain cup grows the longest white roots. The 'a lot' cup has fewer sprouts, or short, brownish roots. The 'a little' cup is often in between, or close to plain. If all three grow the same in your home, that is a real result too. Write it down, and talk about how much soap a lake would need to get.",
+     "wait": "Day 3"
+    }
+   ],
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "Cup",
+     "Sprouted by day 3",
+     "Longest root"
+    ],
+    "rows": [
+     [
+      "Plain",
+      "10",
+      "4 cm"
+     ],
+     [
+      "A little",
+      "9",
+      "3 cm"
+     ],
+     [
+      "A lot",
+      "4",
+      "under 1 cm, brownish"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "Three tumblers of water labelled Plain, A little and A lot, with a pinch and a teaspoon of white washing powder beside them.",
+     "caption": "1. A grown-up mixes three waters."
+    },
+    {
+     "art": "Three steel katoris with cotton and 10 moong seeds each, labelled, standing side by side.",
+     "caption": "2. Ten seeds on each cup. Same place, same light."
+    },
+    {
+     "art": "A child measuring the white root of a moong sprout with a ruler, with three cups of different-looking sprouts beside her.",
+     "caption": "3. Count the sprouts and measure the longest root."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The Window Survey: what is in our environment?",
+   "mins": 15,
+   "days": 1,
+   "context": "This activity starts the unit. You list everything you can see, hear and feel from one window, then sort the list into living and non-living, and natural and made by people.",
+   "materials": [
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a timer or a phone clock",
+     "qty": 1
+    }
+   ],
+   "safety": "Stay inside the window or the balcony railing. Do not lean out.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "List what you notice from one window in 3 minutes, then sort the list."
+    }
+   ],
+   "record": "Draw a big square split into four boxes: living and natural, living and cared for by people, non-living and natural, non-living and made by people. Write each thing from your list in a box.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Stand at a window or balcony together. 2. Set a 3-minute timer. 3. Your child calls out everything they see, hear or feel. 4. You write it all down.",
+     "say": "For three minutes, tell me everything you notice. Things you see, things you hear, things you feel on your skin. I'll write them all down.",
+     "kid": "Look, listen and feel for 3 minutes. Say everything you notice.",
+     "parent": "Children often list only big things they see. Prompt gently: 'What can you hear? What can you feel on your face?' Good lists include wind, sunlight, a crow, a coconut palm, an auto, a temple bell, a neighbour's pressure cooker, dust, clouds and the smell of jasmine.",
+     "context": "This is the first step of the Window Survey, which starts the unit on our environment."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "1. Draw the four-box square. 2. Read out each thing on the list. 3. Your child says which box it goes in, and why.",
+     "say": "Everything on our list is part of our environment. Let's sort it. Is the crow living or non-living? Natural or made by people?",
+     "kid": "Sort your list into the four boxes. Say why for each.",
+     "ask": [
+      {
+       "q": "Where does the wind go?",
+       "good": [
+        "Non-living and natural."
+       ]
+      },
+      {
+       "q": "Where does the potted plant on the next balcony go?",
+       "good": [
+        "Living, and cared for by people.",
+        "Living and natural, but someone planted them."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Look at the box with the most things, and the things that were hard to place.",
+     "say": "Which box has the most things? Which thing was hardest to place? Did anything change something else on the list?",
+     "kid": "Which box is fullest? Which thing was hard? Why?",
+     "ask": [
+      {
+       "q": "Can you find one thing on the list that changes another thing on the list?",
+       "good": [
+        "The sun warms the wall.",
+        "The wind moves the tree.",
+        "The crow eats from the dustbin.",
+        "The auto makes smoke in the air."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "Lakshmi hears a temple bell from her window. Which box does the bell go in?",
+      "options": [
+       "Living and natural",
+       "Non-living and natural",
+       "Non-living and made by people"
+      ],
+      "a": 2,
+      "why": "A bell is made of metal by people, and it is not alive. The sound reaches Lakshmi through the air. Picking 'natural' happens when we think of the sound, which travels through the natural air, instead of the bell that makes it."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A girl and her mother at an open window of a flat, the girl pointing out at a coconut palm and a crow while the mother writes in a notebook.",
+     "caption": "1. Three minutes: say everything you see, hear and feel."
+    },
+    {
+     "art": "A notebook page with a square split into four labelled boxes, and words like crow, wind, auto, palm, bell written in them.",
+     "caption": "2. Sort the list into the four boxes."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Where Is Away? Follow the water and the rubbish",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you follow your kitchen water and your rubbish as far as you can, to find out where 'away' really is.",
+   "materials": [
+    {
+     "item": "a torch",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of paper for a map",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up comes along. Stay away from open drains, roads and moving vehicles. Do not touch the drain or the bins.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Follow the sink pipe as far as you can see it. Ask who takes the rubbish and where. Draw a map of where both go."
+    }
+   ],
+   "record": "Draw a map with two paths: one for the sink water and one for the dry rubbish. Draw each path as far as you know it. Put a question mark where you do not know.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. Look under the kitchen sink together. 2. Find where the pipe leaves the flat. 3. From a balcony or the ground, follow it with your eyes or a torch as far as you can.",
+     "say": "When water goes down the sink, we say it has gone away. Let's find out where away is. Where does this pipe go?",
+     "kid": "Find the sink pipe. Where does it go? Follow it with your eyes.",
+     "adult": true,
+     "parent": "In most flats, the pipe runs down the outside of the building into a bigger pipe or an inspection chamber, and then into the street sewer. You do not need to see all of it.",
+     "context": "This is the first step of Where Is Away?, an activity that follows our kitchen water and rubbish."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Ask the person who collects your rubbish, the building watchman, or a neighbour where the rubbish goes. Or look it up together on your city corporation's website.",
+     "say": "Who takes our rubbish? Where do they take it? Let's ask.",
+     "kid": "Who takes our rubbish? Ask where it goes next.",
+     "adult": true,
+     "parent": "In many cities, rubbish goes first to a collection point or transfer station, then to a dump yard or a processing plant. In Chennai, the large dump yards are at Kodungaiyur and Perungudi. Wet waste may go to a compost centre, if it was kept separate."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "Draw the map of both paths together. Mark what you know and what you do not.",
+     "say": "Let's draw where our water and our rubbish go. Where does each path stop? Is that really the end?",
+     "kid": "Draw the paths. Does either one really end?",
+     "ask": [
+      {
+       "q": "Where does the sink water end up in the end?",
+       "good": [
+        "A river, a lake or the sea.",
+        "Then it evaporates and becomes rain again.",
+        "It never really ends."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "Farhan washes a plastic wrapper down a street drain. Where is the wrapper most likely to end up?",
+      "options": [
+       "It disappears",
+       "In a river, a lake or the sea, or stuck in the drain",
+       "It turns into soil within a week"
+      ],
+      "a": 1,
+      "why": "Plastic does not rot away within weeks, and it does not disappear. Drains carry it to rivers, lakes and the sea, or it blocks the drain. 'It disappears' is the 'away' habit: thinking that what we cannot see any more has stopped existing."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A boy and his aunt shining a torch on a grey pipe running down the outside wall of a block of flats.",
+     "caption": "1. Follow the sink pipe as far as you can."
+    },
+    {
+     "art": "A child's map with two paths, one blue from a sink to a drain to a river, and one brown from a bin to a truck to a dump yard, each ending with a question mark.",
+     "caption": "2. Draw where the water and the rubbish go."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Who Else Lives Here? A week of home neighbours",
+   "mins": 20,
+   "days": 7,
+   "context": "In this activity you find the other living things that share your flat or building, and notice what each one needs from the place where you find them.",
+   "materials": [
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    },
+    {
+     "item": "a torch",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass, if you have one",
+     "qty": 1
+    }
+   ],
+   "safety": "Look, do not touch. Keep away from wasps' nests, bees and stray dogs. Wash hands after looking in corners.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Hunt through the flat for other living things. Write where you found each one."
+    },
+    {
+     "day": 2,
+     "mins": 2,
+     "what": "Look again at one spot, morning or night."
+    },
+    {
+     "day": 7,
+     "mins": 8,
+     "what": "Count up your list. For each living thing, say what the spot gives them."
+    }
+   ],
+   "record": "Make a table with three columns: who I found, where I found them, and what that spot gives them.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "Walk through the flat together. Look in the kitchen, the bathroom and the balcony. Check the window grills, the corners near the tube light and the potted plants.",
+     "say": "We are not the only ones living here. Let's find who else shares our home. Look in corners, near the light and near food.",
+     "kid": "Hunt for living things in your home. Write where each one was.",
+     "parent": "Common finds: ants near the sugar or the dustbin, a gecko near the tube light at night, a spider in a corner, pigeons or sparrows on the grill, mosquitoes in the bathroom, moss or black mould in a damp corner, and the potted plants. Mould and moss count as living things too.",
+     "context": "This is the first step of Who Else Lives Here?, an activity about the living things that share our home."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "On another day, look again at one spot at a different time of day, such as the tube light after dark.",
+     "say": "Is the same living thing there now? Is someone new here?",
+     "kid": "Look at one spot again, at a new time. Who is there now?",
+     "parent": "A gecko waits near a tube light after dark because insects come to the light. Seeing this links the non-living part, the light, with the living ones.",
+     "wait": "Day 2"
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "Count up the list. For each living thing, talk about what that spot gives them.",
+     "say": "Why do you think the ants are near the sugar jar, and the moss is in the damp corner? What does each spot give them?",
+     "kid": "Why is each one in that spot? What does the spot give them?",
+     "ask": [
+      {
+       "q": "Why is moss found in the damp corner of the bathroom and not on the sunny wall?",
+       "good": [
+        "Moss needs damp places.",
+        "The sunny wall is too dry for moss.",
+        "The water in the bathroom keeps the corner wet."
+       ]
+      }
+     ],
+     "wait": "Day 7"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A girl with a torch looking at a gecko next to a tube light on a wall at night.",
+     "caption": "1. Hunt for the living things that share your home."
+    },
+    {
+     "art": "A notebook table with columns: who, where, what the spot gives, filled in with ants, kitchen, sugar crumbs, and moss, bathroom corner, damp.",
+     "caption": "2. Write who, where, and what the spot gives them."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Natural, Made or Both? The kitchen hunt",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you find things in the kitchen and trace each one back to what it was made from, to find out how much of 'made by people' started as natural.",
+   "materials": [
+    {
+     "item": "10 things from the kitchen, such as a steel tumbler, a wooden spoon, a clay pot, a bowl of curd, salt, rice, a plastic box, a glass jar, a cotton cloth and honey",
+     "qty": 10
+    },
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Leave knives, the stove and the gas cylinder alone.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Collect 10 kitchen things. For each one, say whether it is natural, made by people or both, and what it came from."
+    }
+   ],
+   "record": "Write each thing in a row, and draw an arrow back to what it was made from. For example: steel tumbler, from steel, from iron ore dug from the ground.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Collect 10 things from the kitchen and put them on the floor or a table.",
+     "say": "Let's collect ten things from the kitchen. Then we decide: natural, made by people, or both?",
+     "kid": "Find 10 things in the kitchen. Put them in a row.",
+     "context": "This is the first step of the kitchen hunt, an activity about natural things and things made by people."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "For each thing, ask: natural, made by people, or both? Then ask: what was it made from, and what was that made from?",
+     "say": "This steel tumbler was made by people. What is steel made from? Where did that come from? Keep going back.",
+     "kid": "For each thing, ask: what was it made from? Keep asking!",
+     "parent": "Every made thing leads back to something natural: steel from iron ore, plastic mostly from oil or natural gas, glass from sand, paper from wood, a cotton cloth from the cotton plant, a clay pot from clay. Curd and honey are both: made with the help of living things. This prepares for the idea that what we make and throw out stays in the environment.",
+     "check": {
+      "t": "mcq",
+      "q": "Divya's plastic lunch box is made by people. What was the plastic mostly made from?",
+      "options": [
+       "Sand",
+       "Oil or natural gas from under the ground",
+       "Nothing, it was made new"
+      ],
+      "a": 1,
+      "why": "Most plastic is made from oil or natural gas dug from under the ground. People change natural materials into new ones. They never make a material from nothing. Glass is the thing made from sand."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A row of kitchen things on a floor mat: a steel tumbler, a wooden spoon, a clay pot, a bowl of curd, a plastic box, a glass jar, salt and a cotton cloth.",
+     "caption": "1. Line up 10 things from the kitchen."
+    },
+    {
+     "art": "A notebook with arrows going back from 'steel tumbler' to 'steel' to 'iron ore in the ground', and from 'cotton cloth' to 'cotton plant'.",
+     "caption": "2. Follow each thing back to what it came from."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "One Tree's Guests (if you have a park or a tree nearby)",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you watch one tree for 15 minutes and list every living thing that uses the tree. It works on a street tree, a park tree or a tree seen from a balcony.",
+   "materials": [
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    },
+    {
+     "item": "a cloth to sit on",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up comes along. Do not touch ants' nests, bees' nests or caterpillars, because some sting or have itchy hairs. Stay away from the road.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Watch one tree for 15 minutes. List every living thing on it, under it and visiting it."
+    }
+   ],
+   "record": "Draw the tree. Draw each guest where you saw them, and write what they were doing.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 15,
+     "do": "Choose one tree. Sit quietly where you can see it. For 15 minutes, list every living thing on it, under it, or visiting it.",
+     "say": "A tree is part of the environment of many others. Let's count who uses this one. Watch the trunk, the leaves, the ground under it and the sky above.",
+     "kid": "Watch one tree quietly. List every living thing you see.",
+     "adult": true,
+     "parent": "On a neem, peepal, mango or rain tree you may see crows, mynas, squirrels, ants on the trunk, spiders, caterpillars, moss or lichen on the bark, and people resting in the shade. Saalumarada Thimmakka of Karnataka, with her husband, planted and cared for 385 banyan trees along about 4 km of road between Hulikal and Kudur. You could tell this story while you watch.",
+     "context": "This is the first step of One Tree's Guests, an activity for families with a tree nearby."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Look at the list together.",
+     "say": "How many living things use this one tree? What does the tree give each of them? What do they give the tree?",
+     "kid": "How many guests did the tree have? What did the tree give them?",
+     "ask": [
+      {
+       "q": "What does a tree give a crow?",
+       "good": [
+        "A place to sit or nest.",
+        "Shade.",
+        "Fruit or insects to eat."
+       ]
+      }
+     ]
+    }
+   ],
+   "setup": [
+    {
+     "art": "A mother and daughter sitting on a cloth under a big neem tree, the girl writing in a notebook while a squirrel runs down the trunk.",
+     "caption": "1. Watch one tree for 15 minutes."
+    },
+    {
+     "art": "A child's drawing of a tree with small drawings of a crow, a squirrel, ants and a resting man, each with a label.",
+     "caption": "2. Draw each guest where you saw them."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "A Bottle Garden to Keep",
+   "mins": 60,
+   "days": 30,
+   "context": "In this month-long project you build a closed bottle garden with soil and a money plant cutting, close the jar, and keep a diary of the water going round inside.",
+   "materials": [
+    {
+     "item": "a big clear jar or bottle with a lid or cork, at least 1 litre, such as a large pickle jar",
+     "qty": 1
+    },
+    {
+     "item": "a cup of small stones or broken bits of clay pot",
+     "qty": 1
+    },
+    {
+     "item": "2 cups of soil from a potted plant, or potting soil",
+     "qty": 1,
+     "buy": "b-soil"
+    },
+    {
+     "item": "a small cutting of money plant with 3 or 4 leaves, or a small fern",
+     "qty": 1
+    },
+    {
+     "item": "a spoon and a long stick for pressing the soil",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up handles the glass jar. Wash hands after handling soil. Keep the jar out of direct sun, or it gets too hot inside.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Build the bottle garden, water it once and close it."
+    },
+    {
+     "day": 3,
+     "mins": 5,
+     "what": "Diary: drops on the glass in the morning and the afternoon."
+    },
+    {
+     "day": 7,
+     "mins": 5,
+     "what": "Diary: new leaves or roots? Draw the garden."
+    },
+    {
+     "day": 14,
+     "mins": 10,
+     "what": "Diary: anything new growing that you did not plant?"
+    },
+    {
+     "day": 30,
+     "mins": 10,
+     "what": "Diary: compare with day 1. Decide whether to keep it closed."
+    }
+   ],
+   "record": "A garden diary: the date, the time, what the glass looks like, and a drawing each week.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 30,
+     "do": "1. Put 2 cm of small stones in the bottom of the jar. 2. Add soil on top, about 5 cm deep. 3. Make a hole with the stick and plant the cutting. 4. Pour in 3 tablespoons of water. 5. Close the lid.",
+     "say": "We are making a little world. Stones at the bottom catch extra water. The soil holds the plant. After today, we will not open it.",
+     "kid": "Stones first, then soil. Plant the cutting. Water once. Close the lid.",
+     "adult": true,
+     "parent": "If thick drops cover the glass all day after the first few days, there is too much water: open it for an afternoon, then close it again. If no drops form at all, add one more tablespoon of water. Small mould spots at first are common and usually fade.",
+     "context": "This is the first day of the Bottle Garden project, where you build a closed world in a jar."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Look at the glass in the early morning and again in the afternoon. Write and draw what you see.",
+     "say": "When is the glass misty, morning or afternoon? Why do you think so?",
+     "kid": "Is the glass misty now? Write the time and what you see.",
+     "parent": "Morning mist and afternoon clearing is common, because the glass is cooler than the air inside in the early morning.",
+     "wait": "Day 3"
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "Every week, draw the garden and look for changes: new leaves, roots, moss, tiny insects or mould.",
+     "say": "Is anything living in there that we did not put in?",
+     "kid": "Draw your garden. Is anything new living there?",
+     "parent": "Tiny springtails, moss or a sprouted weed seed from the soil may appear. They came in with the soil. This shows the soil was full of life to begin with.",
+     "wait": "Day 14"
+    },
+    {
+     "id": "s4",
+     "mins": 10,
+     "do": "Compare the day 1 drawing with today's. Talk about where the water has been all month.",
+     "say": "No water has gone in for a month. Where has the plant's water been all this time?",
+     "kid": "Look at day 1 and today. Where did the water go all month?",
+     "wait": "Day 30"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A big glass pickle jar on newspaper, with a layer of small stones at the bottom and a child's hands spooning soil on top.",
+     "caption": "1. Stones, then soil, then the cutting."
+    },
+    {
+     "art": "The closed jar on a shelf near a window, with a money plant cutting inside and mist on the glass.",
+     "caption": "2. Water once, close it, and keep a diary."
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "title": "Our Family's Care Week",
+   "mins": 45,
+   "days": 7,
+   "context": "In this week-long project your family chooses one thing it sends out of the home, tries to send less of it for a week, and measures whether it worked.",
+   "materials": [
+    {
+     "item": "a notebook for a tally chart",
+     "qty": 1
+    },
+    {
+     "item": "whatever your chosen change needs, such as a cloth bag, a steel bowl for rice water or a small compost pot",
+     "qty": 1
+    }
+   ],
+   "safety": "If you choose composting, keep the pot covered and away from the kitchen counter. Wash hands after handling waste.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Choose one thing to send out less of. Count how much goes out on a normal day."
+    },
+    {
+     "day": 2,
+     "mins": 3,
+     "what": "Start the change. Tally each day."
+    },
+    {
+     "day": 7,
+     "mins": 15,
+     "what": "Count up the week. Did it work? What was hard? Will you keep it up?"
+    }
+   ],
+   "record": "A tally chart with one row for each day: how many plastic bags, or how many litres of water, or how many bowls of peels kept out of the bin.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 15,
+     "do": "Talk as a family. Choose one thing, such as plastic bags, oil down the sink, or peels in the dry bin. Count how much goes out on one normal day.",
+     "say": "We send many things out of our home. Let's pick one and try to send less of it this week. First, how much goes out on a normal day?",
+     "kid": "Pick one thing your family throws out. Count it for one day.",
+     "parent": "Good choices are small and countable: plastic carry bags brought home, leftover cooking oil, rice water poured down the sink, or wet waste mixed with dry. A change the child can do themselves works best.",
+     "context": "This is the first day of the Care Week project, where your family tries one change for a week."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Each day, make the change and add a tally mark.",
+     "say": "Did we do it today? Let's add today's tally.",
+     "kid": "Did we do it today? Add a tally mark.",
+     "wait": "Day 2"
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "At the end of the week, count up and compare with the first day.",
+     "say": "How much less went out this week? What made it hard? Where would the things we did not throw out have gone?",
+     "kid": "Count up. Did it work? What was hard?",
+     "ask": [
+      {
+       "q": "Should we keep doing it? Why?",
+       "good": [
+        "Any answer with a reason, such as that it was easy, it saved money, or that a different change would be easier."
+       ]
+      }
+     ],
+     "wait": "Day 7"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A family at a dining table with a notebook, deciding between a cloth bag, a steel bowl and a small compost pot.",
+     "caption": "1. Choose one change and count a normal day."
+    },
+    {
+     "art": "A tally chart on the fridge with seven rows of marks, and a cloth bag hanging on a hook beside it.",
+     "caption": "2. Tally every day, then count up the week."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "A Water Bowl for Birds on a Hot Balcony",
+   "mins": 30,
+   "context": "This is a design challenge. In an Indian summer, birds in cities struggle to find water. Design a water station for your balcony or window that birds will use safely.",
+   "problem": "Make a water station for birds that stays cool, is easy to clean every day, keeps birds safe from cats and does not become a place for mosquitoes to breed.",
+   "constraints": [
+    "Use things from home, such as a clay saucer, a steel plate, stones and string.",
+    "It must be fixed so it cannot fall off the balcony.",
+    "The water must be easy to change every day."
+   ],
+   "materials": [
+    "a wide, shallow clay saucer or steel plate",
+    "a few clean stones",
+    "string or wire",
+    "a piece of cloth or cardboard for shade"
+   ],
+   "general": [
+    "A wide, shallow dish is best, about 3 to 5 cm deep, so small birds can stand and drink without falling in.",
+    "Clay keeps water cooler than plastic, because water seeps into the clay and evaporates from the outside.",
+    "Change the water every day, so mosquito eggs never have time to hatch."
+   ],
+   "creative": [
+    "Put a stone in the middle as a landing step.",
+    "Hang a small cloth over one side for shade.",
+    "Keep a second saucer for washing and swapping, so one is always clean."
+   ],
+   "your_turn": "Now design your own bird water station. Draw it, build it with a grown-up, and keep a tally of the birds that visit for one week.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "Talk about the problem. Draw two ideas.",
+     "say": "Birds need water in summer, but a bowl can fall, get hot, or grow mosquitoes. What could we build? Let's each draw one idea.",
+     "kid": "Draw two ideas for a bird water bowl. Think: safe, cool, clean.",
+     "context": "This is a design challenge: make a water station for birds on a hot balcony."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "Build the best idea. Fix it firmly where a grown-up says.",
+     "say": "Where can we put it so cats cannot reach it and it will not fall?",
+     "kid": "Build it with a grown-up. Fix it so it cannot fall.",
+     "adult": true,
+     "parent": "Fix the dish on the inside of the railing or on a wide ledge, never hanging over the edge. A ledge out of reach of cats is best."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Make a plan for changing the water every day.",
+     "say": "Who will change the water each morning? Why does it matter to change it every day?",
+     "kid": "Who changes the water each day? Why every day?",
+     "check": {
+      "t": "mcq",
+      "q": "Why should the water in a bird bowl be changed every day?",
+      "options": [
+       "So mosquito eggs in it never have time to hatch into mosquitoes",
+       "Because birds only drink fresh water once",
+       "To make it colder"
+      ],
+      "a": 0,
+      "why": "Mosquitoes lay eggs in still water, and the young take several days to grow into flying mosquitoes. Changing the water every day tips them out first. Some mosquitoes spread dengue, so this matters for people too."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A shallow clay saucer with a stone in the middle, tied firmly on a wide balcony ledge, with a cloth giving shade on one side.",
+     "caption": "1. Design a cool, safe, shallow water bowl."
+    },
+    {
+     "art": "A myna drinking from the saucer while a child watches from inside and makes a tally mark.",
+     "caption": "2. Change the water every day and count the visitors."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Stop It at the Sink: a catcher for food bits and oil",
+   "mins": 30,
+   "context": "This is a design challenge. Food bits and cooking oil washed down the kitchen sink can block pipes and dirty the water downstream. Design a way to catch them before they go down.",
+   "problem": "Design a way to stop rice, peels and oil going down the kitchen sink, using things from home, that the family will really use every day.",
+   "constraints": [
+    "It must not block the sink.",
+    "It must be easy to empty into the wet waste bin.",
+    "It must be safe and cost nothing or very little."
+   ],
+   "materials": [
+    "a steel tea strainer or a small sieve",
+    "old newspaper or a used cloth",
+    "a small steel bowl or tin with a lid"
+   ],
+   "general": [
+    "Put a steel mesh catcher over the sink hole and empty it into the wet waste.",
+    "Wipe oily pans and plates with old newspaper before washing, and put the paper in the dry waste.",
+    "Pour leftover oil into a tin with a lid, not the sink."
+   ],
+   "creative": [
+    "Make a sign for the sink that reminds everyone.",
+    "Use the starchy rice water to water plants instead of pouring it out.",
+    "Keep a 'scrape plate' by the sink for leftovers."
+   ],
+   "your_turn": "Now design your own way to stop it at the sink. Try it for three days and ask the family what worked.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "Look at what goes down the sink after one meal. Talk about where it goes.",
+     "say": "After lunch, let's watch what goes down the sink. Where does it go after that?",
+     "kid": "Watch the sink after lunch. What goes down? Where next?",
+     "context": "This is a design challenge: catch food bits and oil before they go down the sink."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "Draw and build a catcher. Try it after the next meal.",
+     "say": "What could catch the rice but let the water through? What could catch the oil?",
+     "kid": "Make a catcher. Try it after the next meal.",
+     "parent": "A steel tea strainer over the sink hole catches most bits. Oil needs to be wiped off before washing, because a strainer lets it through."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Look at what the catcher caught.",
+     "say": "How much did we catch? Where will it go now instead?",
+     "kid": "What did your catcher catch? Where will it go now?",
+     "check": {
+      "t": "mcq",
+      "q": "Why does a tea strainer not stop oil going down the sink?",
+      "options": [
+       "Oil is a liquid, so it flows through the holes",
+       "Oil is too heavy",
+       "Oil turns into water in the sink"
+      ],
+      "a": 0,
+      "why": "Oil is a liquid, like water, so it runs through the mesh. Wiping the pan with paper first catches it. In the pipes, cooled oil and fat can stick and build up into a blockage."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A steel kitchen sink with a tea strainer set over the drain hole, holding a few grains of rice and a peel.",
+     "caption": "1. Catch the food bits over the drain."
+    },
+    {
+     "art": "A child wiping an oily kadai with a sheet of old newspaper before washing it.",
+     "caption": "2. Wipe the oil off first, before washing."
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "A sealed bottle garden that has lived for decades",
+   "channel": "to find",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 4,
+   "why": "Shows a real closed bottle garden with drops on the glass, like the Closed Box Test and the Bottle Garden project, on a bigger scale.",
+   "check": "No video id has been checked yet. Search for 'David Latimer bottle garden' or 'sealed terrarium water cycle'. Choose one that shows condensation on the glass and does not claim the plants need nothing at all: they still need light."
+  },
+  {
+   "title": "Biosphere 2: what happened when eight people were sealed inside",
+   "channel": "to find",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 6,
+   "why": "For the parent and older children: the true story in How We Found Out, with pictures of the glass building and its rainforest, ocean and farm.",
+   "check": "No video id has been checked yet. Prefer a short documentary clip or a Biosphere 2 (University of Arizona) video. Check that it explains the oxygen loss as soil microbes plus carbon dioxide taken up by concrete."
+  },
+  {
+   "title": "Where does the water from our drains go? A sewage treatment plant in India",
+   "channel": "to find",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 5,
+   "why": "Follows waste water from homes through a treatment plant, matching the Where Is Away? activity and the card on 'away'.",
+   "check": "No video id has been checked yet. Prefer a tour of an Indian city's plant, for example in Chennai or Bengaluru. Check that it shows screening, settling and cleaning by microbes, and is suitable for children."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "What does the word 'environment' mean?",
+   "opts": [
+    "Only forests, rivers and wild animals",
+    "Everything around a living thing that affects them",
+    "Only the things people have built"
+   ],
+   "a": 1,
+   "why": "The environment is everything around a living thing that affects them: air, water, soil, light, other living things and things people make. Picking 'only forests' is a common idea, but a city flat has an environment too.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is part of the living environment?",
+   "opts": [
+    "The sunlight on the floor",
+    "The ants in the kitchen",
+    "The water in the tap"
+   ],
+   "a": 1,
+   "why": "Ants are alive: they eat, breathe, grow and make young. Sunlight and tap water are important parts of the environment, but they are non-living, so they belong to the physical environment.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Meena, a girl in Class 3, has a wooden spoon. Which is true about the spoon?",
+   "opts": [
+    "It is natural and living",
+    "It was made by people from wood, which came from a living tree",
+    "It was made by people from nothing"
+   ],
+   "a": 1,
+   "why": "People made the spoon, but they made it from wood, and wood comes from a tree. The spoon itself is not alive. People always make things from natural materials, never from nothing.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is a bit of both natural and made by people?",
+   "opts": [
+    "A cloud",
+    "A plastic bucket",
+    "A bowl of curd"
+   ],
+   "a": 2,
+   "why": "People make curd by adding a spoon of old curd to warm milk, but living bacteria do the work of turning the milk into curd. A cloud is fully natural. A bucket is made by people.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "In the Closed Box Test, drops formed on the inside of the closed lid. Where did the water in the drops come from?",
+   "opts": [
+    "From the air outside the box",
+    "From the cotton and the seedlings inside the box",
+    "From the plastic of the lid"
+   ],
+   "a": 1,
+   "why": "The lid kept outside air out. Water evaporated from the wet cotton and the seedlings' leaves, then condensed on the cooler lid. Picking 'from outside' is common, because we expect water to have been brought in.",
+   "outcome": 3,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "In the Closed Box Test, the open box dried out. Why?",
+   "opts": [
+    "Its water evaporated into the air of the room and did not come back",
+    "The seedlings drank all of it and kept it",
+    "The cotton turned it into air"
+   ],
+   "a": 0,
+   "why": "The open box let water vapour escape into the room. In the closed box the same vapour hit the lid and dripped back. The seedlings did drink some, but they gave much of it to the air through their leaves.",
+   "outcome": 3,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "How is Earth like the closed box?",
+   "opts": [
+    "New water rains in from space every day",
+    "Sunlight comes in, but almost no new water or air arrives, so the same water and air go round",
+    "Nothing at all comes in, not even light"
+   ],
+   "a": 1,
+   "why": "Sunlight reaches Earth from outside, and heat goes back out to space. But gravity holds the air and water close, and almost no new matter arrives. So water and air are used again and again.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Kavya pours leftover rasam down the sink. Where does the rasam go?",
+   "opts": [
+    "It disappears",
+    "Through drains to a treatment plant, a river, a lake or the sea",
+    "Back into Kavya's tap"
+   ],
+   "a": 1,
+   "why": "Nothing poured down a sink leaves the Earth. It travels through drains, and some is cleaned at treatment plants, before reaching rivers, lakes or the sea. 'It disappears' is the 'away' habit.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Moss grows in the damp corner of a bathroom but not on a hot, sunny wall. What does this show?",
+   "opts": [
+    "The non-living environment decides where some living things can live",
+    "Moss is scared of light",
+    "Moss is non-living"
+   ],
+   "a": 0,
+   "why": "Moss needs damp places, so the water and shade in the bathroom corner make it a home for moss. The dry sunny wall does not. The physical environment shapes who can live where.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Farhan's family wants to send less plastic out of their home. Which plan is easiest to check?",
+   "opts": [
+    "Try to be better",
+    "Carry a cloth bag to the shop and count the plastic bags brought home each day for a week",
+    "Tell the neighbours to use less plastic"
+   ],
+   "a": 1,
+   "why": "A good care plan is one change you can count. Counting the bags each day shows whether it worked. 'Try to be better' is a good wish, but there is nothing to count.",
+   "outcome": 6
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Around Me (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "sort",
+     "p": "Sort these into the living environment or the physical (non-living) environment.",
+     "cats": [
+      "Living",
+      "Physical"
+     ],
+     "items": [
+      [
+       "crow",
+       "Living"
+      ],
+      [
+       "wind",
+       "Physical"
+      ],
+      [
+       "money plant",
+       "Living"
+      ],
+      [
+       "concrete wall",
+       "Physical"
+      ],
+      [
+       "mould on bread",
+       "Living"
+      ],
+      [
+       "sunlight",
+       "Physical"
+      ],
+      [
+       "gecko",
+       "Living"
+      ],
+      [
+       "tap water",
+       "Physical"
+      ]
+     ],
+     "a": "see items",
+     "why": "Living things grow, breathe and make young. Everything else around us is the physical environment. A strong sorter asks 'Is it alive?' and not 'Does it move?', because wind moves but is not alive."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into natural or made by people.",
+     "cats": [
+      "Natural",
+      "Made by people"
+     ],
+     "items": [
+      [
+       "river",
+       "Natural"
+      ],
+      [
+       "brick",
+       "Made by people"
+      ],
+      [
+       "coconut",
+       "Natural"
+      ],
+      [
+       "steel plate",
+       "Made by people"
+      ],
+      [
+       "sand",
+       "Natural"
+      ],
+      [
+       "nylon rope",
+       "Made by people"
+      ]
+     ],
+     "a": "see items",
+     "why": "Natural things are made by nature. Made things are made by people from natural materials. A strong sorter can say what each made thing came from."
+    },
+    {
+     "t": "fill",
+     "p": "Everything around a living thing that affects them is called their ____.",
+     "a": [
+      "environment"
+     ],
+     "why": "The environment includes living and non-living things, natural and made."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these is NOT part of a pigeon's environment on a city balcony?",
+     "opts": [
+      "the railing they sit on",
+      "the grain someone scatters",
+      "a lion in a forest far away"
+     ],
+     "a": 2,
+     "why": "A pigeon's environment is everything around them that affects them. A lion far away does not affect the pigeon. The railing and the grain do."
+    },
+    {
+     "t": "truefalse",
+     "p": "A city flat has no environment, because there are no forests in it.",
+     "a": false,
+     "why": "False. A flat has air, water, light, warmth, ants, geckos, plants and people. All of that is an environment."
+    },
+    {
+     "t": "write",
+     "p": "Nila, a girl in Class 3, says, \"A dry moong seed is non-living, because they do not move or grow.\" Is she right? Explain.",
+     "lines": 3,
+     "a": "No. A dry moong seed is alive, though they seem to do nothing. Given water, they swell and sprout within a day or two. A stone never does that.",
+     "why": "A strong answer says the seed is alive and gives evidence, such as sprouting when given water."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Closed Box Test, what was the ONE thing that was different between the two boxes?",
+     "opts": [
+      "the number of seeds",
+      "the lid",
+      "the amount of water"
+     ],
+     "how": "e1",
+     "a": 1,
+     "why": "Everything else was kept the same: the box, the cotton, the water, the seeds and the place. That is why any difference must come from the lid."
+    },
+    {
+     "t": "draw",
+     "p": "Draw the closed box from the Closed Box Test. Draw arrows to show where the water went: from the cotton, into the air, onto the lid and back down.",
+     "how": "e1",
+     "art": "A blank outline of a clear box with a lid, with cotton and three seedlings drawn at the bottom.",
+     "a": "A box with cotton and seedlings, arrows going up from the cotton and the leaves, drops on the lid, and arrows going back down to the cotton.",
+     "why": "A strong drawing makes the water go round in a loop, and shows that none leaves the box."
+    },
+    {
+     "t": "match",
+     "p": "Match each word to what it means.",
+     "pairs": [
+      [
+       "Evaporate",
+       "a liquid slowly turns into a gas in the air"
+      ],
+      [
+       "Condense",
+       "water vapour cools and turns back into drops"
+      ],
+      [
+       "Natural",
+       "made by nature"
+      ],
+      [
+       "Physical environment",
+       "the non-living part of the environment"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These words come up all through the unit."
+    },
+    {
+     "t": "order",
+     "p": "Put these in the order your kitchen water travels after it leaves the sink.",
+     "items": [
+      "river or sea",
+      "pipe down the building",
+      "treatment plant",
+      "street drain"
+     ],
+     "a": [
+      "pipe down the building",
+      "street drain",
+      "treatment plant",
+      "river or sea"
+     ],
+     "why": "Waste water flows down the pipe, into the street drain, and to a treatment plant, then on to a river or the sea. A strong answer also knows that the journey does not end there: the water rises again as vapour."
+    },
+    {
+     "t": "write",
+     "p": "Give one example of a living thing changing the non-living environment.",
+     "lines": 2,
+     "a": "For example: a peepal's roots crack a wall, a plant gives water to the air through their leaves, or earthworms turn dead leaves into soil.",
+     "why": "A strong answer names the living thing, the non-living thing and what changes."
+    },
+    {
+     "t": "mcq",
+     "p": "A gecko waits next to the tube light every night. Why there?",
+     "opts": [
+      "The light warms the gecko like the Sun",
+      "Insects come to the light, so there is food there",
+      "Geckos like to look at bright things"
+     ],
+     "a": 1,
+     "why": "Many insects fly to lights at night, so the light brings the gecko food. This is a non-living part of the environment, the light, shaping where a living thing spends their time."
+    },
+    {
+     "t": "truefalse",
+     "p": "Everything people make was made from something natural first.",
+     "a": true,
+     "why": "True. Steel comes from iron ore, plastic mostly from oil or gas, glass from sand, paper from wood. People change natural materials. They never make one from nothing."
+    },
+    {
+     "t": "perspective",
+     "p": "A family in Chennai is deciding what to do with the peels and leftover food from the kitchen.",
+     "views": [
+      {
+       "who": "Lakshmi, aged 9",
+       "says": "Let's make compost on the balcony. Then the peels become soil for our plants instead of going to the dump yard."
+      },
+      {
+       "who": "Paati, her grandmother",
+       "says": "Compost will smell and bring flies in a small flat. Let the corporation take it away."
+      },
+      {
+       "who": "Appa, her father",
+       "says": "Let's keep wet waste in its own bin, so the corporation can compost it at their centre."
+      }
+     ],
+     "ask": "Which plan do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side and gives a reason from this unit, for example that peels in the dry bin go to the dump yard and rot there in a smelly heap, while a compost pot turns them into soil for the plants. It then says one thing another person has right, such as that composting in a small flat needs a covered pot and some care.",
+     "why": "There is a real trade-off. Composting at home sends less to the dump, but it takes space and effort. Separate bins only help if the city collects them separately."
+    },
+    {
+     "t": "draw",
+     "p": "Draw your window. Draw and label two living things and two non-living things you can see from it.",
+     "art": "A blank window frame.",
+     "a": "A drawing of the window with four labelled things, two living (for example a crow and a tree) and two non-living (for example a road and the sun).",
+     "why": "A strong drawing labels each thing and puts it in the right group."
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Round and Round (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "write",
+     "p": "In the Closed Box Test, the seedlings in the closed box never got fresh air. Explain how they still had the gases they needed.",
+     "lines": 4,
+     "how": "e1",
+     "a": "In the light, their leaves made food from water and carbon dioxide and gave out oxygen. The seedlings and the microbes in the box breathed some of that oxygen and gave out carbon dioxide again. So the same air went round.",
+     "why": "A strong answer names both gases and says they are used and given out again inside the box."
+    },
+    {
+     "t": "mcq",
+     "p": "Priya weighs both boxes on day 1 and day 7 of the Closed Box Test. The seedlings in the closed box grew taller. What happens to the closed box's weight?",
+     "opts": [
+      "It gets much heavier, because the seedlings grew",
+      "It stays about the same, because nothing went in or out",
+      "It gets much lighter, like the open box"
+     ],
+     "how": "e1",
+     "a": 1,
+     "why": "Nothing went in or out of the closed box, so its weight stayed about the same, even though the seedlings grew. They were built from water and air that were already in the box. The open box got lighter, because water vapour left it."
+    },
+    {
+     "t": "truefalse",
+     "p": "The open box in the Closed Box Test got lighter because its water was destroyed.",
+     "how": "e1",
+     "a": false,
+     "why": "False. The water was not destroyed. It evaporated into the room's air as water vapour. Later it may condense on a cold window or rise into a cloud."
+    },
+    {
+     "t": "write",
+     "p": "Divya's family pours soapy water from washing clothes into the street drain. Use the Drain Test to explain what this water might do in a lake.",
+     "lines": 4,
+     "how": "e2",
+     "a": "The Drain Test showed that a lot of washing powder in water made fewer seeds sprout, with shorter roots. If lots of soapy water reaches a lake, it may harm the seeds and plants that live there. In Bellandur Lake in Bengaluru, soap and sewage made thick froth.",
+     "why": "A strong answer uses the evidence from the test and links it to living things in a lake."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Drain Test, why did each cup get 10 seeds and not just 1?",
+     "opts": [
+      "Because 10 is a nice number",
+      "Because one seed might be dead, which would fool us",
+      "Because seeds need friends to sprout"
+     ],
+     "how": "e2",
+     "a": 1,
+     "why": "One seed might be dead or damaged and fail to sprout for their own reason. With 10, one bad seed changes the count only a little, so the result is fairer."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these: does each one mostly go round inside the Earth, or does it come from outside the Earth?",
+     "cats": [
+      "Goes round inside the Earth",
+      "Comes from outside the Earth"
+     ],
+     "items": [
+      [
+       "sunlight",
+       "Comes from outside the Earth"
+      ],
+      [
+       "rain water",
+       "Goes round inside the Earth"
+      ],
+      [
+       "oxygen",
+       "Goes round inside the Earth"
+      ],
+      [
+       "a plastic wrapper",
+       "Goes round inside the Earth"
+      ],
+      [
+       "soil",
+       "Goes round inside the Earth"
+      ]
+     ],
+     "a": "see items",
+     "why": "Sunlight comes from the Sun, outside the Earth. Water, air, soil and the stuff in plastic stay on Earth and go round. A tiny amount of space dust also arrives each day."
+    },
+    {
+     "t": "fill",
+     "p": "When water vapour cools on a cold lid and turns into drops, we say it ____.",
+     "a": [
+      "condenses"
+     ],
+     "why": "Condensing is the opposite of evaporating. Drops on the closed box lid formed this way."
+    },
+    {
+     "t": "match",
+     "p": "Match each thing to where it most often goes in a city when we throw it out.",
+     "pairs": [
+      [
+       "water from the kitchen sink",
+       "a drain, then a treatment plant or a river"
+      ],
+      [
+       "a plastic wrapper in the dry bin",
+       "a dump yard or a recycling centre"
+      ],
+      [
+       "peels kept in their own bin",
+       "a compost centre"
+      ],
+      [
+       "smoke from burning leaves",
+       "the air we breathe"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each thing goes somewhere in the environment. None of them leaves the Earth."
+    },
+    {
+     "t": "write",
+     "p": "Arjun says, \"It doesn't matter if I drop a wrapper. Someone will take it away.\" Use the idea of 'away' to answer him.",
+     "lines": 3,
+     "a": "There is no away outside the Earth. If someone picks it up, it goes to a dump yard. If not, rain washes it into a drain, and it may reach a lake or the sea. Either way, it is still in the environment.",
+     "why": "A strong answer says where the wrapper would really go."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these changes the environment the MOST?",
+     "opts": [
+      "one crow building a nest",
+      "people building a new city",
+      "an ant carrying a crumb"
+     ],
+     "a": 1,
+     "why": "One crow or ant makes only small changes. People build cities, cut and plant forests, dig lakes and send out smoke and sewage, so people change the environment the most."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a peepal growing out of a crack in an old wall. Draw how their roots change the wall over many years.",
+     "art": "A blank outline of a brick wall with one small crack.",
+     "a": "A wall with a crack, a peepal sapling, and roots pushing into the crack, making it wider, with a few bricks loose.",
+     "why": "A strong drawing shows the living thing changing a non-living thing, slowly, by growing."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from first to last, for what happened in the closed box each day.",
+     "items": [
+      "vapour condenses on the cooler lid",
+      "water evaporates from the cotton and leaves",
+      "drops run back down to the cotton",
+      "water vapour fills the air in the box"
+     ],
+     "how": "e1",
+     "a": [
+      "water evaporates from the cotton and leaves",
+      "water vapour fills the air in the box",
+      "vapour condenses on the cooler lid",
+      "drops run back down to the cotton"
+     ],
+     "why": "This is a loop, so after the last step the first one starts again. A strong answer says the same water keeps going round."
+    },
+    {
+     "t": "truefalse",
+     "p": "Almost all the oxygen in the air was made by living things.",
+     "a": true,
+     "why": "True. Early Earth had almost no oxygen in its air. Tiny living things in the sea, and later plants and algae, made it in sunlight over billions of years."
+    },
+    {
+     "t": "perspective",
+     "p": "A city is deciding what to do with a lake that has become dirty with sewage and rubbish.",
+     "views": [
+      {
+       "who": "Kavitha, a scientist who studies lakes",
+       "says": "First stop the sewage flowing in. Build treatment plants. Otherwise the lake will just get dirty again."
+      },
+      {
+       "who": "Fatima, who lives next to the lake",
+       "says": "Clear the rubbish now and plant trees round it. People will care for a lake they can enjoy."
+      },
+      {
+       "who": "A builder",
+       "says": "Fill the lake in and build flats. The city needs homes."
+      }
+     ],
+     "ask": "Which plan do you agree with most? Give a reason from this unit. Then answer back from one other side.",
+     "lines": 5,
+     "a": "A strong answer picks a side and backs it with a reason from this unit, for example that sewage must be stopped first or the lake will get dirty again, because what is poured out stays in the environment. It then says what another side has right.",
+     "why": "These views all hold some truth. Cleaning without stopping new sewage does not last. Building on the lake removes a home for fish and birds and a place for rain to go."
+    },
+    {
+     "t": "fill",
+     "p": "The non-living part of the environment, such as air, water, soil and light, is called the ____ environment.",
+     "a": [
+      "physical"
+     ],
+     "why": "Books split the environment into the physical (non-living) and the biological (living) environment."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Closed Worlds (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "write",
+     "p": "Biosphere 2 was a huge sealed glass building with plants, soil, animals and eight people inside. The oxygen slowly fell. Its soil had lots of compost, full of microbes. Explain why the oxygen might have fallen.",
+     "lines": 4,
+     "a": "The microbes in the rich soil were breaking down the compost, and they breathe oxygen as they do it. They used up oxygen faster than the plants made it. So the oxygen in the sealed building slowly fell.",
+     "why": "A strong answer says that microbes are living things that use oxygen, and that in a sealed place nothing new can come in to replace it."
+    },
+    {
+     "t": "mcq",
+     "p": "In Biosphere 2, the microbes should also have made extra carbon dioxide. But the carbon dioxide did not rise as much as expected. Scientists found it was being taken up by something in the building. What was it?",
+     "opts": [
+      "The glass windows",
+      "The bare concrete walls",
+      "The people's clothes"
+     ],
+     "a": 1,
+     "why": "The bare, fresh concrete reacted with carbon dioxide and locked it away. The building itself was part of the environment inside, though nobody had planned it that way. This is why Jeff Severinghaus and others had to look so hard for the missing gas."
+    },
+    {
+     "t": "write",
+     "p": "Explain why a closed box can keep its seedlings alive for a week without new water, but a city cannot keep its lakes clean without caring what goes into them. Use the idea that the same water goes round.",
+     "lines": 5,
+     "how": "e1",
+     "a": "In the closed box, the same clean water goes round and is used again. In a city, the same water also goes round, but whatever we add to it, such as soap, oil and sewage, goes round with it into lakes and rivers. So keeping the water clean depends on what we put in.",
+     "why": "A strong answer links the closed box and the city with the idea that water goes round, and adds that what we add goes round too."
+    },
+    {
+     "t": "perspective",
+     "p": "Three people argue about whether a city flat is part of nature.",
+     "views": [
+      {
+       "who": "Meenakshi, aged 10",
+       "says": "A flat is part of nature. Ants, geckos and moss live in it, and it is made of sand, stone and iron from the Earth."
+      },
+      {
+       "who": "Her uncle Ravi",
+       "says": "A flat is made by people, so it is not nature. Nature is forests and rivers."
+      },
+      {
+       "who": "Her teacher, Anjali",
+       "says": "People are part of nature, so everything people make is part of nature too, like a bird's nest."
+      }
+     ],
+     "ask": "Which view do you agree with most? Give a reason, with evidence from this unit. Then answer back from another view.",
+     "lines": 6,
+     "a": "A strong answer picks one view and backs it with evidence, such as the ants, geckos and moss found in the Who Else Lives Here? hunt, or that the flat is built from natural materials. It then answers back from another view.",
+     "why": "This is a real disagreement about the word 'nature'. Each view is partly right."
+    },
+    {
+     "t": "mcq",
+     "p": "A family puts their bottle garden in hot afternoon sun on the balcony. After two days the plants look cooked. What went wrong?",
+     "opts": [
+      "They had too little water",
+      "The jar got far too hot inside in the direct sun",
+      "The plants ran out of light"
+     ],
+     "how": "p1",
+     "a": 1,
+     "why": "A closed jar in direct sun traps heat, so the air inside gets far hotter than the room. Plants need light, but not that much heat. That is why the Closed Box Test and the Bottle Garden stay in a bright place out of direct sun."
+    },
+    {
+     "t": "truefalse",
+     "p": "If the closed box were perfectly sealed and kept in the dark, the seedlings would keep growing for months.",
+     "how": "e1",
+     "a": false,
+     "why": "False. In the dark, the seedlings cannot make food or oxygen. They would use up the food stored in the seeds and the oxygen in the box, and then die. Light is the one thing a closed world must get from outside."
+    },
+    {
+     "t": "write",
+     "p": "The Earth has no glass lid. So what keeps Earth's air and water from floating off into space?",
+     "lines": 2,
+     "a": "Earth's gravity pulls the air and the water towards the Earth and holds them close, like a lid that you cannot see.",
+     "why": "A strong answer names gravity, the Earth's pull."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these care actions: does each one send less out of the home, or clean up after it has gone out?",
+     "cats": [
+      "Sends less out",
+      "Cleans up after"
+     ],
+     "items": [
+      [
+       "carrying a cloth bag to the shop",
+       "Sends less out"
+      ],
+      [
+       "picking up litter on the beach",
+       "Cleans up after"
+      ],
+      [
+       "wiping oil off pans before washing",
+       "Sends less out"
+      ],
+      [
+       "a city sewage treatment plant",
+       "Cleans up after"
+      ],
+      [
+       "mending a torn bag instead of buying a new one",
+       "Sends less out"
+      ]
+     ],
+     "a": "see items",
+     "why": "Sending less out stops the problem at the start. Cleaning up deals with it later. Both help, but sending less out is often easier."
+    },
+    {
+     "t": "write",
+     "p": "In the Drain Test, the 'a little' cup grew almost as well as the plain one, but the 'a lot' cup did not. What does this tell us about how much soap matters?",
+     "lines": 4,
+     "how": "e2",
+     "a": "A small amount of soap made little difference, but a large amount stopped many seeds sprouting. So the amount matters: a little soap spread through a lot of water may do little harm, but a lot of soap in one place harms living things.",
+     "why": "A strong answer uses the results to say that the amount, not just the soap, decides the harm."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a picture of the Earth as a closed box. Show the sunlight coming in, heat going out, and water going round between sea, cloud, rain and river.",
+     "art": "A blank circle for the Earth with space around it.",
+     "a": "The Earth with arrows of sunlight coming in, wavy arrows of heat going out to space, and a loop of arrows for water.",
+     "why": "A strong drawing shows what comes from outside (sunlight) and what stays and goes round (water)."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these is the best evidence that the seedlings in the closed box were using the same water again and again?",
+     "opts": [
+      "The seedlings were green",
+      "Drops formed on the lid every day and ran back to the cotton, and the box weighed almost the same",
+      "The box was clear"
+     ],
+     "how": "e1",
+     "a": 1,
+     "why": "Drops forming on the lid and running back down show the water moving round inside the box. The box weighing almost the same also shows that hardly any water left. Green seedlings alone do not show where their water came from."
+    },
+    {
+     "t": "fill",
+     "p": "Saalumarada Thimmakka of Karnataka, with her husband, planted and cared for 385 ____ trees along a road.",
+     "a": [
+      "banyan"
+     ],
+     "why": "She and her husband, Bikkala Chikkaiah, planted the banyans along about 4 km of road between Hulikal and Kudur, and watered them for years. She was given the Padma Shri in 2019."
+    },
+    {
+     "t": "write",
+     "p": "Biosphere 2 was meant to be a closed world, like our closed box. Write one thing the closed box test and Biosphere 2 both show about living in a closed world.",
+     "a": "In a closed world, nothing new comes in except light. So what the living things use up or give out stays inside and changes things for everyone there. In the box, water went round. In Biosphere 2, the oxygen used by the microbes was not replaced.",
+     "why": "A strong answer finds something that is true of both, and gives an example from each.",
+     "lines": 4
+    },
+    {
+     "t": "match",
+     "p": "Match each person to what they did.",
+     "pairs": [
+      [
+       "Gaura Devi",
+       "led women in Reni village to protect their trees in 1974"
+      ],
+      [
+       "Saalumarada Thimmakka",
+       "planted and cared for banyan trees along a road in Karnataka"
+      ],
+      [
+       "Jane Poynter and Linda Leigh",
+       "were among the eight people sealed inside Biosphere 2"
+      ],
+      [
+       "Jeff Severinghaus",
+       "helped find where Biosphere 2's oxygen and carbon dioxide had gone"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These are real people from this unit."
+    },
+    {
+     "t": "order",
+     "p": "Put these events from Biosphere 2 in the order they happened.",
+     "items": [
+      "fresh oxygen is pumped in, in 1993",
+      "eight people are sealed inside in 1991",
+      "scientists find the microbes and the concrete were the cause",
+      "the oxygen slowly falls for over a year"
+     ],
+     "a": [
+      "eight people are sealed inside in 1991",
+      "the oxygen slowly falls for over a year",
+      "fresh oxygen is pumped in, in 1993",
+      "scientists find the microbes and the concrete were the cause"
+     ],
+     "why": "The oxygen fell first, then oxygen had to be added for the people's safety, and the causes were worked out by careful measuring."
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Sewage treatment plants clean a city's waste water with screens, settling tanks and microbes, before it goes back to a river or the sea.",
+  "The East Kolkata Wetlands clean much of Kolkata's sewage in fish ponds, where sunlight, algae and microbes do the work.",
+  "Tamil Nadu made rainwater harvesting compulsory for buildings in 2003, so rain soaks back into the ground instead of running off into drains.",
+  "India's Solid Waste Management Rules of 2016 ask every home to keep wet, dry and hazardous waste apart, so each can be treated in the right way.",
+  "Space stations recycle water: the International Space Station turns astronauts' breath, sweat and urine back into drinking water.",
+  "Bottle gardens, also called terrariums, are kept in homes and offices because a closed one needs very little watering.",
+  "Air quality stations in Indian cities measure the air every hour and give it a number, the Air Quality Index (AQI).",
+  "Cities restore old lakes, such as the eris of Chennai and the keres of Bengaluru, by stopping sewage and clearing their inlets.",
+  "Compost centres run by city corporations turn wet waste from homes into compost for parks and farms."
+ ],
+ "spotted": [
+  {
+   "text": "Drops on the inside of a closed lunch box or tiffin, from the warm food's water.",
+   "art": "An open steel tiffin lid with drops of water on its inside."
+  },
+  {
+   "text": "Green moss or black mould in the damp corner of a bathroom, but not on the dry wall.",
+   "art": "A bathroom corner with a patch of green moss near a dripping tap."
+  },
+  {
+   "text": "A peepal sapling growing out of a crack in an old building or a temple wall.",
+   "art": "A small peepal with heart-shaped leaves growing from a crack in a brick wall."
+  },
+  {
+   "text": "A gecko waiting near the tube light at night, where insects gather.",
+   "art": "A gecko on a wall beside a glowing tube light with small moths around it."
+  },
+  {
+   "text": "Crows and dogs at an open garbage heap, living on what people throw out.",
+   "art": "Crows pecking at a heap of rubbish beside a street bin."
+  },
+  {
+   "text": "White froth on Bellandur Lake in Bengaluru, made by sewage and soap that flowed into the lake.",
+   "art": "A lake with heaps of white froth along its edge and a road beside it."
+  },
+  {
+   "text": "Green, blue and red bins in a housing society, for wet, dry and hazardous waste.",
+   "art": "Three bins in a row, green, blue and red, in front of a block of flats."
+  },
+  {
+   "text": "A rainwater harvesting pit in the compound of a Chennai flat, with a pipe from the terrace.",
+   "art": "A round covered pit in a building compound, with a pipe coming down the wall into it."
+  },
+  {
+   "text": "A temple tank with fish and turtles, dug by people long ago.",
+   "art": "A stepped temple tank with green water, fish and a turtle on a step."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "How long can a sealed bottle garden live?",
+   "why_open": "Some have lived for decades, like David Latimer's. Nobody knows the limit. It depends on whether the microbes keep turning dead leaves back into food for the plants."
+  },
+  {
+   "q": "Can people build a sealed home that keeps them alive for years, on the Moon or on Mars?",
+   "why_open": "Biosphere 2 needed fresh oxygen after about a year and a half. Teams in Russia and China have since kept people for months in sealed homes, but food or supplies still came from outside."
+  },
+  {
+   "q": "How many kinds of microbes live around us?",
+   "why_open": "A pinch of soil holds thousands of kinds of bacteria. Most have never been grown in a lab or given a name, so nobody knows how many there are."
+  },
+  {
+   "q": "Where does most of the plastic that reaches the sea end up?",
+   "why_open": "Scientists find much less plastic floating on the sea than they expect. Some sinks, some breaks into tiny pieces, and some washes onto beaches. How much goes where is still being measured."
+  },
+  {
+   "q": "How much dust from space lands on the Earth each day?",
+   "why_open": "Different ways of measuring give answers from a few tonnes to over a hundred tonnes a day. Either way, it is tiny next to the Earth."
+  }
+ ],
+ "ask_kids": [
+  "Where did the water in your glass come from this morning? Where was it before that?",
+  "Which living things share our flat with us? Which ones have you never seen but know are there?",
+  "Is our balcony plant part of our environment, or are we part of the plant's environment?",
+  "When we flush the toilet, where does the water go? Let's guess, then find out.",
+  "Which things on this table are natural, which are made by people, and which are a bit of both?",
+  "If you could change one thing that goes out of our home every day, what would it be?",
+  "Why do you think the crows come to our building's bins?",
+  "What would you need to take with you to live in a sealed glass house for a week?",
+  "Why does the inside of the tiffin lid get wet when we close warm food in it?",
+  "Saalumarada Thimmakka planted trees along a road and watered them for years. What could our family look after for a long time?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the moong seedling like the closed box?",
+   "a": "Their water kept coming back."
+  },
+  {
+   "j": "What did the drop on the lid say to the cotton?",
+   "a": "Don't worry, I'll be back down soon."
+  },
+  {
+   "j": "Where does rubbish go when we throw it away?",
+   "a": "Somewhere on Earth. There is no away!"
+  },
+  {
+   "j": "Why did the wrapper refuse to leave the planet?",
+   "a": "There was no exit."
+  },
+  {
+   "j": "What did the gecko say to the tube light?",
+   "a": "Thanks for inviting my dinner."
+  },
+  {
+   "j": "Why was the peepal so good at breaking walls?",
+   "a": "They had very strong roots and a lot of patience."
+  },
+  {
+   "j": "Why did the crow sit on the dustbin?",
+   "a": "They heard it was a free buffet."
+  },
+  {
+   "j": "What is a cloud's favourite game?",
+   "a": "Round and round, from sea to sky and back."
+  },
+  {
+   "j": "Why did the plastic bag go to school?",
+   "a": "To learn how to be used again."
+  },
+  {
+   "j": "What did the soapy water say to the lake?",
+   "a": "Sorry, I'm feeling a bit bubbly today."
+  },
+  {
+   "j": "Why did the bottle garden never get thirsty?",
+   "a": "It kept its water bottled up."
+  },
+  {
+   "j": "What did the Earth say to the Sun?",
+   "a": "Send light, please. I have the water covered."
+  },
+  {
+   "j": "Why did the rasam not disappear down the sink?",
+   "a": "It just went to visit the river."
+  },
+  {
+   "j": "What do you call a clean lake?",
+   "a": "A lake that someone cared about."
+  },
+  {
+   "j": "Why did the compost pot smile?",
+   "a": "Their peels were turning into something good."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the Closed Box Test, the open box weighed 120 grams on day 1 and 82 grams on day 7. How many grams of water left the open box?",
+   "answer": "38 grams.",
+   "explain": "Take the day 7 weight from the day 1 weight. 120 take away 80 is 40. 40 take away 2 more is 38. So 38 grams of water evaporated into the room's air.",
+   "math_unit": "math.addition-subtraction.word-problems.L3",
+   "context": "This is about the Closed Box Test. You weigh both boxes on day 1 and day 7 to see whether any water left them.",
+   "chart": {
+    "type": "bar",
+    "title": "Weight of the open box",
+    "x": "Day",
+    "y": "Grams",
+    "data": [
+     {
+      "label": "Day 1",
+      "value": 120,
+      "emoji": "📦"
+     },
+     {
+      "label": "Day 7",
+      "value": 82,
+      "emoji": "📦"
+     }
+    ]
+   },
+   "how": "e1",
+   "why_maths": "Subtracting the two weights tells us exactly how much water left, which our eyes cannot measure."
+  },
+  {
+   "problem": "Look at the kitchen scale. Each big mark is 10 grams and each small mark is 2 grams. The pointer is 1 small mark past 110. What does the closed box weigh?",
+   "answer": "112 grams.",
+   "explain": "The pointer has passed the 110 mark by one small mark. Each small mark is 2 grams. 110 + 2 = 112.",
+   "math_unit": "math.measurement-basics.reading-scales.L3",
+   "context": "This is about weighing the closed box in the Closed Box Test.",
+   "chart": {
+    "type": "scale",
+    "title": "Kitchen scale, in grams",
+    "min": 100,
+    "max": 130,
+    "step": 2,
+    "value": 112,
+    "unit": "g",
+    "label": "Each small mark is 2 grams."
+   },
+   "how": "e1",
+   "why_maths": "A closed box changes weight only a little, so we must read the small marks to see the change."
+  },
+  {
+   "problem": "In the Drain Test, 10 seeds were put in each cup. 10 sprouted in plain water, 9 in 'a little' soap and 4 in 'a lot'. How many more seeds sprouted in plain water than in 'a lot'?",
+   "answer": "6 more seeds.",
+   "explain": "10 take away 4 is 6. So 6 more seeds sprouted in plain water than in the cup with a lot of washing powder.",
+   "math_unit": "math.data.bar-charts.L3",
+   "context": "This is about the Drain Test. You put moong seeds on cotton wet with plain water, a little soapy water or a lot of soapy water, and count how many sprout.",
+   "chart": {
+    "type": "bar",
+    "title": "Seeds sprouted by day 3",
+    "x": "Cup",
+    "y": "Seeds sprouted",
+    "data": [
+     {
+      "label": "Plain",
+      "value": 10,
+      "emoji": "🌱"
+     },
+     {
+      "label": "A little",
+      "value": 9,
+      "emoji": "🌱"
+     },
+     {
+      "label": "A lot",
+      "value": 4,
+      "emoji": "🌱"
+     }
+    ]
+   },
+   "how": "e2",
+   "why_maths": "A bar chart lets us see at a glance which cup did best, and subtracting tells us by how much."
+  },
+  {
+   "problem": "Farhan's family counted plastic bags brought home: 4 on Monday, 3 on Tuesday, 1 on Wednesday, 0 on Thursday and 0 on Friday. How many bags did they bring home in the 5 days?",
+   "answer": "8 bags.",
+   "explain": "Add the days: 4 + 3 = 7, 7 + 1 = 8, and 0 + 0 adds nothing. So 8 bags in 5 days, and none on the last two days, once they carried a cloth bag.",
+   "math_unit": "math.data.sorting-and-tallies.L3",
+   "context": "This is about Our Family's Care Week. You choose one change and keep a tally each day to see whether it works.",
+   "how": "p2",
+   "why_maths": "A tally each day shows whether a change is really working, instead of guessing."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.environment.L3",
+  "title": "Round and Round",
+  "note": "Topic-level song for Caring for the environment L3"
+ },
+ "links": [
+  {
+   "title": "Biosphere 2",
+   "url": "https://biosphere2.org",
+   "kind": "interactive",
+   "why": "The real sealed glass building from How We Found Out, now a research centre of the University of Arizona. Its site has pictures of the inside."
+  },
+  {
+   "title": "CPCB National Air Quality Index",
+   "url": "https://airquality.cpcb.gov.in/AQI_India/",
+   "kind": "interactive",
+   "why": "For the parent. A live map of the air in Indian cities, measured every hour. Find the station nearest your home."
+  },
+  {
+   "title": "Exploratorium: Science Snacks",
+   "url": "https://www.exploratorium.edu/snacks",
+   "kind": "interactive",
+   "why": "Free tested activities from a science museum in San Francisco. Search for 'water cycle' and 'terrarium'. It is on the founder's list of STEM websites."
+  },
+  {
+   "title": "East Kolkata Wetlands",
+   "url": "",
+   "kind": "place",
+   "where": "Kolkata",
+   "why": "Wetlands where fish ponds clean much of the city's sewage with sunlight, algae and microbes. Visit with a guide or a nature group."
+  },
+  {
+   "title": "Adyar Eco Park (Tholkappia Poonga)",
+   "url": "",
+   "kind": "place",
+   "where": "Chennai",
+   "why": "Part of the Adyar estuary, restored from a dumping ground into a wetland with native plants and birds. Check visiting days before you go."
+  },
+  {
+   "title": "A city lake near you",
+   "url": "",
+   "kind": "place",
+   "where": "Bengaluru, Hyderabad, Chennai and most cities",
+   "why": "Walk round a lake and look at what flows in. Many cities have lake groups who welcome families on clean-up and bird-watching mornings."
+  },
+  {
+   "title": "A sewage treatment plant",
+   "url": "",
+   "kind": "place",
+   "where": "Any city",
+   "why": "Some city water boards allow school and family visits. Ask your corporation or water board. Seeing where the drain water goes makes 'away' real."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-moong",
+   "item": "Whole green moong, about 100 grams",
+   "kind": "material",
+   "why": "Most kitchens already have it. Whole moong sprouts within a day, which is why both experiments use it. Split moong dal will not sprout.",
+   "url": "",
+   "used_in": [
+    "e1",
+    "e2"
+   ]
+  },
+  {
+   "id": "b-soil",
+   "item": "A small bag of potting soil",
+   "kind": "material",
+   "why": "Only needed if you have no potted plant to borrow soil from. Any nursery sells it.",
+   "url": "https://www.amazon.in/s?k=potting+soil",
+   "used_in": [
+    "p1"
+   ]
+  },
+  {
+   "id": "b-book",
+   "item": "One Well: The Story of Water on Earth, by Rochelle Strauss",
+   "kind": "book",
+   "why": "A picture book for ages 8 and up about how all the water on Earth is shared, as if it were one well. It is on the founder's reading list.",
+   "url": "https://www.amazon.in/s?k=One+Well+Rochelle+Strauss",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "If bought, read a few pages after Where Is Away?, when the child has followed the kitchen water."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What is the environment?",
+   "a": "Everything around a living thing that affects them."
+  },
+  {
+   "q": "Name one living and one non-living part of your environment.",
+   "a": "For example, a crow and the air."
+  },
+  {
+   "q": "Is a steel tumbler natural or made by people?",
+   "a": "Made by people, from iron ore dug out of the ground."
+  },
+  {
+   "q": "Name something that is a bit of both natural and made by people.",
+   "a": "Curd, a potted plant or a temple tank."
+  },
+  {
+   "q": "Why did drops form on the lid of the closed box?",
+   "a": "Water evaporated from the cotton and leaves, then condensed on the cooler lid."
+  },
+  {
+   "q": "What is the only thing that came into the closed box?",
+   "a": "Light."
+  },
+  {
+   "q": "Where does kitchen water go after the sink?",
+   "a": "Through drains to a treatment plant, then a river, a lake or the sea."
+  },
+  {
+   "q": "What holds Earth's air and water close?",
+   "a": "Gravity, the Earth's pull."
+  },
+  {
+   "q": "What made the oxygen in Biosphere 2 fall?",
+   "a": "Microbes in the rich soil used it up."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "g1",
+   "big_questions",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "summary",
+   "terms",
+   "explanations",
+   "a4",
+   "g1",
+   "a2",
+   "e2",
+   "ws-core",
+   "videos",
+   "agreed",
+   "challenging",
+   "how_we_found_out",
+   "a3",
+   "g2",
+   "c2",
+   "p2",
+   "ws-stretch",
+   "a5",
+   "c1",
+   "p1",
+   "big_questions",
+   "ws-challenge",
+   "roots",
+   "open_questions",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "a4",
+   "a2",
+   "e2",
+   "g1",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/caring-for-the-environment.md: 'Create a mini terrarium and a dry sand bottle, compare over weeks' (became the Closed Box Test and the Bottle Garden); reading 'One Well' by Rochelle Strauss; philosophy 'actions have consequences; interconnectedness of all living systems'",
+   "ideas/by_topic/waste.md (built on, not repeated: sorting, composting and recycling are in the sci.waste units)",
+   "NIOS Open Basic Education, Environmental Studies Level A, Lesson 4 'The Environment' (physical and biological environment, natural and human-made things, signs of life with seeds)"
+  ],
+  "science": [
+   "Severinghaus and others, 'Oxygen loss in Biosphere 2', Eos 75, 1994 (soil microbes used the oxygen; the exposed concrete took up the carbon dioxide)",
+   "Published accounts of the first Biosphere 2 mission, 1991 to 1993 (eight crew; oxygen fell from about 21 to about 14.5 per cent; oxygen added in January 1993)",
+   "News reports, 2013, on David Latimer's bottle garden, planted 1960 and last watered 1972 (news reports only)",
+   "Padma Shri 2019 citation for Saalumarada Thimmakka (385 banyan trees between Hulikal and Kudur, Karnataka)",
+   "Chipko movement, Reni village, March 1974, led by Gaura Devi (Guha, The Unquiet Woods, 1989)",
+   "Solid Waste Management Rules, Ministry of Environment, Forest and Climate Change, 2016",
+   "Tamil Nadu Municipal Laws (Second Amendment) Ordinance, 2003 (compulsory rainwater harvesting)"
+  ]
+ },
+ "roots": {
+  "context": "We have looked at the living and non-living parts of our environment, and at the closed box where the same water went round. Now we ask what it means to share one world.",
+  "deep_truth": {
+   "truth": "Your open box got lighter as its water evaporated, but that water did not vanish. It went into the air of your room, and in time out to the clouds. Earth is like your closed box: sunlight comes in, and the same water and air go round. So whatever we throw away stays somewhere in the world we all share.",
+   "habit": "We say we throw things 'away' or wash them 'away', as if they leave the world. Out of sight feels like gone. But the water from the open box, the rasam down the sink and the wrapper in the bin all stay on Earth, somewhere else.",
+   "evidence": "The open box dried out and got lighter, while the room's air took its water. The closed box kept drops on its lid all week and stayed almost the same weight, because its water could not leave."
+  },
+  "three": {
+   "who_am_i": "About two-thirds of your body is water. That water was once in rivers, clouds and other living things, and it will go back to them.",
+   "what_is_life": "Every living thing takes in water and air from their environment, uses them, and gives them back changed.",
+   "what_is_this_world": "The Earth gets light and warmth from the Sun, but keeps almost all its own water and air, held close by gravity."
+  },
+  "thread": "The same water moves between the sea, the clouds, the rain, the tap, your body and the drain. The air you breathe out is breathed in by plants, and the oxygen they give out is breathed in by you. So every living thing on Earth shares one supply of water and air. What one of us puts into it reaches the others, near and far.",
+  "teachings": [
+   {
+    "source": "Atharva Veda 12.1.12, the hymn to the Earth (Bhumi Sukta)",
+    "teaching": "The Earth is my mother, and I am her child.",
+    "link": "Your body is built from the Earth's water, air and food. What you take from the Earth, and what you give back, stays in the same family."
+   },
+   {
+    "source": "Thirukkural 211, by Thiruvalluvar",
+    "teaching": "Duty does not ask for a return. What does the world give back to the rain cloud?",
+    "link": "Rain falls on every field and every roof, and the cloud asks nothing back. The water cycle gives to all living things alike."
+   },
+   {
+    "source": "Isha Upanishad, verse 1",
+    "teaching": "All this, whatever moves in this world, is filled by the Lord. Enjoy it by giving up. Do not covet anyone's wealth.",
+    "link": "Water and air belong to no one person. Each of us uses them for a while, and then they pass on to others."
+   }
+  ],
+  "science": [
+   {
+    "text": "The total amount of water on Earth stays almost the same. It keeps moving between sea, air, land and living things.",
+    "status": "settled"
+   },
+   {
+    "text": "Earth loses a tiny amount of light gas to space and gains some tonnes of space dust each day. Both are tiny next to its air and seas.",
+    "status": "settled"
+   },
+   {
+    "text": "Whether people can build a sealed home that keeps them alive for years without help from outside is not yet known.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Many engineers and city planners",
+   "view": "Things do stay on Earth, but that alone is not the problem. A little waste spread through a lot of water or soil can be broken down safely by microbes. What matters is how much goes where, and whether it is treated. With good treatment plants and recycling, 'away' can be made to work."
+  },
+  "practice": {
+   "title": "Where has this water been?",
+   "mins": 3,
+   "say": "Let's each hold a glass of water. Look at it quietly. This water may once have been in the sea, in a cloud, in a mango or in a river far away. Now let's drink it slowly, one sip at a time. Now breathe out onto a cold steel plate. See the mist? Some of that water is already leaving you, on its way round again.",
+   "kid": "Hold your glass of water. Think: where has this water been? The sea? A cloud? Drink it slowly. Now breathe on a cold steel plate. See the mist? That water is already going round again."
+  },
+  "ask": [
+   "The water you drank today was somewhere else last year. Where might it have been?",
+   "If there is no 'away', where does a wrapper go when we drop it on the road?",
+   "The seedlings in the closed box changed the air and water around them. What do you change in the air of your room every day?"
+  ],
+  "art": "A family on a balcony at dusk, each holding a glass of water, with a faint loop of arrows going from the glasses up to a cloud, down as rain onto a lake, and back to the tap."
+ },
+ "playtest": "Every experiment, activity, game, project and challenge was walked through as if at home in a city flat today. Changes made: the Closed Box Test uses takeaway boxes, which are not perfectly airtight, so the closed box is said to weigh almost the same, not exactly the same. Both boxes stand in a bright place out of direct sun, because a closed box in hot sun can cook the seedlings. The open box may take longer to dry in cool or rainy weather, so the step says to keep checking until there is a clear difference. Whole moong is used because it sprouts within a day; split dal will not. The tree activity is marked 'if you have a park or a tree nearby', since many flats have none.",
+ "how_we_found_out": {
+  "story": "In 1991, eight people walked into Biosphere 2, a huge sealed glass building in the desert of Arizona, USA. Inside were a small rainforest, a desert, a little sea, farm plots and animals. The doors were shut for two years. The planners thought the plants would make all the oxygen the people needed, so the air would stay the same. They were wrong. Month by month, the oxygen fell, until people felt tired and breathless. In January 1993, fresh oxygen had to be pumped in. Scientists, among them Jeff Severinghaus, measured the gases carefully. They found that the soil, full of rich compost, held huge numbers of microbes. The microbes breathed oxygen as they broke down the compost. They should have made extra carbon dioxide, but it went missing too. The bare concrete walls had taken it up. In a closed world, even the soil and the walls are part of the environment.",
+  "who": "The eight people of the first Biosphere 2 mission, among them Jane Poynter and Linda Leigh, and the scientist Jeff Severinghaus",
+  "when": "1991 to 1993 (the mission), and 1994 (the oxygen study)",
+  "wrong_idea": "The planners thought that plants alone would keep the air in a sealed world steady. Careful measuring showed that soil microbes were using up oxygen faster than the plants made it, and that the concrete walls were taking up carbon dioxide."
+ }
+}

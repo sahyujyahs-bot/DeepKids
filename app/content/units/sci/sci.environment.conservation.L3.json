@@ -1,0 +1,2783 @@
+{
+ "id": "sci.environment.conservation.L3",
+ "title": "Caring for animals, soil and water: using them so they last",
+ "level": 3,
+ "summary": {
+  "text": "A cow eats the same field of grass day after day, and the field stays green. Grass grows from the bottom of each leaf, close to the soil, so it grows back after grazing. Using something carefully, so that it lasts, is called conservation. Cows, buffaloes, hens, bees and silkworms give people milk, eggs, honey and silk, and each of them needs water, shade, food and kindness in return. Soil needs a cover of roots and leaves, or the rain washes it away. Water needs saving too: Indian cities now catch the rain from their roofs and send it back into the ground.",
+  "art": "A cow grazing a green field beside a village tank, with a honeybee on a flower, a terrace pipe pouring rain into a pit, and a small tub of cut wheat grass growing back on a city window sill."
+ },
+ "intro": {
+  "hook": "A cow eats grass for about eight hours a day, often in the same field. If you cut a plant's stem, the plant usually does not grow taller from that stem again. So why does the field not run out of grass?",
+  "text": "In this unit you find the answer by growing wheat and moong in a tub on your window, and cutting both. You find out what the animals who help us need from us, how a cover of roots keeps soil in place, and how cities like Chennai catch the rain. You also meet a bird park where people sent the buffaloes away to protect the birds, and the birds lost out.",
+  "art": "A child at a city window looking at a plastic tub with tall wheat on one side and moong on the other, holding a pair of scissors and a ruler."
+ },
+ "outcomes": [
+  "I can name at least six animals that help people, say what each one gives, and say what she needs from us to stay well.",
+  "I can explain, from my own cutting test, why grass grows back after a cow eats the top, and why many other plants do not.",
+  "I can explain what overgrazing is, and why a bare field loses its soil in the rain.",
+  "I can run a fair test, measure plants with a ruler, and say what I think, what I saw and why.",
+  "I can explain what conservation means, with examples for soil, forests, animals and water.",
+  "I can describe at least four ways to save water at home, and explain how rainwater harvesting refills the ground.",
+  "I can tell the true story of the buffaloes of Keoladeo, and say what it teaches about protecting nature."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Conservation",
+   "meaning": "Using and protecting something carefully, so that it lasts for a long time.",
+   "example": "Cutting only the tops of the coriander, so the plant grows more leaves next week, is conservation.",
+   "art": "A hand snipping the top leaves off a pot of coriander with scissors, leaving the lower stems."
+  },
+  {
+   "term": "Domestic animal",
+   "meaning": "An animal that lives with people and is cared for by them, such as a cow, a goat, a hen or a dog.",
+   "example": "A Kangayam bullock that pulls a cart in Tamil Nadu is a domestic animal.",
+   "art": "A grey Kangayam bullock with big curved horns standing beside a wooden cart."
+  },
+  {
+   "term": "Graze",
+   "meaning": "To eat grass and other low plants growing in a field, a little at a time.",
+   "example": "Buffaloes graze on the grass beside a village tank.",
+   "art": "Two black buffaloes with their heads down, eating grass beside a pond."
+  },
+  {
+   "term": "Overgrazing",
+   "meaning": "When too many animals eat in one place for too long, so the plants are eaten down to the ground and cannot grow back.",
+   "example": "A field where goats are kept all year can turn into bare, dusty ground.",
+   "art": "A dusty brown field with a few tufts of grass and many goats looking for food."
+  },
+  {
+   "term": "Growing point",
+   "meaning": "The part of a plant where new cells are made, so the plant grows longer there. Scientists call it a meristem.",
+   "example": "A grass leaf's growing point is at the bottom, near the soil. A moong plant's growing point is at the tip of the stem.",
+   "art": "A wheat seedling and a moong seedling side by side, each with a small glowing dot: low down for the wheat, at the top for the moong."
+  },
+  {
+   "term": "Soil erosion",
+   "meaning": "When rain or wind carries away the top layer of soil.",
+   "example": "After heavy rain, brown water runs off a bare slope, carrying soil with it.",
+   "art": "Brown muddy water running down a bare slope into a drain."
+  },
+  {
+   "term": "Groundwater",
+   "meaning": "Water that soaks down into the ground and fills the tiny spaces between grains of soil, sand and rock. Wells and borewells pump it up.",
+   "example": "Many flats in Bengaluru and Chennai get some of their water from a borewell.",
+   "art": "A cut-away drawing of the ground under a building, with blue water filling the gaps between sand grains and a borewell pipe reaching down."
+  },
+  {
+   "term": "Rainwater harvesting",
+   "meaning": "Catching rain from roofs and ground, and storing it in a tank or sending it into the ground through a pit.",
+   "example": "A pipe from the terrace of a Chennai building carries rain into a pit filled with stones and sand.",
+   "art": "Rain falling on a flat terrace, flowing down a pipe into a pit of stones and sand beside the building."
+  },
+  {
+   "term": "Pollinate",
+   "meaning": "To carry pollen from one flower to another, so the flower can make seeds and fruit.",
+   "example": "A honeybee pollinates the flowers of a mango tree while she drinks their nectar.",
+   "art": "A honeybee with yellow pollen on her legs on a cluster of small mango flowers."
+  },
+  {
+   "term": "Vaccine",
+   "meaning": "A medicine that teaches the body to fight a disease before the disease arrives.",
+   "example": "Pet dogs get a rabies vaccine every year, so they cannot catch or spread rabies.",
+   "art": "A vet giving a calm dog an injection while a girl holds the dog's lead."
+  },
+  {
+   "term": "Wallow",
+   "meaning": "To lie and roll in water or mud to cool down.",
+   "example": "On a hot afternoon, buffaloes wallow in a pond with only their heads showing.",
+   "art": "Three buffaloes in a muddy pond with only their heads and backs above the water."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "What conservation means",
+   "status": "defined",
+   "definition": "Conservation is using and protecting something carefully, so that it lasts: soil, water, forests, animals and plants.",
+   "description": "Some things grow back, like grass, trees and fish. They last for ever if we take less than grows back. Other things take thousands of years to form, like good soil and the water deep under the ground. These must be used very slowly, or they run out. Conservation means knowing how fast something comes back, and taking less than that.",
+   "examples": [
+    "Picking only a few curry leaves from each branch, so the plant can grow new ones.",
+    "Fishing boats on India's east and west coasts stop fishing for some weeks each year, while many fish lay their eggs.",
+    "Planting trees on a hillside, so their roots hold the soil."
+   ],
+   "perspectives": [],
+   "art": "A curry leaf plant in a pot with a few sprigs picked and new leaves sprouting, beside a small fishing boat pulled up on a beach.",
+   "context": "This card says what conservation means, with examples from Indian homes and coasts."
+  },
+  {
+   "concept": "Why grass grows back after grazing",
+   "status": "defined",
+   "definition": "A grass leaf grows from a growing point at the bottom, close to the soil. When an animal bites off the top, the growing point is left, and the leaf keeps growing.",
+   "description": "A grass plant has a hard problem: cows, goats, buffaloes, deer and grasshoppers eat them all the time. The grass answers this by keeping their growing points low, near the ground, where teeth rarely reach. So the leaf just keeps pushing up from the bottom, like toothpaste from a tube. Most other plants, like moong, beans and tomatoes, grow from the tip of each stem. Cut the tip off and that stem stops getting taller. The plant can only grow again from a bud lower down, if one is left. This is why a lawn can be cut every week, and a field can be grazed every day. Grasses and grazing animals have lived together for millions of years.",
+   "examples": [
+    "In the cutting test, the cut wheat grew taller within two days. The cut moong stems stayed short stumps.",
+    "A lawn mower cuts the grass every week, and the lawn stays green.",
+    "Sugarcane, bamboo, rice and wheat are all grasses."
+   ],
+   "perspectives": [],
+   "art": "Two drawings side by side: a cut wheat leaf pushing up from the bottom with an arrow, and a cut moong stem with no tip left.",
+   "context": "This card explains the cutting test, where you cut wheat and moong at the same height and watched what grew back."
+  },
+  {
+   "concept": "Overgrazing: when the field cannot grow back",
+   "status": "defined",
+   "definition": "Overgrazing is when animals eat plants faster than the plants grow back, until the ground is bare.",
+   "description": "Grass grows back, but only so fast. Grass plants need their leaves to catch sunlight and make food. If animals eat them again and again before they regrow, they use up the food stored in their roots. Too many hooves also trample the soil hard. Soon the roots die, the ground is bare, and the next rain washes the soil away. Herders who move their animals from field to field give each field time to grow back.",
+   "examples": [
+    "In the bare tub test, rain washed far more soil out of the bare tub than out of the tub of wheat roots.",
+    "In many dry places in India, village grazing land has turned bare where too many animals are kept.",
+    "Herders in Rajasthan and Gujarat walk their sheep and camels to new places through the year."
+   ],
+   "perspectives": [],
+   "art": "A field split in two: one half green with a few cows, the other half bare and dusty with many animals crowded together.",
+   "context": "This card says what happens when a field is eaten faster than the grass can grow back."
+  },
+  {
+   "concept": "Animals who help us, and what they need",
+   "status": "defined",
+   "definition": "Useful animals give people food, work and materials. In return, they need clean water, the right food, shade, a clean shelter, rest and care when they are ill.",
+   "description": "Each animal has her own needs, which come from her own body. A buffalo has dark skin and fewer sweat glands than a cow, so she heats up fast in the sun. She wallows in water or mud to cool down. So a buffalo needs a pond, a shower or a wet floor on hot days. A hen needs a dry, clean coop, because damp and dirt bring disease. A bullock that pulls a cart needs rest in the hottest hours. Honeybees need flowers without poison sprays. A silkworm caterpillar eats mulberry leaves and almost nothing else, and needs fresh ones every day. Caring for an animal starts with asking what her life is like.",
+   "examples": [
+    "Cows and buffaloes give milk. Their dung is used as manure and as fuel.",
+    "Hens give eggs. Bees give honey and pollinate crops. Silkworms give silk. Sheep give wool.",
+    "Bullocks pull ploughs and carts. Dogs guard homes and help people who cannot see."
+   ],
+   "perspectives": [],
+   "art": "A row of animals with what they give: a buffalo and a steel can of milk, a hen and eggs, a bee and honey, a silkworm and a silk thread, a sheep and wool.",
+   "context": "This card lists animals that help people and what each one needs in return."
+  },
+  {
+   "concept": "Caring for animals is also the law",
+   "status": "defined",
+   "definition": "In India, the Prevention of Cruelty to Animals Act of 1960 makes it a crime to beat, overload, starve or neglect an animal.",
+   "description": "Good care is simple to say. Give clean water every day, more in summer. Give shade and rest in the hottest hours. Keep the shed or coop clean and dry. Get vaccines, such as the rabies vaccine for dogs. Never feed animals plastic, or let them eat from rubbish. Cows that wander city streets often swallow plastic bags with food scraps inside. The bags cannot be digested and fill up their stomachs. Vets in Indian cities have taken many kilograms of plastic out of single cows.",
+   "examples": [
+    "On Mattu Pongal, families in Tamil Nadu bathe their cattle, paint their horns and feed them pongal, to thank them.",
+    "Tying food waste in a bag and throwing it on the road can harm a cow. A bin with a lid keeps it away from her.",
+    "A dog bowl of fresh water in a shady spot helps street dogs in May."
+   ],
+   "perspectives": [],
+   "art": "A family in a Tamil Nadu village on Mattu Pongal, bathing a cow with painted blue and red horns and a flower garland.",
+   "context": "This card says what good care for animals looks like, and what the law in India says."
+  },
+  {
+   "concept": "Soil needs a cover",
+   "status": "defined",
+   "definition": "Soil stays in place when plants cover it. Roots hold the grains together, and leaves break the force of the rain.",
+   "description": "Good soil forms very slowly, from broken rock and dead plants. A few centimetres can take hundreds of years. A raindrop hitting bare soil knocks grains loose, and the running water carries them off. Under grass or fallen leaves, the drops land softly, the water soaks in, and the roots hold the soil like a net. That is why a bare, overgrazed field or a cut forest loses its soil so fast in the monsoon.",
+   "examples": [
+    "In the bare tub test, the water from the bare tub came out brown. The water from the wheat tub was much clearer.",
+    "Tea gardens in the Nilgiris are planted in rows along the slopes, to slow the water down.",
+    "Farmers leave crop stubble or grow a cover crop, so the soil is never bare."
+   ],
+   "perspectives": [],
+   "art": "A cut-away of a grassy slope with roots holding the soil, next to a bare slope with muddy water running off.",
+   "context": "This card explains why soil washes away when there are no plants on it."
+  },
+  {
+   "concept": "People who stood up for forests",
+   "status": "defined",
+   "definition": "Forests hold soil and water, give homes to animals and plants, and give people food, fuel and medicine. Many forests in India were saved by ordinary people, often women.",
+   "description": "In 1983, people in Uttara Kannada, in Karnataka, hugged the trees of their forest so the loggers could not cut them. This was the Appiko movement. Appiko means 'hug' in Kannada. They followed the Chipko movement of the Himalayas. In Kerala, scientists, writers and villagers campaigned for years to save Silent Valley, a rainforest where a dam was planned. The poet Sugathakumari was one of its leaders. The dam was dropped, and Silent Valley became a national park in 1984.",
+   "examples": [
+    "The lion-tailed macaque, a monkey found only in the Western Ghats, lives in Silent Valley.",
+    "Sacred groves, small forests kept by villages and temples, are found all over Kerala, Karnataka and Tamil Nadu.",
+    "A forest's roots and fallen leaves let rain soak into the ground and fill streams slowly."
+   ],
+   "perspectives": [],
+   "art": "Villagers in a Western Ghats forest with their arms round tall trees, and a lion-tailed macaque with a grey mane watching from a branch.",
+   "context": "This card tells how people in India protected their forests."
+  },
+  {
+   "concept": "Saving water, and putting it back in the ground",
+   "status": "defined",
+   "definition": "Water conservation means using less water, and helping rain soak back into the ground so wells and borewells refill.",
+   "description": "Most Indian cities get water from rivers, lakes and reservoirs, and from the ground. When roads and buildings cover the soil, rain runs into drains and out to sea, so less soaks down to refill the groundwater. In 2003, Tamil Nadu made rainwater harvesting compulsory for buildings. In 2019, Chennai's main lakes went almost dry, and the city needed water from trains and tankers. Rain on a terrace can be sent down a pipe into a pit of stones and sand, and soak into the ground. At home, small habits save a lot: a mug instead of a running tap, fixing drips, and using rice-washing water for plants.",
+   "examples": [
+    "1 millimetre of rain on 1 square metre of terrace is 1 litre of water.",
+    "Old tanks called eris in Tamil Nadu, and temple tanks across South India, catch rain and help it soak into the ground.",
+    "Water used to wash vegetables can water a potted plant."
+   ],
+   "perspectives": [],
+   "art": "A city building in the rain, with a pipe from the terrace into a pit, and blue arrows going down into the ground to a borewell.",
+   "context": "This card explains how water is saved at home and how cities put rain back into the ground."
+  },
+  {
+   "concept": "Is it fair to use animals at all?",
+   "status": "debated",
+   "description": "People in India and everywhere disagree about this, and each side has good reasons. Many families have lived with cows, goats and hens for thousands of years, and care for them well. Others think animals should not be kept to give us things. Most silk is made by boiling the cocoons with the young moth still inside, and some people will not wear it for that reason.",
+   "examples": [
+    "Ahimsa silk, also called peace silk, is made after the moth has come out of the cocoon.",
+    "Some people eat no animal foods at all, and are called vegans.",
+    "Many dairy farmers in Kerala and Karnataka keep only a few cows, and know each one by name."
+   ],
+   "perspectives": [
+    {
+     "who": "A dairy farmer",
+     "explanation": "My cows are part of my family. I feed them, keep them cool and call the vet when they are ill. The milk feeds my children and pays for school."
+    },
+    {
+     "who": "A vegan",
+     "explanation": "A cow's milk is made for her calf. Animals have their own lives and feelings, so we should not keep them to take from them, however kindly."
+    },
+    {
+     "who": "An animal welfare scientist",
+     "explanation": "We can measure how well an animal lives: is she healthy, can she move, rest and be with others? Whatever people choose, the animal's life must go well."
+    }
+   ],
+   "art": "A woman milking a cow in a Kerala shed, a calf beside them, and a silkworm cocoon on a mulberry leaf.",
+   "context": "This card is about a real disagreement: whether people should keep animals for what they give."
+  },
+  {
+   "concept": "Do grazing animals help or harm a wild place?",
+   "status": "debated",
+   "description": "It depends on the place, the animals and how many there are. Too many animals strip the land bare. But some wild places stay healthy only because something keeps the plants short. In Keoladeo National Park, in Bharatpur, buffaloes were banned in 1982, and a wetland grass spread over the shallow water.",
+   "examples": [
+    "In Keoladeo, the grass Paspalum spread after the buffaloes were sent out, and park staff had to cut it back.",
+    "In grasslands, wild grazers like blackbuck and gaur keep some plants down and let others grow.",
+    "On many Indian hills, too many goats have left bare slopes."
+   ],
+   "perspectives": [
+    {
+     "who": "Some park managers and ecologists",
+     "explanation": "Village animals compete with wild animals for food and trample nests. Keep them out of protected areas."
+    },
+    {
+     "who": "Other ecologists",
+     "explanation": "Some places were shaped by grazing for centuries. Take the grazers away and the plants change. A small, managed number of animals can help."
+    }
+   ],
+   "art": "A wetland with herons and storks on trees, and a mat of tall grass covering the shallow water where buffaloes used to graze.",
+   "context": "This card is about whether grazing animals belong in protected places."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Grass leaves grow from a growing point near their base, so grass can be grazed or mowed again and again.",
+   "evidence": "Plant scientists have mapped where the new cells are made in grass leaves. Farmers and park managers see it every time a lawn or field regrows."
+  },
+  {
+   "text": "Bare soil washes away far faster than soil covered by plants.",
+   "evidence": "Measurements on farms and slopes all over the world show it. You can see it yourself in the bare tub test."
+  },
+  {
+   "text": "Most flowering crops make more fruit and seed when bees and other insects visit them.",
+   "evidence": "Farmers and scientists compare crops visited by insects with crops covered by nets. The covered ones usually set less fruit."
+  },
+  {
+   "text": "Rainwater harvesting helps refill groundwater in cities.",
+   "evidence": "After Tamil Nadu made it compulsory in 2003, studies in Chennai reported higher water levels in many wells over the next few years."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Keeping all people and their animals out of a forest or park is always the best way to protect it.",
+   "who": "An idea held by many park managers in the twentieth century",
+   "for": "Fewer people and animals means less cutting, hunting and trampling.",
+   "against": "At Keoladeo, the wetland grew over with grass once the buffaloes were sent out. Many forest people protect their forests well, as the women of Chipko did.",
+   "status": "debated",
+   "context": "This card is about whether nature is protected best by keeping people out."
+  },
+  {
+   "claim": "A plant that has been eaten is damaged, and is worse off.",
+   "who": "A common belief",
+   "for": "Losing leaves means less food made from sunlight.",
+   "against": "Grasses grow back from the base. Some grasses even make more shoots after grazing, and grazing stops tall plants from shading them out.",
+   "status": "debated",
+   "context": "This card is about whether being eaten always harms a plant."
+  },
+  {
+   "claim": "Saving water at home makes no difference, because farms use most of the water.",
+   "who": "Something many people say",
+   "for": "Farms do use most of India's water.",
+   "against": "In cities, homes use most of the piped water. When Chennai's lakes dried up in 2019, every litre saved at home mattered.",
+   "status": "minority",
+   "context": "This card is about whether saving water at home matters."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Grass grows back from the bottom after a cow eats the top. Is the grass harmed, or have they simply been shared?",
+   "kind": "deep",
+   "hint": "Think about what the grass lost, and what they still have. Did your cut wheat look unhappy?"
+  },
+  {
+   "q": "Why do you think grasses keep their growing point low, while moong keeps theirs at the top?",
+   "kind": "deep",
+   "hint": "Who eats grass? Who eats moong? Where does each plant need to reach?"
+  },
+  {
+   "q": "A cow gives milk, and the family gives her food and care. Is that a fair trade? Who decides?",
+   "kind": "big",
+   "hint": "Think about what the cow would choose, if she could say."
+  },
+  {
+   "q": "If something grows back, can we take it for ever? How would we know how much is too much?",
+   "kind": "big",
+   "hint": "Think of the tub you cut again and again. Did the wheat grow back the same each time?"
+  },
+  {
+   "q": "The people of Keoladeo had grazed buffaloes there for a long time. Should the park belong to the birds, the buffaloes or the people?",
+   "kind": "big",
+   "hint": "Is there a way for all three to share?"
+  }
+ ],
+ "story": {
+  "title": "The Field That Never Ran Out",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "Made up: Kavya, Selvi Athai, Arun and their farm are invented. True: Kangayam cattle come from the Kangayam area of Tiruppur district in Tamil Nadu. On Mattu Pongal, the day after Thai Pongal, families bathe their cattle, paint their horns, put garlands on them and feed them pongal. Grass grows from the base of the leaf, and goats often eat plants down to the ground. Buffaloes wallow because they heat up fast.",
+  "text": [
+   "Kavya lived on the sixth floor of a building in Velachery, in Chennai. The only plants she knew were the tulsi and the money plant on the balcony. So when her family went to Selvi Athai's farm near Kangayam for Pongal, she did not know what to expect.",
+   "Athai's farm had four Kangayam cows, grey and white, with big curved horns. It had two black buffaloes, a few goats, and hens that ran everywhere. Behind the cow shed was a wide field of grass, with a small pond at one end.",
+   "On the first morning, Kavya watched Athai walk the cows out to the field. They put their heads down and began to eat. They tore off the grass with a jerk of the head, chewing and moving on, chewing and moving on.",
+   "\"How long will they eat?\" Kavya asked.",
+   "\"Most of the day,\" said Athai. \"A cow eats for hours and hours. Then she lies down and chews it all again.\"",
+   "The next morning, the cows went to the same field. And the next. Kavya began to worry. At home, when Amma cut coriander for rasam, the bunch was gone. \"Athai, the cows eat this field every day. When will it be finished?\"",
+   "Athai laughed. \"Come and see.\" She knelt down at the edge of the field, where the cows had eaten the day before. The grass was short there, cut off flat, as if with scissors. \"Look at the tips of these leaves.\"",
+   "Kavya looked. The leaves had flat, chewed ends. But they were not as short as she expected.",
+   "\"Yesterday these were bitten right down,\" said Athai. \"Today they are a little taller. Grass grows from the bottom of the leaf, not the top. The cow bites off the top, and the bottom keeps pushing up.\"",
+   "Kavya thought about this. \"So the cow never eats the part that grows?\"",
+   "\"Not if she just eats the top. That is why a field can feed cows for a hundred years.\"",
+   "Just then, Kavya's cousin Arun came running. He was six, and he loved the goats. \"Athai! The goats got into your bhindi plants!\"",
+   "They ran to the vegetable patch behind the house. Two goats were eating happily. The bhindi plants had been bitten off at the top, and some were chewed right down to the soil. Athai shooed the goats away and tied them up.",
+   "\"Will the bhindi grow back too?\" asked Arun.",
+   "Athai shook her head slowly. \"Not like grass. A bhindi plant grows from the tip of their stem. The goats ate the tips. A few may grow a new shoot from lower down. The ones chewed to the ground are finished.\"",
+   "Arun looked sad. Kavya put her arm round him. \"It isn't the goats' fault,\" she said. \"They don't know which plants grow from the bottom.\"",
+   "\"Goats eat almost anything,\" said Athai. \"That is why we keep them tied, and move them to a new place every few days. If they stay too long in one place, they pull the plants up by the roots. Then nothing grows back. The rain washes the bare soil away, and it takes hundreds of years to make more.\"",
+   "That afternoon it was hot, even in January. The buffaloes walked down to the pond and lay in the water, with only their heads and their backs showing. Kavya laughed. \"They're having a bath!\"",
+   "\"They're keeping cool,\" said Athai. \"A buffalo has dark skin and not many sweat glands, so she gets hot fast. If there were no pond, I would have to pour water on them. Every animal on this farm needs something different. The hens need a dry coop. The cows need clean water three or four times a day. The buffaloes need their pond.\"",
+   "\"And the pond needs the rain,\" said Kavya.",
+   "Athai smiled. \"That is right. We dug the pond deeper three years ago. Now the rain from the whole field runs into it, and soaks down slowly. My well has water even in May.\"",
+   "The next day was Mattu Pongal. Kavya and Arun helped Athai bathe the cows. They painted their horns blue and red, and put garlands of marigolds round their necks. They fed them sweet pongal from their hands. Kavya stroked the oldest cow's nose. \"Thank you for the milk,\" she said.",
+   "Before they left, Kavya pulled up a few blades of grass from the field edge, very carefully, with the roots. She wanted to see the bottom of a grass leaf for herself. In the car, she held them up to the window. At the bottom of each leaf, near the roots, the grass was pale and soft, tucked inside the leaf below.",
+   "\"That is where they grow,\" Kavya told Arun. \"Right at the bottom, where the cows can't reach.\"",
+   "Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She wanted to see a field grow back on her own balcony."
+  ],
+  "epiphany": "For the parent: Kavya worries that the cows will finish the field, because when you cut most plants, that part is gone. But grass grows from the bottom of each leaf, near the soil, so a cow that eats only the top leaves the growing part behind. The goats show the other side: plants that grow from the tip, like bhindi, do not grow back the same way, and animals kept too long in one place eat plants to the roots. Caring for a farm means knowing what each living thing needs, from the buffalo's pond to the grass's time to regrow.",
+  "ask": [
+   "Why didn't the cows run out of grass, even though they ate the same field every day?",
+   "Why did Athai keep the goats tied and move them every few days?",
+   "What did each animal on the farm need from Athai?",
+   "Kavya said it wasn't the goats' fault. Do you agree? What could Athai do so the goats and the vegetables both do well?"
+  ],
+  "art": [
+   "A girl and her aunt on a farm near Kangayam at sunrise, watching four grey and white cows with big curved horns walk into a green field.",
+   "A woman kneeling at the edge of a field, showing a girl the flat, chewed tips of short grass leaves.",
+   "Two goats eating bhindi plants in a vegetable patch, with a small boy running towards them.",
+   "Two black buffaloes lying in a pond with only their heads and backs above the water, and a girl laughing on the bank.",
+   "Children feeding pongal to cows with blue and red painted horns and marigold garlands on Mattu Pongal."
+  ]
+ },
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Cutting Test: what grows back, wheat or moong?",
+   "mins": 52,
+   "days": 13,
+   "context": "In this experiment you grow wheat and moong side by side in one tub of soil. When both are tall, you cut them at the same height, like a cow grazing. Then you watch for four days to see which one grows back.",
+   "question": "If we cut wheat and moong at the same height, which one grows back?",
+   "predict": "Guess first. You will cut the wheat and the moong 2 centimetres above the soil. After four days, which will be taller: the wheat, the moong, or both the same? Why do you think so?",
+   "fair_test": "Grow both in the same tub, with the same soil, the same water and the same light. Cut both at exactly 2 centimetres. Only the kind of plant is different. Measure 3 plants of each kind, not 1, because one plant might be odd. Leave 5 wheat plants uncut, to compare.",
+   "results_table": [
+    "Day",
+    "Wheat 1 (cm)",
+    "Wheat 2 (cm)",
+    "Wheat 3 (cm)",
+    "Moong 1 (cm)",
+    "Moong 2 (cm)",
+    "Moong 3 (cm)",
+    "What I noticed"
+   ],
+   "materials": [
+    {
+     "item": "4 tablespoons of whole wheat grains (gehu). Whole jowar or bajra also work.",
+     "qty": 1,
+     "buy": "b-wheat"
+    },
+    {
+     "item": "2 tablespoons of whole green moong",
+     "qty": 1
+    },
+    {
+     "item": "2 plastic tubs or old ice-cream boxes, each about 15 centimetres across and 8 centimetres deep, with 4 small holes poked in the bottom",
+     "qty": 2
+    },
+    {
+     "item": "soil from a potted plant, or a small bag of potting soil, enough to fill both tubs",
+     "qty": 1,
+     "buy": "b-soil"
+    },
+    {
+     "item": "2 old plates to stand the tubs on",
+     "qty": 2
+    },
+    {
+     "item": "a ruler with centimetres",
+     "qty": 1
+    },
+    {
+     "item": "scissors",
+     "qty": 1
+    },
+    {
+     "item": "2 small bowls for soaking, and a cup for watering",
+     "qty": 3
+    },
+    {
+     "item": "an ice-cream stick or a strip of card, and a pen, for labels",
+     "qty": 2
+    }
+   ],
+   "safety": "A grown-up makes the holes in the tub. Wash your hands after touching soil. Don't eat the soaked grains.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 5,
+     "what": "Soak the wheat and the moong overnight, in separate bowls."
+    },
+    {
+     "day": 2,
+     "mins": 12,
+     "what": "Fill the tub with soil. Sow wheat on one half and moong on the other. Cover lightly and water. Sow a second tub with only wheat, for the Bare Tub Test."
+    },
+    {
+     "day": 3,
+     "mins": 2,
+     "what": "Water if the soil feels dry. Look for shoots."
+    },
+    {
+     "day": 5,
+     "mins": 2,
+     "what": "Water and look."
+    },
+    {
+     "day": 7,
+     "mins": 2,
+     "what": "Water and look. Measure the tallest plant of each kind."
+    },
+    {
+     "day": 9,
+     "mins": 15,
+     "what": "Both should be about 8 to 12 centimetres tall. Measure 3 of each. Guess. Cut both at 2 centimetres, leaving 5 wheat uncut."
+    },
+    {
+     "day": 10,
+     "mins": 3,
+     "what": "Measure the 3 cut wheat and the 3 cut moong."
+    },
+    {
+     "day": 11,
+     "mins": 3,
+     "what": "Measure again. Look closely at the tips of the cut wheat."
+    },
+    {
+     "day": 13,
+     "mins": 10,
+     "what": "Measure for the last time. Say what you think, what you saw and why. Keep the tub for the next experiments."
+    }
+   ],
+   "record": "Fill in the table each time. On the last day, draw one cut wheat plant and one cut moong plant, side by side, with their heights.",
+   "setup": [
+    {
+     "art": "Two small bowls of water on a kitchen counter, one with wheat grains and one with green moong, soaking.",
+     "caption": "1. Soak wheat and moong overnight."
+    },
+    {
+     "art": "A plastic tub of soil on a plate, with a stick label 'W' on the left half sown with wheat and 'M' on the right half sown with moong.",
+     "caption": "2. Sow wheat on one half and moong on the other."
+    },
+    {
+     "art": "A tub on a window sill a week later, with thin green wheat leaves on one side and moong seedlings with round leaves on the other, a ruler standing beside them.",
+     "caption": "3. After a week, measure both."
+    },
+    {
+     "art": "A child's hands cutting the wheat and the moong with scissors, level with the 2 centimetre mark on a ruler held upright in the soil.",
+     "caption": "4. Cut both at 2 centimetres, like a cow grazing."
+    },
+    {
+     "art": "The same tub four days later: the cut wheat taller again with flat-ended leaves, the moong still short stumps.",
+     "caption": "5. Measure again for four days."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "context": "This is the first step of the Cutting Test. You soak the seeds so they start to grow.",
+     "do": "1. Put 2 tablespoons of wheat in one bowl and 2 tablespoons of moong in the other. 2. Cover each with water. 3. Leave them overnight.",
+     "say": "A cow eats the same field every day, and the field doesn't run out. Today we start a tiny field of our own, to find out why.",
+     "kid": "Put wheat in one bowl. Put moong in the other. Cover them with water. Leave them till tomorrow.",
+     "parent": "Soaking makes the seeds swell and start growing faster. Any whole wheat from a grocery shop works, but not atta or broken wheat (dalia)."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "context": "This is the sowing step of the Cutting Test. You plant the soaked seeds in one tub.",
+     "do": "1. Fill the tub with soil to about 2 centimetres from the top. 2. Put a label W on the left half and M on the right half. 3. Spread the wheat thickly over the W half. 4. Spread the moong over the M half, about a finger-width apart. 5. Cover with a thin layer of soil. 6. Water gently until the soil is damp, not muddy. 7. Put the tub on its plate by a bright window. 8. Fill the second tub the same way and spread wheat over all of it. Keep it next to the first. You will need it for the Bare Tub Test.",
+     "say": "We grow both in the same tub, so they get the same soil, water and light. Then the only difference is the kind of plant.",
+     "kid": "Fill the tub with soil. Wheat goes on one side. Moong goes on the other. Cover them with a little soil. Water gently. Now sow a second tub with only wheat.",
+     "adult": true,
+     "parent": "A grown-up pokes the drainage holes with a heated skewer or the tip of a scissor. Wheat is a grass. Moong is not. Don't tell your child that yet."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "context": "These are the watering days of the Cutting Test, while the plants grow.",
+     "do": "Every day or two, touch the soil. If it feels dry, add half a cup of water. On day 7, measure the tallest plant of each kind from the soil to the tip.",
+     "say": "Feel the soil first. We only water when it feels dry, because soggy soil rots seeds.",
+     "kid": "Touch the soil. Dry? Give half a cup of water. Wet? Leave it.",
+     "wait": "Water every day or two for about a week, until both kinds are 8 to 12 centimetres tall.",
+     "parent": "Wheat shoots usually show in 2 to 3 days and moong in 2 days. In about a week, both are usually 8 to 12 centimetres tall. In a cold room it may take 10 days. Moong grown indoors can lean towards the window, which is fine."
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "context": "This is the measuring day of the Cutting Test, just before the cut.",
+     "do": "1. Choose 3 wheat plants and 3 moong plants near the middle of each half. 2. Measure each from the soil to the top. 3. Write the heights in the table as Day 9, before the cut. 4. Look closely at where each plant's leaves come from.",
+     "say": "Let's measure first, so we can compare later. Now look at the wheat leaves. Where do they come out of the plant? And where do the moong leaves come out?",
+     "kid": "Measure 3 wheat and 3 moong. Write the numbers down. Where do the wheat leaves start? Where do the moong leaves start?",
+     "ask": [
+      {
+       "q": "Where do the leaves come from on each plant?",
+       "good": [
+        "The wheat leaves come straight out of the soil.",
+        "The moong leaves are at the top of a stem.",
+        "The moong has two round leaves and a stem."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "context": "This is the guessing step of the Cutting Test. You guess before you cut.",
+     "do": "Ask your child to guess, and to give a reason. Write the guess down.",
+     "say": "We are going to cut both kinds at 2 centimetres, like a cow biting off the top. In four days, which will be taller? Why do you think so?",
+     "kid": "We will cut both at 2 centimetres. Which will grow back? Why do you think so? Write your guess.",
+     "parent": "Accept any guess with a reason. Many children think neither will grow back, or that both will. Don't correct the guess. The test will answer it."
+    },
+    {
+     "id": "s6",
+     "mins": 5,
+     "context": "This is the cutting step of the Cutting Test, where you graze your tiny field.",
+     "do": "1. Stand the ruler upright in the soil. 2. Cut the 3 measured wheat plants, and all the other wheat except 5, exactly at the 2 centimetre mark. 3. Cut all the moong at 2 centimetres too. 4. Leave the 5 uncut wheat plants in one corner.",
+     "say": "Now we are the cow. Cut straight across, at the 2 centimetre mark, for both kinds.",
+     "kid": "Hold the ruler up. Cut the wheat at 2 centimetres. Cut the moong at 2 centimetres too. Leave 5 wheat plants uncut.",
+     "adult": true,
+     "parent": "Help with the scissors. Moong seed leaves are the two thick, round leaves. If they sit lower than 2 centimetres, cut just below them, so no leaves are left on the stump. Write down which you did."
+    },
+    {
+     "id": "s7",
+     "mins": 6,
+     "context": "These are the days after the cut, in the Cutting Test. You measure what grows back.",
+     "do": "On days 10, 11 and 13, measure the same 3 wheat and 3 moong from the soil to the top. Write each height in the table. Look at the tips of the cut wheat leaves.",
+     "say": "Let's measure the same plants. Look at the tips of the wheat. Are they pointed, or flat where we cut them?",
+     "kid": "Measure the same 3 wheat and 3 moong. Write the numbers. Look at the tips of the wheat. Pointed or flat?",
+     "check": {
+      "t": "mcq",
+      "q": "The cut wheat leaves are taller, but their tips are still flat where you cut them. Where did the new part grow?",
+      "options": [
+       "At the top, above the cut",
+       "At the bottom, near the soil, pushing the flat tip up",
+       "The leaf did not grow. The soil sank."
+      ],
+      "a": 1,
+      "why": "If the leaf grew at the top, the tip would be pointed and new. It is still flat, so the new part was added at the bottom and pushed the cut tip up. Picking 'at the top' is a natural guess, because many plants grow from their tips. The soil sinking a little can happen, but not by several centimetres."
+     },
+     "parent": "Cut wheat usually grows back 1 to 2 centimetres a day in a warm room. New, pointed leaves also come up from the middle. The moong stumps usually stay the same height and may dry up. If a moong stump kept their round seed leaves, a small side shoot may slowly grow beside them, from a bud. Write it down if you see it."
+    },
+    {
+     "id": "s8",
+     "mins": 10,
+     "context": "This is the last step of the Cutting Test. You say what you found.",
+     "do": "1. Make a bar for each plant on the last day. 2. Ask your child to say or write three things: what I think, what I saw, and why.",
+     "say": "Tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "A good answer: What I think: wheat grows back after cutting and moong doesn't. What I saw: the cut wheat grew from 2 to 7 centimetres in four days, and the moong stayed at 2. Why: wheat grows from the bottom of the leaf, so cutting the top doesn't stop them. Now read the card 'Why grass grows back after grazing'. Keep the tub for the Dot Test and the Bare Tub Test."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "The Dot Test: does a wheat leaf grow at the top or the bottom?",
+   "mins": 20,
+   "days": 3,
+   "context": "In this experiment you put two ink dots on an uncut wheat leaf, and measure them for two days. The dots show which part of the leaf is growing.",
+   "question": "Does a wheat leaf grow longer at the top, in the middle, or at the bottom?",
+   "predict": "Guess first. You put one dot 2 centimetres above the soil and one 4 centimetres above the soil. In two days, will the dots move apart, stay the same, or both move up? Why do you think so?",
+   "fair_test": "Mark 3 leaves, not 1, in case one leaf is odd. Measure from the same place, the top of the soil, every time.",
+   "results_table": [
+    "Leaf",
+    "Day 1: soil to lower dot (cm)",
+    "Day 1: gap between dots (cm)",
+    "Day 3: soil to lower dot (cm)",
+    "Day 3: gap between dots (cm)"
+   ],
+   "materials": [
+    {
+     "item": "the 5 uncut wheat plants from the Cutting Test, or any young wheat or grass",
+     "qty": 3
+    },
+    {
+     "item": "a felt-tip pen or a sketch pen",
+     "qty": 1
+    },
+    {
+     "item": "a ruler with centimetres",
+     "qty": 1
+    }
+   ],
+   "safety": "Press the pen gently, so the leaf doesn't tear.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Put two dots on 3 young leaves. Measure. Guess."
+    },
+    {
+     "day": 3,
+     "mins": 10,
+     "what": "Measure again. Compare."
+    }
+   ],
+   "record": "Fill in the table. Draw one leaf on day 1 and on day 3, with its dots.",
+   "setup": [
+    {
+     "art": "A child's hand holding a ruler upright beside a young wheat leaf, putting a small dot on the leaf at 2 centimetres and another at 4 centimetres.",
+     "caption": "1. Put dots at 2 and 4 centimetres above the soil."
+    },
+    {
+     "art": "The same leaf two days later, taller, with both dots higher above the soil but still the same distance apart.",
+     "caption": "2. Two days later, measure again."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "context": "This is the first step of the Dot Test. You mark young wheat leaves with dots.",
+     "do": "1. Choose 3 young wheat leaves. 2. Hold the ruler upright in the soil beside each leaf. 3. Put a small dot on the leaf at 2 centimetres, and another at 4 centimetres. 4. Write down the heights and the gap, which is 2 centimetres.",
+     "say": "If a leaf grows at the top, the dots stay where they are. If the leaf grows in the middle, the dots move apart. What if she grows at the bottom? What do you think will happen? Why?",
+     "kid": "Put a dot at 2 centimetres. Put another at 4 centimetres. Do it on 3 leaves. What will the dots do?"
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "context": "This is the last step of the Dot Test. You measure the dots again.",
+     "do": "1. Measure from the soil to the lower dot on each leaf. 2. Measure the gap between the two dots. 3. Write them in the table.",
+     "say": "Are the dots further apart? Are they higher? What does that tell us about where the leaf grows?",
+     "kid": "Measure the soil to the lower dot. Measure the gap. Did the dots move apart, or just move up?",
+     "check": {
+      "t": "mcq",
+      "q": "Both dots are higher above the soil, but the gap between them is still 2 centimetres. Where is the leaf growing?",
+      "options": [
+       "At the tip",
+       "Between the dots",
+       "Below the lower dot, near the soil"
+      ],
+      "a": 2,
+      "why": "The gap did not change, so the part between the dots did not grow. The whole marked part moved up, so new leaf was added underneath, near the soil. If the tip were growing, the dots would not move up at all."
+     },
+     "parent": "The lower dot usually rises by 1 to 3 centimetres in two days while the gap stays about the same. If the lower dot was very close to the soil, the gap may grow a little, because the growing part is just there. That is a useful clue too."
+    }
+   ]
+  },
+  {
+   "id": "e3",
+   "title": "The Bare Tub Test: does a mat of roots keep soil from washing away?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this experiment you pour 'rain' on two tilted tubs of soil. One is bare. One is your second wheat tub from the Cutting Test, full of roots. You compare the water that runs off.",
+   "question": "When rain falls on a slope, does a mat of grass roots stop the soil washing away?",
+   "predict": "Guess first. Which tub will lose more soil when we pour water on it: the bare tub or the wheat tub? What will the water look like? Why do you think so?",
+   "fair_test": "Use the same kind of soil in both tubs. Tilt them on the same books, to the same slope. Pour the same amount of water, from the same height, at the same speed. Only the cover is different.",
+   "results_table": [
+    "Tub",
+    "Colour of the water that ran off",
+    "Soil settled in the bowl after 10 minutes (a little, some, a lot)"
+   ],
+   "materials": [
+    {
+     "item": "the second tub from the Cutting Test, sown all over with wheat, 2 or more weeks old and never cut",
+     "qty": 1
+    },
+    {
+     "item": "a second tub the same size, filled with the same soil, with nothing growing",
+     "qty": 1,
+     "buy": "b-soil"
+    },
+    {
+     "item": "2 or 3 thick books, and a plastic bag to cover them",
+     "qty": 1
+    },
+    {
+     "item": "2 steel bowls or clear glass jars, to catch the runoff",
+     "qty": 2
+    },
+    {
+     "item": "a plastic bottle with 8 to 10 small holes in the cap, to make rain",
+     "qty": 1
+    },
+    {
+     "item": "2 cups of water for each tub",
+     "qty": 4
+    }
+   ],
+   "safety": "Do this in the bathroom or on the balcony, where mud can be washed away. A grown-up makes the holes in the bottle cap. Wash your hands afterwards.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Tilt both tubs. Rain on each. Compare the water and the soil that settles."
+    }
+   ],
+   "record": "Draw the two bowls, colouring the water as it looked. Fill in the table.",
+   "setup": [
+    {
+     "art": "Two tubs of soil tilted side by side on books covered in plastic, in a bathroom, one bare and one full of thick young wheat, with a steel bowl below the low end of each.",
+     "caption": "1. Tilt both tubs the same way, with a bowl below each."
+    },
+    {
+     "art": "A child squeezing a bottle with a holed cap so water sprinkles like rain onto the bare tub.",
+     "caption": "2. Rain 2 cups of water on each tub."
+    },
+    {
+     "art": "Two glass jars side by side: one with brown muddy water and a layer of soil at the bottom, the other with much clearer water.",
+     "caption": "3. Compare the water, and the soil that settles."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "context": "This is the first step of the Bare Tub Test. You set up two tubs as slopes.",
+     "do": "1. Cover the books with the plastic bag. 2. Lean both tubs on the books, at the same slope, with the holes facing down the slope. 3. Put a bowl at the low end of each tub, under the holes and the edge.",
+     "say": "These two tubs are two little hillsides. One is bare, like a field eaten to the ground. One is covered in grass, like a field grazed just a little.",
+     "kid": "Lean both tubs on the books. Same slope for both. Put a bowl under each one.",
+     "adult": true,
+     "parent": "Soil can slide out of the bare tub. A slope of about one book height is enough. The tubs drain through the holes and over the low edge, so place the bowls to catch both."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "context": "This is the guessing step of the Bare Tub Test.",
+     "do": "Ask for a guess and a reason before any water is poured.",
+     "say": "We will rain the same water on both. Which bowl will get more soil? Why do you think so?",
+     "kid": "Which bowl will get more soil? Why do you think so?"
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "context": "This is the rain step of the Bare Tub Test.",
+     "do": "1. Fill the bottle with 2 cups of water. 2. Hold it about 20 centimetres above the top of the bare tub. 3. Squeeze gently so it sprinkles, for about 1 minute. 4. Do the same for the wheat tub.",
+     "say": "Rain gently, from the same height, for the same time. Watch where the water goes.",
+     "kid": "Hold the bottle up high. Squeeze gently, like rain. Count to 60. Now do the other tub.",
+     "parent": "If water pours straight out of the bare tub without sinking in, that is part of the result too. Bare soil often forms a crust that rain runs off."
+    },
+    {
+     "id": "s4",
+     "mins": 10,
+     "context": "This is the last step of the Bare Tub Test. You compare the runoff.",
+     "do": "1. Compare the colour of the water in the two bowls. 2. Wait 10 minutes for the soil to settle. 3. Tip the bowls gently and look at the soil at the bottom.",
+     "say": "Which bowl is muddier? Which has more soil at the bottom? What did the roots do?",
+     "kid": "Which water is browner? Wait 10 minutes. Which bowl has more soil at the bottom?",
+     "check": {
+      "t": "mcq",
+      "q": "The bare tub's water was brown, and the wheat tub's water was much clearer. Why?",
+      "options": [
+       "The wheat drank all the water",
+       "The roots held the soil, and the leaves slowed the drops",
+       "The wheat tub had less soil"
+      ],
+      "a": 1,
+      "why": "Roots grip the soil grains, and the leaves break the force of each drop, so less soil is knocked loose. The wheat did drink some water, but not 2 cups in a minute. Both tubs had the same soil, so that was not the difference."
+     },
+     "parent": "The bare tub usually gives brown water and a clear layer of soil in the bowl. The wheat tub's water is usually much clearer, because the roots form a mat. Link it to the card 'Soil needs a cover': this is why an overgrazed field loses its soil."
+    }
+   ]
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "Four Fields: keep the herd fed without a bare field",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a board game that everyone plays together, as one team of herders. You move one herd of cows between four fields. The grass grows back each round, but a field eaten to nothing turns bare and is lost.",
+   "printables": [
+    {
+     "kind": "board",
+     "title": "A board with four fields in a square, and a round counter from 1 to 10",
+     "items": [
+      "Field 1: by the tank",
+      "Field 2: by the coconut trees",
+      "Field 3: by the temple",
+      "Field 4: by the road",
+      "A row of boxes marked Round 1 to Round 10"
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "20 grass tokens and 1 herd token",
+     "items": [
+      "20 grass tokens: dried rajma, small buttons or torn green paper",
+      "1 herd token: a coin or a bottle cap"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "16 question cards to cut out",
+     "items": [
+      "Where does a grass leaf grow from: the top or the bottom? (The bottom, near the soil)",
+      "Why does a moong stem stop growing taller when you cut the tip? (Moong grows from the tip of the stem)",
+      "What is overgrazing? (Animals eating plants faster than they grow back)",
+      "What holds soil in place when it rains? (Plant roots, and leaves that soften the drops)",
+      "Why does a buffalo lie in a pond on a hot day? (To cool down. She has dark skin and few sweat glands)",
+      "What does a silkworm eat? (Mulberry leaves)",
+      "Name one thing bees do for crops. (They pollinate the flowers, so the crops make fruit and seed)",
+      "Why is a plastic bag of food scraps on the road dangerous for a cow? (She can swallow the plastic, and it stays in her stomach)",
+      "What is conservation? (Using something carefully, so that it lasts)",
+      "What is groundwater? (Water that soaks into the ground and fills the gaps between soil and rock)",
+      "1 millimetre of rain falls on 1 square metre of roof. How much water is that? (1 litre)",
+      "Name one way to save water while brushing your teeth. (Use a mug, or close the tap)",
+      "Which state made rainwater harvesting compulsory for buildings in 2003? (Tamil Nadu)",
+      "Appiko means 'hug' in which language? (Kannada)",
+      "What happened at Keoladeo when the buffaloes were sent out? (A wetland grass spread over the water)",
+      "Name an Indian law that protects animals from cruelty. (The Prevention of Cruelty to Animals Act, 1960)"
+     ]
+    }
+   ],
+   "rules": [
+    "Put 5 grass tokens on each field. Put the herd on Field 1. Put a marker on Round 1.",
+    "Each round, the herd eats 2 grass tokens from the field they are on. Take them off the board.",
+    "Then every field that still has at least 1 token grows 1 token back. No field can hold more than 5.",
+    "A field with 0 tokens is bare. A bare field never grows back in this game, because the rain has washed its soil away.",
+    "Before the next round, you may move the herd to another field. To move, read a question card and answer it. Right answer: move. Wrong answer: the herd stays where they are.",
+    "If the herd is on a field with fewer than 2 tokens, they eat what is there and go hungry for the rest.",
+    "The team wins if the herd never goes hungry and no field turns bare for 10 rounds. Playing alone works the same way."
+   ],
+   "setup": [
+    {
+     "art": "A paper board with four fields drawn in a square, each with 5 dried rajma beans, and a coin on Field 1.",
+     "caption": "1. Put 5 grass tokens on each field and the herd on Field 1."
+    },
+    {
+     "art": "A child taking 2 beans off the field where the coin sits, then adding 1 bean to each of the other fields.",
+     "caption": "2. The herd eats 2. Every field that is not bare grows 1 back."
+    },
+    {
+     "art": "A child reading a question card aloud, then moving the coin to a field full of beans.",
+     "caption": "3. Answer a card to move the herd."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "context": "This is the first step of Four Fields. You set up the board and the tokens.",
+     "do": "1. Draw or print the board. 2. Put 5 tokens on each field. 3. Put the herd on Field 1. 4. Shuffle the question cards.",
+     "say": "We are herders, all on one team. Our cows must eat every day for 10 rounds. Grass grows back, but a bare field is lost.",
+     "kid": "Put 5 beans on each field. Put the coin on Field 1. The coin is your herd of cows."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "context": "This is a trial round of Four Fields, to see what happens if the herd never moves.",
+     "do": "Play 3 rounds with the herd staying on Field 1. Count the tokens on Field 1 after each round.",
+     "say": "Let's first try staying in one field. Eat 2, grow 1. What happens to Field 1?",
+     "kid": "Keep the herd on Field 1. Eat 2 beans. Grow 1 back. Do it 3 times. What happens?",
+     "check": {
+      "t": "mcq",
+      "q": "Field 1 started with 5 tokens. Each round the herd eats 2 and the field grows 1 back. How many are left after 3 rounds?",
+      "options": [
+       "5",
+       "2",
+       "0"
+      ],
+      "a": 1,
+      "why": "Each round the field loses 2 and gains 1, so it loses 1 overall. After 3 rounds it has 5 take away 3, which is 2. One more round and it is close to bare. That is overgrazing."
+     },
+     "parent": "Reset the board after the trial. The point is to see that a field shrinks when the herd eats faster than the grass grows back."
+    },
+    {
+     "id": "s3",
+     "mins": 12,
+     "context": "This is the main game of Four Fields. You play 10 rounds and move the herd to keep every field alive.",
+     "do": "Play 10 rounds by the rules. Before each move, the player reads a question card and answers it.",
+     "say": "Where should the herd go next? Which field has had the longest rest?",
+     "kid": "Play 10 rounds. Answer a card to move. Try to keep every field green.",
+     "parent": "Moving every round or two keeps all four fields alive. A wrong answer keeps the herd in place, which makes the game harder. That is fine. Talk about which field to choose."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "context": "This is the last step of Four Fields. You talk about what kept the fields alive.",
+     "do": "Ask what kept the fields growing.",
+     "say": "What did we do that kept the fields alive? Real herders in Rajasthan move their sheep and camels across the year for the same reason.",
+     "kid": "What kept your fields alive? Why did moving the herd help?",
+     "ask": [
+      {
+       "q": "Why did moving the herd help?",
+       "good": [
+        "Each field got time to grow back.",
+        "The herd ate less than grew back in each field.",
+        "No field was eaten down to nothing."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Who Needs What: a matching game of animals and their care",
+   "mins": 15,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a memory game with pairs of cards. One card shows an animal who helps people. The other shows what that animal needs. You turn cards over to find the pairs.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "16 cards: 8 animal cards and 8 need cards",
+     "items": [
+      "Buffalo (gives milk) | A pond, a shower or a wet floor on hot days, because she heats up fast",
+      "Hen (gives eggs) | A dry, clean coop, because damp and dirt bring disease",
+      "Silkworm (gives silk) | Fresh mulberry leaves every day",
+      "Honeybee (gives honey and pollinates crops) | Flowers that have not been sprayed with poison",
+      "Bullock (pulls a cart or plough) | Rest and water in the hottest hours",
+      "Dog (guards the home) | A rabies vaccine every year",
+      "Cow (gives milk) | Clean food, and never plastic bags from the road",
+      "Sheep (gives wool) | A haircut, called shearing, so her wool does not get too thick and hot"
+     ]
+    }
+   ],
+   "rules": [
+    "Cut the 16 cards and lay them face down in 4 rows.",
+    "Turn over 2 cards. If they are an animal and her need, say why she needs this, and keep the pair.",
+    "If they don't match, turn them back. The next player has a turn.",
+    "Playing alone: count how many turns you take to find all 8 pairs. Next time, try to beat it."
+   ],
+   "setup": [
+    {
+     "art": "16 small cards face down in 4 rows on a mat, with a few turned up showing a hen and a dry coop.",
+     "caption": "1. Lay the 16 cards face down."
+    },
+    {
+     "art": "A child holding up a buffalo card and a pond card together, smiling.",
+     "caption": "2. Find an animal and her need, and say why."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "context": "This is the first step of Who Needs What. You make and lay out the cards.",
+     "do": "1. Write or print the 16 cards. 2. Shuffle them. 3. Lay them face down in 4 rows of 4.",
+     "say": "Each animal who helps us has her own needs. Let's find which need goes with which animal.",
+     "kid": "Mix the cards. Lay them face down in 4 rows of 4."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "context": "This is the main game of Who Needs What. You turn over cards to find the pairs.",
+     "do": "Take turns turning over 2 cards. A pair counts only if the player says why the animal needs this.",
+     "say": "You found the buffalo and the pond. Why does she need a pond?",
+     "kid": "Turn over 2 cards. Is it an animal and her need? Say why she needs this.",
+     "parent": "The reason matters more than the match. A buffalo has dark skin and few sweat glands, so she wallows to cool down. Sheep of wool breeds need shearing once or twice a year."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "context": "This is the last step of Who Needs What.",
+     "do": "Ask the check question.",
+     "say": "Which need surprised you the most?",
+     "kid": "Which need surprised you? Answer the question.",
+     "check": {
+      "t": "mcq",
+      "q": "Why does a hen need a dry coop?",
+      "options": [
+       "Hens cannot walk on wet ground",
+       "Damp and dirt bring disease",
+       "Eggs melt in the rain"
+      ],
+      "a": 1,
+      "why": "Germs and tiny pests grow fast in damp, dirty bedding, and hens fall ill. Hens can walk on wet ground, and eggs do not melt. Caring for an animal starts with knowing what makes her ill."
+     }
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The Onion Test: where does a cut leaf grow from?",
+   "mins": 10,
+   "days": 3,
+   "context": "In this short activity you cut the green leaves off a spring onion and stand the white root end in water. In two or three days you see where the new green comes from.",
+   "materials": [
+    {
+     "item": "2 spring onions with their white bulbs and roots, from the vegetable shop",
+     "qty": 2
+    },
+    {
+     "item": "a small glass or steel tumbler with a little water",
+     "qty": 1
+    },
+    {
+     "item": "a knife, used by a grown-up, and a ruler",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up cuts with the knife.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 5,
+     "what": "Cut the green leaves 3 centimetres above the white part. Stand the bottoms in 2 centimetres of water."
+    },
+    {
+     "day": 3,
+     "mins": 5,
+     "what": "Look and measure. Where did the new green come from?"
+    }
+   ],
+   "record": "Draw the onion on day 1 and on day 3, with the heights.",
+   "setup": [
+    {
+     "art": "A grown-up's hands cutting the green leaves off two spring onions on a chopping board, 3 centimetres above the white part.",
+     "caption": "1. Cut the leaves 3 centimetres above the white part."
+    },
+    {
+     "art": "Two spring onion bottoms standing in a steel tumbler with a little water, and new green shoots coming from the middle.",
+     "caption": "2. Stand them in water and look again in two days."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "context": "This is the first step of the Onion Test. You cut the leaves and stand the onions in water.",
+     "do": "1. Cut the green leaves 3 centimetres above the white part. 2. Stand the bottoms, roots down, in 2 centimetres of water. 3. Put the tumbler by a window.",
+     "say": "We cut off almost all the leaves. Will the onion grow new ones? If so, where from: the top of the cut, or the middle?",
+     "kid": "A grown-up cuts the leaves. Put the white bottoms in water. Where will new green come from?",
+     "adult": true
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "context": "This is the last step of the Onion Test. You look at where the new green grew.",
+     "do": "1. Measure the tallest new leaf. 2. Look at where it comes out: from the cut edge, or from inside the middle.",
+     "say": "Where did the new leaf come from? Is the old cut edge any taller?",
+     "kid": "Measure the new green. Where did it come from? The cut edge, or the middle?",
+     "wait": "Leave the onions for 2 days. Change the water if it smells.",
+     "check": {
+      "t": "mcq",
+      "q": "The new green leaves pushed up from the middle of the onion. What does this show?",
+      "options": [
+       "Onions grow from the cut tips",
+       "Onion leaves grow from low down, near the bottom",
+       "The water made new onions"
+      ],
+      "a": 1,
+      "why": "Like grass, an onion makes new leaf from low down, inside the bottom of the plant. The cut edges stay where they were. Onions and grasses are both plants whose leaves grow from the base."
+     },
+     "parent": "New green usually shows within 2 or 3 days in a warm room, often 2 to 5 centimetres. This links to the Cutting Test: wheat also grows from the bottom of the leaf. Once grown, the onion leaves can go into the upma."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "The Drip Count: how much water does a dripping tap waste?",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you catch the water from a dripping tap for 10 minutes. Then you work out how much it would waste in a whole day.",
+   "materials": [
+    {
+     "item": "a tap, opened just enough to drip about once a second",
+     "qty": 1
+    },
+    {
+     "item": "a steel tumbler or a cup",
+     "qty": 1
+    },
+    {
+     "item": "a measuring cup or a medicine cup with millilitre marks",
+     "qty": 1
+    },
+    {
+     "item": "a clock or phone timer",
+     "qty": 1
+    }
+   ],
+   "safety": "Use the caught water to water a plant afterwards, so none is wasted.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Catch the drips for 10 minutes. Measure. Work out a whole day."
+    }
+   ],
+   "record": "Write: drips in 10 minutes, millilitres in 10 minutes, and millilitres in a day.",
+   "setup": [
+    {
+     "art": "A tap dripping slowly into a steel tumbler on a kitchen counter, with a phone timer beside it.",
+     "caption": "1. Catch the drips for 10 minutes."
+    },
+    {
+     "art": "A child pouring the water from the tumbler into a measuring cup with millilitre marks.",
+     "caption": "2. Measure the water in millilitres."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 12,
+     "context": "This is the first step of the Drip Count. You catch drips for 10 minutes.",
+     "do": "1. Open a tap until it drips about once a second. 2. Put the tumbler under it. 3. Start a 10 minute timer. 4. Count the drips in the first minute.",
+     "say": "One drip looks like nothing. Let's guess first. How much will we catch in 10 minutes? A spoonful, a cup or a bucket? Why?",
+     "kid": "Put the tumbler under the drip. Count the drips in one minute. Wait 10 minutes."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "context": "This is the last step of the Drip Count. You measure and work out a whole day.",
+     "do": "1. Pour the water into the measuring cup. 2. Write the millilitres. 3. Multiply by 6 for an hour, then by 24 for a day.",
+     "say": "10 minutes, 6 times, is an hour. An hour, 24 times, is a day. How much is that?",
+     "kid": "Measure the water. Times 6 is one hour. Times 24 is one day.",
+     "parent": "One drip a second often gives about 30 to 50 millilitres in 10 minutes. That is about 4 to 7 litres a day, a full bucket every few days. A tap washer costs a few rupees."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Rain Gauge: how much rain falls on our home?",
+   "mins": 25,
+   "days": 2,
+   "context": "In this activity you make a simple rain gauge from a bottle, and use it to find out how much water falls on your balcony or terrace in one rain.",
+   "materials": [
+    {
+     "item": "a plastic bottle with straight sides, with the top cut off by a grown-up",
+     "qty": 1
+    },
+    {
+     "item": "a ruler with millimetres, or a paper strip marked in millimetres and taped to the bottle",
+     "qty": 1
+    },
+    {
+     "item": "a few small stones or marbles to keep the bottle from tipping",
+     "qty": 1
+    },
+    {
+     "item": "a measuring tape, to measure the balcony",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up cuts the bottle. Put the gauge where a child can reach it safely, never on a ledge or parapet.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Make the gauge and put it in an open spot on the balcony or terrace."
+    },
+    {
+     "day": 2,
+     "mins": 15,
+     "what": "After a rain, read the millimetres. Work out the litres that fell on your balcony."
+    }
+   ],
+   "record": "Write the date, the millimetres of rain, the balcony size and the litres.",
+   "setup": [
+    {
+     "art": "A plastic bottle with its top cut off, a millimetre strip taped up its side, standing on an open balcony floor.",
+     "caption": "1. Put the gauge in the open, away from walls."
+    },
+    {
+     "art": "A child reading the water level against the millimetre strip after rain.",
+     "caption": "2. Read the millimetres after the rain."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "context": "This is the first step of the Rain Gauge. You make it and put it outside.",
+     "do": "1. Put a few stones in the bottom of the bottle. 2. Add water just to cover them, and mark that level as zero. 3. Tape a millimetre strip upwards from the zero mark. 4. Put it in the open, away from walls and roofs.",
+     "say": "Rain falls evenly, so the depth in our bottle is the depth all over the balcony.",
+     "kid": "Put stones in the bottle. Add water to cover them. Mark zero there. Put it outside.",
+     "adult": true
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "context": "This is the last step of the Rain Gauge. You read the rain and work out the litres.",
+     "do": "1. Read how many millimetres the water rose. 2. Measure the balcony's length and width in metres. 3. Multiply them for the square metres. 4. Multiply by the millimetres. That is the litres.",
+     "say": "1 millimetre of rain on 1 square metre is 1 litre. So how many litres fell on our balcony?",
+     "kid": "Read the millimetres. Measure the balcony. Square metres times millimetres is litres.",
+     "wait": "Wait for a rainy day. Check the gauge the morning after.",
+     "parent": "If it doesn't rain this week, use a city number instead: Chennai gets about 1,400 millimetres of rain in a year, so 1 square metre catches about 1,400 litres a year. A 3 metre by 2 metre balcony is 6 square metres."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Thank-You Shelf: which animals helped make our home?",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you hunt around your home for things that came from animals. For each one, you name the animal and one thing she needs to live well.",
+   "materials": [
+    {
+     "item": "things from the kitchen and cupboard, such as milk, curd, ghee, eggs, honey, a silk saree or a woollen shawl",
+     "qty": 1
+    },
+    {
+     "item": "paper and crayons",
+     "qty": 1
+    }
+   ],
+   "safety": "Handle silk and honey jars carefully.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Find 5 things from animals. Draw each with her animal and one need."
+    }
+   ],
+   "record": "A chart with three columns: the thing, the animal, and what she needs.",
+   "setup": [
+    {
+     "art": "A kitchen counter with a steel can of milk, a jar of honey, an egg tray, a ghee tin and a folded silk saree.",
+     "caption": "1. Gather things that came from animals."
+    },
+    {
+     "art": "A child's chart with drawings: honey and a bee with a flower, milk and a cow with a water trough.",
+     "caption": "2. Draw each thing with her animal and one need."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "context": "This is the first step of the Thank-You Shelf. You find things that came from animals.",
+     "do": "Help your child find 5 things in the home that came from an animal.",
+     "say": "Milk, ghee and curd came from a cow or a buffalo. What else came from an animal?",
+     "kid": "Find 5 things that came from an animal. Look in the kitchen and the cupboard."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "context": "This is the last step of the Thank-You Shelf. You name what each animal needs.",
+     "do": "For each thing, draw the animal and write one thing she needs.",
+     "say": "The honey came from bees. What do bees need to make it?",
+     "kid": "Draw each animal. Write one thing she needs.",
+     "ask": [
+      {
+       "q": "What do bees need?",
+       "good": [
+        "Flowers without poison sprays.",
+        "Lots of flowers.",
+        "A safe place for the hive."
+       ]
+      }
+     ],
+     "parent": "Honeybees make honey from nectar they collect from flowers. Pesticide sprays harm them, so flowers grown without sprays matter."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "The Grazing Diary: how often can wheat be cut?",
+   "mins": 45,
+   "days": 15,
+   "context": "In this project you keep cutting the wheat from the Cutting Test, every 3 days, for two weeks. You measure the regrowth each time. You find out whether grass that is grazed again and again keeps growing back as fast.",
+   "materials": [
+    {
+     "item": "the Cutting Test tub, with its cut wheat",
+     "qty": 1
+    },
+    {
+     "item": "a ruler and scissors",
+     "qty": 1
+    },
+    {
+     "item": "a notebook",
+     "qty": 1
+    }
+   ],
+   "safety": "Help with the scissors.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Choose 3 wheat plants. Cut them at 2 centimetres. Cut 3 others at 1 centimetre. Mark both groups."
+    },
+    {
+     "day": 4,
+     "mins": 5,
+     "what": "Measure all 6. Cut them again at the same heights."
+    },
+    {
+     "day": 7,
+     "mins": 5,
+     "what": "Measure and cut again."
+    },
+    {
+     "day": 10,
+     "mins": 5,
+     "what": "Measure and cut again."
+    },
+    {
+     "day": 13,
+     "mins": 5,
+     "what": "Measure and cut again."
+    },
+    {
+     "day": 15,
+     "mins": 15,
+     "what": "Measure for the last time. Make a bar chart of each cut. Say what you found."
+    }
+   ],
+   "record": "A table: date, regrowth of each plant since the last cut. Then a bar chart.",
+   "setup": [
+    {
+     "art": "A tub of wheat with two groups of plants marked by ice-cream sticks labelled 2 cm and 1 cm.",
+     "caption": "1. Mark 3 plants for 2 centimetre cuts and 3 for 1 centimetre cuts."
+    },
+    {
+     "art": "A child's notebook with a bar chart: the bars for each cut getting shorter over two weeks.",
+     "caption": "2. Measure, cut again, and chart the regrowth."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "context": "This is the first step of the Grazing Diary. You choose and cut the plants.",
+     "do": "1. Choose 6 wheat plants. 2. Mark 3 with a stick labelled 2 cm, and 3 with a stick labelled 1 cm. 3. Cut each group at its height.",
+     "say": "A gentle cow takes the top. A hungry one bites close to the ground. Which plants will grow back best? Why do you think so?",
+     "kid": "Mark 3 plants for 2 centimetres. Mark 3 for 1 centimetre. Cut them. Which will grow back best?",
+     "adult": true
+    },
+    {
+     "id": "s2",
+     "mins": 20,
+     "context": "These are the cutting days of the Grazing Diary, every 3 days.",
+     "do": "Every 3 days, measure how much each plant grew since the last cut. Write it down. Then cut again at the same height.",
+     "say": "How much did each plant grow since the last cut? More or less than last time?",
+     "kid": "Measure how much each one grew. Write it. Cut again.",
+     "wait": "Come back every 3 days for two weeks."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "context": "This is the last step of the Grazing Diary. You chart and explain what you found.",
+     "do": "1. Make a bar for each cut. 2. Ask your child what they think, what they saw and why.",
+     "say": "Did the wheat grow back the same each time? Did cutting close to the soil make a difference?",
+     "kid": "Draw a bar for each cut. Did they grow back the same each time? Why?",
+     "parent": "Most often the regrowth gets smaller after several cuts, and the plants cut at 1 centimetre slow down sooner. Young wheat lives on the seed's stored food and on the light their leaves catch, and each cut takes some away. Some plants may die. Whatever happens, it is a real result. This is overgrazing in a tub."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Save the Slope",
+   "mins": 30,
+   "problem": "A bare tub of soil, tilted like a hillside, loses soil every time it rains. Without growing anything, find a way to keep the soil in the tub when you pour rain on it.",
+   "constraints": [
+    "Use only things from home.",
+    "Use the same tilt and the same 2 cups of rain as in the Bare Tub Test.",
+    "Compare the runoff with a bare tub."
+   ],
+   "materials": [
+    "the bare tub from the Bare Tub Test, refilled with soil",
+    "dry leaves, coir from a coconut, old cloth, ice-cream sticks, small stones",
+    "2 bowls and the rain bottle"
+   ],
+   "general": [
+    "Cover the soil with dry leaves or coir. Farmers call this mulch. It softens the drops.",
+    "Push ice-cream sticks into the soil in rows across the slope, like little walls. Farmers on hills build steps called terraces.",
+    "Lay an old cloth or a coir mat over the soil and pin it down."
+   ],
+   "creative": [
+    "Make small ridges of soil across the slope with your finger, like the contour bunds farmers build.",
+    "Put stones at the bottom edge to make a small check dam that slows the water.",
+    "Mix the ideas: terraces of sticks with leaves on each step."
+   ],
+   "your_turn": "Now invent your own way to save the slope. Draw it, build it and rain on it. Is the runoff clearer than from the bare tub?",
+   "setup": [
+    {
+     "art": "A tilted tub of bare soil with brown water running off into a bowl.",
+     "caption": "1. See the problem: the bare slope loses soil."
+    },
+    {
+     "art": "A tilted tub of soil covered with dry leaves and rows of ice-cream sticks across the slope.",
+     "caption": "2. Build a cover or walls."
+    },
+    {
+     "art": "Two bowls side by side: one with brown runoff, one with much clearer water.",
+     "caption": "3. Rain on it and compare the runoff."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "context": "This is the first step of Save the Slope. You see the problem again.",
+     "do": "Refill the bare tub, tilt it, and rain 2 cups on it. Keep the bowl of runoff.",
+     "say": "This is what happens to a bare hillside. Now we keep the soil without growing anything.",
+     "kid": "Rain on the bare tub. Look at the brown water. That is soil leaving."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "context": "This is the planning step of Save the Slope.",
+     "do": "Draw three ideas before building.",
+     "say": "Engineers draw first. What could soften the drops, or slow the water down?",
+     "kid": "Draw three ideas to keep the soil in the tub."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "context": "This is the building and testing step of Save the Slope.",
+     "do": "1. Refill the tub with fresh soil. 2. Build one idea. 3. Rain 2 cups on it. 4. Compare the runoff with the bare tub's bowl.",
+     "say": "Is this water clearer than the bare tub's? What did your idea do to the drops?",
+     "kid": "Build your best idea. Rain on it. Is the water clearer?",
+     "parent": "Dry leaves or coir usually make the biggest difference, because they stop drops hitting the soil. Sticks alone help less unless they are close together."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "context": "This is the last step of Save the Slope.",
+     "do": "Read the usual and creative ideas together, then invent one more.",
+     "say": "Here is what farmers do. Can you think of one more way?",
+     "kid": "Read the farmers' ideas. Can you invent a new one?",
+     "think": "A forest floor is covered in fallen leaves all year. What does that do in the monsoon?"
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Grow Back or Run Out (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Meena, a girl in Class 3 in Mysuru, cuts wheat and moong plants at 2 centimetres above the soil. Four days later, which will be taller?",
+     "opts": [
+      "The moong",
+      "The wheat",
+      "Both the same, 2 centimetres"
+     ],
+     "a": 1,
+     "outcome": 1,
+     "how": "e1",
+     "why": "Wheat grows from the bottom of each leaf, so the cut leaves keep pushing up. Moong grows from the tip of each stem, and the tips were cut off. Picking 'both the same' means thinking no plant can grow after cutting."
+    },
+    {
+     "t": "fill",
+     "p": "Using and protecting something carefully, so that it lasts, is called ____.",
+     "a": [
+      "conservation"
+     ],
+     "why": "Conservation means taking care that soil, water, forests and animals last. A strong answer could add an example, such as picking a few curry leaves from each branch."
+    },
+    {
+     "t": "truefalse",
+     "p": "Lakshmi says, 'When a cow eats grass, that grass plant is finished.' Is she right?",
+     "a": false,
+     "why": "False. The cow bites off the top, but the growing point at the bottom of each leaf is left, so the grass grows again. A strong answer says where the grass grows from."
+    },
+    {
+     "t": "match",
+     "p": "Match each animal to one thing she gives people.",
+     "pairs": [
+      [
+       "Buffalo",
+       "milk"
+      ],
+      [
+       "Hen",
+       "eggs"
+      ],
+      [
+       "Honeybee",
+       "honey"
+      ],
+      [
+       "Silkworm",
+       "silk"
+      ],
+      [
+       "Sheep",
+       "wool"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each of these animals gives people something. A strong answer could also say one thing each animal needs in return."
+    },
+    {
+     "t": "sort",
+     "p": "Divya, a girl in Hyderabad, writes down what her family did on Sunday. Sort each one: does it save water or waste it?",
+     "cats": [
+      "Saves water",
+      "Wastes water"
+     ],
+     "items": [
+      [
+       "brushing teeth with a mug of water",
+       "Saves water"
+      ],
+      [
+       "leaving the tap running while soaping hands",
+       "Wastes water"
+      ],
+      [
+       "watering the plants with rice-washing water",
+       "Saves water"
+      ],
+      [
+       "a tap that drips all day",
+       "Wastes water"
+      ],
+      [
+       "washing the car with a bucket, not a hose",
+       "Saves water"
+      ],
+      [
+       "sending terrace rain into a pit",
+       "Saves water"
+      ]
+     ],
+     "a": "see items",
+     "why": "Using only what you need, using water twice, and helping rain soak into the ground all save water. A running tap or a drip lets clean water go down the drain."
+    },
+    {
+     "t": "write",
+     "p": "Why can a cow eat the same field of grass every day without finishing it? Use the words 'growing point' in your answer.",
+     "lines": 3,
+     "a": "A grass leaf's growing point is at the bottom, near the soil. The cow bites off the top and leaves the growing point, so the leaf keeps growing.",
+     "why": "A strong answer says where the growing point is, and that the cow does not eat the growing point."
+    },
+    {
+     "t": "mcq",
+     "p": "On a hot afternoon, a buffalo walks into a pond and lies there with only her head showing. Why?",
+     "opts": [
+      "She is looking for fish",
+      "She heats up fast and is cooling down",
+      "She is washing off milk"
+     ],
+     "a": 1,
+     "outcome": 0,
+     "why": "A buffalo has dark skin and few sweat glands, so she gets hot quickly in the sun. Lying in water or mud, called wallowing, cools her. That is why buffaloes need a pond or a shower in summer."
+    },
+    {
+     "t": "draw",
+     "p": "Draw one cut wheat plant and one cut moong plant, four days after the Cutting Test. Mark with a dot where each plant grows from.",
+     "art": "Two blank pots side by side with a soil line.",
+     "a": "The wheat is taller, with flat leaf tips and a dot near the soil. The moong is a short stump, with the dot at the top of the stem, where the tip was cut off.",
+     "why": "A strong drawing shows the difference in height and puts the growing point low for wheat and at the stem tip for moong.",
+     "how": "e1"
+    },
+    {
+     "t": "odd",
+     "p": "Three of these plants are grasses, which grow from the bottom of their leaves. Which one is the odd one out?",
+     "opts": [
+      "Rice",
+      "Sugarcane",
+      "Tomato",
+      "Bamboo"
+     ],
+     "a": 2,
+     "why": "Rice, sugarcane and bamboo are all grasses. A tomato plant grows from the tips of their stems, like moong."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Bare Tub Test, you rain the same water on a bare tub and a tub of wheat. What do you expect to see in the bowls?",
+     "opts": [
+      "Both bowls the same",
+      "Browner water from the bare tub",
+      "Browner water from the wheat tub"
+     ],
+     "a": 1,
+     "outcome": 2,
+     "how": "e3",
+     "why": "On bare soil, the drops knock grains loose and the water carries them away. In the wheat tub, roots hold the soil and leaves soften the drops."
+    },
+    {
+     "t": "fill",
+     "p": "When heavy rain washes the top layer of soil off a bare field, this is called soil ____.",
+     "a": [
+      "erosion"
+     ],
+     "why": "Soil erosion is soil carried away by water or wind. A strong answer could add that roots help stop it."
+    },
+    {
+     "t": "truefalse",
+     "p": "1 millimetre of rain falling on 1 square metre of roof makes 1 litre of water.",
+     "a": true,
+     "why": "True. A square metre covered with water 1 millimetre deep holds exactly 1 litre. So a big terrace catches a lot of water in one rain."
+    },
+    {
+     "t": "perspective",
+     "p": "Two sisters in Coimbatore are looking after their grandmother's cows for a week.",
+     "views": [
+      {
+       "who": "Kavya, aged 9",
+       "says": "Grass grows back, so we can keep the cows in the same small field all week."
+      },
+      {
+       "who": "Divya, aged 7",
+       "says": "We should move them to a new field every two days."
+      }
+     ],
+     "ask": "Which sister do you agree with? Use what you found in the Cutting Test. Then say one thing the other sister has right.",
+     "lines": 5,
+     "a": "A strong answer says grass does grow back, as Kavya says, but only so fast. If the cows eat a small field faster than it regrows, it turns bare. Moving them gives each field time to grow.",
+     "why": "Both have part of it. Grass regrows, and the speed of regrowth decides how long animals can stay."
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of the Cutting Test in order.",
+     "items": [
+      "Cut both kinds at 2 centimetres",
+      "Soak the wheat and moong overnight",
+      "Measure the plants for four days",
+      "Sow them in one tub and water them"
+     ],
+     "a": [
+      "Soak the wheat and moong overnight",
+      "Sow them in one tub and water them",
+      "Cut both kinds at 2 centimetres",
+      "Measure the plants for four days"
+     ],
+     "how": "e1",
+     "why": "First the seeds must grow, then you cut them like a cow grazing, then you watch what grows back."
+    },
+    {
+     "t": "mcq",
+     "p": "Farhan's family ties their vegetable peels in a plastic bag and leaves it by the road. A cow comes by. What could happen?",
+     "opts": [
+      "Nothing, cows can't open bags",
+      "The cow may swallow the bag, which stays in her stomach",
+      "The cow will carry the bag to the bin"
+     ],
+     "a": 1,
+     "outcome": 0,
+     "why": "Cows often swallow the whole bag to get the food. Plastic cannot be digested, so it builds up in the stomach and makes the cow ill. A bin with a lid keeps food waste away from her."
+    },
+    {
+     "t": "write",
+     "p": "Name two ways your family could save water at home. Say how each one helps.",
+     "lines": 4,
+     "a": "Brushing with a mug instead of a running tap uses a little water, not litres. Fixing a dripping tap stops water being lost all day.",
+     "why": "A strong answer gives real actions and says what each one saves."
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Soil, Water and Care (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "write",
+     "p": "Revathi says, 'To make grass grow back faster, cut it right down at the soil.' What is wrong with her idea?",
+     "lines": 3,
+     "a": "The growing point of a grass leaf is at the bottom, near the soil. Cutting right at the soil can damage it, and leaves no green to make food. Grass grows back best when some leaf is left.",
+     "why": "A strong answer uses where the growing point is, and why leaves are needed."
+    },
+    {
+     "t": "mcq",
+     "p": "Why does a moong stem stop getting taller after its tip is cut off?",
+     "opts": [
+      "Moong grows from the tip of the stem",
+      "Moong does not need light",
+      "The soil was too wet"
+     ],
+     "a": 0,
+     "outcome": 1,
+     "why": "Moong makes new stem at the tip, so cutting the tip takes away the growing part. A bud lower down may slowly grow a side shoot. Picking 'too wet' means looking for a cause that was the same for both plants."
+    },
+    {
+     "t": "write",
+     "p": "Herders in Rajasthan walk their sheep and camels to new places through the year. Why does this help the land?",
+     "lines": 3,
+     "a": "Each place gets time for the plants to grow back before the animals return, so no place is eaten bare.",
+     "why": "A strong answer links moving to regrowth and to stopping overgrazing."
+    },
+    {
+     "t": "truefalse",
+     "p": "Good soil forms in just a few years.",
+     "a": false,
+     "why": "False. Soil forms very slowly from broken rock and dead plants. A few centimetres can take hundreds of years, so lost soil is hard to replace."
+    },
+    {
+     "t": "mcq",
+     "p": "A building in Chennai sends rain from its terrace into a pit of stones and sand. What does this refill?",
+     "opts": [
+      "The groundwater under the building",
+      "The sea",
+      "The terrace"
+     ],
+     "a": 0,
+     "outcome": 5,
+     "why": "The water soaks down through the pit into the ground, filling the gaps between sand and rock. Wells and borewells draw on this groundwater."
+    },
+    {
+     "t": "perspective",
+     "p": "Three people talk about keeping cows for milk.",
+     "views": [
+      {
+       "who": "A dairy farmer in Kerala",
+       "says": "I know each of my cows by name, keep them cool and call the vet when they are ill."
+      },
+      {
+       "who": "A vegan",
+       "says": "Milk is made for the calf. We should not keep animals to take from them, however kindly."
+      },
+      {
+       "who": "An animal welfare scientist",
+       "says": "Whatever people choose, we can check whether the animal is healthy, can move, rest and be with others."
+      }
+     ],
+     "ask": "Which view is closest to yours? Give one reason. Then say one fair point another person makes.",
+     "lines": 5,
+     "a": "A strong answer picks a view with a reason and fairly states a point from another view.",
+     "why": "This is a real disagreement. Each person cares about the animals in a different way."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a building with rainwater harvesting. Show the rain, the terrace, the pipe, the pit and the water going into the ground.",
+     "art": "A blank outline of a two-storey building on a line of ground.",
+     "a": "Rain on the terrace, a pipe down the side, a pit of stones and sand, and arrows from the pit down into the ground.",
+     "why": "A strong drawing shows the whole path of the water, from the sky into the ground."
+    },
+    {
+     "t": "match",
+     "p": "Match each word to what it means.",
+     "pairs": [
+      [
+       "Graze",
+       "to eat grass and low plants a little at a time"
+      ],
+      [
+       "Overgrazing",
+       "eating plants faster than they grow back"
+      ],
+      [
+       "Groundwater",
+       "water that fills the gaps in soil and rock underground"
+      ],
+      [
+       "Pollinate",
+       "to carry pollen from one flower to another"
+      ],
+      [
+       "Wallow",
+       "to lie in water or mud to cool down"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These words come up all through the unit. A strong answer could give an example of each."
+    },
+    {
+     "t": "mcq",
+     "p": "Why did Tamil Nadu make rainwater harvesting compulsory for buildings in 2003?",
+     "opts": [
+      "Roofs and roads stopped rain soaking in, and groundwater was falling",
+      "Rain was damaging the roofs",
+      "The sea was too full"
+     ],
+     "a": 0,
+     "outcome": 5,
+     "why": "When the ground is covered by buildings and roads, rain runs into drains. Sending it into pits helps refill the groundwater."
+    },
+    {
+     "t": "fill",
+     "p": "A honeybee carries pollen from flower to flower while she drinks nectar. This helps the flowers make seeds and fruit. We say the bee ____ the flowers.",
+     "a": [
+      "pollinates"
+     ],
+     "why": "To pollinate is to carry pollen between flowers. Many crops, like mangoes and many vegetables, give more fruit when bees visit them."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these plants by where they grow from.",
+     "cats": [
+      "From the bottom of the leaf",
+      "From the tip of the stem"
+     ],
+     "items": [
+      [
+       "wheat",
+       "From the bottom of the leaf"
+      ],
+      [
+       "rice",
+       "From the bottom of the leaf"
+      ],
+      [
+       "spring onion",
+       "From the bottom of the leaf"
+      ],
+      [
+       "moong",
+       "From the tip of the stem"
+      ],
+      [
+       "bhindi",
+       "From the tip of the stem"
+      ],
+      [
+       "tomato",
+       "From the tip of the stem"
+      ]
+     ],
+     "a": "see items",
+     "why": "Grasses and onions add new leaf from low down. Moong, bhindi and tomato grow at the tips of their stems, so a grazing animal does them more harm."
+    },
+    {
+     "t": "write",
+     "p": "Write about your Bare Tub Test in three parts: what I think, what I saw, and why.",
+     "lines": 5,
+     "how": "e3",
+     "a": "What I think: plant roots keep soil from washing away. What I saw: the bare tub's water was brown, with soil at the bottom, and the wheat tub's water was clearer. Why: roots hold the soil and leaves soften the drops.",
+     "why": "A strong answer gives a claim, the evidence from the bowls, and a reason."
+    },
+    {
+     "t": "truefalse",
+     "p": "A silkworm caterpillar can live well on any kind of leaf.",
+     "a": false,
+     "why": "False. Silkworms eat mulberry leaves and almost nothing else. Silk farmers grow mulberry fields to feed them."
+    },
+    {
+     "t": "mcq",
+     "p": "In 1982, buffaloes were sent out of Keoladeo National Park, a wetland for birds in Rajasthan. What happened next?",
+     "opts": [
+      "A tall wetland grass spread over the shallow water",
+      "More birds came than ever",
+      "The water dried up at once"
+     ],
+     "a": 0,
+     "outcome": 6,
+     "why": "The buffaloes had been eating the grass called Paspalum. Without them, it spread over the open water that many water birds use."
+    },
+    {
+     "t": "order",
+     "p": "Put the journey of rain in a rainwater harvesting building in order.",
+     "items": [
+      "The water soaks into the ground",
+      "Rain falls on the terrace",
+      "A borewell pumps it up later",
+      "A pipe carries it to a pit of stones and sand"
+     ],
+     "a": [
+      "Rain falls on the terrace",
+      "A pipe carries it to a pit of stones and sand",
+      "The water soaks into the ground",
+      "A borewell pumps it up later"
+     ],
+     "why": "The rain is caught high up, led down, soaked into the ground, and used later."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these protect soil from the rain. Which one is the odd one out?",
+     "opts": [
+      "Covering it with dry leaves",
+      "Planting trees on slopes",
+      "Leaving the field bare",
+      "Building steps called terraces on hills"
+     ],
+     "a": 2,
+     "why": "A bare field has nothing to hold the soil or soften the drops, so the rain washes it away. The other three slow the water or cover the soil."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "How Much Is Too Much? (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "write",
+     "p": "Selvi wants to test whether a cover of dry leaves stops soil washing away. Plan her fair test. What will she change, and what will she keep the same?",
+     "lines": 5,
+     "a": "She changes only the cover: one tub with dry leaves, one bare. She keeps the same soil, the same tilt, the same amount of water, poured from the same height for the same time.",
+     "why": "A strong answer changes one thing and lists at least three things kept the same."
+    },
+    {
+     "t": "perspective",
+     "p": "People argue about whether village buffaloes should graze inside Keoladeo National Park.",
+     "views": [
+      {
+       "who": "A park manager",
+       "says": "Buffaloes trample nests and eat food the wild animals need. Keep them out."
+      },
+      {
+       "who": "An ecologist",
+       "says": "The wetland was shaped by grazing for centuries. A few buffaloes keep the grass down and the water open for birds."
+      },
+      {
+       "who": "A village farmer",
+       "says": "Our buffaloes grazed here before it was a park. We need the grass for them."
+      }
+     ],
+     "ask": "Which view do you agree with most? Give a reason from this unit. Then say one fair point from another view.",
+     "lines": 5,
+     "a": "A strong answer uses what happened after 1982, when the grass spread, and also admits a fair point, such as nests being trampled or too many buffaloes harming the land.",
+     "why": "This is a real trade-off. The number of animals, and how they are managed, matters."
+    },
+    {
+     "t": "mcq",
+     "p": "Malini's family mows their lawn very short every two days in May. The lawn turns brown and thin. Why?",
+     "opts": [
+      "The grass has too little leaf left to make food, and uses up its stores",
+      "Grass does not grow in May",
+      "The mower makes the grass cold"
+     ],
+     "a": 0,
+     "outcome": 2,
+     "why": "Grass needs leaves to catch sunlight and make food. Cut too often and too short, they use up the food stored in their roots. This is like overgrazing."
+    },
+    {
+     "t": "write",
+     "p": "Why do you think grasses keep their growing points low, near the soil? Think about who eats grass.",
+     "lines": 4,
+     "a": "Cows, goats, deer and insects eat grass all the time. A growing point near the soil is below where teeth bite, so the grass survives being eaten and grows again.",
+     "why": "A strong answer links where the growing point is to the grass's own problem: being eaten often."
+    },
+    {
+     "t": "write",
+     "p": "Kavya says, 'If something grows back, we can take it for ever.' Use the Grazing Diary to say whether she is right.",
+     "lines": 4,
+     "how": "p1",
+     "a": "Only partly. The wheat grew back, but after several cuts it grew back less, especially when cut close to the soil. We can take for ever only if we take less than grows back.",
+     "why": "A strong answer uses evidence from repeated cutting and says how much can be taken."
+    },
+    {
+     "t": "mcq",
+     "p": "A family in Chennai has a terrace and gets about 1,400 millimetres of rain a year. Which is the best use of the terrace rain?",
+     "opts": [
+      "Let it run into the street drain",
+      "Send it into a recharge pit, or store it in a tank",
+      "Cover the terrace so no rain falls"
+     ],
+     "a": 1,
+     "outcome": 5,
+     "why": "A pit puts the rain back into the ground, and a tank stores it for use. Rain sent to the drain is lost to the sea."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a grass leaf just after it is cut, and the same leaf three days later. Use an arrow to show where the new part grew.",
+     "art": "Two blank boxes labelled 'just cut' and '3 days later'.",
+     "a": "The second leaf is taller, with the same flat tip, and an arrow at the bottom near the soil showing new leaf added there.",
+     "why": "A strong drawing keeps the flat cut tip and adds the new growth at the base."
+    },
+    {
+     "t": "mcq",
+     "p": "The trees on a hillside in the Western Ghats are cut down. In the next monsoon, what will the stream at the bottom of the hill look like?",
+     "opts": [
+      "Clearer than before",
+      "Muddier, carrying soil from the bare slope",
+      "Just the same"
+     ],
+     "a": 1,
+     "outcome": 2,
+     "why": "Without roots and fallen leaves, the rain washes soil off the slope into the stream. That is soil erosion, and the stream turns brown."
+    },
+    {
+     "t": "truefalse",
+     "p": "A honeybee that drinks from a flower sprayed with poison can be harmed.",
+     "a": true,
+     "why": "True. Many insect poisons sprayed on crops also harm bees. That is why bees need flowers that have not been sprayed."
+    },
+    {
+     "t": "write",
+     "p": "It is May in Chennai. Plan how your family could help the street dogs near your building. Give three things they need and why.",
+     "lines": 5,
+     "a": "Fresh water in a shady bowl, changed every day, because dogs can't sweat much and May is very hot. Shade to rest in. A rabies vaccine, through the local animal welfare group, so they stay healthy.",
+     "why": "A strong answer gives real needs, each with a reason."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these by how fast they come back once used.",
+     "cats": [
+      "Comes back in weeks or a few years",
+      "Takes hundreds of years or more"
+     ],
+     "items": [
+      [
+       "grass in a field",
+       "Comes back in weeks or a few years"
+      ],
+      [
+       "curry leaves on a plant",
+       "Comes back in weeks or a few years"
+      ],
+      [
+       "fish in the sea, if the fishing stops for a season",
+       "Comes back in weeks or a few years"
+      ],
+      [
+       "a few centimetres of good soil",
+       "Takes hundreds of years or more"
+      ],
+      [
+       "very deep, old groundwater",
+       "Takes hundreds of years or more"
+      ],
+      [
+       "a 500-year-old banyan tree",
+       "Takes hundreds of years or more"
+      ]
+     ],
+     "a": "see items",
+     "why": "Conservation means knowing how fast something comes back, and taking less than that. Slow things must be used very carefully."
+    },
+    {
+     "t": "mcq",
+     "p": "In 2019, the main lakes that supply Chennai went almost dry. How did the city get water?",
+     "opts": [
+      "From trains and tankers bringing water from elsewhere",
+      "From the sea, by boat",
+      "It rained every day"
+     ],
+     "a": 0,
+     "outcome": 5,
+     "why": "Water was brought in by train and by tanker lorries. The crisis showed how much the city depends on rain being saved."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order to show how overgrazing ruins a field.",
+     "items": [
+      "The rain washes the bare soil away",
+      "Too many goats are kept in one field",
+      "The roots die",
+      "The plants are eaten down to the ground"
+     ],
+     "a": [
+      "Too many goats are kept in one field",
+      "The plants are eaten down to the ground",
+      "The roots die",
+      "The rain washes the bare soil away"
+     ],
+     "why": "Each step causes the next. Once the soil is gone, it takes hundreds of years to form again."
+    },
+    {
+     "t": "write",
+     "p": "Ravi says, 'The water from the wheat tub was clearer because the wheat drank all the rain.' Find the mistake in his thinking.",
+     "lines": 4,
+     "a": "Water still ran out of the wheat tub, so the wheat did not drink it all. It was clearer because the roots held the soil and the leaves softened the drops.",
+     "why": "A strong answer uses the evidence that water came out of both tubs."
+    },
+    {
+     "t": "fill",
+     "p": "Water that soaks deep into the ground, which wells and borewells pump up, is called ____.",
+     "a": [
+      "groundwater"
+     ],
+     "why": "Groundwater fills the tiny spaces between grains of soil, sand and rock. Rain refills it, if the rain can soak in."
+    },
+    {
+     "t": "match",
+     "p": "Match each place or movement to its state.",
+     "pairs": [
+      [
+       "The Appiko movement",
+       "Karnataka"
+      ],
+      [
+       "Silent Valley",
+       "Kerala"
+      ],
+      [
+       "Keoladeo National Park",
+       "Rajasthan"
+      ],
+      [
+       "Kangayam cattle",
+       "Tamil Nadu"
+      ],
+      [
+       "The Chipko movement",
+       "Uttarakhand"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These are places in this unit where people protected forests, wetlands and animals."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which animal gives people silk?",
+   "opts": [
+    "The honeybee",
+    "The silkworm caterpillar",
+    "The sheep"
+   ],
+   "a": 1,
+   "outcome": 0,
+   "why": "Silk is the thread a silkworm caterpillar spins to make her cocoon. Bees give honey, and sheep give wool."
+  },
+  {
+   "t": "mcq",
+   "p": "Anu cuts the top off her lawn grass and the top off her tulsi plant. Which grows taller again from the same stem or leaf?",
+   "opts": [
+    "The tulsi",
+    "The grass",
+    "Neither"
+   ],
+   "a": 1,
+   "outcome": 1,
+   "why": "Grass grows from the bottom of the leaf, so the cut leaf keeps growing. Tulsi grows from the tips of their stems, so they make new side shoots instead."
+  },
+  {
+   "t": "mcq",
+   "p": "What is overgrazing?",
+   "opts": [
+    "Animals eating plants faster than they grow back",
+    "Animals eating only the tops of grass",
+    "Planting too much grass"
+   ],
+   "a": 0,
+   "outcome": 2,
+   "why": "Overgrazing leaves the ground bare. Eating only the tops, slowly, lets grass grow back."
+  },
+  {
+   "t": "mcq",
+   "p": "In the Cutting Test, why do we measure 3 wheat plants and not just 1?",
+   "opts": [
+    "One plant might be odd",
+    "Three is a lucky number",
+    "Wheat grows in threes"
+   ],
+   "a": 0,
+   "outcome": 3,
+   "how": "e1",
+   "why": "One plant might be weak or damaged. Measuring three shows what most plants do."
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is conservation?",
+   "opts": [
+    "Picking a few curry leaves from each branch, so the plant grows more",
+    "Cutting the whole curry leaf plant at once",
+    "Pulling the plant out by the roots"
+   ],
+   "a": 0,
+   "outcome": 4,
+   "why": "Conservation is taking in a way that lets the plant keep growing. Taking everything leaves nothing to grow back."
+  },
+  {
+   "t": "mcq",
+   "p": "Arjun brushes his teeth with the tap running. His sister Priya uses a mug of water. Who uses less water?",
+   "opts": [
+    "Arjun",
+    "Priya",
+    "They use the same"
+   ],
+   "a": 1,
+   "outcome": 5,
+   "why": "A running tap pours litres while you brush. A mug holds about a quarter of a litre."
+  },
+  {
+   "t": "mcq",
+   "p": "Why did a wetland grass spread over the water at Keoladeo after 1982?",
+   "opts": [
+    "The buffaloes that ate it were sent out",
+    "Too much rain fell",
+    "The birds planted it"
+   ],
+   "a": 0,
+   "outcome": 6,
+   "why": "The buffaloes had kept the grass short. Without them, it grew over the open water."
+  },
+  {
+   "t": "mcq",
+   "p": "Why does soil under grass wash away less than bare soil?",
+   "opts": [
+    "Roots hold it, and leaves soften the drops",
+    "Grass makes the rain lighter",
+    "Grass soil is heavier"
+   ],
+   "a": 0,
+   "outcome": 2,
+   "why": "Roots grip the soil grains, and leaves stop the drops hitting the soil hard."
+  },
+  {
+   "t": "mcq",
+   "p": "What does a hen need to stay healthy?",
+   "opts": [
+    "A dry, clean coop",
+    "A deep pond",
+    "Mulberry leaves"
+   ],
+   "a": 0,
+   "outcome": 0,
+   "why": "Damp and dirt bring disease to hens. Ponds are for buffaloes, and mulberry leaves are for silkworms."
+  },
+  {
+   "t": "mcq",
+   "p": "In a city, why does less rain soak into the ground?",
+   "opts": [
+    "Roads and buildings cover the soil",
+    "City rain is heavier",
+    "City soil is full of water"
+   ],
+   "a": 0,
+   "outcome": 5,
+   "why": "Rain runs off roads and roofs into drains. Rainwater harvesting sends it back into the ground."
+  },
+  {
+   "t": "mcq",
+   "p": "What does India's Prevention of Cruelty to Animals Act of 1960 do?",
+   "opts": [
+    "Makes it a crime to beat, starve or neglect an animal",
+    "Bans keeping cows",
+    "Lets anyone keep wild animals"
+   ],
+   "a": 0,
+   "outcome": 0,
+   "why": "The law protects animals from cruelty. People may keep animals, but must care for them."
+  },
+  {
+   "t": "mcq",
+   "p": "In the Bare Tub Test, what must be the same for both tubs?",
+   "opts": [
+    "The soil, the tilt and the amount of water",
+    "The plants",
+    "Nothing"
+   ],
+   "a": 0,
+   "outcome": 3,
+   "how": "e3",
+   "why": "Only the cover should differ. Then any difference in the runoff comes from the roots."
+  },
+  {
+   "t": "mcq",
+   "p": "Where is the growing point of a grass leaf?",
+   "opts": [
+    "At the bottom, near the soil",
+    "At the tip",
+    "In the roots only"
+   ],
+   "a": 0,
+   "outcome": 1,
+   "why": "The new leaf is made at the bottom and pushes up. That is why the cut tips stay flat as the leaf grows."
+  }
+ ],
+ "videos": [
+  {
+   "title": "Macro Time Lapse of Grass Growing - Example of Intercalary Meristems",
+   "channel": "mortrek",
+   "youtube": "7QKw2_VI-ZM",
+   "mins": 1,
+   "why": "A close-up time lapse of cut grass growing back from the base. It shows what the Cutting Test shows, much faster.",
+   "check": "Id, title and channel found through a YouTube search from here. Not watched: a parent should preview it."
+  },
+  {
+   "title": "Erosion and Soil",
+   "channel": "funsciencedemos",
+   "youtube": "im4HVXMGI68",
+   "mins": 8,
+   "why": "A presenter pours water on trays of bare soil and soil with plants and compares the runoff, like the Bare Tub Test.",
+   "check": "Id, title and channel found through a YouTube search from here. Not watched: a parent should preview it and check that it matches this description."
+  },
+  {
+   "title": "In Chennai, A Community Harvests 25,000 Litres Of Rain Water In An Hour",
+   "channel": "NDTV",
+   "youtube": "w8Ad9Cf3EI4",
+   "mins": 3,
+   "why": "A news report from Chennai about a neighbourhood that catches its rain and sends it into the ground.",
+   "check": "Id, title and channel found through a YouTube search from here. Not watched: a parent should preview it."
+  }
+ ],
+ "applications": [
+  "Lawns, playgrounds and cricket grounds can be mowed every week because grass grows from the base.",
+  "Herders and dairy farmers move animals between fields so the grass can grow back.",
+  "Farmers cover soil with crop stubble, leaves or a cover crop so the monsoon does not wash it away.",
+  "Tea and coffee estates on hills plant along the slopes and keep the ground covered.",
+  "Buildings in Tamil Nadu and many other states must harvest rainwater.",
+  "Fishing stops for some weeks each year on India's coasts, so fish can breed.",
+  "Vets, animal shelters and animal welfare groups care for working and street animals.",
+  "Beekeepers place hives near crops like mustard and sunflower, so the bees pollinate them.",
+  "Silk farmers in Karnataka grow mulberry fields to feed their silkworms."
+ ],
+ "spotted": [
+  {
+   "text": "Cows and buffaloes grazing on the grass beside a lake or a highway.",
+   "art": "Buffaloes grazing on the grassy bank of a city lake."
+  },
+  {
+   "text": "A lawn or a park ground, green again a week after mowing.",
+   "art": "A park lawn half mowed, with a mower and cut grass."
+  },
+  {
+   "text": "A pipe from a terrace going into a covered pit in the ground beside a building.",
+   "art": "A drainpipe from a building ending in a round covered pit."
+  },
+  {
+   "text": "Brown, muddy water in a drain after heavy rain, carrying soil from bare ground.",
+   "art": "A drain full of brown water after rain, beside a bare plot of land."
+  },
+  {
+   "text": "Painted horns and garlands on cattle at Mattu Pongal in Tamil Nadu.",
+   "art": "A cow with blue and red painted horns and a marigold garland."
+  },
+  {
+   "text": "Bees on the flowers of a drumstick tree, a mango tree or a pot of tulsi.",
+   "art": "A honeybee on small white drumstick flowers."
+  },
+  {
+   "text": "A water bowl for street dogs or birds outside a shop in summer.",
+   "art": "A steel bowl of water in the shade outside a shop."
+  },
+  {
+   "text": "Temple tanks and old village tanks, called eris in Tamil Nadu, full after the monsoon.",
+   "art": "A temple tank with stone steps full of water."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "How many animals can a field or a hill feed for ever without being harmed?",
+   "why_open": "It depends on the rain, the soil, the plants and the animals, and it changes from year to year. Scientists still argue about how to measure it."
+  },
+  {
+   "q": "Did grasses and grazing animals shape each other?",
+   "why_open": "Grasses and grazers spread together over millions of years. How much each one changed the other is still being studied from fossils of teeth and plants."
+  },
+  {
+   "q": "How much does rainwater harvesting really refill a city's groundwater?",
+   "why_open": "Some studies in Chennai found well levels rising after 2003, but many pits are not cleaned, and the amount is hard to measure across a whole city."
+  },
+  {
+   "q": "What is the best way to protect a wild place: keep people and their animals out, or let them share it carefully?",
+   "why_open": "Keoladeo and other places show both ways can go wrong. The answer may be different for every place."
+  }
+ ],
+ "ask_kids": [
+  "When we cut coriander, does it grow back? Where from?",
+  "Why do you think the park grass is green again a week after mowing?",
+  "Which animals helped make what is on our plate today?",
+  "Where does our water come from? Where does it go after the drain?",
+  "If our building caught all the rain from the terrace, where could we put it?",
+  "What do you think a buffalo would say about summer?",
+  "Is it fair to take milk from a cow? What would make it fairer?",
+  "How could we tell if a field is being eaten faster than it grows?",
+  "Which do you think comes back faster, soil or grass? Why?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the cow keep coming back to the same field?",
+   "a": "The grass kept growing back. It was a bottomless meal."
+  },
+  {
+   "j": "What did the grass say to the cow?",
+   "a": "Take the top, leave me the bottom!"
+  },
+  {
+   "j": "Why was the moong sad after the haircut?",
+   "a": "Her stylist cut off the part that grows."
+  },
+  {
+   "j": "What do you call a buffalo in a pond?",
+   "a": "Cool as a cucumber."
+  },
+  {
+   "j": "Why did the raindrop go into the pit?",
+   "a": "It wanted to visit the groundwater family."
+  },
+  {
+   "j": "What did the bare field say to the rain?",
+   "a": "Please don't wash me away!"
+  },
+  {
+   "j": "Why did the tap go to the doctor?",
+   "a": "It had a bad drip."
+  },
+  {
+   "j": "What is a bee's favourite colour?",
+   "a": "Bee-yellow, from all the pollen."
+  },
+  {
+   "j": "Why don't goats ever get bored at dinner?",
+   "a": "They eat almost anything on the menu."
+  },
+  {
+   "j": "Why did the hen want a dry coop?",
+   "a": "She didn't want to be a wet hen."
+  },
+  {
+   "j": "What did the terrace say in the monsoon?",
+   "a": "Don't let my rain go down the drain!"
+  },
+  {
+   "j": "Why did the silkworm only eat mulberry leaves?",
+   "a": "She was a very fussy eater."
+  },
+  {
+   "j": "What is a lawn's favourite day?",
+   "a": "Mow-nday, then it grows all week."
+  },
+  {
+   "j": "Why did the soil hold on to the roots?",
+   "a": "Because the roots held on to the soil first."
+  },
+  {
+   "j": "What do you call a cow who saves water?",
+   "a": "A conservation cow. She never lets a drop go to waste."
+  },
+  {
+   "j": "Why did the spring onion grow back so fast?",
+   "a": "They had a head start at the bottom."
+  },
+  {
+   "j": "Why did the bucket smile at the hose?",
+   "a": "Because it used less water to wash the car."
+  },
+  {
+   "j": "What did the herder say to the herd?",
+   "a": "Time to moo-ve on!"
+  },
+  {
+   "j": "Why did the tree hug back in Karnataka?",
+   "a": "Appiko! The people hugged them first."
+  },
+  {
+   "j": "Why did the rain gauge feel important?",
+   "a": "Everyone was measuring up to it."
+  },
+  {
+   "j": "What did the buffalo say to the mud?",
+   "a": "You're so cool."
+  },
+  {
+   "j": "Why was the field so calm?",
+   "a": "It knew how to grow back after a bad bite."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the Cutting Test, a wheat plant was cut at 2 centimetres. Four days later it was 7 centimetres tall. How much did it grow in the four days, and how much is that each day?",
+   "answer": "5 centimetres in four days, which is about 1 and a quarter centimetres each day.",
+   "explain": "7 take away 2 is 5, so it grew 5 centimetres. 5 shared over 4 days is 1 centimetre each day, with 1 centimetre left over, shared as a quarter each day.",
+   "math_unit": "math.division.sharing-and-grouping.L3",
+   "context": "This is about the Cutting Test, where you cut wheat and moong at 2 centimetres and measure what grows back.",
+   "how": "e1",
+   "chart": {
+    "type": "bar",
+    "title": "Height after the cut",
+    "x": "Plant",
+    "y": "Height on day 13 (centimetres)",
+    "data": [
+     {
+      "label": "Cut wheat",
+      "value": 7,
+      "emoji": "🌾"
+     },
+     {
+      "label": "Cut moong",
+      "value": 2,
+      "emoji": "🌱"
+     }
+    ]
+   },
+   "why_maths": "Subtracting the starting height tells us how much really grew, not just how tall the plant is."
+  },
+  {
+   "problem": "Rain falls 10 millimetres deep on a terrace of 50 square metres. How many litres of water fell on the terrace?",
+   "answer": "500 litres.",
+   "explain": "1 millimetre on 1 square metre is 1 litre. 10 millimetres on 1 square metre is 10 litres. On 50 square metres it is 50 times 10, which is 500 litres.",
+   "math_unit": "math.multiplication.equal-groups.L3",
+   "context": "This is about the Rain Gauge, where you measure how much rain falls on your home.",
+   "how": "a3",
+   "why_maths": "Multiplying the depth by the area turns a few millimetres in a bottle into the water that falls on a whole roof."
+  },
+  {
+   "problem": "A dripping tap fills 40 millilitres in 10 minutes. How much does it waste in one hour?",
+   "answer": "240 millilitres.",
+   "explain": "An hour is 60 minutes, which is 6 groups of 10 minutes. 6 times 40 is 240 millilitres.",
+   "math_unit": "math.multiplication.equal-groups.L3",
+   "context": "This is about the Drip Count, where you catch the water from a dripping tap.",
+   "how": "a2",
+   "why_maths": "A tiny drip looks like nothing, but multiplying shows how much it adds up to."
+  },
+  {
+   "problem": "In the Four Fields game, a field has 5 tokens. Each round the herd eats 2 and the field grows 1 back. After how many rounds is it down to 2 tokens? What happens if the herd stays longer?",
+   "answer": "After 3 rounds. If the herd stays, the field soon reaches 0 and turns bare.",
+   "explain": "Each round the field loses 2 and gains 1, so it loses 1 overall. 5, then 4, then 3, then 2. Staying on means 1, then 0.",
+   "math_unit": "math.patterns.number-patterns.L3",
+   "context": "This is about Four Fields, a game where you move a herd between fields so the grass can grow back.",
+   "how": "g1",
+   "why_maths": "Spotting the pattern, minus 1 each round, lets a herder predict when a field will run out before it happens."
+  },
+  {
+   "problem": "Tamil Nadu made rainwater harvesting compulsory in 2003. Chennai's lakes went almost dry in 2019. How many years apart are these?",
+   "answer": "16 years.",
+   "explain": "2019 take away 2003. 2003 plus 10 is 2013, and 6 more is 2019. So it is 16 years.",
+   "math_unit": "math.addition-subtraction.word-problems.L3",
+   "context": "This is about the card on saving water and putting rain back into the ground.",
+   "why_maths": "Working out the gap between dates helps us see how long a change has had to work."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.environment.L3",
+  "title": "Leave the Part That Grows",
+  "note": "Topic-level song for Caring for the environment L3"
+ },
+ "links": [
+  {
+   "title": "India Water Portal",
+   "url": "https://www.indiawaterportal.org",
+   "kind": "interactive",
+   "why": "For the parent. Articles and maps about water in India, including rainwater harvesting in cities."
+  },
+  {
+   "title": "Keoladeo National Park, on the UNESCO World Heritage list",
+   "url": "https://whc.unesco.org/en/list/340/",
+   "kind": "place",
+   "where": "Bharatpur, Rajasthan",
+   "why": "The bird wetland in the how-we-found-out story. Winter, from October to February, is the best time for birds."
+  },
+  {
+   "title": "Rain Centre, Chennai",
+   "url": "",
+   "kind": "place",
+   "where": "Chennai",
+   "why": "A small centre that shows how rainwater harvesting works in a city home. Check opening times before you go."
+  },
+  {
+   "title": "Silent Valley National Park",
+   "url": "",
+   "kind": "place",
+   "where": "Palakkad district, Kerala",
+   "why": "The rainforest saved from a dam by a people's campaign. Visits are by forest department permit from Mukkali."
+  },
+  {
+   "title": "Any dairy or goshala near you",
+   "url": "",
+   "kind": "place",
+   "where": "Most towns",
+   "why": "See how cows and buffaloes are fed, cooled and kept clean. Ask before visiting."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-wheat",
+   "item": "Whole wheat grains, about 100 grams",
+   "kind": "material",
+   "why": "For the Cutting Test. Any grocery shop sells whole wheat. Atta and dalia will not sprout.",
+   "url": "",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "p1"
+   ]
+  },
+  {
+   "id": "b-soil",
+   "item": "A small bag of potting soil, about 5 kilograms",
+   "kind": "material",
+   "why": "Only if you have no potted plant to borrow soil from. Nurseries and garden shops sell it.",
+   "url": "https://www.amazon.in/s?k=potting+soil+5kg",
+   "used_in": [
+    "e1",
+    "e3",
+    "c1"
+   ]
+  },
+  {
+   "id": "b-book",
+   "item": "One Well: The Story of Water on Earth, by Rochelle Strauss",
+   "kind": "book",
+   "why": "A picture book for ages 8 and up that treats all the water on Earth as one shared well.",
+   "url": "https://www.amazon.in/s?k=One+Well+Rochelle+Strauss",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "If bought, read it on the day of the Rain Gauge."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Where does a grass leaf grow from?",
+   "a": "The bottom, near the soil."
+  },
+  {
+   "q": "What is overgrazing?",
+   "a": "Animals eating plants faster than they grow back."
+  },
+  {
+   "q": "Why does a buffalo wallow?",
+   "a": "To cool down. She heats up fast."
+  },
+  {
+   "q": "What do silkworms eat?",
+   "a": "Mulberry leaves."
+  },
+  {
+   "q": "How much water is 1 millimetre of rain on 1 square metre?",
+   "a": "1 litre."
+  },
+  {
+   "q": "What holds soil in place in the rain?",
+   "a": "Plant roots, and leaves that soften the drops."
+  },
+  {
+   "q": "What does Appiko mean in Kannada?",
+   "a": "Hug."
+  },
+  {
+   "q": "What is conservation?",
+   "a": "Using something carefully, so that it lasts."
+  }
+ ],
+ "roots": {
+  "context": "We have learned how grass grows back, what useful animals need, and how soil and water are kept. Now we ask what this tells us about taking from the world.",
+  "deep_truth": {
+   "truth": "In your tub, the cut wheat grew back within days, and the cut moong stems stayed short. Both lost the same height. Wheat keeps their growing point low, below the cut, and moong keeps theirs at the tip. So taking from a living thing can go on only if the part that grows is left behind.",
+   "habit": "We think taking always uses something up, like cutting a whole bunch of coriander. But the wheat lost as much as the moong and kept growing. What decides is not how much is taken, but whether the growing part is left.",
+   "evidence": "In the Cutting Test, the cut wheat grew several centimetres in four days, with their flat cut tips pushed up from below. The moong stumps did not grow taller. In the Grazing Diary, wheat cut close to the soil again and again grew back less each time."
+  },
+  "three": {
+   "who_am_i": "Your hair and nails also grow from the bottom, so cutting the ends does not stop them.",
+   "what_is_life": "Grass and grazing animals have lived together for millions of years. The grass feeds the cow, and the cow's dung feeds the soil the grass grows in.",
+   "what_is_this_world": "The same rain falls on the field, soaks into the ground and comes back up in a well. The water we save today is the water someone drinks later."
+  },
+  "thread": "One grass seed becomes a plant, and that plant feeds cows, goats, grasshoppers and the soil below. The cow's milk feeds a family, and her dung goes back to the field. Each of these lives is separate, and each depends on the grass keeping their growing point low. Where people take only the top, the field keeps feeding all of them. One plant's way of growing holds up many lives.",
+  "teachings": [
+   {
+    "source": "Isha Upanishad, verse 1",
+    "teaching": "All this world is filled by the One. Enjoy it by letting go. Do not grab what belongs to others.",
+    "link": "The cow eats only the top and lets the rest go, so the field lasts. Taking with a light hand is what keeps the growing part alive."
+   },
+   {
+    "source": "Tirukkural, verse 20 (chapter on rain)",
+    "teaching": "Without water, the world cannot go on.",
+    "link": "Every animal on the farm, every field and every city depends on rain. Saving water and sending rain back into the ground keeps the world going."
+   }
+  ],
+  "science": [
+   {
+    "text": "Grass leaves grow from a growing point near their base, so grazing and mowing remove old leaf, not the part that makes new leaf.",
+    "status": "settled"
+   },
+   {
+    "text": "How many animals a piece of land can feed for ever depends on rain, soil and plants, and is still argued about for each place.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Many biologists",
+   "view": "Grass keeps their growing point low because, over millions of years, the grasses that did so survived grazing best. It is how they adapted, not a gift to the cow. Reading lessons about taking and giving into it says more about us than about grass."
+  },
+  "practice": {
+   "title": "Take the top",
+   "mins": 3,
+   "say": "Let's go to the curry leaf or tulsi plant. Look for the growing tips. Now pick just one leaf from lower down, and leave every tip. Smell it. Close your eyes and take five slow breaths. The plant will keep growing because we left the part that grows.",
+   "kid": "Go to a plant. Find the growing tips. Pick one lower leaf. Leave the tips. Smell the leaf. Breathe slowly five times."
+  },
+  "ask": [
+   "When the cow eats the top of the grass, has the grass lost something, or shared something?",
+   "What is the growing part of a forest, a river or a family? How could we leave it whole?",
+   "Is there anything we take every day that cannot grow back?"
+  ],
+  "art": "A cow grazing the tops of tall grass at dawn, with small glowing dots at the base of every grass leaf, and a child watching from a city balcony with a tub of wheat."
+ },
+ "how_we_found_out": {
+  "story": "Keoladeo, near Bharatpur in Rajasthan, is a shallow wetland where thousands of water birds spend the winter, including painted storks, herons and, in the past, rare Siberian cranes. For hundreds of years, buffaloes from nearby villages grazed there. Many people, including scientists of the Bombay Natural History Society such as the bird expert Salim Ali, thought the buffaloes harmed the birds by eating their food and trampling the wetland. Keoladeo became a national park in 1981, and grazing was banned in 1982. Then something unexpected happened. A wetland grass called Paspalum, which the buffaloes used to eat, spread across the shallow water. It made thick mats where open water had been, and birds that feed in open water lost space. Park staff had to cut the grass by hand. Scientists of the same society studied the park for years. Their report in 1991 said that grazing had been keeping the wetland open, and suggested letting some grazing back. The wrong idea was that a wild place is always best protected by keeping its animals out.",
+  "who": "Scientists of the Bombay Natural History Society, including Salim Ali, who first supported the ban, and the team whose long study came out in 1991",
+  "when": "1982 (grazing banned) to 1991 (the study's final report)",
+  "wrong_idea": "People thought the buffaloes only harmed the wetland, so keeping them out would help the birds. Instead, the grass they had been eating spread over the open water, and the long study showed that some grazing had kept the wetland healthy."
+ },
+ "plan": {
+  "start_options": [
+   "intro",
+   "story",
+   "e1",
+   "a1",
+   "g1",
+   "big_questions",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "summary",
+   "terms",
+   "explanations",
+   "e2",
+   "g1",
+   "videos",
+   "ws-core",
+   "e3",
+   "g2",
+   "a4",
+   "agreed",
+   "challenging",
+   "a2",
+   "a3",
+   "p1",
+   "c1",
+   "ws-stretch",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "e2",
+   "e3",
+   "g1",
+   "ws-core",
+   "a4"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/caring-for-the-environment.md: philosophy lines 'actions have consequences', 'stewardship is shared responsibility, small changes matter', and the reading suggestion One Well by Rochelle Strauss",
+   "NIOS Level A Lesson 5, Conservation of Environment (useful animals and their care, conserving the environment and water), from the curriculum mapping"
+  ],
+  "science": [
+   "Grass leaf growth from the basal intercalary meristem: standard plant biology texts, for example Raven, Biology of Plants",
+   "Down to Earth, 'Put to the horn' (on the 1982 grazing ban at Keoladeo and its effects)",
+   "UNESCO World Heritage Centre, State of Conservation reports for Keoladeo National Park (spread of Paspalum distichum after the 1982 ban)",
+   "Current Conservation, 'Cattle and Conservation at Bharatpur' (the 1991 Bombay Natural History Society report recommending grazing)",
+   "Tamil Nadu Municipal Laws (Amendment) Ordinance, 2003, making rainwater harvesting compulsory",
+   "The Prevention of Cruelty to Animals Act, 1960 (India)",
+   "Chennai water crisis of 2019, as reported in Indian newspapers (water trains from Jolarpettai)"
+  ]
+ },
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. Whole wheat sprouts reliably within 2 to 3 days in a warm room and reaches 8 to 12 centimetres in about a week, so the cut comes on day 9. In a cold room the steps say to wait longer. Moong seed leaves sit low, so the cut step says to cut below them, so the stump has no leaves left. The Bare Tub Test needs a separate tub of wheat sown on the same day, because the Cutting Test tub is half moong. The rain bottle needs holes made by a grown-up, and the test is done in the bathroom. The Onion Test uses spring onions from any vegetable shop and shows new green in 2 or 3 days. The Drip Count reuses the water for plants. The Rain Gauge depends on a rainy day, so it is not in the spine, and it gives a city rainfall figure to use instead. Both games work for one child alone. The spine fits about 85 minutes, with the Cutting Test spread over 13 days in short daily visits."
+}
