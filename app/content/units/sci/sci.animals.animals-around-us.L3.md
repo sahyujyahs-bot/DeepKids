@@ -163,7 +163,7 @@ We have been watching the animals around us: when they are busy, where they live
 The crows' nest in the story was made of a neem tree, a family's lost wire and two crows' work. An ant trail is made by hundreds of ants, each adding a little scent. Neither belongs to one maker. One awareness runs through the whole world and shows itself in countless separate lives. A nest or a trail is a small, real picture of that: many lives making one thing together.
 
 - **Isha Upanishad, verse 1:** Everything in this moving world is filled with the one Lord. Enjoy it by letting go, and do not grab what belongs to anyone. (Our building is also the pigeons' cliff and the gecko's hunting ground. The verse asks us to take what we need and leave room for others, which is how we try to share a building with crows and pigeons.)
-- **Acaranga Sutra, Book 1, Lecture 2, Lesson 3 (Jain teaching):** All beings love their lives. They like comfort and dislike pain. They want to live. To every being, its life is dear. (This is why we watch kindly. The crow guarding her chicks wants them to live, just as a parent does.)
+- **Acaranga Sutra, Book 1, Lecture 2, Lesson 3 (Jain teaching):** All beings love their lives. They like comfort and dislike pain. They want to live. To every being, their life is dear. (This is why we watch kindly. The crow guarding her chicks wants them to live, just as a parent does.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988), on interbeing:** Look deeply at a sheet of paper and you can see a cloud, the rain and the tree in it. Nothing exists all by itself. (Look deeply at a crow's nest and you see the neem tree, the city's wires and a family's lost things. A home is made of everything around it.)
 - Science (settled): People and all other animals share one family tree. We are animals, related to the crow and the ant.
 - Science (settled): Many kinds of ants lay scent trails with chemicals called pheromones. Other ants follow them, and a trail fades unless ants keep adding to it.
@@ -191,13 +191,13 @@ The crows' nest in the story was made of a neem tree, a family's lost wire and t
 
 In the last week of May, when Chennai was so hot that even the pavements seemed to sigh, a crow stole the wire from Tara's window.
 
-It was a short piece of copper wire, left over from when Appa fixed the fan. Tara had put it on the sill. The crow landed, tilted their head, and looked at her with one shiny dark eye. Then they picked up the wire and flew straight into the neem tree outside.
+It was a short piece of copper wire, left over from when Amma fixed the fan. Tara had put it on the sill. The crow landed, tilted their head, and looked at her with one shiny dark eye. Then they picked up the wire and flew straight into the neem tree outside.
 
 'Thief!' said Tara. But she went to look. On a fork of the neem, level with her window, sat a lumpy bowl of sticks. Poking out of it were things she knew. A green toothbrush. Two of Amma's hair clips. A loop of white electric wire. And now, her copper.
 
 'Our house is in that nest,' she told Amma. Amma laughed. 'Then the crow owes us rent.'
 
-By the next morning, nobody was laughing. Mrs Iyer from the second floor came up the stairs holding her head. 'That crow hit me,' she said. 'Right here. I was only walking to the gate.' By evening the crow had dived at the milkman, and at Murugan, the watchman. Murugan stood under the tree with a long bamboo pole. 'Mad bird,' he said. 'Tomorrow I will knock that nest down. Then they will go and live somewhere else.'
+By the next morning, nobody was laughing. Mrs Iyer from the second floor came up the stairs holding her head. 'That crow hit me,' she said. 'Right here. I was only walking to the gate.' By evening the crow had dived at the woman who brings the milk, and at Murugan, the watchman. Murugan stood under the tree with a long bamboo pole. 'Mad bird,' he said. 'Tomorrow I will knock that nest down. Then they will go and live somewhere else.'
 
 Tara did not want the nest knocked down. But she could not say why the crows were attacking, because she did not know. 'If you want to argue with Murugan,' said Amma, 'you need more than feelings. You need to know.'
 
@@ -211,7 +211,7 @@ On the fourth day, Tara wrote down the time of every dive. 7:40. 7:52. 8:05. 8:1
 
 'Morning and evening,' Tara said slowly. 'That's when everyone walks to the gate. Milk, school, office, coming home.' The crows never dived at people on the far side of the yard, by the scooters. They never dived at people on the road. Only at people who walked under the nest. 'They're not mad,' she said. 'They're guarding something.'
 
-On the fifth day she stood on a chair with Appa's old binoculars. In the nest, a wide beak opened, pink inside. Then another, and another. Chicks.
+On the fifth day she stood on a chair with Paati's old binoculars. In the nest, a wide beak opened, pink inside. Then another, and another. Chicks.
 
 Tara took her notebook down to Murugan. She showed him the times, and the little crosses she had drawn on a map of the yard. He turned the pages for a long time. 'So if people walk round the other side, by the scooters,' he said, 'the crows will leave them alone?' 'I think so,' said Tara. 'Only until the chicks can fly. A few weeks.'
 
@@ -582,117 +582,115 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 
 ## Worksheets
 ### Animal Neighbours (core) (core, 15 questions)
-1. (mcq) What is a habit?  
-   Options: Something an animal does only once / Something an animal does again and again, often at the same time / The place where an animal lives / The food an animal eats  
-   **Answer:** Something an animal does again and again, often at the same time. *Why:* A habit is a repeated behaviour, like crows calling at first light every day. Picking 'only once' is the opposite. Picking 'place where an animal lives' mixes up habit with habitat or home.
-2. (mcq) Which animal is nocturnal, active at night?  
-   Options: Palm squirrel / Crow / Fruit bat / Butterfly  
-   **Answer:** Fruit bat. *Why:* Fruit bats rest in trees in the day and fly out at dusk to find fruit. Squirrels, crows and butterflies are busy in the day. Picking one of them usually means guessing from animals we see most.
-3. (fill) A home that a bird builds for their eggs and chicks is called a ____.  
-   **Answer:** ['nest']. *Why:* A nest is built to lay eggs and raise young. Most birds leave it once the chicks fly.
-4. (fill) A tunnel that an animal digs in the ground to live in is called a ____.  
-   **Answer:** ['burrow']. *Why:* Rats, porcupines, crabs and many snakes use burrows. Burrows stay cool in the day.
-5. (match) Match each animal to their home.  
-   **Answer:** Honey bee → wax hive; Baya weaver → hanging grass nest; Spider → silk web; Termite → soil mound; Owl → hole in a tree. *Why:* Each animal builds or finds a home that suits them. Bees make wax, weavers weave grass, spiders spin silk, termites pile soil, and owls move into tree holes.
-6. (sort) Sort these animals. Are they busy mostly in the DAY or at NIGHT?  
-   **Answer:** crow → Day; owl → Night; house gecko → Night; myna → Day; moth → Night; honey bee → Day. *Why:* Owls, geckos and moths are nocturnal. Crows, mynas and honey bees are diurnal, busy in daylight.
-7. (truefalse) Most birds sleep in their nests every night of the year.  
-   **Answer:** False. *Why:* False. Most birds use a nest only for eggs and chicks. The rest of the year they sleep perched on branches or at a roost.
-8. (truefalse) Wild animals can live in cities.  
-   **Answer:** True. *Why:* True. Crows, kites, palm squirrels, geckos and even leopards near Mumbai are wild animals that live in or around cities.
-9. (mcq) Why do many animals hide in burrows at noon in India?  
-   Options: It is cooler underground. / They are scared of the dark. / Burrows have more food at noon. / They want to sleep forever.  
-   **Answer:** It is cooler underground.. *Why:* The Sun heats the top of the ground, but a little way down it stays cool. Picking 'scared of the dark' gets it backwards, because burrows are dark. Picking 'more food' is not why. They go there to rest and stay cool.
-10. (mcq) Which of these is a domestic animal?  
-   Options: A crow / A cow / A palm squirrel / A leopard  
-   **Answer:** A cow. *Why:* A cow has been kept and bred by people for thousands of years. A crow, squirrel and leopard are wild, even if they live near us. Picking 'crow' is a common mistake, because crows live so close to us.
-11. (fill) Animals that are most busy at dawn and dusk are called ____.  
-   **Answer:** ['crepuscular']. *Why:* Crepuscular means busy in the dim light of dawn and dusk. Many mosquitoes and deer are crepuscular.
-12. (mcq) Crows dive at people walking under one tree in May. What is the most likely reason?  
-   Options: The crows are mad. / They are guarding a nest with eggs or chicks. / They want to play. / They are lost.  
-   **Answer:** They are guarding a nest with eggs or chicks.. *Why:* In the nesting months, crows guard their nests and dive at anyone who comes close. Picking 'mad' explains nothing. It is what Murugan thought in the story before Tara watched for a week.
-13. (write) Name three animals you have seen near your home. For each one, write one habit.  
-   **Answer:** For example: Crows call loudly at first light. Pigeons sit on the window ledge in the afternoon. Ants walk in a line to the sugar tin in the evening.. *Why:* A good answer names a real animal and something they do again and again, with a time or place if possible.
-14. (write) Why do we watch an animal for a week, not just once?  
-   **Answer:** One watch only shows what the animal did that one time. Watching many times shows what they usually do, so we can find their habits.. *Why:* Habits are patterns. A pattern only appears after many watches.
-15. (draw) Draw one animal home you have seen near your house. Label who lives there and what it is made of.  
-   **Answer:** Any real home, for example a crow's nest of sticks and wire in a tree, a web in a gate, or an anthill by a wall, with labels.. *Why:* Drawing from life makes you look closely at how a home is made.
+1. (mcq) Kavya sees a pigeon on her window ledge at 4 pm today. Can she write 'Sitting on the ledge at 4 pm is this pigeon's habit'?  
+   Options: Yes, because she saw it happen. / Not yet. She needs to see it happen again on many days. / Yes, because all pigeons sit on ledges. / No, because pigeons do not have habits.  
+   **Answer:** Not yet. She needs to see it happen again on many days.. *Why:* A habit is something done again and again. One sighting shows only one afternoon. If Kavya sees the pigeon there at about 4 pm on most days of a week, then she can call it a habit. Picking 'yes, she saw it' mixes up one event with a pattern.
+2. (mcq) A house gecko is hardly ever seen in the day. But every night they wait beside the tube light. Why there, at night?  
+   Options: Moths and other insects fly to the light at night, so the gecko's food comes to them. / Geckos cannot see at all in daylight. / The tube light keeps them warm in winter. / Geckos want to be near people.  
+   **Answer:** Moths and other insects fly to the light at night, so the gecko's food comes to them.. *Why:* Many insects fly to lights at night. A gecko who waits by the light gets dinner without hunting far. Picking 'cannot see in daylight' is not true. Geckos see in the day, but they rest then. Their habit follows their food.
+3. (fill) An animal who is busy at night and rests in the day is called ____.  
+   **Answer:** ['nocturnal']. *Why:* Nocturnal means active at night. Owls, fruit bats, house geckos and many moths are nocturnal.
+4. (truefalse) Most birds sleep in their nests every night of the year.  
+   **Answer:** False. *Why:* False, though many people think so. Most birds use a nest only for a few weeks, for eggs and chicks. The rest of the year they sleep perched on branches, often at a roost with many other birds.
+5. (match) Match each animal to what their home is made of.  
+   **Answer:** Honey bee → wax made in the bee's own body; Baya weaver bird → long strips of grass; Spider → silk made in the spider's own body; Termite → soil mixed with spit; City crow → twigs, wire and bits of plastic. *Why:* Animals build with what they have. Bees and spiders make their building material inside their own bodies. Weavers, termites and crows collect it from around them. That is why a city crow's nest has wire in it.
+6. (sort) Sort these animals. When are they busiest: in the DAY, at NIGHT, or at DAWN AND DUSK?  
+   **Answer:** crow → Day; owl → Night; palm squirrel → Day; fruit bat → Night; chital deer → Dawn and dusk; many mosquitoes → Dawn and dusk; butterfly → Day; house gecko → Night. *Why:* Crows, squirrels and butterflies are diurnal, busy in daylight. Owls, fruit bats and geckos are nocturnal. Chital and many mosquitoes are crepuscular, busiest in the dim light of dawn and dusk.
+7. (mcq) It is noon in May, and the open ground is very hot. Where would a rat stay coolest?  
+   Options: Out on the open ground / On a sunny wall / A hand's length down inside a burrow / On the roof of a parked car  
+   **Answer:** A hand's length down inside a burrow. *Why:* The Sun heats the top of the ground. Soil lets heat through very slowly, so a little way down it stays cool. In the Cool Home Test, the hole was much cooler than the open ground. Picking a sunny wall or a car roof puts the rat where the Sun hits hardest.
+8. (truefalse) A crow who lives in Chennai is a wild animal.  
+   **Answer:** True. *Why:* True. Nobody keeps or feeds city crows as farm animals or pets. They find their own food and build their own nests. A wild animal can live in a city. A cow or a hen is domestic, because people have kept and bred them for thousands of years.
+9. (mcq) Crows dive at people who walk under one tree. They do it only for a few weeks in summer. What is the most likely reason?  
+   Options: The crows have gone mad. / They are guarding a nest with eggs or chicks. / They want to play with people. / They are lost.  
+   **Answer:** They are guarding a nest with eggs or chicks.. *Why:* Crows guard their nest in the nesting months, and dive at anyone who walks close. In the story The Wire Nest, a girl called Tara found this by noting the time and place of every dive. Picking 'mad' explains nothing, and it does not explain why the diving stops when the chicks fly.
+10. (order) Put a house crow's day in order, from morning to night.  
+   **Answer:** order shown. *Why:* Crows wake and call at first light. They feed while it is cool, rest through the hot noon, and gather with hundreds of other crows at a roost in the evening.
+11. (write) Name three animals you have seen near your home. For each one, write one habit and the time of day it happens.  
+   **Answer:** For example: crows call loudly at first light. Pigeons sit on the window ledge in the hot afternoon. Ants walk in a line to the sugar tin in the evening.. *Why:* A strong answer names real animals the child has seen. Each habit is something done again and again, with a time or a place.
+12. (write) Why do we watch an animal on many days, not just once?  
+   **Answer:** One watch shows only what the animal did that one time. Watching on many days shows what they usually do. Then we can find their habits, and one odd day cannot fool us.. *Why:* A strong answer says that a habit is a pattern, and a pattern only shows up after many watches.
+13. (perspective) Two pigeons have started a nest on the air-conditioner box outside Meenakshi's flat.  
+   **Answer:** A strong answer picks one view and gives a reason, for example that eggs left without their parents will die. It also says what another view gets right: droppings really can make people ill, and pigeons really do treat buildings as cliffs.. *Why:* This is a real problem in Indian cities, with no single right answer. A good answer is fair to both the family and the birds.
+14. (draw) Draw one animal home you have seen near your house. Label who lives there and what the home is made of.  
+   **Answer:** Any real home, with labels. For example, a crow's nest of sticks and wire in a tree, a web on a gate, or an anthill by a wall.. *Why:* Drawing from life makes you look closely at how a home is made, and what it is made from.
+15. (mcq) Many people believe snakes come into houses to drink milk. What do snakes really come for?  
+   Options: Milk left out for them / Rats, frogs and other animals to eat, and cool places to hide / To meet people / To sleep on beds  
+   **Answer:** Rats, frogs and other animals to eat, and cool places to hide. *Why:* Snakes hunt. Rats live near our food stores, and frogs live near our water, so snakes follow them. Snakes cannot digest milk well, so milk left out can harm them. This is a popular belief that the evidence does not support.
 ### Habits and Homes (stretch) (stretch, 15 questions)
-1. (mcq) In the Busy Times test, why did we watch on 3 different days?  
-   Options: Because one day might be unusual, for example if it rains. / Because birds only drink every third day. / To get tired of watching. / Because 3 is the biggest number.  
-   **Answer:** Because one day might be unusual, for example if it rains.. *Why:* Repeating on several days means one odd day cannot fool us. Picking 'birds drink every third day' invents a fact. Repeating is about trusting our results.
-2. (mcq) In the Cool Home Test, the open ground was 44 °C and inside the hole was 30 °C. How much cooler was the hole?  
-   Options: 4 degrees / 14 degrees / 74 degrees / 30 degrees  
-   **Answer:** 14 degrees. *Why:* 44 take away 30 is 14. So the hole was 14 degrees cooler. Picking 74 means adding instead of taking away. Picking 30 is just the hole's own temperature.
-3. (mcq) In the Ant Trail Test, why did we first hold a finger just above the trail, without touching it?  
+1. (mcq) Lakshmi did the Busy Times test on just one rainy morning. Only 2 birds came to the bowl. She wrote 'Birds do not drink in the morning.' What is wrong with that?  
+   Options: Nothing. She saw it herself. / One rainy day can be unusual. She should count on more days. / She should have counted at midnight. / 2 birds is too many to count.  
+   **Answer:** One rainy day can be unusual. She should count on more days.. *Why:* On a rainy day there are puddles everywhere, so birds need the bowl less. That is why we count on 3 different days. One odd day cannot then fool us.
+2. (fill) In the Cool Home Test, the open ground was 44 °C. Inside the hole it was 30 °C. So the hole was ____ degrees cooler.  
+   **Answer:** ['14']. *Why:* 44 take away 30 is 14. That is a big difference, about as much as a hot afternoon and a cool night. Adding the numbers, to get 74, would be a mistake.
+3. (mcq) In the Ant Trail Test, why did we first hold a finger just above the trail, without touching the floor?  
    Options: To check that our hand and its shadow were not what stopped the ants / To feed the ants / To make the ants walk faster / To count the ants more easily  
-   **Answer:** To check that our hand and its shadow were not what stopped the ants. *Why:* If the ants stopped only when we rubbed the floor, and not when a hand was above them, then the rubbing is the reason. This try rules out the hand. Picking 'to feed the ants' misses that a fair test changes one thing at a time.
-4. (truefalse) A tiger has no fixed home. They rest anywhere inside their large area.  
-   **Answer:** True. *Why:* True. A tiger roams a large area to find enough prey. They do not build a home.
-5. (truefalse) A koel builds a big nest and raises her own chicks.  
-   **Answer:** False. *Why:* False. A koel lays her egg in a crow's nest, and the crows raise the koel chick.
-6. (mcq) Why do rock pigeons nest on window ledges in cities?  
-   Options: Ledges are like the cliff ledges their wild relatives used. / Pigeons cannot fly high. / People put food on every ledge. / Ledges are warmer than trees in winter only.  
-   **Answer:** Ledges are like the cliff ledges their wild relatives used.. *Why:* Wild rock pigeons nest on cliffs. Tall buildings with ledges look like cliffs to them. Picking 'cannot fly high' is wrong. Pigeons fly very well.
+   **Answer:** To check that our hand and its shadow were not what stopped the ants. *Why:* A fair test changes one thing at a time. If the ants walk on under the hand, then the hand is not the cause. So if they stop after the rubbing, we know the rubbing did it.
+4. (write) Divya wipes a short piece of an ant trail with a wet cloth. What will the ants do in the first minute? What will they do after 5 minutes? Explain why.  
+   **Answer:** In the first minute, ants reaching the wiped piece will stop, turn and wander, because the smell trail is gone. After about 5 minutes, a few ants will have found their way across and laid new smell, so the line will be back.. *Why:* A strong answer predicts both times and says why: ants follow a smell trail that other ants lay, and the trail comes back once ants walk over the gap again.
+5. (truefalse) A koel mother builds a nest and raises her own chicks.  
+   **Answer:** False. *Why:* False. A koel mother lays her egg in a crow's nest. The crows feed the koel chick as their own. So a koel never needs a nest of her own.
+6. (mcq) A new glass tower has no ledges at all. The old building next door has many window ledges. Where will rock pigeons nest, and why?  
+   Options: On the old building, because ledges are like the cliff ledges their wild relatives nest on / On the glass tower, because it is taller / On neither, because pigeons nest only in trees / On the glass tower, because it is shiny  
+   **Answer:** On the old building, because ledges are like the cliff ledges their wild relatives nest on. *Why:* Wild rock pigeons nest on cliff ledges. A building with ledges is a cliff to them. A smooth glass wall gives them nowhere to put a nest. Picking 'only in trees' is wrong. Pigeons hardly ever nest in trees.
 7. (match) Match each animal to why they live near people.  
-   **Answer:** House gecko → insects gather at our lights; Black kite → food scraps in markets; Cattle egret → insects stirred up by cows; Rat → food scraps, and shelter in drains. *Why:* Each animal lives near people because people give them something they need, such as food or shelter.
-8. (order) Put a house crow's day in order, from morning to night.  
-   **Answer:** order shown. *Why:* Crows wake and call at first light, feed in the cooler morning, rest at noon and gather at a roost in the evening.
-9. (fill) A place where many birds or bats rest or sleep together is called a ____.  
-   **Answer:** ['roost']. *Why:* Crows, mynas, parakeets and fruit bats gather in big trees to roost.
-10. (mcq) Which note is a fact, not a guess?  
+   **Answer:** House gecko → insects gather at our lights; Black kite → food scraps in markets; Cattle egret → insects stirred up by cows' feet; Rat → food scraps, and shelter in drains. *Why:* Each animal lives near people because people give them something they need, such as food or shelter. They are not lost. They came for a reason.
+8. (mcq) Which note in an animal diary is a fact anyone could check, not a guess?  
    Options: The squirrel was angry. / At 7:15 the squirrel ran up the wall with a twig in their mouth. / The squirrel loves me. / The squirrel is the cleverest in town.  
-   **Answer:** At 7:15 the squirrel ran up the wall with a twig in their mouth.. *Why:* A fact has a time and something anyone could see. Feelings and 'cleverest' are guesses we cannot check by watching.
-11. (mcq) Termite mounds near Bengaluru were studied in 2015. What helps the air inside them move?  
-   Options: A fan the termites build / The walls warming in the day and cooling at night / Rain only / The termites' own body warmth  
-   **Answer:** The walls warming in the day and cooling at night. *Why:* Scientists found that the mound's outer walls warm up and cool down faster than its middle, as day turns to night. That moves the air. Picking 'body warmth' is the older idea, which the measurements did not support for these mounds.
-12. (truefalse) Snakes come to houses mainly to drink milk.  
-   **Answer:** False. *Why:* False. Snakes come to hunt rats, frogs and other animals. Snakes cannot digest milk well.
-13. (mcq) Bar-headed geese spend the summer in Central Asia and the winter in India. What is this called?  
-   Options: Hibernation / Migration / Nesting / Roosting  
-   **Answer:** Migration. *Why:* Travelling far at the same time each year and coming back is migration. Hibernation is a deep winter sleep, which these geese do not do.
-14. (write) Pick one animal home. Explain how the animal makes it, and what it is for.  
-   **Answer:** A baya weaver bird tears long strips of grass and weaves them into a hanging nest with a long tube for a door. It is for laying eggs and raising chicks safe from snakes.. *Why:* A good answer says how the home is made and what it is used for.
-15. (write) In the story The Wire Nest, how did Tara find out why the crows were diving?  
-   **Answer:** She wrote down the time and the place of every dive for several days. She saw that the dives happened only in the morning and evening, and only under the nest. So the crows were guarding their chicks.. *Why:* Tara found a pattern by watching many times and writing it down.
+   **Answer:** At 7:15 the squirrel ran up the wall with a twig in their mouth.. *Why:* A fact has a time, and something anyone standing there could see. 'Angry' or 'loves me' might be true, but watching once cannot tell us. We would need more evidence first.
+9. (mcq) A tiger has no fixed home and rests anywhere in their large area. But a tigress with small cubs uses a den. What does this show?  
+   Options: Many animals use a home mainly to keep their young safe. / Tigers are lazy. / All animals live in one home all year. / Dens are for storing food.  
+   **Answer:** Many animals use a home mainly to keep their young safe.. *Why:* Small cubs cannot walk far or defend themselves, so the mother keeps them in a hidden den. When the cubs grow, the den is left. Birds' nests work the same way.
+10. (perspective) Farhan's Paati, his grandmother, throws cooked rice to the street crows every morning.  
+   **Answer:** A strong answer picks a side with a reason, and then argues fairly from another side. For example: 'I agree with Selvi, because a bowl of water helps in summer without making birds ill. But Paati is right that some animals go hungry in hard times.'. *Why:* Scientists and kind people really do disagree about feeding wild animals. A good answer weighs what helps the animal, what harms the animal, and what is fair to the neighbours.
+11. (write) Pick one animal home. Explain how the animal makes the home, and what the home is for.  
+   **Answer:** For example: a male baya weaver tears long strips of grass and weaves them into a hanging nest, with a long tube for a door. It is for eggs and chicks, safe from snakes, because the nest hangs from a thin branch over water.. *Why:* A strong answer says how the home is made, what it is used for, and how its shape helps.
+12. (write) In the story The Wire Nest, a girl called Tara stopped the watchman from knocking down a crow's nest. How did writing down the time and place of every dive help her?  
+   **Answer:** She saw that every dive happened in the morning and the evening, and only on the path under the nest. So the crows were guarding chicks, not attacking at random. People could walk round the other side.. *Why:* A strong answer says that the notes showed a pattern. One day of watching would not have shown it.
+13. (mcq) Bar-headed geese fly over the Himalayas to India every winter, and go back north in spring. Why don't they just stay in India all year?  
+   Options: In summer, the lakes of Central Asia have lots of food and space for raising chicks. / India is too cold for them in summer. / They forget the way. / They do not like Indian water.  
+   **Answer:** In summer, the lakes of Central Asia have lots of food and space for raising chicks.. *Why:* Migration is a trade. The northern lakes are rich in summer but freeze in winter. India is warm in winter. So the geese go where food is, each season. Picking 'too cold' gets it backwards.
+14. (sort) Sort these homes. Did the animal build the home, dig the home, or move into a home that was already there?  
+   **Answer:** crow's nest → Build; rat's burrow → Dig; parakeet in an old tree hole → Move in; honey bee hive → Build; rat snake in a rat's old tunnel → Move in; termite mound → Build; crab's hole in the sand → Dig. *Why:* Some animals build, some dig, and some move into homes that others made. A rat snake often hunts a rat and then rests in the rat's own tunnel.
+15. (draw) In some made-up Busy Times results, 14 birds came in the morning, 3 at noon and 11 in the evening. Draw a bar chart. Then write one sentence about what it shows.  
+   **Answer:** Three bars: morning 14, noon 3, evening 11. A sentence such as: 'Most birds came in the cool morning and evening, and very few at noon.'. *Why:* A bar chart shows the pattern at a glance. The tall bars are the cool times of day, when birds are busy.
 ### Thinking Like a Naturalist (challenge) (challenge, 15 questions)
 1. (mcq) A fruit fly is kept in total darkness for a week. What happens to their waking and sleeping?  
    Options: They sleep all the time. / They keep waking and resting on a cycle of about 24 hours. / They never sleep. / They wake at a random time each day.  
-   **Answer:** They keep waking and resting on a cycle of about 24 hours.. *Why:* Their body clock keeps running in the dark, on a cycle of about one day. Picking 'sleeps all the time' assumes darkness means night forever. The clock is inside the fly.
-2. (mcq) Why might city birds sing higher notes than birds in quiet woods?  
-   Options: So their songs can be heard over the low rumble of traffic / Because city air is thinner / Because they are smaller / Because cities have more trees  
-   **Answer:** So their songs can be heard over the low rumble of traffic. *Why:* Traffic noise is mostly low and rumbly. Higher notes stand out above it. Scientists found this in great tits in the Dutch city of Leiden. Picking 'thinner air' invents a reason without evidence.
+   **Answer:** They keep waking and resting on a cycle of about 24 hours.. *Why:* Their body clock keeps running in the dark, on a cycle of about one day. Most people's first guess is that darkness means sleep forever. But the clock is inside the fly. Sunlight only resets the clock each morning.
+2. (write) Great tits are small birds. In the noisy Dutch city of Leiden, they sing higher notes than great tits in quiet woods. Traffic noise is mostly low and rumbly. Why might higher notes help a city bird?  
+   **Answer:** Low notes get lost in the low rumble of traffic. High notes stand out above it. So other birds can still hear the song, and a bird who sings higher is more likely to be heard by a mate.. *Why:* A strong answer links the kind of noise to the kind of song. It may also say that this is still being studied, and some of it may be learned.
 3. (truefalse) Scientists fully understand how migrating birds sense Earth's magnetism.  
-   **Answer:** False. *Why:* False. Birds seem to sense magnetism, but how is still argued about. One idea uses a substance in their eyes and a quantum effect. Nobody has proven it.
-4. (mcq) A friend says house sparrows are vanishing only because of phone towers. What is the best reply?  
-   Options: You are right, it is proven. / There is no strong evidence for that. Fewer nesting holes and fewer insects may matter more. / Sparrows have never lived in cities. / Phone towers make more sparrows.  
-   **Answer:** There is no strong evidence for that. Fewer nesting holes and fewer insects may matter more.. *Why:* Scientists have not found strong evidence that towers harm sparrows. Missing nesting holes in new buildings and fewer insects for chicks are other ideas with more support. A good reply weighs the evidence.
-5. (sort) Sort these homes. Does the animal BUILD it, DIG it, or FIND it ready-made?  
-   **Answer:** crow nest → Build; rat burrow → Dig; parakeet in an old tree hole → Find; honey bee hive → Build; rat snake in a rat's old hole → Find; termite mound → Build. *Why:* Some animals build, some dig, and some move into homes made by others. A rat snake often takes over a burrow a rat dug.
-6. (mcq) Your diary shows a gecko by the tube light every night at 8 pm. When the light is off one night, the gecko is not there. What is the best next step?  
-   Options: Decide geckos hate the dark. / Test it: watch on more nights with the light on and off. / Stop the diary. / Say the gecko has moved away for ever.  
-   **Answer:** Test it: watch on more nights with the light on and off.. *Why:* One night is not enough. A scientist tests the idea again: light on some nights, off others. Picking 'hate the dark' jumps to a conclusion from one night.
-7. (write) Leopards live in Sanjay Gandhi National Park inside Mumbai. Some people want them all taken away. Others want people and leopards to share. Write what you think, and give one reason.  
-   **Answer:** I think people and leopards can share, if people keep lights on at night, do not leave rubbish that attracts dogs, and keep children inside after dark. The leopards were there first, and taking them away might just let new ones come.. *Why:* There is no single right answer. A good answer gives a view and a reason, and thinks about both people and leopards.
-8. (mcq) Why do you think many animals that do well in towns eat many kinds of food?  
-   Options: Because towns offer a mix of foods that change often / Because towns have only one food / Because these animals never get hungry / Because food in towns is always healthy  
-   **Answer:** Because towns offer a mix of foods that change often. *Why:* Towns are full of scraps, insects at lights, fruit trees and grain. An animal that can eat many things can live on whatever is around. Animals that need one special food often cannot.
-9. (mcq) A weaver bird nest has blobs of mud inside. Which statement is honest?  
-   Options: Scientists are sure it is to make the nest heavy. / It is a real puzzle. Scientists have ideas but are not sure why. / The mud is put there by people. / The mud is there by accident only.  
-   **Answer:** It is a real puzzle. Scientists have ideas but are not sure why.. *Why:* The mud is real, but the reason is still argued about. Being honest means saying 'we do not know yet'.
-10. (truefalse) A home can be made from things that came from other living things and from people.  
-   **Answer:** True. *Why:* True. A crow's nest is made from tree twigs, and in cities from wire and plastic that people made. A hornbill's sealed hole uses mud and droppings.
-11. (order) Put the steps of a good animal watch in order.  
-   **Answer:** order shown. *Why:* This is how a naturalist finds a habit: same animal, set times, many days, then patterns, then a claim backed by evidence.
-12. (fill) The scientist who began watching wild chimpanzees in Tanzania in 1960, before she had a university degree, is Jane ____.  
-   **Answer:** ['Goodall']. *Why:* Jane Goodall watched the same chimpanzees for years. That is how she saw them make and use tools.
-13. (mcq) Dung beetles in Africa can roll their balls in a straight line on moonless nights. What do they use?  
-   Options: The light of the Milky Way / Street lights / The smell of the ball / Nothing, it is luck  
-   **Answer:** The light of the Milky Way. *Why:* In 2013 scientists put tiny caps over the beetles' eyes and tested them in a planetarium. The beetles used the glow of the Milky Way to keep straight. Picking 'luck' ignores the evidence from the test.
-14. (write) Is a city a natural place? Give a reason for your answer.  
-   **Answer:** Yes, in a way. Ants and termites build cities too, and we call those natural. People are animals, and many wild animals live in our cities. But a city is also very different from a forest, so some animals cannot live there.. *Why:* This is a big question with no single answer. A good answer gives a reason and thinks about both sides.
-15. (draw) Draw a timeline of one animal's day, from sunrise to night, using what you saw in My Animal Week.  
-   **Answer:** A line from sunrise to night with drawings of what the animal did at each time, for example a crow calling at dawn, feeding in the morning, resting at noon and flying to their roost at sunset.. *Why:* A timeline shows a habit at a glance. It is built from many days of watching.
+   **Answer:** False. *Why:* False. Birds do seem to sense magnetism. But how they do it is still argued about. One idea is a substance in their eyes. Nobody has proved it yet.
+4. (perspective) House sparrows have become rare in some Indian cities. People disagree about why.  
+   **Answer:** A strong answer weighs evidence. Studies have not found strong evidence that towers harm sparrows. Nest boxes in new buildings often bring sparrows back, which supports the nesting idea. Counting insects near busy and empty nests could test the food idea. Both scientists' ideas may be true together.. *Why:* This is still debated. A good answer does not just repeat a popular idea. It asks what evidence there is, and how to get more.
+5. (perspective) Leopards live in Sanjay Gandhi National Park, inside the city of Mumbai. Sometimes they walk past homes at night.  
+   **Answer:** A strong answer gives a view with a reason from evidence, for example that moved leopards often return. It is also fair to the family, who lost an animal and are frightened. It may suggest ways to share, such as closing goat sheds at night.. *Why:* There is no single right answer. Real people in Mumbai live with this. A good answer thinks about both people and leopards.
+6. (mcq) Your diary shows a gecko by the tube light every night at 8 pm. One night the light is off, and the gecko is not there. What is the best next step?  
+   Options: Decide that geckos hate the dark. / Test it: watch on more nights, some with the light on and some with it off. / Stop the diary. / Say the gecko has moved away for ever.  
+   **Answer:** Test it: watch on more nights, some with the light on and some with it off.. *Why:* One night is not enough to be sure. A scientist tests the idea again, with the light on some nights and off others. Picking 'hate the dark' jumps to an answer from one night.
+7. (mcq) In cities with bright streetlights, some birds start singing long before dawn. Which idea best explains this?  
+   Options: The bright light tells their body clock that morning has come. / Birds are scared of the light. / Streetlights keep the birds warm. / The birds are migrating.  
+   **Answer:** The bright light tells their body clock that morning has come.. *Why:* Light resets a body clock each morning. Bright light at night can make a bird's clock think the day has begun. Scientists are still studying how much this harms the birds.
+8. (write) Male baya weaver birds stick blobs of wet mud inside their nests. Some books say the mud makes the nest heavy, so the wind cannot swing the nest. Scientists are not sure. Suggest one other reason, and say how you could check your idea.  
+   **Answer:** For example: the mud might help the nest keep its shape, or keep the eggs from rolling about. To check, you could compare nests with lots of mud and nests with little, and see which ones hold their shape or lose fewer eggs on windy days.. *Why:* A strong answer gives a reason that could be true, and a check that compares nests. It is honest that nobody knows the answer yet.
+9. (order) Put the steps of a good animal watch in order.  
+   **Answer:** order shown. *Why:* This is how a naturalist finds a habit: the same animal, set times, many days, then patterns, then a claim backed by evidence.
+10. (mcq) René Descartes, a French thinker who lived about 400 years ago, said animals build like machines, with no learning at all. Young baya weavers weave messy nests at first, and better ones each time. What does this show?  
+   Options: Building is partly something the bird is born with and partly learned by practice. / Descartes was completely right. / Young birds copy people. / The grass gets better each year.  
+   **Answer:** Building is partly something the bird is born with and partly learned by practice.. *Why:* A young weaver who has never seen a nest can still weave one, so part of the skill is inborn. But the nests improve with practice, so part is learned. Crows also choose wire when twigs are scarce. That is a choice a machine would not make.
+11. (mcq) Dung beetles roll balls of dung. In Africa, they can roll their balls in a straight line even on moonless nights. In a test, scientists showed what helps them. What was it?  
+   Options: The glow of the Milky Way in the night sky / Street lights / The smell of the ball / Nothing, it is luck  
+   **Answer:** The glow of the Milky Way in the night sky. *Why:* In 2013 scientists tested the beetles in a planetarium, a room with a starry sky on the ceiling. With the Milky Way showing, the beetles rolled straight. With little caps over their eyes, they wandered. Picking 'luck' ignores what the test showed.
+12. (write) Is a city a natural place? Give a reason for your answer.  
+   **Answer:** Yes, in a way. Ants and termites build cities too, and we call those natural. People are animals, and many wild animals live in our cities. But a city is also very different from a forest, so some animals cannot live there.. *Why:* This is a big question with no single answer. A strong answer gives a reason and thinks about both sides.
+13. (write) For years, books said termite mounds stay fresh because the termites' body warmth pushes air up, like smoke up a chimney. In 2015, scientists measured the air inside real mounds near Bengaluru. What did they find? Why is measuring better than only reasoning?  
+   **Answer:** They found that the mound's thin outer walls warm up in the day and cool at night faster than the middle. That moves the air one way by day and the other way by night. Reasoning gave a neat story, but only measuring showed what really happens.. *Why:* A strong answer says what was found, and that an idea can sound right and still be wrong until someone checks.
+14. (draw) Draw a timeline of one animal's day, from sunrise to night. Use what you saw in My Animal Week.  
+   **Answer:** A line from sunrise to night, with drawings of what the animal did at each time. For example, a crow calling at dawn, feeding in the morning, resting at noon and flying to the roost at sunset.. *Why:* A timeline shows a habit at a glance. It is built from many days of watching.
+15. (mcq) Before 1960, most scientists said that only humans make tools. Then Jane Goodall, a young English woman, watched wild chimpanzees in Tanzania. After months, she saw one strip a twig and use it to fish termites out of a mound. Why did it take months?  
+   Options: Rare behaviours only show up after a long time of patient watching. / Chimpanzees only use tools in one month of the year. / She did not know what a tool was. / The termites were hiding.  
+   **Answer:** Rare behaviours only show up after a long time of patient watching.. *Why:* A quick look shows only one moment. The chimpanzees also had to get used to her before they behaved normally nearby. Long, quiet watching is how she found something nobody had seen.
 
 ## Videos
 - **Baya weaver bird documentary film** (Chandu's Learning, 4 min) id `XRB4GQCEOlE`: Seeing a weaver tear grass strips and weave them knot by knot makes the 'Kinds of animal homes' card real. *Check:* Found by YouTube search. Title checked automatically. Not watched: a parent should preview it.
@@ -700,9 +698,9 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 - **Termite mounds in Namibia inspire energy-efficient buildings** (Harvard University, 4 min) id `ngSLWpckhks`: Shows how scientists measure the air moving through termite mounds, and how builders learn from them. This film is about mounds in Namibia. The 2015 study of mounds near Bengaluru came from the same Harvard group. *Check:* Found by YouTube search. Title checked automatically. Not watched: a parent should preview it.
 
 ## Quiz
-1. (mcq) What is a habit?  
-   Options: Something an animal does again and again / The home an animal builds / A kind of animal food / A very rare behaviour  
-   **Answer:** Something an animal does again and again. *Why:* A habit is a repeated behaviour, often at the same time or in the same place. Picking 'home' mixes up habit and habitat.
+1. (mcq) Which of these is a habit?  
+   Options: A crow calling at first light every morning / A crow who once landed on a scooter / A crow's black feathers / A crow's nest  
+   **Answer:** A crow calling at first light every morning. *Why:* A habit is something done again and again, often at the same time. Landing once is one event. Feathers and nests are things the crow has, not things they do again and again.
 2. (mcq) Which animal is diurnal, busy in the day?  
    Options: Owl / Fruit bat / Palm squirrel / Moth  
    **Answer:** Palm squirrel. *Why:* Palm squirrels are busy all day and sleep at night. Owls, fruit bats and moths are mostly nocturnal.
@@ -711,37 +709,37 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
    **Answer:** It is the hottest time, so they rest in the shade.. *Why:* Noon is the hottest part of the day. Resting in the shade or in a burrow saves water and energy. Picking 'cannot see' is not true for most animals.
 4. (mcq) What is a crow's nest mainly for?  
    Options: Sleeping in every night of the year / Laying eggs and raising chicks / Storing food / Hiding from rain only  
-   **Answer:** Laying eggs and raising chicks. *Why:* Crows build nests to lay eggs and raise chicks. The rest of the year they sleep on branches at a roost. Thinking birds live in nests all year is a common mistake.
+   **Answer:** Laying eggs and raising chicks. *Why:* Crows build nests to lay eggs and raise chicks. The rest of the year they sleep on branches at a roost.
 5. (mcq) Which home is woven from strips of grass?  
    Options: A honey bee hive / A baya weaver's nest / A rat's burrow / A termite mound  
    **Answer:** A baya weaver's nest. *Why:* The baya weaver tears long strips of grass and weaves a hanging nest. Bees build with wax, rats dig, and termites build with soil.
-6. (mcq) Which animal lives in Sanjay Gandhi National Park, inside the city of Mumbai?  
-   Options: Snow leopard / Leopard / Polar bear / Kangaroo  
-   **Answer:** Leopard. *Why:* Leopards live in this park and sometimes walk past homes at night. Snow leopards live high in the Himalayas. Polar bears and kangaroos do not live in India in the wild.
+6. (mcq) Leopards live in a big park inside Mumbai. What do they most often hunt near people's homes at night?  
+   Options: Stray dogs / Elephants / Fish / Nothing at all  
+   **Answer:** Stray dogs. *Why:* Rubbish feeds stray dogs, and dogs draw leopards. So clearing rubbish is one way to keep leopards away from homes. Wild animals near people usually come for food.
 7. (mcq) Why do black kites circle over Delhi's markets?  
    Options: They are lost. / They find food scraps there. / They like the noise. / They are migrating to the sea.  
    **Answer:** They find food scraps there.. *Why:* Markets have meat and food scraps. Kites have learned that markets mean food. Picking 'lost' assumes wild animals do not belong in cities.
-8. (mcq) You want to find out when your pigeons are busiest. What should you do?  
+8. (mcq) Which animal would find it easiest to live in a busy town?  
+   Options: One who eats many kinds of food and is not too shy / One who eats only one kind of leaf / One who needs a quiet forest / One who hides from every noise  
+   **Answer:** One who eats many kinds of food and is not too shy. *Why:* Towns are full of scraps, insects at lights, fruit trees and grain. An animal who can eat many things can live on whatever is around. Crows, rats and mynas are like this.
+9. (mcq) You want to find out when your pigeons are busiest. What should you do?  
    Options: Look once, for one minute. / Watch at set times for a week and write down what they do. / Ask a friend to guess. / Read a book only.  
    **Answer:** Watch at set times for a week and write down what they do.. *Why:* Habits show up only when you watch many times and write things down. One look shows just one moment.
-9. (mcq) In the Busy Times test, what was the one thing we changed?  
+10. (mcq) Meenakshi watched a squirrel for 10 minutes at 7 am every day for a week. On 6 of the 7 days, the squirrel ate from the guava tree. What is the best claim?  
+   Options: The squirrel often eats guavas in the early morning. / The squirrel eats nothing but guavas. / The squirrel will surely eat guavas tomorrow. / Squirrels hate every other food.  
+   **Answer:** The squirrel often eats guavas in the early morning.. *Why:* Her notes show a pattern at one time of day. They do not show what the squirrel eats at other times. A good claim says only what the evidence shows.
+11. (mcq) In the Busy Times test, what was the one thing we changed?  
    Options: The bowl / The place / The time of day / How long we watched  
    **Answer:** The time of day. *Why:* In a fair test we change only one thing. Here it was the time of day. Everything else stayed the same.
-10. (mcq) In the Ant Trail Test, the ants walked on under a hand held above the trail. But they stopped and wandered where the floor was rubbed. What is the best claim?  
+12. (mcq) In the Ant Trail Test, the ants walked on under a hand held above the trail. But they stopped and wandered where the floor was rubbed. What is the best claim?  
    Options: Ants follow something on the floor, and rubbing removed it. / Ants are scared of hands. / Ants can only walk in straight lines. / Ants stop wherever a person has been.  
-   **Answer:** Ants follow something on the floor, and rubbing removed it.. *Why:* The hand above the trail changed little, so the hand was not the cause. Rubbing took away the smell trail, a chemical called a pheromone, that the ants were following. Picking 'scared of hands' does not fit what we saw, because the ants walked on under the hand.
-11. (mcq) You find a nest with eggs in a bush. What should you do?  
+   **Answer:** Ants follow something on the floor, and rubbing removed it.. *Why:* The hand above the trail changed little, so the hand was not the cause. Rubbing took away the smell trail, a chemical called a pheromone, that the ants were following.
+13. (mcq) You find a nest with eggs in a bush. What should you do?  
    Options: Pick up an egg to look closely. / Watch from a distance and leave it alone. / Take the nest home to keep it safe. / Shake the bush to see the bird.  
    **Answer:** Watch from a distance and leave it alone.. *Why:* Touching or moving a nest can make the parents leave the eggs. We watch kindly, from far away.
-12. (mcq) How do migrating birds sense Earth's magnetism?  
-   Options: Scientists know exactly, it is fully proven. / Scientists have ideas, such as a substance in their eyes, but it is not fully proven. / Birds cannot sense magnetism at all. / They read maps.  
-   **Answer:** Scientists have ideas, such as a substance in their eyes, but it is not fully proven.. *Why:* Birds do seem to sense magnetism, but how is still an open question. Being honest about what we do not know is part of science.
-13. (mcq) Why do rock pigeons nest on ledges of tall buildings?  
-   Options: Ledges are like the cliffs their wild relatives used. / They are afraid of trees. / People build ledges for them. / Pigeons cannot build at all.  
-   **Answer:** Ledges are like the cliffs their wild relatives used.. *Why:* Wild rock pigeons nest on cliff ledges. To a pigeon, a building is a cliff. Picking 'cannot build' is wrong. Pigeons build simple twig nests.
-14. (mcq) Which of these is a fact from an animal diary, not a guess?  
-   Options: The dog was lonely. / At 2 pm the dog slept in the shade of the gate. / The dog wants to be my friend. / The dog is the oldest in the street.  
-   **Answer:** At 2 pm the dog slept in the shade of the gate.. *Why:* A fact has something anyone could see, with a time. Feelings and ages are guesses unless we have more evidence.
+14. (mcq) Which of these do scientists still not know for sure?  
+   Options: Whether animals have body clocks / How migrating birds find their way over thousands of kilometres / Whether crows build nests / Whether bats fly at night  
+   **Answer:** How migrating birds find their way over thousands of kilometres. *Why:* Birds may use the Sun, the stars, smells and Earth's magnetism. How they put these together is still being worked out. The other three are well known.
 
 ## Applications
 - Bird counts like the Great Backyard Bird Count use families' watching to track India's birds.

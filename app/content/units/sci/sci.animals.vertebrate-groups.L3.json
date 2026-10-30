@@ -480,13 +480,13 @@
    "But this time something was wrong. The chick did not get stronger. They shook harder. The sun on the stone was weak and low now, and it was sliding away up the wall, the opposite way from the morning. In a few minutes the stone would be in shadow. And then the long, freezing night would come.",
    "\"Dadi!\"",
    "Dadi came out with a lantern, though it was not dark yet. She looked at the chick. She looked at the sun going away. Then she looked at Noor.",
-   "\"The girgit can wait all night in the cold,\" she said. \"They go slow and still, and the cold does not harm it. But this little one is different. They have a fire inside. A tiny one. It must keep burning all night, or it goes out.\"",
+   "\"The girgit can wait all night in the cold,\" she said. \"They go slow and still, and the cold does not harm them. But this little one is different. They have a fire inside. A tiny one. It must keep burning all night, or it goes out.\"",
    "\"Then they need more sun!\"",
    "\"Look, the sun is leaving. What else keeps a fire from going out?\"",
    "Noor looked at the lantern. The flame was inside a glass, safe from the wind. She looked at her own shawl. She thought of how warm she stayed under her quilt at night, even when the room was icy. The quilt did not make any heat. It just held hers in.",
    "She knelt and scooped the chick up into her two cupped hands. They were so light it felt like holding a leaf. She held them against her chest and pulled her woollen shawl over her hands. She could feel the chick's heart going very fast, like rain on a tin roof. Slowly, slowly, the shaking stopped.",
    "\"Your hands are warm,\" said Dadi softly. \"Your hands are a fire too.\"",
-   "They waited for Noor's father to come home. He climbed the ladder with the chick in a soft cloth and slid them back into the nest. At once there was a flutter. The mother sparrow had been on the roof all along, chirping angrily. Now she dived into the gap. Noor saw her spread her feathers wide and settle down over her babies, round and puffed up, like a warm brown cushion.",
+   "They waited for Noor's mother to come home. She climbed the ladder with the chick in a soft cloth and slid them back into the nest. At once there was a flutter. The mother sparrow had been on the roof all along, chirping angrily. Now she dived into the gap. Noor saw her spread her feathers wide and settle down over her babies, round and puffed up, like a warm brown cushion.",
    "That night Noor lay under her quilt and thought about the two kinds of warm. The lizard, cold all night, waiting for the sun to come back. The chick, burning their own tiny fire, safe under their mother's feathers.",
    "\"Dadi,\" she whispered across the dark room. \"Where does the sparrow's fire come from?\"",
    "\"From the grain she eats,\" said Dadi sleepily.",
@@ -2113,15 +2113,15 @@
    "items": [
     {
      "t": "mcq",
-     "p": "What do all vertebrates have?",
+     "p": "A snake, a fish, a sparrow, a frog and a cow look very different. What do all five have?",
      "opts": [
       "Fur",
       "A backbone",
-      "Wings",
+      "Legs",
       "Gills"
      ],
      "a": 1,
-     "why": "Vertebrates are animals with a backbone. Picking fur describes only mammals. Picking gills describes only fish and tadpoles.",
+     "why": "All five are vertebrates, animals with a backbone. Many people guess 'legs', but snakes and fish have none. Fur belongs only to mammals, and gills only to fish and tadpoles.",
      "art": "Five animal outlines with a glowing backbone in each."
     },
     {
@@ -2181,14 +2181,15 @@
     },
     {
      "t": "mcq",
-     "p": "How does a fish breathe?",
+     "p": "Watch a fish in a tank. The flaps just behind their eyes open and close all the time. What are the flaps doing?",
      "opts": [
-      "With lungs",
-      "With gills, which take oxygen out of water",
-      "They do not need to breathe"
+      "Pumping water over the gills, which take oxygen out of the water",
+      "Chewing food",
+      "Listening for danger",
+      "Drinking water to stay wet"
      ],
-     "a": 1,
-     "why": "Fish breathe with gills. Water flows over the red frills, and blood in them picks up oxygen. Picking 'does not need to breathe' is a common idea, because we cannot see fish taking breaths. But the moving flaps behind their eyes show them pumping water."
+     "a": 0,
+     "why": "Fish breathe with gills. The fish gulps water in at the mouth, and the water flows over the red gills and out under the flaps. Blood in the gills picks up oxygen from the water. Many people think fish do not breathe at all, because they never take a breath of air."
     },
     {
      "t": "fill",
@@ -2262,12 +2263,26 @@
      "how": "e3"
     },
     {
-     "t": "fill",
-     "p": "Birds and most reptiles lay eggs with a ____, so the eggs can be laid on land.",
-     "a": [
-      "shell"
+     "t": "perspective",
+     "p": "In the Thar desert, food is hard to find, the days are very hot and the winter nights are freezing. Two friends argue about which kind of animal has the better life there.",
+     "views": [
+      {
+       "who": "Meera",
+       "says": "The garden lizard has it better. They take their heat from the sun, so they need only a few insects a week."
+      },
+      {
+       "who": "Farida",
+       "says": "The desert gerbil, a kind of mouse, has it better. They make their own heat, so they can hunt at night, when it is cool and a lizard is too cold to move."
+      },
+      {
+       "who": "Valli Miss, their science teacher",
+       "says": "Both live in the desert, so both ways must work. Look at what each animal gains and what they give up."
+      }
      ],
-     "why": "The shell keeps water in but lets air through tiny holes. So the egg does not dry out on land."
+     "ask": "Who do you agree with? Give one reason. Then say one thing the other side has right.",
+     "lines": 4,
+     "a": "A strong answer picks a side with a reason, such as 'making your own heat burns lots of food, and desert food is scarce.' It also gives the other side fairly: the gerbil can stay busy on a cold night, when the lizard cannot.",
+     "why": "Each way of keeping warm has a cost and a gain. Neither is simply better. A good answer weighs both."
     },
     {
      "t": "mcq",
@@ -2346,14 +2361,15 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A Ganges river dolphin lives in water. How do they breathe?",
+     "p": "A mudskipper is a fish who hops about on the mud of the Sundarbans at low tide. They have gills, not lungs. How can they breathe out of water?",
      "opts": [
-      "With gills, like a fish",
-      "They come up and breathe air with lungs",
-      "Through their skin"
+      "They keep water in their gill chambers, and take in some oxygen through their wet skin.",
+      "They grow lungs each morning.",
+      "They hold their breath for a whole day.",
+      "They do not need oxygen on land."
      ],
-     "a": 1,
-     "why": "Dolphins are mammals. They breathe air with lungs, so they must come up every minute or two. Picking gills means sorting by where an animal lives, not by their body."
+     "a": 0,
+     "why": "Gills only work when they are wet. The mudskipper carries a mouthful of water in their gill chambers and keeps their skin damp, rolling in puddles. If they dry out, they cannot breathe. So they never go far from wet mud."
     },
     {
      "t": "mcq",
@@ -2370,7 +2386,7 @@
      "t": "truefalse",
      "p": "A tadpole breathes with gills, but a grown frog breathes with lungs and skin.",
      "a": true,
-     "why": "True. As a tadpole changes into a frog, they lose their gills and grows lungs."
+     "why": "True. As a tadpole changes into a frog, they lose their gills and grow lungs. That is why a frog can live on land but must keep their skin damp."
     },
     {
      "t": "mcq",
@@ -2384,15 +2400,13 @@
      "why": "The mouse makes their own heat, which burns many times more food. The snake takes their heat from outside, so they can wait weeks between meals."
     },
     {
-     "t": "mcq",
-     "p": "Look at the lizard on a wall chart. How many degrees more did the sunny tumbler warm than the shady one?",
-     "opts": [
-      "2 degrees",
-      "4 degrees",
-      "6 degrees"
+     "t": "fill",
+     "p": "In the Lizard on a Wall test, the sunny tumbler warmed 6 degrees and the shady tumbler warmed 2 degrees. So the sunny one warmed ____ degrees more.",
+     "a": [
+      "4",
+      "four"
      ],
-     "a": 1,
-     "why": "The sunny tumbler warmed 6 degrees and the shady one warmed 2. 6 take away 2 is 4. Picking 6 means reading only one bar.",
+     "why": "6 take away 2 is 4. A lizard on a sunny wall warms up the same way, because they cannot make their own heat. Reading only the tall bar, and saying 6, is a common slip.",
      "how": "e2",
      "chart": {
       "type": "bar",
@@ -2544,10 +2558,26 @@
      "why": "True. Most scientists think birds and mammals came from different groups of ancestors and each became warm on its own. This is still being studied."
     },
     {
-     "t": "truefalse",
-     "p": "Scientists all agree that dinosaurs were warm like birds.",
-     "a": false,
-     "why": "False. Scientists still argue. Some think many dinosaurs were warm, some think they were in between, and some think big ones stayed warm just by being big."
+     "t": "perspective",
+     "p": "Birds came from dinosaurs. Scientists still argue about how warm the dinosaurs were.",
+     "views": [
+      {
+       "who": "Scientists who study feathered dinosaurs",
+       "says": "Some dinosaurs had feathers and grew fast, like birds. So they made their own heat."
+      },
+      {
+       "who": "John Grady and his team, 2014",
+       "says": "The growth rings in dinosaur bones show they were in between. They made some heat, but less than birds or mammals."
+      },
+      {
+       "who": "Scientists who study very large animals",
+       "says": "Giant dinosaurs stayed warm just by being huge, like a big pot of water that cools slowly. They did not need to make much heat."
+      }
+     ],
+     "ask": "Which idea do you find most convincing? Give your reason. Then say what new evidence would change your mind.",
+     "lines": 5,
+     "a": "A strong answer uses a piece of evidence, such as feathers, fast-growing bones, or the Big Body, Small Body test where the big bottle cooled more slowly. It says what could change the answer, such as measuring growth rings in many more dinosaur bones. It may say different dinosaurs could have been different.",
+     "why": "This is a real, open argument. A good answer uses evidence and stays ready to change their mind."
     },
     {
      "t": "mcq",
@@ -2596,10 +2626,11 @@
     },
     {
      "t": "write",
-     "p": "Is it better to make your own heat or to take it from outside? Give one good thing about each.",
+     "p": "Kavya says: 'My sweater makes heat. That is why I feel warm when I put it on.' What is wrong with her idea? How could the Fur Coat Test show it?",
      "lines": 4,
-     "a": "Making your own heat lets you stay active at night and in the cold. Taking heat from outside saves lots of food. So each is better in some places and some ways.",
-     "why": "A balanced answer gives one real advantage for each, such as active in the cold, or needing less food."
+     "a": "The sweater makes no heat. It traps still air, which holds in the heat that Kavya's body makes. In the Fur Coat Test, the wrapped bottle still cooled, only more slowly. A sweater on a chair, or wrapped round a bottle of cold water, never gets warm.",
+     "why": "A strong answer says the heat comes from the body, and the wool only slows it leaving. It uses the test as evidence.",
+     "how": "e1"
     },
     {
      "t": "write",
@@ -2617,22 +2648,34 @@
      "how": "e1"
     },
     {
-     "t": "write",
-     "p": "Birds came from dinosaurs, and they are closer cousins of crocodiles than lizards are. Should birds be called reptiles? Give your view.",
-     "lines": 4,
-     "a": "Any thoughtful view. For example: yes, because their family tree says so. Or no, because feathers and making their own heat make them very different.",
-     "why": "There is no single right answer. Scientists who sort by family trees often say yes. Others keep birds as their own group because it is useful."
+     "t": "perspective",
+     "p": "Birds came from dinosaurs, and crocodiles are their closest living cousins. Should birds be called reptiles?",
+     "views": [
+      {
+       "who": "Scientists who sort animals by their family tree",
+       "says": "Yes. A group should hold an ancestor and all of their children. Birds come from the same family as crocodiles and lizards, so birds are reptiles."
+      },
+      {
+       "who": "Scientists who sort animals by their bodies",
+       "says": "No. Birds have feathers, make their own heat and breathe air one way through their lungs. They are so different that they need a group of their own."
+      }
+     ],
+     "ask": "Which way of sorting do you prefer? Give your reason. Then say why the other way is useful too.",
+     "lines": 5,
+     "a": "A strong answer picks a way and gives a reason, then says fairly what the other way does well. For example: the family tree way shows who is related, but the body way helps us talk about birds' feathers and warmth.",
+     "why": "Both are used by real scientists today. The five groups are a tool that people made, not a fact of nature. A good answer sees what each way of sorting is for."
     },
     {
      "t": "mcq",
-     "p": "Purnima Devi Barman, a scientist from Assam, protects greater adjutant storks. What did she do?",
+     "p": "In 1774, Charles Blagden and George Fordyce sat in a room heated far above the boiling point of water. Eggs left in the room cooked hard. But the two men came out well, dripping with sweat. What does this show?",
      "opts": [
-      "Built a zoo for them",
-      "Worked with village women, the Hargila Army, to protect their nesting trees",
-      "Moved them all to another country"
+      "A body that makes its own heat also works to stay cool, for example by sweating.",
+      "The room thermometer was broken.",
+      "People cannot get hot at all.",
+      "Eggs cook more easily than people because eggs are smaller."
      ],
-     "a": 1,
-     "why": "She brought together thousands of village women to protect the trees where the storks nest. The storks' numbers in Assam grew. She won the UN's Champions of the Earth award in 2022."
+     "a": 0,
+     "why": "Before this, many people thought a body heats up like a stone in the sun. But a living body keeps its own warmth steady. Sweat drying on the skin carries heat away. A stone, or an egg, cannot do that."
     },
     {
      "t": "draw",
@@ -2683,38 +2726,38 @@
   },
   {
    "t": "mcq",
-   "p": "How does a rohu fish get oxygen?",
+   "p": "A Ganges river dolphin lives in water all their life. How do they breathe?",
    "opts": [
-    "From air, with lungs",
-    "From water, with gills",
-    "From the food they eat"
+    "With gills, like a fish",
+    "They come up and breathe air with lungs",
+    "Through their skin"
    ],
    "a": 1,
-   "why": "Fish take oxygen out of water with their gills. Picking lungs means thinking all animals breathe air.",
+   "why": "Dolphins are mammals. They breathe air with lungs, so they must come up every minute or two. Picking gills means sorting by where an animal lives, not by their body.",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "A frog breathes with their lungs and their...",
+   "p": "Which animal breathes only with gills, all their life?",
    "opts": [
-    "scales",
-    "damp skin",
-    "fins"
+    "A rohu fish",
+    "A frog",
+    "A dolphin"
    ],
-   "a": 1,
-   "why": "Frogs breathe partly through thin, damp skin. Frogs have no scales or fins.",
+   "a": 0,
+   "why": "A rohu has gills from egg to old age. A frog has gills only as a tadpole, then lungs and damp skin. A dolphin has lungs.",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "Which animal makes their own body heat?",
+   "p": "It is a cold winter morning, before the sun is up. Which animal will be quick and busy?",
    "opts": [
-    "Cobra",
-    "Sparrow",
-    "Frog"
+    "A house sparrow",
+    "A garden lizard",
+    "Both, the same"
    ],
-   "a": 1,
-   "why": "Birds and mammals make their own heat. The cobra and frog take their heat from outside.",
+   "a": 0,
+   "why": "The sparrow makes their own heat from food, so they are warm even on a cold morning. The lizard takes heat from outside, so they stay cold and slow until the sun warms them.",
    "outcome": 2
   },
   {
@@ -2731,38 +2774,38 @@
   },
   {
    "t": "mcq",
-   "p": "A pigeon puffs up their feathers on a cold morning. Why?",
+   "p": "On a hot day, a dog lies in the shade with their tongue out, panting. How does panting cool the dog?",
    "opts": [
-    "To look bigger to other pigeons",
-    "To trap more air and keep their heat in",
-    "Because they are sick"
+    "Water drying off the tongue and mouth carries heat away",
+    "The dog swallows cold air",
+    "It makes the dog lighter"
    ],
-   "a": 1,
-   "why": "Fluffed feathers trap a thicker layer of still air. Still air keeps body heat in. Picking 'to look bigger' is sometimes true for display, but in the cold it is about warmth.",
+   "a": 0,
+   "why": "When water dries, it takes heat with it. Dogs cannot sweat much through their fur, so they dry water from their tongue instead. Sweat does the same for people.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "How does a buffalo keep cool on a hot day?",
+   "p": "A yak lives high up in Ladakh, where the winter is freezing. What keeps the yak warm?",
    "opts": [
-    "They pant like a dog",
-    "They lie in mud or water",
-    "They grow thick fur"
+    "Thick, shaggy fur that traps still air, and a layer of fat",
+    "Drinking warm water",
+    "Standing still all winter"
    ],
-   "a": 1,
-   "why": "Buffaloes cannot sweat much, so they wallow. The water and drying mud carry heat away.",
+   "a": 0,
+   "why": "The yak makes their own heat from food. The fur holds a layer of still air next to the skin, and fat under the skin slows heat leaving too.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "Which group lays jelly eggs with no shell, usually in water?",
+   "p": "A hen's egg can lie on dry straw for three weeks without drying out. What stops it drying out?",
    "opts": [
-    "Birds",
-    "Reptiles",
-    "Amphibians"
+    "The shell keeps the water in, but tiny holes let air through",
+    "The hen sprinkles water on it",
+    "The yolk soaks up the air"
    ],
-   "a": 2,
-   "why": "Frogs and toads lay jelly eggs in water. Birds and reptiles lay shelled eggs on land.",
+   "a": 0,
+   "why": "A shelled egg can be laid on land. A frog's jelly egg has no shell, so in dry air it dries out. That is why frogs lay their eggs in water.",
    "outcome": 4
   },
   {
@@ -2779,50 +2822,27 @@
   },
   {
    "t": "mcq",
-   "p": "In the fur coat test, the bare bottle cooled 6 degrees and the dry sock bottle cooled 4. What does this show?",
+   "p": "In the Fur Coat Test, why did all the bottles start with water at the same warmth?",
    "opts": [
-    "The sock made heat",
-    "The sock slowed the heat escaping",
-    "The thermometer was broken"
+    "So that the only difference between them was the coat",
+    "So the water would boil",
+    "To use less water"
    ],
-   "a": 1,
-   "why": "Wool makes no heat. It traps still air, which slows heat leaving the bottle, as fur does for an animal.",
+   "a": 0,
+   "why": "In a fair test, you change only one thing. If one bottle started hotter, we could not tell whether the coat or the starting heat made the difference.",
    "outcome": 5,
-   "how": "e1",
-   "chart": {
-    "type": "bar",
-    "title": "Made-up results from the fur coat test: degrees each bottle cooled in 20 minutes",
-    "x": "Bottle",
-    "y": "Degrees cooled (°C)",
-    "data": [
-     {
-      "label": "Bare",
-      "value": 6,
-      "emoji": "🍶"
-     },
-     {
-      "label": "Dry sock",
-      "value": 4,
-      "emoji": "🧦"
-     },
-     {
-      "label": "Wet sock",
-      "value": 9,
-      "emoji": "💧"
-     }
-    ]
-   }
+   "how": "e1"
   },
   {
    "t": "mcq",
    "p": "What do scientists still argue about?",
    "opts": [
     "Whether fish have gills",
-    "Whether dinosaurs made their own body heat",
+    "When animals first began to make their own heat",
     "Whether birds lay eggs"
    ],
    "a": 1,
-   "why": "We know fish have gills and all birds lay eggs. But scientists still argue about how warm dinosaurs were.",
+   "why": "We know fish have gills and that all birds lay eggs. But nobody is sure when, or why, warm bodies began, or how warm the dinosaurs were.",
    "outcome": 6
   }
  ],

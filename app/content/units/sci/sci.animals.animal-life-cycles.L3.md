@@ -32,7 +32,7 @@
 - **Caterpillar**: The larva of a butterfly or a moth. Their main job is to eat and grow. *e.g.* Lime butterfly caterpillars eat curry leaves and lemon leaves.
 - **Moult**: To shed an old skin that has grown too tight, after growing a new, bigger one underneath. *e.g.* A caterpillar moults four or five times. A snake also moults.
 - **Pupa**: The resting stage of an insect, between larva and adult. Inside, the body is rebuilt. Two or more are called pupae. *e.g.* A butterfly's pupa is called a chrysalis.
-- **Chrysalis**: The hard case of a butterfly pupa. It is the pupa's own skin, not something they build. *e.g.* A lime butterfly chrysalis can be green or brown, like the twig it hangs on.
+- **Chrysalis**: The hard case of a butterfly pupa. It is the pupa's own skin, not something they build. *e.g.* A lime butterfly chrysalis can be green or brown, like the twig they hang on.
 - **Cocoon**: A case of silk that a moth caterpillar spins around themself before they become a pupa. *e.g.* A silkworm spins a cocoon. Silk saris are made from cocoon threads.
 - **Yolk**: The yellow part of an egg. It is food for the growing chick. *e.g.* When you crack an egg, the round yellow ball is the yolk.
 - **Embryo**: A living thing in their very first stage, while they are still growing inside an egg or inside their mother. *e.g.* A chick embryo grows inside the egg for 21 days.
@@ -189,7 +189,7 @@ A chick, a frog and a butterfly each build a new body out of material that is al
 ## Deep and big questions
 - *deep:* Where does a tadpole's tail go? (hint: It does not fall off. Look again at the card on metamorphosis. What does the body use the tail for?)
 - *deep:* Is the butterfly the same animal as the caterpillar they were? (hint: Think about their genes, their body and their memories. Which ones change, and which stay?)
-- *deep:* How does a waiting cell inside a caterpillar know it should become a wing and not a leg? (hint: Every cell has the same instructions inside. Maybe each one is told which part of the instructions to use.)
+- *deep:* How does a waiting cell inside a caterpillar know to become a wing and not a leg? (hint: Every cell has the same instructions inside. Maybe each one is told which part of the instructions to use.)
 - *deep:* Which came first, the chicken or the egg? (hint: Fish and reptiles were laying eggs hundreds of millions of years before there were any chickens.)
 - *deep:* Why does a chick need 21 days in an egg, but a lime butterfly egg hatches in a few days? (hint: Compare how big the egg is, how much food it holds, and how much has to be built inside.)
 - *big:* You were once a single cell, smaller than a full stop. Are you the same person you were as a baby? (hint: Your body and your face have changed. What has stayed the same?)
@@ -611,7 +611,7 @@ She thought that she should write to Farida about it. She thought that when she 
   *Child mode:* Draw the chrysalis. Don't touch it. Inside, wings are being built.
   - Wait: For about 8 to 12 days
 - **s6 (20 min) · grown-up needed**  
-  *Parent does:* 1. When the chrysalis turns dark and you see wing colours, check it often. 2. Watch the butterfly come out. 3. Wait 2 to 3 hours for their wings to dry. 4. Take the cage to the plant and open it.  
+  *Parent does:* 1. When the chrysalis turns dark and you see wing colours, check often. 2. Watch the butterfly come out. 3. Wait 2 to 3 hours for their wings to dry. 4. Take the cage to the plant and open it.  
   *Parent says:* Here they come. Their wings are soft and crumpled. They are pumping blood into them. Don't help them. They need to do this themself to make their wings strong.  
   *Child mode:* The butterfly is coming out! Watch them pump up their wings. Don't help. Wait for them to dry. Then let them go.
   - Ask: What surprised you most in your butterfly's life? (good: How fast the caterpillar grew.; They looked like a bird dropping.; The chrysalis didn't move at all.; The wings were crumpled at first.)
@@ -665,42 +665,40 @@ She thought that she should write to Farida about it. She thought that when she 
   - Note: Curry leaf and lemon plants are easy to buy from any nursery. Expect caterpillars to eat some leaves. That is the garden working.
 
 ## Worksheets
-### Life Cycle Detective (core) (core, 16 questions)
-1. (mcq) What is a life cycle?  
-   Options: All the stages of an animal's life, in order, going round again / How long an animal lives / The way an animal moves / The food an animal eats  
-   **Answer:** All the stages of an animal's life, in order, going round again. *Why:* A life cycle is all the stages, from egg or baby to adult, and the adult makes new eggs or babies. Picking 'how long an animal lives' mixes up a life cycle with a lifespan. A lifespan is just a number of years.
-2. (order) Put the stages of a butterfly in order, starting at the beginning: butterfly, caterpillar, egg, chrysalis.  
+### Life Cycle Detective (core) (core, 15 questions)
+1. (order) Put the stages of a butterfly in order, starting at the beginning: butterfly, caterpillar, egg, chrysalis.  
    **Answer:** order shown. *Why:* A butterfly lays an egg. A caterpillar hatches and eats. They make a chrysalis. A butterfly comes out. Then they lay eggs, and the cycle starts again.
-3. (order) Put the stages of a frog in order: froglet, frogspawn, adult frog, tadpole.  
+2. (order) Put the stages of a frog in order: froglet, frogspawn, adult frog, tadpole.  
    **Answer:** order shown. *Why:* Frogspawn hatches into tadpoles. Tadpoles grow legs and become froglets. Froglets lose their tails and become frogs.
-4. (order) Put the stages of a hen in order: chick, hen, egg.  
-   **Answer:** order shown. *Why:* A chick hatches from an egg and grows into a hen. A hen has only three stages, because the chick does not change shape.
-5. (fill) A young frog that lives in water and swims with a tail is called a ____.  
-   **Answer:** ['tadpole']. *Why:* A tadpole is the young of a frog or toad. They live in water and breathe with gills at first.
-6. (fill) The big change in body shape, like a caterpillar becoming a butterfly, is called ____.  
-   **Answer:** ['metamorphosis']. *Why:* Metamorphosis means a big change of shape. The young animal's body rebuilds itself into a new form.
-7. (fill) The yellow part of an egg, which is food for the chick, is called the ____.  
-   **Answer:** ['yolk']. *Why:* The yolk is the chick's food store. The growing chick uses it up over 21 days.
-8. (sort) Sort these animals. Do their babies look like small adults, or do they change shape completely?  
-   **Answer:** hen → Look like small adults; frog → Change shape completely; cow → Look like small adults; butterfly → Change shape completely; mosquito → Change shape completely; dog → Look like small adults. *Why:* Chicks, calves and puppies look like small versions of their parents. Tadpoles, caterpillars and mosquito wrigglers look nothing like their parents, and go through metamorphosis.
-9. (match) Match each baby to their grown-up.  
-   **Answer:** tadpole → frog; caterpillar → butterfly; chick → hen; wriggler → mosquito. *Why:* Each young animal grows into their own kind of adult. Some look very different, like the wriggler and the mosquito.
-10. (truefalse) A butterfly comes out of a cocoon.  
-   **Answer:** False. *Why:* False. A butterfly comes out of a chrysalis, which is the pupa's own hard skin. A cocoon is a silk case that a moth caterpillar spins around themself.
-11. (truefalse) A tadpole's tail falls off when they become a frog.  
-   **Answer:** False. *Why:* False. The tail gets shorter a little each day. Its cells are broken down and the body uses the material to build the frog. Nothing drops off.
-12. (truefalse) Eggs from a farm with no rooster will hatch if you keep them warm.  
-   **Answer:** False. *Why:* False. With no rooster, the eggs are not fertilised. They can never grow a chick, however warm they are kept. Most shop eggs come from farms like this.
-13. (mcq) In the eggshell bubbles experiment, bubbles came out of an egg in very hot water. What does this tell us?  
-   Options: The shell has tiny holes that let air through / The egg was cooking / The shell is made of air  
-   **Answer:** The shell has tiny holes that let air through. *Why:* The hot water warmed the air inside the egg. Warm air takes up more space, so it pushed out through thousands of tiny holes in the shell. A growing chick breathes through the same holes. Picking 'the egg was cooking' is a natural guess, because bubbles often mean boiling. But the water was not boiling, and the bubbles came from the shell.
-14. (mcq) Which stage of a butterfly does most of the eating?  
+3. (write) Why do we draw a life cycle as a circle, and not as a straight line?  
+   **Answer:** Because the adult makes new eggs or babies, and they go through the same stages again. A frog lays frogspawn, the frogspawn becomes tadpoles, and the tadpoles grow into frogs who lay frogspawn.. *Why:* A life cycle has no end point. Each adult starts the next round, so the stages go round and round.
+4. (mcq) Which stage of a butterfly does most of the eating?  
    Options: The caterpillar / The chrysalis / The egg / The butterfly  
    **Answer:** The caterpillar. *Why:* The caterpillar eats leaves all day and grows fast. The chrysalis does not eat at all. The butterfly only sips nectar. Picking 'the butterfly' is a common guess, because that is the stage we see most.
-15. (draw) Draw the life cycle of a frog as a circle. Draw and label four stages, with arrows between them.  
+5. (fill) The big change in body shape, like a caterpillar becoming a butterfly, is called ____.  
+   **Answer:** ['metamorphosis']. *Why:* Metamorphosis means a big change of shape. The young animal's body rebuilds itself into a new form.
+6. (sort) Sort these animals. Do their babies look like small adults, or do they change shape completely?  
+   **Answer:** hen → Look like small adults; frog → Change shape completely; cow → Look like small adults; butterfly → Change shape completely; mosquito → Change shape completely; dog → Look like small adults. *Why:* Chicks, calves and puppies look like small versions of their parents. Tadpoles, caterpillars and mosquito wrigglers look nothing like their parents, and go through metamorphosis.
+7. (truefalse) A butterfly comes out of a cocoon.  
+   **Answer:** False. *Why:* False. A butterfly comes out of a chrysalis, which is the pupa's own hard skin. A cocoon is a silk case that a moth caterpillar spins around themself.
+8. (truefalse) A tadpole's tail falls off when they become a frog.  
+   **Answer:** False. *Why:* False. The tail gets shorter a little each day. Its cells are broken down and the body uses the material to build the frog. Nothing drops off.
+9. (mcq) In the eggshell bubbles experiment, bubbles came out of an egg in very hot water. What does this tell us?  
+   Options: The shell has tiny holes that let air through / The egg was cooking / The shell is made of air  
+   **Answer:** The shell has tiny holes that let air through. *Why:* The hot water warmed the air inside the egg. Warm air takes up more space, so it pushed out through thousands of tiny holes in the shell. A growing chick breathes through the same holes. Picking 'the egg was cooking' is a natural guess, because bubbles often mean boiling. But the water was not boiling, and the bubbles came from the shell.
+10. (mcq) A tadpole has a tail and gills. A frog has legs and lungs. Why must a tadpole change before living on land?  
+   Options: Gills work only in water, and a tail cannot hop. Lungs and legs suit life on land / The tadpole gets bored of the water / Frogs cannot swim, so they must leave the water  
+   **Answer:** Gills work only in water, and a tail cannot hop. Lungs and legs suit life on land. *Why:* Each body suits a place. Gills take oxygen from water but collapse in air, and a tail is for swimming. Lungs breathe air, and legs hop and climb. Picking 'frogs cannot swim' is wrong, because frogs swim very well.
+11. (draw) Draw the life cycle of a frog as a circle. Draw and label four stages, with arrows between them.  
    **Answer:** Frogspawn, then a tadpole, then a froglet with legs and a short tail, then an adult frog, with an arrow back to frogspawn.. *Why:* A life cycle is drawn as a circle, because the adult frog lays frogspawn and the cycle starts again.
-16. (write) Your friend says, 'A caterpillar and a butterfly are two different animals.' What would you tell them?  
+12. (write) Your friend Nila says, 'A caterpillar and a butterfly are two different animals.' What would you tell her?  
    **Answer:** They are the same animal at two different stages of their life. The caterpillar makes a chrysalis, and their body is rebuilt into the butterfly. They even have the same genes.. *Why:* Metamorphosis changes the body, but it is one animal all the way through. Scientists check this with genes, which match exactly.
+13. (write) In the Wriggler Check, you looked for mosquito babies in still water at home. Why does tipping out the water in a flowerpot tray stop mosquitoes?  
+   **Answer:** Mosquito eggs, wrigglers and tumblers all live in water. If the water is tipped out, the young cannot grow into flying adults. Doing it every week breaks the life cycle.. *Why:* Three of the four stages of a mosquito live in water. Take away the water, and the cycle stops before the adult stage.
+14. (match) Match each part of an egg to its job.  
+   **Answer:** yolk → food for the chick; white → water and a cushion; twisted cords → hold the yolk in the middle; shell → protects, and lets air in through tiny holes. *Why:* Every part of an egg does a job for the growing chick. Together they make a complete home and food store.
+15. (perspective) Two sisters argue about which way of growing up works better.  
+   **Answer:** A strong answer picks a side and gives a reason, such as young and adults using different food, or a chick being ready to move at once. It also names a real cost of its own side, such as a chrysalis that cannot run away, or a hen who must find food for her chicks.. *Why:* Both ways work, which is why both are common. Each has a cost and a benefit. Scientists still argue about why metamorphosis first began.
 ### Inside the Change (stretch) (stretch, 15 questions)
 1. (mcq) A grasshopper's babies look like small grasshoppers without wings. Which kind of life cycle is this?  
    Options: Egg, nymph, adult, with no pupa / Egg, larva, pupa, adult / Just grows, like a hen  
@@ -717,70 +715,62 @@ She thought that she should write to Farida about it. She thought that when she 
 5. (mcq) Look at this chart of one tadpole's tail length. What happened to the tail?  
    Options: It grew, then shrank a little at a time / It fell off in one go on day 30 / It stayed the same / It grew all the time  
    **Answer:** It grew, then shrank a little at a time. *Why:* The line goes up to 18 millimetres by day 20, then comes down step by step: 14, 8, then 2. A tail that fell off would drop to zero in one step. Picking 'fell off in one go' is what most people expect, before they measure.
-6. (fill) A chick takes about ____ days to grow inside their egg.  
-   **Answer:** ['21', 'twenty-one']. *Why:* About 21 days, which is three weeks, if the egg is kept warm and turned.
-7. (fill) A chemical message carried in the blood, which tells a tadpole when to change, is called a ____.  
+6. (fill) A chemical message carried in the blood, which tells a tadpole when to change, is called a ____.  
    **Answer:** ['hormone']. *Why:* A hormone is a chemical message. A tadpole's thyroid makes the hormone that starts their metamorphosis.
-8. (match) Match each part of an egg to its job.  
-   **Answer:** yolk → food for the chick; white → water and a cushion; twisted cords → hold the yolk in the middle; shell → protects, and lets air in through tiny holes. *Why:* Every part of an egg does a job for the growing chick. Together they make a complete home and food store.
-9. (sort) Sort these insects by their life cycle.  
+7. (sort) Sort these insects by their life cycle.  
    **Answer:** butterfly → Egg, larva, pupa, adult; grasshopper → Egg, nymph, adult; mosquito → Egg, larva, pupa, adult; cockroach → Egg, nymph, adult; honeybee → Egg, larva, pupa, adult; dragonfly → Egg, nymph, adult. *Why:* Butterflies, mosquitoes and bees have a pupa stage. Grasshoppers, cockroaches and dragonflies do not. Their nymphs grow wings slowly.
-10. (truefalse) A caterpillar and the butterfly they become have exactly the same genes.  
+8. (truefalse) A caterpillar and the butterfly they become have exactly the same genes.  
    **Answer:** True. *Why:* True. Genes are the instructions in every cell. They are the same all through their life. Hormones switch different instructions on at different times.
-11. (truefalse) Inside a chrysalis, absolutely everything turns into soup.  
+9. (truefalse) Inside a chrysalis, absolutely everything turns into soup.  
    **Answer:** False. *Why:* False. Much of the caterpillar's body is broken down. But the waiting cells stay whole and grow into wings, legs and eyes, and some parts are kept and rebuilt.
-12. (truefalse) In the Naked Egg experiment, the egg stayed whole after the shell was gone.  
-   **Answer:** True. *Why:* True. Two thin, strong skins under the shell held it together.
-13. (write) Why does a lime butterfly lay her eggs on a curry leaf or lemon plant, and not on any plant?  
+10. (write) In the Naked Egg experiment, vinegar took away the eggshell, but the egg did not fall apart. What held the egg together? Why would this help a growing chick?  
+   **Answer:** Two thin, strong skins under the shell, called membranes, held the egg together. They keep water in and germs out, and hold the white and yolk in place while the chick grows.. *Why:* The shell is only the outside guard. The membranes inside also protect the growing chick.
+11. (write) Why does a lime butterfly lay her eggs on a curry leaf or lemon plant, and not on any plant?  
    **Answer:** Her caterpillars can only eat leaves from that plant family. She never meets her babies, so she lays them right on their food.. *Why:* Choosing the plant is the only care a butterfly mother gives. Maria Sibylla Merian noticed this in the 1600s and painted each caterpillar with their plant.
-14. (write) In the dough model, you squashed a caterpillar into a ball and built a butterfly from it. What does the model show? What does it get wrong?  
+12. (write) In the dough model, you squashed a caterpillar into a ball and built a butterfly from it. What does the model show? What does it get wrong?  
    **Answer:** It shows that the butterfly is built from the caterpillar's own material, using waiting cells. It gets wrong that real waiting cells grow from tiny to big, and that some parts are kept, not broken down.. *Why:* Every model is useful but not perfect. Saying what it gets wrong is part of thinking like a scientist.
-15. (draw) Draw a mosquito's life cycle: egg, wriggler, tumbler, adult. Show which stages live in water.  
-   **Answer:** Eggs on the water, a wriggler hanging under the surface, a curled tumbler in the water, and a flying adult. The first three are in water.. *Why:* Three of the four stages live in water. That is why tipping out still water stops mosquitoes.
-### Big Changes, Big Questions (challenge) (challenge, 18 questions)
-1. (mcq) In 1912, Friedrich Gudernatsch fed tadpoles a little dried thyroid. What happened?  
-   Options: They turned into tiny frogs much too early / They stayed tadpoles for ever / They grew into giant tadpoles  
-   **Answer:** They turned into tiny frogs much too early. *Why:* The thyroid makes the hormone that switches on metamorphosis. Extra hormone made the change start early. Picking 'giant tadpoles' is close to the opposite result. Tadpoles without a thyroid stay tadpoles and keep growing.
-2. (mcq) Francesco Redi covered some jars of meat with thin cloth, and left others open. Maggots grew only in the open jars. What did this show?  
+13. (write) A tadpole's thyroid makes the hormone that starts the change into a frog. Predict: what would happen to a tadpole whose body could not make this hormone? Why?  
+   **Answer:** The tadpole would never become a frog. With no hormone, there is no message to start the change. Scientists have found that such tadpoles keep growing and stay tadpoles, sometimes becoming very big.. *Why:* A hormone is the signal that starts metamorphosis. Without the signal, the body carries on as it is.
+14. (perspective) Lakshmi found a lime butterfly caterpillar on the curry leaf plant on her balcony. Her family has different ideas.  
+   **Answer:** A strong answer picks a side with a reason, for example that a cage protects the caterpillar, or that they are safest on their own plant and no handling. It then answers back fairly from another side, for example that wild caterpillars face wasps and birds.. *Why:* This is a real trade-off. Raising a caterpillar teaches a lot and keeps them safe from predators, but it needs care every day. Watching them on the plant needs no cage but you may miss stages.
+15. (draw) Draw the life cycle of a grasshopper and of a butterfly side by side. Circle the stage that the grasshopper does not have.  
+   **Answer:** Grasshopper: egg, nymph, adult. Butterfly: egg, caterpillar, chrysalis, butterfly. The chrysalis, or pupa, is circled.. *Why:* A grasshopper nymph grows a little more like an adult at each moult, so they need no pupa. A caterpillar looks nothing like a butterfly, so the body is rebuilt inside a chrysalis.
+### Big Changes, Big Questions (challenge) (challenge, 15 questions)
+1. (mcq) Francesco Redi covered some jars of meat with thin cloth, and left others open. Maggots grew only in the open jars. What did this show?  
    Options: Maggots come from eggs laid by flies, not from the meat / Cloth stops meat going bad / Maggots don't like cloth  
    **Answer:** Maggots come from eggs laid by flies, not from the meat. *Why:* Flies could not reach the covered meat, so they couldn't lay eggs there. So maggots must come from fly eggs. Picking 'cloth stops meat going bad' misses the point. The covered meat still went bad, it just had no maggots.
-3. (mcq) Why might it help a frog that their tadpoles live in water and eat slime, while adult frogs live on land and eat insects?  
-   Options: The young and adults don't compete for the same food / Tadpoles cannot catch insects / Frogs cannot swim  
-   **Answer:** The young and adults don't compete for the same food. *Why:* When the young and the adults eat different food in different places, they don't take food from each other. This is one idea for why metamorphosis is useful. No one can go back in time to check how it began. 'Frogs cannot swim' is false, because frogs swim well.
-4. (mcq) In 2008, scientists taught moth caterpillars to stay away from one smell. Many of the adult moths still stayed away from it. What might this mean?  
-   Options: Some memory may survive metamorphosis / Moths can't smell / The caterpillars never changed  
-   **Answer:** Some memory may survive metamorphosis. *Why:* It suggests that some part of what the caterpillar learned passes through the pupa. Other scientists want more tests before they are sure. Picking 'the caterpillars never changed' can't be right, because they became moths with wings.
-5. (mcq) Which came first, the chicken or the egg?  
+2. (perspective) In 2008, Doug Blackiston and his team taught moth caterpillars to stay away from one smell. After metamorphosis, many of the adult moths still stayed away from it. Scientists explain this in different ways.  
+   **Answer:** A strong answer picks a side and suggests a test, for example washing the pupae well or training caterpillars that are too young for the memory to be kept. It answers back fairly, for example that a body rebuilt in a chrysalis might still keep some brain cells.. *Why:* Both ideas fit the first result. Good scientists design a test that would turn out differently if one idea were true and the other false.
+3. (mcq) Which came first, the chicken or the egg?  
    Options: The egg. Animals laid eggs for hundreds of millions of years before there were chickens. / The chicken, because something must lay the egg / Nobody could ever have any idea  
    **Answer:** The egg. Animals laid eggs for hundreds of millions of years before there were chickens.. *Why:* Fish, early amphibians and reptiles laid eggs long before chickens existed. Chickens come from red junglefowl, which also lay eggs. So eggs came first. Picking 'the chicken' makes sense only if you mean a chicken's egg. Even then, the first chicken hatched from an egg laid by a bird that was almost a chicken.
-6. (mcq) Look at this caterpillar diary chart. About how many times longer was the caterpillar on day 16 than on day 2?  
+4. (mcq) Look at this caterpillar diary chart. About how many times longer was the caterpillar on day 16 than on day 2?  
    Options: About 10 times / About 2 times / About 36 times / They got shorter  
    **Answer:** About 10 times. *Why:* On day 2 they were 4 millimetres. On day 16 they were 40 millimetres. 40 divided by 4 is 10. Picking 36 means subtracting, 40 minus 4, which tells you how much they grew, not how many times longer they are.
-7. (truefalse) Some frogs in the Western Ghats hatch straight out of the egg as tiny froglets, with no tadpole stage.  
-   **Answer:** True. *Why:* True. Some bush frogs lay their eggs on land, on leaves or moss. The tadpole stage happens inside the egg, and a tiny froglet hatches.
-8. (truefalse) All the atoms in a butterfly's body are brand new and have never been part of anything else.  
+5. (mcq) Some bush frogs in the Western Ghats lay their eggs on wet leaves, far from any pond. Predict: what hatches from these eggs?  
+   Options: A tiny froglet. The tadpole stage happens inside the egg / A tadpole, who then crawls to a pond / Nothing, because frog eggs must be in water  
+   **Answer:** A tiny froglet. The tadpole stage happens inside the egg. *Why:* These bush frogs skip the free-swimming tadpole. The young grows through the tadpole stage inside the egg, and a tiny froglet hatches. Picking 'nothing' is a fair first guess, because most frog eggs need ponds.
+6. (truefalse) All the atoms in a butterfly's body are brand new and have never been part of anything else.  
    **Answer:** False. *Why:* False. The caterpillar built their body from leaves, and the leaves were built from air, water and soil. Atoms go round and round, through plants, animals, soil and air.
-9. (truefalse) Your thyroid makes a hormone of the same kind as a tadpole's.  
+7. (truefalse) Your thyroid makes a hormone of the same kind as a tadpole's.  
    **Answer:** True. *Why:* True. Your thyroid makes the same kind of hormone. It helps you grow and use energy. It needs iodine, which is why salt in India has iodine added.
-10. (fill) The small groups of cells inside a caterpillar that wait, then grow into wings, legs and eyes, are called ____ discs.  
+8. (fill) The small groups of cells inside a caterpillar that wait, then grow into wings, legs and eyes, are called ____ discs.  
    **Answer:** ['imaginal']. *Why:* Imaginal discs. 'Imago' is the old scientific word for an adult insect.
-11. (fill) A moth caterpillar spins a silk case called a ____. A butterfly pupa is called a ____.  
-   **Answer:** ['cocoon, chrysalis']. *Why:* A cocoon is made of silk spun by a moth caterpillar. A chrysalis is the hard skin of a butterfly pupa.
-12. (odd) Which is the odd one out, and why? Butterfly, mosquito, honeybee, grasshopper.  
-   Options: butterfly / mosquito / honeybee / grasshopper  
-   **Answer:** 3. *Why:* The grasshopper is the odd one out. They have no pupa. Their nymphs look like small adults. The other three have four stages: egg, larva, pupa and adult.
-13. (write) A frog lays hundreds of eggs, but only a few become frogs. A hen lays fewer eggs and looks after her chicks. Give one good thing about each way.  
+9. (order) Put these events inside a fertilised hen's egg in order, over 21 days.  
+   **Answer:** order shown. *Why:* The heart beats after about two days. Feathers start after about ten. Just before hatching, the chick pokes into the air pocket and takes a first breath of air, then cracks the shell on about day 21.
+10. (mcq) In the 1600s, many people thought caterpillars grew out of rotting leaves or mud. Maria Sibylla Merian watched caterpillars for years and painted each one with the plant they ate. What did her careful watching show?  
+   Options: Each caterpillar hatches from an egg laid by a butterfly or moth on their own food plant / Butterflies grow out of flowers / Caterpillars never eat  
+   **Answer:** Each caterpillar hatches from an egg laid by a butterfly or moth on their own food plant. *Why:* Merian raised caterpillars and recorded every stage, from egg to adult, with their food plant. This helped show that small animals come from eggs, not from mud. Picking 'flowers' mixes up where butterflies feed with where they come from.
+11. (write) A frog lays hundreds of eggs, but only a few become frogs. A hen lays fewer eggs and looks after her chicks. Give one good thing about each way.  
    **Answer:** Lots of eggs: even if most are eaten, a few will survive, and the parent doesn't need to stay. Fewer eggs with care: each chick has a much better chance, because the hen keeps them warm and safe.. *Why:* Both ways work, in different lives. Scientists compare these two ways: many young with no care, or a few young with lots of care.
-14. (write) Silk is made from silkworm cocoons. Usually the pupa inside is killed so the thread stays in one long piece. Some people make 'peace silk', where the moth comes out first. What do you think, and why?  
-   **Answer:** Any honest, thought-out answer is good. For example: I think peace silk is kinder, because the moth gets to finish their life cycle, even if the thread is shorter.. *Why:* This is a question about fairness, not a fact. The best answers say what they think and give a reason.
-15. (write) In the story 'Where the Tails Go', Kavya thought her tadpoles were sick. Her friend Farida's notebook showed something else. Why are written records useful in science?  
+12. (perspective) Silk is made from the cocoons of silk moths. Usually the pupa inside is killed, so the thread stays in one long piece. People see this in different ways.  
+   **Answer:** A strong answer gives a clear view with a reason, for example the moth's life or the weavers' work. It fairly states what the other side has right. There is no single right answer.. *Why:* This is a question about fairness, not a fact. Both sides have real reasons, and a good answer weighs them.
+13. (write) In the story 'Where the Tails Go', Kavya thought her tadpoles were sick. Her friend Farida's notebook showed something else. Why are written records useful in science?  
    **Answer:** Memory can trick us, and worry can make us see things. The notebook showed the tail shrinking a little each day, not snapping. That pattern told them it was being taken back in.. *Why:* Scientists measure and write things down, so that they can see patterns they would otherwise miss.
-16. (write) Your body is slowly rebuilt from the food you eat. Is the rice you ate today going to be part of you? Explain.  
+14. (write) Your body is slowly rebuilt from the food you eat. Is the rice you ate today going to be part of you? Explain.  
    **Answer:** Yes. My body breaks down food and uses some of it to build new cells, like skin, blood and muscle. So some of today's rice will become part of me.. *Why:* Like a tadpole using their tail, or a chick using their yolk, your body takes food apart and builds with the pieces. Every living thing does this.
-17. (draw) Draw a waiting cell inside a caterpillar, and then draw what it becomes inside the chrysalis.  
-   **Answer:** A tiny flat patch of cells inside the caterpillar, then a big wing inside the chrysalis.. *Why:* The wing was there all along as a tiny flat pocket of cells, waiting. In the chrysalis, it grows fast using the caterpillar's material.
-18. (label) Label the parts of the egg in the picture: shell, skin, air pocket, white, twisted cord, yolk.  
-   **Answer:** Shell on the outside, skin just inside it, air pocket at the round end, white around the yolk, twisted cords on each side of the yolk, yolk in the middle.. *Why:* Each part has a job. Together they keep the chick fed, cushioned and breathing for 21 days.
+15. (draw) Draw a waiting group of cells inside a caterpillar. Then draw what they become inside the chrysalis.  
+   **Answer:** A tiny flat patch of cells inside the caterpillar, then a big wing inside the chrysalis.. *Why:* The wing was there all along as a tiny flat pocket of cells, waiting. In the chrysalis, these cells grow fast, using the caterpillar's material.
 
 ## Videos
 - **Caterpillar to butterfly: a time-lapse of metamorphosis** (to find, 4 min) id `ocWgSgMGxOc`: Shows a caterpillar hanging, making their chrysalis and the butterfly coming out, which takes weeks in real life. *Check:* Found by YouTube search: "Monarch Butterfly Metamorphosis time-lapse FYV" by FrontYardVideo. Title checked automatically; a parent may still preview it.
@@ -796,7 +786,7 @@ She thought that she should write to Farida about it. She thought that when she 
    **Answer:** Frogspawn, tadpole, froglet, frog. *Why:* Frogspawn hatches into tadpoles, which grow legs and become froglets, then frogs. The other orders mix up which stage makes which.
 3. (mcq) Which is the right order for a butterfly?  
    Options: Egg, caterpillar, chrysalis, butterfly / Egg, chrysalis, caterpillar, butterfly / Caterpillar, egg, butterfly, chrysalis  
-   **Answer:** Egg, caterpillar, chrysalis, butterfly. *Why:* The caterpillar hatches from the egg and later makes the chrysalis. Picking 'egg, chrysalis, caterpillar' puts the chrysalis before the caterpillar. But the caterpillar is the one that makes it.
+   **Answer:** Egg, caterpillar, chrysalis, butterfly. *Why:* The caterpillar hatches from the egg and later makes the chrysalis. Picking 'egg, chrysalis, caterpillar' puts the chrysalis before the caterpillar. But the chrysalis forms from the caterpillar, so the caterpillar must come first.
 4. (mcq) What is metamorphosis?  
    Options: A big change in body shape as a young animal grows up / Getting a bit taller each year / An animal moving to a new home  
    **Answer:** A big change in body shape as a young animal grows up. *Why:* Metamorphosis is a big change of shape, like a tadpole becoming a frog. Picking 'getting taller' describes ordinary growing, like a chick or a child.

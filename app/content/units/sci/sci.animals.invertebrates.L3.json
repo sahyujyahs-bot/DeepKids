@@ -517,7 +517,7 @@
    "Nobody had. Nobody had watched a paper sailor do anything. Out of the sea, they died quickly.",
    "So Signora Power built boxes of glass. She was the first person anyone had heard of to keep sea animals alive in glass and watch them. When the glass boxes were too small, she built big wooden cages and lowered them into the harbour on ropes, so the sea itself flowed through them. Then she paid me one coin for every paper sailor I brought her alive, in a bucket of seawater, running.",
    "I ran a great deal that summer.",
-   "I learned to sit with her on the stone steps above the cages. I learned to be still. I learned that a starfish moves on hundreds of tiny wet feet, so slowly that you have to look away and look back to see it has moved. I learned that a sea urchin walks on tiny feet too, poking out between their spines. I learned that the paper sailor holds her shell with two broad arms, spread over the outside of the shell like hands over a cup.",
+   "I learned to sit with her on the stone steps above the cages. I learned to be still. I learned that a starfish moves on hundreds of tiny wet feet, so slowly that you have to look away and look back to see they have moved. I learned that a sea urchin walks on tiny feet too, poking out between their spines. I learned that the paper sailor holds her shell with two broad arms, spread over the outside of the shell like hands over a cup.",
    "\"Why does she hold it like that?\" I asked.",
    "\"That,\" said Signora Power, \"is the question.\"",
    "Then, in late summer, I did something terrible.",
@@ -668,7 +668,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "An earthworm. Which mat does it go on?",
+      "q": "An earthworm. Which mat do they go on?",
       "options": [
        "BACKBONE",
        "NO BACKBONE"
@@ -719,7 +719,7 @@
    "title": "Guess My Minibeast",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a guessing game about small animals without backbones. One player picks a secret animal. The others ask yes or no questions about their legs, shell and body to find it.",
+   "context": "This is a guessing game about small animals without backbones. One player picks a secret animal. The others ask yes or no questions about their legs, shell and body to guess who they are.",
    "printables": [
     {
      "kind": "cards",
@@ -780,7 +780,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Lay out the 12 cards face up. 2. You pick the first secret animal: choose the house spider. Write it on paper.",
+     "do": "1. Lay out the 12 cards face up. 2. You pick the first secret animal: choose the house spider. Write the name on paper.",
      "say": "I have picked a secret animal from these cards. Ask me yes or no questions about their body. Try to find them in four questions.",
      "kid": "The app has picked a secret animal. Ask yes or no questions about their body. Can you find them in four?",
      "context": "This is the first step of Guess My Minibeast. You find a secret small animal by asking about their legs, shell and body."
@@ -853,28 +853,28 @@
    "items": [
     {
      "t": "mcq",
-     "p": "What is a backbone?",
+     "p": "Bend forward and run your fingers down the middle of your back. You feel a row of bumps. That is your backbone. What is a backbone made of?",
      "opts": [
-      "A hard shell on an animal's back",
-      "A chain of small bones down the middle of the back",
-      "A long muscle in the back",
-      "The skin on an animal's back"
+      "One long stick of bone",
+      "A chain of many small bones, one on top of the next",
+      "A hard shell",
+      "Only muscle"
      ],
      "a": 1,
-     "why": "A backbone is a chain of small bones called vertebrae. You can feel it as bumps when you bend forward. Picking 'a hard shell' mixes it up with a crab or snail, whose hard parts are on the outside.",
+     "why": "A backbone is a chain of small bones called vertebrae. Each bump you feel is one of them. Because it is a chain, you can bend. Picking 'one long stick' would mean you could not bend your back at all.",
      "art": "A child's back with the bumps of the backbone drawn as small round bones."
     },
     {
      "t": "mcq",
-     "p": "Which of these animals has NO backbone?",
+     "p": "A cobra and an earthworm are both long, and neither has legs. Which one has a backbone?",
      "opts": [
-      "A sparrow",
-      "A frog",
-      "An earthworm",
-      "A cobra"
+      "The cobra",
+      "The earthworm",
+      "Both of them",
+      "Neither of them"
      ],
-     "a": 2,
-     "why": "An earthworm has no bones at all. Sparrows, frogs and cobras are vertebrates. Picking the cobra usually happens because snakes are long and legless like worms. But a snake has a very long backbone inside."
+     "a": 0,
+     "why": "A cobra has a very long backbone, with a few hundred small bones. An earthworm has no bones at all. Looking alike on the outside does not tell you what is inside. Many people guess 'neither', because both are long and legless."
     },
     {
      "t": "fill",
@@ -953,34 +953,10 @@
      "why": "Animals without backbones hold their shape in different ways. Worms use water, snails grow a shell, crabs wear armour, and jellyfish are held up by the water around them."
     },
     {
-     "t": "mcq",
-     "p": "How many legs does an insect have?",
-     "opts": [
-      "4",
-      "6",
-      "8",
-      "10"
-     ],
-     "a": 1,
-     "why": "Every adult insect has 6 legs. Picking 8 is the most common mistake. That is a spider, and spiders are not insects."
-    },
-    {
-     "t": "mcq",
-     "p": "A spider has 8 legs, 2 body parts and no feelers. Which animal is this?",
-     "opts": [
-      "An insect",
-      "An arachnid",
-      "A crab",
-      "A worm"
-     ],
-     "a": 1,
-     "why": "Spiders are arachnids, like scorpions and mites. Picking 'insect' is a common mix-up, because spiders are small and catch insects. But insects have 6 legs and 3 body parts."
-    },
-    {
      "t": "truefalse",
-     "p": "A starfish is a kind of fish.",
+     "p": "A starfish is a kind of fish, because 'fish' is in their name.",
      "a": false,
-     "why": "False. A starfish has no backbone, no fins and no gills like a fish. Scientists often call them a sea star instead."
+     "why": "False. A starfish has no backbone, no fins and no gills like a fish. A name can fool you. Scientists often say 'sea star' instead. A jellyfish is not a fish either."
     },
     {
      "t": "truefalse",
@@ -990,15 +966,27 @@
     },
     {
      "t": "mcq",
-     "p": "A crab's hard shell is called an exoskeleton. What does 'exo' mean?",
+     "p": "Kavya finds a small animal on her balcony plant. They have 6 legs and a body in 3 parts. Which group are they in?",
      "opts": [
-      "Inside",
-      "Outside",
-      "Soft",
-      "Old"
+      "Insects",
+      "Arachnids, like spiders",
+      "Crabs and prawns",
+      "Centipedes"
+     ],
+     "a": 0,
+     "why": "6 legs and 3 body parts, a head, a middle and a back end, means an insect. Ants, ladybirds and aphids on plants are all insects. Spiders have 8 legs, and crabs have 10."
+    },
+    {
+     "t": "mcq",
+     "p": "Many people call spiders insects. A spider has 8 legs, 2 body parts and no feelers. Is a spider an insect?",
+     "opts": [
+      "Yes, all small crawling animals are insects.",
+      "No. A spider is an arachnid.",
+      "Yes, because spiders eat insects.",
+      "No. A spider is a kind of crab."
      ],
      "a": 1,
-     "why": "'Exo' means outside. An exoskeleton is a skeleton on the outside, like armour. Picking 'inside' mixes it up with our own skeleton, which is inside our body."
+     "why": "Insects have 6 legs, 3 body parts and 2 feelers. Spiders have 8 legs, 2 body parts and no feelers. So spiders are arachnids, like scorpions and mites. Eating insects does not make you one."
     },
     {
      "t": "mcq",
@@ -1048,6 +1036,28 @@
      "why": "Most families find more kinds of invertebrate. Scientists find the same all over the world.",
      "how": "a1",
      "context": "Remember the Backbone Census? You looked for animals in the kitchen, the bathroom, at a window and on the balcony, and sorted them into animals with a backbone and without one."
+    },
+    {
+     "t": "perspective",
+     "p": "After heavy rain, two cousins find lots of earthworms lying on the wet road. Nobody is sure why worms come up in rain.",
+     "views": [
+      {
+       "who": "Nila",
+       "says": "Their burrows fill with water, so they come up so they don't drown."
+      },
+      {
+       "who": "Arjun",
+       "says": "Wet ground lets them travel far to a new place without drying out. So they come up to travel."
+      },
+      {
+       "who": "Shobha Aunty, who keeps a big compost heap",
+       "says": "The drumming of rain feels like a mole digging. Worms move up to get away from the danger."
+      }
+     ],
+     "ask": "Which idea do you find most convincing? Give a reason. Then say what you could look for to test one of the other ideas.",
+     "lines": 5,
+     "a": "A strong answer picks an idea and gives a reason. For example, worms breathe through their wet skin and can live for a day or more in water, so drowning may not be the whole story. It also suggests a test, such as tapping the ground on a dry day to see if worms come up.",
+     "why": "Scientists still argue about this. Each idea has some evidence. A good answer weighs them and thinks of a way to check."
     }
    ],
    "context": "This worksheet checks the main ideas: what a backbone is, which animals have one, and how animals without one hold their shape."
@@ -1060,15 +1070,15 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Which animal is a mollusc?",
+     "p": "A slug looks like a snail with no shell. Which group are slugs in?",
      "opts": [
-      "An ant",
-      "A snail",
-      "A spider",
-      "A starfish"
+      "Molluscs, like snails",
+      "Insects",
+      "Worms",
+      "Arachnids"
      ],
-     "a": 1,
-     "why": "Molluscs are soft-bodied animals, and many of them make shells. Snails, slugs, clams and octopuses are molluscs. Picking the spider mixes up soft bodies with armour. Spiders are arthropods."
+     "a": 0,
+     "why": "Molluscs are soft-bodied animals, and many make a shell. Over a very long time, the slug's family lost most of their shell. Many slugs still have a tiny one hidden under their skin. Picking 'worms' is a fair guess from the shape, but a slug moves on one big foot, like a snail."
     },
     {
      "t": "mcq",
@@ -1143,16 +1153,12 @@
      "why": "A starfish has no brain. A ring of nerves around their mouth and a nerve in each arm carry their messages."
     },
     {
-     "t": "mcq",
-     "p": "A jellyfish washed up on a beach looks like a flat blob. Why?",
-     "opts": [
-      "They have broken bones",
-      "They have no skeleton, and the sea is no longer holding them up",
-      "They have dried into stone",
-      "They have turned into a different animal"
-     ],
-     "a": 1,
-     "why": "A jellyfish is mostly water, with no bones or armour. In the sea, the water holds their shape. Out of water they collapse. Picking 'broken bones' mixes jellyfish up with fish. Jellyfish have no bones at all."
+     "t": "write",
+     "p": "A jellyfish lying on the sand looks like a flat blob. In the sea, the same jellyfish is round and spread out. Explain the difference. Use what you saw in Jellyfish in a Bottle.",
+     "lines": 4,
+     "a": "A jellyfish is mostly water, with no bones, no shell and no armour. In the sea, the water around them holds their body up and in shape. On the sand nothing holds them up, so they flop flat, like the plastic bag jellyfish lifted out of the bottle.",
+     "why": "A strong answer says the jellyfish has no skeleton, and that the sea itself does the job of holding them in shape.",
+     "how": "a4"
     },
     {
      "t": "truefalse",
@@ -1212,16 +1218,48 @@
      "context": "Remember the Many Small Suckers experiment? You hung a bag from rubber suckers on a tile and added cups of rice until they popped off."
     },
     {
-     "t": "mcq",
-     "p": "Which of these is NOT an arthropod?",
-     "opts": [
-      "A centipede",
-      "A prawn",
-      "A garden snail",
-      "A scorpion"
+     "t": "sort",
+     "p": "Sort these animals. Are they arthropods, with jointed legs and armour? Or molluscs, with a soft body and often a shell?",
+     "cats": [
+      "Arthropod",
+      "Mollusc"
      ],
-     "a": 2,
-     "why": "Arthropods have jointed legs and an exoskeleton. A snail has no legs at all. They are a mollusc. Picking the prawn or scorpion usually means forgetting that arthropods include animals from water and animals with stings."
+     "items": [
+      [
+       "centipede",
+       "Arthropod"
+      ],
+      [
+       "prawn",
+       "Arthropod"
+      ],
+      [
+       "scorpion",
+       "Arthropod"
+      ],
+      [
+       "ant",
+       "Arthropod"
+      ],
+      [
+       "garden snail",
+       "Mollusc"
+      ],
+      [
+       "octopus",
+       "Mollusc"
+      ],
+      [
+       "slug",
+       "Mollusc"
+      ],
+      [
+       "clam",
+       "Mollusc"
+      ]
+     ],
+     "a": "see items",
+     "why": "Arthropods come from land and water, and some have stings, but all have jointed legs and armour. Molluscs have no legs at all. Snails and slugs glide on one foot, and an octopus has arms."
     },
     {
      "t": "fill",
@@ -1247,16 +1285,10 @@
      "art": "A blank five-armed outline."
     },
     {
-     "t": "mcq",
-     "p": "Which animal moves by squeezing waves of muscle along one big foot?",
-     "opts": [
-      "A spider",
-      "A snail",
-      "A crab",
-      "An ant"
-     ],
-     "a": 1,
-     "why": "A snail glides on waves of muscle along their one foot, sliding on slime. You can see the waves from underneath through clear plastic. Picking an animal with legs means thinking every crawling animal walks with legs."
+     "t": "truefalse",
+     "p": "A hermit crab makes their own shell, like a snail does.",
+     "a": false,
+     "why": "False. A hermit crab has a soft back end, so they move into an empty snail shell. When they grow too big, they look for a bigger one. A snail is different. Their body makes the shell and adds to it as they grow."
     }
    ],
    "context": "This worksheet goes further: molluscs, arthropods, starfish and jellyfish, and what our experiments showed."
@@ -1287,16 +1319,26 @@
      "why": "A real group of animals shares one ancestor that no outsider shares. Invertebrates include many separate branches."
     },
     {
-     "t": "mcq",
-     "p": "About 300 million years ago there were giant insects with wings about 70 cm across. Which idea do some scientists use to explain why insects could be so big then?",
-     "opts": [
-      "There was more oxygen in the air then",
-      "There were no plants",
-      "The Earth was smaller",
-      "Insects had backbones then"
+     "t": "perspective",
+     "p": "About 300 million years ago, there were insects with wings about 70 cm across. Today, most land insects are shorter than your little finger. Scientists argue about why.",
+     "views": [
+      {
+       "who": "The air idea",
+       "says": "The air then had more oxygen. Insects breathe through tiny tubes, and air goes further down the tubes when it has more oxygen. So insects could grow bigger."
+      },
+      {
+       "who": "The armour idea",
+       "says": "Armour gets very heavy as an animal grows. A giant insect could hardly move, and every moult would leave them soft and in danger."
+      },
+      {
+       "who": "The hunters idea",
+       "says": "When birds, and later bats, appeared, big flying insects became easy food. Smaller insects got away."
+      }
      ],
-     "a": 0,
-     "why": "One idea is that air had more oxygen then, so oxygen could reach deeper through the tubes that insects breathe with. Other scientists think armour weight or new hunters like birds mattered more. Picking 'backbones' would mean they were not insects. No insect has ever had a backbone."
+     "ask": "Which idea do you find most convincing? Give your reason. Then say what evidence would make you change your mind.",
+     "lines": 5,
+     "a": "A strong answer picks an idea and gives a reason. For example, insects raised in extra oxygen grow a little bigger, which supports the air idea. It also says what would change the answer, such as finding giant insects from a time when the air had little oxygen. It may say more than one idea can be true.",
+     "why": "This is still argued about, and each idea has some evidence. A good answer uses evidence and stays open."
     },
     {
      "t": "mcq",
@@ -1321,35 +1363,46 @@
     },
     {
      "t": "mcq",
-     "p": "A tardigrade is a tiny invertebrate. What did scientists find when they sent dried tardigrades into space?",
+     "p": "The biggest animals without backbones, like the giant squid, live in the sea, not on land. Which idea best explains this?",
      "opts": [
-      "They all exploded",
-      "Many survived and later had babies",
-      "They grew backbones",
-      "They turned into insects"
+      "The water holds up their heavy bodies.",
+      "The sea has no hunters.",
+      "Sea animals are older than land animals.",
+      "Land is always too hot for them."
      ],
-     "a": 1,
-     "why": "In 2007 dried tardigrades spent days outside a spacecraft. Many came back alive and later laid eggs. They were the first animals known to survive open space. Picking 'grew backbones' is impossible. No animal can grow a backbone in their lifetime."
+     "a": 0,
+     "why": "In water, a heavy soft body is held up, so the animal does not need a strong frame. On land, a big soft body would sag, and armour would get too heavy. You saw the same thing with Jellyfish in a Bottle."
     },
     {
-     "t": "mcq",
-     "p": "In one family's Many Small Suckers test, four suckers held 11 cups of rice, but one sucker held 3. Why might four not hold exactly 12?",
-     "opts": [
-      "Suckers get stronger together",
-      "Some suckers may be pressed on less well, or pulled at an angle, so they do not share the load equally",
-      "Rice gets heavier",
-      "The tile got bigger"
-     ],
-     "a": 1,
-     "why": "In a real test, things are never perfect. One sucker may pop first because it is pulled harder or stuck less well, and then the rest go too. Picking 'stronger together' would give more than 12, not less.",
+     "t": "write",
+     "p": "In one family's Many Small Suckers test, one sucker held 3 cups of rice. Four suckers held 11 cups, not 12. Give a reason why four did not hold exactly four times as much.",
+     "lines": 4,
+     "a": "Some suckers may have been pressed on less well, or pulled at an angle, so they did not share the load equally. When the weakest one popped, the others had to carry more, and they popped too.",
+     "why": "In a real test things are never perfect. A strong answer gives a reason from how the test was done, not 'the rice got heavier'.",
      "how": "e3",
      "context": "Remember the Many Small Suckers experiment? You hung a bag from rubber suckers on a tile and added cups of rice until they popped off."
     },
     {
-     "t": "truefalse",
-     "p": "Scientists all agree that crabs and octopuses feel pain exactly as we do.",
-     "a": false,
-     "why": "False. Crabs and octopuses feel pain: they guard a hurt leg and stay away from places where they were hurt. But their bodies and nerves are built very differently from ours, so their pain may not feel exactly like ours. Some scientists still say these are only reflexes."
+     "t": "perspective",
+     "p": "Some fishermen drop live crabs into boiling water to cook them. People disagree about whether this hurts the crab.",
+     "views": [
+      {
+       "who": "Scientists who study crabs and octopuses",
+       "says": "Crabs guard a hurt leg and stay away from places where they were hurt. Hermit crabs even weigh pain against a good shell. A plain reflex cannot weigh things. So crabs feel pain."
+      },
+      {
+       "who": "Other scientists",
+       "says": "All of this might be reflexes and simple learning. We cannot yet measure a feeling from the outside. We should wait for better tests."
+      },
+      {
+       "who": "A cook in Kochi",
+       "says": "People have cooked crabs this way for a very long time. It is quick."
+      }
+     ],
+     "ask": "Which view do you agree with most, and why? Then answer back from one of the other sides.",
+     "lines": 5,
+     "a": "A strong answer uses the evidence, such as the hermit crab test where crabs left a poor shell sooner than a good one after a small shock. It answers back fairly, for example: 'The second group is right that we cannot see a feeling from outside. But if we are not sure, being gentle costs us little.' Since 2022 a law in the United Kingdom protects crabs as animals that feel.",
+     "why": "This is a real argument among scientists and cooks. A good answer weighs evidence and is fair to each side."
     },
     {
      "t": "mcq",
@@ -1409,16 +1462,10 @@
      "art": "A blank tree trunk with a few empty branches."
     },
     {
-     "t": "mcq",
-     "p": "Why do scientists think there may be millions of kinds of animal still not discovered?",
-     "opts": [
-      "Because animals are hiding on purpose",
-      "Because new insects, worms and sea animals are found every year, and places like the deep sea are hardly explored",
-      "Because old books lost the names",
-      "Because animals keep turning into new kinds every day"
-     ],
-     "a": 1,
-     "why": "Every year scientists name thousands of new invertebrates. Huge places, like the deep sea floor and rainforest treetops, are barely explored. But nobody knows the exact number, so estimates differ a lot."
+     "t": "truefalse",
+     "p": "Scientists know exactly how many kinds of animal live on Earth.",
+     "a": false,
+     "why": "False. Every year scientists name thousands of new insects, worms and sea animals. Places like the deep sea floor are hardly explored. So the total is only a guess, and guesses differ a lot, from a few million to many millions."
     }
    ],
    "context": "This worksheet is for big thinkers: family trees, deep time, giant insects, open questions and designing your own animal."
@@ -3171,7 +3218,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Watch an earthworm move, or watch the video in this unit. Remember how the water rose up the bottle neck when you squeezed it in Water Bones.",
-     "say": "A worm squeezes to stretch forward, then pulls up their back end. Tiny bristles stop it sliding backwards. Can we copy that?",
+     "say": "A worm squeezes to stretch forward, then pulls up their back end. Tiny bristles stop them sliding backwards. Can we copy that?",
      "kid": "A worm squeezes, stretches, grips and pulls. Can you copy that with paper?",
      "context": "This is the first step of the Crawl Without Legs challenge. You build a model worm that moves without legs or wheels."
     },
@@ -3241,28 +3288,28 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "What is a backbone?",
+   "p": "A chain of small bones runs down the middle of your back. What is this chain called?",
    "opts": [
-    "A shell on the back",
-    "A chain of small bones down the middle of the back",
-    "A muscle",
-    "A kind of skin"
+    "The backbone",
+    "The ribcage",
+    "A shell",
+    "An exoskeleton"
    ],
-   "a": 1,
-   "why": "A backbone is a chain of small bones called vertebrae. Picking 'a shell' mixes it up with snails and crabs, whose hard parts are outside.",
+   "a": 0,
+   "why": "The backbone is a chain of small bones called vertebrae. Ribs curve round your chest. A shell and an exoskeleton are hard parts on the outside of other animals.",
    "outcome": 0
   },
   {
    "t": "mcq",
    "p": "Which animal has a backbone?",
    "opts": [
-    "An earthworm",
-    "A spider",
-    "A snake",
-    "A jellyfish"
+    "A frog",
+    "A crab",
+    "A snail",
+    "An ant"
    ],
-   "a": 2,
-   "why": "A snake has a long backbone with hundreds of vertebrae, even though they have no legs. Picking the earthworm usually means a long, legless shape fooled you.",
+   "a": 0,
+   "why": "A frog is a vertebrate, like fish, birds, reptiles and mammals. Crabs, snails and ants have no bones at all. Their hard parts, if they have any, are on the outside.",
    "outcome": 0
   },
   {
@@ -3280,30 +3327,29 @@
   },
   {
    "t": "mcq",
-   "p": "Remember the Backbone Census? You looked for animals in and around your home. Most families find more kinds without a backbone. Why?",
+   "p": "Lakshmi counts the kinds of animal on her balcony. She finds 2 kinds with a backbone, a pigeon and a gecko, and 9 kinds without one. Is that unusual?",
    "opts": [
-    "Backbone animals are all asleep",
-    "Small animals can live in many tiny places, like cracks, corners and plant pots",
-    "Small animals are not really animals",
-    "Only small animals live in flats"
+    "No. Most kinds of animal have no backbone, so most homes show the same.",
+    "Yes. Most animals have a backbone.",
+    "Yes. Balconies only have insects.",
+    "No. Animals with backbones are not real animals."
    ],
-   "a": 1,
-   "why": "Small invertebrates fit into many more tiny homes than big animals do. Picking 'not really animals' is a common habit of thinking. Ants and flies are animals too.",
+   "a": 0,
+   "why": "About 95 out of 100 kinds of animal have no backbone. Small animals fit into cracks, corners and plant pots. So finding more kinds without a backbone is what we expect.",
    "outcome": 1,
-   "how": "a1",
-   "context": "Remember the Backbone Census? You looked for animals in the kitchen, the bathroom, at a window and on the balcony, and sorted them into animals with a backbone and without one."
+   "how": "a1"
   },
   {
    "t": "mcq",
-   "p": "How does an earthworm stay firm without bones?",
+   "p": "An earthworm left out in the hot sun dries out and goes soft and floppy. Why?",
    "opts": [
-    "They have a shell inside",
-    "They are full of liquid squeezed tight by their muscles",
-    "They dry out in the sun",
-    "They hold their breath"
+    "They lose the liquid that their muscles held tight to keep them firm.",
+    "Their bones break in the heat.",
+    "They are fast asleep.",
+    "Their shell falls off."
    ],
-   "a": 1,
-   "why": "A worm has a water skeleton. Their muscles hold the liquid in tight, like a cap on a bottle full of water. Picking 'a shell inside' is a guess, but worms have no hard parts at all.",
+   "a": 0,
+   "why": "A worm stays firm because they are full of liquid held tight by their muscles. Take away the liquid, and there is nothing to push back. Worms have no bones and no shell.",
    "outcome": 2
   },
   {
@@ -3321,15 +3367,15 @@
   },
   {
    "t": "mcq",
-   "p": "An animal has 6 legs and 3 body parts. What animal is this?",
+   "p": "An animal has 10 legs, and two of the legs are big claws. They breathe with gills. Which group are they in?",
    "opts": [
-    "A spider",
-    "An insect",
-    "A crab",
-    "A centipede"
+    "Insects",
+    "Spiders",
+    "Crabs and prawns",
+    "Centipedes"
    ],
-   "a": 1,
-   "why": "6 legs and 3 body parts means an insect. Picking a spider is the most common mix-up. Spiders have 8 legs and 2 body parts.",
+   "a": 2,
+   "why": "Ten legs, often with two big claws, and gills for breathing in water mean a crab or a prawn. These are called crustaceans. Insects have 6 legs and spiders have 8.",
    "outcome": 3
   },
   {
@@ -3347,15 +3393,15 @@
   },
   {
    "t": "mcq",
-   "p": "Remember the Water Bones experiment? You pressed down on pairs of plastic bottles: open and empty, capped with air, and capped with water. You used books, then sat on the board, then squeezed the capped bottles by hand. When you sat on the board, the capped air bottles went down a little, but the capped water bottles hardly moved. Why?",
+   "p": "In Water Bones, what would happen if you took the cap off a bottle full of water and then squeezed it?",
    "opts": [
-    "The water bottles were the lightest",
-    "Water cannot be squeezed into less space, and the caps held it in",
-    "The water bottles had air in them",
-    "The water bottles were a different colour"
+    "Water would squirt out, and the bottle would go soft.",
+    "The bottle would stay just as hard.",
+    "The bottle would get harder.",
+    "Nothing at all."
    ],
-   "a": 1,
-   "why": "Air can be squeezed a little, so the air bottles gave. Water cannot be squeezed, and the caps kept it in, so it pushed back. That is how the liquid in a worm keeps them firm. Picking 'lightest' is wrong: the water bottles were the heaviest.",
+   "a": 0,
+   "why": "The cap kept the water in, so it pushed back. Without the cap, the water escapes and the bottle gives. In a worm, the muscles do the cap's job. A worm with a cut loses liquid and goes soft.",
    "outcome": 4,
    "how": "e1",
    "context": "Remember the Water Bones experiment? You pressed down on pairs of plastic bottles: open and empty, capped with air, and capped with water. You used books, then sat on the board, then squeezed the capped bottles by hand."
@@ -3377,15 +3423,15 @@
   },
   {
    "t": "mcq",
-   "p": "A starfish is a closer cousin of yours than of a snail. What does this tell us about the word 'invertebrate'?",
+   "p": "Which pair are the closest cousins?",
    "opts": [
-    "It is one close family",
-    "It is not one family. It just means every animal that is not a vertebrate",
-    "Starfish have backbones",
-    "Snails are vertebrates"
+    "A starfish and a sea urchin",
+    "A starfish and a snail",
+    "A jellyfish and an ant",
+    "A snail and a fish"
    ],
-   "a": 1,
-   "why": "'Invertebrate' groups animals by something they lack. It holds many separate branches. Picking 'starfish have backbones' is not right: they have no bones, but they share our branch of the family tree.",
+   "a": 0,
+   "why": "Starfish and sea urchins are on the same branch. Both have tube feet and bodies built in fives. Snails are on a different branch from starfish. 'No backbone' does not make animals close cousins.",
    "outcome": 5
   },
   {
@@ -3543,8 +3589,8 @@
    "a": "Truant."
   },
   {
-   "j": "How does a crab call his friends?",
-   "a": "On his shell phone."
+   "j": "How does a crab call her friends?",
+   "a": "On her shell phone."
   },
   {
    "j": "What is a bee's favourite classroom?",

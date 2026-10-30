@@ -97,7 +97,7 @@
   {
    "term": "Blind test",
    "meaning": "A test where the person giving it does not know the answer. Then they cannot give away the answer by mistake.",
-   "example": "One friend hides a coin under a cup while you look away. Now your brother tries to find it. You cannot give him clues, because you do not know where it is either.",
+   "example": "One friend hides a coin under a cup while you look away. Now your sister tries to find it. You cannot give her clues, because you do not know where it is either.",
    "art": "A child with eyes covered while another child hides a coin under one of three steel cups."
   },
   {
@@ -169,7 +169,7 @@
     "In Kenya, Karen McComb and her team played elephant calls to elephant families in 2001. Families with an older grandmother elephant as leader were better at telling friends' calls from strangers' calls."
    ],
    "perspectives": [],
-   "art": "A grey bird pushing a pine seed into soil, then the same bird in snow digging it up, with a dotted line joining the two pictures.",
+   "art": "A grey bird pushing a pine seed into soil, then the same bird in snow digging the seed up, with a dotted line joining the two pictures.",
    "context": "This card explains memory in animals, with true examples from birds and elephants."
   },
   {
@@ -892,7 +892,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Fill the glass with water until it is about 4 cm below the top. 2. Put a strip of tape at the water level. This is the starting line. 3. Put a second strip 2 cm higher, about two finger-widths. This is the top line. 4. Float the thermocol 'worm' on the water.",
-     "say": "Remember the thirsty crow story? The crow dropped pebbles in a pot until it could drink. Let's be the crow. The thermocol is the worm. Our beak can only reach the top line.",
+     "say": "Remember the thirsty crow story? The crow dropped pebbles in a pot until they could drink. Let's be the crow. The thermocol is the worm. Our beak can only reach the top line.",
      "kid": "Fill the glass. Mark where the water is. Mark a line two fingers higher. Float the worm. Can you bring it up to the line?",
      "parent": "Use a glass about 6 to 7 cm across. In a wider glass the water rises too slowly, and you will need many more stones. A steel tumbler works too, but a clear glass lets you see the water rise.",
      "context": "This is the first step of the thirsty crow test. You set up a glass of water with a floating 'worm' to raise."
@@ -2125,18 +2125,6 @@
    "items": [
     {
      "t": "mcq",
-     "p": "What is learning?",
-     "opts": [
-      "Being born knowing how to do something",
-      "Changing what you do because of what happened before",
-      "Growing bigger",
-      "Sleeping a lot"
-     ],
-     "a": 1,
-     "why": "Learning means you change what you do after something happens, like a dog running to the gate when it clicks. Picking 'born knowing' mixes learning up with instinct, which needs no teaching."
-    },
-    {
-     "t": "mcq",
      "p": "Which of these is play?",
      "opts": [
       "A dog eating their dinner",
@@ -2148,42 +2136,10 @@
      "why": "Play is done for fun, when safe and relaxed. Eating, running from danger and nest building all have a job to do right now. Picking 'running from a big dog' means a chase was seen as play, but that cat is scared, not relaxed."
     },
     {
-     "t": "fill",
-     "p": "An object an animal uses to help them do a job is called a ____.",
-     "a": [
-      "tool"
-     ],
-     "why": "A crow's twig hook and a chimpanzee's grass stem are both tools."
-    },
-    {
      "t": "truefalse",
      "p": "Only humans use tools.",
      "a": false,
      "why": "Chimpanzees, crows, Egyptian vultures and sea otters use tools. Jane Goodall saw chimpanzees fishing for termites in 1960."
-    },
-    {
-     "t": "match",
-     "p": "Match each animal to what scientists saw them do.",
-     "pairs": [
-      [
-       "New Caledonian crow",
-       "bent a wire into a hook"
-      ],
-      [
-       "Chimpanzee",
-       "fished for termites with a grass stem"
-      ],
-      [
-       "Rook",
-       "dropped stones to raise water"
-      ],
-      [
-       "Dog",
-       "followed a pointing finger"
-      ]
-     ],
-     "a": "pairs as given",
-     "why": "Each of these was found in careful tests or long watching by scientists."
     },
     {
      "t": "sort",
@@ -2230,78 +2186,23 @@
      "why": "A tucked tail and flat ears usually mean fear. Give a scared dog space. Picking 'playful' often comes from expecting dogs always to be happy."
     },
     {
-     "t": "fill",
-     "p": "A test where the person giving it does not know the answer is called a ____ test.",
-     "a": [
-      "blind"
-     ],
-     "why": "In a blind test, nobody nearby can give away the answer by mistake, like the people who asked Clever Hans did."
-    },
-    {
      "t": "mcq",
-     "p": "Clever Hans the horse seemed to do sums. What was he really doing?",
+     "p": "In the Clever Hans Test, the guesser found the coin more often when the helper knew where it was. Nobody spoke or pointed. What gave the guesser the clue?",
      "opts": [
-      "Counting in his head",
-      "Reading tiny changes in the asker's face and body",
-      "Listening to someone whispering",
-      "Guessing at random"
+      "Tiny changes in the helper's face and eyes, made without meaning to",
+      "The coin made a sound under the cup",
+      "The cups were different colours"
      ],
-     "a": 1,
-     "why": "Hans stopped tapping when the asker relaxed a tiny bit at the right number. He was right only when the asker knew the answer. Picking 'counting' means trusting the trick without a blind test.",
-     "context": "This question is about Clever Hans, a horse in Berlin more than a hundred years ago, who seemed to tap out answers to sums with his hoof."
-    },
-    {
-     "t": "mcq",
-     "p": "Which bird hides thousands of seeds and finds many of them months later?",
-     "opts": [
-      "The peacock",
-      "The Clark's nutcracker",
-      "The hen",
-      "The ostrich"
-     ],
-     "a": 1,
-     "why": "The Clark's nutcracker hides thousands of pine seeds in autumn and finds a lot of them in winter, using landmarks they remember."
+     "a": 0,
+     "why": "People give away what they know with tiny glances and small changes in their face, without noticing. A horse called Clever Hans read these clues too. Picking 'a sound' is worth checking, which is why the test also needs rounds where the helper does not know.",
+     "how": "e2",
+     "context": "In the Clever Hans Test, a guesser tried to find a coin under one of 3 cups by watching the face of a helper who knew where the coin was."
     },
     {
      "t": "truefalse",
      "p": "Crows can remember a human face for years.",
      "a": true,
      "why": "In John Marzluff's study, crows scolded a 'dangerous' mask for years, and young crows learned it from older ones."
-    },
-    {
-     "t": "fill",
-     "p": "The thirsty crow test: after 6 big stones the water reached the line. After 32 small stones it reached the line too. The big stones took ____ fewer objects.",
-     "a": [
-      "26",
-      "twenty-six"
-     ],
-     "why": "32 take away 6 is 26. So the big stones took 26 fewer objects. You can check: 6 + 26 = 32.",
-     "context": "This question is about the thirsty crow test. You drop things into a glass of water, one at a time, and count how many it takes to raise the water to a line near the top.",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up example results: how many objects it took to raise the water to the line",
-      "x": "What we dropped in",
-      "y": "Number of objects",
-      "note": "These numbers are made up, to show what a finished chart can look like. The thermocol floated and never reached the line, so we stopped at 20 pieces.",
-      "data": [
-       {
-        "label": "Big stones",
-        "value": 6,
-        "emoji": "🪨"
-       },
-       {
-        "label": "Small stones",
-        "value": 32,
-        "emoji": "⚪"
-       },
-       {
-        "label": "Thermocol (stopped at 20, never reached the line)",
-        "value": 20,
-        "emoji": "⬜"
-       }
-      ]
-     },
-     "how": "e1"
     },
     {
      "t": "draw",
@@ -2330,6 +2231,32 @@
      "why": "Scientists have several ideas about why animals play: practice, friendship, coping with surprises, and fun."
     },
     {
+     "t": "fill",
+     "p": "An object an animal uses to help them do a job is called a ____.",
+     "a": [
+      "tool"
+     ],
+     "why": "A crow's twig hook and a chimpanzee's grass stem are both tools."
+    },
+    {
+     "t": "write",
+     "p": "In the Thirsty Crow Test, big stones raised the water to the line with far fewer pieces than thermocol. Why?",
+     "lines": 3,
+     "a": "Stones sink and take up space under the water, so the water is pushed up. Big stones take up the most space. Thermocol floats on top, so it hardly pushes the water up at all.",
+     "why": "A sinking object pushes water out of the way, and the water has nowhere to go but up. Rooks and crows choose big, sinking stones first.",
+     "how": "e1",
+     "context": "In the Thirsty Crow Test, you dropped big stones, small stones or pieces of thermocol into a glass of water, and counted how many it took to raise the water to a line."
+    },
+    {
+     "t": "write",
+     "p": "In Be a Jay, you hid 8 groundnuts around the room and tried to find them the next day, with no map. What helped you remember where they were? How might a jay do the same?",
+     "lines": 3,
+     "a": "For example: I remembered that one was next to the plant pot and one was under the cushion. A jay also remembers landmarks near each hiding place, like a tree or a rock.",
+     "why": "Birds that hide food remember the things near each hiding place. Scientists showed this by moving the landmarks, and the birds then searched in the wrong spot.",
+     "how": "a2",
+     "context": "In Be a Jay, you hid 8 treats in a room and tried to find them all the next day, like a bird that hides seeds."
+    },
+    {
      "t": "order",
      "p": "Put these in order, smallest brain to biggest: crow, honeybee, human, dog.",
      "items": [
@@ -2340,6 +2267,52 @@
      ],
      "a": "order shown",
      "why": "A bee brain is smaller than a sesame seed, a crow's is about a walnut, a dog's is about a lemon, and ours weighs about as much as a medium cauliflower. But size alone does not tell you how clever an animal is."
+    },
+    {
+     "t": "perspective",
+     "p": "Meenakshi's dog Rani has chewed a chappal. Rani's head is low and her ears are back. People explain this look in different ways.",
+     "views": [
+      {
+       "who": "Meenakshi, in Class 3",
+       "says": "Rani feels guilty. She knows she did something wrong."
+      },
+      {
+       "who": "Alexandra Horowitz, a dog scientist, in 2009",
+       "says": "In my tests, dogs looked most 'guilty' when their owner scolded them, even if they had done nothing wrong."
+      },
+      {
+       "who": "Meenakshi's grandmother",
+       "says": "Rani may be feeling something real, but it may be worry about the scolding, not guilt about the chappal."
+      }
+     ],
+     "ask": "Who do you agree with? Give a reason. Then say one thing another person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side and uses evidence, for example Horowitz's test, or what the child has seen dogs do. It also admits a fair point from another side, for example that the dog clearly feels something, even if we do not know exactly what.",
+     "why": "Scientists agree that dogs feel fear and worry. Whether they feel guilt, which means knowing they broke a rule, is still argued about."
+    },
+    {
+     "t": "match",
+     "p": "Match each animal to what scientists saw them do.",
+     "pairs": [
+      [
+       "New Caledonian crow",
+       "bent a wire into a hook"
+      ],
+      [
+       "Chimpanzee",
+       "fished for termites with a grass stem"
+      ],
+      [
+       "Rook",
+       "dropped stones to raise water"
+      ],
+      [
+       "Dog",
+       "followed a pointing finger"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each of these was found in careful tests or long watching by scientists."
     }
    ]
   },
@@ -2394,20 +2367,6 @@
      "how": "e2"
     },
     {
-     "t": "mcq",
-     "p": "In the thirsty crow test, which object should a clever crow choose?",
-     "opts": [
-      "A floating piece of thermocol",
-      "A big sinking stone",
-      "A feather",
-      "A leaf"
-     ],
-     "a": 1,
-     "why": "Sinking things take up room under the water and push it up. Big stones push up the most. Floating things like thermocol, feathers and leaves barely raise the water. Rooks chose big stones first.",
-     "context": "This question is about the thirsty crow test. You drop things into a glass of water, one at a time, and count how many it takes to raise the water to a line near the top.",
-     "how": "e1"
-    },
-    {
      "t": "truefalse",
      "p": "A bigger brain always means a cleverer animal.",
      "a": false,
@@ -2437,18 +2396,6 @@
      "a": "pairs as given",
      "why": "Each of these scientists watched or tested animals carefully. Jane Goodall, Nicola Clayton and Anindita Bhadra are women who changed how we see animal minds.",
      "context": "This question is about four scientists from this unit who studied animal minds."
-    },
-    {
-     "t": "mcq",
-     "p": "Alexandra Horowitz tested the 'guilty look' of dogs in 2009. What did she find?",
-     "opts": [
-      "Dogs look guilty only when they did something wrong",
-      "Dogs looked most 'guilty' when the owner scolded them, even if they had done nothing wrong",
-      "Dogs never look guilty"
-     ],
-     "a": 1,
-     "why": "The look seemed to follow the owner's scolding, not the dog's actions. So it may mean 'please don't be angry'. Picking the first answer is what most owners believe, which is why the test was needed.",
-     "context": "Many dog owners say their dog looks guilty after chewing a chappal. This question is about a test of that idea."
     },
     {
      "t": "sort",
@@ -2489,14 +2436,12 @@
      "why": "Learning changes what an animal does, memory keeps it, play is for fun, and tool use means using an outside object for a job."
     },
     {
-     "t": "fill",
-     "p": "Crow Friends project: on day 1 the first crow came after 22 minutes. On day 7 they came after 3 minutes. That is ____ minutes faster.",
-     "a": [
-      "19",
-      "nineteen"
-     ],
-     "why": "22 take away 3 is 19. The crows came 19 minutes sooner. You can check: 3 + 19 = 22.",
-     "context": "This question is about the Crow Friends project. Each day for 7 days, a child put out a little rice at the same place and time, wearing the same cap, and timed how long the first crow took to come.",
+     "t": "write",
+     "p": "In Crow Friends, the first crow came after 22 minutes on day 1, and after only 3 minutes on day 7. Give two possible reasons. Then say how you could find out which reason is right.",
+     "lines": 3,
+     "a": "For example: the crows learned that the place and the person were safe, or more crows simply found out about the food. To tell, I could keep everything the same but wear a different cap, or put the rice out at a new place.",
+     "why": "A changing number can have more than one cause. A fair test changes one thing at a time to find out which cause matters.",
+     "how": "p1",
      "chart": {
       "type": "line",
       "title": "Made-up example results: minutes until the first crow came, each day",
@@ -2534,7 +2479,7 @@
        }
       ]
      },
-     "how": "p1"
+     "context": "This question is about the Crow Friends project. Each day for 7 days, a child put out a little rice at the same place and time, wearing the same cap, and timed how long the first crow took to come."
     },
     {
      "t": "mcq",
@@ -2592,18 +2537,48 @@
      "art": "Four empty boxes, each with a dog outline."
     },
     {
-     "t": "order",
-     "p": "Put the steps of the thirsty crow test in order.",
-     "items": [
-      "Fill the glass, and mark the starting line and a top line 2 cm higher",
-      "Guess how many objects you will need",
-      "Drop objects in one at a time and count",
-      "Write the number and draw a bar chart"
+     "t": "write",
+     "p": "Find the mistake. Ananya did the Thirsty Crow Test. She filled the glass higher for the small stones than for the big stones. Why can't she compare her two counts?",
+     "lines": 3,
+     "a": "Because she changed two things at once: the size of the stones and the starting water level. The small stones had less space to fill, so the count is not fair. She must start both at the same line.",
+     "why": "In a fair test, you change only one thing. Everything else, like the starting level and the glass, stays the same.",
+     "how": "e1",
+     "context": "In the Thirsty Crow Test, you dropped big stones, small stones or pieces of thermocol into a glass of water, and counted how many it took to raise the water to a line."
+    },
+    {
+     "t": "perspective",
+     "p": "Dogs are very good at following a pointing finger. Scientists explain why in different ways.",
+     "views": [
+      {
+       "who": "Brian Hare and his team",
+       "says": "Dogs are born ready to read people. Over thousands of years, dogs who read people best did best living with people."
+      },
+      {
+       "who": "Monique Udell, Clive Wynne and their team",
+       "says": "Dogs learn it while growing up with people. Wolves raised closely by people can learn to follow pointing too."
+      },
+      {
+       "who": "Anindita Bhadra's team in Kolkata",
+       "says": "Many street dogs in India follow pointing, though nobody trained them."
+      }
      ],
-     "a": "order shown",
-     "why": "Set up first, then guess, then test, then record. Guessing first keeps you honest.",
-     "context": "This question is about the thirsty crow test. You drop things into a glass of water, one at a time, and count how many it takes to raise the water to a line near the top.",
-     "how": "e1"
+     "ask": "Which explanation do you find most convincing? Use evidence. Then answer back from another side.",
+     "lines": 5,
+     "a": "A strong answer picks a side and uses the evidence given, for example that untrained street dogs follow pointing, or that wolves raised by people can learn it. It notices that street dogs also live around people, so they might learn it too. Many answers end up saying both are partly true.",
+     "why": "Many scientists today think both are true: dogs are born ready to watch people, and living with people makes them better at it."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Training Game, the learner heard a clap each time they moved closer to the secret action. How is this like teaching a dog to roll over?",
+     "opts": [
+      "The dog gets a small reward for each step closer, so they learn step by step",
+      "The dog is born knowing how to roll over",
+      "The dog learns by being told the whole action in words"
+     ],
+     "a": 0,
+     "why": "Animal trainers reward each small step, like lying down, then rolling to one side, then all the way over. The learner in the game did the same with claps. Picking 'born knowing' mixes learning up with instinct.",
+     "how": "a3",
+     "context": "In the Training Game, one player had to find a secret action, and the only clue was a clap each time they got closer."
     }
    ]
   },
@@ -2644,11 +2619,27 @@
      "why": "Octopuses and crows became clever on very different branches from us. So minds may have grown up at least twice. Picking 'close cousins' misses how long ago we split."
     },
     {
-     "t": "write",
-     "p": "Descartes said animals are like clever machines with no feelings. Darwin said animals have feelings like ours. Who do you agree with? Give one piece of evidence.",
-     "a": "Any answer with evidence, for example: Darwin, because dogs show fear with their bodies and avoid pain, just as we do.",
-     "why": "This is still argued about. Good answers use evidence, not just opinion.",
-     "context": "This question is about two thinkers who disagreed about whether animals feel: Rene Descartes in 1637 and Charles Darwin in 1872."
+     "t": "perspective",
+     "p": "Thinkers have disagreed for hundreds of years about whether animals feel.",
+     "views": [
+      {
+       "who": "René Descartes, a French thinker, in the 1600s",
+       "says": "Animals are like very clever machines. They move and make sounds, but they feel nothing inside."
+      },
+      {
+       "who": "Charles Darwin, in 1872",
+       "says": "Animals show fear, joy and anger with their faces and bodies, much as we do."
+      },
+      {
+       "who": "A careful scientist today",
+       "says": "Animals act as if they feel. But nobody can yet measure what anyone feels inside, so we should say what we can test."
+      }
+     ],
+     "ask": "Who do you agree with? Give one piece of evidence. Then answer back from another side.",
+     "lines": 5,
+     "a": "A strong answer picks a side and gives evidence, for example a scared dog's tucked tail, or bumblebees rolling balls for no reward. It answers back fairly, for example that we cannot see feelings directly, only what animals do.",
+     "why": "Most scientists today agree that mammals and birds feel, and many think other animals do too. How to test feelings is still argued about.",
+     "context": "This question is about whether animals feel, and three views on it."
     },
     {
      "t": "mcq",
@@ -2692,15 +2683,17 @@
      "why": "Tool use has been found in many very different animals, not just apes."
     },
     {
-     "t": "fill",
-     "p": "Thirsty crow test: 6 big stones raised the water to the line. How many would you need to do it twice, in two glasses? ____",
-     "a": [
-      "12",
-      "twelve"
+     "t": "mcq",
+     "p": "Sarah Jelbert and her team gave New Caledonian crows a choice. A treat floated in a tube of water, and another treat sat on top of a tube of sand. The crows could drop stones into either tube. Which did the crows choose more often?",
+     "opts": [
+      "The water tube, because stones raise water but not sand",
+      "The sand tube, because sand is easier to see",
+      "Both tubes the same"
      ],
-     "why": "6 stones for each glass, and 2 glasses. 6 + 6 = 12, or 2 times 6 is 12.",
-     "context": "This question is about the thirsty crow test. You drop things into a glass of water, one at a time, and count how many it takes to raise the water to a line near the top.",
-     "how": "e1"
+     "a": 0,
+     "why": "Dropping stones into water raises the water, and the treat comes up. Sand does not rise in the same way. The crows chose the water tube more often, so they seemed to understand what the stones would do.",
+     "how": "e1",
+     "context": "In the Thirsty Crow Test, you dropped big stones, small stones or pieces of thermocol into a glass of water, and counted how many it took to raise the water to a line."
     },
     {
      "t": "mcq",
@@ -2738,16 +2731,11 @@
      "why": "Babies younger than about 18 months usually do not touch the mark. By about two years old, most do."
     },
     {
-     "t": "mcq",
-     "p": "Clever Hans was right only when the asker knew the answer. Which kind of test showed this?",
-     "opts": [
-      "A blind test",
-      "A speed test",
-      "A strength test"
-     ],
-     "a": 0,
-     "why": "In a blind test, the asker did not know the answer. Then Hans failed. That showed the answer came from the asker's face and body.",
-     "context": "Clever Hans was a horse in Berlin who seemed to do sums by tapping his hoof."
+     "t": "write",
+     "p": "Your friend Tanvi says her parrot can count to three. Design a blind test to check. What must be true about the person asking the questions?",
+     "lines": 5,
+     "a": "For example: put 1, 2 or 3 groundnuts under a cloth, and let someone who did not see how many count out the answer with the parrot. The person asking must not know the answer, so they cannot give clues by mistake, as with Clever Hans.",
+     "why": "In a blind test, nobody near the animal knows the answer. Then any right answers must come from the animal."
     },
     {
      "t": "draw",
@@ -2818,14 +2806,14 @@
   },
   {
    "t": "mcq",
-   "p": "What did Betty the crow do in 2002?",
+   "p": "In 2002, Betty, a New Caledonian crow, bent a straight piece of wire into a hook to lift a bucket of food out of a tube. Why did this surprise scientists?",
    "opts": [
-    "Counted to ten",
-    "Bent a straight wire into a hook to get food",
-    "Learned to talk"
+    "She made a new tool for a new problem, from a material crows never meet in the wild",
+    "Crows had never been seen eating before",
+    "She asked a person for help"
    ],
-   "a": 1,
-   "why": "Betty bent a wire into a hook to lift a tiny bucket of food from a tube.",
+   "a": 0,
+   "why": "Using a tool you find is clever. Bending a wire into the right shape for a problem you have never met is harder, and few animals had been seen doing it. Picking 'asked a person' is wrong, because Betty did it on her own.",
    "outcome": 1
   },
   {
@@ -3233,9 +3221,9 @@
    "why_maths": "Timing in minutes turns 'the crows got quicker' into a clear number we can draw on a line chart and compare."
   },
   {
-   "problem": "In Be a Jay, Arjun hid 8 groundnuts. The next day he found 6. What fraction did he find? How many did he forget?",
-   "answer": "He found 6 out of 8, which is three quarters. He forgot 2.",
-   "explain": "8 take away 6 is 2, so he forgot 2. 6 out of 8 is the same as 3 out of 4, because 6 and 8 can both be halved. So he found three quarters.",
+   "problem": "In Be a Jay, Revathi hid 8 groundnuts. The next day she found 6. What fraction did she find? How many did she forget?",
+   "answer": "She found 6 out of 8, which is three quarters. She forgot 2.",
+   "explain": "8 take away 6 is 2, so she forgot 2. 6 out of 8 is the same as 3 out of 4, because 6 and 8 can both be halved. So she found three quarters.",
    "math_unit": "math.fractions.halves-and-quarters.L3",
    "context": "This is about Be a Jay. You hide 8 treats in a room, then try to find them the next day with no map, like a bird that hides seeds.",
    "how": "a2",

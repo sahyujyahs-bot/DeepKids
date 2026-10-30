@@ -584,45 +584,42 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Think: A filter catches things. A gill lets oxygen pass through into blood. How are they alike, and how are they different?
 
 ## Worksheets
-### Breathing and finding food: the basics (core, 16 questions)
-1. (mcq) Why do animals need oxygen?  
-   Options: Their cells use oxygen to get energy from food / Oxygen makes them heavier / Only so they can make sounds / They don't, only people need oxygen  
-   **Answer:** Their cells use oxygen to get energy from food. *Why:* Almost every cell uses oxygen to release the energy in food. This is respiration. Picking 'only people' is a common idea, but fish, worms, ants and elephants all need oxygen too.
+### Breathing and finding food: the basics (core, 15 questions)
+1. (mcq) A rohu is a river fish who never leaves the water. Does a rohu need oxygen?  
+   Options: Yes. Every cell in their body needs oxygen, and their gills take it out of the water / No. Fish live in water, so they do not need oxygen / Only when they jump out of the water  
+   **Answer:** Yes. Every cell in their body needs oxygen, and their gills take it out of the water. *Why:* Many people think fish do not breathe. But water has oxygen dissolved in it, and a fish's gills take it out. A rohu's cells use that oxygen to get energy from food, just as yours do.
 2. (fill) Fish take oxygen out of water with their ____.  
    **Answer:** ['gills']. *Why:* Gills are the feathery red parts under the flaps on a fish's head. Water flows over them and they take oxygen out.
-3. (fill) An earthworm has no lungs. They breathe through their damp ____.  
-   **Answer:** ['skin']. *Why:* Oxygen passes straight through an earthworm's thin, moist skin. If the skin dries out, the worm cannot breathe.
-4. (truefalse) A dolphin breathes with gills, like a fish.  
-   **Answer:** False. *Why:* False. Dolphins breathe air with lungs, through the blowhole on top of the head. That's why they keep coming up to the surface.
-5. (truefalse) Breathed-out air still has some oxygen in it.  
-   **Answer:** True. *Why:* True. Room air is about 21 parts in 100 oxygen. Breathed-out air is about 16 parts in 100. Your body takes in only a small part of the oxygen in each breath.
-6. (sort) Sort these animals by how they mainly breathe.  
+3. (sort) Sort these animals by how they mainly breathe.  
    **Answer:** cow → Lungs; rohu fish → Gills; earthworm → Skin only; crow → Lungs; crab → Gills; Ganges river dolphin → Lungs; lungless salamander → Skin only. *Why:* Land animals like cows and crows use lungs. So do dolphins, even though they live in water. Fish and crabs use gills. Earthworms and lungless salamanders breathe only through their skin.
-7. (match) Match each animal to how they mainly find food.  
-   **Answer:** Bat → echoes of their own sounds; Dog → smell; Eagle → sharp eyesight; Owl → hearing tiny rustles; Pit viper → sensing warmth. *Why:* Each animal relies most on the sense that suits their life. Bats hunt in the dark by echoes. Dogs follow smells. Eagles see far. Owls hear mice in the dark. Pit vipers feel the warmth of a mouse.
-8. (mcq) Look at the breath count chart. How many more breaths were taken after jumping than sitting still?  
-   Options: 20 more / 40 more / 60 more  
-   **Answer:** 20 more. *Why:* Sitting still the bar shows 20. After jumping it shows 40. 40 take away 20 is 20. Picking 40 means reading only one bar. To compare, we find the difference between the two bars.
-9. (mcq) In the limewater test, which glass turned milky first?  
-   Options: The one with breathed-out air / The one with room air from a squeezed bottle / Both at the same time  
-   **Answer:** The one with breathed-out air. *Why:* Carbon dioxide turns limewater milky, and breathed-out air has about 100 times as much carbon dioxide as room air. Picking 'both' would mean the two kinds of air were the same, but the test showed they are not.
-10. (order) Put the journey of oxygen in order, from outside to a cell in your leg.  
-   **Answer:** order shown. *Why:* Air comes in through the nose, down the windpipe, into the tiny air sacs. Oxygen passes into the blood, and the blood carries it to every cell.
-11. (mcq) Why is a fish's gill made of many thin, frilly threads?  
+4. (truefalse) You breathe on a cold steel tumbler and a mist appears. This shows your breath has water in it.  
+   **Answer:** True. *Why:* True. Your breath is warm and carries water as an invisible gas. On the cold steel it cools and turns back into tiny drops, which you see as mist.
+5. (mcq) Predict. You count your breaths for one minute sitting still. Then you run up two floors of stairs and count again. What will you find?  
+   Options: More breaths after the stairs, because working muscles need more oxygen / Fewer breaths, because you are tired / The same number, because lungs always work at one speed  
+   **Answer:** More breaths after the stairs, because working muscles need more oxygen. *Why:* Climbing stairs makes your leg muscles work hard. Working muscles use more oxygen and make more carbon dioxide, so you breathe faster. A strong answer gives the reason, not just the guess.
+6. (write) In the Limewater Test, the glass with your breath turned milky. The glass with room air stayed clear. Kavya, a girl in Class 3, says, 'The milky colour just comes from bubbles.' How does the room-air glass show she is wrong?  
+   **Answer:** Both glasses got bubbles, but only the breath glass went milky. So the bubbles alone did not do it. Something in breath, carbon dioxide, made the limewater milky.. *Why:* The room-air glass is the comparison. Everything was the same except the kind of air, so the difference must come from the air.
+7. (write) Why do frogs need to stay near water? Use the word skin in your answer.  
+   **Answer:** Frogs breathe partly through their skin. Their skin must stay damp for oxygen to pass through. If they go too far from water, their skin dries out and they cannot breathe well.. *Why:* Skin breathing only works when the skin is thin and damp.
+8. (mcq) Why is a fish's gill made of many thin, frilly threads?  
    Options: To give lots of surface for oxygen to pass through / To help them swim faster / To keep sand out of their eyes  
    **Answer:** To give lots of surface for oxygen to pass through. *Why:* More surface lets more oxygen in at once. Remember the towel test: the frilly towel dried much faster than the crumpled one. Picking 'swim faster' mixes gills up with fins.
-12. (draw) Draw a fish. Draw arrows to show where water goes in and where it goes out. Colour the gills.  
+9. (draw) Draw a fish. Draw arrows to show where water goes in and where it goes out. Colour the gills.  
    **Answer:** An arrow into the mouth, an arrow out from under the gill cover, and red gills under the cover.. *Why:* Water goes in at the mouth, flows over the gills, and goes out under the gill cover.
-13. (truefalse) Animals breathe faster when they are resting.  
-   **Answer:** False. *Why:* False. Animals breathe faster when they are active, because their muscles need more oxygen. Resting and sleeping animals breathe slowest.
-14. (mcq) A flamingo sieves tiny shrimps from lake water. What kind of eater is the flamingo?  
-   Options: A filter feeder / A scavenger / A grazer  
-   **Answer:** A filter feeder. *Why:* A filter feeder sieves tiny food out of water. A scavenger eats animals that have already died. A grazer eats grass or plants slowly for hours.
-15. (write) Why do frogs need to stay near water? Use the word skin in your answer.  
-   **Answer:** Frogs breathe partly through their skin. Their skin must stay damp for oxygen to pass through. If they go too far from water, their skin dries out and they cannot breathe well.. *Why:* Skin breathing only works when the skin is thin and damp.
-16. (mcq) Ants on a sugar trail walk in a line. Why?  
-   Options: They follow a smell trail left by the first ant / They are holding hands / The wind blows them in a line  
-   **Answer:** They follow a smell trail left by the first ant. *Why:* The ant that finds food leaves a smell trail on their way home. Other ants follow it with their antennae. That's why they walk in a line.
+10. (match) Match each animal to how they mainly find food.  
+   **Answer:** Bat → echoes of their own sounds; Dog → smell; Eagle → sharp eyesight; Owl → hearing tiny rustles; Pit viper → sensing warmth. *Why:* Each animal relies most on the sense that suits their life. Bats hunt in the dark by echoes. Dogs follow smells. Eagles see far. Owls hear mice in the dark. Pit vipers feel the warmth of a mouse.
+11. (mcq) A dolphin lives in the sea all the time. Why does a dolphin keep coming up to the surface?  
+   Options: They breathe air with lungs, through the blowhole on top of their head / They come up to look for birds / Their gills need fresh air to dry them  
+   **Answer:** They breathe air with lungs, through the blowhole on top of their head. *Why:* Dolphins are mammals, not fish. They have lungs, not gills, so they must come up to breathe air. Picking 'gills' is a common mix-up, because dolphins live in water like fish.
+12. (mcq) Ants on a sugar trail walk in a line. Why?  
+   Options: They follow a smell trail left by the ants who found the food / They can see the sugar from far away / The wind blows them in a line  
+   **Answer:** They follow a smell trail left by the ants who found the food. *Why:* An ant who finds food leaves a smell trail on the way home. Other ants follow it with their antennae, so they walk in a line. Picking 'see the sugar' is a natural guess, but ants find food mostly by smell.
+13. (truefalse) Bats are blind.  
+   **Answer:** False. *Why:* False. All bats can see, and many see well. Many bats that hunt insects at night also use echolocation: they make high sounds and listen for the echoes. 'As blind as a bat' is an old saying, not a fact.
+14. (write) In the Mouth Tools Buffet, you tried kitchen tools as animal mouths. A flamingo's beak works like a sieve. A cow has wide, flat teeth. What does each mouth tell you about how that animal gets food?  
+   **Answer:** The flamingo's sieve beak lets water out and keeps tiny shrimps and algae in, so she is a filter feeder. The cow's flat teeth grind grass, so she is a grazer who chews plants for hours.. *Why:* An animal's mouth fits the way they get food. A strong answer links each mouth shape to the food and how it is eaten.
+15. (perspective) Three friends argue about which way of breathing is best.  
+   **Answer:** A strong answer picks a side and gives a reason, for example that air holds much more oxygen. It then admits a fair point from another side, for example that a breathing part is best only where the animal lives. It may say that all three are thin, damp and close to blood.. *Why:* There is no single winner. Each breathing part suits the place the animal lives. Lungs suit air, gills suit water, and a frog's skin helps in both, as long as it stays damp.
 ### Breathing and finding food: think further (stretch, 15 questions)
 1. (mcq) A fish has gills full of blood. Out of water, they usually die, even though air has more oxygen than water. Why?  
    Options: Their soft gill threads stick together and dry out, so there is too little surface / Air is poisonous to fish / Fish get cold in air  
@@ -630,37 +627,37 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 2. (mcq) Your diaphragm is a sheet of muscle under your lungs. What does it do when you breathe in?  
    Options: It pulls down, making space, and air rushes into the lungs / It pushes air up into the nose / It squeezes the heart  
    **Answer:** It pulls down, making space, and air rushes into the lungs. *Why:* When the diaphragm pulls down, there is more space in the chest, and air flows in to fill it. That's what the bottle lung showed. Picking 'pushes air up' is what happens when you breathe out, not in.
-3. (truefalse) Insects have small lungs inside their bodies.  
-   **Answer:** False. *Why:* False. Insects have no lungs. Air goes in through tiny holes called spiracles along their sides, and travels down thin pipes to every part of the body.
-4. (fill) The tiny holes along the sides of a grasshopper, where air goes in, are called ____.  
-   **Answer:** ['spiracles']. *Why:* Spiracles lead into air pipes that branch through the insect's body.
-5. (mcq) The climbing perch can live out of water for hours. What lets them do this?  
+3. (write) A grasshopper has no lungs. How does air reach the muscles in the grasshopper's legs?  
+   **Answer:** Air goes in through tiny holes along the grasshopper's sides, called spiracles. It travels down thin air pipes that branch again and again until they reach every muscle. So air goes straight to the cells.. *Why:* In insects, air pipes carry oxygen right to the cells, so their blood does not have to carry much oxygen.
+4. (mcq) The climbing perch can live out of water for hours. What lets them do this?  
    Options: A labyrinth organ above their gills that takes oxygen from air / They hold their breath for a very long time / They don't need oxygen when they're dry  
    **Answer:** A labyrinth organ above their gills that takes oxygen from air. *Why:* The climbing perch has a folded, maze-like labyrinth organ above their gills. They gulp air and take oxygen from it, as long as their body stays damp. Picking 'hold their breath' would only work for a short time.
-6. (match) Match each way of getting food to an animal that uses it.  
-   **Answer:** grazing → cow; chasing → cheetah; waiting still → crocodile; filtering water → flamingo; trapping → spider; scavenging → vulture. *Why:* Each animal's body fits their way of eating: flat teeth for grazing, long legs for chasing, stillness for waiting, a sieve beak for filtering, a web for trapping, and a strong stomach for scavenging.
-7. (mcq) Look at the ant chart. How many ants were on the sugar and biscuit together?  
-   Options: 39 / 25 / 24  
-   **Answer:** 39. *Why:* 24 ants on the sugar plus 15 on the biscuit makes 24 + 15 = 39. Picking 25 means adding the sugar and the salt instead. Read the labels under each bar carefully.
-8. (mcq) A Ganges river dolphin is nearly blind and lives in muddy water. How do they find fish?  
+5. (mcq) Look at the ant chart. Most ants went to the sugar and almost none to the salt. Predict: if you put out jaggery instead of salt, what would you expect?  
+   Options: Many ants, like on the sugar, because jaggery is mostly sugar too / No ants, because jaggery is brown / Exactly one ant, like on the salt  
+   **Answer:** Many ants, like on the sugar, because jaggery is mostly sugar too. *Why:* Jaggery is mostly sugar, which is energy food for ants. So it should get many ants, like the sugar. Picking 'brown' would matter only if ants found food by colour, but they find it mostly by smell.
+6. (mcq) A Ganges river dolphin is nearly blind and lives in muddy water. How do they find fish?  
    Options: They send out clicks and listen to the echoes / They see them with big eyes / They wait for fish to jump into their mouth  
    **Answer:** They send out clicks and listen to the echoes. *Why:* The Ganges river dolphin uses echolocation. They send out clicks, and the echoes tell them where fish are. Their eyes are tiny because seeing doesn't help much in muddy water.
-9. (truefalse) A mosquito can find you in the dark by sensing the carbon dioxide you breathe out.  
+7. (truefalse) A mosquito can find you in the dark by sensing the carbon dioxide you breathe out.  
    **Answer:** True. *Why:* True. Mosquitoes sense carbon dioxide from a distance, then follow warmth and smell close up.
-10. (order) Put these in order, from fewest breaths a minute to most: elephant, child, mouse.  
+8. (order) Predict the order, from fewest breaths a minute to most: elephant, child, mouse.  
    **Answer:** order shown. *Why:* Big animals usually breathe more slowly than small ones. An elephant takes only a few breaths a minute. A child takes about 20. A mouse takes more than 100.
-11. (write) In the limewater test, why did we also push room air into a second glass?  
-   **Answer:** To make it a fair test. We needed to compare breathed-out air with ordinary air. If only the breath glass went milky, we know it was something in the breath, carbon dioxide, and not just bubbles.. *Why:* A comparison shows that the milkiness comes from what is in breath, not from bubbling.
-12. (mcq) Why do mammals like dolphins and whales store extra oxygen in their blood and muscles?  
+9. (write) A cheetah hunts by chasing. A crocodile hunts by waiting. Which do you think needs to breathe faster while hunting? Why?  
+   **Answer:** The cheetah. Chasing at high speed uses a lot of muscle, and working muscles need a lot of oxygen. A crocodile waiting still uses very little oxygen.. *Why:* Breathing rate goes with how hard the muscles are working.
+10. (label) Label the parts on the drawing of the breathing system: nose, windpipe, lungs, diaphragm.  
+   **Answer:** ['nose', 'windpipe', 'lungs', 'diaphragm']. *Why:* Air goes in through the nose, down the windpipe, into the lungs. The diaphragm under the lungs pulls down to bring air in.
+11. (match) Match each way of getting food to an animal that uses it.  
+   **Answer:** grazing → cow; chasing → cheetah; waiting still → crocodile; filtering water → flamingo; trapping → spider; scavenging → vulture. *Why:* Each animal's body fits their way of eating: flat teeth for grazing, long legs for chasing, stillness for waiting, a sieve beak for filtering, a web for trapping, and a strong stomach for scavenging.
+12. (perspective) Earthworms often lie on wet roads after heavy rain. People explain this in different ways.  
+   **Answer:** A strong answer picks one idea and gives evidence, for example that worms breathe through damp skin. It plans a fair test, for example drumming on damp soil with no rain to see if worms come up. It also says what is good about another idea.. *Why:* Scientists still argue about this, and more than one reason may be true. Testing one idea at a time is how they find out.
+13. (write) In the story 'The Fish in the Palm Tree', Selvi's grandmother keeps climbing perch in a pot of wet mud and wet leaves. The fish live for days. Why must the mud stay damp, even for a fish that breathes air?  
+   **Answer:** The climbing perch gulps air, but oxygen still has to pass through a thin, damp surface into the blood. If the fish dries out, their gills and labyrinth organ stop working, and they cannot breathe.. *Why:* Every breathing surface must be damp, because oxygen has to dissolve in water before it can pass into blood.
+14. (mcq) Why do mammals like dolphins and whales store extra oxygen in their blood and muscles?  
    Options: So they can stay underwater longer while hunting / To make them float / To keep their skin wet  
    **Answer:** So they can stay underwater longer while hunting. *Why:* Diving animals can't breathe underwater. Extra stored oxygen lets them hunt for longer before coming up. Some deep-diving whales stay down for over an hour.
-13. (label) Label the parts on the drawing of the breathing system: nose, windpipe, lungs, diaphragm.  
-   **Answer:** ['nose', 'windpipe', 'lungs', 'diaphragm']. *Why:* Air goes in through the nose, down the windpipe, into the lungs. The diaphragm under the lungs pulls down to bring air in.
-14. (odd) Which one is the odd one out, and why? Earthworm, rohu fish, crab, prawn.  
-   **Answer:** earthworm. *Why:* The earthworm breathes through their skin. The rohu, crab and prawn all breathe with gills.
-15. (write) A cheetah hunts by chasing. A crocodile hunts by waiting. Which do you think needs to breathe faster while hunting? Why?  
-   **Answer:** The cheetah. Chasing at high speed uses a lot of muscle, and working muscles need a lot of oxygen. A crocodile waiting still uses very little oxygen.. *Why:* Breathing rate goes with how hard the muscles are working.
-### Breathing and finding food: big thinking (challenge, 16 questions)
+15. (truefalse) A crab who walks on the beach breathes with gills.  
+   **Answer:** True. *Why:* True. Crabs breathe with gills, even on land. They keep their gills damp inside a covered space on each side of their body. If the gills dry out, the crab cannot breathe.
+### Breathing and finding food: big thinking (challenge, 15 questions)
 1. (write) Lungs, gills and frog skin look very different. Write three things they all have in common.  
    **Answer:** They are thin. They are damp. They have lots of surface, and blood flows just underneath.. *Why:* All breathing surfaces work the same way: oxygen passes through a thin, wet wall into blood.
 2. (mcq) Water holds about 30 times less oxygen than air. What would you expect a fish to do in warm, still water with even less oxygen?  
@@ -668,38 +665,34 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
    **Answer:** Move their gill covers faster, or come to the surface. *Why:* With less oxygen in the water, a fish must push more water over their gills, so they pump faster. Some fish come to the surface, where the water has a little more oxygen. Picking 'stop breathing' would be fatal. Every cell needs a steady supply.
 3. (truefalse) The oxygen you breathe was put into the air by plants and tiny sea algae.  
    **Answer:** True. *Why:* True. Plants and algae make oxygen when they make food from sunlight. Scientists think about half of the oxygen made each year comes from tiny algae in the sea.
-4. (mcq) Charles Darwin thought swim bladders came first and later turned into lungs. Many biologists today think the opposite. What does this show about science?  
-   Options: Scientists change their ideas when new evidence comes in / Darwin was always wrong / Nobody knows anything about fish  
-   **Answer:** Scientists change their ideas when new evidence comes in. *Why:* Science improves when new evidence is found, such as studies of old kinds of fish and fossils. Darwin got many big things right. Changing one idea does not make all his work wrong.
-5. (write) Why can't you see oxygen going into your blood, even though it happens with every breath?  
-   **Answer:** Oxygen is a gas with no colour. It passes into the blood through walls thinner than tissue paper, inside the lungs, where we can't see.. *Why:* Oxygen has no colour, and it passes into the blood deep inside the lungs, through walls far too thin to see.
+4. (perspective) Scientists have argued about where lungs came from.  
+   **Answer:** A strong answer picks a side and names evidence, for example that some old kinds of fish alive today, like lungfish, have lungs and gulp air in muddy water. It explains why Darwin's idea seemed sensible: both are air bags in the body. It says that new evidence can change scientists' minds.. *Why:* Darwin's idea was reasonable for his time. Studies of living fish and fossils now point the other way. Science changes when evidence changes.
+5. (write) Bar-headed geese fly over the Himalayas, where each breath of air holds much less oxygen. Predict two things about their bodies that would help them get enough oxygen.  
+   **Answer:** For example: big lungs that take in a lot of air, blood that picks up oxygen very easily, a strong heart that pumps fast, or breathing deeply. Real bar-headed geese have all of these.. *Why:* When each breath carries less oxygen, an animal needs to take in more air or pick up oxygen better.
 6. (mcq) Some bats eat moths. Many moths can hear bat sounds. What might a moth do when they hear a bat?  
    Options: Dive, dodge or drop to the ground / Fly straight towards the bat / Sing back louder  
    **Answer:** Dive, dodge or drop to the ground. *Why:* Many moths dodge or drop when they hear a bat's high sounds. Some even make clicks that confuse bats. Predator and prey keep changing each other over a very long time.
-7. (write) Earthworms come up onto roads after rain. Scientists have three ideas: to breathe, to travel, or to escape moles. Pick the one you think is most likely and say how you could test it.  
-   **Answer:** For example: I think they come up to travel. I could put worms in two trays of soil, one wet and one dry, and see where they move. Or I could put a worm in a jar of water that has air bubbled through it, and see if they stay healthy.. *Why:* Any careful test idea is a good answer. Scientists are still testing these ideas.
-8. (mcq) A Cuvier's beaked whale stayed underwater for 222 minutes. About how many hours is that?  
-   Options: Nearly 4 hours / About 2 hours / About 22 hours  
-   **Answer:** Nearly 4 hours. *Why:* One hour is 60 minutes. Four hours is 240 minutes. 222 is a bit less than 240, so nearly 4 hours. Picking 22 hours means reading the digits instead of dividing by 60.
-9. (truefalse) Almost every cell in your body uses oxygen, not just your lungs.  
-   **Answer:** True. *Why:* True. The lungs only bring oxygen in. Cells in your toes, your brain and your eyes use it to get energy from food. Red blood cells are an exception: they carry oxygen but do not use it.
-10. (mcq) The tiny energy parts in your cells, called mitochondria, use oxygen. Where did scientists find they came from?  
+7. (mcq) A Cuvier's beaked whale once stayed under water for 222 minutes, nearly 4 hours. Which is the best reason a whale can do this?  
+   Options: They store a lot of oxygen in their blood and muscles, and their heart slows down while diving / They have gills hidden behind their flippers / They breathe through their skin under water  
+   **Answer:** They store a lot of oxygen in their blood and muscles, and their heart slows down while diving. *Why:* Whales have lungs and no gills, so they cannot breathe under water. Their blood and muscles hold extra oxygen, and their body uses it slowly while diving. Picking 'gills' is the old idea that whales are fish.
+8. (truefalse) Plants make oxygen, so plants never need to take oxygen in.  
+   **Answer:** False. *Why:* False. Plant cells also use oxygen to get energy from their food, day and night. In sunlight, plants make much more oxygen than they use. At night, they only take it in.
+9. (mcq) The tiny energy parts in your cells, called mitochondria, use oxygen. Where did scientists find they came from?  
    Options: Tiny bacteria that moved into bigger cells long ago / From eating fish / From the air  
    **Answer:** Tiny bacteria that moved into bigger cells long ago. *Why:* Lynn Margulis argued in 1967 that mitochondria came from bacteria living inside bigger cells. DNA tests later showed she was right. So the parts of your cells that use oxygen were once bacteria.
-11. (write) Kamala Sohonie was the first Indian woman to earn a PhD in science, in 1939. She found that plant cells have cytochrome c, a substance animal cells also use in breathing. What does her discovery tell us about plants and animals?  
+10. (write) Kamala Sohonie was the first Indian woman to earn a PhD in science, in 1939. She found that plant cells have cytochrome c, a substance animal cells also use in breathing. What does her discovery tell us about plants and animals?  
    **Answer:** Plants and animals use some of the same parts to breathe. Their cells work in a similar way, even though they look so different.. *Why:* Plants and animals use some of the same chemicals to use oxygen. This makes sense, because all living things share one ancestor.
-12. (mcq) Bar-headed geese fly over the Himalayas, where the air is thin. What does 'thin air' mean for breathing?  
-   Options: Each breath has less oxygen in it / The air is very cold, so it can't be breathed / There is no air at all  
-   **Answer:** Each breath has less oxygen in it. *Why:* High up, the air is spread out more, so each breath carries less oxygen. Bar-headed geese have blood that picks up oxygen easily, big lungs and strong hearts. Picking 'no air at all' is too strong. There is air, just less of it in each breath.
-13. (sort) Sort these senses: which ones do people have, and which do only some other animals have?  
-   **Answer:** smell → People have it; echolocation → Only some other animals; sensing heat with face pits → Only some other animals; hearing → People have it; feeling electricity in water → Only some other animals; sight → People have it. *Why:* People see, hear, smell, taste and touch. Bats and dolphins use echolocation. Pit vipers sense heat. Sharks feel electricity. Some blind people do learn to use clicks and echoes too, which shows how much a brain can learn.
-14. (write) Design a breathing part for an animal that lives in thick mud with almost no oxygen. Draw it and explain why it would work.  
+11. (sort) Imagine the bottom of a dark, muddy river. Sort these senses: which would work well there, and which would hardly work?  
+   **Answer:** smell and taste → Would work well; echolocation → Would work well; seeing colours → Would hardly work; feeling with whiskers → Would work well; spotting prey from far away by sight → Would hardly work; feeling electricity in the water → Would work well. *Why:* Light hardly reaches muddy water, so eyes help little. Smell, taste, touch, echoes and electricity all work in the dark. The Ganges river dolphin uses echoes, and catfish taste the water with their whiskers.
+12. (write) Design a breathing part for an animal that lives in thick mud with almost no oxygen. Draw it and explain why it would work.  
    **Answer:** For example: a long tube like a snorkel reaching up to the air, or skin with many folds to give lots of surface, or a mouth that gulps air like the climbing perch.. *Why:* Good designs give lots of surface, stay damp, or reach air.
-15. (mcq) A gill takes oxygen from water. A lung takes oxygen from air. A frog's skin takes oxygen from both. What do all three really do?  
-   Options: Let oxygen pass through a thin, damp wall into blood / Store oxygen for later / Make oxygen from food  
-   **Answer:** Let oxygen pass through a thin, damp wall into blood. *Why:* All three are thin, damp walls with blood underneath. Oxygen passes through into the blood. Picking 'make oxygen' mixes animals up with plants. Plants and algae make oxygen. Animals only take it in.
-16. (write) In the limewater test, your breath turned the water milky. The carbon dioxide in your breath was made in your cells. Where did the carbon in it come from?  
+13. (mcq) Karthik, a boy in Class 4, says, 'We breathe in oxygen and breathe out carbon dioxide instead.' His sister Divya has done the Limewater Test and read about breath. What should Divya tell him?  
+   Options: Breathed-out air still has a lot of oxygen. It also has much more carbon dioxide than room air / He is completely right / We breathe out only water  
+   **Answer:** Breathed-out air still has a lot of oxygen. It also has much more carbon dioxide than room air. *Why:* Room air has about 21 parts in 100 oxygen, and breathed-out air still has about 16. Your body takes only a small part of the oxygen in each breath. Breath also carries about 100 times more carbon dioxide than room air.
+14. (write) In the limewater test, your breath turned the water milky. The carbon dioxide in your breath was made in your cells. Where did the carbon in it come from?  
    **Answer:** From my food. My cells used oxygen to break down the food for energy. The carbon in the food came out as carbon dioxide, and I breathed it out.. *Why:* Respiration turns food and oxygen into energy, carbon dioxide and water. So part of every meal leaves the body in the breath.
+15. (match) Match each animal's problem to the body part or trick that solves it.  
+   **Answer:** climbing perch, in warm water with little oxygen → a labyrinth organ to breathe gulped air; Cuvier's beaked whale, with no air for hours → oxygen stored in blood and muscles; earthworm, living in soil → thin, damp skin that takes in oxygen; grasshopper, whose muscles need air → air pipes that reach every part of the body. *Why:* Each body solves the same problem, getting oxygen to the cells, in a way that fits where the animal lives.
 
 ## Videos
 - **How Do Fish Breathe? Animal Science for Kids** (SciShow Kids, 3 min) id `zj5v3n6Nlm8`: A short, clear video for children on how gills take oxygen out of water. *Check:* Found by YouTube search for 'how do fish breathe gills'. Title and channel checked automatically. A parent may still preview it.
@@ -707,9 +700,9 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **Gangetic River Dolphin communication through ultrasound clicks** (Wildlife Conservation Trust, 1 min) id `hXVkH_2Y2WM`: A one-minute clip from an Indian conservation group about the clicks the Ganges river dolphin uses. They breathe air and find food by echoes. *Check:* Found by YouTube search for 'ganges river dolphin echolocation'. Title and channel checked automatically. A parent should preview it, as it is short and may need explaining.
 
 ## Quiz
-1. (mcq) Why do animals need oxygen?  
-   Options: Their cells use oxygen to get energy from food / Only to make their blood red / They don't. Only land animals need oxygen  
-   **Answer:** Their cells use oxygen to get energy from food. *Why:* Almost every cell uses oxygen to release energy from food. Picking 'only land animals' is a common idea, but fish, crabs and worms need oxygen too. They just get it in different ways.
+1. (mcq) A dog is fast asleep and not moving at all. Why does she still breathe?  
+   Options: Her cells still need oxygen to get energy from food, even in sleep / To keep her nose wet / She doesn't. Animals stop breathing in sleep  
+   **Answer:** Her cells still need oxygen to get energy from food, even in sleep. *Why:* Even asleep, a dog's heart beats, her brain works and her body stays warm. All of that uses energy, so her cells keep using oxygen. She just breathes more slowly than when she runs.
 2. (mcq) How does a fish get oxygen?  
    Options: Water flows in at their mouth, over their gills, and out under the gill covers / They come to the surface to breathe air, like a dolphin / They don't need oxygen  
    **Answer:** Water flows in at their mouth, over their gills, and out under the gill covers. *Why:* Fish pump water over their gills, which take oxygen out of the water. Picking 'like a dolphin' mixes up fish and dolphins. Dolphins have lungs and must come up for air.
@@ -746,9 +739,9 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 13. (mcq) Your lungs bring oxygen in. Which parts of you actually use it?  
    Options: Almost every cell in your body / Only your lungs / Only your heart  
    **Answer:** Almost every cell in your body. *Why:* The lungs are like a door. The blood carries oxygen to the cells, from your toes to your brain. Each cell uses it to get energy from food. Picking 'only lungs' is the most common mix-up. Taking in oxygen and using it happen in different places.
-14. (mcq) Your breath turned limewater milky because it has carbon dioxide in it. Where did the carbon in that gas come from?  
-   Options: From the food you ate / From the chuna / From the room air you breathed in  
-   **Answer:** From the food you ate. *Why:* Your cells use oxygen to get energy from food, and the carbon in the food comes out as carbon dioxide. Picking 'room air' is a fair guess, but room air has about 100 times less carbon dioxide than your breath. Picking 'the chuna' mixes up the test with the thing being tested.
+14. (mcq) Plants take in carbon dioxide to make their food. You breathe carbon dioxide out. What does this mean?  
+   Options: Some carbon from the food you ate can end up in a plant's leaf / Plants and people never share anything / Plants make carbon dioxide for us to breathe  
+   **Answer:** Some carbon from the food you ate can end up in a plant's leaf. *Why:* The carbon in your breath came from your food. A plant can take in that carbon dioxide and build it into a new leaf. Picking 'plants make carbon dioxide for us' gets it backwards. Plants give out oxygen in sunlight.
 
 ## Applications
 - Doctors count breaths per minute to check if a person is unwell. Fast breathing at rest can be a sign of illness.

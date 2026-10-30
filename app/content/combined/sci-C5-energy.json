@@ -1,0 +1,1416 @@
+{
+ "key": "combined|sci|5|energy",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "energy",
+ "title": "Energy: where it comes from, where it goes, and why it is never lost",
+ "source": "DeepKids Combined. Covers NCERT Class 5 Chapter 7 'Energy: How Things Work' (energy in everyday life, forms of energy at home and in society, how energy makes things work, clean and efficient energy) and NIOS Level 5 Lesson 10 'Sources of Energy and their Importance' (why we need energy, sources and kinds of energy, alternative sources, saving energy). It goes further into kinetic and stored energy, conservation of energy, heat from friction, efficiency, food energy and ATP, the Sun behind food chains and fuels, how a power station works, and watts and units. No textbook needed.",
+ "summary": "A bottle swinging on a string never comes back as high as where it started. So where did the missing energy go? Your child finds out that energy is never made or destroyed. It swaps between moving and stored, and in the end it spreads out as heat. They drop a lime into flour from different heights, warm a coin by rubbing it, burn a cashew to see the energy stored in food, and melt ice on black and white cloth. They spin a pinwheel with steam the way a power station spins its turbine, read the watts on every appliance at home, and make a family energy plan. Along the way they follow almost all of it back to the Sun.",
+ "builds_on": "In Class 4 your child found energy around them, drew energy chains, saw a fan change electrical energy into movement and sound, and learned that a cooling cup of chai does not lose its energy but passes it to the air. They followed energy along food chains from plants to animals. This rung asks how much and why: why moving energy grows so fast with speed, why every change wastes some energy as heat, where food, fuel and electricity get their energy from, and how to measure and save it. Later classes go on to work and power with numbers, heat engines, the electromagnetic spectrum, and how stars make energy by fusion.",
+ "goals": [
+  "By the end your child can name the forms of energy (kinetic, stored, thermal, light, sound, electrical) and spot each one at home.",
+  "By the end your child can explain how a swinging bottle swaps stored energy and moving energy, and why it never comes back as high.",
+  "By the end your child can explain conservation of energy with their own evidence: rubbing makes heat, and wasted energy spreads out as heat.",
+  "By the end your child can read the kilocalories on a food packet, and explain how their body gets energy from food and oxygen.",
+  "By the end your child can trace food, wood, coal, wind and rivers back to the Sun, and sort energy sources into renewable and non-renewable.",
+  "By the end your child can explain how a power station makes electricity, work out units from watts and hours, and suggest ways their family can save energy."
+ ],
+ "words": [
+  [
+   "energy",
+   "what is needed to make any change happen: to move something, heat it, light it up or make a sound"
+  ],
+  [
+   "kinetic energy",
+   "the energy a thing has because it is moving. A rolling ball and a running child have kinetic energy."
+  ],
+  [
+   "stored energy",
+   "energy kept ready to be used later, also called potential energy. Water in a tank on the roof, a stretched rubber band and food all hold stored energy."
+  ],
+  [
+   "thermal energy",
+   "the energy of heat. The hotter a thing is, the more thermal energy it has."
+  ],
+  [
+   "conservation of energy",
+   "the rule that energy is never made or destroyed. It only moves from one thing to another or changes form."
+  ],
+  [
+   "efficiency",
+   "how much of the energy put in comes out as the useful kind. An LED bulb is more efficient than an old bulb, because less of its energy is wasted as heat."
+  ],
+  [
+   "kilocalorie",
+   "the unit for energy in food, written kcal on packets. One kilocalorie can warm one litre of water by one degree Celsius."
+  ],
+  [
+   "fossil fuel",
+   "a fuel made from living beings that were buried for millions of years, such as coal, oil and natural gas"
+  ],
+  [
+   "renewable",
+   "an energy source that does not run out, such as sunlight, wind and flowing water. Coal, oil and gas are non-renewable."
+  ],
+  [
+   "generator",
+   "a machine that makes electricity when a magnet spins inside coils of wire. A turbine is the wheel of blades that steam, water or wind pushes round to turn it."
+  ],
+  [
+   "watt",
+   "the unit that says how fast something uses energy. A 2000-watt geyser uses energy 40 times as fast as a 50-watt fan."
+  ],
+  [
+   "unit (kilowatt-hour)",
+   "the amount of electricity on your bill. One unit is what a 1000-watt machine uses in one hour."
+  ]
+ ],
+ "subconcepts": [
+  "energy is what makes any change happen, and a living body uses it even at rest",
+  "kinetic energy: the energy of moving things, which becomes four times as much when the speed doubles",
+  "stored energy: in height, in a stretch, and in the chemicals of food and fuel",
+  "energy swaps between stored and moving, as in a swinging pendulum",
+  "conservation of energy: energy is never made or destroyed (Mayer and Joule)",
+  "friction turns movement into heat",
+  "energy spreads out as heat and cannot all be gathered back: useful and wasted energy",
+  "efficiency: LED bulbs, lids on pots, and power stations",
+  "food energy: the kilocalorie, and cells releasing energy with oxygen through ATP",
+  "the Sun behind almost all energy: photosynthesis, and how little passes along a food chain",
+  "dark surfaces absorb sunlight, light ones reflect it, and the greenhouse effect",
+  "fossil fuels are stored ancient sunlight: renewable and non-renewable sources",
+  "how electricity is made: turbines, generators and solar panels, and using electricity safely",
+  "power and its units: watts, and the kilowatt-hour on the meter",
+  "saving energy, and who pays the hidden costs of energy"
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Energy at rest and energy on the move",
+   "goal": "Recall Class 4, then see stored energy and moving energy swap in a swinging bottle.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What do you remember?",
+     "mins": 5,
+     "do": "Ask: 'In Class 4 we watched a cup of chai cool down. Did its energy disappear?' Good answer: 'No. It passed into the air and the cup, and spread out.' Ask: 'Name something at home that changes electrical energy into movement.' (A fan, a mixie, a washing machine.) Ask: 'In a food chain, where does the energy start?' (In plants, which use sunlight.) Say: 'This time we find out why moving things carry so much energy, where all our energy comes from, and how to measure it.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Slow Blue Flame",
+     "mins": 12,
+     "do": "Read the story aloud. It is told by Ponni, a cow in a village near Thanjavur. Don't explain it. Ask one question: 'Ponni says nothing in the blue flame was new. What does she mean?' Write your child's answer on the first page of an 'Energy notebook'. You will come back to it on Day 5."
+    },
+    {
+     "kind": "talk",
+     "title": "Your body uses energy even now",
+     "mins": 8,
+     "do": "Ask your child to sit very still for one minute. Ask: 'Are you using energy right now?' Let them guess and give a reason. Then ask them to find their pulse on the wrist with two fingers and count beats for 15 seconds. Ask them to press their palms to their cheeks. Ask: 'What is your heart doing? Why are your hands warm?' Good answer: 'My heart is pumping, and my body is making heat.' Say: 'Energy is what is needed to make any change happen. Even asleep, your heart beats, you breathe, and your brain works. Your brain alone uses about a fifth of a grown-up's resting energy. Over a whole day, a grown-up's body gives off heat about as fast as a 100-watt bulb.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The bottle that will not hit your nose",
+     "mins": 15,
+     "do": "Do Experiment e1. A grown-up goes first, to show it is safe. Ask before your child tries: 'If I let go of the bottle at my nose without pushing, will it hit me when it swings back? Why?' Write the guess. Then your child stands against the wall, holds the bottle touching their nose, and lets go without pushing. Ask: 'Where was the bottle fastest? Where did it stop for a moment?' Good answers: 'Fastest at the bottom. It stopped at each end.' Ask: 'Why did it not come back to my nose?' Good answer: 'It lost a little energy each swing, pushing the air and rubbing at the knot.' Count how many swings until it nearly stops.",
+     "ref": "e1"
+    },
+    {
+     "kind": "think",
+     "title": "Two kinds of energy",
+     "mins": 5,
+     "do": "Say: 'Energy a thing has because it is moving is called kinetic energy. Energy kept ready for later is called stored energy, or potential energy. The bottle had the most stored energy at the top, and the most kinetic energy at the bottom.' Point at things around you and ask: 'Moving or stored?' The ceiling fan when it is on (kinetic), the gas cylinder (stored), a book on a high shelf (stored, because it could fall), a scooter going past (kinetic). Write the two words in the notebook with one example each."
+    }
+   ],
+   "need": [
+    "a 1-litre plastic bottle, half full of water, with its cap on tight",
+    "about 2 metres of strong string",
+    "a strong hook, curtain rod or balcony clothes-line bar to tie it to",
+    "a notebook for the Energy notebook"
+   ],
+   "prep": [
+    {
+     "task": "Find a place to hang the bottle where it can swing freely and a person can stand with their back to a wall",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Energy stored in height, stretch and food",
+   "goal": "Measure how a higher drop gives more energy, find out why speed matters so much, and hunt for stored energy at home.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'Yesterday the bottle was fastest at the bottom. Where did its kinetic energy come from?' Good answer: 'From the stored energy it had at the top, because I lifted it.' Say: 'Today we measure how much energy height can store.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Dents in the flour",
+     "mins": 17,
+     "do": "Do Experiment e2. Ask first: 'If I drop the lime from twice as high, will the dent be the same, twice as deep, or something else? Why?' Write the guess. Drop from each height three times and smooth the flour each time. Your child measures each dent with a marked toothpick and writes it in a table. Ask: 'What happened as the height went up?' Most children find the dent gets deeper each time. Say: 'The higher you lift it, the more stored energy it has. As it falls, that becomes kinetic energy, and the flour shows how much it had.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Twice as fast, four times the energy",
+     "mins": 7,
+     "do": "Say: 'About 300 years ago a Dutch scientist, Willem 's Gravesande, dropped metal balls into soft clay, just as we dropped the lime into flour. He found that a ball moving twice as fast made a dent about four times as big. A French scientist, Émilie du Châtelet, used his results in her 1740 book on physics. She argued that the energy of a moving thing grows with its speed times its speed. She was right, and many men of her time were wrong.' Ask: 'A scooter going at 60 km per hour is twice as fast as one going at 30. How much more kinetic energy does it have?' (Four times as much.) Ask: 'Why do you think speed limits near schools are so low?' Good answer: 'A small rise in speed makes a much bigger crash.'"
+    },
+    {
+     "kind": "act",
+     "title": "Stored energy hunt",
+     "mins": 12,
+     "do": "Do Activity a1. Ask before you start: 'Where in our home is energy waiting to be used?' Give one example to start: 'The water tank on our roof. Its height makes the water flow down to the taps without a pump.' Your child finds at least six more, and writes each under one of three headings: height, stretch, chemical. Ask: 'Which kind of stored energy did we find most?' Usually chemical: food, the gas cylinder, cells, a matchbox and the phone battery.",
+     "ref": "a1"
+    },
+    {
+     "kind": "act",
+     "title": "The swing dance",
+     "mins": 6,
+     "do": "Do Activity a2. Your child is a swinging bottle. Say the words with them as they move: 'High and still: stored energy. Rushing down: kinetic energy. Up again: stored again.' Then say: 'Now each swing loses a little to the air.' They swing a little lower each time, until they stop. Ask: 'Where did your energy go?' Let them answer. You will find out tomorrow.",
+     "ref": "a2"
+    }
+   ],
+   "need": [
+    "a thali or a tray with a rim",
+    "about 500 g of atta or maida",
+    "a lime (nimbu) or a marble",
+    "a ruler or measuring tape",
+    "3 toothpicks and a pen",
+    "the Energy notebook"
+   ],
+   "prep": [
+    {
+     "task": "Make a mark every half centimetre on 3 toothpicks with a pen, starting from the tip",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Energy is never lost: it spreads as heat",
+   "goal": "Make heat from movement, meet the doctor who first said energy is never lost, and see that some energy is always wasted.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'Yesterday you were the swinging bottle and you slowed down and stopped. Where do you think your energy went?' Write the answer in the Energy notebook. Don't correct it yet."
+    },
+    {
+     "kind": "exp",
+     "title": "Rubbing makes heat",
+     "mins": 10,
+     "do": "Do Experiment e3. Ask first: 'If I rub this coin hard on my jeans for 30 seconds, will it feel the same, colder or warmer?' After each test, your child touches the coin to their cheek or lip and says what they feel. Ask: 'The coin was not near a flame. Where did the heat come from?' Good answer: 'From the movement of my hand.' Say: 'When two surfaces rub, the grip between them is called friction. Friction turns kinetic energy into thermal energy, the energy of heat.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "The ship's doctor and the red blood",
+     "mins": 10,
+     "do": "Tell your child the story in Voice v1 in your own words: Robert Mayer, a young German doctor, noticed in the heat of Java that sailors' blood was brighter red. Say: 'He worked out that the body burns less food to keep warm in hot places. From this he came to a huge idea: heat, movement and the energy in food are forms of one thing, and it is never lost.' Say that Rumford had already found that boring a cannon made heat that could boil water, and that Joule later measured it. Ask the question in v1: 'Mayer had the idea first, but Joule did the careful measuring. Who should get the credit?'",
+     "ref": "v1"
+    },
+    {
+     "kind": "talk",
+     "title": "Where did the energy go?",
+     "mins": 10,
+     "do": "Say: 'Scientists call Mayer's idea conservation of energy: energy is never made or destroyed. It only moves and changes form.' Now go back to this morning's answer. Ask: 'When the bottle stopped, where did its energy go?' Good answer: 'It warmed the air and the knot a tiny bit, as heat.' Ask the same for: a cycle that stops when you brake (the brakes and the tyres get warm), a ball that stops bouncing (the ball, the floor and the air get a little warmer, and a little goes as sound). Say: 'The energy is all still there, but it has spread out into the air as heat. Spread-out heat is very hard to gather back and use again. That is why we say energy gets wasted, even though it is never lost.'"
+    },
+    {
+     "kind": "think",
+     "title": "100 grains of rice: useful and wasted",
+     "mins": 12,
+     "do": "Count out 100 grains of rice. Say: 'These are 100 parts of the electricity going into an old yellow bulb.' Put three bowls labelled LIGHT, HEAT and SOUND. Ask your child to guess how many grains go to light. Then move 5 grains to LIGHT and 95 to HEAT, and say: 'Only about 5 of every 100 parts become light. The rest is heat, which is why old bulbs got too hot to touch.' Now do the same for a ceiling fan, letting your child decide: most grains go to MOVEMENT, some to HEAT (the motor gets warm) and a few to SOUND. Say: 'Efficiency means how much of the energy ends up as the useful kind. An LED bulb is far more efficient than an old bulb. A 9-watt LED gives about as much light as a 60-watt old bulb.' Ask: 'What else at home gets warm when it is only meant to move or light up?'"
+    }
+   ],
+   "need": [
+    "a steel coin",
+    "a rubber eraser and a sheet of paper",
+    "jeans or a carpet",
+    "100 grains of rice",
+    "3 small bowls with labels"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Food: the energy that keeps living beings going",
+   "goal": "Read food energy on packets, see that food burns, and learn how cells release energy slowly.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'Yesterday's rule says energy is never made. So where does the energy that moves your legs come from?' Good answer: 'From the food I eat.' Ask: 'And where did the food get it?' Let them guess. You will find out tomorrow."
+    },
+    {
+     "kind": "act",
+     "title": "Read the energy on a packet",
+     "mins": 10,
+     "do": "Do Activity a3. Say: 'Food energy is measured in kilocalories, written kcal. One kilocalorie can warm one litre of water by one degree.' Your child copies the kcal per 100 g from at least four packets into a table. Ask: 'Which food has the most energy in 100 grams? What do the high-energy foods have in common?' Most children notice that oily and fried foods, nuts and ghee have the most. Say: 'Fats store about twice as much energy as the same weight of sugar or starch. A child of about 9 needs roughly 1,700 kilocalories in a day.'",
+     "ref": "a3"
+    },
+    {
+     "kind": "exp",
+     "title": "A cashew that burns",
+     "mins": 12,
+     "do": "Do Experiment e4. A grown-up does all the lighting and holding. Ask first: 'Will a cashew burn? For how long?' Watch the flame and time it. Hold a steel spoon of water above it with tongs and see the water warm. Ask: 'Where did the heat and light come from?' Good answer: 'From energy stored in the cashew.' Say: 'Your body uses the same stored energy. But it does not burn food with a flame. Inside your cells, food joins with the oxygen you breathe in, a little at a time, so the energy comes out slowly.'",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "Subbarow and the energy coin of the cell",
+     "mins": 8,
+     "do": "Tell your child Voice v3 in your own words: Yellapragada Subbarow from Andhra Pradesh found a chemical called ATP in muscle in 1929. Say: 'Every cell takes energy from food and stores it in tiny packets of ATP. Then it spends the ATP wherever work is needed: to make a muscle pull, a heart beat or a brain think. Every living being uses ATP: you, the crow outside, the tulsi plant and the bacteria in curd.' Ask your child to breathe out onto a cold steel plate. Ask: 'What do you see?' (Mist.) Say: 'Your breath carries out water and carbon dioxide, made when your cells used food and oxygen.' Ask the question in v3.",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 12,
+     "do": "Your child does Worksheet ws1 on their own. Then check it together. For each wrong answer, go back to the test it came from: swing the bottle again, rub the coin again, or look at the packets again, and ask the question once more.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "4 or more food packets with nutrition labels (biscuits, namkeen, oats or poha, a chocolate)",
+    "2 or 3 whole cashew nuts",
+    "a candle and a matchbox",
+    "a fork and a lump of atta dough or a potato to stand it in",
+    "a steel plate and a steel spoon",
+    "kitchen tongs",
+    "Worksheet ws1"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The Sun behind almost everything",
+   "goal": "Trace food and energy back to the Sun, see how little passes along a food chain, and see how dark and light surfaces take in sunlight.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'Yesterday a cashew burned. Where did the cashew get its stored energy?' Good answer: 'From the cashew tree, which made it using sunlight.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up: ice on black and white cloth",
+     "mins": 5,
+     "do": "Set up Experiment e5 in a sunny spot. Ask first: 'Which ice cube will melt first, the one on black cloth or the one on white? Why?' Write the guess and the time. You will check it in about 15 minutes.",
+     "ref": "e5"
+    },
+    {
+     "kind": "talk",
+     "title": "Plants catch sunlight, and most of it does not pass on",
+     "mins": 8,
+     "do": "Say: 'A leaf uses sunlight to join water and carbon dioxide into sugar. This is called photosynthesis. The sugar stores the Sun's energy. Most plants store only about 1 or 2 of every 100 parts of the sunlight that lands on their leaves.' Ask: 'A goat eats grass. Does all the grass's energy become goat?' Let them guess. Say: 'No. The goat uses most of it to walk, breathe and keep warm, and it leaves the goat as heat. On average only about a tenth passes on to the next eater.' Ask: 'So why are there many more goats than tigers in a forest?' Good answer: 'Tigers eat goats, and only a little of the goats' energy reaches the tigers.'"
+    },
+    {
+     "kind": "act",
+     "title": "The energy relay",
+     "mins": 14,
+     "do": "Do Activity a4. Your child and family act out the chain Sun, grass, goat, tiger. At every handover, the giver cuts off most of the wool and drops it on the floor, saying 'heat'. Ask at the end: 'How much wool did the tiger get? Where is the rest?' Good answer: 'A tiny piece. The rest is on the floor, spread out as heat.' Then go back to the story's question in the Energy notebook: 'Ponni says nothing in the blue flame was new.' Ask your child to add to their answer. A strong answer follows the energy from the Sun to the grass, to Ponni, to the tiny beings in the tank, to the flame.",
+     "ref": "a4"
+    },
+    {
+     "kind": "exp",
+     "title": "Check the ice",
+     "mins": 5,
+     "do": "Check Experiment e5. Ask: 'Which melted first? Was your guess right?' Good answer: 'The one on black cloth. Black takes in more sunlight and turns it into heat. White reflects most of it away.' Ask: 'Which colour shirt keeps you cooler in Chennai in May?' (White or light colours.)",
+     "ref": "e5"
+    },
+    {
+     "kind": "talk",
+     "title": "Eunice Foote and the warm jar",
+     "mins": 10,
+     "do": "Tell your child Voice v2 in your own words. Say: 'The whole Earth is like the ice. Sunlight comes in. The ground warms up and gives off heat. Some gases in the air, like carbon dioxide, hold some of that heat in, the way a blanket does. This is called the greenhouse effect. Without it, the Earth would be frozen. With too much carbon dioxide, it gets too hot.' Say: 'Burning coal, oil and gas adds carbon dioxide to the air.' Ask the question in v2.",
+     "ref": "v2"
+    }
+   ],
+   "need": [
+    "2 ice cubes the same size",
+    "a piece of black cloth and a piece of white cloth",
+    "2 steel plates",
+    "a sunny windowsill or balcony",
+    "a ball of wool and scissors",
+    "4 paper labels: SUN, GRASS, GOAT, TIGER"
+   ],
+   "prep": [
+    {
+     "task": "Freeze two ice cubes in the same tray",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Fuels, power stations and clean energy",
+   "goal": "Find out where fuels come from, see how steam spins a turbine, and sort energy sources into renewable and non-renewable.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'Yesterday we found that almost all food energy starts with the Sun. Do you think the cooking gas does too?' Let them guess and give a reason."
+    },
+    {
+     "kind": "talk",
+     "title": "Coal and oil are old sunlight",
+     "mins": 8,
+     "do": "Say: 'Hundreds of millions of years ago, huge forests grew in swamps. When the trees died, they sank into mud and were slowly pressed and heated deep underground. Over millions of years they became coal. Oil and natural gas formed in a similar way, from tiny living beings in the sea. So coal, oil and gas are called fossil fuels. They hold sunlight that was caught long before there were any people.' Ask: 'If coal takes millions of years to form, what happens when we burn it in a few hundred?' Good answer: 'It will run out.' Say: 'That is why fossil fuels are called non-renewable. And burning them makes smoke and carbon dioxide.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Steam spins a turbine",
+     "mins": 12,
+     "do": "Do Experiment e6. A grown-up does every step at the stove, and your child watches from one metre away. Ask first: 'Can steam from boiling water spin a pinwheel?' After it spins, say: 'This is how a coal power station works. Burning coal boils water. The steam spins a big wheel of blades called a turbine. The turbine turns a generator, where magnets spin inside coils of wire, and that makes electricity.' Ask: 'What did our gas flame do here, and what would coal do in a power station?' (Both boil the water.)",
+     "ref": "e6"
+    },
+    {
+     "kind": "talk",
+     "title": "Where the energy goes in a power station",
+     "mins": 7,
+     "do": "Say: 'In a coal power station, only about a third of the energy in the coal becomes electricity. The rest is lost as heat, mostly in the hot water and steam that cool the station.' Draw 3 boxes in the notebook: coal, electricity and heat, with one-third going to electricity and two-thirds to heat. Say: 'About three out of every four units of electricity in India are made by burning coal.' Ask: 'So when we switch on a fan in Hyderabad, is something burning somewhere?' (Most likely, yes, in a power station far away.)"
+    },
+    {
+     "kind": "act",
+     "title": "Renewable or not?",
+     "mins": 10,
+     "do": "Do Activity a5. Your child sorts the source cards into RENEWABLE and NON-RENEWABLE and finds each one's place on the map of India. Say: 'Pavagada in Karnataka has one of the biggest solar parks in the world. Muppandal in Tamil Nadu has hundreds of wind turbines. The Idukki dam in Kerala uses falling river water to spin turbines. Kudankulam in Tamil Nadu is a nuclear power station. It makes no smoke, but its fuel, uranium, does run out, and its waste stays dangerous for a very long time.' Ask: 'Which of these get their energy from the Sun?' Good answer: 'Solar, wind (the Sun heats the air unevenly and makes wind) and rivers (the Sun lifts water as rain). Not nuclear.'",
+     "ref": "a5"
+    },
+    {
+     "kind": "talk",
+     "title": "Using electricity safely",
+     "mins": 5,
+     "do": "Say: 'Electricity from the power station is strong enough to kill. That is why we follow five rules.' Go through them and ask your child to say why each matters: never touch a switch or plug with wet hands, because water lets electricity pass through you. Never push anything into a socket. Pull a plug by its head, not its wire. Stay far away from fallen wires and transformers. Fly kites only in open spaces far from power lines. Your child writes the rules on a card for the fridge."
+    }
+   ],
+   "need": [
+    "a pressure cooker with its whistle weight taken off",
+    "2 cups of water",
+    "a pinwheel cut from a foil food container or thick card, pinned to a long pencil or chopstick",
+    "kitchen tongs",
+    "the source cards and map for Activity a5",
+    "a card and a marker"
+   ],
+   "prep": [
+    {
+     "task": "Make the pinwheel for Experiment e6 and the source cards for Activity a5",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Watts, units and a woman who heated a house with the Sun",
+   "goal": "Read the watts on appliances, work out units of electricity, find wasted heat, and start the family energy project.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'Yesterday steam spun a turbine. In a coal power station, what share of the coal's energy becomes electricity?' Good answer: 'About a third. The rest is lost as heat.' Say: 'So every unit we save at home saves about three units' worth of coal.'"
+    },
+    {
+     "kind": "act",
+     "title": "The watts walk",
+     "mins": 15,
+     "do": "Do Activity a6. Say: 'A watt says how fast a machine uses energy. One unit of electricity, a kilowatt-hour, is what a 1000-watt machine uses in one hour.' Your child reads the watts on each appliance label and fills the table. Work out two together: 'A 50-watt fan for 10 hours is 500 watt-hours, which is half a unit. A 2000-watt geyser for 15 minutes is also 500 watt-hours, half a unit.' Ask: 'Which uses energy faster, and which is on longer?' Then, with a grown-up, they gently touch the outside of a phone charger in use, the back of the TV and the side of the fridge. Ask: 'Why are they warm?' (Some electricity is wasted as heat.)",
+     "ref": "a6"
+    },
+    {
+     "kind": "talk",
+     "title": "The Sun Queen",
+     "mins": 8,
+     "do": "Tell your child Voice v4 in your own words. Say: 'Mária Telkes found a way to store the Sun's heat in a salt that melts when it is warm and gives the heat back when it sets again at night. The house worked for a few winters, then the salt stopped working well.' Ask: 'Was the house a failure or a first step?' Ask the question in v4.",
+     "ref": "v4"
+    },
+    {
+     "kind": "game",
+     "title": "The Energy Trail",
+     "mins": 15,
+     "do": "Play game g1 with as many family members as you can. When someone lands on a question square, they must give a reason, not just an answer. Keep the bottle, the coin and the packets nearby so players can test an answer when they disagree.",
+     "ref": "g1"
+    },
+    {
+     "kind": "act",
+     "title": "Start the family energy plan",
+     "mins": 4,
+     "do": "Start the project. Find the electricity meter with your child and read the number of units (kWh). Write it with today's date and time. Say: 'We will read it again tomorrow at the same time and find out how many units our home uses in one day.'"
+    }
+   ],
+   "need": [
+    "the table for Activity a6",
+    "a pencil",
+    "the printed game board, a die and counters",
+    "the bottle, the coin and the food packets from earlier days",
+    "your latest electricity bill if you have it"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Our family energy plan",
+   "goal": "Work out how much electricity the home uses, make a plan to save some, and think about who uses how much.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 3,
+     "do": "Ask: 'What is one unit of electricity?' Good answer: 'What a 1000-watt machine uses in one hour.' Ask: 'Which appliance in our home used energy fastest on the watts walk?'"
+    },
+    {
+     "kind": "act",
+     "title": "The family energy plan",
+     "mins": 20,
+     "do": "Do the project steps 2 to 6. Read the meter again at the same time as yesterday and subtract to find the units used in one day. Your child compares it with the units they worked out from the watts table. Ask: 'Is it bigger or smaller? What did we miss?' (Often the fridge, which runs on and off all day, or a geyser or AC.) Then your child picks the three biggest users, writes one change for each, and makes the poster."
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 12,
+     "do": "Your child does Worksheet ws2 alone for 8 minutes, then you check it together. For the question where Ritu and Fatima disagree, ask your child to argue for one side out loud, then for the other side, before they write.",
+     "ref": "ws2"
+    },
+    {
+     "kind": "talk",
+     "title": "Enough, or more?",
+     "mins": 10,
+     "do": "Say: 'Some homes in India use very little electricity, and some families in the world use many times more than we do.' Ask: 'Should every family use the same amount? Who should decide?' Then ask: 'When we switch on the AC, the coal smoke comes out near the power station, not in our flat. Who breathes it?' Let your child think. There is no single right answer. Then ask: 'What does a crow or a tulsi plant use instead of electricity?' Good answer: 'Sunlight and food, directly.'"
+    }
+   ],
+   "need": [
+    "the meter reading from yesterday",
+    "the watts table from Activity a6",
+    "a chart paper and sketch pens",
+    "Worksheet ws2"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Review, check and teach it back",
+   "goal": "Do the challenge sheet, answer the check questions, and teach the main ideas to the family.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Back through the notebook",
+     "mins": 8,
+     "do": "Turn the pages of the Energy notebook together. For each day, your child says the one thing they remember best. Ask: 'Which experiment surprised you most? Why?' Then read their first answer to the story question again and ask: 'What would you add now?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 15,
+     "do": "Your child does Worksheet ws3. You only ask 'Why?' and 'How do you know?'. For the design question, let them draw first and talk about it after.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 12,
+     "do": "Ask the check questions aloud, one at a time. For a missed answer, repeat the matching test for a minute, such as swinging the bottle or rubbing the coin, then ask again."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child is the teacher. With the bottle, a coin, a food packet and the family energy poster, they teach a grown-up for five minutes: kinetic and stored energy, why energy is never lost but spreads as heat, how food and electricity get their energy from the Sun, and how to save energy at home. As the student, ask: 'If energy is never lost, why do we need to save it?' A strong answer: 'Because once it spreads out as heat we cannot use it again, and getting more means burning more fuel.'"
+    }
+   ],
+   "need": [
+    "the Energy notebook",
+    "Worksheet ws3",
+    "the bottle on its string, a coin, a food packet",
+    "the family energy poster"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Moving, stored and wasted energy",
+   "day": 4,
+   "sections": [
+    [
+     "A. Kinds of energy",
+     [
+      {
+       "t": "mcq",
+       "p": "Ananya hangs a bottle of water on a string. She holds it touching her nose and lets go without pushing. When it swings back, what happens?",
+       "opts": [
+        "It hits her nose harder.",
+        "It stops just short of her nose.",
+        "It stops at the bottom and stays there."
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Sort each thing by the energy it mainly has right now: moving (kinetic) energy or stored energy.",
+       "items": [
+        "a rolling ball",
+        "water in a tank on the roof",
+        "a stretched rubber band",
+        "a spinning ceiling fan",
+        "a packet of biscuits",
+        "a cyclist going downhill"
+       ],
+       "cats": [
+        "moving (kinetic) energy",
+        "stored energy"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The energy a thing has because it is moving is called ____ energy.",
+       "a": [
+        "kinetic"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each thing to the form of energy it gives out most.",
+       "pairs": [
+        [
+         "a ringing temple bell",
+         "sound energy"
+        ],
+        [
+         "a hot tawa",
+         "thermal energy"
+        ],
+        [
+         "a glowing bulb",
+         "light energy"
+        ],
+        [
+         "electricity in a wire",
+         "electrical energy"
+        ]
+       ]
+      },
+      {
+       "t": "draw",
+       "p": "Draw the swinging bottle at the top of its swing and at the bottom. Label where it has the most stored energy and where it has the most kinetic energy."
+      }
+     ]
+    ],
+    [
+     "B. Energy is never lost",
+     [
+      {
+       "t": "mcq",
+       "p": "Rohan rubs a steel coin hard on his jeans for 30 seconds. The coin feels warm. Where did the heat come from?",
+       "opts": [
+        "the movement of his hand",
+        "the metal of the coin",
+        "the colour of the jeans"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Energy is never made or destroyed. It only moves from one thing to another, or changes ____.",
+       "a": [
+        "form",
+        "forms",
+        "its form"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "A cycle's brakes get warm after a long ride down a hill. Where did the cyclist's kinetic energy go? Explain.",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "C. Energy in food",
+     [
+      {
+       "t": "mcq",
+       "p": "A biscuit packet says '100 g gives 480 kcal'. What does kcal measure?",
+       "opts": [
+        "the energy stored in the food",
+        "the weight of the food",
+        "how sweet the food is"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Shreya says, 'When I am asleep, my body uses no energy.' Is she right? Give two pieces of evidence from your own body.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "From the Sun to the switch",
+   "day": 8,
+   "sections": [
+    [
+     "A. The Sun and living beings",
+     [
+      {
+       "t": "mcq",
+       "p": "A field of grass stores 1,000 units of energy. Goats eat the grass. On average, about how much of that energy ends up in the goats' bodies?",
+       "opts": [
+        "about 1,000 units",
+        "about 100 units",
+        "none at all"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "A forest can feed many deer but only a few tigers. Use what happens to energy in a food chain to explain why.",
+       "lines": 3
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi puts two ice cubes in the sun, one on black cloth and one on white cloth. Which melts first, and why?",
+       "opts": [
+        "The one on black cloth, because black takes in more sunlight.",
+        "The one on white cloth, because white is brighter.",
+        "Both melt at the same time, because the sun is the same."
+       ],
+       "a": 0
+      },
+      {
+       "t": "draw",
+       "p": "Draw the chain of energy from the Sun to the blue flame under the pot in the story of Ponni the cow. Put an arrow between each step and write what each one does."
+      }
+     ]
+    ],
+    [
+     "B. Fuels and electricity",
+     [
+      {
+       "t": "fill",
+       "p": "Coal, oil and gas formed from living beings buried millions of years ago, so they are called ____ fuels.",
+       "a": [
+        "fossil"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort these energy sources.",
+       "items": [
+        "sunlight",
+        "wind",
+        "coal",
+        "petrol",
+        "flowing river water",
+        "cooking gas (LPG)",
+        "cow dung for a biogas plant",
+        "diesel"
+       ],
+       "cats": [
+        "renewable",
+        "non-renewable"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In a coal power station, what pushes the turbine round?",
+       "opts": [
+        "steam from boiling water",
+        "lumps of coal",
+        "the wind"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each place to how it makes electricity.",
+       "pairs": [
+        [
+         "Pavagada, Karnataka",
+         "a solar park"
+        ],
+        [
+         "Muppandal, Tamil Nadu",
+         "wind turbines"
+        ],
+        [
+         "Idukki, Kerala",
+         "a dam on a river"
+        ],
+        [
+         "Kudankulam, Tamil Nadu",
+         "a nuclear power station"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Watts and units",
+     [
+      {
+       "t": "fill",
+       "p": "A 1000-watt iron is used for 1 hour. It uses ____ unit of electricity.",
+       "a": [
+        "1",
+        "one"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which uses more electricity: a 50-watt fan on for 4 hours, or a 2000-watt geyser on for 15 minutes?",
+       "opts": [
+        "the fan",
+        "the geyser",
+        "they use the same"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Ritu says, 'India should build more coal power stations, because coal works day and night.' Fatima says, 'India should build more solar parks, because sunlight never runs out.' Pick the side you agree with more and give two reasons. Then write one thing the other person is right about.",
+       "lines": 5
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Energy puzzles and hard choices",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "write",
+       "p": "Meera says, 'A ball that stops bouncing has used up all its energy.' Write what really happened to the energy. Use the words 'spreads' and 'heat'.",
+       "lines": 3
+      },
+      {
+       "t": "mcq",
+       "p": "A scooter goes at 60 km per hour instead of 30 km per hour. How much more kinetic energy does it have?",
+       "opts": [
+        "the same",
+        "twice as much",
+        "four times as much"
+       ],
+       "a": 2
+      },
+      {
+       "t": "write",
+       "p": "A cup of hot chai cools down and its heat goes into the air of the room. Why is it so hard to collect that heat again and use it to boil water?",
+       "lines": 3
+      },
+      {
+       "t": "mcq",
+       "p": "An electric car drives around Chennai. Most of its electricity was made by burning coal. Which sentence is true?",
+       "opts": [
+        "It makes no pollution anywhere.",
+        "It makes no smoke on the street, but a power station somewhere burned coal for it.",
+        "It runs on sunlight."
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "An old 60-watt bulb and an LED bulb of about ____ watts give about the same light.",
+       "a": [
+        "9",
+        "8",
+        "10",
+        "nine"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Our home",
+     [
+      {
+       "t": "table",
+       "p": "Fill in the table for four things in your home. Work out the units: watts times hours, divided by 1000.",
+       "cols": [
+        "Appliance",
+        "Watts",
+        "Hours a day",
+        "Units a day"
+       ],
+       "rows": 4,
+       "prefill": [
+        "ceiling fan",
+        "LED bulb",
+        "television",
+        "mixie"
+       ]
+      },
+      {
+       "t": "draw",
+       "p": "Design a home for a hot city like Chennai that needs less electricity to stay cool. Label three features and write why each one works."
+      }
+     ]
+    ],
+    [
+     "C. Bigger questions",
+     [
+      {
+       "t": "write",
+       "p": "The Sun gives the Earth about as much energy in one hour as all people use in a whole year. So why is it still hard to run everything on sunlight? Give two reasons.",
+       "lines": 4
+      },
+      {
+       "t": "mcq",
+       "p": "A purple sunbird visits hundreds of flowers a day. Why does she need so much nectar?",
+       "opts": [
+        "Flying and hovering use energy fast, and nectar gives her sugar quickly.",
+        "Nectar is the only thing that is never wasted as heat.",
+        "She stores all the nectar for the rainy season."
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Three people talk about cooking in a village. Selvi cooks on firewood: 'The wood is free, but the smoke hurts my eyes.' Anjali runs a biogas plant: 'Cow dung gives gas and good manure, but the plant costs money to build.' Kamala sells LPG cylinders: 'Gas is clean in the kitchen, but every cylinder costs money and comes from far away.' Which would you choose for a family near Thanjavur with two cows? Give your reasons. Then say what the person you did not choose would say back.",
+       "lines": 5
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The bottle that will not hit your nose",
+   "day": 1,
+   "question": "When a swinging bottle is let go at your nose, does it come back as high as where it started?",
+   "need": [
+    "a 1-litre plastic bottle, half full of water, cap on tight",
+    "about 2 metres of strong string",
+    "a strong hook, curtain rod or balcony clothes-line bar",
+    "a wall to stand against"
+   ],
+   "steps": [
+    "Tie the string tightly round the neck of the bottle. Tie the other end to the hook or rod, so the bottle hangs at the height of your child's face.",
+    "A grown-up goes first. Stand with your back and head against the wall. Pull the bottle towards you until it just touches your nose.",
+    "Let go. Do not push it at all. Keep your head still against the wall.",
+    "Watch it swing away and come back. It stops just short of your nose.",
+    "Now your child does it. Count how many swings it makes before it nearly stops."
+   ],
+   "predict": "Ask your child to guess first: 'If I let go at my nose, will the bottle hit me on the way back? Why?'",
+   "observe": "The bottle is fastest at the bottom and stops for a moment at each end. It always comes back a little short of the nose, and each swing is a little lower than the one before.",
+   "why": "When you lift the bottle, you give it stored energy. As it falls, that stored energy becomes kinetic energy, so it is fastest at the bottom. As it rises, the kinetic energy becomes stored energy again. On every swing a little energy goes into pushing the air and rubbing at the knot, and turns into heat. The bottle can never have more energy than you gave it, so it can never rise higher than your nose.",
+   "safety": "Only let go. Never push the bottle. Use a plastic bottle only half full, and tie the cap on tightly. Keep younger children away from the swing.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "Dents in the flour",
+   "day": 2,
+   "question": "Does dropping something from higher up give it more energy?",
+   "need": [
+    "a thali or a tray with a rim",
+    "about 500 g of atta or maida",
+    "a lime (nimbu) or a marble",
+    "a ruler or measuring tape",
+    "3 toothpicks marked every half centimetre"
+   ],
+   "steps": [
+    "Spread the flour in the thali about 3 cm deep. Shake it gently so the top is smooth and flat.",
+    "Hold the lime 20 cm above the flour, measured with the ruler. Let it drop. Lift it out carefully.",
+    "Push a marked toothpick straight down into the flour at the edge of the dent and read how deep the dent is. Write it down.",
+    "Smooth the flour and drop from 20 cm two more times.",
+    "Now do the same three times from 40 cm, and three times from 80 cm.",
+    "Find the middle value for each height and make a table."
+   ],
+   "predict": "Ask your child to guess first: 'If I drop the lime from twice as high, will the dent be the same, twice as deep, or something else?'",
+   "observe": "The dent gets deeper and wider as the height goes up. The dent from 80 cm is clearly bigger than the dent from 20 cm. The three tries from one height are close but not exactly the same.",
+   "why": "Lifting the lime higher gives it more stored energy. As it falls, this becomes kinetic energy, so it hits the flour faster. The lime uses that energy to push the flour aside, so more energy makes a bigger dent. We drop three times from each height because one try can be a fluke.",
+   "safety": "Do it on the floor on a newspaper, so spilt flour is easy to clean. Use the flour afterwards only if it stayed clean.",
+   "time": "17 min"
+  },
+  {
+   "id": "e3",
+   "title": "Rubbing makes heat",
+   "day": 3,
+   "question": "Can movement turn into heat?",
+   "need": [
+    "a steel coin",
+    "jeans or a carpet",
+    "a rubber eraser",
+    "a sheet of paper"
+   ],
+   "steps": [
+    "Touch the coin to your cheek. Notice how warm or cool it feels.",
+    "Rub the coin hard and fast on the jeans or the carpet for 30 seconds.",
+    "Touch it to your cheek again at once.",
+    "Now rub the eraser hard on the paper for 20 seconds, then touch the rubbed end to your cheek.",
+    "Last, rub your palms together hard for 15 seconds and press them on your cheeks."
+   ],
+   "predict": "Ask your child to guess first: 'After rubbing, will the coin feel the same, colder or warmer?'",
+   "observe": "The coin, the end of the eraser and the palms all feel clearly warmer after rubbing.",
+   "why": "When two surfaces rub, friction acts between them. The tiny bumps on each surface catch and shake each other. This turns the kinetic energy of your moving hand into thermal energy, so the coin heats up. Nothing burned and nothing was added: the heat came from the movement.",
+   "safety": "",
+   "time": "10 min"
+  },
+  {
+   "id": "e4",
+   "title": "A cashew that burns",
+   "day": 4,
+   "question": "Does food really hold stored energy?",
+   "need": [
+    "2 or 3 whole cashew nuts",
+    "a fork",
+    "a lump of atta dough or a potato",
+    "a steel plate",
+    "a candle and a matchbox",
+    "a steel spoon with a little water",
+    "kitchen tongs"
+   ],
+   "steps": [
+    "A grown-up pushes the fork into the dough or potato so it stands up on the steel plate, with the prongs pointing up.",
+    "Push a cashew gently onto the prongs.",
+    "The grown-up lights the candle and holds the cashew in the flame until the cashew catches fire. This can take up to half a minute.",
+    "Take the candle away. Watch the cashew burn on its own. Time how long the flame lasts.",
+    "The grown-up holds the spoon of water in the tongs a little above the flame for about 30 seconds. Look at the water."
+   ],
+   "predict": "Ask your child to guess first: 'Will a cashew burn on its own, without the candle? For how long?'",
+   "observe": "The cashew catches fire and keeps burning on its own with a yellow, smoky flame, often for a minute or more. The water in the spoon gets warm and may start to steam. A black, burnt lump is left.",
+   "why": "A cashew is full of oil and starch, which hold chemical energy that the cashew tree stored from sunlight. Burning joins these chemicals with oxygen from the air, and the stored energy comes out fast as heat and light. Your body uses the same stored energy, but your cells join food with oxygen slowly, in small steps, so you get warm, not on fire.",
+   "safety": "A grown-up does all the lighting and holding. Keep hair, sleeves, paper and curtains away, and keep a cup of water nearby. Do not do this if anyone at home has a nut allergy. Do not eat the burnt nut.",
+   "time": "12 min"
+  },
+  {
+   "id": "e5",
+   "title": "Ice on black and white cloth",
+   "day": 5,
+   "question": "Do dark and light surfaces take in the same amount of sunlight?",
+   "need": [
+    "2 ice cubes the same size, from the same tray",
+    "a piece of black cloth and a piece of white cloth, the same size",
+    "2 steel plates",
+    "a sunny windowsill or balcony"
+   ],
+   "steps": [
+    "Put the black cloth on one plate and the white cloth on the other.",
+    "Put both plates side by side in direct sunlight.",
+    "Put one ice cube in the middle of each cloth at the same moment. Write the time.",
+    "Check every 5 minutes. Write the time when each cube has completely melted."
+   ],
+   "predict": "Ask your child to guess first: 'Which ice cube will melt first? Why?'",
+   "observe": "The ice on the black cloth melts first, often several minutes before the ice on the white cloth.",
+   "why": "Black cloth absorbs most of the sunlight that falls on it, which means it takes the light in, and the light becomes heat. White cloth reflects most of the light away, so it stays cooler. The whole Earth works like this too: snow and clouds reflect sunlight, while dark oceans and forests absorb it.",
+   "safety": "",
+   "time": "5 min to set up, check after 15 to 20 min. If there is no sun today, do it on the next sunny day."
+  },
+  {
+   "id": "e6",
+   "title": "Steam spins a turbine",
+   "day": 6,
+   "question": "How can a flame make something spin, the way a power station does?",
+   "need": [
+    "a pressure cooker",
+    "2 cups of water",
+    "a pinwheel cut from a foil food container or thick card",
+    "a long pencil or chopstick and a pin",
+    "kitchen tongs",
+    "a gas stove"
+   ],
+   "steps": [
+    "Make the pinwheel: cut a square about 10 cm across, cut from each corner halfway to the middle, and fold every other point to the centre. Pin the centre loosely to the end of the pencil so it spins freely.",
+    "A grown-up puts 2 cups of water in the pressure cooker and closes the lid, but leaves the whistle weight off. Without the weight, no pressure builds up, and steam comes straight out of the vent pipe.",
+    "Heat it on a medium flame. When a steady jet of steam comes out of the vent, the grown-up holds the pencil with tongs so the pinwheel is about 15 cm above the vent.",
+    "Watch the pinwheel spin. Move it a little higher and a little lower and see when it spins fastest.",
+    "Turn off the gas and let the cooker cool before anyone touches it."
+   ],
+   "predict": "Ask your child to guess first: 'Will steam from the cooker make the pinwheel spin? Will it spin faster close to the vent or far away?'",
+   "observe": "The pinwheel spins fast in the jet of steam, faster when it is closer to the vent. Water drops form on the pinwheel as the steam cools.",
+   "why": "The flame's thermal energy boils the water. The steam rushes out of the vent with kinetic energy and pushes the blades round. A power station does the same thing on a huge scale. Burning coal boils water, the steam spins a turbine, and the turbine turns a generator, where magnets spin inside coils of wire to make electricity. In a dam, falling water pushes the turbine, and in a wind farm the wind does.",
+   "safety": "Only a grown-up works at the stove. Steam burns badly, so the child stands at least one metre away and nobody puts a hand over the vent. Never take the weight off a cooker that is already whistling or under pressure: leave it off from the start. Let the cooker cool fully before opening it.",
+   "time": "12 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Stored energy hunt",
+   "day": 2,
+   "mins": 12,
+   "need": [
+    "the Energy notebook",
+    "a pencil"
+   ],
+   "steps": [
+    "Draw three columns in the notebook: HEIGHT, STRETCH and CHEMICAL.",
+    "Walk through every room with your child, and onto the balcony.",
+    "For each thing that holds energy ready to use, ask: 'How is the energy stored? In its height, in a stretch or squeeze, or in its chemicals?' Write it in the right column.",
+    "Look for: the water tank on the roof, a book on a high shelf, a clothes peg's spring, a rubber band, a pressure cooker's gasket, food in the kitchen, the gas cylinder, a matchbox, a torch cell, a phone battery.",
+    "Circle the one that you think holds the most energy."
+   ],
+   "outcome": "A list of at least seven stored energy sources in three columns. Most families find chemical energy is the biggest group: food, fuel and batteries."
+  },
+  {
+   "id": "a2",
+   "title": "The swing dance",
+   "day": 2,
+   "mins": 6,
+   "need": [
+    "a clear space"
+   ],
+   "steps": [
+    "Your child stands with arms up high and still. Everyone says: 'High and still: stored energy.'",
+    "They sweep down low and fast through the middle. Everyone says: 'Rushing down: kinetic energy.'",
+    "They rise up high on the other side and pause. Everyone says: 'Up again: stored again.'",
+    "Repeat five times. Each time they rise a little less high and move a little more slowly.",
+    "On the last swing they settle in the middle and stop. Ask: 'Where did your energy go?'"
+   ],
+   "outcome": "Your child feels the swap between stored and kinetic energy in their own body, and is ready to ask where the lost energy went."
+  },
+  {
+   "id": "a3",
+   "title": "Read the energy on a packet",
+   "day": 4,
+   "mins": 10,
+   "need": [
+    "4 or more food packets with nutrition labels",
+    "the Energy notebook"
+   ],
+   "steps": [
+    "Find the nutrition table on each packet. Find the line that says 'Energy', with a number in kcal.",
+    "Draw a table with two columns: FOOD and KCAL IN 100 g.",
+    "Copy the number for each packet.",
+    "Put the foods in order from most energy to least.",
+    "Look at the fat line on the packets with the most energy. Is it high?"
+   ],
+   "outcome": "A table of foods in order of energy. Fried snacks, nuts and chocolate usually come top, and plain foods like oats or poha come lower."
+  },
+  {
+   "id": "a4",
+   "title": "The energy relay",
+   "day": 5,
+   "mins": 14,
+   "need": [
+    "a ball of wool",
+    "scissors",
+    "4 paper labels: SUN, GRASS, GOAT, TIGER",
+    "string or tape to wear the labels"
+   ],
+   "steps": [
+    "Each person wears a label. If you have only two people, each plays two parts.",
+    "The SUN pulls out a long piece of wool, about as long as the room, and cuts it off. This is the energy.",
+    "The SUN gives it to GRASS. GRASS cuts off most of it, drops that on the floor and says 'heat'. GRASS keeps only a short piece, about one tenth.",
+    "GRASS gives the short piece to GOAT. GOAT cuts off most of it, drops it and says 'heat', and keeps one tenth.",
+    "GOAT gives what is left to TIGER, who holds it up.",
+    "Everyone looks at the floor and at the tiger's tiny piece. Then lay all the pieces end to end. Is the wool all still there?"
+   ],
+   "outcome": "The tiger ends with a tiny piece, but laid end to end, all the wool is still there. Your child sees both ideas at once: no energy is lost, but most of it spreads out as heat at every step and cannot be passed on."
+  },
+  {
+   "id": "a5",
+   "title": "Renewable or not?",
+   "day": 6,
+   "mins": 10,
+   "need": [
+    "10 paper cards",
+    "a marker",
+    "a map of India from a book or a phone"
+   ],
+   "steps": [
+    "Write one source on each card: sunlight, wind, flowing river water, coal, petrol, diesel, cooking gas (LPG), firewood, cow dung for biogas, uranium for nuclear power.",
+    "Make two piles: RENEWABLE (will not run out) and NON-RENEWABLE (will run out).",
+    "Firewood is tricky. Ask: 'Is it renewable if we plant as many trees as we cut? What if we cut faster?' Let your child decide and give a reason.",
+    "Find on the map: Pavagada in Karnataka (solar), Muppandal in Tamil Nadu (wind), Idukki in Kerala (water), Kudankulam in Tamil Nadu (nuclear).",
+    "Put a star on every card whose energy started as sunlight."
+   ],
+   "outcome": "Two sorted piles, four places found on the map, and stars on every source except uranium. Coal, oil and gas get a star too, because they are very old stored sunlight."
+  },
+  {
+   "id": "a6",
+   "title": "The watts walk",
+   "day": 7,
+   "mins": 15,
+   "need": [
+    "a table drawn in the notebook with columns: Appliance, Watts, Hours a day, Units a day",
+    "a pencil",
+    "a torch for reading labels"
+   ],
+   "steps": [
+    "With a grown-up, find the label on each appliance. It is usually on the back or the bottom, and says a number followed by W. Never open anything or touch wires.",
+    "Write the watts for at least six appliances: a fan, a bulb, the TV, the fridge, the mixie, the iron, the geyser or AC if you have one.",
+    "Ask the family how many hours a day each one is on. Write that down.",
+    "Work out the units for each: watts times hours, divided by 1000. A grown-up helps with the dividing.",
+    "With a grown-up, gently touch the outside of a phone charger in use, the back of the TV and the side of the fridge. Feel which ones are warm."
+   ],
+   "outcome": "A table showing which appliances use energy fastest and which use the most units in a day. Often a geyser or AC uses the most, even though it is on for less time than the fans."
+  }
+ ],
+ "project": {
+  "title": "Our family energy plan",
+  "days": [
+   7,
+   8
+  ],
+  "steps": [
+   "On Day 7, read the electricity meter and write down the units (kWh), the date and the time.",
+   "On Day 8, read it again at the same time. Subtract to find the units your home used in one day.",
+   "Add up the units in your watts table from Activity a6. Compare it with the meter. Talk about what you might have missed.",
+   "Circle the three appliances that use the most units.",
+   "For each one, write one real change your family could make: for example, set the AC to 26 degrees instead of 22, switch the geyser off after 15 minutes, swap an old tube light for an LED, or dry clothes in the sun instead of a dryer.",
+   "Make a poster called 'Our Energy Plan' with the units used today, the three changes and a drawing of where the energy comes from, starting with the Sun. Put it on the fridge.",
+   "If you have last month's bill, work out how many units a whole month is, and what it costs."
+  ],
+  "outcome": "A poster on the fridge with your home's real daily units, three changes the family agrees to try, and a child who can explain where the electricity came from and why saving it matters."
+ },
+ "game": {
+  "id": "g1",
+  "title": "The Energy Trail",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "one die",
+   "a counter for each player (a button or a coin)"
+  ],
+  "rules": [
+   "Everyone starts on START. Take turns to roll the die and move that many squares.",
+   "If you land on a question square, answer it aloud and give a reason. The other players decide if the answer is good. If it is, stay there. If not, go back 2 squares.",
+   "If you land on an event square, do what it says.",
+   "If players disagree, test it with the bottle, a coin or a packet if you can.",
+   "The first player to reach HOME wins."
+  ],
+  "squares": [
+   "START",
+   "Where is a swinging bottle fastest, and why?",
+   "You left the fan on in an empty room. Go back 1.",
+   "Name three kinds of stored energy at home.",
+   "Why does a rubbed coin get warm?",
+   "You switched to an LED bulb. Move forward 2.",
+   "A scooter doubles its speed. How much more kinetic energy does it have?",
+   "Energy is never lost. So why do things stop moving?",
+   "What does kcal on a food packet measure?",
+   "You ate a good breakfast. Move forward 1.",
+   "How does your body get energy from food without a flame?",
+   "Why are there more deer than tigers in a forest?",
+   "Power cut! Miss a turn.",
+   "Which melts ice faster in the sun, black cloth or white? Why?",
+   "Why are coal, oil and gas called fossil fuels?",
+   "What spins the turbine in a coal power station?",
+   "You dried the clothes in the sun. Move forward 2.",
+   "Name two renewable sources of energy in South India.",
+   "How many units does a 2000-watt geyser use in half an hour?",
+   "You touched a switch with wet hands. Go back 3.",
+   "Which energy source does not start with the Sun?",
+   "Why does a phone charger get warm?",
+   "Who first said that energy is never lost?",
+   "HOME"
+  ]
+ },
+ "big": [
+  "Energy is never made or destroyed. So where did all the energy in the universe come from in the first place?",
+  "The energy in your body today was sunlight that a plant caught a few weeks ago. In what sense is the Sun part of you?",
+  "Most energy at every step of a food chain spreads out as heat. Is that energy wasted, or is it the cost of being alive?",
+  "Sunlight falls on every roof, but solar panels cost money. Who should own the energy that falls from the sky?",
+  "If every family in the world used as much energy as the families who use the most, what would happen? How much is enough?"
+ ],
+ "challenge": [
+  {
+   "q": "'When a ball stops bouncing, its energy is used up.'",
+   "hint": "Energy is never used up. Every bounce turns some of the ball's energy into heat in the ball and the floor, and a little into sound. The energy is all still there, but spread out so thinly that nobody can use it again. What gets used up is useful energy. Ask: if energy is never lost, what are we really running out of?"
+  },
+  {
+   "q": "'Electric cars make no pollution.'",
+   "hint": "An electric car makes no smoke in the street, which helps the air in a city. But the electricity has to come from somewhere, and most of India's electricity is still made by burning coal. So the pollution moves to the power station, far away. As more electricity comes from the Sun and wind, the car gets cleaner. Ask: who breathes the smoke, the driver or someone else?"
+  },
+  {
+   "q": "'Solar energy is completely free and clean.'",
+   "hint": "Sunlight costs nothing, and a solar panel makes no smoke while it works. But panels are made in factories from materials that are mined, solar parks need a lot of land, and old panels must be recycled. Over its life, a panel still causes far less pollution than burning coal for the same electricity. Ask: is anything completely free? What hidden costs can you find?"
+  },
+  {
+   "q": "'You only use energy when you move.'",
+   "hint": "Your heart beats, you breathe and your brain works all the time, even in sleep, and your body keeps itself warm. Most of the energy a resting body uses goes to these jobs. Your brain alone uses about a fifth of a grown-up's resting energy. Ask: why does thinking hard sometimes make you hungry?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A purple sunbird in a Chennai garden",
+   "view": "Her problem is that flying and hovering use energy very fast, and her body is tiny, so she cannot carry much stored fat. Nectar helps her: it is sugar water, which her body can use within minutes. In return she carries pollen from flower to flower. Ask: the flower stored sunlight as sugar, and the sunbird spends it on flying. Who is helping whom?"
+  },
+  {
+   "who": "A tulsi plant on a balcony",
+   "view": "Her problem is that she cannot walk to find food. Her leaves solve it: they catch sunlight and build sugar from air and water. Plants were living on sunlight for hundreds of millions of years before people made the first solar panel. Ask: we call our solar panels clever. What would a plant say about them?"
+  },
+  {
+   "who": "A woman who collects coal near Jharia, Jharkhand",
+   "view": "Jharia has burned and been mined for coal for more than a hundred years. Many families there earn their living by collecting and selling coal, even though the smoke and the fires harm their health. If the coal mines close for cleaner energy, she asks, what work will her family do? Ask: when a country changes how it makes energy, who should make sure that people like her are not left behind?"
+  },
+  {
+   "who": "A farmer near the wind turbines of Muppandal, Tamil Nadu",
+   "view": "She rents a corner of her land to a wind company and still grows crops around the tower. The wind there blows hardest in the monsoon months, so the turbines make much more electricity in some months than in others. Ask: if the wind does not blow all year, what else does a town need to keep its lights on?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Julius Robert Mayer (1814–1878), Germany, and James Prescott Joule (1818–1889), England",
+   "idea": "In 1840 Mayer was a young doctor on a Dutch ship to Java, in what is now Indonesia. When he let blood from sick sailors, the blood in their veins was a brighter red than he expected. He reasoned that in a hot place the body needs to burn less food to stay warm, so less oxygen is used up. From this he came to a huge idea: heat, movement and the energy in food are forms of one thing that is never made or lost. He published it in 1842. Earlier, in 1798, Benjamin Thompson (Count Rumford) had seen that boring the inside of a cannon made enough heat to boil water. From 1843 Joule, the son of a brewer in England, measured it carefully: falling weights turned a paddle wheel in water and made the water slightly warmer.",
+   "then": "A leading physics journal turned down Mayer's first paper. Many scientists gave the credit to Joule instead, because his measurements were careful and he was part of the British scientific world. Mayer became deeply unhappy and ill. Later in his life his work was recognised, and in 1871 the Royal Society in London gave him its Copley Medal.",
+   "now": "Accepted. Conservation of energy is one of the most tested laws in all of science. Historians now give credit to several people who reached the idea in the 1840s, Mayer and Joule among them.",
+   "status": "accepted",
+   "ask": "Mayer had the idea first, but Joule did the careful measuring. Who should get the credit for conservation of energy, and why?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Eunice Newton Foote (1819–1888), USA",
+   "idea": "In 1856 Foote put thermometers inside glass cylinders filled with different gases and set them in the sunshine. The cylinder of carbon dioxide got the hottest and stayed hot the longest. She wrote that if the air held more of this gas, the Earth would be warmer.",
+   "then": "Her paper was read at a meeting of American scientists in 1856, but by a man, Joseph Henry, not by her. It was printed and then mostly forgotten. From 1859, John Tyndall in London measured much more exactly how carbon dioxide and water vapour hold in heat, and for over 150 years he got the credit for the discovery.",
+   "now": "Accepted. Carbon dioxide does trap heat, which is the greenhouse effect. Foote's work was found again by researchers around 2010, and she is now named as one of the first to see it. Her simple test could not separate sunlight from the heat given off by the warm glass, which Tyndall's experiments could.",
+   "status": "accepted",
+   "ask": "Foote was first, but Tyndall's experiments were more exact. Why do you think her name was forgotten for so long?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Yellapragada Subbarow (1895–1948), from Bhimavaram, Andhra Pradesh, worked in the USA",
+   "idea": "Working with Cyrus Fiske at Harvard Medical School, Subbarow found a chemical called phosphocreatine in muscle in 1927, and then ATP (adenosine triphosphate) in 1929. Karl Lohmann in Germany found ATP the same year. Later scientists, including Fritz Lipmann in 1941, showed that ATP is how every cell carries energy from food to the jobs it does.",
+   "then": "For many years, books gave more credit to Lohmann and to the scientists who came after. Subbarow went on to lead research at a medicine company, where his team made methotrexate, a cancer medicine still used today, and an early antibiotic. He died at 53, and he is still not well known, even in India.",
+   "now": "Accepted. ATP is used by every known living being, from bacteria to people, to carry energy inside cells. Subbarow is now remembered as one of its discoverers.",
+   "status": "accepted",
+   "ask": "Two scientists in two countries found ATP in the same year. How do you think the world decides whose name to remember?",
+   "day": 4
+  },
+  {
+   "id": "v4",
+   "who": "Mária Telkes (1900–1995), Hungary and USA",
+   "idea": "Telkes worked on ways to use the Sun's energy. In 1948, with the architect Eleanor Raymond and money from the sculptor Amelia Peabody, she built the Dover Sun House in Massachusetts, one of the first homes heated by the Sun. Sunlight warmed air behind glass panels on the wall, and the heat was stored in a salt that melts when it is warm and gives the heat back as it sets again at night. During the Second World War she also made a solar still, which used sunlight to turn sea water into drinking water for people adrift in life rafts.",
+   "then": "The house stayed warm for a few winters. Then the salt separated and stopped storing heat well, and an ordinary heater was put in. Some engineers used this failure to argue against her ideas, and she left the university's solar project after disagreements with its leaders.",
+   "now": "Storing heat in materials that melt and set again is used today in buildings and in cold boxes for medicines. Storing the Sun's energy cheaply, for nights and cloudy days, is still one of the biggest unsolved problems in clean energy.",
+   "status": "accepted",
+   "ask": "Telkes's house worked for a few winters, then failed. Was it a failure or a first step? What would you need to know to decide?",
+   "day": 7
+  }
+ ],
+ "story": {
+  "title": "The Slow Blue Flame",
+  "text": [
+   "I am Ponni, a cow. I live behind a house in a village near Thanjavur, where the paddy fields lie flat and green all the way to the edge of the sky. Every morning Kayal unties my rope and walks me to the canal bank. I eat grass there until the sun has warmed my back right through.",
+   "Every evening Kayal's mother, Amudha, cooks on a mud stove in the corner of the kitchen. She feeds it sticks and the flat cakes of my dung that she dries on the wall. Smoke rolls out of the kitchen door and drifts over my shed. It stings my eyes. It stings Kayal's eyes too. When the stove is lit, she coughs, a small dry cough that goes on into the night. I hear it through the wall.",
+   "The sticks are far away. Some days Amudha walks for two hours to gather enough. She goes further every year, because the trees near the village have been cut.",
+   "One morning a woman came down the lane on a scooter, with rolled-up papers under her arm. Her name was Selvi, and she was from the women's group in the next village. She stood and looked at me for a long time.",
+   "\"How many baskets of dung does she give you in a day?\" she asked.",
+   "\"Two,\" said Amudha.",
+   "Selvi smiled. \"Then she can cook your dinner.\"",
+   "I did not know what this meant. I had never cooked anything in my life.",
+   "For a week, women from both villages came and dug a deep round pit beside my shed. Kayal's father, Murugan, stood and watched with his arms folded. \"Gas from dung?\" he said. \"The dung burns already. Why bury it in a hole?\" Selvi did not argue with him. She showed him how to lay the bricks in a curve to make the round tank and its dome, and where the pipe would run from the top of the dome to the kitchen. By the end of the week, he was laying bricks faster than anyone.",
+   "Then they began to feed it. Every morning, Kayal scooped up my dung, mixed it in a bucket with the same amount of water, and stirred it until it was smooth. She poured it into the mouth of the tank, and it slid down into the dark.",
+   "Nothing happened. One week passed. Then two. Murugan made jokes about it at the tea shop. Kayal knelt beside the tank and put her ear against the cool bricks. \"Is anyone in there?\" she whispered.",
+   "There was. Selvi had told them, though I do not think Kayal believed it yet. Down in the dark, where there was no air, millions of tiny living beings were waking up. They were far too small to see. They had come in with my dung, from my own belly, where they and their cousins had helped me break down the grass I ate. Now, in the warm, dark tank, they went on eating whatever was left. And as they ate, they gave off a gas.",
+   "In the third week, the pipe began to hiss. Selvi came on her scooter. \"Let the first gas go,\" she said. \"It is mixed with air, and it will not burn well.\" They opened the tap and let it out.",
+   "A few days later, in the evening, Amudha struck a match and held it to the new steel burner. There was a soft sound, like someone breathing out. Then a ring of blue flame stood up, steady and quiet. There was no smoke at all.",
+   "Kayal laughed and clapped her hands. Amudha put the rice on. Murugan came in, looked at the flame for a long time, and said nothing, which for him is a great deal.",
+   "That night I lay in my shed and thought about it. All day I had eaten grass in the sun. The grass had grown in that same sun. Every blade had caught the light and used it to build their own bodies. I had eaten those bodies. Some of what I ate became me. Some of it kept me warm on cold nights and moved my legs along the canal bank. What I could not use, I passed on. The tiny beings in the dark had taken what was left and let it out as gas. And now that gas was a blue flame under a pot of rice.",
+   "Nothing in that flame was new. It was the sunlight that had warmed my back that morning, passed along from the grass, to me, to the tiny beings, to the pot.",
+   "After that, the kitchen stayed clear. Amudha did not walk for sticks any more. In the afternoons she sat with Kayal over her school books. The thick slurry that flowed out of the far side of the tank went onto the vegetable patch, and the brinjals grew fat and shiny.",
+   "One night, about a month later, I noticed that the coughing had stopped. The house was quiet. I lay in the dark and listened to the quiet for a long time."
+  ],
+  "epiphany": "For the parent: the turn comes when Ponni lies in her shed and follows the energy in the flame backwards: from the gas, to the tiny microbes in the tank, to her own body, to the grass, to the morning sun on her back. No energy was made. It was passed along, with some used at every step, which is conservation of energy and the Sun behind almost everything. The story also holds the slow, hidden work of microbes, the women who build the plant and teach the doubting man, and the cost of smoke, which the child meets again on Days 5, 6 and 8.",
+  "ask": [
+   "Why did nothing happen in the tank for the first two weeks?",
+   "Ponni says nothing in the blue flame was new. Where did its energy come from? Follow it back as far as you can.",
+   "Why did Kayal's cough stop?",
+   "Murugan laughed at the idea at first. What changed his mind?",
+   "The tiny beings in the tank did the most important work, and nobody saw them. Who else does important work that nobody sees?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Energy is never made or destroyed. It moves, changes form, and in the end spreads out as heat.",
+   "more": "The bottle swapped stored energy for kinetic energy and back, and each swing a little turned into heat in the air. The rubbed coin got warm from the movement of a hand. Once energy has spread out as heat, it is very hard to gather back, which is why we talk about saving energy even though it is never lost."
+  },
+  {
+   "idea": "Almost all the energy we use started as sunlight.",
+   "more": "Food, firewood and biogas hold sunlight that plants caught recently. Coal, oil and gas hold sunlight from hundreds of millions of years ago. Wind and rivers are moved by the Sun's heat. The exceptions are nuclear energy, from atoms made long ago in older stars, the Earth's inner heat, and the tides, which are moved mostly by the Moon's gravity. The energy relay on Day 5 shows how it flows."
+  },
+  {
+   "idea": "Every change wastes some energy as heat, so how well we use energy matters.",
+   "more": "An old bulb turns most of its electricity into heat, while an LED gives the same light with about a sixth of the electricity. A coal power station turns only about a third of the coal's energy into electricity. In a food chain, only about a tenth passes on at each step. Use the 100 rice grains on Day 3 to show it."
+  },
+  {
+   "idea": "Energy has costs that do not show up on the bill.",
+   "more": "Smoke from coal and firewood harms people's lungs, mines change land and lives, and carbon dioxide warms the whole Earth. These costs often fall on people far from those who use the energy. The family energy plan and the 'Enough, or more?' talk on Day 8 bring this out."
+  }
+ ],
+ "unknowns": [
+  "Since 1998, astronomers have found that the universe is growing faster and faster. They call whatever is causing this 'dark energy'. Nobody knows what it is.",
+  "Energy is never made or destroyed, so where did all the energy in the universe come from at the start? Some physicists think the total energy of the universe may add up to zero, but nobody knows for sure.",
+  "The Sun makes its energy by fusion, squeezing tiny hydrogen atoms together into helium. Scientists in many countries, India among them, are trying to build fusion power stations on Earth, but nobody has yet built one that makes more electricity than it uses.",
+  "Nobody has yet found a cheap way to store enough of the Sun's and wind's energy for whole cities to use at night and on still, cloudy days. Many scientists and engineers are working on it."
+ ],
+ "books": [
+  {
+   "title": "Energy Island: How One Community Harnessed the Wind and Changed Their World",
+   "author": "Allan Drummond",
+   "for": "read together",
+   "age": "6–10",
+   "why": "The true story of Samsø, a Danish island where the people decided together to make all their electricity from the wind."
+  },
+  {
+   "title": "The Boy Who Harnessed the Wind (picture book edition)",
+   "author": "William Kamkwamba and Bryan Mealer, illustrated by Elizabeth Zunon",
+   "for": "read together",
+   "age": "6–10",
+   "why": "The true story of a boy in Malawi who built a windmill from scrap to bring electricity and water to his family's farm during a famine."
+  },
+  {
+   "title": "Energy (DK Eyewitness)",
+   "author": "Jack Challoner",
+   "for": "read alone",
+   "age": "8–12",
+   "why": "Clear photographs and short sections on every form of energy, how power stations work and how energy changes form."
+  }
+ ],
+ "check": [
+  {
+   "q": "What happens to the energy of a swinging bottle as it goes from the top of its swing to the bottom and up again?",
+   "a": "At the top it has the most stored energy and is still for a moment. As it falls, the stored energy becomes kinetic energy, so it is fastest at the bottom. As it rises, the kinetic energy becomes stored energy again. Each swing a little energy turns into heat, so it never comes back as high as where it started."
+  },
+  {
+   "q": "If energy is never made or destroyed, why do moving things stop?",
+   "a": "Their kinetic energy turns into heat, through friction and by pushing the air, and a little into sound. The energy is still there, but it has spread out into the surroundings as heat, so it cannot keep the thing moving."
+  },
+  {
+   "q": "A scooter goes twice as fast. How much more kinetic energy does it have, and why does this matter on the road?",
+   "a": "Four times as much, because kinetic energy grows with the speed times the speed. A crash at twice the speed carries four times the energy, so it does much more damage."
+  },
+  {
+   "q": "How does your body get energy from food, and how do you know it uses energy even when you are asleep?",
+   "a": "Food holds chemical energy stored from sunlight. Inside our cells, food joins slowly with the oxygen we breathe in, and the energy is stored in ATP and then spent on every job. Even asleep, the heart beats, we breathe, the brain works and the body stays warm."
+  },
+  {
+   "q": "Why does a forest have many more deer than tigers?",
+   "a": "At each step of a food chain, most of the energy is used for living and spreads out as heat. Only about a tenth passes on to the next eater. So the energy in the deer can feed only a few tigers."
+  },
+  {
+   "q": "Why are coal, oil and gas called fossil fuels, and why are they non-renewable?",
+   "a": "They formed from plants and tiny sea creatures that were buried and pressed underground for millions of years. They hold very old stored sunlight. We burn them far faster than they can form, so they will run out."
+  },
+  {
+   "q": "How does a coal power station make electricity?",
+   "a": "Burning coal boils water. The steam spins a turbine, and the turbine turns a generator, where magnets spin inside coils of wire to make electricity. Only about a third of the coal's energy becomes electricity. The rest is lost as heat."
+  },
+  {
+   "q": "How many units does a 2000-watt geyser use in 30 minutes, and name two ways your family can save electricity.",
+   "a": "2000 watts for half an hour is 1000 watt-hours, which is 1 unit. Good ways to save: switch off fans and lights in empty rooms, use LED bulbs, set the AC a few degrees warmer, switch the geyser off when the water is hot, and dry clothes in the sun."
+  }
+ ]
+}

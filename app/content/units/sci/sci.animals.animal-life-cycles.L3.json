@@ -140,7 +140,7 @@
   {
    "term": "Chrysalis",
    "meaning": "The hard case of a butterfly pupa. It is the pupa's own skin, not something they build.",
-   "example": "A lime butterfly chrysalis can be green or brown, like the twig it hangs on.",
+   "example": "A lime butterfly chrysalis can be green or brown, like the twig they hang on.",
    "art": "A green chrysalis held to a stem by a thin silk belt.",
    "context": "This is a word card from the unit on animal life cycles."
   },
@@ -383,7 +383,7 @@
     "Some frogs skip the tadpole stage, and scientists study why."
    ],
    "perspectives": [],
-   "art": "A chrysalis hanging from a twig with a big question mark drawn faintly inside it.",
+   "art": "A chrysalis hanging from a twig with a big question mark drawn faintly inside the case.",
    "context": "This card lists questions about life cycles that scientists still cannot answer."
   }
  ],
@@ -483,7 +483,7 @@
    "context": "This is a big question from the unit on animal life cycles. There is no single right answer."
   },
   {
-   "q": "How does a waiting cell inside a caterpillar know it should become a wing and not a leg?",
+   "q": "How does a waiting cell inside a caterpillar know to become a wing and not a leg?",
    "kind": "deep",
    "hint": "Every cell has the same instructions inside. Maybe each one is told which part of the instructions to use.",
    "context": "This is a big question from the unit on animal life cycles. There is no single right answer."
@@ -853,18 +853,6 @@
    "mins": 20,
    "items": [
     {
-     "t": "mcq",
-     "p": "What is a life cycle?",
-     "opts": [
-      "All the stages of an animal's life, in order, going round again",
-      "How long an animal lives",
-      "The way an animal moves",
-      "The food an animal eats"
-     ],
-     "a": 0,
-     "why": "A life cycle is all the stages, from egg or baby to adult, and the adult makes new eggs or babies. Picking 'how long an animal lives' mixes up a life cycle with a lifespan. A lifespan is just a number of years."
-    },
-    {
      "t": "order",
      "p": "Put the stages of a butterfly in order, starting at the beginning: butterfly, caterpillar, egg, chrysalis.",
      "items": [
@@ -890,23 +878,23 @@
      "why": "Frogspawn hatches into tadpoles. Tadpoles grow legs and become froglets. Froglets lose their tails and become frogs."
     },
     {
-     "t": "order",
-     "p": "Put the stages of a hen in order: chick, hen, egg.",
-     "items": [
-      "egg",
-      "chick",
-      "hen"
-     ],
-     "a": "order shown",
-     "why": "A chick hatches from an egg and grows into a hen. A hen has only three stages, because the chick does not change shape."
+     "t": "write",
+     "p": "Why do we draw a life cycle as a circle, and not as a straight line?",
+     "lines": 3,
+     "a": "Because the adult makes new eggs or babies, and they go through the same stages again. A frog lays frogspawn, the frogspawn becomes tadpoles, and the tadpoles grow into frogs who lay frogspawn.",
+     "why": "A life cycle has no end point. Each adult starts the next round, so the stages go round and round."
     },
     {
-     "t": "fill",
-     "p": "A young frog that lives in water and swims with a tail is called a ____.",
-     "a": [
-      "tadpole"
+     "t": "mcq",
+     "p": "Which stage of a butterfly does most of the eating?",
+     "opts": [
+      "The caterpillar",
+      "The chrysalis",
+      "The egg",
+      "The butterfly"
      ],
-     "why": "A tadpole is the young of a frog or toad. They live in water and breathe with gills at first."
+     "a": 0,
+     "why": "The caterpillar eats leaves all day and grows fast. The chrysalis does not eat at all. The butterfly only sips nectar. Picking 'the butterfly' is a common guess, because that is the stage we see most."
     },
     {
      "t": "fill",
@@ -915,14 +903,6 @@
       "metamorphosis"
      ],
      "why": "Metamorphosis means a big change of shape. The young animal's body rebuilds itself into a new form."
-    },
-    {
-     "t": "fill",
-     "p": "The yellow part of an egg, which is food for the chick, is called the ____.",
-     "a": [
-      "yolk"
-     ],
-     "why": "The yolk is the chick's food store. The growing chick uses it up over 21 days."
     },
     {
      "t": "sort",
@@ -961,30 +941,6 @@
      "why": "Chicks, calves and puppies look like small versions of their parents. Tadpoles, caterpillars and mosquito wrigglers look nothing like their parents, and go through metamorphosis."
     },
     {
-     "t": "match",
-     "p": "Match each baby to their grown-up.",
-     "pairs": [
-      [
-       "tadpole",
-       "frog"
-      ],
-      [
-       "caterpillar",
-       "butterfly"
-      ],
-      [
-       "chick",
-       "hen"
-      ],
-      [
-       "wriggler",
-       "mosquito"
-      ]
-     ],
-     "a": "pairs as given",
-     "why": "Each young animal grows into their own kind of adult. Some look very different, like the wriggler and the mosquito."
-    },
-    {
      "t": "truefalse",
      "p": "A butterfly comes out of a cocoon.",
      "a": false,
@@ -995,13 +951,8 @@
      "p": "A tadpole's tail falls off when they become a frog.",
      "a": false,
      "why": "False. The tail gets shorter a little each day. Its cells are broken down and the body uses the material to build the frog. Nothing drops off.",
-     "how": "e3"
-    },
-    {
-     "t": "truefalse",
-     "p": "Eggs from a farm with no rooster will hatch if you keep them warm.",
-     "a": false,
-     "why": "False. With no rooster, the eggs are not fertilised. They can never grow a chick, however warm they are kept. Most shop eggs come from farms like this."
+     "how": "e3",
+     "context": "Tadpole Watch is a six-week monsoon experiment. You keep a few tadpoles in pond water and measure their tails every second day."
     },
     {
      "t": "mcq",
@@ -1018,15 +969,14 @@
     },
     {
      "t": "mcq",
-     "p": "Which stage of a butterfly does most of the eating?",
+     "p": "A tadpole has a tail and gills. A frog has legs and lungs. Why must a tadpole change before living on land?",
      "opts": [
-      "The caterpillar",
-      "The chrysalis",
-      "The egg",
-      "The butterfly"
+      "Gills work only in water, and a tail cannot hop. Lungs and legs suit life on land",
+      "The tadpole gets bored of the water",
+      "Frogs cannot swim, so they must leave the water"
      ],
      "a": 0,
-     "why": "The caterpillar eats leaves all day and grows fast. The chrysalis does not eat at all. The butterfly only sips nectar. Picking 'the butterfly' is a common guess, because that is the stage we see most."
+     "why": "Each body suits a place. Gills take oxygen from water but collapse in air, and a tail is for swimming. Lungs breathe air, and legs hop and climb. Picking 'frogs cannot swim' is wrong, because frogs swim very well."
     },
     {
      "t": "draw",
@@ -1037,10 +987,63 @@
     },
     {
      "t": "write",
-     "p": "Your friend says, 'A caterpillar and a butterfly are two different animals.' What would you tell them?",
+     "p": "Your friend Nila says, 'A caterpillar and a butterfly are two different animals.' What would you tell her?",
      "lines": 3,
      "a": "They are the same animal at two different stages of their life. The caterpillar makes a chrysalis, and their body is rebuilt into the butterfly. They even have the same genes.",
      "why": "Metamorphosis changes the body, but it is one animal all the way through. Scientists check this with genes, which match exactly."
+    },
+    {
+     "t": "write",
+     "p": "In the Wriggler Check, you looked for mosquito babies in still water at home. Why does tipping out the water in a flowerpot tray stop mosquitoes?",
+     "lines": 3,
+     "a": "Mosquito eggs, wrigglers and tumblers all live in water. If the water is tipped out, the young cannot grow into flying adults. Doing it every week breaks the life cycle.",
+     "why": "Three of the four stages of a mosquito live in water. Take away the water, and the cycle stops before the adult stage.",
+     "how": "a6",
+     "context": "In the Wriggler Check, you looked for mosquito babies, called wrigglers, in still water at home."
+    },
+    {
+     "t": "match",
+     "p": "Match each part of an egg to its job.",
+     "pairs": [
+      [
+       "yolk",
+       "food for the chick"
+      ],
+      [
+       "white",
+       "water and a cushion"
+      ],
+      [
+       "twisted cords",
+       "hold the yolk in the middle"
+      ],
+      [
+       "shell",
+       "protects, and lets air in through tiny holes"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Every part of an egg does a job for the growing chick. Together they make a complete home and food store.",
+     "how": "a1",
+     "context": "In Open an Egg like a Scientist, you cracked an egg and found all its parts."
+    },
+    {
+     "t": "perspective",
+     "p": "Two sisters argue about which way of growing up works better.",
+     "views": [
+      {
+       "who": "Divya, in Class 4",
+       "says": "Changing shape is better. A caterpillar eats leaves and a butterfly sips nectar, so the young and the adults never fight over food."
+      },
+      {
+       "who": "Priya, her older sister",
+       "says": "Just growing is better. A chick can run and peck from the first day. They never spend days stuck in a chrysalis, where a bird can eat them."
+      }
+     ],
+     "ask": "Which way of growing up do you think works better? Give a reason from this unit. Then say one thing the other sister has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side and gives a reason, such as young and adults using different food, or a chick being ready to move at once. It also names a real cost of its own side, such as a chrysalis that cannot run away, or a hen who must find food for her chicks.",
+     "why": "Both ways work, which is why both are common. Each has a cost and a benefit. Scientists still argue about why metamorphosis first began."
     }
    ],
    "context": "This worksheet checks the main ideas of the unit: the stages of a frog, a butterfly and a hen, and what metamorphosis is."
@@ -1099,7 +1102,7 @@
      "a": 0,
      "why": "The tail is broken down and its material is used to build the frog. Meanwhile, the mouth and gut are being rebuilt for eating insects. Picking 'sick' is a natural worry. But sick tadpoles don't grow new legs and lungs.",
      "how": "e3",
-     "context": "Tadpole Watch is a six-week monsoon experiment. You keep a few tadpoles in pond water and measure them every second day."
+     "context": "Tadpole Watch is a six-week monsoon experiment. You keep a few tadpoles in pond water and measure their tails every second day."
     },
     {
      "t": "mcq",
@@ -1149,46 +1152,11 @@
     },
     {
      "t": "fill",
-     "p": "A chick takes about ____ days to grow inside their egg.",
-     "a": [
-      "21",
-      "twenty-one"
-     ],
-     "why": "About 21 days, which is three weeks, if the egg is kept warm and turned."
-    },
-    {
-     "t": "fill",
      "p": "A chemical message carried in the blood, which tells a tadpole when to change, is called a ____.",
      "a": [
       "hormone"
      ],
      "why": "A hormone is a chemical message. A tadpole's thyroid makes the hormone that starts their metamorphosis."
-    },
-    {
-     "t": "match",
-     "p": "Match each part of an egg to its job.",
-     "pairs": [
-      [
-       "yolk",
-       "food for the chick"
-      ],
-      [
-       "white",
-       "water and a cushion"
-      ],
-      [
-       "twisted cords",
-       "hold the yolk in the middle"
-      ],
-      [
-       "shell",
-       "protects, and lets air in through tiny holes"
-      ]
-     ],
-     "a": "pairs as given",
-     "why": "Every part of an egg does a job for the growing chick. Together they make a complete home and food store.",
-     "how": "a1",
-     "context": "In Open an Egg like a Scientist, you cracked an egg and found all its parts."
     },
     {
      "t": "sort",
@@ -1239,12 +1207,13 @@
      "why": "False. Much of the caterpillar's body is broken down. But the waiting cells stay whole and grow into wings, legs and eyes, and some parts are kept and rebuilt."
     },
     {
-     "t": "truefalse",
-     "p": "In the Naked Egg experiment, the egg stayed whole after the shell was gone.",
-     "a": true,
-     "why": "True. Two thin, strong skins under the shell held it together.",
+     "t": "write",
+     "p": "In the Naked Egg experiment, vinegar took away the eggshell, but the egg did not fall apart. What held the egg together? Why would this help a growing chick?",
+     "lines": 3,
+     "a": "Two thin, strong skins under the shell, called membranes, held the egg together. They keep water in and germs out, and hold the white and yolk in place while the chick grows.",
+     "why": "The shell is only the outside guard. The membranes inside also protect the growing chick.",
      "how": "e2",
-     "context": "In the Naked Egg experiment, you left an egg in vinegar for two days until its shell was gone."
+     "context": "In the Naked Egg experiment, you left an egg in vinegar for two days until the shell was gone."
     },
     {
      "t": "write",
@@ -1265,12 +1234,40 @@
      "context": "In Rebuild the Body, you made a dough caterpillar with folded papers inside, then rebuilt it into a butterfly."
     },
     {
+     "t": "write",
+     "p": "A tadpole's thyroid makes the hormone that starts the change into a frog. Predict: what would happen to a tadpole whose body could not make this hormone? Why?",
+     "lines": 3,
+     "a": "The tadpole would never become a frog. With no hormone, there is no message to start the change. Scientists have found that such tadpoles keep growing and stay tadpoles, sometimes becoming very big.",
+     "why": "A hormone is the signal that starts metamorphosis. Without the signal, the body carries on as it is."
+    },
+    {
+     "t": "perspective",
+     "p": "Lakshmi found a lime butterfly caterpillar on the curry leaf plant on her balcony. Her family has different ideas.",
+     "views": [
+      {
+       "who": "Lakshmi, in Class 3",
+       "says": "Let's raise them in a cage at home. We can watch every stage, and wasps and birds can't eat them."
+      },
+      {
+       "who": "Her aunt Farida",
+       "says": "Leave them on the plant. That is where they belong, and we can still watch them there every day."
+      },
+      {
+       "who": "A butterfly scientist",
+       "says": "Raising one is fine if you give them fresh leaves of their own plant, keep the cage clean, and let the butterfly go where you found her."
+      }
+     ],
+     "ask": "What would you do? Pick a side and give a reason. Then answer back from another side.",
+     "lines": 5,
+     "a": "A strong answer picks a side with a reason, for example that a cage protects the caterpillar, or that they are safest on their own plant and no handling. It then answers back fairly from another side, for example that wild caterpillars face wasps and birds.",
+     "why": "This is a real trade-off. Raising a caterpillar teaches a lot and keeps them safe from predators, but it needs care every day. Watching them on the plant needs no cage but you may miss stages."
+    },
+    {
      "t": "draw",
-     "p": "Draw a mosquito's life cycle: egg, wriggler, tumbler, adult. Show which stages live in water.",
-     "a": "Eggs on the water, a wriggler hanging under the surface, a curled tumbler in the water, and a flying adult. The first three are in water.",
-     "why": "Three of the four stages live in water. That is why tipping out still water stops mosquitoes.",
-     "how": "a6",
-     "context": "In the Wriggler Check, you looked for mosquito babies in still water at home."
+     "p": "Draw the life cycle of a grasshopper and of a butterfly side by side. Circle the stage that the grasshopper does not have.",
+     "a": "Grasshopper: egg, nymph, adult. Butterfly: egg, caterpillar, chrysalis, butterfly. The chrysalis, or pupa, is circled.",
+     "why": "A grasshopper nymph grows a little more like an adult at each moult, so they need no pupa. A caterpillar looks nothing like a butterfly, so the body is rebuilt inside a chrysalis.",
+     "art": "Two empty circles side by side, one labelled grasshopper and one labelled butterfly."
     }
    ],
    "context": "This worksheet goes further: moulting, eggs, hormones, the tadpole's tail and how different insects grow up."
@@ -1283,17 +1280,6 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In 1912, Friedrich Gudernatsch fed tadpoles a little dried thyroid. What happened?",
-     "opts": [
-      "They turned into tiny frogs much too early",
-      "They stayed tadpoles for ever",
-      "They grew into giant tadpoles"
-     ],
-     "a": 0,
-     "why": "The thyroid makes the hormone that switches on metamorphosis. Extra hormone made the change start early. Picking 'giant tadpoles' is close to the opposite result. Tadpoles without a thyroid stay tadpoles and keep growing."
-    },
-    {
-     "t": "mcq",
      "p": "Francesco Redi covered some jars of meat with thin cloth, and left others open. Maggots grew only in the open jars. What did this show?",
      "opts": [
       "Maggots come from eggs laid by flies, not from the meat",
@@ -1304,26 +1290,22 @@
      "why": "Flies could not reach the covered meat, so they couldn't lay eggs there. So maggots must come from fly eggs. Picking 'cloth stops meat going bad' misses the point. The covered meat still went bad, it just had no maggots."
     },
     {
-     "t": "mcq",
-     "p": "Why might it help a frog that their tadpoles live in water and eat slime, while adult frogs live on land and eat insects?",
-     "opts": [
-      "The young and adults don't compete for the same food",
-      "Tadpoles cannot catch insects",
-      "Frogs cannot swim"
+     "t": "perspective",
+     "p": "In 2008, Doug Blackiston and his team taught moth caterpillars to stay away from one smell. After metamorphosis, many of the adult moths still stayed away from it. Scientists explain this in different ways.",
+     "views": [
+      {
+       "who": "Doug Blackiston's team",
+       "says": "Some memory passed through the pupa. Parts of the caterpillar's brain were kept and carried the memory into the moth."
+      },
+      {
+       "who": "Scientists who want more tests",
+       "says": "Maybe the moths remembered nothing. A little of the smell chemical may have stayed in their body from the caterpillar days, and kept them away."
+      }
      ],
-     "a": 0,
-     "why": "When the young and the adults eat different food in different places, they don't take food from each other. This is one idea for why metamorphosis is useful. No one can go back in time to check how it began. 'Frogs cannot swim' is false, because frogs swim well."
-    },
-    {
-     "t": "mcq",
-     "p": "In 2008, scientists taught moth caterpillars to stay away from one smell. Many of the adult moths still stayed away from it. What might this mean?",
-     "opts": [
-      "Some memory may survive metamorphosis",
-      "Moths can't smell",
-      "The caterpillars never changed"
-     ],
-     "a": 0,
-     "why": "It suggests that some part of what the caterpillar learned passes through the pupa. Other scientists want more tests before they are sure. Picking 'the caterpillars never changed' can't be right, because they became moths with wings."
+     "ask": "Which idea do you find more convincing? What test would help decide? Then answer back from the other side.",
+     "lines": 5,
+     "a": "A strong answer picks a side and suggests a test, for example washing the pupae well or training caterpillars that are too young for the memory to be kept. It answers back fairly, for example that a body rebuilt in a chrysalis might still keep some brain cells.",
+     "why": "Both ideas fit the first result. Good scientists design a test that would turn out differently if one idea were true and the other false."
     },
     {
      "t": "mcq",
@@ -1374,10 +1356,15 @@
      }
     },
     {
-     "t": "truefalse",
-     "p": "Some frogs in the Western Ghats hatch straight out of the egg as tiny froglets, with no tadpole stage.",
-     "a": true,
-     "why": "True. Some bush frogs lay their eggs on land, on leaves or moss. The tadpole stage happens inside the egg, and a tiny froglet hatches."
+     "t": "mcq",
+     "p": "Some bush frogs in the Western Ghats lay their eggs on wet leaves, far from any pond. Predict: what hatches from these eggs?",
+     "opts": [
+      "A tiny froglet. The tadpole stage happens inside the egg",
+      "A tadpole, who then crawls to a pond",
+      "Nothing, because frog eggs must be in water"
+     ],
+     "a": 0,
+     "why": "These bush frogs skip the free-swimming tadpole. The young grows through the tadpole stage inside the egg, and a tiny froglet hatches. Picking 'nothing' is a fair first guess, because most frog eggs need ponds."
     },
     {
      "t": "truefalse",
@@ -1400,24 +1387,28 @@
      "why": "Imaginal discs. 'Imago' is the old scientific word for an adult insect."
     },
     {
-     "t": "fill",
-     "p": "A moth caterpillar spins a silk case called a ____. A butterfly pupa is called a ____.",
-     "a": [
-      "cocoon, chrysalis"
+     "t": "order",
+     "p": "Put these events inside a fertilised hen's egg in order, over 21 days.",
+     "items": [
+      "A tiny spot on the yolk starts to grow",
+      "A heart starts beating",
+      "Feathers start to grow",
+      "The chick pokes their beak into the air pocket",
+      "The chick cracks the shell and hatches"
      ],
-     "why": "A cocoon is made of silk spun by a moth caterpillar. A chrysalis is the hard skin of a butterfly pupa."
+     "a": "order shown",
+     "why": "The heart beats after about two days. Feathers start after about ten. Just before hatching, the chick pokes into the air pocket and takes a first breath of air, then cracks the shell on about day 21."
     },
     {
-     "t": "odd",
-     "p": "Which is the odd one out, and why? Butterfly, mosquito, honeybee, grasshopper.",
+     "t": "mcq",
+     "p": "In the 1600s, many people thought caterpillars grew out of rotting leaves or mud. Maria Sibylla Merian watched caterpillars for years and painted each one with the plant they ate. What did her careful watching show?",
      "opts": [
-      "butterfly",
-      "mosquito",
-      "honeybee",
-      "grasshopper"
+      "Each caterpillar hatches from an egg laid by a butterfly or moth on their own food plant",
+      "Butterflies grow out of flowers",
+      "Caterpillars never eat"
      ],
-     "a": 3,
-     "why": "The grasshopper is the odd one out. They have no pupa. Their nymphs look like small adults. The other three have four stages: egg, larva, pupa and adult."
+     "a": 0,
+     "why": "Merian raised caterpillars and recorded every stage, from egg to adult, with their food plant. This helped show that small animals come from eggs, not from mud. Picking 'flowers' mixes up where butterflies feed with where they come from."
     },
     {
      "t": "write",
@@ -1427,11 +1418,22 @@
      "why": "Both ways work, in different lives. Scientists compare these two ways: many young with no care, or a few young with lots of care."
     },
     {
-     "t": "write",
-     "p": "Silk is made from silkworm cocoons. Usually the pupa inside is killed so the thread stays in one long piece. Some people make 'peace silk', where the moth comes out first. What do you think, and why?",
-     "lines": 3,
-     "a": "Any honest, thought-out answer is good. For example: I think peace silk is kinder, because the moth gets to finish their life cycle, even if the thread is shorter.",
-     "why": "This is a question about fairness, not a fact. The best answers say what they think and give a reason."
+     "t": "perspective",
+     "p": "Silk is made from the cocoons of silk moths. Usually the pupa inside is killed, so the thread stays in one long piece. People see this in different ways.",
+     "views": [
+      {
+       "who": "Revathi, a silk weaver in Kanchipuram",
+       "says": "Ordinary silk keeps the thread long and strong. It gives work to many families."
+      },
+      {
+       "who": "Someone who makes 'peace silk'",
+       "says": "The moth should come out first and finish their life cycle. A shorter, rougher thread is a fair price."
+      }
+     ],
+     "ask": "What do you think? Pick a side and give a reason. Then say one thing the other side has right.",
+     "lines": 5,
+     "a": "A strong answer gives a clear view with a reason, for example the moth's life or the weavers' work. It fairly states what the other side has right. There is no single right answer.",
+     "why": "This is a question about fairness, not a fact. Both sides have real reasons, and a good answer weighs them."
     },
     {
      "t": "write",
@@ -1449,26 +1451,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw a waiting cell inside a caterpillar, and then draw what it becomes inside the chrysalis.",
+     "p": "Draw a waiting group of cells inside a caterpillar. Then draw what they become inside the chrysalis.",
      "a": "A tiny flat patch of cells inside the caterpillar, then a big wing inside the chrysalis.",
-     "why": "The wing was there all along as a tiny flat pocket of cells, waiting. In the chrysalis, it grows fast using the caterpillar's material."
-    },
-    {
-     "t": "label",
-     "p": "Label the parts of the egg in the picture: shell, skin, air pocket, white, twisted cord, yolk.",
-     "labels": [
-      "shell",
-      "skin",
-      "air pocket",
-      "white",
-      "twisted cord",
-      "yolk"
-     ],
-     "a": "Shell on the outside, skin just inside it, air pocket at the round end, white around the yolk, twisted cords on each side of the yolk, yolk in the middle.",
-     "why": "Each part has a job. Together they keep the chick fed, cushioned and breathing for 21 days.",
-     "how": "a1",
-     "context": "In Open an Egg like a Scientist, you cracked an egg and found all its parts.",
-     "art": "A cut-open egg diagram with six blank label lines."
+     "why": "The wing was there all along as a tiny flat pocket of cells, waiting. In the chrysalis, these cells grow fast, using the caterpillar's material."
     }
    ],
    "context": "This worksheet is for children who want a challenge: the history of discoveries, memory through metamorphosis, atoms and fairness."
@@ -2778,7 +2763,7 @@
     {
      "id": "s6",
      "mins": 20,
-     "do": "1. When the chrysalis turns dark and you see wing colours, check it often. 2. Watch the butterfly come out. 3. Wait 2 to 3 hours for their wings to dry. 4. Take the cage to the plant and open it.",
+     "do": "1. When the chrysalis turns dark and you see wing colours, check often. 2. Watch the butterfly come out. 3. Wait 2 to 3 hours for their wings to dry. 4. Take the cage to the plant and open it.",
      "say": "Here they come. Their wings are soft and crumpled. They are pumping blood into them. Don't help them. They need to do this themself to make their wings strong.",
      "kid": "The butterfly is coming out! Watch them pump up their wings. Don't help. Wait for them to dry. Then let them go.",
      "adult": true,
@@ -3037,7 +3022,7 @@
     "Caterpillar, egg, butterfly, chrysalis"
    ],
    "a": 0,
-   "why": "The caterpillar hatches from the egg and later makes the chrysalis. Picking 'egg, chrysalis, caterpillar' puts the chrysalis before the caterpillar. But the caterpillar is the one that makes it.",
+   "why": "The caterpillar hatches from the egg and later makes the chrysalis. Picking 'egg, chrysalis, caterpillar' puts the chrysalis before the caterpillar. But the chrysalis forms from the caterpillar, so the caterpillar must come first.",
    "outcome": 0
   },
   {

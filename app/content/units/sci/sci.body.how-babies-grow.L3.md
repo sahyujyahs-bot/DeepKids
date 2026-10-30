@@ -32,7 +32,7 @@
 - **Birth**: The moment the baby comes out of the mother's body into the world. *e.g.* Most babies are born after about nine months, or 40 weeks.
 - **Contraction**: When the muscles of the womb squeeze tight and then relax. Contractions slowly push the baby out at birth. *e.g.* It is a bit like squeezing toothpaste out of a tube, slowly, many times.
 - **Caesarean birth**: A way of being born where doctors carefully open the mother's tummy and womb and lift the baby out. It is said 'si-zair-ee-an'. *e.g.* About one in five babies in India is born this way. It is just as much a birth as any other.
-- **Newborn**: A baby in their first few weeks after birth. *e.g.* A newborn sees best things about 20 to 30 centimetres away. That is the distance to the face of the person holding it.
+- **Newborn**: A baby in their first few weeks after birth. *e.g.* A newborn sees best things about 20 to 30 centimetres away. That is the distance to the face of the person holding them.
 - **Premature**: Born early, before about 37 weeks. Premature babies often need extra warmth and care in hospital. *e.g.* A premature baby may sleep in a warm, see-through box called an incubator.
 - **Adoption**: When a child grows up in a family that did not give birth to them, and becomes part of that family for ever. *e.g.* An adopted child grew in one mother's womb. They are loved and raised by their adoptive family.
 - **DNA**: The instruction book inside every cell. It tells the cell how to grow and what to do. *e.g.* Half your DNA came from the egg cell and half from the sperm cell.
@@ -41,7 +41,7 @@
 ### Everyone begins as one cell · *defined*
 **Definition:** Every person begins as one single cell. This cell is made when a cell from the mother and a cell from the father join together.
 
-A cell is the smallest living building block of a body. The first cell of a baby is about as wide as a hair. This cell is hard to see without a microscope. Inside it is a mix of instructions from both parents. This is why children often look a little like both of their birth parents. That one cell holds everything needed to start building a whole person.
+A cell is the smallest living building block of a body. The first cell of a baby is about as wide as a hair. This cell is hard to see without a microscope. Inside this cell is a mix of instructions from both parents. This is why children often look a little like both of their birth parents. That one cell holds everything needed to start building a whole person.
 - e.g. You, your parents, your grandparents and your friends all began as one cell.
 - e.g. An elephant and a mouse also each began as one cell.
 - e.g. A mango tree began as one cell too, inside the flower that became the seed.
@@ -69,7 +69,7 @@ Before a baby, the womb is about the size of a small pear. As the baby grows, th
 ### The placenta and the cord: food and air · *defined*
 **Definition:** The placenta grows on the wall of the womb. It takes food and oxygen from the mother's blood and passes them along the umbilical cord to the baby. It also takes the baby's waste away.
 
-A baby in the womb is surrounded by water. They cannot eat, and there is no air to breathe. So the mother's body feeds it. Her blood carries food and oxygen to the placenta. The baby's blood comes to the placenta too, through the cord. The two bloods stay apart, with a very thin wall between them. Food and oxygen pass through that wall into the baby's blood. Waste passes back out, and the mother's body gets rid of it.
+A baby in the womb is surrounded by water. They cannot eat, and there is no air to breathe. So the mother's body feeds them. Her blood carries food and oxygen to the placenta. The baby's blood comes to the placenta too, through the cord. The two bloods stay apart, with a very thin wall between them. Food and oxygen pass through that wall into the baby's blood. Waste passes back out, and the mother's body gets rid of it.
 - e.g. The dal and rice the mother eats become part of the baby's growing body.
 - e.g. When the mother breathes in, some of that oxygen ends up in the baby.
 - e.g. The cord is about as long as your arm, and has no nerves, so cutting it does not hurt.
@@ -93,7 +93,7 @@ In the first three months, the body parts form. By about six weeks a tiny heart 
 Doctors have watched babies in the womb using ultrasound. They have seen them yawn, stretch and suck their thumbs. From about six months, babies react to loud sounds. They hear the mother's voice best, because it travels through her own body. After birth, newborns can tell their mother's voice from other voices. In one famous study, newborns even preferred a story their mother had read aloud many times before they were born.
 - e.g. Mothers often feel the baby kick, like a little flutter or a thump.
 - e.g. A baby can get hiccups in the womb. The mother feels a gentle, regular tap.
-- e.g. A newborn often calms down when it hears its mother's voice.
+- e.g. A newborn often calms down when they hear their mother's voice.
 ### Birth · *defined*
 **Definition:** Birth is when the baby leaves the mother's body. Most often the strong muscles of the womb squeeze and push the baby out. Sometimes doctors lift the baby out through a cut in the mother's tummy. This is called a caesarean birth.
 
@@ -108,12 +108,12 @@ Before birth, the lungs are filled with fluid, not air. At birth, the baby breat
 - e.g. Look at your belly button. It is where your cord once joined you to the placenta.
 - e.g. Some belly buttons go in and some stick out. Both are normal.
 - e.g. Newborns are checked at one minute and five minutes after birth, with a score invented by Virginia Apgar.
-### A newborn and the people who care for it · *defined*
-**Definition:** A human newborn cannot walk, feed itself or even hold up its own head. It needs grown-ups to feed it, keep it warm and keep it safe for many years.
+### A newborn and the people who care for them · *defined*
+**Definition:** A human newborn cannot walk, feed themself or even hold up their own head. They need grown-ups to feed them, keep them warm and keep them safe for many years.
 
-A calf can stand within an hour of being born. A human baby takes about a year to walk. Their brain is only about a quarter of its grown-up size, and it keeps growing fast after birth. A newborn sees best things about 20 to 30 centimetres away. That is the distance to the face of the person holding it. Babies stay warm and calm when held skin to skin. Families are made in many ways. A baby may be raised by the parents who gave birth to them, by an adoptive family, by grandparents or by others who love them.
+A calf can stand within an hour of being born. A human baby takes about a year to walk. Their brain is only about a quarter of its grown-up size, and it keeps growing fast after birth. A newborn sees best things about 20 to 30 centimetres away. That is the distance to the face of the person holding them. Babies stay warm and calm when held skin to skin. Families are made in many ways. A baby may be raised by the parents who gave birth to them, by an adoptive family, by grandparents or by others who love them.
 - e.g. Holding a tiny early baby against a grown-up's bare chest keeps them warm. This is called kangaroo care.
-- e.g. A newborn grabs your finger tightly if you put it in its palm.
+- e.g. A newborn grabs your finger tightly if you put it in their palm.
 - e.g. Adopted children grew in a womb like everyone else, and were welcomed into the family that raises them.
 ### How each cell knows what to become · *idea*
 Scientists know that cells send each other chemical messages. A cell can tell where they are by how strong the message around them is. Near the source, the message is strong. Far away, it is weak. This idea was made popular by the English scientist Lewis Wolpert, around 1969. It explains a lot, like why your thumb grows on one side of your hand and your little finger on the other. But a whole body has millions of choices like this. How they all fit together so neatly is still being worked out.
@@ -198,7 +198,7 @@ You began as one cell, made from a cell of each parent. That one cell became tri
 
 On Monday, Miss Fernandes gave the class a job. "Make a book called 'The Story of Me'. Page one is you as a newborn baby. Bring a photo."
 
-Everyone started talking at once. Kabir said his photo had him wrapped in a yellow towel, looking like an angry potato. Zoya said hers was taken in a hospital in Kochi, with a tiny cap on her head. Kavya said nothing at all. She drew a little square in the corner of her notebook, and coloured it in, very hard, until the pencil tip snapped.
+Everyone started talking at once. Nila said her photo had her wrapped in a yellow towel, looking like an angry potato. Zoya said hers was taken in a hospital in Kochi, with a tiny cap on her head. Kavya said nothing at all. She drew a little square in the corner of her notebook, and coloured it in, very hard, until the pencil tip snapped.
 
 Kavya had come to her family when she was three months old. Amma and Appa had driven all night to fetch her from a home for babies in another city. She knew the story by heart. There was the long drive, and the rain, and Appa singing old film songs badly to keep awake. There was Amma holding her for the first time and laughing and crying at once. It was a good story. But it started at three months. Before that, there was nothing. No photo. No first page.
 
@@ -234,7 +234,7 @@ Kavya shook her head.
 
 Kavya held her fingers up close to her eyes. The lines seemed to swirl.
 
-"And before that," said Paati, "you were smaller still. You were one cell, smaller than a grain of salt. That cell was made when a cell from each of the two people who made you joined together. Then that one cell split into two. Two became four. Four became eight. On and on, for months. Some cells became your heart, and it started to beat when you were no bigger than a grain of rice. Some became your eyes. Some became these fingers. Every bit of you came from that one cell. Everybody's did. Kabir's too. Zoya's too. Mine too."
+"And before that," said Paati, "you were smaller still. You were one cell, smaller than a grain of salt. That cell was made when a cell from each of the two people who made you joined together. Then that one cell split into two. Two became four. Four became eight. On and on, for months. Some cells became your heart, and it started to beat when you were no bigger than a grain of rice. Some became your eyes. Some became these fingers. Every bit of you came from that one cell. Everybody's did. Nila's too. Zoya's too. Mine too."
 
 Kavya giggled. Then she was quiet for a while. "The lady who carried me," she said slowly. "She fed me for nine months. Even though she didn't keep me."
 
@@ -248,7 +248,7 @@ That night, Kavya took out the blank first page of her book. Amma found the ink 
 
 Next to it she drew a tiny circle, no bigger than a full stop. She labelled it: 'Me, at the very start.'
 
-On Friday, Miss Fernandes held each book up for the class. When she reached Kavya's, she held it up for a long time. Kabir leaned over to look at his own fingers. Then Zoya did. Then the whole class was holding their hands up to the windows, turning them in the light, looking for the page that had been written on them before they had names.
+On Friday, Miss Fernandes held each book up for the class. When she reached Kavya's, she held it up for a long time. Nila leaned over to look at her own fingers. Then Zoya did. Then the whole class was holding their hands up to the windows, turning them in the light, looking for the page that had been written on them before they had names.
 
 **For the parent:** For the parent: Kavya thinks her story has no beginning because there is no baby photo. Paati shows her that the beginning is on her body. The belly button is the mark of the cord, through which a mother's blood fed the baby for nine months. Fingerprints formed in the womb at about four months, and they never change. However a family is made, by birth or by adoption, every child began as one cell and was carried and fed by someone.
 
@@ -374,7 +374,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - **results table:** Pretend baby | Start (warm, a bit warm or cool) | After 10 minutes | After 20 minutes
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Warm water in a pan and mix it with cold water until it feels comfortably warm on your wrist. 2. Fill three small bottles from the same jug. 3. Close the lids. 4. Let your child feel that they are all the same. 5. Keep all three in the same room, under the fan if it is on.  
-  *Parent says:* These three bottles are pretend babies. They all start equally warm. A tiny newborn loses heat fast. Let's test which way keeps it warm.  
+  *Parent says:* These three bottles are pretend babies. They all start equally warm. A tiny newborn loses heat fast. Let's test which way keeps a pretend baby warm.  
   *Child mode:* Feel all three bottles. They are all the same warm. These are pretend babies.
 - **s2 (3 min)**  
   *Parent does:* 1. Stand one bottle alone on the table. 2. Wrap one in a towel. 3. A grown-up tucks the third against their chest, under a dupatta or shirt.  
@@ -504,7 +504,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Parent does:* Ask which was clearer.  
   *Parent says:* When was my face clearer, close or far?  
   *Child mode:* When was the face clearer, close or far?
-  - Check: A newborn sees most clearly at about what distance? → **About 20 to 30 centimetres, the distance to the face of the person holding it**
+  - Check: A newborn sees most clearly at about what distance? → **About 20 to 30 centimetres, the distance to the face of the person holding them**
 - **s3 (3 min)**  
   *Parent does:* Talk about why this might help a baby.  
   *Parent says:* Why might it be useful for a baby to see faces close up best?  
@@ -522,7 +522,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Child mode:* Mark 40 weeks. Draw one cell at week 1. Draw a heart at week 6. Draw fingers at week 12.
 - **s2 (20 min)**  
   *Parent does:* Draw weeks 13 to 28: week 16, fingerprints forming. Week 18, first kicks the mother feels. Week 20, halfway, banana-sized. Week 24, hearing sounds. Week 28, eyes opening.  
-  *Parent says:* In the middle months, the baby moves a lot. They start to hear. Its fingerprints form.  
+  *Parent says:* In the middle months, the baby moves a lot. They start to hear. Their fingerprints form.  
   *Child mode:* Draw the middle months. Fingerprints at week 16. Kicks at week 18. Hearing at week 24.
   - Check: On the scroll, which of these happens first? → **The heart starts beating**
   - Wait: Do this on day 2.
@@ -555,15 +555,15 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Child mode:* Walk the stairs twice. Then look at the egg. Is it whole?
   - Check: Your egg cracked in a carrier with just one layer of paper. What would most likely help? → **Fill the space around the egg with water or soft padding**
 ### c2 · Hold My Head! A safe baby sling (25 min)
-- **problem:** A newborn cannot hold up its own head for the first few months. Design a sling from a dupatta or cloth that holds a doll safely, with its head supported.
+- **problem:** A newborn cannot hold up their own head for the first few months. Design a sling from a dupatta or cloth that holds a doll safely, with its head supported.
 - **your turn:** Now design your own sling. Draw it, tie it with a grown-up, and walk around the room. Does the head stay up? Is the face clear?
 - **constraints:** Use only one long piece of cloth and, if you like, a safety pin a grown-up closes.; The doll's head must not flop backwards.; The doll's face must be visible, not covered.
 - **general:** Tie the cloth across one shoulder and the opposite hip, like a sash.; Hold the doll upright against the chest, tummy to tummy.; Pull a fold of cloth up behind the doll's head.
 - **creative:** Look at how grandmothers and village women in India carry babies on their hip or back with a sari.; Make a pocket in the cloth for the doll's bottom, like a kangaroo's pouch.; Add a rolled towel as a head cushion.
 - **s1 (5 min)**  
   *Parent does:* Hold the doll and let its head flop. Talk about newborn necks.  
-  *Parent says:* A newborn's head is big and heavy, and its neck muscles are still weak. So a grown-up always holds the head. A good sling must do that too.  
-  *Child mode:* A newborn cannot hold up its head. A sling must hold it.
+  *Parent says:* A newborn's head is big and heavy, and their neck muscles are still weak. So a grown-up always holds the head. A good sling must do that too.  
+  *Child mode:* A newborn cannot hold up their head. A sling must hold it up.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* Your child designs and, with help, ties a sling.  
   *Parent says:* Draw your idea first. Then we tie it together.  
@@ -577,119 +577,114 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 
 ## Worksheets
 ### From One Cell to Me (core) (core, 16 questions)
-1. (mcq) How did every person begin?  
-   Options: As one tiny cell / As a tiny ready-made baby / As a seed swallowed by the mother / As a drop of blood  
-   **Answer:** As one tiny cell. *Why:* Every person began as one cell, made when a cell from each parent joined. Picking 'a tiny ready-made baby' is an old idea scientists gave up. The body parts form step by step.
-2. (mcq) What does one cell do to make more cells?  
-   Options: Splits into two / Melts / Eats other cells / Stays the same for nine months  
-   **Answer:** Splits into two. *Why:* A cell splits into two, then each of those splits again. Picking 'eats other cells' mixes it up with how some germs are fought by the body.
-3. (fill) A cell splits into 2, then 4, then 8, then ____.  
-   **Answer:** ['16']. *Why:* Each time, every cell splits, so the number doubles. 8 doubled is 16.
-4. (mcq) Where does a baby grow before they are born?  
-   Options: In the womb / In the stomach / In the heart / In the lungs  
-   **Answer:** In the womb. *Why:* A baby grows in the womb, a stretchy bag of muscle below the stomach. Picking 'stomach' is very common, because people say 'a baby in her tummy'. But the stomach is where food goes.
-5. (mcq) How does a baby in the womb get food and oxygen?  
-   Options: Through the umbilical cord, from the mother's blood / By eating through its mouth / By breathing air through its nose / It does not need any  
-   **Answer:** Through the umbilical cord, from the mother's blood. *Why:* The mother's blood brings food and oxygen to the placenta. The cord carries them to the baby. Picking 'breathing air' forgets that the baby is in water, with no air to breathe.
-6. (match) Match each part to its job.  
-   **Answer:** Womb → the stretchy bag where the baby grows; Placenta → passes food and oxygen from the mother's blood; Umbilical cord → the tube joining the baby to the placenta; Amniotic fluid → the warm water the baby floats in. *Why:* Each part has one main job. Together they keep the baby fed, safe and warm.
-7. (truefalse) The baby floats in warm water inside the womb.  
-   **Answer:** True. *Why:* True. This water, called amniotic fluid, cushions the baby and keeps them warm.
-8. (mcq) Remember the Floating Safe test, with a raw egg in an empty jar and in a jar full of water? Which egg usually stayed whole?  
-   Options: The egg in the jar full of water / The egg in the empty jar / Both cracked  
-   **Answer:** The egg in the jar full of water. *Why:* The water spreads out each bump, so the egg is hardly jolted. This is what the water around a baby does. Picking the empty jar often means thinking water is too heavy. But it presses gently all round.
-9. (fill) A human baby usually grows in the womb for about ____ months.  
-   **Answer:** ['nine', '9']. *Why:* About nine months, or 40 weeks.
-10. (order) Put these in order, from first to last.  
-   **Answer:** order shown. *Why:* One cell splits into a ball of cells. The heart beats at about six weeks. Fingers and toes form by twelve weeks. Hearing comes at about six months. Birth comes at about nine months.
-11. (mcq) What happens right after a baby is born?  
-   Options: It takes its first breath of air / It walks to its mother / It starts to talk / It eats a dosa  
-   **Answer:** It takes its first breath of air. *Why:* The first thing a newborn does is breathe air, often with a cry. Walking takes about a year and talking longer.
-12. (fill) When the cord is cut and the stump falls off, it leaves the ____.  
-   **Answer:** ['belly button', 'navel']. *Why:* Your belly button is where your cord once joined you to the placenta.
-13. (truefalse) Cutting the umbilical cord hurts the baby.  
-   **Answer:** False. *Why:* False. The cord has no nerves, so cutting it does not hurt the baby.
-14. (sort) Sort these. Can a baby do this before they are born, or only after?  
-   **Answer:** kick → Before birth too; suck its thumb → Before birth too; get hiccups → Before birth too; breathe air → Only after birth; drink milk → Only after birth; hear sounds → Before birth too. *Why:* Babies in the womb move, suck, hiccup and hear. They cannot breathe air or drink milk until they are born.
-15. (truefalse) Every family is made the same way.  
-   **Answer:** False. *Why:* False. Families are made in many ways: by birth, by adoption, by grandparents raising children, and more. But every person began as one cell, and grew in a womb.
-16. (draw) Draw a baby in the womb. Label the womb, the water, the cord and the placenta.  
-   **Answer:** A curled baby inside a round womb, surrounded by water, with a cord running from their tummy to a round placenta on the womb wall.. *Why:* A good drawing shows the cord joined at the baby's tummy, and the placenta on the wall of the womb.
+1. (mcq) Ammu, a girl in Class 3, says a baby starts as a tiny, ready-made person who just gets bigger. Is she right?  
+   Options: Yes. The tiny person is just too small to see. / No. A baby starts as one cell, and the body parts form step by step. / Yes, but only for big babies.  
+   **Answer:** No. A baby starts as one cell, and the body parts form step by step.. *Why:* A strong answer says 'no'. Every person began as one cell, with no body parts at all. The heart, the hands and the eyes formed one after another. Scientists believed in the tiny ready-made person about 300 years ago, until they watched eggs grow day by day.
+2. (fill) In the dough activity, you split one ball into two. Then you split every ball again. After 3 rounds of splitting, you have ____ balls.  
+   **Answer:** ['8', 'eight']. *Why:* 1 ball becomes 2, then 4, then 8. Every ball splits each round, so the number doubles each time. A strong answer counts the balls, not the rounds.
+3. (write) Skin cells and heart cells all came from the same first cell. They have the same DNA, the same instruction book. So why are they so different?  
+   **Answer:** Each kind of cell reads different pages of the same instruction book. A cell that reads the 'heart' pages becomes a heart cell and beats. A cell that reads the 'skin' pages becomes skin.. *Why:* A strong answer says the instructions are the same, but each cell uses a different part of them. Saying 'they have different DNA' is a common mistake. Almost every cell in your body has the same DNA.
+4. (match) Four parts keep a baby safe and fed in the womb. Match each part to its job.  
+   **Answer:** Womb → the stretchy bag of muscle where the baby grows; Placenta → passes food and oxygen from the mother's blood; Umbilical cord → the tube that joins the baby to the placenta; Amniotic fluid → the warm water that cushions the baby. *Why:* Each part has one main job. The womb holds the baby, the placenta passes food and oxygen, the cord carries them, and the water cushions and warms.
+5. (mcq) A baby in the womb already has lungs. Why don't they breathe air in the womb?  
+   Options: They are too sleepy to breathe / Their nose is not made yet / There is no air there. The baby floats in water and gets oxygen through the cord.  
+   **Answer:** There is no air there. The baby floats in water and gets oxygen through the cord.. *Why:* The baby is surrounded by water, and their lungs are full of fluid. Oxygen comes from the mother's blood, through the placenta and the cord. The first breath of air comes at birth.
+6. (mcq) In the Floating Safe test, you shook a raw egg in an empty jar and a raw egg in a jar full of water. What does this test tell us about a baby in the womb?  
+   Options: The water around the baby spreads out bumps, so the baby is hardly jolted / Water makes the baby heavier / The baby needs to drink the water  
+   **Answer:** The water around the baby spreads out bumps, so the baby is hardly jolted. *Why:* In the full jar, each shake was spread out through the water, so the egg hardly knocked the glass. The water around a baby does the same. A strong answer links what you saw with the egg to the baby.
+7. (write) Find the mistake. Riya, a girl in Class 3, says, 'A baby grows in the mother's stomach, along with her food.' What is wrong? Where does the baby really grow?  
+   **Answer:** The baby does not grow in the stomach. The stomach is where food goes to be broken down. The baby grows in the womb, a separate stretchy bag of muscle below the stomach.. *Why:* People say 'a baby in her tummy', so this mistake is very common. A strong answer names the womb and says the stomach is only for food.
+8. (order) Put these in order, from first to last, as a baby grows in the womb.  
+   **Answer:** order shown. *Why:* One cell splits into a ball of cells. The heart beats at about six weeks. Fingers and toes form by about twelve weeks. Hearing starts at about six months. Birth comes at about nine months.
+9. (sort) Can a baby do this before they are born, or only after birth? Sort these.  
+   **Answer:** kick → Before birth too; suck their thumb → Before birth too; get hiccups → Before birth too; hear their mother's voice → Before birth too; breathe air → Only after birth; drink milk → Only after birth. *Why:* Doctors have watched babies in the womb with ultrasound. They kick, suck their thumbs, hiccup and hear. They cannot breathe air or drink milk until they are born.
+10. (truefalse) The umbilical cord carries air from the mother to the baby.  
+   **Answer:** False. *Why:* False. The cord carries blood, not air. The blood holds oxygen that came from the mother's blood in the placenta. This is a tricky one, because oxygen and air are easy to mix up.
+11. (fill) Your belly button is the place where your ____ once joined you to the placenta.  
+   **Answer:** ['cord', 'umbilical cord']. *Why:* After birth, the cord is cut. A small stump is left, which dries and falls off in a week or two. The mark it leaves is your belly button.
+12. (mcq) Doctors clamp and cut the cord soon after birth. Why does this not hurt the baby?  
+   Options: The baby is asleep / The cord has no nerves, so cutting it causes no pain / Doctors cut it very fast  
+   **Answer:** The cord has no nerves, so cutting it causes no pain. *Why:* Nerves are what carry the feeling of pain. The cord has none, so cutting it does not hurt. The baby no longer needs the cord, because they now breathe air.
+13. (perspective) Three friends argue about which part matters most for a baby in the womb.  
+   **Answer:** A strong answer picks one part and gives a reason, for example that the baby dies without oxygen in minutes. Then it admits another friend's fair point, for example that the placenta is useless without the cord. It may notice that the parts only work together.. *Why:* There is no single winner. The placenta, the cord and the water each do a job the others cannot. A baby needs all three.
+14. (draw) Draw a baby in the womb. Label the womb, the water, the cord and the placenta.  
+   **Answer:** A curled baby inside a round womb, with water all round them, and a cord from the baby's tummy to a round placenta on the womb wall.. *Why:* A strong drawing joins the cord at the baby's tummy, not their mouth, and puts the placenta on the wall of the womb.
+15. (write) In Keep the Baby Warm, three bottles of warm water were pretend babies. One lay alone, one was wrapped in a cloth, and one was held on a grown-up's chest under a cloth. Which stayed warmest? Use what you felt to say why.  
+   **Answer:** The bottle on the chest stayed warmest. The person's body is always warm, so it kept giving heat to the bottle. The cloth held the heat in. The bottle alone lost heat to the air.. *Why:* A strong answer says what the child felt on their cheek, then the reason: a warm body keeps adding heat. This is why holding a tiny baby skin to skin helps.
+16. (truefalse) Every person, adopted or not, began as one cell and grew in a womb.  
+   **Answer:** True. *Why:* True. Families are made in many ways, by birth, by adoption, by grandparents and more. Every family is a real family. And every person began life the same way.
 ### Inside the Womb (stretch) (stretch, 16 questions)
-1. (mcq) Every cell in your body has the same DNA, the same instruction book. Why are skin cells and heart cells so different?  
-   Options: Each kind of cell reads different pages of the instructions / They have different DNA / Heart cells are older / Skin cells are dead  
-   **Answer:** Each kind of cell reads different pages of the instructions. *Why:* Every cell has the same instructions, but each kind uses different parts of them. Picking 'different DNA' is a very common idea. But almost every cell in your body has the same DNA.
-2. (mcq) What is true about the mother's blood and the baby's blood?  
-   Options: They stay mostly apart, with a thin wall between them / They mix together freely / They are always the same blood group / They never come near each other  
-   **Answer:** They stay mostly apart, with a thin wall between them. *Why:* In the placenta, the two bloods come very close, with a thin wall between them. Food and oxygen pass through the wall. Picking 'mix freely' is common, but the bloods stay mostly apart. Babies can even have a different blood group.
-3. (mcq) Why does a baby in the womb hear low sounds best?  
-   Options: Low sounds travel through water and bodies better than high sounds / Babies have no ears yet / High sounds are too quiet / The baby can see the sounds  
-   **Answer:** Low sounds travel through water and bodies better than high sounds. *Why:* Low sounds pass through water and the body well. High sounds get muffled. You may have found this in the Hearing Through Water test.
-4. (fill) A newborn sees best at about 20 to 30 ____ away.  
-   **Answer:** ['centimetres', 'cm']. *Why:* About 20 to 30 centimetres. That is the distance to the face of the person holding the baby.
-5. (truefalse) A mother's thoughts can change the shape of her baby's ears.  
-   **Answer:** False. *Why:* False. This is an old belief. Thoughts do not travel to the baby. Only things in the blood, like food and medicines, reach the baby.
-6. (truefalse) Your fingerprints formed before you were born, and their pattern never changes.  
-   **Answer:** True. *Why:* True. They form at about four months in the womb. They get bigger as you grow, but the pattern stays the same.
-7. (mcq) Why are a baby's skull bones not joined at birth?  
-   Options: So the head can squeeze safely through at birth, and the brain can keep growing / Because the baby is ill / Because bones are made after birth / So the baby can hear better  
-   **Answer:** So the head can squeeze safely through at birth, and the brain can keep growing. *Why:* Soft gaps between the skull bones let the head change shape a little at birth. They also leave room for the brain to grow. They join up over the first two years.
-8. (mcq) At birth, the womb's muscles squeeze again and again. What are these squeezes called?  
-   Options: Contractions / Hiccups / Kicks / Breaths  
-   **Answer:** Contractions. *Why:* Contractions are squeezes of the womb's muscles. They slowly push the baby out. Hiccups and kicks are things the baby does.
-9. (truefalse) A baby born by caesarean birth is born just as much as any other baby.  
-   **Answer:** True. *Why:* True. In a caesarean birth, doctors lift the baby out through a cut in the tummy. It is another way of being born.
-10. (match) Match each animal to about how long their baby grows inside the mother.  
-   **Answer:** Mouse → about 20 days; Dog → about 63 days; Human → about 270 days; Indian elephant → about 650 days. *Why:* Bigger animals usually grow longer before birth. An elephant baby grows for almost two years.
-11. (write) Remember Keep the Baby Warm, with three bottles of warm water? Why did the bottle held on a chest stay warmest?  
-   **Answer:** A person's body is always warm, so it keeps giving heat to the bottle. The cloth on top holds the heat in. The bottle alone lost heat to the air.. *Why:* Warm bodies keep adding heat. This is why kangaroo care helps tiny babies.
-12. (write) Why can't a baby in the womb breathe air?  
-   **Answer:** Because it is floating in water inside the womb, and there is no air there. It gets oxygen from its mother's blood instead, through the cord.. *Why:* The baby's lungs are full of fluid until birth. Their oxygen comes through the cord.
-13. (sort) Sort these. Does it reach the baby through the mother's blood, or not?  
-   **Answer:** food the mother eats → Reaches the baby; oxygen the mother breathes → Reaches the baby; some medicines → Reaches the baby; the mother's thoughts → Does not reach the baby; a picture the mother sees → Does not reach the baby. *Why:* Things carried in the blood, like food, oxygen and some medicines, cross into the baby. Thoughts and pictures do not. This is why doctors ask pregnant mothers to eat well and check medicines.
-14. (label) Label the picture: womb, placenta, cord, water, baby.  
-   **Answer:** ['womb', 'placenta', 'cord', 'water', 'baby']. *Why:* The baby floats in water inside the womb. The cord joins their tummy to the placenta on the womb wall.
-15. (write) Why do you think every person has a belly button?  
-   **Answer:** Because everyone was once joined to a placenta by a cord, before they were born. When the cord was cut, it left the belly button.. *Why:* Every person who was born grew in a womb, fed through a cord. The belly button is the mark it left.
-16. (draw) Draw what you think one cell looks like, and then what they look like after splitting four times.  
-   **Answer:** One circle, then 2, then 4, then 8, then 16 circles.. *Why:* Each split doubles the number. After four splits there are 16 cells.
+1. (order) Divya's mother eats idli and sambar for lunch. Put these steps in order, to show how that food reaches the baby in her womb.  
+   **Answer:** order shown. *Why:* Food is broken down, carried by the mother's blood, passed across the thin wall in the placenta, and carried along the cord. A strong answer puts the placenta before the cord.
+2. (mcq) Nila's mother has blood group O. Her new baby sister has blood group B. How can the baby have a different blood group from the mother she grew inside?  
+   Options: The baby's blood changed at birth / In the placenta, the two bloods stay apart, with a thin wall between them / The doctor gave the baby new blood  
+   **Answer:** In the placenta, the two bloods stay apart, with a thin wall between them. *Why:* Many people think the two bloods mix. They do not. Food and oxygen pass through a very thin wall, but the bloods stay mostly apart. So the baby can have their own blood group.
+3. (write) Predict. Amma sings a low lullaby. Then she plays a high whistle on a toy. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.  
+   **Answer:** The low lullaby. In my test, the low hum came through the bag of water clearly, but the high whistle sounded muffled. The baby is surrounded by water and the mother's body, so low sounds reach them best.. *Why:* A strong answer makes a prediction, then backs it with what the child heard through the water bag.
+4. (truefalse) If a pregnant mother looks at a rabbit every day, her baby may be born with long ears.  
+   **Answer:** False. *Why:* False. This is an old belief. Thoughts and sights do not travel to the baby. Only things carried in the mother's blood reach the baby. How the baby looks comes from their DNA and how their cells grow.
+5. (sort) Sort these. Can it reach the baby through the mother's blood, or not?  
+   **Answer:** food the mother eats → Reaches the baby; oxygen the mother breathes in → Reaches the baby; some medicines → Reaches the baby; some germs → Reaches the baby; what the mother is thinking → Does not reach the baby; a picture the mother looks at → Does not reach the baby. *Why:* Anything carried in the blood can pass the thin wall in the placenta. This is why doctors ask pregnant mothers to eat well and check every medicine. Thoughts and pictures are not in the blood.
+6. (mcq) A newborn's skull bones are not joined yet. They have soft gaps between them. How does this help?  
+   Options: The head can change shape a little to squeeze out at birth, and the brain has room to grow / It lets the baby hear better / It keeps the head cool  
+   **Answer:** The head can change shape a little to squeeze out at birth, and the brain has room to grow. *Why:* The soft gaps let the head squeeze safely through at birth. They also leave room for the brain, which grows fast after birth. The bones join up over the first two years.
+7. (match) Bigger animals usually grow longer inside their mother. Match each animal to about how long the baby grows before birth.  
+   **Answer:** Mouse → about 20 days; Dog → about 63 days; Human → about 270 days; Indian elephant → about 650 days. *Why:* A mouse baby is born in about three weeks, and an elephant baby in almost two years. A strong match puts the days in order of the animals' size.
+8. (write) Find the mistake. Arjun, a boy in Class 4, says, 'A baby in the womb lives in silence, all alone in the dark.' What is right and what is wrong?  
+   **Answer:** It is right that the womb is dark. It is wrong that it is silent. The baby hears the mother's heartbeat, her tummy rumbling and her voice. The baby also moves, kicks and sucks their thumb.. *Why:* A strong answer agrees with the part that is true, then corrects the part that is wrong with a fact from the unit.
+9. (perspective) Some babies are born very early and very small. Two people disagree about the best way to keep such a baby warm.  
+   **Answer:** A strong answer uses the test: the bottle on the chest stayed warm because a body keeps making heat. It then admits the other side's point, for example that a very sick baby may need the machines and close watching of an incubator.. *Why:* Both are used in real hospitals. Kangaroo care was started in Bogotá, in Colombia, in 1978. Doctors found it keeps many small babies warm and well. Very sick babies may still need an incubator.
+10. (fill) A newborn sees most clearly things about 20 to 30 ____ away. That is about the distance to the face of the person holding them.  
+   **Answer:** ['centimetres', 'cm']. *Why:* About 20 to 30 centimetres. You tested this with a plastic bag in front of your eyes. A face close up was clearer than a face far away.
+11. (mcq) Lakshmi was born by caesarean birth. What does that mean?  
+   Options: She was born later than other babies / She did not grow in a womb / Doctors lifted her out through a careful cut in her mother's tummy and womb  
+   **Answer:** Doctors lifted her out through a careful cut in her mother's tummy and womb. *Why:* In a caesarean birth, doctors open the mother's tummy and womb and lift the baby out. Lakshmi grew in the womb and was fed through a cord, like everyone else.
+12. (write) Lakshmi was born by caesarean birth, not pushed out by the womb. Does she still have a belly button? Explain why.  
+   **Answer:** Yes. She still grew in a womb and was joined to a placenta by a cord. When the cord was cut, the stump fell off and left a belly button, just like everyone else's.. *Why:* A strong answer says the belly button comes from the cord, not from how the baby came out.
+13. (label) Label four places on this newborn: the lungs, the belly button, the soft spot on the head and a fingertip. Then write one fact next to each.  
+   **Answer:** ['lungs: fill with air for the first time at birth', 'belly button: where the cord joined', 'soft spot: the skull bones are not joined yet', 'fingertip: fingerprints formed months before birth']. *Why:* Each label is a clue that the baby lived somewhere else before birth: in water, fed through a cord, and growing for months.
+14. (draw) Draw a line on a long strip of paper from 0 weeks to 40 weeks. Mark where the heart starts to beat, where fingers form, where hearing starts, and birth.  
+   **Answer:** A line with marks at about 6 weeks for the heart, about 12 weeks for fingers, about 26 weeks for hearing, and 40 weeks for birth.. *Why:* A strong drawing spaces the marks fairly. The heart and fingers come early, in the first three months. Hearing comes in the middle. Most of the growing in size happens near the end.
+15. (truefalse) In the first five days, the ball of cells gets bigger with every split.  
+   **Answer:** False. *Why:* False. This surprises most people. For the first five days, each split makes smaller cells, and the ball stays the same size. The ball only grows once it settles into the womb wall and gets food from the mother.
+16. (write) Twins can grow in the same womb at the same time, with the same DNA. Yet their fingerprints are different. Why might that be?  
+   **Answer:** Fingerprints form at about four months. Each twin's fingers press and move in slightly different ways in the womb. Tiny differences, like where they lie, make different patterns.. *Why:* A strong answer says DNA is not the whole story. Fingerprints also depend on chance, on how each baby grew in their own place in the womb.
 ### Big Questions About Beginnings (challenge) (challenge, 16 questions)
-1. (mcq) A grown-up has about 30 to 40 trillion cells. Where did they all come from?  
-   Options: From one first cell, splitting again and again / From the food, which turned into cells by itself / From the air we breathe / Each part of the body was made separately by the mother  
-   **Answer:** From one first cell, splitting again and again. *Why:* Every cell came from the first one, by splitting. Food gives the building material, but cells only come from other cells. Picking 'from food by itself' mixes up building material with the builders.
-2. (write) If you start with 1 cell and every cell splits once a day, how many cells will there be after 10 days? Show your working.  
-   **Answer:** 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024. So after 10 days there are 1024 cells.. *Why:* Doubling grows very fast. Real cells do not all split at the same speed, but the idea is the same.
-3. (mcq) Some scientists think human babies are born early because the mother's hips are narrow. Others think it is because the mother's body runs out of energy to feed the baby. What does this tell us?  
-   Options: Scientists still argue about why human babies are born so helpless / Scientists know the answer for sure / Babies are born early because they are tired / Nobody has ever asked the question  
-   **Answer:** Scientists still argue about why human babies are born so helpless. *Why:* This is an open, debated question. Two good ideas compete, and scientists are still collecting evidence.
-4. (truefalse) A few of the baby's cells can stay in the mother's body for many years after birth.  
-   **Answer:** True. *Why:* True. Scientists have found a son's cells in his mother's blood 27 years after his birth. Nobody yet knows exactly what these cells do.
-5. (write) Every cell has the same DNA. How do you think a cell knows whether to become a toe or an eye?  
-   **Answer:** A good answer: the cells send each other chemical messages. A cell can tell where they are from how strong a message is around them. Then they read the right part of their instructions.. *Why:* This is still being worked out by scientists. Any thoughtful answer that mentions messages between cells, or where the cell is, shows good thinking.
-6. (write) Is a person the same person as the cell they began as? Give a reason for yes and a reason for no.  
-   **Answer:** Yes: you grew from that cell without stopping, so that cell was the start of you. No: that cell had none of your memories and no body like yours, so the cell was very different from you now.. *Why:* There is no single right answer. A good answer gives a reason on each side.
-7. (mcq) Before the 1950s, doctors had no safe way to watch a baby move inside the womb. Which invention changed that?  
-   Options: Ultrasound / The telescope / The microscope / The thermometer  
-   **Answer:** Ultrasound. *Why:* Ultrasound uses sounds too high to hear. They bounce off the baby and make a picture. Ian Donald, a Scottish doctor, published the first use of it for pregnancy in 1958.
-8. (match) Match each person to what they did.  
-   **Answer:** Virginia Apgar, an American doctor → invented a quick score to check newborns at one and five minutes, in 1952; Anandibai Joshi, from Maharashtra → one of the first Indian women to qualify as a doctor, in 1886, after losing her own newborn son; Karl Ernst von Baer, an Estonian-German scientist → showed that babies form step by step from layers of cells, in the 1820s. *Why:* Each one changed how we understand or care for babies. Anandibai Joshi wanted to help Indian mothers and babies after her own baby died at ten days old.
-9. (write) Why might it be good for a newborn to see best at about 25 centimetres?  
-   **Answer:** That is the distance to the face of the person holding it. So the baby sees the faces of the people who feed and care for them, and starts to learn them.. *Why:* Seeing close faces helps a baby bond with the people who look after them.
-10. (mcq) Why does a calf walk within an hour, but a human baby takes about a year?  
-   Options: Human babies are born with brains and bodies that still have a lot of growing to do / Human babies are lazy / Calves have more legs / Human babies do not need to walk  
-   **Answer:** Human babies are born with brains and bodies that still have a lot of growing to do. *Why:* A human newborn's brain is only about a quarter of its grown-up size. Much of its growing happens after birth. That is why human children need care for so long.
-11. (truefalse) An adopted child began life in a different way from other children.  
-   **Answer:** False. *Why:* False. Every person, adopted or not, began as one cell and grew in a womb. Adoption is about which family raises and loves a child, not about how the child began.
-12. (write) The food a mother eats becomes part of her baby. Trace a grain of rice back as far as you can, to where its atoms came from.  
-   **Answer:** The grain came from a rice plant. The plant built it from air, water and soil, using sunlight. The atoms in the soil and air came from the Earth. Almost all atoms heavier than hydrogen and helium were made inside stars long ago.. *Why:* This shows that a baby is built from the whole world: food, sun, soil and even stars.
-13. (order) Put these sizes in order from smallest to biggest.  
-   **Answer:** order shown. *Why:* The first cell is about as wide as a hair. Then the baby grows from rice-sized to raspberry-sized to banana-sized, and then to about 50 centimetres at birth.
-14. (write) Is it fair that some babies are born near good hospitals and some are not? What could people do?  
-   **Answer:** A thoughtful answer. For example: it is not fair, because every baby should be safe. People could train more midwives and nurses, build health centres in villages, and make sure every mother can get to a doctor.. *Why:* There is no single right answer. What counts is a reason and an idea for helping.
-15. (draw) Design a safe carrier for an egg-baby. Label two features that copy how the womb protects a baby.  
-   **Answer:** Good features: water or padding all round the egg, a soft stretchy inner layer, a warm outer wrap.. *Why:* The womb protects a baby with water, a soft muscle wall and the warm body around it.
-16. (truefalse) Scientists completely understand how every cell knows where to go and what to become.  
-   **Answer:** False. *Why:* False. They understand a lot, like chemical messages between cells. But how millions of cells fit together into a whole body is still being worked out.
+1. (write) One cell splits into two. The next day, each of those cells splits again. This goes on every day. On which day do you first have more than 1000 cells? Show your working.  
+   **Answer:** Day 1: 2, day 2: 4, day 3: 8, day 4: 16, day 5: 32, day 6: 64, day 7: 128, day 8: 256, day 9: 512, day 10: 1024. So on day 10 there are more than 1000 cells.. *Why:* Doubling grows slowly at first and then very fast. Real cells do not all split at the same speed, but this is why one cell can become trillions.
+2. (perspective) A calf walks within an hour of birth, but a human baby takes about a year. Scientists disagree about why human babies are born so helpless.  
+   **Answer:** A strong answer picks an idea and gives a reason, for example that the soft skull bones help the head fit, which suggests hips matter. It then names a way to test, for example measuring how much energy mothers use late in pregnancy, or comparing hips and heads in other animals.. *Why:* Nobody knows for sure yet. Each idea explains some of the facts. A good scientist says which evidence would change their mind.
+3. (write) Mothers read the same story aloud every day before birth. After birth, their babies sucked harder to hear that story than a new one. Does that prove the babies remembered the story? What else could explain it?  
+   **Answer:** It suggests the babies remembered something. But maybe they only got used to the sound of that story, its rhythm and tune, without knowing it was a story. So it shows they learned a sound, but not exactly what they remembered.. *Why:* A strong answer says what the evidence shows and what it does not. Scientists still argue about how much an unborn baby learns.
+4. (mcq) A grown-up has about 30 to 40 trillion cells. Where did all of them come from?  
+   Options: From the food, which turned into cells by itself / From one first cell, splitting again and again / Each body part was made separately  
+   **Answer:** From one first cell, splitting again and again. *Why:* Every cell came from another cell, by splitting. Food is the building material, but it does not turn into cells by itself. A strong answer separates the builders (cells) from the bricks (food).
+5. (truefalse) A few of a baby's cells can stay inside the mother's body for many years after the birth.  
+   **Answer:** True. *Why:* True. Scientists found cells from sons in their mothers' blood 27 years after birth. Nobody yet knows if these cells help, harm or do nothing.
+6. (write) Is a person the same person as the one cell they began as? Give one reason for yes and one reason for no.  
+   **Answer:** Yes: you grew from that cell without ever stopping, so it was the start of you. No: that cell had no brain, no memories and no body like yours, so it was very different from you now.. *Why:* There is no single right answer. A strong answer gives a real reason on each side.
+7. (write) Your body was built from food your mother ate. Trace one grain of rice back as far as you can, to where its atoms came from.  
+   **Answer:** The grain came from a rice plant. The plant built the grain from air, water and soil, using sunlight. The atoms in the soil and air were part of the Earth. Almost all atoms heavier than hydrogen and helium were made inside stars long ago.. *Why:* A strong answer goes back at least three steps. It shows that a baby is built from food, sunlight, soil and air.
+8. (mcq) A calf can stand within an hour of being born. A human baby takes about a year to walk. What is the best reason?  
+   Options: Human babies have weaker bones / Human babies are born with a brain that still has a lot of growing to do / Calves have four legs  
+   **Answer:** Human babies are born with a brain that still has a lot of growing to do. *Why:* A human newborn's brain is only about a quarter of its grown-up size. Much of its growing happens after birth. That is why human children need care for so long.
+9. (mcq) In 1694 a scientist named Nicolaas Hartsoeker drew a tiny curled-up man inside a sperm cell. How did later scientists show this idea was wrong?  
+   Options: They asked mothers what they felt / They weighed newborn babies / They watched hen's eggs day by day and saw the body parts form one after another  
+   **Answer:** They watched hen's eggs day by day and saw the body parts form one after another. *Why:* In 1759 Caspar Friedrich Wolff watched chicks forming in hen's eggs. The parts appeared one by one. Later, better microscopes showed that the first cell has no body parts at all.
+10. (match) These real people changed how we understand or care for babies. Match each person to what they did.  
+   **Answer:** Virginia Apgar, an American doctor → made a quick score, in 1952, to check if a newborn is well, one and five minutes after birth; Anandibai Joshi, from Maharashtra → became one of the first Indian women doctors, in 1886, after her own newborn son died; Karl Ernst von Baer, a German scientist from Estonia → showed in the 1820s that babies form step by step from layers of cells. *Why:* Each one is a real person. Anandibai Joshi studied medicine in America so she could help Indian mothers and babies.
+11. (draw) Design a carrier that keeps a raw egg safe on the stairs. Label two features that copy how the womb protects a baby.  
+   **Answer:** Good features: water or soft padding all round the egg, a soft inner layer like the womb wall, and a snug fit so the egg cannot bang about.. *Why:* A strong design copies the womb: something that spreads out bumps, like water, and a soft wall all round. The labels say which womb part each feature copies.
+12. (write) What if there were no water around a baby in the womb? Name two problems the baby might have, and say why.  
+   **Answer:** The baby would be jolted by every bump, because nothing would spread the bump out. The baby would have less room to move and stretch. The baby might also get colder, because the water keeps an even warm temperature.. *Why:* A strong answer names a job of the water and says what would go wrong without it. You can use the Floating Safe test as evidence.
+13. (write) Every cell has the same DNA. How do you think a cell 'knows' whether to become part of a toe or part of an eye?  
+   **Answer:** Cells send each other chemical messages. A cell can tell where they are from how strong the message around them is. Then they read the right pages of their instructions.. *Why:* Scientists are still working this out. A strong answer mentions messages between cells, or the place where the cell is.
+14. (order) Put these sizes in order, from smallest to biggest.  
+   **Answer:** order shown. *Why:* The first cell is about as wide as a hair. The baby grows from rice-sized to raspberry-sized to banana-sized, and then to about 50 centimetres at birth.
+15. (fill) Doctors say a pregnancy lasts about 40 weeks. A week has 7 days. So 40 weeks is ____ days.  
+   **Answer:** ['280']. *Why:* 40 times 7 is 280. Doctors count from a date about two weeks before the first cell was made. So the baby really grows for about 38 weeks, or about 266 days.
+16. (sort) Sort these. Do scientists agree on this, or do they still argue about it?  
+   **Answer:** a baby begins as one cell → Scientists agree; the placenta passes food and oxygen → Scientists agree; why human babies are born so helpless → Scientists still argue; exactly what signal starts birth → Scientists still argue; how much an unborn baby remembers → Scientists still argue. *Why:* Some things have been checked again and again. Others are still open. A strong answer can say why each open question is hard to test: nobody can ask a baby in the womb.
 
 ## Videos
 - **In the Womb (National Geographic documentary, 2005)** (National Geographic, 10 min) id `to find`: For the parent: real 3D ultrasound footage of babies yawning, sucking thumbs and moving. Choose a short clip, not the whole film. *Check:* No id given, because I could not confirm one. Search YouTube for 'National Geographic In the Womb' and pick an official short clip. Preview it before showing a child.
@@ -697,45 +692,45 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - **Kangaroo mother care for small babies** (World Health Organization, 4 min) id `to find`: Shows real parents holding tiny babies skin to skin, and why it keeps them warm and safe. *Check:* No id given. Search the WHO YouTube channel for 'kangaroo mother care'. Check it is the WHO's own video before showing.
 
 ## Quiz
-1. (mcq) How did you begin?  
-   Options: As one tiny cell / As a tiny ready-made baby / As a seed / As a drop of milk  
-   **Answer:** As one tiny cell. *Why:* Everyone began as one cell, made from a cell from each parent. Picking 'a tiny ready-made baby' is an old idea. Body parts form step by step.
-2. (mcq) One cell splits into two. Each of those splits. Then each of those splits. How many cells now?  
-   Options: 8 / 6 / 3  
-   **Answer:** 8. *Why:* 1 becomes 2, then 4, then 8. Each split doubles the number. Picking 3 means counting the splits, not the cells.
-3. (mcq) Every cell has the same instructions. Why do some become skin and some become bone?  
-   Options: They read different parts of the instructions / They have different instructions / Some cells are older  
-   **Answer:** They read different parts of the instructions. *Why:* Each kind of cell uses different parts of the same DNA. Picking 'different instructions' is a common idea, but almost every cell has the same DNA.
-4. (mcq) Where does a baby grow?  
-   Options: In the womb / In the stomach / In the heart  
-   **Answer:** In the womb. *Why:* In the womb, a stretchy bag of muscle. Picking 'stomach' is common because we say 'tummy'. But the stomach is for food.
-5. (mcq) What does the umbilical cord do?  
-   Options: Carries food and oxygen to the baby / Pulls the baby out at birth / Lets the baby breathe air  
-   **Answer:** Carries food and oxygen to the baby. *Why:* The cord joins the baby to the placenta and carries food and oxygen. Picking 'pulls the baby out' mixes it up with birth, when the womb squeezes.
-6. (mcq) Remember the Floating Safe test with two raw eggs in jars? What did the water show?  
-   Options: Water cushions bumps, like the water around a baby / Water makes eggs heavier and crack / Water does nothing  
-   **Answer:** Water cushions bumps, like the water around a baby. *Why:* The egg in water was protected because water spreads out each bump. This is what amniotic fluid does for a baby.
-7. (mcq) About how long does a human baby grow in the womb?  
-   Options: About 9 months / About 9 weeks / About 2 years  
-   **Answer:** About 9 months. *Why:* About nine months, or 40 weeks. Picking 2 years mixes it up with an elephant, whose baby grows for almost two years.
-8. (mcq) Which comes first as a baby grows?  
-   Options: The heart starts beating / The baby hears sounds / The baby gets chubby  
-   **Answer:** The heart starts beating. *Why:* The heart beats at about six weeks. Hearing comes at about six months. Getting chubby is in the last months.
-9. (mcq) What does a newborn baby do first?  
-   Options: Breathes air / Walks / Talks  
-   **Answer:** Breathes air. *Why:* The first breath comes right after birth. Before that the baby got oxygen through the cord.
-10. (mcq) What is your belly button?  
-   Options: The place where your cord once joined you / A button that holds your skin on / A spot for breathing  
-   **Answer:** The place where your cord once joined you. *Why:* When the cord was cut, a small stump was left. It fell off and left the belly button.
-11. (mcq) Which of these is true about families?  
-   Options: Families are made in many ways, but every person began as one cell / Only families made by birth are real families / Adopted children began in a different way  
-   **Answer:** Families are made in many ways, but every person began as one cell. *Why:* Families can be made by birth, adoption and other ways. All are real. And every person, adopted or not, began as one cell and grew in a womb.
-12. (mcq) What do scientists still NOT fully know?  
-   Options: How each cell knows exactly what to become / That babies grow in the womb / That a baby needs food  
-   **Answer:** How each cell knows exactly what to become. *Why:* Scientists know a lot, but how millions of cells organise themselves into a body is still being worked out.
-13. (mcq) Which sounds does a baby in the womb hear best?  
-   Options: Low sounds, like voices and the heartbeat / High whistles / No sounds at all  
-   **Answer:** Low sounds, like voices and the heartbeat. *Why:* Low sounds travel through water and the body best. You can test this with a bag of water at your ear.
+1. (mcq) Long ago, some scientists thought a tiny ready-made person hid inside the first cell. What do we know now?  
+   Options: The first cell has no body parts. They form step by step. / The tiny person is real, but too small to see / Only some babies start that way  
+   **Answer:** The first cell has no body parts. They form step by step.. *Why:* Better microscopes and careful watching showed the first cell has no body parts. Picking 'too small to see' is the old idea scientists gave up.
+2. (mcq) After 4 rounds of splitting, how many cells have grown from one cell?  
+   Options: 8 / 16 / 4  
+   **Answer:** 16. *Why:* 1 becomes 2, then 4, then 8, then 16. Picking 8 stops one round too early. Picking 4 counts the rounds, not the cells.
+3. (mcq) A cell splits into two. What is each new cell?  
+   Options: Half of a cell / A dead piece of the old cell / A whole living cell with the same DNA  
+   **Answer:** A whole living cell with the same DNA. *Why:* Each new cell is whole and alive, with a full copy of the instructions. Later, cells read different parts of them and become different kinds.
+4. (mcq) What is the placenta's main job?  
+   Options: To push the baby out at birth / To pass food and oxygen from the mother's blood to the baby's blood / To keep the baby's eyes shut  
+   **Answer:** To pass food and oxygen from the mother's blood to the baby's blood. *Why:* The placenta grows on the womb wall. Food and oxygen pass through it. Picking 'push the baby out' mixes it up with the womb's muscles.
+5. (mcq) Why does a baby in the womb hear their mother's voice best?  
+   Options: Her voice travels through her own body to the baby / The womb has a little window / Babies can only hear high sounds  
+   **Answer:** Her voice travels through her own body to the baby. *Why:* The mother's voice travels through her body and the water. Low sounds, like voices, get through water best.
+6. (mcq) In the Floating Safe test, what was the one thing you changed between the two jars?  
+   Options: The size of the egg / How hard you shook / Whether the jar was full of water  
+   **Answer:** Whether the jar was full of water. *Why:* Only the water was changed. Everything else stayed the same, so any difference came from the water. That is what makes it a fair test.
+7. (mcq) Sarala, a girl in Class 3, says, 'The egg in the water jar did not crack. So water protects a baby.' Which part is her evidence?  
+   Options: The egg in the water jar did not crack / Water protects a baby / Both parts are claims  
+   **Answer:** The egg in the water jar did not crack. *Why:* Evidence is what she saw: the egg did not crack. The claim is the idea she draws from it: water protects a baby.
+8. (mcq) When does a baby's heart first start to beat?  
+   Options: On their birthday / About six weeks after the first cell / When they first cry  
+   **Answer:** About six weeks after the first cell. *Why:* A tiny heart beats by about six weeks, when the baby is no bigger than a grain of rice. Picking 'birthday' forgets the months of growing before birth.
+9. (mcq) About how long does a human baby grow in the womb?  
+   Options: About nine weeks / About two years / About nine months  
+   **Answer:** About nine months. *Why:* About nine months. Picking two years mixes it up with an elephant, whose baby grows for almost two years.
+10. (mcq) Why does a newborn often cry right after birth?  
+   Options: The cry helps air fill their lungs for the first time / The cord hurts them / They want to go back  
+   **Answer:** The cry helps air fill their lungs for the first time. *Why:* Before birth, the lungs were full of fluid. A good cry helps open the lungs and fill them with air.
+11. (mcq) Once the baby is breathing, what do doctors do with the cord?  
+   Options: Pull the baby with it / Clamp it and cut it / Leave it on for a year  
+   **Answer:** Clamp it and cut it. *Why:* The baby now gets oxygen by breathing, so the cord is no longer needed. It is clamped and cut, and the stump later falls off.
+12. (mcq) Anjali was adopted when she was a baby. Which of these is true?  
+   Options: She began as one cell and grew in a womb, like everyone / She began life in a different way / Her family is not a real family  
+   **Answer:** She began as one cell and grew in a womb, like everyone. *Why:* Every person began as one cell. Adoption is about which family raises and loves a child. Every family is a real family.
+13. (mcq) Which of these do scientists still not know for sure?  
+   Options: Whether a baby needs oxygen / Whether a baby grows in a womb / Exactly what signal starts birth  
+   **Answer:** Exactly what signal starts birth. *Why:* Scientists know the baby and the mother both seem to play a part. But exactly which signal starts birth is still being studied.
 
 ## Applications
 - Doctors use ultrasound to check that a baby is growing well in the womb.
@@ -789,7 +784,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - Why was the baby so good at swimming? *It practised for nine months.*
 - What is a belly button's favourite music? *Navel-ty songs.*
 - Why did the foetus refuse to come out? *It said the rent was free.*
-- What did the newborn say after its first breath? *Wow, air is a big deal!*
+- What did the newborn say after their first breath? *Wow, air is a big deal!*
 - Why do babies never tell secrets in the womb? *The walls have ears, and so do they.*
 - What do you call a baby who loves hiccups? *A hic-cupcake.*
 - Why did the elephant mother take so long? *She wanted her baby to be big news.*

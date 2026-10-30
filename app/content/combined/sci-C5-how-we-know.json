@@ -1,0 +1,1236 @@
+{
+ "key": "combined|sci|5|how-we-know",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "how-we-know",
+ "title": "How we fool ourselves, and how science catches it",
+ "source": "DeepKids Combined, The Deep End: a DeepKids topic from the founder's Grade 5 concept grid (Fringe Science: healthy frontier work is bold, testable and ethical; unhealthy fringe is untestable or promises energy from nothing; reproducibility, open data and adversarial collaboration; conservation laws survive every test so far), with the Grade 4 ideas of updating belief, pre-registration and the replication crisis. No board teaches it at this class, so there are no board subtopics to cover. No textbook needed.",
+ "summary": "A horse in Berlin seemed to do sums, and a committee of experts found no trick. The answer was in the faces of the people asking. Your child finds out how honest people fool themselves without meaning to, and the tools science uses to catch it. They play Clever Hans, try a famous puzzle that shows we look only for a yes, find a 'lucky snack' by rolling a die, and then see the luck vanish when they write their prediction down first. They update a guess bean by bean, watch a bouncing ball that never climbs higher, and learn why no machine can run forever. They meet N-rays, which many scientists 'saw' though they were not there, and the faster-than-light result that turned out to be a loose cable. They also meet Jocelyn Bell Burnell and Katalin Karikó, who were right and kept checking.",
+ "builds_on": "Class 1: notice, test fairly, repeat, and ask 'Says who? How do they know? Who's missing?'. Class 3: a claim must be able to be shown wrong, controls, blind tests, replication, peer review, extraordinary claims, cold fusion and plate tectonics. This rung adds the ways our own minds bend results (confirmation bias, the experimenter effect, chance in small tests), the tools that catch them (double-blind trials, pre-registration, larger samples, open data, rivals testing together), updating how sure you are, why perpetual-motion machines fail, how strange results are checked, and the difference between bold frontier science and unhealthy fringe.",
+ "subconcepts": [
+  "confirmation bias: looking only for evidence that agrees with us",
+  "the experimenter effect: the tester's hopes leak into the result (Clever Hans)",
+  "double-blind tests and the placebo effect",
+  "chance and sample size: small tests give flukes",
+  "testing many things and reporting only the hit (the sharpshooter mistake)",
+  "pre-registration: writing the prediction and the method before testing",
+  "the replication crisis: many published results did not repeat",
+  "updating belief: how sure you are should change with each piece of evidence",
+  "conservation of energy, and why perpetual-motion machines fail",
+  "anomalies: most strange results vanish, a few lead to new science",
+  "open data and adversarial collaboration: rivals designing one test together",
+  "healthy frontier science versus unhealthy fringe",
+  "who pays for evidence, who gets the credit, and testing on people fairly"
+ ],
+ "goals": [
+  "By the end your child can explain how Clever Hans fooled a committee of experts, and why a double-blind test would have caught it at once.",
+  "By the end your child can show, with their own dice results, how testing many things and reporting only the best one gives a 'discovery' that is really chance.",
+  "By the end your child can write a pre-registered plan (prediction, method and what counts as success) before a test, and say why it matters.",
+  "By the end your child can update how sure they are, step by step, as new evidence comes in.",
+  "By the end your child can use conservation of energy to explain why a machine that runs forever cannot work.",
+  "By the end your child can sort a claim as settled science, bold frontier science or unhealthy fringe, and give a reason."
+ ],
+ "words": [
+  [
+   "bias",
+   "a lean in our thinking that pushes us towards one answer before we have checked"
+  ],
+  [
+   "confirmation bias",
+   "noticing and remembering only the evidence that agrees with what we already think"
+  ],
+  [
+   "placebo",
+   "a dummy treatment, like a sugar pill, used to compare with a real medicine"
+  ],
+  [
+   "double-blind",
+   "a test where neither the people tested nor the people measuring know who got what"
+  ],
+  [
+   "sample size",
+   "how many times you test, or how many people or things you test"
+  ],
+  [
+   "fluke",
+   "a result that happened by chance and would not happen again"
+  ],
+  [
+   "pre-registration",
+   "writing down your prediction and your method before you start, and sharing it"
+  ],
+  [
+   "replication crisis",
+   "the discovery, around 2011 to 2015, that many published results did not repeat when others tried"
+  ],
+  [
+   "anomaly",
+   "a result that does not fit what we expected"
+  ],
+  [
+   "conservation of energy",
+   "the law that energy is never made from nothing and never destroyed, only changed from one form to another"
+  ],
+  [
+   "perpetual-motion machine",
+   "a machine that is claimed to run forever without any energy being put in"
+  ],
+  [
+   "adversarial collaboration",
+   "when scientists who disagree design one test together and agree beforehand what result would change their minds"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "The horse who could count",
+   "goal": "Recall Class 3, hear the story of Clever Hans, and play Hans yourselves.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the rain stone",
+     "mins": 5,
+     "do": "Ask: 'In Class 3 a man sold a rain stone. Why could his claim never be shown wrong?' Good answer: 'If it rained, the stone worked. If it didn't, your heart wasn't pure. He won whatever happened.' Ask: 'What is a blind test?' Good answer: 'The taster doesn't know which is which, so their wishes can't change the answer.' Say: 'This week is about something harder. Honest, careful people can fool themselves without knowing it. We will find out how, and how science catches it.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Horse Who Watched Faces",
+     "mins": 12,
+     "do": "Read the story aloud (Story tab). Then ask only this: 'The experts watched Herr von Osten closely and found no trick. So how did Hans know when to stop tapping?' Let your child guess and give a reason. Write the guess on the first page of a notebook called 'How we know'. Don't explain yet. The next step tests it."
+    },
+    {
+     "kind": "exp",
+     "title": "Play Clever Hans",
+     "mins": 18,
+     "do": "Do Experiment e3. Your child is Hans, and you are the asker. You secretly pick a number card from 1 to 5. Your child taps a spoon slowly on the table and stops when they think they have reached your number, by watching only your face and body. Do 10 tries where you look at the card, then 10 where the card stays face down and you don't know the number. Ask before you start: 'Will you do better when I know the number? Why?' Count the right answers in each round. Then swap: you are Hans.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "The experimenter effect and double-blind tests",
+     "mins": 10,
+     "do": "Ask: 'In which round did Hans do better? Was I trying to help?' Good answer: 'Better when you knew. You weren't trying, but your face changed anyway.' Say: 'This is called the experimenter effect. The person running a test can change the result without meaning to. Medicine tests stop it by being double-blind. Some patients get the real medicine and some get a placebo, a dummy pill that looks the same. Neither the patients nor the doctors checking them know who got which until the end.' Ask: 'How would you have tested Hans double-blind?' Good answer: 'The asker must not know the answer, or Hans must not see the asker.'"
+    }
+   ],
+   "need": [
+    "a notebook for 'How we know'",
+    "5 small cards numbered 1 to 5",
+    "a steel spoon",
+    "paper and pencil"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Looking only for a yes",
+   "goal": "Try a famous puzzle that shows how we look for evidence that agrees with us, and meet N-rays.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "The secret rule game",
+     "mins": 15,
+     "do": "Do Activity a1. Say: 'I have a secret rule for three numbers. The numbers 2, 4, 6 follow my rule. Give me any three numbers and I will say yes or no. When you are sure, tell me the rule.' Your secret rule is: any three numbers that get bigger. Answer every guess truthfully. Write each guess and answer in a table. Most people try 8, 10, 12 and 20, 22, 24, hear yes each time, and say 'add 2'. When your child names a rule, say whether it is right. If not, keep going.",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Confirmation bias",
+     "mins": 10,
+     "do": "Ask: 'Which guesses taught you the most, the ones that got yes or the ones that got no?' Good answer: 'The no's, because they showed where the rule stopped.' Say: 'A psychologist called Peter Wason made this puzzle in 1960. Most adults only test numbers that fit their own idea. This is confirmation bias: we look for evidence that agrees with us and don't look for evidence that could prove us wrong.' Ask: 'Kavya, a girl in Class 5, thinks she scores more goals in her red jersey. She remembers the red-jersey goals. What does she forget?' Good answer: 'The red-jersey days with no goals, and the goals in other jerseys.'"
+    },
+    {
+     "kind": "think",
+     "title": "Look for the no",
+     "mins": 10,
+     "do": "Your child writes one thing they believe about themselves or the family, for example 'Amma's rasam cures my cold' or 'I always get the slow queue'. Ask: 'What result would show this is wrong? How could we look for that result on purpose?' Good answer for the rasam: 'Count how many days my colds last with rasam and without it. If they last the same, the rasam is not curing them.' Say: 'A good scientist looks hardest for the evidence that would prove her wrong.'"
+    },
+    {
+     "kind": "talk",
+     "title": "N-rays",
+     "mins": 10,
+     "do": "Talk about voice v1, Blondlot and N-rays, and ask its question. Point out that Robert Wood's trick was a blind test: Blondlot did not know the prism was gone. Ask: 'Blondlot was not lying. So why did he see the spark get brighter?' Good answer: 'He expected it to, and a faint spark in the dark is easy to misjudge.'",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "paper and pencil",
+    "the notebook"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The lucky snack",
+   "goal": "Find a 'lucky' snack by chance, and see how small tests and picking the best result fool us.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Which snack brings sixes?",
+     "mins": 20,
+     "do": "Do Experiment e1, part 1. Write ten snack names on slips: idli, dosa, vada, murukku, payasam, banana, upma, poha, samosa, laddu. For each snack, your child says its name, rolls a die 6 times and counts the sixes. Record them in a table. Ask before you start: 'If no snack is really lucky, how many sixes should each one get in 6 rolls, on average?' Good answer: 'One, because a six comes up about one time in six.' Circle the snack with the most sixes. Say: 'This is our lucky snack. Or is it?' Keep the table for Day 4.",
+     "ref": "e1"
+    },
+    {
+     "kind": "do",
+     "title": "The sharpshooter",
+     "mins": 10,
+     "do": "Do Activity a3. Your child closes their eyes and makes 30 pencil dots anywhere on a sheet of paper. Then they open their eyes, find the place where a few dots are closest together, and draw a target circle round them. Ask: 'Is this person a good shooter?' Good answer: 'No. The target was drawn after the shots.' Ask: 'How is this like our lucky snack?' Good answer: 'We tested ten snacks and then pointed at whichever came out best.'",
+     "ref": "a3"
+    },
+    {
+     "kind": "talk",
+     "title": "Small tests give flukes",
+     "mins": 15,
+     "do": "Your child tosses a coin 10 times and counts heads. Do this 4 more times and write the five counts. Ask: 'Did each set of 10 give exactly 5 heads?' Usually not: counts like 3, 7, 5, 6, 4 are normal. Now add all 50 tosses. Ask: 'Is the total closer to half?' It usually is. Say: 'Sample size means how many times you test. With a small sample, chance can make a big difference look real. That is a fluke. With a bigger sample, chance evens out more.' Ask: 'Our lucky snack had only 6 rolls. Is that a small sample or a big one?'"
+    }
+   ],
+   "need": [
+    "a die",
+    "10 paper slips",
+    "a coin",
+    "paper, a pencil and a ruler"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Write it down first",
+   "goal": "Test the lucky snack again with a plan written beforehand, and hear about the replication crisis.",
+   "steps": [
+    {
+     "kind": "think",
+     "title": "The sealed plan",
+     "mins": 8,
+     "do": "Say: 'Before we test the lucky snack again, we write our plan and seal it, so we can't change it afterwards.' Your child writes on a slip: the snack, the number of rolls (30 for the lucky snack and 30 for one other snack), and the exact result that would count as lucky (for example, 'at least 10 sixes in 30 rolls, twice what chance gives'). Fold it, sign it, and give it to another family member to keep. Say: 'Scientists call this pre-registration. They post their plan publicly before they collect any results.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The lucky snack, again",
+     "mins": 12,
+     "do": "Do Experiment e1, part 2. Roll 30 times for the lucky snack and 30 times for one other snack, and count the sixes. Open the sealed plan and read it aloud. Ask: 'Did the lucky snack pass the test we wrote down first?' Usually it gets about 5 sixes, the same as the other snack. Ask: 'Why did its luck vanish?' Good answer: 'It was a fluke from a small test, picked out from ten. A bigger test, planned first, showed it was just chance.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "The replication crisis",
+     "mins": 12,
+     "do": "Talk about voice v4, the Reproducibility Project, and ask its question. Say: 'Journals liked surprising results, and scientists needed published papers to keep their jobs. So a fluke that looked exciting could be printed, while a dull result that showed nothing stayed in a drawer.' Ask: 'How does pre-registration fix this?' Good answer: 'The plan and the prediction are public before the test, so you can't pick the best result afterwards or hide the dull ones.'",
+     "ref": "v4"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 13,
+     "do": "Your child does Worksheet ws1 (core). For each written item, ask: 'Which of our tests this week shows that?' Accept any answer that uses evidence from the tests.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "the die",
+    "the snack table from Day 3",
+    "a slip of paper",
+    "worksheet ws1"
+   ],
+   "prep": [
+    {
+     "task": "Start the project: choose a family belief to test and write its sealed plan (see Project)",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "How sure am I?",
+   "goal": "Update a guess bean by bean, and see how Jocelyn Bell Burnell checked a strange signal.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "Which dabba?",
+     "mins": 18,
+     "do": "Do Activity a2. Fill two dabbas: dabba A has 8 rajma and 2 chana, dabba B has 2 rajma and 8 chana. Your child turns away while you pick one dabba and put the other out of sight. Your child closes their eyes, takes one bean, looks, puts it back, and you shake the dabba. After each bean, they mark on a line from 0 to 10 how sure they are that it is dabba A. Do 8 beans, then open the hidden dabba. Ask: 'After one rajma, were you sure? After five?' Good answer: 'After one, fairly sure but not certain. After five, very sure.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "Changing your mind by the right amount",
+     "mins": 10,
+     "do": "Ask: 'When you got a chana after three rajma, did you change your mind completely?' Good answer: 'No, just a little, because dabba A has 2 chana too.' Say: 'Good thinkers do this. Each new piece of evidence moves how sure they are, by an amount that fits how strong it is. One odd bean should not flip everything. Many odd beans should.' Ask: 'Remember Carl Sagan's words from Class 3, extraordinary claims need extraordinary evidence. How does the bean game show that?' Good answer: 'If you start very sure of one thing, you need many beans the other way before you change your mind.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The bit of scruff",
+     "mins": 17,
+     "do": "Talk about voice v2, Jocelyn Bell Burnell, and ask its question. Point out how she checked the signal like the bean game: one odd signal could be interference, but the same signal at the same place in the sky, night after night, and then a second source in another place, moved everyone's mind. Ask: 'Who did the noticing, and who got the Nobel Prize? What did she do with the prize money she won in 2018?'",
+     "ref": "v2"
+    }
+   ],
+   "need": [
+    "2 steel dabbas or tiffin boxes",
+    "10 rajma and 10 chana (or any two beans that look different)",
+    "paper and pencil"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The machine that runs forever",
+   "goal": "Find out where energy goes, why no machine runs forever, and how to tell bold frontier science from fringe.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "The ball that never climbs higher",
+     "mins": 18,
+     "do": "Do Experiment e2. Stick a measuring tape or paper strip marked every 10 cm on the wall. Drop a rubber ball from 100 cm and film it on a phone (slow motion if the phone has it). Pause the video at the top of each bounce and write the heights. Then the key and the nose: tape a thread to the top of a door frame so a steel key hangs at your child's nose. Your child holds the key to their nose, lets go without pushing, and stands still. Ask before each: 'Will it come back higher than where it started?' It never does.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Bhaskara's wheel",
+     "mins": 10,
+     "do": "Say: 'About 900 years ago, the Indian mathematician Bhaskara the Second described a wheel with curved spokes, partly filled with mercury. He thought the mercury would always weigh down one side, so the wheel would turn forever. It is one of the oldest written designs for a perpetual-motion machine. Since then, people have tried thousands of designs, and not one has ever worked.' Ask: 'Why not?' Wait for a reason, then say: 'Conservation of energy. Energy is never made from nothing. The ball lost a little energy at every bounce, as heat and sound. A wheel loses some at the axle and in the air. With no energy coming in, it must slow down and stop.'"
+    },
+    {
+     "kind": "think",
+     "title": "Find the leak",
+     "mins": 9,
+     "do": "Your child rubs their palms hard together for 10 seconds. Ask: 'What do you feel?' (Warmth.) Say: 'That is friction turning movement energy into heat. Every machine has some.' Your child draws their own 'forever machine', then marks every place where energy leaks out: rubbing parts, air, sound, a bit of bending. Ask: 'An advert says a gadget makes more electricity than it uses. What should you ask?' Good answer: 'Where does the extra energy come from? Has anyone else tested it?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Frontier or fringe?",
+     "mins": 8,
+     "do": "Say: 'Bold science at the frontier makes a clear prediction that could fail, shows its data, and invites others to check. Unhealthy fringe can never be shown wrong, promises energy from nothing or a cure for everything, and blames the critics when tests fail.' Ask your child to sort these: 'Wegener's moving continents in 1915' (bold frontier, later proved right), 'a magnet bracelet that cures all illness' (fringe), 'cold fusion in 1989' (a bold claim that failed when others checked), 'a free-energy motor sold online' (fringe)."
+    }
+   ],
+   "need": [
+    "a rubber ball or tennis ball",
+    "a measuring tape or a paper strip marked every 10 cm",
+    "a phone with a camera",
+    "a steel key",
+    "a 1.5 metre thread",
+    "strong tape",
+    "paper and colours"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Strange results",
+   "goal": "See how scientists check a result that doesn't fit: most vanish, a few change everything.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Faster than light?",
+     "mins": 10,
+     "do": "Say: 'Neutrinos are tiny particles that pass through almost everything, even the whole Earth. Indian scientists caught some deep in the Kolar Gold Fields mines in Karnataka in 1965. In 2011 a team called OPERA sent neutrinos from Switzerland to a lab under a mountain in Italy, about 730 km away. They seemed to arrive about 60 billionths of a second faster than light. Nothing is supposed to go faster than light.' Ask: 'What should the team do?' Wait for ideas. Then say: 'They published their numbers and asked everyone to look for their mistake. In 2012 they found it: a loose cable in their timing system.' Ask: 'Was the team foolish or careful?' Good answer: 'Careful. They didn't claim a discovery. They asked others to check, and they found their own mistake.'"
+    },
+    {
+     "kind": "talk",
+     "title": "One planet found, one never found",
+     "mins": 12,
+     "do": "Draw the Sun with Uranus and Mercury on their orbits. Say: 'In the 1840s, Uranus was not moving quite where the maths said. Urbain Le Verrier guessed that an unseen planet was pulling it, and worked out where it should be. In 1846 Johann Galle pointed a telescope there and found Neptune. Then Mercury's orbit didn't fit either, and Le Verrier predicted another hidden planet, called Vulcan. Nobody ever found Vulcan. In 1915 Einstein's new theory of gravity explained Mercury's orbit with no extra planet.' Ask: 'The same kind of anomaly gave two different answers. What does that teach us?' Good answer: 'A strange result can mean something is missing, or that our whole idea needs changing. Only more evidence tells which.' Say: 'Today, galaxies spin faster at their edges than the stars we can see can explain. Vera Rubin measured this in the 1970s. Most scientists think unseen dark matter is pulling, and a few think gravity itself works differently. Nobody knows yet.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Katalin Karikó, rejected again",
+     "mins": 13,
+     "do": "Talk about voice v3, Katalin Karikó, and ask its question. Ask: 'Her idea was bold. Was it testable?' Good answer: 'Yes. She made a clear claim and tested it in the lab, and others could check her results.' Then ask: 'How is she different from someone selling a free-energy motor?' Good answer: 'Her claims could fail, she showed her data, and the evidence went her way.'",
+     "ref": "v3"
+    },
+    {
+     "kind": "think",
+     "title": "Who pays for the evidence?",
+     "mins": 10,
+     "do": "Say: 'In the 1950s and after, tobacco companies paid for research and adverts to make people doubt that smoking causes cancer. The evidence that it does was already strong.' Ask: 'Why does it matter who pays for a study?' Good answer: 'The payer may want one answer, and may hide results they don't like.' Then ask: 'Some scientists test on themselves, like Tu Youyou with her malaria medicine. What rules should there be before testing a new medicine on other people?' Good answer: 'They must agree after being told the risks, a separate group should check the plan, and the results should be shared even if they are bad.'"
+    }
+   ],
+   "need": [
+    "paper and pencil",
+    "the notebook"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Rivals, one test",
+   "goal": "Design a test with someone who disagrees, then play the card game and do the stretch worksheet.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "Two rivals, one plan",
+     "mins": 15,
+     "do": "Do Activity a4. Two family members who disagree make one paper plane each, the same in every way except that one has its wingtips folded up. Before any throw, the two rivals write one plan together: who throws, from where, how many throws (at least 5 each), how to measure (in floor tiles or steps), and what result would change each person's mind. Then test, and record every throw. Say: 'Scientists call this adversarial collaboration. Rivals agree on the test first, so the loser can't say the test was unfair.'",
+     "ref": "a4"
+    },
+    {
+     "kind": "game",
+     "title": "Frontier or Fringe?",
+     "mins": 15,
+     "do": "Play the card game (g1). Each card is a claim. The reader says 'settled', 'frontier' or 'fringe' and gives one reason or one test. Turn the card to check.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 15,
+     "do": "Your child does Worksheet ws2 (stretch). For each written item, ask: 'What test would settle it?' Take any answer that names what to change, what to measure and what result would show the claim wrong.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "paper for planes",
+    "paper and pencil",
+    "the printed cards, cut out",
+    "worksheet ws2"
+   ],
+   "prep": [
+    {
+     "task": "Print the cards for the game and cut them out",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Catch yourself",
+   "goal": "Review the week, share the project, check and teach it back.",
+   "steps": [
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Your child does at least six items from Worksheet ws3 (challenge), including both written 'what if' items. Talk through them. More than one answer can be good, if it uses evidence.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "review",
+     "title": "Share the project",
+     "mins": 10,
+     "do": "Your child presents the family belief test from the Project: the sealed plan, what happened in each try, and whether the result matched the plan. Ask: 'Would you report the result even if it went against what you hoped? Why?' Good answer: 'Yes. Hiding results that disagree is how flukes get believed.'"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 13,
+     "do": "Ask the check questions aloud. Your child answers with an example from the week each time, for example the dabba beans, the lucky snack or Clever Hans."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child plays the secret rule game (Activity a1) with another family member, without telling them the rule. Afterwards, your child explains confirmation bias using what happened, and then tells the story of Clever Hans and how a double-blind test would have caught it."
+    }
+   ],
+   "need": [
+    "worksheet ws3",
+    "the project sheet",
+    "paper and pencil"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "How we fool ourselves",
+   "day": 4,
+   "sections": [
+    [
+     "A. Words and ideas",
+     [
+      {
+       "t": "match",
+       "p": "Match each word to what it means.",
+       "pairs": [
+        [
+         "confirmation bias",
+         "looking only for evidence that agrees with you"
+        ],
+        [
+         "placebo",
+         "a dummy pill that looks like the real medicine"
+        ],
+        [
+         "fluke",
+         "a result that happened by chance"
+        ],
+        [
+         "pre-registration",
+         "writing the plan and prediction before the test"
+        ],
+        [
+         "anomaly",
+         "a result that does not fit what was expected"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A test where neither the patients nor the doctors know who got the real medicine is called ____-blind.",
+       "a": [
+        "double"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Energy is never made from nothing and never destroyed. This law is called the conservation of ____.",
+       "a": [
+        "energy"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. What happened in our tests",
+     [
+      {
+       "t": "mcq",
+       "p": "Clever Hans, a horse in Berlin, seemed to do sums by tapping his hoof. How did he really know when to stop?",
+       "opts": [
+        "he could count in his head",
+        "he saw tiny changes in the asker's face and body",
+        "his owner gave him a secret signal on purpose"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "In the secret rule game, the rule was 'any three numbers that get bigger'. Which guess would teach you the most?",
+       "opts": [
+        "10, 12, 14",
+        "20, 22, 24",
+        "6, 4, 2"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "p": "On Day 3 one snack got 3 sixes in 6 rolls. On Day 4 it got 5 sixes in 30 rolls. What happened?",
+       "opts": [
+        "the snack lost its luck",
+        "the first result was a fluke from a small test",
+        "the die broke"
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Does this make a test more trustworthy, or less?",
+       "items": [
+        "writing the prediction first",
+        "only telling people about the results you like",
+        "testing 6 times instead of 60",
+        "a second team repeats it",
+        "the tester knows which pill is real",
+        "sharing all your data"
+       ],
+       "cats": [
+        "more trustworthy",
+        "less trustworthy"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Remember the bouncing ball on Day 6. It never bounced higher than where it was dropped. Where did its energy go?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Meenakshi tests ten hair oils, finds that one seems to make hair grow faster, and reports only that one. What mistake is this, and what should she do next?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "The experts in 1904 watched Clever Hans and found no trick. Why was watching closely not enough?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Checking claims in the real world",
+   "day": 8,
+   "sections": [
+    [
+     "A. Frontier, fringe or settled?",
+     [
+      {
+       "t": "sort",
+       "p": "Sort each claim.",
+       "items": [
+        "the Earth goes round the Sun",
+        "a free-energy motor that powers your home for nothing",
+        "dark matter is made of a particle nobody has found yet",
+        "a bracelet that cures every illness",
+        "continents move a few centimetres a year",
+        "life may exist under the ice of Jupiter's moon Europa"
+       ],
+       "cats": [
+        "settled science",
+        "bold frontier science",
+        "unhealthy fringe"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A seller says his machine keeps spinning forever with no plug and no battery. What is the best first question?",
+       "opts": [
+        "What colour is it?",
+        "Where does its energy come from, and has anyone else tested it?",
+        "How much does it cost?"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "In 2011 the OPERA team's neutrinos seemed faster than light. What did the team do that good scientists do?",
+       "opts": [
+        "announced that Einstein was wrong",
+        "published their numbers and asked others to find the mistake",
+        "hid the result"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Updating",
+     [
+      {
+       "t": "mcq",
+       "p": "In the dabba game, dabba A has 8 rajma and 2 chana. You have drawn 4 rajma and then 1 chana. Which dabba is it most likely to be?",
+       "opts": [
+        "still most likely dabba A",
+        "now surely dabba B",
+        "impossible to say anything"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "If a test is small, chance can make a result look real. A bigger ____ size helps chance even out.",
+       "a": [
+        "sample"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each problem to the tool that catches it.",
+       "pairs": [
+        [
+         "the tester's face gives the answer away",
+         "a double-blind test"
+        ],
+        [
+         "picking the best result after testing many things",
+         "pre-registration"
+        ],
+        [
+         "a result from just one lab",
+         "replication by other labs"
+        ],
+        [
+         "rivals who will never accept each other's test",
+         "adversarial collaboration"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Jocelyn Bell Burnell found a strange pulsing radio signal. What made scientists believe it was real and not interference?",
+       "opts": [
+        "it came back at the same place in the sky, night after night, and she found a second one",
+        "her supervisor said so",
+        "it was printed in a newspaper"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Farhana's uncle says his new tonic made his cough go in a week. Plan a fair test of the tonic. What is the placebo, who must not know who got what, and how many people would you test?",
+       "lines": 5
+      },
+      {
+       "t": "write",
+       "p": "A company that sells a fizzy drink pays for a study, and the study says the drink is healthy. Should you believe it? What would you want to know?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Two views. Divya says: 'Scientists should ignore wild ideas, because most are wrong.' Arjun says: 'Scientists should test every wild idea, because some are right.' Pick one side, give a reason from this week, then say what the other side would answer.",
+       "lines": 5
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Hard cases",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "Twenty labs each test whether a food improves memory. One lab finds it does. Nineteen find nothing. A newspaper reports only the one. What is the most likely truth?",
+       "opts": [
+        "the food improves memory",
+        "the one result was probably a fluke",
+        "the nineteen labs were lazy"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Some people taking a placebo say their headache got better. What does this show?",
+       "opts": [
+        "the sugar pill contains medicine",
+        "expecting to feel better can change how people feel, so real medicines must be compared with a placebo",
+        "headaches are not real"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Uranus was not moving where the maths said, and Neptune was found. Mercury was not moving where the maths said, and no planet was found. What explained Mercury in the end?",
+       "opts": [
+        "a planet called Vulcan",
+        "a new theory of gravity by Einstein",
+        "a mistake in the telescope"
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Was each claim shown right, shown wrong, or is it still argued about?",
+       "items": [
+        "N-rays",
+        "pulsars",
+        "neutrinos faster than light",
+        "modified mRNA can be used in vaccines",
+        "what dark matter is made of",
+        "a wheel that turns forever"
+       ],
+       "cats": [
+        "shown right",
+        "shown wrong",
+        "still argued about"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Blondlot still saw N-rays after Robert Wood secretly took away the ____.",
+       "a": [
+        "prism",
+        "aluminium prism",
+        "aluminum prism"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. What if?",
+     [
+      {
+       "t": "write",
+       "p": "What if journals printed only results that were planned in advance, whether the results were exciting or dull? What would get better? What might get worse?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "What if Hans had been a person who honestly believed he could do sums? Would he be lying? What does this tell you about the difference between being honest and being right?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Some people say science filters out wild ideas too hard and misses true ones, like Karikó's mRNA for so many years. Others say the filter saves us from cold fusion and N-rays. How could science give long shots a chance without believing them too soon?",
+       "lines": 5
+      },
+      {
+       "t": "draw",
+       "p": "Draw a 'confirmation bias trap': a picture of someone who only looks for evidence that agrees with them. Show the evidence they miss."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The lucky snack",
+   "day": 3,
+   "question": "If you test many things and pick the best result, will it be real or a fluke?",
+   "need": [
+    "a die",
+    "10 paper slips with snack names",
+    "paper and pencil",
+    "a slip for the sealed plan (Day 4)"
+   ],
+   "steps": [
+    "Day 3: write ten snack names on slips: idli, dosa, vada, murukku, payasam, banana, upma, poha, samosa, laddu.",
+    "For each snack, say its name and roll the die 6 times. Count the sixes and write them in a table.",
+    "Circle the snack with the most sixes. This is the 'lucky snack'.",
+    "Day 4: write a sealed plan first. Name the snack, the number of rolls (30 for the lucky snack and 30 for one other snack), and the result that would count as lucky, for example at least 10 sixes in 30 rolls.",
+    "Roll 30 times for each of the two snacks and count the sixes.",
+    "Open the plan and compare."
+   ],
+   "predict": "Ask: 'If no snack is really lucky, how many sixes should each one get in 6 rolls, on average? Will one of them look lucky anyway?'",
+   "observe": "On Day 3, almost always at least one snack gets 2 or more sixes in 6 rolls, double the average, and often one gets 3. On Day 4, with 30 rolls, the lucky snack usually gets around 5 sixes, the same as the other snack.",
+   "why": "A six comes up about one time in six, so 6 rolls give 1 six on average. But chance spreads results out, and with ten snacks one of them will usually do well by luck. Picking that one after the test is like drawing a target round dots that are already there. When you write the plan first and test with a bigger sample, the luck has nothing to hide behind. This is why pre-registration and large samples matter in real science, for example when medicines or foods are tested.",
+   "safety": "",
+   "time": "20 min on Day 3, 12 min on Day 4"
+  },
+  {
+   "id": "e2",
+   "title": "The ball that never climbs higher",
+   "day": 6,
+   "question": "Can anything come back higher than where it started, with no energy added?",
+   "need": [
+    "a rubber ball or tennis ball",
+    "a measuring tape or a paper strip marked every 10 cm",
+    "a phone with a camera",
+    "a steel key",
+    "a 1.5 metre thread",
+    "strong tape"
+   ],
+   "steps": [
+    "Stick the tape or marked strip up the wall from the floor to 100 cm.",
+    "Hold the ball beside the 100 cm mark and let it drop without pushing. Film it on the phone, in slow motion if you can.",
+    "Pause the video at the top of the first, second and third bounces. Write each height.",
+    "Tie the key to one end of the thread. Tape the other end firmly to the top of a door frame, so the key hangs level with your child's nose.",
+    "Your child stands still, holds the key against their nose, and lets go without pushing.",
+    "Watch the key swing away and back. Your child must not lean forward."
+   ],
+   "predict": "Ask: 'Will the ball ever bounce higher than 100 cm? Will the key come back and hit your nose?'",
+   "observe": "Each bounce is lower than the one before, for example 70 cm, then 50 cm, then 35 cm (a tennis ball and a hard floor give different numbers). The key swings back close to the nose but stops just short, and each swing is a little smaller.",
+   "why": "When the ball is held up, it has stored energy because of its height. As it falls, this becomes movement energy. At each bounce some energy turns into heat (the ball and floor warm very slightly) and sound (you hear the bounce), so less is left to lift the ball again. The key loses a little energy to the air on every swing. This is conservation of energy: energy is never made from nothing and never destroyed, only changed from one form to another. No experiment has ever broken this law. A machine that runs forever with no energy put in would have to break it, so it cannot work.",
+   "safety": "Use a light key, not anything heavy. Your child must let go and not push the key, and must stay still. Keep the ball away from glass.",
+   "time": "18 min"
+  },
+  {
+   "id": "e3",
+   "title": "Play Clever Hans",
+   "day": 1,
+   "question": "Can the person asking a question give away the answer without meaning to?",
+   "need": [
+    "5 small cards numbered 1 to 5",
+    "a steel spoon",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Sit facing each other at a table. Your child is Hans. You are the asker.",
+    "Round 1: shuffle the cards, pick one, look at the number, and put it face down. Don't try to signal anything. Just watch the spoon.",
+    "Your child taps the spoon slowly on the table, about one tap a second, and stops when they think they have reached your number, by watching your face and body only.",
+    "Say 'right' or 'wrong'. Do 10 tries and count the right answers.",
+    "Round 2: pick a card without looking at it and put it face down. Now you don't know the number. Do 10 more tries the same way.",
+    "Compare the two rounds. Then swap: you are Hans."
+   ],
+   "predict": "Ask: 'In which round will Hans get more right? Why? Guessing alone would give about 2 right out of 10.'",
+   "observe": "In round 1 many children get more than 2 right, because the asker relaxes or looks up a little when the right tap comes. In round 2 they get about 2 right, which is what guessing gives. If your child gets few right in both rounds, that is fine: the real Hans had years of practice. Try again with you as Hans, watching your child's face.",
+   "why": "In 1907 the psychologist Oskar Pfungst showed that Hans stopped tapping when the asker's head and body relaxed very slightly. The askers did not know they were doing it. When the asker did not know the answer, or Hans could not see the asker, Hans could not answer. This is the experimenter effect. It is why careful tests are double-blind: the person measuring must not know the answer either.",
+   "safety": "",
+   "time": "18 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The secret rule game",
+   "day": 2,
+   "mins": 15,
+   "need": [
+    "paper and pencil"
+   ],
+   "steps": [
+    "Think of the secret rule: any three numbers that get bigger. Don't tell your child.",
+    "Say: 'The numbers 2, 4, 6 follow my rule. Give me three numbers and I will say yes or no.'",
+    "Write each guess and your answer in a table with two columns: numbers, and yes or no.",
+    "When your child says they know the rule, tell them if they are right. If not, they keep guessing.",
+    "At the end, circle every 'no' in the table and ask which guesses taught the most."
+   ],
+   "outcome": "A table of guesses, and the discovery that guesses meant to get a 'no' teach more than guesses that fit our own idea."
+  },
+  {
+   "id": "a2",
+   "title": "Which dabba?",
+   "day": 5,
+   "mins": 18,
+   "need": [
+    "2 steel dabbas or tiffin boxes",
+    "10 rajma and 10 chana",
+    "a strip of paper with a line marked 0 to 10"
+   ],
+   "steps": [
+    "Put 8 rajma and 2 chana in dabba A, and 2 rajma and 8 chana in dabba B.",
+    "Your child turns away. You choose one dabba and hide the other.",
+    "Your child closes their eyes, takes one bean, looks at it and puts it back. Shake the dabba.",
+    "After each bean, your child marks on the line how sure they are that it is dabba A, from 0 (sure it's B) to 10 (sure it's A).",
+    "Do 8 beans, then show the hidden dabba.",
+    "Look back at the marks and ask when they jumped and when they moved only a little."
+   ],
+   "outcome": "A line of marks showing how sure your child was after each bean, moving step by step towards the truth."
+  },
+  {
+   "id": "a3",
+   "title": "The sharpshooter",
+   "day": 3,
+   "mins": 10,
+   "need": [
+    "a sheet of paper",
+    "a pencil",
+    "a coloured pen"
+   ],
+   "steps": [
+    "Your child closes their eyes and makes 30 dots anywhere on the paper.",
+    "They open their eyes and find a spot where a few dots happen to be close together.",
+    "They draw a target circle round those dots with the coloured pen.",
+    "Show the paper to another family member and say: 'Look, three bullseyes!' Then explain how it was made."
+   ],
+   "outcome": "A target drawn after the shots, as a reminder that choosing the 'hit' after the test is not a real result."
+  },
+  {
+   "id": "a4",
+   "title": "Two rivals, one plan",
+   "day": 8,
+   "mins": 15,
+   "need": [
+    "2 sheets of A4 paper",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Two family members who disagree each make the same paper plane. One then folds its wingtips up by 1 cm.",
+    "Before any throw, they write one plan together: who throws, from which tile or line, how many throws (at least 5 each), and how to measure the distance.",
+    "Each rival writes one sentence: 'I will change my mind if…'.",
+    "Do the throws exactly as planned and record every one.",
+    "Read the plan again and decide who was right. Both sign the result."
+   ],
+   "outcome": "A signed plan and results that both rivals accept, even the one who was wrong."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Prosper-René Blondlot (1849–1930), France",
+   "idea": "In 1903 Blondlot, a respected physicist at the University of Nancy, announced a new kind of invisible ray, which he named N-rays. He said they made a faint electric spark glow a little brighter, and that an aluminium prism bent them.",
+   "then": "Many other French scientists soon reported seeing N-rays too, but labs in other countries could not. In 1904 the American physicist Robert Wood visited Blondlot's dark lab. While Blondlot was taking readings, Wood secretly removed the prism. Blondlot went on reporting the same results.",
+   "now": "N-rays do not exist. Blondlot was not cheating. He and others saw what they expected to see in faint light that is very hard to judge by eye. It is now a famous example of how expectation can fool honest scientists, and why tests must be blind.",
+   "status": "rejected",
+   "ask": "Blondlot saw the spark change because he expected it to. What tests do we do this week that would stop us falling into the same trap?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "Jocelyn Bell Burnell (born 1943), Northern Ireland and England",
+   "idea": "In 1967, as a PhD student at Cambridge, Bell Burnell noticed a tiny 'bit of scruff' on the paper charts from a radio telescope she had helped build. It was a signal that pulsed every 1.33 seconds. She checked that it came from the same place in the sky night after night, and then found a second one elsewhere. These were pulsars: the spinning remains of dead stars, sending out beams of radio waves.",
+   "then": "At first her supervisor, Antony Hewish, thought it was interference from something on Earth. The team half-jokingly called the signal 'LGM-1', for 'little green men'. Finding a second pulsar in another part of the sky made a message from aliens very unlikely. The 1974 Nobel Prize in Physics for this work went to Hewish and Martin Ryle. Bell Burnell was left out.",
+   "now": "Pulsars are well understood and are used as very precise clocks in space. Many astronomers say leaving her out was a mistake. In 2018 she won a Breakthrough Prize of 3 million US dollars and gave all of it to help students from groups who are rarely given a chance in physics.",
+   "status": "accepted",
+   "ask": "She noticed something tiny in many metres of chart paper. What made her result believable: her excitement, or her checks? And who should get the credit for a discovery: the one who notices, or the one who leads the team?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Katalin Karikó (born 1955), Hungary and USA",
+   "idea": "From the 1980s Karikó worked on mRNA, a molecule that carries instructions in cells. She believed mRNA made in a lab could teach the body to make its own useful proteins. The problem was that the body attacked lab-made mRNA. In 2005 she and Drew Weissman showed that changing one of its building blocks stopped this attack.",
+   "then": "For years her grant applications were turned down, and her university demoted her in 1995. Many scientists thought mRNA was too fragile to be useful. She kept testing and publishing.",
+   "now": "Her method made possible the mRNA vaccines against COVID-19 in 2020 and 2021, given to hundreds of millions of people. She and Weissman won the 2023 Nobel Prize in Physiology or Medicine.",
+   "status": "accepted",
+   "ask": "Karikó was rejected for years and turned out right. Blondlot was praised and turned out wrong. What was different about how each of them treated the evidence?",
+   "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "The Reproducibility Project: Psychology (2015), led by Brian Nosek, USA",
+   "idea": "About 270 scientists repeated 100 published psychology experiments as closely as they could. In the original papers, almost all the experiments had found a clear effect. In the repeats, only about a third did.",
+   "then": "The result shocked many scientists and started what is called the replication crisis. Some said many published findings were flukes, made by small samples and by choosing the best results. Others said the repeats were not always exact copies, so some failures were unfair.",
+   "now": "Scientists still argue about how big the problem is, and it differs from one field to another. But many changes followed: more pre-registration, larger samples, sharing data openly, and journals that agree to publish a study based on its plan, before the results are known.",
+   "status": "debated",
+   "ask": "If only a third of the results came out the same, does that mean science is broken, or that science is working because it checked itself? What would you need to know to decide?",
+   "day": 4
+  }
+ ],
+ "check": [
+  {
+   "q": "How did Clever Hans seem to do sums, and how was he caught?",
+   "a": "He watched the asker, who relaxed very slightly at the right number without knowing it. Oskar Pfungst showed that when the asker did not know the answer, or Hans could not see the asker, Hans failed."
+  },
+  {
+   "q": "What is confirmation bias? Give an example from the secret rule game.",
+   "a": "Looking only for evidence that agrees with you. Most people test 8, 10, 12 and 20, 22, 24, which fit 'add 2', and never try 6, 4, 2, which could show their idea is wrong."
+  },
+  {
+   "q": "Why did our lucky snack stop being lucky?",
+   "a": "Its first result was a fluke from only 6 rolls, picked out from ten snacks. With a plan written first and 30 rolls, it got about the same sixes as any other snack."
+  },
+  {
+   "q": "What is pre-registration, and what mistake does it stop?",
+   "a": "Writing your prediction, your method and what counts as success before you test, and sharing it. It stops you choosing the best result afterwards or hiding results you don't like."
+  },
+  {
+   "q": "Why can't a machine run forever with no energy put in?",
+   "a": "Energy is never made from nothing. Every machine loses some energy as heat and sound, like the ball that bounced lower each time, so with nothing coming in it must stop."
+  },
+  {
+   "q": "In the dabba game, why did one chana not make you change your mind completely?",
+   "a": "Dabba A also has 2 chana, so one chana is weak evidence. Each bean should move how sure you are by an amount that fits how strong it is."
+  },
+  {
+   "q": "What is the difference between bold frontier science and unhealthy fringe?",
+   "a": "Frontier science makes a prediction that could fail, shares its data and invites checks, like Karikó's mRNA. Fringe can't be shown wrong, promises energy from nothing or a cure for everything, and blames critics when tests fail."
+  },
+  {
+   "q": "The OPERA team thought their neutrinos went faster than light. Why do scientists praise how they handled it?",
+   "a": "They didn't claim a discovery. They published their numbers, asked others to find the mistake, and found it themselves: a loose cable."
+  }
+ ],
+ "project": {
+  "title": "Test a family belief, with a sealed plan",
+  "days": [
+   4,
+   9
+  ],
+  "steps": [
+   "On Day 4, choose a belief someone in the family holds that is safe to test at home, for example 'curd sets faster in a warm place', 'a fan dries a wet handkerchief faster than no fan', or 'steel tumblers keep water colder than plastic ones'.",
+   "Write a sealed plan: your prediction, what you will change, what you will measure, what you will keep the same, how many times you will repeat it (at least 3), and what result would show the belief is wrong.",
+   "Ask the person who holds the belief to sign the plan, and give it to someone to keep.",
+   "Between Day 4 and Day 8, do the test exactly as planned. Write every result, including ones you didn't expect.",
+   "Ask another family member to repeat your test from your written steps, without your help.",
+   "On Day 9, open the plan, compare it with what happened, and present it. Say honestly whether the belief passed."
+  ],
+  "outcome": "A signed, sealed plan, a full table of results including the surprising ones, a replication by someone else, and an honest verdict on one family belief."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Frontier or Fringe?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards, cut out",
+   "scissors"
+  ],
+  "rules": [
+   "Shuffle the cards and put them face down.",
+   "On your turn, take a card and read it aloud.",
+   "Say 'settled', 'frontier' or 'fringe', and give one reason or one test that could check it.",
+   "Turn the card over and read the back. If you were right and gave a reason, keep the card.",
+   "Anyone can challenge your answer by giving better evidence. The group decides.",
+   "When all cards are used, the player with the most cards wins."
+  ],
+  "cards": [
+   {
+    "front": "The Earth spins once a day.",
+    "back": "Settled. Foucault's pendulum and satellites show it."
+   },
+   {
+    "front": "A machine that makes more energy than it uses.",
+    "back": "Fringe. It would break conservation of energy, which has passed every test."
+   },
+   {
+    "front": "Continents move a few centimetres a year.",
+    "back": "Settled. GPS measures it today."
+   },
+   {
+    "front": "A bracelet that cures every illness.",
+    "back": "Fringe. No fair test has shown it, and 'cures everything' is a warning sign."
+   },
+   {
+    "front": "Dark matter is made of a particle nobody has caught yet.",
+    "back": "Frontier. Many experiments are searching, and none has caught it so far."
+   },
+   {
+    "front": "Gravity works differently far out in galaxies, so there is no dark matter.",
+    "back": "Frontier, held by a minority of scientists. It makes predictions that can be tested."
+   },
+   {
+    "front": "A horse that can do sums by tapping.",
+    "back": "Shown wrong in 1907. Clever Hans was reading the asker's face."
+   },
+   {
+    "front": "N-rays make a spark glow brighter.",
+    "back": "Shown wrong in 1904. Nobody could see them in a blind test."
+   },
+   {
+    "front": "Pulsars are spinning dead stars.",
+    "back": "Settled. Found by Jocelyn Bell Burnell in 1967."
+   },
+   {
+    "front": "Neutrinos travel faster than light.",
+    "back": "Shown wrong in 2012. The cause was a loose cable."
+   },
+   {
+    "front": "There may be living things under the ice of Jupiter's moon Europa.",
+    "back": "Frontier. Space missions are going to look, and nobody knows yet."
+   },
+   {
+    "front": "Your star sign decides your character.",
+    "back": "Fringe. Careful studies have found no link between star signs and character."
+   },
+   {
+    "front": "Washing hands with soap stops many germs spreading.",
+    "back": "Settled. Tested many times, all over the world."
+   },
+   {
+    "front": "Modified mRNA can be used to make vaccines.",
+    "back": "Settled since about 2020, after decades of being doubted."
+   },
+   {
+    "front": "A wheel full of mercury that turns forever.",
+    "back": "Fringe. Bhaskara the Second described one about 900 years ago, and none has ever worked."
+   },
+   {
+    "front": "Trees pass food to each other through fungi in the soil.",
+    "back": "Frontier. Some studies show it, and other scientists say the evidence is weaker than claimed."
+   },
+   {
+    "front": "Salty water freezes at a lower temperature than plain water.",
+    "back": "Settled. You can test it in a freezer with two small cups."
+   },
+   {
+    "front": "A secret water that remembers medicines after they are diluted away.",
+    "back": "Fringe. Fair tests have not found that it works better than a placebo."
+   },
+   {
+    "front": "Energy is never made from nothing.",
+    "back": "Settled. Conservation of energy has passed every test so far."
+   },
+   {
+    "front": "We could one day find out what most of the universe is made of.",
+    "back": "Frontier. Dark matter and dark energy are still unknown."
+   }
+  ]
+ },
+ "big": [
+  "If honest experts can fool themselves, how can you ever be sure you are not fooling yourself right now?",
+  "Is it better to change your mind quickly or slowly? Can you think of a time each one would be the wrong choice?",
+  "Hans could not count, but he could read faces better than the experts. Was he clever or not? Who decides what counts as clever?",
+  "Should a result that nobody else has repeated be believed at all? What about something only one person ever saw?",
+  "If a company pays for a study, can the study still be true?"
+ ],
+ "challenge": [
+  {
+   "q": "Galileo dropped two balls of different weights from the Leaning Tower of Pisa to show they fall together. Did it happen?",
+   "hint": "The story comes from Vincenzo Viviani, Galileo's assistant, who wrote it down many years later. Galileo himself never described doing it, and historians are not sure it happened. Galileo did do careful experiments rolling balls down slopes, which he wrote about. Ask: why do we remember the dramatic drop and not the slow, careful slopes?"
+  },
+  {
+   "q": "People often say we use only 10% of our brain. True?",
+   "hint": "No. Brain scans show that every part of the brain is active at some time, and damage to almost any part causes problems. Nobody knows exactly where the 10% story began. Ask: why might a claim like this spread so easily, even though it is wrong?"
+  },
+  {
+   "q": "'A study proved it.' Does one study prove something?",
+   "hint": "Not on its own. Remember the lucky snack and the replication crisis: one study can be a fluke, especially if it is small or picked out from many. Scientists trust a result when many studies, by different teams, point the same way. Ask: what would you want to know about a study before you believed it?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "Clever Hans, the horse",
+   "view": "Hans was not counting, but he was doing something very hard. He noticed changes in a person's head and breathing so small that the people themselves did not know they made them. Horses live in herds and read each other's bodies all day. Ask: was Hans being tested on a human skill, when his own skill was much greater? What would a test of horse intelligence look like if a horse designed it?"
+  },
+  {
+   "who": "A journal editor",
+   "view": "An editor decides which studies to publish. Exciting results sell, and dull ones are easy to turn down. Some journals now accept a study based on its plan alone, before anyone knows the result. Ask: if you were an editor, would you publish a careful study that found nothing? Why might that matter?"
+  },
+  {
+   "who": "A patient in a medicine trial",
+   "view": "In a double-blind trial, a patient agrees to take either the new medicine or a placebo without knowing which. She helps everyone learn the truth, but she might get the dummy pill. Ask: is it fair to give some sick people a placebo? What rules would make it fair?"
+  },
+  {
+   "who": "A shopkeeper selling a magic gadget",
+   "view": "He says his gadget saves electricity, and many customers say it works. He has no test, but he does have happy customers. Ask: why might customers say it works even if it doesn't? What would you ask him to do before you buy one?"
+  }
+ ],
+ "story": {
+  "title": "The Horse Who Watched Faces",
+  "text": [
+   "My name is Hans. I am a horse. More than a hundred years ago, in Berlin, people called me Clever Hans, and they came from all over the city to see me.",
+   "I lived in a courtyard behind tall grey houses. My teacher was Herr von Osten, an old man who had once taught mathematics to boys. He had a white beard and a wide hat, and his pockets were always full of carrots and bread. He believed that a horse could learn the way a child learns. Every day, for years, he stood in front of me with a blackboard and a voice that never got tired.",
+   "'Hans,' he would say, 'what is three and two?' And I would tap my right front hoof on the stones. One, two, three, four, five. Then I would stop, and a carrot would come.",
+   "I learned to tap for sums, for the date, for the number of people in a hat. People shouted questions over the courtyard wall, and I tapped, and they gasped, and the newspapers wrote that a horse in Berlin could think like a schoolboy.",
+   "I liked the crowds. I liked the carrots more. But what I liked most was the moment just before I stopped. It is hard to explain. The courtyard would go still in a particular way, and I would feel the answer arrive. Not in my head. Somewhere out there, in front of me. I always knew when to stop. Stopping was the easy part.",
+   "Some people said Herr von Osten was a cheat, sending me secret signals. That made him furious. He was the most honest man I ever knew. So in 1904 a committee came to watch: a professor, a man from the zoo, a circus trainer who knew every trick horses could be taught, and others in dark coats with notebooks. They watched Herr von Osten's hands. They watched his feet. They asked me questions themselves while he stood far away. I still knew when to stop. They wrote that there was no trick that they could find. Herr von Osten was so happy that he fed me a whole loaf.",
+   "Then a young man came, quieter than the others. His name was Oskar Pfungst. He did not watch Herr von Osten. He watched me, and he wrote down everything, even the boring parts.",
+   "His questions were strange. Sometimes he whispered a number into my ear while someone else whispered another, so that no person in the courtyard knew the total. Sometimes the person asking stood behind a screen. Once they put large leather blinkers beside my eyes, so that I could not see who was asking, and I turned my head and turned it again, trying to see past them.",
+   "Those days were the worst days. I tapped, and tapped, and waited for the answer to arrive, and it did not arrive. The courtyard never went still in the right way. I tapped on and on, past ten, past twenty, until my leg ached, and the people in coats wrote in their notebooks and did not clap.",
+   "On the other days, when the person asking knew the answer and stood where I could see them, I was clever again.",
+   "Herr Pfungst stood in front of me one afternoon with a number in his head. I began to tap. As I came close, I saw what I always saw: his head lifted, very slightly, like a leaf when the wind stops. His shoulders loosened. His breath went out. I stopped. He laughed, a surprised laugh, and then he did it again with a new number, and this time he tried very hard to keep his head still. He couldn't. Neither could anyone. The answer was never in my head. It was in yours.",
+   "Herr Pfungst wrote a book about me. He said that I could not count at all. He said that every person who asked me a question, even the experts, even the circus trainer, had told me the answer with their own body, without knowing it.",
+   "Herr von Osten did not believe him. He said Hans was clever and that was the end of it. I don't think he was lying. I think he had wanted it so much, for so long, that he could not see what was in front of him. People do that, even the most careful ones.",
+   "And here is what nobody wrote in the newspapers. I could not do sums, but I could read the tiniest lift of a head, a breath let go, a shoulder that softened, from across a courtyard full of noise. The professors could not do that. They could not even see themselves doing it.",
+   "Ask me a question. Any question. I won't know the answer. But I will watch you while you wait for me to get it right."
+  ],
+  "epiphany": "The turn comes when Hans fails on the days the asker doesn't know the answer, and then sees Pfungst's head lift. The answer was in the faces of the askers, who gave it away without knowing. Honest experts were fooled because they tested Hans while knowing the answer themselves: the experimenter effect, which a double-blind test catches. Hans is also not foolish: he has a real and remarkable skill.",
+  "ask": [
+   "The committee of experts watched closely and found no trick. Why was watching not enough?",
+   "On which days did Hans fail? What was different about them?",
+   "Was Herr von Osten a cheat? What is the difference between lying and fooling yourself?",
+   "Hans could read faces better than any professor. Was he clever? What kind of clever?",
+   "How would you have tested Hans, if you had been Oskar Pfungst?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Honest people can fool themselves without knowing it.",
+   "more": "Clever Hans read the askers' faces. Blondlot saw N-rays that weren't there. Nobody was lying. That is why tests are double-blind: the person measuring must not know the answer either."
+  },
+  {
+   "idea": "If you test many things and choose the best result afterwards, you will usually find a fluke.",
+   "more": "The lucky snack and the sharpshooter's target show it. Writing the plan first (pre-registration), testing more times and having others repeat it is how science catches flukes."
+  },
+  {
+   "idea": "How sure you are should move with the evidence, step by step.",
+   "more": "In the dabba game, one bean moved the guess a little and many beans moved it a lot. Strong claims need many beans."
+  },
+  {
+   "idea": "No machine runs forever, because energy is never made from nothing.",
+   "more": "Every bounce of the ball was lower than the last, because some energy became heat and sound. Conservation of energy has passed every test so far, which is why perpetual-motion claims are fringe."
+  }
+ ],
+ "unknowns": [
+  "How many published scientific results would come out the same if they were repeated? Nobody knows, and the answer is different in different fields.",
+  "Is dark matter a kind of particle nobody has caught yet, or does gravity work differently than we think? Scientists are still searching and arguing.",
+  "How big is the placebo effect really, and for which illnesses? Scientists still argue about how much of it is real change and how much is people reporting what they expect.",
+  "Are there true ideas being turned down today, the way Karikó's mRNA and Wegener's moving continents once were? Nobody can know until the evidence comes in."
+ ],
+ "books": [
+  {
+   "title": "How to Be a Scientist",
+   "author": "Steve Mould",
+   "for": "read together",
+   "age": "7–11",
+   "why": "Hands-on experiments and the habits of careful thinking, with clear pictures. Good for planning the family belief project."
+  },
+  {
+   "title": "Bad Science",
+   "author": "Ben Goldacre",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "A doctor explains placebos, fair trials and how health claims mislead. The chapters on the placebo effect and on reporting only good results fit Days 1 and 4."
+  },
+  {
+   "title": "Factfulness",
+   "author": "Hans Rosling, with Ola Rosling and Anna Rosling Rönnlund",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "How our minds bend the evidence about the world, with simple ways to check ourselves. Its quizzes work well at the dinner table."
+  },
+  {
+   "title": "Thinking, Fast and Slow",
+   "author": "Daniel Kahneman",
+   "for": "parent reads",
+   "age": "adult",
+   "why": "The psychologist who named adversarial collaboration explains the biases in everyone's thinking, including experts'."
+  }
+ ]
+}

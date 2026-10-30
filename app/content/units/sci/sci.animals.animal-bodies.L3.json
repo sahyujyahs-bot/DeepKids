@@ -772,15 +772,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Why do animals need oxygen?",
+     "p": "A rohu is a river fish who never leaves the water. Does a rohu need oxygen?",
      "opts": [
-      "Their cells use oxygen to get energy from food",
-      "Oxygen makes them heavier",
-      "Only so they can make sounds",
-      "They don't, only people need oxygen"
+      "Yes. Every cell in their body needs oxygen, and their gills take it out of the water",
+      "No. Fish live in water, so they do not need oxygen",
+      "Only when they jump out of the water"
      ],
      "a": 0,
-     "why": "Almost every cell uses oxygen to release the energy in food. This is respiration. Picking 'only people' is a common idea, but fish, worms, ants and elephants all need oxygen too."
+     "why": "Many people think fish do not breathe. But water has oxygen dissolved in it, and a fish's gills take it out. A rohu's cells use that oxygen to get energy from food, just as yours do."
     },
     {
      "t": "fill",
@@ -789,26 +788,6 @@
       "gills"
      ],
      "why": "Gills are the feathery red parts under the flaps on a fish's head. Water flows over them and they take oxygen out."
-    },
-    {
-     "t": "fill",
-     "p": "An earthworm has no lungs. They breathe through their damp ____.",
-     "a": [
-      "skin"
-     ],
-     "why": "Oxygen passes straight through an earthworm's thin, moist skin. If the skin dries out, the worm cannot breathe."
-    },
-    {
-     "t": "truefalse",
-     "p": "A dolphin breathes with gills, like a fish.",
-     "a": false,
-     "why": "False. Dolphins breathe air with lungs, through the blowhole on top of the head. That's why they keep coming up to the surface."
-    },
-    {
-     "t": "truefalse",
-     "p": "Breathed-out air still has some oxygen in it.",
-     "a": true,
-     "why": "True. Room air is about 21 parts in 100 oxygen. Breathed-out air is about 16 parts in 100. Your body takes in only a small part of the oxygen in each breath."
     },
     {
      "t": "sort",
@@ -852,6 +831,63 @@
      "why": "Land animals like cows and crows use lungs. So do dolphins, even though they live in water. Fish and crabs use gills. Earthworms and lungless salamanders breathe only through their skin."
     },
     {
+     "t": "truefalse",
+     "p": "You breathe on a cold steel tumbler and a mist appears. This shows your breath has water in it.",
+     "a": true,
+     "why": "True. Your breath is warm and carries water as an invisible gas. On the cold steel it cools and turns back into tiny drops, which you see as mist.",
+     "how": "a1",
+     "context": "In Breath on a Steel Tumbler, you breathed on cold steel, a mirror and a tissue, and watched what your breath did."
+    },
+    {
+     "t": "mcq",
+     "p": "Predict. You count your breaths for one minute sitting still. Then you run up two floors of stairs and count again. What will you find?",
+     "opts": [
+      "More breaths after the stairs, because working muscles need more oxygen",
+      "Fewer breaths, because you are tired",
+      "The same number, because lungs always work at one speed"
+     ],
+     "a": 0,
+     "why": "Climbing stairs makes your leg muscles work hard. Working muscles use more oxygen and make more carbon dioxide, so you breathe faster. A strong answer gives the reason, not just the guess.",
+     "how": "e1",
+     "context": "In the Breath Count experiment, you counted your breaths for one minute sitting still, then just after jumping."
+    },
+    {
+     "t": "write",
+     "p": "In the Limewater Test, the glass with your breath turned milky. The glass with room air stayed clear. Kavya, a girl in Class 3, says, 'The milky colour just comes from bubbles.' How does the room-air glass show she is wrong?",
+     "lines": 3,
+     "a": "Both glasses got bubbles, but only the breath glass went milky. So the bubbles alone did not do it. Something in breath, carbon dioxide, made the limewater milky.",
+     "why": "The room-air glass is the comparison. Everything was the same except the kind of air, so the difference must come from the air.",
+     "how": "e2",
+     "context": "In the Limewater Test, you bubbled your breath into one glass of limewater and pushed room air from a squeezed bottle into another glass."
+    },
+    {
+     "t": "write",
+     "p": "Why do frogs need to stay near water? Use the word skin in your answer.",
+     "lines": 3,
+     "a": "Frogs breathe partly through their skin. Their skin must stay damp for oxygen to pass through. If they go too far from water, their skin dries out and they cannot breathe well.",
+     "why": "Skin breathing only works when the skin is thin and damp."
+    },
+    {
+     "t": "mcq",
+     "p": "Why is a fish's gill made of many thin, frilly threads?",
+     "opts": [
+      "To give lots of surface for oxygen to pass through",
+      "To help them swim faster",
+      "To keep sand out of their eyes"
+     ],
+     "a": 0,
+     "why": "More surface lets more oxygen in at once. Remember the towel test: the frilly towel dried much faster than the crumpled one. Picking 'swim faster' mixes gills up with fins.",
+     "how": "a4",
+     "context": "In the gill shape test, you hung up a crumpled wet towel and a frilly wet towel to see which dried first."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a fish. Draw arrows to show where water goes in and where it goes out. Colour the gills.",
+     "a": "An arrow into the mouth, an arrow out from under the gill cover, and red gills under the cover.",
+     "why": "Water goes in at the mouth, flows over the gills, and goes out under the gill cover.",
+     "art": "The outline of a fish side-on, with a dotted line where the gill cover is."
+    },
+    {
      "t": "match",
      "p": "Match each animal to how they mainly find food.",
      "pairs": [
@@ -881,117 +917,64 @@
     },
     {
      "t": "mcq",
-     "p": "Look at the breath count chart. How many more breaths were taken after jumping than sitting still?",
+     "p": "A dolphin lives in the sea all the time. Why does a dolphin keep coming up to the surface?",
      "opts": [
-      "20 more",
-      "40 more",
-      "60 more"
+      "They breathe air with lungs, through the blowhole on top of their head",
+      "They come up to look for birds",
+      "Their gills need fresh air to dry them"
      ],
      "a": 0,
-     "why": "Sitting still the bar shows 20. After jumping it shows 40. 40 take away 20 is 20. Picking 40 means reading only one bar. To compare, we find the difference between the two bars.",
-     "how": "e1",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up results: breaths in one minute",
-      "x": "When counted",
-      "y": "Breaths in one minute",
-      "data": [
-       {
-        "label": "Sitting still",
-        "value": 20,
-        "emoji": "🪑"
-       },
-       {
-        "label": "After jumping",
-        "value": 40,
-        "emoji": "🤸"
-       }
-      ]
-     },
-     "context": "In the Breath Count experiment, you counted your breaths for one minute sitting still, then just after jumping."
-    },
-    {
-     "t": "mcq",
-     "p": "In the limewater test, which glass turned milky first?",
-     "opts": [
-      "The one with breathed-out air",
-      "The one with room air from a squeezed bottle",
-      "Both at the same time"
-     ],
-     "a": 0,
-     "why": "Carbon dioxide turns limewater milky, and breathed-out air has about 100 times as much carbon dioxide as room air. Picking 'both' would mean the two kinds of air were the same, but the test showed they are not.",
-     "how": "e2",
-     "context": "In the Limewater Test, you bubbled your breath into one glass of limewater and pushed room air into another."
-    },
-    {
-     "t": "order",
-     "p": "Put the journey of oxygen in order, from outside to a cell in your leg.",
-     "items": [
-      "nose",
-      "windpipe",
-      "tiny air sacs in the lungs",
-      "blood",
-      "a cell in your leg"
-     ],
-     "a": "order shown",
-     "why": "Air comes in through the nose, down the windpipe, into the tiny air sacs. Oxygen passes into the blood, and the blood carries it to every cell."
-    },
-    {
-     "t": "mcq",
-     "p": "Why is a fish's gill made of many thin, frilly threads?",
-     "opts": [
-      "To give lots of surface for oxygen to pass through",
-      "To help them swim faster",
-      "To keep sand out of their eyes"
-     ],
-     "a": 0,
-     "why": "More surface lets more oxygen in at once. Remember the towel test: the frilly towel dried much faster than the crumpled one. Picking 'swim faster' mixes gills up with fins.",
-     "how": "a4",
-     "context": "In the gill shape test, you hung up a crumpled wet towel and a frilly wet towel to see which dried first."
-    },
-    {
-     "t": "draw",
-     "p": "Draw a fish. Draw arrows to show where water goes in and where it goes out. Colour the gills.",
-     "a": "An arrow into the mouth, an arrow out from under the gill cover, and red gills under the cover.",
-     "why": "Water goes in at the mouth, flows over the gills, and goes out under the gill cover.",
-     "art": "The outline of a fish side-on, with a dotted line where the gill cover is."
-    },
-    {
-     "t": "truefalse",
-     "p": "Animals breathe faster when they are resting.",
-     "a": false,
-     "why": "False. Animals breathe faster when they are active, because their muscles need more oxygen. Resting and sleeping animals breathe slowest."
-    },
-    {
-     "t": "mcq",
-     "p": "A flamingo sieves tiny shrimps from lake water. What kind of eater is the flamingo?",
-     "opts": [
-      "A filter feeder",
-      "A scavenger",
-      "A grazer"
-     ],
-     "a": 0,
-     "why": "A filter feeder sieves tiny food out of water. A scavenger eats animals that have already died. A grazer eats grass or plants slowly for hours."
-    },
-    {
-     "t": "write",
-     "p": "Why do frogs need to stay near water? Use the word skin in your answer.",
-     "lines": 3,
-     "a": "Frogs breathe partly through their skin. Their skin must stay damp for oxygen to pass through. If they go too far from water, their skin dries out and they cannot breathe well.",
-     "why": "Skin breathing only works when the skin is thin and damp."
+     "why": "Dolphins are mammals, not fish. They have lungs, not gills, so they must come up to breathe air. Picking 'gills' is a common mix-up, because dolphins live in water like fish."
     },
     {
      "t": "mcq",
      "p": "Ants on a sugar trail walk in a line. Why?",
      "opts": [
-      "They follow a smell trail left by the first ant",
-      "They are holding hands",
+      "They follow a smell trail left by the ants who found the food",
+      "They can see the sugar from far away",
       "The wind blows them in a line"
      ],
      "a": 0,
-     "why": "The ant that finds food leaves a smell trail on their way home. Other ants follow it with their antennae. That's why they walk in a line.",
+     "why": "An ant who finds food leaves a smell trail on the way home. Other ants follow it with their antennae, so they walk in a line. Picking 'see the sugar' is a natural guess, but ants find food mostly by smell.",
      "how": "e3",
      "context": "In Ant Detectives, you put out sugar, salt and biscuit near an ant path and watched the ants come."
+    },
+    {
+     "t": "truefalse",
+     "p": "Bats are blind.",
+     "a": false,
+     "why": "False. All bats can see, and many see well. Many bats that hunt insects at night also use echolocation: they make high sounds and listen for the echoes. 'As blind as a bat' is an old saying, not a fact."
+    },
+    {
+     "t": "write",
+     "p": "In the Mouth Tools Buffet, you tried kitchen tools as animal mouths. A flamingo's beak works like a sieve. A cow has wide, flat teeth. What does each mouth tell you about how that animal gets food?",
+     "lines": 3,
+     "a": "The flamingo's sieve beak lets water out and keeps tiny shrimps and algae in, so she is a filter feeder. The cow's flat teeth grind grass, so she is a grazer who chews plants for hours.",
+     "why": "An animal's mouth fits the way they get food. A strong answer links each mouth shape to the food and how it is eaten.",
+     "how": "a7",
+     "context": "In the Mouth Tools Buffet, you pretended kitchen tools were animal mouths and found which tool was best for which food."
+    },
+    {
+     "t": "perspective",
+     "p": "Three friends argue about which way of breathing is best.",
+     "views": [
+      {
+       "who": "Meenakshi, in Class 3",
+       "says": "Lungs are best. Air has about 30 times more oxygen than water."
+      },
+      {
+       "who": "Farida, her friend",
+       "says": "Gills are best for a fish. Lungs would fill with water and be useless in a river."
+      },
+      {
+       "who": "Lakshmi, her cousin",
+       "says": "Having two ways is best, like a frog. Lungs work on land, and damp skin works in the pond."
+      }
+     ],
+     "ask": "Which way do you think is best? Give a reason from this unit. Then say one thing another friend has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side and gives a reason, for example that air holds much more oxygen. It then admits a fair point from another side, for example that a breathing part is best only where the animal lives. It may say that all three are thin, damp and close to blood.",
+     "why": "There is no single winner. Each breathing part suits the place the animal lives. Lungs suit air, gills suit water, and a frog's skin helps in both, as long as it stays damp."
     }
    ]
   },
@@ -1026,18 +1009,11 @@
      "context": "In Make a Bottle Lung, you pulled the stretchy balloon at the bottom of a bottle and watched the balloon inside fill."
     },
     {
-     "t": "truefalse",
-     "p": "Insects have small lungs inside their bodies.",
-     "a": false,
-     "why": "False. Insects have no lungs. Air goes in through tiny holes called spiracles along their sides, and travels down thin pipes to every part of the body."
-    },
-    {
-     "t": "fill",
-     "p": "The tiny holes along the sides of a grasshopper, where air goes in, are called ____.",
-     "a": [
-      "spiracles"
-     ],
-     "why": "Spiracles lead into air pipes that branch through the insect's body."
+     "t": "write",
+     "p": "A grasshopper has no lungs. How does air reach the muscles in the grasshopper's legs?",
+     "lines": 3,
+     "a": "Air goes in through tiny holes along the grasshopper's sides, called spiracles. It travels down thin air pipes that branch again and again until they reach every muscle. So air goes straight to the cells.",
+     "why": "In insects, air pipes carry oxygen right to the cells, so their blood does not have to carry much oxygen."
     },
     {
      "t": "mcq",
@@ -1049,6 +1025,89 @@
      ],
      "a": 0,
      "why": "The climbing perch has a folded, maze-like labyrinth organ above their gills. They gulp air and take oxygen from it, as long as their body stays damp. Picking 'hold their breath' would only work for a short time."
+    },
+    {
+     "t": "mcq",
+     "p": "Look at the ant chart. Most ants went to the sugar and almost none to the salt. Predict: if you put out jaggery instead of salt, what would you expect?",
+     "opts": [
+      "Many ants, like on the sugar, because jaggery is mostly sugar too",
+      "No ants, because jaggery is brown",
+      "Exactly one ant, like on the salt"
+     ],
+     "a": 0,
+     "why": "Jaggery is mostly sugar, which is energy food for ants. So it should get many ants, like the sugar. Picking 'brown' would matter only if ants found food by colour, but they find it mostly by smell.",
+     "how": "e3",
+     "chart": {
+      "type": "bar",
+      "title": "Made-up results: ants on each bait after 30 minutes",
+      "x": "Bait",
+      "y": "Number of ants",
+      "data": [
+       {
+        "label": "Sugar",
+        "value": 24,
+        "emoji": "🍬"
+       },
+       {
+        "label": "Biscuit",
+        "value": 15,
+        "emoji": "🍪"
+       },
+       {
+        "label": "Salt",
+        "value": 1,
+        "emoji": "🧂"
+       }
+      ]
+     },
+     "context": "In Ant Detectives, you counted the ants on sugar, biscuit and salt after 30 minutes."
+    },
+    {
+     "t": "mcq",
+     "p": "A Ganges river dolphin is nearly blind and lives in muddy water. How do they find fish?",
+     "opts": [
+      "They send out clicks and listen to the echoes",
+      "They see them with big eyes",
+      "They wait for fish to jump into their mouth"
+     ],
+     "a": 0,
+     "why": "The Ganges river dolphin uses echolocation. They send out clicks, and the echoes tell them where fish are. Their eyes are tiny because seeing doesn't help much in muddy water."
+    },
+    {
+     "t": "truefalse",
+     "p": "A mosquito can find you in the dark by sensing the carbon dioxide you breathe out.",
+     "a": true,
+     "why": "True. Mosquitoes sense carbon dioxide from a distance, then follow warmth and smell close up."
+    },
+    {
+     "t": "order",
+     "p": "Predict the order, from fewest breaths a minute to most: elephant, child, mouse.",
+     "items": [
+      "elephant",
+      "child",
+      "mouse"
+     ],
+     "a": "order shown",
+     "why": "Big animals usually breathe more slowly than small ones. An elephant takes only a few breaths a minute. A child takes about 20. A mouse takes more than 100."
+    },
+    {
+     "t": "write",
+     "p": "A cheetah hunts by chasing. A crocodile hunts by waiting. Which do you think needs to breathe faster while hunting? Why?",
+     "lines": 3,
+     "a": "The cheetah. Chasing at high speed uses a lot of muscle, and working muscles need a lot of oxygen. A crocodile waiting still uses very little oxygen.",
+     "why": "Breathing rate goes with how hard the muscles are working."
+    },
+    {
+     "t": "label",
+     "p": "Label the parts on the drawing of the breathing system: nose, windpipe, lungs, diaphragm.",
+     "a": [
+      "nose",
+      "windpipe",
+      "lungs",
+      "diaphragm"
+     ],
+     "why": "Air goes in through the nose, down the windpipe, into the lungs. The diaphragm under the lungs pulls down to bring air in.",
+     "art": "An outline of a child's upper body with the breathing system drawn in and four blank label lines."
     },
     {
      "t": "match",
@@ -1083,77 +1142,33 @@
      "why": "Each animal's body fits their way of eating: flat teeth for grazing, long legs for chasing, stillness for waiting, a sieve beak for filtering, a web for trapping, and a strong stomach for scavenging."
     },
     {
-     "t": "mcq",
-     "p": "Look at the ant chart. How many ants were on the sugar and biscuit together?",
-     "opts": [
-      "39",
-      "25",
-      "24"
+     "t": "perspective",
+     "p": "Earthworms often lie on wet roads after heavy rain. People explain this in different ways.",
+     "views": [
+      {
+       "who": "Anjali, who grows plants on her terrace",
+       "says": "They come up so they don't drown in the wet soil."
+      },
+      {
+       "who": "A scientist who studies worms",
+       "says": "Worms can live for a long time in water that has oxygen in it. They come up because wet ground lets them travel far without drying out."
+      },
+      {
+       "who": "Ishita, in Class 4",
+       "says": "Rain drumming on the ground feels like a mole digging, so they escape."
+      }
      ],
-     "a": 0,
-     "why": "24 ants on the sugar plus 15 on the biscuit makes 24 + 15 = 39. Picking 25 means adding the sugar and the salt instead. Read the labels under each bar carefully.",
-     "how": "e3",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up results: ants on each bait after 30 minutes",
-      "x": "Bait",
-      "y": "Number of ants",
-      "data": [
-       {
-        "label": "Sugar",
-        "value": 24,
-        "emoji": "🍬"
-       },
-       {
-        "label": "Biscuit",
-        "value": 15,
-        "emoji": "🍪"
-       },
-       {
-        "label": "Salt",
-        "value": 1,
-        "emoji": "🧂"
-       }
-      ]
-     },
-     "context": "In Ant Detectives, you counted ants on three baits after 30 minutes."
-    },
-    {
-     "t": "mcq",
-     "p": "A Ganges river dolphin is nearly blind and lives in muddy water. How do they find fish?",
-     "opts": [
-      "They send out clicks and listen to the echoes",
-      "They see them with big eyes",
-      "They wait for fish to jump into their mouth"
-     ],
-     "a": 0,
-     "why": "The Ganges river dolphin uses echolocation. They send out clicks, and the echoes tell them where fish are. Their eyes are tiny because seeing doesn't help much in muddy water."
-    },
-    {
-     "t": "truefalse",
-     "p": "A mosquito can find you in the dark by sensing the carbon dioxide you breathe out.",
-     "a": true,
-     "why": "True. Mosquitoes sense carbon dioxide from a distance, then follow warmth and smell close up."
-    },
-    {
-     "t": "order",
-     "p": "Put these in order, from fewest breaths a minute to most: elephant, child, mouse.",
-     "items": [
-      "elephant",
-      "child",
-      "mouse"
-     ],
-     "a": "order shown",
-     "why": "Big animals usually breathe more slowly than small ones. An elephant takes only a few breaths a minute. A child takes about 20. A mouse takes more than 100."
+     "ask": "Pick the idea you think is most likely. Give your reason. Then say how you could test one of the ideas.",
+     "lines": 5,
+     "a": "A strong answer picks one idea and gives evidence, for example that worms breathe through damp skin. It plans a fair test, for example drumming on damp soil with no rain to see if worms come up. It also says what is good about another idea.",
+     "why": "Scientists still argue about this, and more than one reason may be true. Testing one idea at a time is how they find out."
     },
     {
      "t": "write",
-     "p": "In the limewater test, why did we also push room air into a second glass?",
+     "p": "In the story 'The Fish in the Palm Tree', Selvi's grandmother keeps climbing perch in a pot of wet mud and wet leaves. The fish live for days. Why must the mud stay damp, even for a fish that breathes air?",
      "lines": 3,
-     "a": "To make it a fair test. We needed to compare breathed-out air with ordinary air. If only the breath glass went milky, we know it was something in the breath, carbon dioxide, and not just bubbles.",
-     "why": "A comparison shows that the milkiness comes from what is in breath, not from bubbling.",
-     "how": "e2",
-     "context": "In the Limewater Test, one glass got breathed-out air and the other got room air pushed out of a squeezed bottle."
+     "a": "The climbing perch gulps air, but oxygen still has to pass through a thin, damp surface into the blood. If the fish dries out, their gills and labyrinth organ stop working, and they cannot breathe.",
+     "why": "Every breathing surface must be damp, because oxygen has to dissolve in water before it can pass into blood."
     },
     {
      "t": "mcq",
@@ -1167,29 +1182,10 @@
      "why": "Diving animals can't breathe underwater. Extra stored oxygen lets them hunt for longer before coming up. Some deep-diving whales stay down for over an hour."
     },
     {
-     "t": "label",
-     "p": "Label the parts on the drawing of the breathing system: nose, windpipe, lungs, diaphragm.",
-     "a": [
-      "nose",
-      "windpipe",
-      "lungs",
-      "diaphragm"
-     ],
-     "why": "Air goes in through the nose, down the windpipe, into the lungs. The diaphragm under the lungs pulls down to bring air in.",
-     "art": "An outline of a child's upper body with the breathing system drawn in and four blank label lines."
-    },
-    {
-     "t": "odd",
-     "p": "Which one is the odd one out, and why? Earthworm, rohu fish, crab, prawn.",
-     "a": "earthworm",
-     "why": "The earthworm breathes through their skin. The rohu, crab and prawn all breathe with gills."
-    },
-    {
-     "t": "write",
-     "p": "A cheetah hunts by chasing. A crocodile hunts by waiting. Which do you think needs to breathe faster while hunting? Why?",
-     "lines": 3,
-     "a": "The cheetah. Chasing at high speed uses a lot of muscle, and working muscles need a lot of oxygen. A crocodile waiting still uses very little oxygen.",
-     "why": "Breathing rate goes with how hard the muscles are working."
+     "t": "truefalse",
+     "p": "A crab who walks on the beach breathes with gills.",
+     "a": true,
+     "why": "True. Crabs breathe with gills, even on land. They keep their gills damp inside a covered space on each side of their body. If the gills dry out, the crab cannot breathe."
     }
    ]
   },
@@ -1224,22 +1220,29 @@
      "why": "True. Plants and algae make oxygen when they make food from sunlight. Scientists think about half of the oxygen made each year comes from tiny algae in the sea."
     },
     {
-     "t": "mcq",
-     "p": "Charles Darwin thought swim bladders came first and later turned into lungs. Many biologists today think the opposite. What does this show about science?",
-     "opts": [
-      "Scientists change their ideas when new evidence comes in",
-      "Darwin was always wrong",
-      "Nobody knows anything about fish"
+     "t": "perspective",
+     "p": "Scientists have argued about where lungs came from.",
+     "views": [
+      {
+       "who": "Charles Darwin, in 1859",
+       "says": "Lungs came from the swim bladder, the air bag that many fish use to float."
+      },
+      {
+       "who": "Many biologists today",
+       "says": "Lungs came first, in early fish that gulped air in warm, muddy water. The swim bladder came later, from those lungs."
+      }
      ],
-     "a": 0,
-     "why": "Science improves when new evidence is found, such as studies of old kinds of fish and fossils. Darwin got many big things right. Changing one idea does not make all his work wrong."
+     "ask": "Which idea do you find more likely? What evidence would help you decide? Then say why the other idea once seemed sensible.",
+     "lines": 5,
+     "a": "A strong answer picks a side and names evidence, for example that some old kinds of fish alive today, like lungfish, have lungs and gulp air in muddy water. It explains why Darwin's idea seemed sensible: both are air bags in the body. It says that new evidence can change scientists' minds.",
+     "why": "Darwin's idea was reasonable for his time. Studies of living fish and fossils now point the other way. Science changes when evidence changes."
     },
     {
      "t": "write",
-     "p": "Why can't you see oxygen going into your blood, even though it happens with every breath?",
+     "p": "Bar-headed geese fly over the Himalayas, where each breath of air holds much less oxygen. Predict two things about their bodies that would help them get enough oxygen.",
      "lines": 3,
-     "a": "Oxygen is a gas with no colour. It passes into the blood through walls thinner than tissue paper, inside the lungs, where we can't see.",
-     "why": "Oxygen has no colour, and it passes into the blood deep inside the lungs, through walls far too thin to see."
+     "a": "For example: big lungs that take in a lot of air, blood that picks up oxygen very easily, a strong heart that pumps fast, or breathing deeply. Real bar-headed geese have all of these.",
+     "why": "When each breath carries less oxygen, an animal needs to take in more air or pick up oxygen better."
     },
     {
      "t": "mcq",
@@ -1253,28 +1256,21 @@
      "why": "Many moths dodge or drop when they hear a bat's high sounds. Some even make clicks that confuse bats. Predator and prey keep changing each other over a very long time."
     },
     {
-     "t": "write",
-     "p": "Earthworms come up onto roads after rain. Scientists have three ideas: to breathe, to travel, or to escape moles. Pick the one you think is most likely and say how you could test it.",
-     "lines": 5,
-     "a": "For example: I think they come up to travel. I could put worms in two trays of soil, one wet and one dry, and see where they move. Or I could put a worm in a jar of water that has air bubbled through it, and see if they stay healthy.",
-     "why": "Any careful test idea is a good answer. Scientists are still testing these ideas."
-    },
-    {
      "t": "mcq",
-     "p": "A Cuvier's beaked whale stayed underwater for 222 minutes. About how many hours is that?",
+     "p": "A Cuvier's beaked whale once stayed under water for 222 minutes, nearly 4 hours. Which is the best reason a whale can do this?",
      "opts": [
-      "Nearly 4 hours",
-      "About 2 hours",
-      "About 22 hours"
+      "They store a lot of oxygen in their blood and muscles, and their heart slows down while diving",
+      "They have gills hidden behind their flippers",
+      "They breathe through their skin under water"
      ],
      "a": 0,
-     "why": "One hour is 60 minutes. Four hours is 240 minutes. 222 is a bit less than 240, so nearly 4 hours. Picking 22 hours means reading the digits instead of dividing by 60."
+     "why": "Whales have lungs and no gills, so they cannot breathe under water. Their blood and muscles hold extra oxygen, and their body uses it slowly while diving. Picking 'gills' is the old idea that whales are fish."
     },
     {
      "t": "truefalse",
-     "p": "Almost every cell in your body uses oxygen, not just your lungs.",
-     "a": true,
-     "why": "True. The lungs only bring oxygen in. Cells in your toes, your brain and your eyes use it to get energy from food. Red blood cells are an exception: they carry oxygen but do not use it."
+     "p": "Plants make oxygen, so plants never need to take oxygen in.",
+     "a": false,
+     "why": "False. Plant cells also use oxygen to get energy from their food, day and night. In sunlight, plants make much more oxygen than they use. At night, they only take it in."
     },
     {
      "t": "mcq",
@@ -1295,51 +1291,40 @@
      "why": "Plants and animals use some of the same chemicals to use oxygen. This makes sense, because all living things share one ancestor."
     },
     {
-     "t": "mcq",
-     "p": "Bar-headed geese fly over the Himalayas, where the air is thin. What does 'thin air' mean for breathing?",
-     "opts": [
-      "Each breath has less oxygen in it",
-      "The air is very cold, so it can't be breathed",
-      "There is no air at all"
-     ],
-     "a": 0,
-     "why": "High up, the air is spread out more, so each breath carries less oxygen. Bar-headed geese have blood that picks up oxygen easily, big lungs and strong hearts. Picking 'no air at all' is too strong. There is air, just less of it in each breath."
-    },
-    {
      "t": "sort",
-     "p": "Sort these senses: which ones do people have, and which do only some other animals have?",
+     "p": "Imagine the bottom of a dark, muddy river. Sort these senses: which would work well there, and which would hardly work?",
      "cats": [
-      "People have it",
-      "Only some other animals"
+      "Would work well",
+      "Would hardly work"
      ],
      "items": [
       [
-       "smell",
-       "People have it"
+       "smell and taste",
+       "Would work well"
       ],
       [
        "echolocation",
-       "Only some other animals"
+       "Would work well"
       ],
       [
-       "sensing heat with face pits",
-       "Only some other animals"
+       "seeing colours",
+       "Would hardly work"
       ],
       [
-       "hearing",
-       "People have it"
+       "feeling with whiskers",
+       "Would work well"
       ],
       [
-       "feeling electricity in water",
-       "Only some other animals"
+       "spotting prey from far away by sight",
+       "Would hardly work"
       ],
       [
-       "sight",
-       "People have it"
+       "feeling electricity in the water",
+       "Would work well"
       ]
      ],
      "a": "see items",
-     "why": "People see, hear, smell, taste and touch. Bats and dolphins use echolocation. Pit vipers sense heat. Sharks feel electricity. Some blind people do learn to use clicks and echoes too, which shows how much a brain can learn."
+     "why": "Light hardly reaches muddy water, so eyes help little. Smell, taste, touch, echoes and electricity all work in the dark. The Ganges river dolphin uses echoes, and catfish taste the water with their whiskers."
     },
     {
      "t": "write",
@@ -1350,14 +1335,16 @@
     },
     {
      "t": "mcq",
-     "p": "A gill takes oxygen from water. A lung takes oxygen from air. A frog's skin takes oxygen from both. What do all three really do?",
+     "p": "Karthik, a boy in Class 4, says, 'We breathe in oxygen and breathe out carbon dioxide instead.' His sister Divya has done the Limewater Test and read about breath. What should Divya tell him?",
      "opts": [
-      "Let oxygen pass through a thin, damp wall into blood",
-      "Store oxygen for later",
-      "Make oxygen from food"
+      "Breathed-out air still has a lot of oxygen. It also has much more carbon dioxide than room air",
+      "He is completely right",
+      "We breathe out only water"
      ],
      "a": 0,
-     "why": "All three are thin, damp walls with blood underneath. Oxygen passes through into the blood. Picking 'make oxygen' mixes animals up with plants. Plants and algae make oxygen. Animals only take it in."
+     "why": "Room air has about 21 parts in 100 oxygen, and breathed-out air still has about 16. Your body takes only a small part of the oxygen in each breath. Breath also carries about 100 times more carbon dioxide than room air.",
+     "how": "e2",
+     "context": "In the Limewater Test, you bubbled your breath into one glass of limewater and pushed room air from a squeezed bottle into another glass."
     },
     {
      "t": "write",
@@ -1367,6 +1354,30 @@
      "why": "Respiration turns food and oxygen into energy, carbon dioxide and water. So part of every meal leaves the body in the breath.",
      "how": "e2",
      "context": "In the Limewater Test, you bubbled your breath into limewater and it turned milky."
+    },
+    {
+     "t": "match",
+     "p": "Match each animal's problem to the body part or trick that solves it.",
+     "pairs": [
+      [
+       "climbing perch, in warm water with little oxygen",
+       "a labyrinth organ to breathe gulped air"
+      ],
+      [
+       "Cuvier's beaked whale, with no air for hours",
+       "oxygen stored in blood and muscles"
+      ],
+      [
+       "earthworm, living in soil",
+       "thin, damp skin that takes in oxygen"
+      ],
+      [
+       "grasshopper, whose muscles need air",
+       "air pipes that reach every part of the body"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each body solves the same problem, getting oxygen to the cells, in a way that fits where the animal lives."
     }
    ]
   }
@@ -2912,14 +2923,14 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Why do animals need oxygen?",
+   "p": "A dog is fast asleep and not moving at all. Why does she still breathe?",
    "opts": [
-    "Their cells use oxygen to get energy from food",
-    "Only to make their blood red",
-    "They don't. Only land animals need oxygen"
+    "Her cells still need oxygen to get energy from food, even in sleep",
+    "To keep her nose wet",
+    "She doesn't. Animals stop breathing in sleep"
    ],
    "a": 0,
-   "why": "Almost every cell uses oxygen to release energy from food. Picking 'only land animals' is a common idea, but fish, crabs and worms need oxygen too. They just get it in different ways.",
+   "why": "Even asleep, a dog's heart beats, her brain works and her body stays warm. All of that uses energy, so her cells keep using oxygen. She just breathes more slowly than when she runs.",
    "outcome": 0
   },
   {
@@ -3090,17 +3101,15 @@
   },
   {
    "t": "mcq",
-   "p": "Your breath turned limewater milky because it has carbon dioxide in it. Where did the carbon in that gas come from?",
+   "p": "Plants take in carbon dioxide to make their food. You breathe carbon dioxide out. What does this mean?",
    "opts": [
-    "From the food you ate",
-    "From the chuna",
-    "From the room air you breathed in"
+    "Some carbon from the food you ate can end up in a plant's leaf",
+    "Plants and people never share anything",
+    "Plants make carbon dioxide for us to breathe"
    ],
    "a": 0,
-   "why": "Your cells use oxygen to get energy from food, and the carbon in the food comes out as carbon dioxide. Picking 'room air' is a fair guess, but room air has about 100 times less carbon dioxide than your breath. Picking 'the chuna' mixes up the test with the thing being tested.",
-   "outcome": 7,
-   "how": "e2",
-   "context": "In the Limewater Test, you bubbled your breath into limewater and it turned milky."
+   "why": "The carbon in your breath came from your food. A plant can take in that carbon dioxide and build it into a new leaf. Picking 'plants make carbon dioxide for us' gets it backwards. Plants give out oxygen in sunlight.",
+   "outcome": 7
   }
  ],
  "applications": [
